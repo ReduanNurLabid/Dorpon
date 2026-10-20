@@ -2,10 +2,12 @@ import React, { useState, useEffect } from 'react';
 import { useApp } from '../context/AppContext';
 import { 
   X, 
+  ArrowLeft,
   Bookmark, 
   Share2, 
   Headphones, 
-  Volume2, 
+  Pause,
+  Play,
   Check, 
   Type, 
   Maximize2, 
@@ -17,7 +19,6 @@ import {
   HelpCircle,
   ShieldCheck,
   Compass,
-  ThumbsUp,
   Lightbulb,
   Award
 } from 'lucide-react';
@@ -42,8 +43,11 @@ export const StudyCanvasModal: React.FC = () => {
     isSaved,
     toggleSave,
     playStoryAudio,
+    pauseAudio,
+    resumeAudio,
     isPlayingAudio,
     currentAudioStory,
+    audioProgress,
     t,
   } = useApp();
 
@@ -68,6 +72,7 @@ export const StudyCanvasModal: React.FC = () => {
   const bcs = activeStory.bcs_pro;
   const bookmarked = isSaved(activeStory.story_id);
   const isAudioActive = currentAudioStory?.story_id === activeStory.story_id && isPlayingAudio;
+  const isAudioCurrentStory = currentAudioStory?.story_id === activeStory.story_id;
 
   const headline = isBn
     ? (buzz.title_bn || buzz.title_en)
@@ -76,10 +81,6 @@ export const StudyCanvasModal: React.FC = () => {
   const summary = isBn
     ? (buzz.summary_bn || buzz.summary_en)
     : (buzz.summary_en || buzz.summary_bn);
-
-  const whyInNews = isBn
-    ? (bcs?.why_in_the_news_bn || summary)
-    : (bcs?.why_in_the_news_en || summary);
 
   const bullets = isBn
     ? (buzz.bullets_bn && buzz.bullets_bn.length > 0 ? buzz.bullets_bn : [buzz.summary_bn])
@@ -134,6 +135,16 @@ export const StudyCanvasModal: React.FC = () => {
     }
   };
 
+  const toggleThisStoryAudio = () => {
+    if (isAudioActive) {
+      pauseAudio();
+    } else if (isAudioCurrentStory) {
+      resumeAudio();
+    } else {
+      playStoryAudio(activeStory);
+    }
+  };
+
   const fontClass = isSerif ? 'font-serif' : 'font-sans';
   const textBodySize =
     fontSize === 'sm' ? 'text-sm sm:text-base leading-relaxed' :
@@ -141,40 +152,56 @@ export const StudyCanvasModal: React.FC = () => {
     'text-base sm:text-lg leading-relaxed';
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 md:p-6 overflow-y-auto backdrop-blur-2xl bg-black/80 animate-fadeIn">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 md:p-6 overflow-y-auto backdrop-blur-2xl bg-black/85 animate-fadeIn">
       {/* Click outside backdrop */}
       <div className="fixed inset-0" onClick={closeStory} />
 
       <div className="relative w-full max-w-4xl min-h-screen sm:min-h-0 sm:max-h-[92vh] flex flex-col bg-obsidian-bg sm:rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10">
-        {/* Top Control Bar */}
-        <div className="flex items-center justify-between px-5 sm:px-8 py-4 border-b border-white/[0.08] bg-obsidian-lowest/90 backdrop-blur-md sticky top-0 z-20">
-          <div className="flex items-center space-x-2">
-            <span className="px-3 py-1 rounded-full bg-mint/10 border border-mint/20 text-mint text-xs font-bold uppercase tracking-wider">
+        
+        {/* Sticky Header with Prominent Back & Close */}
+        <div className="flex items-center justify-between px-4 sm:px-8 py-3.5 border-b border-white/[0.08] bg-obsidian-lowest/95 backdrop-blur-xl sticky top-0 z-30">
+          {/* Back Button (Prominent on mobile and desktop) */}
+          <button
+            onClick={closeStory}
+            className="flex items-center space-x-1.5 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full bg-white/[0.08] border border-white/[0.12] text-white hover:bg-mint hover:text-obsidian-bg hover:border-mint transition-all duration-200 group"
+            title="Go Back"
+          >
+            <ArrowLeft className="w-4 h-4 group-hover:-translate-x-0.5 transition-transform" />
+            <span className="text-xs sm:text-sm font-bold">
+              {isBn ? 'ফিরে যান' : 'Back'}
+            </span>
+          </button>
+
+          {/* Center Category Badge */}
+          <div className="flex items-center space-x-2 truncate px-2">
+            <span className="px-2.5 py-0.5 rounded-full bg-mint/10 border border-mint/20 text-mint text-[11px] font-bold uppercase tracking-wider truncate">
               {categoryLabel}
             </span>
             {activeStory.is_bcs_pro_selected && (
-              <span className="px-2.5 py-1 rounded-full bg-gold/15 border border-gold/30 text-gold-bright text-xs font-bold flex items-center space-x-1">
-                <Sparkles className="w-3.5 h-3.5 mr-1" />
-                Strategic Dossier
+              <span className="hidden sm:inline-flex items-center space-x-1 px-2.5 py-0.5 rounded-full bg-gold/15 border border-gold/30 text-gold text-[11px] font-bold">
+                <Sparkles className="w-3 h-3 mr-1" />
+                Dossier
               </span>
             )}
           </div>
 
+          {/* Right Action Icons */}
           <div className="flex items-center space-x-1.5 sm:space-x-2">
-            {/* Audio Listen */}
+            {/* Listen Button */}
             <button
-              onClick={() => playStoryAudio(activeStory)}
-              className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-full border text-xs font-semibold transition-all ${
+              onClick={toggleThisStoryAudio}
+              className={`flex items-center space-x-1 px-2.5 py-1.5 rounded-full border text-xs font-semibold transition-all ${
                 isAudioActive
-                  ? 'bg-mint text-obsidian-bg border-mint shadow-[0_0_15px_rgba(52,211,153,0.4)]'
-                  : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08]'
+                  ? 'bg-mint text-obsidian-bg border-mint shadow-[0_0_12px_rgba(52,211,153,0.4)]'
+                  : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white'
               }`}
+              title="Listen to this article"
             >
-              <Headphones className="w-3.5 h-3.5 text-mint" />
-              <span>{isAudioActive ? t('playing') : t('listen')}</span>
+              {isAudioActive ? <Pause className="w-3.5 h-3.5 fill-current" /> : <Headphones className="w-3.5 h-3.5 text-mint" />}
+              <span className="hidden xs:inline">{isAudioActive ? t('pause') : t('listen')}</span>
             </button>
 
-            {/* Font Mode */}
+            {/* Font Toggle */}
             <button
               onClick={() => setIsSerif(!isSerif)}
               className={`p-2 rounded-full border text-xs transition-all ${
@@ -182,22 +209,9 @@ export const StudyCanvasModal: React.FC = () => {
                   ? 'bg-gold/20 border-gold/40 text-gold'
                   : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white'
               }`}
-              title="Toggle Serif / Sans Font"
+              title="Toggle Serif / Sans"
             >
-              <Type className="w-4 h-4" />
-            </button>
-
-            {/* Focus Mode */}
-            <button
-              onClick={() => setFocusMode(!focusMode)}
-              className={`p-2 rounded-full border text-xs transition-all ${
-                focusMode
-                  ? 'bg-mint/20 border-mint/40 text-mint'
-                  : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white'
-              }`}
-              title="Distraction-Free Focus Mode"
-            >
-              {focusMode ? <Minimize2 className="w-4 h-4" /> : <Maximize2 className="w-4 h-4" />}
+              <Type className="w-3.5 h-3.5" />
             </button>
 
             {/* Bookmark */}
@@ -208,39 +222,67 @@ export const StudyCanvasModal: React.FC = () => {
                   ? 'bg-mint/20 border-mint/40 text-mint'
                   : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white'
               }`}
-              title="Bookmark"
+              title="Save"
             >
-              <Bookmark className="w-4 h-4" fill={bookmarked ? 'currentColor' : 'none'} />
+              <Bookmark className="w-3.5 h-3.5" fill={bookmarked ? 'currentColor' : 'none'} />
             </button>
 
             {/* Share */}
             <button
               onClick={handleShare}
-              className="p-2 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all"
+              className="p-2 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all hidden xs:block"
               title="Share"
             >
-              {copied ? <Check className="w-4 h-4 text-mint" /> : <Share2 className="w-4 h-4" />}
+              {copied ? <Check className="w-3.5 h-3.5 text-mint" /> : <Share2 className="w-3.5 h-3.5" />}
             </button>
 
-            {/* Close */}
+            {/* Direct Close X Button */}
             <button
               onClick={closeStory}
-              className="p-2 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08] transition-all"
-              title="Close"
+              className="p-2 rounded-full bg-white/[0.06] border border-white/[0.1] text-text-secondary hover:text-white hover:bg-red-500/20 hover:border-red-500/40 transition-all"
+              title="Close modal"
             >
               <X className="w-4 h-4" />
             </button>
           </div>
         </div>
 
-        {/* Scrollable Canvas Content */}
-        <div className="flex-1 overflow-y-auto px-5 sm:px-10 py-6 sm:py-8 space-y-8">
-          {/* Article Header */}
+        {/* Scrollable Canvas Body */}
+        <div className="flex-1 overflow-y-auto px-5 sm:px-10 py-6 sm:py-8 space-y-8 pb-28">
+          
+          {/* Integrated Audio Bar */}
+          <div className="p-3.5 sm:p-4 rounded-tile bg-white/[0.03] border border-mint/30 flex items-center justify-between gap-3 shadow-lg">
+            <div className="flex items-center space-x-3 min-w-0">
+              <button
+                onClick={toggleThisStoryAudio}
+                className="p-2.5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_15px_rgba(52,211,153,0.4)] transition-all flex-shrink-0"
+              >
+                {isAudioActive ? <Pause className="w-4 h-4 fill-current" /> : <Play className="w-4 h-4 fill-current ml-0.5" />}
+              </button>
+              <div className="truncate">
+                <span className="text-xs font-bold text-white block truncate">
+                  {isBn ? 'এই সংবাদের অডিও শুনুন' : 'Listen to Audio Briefing'}
+                </span>
+                <span className="text-[11px] text-text-secondary">
+                  {isAudioActive ? t('playing') : `${toBanglaDigits(Math.ceil((buzz.read_time_seconds || 60) / 60))} ${t('minute_read')}`}
+                </span>
+              </div>
+            </div>
+
+            {isAudioCurrentStory && (
+              <div className="w-24 sm:w-36 h-1.5 bg-white/10 rounded-full overflow-hidden flex-shrink-0">
+                <div
+                  className="h-full bg-mint transition-all duration-300"
+                  style={{ width: `${audioProgress}%` }}
+                />
+              </div>
+            )}
+          </div>
+
+          {/* Headline & Metadata */}
           <div>
             <div className="flex items-center space-x-2 text-xs text-text-secondary mb-3">
               <span>{timeFormatted}</span>
-              <span>•</span>
-              <span>{toBanglaDigits(Math.ceil((buzz.read_time_seconds || 60) / 60))} {t('minute_read')}</span>
               {activeStory.sources.length > 0 && (
                 <>
                   <span>•</span>
@@ -257,7 +299,7 @@ export const StudyCanvasModal: React.FC = () => {
 
             {/* Optional Cover Image */}
             {activeStory.image_url && (
-              <div className="rounded-card overflow-hidden bg-obsidian-high border border-white/[0.06] mb-6">
+              <div className="rounded-card overflow-hidden bg-obsidian-high border border-white/[0.06] mb-6 shadow-xl">
                 <img
                   src={activeStory.image_url}
                   alt={activeStory.image_caption || headline}
@@ -492,12 +534,25 @@ export const StudyCanvasModal: React.FC = () => {
 
             <button
               onClick={closeStory}
-              className="px-5 py-2 rounded-full bg-white/[0.06] hover:bg-white/[0.1] text-xs sm:text-sm font-semibold text-white transition-all"
+              className="flex items-center space-x-1.5 px-5 py-2 rounded-full bg-white/[0.08] hover:bg-white/[0.12] text-xs sm:text-sm font-bold text-white transition-all border border-white/[0.1]"
             >
-              {t('close')}
+              <ArrowLeft className="w-4 h-4" />
+              <span>{isBn ? 'ফিরে যান' : 'Go Back'}</span>
             </button>
           </div>
         </div>
+
+        {/* Mobile Persistent Floating Quick-Back Button */}
+        <div className="sm:hidden fixed bottom-6 right-6 z-40">
+          <button
+            onClick={closeStory}
+            className="flex items-center space-x-2 px-4 py-2.5 rounded-full bg-obsidian-lowest/95 border border-mint/40 text-mint text-xs font-bold shadow-[0_8px_25px_rgba(0,0,0,0.8)] backdrop-blur-xl active:scale-95 transition-transform"
+          >
+            <ArrowLeft className="w-4 h-4" />
+            <span>{isBn ? 'ফিরে যান' : 'Go Back'}</span>
+          </button>
+        </div>
+
       </div>
     </div>
   );

@@ -38,6 +38,7 @@ interface AppContextType {
   isPlayingAudio: boolean;
   audioProgress: number; // 0-100 percentage
   audioTimeRemaining: number; // seconds
+  audioDuration: number; // total estimated duration in seconds
   audioPlaybackRate: number;
   setAudioPlaybackRate: (rate: number) => void;
   playStoryAudio: (story: CapsuleStory) => void;
@@ -47,6 +48,8 @@ interface AppContextType {
   stopAudio: () => void;
   playNextAudio: () => void;
   playPrevAudio: () => void;
+  skipAudio: (seconds: number) => void;
+  seekAudio: (percent: number) => void;
 }
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
@@ -84,6 +87,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [currentAudioStory, setCurrentAudioStory] = useState<CapsuleStory | null>(null);
   const [isPlayingAudio, setIsPlayingAudio] = useState<boolean>(false);
   const [audioProgress, setAudioProgress] = useState<number>(0);
+  const [audioDuration, setAudioDuration] = useState<number>(60);
   const [audioTimeRemaining, setAudioTimeRemaining] = useState<number>(60);
   const [audioPlaybackRate, setAudioPlaybackRateState] = useState<number>(1.0);
 
@@ -91,13 +95,23 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
   const progressTimerRef = useRef<number | null>(null);
   const chimeAudioRef = useRef<HTMLAudioElement | null>(null);
+  const elapsedSecsRef = useRef<number>(0);
+  const totalDurationRef = useRef<number>(60);
+  const availableVoicesRef = useRef<SpeechSynthesisVoice[]>([]);
 
   useEffect(() => {
     if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
       synthRef.current = window.speechSynthesis;
+      const updateVoices = () => {
+        availableVoicesRef.current = synthRef.current?.getVoices() || [];
+      };
+      updateVoices();
+      if (synthRef.current.onvoiceschanged !== undefined) {
+        synthRef.current.onvoiceschanged = updateVoices;
+      }
     }
     chimeAudioRef.current = new Audio('/data/transition_chime.wav');
-    chimeAudioRef.current.volume = 0.4;
+    chimeAudioRef.current.volume = 0.3;
   }, []);
 
   const setLanguage = (lang: Language) => {
@@ -147,12 +161,10 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     setActiveStory(null);
   };
 
-  // Translation helper
   const t = (key: keyof typeof translations['en']): string => {
     return translations[language][key] || translations['en'][key] || key;
   };
 
-  // Fetch feeds
   const refreshFeeds = async () => {
     setIsLoading(true);
     try {
@@ -183,7 +195,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     return Array.from(map.values());
   }, [buzzStories, currentAffairs, hourlyWires]);
 
-  // Audio Playback
+  // Audio Player Engine
   const stopAudio = () => {
     if (synthRef.current) {
       synthRef.current.cancel();
@@ -194,6 +206,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     }
     setIsPlayingAudio(false);
     setAudioProgress(0);
+    elapsedSecsRef.current = 0;
   };
 
   const playStoryAudio = (story: CapsuleStory) => {
@@ -207,8 +220,16 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     const whyItMatters = isBn ? (buzz.why_it_matters_bn || buzz.summary_bn) : (buzz.why_it_matters_en || buzz.summary_en);
 
     const fullSpeechText = `${title}. ` +
-      (bullets.length > 0 ? `Key takeaways: ${bullets.join('. ')}. ` : '') +
-      `Why it matters: ${whyItMatters}`;
+      (bullets.length > 0 ? (isBn ? `মূল বার্তা: ${bullets.join('। ')}। ` : `Key takeaways: ${bullets.join('. ')}. `) : '') +
+      (whyItMatters ? (isBn ? `কেন এটি গুরুত্বপূর্ণ: ${whyItMatters}` : `Why it matters: ${whyItMatters}`) : '');
+
+    const wordCount = fullSpeechText.split(/\s+/).length;
+    const estimatedDurationSecs = Math.max(25, Math.round(wordCount / (2.5 * audioPlaybackRate)));
+    totalDurationRef.current = estimatedDurationSecs;
+    elapsedSecsRef.current = 0;
+    setAudioDuration(estimatedDurationSecs);
+    setAudioTimeRemaining(estimatedDurationSecs);
+    setAudioProgress(0);
 
     if (!synthRef.current) {
       setIsPlayingAudio(true);
@@ -219,25 +240,21 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     utterance.rate = audioPlaybackRate;
     utterance.pitch = 1.0;
 
-    // Pick appropriate voice
-    const voices = synthRef.current.getVoices();
+    const voices = availableVoicesRef.current.length > 0 ? availableVoicesRef.current : synthRef.current.getVoices();
     if (isBn) {
       const bnVoice = voices.find(v => v.lang.startsWith('bn') || v.name.toLowerCase().includes('bangla') || v.name.toLowerCase().includes('bengali'));
       if (bnVoice) utterance.voice = bnVoice;
     } else {
-      const enVoice = voices.find(v => v.lang.startsWith('en-US') || v.lang.startsWith('en-GB') || v.name.includes('Natural'));
+      const naturalEn = voices.find(v => v.lang.startsWith('en') && (v.name.includes('Natural') || v.name.includes('Google') || v.name.includes('Samantha')));
+      const enVoice = naturalEn || voices.find(v => v.lang.startsWith('en-US') || v.lang.startsWith('en'));
       if (enVoice) utterance.voice = enVoice;
     }
 
-    const estimatedDurationSecs = Math.max(30, Math.round(fullSpeechText.split(/\s+/).length / (2.5 * audioPlaybackRate)));
-    setAudioTimeRemaining(estimatedDurationSecs);
-    let elapsedSecs = 0;
-
     progressTimerRef.current = window.setInterval(() => {
-      elapsedSecs += 0.5;
-      const pct = Math.min(100, Math.round((elapsedSecs / estimatedDurationSecs) * 100));
+      elapsedSecsRef.current += 0.5;
+      const pct = Math.min(100, Math.round((elapsedSecsRef.current / totalDurationRef.current) * 100));
       setAudioProgress(pct);
-      setAudioTimeRemaining(Math.max(0, Math.round(estimatedDurationSecs - elapsedSecs)));
+      setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
       if (pct >= 100) {
         if (progressTimerRef.current) {
           window.clearInterval(progressTimerRef.current);
@@ -253,11 +270,10 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         window.clearInterval(progressTimerRef.current);
         progressTimerRef.current = null;
       }
-      // Play subtle chime on finish
       try {
         chimeAudioRef.current?.play().catch(() => {});
       } catch {}
-      // Auto-progress to next story if available
+      // Auto-progress
       playNextAudio();
     };
 
@@ -314,6 +330,20 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     playStoryAudio(buzzStories[prevIndex]);
   };
 
+  const skipAudio = (seconds: number) => {
+    elapsedSecsRef.current = Math.max(0, Math.min(totalDurationRef.current, elapsedSecsRef.current + seconds));
+    const pct = Math.min(100, Math.round((elapsedSecsRef.current / totalDurationRef.current) * 100));
+    setAudioProgress(pct);
+    setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
+  };
+
+  const seekAudio = (percent: number) => {
+    const clamped = Math.max(0, Math.min(100, percent));
+    elapsedSecsRef.current = (clamped / 100) * totalDurationRef.current;
+    setAudioProgress(clamped);
+    setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
+  };
+
   const setAudioPlaybackRate = (rate: number) => {
     setAudioPlaybackRateState(rate);
     if (currentAudioStory && isPlayingAudio) {
@@ -357,6 +387,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         isPlayingAudio,
         audioProgress,
         audioTimeRemaining,
+        audioDuration,
         audioPlaybackRate,
         setAudioPlaybackRate,
         playStoryAudio,
@@ -366,6 +397,8 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         stopAudio,
         playNextAudio,
         playPrevAudio,
+        skipAudio,
+        seekAudio,
       }}
     >
       {children}

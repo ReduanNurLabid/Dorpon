@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { useApp } from '../context/AppContext';
 import { 
   X, 
@@ -7,8 +7,6 @@ import {
   SkipForward, 
   SkipBack, 
   Headphones, 
-  Volume2, 
-  Sparkles,
   RotateCcw,
   RotateCw,
   ListOrdered
@@ -24,8 +22,11 @@ export const AudioPlayerSheet: React.FC = () => {
     toggleAudio,
     playNextAudio,
     playPrevAudio,
+    skipAudio,
+    seekAudio,
     audioProgress,
     audioTimeRemaining,
+    audioDuration,
     audioPlaybackRate,
     setAudioPlaybackRate,
     buzzStories,
@@ -33,6 +34,8 @@ export const AudioPlayerSheet: React.FC = () => {
     language,
     t,
   } = useApp();
+
+  const progressRef = useRef<HTMLDivElement | null>(null);
 
   if (!isAudioSheetOpen || !currentAudioStory) return null;
 
@@ -43,9 +46,15 @@ export const AudioPlayerSheet: React.FC = () => {
     : (buzz.title_en || buzz.title_bn);
 
   const categoryLabel = getLocalizedCategory(currentAudioStory.primary_category, isBn);
-  const bullets = isBn ? (buzz.bullets_bn || []) : (buzz.bullets_en || []);
-
   const speeds = [1, 1.25, 1.5, 2];
+
+  const handleScrub = (e: React.MouseEvent<HTMLDivElement>) => {
+    if (!progressRef.current) return;
+    const rect = progressRef.current.getBoundingClientRect();
+    const clickX = e.clientX - rect.left;
+    const pct = Math.max(0, Math.min(100, (clickX / rect.width) * 100));
+    seekAudio(pct);
+  };
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 md:p-6 backdrop-blur-2xl bg-black/85 animate-fadeIn">
@@ -94,11 +103,16 @@ export const AudioPlayerSheet: React.FC = () => {
           </h3>
         </div>
 
-        {/* Progress Bar & Time */}
+        {/* Clickable Progress Bar & Time */}
         <div className="mb-6">
-          <div className="h-1.5 w-full bg-white/10 rounded-full overflow-hidden mb-2">
+          <div 
+            ref={progressRef}
+            onClick={handleScrub}
+            className="h-2 w-full bg-white/10 rounded-full cursor-pointer overflow-hidden mb-2"
+            title="Click to scrub audio"
+          >
             <div
-              className="h-full bg-mint shadow-[0_0_12px_rgba(52,211,153,0.8)] transition-all duration-300"
+              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_12px_rgba(52,211,153,0.8)] transition-all duration-200"
               style={{ width: `${audioProgress}%` }}
             />
           </div>
@@ -112,9 +126,18 @@ export const AudioPlayerSheet: React.FC = () => {
           </div>
         </div>
 
-        {/* Playback Controls */}
-        <div className="flex items-center justify-center space-x-4 sm:space-x-6 mb-8">
-          {/* Previous */}
+        {/* Playback Controls with 10s Skip */}
+        <div className="flex items-center justify-center space-x-3 sm:space-x-5 mb-8">
+          {/* Skip -10s */}
+          <button
+            onClick={() => skipAudio(-10)}
+            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all"
+            title="Rewind 10s"
+          >
+            <RotateCcw className="w-4 h-4" />
+          </button>
+
+          {/* Previous Story */}
           <button
             onClick={playPrevAudio}
             className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all"
@@ -136,13 +159,22 @@ export const AudioPlayerSheet: React.FC = () => {
             )}
           </button>
 
-          {/* Next */}
+          {/* Next Story */}
           <button
             onClick={playNextAudio}
             className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all"
             title="Next Story"
           >
             <SkipForward className="w-5 h-5" />
+          </button>
+
+          {/* Skip +10s */}
+          <button
+            onClick={() => skipAudio(10)}
+            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all"
+            title="Forward 10s"
+          >
+            <RotateCw className="w-4 h-4" />
           </button>
         </div>
 

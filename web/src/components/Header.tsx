@@ -1,6 +1,17 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
-import { Headphones, Volume2, Type, Sparkles, Settings as SettingsIcon } from 'lucide-react';
+import { TabType } from '../types';
+import { 
+  Headphones, 
+  Volume2, 
+  Type, 
+  Settings as SettingsIcon,
+  Flame,
+  BookOpen,
+  Compass,
+  Bookmark,
+  Sparkles
+} from 'lucide-react';
 import { toBanglaDigits } from '../utils/bilingual';
 
 export const Header: React.FC = () => {
@@ -9,6 +20,9 @@ export const Header: React.FC = () => {
     toggleLanguage,
     isSerif,
     setIsSerif,
+    activeTab,
+    setActiveTab,
+    savedStoryIds,
     t,
     isPlayingAudio,
     toggleAudio,
@@ -18,63 +32,92 @@ export const Header: React.FC = () => {
 
   const isBn = language === 'bn';
 
-  const getGreeting = () => {
-    const hour = new Date().getHours();
-    if (hour >= 5 && hour < 12) return t('good_morning');
-    if (hour >= 12 && hour < 17) return t('good_afternoon');
-    if (hour >= 17 && hour < 21) return t('good_evening');
-    return t('welcome_back');
-  };
-
-  const getFormattedDate = () => {
-    const now = new Date();
-    if (isBn) {
-      const weekdaysBn = ['রবিবার', 'সোমবার', 'মঙ্গলবার', 'বুধবার', 'বৃহস্পতিবার', 'শুক্রবার', 'শনিবার'];
-      const monthsBn = ['জানু', 'ফেব্রু', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টে', 'অক্টো', 'নভে', 'ডিসে'];
-      const dayName = weekdaysBn[now.getDay()];
-      const monthName = monthsBn[now.getMonth()];
-      return `দৈনিক ব্রিফ • ${dayName}, ${monthName} ${toBanglaDigits(now.getDate())}`;
-    }
-    const weekdays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-    return `Daily Brief • ${weekdays[now.getDay()]}, ${months[now.getMonth()]} ${now.getDate()}`;
-  };
+  const desktopNavItems: { id: TabType; labelKey: any; icon: React.ReactNode; isGold?: boolean }[] = [
+    {
+      id: 'top_stories',
+      labelKey: 'top_stories',
+      icon: <Flame className="w-4 h-4" />,
+    },
+    {
+      id: 'current_affairs',
+      labelKey: 'current_affairs',
+      icon: <BookOpen className="w-4 h-4" />,
+      isGold: true,
+    },
+    {
+      id: 'discover',
+      labelKey: 'discover',
+      icon: <Compass className="w-4 h-4" />,
+    },
+    {
+      id: 'saved',
+      labelKey: 'saved',
+      icon: <Bookmark className="w-4 h-4" />,
+    },
+  ];
 
   return (
-    <header className="sticky top-0 z-30 w-full backdrop-blur-xl bg-obsidian-bg/80 border-b border-white/[0.06] transition-all">
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between">
-        {/* Brand & Greeting */}
-        <div className="flex items-center space-x-3 sm:space-x-4">
-          <div className="relative flex items-center justify-center w-10 h-10 sm:w-11 sm:h-11 rounded-2xl bg-gradient-to-br from-mint/20 via-mint/5 to-transparent border border-mint/30 shadow-[0_0_20px_rgba(52,211,153,0.15)] overflow-hidden">
+    <header className="sticky top-0 z-40 w-full backdrop-blur-2xl bg-obsidian-bg/90 border-b border-white/[0.08] transition-all">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between gap-4">
+        {/* Full Size SVG Logo & Branding */}
+        <div 
+          onClick={() => setActiveTab('top_stories')}
+          className="flex items-center space-x-3 cursor-pointer group flex-shrink-0"
+        >
+          <div className="relative w-10 h-10 sm:w-12 sm:h-12 rounded-full overflow-hidden bg-black/40 border border-mint/30 shadow-[0_0_20px_rgba(52,211,153,0.2)] flex items-center justify-center p-0.5 group-hover:scale-105 group-hover:border-mint transition-all duration-300">
             <img 
               src="/Dorpon_logo.svg" 
-              alt="Dorpon Logo" 
-              className="w-6 h-6 sm:w-7 sm:h-7 object-contain drop-shadow" 
-              onError={(e) => {
-                // fallback if svg fails to load
-                (e.target as HTMLElement).style.display = 'none';
-              }}
+              alt="Dorpon Daily Logo" 
+              className="w-full h-full object-contain filter drop-shadow-md"
             />
-            <span className="font-bold text-mint text-lg tracking-tight select-none">দ</span>
           </div>
 
           <div>
             <div className="flex items-center space-x-2">
-              <h1 className="font-bold text-lg sm:text-xl text-white tracking-tight leading-none">
+              <span className="font-extrabold text-lg sm:text-xl text-white tracking-tight leading-none group-hover:text-mint transition-colors">
                 {isBn ? 'দর্পণ' : 'Dorpon'}
-                <span className="text-mint font-normal text-xs sm:text-sm ml-1.5 px-2 py-0.5 rounded-full bg-mint/10 border border-mint/20">
-                  {isBn ? 'ডেইলি' : 'Daily'}
-                </span>
-              </h1>
+              </span>
+              <span className="text-[11px] font-bold text-mint px-2 py-0.5 rounded-full bg-mint/10 border border-mint/20 tracking-wide uppercase">
+                {isBn ? 'ডেইলি' : 'Daily'}
+              </span>
             </div>
-            <p className="text-xs text-text-secondary mt-0.5 font-medium hidden sm:block">
-              {getGreeting()} — <span className="text-text-primary/70">{getFormattedDate()}</span>
+            <p className="text-[11px] sm:text-xs text-text-secondary mt-0.5 font-medium leading-none hidden sm:block">
+              {isBn ? 'সময় বাঁচানো চলতি ঘটনাবলী' : 'Daily Current Affairs & Intelligence'}
             </p>
           </div>
         </div>
 
+        {/* Desktop Navigation Bar (Integrated in Header on md+ screens) */}
+        <nav className="hidden md:flex items-center space-x-1 lg:space-x-2 bg-obsidian-lowest/80 p-1.5 rounded-full border border-white/[0.08] shadow-inner">
+          {desktopNavItems.map((item) => {
+            const isActive = activeTab === item.id;
+            return (
+              <button
+                key={item.id}
+                onClick={() => setActiveTab(item.id)}
+                className={`relative flex items-center space-x-2 px-3.5 py-2 rounded-full text-xs lg:text-sm font-semibold transition-all duration-200 ${
+                  isActive
+                    ? item.isGold
+                      ? 'bg-gold/15 text-gold-bright border border-gold/30 shadow-[0_0_15px_rgba(234,179,8,0.2)]'
+                      : 'bg-mint/15 text-mint-bright border border-mint/30 shadow-[0_0_15px_rgba(52,211,153,0.2)]'
+                    : 'text-text-secondary hover:text-white hover:bg-white/[0.04]'
+                }`}
+              >
+                <span>{item.icon}</span>
+                <span>{t(item.labelKey)}</span>
+
+                {item.id === 'saved' && savedStoryIds.length > 0 && (
+                  <span className="ml-1 px-1.5 py-0.2 rounded-full bg-mint text-obsidian-bg text-[10px] font-bold">
+                    {savedStoryIds.length}
+                  </span>
+                )}
+              </button>
+            );
+          })}
+        </nav>
+
         {/* Action Controls */}
-        <div className="flex items-center space-x-2 sm:space-x-3">
+        <div className="flex items-center space-x-2 sm:space-x-3 flex-shrink-0">
           {/* Quick Audio Briefing Button */}
           <button
             onClick={() => {
@@ -83,7 +126,7 @@ export const Header: React.FC = () => {
               }
               setIsAudioSheetOpen(true);
             }}
-            className={`group flex items-center space-x-2 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full border text-xs sm:text-sm font-medium transition-all duration-300 ${
+            className={`group flex items-center space-x-2 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full border text-xs sm:text-sm font-semibold transition-all duration-300 ${
               isPlayingAudio
                 ? 'bg-mint/15 border-mint/40 text-mint shadow-[0_0_15px_rgba(52,211,153,0.25)]'
                 : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08]'
@@ -99,7 +142,7 @@ export const Header: React.FC = () => {
             ) : (
               <Headphones className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-mint" />
             )}
-            <span className="hidden xs:inline">
+            <span className="hidden sm:inline">
               {isPlayingAudio ? t('playing') : t('listen')}
             </span>
           </button>
@@ -114,7 +157,7 @@ export const Header: React.FC = () => {
             }`}
             title={isSerif ? 'Switch to Sans-Serif' : 'Switch to Editorial Serif'}
           >
-            <Type className="w-3.5 h-3.5 sm:w-4 sm:h-4" />
+            <Type className="w-4 h-4" />
           </button>
 
           {/* Bilingual Language Switcher */}
