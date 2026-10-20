@@ -596,20 +596,23 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            isBn ? 'অ্যাপের প্রধান ভাষা' : 'App Feed & UI Language',
-                            style: ObsidianTokens.bodyMd(color: Colors.white),
-                          ),
-                          const SizedBox(height: 2),
-                          Text(
-                            isBn ? 'বাংলা ও ইংরেজির মধ্যে পরিবর্তন করুন' : 'Switch between English and বাংলা',
-                            style: ObsidianTokens.labelXs(),
-                          ),
-                        ],
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Text(
+                              isBn ? 'অ্যাপের প্রধান ভাষা' : 'App Feed & UI Language',
+                              style: ObsidianTokens.bodyMd(color: Colors.white),
+                            ),
+                            const SizedBox(height: 2),
+                            Text(
+                              isBn ? 'বাংলা ও ইংরেজির মধ্যে পরিবর্তন করুন' : 'Switch between English and বাংলা',
+                              style: ObsidianTokens.labelXs(),
+                            ),
+                          ],
+                        ),
                       ),
+                      const SizedBox(width: 8),
                       Container(
                         padding: const EdgeInsets.all(3),
                         decoration: BoxDecoration(
@@ -683,20 +686,23 @@ class _ProfileScreenState extends State<ProfileScreen> {
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                            Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  settings.tr('reading_font'),
-                                  style: ObsidianTokens.bodyMd(color: Colors.white),
-                                ),
-                                const SizedBox(height: 2),
-                                Text(
-                                  isBn ? 'সম্পাদকীয় সেরিফ বনাম আধুনিক স্যান্স' : 'Editorial Serif vs Modern Sans',
-                                  style: ObsidianTokens.labelXs(),
-                                ),
-                              ],
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    settings.tr('reading_font'),
+                                    style: ObsidianTokens.bodyMd(color: Colors.white),
+                                  ),
+                                  const SizedBox(height: 2),
+                                  Text(
+                                    isBn ? 'সম্পাদকীয় সেরিফ বনাম আধুনিক স্যান্স' : 'Editorial Serif vs Modern Sans',
+                                    style: ObsidianTokens.labelXs(),
+                                  ),
+                                ],
+                              ),
                             ),
+                            const SizedBox(width: 8),
                             Container(
                               padding: const EdgeInsets.all(2),
                               decoration: BoxDecoration(
