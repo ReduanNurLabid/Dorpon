@@ -3,14 +3,36 @@ import feedparser
 import uuid
 import re
 import requests
+import calendar
+import datetime
+import email.utils
 from bs4 import BeautifulSoup
-from typing import List, Set
+from typing import List, Set, Optional
 
 if sys.stdout:
     sys.stdout.reconfigure(encoding='utf-8')
 
 from pipeline.config import FEEDS, SECTION_TARGETS, DEFAULT_HEADERS, EXCLUSION_KEYWORDS
 from pipeline.models import RawArticle
+
+def parse_entry_datetime(entry) -> Optional[datetime.datetime]:
+    """Parses publication datetime into a UTC-aware datetime object."""
+    if getattr(entry, "published_parsed", None):
+        try:
+            epoch = calendar.timegm(entry.published_parsed)
+            return datetime.datetime.fromtimestamp(epoch, tz=datetime.timezone.utc)
+        except Exception:
+            pass
+    raw = getattr(entry, "published", "") or getattr(entry, "pubDate", "")
+    if raw:
+        try:
+            dt = email.utils.parsedate_to_datetime(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=datetime.timezone.utc)
+            return dt.astimezone(datetime.timezone.utc)
+        except Exception:
+            pass
+    return None
 
 def is_excluded(title: str, summary: str = "") -> bool:
     """Checks whether an article falls into excluded categories (sports, showbiz, gossip)."""
@@ -87,10 +109,14 @@ def fetch_section_candidates() -> List[RawArticle]:
             
     return candidates
 
-def fetch_rss_candidates() -> List[RawArticle]:
-    """Fetches candidate articles from all verified live RSS feeds and section targets."""
+def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArticle]:
+    """
+    Fetches candidate articles from all verified live RSS feeds and section targets.
+    If max_age_hours is set (e.g. 2.0 for live hourly wires), strictly filters out older news.
+    """
     candidates: List[RawArticle] = []
     seen_urls: Set[str] = set()
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
     
     # 1. Fetch from live RSS feeds
     for feed_key, feed_meta in FEEDS.items():
@@ -111,6 +137,14 @@ def fetch_rss_candidates() -> List[RawArticle]:
                 
                 if not title or not link or link in seen_urls:
                     continue
+
+                # Strict Freshness Filter for Live Hourly Wires
+                if max_age_hours is not None:
+                    pub_dt = parse_entry_datetime(entry)
+                    if pub_dt:
+                        age_hours = (now_utc - pub_dt).total_seconds() / 3600.0
+                        if age_hours > max_age_hours or age_hours < -0.5:
+                            continue
                 
                 # Filter out sports, entertainment, horoscope, petty crime
                 if is_excluded(title, summary):
@@ -139,11 +173,13 @@ def fetch_rss_candidates() -> List[RawArticle]:
             print(f"⚠️ Error fetching feed {feed_key}: {e}")
             
     # 2. Fetch from direct section fallbacks (Financial Express, BSS News)
-    section_candidates = fetch_section_candidates()
-    for sc in section_candidates:
-        if sc.url not in seen_urls:
-            seen_urls.add(sc.url)
-            candidates.append(sc)
+    # Only include if not strictly capped to fresh 2-hour window or if fresh
+    if max_age_hours is None or max_age_hours >= 6:
+        section_candidates = fetch_section_candidates()
+        for sc in section_candidates:
+            if sc.url not in seen_urls:
+                seen_urls.add(sc.url)
+                candidates.append(sc)
             
     print(f"✅ Total clean candidate articles fetched across all sources: {len(candidates)}")
     return candidates

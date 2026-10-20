@@ -1,5 +1,6 @@
 import os
 import sys
+import re
 import json
 import argparse
 from datetime import datetime
@@ -32,15 +33,18 @@ def run_hourly_buzz(limit: int = 8):
     print(f"⚡ DORPON DAILY HOURLY INGESTION: {timestamp_str}")
     print(f"========================================================")
     
-    # 1. Fetch fresh candidate articles
-    candidates = fetch_rss_candidates()
+    # 1. Fetch fresh candidate articles (strictly within last 2.5 hours for Live Hourly Wires)
+    candidates = fetch_rss_candidates(max_age_hours=2.5)
     if not candidates:
-        print("❌ No articles fetched. Exiting.")
+        print("⚠️ No articles in 2.5h window, checking up to 5 hours...")
+        candidates = fetch_rss_candidates(max_age_hours=5.0)
+    if not candidates:
+        print("❌ No fresh articles fetched. Exiting.")
         return None
         
-    # 2. Scrape bodies and optional og:image for top candidate articles (first 12)
+    # 2. Scrape bodies and optional og:image for top candidate articles (first 16)
     print(f"\n📖 Scraping full bodies and lead images for fresh candidates...")
-    for art in candidates[:12]:
+    for art in candidates[:16]:
         details = scrape_article_details(art.url)
         if details.get("body_text"):
             art.body_text = details["body_text"]
@@ -52,14 +56,41 @@ def run_hourly_buzz(limit: int = 8):
     clusters = cluster_and_tag_articles(candidates)
     print(f"   Generated {len(clusters)} unique event clusters.")
     
-    # 4. Synthesize 60-second Daily Buzz summaries
-    print(f"\n🤖 Generating 60-second Daily Buzz summaries...")
+    # 4. Synthesize 60-second Daily Buzz summaries with Topic Diversity (Zero Duplication)
+    print(f"\n🤖 Generating 60-second Daily Buzz summaries (diverse topics)...")
     buzz_stories = []
-    for cluster in clusters[:limit]:
+    seen_entities = set()
+    seen_story_tokens = []
+    GENERIC_THEMATIC_ENTITIES = {"interim_cabinet", "bnp_politics", "election_commission", "anti_corruption"}
+
+    for cluster in clusters:
+        # Check topic repetition against already-selected hourly stories
+        specific_entities = cluster.canonical_entities - GENERIC_THEMATIC_ENTITIES
+        if specific_entities and specific_entities.intersection(seen_entities):
+            print(f"   ⏩ Skipping duplicate topic cluster: {cluster.primary_title[:50]} (entity: {specific_entities})")
+            continue
+            
+        # Title token similarity check: ensure no 2 stories share 2+ significant title tokens
+        art_tokens = set(re.findall(r"\w{4,}", cluster.primary_title.lower()))
+        is_duplicate = False
+        for prev_tokens in seen_story_tokens:
+            if len(art_tokens & prev_tokens) >= 2:
+                is_duplicate = True
+                break
+        if is_duplicate:
+            print(f"   ⏩ Skipping title-duplicate cluster: {cluster.primary_title[:50]}")
+            continue
+
         story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
         buzz_stories.append(item)
+        if specific_entities:
+            seen_entities.update(specific_entities)
+        seen_story_tokens.append(art_tokens)
+
+        if len(buzz_stories) >= limit:
+            break
         
     output_dir = os.path.join(os.path.dirname(__file__), "..", "data", "output")
     os.makedirs(output_dir, exist_ok=True)

@@ -63,6 +63,18 @@ FEEDS = {
         "language": "en",
         "source_type": "rss"
     },
+    "jagonews24": {
+        "name": "Jago News 24",
+        "url": "https://www.jagonews24.com/rss/rss.xml",
+        "language": "bn",
+        "source_type": "rss"
+    },
+    "channel_i": {
+        "name": "Channel i",
+        "url": "https://www.channelionline.com/feed/",
+        "language": "bn",
+        "source_type": "rss"
+    },
     "techcrunch": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/feed/",

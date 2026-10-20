@@ -1,37 +1,75 @@
 {
-  "updated_at": "2026-10-20T09:13:06.428989",
-  "total_stories": 6,
+  "updated_at": "2026-10-20T09:24:17.010261",
+  "total_stories": 5,
   "stories": [
     {
-      "story_id": "a47facd3-201e-5604-8c10-e9cc885920b0",
+      "story_id": "735fc4fe-87ce-5b1b-9b5e-87c84402ddb2",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#FranceUnrest",
+        "#EmmanuelMacron",
+        "#DonaldTrump",
+        "#ImmigrationPolicy",
+        "#ParisRiots"
+      ],
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/4d0d643ba0f5a6ad64ab569377ecffae-6ad6dc7a79b57.jpg",
+      "image_caption": null,
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/europe/975599/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B8-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%87-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A3%E0%A6%A4-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+          "title": "প্যারিস দ্রুতই মুসলিমদের শহরে পরিণত হবে, ম্যাক্রোঁর সমালোচনায় ট্রাম্প",
+          "snippet": "প্যারিস দ্রুতই মুসলিমদের শহরে পরিণত হবে, ম্যাক্রোঁর সমালোচনায় ট্রাম্প"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফ্রান্সের সহিংসতার জন্য ম্যাক্রোঁর অভিবাসননীতিকে দায়ী করলেন ট্রাম্প",
+        "title_en": "Trump Blames Macron's Immigration Policy for Ongoing French Unrest",
+        "summary_bn": "ফ্রান্সে চলমান সহিংসতা ও দাঙ্গার জন্য দেশটির প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁর অভিবাসননীতিকে দায়ী করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। হোয়াইট হাউসের বাইরে সাংবাদিকদের সঙ্গে আলাপকালে ট্রাম্প দাবি করেন, অভিবাসীদের লাগামহীন প্রবেশের কারণে প্যারিস খুব দ্রুতই একটি মুসলিম শহরে পরিণত হতে যাচ্ছে। দেশটিতে চলমান ব্যাপক সহিংসতা ও দাঙ্গায় ইতোমধ্যে প্রায় ২ হাজার ৪০০ জনকে গ্রেফতার এবং প্রায় ১ হাজার পুলিশ কর্মকর্তা আহত হয়েছেন।",
+        "summary_en": "US President Donald Trump has blamed French President Emmanuel Macron's immigration policy for the ongoing violence and riots in France. Speaking to reporters outside the White House, Trump claimed that unchecked immigration has dramatically altered Paris's demographics, pushing it toward becoming a Muslim city. The widespread unrest has already resulted in approximately 2,400 arrests and nearly 1,000 injured police officers across various French cities.",
+        "why_it_matters_bn": "এই মন্তব্য ইউরোপীয় রাজনীতিতে অভিবাসন সংকট এবং জনমিতি নিয়ে চলমান বৈশ্বিক বিতর্ককে আরও তীব্র করে তুলেছে।",
+        "why_it_matters_en": "This rhetoric intensifies the ongoing global debate over immigration policies, border control, and socio-religious demographics in Western Europe.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60
+      }
+    },
+    {
+      "story_id": "8ec9aa60-760e-537b-8152-63245b22bf6d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
         "society_education"
       ],
       "tags": [
-        "#GovernanceAndAccountability",
-        "#RuleOfLaw",
-        "#ConstitutionalReform"
+        "#IshraqueHossain",
+        "#BangladeshPolitics",
+        "#CabinetResignation",
+        "#SocialMedia"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2F2vc3now7%2FNahid-Islam-01.jpeg?rect=0%2C0%2C3936%2C2066&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/7sfoihx8gr",
-          "title": "ইশরাক পদত্যাগ করলেন, দেশবাসী তাকিয়ে আছে স্বরাষ্ট্রমন্ত্রী কবে পদত্যাগ করবেন: নাহিদ ইসলাম",
-          "snippet": "ইশরাক পদত্যাগ করলেন, দেশবাসী তাকিয়ে আছে স্বরাষ্ট্রমন্ত্রী কবে পদত্যাগ করবেন: নাহিদ ইসলাম"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/bnp/975585/%E0%A6%87%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%87-%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0",
+          "title": "ইশরাকের পদত্যাগের পরই ‘ক্ষমতা’ নিয়ে স্ত্রীর বার্তা",
+          "snippet": "ইশরাকের পদত্যাগের পরই ‘ক্ষমতা’ নিয়ে স্ত্রীর বার্তা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইশরাকের পদত্যাগের পর স্বরাষ্ট্রমন্ত্রীর পদত্যাগ দাবি নাহিদ ইসলামের",
-        "title_en": "NCP Convener Nahid Islam Demands Home Minister's Resignation Following Ishraque Hossain's Exit",
-        "summary_bn": "অস্ত্র-কাণ্ডের মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে ইশরাক হোসেনের পদত্যাগের পর এবার স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদের পদত্যাগ দাবি করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ নাহিদ ইসলাম। সোমবার রাজধানীর পূর্ব বাড্ডায় একটি পূজামণ্ডপ পরিদর্শনকালে তিনি অভিযোগ করেন, দেশে আইনশৃঙ্খলার অবনতির মূল দায়ী ব্যক্তির কোনো জবাবদিহি নিশ্চিত করা হচ্ছে না। একইসঙ্গে সংসদীয় সংবিধান সংশোধন কমিটিকে 'জনগণের সঙ্গে প্রহসন' আখ্যা দিয়ে তিনি নির্বাহী বিভাগের বৈষম্যমূলক আইন প্রয়োগের সমালোচনা করেন।",
-        "summary_en": "National Citizen Party (NCP) Convener and Opposition Chief Whip Nahid Islam has demanded the resignation of Home Minister Salahuddin Ahmad following the exit of State Minister for Liberation War Affairs Ishraque Hossain over an arms controversy. Speaking during a temple visit in Dhaka on Monday, Nahid accused the Home Ministry of failing to maintain public security and criticized what he termed selective law enforcement regarding criminal allegations. He further dismissed the parliamentary constitution amendment committee as a political farce lacking broad public acceptance.",
-        "why_it_matters_bn": "এই রাজনৈতিক অবস্থানটি প্রশাসনে নির্বাহী জবাবদিহি, আইনি ব্যবস্থা গ্রহণে নিরপেক্ষতা এবং সংবিধান সংস্কার প্রক্রিয়ার বিশ্বাসযোগ্যতা নিয়ে ক্রমবর্ধমান বিরোধী অসন্তোষকে তুলে ধরে।",
-        "why_it_matters_en": "The demand underscores growing political friction over executive accountability, selective law enforcement, and the legitimacy of ongoing constitutional reform processes in Bangladesh.",
+        "title_bn": "পদত্যাগের পর ক্ষমতা নিয়ে ফেসবুকে ইশরাকপত্নী ব্যারিস্টার নুসরাতের পোস্ট",
+        "title_en": "Barrister Nusrat Khan Shares Post on 'Power' Following Ishraque's Resignation",
+        "summary_bn": "সদ্য পদত্যাগকারী মুক্তিযুদ্ধ বিষয়ক প্রতিমন্ত্রী ও ঢাকা-৬ আসনের সংসদ সদস্য ইশরাক হোসেনের পদত্যাগের পর তাঁর স্ত্রী ব্যারিস্টার নুসরাত খান সামাজিক যোগাযোগমাধ্যম ফেসবুকে একটি বার্তা দিয়েছেন। সোমবার নিজের ভেরিফায়েড অ্যাকাউন্টে তিনি মার্কিন নাগরিক অধিকার নেতা মার্টিন লুথার কিং জুনিয়রের একটি উদ্ধৃতি শেয়ার করেন। এই পোস্টটি রাজনৈতিক অঙ্গনে বিভিন্ন আলোচনার জন্ম দিয়েছে।",
+        "summary_en": "Following the resignation of State Minister for Liberation War Affairs and Dhaka-6 MP Ishraque Hossain, his wife Barrister Nusrat Khan shared a post on social media regarding 'power'. On Monday, she shared a quote by US civil rights leader Martin Luther King Jr. on her Facebook account. The post has drawn significant attention within political circles.",
+        "why_it_matters_bn": "উচ্চপর্যায়ের রাজনৈতিক পদত্যাগের পর পরিবারের সদস্যদের এমন প্রতিক্রিয়া সরকারি দলের ভেতরের রাজনৈতিক গতিপ্রকৃতি ও মানসিক অবস্থান সম্পর্কে জনমনে নতুন আলোচনার সূচনা করে।",
+        "why_it_matters_en": "Such social media reactions from family members following high-profile political resignations offer insights into the internal dynamics and psychological climate within political circles.",
         "interest_categories": [
           "governance_law",
           "society_education"
@@ -40,35 +78,35 @@
       }
     },
     {
-      "story_id": "b7f411c9-638f-5d56-924d-c96a5edc812f",
+      "story_id": "2895af93-813a-53f8-9c1c-32a163e4c2bc",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#IshraqueHossain",
-        "#LiberationWarAffairs",
-        "#BangladeshPolitics",
-        "#CabinetResignation"
+        "#MiddleEastPolitics",
+        "#Israel",
+        "#InternationalRelations",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2F3h8yt6of%2Fisrak-2.jpeg?rect=0%2C162%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/1e68t6pn4b",
-          "title": "ভুল হয়ে থাকলে দুঃখ প্রকাশ করছি, কিন্তু কোনো ভুল করিনি, বললেন ইশরাক",
-          "snippet": "ভুল হয়ে থাকলে দুঃখ প্রকাশ করছি, কিন্তু কোনো ভুল করিনি, বললেন ইশরাক"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/kz30pn0xhj",
+          "title": "ইসরায়েলে গোপন সফরে হেগসেথ, নেতানিয়াহুর সঙ্গে কী কথা হলো",
+          "snippet": "ইসরায়েলে গোপন সফরে হেগসেথ, নেতানিয়াহুর সঙ্গে কী কথা হলো"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ত্র হাতে নিয়ে ঘোরার ঘটনায় মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগ",
-        "title_en": "State Minister for Liberation War Affairs Ishraque Hossain Resigns Following Controversy Over Carrying Firearm",
-        "summary_bn": "অস্ত্র হাতে নিয়ে ঘোরার ভাইরাল হওয়া ভিডিওর ঘটনায় সমালোচনার মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে স্বেচ্ছায় পদত্যাগ করেছেন ইশরাক হোসেন। সোমবার দুপুরে জাতীয় প্রেস ক্লাবে আয়োজিত এক সংবাদ সম্মেলনে তিনি প্রধানমন্ত্রীর কাছে পদত্যাগপত্র জমা দেওয়ার কথা জানান। ইশরাক দাবি করেন, সেদিন নিরাপত্তার স্বার্থেই তিনি লাইসেন্স করা অস্ত্র নিয়েছিলেন এবং তিনি কোনো ভুল করেননি।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has voluntarily resigned from his post following widespread criticism over a viral video showing him carrying a firearm. Addressing a press conference at the National Press Club on Monday, he announced that he stepped down and requested the Prime Minister to let him work at the grassroots level. Hossain maintained that he committed no wrong and carried the licensed weapon solely for his self-defense.",
-        "why_it_matters_bn": "এই পদত্যাগ সরকারের নীতিনির্ধারণী পর্যায়ে শৃঙ্খলা রক্ষা এবং মন্ত্রীদের আচরণগত জবাবদিহিতার বিষয়টি সামনে নিয়ে এসেছে।",
-        "why_it_matters_en": "This high-profile resignation underscores the executive's sensitivity to public image and the administrative fallout from controversial conduct by public officials.",
+        "title_bn": "ইসরায়েলে পিট হেগসেথের গোপন সফর এবং নেতানিয়াহুর সঙ্গে বৈঠক",
+        "title_en": "Pete Hegseth Makes Secret Visit to Israel and Holds Meeting with Netanyahu",
+        "summary_bn": "ইসরায়েলের পার্লামেন্ট নেসেটের নির্বাচনের ঠিক আগে দেশটিতে এক গোপন সফর করেছেন পিট হেগসেথ। স্থানীয় সময় গত সোমবার তিনি ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর সঙ্গে একটি গুরুত্বপূর্ণ বৈঠক করেন। এই সফর মধ্যপ্রাচ্যের বর্তমান রাজনৈতিক ও ভূ-কৌশলগত প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
+        "summary_en": "Pete Hegseth undertook a secret visit to Israel ahead of the country's Knesset parliament elections. Local time on Monday, he held a high-level meeting with Israeli Prime Minister Benjamin Netanyahu. This visit is considered highly significant within the current geopolitical landscape of the Middle East.",
+        "why_it_matters_bn": "এই ধরনের উচ্চপর্যায়ের গোপন বৈঠক মধ্যপ্রাচ্যের নির্বাচনী রাজনীতি এবং আন্তর্জাতিক কূটনৈতিক সমীকরণে বড় ধরনের প্রভাব ফেলতে পারে।",
+        "why_it_matters_en": "Such high-level clandestine engagements can significantly influence Middle Eastern electoral politics and international diplomatic alignments.",
         "interest_categories": [
           "governance_law"
         ],
@@ -76,35 +114,35 @@
       }
     },
     {
-      "story_id": "2daf3d29-e7cb-5493-8af4-23d587c53f0d",
+      "story_id": "f90e9a31-10bc-5d1e-b4b6-110df710024f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#IshraqueHossain",
-        "#CabinetResignation",
-        "#BangladeshPolitics",
-        "#GoodGovernance"
+        "#Agriculture",
+        "#PotatoCultivation",
+        "#RuralEconomy",
+        "#Dinajpur"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fjgdqjt07%2FWhatsApp-Image-2026-10-19-at-3.02.21-PM.jpeg?rect=0%2C137%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/19/2a10edc2a303ba726db851bbfea894aa-6ad646b90ee5e.jpg",
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/lidcxqxhmm",
-          "title": "রাতে ‘গুজব’, সকালে ‘পদত্যাগের সিদ্ধান্ত’, দুপুরে ‘স্বেচ্ছায় অব্যাহতি’: ইশরাকের যত বক্তব্য",
-          "snippet": "রাতে ‘গুজব’, সকালে ‘পদত্যাগের সিদ্ধান্ত’, দুপুরে ‘স্বেচ্ছায় অব্যাহতি’: ইশরাকের যত বক্তব্য"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/975568/%E0%A6%86%E0%A6%B2%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A0%E0%A7%87",
+          "title": "আলুতে গতবার লোকসান, এবার আশা নিয়ে আগেভাগেই মাঠে কৃষকরা",
+          "snippet": "আলুতে গতবার লোকসান, এবার আশা নিয়ে আগেভাগেই মাঠে কৃষকরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর নির্দেশে পদত্যাগের খবর অস্বীকারের পর স্বেচ্ছায় অব্যাহতির ঘোষণা প্রতিমন্ত্রীর",
-        "title_en": "State Minister Ishraque Claims Voluntary Resignation After Denying Prime Minister's Directives",
-        "summary_bn": "রোববার রাতে প্রধানমন্ত্রীর নির্দেশে পদত্যাগের খবর প্রকাশের পর এটিকে গুজব ও উড়ো খবর দাবি করেছিলেন মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন। সোমবার দুপুরে জাতীয় প্রেসক্লাবে এক সংবাদ সম্মেলনে তিনি জানান, প্রধানমন্ত্রী তারেক রহমানের কাছে তিনি নিজেই স্বেচ্ছায় অব্যাহতির আবেদন করেছেন। মাদকবিরোধী অভিযান ঘিরে সমালোচনার মুখে তার এই পদত্যাগ এবং পূর্ববর্তী বক্তব্যের অসংগতি নিয়ে রাজনৈতিক মহলে আলোচনা তৈরি হয়েছে।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain initially dismissed reports of his resignation on Sunday night as a rumor after being directed by Prime Minister Tarique Rahman. During a press briefing at the National Press Club on Monday afternoon, however, he claimed that he voluntarily stepped down from his ministerial post. The conflicting narratives surrounding his departure follow mounting criticism over an armed anti-narcotics drive led by him over the weekend.",
-        "why_it_matters_bn": "এই ঘটনা সরকারের উচ্চপর্যায়ের সিদ্ধান্ত গ্রহণ প্রক্রিয়ায় স্বচ্ছতা এবং মন্ত্রীদের রাজনৈতিক জবাবদিহিতার বিষয়টি স্পষ্টভাবে সামনে নিয়ে এসেছে।",
-        "why_it_matters_en": "This development highlights executive accountability and transparency within high-level government administrative decisions.",
+        "title_bn": "দিনাজপুরের হিলিতে গত বছরের লোকসান পুষিয়ে নিতে আগাম আলু চাষে ব্যস্ত কৃষকরা",
+        "title_en": "Farmers in Hili, Dinajpur Busy Planting Early Potatoes to Recover Previous Year's Losses",
+        "summary_bn": "গত বছরের লোকসান কাটিয়ে উঠতে দিনাজপুরের হিলির খট্টামাধবপাড়া অঞ্চলে আগাম জাতের আলু রোপণে ব্যস্ত সময় পার করছেন কৃষকরা। আবহাওয়া অনুকূলে থাকায় প্রতি বিঘাতে ৫০ থেকে ৬০ মণ ফলনের আশা করা হলেও সার, বীজ ও শ্রমিকের বাড়তি দাম নিয়ে দুশ্চিন্তায় রয়েছেন তারা। আগাম আলু উত্তোলনের পর একই জমিতে ভুট্টাসহ অন্যান্য ফসল চাষের পরিকল্পনা রয়েছে কৃষকদের।",
+        "summary_en": "Farmers in the Khattamadhabpara area of Hili, Dinajpur, are busy planting early potato varieties to recover from last year's financial losses. While favorable weather raises hopes for a yield of 50 to 60 maunds per bigha, soaring prices for fertilizer, seeds, and labor have heightened production cost concerns. Farmers plan to cultivate maize and other crops on the same land immediately after harvesting the early potatoes.",
+        "why_it_matters_bn": "উৎপাদন খরচের ঊর্ধ্বগতি কৃষকদের লাভবান হওয়ার সম্ভাবনাকে সীমিত করে তুলতে পারে, যা গ্রামীণ অর্থনীতিতে ফসলের বহুমুখীকরণ ও শস্য চক্রের ধারাবাহিকতাকে সরাসরি প্রভাবিত করে।",
+        "why_it_matters_en": "Escalating production costs threaten to erode profit margins for smallholders, directly impacting rural crop diversification and the financial viability of seasonal multi-cropping cycles.",
         "interest_categories": [
           "governance_law"
         ],
@@ -112,106 +150,36 @@
       }
     },
     {
-      "story_id": "b73ff6c5-0963-5684-99d4-2fa01e76d893",
+      "story_id": "604ffe7b-5bae-5cde-a267-d997b10b97c1",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#IshraqueHossain",
-        "#CabinetResignation",
-        "#BangladeshPolitics",
-        "#LawEnforcement"
+        "#BangladeshCricket",
+        "#BCB",
+        "#TamimIqbal",
+        "#PhilSimmons",
+        "#MehidyHasan"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fl2zgz0l5%2FWhatsApp-Image-2026-10-19-at-6.43.29-PM.jpeg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/08/148598dbca9d80e53e18ba67da8803c1-6ac7861d58d40.jpg",
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/rb7ah2qtlb",
-          "title": "অস্ত্রকাণ্ডের পক্ষেই সাফাই ইশরাকের, কথা বললেন মেয়র নির্বাচন নিয়েও",
-          "snippet": "অস্ত্রকাণ্ডের পক্ষেই সাফাই ইশরাকের, কথা বললেন মেয়র নির্বাচন নিয়েও"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/cricket/975544/%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%80-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
+          "title": "জিম্বাবুয়ের কাছে হারের পর তামিমের বার্তা কী ছিল, জানালেন বাংলাদেশ কোচ",
+          "snippet": "জিম্বাবুয়ের কাছে হারের পর তামিমের বার্তা কী ছিল, জানালেন বাংলাদেশ কোচ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর নির্দেশে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগ",
-        "title_en": "State Minister Ishraque Hossain Resigns from Liberation War Affairs Ministry Following PM Directive",
-        "summary_bn": "রাজধানীর গেন্ডারিয়ায় অস্ত্র উঁচিয়ে মাদকবিরোধী অভিযানে অংশ নেওয়ার ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর প্রধানমন্ত্রী তারেক রহমানের নির্দেশে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে পদত্যাগ করেছেন ইশরাক হোসেন। সোমবার জাতীয় প্রেসক্লাবে আয়োজিত এক সংবাদ সম্মেলনে তিনি স্বেচ্ছায় এই পদ থেকে অব্যাহতি নেওয়ার কথা জানান এবং নিজের কার্যক্রমের পক্ষে সাফাই গোনেন। তিনি দাবি করেন, আইনশৃঙ্খলা রক্ষাকারী বাহিনী পুরোপুরি কার্যকর না থাকায় এলাকার স্থানীয় সমস্যা সমাধানে তারা নিজ উদ্যোগে এই পদক্ষেপ নিতে বাধ্য হয়েছেন।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has resigned from his post following a directive from Prime Minister Tarique Rahman, triggered by a viral video showing him brandishing a firearm during an anti-narcotics drive in Gandaria. Addressing a press conference at the National Press Club on Monday, Ishraque announced his resignation and defended his actions, claiming local initiatives were necessary as law enforcement agencies have not fully resumed normal operations.",
-        "why_it_matters_bn": "এই পদত্যাগ সরকারের অভ্যন্তরে আইনশৃঙ্খলা রক্ষা ও দলীয় নেতাকর্মীদের নির্বাহী ক্ষমতা প্রদর্শনের বিষয়ে কঠোর প্রশাসনিক শৃঙ্খলার বার্তা দেয়।",
-        "why_it_matters_en": "This resignation signals the administration's intolerance for unauthorized executive actions by political figures and underscores strict enforcement of the rule of law.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60
-      }
-    },
-    {
-      "story_id": "6a0c41d2-7c79-552d-97e0-757afa28458f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#IshraqueHossain",
-        "#BNPGovernment",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-17%2F5m2xdmej%2FWhatsApp_Image_2026_10_17_at_19_40_27.jpeg?rect=0%2C29%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/p2gvoai75z",
-          "title": "নিজেকে জাহির করতে গিয়ে মন্ত্রিত্ব হারালেন ইশরাক",
-          "snippet": "নিজেকে জাহির করতে গিয়ে মন্ত্রিত্ব হারালেন ইশরাক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অস্ত্র হাতে মাদকবিরোধী অভিযানে অংশ নেওয়ায় পদত্যাগ করলেন প্রতিমন্ত্রী ইশরাক হোসেন",
-        "title_en": "State Minister Ishraque Hossain Resigns After Participating in Armed Anti-Narcotics Raid",
-        "summary_bn": "রাজধানীর গেন্ডারিয়ায় মাদকবিরোধী অভিযানে আগ্নেয়াস্ত্র হাতে অংশ নেওয়ার ঘটনায় সমালোচনার মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন পদত্যাগ করেছেন। প্রধানমন্ত্রীর নির্দেশে পদত্যাগের ঘোষণা দিয়ে তিনি জাতীয় প্রেস ক্লাবে সংবাদ সম্মেলন করেন। মাত্র আট মাস আগে গঠিত বিএনপি সরকারের মন্ত্রিসভা থেকে এটি দ্বিতীয় কোনো সংসদ সদস্যের পদত্যাগের ঘটনা।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has resigned following widespread criticism over his participation in an armed anti-narcotics raid in Dhaka's Gandaria area. Following a directive from Prime Minister Tarique Rahman, he announced his resignation at a press conference at the National Press Club. This marks the second high-profile departure from the BNP cabinet, which took office eight months ago.",
-        "why_it_matters_bn": "এই পদত্যাগ ক্ষমতাসীন সরকারের মন্ত্রী ও সংসদ সদস্যদের জন্য কঠোর প্রশাসনিক শৃঙ্খলা ও জনাচরণের বার্তা দেয়, যা জুলাই গণ-অভ্যুত্থান–পরবর্তী রাজনৈতিক সংস্কৃতিতে জবাবদিহিতা প্রতিষ্ঠার ইঙ্গিত বহন করে।",
-        "why_it_matters_en": "This high-level resignation sets a strict precedent for ministerial conduct and political accountability under the post-uprising administration, signaling zero tolerance for abuse of executive authority.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60
-      }
-    },
-    {
-      "story_id": "61762515-997b-584f-b3c8-721be25201d9",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#IshraqueHossain",
-        "#CabinetResignation",
-        "#BangladeshPolitics",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fcg5cuww7%2Fjpg.com?rect=0%2C165%2C2048%2C1075&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/902zxr0sjd",
-          "title": "পদত্যাগের খবরকে ‘গুজব’ বলে রাতে একের পর এক কী বার্তা দিয়েছিলেন ইশরাক",
-          "snippet": "পদত্যাগের খবরকে ‘গুজব’ বলে রাতে একের পর এক কী বার্তা দিয়েছিলেন ইশরাক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পদত্যাগের খবরকে ‘গুজব’ বলার পর মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগের ঘোষণা",
-        "title_en": "State Minister Ishraque Hossain Announces Resignation After Dismissing Reports as Rumor",
-        "summary_bn": "মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন আজ সোমবার দুপুরে নিজের ফেসবুক পেজে পদত্যাগের ঘোষণা দেওয়ার কথা জানান। এর আগে গত শনিবার গেন্ডারিয়ায় তাঁর মাদকবিরোধী অভিযানে অস্ত্র প্রদর্শনের ভিডিও ছড়িয়ে পড়ার পর সমালোচনার মুখে প্রধানমন্ত্রী তাঁকে পদত্যাগের নির্দেশ দেন। প্রথম আলোতে পদত্যাগের নির্দেশ সংক্রান্ত সংবাদ প্রকাশের পর রোববার রাতে তিনি ও তাঁর প্রেস কর্মকর্তা সেটিকে ‘গুজব’ বলে দাবি করেছিলেন।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain announced on Monday that he would step down from his post. The decision follows a Prime Minister's directive after public controversy erupted over a viral video showing him and his associates brandishing firearms during an anti-narcotics drive in Gendaria on Saturday. Despite dismissing initial media reports of his impending resignation as mere rumors late Sunday night, the minister confirmed his departure.",
-        "why_it_matters_bn": "এই ঘটনা রাজনৈতিক নেতৃত্বে শৃঙ্খলা বজায় রাখা এবং সরকারের অভ্যন্তরীণ অসন্তোষ মোকাবিলায় নির্বাহী আদেশের কার্যকারিতাকে স্পষ্ট করে।",
-        "why_it_matters_en": "This development highlights executive intervention in enforcing political accountability and managing internal governance friction over controversial conduct.",
+        "title_bn": "জিম্বাবুয়ের কাছে হারের পর দলের পারফরম্যান্স নিয়ে বৈঠক করেছেন বিসিবি সভাপতি তামিম, আফগানিস্তান ম্যাচের আগে মেহেদীকে নিয়ে আশাবাদী কোচ",
+        "title_en": "BCB President Tamim Holds Meeting Following Loss to Zimbabwe, Coach Simmons Hopes Mehidy Will Play Against Afghanistan",
+        "summary_bn": "শারজায় ত্রিদেশীয় সিরিজে জিম্বাবুয়ের বিপক্ষে ৯৯ রানে হারের পর বাংলাদেশ দলের পারফরম্যান্স নিয়ে খেলোয়াড় ও টিম ম্যানেজমেন্টের সঙ্গে দীর্ঘ বৈঠক করেছেন বিসিবি সভাপতি তামিম ইকবাল। প্রথম ম্যাচে জ্বরে আক্রান্ত হয়ে খেলতে না পারা অলরাউন্ডার মেহেদী হাসান আফগানিস্তানের বিপক্ষে আগামী ২১ ডিসেম্বরের ম্যাচের আগে ফিট হয়ে উঠবেন বলে আশা প্রকাশ করেছেন প্রধান কোচ ফিল সিমন্স। সিমন্স আরও জানান, জিম্বাবুয়ের বিপক্ষে ব্যাটিংয়ের সময় পরিস্থিতি ঠিকভাবে অনুধাবন করতে না পারায় দলটি বড় ব্যবধানে হেরেছে।",
+        "summary_en": "Following a 99-run defeat to Zimbabwe in the ongoing tri-nation series in Sharjah, BCB President Tamim Iqbal held a lengthy meeting with players and team management regarding team performance. Bangladesh head coach Phil Simmons expressed optimism that all-rounder Mehidy Hasan, who missed the first match due to a fever, will recover in time for the crucial fixture against Afghanistan on October 21. Simmons also attributed the opening loss to the team's failure to properly assess match conditions during the batting collapse.",
+        "why_it_matters_bn": "এই ঘটনা দলের অভ্যন্তরীণ ব্যবস্থাপনা ও কৌশলগত দুর্বলতা কাটিয়ে আসন্ন আন্তর্জাতিক ম্যাচগুলোতে ঘুরে দাঁড়ানোর জরুরি প্রয়োজনীয়তা নির্দেশ করে।",
+        "why_it_matters_en": "This development highlights the urgent need to address internal management issues and strategic vulnerabilities as the team seeks a rebound in upcoming international fixtures.",
         "interest_categories": [
           "governance_law"
         ],
