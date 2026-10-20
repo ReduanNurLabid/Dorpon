@@ -1,230 +1,330 @@
 {
-  "updated_at": "2026-10-20T20:33:43.860485",
+  "updated_at": "2026-10-20T23:03:34.324974",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a4bc6f6d-97b9-5db7-a022-bf6df5be3e1a",
+      "story_id": "bdf0cd65-d059-5c11-a804-3a2611419870",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#MeghnaAlam",
-        "#BNP",
-        "#ReservedSeats",
-        "#BangladeshPolitics"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T19:32:52+00:00",
+      "published_at": "2026-10-20T20:48:56+00:00",
       "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.0063,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/entertainment/news/1170390",
-          "title": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম",
-          "snippet": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম"
+          "url": "https://www.jagonews24.com/country/news/1170392",
+          "title": "প্রধানমন্ত্রীর জনসভায় ৯ নেতাকর্মীর মোবাইল ফোন চুরি",
+          "snippet": "প্রধানমন্ত্রীর জনসভায় ৯ নেতাকর্মীর মোবাইল ফোন চুরি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম",
-        "title_en": "Did Not Try to Imitate Khaleda Zia's Appearance: Meghna Alam",
-        "summary_bn": "জাতীয় সংসদের সংরক্ষিত নারী আসনের উপ-নির্বাচনে বিএনপির মনোনয়ন চেয়ে আলোচনার জন্ম দেওয়া রাজনৈতিক প্রশিক্ষক ও মডেল মেঘনা আলম জানিয়েছেন, তিনি সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার মতো সাজতে চেষ্টা করেননি। বিএনপির মনোনয়ন ফরম জমাদানের সময় তার বাহ্যিক রূপ নিয়ে বিভিন্ন মহলে আলোচনা শুরু হওয়ার পর তিনি এই স্পষ্টীকরণ দেন। রাজনৈতিক অঙ্গনে নতুন মুখের অন্তর্ভুক্তি এবং প্রার্থীদের প্রোটোকল নিয়ে নানা আলোচনার মধ্যে তার এই বক্তব্য সামনে এলো।",
-        "summary_en": "Political trainer and model Meghna Alam, who recently sought BNP nomination for the reserved women's seat in Parliament, stated that she did not intentionally try to imitate former Prime Minister Khaleda Zia's appearance. She made this clarification following public discussions and social media commentary regarding her attire and styling during the nomination submission. Her remarks come amid widespread debates within political circles regarding candidate selection and public presentation styles.",
-        "why_it_matters_bn": "এই ঘটনাটি রাজনৈতিক দলে নতুন মুখের অংশগ্রহণ এবং প্রার্থীর ব্যক্তি ইমেজ ও দলীয় ইতিহাসের উপস্থাপনার ক্ষেত্রে জনসচেতনতার গুরুত্বকে ফুটিয়ে তোলে।",
-        "why_it_matters_en": "This incident highlights the intersection of personal branding, political optics, and public perception in contemporary party nomination processes.",
+        "title_bn": "রাজশাহীতে প্রধানমন্ত্রীর জনসভায় ৯ বিএনপি নেতাকর্মীর মোবাইল ফোন চুরি",
+        "title_en": "9 BNP Leaders Lose Mobile Phones at PM Rally in Rajshahi",
+        "summary_bn": "রাজশাহীতে জনসভায় যোগ দিয়ে ৯ জন বিএনপি নেতাকর্মী তাদের মোবাইল ফোন চুরির অভিযোগ করেছেন।",
+        "summary_en": "Nine BNP leaders and activists reported their mobile phones stolen while attending a public rally in Rajshahi.",
+        "why_it_matters_bn": "জনসমাবেশে অংশ নেওয়া সাধারণ মানুষের ব্যক্তিগত মালামাল সুরক্ষার ঝুঁকি প্রকাশ পায়।",
+        "why_it_matters_en": "Highlights personal safety and device security risks for attendees at massive political gatherings.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T19:32:52+00:00"
+        "published_at": "2026-10-20T20:48:56+00:00",
+        "lead_bn": "রাজশাহীতে জনসভায় যোগ দিয়ে ৯ জন বিএনপি নেতাকর্মী তাদের মোবাইল ফোন চুরির অভিযোগ করেছেন।",
+        "lead_en": "Nine BNP leaders and activists reported their mobile phones stolen while attending a public rally in Rajshahi.",
+        "bullets_bn": [
+          "১. রাজশাহীতে আয়োজিত জনসভায় অংশ নিয়ে ৯ জন বিএনপি নেতাকর্মীর মোবাইল ফোন চুরি বা নিখোঁজ হয়েছে।",
+          "২. ভুক্তভোগী ৯ জনের মধ্যে ৭ জন নগরীর রাজপাড়া থানায় লিখিত অভিযোগ দায়ের করেছেন।",
+          "৩. হারিয়ে যাওয়া ফোন উদ্ধার ও চোর শনাক্তে পুলিশ তদন্ত কাজ শুরু করেছে।"
+        ],
+        "bullets_en": [
+          "1. Nine BNP leaders and activists faced phone theft during a major public rally in Rajshahi.",
+          "2. Seven of the affected individuals filed written complaints at the Rajpara Police Station.",
+          "3. Local police have launched an investigation to trace the stolen mobile phones."
+        ],
+        "impact_bn": "জনসমাবেশে অংশ নেওয়া সাধারণ মানুষের ব্যক্তিগত মালামাল সুরক্ষার ঝুঁকি প্রকাশ পায়।",
+        "impact_en": "Highlights personal safety and device security risks for attendees at massive political gatherings.",
+        "details_bn": "বাংলাদেশে বড় রাজনৈতিক জনসভাগুলোতে বিশাল ভিড়ের সুযোগ নিয়ে মোবাইল ও মানিব্যাগ চুরির ঘটনা প্রায়ই ঘটে। বিশিষ্ট রাজনৈতিক নেতাদের উপস্থিতিতে সভা চলাকালীন সংঘবদ্ধ চক্রগুলো সুযোগ সুবিধা অনুযায়ী সাধারণ মানুষ ও কর্মীদের মূল্যবান জিনিসপত্র হাতিয়ে নেয়। সমাবেশ শেষে সংশ্লিষ্ট থানায় হারানো জিডি দায়েরের মাধ্যমে পুলিশি উদ্ধার প্রক্রিয়া শুরু হয়।",
+        "details_en": "Large political rallies in Bangladesh frequently face challenges related to opportunistic petty crimes like pickpocketing. High-density crowds during major political events create opportunities for organized groups to target attendees' valuable belongings. Following such incidents, victims typically lodge general diaries with local police stations to initiate recovery operations."
       }
     },
     {
-      "story_id": "8bf821d3-2c54-543d-abbd-ccfb17c23ae1",
+      "story_id": "56adb51a-39e2-5ee9-868d-191d8cf90793",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#ConsumerTech",
-        "#CircularEconomy",
-        "#RefurbishedHardware"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2F3q8njiux%2FScreenshot21-10-202623857notebook.google.com.jpeg?rect=0%2C9%2C1153%2C605&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-20T20:00:00+00:00",
+      "published_at": "2026-10-20T20:41:56+00:00",
       "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-          "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-          "snippet": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লজিটেক জি প্রো এক্স ২ সুপারস্ট্রাইক গেমিং মাউসে ৩৫ শতাংশ ছাড়",
-        "title_en": "Logitech Offers 35 Percent Discount on Refurbished G Pro X2 Superstrike Wireless Gaming Mouse",
-        "summary_bn": "লজিটেক তাদের অফিসিয়াল ইবে স্টোরের মাধ্যমে রিফার্বিশড 'জি প্রো এক্স ২ সুপারস্ট্রাইক' ওয়ারলেস গেমিং মাউসে ৩৫ শতাংশ মূল্যছাড় ঘোষণা করেছে। এই ডিভাইসটিতে মেকানিক্যাল সুইচের অনুভূতি তৈরি করতে উন্নত হ্যাপটিক ফিডব্যাক প্রযুক্তি ব্যবহার করা হয়েছে। পিসি গেমাররা এখন কম খরচে সার্টিফাইড ফ্ল্যাগশিপ গেমিং হার্ডওয়্যার সংগ্রহের সুযোগ পাচ্ছেন।",
-        "summary_en": "Logitech is offering a 35 percent discount on its certified refurbished G Pro X2 Superstrike wireless gaming mouse via its official eBay store. The right-handed gaming peripheral utilizes haptic feedback technology to simulate the tactile response of mechanical switches. The deal offers consumers an affordable entry point to high-end wireless hardware.",
-        "why_it_matters_bn": "সার্টিফাইড রিফার্বিশড প্রযুক্তির প্রসার গ্রাহকদের সাশ্রয়ী মূল্যে প্রিমিয়াম গ্যাজেট ব্যবহারের সুযোগ দেয় এবং বিশ্বব্যাপী ইলেকট্রনিক বর্জ্য হ্রাসে সহায়তা করে।",
-        "why_it_matters_en": "The accessibility of certified refurbished hardware lowers financial barriers for advanced consumer technology while promoting circular economy practices in the tech sector.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:00:00+00:00"
-      }
-    },
-    {
-      "story_id": "493ceec7-9494-5521-a81c-52d62955da05",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#LakshmipurNews",
-        "#KrishakDal",
-        "#RuleOfLaw",
-        "#CrimeAndPolitics"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T20:05:03+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/975782/%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%A2%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B0-%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%95%E0%A6%A6%E0%A6%B2",
-          "title": "হঠাৎ বাসায় ঢুকে অপবাদ দিয়ে দম্পতিকে মারধর: কৃষকদল নেতা আটক",
-          "snippet": "হঠাৎ বাসায় ঢুকে অপবাদ দিয়ে দম্পতিকে মারধর: কৃষকদল নেতা আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে প্রবাসী দম্পতিকে মারধর ও জিম্মির ঘটনায় কৃষকদল নেতা আটক",
-        "title_en": "Krishak Dal Leader Arrested for Assaulting Expatriate Couple in Lakshmipur",
-        "summary_bn": "লক্ষ্মীপুরের রায়পুরে আত্মীয়ের বাসায় বেড়াতে আসা এক প্রবাসী দম্পতিকে জিম্মি করে মারধরের অভিযোগে রায়পুর পৌর কৃষক দলের সভাপতি প্রার্থী রিয়াদ হাসান বয়াতিকে আটক করেছে পুলিশ। মঙ্গলবার সন্ধ্যায় রায়পুর বাজারের দেনায়েতপুর এলাকা থেকে তাকে আটক করা হয়। ভুক্তভোগীদের অভিযোগের ভিত্তিতে পুলিশ এ বিষয়ে আইনগত ব্যবস্থা গ্রহণ করছে।",
-        "summary_en": "Police have arrested Riyad Hasan Boyati, a Krishak Dal leader, for allegedly taking an expatriate couple hostage and physically assaulting them at a relative's house in Lakshmipur's Raipur. The arrest was made on Tuesday evening from the Denayetpur area of Raipur bazar following complaints from the victims. Law enforcement authorities are taking necessary legal steps regarding the incident.",
-        "why_it_matters_bn": "রাজনৈতিক পদপ্রত্যাশীদের দ্বারা সংঘটিত এ ধরনের অপরাধমূলক কর্মকাণ্ড রাজনৈতিক দলের শৃঙ্খলা এবং স্থানীয় আইনশৃঙ্খলা পরিস্থিতির ওপর নেতিবাচক প্রভাব ফেলে।",
-        "why_it_matters_en": "Such criminal acts committed by political aspirants underscore the critical challenge of maintaining grassroots discipline and upholding the rule of law.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:05:03+00:00"
-      }
-    },
-    {
-      "story_id": "0b380e60-626f-5279-be53-b362be32dbe2",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#BirthRegistration",
-        "#DigitalBangladesh",
-        "#PublicService"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T19:38:05+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975781/%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A7%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
-          "title": "জন্ম-মৃত্যু নিবন্ধন কার্যক্রম ৭ দিন বন্ধ",
-          "snippet": "জন্ম-মৃত্যু নিবন্ধন কার্যক্রম ৭ দিন বন্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সফটওয়্যার রক্ষণাবেক্ষণের কারণে সাত দিন জন্ম ও মৃত্যু নিবন্ধন কার্যক্রম বন্ধ",
-        "title_en": "Birth and Death Registration Activities Suspended for Seven Days Due to Software Maintenance",
-        "summary_bn": "রেজিস্ট্রার জেনারেলের কার্যালয়ের সিদ্ধান্ত অনুযায়ী বিডিআরআইএস সফটওয়্যার রক্ষণাবেক্ষণের কাজের জন্য জন্ম ও মৃত্যু নিবন্ধন সেবা সাত দিন বন্ধ থাকবে। ১৯ অক্টোবর সকাল ৬টা থেকে ২৫ অক্টোবর সকাল ৬টা পর্যন্ত এই অনলাইন কার্যক্রম পুরোপুরি স্থগিত থাকবে। এই রক্ষণাবেক্ষণ কাজের ফলে নির্ধারিত সময়ের মধ্যে নাগরিকরা জন্ম ও মৃত্যু সনদের অনলাইন আবেদন বা সংগ্রহ করতে পারবেন না।",
-        "summary_en": "Birth and death registration services have been suspended for seven days due to maintenance work on the BDRIS software, according to the Office of the Registrar General. The online registration activities remain completely halted from October 19 morning until October 25 morning. Consequently, citizens will be temporarily unable to apply for or download birth and death certificates during this period.",
-        "why_it_matters_bn": "এই সাময়িক স্থগিতাদেশের ফলে জরুরি প্রয়োজনে জন্ম ও মৃত্যু সনদ গ্রহণে ইচ্ছুক নাগরিকদের কার্যক্রম ব্যাহত হবে এবং সেবা প্রাপ্তিতে সাময়িক দীর্ঘসূত্রিতা তৈরি হবে।",
-        "why_it_matters_en": "This temporary suspension disrupts routine service delivery and delays urgent administrative procedures for citizens requiring birth and death certificates.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T19:38:05+00:00"
-      }
-    },
-    {
-      "story_id": "c3c91d26-15fc-53f4-b1fd-9e499e7a41b3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#PressFreedom",
-        "#JournalistSafety",
-        "#ChandpurNews"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T18:57:43+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/975778/%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F%E2%80%99",
-          "title": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা",
-          "snippet": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চাঁদপুরের ফরিদগঞ্জে সংবাদ প্রকাশের জেরে সাংবাদিক মহিউদ্দিনের ওপর হামলা",
-        "title_en": "Daily Ittefaq Journalist Mohiuddin Attacked in Chandpur Over News Report",
-        "summary_bn": "চাঁদপুরের ফরিদগঞ্জ বাজারে দৈনিক ইত্তেফাকের প্রতিনিধি মহিউদ্দিনের ওপর হামলার ঘটনা ঘটেছে। মঙ্গলবার সকালে ফরিদগঞ্জ পৌর ছাত্রদলের সাবেক সভাপতি কামরুল পাটোয়ারীর নেতৃত্বে এই হামলা চালানো হয় বলে অভিযোগ উঠেছে। স্বেচ্ছাসেবক দলের কিছু নেতার কার্যক্রম নিয়ে সংবাদ প্রকাশের জের ধরে এই হামলা হয়েছে বলে প্রত্যক্ষদর্শীরা জানিয়েছেন।",
-        "summary_en": "Journalist Mohiuddin, the Faridganj correspondent for the Daily Ittefaq, was assaulted in Chandpur's Faridganj market. The attack, which occurred on Tuesday morning, was reportedly led by former Faridganj municipal Chhatra Dal president Kamrul Patwary. Eyewitnesses state the assault stemmed from a recent news report published regarding certain activities of Jatiyatabadi Swechchhasebak Dal leaders.",
-        "why_it_matters_bn": "সাংবাদিকদের ওপর এ ধরনের রাজনৈতিক হামলা সংবাদমাধ্যমের স্বাধীনতা ও পেশাগত সুরক্ষার ওপর সরাসরি আঘাত এবং আইনের শাসন প্রতিষ্ঠার ক্ষেত্রে একটি বড় অন্তরায়।",
-        "why_it_matters_en": "Such politically motivated assaults on journalists directly threaten media freedom and professional safety, undermining the rule of law.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T18:57:43+00:00"
-      }
-    },
-    {
-      "story_id": "febd7ecb-0a16-528a-8291-94912b88d622",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#TigerShroff",
-        "#MumbaiPolice",
-        "#CrimeNews",
-        "#BollywoodSecurity"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2F5ju3udc8%2F2.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-20T18:48:59+00:00",
-      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 0.9715,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/jrfyjb495g",
-          "title": "টাইগার শ্রফের গাড়িতে গুলির ঘটনায় গ্রেপ্তার তরুণের মা বললেন, ‘ছেলেকে ফাঁদে ফেলে এই কাজ করানো হয়েছে’",
-          "snippet": "টাইগার শ্রফের গাড়িতে গুলির ঘটনায় গ্রেপ্তার তরুণের মা বললেন, ‘ছেলেকে ফাঁদে ফেলে এই কাজ করানো হয়েছে’"
+          "url": "https://www.protichinta.com/article/qgfddr4303",
+          "title": "প্রধানমন্ত্রীর মেয়াদসীমা কেন প্রয়োজন?",
+          "snippet": "প্রধানমন্ত্রীর মেয়াদসীমা কেন প্রয়োজন?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বলিউড অভিনেতা টাইগার শ্রফের গাড়িতে গুলিবর্ষণের ঘটনায় গ্রেপ্তার তিন, মা বললেন ছেলে ফাঁদে পড়েছে",
-        "title_en": "Three Arrested Over Shooting at Bollywood Actor Tiger Shroff's Car in Mumbai",
-        "summary_bn": "মুম্বাইয়ে বলিউড অভিনেতা টাইগার শ্রফের গাড়ি লক্ষ্য করে গুলি চালানোর ঘটনায় হরিয়ানা ও বিহার থেকে তিনজনকে গ্রেপ্তার করেছে পুলিশ। গত রোববার জুহু এলাকায় এই হামলায় অভিনেতার গাড়িচালক ও এক পথচারী আহত হন। এদিকে গ্রেপ্তার রেহানের মা দাবি করেছেন, তাঁর ছেলেকে ফাঁদে ফেলে এই অপরাধে জড়ানো হয়েছে।",
-        "summary_en": "Mumbai Police have arrested three suspects in connection with the shooting at Bollywood actor Tiger Shroff's car in Juhu on Sunday, which left his driver and a pedestrian injured. Following the arrests made in Rajasthan's Kota, the mother of one of the suspects claimed her son Rehan was trapped and manipulated into the crime.",
-        "why_it_matters_bn": "এই ঘটনা সেলিব্রিটি নিরাপত্তা এবং সংঘবদ্ধ অপরাধ চক্রের ক্রমবর্ধমান হুমকির বিষয়টি নতুন করে সামনে এনেছে।",
-        "why_it_matters_en": "This incident highlights escalating security concerns for public figures and the operational reach of organized crime syndicates in urban centers.",
+        "title_bn": "সংসদীয় ব্যবস্থায় ক্ষমতার ভারসাম্য রক্ষায় প্রধানমন্ত্রীর মেয়াদসীমা নির্ধারণের তাগিদ",
+        "title_en": "Urgency Highlighted for Prime Ministerial Term Limits to Ensure Balance of Power",
+        "summary_bn": "দীঘদিন ক্ষমতায় থাকার ফলে সৃষ্ট কর্তৃত্ববাদ রোধ করতে সংসদীয় ব্যবস্থায় প্রধানমন্ত্রীর পদের মেয়াদসীমা নির্ধারণের ওপর গুরুত্বারোপ করা হয়েছে।",
+        "summary_en": "Experts emphasize setting term limits for prime ministers in parliamentary systems to prevent authoritarianism caused by prolonged power.",
+        "why_it_matters_bn": "মেয়াদসীমা নির্ধারিত হলে ক্ষমতার অপব্যবহার কমবে এবং সাধারণ নাগরিকরা প্রকৃত গণতান্ত্রিক অধিকার ও শক্তিশালী প্রাতিষ্ঠানিক সেবা পাবে।",
+        "why_it_matters_en": "Establishing term limits will curb the abuse of power, ensuring ordinary citizens enjoy true democratic rights and robust institutions.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T18:48:59+00:00"
+        "published_at": "2026-10-20T20:41:56+00:00",
+        "lead_bn": "দীঘদিন ক্ষমতায় থাকার ফলে সৃষ্ট কর্তৃত্ববাদ রোধ করতে সংসদীয় ব্যবস্থায় প্রধানমন্ত্রীর পদের মেয়াদসীমা নির্ধারণের ওপর গুরুত্বারোপ করা হয়েছে।",
+        "lead_en": "Experts emphasize setting term limits for prime ministers in parliamentary systems to prevent authoritarianism caused by prolonged power.",
+        "bullets_bn": [
+          "১. দীর্ঘমেয়াদি শাসনপদ্ধতিতে ক্ষমতার ব্যক্তিকেন্দ্রিক প্রবণতা রোধে সাংবিধানিক কাঠামোতে মেয়াদসীমা যুক্ত করার প্রস্তাব করা হয়েছে।",
+          "২. বৈশ্বিক গবেষণায় দেখা যায়, রাষ্ট্রপতিশাসিত সংবিধানগুলোর প্রায় ৬০ থেকে ৭৫ শতাংশে মেয়াদসীমা কার্যকর রয়েছে।",
+          "৩. নিয়মিত নেতৃত্ব পরিবর্তন নিশ্চিত হলে জবাবদিহি বাড়বে এবং গণতন্ত্র কর্তৃত্ববাদের দিকে ঝুঁকে পড়ার আশঙ্কা হ্রাস পাবে।"
+        ],
+        "bullets_en": [
+          "1. Proposals suggest introducing constitutional term limits to prevent power concentration under prolonged governance.",
+          "2. Global research shows that roughly 60 to 75 percent of presidential constitutions enforce term limits.",
+          "3. Regular leadership changes will enhance accountability and reduce the risk of democratic backsliding into authoritarianism."
+        ],
+        "impact_bn": "মেয়াদসীমা নির্ধারিত হলে ক্ষমতার অপব্যবহার কমবে এবং সাধারণ নাগরিকরা প্রকৃত গণতান্ত্রিক অধিকার ও শক্তিশালী প্রাতিষ্ঠানিক সেবা পাবে।",
+        "impact_en": "Establishing term limits will curb the abuse of power, ensuring ordinary citizens enjoy true democratic rights and robust institutions.",
+        "details_bn": "বিশ্বজুড়ে রাষ্ট্রপতির মেয়াদসীমা ব্যাপকভাবে প্রচলিত থাকলেও ওয়েস্টমিনস্টার ধাঁচের সংসদীয় ব্যবস্থায় প্রধান নির্বাহী বা প্রধানমন্ত্রীর মেয়াদ সাধারণত নির্ধারিত থাকে না। তবে হাঙ্গেরি, থাইল্যান্ড, বাংলাদেশ, মালয়েশিয়া ও ভারতের অভিজ্ঞতায় দেখা গেছে, নিয়ন্ত্রণহীন দীর্ঘ শাসন বিচার বিভাগ, প্রশাসন ও গণমাধ্যমের ওপর নেতিবাচক প্রভাব ফেলে এবং গণতান্ত্রিক প্রতিষ্ঠান দুর্বল করে। ফলে জবাবদিহি ও শান্তিপূর্ণ ক্ষমতা হস্তান্তরের স্বার্থে প্রধানমন্ত্রীর মেয়াদসীমা নির্ধারণ নিয়ে আন্তর্জাতিকভাবে বিতর্ক ও আলোচনা জোরালো হচ্ছে।",
+        "details_en": "While presidential term limits are widely adopted globally, Westminster-style parliamentary systems typically lack term limits for prime ministers. However, experiences in Hungary, Thailand, Bangladesh, Malaysia, and India show that unchecked prolonged rule negatively impacts the judiciary, administration, and media, weakening democratic institutions. Consequently, debates on establishing prime ministerial term limits are intensifying internationally to ensure accountability and peaceful transitions of power."
+      }
+    },
+    {
+      "story_id": "abcceaab-38e1-5e20-82b3-7208ddd84090",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fyfc5r03z%2Fpexels-tarik-sami-2136439315-33169785.jpg?rect=0%2C936%2C6919%2C3632&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-20T22:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7053,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/religion/islam/qvv9mu9exa",
+          "title": "মহানবীর কূটনৈতিক সাফল্য",
+          "snippet": "মহানবীর কূটনৈতিক সাফল্য"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসলামের ইতিহাসে নবম হিজরি প্রতিনিধিদলের বছর বা 'আমুল উফুদ' হিসেবে পরিচিত",
+        "title_en": "The Ninth Hijri Year Known in Islamic History as 'Amul Ufud'",
+        "summary_bn": "**মক্কা বিজয়ের পর আরবজুড়ে রাজনৈতিক পরিবর্তন আসায় নবম হিজরিতে মদিনায় প্রতিনিধিদলগুলোর আগমন ব্যাপকভাবে বৃদ্ধি পায়।**",
+        "summary_en": "**Delegations arriving in Medina surged massively during the ninth Hijri following sweeping political shifts across Arabia after the conquest of Mecca.**",
+        "why_it_matters_bn": "null",
+        "why_it_matters_en": "null",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T22:30:00+00:00",
+        "lead_bn": "**মক্কা বিজয়ের পর আরবজুড়ে রাজনৈতিক পরিবর্তন আসায় নবম হিজরিতে মদিনায় প্রতিনিধিদলগুলোর আগমন ব্যাপকভাবে বৃদ্ধি পায়।**",
+        "lead_en": "**Delegations arriving in Medina surged massively during the ninth Hijri following sweeping political shifts across Arabia after the conquest of Mecca.**",
+        "bullets_bn": [
+          "১. ইসলাম গ্রহণের খবর ছড়িয়ে পড়ার পর আরবের বিভিন্ন অঞ্চল থেকে প্রতিনিধিদল মদিনায় আগমন করে।",
+          "২. ইসলামের ইতিহাসে নবম হিজরি সালটি 'আমুল উফুদ' বা প্রতিনিধিদলের বছর হিসেবে খ্যাতি লাভ করে।",
+          "৩. বিভিন্ন গোত্র ইসলাম সম্পর্কে জানতে এবং আনুগত্যের অঙ্গীকার জানাতে মদিনা সফর করে।"
+        ],
+        "bullets_en": [
+          "1. Delegations arrived in Medina from various regions across Arabia following the spread of Islam.",
+          "2. The ninth Hijri year gained historical renown as 'Amul Ufud' or the Year of Delegations.",
+          "3. Different tribes visited Medina to learn about Islam and offer pledges of allegiance."
+        ],
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "মক্কা বিজয়ের আগে আরবের অনেক গোত্র ইসলাম গ্রহণের বিষয়ে সতর্ক অবস্থান নিয়েছিল এবং কোরাইশদের সঙ্গে সংঘাতের পরিণতির অপেক্ষায় ছিল। অষ্টম হিজরিতে মক্কা বিজয় ও পরবর্তী ঘটনাবলি আরবের রাজনৈতিক ও সামাজিক পরিস্থিতিতে বড় পরিবর্তন আনে। পবিত্র কুরআনের সুরা নাসরে এই বিজয়ের মাধ্যমে মানুষের দলে দলে ইসলাম গ্রহণের ঐতিহাসিক পটভূমি বর্ণিত হয়েছে।",
+        "details_en": "Before the conquest of Mecca, many Arab tribes maintained a cautious stance regarding Islam, awaiting the outcome of the conflict with the Quraysh. The conquest in the eighth Hijri and subsequent events brought major shifts to the political and social landscape of Arabia. Surah Nasr in the Holy Quran depicts this historical backdrop of people entering Islam in crowds following the divine victory."
+      }
+    },
+    {
+      "story_id": "d295537b-8c19-5d57-8e6c-1805930ab78a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T22:26:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.683,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1170395",
+          "title": "ব্রাহ্মণবাড়িয়ায় গরুর ঘাস কাটা নিয়ে সংঘর্ষে জড়ালো দুই পক্ষ",
+          "snippet": "ব্রাহ্মণবাড়িয়ায় গরুর ঘাস কাটা নিয়ে সংঘর্ষে জড়ালো দুই পক্ষ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে ঘাস কাটা নিয়ে সংঘর্ষে ইউপি চেয়ারম্যানসহ আহত ১৫",
+        "title_en": "Grass Cutting Dispute Triggers Clash in Brahmanbaria, Leaving 15 Injured Including UP Chairman",
+        "summary_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে গরুর ঘাস কাটাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষে ইউনিয়ন পরিষদের চেয়ারম্যানসহ অন্তত ১৫ জন আহত হয়েছেন।",
+        "summary_en": "At least 15 people, including a Union Parishad chairman, were injured during a violent clash over grass cutting in Brahmanbaria's Sarail.",
+        "why_it_matters_bn": "গ্রামীণ এলাকায় তুচ্ছ বিষয় কেন্দ্র করে সহিংসতা এড়াতে দ্রুত স্থানীয় বিরোধ নিষ্পত্তির প্রয়োজনীয়তা স্পষ্ট হয়েছে।",
+        "why_it_matters_en": "Tensions in rural communities highlight the vital need for prompt local conflict resolution to prevent sudden violence.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T22:26:09+00:00",
+        "lead_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে গরুর ঘাস কাটাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষে ইউনিয়ন পরিষদের চেয়ারম্যানসহ অন্তত ১৫ জন আহত হয়েছেন।",
+        "lead_en": "At least 15 people, including a Union Parishad chairman, were injured during a violent clash over grass cutting in Brahmanbaria's Sarail.",
+        "bullets_bn": [
+          "গরুর জন্য ঘাস কাটাকে কেন্দ্র করে ব্রাহ্মণবাড়িয়ার সরাইলে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষ ঘটে।",
+          "রাতের অন্ধকারে সংঘটিত এই সংঘর্ষে স্থানীয় ইউপি চেয়ারম্যানসহ উভয় পক্ষের অন্তত ১৫ জন আহত হন।",
+          "ঘটনার পর এলাকায় থমথমে পরিস্থিতি বিরাজ করায় অতিরিক্ত পুলিশ মোতায়েন করে শৃঙ্খলা বজায় রাখা হয়।"
+        ],
+        "bullets_en": [
+          "A violent clash broke out between two groups in Brahmanbaria's Sarail over cutting grass for cattle.",
+          "At least 15 people, including the local Union Parishad chairman, sustained injuries during the nighttime altercation.",
+          "Police stepped in following the conflict to restore law and order and calm tension in the area."
+        ],
+        "impact_bn": "গ্রামীণ এলাকায় তুচ্ছ বিষয় কেন্দ্র করে সহিংসতা এড়াতে দ্রুত স্থানীয় বিরোধ নিষ্পত্তির প্রয়োজনীয়তা স্পষ্ট হয়েছে।",
+        "impact_en": "Tensions in rural communities highlight the vital need for prompt local conflict resolution to prevent sudden violence.",
+        "details_bn": "বাংলাদেশে গ্রামীণ এলাকায় জমি ও ছোটখাটো সম্পদ নিয়ে তৈরি হওয়া সাধারণ বিরোধ মাঝেমধ্যেই বড় সংঘর্ষে রূপ নেয়। ব্রাহ্মণবাড়িয়ার সরাইলে স্থানীয় গোষ্ঠীগুলোর মধ্যকার পূর্ববিরোধ এবং প্রভাব বিস্তারের মনোভাব থেকে প্রায়শই তুচ্ছ ঘটনা কেন্দ্র করে সহিংসতা ছড়িয়ে পড়ে। এসব ঘটনা নিয়ন্ত্রণে প্রশাসন নিয়মিত পুলিশি তৎপরতা বৃদ্ধির মাধ্যমে স্থানীয় শান্তি ধরে রাখার চেষ্টা করে।",
+        "details_en": "In rural Bangladesh, minor disagreements over local resources such as land or grazing areas often escalate into larger clashes due to underlying factional rivalries. Sarail in Brahmanbaria has a history of local group disputes where minor incidents trigger violent altercations, frequently requiring law enforcement intervention to restore peace and process legal cases against perpetrators."
+      }
+    },
+    {
+      "story_id": "58fe4c21-f45a-5cba-801f-c539b2bcc031",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "tags": [
+        "#SpaceX",
+        "#Tesla",
+        "#ElonMusk"
+      ],
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
+      "image_caption": null,
+      "published_at": "2026-10-20T22:57:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6483,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+          "title": "SpaceX and Tesla boards form special committees to review merger",
+          "snippet": "SpaceX and Tesla boards form special committees to review merger"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্পেসএক্স এবং টেসলার মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন",
+        "title_en": "SpaceX and Tesla Boards Form Special Committees to Review Merger",
+        "summary_bn": "**শেয়ারহোল্ডারদের অনুরোধে স্পেসএক্স এবং টেসলা সম্ভাব্য মার্জ পর্যালোচনা করতে স্বাধীন পরিচালকদের নিয়ে বিশেষ কমিটি গঠন করেছে।**",
+        "summary_en": "**SpaceX and Tesla boards have formed special committees of independent directors to review a potential merger following shareholder requests.**",
+        "why_it_matters_bn": "১. দুই কোম্পানির বোর্ড শেয়ারহোল্ডারদের অনুরোধে সম্ভাব্য মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন করেছে।",
+        "why_it_matters_en": "1. The boards of both companies established special committees consisting of independent directors to review a possible merger.",
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T22:57:57+00:00",
+        "lead_bn": "**শেয়ারহোল্ডারদের অনুরোধে স্পেসএক্স এবং টেসলা সম্ভাব্য মার্জ পর্যালোচনা করতে স্বাধীন পরিচালকদের নিয়ে বিশেষ কমিটি গঠন করেছে।**",
+        "lead_en": "**SpaceX and Tesla boards have formed special committees of independent directors to review a potential merger following shareholder requests.**",
+        "bullets_bn": [
+          "১. দুই কোম্পানির বোর্ড শেয়ারহোল্ডারদের অনুরোধে সম্ভাব্য মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন করেছে।",
+          "২. প্রধান নির্বাহী Elon Musk জানিয়েছেন যে স্বার্থের সংঘাত এড়াতে তিনি বা তার ভাই Kimbal Musk এই কমিটির আলোচনায় অংশ নিচ্ছেন না।",
+          "৩. মার্জ নিশ্চিত নয় এবং চূড়ান্ত সিদ্ধান্তের জন্য শেষ পর্যন্ত শেয়ারহোল্ডারদের সমর্থন প্রয়োজন হবে বলে জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "1. The boards of both companies established special committees consisting of independent directors to review a possible merger.",
+          "2. CEO Elon Musk confirmed that neither he nor his brother Kimbal Musk can participate in discussions due to conflicts of interest.",
+          "3. Musk cautioned that the merger is not guaranteed and ultimately depends on shareholder approval."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্পেসএক্স এবং টেসলার প্রধান নির্বাহী Elon Musk-এর ভাষ্য অনুযায়ী, শেয়ারহোল্ডারদের ক্রমবর্ধমান চাপের মুখে দুই কোম্পানির মার্জ বা একত্রীকরণের বিষয়টি পর্যালোচনার উদ্যোগ নেওয়া হয়েছে। স্বাধীন পরিচালকদের সমন্বয়ে গঠিত এই কমিটিগুলো দুই প্রতিষ্ঠানের ব্যবসায়িক কাঠামোর সম্ভাব্যতা খতিয়ে দেখবে। তবে Musk স্পষ্ট করেছেন যে মার্জ প্রক্রিয়াটি এখনও নিশ্চিত নয় এবং এর ভবিষ্যৎ সম্পূর্ণভাবে শেয়ারহোল্ডারদের অনুমোদনের ওপর নির্ভর করছে।",
+        "details_en": "At the request of shareholders, the boards of SpaceX and Tesla created special committees comprising independent directors to assess a potential merger. CEO Elon Musk noted that due to conflicts of interest, neither he nor Kimbal Musk are involved in committee discussions. While Musk expressed personal support for the idea, he cautioned that a merger is not guaranteed and requires ultimate backing from shareholders."
+      }
+    },
+    {
+      "story_id": "fa75e48c-39fc-552f-ac2a-0f0f77026866",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T22:05:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5806,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1170394",
+          "title": "রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শনে গণঅধিকার পরিষদের নেতারা",
+          "snippet": "রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শনে গণঅধিকার পরিষদের নেতারা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দুর্গাপূজা উপলক্ষে রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শন করেছেন গণঅধিকার পরিষদের নেতারা",
+        "title_en": "Gono Odhikar Parishad Leaders Visit Ramna and Dhakeshwari Temples",
+        "summary_bn": "দুর্গাপূজা উদযাপনের অংশ হিসেবে রাজধানীর দুটি প্রধান মন্দির পরিদর্শন করে হিন্দু সম্প্রদায়ের নেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেছেন গণঅধিকার পরিষদের নেতারা।",
+        "summary_en": "Gono Odhikar Parishad leaders visited two major capital temples and exchanged greetings with Hindu community leaders as part of Durga Puja celebrations.",
+        "why_it_matters_bn": "এই ধরনের আন্তঃধর্মীয় শুভেচ্ছা বিনিময় দেশের বিভিন্ন সম্প্রদায়ের মধ্যে সাম্প্রদায়িক সম্প্রীতি ও পারস্পরিক আস্থা সুদৃঢ় করতে ভূমিকা রাখে।",
+        "why_it_matters_en": "Such interfaith greetings help strengthen communal harmony and mutual trust among different communities in the country.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T22:05:09+00:00",
+        "lead_bn": "দুর্গাপূজা উদযাপনের অংশ হিসেবে রাজধানীর দুটি প্রধান মন্দির পরিদর্শন করে হিন্দু সম্প্রদায়ের নেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেছেন গণঅধিকার পরিষদের নেতারা।",
+        "lead_en": "Gono Odhikar Parishad leaders visited two major capital temples and exchanged greetings with Hindu community leaders as part of Durga Puja celebrations.",
+        "bullets_bn": [
+          "১. গণঅধিকার পরিষদের শীর্ষ নেতারা রাজধানীর রমনা কালী মন্দির ও শ্রী শ্রী ঢাকেশ্বরী জাতীয় মন্দির পরিদর্শন করেন।",
+          "২. পরিদর্শনকালে দলটির প্রতিনিধিদল সনাতন ধর্মাবলম্বী নেতাদের সঙ্গে কুশল বিনিময় ও শুভেচ্ছা আদান-প্রদান করেন।",
+          "৩. দেশের সব ধর্মের মানুষের সমান অধিকার ও নিরাপত্তা নিশ্চিত করার বার্তা দেওয়া হয় এই কর্মসূচির মাধ্যমে।"
+        ],
+        "bullets_en": [
+          "1. Top leaders of Gono Odhikar Parishad visited Ramna Kali Temple and Sri Sri Dhakeshwari National Temple.",
+          "2. The delegation exchanged greetings and pleasantries with Hindu community leaders during the visit.",
+          "3. The initiative conveyed a message of ensuring equal rights and security for people of all faiths in the country."
+        ],
+        "impact_bn": "এই ধরনের আন্তঃধর্মীয় শুভেচ্ছা বিনিময় দেশের বিভিন্ন সম্প্রদায়ের মধ্যে সাম্প্রদায়িক সম্প্রীতি ও পারস্পরিক আস্থা সুদৃঢ় করতে ভূমিকা রাখে।",
+        "impact_en": "Such interfaith greetings help strengthen communal harmony and mutual trust among different communities in the country.",
+        "details_bn": "শারদীয় দুর্গাপূজা উদযাপনের প্রাক্কালে দেশের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠনের পক্ষ থেকে মন্দির পরিদর্শন এবং সনাতন ধর্মাবলম্বীদের সঙ্গে শুভেচ্ছা বিনিময়ের ঐতিহ্য রয়েছে। এরই ধারাবাহিকতায় গণঅধিকার পরিষদের নেতারা রাজধানীর ঐতিহাসিক রমনা কালী মন্দির এবং ঢাকেশ্বরী জাতীয় মন্দির পরিদর্শনে যান এবং পূজামণ্ডপের সার্বিক পরিস্থিতি ও নিরাপত্তার খোঁজখবর নেন।",
+        "details_en": "Political and social organizations in the country traditionally visit temples and exchange greetings with the Hindu community ahead of Sharadiya Durga Puja. Continuing this practice, Gono Odhikar Parishad leaders visited the capital's historic Ramna Kali Temple and Dhakeshwari National Temple to observe the overall situation and security measures at the puja venues."
       }
     }
   ]
