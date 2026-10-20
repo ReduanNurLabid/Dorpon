@@ -80,12 +80,6 @@ FEEDS = {
         "url": "https://techcrunch.com/feed/",
         "language": "en",
         "source_type": "rss"
-    },
-    "the_verge": {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/rss/index.xml",
-        "language": "en",
-        "source_type": "rss"
     }
 }
 
@@ -230,6 +224,11 @@ EXCLUSION_KEYWORDS = [
     "box office", "horoscope", "celebrity", "drama", "hero", "heroine", "ott", "web series",
     "অভিনেতা", "অভিনেত্রী", "সিনেমা", "নাটক", "তারকা", "রাশিফল", "নায়ক", "নায়িকা", "বিনোদন", "সঙ্গীত",
     
+    # Commercial shopping, gadget discounts & deals (Noise)
+    "discount", "deal", "deals", "refurbished", "sale", "save $", "coupon", "cashback",
+    "mouse", "headset", "earbuds", "best buy", "amazon deal", "prime day", "black friday", "cyber monday",
+    "ছাড়", "মূল্যছাড়", "ডিসকাউন্ট", "অফার", "সেল",
+
     # Petty / Local Blotter Crime (Noise)
     "road accident", "killed in road", "motorcycle accident", "সড়ক দুর্ঘটনা", "নিহত", "লাশ উদ্ধার"
 ]

@@ -1,7 +1,8 @@
 import re
-from typing import List, Set
+from typing import List, Set, Optional
 from pipeline.models import RawArticle
 from pipeline.config import INTEREST_CATEGORIES, CANONICAL_ENTITIES
+from pipeline.processing.scoring import is_article_relevant_to_bd, compute_base_importance, compute_time_decayed_score
 
 class ClusteredEvent:
     def __init__(self, primary_article: RawArticle):
@@ -10,6 +11,8 @@ class ClusteredEvent:
         self.primary_title = primary_article.title
         self.matched_categories: List[str] = []
         self.bcs_score: float = 0.0
+        self.importance_score: float = 2.0
+        self.rank_score: float = 1.0
         self.canonical_entities: Set[str] = set()
 
 def extract_canonical_entities(text: str) -> Set[str]:
@@ -21,7 +24,7 @@ def extract_canonical_entities(text: str) -> Set[str]:
             entities.add(entity_slug)
     return entities
 
-def categorize_article(text: str) -> List[str]:
+def categorize_article(text: str, source_hint: str = "") -> List[str]:
     """Matches text against INTEREST_CATEGORIES keywords using strict word boundaries."""
     text_lower = text.lower()
     categories = []
@@ -39,7 +42,19 @@ def categorize_article(text: str) -> List[str]:
                 score += 1
         if score > 0:
             categories.append(cat_id)
-    return categories or ["governance_law"]
+            
+    if categories:
+        return categories
+
+    # Source-aware fallback
+    hint = source_hint.lower()
+    if "tech" in hint:
+        return ["tech_innovation"]
+    elif "business" in hint or "financial" in hint or "economy" in hint:
+        return ["economy_business"]
+    elif "crime" in hint or "justice" in hint or "law" in hint or "politics" in hint:
+        return ["governance_law"]
+    return ["governance_law"]
 
 def calculate_bcs_relevance(text: str) -> float:
     """
@@ -98,6 +113,11 @@ def cluster_and_tag_articles(articles: List[RawArticle]) -> List[ClusteredEvent]
     
     for art in articles:
         combined_text = f"{art.title} {art.summary_raw or ''} {art.body_text or ''}"
+        
+        # 1. Relevance filter: drop foreign noise / irrelevant commercial deals
+        if not is_article_relevant_to_bd(art.title, combined_text, art.source):
+            continue
+
         art_entities = extract_canonical_entities(combined_text)
         art_tokens = set(re.findall(r"\w{4,}", art.title.lower()))
         
@@ -135,10 +155,25 @@ def cluster_and_tag_articles(articles: List[RawArticle]) -> List[ClusteredEvent]
             new_cluster = ClusteredEvent(art)
             new_cluster.seed_entities = art_entities
             new_cluster.canonical_entities = art_entities
-            new_cluster.matched_categories = categorize_article(combined_text)
+            new_cluster.matched_categories = categorize_article(combined_text, art.source)
             new_cluster.bcs_score = calculate_bcs_relevance(combined_text)
             clusters.append(new_cluster)
             
-    # Sort clusters by BCS score descending
-    clusters.sort(key=lambda c: c.bcs_score, reverse=True)
+    # Calculate Base Importance and Time-Decayed Rank Score for each cluster
+    for cluster in clusters:
+        cluster_text = f"{cluster.primary_title} " + " ".join(a.title for a in cluster.articles)
+        cluster.importance_score = compute_base_importance(
+            cluster.primary_title,
+            cluster_text,
+            cluster.articles[0].source,
+            cluster_size=len(cluster.articles),
+            matched_categories=cluster.matched_categories
+        )
+        cluster.rank_score = compute_time_decayed_score(
+            cluster.importance_score,
+            cluster.articles[0].published_at
+        )
+
+    # Sort clusters by Time-Decayed Rank Score descending (Freshness + Importance)
+    clusters.sort(key=lambda c: c.rank_score, reverse=True)
     return clusters

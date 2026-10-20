@@ -102,6 +102,8 @@ class CapsuleStory(BaseModel):
     image_caption: Optional[str] = None
     published_at: Optional[str] = None
     is_bcs_pro_selected: bool = False  # True if featured in trending capsule
+    importance_score: float = 2.0
+    rank_score: float = 1.0
     sources: List[Dict[str, str]]
     daily_buzz: DailyBuzzItem
     bcs_pro: Optional[BcsProItem] = None

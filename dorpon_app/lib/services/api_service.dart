@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:math' as math;
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:http/http.dart' as http;
 import '../models/capsule_models.dart';
@@ -13,7 +14,7 @@ class ApiService {
     try {
       final snapshot = await FirebaseFirestore.instance
           .collection('daily_buzz')
-          .limit(25)
+          .limit(50)
           .get()
           .timeout(const Duration(seconds: 8));
 
@@ -490,6 +491,8 @@ class ApiService {
           imageCaption: existing.imageCaption.isNotEmpty ? existing.imageCaption : story.imageCaption,
           publishedAt: existing.publishedAt.isNotEmpty ? existing.publishedAt : story.publishedAt,
           isBcsProSelected: existing.isBcsProSelected || story.isBcsProSelected,
+          importanceScore: math.max(existing.importanceScore, story.importanceScore),
+          rankScore: math.max(existing.rankScore, story.rankScore),
           sources: mergedSources,
           dailyBuzz: existing.dailyBuzz,
           bcsPro: existing.bcsPro ?? story.bcsPro,
@@ -498,6 +501,15 @@ class ApiService {
         deduplicated.add(story);
       }
     }
+
+    // Dynamic Time-Decayed Ranking on Client using Device Clock
+    // RankScore = Importance / (AgeInHours + 2.0) ^ 1.3
+    final now = DateTime.now();
+    deduplicated.sort((a, b) {
+      final scoreA = a.calculateLiveRankScore(now);
+      final scoreB = b.calculateLiveRankScore(now);
+      return scoreB.compareTo(scoreA);
+    });
 
     return deduplicated;
   }

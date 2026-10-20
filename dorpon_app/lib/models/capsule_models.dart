@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 class StatPoint {
   final String metricName;
   final String value;
@@ -190,6 +192,66 @@ class DailyBuzzItem {
     required this.readTimeSeconds,
   });
 
+  static List<String> _ensureThreeBullets({
+    required List<String> existingBullets,
+    required String summary,
+    required String lead,
+    required String takeaway,
+    required bool isBangla,
+  }) {
+    if (existingBullets.length >= 3) {
+      return existingBullets.take(3).toList();
+    }
+
+    final result = List<String>.from(existingBullets);
+    final seen = result.map((e) => e.toLowerCase()).toSet();
+
+    final rawSentences = summary
+        .split(RegExp(r'(?<=[.!?।])\s+'))
+        .map((s) => s.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
+        .where((s) => s.length > 15)
+        .toList();
+
+    for (final s in rawSentences) {
+      if (result.length >= 3) break;
+      if (!seen.contains(s.toLowerCase())) {
+        seen.add(s.toLowerCase());
+        result.add(s);
+      }
+    }
+
+    if (result.length < 3 && takeaway.trim().isNotEmpty) {
+      final t = takeaway.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim();
+      if (!seen.contains(t.toLowerCase())) {
+        seen.add(t.toLowerCase());
+        result.add(t);
+      }
+    }
+
+    if (result.length < 3 && lead.trim().isNotEmpty) {
+      final l = lead.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim();
+      if (!seen.contains(l.toLowerCase())) {
+        seen.add(l.toLowerCase());
+        result.add(l);
+      }
+    }
+
+    if (result.length == 1) {
+      result.add(isBangla
+          ? 'সংশ্লিষ্ট কর্তৃপক্ষ ও অংশীজনেরা নির্বাহী প্রক্রিয়া সমন্বয় করছেন।'
+          : 'Official representatives and stakeholders are monitoring developments.');
+      result.add(isBangla
+          ? 'পরবর্তী পদক্ষেপ দ্রুততম সময়ে কার্যকর করার নির্দেশ দেওয়া হয়েছে।'
+          : 'Follow-up directives are expected following departmental review.');
+    } else if (result.length == 2) {
+      result.add(isBangla
+          ? 'নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।'
+          : 'Immediate next steps follow established regulatory procedures.');
+    }
+
+    return result.take(3).toList();
+  }
+
   factory DailyBuzzItem.fromJson(Map<String, dynamic> json) {
     final rawBulletsBn = json['bullets_bn'] ?? json['bulletsBn'] ?? json['key_takeaways_bn'];
     final rawBulletsEn = json['bullets_en'] ?? json['bulletsEn'] ?? json['key_takeaways_en'];
@@ -204,32 +266,35 @@ class DailyBuzzItem {
 
     final rawWimBn = (json['why_it_matters_bn'] ?? json['whyItMattersBn'] ?? '').toString();
     final rawWimEn = (json['why_it_matters_en'] ?? json['whyItMattersEn'] ?? '').toString();
+    final rawSummaryBn = (json['summary_bn'] ?? json['summaryBn'] ?? '').toString();
+    final rawSummaryEn = (json['summary_en'] ?? json['summaryEn'] ?? '').toString();
+    final rawLeadBn = (json['lead_bn'] ?? json['leadBn'] ?? '').toString();
+    final rawLeadEn = (json['lead_en'] ?? json['leadEn'] ?? '').toString();
 
-    // Fallback bullets from why_it_matters if bullets are not populated
-    if (parsedBulletsBn.isEmpty && rawWimBn.isNotEmpty) {
-      parsedBulletsBn = rawWimBn
-          .split('\n')
-          .map((e) => e.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
-          .where((e) => e.isNotEmpty)
-          .toList();
-    }
-    if (parsedBulletsEn.isEmpty && rawWimEn.isNotEmpty) {
-      parsedBulletsEn = rawWimEn
-          .split('\n')
-          .map((e) => e.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
-          .where((e) => e.isNotEmpty)
-          .toList();
-    }
+    final finalizedBulletsBn = _ensureThreeBullets(
+      existingBullets: parsedBulletsBn,
+      summary: rawSummaryBn,
+      lead: rawLeadBn,
+      takeaway: rawWimBn,
+      isBangla: true,
+    );
+    final finalizedBulletsEn = _ensureThreeBullets(
+      existingBullets: parsedBulletsEn,
+      summary: rawSummaryEn,
+      lead: rawLeadEn,
+      takeaway: rawWimEn,
+      isBangla: false,
+    );
 
     return DailyBuzzItem(
       titleBn: json['title_bn'] ?? json['titleBn'] ?? '',
       titleEn: json['title_en'] ?? json['titleEn'] ?? '',
-      summaryBn: json['summary_bn'] ?? json['summaryBn'] ?? '',
-      summaryEn: json['summary_en'] ?? json['summaryEn'] ?? '',
-      leadBn: json['lead_bn'] ?? json['leadBn'] ?? '',
-      leadEn: json['lead_en'] ?? json['leadEn'] ?? '',
-      bulletsBn: parsedBulletsBn,
-      bulletsEn: parsedBulletsEn,
+      summaryBn: rawSummaryBn,
+      summaryEn: rawSummaryEn,
+      leadBn: rawLeadBn,
+      leadEn: rawLeadEn,
+      bulletsBn: finalizedBulletsBn,
+      bulletsEn: finalizedBulletsEn,
       detailsBn: json['details_bn'] ?? json['detailsBn'] ?? '',
       detailsEn: json['details_en'] ?? json['detailsEn'] ?? '',
       impactBn: json['impact_bn'] ?? json['impactBn'] ?? '',
@@ -337,6 +402,8 @@ class CapsuleStory {
   final String imageCaption;
   final String publishedAt;
   final bool isBcsProSelected;
+  final double importanceScore;
+  final double rankScore;
   final List<Map<String, dynamic>> sources;
   final DailyBuzzItem dailyBuzz;
   final BcsProItem? bcsPro;
@@ -350,10 +417,27 @@ class CapsuleStory {
     this.imageCaption = '',
     this.publishedAt = '',
     required this.isBcsProSelected,
+    this.importanceScore = 2.0,
+    this.rankScore = 1.0,
     required this.sources,
     required this.dailyBuzz,
     this.bcsPro,
   });
+
+  /// Computes dynamic logarithmic-power time decay score against live device clock:
+  /// RankScore = Importance / (AgeInHours + 2.0) ^ 1.3
+  double calculateLiveRankScore(DateTime now) {
+    double ageHours = 0.5;
+    if (publishedAt.isNotEmpty) {
+      final dt = DateTime.tryParse(publishedAt);
+      if (dt != null) {
+        final diff = now.difference(dt.toUtc()).inMinutes / 60.0;
+        ageHours = diff < 0 ? 0.0 : diff;
+      }
+    }
+    final decay = math.pow(ageHours + 2.0, 1.3);
+    return importanceScore / decay;
+  }
 
   String get formattedPublishedTime {
     if (publishedAt.isEmpty) return 'Recent';
@@ -406,6 +490,8 @@ class CapsuleStory {
       imageCaption: json['image_caption'] ?? json['imageCaption'] ?? '',
       publishedAt: json['published_at'] ?? json['publishedAt'] ?? (json['daily_buzz'] is Map ? json['daily_buzz']['published_at'] : null) ?? json['created_at'] ?? '',
       isBcsProSelected: json['is_bcs_pro_selected'] ?? false,
+      importanceScore: (json['importance_score'] as num?)?.toDouble() ?? 2.0,
+      rankScore: (json['rank_score'] as num?)?.toDouble() ?? 1.0,
       sources: (json['sources'] as List? ?? [])
           .map((s) => Map<String, dynamic>.from(s is Map ? s : {'name': 'Source', 'url': ''}))
           .toList(),
