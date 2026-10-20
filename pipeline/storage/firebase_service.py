@@ -89,6 +89,98 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
     return count
 
 
+def get_recent_published_stories(limit: int = 100) -> List[Dict[str, Any]]:
+    """
+    Fetches recent stories from Firestore 'daily_buzz' and 'hourly_buzz' collections
+    to maintain cross-run event memory and prevent duplicate story generation.
+    Falls back to data/output/hourly_buzz_latest.json if Firestore is unreachable.
+    """
+    import json
+    stories = []
+    seen_ids = set()
+
+    try:
+        db = get_firestore_client()
+        # Fetch from daily_buzz
+        docs = db.collection("daily_buzz").limit(limit).stream()
+        for doc in docs:
+            data = doc.to_dict()
+            s_id = data.get("story_id") or doc.id
+            if s_id and s_id not in seen_ids:
+                seen_ids.add(s_id)
+                stories.append(data)
+                
+        # Also check hourly_buzz
+        h_docs = db.collection("hourly_buzz").limit(limit).stream()
+        for doc in h_docs:
+            data = doc.to_dict()
+            s_id = data.get("story_id") or doc.id
+            if s_id and s_id not in seen_ids:
+                seen_ids.add(s_id)
+                stories.append(data)
+    except Exception as e:
+        print(f"[Firebase] Warning: Could not fetch recent stories from Firestore: {e}")
+
+    # Fallback / augment with local JSON if available
+    local_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "data", "output", "hourly_buzz_latest.json"))
+    if os.path.exists(local_path):
+        try:
+            with open(local_path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+                for s in payload.get("stories", []):
+                    s_id = s.get("story_id")
+                    if s_id and s_id not in seen_ids:
+                        seen_ids.add(s_id)
+                        stories.append(s)
+        except Exception:
+            pass
+
+    return stories
+
+
+def enrich_story_in_firestore(story_id: str, new_sources: List[Dict[str, Any]]) -> bool:
+    """
+    Appends new publisher sources to an existing story in 'daily_buzz' and 'hourly_buzz'
+    without overwriting the existing synthesis.
+    """
+    if not new_sources:
+        return False
+    try:
+        db = get_firestore_client()
+        for col_name in ["daily_buzz", "hourly_buzz"]:
+            doc_ref = db.collection(col_name).document(story_id)
+            doc_snap = doc_ref.get()
+            if doc_snap.exists:
+                doc_data = doc_snap.to_dict()
+                existing_sources = doc_data.get("sources", [])
+                existing_urls = {
+                    (s.get("url") or "").strip().lower() for s in existing_sources if s.get("url")
+                }
+                existing_names = {
+                    (s.get("name") or "").strip().lower() for s in existing_sources if s.get("name")
+                }
+
+                added = False
+                for src in new_sources:
+                    u = (src.get("url") or "").strip().lower()
+                    n = (src.get("name") or "").strip().lower()
+                    if (not u or u not in existing_urls) and (not n or n not in existing_names):
+                        existing_sources.append(src)
+                        if u: existing_urls.add(u)
+                        if n: existing_names.add(n)
+                        added = True
+
+                if added:
+                    doc_ref.update({
+                        "sources": existing_sources,
+                        "updated_at": firestore.SERVER_TIMESTAMP
+                    })
+        return True
+    except Exception as e:
+        print(f"[Firebase] Warning: Could not enrich story {story_id}: {e}")
+        return False
+
+
 def stage_bcs_pro_draft_to_firestore(capsule: DailyCapsule) -> str:
     """
     Pushes the morning BCS Pro 7-section Civilsdaily capsule draft to 'bcs_pro_drafts'.

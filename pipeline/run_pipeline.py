@@ -11,14 +11,16 @@ if sys.stdout:
 
 from pipeline.collectors.rss_fetcher import fetch_rss_candidates
 from pipeline.collectors.article_scraper import scrape_article_body, scrape_article_details
-from pipeline.processing.deduplicator import cluster_and_tag_articles
+from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
 from pipeline.processing.selector import select_stories_for_audiences
 from pipeline.processing.synthesizer import synthesize_story_with_ai
 from pipeline.models import DailyCapsule, CapsuleStory
 from pipeline.storage.firebase_service import (
     push_hourly_buzz_to_firestore,
     stage_bcs_pro_draft_to_firestore,
-    publish_bcs_pro_edition
+    publish_bcs_pro_edition,
+    get_recent_published_stories,
+    enrich_story_in_firestore
 )
 
 def run_hourly_buzz(limit: int = 8):
@@ -56,7 +58,69 @@ def run_hourly_buzz(limit: int = 8):
     clusters = cluster_and_tag_articles(candidates)
     print(f"   Generated {len(clusters)} unique event clusters.")
     
-    # 4. Synthesize 60-second Daily Buzz summaries with Topic Diversity (Zero Duplication)
+    # 4. Cross-Run Memory & Deduplication
+    print(f"\n🧠 Loading historical event memory from past 48 hours...")
+    historical_stories = get_recent_published_stories(limit=100)
+    print(f"   Loaded {len(historical_stories)} recent published stories for cross-run deduplication.")
+
+    def extract_clean_tokens(text: str) -> set:
+        words = re.findall(r"[\w\u0980-\u09FF]{3,}", text.lower())
+        stopwords = {
+            "the", "and", "for", "with", "from", "that", "this", "news", "daily", "dorpon",
+            "bangladesh", "latest", "update", "এবং", "থেকে", "করে", "হয়েছে", "হবে", "হয়", "জন্য",
+            "হিসেবে", "নিয়ে", "পর", "বলা", "বলে", "সব", "এক", "দুই"
+        }
+        return {w for w in words if w not in stopwords}
+
+    def find_matching_historical_story(cluster, history_list):
+        cluster_text = f"{cluster.primary_title} {' '.join(a.title for a in cluster.articles)}"
+        c_tokens = extract_clean_tokens(cluster_text)
+        c_ents = cluster.canonical_entities
+
+        for hist in history_list:
+            h_daily = hist.get("daily_buzz") or {}
+            h_text = f"{hist.get('story_id', '')} {h_daily.get('title_en', '')} {h_daily.get('title_bn', '')} {' '.join(hist.get('tags', []))}"
+            h_tokens = extract_clean_tokens(h_text)
+            h_ents = extract_canonical_entities(h_text)
+
+            # 1. High-signal entity signatures
+            # Tarique + Japan
+            tarique_terms = {"tarique", "তারেক", "রহমান"}
+            japan_terms = {"japan", "জাপান", "টোকিও"}
+            if (c_tokens & tarique_terms) and (c_tokens & japan_terms) and (h_tokens & tarique_terms) and (h_tokens & japan_terms):
+                return hist
+
+            # Ishraque + Resignation
+            ishraque_terms = {"ishraque", "ইশরাক"}
+            resignation_terms = {"resignation", "পদত্যাগ", "পদ", "bnp", "বিএনপি"}
+            if (c_tokens & ishraque_terms) and (c_tokens & resignation_terms) and (h_tokens & ishraque_terms) and (h_tokens & resignation_terms):
+                return hist
+
+            # Pete Hegseth + Israel
+            hegseth_terms = {"hegseth", "হেগসেথ"}
+            israel_terms = {"israel", "ইসরায়েল", "ইসরাইল"}
+            if (c_tokens & hegseth_terms) and (c_tokens & israel_terms) and (h_tokens & hegseth_terms) and (h_tokens & israel_terms):
+                return hist
+
+            # 2. Canonical entity overlap
+            specific_overlap = (c_ents & h_ents) - GENERIC_THEMATIC_ENTITIES
+            if specific_overlap:
+                # If they share specific entities and at least 1 content token
+                if c_tokens & h_tokens:
+                    return hist
+
+            # 3. High token overlap
+            if c_tokens and h_tokens:
+                intersection = c_tokens & h_tokens
+                union = c_tokens | h_tokens
+                if union and (len(intersection) / len(union) >= 0.40):
+                    return hist
+                if len(intersection) >= 3:
+                    return hist
+
+        return None
+
+    # 5. Synthesize 60-second Daily Buzz summaries with Topic Diversity & Enrichment
     print(f"\n🤖 Generating 60-second Daily Buzz summaries (diverse topics)...")
     buzz_stories = []
     seen_entities = set()
@@ -64,27 +128,40 @@ def run_hourly_buzz(limit: int = 8):
     GENERIC_THEMATIC_ENTITIES = {"interim_cabinet", "bnp_politics", "election_commission", "anti_corruption"}
 
     for cluster in clusters:
-        # Check topic repetition against already-selected hourly stories
+        # Check against historical coverage across previous hourly runs
+        matched_hist = find_matching_historical_story(cluster, historical_stories)
+        if matched_hist:
+            hist_id = matched_hist.get("story_id")
+            hist_title = (matched_hist.get("daily_buzz") or {}).get("title_en") or hist_id
+            new_sources = [{"name": a.source_name, "url": a.url} for a in cluster.articles]
+            
+            print(f"   🔄 Story already covered: '{cluster.primary_title[:50]}'")
+            print(f"      Enriching existing story [{hist_id}] with new sources: {[s['name'] for s in new_sources]}")
+            enrich_story_in_firestore(hist_id, new_sources)
+            continue
+
+        # Check topic repetition against stories already selected in THIS current run
         specific_entities = cluster.canonical_entities - GENERIC_THEMATIC_ENTITIES
         if specific_entities and specific_entities.intersection(seen_entities):
-            print(f"   ⏩ Skipping duplicate topic cluster: {cluster.primary_title[:50]} (entity: {specific_entities})")
+            print(f"   ⏩ Skipping duplicate topic in current batch: {cluster.primary_title[:50]} (entity: {specific_entities})")
             continue
             
-        # Title token similarity check: ensure no 2 stories share 2+ significant title tokens
-        art_tokens = set(re.findall(r"\w{4,}", cluster.primary_title.lower()))
+        # Title token similarity check within current batch
+        art_tokens = extract_clean_tokens(cluster.primary_title)
         is_duplicate = False
         for prev_tokens in seen_story_tokens:
             if len(art_tokens & prev_tokens) >= 2:
                 is_duplicate = True
                 break
         if is_duplicate:
-            print(f"   ⏩ Skipping title-duplicate cluster: {cluster.primary_title[:50]}")
+            print(f"   ⏩ Skipping title-duplicate cluster in current batch: {cluster.primary_title[:50]}")
             continue
 
         story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
         buzz_stories.append(item)
+        historical_stories.append(item)  # Add to memory for remaining clusters
         if specific_entities:
             seen_entities.update(specific_entities)
         seen_story_tokens.append(art_tokens)

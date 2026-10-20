@@ -27,10 +27,10 @@ class ApiService {
         if (interests != null && interests.isNotEmpty) {
           final filterList = interests.split(',').map((e) => e.trim()).toList();
           final filtered = stories.where((s) => s.interestCategories.any((c) => filterList.contains(c))).toList();
-          if (filtered.isNotEmpty) return filtered;
+          if (filtered.isNotEmpty) return _deduplicateStories(filtered);
         }
 
-        return stories;
+        return _deduplicateStories(stories);
       }
     } catch (e) {
       // Fall back if Firestore request fails
@@ -47,12 +47,12 @@ class ApiService {
         if (response.statusCode == 200) {
           final data = json.decode(utf8.decode(response.bodyBytes));
           final List storiesJson = data['stories'] ?? [];
-          return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+          return _deduplicateStories(storiesJson.map((s) => CapsuleStory.fromJson(s)).toList());
         }
       } catch (_) {}
     }
 
-    return _getFallbackTopStories();
+    return _deduplicateStories(_getFallbackTopStories());
   }
 
   /// Fetches the latest published Current Affairs question-led editorial directly from Firestore
@@ -126,7 +126,7 @@ class ApiService {
           final data = doc.data();
           stories.add(CapsuleStory.fromJson(data));
         }
-        if (stories.isNotEmpty) return stories;
+        if (stories.isNotEmpty) return _deduplicateStories(stories);
       }
     } catch (_) {}
 
@@ -140,13 +140,13 @@ class ApiService {
           final data = json.decode(utf8.decode(response.bodyBytes));
           final List storiesJson = data['stories'] ?? [];
           if (storiesJson.isNotEmpty) {
-            return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+            return _deduplicateStories(storiesJson.map((s) => CapsuleStory.fromJson(s)).toList());
           }
         }
       } catch (_) {}
     }
 
-    return _getFallbackHourlyWires();
+    return _deduplicateStories(_getFallbackHourlyWires());
   }
 
   /// Fetches all historical news archive from Firestore collections 'daily_buzz' and 'hourly_buzz'
@@ -191,7 +191,7 @@ class ApiService {
         final bTime = DateTime.tryParse(b.publishedAt) ?? DateTime(2020);
         return bTime.compareTo(aTime);
       });
-      return list;
+      return _deduplicateStories(list);
     }
 
     // Fallbacks
@@ -200,7 +200,7 @@ class ApiService {
     for (var s in [...fb1, ...fb2]) {
       storyMap[s.storyId] = s;
     }
-    return storyMap.values.toList();
+    return _deduplicateStories(storyMap.values.toList());
   }
 
   static List<CapsuleStory> _getFallbackHourlyWires() {
@@ -431,5 +431,137 @@ class ApiService {
         ),
       ),
     ];
+  }
+
+  /// Deduplicates stories across runs/sources and merges sources into a unified story card
+  static List<CapsuleStory> _deduplicateStories(List<CapsuleStory> stories) {
+    if (stories.isEmpty) return stories;
+
+    final List<CapsuleStory> deduplicated = [];
+
+    for (final story in stories) {
+      final storyTokens = _extractSignificantTokens(story);
+      int matchIndex = -1;
+
+      for (int i = 0; i < deduplicated.length; i++) {
+        final existing = deduplicated[i];
+        final existingTokens = _extractSignificantTokens(existing);
+
+        if (_areStoriesSameEvent(story, existing, storyTokens, existingTokens)) {
+          matchIndex = i;
+          break;
+        }
+      }
+
+      if (matchIndex >= 0) {
+        // Merge sources and tags into the existing story
+        final existing = deduplicated[matchIndex];
+        final mergedSources = List<Map<String, dynamic>>.from(existing.sources);
+        final existingUrls = mergedSources
+            .map((s) => (s['url'] ?? '').toString().trim().toLowerCase())
+            .where((u) => u.isNotEmpty)
+            .toSet();
+        final existingNames = mergedSources
+            .map((s) => (s['name'] ?? '').toString().trim().toLowerCase())
+            .where((n) => n.isNotEmpty)
+            .toSet();
+
+        for (final src in story.sources) {
+          final url = (src['url'] ?? '').toString().trim().toLowerCase();
+          final name = (src['name'] ?? '').toString().trim().toLowerCase();
+          final hasUrl = url.isNotEmpty && existingUrls.contains(url);
+          final hasName = name.isNotEmpty && existingNames.contains(name);
+          if (!hasUrl && !hasName) {
+            mergedSources.add(src);
+            if (url.isNotEmpty) existingUrls.add(url);
+            if (name.isNotEmpty) existingNames.add(name);
+          }
+        }
+
+        final mergedTags = {...existing.tags, ...story.tags}.toList();
+
+        // Overwrite existing with enriched version
+        deduplicated[matchIndex] = CapsuleStory(
+          storyId: existing.storyId,
+          primaryCategory: existing.primaryCategory,
+          interestCategories: existing.interestCategories,
+          tags: mergedTags,
+          imageUrl: existing.imageUrl.isNotEmpty ? existing.imageUrl : story.imageUrl,
+          imageCaption: existing.imageCaption.isNotEmpty ? existing.imageCaption : story.imageCaption,
+          publishedAt: existing.publishedAt.isNotEmpty ? existing.publishedAt : story.publishedAt,
+          isBcsProSelected: existing.isBcsProSelected || story.isBcsProSelected,
+          sources: mergedSources,
+          dailyBuzz: existing.dailyBuzz,
+          bcsPro: existing.bcsPro ?? story.bcsPro,
+        );
+      } else {
+        deduplicated.add(story);
+      }
+    }
+
+    return deduplicated;
+  }
+
+  static bool _areStoriesSameEvent(
+    CapsuleStory a,
+    CapsuleStory b,
+    Set<String> aTokens,
+    Set<String> bTokens,
+  ) {
+    if (a.storyId == b.storyId) return true;
+
+    // Check specific high-signal entity combos
+    bool hasTariqueJapan(Set<String> t) =>
+        (t.contains('tarique') || t.contains('তারেক') || t.contains('রহমান')) &&
+        (t.contains('japan') || t.contains('জাপান'));
+
+    bool hasIshraque(Set<String> t) =>
+        (t.contains('ishraque') || t.contains('ইশরাক')) &&
+        (t.contains('resignation') || t.contains('পদত্যাগ') || t.contains('পদ') || t.contains('bnp') || t.contains('বিএনপি'));
+
+    bool hasHegsethIsrael(Set<String> t) =>
+        (t.contains('hegseth') || t.contains('হেগসেথ')) &&
+        (t.contains('israel') || t.contains('ইসরায়েল') || t.contains('ইসরাইল'));
+
+    if (hasTariqueJapan(aTokens) && hasTariqueJapan(bTokens)) return true;
+    if (hasIshraque(aTokens) && hasIshraque(bTokens)) return true;
+    if (hasHegsethIsrael(aTokens) && hasHegsethIsrael(bTokens)) return true;
+
+    // Shared high-signal token intersection
+    if (aTokens.isNotEmpty && bTokens.isNotEmpty) {
+      final intersection = aTokens.intersection(bTokens);
+      final union = aTokens.union(bTokens);
+
+      if (union.isNotEmpty) {
+        final jaccard = intersection.length / union.length;
+        if (jaccard >= 0.40) return true;
+      }
+
+      // If at least 3 significant tokens match (e.g., proper nouns)
+      if (intersection.length >= 3) return true;
+    }
+
+    return false;
+  }
+
+  static Set<String> _extractSignificantTokens(CapsuleStory story) {
+    final combined = '${story.dailyBuzz.titleEn} ${story.dailyBuzz.titleBn} ${story.tags.join(' ')}'
+        .toLowerCase()
+        .replaceAll(RegExp(r'[^\w\s\u0980-\u09FF]'), ' ');
+
+    final stopWords = {
+      'the', 'is', 'at', 'which', 'on', 'in', 'and', 'or', 'to', 'a', 'an', 'of',
+      'for', 'with', 'as', 'by', 'from', 'this', 'that', 'are', 'was', 'were',
+      'এবং', 'ও', 'বা', 'এ', 'এর', 'থেকে', 'কে', 'হবে', 'হয়েছে', 'করা', 'হয়', 'করে',
+      'news', 'daily', 'dorpon', 'bangladesh', 'breaking', 'update', 'latest'
+    };
+
+    final tokens = combined
+        .split(RegExp(r'\s+'))
+        .map((t) => t.trim())
+        .where((t) => t.length > 2 && !stopWords.contains(t))
+        .toSet();
+
+    return tokens;
   }
 }

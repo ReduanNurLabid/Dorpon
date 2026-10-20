@@ -207,8 +207,9 @@ CANONICAL_ENTITIES = {
     "rohingya": ["rohingya", "myanmar", "রোহিঙ্গা", "মিয়ানমার"],
 
     # Politics & Governance Developments
-    "ishraque_issue": ["ishraque", "ইশরাক", "ইশরাক হোসেন"],
-    "bnp_politics": ["bnp", "বিএনপি", "তারেক রহমান", "খালেদা জিয়া"],
+    "tarique_visit": ["tarique", "তারেক রহমান", "japan", "জাপান", "tokyo", "টোকিও"],
+    "ishraque_issue": ["ishraque", "ইশরাক", "ইশরাক হোসেন", "পদত্যাগ"],
+    "bnp_politics": ["bnp", "বিএনপি", "খালেদা জিয়া"],
     "interim_cabinet": ["interim government", "অন্তর্বর্তী সরকার", "প্রধান উপদেষ্টা", "ইউনূস", "yunus", "উপদেষ্টা পরিষদ"],
     
     # Climate & Tech
