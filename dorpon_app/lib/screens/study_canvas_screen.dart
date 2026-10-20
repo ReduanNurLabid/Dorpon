@@ -268,35 +268,31 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                     padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 8),
                     physics: const BouncingScrollPhysics(),
                     children: [
-                      // Category & Meta Pills Row
-                      Row(
+                      // Category & Meta Pills (Wrap ensures zero overflow on mobile and narrow viewports)
+                      Wrap(
+                        spacing: 8,
+                        runSpacing: 6,
+                        crossAxisAlignment: WrapCrossAlignment.center,
                         children: [
-                          Flexible(
-                            child: Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                              decoration: BoxDecoration(
-                                color: ObsidianTokens.primaryMint.withValues(alpha: 0.12),
-                                borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                                border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.25)),
-                              ),
-                              child: Row(
-                                mainAxisSize: MainAxisSize.min,
-                                children: [
-                                  const Icon(Icons.flash_on, size: 12, color: ObsidianTokens.primaryMint),
-                                  const SizedBox(width: 4),
-                                  Flexible(
-                                    child: Text(
-                                      categoryLabel,
-                                      style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
-                                      maxLines: 1,
-                                      overflow: TextOverflow.ellipsis,
-                                    ),
-                                  ),
-                                ],
-                              ),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                            decoration: BoxDecoration(
+                              color: ObsidianTokens.primaryMint.withValues(alpha: 0.12),
+                              borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                              border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.25)),
+                            ),
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Icon(Icons.flash_on, size: 12, color: ObsidianTokens.primaryMint),
+                                const SizedBox(width: 4),
+                                Text(
+                                  categoryLabel,
+                                  style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
+                                ),
+                              ],
                             ),
                           ),
-                          const SizedBox(width: 8),
                           Container(
                             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                             decoration: BoxDecoration(
@@ -315,26 +311,25 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                               ],
                             ),
                           ),
-                          const SizedBox(width: 8),
-                          Container(
-                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                            decoration: BoxDecoration(
-                              color: Colors.white.withValues(alpha: 0.05),
-                              borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                          if (story.formattedPublishedTime.isNotEmpty)
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                              decoration: BoxDecoration(
+                                color: Colors.white.withValues(alpha: 0.05),
+                                borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                              ),
+                              child: Row(
+                                mainAxisSize: MainAxisSize.min,
+                                children: [
+                                  const Icon(Icons.schedule, size: 12, color: ObsidianTokens.textSecondary),
+                                  const SizedBox(width: 4),
+                                  Text(
+                                    story.formattedPublishedTime,
+                                    style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                                  ),
+                                ],
+                              ),
                             ),
-                            child: Row(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                const Icon(Icons.schedule, size: 12, color: ObsidianTokens.textSecondary),
-                                const SizedBox(width: 4),
-                                Text(
-                                  story.formattedPublishedTime,
-                                  style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
-                                ),
-                              ],
-                            ),
-                          ),
-                          const Spacer(),
                           Container(
                             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                             decoration: BoxDecoration(
