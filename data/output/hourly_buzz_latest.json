@@ -1,242 +1,76 @@
 {
-  "updated_at": "2026-10-20T17:48:35.079006",
-  "total_stories": 6,
+  "updated_at": "2026-10-20T13:31:53.812187",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "a4a5c4d3-1f83-56e4-88ec-17d085916dd1",
+      "story_id": "9b4ed1ef-e0ae-58bd-ac51-d56b01a7a2c4",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
-      "tags": [
-        "#CabinetDivision",
-        "#ExecutiveGovernance",
-        "#PublicAdministration"
-      ],
-      "image_url": null,
+      "tags": [],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fv29fo42q%2FWhatsApp-Image-2026-10-20-at-16.30.44.jpeg?rect=0%2C0%2C1384%2C727&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-20T10:58:54+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/422540/president-accepts-ishraque-hossain%E2%80%99s-resignation",
-          "title": "President accepts Ishraque Hossain’s resignation",
-          "snippet": "President accepts Ishraque Hossain’s resignation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "উপদেষ্টা পরিষদের সদস্য ইশরাক হোসেনের পদত্যাগপত্র গ্রহণ করলেন রাষ্ট্রপতি",
-        "title_en": "President Accepts Resignation of Advisory Council Member Ishraque Hossain",
-        "summary_bn": "রাষ্ট্রপতি মোঃ সাহাবুদ্দিন উপদেষ্টা পরিষদের সদস্য ইশরাক হোসেনের পদত্যাগপত্র আনুষ্ঠানিকভাবে গ্রহণ করেছেন। মন্ত্রিপরিষদ বিভাগ এক সরকারি গেজেট বিজ্ঞপ্তির মাধ্যমে এই পদত্যাগের বিষয়টি নিশ্চিত করেছে। প্রজ্ঞাপন জারির মাধ্যমে উপদেষ্টা পরিষদে তাঁর দায়িত্বের আনুষ্ঠানিক সমাপ্তি ঘটল।",
-        "summary_en": "President Mohammed Shahabuddin has accepted the resignation of Advisory Council member Ishraque Hossain following his formal submission. The decision was confirmed by the Cabinet Division through an official gazette notification. The issuance of the gazette formally concludes Ishraque's tenure within the advisory body.",
-        "why_it_matters_bn": "পদত্যাগপত্র গ্রহণ ও গেজেট প্রকাশের মাধ্যমে সরকারের উপদেষ্টা পরিষদের নির্বাহী কাঠামোতে প্রশাসনিক পরিবর্তন আনুষ্ঠানিকভাবে কার্যকর হলো।",
-        "why_it_matters_en": "The official acceptance and gazette notification formalize key executive realignments within the government's advisory structure.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T10:58:54+00:00"
-      }
-    },
-    {
-      "story_id": "7b3f8958-e988-5199-b9db-022d202cb56e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#BangladeshJapanRelations",
-        "#ForeignDirectInvestment",
-        "#EconomicDiplomacy"
-      ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/8af9ca90f01bc3af806b2e09683d40a3-6ad754327ce32.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-20T11:45:34+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975701/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%9B%E0%A7%87",
-          "title": "জাপান যাচ্ছেন প্রধানমন্ত্রী, সফরে যা থাকছে",
-          "snippet": "জাপান যাচ্ছেন প্রধানমন্ত্রী, সফরে যা থাকছে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে ২৬ অক্টোবর চারদিনের সরকারি সফরে টোকিও যাচ্ছেন তারেক রহমান",
-        "title_en": "PM Tariq Rahman to Visit Japan on Oct 26 to Boost Investment and Bilateral Ties",
-        "summary_bn": "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে ২৬ থেকে ২৯ অক্টোবর চারদিনের দ্বিপক্ষীয় সফরে টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান। ২০ অক্টোবর পররাষ্ট্র মন্ত্রণালয়ে আয়োজিত সংবাদ সম্মেলনে পররাষ্ট্রসচিব আসাদ আলম সিয়াম জানান, আগামী ২৭ অক্টোবর দুই দেশের শীর্ষ পর্যায়ের দ্বিপাক্ষিক বৈঠক অনুষ্ঠিত হবে। সফরে কৃষি, মৎস্য, মানবসম্পদ উন্নয়ন, বেসামরিক বিমান পরিবহন, বাণিজ্য ও স্থানীয় সরকার আধুনিকীকরণ সম্পর্কিত একাধিক সমঝোতা স্মারক স্বাক্ষরের সম্ভাবনা রয়েছে।",
-        "summary_en": "Prime Minister Tariq Rahman is set to undertake a four-day official bilateral visit to Tokyo from October 26 to 29 following an invitation from Japanese Prime Minister Sanae Takaichi. Foreign Secretary Asad Alam Siam announced on October 20 that high-level summit talks between the two leaders will take place on October 27. The visit is expected to yield announcements and agreements across agriculture, fisheries, human resource development, trade, civil aviation, and local government modernization.",
-        "why_it_matters_bn": "এই সফর জাপানি বেসরকারি বিনিয়োগ আকৃষ্ট করার পাশাপাশি চলমান মেগা প্রকল্প ত্বরাণে্বিত করা এবং দক্ষতা উন্নয়ন ও জ্বালানি সহযোগিতার নতুন ক্ষেত্র উন্মোচনে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "why_it_matters_en": "The summit aims to unlock fresh Japanese private investment, accelerate ongoing infrastructure projects, and expand bilateral economic, trade, and energy cooperation.",
-        "interest_categories": [
-          "economy_business",
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T11:45:34+00:00"
-      }
-    },
-    {
-      "story_id": "ebe85b06-4f62-5838-95fe-18b0b4052e7c",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#BangladeshPolitics",
-        "#RashedKhan",
-        "#PoliticalDynamics"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T09:27:40+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/bnp/975665/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BE-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A4-%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A6%95%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "বিএনপি ক্ষমতায় না থাকলে জামায়াত-এনসিপিকে শকুনের মত ঠুকরে ছিঁড়ে খাবে আ.লীগ: রাশেদ খাঁন",
-          "snippet": "বিএনপি ক্ষমতায় না থাকলে জামায়াত-এনসিপিকে শকুনের মত ঠুকরে ছিঁড়ে খাবে আ.লীগ: রাশেদ খাঁন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিএনপি ক্ষমতায় না থাকলে জামায়াত-এনসিপিকে আওয়ামী লীগ 'ছিঁড়ে খাবে': রাশেদ খাঁন",
-        "title_en": "Rashed Khan Warns Jamaat and NCP Face Threat from Awami League Without BNP in Power",
-        "summary_bn": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন মন্তব্য করেছেন যে বিএনপি ক্ষমতায় না থাকলে জামায়াতে ইসলামী ও এনসিপিকে আওয়ামী লীগ 'শকুনের মতো ঠুকরে ছিঁড়ে খাবে'। মঙ্গলবার তাঁর ভেরিফাইড ফেসবুক পেজে দেওয়া এক পোস্টে তিনি এই বক্তব্য তুলে ধরেন। পোস্টে তিনি আরও দাবি করেন, জামায়াতের অধিকাংশ সংসদ সদস্য অতীতে রাজপথে সক্রিয় ছিলেন না এবং তাঁরা বিশেষ রাজনৈতিক পরিস্থিতিতে প্রাধান্য পেয়েছেন।",
-        "summary_en": "Rashed Khan, Political Assistant to the Prime Minister, stated on social media that Jamaat-e-Islami and the National Citizen Party (NCP) would face political vulnerability from the Awami League if the BNP is not in power. In a statement published on his verified Facebook page on Tuesday, Khan argued that many Jamaat figures lacked a history of street activism and gained prominence through specific administrative circumstances. He emphasized that national political dynamics remain heavily dependent on the broader balance of power between major parties.",
-        "why_it_matters_bn": "এই বক্তব্যটি অন্তর্বর্তী রাজনৈতিক প্রেক্ষাপটে দলগুলোর পারস্পরিক নির্ভরতা, জোটের ভবিষ্যৎ এবং ক্ষমতার লড়াইয়ের মনস্তাত্ত্বিক রূপরেখাকে দৃশ্যমান করে।",
-        "why_it_matters_en": "The statement highlights ongoing inter-party rhetoric and coalition dynamics surrounding political survival and authority in Bangladesh's evolving governance structure.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T09:27:40+00:00"
-      }
-    },
-    {
-      "story_id": "1a913773-a063-51ba-bc9d-98f3296d882e",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "climate_environment"
-      ],
-      "tags": [
-        "#ForeignPolicy",
-        "#BangladeshJapan",
-        "#EconomicDiplomacy",
-        "#PrimeMinister"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fqsj5kt0x%2FWhatsApp-Image-2026-10-20-at-16.06.30.jpeg?rect=0%2C101%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-20T10:08:26+00:00",
+      "published_at": "2026-10-20T11:05:51+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/87bzd7dfz3",
-          "title": "প্রধানমন্ত্রীর জাপান সফরে বেশ কয়েকটি সমঝোতা স্মারকের ঘোষণা আসতে পারে",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফরে বেশ কয়েকটি সমঝোতা স্মারকের ঘোষণা আসতে পারে"
+          "url": "https://www.prothomalo.com/bangladesh/district/my2e1dh2fm",
+          "title": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
+          "snippet": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর জাপান সফরে বাণিজ্য ও প্রযুক্তিসহ বেশ কয়েকটি সমঝোতার সম্ভাবনা",
-        "title_en": "Prime Minister Tarique Rahman to Sign Multiple MoUs During Four-Day Japan Visit",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের আসন্ন চার দিনের জাপান সফরে বাণিজ্য, কৃষি, মৎস্যসম্পদ এবং মানবসম্পদ উন্নয়ন খাতে বেশ কয়েকটি সমঝোতা স্মারক স্বাক্ষরিত হওয়ার সম্ভাবনা রয়েছে। পররাষ্ট্র মন্ত্রণালয়ে আয়োজিত এক সংবাদ সম্মেলনে পররাষ্ট্রসচিব আসাদ আলম সিয়াম এই তথ্য জানান। আগামী ২৬ অক্টোবর শুরু হতে যাওয়া এই সফরে অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরীসহ উচ্চপর্যায়ের একটি প্রতিনিধিদল প্রধানমন্ত্রীর সঙ্গে থাকবেন।",
-        "summary_en": "Prime Minister Tarique Rahman is scheduled to begin a four-day official visit to Japan on October 26, with expectations of signing multiple memorandums of understanding (MoUs) spanning trade, agriculture, and human resource development. Foreign Secretary Asad Alam Siyam announced this development during a press briefing at the Ministry of Foreign Affairs on Tuesday. The Prime Minister will be accompanied by a high-level delegation including Finance Minister Amir Khru Mahmud Chowdhury, State Minister for Foreign Affairs Humayun Kabir, and State Minister for Power and Energy Anindya Islam Amit.",
-        "why_it_matters_bn": "এই সফর বাংলাদেশের দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ এবং প্রযুক্তি ও মানবসম্পদ উন্নয়নে জাপানি বিনিয়োগ আকর্ষণে গুরুত্বপূর্ণ ভূরাজনৈতিক ও অর্থনৈতিক ভূমিকা পালন করবে।",
-        "why_it_matters_en": "This high-level diplomatic engagement strengthens bilateral economic cooperation and attracts crucial Japanese investment in technology and infrastructure development for Bangladesh.",
+        "title_bn": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
+        "title_en": "Summary: ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
+        "summary_bn": "মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে ইশরাক হোসেনের পদত্যাগ প্রসঙ্গে জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা শফিকুর রহমান বলেছেন, ‘তাঁর (ইশরাক) কাজকে কেউ নেগেটিভ (নেতিবাচক) বলার সুযোগ নেই। কিন্তু একজন জনপ্রতিনিধি, একজন প্রতিমন্ত্রী এভাবে যদি প্রকাশ্য দিবালোকে অস্ত্র বহন করেন ...",
+        "summary_en": "A key domestic development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
         "interest_categories": [
-          "governance_law",
-          "climate_environment"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T10:08:26+00:00"
+        "published_at": "2026-10-20T11:05:51+00:00"
       }
     },
     {
-      "story_id": "36c8489a-aa92-5387-a872-0acac85764c5",
+      "story_id": "50079185-aa85-523b-911e-87ed0bd0659b",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "tags": [
-        "#RajshahiRally",
-        "#SugarcaneIncentives",
-        "#RegionalGovernance"
+        "#ForeignPolicy",
+        "#BangladeshJapan",
+        "#FDI",
+        "#EconomicDiplomacy"
       ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/ced13550bd6a10b4d4ccd3f9aaf6d172-6ad7514ec30d2.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T11:33:17+00:00",
+      "published_at": "2026-10-20T12:08:11+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/975698/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%A8%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%85%E0%A6%AA%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE%E0%A6%A3",
-          "title": "রাজশাহীতে জনসভার মঞ্চে প্রধানমন্ত্রী, অপেক্ষমাণ মানুষের উচ্ছ্বাস",
-          "snippet": "রাজশাহীতে জনসভার মঞ্চে প্রধানমন্ত্রী, অপেক্ষমাণ মানুষের উচ্ছ্বাস"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/tarique-rahmans-japan-visit-potential-for-agreements-in-trade-and-other-sectors/",
+          "title": "প্রধানমন্ত্রীর জাপান সফর: বিনিয়োগ ও বিভিন্ন খাতে চুক্তির সম্ভাবনা",
+          "snippet": "প্রধানমন্ত্রীর জাপান সফর: বিনিয়োগ ও বিভিন্ন খাতে চুক্তির সম্ভাবনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রী হিসেবে প্রথম রাজশাহী সফরে ঐতিহাসিক মাদরাসা মাঠের জনসভায় যোগ দিলেন তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Addresses Rajshahi Rally on First Official Visit to Region",
-        "summary_bn": "প্রধানমন্ত্রী হিসেবে দায়িত্ব গ্রহণের পর প্রথম রাজশাহী সফরে মঙ্গলবার ঐতিহাসিক মাদরাসা মাঠে (হাজী মুহম্মদ মুহসীন সরকারি উচ্চবিদ্যালয় মাঠ) আয়োজিত জনসভায় যোগ দিয়েছেন তারেক রহমান। বিমানের ফ্লাইট বিলম্বের কারণে রাজশাহীর শাহ মখদুম বিমানবন্দর থেকে তিনি সরাসরি জনসভাস্থলে পৌঁছান, যার ফলে সার্কিট হাউস ও গণকপাড়ার ধর্মসভা মন্দির পরিদর্শনের পূর্বনির্ধারিত কর্মসূচি বাতিল করা হয়। জনসভায় প্রধান অতিথির বক্তব্যের পাশাপাশি স্থানীয় আখচাষিদের মধ্যে সরকারি প্রণোদনার অর্থ বিতরণের কর্মসূচিতেও অংশ নেন প্রধানমন্ত্রী।",
-        "summary_en": "Prime Minister Tarique Rahman joined a massive public rally at Rajshahi's historic Madrasa Ground on Tuesday during his first official visit to the region as head of government. Following flight delays, the Prime Minister proceeded directly to the rally venue from Shah Makhdum Airport, bypassing scheduled stops at the Dharmasabha Temple and Circuit House. In addition to delivering the keynote address, the visit featured a central program to disburse agricultural incentive funds to local sugarcane farmers.",
-        "why_it_matters_bn": "এই সফরটি উত্তরবঙ্গের আঞ্চলিক উন্নয়ন, আখচাষিদের প্রত্যক্ষ অর্থনৈতিক সহযোগিতা এবং স্থানীয় প্রশাসনিক নেতৃত্বের সাথে কেন্দ্রীয় নির্বাহী কর্তৃপক্ষের নিবিড় সংযোগ গড়ে তোলার ক্ষেত্রে তাৎপর্যপূর্ণ।",
-        "why_it_matters_en": "The visit underscores executive focus on northern regional development, targeted agricultural subsidies for local sugarcane farmers, and administrative oversight following political transitions.",
+        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান, দ্বিপক্ষীয় বৈঠকে জোর পাবে বাণিজ্য ও বিনিয়োগ",
+        "title_en": "Prime Minister Tarique Rahman to Visit Tokyo for Bilateral Talks on Trade and Investment",
+        "summary_bn": "জাপানের সঙ্গে একাধিক সমঝোতা স্মারক স্বাক্ষর এবং নতুন বিনিয়োগের সম্ভাবনা কাজে লাগানোর লক্ষ্যে টোকিও সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান। আগামী ২৭ অক্টোবর জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির সঙ্গে তার দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হওয়ার কথা রয়েছে। সফরে বাংলাদেশে জাপানি কারখানা স্থাপন, কর্মসংস্থান সৃষ্টি এবং চলমান উন্নয়ন প্রকল্পের গতি বাড়ানোর বিষয়গুলো প্রাধান্য পাবে।",
+        "summary_en": "Prime Minister Tarique Rahman is scheduled to visit Tokyo to sign multiple memorandums of understanding and harness new investment opportunities with Japan. During the visit, he will hold a bilateral meeting with Japanese Prime Minister Sanae Takaichi on October 27. The discussions will emphasize establishing Japanese manufacturing plants in Bangladesh, creating employment, expanding trade, and accelerating ongoing development projects.",
+        "why_it_matters_bn": "এই সফর বাংলাদেশ ও জাপানের মধ্যে অর্থনৈতিক অংশীদারিত্ব জোরদার করতে এবং বৈদেশিক সরাসরি বিনিয়োগ আকৃষ্ট করতে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
+        "why_it_matters_en": "This high-level visit serves as a crucial catalyst for strengthening bilateral economic ties and attracting vital foreign direct investment from Japan to accelerate Bangladesh's industrial growth.",
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T11:33:17+00:00"
-      }
-    },
-    {
-      "story_id": "96b2b558-e152-5894-8104-eb48cbaff661",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "tech_innovation",
-        "climate_environment",
-        "society_education"
-      ],
-      "tags": [
-        "#CommunalHarmony",
-        "#JessoreDevelopment",
-        "#GrassrootsGovernance"
-      ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/b82cf6607f668c987efbc253db5a9168-6ad74ed3aae23.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-20T11:22:44+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/975695/%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0-%E0%A6%93-%E0%A6%9A%E0%A6%AC%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%9C%E0%A6%A8%E0%A6%97%E0%A6%A3%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87",
-          "title": "একাত্তর ও চব্বিশের পরাজিত শক্তি জনগণকে শান্তিতে থাকতে দিতে চায় না: অমিত",
-          "snippet": "একাত্তর ও চব্বিশের পরাজিত শক্তি জনগণকে শান্তিতে থাকতে দিতে চায় না: অমিত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "একাত্তর ও চব্বিশের পরাজিত শক্তির চক্রান্তের বিরুদ্ধে সতর্ক থাকার আহ্বান অনিন্দ্য ইসলাম অমিতের",
-        "title_en": "State Minister Aninda Islam Amit Warns Against Conspiracies by Defeated Forces During Jessore Puja Visit",
-        "summary_bn": "বিদ্যুৎ, জ্বালানি ও খনিজ সম্পদ প্রতিমন্ত্রী অনিন্দ্য ইসলাম অমিত সমাজকে নতুন করে অস্থিতিশীল করার লক্ষ্যে ‘একাত্তর ও চব্বিশের পরাজিত শক্তি’র যেকোনো অপচেষ্টার বিরুদ্ধে সবাইকে সজাগ থাকার আহ্বান জানিয়েছেন। মঙ্গলবার যশোর সদরের অন্তত ২০টি গ্রামের দুর্গাপূজা মন্দির পরিদর্শনকালে তিনি ধর্মকে পুঁজি করে রাজনৈতিক বিভেদ সৃষ্টি রোধ এবং মসজিদ-মন্দিরকে রাজনীতির বাইরে রাখার ওপর গুরুত্বারোপ করেন। এ সময় তিনি ধর্ম-বর্ণ নির্বিশেষে সকল নাগরিকের সমঅধিকার নিশ্চিত করা এবং মাদক ও সন্ত্রাস দমনে সরকারের কঠোর অবস্থান পুনর্ব্যক্ত করেন।",
-        "summary_en": "State Minister for Power, Energy, and Mineral Resources Aninda Islam Amit urged citizens to remain vigilant against potential destabilization plots by the 'defeated forces of 1971 and 2024'. Speaking during an inspection of over 20 Durga Puja mandaps in Jessore Sadar, he emphasized keeping religious venues free from political maneuvering and protecting equal rights for all citizens regardless of faith. He also reaffirmed the government's zero-tolerance policy against terrorism and drug trafficking alongside expediting local healthcare and technological infrastructure projects.",
-        "why_it_matters_bn": "প্রতিমন্ত্রীর এই বক্তব্য ধর্মীয় উৎসবকালে সামাজিক শান্তি-শৃঙ্খলা বজায় রাখা, সাম্প্রদায়িক সম্প্রীতি রক্ষা এবং অঞ্চলভিত্তিক সুষম ও বৈষম্যহীন শাসন ব্যবস্থা নিশ্চিতে সরকারের নীতিগত অঙ্গীকার প্রকাশ করে।",
-        "why_it_matters_en": "The state minister's address underscores the administration's policy focus on preserving communal harmony, maintaining law and order during major religious festivals, and driving inclusive regional development.",
-        "interest_categories": [
-          "governance_law",
-          "tech_innovation",
-          "climate_environment",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T11:22:44+00:00"
+        "published_at": "2026-10-20T12:08:11+00:00"
       }
     }
   ]
