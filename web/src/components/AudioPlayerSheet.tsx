@@ -14,6 +14,7 @@ import {
   Sparkles
 } from 'lucide-react';
 import { toBanglaDigits, getLocalizedCategory } from '../utils/bilingual';
+import { HeartbeatVisualizer } from './HeartbeatVisualizer';
 
 export const AudioPlayerSheet: React.FC = () => {
   const {
@@ -97,25 +98,16 @@ export const AudioPlayerSheet: React.FC = () => {
           </button>
         </div>
 
-        {/* Dynamic Waveform & Respiratory Heartbeat Visualizer */}
-        <div className="flex items-center justify-center space-x-1.5 h-24 mb-6 bg-white/[0.02] rounded-tile border border-white/[0.06] p-4 overflow-hidden relative">
-          {[40, 70, 25, 90, 60, 30, 80, 100, 45, 65, 85, 30, 95, 50, 75, 40, 80, 60, 90, 35, 70, 50].map((h, i) => {
-            const dynamicHeight = isPlayingAudio 
-              ? Math.min(100, Math.max(15, h * (audioHeartbeatScale - 0.2))) 
-              : 20;
-            return (
-              <div
-                key={i}
-                className={`w-1.5 rounded-full transition-all duration-75 ${
-                  isPlayingAudio ? 'bg-mint shadow-[0_0_8px_rgba(52,211,153,0.6)]' : 'bg-white/20'
-                }`}
-                style={{
-                  height: `${dynamicHeight}%`,
-                  opacity: isPlayingAudio ? 0.95 : 0.3,
-                }}
-              />
-            );
-          })}
+        {/* Dynamic Waveform & Respiratory Heartbeat Visualizer Box */}
+        <div 
+          className="flex items-center justify-center space-x-1.5 h-24 mb-6 bg-white/[0.02] rounded-tile border border-white/[0.06] p-4 overflow-hidden relative transition-all duration-100"
+          style={{
+            transform: isPlayingAudio ? `scale(${1 + (audioHeartbeatScale - 1) * 0.045})` : 'scale(1)',
+            borderColor: isPlayingAudio ? 'rgba(52, 211, 153, 0.45)' : 'rgba(255, 255, 255, 0.06)',
+            boxShadow: isPlayingAudio ? '0 0 28px rgba(52, 211, 153, 0.22), inset 0 0 16px rgba(52, 211, 153, 0.08)' : 'none',
+          }}
+        >
+          <HeartbeatVisualizer isPlaying={isPlayingAudio} scale={audioHeartbeatScale} />
         </div>
 
         {/* Current Story Metadata */}
@@ -128,7 +120,7 @@ export const AudioPlayerSheet: React.FC = () => {
             {title}
           </h3>
           <p className="text-xs text-text-secondary mt-1">
-            {isBn ? 'মাইক্রোসফট এজ নিউরাল ভয়েস (নবনীত)' : 'Microsoft Edge Neural Voice (Emma)'}
+            {isBn ? 'দর্পণ স্মার্ট অডিও ব্রিফিং (বাংলা)' : 'Dorpon Smart Audio Briefing (English)'}
           </p>
         </div>
 
@@ -177,12 +169,11 @@ export const AudioPlayerSheet: React.FC = () => {
             <SkipBack className="w-5 h-5" />
           </button>
 
-          {/* Big Play/Pause with Heartbeat scale */}
+          {/* Big Play/Pause */}
           <button
             type="button"
             onClick={toggleAudio}
-            className="p-5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_30px_rgba(52,211,153,0.5)] transition-transform transform active:scale-95"
-            style={{ transform: `scale(${isPlayingAudio ? Math.min(1.15, audioHeartbeatScale) : 1.0})` }}
+            className="p-5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_30px_rgba(52,211,153,0.5)] transition-all active:scale-95"
             title={isPlayingAudio ? 'Pause' : 'Play'}
           >
             {isAudioLoading ? (

@@ -2,7 +2,7 @@ import React, { createContext, useContext, useState, useEffect, useRef } from 'r
 import { CapsuleStory, Language, TabType } from '../types';
 import { fetchDailyBuzzFeed, fetchCurrentAffairsFeed, fetchHourlyWiresFeed } from '../services/api';
 import { translations } from '../utils/bilingual';
-import { synthesizeNeuralAudio, prepareSpeechText } from '../services/ttsService';
+import { synthesizeAudioStory, prepareSpeechText } from '../services/ttsService';
 
 interface AppContextType {
   language: Language;
@@ -105,6 +105,9 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const animFrameRef = useRef<number | null>(null);
   const chimeAudioRef = useRef<HTMLAudioElement | null>(null);
   const synthRef = useRef<SpeechSynthesis | null>(null);
+  const audioPlaylistRef = useRef<string[]>([]);
+  const chunkIndexRef = useRef<number>(0);
+  const audioDurationRef = useRef<number>(45);
 
   useEffect(() => {
     // Initialize HTML5 Audio Element
@@ -119,36 +122,55 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       synthRef.current = window.speechSynthesis;
     }
 
-    // Exact progress and time listeners
+    // Exact progress and time listeners across chunked playlists
     audio.ontimeupdate = () => {
       const cur = audio.currentTime;
       const dur = audio.duration;
+      const totalChunks = audioPlaylistRef.current.length || 1;
+      const currentChunk = chunkIndexRef.current;
+
       if (dur && !isNaN(dur) && dur > 0) {
-        const pct = Math.min(100, (cur / dur) * 100);
-        setAudioProgress(pct);
-        setAudioTimeRemaining(Math.max(0, Math.round(dur - cur)));
+        const chunkProgress = Math.min(1, cur / dur);
+        const overallPct = Math.min(100, Math.max(0, ((currentChunk + chunkProgress) / totalChunks) * 100));
+        setAudioProgress(overallPct);
+        const totalDur = audioDurationRef.current || dur;
+        setAudioTimeRemaining(Math.max(0, Math.round(totalDur * (1 - overallPct / 100))));
       }
     };
 
     audio.onloadedmetadata = () => {
-      if (audio.duration && !isNaN(audio.duration)) {
+      if (audioPlaylistRef.current.length <= 1 && audio.duration && !isNaN(audio.duration)) {
         setAudioDuration(Math.round(audio.duration));
+        audioDurationRef.current = Math.round(audio.duration);
         setAudioTimeRemaining(Math.round(audio.duration));
       }
     };
 
     audio.onended = () => {
-      setIsPlayingAudio(false);
-      setAudioProgress(100);
-      try {
-        chimeAudioRef.current?.play().catch(() => {});
-      } catch {}
-      playNextAudio();
+      if (chunkIndexRef.current + 1 < audioPlaylistRef.current.length) {
+        chunkIndexRef.current += 1;
+        audio.src = audioPlaylistRef.current[chunkIndexRef.current];
+        audio.play().catch(() => {});
+      } else {
+        setIsPlayingAudio(false);
+        setAudioProgress(100);
+        try {
+          chimeAudioRef.current?.play().catch(() => {});
+        } catch {}
+        playNextAudio();
+      }
     };
 
     audio.onerror = () => {
-      setIsPlayingAudio(false);
-      setIsAudioLoading(false);
+      // If a chunk fails, try advancing or stop gracefully
+      if (chunkIndexRef.current + 1 < audioPlaylistRef.current.length) {
+        chunkIndexRef.current += 1;
+        audio.src = audioPlaylistRef.current[chunkIndexRef.current];
+        audio.play().catch(() => {});
+      } else {
+        setIsPlayingAudio(false);
+        setIsAudioLoading(false);
+      }
     };
 
     return () => {
@@ -300,10 +322,13 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     if (audioRef.current) {
       audioRef.current.pause();
       audioRef.current.currentTime = 0;
+      audioRef.current.src = '';
     }
     if (synthRef.current) {
       synthRef.current.cancel();
     }
+    audioPlaylistRef.current = [];
+    chunkIndexRef.current = 0;
     setIsPlayingAudio(false);
     setIsAudioLoading(false);
     setAudioProgress(0);
@@ -336,23 +361,28 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     const rateStr = `${ratePercent >= 0 ? '+' : ''}${ratePercent}%`;
 
     try {
-      const { audioUrl, duration } = await synthesizeNeuralAudio(speechScript, voice, rateStr);
-      if (audioRef.current) {
+      const result = await synthesizeAudioStory(speechScript, voice, rateStr);
+      audioPlaylistRef.current = result.urls;
+      chunkIndexRef.current = 0;
+      setAudioDuration(result.duration);
+      audioDurationRef.current = result.duration;
+      setAudioTimeRemaining(result.duration);
+      setAudioProgress(0);
+
+      if (audioRef.current && result.urls.length > 0) {
         initAudioAnalyser();
-        audioRef.current.src = audioUrl;
+        audioRef.current.src = result.urls[0];
         audioRef.current.playbackRate = audioPlaybackRate;
-        setAudioDuration(duration);
-        setAudioTimeRemaining(duration);
         await audioRef.current.play();
         setIsPlayingAudio(true);
         setIsAudioLoading(false);
         return;
       }
     } catch (err) {
-      console.warn('Neural TTS failed, falling back to Web Speech:', err);
+      console.warn('Audio streaming encountered error, attempting Web Speech fallback:', err);
     }
 
-    // Web Speech API Fallback
+    // Web Speech API Fallback (native on Android/iOS)
     if (synthRef.current) {
       const utterance = new SpeechSynthesisUtterance(speechScript);
       utterance.rate = audioPlaybackRate;
@@ -420,16 +450,38 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   };
 
   const skipAudio = (seconds: number) => {
-    if (audioRef.current && audioRef.current.duration) {
-      audioRef.current.currentTime = Math.max(0, Math.min(audioRef.current.duration, audioRef.current.currentTime + seconds));
+    const audio = audioRef.current;
+    if (!audio) return;
+    if (audio.duration && !isNaN(audio.duration)) {
+      const nextTime = Math.max(0, Math.min(audio.duration, audio.currentTime + seconds));
+      audio.currentTime = nextTime;
     }
   };
 
   const seekAudio = (percent: number) => {
-    if (audioRef.current && audioRef.current.duration) {
-      const targetTime = (Math.max(0, Math.min(100, percent)) / 100) * audioRef.current.duration;
-      audioRef.current.currentTime = targetTime;
+    const audio = audioRef.current;
+    if (!audio) return;
+    const totalChunks = audioPlaylistRef.current.length || 1;
+    const clampedPct = Math.max(0, Math.min(100, percent));
+    const targetFraction = clampedPct / 100;
+    const targetGlobalPos = targetFraction * totalChunks;
+    const targetChunk = Math.min(totalChunks - 1, Math.floor(targetGlobalPos));
+    const chunkFraction = targetGlobalPos - targetChunk;
+
+    if (chunkIndexRef.current !== targetChunk && audioPlaylistRef.current[targetChunk]) {
+      chunkIndexRef.current = targetChunk;
+      audio.src = audioPlaylistRef.current[targetChunk];
+      audio.playbackRate = audioPlaybackRate;
+      audio.onloadedmetadata = () => {
+        if (audio.duration && !isNaN(audio.duration)) {
+          audio.currentTime = chunkFraction * audio.duration;
+        }
+        if (isPlayingAudio) audio.play().catch(() => {});
+      };
+    } else if (audio.duration && !isNaN(audio.duration)) {
+      audio.currentTime = chunkFraction * audio.duration;
     }
+    setAudioProgress(clampedPct);
   };
 
   const setAudioPlaybackRate = (rate: number) => {

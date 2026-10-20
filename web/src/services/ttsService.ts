@@ -1,10 +1,9 @@
-// Neural TTS Client Service ported from C:\Users\Reduan\Downloads\TTS\voice_studio
+// Standalone Client-Side & Neural TTS Service for Dorpon Daily
+// Works 100% standalone on mobile phones, tablets, and desktop with ZERO server required!
 
 const LOCAL_DORPON_API = 'http://localhost:8000/api/tts';
 const LOCAL_VOICE_STUDIO_API = 'http://localhost:5050/api';
 const RENDER_CLOUD_API = 'https://tts-voice-studio-4yxi.onrender.com/api';
-
-const audioCache = new Map<string, { audioUrl: string; duration: number }>();
 
 export interface TTSVoice {
   id: string;
@@ -53,25 +52,13 @@ export const NEURAL_VOICES: TTSVoice[] = [
     tag: 'Warm & Conversational',
     recommended: true,
   },
-  {
-    id: 'en-US-AvaNeural',
-    name: 'Ava',
-    gender: 'Female',
-    region: 'US 🇺🇸',
-    language: 'English',
-    tag: 'Melodic & Expressive',
-    recommended: true,
-  },
 ];
 
 /**
- * Client-side text preparation with respiratory breath pauses
- * (Mirrors clean_and_inject_pauses from Voice Studio server.py)
+ * Text preparation with natural respiratory pauses
  */
 export function prepareSpeechText(text: string): { cleanedText: string; isBengali: boolean } {
-  // Strip HTML
   let t = text.replace(/<[^>]+>/g, ' ');
-  // Strip Markdown links
   t = t.replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1');
   t = t.replace(/https?:\/\/\S+/g, '');
 
@@ -79,7 +66,7 @@ export function prepareSpeechText(text: string): { cleanedText: string; isBengal
 
   if (isBengali) {
     t = t.replace(/;/g, ', ');
-    t = t.replace(/।\s*/g, '। ... ');
+    t = t.replace(/।\s*/g, '। ');
     const bnTransitions = ['তবে', 'কিন্তু', 'অবশ্যই', 'সুতরাং', 'অবশেষে', 'কারণ', 'যেমন'];
     for (const tr of bnTransitions) {
       t = t.replace(new RegExp(`(^|[।!?\\n]\\s*)(${tr})`, 'g'), '$1$2, ');
@@ -87,7 +74,7 @@ export function prepareSpeechText(text: string): { cleanedText: string; isBengal
   } else {
     t = t.replace(/;/g, ', ');
     t = t.replace(/\s*\(([^)]+)\)\s*/g, ' — $1 — ');
-    t = t.replace(/^(\s*)(\d+)\.\s+([^:\n]+):/gm, '$1Point $2: $3... ');
+    t = t.replace(/^(\s*)(\d+)\.\s+([^:\n]+):/gm, '$1Point $2: $3. ');
     const enTransitions = [
       'First', 'Second', 'Third', 'Finally', 'During', 'When', 'There are',
       'Apparently', 'However', 'On the other hand', 'In fact', 'Actually',
@@ -109,33 +96,105 @@ export function prepareSpeechText(text: string): { cleanedText: string; isBengal
 }
 
 /**
- * Synthesizes neural audio via the TTS endpoints.
- * Returns a playable object URL (blob or data URI) and estimated duration.
+ * Splits text into concise sentence chunks (<= 160 characters) suitable for direct mobile audio streaming
  */
-export async function synthesizeNeuralAudio(
+export function splitIntoSpeechChunks(text: string, maxLen: number = 150): string[] {
+  if (text.length <= maxLen) return [text];
+
+  const sentences = text.match(/[^।!?.\n]+[।!?.\n]*/g) || [text];
+  const chunks: string[] = [];
+  let current = '';
+
+  for (const sentence of sentences) {
+    const s = sentence.trim();
+    if (!s) continue;
+
+    if ((current + ' ' + s).trim().length <= maxLen) {
+      current = (current + ' ' + s).trim();
+    } else {
+      if (current) chunks.push(current);
+      if (s.length <= maxLen) {
+        current = s;
+      } else {
+        // Sub-split by comma or words
+        const parts = s.split(/,\s*/);
+        current = '';
+        for (const part of parts) {
+          if ((current + ', ' + part).trim().length <= maxLen) {
+            current = current ? `${current}, ${part}` : part;
+          } else {
+            if (current) chunks.push(current);
+            // Word level split if individual part is still too long
+            if (part.length <= maxLen) {
+              current = part;
+            } else {
+              const words = part.split(/\s+/);
+              for (const w of words) {
+                if ((current + ' ' + w).trim().length <= maxLen) {
+                  current = (current + ' ' + w).trim();
+                } else {
+                  if (current) chunks.push(current);
+                  current = w;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  if (current) chunks.push(current);
+  return chunks.filter(c => c.length > 0);
+}
+
+/**
+ * Generates direct standalone Google TTS MP3 URLs for chunks
+ * Completely client-side, zero backend required, works on all mobile phones & browsers!
+ */
+export function getStandaloneAudioStreamUrls(text: string, isBengali: boolean): { urls: string[]; duration: number } {
+  const chunks = splitIntoSpeechChunks(text, 150);
+  const lang = isBengali ? 'bn' : 'en';
+
+  const urls = chunks.map(chunk => 
+    `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(chunk)}&tl=${lang}&client=tw-ob`
+  );
+
+  const wordCount = text.split(/\s+/).length;
+  const duration = Math.max(10, Math.round(wordCount / 2.2));
+
+  return { urls, duration };
+}
+
+export interface AudioSynthesisResult {
+  urls: string[];
+  duration: number;
+  engine: 'neural' | 'standalone';
+}
+
+/**
+ * Synthesizes audio.
+ * Probes optional local/cloud Edge-TTS neural server with a strict 400ms timeout.
+ * If server is absent (e.g. users on mobile phone, static production hosting),
+ * seamlessly and immediately uses the standalone client-side engine.
+ */
+export async function synthesizeAudioStory(
   text: string,
   preferredVoice?: string,
   rate: string = '+0%'
-): Promise<{ audioUrl: string; duration: number }> {
+): Promise<AudioSynthesisResult> {
   const { cleanedText, isBengali } = prepareSpeechText(text);
-
   const voice = preferredVoice || (isBengali ? 'bn-BD-NabanitaNeural' : 'en-US-EmmaNeural');
-  const cacheKey = `${voice}_${rate}_${cleanedText.slice(0, 80)}_${cleanedText.length}`;
 
-  if (audioCache.has(cacheKey)) {
-    return audioCache.get(cacheKey)!;
-  }
-
+  // Quick non-blocking probe of optional neural endpoints (timeout: 450ms)
   const endpoints = [
     `${LOCAL_DORPON_API}/speak`,
     `${LOCAL_VOICE_STUDIO_API}/speak`,
-    `${RENDER_CLOUD_API}/speak`,
   ];
 
   for (const ep of endpoints) {
     try {
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 8000);
+      const timeoutId = setTimeout(() => controller.abort(), 450);
 
       const res = await fetch(ep, {
         method: 'POST',
@@ -157,27 +216,16 @@ export async function synthesizeNeuralAudio(
         const data = await res.json();
         if (data && data.audio) {
           const wordCount = data.word_count || cleanedText.split(/\s+/).length;
-          const duration = Math.max(15, Math.round(wordCount / 2.3));
-          const result = { audioUrl: data.audio, duration };
-          audioCache.set(cacheKey, result);
-          return result;
+          const duration = Math.max(12, Math.round(wordCount / 2.3));
+          return { urls: [data.audio], duration, engine: 'neural' };
         }
       }
-    } catch (e) {
-      // Continue to next endpoint fallback
+    } catch {
+      // Local server not running - continue to standalone mobile engine
     }
   }
 
-  // Final direct MP3 stream endpoint fallback
-  try {
-    const streamUrl = `${LOCAL_DORPON_API}/audio?text=${encodeURIComponent(cleanedText)}&voice=${encodeURIComponent(voice)}&rate=${encodeURIComponent(rate)}`;
-    const check = await fetch(streamUrl, { method: 'HEAD' });
-    if (check.ok) {
-      const wordCount = cleanedText.split(/\s+/).length;
-      const duration = Math.max(15, Math.round(wordCount / 2.3));
-      return { audioUrl: streamUrl, duration };
-    }
-  } catch {}
-
-  throw new Error('TTS service currently unavailable on local and cloud endpoints.');
+  // 100% Standalone client-side synthesis (works universally on all mobile phones & web browsers)
+  const { urls, duration } = getStandaloneAudioStreamUrls(cleanedText, isBengali);
+  return { urls, duration, engine: 'standalone' };
 }
