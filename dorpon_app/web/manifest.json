@@ -1,11 +1,11 @@
 {
-    "name": "dorpon_app",
-    "short_name": "dorpon_app",
+    "name": "Dorpon Daily",
+    "short_name": "Dorpon",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B1512",
+    "theme_color": "#4ADE80",
+    "description": "Dorpon Daily - Bangladesh and Global News in 10 Seconds.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

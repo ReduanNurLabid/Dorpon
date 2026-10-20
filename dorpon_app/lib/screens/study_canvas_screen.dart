@@ -954,7 +954,10 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: bullets.asMap().entries.map((entry) {
           final idx = entry.key + 1;
-          final bullet = entry.value;
+          final bullet = entry.value
+              .replaceAll(RegExp(r'^[•\-\*\d\.\)\:\s]+'), '')
+              .replaceAll(RegExp(r'^[•\-\*০-৯\.\)\:\s]+'), '')
+              .trim();
           final idxStr = isBangla ? toBanglaDigits(idx) : '$idx';
 
           return Padding(

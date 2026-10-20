@@ -6,8 +6,36 @@ Supports both snake_case and camelCase keys for bulletproof deserialization.
 import json
 import os
 from datetime import datetime
+import re
 
-def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, categories, read_time=160):
+def clean_unpack_bullets(bullets, summary, why_it_matters, is_bangla=False):
+    output = []
+    seen = set()
+    def add_point(p):
+        p = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', p)
+        p = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', p).strip()
+        if len(p) > 10 and p.lower() not in seen:
+            seen.add(p.lower())
+            output.append(p)
+    for b in (bullets or []):
+        if not b: continue
+        parts = re.split(r'(?:\r?\n\s*|\s+)(?:[1-9]\.|\([1-9]\)|[১-৯]\.|\([১-৯]\))\s+', str(b))
+        for p in parts: add_point(p)
+    if len(output) < 3 and why_it_matters:
+        parts = re.split(r'(?:\r?\n\s*|\s+)(?:[1-9]\.|\([1-9]\)|[১-৯]\.|\([১-৯]\))\s+', str(why_it_matters))
+        for p in parts:
+            if len(output) >= 3: break
+            add_point(p)
+    if len(output) < 3 and summary:
+        sentences = re.split(r'(?<=[.!?।])\s+', str(summary))
+        for s in sentences:
+            if len(output) >= 3: break
+            add_point(s)
+    return output[:3]
+
+def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, categories, read_time=160, bullets_en=None, bullets_bn=None):
+    clean_en = clean_unpack_bullets(bullets_en, summary_en, why_en, is_bangla=False)
+    clean_bn = clean_unpack_bullets(bullets_bn, summary_bn, why_bn, is_bangla=True)
     return {
         "title_en": title_en,
         "titleEn": title_en,
@@ -17,6 +45,10 @@ def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, catego
         "summaryEn": summary_en,
         "summary_bn": summary_bn,
         "summaryBn": summary_bn,
+        "bullets_en": clean_en,
+        "bulletsEn": clean_en,
+        "bullets_bn": clean_bn,
+        "bulletsBn": clean_bn,
         "why_it_matters_en": why_en,
         "whyItMattersEn": why_en,
         "why_it_matters_bn": why_bn,

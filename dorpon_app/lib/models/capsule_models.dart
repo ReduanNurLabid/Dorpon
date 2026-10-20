@@ -294,6 +294,29 @@ class DailyBuzzItem {
     required this.readTimeSeconds,
   });
 
+  static List<String> _cleanAndUnpackBullets(Iterable<String> inputs) {
+    final List<String> output = [];
+    final Set<String> seen = {};
+
+    for (final raw in inputs) {
+      if (raw.trim().isEmpty) continue;
+      // Split on newlines or embedded numbering patterns like " 1. ", "\n2. ", " ১. ", etc.
+      final parts = raw.split(RegExp(r'(?:\r?\n\s*|\s+)(?:[1-9]\.|\([1-9]\)|[১-৯]\.|\([১-৯]\))\s+'));
+      for (var p in parts) {
+        // Strip leading bullets, numbers, hyphens, and parentheses in English & Bengali
+        p = p
+            .replaceAll(RegExp(r'^[•\-\*\d\.\)\:\s]+'), '')
+            .replaceAll(RegExp(r'^[•\-\*০-৯\.\)\:\s]+'), '')
+            .trim();
+        if (p.length > 10 && !seen.contains(p.toLowerCase())) {
+          seen.add(p.toLowerCase());
+          output.add(p);
+        }
+      }
+    }
+    return output;
+  }
+
   static List<String> _ensureThreeBullets({
     required List<String> existingBullets,
     required String summary,
@@ -301,16 +324,34 @@ class DailyBuzzItem {
     required String takeaway,
     required bool isBangla,
   }) {
-    if (existingBullets.length >= 3) {
-      return existingBullets.take(3).toList();
+    // 1. Unpack and clean existing bullets (resolves legacy cases where point 3 contained 1. 2. 3. nested)
+    final result = _cleanAndUnpackBullets(existingBullets);
+    if (result.length >= 3) {
+      return result.take(3).toList();
     }
 
-    final result = List<String>.from(existingBullets);
     final seen = result.map((e) => e.toLowerCase()).toSet();
 
+    // 2. Unpack individual points from takeaway (why_it_matters)
+    final unpackedTakeaway = _cleanAndUnpackBullets([takeaway]);
+    for (final t in unpackedTakeaway) {
+      if (result.length >= 3) break;
+      if (!seen.contains(t.toLowerCase())) {
+        seen.add(t.toLowerCase());
+        result.add(t);
+      }
+    }
+    if (result.length >= 3) {
+      return result.take(3).toList();
+    }
+
+    // 3. Fallback to distinct summary sentences
     final rawSentences = summary
         .split(RegExp(r'(?<=[.!?।])\s+'))
-        .map((s) => s.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
+        .map((s) => s
+            .replaceAll(RegExp(r'^[•\-\*\d\.\)\:\s]+'), '')
+            .replaceAll(RegExp(r'^[•\-\*০-৯\.\)\:\s]+'), '')
+            .trim())
         .where((s) => s.length > 15)
         .toList();
 
@@ -321,23 +362,23 @@ class DailyBuzzItem {
         result.add(s);
       }
     }
-
-    if (result.length < 3 && takeaway.trim().isNotEmpty) {
-      final t = takeaway.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim();
-      if (!seen.contains(t.toLowerCase())) {
-        seen.add(t.toLowerCase());
-        result.add(t);
-      }
+    if (result.length >= 3) {
+      return result.take(3).toList();
     }
 
-    if (result.length < 3 && lead.trim().isNotEmpty) {
-      final l = lead.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim();
-      if (!seen.contains(l.toLowerCase())) {
+    // 4. Try lead if still needed
+    if (lead.trim().isNotEmpty) {
+      final l = lead
+          .replaceAll(RegExp(r'^[•\-\*\d\.\)\:\s]+'), '')
+          .replaceAll(RegExp(r'^[•\-\*০-৯\.\)\:\s]+'), '')
+          .trim();
+      if (l.length > 10 && !seen.contains(l.toLowerCase())) {
         seen.add(l.toLowerCase());
         result.add(l);
       }
     }
 
+    // 5. Final fallback if article is extremely short
     if (result.length == 1) {
       result.add(isBangla
           ? 'সংশ্লিষ্ট কর্তৃপক্ষ ও অংশীজনেরা নির্বাহী প্রক্রিয়া সমন্বয় করছেন।'

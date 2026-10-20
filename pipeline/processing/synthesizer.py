@@ -306,6 +306,7 @@ EDITORIAL REQUIREMENTS:
      • Bullet 1: Core Action / Decision (who decided or executed what).
      • Bullet 2: Key Numbers, Official Quotes, or Specific Metrics (amounts, percentages, named spokespersons, dates).
      • Bullet 3: Immediate Consequence, Next Step, or Timeline.
+   - CRITICAL FORMAT RULE: DO NOT prefix bullets with numbers ("1.", "2.", "3.", "১.", "২.", "৩.") or symbols ("•", "-"). The mobile UI automatically renders numbered badges. Return purely the raw bullet sentence.
    - Bullets must be strictly factual, never vague generic boilerplate.
 
 4. CITIZEN IMPACT (impact_en, impact_bn):
@@ -333,14 +334,14 @@ You MUST return a JSON object with these EXACT keys:
   "lead_bn": "1 bold sentence capturing the core event in Bengali (<= 25 words)",
   "lead_en": "1 bold sentence capturing the core event in English (<= 25 words)",
   "bullets_bn": [
-    "১. প্রধান সিদ্ধান্ত বা গৃহীত পদক্ষেপ",
-    "২. সুনির্দিষ্ট পরিসংখ্যান, উদ্ধৃতি বা তথ্য",
-    "৩. পরবর্তী পদক্ষেপ বা দৃশ্যমান প্রভাব"
+    "প্রধান সিদ্ধান্ত বা গৃহীত পদক্ষেপ",
+    "সুনির্দিষ্ট পরিসংখ্যান, উদ্ধৃতি বা তথ্য",
+    "পরবর্তী পদক্ষেপ বা দৃশ্যমান প্রভাব"
   ],
   "bullets_en": [
-    "1. The Core Action or Decision taken.",
-    "2. Key numbers, official quotes, or concrete metrics.",
-    "3. Immediate consequence, next step, or timeline."
+    "The Core Action or Decision taken.",
+    "Key numbers, official quotes, or concrete metrics.",
+    "Immediate consequence, next step, or timeline."
   ],
   "impact_bn": "নাগরিক বা তরুণদের ওপর বাস্তব প্রভাব বা null",
   "impact_en": "Real-world impact on ordinary citizens/students or null",
@@ -383,10 +384,16 @@ You MUST return a JSON object with these EXACT keys:
             h_en = strip_relative_time_leakage(data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title))
             lead_bn = strip_relative_time_leakage(data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title))
             lead_en = strip_relative_time_leakage(data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title))
-            bullets_bn = [strip_relative_time_leakage(str(b)) for b in data.get("bullets_bn", []) if b]
-            bullets_bn = [b for b in bullets_bn if b][:3]
-            bullets_en = [strip_relative_time_leakage(str(b)) for b in data.get("bullets_en", []) if b]
-            bullets_en = [b for b in bullets_en if b][:3]
+            def clean_bullet_str(b_raw: str) -> str:
+                s = strip_relative_time_leakage(str(b_raw))
+                s = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', s)
+                s = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', s)
+                return s.strip()
+
+            bullets_bn = [clean_bullet_str(b) for b in data.get("bullets_bn", []) if b]
+            bullets_bn = [b for b in bullets_bn if len(b) > 5][:3]
+            bullets_en = [clean_bullet_str(b) for b in data.get("bullets_en", []) if b]
+            bullets_en = [b for b in bullets_en if len(b) > 5][:3]
             impact_bn = data.get("impact_bn")
             impact_en = data.get("impact_en")
             details_bn = data.get("details_bn")
@@ -500,12 +507,18 @@ You MUST return a JSON object with these EXACT keys:
     b2 = raw_sentences[1] if len(raw_sentences) > 1 else (strip_relative_time_leakage(paragraphs[1][:140]) if len(paragraphs) > 1 else "সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ করছে।")
     b3 = raw_sentences[2] if len(raw_sentences) > 2 else "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
 
-    bullets_bn = [strip_relative_time_leakage(b) for b in [b1, b2, b3]] if is_bangla_source else [
+    def clean_h_bullet(b_raw: str) -> str:
+        s = strip_relative_time_leakage(str(b_raw))
+        s = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', s)
+        s = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', s)
+        return s.strip()
+
+    bullets_bn = [clean_h_bullet(b) for b in [b1, b2, b3]] if is_bangla_source else [
         f"Core Event: {title[:100]}",
         "Official representatives and regulatory bodies are monitoring developments.",
         "Next procedures are scheduled to take effect in the coming days."
     ]
-    bullets_en = [strip_relative_time_leakage(b) for b in [b1, b2, b3]] if not is_bangla_source else [
+    bullets_en = [clean_h_bullet(b) for b in [b1, b2, b3]] if not is_bangla_source else [
         f"Core Event: {title[:100]}",
         "Official bodies and stakeholders are coordinating on executive procedures.",
         "Follow-up directives are expected following departmental review."
