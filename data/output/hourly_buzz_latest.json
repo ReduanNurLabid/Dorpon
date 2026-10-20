@@ -1,81 +1,236 @@
 {
-  "updated_at": "2026-10-21T01:30:04.316534",
-  "total_stories": 2,
+  "updated_at": "2026-10-20T19:33:42.204913",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "cad6ac9e-2761-53d1-bff3-5d2da6b35e37",
+      "story_id": "4f3163eb-d409-5652-a82b-ef22f1eb1ecd",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#TariqueRahman",
+        "#DurgaPuja2024",
+        "#Chattogram",
+        "#CommunalHarmony"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fviebxp1s%2FWhatsApp-Image-2026-10-20-at-10.46.57-PM.jpeg?rect=0%2C263%2C3672%2C1928&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-20T17:30:48+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/0ehm4m5p3y",
+          "title": "সরকারপ্রধান হিসেবে চট্টগ্রামের দুর্গাপূজায় প্রথম এলেন তারেক রহমান",
+          "snippet": "সরকারপ্রধান হিসেবে চট্টগ্রামের দুর্গাপূজায় প্রথম এলেন তারেক রহমান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সরকারপ্রধান হিসেবে চট্টগ্রামের জে এম সেন হলে দুর্গাপূজামণ্ডপ পরিদর্শন করলেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman Visits JM Sen Hall Durga Puja Pavilion in Chattogram",
+        "summary_bn": "স্বাধীনতার পর এই প্রথম কোনো সরকারপ্রধান হিসেবে প্রধানমন্ত্রী তারেক রহমান চট্টগ্রামের ঐতিহ্যবাহী জে এম সেন হলের দুর্গাপূজামণ্ডপ পরিদর্শন করেছেন। আজ মঙ্গলবার রাতে মণ্ডপ পরিদর্শনের সময় তিনি আয়োজক কমিটির হাতে ২০ লাখ টাকার অনুদানের চেক তুলে দেন এবং দেশের নাগরিকদের মূল পরিচয় ধর্মীয় নয়, বরং বাংলাদেশি বলে মন্তব্য করেন। এ সময় তাঁর সঙ্গে অর্থ ও পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরীসহ বেশ কয়েকজন মন্ত্রী ও দলীয় শীর্ষ নেতারা উপস্থিত ছিলেন।",
+        "summary_en": "Prime Minister Tarique Rahman has visited the traditional Durga Puja pavilion at JM Sen Hall in Chattogram, marking the first time a head of government has done so since independence. During his visit on Tuesday night, he handed over a financial contribution of Tk 20 lakh to the organizers and emphasized that the primary identity of citizens is rooted in nationality rather than religion. He was accompanied by Finance and Planning Minister Amir Khosru Mahmud Chowdhury and several senior cabinet ministers and party leaders.",
+        "why_it_matters_bn": "এই সফর দেশের সব ধর্মীয় সম্প্রদায়ের অধিকার সুরক্ষা এবং জাতীয় ঐক্যের বার্তা দেওয়ার ক্ষেত্রে একটি গুরুত্বপূর্ণ রাজনৈতিক পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
+        "why_it_matters_en": "This visit serves as a significant political signal reinforcing state-level commitment to minority rights, communal harmony, and inclusive national identity in post-uprising Bangladesh.",
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T17:30:48+00:00"
+      }
+    },
+    {
+      "story_id": "49ba0c20-7f0c-5db6-87ae-f660dbdd5837",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#ArmsAct1878",
-        "#PublicSafety",
-        "#LawEnforcement",
-        "#BangladeshLegalSystem"
+        "#BangladeshPolice",
+        "#LawAndOrder",
+        "#JamaatEIslami"
       ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/17/563f0fbd5f12743ff156c930281bcd0c-6ad378940a415.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-27%2Fyd97tyqv%2FShafiqur-Rahman.avif?rect=0%2C0%2C621%2C326&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-20T17:39:36+00:00",
+      "published_at": "2026-10-20T17:37:33+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975767/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-%E0%A6%93",
-          "title": "অস্ত্রের লাইসেন্স থাকলেই প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া যায়?",
-          "snippet": "অস্ত্রের লাইসেন্স থাকলেই প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া যায়?"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/q6qugd1gjv",
+          "title": "জনদুর্ভোগ নিরসন ও অপকর্ম দমনের পরিবর্তে সরকার বিরোধী দলের চরিত্র হননে ব্যস্ত: শফিকুর রহমান",
+          "snippet": "জনদুর্ভোগ নিরসন ও অপকর্ম দমনের পরিবর্তে সরকার বিরোধী দলের চরিত্র হননে ব্যস্ত: শফিকুর রহমান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বৈধ অস্ত্রের লাইসেন্স থাকলেও প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া শাস্তিযোগ্য অপরাধ: আইনি ব্যাখ্যা",
-        "title_en": "Having a Firearm License Does Not Permit Public Display or Intimidation: Legal Experts",
-        "summary_bn": "আইনগত বৈধতা থাকলেও নির্দিষ্ট শর্ত লঙ্ঘন করে জনসমক্ষে আগ্নেয়াস্ত্র প্রদর্শন বা কাউকে হুমকি দেওয়া সম্পূর্ণ বেআইনি ও দণ্ডনীয় অপরাধ। ১৮৭৮ সালের অস্ত্র আইন এবং ঢাকা মেট্রোপলিটন পুলিশ অধ্যাদেশের বিধান অনুযায়ী, অস্ত্রের লাইসেন্স থাকলেও জননিরাপত্তা ও নির্ধারিত চলাচলের শর্ত মানতে বাধ্য লাইসেন্সধারীরা। সুপ্রিম কোর্টের আইনজীবীরা বলছেন, শুধু ব্যক্তিগত নিরাপত্তার জন্য অস্ত্র ব্যবহারের সুযোগ থাকলেও এর অপব্যবহারের ক্ষেত্রে কারাদণ্ড বা অর্থদণ্ডের বিধান রয়েছে।",
-        "summary_en": "Possessing a legal firearm license does not grant the right to publicly display the weapon or intimidate others under any circumstances. According to the Arms Act of 1878 and the Dhaka Metropolitan Police Ordinance, license holders must strictly adhere to statutory conditions, movement restrictions, and public safety regulations. Supreme Court legal experts emphasize that firearms are strictly for self-defense, and violating statutory limitations entails imprisonment and fines.",
-        "why_it_matters_bn": "এই আইনি ব্যাখ্যা জননিরাপত্তা নিশ্চিত করতে এবং লাইসেন্সকৃত অস্ত্রের অবৈধ প্রদর্শন ও বলপ্রয়োগ রোধে কঠোর প্রশাসনিক নজরদারির প্রয়োজনীয়তা তুলে ধরে।",
-        "why_it_matters_en": "This legal clarification underscores the necessity of strict administrative oversight to curb the illegal public display of licensed firearms and ensure public security.",
+        "title_bn": "অতিরিক্ত ডিআইজির বাড়ি থেকে ৮৪ জন গ্রেপ্তারের ঘটনায় আইনশৃঙ্খলা পরিস্থিতির অবনতির অভিযোগ জামায়াত আমিরের",
+        "title_en": "Jamaat Ameer Slams Deteriorating Law and Order After 84 Arrested at Addl DIG's Property",
+        "summary_bn": "পুলিশের অতিরিক্ত উপমহাপরিদর্শক (অতিরিক্ত ডিআইজি) আবদুল্লাহ আল জহিরের মালিকানাধীন বাড়ি থেকে ৮৪ জন নারী-পুরুষ গ্রেপ্তার ও মাদক উদ্ধারের ঘটনার তীব্র নিন্দা জানিয়েছেন জামায়াতে ইসলামীর আমির শফিকুর রহমান। মঙ্গলবার রাতে নিজের ফেসবুক পেজে দেওয়া এক স্ট্যাটাসে তিনি বলেন, জনদুর্ভোগ নিরসন ও অপকর্ম দমনের পরিবর্তে সরকার বিরোধী দলের চরিত্র হননে ব্যস্ত রয়েছে। এ ছাড়াও দলটির পক্ষ থেকে ওই পুলিশ কর্মকর্তার বিরুদ্ধে বিভাগীয় তদন্ত ও দৃষ্টান্তমূলক শাস্তির দাবি জানানো হয়েছে।",
+        "summary_en": "Jamaat-e-Islami Ameer Shafiqur Rahman has strongly criticized the severe deterioration of law and order following the arrest of 84 individuals and the recovery of drugs from a property owned by Additional Deputy Inspector General (Addl DIG) Abdullah Al Zahir. In a social media post on Tuesday night, he alleged that instead of addressing public suffering and curbing crimes, the administration remains preoccupied with character assassination of the opposition. Meanwhile, Jamaat leaders have demanded a departmental investigation and strict legal action against the high-ranking police official.",
+        "why_it_matters_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ঊর্ধ্বতন কর্মকর্তার সম্পৃক্ততা বা মালিকানাধীন সম্পত্তিতে এ ধরনের অপরাধমূলক কর্মকাণ্ড উদ্ঘাটিত হওয়া প্রশাসনিক জবাবদিহিতা এবং অভ্যন্তরীণ শৃঙ্খলা নিয়ে গুরুতর প্রশ্নের জন্ম দেয়।",
+        "why_it_matters_en": "The involvement or occurrence of illicit activities on property owned by a high-ranking law enforcement official exposes critical vulnerabilities in administrative accountability and internal institutional discipline.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T17:39:36+00:00"
+        "published_at": "2026-10-20T17:37:33+00:00"
       }
     },
     {
-      "story_id": "c9a0fc29-d433-545f-b76c-8da42ecb9791",
+      "story_id": "d28ba215-1166-5174-8ade-b09cfa1bbcb1",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "society_education"
+      ],
+      "tags": [
+        "#CUET",
+        "#UGC",
+        "#HigherEducation",
+        "#BangladeshUniversities"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T19:08:54+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/my-campus/975779/%E0%A6%9A%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%87%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%9A%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0%E0%A6%87",
+          "title": "চুয়েটের সংকট সমাধানে ইউজিসির কমিটিতে নেই চুয়েটরই কেউ",
+          "snippet": "চুয়েটের সংকট সমাধানে ইউজিসির কমিটিতে নেই চুয়েটরই কেউ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চুয়েটের সংকট সমাধানে ইউজিসির গঠিত কমিটিতে নেই বিশ্ববিদ্যালয়ের কোনো প্রতিনিধি",
+        "title_en": "UGC Forms Advisory Committee Without Any CUET Representative to Resolve Ongoing Crisis",
+        "summary_bn": "চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়ের (চুয়েট) চলমান অচলাবস্থা নিরসনে ছয় সদস্যের একটি পরামর্শক কমিটি গঠন করেছে বিশ্ববিদ্যালয় মঞ্জুরি কমিশন (ইউজিসি)। শিক্ষা মন্ত্রণালয়ের নির্দেশনার পরিপ্রেক্ষিতে গত সোমবার পাবলিক বিশ্ববিদ্যালয় ম্যানেজমেন্ট পরিচালক মোহাম্মদ জামিনুর রহমান স্বাক্ষরিত এই কমিটি গঠন করা হয়। তবে সংকট সমাধানে গঠিত এই কমিটিতে চুয়েটের কোনো শিক্ষক বা প্রতিনিধিকে অন্তর্ভুক্ত করা হয়নি।",
+        "summary_en": "The University Grants Commission (UGC) has formed a six-member advisory committee to resolve the ongoing crisis at Chittagong University of Engineering and Technology (CUET). Directed by the Ministry of Education, the committee was formed on Monday through a notice signed by Public University Management Director Mohammad Zaminur Rahman. However, the newly formed committee does not include any teacher or representative from CUET.",
+        "why_it_matters_bn": "বাইরের কোনো প্রতিনিধি ছাড়া সংকট নিরসনের উদ্যোগ নেওয়ায় বিশ্ববিদ্যালয়ের অভ্যন্তরীণ অংশীজনদের মধ্যে আস্থার সংকট তৈরি হতে পারে এবং সিদ্ধান্ত বাস্তবায়ন কঠিন হয়ে পড়তে পারে।",
+        "why_it_matters_en": "Excluding internal stakeholders from a crisis resolution committee can trigger a trust deficit and hinder the effective implementation of administrative decisions.",
+        "interest_categories": [
+          "tech_innovation",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T19:08:54+00:00"
+      }
+    },
+    {
+      "story_id": "c3c91d26-15fc-53f4-b1fd-9e499e7a41b3",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#JournalistSafety",
+        "#PressFreedom",
+        "#ChandpurNews"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T18:57:43+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/975778/%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F%E2%80%99",
+          "title": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা",
+          "snippet": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চাঁদপুরের ফরিদগঞ্জে সংবাদ প্রকাশের জেরে সাংবাদিক মহিউদ্দিনের ওপর হামলা",
+        "title_en": "Journalist Mohiuddin Attacked in Chandpur Over News Report",
+        "summary_bn": "চাঁদপুরের ফরিদগঞ্জ বাজারে দৈনিক ইত্তেফাকের প্রতিনিধি সাংবাদিক মহিউদ্দিনের ওপর হামলার ঘটনা ঘটেছে। মঙ্গলবার সকালে ফরিদগঞ্জ বাজার কেন্দ্রীয় জামে মসজিদের সামনে ফরিদগঞ্জ পৌর ছাত্রদলের সাবেক সভাপতি কামরুল পাটোয়ারীর নেতৃত্বে এই হামলা চালানো হয় বলে অভিযোগ ওঠে। স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে সংবাদ প্রকাশের জেরে তাকে দফায় দফায় মারধর করা হয় বলে প্রত্যক্ষদর্শীরা জানান।",
+        "summary_en": "Daily Ittefaq's Faridganj correspondent, Mohiuddin, was assaulted in Chandpur's Faridganj Bazar area on Tuesday morning. The attack, which reportedly involved former Faridganj municipality Chhatra Dal president Kamrul Patwary and others, occurred near the central mosque following a news report published about local Juba Dal or Swechchasebak Dal activists. Witnesses stated that the journalist was repeatedly beaten for about an hour.",
+        "why_it_matters_bn": "সাংবাদিকদের ওপর এ ধরনের হামলা সংবাদমাধ্যমের স্বাধীনতা ও পেশাগত সুরক্ষার ওপর সরাসরি আঘাত, যা স্থানীয় পর্যায়ে আইনের শাসন প্রতিষ্ঠাকে প্রশ্নবিদ্ধ করে।",
+        "why_it_matters_en": "Attacks on journalists undermine freedom of the press and highlight persistent law and order vulnerabilities at the local political level.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T18:57:43+00:00"
+      }
+    },
+    {
+      "story_id": "ecb22183-a1ce-532b-aa21-1d9d339f3baa",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment"
       ],
       "tags": [
-        "#ForeignPolicy",
-        "#IndiaUSRelations",
-        "#Geopolitics",
-        "#DefenseCooperation"
+        "#CrimeNews",
+        "#Khulna",
+        "#WomenSafety",
+        "#Terokhada",
+        "#LawAndOrder"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T19:02:25+00:00",
+      "published_at": "2026-10-20T18:34:01+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/811sngh76l",
-          "title": "ভারতে জয়শঙ্কর-রুবিও দ্বিপক্ষীয় বৈঠক, গুরুত্ব পেল জ্বালানি ও প্রতিরক্ষা সহযোগিতা",
-          "snippet": "ভারতে জয়শঙ্কর-রুবিও দ্বিপক্ষীয় বৈঠক, গুরুত্ব পেল জ্বালানি ও প্রতিরক্ষা সহযোগিতা"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/975777/%E0%A6%A8%E0%A6%A6%E0%A7%80-%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A7%8C%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%AC%E0%A6%A6%E0%A7%8D%E0%A6%A7",
+          "title": "নদী পার করার কথা বলে নৌকায় তুলে নিয়ে সংঘবদ্ধ ধর্ষণ, গ্রেফতার ৩",
+          "snippet": "নদী পার করার কথা বলে নৌকায় তুলে নিয়ে সংঘবদ্ধ ধর্ষণ, গ্রেফতার ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মুম্বাইয়ে জয়শঙ্কর ও মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিওর দ্বিপক্ষীয় বৈঠক",
-        "title_en": "Jaishankar and US Secretary of State Marco Rubio Hold Bilateral Talks in Mumbai",
-        "summary_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিও মুম্বাইয়ে এক দ্বিপক্ষীয় বৈঠকে মিলিত হয়েছেন। বৈঠকে জ্বালানি ও প্রতিরক্ষা সহযোগিতার পাশাপাশি সংযুক্ত আরব আমিরাতকে সঙ্গে নিয়ে একটি ত্রিপক্ষীয় অংশীদারত্ব গড়ে তোলার বিষয়টি বিশেষ গুরুত্ব পেয়েছে। আঞ্চলিক ও বৈশ্বিক ভূরাজনীতিতে এই সহযোগিতাকে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন বিশ্লেষকরা।",
-        "summary_en": "Indian External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio held a bilateral meeting in Mumbai. The discussions placed significant emphasis on energy and defense cooperation, alongside a trilateral partnership involving the United Arab Emirates. This diplomatic engagement highlights deepening strategic alignment between New Delhi and Washington in regional geopolitics.",
-        "why_it_matters_bn": "এই বৈঠক ভারত ও যুক্তরাষ্ট্রের মধ্যকার কৌশলগত অংশীদারত্বকে আরও সুদৃঢ় করবে এবং জ্বালানি ও প্রতিরক্ষা খাতে আঞ্চলিক নিরাপত্তা স্থাপত্যে দীর্ঘমেয়াদী প্রভাব ফেলবে।",
-        "why_it_matters_en": "This meeting reinforces the strategic partnership between India and the United States, carrying long-term implications for regional security architecture in energy and defense sectors.",
+        "title_bn": "খুলনার তেরখাদায় নদী পারাপারের কথা বলে গৃহবধূকে সংঘবদ্ধ ধর্ষণ, গ্রেফতার ৩",
+        "title_en": "Three Arrested for Alleged Gang Rape of Woman in Khulna's Terokhada",
+        "summary_bn": "খুলনার তেরখাদা উপজেলায় নদী পার করার কথা বলে নৌকায় তুলে এক নারীকে সংঘবদ্ধ ধর্ষণের অভিযোগ পাওয়া গেছে। সোমবার দিগত রাতে উপজেলার মধুপুর শ্যামনগরের একটি পুরাতন প্রাথমিক বিদ্যালয়ে এ ঘটনা ঘটে। এ ঘটনায় পুলিশ তিন যুবককে গ্রেফতার করেছে এবং ভুক্তভোগী নারী খুলনা মেডিকেল কলেজ হাসপাতালের ওসিসিতে চিকিৎসাধীন রয়েছেন।",
+        "summary_en": "A woman was allegedly gang-raped in Terokhada upazila of Khulna after being lured onto a boat under the pretext of crossing a river. The incident took place late Monday night at an abandoned primary school in Modhupur Shyamnagar. Police have arrested three youths in connection with the crime, while the victim is currently undergoing treatment at the One-Stop Crisis Centre (OCC) of Khulna Medical College Hospital.",
+        "why_it_matters_bn": "এই ঘটনা নারী নিরাপত্তা নিশ্চিতকরণ এবং প্রত্যন্ত অঞ্চলে আইন প্রয়োগকারী সংস্থার নজরদারি বাড়ানোর জরুরি প্রয়োজনীয়তা তুলে ধরে।",
+        "why_it_matters_en": "This incident underscores the urgent need to strengthen women's safety measures and enhance law enforcement monitoring in remote areas.",
         "interest_categories": [
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T19:02:25+00:00"
+        "published_at": "2026-10-20T18:34:01+00:00"
+      }
+    },
+    {
+      "story_id": "af8bdf6d-23ba-50ed-82f7-8d2d2c9ff556",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#ElderlyRights",
+        "#LocalAdministration",
+        "#SocialWelfare",
+        "#ShahrastiChandpur"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T18:04:19+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/975775/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%A0%E0%A6%BE%E0%A6%81%E0%A6%87-%E0%A6%B9%E0%A6%B2%E0%A7%8B-%E0%A7%AE%E0%A7%AB",
+          "title": "প্রশাসনের সহযোগিতায় প্রবাসী ছেলের ঘরে ঠাঁই হলো ৮৫ বছরের বৃদ্ধা মায়ের",
+          "snippet": "প্রশাসনের সহযোগিতায় প্রবাসী ছেলের ঘরে ঠাঁই হলো ৮৫ বছরের বৃদ্ধা মায়ের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শাহরাস্তিতে প্রশাসনের হস্তক্ষেপে প্রবাসী ছেলের ঘরে ঠাঁই পেলেন ৮৫ বছরের বৃদ্ধা জয়নব ভানু",
+        "title_en": "85-Year-Old Zaynab Bhanu Finds Shelter in Expatriate Son's Home Following Upazila Administration Intervention",
+        "summary_bn": "চাঁদপুরের শাহরাস্তি উপজেলায় ছয় ছেলের কোনোটির ঘরে আশ্রয় না পাওয়া ৮৫ বছরের বৃদ্ধা জয়নব ভানুর ঠাঁই হয়েছে উপজেলা প্রশাসনের উদ্যোগে সৌদিপ্রবাসী সেজো ছেলে আনোয়ার হোসেনের ঘরে। গণমাধ্যমে সংবাদ প্রকাশের পর গত মঙ্গলবার দুপুরে উপজেলা নির্বাহী কর্মকর্তা মনিরা খাতুনের মধ্যস্থতায় পারিবারিক সমঝোতার মাধ্যমে তাকে ওই বাড়িতে তুলে দেওয়া হয়। এর মাধ্যমে অসহায় বৃদ্ধার দীর্ঘদিনের অবহেলা ও অনিশ্চিত আশ্রয়ের অবসান ঘটল।",
+        "summary_en": "An 85-year-old destitute mother, Zaynab Bhanu, has finally found shelter in the home of her expatriate son in Shahrasti upazila of Chandpur following an intervention by the local administration. Following media reports, Upazila Nirbahi Officer Monira Khatun mediated a family settlement on Tuesday afternoon to ensure her rightful accommodation. This administrative intervention successfully resolved the elderly woman's long-standing neglect and housing insecurity.",
+        "why_it_matters_bn": "এই ঘটনাটি স্থানীয় প্রশাসনের কল্যাণমুখী ভূমিকা এবং পারিবারিক আইন ও সামাজিক মূল্যবোধ রক্ষায় প্রাতিষ্ঠানিক মধ্যস্থতার প্রয়োজনীয়তাকে তুলে ধরে।",
+        "why_it_matters_en": "This incident highlights the crucial welfare role of local administration and the necessity of institutional mediation in upholding family responsibilities and social values.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T18:04:19+00:00"
       }
     }
   ]
