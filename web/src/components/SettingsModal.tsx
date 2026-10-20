@@ -48,11 +48,14 @@ export const SettingsModal: React.FC = () => {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 backdrop-blur-2xl bg-black/80 animate-fadeIn">
-      {/* Backdrop */}
-      <div className="fixed inset-0" onClick={() => setIsSettingsOpen(false)} />
-
-      <div className="relative w-full max-w-lg bg-obsidian-lowest rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10 max-h-[90vh] flex flex-col">
+    <div 
+      className="fixed inset-0 z-50 flex items-center justify-center p-4 backdrop-blur-2xl bg-black/85 animate-fadeIn"
+      onClick={() => setIsSettingsOpen(false)}
+    >
+      <div 
+        onClick={(e) => e.stopPropagation()}
+        className="relative w-full max-w-lg bg-obsidian-lowest rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10 max-h-[90vh] flex flex-col"
+      >
         {/* Header */}
         <div className="flex items-center justify-between px-6 py-4 border-b border-white/[0.08] bg-obsidian-lowest">
           <div className="flex items-center space-x-2.5 text-white font-bold">
@@ -61,8 +64,13 @@ export const SettingsModal: React.FC = () => {
           </div>
 
           <button
-            onClick={() => setIsSettingsOpen(false)}
-            className="p-1.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white"
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsSettingsOpen(false);
+            }}
+            className="p-1.5 rounded-full bg-white/[0.06] border border-white/[0.1] text-text-secondary hover:text-white hover:bg-white/[0.1] transition-all"
+            title="Close Settings"
           >
             <X className="w-4 h-4" />
           </button>

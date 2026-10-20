@@ -2,6 +2,7 @@ import React, { createContext, useContext, useState, useEffect, useRef } from 'r
 import { CapsuleStory, Language, TabType } from '../types';
 import { fetchDailyBuzzFeed, fetchCurrentAffairsFeed, fetchHourlyWiresFeed } from '../services/api';
 import { translations } from '../utils/bilingual';
+import { synthesizeNeuralAudio, prepareSpeechText } from '../services/ttsService';
 
 interface AppContextType {
   language: Language;
@@ -33,19 +34,22 @@ interface AppContextType {
   isLoading: boolean;
   refreshFeeds: () => Promise<void>;
   t: (key: keyof typeof translations['en']) => string;
-  // Audio Player Engine
+  // Neural Audio Engine
   currentAudioStory: CapsuleStory | null;
   isPlayingAudio: boolean;
+  isAudioLoading: boolean;
   audioProgress: number; // 0-100 percentage
   audioTimeRemaining: number; // seconds
-  audioDuration: number; // total estimated duration in seconds
+  audioDuration: number; // total duration in seconds
   audioPlaybackRate: number;
+  audioHeartbeatScale: number; // 1.0 to 1.8 dynamic scale for heartbeat animation
   setAudioPlaybackRate: (rate: number) => void;
   playStoryAudio: (story: CapsuleStory) => void;
   pauseAudio: () => void;
   resumeAudio: () => void;
   toggleAudio: () => void;
   stopAudio: () => void;
+  dismissAudioPlayer: () => void;
   playNextAudio: () => void;
   playPrevAudio: () => void;
   skipAudio: (seconds: number) => void;
@@ -86,33 +90,129 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   // Audio Engine State
   const [currentAudioStory, setCurrentAudioStory] = useState<CapsuleStory | null>(null);
   const [isPlayingAudio, setIsPlayingAudio] = useState<boolean>(false);
+  const [isAudioLoading, setIsAudioLoading] = useState<boolean>(false);
   const [audioProgress, setAudioProgress] = useState<number>(0);
-  const [audioDuration, setAudioDuration] = useState<number>(60);
-  const [audioTimeRemaining, setAudioTimeRemaining] = useState<number>(60);
+  const [audioDuration, setAudioDuration] = useState<number>(45);
+  const [audioTimeRemaining, setAudioTimeRemaining] = useState<number>(45);
   const [audioPlaybackRate, setAudioPlaybackRateState] = useState<number>(1.0);
+  const [audioHeartbeatScale, setAudioHeartbeatScale] = useState<number>(1.0);
 
-  const synthRef = useRef<SpeechSynthesis | null>(null);
-  const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
-  const progressTimerRef = useRef<number | null>(null);
+  // Audio Elements & Context References
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const audioContextRef = useRef<AudioContext | null>(null);
+  const analyserRef = useRef<AnalyserNode | null>(null);
+  const sourceNodeRef = useRef<MediaElementAudioSourceNode | null>(null);
+  const animFrameRef = useRef<number | null>(null);
   const chimeAudioRef = useRef<HTMLAudioElement | null>(null);
-  const elapsedSecsRef = useRef<number>(0);
-  const totalDurationRef = useRef<number>(60);
-  const availableVoicesRef = useRef<SpeechSynthesisVoice[]>([]);
+  const synthRef = useRef<SpeechSynthesis | null>(null);
 
   useEffect(() => {
-    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
-      synthRef.current = window.speechSynthesis;
-      const updateVoices = () => {
-        availableVoicesRef.current = synthRef.current?.getVoices() || [];
-      };
-      updateVoices();
-      if (synthRef.current.onvoiceschanged !== undefined) {
-        synthRef.current.onvoiceschanged = updateVoices;
-      }
-    }
+    // Initialize HTML5 Audio Element
+    const audio = new Audio();
+    audio.preload = 'auto';
+    audioRef.current = audio;
+
     chimeAudioRef.current = new Audio('/data/transition_chime.wav');
     chimeAudioRef.current.volume = 0.3;
+
+    if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+      synthRef.current = window.speechSynthesis;
+    }
+
+    // Exact progress and time listeners
+    audio.ontimeupdate = () => {
+      const cur = audio.currentTime;
+      const dur = audio.duration;
+      if (dur && !isNaN(dur) && dur > 0) {
+        const pct = Math.min(100, (cur / dur) * 100);
+        setAudioProgress(pct);
+        setAudioTimeRemaining(Math.max(0, Math.round(dur - cur)));
+      }
+    };
+
+    audio.onloadedmetadata = () => {
+      if (audio.duration && !isNaN(audio.duration)) {
+        setAudioDuration(Math.round(audio.duration));
+        setAudioTimeRemaining(Math.round(audio.duration));
+      }
+    };
+
+    audio.onended = () => {
+      setIsPlayingAudio(false);
+      setAudioProgress(100);
+      try {
+        chimeAudioRef.current?.play().catch(() => {});
+      } catch {}
+      playNextAudio();
+    };
+
+    audio.onerror = () => {
+      setIsPlayingAudio(false);
+      setIsAudioLoading(false);
+    };
+
+    return () => {
+      audio.pause();
+      if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
+    };
   }, []);
+
+  // Web Audio Visualizer Setup
+  const initAudioAnalyser = () => {
+    try {
+      if (!audioContextRef.current) {
+        const AudioContextClass = window.AudioContext || (window as any).webkitAudioContext;
+        audioContextRef.current = new AudioContextClass();
+        const analyser = audioContextRef.current.createAnalyser();
+        analyser.fftSize = 64;
+        analyser.smoothingTimeConstant = 0.8;
+        analyserRef.current = analyser;
+      }
+      if (audioContextRef.current.state === 'suspended') {
+        audioContextRef.current.resume();
+      }
+      if (audioRef.current && !sourceNodeRef.current && analyserRef.current) {
+        const source = audioContextRef.current.createMediaElementSource(audioRef.current);
+        source.connect(analyserRef.current);
+        analyserRef.current.connect(audioContextRef.current.destination);
+        sourceNodeRef.current = source;
+      }
+    } catch (err) {
+      // AudioContext policy fallback
+    }
+  };
+
+  // Heartbeat & Waveform animation loop
+  useEffect(() => {
+    let phase = 0;
+    const updateHeartbeat = () => {
+      if (isPlayingAudio) {
+        if (analyserRef.current) {
+          const dataArray = new Uint8Array(analyserRef.current.frequencyBinCount);
+          analyserRef.current.getByteFrequencyData(dataArray);
+          let sum = 0;
+          for (let i = 0; i < dataArray.length; i++) sum += dataArray[i];
+          const avg = sum / dataArray.length;
+          // Scale from 1.0 to 1.6 based on real volume
+          const scale = 1.0 + Math.min(0.6, (avg / 255) * 1.2);
+          setAudioHeartbeatScale(scale);
+        } else {
+          // Organic breathing pulse fallback
+          phase += 0.08;
+          const scale = 1.0 + Math.sin(phase) * 0.15;
+          setAudioHeartbeatScale(scale);
+        }
+      } else {
+        setAudioHeartbeatScale(1.0);
+      }
+      animFrameRef.current = requestAnimationFrame(updateHeartbeat);
+    };
+
+    animFrameRef.current = requestAnimationFrame(updateHeartbeat);
+    return () => {
+      if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
+    };
+  }, [isPlayingAudio]);
 
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
@@ -197,21 +297,29 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
   // Audio Player Engine
   const stopAudio = () => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    }
     if (synthRef.current) {
       synthRef.current.cancel();
     }
-    if (progressTimerRef.current) {
-      window.clearInterval(progressTimerRef.current);
-      progressTimerRef.current = null;
-    }
     setIsPlayingAudio(false);
+    setIsAudioLoading(false);
     setAudioProgress(0);
-    elapsedSecsRef.current = 0;
   };
 
-  const playStoryAudio = (story: CapsuleStory) => {
+  // Completely dismisses the floating player and sheet overlay
+  const dismissAudioPlayer = () => {
+    stopAudio();
+    setCurrentAudioStory(null);
+    setIsAudioSheetOpen(false);
+  };
+
+  const playStoryAudio = async (story: CapsuleStory) => {
     stopAudio();
     setCurrentAudioStory(story);
+    setIsAudioLoading(true);
 
     const isBn = language === 'bn';
     const buzz = story.daily_buzz;
@@ -219,86 +327,67 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     const bullets = isBn ? (buzz.bullets_bn || []) : (buzz.bullets_en || []);
     const whyItMatters = isBn ? (buzz.why_it_matters_bn || buzz.summary_bn) : (buzz.why_it_matters_en || buzz.summary_en);
 
-    const fullSpeechText = `${title}. ` +
+    const speechScript = `${title}. ` +
       (bullets.length > 0 ? (isBn ? `মূল বার্তা: ${bullets.join('। ')}। ` : `Key takeaways: ${bullets.join('. ')}. `) : '') +
       (whyItMatters ? (isBn ? `কেন এটি গুরুত্বপূর্ণ: ${whyItMatters}` : `Why it matters: ${whyItMatters}`) : '');
 
-    const wordCount = fullSpeechText.split(/\s+/).length;
-    const estimatedDurationSecs = Math.max(25, Math.round(wordCount / (2.5 * audioPlaybackRate)));
-    totalDurationRef.current = estimatedDurationSecs;
-    elapsedSecsRef.current = 0;
-    setAudioDuration(estimatedDurationSecs);
-    setAudioTimeRemaining(estimatedDurationSecs);
-    setAudioProgress(0);
+    const voice = isBn ? 'bn-BD-NabanitaNeural' : 'en-US-EmmaNeural';
+    const ratePercent = Math.round((audioPlaybackRate - 1.0) * 100);
+    const rateStr = `${ratePercent >= 0 ? '+' : ''}${ratePercent}%`;
 
-    if (!synthRef.current) {
+    try {
+      const { audioUrl, duration } = await synthesizeNeuralAudio(speechScript, voice, rateStr);
+      if (audioRef.current) {
+        initAudioAnalyser();
+        audioRef.current.src = audioUrl;
+        audioRef.current.playbackRate = audioPlaybackRate;
+        setAudioDuration(duration);
+        setAudioTimeRemaining(duration);
+        await audioRef.current.play();
+        setIsPlayingAudio(true);
+        setIsAudioLoading(false);
+        return;
+      }
+    } catch (err) {
+      console.warn('Neural TTS failed, falling back to Web Speech:', err);
+    }
+
+    // Web Speech API Fallback
+    if (synthRef.current) {
+      const utterance = new SpeechSynthesisUtterance(speechScript);
+      utterance.rate = audioPlaybackRate;
+      const voices = synthRef.current.getVoices();
+      if (isBn) {
+        const bnVoice = voices.find(v => v.lang.startsWith('bn'));
+        if (bnVoice) utterance.voice = bnVoice;
+      } else {
+        const enVoice = voices.find(v => v.lang.startsWith('en'));
+        if (enVoice) utterance.voice = enVoice;
+      }
+      utterance.onend = () => {
+        setIsPlayingAudio(false);
+        playNextAudio();
+      };
+      synthRef.current.speak(utterance);
       setIsPlayingAudio(true);
-      return;
     }
-
-    const utterance = new SpeechSynthesisUtterance(fullSpeechText);
-    utterance.rate = audioPlaybackRate;
-    utterance.pitch = 1.0;
-
-    const voices = availableVoicesRef.current.length > 0 ? availableVoicesRef.current : synthRef.current.getVoices();
-    if (isBn) {
-      const bnVoice = voices.find(v => v.lang.startsWith('bn') || v.name.toLowerCase().includes('bangla') || v.name.toLowerCase().includes('bengali'));
-      if (bnVoice) utterance.voice = bnVoice;
-    } else {
-      const naturalEn = voices.find(v => v.lang.startsWith('en') && (v.name.includes('Natural') || v.name.includes('Google') || v.name.includes('Samantha')));
-      const enVoice = naturalEn || voices.find(v => v.lang.startsWith('en-US') || v.lang.startsWith('en'));
-      if (enVoice) utterance.voice = enVoice;
-    }
-
-    progressTimerRef.current = window.setInterval(() => {
-      elapsedSecsRef.current += 0.5;
-      const pct = Math.min(100, Math.round((elapsedSecsRef.current / totalDurationRef.current) * 100));
-      setAudioProgress(pct);
-      setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
-      if (pct >= 100) {
-        if (progressTimerRef.current) {
-          window.clearInterval(progressTimerRef.current);
-          progressTimerRef.current = null;
-        }
-      }
-    }, 500);
-
-    utterance.onend = () => {
-      setIsPlayingAudio(false);
-      setAudioProgress(100);
-      if (progressTimerRef.current) {
-        window.clearInterval(progressTimerRef.current);
-        progressTimerRef.current = null;
-      }
-      try {
-        chimeAudioRef.current?.play().catch(() => {});
-      } catch {}
-      // Auto-progress
-      playNextAudio();
-    };
-
-    utterance.onerror = () => {
-      setIsPlayingAudio(false);
-      if (progressTimerRef.current) {
-        window.clearInterval(progressTimerRef.current);
-        progressTimerRef.current = null;
-      }
-    };
-
-    utteranceRef.current = utterance;
-    synthRef.current.speak(utterance);
-    setIsPlayingAudio(true);
+    setIsAudioLoading(false);
   };
 
   const pauseAudio = () => {
-    if (synthRef.current && isPlayingAudio) {
-      synthRef.current.pause();
-      setIsPlayingAudio(false);
+    if (audioRef.current && isPlayingAudio) {
+      audioRef.current.pause();
     }
+    if (synthRef.current) {
+      synthRef.current.pause();
+    }
+    setIsPlayingAudio(false);
   };
 
   const resumeAudio = () => {
-    if (synthRef.current && !isPlayingAudio) {
+    if (audioRef.current && audioRef.current.src) {
+      audioRef.current.play().then(() => setIsPlayingAudio(true)).catch(() => {});
+    } else if (synthRef.current) {
       synthRef.current.resume();
       setIsPlayingAudio(true);
     }
@@ -331,23 +420,22 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   };
 
   const skipAudio = (seconds: number) => {
-    elapsedSecsRef.current = Math.max(0, Math.min(totalDurationRef.current, elapsedSecsRef.current + seconds));
-    const pct = Math.min(100, Math.round((elapsedSecsRef.current / totalDurationRef.current) * 100));
-    setAudioProgress(pct);
-    setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
+    if (audioRef.current && audioRef.current.duration) {
+      audioRef.current.currentTime = Math.max(0, Math.min(audioRef.current.duration, audioRef.current.currentTime + seconds));
+    }
   };
 
   const seekAudio = (percent: number) => {
-    const clamped = Math.max(0, Math.min(100, percent));
-    elapsedSecsRef.current = (clamped / 100) * totalDurationRef.current;
-    setAudioProgress(clamped);
-    setAudioTimeRemaining(Math.max(0, Math.round(totalDurationRef.current - elapsedSecsRef.current)));
+    if (audioRef.current && audioRef.current.duration) {
+      const targetTime = (Math.max(0, Math.min(100, percent)) / 100) * audioRef.current.duration;
+      audioRef.current.currentTime = targetTime;
+    }
   };
 
   const setAudioPlaybackRate = (rate: number) => {
     setAudioPlaybackRateState(rate);
-    if (currentAudioStory && isPlayingAudio) {
-      playStoryAudio(currentAudioStory);
+    if (audioRef.current) {
+      audioRef.current.playbackRate = rate;
     }
   };
 
@@ -385,16 +473,19 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         t,
         currentAudioStory,
         isPlayingAudio,
+        isAudioLoading,
         audioProgress,
         audioTimeRemaining,
         audioDuration,
         audioPlaybackRate,
+        audioHeartbeatScale,
         setAudioPlaybackRate,
         playStoryAudio,
         pauseAudio,
         resumeAudio,
         toggleAudio,
         stopAudio,
+        dismissAudioPlayer,
         playNextAudio,
         playPrevAudio,
         skipAudio,

@@ -9,7 +9,9 @@ import {
   Headphones, 
   RotateCcw,
   RotateCw,
-  ListOrdered
+  ListOrdered,
+  Loader2,
+  Sparkles
 } from 'lucide-react';
 import { toBanglaDigits, getLocalizedCategory } from '../utils/bilingual';
 
@@ -19,6 +21,7 @@ export const AudioPlayerSheet: React.FC = () => {
     setIsAudioSheetOpen,
     currentAudioStory,
     isPlayingAudio,
+    isAudioLoading,
     toggleAudio,
     playNextAudio,
     playPrevAudio,
@@ -28,6 +31,7 @@ export const AudioPlayerSheet: React.FC = () => {
     audioTimeRemaining,
     audioDuration,
     audioPlaybackRate,
+    audioHeartbeatScale,
     setAudioPlaybackRate,
     buzzStories,
     playStoryAudio,
@@ -56,12 +60,23 @@ export const AudioPlayerSheet: React.FC = () => {
     seekAudio(pct);
   };
 
-  return (
-    <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 md:p-6 backdrop-blur-2xl bg-black/85 animate-fadeIn">
-      {/* Backdrop */}
-      <div className="fixed inset-0" onClick={() => setIsAudioSheetOpen(false)} />
+  const formatSeconds = (secs: number) => {
+    const m = Math.floor(secs / 60);
+    const s = secs % 60;
+    const formatted = `${m}:${s.toString().padStart(2, '0')}`;
+    return isBn ? toBanglaDigits(formatted) : formatted;
+  };
 
-      <div className="relative w-full max-w-xl bg-obsidian-lowest rounded-t-card sm:rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10 p-6 sm:p-8 animate-slideUp">
+  return (
+    <div 
+      className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 md:p-6 backdrop-blur-2xl bg-black/85 animate-fadeIn"
+      onClick={() => setIsAudioSheetOpen(false)}
+    >
+      {/* Modal Dialog (stops click from bubbling to backdrop) */}
+      <div 
+        onClick={(e) => e.stopPropagation()}
+        className="relative w-full max-w-xl bg-obsidian-lowest rounded-t-card sm:rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10 p-6 sm:p-8 animate-slideUp"
+      >
         {/* Top bar */}
         <div className="flex items-center justify-between pb-4 border-b border-white/[0.08] mb-6">
           <div className="flex items-center space-x-2 text-mint text-xs font-bold uppercase tracking-wider">
@@ -70,37 +85,51 @@ export const AudioPlayerSheet: React.FC = () => {
           </div>
 
           <button
-            onClick={() => setIsAudioSheetOpen(false)}
-            className="p-2 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white"
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsAudioSheetOpen(false);
+            }}
+            className="p-2 rounded-full bg-white/[0.06] border border-white/[0.1] text-text-secondary hover:text-white hover:bg-white/[0.1] transition-all"
+            title="Close Sheet"
           >
             <X className="w-4 h-4" />
           </button>
         </div>
 
-        {/* Dynamic Waveform Visualizer */}
-        <div className="flex items-center justify-center space-x-1.5 h-20 mb-6 bg-white/[0.02] rounded-tile border border-white/[0.06] p-4 overflow-hidden">
-          {[40, 70, 25, 90, 60, 30, 80, 100, 45, 65, 85, 30, 95, 50, 75, 40, 80, 60, 90, 35, 70, 50].map((h, i) => (
-            <div
-              key={i}
-              className={`w-1 rounded-full transition-all duration-300 ${
-                isPlayingAudio ? 'bg-mint' : 'bg-white/20'
-              }`}
-              style={{
-                height: isPlayingAudio ? `${Math.max(15, (h * (0.6 + Math.random() * 0.4)))}%` : '20%',
-                opacity: isPlayingAudio ? 0.9 : 0.3,
-              }}
-            />
-          ))}
+        {/* Dynamic Waveform & Respiratory Heartbeat Visualizer */}
+        <div className="flex items-center justify-center space-x-1.5 h-24 mb-6 bg-white/[0.02] rounded-tile border border-white/[0.06] p-4 overflow-hidden relative">
+          {[40, 70, 25, 90, 60, 30, 80, 100, 45, 65, 85, 30, 95, 50, 75, 40, 80, 60, 90, 35, 70, 50].map((h, i) => {
+            const dynamicHeight = isPlayingAudio 
+              ? Math.min(100, Math.max(15, h * (audioHeartbeatScale - 0.2))) 
+              : 20;
+            return (
+              <div
+                key={i}
+                className={`w-1.5 rounded-full transition-all duration-75 ${
+                  isPlayingAudio ? 'bg-mint shadow-[0_0_8px_rgba(52,211,153,0.6)]' : 'bg-white/20'
+                }`}
+                style={{
+                  height: `${dynamicHeight}%`,
+                  opacity: isPlayingAudio ? 0.95 : 0.3,
+                }}
+              />
+            );
+          })}
         </div>
 
         {/* Current Story Metadata */}
         <div className="text-center mb-6">
-          <span className="px-3 py-1 rounded-full bg-mint/15 text-mint border border-mint/30 text-xs font-bold uppercase tracking-wider inline-block mb-2">
-            {categoryLabel}
-          </span>
+          <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-mint/15 text-mint border border-mint/30 text-xs font-bold uppercase tracking-wider mb-2">
+            <Sparkles className="w-3.5 h-3.5" />
+            <span>{categoryLabel}</span>
+          </div>
           <h3 className="text-lg sm:text-xl font-bold text-white line-clamp-2 leading-tight">
             {title}
           </h3>
+          <p className="text-xs text-text-secondary mt-1">
+            {isBn ? 'মাইক্রোসফট এজ নিউরাল ভয়েস (নবনীত)' : 'Microsoft Edge Neural Voice (Emma)'}
+          </p>
         </div>
 
         {/* Clickable Progress Bar & Time */}
@@ -108,20 +137,20 @@ export const AudioPlayerSheet: React.FC = () => {
           <div 
             ref={progressRef}
             onClick={handleScrub}
-            className="h-2 w-full bg-white/10 rounded-full cursor-pointer overflow-hidden mb-2"
+            className="h-2 w-full bg-white/10 rounded-full cursor-pointer overflow-hidden mb-2 relative group"
             title="Click to scrub audio"
           >
             <div
-              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_12px_rgba(52,211,153,0.8)] transition-all duration-200"
-              style={{ width: `${audioProgress}%` }}
+              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_12px_rgba(52,211,153,0.8)] transition-all duration-150"
+              style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
             />
           </div>
           <div className="flex items-center justify-between text-xs text-text-secondary font-mono">
-            <span>{isBn ? `${toBanglaDigits(audioProgress)}%` : `${audioProgress}%`}</span>
+            <span>{isBn ? `${toBanglaDigits(Math.round(audioProgress))}%` : `${Math.round(audioProgress)}%`}</span>
             <span>
               {isBn
-                ? `${toBanglaDigits(audioTimeRemaining)} সেকেন্ড বাকি`
-                : `${audioTimeRemaining}s remaining`}
+                ? `${formatSeconds(audioTimeRemaining)} বাকি`
+                : `${formatSeconds(audioTimeRemaining)} remaining`}
             </span>
           </div>
         </div>
@@ -130,8 +159,9 @@ export const AudioPlayerSheet: React.FC = () => {
         <div className="flex items-center justify-center space-x-3 sm:space-x-5 mb-8">
           {/* Skip -10s */}
           <button
+            type="button"
             onClick={() => skipAudio(-10)}
-            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all"
+            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all active:scale-95"
             title="Rewind 10s"
           >
             <RotateCcw className="w-4 h-4" />
@@ -139,20 +169,25 @@ export const AudioPlayerSheet: React.FC = () => {
 
           {/* Previous Story */}
           <button
+            type="button"
             onClick={playPrevAudio}
-            className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all"
+            className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all active:scale-95"
             title="Previous Story"
           >
             <SkipBack className="w-5 h-5" />
           </button>
 
-          {/* Big Play/Pause */}
+          {/* Big Play/Pause with Heartbeat scale */}
           <button
+            type="button"
             onClick={toggleAudio}
-            className="p-5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_30px_rgba(52,211,153,0.5)] transition-all transform hover:scale-105"
+            className="p-5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_30px_rgba(52,211,153,0.5)] transition-transform transform active:scale-95"
+            style={{ transform: `scale(${isPlayingAudio ? Math.min(1.15, audioHeartbeatScale) : 1.0})` }}
             title={isPlayingAudio ? 'Pause' : 'Play'}
           >
-            {isPlayingAudio ? (
+            {isAudioLoading ? (
+              <Loader2 className="w-7 h-7 animate-spin text-obsidian-bg" />
+            ) : isPlayingAudio ? (
               <Pause className="w-7 h-7 fill-current" />
             ) : (
               <Play className="w-7 h-7 fill-current ml-0.5" />
@@ -161,8 +196,9 @@ export const AudioPlayerSheet: React.FC = () => {
 
           {/* Next Story */}
           <button
+            type="button"
             onClick={playNextAudio}
-            className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all"
+            className="p-3 rounded-full bg-white/[0.04] border border-white/[0.08] text-white hover:bg-white/[0.08] transition-all active:scale-95"
             title="Next Story"
           >
             <SkipForward className="w-5 h-5" />
@@ -170,8 +206,9 @@ export const AudioPlayerSheet: React.FC = () => {
 
           {/* Skip +10s */}
           <button
+            type="button"
             onClick={() => skipAudio(10)}
-            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all"
+            className="p-2.5 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white transition-all active:scale-95"
             title="Forward 10s"
           >
             <RotateCw className="w-4 h-4" />
@@ -184,6 +221,7 @@ export const AudioPlayerSheet: React.FC = () => {
           {speeds.map((rate) => (
             <button
               key={rate}
+              type="button"
               onClick={() => setAudioPlaybackRate(rate)}
               className={`px-3 py-1 rounded-full text-xs font-bold transition-all border ${
                 audioPlaybackRate === rate
@@ -213,6 +251,7 @@ export const AudioPlayerSheet: React.FC = () => {
               return (
                 <button
                   key={story.story_id}
+                  type="button"
                   onClick={() => playStoryAudio(story)}
                   className={`w-full flex items-center justify-between p-2.5 rounded-tile text-left text-xs transition-all border ${
                     isSelected

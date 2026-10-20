@@ -303,3 +303,65 @@ def save_editor_draft(payload: dict = Body(...)):
     with open(draft_file, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     return {"success": True, "message": "Draft saved successfully."}
+
+# ==========================================
+# Neural TTS (Bengali & English) Gateway
+# Ported from Voice Studio & Edge-TTS Suite
+# ==========================================
+import base64
+from fastapi.responses import Response
+from api.tts_engine import VOICES, synthesize_speech
+
+@app.get("/api/tts/voices")
+def get_tts_voices():
+    """Returns available high-definition Neural TTS voices."""
+    return VOICES
+
+@app.post("/api/tts/speak")
+async def tts_speak(payload: dict = Body(...)):
+    """Synthesizes speech with neural breath pacing and word boundaries."""
+    text = payload.get("text", "").strip()
+    voice = payload.get("voice", "bn-BD-NabanitaNeural")
+    rate = payload.get("rate", "+0%")
+    pitch = payload.get("pitch", "+0Hz")
+    natural_pauses = payload.get("natural_pauses", True)
+
+    if not text:
+        raise HTTPException(status_code=400, detail="Text cannot be empty.")
+
+    try:
+        audio_bytes, words = await synthesize_speech(
+            text=text,
+            voice=voice,
+            rate=rate,
+            pitch=pitch,
+            natural_pauses=natural_pauses
+        )
+        audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
+        return {
+            "audio": f"data:audio/mp3;base64,{audio_b64}",
+            "words": words,
+            "word_count": len(words)
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/tts/audio")
+async def tts_audio_stream(
+    text: str = Query(..., description="Text to speak"),
+    voice: str = Query("bn-BD-NabanitaNeural", description="Voice ID"),
+    rate: str = Query("+0%", description="Rate modulation e.g. +10%"),
+    natural_pauses: bool = Query(True)
+):
+    """Direct MP3 stream for HTML5 audio tags."""
+    try:
+        audio_bytes, _ = await synthesize_speech(
+            text=text,
+            voice=voice,
+            rate=rate,
+            natural_pauses=natural_pauses
+        )
+        return Response(content=audio_bytes, media_type="audio/mpeg")
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+

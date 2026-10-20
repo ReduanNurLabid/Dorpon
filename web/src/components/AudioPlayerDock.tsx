@@ -4,12 +4,12 @@ import {
   Play, 
   Pause, 
   SkipForward, 
-  SkipBack, 
   X, 
   Maximize2, 
   Headphones, 
   RotateCcw,
-  RotateCw
+  RotateCw,
+  Loader2
 } from 'lucide-react';
 import { toBanglaDigits, getLocalizedCategory } from '../utils/bilingual';
 
@@ -17,20 +17,19 @@ export const AudioPlayerDock: React.FC = () => {
   const {
     currentAudioStory,
     isPlayingAudio,
+    isAudioLoading,
     toggleAudio,
-    stopAudio,
+    dismissAudioPlayer,
     playNextAudio,
-    playPrevAudio,
     skipAudio,
     seekAudio,
     audioProgress,
     audioTimeRemaining,
-    audioDuration,
     audioPlaybackRate,
+    audioHeartbeatScale,
     setAudioPlaybackRate,
     setIsAudioSheetOpen,
     language,
-    t,
   } = useApp();
 
   const progressBarRef = useRef<HTMLDivElement | null>(null);
@@ -62,10 +61,17 @@ export const AudioPlayerDock: React.FC = () => {
     seekAudio(pct);
   };
 
+  const formatSeconds = (secs: number) => {
+    const m = Math.floor(secs / 60);
+    const s = secs % 60;
+    const formatted = `${m}:${s.toString().padStart(2, '0')}`;
+    return isBn ? toBanglaDigits(formatted) : formatted;
+  };
+
   return (
     <div
       onClick={() => setIsAudioSheetOpen(true)}
-      className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.8)] p-3 transition-all duration-300 hover:border-mint/60 animate-slideUp
+      className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3 transition-all duration-300 hover:border-mint/60 animate-slideUp
         bottom-20 left-1/2 -translate-x-1/2 w-[94%] max-w-lg
         md:bottom-6 md:right-6 md:left-auto md:translate-x-0 md:w-[420px]"
     >
@@ -77,16 +83,21 @@ export const AudioPlayerDock: React.FC = () => {
         title="Click to scrub audio"
       >
         <div
-          className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_10px_rgba(52,211,153,0.8)] transition-all duration-200"
-          style={{ width: `${audioProgress}%` }}
+          className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_10px_rgba(52,211,153,0.8)] transition-all duration-150"
+          style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
         />
       </div>
 
       <div className="flex items-center justify-between gap-3">
-        {/* Story details */}
+        {/* Story details & dynamic heartbeat icon */}
         <div className="flex items-center space-x-3 overflow-hidden min-w-0 flex-1">
-          <div className="relative flex-shrink-0 w-10 h-10 rounded-xl bg-mint/15 border border-mint/30 flex items-center justify-center text-mint">
-            {isPlayingAudio ? (
+          <div 
+            className="relative flex-shrink-0 w-10 h-10 rounded-xl bg-mint/15 border border-mint/30 flex items-center justify-center text-mint transition-transform duration-75"
+            style={{ transform: `scale(${isPlayingAudio ? audioHeartbeatScale : 1.0})` }}
+          >
+            {isAudioLoading ? (
+              <Loader2 className="w-5 h-5 animate-spin text-mint" />
+            ) : isPlayingAudio ? (
               <div className="flex items-center space-x-0.5 h-4">
                 <span className="w-1 h-3 bg-mint rounded-full animate-[pulse_0.6s_ease-in-out_infinite]" />
                 <span className="w-1 h-4 bg-mint rounded-full animate-[pulse_0.4s_ease-in-out_infinite]" />
@@ -102,8 +113,8 @@ export const AudioPlayerDock: React.FC = () => {
               <span className="text-[10px] font-bold uppercase tracking-wider text-mint">
                 {categoryLabel}
               </span>
-              <span className="text-[10px] text-text-secondary/70 font-mono">
-                {isBn ? `${toBanglaDigits(audioTimeRemaining)}s` : `${audioTimeRemaining}s`}
+              <span className="text-[10px] text-text-secondary/80 font-mono">
+                {formatSeconds(audioTimeRemaining)}
               </span>
             </div>
             <p className="text-xs sm:text-sm font-semibold text-white truncate">
@@ -119,7 +130,11 @@ export const AudioPlayerDock: React.FC = () => {
         >
           {/* Skip -10s */}
           <button
-            onClick={() => skipAudio(-10)}
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              skipAudio(-10);
+            }}
             className="p-1.5 rounded-full text-text-secondary hover:text-white hover:bg-white/[0.06] transition-all"
             title="Rewind 10 seconds"
           >
@@ -128,6 +143,7 @@ export const AudioPlayerDock: React.FC = () => {
 
           {/* Speed Toggle */}
           <button
+            type="button"
             onClick={cycleSpeed}
             className="px-2 py-0.5 rounded bg-white/[0.06] border border-white/[0.1] text-[10px] font-bold text-mint hover:bg-white/[0.1] transition-all"
             title="Toggle Speed"
@@ -137,11 +153,17 @@ export const AudioPlayerDock: React.FC = () => {
 
           {/* Play/Pause */}
           <button
-            onClick={toggleAudio}
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              toggleAudio();
+            }}
             className="p-2 sm:p-2.5 rounded-full bg-mint text-obsidian-bg hover:bg-mint-bright shadow-[0_0_15px_rgba(52,211,153,0.4)] transition-all transform hover:scale-105"
             title={isPlayingAudio ? 'Pause' : 'Play'}
           >
-            {isPlayingAudio ? (
+            {isAudioLoading ? (
+              <Loader2 className="w-4 h-4 animate-spin text-obsidian-bg" />
+            ) : isPlayingAudio ? (
               <Pause className="w-4 h-4 fill-current" />
             ) : (
               <Play className="w-4 h-4 fill-current ml-0.5" />
@@ -150,7 +172,11 @@ export const AudioPlayerDock: React.FC = () => {
 
           {/* Skip +10s */}
           <button
-            onClick={() => skipAudio(10)}
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              skipAudio(10);
+            }}
             className="p-1.5 rounded-full text-text-secondary hover:text-white hover:bg-white/[0.06] transition-all"
             title="Forward 10 seconds"
           >
@@ -159,7 +185,11 @@ export const AudioPlayerDock: React.FC = () => {
 
           {/* Next Story */}
           <button
-            onClick={playNextAudio}
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              playNextAudio();
+            }}
             className="p-1.5 rounded-full text-text-secondary hover:text-white hover:bg-white/[0.06] transition-all"
             title="Next Story"
           >
@@ -168,18 +198,26 @@ export const AudioPlayerDock: React.FC = () => {
 
           {/* Expand to Full Sheet */}
           <button
-            onClick={() => setIsAudioSheetOpen(true)}
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsAudioSheetOpen(true);
+            }}
             className="p-1.5 rounded-full text-text-secondary hover:text-white hover:bg-white/[0.06] transition-all hidden sm:block"
             title="Expand Player"
           >
             <Maximize2 className="w-3.5 h-3.5" />
           </button>
 
-          {/* Stop / Close */}
+          {/* Close & Dismiss Overlay */}
           <button
-            onClick={stopAudio}
-            className="p-1.5 rounded-full text-text-secondary hover:text-red-400 hover:bg-white/[0.06] transition-all"
-            title="Stop & Close Player"
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              dismissAudioPlayer();
+            }}
+            className="p-1.5 rounded-full text-text-secondary hover:text-red-400 hover:bg-white/[0.08] transition-all"
+            title="Close Player"
           >
             <X className="w-4 h-4" />
           </button>

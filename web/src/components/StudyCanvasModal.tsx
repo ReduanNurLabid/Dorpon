@@ -152,18 +152,29 @@ export const StudyCanvasModal: React.FC = () => {
     'text-base sm:text-lg leading-relaxed';
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 md:p-6 overflow-y-auto backdrop-blur-2xl bg-black/85 animate-fadeIn">
-      {/* Click outside backdrop */}
-      <div className="fixed inset-0" onClick={closeStory} />
-
-      <div className="relative w-full max-w-4xl min-h-screen sm:min-h-0 sm:max-h-[92vh] flex flex-col bg-obsidian-bg sm:rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10">
+    <div 
+      className="fixed inset-0 z-50 flex items-center justify-center p-0 sm:p-4 md:p-6 overflow-y-auto backdrop-blur-2xl bg-black/85 animate-fadeIn"
+      onClick={(e) => {
+        if (e.target === e.currentTarget) {
+          closeStory();
+        }
+      }}
+    >
+      <div 
+        onClick={(e) => e.stopPropagation()}
+        className="relative w-full max-w-4xl min-h-screen sm:min-h-0 sm:max-h-[92vh] flex flex-col bg-obsidian-bg sm:rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10"
+      >
         
         {/* Sticky Header with Prominent Back & Close */}
         <div className="flex items-center justify-between px-4 sm:px-8 py-3.5 border-b border-white/[0.08] bg-obsidian-lowest/95 backdrop-blur-xl sticky top-0 z-30">
           {/* Back Button (Prominent on mobile and desktop) */}
           <button
-            onClick={closeStory}
-            className="flex items-center space-x-1.5 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full bg-white/[0.08] border border-white/[0.12] text-white hover:bg-mint hover:text-obsidian-bg hover:border-mint transition-all duration-200 group"
+            type="button"
+            onClick={(e) => {
+              e.stopPropagation();
+              closeStory();
+            }}
+            className="flex items-center space-x-1.5 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full bg-white/[0.08] border border-white/[0.12] text-white hover:bg-mint hover:text-obsidian-bg hover:border-mint transition-all duration-200 group active:scale-95"
             title="Go Back"
           >
             <ArrowLeft className="w-4 h-4 group-hover:-translate-x-0.5 transition-transform" />
@@ -238,8 +249,12 @@ export const StudyCanvasModal: React.FC = () => {
 
             {/* Direct Close X Button */}
             <button
-              onClick={closeStory}
-              className="p-2 rounded-full bg-white/[0.06] border border-white/[0.1] text-text-secondary hover:text-white hover:bg-red-500/20 hover:border-red-500/40 transition-all"
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                closeStory();
+              }}
+              className="p-2 rounded-full bg-white/[0.08] border border-white/[0.12] text-text-secondary hover:text-white hover:bg-red-500/20 hover:border-red-500/40 transition-all active:scale-95"
               title="Close modal"
             >
               <X className="w-4 h-4" />
@@ -533,8 +548,12 @@ export const StudyCanvasModal: React.FC = () => {
             </div>
 
             <button
-              onClick={closeStory}
-              className="flex items-center space-x-1.5 px-5 py-2 rounded-full bg-white/[0.08] hover:bg-white/[0.12] text-xs sm:text-sm font-bold text-white transition-all border border-white/[0.1]"
+              type="button"
+              onClick={(e) => {
+                e.stopPropagation();
+                closeStory();
+              }}
+              className="flex items-center space-x-1.5 px-5 py-2.5 rounded-full bg-white/[0.08] hover:bg-white/[0.15] text-xs sm:text-sm font-bold text-white transition-all border border-white/[0.15] active:scale-95"
             >
               <ArrowLeft className="w-4 h-4" />
               <span>{isBn ? 'ফিরে যান' : 'Go Back'}</span>
@@ -542,17 +561,21 @@ export const StudyCanvasModal: React.FC = () => {
           </div>
         </div>
 
-        {/* Mobile Persistent Floating Quick-Back Button */}
-        <div className="sm:hidden fixed bottom-6 right-6 z-40">
-          <button
-            onClick={closeStory}
-            className="flex items-center space-x-2 px-4 py-2.5 rounded-full bg-obsidian-lowest/95 border border-mint/40 text-mint text-xs font-bold shadow-[0_8px_25px_rgba(0,0,0,0.8)] backdrop-blur-xl active:scale-95 transition-transform"
-          >
-            <ArrowLeft className="w-4 h-4" />
-            <span>{isBn ? 'ফিরে যান' : 'Go Back'}</span>
-          </button>
-        </div>
+      </div>
 
+      {/* Mobile Persistent Floating Quick-Back Pill - Outside modal dialog with high z-index */}
+      <div className="sm:hidden fixed bottom-6 right-6 z-[70]">
+        <button
+          type="button"
+          onClick={(e) => {
+            e.stopPropagation();
+            closeStory();
+          }}
+          className="flex items-center space-x-2 px-4 py-2.5 rounded-full bg-obsidian-lowest/95 border-2 border-mint text-mint text-xs font-bold shadow-[0_8px_30px_rgba(0,0,0,0.9)] backdrop-blur-2xl active:scale-90 transition-transform"
+        >
+          <ArrowLeft className="w-4 h-4" />
+          <span>{isBn ? 'ফিরে যান' : 'Go Back'}</span>
+        </button>
       </div>
     </div>
   );
