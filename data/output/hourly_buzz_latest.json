@@ -1,7 +1,80 @@
 {
-  "updated_at": "2026-10-20T08:57:04.556058",
+  "updated_at": "2026-10-20T09:13:06.428989",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "a47facd3-201e-5604-8c10-e9cc885920b0",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#GovernanceAndAccountability",
+        "#RuleOfLaw",
+        "#ConstitutionalReform"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2F2vc3now7%2FNahid-Islam-01.jpeg?rect=0%2C0%2C3936%2C2066&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/7sfoihx8gr",
+          "title": "ইশরাক পদত্যাগ করলেন, দেশবাসী তাকিয়ে আছে স্বরাষ্ট্রমন্ত্রী কবে পদত্যাগ করবেন: নাহিদ ইসলাম",
+          "snippet": "ইশরাক পদত্যাগ করলেন, দেশবাসী তাকিয়ে আছে স্বরাষ্ট্রমন্ত্রী কবে পদত্যাগ করবেন: নাহিদ ইসলাম"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইশরাকের পদত্যাগের পর স্বরাষ্ট্রমন্ত্রীর পদত্যাগ দাবি নাহিদ ইসলামের",
+        "title_en": "NCP Convener Nahid Islam Demands Home Minister's Resignation Following Ishraque Hossain's Exit",
+        "summary_bn": "অস্ত্র-কাণ্ডের মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে ইশরাক হোসেনের পদত্যাগের পর এবার স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদের পদত্যাগ দাবি করেছেন জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ নাহিদ ইসলাম। সোমবার রাজধানীর পূর্ব বাড্ডায় একটি পূজামণ্ডপ পরিদর্শনকালে তিনি অভিযোগ করেন, দেশে আইনশৃঙ্খলার অবনতির মূল দায়ী ব্যক্তির কোনো জবাবদিহি নিশ্চিত করা হচ্ছে না। একইসঙ্গে সংসদীয় সংবিধান সংশোধন কমিটিকে 'জনগণের সঙ্গে প্রহসন' আখ্যা দিয়ে তিনি নির্বাহী বিভাগের বৈষম্যমূলক আইন প্রয়োগের সমালোচনা করেন।",
+        "summary_en": "National Citizen Party (NCP) Convener and Opposition Chief Whip Nahid Islam has demanded the resignation of Home Minister Salahuddin Ahmad following the exit of State Minister for Liberation War Affairs Ishraque Hossain over an arms controversy. Speaking during a temple visit in Dhaka on Monday, Nahid accused the Home Ministry of failing to maintain public security and criticized what he termed selective law enforcement regarding criminal allegations. He further dismissed the parliamentary constitution amendment committee as a political farce lacking broad public acceptance.",
+        "why_it_matters_bn": "এই রাজনৈতিক অবস্থানটি প্রশাসনে নির্বাহী জবাবদিহি, আইনি ব্যবস্থা গ্রহণে নিরপেক্ষতা এবং সংবিধান সংস্কার প্রক্রিয়ার বিশ্বাসযোগ্যতা নিয়ে ক্রমবর্ধমান বিরোধী অসন্তোষকে তুলে ধরে।",
+        "why_it_matters_en": "The demand underscores growing political friction over executive accountability, selective law enforcement, and the legitimacy of ongoing constitutional reform processes in Bangladesh.",
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60
+      }
+    },
+    {
+      "story_id": "b7f411c9-638f-5d56-924d-c96a5edc812f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#IshraqueHossain",
+        "#LiberationWarAffairs",
+        "#BangladeshPolitics",
+        "#CabinetResignation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2F3h8yt6of%2Fisrak-2.jpeg?rect=0%2C162%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/1e68t6pn4b",
+          "title": "ভুল হয়ে থাকলে দুঃখ প্রকাশ করছি, কিন্তু কোনো ভুল করিনি, বললেন ইশরাক",
+          "snippet": "ভুল হয়ে থাকলে দুঃখ প্রকাশ করছি, কিন্তু কোনো ভুল করিনি, বললেন ইশরাক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অস্ত্র হাতে নিয়ে ঘোরার ঘটনায় মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগ",
+        "title_en": "State Minister for Liberation War Affairs Ishraque Hossain Resigns Following Controversy Over Carrying Firearm",
+        "summary_bn": "অস্ত্র হাতে নিয়ে ঘোরার ভাইরাল হওয়া ভিডিওর ঘটনায় সমালোচনার মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে স্বেচ্ছায় পদত্যাগ করেছেন ইশরাক হোসেন। সোমবার দুপুরে জাতীয় প্রেস ক্লাবে আয়োজিত এক সংবাদ সম্মেলনে তিনি প্রধানমন্ত্রীর কাছে পদত্যাগপত্র জমা দেওয়ার কথা জানান। ইশরাক দাবি করেন, সেদিন নিরাপত্তার স্বার্থেই তিনি লাইসেন্স করা অস্ত্র নিয়েছিলেন এবং তিনি কোনো ভুল করেননি।",
+        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has voluntarily resigned from his post following widespread criticism over a viral video showing him carrying a firearm. Addressing a press conference at the National Press Club on Monday, he announced that he stepped down and requested the Prime Minister to let him work at the grassroots level. Hossain maintained that he committed no wrong and carried the licensed weapon solely for his self-defense.",
+        "why_it_matters_bn": "এই পদত্যাগ সরকারের নীতিনির্ধারণী পর্যায়ে শৃঙ্খলা রক্ষা এবং মন্ত্রীদের আচরণগত জবাবদিহিতার বিষয়টি সামনে নিয়ে এসেছে।",
+        "why_it_matters_en": "This high-profile resignation underscores the executive's sensitivity to public image and the administrative fallout from controversial conduct by public officials.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60
+      }
+    },
     {
       "story_id": "2daf3d29-e7cb-5493-8af4-23d587c53f0d",
       "primary_category": "governance_law",
@@ -11,7 +84,8 @@
       "tags": [
         "#IshraqueHossain",
         "#CabinetResignation",
-        "#BangladeshPolitics"
+        "#BangladeshPolitics",
+        "#GoodGovernance"
       ],
       "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fjgdqjt07%2FWhatsApp-Image-2026-10-19-at-3.02.21-PM.jpeg?rect=0%2C137%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
@@ -19,224 +93,18 @@
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/lidcxqxhmm"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/7sfoihx8gr"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/lst5njwag2"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/rb7ah2qtlb"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/1e68t6pn4b"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/fw9vaumi76"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/p2gvoai75z"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/902zxr0sjd"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/i14ud6c8bk"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/b3j47kx0h7"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/4y2ygm0edh"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/4mki94l52l"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/b3c8q7gbgl"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/sjh2fw8qxr"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/7x3kknz6v8"
-        },
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/dthqgl6ail"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975590/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%AC%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/bnp/975585/%E0%A6%87%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%87-%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975561/%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975573/%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%A3%E0%A7%8D%E0%A6%A1%E0%A6%AA-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/975564/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E-%E0%A6%86%E0%A6%B8%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%AD%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%AD%E0%A6%B0"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975562/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%86%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A6%BE-%E0%A6%B9%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A6%AC%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B0"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/975558/%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B6%E0%A7%87%E0%A6%B7%E0%A7%87-%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE-%E0%A6%AA%E0%A6%BE-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%A8"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/jamat-e-islam/975548/%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%AF%E0%A6%BE"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975547/%E2%80%98%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%87%E0%A6%95%E0%A7%81%E0%A6%87%E0%A6%AA%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A7%9F%E2%80%99-%E0%A6%87%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AF%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%9B%E0%A7%87"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975502/%E2%80%98%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%87%E0%A6%95%E0%A7%81%E0%A6%87%E0%A6%AA%E0%A7%8D%E0%A6%9F-%E0%A6%A8%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A7%87"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975500/%E0%A6%87%E0%A6%B6%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%98%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/historical/news/news/bnp-expels-sa-siddique-shaju-4081036"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/news/fakhrul-condemns-chuadanga-bnp-leaders-death-custody-demands-justice-4079986"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/nation-waiting-home-ministers-resignation-nahid-1577846"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/pm-meet-ctg-bnp-leaders-give-organisational-directives-tomorrow-1577436"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/ishraque-resigns-state-minister-amid-backlash-over-gun-wielding-raid-1577391"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/ishraque-brandishing-firearm-signals-reign-terror-jamaat-1576711"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/68-candidates-vie-bnp-nomination-reserved-seat-vacated-mishti-1575661"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/bnp-sells-67-nomination-forms-mishtis-vacant-reserved-seat-1574956"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/conspiracy-tarnish-govt-countrys-image-underway-home-and-abroad-rizvi-1574051"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/former-bnp-lawmaker-salahuddin-ahmed-dies-1572081"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/july-bnps-lips-awami-league-its-heart-hasnat-1572021"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/jamaat-chief-demands-action-over-harassment-yunus-jfk-airport-1571681"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/jamaat-leader-taher-condemns-harassment-prof-yunus-us-airport-1571666"
-        },
-        {
-          "name": "The Business Standard Politics",
-          "url": "https://www.tbsnews.net/bangladesh/politics/ncp-alleges-bnp-lpg-price-manipulation-fertiliser-nepotism-1571616"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/bangladesh/news/tarique-likely-meet-ca-yunus-today-4081581"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/unapologetic-ishraque-quits-4303006"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/15-jailed-dayaganj-anti-drug-drive-following-ishraque-gun-controversy-4302741"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/opinion/editorial/422519/the-rule-of-law-cannot-depend-on-who-holds-a"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/422492/nasiruddin-ishraque-a-victim-of-home-minister-s"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/422488/ishraque-police-unequipped-carried-firearm-for"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/politics/422459/ishraque-party-did-not-want-this-i-am-resigning"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/politics/422440/ishraque-to-announce-resignation-decision-at-2pm"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/opinion/longform/422422/when-the-state-becomes-a-family-business"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/422431/pm-orders-ishraque-to-resign-from-cabinet"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/422427/ishraque-will-use-bamboo-sticks-instead-of"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+          "url": "https://www.prothomalo.com/politics/lidcxqxhmm",
+          "title": "রাতে ‘গুজব’, সকালে ‘পদত্যাগের সিদ্ধান্ত’, দুপুরে ‘স্বেচ্ছায় অব্যাহতি’: ইশরাকের যত বক্তব্য",
+          "snippet": "রাতে ‘গুজব’, সকালে ‘পদত্যাগের সিদ্ধান্ত’, দুপুরে ‘স্বেচ্ছায় অব্যাহতি’: ইশরাকের যত বক্তব্য"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর নির্দেশে প্রতিমন্ত্রীর পদ ছাড়লেন ইশরাক হোসেন",
-        "title_en": "State Minister Ishraque Hossain Resigns Following Prime Minister's Directive",
-        "summary_bn": "মুক্তিযুদ্ধবিষয়ক মন্ত্রণালয়ের প্রতিমন্ত্রী ইশরাক হোসেন প্রধানমন্ত্রীর নির্দেশে তাঁর পদ থেকে অব্যাহতি নিয়েছেন। এর আগে রোববার পদত্যাগের খবর প্রকাশের পর তা অস্বীকার করে আইনি ব্যবস্থার হুঁশিয়ারি দিলেও, সোমবার জাতীয় প্রেসক্লাবে আয়োজিত সংবাদ সম্মেলনে তিনি স্বেচ্ছায় পদত্যাগের কথা জানান। সরকারের উচ্চপর্যায়ের সূত্র জানায়, অস্ত্র হাতে মাদকবিরোধী অভিযানের পর সমালোচনার মুখে প্রধানমন্ত্রী তাঁকে পদত্যাগের নির্দেশ দিয়েছিলেন।",
-        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has stepped down from his position following a directive from the Prime Minister. Although he initially dismissed Sunday's resignation reports as rumors and threatened legal action, he announced his voluntary resignation during a press conference at the National Press Club on Monday. Government sources confirmed that the Prime Minister directed him to resign following intense criticism over his armed anti-narcotics operation.",
-        "why_it_matters_bn": "এই ঘটনাটি প্রশাসনের জবাবদিহিতা এবং মন্ত্রী পর্যায়ের অসদাচরণের ক্ষেত্রে সরকারের কঠোর অবস্থানের বিষয়টি স্পষ্ট করে তোলে।",
-        "why_it_matters_en": "This incident highlights the government's strict stance on executive accountability and ministerial conduct following public controversies.",
+        "title_bn": "প্রধানমন্ত্রীর নির্দেশে পদত্যাগের খবর অস্বীকারের পর স্বেচ্ছায় অব্যাহতির ঘোষণা প্রতিমন্ত্রীর",
+        "title_en": "State Minister Ishraque Claims Voluntary Resignation After Denying Prime Minister's Directives",
+        "summary_bn": "রোববার রাতে প্রধানমন্ত্রীর নির্দেশে পদত্যাগের খবর প্রকাশের পর এটিকে গুজব ও উড়ো খবর দাবি করেছিলেন মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন। সোমবার দুপুরে জাতীয় প্রেসক্লাবে এক সংবাদ সম্মেলনে তিনি জানান, প্রধানমন্ত্রী তারেক রহমানের কাছে তিনি নিজেই স্বেচ্ছায় অব্যাহতির আবেদন করেছেন। মাদকবিরোধী অভিযান ঘিরে সমালোচনার মুখে তার এই পদত্যাগ এবং পূর্ববর্তী বক্তব্যের অসংগতি নিয়ে রাজনৈতিক মহলে আলোচনা তৈরি হয়েছে।",
+        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain initially dismissed reports of his resignation on Sunday night as a rumor after being directed by Prime Minister Tarique Rahman. During a press briefing at the National Press Club on Monday afternoon, however, he claimed that he voluntarily stepped down from his ministerial post. The conflicting narratives surrounding his departure follow mounting criticism over an armed anti-narcotics drive led by him over the weekend.",
+        "why_it_matters_bn": "এই ঘটনা সরকারের উচ্চপর্যায়ের সিদ্ধান্ত গ্রহণ প্রক্রিয়ায় স্বচ্ছতা এবং মন্ত্রীদের রাজনৈতিক জবাবদিহিতার বিষয়টি স্পষ্টভাবে সামনে নিয়ে এসেছে।",
+        "why_it_matters_en": "This development highlights executive accountability and transparency within high-level government administrative decisions.",
         "interest_categories": [
           "governance_law"
         ],
@@ -244,187 +112,35 @@
       }
     },
     {
-      "story_id": "a439b9d4-3268-5183-a3d9-3e21a3532412",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "tags": [
-        "#BangladeshBank",
-        "#ReserveHeist",
-        "#CID",
-        "#FinancialCrime"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975525/%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A7%AF%E0%A7%AF-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%AA%E0%A7%87%E0%A6%9B%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ব্যাংকের রিজার্ভ চুরির তদন্ত প্রতিবেদন দাখিলের তারিখ ৯৯ বার পেছাল",
-        "title_en": "CID Fails to Submit Bangladesh Bank Reserve Heist Probe Report for 99th Time",
-        "summary_bn": "বাংলাদেশ ব্যাংকের রিজার্ভ চুরির মামলার তদন্ত প্রতিবেদন দাখিলের তারিখ আবারও পিছিয়েছে, যার ফলে এটি ৯৯ বারের মতো বিলম্বিত হলো। সোমবার নির্ধারিত দিনে পুলিশের অপরাধ তদন্ত বিভাগ (সিআইডি) প্রতিবেদন জমা দিতে ব্যর্থ হওয়ায় ঢাকার অতিরিক্ত চিফ মেট্রোপলিটন ম্যাজিস্ট্রেট জশিতা ইসলাম আগামী ২৫ নভেম্বর নতুন তারিখ নির্ধারণ করেছেন। ২০১৬ সালে ফিলিপাইনের ক্যাসিনো খাতে অর্থ স্থানান্তরের এই চাঞ্চল্যকর ঘটনায় দীর্ঘসূত্রিতা তদন্ত ব্যবস্থার দীর্ঘস্থায়িত্ব নিয়ে প্রশ্ন তুলেছে।",
-        "summary_en": "The submission of the investigation report in the Bangladesh Bank reserve heist case has been delayed for the 99th time. The Criminal Investigation Department (CID) failed to submit the report on Monday, prompting Dhaka Additional Chief Metropolitan Magistrate Jashita Islam to set November 25 as the new date. This prolonged delay in probing the sensational 2016 cyber-heist highlights persistent institutional inefficiencies within financial crime investigations.",
-        "why_it_matters_bn": "তদন্তে এই দীর্ঘসূত্রিতা আর্থিক খাতের বড় দুর্নীতির ঘটনায় বিচারহীনতার সংস্কৃতিকে দীর্ঘায়িত করে এবং কেন্দ্রীয় ব্যাংকের সাইবার নিরাপত্তার দুর্বলতা উন্মোচন করে।",
-        "why_it_matters_en": "This chronic delay undermines accountability in high-profile financial crimes and exposes systemic vulnerabilities in institutional investigative frameworks.",
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60
-      }
-    },
-    {
-      "story_id": "b70695da-5e82-519b-b321-036c7ea6a46b",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#NationalUniversity",
-        "#AITraining",
-        "#SkillsDevelopment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/tech-and-gadget/975560/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%87"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় বিশ্ববিদ্যালয় ও ব্রেইন সিস্টেমের চুক্তি: শিক্ষার্থীরা পাবে বিনামূল্যে এআই প্রশিক্ষণ",
-        "title_en": "National University Signs MoU with Brain System Limited to Provide Free AI Training",
-        "summary_bn": "জাতীয় বিশ্ববিদ্যালয় এবং ব্রেইন সিস্টেম লিমিটেডের মধ্যে অধিভুক্ত কলেজসমূহের শিক্ষার্থীদের বিনামূল্যে কৃত্রিম বুদ্ধিমত্তা (এআই) বিষয়ক প্রশিক্ষণ প্রদানের লক্ষ্যে একটি সমঝোতা স্মারক (এমওইউ) স্বাক্ষরিত হয়েছে। এই উদ্যোগের প্রধান উদ্দেশ্য হলো শিক্ষার্থীদের পেশাগত ও কারিগরি দক্ষতা বৃদ্ধি করে আধুনিক কর্মসংস্থানের উপযোগী করে তোলা। সমঝোতার অধীনে শিক্ষার্থীরা মৌলিক এআই শিক্ষা ও ডিজিটাল দক্ষতা অর্জনের সুযোগ পাবে।",
-        "summary_en": "National University has signed a Memorandum of Understanding (MoU) with Brain System Limited to offer free Artificial Intelligence (AI) training to students across its affiliated colleges. The partnership aims to enhance technical competencies and professional skills among tertiary-level students to meet evolving job market demands. Under the agreement, students will receive foundational AI instruction and practical digital skill development opportunities.",
-        "why_it_matters_bn": "উপজেলা ও জেলা পর্যায়ের অধিভুক্ত কলেজের শিক্ষার্থীদের এআই প্রশিক্ষণের আওতায় আনা দেশের তরুণদের ডিজিটাল বৈষম্য দূর করতে এবং প্রযুক্তিভিত্তিক কর্মসংস্থান নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "why_it_matters_en": "Equipping students in regional affiliated colleges with AI skills addresses the digital skill gap and strengthens youth employability across Bangladesh.",
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60
-      }
-    },
-    {
-      "story_id": "497c463f-e99d-5080-8239-b4223388fa8f",
+      "story_id": "b73ff6c5-0963-5684-99d4-2fa01e76d893",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#MigrantWorkers",
-        "#Remittance",
-        "#MayDay",
-        "#LaborRights",
-        "#BangladeshEconomy"
+        "#IshraqueHossain",
+        "#CabinetResignation",
+        "#BangladeshPolitics",
+        "#LawEnforcement"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fl2zgz0l5%2FWhatsApp-Image-2026-10-19-at-6.43.29-PM.jpeg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/historical/politics/news/opposition-not-parliament-idle-talk-or-history-lessons-jamaat-ameer-4165516"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/news/bangladesh/news/jamaat-alleges-voting-irregularities-bogura-6-polls-sherpur-3-election-4147541"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/news/the-parliament-watch/parliament/news/if-one-cant-be-appointed-without-party-affiliation-unfortunate-4145781"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/news/bangladesh/elections/news/ncp-launch-election-campaign-tin-netar-mazar-dhaka-tomorrow-4086886"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/historical/politics/news/left-aligned-platform-npa-launched-central-shaheed-minar-4082506"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/historical/politics/news/mamunul-haque-hopes-islami-andolan-will-be-board-despite-absence-key-meeting-4081731"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/historical/politics/news/jamaat-led-alliance-holds-emergency-meeting-without-key-ally-4081671"
-        },
-        {
-          "name": "The Daily Star Politics",
-          "url": "https://www.thedailystar.net/news/mob-rule-has-no-place-campus-4078476"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/seven-day-remand-sought-mp-gazi-nazrul-first-wife-over-second-wifes-death-4278771"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/miscellaneous/bangladesh/news/shafiqul-alam-returns-journalism-joins-the-daily-waadaa-editor-4109141"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/historical/news/news/bangladeshi-origin-woman-pulled-car-ice-agents-minneapolis-says-new-york-post-4081596"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/news/yunus-urges-south-asian-academics-align-education-youth-aspirations-4080361"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/news/surrendering-those-obstructing-reform-walking-backwards-mahfuj-alam-4080356"
-        },
-        {
-          "name": "The Daily Star Bangladesh",
-          "url": "https://www.thedailystar.net/news/selling-diseased-meat-beef-undermines-public-trust-obhoyaronno-4080171"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/sports-ground-drug-den-4303051"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-187-killed-mob-violence-nine-months-4303056"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/jubo-dal-leader-hacked-death-4303041"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/fishermen-attack-mp-during-hilsa-ban-drive-4303021"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/our-son-was-killed-without-fair-trial-4303011"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/ict-rejects-review-plea-5-accused-4303001"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/man-arrested-over-rape-13-yr-old-boy-4302981"
-        },
-        {
-          "name": "The Daily Star Law & Crime",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/any-attempt-disrupt-durga-puja-will-be-thwarted-igp-4302746"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/rb7ah2qtlb",
+          "title": "অস্ত্রকাণ্ডের পক্ষেই সাফাই ইশরাকের, কথা বললেন মেয়র নির্বাচন নিয়েও",
+          "snippet": "অস্ত্রকাণ্ডের পক্ষেই সাফাই ইশরাকের, কথা বললেন মেয়র নির্বাচন নিয়েও"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অভিবাসী শ্রমিকদের জোরালো সরকারি সহায়তার আহ্বান জামায়াত আমীরের",
-        "title_en": "Jamaat Ameer Urges Stronger Government Support for Migrant Workers at May Day Rally",
-        "summary_bn": "ঢাকার একটি মে দিবসের সমাবেশে জামায়াতে ইসলামীর আমীর দেশের অর্থনীতিতে প্রবাসী শ্রমিকদের গুরুত্বপূর্ণ অবদানের কথা তুলে ধরে তাদের জন্য জোরালো সরকারি সহায়তা দাবি করেছেন। তিনি বলেন, অভিবাসী শ্রমিকদের সুরক্ষা এবং সুযোগ-সুবিধা নিশ্চিত করা সরকারের অন্যতম প্রধান দায়িত্ব হওয়া উচিত। এই বক্তব্য দেশের শ্রমবাজার এবং বৈদেশিক মুদ্রা অর্জনকারী কর্মীদের অধিকার সুরক্ষার দাবியை আরও জোরালো করেছে।",
-        "summary_en": "At a May Day rally in Dhaka, the Jamaat ameer emphasized the vital contribution of migrant workers to the national economy and urged stronger government support. He stated that ensuring the safety, rights, and welfare of expatriate workers must be prioritized by the state. This call highlights ongoing concerns regarding the welfare and protection of Bangladesh's overseas labor force.",
-        "why_it_matters_bn": "প্রবাসী শ্রমিকরা বাংলাদেশের বৈদেশিক মুদ্রার প্রধান চালিকাশক্তি হওয়ায় তাদের অধিকার ও কল্যাণ নিশ্চিত করা সামগ্রিক অর্থনৈতিক স্থিতিশীলতার জন্য অপরিহার্য।",
-        "why_it_matters_en": "As migrant workers remain a primary driver of Bangladesh's foreign remittances, ensuring their welfare and institutional support is vital for macroeconomic resilience.",
+        "title_bn": "প্রধানমন্ত্রীর নির্দেশে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগ",
+        "title_en": "State Minister Ishraque Hossain Resigns from Liberation War Affairs Ministry Following PM Directive",
+        "summary_bn": "রাজধানীর গেন্ডারিয়ায় অস্ত্র উঁচিয়ে মাদকবিরোধী অভিযানে অংশ নেওয়ার ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর প্রধানমন্ত্রী তারেক রহমানের নির্দেশে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে পদত্যাগ করেছেন ইশরাক হোসেন। সোমবার জাতীয় প্রেসক্লাবে আয়োজিত এক সংবাদ সম্মেলনে তিনি স্বেচ্ছায় এই পদ থেকে অব্যাহতি নেওয়ার কথা জানান এবং নিজের কার্যক্রমের পক্ষে সাফাই গোনেন। তিনি দাবি করেন, আইনশৃঙ্খলা রক্ষাকারী বাহিনী পুরোপুরি কার্যকর না থাকায় এলাকার স্থানীয় সমস্যা সমাধানে তারা নিজ উদ্যোগে এই পদক্ষেপ নিতে বাধ্য হয়েছেন।",
+        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has resigned from his post following a directive from Prime Minister Tarique Rahman, triggered by a viral video showing him brandishing a firearm during an anti-narcotics drive in Gandaria. Addressing a press conference at the National Press Club on Monday, Ishraque announced his resignation and defended his actions, claiming local initiatives were necessary as law enforcement agencies have not fully resumed normal operations.",
+        "why_it_matters_bn": "এই পদত্যাগ সরকারের অভ্যন্তরে আইনশৃঙ্খলা রক্ষা ও দলীয় নেতাকর্মীদের নির্বাহী ক্ষমতা প্রদর্শনের বিষয়ে কঠোর প্রশাসনিক শৃঙ্খলার বার্তা দেয়।",
+        "why_it_matters_en": "This resignation signals the administration's intolerance for unauthorized executive actions by political figures and underscores strict enforcement of the rule of law.",
         "interest_categories": [
           "governance_law"
         ],
@@ -432,80 +148,72 @@
       }
     },
     {
-      "story_id": "a10db436-a45e-5325-ad1e-24bdae2b5331",
+      "story_id": "6a0c41d2-7c79-552d-97e0-757afa28458f",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "climate_environment"
+        "governance_law"
       ],
       "tags": [
-        "#SecretariatComplex",
-        "#RooftopSolar",
-        "#AdministrativeReform",
-        "#EnergySecurity",
-        "#BangladeshCabinet"
+        "#IshraqueHossain",
+        "#BNPGovernment",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-17%2F5m2xdmej%2FWhatsApp_Image_2026_10_17_at_19_40_27.jpeg?rect=0%2C29%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/government-affairs/422428/new-secretariat-to-be-built-with-14-buildings-in"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/p2gvoai75z",
+          "title": "নিজেকে জাহির করতে গিয়ে মন্ত্রিত্ব হারালেন ইশরাক",
+          "snippet": "নিজেকে জাহির করতে গিয়ে মন্ত্রিত্ব হারালেন ইশরাক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেরেবাংলা নগরে ১৪টি ভবন নিয়ে নতুন সচিবালয় নির্মাণের সিদ্ধান্ত",
-        "title_en": "New Secretariat to be Built with 14 Buildings in Sher-e-Bangla Nagar",
-        "summary_bn": "রাজধানীর শেরেবাংলা নগরে ১৪টি ১২ তলা ভবন বিশিষ্ট নতুন সচিবালয় কমপ্লেক্স নির্মাণের পরিকল্পনা অনুমোদন করেছে সরকার। এর পাশাপাশি মন্ত্রিসভা বৈঠকে আগামী গ্রীষ্মের মধ্যে ৩০০০ থেকে ৪০০০ মেগাওয়াট বিদ্যুৎ উৎপাদনের লক্ষ্যমাত্রা নিয়ে একটি রুফটপ সোলার অর্ডিন্যান্সও অনুমোদন করা হয়েছে। এই পদক্ষেপগুলো সরকারি দপ্তরের প্রশাসনিক কার্যক্রম কেন্দ্রীভূতকরণ এবং নবায়নযোগ্য জ্বালানি খাতের প্রসারে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "summary_en": "The government has approved a plan to construct a new secretariat complex featuring fourteen 12-storey buildings in Sher-e-Bangla Nagar, Dhaka. Additionally, the Cabinet approved a rooftop solar ordinance targeting 3,000 to 4,000 megawatts of power generation before the next summer. These administrative and energy initiatives aim to streamline bureaucratic operations while expanding renewable energy capacity.",
-        "why_it_matters_bn": "নতুন সচিবালয় নির্মাণ এবং রুফটপ সোলার অর্ডিন্যান্স অনুমোদন সরকারি খাতের কর্মদক্ষতা বৃদ্ধি এবং জ্বালানি নিরাপত্তা নিশ্চিতকরণের ক্ষেত্রে একটি যুগোপযোগী প্রশাসনিক ও নীতিগত পদক্ষেপ।",
-        "why_it_matters_en": "The development of a consolidated secretariat complex and the push for rooftop solar legislation represent key administrative and energy infrastructure steps toward enhanced bureaucratic efficiency and renewable energy security.",
+        "title_bn": "অস্ত্র হাতে মাদকবিরোধী অভিযানে অংশ নেওয়ায় পদত্যাগ করলেন প্রতিমন্ত্রী ইশরাক হোসেন",
+        "title_en": "State Minister Ishraque Hossain Resigns After Participating in Armed Anti-Narcotics Raid",
+        "summary_bn": "রাজধানীর গেন্ডারিয়ায় মাদকবিরোধী অভিযানে আগ্নেয়াস্ত্র হাতে অংশ নেওয়ার ঘটনায় সমালোচনার মুখে মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন পদত্যাগ করেছেন। প্রধানমন্ত্রীর নির্দেশে পদত্যাগের ঘোষণা দিয়ে তিনি জাতীয় প্রেস ক্লাবে সংবাদ সম্মেলন করেন। মাত্র আট মাস আগে গঠিত বিএনপি সরকারের মন্ত্রিসভা থেকে এটি দ্বিতীয় কোনো সংসদ সদস্যের পদত্যাগের ঘটনা।",
+        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain has resigned following widespread criticism over his participation in an armed anti-narcotics raid in Dhaka's Gandaria area. Following a directive from Prime Minister Tarique Rahman, he announced his resignation at a press conference at the National Press Club. This marks the second high-profile departure from the BNP cabinet, which took office eight months ago.",
+        "why_it_matters_bn": "এই পদত্যাগ ক্ষমতাসীন সরকারের মন্ত্রী ও সংসদ সদস্যদের জন্য কঠোর প্রশাসনিক শৃঙ্খলা ও জনাচরণের বার্তা দেয়, যা জুলাই গণ-অভ্যুত্থান–পরবর্তী রাজনৈতিক সংস্কৃতিতে জবাবদিহিতা প্রতিষ্ঠার ইঙ্গিত বহন করে।",
+        "why_it_matters_en": "This high-level resignation sets a strict precedent for ministerial conduct and political accountability under the post-uprising administration, signaling zero tolerance for abuse of executive authority.",
         "interest_categories": [
-          "governance_law",
-          "climate_environment"
+          "governance_law"
         ],
         "read_time_seconds": 60
       }
     },
     {
-      "story_id": "66a4088e-2bd4-5530-b890-3ba1b1fb81a0",
-      "primary_category": "world_diplomacy",
+      "story_id": "61762515-997b-584f-b3c8-721be25201d9",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
       "tags": [
-        "#RohingyaCrisis",
-        "#UKAid",
-        "#ForeignAffairs",
-        "#HumanitarianAssistance"
+        "#IshraqueHossain",
+        "#CabinetResignation",
+        "#BangladeshPolitics",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-19%2Fcg5cuww7%2Fjpg.com?rect=0%2C165%2C2048%2C1075&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/975572/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A7%AD-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A7%AB%E0%A7%A9%E0%A7%AE-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87"
-        },
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975518/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%9C%E0%A7%8B%E0%A6%B0%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0"
-        },
-        {
-          "name": "Dhaka Tribune",
-          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422498/home-minister-calls-for-global-support-for"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/902zxr0sjd",
+          "title": "পদত্যাগের খবরকে ‘গুজব’ বলে রাতে একের পর এক কী বার্তা দিয়েছিলেন ইশরাক",
+          "snippet": "পদত্যাগের খবরকে ‘গুজব’ বলে রাতে একের পর এক কী বার্তা দিয়েছিলেন ইশরাক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রোহিঙ্গাদের জন্য গত ৯ বছরে ৪৬ কোটি পাউন্ড সহায়তা দিয়েছে যুক্তরাজ্য: সারাহ কুক",
-        "title_en": "UK Provided £460M in Humanitarian Aid for Rohingya Refugees Over 9 Years, Says High Commissioner Sarah Cooke",
-        "summary_bn": "ঢাকায় নিযুক্ত ব্রিটিশ হাইকমিশনার সারাহ কুক জানিয়েছেন, গত নয় বছরে রোহিঙ্গা শরণার্থী সংকট মোকাবিলায় বাংলাদেশকে ৪৬ কোটি পাউন্ড (প্রায় ৭,৫৩৮ কোটি টাকা) সহায়তা দিয়েছে যুক্তরাজ্য। সোমবার টাঙ্গাইলের মির্জাপুরে রণদা প্রসাদ সাহার বাড়ির পূজামণ্ডপ পরিদর্শনের সময় তিনি এই সহায়তার তথ্য তুলে ধরেন। তিনি উল্লেখ করেন, দীর্ঘমেয়াদি এই সংকট মোকাবিলায় যুক্তরাজ্য অন্যতম শীর্ষ দ্বিপাক্ষিক সহায়তাকারী দেশ হিসেবে বাংলাদেশ সরকারের পাশে রয়েছে।",
-        "summary_en": "UK High Commissioner to Bangladesh Sarah Cooke stated that the United Kingdom has provided £460 million (approximately Tk 7,538 crore) in assistance over the past nine years to support Bangladesh in managing the Rohingya refugee crisis. She highlighted these figures on Monday evening during a visit to the Durga Puja pandal at Ranada Prasad Saha's home in Mirzapur, Tangail. The envoy reaffirmed the UK's commitment to standing by Bangladesh as a major bilateral partner in mitigating the ongoing humanitarian challenge.",
-        "why_it_matters_bn": "বিশ্বব্যাপী অনুদানের পরিমাণ হ্রাস পাওয়ার প্রেক্ষাপটে যুক্তরাজ্য থেকে আসা বিপুল পরিমাণ সহায়তার স্বীকৃতি রোহিঙ্গা পুনর্বাসন ও ক্যাম্প ব্যবস্থাপনায় বৈদেশিক অনুদানের ভূমিকা স্পষ্টভাবে চিহ্নিত করে।",
-        "why_it_matters_en": "Sustained bilateral funding commitments from key partners like the UK highlight the crucial role of grant assistance in alleviating the fiscal and operational burden on Bangladesh amid dwindling global humanitarian pledges.",
+        "title_bn": "পদত্যাগের খবরকে ‘গুজব’ বলার পর মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী পদ থেকে ইশরাক হোসেনের পদত্যাগের ঘোষণা",
+        "title_en": "State Minister Ishraque Hossain Announces Resignation After Dismissing Reports as Rumor",
+        "summary_bn": "মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন আজ সোমবার দুপুরে নিজের ফেসবুক পেজে পদত্যাগের ঘোষণা দেওয়ার কথা জানান। এর আগে গত শনিবার গেন্ডারিয়ায় তাঁর মাদকবিরোধী অভিযানে অস্ত্র প্রদর্শনের ভিডিও ছড়িয়ে পড়ার পর সমালোচনার মুখে প্রধানমন্ত্রী তাঁকে পদত্যাগের নির্দেশ দেন। প্রথম আলোতে পদত্যাগের নির্দেশ সংক্রান্ত সংবাদ প্রকাশের পর রোববার রাতে তিনি ও তাঁর প্রেস কর্মকর্তা সেটিকে ‘গুজব’ বলে দাবি করেছিলেন।",
+        "summary_en": "State Minister for Liberation War Affairs Ishraque Hossain announced on Monday that he would step down from his post. The decision follows a Prime Minister's directive after public controversy erupted over a viral video showing him and his associates brandishing firearms during an anti-narcotics drive in Gendaria on Saturday. Despite dismissing initial media reports of his impending resignation as mere rumors late Sunday night, the minister confirmed his departure.",
+        "why_it_matters_bn": "এই ঘটনা রাজনৈতিক নেতৃত্বে শৃঙ্খলা বজায় রাখা এবং সরকারের অভ্যন্তরীণ অসন্তোষ মোকাবিলায় নির্বাহী আদেশের কার্যকারিতাকে স্পষ্ট করে।",
+        "why_it_matters_en": "This development highlights executive intervention in enforcing political accountability and managing internal governance friction over controversial conduct.",
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60
       }

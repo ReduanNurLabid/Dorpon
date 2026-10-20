@@ -88,6 +88,44 @@ def map_syllabus_for_categories(categories: List[str], title: str) -> SyllabusMa
             full_breadcrumb="Bangladesh Affairs (Paper V) › Public Administration & Governance"
         )
 
+def build_clean_sources(articles: list) -> list:
+    """
+    Deduplicates and standardizes verified news source citations.
+    Ensures:
+    1. Each publisher is cited at most once (no repeating 'The Daily Star' 22 times).
+    2. Publisher names are clean (strips internal feed sections like 'Politics' / 'Law & Crime').
+    3. Supplies actual article headline as 'title' and 'snippet' rather than generic fallback.
+    4. Capped at top 4 distinct media houses.
+    """
+    sources = []
+    seen_urls = set()
+    seen_publishers = set()
+    
+    for a in articles:
+        url = getattr(a, "url", "")
+        source_name = getattr(a, "source", "News Wire")
+        title = getattr(a, "title", "Editorial Report")
+        
+        if not url or url in seen_urls:
+            continue
+            
+        clean_pub = re.sub(r"\s+(Politics|Law & Crime|Bangladesh|Main|National)$", "", source_name).strip()
+        if clean_pub in seen_publishers:
+            continue
+            
+        seen_urls.add(url)
+        seen_publishers.add(clean_pub)
+        sources.append({
+            "name": clean_pub,
+            "url": url,
+            "title": title,
+            "snippet": title[:110]
+        })
+        if len(sources) >= 4:
+            break
+            
+    return sources or [{"name": "National Press & Official Sources", "url": "", "title": "Verified News Wire", "snippet": "Ground reporting & editorial analysis"}]
+
 def synthesize_story_with_ai(
     cluster: ClusteredEvent,
     is_bcs_pro: bool,
@@ -303,7 +341,7 @@ You MUST return a JSON object with these EXACT keys:
                 tags=parsed_tags,
                 is_bcs_pro_selected=is_bcs_pro,
                 image_url=primary_art.image_url,
-                sources=[{"name": a.source, "url": a.url} for a in cluster.articles],
+                sources=build_clean_sources(cluster.articles),
                 daily_buzz=buzz,
                 bcs_pro=bcs_pro
             )
@@ -389,7 +427,7 @@ You MUST return a JSON object with these EXACT keys:
         interest_categories=cluster.matched_categories,
         is_bcs_pro_selected=is_bcs_pro,
         image_url=primary_art.image_url,
-        sources=[{"name": a.source, "url": a.url} for a in cluster.articles],
+        sources=build_clean_sources(cluster.articles),
         daily_buzz=buzz,
         bcs_pro=bcs_pro
     )

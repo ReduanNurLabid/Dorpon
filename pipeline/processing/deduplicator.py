@@ -89,10 +89,12 @@ def calculate_bcs_relevance(text: str) -> float:
 
 def cluster_and_tag_articles(articles: List[RawArticle]) -> List[ClusteredEvent]:
     """
-    Groups related articles using cross-lingual entity co-occurrence + token overlap.
-    Merges Bengali and English stories on the same event into a single cluster.
+    Groups related articles using event-specific cross-lingual entity co-occurrence + token overlap.
+    Merges Bengali and English stories on the exact same event without runaway snowballing.
     """
     clusters: List[ClusteredEvent] = []
+    # Broad thematic entities that appear in hundreds of stories and should not cluster events alone
+    GENERIC_THEMATIC_ENTITIES = {"interim_cabinet", "bnp_politics", "election_commission", "anti_corruption"}
     
     for art in articles:
         combined_text = f"{art.title} {art.summary_raw or ''} {art.body_text or ''}"
@@ -102,36 +104,39 @@ def cluster_and_tag_articles(articles: List[RawArticle]) -> List[ClusteredEvent]
         matched_cluster = None
         
         for cluster in clusters:
-            # Match 1: Cross-lingual entity overlap (shares 2+ canonical entities, e.g. 'bangladesh_bank' + 'repo_rate')
-            entity_overlap = len(art_entities.intersection(cluster.canonical_entities))
-            if entity_overlap >= 2:
+            # Cap maximum articles per cluster to avoid runaway clusters
+            if len(cluster.articles) >= 5:
+                continue
+
+            # Compare against the SEED article's entities to prevent snowballing
+            seed_entities = getattr(cluster, "seed_entities", cluster.canonical_entities)
+            specific_overlap = (art_entities & seed_entities) - GENERIC_THEMATIC_ENTITIES
+            cluster_tokens = set(re.findall(r"\w{4,}", cluster.primary_title.lower()))
+            
+            # Match 1: Shares 2+ event-specific canonical entities (e.g. 'bangladesh_bank' + 'repo_rate')
+            if len(specific_overlap) >= 2:
                 matched_cluster = cluster
                 break
                 
-            # Match 2: Single highly-specific entity with category overlap
-            high_specificity = {"repo_rate", "writ_petition", "delta_plan", "bpsc", "ishraque_issue", "rohingya", "interim_cabinet", "bnp_politics"}
-            if entity_overlap >= 1 and art_entities.intersection(high_specificity):
-                if set(cluster.matched_categories).intersection(set(categorize_article(combined_text))):
-                    matched_cluster = cluster
-                    break
+            # Match 2: 1 event-specific entity (e.g. 'ishraque_issue', 'repo_rate', 'delta_plan') PLUS at least 1 common title token
+            if len(specific_overlap) >= 1 and len(art_tokens & cluster_tokens) >= 1:
+                matched_cluster = cluster
+                break
             
-            # Match 3: Same-language title token overlap
-            cluster_tokens = set(re.findall(r"\w{4,}", cluster.primary_title.lower()))
-            token_overlap = len(art_tokens.intersection(cluster_tokens))
-            if token_overlap >= 3:
+            # Match 3: High title token overlap (same-language reporting on the exact same event)
+            if len(art_tokens & cluster_tokens) >= 3:
                 matched_cluster = cluster
                 break
                 
         if matched_cluster:
             matched_cluster.articles.append(art)
-            matched_cluster.canonical_entities.update(art_entities)
-            # Recompute combined BCS score
             matched_cluster.bcs_score = max(matched_cluster.bcs_score, calculate_bcs_relevance(combined_text))
         else:
             new_cluster = ClusteredEvent(art)
+            new_cluster.seed_entities = art_entities
+            new_cluster.canonical_entities = art_entities
             new_cluster.matched_categories = categorize_article(combined_text)
             new_cluster.bcs_score = calculate_bcs_relevance(combined_text)
-            new_cluster.canonical_entities = art_entities
             clusters.append(new_cluster)
             
     # Sort clusters by BCS score descending

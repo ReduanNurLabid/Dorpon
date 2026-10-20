@@ -104,7 +104,7 @@ def fetch_rss_candidates() -> List[RawArticle]:
             print(f"   Found {len(entries)} entries in {feed_meta['name']}")
             
             for entry in entries:
-                title = getattr(entry, "title", "").strip()
+                title = clean_html_tags(getattr(entry, "title", "")).strip()
                 link = getattr(entry, "link", "").strip()
                 summary = clean_html_tags(getattr(entry, "summary", "") or getattr(entry, "description", ""))
                 published = getattr(entry, "published", "") or getattr(entry, "pubDate", "")
