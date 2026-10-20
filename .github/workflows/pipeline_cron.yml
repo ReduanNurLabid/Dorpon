@@ -2,14 +2,17 @@ name: Dorpon Daily Autonomous Pipeline
 
 on:
   schedule:
-    # Run at the beginning of every hour (00:00, 01:00, ..., 23:00 UTC)
-    - cron: '0 * * * *'
+    # Run at 15 minutes past every hour (off-peak minute to bypass GitHub :00 UTC queue throttling)
+    - cron: '15 * * * *'
   workflow_dispatch:
     inputs:
       limit:
         description: 'Number of hourly stories to synthesize'
         required: false
         default: '6'
+
+permissions:
+  contents: write
 
 jobs:
   run-pipeline:
