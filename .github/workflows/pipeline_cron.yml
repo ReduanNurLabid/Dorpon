@@ -2,8 +2,8 @@ name: Dorpon Daily Autonomous Pipeline
 
 on:
   schedule:
-    # Run at 15 minutes past every hour (off-peak minute to bypass GitHub :00 UTC queue throttling)
-    - cron: '15 * * * *'
+    # Run every 30 minutes at off-peak minutes (:15 and :45) so GitHub Actions queue delays don't cause hourly gaps
+    - cron: '15,45 * * * *'
   workflow_dispatch:
     inputs:
       limit:
