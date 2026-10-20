@@ -26,7 +26,6 @@ class StudyCanvasScreen extends StatefulWidget {
 
 class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   late bool _isSaved;
-  bool _isBanglaMode = false;
   int _helpfulReaction = 0; // 0 = none, 1 = insightful, 2 = high-yield
   int _reactionCount = 128;
   final Set<int> _expandedQuestions = {0}; // First question expanded by default
@@ -37,7 +36,6 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   void initState() {
     super.initState();
     _isSaved = SavedArticlesService().isStorySaved(widget.story.storyId);
-    _isBanglaMode = AppSettingsService().isBangla;
   }
 
   Future<void> _openSourceUrl(String? url) async {
@@ -66,57 +64,35 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
     }
   }
 
-  String _cleanCategoryTitle(String cat) {
-    switch (cat.toLowerCase()) {
-      case 'macroeconomy_banking':
-      case 'economy_business':
-      case 'economy':
-        return 'Economy & Business';
-      case 'governance_law':
-      case 'governance':
-        return 'Governance & Law';
-      case 'climate_delta':
-      case 'environment':
-        return 'Climate & Environment';
-      case 'international_diplomacy':
-      case 'diplomacy':
-        return 'Global Diplomacy';
-      case 'tech_infrastructure':
-      case 'technology':
-        return 'Tech & Infrastructure';
-      default:
-        return 'Current Affairs';
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
+    final settings = AppSettingsService();
     return AnimatedBuilder(
-      animation: AudioBriefingService(),
+      animation: Listenable.merge([AudioBriefingService(), settings]),
       builder: (context, _) {
         final story = widget.story;
         final bcs = story.isBcsProSelected ? story.bcsPro : null;
         final buzz = story.dailyBuzz;
         final isPremium = AudioBriefingService().isPremiumUser;
+        final isBangla = settings.isBangla;
 
-        final headline = _isBanglaMode
+        final headline = isBangla
             ? (buzz.titleBn.isNotEmpty ? buzz.titleBn : buzz.titleEn)
             : (buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn);
 
-        final whyInTheNews = _isBanglaMode && (bcs != null && bcs.whyInTheNewsBn.isNotEmpty)
+        final whyInTheNews = isBangla && (bcs != null && bcs.whyInTheNewsBn.isNotEmpty)
             ? bcs.whyInTheNewsBn
             : ((bcs != null && bcs.whyInTheNewsEn.isNotEmpty)
                 ? bcs.whyInTheNewsEn
-                : (_isBanglaMode ? buzz.summaryBn : buzz.summaryEn));
+                : (isBangla ? buzz.summaryBn : buzz.summaryEn));
 
-        final categoryLabel = _cleanCategoryTitle(story.primaryCategory);
-        final readTimeMinutes = (buzz.readTimeSeconds ~/ 60) + 1;
-        final lead = _isBanglaMode
+        final categoryLabel = getLocalizedCategory(story.primaryCategory, isBangla);
+        final lead = isBangla
             ? (buzz.leadBn.isNotEmpty ? buzz.leadBn : '')
             : (buzz.leadEn.isNotEmpty ? buzz.leadEn : '');
-        final bullets = _isBanglaMode ? buzz.bulletsBn : buzz.bulletsEn;
-        final details = _isBanglaMode ? buzz.detailsBn : buzz.detailsEn;
-        final impact = _isBanglaMode ? buzz.impactBn : buzz.impactEn;
+        final bullets = isBangla ? buzz.bulletsBn : buzz.bulletsEn;
+        final details = isBangla ? buzz.detailsBn : buzz.detailsEn;
+        final impact = isBangla ? buzz.impactBn : buzz.impactEn;
 
         return Scaffold(
           backgroundColor: ObsidianTokens.background,
@@ -142,63 +118,6 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                               border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
                             ),
                             child: const Icon(Icons.arrow_back_ios_new, color: Colors.white, size: 17),
-                          ),
-                        ),
-
-                        // Centered Bilingual Switcher Pill
-                        Container(
-                          padding: const EdgeInsets.all(3),
-                          decoration: BoxDecoration(
-                            color: Colors.white.withValues(alpha: 0.06),
-                            borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                            border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
-                          ),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.min,
-                            children: [
-                              GestureDetector(
-                                onTap: () {
-                                  setState(() => _isBanglaMode = false);
-                                  AppSettingsService().setLanguage('en');
-                                },
-                                child: Container(
-                                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                                  decoration: BoxDecoration(
-                                    color: !_isBanglaMode ? ObsidianTokens.primaryMint : Colors.transparent,
-                                    borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                                  ),
-                                  child: Text(
-                                    'EN',
-                                    style: TextStyle(
-                                      fontSize: 11.5,
-                                      fontWeight: FontWeight.w700,
-                                      color: !_isBanglaMode ? Colors.black : ObsidianTokens.textSecondary,
-                                    ),
-                                  ),
-                                ),
-                              ),
-                              GestureDetector(
-                                onTap: () {
-                                  setState(() => _isBanglaMode = true);
-                                  AppSettingsService().setLanguage('bn');
-                                },
-                                child: Container(
-                                  padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                                  decoration: BoxDecoration(
-                                    color: _isBanglaMode ? ObsidianTokens.primaryMint : Colors.transparent,
-                                    borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                                  ),
-                                  child: Text(
-                                    'বাং',
-                                    style: TextStyle(
-                                      fontSize: 11.5,
-                                      fontWeight: FontWeight.w700,
-                                      color: _isBanglaMode ? Colors.black : ObsidianTokens.textSecondary,
-                                    ),
-                                  ),
-                                ),
-                              ),
-                            ],
                           ),
                         ),
 
@@ -321,13 +240,13 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                                 const Icon(Icons.timer_outlined, size: 12, color: ObsidianTokens.textSecondary),
                                 const SizedBox(width: 4),
                                 Text(
-                                  '$readTimeMinutes min read',
+                                  isBangla ? '১০ সেকেন্ড পাঠ' : '10s gist',
                                   style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                                 ),
                               ],
                             ),
                           ),
-                          if (story.formattedPublishedTime.isNotEmpty)
+                          if (story.formattedPublishedTimeLocalized(isBangla).isNotEmpty)
                             Container(
                               padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                               decoration: BoxDecoration(
@@ -340,7 +259,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                                   const Icon(Icons.schedule, size: 12, color: ObsidianTokens.textSecondary),
                                   const SizedBox(width: 4),
                                   Text(
-                                    story.formattedPublishedTime,
+                                    story.formattedPublishedTimeLocalized(isBangla),
                                     style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                                   ),
                                 ],
@@ -358,7 +277,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                                 const Icon(Icons.verified, size: 12, color: ObsidianTokens.primaryMint),
                                 const SizedBox(width: 4),
                                 Text(
-                                  'Verified',
+                                  isBangla ? 'যাচাইকৃত' : 'Verified',
                                   style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
                                 ),
                               ],
@@ -460,7 +379,9 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
 
                       // 1. Why in the News / The Core Story (Lead Overview)
                       _buildGlassSection(
-                        title: bcs != null ? 'Why in the News' : 'The Core Story',
+                        title: bcs != null
+                            ? (isBangla ? 'সংবাদের পটভূমি' : 'Why in the News')
+                            : (isBangla ? 'মূল সংবাদ' : 'The Core Story'),
                         icon: Icons.newspaper_rounded,
                         accentColor: ObsidianTokens.primaryMint,
                         child: Text(
@@ -477,7 +398,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
 
                       // 2. Three Key Takeaways (৩টি মূল বিষয়)
                       if (bullets.isNotEmpty) ...[
-                        _buildKeyTakeawaysSection(bullets),
+                        _buildKeyTakeawaysSection(bullets, isBangla: isBangla),
                         const SizedBox(height: 16),
                       ],
 
@@ -525,7 +446,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                                     const Icon(Icons.subject_rounded, size: 15, color: Colors.white70),
                                     const SizedBox(width: 8),
                                     Text(
-                                      _isBanglaMode ? 'বিস্তারিত প্রেক্ষাপট' : 'Expanded Background Context',
+                                      isBangla ? 'বিস্তারিত প্রেক্ষাপট' : 'Expanded Background Context',
                                       style: ObsidianTokens.labelSm(color: Colors.white70),
                                     ),
                                   ],
@@ -823,16 +744,16 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
 
                       // Bottom Collapsible Topic Tags (Max 3 Default)
                       if (story.tags.isNotEmpty) ...[
-                        _buildCollapsibleTags(story.tags),
+                        _buildCollapsibleTags(story.tags, isBangla: isBangla),
                         const SizedBox(height: 18),
                       ],
 
                       // 7. Verified Sources & Ground Reporting (Zero Overflow Guarantee)
-                      _buildSourcesSection(story.sources),
+                      _buildSourcesSection(story.sources, isBangla: isBangla),
                       const SizedBox(height: 20),
 
                       // 8. Reader Engagement Widget
-                      _buildEngagementWidget(),
+                      _buildEngagementWidget(isBangla: isBangla),
                       const SizedBox(height: 40),
                     ],
                   ),
@@ -1022,11 +943,11 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   }
 
   // Widget: 3 Key Takeaways (৩টি মূল বিষয়)
-  Widget _buildKeyTakeawaysSection(List<String> bullets) {
+  Widget _buildKeyTakeawaysSection(List<String> bullets, {required bool isBangla}) {
     if (bullets.isEmpty) return const SizedBox.shrink();
 
     return _buildGlassSection(
-      title: _isBanglaMode ? '৩টি মূল বিষয়' : '3 Key Takeaways',
+      title: isBangla ? '৩টি মূল বিষয়' : '3 Key Takeaways',
       icon: Icons.check_circle_outline_rounded,
       accentColor: ObsidianTokens.primaryMint,
       child: Column(
@@ -1034,9 +955,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
         children: bullets.asMap().entries.map((entry) {
           final idx = entry.key + 1;
           final bullet = entry.value;
-          final idxStr = _isBanglaMode
-              ? '$idx'.replaceAll('1', '১').replaceAll('2', '২').replaceAll('3', '৩')
-              : '$idx';
+          final idxStr = isBangla ? toBanglaDigits(idx) : '$idx';
 
           return Padding(
             padding: const EdgeInsets.only(bottom: 12),
@@ -1082,7 +1001,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   }
 
   // Widget: Bottom Collapsible Tags
-  Widget _buildCollapsibleTags(List<String> tags) {
+  Widget _buildCollapsibleTags(List<String> tags, {required bool isBangla}) {
     final displayedTags = _tagsExpanded ? tags : tags.take(3).toList();
     final hiddenCount = tags.length - 3;
 
@@ -1094,7 +1013,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
             const Icon(Icons.tag_rounded, size: 14, color: ObsidianTokens.textSecondary),
             const SizedBox(width: 6),
             Text(
-              _isBanglaMode ? 'ট্যাগ ও প্রাসঙ্গিক বিষয়' : 'Topic Tags',
+              isBangla ? 'ট্যাগ ও প্রাসঙ্গিক বিষয়' : 'Topic Tags',
               style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary).copyWith(fontWeight: FontWeight.w600),
             ),
           ],
@@ -1134,8 +1053,8 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                   ),
                   child: Text(
                     _tagsExpanded
-                        ? (_isBanglaMode ? 'সংক্ষিপ্ত করুন ▲' : 'Show less ▲')
-                        : (_isBanglaMode ? '+$hiddenCount আরও ▼' : '+$hiddenCount more ▼'),
+                        ? (isBangla ? 'সংক্ষিপ্ত করুন ▲' : 'Show less ▲')
+                        : (isBangla ? '+${toBanglaDigits(hiddenCount)} আরও ▼' : '+$hiddenCount more ▼'),
                     style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(fontWeight: FontWeight.w600),
                   ),
                 ),
@@ -1147,7 +1066,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   }
 
   // Section: Verified Sources & Reporting Ground (Deduplicated, Max 1 per Publisher)
-  Widget _buildSourcesSection(List<Map<String, dynamic>> sources) {
+  Widget _buildSourcesSection(List<Map<String, dynamic>> sources, {required bool isBangla}) {
     // Deduplicate by clean publisher name, cap at 4
     final List<Map<String, dynamic>> cleanSources = [];
     final Set<String> seenPublishers = <String>{};
@@ -1177,7 +1096,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
               const Icon(Icons.menu_book_rounded, color: ObsidianTokens.primaryMint, size: 18),
               const SizedBox(width: 8),
               Text(
-                _isBanglaMode ? 'মূল সংবাদ সূত্র ও উৎস' : 'Verified Sources & Ground Reporting',
+                isBangla ? 'মূল সংবাদ সূত্র ও উৎস' : 'Verified Sources & Ground Reporting',
                 style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
               ),
               const Spacer(),
@@ -1188,7 +1107,9 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                   borderRadius: BorderRadius.circular(4),
                 ),
                 child: Text(
-                  '${cleanSources.isEmpty ? 1 : cleanSources.length} Sources',
+                  isBangla
+                      ? '${toBanglaDigits(cleanSources.isEmpty ? 1 : cleanSources.length)}টি সূত্র'
+                      : '${cleanSources.isEmpty ? 1 : cleanSources.length} Sources',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
                 ),
               ),
@@ -1197,16 +1118,17 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
           const SizedBox(height: 12),
           if (cleanSources.isEmpty) ...[
             _buildSourceItemTile(
-              name: 'National Wire & Official Gazette',
+              name: isBangla ? 'জাতীয় সংবাদ ও সরকারি গেজেট' : 'National Wire & Official Gazette',
               url: '',
-              snippet: 'Directly verified from Ministry notifications & central bank press release.',
+              snippet: isBangla ? 'মন্ত্রণালয়ের প্রজ্ঞাপন ও কেন্দ্রীয় ব্যাংকের প্রেস বিজ্ঞপ্তি থেকে সরাসরি যাচাইকৃত।' : 'Directly verified from Ministry notifications & central bank press release.',
+              isBangla: isBangla,
             ),
           ] else ...[
             ...cleanSources.map((s) {
-              final name = s['name']?.toString() ?? 'Daily Press Source';
+              final name = s['name']?.toString() ?? (isBangla ? 'দৈনিক সংবাদ সূত্র' : 'Daily Press Source');
               final url = s['url']?.toString() ?? '';
-              final snippet = s['title']?.toString() ?? s['snippet']?.toString() ?? 'Primary editorial dispatch';
-              return _buildSourceItemTile(name: name, url: url, snippet: snippet);
+              final snippet = s['title']?.toString() ?? s['snippet']?.toString() ?? (isBangla ? 'প্রধান সম্পাদকীয় প্রতিবেদন' : 'Primary editorial dispatch');
+              return _buildSourceItemTile(name: name, url: url, snippet: snippet, isBangla: isBangla);
             }),
           ],
           const SizedBox(height: 10),
@@ -1216,7 +1138,9 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
               const SizedBox(width: 6),
               Expanded(
                 child: Text(
-                  'Dorpon Cross-Verification: Synthesized across accredited media & verified data points.',
+                  isBangla
+                      ? 'দর্পণ সত্যতা যাচাই: অনুমোদিত সংবাদপত্র ও দাপ্তরিক বিজ্ঞপ্তি থেকে সমন্বিত।'
+                      : 'Dorpon Cross-Verification: Synthesized across accredited media & verified data points.',
                   style: TextStyle(fontSize: 11, color: ObsidianTokens.textTertiary),
                 ),
               ),
@@ -1228,7 +1152,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   }
 
   // Overflow-Free Source Tile
-  Widget _buildSourceItemTile({required String name, required String url, required String snippet}) {
+  Widget _buildSourceItemTile({required String name, required String url, required String snippet, bool isBangla = false}) {
     return Container(
       margin: const EdgeInsets.only(bottom: 8),
       padding: const EdgeInsets.all(12),
@@ -1275,12 +1199,12 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                       color: Colors.white.withValues(alpha: 0.08),
                       borderRadius: BorderRadius.circular(6),
                     ),
-                    child: const Row(
+                    child: Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Text('Read', style: TextStyle(color: Colors.white, fontSize: 11, fontWeight: FontWeight.w600)),
-                        SizedBox(width: 4),
-                        Icon(Icons.open_in_new, size: 12, color: Colors.white),
+                        Text(isBangla ? 'পড়ুন' : 'Read', style: const TextStyle(color: Colors.white, fontSize: 11, fontWeight: FontWeight.w600)),
+                        const SizedBox(width: 4),
+                        const Icon(Icons.open_in_new, size: 12, color: Colors.white),
                       ],
                     ),
                   ),
@@ -1303,7 +1227,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   }
 
   // Interactive Engagement / Reaction Bar
-  Widget _buildEngagementWidget() {
+  Widget _buildEngagementWidget({required bool isBangla}) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
       decoration: BoxDecoration(
@@ -1318,11 +1242,11 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Text(
-                'Was this dispatch insightful?',
+                isBangla ? 'সংবাদটি কি তথ্যবহুল ছিল?' : 'Was this dispatch insightful?',
                 style: ObsidianTokens.bodySm(color: ObsidianTokens.textSecondary),
               ),
               Text(
-                '$_reactionCount readers reacted',
+                isBangla ? '${toBanglaDigits(_reactionCount)} জন পাঠক প্রতিক্রিয়া জানিয়েছেন' : '$_reactionCount readers reacted',
                 style: ObsidianTokens.labelXs(color: ObsidianTokens.textTertiary),
               ),
             ],
@@ -1367,7 +1291,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                           ),
                           const SizedBox(width: 6),
                           Text(
-                            'Insightful',
+                            isBangla ? 'তথ্যবহুল' : 'Insightful',
                             style: TextStyle(
                               fontSize: 12,
                               color: _helpfulReaction == 1 ? ObsidianTokens.primaryMint : Colors.white,
@@ -1418,7 +1342,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                           ),
                           const SizedBox(width: 4),
                           Text(
-                            'High Yield',
+                            isBangla ? 'মূল্যবান' : 'High Yield',
                             style: TextStyle(
                               fontSize: 12,
                               color: _helpfulReaction == 2 ? ObsidianTokens.accentGold : Colors.white,

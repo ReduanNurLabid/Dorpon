@@ -24,6 +24,26 @@ ENTERTAINMENT_KEYWORDS = {
     "সিনেমা", "চলচ্চিত্র", "নাটক", "অভিনেতা", "অভিনেত্রী", "বিনোদন"
 }
 
+def strip_relative_time_leakage(text: str) -> str:
+    """
+    Strips raw newspaper relative weekdays and temporal expressions
+    (e.g., 'গত সোমবার', 'সোমবার সকালে', 'গতকাল', 'গত পরশু', 'yesterday', 'on Monday')
+    so that summarized dispatches remain timeless and grounded.
+    """
+    if not text:
+        return ""
+    pats = [
+        r"(?:গতকাল\s+)?(?:গত\s+)?(?:সোমবার|মঙ্গলবার|বুধবার|বৃহস্পতিবার|শুক্রবার|শনিবার|রবিবার)(?:\s+(?:সকালে|দুপুরে|বিকেলে|সন্ধ্যায়|রাতে))?\s*[,।]?\s*",
+        r"(?:গতকাল|গত পরশু|আজকে|আজকের দিনে|আজ সকালে|আজ)\s*[,।]?\s*",
+        r"\b(?:on\s+)?(?:last\s+)?(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(?:\s+(?:morning|afternoon|evening|night))?\s*,\s*",
+        r"\b(?:yesterday|earlier today)\s*,\s*",
+    ]
+    cleaned = text
+    for p in pats:
+        cleaned = re.sub(p, "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"^[,।\-\–\s]+", "", cleaned)
+    return cleaned.strip()
+
 def validate_and_filter_tags(tags: List[str], text: str, primary_category: str) -> List[str]:
     """
     Deterministic Tag Grounding Validator:
@@ -298,6 +318,9 @@ EDITORIAL REQUIREMENTS:
    - 2 to 4 strictly grounded hashtags (e.g. ["#TradeDeal", "#JapanBangladesh"]).
    - CRITICAL: Never include sports tags on non-sports news, or entertainment tags on politics. Every tag must be strictly grounded in this story.
 
+7. RELATIVE TIME PROHIBITION:
+   - NEVER include relative weekdays or day markers ("গত সোমবার", "সোমবার", "গতকাল", "আজকে", "yesterday", "on Monday", "last week") in headlines, leads, or bullets. State actions timelessly so summaries remain grounded days later.
+
 Headline from Source: {title}
 Source Text / Scraped Body: {body[:2500]}
 Primary Category: {primary_cat}
@@ -355,13 +378,15 @@ You MUST return a JSON object with these EXACT keys:
             if not isinstance(data, dict):
                 data = {}
 
-            # Map headline & leads
-            h_bn = data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title)
-            h_en = data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title)
-            lead_bn = data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title)
-            lead_en = data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title)
-            bullets_bn = [str(b) for b in data.get("bullets_bn", []) if b][:3]
-            bullets_en = [str(b) for b in data.get("bullets_en", []) if b][:3]
+            # Map headline & leads with relative-day stripping
+            h_bn = strip_relative_time_leakage(data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title))
+            h_en = strip_relative_time_leakage(data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title))
+            lead_bn = strip_relative_time_leakage(data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title))
+            lead_en = strip_relative_time_leakage(data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title))
+            bullets_bn = [strip_relative_time_leakage(str(b)) for b in data.get("bullets_bn", []) if b]
+            bullets_bn = [b for b in bullets_bn if b][:3]
+            bullets_en = [strip_relative_time_leakage(str(b)) for b in data.get("bullets_en", []) if b]
+            bullets_en = [b for b in bullets_en if b][:3]
             impact_bn = data.get("impact_bn")
             impact_en = data.get("impact_en")
             details_bn = data.get("details_bn")
@@ -463,20 +488,24 @@ You MUST return a JSON object with these EXACT keys:
     paragraphs = [p.strip() for p in body.split("\n\n") if len(p.strip()) > 25]
     first_p = paragraphs[0] if paragraphs else title
     
-    # Split sentences for 3 clean bullets
-    raw_sentences = [s.strip() for s in re.split(r"(?<=[.!?।])\s+", first_p) if len(s.strip()) > 10]
-    lead_summary = raw_sentences[0] if raw_sentences else (title[:120] + "...")
+    # Split sentences for 3 clean bullets with relative-day stripping
+    raw_sentences = [
+        strip_relative_time_leakage(s.strip())
+        for s in re.split(r"(?<=[.!?।])\s+", first_p)
+        if len(strip_relative_time_leakage(s.strip())) > 10
+    ]
+    lead_summary = raw_sentences[0] if raw_sentences else strip_relative_time_leakage(title[:120] + "...")
     
-    b1 = raw_sentences[0] if len(raw_sentences) > 0 else title
-    b2 = raw_sentences[1] if len(raw_sentences) > 1 else (paragraphs[1][:140] if len(paragraphs) > 1 else "সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ করছে।")
+    b1 = raw_sentences[0] if len(raw_sentences) > 0 else strip_relative_time_leakage(title)
+    b2 = raw_sentences[1] if len(raw_sentences) > 1 else (strip_relative_time_leakage(paragraphs[1][:140]) if len(paragraphs) > 1 else "সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ করছে।")
     b3 = raw_sentences[2] if len(raw_sentences) > 2 else "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
 
-    bullets_bn = [b1, b2, b3] if is_bangla_source else [
+    bullets_bn = [strip_relative_time_leakage(b) for b in [b1, b2, b3]] if is_bangla_source else [
         f"Core Event: {title[:100]}",
         "Official representatives and regulatory bodies are monitoring developments.",
         "Next procedures are scheduled to take effect in the coming days."
     ]
-    bullets_en = [b1, b2, b3] if not is_bangla_source else [
+    bullets_en = [strip_relative_time_leakage(b) for b in [b1, b2, b3]] if not is_bangla_source else [
         f"Core Event: {title[:100]}",
         "Official bodies and stakeholders are coordinating on executive procedures.",
         "Follow-up directives are expected following departmental review."

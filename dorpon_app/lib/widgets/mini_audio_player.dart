@@ -1,7 +1,9 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import '../theme/obsidian_tokens.dart';
+import '../models/capsule_models.dart';
 import '../services/audio_briefing_service.dart';
+import '../services/app_settings_service.dart';
 import 'audio_player_sheet.dart';
 import 'premium_modal.dart';
 
@@ -11,15 +13,22 @@ class MiniAudioPlayer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final audio = AudioBriefingService();
+    final settings = AppSettingsService();
 
     return AnimatedBuilder(
-      animation: audio,
+      animation: Listenable.merge([audio, settings]),
       builder: (context, _) {
         if (!audio.isPlayerVisible) {
           return const SizedBox.shrink();
         }
 
         final chapter = audio.currentChapter;
+        final isBangla = settings.isBangla;
+        final displayTitle = chapter.getTitle(isBangla);
+        final displayCategory = chapter.getCategory(isBangla);
+        final displayTime = isBangla
+            ? '${toBanglaDigits(audio.formattedPosition)} / ${toBanglaDigits(audio.formattedTotalDuration)}'
+            : '${audio.formattedPosition} / ${audio.formattedTotalDuration}';
 
         return Center(
           child: Container(
@@ -81,7 +90,7 @@ class MiniAudioPlayer extends StatelessWidget {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     Text(
-                                      chapter.title,
+                                      displayTitle,
                                       style: const TextStyle(
                                         color: Colors.white,
                                         fontSize: 12,
@@ -92,7 +101,7 @@ class MiniAudioPlayer extends StatelessWidget {
                                     ),
                                     const SizedBox(height: 1),
                                     Text(
-                                      '${audio.formattedPosition} / ${audio.formattedTotalDuration} • ${chapter.category}',
+                                      '$displayTime • $displayCategory',
                                       style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                                     ),
                                   ],

@@ -1,5 +1,107 @@
 import 'dart:math' as math;
 
+/// Converts standard 0-9 digits to Bengali numerals ০-৯
+String toBanglaDigits(dynamic input) {
+  if (input == null) return '';
+  const english = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
+  const bangla = ['০', '১', '২', '৩', '৪', '৫', '৬', '৭', '৮', '৯'];
+  String text = input.toString();
+  for (int i = 0; i < english.length; i++) {
+    text = text.replaceAll(english[i], bangla[i]);
+  }
+  return text;
+}
+
+/// Strips raw newspaper relative day names and temporal leakage (e.g. সোমবার, গতকাল)
+String stripRelativeDayLeakage(String text) {
+  if (text.isEmpty) return '';
+  final p1 = RegExp(r'(?:গতকাল\s+)?(?:গত\s+)?(?:সোমবার|মঙ্গলবার|বুধবার|বৃহস্পতিবার|শুক্রবার|শনিবার|রবিবার)(?:\s+(?:সকালে|দুপুরে|বিকেলে|সন্ধ্যায়|রাতে))?\s*[,।]?\s*');
+  final p2 = RegExp(r'(?:গতকাল|গত পরশু|আজকে|আজ)\s*[,।]?\s*');
+  final p3 = RegExp(r'\b(?:on\s+)?(?:last\s+)?(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)(?:\s+(?:morning|afternoon|evening|night))?\s*,\s*', caseSensitive: false);
+  final p4 = RegExp(r'\b(?:yesterday|earlier today)\s*,\s*', caseSensitive: false);
+  return text
+      .replaceAll(p1, '')
+      .replaceAll(p2, '')
+      .replaceAll(p3, '')
+      .replaceAll(p4, '')
+      .replaceAll(RegExp(r'^[,।\-\–\s]+'), '')
+      .trim();
+}
+
+/// Returns clean localized name for any category slug
+String getLocalizedCategory(String cat, bool isBangla) {
+  final clean = cat.toLowerCase().replaceAll(' ', '_');
+  if (isBangla) {
+    switch (clean) {
+      case 'macroeconomy_banking':
+      case 'economy_business':
+      case 'economy':
+      case 'macroeconomy':
+        return 'অর্থনীতি ও বাণিজ্য';
+      case 'governance_law':
+      case 'governance':
+      case 'law':
+        return 'শাসন ও আইন';
+      case 'climate_delta':
+      case 'environment':
+      case 'climate_environment':
+        return 'জলবায়ু ও পরিবেশ';
+      case 'international_diplomacy':
+      case 'world_diplomacy':
+      case 'diplomacy':
+      case 'geopolitics':
+      case 'trade_forex':
+        return 'আন্তর্জাতিক কূটনীতি';
+      case 'tech_infrastructure':
+      case 'tech_innovation':
+      case 'technology':
+        return 'প্রযুক্তি ও উদ্ভাবন';
+      case 'sports_fitness':
+      case 'sports':
+        return 'খেলাধুলা';
+      case 'pop_culture':
+      case 'culture':
+        return 'সংস্কৃতি ও বিনোদন';
+      default:
+        return 'চলতি ঘটনাবলী';
+    }
+  } else {
+    switch (clean) {
+      case 'macroeconomy_banking':
+      case 'economy_business':
+      case 'economy':
+      case 'macroeconomy':
+        return 'Economy & Business';
+      case 'governance_law':
+      case 'governance':
+      case 'law':
+        return 'Governance & Law';
+      case 'climate_delta':
+      case 'environment':
+      case 'climate_environment':
+        return 'Climate & Environment';
+      case 'international_diplomacy':
+      case 'world_diplomacy':
+      case 'diplomacy':
+      case 'geopolitics':
+      case 'trade_forex':
+        return 'Global Diplomacy';
+      case 'tech_infrastructure':
+      case 'tech_innovation':
+      case 'technology':
+        return 'Tech & Innovation';
+      case 'sports_fitness':
+      case 'sports':
+        return 'Sports';
+      case 'pop_culture':
+      case 'culture':
+        return 'Culture & Entertainment';
+      default:
+        return 'Current Affairs';
+    }
+  }
+}
+
 class StatPoint {
   final String metricName;
   final String value;
@@ -257,19 +359,25 @@ class DailyBuzzItem {
     final rawBulletsEn = json['bullets_en'] ?? json['bulletsEn'] ?? json['key_takeaways_en'];
     List<String> parsedBulletsBn = [];
     if (rawBulletsBn is List) {
-      parsedBulletsBn = rawBulletsBn.map((e) => e.toString().trim()).where((e) => e.isNotEmpty).toList();
+      parsedBulletsBn = rawBulletsBn
+          .map((e) => stripRelativeDayLeakage(e.toString()))
+          .where((e) => e.isNotEmpty)
+          .toList();
     }
     List<String> parsedBulletsEn = [];
     if (rawBulletsEn is List) {
-      parsedBulletsEn = rawBulletsEn.map((e) => e.toString().trim()).where((e) => e.isNotEmpty).toList();
+      parsedBulletsEn = rawBulletsEn
+          .map((e) => stripRelativeDayLeakage(e.toString()))
+          .where((e) => e.isNotEmpty)
+          .toList();
     }
 
-    final rawWimBn = (json['why_it_matters_bn'] ?? json['whyItMattersBn'] ?? '').toString();
-    final rawWimEn = (json['why_it_matters_en'] ?? json['whyItMattersEn'] ?? '').toString();
-    final rawSummaryBn = (json['summary_bn'] ?? json['summaryBn'] ?? '').toString();
-    final rawSummaryEn = (json['summary_en'] ?? json['summaryEn'] ?? '').toString();
-    final rawLeadBn = (json['lead_bn'] ?? json['leadBn'] ?? '').toString();
-    final rawLeadEn = (json['lead_en'] ?? json['leadEn'] ?? '').toString();
+    final rawWimBn = stripRelativeDayLeakage((json['why_it_matters_bn'] ?? json['whyItMattersBn'] ?? '').toString());
+    final rawWimEn = stripRelativeDayLeakage((json['why_it_matters_en'] ?? json['whyItMattersEn'] ?? '').toString());
+    final rawSummaryBn = stripRelativeDayLeakage((json['summary_bn'] ?? json['summaryBn'] ?? '').toString());
+    final rawSummaryEn = stripRelativeDayLeakage((json['summary_en'] ?? json['summaryEn'] ?? '').toString());
+    final rawLeadBn = stripRelativeDayLeakage((json['lead_bn'] ?? json['leadBn'] ?? '').toString());
+    final rawLeadEn = stripRelativeDayLeakage((json['lead_en'] ?? json['leadEn'] ?? '').toString());
 
     final finalizedBulletsBn = _ensureThreeBullets(
       existingBullets: parsedBulletsBn,
@@ -439,8 +547,8 @@ class CapsuleStory {
     return importanceScore / decay;
   }
 
-  String get formattedPublishedTime {
-    if (publishedAt.isEmpty) return 'Recent';
+  String formattedPublishedTimeLocalized(bool isBangla) {
+    if (publishedAt.isEmpty) return isBangla ? 'সম্প্রতি' : 'Recent';
     try {
       final dt = DateTime.tryParse(publishedAt);
       if (dt == null) {
@@ -453,21 +561,42 @@ class CapsuleStory {
       final minute = localDt.minute.toString().padLeft(2, '0');
       final period = hour >= 12 ? 'PM' : 'AM';
       final hour12 = hour == 0 ? 12 : (hour > 12 ? hour - 12 : hour);
-      final timeStr = '$hour12:$minute $period';
+      
+      String timeStr;
+      if (isBangla) {
+        final hBn = toBanglaDigits(hour12);
+        final mBn = toBanglaDigits(minute);
+        timeStr = '$hBn:$mBn $period';
+      } else {
+        timeStr = '$hour12:$minute $period';
+      }
 
       if (diff.isNegative || diff.inMinutes < 2) {
-        return '$timeStr (Just now)';
+        return isBangla ? '$timeStr (এইমাত্র)' : '$timeStr (Just now)';
       } else if (diff.inMinutes < 60) {
-        return '$timeStr (${diff.inMinutes}m ago)';
+        final mins = isBangla ? toBanglaDigits(diff.inMinutes) : '${diff.inMinutes}m';
+        return isBangla ? '$timeStr ($mins মিনিট আগে)' : '$timeStr (${diff.inMinutes}m ago)';
       } else if (diff.inHours < 24) {
-        return '$timeStr (${diff.inHours}h ago)';
+        final hours = isBangla ? toBanglaDigits(diff.inHours) : '${diff.inHours}h';
+        return isBangla ? '$timeStr ($hours ঘণ্টা আগে)' : '$timeStr (${diff.inHours}h ago)';
       } else {
-        return '${localDt.day}/${localDt.month} $timeStr';
+        if (isBangla) {
+          const monthsBn = ['', 'জানু', 'ফেব্রু', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টে', 'অক্টো', 'নভে', 'ডিসে'];
+          final mStr = localDt.month <= 12 ? monthsBn[localDt.month] : toBanglaDigits(localDt.month);
+          final dStr = toBanglaDigits(localDt.day);
+          return '$mStr $dStr • $timeStr';
+        } else {
+          const monthsEn = ['', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+          final mStr = localDt.month <= 12 ? monthsEn[localDt.month] : '${localDt.month}';
+          return '$mStr ${localDt.day} • $timeStr';
+        }
       }
     } catch (_) {
       return publishedAt;
     }
   }
+
+  String get formattedPublishedTime => formattedPublishedTimeLocalized(false);
 
   factory CapsuleStory.fromJson(Map<String, dynamic> json) {
     List<String> parsedTags = [];

@@ -1,7 +1,9 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import '../theme/obsidian_tokens.dart';
+import '../models/capsule_models.dart';
 import '../services/audio_briefing_service.dart';
+import '../services/app_settings_service.dart';
 import 'premium_modal.dart';
 
 class AudioPlayerSheet extends StatelessWidget {
@@ -19,11 +21,13 @@ class AudioPlayerSheet extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final audio = AudioBriefingService();
+    final settings = AppSettingsService();
 
     return AnimatedBuilder(
-      animation: audio,
+      animation: Listenable.merge([audio, settings]),
       builder: (context, _) {
         final chapter = audio.currentChapter;
+        final isBangla = settings.isBangla;
 
         return BackdropFilter(
           filter: ImageFilter.blur(sigmaX: 25, sigmaY: 25),
@@ -199,8 +203,12 @@ class AudioPlayerSheet extends StatelessWidget {
                           ),
                           child: Text(
                             audio.isTransitioning
-                                ? '♪ TRANSITION CHIME • UP NEXT: CHAPTER ${audio.activeChapterIndex + 2}'
-                                : 'CHAPTER ${audio.activeChapterIndex + 1} OF ${audio.chapters.length} • ${chapter.category}',
+                                ? (isBangla
+                                    ? '♪ ট্রানজিশন চিম • পরবর্তী: অধ্যায় ${toBanglaDigits(audio.activeChapterIndex + 2)}'
+                                    : '♪ TRANSITION CHIME • UP NEXT: CHAPTER ${audio.activeChapterIndex + 2}')
+                                : (isBangla
+                                    ? 'অধ্যায় ${toBanglaDigits(audio.activeChapterIndex + 1)} / ${toBanglaDigits(audio.chapters.length)} • ${chapter.getCategory(isBangla)}'
+                                    : 'CHAPTER ${audio.activeChapterIndex + 1} OF ${audio.chapters.length} • ${chapter.getCategory(isBangla)}'),
                             style: ObsidianTokens.labelXs(
                               color: audio.isTransitioning ? ObsidianTokens.accentGold : ObsidianTokens.primaryMint,
                             ).copyWith(
@@ -215,7 +223,9 @@ class AudioPlayerSheet extends StatelessWidget {
 
                       // Headline
                       Text(
-                        audio.isTransitioning ? 'Smooth Interlude & Next Story Setup...' : chapter.title,
+                        audio.isTransitioning
+                            ? (isBangla ? 'মসৃণ ইন্টারলুড ও পরবর্তী সংবাদ প্রস্তুতি...' : 'Smooth Interlude & Next Story Setup...')
+                            : chapter.getTitle(isBangla),
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           color: audio.isTransitioning ? ObsidianTokens.accentGold : Colors.white,
@@ -255,7 +265,7 @@ class AudioPlayerSheet extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              audio.formattedPosition,
+                              isBangla ? toBanglaDigits(audio.formattedPosition) : audio.formattedPosition,
                               style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                             ),
                             if (!audio.isPremiumUser)
@@ -273,7 +283,9 @@ class AudioPlayerSheet extends StatelessWidget {
                                   ),
                                 ),
                                 child: Text(
-                                  audio.hasHitFreeLimit ? 'Daily Free 1m Limit Reached' : 'Free Preview: 1m limit',
+                                  audio.hasHitFreeLimit
+                                      ? (isBangla ? 'দৈনিক ফ্রি ১ মিনিট শেষ হয়েছে' : 'Daily Free 1m Limit Reached')
+                                      : (isBangla ? 'ফ্রি প্রিভিউ: ১ মিনিটের সীমা' : 'Free Preview: 1m limit'),
                                   style: TextStyle(
                                     color: audio.hasHitFreeLimit ? ObsidianTokens.accentGold : Colors.white70,
                                     fontSize: 10,
@@ -282,7 +294,9 @@ class AudioPlayerSheet extends StatelessWidget {
                                 ),
                               ),
                             Text(
-                              '-${audio.formattedRemainingTime}',
+                              isBangla
+                                  ? '-${toBanglaDigits(audio.formattedRemainingTime)}'
+                                  : '-${audio.formattedRemainingTime}',
                               style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                             ),
                           ],
@@ -477,7 +491,7 @@ class AudioPlayerSheet extends StatelessWidget {
                                   const Icon(Icons.volume_up_rounded, color: ObsidianTokens.primaryMint, size: 16)
                                 else
                                   Text(
-                                    '${index + 1}',
+                                    isBangla ? toBanglaDigits(index + 1) : '${index + 1}',
                                     style: TextStyle(
                                       color: ObsidianTokens.textTertiary,
                                       fontSize: 12,
@@ -490,7 +504,7 @@ class AudioPlayerSheet extends StatelessWidget {
                                     crossAxisAlignment: CrossAxisAlignment.start,
                                     children: [
                                       Text(
-                                        ch.title,
+                                        ch.getTitle(isBangla),
                                         style: TextStyle(
                                           color: isActive ? Colors.white : ObsidianTokens.textSecondary,
                                           fontWeight: isActive ? FontWeight.bold : FontWeight.w500,
@@ -501,7 +515,7 @@ class AudioPlayerSheet extends StatelessWidget {
                                       ),
                                       const SizedBox(height: 2),
                                       Text(
-                                        ch.category,
+                                        ch.getCategory(isBangla),
                                         style: TextStyle(
                                           color: isActive ? ObsidianTokens.primaryMint : ObsidianTokens.textTertiary,
                                           fontSize: 10,
@@ -511,7 +525,7 @@ class AudioPlayerSheet extends StatelessWidget {
                                   ),
                                 ),
                                 Text(
-                                  _formatDuration(ch.startTime),
+                                  isBangla ? toBanglaDigits(_formatDuration(ch.startTime)) : _formatDuration(ch.startTime),
                                   style: TextStyle(
                                     color: isActive ? ObsidianTokens.primaryMint : ObsidianTokens.textTertiary,
                                     fontSize: 11,

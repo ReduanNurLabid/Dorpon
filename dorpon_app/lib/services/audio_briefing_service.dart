@@ -4,6 +4,9 @@ import '../models/capsule_models.dart';
 
 class AudioChapter {
   final String title;
+  final String titleEn;
+  final String titleBn;
+  final String categorySlug;
   final String category;
   final Duration startTime;
   final Duration duration;
@@ -11,11 +14,27 @@ class AudioChapter {
 
   AudioChapter({
     required this.title,
-    required this.category,
+    this.titleEn = '',
+    this.titleBn = '',
+    this.categorySlug = '',
+    this.category = '',
     required this.startTime,
     required this.duration,
     this.storyId,
   });
+
+  String getTitle(bool isBangla) {
+    if (isBangla && titleBn.trim().isNotEmpty) return titleBn.trim();
+    if (!isBangla && titleEn.trim().isNotEmpty) return titleEn.trim();
+    return title;
+  }
+
+  String getCategory(bool isBangla) {
+    if (categorySlug.isNotEmpty) {
+      return getLocalizedCategory(categorySlug, isBangla);
+    }
+    return getLocalizedCategory(category, isBangla);
+  }
 }
 
 class AudioBriefingService extends ChangeNotifier {
@@ -41,24 +60,36 @@ class AudioBriefingService extends ChangeNotifier {
   List<AudioChapter> _chapters = [
     AudioChapter(
       title: 'Central Bank Policy & Core Inflation Pulse',
+      titleEn: 'Central Bank Policy & Core Inflation Pulse',
+      titleBn: 'কেন্দ্রীয় ব্যাংক নীতি ও মূল মূল্যস্ফীতি বিশ্লেষণ',
+      categorySlug: 'macroeconomy_banking',
       category: 'Macroeconomy',
       startTime: Duration.zero,
       duration: const Duration(seconds: 70),
     ),
     AudioChapter(
       title: 'Forex Reserves & NBR Trade Telemetry',
+      titleEn: 'Forex Reserves & NBR Trade Telemetry',
+      titleBn: 'বৈদেশিক মুদ্রার রিজার্ভ ও এনবিআর রাজস্ব তথ্য',
+      categorySlug: 'economy_business',
       category: 'Trade & Forex',
       startTime: const Duration(seconds: 70),
       duration: const Duration(seconds: 65),
     ),
     AudioChapter(
       title: 'Judicial Writs & Article 102 High Court Directives',
+      titleEn: 'Judicial Writs & Article 102 High Court Directives',
+      titleBn: 'বিচার বিভাগীয় রিট ও ১০২ অনুচ্ছেদের আওতায় হাইকোর্টের নির্দেশনা',
+      categorySlug: 'governance_law',
       category: 'Governance & Law',
       startTime: const Duration(seconds: 135),
       duration: const Duration(seconds: 75),
     ),
     AudioChapter(
       title: 'Delta Plan 2100 & Climate Adaptation Funding',
+      titleEn: 'Delta Plan 2100 & Climate Adaptation Funding',
+      titleBn: 'ডেল্টা প্ল্যান ২১০০ ও জলবায়ু অভিযোজন অর্থায়ন',
+      categorySlug: 'climate_delta',
       category: 'Climate & Delta',
       startTime: const Duration(seconds: 210),
       duration: const Duration(seconds: 60),
@@ -109,13 +140,18 @@ class AudioBriefingService extends ChangeNotifier {
     for (var i = 0; i < stories.length; i++) {
       final story = stories[i];
       final buzz = story.dailyBuzz;
-      final title = _language == 'bn' && buzz.titleBn.isNotEmpty ? buzz.titleBn : buzz.titleEn;
+      final titleEn = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
+      final titleBn = buzz.titleBn.isNotEmpty ? buzz.titleBn : buzz.titleEn;
+      final title = _language == 'bn' && titleBn.isNotEmpty ? titleBn : titleEn;
       final durationSec = buzz.readTimeSeconds > 0 ? buzz.readTimeSeconds : 65;
       
       generatedChapters.add(
         AudioChapter(
           title: title.isNotEmpty ? title : 'Daily Dispatch #${i + 1}',
-          category: story.primaryCategory.replaceAll('_', ' ').toUpperCase(),
+          titleEn: titleEn,
+          titleBn: titleBn,
+          categorySlug: story.primaryCategory,
+          category: getLocalizedCategory(story.primaryCategory, _language == 'bn'),
           startTime: Duration(seconds: accumulatedSeconds),
           duration: Duration(seconds: durationSec),
           storyId: story.storyId,

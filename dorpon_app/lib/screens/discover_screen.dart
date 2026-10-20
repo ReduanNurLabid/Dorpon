@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../theme/obsidian_tokens.dart';
 import '../models/capsule_models.dart';
 import '../services/api_service.dart';
+import '../services/app_settings_service.dart';
 import 'study_canvas_screen.dart';
 
 class DiscoverScreen extends StatefulWidget {
@@ -407,8 +408,14 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                       else
                         ...matchingStories.map((story) {
                           final buzz = story.dailyBuzz;
-                          final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
-                          final summary = buzz.summaryEn.isNotEmpty ? buzz.summaryEn : buzz.summaryBn;
+                          final settings = AppSettingsService();
+                          final isBangla = settings.isBangla;
+                          final title = isBangla
+                              ? (buzz.titleBn.isNotEmpty ? buzz.titleBn : buzz.titleEn)
+                              : (buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn);
+                          final summary = isBangla
+                              ? (buzz.leadBn.isNotEmpty ? buzz.leadBn : buzz.summaryBn)
+                              : (buzz.leadEn.isNotEmpty ? buzz.leadEn : buzz.summaryEn);
 
                           return Container(
                             margin: const EdgeInsets.only(bottom: 14),
@@ -436,7 +443,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                                     ),
                                     const Spacer(),
                                     Text(
-                                      '${buzz.readTimeSeconds ~/ 60 + 1}m read',
+                                      isBangla ? '১০ সেকেন্ড পাঠ' : '10s gist',
                                       style: ObsidianTokens.labelXs(),
                                     ),
                                   ],
@@ -467,7 +474,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                                   child: Row(
                                     children: [
                                       Text(
-                                        'Read Full Story',
+                                        isBangla ? 'পুরো সংবাদ পড়ুন' : 'Read Full Story',
                                         style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
                                       ),
                                       const SizedBox(width: 4),

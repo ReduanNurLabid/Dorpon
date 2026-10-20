@@ -294,7 +294,6 @@ class _AllNewsScreenState extends State<AllNewsScreen> {
     final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'News Wire';
     final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
     final takeaway = settings.localize(en: buzz.whyItMattersEn, bn: buzz.whyItMattersBn);
-    final readMins = buzz.readTimeSeconds > 0 ? (buzz.readTimeSeconds ~/ 60 + 1) : 1;
 
     return Padding(
       padding: const EdgeInsets.only(bottom: 12),
@@ -338,18 +337,18 @@ class _AllNewsScreenState extends State<AllNewsScreen> {
                       ),
                     ),
                   ),
-                  if (story.formattedPublishedTime.isNotEmpty) ...[
+                  if (story.formattedPublishedTimeLocalized(settings.isBangla).isNotEmpty) ...[
                     const SizedBox(width: 6),
                     const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
                     const SizedBox(width: 3),
                     Text(
-                      story.formattedPublishedTime,
+                      story.formattedPublishedTimeLocalized(settings.isBangla),
                       style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                     ),
                   ],
                   const Spacer(),
                   Text(
-                    '$readMins min read',
+                    settings.isBangla ? '১০ সেকেন্ড পাঠ' : '10s gist',
                     style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                   ),
                   const SizedBox(width: 6),

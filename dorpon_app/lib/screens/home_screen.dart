@@ -88,7 +88,7 @@ class _HomeScreenState extends State<HomeScreen> {
       const monthsBn = ['জানু', 'ফেব্রু', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টে', 'অক্টো', 'নভে', 'ডিসে'];
       final weekday = weekdaysBn[now.weekday - 1];
       final month = monthsBn[now.month - 1];
-      return 'দৈনিক ব্রিফ • $weekday, $month ${now.day}';
+      return 'দৈনিক ব্রিফ • $weekday, $month ${toBanglaDigits(now.day)}';
     }
     const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -449,7 +449,9 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildHomeFeed() {
     final settings = AppSettingsService();
     final topStories = _buzzStories.take(6).toList();
-    final wireStories = (_hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories).take(8).toList();
+    final topStoryIds = topStories.map((s) => s.storyId).toSet();
+    final availableWirePool = _hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories;
+    final wireStories = availableWirePool.where((s) => !topStoryIds.contains(s.storyId)).take(8).toList();
 
     return RefreshIndicator(
       color: ObsidianTokens.primaryMint,
@@ -484,7 +486,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 Text(
                   settings.isBangla
-                      ? 'আরও দেখতে সোয়াইপ করুন • ${topStories.length}টি সংবাদ'
+                      ? 'আরও দেখতে সোয়াইপ করুন • ${toBanglaDigits(topStories.length)}টি সংবাদ'
                       : 'Swipe for more • ${topStories.length} curated',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                 ),
@@ -496,7 +498,7 @@ class _HomeScreenState extends State<HomeScreen> {
           // Horizontal Featured Carousel (Clean cards with smooth horizontal scroll)
           if (_isLoading)
             const SizedBox(
-              height: 280,
+              height: 290,
               child: Center(
                 child: CircularProgressIndicator(color: ObsidianTokens.primaryMint),
               ),
@@ -513,7 +515,7 @@ class _HomeScreenState extends State<HomeScreen> {
             )
           else
             SizedBox(
-              height: 240,
+              height: 290,
               child: ListView.separated(
                 padding: const EdgeInsets.symmetric(horizontal: 24),
                 scrollDirection: Axis.horizontal,
@@ -598,9 +600,26 @@ class _HomeScreenState extends State<HomeScreen> {
                 // Vertical list of live wire items
                 ...wireStories.map((story) {
                   final buzz = story.dailyBuzz;
-                  final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'News Wire';
+                  final isBangla = settings.isBangla;
+                  final String sourceLabel;
+                  if (story.sources.length > 1) {
+                    final names = story.sources
+                        .map((s) => s['name']?.toString() ?? '')
+                        .where((n) => n.isNotEmpty)
+                        .take(2)
+                        .join(' • ');
+                    sourceLabel = isBangla
+                        ? '${toBanglaDigits(story.sources.length)}টি সূত্র: $names'
+                        : '${story.sources.length} Sources: $names';
+                  } else {
+                    sourceLabel = story.sources.isNotEmpty ? (story.sources[0]['name'] ?? 'News Wire') : 'News Wire';
+                  }
+
                   final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
-                  final takeaway = settings.localize(en: buzz.whyItMattersEn, bn: buzz.whyItMattersBn);
+                  final lead = isBangla
+                      ? (buzz.leadBn.isNotEmpty ? buzz.leadBn : buzz.summaryBn)
+                      : (buzz.leadEn.isNotEmpty ? buzz.leadEn : buzz.summaryEn);
+                  final publishedTime = story.formattedPublishedTimeLocalized(isBangla);
 
                   return Padding(
                     padding: const EdgeInsets.only(bottom: 14),
@@ -632,7 +651,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                     children: [
                                       Flexible(
                                         child: Text(
-                                          sourceName,
+                                          sourceLabel,
                                           style: const TextStyle(
                                             color: ObsidianTokens.primaryMint,
                                             fontSize: 11,
@@ -642,7 +661,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           overflow: TextOverflow.ellipsis,
                                         ),
                                       ),
-                                      if (story.formattedPublishedTime.isNotEmpty) ...[
+                                      if (publishedTime.isNotEmpty) ...[
                                         const SizedBox(width: 6),
                                         Text(
                                           '•',
@@ -655,7 +674,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
                                         const SizedBox(width: 3),
                                         Text(
-                                          story.formattedPublishedTime,
+                                          publishedTime,
                                           style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                                         ),
                                       ],
@@ -668,13 +687,15 @@ class _HomeScreenState extends State<HomeScreen> {
                                     maxLines: 2,
                                     overflow: TextOverflow.ellipsis,
                                   ),
-                                  const SizedBox(height: 4),
-                                  Text(
-                                    takeaway,
-                                    style: ObsidianTokens.bodyMd().copyWith(fontSize: 12.5),
-                                    maxLines: 2,
-                                    overflow: TextOverflow.ellipsis,
-                                  ),
+                                  if (lead.isNotEmpty) ...[
+                                    const SizedBox(height: 4),
+                                    Text(
+                                      lead,
+                                      style: ObsidianTokens.bodyMd().copyWith(fontSize: 12.5),
+                                      maxLines: 2,
+                                      overflow: TextOverflow.ellipsis,
+                                    ),
+                                  ],
                                 ],
                               ),
                             ),
@@ -774,10 +795,29 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildStoryCard(CapsuleStory story) {
     final settings = AppSettingsService();
     final buzz = story.dailyBuzz;
-    final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'Daily Brief';
+    final isBangla = settings.isBangla;
+
+    // Multi-source verification display: "৩টি সূত্র" with outlet names
+    final String sourceLabel;
+    if (story.sources.length > 1) {
+      final names = story.sources
+          .map((s) => s['name']?.toString() ?? '')
+          .where((n) => n.isNotEmpty)
+          .take(2)
+          .join(' • ');
+      sourceLabel = isBangla
+          ? '${toBanglaDigits(story.sources.length)}টি সূত্র: $names'
+          : '${story.sources.length} Sources: $names';
+    } else {
+      sourceLabel = story.sources.isNotEmpty ? (story.sources[0]['name'] ?? 'Daily Brief') : 'Daily Brief';
+    }
+
     final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
-    final summary = settings.localize(en: buzz.summaryEn, bn: buzz.summaryBn);
-    final readMins = buzz.readTimeSeconds > 0 ? (buzz.readTimeSeconds ~/ 60 + 1) : 1;
+    final lead = isBangla
+        ? (buzz.leadBn.isNotEmpty ? buzz.leadBn : buzz.summaryBn)
+        : (buzz.leadEn.isNotEmpty ? buzz.leadEn : buzz.summaryEn);
+    final bullets = isBangla ? buzz.bulletsBn : buzz.bulletsEn;
+    final publishedTime = story.formattedPublishedTimeLocalized(isBangla);
 
     return GestureDetector(
       onTap: () {
@@ -789,7 +829,7 @@ class _HomeScreenState extends State<HomeScreen> {
         );
       },
       child: Container(
-        width: 295,
+        width: 320,
         padding: const EdgeInsets.all(15),
         decoration: BoxDecoration(
           color: Colors.white.withValues(alpha: 0.04),
@@ -803,7 +843,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Top Meta Row: Source Name Chip + Published Timestamp + Bookmark
+                // Top Meta Row: Multi-Source Pill + Published Time + Bookmark
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
@@ -811,17 +851,26 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: Container(
                         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                         decoration: BoxDecoration(
-                          color: ObsidianTokens.primaryMint.withValues(alpha: 0.1),
+                          color: ObsidianTokens.primaryMint.withValues(alpha: 0.12),
                           borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                          border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.2)),
+                          border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.25)),
                         ),
-                        child: Text(
-                          sourceName,
-                          style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(
-                            fontWeight: FontWeight.w600,
-                          ),
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            const Icon(Icons.verified, size: 11, color: ObsidianTokens.primaryMint),
+                            const SizedBox(width: 4),
+                            Flexible(
+                              child: Text(
+                                sourceLabel,
+                                style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(
+                                  fontWeight: FontWeight.w600,
+                                ),
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                     ),
@@ -829,11 +878,11 @@ class _HomeScreenState extends State<HomeScreen> {
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        if (story.formattedPublishedTime.isNotEmpty) ...[
+                        if (publishedTime.isNotEmpty) ...[
                           const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
                           const SizedBox(width: 3),
                           Text(
-                            story.formattedPublishedTime,
+                            publishedTime,
                             style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                           ),
                           const SizedBox(width: 6),
@@ -865,35 +914,84 @@ class _HomeScreenState extends State<HomeScreen> {
                   ],
                 ),
                 const SizedBox(height: 10),
+
+                // Headline
                 Text(
                   title,
                   style: const TextStyle(
                     color: Colors.white,
-                    fontSize: 14,
-                    fontWeight: FontWeight.w600,
-                    height: 1.25,
+                    fontSize: 14.5,
+                    fontWeight: FontWeight.w700,
+                    height: 1.3,
                   ),
-                  maxLines: 3,
+                  maxLines: 2,
                   overflow: TextOverflow.ellipsis,
                 ),
-                const SizedBox(height: 6),
-                Text(
-                  summary,
-                  style: ObsidianTokens.bodyMd(color: ObsidianTokens.textSecondary).copyWith(fontSize: 11.5, height: 1.35),
-                  maxLines: 3,
-                  overflow: TextOverflow.ellipsis,
-                ),
+
+                // 1-line lead
+                if (lead.isNotEmpty) ...[
+                  const SizedBox(height: 5),
+                  Text(
+                    lead,
+                    style: const TextStyle(
+                      color: Color(0xFFCBD5E1),
+                      fontSize: 12,
+                      fontWeight: FontWeight.w500,
+                      height: 1.35,
+                    ),
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ],
+
+                // 3 bullets
+                if (bullets.isNotEmpty) ...[
+                  const SizedBox(height: 8),
+                  ...bullets.take(3).toList().asMap().entries.map((entry) {
+                    final idx = entry.key + 1;
+                    final bullet = entry.value;
+                    final idxStr = isBangla ? toBanglaDigits(idx) : '$idx';
+                    return Padding(
+                      padding: const EdgeInsets.only(bottom: 3),
+                      child: Row(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            '$idxStr. ',
+                            style: const TextStyle(
+                              color: ObsidianTokens.primaryMint,
+                              fontSize: 11,
+                              fontWeight: FontWeight.w700,
+                            ),
+                          ),
+                          Expanded(
+                            child: Text(
+                              bullet,
+                              style: const TextStyle(
+                                color: Color(0xFFE2E8F0),
+                                fontSize: 11.5,
+                                height: 1.3,
+                              ),
+                              maxLines: 1,
+                              overflow: TextOverflow.ellipsis,
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                  }),
+                ],
               ],
             ),
 
-            // Bottom Action Row: Read Full Story + Read Time
+            // Bottom Action Row: Read Full Story (in Bangla: পুরো সংবাদ পড়ুন) + 10s gist (১০ সেকেন্ড পাঠ)
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Row(
                   children: [
                     Text(
-                      'Read Full Story',
+                      isBangla ? 'পুরো সংবাদ পড়ুন' : 'Read Full Story',
                       style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint).copyWith(fontSize: 11),
                     ),
                     const SizedBox(width: 4),
@@ -901,7 +999,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ],
                 ),
                 Text(
-                  '$readMins min read',
+                  isBangla ? '১০ সেকেন্ড পাঠ' : '10s gist',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                 ),
               ],

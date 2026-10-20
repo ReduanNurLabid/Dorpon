@@ -348,9 +348,7 @@ class _SavedScreenState extends State<SavedScreen> {
       en: buzz.whyItMattersEn.isNotEmpty ? buzz.whyItMattersEn : buzz.summaryEn,
       bn: buzz.whyItMattersBn.isNotEmpty ? buzz.whyItMattersBn : buzz.summaryBn,
     );
-    final readTime = settings.isBangla
-        ? '${buzz.readTimeSeconds ~/ 60 + 1} মিনিট পাঠ'
-        : '${buzz.readTimeSeconds ~/ 60 + 1}m read';
+    final readTime = settings.isBangla ? '১০ সেকেন্ড পাঠ' : '10s gist';
 
     return GestureDetector(
       onTap: () {
@@ -482,7 +480,7 @@ class _SavedScreenState extends State<SavedScreen> {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       Text(
-                        'Read Full Story',
+                        settings.isBangla ? 'পুরো সংবাদ পড়ুন' : 'Read Full Story',
                         style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint).copyWith(fontWeight: FontWeight.w600),
                       ),
                       const SizedBox(width: 6),
