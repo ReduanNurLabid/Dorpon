@@ -276,7 +276,8 @@ You MUST return a JSON object with these EXACT keys:
                 summary_en=data.get("summary_en", primary_art.summary_raw or title),
                 why_it_matters_bn=data.get("why_it_matters_bn", "জাতীয় অর্থনীতি ও সুশাসনে এর দীর্ঘমেয়াদী নীতিগত তাৎপর্য রয়েছে।"),
                 why_it_matters_en=data.get("why_it_matters_en", "Directly impacts national policy, regulatory frameworks, and citizen welfare."),
-                interest_categories=cluster.matched_categories
+                interest_categories=cluster.matched_categories,
+                published_at=primary_art.published_at
             )
             
             bcs_pro = None
@@ -341,6 +342,7 @@ You MUST return a JSON object with these EXACT keys:
                 tags=parsed_tags,
                 is_bcs_pro_selected=is_bcs_pro,
                 image_url=primary_art.image_url,
+                published_at=primary_art.published_at,
                 sources=build_clean_sources(cluster.articles),
                 daily_buzz=buzz,
                 bcs_pro=bcs_pro
@@ -367,7 +369,8 @@ You MUST return a JSON object with these EXACT keys:
         summary_en=lead_summary if not is_bangla_source else "A key domestic development that directly impacts policy, regulatory frameworks, and citizen welfare.",
         why_it_matters_bn="দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
         why_it_matters_en="Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
-        interest_categories=cluster.matched_categories
+        interest_categories=cluster.matched_categories,
+        published_at=primary_art.published_at
     )
     
     bcs_pro = None
@@ -427,6 +430,7 @@ You MUST return a JSON object with these EXACT keys:
         interest_categories=cluster.matched_categories,
         is_bcs_pro_selected=is_bcs_pro,
         image_url=primary_art.image_url,
+        published_at=primary_art.published_at,
         sources=build_clean_sources(cluster.articles),
         daily_buzz=buzz,
         bcs_pro=bcs_pro

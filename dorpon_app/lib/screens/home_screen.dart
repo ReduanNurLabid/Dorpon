@@ -424,15 +424,50 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildHomeFeed() {
+    final topStories = _buzzStories.take(6).toList();
+    final wireStories = (_hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories).take(8).toList();
+
     return RefreshIndicator(
       color: ObsidianTokens.primaryMint,
       backgroundColor: ObsidianTokens.surfaceContainerHigh,
       onRefresh: _loadAllFeeds,
       child: ListView(
         physics: const AlwaysScrollableScrollPhysics(parent: BouncingScrollPhysics()),
-        padding: const EdgeInsets.only(bottom: 120, top: 8),
+        padding: const EdgeInsets.only(bottom: 120, top: 4),
         children: [
-          // Featured Stories Carousel (Spacious Huxe Cards)
+          // 1. Featured Top Stories Carousel Header
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 8),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Row(
+                  children: [
+                    Container(
+                      width: 7,
+                      height: 7,
+                      decoration: const BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: ObsidianTokens.accentGold,
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Text(
+                      'Top Stories Today',
+                      style: ObsidianTokens.labelSm(color: ObsidianTokens.textPrimary),
+                    ),
+                  ],
+                ),
+                Text(
+                  'Swipe for more • ${topStories.length} curated',
+                  style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 4),
+
+          // Horizontal Featured Carousel (Clean cards with smooth horizontal scroll)
           if (_isLoading)
             const SizedBox(
               height: 280,
@@ -440,7 +475,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: CircularProgressIndicator(color: ObsidianTokens.primaryMint),
               ),
             )
-          else if (_buzzStories.isEmpty)
+          else if (topStories.isEmpty)
             Padding(
               padding: const EdgeInsets.all(24),
               child: Center(
@@ -449,21 +484,22 @@ class _HomeScreenState extends State<HomeScreen> {
             )
           else
             SizedBox(
-              height: 315,
+              height: 320,
               child: ListView.separated(
                 padding: const EdgeInsets.symmetric(horizontal: 24),
                 scrollDirection: Axis.horizontal,
-                itemCount: _buzzStories.length,
+                physics: const BouncingScrollPhysics(),
+                itemCount: topStories.length,
                 separatorBuilder: (context, index) => const SizedBox(width: 16),
                 itemBuilder: (context, index) {
-                  return _buildStoryCard(_buzzStories[index]);
+                  return _buildStoryCard(topStories[index]);
                 },
               ),
             ),
 
           const SizedBox(height: 32),
 
-          // Daily Digest Section
+          // 2. Vertical Hourly Breaking Wires Section
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 24),
             child: Column(
@@ -484,7 +520,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       'Hourly Breaking Wires',
                       style: ObsidianTokens.labelSm(color: ObsidianTokens.textPrimary),
                     ),
-                    const Spacer(),
+                    const SizedBox(width: 8),
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
                       decoration: BoxDecoration(
@@ -492,7 +528,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         borderRadius: BorderRadius.circular(4),
                       ),
                       child: const Text(
-                        'LIVE WIRES',
+                        'LIVE',
                         style: TextStyle(
                           color: ObsidianTokens.primaryMint,
                           fontSize: 8.5,
@@ -501,11 +537,30 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                       ),
                     ),
+                    const Spacer(),
+                    GestureDetector(
+                      onTap: () => _navigateToPage(0),
+                      behavior: HitTestBehavior.opaque,
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            'View All',
+                            style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
+                          ),
+                          const SizedBox(width: 2),
+                          const Icon(Icons.chevron_right, size: 14, color: ObsidianTokens.primaryMint),
+                        ],
+                      ),
+                    ),
                   ],
                 ),
                 const SizedBox(height: 16),
-                ...(_hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories.skip(3)).take(4).map((story) {
+
+                // Vertical list of live wire items
+                ...wireStories.map((story) {
                   final buzz = story.dailyBuzz;
+                  final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'News Wire';
                   final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
                   final takeaway = buzz.whyItMattersEn.isNotEmpty ? buzz.whyItMattersEn : buzz.whyItMattersBn;
 
@@ -528,68 +583,140 @@ class _HomeScreenState extends State<HomeScreen> {
                           border: Border.all(color: Colors.white.withValues(alpha: 0.06)),
                         ),
                         child: Row(
+                          crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Expanded(
                               child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  // Source Newspaper & Publication Timestamp
+                                  Row(
+                                    children: [
+                                      Text(
+                                        sourceName,
+                                        style: const TextStyle(
+                                          color: ObsidianTokens.primaryMint,
+                                          fontSize: 11,
+                                          fontWeight: FontWeight.w600,
+                                        ),
+                                      ),
+                                      const SizedBox(width: 6),
+                                      Text(
+                                        '•',
+                                        style: TextStyle(
+                                          color: ObsidianTokens.textSecondary.withValues(alpha: 0.5),
+                                          fontSize: 10,
+                                        ),
+                                      ),
+                                      const SizedBox(width: 6),
+                                      const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
+                                      const SizedBox(width: 3),
+                                      Text(
+                                        story.formattedPublishedTime,
+                                        style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                                      ),
+                                    ],
+                                  ),
+                                  const SizedBox(height: 6),
+                                  Text(
+                                    title,
+                                    style: ObsidianTokens.headlineMd(color: Colors.white),
+                                    maxLines: 2,
+                                    overflow: TextOverflow.ellipsis,
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Text(
+                                    takeaway,
+                                    style: ObsidianTokens.bodyMd().copyWith(fontSize: 12.5),
+                                    maxLines: 2,
+                                    overflow: TextOverflow.ellipsis,
+                                  ),
+                                ],
+                              ),
+                            ),
+                            const SizedBox(width: 10),
+                            Column(
                               children: [
-                                Text(
-                                  title,
-                                  style: ObsidianTokens.headlineMd(color: Colors.white),
-                                  maxLines: 1,
-                                  overflow: TextOverflow.ellipsis,
+                                AnimatedBuilder(
+                                  animation: SavedArticlesService(),
+                                  builder: (context, _) {
+                                    final isSaved = SavedArticlesService().isStorySaved(story.storyId);
+                                    return GestureDetector(
+                                      onTap: () {
+                                        SavedArticlesService().toggleSaveStory(story);
+                                        ScaffoldMessenger.of(context).showSnackBar(
+                                          SnackBar(
+                                            content: Text(isSaved ? 'Removed from saved' : 'Story saved to reading list'),
+                                            duration: const Duration(seconds: 2),
+                                          ),
+                                        );
+                                      },
+                                      child: Padding(
+                                        padding: const EdgeInsets.all(4.0),
+                                        child: Icon(
+                                          isSaved ? Icons.bookmark : Icons.bookmark_border,
+                                          size: 19,
+                                          color: isSaved
+                                              ? ObsidianTokens.primaryMint
+                                              : ObsidianTokens.textSecondary.withValues(alpha: 0.5),
+                                        ),
+                                      ),
+                                    );
+                                  },
                                 ),
-                                const SizedBox(height: 4),
-                                Text(
-                                  takeaway,
-                                  style: ObsidianTokens.bodyMd(),
-                                  maxLines: 2,
-                                  overflow: TextOverflow.ellipsis,
-                                ),
+                                const SizedBox(height: 12),
+                                Icon(Icons.arrow_forward_ios, size: 13, color: ObsidianTokens.textSecondary),
                               ],
                             ),
-                          ),
+                          ],
+                        ),
+                      ),
+                    ),
+                  );
+                }),
+
+                const SizedBox(height: 8),
+
+                // 3. Prominent 'Explore More' Action Button
+                Center(
+                  child: GestureDetector(
+                    onTap: () => _navigateToPage(0),
+                    child: Container(
+                      width: double.infinity,
+                      padding: const EdgeInsets.symmetric(vertical: 14),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.04),
+                        borderRadius: BorderRadius.circular(ObsidianTokens.radiusCard),
+                        border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.25)),
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          const Icon(Icons.explore_outlined, size: 18, color: ObsidianTokens.primaryMint),
                           const SizedBox(width: 8),
-                          AnimatedBuilder(
-                            animation: SavedArticlesService(),
-                            builder: (context, _) {
-                              final isSaved = SavedArticlesService().isStorySaved(story.storyId);
-                              return GestureDetector(
-                                onTap: () {
-                                  SavedArticlesService().toggleSaveStory(story);
-                                  ScaffoldMessenger.of(context).showSnackBar(
-                                    SnackBar(
-                                      content: Text(isSaved ? 'Removed from saved' : 'Story saved to reading list'),
-                                      duration: const Duration(seconds: 2),
-                                    ),
-                                  );
-                                },
-                                child: Padding(
-                                  padding: const EdgeInsets.all(4.0),
-                                  child: Icon(
-                                    isSaved ? Icons.bookmark : Icons.bookmark_border,
-                                    size: 19,
-                                    color: isSaved ? ObsidianTokens.primaryMint : ObsidianTokens.textSecondary.withOpacity(0.5),
-                                  ),
-                                ),
-                              );
-                            },
+                          Text(
+                            'Explore More News & Channels',
+                            style: TextStyle(
+                              fontSize: 13,
+                              fontWeight: FontWeight.w600,
+                              color: ObsidianTokens.primaryMint,
+                            ),
                           ),
-                          const SizedBox(width: 4),
-                          Icon(Icons.arrow_forward_ios, size: 13, color: ObsidianTokens.textSecondary),
+                          const SizedBox(width: 6),
+                          const Icon(Icons.arrow_forward_rounded, size: 15, color: ObsidianTokens.primaryMint),
                         ],
                       ),
                     ),
                   ),
-                );
-              }),
-            ],
+                ),
+                const SizedBox(height: 20),
+              ],
+            ),
           ),
-        ),
-      ],
-    ),
-  );
-}
+        ],
+      ),
+    );
+  }
 
   Widget _buildStoryCard(CapsuleStory story) {
     final buzz = story.dailyBuzz;
@@ -607,7 +734,7 @@ class _HomeScreenState extends State<HomeScreen> {
         );
       },
       child: Container(
-        width: 295,
+        width: 300,
         padding: const EdgeInsets.all(18),
         decoration: BoxDecoration(
           color: Colors.white.withValues(alpha: 0.04),
@@ -621,20 +748,23 @@ class _HomeScreenState extends State<HomeScreen> {
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Category Chip & Read Time (Protected against overflow)
+                // Top Meta Row: Source Name Chip + Published Timestamp + Bookmark
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Flexible(
                       child: Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 4),
                         decoration: BoxDecoration(
-                          color: Colors.white.withValues(alpha: 0.05),
+                          color: ObsidianTokens.primaryMint.withValues(alpha: 0.1),
                           borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                          border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.2)),
                         ),
                         child: Text(
                           sourceName,
-                          style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
+                          style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(
+                            fontWeight: FontWeight.w600,
+                          ),
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
                         ),
@@ -644,9 +774,11 @@ class _HomeScreenState extends State<HomeScreen> {
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
+                        const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
+                        const SizedBox(width: 3),
                         Text(
-                          '${buzz.readTimeSeconds ~/ 60 + 1}m read',
-                          style: ObsidianTokens.labelXs(),
+                          story.formattedPublishedTime,
+                          style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                         ),
                         const SizedBox(width: 8),
                         AnimatedBuilder(
@@ -680,7 +812,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   title,
                   style: const TextStyle(
                     color: Colors.white,
-                    fontSize: 15.5,
+                    fontSize: 15,
                     fontWeight: FontWeight.w600,
                     height: 1.3,
                   ),
@@ -697,15 +829,24 @@ class _HomeScreenState extends State<HomeScreen> {
               ],
             ),
 
-            // Bottom Action Link
+            // Bottom Action Row: Read Full Story + Read Time
             Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Text(
-                  'Read Full Story',
-                  style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
+                Row(
+                  children: [
+                    Text(
+                      'Read Full Story',
+                      style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
+                    ),
+                    const SizedBox(width: 4),
+                    const Icon(Icons.arrow_forward, size: 14, color: ObsidianTokens.primaryMint),
+                  ],
                 ),
-                const SizedBox(width: 4),
-                const Icon(Icons.arrow_forward, size: 14, color: ObsidianTokens.primaryMint),
+                Text(
+                  'm read',
+                  style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                ),
               ],
             ),
           ],

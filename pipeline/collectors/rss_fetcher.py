@@ -98,6 +98,7 @@ def fetch_section_candidates() -> List[RawArticle]:
                                 url=href,
                                 title=title,
                                 summary_raw=title,
+                                published_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),
                                 language=sec["language"],
                                 category_hint=sec["category_hint"]
                             ))
@@ -138,9 +139,10 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
                 if not title or not link or link in seen_urls:
                     continue
 
+                pub_dt = parse_entry_datetime(entry)
+
                 # Strict Freshness Filter for Live Hourly Wires
                 if max_age_hours is not None:
-                    pub_dt = parse_entry_datetime(entry)
                     if pub_dt:
                         age_hours = (now_utc - pub_dt).total_seconds() / 3600.0
                         if age_hours > max_age_hours or age_hours < -0.5:
@@ -157,13 +159,20 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
                 seen_urls.add(link)
                 article_id = str(uuid.uuid5(uuid.NAMESPACE_URL, link))
                 
+                # Standardize publication timestamp to ISO 8601 UTC
+                clean_published_at = (
+                    pub_dt.isoformat()
+                    if pub_dt
+                    else (published or now_utc.isoformat())
+                )
+
                 article = RawArticle(
                     id=article_id,
                     source=feed_meta["name"],
                     url=link,
                     title=title,
                     summary_raw=summary,
-                    published_at=published,
+                    published_at=clean_published_at,
                     language=feed_meta["language"],
                     category_hint=getattr(entry, "category", None)
                 )

@@ -302,19 +302,32 @@ class CapsuleStory {
   });
 
   String get formattedPublishedTime {
-    if (publishedAt.isEmpty) return 'Today • 6:00 AM';
+    if (publishedAt.isEmpty) return 'Recent';
     try {
-      final dt = DateTime.parse(publishedAt);
-      final diff = DateTime.now().difference(dt);
-      if (diff.inMinutes < 60) {
-        return '${diff.inMinutes.clamp(1, 59)}m ago';
+      final dt = DateTime.tryParse(publishedAt);
+      if (dt == null) {
+        return publishedAt;
+      }
+      final localDt = dt.toLocal();
+      final diff = DateTime.now().difference(localDt);
+      
+      final hour = localDt.hour;
+      final minute = localDt.minute.toString().padLeft(2, '0');
+      final period = hour >= 12 ? 'PM' : 'AM';
+      final hour12 = hour == 0 ? 12 : (hour > 12 ? hour - 12 : hour);
+      final timeStr = '$hour12:$minute $period';
+
+      if (diff.isNegative || diff.inMinutes < 2) {
+        return '$timeStr (Just now)';
+      } else if (diff.inMinutes < 60) {
+        return '$timeStr (${diff.inMinutes}m ago)';
       } else if (diff.inHours < 24) {
-        return '${diff.inHours}h ago';
+        return '$timeStr (${diff.inHours}h ago)';
       } else {
-        return '${diff.inDays}d ago';
+        return '${localDt.day}/${localDt.month} $timeStr';
       }
     } catch (_) {
-      return publishedAt.contains('T') ? 'Today • 6:00 AM' : publishedAt;
+      return publishedAt;
     }
   }
 
@@ -337,7 +350,7 @@ class CapsuleStory {
       tags: parsedTags,
       imageUrl: json['image_url'] ?? json['imageUrl'] ?? '',
       imageCaption: json['image_caption'] ?? json['imageCaption'] ?? '',
-      publishedAt: json['published_at'] ?? json['publishedAt'] ?? json['created_at'] ?? '',
+      publishedAt: json['published_at'] ?? json['publishedAt'] ?? (json['daily_buzz'] is Map ? json['daily_buzz']['published_at'] : null) ?? json['created_at'] ?? '',
       isBcsProSelected: json['is_bcs_pro_selected'] ?? false,
       sources: (json['sources'] as List? ?? [])
           .map((s) => Map<String, dynamic>.from(s is Map ? s : {'name': 'Source', 'url': ''}))

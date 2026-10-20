@@ -23,7 +23,7 @@ from pipeline.run_pipeline import run_hourly_buzz
 
 def main():
     parser = argparse.ArgumentParser(description="Dorpon Daily Hourly Ingestion Worker")
-    parser.add_argument("--limit", type=int, default=4, help="Number of hourly stories to synthesize")
+    parser.add_argument("--limit", type=int, default=6, help="Number of hourly stories to synthesize")
     args = parser.parse_args()
 
     print(f"\n========================================================")

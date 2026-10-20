@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T09:24:17.010261",
-  "total_stories": 5,
+  "updated_at": "2026-10-20T09:43:20.555615",
+  "total_stories": 6,
   "stories": [
     {
       "story_id": "735fc4fe-87ce-5b1b-9b5e-87c84402ddb2",
@@ -17,6 +17,7 @@
       ],
       "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/4d0d643ba0f5a6ad64ab569377ecffae-6ad6dc7a79b57.jpg",
       "image_caption": null,
+      "published_at": "2026-10-20T03:18:47+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
@@ -28,15 +29,16 @@
       ],
       "daily_buzz": {
         "title_bn": "ফ্রান্সের সহিংসতার জন্য ম্যাক্রোঁর অভিবাসননীতিকে দায়ী করলেন ট্রাম্প",
-        "title_en": "Trump Blames Macron's Immigration Policy for Ongoing French Unrest",
-        "summary_bn": "ফ্রান্সে চলমান সহিংসতা ও দাঙ্গার জন্য দেশটির প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁর অভিবাসননীতিকে দায়ী করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। হোয়াইট হাউসের বাইরে সাংবাদিকদের সঙ্গে আলাপকালে ট্রাম্প দাবি করেন, অভিবাসীদের লাগামহীন প্রবেশের কারণে প্যারিস খুব দ্রুতই একটি মুসলিম শহরে পরিণত হতে যাচ্ছে। দেশটিতে চলমান ব্যাপক সহিংসতা ও দাঙ্গায় ইতোমধ্যে প্রায় ২ হাজার ৪০০ জনকে গ্রেফতার এবং প্রায় ১ হাজার পুলিশ কর্মকর্তা আহত হয়েছেন।",
-        "summary_en": "US President Donald Trump has blamed French President Emmanuel Macron's immigration policy for the ongoing violence and riots in France. Speaking to reporters outside the White House, Trump claimed that unchecked immigration has dramatically altered Paris's demographics, pushing it toward becoming a Muslim city. The widespread unrest has already resulted in approximately 2,400 arrests and nearly 1,000 injured police officers across various French cities.",
-        "why_it_matters_bn": "এই মন্তব্য ইউরোপীয় রাজনীতিতে অভিবাসন সংকট এবং জনমিতি নিয়ে চলমান বৈশ্বিক বিতর্ককে আরও তীব্র করে তুলেছে।",
-        "why_it_matters_en": "This rhetoric intensifies the ongoing global debate over immigration policies, border control, and socio-religious demographics in Western Europe.",
+        "title_en": "Trump Blames Macron's Immigration Policy for Ongoing Unrest in France",
+        "summary_bn": "ফ্রান্সে চলমান সহিংসতা ও দাঙ্গার জন্য দেশটির প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁর অভিবাসননীতিকে সরাসরি দায়ী করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তিনি দাবি করেন, অভিবাসীদের লাগামহীন প্রবেশের কারণে ফরাসি রাজধানীর জনমিতি বদলে গেছে এবং প্যারিস খুব দ্রুত মুসলিম শহরে পরিণত হচ্ছে। দেশটিতে চলা সহিংসতায় প্রায় ২ হাজার ৪০০ জনকে গ্রেফতার এবং প্রায় ১ হাজার পুলিশ কর্মকর্তা আহত হয়েছেন।",
+        "summary_en": "US President Donald Trump has blamed French President Emmanuel Macron's immigration policy for the ongoing violence and riots across France. Trump claimed that the unrestricted influx of immigrants has drastically altered the demographics of Paris, pushing it toward becoming a Muslim city. The nationwide unrest has resulted in approximately 2,400 arrests and nearly 1,000 injured police officers.",
+        "why_it_matters_bn": "এই মন্তব্য পশ্চিমা দেশগুলোর অভিবাসন বিতর্ক এবং অভ্যন্তরীণ নিরাপত্তার সাথে ভূরাজনৈতিক সম্পর্কের টানাপোড়েনকে নতুন করে তীব্র করে তুলেছে।",
+        "why_it_matters_en": "This statement reignites the intense geopolitical debate over Western immigration policies, national security, and diplomatic relations.",
         "interest_categories": [
           "governance_law"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:18:47+00:00"
       }
     },
     {
@@ -48,12 +50,12 @@
       ],
       "tags": [
         "#IshraqueHossain",
-        "#BangladeshPolitics",
-        "#CabinetResignation",
-        "#SocialMedia"
+        "#NusratKhan",
+        "#BangladeshPolitics"
       ],
       "image_url": null,
       "image_caption": null,
+      "published_at": "2026-10-20T03:12:07+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
@@ -64,17 +66,55 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পদত্যাগের পর ক্ষমতা নিয়ে ফেসবুকে ইশরাকপত্নী ব্যারিস্টার নুসরাতের পোস্ট",
-        "title_en": "Barrister Nusrat Khan Shares Post on 'Power' Following Ishraque's Resignation",
-        "summary_bn": "সদ্য পদত্যাগকারী মুক্তিযুদ্ধ বিষয়ক প্রতিমন্ত্রী ও ঢাকা-৬ আসনের সংসদ সদস্য ইশরাক হোসেনের পদত্যাগের পর তাঁর স্ত্রী ব্যারিস্টার নুসরাত খান সামাজিক যোগাযোগমাধ্যম ফেসবুকে একটি বার্তা দিয়েছেন। সোমবার নিজের ভেরিফায়েড অ্যাকাউন্টে তিনি মার্কিন নাগরিক অধিকার নেতা মার্টিন লুথার কিং জুনিয়রের একটি উদ্ধৃতি শেয়ার করেন। এই পোস্টটি রাজনৈতিক অঙ্গনে বিভিন্ন আলোচনার জন্ম দিয়েছে।",
-        "summary_en": "Following the resignation of State Minister for Liberation War Affairs and Dhaka-6 MP Ishraque Hossain, his wife Barrister Nusrat Khan shared a post on social media regarding 'power'. On Monday, she shared a quote by US civil rights leader Martin Luther King Jr. on her Facebook account. The post has drawn significant attention within political circles.",
-        "why_it_matters_bn": "উচ্চপর্যায়ের রাজনৈতিক পদত্যাগের পর পরিবারের সদস্যদের এমন প্রতিক্রিয়া সরকারি দলের ভেতরের রাজনৈতিক গতিপ্রকৃতি ও মানসিক অবস্থান সম্পর্কে জনমনে নতুন আলোচনার সূচনা করে।",
-        "why_it_matters_en": "Such social media reactions from family members following high-profile political resignations offer insights into the internal dynamics and psychological climate within political circles.",
+        "title_bn": "পদত্যাগের পর ক্ষমতা নিয়ে ফেসবুকে পোস্ট দিলেন ইশরাকের স্ত্রী ব্যারিস্টার নুসরাত খান",
+        "title_en": "Barrister Nusrat Khan Shares Post on 'Power' Following Husband Ishraque's Resignation",
+        "summary_bn": "সদ্য পদত্যাগকারী মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ও সংসদ সদস্য ইশরাক হোসেনের স্ত্রী ব্যারিস্টার নুসরাত খান সামাজিক যোগাযোগমাধ্যমে ক্ষমতা নিয়ে একটি পোস্ট শেয়ার করেছেন। সোমবার (১৯ অক্টোবর) নিজের ফেসবুক অ্যাকাউন্টে যুক্তরাষ্ট্রের নাগরিক অধিকার আন্দোলনের নেতা মার্টিন লুথার কিং জুনিয়রের একটি উদ্ধৃতি প্রকাশ করেন তিনি। এই পোস্টটি রাজনৈতিক মহলে নানামুখী আলোচনার জন্ম দিয়েছে।",
+        "summary_en": "Barrister Nusrat Khan, wife of recently resigned State Minister for Liberation War Affairs and MP Ishraque Hossain, has shared a social media post concerning the concept of 'power'. On Monday (October 19), she posted an English quote by US civil rights leader Martin Luther King Jr. on her Facebook account. This online activity has drawn significant attention within political circles.",
+        "why_it_matters_bn": "উচ্চপর্যায়ের রাজনৈতিক পদত্যাগের পর পরিবারের সদস্যদের এমন প্রতিক্রিয়া সরকারি দলের অভ্যন্তরীণ গতিপ্রকৃতি এবং রাজনৈতিক বার্তা বিশ্লেষণে নতুন মাত্রা যোগ করে।",
+        "why_it_matters_en": "Such public commentary by family members following high-level political resignations offers insights into shifting internal political dynamics and public perception.",
         "interest_categories": [
           "governance_law",
           "society_education"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:12:07+00:00"
+      }
+    },
+    {
+      "story_id": "b291ae5c-893a-5b35-8e5e-aea1c5669888",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#OpenJawTravel",
+        "#TourismManagement",
+        "#GlobalTravelTrends"
+      ],
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/18/d40de484c26e129be8615877ffa5d66d-6ad4c30ff40b7.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-20T03:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/journey/975330/%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8-%E0%A6%9C-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%87-%E0%A6%B0%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%A8-%E0%A6%95%E0%A6%BF",
+          "title": "ওপেন-জ: ভ্রমণের এই রহস্যময় কৌশল জানেন কি?",
+          "snippet": "ওপেন-জ: ভ্রমণের এই রহস্যময় কৌশল জানেন কি?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভ্রমণ পরিকল্পনা সহজ করতে জনপ্রিয় হচ্ছে 'ওপেন-জ' পদ্ধতি",
+        "title_en": "Open-Jaw Travel Method Gains Popularity for Efficient Itinerary Planning",
+        "summary_bn": "আধুনিক ভ্রমণব্যবস্থায় 'ওপেন-জ' পদ্ধতির মাধ্যমে পর্যটকরা একই পথে ফিরে যাওয়ার ঝামেলা এড়িয়ে ভিন্ন গন্তব্য থেকে ফেরার সুযোগ পাচ্ছেন। উদাহরণস্বরূপ, রোমে পৌঁছে ফ্রান্স ঘুরে প্যারিস থেকে দেশে ফেরার মতো পরিকল্পনা এতে সহজ হয়। ইউরোপ বা জাপানের মতো অঞ্চলে এই ব্যবস্থা সময় ও খরচ সাশ্রয়ে ভূমিকা রাখছে।",
+        "summary_en": "The modern travel concept known as 'Open-Jaw' travel allows tourists to fly into one city and depart from another, eliminating the need to return to the original arrival point. For instance, a traveler can fly into Rome, travel across cities, and depart from Paris. This method optimizes multi-destination itineraries, particularly in regions with robust rail and road networks like Europe.",
+        "why_it_matters_bn": "এই ভ্রমণপদ্ধতি পর্যটকদের ভ্রমণ সময় ও একই রুট বারবার ব্যবহারের ব্যয় কমিয়ে আরও কার্যকর ও নমনীয় পরিকল্পনা প্রণয়নে সহায়তা করে।",
+        "why_it_matters_en": "This travel methodology enhances itinerary efficiency and flexibility, allowing tourists to maximize multi-destination exposure while minimizing redundant transit time.",
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:30:00+00:00"
       }
     },
     {
@@ -84,13 +124,14 @@
         "governance_law"
       ],
       "tags": [
-        "#MiddleEastPolitics",
         "#Israel",
-        "#InternationalRelations",
-        "#Diplomacy"
+        "#MiddleEastGeopolitics",
+        "#PeteHegseth",
+        "#BenjaminNetanyahu"
       ],
       "image_url": null,
       "image_caption": null,
+      "published_at": "2026-10-20T03:13:06+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
@@ -101,89 +142,94 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলে পিট হেগসেথের গোপন সফর এবং নেতানিয়াহুর সঙ্গে বৈঠক",
-        "title_en": "Pete Hegseth Makes Secret Visit to Israel and Holds Meeting with Netanyahu",
-        "summary_bn": "ইসরায়েলের পার্লামেন্ট নেসেটের নির্বাচনের ঠিক আগে দেশটিতে এক গোপন সফর করেছেন পিট হেগসেথ। স্থানীয় সময় গত সোমবার তিনি ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর সঙ্গে একটি গুরুত্বপূর্ণ বৈঠক করেন। এই সফর মধ্যপ্রাচ্যের বর্তমান রাজনৈতিক ও ভূ-কৌশলগত প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
-        "summary_en": "Pete Hegseth undertook a secret visit to Israel ahead of the country's Knesset parliament elections. Local time on Monday, he held a high-level meeting with Israeli Prime Minister Benjamin Netanyahu. This visit is considered highly significant within the current geopolitical landscape of the Middle East.",
-        "why_it_matters_bn": "এই ধরনের উচ্চপর্যায়ের গোপন বৈঠক মধ্যপ্রাচ্যের নির্বাচনী রাজনীতি এবং আন্তর্জাতিক কূটনৈতিক সমীকরণে বড় ধরনের প্রভাব ফেলতে পারে।",
-        "why_it_matters_en": "Such high-level clandestine engagements can significantly influence Middle Eastern electoral politics and international diplomatic alignments.",
+        "title_bn": "ইসরায়েলে পিট হেগসেথের গোপন সফর ও নেতানিয়াহুর সঙ্গে বৈঠক",
+        "title_en": "Pete Hegseth Makes Secret Visit to Israel and Holds Talks with Netanyahu",
+        "summary_bn": "ইসরায়েলের নেসেট নির্বাচনের প্রাক্কালে দেশটিতে এক গোপন সফর করেছেন পিট হেগসেথ। স্থানীয় সময় গত সোমবার তিনি ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর সঙ্গে বৈঠক করেন। এই উচ্চপর্যায়ের বৈঠকটি মধ্যপ্রাচ্যের রাজনৈতিক ও কৌশলগত প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করা হচ্ছে।",
+        "summary_en": "Pete Hegseth has made a secretive visit to Israel ahead of the Knesset elections. He held a meeting with Israeli Prime Minister Benjamin Netanyahu on Monday local time. This high-level engagement comes amidst critical regional dynamics in the Middle East.",
+        "why_it_matters_bn": "এই গোপন সফর ও বৈঠক মধ্যপ্রাচ্যের বর্তমান ভূরাজনৈতিক সমীকরণ এবং দ্বিপক্ষীয় কৌশলগত সম্পর্কের ভবিষ্যৎ গতিপ্রকৃতি নির্ধারণে বড় ধরনের প্রভাব ফেলতে পারে।",
+        "why_it_matters_en": "This secret visit and high-level meeting could significantly influence the evolving geopolitical equations and strategic alignments in the Middle East.",
         "interest_categories": [
           "governance_law"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:13:06+00:00"
       }
     },
     {
-      "story_id": "f90e9a31-10bc-5d1e-b4b6-110df710024f",
+      "story_id": "afbd2af5-5fe6-5399-88ac-37fe2de7f21f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#Agriculture",
-        "#PotatoCultivation",
-        "#RuralEconomy",
-        "#Dinajpur"
+        "#BlackRice",
+        "#AgricultureDiversification",
+        "#DurgapurRajshahi",
+        "#BarindTrack",
+        "#DAE"
       ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/19/2a10edc2a303ba726db851bbfea894aa-6ad646b90ee5e.jpg",
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/19/2f2a87a6f1a388b9d6b27afa5f866e20-6ad635fd30f8b.jpg",
       "image_caption": null,
+      "published_at": "2026-10-20T03:30:00+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/975568/%E0%A6%86%E0%A6%B2%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%B8%E0%A6%BE%E0%A6%A8-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A6%BE%E0%A6%A0%E0%A7%87",
-          "title": "আলুতে গতবার লোকসান, এবার আশা নিয়ে আগেভাগেই মাঠে কৃষকরা",
-          "snippet": "আলুতে গতবার লোকসান, এবার আশা নিয়ে আগেভাগেই মাঠে কৃষকরা"
+          "url": "https://www.banglatribune.com/country/rajshahi/975557/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A6%BE%E0%A6%B7%E0%A7%87-%E0%A6%9A%E0%A6%AE%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%98%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A7%9F-%E0%A7%AD%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE",
+          "title": "প্রথমবার কালো ধান চাষে চমক, বিঘায় আয় ৭২ হাজার টাকা",
+          "snippet": "প্রথমবার কালো ধান চাষে চমক, বিঘায় আয় ৭২ হাজার টাকা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দিনাজপুরের হিলিতে গত বছরের লোকসান পুষিয়ে নিতে আগাম আলু চাষে ব্যস্ত কৃষকরা",
-        "title_en": "Farmers in Hili, Dinajpur Busy Planting Early Potatoes to Recover Previous Year's Losses",
-        "summary_bn": "গত বছরের লোকসান কাটিয়ে উঠতে দিনাজপুরের হিলির খট্টামাধবপাড়া অঞ্চলে আগাম জাতের আলু রোপণে ব্যস্ত সময় পার করছেন কৃষকরা। আবহাওয়া অনুকূলে থাকায় প্রতি বিঘাতে ৫০ থেকে ৬০ মণ ফলনের আশা করা হলেও সার, বীজ ও শ্রমিকের বাড়তি দাম নিয়ে দুশ্চিন্তায় রয়েছেন তারা। আগাম আলু উত্তোলনের পর একই জমিতে ভুট্টাসহ অন্যান্য ফসল চাষের পরিকল্পনা রয়েছে কৃষকদের।",
-        "summary_en": "Farmers in the Khattamadhabpara area of Hili, Dinajpur, are busy planting early potato varieties to recover from last year's financial losses. While favorable weather raises hopes for a yield of 50 to 60 maunds per bigha, soaring prices for fertilizer, seeds, and labor have heightened production cost concerns. Farmers plan to cultivate maize and other crops on the same land immediately after harvesting the early potatoes.",
-        "why_it_matters_bn": "উৎপাদন খরচের ঊর্ধ্বগতি কৃষকদের লাভবান হওয়ার সম্ভাবনাকে সীমিত করে তুলতে পারে, যা গ্রামীণ অর্থনীতিতে ফসলের বহুমুখীকরণ ও শস্য চক্রের ধারাবাহিকতাকে সরাসরি প্রভাবিত করে।",
-        "why_it_matters_en": "Escalating production costs threaten to erode profit margins for smallholders, directly impacting rural crop diversification and the financial viability of seasonal multi-cropping cycles.",
+        "title_bn": "রাজশাহীর দুর্গাপুরে প্রথমবারের মতো পরীক্ষামূলক কালো ধান চাষ, বিঘায় আয় ৭২ হাজার টাকার সম্ভাবনা",
+        "title_en": "First Experimental Black Rice Cultivation Begins in Durgapur, Rajshahi, Offering Bumper Yield Potential",
+        "summary_bn": "রাজশাহীর দুর্গাপুর উপজেলায় প্রথমবারের মতো পরীক্ষামূলকভাবে পুষ্টিগুণসমৃদ্ধ ‘ব্ল্যাক রাইস’ বা কালো ধান চাষ শুরু হয়েছে। দেবীপুর গ্রামের উদ্যোক্তা সোহান ও পালি গ্রামের কৃষক আবু তালেব মিলে ১৬ কাঠা ও আড়াই বিঘা জমিতে এই ধানের আবাদ করেছেন। প্রতি বিঘায় ১৬ থেকে ১৮ মণ ফলন এবং সম্ভাব্য ৬৪ থেকে ৭২ হাজার টাকা আয়ের প্রত্যাশা করা হচ্ছে।",
+        "summary_en": "Nutrient-rich 'Black Rice' cultivation has begun experimentally for the first time in Durgapur upazila of Rajshahi. Young entrepreneur Sohan and farmer Abu Taleb cultivated the crop on 16 katha and approximately 2.5 bighas of land respectively. Farmers expect a yield of 16 to 18 mounds per bigha, with a potential gross return ranging from Tk 64,000 to Tk 72,000 per bigha.",
+        "why_it_matters_bn": "উচ্চমূল্যের এই ধান চাষ সফল হলে তা বরেন্দ্র অঞ্চলের কৃষিতে ফসলের বৈচিত্র্য আনতে এবং কৃষকদের আয় উল্লেখযোগ্যভাবে বাড়াতে গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
+        "why_it_matters_en": "Successful commercial adoption of high-value black rice can drive agricultural diversification in the Barind region and enhance farmers' income.",
         "interest_categories": [
           "governance_law"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:30:00+00:00"
       }
     },
     {
-      "story_id": "604ffe7b-5bae-5cde-a267-d997b10b97c1",
+      "story_id": "32e2fae7-8f70-5626-9760-282ee5b1eeac",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#BangladeshCricket",
-        "#BCB",
-        "#TamimIqbal",
-        "#PhilSimmons",
-        "#MehidyHasan"
+        "#DigitalStorage",
+        "#TechEducation",
+        "#OperatingSystem",
+        "#ConsumerRights"
       ],
-      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/08/148598dbca9d80e53e18ba67da8803c1-6ac7861d58d40.jpg",
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/20/0e157a8114708cb3ece7b060be000971-6ad6de9ca7632.jpeg",
       "image_caption": null,
+      "published_at": "2026-10-20T03:25:27+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/975544/%E0%A6%9C%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%80-%E0%A6%9B%E0%A6%BF%E0%A6%B2",
-          "title": "জিম্বাবুয়ের কাছে হারের পর তামিমের বার্তা কী ছিল, জানালেন বাংলাদেশ কোচ",
-          "snippet": "জিম্বাবুয়ের কাছে হারের পর তামিমের বার্তা কী ছিল, জানালেন বাংলাদেশ কোচ"
+          "url": "https://www.banglatribune.com/tech-and-gadget/tech-news/975601/%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AB%E0%A7%8B%E0%A6%A8-%E0%A6%AC%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A7%87%E0%A6%9C-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%BE",
+          "title": "নতুন ফোন বা হার্ডড্রাইভে পুরো স্টোরেজ ব্যবহার করা যায় না কেন?",
+          "snippet": "নতুন ফোন বা হার্ডড্রাইভে পুরো স্টোরেজ ব্যবহার করা যায় না কেন?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জিম্বাবুয়ের কাছে হারের পর দলের পারফরম্যান্স নিয়ে বৈঠক করেছেন বিসিবি সভাপতি তামিম, আফগানিস্তান ম্যাচের আগে মেহেদীকে নিয়ে আশাবাদী কোচ",
-        "title_en": "BCB President Tamim Holds Meeting Following Loss to Zimbabwe, Coach Simmons Hopes Mehidy Will Play Against Afghanistan",
-        "summary_bn": "শারজায় ত্রিদেশীয় সিরিজে জিম্বাবুয়ের বিপক্ষে ৯৯ রানে হারের পর বাংলাদেশ দলের পারফরম্যান্স নিয়ে খেলোয়াড় ও টিম ম্যানেজমেন্টের সঙ্গে দীর্ঘ বৈঠক করেছেন বিসিবি সভাপতি তামিম ইকবাল। প্রথম ম্যাচে জ্বরে আক্রান্ত হয়ে খেলতে না পারা অলরাউন্ডার মেহেদী হাসান আফগানিস্তানের বিপক্ষে আগামী ২১ ডিসেম্বরের ম্যাচের আগে ফিট হয়ে উঠবেন বলে আশা প্রকাশ করেছেন প্রধান কোচ ফিল সিমন্স। সিমন্স আরও জানান, জিম্বাবুয়ের বিপক্ষে ব্যাটিংয়ের সময় পরিস্থিতি ঠিকভাবে অনুধাবন করতে না পারায় দলটি বড় ব্যবধানে হেরেছে।",
-        "summary_en": "Following a 99-run defeat to Zimbabwe in the ongoing tri-nation series in Sharjah, BCB President Tamim Iqbal held a lengthy meeting with players and team management regarding team performance. Bangladesh head coach Phil Simmons expressed optimism that all-rounder Mehidy Hasan, who missed the first match due to a fever, will recover in time for the crucial fixture against Afghanistan on October 21. Simmons also attributed the opening loss to the team's failure to properly assess match conditions during the batting collapse.",
-        "why_it_matters_bn": "এই ঘটনা দলের অভ্যন্তরীণ ব্যবস্থাপনা ও কৌশলগত দুর্বলতা কাটিয়ে আসন্ন আন্তর্জাতিক ম্যাচগুলোতে ঘুরে দাঁড়ানোর জরুরি প্রয়োজনীয়তা নির্দেশ করে।",
-        "why_it_matters_en": "This development highlights the urgent need to address internal management issues and strategic vulnerabilities as the team seeks a rebound in upcoming international fixtures.",
+        "title_bn": "নতুন ডিভাইসে পুরো স্টোরেজ ব্যবহার করা না যাওয়ার কারণ ব্যাখ্যা করলেন প্রযুক্তি বিশেষজ্ঞরা",
+        "title_en": "Tech Experts Explain Why Full Storage Capacity is Unavailable on New Devices",
+        "summary_bn": "নতুন হার্ডড্রাইভ, এসএসডি বা স্মার্টফোন কেনার পর বিজ্ঞাপনে উল্লিখিত স্টোরেজের পুরোটা ব্যবহার করা না যাওয়ার মূল কারণ হলো স্টোরেজ গণনার পদ্ধতির পার্থক্য এবং আগে থেকেই ইনস্টল করা অপারেটিং সিস্টেম। নির্মাতারা ডেসিমেল বা দশমিক পদ্ধতিতে ধারণক্ষমতা হিসাব করলেও উইন্ডোজের মতো অপারেটিং সিস্টেম বাইনারি পদ্ধতি ব্যবহার করায় এই তারতম্য দেখা দেয়। এছাড়া সিস্টেম ফাইল ও প্রয়োজনীয় সফটওয়্যারের জন্য ডিভাইসের মোট স্টোরেজের একটি নির্দিষ্ট অংশ সংরক্ষিত থাকে।",
+        "summary_en": "Consumers often notice that the usable storage on a newly purchased hard drive, SSD, or smartphone is less than advertised due to differences in capacity calculation methods and pre-installed operating systems. While storage manufacturers use the decimal system, operating systems like Windows use the binary system, creating a discrepancy in displayed capacity. Additionally, essential system files and pre-loaded software occupy a significant portion of the device's total storage.",
+        "why_it_matters_bn": "এই প্রযুক্তিগত পার্থক্যের বিষয়টি না জানার কারণে সাধারণ ক্রেতারা প্রায়ই ডিজিটাল ডিভাইস কেনার সময় ভুল ধারণার শিকার হন এবং প্রকৃত ব্যবহারযোগ্য স্টোরেজ সম্পর্কে সচেতন হওয়া জরুরি।",
+        "why_it_matters_en": "Understanding the technical discrepancy between advertised and usable storage helps consumers make informed purchasing decisions regarding digital devices.",
         "interest_categories": [
           "governance_law"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T03:25:27+00:00"
       }
     }
   ]

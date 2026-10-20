@@ -68,6 +68,7 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
 
         doc_ref = db.collection("daily_buzz").document(story_id)
         hourly_ref = db.collection("hourly_buzz").document(story_id)
+        pub_at = story.get("published_at") or (story.get("daily_buzz", {}) or {}).get("published_at")
         payload = {
             "story_id": story_id,
             "primary_category": story.get("primary_category", "governance_law"),
@@ -75,6 +76,7 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
             "tags": story.get("tags", []),
             "image_url": story.get("image_url"),
             "sources": story.get("sources", []),
+            "published_at": pub_at,
             "daily_buzz": story.get("daily_buzz", {}),
             "updated_at": firestore.SERVER_TIMESTAMP,
             "is_active": True

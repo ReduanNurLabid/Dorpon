@@ -58,6 +58,7 @@ class DailyBuzzItem(BaseModel):
     why_it_matters_en: str
     interest_categories: List[str]  # e.g. ["economy_business", "governance_law"]
     read_time_seconds: int = 60
+    published_at: Optional[str] = None
 
 class BcsProItem(BaseModel):
     syllabus_mapping: Optional[SyllabusMapping] = None
@@ -89,6 +90,7 @@ class CapsuleStory(BaseModel):
     tags: List[str] = []
     image_url: Optional[str] = None
     image_caption: Optional[str] = None
+    published_at: Optional[str] = None
     is_bcs_pro_selected: bool = False  # True if featured in trending capsule
     sources: List[Dict[str, str]]
     daily_buzz: DailyBuzzItem

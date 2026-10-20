@@ -315,6 +315,25 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                               ],
                             ),
                           ),
+                          const SizedBox(width: 8),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                            decoration: BoxDecoration(
+                              color: Colors.white.withValues(alpha: 0.05),
+                              borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                            ),
+                            child: Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Icon(Icons.schedule, size: 12, color: ObsidianTokens.textSecondary),
+                                const SizedBox(width: 4),
+                                Text(
+                                  story.formattedPublishedTime,
+                                  style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                                ),
+                              ],
+                            ),
+                          ),
                           const Spacer(),
                           Container(
                             padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
