@@ -172,7 +172,7 @@ def enrich_story_in_firestore(story_id: str, new_sources: List[Dict[str, Any]]) 
 
                 if added:
                     doc_ref.update({
-                        "sources": existing_sources,
+                        "sources": existing_sources[:4],
                         "updated_at": firestore.SERVER_TIMESTAMP
                     })
         return True

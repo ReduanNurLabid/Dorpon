@@ -1,76 +1,81 @@
 {
-  "updated_at": "2026-10-20T13:31:53.812187",
+  "updated_at": "2026-10-21T01:30:04.316534",
   "total_stories": 2,
   "stories": [
     {
-      "story_id": "9b4ed1ef-e0ae-58bd-ac51-d56b01a7a2c4",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fv29fo42q%2FWhatsApp-Image-2026-10-20-at-16.30.44.jpeg?rect=0%2C0%2C1384%2C727&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-20T11:05:51+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/my2e1dh2fm",
-          "title": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
-          "snippet": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
-        "title_en": "Summary: ইশরাকের অস্ত্র প্রদর্শন নিয়ে জামায়াতের আমির—‘তিনি হয়তো ভালো নিয়তে করেছেন’",
-        "summary_bn": "মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে ইশরাক হোসেনের পদত্যাগ প্রসঙ্গে জামায়াতে ইসলামীর আমির ও জাতীয় সংসদের বিরোধীদলীয় নেতা শফিকুর রহমান বলেছেন, ‘তাঁর (ইশরাক) কাজকে কেউ নেগেটিভ (নেতিবাচক) বলার সুযোগ নেই। কিন্তু একজন জনপ্রতিনিধি, একজন প্রতিমন্ত্রী এভাবে যদি প্রকাশ্য দিবালোকে অস্ত্র বহন করেন ...",
-        "summary_en": "A key domestic development that directly impacts policy, regulatory frameworks, and citizen welfare.",
-        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
-        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T11:05:51+00:00"
-      }
-    },
-    {
-      "story_id": "50079185-aa85-523b-911e-87ed0bd0659b",
+      "story_id": "cad6ac9e-2761-53d1-bff3-5d2da6b35e37",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#ForeignPolicy",
-        "#BangladeshJapan",
-        "#FDI",
-        "#EconomicDiplomacy"
+        "#ArmsAct1878",
+        "#PublicSafety",
+        "#LawEnforcement",
+        "#BangladeshLegalSystem"
       ],
-      "image_url": null,
+      "image_url": "https://cdn.banglatribune.net/contents/cache/images/1200x630x1xxxxx1/uploads/media/2026/10/17/563f0fbd5f12743ff156c930281bcd0c-6ad378940a415.jpg",
       "image_caption": null,
-      "published_at": "2026-10-20T12:08:11+00:00",
+      "published_at": "2026-10-20T17:39:36+00:00",
       "is_bcs_pro_selected": false,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/tarique-rahmans-japan-visit-potential-for-agreements-in-trade-and-other-sectors/",
-          "title": "প্রধানমন্ত্রীর জাপান সফর: বিনিয়োগ ও বিভিন্ন খাতে চুক্তির সম্ভাবনা",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফর: বিনিয়োগ ও বিভিন্ন খাতে চুক্তির সম্ভাবনা"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/975767/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8-%E0%A6%93",
+          "title": "অস্ত্রের লাইসেন্স থাকলেই প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া যায়?",
+          "snippet": "অস্ত্রের লাইসেন্স থাকলেই প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া যায়?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান, দ্বিপক্ষীয় বৈঠকে জোর পাবে বাণিজ্য ও বিনিয়োগ",
-        "title_en": "Prime Minister Tarique Rahman to Visit Tokyo for Bilateral Talks on Trade and Investment",
-        "summary_bn": "জাপানের সঙ্গে একাধিক সমঝোতা স্মারক স্বাক্ষর এবং নতুন বিনিয়োগের সম্ভাবনা কাজে লাগানোর লক্ষ্যে টোকিও সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান। আগামী ২৭ অক্টোবর জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির সঙ্গে তার দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হওয়ার কথা রয়েছে। সফরে বাংলাদেশে জাপানি কারখানা স্থাপন, কর্মসংস্থান সৃষ্টি এবং চলমান উন্নয়ন প্রকল্পের গতি বাড়ানোর বিষয়গুলো প্রাধান্য পাবে।",
-        "summary_en": "Prime Minister Tarique Rahman is scheduled to visit Tokyo to sign multiple memorandums of understanding and harness new investment opportunities with Japan. During the visit, he will hold a bilateral meeting with Japanese Prime Minister Sanae Takaichi on October 27. The discussions will emphasize establishing Japanese manufacturing plants in Bangladesh, creating employment, expanding trade, and accelerating ongoing development projects.",
-        "why_it_matters_bn": "এই সফর বাংলাদেশ ও জাপানের মধ্যে অর্থনৈতিক অংশীদারিত্ব জোরদার করতে এবং বৈদেশিক সরাসরি বিনিয়োগ আকৃষ্ট করতে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
-        "why_it_matters_en": "This high-level visit serves as a crucial catalyst for strengthening bilateral economic ties and attracting vital foreign direct investment from Japan to accelerate Bangladesh's industrial growth.",
+        "title_bn": "বৈধ অস্ত্রের লাইসেন্স থাকলেও প্রকাশ্যে প্রদর্শন ও হুমকি দেওয়া শাস্তিযোগ্য অপরাধ: আইনি ব্যাখ্যা",
+        "title_en": "Having a Firearm License Does Not Permit Public Display or Intimidation: Legal Experts",
+        "summary_bn": "আইনগত বৈধতা থাকলেও নির্দিষ্ট শর্ত লঙ্ঘন করে জনসমক্ষে আগ্নেয়াস্ত্র প্রদর্শন বা কাউকে হুমকি দেওয়া সম্পূর্ণ বেআইনি ও দণ্ডনীয় অপরাধ। ১৮৭৮ সালের অস্ত্র আইন এবং ঢাকা মেট্রোপলিটন পুলিশ অধ্যাদেশের বিধান অনুযায়ী, অস্ত্রের লাইসেন্স থাকলেও জননিরাপত্তা ও নির্ধারিত চলাচলের শর্ত মানতে বাধ্য লাইসেন্সধারীরা। সুপ্রিম কোর্টের আইনজীবীরা বলছেন, শুধু ব্যক্তিগত নিরাপত্তার জন্য অস্ত্র ব্যবহারের সুযোগ থাকলেও এর অপব্যবহারের ক্ষেত্রে কারাদণ্ড বা অর্থদণ্ডের বিধান রয়েছে।",
+        "summary_en": "Possessing a legal firearm license does not grant the right to publicly display the weapon or intimidate others under any circumstances. According to the Arms Act of 1878 and the Dhaka Metropolitan Police Ordinance, license holders must strictly adhere to statutory conditions, movement restrictions, and public safety regulations. Supreme Court legal experts emphasize that firearms are strictly for self-defense, and violating statutory limitations entails imprisonment and fines.",
+        "why_it_matters_bn": "এই আইনি ব্যাখ্যা জননিরাপত্তা নিশ্চিত করতে এবং লাইসেন্সকৃত অস্ত্রের অবৈধ প্রদর্শন ও বলপ্রয়োগ রোধে কঠোর প্রশাসনিক নজরদারির প্রয়োজনীয়তা তুলে ধরে।",
+        "why_it_matters_en": "This legal clarification underscores the necessity of strict administrative oversight to curb the illegal public display of licensed firearms and ensure public security.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T12:08:11+00:00"
+        "published_at": "2026-10-20T17:39:36+00:00"
+      }
+    },
+    {
+      "story_id": "c9a0fc29-d433-545f-b76c-8da42ecb9791",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#ForeignPolicy",
+        "#IndiaUSRelations",
+        "#Geopolitics",
+        "#DefenseCooperation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T19:02:25+00:00",
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/811sngh76l",
+          "title": "ভারতে জয়শঙ্কর-রুবিও দ্বিপক্ষীয় বৈঠক, গুরুত্ব পেল জ্বালানি ও প্রতিরক্ষা সহযোগিতা",
+          "snippet": "ভারতে জয়শঙ্কর-রুবিও দ্বিপক্ষীয় বৈঠক, গুরুত্ব পেল জ্বালানি ও প্রতিরক্ষা সহযোগিতা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মুম্বাইয়ে জয়শঙ্কর ও মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিওর দ্বিপক্ষীয় বৈঠক",
+        "title_en": "Jaishankar and US Secretary of State Marco Rubio Hold Bilateral Talks in Mumbai",
+        "summary_bn": "ভারতের পররাষ্ট্রমন্ত্রী এস জয়শঙ্কর এবং মার্কিন পররাষ্ট্রমন্ত্রী মার্কো রুবিও মুম্বাইয়ে এক দ্বিপক্ষীয় বৈঠকে মিলিত হয়েছেন। বৈঠকে জ্বালানি ও প্রতিরক্ষা সহযোগিতার পাশাপাশি সংযুক্ত আরব আমিরাতকে সঙ্গে নিয়ে একটি ত্রিপক্ষীয় অংশীদারত্ব গড়ে তোলার বিষয়টি বিশেষ গুরুত্ব পেয়েছে। আঞ্চলিক ও বৈশ্বিক ভূরাজনীতিতে এই সহযোগিতাকে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন বিশ্লেষকরা।",
+        "summary_en": "Indian External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio held a bilateral meeting in Mumbai. The discussions placed significant emphasis on energy and defense cooperation, alongside a trilateral partnership involving the United Arab Emirates. This diplomatic engagement highlights deepening strategic alignment between New Delhi and Washington in regional geopolitics.",
+        "why_it_matters_bn": "এই বৈঠক ভারত ও যুক্তরাষ্ট্রের মধ্যকার কৌশলগত অংশীদারত্বকে আরও সুদৃঢ় করবে এবং জ্বালানি ও প্রতিরক্ষা খাতে আঞ্চলিক নিরাপত্তা স্থাপত্যে দীর্ঘমেয়াদী প্রভাব ফেলবে।",
+        "why_it_matters_en": "This meeting reinforces the strategic partnership between India and the United States, carrying long-term implications for regional security architecture in energy and defense sectors.",
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T19:02:25+00:00"
       }
     }
   ]

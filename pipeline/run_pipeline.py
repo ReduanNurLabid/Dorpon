@@ -13,7 +13,7 @@ from pipeline.collectors.rss_fetcher import fetch_rss_candidates
 from pipeline.collectors.article_scraper import scrape_article_body, scrape_article_details
 from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
 from pipeline.processing.selector import select_stories_for_audiences
-from pipeline.processing.synthesizer import synthesize_story_with_ai
+from pipeline.processing.synthesizer import synthesize_story_with_ai, build_clean_sources
 from pipeline.models import DailyCapsule, CapsuleStory
 from pipeline.storage.firebase_service import (
     push_hourly_buzz_to_firestore,
@@ -133,10 +133,10 @@ def run_hourly_buzz(limit: int = 8):
         if matched_hist:
             hist_id = matched_hist.get("story_id")
             hist_title = (matched_hist.get("daily_buzz") or {}).get("title_en") or hist_id
-            new_sources = [{"name": a.source_name, "url": a.url} for a in cluster.articles]
+            new_sources = build_clean_sources(cluster.articles)
             
             print(f"   🔄 Story already covered: '{cluster.primary_title[:50]}'")
-            print(f"      Enriching existing story [{hist_id}] with new sources: {[s['name'] for s in new_sources]}")
+            print(f"      Enriching existing story [{hist_id}] with new sources: {[s.get('name') for s in new_sources]}")
             enrich_story_in_firestore(hist_id, new_sources)
             continue
 
