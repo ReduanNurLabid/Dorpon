@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-10-20T07:45:00+06:00",
+  "curated": [
+    {
+      "selected_title": "Confidence Power to raise Tk 400cr for solar projects and debt settlement",
+      "category": "Economy",
+      "source_outlet": "The Daily Star Business",
+      "target_url": "https://www.thedailystar.net/business/economy/news/confidence-power-raise-tk-400cr-4302881",
+      "editorial_reason": "Crucial for candidates tracking Bangladesh's capital market expansion, private sector financing, and the critical transition toward renewable energy infrastructure.",
+      "key_angle": "Confidence Power is turning to a public offering to fund grid-tied solar initiatives and restructure balance sheets."
+    },
+    {
+      "selected_title": "China pulls out of $392m Sri Lanka port logistics venture",
+      "category": "Geopolitics",
+      "source_outlet": "The Daily Star Business",
+      "target_url": "https://www.thedailystar.net/business/global-economy/news/china-pulls-out-sri-lanka-port-logistics-venture-4302886",
+      "editorial_reason": "Vital for international affairs and foreign policy preparation, reflecting shifts in regional infrastructure funding and Chinese strategic investments in South Asia.",
+      "key_angle": "A state-owned Chinese enterprise has withdrawn from a major port logistics hub project at Sri Lanka's primary seaport."
+    },
+    {
+      "selected_title": "Curfew imposed in parts of central Paris following widespread rioting across France",
+      "category": "Geopolitics",
+      "source_outlet": "BBC World News",
+      "target_url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "editorial_reason": "Essential for global current affairs, highlighting major European internal security crises and governance challenges in Western democracies.",
+      "key_angle": "Emergency curfews implemented after interior ministry admissions of lost security control in multiple French cities."
+    }
+  ],
+  "scraped": [
+    {
+      "title": "Confidence Power to raise Tk 400cr for solar projects and debt settlement",
+      "category": "Economy",
+      "outlet": "The Daily Star Business",
+      "url": "https://www.thedailystar.net/business/economy/news/confidence-power-raise-tk-400cr-4302881",
+      "og_image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Investing%20in%20Cleaner%20Power.png",
+      "clean_paragraphs": [
+        "Copyright: Any unauthorized use or reproduction of The Daily Star content for commercial purposesis strictly prohibited and constitutes copyright infringement liable to legal action.",
+        "Confidence Power and Energy PLC, a concern of Confidence Group, plans to raise Tk 400 crore through a public offering to fund two major grid-tied solar power projects and partially settle existing debts.",
+        "It has already held its IPO (initial public offering) roadshow at the Radisson Blu Water Garden Hotel in Dhaka on October 18, which brought together institutional investors, capital market stakeholders and industry representatives to discuss the company’s financial performance, operational footprint and future growth strategy.",
+        "For both proposed 100-megawatt (AC) solar projects, the company has already secured 20-year power supply agreements with the Bangladesh Power Development Board (BPDB), starting from their respective commercial operation dates."
+      ],
+      "scraped_status": "SUCCESS",
+      "http_status": 200
+    },
+    {
+      "title": "China pulls out of $392m Sri Lanka port logistics venture",
+      "category": "Geopolitics",
+      "outlet": "The Daily Star Business",
+      "url": "https://www.thedailystar.net/business/global-economy/news/china-pulls-out-sri-lanka-port-logistics-venture-4302886",
+      "og_image": null,
+      "clean_paragraphs": [
+        "Copyright: Any unauthorized use or reproduction of The Daily Star content for commercial purposesis strictly prohibited and constitutes copyright infringement liable to legal action.",
+        "A Chinese state-owned firm has withdrawn from a $392 million joint venture to develop a major logistics hub at Sri Lanka’s main seaport, the key local partner said Monday.",
+        "The Sri Lanka Ports Authority (SLPA) said China Merchants Port Holdings had decided not to proceed with the collaboration announced in 2023, but the project would continue.",
+        "“Following an assessment of the prevailing external circumstances, commercial considerations and the interests of the respective shareholders, a decision was reached not to proceed with the proposed joint venture,” the SLPA said in a statement."
+      ],
+      "scraped_status": "SUCCESS",
+      "http_status": 200
+    },
+    {
+      "title": "Curfew imposed in parts of central Paris following widespread rioting across France",
+      "category": "Geopolitics",
+      "outlet": "BBC World News",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4a4/live/f9b4b1d0-cc1e-11f1-94fe-b94794c2a157.jpg",
+      "clean_paragraphs": [
+        "Are the riots in France a warning of an intense election to come?",
+        "French authorities have imposed overnight curfews in parts of central Paris and other cities after a weekend of riots and looting across the country.",
+        "Police in Paris said a curfew would be in force between 23:00 local time (21:00 GMT) and 06:00 in Place de la République, where protesters had gathered over the weekend, and the Les Halles shopping area.",
+        "A ban on unauthorised gatherings has also been imposed in several other parts of the city centre."
+      ],
+      "scraped_status": "SUCCESS",
+      "http_status": 200
+    }
+  ]
+}

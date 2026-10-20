@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Dorpon - The Reader &amp; Study Canvas</title>
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Material Symbols -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "tertiary": "#ffd165",
+            "secondary-fixed": "#d0e8dd",
+            "on-secondary-container": "#a6beb3",
+            "inverse-surface": "#e0e3e1",
+            "outline-variant": "#3c4a42",
+            "primary": "#5af0b3",
+            "primary-container": "#34d399",
+            "surface-variant": "#323634",
+            "secondary": "#b4ccc1",
+            "on-surface": "#e0e3e1",
+            "surface-container-highest": "#323634",
+            "primary-fixed-dim": "#45dfa4",
+            "on-tertiary": "#3f2e00",
+            "on-primary-container": "#00563b",
+            "surface-container-lowest": "#0b0f0e",
+            "surface-dim": "#101413",
+            "on-primary-fixed-variant": "#005137",
+            "inverse-on-surface": "#2d3130",
+            "on-surface-variant": "#bbcac0",
+            "on-tertiary-fixed-variant": "#5a4300",
+            "on-error-container": "#ffdad6",
+            "inverse-primary": "#006c4b",
+            "primary-fixed": "#68fcbf",
+            "secondary-container": "#384d45",
+            "surface": "#101413",
+            "surface-container-high": "#272b2a",
+            "surface-bright": "#363a39",
+            "on-error": "#690005",
+            "surface-container": "#1c201f",
+            "on-secondary-fixed": "#0a1f19",
+            "background": "#101413",
+            "on-primary": "#003825",
+            "secondary-fixed-dim": "#b4ccc1",
+            "error-container": "#93000a",
+            "surface-container-low": "#181c1b",
+            "tertiary-fixed-dim": "#f7be1d",
+            "outline": "#85948b",
+            "on-secondary-fixed-variant": "#364b43",
+            "on-primary-fixed": "#002114",
+            "error": "#ffb4ab",
+            "on-tertiary-container": "#604700",
+            "tertiary-fixed": "#ffdf9a",
+            "on-background": "#e0e3e1",
+            "surface-tint": "#45dfa4",
+            "tertiary-container": "#eab308",
+            "on-secondary": "#20342d",
+            "on-tertiary-fixed": "#251a00"
+          },
+          "borderRadius": {
+            "DEFAULT": "1rem",
+            "lg": "2rem",
+            "xl": "3rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-xs": "0.25rem",
+            "space-lg": "1.5rem",
+            "gutter": "1rem",
+            "space-md": "1rem",
+            "margin": "2rem",
+            "gutter-mobile": "0.75rem",
+            "space-sm": "0.5rem",
+            "space-xl": "2rem",
+            "margin-mobile": "1.25rem"
+          },
+          "fontFamily": {
+            "label-sm": ["Plus Jakarta Sans"],
+            "headline-sm": ["Plus Jakarta Sans"],
+            "headline-lg": ["Plus Jakarta Sans"],
+            "body-sm": ["Plus Jakarta Sans"],
+            "label-xs": ["Plus Jakarta Sans"],
+            "label-md": ["Plus Jakarta Sans"],
+            "body-md": ["Plus Jakarta Sans"],
+            "headline-md": ["Plus Jakarta Sans"],
+            "body-lg": ["Plus Jakarta Sans"],
+            "headline-xl": ["Plus Jakarta Sans"],
+            "headline-xl-mobile": ["Plus Jakarta Sans"]
+          },
+          "fontSize": {
+            "label-sm": ["12px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "500" }],
+            "headline-sm": ["17px", { "lineHeight": "22px", "letterSpacing": "-0.01em", "fontWeight": "500" }],
+            "headline-lg": ["26px", { "lineHeight": "32px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+            "body-sm": ["13px", { "lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "400" }],
+            "label-xs": ["11px", { "lineHeight": "14px", "letterSpacing": "0.025em", "fontWeight": "500" }],
+            "label-md": ["14px", { "lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "500" }],
+            "body-md": ["15px", { "lineHeight": "22px", "letterSpacing": "0em", "fontWeight": "400" }],
+            "headline-md": ["20px", { "lineHeight": "26px", "letterSpacing": "-0.015em", "fontWeight": "500" }],
+            "body-lg": ["17px", { "lineHeight": "26px", "letterSpacing": "-0.005em", "fontWeight": "400" }],
+            "headline-xl": ["40px", { "lineHeight": "46px", "letterSpacing": "-0.03em", "fontWeight": "600" }],
+            "headline-xl-mobile": ["30px", { "lineHeight": "36px", "letterSpacing": "-0.025em", "fontWeight": "600" }]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    body {
+      background-color: #0A0E0D;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+    }
+    .ambient-glow {
+      background: radial-gradient(circle at 50% 0%, rgba(17, 38, 31, 0.75) 0%, rgba(10, 14, 13, 0) 70%);
+    }
+    .frosted-glass-l1 {
+      background: rgba(255, 255, 255, 0.035);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    .frosted-glass-pill {
+      background: rgba(255, 255, 255, 0.04);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .frosted-bottom-dock {
+      background: rgba(17, 38, 31, 0.55);
+      backdrop-filter: blur(40px) saturate(140%);
+      -webkit-backdrop-filter: blur(40px) saturate(140%);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-surface-container-lowest text-on-surface antialiased min-h-screen flex justify-center selection:bg-primary/20 selection:text-primary">
+<!-- Mobile Viewport Canvas Container (iPhone 16 Pro 393px constraint) -->
+<div class="relative w-full max-w-[393px] min-h-screen bg-[#0A0E0D] overflow-hidden flex flex-col justify-between">
+<!-- Atmospheric Ambient Backlight -->
+<div class="absolute top-0 left-0 right-0 h-[420px] ambient-glow pointer-events-none"></div>
+<!-- Status Bar Safe Space (iOS Dynamic Island Area) -->
+<header class="w-full relative z-20 pt-3 px-6 flex justify-between items-center text-on-surface-variant">
+<span class="font-label-xs text-label-xs font-semibold tracking-tight text-on-surface">9:41</span>
+<div class="flex items-center space-x-1.5 opacity-80">
+<span class="material-symbols-outlined text-[14px]">signal_cellular_alt</span>
+<span class="material-symbols-outlined text-[14px]">wifi</span>
+<span class="material-symbols-outlined text-[16px]">battery_full</span>
+</div>
+</header>
+<!-- Top Navigation Bar (Reader Context) -->
+<nav class="relative z-20 w-full px-5 pt-3 pb-2 flex justify-between items-center bg-transparent backdrop-blur-md">
+<!-- Back Chevron -->
+<button aria-label="Go back" class="w-9 h-9 rounded-full frosted-glass-pill flex items-center justify-center text-on-surface active:scale-95 transition-transform">
+<span class="material-symbols-outlined text-[19px]">arrow_back</span>
+</button>
+<!-- Center Meta Anchor -->
+<div class="text-center">
+<span class="font-label-sm text-label-sm tracking-wide text-on-surface-variant font-medium">Daily Brief • Oct 19</span>
+</div>
+<!-- Right Trailing Actions -->
+<div class="flex items-center space-x-2">
+<button aria-label="Bookmark" class="w-9 h-9 rounded-full frosted-glass-pill flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors active:scale-95">
+<span class="material-symbols-outlined text-[19px]">bookmark</span>
+</button>
+<button aria-label="Share" class="w-9 h-9 rounded-full frosted-glass-pill flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors active:scale-95">
+<span class="material-symbols-outlined text-[18px]">share</span>
+</button>
+</div>
+</nav>
+<!-- Main Scrollable Canvas with 40%+ Breathing Room -->
+<main class="relative z-10 flex-1 px-5 pt-6 pb-28 space-y-7 overflow-y-auto no-scrollbar">
+<!-- Header Section: Category & Headline -->
+<section class="space-y-3.5">
+<!-- Delicate Category Pill -->
+<div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full frosted-glass-pill">
+<span class="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
+<span class="font-label-xs text-label-xs text-primary font-medium tracking-wide">Economy &amp; Monetary Policy</span>
+</div>
+<!-- Article Main Title -->
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-on-surface font-medium leading-[1.38] tracking-tight">
+          Central Bank Announces Fresh Repo Rate Adjustment to 10.00%
+        </h1>
+<!-- Quiet Meta Line -->
+<div class="pt-1 flex items-center gap-2">
+<span class="font-label-sm text-label-sm text-outline font-normal">
+            Updated 6:00 AM • Curated by Dorpon Editorial
+          </span>
+</div>
+</section>
+<!-- Expandable BCS Study Bento Tiles -->
+<section class="space-y-2.5">
+<div class="flex items-center justify-between px-1">
+<span class="font-label-xs text-label-xs text-outline uppercase tracking-wider font-semibold">Macro Snapshot</span>
+<span class="font-label-xs text-label-xs text-primary/80 font-medium">Auto-Synced BBS</span>
+</div>
+<div class="grid grid-cols-2 gap-3">
+<!-- Left Metric Tile -->
+<div class="frosted-glass-l1 rounded-[24px] p-4 flex flex-col justify-between h-[106px] transition-all hover:border-white/15">
+<span class="font-label-sm text-label-sm text-outline font-normal">Inflation (BBS)</span>
+<div class="flex items-baseline gap-1.5">
+<span class="font-headline-lg text-headline-lg text-on-surface tracking-tight font-medium text-emerald-50">9.92%</span>
+<span class="material-symbols-outlined text-[15px] text-primary">trending_up</span>
+</div>
+</div>
+<!-- Right Metric Tile -->
+<div class="frosted-glass-l1 rounded-[24px] p-4 flex flex-col justify-between h-[106px] transition-all hover:border-white/15">
+<span class="font-label-sm text-label-sm text-outline font-normal">Forex Reserves</span>
+<div class="flex items-baseline gap-1.5">
+<span class="font-headline-lg text-headline-lg text-on-surface tracking-tight font-medium text-emerald-50">$24.8B</span>
+<span class="font-label-xs text-label-xs text-outline font-normal">(BPM6)</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Constitutional Link Container -->
+<section class="frosted-glass-l1 rounded-[24px] p-5 space-y-3.5 border border-white/[0.07]">
+<div class="flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-[18px] text-primary">account_balance</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface font-medium">Constitutional Link</h2>
+</div>
+<span class="font-label-xs text-label-xs text-outline font-normal">Part II &amp; Part VI</span>
+</div>
+<!-- Constitutional Pills -->
+<div class="flex flex-wrap gap-2 pt-0.5">
+<div class="px-3 py-1 rounded-full bg-white/[0.03] border border-white/[0.09] flex items-center gap-1.5">
+<span class="w-1 h-1 rounded-full bg-primary/70"></span>
+<span class="font-label-xs text-label-xs text-on-surface-variant font-medium">Article 15 (Basic Needs)</span>
+</div>
+<div class="px-3 py-1 rounded-full bg-white/[0.03] border border-white/[0.09] flex items-center gap-1.5">
+<span class="w-1 h-1 rounded-full bg-primary/70"></span>
+<span class="font-label-xs text-label-xs text-on-surface-variant font-medium">Article 102 (Judicial Review)</span>
+</div>
+</div>
+<!-- Quiet Editorial Summary Text -->
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-relaxed pt-1">
+          Tightening monetary conditions directly intersects the state’s fundamental obligation to secure necessities under Art. 15, influencing public procurement and regulatory safeguards.
+        </p>
+</section>
+<!-- Written Exam & Past Questions (Minimal Accordion) -->
+<section class="frosted-glass-l1 rounded-[24px] p-5 space-y-3.5 border border-white/[0.07]">
+<div class="flex items-center justify-between">
+<span class="font-label-xs text-label-xs text-tertiary font-medium tracking-wide">
+            BPSC Written Focus • 15 Marks
+          </span>
+<span class="font-label-xs text-label-xs text-outline">Paper IV</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface leading-relaxed font-normal">
+          Critically analyze the monetary policy transmission mechanism in controlling inflation in Bangladesh.
+        </p>
+<!-- Subdued Expandable Trigger Row -->
+<button class="w-full pt-2 flex items-center justify-between text-outline hover:text-on-surface transition-colors group">
+<span class="font-label-sm text-label-sm text-on-surface-variant group-hover:text-on-surface transition-colors">
+            View model outline &amp; 2 related past questions (44th, 41st BCS)
+          </span>
+<span class="material-symbols-outlined text-[18px] text-outline group-hover:translate-y-0.5 transition-transform">
+            expand_more
+          </span>
+</button>
+</section>
+<!-- Decompression Breathing Space -->
+<div class="h-6"></div>
+</main>
+<!-- Detached Floating Navigation Dock (BottomNavBar Component from Design System) -->
+<nav class="fixed bottom-6 left-0 right-0 z-50 flex justify-around items-center px-6 py-3.5 max-w-xs mx-auto rounded-full frosted-bottom-dock">
+<!-- Home -->
+<a aria-label="Home" class="flex items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-[22px]">home</span>
+</a>
+<!-- Explore -->
+<a aria-label="Explore" class="flex items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-[22px]">explore</span>
+</a>
+<!-- Bookmark (Active: Canvas Reader / Saved Deep Dive) -->
+<a aria-label="Bookmarks" class="flex items-center justify-center text-primary relative after:content-[''] after:absolute after:-bottom-1 after:w-1 after:h-1 after:bg-primary after:rounded-full active:scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-[22px]" style="font-variation-settings: 'FILL' 1;">bookmark</span>
+</a>
+<!-- Person Profile -->
+<a aria-label="Profile" class="flex items-center justify-center text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity active:scale-90 transition-transform duration-150" href="#">
+<span class="material-symbols-outlined text-[22px]">person</span>
+</a>
+</nav>
+<!-- iOS Home Indicator Pill -->
+<div class="w-full flex justify-center pb-2 pt-1 pointer-events-none relative z-40">
+<div class="w-32 h-1 bg-white/20 rounded-full"></div>
+</div>
+</div>
+</body></html>

@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<title>Dorpon - The Morning Home</title>
+<!-- Fonts & Icons -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "tertiary": "#ffd165",
+            "secondary-fixed": "#d0e8dd",
+            "on-secondary-container": "#a6beb3",
+            "inverse-surface": "#e0e3e1",
+            "outline-variant": "#3c4a42",
+            "primary": "#5af0b3",
+            "primary-container": "#34d399",
+            "surface-variant": "#323634",
+            "secondary": "#b4ccc1",
+            "on-surface": "#e0e3e1",
+            "surface-container-highest": "#323634",
+            "primary-fixed-dim": "#45dfa4",
+            "on-tertiary": "#3f2e00",
+            "on-primary-container": "#00563b",
+            "surface-container-lowest": "#0b0f0e",
+            "surface-dim": "#101413",
+            "on-primary-fixed-variant": "#005137",
+            "inverse-on-surface": "#2d3130",
+            "on-surface-variant": "#bbcac0",
+            "on-tertiary-fixed-variant": "#5a4300",
+            "on-error-container": "#ffdad6",
+            "inverse-primary": "#006c4b",
+            "primary-fixed": "#68fcbf",
+            "secondary-container": "#384d45",
+            "surface": "#101413",
+            "surface-container-high": "#272b2a",
+            "surface-bright": "#363a39",
+            "on-error": "#690005",
+            "surface-container": "#1c201f",
+            "on-secondary-fixed": "#0a1f19",
+            "background": "#101413",
+            "on-primary": "#003825",
+            "secondary-fixed-dim": "#b4ccc1",
+            "error-container": "#93000a",
+            "surface-container-low": "#181c1b",
+            "tertiary-fixed-dim": "#f7be1d",
+            "outline": "#85948b",
+            "on-secondary-fixed-variant": "#364b43",
+            "on-primary-fixed": "#002114",
+            "error": "#ffb4ab",
+            "on-tertiary-container": "#604700",
+            "tertiary-fixed": "#ffdf9a",
+            "on-background": "#e0e3e1",
+            "surface-tint": "#45dfa4",
+            "tertiary-container": "#eab308",
+            "on-secondary": "#20342d",
+            "on-tertiary-fixed": "#251a00"
+          },
+          borderRadius: {
+            "DEFAULT": "1rem",
+            "lg": "2rem",
+            "xl": "3rem",
+            "full": "9999px"
+          },
+          fontFamily: {
+            "label-sm": ["Plus Jakarta Sans"],
+            "headline-sm": ["Plus Jakarta Sans"],
+            "headline-lg": ["Plus Jakarta Sans"],
+            "body-sm": ["Plus Jakarta Sans"],
+            "label-xs": ["Plus Jakarta Sans"],
+            "label-md": ["Plus Jakarta Sans"],
+            "body-md": ["Plus Jakarta Sans"],
+            "headline-md": ["Plus Jakarta Sans"],
+            "body-lg": ["Plus Jakarta Sans"],
+            "headline-xl": ["Plus Jakarta Sans"],
+            "headline-xl-mobile": ["Plus Jakarta Sans"]
+          },
+          fontSize: {
+            "label-sm": ["12px", { lineHeight: "16px", letterSpacing: "0.02em", fontWeight: "500" }],
+            "headline-sm": ["17px", { lineHeight: "22px", letterSpacing: "-0.01em", fontWeight: "500" }],
+            "headline-lg": ["26px", { lineHeight: "32px", letterSpacing: "-0.02em", fontWeight: "600" }],
+            "body-sm": ["13px", { lineHeight: "18px", letterSpacing: "0.01em", fontWeight: "400" }],
+            "label-xs": ["11px", { lineHeight: "14px", letterSpacing: "0.025em", fontWeight: "500" }],
+            "label-md": ["14px", { lineHeight: "18px", letterSpacing: "0.01em", fontWeight: "500" }],
+            "body-md": ["15px", { lineHeight: "22px", letterSpacing: "0em", fontWeight: "400" }],
+            "headline-md": ["20px", { lineHeight: "26px", letterSpacing: "-0.015em", fontWeight: "500" }],
+            "body-lg": ["17px", { lineHeight: "26px", letterSpacing: "-0.005em", fontWeight: "400" }],
+            "headline-xl": ["40px", { lineHeight: "46px", letterSpacing: "-0.03em", fontWeight: "600" }],
+            "headline-xl-mobile": ["30px", { lineHeight: "36px", letterSpacing: "-0.025em", fontWeight: "600" }]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    .material-symbols-outlined.fill {
+      font-variation-settings: 'FILL' 1, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+    }
+    /* Hide scrollbars for ultra-minimalist horizontal carousel */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+  </style>
+<style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head>
+<body class="bg-[#0A0E0D] text-on-surface antialiased selection:bg-primary-container selection:text-on-primary-container min-h-screen flex justify-center items-center">
+<!-- Mobile Screen Frame (iPhone 16 Pro Dimensions: 393 x 852 pt) -->
+<main class="w-[393px] h-[852px] bg-[#0A0E0D] text-on-surface relative overflow-hidden flex flex-col justify-between shadow-[0_0_80px_rgba(0,0,0,0.8)] border border-white/5 select-none">
+<!-- Atmospheric Ambient Diffused Forest/Emerald Glow -->
+<div class="absolute -top-16 left-1/2 -translate-x-1/2 w-[380px] h-[340px] bg-gradient-to-b from-[#11261F] via-[#0E2019]/60 to-transparent rounded-full blur-[72px] pointer-events-none opacity-80"></div>
+<div class="absolute top-28 left-1/2 -translate-x-1/2 w-[220px] h-[180px] bg-primary-container/10 rounded-full blur-[50px] pointer-events-none"></div>
+<!-- Top Safe Area Bar (Simulated Status Bar) -->
+<header class="w-full z-40 pt-3 px-7 flex justify-between items-center text-on-surface-variant font-label-xs text-label-xs opacity-70">
+<span>9:41</span>
+<div class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[14px]">signal_cellular_4_bar</span>
+<span class="material-symbols-outlined text-[14px]">wifi</span>
+<span class="material-symbols-outlined text-[16px]">battery_full</span>
+</div>
+</header>
+<!-- TopAppBar Component (from JSON specification) -->
+<div class="flex justify-between items-center w-full px-5 pt-3 pb-2 bg-transparent dark:bg-transparent bg-transparent backdrop-blur-md flat no shadows z-30">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-primary text-[20px] transition-transform duration-300 hover:rotate-12 cursor-pointer" data-icon="sparkles">arrow_back_ios_new</span>
+<h1 class="text-headline-md font-headline-md font-semibold tracking-tight text-on-surface dark:text-on-surface">Dorpon</h1>
+</div>
+<button aria-label="Menu" class="w-10 h-10 rounded-full flex items-center justify-center bg-white/[0.06] border border-white/[0.08] text-on-surface hover:bg-surface-variant/40 dark:hover:bg-surface-variant/40 transition-colors active:scale-95 duration-200 backdrop-blur-sm">
+<span class="material-symbols-outlined text-[18px] text-on-surface" data-icon="menu">menu</span>
+</button>
+</div>
+<!-- Scrollable Content Canvas with 40%+ Breathing Room -->
+<div class="flex-1 overflow-y-auto no-scrollbar relative z-20 flex flex-col justify-start pb-28">
+<!-- Hero Section -->
+<section class="px-6 pt-5 pb-6 text-center flex flex-col items-center">
+<!-- Date Meta -->
+<span class="text-on-surface-variant font-label-sm text-label-sm tracking-wide opacity-80 mb-2.5">
+          Daily Brief • Monday, Oct 19
+        </span>
+<!-- Hero Greeting with subtle radiant illumination -->
+<h2 class="text-white font-headline-xl-mobile text-headline-xl-mobile font-semibold tracking-tight mb-5 drop-shadow-[0_4px_16px_rgba(0,0,0,0.4)]">
+          Good Morning, Asif
+        </h2>
+<!-- Interactive Audio Pill Action -->
+<button class="group inline-flex items-center gap-2.5 px-5 py-2.5 rounded-full bg-white/[0.08] hover:bg-white/[0.12] border border-white/[0.12] shadow-[0_8px_20px_rgba(0,0,0,0.3)] backdrop-blur-xl active:scale-95 transition-all duration-200 hover:border-primary-container/40">
+<span class="w-5 h-5 rounded-full bg-primary flex items-center justify-center text-on-primary text-[10px] pl-0.5 shadow-sm group-hover:scale-105 transition-transform">
+            ▶
+          </span>
+<span class="text-white font-label-md text-label-md font-medium tracking-normal">Listen • 4 min</span>
+</button>
+</section>
+<!-- Navigation Tabs Section -->
+<nav aria-label="Sections" class="px-7 pt-2 pb-4 flex items-center gap-7">
+<div class="relative pb-1.5 cursor-pointer">
+<span class="text-on-surface font-headline-sm text-headline-sm font-medium tracking-tight">Top Stories</span>
+<!-- Subtle 2px rounded underline in muted emerald #34D399 -->
+<div class="absolute bottom-0 left-0 right-0 h-[2px] bg-primary-container rounded-full shadow-[0_0_8px_rgba(52,211,153,0.5)]"></div>
+</div>
+<div class="relative pb-1.5 cursor-pointer hover:opacity-100 transition-opacity opacity-60">
+<span class="text-on-surface-variant font-headline-sm text-headline-sm font-medium tracking-tight">BCS Pro</span>
+</div>
+<div class="relative pb-1.5 cursor-pointer hover:opacity-100 transition-opacity opacity-60">
+<span class="text-on-surface-variant font-headline-sm text-headline-sm font-medium tracking-tight">Discover</span>
+</div>
+</nav>
+<!-- Featured Morning Cards Carousel -->
+<section class="mt-3 pl-6 pr-0 overflow-x-auto no-scrollbar flex items-stretch gap-3.5 scroll-smooth snap-x snap-mandatory">
+<!-- Card 1 (Main Editorial Lead) -->
+<article class="snap-start shrink-0 w-[285px] rounded-[28px] bg-white/[0.04] border border-white/[0.07] backdrop-blur-[24px] p-6 flex flex-col justify-between shadow-[0_12px_32px_rgba(0,0,0,0.4)] hover:border-white/[0.12] transition-colors duration-300">
+<div>
+<!-- Top Meta Line -->
+<div class="flex items-center justify-between mb-4">
+<span class="text-on-surface-variant font-label-sm text-label-sm">The Daily Star • 4m read</span>
+<span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-black/40 backdrop-blur-md border border-white/5">
+<span class="w-1.5 h-1.5 rounded-full bg-primary-container animate-pulse"></span>
+<span class="text-[10px] font-label-xs text-on-surface-variant">Live</span>
+</span>
+</div>
+<!-- Headline -->
+<h3 class="text-white font-headline-sm text-headline-sm font-medium leading-snug tracking-tight mb-2.5">
+              Central Bank adjusts repo rate to stabilize inflation
+            </h3>
+<!-- Key Takeaway -->
+<p class="text-on-surface-variant font-body-sm text-body-sm leading-relaxed line-clamp-3">
+              Targeted reserve requirements aimed at easing headline pressures and strengthening liquidity reserves nationwide.
+            </p>
+</div>
+<!-- Subtle Bottom Footer Row -->
+<div class="pt-5 mt-4 border-t border-white/[0.04] flex items-center justify-between text-on-surface-variant text-[12px]">
+<span class="font-label-xs text-label-xs opacity-75">Finance &amp; Governance</span>
+<span class="material-symbols-outlined text-[18px] opacity-60 hover:opacity-100 hover:text-primary transition-all cursor-pointer" data-icon="bookmark">bookmark</span>
+</div>
+</article>
+<!-- Card 2 (Peeking Secondary Editorial) -->
+<article class="snap-start shrink-0 w-[285px] rounded-[28px] bg-white/[0.04] border border-white/[0.07] backdrop-blur-[24px] p-6 flex flex-col justify-between shadow-[0_12px_32px_rgba(0,0,0,0.4)] hover:border-white/[0.12] transition-colors duration-300">
+<div>
+<!-- Top Meta Line -->
+<div class="flex items-center justify-between mb-4">
+<span class="text-on-surface-variant font-label-sm text-label-sm">Prothom Alo • 3m read</span>
+<span class="material-symbols-outlined text-[16px] text-on-surface-variant opacity-60" data-icon="tune">tune</span>
+</div>
+<!-- Headline -->
+<h3 class="text-white font-headline-sm text-headline-sm font-medium leading-snug tracking-tight mb-2.5">
+              High Court directives on public governance reforms...
+            </h3>
+<!-- Key Takeaway -->
+<p class="text-on-surface-variant font-body-sm text-body-sm leading-relaxed line-clamp-3">
+              Judicial bench lays out streamlined parameters for administrative accountability, transparency, and public oversight.
+            </p>
+</div>
+<!-- Subtle Bottom Footer Row -->
+<div class="pt-5 mt-4 border-t border-white/[0.04] flex items-center justify-between text-on-surface-variant text-[12px]">
+<span class="font-label-xs text-label-xs opacity-75">Institutional Policy</span>
+<span class="material-symbols-outlined text-[18px] opacity-60 hover:opacity-100 hover:text-primary transition-all cursor-pointer" data-icon="bookmark">bookmark</span>
+</div>
+</article>
+<!-- Right edge spacer for smooth scrolling -->
+<div class="shrink-0 w-4"></div>
+</section>
+<!-- Ambient Ritual Section (Breathing Affirmation / DeepCast Station) -->
+<section class="px-6 mt-7">
+<div class="rounded-[24px] p-4 bg-white/[0.03] border border-white/[0.05] backdrop-blur-xl flex items-center justify-between hover:bg-white/[0.05] transition-colors cursor-pointer group">
+<div class="flex items-center gap-3.5">
+<div class="w-11 h-11 rounded-[16px] bg-secondary-container/60 border border-white/[0.08] flex items-center justify-center text-primary group-hover:scale-105 transition-transform">
+<span class="material-symbols-outlined text-[20px]" data-icon="headphones">headphones</span>
+</div>
+<div>
+<div class="text-white font-body-md text-body-md font-medium">DeepCast • Morning Synapse</div>
+<div class="text-on-surface-variant font-body-sm text-body-sm opacity-70">3 essential insights for clarity</div>
+</div>
+</div>
+<span class="material-symbols-outlined text-on-surface-variant group-hover:text-primary transition-colors text-[20px] mr-1" data-icon="chevron_right">chevron_right</span>
+</div>
+</section>
+</div>
+<!-- BottomNavBar Component (from JSON specification) -->
+<!-- Destination count: 4, icons: ["home", "explore", "bookmark", "person"] -->
+<!-- Active state logic: The current page is 'The Morning Home', so 'home' is active -->
+<nav aria-label="Bottom Navigation" class="fixed bottom-6 left-0 right-0 z-50 flex justify-around items-center px-6 py-3.5 max-w-xs mx-auto floating capsule rounded-full mb-6 mx-auto w-[88%] max-w-sm bg-secondary-container/55 dark:bg-secondary-container/55 backdrop-blur-xl border border-white/10 dark:border-white/10 shadow-[0_20px_40px_rgba(0,0,0,0.6)]">
+<!-- Nav Item 1: Home (ACTIVE) -->
+<button aria-label="Home" class="flex items-center justify-center text-primary dark:text-primary relative after:content-[''] after:absolute after:-bottom-1 after:w-1 after:h-1 after:bg-primary dark:after:bg-primary after:rounded-full hover:text-primary dark:hover:text-primary transition-colors active:scale-90 transition-transform duration-150 p-1">
+<span class="material-symbols-outlined fill text-[22px]" data-icon="home" data-weight="fill" style="font-variation-settings: 'FILL' 1;">home</span>
+</button>
+<!-- Nav Item 2: Explore -->
+<button aria-label="Explore" class="flex items-center justify-center text-on-surface-variant dark:text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity hover:text-primary dark:hover:text-primary transition-colors active:scale-90 transition-transform duration-150 p-1">
+<span class="material-symbols-outlined text-[22px]" data-icon="explore">explore</span>
+</button>
+<!-- Nav Item 3: Bookmark -->
+<button aria-label="Saved" class="flex items-center justify-center text-on-surface-variant dark:text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity hover:text-primary dark:hover:text-primary transition-colors active:scale-90 transition-transform duration-150 p-1">
+<span class="material-symbols-outlined text-[22px]" data-icon="bookmark">bookmark</span>
+</button>
+<!-- Nav Item 4: Person -->
+<button aria-label="Profile" class="flex items-center justify-center text-on-surface-variant dark:text-on-surface-variant opacity-60 hover:opacity-100 transition-opacity hover:text-primary dark:hover:text-primary transition-colors active:scale-90 transition-transform duration-150 p-1">
+<span class="material-symbols-outlined text-[22px]" data-icon="person">person</span>
+</button>
+</nav>
+<!-- iOS Home Indicator Pill -->
+<div class="w-full pb-2 flex justify-center items-center pointer-events-none z-50">
+<div class="w-32 h-1 bg-white/20 rounded-full"></div>
+</div>
+</main>
+</body></html>

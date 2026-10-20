@@ -1,0 +1,46 @@
+name: Dorpon Daily Autonomous Pipeline
+
+on:
+  schedule:
+    # Run at the beginning of every hour (00:00, 01:00, ..., 23:00 UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Number of hourly stories to synthesize'
+        required: false
+        default: '6'
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Hourly News Pipeline & Sync to Firestore
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          PYTHONPATH: .
+        run: |
+          python -m pipeline.hourly_worker --limit ${{ github.event.inputs.limit || '6' }}
+
+      - name: Commit Updated Output Data (Optional)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/output/hourly_buzz_latest.json || true
+          git commit -m "chore(pipeline): auto-update hourly buzz [skip ci]" || echo "No changes to commit"
+          git push || echo "Push failed or not needed"

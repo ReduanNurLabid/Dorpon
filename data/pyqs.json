@@ -1,0 +1,50 @@
+[
+  {
+    "id": "pyq_bcs44_w_01",
+    "bcs_batch": "44th BCS Written",
+    "subject": "Bangladesh Affairs",
+    "topics": ["economy_business", "macroeconomics", "inflation", "banking"],
+    "question_text_bn": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]",
+    "question_text_en": "Identify the primary drivers of recent inflation in Bangladesh and evaluate the effectiveness of monetary measures adopted by Bangladesh Bank. [Marks: 15]"
+  },
+  {
+    "id": "pyq_bcs43_w_02",
+    "bcs_batch": "43rd BCS Written",
+    "subject": "Bangladesh Affairs",
+    "topics": ["governance_law", "constitution", "judiciary", "human_rights"],
+    "question_text_bn": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]",
+    "question_text_en": "Discuss the significance of the High Court's writ jurisdiction under the Constitution of Bangladesh in safeguarding fundamental rights. [Marks: 15]"
+  },
+  {
+    "id": "pyq_bcs41_w_03",
+    "bcs_batch": "41st BCS Written",
+    "subject": "International Affairs",
+    "topics": ["world_diplomacy", "foreign_policy", "geopolitics", "bilateral"],
+    "question_text_bn": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত ভূরাজনীতি এবং বাংলাদেশের পররাষ্ট্রনীতির জাতীয় স্বার্থ রক্ষার কৌশল বিশ্লেষণ করুন। [নম্বর: ১৫]",
+    "question_text_en": "Analyze the strategic geopolitics of the Indo-Pacific region and the role of Bangladesh's foreign policy in safeguarding national interests. [Marks: 15]"
+  },
+  {
+    "id": "pyq_bcs40_w_04",
+    "bcs_batch": "40th BCS Written",
+    "subject": "Geography, Environment & Disaster Management",
+    "topics": ["climate_environment", "delta_plan", "river_erosion", "disaster"],
+    "question_text_bn": "বাংলাদেশ ব-দ্বীপ পরিকল্পনা ২১০০ (Delta Plan 2100)-এর মূল কৌশলসমূহ ব্যাখ্যা করুন। জলবায়ু পরিবর্তনের ঝুঁকি হ্রাসে এর তাৎপর্য কী? [নম্বর: ১৫]",
+    "question_text_en": "Explain the key strategies of Bangladesh Delta Plan 2100. What is its significance in mitigating climate change risks? [Marks: 15]"
+  },
+  {
+    "id": "pyq_bcs38_w_05",
+    "bcs_batch": "38th BCS Written",
+    "subject": "General Science & ICT",
+    "topics": ["tech_innovation", "cybersecurity", "digital_governance"],
+    "question_text_bn": "ডিজিটাল প্রশাসন ও আর্থিক খাতে সাইবার নিরাপত্তা নিশ্চিতকরণে জাতীয় সাইবার সিকিউরিটি ফ্রেমওয়ার্কের ভূমিকা কী? [নম্বর: ১০]",
+    "question_text_en": "What is the role of a National Cybersecurity Framework in securing digital governance and the financial sector? [Marks: 10]"
+  },
+  {
+    "id": "pyq_bcs44_p_06",
+    "bcs_batch": "44th BCS Preliminary",
+    "subject": "Bangladesh Affairs",
+    "topics": ["economy_business", "budget", "gdp"],
+    "question_text_bn": "বাংলাদেশের সংবিধানে বার্ষিক আর্থিক বিবৃতি বা বাজেট সম্পর্কিত বিধান কোন অনুচ্ছেদে রয়েছে? (ক) ৮১ (খ) ৮৭ (গ) ৮৮ (ঘ) ৯০",
+    "question_text_en": "Which article of the Constitution of Bangladesh contains provisions regarding the Annual Financial Statement (Budget)? (a) 81 (b) 87 (c) 88 (d) 90"
+  }
+]

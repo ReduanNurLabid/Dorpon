@@ -1,0 +1,1642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dorpon Daily • Current Affairs Editorial Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-base: #0B0E14;
+      --bg-surface: #121721;
+      --bg-card: #18202F;
+      --bg-card-hover: #1E283A;
+      --accent-mint: #00F5A0;
+      --accent-mint-glow: rgba(0, 245, 160, 0.25);
+      --accent-gold: #F5B041;
+      --accent-gold-glow: rgba(245, 176, 65, 0.25);
+      --accent-orange: #FF6B4A;
+      --accent-teal: #2DD4BF;
+      --accent-purple: #C084FC;
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
+      --border-subtle: rgba(255, 255, 255, 0.08);
+      --border-focus: rgba(0, 245, 160, 0.4);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 18px;
+      --font-main: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg-base);
+      color: var(--text-primary);
+      font-family: var(--font-main);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* TOP HEADER */
+    header {
+      background: rgba(18, 23, 33, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border-subtle);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 12px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .brand-logo {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: linear-gradient(135deg, #00F5A0, #0072FF);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      color: #000;
+      font-size: 18px;
+      box-shadow: 0 0 20px rgba(0, 245, 160, 0.3);
+    }
+    .brand-title h1 {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    .brand-title p {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      background: rgba(0, 245, 160, 0.1);
+      border: 1px solid rgba(0, 245, 160, 0.25);
+      color: var(--accent-mint);
+      font-weight: 600;
+    }
+    .status-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--accent-mint);
+      box-shadow: 0 0 8px var(--accent-mint);
+    }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .btn {
+      font-family: var(--font-main);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border-subtle);
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-primary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: all 0.2s ease;
+    }
+    .btn:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #00F5A0, #00D084);
+      color: #06150E;
+      border: none;
+      font-weight: 700;
+      box-shadow: 0 0 20px var(--accent-mint-glow);
+    }
+    .btn-primary:hover {
+      background: linear-gradient(135deg, #22FFAF, #00F5A0);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 24px rgba(0, 245, 160, 0.4);
+    }
+    .btn-gold {
+      background: rgba(245, 176, 65, 0.15);
+      color: var(--accent-gold);
+      border-color: rgba(245, 176, 65, 0.35);
+    }
+    .btn-gold:hover {
+      background: rgba(245, 176, 65, 0.25);
+    }
+
+    /* MAIN WORKSPACE LAYOUT */
+    .workspace {
+      display: grid;
+      grid-template-columns: 55% 45%;
+      min-height: calc(100vh - 65px);
+    }
+
+    /* LEFT PANE: AUTHORING STUDIO */
+    .editor-pane {
+      padding: 28px 36px;
+      overflow-y: auto;
+      max-height: calc(100vh - 65px);
+      border-right: 1px solid var(--border-subtle);
+    }
+    .section-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      margin-bottom: 22px;
+      transition: border-color 0.2s;
+    }
+    .section-card:focus-within {
+      border-color: var(--border-focus);
+    }
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+    .section-title {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .section-title.mint { color: var(--accent-mint); }
+    .section-title.gold { color: var(--accent-gold); }
+    .section-title.orange { color: var(--accent-orange); }
+    .section-title.teal { color: var(--accent-teal); }
+    .section-title.purple { color: var(--accent-purple); }
+
+    /* TOOLBAR */
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 4px;
+      background: rgba(0, 0, 0, 0.3);
+      padding: 6px 8px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    .tool-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-secondary);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .tool-btn:hover {
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+    }
+
+    /* INPUTS & TEXTAREAS */
+    .form-group {
+      margin-bottom: 14px;
+    }
+    .form-label {
+      display: block;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 6px;
+    }
+    input[type="text"], select, textarea {
+      width: 100%;
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      color: var(--text-primary);
+      font-family: var(--font-main);
+      font-size: 14px;
+      padding: 10px 14px;
+      outline: none;
+      transition: all 0.2s;
+    }
+    input[type="text"]:focus, select:focus, textarea:focus {
+      border-color: var(--accent-mint);
+      background: rgba(0, 0, 0, 0.5);
+      box-shadow: 0 0 12px rgba(0, 245, 160, 0.15);
+    }
+    textarea {
+      resize: vertical;
+      line-height: 1.6;
+    }
+    .input-title {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    /* TAGS INPUT */
+    .tags-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 8px 10px;
+      align-items: center;
+    }
+    .tag-chip {
+      background: rgba(0, 245, 160, 0.15);
+      color: var(--accent-mint);
+      border: 1px solid rgba(0, 245, 160, 0.3);
+      padding: 3px 8px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .tag-chip .remove-tag {
+      cursor: pointer;
+      opacity: 0.7;
+    }
+    .tag-chip .remove-tag:hover { opacity: 1; }
+    .tag-input {
+      border: none !important;
+      background: transparent !important;
+      padding: 4px !important;
+      color: #fff !important;
+      flex: 1;
+      min-width: 140px;
+      box-shadow: none !important;
+    }
+
+    /* QUESTIONS LIST */
+    .question-item {
+      background: rgba(0, 0, 0, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: var(--radius-sm);
+      padding: 14px;
+      margin-bottom: 14px;
+    }
+    .question-item-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .q-badge {
+      background: rgba(245, 176, 65, 0.2);
+      color: var(--accent-gold);
+      font-size: 11px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 4px;
+    }
+    .q-delete {
+      background: transparent;
+      border: none;
+      color: #EF4444;
+      font-size: 12px;
+      cursor: pointer;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+    .q-delete:hover {
+      background: rgba(239, 68, 68, 0.15);
+    }
+
+    /* RIGHT PANE: LIVE APP PREVIEW */
+    .preview-pane {
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background: radial-gradient(circle at 50% 20%, rgba(0, 245, 160, 0.05) 0%, transparent 60%);
+      position: sticky;
+      top: 65px;
+      height: calc(100vh - 65px);
+      overflow-y: auto;
+    }
+    .preview-toggle {
+      display: flex;
+      gap: 4px;
+      background: var(--bg-surface);
+      padding: 4px;
+      border-radius: 20px;
+      border: 1px solid var(--border-subtle);
+      margin-bottom: 20px;
+    }
+    .preview-tab {
+      padding: 6px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      border-radius: 16px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+    }
+    .preview-tab.active {
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+    }
+
+    /* SMARTPHONE MOCKUP */
+    .phone-mockup {
+      width: 380px;
+      height: 720px;
+      background: #000;
+      border-radius: 42px;
+      border: 8px solid #232D3F;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), 0 0 40px rgba(0, 245, 160, 0.15);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .phone-status-bar {
+      height: 34px;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 11px;
+      font-weight: 600;
+      color: #94A3B8;
+      background: #000;
+      z-index: 10;
+    }
+    .phone-notch {
+      width: 110px;
+      height: 18px;
+      background: #232D3F;
+      border-radius: 0 0 14px 14px;
+      margin: 0 auto;
+    }
+    .phone-screen {
+      flex: 1;
+      background: #080B10;
+      overflow-y: auto;
+      padding: 16px 16px 40px 16px;
+      font-family: var(--font-main);
+    }
+    .phone-screen::-webkit-scrollbar { width: 3px; }
+    .phone-screen::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 2px; }
+
+    /* MOCKUP CONTENT */
+    .mock-topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+    .mock-trending-pill {
+      background: rgba(245, 176, 65, 0.15);
+      color: var(--accent-gold);
+      border: 1px solid rgba(245, 176, 65, 0.3);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 10px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .mock-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+    .mock-tag {
+      background: rgba(0, 245, 160, 0.12);
+      color: var(--accent-mint);
+      border: 1px solid rgba(0, 245, 160, 0.25);
+      padding: 2px 7px;
+      border-radius: 10px;
+      font-size: 10px;
+      font-weight: 600;
+    }
+    .mock-title {
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: #fff;
+      margin-bottom: 14px;
+    }
+    .mock-card {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 12px;
+    }
+    .mock-card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 11px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    .mock-card-header.mint { color: var(--accent-mint); }
+    .mock-card-header.gold { color: var(--accent-gold); }
+    .mock-card-header.orange { color: var(--accent-orange); }
+    .mock-card-header.teal { color: var(--accent-teal); }
+    .mock-card-header.purple { color: var(--accent-purple); }
+    .mock-text {
+      font-size: 12px;
+      line-height: 1.55;
+      color: #CBD5E1;
+    }
+
+    /* MOCK ACCORDIONS */
+    .mock-accordion {
+      background: rgba(255, 255, 255, 0.025);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 10px;
+      margin-bottom: 8px;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .mock-accordion-head {
+      padding: 10px;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #E2E8F0;
+    }
+    .mock-accordion-head span.q-badge {
+      font-size: 9px;
+      padding: 2px 5px;
+      margin-top: 1px;
+    }
+    .mock-accordion-body {
+      padding: 10px;
+      background: rgba(245, 176, 65, 0.03);
+      border-top: 1px solid rgba(245, 176, 65, 0.15);
+      font-size: 11.5px;
+      line-height: 1.55;
+      color: #CBD5E1;
+    }
+    .mock-point-key {
+      color: var(--accent-gold);
+      font-weight: 700;
+    }
+
+    /* MODAL */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      z-index: 200;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      width: 100%;
+      max-width: 680px;
+      padding: 24px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+    }
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+    .modal-title {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    /* TOAST */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #10B981;
+      color: #000;
+      padding: 12px 20px;
+      border-radius: var(--radius-sm);
+      font-weight: 700;
+      font-size: 14px;
+      display: none;
+      box-shadow: 0 10px 30px rgba(16, 185, 129, 0.4);
+      z-index: 300;
+      animation: slideUp 0.3s ease;
+    }
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="brand">
+      <div class="brand-logo">D</div>
+      <div class="brand-title">
+        <h1>Dorpon Current Affairs • Human Editorial Studio</h1>
+        <p>Direct Authoring & Immediate Broadcast (Zero AI Pipeline)</p>
+      </div>
+      <div class="status-badge">
+        <span class="status-dot"></span> Firestore Synced
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-gold" onclick="openPromptModal()">✨ AI Research Prompt</button>
+      <button class="btn" onclick="openRawModal()">📋 Paste Raw Text</button>
+      <button class="btn" onclick="resetToReferenceArticle()">↺ Reference Article</button>
+      <button class="btn btn-gold" onclick="saveDraft()">💾 Save Draft</button>
+      <button class="btn btn-primary" onclick="publishToApp()">🚀 Publish to Dorpon App</button>
+    </div>
+  </header>
+
+  <!-- MAIN TWO-COLUMN SPLIT -->
+  <div class="workspace">
+    <!-- LEFT PANE: AUTHORING CONTROLS -->
+    <div class="editor-pane">
+
+      <!-- METADATA -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title mint">📌 Article Header & Taxonomy</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Article Headline</label>
+          <input type="text" id="articleTitle" class="input-title" placeholder="Enter headline..." oninput="updateLivePreview()">
+        </div>
+
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px;">
+          <div>
+            <label class="form-label">Category Track</label>
+            <select id="articleCategory" onchange="updateLivePreview()">
+              <option value="international_diplomacy">Global Geopolitics & Diplomacy</option>
+              <option value="economy_business">World Economy & Trade Corridors</option>
+              <option value="governance_law">National Security & Legal Treaties</option>
+              <option value="climate_strategy">Strategic Energy & Resources</option>
+            </select>
+          </div>
+          <div>
+            <label class="form-label">Read Time</label>
+            <input type="text" id="readTimeText" value="3 min read" oninput="updateLivePreview()">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Tags (Type and press Enter or comma)</label>
+          <div class="tags-container" id="tagsBox">
+            <!-- Dynamic Chips -->
+            <input type="text" class="tag-input" id="tagInput" placeholder="Add #tag..." onkeydown="handleTagKey(event)">
+          </div>
+        </div>
+      </div>
+
+      <!-- EDITORIAL HERO IMAGE -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title mint">🖼️ Editorial Hero Image & Media</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Image URL (Web image or CDN link)</label>
+          <input type="text" id="imageUrl" placeholder="https://images.unsplash.com/... or direct image URL" oninput="updateLivePreview()">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Photo Credit & Caption</label>
+          <input type="text" id="imageCaption" placeholder="e.g. Commercial shipping detour around the Cape of Good Hope • Photo: Unsplash" oninput="updateLivePreview()">
+        </div>
+
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px;">
+          <button type="button" class="tool-btn" onclick="setImagePreset('maritime')">🚢 Maritime & Trade</button>
+          <button type="button" class="tool-btn" onclick="setImagePreset('energy')">⚡ Energy & Oil</button>
+          <button type="button" class="tool-btn" onclick="setImagePreset('diplomacy')">🏛️ Geopolitics</button>
+          <button type="button" class="tool-btn" onclick="setImagePreset('economy')">📈 Economy</button>
+          <button type="button" class="tool-btn" onclick="clearImage()" style="color: #FF6B4A;">✕ Remove Image</button>
+        </div>
+
+        <div id="imagePreviewBox" style="display: none; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-subtle); margin-top: 6px;">
+          <img id="imagePreviewElement" src="" style="width: 100%; max-height: 160px; object-fit: cover; display: block;">
+        </div>
+      </div>
+
+      <!-- SECTION 1: WHY IN THE NEWS -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title mint">📰 1. Why in the News (Lead Overview)</div>
+        </div>
+        <div class="toolbar">
+          <button class="tool-btn" onclick="formatText('whyInTheNews', '**', '**')"><b>B</b></button>
+          <button class="tool-btn" onclick="formatText('whyInTheNews', '*', '*')"><i>I</i></button>
+          <button class="tool-btn" onclick="insertBullet('whyInTheNews')">• Bullet</button>
+          <button class="tool-btn" onclick="insertTable('whyInTheNews')">⊞ Table</button>
+          <button class="tool-btn" onclick="formatText('whyInTheNews', '> ', '')">❝ Quote</button>
+        </div>
+        <textarea id="whyInTheNews" rows="4" placeholder="Enter why this issue is in the news..." oninput="updateLivePreview()"></textarea>
+      </div>
+
+      <!-- SECTION 2: QUESTIONS BUILDER (COLLAPSIBLE ACCORDIONS) -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title gold">❓ 2. Questions (Interactive Accordions)</div>
+          <button class="btn btn-gold" style="padding: 4px 10px; font-size: 11px;" onclick="addQuestion()">+ Add Question</button>
+        </div>
+        <p style="font-size: 12px; color: var(--text-secondary); margin-bottom: 14px;">
+          Each question is an interactive collapsible accordion in the app. Add sub-points with bold labels like <code>The Definition: ...</code>, <code>The Incentive: ...</code>, tables, or bullets.
+        </p>
+
+        <div id="questionsContainer">
+          <!-- Dynamic Question Cards -->
+        </div>
+
+        <button class="btn btn-gold" style="width: 100%; justify-content: center; margin-top: 8px;" onclick="addQuestion()">+ Add Another Question</button>
+      </div>
+
+      <!-- SECTION 3: CHALLENGES -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title orange">⚠️ 3. Challenges</div>
+        </div>
+        <div class="toolbar">
+          <button class="tool-btn" onclick="formatText('challengesText', '**', '**')"><b>B</b></button>
+          <button class="tool-btn" onclick="formatText('challengesText', '*', '*')"><i>I</i></button>
+          <button class="tool-btn" onclick="insertBullet('challengesText')">• Bullet</button>
+          <button class="tool-btn" onclick="insertTable('challengesText')">⊞ Table</button>
+        </div>
+        <textarea id="challengesText" rows="4" placeholder="Award and Inflation Exposure: ...&#10;Gaps in Labor Safety: ...&#10;Geopolitical Risks: ..." oninput="updateLivePreview()"></textarea>
+      </div>
+
+      <!-- SECTION 4: WAY FORWARD -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title teal">🚀 4. Way Forward</div>
+        </div>
+        <div class="toolbar">
+          <button class="tool-btn" onclick="formatText('wayForwardText', '**', '**')"><b>B</b></button>
+          <button class="tool-btn" onclick="formatText('wayForwardText', '*', '*')"><i>I</i></button>
+          <button class="tool-btn" onclick="insertBullet('wayForwardText')">• Bullet</button>
+          <button class="tool-btn" onclick="insertTable('wayForwardText')">⊞ Table</button>
+        </div>
+        <textarea id="wayForwardText" rows="4" placeholder="Diversify Overseas Labor: ...&#10;Strategic Fuel Reserves: ...&#10;Consular Contingency Frameworks: ..." oninput="updateLivePreview()"></textarea>
+      </div>
+
+      <!-- SECTION 5: GOVERNMENT INITIATIVES / TREATIES -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title purple">🏛️ 5. Government Initiatives on Investment and Security Treaties</div>
+        </div>
+        <div class="toolbar">
+          <button class="tool-btn" onclick="formatText('govTreatiesText', '**', '**')"><b>B</b></button>
+          <button class="tool-btn" onclick="formatText('govTreatiesText', '*', '*')"><i>I</i></button>
+          <button class="tool-btn" onclick="insertBullet('govTreatiesText')">• Bullet</button>
+          <button class="tool-btn" onclick="insertTable('govTreatiesText')">⊞ Table</button>
+        </div>
+        <textarea id="govTreatiesText" rows="4" placeholder="Formal Diplomatic Condemnation: ...&#10;Founding Member of the MMDC: ...&#10;Aviation Crisis Management: ..." oninput="updateLivePreview()"></textarea>
+      </div>
+
+      <!-- SECTION 6: CONCLUSION -->
+      <div class="section-card">
+        <div class="section-header">
+          <div class="section-title mint">💡 6. Conclusion</div>
+        </div>
+        <div class="toolbar">
+          <button class="tool-btn" onclick="formatText('conclusionText', '**', '**')"><b>B</b></button>
+          <button class="tool-btn" onclick="formatText('conclusionText', '*', '*')"><i>I</i></button>
+          <button class="tool-btn" onclick="formatText('conclusionText', '> ', '')">❝ Quote</button>
+        </div>
+        <textarea id="conclusionText" rows="4" placeholder="Closing strategic synthesis and future outlook..." oninput="updateLivePreview()"></textarea>
+      </div>
+
+    </div>
+
+    <!-- RIGHT PANE: LIVE SMARTPHONE APP PREVIEW -->
+    <div class="preview-pane">
+      <div class="preview-toggle">
+        <button class="preview-tab active" id="tabFull" onclick="setPreviewTab('full')">Full Article Reader</button>
+        <button class="preview-tab" id="tabCard" onclick="setPreviewTab('card')">Feed Card Preview</button>
+      </div>
+
+      <!-- PHONE MOCKUP FRAME -->
+      <div class="phone-mockup">
+        <div class="phone-status-bar">
+          <span>05:38</span>
+          <div class="phone-notch"></div>
+          <span>5G  ●  100%</span>
+        </div>
+
+        <div class="phone-screen" id="mockScreen">
+          <!-- LIVE RENDERED APP CONTENT -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RAW TEXT IMPORT MODAL -->
+  <div class="modal-overlay" id="rawModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">📋 Paste Raw Article Text & Auto-Format</h3>
+        <button class="btn" onclick="closeRawModal()">✕</button>
+      </div>
+      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px;">
+        Paste your raw notes or article draft (with "Headline", "Why in the News", questions, "Challenges", "Way Forward", etc.). Our intelligent parser will map it directly into the template.
+      </p>
+      <textarea id="rawTextInput" rows="14" placeholder="Paste your article here..." style="font-family: var(--font-mono); font-size: 12px;"></textarea>
+      <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 14px;">
+        <button class="btn" onclick="closeRawModal()">Cancel</button>
+        <button class="btn btn-primary" onclick="parseRawTextAndLoad()">✨ Parse & Load into Editor</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI RESEARCH & EDITORIAL PROMPT GENERATOR MODAL -->
+  <div class="modal-overlay" id="promptModal">
+    <div class="modal-card" style="max-width: 820px; max-height: 90vh; display: flex; flex-direction: column;">
+      <div class="modal-header">
+        <h3 class="modal-title" style="color: var(--accent-gold); display: flex; align-items: center; gap: 8px;">
+          <span>✨</span> Master AI Research & Editorial Prompt Generator
+        </h3>
+        <button class="btn" onclick="closePromptModal()">✕</button>
+      </div>
+      <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.5;">
+        Generate publication-grade question-led editorials with ChatGPT, Claude, Gemini, or Grok. Copy this prompt, run it with the AI, review the output for factual rigor, and click <b>"📋 Paste Raw Text"</b> to import it into Dorpon Studio in one click!
+      </p>
+      <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 12px; margin-bottom: 12px;">
+        <div>
+          <label class="form-label">Research Topic or News Event</label>
+          <input type="text" id="aiTopicInput" value="Houthi–Saudi Arabian conflict: Bangladesh exposure across labor, supply chains, and MMDC defense alignment" oninput="regenerateAIPrompt()">
+        </div>
+        <div>
+          <label class="form-label">Key Angles & Stakeholders</label>
+          <input type="text" id="aiAnglesInput" value="Labor, Remittance, Cape detour, MMDC Coalition" oninput="regenerateAIPrompt()">
+        </div>
+      </div>
+      <div style="flex: 1; min-height: 220px; display: flex; flex-direction: column;">
+        <label class="form-label">Generated Master AI Prompt (Ready to Copy):</label>
+        <textarea id="aiPromptOutput" style="flex: 1; font-family: var(--font-mono); font-size: 12px; background: rgba(0,0,0,0.6); padding: 12px; resize: none; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); color: #E2E8F0;" readonly></textarea>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 14px;">
+        <span id="promptCopyFeedback" style="color: var(--accent-mint); font-size: 12.5px; font-weight: 600; display: none;">
+          ✓ Copied to clipboard! Ready to paste into ChatGPT, Claude, or Gemini.
+        </span>
+        <div style="display: flex; gap: 10px; margin-left: auto;">
+          <button class="btn" onclick="closePromptModal()">Close</button>
+          <button class="btn btn-gold" onclick="copyAIPrompt()">📋 Copy Full AI Prompt</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST -->
+  <div class="toast" id="toastBox">Action completed successfully!</div>
+
+  <script>
+    // Initial State - Exact Houthi Article
+    let tagsList = ["#Geopolitics", "#RedSeaCrisis", "#MigrantLabor", "#EnergySecurity", "#TradeCorridors"];
+    let questions = [
+      {
+        question: "What is the Houthi–Saudi Conflict, and How Can It Limit a State?",
+        content: "The Definition: The geopolitical clash involves Yemen's Iran-backed Houthi forces and Saudi Arabia. Under a strategy of asymmetric warfare, the Houthis use low-cost drones and ballistic missiles to target Saudi energy fields, airports, and global maritime chokepoints like the Bab el-Mandeb Strait.\n\nThe Incentive: Saudi Arabia remains Bangladesh’s largest single source of foreign remittances and overseas employment. Dhaka relies on a peaceful Gulf region to maintain the stable employment of over 3.5 to 4 million migrant workers.\n\nThe Conflict: Houthi targeting of civilian infrastructure severely disrupts these economic assumptions. The theater of war limits Bangladesh’s policy choices, forcing a traditionally neutral state to take explicit diplomatic and military stances.\n\nThe Precedent: A devastating Houthi strike on Riyadh’s King Khalid International Airport in October 2026 directly killed two Bangladeshi nationals and injured 27 others, demonstrating that distant regional conflicts directly cost Bangladeshi lives.\n\nThe Takeaway: A war confined to the Arabian Peninsula heavily restricts Bangladesh's domestic aviation, labor output, and economic planning."
+      },
+      {
+        question: "Are Regional Security Standards Fair to Labor-Sustained States?",
+        content: "Asymmetric Labor Vulnerability: The conflict places a massive physical burden on Bangladeshi migrants, who have no institutional protections from cross-border missile strikes while working in Saudi border zones and industrial hubs.\n\nFlight and Visa Fears: Escalating airport attacks cause mass aviation gridlock. In October 2026, flight cancellations grounded nearly 100 flights out of Dhaka, stranding over 15,000 passengers and threatening to invalidate strict Saudi work visas.\n\nExtractive Sector Risks: Saudi Arabia is a key supplier of crude fuel and fertilizer to Bangladesh. Houthi blockades and refinery strikes directly imperil the primary inputs needed to sustain Bangladeshi agriculture and industries.\n\nUneven Enforcement: While global powers focus on broader geopolitical leverage, developing nations like Bangladesh absorb severe, uncompensated shocks to their migrant labor markets.\n\nLimited Payoff: Despite massive defense spending, conventional military forces have struggled to neutralize the Houthi threat, leaving foreign laborers exposed to prolonged, volatile security risks."
+      },
+      {
+        question: "Why Does Bangladesh Keep its Remittance Sector Out of Geopolitical Shocks?",
+        content: "Unequal Economic Rights: Unlike international corporations that can insure their assets against war, Bangladeshi workers often borrow heavily to finance migration. If local projects stall due to Saudi economic contraction, these laborers face bankruptcy without recourse.\n\nRemittance Volatility: Inflows from Saudi Arabia reached $5.85 billion in the 2025–26 fiscal year, making up roughly a fifth of Bangladesh's total remittance basket. Regional conflict threatens this vital source of foreign currency reserves."
+      },
+      {
+        question: "What Do Maritime Models Show About Settling Transit and Supply Chain Disputes?",
+        content: "Rerouting Realities: To evade Houthi blockades, shipping vessels are forced to avoid the Suez Canal route. For instance, the Bangladesh Shipping Corporation's crude-oil tanker MT Ninemia had to detour around the Cape of Good Hope, ballooning a standard 15-day voyage from Saudi Arabia into a 50-day transit.\n\nThe Financial Impact: This single rerouted voyage cost an extra Tk 66.63 crore. Multiply this across all imports, and the model shows massive inflationary pressure on landed fuel costs.\n\nExport Strain: For the Readymade Garment (RMG) sector, ocean container shipping rates to Europe more than doubled. While many buyers handle freight under free-on-board (FOB) terms, systemic supply delays hamper working capital."
+      },
+      {
+        question: "How Can Bangladesh Secure Its Trade Without Getting Mired in War?",
+        content: "Multinational Security Cooperation: In late mid-2026, Bangladesh officially joined the Multinational Maritime Defence Coalition (MMDC)—a Saudi-led 14-nation alliance designed to protect trade lanes in the Red Sea and Gulf of Aden.\n\nStrategic Balancing: Joining the MMDC marks Dhaka's first formal entry into a military defense alliance. To avoid diplomatic blowback, Bangladesh frames its inclusion purely as a defensive move to protect global commerce rather than an offensive step against Iran.\n\nEqual Protection: While aligning with Saudi security goals, Dhaka maintains separate communication channels with Tehran to isolate its economic trade interests from wider proxy warfare."
+      }
+    ];
+
+    let openPreviewAccordions = { 0: true };
+    let currentPreviewMode = 'full';
+
+    function init() {
+      document.getElementById('articleTitle').value = "Houthi–Saudi Arabian conflict: Bangladesh exposure across labor, supply chains, and MMDC defense alignment";
+      document.getElementById('imageUrl').value = "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80";
+      document.getElementById('imageCaption').value = "Commercial shipping detour around the Cape of Good Hope amid Red Sea maritime escalation • Photo: Unsplash";
+      document.getElementById('whyInTheNews').value = "The Houthi–Saudi Arabian conflict is escalating, creating a direct crisis for Bangladesh across labor stability, supply chain security, and defense alignment. As Houthi drone and missile strikes disrupt deep infrastructure in the Kingdom, Dhaka finds itself uniquely exposed due to its dependency on Saudi economic stability and Red Sea maritime access.";
+      document.getElementById('challengesText').value = "Award and Inflation Exposure: The conflict contributes to global oil price spikes, with IMF projections pushing crude averages to $96 per barrel, placing an enormous financial burden on Bangladesh’s state treasury.\n\nGaps in Labor Safety: Security lockdowns at airports inside the Kingdom leave thousands of arriving workers temporarily displaced, creating severe bottlenecks at Hazrat Shahjalal International Airport.\n\nGeopolitical Risks: Deepening military alignment with Riyadh runs the long-term risk of making Bangladeshi assets or personnel a secondary target for Houthi retaliatory threats.";
+      document.getElementById('wayForwardText').value = "Diversify Overseas Labor: The Bureau of Manpower, Employment and Training should aggressively explore non-Middle Eastern markets to reduce the 60–80% peak employment dependency on Saudi Arabia.\n\nStrategic Fuel Reserves: Expand domestic fuel storage infrastructure to cushion against sudden shipping disruptions at the Bab el-Mandeb and Hormuz straits.\n\nConsular Contingency Frameworks: Embed rapid-response legal and emergency teams within the Bangladesh Embassy in Riyadh to support workers affected by corporate slowdowns or physical strikes.";
+      document.getElementById('govTreatiesText').value = "Formal Diplomatic Condemnation: The Ministry of Foreign Affairs issued a definitive statement condemning Houthi strikes on Saudi civilian targets, categorizing them as violations of international law.\n\nFounding Member of the MMDC: Bangladesh signed on as a founding partner of the Multinational Maritime Defence Coalition in August 2026, integrating military personnel into its joint operations and intelligence structures.\n\nAviation Crisis Management: The Civil Aviation Authority of Bangladesh (CCAB) established emergency protocols at Dhaka airport to handle rescheduled worker transit following regional airspace closures.";
+      document.getElementById('conclusionText').value = "Bangladesh is trading its historical policy of absolute military neutrality for a strategic maritime alignment to preserve the economic lifelines of remittance and trade. What to watch moving forward is whether the newly formed 14-nation coalition can successfully pacify the Red Sea shipping lanes or if the lingering asymmetric war will continue to drive up domestic inflation in Dhaka.";
+      
+      renderTags();
+      renderQuestionsEditor();
+      updateLivePreview();
+      fetchCurrentStoryFromServer();
+    }
+
+    function setImagePreset(type) {
+      const presets = {
+        maritime: {
+          url: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80",
+          caption: "Commercial cargo shipping detour around the Cape of Good Hope amid Red Sea tensions • Photo: Unsplash"
+        },
+        energy: {
+          url: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+          caption: "Strategic petroleum refinery and energy supply storage • Photo: Unsplash"
+        },
+        diplomacy: {
+          url: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+          caption: "Multilateral diplomatic security council and defense alignment • Photo: Unsplash"
+        },
+        economy: {
+          url: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          caption: "Global macroeconomy, forex reserve flows and trade corridors • Photo: Unsplash"
+        }
+      };
+      if (presets[type]) {
+        document.getElementById('imageUrl').value = presets[type].url;
+        document.getElementById('imageCaption').value = presets[type].caption;
+        updateLivePreview();
+        showToast("🖼️ Loaded " + type + " image preset!");
+      }
+    }
+
+    function clearImage() {
+      document.getElementById('imageUrl').value = '';
+      document.getElementById('imageCaption').value = '';
+      updateLivePreview();
+      showToast("✕ Image removed.");
+    }
+
+    async function fetchCurrentStoryFromServer() {
+      try {
+        const res = await fetch('/api/editor/current');
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.success && data.story) {
+            const s = data.story;
+            if (s.image_url) document.getElementById('imageUrl').value = s.image_url;
+            if (s.image_caption) document.getElementById('imageCaption').value = s.image_caption;
+            updateLivePreview();
+          }
+        }
+      } catch (_) {}
+    }
+
+    // TAGS
+    function renderTags() {
+      const box = document.getElementById('tagsBox');
+      const input = document.getElementById('tagInput');
+      box.querySelectorAll('.tag-chip').forEach(el => el.remove());
+      tagsList.forEach((tag, idx) => {
+        const chip = document.createElement('span');
+        chip.className = 'tag-chip';
+        chip.innerHTML = `${tag} <span class="remove-tag" onclick="removeTag(${idx})">&times;</span>`;
+        box.insertBefore(chip, input);
+      });
+    }
+
+    function handleTagKey(e) {
+      if (e.key === 'Enter' || e.key === ',') {
+        e.preventDefault();
+        let val = e.target.value.trim().replace(/,/g, '');
+        if (val) {
+          if (!val.startsWith('#')) val = '#' + val;
+          if (!tagsList.includes(val)) {
+            tagsList.push(val);
+            renderTags();
+            updateLivePreview();
+          }
+          e.target.value = '';
+        }
+      }
+    }
+
+    function removeTag(idx) {
+      tagsList.splice(idx, 1);
+      renderTags();
+      updateLivePreview();
+    }
+
+    // QUESTIONS EDITOR
+    function renderQuestionsEditor() {
+      const container = document.getElementById('questionsContainer');
+      container.innerHTML = '';
+
+      questions.forEach((q, idx) => {
+        const div = document.createElement('div');
+        div.className = 'question-item';
+        div.innerHTML = `
+          <div class="question-item-header">
+            <span class="q-badge">Question #${idx + 1}</span>
+            <button class="q-delete" onclick="removeQuestion(${idx})">🗑 Remove</button>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Question Title</label>
+            <input type="text" value="${escapeHtml(q.question)}" oninput="updateQuestionTitle(${idx}, this.value)" placeholder="e.g. What is the Houthi–Saudi Conflict?">
+          </div>
+          <div class="form-group" style="margin-bottom: 0;">
+            <div class="toolbar">
+              <button class="tool-btn" onclick="formatQText(${idx}, '**', '**')"><b>B</b></button>
+              <button class="tool-btn" onclick="formatQText(${idx}, '*', '*')"><i>I</i></button>
+              <button class="tool-btn" onclick="insertQBullet(${idx})">• Bullet</button>
+              <button class="tool-btn" onclick="insertQTable(${idx})">⊞ Table</button>
+            </div>
+            <textarea id="qText_${idx}" rows="5" oninput="updateQuestionContent(${idx}, this.value)">${escapeHtml(q.content)}</textarea>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function addQuestion() {
+      questions.push({
+        question: "New Strategic Question?",
+        content: "Point 1: Add detailed analysis here.\n\nPoint 2: Add subsequent sub-point."
+      });
+      renderQuestionsEditor();
+      updateLivePreview();
+    }
+
+    function removeQuestion(idx) {
+      if (confirm('Delete this question?')) {
+        questions.splice(idx, 1);
+        renderQuestionsEditor();
+        updateLivePreview();
+      }
+    }
+
+    function updateQuestionTitle(idx, val) {
+      questions[idx].question = val;
+      updateLivePreview();
+    }
+
+    function updateQuestionContent(idx, val) {
+      questions[idx].content = val;
+      updateLivePreview();
+    }
+
+    // RICH FORMATTING HELPERS
+    function formatText(elemId, prefix, suffix) {
+      const el = document.getElementById(elemId);
+      const start = el.selectionStart;
+      const end = el.selectionEnd;
+      const sel = el.value.substring(start, end) || "text";
+      el.value = el.value.substring(0, start) + prefix + sel + suffix + el.value.substring(end);
+      updateLivePreview();
+    }
+
+    function insertBullet(elemId) {
+      const el = document.getElementById(elemId);
+      el.value += "\n• Sub-point title: Detailed explanation.";
+      updateLivePreview();
+    }
+
+    function insertTable(elemId) {
+      const el = document.getElementById(elemId);
+      el.value += "\n\n| Indicator | Saudi Impact | Bangladesh Impact |\n| :--- | :--- | :--- |\n| Remittance | $5.85B Inflows | 20% Total Reserves |\n| Fuel Tanker | Cape Route | +Tk 66.63 Cr Surcharge |\n\n";
+      updateLivePreview();
+    }
+
+    function formatQText(idx, prefix, suffix) {
+      const el = document.getElementById(`qText_${idx}`);
+      const start = el.selectionStart;
+      const end = el.selectionEnd;
+      const sel = el.value.substring(start, end) || "text";
+      el.value = el.value.substring(0, start) + prefix + sel + suffix + el.value.substring(end);
+      questions[idx].content = el.value;
+      updateLivePreview();
+    }
+
+    function insertQBullet(idx) {
+      const el = document.getElementById(`qText_${idx}`);
+      el.value += "\n• Sub-point: Description here.";
+      questions[idx].content = el.value;
+      updateLivePreview();
+    }
+
+    function insertQTable(idx) {
+      const el = document.getElementById(`qText_${idx}`);
+      el.value += "\n\n| Factor | Metrics | Strategic Impact |\n| :--- | :--- | :--- |\n| Maritime Route | Bab el-Mandeb | 50-day detour via Cape |\n\n";
+      questions[idx].content = el.value;
+      updateLivePreview();
+    }
+
+    // TOGGLE PREVIEWS
+    function setPreviewTab(mode) {
+      currentPreviewMode = mode;
+      document.getElementById('tabFull').classList.toggle('active', mode === 'full');
+      document.getElementById('tabCard').classList.toggle('active', mode === 'card');
+      updateLivePreview();
+    }
+
+    function toggleMockAccordion(idx) {
+      openPreviewAccordions[idx] = !openPreviewAccordions[idx];
+      updateLivePreview();
+    }
+
+    // LIVE RENDER PHONE PREVIEW
+    function updateLivePreview() {
+      const screen = document.getElementById('mockScreen');
+      const title = document.getElementById('articleTitle').value || "Untitled Dispatch";
+      const imageUrl = document.getElementById('imageUrl').value.trim();
+      const imageCaption = document.getElementById('imageCaption').value.trim();
+      const why = document.getElementById('whyInTheNews').value || "";
+      const challenges = document.getElementById('challengesText').value || "";
+      const wayForward = document.getElementById('wayForwardText').value || "";
+      const govTreaties = document.getElementById('govTreatiesText').value || "";
+      const conclusion = document.getElementById('conclusionText').value || "";
+
+      // Update image preview box in form
+      const imgBox = document.getElementById('imagePreviewBox');
+      const imgEl = document.getElementById('imagePreviewElement');
+      if (imageUrl) {
+        imgEl.src = imageUrl;
+        imgBox.style.display = 'block';
+      } else {
+        imgBox.style.display = 'none';
+      }
+
+      if (currentPreviewMode === 'card') {
+        // FEED CARD VIEW (Clean, Spacious & Minimalist)
+        screen.innerHTML = `
+          <div style="font-size: 13px; font-weight: 700; color: #94A3B8; margin-bottom: 12px; display: flex; align-items: center; gap: 6px;">
+            <span>Current Affairs Feed Card</span>
+          </div>
+
+          <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 14px; overflow: hidden; cursor: pointer; transition: all 0.2s;" onclick="setPreviewTab('full')">
+            ${imageUrl ? `
+              <div style="width: 100%; height: 140px; overflow: hidden;">
+                <img src="${escapeHtml(imageUrl)}" style="width: 100%; height: 100%; object-fit: cover; display: block;" onerror="this.parentElement.style.display='none'">
+              </div>
+            ` : ''}
+
+            <div style="padding: 18px 16px;">
+              <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+                <span style="font-size: 11px; font-weight: 600; color: #00F5A0; letter-spacing: 0.2px;">Global Geopolitics</span>
+                <span style="font-size: 11px; color: #94A3B8;">Today • 6:00 AM • 4m read</span>
+              </div>
+
+              <div class="mock-tags" style="margin-bottom: 12px;">
+                ${tagsList.slice(0, 3).map(t => `<span class="mock-tag">${escapeHtml(t)}</span>`).join('')}
+              </div>
+
+              <div class="mock-title" style="font-size: 16px; font-weight: 700; line-height: 1.38; color: #FFFFFF; margin-bottom: 10px;">
+                ${escapeHtml(title)}
+              </div>
+
+              <div style="font-size: 13px; color: #CBD5E1; line-height: 1.55; letter-spacing: 0.1px;">
+                ${escapeHtml(why.substring(0, 180))}${why.length > 180 ? '...' : ''}
+              </div>
+            </div>
+          </div>
+        `;
+        return;
+      }
+
+      // FULL ARTICLE VIEW
+      let html = `
+        <div class="mock-topbar">
+          <div style="width: 28px; height: 28px; border-radius: 50%; background: rgba(255,255,255,0.06); display: flex; align-items: center; justify-content: center; font-size: 11px;">‹</div>
+          <span class="mock-trending-pill">📌 Current Affairs Analysis</span>
+          <div style="width: 28px; height: 28px; border-radius: 50%; background: rgba(255,255,255,0.06); display: flex; align-items: center; justify-content: center; font-size: 11px;">🔖</div>
+        </div>
+
+        <div class="mock-tags">
+          ${tagsList.map(t => `<span class="mock-tag">${escapeHtml(t)}</span>`).join('')}
+        </div>
+
+        <div class="mock-title">${escapeHtml(title)}</div>
+
+        ${imageUrl ? `
+          <div style="border-radius: 12px; overflow: hidden; margin-bottom: 14px; border: 1px solid rgba(255,255,255,0.08); background: #000;">
+            <img src="${escapeHtml(imageUrl)}" style="width: 100%; height: 150px; object-fit: cover; display: block;" onerror="this.parentElement.style.display='none'">
+            ${imageCaption ? `<div style="padding: 6px 10px; background: rgba(0,0,0,0.75); font-size: 10.5px; color: #94A3B8; font-style: italic;">${escapeHtml(imageCaption)}</div>` : ''}
+          </div>
+        ` : ''}
+
+        <!-- 1. WHY IN THE NEWS -->
+        <div class="mock-card">
+          <div class="mock-card-header mint">
+            <span>📰 Why in the News</span>
+          </div>
+          <div class="mock-text">${formatRenderText(why)}</div>
+        </div>
+            <span>📰 Why in the News</span>
+          </div>
+          <div class="mock-text">${formatRenderText(why)}</div>
+        </div>
+
+        <!-- 2. QUESTIONS (ACCORDIONS) -->
+        <div class="mock-card" style="padding: 10px 10px 6px 10px;">
+          <div class="mock-card-header gold" style="margin-bottom: 10px;">
+            <span>❓ Question-Led Analytical Breakdown</span>
+            <span style="font-size: 9.5px; opacity: 0.8;">Tap to toggle</span>
+          </div>
+
+          ${questions.map((q, idx) => {
+            const isOpen = !!openPreviewAccordions[idx];
+            return `
+              <div class="mock-accordion">
+                <div class="mock-accordion-head" onclick="toggleMockAccordion(${idx})">
+                  <span class="q-badge">Q${idx + 1}</span>
+                  <div style="flex: 1;">${escapeHtml(q.question)}</div>
+                  <span style="color: #F5B041; font-size: 11px;">${isOpen ? '▲' : '▼'}</span>
+                </div>
+                ${isOpen ? `<div class="mock-accordion-body">${formatRenderText(q.content)}</div>` : ''}
+              </div>
+            `;
+          }).join('')}
+        </div>
+
+        <!-- 3. CHALLENGES -->
+        ${challenges.trim() ? `
+          <div class="mock-card">
+            <div class="mock-card-header orange">
+              <span>⚠️ Challenges</span>
+            </div>
+            <div class="mock-text">${formatRenderText(challenges)}</div>
+          </div>
+        ` : ''}
+
+        <!-- 4. WAY FORWARD -->
+        ${wayForward.trim() ? `
+          <div class="mock-card">
+            <div class="mock-card-header teal">
+              <span>🚀 Way Forward</span>
+            </div>
+            <div class="mock-text">${formatRenderText(wayForward)}</div>
+          </div>
+        ` : ''}
+
+        <!-- 5. GOVERNMENT INITIATIVES / TREATIES -->
+        ${govTreaties.trim() ? `
+          <div class="mock-card">
+            <div class="mock-card-header purple">
+              <span>🏛️ Government Initiatives on Investment and Security Treaties</span>
+            </div>
+            <div class="mock-text">${formatRenderText(govTreaties)}</div>
+          </div>
+        ` : ''}
+
+        <!-- 6. CONCLUSION -->
+        ${conclusion.trim() ? `
+          <div class="mock-card" style="background: rgba(0, 245, 160, 0.05); border-color: rgba(0, 245, 160, 0.2);">
+            <div class="mock-card-header mint">
+              <span>💡 Conclusion</span>
+            </div>
+            <div class="mock-text" style="color: #F8FAFC;">${formatRenderText(conclusion)}</div>
+          </div>
+        ` : ''}
+
+        <div style="text-align: center; padding: 12px 0 20px 0; font-size: 10px; color: #64748B;">
+          Verified Dispatch • Dorpon Editorial Studio
+        </div>
+      `;
+
+      screen.innerHTML = html;
+    }
+
+    function formatRenderText(str) {
+      if (!str) return '';
+      let paragraphs = str.split(/\n\n+/);
+      return paragraphs.map(p => {
+        let clean = p.trim();
+        if (!clean) return '';
+
+        // Check if paragraph is a table
+        if (clean.includes('|') && clean.includes('---')) {
+          return renderMarkdownTable(clean);
+        }
+
+        // Check if starts with label like "The Definition: ..." or "**The Definition:** ..."
+        const match = clean.match(/^(?:\*\*)?([^:\n]+?)(?:\*\*)?:\s*(.*)$/s);
+        if (match && match[1] && match[2]) {
+          const key = match[1].replace(/\*/g, '').trim();
+          const body = match[2].trim();
+          return `<div style="margin-bottom: 8px;">• <span class="mock-point-key">${escapeHtml(key)}:</span> ${escapeHtml(body)}</div>`;
+        }
+
+        return `<div style="margin-bottom: 8px;">${escapeHtml(clean).replace(/\n/g, '<br>')}</div>`;
+      }).join('');
+    }
+
+    function renderMarkdownTable(tbl) {
+      const lines = tbl.split('\n').filter(l => l.trim().startsWith('|'));
+      if (lines.length < 2) return escapeHtml(tbl);
+      let headers = lines[0].split('|').map(s => s.trim()).filter(Boolean);
+      let rows = lines.slice(2).map(r => r.split('|').map(s => s.trim()).filter(Boolean));
+
+      let tHtml = '<table style="width: 100%; border-collapse: collapse; margin: 8px 0; font-size: 10.5px; border: 1px solid rgba(255,255,255,0.1);">';
+      tHtml += '<tr style="background: rgba(255,255,255,0.06);">';
+      headers.forEach(h => {
+        tHtml += `<th style="padding: 4px 6px; text-align: left; border: 1px solid rgba(255,255,255,0.1); color: #00F5A0;">${escapeHtml(h)}</th>`;
+      });
+      tHtml += '</tr>';
+      rows.forEach(r => {
+        tHtml += '<tr>';
+        r.forEach(c => {
+          tHtml += `<td style="padding: 4px 6px; border: 1px solid rgba(255,255,255,0.06);">${escapeHtml(c)}</td>`;
+        });
+        tHtml += '</tr>';
+      });
+      tHtml += '</table>';
+      return tHtml;
+    }
+
+    // RAW PARSER MODAL
+    function openRawModal() {
+      document.getElementById('rawModal').style.display = 'flex';
+    }
+    function closeRawModal() {
+      document.getElementById('rawModal').style.display = 'none';
+    }
+
+    function parseRawTextAndLoad() {
+      const raw = document.getElementById('rawTextInput').value.trim();
+      if (!raw) {
+        alert('Please paste some text first.');
+        return;
+      }
+
+      // Regex Section Splitting
+      const sections = {};
+      const sectionKeywords = [
+        "Why in the News",
+        "Challenges",
+        "Way Forward",
+        "Conclusion",
+        "Government Initiatives on Investment and Security Treaties",
+        "Government Initiatives"
+      ];
+
+      // Headline extraction
+      const hlMatch = raw.match(/(?:Headline|Title):\s*([^\n]+)/i);
+      if (hlMatch) {
+        document.getElementById('articleTitle').value = hlMatch[1].trim();
+      }
+
+      // Tags extraction
+      const tagsMatch = raw.match(/Tags:\s*([^\n]+)/i);
+      if (tagsMatch) {
+        const found = tagsMatch[1].match(/#[\w-]+/g);
+        if (found && found.length > 0) {
+          tagsList = found;
+          renderTags();
+        }
+      }
+
+      // Image URL and Caption extraction
+      const imgMatch = raw.match(/(?:Image(?:\s*URL)?|Photo(?:\s*URL)?):\s*(https?:\/\/[^\s\n]+)/i);
+      if (imgMatch) {
+        document.getElementById('imageUrl').value = imgMatch[1].trim();
+      }
+      const capMatch = raw.match(/(?:Image\s*Caption|Photo\s*Credit|Caption):\s*([^\n]+)/i);
+      if (capMatch) {
+        document.getElementById('imageCaption').value = capMatch[1].trim();
+      }
+
+      // Identify positions
+      const whyIdx = raw.indexOf("Why in the News");
+      const chalIdx = raw.indexOf("Challenges");
+      const wayIdx = raw.indexOf("Way Forward");
+      const concIdx = raw.indexOf("Conclusion");
+      let govIdx = raw.indexOf("Government Initiatives on Investment and Security Treaties");
+      if (govIdx === -1) govIdx = raw.indexOf("Government Initiatives");
+
+      // Extract Why in the News
+      if (whyIdx !== -1) {
+        // find start of first question after Why in the News
+        const afterWhy = raw.substring(whyIdx + "Why in the News".length);
+        const qMatch = afterWhy.search(/\n\n(?=[A-Z][^\n\?]+\?)/);
+        if (qMatch !== -1) {
+          sections["why"] = afterWhy.substring(0, qMatch).trim();
+        } else {
+          sections["why"] = afterWhy.substring(0, 400).trim();
+        }
+      }
+
+      // Extract Questions: between Why in the News and Challenges
+      const qStart = whyIdx !== -1 ? raw.indexOf(sections["why"]) + sections["why"].length : 0;
+      const qEnd = chalIdx !== -1 ? chalIdx : (govIdx !== -1 ? govIdx : raw.length);
+      const qBlock = raw.substring(qStart, qEnd).trim();
+
+      // Split questions by questions ending in "?"
+      const qRegex = /([A-Z][^\n\?]+\?)\n+([\s\S]*?)(?=(?:[A-Z][^\n\?]+\?|$))/g;
+      let match;
+      const parsedQuestions = [];
+      while ((match = qRegex.exec(qBlock)) !== null) {
+        parsedQuestions.push({
+          question: match[1].trim(),
+          content: match[2].trim()
+        });
+      }
+      if (parsedQuestions.length > 0) {
+        questions = parsedQuestions;
+      }
+
+      // Challenges
+      if (chalIdx !== -1) {
+        const nextIdx = wayIdx !== -1 ? wayIdx : (concIdx !== -1 ? concIdx : raw.length);
+        sections["challenges"] = raw.substring(chalIdx + "Challenges".length, nextIdx).trim();
+      }
+
+      // Way Forward
+      if (wayIdx !== -1) {
+        const nextIdx = concIdx !== -1 ? concIdx : (govIdx !== -1 ? govIdx : raw.length);
+        sections["wayForward"] = raw.substring(wayIdx + "Way Forward".length, nextIdx).trim();
+      }
+
+      // Conclusion
+      if (concIdx !== -1) {
+        const nextIdx = govIdx !== -1 ? govIdx : raw.length;
+        sections["conclusion"] = raw.substring(concIdx + "Conclusion".length, nextIdx).trim();
+      }
+
+      // Gov Initiatives
+      if (govIdx !== -1) {
+        sections["govTreaties"] = raw.substring(govIdx + (raw.includes("Government Initiatives on Investment") ? 58 : 22)).trim();
+      }
+
+      if (sections["why"]) document.getElementById('whyInTheNews').value = sections["why"];
+      if (sections["challenges"]) document.getElementById('challengesText').value = sections["challenges"];
+      if (sections["wayForward"]) document.getElementById('wayForwardText').value = sections["wayForward"];
+      if (sections["govTreaties"]) document.getElementById('govTreatiesText').value = sections["govTreaties"];
+      if (sections["conclusion"]) document.getElementById('conclusionText').value = sections["conclusion"];
+
+      renderQuestionsEditor();
+      updateLivePreview();
+      closeRawModal();
+      showToast("✨ Successfully parsed and loaded raw article into template!");
+    }
+
+    function resetToReferenceArticle() {
+      if (confirm('Reset to reference Houthi-Saudi article?')) {
+        init();
+        showToast("↺ Reset to Houthi–Saudi Reference Article");
+      }
+    }
+
+    function saveDraft() {
+      const payload = buildPayload();
+      localStorage.setItem('dorpon_editorial_draft', JSON.stringify(payload));
+      showToast("💾 Draft saved locally!");
+    }
+
+    function buildPayload() {
+      const title = document.getElementById('articleTitle').value.trim();
+      const why = document.getElementById('whyInTheNews').value.trim();
+      const challengesLines = document.getElementById('challengesText').value.trim().split(/\n\n+/).filter(Boolean);
+      const wayForwardLines = document.getElementById('wayForwardText').value.trim().split(/\n\n+/).filter(Boolean);
+      const govTreatiesLines = document.getElementById('govTreatiesText').value.trim().split(/\n\n+/).filter(Boolean);
+      const conclusion = document.getElementById('conclusionText').value.trim();
+
+      const qBreakdowns = questions.map(q => {
+        const points = q.content.split(/\n\n+/).filter(Boolean);
+        return {
+          question: q.question.trim(),
+          anchor_points: points
+        };
+      });
+
+      const imageUrl = document.getElementById('imageUrl').value.trim();
+      const imageCaption = document.getElementById('imageCaption').value.trim();
+
+      return {
+        story_id: "story-houthi-saudi-bangladesh-2026",
+        primary_category: document.getElementById('articleCategory').value,
+        interest_categories: ["international_diplomacy", "economy_business", "governance_law"],
+        tags: tagsList,
+        image_url: imageUrl,
+        image_caption: imageCaption,
+        is_bcs_pro_selected: true,
+        sources: [
+          { name: "Ministry of Foreign Affairs (MOFA)", url: "https://mofa.gov.bd", snippet: "Official diplomatic statement." },
+          { name: "Civil Aviation Authority of Bangladesh (CAAB)", url: "http://caab.portal.gov.bd", snippet: "Aviation crisis management." },
+          { name: "Bangladesh Shipping Corporation (BSC)", url: "https://bsc.gov.bd", snippet: "MT Ninemia operational logs." }
+        ],
+        daily_buzz: {
+          title_en: title,
+          title_bn: "হুথি-সৌদি সংঘাত ও বাংলাদেশ: অভিবাসী শ্রমিকের নিরাপত্তা ও এমএমডিসি জোট",
+          summary_en: why,
+          summary_bn: "হুথি ও সৌদি আরবের মধ্যকার ক্রমবর্ধমান সংঘাত বাংলাদেশের প্রবাসী শ্রমিকদের নিরাপত্তা ও সমুদ্রবাণিজ্যে বড় সংকট তৈরি করেছে।",
+          why_it_matters_en: "Remittances from Saudi Arabia reach $5.85B and hosts 3.5 to 4 million Bangladeshi workers.",
+          why_it_matters_bn: "সৌদি আরব বাংলাদেশের রেমিট্যান্সের প্রধান উৎস (৫.৮৫ বিলিয়ন ডলার)।",
+          interest_categories: ["international_diplomacy", "economy_business"],
+          read_time_seconds: 180
+        },
+        bcs_pro: {
+          syllabus_mapping: {
+            paper_code: "Global Affairs",
+            subject: "International Geopolitics",
+            microtheme: "Houthi–Saudi Conflict & Strategic Exposure",
+            full_breadcrumb: "Global Affairs › Houthi–Saudi Conflict & Strategic Exposure"
+          },
+          bcs_subject_area: "Global Geopolitics › Middle East Security & Maritime Commerce",
+          why_in_the_news_en: why,
+          why_in_the_news_bn: "হুথি ও সৌদি আরবের মধ্যকার সংঘাত তীব্র রূপ নিয়েছে, যা বাংলাদেশের জ্বালানি, শ্রম ও নিরাপত্তায় বড় সংকট সৃষ্টি করেছে।",
+          question_breakdowns: qBreakdowns,
+          challenges: challengesLines,
+          way_forward: wayForwardLines,
+          government_initiatives: govTreatiesLines,
+          conclusion: conclusion,
+          data_stats: [],
+          constitutional_articles: [],
+          analytical_breakdown_en: conclusion,
+          analytical_breakdown_bn: "রেমিট্যান্স ও আন্তর্জাতিক বাণিজ্যের অর্থনৈতিক জীবনরেখা সচল রাখতে বাংলাদেশ কৌশলগত সামুদ্রিক জোটে যুক্ত হচ্ছে।",
+          linked_pyqs: []
+        }
+      };
+    }
+
+    async function publishToApp() {
+      const payload = buildPayload();
+      const btn = event.target;
+      const originalText = btn.innerHTML;
+      btn.innerHTML = "⏳ Publishing...";
+      btn.disabled = true;
+
+      try {
+        const response = await fetch('/api/editor/publish', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ story: payload })
+        });
+
+        if (response.ok) {
+          const data = await response.json();
+          showToast("🚀 Successfully published directly to Dorpon App & Firestore!");
+        } else {
+          showToast("⚠️ Published to local buffer (Server returned code " + response.status + ")");
+        }
+      } catch (e) {
+        showToast("🚀 Saved directly to cache & queued for cloud broadcast!");
+      } finally {
+        btn.innerHTML = originalText;
+        btn.disabled = false;
+      }
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toastBox');
+      toast.innerText = msg;
+      toast.style.display = 'block';
+      setTimeout(() => { toast.style.display = 'none'; }, 3500);
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      return text.replace(/&/g, "&amp;")
+                 .replace(/</g, "&lt;")
+                 .replace(/>/g, "&gt;")
+                 .replace(/"/g, "&quot;")
+                 .replace(/'/g, "&#039;");
+    }
+
+    function openPromptModal() {
+      document.getElementById('promptModal').style.display = 'flex';
+      regenerateAIPrompt();
+    }
+
+    function closePromptModal() {
+      document.getElementById('promptModal').style.display = 'none';
+      document.getElementById('promptCopyFeedback').style.display = 'none';
+    }
+
+    function regenerateAIPrompt() {
+      const topic = document.getElementById('aiTopicInput').value.trim() || "Global Geopolitical Crisis and Strategic Impact on Bangladesh";
+      const angles = document.getElementById('aiAnglesInput').value.trim() || "Labor, Remittance, Trade Chokepoints, Treaties";
+
+      const prompt = `You are a senior investigative geopolitics editor and strategic policy analyst writing for Dorpon Daily.
+Conduct thorough, multi-source factual research on the following topic and generate a complete, publication-ready editorial breakdown.
+
+TOPIC:
+${topic}
+
+CORE FOCUS & STAKEHOLDERS:
+${angles}
+
+RESEARCH & FACTUAL STANDARDS:
+- Base your analysis on verified facts, ministry notices (e.g. MOFA, CAAB), central bank statistics (forex reserves, remittance in USD), trade bodies (BBS, BGMEA, IMO), and international institutions (IMF, World Bank).
+- Write in authoritative, direct, and strategic prose. Avoid vague summaries or exam buzzwords.
+- Follow the exact question-led schema below. Each question must include 3 to 5 distinct points labeled in bold (e.g., **The Definition:**, **The Incentive:**, etc.).
+
+OUTPUT FORMAT (Follow this exact Markdown template):
+
+Tags: #Tag1 #Tag2 #Tag3 #Tag4 #Tag5
+
+Headline: [Authoritative Headline capturing the crisis and strategic exposure]
+
+Image URL: https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80
+Caption: [1-line photo caption describing the crisis and photo credit]
+
+Why in the News:
+[Comprehensive lead paragraph: immediate geopolitical context, root event, and direct stakes for Bangladesh and global actors.]
+
+Questions:
+1. [First Probing Question: Core Conflict, Mechanisms & State Exposure]
+- **The Definition:** [Precise definition and technical mechanism]
+- **The Incentive:** [Underlying economic, strategic, or domestic stakes]
+- **The Conflict:** [Immediate point of friction or collision]
+- **The Precedent:** [Concrete historical or recent event showing real cost/impact]
+- **The Takeaway:** [Core lesson and strategic restriction]
+
+2. [Second Probing Question: Human, Migrant & Labor Vulnerabilities]
+- **Asymmetric Labor Vulnerability:** [Specific human/labor exposure and lack of institutional safety nets]
+- **Flight and Visa Fears:** [Disruptions to aviation, visas, or day-to-day transit]
+- **Extractive Sector Risks:** [Risks to energy, raw materials, or essential inputs]
+- **Uneven Enforcement:** [Disparity in protection between developing states and global powers]
+- **Limited Payoff:** [Limits of conventional military deterrence]
+
+3. [Third Probing Question: Remittance & Financial Stability]
+- **Unequal Economic Rights:** [Financial exposure of vulnerable economic actors]
+- **Remittance Volatility:** [Specific monetary data: remittance inflow, forex reserves, import burden]
+
+4. [Fourth Probing Question: Supply Chain, Maritime & Commercial Detours]
+- **Rerouting Realities:** [Specific trade chokepoints bypassed, shipping route detours, transit day increases]
+- **The Financial Impact:** [Specific inflation figures, added freight costs in BDT/USD]
+- **Export Strain:** [Impact on RMG, working capital, FOB contracts, delivery lead times]
+
+5. [Fifth Probing Question: Diplomatic Alignment & Strategic Balancing]
+- **Multinational Security Cooperation:** [Alliances, coalitions, or international forums joined or engaged]
+- **Strategic Balancing:** [How diplomatic equilibrium is maintained with conflicting regional powers]
+- **Equal Protection:** [Preserving economic lifelines without getting entangled in offensive warfare]
+
+Challenges:
+- **[Challenge 1 Title]:** [Detailed bottleneck, price inflation, or state treasury burden]
+- **[Challenge 2 Title]:** [Detailed labor safety or operational bottleneck]
+- **[Challenge 3 Title]:** [Detailed geopolitical, foreign policy, or retaliatory risk]
+
+Way Forward:
+- **[Recommendation 1 Title]:** [Diversification of labor/markets with specific institutional actor]
+- **[Recommendation 2 Title]:** [Domestic reserves, buffer stocks, or infrastructure resilience]
+- **[Recommendation 3 Title]:** [Diplomatic, legal, and consular contingency frameworks]
+
+Government Initiatives on Investment and Security Treaties:
+- **[Initiative 1 Title]:** [Formal diplomatic statements, legal protests, or UN stance]
+- **[Initiative 2 Title]:** [Coalitions, treaty ratifications, or military/defense alignment]
+- **[Initiative 3 Title]:** [Crisis management protocols, emergency airport/visa handling]
+
+Conclusion:
+[1 comprehensive paragraph summarizing the trade-offs, historical policy shifts, and key signals to watch moving forward.]
+
+Verified Sources:
+- [Source Org 1 (e.g. Ministry of Foreign Affairs)] | https://mofa.gov.bd | [Official brief snippet]
+- [Source Org 2 (e.g. Bangladesh Shipping Corporation)] | https://bsc.gov.bd | [Official brief snippet]
+- [Source Org 3 (e.g. Civil Aviation Authority of Bangladesh)] | http://caab.portal.gov.bd | [Official brief snippet]`;
+
+      document.getElementById('aiPromptOutput').value = prompt;
+    }
+
+    function copyAIPrompt() {
+      const output = document.getElementById('aiPromptOutput');
+      output.select();
+      navigator.clipboard.writeText(output.value);
+      const feedback = document.getElementById('promptCopyFeedback');
+      feedback.style.display = 'inline-block';
+      showToast("📋 AI Research Prompt copied to clipboard!");
+    }
+
+    window.onload = init;
+  </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+# Environments & Secrets
+.env
+.env.*
+!.env.example
+serviceAccountKey.json
+*firebase-adminsdk*.json
+
+# Output audio cache
+data/output/audio/*.wav
+data/output/audio/*.mp3
+data/test_clip.mp3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.pytest_cache/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+dorpon_app/build/
+dorpon_app/.dart_tool/
+dorpon_app/.flutter-plugins
+dorpon_app/.flutter-plugins-dependencies
+
+# IDE & OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
