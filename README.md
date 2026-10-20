@@ -91,7 +91,25 @@ python -m pipeline.run_pipeline
 
 ---
 
-### 2. Client Application (Flutter)
+### 2. High-Performance Web Application (Vite + React + Tailwind)
+
+A dedicated, lightning-fast, 120fps obsidian glass web reader featuring bilingual support (English/বাংলা), real-time Firestore synchronization, offline snapshot fallback, and hands-free Web Speech audio briefings.
+
+```bash
+cd web
+pnpm install     # or npm install
+pnpm run dev     # runs local dev server on http://localhost:3000
+pnpm run build   # builds production bundle in web/dist
+```
+
+#### Production Deploy (Firebase Hosting)
+```bash
+firebase deploy --only hosting
+```
+
+---
+
+### 3. Mobile Client Application (Flutter)
 
 #### Run as Local Web App
 ```bash

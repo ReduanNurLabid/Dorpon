@@ -28,6 +28,11 @@ dorpon_app/.dart_tool/
 dorpon_app/.flutter-plugins
 dorpon_app/.flutter-plugins-dependencies
 
+# Web
+web/node_modules/
+web/dist/
+web/.pnpm-debug.log*
+
 # IDE & OS
 .vscode/
 .idea/

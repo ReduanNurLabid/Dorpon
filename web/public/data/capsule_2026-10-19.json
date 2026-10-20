@@ -1,0 +1,437 @@
+{
+  "edition_date": "2026-10-19",
+  "created_at": "2026-10-19T04:38:23.669003",
+  "status": "PENDING_REVIEW",
+  "bcs_pro_preset_story_ids": [
+    "55b2ee88-7ac8-5e23-b6bf-478f53b171cb",
+    "4beac23e-2388-5d66-aa07-7fe960641059",
+    "5a299bbb-4819-56ab-9ab4-e87352aa99c2",
+    "772d43bd-293d-598d-a095-1960d1709577"
+  ],
+  "stories": [
+    {
+      "story_id": "4beac23e-2388-5d66-aa07-7fe960641059",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.protichinta.com/article/86s7wfqdgk"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা",
+        "title_en": "Summary: বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা",
+        "summary_bn": "অর্থনৈতিক মধ্যবিত্ত কারা, সেটা চিহ্নিত করা গেলে তাদের অর্থনৈতিক উপযোগিতা ও অবদানের সুযোগগুলোও খুঁজে পাওয়া সম্ভব। বাংলাদেশের অর্থনৈতিক রূপান্তরের ফল ও কারণ হিসেবে নতুন এক উঠতি মধ্যবিত্তকেও দেখা যাচ্ছে। উন্নয়ন গবেষক মহা মির্জা প্রশ্ন করছেন, শ্রমিকের আয়...",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": {
+        "bcs_subject_area": "Bangladesh Affairs",
+        "data_stats": [
+          {
+            "metric_name": "Official Report / Indicator",
+            "value": "Latest Gazette / BBS Release",
+            "source_org": "BBS / Bangladesh Bank",
+            "context": "Key data point referenced in the morning gazette."
+          }
+        ],
+        "constitutional_articles": [
+          {
+            "article_number": "Article 15 (অনুচ্ছেদ 15)",
+            "article_title_bn": "মৌলিক প্রয়োজনের ব্যবস্থা",
+            "article_title_en": "Provision of Basic Necessities",
+            "legal_relevance": "State responsibility to secure food, clothing, shelter, education and medical care, and right to work."
+          },
+          {
+            "article_number": "Article 102 (অনুচ্ছেদ 102)",
+            "article_title_bn": "হাইকোর্ট বিভাগের কতিপয় আদেশ ও নির্দেশ ইত্যাদি দানের ক্ষমতা (রিট)",
+            "article_title_en": "Power of High Court Division to issue certain orders and directions (Writ Jurisdiction)",
+            "legal_relevance": "High Court powers to enforce fundamental rights and issue writ petitions (Mandamus, Certiorari, Habeas Corpus, Prohibition, Quo Warranto)."
+          }
+        ],
+        "analytical_breakdown_bn": "প্রশাসনিক ও অর্থনৈতিক কাঠামোর ওপর এই ঘটনার প্রভাব বহুমাত্রিক। বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "analytical_breakdown_en": "Significant structural implication for civil servants. Demonstrates real-world application of executive regulatory mechanisms and fiscal-monetary governance.",
+        "written_exam_prompt": {
+          "marks": 15,
+          "prompt_text_bn": "প্রশ্ন: 'বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা'—উক্ত ঘটনার আলোকে বাংলাদেশের প্রশাসনিক স্বচ্ছতা ও দীর্ঘমেয়াদী নীতিগত চ্যালেঞ্জসমূহ পর্যালোচনা করুন। [নম্বর: ১৫]",
+          "prompt_text_en": "Q: In light of 'বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা', analyze the policy bottlenecks and propose strategic governance solutions. [Marks: 15]",
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. আইনগত ও প্রাতিষ্ঠানিক সীমাবদ্ধতা (Regulatory Gaps & Institutional Issues)",
+            "৩. সরকারি নীতি সংস্কার ও ভবিষ্যৎ করণীয় (Strategic Policy Recommendations)"
+          ]
+        },
+        "linked_pyqs": [
+          {
+            "pyq_id": "pyq_bcs44_w_01",
+            "bcs_batch": "44th BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          },
+          {
+            "pyq_id": "pyq_bcs41_w_03",
+            "bcs_batch": "41st BCS Written",
+            "subject": "International Affairs",
+            "question_snippet": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত ভূরাজনীতি এবং বাংলাদেশের পররাষ্ট্রনীতির জাতীয় স্বার্থ রক্ষার কৌশল বিশ্লেষণ করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "story_id": "772d43bd-293d-598d-a095-1960d1709577",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/usa/bmvjyc6urp"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রজুড়ে ট্রাম্পবিরোধী বিক্ষোভ",
+        "title_en": "Summary: যুক্তরাষ্ট্রজুড়ে ট্রাম্পবিরোধী বিক্ষোভ",
+        "summary_bn": "ওয়াশিংটন–নিউইয়র্কসহ বিভিন্ন শহরে প্রায় তিন হাজার কর্মসূচিতে ট্রাম্পের বিরুদ্ধে ক্ষোভ জানানো হয়।",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": {
+        "bcs_subject_area": "Bangladesh Affairs",
+        "data_stats": [
+          {
+            "metric_name": "Official Report / Indicator",
+            "value": "Latest Gazette / BBS Release",
+            "source_org": "BBS / Bangladesh Bank",
+            "context": "Key data point referenced in the morning gazette."
+          }
+        ],
+        "constitutional_articles": [],
+        "analytical_breakdown_bn": "প্রশাসনিক ও অর্থনৈতিক কাঠামোর ওপর এই ঘটনার প্রভাব বহুমাত্রিক। বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "analytical_breakdown_en": "Significant structural implication for civil servants. Demonstrates real-world application of executive regulatory mechanisms and fiscal-monetary governance.",
+        "written_exam_prompt": {
+          "marks": 15,
+          "prompt_text_bn": "প্রশ্ন: 'যুক্তরাষ্ট্রজুড়ে ট্রাম্পবিরোধী বিক্ষোভ'—উক্ত ঘটনার আলোকে বাংলাদেশের প্রশাসনিক স্বচ্ছতা ও দীর্ঘমেয়াদী নীতিগত চ্যালেঞ্জসমূহ পর্যালোচনা করুন। [নম্বর: ১৫]",
+          "prompt_text_en": "Q: In light of 'যুক্তরাষ্ট্রজুড়ে ট্রাম্পবিরোধী বিক্ষোভ', analyze the policy bottlenecks and propose strategic governance solutions. [Marks: 15]",
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. আইনগত ও প্রাতিষ্ঠানিক সীমাবদ্ধতা (Regulatory Gaps & Institutional Issues)",
+            "৩. সরকারি নীতি সংস্কার ও ভবিষ্যৎ করণীয় (Strategic Policy Recommendations)"
+          ]
+        },
+        "linked_pyqs": [
+          {
+            "pyq_id": "pyq_bcs43_w_02",
+            "bcs_batch": "43rd BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          },
+          {
+            "pyq_id": "pyq_bcs41_w_03",
+            "bcs_batch": "41st BCS Written",
+            "subject": "International Affairs",
+            "question_snippet": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত ভূরাজনীতি এবং বাংলাদেশের পররাষ্ট্রনীতির জাতীয় স্বার্থ রক্ষার কৌশল বিশ্লেষণ করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "story_id": "5a299bbb-4819-56ab-9ab4-e87352aa99c2",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/215vwz0u23"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সায়মা ওয়াজেদের বিরুদ্ধে অভিযোগপত্র অনুমোদন দুদকের",
+        "title_en": "Summary: সায়মা ওয়াজেদের বিরুদ্ধে অভিযোগপত্র অনুমোদন দুদকের",
+        "summary_bn": "দুদক সচিব মো. সাইদুর রহমান খান রোববার এক ব্রিফিংয়ে সায়মা ওয়াজেদের বিরুদ্ধে চার্জশিট অনুমোদন দেওয়ার তথ্য জানান।",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "governance_law",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": {
+        "bcs_subject_area": "Bangladesh Affairs",
+        "data_stats": [
+          {
+            "metric_name": "Official Report / Indicator",
+            "value": "Latest Gazette / BBS Release",
+            "source_org": "BBS / Bangladesh Bank",
+            "context": "Key data point referenced in the morning gazette."
+          }
+        ],
+        "constitutional_articles": [
+          {
+            "article_number": "Article 15 (অনুচ্ছেদ 15)",
+            "article_title_bn": "মৌলিক প্রয়োজনের ব্যবস্থা",
+            "article_title_en": "Provision of Basic Necessities",
+            "legal_relevance": "State responsibility to secure food, clothing, shelter, education and medical care, and right to work."
+          }
+        ],
+        "analytical_breakdown_bn": "প্রশাসনিক ও অর্থনৈতিক কাঠামোর ওপর এই ঘটনার প্রভাব বহুমাত্রিক। বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "analytical_breakdown_en": "Significant structural implication for civil servants. Demonstrates real-world application of executive regulatory mechanisms and fiscal-monetary governance.",
+        "written_exam_prompt": {
+          "marks": 15,
+          "prompt_text_bn": "প্রশ্ন: 'সায়মা ওয়াজেদের বিরুদ্ধে অভিযোগপত্র অনুমোদন দুদকের'—উক্ত ঘটনার আলোকে বাংলাদেশের প্রশাসনিক স্বচ্ছতা ও দীর্ঘমেয়াদী নীতিগত চ্যালেঞ্জসমূহ পর্যালোচনা করুন। [নম্বর: ১৫]",
+          "prompt_text_en": "Q: In light of 'সায়মা ওয়াজেদের বিরুদ্ধে অভিযোগপত্র অনুমোদন দুদকের', analyze the policy bottlenecks and propose strategic governance solutions. [Marks: 15]",
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. আইনগত ও প্রাতিষ্ঠানিক সীমাবদ্ধতা (Regulatory Gaps & Institutional Issues)",
+            "৩. সরকারি নীতি সংস্কার ও ভবিষ্যৎ করণীয় (Strategic Policy Recommendations)"
+          ]
+        },
+        "linked_pyqs": [
+          {
+            "pyq_id": "pyq_bcs44_w_01",
+            "bcs_batch": "44th BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          },
+          {
+            "pyq_id": "pyq_bcs43_w_02",
+            "bcs_batch": "43rd BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "story_id": "55b2ee88-7ac8-5e23-b6bf-478f53b171cb",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law",
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/ramisa-rape-and-murder-sohel-rana-mentions-new-name-charges-framed-4187931"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed (সংক্ষিপ্ত সার)",
+        "title_en": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed",
+        "summary_bn": "ঘটনার বিস্তারিত পর্যালোচনা ও নীতিগত পদক্ষেপ গ্রহণ করা হচ্ছে। সংশ্লিষ্ট কর্তৃপক্ষ সার্বিক পরিস্থিতি পর্যবেক্ষণ করছে।",
+        "summary_en": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed prajukta@theda… Mon, 06/01/2026 - 16:43 Editor's Pick The Houthis won't back down, but what does it mean for Bangladesh? 4 HOUR(s) • Geopolitical Insights Tarique Rahman’s Japan visit: Turning trust into tangible gains 18 October 2026 • Geopolitical Insights Interview / Neha Bora: ‘We are demanding the restoration of democracy in India’ 18 October 2026 • Big Picture Can Bangladesh turn BIMSTEC into an effective regional force? 17 October 2026 • Geopolitical Insights The politics behind the Nobel Prize in economics 13 October 2026 • Big Picture Ramisa rape and murder: Sohel Rana mentions new name as charges framed He claimed a man named 'Dollar' was also involved, while the tribunal fixed tomorrow for the start of the trial A new name has surfaced in the Ramisa rape and murder case, with prime accused Sohel Rana telling reporters today that a man called \"Dollar\" was responsible for the rape and murder of the eight-year-old girl. However, no further details about the person were immediately available. Tap here to add The Daily Star as a trusted source Sohel made the claim while being escorted to the courtroom of the Dhaka Metropolitan Children Violence Suppression Tribunal. \"I am at fault, and Dollar is also at fault. I am not the only culprit,\" he told reporters. Standing in the courtroom's dock, he shouted at the lawyers present in the courtroom after the hearing, and said, “I did not commit the rape; I only dismembered the body. A man named Dollar committed the rape. I have sinned, so punish me for that sin.” At that time, Sohel further claimed that Dollar had promised to pay him Tk 2 lakh if he could bring the girl to him. However, police officers present immediately stopped him from speaking further. Sohel also claimed that his wife, Swapna Khatun, was innocent. Earlier in the day, Sohel and Swapna were brought to the lock-up of the Metropolitan Sessions Judge's Court in Dhaka. Later, Judge Masrur Salekin of the tribunal framed charges against the couple in the case over the rape and murder of Ramisa in Dhaka's Pallabi area. Both accused pleaded not guilty after the charges were read out, said Bench Assistant Pankoj Peter Gomes. The judge also fixed tomorrow for the start of the trial, with the victim's father, Abdul Hannan Mollah, scheduled to testify first, he added. On May 24, Sub-Inspector Ohiduzzaman of Pallabi Police Station submitted the charge sheet before the Chief Metropolitan Magistrate's Court in Dhaka, accusing Sohel of rape, murder and destruction of evidence, and Swapna of destruction of evidence and providing false information. Several hours later, the CMM Court transferred the case to the Children Violence Suppression Tribunal for trial. Ramisa, a second-grade student of Popular Model High School, was found beheaded on May 19 in the house of her neighbour, Sohel. The following day, Ramisa's father filed a case with Pallabi Police Station, accusing the couple and an unidentified person. According to the case statement, Sohel lured Ramisa into his room and raped her. Investigators said he later slit her throat and attempted to dismember the body to conceal the crime. On May 20, police produced Sohel and Swapna before a Dhaka court, and court sources said Sohel agreed to give a confessional statement before a magistrate. The third and unidentified accused was on the run. Dhaka Metropolitan Magistrate Aminul Islam Junaid recorded Sohel's confessional statement after police brought him to the magistrate’s chamber, said a court staff member. Sub-Inspector Ohiduzzaman of Pallabi Police Station told The Daily Star that day, the prime accused had already admitted to the crime during primary interrogation. On May 22, the Dhaka Bar Association decided not to provide legal assistance to the accused following an emergency virtual meeting of its executive committee, citing the gravity of the allegations. For all latest news, follow The Daily Star's Google News channel. The next day, the government appointed Supreme Court lawyer Musa Kalimullah as a state defence counsel to represent the accused to ensure a fair trial. This report has been corrected at 4:43pm. In the earlier version, Sohel Rana’s comment was misreported. We regret the error.&nbsp; Click to comment Comments Comments Policy Related news",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "governance_law",
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": {
+        "bcs_subject_area": "Bangladesh Affairs",
+        "data_stats": [
+          {
+            "metric_name": "Official Report / Indicator",
+            "value": "Latest Gazette / BBS Release",
+            "source_org": "BBS / Bangladesh Bank",
+            "context": "Key data point referenced in the morning gazette."
+          }
+        ],
+        "constitutional_articles": [],
+        "analytical_breakdown_bn": "প্রশাসনিক ও অর্থনৈতিক কাঠামোর ওপর এই ঘটনার প্রভাব বহুমাত্রিক। বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "analytical_breakdown_en": "Significant structural implication for civil servants. Demonstrates real-world application of executive regulatory mechanisms and fiscal-monetary governance.",
+        "written_exam_prompt": {
+          "marks": 15,
+          "prompt_text_bn": "প্রশ্ন: 'Ramisa rape and murder: Sohel Rana mentions new name as charges framed'—উক্ত ঘটনার আলোকে বাংলাদেশের প্রশাসনিক স্বচ্ছতা ও দীর্ঘমেয়াদী নীতিগত চ্যালেঞ্জসমূহ পর্যালোচনা করুন। [নম্বর: ১৫]",
+          "prompt_text_en": "Q: In light of 'Ramisa rape and murder: Sohel Rana mentions new name as charges framed', analyze the policy bottlenecks and propose strategic governance solutions. [Marks: 15]",
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. আইনগত ও প্রাতিষ্ঠানিক সীমাবদ্ধতা (Regulatory Gaps & Institutional Issues)",
+            "৩. সরকারি নীতি সংস্কার ও ভবিষ্যৎ করণীয় (Strategic Policy Recommendations)"
+          ]
+        },
+        "linked_pyqs": [
+          {
+            "pyq_id": "pyq_bcs44_w_01",
+            "bcs_batch": "44th BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          },
+          {
+            "pyq_id": "pyq_bcs43_w_02",
+            "bcs_batch": "43rd BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          }
+        ]
+      }
+    },
+    {
+      "story_id": "6815e8c9-a1ff-5e06-b382-03cdde250dbf",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/sports/cricket/fizz-takes-three-mumbai-rout-1220587"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "Fizz takes three in Mumbai rout (সংক্ষিপ্ত সার)",
+        "title_en": "Fizz takes three in Mumbai rout",
+        "summary_bn": "ঘটনার বিস্তারিত পর্যালোচনা ও নীতিগত পদক্ষেপ গ্রহণ করা হচ্ছে। সংশ্লিষ্ট কর্তৃপক্ষ সার্বিক পরিস্থিতি পর্যবেক্ষণ করছে।",
+        "summary_en": "Fizz takes three in Mumbai rout atique_anam@ya… Sun, 05/08/2016 - 20:23 Editor's Pick Slave raids in Bengal and the making of Arakan’s power 12 October 2026 • In Focus Bangladesh’s China question in a changing Indo-Pacific 14 October 2026 • Geopolitical Insights Can Bangladesh bring its hilsa back? 12 October 2026 • Big Picture Why does Bangladesh keep starting from scratch in policymaking? 13 October 2026 • Views What should 'Bangladesh First' mean for foreign policy? 12 October 2026 • Geopolitical Insights Fizz takes three in Mumbai rout Pace sensation Mustafizur Rahman recorded his best bowling figures of the Indian Premier League today when he finished with 3 for 16 in Sunrisers Hyderabad’s 85-run victory over Mumbai Indians at Vishakhapatnam. The three-wicket haul took the left-armer to joint-second in the wicket-takers’ list with a total tally of 13 scalps from nine matches. He is one short of Mitchell McClenaghan, who has taken 14 wickets in 10 matches.&nbsp; Tap here to add The Daily Star as a trusted source The 20-year-old currently has the best bowling average, 15.61, and best economy rate, 6.15, amongs bowlers who have played at least eight matches in the tournament. The Sunrisers Hyderabad might have depended on Mustafizur a number of times in the ongoing Indian Premier League, but today was a collective effort. Ashish Nehra, Bhuvaneshwar Kumar and Barinder Sran had reduced the Mumbai Indians to 49 for 6 in nine overs before Mustafizur was given the ball. The wily left-armer sent back Hardik Pandya with his first ball with a cutter which Pandya failed to adjust himself against. Pandya attempted a slice through point, but the ball curled away to the hands of the keeper, with the umpire judging that out even though the television replays were inconclusive. Then in the very first ball of his second over again, Fizz bowled yet another slower delivery which moved away from the batsman, getting the edge of Tim Southee on the way to the keeper. The man from Satkhira returned got the scalp of McClenaghan in the final delivery of his third over, getting the batsman to offer a loopy catch to midwicket. Mustafizur did not get to bowl a fourth over as David Warner gave the other bowlers their chance to mop up the tail. And they did efficiently, bundling out the hosts for just 92 runs in 16.3 overs. Earlier, brilliant performances from Hyderabad openers, Warner and Shikhar Dhawan helped the team post 177. Dhawan scored 82 off 57 while Warner smacked 48 off 33. Yuvraj Singh also had a good time with the bat, scoring 39 off 23.&nbsp; For all latest news, follow The Daily Star's Google News channel. Click to comment Comments Comments Policy",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": null
+    },
+    {
+      "story_id": "d82b29db-a5f8-5a1b-95c7-f90373668190",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/europe/xxwruheg1e"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "‘আমাদের দম বন্ধ হয়ে আসছে’: আবাসন ও জীবনযাত্রার ব্যয় নিয়ে ইউরোপের দেশে দেশে বিক্ষোভ",
+        "title_en": "Summary: ‘আমাদের দম বন্ধ হয়ে আসছে’: আবাসন ও জীবনযাত্রার ব্যয় নিয়ে ইউরোপের দেশে দেশে বিক্ষোভ",
+        "summary_bn": "ফ্রান্স, স্পেন ও আলবেনিয়ার পর ইউরোপের পর্তুগাল ও ইতালিতেও বিক্ষোভ ছড়িয়ে পড়েছে। আবাসনসংকট ও জীবনযাত্রার ব্যয় বৃদ্ধি এসব বিক্ষোভের প্রধান কারণ।",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": null
+    },
+    {
+      "story_id": "0d86edec-398a-5747-9032-bb09f9d61afd",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.protichinta.com/article/gbgvsbw1rv"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিশ্বায়নের তত্ত্বের আলোকে কৃত্রিম বুদ্ধিমত্তা",
+        "title_en": "Summary: বিশ্বায়নের তত্ত্বের আলোকে কৃত্রিম বুদ্ধিমত্তা",
+        "summary_bn": "বিশ্বায়ন ও গণমাধ্যমের ধারাবাহিকতায় কৃত্রিম বুদ্ধিমত্তার দ্রুত বিস্তার এবং তার সাংস্কৃতিক প্রভাব নিয়ে এই প্রবন্ধ। ম্যাকলুহানের বিশ্বগ্রাম, শিলারের সাংস্কৃতিক সাম্রাজ্যবাদ, রবার্টসনের গ্লোকালাইজেশন, আপ্পাদুরাইয়ের বৈশ্বিক প্রবাহ ও উপাত্ত উপনিবেশের ধারণা...",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": null
+    },
+    {
+      "story_id": "a5b50e5e-4c74-50a3-8394-343229cd0b07",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "is_bcs_pro_selected": false,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.protichinta.com/article/h5llacsll6"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "‘পানিপথ’-এর দুই ঠিকানা, জাতীয় ভাবের দুই কল্পনা",
+        "title_en": "Summary: ‘পানিপথ’-এর দুই ঠিকানা, জাতীয় ভাবের দুই কল্পনা",
+        "summary_bn": "কোনো দেশে জাতীয় চৈতন্য বাস্তব জমিনে পা রাখার আগে আগুয়ান সমাজ ও সেই সমাজের বিদ্বৎজনের কল্পনায় তা আসে। সেই কল্পনা আকার পেতে থাকে জাতীয় ইতিহাসের কোনো ব্যক্তি, ঘটনা বা মুহূর্তকে কেন্দ্র করে। কল্পনা প্রতীকায়িত হয় এবং ক্রমে তা সামূহিক চৈতন্যের অংশ হয়ে যায়।...",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": null
+    }
+  ],
+  "total_stories": 8,
+  "review_notes": "Automated draft generated. Awaiting human editor approval before 6:00 AM broadcast."
+}
