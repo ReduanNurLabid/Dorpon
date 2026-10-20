@@ -141,6 +141,60 @@ class ApiService {
     return _getFallbackHourlyWires();
   }
 
+  /// Fetches all historical news archive from Firestore collections 'daily_buzz' and 'hourly_buzz'
+  static Future<List<CapsuleStory>> fetchAllNewsArchive() async {
+    final Map<String, CapsuleStory> storyMap = {};
+
+    try {
+      final snapDaily = await FirebaseFirestore.instance
+          .collection('daily_buzz')
+          .limit(50)
+          .get()
+          .timeout(const Duration(seconds: 4));
+
+      for (var doc in snapDaily.docs) {
+        final story = CapsuleStory.fromJson(doc.data());
+        if (story.storyId.isNotEmpty) {
+          storyMap[story.storyId] = story;
+        }
+      }
+    } catch (_) {}
+
+    try {
+      final snapHourly = await FirebaseFirestore.instance
+          .collection('hourly_buzz')
+          .limit(50)
+          .get()
+          .timeout(const Duration(seconds: 4));
+
+      for (var doc in snapHourly.docs) {
+        final story = CapsuleStory.fromJson(doc.data());
+        if (story.storyId.isNotEmpty && !storyMap.containsKey(story.storyId)) {
+          storyMap[story.storyId] = story;
+        }
+      }
+    } catch (_) {}
+
+    if (storyMap.isNotEmpty) {
+      final list = storyMap.values.toList();
+      // Sort by publication time or ID
+      list.sort((a, b) {
+        final aTime = DateTime.tryParse(a.publishedAt) ?? DateTime(2020);
+        final bTime = DateTime.tryParse(b.publishedAt) ?? DateTime(2020);
+        return bTime.compareTo(aTime);
+      });
+      return list;
+    }
+
+    // Fallbacks
+    final fb1 = await fetchDailyBuzzFeed();
+    final fb2 = await fetchHourlyWiresFeed();
+    for (var s in [...fb1, ...fb2]) {
+      storyMap[s.storyId] = s;
+    }
+    return storyMap.values.toList();
+  }
+
   static List<CapsuleStory> _getFallbackHourlyWires() {
     return [
       CapsuleStory(

@@ -9,6 +9,7 @@ import 'discover_screen.dart';
 import 'current_affairs_screen.dart';
 import 'saved_screen.dart';
 import 'profile_screen.dart';
+import 'all_news_screen.dart';
 import '../services/audio_briefing_service.dart';
 import '../services/saved_articles_service.dart';
 import '../widgets/mini_audio_player.dart';
@@ -484,7 +485,7 @@ class _HomeScreenState extends State<HomeScreen> {
             )
           else
             SizedBox(
-              height: 320,
+              height: 240,
               child: ListView.separated(
                 padding: const EdgeInsets.symmetric(horizontal: 24),
                 scrollDirection: Axis.horizontal,
@@ -539,7 +540,16 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     const Spacer(),
                     GestureDetector(
-                      onTap: () => _navigateToPage(0),
+                      onTap: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (_) => AllNewsScreen(
+                              initialStories: _hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories,
+                            ),
+                          ),
+                        );
+                      },
                       behavior: HitTestBehavior.opaque,
                       child: Row(
                         mainAxisSize: MainAxisSize.min,
@@ -677,10 +687,19 @@ class _HomeScreenState extends State<HomeScreen> {
 
                 const SizedBox(height: 8),
 
-                // 3. Prominent 'Explore More' Action Button
+                // 3. Prominent 'Explore All News & Past Archive' Action Button
                 Center(
                   child: GestureDetector(
-                    onTap: () => _navigateToPage(0),
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (_) => AllNewsScreen(
+                            initialStories: _hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories,
+                          ),
+                        ),
+                      );
+                    },
                     child: Container(
                       width: double.infinity,
                       padding: const EdgeInsets.symmetric(vertical: 14),
@@ -692,10 +711,10 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
-                          const Icon(Icons.explore_outlined, size: 18, color: ObsidianTokens.primaryMint),
+                          const Icon(Icons.history_rounded, size: 18, color: ObsidianTokens.primaryMint),
                           const SizedBox(width: 8),
                           Text(
-                            'Explore More News & Channels',
+                            'Explore All News & Past Archive',
                             style: TextStyle(
                               fontSize: 13,
                               fontWeight: FontWeight.w600,
@@ -723,6 +742,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'Daily Brief';
     final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
     final summary = buzz.summaryEn.isNotEmpty ? buzz.summaryEn : buzz.summaryBn;
+    final readMins = buzz.readTimeSeconds > 0 ? (buzz.readTimeSeconds ~/ 60 + 1) : 1;
 
     return GestureDetector(
       onTap: () {
@@ -734,8 +754,8 @@ class _HomeScreenState extends State<HomeScreen> {
         );
       },
       child: Container(
-        width: 300,
-        padding: const EdgeInsets.all(18),
+        width: 295,
+        padding: const EdgeInsets.all(15),
         decoration: BoxDecoration(
           color: Colors.white.withValues(alpha: 0.04),
           borderRadius: BorderRadius.circular(ObsidianTokens.radiusCard),
@@ -754,7 +774,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     Flexible(
                       child: Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 4),
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                         decoration: BoxDecoration(
                           color: ObsidianTokens.primaryMint.withValues(alpha: 0.1),
                           borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
@@ -770,7 +790,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                       ),
                     ),
-                    const SizedBox(width: 8),
+                    const SizedBox(width: 6),
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
@@ -780,7 +800,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           story.formattedPublishedTime,
                           style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                         ),
-                        const SizedBox(width: 8),
+                        const SizedBox(width: 6),
                         AnimatedBuilder(
                           animation: SavedArticlesService(),
                           builder: (context, _) {
@@ -797,7 +817,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               },
                               child: Icon(
                                 isSaved ? Icons.bookmark : Icons.bookmark_border,
-                                size: 18,
+                                size: 17,
                                 color: isSaved ? ObsidianTokens.primaryMint : ObsidianTokens.textSecondary,
                               ),
                             );
@@ -807,22 +827,22 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ],
                 ),
-                const SizedBox(height: 14),
+                const SizedBox(height: 10),
                 Text(
                   title,
                   style: const TextStyle(
                     color: Colors.white,
-                    fontSize: 15,
+                    fontSize: 14,
                     fontWeight: FontWeight.w600,
-                    height: 1.3,
+                    height: 1.25,
                   ),
                   maxLines: 3,
                   overflow: TextOverflow.ellipsis,
                 ),
-                const SizedBox(height: 8),
+                const SizedBox(height: 6),
                 Text(
                   summary,
-                  style: ObsidianTokens.bodyMd(color: ObsidianTokens.textSecondary).copyWith(fontSize: 12.5, height: 1.4),
+                  style: ObsidianTokens.bodyMd(color: ObsidianTokens.textSecondary).copyWith(fontSize: 11.5, height: 1.35),
                   maxLines: 3,
                   overflow: TextOverflow.ellipsis,
                 ),
@@ -837,14 +857,14 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     Text(
                       'Read Full Story',
-                      style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
+                      style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint).copyWith(fontSize: 11),
                     ),
                     const SizedBox(width: 4),
-                    const Icon(Icons.arrow_forward, size: 14, color: ObsidianTokens.primaryMint),
+                    const Icon(Icons.arrow_forward, size: 13, color: ObsidianTokens.primaryMint),
                   ],
                 ),
                 Text(
-                  'm read',
+                  '$readMins min read',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                 ),
               ],
