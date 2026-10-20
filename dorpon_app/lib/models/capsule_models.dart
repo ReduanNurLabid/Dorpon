@@ -158,6 +158,14 @@ class DailyBuzzItem {
   final String titleEn;
   final String summaryBn;
   final String summaryEn;
+  final String leadBn;
+  final String leadEn;
+  final List<String> bulletsBn;
+  final List<String> bulletsEn;
+  final String detailsBn;
+  final String detailsEn;
+  final String impactBn;
+  final String impactEn;
   final String whyItMattersBn;
   final String whyItMattersEn;
   final List<String> interestCategories;
@@ -168,6 +176,14 @@ class DailyBuzzItem {
     required this.titleEn,
     required this.summaryBn,
     required this.summaryEn,
+    this.leadBn = '',
+    this.leadEn = '',
+    this.bulletsBn = const [],
+    this.bulletsEn = const [],
+    this.detailsBn = '',
+    this.detailsEn = '',
+    this.impactBn = '',
+    this.impactEn = '',
     required this.whyItMattersBn,
     required this.whyItMattersEn,
     required this.interestCategories,
@@ -175,13 +191,51 @@ class DailyBuzzItem {
   });
 
   factory DailyBuzzItem.fromJson(Map<String, dynamic> json) {
+    final rawBulletsBn = json['bullets_bn'] ?? json['bulletsBn'] ?? json['key_takeaways_bn'];
+    final rawBulletsEn = json['bullets_en'] ?? json['bulletsEn'] ?? json['key_takeaways_en'];
+    List<String> parsedBulletsBn = [];
+    if (rawBulletsBn is List) {
+      parsedBulletsBn = rawBulletsBn.map((e) => e.toString().trim()).where((e) => e.isNotEmpty).toList();
+    }
+    List<String> parsedBulletsEn = [];
+    if (rawBulletsEn is List) {
+      parsedBulletsEn = rawBulletsEn.map((e) => e.toString().trim()).where((e) => e.isNotEmpty).toList();
+    }
+
+    final rawWimBn = (json['why_it_matters_bn'] ?? json['whyItMattersBn'] ?? '').toString();
+    final rawWimEn = (json['why_it_matters_en'] ?? json['whyItMattersEn'] ?? '').toString();
+
+    // Fallback bullets from why_it_matters if bullets are not populated
+    if (parsedBulletsBn.isEmpty && rawWimBn.isNotEmpty) {
+      parsedBulletsBn = rawWimBn
+          .split('\n')
+          .map((e) => e.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
+          .where((e) => e.isNotEmpty)
+          .toList();
+    }
+    if (parsedBulletsEn.isEmpty && rawWimEn.isNotEmpty) {
+      parsedBulletsEn = rawWimEn
+          .split('\n')
+          .map((e) => e.replaceAll(RegExp(r'^[•\-\*\d\.]+\s*'), '').trim())
+          .where((e) => e.isNotEmpty)
+          .toList();
+    }
+
     return DailyBuzzItem(
       titleBn: json['title_bn'] ?? json['titleBn'] ?? '',
       titleEn: json['title_en'] ?? json['titleEn'] ?? '',
       summaryBn: json['summary_bn'] ?? json['summaryBn'] ?? '',
       summaryEn: json['summary_en'] ?? json['summaryEn'] ?? '',
-      whyItMattersBn: json['why_it_matters_bn'] ?? json['whyItMattersBn'] ?? '',
-      whyItMattersEn: json['why_it_matters_en'] ?? json['whyItMattersEn'] ?? '',
+      leadBn: json['lead_bn'] ?? json['leadBn'] ?? '',
+      leadEn: json['lead_en'] ?? json['leadEn'] ?? '',
+      bulletsBn: parsedBulletsBn,
+      bulletsEn: parsedBulletsEn,
+      detailsBn: json['details_bn'] ?? json['detailsBn'] ?? '',
+      detailsEn: json['details_en'] ?? json['detailsEn'] ?? '',
+      impactBn: json['impact_bn'] ?? json['impactBn'] ?? '',
+      impactEn: json['impact_en'] ?? json['impactEn'] ?? '',
+      whyItMattersBn: rawWimBn,
+      whyItMattersEn: rawWimEn,
       interestCategories: List<String>.from(json['interest_categories'] ?? json['interestCategories'] ?? []),
       readTimeSeconds: json['read_time_seconds'] ?? json['readTimeSeconds'] ?? 60,
     );

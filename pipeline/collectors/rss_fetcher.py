@@ -130,7 +130,13 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
             entries = parsed.entries or []
             print(f"   Found {len(entries)} entries in {feed_meta['name']}")
             
+            feed_added = 0
+            MAX_PER_FEED = 12
+
             for entry in entries:
+                if feed_added >= MAX_PER_FEED:
+                    break
+
                 title = clean_html_tags(getattr(entry, "title", "")).strip()
                 link = getattr(entry, "link", "").strip()
                 summary = clean_html_tags(getattr(entry, "summary", "") or getattr(entry, "description", ""))
@@ -177,6 +183,7 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
                     category_hint=getattr(entry, "category", None)
                 )
                 candidates.append(article)
+                feed_added += 1
                 
         except Exception as e:
             print(f"⚠️ Error fetching feed {feed_key}: {e}")

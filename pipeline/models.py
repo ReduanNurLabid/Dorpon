@@ -60,6 +60,16 @@ class DailyBuzzItem(BaseModel):
     read_time_seconds: int = 60
     published_at: Optional[str] = None
 
+    # Gen-Z 10-Second Gist Fields (v3.0)
+    lead_bn: Optional[str] = None
+    lead_en: Optional[str] = None
+    bullets_bn: List[str] = []
+    bullets_en: List[str] = []
+    impact_bn: Optional[str] = None
+    impact_en: Optional[str] = None
+    details_bn: Optional[str] = None
+    details_en: Optional[str] = None
+
 class BcsProItem(BaseModel):
     syllabus_mapping: Optional[SyllabusMapping] = None
     bcs_subject_area: str = "Trending Affairs"  # Kept for Flutter backwards-compatibility

@@ -44,18 +44,10 @@ def run_hourly_buzz(limit: int = 8):
         print("❌ No fresh articles fetched. Exiting.")
         return None
         
-    # 2. Scrape bodies and optional og:image for top candidate articles (first 16)
-    print(f"\n📖 Scraping full bodies and lead images for fresh candidates...")
-    for art in candidates[:16]:
-        details = scrape_article_details(art.url)
-        if details.get("body_text"):
-            art.body_text = details["body_text"]
-        if details.get("image_url"):
-            art.image_url = details["image_url"]
-            
-    # 3. Cross-lingual deduplication & clustering
-    print(f"\n🔍 Cross-lingual entity clustering...")
+    # 2. Cross-lingual deduplication & clustering (fast in-memory on titles & RSS summaries)
+    print(f"\n🔍 Cross-lingual entity clustering on fresh candidates...")
     clusters = cluster_and_tag_articles(candidates)
+    print(f"   Generated {len(clusters)} unique event clusters.")
     print(f"   Generated {len(clusters)} unique event clusters.")
     
     # 4. Cross-Run Memory & Deduplication
@@ -157,6 +149,16 @@ def run_hourly_buzz(limit: int = 8):
             print(f"   ⏩ Skipping title-duplicate cluster in current batch: {cluster.primary_title[:50]}")
             continue
 
+        # Scrape full body and lead image only for selected stories
+        primary_art = cluster.articles[0]
+        if not primary_art.body_text or not primary_art.image_url:
+            print(f"   📖 Scraping article details for selected story: {primary_art.title[:45]}...")
+            details = scrape_article_details(primary_art.url)
+            if details.get("body_text"):
+                primary_art.body_text = details["body_text"]
+            if details.get("image_url") and not primary_art.image_url:
+                primary_art.image_url = details["image_url"]
+
         story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
@@ -212,21 +214,12 @@ def run_daily_pipeline(bcs_count: int = 4, pool_count: int = 8) -> DailyCapsule:
         print("❌ No candidate articles fetched. Exiting.")
         return None
         
-    # Step 2: Scrape bodies and lead images for top candidate articles (first 16)
-    print(f"\n📖 Scraping full bodies and lead images for top candidate articles...")
-    for art in candidates[:16]:
-        details = scrape_article_details(art.url)
-        if details.get("body_text"):
-            art.body_text = details["body_text"]
-        if details.get("image_url"):
-            art.image_url = details["image_url"]
-            
-    # Step 3: Cluster, deduplicate, and compute BCS relevance
+    # Step 2: Cluster, deduplicate, and compute BCS relevance
     print(f"\n🔍 Clustering events with bilingual entity co-occurrence & scoring BPSC relevance...")
     clusters = cluster_and_tag_articles(candidates)
     print(f"   Generated {len(clusters)} unique event clusters.")
     
-    # Step 4: Audience Selection (BCS Pro Preset vs Daily Buzz Interest Pool)
+    # Step 3: Audience Selection (BCS Pro Preset vs Daily Buzz Interest Pool)
     print(f"\n🎯 Routing stories for audiences:")
     bcs_clusters, pool_clusters = select_stories_for_audiences(
         clusters, bcs_limit=bcs_count, total_pool_limit=pool_count
@@ -235,6 +228,17 @@ def run_daily_pipeline(bcs_count: int = 4, pool_count: int = 8) -> DailyCapsule:
     print(f"   ⭐️ Selected {len(bcs_clusters)} stories for BCS Pro Academic Preset")
     print(f"   📰 Selected {len(pool_clusters)} stories for Daily Buzz Interest Pool")
     
+    # Step 4: Scrape bodies and lead images ONLY for selected stories
+    print(f"\n📖 Scraping full bodies and lead images for selected audience pool...")
+    for cluster in pool_clusters:
+        primary_art = cluster.articles[0]
+        if not primary_art.body_text or not primary_art.image_url:
+            details = scrape_article_details(primary_art.url)
+            if details.get("body_text"):
+                primary_art.body_text = details["body_text"]
+            if details.get("image_url") and not primary_art.image_url:
+                primary_art.image_url = details["image_url"]
+
     # Step 5: Synthesize bilingual outputs (Civilsdaily 7-Section Blueprint)
     print(f"\n🤖 Synthesizing Bilingual Civilsdaily Blueprints (Daily Buzz + BCS Pro layers)...")
     stories: list[CapsuleStory] = []

@@ -14,6 +14,90 @@ from pipeline.config import INTEREST_CATEGORIES
 # Load seed PYQs
 PYQS_FILE = os.path.join(os.path.dirname(__file__), "..", "..", "data", "pyqs.json")
 
+SPORTS_KEYWORDS = {
+    "cricket", "football", "fifa", "bpl", "ipl", "bcb", "tamim", "shakib", "mashrafe", "mushfiqur", "sport", "sports",
+    "ক্রিকেট", "ফুটবল", "বিসিবি", "তামিম", "সাকিব", "মাশরাফি", "মুশফিক", "খেলাধুলা"
+}
+
+ENTERTAINMENT_KEYWORDS = {
+    "cinema", "movie", "ott", "bollywood", "hollywood", "dhallywood", "actor", "actress", "natok", "film",
+    "সিনেমা", "চলচ্চিত্র", "নাটক", "অভিনেতা", "অভিনেত্রী", "বিনোদন"
+}
+
+def validate_and_filter_tags(tags: List[str], text: str, primary_category: str) -> List[str]:
+    """
+    Deterministic Tag Grounding Validator:
+    1. Rejects any sports/entertainment tag if primary_category is not sports/entertainment,
+       UNLESS sports words are literally present in the story text.
+    2. Strips any tag where none of the tag's meaningful sub-words exist in the source text.
+    3. Normalizes all tags to #CamelCase format without spaces.
+    4. Capped at 2-4 tags max.
+    """
+    text_lower = text.lower()
+    cleaned = []
+    seen = set()
+
+    for raw_tag in tags:
+        if not isinstance(raw_tag, str):
+            continue
+        tag_str = re.sub(r"[^\w\u0980-\u09FF]", "", raw_tag)
+        if not tag_str or len(tag_str) < 2:
+            continue
+            
+        tag_lower = tag_str.lower()
+        
+        # 1. Reject cross-category sports contamination
+        if primary_category != "sports_fitness":
+            if any(sk in tag_lower for sk in SPORTS_KEYWORDS):
+                if not any(sk in text_lower for sk in SPORTS_KEYWORDS):
+                    continue
+                    
+        # 2. Reject cross-category entertainment contamination
+        if primary_category != "pop_culture":
+            if any(ek in tag_lower for ek in ENTERTAINMENT_KEYWORDS):
+                if not any(ek in text_lower for ek in ENTERTAINMENT_KEYWORDS):
+                    continue
+
+        # 3. Grounding check: at least one token from the tag should appear in text_lower
+        sub_tokens = re.findall(r"[A-Z]?[a-z\u0980-\u09FF]+|[A-Z]+(?=[A-Z][a-z]|\b)", tag_str)
+        sub_tokens_lower = [t.lower() for t in sub_tokens if len(t) >= 3]
+        if sub_tokens_lower:
+            if not any(t in text_lower for t in sub_tokens_lower):
+                continue
+        else:
+            if tag_lower not in text_lower:
+                continue
+
+        formatted_tag = f"#{tag_str}"
+        if formatted_tag.lower() not in seen:
+            seen.add(formatted_tag.lower())
+            cleaned.append(formatted_tag)
+
+        if len(cleaned) >= 4:
+            break
+
+    # If fewer than 2 tags remain after filtering, generate safe fallback tags from primary_category
+    if len(cleaned) < 2:
+        cat_tag_map = {
+            "governance_law": ["#Bangladesh", "#Governance"],
+            "economy_business": ["#Economy", "#Finance"],
+            "world_diplomacy": ["#Geopolitics", "#Diplomacy"],
+            "tech_innovation": ["#Technology", "#Innovation"],
+            "climate_environment": ["#Climate", "#Environment"],
+            "sports_fitness": ["#Sports", "#BangladeshCricket"],
+            "pop_culture": ["#Entertainment", "#Culture"],
+        }
+        fallback_tags = cat_tag_map.get(primary_category, ["#Bangladesh", "#National Affairs"])
+        for ft in fallback_tags:
+            ft_clean = f"#{re.sub(r'[^\w\u0980-\u09FF]', '', ft)}"
+            if ft_clean.lower() not in seen:
+                seen.add(ft_clean.lower())
+                cleaned.append(ft_clean)
+                if len(cleaned) >= 3:
+                    break
+
+    return cleaned[:4]
+
 def load_pyqs() -> list:
     if os.path.exists(PYQS_FILE):
         with open(PYQS_FILE, "r", encoding="utf-8") as f:
@@ -152,6 +236,7 @@ def synthesize_story_with_ai(
         ) for m in const_matches
     ]
     
+    primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
     syllabus = map_syllabus_for_categories(cluster.matched_categories, title)
     
     # 2. Check for Gemini API Key
@@ -163,85 +248,86 @@ def synthesize_story_with_ai(
             from google.genai import types
             
             client = genai.Client(api_key=api_key)
-            prompt = f"""You are the Senior News & Editorial Editor for 'Dorpon Daily', an authoritative current affairs and news analysis platform for Bangladesh.
-Task: Synthesize a factually accurate, sharp, and objective news capsule based on the provided verified news report.
+            
+            bcs_instructions = ""
+            if is_bcs_pro:
+                bcs_instructions = """
+ALSO INCLUDE BCS PRO ACADEMIC KEYS:
+"why_in_the_news_bn": "2-sentence factual trigger in Bengali",
+"why_in_the_news_en": "2-sentence factual trigger in English",
+"question_breakdowns": [{"question": "...", "anchor_points": ["**Concept:** ...", "**Mechanism:** ..."]}],
+"data_stats": [{"metric_name": "...", "value": "...", "source_org": "...", "context": "..."}],
+"challenges": ["1. First bottleneck.", "2. Second bottleneck.", "3. Third bottleneck."],
+"way_forward": ["1. First reform.", "2. Second reform.", "3. Third reform."],
+"written_prompt_bn": "Formal 15-mark written question in Bengali starting with প্রশ্ন:",
+"written_prompt_en": "Formal 15-mark written question in English starting with Q:",
+"model_outline_points": ["১. ভূমিকা", "২. সীমাবদ্ধতা", "৩. সুপারিশ"]
+"""
 
-EDITORIAL GUIDELINES (CRITICAL):
-1. MATCH REAL SOURCES & JOURNALISTIC FIDELITY: Editorial capsules MUST align with mainstream news reporting (Reuters, Daily Star, Prothom Alo). Do NOT rewrite the story into generic abstractions or bureaucratic filler just to sound 'original'. Preserve real names, titles, organizations, official quotes, key metrics, and specific political or administrative developments.
-2. NO GENERIC AI PLATITUDES: Strictly avoid vague filler phrases like "underscored the pressing necessity", "a momentous milestone", "poised to reshape the landscape", or generic commentary.
-3. TITLE REQUIREMENTS:
-   - title_en: A crisp, factual journalistic headline that clearly states who did what or what happened (e.g., 'BNP Leader Ishraque Resigns from Advisory Council Following PM Directive' or 'Bangladesh Bank Hikes Repo Rate to 10%').
-   - title_bn: A natural, professional Bengali news headline as seen in top national dailies (e.g., 'প্রধানমন্ত্রীর নির্দেশে উপদেষ্টা পরিষদ থেকে ইশরাক হোসেনের পদত্যাগ').
-4. CORE STORY REQUIREMENTS:
-   - summary_en: 2 to 3 crisp, highly informative journalistic sentences following the inverted pyramid:
-     • Sentence 1: Core news lead (Who, what, when, where, and the exact action/decision).
-     • Sentence 2: Key factual details, statements, or quotes from the report.
-     • Sentence 3: Contextual background or immediate next step.
-   - summary_bn: 2 to 3 natural, standard formal Bengali sentences accurately conveying the exact core facts without robotic machine translation.
-5. WHY IT MATTERS REQUIREMENTS:
-   - why_it_matters_en: 1 concise takeaway sentence highlighting the concrete governance, political, legal, or economic implication directly anchored to this story.
-   - why_it_matters_bn: 1 concise takeaway sentence in Bengali highlighting the real-world significance.
+            prompt = f"""You are the Senior Executive News Editor for 'Dorpon Daily', a fast, modern news platform for Bangladesh.
+Target Audience: Fast-paced digital readers and Gen-Z who want the core gist in 10 seconds—no clickbait, no academic exam filler, no bureaucratic abstractions.
+
+Task: Synthesize a sharp, 10-second news gist from the provided verified report.
+
+EDITORIAL REQUIREMENTS:
+1. HEADLINES (headline_en, headline_bn):
+   - Declarative, factual headline (<= 14 words).
+   - Must state WHO did WHAT or WHAT happened clearly.
+   - Absolutely ZERO clickbait, vague teasers, or question marks.
+   - Example EN: 'PM Meets Japanese Business Delegation to Boost Bilateral Trade'
+   - Example BN: 'দ্বিপক্ষীয় বাণিজ্য বাড়াতে জাপানি প্রতিনিধিদলের সাথে প্রধানমন্ত্রীর বৈঠক'
+
+2. ONE-LINE LEAD (lead_en, lead_bn):
+   - Exactly 1 bold sentence capturing the single primary event (<= 25 words).
+   - Inverted pyramid style: The core action/decision right up front.
+
+3. THREE KEY TAKEAWAY BULLETS (bullets_en, bullets_bn):
+   - Provide EXACTLY 3 clean, factual bullets (<= 22 words per bullet):
+     • Bullet 1: Core Action / Decision (who decided or executed what).
+     • Bullet 2: Key Numbers, Official Quotes, or Specific Metrics (amounts, percentages, named spokespersons, dates).
+     • Bullet 3: Immediate Consequence, Next Step, or Timeline.
+   - Bullets must be strictly factual, never vague generic boilerplate.
+
+4. CITIZEN IMPACT (impact_en, impact_bn):
+   - 1 concise sentence highlighting real-world impact on ordinary citizens, consumers, or youth (or null if purely diplomatic/procedural).
+
+5. BACKGROUND DETAILS (details_en, details_bn):
+   - 1 concise paragraph (<= 90 words) providing essential historical context or preceding events for readers who tap "Read Background".
+
+6. TAGS (tags):
+   - 2 to 4 strictly grounded hashtags (e.g. ["#TradeDeal", "#JapanBangladesh"]).
+   - CRITICAL: Never include sports tags on non-sports news, or entertainment tags on politics. Every tag must be strictly grounded in this story.
 
 Headline from Source: {title}
 Source Text / Scraped Body: {body[:2500]}
+Primary Category: {primary_cat}
 Is BCS Pro Selection: {is_bcs_pro}
 
 You MUST return a JSON object with these EXACT keys:
 {{
-  "title_bn": "Professional, factual Bengali headline",
-  "title_en": "Sharp, factual English news headline",
-  "summary_bn": "2 to 3 crisp, factual sentences in standard Bengali summarizing the core event",
-  "summary_en": "2 to 3 crisp, factual sentences in English summarizing the core event",
-  "why_it_matters_bn": "1 concise takeaway sentence on real-world political, economic, or governance impact in Bengali",
-  "why_it_matters_en": "1 concise takeaway sentence on real-world political, economic, or governance impact in English",
-  "why_in_the_news_bn": "2-sentence factual trigger in Bengali explaining what happened today and why it is critical",
-  "why_in_the_news_en": "2-sentence factual trigger in English explaining what happened today and why it is critical",
-  "question_breakdowns": [
-    {{
-      "question": "Analytical question relevant to civil service written syllabus",
-      "anchor_points": [
-        "**Core Concept:** Direct answer with bold topic anchor...",
-        "**Administrative Mechanism:** Analysis of executive implementation..."
-      ]
-    }},
-    {{
-      "question": "Second analytical question examining socio-economic or institutional ramifications",
-      "anchor_points": [
-        "**Institutional Impact:** Analytical breakdown...",
-        "**Public Finance Impact:** Structural breakdown..."
-      ]
-    }}
+  "headline_bn": "Factual declarative Bengali headline (<= 14 words)",
+  "headline_en": "Factual declarative English headline (<= 14 words)",
+  "lead_bn": "1 bold sentence capturing the core event in Bengali (<= 25 words)",
+  "lead_en": "1 bold sentence capturing the core event in English (<= 25 words)",
+  "bullets_bn": [
+    "১. প্রধান সিদ্ধান্ত বা গৃহীত পদক্ষেপ",
+    "২. সুনির্দিষ্ট পরিসংখ্যান, উদ্ধৃতি বা তথ্য",
+    "৩. পরবর্তী পদক্ষেপ বা দৃশ্যমান প্রভাব"
   ],
-  "data_stats": [
-    {{
-      "metric_name": "Name of metric (e.g. Policy Repo Rate, Headline Inflation, Forex Reserves)",
-      "value": "10.00% / 9.92%",
-      "source_org": "Bangladesh Bank / BBS / Ministry of Finance",
-      "context": "Contextual meaning of the statistic"
-    }}
+  "bullets_en": [
+    "1. The Core Action or Decision taken.",
+    "2. Key numbers, official quotes, or concrete metrics.",
+    "3. Immediate consequence, next step, or timeline."
   ],
-  "challenges": [
-    "1. First structural bottleneck or institutional challenge.",
-    "2. Second challenge.",
-    "3. Third challenge."
-  ],
-  "way_forward": [
-    "1. First pragmatic, actionable policy recommendation for civil service written exam conclusions.",
-    "2. Second recommendation.",
-    "3. Third recommendation."
-  ],
-  "written_prompt_bn": "Formal 15-mark BPSC written exam question in Bengali starting with প্রশ্ন:",
-  "written_prompt_en": "Formal 15-mark BPSC written exam question in English starting with Q:",
+  "impact_bn": "নাগরিক বা তরুণদের ওপর বাস্তব প্রভাব বা null",
+  "impact_en": "Real-world impact on ordinary citizens/students or null",
+  "details_bn": "পটভূমি ও পূর্ববর্তী ঘটনার বিবরণ (অনূর্ধ্ব ৯০ শব্দ)",
+  "details_en": "Background context and preceding events (under 90 words)",
   "tags": [
-    "#SpecificTopicTag1",
-    "#SpecificTopicTag2",
-    "#SpecificTopicTag3"
-  ],
-  "model_outline_points": [
-    "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
-    "২. প্রাতিষ্ঠানিক ও আইনগত সীমাবদ্ধতা (Institutional & Regulatory Gaps)",
-    "৩. কৌশলগত নীতি সংস্কার ও ভবিষ্যৎ পথরেখা (Strategic Policy Recommendations)"
+    "#GroundedTag1",
+    "#GroundedTag2"
   ]
+  {bcs_instructions}
 }}
 """
             # Prioritize gemini-3.5-flash with fallback to gemini-3.5-flash-lite
@@ -268,16 +354,36 @@ You MUST return a JSON object with these EXACT keys:
                 data = data[0]
             if not isinstance(data, dict):
                 data = {}
+
+            # Map headline & leads
+            h_bn = data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title)
+            h_en = data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title)
+            lead_bn = data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title)
+            lead_en = data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title)
+            bullets_bn = [str(b) for b in data.get("bullets_bn", []) if b][:3]
+            bullets_en = [str(b) for b in data.get("bullets_en", []) if b][:3]
+            impact_bn = data.get("impact_bn")
+            impact_en = data.get("impact_en")
+            details_bn = data.get("details_bn")
+            details_en = data.get("details_en")
             
             buzz = DailyBuzzItem(
-                title_bn=data.get("title_bn", title if is_bangla_source else title),
-                title_en=data.get("title_en", title if not is_bangla_source else title),
-                summary_bn=data.get("summary_bn", primary_art.summary_raw or title),
-                summary_en=data.get("summary_en", primary_art.summary_raw or title),
-                why_it_matters_bn=data.get("why_it_matters_bn", "জাতীয় অর্থনীতি ও সুশাসনে এর দীর্ঘমেয়াদী নীতিগত তাৎপর্য রয়েছে।"),
-                why_it_matters_en=data.get("why_it_matters_en", "Directly impacts national policy, regulatory frameworks, and citizen welfare."),
+                title_bn=h_bn,
+                title_en=h_en,
+                summary_bn=lead_bn,
+                summary_en=lead_en,
+                why_it_matters_bn=impact_bn or (bullets_bn[0] if bullets_bn else "জাতীয় নীতি ও নাগরিক জীবনের ওপর এর প্রত্যক্ষ প্রভাব রয়েছে।"),
+                why_it_matters_en=impact_en or (bullets_en[0] if bullets_en else "Directly impacts national policy, regulatory frameworks, and citizen welfare."),
                 interest_categories=cluster.matched_categories,
-                published_at=primary_art.published_at
+                published_at=primary_art.published_at,
+                lead_bn=lead_bn,
+                lead_en=lead_en,
+                bullets_bn=bullets_bn,
+                bullets_en=bullets_en,
+                impact_bn=impact_bn,
+                impact_en=impact_en,
+                details_bn=details_bn,
+                details_en=details_en
             )
             
             bcs_pro = None
@@ -327,17 +433,15 @@ You MUST return a JSON object with these EXACT keys:
                     linked_pyqs=match_pyqs_for_story(cluster.matched_categories, title)
                 )
                 
-            parsed_tags = [
-                t if t.startswith('#') else f'#{t.replace(" ", "")}'
-                for t in data.get("tags", [])
-                if isinstance(t, str) and len(t.strip()) > 1
-            ]
-            if not parsed_tags:
-                parsed_tags = [f"#{c.replace('_', '')}" for c in cluster.matched_categories]
+            parsed_tags = validate_and_filter_tags(
+                data.get("tags", []),
+                f"{title} {body}",
+                primary_cat
+            )
 
             return CapsuleStory(
                 story_id=cluster.cluster_id,
-                primary_category=cluster.matched_categories[0] if cluster.matched_categories else "governance_law",
+                primary_category=primary_cat,
                 interest_categories=cluster.matched_categories,
                 tags=parsed_tags,
                 is_bcs_pro_selected=is_bcs_pro,
@@ -348,29 +452,55 @@ You MUST return a JSON object with these EXACT keys:
                 bcs_pro=bcs_pro
             )
         except Exception as e:
-            print(f"⚠️ Gemini synthesis error ({e}), falling back to Civilsdaily heuristic engine...")
+            print(f"⚠️ Gemini synthesis error ({e}), falling back to Gen-Z gist heuristic engine...")
 
     # =========================================================================
     # Fallback High-Quality Heuristic Engine (100% Free, Zero-API Dependency)
-    # Uses Inverted-Pyramid Lead Paragraph Analysis + Civilsdaily Blueprint
+    # Generates Gen-Z 10-Second Gist (Lead + 3 Bullets + Grounded Tags)
     # =========================================================================
-    paragraphs = [p.strip() for p in body.split("\n\n") if len(p.strip()) > 30]
-    lead_summary = paragraphs[0] if paragraphs else title
-    if len(paragraphs) > 1:
-        lead_summary += " " + paragraphs[1]
-    # Cap to ~250 characters for clean 60s reading
-    if len(lead_summary) > 300:
-        lead_summary = lead_summary[:290] + "..."
-        
+    paragraphs = [p.strip() for p in body.split("\n\n") if len(p.strip()) > 25]
+    first_p = paragraphs[0] if paragraphs else title
+    
+    # Split sentences for 3 clean bullets
+    raw_sentences = [s.strip() for s in re.split(r"(?<=[.!?।])\s+", first_p) if len(s.strip()) > 10]
+    lead_summary = raw_sentences[0] if raw_sentences else (title[:120] + "...")
+    
+    b1 = raw_sentences[0] if len(raw_sentences) > 0 else title
+    b2 = raw_sentences[1] if len(raw_sentences) > 1 else (paragraphs[1][:140] if len(paragraphs) > 1 else "সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ করছে।")
+    b3 = raw_sentences[2] if len(raw_sentences) > 2 else "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
+
+    bullets_bn = [b1, b2, b3] if is_bangla_source else [
+        f"Core Event: {title[:100]}",
+        "Official representatives and regulatory bodies are monitoring developments.",
+        "Next procedures are scheduled to take effect in the coming days."
+    ]
+    bullets_en = [b1, b2, b3] if not is_bangla_source else [
+        f"Core Event: {title[:100]}",
+        "Official bodies and stakeholders are coordinating on executive procedures.",
+        "Follow-up directives are expected following departmental review."
+    ]
+    
+    details_text = paragraphs[1] if len(paragraphs) > 1 else first_p
+    if len(details_text) > 350:
+        details_text = details_text[:340] + "..."
+
     buzz = DailyBuzzItem(
         title_bn=title if is_bangla_source else f"{title} (সংক্ষিপ্ত সার)",
         title_en=title if not is_bangla_source else f"Summary: {title}",
-        summary_bn=lead_summary if is_bangla_source else "উক্ত বিষয়ে সরকারের সংশ্লিষ্ট বিভাগ সমন্বিত পদক্ষেপ গ্রহণ করছে। সার্বিক পরিস্থিতি বিবেচনায় দীর্ঘমেয়াদী সংস্কারের উদ্যোগ নেওয়া হয়েছে।",
-        summary_en=lead_summary if not is_bangla_source else "A key domestic development that directly impacts policy, regulatory frameworks, and citizen welfare.",
-        why_it_matters_bn="দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        summary_bn=lead_summary if is_bangla_source else "উক্ত বিষয়ে সংশ্লিষ্ট বিভাগ সমন্বিত পদক্ষেপ গ্রহণ করছে।",
+        summary_en=lead_summary if not is_bangla_source else "A key development that impacts policy, regulatory frameworks, and citizen welfare.",
+        why_it_matters_bn="দেশের সার্বিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি তাৎপর্যপূর্ণ।",
         why_it_matters_en="Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
         interest_categories=cluster.matched_categories,
-        published_at=primary_art.published_at
+        published_at=primary_art.published_at,
+        lead_bn=lead_summary if is_bangla_source else f"{title} সম্পর্কিত গুরুত্বপূর্ণ পদক্ষেপ গ্রহণ করা হয়েছে।",
+        lead_en=lead_summary if not is_bangla_source else f"Key executive and policy developments underway regarding {title}.",
+        bullets_bn=bullets_bn,
+        bullets_en=bullets_en,
+        impact_bn="সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
+        impact_en="Directly affects stakeholders and institutional administration across Bangladesh.",
+        details_bn=details_text if is_bangla_source else None,
+        details_en=details_text if not is_bangla_source else None
     )
     
     bcs_pro = None
@@ -424,10 +554,13 @@ You MUST return a JSON object with these EXACT keys:
             linked_pyqs=match_pyqs_for_story(cluster.matched_categories, title)
         )
         
+    fallback_tags = validate_and_filter_tags([], f"{title} {body}", primary_cat)
+
     return CapsuleStory(
         story_id=cluster.cluster_id,
-        primary_category=cluster.matched_categories[0] if cluster.matched_categories else "governance_law",
+        primary_category=primary_cat,
         interest_categories=cluster.matched_categories,
+        tags=fallback_tags,
         is_bcs_pro_selected=is_bcs_pro,
         image_url=primary_art.image_url,
         published_at=primary_art.published_at,

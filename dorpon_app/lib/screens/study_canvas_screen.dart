@@ -30,6 +30,8 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   int _helpfulReaction = 0; // 0 = none, 1 = insightful, 2 = high-yield
   int _reactionCount = 128;
   final Set<int> _expandedQuestions = {0}; // First question expanded by default
+  bool _tagsExpanded = false;
+  bool _detailsExpanded = false;
 
   @override
   void initState() {
@@ -93,7 +95,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
       animation: AudioBriefingService(),
       builder: (context, _) {
         final story = widget.story;
-        final bcs = story.bcsPro;
+        final bcs = story.isBcsProSelected ? story.bcsPro : null;
         final buzz = story.dailyBuzz;
         final isPremium = AudioBriefingService().isPremiumUser;
 
@@ -109,6 +111,12 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
 
         final categoryLabel = _cleanCategoryTitle(story.primaryCategory);
         final readTimeMinutes = (buzz.readTimeSeconds ~/ 60) + 1;
+        final lead = _isBanglaMode
+            ? (buzz.leadBn.isNotEmpty ? buzz.leadBn : '')
+            : (buzz.leadEn.isNotEmpty ? buzz.leadEn : '');
+        final bullets = _isBanglaMode ? buzz.bulletsBn : buzz.bulletsEn;
+        final details = _isBanglaMode ? buzz.detailsBn : buzz.detailsEn;
+        final impact = _isBanglaMode ? buzz.impactBn : buzz.impactEn;
 
         return Scaffold(
           backgroundColor: ObsidianTokens.background,
@@ -360,29 +368,6 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                       ),
                       const SizedBox(height: 14),
 
-                      // Tags Bar (Rendered above headline)
-                      if (story.tags.isNotEmpty) ...[
-                        Wrap(
-                          spacing: 8,
-                          runSpacing: 6,
-                          children: story.tags.map((tag) {
-                            return Container(
-                              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
-                              decoration: BoxDecoration(
-                                color: ObsidianTokens.primaryMint.withValues(alpha: 0.10),
-                                borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                                border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.25)),
-                              ),
-                              child: Text(
-                                tag,
-                                style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(fontWeight: FontWeight.w600),
-                              ),
-                            );
-                          }).toList(),
-                        ),
-                        const SizedBox(height: 14),
-                      ],
-
                       // Full Headline
                       Text(
                         headline,
@@ -394,7 +379,38 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                           letterSpacing: -0.3,
                         ),
                       ),
-                      const SizedBox(height: 18),
+                      const SizedBox(height: 14),
+
+                      // 1-Line News Lead (Who did what)
+                      if (lead.isNotEmpty) ...[
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                          decoration: BoxDecoration(
+                            color: ObsidianTokens.primaryMint.withValues(alpha: 0.08),
+                            borderRadius: BorderRadius.circular(ObsidianTokens.radiusCard),
+                            border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.20)),
+                          ),
+                          child: Row(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              const Icon(Icons.bolt_rounded, size: 16, color: ObsidianTokens.primaryMint),
+                              const SizedBox(width: 8),
+                              Expanded(
+                                child: Text(
+                                  lead,
+                                  style: const TextStyle(
+                                    color: Color(0xFFF1F5F9),
+                                    fontSize: 14,
+                                    height: 1.45,
+                                    fontWeight: FontWeight.w600,
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                        const SizedBox(height: 14),
+                      ],
 
                       // Editorial Hero Image (if provided)
                       if (story.imageUrl.isNotEmpty) ...[
@@ -459,21 +475,85 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                       ),
                       const SizedBox(height: 20),
 
-                      // Top Stories Section 2: Why It Matters & Analytical Takeaways
-                      if (bcs == null && ((_isBanglaMode && buzz.whyItMattersBn.isNotEmpty) || (!_isBanglaMode && buzz.whyItMattersEn.isNotEmpty))) ...[
-                        _buildGlassSection(
-                          title: 'Why It Matters & Key Takeaways',
-                          icon: Icons.lightbulb_outline_rounded,
-                          accentColor: ObsidianTokens.accentGold,
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: (_isBanglaMode ? buzz.whyItMattersBn : buzz.whyItMattersEn)
-                                .split('\n')
-                                .where((line) => line.trim().isNotEmpty)
-                                .map((point) => _buildAnchorPoint(point))
-                                .toList(),
+                      // 2. Three Key Takeaways (৩টি মূল বিষয়)
+                      if (bullets.isNotEmpty) ...[
+                        _buildKeyTakeawaysSection(bullets),
+                        const SizedBox(height: 16),
+                      ],
+
+                      // Optional Real-World Impact Chip
+                      if (impact.isNotEmpty) ...[
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                          decoration: BoxDecoration(
+                            color: ObsidianTokens.accentGold.withValues(alpha: 0.10),
+                            borderRadius: BorderRadius.circular(10),
+                            border: Border.all(color: ObsidianTokens.accentGold.withValues(alpha: 0.25)),
+                          ),
+                          child: Row(
+                            children: [
+                              const Icon(Icons.lightbulb_rounded, size: 16, color: ObsidianTokens.accentGold),
+                              const SizedBox(width: 10),
+                              Expanded(
+                                child: Text(
+                                  impact,
+                                  style: const TextStyle(fontSize: 13, color: Color(0xFFFEF08A), height: 1.4),
+                                ),
+                              ),
+                            ],
                           ),
                         ),
+                        const SizedBox(height: 16),
+                      ],
+
+                      // Optional Expandable Background Details
+                      if (details.isNotEmpty) ...[
+                        GestureDetector(
+                          onTap: () => setState(() => _detailsExpanded = !_detailsExpanded),
+                          child: Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+                            decoration: BoxDecoration(
+                              color: Colors.white.withValues(alpha: 0.04),
+                              borderRadius: BorderRadius.circular(ObsidianTokens.radiusCard),
+                              border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
+                            ),
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                Row(
+                                  children: [
+                                    const Icon(Icons.subject_rounded, size: 15, color: Colors.white70),
+                                    const SizedBox(width: 8),
+                                    Text(
+                                      _isBanglaMode ? 'বিস্তারিত প্রেক্ষাপট' : 'Expanded Background Context',
+                                      style: ObsidianTokens.labelSm(color: Colors.white70),
+                                    ),
+                                  ],
+                                ),
+                                Icon(
+                                  _detailsExpanded ? Icons.keyboard_arrow_up : Icons.keyboard_arrow_down,
+                                  color: Colors.white70,
+                                  size: 18,
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                        if (_detailsExpanded) ...[
+                          const SizedBox(height: 10),
+                          Container(
+                            padding: const EdgeInsets.all(14),
+                            decoration: BoxDecoration(
+                              color: Colors.black.withValues(alpha: 0.3),
+                              borderRadius: BorderRadius.circular(ObsidianTokens.radiusCard),
+                              border: Border.all(color: Colors.white.withValues(alpha: 0.06)),
+                            ),
+                            child: Text(
+                              details,
+                              style: const TextStyle(color: Color(0xFFCBD5E1), fontSize: 13.5, height: 1.6),
+                            ),
+                          ),
+                        ],
                         const SizedBox(height: 20),
                       ],
 
@@ -741,6 +821,12 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                         const SizedBox(height: 20),
                       ],
 
+                      // Bottom Collapsible Topic Tags (Max 3 Default)
+                      if (story.tags.isNotEmpty) ...[
+                        _buildCollapsibleTags(story.tags),
+                        const SizedBox(height: 18),
+                      ],
+
                       // 7. Verified Sources & Ground Reporting (Zero Overflow Guarantee)
                       _buildSourcesSection(story.sources),
                       const SizedBox(height: 20),
@@ -935,8 +1021,147 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
     );
   }
 
-  // Section: Verified Sources & Reporting Ground (Overflow-Free Layout)
+  // Widget: 3 Key Takeaways (৩টি মূল বিষয়)
+  Widget _buildKeyTakeawaysSection(List<String> bullets) {
+    if (bullets.isEmpty) return const SizedBox.shrink();
+
+    return _buildGlassSection(
+      title: _isBanglaMode ? '৩টি মূল বিষয়' : '3 Key Takeaways',
+      icon: Icons.check_circle_outline_rounded,
+      accentColor: ObsidianTokens.primaryMint,
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: bullets.asMap().entries.map((entry) {
+          final idx = entry.key + 1;
+          final bullet = entry.value;
+          final idxStr = _isBanglaMode
+              ? '$idx'.replaceAll('1', '১').replaceAll('2', '২').replaceAll('3', '৩')
+              : '$idx';
+
+          return Padding(
+            padding: const EdgeInsets.only(bottom: 12),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  width: 22,
+                  height: 22,
+                  alignment: Alignment.center,
+                  decoration: BoxDecoration(
+                    color: ObsidianTokens.primaryMint.withValues(alpha: 0.15),
+                    shape: BoxShape.circle,
+                    border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.4)),
+                  ),
+                  child: Text(
+                    idxStr,
+                    style: const TextStyle(
+                      fontSize: 11,
+                      fontWeight: FontWeight.w700,
+                      color: ObsidianTokens.primaryMint,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: Text(
+                    bullet,
+                    style: const TextStyle(
+                      color: Color(0xFFE2E8F0),
+                      fontSize: 14.5,
+                      height: 1.5,
+                      letterSpacing: 0.1,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          );
+        }).toList(),
+      ),
+    );
+  }
+
+  // Widget: Bottom Collapsible Tags
+  Widget _buildCollapsibleTags(List<String> tags) {
+    final displayedTags = _tagsExpanded ? tags : tags.take(3).toList();
+    final hiddenCount = tags.length - 3;
+
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            const Icon(Icons.tag_rounded, size: 14, color: ObsidianTokens.textSecondary),
+            const SizedBox(width: 6),
+            Text(
+              _isBanglaMode ? 'ট্যাগ ও প্রাসঙ্গিক বিষয়' : 'Topic Tags',
+              style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary).copyWith(fontWeight: FontWeight.w600),
+            ),
+          ],
+        ),
+        const SizedBox(height: 8),
+        Wrap(
+          spacing: 6,
+          runSpacing: 6,
+          children: [
+            ...displayedTags.map((tag) {
+              return Container(
+                padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                decoration: BoxDecoration(
+                  color: Colors.white.withValues(alpha: 0.05),
+                  borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                  border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
+                ),
+                child: Text(
+                  tag,
+                  style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                ),
+              );
+            }),
+            if (tags.length > 3)
+              GestureDetector(
+                onTap: () {
+                  setState(() {
+                    _tagsExpanded = !_tagsExpanded;
+                  });
+                },
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: ObsidianTokens.primaryMint.withValues(alpha: 0.12),
+                    borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                    border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.3)),
+                  ),
+                  child: Text(
+                    _tagsExpanded
+                        ? (_isBanglaMode ? 'সংক্ষিপ্ত করুন ▲' : 'Show less ▲')
+                        : (_isBanglaMode ? '+$hiddenCount আরও ▼' : '+$hiddenCount more ▼'),
+                    style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(fontWeight: FontWeight.w600),
+                  ),
+                ),
+              ),
+          ],
+        ),
+      ],
+    );
+  }
+
+  // Section: Verified Sources & Reporting Ground (Deduplicated, Max 1 per Publisher)
   Widget _buildSourcesSection(List<Map<String, dynamic>> sources) {
+    // Deduplicate by clean publisher name, cap at 4
+    final List<Map<String, dynamic>> cleanSources = [];
+    final Set<String> seenPublishers = <String>{};
+    for (var s in sources) {
+      final rawName = s['name']?.toString() ?? 'Media Dispatch';
+      final cleanName = rawName.replaceAll(RegExp(r'\s+(Politics|Law & Crime|Bangladesh|Main|National)$'), '').trim();
+      final key = cleanName.toLowerCase();
+      if (!seenPublishers.contains(key)) {
+        seenPublishers.add(key);
+        cleanSources.add(s);
+      }
+      if (cleanSources.length >= 4) break;
+    }
+
     return Container(
       padding: const EdgeInsets.all(18),
       decoration: BoxDecoration(
@@ -963,21 +1188,21 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                   borderRadius: BorderRadius.circular(4),
                 ),
                 child: Text(
-                  '${sources.isEmpty ? 1 : sources.length} Sources',
+                  '${cleanSources.isEmpty ? 1 : cleanSources.length} Sources',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
                 ),
               ),
             ],
           ),
           const SizedBox(height: 12),
-          if (sources.isEmpty) ...[
+          if (cleanSources.isEmpty) ...[
             _buildSourceItemTile(
               name: 'National Wire & Official Gazette',
               url: '',
               snippet: 'Directly verified from Ministry notifications & central bank press release.',
             ),
           ] else ...[
-            ...sources.map((s) {
+            ...cleanSources.map((s) {
               final name = s['name']?.toString() ?? 'Daily Press Source';
               final url = s['url']?.toString() ?? '';
               final snippet = s['title']?.toString() ?? s['snippet']?.toString() ?? 'Primary editorial dispatch';
