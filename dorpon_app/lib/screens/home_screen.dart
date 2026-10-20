@@ -602,29 +602,35 @@ class _HomeScreenState extends State<HomeScreen> {
                                   // Source Newspaper & Publication Timestamp
                                   Row(
                                     children: [
-                                      Text(
-                                        sourceName,
-                                        style: const TextStyle(
-                                          color: ObsidianTokens.primaryMint,
-                                          fontSize: 11,
-                                          fontWeight: FontWeight.w600,
+                                      Flexible(
+                                        child: Text(
+                                          sourceName,
+                                          style: const TextStyle(
+                                            color: ObsidianTokens.primaryMint,
+                                            fontSize: 11,
+                                            fontWeight: FontWeight.w600,
+                                          ),
+                                          maxLines: 1,
+                                          overflow: TextOverflow.ellipsis,
                                         ),
                                       ),
-                                      const SizedBox(width: 6),
-                                      Text(
-                                        '•',
-                                        style: TextStyle(
-                                          color: ObsidianTokens.textSecondary.withValues(alpha: 0.5),
-                                          fontSize: 10,
+                                      if (story.formattedPublishedTime.isNotEmpty) ...[
+                                        const SizedBox(width: 6),
+                                        Text(
+                                          '•',
+                                          style: TextStyle(
+                                            color: ObsidianTokens.textSecondary.withValues(alpha: 0.5),
+                                            fontSize: 10,
+                                          ),
                                         ),
-                                      ),
-                                      const SizedBox(width: 6),
-                                      const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
-                                      const SizedBox(width: 3),
-                                      Text(
-                                        story.formattedPublishedTime,
-                                        style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
-                                      ),
+                                        const SizedBox(width: 6),
+                                        const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
+                                        const SizedBox(width: 3),
+                                        Text(
+                                          story.formattedPublishedTime,
+                                          style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                                        ),
+                                      ],
                                     ],
                                   ),
                                   const SizedBox(height: 6),
@@ -794,13 +800,15 @@ class _HomeScreenState extends State<HomeScreen> {
                     Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
-                        const SizedBox(width: 3),
-                        Text(
-                          story.formattedPublishedTime,
-                          style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
-                        ),
-                        const SizedBox(width: 6),
+                        if (story.formattedPublishedTime.isNotEmpty) ...[
+                          const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
+                          const SizedBox(width: 3),
+                          Text(
+                            story.formattedPublishedTime,
+                            style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                          ),
+                          const SizedBox(width: 6),
+                        ],
                         AnimatedBuilder(
                           animation: SavedArticlesService(),
                           builder: (context, _) {

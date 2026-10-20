@@ -318,29 +318,33 @@ class _AllNewsScreenState extends State<AllNewsScreen> {
               // Source & Published Timestamp Header
               Row(
                 children: [
-                  Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
-                    decoration: BoxDecoration(
-                      color: ObsidianTokens.primaryMint.withValues(alpha: 0.1),
-                      borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                      border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.2)),
-                    ),
-                    child: Text(
-                      sourceName,
-                      style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(
-                        fontWeight: FontWeight.w600,
+                  Flexible(
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
+                      decoration: BoxDecoration(
+                        color: ObsidianTokens.primaryMint.withValues(alpha: 0.1),
+                        borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                        border: Border.all(color: ObsidianTokens.primaryMint.withValues(alpha: 0.2)),
                       ),
-                      maxLines: 1,
-                      overflow: TextOverflow.ellipsis,
+                      child: Text(
+                        sourceName,
+                        style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint).copyWith(
+                          fontWeight: FontWeight.w600,
+                        ),
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                      ),
                     ),
                   ),
-                  const SizedBox(width: 8),
-                  const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
-                  const SizedBox(width: 3),
-                  Text(
-                    story.formattedPublishedTime,
-                    style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
-                  ),
+                  if (story.formattedPublishedTime.isNotEmpty) ...[
+                    const SizedBox(width: 6),
+                    const Icon(Icons.schedule, size: 11, color: ObsidianTokens.textSecondary),
+                    const SizedBox(width: 3),
+                    Text(
+                      story.formattedPublishedTime,
+                      style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
+                    ),
+                  ],
                   const Spacer(),
                   Text(
                     '$readMins min read',
