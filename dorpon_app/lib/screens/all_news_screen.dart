@@ -3,6 +3,7 @@ import '../theme/obsidian_tokens.dart';
 import '../models/capsule_models.dart';
 import '../services/api_service.dart';
 import '../services/saved_articles_service.dart';
+import '../services/app_settings_service.dart';
 import '../widgets/ambient_background.dart';
 import 'study_canvas_screen.dart';
 
@@ -288,10 +289,11 @@ class _AllNewsScreenState extends State<AllNewsScreen> {
   }
 
   Widget _buildNewsTile(CapsuleStory story) {
+    final settings = AppSettingsService();
     final buzz = story.dailyBuzz;
     final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'News Wire';
-    final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
-    final takeaway = buzz.whyItMattersEn.isNotEmpty ? buzz.whyItMattersEn : buzz.whyItMattersBn;
+    final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
+    final takeaway = settings.localize(en: buzz.whyItMattersEn, bn: buzz.whyItMattersBn);
     final readMins = buzz.readTimeSeconds > 0 ? (buzz.readTimeSeconds ~/ 60 + 1) : 1;
 
     return Padding(
@@ -404,7 +406,7 @@ class _AllNewsScreenState extends State<AllNewsScreen> {
               Row(
                 children: [
                   Text(
-                    'Read Full Analysis',
+                    settings.tr('read_full'),
                     style: ObsidianTokens.labelSm(color: ObsidianTokens.primaryMint),
                   ),
                   const SizedBox(width: 4),

@@ -12,6 +12,8 @@ import 'profile_screen.dart';
 import 'all_news_screen.dart';
 import '../services/audio_briefing_service.dart';
 import '../services/saved_articles_service.dart';
+import '../services/app_settings_service.dart';
+import '../services/auth_service.dart';
 import '../widgets/mini_audio_player.dart';
 import '../widgets/audio_player_sheet.dart';
 
@@ -66,21 +68,28 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  String _getTimeGreeting() {
+  String _getTimeGreeting(AppSettingsService settings) {
     final hour = DateTime.now().hour;
     if (hour >= 5 && hour < 12) {
-      return 'Good Morning,';
+      return settings.tr('good_morning');
     } else if (hour >= 12 && hour < 17) {
-      return 'Good Afternoon,';
+      return settings.tr('good_afternoon');
     } else if (hour >= 17 && hour < 21) {
-      return 'Good Evening,';
+      return settings.tr('good_evening');
     } else {
-      return 'Welcome Back,';
+      return settings.tr('welcome_back');
     }
   }
 
-  String _getFormattedDate() {
+  String _getFormattedDate(AppSettingsService settings) {
     final now = DateTime.now();
+    if (settings.isBangla) {
+      const weekdaysBn = ['সোমবার', 'মঙ্গলবার', 'বুধবার', 'বৃহস্পতিবার', 'শুক্রবার', 'শনিবার', 'রবিবার'];
+      const monthsBn = ['জানু', 'ফেব্রু', 'মার্চ', 'এপ্রিল', 'মে', 'জুন', 'জুলাই', 'আগস্ট', 'সেপ্টে', 'অক্টো', 'নভে', 'ডিসে'];
+      final weekday = weekdaysBn[now.weekday - 1];
+      final month = monthsBn[now.month - 1];
+      return 'দৈনিক ব্রিফ • $weekday, $month ${now.day}';
+    }
     const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
     final weekday = weekdays[now.weekday - 1];
@@ -90,230 +99,241 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: ObsidianTokens.background,
-      body: AmbientBackground(
-        child: Stack(
-          children: [
-            NestedScrollView(
-              headerSliverBuilder: (context, innerBoxIsScrolled) {
-                return [
-                  SliverToBoxAdapter(
-                    child: Column(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        // 1. Top Header Bar (Clean & Decluttered - No refresh icon)
-                        AnimatedBuilder(
-                          animation: _pageController,
-                          builder: (context, _) {
-                            double page = _activeNavIndex.toDouble();
-                            if (_pageController.hasClients &&
-                                _pageController.position.hasContentDimensions &&
-                                _pageController.page != null) {
-                              page = _pageController.page!;
-                            }
-                            double headerOpacity = (4.0 - page).clamp(0.0, 1.0);
-                            if (headerOpacity <= 0.0) return const SizedBox.shrink();
+    final settings = AppSettingsService();
+    final auth = AuthService();
 
-                            return Opacity(
-                              opacity: headerOpacity,
-                              child: Padding(
-                                padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-                                child: Row(
-                                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                                  children: [
-                                    Text(
-                                      'Dorpon',
-                                      style: ObsidianTokens.headlineLg(color: Colors.white),
-                                    ),
-                                    GestureDetector(
-                                      onTap: () {
-                                        _navigateToPage(0);
-                                      },
-                                      child: Container(
-                                        width: 38,
-                                        height: 38,
-                                        decoration: BoxDecoration(
-                                          color: Colors.white.withValues(alpha: 0.06),
-                                          shape: BoxShape.circle,
-                                          border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
+    return AnimatedBuilder(
+      animation: Listenable.merge([settings, auth]),
+      builder: (context, _) {
+        final user = auth.currentUser;
+        final userName = user != null && user.displayName.trim().isNotEmpty
+            ? user.displayName.trim().split(RegExp(r'\s+')).first
+            : (settings.isBangla ? 'পাঠক' : 'Reader');
+
+        return Scaffold(
+          backgroundColor: ObsidianTokens.background,
+          body: AmbientBackground(
+            child: Stack(
+              children: [
+                NestedScrollView(
+                  headerSliverBuilder: (context, innerBoxIsScrolled) {
+                    return [
+                      SliverToBoxAdapter(
+                        child: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            // 1. Top Header Bar (Clean & Decluttered - No refresh icon)
+                            AnimatedBuilder(
+                              animation: _pageController,
+                              builder: (context, _) {
+                                double page = _activeNavIndex.toDouble();
+                                if (_pageController.hasClients &&
+                                    _pageController.position.hasContentDimensions &&
+                                    _pageController.page != null) {
+                                  page = _pageController.page!;
+                                }
+                                double headerOpacity = (4.0 - page).clamp(0.0, 1.0);
+                                if (headerOpacity <= 0.0) return const SizedBox.shrink();
+
+                                return Opacity(
+                                  opacity: headerOpacity,
+                                  child: Padding(
+                                    padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                                    child: Row(
+                                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                      children: [
+                                        Text(
+                                          settings.tr('app_name'),
+                                          style: ObsidianTokens.headlineLg(color: Colors.white),
                                         ),
-                                        child: const Icon(Icons.search, color: Colors.white, size: 20),
+                                        GestureDetector(
+                                          onTap: () {
+                                            _navigateToPage(0);
+                                          },
+                                          child: Container(
+                                            width: 38,
+                                            height: 38,
+                                            decoration: BoxDecoration(
+                                              color: Colors.white.withValues(alpha: 0.06),
+                                              shape: BoxShape.circle,
+                                              border: Border.all(color: Colors.white.withValues(alpha: 0.08)),
+                                            ),
+                                            child: const Icon(Icons.search, color: Colors.white, size: 20),
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
+
+                            // 2. Animated Collapsing Header & Tab Bar
+                            AnimatedBuilder(
+                              animation: _pageController,
+                              builder: (context, _) {
+                                double page = _activeNavIndex.toDouble();
+                                if (_pageController.hasClients &&
+                                    _pageController.position.hasContentDimensions &&
+                                    _pageController.page != null) {
+                                  page = _pageController.page!;
+                                }
+                                // Progress is 1.0 on Top Stories (page 1), and 0.0 on Discover (page 0) or Current Affairs (page 2)
+                                double offsetFromCenter = (page - 1.0).abs().clamp(0.0, 1.0);
+                                double progress = (1.0 - offsetFromCenter).clamp(0.0, 1.0);
+
+                                // Tab bar is visible for pages 0, 1, 2
+                                double tabVisibility = 1.0;
+                                if (page > 2.0) {
+                                  tabVisibility = (1.0 - (page - 2.0)).clamp(0.0, 1.0);
+                                }
+
+                                if (tabVisibility <= 0.0 && progress <= 0.0) {
+                                  return const SizedBox.shrink();
+                                }
+
+                                return Column(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    // Collapsing Greeting + Listen Button (Smoothly animates across swipes)
+                                    ClipRect(
+                                      child: Align(
+                                        alignment: Alignment.topCenter,
+                                        heightFactor: progress,
+                                        child: Opacity(
+                                          opacity: progress,
+                                          child: Padding(
+                                            padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 4),
+                                            child: Center(
+                                              child: Column(
+                                                crossAxisAlignment: CrossAxisAlignment.center,
+                                                children: [
+                                                  Text(
+                                                    _getFormattedDate(settings),
+                                                    textAlign: TextAlign.center,
+                                                    style: ObsidianTokens.labelSm(color: ObsidianTokens.textSecondary),
+                                                  ),
+                                                  const SizedBox(height: 6),
+                                                  GestureDetector(
+                                                    onTap: () {
+                                                      _navigateToPage(4);
+                                                    },
+                                                    child: Text(
+                                                      '${_getTimeGreeting(settings)}\n$userName',
+                                                      textAlign: TextAlign.center,
+                                                      style: ObsidianTokens.headlineXl(),
+                                                    ),
+                                                  ),
+                                                  const SizedBox(height: 16),
+
+                                                  // Interactive Audio Briefing Action Pill
+                                                  AnimatedBuilder(
+                                                    animation: AudioBriefingService(),
+                                                    builder: (context, _) {
+                                                      final audio = AudioBriefingService();
+                                                      return GestureDetector(
+                                                        onTap: () {
+                                                          if (!audio.isPlaying && !audio.isPlayerVisible) {
+                                                            audio.playBriefing(stories: _buzzStories);
+                                                          }
+                                                          AudioPlayerSheet.show(context);
+                                                        },
+                                                        child: Container(
+                                                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                                                          decoration: BoxDecoration(
+                                                            color: audio.isPlaying
+                                                                ? ObsidianTokens.primaryMint.withValues(alpha: 0.16)
+                                                                : Colors.white.withValues(alpha: 0.06),
+                                                            borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
+                                                            border: Border.all(
+                                                              color: audio.isPlaying
+                                                                  ? ObsidianTokens.primaryMint
+                                                                  : Colors.white.withValues(alpha: 0.1),
+                                                            ),
+                                                            boxShadow: [
+                                                              if (audio.isPlaying)
+                                                                BoxShadow(
+                                                                  color: ObsidianTokens.primaryMint.withValues(alpha: 0.3),
+                                                                  blurRadius: 18,
+                                                                  spreadRadius: 2,
+                                                                ),
+                                                            ],
+                                                          ),
+                                                          child: Row(
+                                                            mainAxisSize: MainAxisSize.min,
+                                                            children: [
+                                                              Icon(
+                                                                audio.isPlaying ? Icons.graphic_eq_rounded : Icons.play_arrow_rounded,
+                                                                color: ObsidianTokens.primaryMint,
+                                                                size: 18,
+                                                              ),
+                                                              const SizedBox(width: 8),
+                                                              Text(
+                                                                audio.isPlaying
+                                                                    ? '${settings.tr("playing")} • ${audio.formattedPosition}'
+                                                                    : '${settings.tr("listen")} • ${audio.formattedTotalDuration}',
+                                                                style: TextStyle(
+                                                                  fontSize: 12,
+                                                                  fontWeight: FontWeight.w600,
+                                                                  color: audio.isPlaying ? ObsidianTokens.primaryMint : Colors.white,
+                                                                ),
+                                                              ),
+                                                            ],
+                                                          ),
+                                                        ),
+                                                      );
+                                                    },
+                                                  ),
+                                                  const SizedBox(height: 12),
+                                                ],
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+
+                                    // Navigation Tab Bar
+                                    ClipRect(
+                                      child: Align(
+                                        alignment: Alignment.topCenter,
+                                        heightFactor: tabVisibility,
+                                        child: Opacity(
+                                          opacity: tabVisibility,
+                                          child: Padding(
+                                            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
+                                            child: Center(
+                                              child: Row(
+                                                mainAxisAlignment: MainAxisAlignment.center,
+                                                mainAxisSize: MainAxisSize.min,
+                                                children: [
+                                                  _buildTopNavTab(0, settings.tr('discover')),
+                                                  const SizedBox(width: 22),
+                                                  _buildTopNavTab(1, settings.tr('top_stories')),
+                                                  const SizedBox(width: 22),
+                                                  _buildTopNavTab(
+                                                    2,
+                                                    settings.tr('current_affairs'),
+                                                    icon: Icons.auto_awesome_rounded,
+                                                    iconColor: ObsidianTokens.accentGold,
+                                                  ),
+                                                ],
+                                              ),
+                                            ),
+                                          ),
+                                        ),
                                       ),
                                     ),
                                   ],
-                                ),
-                              ),
-                            );
-                          },
+                                );
+                              },
+                            ),
+                            const SizedBox(height: 6),
+                          ],
                         ),
-
-                        // 2. Animated Collapsing Header & Tab Bar
-                        AnimatedBuilder(
-                          animation: _pageController,
-                          builder: (context, _) {
-                            double page = _activeNavIndex.toDouble();
-                            if (_pageController.hasClients &&
-                                _pageController.position.hasContentDimensions &&
-                                _pageController.page != null) {
-                              page = _pageController.page!;
-                            }
-                            // Progress is 1.0 on Top Stories (page 1), and 0.0 on Discover (page 0) or Current Affairs (page 2)
-                            double offsetFromCenter = (page - 1.0).abs().clamp(0.0, 1.0);
-                            double progress = (1.0 - offsetFromCenter).clamp(0.0, 1.0);
-
-                            // Tab bar is visible for pages 0, 1, 2
-                            double tabVisibility = 1.0;
-                            if (page > 2.0) {
-                              tabVisibility = (1.0 - (page - 2.0)).clamp(0.0, 1.0);
-                            }
-
-                            if (tabVisibility <= 0.0 && progress <= 0.0) {
-                              return const SizedBox.shrink();
-                            }
-
-                            return Column(
-                              mainAxisSize: MainAxisSize.min,
-                              children: [
-                                // Collapsing Greeting + Listen Button (Smoothly animates across swipes)
-                                ClipRect(
-                                  child: Align(
-                                    alignment: Alignment.topCenter,
-                                    heightFactor: progress,
-                                    child: Opacity(
-                                      opacity: progress,
-                                      child: Padding(
-                                        padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 4),
-                                        child: Center(
-                                          child: Column(
-                                            crossAxisAlignment: CrossAxisAlignment.center,
-                                            children: [
-                                              Text(
-                                                _getFormattedDate(),
-                                                textAlign: TextAlign.center,
-                                                style: ObsidianTokens.labelSm(color: ObsidianTokens.textSecondary),
-                                              ),
-                                              const SizedBox(height: 6),
-                                              GestureDetector(
-                                                onTap: () {
-                                                  _navigateToPage(4);
-                                                },
-                                                child: Text(
-                                                  '${_getTimeGreeting()}\nAsif',
-                                                  textAlign: TextAlign.center,
-                                                  style: ObsidianTokens.headlineXl(),
-                                                ),
-                                              ),
-                                              const SizedBox(height: 16),
-
-                                              // Interactive Audio Briefing Action Pill
-                                              AnimatedBuilder(
-                                                animation: AudioBriefingService(),
-                                                builder: (context, _) {
-                                                  final audio = AudioBriefingService();
-                                                  return GestureDetector(
-                                                    onTap: () {
-                                                      if (!audio.isPlaying && !audio.isPlayerVisible) {
-                                                        audio.playBriefing(stories: _buzzStories);
-                                                      }
-                                                      AudioPlayerSheet.show(context);
-                                                    },
-                                                    child: Container(
-                                                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                                                      decoration: BoxDecoration(
-                                                        color: audio.isPlaying
-                                                            ? ObsidianTokens.primaryMint.withValues(alpha: 0.16)
-                                                            : Colors.white.withValues(alpha: 0.06),
-                                                        borderRadius: BorderRadius.circular(ObsidianTokens.radiusPill),
-                                                        border: Border.all(
-                                                          color: audio.isPlaying
-                                                              ? ObsidianTokens.primaryMint
-                                                              : Colors.white.withValues(alpha: 0.1),
-                                                        ),
-                                                        boxShadow: [
-                                                          if (audio.isPlaying)
-                                                            BoxShadow(
-                                                              color: ObsidianTokens.primaryMint.withValues(alpha: 0.3),
-                                                              blurRadius: 18,
-                                                              spreadRadius: 2,
-                                                            ),
-                                                        ],
-                                                      ),
-                                                      child: Row(
-                                                        mainAxisSize: MainAxisSize.min,
-                                                        children: [
-                                                          Icon(
-                                                            audio.isPlaying ? Icons.graphic_eq_rounded : Icons.play_arrow_rounded,
-                                                            color: ObsidianTokens.primaryMint,
-                                                            size: 18,
-                                                          ),
-                                                          const SizedBox(width: 8),
-                                                          Text(
-                                                            audio.isPlaying
-                                                                ? 'Playing • ${audio.formattedPosition}'
-                                                                : 'Listen • ${audio.formattedTotalDuration}',
-                                                            style: TextStyle(
-                                                              fontSize: 12,
-                                                              fontWeight: FontWeight.w600,
-                                                              color: audio.isPlaying ? ObsidianTokens.primaryMint : Colors.white,
-                                                            ),
-                                                          ),
-                                                        ],
-                                                      ),
-                                                    ),
-                                                  );
-                                                },
-                                              ),
-                                              const SizedBox(height: 12),
-                                            ],
-                                          ),
-                                        ),
-                                      ),
-                                    ),
-                                  ),
-                                ),
-
-                                // Navigation Tab Bar
-                                ClipRect(
-                                  child: Align(
-                                    alignment: Alignment.topCenter,
-                                    heightFactor: tabVisibility,
-                                    child: Opacity(
-                                      opacity: tabVisibility,
-                                      child: Padding(
-                                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 6),
-                                        child: Center(
-                                          child: Row(
-                                            mainAxisAlignment: MainAxisAlignment.center,
-                                            mainAxisSize: MainAxisSize.min,
-                                            children: [
-                                              _buildTopNavTab(0, 'Discover'),
-                                              const SizedBox(width: 22),
-                                              _buildTopNavTab(1, 'Top Stories'),
-                                              const SizedBox(width: 22),
-                                              _buildTopNavTab(
-                                                2,
-                                                'Current Affairs',
-                                                icon: Icons.auto_awesome_rounded,
-                                                iconColor: ObsidianTokens.accentGold,
-                                              ),
-                                            ],
-                                          ),
-                                        ),
-                                      ),
-                                    ),
-                                  ),
-                                ),
-                              ],
-                            );
-                          },
-                        ),
-                        const SizedBox(height: 6),
-                      ],
-                    ),
-                  ),
-                ];
-              },
+                      ),
+                    ];
+                  },
               body: PageView(
                 controller: _pageController,
                 onPageChanged: (index) {
@@ -376,6 +396,8 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ),
     );
+      },
+    );
   }
 
   Widget _buildTopNavTab(int index, String title, {IconData? icon, Color? iconColor}) {
@@ -425,6 +447,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildHomeFeed() {
+    final settings = AppSettingsService();
     final topStories = _buzzStories.take(6).toList();
     final wireStories = (_hourlyWires.isNotEmpty ? _hourlyWires : _buzzStories).take(8).toList();
 
@@ -454,13 +477,15 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      'Top Stories Today',
+                      settings.isBangla ? 'আজকের প্রধান খবর' : 'Top Stories Today',
                       style: ObsidianTokens.labelSm(color: ObsidianTokens.textPrimary),
                     ),
                   ],
                 ),
                 Text(
-                  'Swipe for more • ${topStories.length} curated',
+                  settings.isBangla
+                      ? 'আরও দেখতে সোয়াইপ করুন • ${topStories.length}টি সংবাদ'
+                      : 'Swipe for more • ${topStories.length} curated',
                   style: ObsidianTokens.labelXs(color: ObsidianTokens.textSecondary),
                 ),
               ],
@@ -480,7 +505,10 @@ class _HomeScreenState extends State<HomeScreen> {
             Padding(
               padding: const EdgeInsets.all(24),
               child: Center(
-                child: Text('No stories found for today.', style: ObsidianTokens.bodyMd()),
+                child: Text(
+                  settings.isBangla ? 'আজকের কোনো সংবাদ পাওয়া যায়নি।' : 'No stories found for today.',
+                  style: ObsidianTokens.bodyMd(),
+                ),
               ),
             )
           else
@@ -518,7 +546,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      'Hourly Breaking Wires',
+                      settings.tr('breaking_wires'),
                       style: ObsidianTokens.labelSm(color: ObsidianTokens.textPrimary),
                     ),
                     const SizedBox(width: 8),
@@ -555,7 +583,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         mainAxisSize: MainAxisSize.min,
                         children: [
                           Text(
-                            'View All',
+                            settings.tr('view_all'),
                             style: ObsidianTokens.labelXs(color: ObsidianTokens.primaryMint),
                           ),
                           const SizedBox(width: 2),
@@ -571,8 +599,8 @@ class _HomeScreenState extends State<HomeScreen> {
                 ...wireStories.map((story) {
                   final buzz = story.dailyBuzz;
                   final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'News Wire';
-                  final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
-                  final takeaway = buzz.whyItMattersEn.isNotEmpty ? buzz.whyItMattersEn : buzz.whyItMattersBn;
+                  final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
+                  final takeaway = settings.localize(en: buzz.whyItMattersEn, bn: buzz.whyItMattersBn);
 
                   return Padding(
                     padding: const EdgeInsets.only(bottom: 14),
@@ -720,8 +748,8 @@ class _HomeScreenState extends State<HomeScreen> {
                           const Icon(Icons.history_rounded, size: 18, color: ObsidianTokens.primaryMint),
                           const SizedBox(width: 8),
                           Text(
-                            'Explore All News & Past Archive',
-                            style: TextStyle(
+                            settings.tr('explore_all'),
+                            style: const TextStyle(
                               fontSize: 13,
                               fontWeight: FontWeight.w600,
                               color: ObsidianTokens.primaryMint,
@@ -744,10 +772,11 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildStoryCard(CapsuleStory story) {
+    final settings = AppSettingsService();
     final buzz = story.dailyBuzz;
     final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'Daily Brief';
-    final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
-    final summary = buzz.summaryEn.isNotEmpty ? buzz.summaryEn : buzz.summaryBn;
+    final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
+    final summary = settings.localize(en: buzz.summaryEn, bn: buzz.summaryBn);
     final readMins = buzz.readTimeSeconds > 0 ? (buzz.readTimeSeconds ~/ 60 + 1) : 1;
 
     return GestureDetector(

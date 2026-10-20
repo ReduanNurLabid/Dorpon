@@ -5,15 +5,26 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'firebase_options.dart';
 import 'theme/obsidian_tokens.dart';
 import 'screens/home_screen.dart';
+import 'services/app_settings_service.dart';
+import 'services/auth_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
-  FirebaseFirestore.instance.settings = const Settings(
-    persistenceEnabled: true,
-  );
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+    FirebaseFirestore.instance.settings = const Settings(
+      persistenceEnabled: true,
+    );
+  } catch (e) {
+    debugPrint('Firebase initialization note: $e');
+  }
+
+  // Initialize App Settings & Auth State
+  await AppSettingsService().init();
+  await AuthService().init();
+
   runApp(const DorponApp());
 }
 
@@ -22,19 +33,35 @@ class DorponApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Dorpon',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        brightness: Brightness.dark,
-        scaffoldBackgroundColor: ObsidianTokens.background,
-        colorScheme: const ColorScheme.dark(
-          primary: ObsidianTokens.primaryMint,
-          surface: ObsidianTokens.background,
-        ),
-        fontFamily: GoogleFonts.plusJakartaSans().fontFamily,
-      ),
-      home: const HomeScreen(),
+    final settings = AppSettingsService();
+
+    return AnimatedBuilder(
+      animation: settings,
+      builder: (context, _) {
+        String? activeFontFamily;
+        if (settings.isBangla) {
+          activeFontFamily = GoogleFonts.hindSiliguri().fontFamily;
+        } else if (settings.isSerif) {
+          activeFontFamily = GoogleFonts.sourceSerif4().fontFamily;
+        } else {
+          activeFontFamily = GoogleFonts.plusJakartaSans().fontFamily;
+        }
+
+        return MaterialApp(
+          title: settings.tr('app_name'),
+          debugShowCheckedModeBanner: false,
+          theme: ThemeData(
+            brightness: Brightness.dark,
+            scaffoldBackgroundColor: ObsidianTokens.background,
+            colorScheme: const ColorScheme.dark(
+              primary: ObsidianTokens.primaryMint,
+              surface: ObsidianTokens.background,
+            ),
+            fontFamily: activeFontFamily,
+          ),
+          home: const HomeScreen(),
+        );
+      },
     );
   }
 }

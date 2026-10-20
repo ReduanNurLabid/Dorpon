@@ -3,6 +3,7 @@ import '../theme/obsidian_tokens.dart';
 import '../models/capsule_models.dart';
 import '../services/saved_articles_service.dart';
 import '../services/audio_briefing_service.dart';
+import '../services/app_settings_service.dart';
 import '../widgets/audio_player_sheet.dart';
 import 'study_canvas_screen.dart';
 
@@ -339,13 +340,17 @@ class _SavedScreenState extends State<SavedScreen> {
   }
 
   Widget _buildSavedStoryCard(BuildContext context, CapsuleStory story) {
+    final settings = AppSettingsService();
     final buzz = story.dailyBuzz;
     final sourceName = story.sources.isNotEmpty ? story.sources[0]['name'] : 'Daily Brief';
-    final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : (buzz.titleBn.isNotEmpty ? buzz.titleBn : 'Analysis');
-    final takeaway = buzz.whyItMattersEn.isNotEmpty
-        ? buzz.whyItMattersEn
-        : (buzz.summaryEn.isNotEmpty ? buzz.summaryEn : buzz.summaryBn);
-    final readTime = '${buzz.readTimeSeconds ~/ 60 + 1}m read';
+    final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
+    final takeaway = settings.localize(
+      en: buzz.whyItMattersEn.isNotEmpty ? buzz.whyItMattersEn : buzz.summaryEn,
+      bn: buzz.whyItMattersBn.isNotEmpty ? buzz.whyItMattersBn : buzz.summaryBn,
+    );
+    final readTime = settings.isBangla
+        ? '${buzz.readTimeSeconds ~/ 60 + 1} মিনিট পাঠ'
+        : '${buzz.readTimeSeconds ~/ 60 + 1}m read';
 
     return GestureDetector(
       onTap: () {

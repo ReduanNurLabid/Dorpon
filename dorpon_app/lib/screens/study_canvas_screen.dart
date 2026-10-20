@@ -8,6 +8,7 @@ import '../services/audio_briefing_service.dart';
 import '../services/saved_articles_service.dart';
 import '../widgets/audio_player_sheet.dart';
 import '../widgets/premium_modal.dart';
+import '../services/app_settings_service.dart';
 
 class StudyCanvasScreen extends StatefulWidget {
   final CapsuleStory story;
@@ -34,6 +35,7 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
   void initState() {
     super.initState();
     _isSaved = SavedArticlesService().isStorySaved(widget.story.storyId);
+    _isBanglaMode = AppSettingsService().isBangla;
   }
 
   Future<void> _openSourceUrl(String? url) async {
@@ -147,7 +149,10 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                             mainAxisSize: MainAxisSize.min,
                             children: [
                               GestureDetector(
-                                onTap: () => setState(() => _isBanglaMode = false),
+                                onTap: () {
+                                  setState(() => _isBanglaMode = false);
+                                  AppSettingsService().setLanguage('en');
+                                },
                                 child: Container(
                                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
                                   decoration: BoxDecoration(
@@ -165,7 +170,10 @@ class _StudyCanvasScreenState extends State<StudyCanvasScreen> {
                                 ),
                               ),
                               GestureDetector(
-                                onTap: () => setState(() => _isBanglaMode = true),
+                                onTap: () {
+                                  setState(() => _isBanglaMode = true);
+                                  AppSettingsService().setLanguage('bn');
+                                },
                                 child: Container(
                                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
                                   decoration: BoxDecoration(

@@ -1,74 +1,115 @@
-# Dorpon Daily — Ingestion, AI Processing & Curation Pipeline
+# Dorpon Daily (দর্পণ) — Autonomous News Ingestion & AI Synthesis Platform
 
-**Daily Current Affairs That Save Time**  
-Dual-mode daily capsule for Bangladesh:
-- **Daily Buzz**: 100% Free, 60-second minimalist news summaries tailored to user interests.
-- **BCS Pro**: Paid Premium study engine with data, constitutional articles, analytical breakdowns, and 30 years of linked past BPSC exam questions.
+**Daily Current Affairs That Save Time • সময় বাঁচানো প্রতিদিনের চলতি ঘটনাবলী**
 
----
-
-## Architecture Overview
-
-```
-c:\Users\Reduan\Downloads\Dorpon Daily\
-├── pipeline\
-│   ├── config.py                 # RSS endpoints, Category taxonomy, BPSC preset weights
-│   ├── models.py                 # Pydantic schemas (DailyBuzz, BcsPro, DailyCapsule)
-│   ├── constitution_kb.py        # Verified Bangladesh Constitution lookup (153 articles)
-│   ├── collectors\
-│   │   ├── rss_fetcher.py        # Fetches live RSS from Daily Star & Prothom Alo
-│   │   └── article_scraper.py    # Extracts clean article body paragraphs
-│   ├── processing\
-│   │   ├── deduplicator.py       # Cross-source event clustering & BPSC scoring
-│   │   ├── selector.py           # Routes stories (BCS Preset vs User Interests)
-│   │   └── synthesizer.py        # Bilingual synthesis (Gemini 1.5 + Fallback engine)
-│   └── run_pipeline.py           # Master 4:30 AM cron ingestion script
-├── api\
-│   └── server.py                 # FastAPI backend serving Flutter client & Admin UI
-└── data\
-    ├── output\                   # Generated daily editions (e.g. capsule_latest.json)
-    └── pyqs.json                 # 30-Year Past BPSC Exam Question Bank
-```
+Dorpon Daily is an intelligent, bilingual (English & বাংলা) news aggregation and deep-dive current affairs platform designed for professionals, researchers, and conscious readers in Bangladesh and the global diaspora. It transforms high-velocity media noise into calm, verified, high-signal intelligence through automated ingestion, Gemini AI synthesis, and a distraction-free mobile and web reader.
 
 ---
 
-## How It Solves Audience Routing
+## 🌟 Key Features
 
-### 1. BCS Pro (Strict Academic Preset)
-- Filters on BPSC syllabus pillars: Macroeconomy, Constitution/Law, Foreign Diplomacy, Climate/Delta Plan, Public Admin.
-- The pipeline scores each morning's news and selects the top **3 to 5 stories**.
-- Enriches with:
-  - 📊 BBS & Bangladesh Bank statistics
-  - 📜 Real Constitutional articles verified against `constitution_kb.py`
-  - 🏛️ BPSC Written Analytical Breakdown
-  - ✍️ Formal 10–15 mark exam question + 3-point model outline
-  - 📚 Linked 30-Year PYQs
+### 1. Dual-Layer News Experience
+* **Hourly Breaking Wires & Daily Buzz**: 60-second minimalist capsules summarizing breaking national and international developments. Every dispatch provides the core story, verified source attribution, and a quick *"Why It Matters"* takeaway.
+* **In-Depth Current Affairs Dossiers**: Strategic analytical breakdowns exploring complex policy, macroeconomic, geopolitical, and environmental affairs with root-cause timelines, official statistical telemetry, and long-term outlooks.
 
-### 2. Daily Buzz (Personalized Interest Routing)
-- The pipeline curates an 8 to 10 story pool across:
-  - `economy_business`
-  - `governance_law`
-  - `tech_innovation`
-  - `climate_environment`
-  - `world_diplomacy`
-  - `society_education`
-- The Flutter client sends the user's selected interests: `GET /api/feed/buzz?interests=tech_innovation,economy_business`.
-- The API dynamically serves their top 3–5 cards. If no preferences are set, it returns the top national highlights.
+### 2. Seamless Bilingual Support (বাংলা ও English)
+* Full dynamic translation and language toggle across the entire application.
+* Readers can toggle between **English** and **বাংলা** on the fly with a single tap in the settings or directly inside article canvas screens.
+* Integrated Bengali typography powered by Google Fonts (`Hind Siliguri`) and editorial serif/sans-serif modes.
+
+### 3. Hands-Free Audio Briefings
+* Continuous, synchronized audio player sheet and persistent mini-dock player.
+* Delivers hands-free morning broadcasts and summaries for commute or multi-tasking.
+
+### 4. Autonomous Cloud Pipeline
+* Automated GitHub Actions cron runner executing hourly at off-peak intervals.
+* Cross-source deduplication, scraping, Gemini AI structured extraction, and instant Firebase Firestore live sync.
+
+### 5. Reader Account & Preferences
+* Secure authentication (Sign In, Create Account, or Continue as Guest).
+* Persistent bookmarking, reading history, customizable font choices, notification toggles, and offline cache management.
 
 ---
 
-## Quickstart Commands
+## 🏗️ Architecture Overview
 
-### 1. Run Morning Ingestion Pipeline
-```powershell
-.\venv\Scripts\python.exe -m pipeline.run_pipeline
+```
+Dorpon Daily/
+├── .github/workflows/
+│   └── pipeline_cron.yml      # Autonomous hourly GitHub Actions workflow
+├── pipeline/
+│   ├── config.py              # RSS feeds, taxonomy, and category schemas
+│   ├── models.py              # Pydantic schemas (DailyBuzz, CurrentAffairs, DailyCapsule)
+│   ├── constitution_kb.py     # Bangladesh constitutional articles reference database
+│   ├── collectors/
+│   │   ├── rss_fetcher.py     # Scrapes RSS feeds (The Daily Star, Prothom Alo, etc.)
+│   │   └── article_scraper.py # Clean article body text extraction
+│   ├── processing/
+│   │   ├── deduplicator.py    # Cross-source event clustering & importance scoring
+│   │   ├── selector.py        # Editorial interest and topical categorization
+│   │   └── synthesizer.py     # Gemini AI bilingual synthesis (English & Bangla)
+│   ├── hourly_worker.py       # Hourly breaking news ingestion & Firestore sync script
+│   └── run_pipeline.py        # Master morning capsule synthesis script
+├── dorpon_app/                # Flutter Client Application (Web, Android, iOS)
+│   ├── lib/
+│   │   ├── models/            # Capsule and story models
+│   │   ├── screens/           # Home, Discover, Current Affairs, Saved, Settings/Profile
+│   │   ├── services/          # SettingsService, AuthService, ApiService, AudioBriefingService
+│   │   ├── theme/             # Obsidian dark glass tokens and design system
+│   │   └── widgets/           # Floating dock, mini player, ambient background, auth modal
+│   └── pubspec.yaml           # Flutter dependencies & assets
+└── data/
+    └── output/                # Local cache of generated JSON capsules
 ```
 
-### 2. Start API Server (for Flutter App & Admin)
-```powershell
-.\venv\Scripts\uvicorn.exe api.server:app --reload --port 8000
+---
+
+## ⚡ Quickstart Guide
+
+### 1. Ingestion & AI Pipeline (Python)
+
+#### Prerequisites
+* Python 3.12+
+* Google Gemini API Key (`GEMINI_API_KEY`)
+* Firebase Service Account JSON (`FIREBASE_SERVICE_ACCOUNT_JSON`)
+
+```bash
+# Setup virtual environment
+python -m venv venv
+venv\Scripts\activate       # Windows
+# source venv/bin/activate  # macOS / Linux
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run manual hourly pipeline
+python -m pipeline.hourly_worker --limit 6
+
+# Run full morning edition capsule
+python -m pipeline.run_pipeline
 ```
-- API Docs: `http://localhost:8000/docs`
-- BCS Pro Feed: `http://localhost:8000/api/feed/bcs-pro`
-- Daily Buzz Feed (Personalized): `http://localhost:8000/api/feed/buzz?interests=economy_business`
-- Human Review Approval: `POST http://localhost:8000/api/admin/approve`
+
+---
+
+### 2. Client Application (Flutter)
+
+#### Run as Local Web App
+```bash
+cd dorpon_app
+flutter pub get
+flutter run -d web-server --web-port=5050 --web-hostname=0.0.0.0
+```
+* Access from local computer: `http://localhost:5050`
+* Access from phone on the same Wi-Fi: `http://<your-local-ip>:5050`
+* *(Tip)* In Chrome on Android/iOS, tap **"Add to Home Screen"** to install it directly as an app icon with instant launch!
+
+---
+
+## 🔒 Security & Firestore Rules
+
+Client applications have secure, public read-only access to published dispatches (`daily_buzz`, `hourly_buzz`, `bcs_pro_published`). All modifications, updates, and ingestions are exclusively performed via authenticated server runners using the Firebase Admin SDK.
+
+---
+
+## 📄 License
+Mindful Daily Sanctuary © 2026 Dorpon. All rights reserved.

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../theme/obsidian_tokens.dart';
 import '../models/capsule_models.dart';
+import '../services/app_settings_service.dart';
 import 'study_canvas_screen.dart';
 
 class CurrentAffairsScreen extends StatefulWidget {
@@ -47,6 +48,7 @@ class _CurrentAffairsScreenState extends State<CurrentAffairsScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final settings = AppSettingsService();
     final filteredStories = _getFilteredStories();
 
     return RefreshIndicator(
@@ -121,14 +123,16 @@ class _CurrentAffairsScreenState extends State<CurrentAffairsScreen> {
                       const Icon(Icons.auto_awesome_rounded, color: ObsidianTokens.accentGold, size: 22),
                       const SizedBox(width: 8),
                       Text(
-                        'Current Affairs & Analyses',
+                        settings.isBangla ? 'চলতি ঘটনাবলী ও বিশ্লেষণ' : 'Current Affairs & Analyses',
                         style: ObsidianTokens.headlineLg(color: Colors.white),
                       ),
                     ],
                   ),
                   const SizedBox(height: 6),
                   Text(
-                    'Question-led analyses, root causes & strategic perspectives',
+                    settings.isBangla
+                        ? 'গভীর বিশ্লেষণ, সংবাদের মূল কারণ ও কৌশলগত দৃষ্টিভঙ্গি'
+                        : 'Question-led analyses, root causes & strategic perspectives',
                     textAlign: TextAlign.center,
                     style: ObsidianTokens.bodySm(color: ObsidianTokens.textSecondary),
                   ),
@@ -230,6 +234,7 @@ class _CurrentAffairsScreenState extends State<CurrentAffairsScreen> {
   }
 
   Widget _buildIssueCard(BuildContext context, CapsuleStory story, int index) {
+    final settings = AppSettingsService();
     final bcs = story.bcsPro;
     final buzz = story.dailyBuzz;
 
@@ -246,14 +251,17 @@ class _CurrentAffairsScreenState extends State<CurrentAffairsScreen> {
       cleanTopic = cleanTopic.substring(1).trim();
     }
     if (cleanTopic.isEmpty) {
-      cleanTopic = 'Strategic Analysis';
+      cleanTopic = settings.isBangla ? 'কৌশলগত বিশ্লেষণ' : 'Strategic Analysis';
     }
 
-    final title = buzz.titleEn.isNotEmpty ? buzz.titleEn : buzz.titleBn;
-    final overviewText = (bcs != null && bcs.whyInTheNewsEn.isNotEmpty)
-        ? bcs.whyInTheNewsEn
-        : (buzz.summaryEn.isNotEmpty ? buzz.summaryEn : buzz.summaryBn);
-    final readTimeText = '${buzz.readTimeSeconds ~/ 60 + 1}m read';
+    final title = settings.localize(en: buzz.titleEn, bn: buzz.titleBn);
+    final overviewText = settings.localize(
+      en: (bcs != null && bcs.whyInTheNewsEn.isNotEmpty) ? bcs.whyInTheNewsEn : buzz.summaryEn,
+      bn: (bcs != null && bcs.whyInTheNewsBn.isNotEmpty) ? bcs.whyInTheNewsBn : buzz.summaryBn,
+    );
+    final readTimeText = settings.isBangla
+        ? '${buzz.readTimeSeconds ~/ 60 + 1} মিনিট পাঠ'
+        : '${buzz.readTimeSeconds ~/ 60 + 1}m read';
     final publishedTime = story.formattedPublishedTime;
 
     return Padding(
