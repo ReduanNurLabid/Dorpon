@@ -5,6 +5,8 @@ import '../models/capsule_models.dart';
 
 class ApiService {
   static const String baseUrl = 'http://localhost:8000';
+  // Disabled by default to avoid ERR_CONNECTION_REFUSED in browser/standalone mode when no local backend runs
+  static const bool enableLocalHttpFallback = false;
 
   /// Fetches hourly 60-second news stories directly from Firestore collection 'daily_buzz'
   static Future<List<CapsuleStory>> fetchDailyBuzzFeed({String? interests}) async {
@@ -13,7 +15,7 @@ class ApiService {
           .collection('daily_buzz')
           .limit(25)
           .get()
-          .timeout(const Duration(seconds: 4));
+          .timeout(const Duration(seconds: 8));
 
       if (snapshot.docs.isNotEmpty) {
         final List<CapsuleStory> stories = [];
@@ -31,22 +33,24 @@ class ApiService {
         return stories;
       }
     } catch (e) {
-      // Fall back to local API if Firestore request is throttled or offline
+      // Fall back if Firestore request fails
     }
 
-    // Secondary fallback: Local API server
-    try {
-      final query = interests != null && interests.isNotEmpty ? '?interests=$interests' : '';
-      final response = await http
-          .get(Uri.parse('$baseUrl/api/feed/buzz$query'))
-          .timeout(const Duration(seconds: 3));
+    // Secondary fallback: Local API server (if explicitly enabled)
+    if (enableLocalHttpFallback) {
+      try {
+        final query = interests != null && interests.isNotEmpty ? '?interests=$interests' : '';
+        final response = await http
+            .get(Uri.parse('$baseUrl/api/feed/buzz$query'))
+            .timeout(const Duration(seconds: 3));
 
-      if (response.statusCode == 200) {
-        final data = json.decode(utf8.decode(response.bodyBytes));
-        final List storiesJson = data['stories'] ?? [];
-        return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
-      }
-    } catch (_) {}
+        if (response.statusCode == 200) {
+          final data = json.decode(utf8.decode(response.bodyBytes));
+          final List storiesJson = data['stories'] ?? [];
+          return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+        }
+      } catch (_) {}
+    }
 
     return _getFallbackTopStories();
   }
@@ -58,7 +62,7 @@ class ApiService {
           .collection('current_affairs_published')
           .doc('latest')
           .get()
-          .timeout(const Duration(seconds: 3));
+          .timeout(const Duration(seconds: 8));
 
       if (doc.exists && doc.data() != null) {
         final data = doc.data()!;
@@ -76,7 +80,7 @@ class ApiService {
           .collection('bcs_pro_published')
           .doc('latest')
           .get()
-          .timeout(const Duration(seconds: 4));
+          .timeout(const Duration(seconds: 8));
 
       if (doc.exists && doc.data() != null) {
         final data = doc.data()!;
@@ -89,18 +93,20 @@ class ApiService {
       // Fall back
     }
 
-    // Secondary fallback: Local API server
-    try {
-      final response = await http
-          .get(Uri.parse('$baseUrl/api/feed/current-affairs'))
-          .timeout(const Duration(seconds: 3));
+    // Secondary fallback: Local API server (if explicitly enabled)
+    if (enableLocalHttpFallback) {
+      try {
+        final response = await http
+            .get(Uri.parse('$baseUrl/api/feed/current-affairs'))
+            .timeout(const Duration(seconds: 3));
 
-      if (response.statusCode == 200) {
-        final data = json.decode(utf8.decode(response.bodyBytes));
-        final List storiesJson = data['stories'] ?? [];
-        return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
-      }
-    } catch (_) {}
+        if (response.statusCode == 200) {
+          final data = json.decode(utf8.decode(response.bodyBytes));
+          final List storiesJson = data['stories'] ?? [];
+          return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+        }
+      } catch (_) {}
+    }
 
     return _getFallbackCurrentAffairs();
   }
@@ -112,7 +118,7 @@ class ApiService {
           .collection('hourly_buzz')
           .limit(20)
           .get()
-          .timeout(const Duration(seconds: 4));
+          .timeout(const Duration(seconds: 8));
 
       if (snapshot.docs.isNotEmpty) {
         final List<CapsuleStory> stories = [];
@@ -124,19 +130,21 @@ class ApiService {
       }
     } catch (_) {}
 
-    try {
-      final response = await http
-          .get(Uri.parse('$baseUrl/api/feed/hourly'))
-          .timeout(const Duration(seconds: 3));
+    if (enableLocalHttpFallback) {
+      try {
+        final response = await http
+            .get(Uri.parse('$baseUrl/api/feed/hourly'))
+            .timeout(const Duration(seconds: 3));
 
-      if (response.statusCode == 200) {
-        final data = json.decode(utf8.decode(response.bodyBytes));
-        final List storiesJson = data['stories'] ?? [];
-        if (storiesJson.isNotEmpty) {
-          return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+        if (response.statusCode == 200) {
+          final data = json.decode(utf8.decode(response.bodyBytes));
+          final List storiesJson = data['stories'] ?? [];
+          if (storiesJson.isNotEmpty) {
+            return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+          }
         }
-      }
-    } catch (_) {}
+      } catch (_) {}
+    }
 
     return _getFallbackHourlyWires();
   }
@@ -150,7 +158,7 @@ class ApiService {
           .collection('daily_buzz')
           .limit(50)
           .get()
-          .timeout(const Duration(seconds: 4));
+          .timeout(const Duration(seconds: 8));
 
       for (var doc in snapDaily.docs) {
         final story = CapsuleStory.fromJson(doc.data());
@@ -165,7 +173,7 @@ class ApiService {
           .collection('hourly_buzz')
           .limit(50)
           .get()
-          .timeout(const Duration(seconds: 4));
+          .timeout(const Duration(seconds: 8));
 
       for (var doc in snapHourly.docs) {
         final story = CapsuleStory.fromJson(doc.data());

@@ -1,0 +1,54 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // =========================================================================
+    // Default Deny Rule
+    // =========================================================================
+    // By default, reject all reads and writes across all documents and subcollections.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // =========================================================================
+    // Public Read-Only Feeds
+    // =========================================================================
+    // Content is generated, transformed, and ingested exclusively via the
+    // backend ingestion service using the Firebase Admin SDK (which bypasses
+    // security rules). Client SDKs (Flutter Web / Android / iOS) have read-only
+    // access to fetch and stream feeds without public write or tampering risk.
+
+    // 1. Daily 60-second news stories feed
+    match /daily_buzz/{storyId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 2. Breaking hourly wires feed
+    match /hourly_buzz/{wireId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 3. BCS Pro published syllabus-mapped guides and daily editions
+    match /bcs_pro_published/{editionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 4. Current Affairs published editorial editions and latest summary
+    match /current_affairs_published/{editionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // =========================================================================
+    // Internal & Staging Collections (Explicit Deny)
+    // =========================================================================
+    // Staging and draft articles must never be exposed or modified via client SDKs.
+    match /bcs_pro_drafts/{draftId} {
+      allow read, write: if false;
+    }
+  }
+}
