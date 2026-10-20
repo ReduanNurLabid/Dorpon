@@ -6,8 +6,76 @@ import '../models/capsule_models.dart';
 
 class ApiService {
   static const String baseUrl = 'http://localhost:8000';
+  static const String firestoreRestBase =
+      'https://firestore.googleapis.com/v1/projects/dorpon-a99a6/databases/(default)/documents';
   // Disabled by default to avoid ERR_CONNECTION_REFUSED in browser/standalone mode when no local backend runs
   static const bool enableLocalHttpFallback = false;
+
+  /// Helper to decode typed values from the Firestore REST API
+  static dynamic _decodeFirestoreValue(Map<String, dynamic> val) {
+    if (val.containsKey('stringValue')) return val['stringValue'];
+    if (val.containsKey('integerValue')) return int.tryParse(val['integerValue'].toString()) ?? 0;
+    if (val.containsKey('doubleValue')) return (val['doubleValue'] as num).toDouble();
+    if (val.containsKey('booleanValue')) return val['booleanValue'];
+    if (val.containsKey('timestampValue')) return val['timestampValue'];
+    if (val.containsKey('arrayValue')) {
+      final list = val['arrayValue']['values'] as List? ?? [];
+      return list.map((item) => item is Map<String, dynamic> ? _decodeFirestoreValue(item) : item).toList();
+    }
+    if (val.containsKey('mapValue')) {
+      final fields = val['mapValue']['fields'] as Map<String, dynamic>? ?? {};
+      return fields.map((k, v) => MapEntry(k, v is Map<String, dynamic> ? _decodeFirestoreValue(v) : v));
+    }
+    if (val.containsKey('nullValue')) return null;
+    return val;
+  }
+
+  /// Helper to convert a raw Firestore REST document into a clean Map
+  static Map<String, dynamic> _decodeFirestoreDoc(Map<String, dynamic> doc) {
+    final fields = doc['fields'] as Map<String, dynamic>? ?? {};
+    final result = <String, dynamic>{};
+    fields.forEach((key, val) {
+      if (val is Map<String, dynamic>) {
+        result[key] = _decodeFirestoreValue(val);
+      } else {
+        result[key] = val;
+      }
+    });
+    return result;
+  }
+
+  /// REST fallback: fetches entire collection without WebChannel (ad-blocker immune)
+  static Future<List<CapsuleStory>> _fetchFirestoreRest(String collection, {int pageSize = 40}) async {
+    try {
+      final url = '$firestoreRestBase/$collection?pageSize=$pageSize';
+      final resp = await http.get(Uri.parse(url)).timeout(const Duration(seconds: 6));
+      if (resp.statusCode == 200) {
+        final data = json.decode(utf8.decode(resp.bodyBytes)) as Map<String, dynamic>;
+        final docs = data['documents'] as List? ?? [];
+        final stories = docs
+            .whereType<Map<String, dynamic>>()
+            .map((d) => CapsuleStory.fromJson(_decodeFirestoreDoc(d)))
+            .toList();
+        return stories;
+      }
+    } catch (e) {
+      // Ignore
+    }
+    return [];
+  }
+
+  /// REST fallback: fetches a single document without WebChannel
+  static Future<Map<String, dynamic>?> _fetchFirestoreDocRest(String collection, String docId) async {
+    try {
+      final url = '$firestoreRestBase/$collection/$docId';
+      final resp = await http.get(Uri.parse(url)).timeout(const Duration(seconds: 6));
+      if (resp.statusCode == 200) {
+        final data = json.decode(utf8.decode(resp.bodyBytes)) as Map<String, dynamic>;
+        return _decodeFirestoreDoc(data);
+      }
+    } catch (_) {}
+    return null;
+  }
 
   /// Fetches hourly 60-second news stories directly from Firestore collection 'daily_buzz'
   static Future<List<CapsuleStory>> fetchDailyBuzzFeed({String? interests}) async {
@@ -34,7 +102,18 @@ class ApiService {
         return _deduplicateStories(stories);
       }
     } catch (e) {
-      // Fall back if Firestore request fails
+      // Fall back if Firestore SDK request fails or is blocked by ad-blocker
+    }
+
+    // Direct Firestore REST Fallback (Ad-blocker & WebChannel immune)
+    final restStories = await _fetchFirestoreRest('daily_buzz', pageSize: 50);
+    if (restStories.isNotEmpty) {
+      if (interests != null && interests.isNotEmpty) {
+        final filterList = interests.split(',').map((e) => e.trim()).toList();
+        final filtered = restStories.where((s) => s.interestCategories.any((c) => filterList.contains(c))).toList();
+        if (filtered.isNotEmpty) return _deduplicateStories(filtered);
+      }
+      return _deduplicateStories(restStories);
     }
 
     // Secondary fallback: Local API server (if explicitly enabled)
@@ -94,6 +173,15 @@ class ApiService {
       // Fall back
     }
 
+    // Direct Firestore REST Fallback (Ad-blocker & WebChannel immune)
+    final restDoc = await _fetchFirestoreDocRest('bcs_pro_published', 'latest');
+    if (restDoc != null) {
+      final List storiesJson = restDoc['stories'] ?? [];
+      if (storiesJson.isNotEmpty) {
+        return storiesJson.map((s) => CapsuleStory.fromJson(s)).toList();
+      }
+    }
+
     // Secondary fallback: Local API server (if explicitly enabled)
     if (enableLocalHttpFallback) {
       try {
@@ -130,6 +218,12 @@ class ApiService {
         if (stories.isNotEmpty) return _deduplicateStories(stories);
       }
     } catch (_) {}
+
+    // Direct Firestore REST Fallback (Ad-blocker & WebChannel immune)
+    final restWires = await _fetchFirestoreRest('hourly_buzz', pageSize: 25);
+    if (restWires.isNotEmpty) {
+      return _deduplicateStories(restWires);
+    }
 
     if (enableLocalHttpFallback) {
       try {

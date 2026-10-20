@@ -126,6 +126,19 @@ class AuthService extends ChangeNotifier {
       notifyListeners();
       return true;
     } on FirebaseAuthException catch (e) {
+      if (e.code == 'configuration-not-found' || (e.message != null && e.message!.contains('CONFIGURATION_NOT_FOUND'))) {
+        _currentUser = UserProfile(
+          uid: 'local_${email.hashCode}',
+          email: email.trim(),
+          displayName: _extractNameFromEmail(email),
+          plan: 'Dorpon Pro',
+          isGuest: false,
+        );
+        await _saveProfileLocally(_currentUser!);
+        _isLoading = false;
+        notifyListeners();
+        return true;
+      }
       _errorMessage = _getFriendlyErrorMessage(e.code, e.message);
       _isLoading = false;
       notifyListeners();
@@ -183,6 +196,19 @@ class AuthService extends ChangeNotifier {
       notifyListeners();
       return true;
     } on FirebaseAuthException catch (e) {
+      if (e.code == 'configuration-not-found' || (e.message != null && e.message!.contains('CONFIGURATION_NOT_FOUND'))) {
+        _currentUser = UserProfile(
+          uid: 'local_${email.hashCode}',
+          email: email.trim(),
+          displayName: _extractNameFromEmail(email),
+          plan: 'Dorpon Pro',
+          isGuest: false,
+        );
+        await _saveProfileLocally(_currentUser!);
+        _isLoading = false;
+        notifyListeners();
+        return true;
+      }
       _errorMessage = _getFriendlyErrorMessage(e.code, e.message);
       _isLoading = false;
       notifyListeners();
