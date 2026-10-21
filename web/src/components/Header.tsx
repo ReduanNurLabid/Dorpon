@@ -42,26 +42,26 @@ export const Header: React.FC = () => {
   const navItems: { id: TabType; labelEn: string; labelBn: string; icon: React.ReactNode; isGold?: boolean }[] = [
     {
       id: 'top_stories',
-      labelEn: 'Dispatches',
-      labelBn: 'শীর্ষ খবর',
+      labelEn: 'Synthetic Brief',
+      labelBn: 'সিন্থেটিক ব্রিফ',
       icon: <Flame className="w-3.5 h-3.5" />,
     },
     {
       id: 'current_affairs',
-      labelEn: 'BCS Dossiers',
-      labelBn: 'বিসিএস ডসিয়ার',
+      labelEn: 'Current Affairs',
+      labelBn: 'কারেন্ট অ্যাফেয়ার্স',
       icon: <BookOpen className="w-3.5 h-3.5" />,
       isGold: true,
     },
     {
       id: 'discover',
-      labelEn: 'Intelligence Archive',
+      labelEn: 'Archive',
       labelBn: 'সংরক্ষণাগার',
       icon: <Compass className="w-3.5 h-3.5" />,
     },
     {
       id: 'saved',
-      labelEn: 'Saved Wire',
+      labelEn: 'Saved',
       labelBn: 'সংরক্ষিত',
       icon: <Bookmark className="w-3.5 h-3.5" />,
     },
@@ -173,7 +173,7 @@ export const Header: React.FC = () => {
                 />
               </div>
               <h1 className="font-display-masthead text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-primary uppercase text-center group-hover:text-secondary transition-colors">
-                {isBn ? 'দর্পণ ডেইলি ইন্টেলিজেন্স' : 'DORPON DAILY INTELLIGENCE'}
+                {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
               </h1>
             </div>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">

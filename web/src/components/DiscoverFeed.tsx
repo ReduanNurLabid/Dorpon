@@ -146,7 +146,7 @@ export const DiscoverFeed: React.FC = () => {
               : `Search Results (${filteredStories.length})`
             : isBn
             ? `সাম্প্রতিক সব খবর (${filteredStories.length})`
-            : `All Intelligence Dispatches (${filteredStories.length})`}
+            : `All Archive Briefs (${filteredStories.length})`}
         </h3>
         {(searchQuery || selectedTag) && (
           <button

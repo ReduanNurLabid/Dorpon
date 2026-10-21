@@ -129,12 +129,12 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
           {title}
         </h3>
 
-        {/* Tier 1: 3 Key Takeaways */}
+        {/* Tier 1: Key Takeway */}
         {bullets && bullets.length > 0 && (
           <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
             <div className="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1 flex items-center gap-1">
               <Sparkles className="w-3 h-3" />
-              <span>{isBn ? 'মূল সারসংক্ষেপ' : 'Core Takeaways'}</span>
+              <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
             </div>
             <ul className="space-y-1 font-serif text-xs text-on-surface">
               {bullets.slice(0, 3).map((bullet, idx) => (

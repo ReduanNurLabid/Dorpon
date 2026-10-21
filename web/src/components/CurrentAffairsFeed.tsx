@@ -40,7 +40,7 @@ export const CurrentAffairsFeed: React.FC = () => {
         <p className="text-sm text-text-secondary max-w-3xl leading-relaxed">
           {isBn
             ? 'সাংবিধানিক অনুচ্ছেদ, অফিসিয়াল পরিসংখ্যান, প্রধান সংকট ও দীর্ঘমেয়াদী সমাধান সম্বলিত সমন্বিত গবেষণা নথি।'
-            : 'Multi-source analytical briefings designed for policymakers, researchers, and competitive examination scholars with constitutional citations, official telemetry, and policy roadmaps.'}
+            : 'Multi-source analytical briefings designed for policymakers, researchers, and institutional leaders with constitutional citations, official telemetry, and policy roadmaps.'}
         </p>
       </div>
 
@@ -264,15 +264,15 @@ export const CurrentAffairsFeed: React.FC = () => {
                     )}
                   </div>
 
-                  {/* Exam Prompt if available */}
+                  {/* Strategic Inquiry Framework if available */}
                   {bcs?.written_exam_prompt && (
                     <div className="p-5 rounded-tile bg-gold/10 border border-gold/30">
                       <div className="flex items-center justify-between mb-2">
                         <span className="text-xs font-bold uppercase tracking-wider text-gold-bright">
-                          {t('exam_prompt')}
+                          {isBn ? 'কৌশলগত বিশ্লেষণ ও নীতি রূপরেখা' : 'Strategic Inquiry & Policy Framework'}
                         </span>
                         <span className="px-2 py-0.5 rounded bg-gold/20 text-gold-bright text-[11px] font-bold">
-                          {bcs.written_exam_prompt.marks} Marks
+                          {isBn ? 'নীতি কাঠামো' : 'Policy Brief'}
                         </span>
                       </div>
                       <p className="text-sm font-semibold text-white mb-3">

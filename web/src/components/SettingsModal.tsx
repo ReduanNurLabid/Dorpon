@@ -231,7 +231,7 @@ export const SettingsModal: React.FC = () => {
           <div className="p-4 rounded-tile bg-mint/5 border border-mint/20 space-y-2">
             <div className="flex items-center space-x-2 text-mint text-xs font-bold">
               <Sparkles className="w-4 h-4" />
-              <span>Dorpon Daily Autonomous Intelligence</span>
+              <span>Sondesh Express Autonomous Intelligence</span>
             </div>
             <p className="text-xs text-text-secondary leading-relaxed">
               Autonomous news ingestion powered by Google Gemini AI, cross-source deduplication, and Google Cloud Firestore. Designed for calm, high-signal intelligence.

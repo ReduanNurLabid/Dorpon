@@ -179,7 +179,7 @@ export const StudyCanvasModal: React.FC = () => {
       >
         {/* Top Registration Header Bar & Masthead Stamp */}
         <div className="flex items-center justify-between border-b border-ink/40 pb-2 mb-4 font-sans text-[11px] tracking-wider uppercase text-ink-muted">
-          <span>{isBn ? `দর্পণ ইন্টেলিজেন্স ব্রিফিং • সিরিয়াল ${serialRef}` : `DORPON INTELLIGENCE BRIEFING • SERIAL ARCHIVE ${serialRef}`}</span>
+          <span>{isBn ? `সন্দেশ এক্সপ্রেস ব্রিফিং • সিরিয়াল ${serialRef}` : `SONDESH EXPRESS BRIEFING • SERIAL ARCHIVE ${serialRef}`}</span>
           <span className="hidden sm:inline">{isBn ? '৩-স্তরীয় স্ক্যানযোগ্য ডসিয়ার সিস্টেম' : '3-TIER SCANNABLE DOSSIER SYSTEM'}</span>
           <span>{isBn ? 'সংস্করণ: আন্তর্জাতিক ওয়্যার' : 'EDITION: DIPLOMATIC WIRE'}</span>
         </div>
@@ -379,13 +379,13 @@ export const StudyCanvasModal: React.FC = () => {
           </div>
           {/* END: ArticleHeadlineAndMeta */}
 
-          {/* BEGIN: CoreTakeawayIntelligence */}
+          {/* BEGIN: KeyTakeway */}
           {bullets.length > 0 && (
             <section className="bg-paper-tint border-2 border-accent-emerald/80 p-4 sm:p-5 rounded-none relative" data-purpose="tier-1-core-takeaway">
               <div className="flex items-center gap-2 mb-3">
                 <span className="text-accent-emerald text-base font-bold">✦</span>
                 <h2 className="font-sans text-xs sm:text-sm font-bold uppercase tracking-wider text-accent-emerald">
-                  {isBn ? 'মূল সারসংক্ষেপ (৩-স্তরীয় নির্যাস)' : 'Core Takeaway Intelligence'}
+                  {isBn ? 'মূল বিষয়' : 'Key Takeway'}
                 </h2>
               </div>
               <ul className="space-y-2.5 font-serif text-[15px] sm:text-base text-ink leading-relaxed">
@@ -500,51 +500,29 @@ export const StudyCanvasModal: React.FC = () => {
           </section>
           {/* END: VerifiedSourceCitations */}
 
-          {/* BEGIN: AcademicBcsStudyDossier */}
-          {bcs && (
-            <aside className="border border-ink bg-paper-box p-3.5 sm:p-4 text-xs font-sans text-ink space-y-1.5" data-purpose="bcs-exam-syllabus-box">
+          {/* BEGIN: AnalyticalTelemetryDossier */}
+          {bcs?.data_stats && bcs.data_stats.length > 0 && (
+            <aside className="border border-ink bg-paper-box p-3.5 sm:p-4 text-xs font-sans text-ink space-y-2">
               <div className="flex items-center justify-between">
                 <span className="font-bold tracking-wider uppercase text-[10px] bg-ink text-paper px-2 py-0.5">
-                  {isBn ? 'বিসিএস প্রো ডসিয়ার • বিষয়ভিত্তিক সিলেবাস' : 'BCS Pro Dossier • Cadre Syllabus'}
+                  {isBn ? 'যাচাইকৃত পরিসংখ্যান ও উপাত্ত' : 'Verified Telemetry & Empirical Data'}
                 </span>
                 <span className="font-mono text-[10px] text-accent-emerald font-semibold uppercase">
-                  Card #{activeStory.story_id.slice(0, 4)} Active
+                  Verified Data
                 </span>
               </div>
-              <p className="font-serif text-sm font-semibold text-ink">
-                {bcs.syllabus_mapping 
-                  ? `${bcs.syllabus_mapping.paper_code}: ${bcs.syllabus_mapping.subject} (${bcs.syllabus_mapping.microtheme})`
-                  : (bcs.bcs_subject_area || (isBn ? 'আন্তর্জাতিক ও জাতীয় বিষয়াবলি' : 'National & International Affairs'))}
-              </p>
-              <p className="text-ink-muted text-xs">
-                {isBn 
-                  ? (bcs.analytical_breakdown_bn || bcs.why_in_the_news_bn || 'বিসিএস লিখিত ও ভাইভা পরীক্ষার জন্য অপরিহার্য প্রাসঙ্গিক বিশ্লেষণ।')
-                  : (bcs.analytical_breakdown_en || bcs.why_in_the_news_en || 'Essential analytical material for civil service examination preparation.')}
-              </p>
-
-              {/* Data stats preview if available */}
-              {bcs.data_stats && bcs.data_stats.length > 0 && (
-                <div className="pt-2 grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {bcs.data_stats.slice(0, 2).map((stat, sIdx) => (
-                    <div key={sIdx} className="p-2 border border-ink/30 bg-paper">
-                      <span className="font-bold text-accent-emerald block">{stat.value}</span>
-                      <span className="font-semibold text-ink text-[11px]">{stat.metric_name}</span>
-                    </div>
-                  ))}
-                </div>
-              )}
-
-              <div className="pt-1 flex items-center justify-between text-[11px]">
-                <span className="font-bold text-accent-emerald">
-                  {isBn ? 'সিলেবাস রেফারেন্স নোট' : 'Syllabus Reference Note'}
-                </span>
-                <span className="font-bold text-ink underline cursor-pointer">
-                  {isBn ? 'সম্পূর্ণ অধ্যয়ন ডেক' : 'Open Examination Study Deck'} ↗
-                </span>
+              <div className="pt-1 grid grid-cols-1 sm:grid-cols-2 gap-2">
+                {bcs.data_stats.map((stat, sIdx) => (
+                  <div key={sIdx} className="p-2.5 border border-ink/30 bg-paper">
+                    <span className="font-bold text-accent-emerald block text-sm">{stat.value}</span>
+                    <span className="font-semibold text-ink text-xs">{stat.metric_name}</span>
+                    {stat.context && <span className="text-[11px] text-ink-muted block mt-0.5">{stat.context}</span>}
+                  </div>
+                ))}
               </div>
             </aside>
           )}
-          {/* END: AcademicBcsStudyDossier */}
+          {/* END: AnalyticalTelemetryDossier */}
         </article>
 
         {/* BEGIN: EngagementFooterControls */}
@@ -611,7 +589,7 @@ export const StudyCanvasModal: React.FC = () => {
 
         {/* Micro Print Imprint Footer */}
         <div className="mt-4 pt-2 border-t border-ink/20 flex items-center justify-between text-[10px] font-sans text-ink-faint uppercase tracking-widest">
-          <span>{isBn ? 'দর্পণ ডেইলি ইন্টেলিজেন্স গ্যাজেট' : 'Dorpon Daily Intelligence Gazette'}</span>
+          <span>{isBn ? 'সন্দেশ এক্সপ্রেস' : 'Sondesh Express'}</span>
           <span>{isBn ? 'যাচাইকৃত ৩-স্তরীয় ফরম্যাট' : 'Verified 3-Tier Scannable Format'}</span>
           <span>{isBn ? 'ঢাকা ও জেনেভায় প্রকাশিত' : 'Published in Dhaka & Geneva'}</span>
         </div>

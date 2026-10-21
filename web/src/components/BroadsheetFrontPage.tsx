@@ -176,12 +176,12 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </div>
                   )}
 
-                  {/* TIER 1: Core Takeaway Intelligence */}
+                  {/* TIER 1: Key Takeway */}
                   {bullets.length > 0 && (
                     <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
                       <div className="flex items-center gap-1.5 text-secondary font-label-sm text-label-sm font-bold uppercase mb-1.5">
                         <Sparkles className="w-3.5 h-3.5 text-secondary" />
-                        <span>{isBn ? 'মূল সারসংক্ষেপ' : 'Core Takeaway Intelligence'}</span>
+                        <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
                       </div>
                       <ul className="space-y-1.5 font-serif text-xs leading-snug text-on-surface">
                         {bullets.map((b, bIdx) => (
@@ -239,25 +239,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </article>
               );
             })}
-          </div>
-
-          {/* Quick Cadre Study Box at bottom of Column 1 */}
-          <div className="mt-5 p-3 bg-surface-container border border-primary text-center">
-            <div className="font-label-sm text-label-sm uppercase font-bold text-primary mb-1">
-              {isBn ? 'বিসিএস সিলেবাস সংযোগ' : 'BCS Syllabus Correlation'}
-            </div>
-            <p className="font-serif text-xs text-on-surface-variant mb-2">
-              {isBn 
-                ? 'আন্তর্জাতিক ও বাংলাদেশ বিষয়াবলি: সামষ্টিক অর্থনীতি, মুদ্রানীতি ও প্রাতিষ্ঠানিক শাসন।' 
-                : 'Intl & BD Affairs: Macroeconomic stability, foreign exchange reserves & institutional governance.'}
-            </p>
-            <button 
-              onClick={() => leftStories[0] && openStory(leftStories[0])}
-              className="text-secondary font-bold font-label-sm text-label-sm uppercase hover:underline inline-flex items-center gap-1"
-            >
-              <span>{isBn ? 'অধ্যয়ন ক্যানভাস খুলুন' : 'Open Study Canvas'}</span>
-              <span>&rarr;</span>
-            </button>
           </div>
         </section>
 
@@ -380,12 +361,12 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </div>
               )}
 
-              {/* TIER 1: Core Takeaway Intelligence (Matching Image 4 Spec) */}
+              {/* TIER 1: Key Takeway (Matching Image 4 Spec) */}
               {getBullets(heroStory).length > 0 && (
                 <div className="rounded-lg border-2 border-secondary/50 bg-secondary-container/20 p-4 mb-4">
                   <div className="flex items-center gap-1.5 text-secondary font-label-md text-label-md font-bold uppercase tracking-wider mb-2.5">
                     <Sparkles className="w-4 h-4" />
-                    <span>{isBn ? 'মূল নির্বাহী সারসংক্ষেপ' : 'Core Takeaway Intelligence'}</span>
+                    <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
                   </div>
                   <ul className="space-y-2 font-serif text-sm sm:text-[15px] leading-relaxed text-on-surface">
                     {getBullets(heroStory).map((bullet, idx) => {
@@ -588,15 +569,15 @@ export const BroadsheetFrontPage: React.FC = () => {
             </div>
           </div>
 
-          {/* BCS Study Module Box */}
+          {/* Macro Telemetry Register Box */}
           <div className="mt-4 pt-3 border-t-2 border-primary">
             <div className="bg-surface-container-high border border-outline-variant p-3 rounded">
               <div className="flex items-center justify-between mb-1">
                 <span className="font-label-sm text-label-sm uppercase font-bold text-primary">
-                  {isBn ? 'বিসিএস প্রো স্টাডি ডেক' : 'BCS Pro Study Deck'}
+                  {isBn ? 'সামষ্টিক টেলিমেট্রি রেজিস্টার' : 'Macro Telemetry Register'}
                 </span>
                 <span className="bg-secondary text-on-secondary px-1.5 py-0.2 text-[10px] font-bold rounded">
-                  CARD #46
+                  REGISTER #46
                 </span>
               </div>
               <p className="font-serif text-xs text-on-surface mb-2">
@@ -609,7 +590,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 onClick={() => heroStory && openStory(heroStory)}
                 className="text-primary font-bold font-label-sm text-label-sm uppercase hover:underline inline-flex items-center gap-1 cursor-pointer"
               >
-                <span>{isBn ? 'স্টাডি কার্ড খুলুন' : 'Open Study Card'}</span>
+                <span>{isBn ? 'বিশ্লেষণ পড়ুন' : 'Read Full Analysis'}</span>
                 <span>&rarr;</span>
               </button>
             </div>
@@ -666,7 +647,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   <div className="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
                     <div className="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1 flex items-center gap-1">
                       <Sparkles className="w-3 h-3" />
-                      <span>{isBn ? 'মূল সারসংক্ষেপ' : 'Core Takeaway Intelligence'}</span>
+                      <span>{isBn ? 'মূল বিষয়' : 'Key Takeway'}</span>
                     </div>
                     <ul className="space-y-1 font-serif text-xs text-on-surface">
                       {bullets.map((b, bIdx) => (
