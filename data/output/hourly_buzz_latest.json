@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-21T23:12:45.418424",
-  "total_stories": 2,
+  "updated_at": "2026-10-21T21:18:46.950540",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "e4737dca-9fb9-5e23-ad43-d3ab20c7e7ea",
+      "story_id": "758922d8-0b48-5701-8858-68bc889ab4a3",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,104 +12,318 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/PM-14.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F4qtkgjh2%2Fkane-afp.webp?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-21T16:46:52+00:00",
+      "published_at": "2026-10-21T21:00:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.0769,
+      "importance_score": 4.8,
+      "rank_score": 1.6146,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/sports-strengthen-the-spirit-of-camaraderie-harmony-and-patriotism-prime-minister/",
-          "title": "ক্রীড়া সৌহার্দ্য, সম্প্রীতি ও দেশপ্রেমের চেতনাকে সুদৃঢ় করে : প্রধানমন্ত্রী",
-          "snippet": "ক্রীড়া সৌহার্দ্য, সম্প্রীতি ও দেশপ্রেমের চেতনাকে সুদৃঢ় করে : প্রধানমন্ত্রী"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/football/d8js7ol0ad",
+          "title": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল",
+          "snippet": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুস্থ ও আত্মপ্রত্যয়ী জাতি গঠনে খেলাধুলার বিকল্প নেই: প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Sports Are Essential for Building a Confident Nation: PM Tarique Rahman",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, ক্রীড়া সৌহার্দ্য ও দেশপ্রেমের চেতনা সুদৃঢ় করার পাশাপাশি একটি সুস্থ জাতি গঠনে অপরিসীম ভূমিকা পালন করে।",
-        "summary_en": "Prime Minister Tarique Rahman stated that sports play a vital role in building a healthy nation and fostering patriotism.",
-        "why_it_matters_bn": "স্কুল পর্যায়ে ক্রীড়া শিক্ষা অন্তর্ভুক্ত হওয়ায় তরুণ প্রজন্ম খেলাধুলাকে পেশা হিসেবে গ্রহণ করার সুযোগ পাবে।",
-        "why_it_matters_en": "The inclusion of sports education at the school level will create opportunities for youth to pursue sports professionally.",
+        "title_bn": "বায়ার্ন মিউনিখকে রুখে দিল আর্সেনাল",
+        "title_en": "Arsenal Holds Bayern Munich to a Draw",
+        "summary_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
+        "summary_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
+        "why_it_matters_bn": "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
+        "why_it_matters_en": "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T16:46:52+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, ক্রীড়া সৌহার্দ্য ও দেশপ্রেমের চেতনা সুদৃঢ় করার পাশাপাশি একটি সুস্থ জাতি গঠনে অপরিসীম ভূমিকা পালন করে।",
-        "lead_en": "Prime Minister Tarique Rahman stated that sports play a vital role in building a healthy nation and fostering patriotism.",
+        "published_at": "2026-10-21T21:00:13+00:00",
+        "lead_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
+        "lead_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী আরাফাত রহমান কোকোর স্মরণে আয়োজিত ১৮তম জাতীয় সামার অ্যাথলেটিক্স প্রতিযোগিতা উপলক্ষে বিশেষ বাণী দিয়েছেন।",
-          "আগামী ২৩ থেকে ২৫ অক্টোবর বাংলাদেশ অ্যাথলেটিক্স ফেডারেশনের উদ্যোগে এই জাতীয় প্রতিযোগিতা অনুষ্ঠিত হবে।",
-          "সরকার স্কুল পর্যায় থেকেই ক্রীড়া শিক্ষাকে সিলেবাসের অন্তর্ভুক্ত করেছে যাতে ক্রীড়া একটি পেশা হিসেবে প্রতিষ্ঠিত হয়।"
+          "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
+          "২. ম্যাচের দ্বিতীয়ার্ধে গোল করে বায়ার্নকে এগিয়ে দিয়েছিলেন স্ট্রাইকার হ্যারি কেইন।",
+          "৩. ঘরের মাঠে ড্র করার ফলে জয়ে ফিরতে ব্যর্থ হয় বায়ার্ন মিউনিখ।"
         ],
         "bullets_en": [
-          "The Prime Minister issued a special message for the 18th National Summer Athletics Competition dedicated to Arafat Rahman Koko.",
-          "The national competition will be held from October 23 to 25 under the initiative of the Bangladesh Athletics Federation.",
-          "The government has integrated sports education into the school curriculum to establish sports as a viable profession."
+          "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
+          "2. Striker Harry Kane scored in the second half to put Bayern ahead.",
+          "3. Bayern Munich failed to return to winning ways after being held at home."
         ],
-        "impact_bn": "স্কুল পর্যায়ে ক্রীড়া শিক্ষা অন্তর্ভুক্ত হওয়ায় তরুণ প্রজন্ম খেলাধুলাকে পেশা হিসেবে গ্রহণ করার সুযোগ পাবে।",
-        "impact_en": "The inclusion of sports education at the school level will create opportunities for youth to pursue sports professionally.",
-        "details_bn": "বাংলাদেশ অ্যাথলেটিক্স ফেডারেশনের উদ্যোগে প্রয়াত ক্রীড়া সংগঠক আরাফাত রহমান কোকোর স্মৃতির প্রতি শ্রদ্ধা জানিয়ে আগামী ২৩-২৫ অক্টোবর কোকো ১৮তম জাতীয় সামার অ্যাথলেটিক্স প্রতিযোগিতা-২০২৬ অনুষ্ঠিত হতে যাচ্ছে। এই আয়োজন দেশের ক্রীড়াঙ্গনকে আন্তর্জাতিক মানে উন্নীত করতে, নতুন প্রতিভা বিকাশ এবং তৃণমূল পর্যায়ে অ্যাথলেটিক্সের ভিত্তি শক্তিশালী করতে গুরুত্বপূর্ণ ভূমিকা রাখবে বলে প্রত্যাশা করা হচ্ছে। বর্তমান সরকার ক্রীড়াকে পেশা হিসেবে প্রতিষ্ঠিত করতে স্কুল পর্যায় থেকেই ক্রীড়া শিক্ষাকে সিলেবাসের অন্তর্ভুক্ত করেছে।",
-        "details_en": "Organized by the Bangladesh Athletics Federation to honor late sports organizer Arafat Rahman Koko, the 18th National Summer Athletics Competition 2026 is scheduled to take place from October 23 to 25. This event is expected to play a crucial role in elevating the country's sports arena to international standards, developing new talents, and strengthening the foundation of athletics at the grassroots level. The current government has integrated sports education into the school curriculum to establish sports as a profession."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগের ম্যাচে ভাইকিংয়ের মাঠ থেকে ড্র করে ফিরেছিল বায়ার্ন মিউনিখ। আর্সেনালের বিপক্ষে ঘরের মাঠে ম্যাচে কোচ ভিনসেন্ট কোম্পানি এবং গোলরক্ষক মানুয়েল ন্যয়ারের খেলা নিয়ে অনিশ্চয়তা থাকলেও শেষ পর্যন্ত তারা মাঠে ছিলেন। দ্বিতীয়ার্ধে হ্যারি কেইনের গোলে বায়ার্ন এগিয়ে গেলেও শেষ পর্যন্ত ২-২ গোলের সমতা নিয়ে মাঠ ছাড়তে হয় জার্মান চ্যাম্পিয়নদের।",
+        "details_en": "Bayern Munich previously came away with a draw from Viking's ground. Despite uncertainties surrounding manager Vincent Kompany and goalkeeper Manuel Neuer due to illness, both participated in the match. Although Harry Kane gave Bayern the lead in the second half, the German champions ultimately had to settle for a 2-2 draw."
       }
     },
     {
-      "story_id": "8d9284f9-f271-58a0-ace2-800d89037b60",
-      "primary_category": "economy_business",
+      "story_id": "8c456a73-2fdd-585d-9485-79bba6ebf909",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "tech_innovation"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fdnz7bose%2F%E0%A7%A9.avif?rect=0%2C38%2C540%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-21T15:47:31+00:00",
+      "published_at": "2026-10-21T20:39:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.3331,
+      "importance_score": 4.8,
+      "rank_score": 1.3525,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170690",
-          "title": "দেশের অর্থনীতি ক্রান্তিকাল অতিক্রম করছে: প্রধানমন্ত্রীর উপদেষ্টা",
-          "snippet": "দেশের অর্থনীতি ক্রান্তিকাল অতিক্রম করছে: প্রধানমন্ত্রীর উপদেষ্টা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/48c8bk3g4s",
+          "title": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ",
+          "snippet": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের অর্থনীতি কঠিন সময় অতিক্রম করছে: অর্থ উপদেষ্টা ড. তিতুমীর",
-        "title_en": "Bangladesh Economy is Passing Through a Critical Phase: Finance Adviser",
-        "summary_bn": "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা উপদেষ্টা ড. রাশেদ আল মাহমুদ তিতুমীর জানিয়েছেন যে দেশের অর্থনীতি বর্তমানে একটি ক্রান্তিকাল অতিক্রম করছে।",
-        "summary_en": "Prime Minister's Finance and Planning Adviser Dr. Rashed Al Mahmud Titumir stated that the national economy is currently passing through a critical phase.",
-        "why_it_matters_bn": "অর্থনৈতিক সংকটের কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় ও মূল্যস্ফীতির চাপ অব্যাহত রয়েছে।",
-        "why_it_matters_en": "The ongoing economic challenges continue to exert pressure on the cost of living and inflation for ordinary citizens.",
+        "title_bn": "পিএইচপি-তে গুরুতর নিরাপত্তারুটি শনাক্তের পর বিশ্বজুড়ে বহু ওয়েবসাইট সাময়িক বন্ধ",
+        "title_en": "Global Websites Shut Down Following Critical PHP Vulnerabilities Discovered by AI",
+        "summary_bn": "প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপি-তে মারাত্মক নিরাপত্তারুটি ধরা পড়ার পর সার্ভার সুরক্ষায় বিশ্বজুড়ে অসংখ্য সরকারি ও বাণিজ্যিক ওয়েবসাইট বন্ধ রাখা হয়েছে।",
+        "summary_en": "Global entities have temporarily shut down websites after AI tools identified severe flaws in PHP programming language risking unauthorized server access.",
+        "why_it_matters_bn": "অনলাইন মার্কেটপ্লেস, সংবাদমাধ্যম ও সরকারি অনলাইন সেবা ব্যবহারের ক্ষেত্রে সাধারণ ব্যবহারকারীরা সাময়িক বিঘ্ন বা ধীরগতির সম্মুখীন হতে পারেন।",
+        "why_it_matters_en": "Users may experience temporary downtime or delays while accessing online marketplaces, news portals, and government e-services.",
         "interest_categories": [
-          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T20:39:58+00:00",
+        "lead_bn": "প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপি-তে মারাত্মক নিরাপত্তারুটি ধরা পড়ার পর সার্ভার সুরক্ষায় বিশ্বজুড়ে অসংখ্য সরকারি ও বাণিজ্যিক ওয়েবসাইট বন্ধ রাখা হয়েছে।",
+        "lead_en": "Global entities have temporarily shut down websites after AI tools identified severe flaws in PHP programming language risking unauthorized server access.",
+        "bullets_bn": [
+          "বিশ্বজুড়ে ওয়েবসাইট সাময়িক বন্ধ রেখে পিএইচপি ডেভেলপাররা পাসওয়ার্ডহীন অনুপ্রবেশ রোধে নিরাপত্তা আপডেট প্রকাশ করেছেন।",
+          "সাইবার নিরাপত্তা প্রতিষ্ঠান উইজ জানায়, বিশ্বের ৭০% ওয়েবসাইটে ব্যবহৃত পিএইচপির এই ত্রুটি ২০১৪ সালের 'হার্টব্লিড'-এর মতো গুরুতর।",
+          "ডেটাবেজ হ্যাক এড়াতে মার্কিন এনএসএ দ্রুত নিরাপত্তা প্যাচ ইনস্টল করা বা সিস্টেম ইন্টারনেট থেকে বিচ্ছিন্ন রাখার নির্দেশ দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Organizations globally disabled websites while PHP developers released patches to fix two passwordless access vulnerabilities.",
+          "Cybersecurity firm Wiz noted PHP powers 70% of websites, calling this flaw comparable to 2014’s famous Heartbleed bug.",
+          "The US NSA advised immediate software updates or disconnecting vulnerable systems from the internet to prevent database breaches."
+        ],
+        "impact_bn": "অনলাইন মার্কেটপ্লেস, সংবাদমাধ্যম ও সরকারি অনলাইন সেবা ব্যবহারের ক্ষেত্রে সাধারণ ব্যবহারকারীরা সাময়িক বিঘ্ন বা ধীরগতির সম্মুখীন হতে পারেন।",
+        "impact_en": "Users may experience temporary downtime or delays while accessing online marketplaces, news portals, and government e-services.",
+        "details_bn": "সাইবার নিরাপত্তা প্রতিষ্ঠান 'ক্যালিফ' ওপেনএআই-এর 'জিপিটি-৫.৬ সল' মডেল ব্যবহার করে প্রথম এই ত্রুটিটি শনাক্ত করে। পরবর্তীতে উইজ-ও 'জেমিনি ৪ আর্গন' মডেলের সাহায্যে ত্রুটিটির সত্যতা নিশ্চিত করে। এবারই প্রথম এআই প্রযুক্তি পুরো ইন্টারনেটে প্রভাব ফেলতে সক্ষম এমন একটি বড় ধরনের সফটওয়্যার ত্রুটি খুঁজে বের করতে পারল। পিএইচপি ফাউন্ডেশন একে গত এক দশকের মধ্যে সবচেয়ে গুরুতর সফটওয়্যার দুর্বলতা হিসেবে চিহ্নিত করেছে, যা ২০১৪ সালের আলোচিত 'হার্টব্লিড' ত্রুটির কথা স্মরণ করিয়ে দেয়।",
+        "details_en": "Cybersecurity firm Kalif first detected the PHP vulnerabilities using OpenAI’s GPT-5.6 Sol model during a funded code review. Wiz later confirmed the flaw using Google’s Gemini 4 Argon, marking a major milestone where artificial intelligence independently discovered critical internet-wide bugs. PHP Foundation engineers described it as the language's most severe vulnerability in over a decade, recalling the widespread emergency patching forced by the 2014 Heartbleed bug."
+      }
+    },
+    {
+      "story_id": "12cbf4a3-177d-5d94-b557-c2b5369ab3d1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fc89vuh7o%2FCapture.PNG?rect=0%2C51%2C477%2C250&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-21T20:18:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.1506,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/6rhyu88nd6",
+          "title": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা",
+          "snippet": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন বিচার বিভাগ প্রকাশ করায় এপস্টিনের সাথে ভারতীয় মন্ত্রীর ছবি নিয়ে বিতর্ক",
+        "title_en": "Indian Minister Hardeep Singh Puri Faces Backlash Over Newly Released Epstein Photos",
+        "summary_bn": "**যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশের পর পদত্যাগের দাবি জানিয়েছে বিরোধীরা।**",
+        "summary_en": "**Opposition leaders demand the resignation of Indian Minister Hardeep Singh Puri following the release of his photos with Jeffrey Epstein.**",
+        "why_it_matters_bn": "মার্কিন বিচার বিভাগ কর্তৃক প্রকাশিত এপস্টিন ফাইলের ‘ডেটাসেট ৯’-এ হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ্যে এসেছে।",
+        "why_it_matters_en": "The US Department of Justice released photos showing Indian Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+        "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T15:47:31+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা উপদেষ্টা ড. রাশেদ আল মাহমুদ তিতুমীর জানিয়েছেন যে দেশের অর্থনীতি বর্তমানে একটি ক্রান্তিকাল অতিক্রম করছে।",
-        "lead_en": "Prime Minister's Finance and Planning Adviser Dr. Rashed Al Mahmud Titumir stated that the national economy is currently passing through a critical phase.",
+        "published_at": "2026-10-21T20:18:55+00:00",
+        "lead_bn": "**যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশের পর পদত্যাগের দাবি জানিয়েছে বিরোধীরা।**",
+        "lead_en": "**Opposition leaders demand the resignation of Indian Minister Hardeep Singh Puri following the release of his photos with Jeffrey Epstein.**",
         "bullets_bn": [
-          "দেশের বর্তমান অর্থনৈতিক অবস্থা নিয়ে মন্তব্য প্রকাশ করেছেন অর্থ উপদেষ্টা।",
-          "ড. রাশেদ আল মাহমুদ তিতুমীর অর্থনৈতিক সংকটের এই বিষয়টি স্পষ্টভাবে তুলে ধরেন।",
-          "অর্থনৈতিক চ্যালেঞ্জ মোকাবিলায় সরকারের পরবর্তী পদক্ষেপ নির্ধারণের কাজ চলছে।"
+          "মার্কিন বিচার বিভাগ কর্তৃক প্রকাশিত এপস্টিন ফাইলের ‘ডেটাসেট ৯’-এ হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ্যে এসেছে।",
+          "মন্ত্রী পুরির দপ্তর জানিয়েছে, ছবিটি ঠিক কোন বৈঠকের তা মন্ত্রীর মনে নেই এবং তিনি কখনো একান্তে সাক্ষাতের কথা অস্বীকার করেননি।",
+          "ছবি প্রকাশকে কেন্দ্র করে বিরোধী দলগুলো ক্ষমতাসীন সরকারের সমালোচনা করে মন্ত্রীর পদত্যাগের দাবি তুলেছে।"
         ],
         "bullets_en": [
-          "The finance adviser made critical observations regarding the country's economic state.",
-          "Dr. Rashed Al Mahmud Titumir clearly highlighted the ongoing economic challenges.",
-          "Work is underway to determine the government's next steps to tackle the economic crisis."
+          "The US Department of Justice released photos showing Indian Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+          "Puri's office stated the minister does not recall the exact meeting and never claimed he never met Epstein alone.",
+          "Opposition leaders launched sharp criticisms against the ruling government and demanded the minister's resignation."
         ],
-        "impact_bn": "অর্থনৈতিক সংকটের কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় ও মূল্যস্ফীতির চাপ অব্যাহত রয়েছে।",
-        "impact_en": "The ongoing economic challenges continue to exert pressure on the cost of living and inflation for ordinary citizens.",
-        "details_bn": "দেশের অর্থনীতি দীর্ঘ সময় ধরে উচ্চ মূল্যস্ফীতি, বৈদেশিক মুদ্রার রিজার্ভের সংকট এবং ব্যাংকিং খাতের অস্থিরতার মধ্য দিয়ে যাচ্ছে। বর্তমান অন্তর্বর্তীকালীন সরকার অর্থনীতিকে স্থিতিশীল করতে এবং শৃঙ্খলা ফিরিয়ে আনতে বিভিন্ন সংস্কারমূলক পদক্ষেপ গ্রহণ করছে। এই প্রেক্ষাপটে নীতিনির্ধারকরা অর্থনৈতিক চ্যালেঞ্জগুলো প্রকাশ্যে স্বীকার করে তা উত্তরণের চেষ্টা চালিয়ে যাচ্ছেন।",
-        "details_en": "The country's economy has been navigating through high inflation, foreign exchange reserve deficits, and instability in the banking sector for a prolonged period. The current interim government has been undertaking various reform measures to stabilize the economy and restore financial discipline. In this context, policymakers are openly acknowledging these economic hurdles while pursuing corrective measures."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের বিচার বিভাগ যৌন নিপীড়ন ও নারী পাচারের দায়ে দোষী সাব্যস্ত জেফরি এপস্টিনের সাথে জড়িত বিভিন্ন নথি এবং ছবি প্রকাশ করেছে। এর আগে মন্ত্রী হরদীপ সিং পুরি দাবি করেছিলেন যে ইন্টারন্যাশনাল পিস ইনস্টিটিউটে একটি প্রতিনিধিদলের অংশ হিসেবে তিনি এপস্টিনের সাথে দেখা করেছিলেন। তবে নতুন প্রকাশিত ছবিগুলোতে কোনো তৃতীয় ব্যক্তির উপস্থিতি না থাকায় মন্ত্রীর পূর্বের দাবি নিয়ে প্রশ্ন উঠেছে এবং বিরোধী দলগুলো সরব হয়েছে।",
+        "details_en": "The United States Department of Justice released files and photographs related to convicted sex offender Jeffrey Epstein. Previously, Indian Minister Hardeep Singh Puri claimed he met Epstein as part of a delegation at the International Peace Institute. However, the newly released photos showing no third party present have contradicted his previous statements, sparking intense political controversy."
+      }
+    },
+    {
+      "story_id": "ed7f091e-ee78-552b-b020-7c1d652cd6f7",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T21:07:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8646,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/mymensing/975970/%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%B2%E0%A6%BF%E0%A6%AB-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B9%E0%A6%AD%E0%A6%BE%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "সাংবাদিক আলিফ হত্যার সন্দেহভাজন আসামি গ্রেফতার",
+          "snippet": "সাংবাদিক আলিফ হত্যার সন্দেহভাজন আসামি গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নেত্রকোনায় সাংবাদিক লুৎফুজ্জামান হত্যা মামলার সন্দেহভাজন আসামি গ্রেফতার",
+        "title_en": "Suspect Arrested in Journalist Lutfuzzaman Murder Case in Netrokona",
+        "summary_bn": "বিশেষ বাহিনী দুর্গাপুর পৌর এলাকা থেকে সাংবাদিক লুৎফুজ্জামান ফকির হত্যা মামলায় আশিকুর রহমান প্রাঙ্গন নামের এক সন্দেহভাজন আসামিকে গ্রেফতার করেছে।",
+        "summary_en": "Special forces arrested a suspect named Ashikur Rahman Prangon in connection with the murder of journalist Lutfuzzaman Fakir in Durgapur.",
+        "why_it_matters_bn": "সাংবাদিক হত্যায় জড়িত সন্দেহভাজন আসামি গ্রেফতার হওয়ায় স্থানীয় সংবাদকর্মী ও সাধারণ মানুষের মধ্যে আইনের শাসন প্রতিষ্ঠার স্বস্তি ফিরেছে।",
+        "why_it_matters_en": "The arrest of the suspect in the journalist's murder brings relief regarding the establishment of the rule of law among local media workers and citizens.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T21:07:21+00:00",
+        "lead_bn": "বিশেষ বাহিনী দুর্গাপুর পৌর এলাকা থেকে সাংবাদিক লুৎফুজ্জামান ফকির হত্যা মামলায় আশিকুর রহমান প্রাঙ্গন নামের এক সন্দেহভাজন আসামিকে গ্রেফতার করেছে।",
+        "lead_en": "Special forces arrested a suspect named Ashikur Rahman Prangon in connection with the murder of journalist Lutfuzzaman Fakir in Durgapur.",
+        "bullets_bn": [
+          "১. এসআরবি-১৪ ব্যাটালিয়নের অভিযানে দুর্গাপুর পৌরসভার শহীদ মিনার এলাকা থেকে সন্দেহভাজন আসামিকে গ্রেফতার করা হয়।",
+          "২. গ্রেফতারকৃত প্রাঙ্গন একাধিক হত্যা মামলার আসামি হিসেবে পরিচিত শুটার শামীমের ভাগনে।",
+          "৩. হত্যা মামলার বাকি আসামিদের গ্রেফতারে আইনশৃঙ্খলা বাহিনীর অভিযান অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "1. The suspect was arrested during an operation by SRB-14 near the Durgapur Municipality Shaheed Minar area.",
+          "2. Arrested Prangon is the nephew of notorious shooter Shamim, an accused in multiple murder cases.",
+          "3. Law enforcement operations are ongoing to apprehend the remaining suspects in the murder case."
+        ],
+        "impact_bn": "সাংবাদিক হত্যায় জড়িত সন্দেহভাজন আসামি গ্রেফতার হওয়ায় স্থানীয় সংবাদকর্মী ও সাধারণ মানুষের মধ্যে আইনের শাসন প্রতিষ্ঠার স্বস্তি ফিরেছে।",
+        "impact_en": "The arrest of the suspect in the journalist's murder brings relief regarding the establishment of the rule of law among local media workers and citizens.",
+        "details_bn": "নেত্রকোনার দুর্গাপুরে সাংবাদিক লুৎফুজ্জামান ফকির ওরফে আলিফ হত্যাকাণ্ডের ঘটনায় দেশজুড়ে তীব্র প্রতিক্রিয়া সৃষ্টি হয়। এর ধারাবাহিকতায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও বিশেষ বাহিনীগুলো আসামিদের গ্রেফতারে তৎপরতা জোরদার করে। ঘটনার সঙ্গে জড়িত মূল অপরাধী ও তাদের সহযোগীদের আইনের আওতায় আনতে বিভিন্ন স্থানে অভিযান পরিচালনা করছে পুলিশ ও সংশ্লিষ্ট বাহিনী।",
+        "details_en": "The murder of journalist Lutfuzzaman Fakir alias Alif in Durgapur, Netrokona, sparked widespread outrage across the country. In response, law enforcement and special forces intensified efforts to apprehend the suspects. Police and relevant forces are conducting raids in various locations to bring the main perpetrators and their accomplices to justice."
+      }
+    },
+    {
+      "story_id": "9118d522-3bd8-5a7b-bafc-64407a83e29f",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T20:56:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7775,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170717",
+          "title": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ",
+          "snippet": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ধর্মের শিক্ষা কর্ম ও আচরণে প্রতিফলিত করার আহ্বান চট্টগ্রাম ডিসির",
+        "title_en": "Chattogram DC Urges Reflecting Religious Teachings in Daily Conduct",
+        "summary_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "summary_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah has urged reflecting religious teachings in daily conduct rather than limiting them to festivals.",
+        "why_it_matters_bn": "নৈতিক মূল্যবোধ চর্চার মাধ্যমে সমাজে পারস্পরিক সম্প্রীতি ও শৃঙ্খলা বৃদ্ধিতে সহায়তা করবে।",
+        "why_it_matters_en": "Practicing moral values will help foster mutual harmony and discipline in society.",
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T20:56:09+00:00",
+        "lead_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "lead_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah has urged reflecting religious teachings in daily conduct rather than limiting them to festivals.",
+        "bullets_bn": [
+          "১. ডিসি মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মীয় মূল্যবোধ কর্ম ও আচরণে অনুসরণের আহ্বান জানান।",
+          "২. শিক্ষাগুলো শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রাখার ওপর জোর দেওয়া হয়েছে।",
+          "৩. নৈতিকতা ও মানবকল্যাণে এই বার্তা সমাজের সর্বস্তরে প্রচারের পরিকল্পনা রয়েছে।"
+        ],
+        "bullets_en": [
+          "1. DC Mohammad Jahidul Islam Miah called for adopting moral values in everyday life.",
+          "2. Emphasis was placed on avoiding the confinement of religious lessons solely to festivals.",
+          "3. Plans are underway to promote these ethical messages widely for community welfare."
+        ],
+        "impact_bn": "নৈতিক মূল্যবোধ চর্চার মাধ্যমে সমাজে পারস্পরিক সম্প্রীতি ও শৃঙ্খলা বৃদ্ধিতে সহায়তা করবে।",
+        "impact_en": "Practicing moral values will help foster mutual harmony and discipline in society.",
+        "details_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা এক অনুষ্ঠানে সমাজের নৈতিক অবক্ষয় রোধ এবং মানবিক মূল্যবোধ প্রতিষ্ঠায় ধর্মীয় প্রকৃত শিক্ষার গুরুত্ব তুলে ধরেন। তিনি উল্লেখ করেন, ধর্মীয় অনুশাসন শুধু আনুষ্ঠানিকতার বিষয় নয়, বরং তা মানুষের দৈনন্দিন জীবন ও কর্মে প্রতিফলিত হওয়া উচিত। সাম্প্রতিক সময়ে সমাজে শান্তি ও শৃঙ্খলা বজায় রাখতে নৈতিক শিক্ষার প্রচার ও প্রসারের ওপর বিশেষ গুরুত্ব দেওয়া হচ্ছে।",
+        "details_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah highlighted the importance of true religious teachings in preventing moral degradation and establishing human values. He noted that religious discipline is not merely about rituals but should reflect in daily life and work. Recently, special emphasis has been placed on promoting moral education to maintain peace and order in society."
+      }
+    },
+    {
+      "story_id": "7aa1b505-a29a-5fce-a240-0f9bb85787a9",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T20:48:04+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7238,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170716",
+          "title": "রোববার আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি",
+          "snippet": "রোববার আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সুপ্রিম কোর্টের অবকাশ শেষে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি",
+        "title_en": "Chief Justice to exchange greetings with lawyers after Supreme Court vacation",
+        "summary_bn": "সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ ও শুভেচ্ছা বিনিময় করবেন প্রধান বিচারপতি।",
+        "summary_en": "The Chief Justice will exchange courtesy greetings with lawyers on the first working day after the Supreme Court vacation.",
+        "why_it_matters_bn": "আইনজীবীদের সঙ্গে এই শুভেচ্ছা বিনিময়ের ফলে বিচার বিভাগের সাথে আইনজীবীদের পারস্পরিক সুসম্পর্ক ও কাজের গতি বাড়বে।",
+        "why_it_matters_en": "This interaction fosters better professional synergy between the judiciary and legal practitioners as court operations resume.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T20:48:04+00:00",
+        "lead_bn": "সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ ও শুভেচ্ছা বিনিময় করবেন প্রধান বিচারপতি।",
+        "lead_en": "The Chief Justice will exchange courtesy greetings with lawyers on the first working day after the Supreme Court vacation.",
+        "bullets_bn": [
+          "১. সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে সৌজন্য সাক্ষাৎ অনুষ্ঠিত হবে।",
+          "২. প্রধান বিচারপতি এবং আপিল ও হাইকোর্ট বিভাগের বিচারপতিরা এই শুভেচ্ছা বিনিময়ে অংশ নেবেন।",
+          "৩. এই সাক্ষাতের মধ্য দিয়ে সুপ্রিম কোর্টে পুনরায় নিয়মিত বিচারিক কার্যক্রমের গতিশীলতা ফিরবে।"
+        ],
+        "bullets_en": [
+          "1. The courtesy meeting will take place on the first working day following the Supreme Court's vacation.",
+          "2. The Chief Justice and justices from both the Appellate and High Court divisions will participate.",
+          "3. Regular judicial proceedings and court operations will resume full momentum following this interaction."
+        ],
+        "impact_bn": "আইনজীবীদের সঙ্গে এই শুভেচ্ছা বিনিময়ের ফলে বিচার বিভাগের সাথে আইনজীবীদের পারস্পরিক সুসম্পর্ক ও কাজের গতি বাড়বে।",
+        "impact_en": "This interaction fosters better professional synergy between the judiciary and legal practitioners as court operations resume.",
+        "details_bn": "সুপ্রিম কোর্টের নির্ধারিত অবকাশকালীন ছুটি শেষে আদালতের নিয়মিত কার্যক্রম পুনরায় শুরু হওয়ার প্রাক্কালে এই সৌজন্য সাক্ষাতের ঐতিহ্য রয়েছে। এর মাধ্যমে প্রধান বিচারপতি ও বিচারপতির সাথে আইনজীবীদের সৌহার্দ্যপূর্ণ সম্পর্ক বজায় থাকে এবং বিচারকাজ আরও সুশৃঙ্খলভাবে পরিচালনার পথ প্রশস্ত হয়।",
+        "details_en": "This tradition marks the resumption of regular judicial activities following the Supreme Court's scheduled vacation. Such interactions help maintain cordial professional relations between the bench and the bar, ensuring smooth coordination for upcoming judicial proceedings."
       }
     }
   ]
