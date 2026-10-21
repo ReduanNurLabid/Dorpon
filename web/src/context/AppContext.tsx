@@ -32,6 +32,8 @@ interface AppContextType {
   hourlyWires: CapsuleStory[];
   allStories: CapsuleStory[];
   isLoading: boolean;
+  searchQuery: string;
+  setSearchQuery: (q: string) => void;
   refreshFeeds: () => Promise<void>;
   t: (key: keyof typeof translations['en']) => string;
   // Neural Audio Engine
@@ -90,6 +92,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [currentAffairs, setCurrentAffairs] = useState<CapsuleStory[]>([]);
   const [hourlyWires, setHourlyWires] = useState<CapsuleStory[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(true);
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
   // Audio Engine State
   const [currentAudioStory, setCurrentAudioStory] = useState<CapsuleStory | null>(null);
@@ -568,6 +571,8 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         hourlyWires,
         allStories,
         isLoading,
+        searchQuery,
+        setSearchQuery,
         refreshFeeds,
         t,
         currentAudioStory,

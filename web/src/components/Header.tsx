@@ -21,9 +21,10 @@ export const Header: React.FC = () => {
     activeTab,
     setActiveTab,
     setIsSettingsOpen,
+    searchQuery,
+    setSearchQuery,
   } = useApp();
 
-  const [searchQuery, setSearchQuery] = useState('');
   const [stockData, setStockData] = useState<StockMarketData | null>(null);
   const isBn = language === 'bn';
 

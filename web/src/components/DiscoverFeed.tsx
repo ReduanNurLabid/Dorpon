@@ -2,10 +2,10 @@ import React, { useState, useMemo } from 'react';
 import { useApp } from '../context/AppContext';
 import { StoryCard } from './StoryCard';
 import { BroadsheetFooter } from './BroadsheetFooter';
-import { Hash, Globe, Calendar, Filter, X, Clock, Layers } from 'lucide-react';
+import { Hash, Globe, Filter, X, Clock, Layers, Search } from 'lucide-react';
 
 export const DiscoverFeed: React.FC = () => {
-  const { allStories, language } = useApp();
+  const { allStories, language, searchQuery, setSearchQuery } = useApp();
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [selectedSource, setSelectedSource] = useState<string | null>(null);
   const [timeFilter, setTimeFilter] = useState<'all' | '24h' | '7d' | '30d'>('all');
@@ -32,9 +32,38 @@ export const DiscoverFeed: React.FC = () => {
     return Array.from(sourcesSet).slice(0, 8);
   }, [allStories]);
 
-  // Filter stories chronologically and by tag/source
+  // Filter stories chronologically, by search query, and by tag/source
   const filteredStories = useMemo(() => {
     let result = allStories;
+
+    // Search query filter (matches headlines, summaries, details, tags, sources in EN and BN)
+    if (searchQuery && searchQuery.trim()) {
+      const q = searchQuery.toLowerCase().trim();
+      result = result.filter((s) => {
+        const buzz = s.daily_buzz;
+        const titleEn = buzz.title_en?.toLowerCase() || '';
+        const titleBn = buzz.title_bn?.toLowerCase() || '';
+        const sumEn = buzz.summary_en?.toLowerCase() || '';
+        const sumBn = buzz.summary_bn?.toLowerCase() || '';
+        const detEn = buzz.details_en?.toLowerCase() || '';
+        const detBn = buzz.details_bn?.toLowerCase() || '';
+        const cat = s.primary_category?.toLowerCase() || '';
+        const tags = (s.tags || []).join(' ').toLowerCase();
+        const sources = (s.sources || []).map((src) => src.name).join(' ').toLowerCase();
+
+        return (
+          titleEn.includes(q) ||
+          titleBn.includes(q) ||
+          sumEn.includes(q) ||
+          sumBn.includes(q) ||
+          detEn.includes(q) ||
+          detBn.includes(q) ||
+          cat.includes(q) ||
+          tags.includes(q) ||
+          sources.includes(q)
+        );
+      });
+    }
 
     // Time filter
     if (timeFilter !== 'all') {
@@ -69,11 +98,12 @@ export const DiscoverFeed: React.FC = () => {
     }
 
     return result;
-  }, [allStories, timeFilter, selectedTag, selectedSource]);
+  }, [allStories, searchQuery, timeFilter, selectedTag, selectedSource]);
 
-  const hasActiveFilters = Boolean(selectedTag || selectedSource || timeFilter !== 'all');
+  const hasActiveFilters = Boolean(searchQuery.trim() || selectedTag || selectedSource || timeFilter !== 'all');
 
   const clearAllFilters = () => {
+    setSearchQuery('');
     setSelectedTag(null);
     setSelectedSource(null);
     setTimeFilter('all');
@@ -204,14 +234,31 @@ export const DiscoverFeed: React.FC = () => {
         </div>
 
         {/* 3. ARCHIVE RESULTS HEADER BAR */}
-        <div className="flex items-center justify-between pb-2 mb-6 border-b-2 border-primary">
-          <div className="flex items-center space-x-2 font-serif text-sm font-bold text-primary">
+        <div className="flex flex-wrap items-center justify-between gap-3 pb-2 mb-6 border-b-2 border-primary">
+          <div className="flex flex-wrap items-center gap-2 font-serif text-sm font-bold text-primary">
             <span className="uppercase tracking-wider font-label-sm text-label-sm">
               {isBn ? 'সংরক্ষিত প্রকাশনা তালিকা' : 'Archived Records'}
             </span>
             <span className="bg-secondary text-on-secondary px-2 py-0.2 text-xs font-bold rounded">
               {filteredStories.length} {isBn ? 'টি নথি' : 'Records'}
             </span>
+
+            {/* Active Search Query Badge */}
+            {searchQuery.trim() && (
+              <span className="inline-flex items-center gap-1.5 bg-primary/10 text-primary border border-primary/30 px-2.5 py-0.5 text-xs font-serif rounded">
+                <Search className="w-3 h-3 text-secondary" />
+                <span>
+                  {isBn ? 'অনুসন্ধান:' : 'Query:'} <strong className="font-bold">"{searchQuery}"</strong>
+                </span>
+                <button
+                  onClick={() => setSearchQuery('')}
+                  className="hover:text-error ml-1 cursor-pointer"
+                  title={isBn ? 'অনুসন্ধান মুছুন' : 'Clear search'}
+                >
+                  <X className="w-3 h-3" />
+                </button>
+              </span>
+            )}
           </div>
 
           {hasActiveFilters && (
