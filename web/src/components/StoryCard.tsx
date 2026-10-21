@@ -8,8 +8,7 @@ import {
 } from '../utils/bilingual';
 import { 
   Bookmark, 
-  BookmarkCheck,
-  Headphones, 
+  BookmarkCheck, 
   Share2, 
   ArrowRight, 
   Sparkles, 
@@ -30,9 +29,6 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
     openStory,
     toggleSave,
     isSaved,
-    playStoryAudio,
-    currentAudioStory,
-    isPlayingAudio,
     t,
   } = useApp();
 
@@ -40,7 +36,6 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
   const isBn = language === 'bn';
   const buzz = story.daily_buzz;
   const isBookmarked = isSaved(story.story_id);
-  const isCurrentAudio = currentAudioStory?.story_id === story.story_id && isPlayingAudio;
 
   const title = isBn
     ? (buzz.title_bn || buzz.title_en)
@@ -77,11 +72,6 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     }
-  };
-
-  const handleAudioClick = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    playStoryAudio(story);
   };
 
   const handleSaveClick = (e: React.MouseEvent) => {
@@ -166,18 +156,6 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
       {/* Footer bar */}
       <div className="flex items-center justify-between pt-3 border-t border-outline-variant mt-2 font-label-sm text-label-sm">
         <div className="flex items-center space-x-2">
-          <button
-            onClick={handleAudioClick}
-            className={`p-1.5 rounded border transition-colors cursor-pointer ${
-              isCurrentAudio
-                ? 'bg-secondary text-on-secondary border-secondary'
-                : 'border-outline-variant hover:border-primary text-primary bg-surface'
-            }`}
-            title="Listen to Story"
-          >
-            <Headphones className="w-3.5 h-3.5" />
-          </button>
-
           <button
             onClick={handleSaveClick}
             className="p-1.5 rounded border border-outline-variant hover:border-primary text-primary bg-surface transition-colors cursor-pointer"

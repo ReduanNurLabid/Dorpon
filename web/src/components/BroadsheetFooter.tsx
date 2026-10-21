@@ -2,7 +2,7 @@ import React from 'react';
 import { useApp } from '../context/AppContext';
 
 export const BroadsheetFooter: React.FC = () => {
-  const { language, setActiveTab, setIsAudioSheetOpen, setIsSettingsOpen } = useApp();
+  const { language, setActiveTab, setIsSettingsOpen } = useApp();
   const isBn = language === 'bn';
 
   const scrollToTop = (e: React.MouseEvent) => {
@@ -59,10 +59,10 @@ export const BroadsheetFooter: React.FC = () => {
                 {isBn ? 'কারেন্ট অ্যাফেয়ার্স' : 'Current Affairs'}
               </button>
               <button 
-                onClick={() => setIsAudioSheetOpen(true)}
+                onClick={() => { setActiveTab('saved'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'অডিও ব্রিফিং' : 'Audio Briefings'}
+                {isBn ? 'সংরক্ষিত ওয়্যার' : 'Saved Wires'}
               </button>
               <button 
                 onClick={() => { setActiveTab('discover'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}

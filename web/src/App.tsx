@@ -8,8 +8,6 @@ import { CurrentAffairsFeed } from './components/CurrentAffairsFeed';
 import { DiscoverFeed } from './components/DiscoverFeed';
 import { SavedStoriesFeed } from './components/SavedStoriesFeed';
 import { StudyCanvasModal } from './components/StudyCanvasModal';
-import { AudioPlayerDock } from './components/AudioPlayerDock';
-import { AudioPlayerSheet } from './components/AudioPlayerSheet';
 import { SettingsModal } from './components/SettingsModal';
 
 const MainLayout: React.FC = () => {
@@ -28,15 +26,11 @@ const MainLayout: React.FC = () => {
         {activeTab === 'saved' && <SavedStoriesFeed />}
       </main>
 
-      {/* Persistent Audio Mini-Player Dock */}
-      <AudioPlayerDock />
-
       {/* Bottom Floating Navigation Dock */}
       {!focusMode && <FloatingDock />}
 
       {/* Modals & Overlays */}
       <StudyCanvasModal />
-      <AudioPlayerSheet />
       <SettingsModal />
     </AmbientBackground>
   );

@@ -4,19 +4,11 @@ import { CapsuleStory } from '../types';
 import { 
   Scale, 
   BarChart3, 
-  HelpCircle, 
   Bookmark, 
-  Headphones, 
   ExternalLink,
   ShieldCheck,
-  Compass,
   ArrowRight,
-  TrendingUp,
   AlertTriangle,
-  Clock,
-  Play,
-  Pause,
-  Download,
   BookOpen
 } from 'lucide-react';
 import { getLocalizedCategory, formatRelativeTime, toBanglaDigits } from '../utils/bilingual';
@@ -30,11 +22,6 @@ export const CurrentAffairsFeed: React.FC = () => {
     isSerif, 
     isSaved, 
     toggleSave, 
-    playStoryAudio, 
-    isPlayingAudio,
-    currentAudioStory,
-    audioPlaybackRate,
-    setAudioPlaybackRate,
     t 
   } = useApp();
 
@@ -88,7 +75,7 @@ export const CurrentAffairsFeed: React.FC = () => {
   const categoryLabel = getLocalizedCategory(activeDossier.primary_category, isBn);
   const timeFormatted = formatRelativeTime(activeDossier.published_at, isBn);
   const bookmarked = isSaved(activeDossier.story_id);
-  const isCurrentAudioPlaying = isPlayingAudio && currentAudioStory?.story_id === activeDossier.story_id;
+
 
   const defaultStats = [
     {
@@ -208,65 +195,6 @@ export const CurrentAffairsFeed: React.FC = () => {
             <p className="font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
               {summary}
             </p>
-          </div>
-
-          {/* Audio Wire Player Strip */}
-          <div className="w-full bg-surface-container border border-primary/20 p-3 mb-8 flex flex-wrap items-center justify-between gap-4">
-            <div className="flex items-center space-x-3">
-              <button 
-                onClick={() => playStoryAudio(activeDossier)}
-                className="w-9 h-9 rounded-full bg-primary text-on-primary flex items-center justify-center hover:bg-secondary transition-colors cursor-pointer"
-                title={isCurrentAudioPlaying ? 'Pause Audio Brief' : 'Play Strategic Briefing'}
-              >
-                {isCurrentAudioPlaying ? <Pause className="w-4 h-4" /> : <Play className="w-4 h-4 ml-0.5" />}
-              </button>
-              <div>
-                <div className="font-label-md text-label-md uppercase tracking-wider font-bold text-primary">
-                  {isBn ? 'স্ট্র্যাটেজিক অডিও বিবরণী শুনুন' : 'Listen to Strategic Intelligence Briefing'}
-                </div>
-                <div className="font-body-sm text-body-sm text-outline">
-                  {isBn ? 'এআই সিনথেসাইজড ভয়েস • প্রায় ৪ মিনিট রিডিং' : 'AI Voice Synthesis • ~4 min read • Dispatch Audio Telemetry'}
-                </div>
-              </div>
-            </div>
-
-            {/* Visualizer Waveform Simulation */}
-            <div className="flex-1 max-w-md hidden md:flex items-center space-x-1 px-4" aria-hidden="true">
-              <div className="h-3 w-1 bg-primary"></div>
-              <div className="h-5 w-1 bg-primary"></div>
-              <div className="h-2 w-1 bg-outline"></div>
-              <div className="h-6 w-1 bg-secondary"></div>
-              <div className="h-4 w-1 bg-primary"></div>
-              <div className="h-7 w-1 bg-primary"></div>
-              <div className="h-3 w-1 bg-outline"></div>
-              <div className="h-5 w-1 bg-primary"></div>
-              <div className="h-4 w-1 bg-secondary"></div>
-              <div className="h-6 w-1 bg-primary"></div>
-              <div className="h-2 w-1 bg-outline"></div>
-              <div className="h-5 w-1 bg-primary"></div>
-              <div className="h-3 w-1 bg-primary"></div>
-              <div className="h-6 w-1 bg-secondary"></div>
-              <div className="h-4 w-1 bg-outline"></div>
-              <div className="h-2 w-1 bg-primary"></div>
-            </div>
-
-            {/* Playback Speed Controls */}
-            <div className="flex items-center space-x-2 font-label-sm text-label-sm uppercase">
-              <span className="text-outline">{isBn ? 'গতি:' : 'SPEED:'}</span>
-              {[1.0, 1.25, 1.5].map((spd) => (
-                <button
-                  key={spd}
-                  onClick={() => setAudioPlaybackRate(spd)}
-                  className={`px-2 py-0.5 border ${
-                    audioPlaybackRate === spd
-                      ? 'border-primary bg-primary text-on-primary font-bold'
-                      : 'border-outline-variant hover:border-primary text-on-surface'
-                  }`}
-                >
-                  {spd}X
-                </button>
-              ))}
-            </div>
           </div>
 
           {/* Broadsheet 12-Column Grid: Imagery & "Why In News" Context */}

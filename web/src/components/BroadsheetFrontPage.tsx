@@ -3,9 +3,6 @@ import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
 import { formatRelativeTime, getLocalizedCategory, toBanglaDigits } from '../utils/bilingual';
 import { 
-  Play, 
-  Pause, 
-  Headphones, 
   Bookmark, 
   BookmarkCheck, 
   Share2, 
@@ -14,7 +11,6 @@ import {
   CheckCircle2, 
   ExternalLink, 
   FileText, 
-  Volume2,
   Mail,
   ArrowRight
 } from 'lucide-react';
@@ -25,9 +21,6 @@ export const BroadsheetFrontPage: React.FC = () => {
     hourlyWires, 
     currentAffairs, 
     openStory, 
-    playStoryAudio, 
-    isPlayingAudio, 
-    currentAudioStory, 
     toggleSave, 
     isSaved, 
     language,
@@ -126,7 +119,7 @@ export const BroadsheetFrontPage: React.FC = () => {
     ? currentAffairs.slice(0, 3) 
     : (buzzStories.length > 4 ? buzzStories.slice(3, 6) : buzzStories.slice(0, 3));
 
-  const isHeroAudioPlaying = isPlayingAudio && currentAudioStory?.story_id === heroStory?.story_id;
+
 
   return (
     <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
@@ -261,13 +254,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </div>
                 <div className="flex items-center space-x-1 text-on-surface-variant">
                   <button 
-                    onClick={() => playStoryAudio(heroStory)}
-                    className="p-1 hover:text-primary transition-colors cursor-pointer" 
-                    title={isBn ? 'অডিও শুনুন' : 'Listen to Audio'}
-                  >
-                    <Headphones className="w-4 h-4 text-secondary" />
-                  </button>
-                  <button 
                     onClick={() => setIsSettingsOpen(true)}
                     className="p-1 hover:text-primary transition-colors cursor-pointer" 
                     title={isBn ? 'সেটিংস' : 'Settings'}
@@ -285,47 +271,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                       <Bookmark className="w-4 h-4" />
                     )}
                   </button>
-                </div>
-              </div>
-
-              {/* Audio Player Pill Bar (from Reference Image 4) */}
-              <div className="rounded-xl border border-secondary/40 bg-surface-container-low p-3 mb-4 flex items-center justify-between shadow-sm">
-                <div className="flex items-center space-x-3">
-                  <button 
-                    onClick={() => playStoryAudio(heroStory)}
-                    className="w-10 h-10 rounded-full bg-secondary text-on-secondary flex items-center justify-center hover:bg-opacity-90 transition-transform active:scale-95 shadow cursor-pointer shrink-0"
-                  >
-                    {isHeroAudioPlaying ? (
-                      <Pause className="w-5 h-5 fill-current" />
-                    ) : (
-                      <Play className="w-5 h-5 fill-current ml-0.5" />
-                    )}
-                  </button>
-                  <div>
-                    <div className="font-label-md text-label-md font-bold text-primary flex items-center gap-1.5">
-                      <span>{isBn ? 'অডিও ব্রিফিং শুনুন' : 'Listen to Audio Briefing'}</span>
-                      <span className="bg-primary text-background text-[9px] px-1.5 py-0.5 rounded font-mono font-bold">
-                        AI VOICE
-                      </span>
-                    </div>
-                    <div className="font-label-sm text-label-sm text-on-surface-variant">
-                      {isBn 
-                        ? `${toBanglaDigits(Math.ceil((heroStory.daily_buzz.read_time_seconds || 60) / 60))} মিনিট পাঠ • সিন্থেটিক অডিও ব্রডকাস্ট`
-                        : `${Math.ceil((heroStory.daily_buzz.read_time_seconds || 60) / 60)} min read • Synthetic audio broadcast`}
-                    </div>
-                  </div>
-                </div>
-                <div className="flex items-center space-x-2 text-outline font-label-sm text-label-sm">
-                  {isHeroAudioPlaying ? (
-                    <div className="flex items-center space-x-1 text-secondary">
-                      <span className="w-1.5 h-3 bg-secondary animate-pulse rounded-full" />
-                      <span className="w-1.5 h-5 bg-secondary animate-pulse rounded-full delay-75" />
-                      <span className="w-1.5 h-2 bg-secondary animate-pulse rounded-full delay-150" />
-                    </div>
-                  ) : (
-                    <Volume2 className="w-4 h-4" />
-                  )}
-                  <span className="hidden sm:inline font-mono">1.0x</span>
                 </div>
               </div>
 

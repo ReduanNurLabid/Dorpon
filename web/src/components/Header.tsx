@@ -3,7 +3,6 @@ import { useApp } from '../context/AppContext';
 import { TabType } from '../types';
 import { fetchDseMarketData, StockMarketData } from '../services/stockService';
 import { 
-  Headphones, 
   Type, 
   Settings as SettingsIcon,
   Flame,
@@ -25,9 +24,6 @@ export const Header: React.FC = () => {
     activeTab,
     setActiveTab,
     savedStoryIds,
-    isPlayingAudio,
-    toggleAudio,
-    setIsAudioSheetOpen,
     setIsSettingsOpen,
   } = useApp();
 
@@ -107,23 +103,6 @@ export const Header: React.FC = () => {
               {isBn ? '৩-স্তর বিশিষ্ট এক্সিকিউটিভ ডসিয়ার মোড' : '3-TIER EXECUTIVE DOSSIER MODE'}
             </span>
             <span className="text-outline-variant hidden md:inline">|</span>
-
-            {/* Quick Audio Briefing Pill */}
-            <button
-              onClick={() => {
-                if (!isPlayingAudio) toggleAudio();
-                setIsAudioSheetOpen(true);
-              }}
-              className={`flex items-center gap-1.5 px-2.5 py-0.5 rounded-full border text-label-sm font-label-sm font-semibold transition-all cursor-pointer ${
-                isPlayingAudio
-                  ? 'bg-secondary-container text-secondary border-secondary shadow-sm'
-                  : 'bg-surface-container border-outline-variant text-on-surface hover:text-primary hover:border-secondary'
-              }`}
-              title="Listen to Audio Briefing"
-            >
-              <Headphones className="w-3 h-3 text-secondary" />
-              <span>{isPlayingAudio ? (isBn ? 'চলছে...' : 'Playing...') : (isBn ? 'অডিও শুনুন' : 'Listen Audio')}</span>
-            </button>
 
             {/* Typography Serif Toggle */}
             <button

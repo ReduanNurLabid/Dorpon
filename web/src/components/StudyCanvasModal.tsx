@@ -18,15 +18,6 @@ export const StudyCanvasModal: React.FC = () => {
     setFontSize,
     isSaved,
     toggleSave,
-    playStoryAudio,
-    pauseAudio,
-    resumeAudio,
-    isPlayingAudio,
-    currentAudioStory,
-    audioProgress,
-    audioPlaybackRate,
-    setAudioPlaybackRate,
-    seekAudio,
   } = useApp();
 
   const [copied, setCopied] = useState(false);
@@ -49,8 +40,7 @@ export const StudyCanvasModal: React.FC = () => {
   const buzz = activeStory.daily_buzz;
   const bcs = activeStory.bcs_pro;
   const bookmarked = isSaved(activeStory.story_id);
-  const isAudioActive = currentAudioStory?.story_id === activeStory.story_id && isPlayingAudio;
-  const isAudioCurrentStory = currentAudioStory?.story_id === activeStory.story_id;
+
 
   const headline = isBn
     ? (buzz.title_bn || buzz.title_en)
@@ -133,23 +123,6 @@ export const StudyCanvasModal: React.FC = () => {
     }
   };
 
-  const toggleThisStoryAudio = () => {
-    if (isAudioActive) {
-      pauseAudio();
-    } else if (isAudioCurrentStory) {
-      resumeAudio();
-    } else {
-      playStoryAudio(activeStory);
-    }
-  };
-
-  const cycleSpeed = () => {
-    const speeds = [1.0, 1.25, 1.5, 2.0];
-    const currIdx = speeds.indexOf(audioPlaybackRate);
-    const nextIdx = (currIdx + 1) % speeds.length;
-    setAudioPlaybackRate(speeds[nextIdx]);
-  };
-
   const cycleFontSize = () => {
     if (fontSize === 'sm') setFontSize('base');
     else if (fontSize === 'base') setFontSize('lg');
@@ -206,20 +179,6 @@ export const StudyCanvasModal: React.FC = () => {
 
           {/* Right Action Utilities (Audio, Text Resizer, Bookmark, Close) */}
           <div className="flex items-center space-x-1 sm:space-x-2" data-purpose="reader-actions">
-            {/* Audio quick toggle */}
-            <button 
-              onClick={toggleThisStoryAudio}
-              aria-label="Toggle Audio Mode" 
-              className={`w-8 h-8 rounded-full border border-ink/50 hover:border-ink hover:bg-paper-dim flex items-center justify-center text-ink transition-colors cursor-pointer ${
-                isAudioActive ? 'bg-accent-emerald text-paper border-accent-emerald' : ''
-              }`} 
-              title={isBn ? 'অডিও মোড' : 'Audio Mode'}
-            >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="1.8" viewBox="0 0 24 24">
-                <path d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 100-6 3 3 0 000 6z" strokeLinecap="round" strokeLinejoin="round"></path>
-              </svg>
-            </button>
-
             {/* Typography Font Size Toggle */}
             <button 
               onClick={cycleFontSize}
@@ -270,82 +229,6 @@ export const StudyCanvasModal: React.FC = () => {
           </div>
         </header>
         {/* END: ModalControlBar */}
-
-        {/* BEGIN: AudioBriefingWidget */}
-        <section className="mb-6 bg-paper-box border border-ink p-3 sm:p-4 rounded-sm shadow-sm flex flex-col sm:flex-row sm:items-center justify-between gap-3" data-purpose="audio-broadcast-strip">
-          <div className="flex items-center gap-3.5">
-            {/* Play / Pause Ink Button */}
-            <button 
-              onClick={toggleThisStoryAudio}
-              aria-label="Play audio briefing" 
-              className="w-10 h-10 rounded-full bg-ink text-paper hover:bg-accent-emerald flex items-center justify-center shrink-0 transition-colors shadow-sm focus:outline-none cursor-pointer" 
-              data-purpose="play-audio-button" 
-              type="button"
-            >
-              {isAudioActive ? (
-                <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24">
-                  <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"></path>
-                </svg>
-              ) : (
-                <svg className="w-4 h-4 fill-current ml-0.5" viewBox="0 0 24 24">
-                  <path d="M8 5v14l11-7z"></path>
-                </svg>
-              )}
-            </button>
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="font-serif font-bold text-base text-ink">
-                  {isBn ? 'অডিও ব্রিফিং শুনুন' : 'Listen to Audio Briefing'}
-                </span>
-                <span className="font-sans text-[9px] uppercase font-bold tracking-widest bg-ink text-paper px-1.5 py-0.5 rounded">
-                  AI Voice
-                </span>
-              </div>
-              <p className="font-sans text-xs text-ink-muted">
-                {isBn 
-                  ? `${toBanglaDigits(Math.ceil((buzz.read_time_seconds || 60) / 60))} মিনিট পাঠ • ব্রডকাস্ট টেলিমেট্রি`
-                  : `${Math.ceil((buzz.read_time_seconds || 60) / 60)} min read • Broadcast telemetry synthesized`}
-              </p>
-            </div>
-          </div>
-
-          {/* Playback Speed & Sound Waveform Indicator */}
-          <div className="flex items-center gap-3 self-end sm:self-center font-sans text-xs text-ink-muted">
-            {isAudioCurrentStory && (
-              <div 
-                onClick={(e) => {
-                  const rect = e.currentTarget.getBoundingClientRect();
-                  const clickX = e.clientX - rect.left;
-                  const pct = Math.max(0, Math.min(100, (clickX / rect.width) * 100));
-                  seekAudio(pct);
-                }}
-                className="w-24 sm:w-32 h-2 bg-ink/20 rounded-full overflow-hidden cursor-pointer relative"
-                title="Seek audio"
-              >
-                <div 
-                  className="h-full bg-accent-emerald transition-all duration-100" 
-                  style={{ width: `${Number.isFinite(audioProgress) ? Math.max(0, Math.min(100, audioProgress)) : 0}%` }}
-                />
-              </div>
-            )}
-
-            <div aria-hidden="true" className="flex items-end gap-0.5 h-4 px-2">
-              <span className={`w-0.5 ${isAudioActive ? 'h-2 bg-accent-emerald animate-pulse' : 'h-2 bg-ink/40'}`}></span>
-              <span className={`w-0.5 ${isAudioActive ? 'h-3.5 bg-accent-emerald animate-pulse delay-75' : 'h-3 bg-ink'}`}></span>
-              <span className={`w-0.5 ${isAudioActive ? 'h-4 bg-accent-emerald animate-pulse delay-150' : 'h-4 bg-ink/70'}`}></span>
-              <span className={`w-0.5 ${isAudioActive ? 'h-2 bg-accent-emerald animate-pulse delay-100' : 'h-1.5 bg-ink/40'}`}></span>
-              <span className={`w-0.5 ${isAudioActive ? 'h-3 bg-accent-emerald animate-pulse' : 'h-3.5 bg-ink'}`}></span>
-            </div>
-
-            <button 
-              onClick={cycleSpeed}
-              className="border border-ink/40 hover:border-ink px-2 py-0.5 rounded text-[11px] font-medium uppercase hover:bg-paper cursor-pointer font-mono"
-            >
-              {audioPlaybackRate.toFixed(1)}x Speed
-            </button>
-          </div>
-        </section>
-        {/* END: AudioBriefingWidget */}
 
         {/* BEGIN: ArticleHeadlineAndMeta */}
         <article className="space-y-6" data-purpose="editorial-article-body">
