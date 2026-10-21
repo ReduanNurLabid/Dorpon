@@ -6,14 +6,12 @@ import {
   Languages, 
   Type, 
   Eye, 
-  Bell, 
   HardDrive, 
   Trash2, 
-  Info, 
   Check, 
   Sparkles,
-  Zap,
-  Globe
+  Sliders,
+  ShieldCheck
 } from 'lucide-react';
 
 export const SettingsModal: React.FC = () => {
@@ -33,8 +31,6 @@ export const SettingsModal: React.FC = () => {
   } = useApp();
 
   const [cacheCleared, setCacheCleared] = useState(false);
-  const [morningNotification, setMorningNotification] = useState(true);
-  const [breakingNotification, setBreakingNotification] = useState(true);
 
   if (!isSettingsOpen) return null;
 
@@ -49,18 +45,31 @@ export const SettingsModal: React.FC = () => {
 
   return (
     <div 
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 backdrop-blur-2xl bg-black/85 animate-fadeIn"
+      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-[#141414]/70 backdrop-blur-sm animate-fadeIn"
       onClick={() => setIsSettingsOpen(false)}
     >
       <div 
         onClick={(e) => e.stopPropagation()}
-        className="relative w-full max-w-lg bg-obsidian-lowest rounded-card border border-white/[0.1] shadow-2xl overflow-hidden z-10 max-h-[90vh] flex flex-col"
+        className="relative w-full max-w-lg bg-surface border-2 border-primary shadow-2xl overflow-hidden z-10 max-h-[90vh] flex flex-col font-serif"
       >
-        {/* Header */}
-        <div className="flex items-center justify-between px-6 py-4 border-b border-white/[0.08] bg-obsidian-lowest">
-          <div className="flex items-center space-x-2.5 text-white font-bold">
-            <SettingsIcon className="w-5 h-5 text-mint" />
-            <span>{t('settings')}</span>
+        {/* Top Registration Mark / Header Bar */}
+        <div className="flex items-center justify-between border-b border-primary/20 px-4 py-1.5 font-sans text-[10px] tracking-wider uppercase text-on-surface-variant bg-surface-container-high">
+          <span>{isBn ? 'সন্দেশ এক্সপ্রেস • কনফিগারেশন রেজিস্ট্রি' : 'SONDESH EXPRESS • PROTOCOL REGISTRY'}</span>
+          <span>{isBn ? 'সংস্করণ ২.৪' : 'REV. 2.4-WEB'}</span>
+        </div>
+
+        {/* Modal Masthead Header */}
+        <header className="flex items-center justify-between px-5 sm:px-6 py-4 border-b-2 border-primary bg-surface-container">
+          <div className="flex items-center space-x-2.5">
+            <Sliders className="w-5 h-5 text-primary" />
+            <div>
+              <h3 className="font-serif text-lg sm:text-xl font-bold text-primary tracking-tight">
+                {isBn ? 'রিডিং সেটিংস ও প্রটোকল' : 'Reading Preferences & Protocols'}
+              </h3>
+              <p className="font-sans text-xs text-on-surface-variant">
+                {isBn ? 'ব্যক্তিগত পাঠ্যাভ্যাস এবং ইন্টারফেস নিয়ন্ত্রণ' : 'Interface preferences, typography, and local cache controls'}
+              </p>
+            </div>
           </div>
 
           <button
@@ -69,103 +78,97 @@ export const SettingsModal: React.FC = () => {
               e.stopPropagation();
               setIsSettingsOpen(false);
             }}
-            className="p-1.5 rounded-full bg-white/[0.06] border border-white/[0.1] text-text-secondary hover:text-white hover:bg-white/[0.1] transition-all"
-            title="Close Settings"
+            className="w-8 h-8 rounded-full border-2 border-primary hover:bg-primary hover:text-background flex items-center justify-center text-primary transition-colors cursor-pointer"
+            title={isBn ? 'বন্ধ করুন' : 'Close Settings'}
           >
             <X className="w-4 h-4" />
           </button>
-        </div>
+        </header>
 
         {/* Scrollable Body */}
-        <div className="flex-1 overflow-y-auto px-6 py-6 space-y-6">
-          {/* Section: Language */}
+        <div className="flex-1 overflow-y-auto px-5 sm:px-6 py-5 space-y-6 bg-surface">
+          {/* Section: Language Preference */}
           <div>
-            <h4 className="text-xs font-bold uppercase tracking-wider text-text-secondary mb-3 flex items-center space-x-2">
-              <Languages className="w-4 h-4 text-mint" />
-              <span>{t('language_preference')}</span>
-            </h4>
-            <div className="grid grid-cols-2 gap-3">
+            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
+              <Languages className="w-4 h-4 text-secondary" />
+              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
+                {isBn ? 'ভাষা নির্বাচন' : 'Language Selection'}
+              </h4>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 font-sans">
               <button
                 onClick={() => setLanguage('en')}
-                className={`p-3 rounded-tile border text-sm font-semibold flex items-center justify-between transition-all ${
+                className={`p-3 border text-xs sm:text-sm font-semibold flex items-center justify-between transition-colors cursor-pointer ${
                   language === 'en'
-                    ? 'bg-mint/15 border-mint text-mint shadow-sm'
-                    : 'bg-white/[0.02] border-white/[0.08] text-text-secondary hover:text-white'
+                    ? 'bg-primary text-background border-primary shadow-sm'
+                    : 'bg-surface-container-low border-outline-variant hover:border-primary text-primary'
                 }`}
               >
-                <span>English</span>
-                {language === 'en' && <Check className="w-4 h-4 text-mint" />}
+                <div>
+                  <span className="block font-bold">English (UK/US)</span>
+                  <span className={`text-[11px] block mt-0.5 ${language === 'en' ? 'text-inverse-primary' : 'text-on-surface-variant'}`}>
+                    Diplomatic Standard Wire
+                  </span>
+                </div>
+                {language === 'en' && <Check className="w-4 h-4" />}
               </button>
 
               <button
                 onClick={() => setLanguage('bn')}
-                className={`p-3 rounded-tile border text-sm font-semibold flex items-center justify-between font-bangla transition-all ${
+                className={`p-3 border text-xs sm:text-sm font-semibold flex items-center justify-between transition-colors cursor-pointer ${
                   language === 'bn'
-                    ? 'bg-mint/15 border-mint text-mint shadow-sm'
-                    : 'bg-white/[0.02] border-white/[0.08] text-text-secondary hover:text-white'
+                    ? 'bg-primary text-background border-primary shadow-sm'
+                    : 'bg-surface-container-low border-outline-variant hover:border-primary text-primary'
                 }`}
               >
-                <span>বাংলা (Bengali)</span>
-                {language === 'bn' && <Check className="w-4 h-4 text-mint" />}
+                <div>
+                  <span className="block font-bold font-bangla">বাংলা (Bengali)</span>
+                  <span className={`text-[11px] block mt-0.5 ${language === 'bn' ? 'text-inverse-primary' : 'text-on-surface-variant'}`}>
+                    জাতীয় ও আন্তর্জাতিক ডেসপ্যাচ
+                  </span>
+                </div>
+                {language === 'bn' && <Check className="w-4 h-4" />}
               </button>
             </div>
           </div>
 
-          {/* Section: Typography */}
+          {/* Section: Typography Font Size */}
           <div>
-            <h4 className="text-xs font-bold uppercase tracking-wider text-text-secondary mb-3 flex items-center space-x-2">
-              <Type className="w-4 h-4 text-mint" />
-              <span>{t('reading_font')}</span>
-            </h4>
-            <div className="grid grid-cols-2 gap-3 mb-4">
-              <button
-                onClick={() => setIsSerif(false)}
-                className={`p-3 rounded-tile border text-xs sm:text-sm font-medium flex items-center justify-between transition-all font-sans ${
-                  !isSerif
-                    ? 'bg-mint/15 border-mint text-mint shadow-sm'
-                    : 'bg-white/[0.02] border-white/[0.08] text-text-secondary hover:text-white'
-                }`}
-              >
-                <div>
-                  <span className="font-bold block">{t('sans')}</span>
-                  <span className="text-[11px] text-text-secondary">Plus Jakarta / Hind</span>
-                </div>
-                {!isSerif && <Check className="w-4 h-4 text-mint" />}
-              </button>
-
-              <button
-                onClick={() => setIsSerif(true)}
-                className={`p-3 rounded-tile border text-xs sm:text-sm font-medium flex items-center justify-between transition-all font-serif ${
-                  isSerif
-                    ? 'bg-gold/15 border-gold text-gold shadow-sm'
-                    : 'bg-white/[0.02] border-white/[0.08] text-text-secondary hover:text-white'
-                }`}
-              >
-                <div>
-                  <span className="font-bold block">{t('serif')}</span>
-                  <span className="text-[11px] text-text-secondary">Lora / Noto Serif</span>
-                </div>
-                {isSerif && <Check className="w-4 h-4 text-gold" />}
-              </button>
+            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
+              <Type className="w-4 h-4 text-secondary" />
+              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
+                {isBn ? 'ফন্ট সাইজ ও টাইপোগ্রাফি' : 'Typography Scale & Font Size'}
+              </h4>
             </div>
 
-            {/* Font Size */}
-            <div className="flex items-center justify-between p-3 rounded-tile bg-white/[0.02] border border-white/[0.06]">
-              <span className="text-xs font-semibold text-text-secondary">
-                {isBn ? 'লেখা প্রদর্শনের আকার' : 'Reading Text Size'}
-              </span>
-              <div className="flex items-center space-x-1.5">
-                {(['sm', 'base', 'lg'] as const).map((sz) => (
+            <div className="p-3.5 bg-surface-container-low border border-primary/20 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+              <div>
+                <span className="font-sans text-xs font-bold text-primary block">
+                  {isBn ? 'নিবন্ধ পাঠের টেক্সট সাইজ' : 'Reading Text Scale'}
+                </span>
+                <span className="font-sans text-[11px] text-on-surface-variant">
+                  {isBn ? 'ব্রডশিট কলাম ও ডসিয়ারের লেখার আকার সমন্বয় করুন' : 'Scale body font size for long-form comfort'}
+                </span>
+              </div>
+
+              <div className="flex items-center space-x-1.5 font-sans">
+                {[
+                  { sz: 'sm' as const, label: 'A-', desc: isBn ? 'ছোট' : 'Compact' },
+                  { sz: 'base' as const, label: 'A', desc: isBn ? 'আদর্শ' : 'Regular' },
+                  { sz: 'lg' as const, label: 'A+', desc: isBn ? 'বড়' : 'Large' },
+                ].map((item) => (
                   <button
-                    key={sz}
-                    onClick={() => setFontSize(sz)}
-                    className={`px-3 py-1 rounded-md text-xs font-bold transition-all ${
-                      fontSize === sz
-                        ? 'bg-mint text-obsidian-bg'
-                        : 'bg-white/[0.04] text-text-secondary hover:text-white'
+                    key={item.sz}
+                    onClick={() => setFontSize(item.sz)}
+                    className={`px-3 py-1.5 border text-xs font-bold transition-colors cursor-pointer ${
+                      fontSize === item.sz
+                        ? 'bg-primary text-background border-primary'
+                        : 'bg-surface border-outline-variant hover:border-primary text-primary'
                     }`}
+                    title={item.desc}
                   >
-                    {sz === 'sm' ? 'A-' : sz === 'base' ? 'A' : 'A+'}
+                    {item.label}
                   </button>
                 ))}
               </div>
@@ -174,77 +177,96 @@ export const SettingsModal: React.FC = () => {
 
           {/* Section: Focus Mode */}
           <div>
-            <h4 className="text-xs font-bold uppercase tracking-wider text-text-secondary mb-3 flex items-center space-x-2">
-              <Eye className="w-4 h-4 text-mint" />
-              <span>{isBn ? 'মনোযোগ ও ডিসপ্লে মোড' : 'Focus & Display Mode'}</span>
-            </h4>
-            <div className="flex items-center justify-between p-3.5 rounded-tile bg-white/[0.02] border border-white/[0.06]">
+            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
+              <Eye className="w-4 h-4 text-secondary" />
+              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
+                {isBn ? 'মনোযোগ ও ডিসপ্লে মোড' : 'Focus & Distraction Controls'}
+              </h4>
+            </div>
+
+            <label className="flex items-center justify-between p-3.5 bg-surface-container-low border border-primary/20 cursor-pointer hover:border-primary transition-colors">
               <div>
-                <span className="text-sm font-semibold text-white block">
-                  {t('focus_mode')}
+                <span className="font-sans text-xs font-bold text-primary block">
+                  {isBn ? 'ফোকাস রিডিং মোড' : 'Full Focus Mode'}
                 </span>
-                <span className="text-xs text-text-secondary">
-                  {isBn ? 'পঠনকালে অপ্রয়োজনীয় বার আড়াল করুন' : 'Hide distractions during reading'}
+                <span className="font-sans text-[11px] text-on-surface-variant">
+                  {isBn ? 'পঠনকালে উপরের হেডার ও সাইডবার বারগুলো আড়াল করুন' : 'Hide peripheral mastheads and banners during active reading'}
                 </span>
               </div>
               <input
                 type="checkbox"
                 checked={focusMode}
                 onChange={(e) => setFocusMode(e.target.checked)}
-                className="w-5 h-5 accent-mint rounded cursor-pointer"
+                className="w-4 h-4 accent-primary border-primary rounded-none cursor-pointer"
               />
-            </div>
+            </label>
           </div>
 
-          {/* Section: Storage & Cache */}
+          {/* Section: Storage & Local Cache */}
           <div>
-            <h4 className="text-xs font-bold uppercase tracking-wider text-text-secondary mb-3 flex items-center space-x-2">
-              <HardDrive className="w-4 h-4 text-mint" />
-              <span>{t('storage')}</span>
-            </h4>
-            <div className="flex items-center justify-between p-3.5 rounded-tile bg-white/[0.02] border border-white/[0.06]">
+            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
+              <HardDrive className="w-4 h-4 text-secondary" />
+              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
+                {isBn ? 'লোকাল স্টোরেজ ও ক্যাশ' : 'Local Storage & Offline Cache'}
+              </h4>
+            </div>
+
+            <div className="flex items-center justify-between p-3.5 bg-surface-container-low border border-primary/20">
               <div>
-                <span className="text-sm font-semibold text-white block">
-                  {t('clear_cache')}
+                <span className="font-sans text-xs font-bold text-primary block">
+                  {isBn ? 'ক্যাশ ডেটা ও সংরক্ষিত রেকর্ড' : 'Clear Offline Local Data'}
                 </span>
-                <span className="text-xs text-text-secondary">
+                <span className="font-sans text-[11px] text-on-surface-variant">
                   {cacheCleared ? (
-                    <span className="text-mint font-semibold">{t('cache_cleared')}</span>
+                    <span className="text-secondary font-bold">
+                      ✓ {isBn ? 'ক্যাশ সফলভাবে সাফ করা হয়েছে' : 'Local storage cleared successfully'}
+                    </span>
                   ) : isBn ? (
-                    'অফলাইন ডেটা ও সংরক্ষিত খবর সাফ করুন'
+                    'অফলাইন স্টোর করা স্ন্যাপশট ও সাময়িক ডেটা সাফ করুন'
                   ) : (
-                    'Remove offline stored snapshots and bookmarks'
+                    'Reset offline snapshots and cached registry indices'
                   )}
                 </span>
               </div>
               <button
                 onClick={handleClearCache}
-                className="px-3 py-1.5 rounded-lg bg-red-500/10 border border-red-500/20 text-xs font-bold text-red-400 hover:bg-red-500/20 transition-all flex items-center space-x-1"
+                className="px-3 py-1.5 border border-primary text-primary font-sans text-xs font-bold hover:bg-primary hover:text-background transition-colors flex items-center space-x-1 cursor-pointer"
               >
                 <Trash2 className="w-3.5 h-3.5" />
-                <span>{isBn ? 'সাফ করুন' : 'Clear'}</span>
+                <span>{isBn ? 'সাফ করুন' : 'Clear Cache'}</span>
               </button>
             </div>
           </div>
 
-          {/* About Platform */}
-          <div className="p-4 rounded-tile bg-mint/5 border border-mint/20 space-y-2">
-            <div className="flex items-center space-x-2 text-mint text-xs font-bold">
-              <Sparkles className="w-4 h-4" />
+          {/* Masthead Colophon */}
+          <div className="p-4 bg-surface-container border border-primary/20 text-xs space-y-1.5">
+            <div className="flex items-center space-x-2 text-primary font-bold font-sans text-[11px] uppercase tracking-wider">
+              <ShieldCheck className="w-4 h-4 text-secondary" />
               <span>Sondesh Express Autonomous Intelligence</span>
             </div>
-            <p className="text-xs text-text-secondary leading-relaxed">
-              Autonomous news ingestion powered by Google Gemini AI, cross-source deduplication, and Google Cloud Firestore. Designed for calm, high-signal intelligence.
+            <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
+              Autonomous verified multi-source news synthesis. Cross-indexed against official registers, constitutional articles, and institutional telemetry.
             </p>
-            <div className="flex items-center space-x-3 text-[11px] text-text-tertiary pt-1">
-              <span>Version 2.0 Web</span>
+            <div className="flex items-center space-x-2 font-sans text-[10px] uppercase text-outline pt-1">
+              <span>Established 1 November 2026</span>
               <span>•</span>
-              <span>Obsidian Glass UI</span>
-              <span>•</span>
-              <span>Bilingual EN/BN</span>
+              <span>Broadsheet Ink Edition</span>
             </div>
           </div>
         </div>
+
+        {/* Modal Footer Bar */}
+        <footer className="px-5 sm:px-6 py-3 border-t-2 border-primary bg-surface-container flex items-center justify-between font-sans text-xs">
+          <span className="text-on-surface-variant">
+            {isBn ? 'পরিবর্তনগুলো তাৎক্ষণিকভাবে সংরক্ষিত হয়' : 'Preferences persist in your local browser'}
+          </span>
+          <button
+            onClick={() => setIsSettingsOpen(false)}
+            className="px-4 py-1.5 bg-primary text-background font-sans text-xs font-bold uppercase tracking-wider hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary cursor-pointer"
+          >
+            {isBn ? 'সম্পন্ন' : 'Done'}
+          </button>
+        </footer>
       </div>
     </div>
   );
