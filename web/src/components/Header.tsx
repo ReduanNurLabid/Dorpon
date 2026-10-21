@@ -1,15 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useApp } from '../context/AppContext';
 import { TabType } from '../types';
 import { 
   Headphones, 
-  Volume2, 
   Type, 
   Settings as SettingsIcon,
   Flame,
   BookOpen,
   Compass,
   Bookmark,
+  Search,
+  Check,
   Sparkles
 } from 'lucide-react';
 import { toBanglaDigits } from '../utils/bilingual';
@@ -23,178 +24,225 @@ export const Header: React.FC = () => {
     activeTab,
     setActiveTab,
     savedStoryIds,
-    t,
     isPlayingAudio,
     toggleAudio,
     setIsAudioSheetOpen,
     setIsSettingsOpen,
   } = useApp();
 
+  const [searchQuery, setSearchQuery] = useState('');
   const isBn = language === 'bn';
 
-  const desktopNavItems: { id: TabType; labelKey: any; icon: React.ReactNode; isGold?: boolean }[] = [
+  // Format today's date in broadsheet format
+  const today = new Date();
+  const dateFormatted = isBn 
+    ? toBanglaDigits(today.toLocaleDateString('bn-BD', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }))
+    : today.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric', year: 'numeric' });
+
+  const navItems: { id: TabType; labelEn: string; labelBn: string; icon: React.ReactNode; isGold?: boolean }[] = [
     {
       id: 'top_stories',
-      labelKey: 'top_stories',
-      icon: <Flame className="w-4 h-4" />,
+      labelEn: 'Dispatches',
+      labelBn: 'শীর্ষ খবর',
+      icon: <Flame className="w-3.5 h-3.5" />,
     },
     {
       id: 'current_affairs',
-      labelKey: 'current_affairs',
-      icon: <BookOpen className="w-4 h-4" />,
+      labelEn: 'BCS Dossiers',
+      labelBn: 'বিসিএস ডসিয়ার',
+      icon: <BookOpen className="w-3.5 h-3.5" />,
       isGold: true,
     },
     {
       id: 'discover',
-      labelKey: 'discover',
-      icon: <Compass className="w-4 h-4" />,
+      labelEn: 'Intelligence Archive',
+      labelBn: 'সংরক্ষণাগার',
+      icon: <Compass className="w-3.5 h-3.5" />,
     },
     {
       id: 'saved',
-      labelKey: 'saved',
-      icon: <Bookmark className="w-4 h-4" />,
+      labelEn: 'Saved Wire',
+      labelBn: 'সংরক্ষিত',
+      icon: <Bookmark className="w-3.5 h-3.5" />,
     },
   ];
 
   return (
-    <header className="sticky top-0 z-40 w-full backdrop-blur-2xl bg-obsidian-bg/90 border-b border-white/[0.08] transition-all">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 sm:h-20 flex items-center justify-between gap-4">
-        {/* Full Size SVG Logo & Branding */}
-        <div 
-          onClick={() => setActiveTab('top_stories')}
-          className="flex items-center space-x-3 cursor-pointer group flex-shrink-0"
-        >
-          <div className="relative w-10 h-10 sm:w-12 sm:h-12 rounded-full overflow-hidden bg-black/40 border border-mint/30 shadow-[0_0_20px_rgba(52,211,153,0.2)] flex items-center justify-center p-0.5 group-hover:scale-105 group-hover:border-mint transition-all duration-300">
-            <img 
-              src="/Dorpon_logo.svg" 
-              alt="Dorpon Daily Logo" 
-              className="w-full h-full object-contain filter drop-shadow-md"
-            />
+    <header className="w-full bg-background border-b border-primary/20 transition-colors">
+      {/* 1. TOP BROADSHEET UTILITY RIBBON */}
+      <div className="w-full border-b border-primary/20 bg-background py-1.5 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider">
+          <div className="flex items-center space-x-2.5 sm:space-x-3">
+            <span className="flex items-center gap-1 font-semibold text-primary">
+              <span className="text-secondary font-mono">●</span>
+              {isBn ? 'প্রতিষ্ঠিত ২০২৪' : 'Est. MDCCCCLXXXIV'}
+            </span>
+            <span className="text-outline-variant">|</span>
+            <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
+            <span className="text-outline-variant hidden sm:inline">|</span>
+            <span className="hidden sm:inline font-medium text-on-surface">
+              {isBn ? `ঢাকা • ${dateFormatted} • লাইভ এডিশন` : `Dhaka • ${dateFormatted} • Live Edition`}
+            </span>
           </div>
 
-          <div>
-            <div className="flex items-center space-x-2">
-              <span className="font-extrabold text-lg sm:text-xl text-white tracking-tight leading-none group-hover:text-mint transition-colors">
-                {isBn ? 'দর্পণ' : 'Dorpon'}
-              </span>
-              <span className="text-[11px] font-bold text-mint px-2 py-0.5 rounded-full bg-mint/10 border border-mint/20 tracking-wide uppercase">
-                {isBn ? 'ডেইলি' : 'Daily'}
-              </span>
+          <div className="flex items-center space-x-3 sm:space-x-4">
+            <span className="text-secondary font-semibold hidden md:flex items-center gap-1.5">
+              <span className="w-2 h-2 rounded-full bg-secondary inline-block animate-pulse"></span>
+              {isBn ? '৩-স্তর বিশিষ্ট এক্সিকিউটিভ ডসিয়ার মোড' : '3-TIER EXECUTIVE DOSSIER MODE'}
+            </span>
+            <span className="text-outline-variant hidden md:inline">|</span>
+
+            {/* Quick Audio Briefing Pill */}
+            <button
+              onClick={() => {
+                if (!isPlayingAudio) toggleAudio();
+                setIsAudioSheetOpen(true);
+              }}
+              className={`flex items-center gap-1.5 px-2.5 py-0.5 rounded-full border text-label-sm font-label-sm font-semibold transition-all cursor-pointer ${
+                isPlayingAudio
+                  ? 'bg-secondary-container text-secondary border-secondary shadow-sm'
+                  : 'bg-surface-container border-outline-variant text-on-surface hover:text-primary hover:border-secondary'
+              }`}
+              title="Listen to Audio Briefing"
+            >
+              <Headphones className="w-3 h-3 text-secondary" />
+              <span>{isPlayingAudio ? (isBn ? 'চলছে...' : 'Listening') : (isBn ? 'অডিও শুনুন' : 'Listen Wire')}</span>
+            </button>
+
+            {/* Typography Serif Toggle */}
+            <button
+              onClick={() => setIsSerif(!isSerif)}
+              className={`px-1.5 py-0.5 rounded border text-label-sm font-bold transition-all cursor-pointer ${
+                isSerif
+                  ? 'bg-surface-container-high border-primary text-primary font-serif'
+                  : 'bg-surface border-outline-variant text-on-surface-variant hover:text-primary'
+              }`}
+              title={isSerif ? 'Switch to Modern Sans' : 'Switch to Broadsheet Serif'}
+            >
+              <Type className="w-3 h-3" />
+            </button>
+
+            {/* Bilingual Switcher */}
+            <button
+              onClick={toggleLanguage}
+              className="flex items-center bg-surface-container border border-outline-variant rounded px-2 py-0.5 hover:border-primary transition-all font-bold text-label-sm cursor-pointer"
+              title="Toggle English / বাংলা"
+            >
+              <span className={!isBn ? 'text-secondary font-bold' : 'text-on-surface-variant'}>EN</span>
+              <span className="mx-1 text-outline-variant">/</span>
+              <span className={isBn ? 'text-secondary font-bold' : 'text-on-surface-variant'}>বাং</span>
+            </button>
+
+            {/* Settings Trigger */}
+            <button
+              onClick={() => setIsSettingsOpen(true)}
+              className="p-1 text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              title="Settings"
+            >
+              <SettingsIcon className="w-3.5 h-3.5" />
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* 2. GRAND BROADSHEET MASTHEAD */}
+      <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
+        <div className="flex flex-col items-center justify-center relative border-b border-primary/20 pb-4 sm:pb-5">
+          {/* Left Financial Register (Desktop) */}
+          <div className="absolute left-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-left font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
+            <span className="font-bold text-primary flex items-center gap-1">
+              <span className="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+              {isBn ? 'আর্থিক সূচক' : 'FINANCIAL REGISTER'}
+            </span>
+            <span>REPO: 10.00% (+25bps)</span>
+            <span>FOREX: $24.81B</span>
+            <span>INFLATION: 9.92% YoY</span>
+          </div>
+
+          {/* Central Logo & Grand Logotype */}
+          <div 
+            onClick={() => setActiveTab('top_stories')}
+            className="flex flex-col items-center cursor-pointer group"
+          >
+            <div className="flex items-center gap-3 mb-1">
+              <div className="relative w-8 h-8 sm:w-10 sm:h-10 rounded-full overflow-hidden bg-primary text-background border border-primary flex items-center justify-center p-0.5 group-hover:scale-105 transition-transform">
+                <img 
+                  src="/Dorpon_logo.svg" 
+                  alt="Dorpon Daily Logo" 
+                  className="w-full h-full object-contain filter invert"
+                />
+              </div>
+              <h1 className="font-display-masthead text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-primary uppercase text-center group-hover:text-secondary transition-colors">
+                {isBn ? 'দর্পণ ডেইলি ইন্টেলিজেন্স' : 'DORPON DAILY INTELLIGENCE'}
+              </h1>
             </div>
-            <p className="text-[11px] sm:text-xs text-text-secondary mt-0.5 font-medium leading-none hidden sm:block">
-              {isBn ? 'সময় বাঁচানো চলতি ঘটনাবলী' : 'Daily Current Affairs & Intelligence'}
+            <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
+              {isBn 
+                ? 'জাতীয় বিষয়াবলী, সুশাসন, সামষ্টিক অর্থনীতি ও নির্বাহী পর্যালোচনার স্বাধীন ডিজিটাল জার্নাল' 
+                : 'The Independent Journal of National Affairs, Governance, Macroeconomy & Executive Briefings'}
             </p>
           </div>
+
+          {/* Right Telemetry Badge (Desktop) */}
+          <div className="absolute right-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-right font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
+            <span className="font-bold text-secondary flex items-center justify-end gap-1">
+              <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
+              {isBn ? 'স্ট্রাকচার্ড ব্রিফিং' : 'STRUCTURED BRIEFINGS'}
+            </span>
+            <span>FORMAT: 3-TIER INTELLIGENCE</span>
+            <span>VERIFIED TELEMETRY #102</span>
+            <span>CIRCULATION: 184,200</span>
+          </div>
         </div>
 
-        {/* Desktop Navigation Bar (Integrated in Header on md+ screens) */}
-        <nav className="hidden md:flex items-center space-x-1 lg:space-x-2 bg-obsidian-lowest/80 p-1.5 rounded-full border border-white/[0.08] shadow-inner">
-          {desktopNavItems.map((item) => {
-            const isActive = activeTab === item.id;
-            return (
-              <button
-                key={item.id}
-                onClick={() => setActiveTab(item.id)}
-                className={`relative flex items-center space-x-2 px-3.5 py-2 rounded-full text-xs lg:text-sm font-semibold transition-all duration-200 ${
-                  isActive
-                    ? item.isGold
-                      ? 'bg-gold/15 text-gold-bright border border-gold/30 shadow-[0_0_15px_rgba(234,179,8,0.2)]'
-                      : 'bg-mint/15 text-mint-bright border border-mint/30 shadow-[0_0_15px_rgba(52,211,153,0.2)]'
-                    : 'text-text-secondary hover:text-white hover:bg-white/[0.04]'
-                }`}
-              >
-                <span>{item.icon}</span>
-                <span>{t(item.labelKey)}</span>
+        {/* 3. BROADSHEET NAVIGATION BAR STRIP */}
+        <nav className="flex items-center justify-between pt-2.5 overflow-x-auto no-scrollbar border-b-2 border-primary">
+          <div className="flex items-center space-x-6 sm:space-x-8">
+            {navItems.map((item) => {
+              const isActive = activeTab === item.id;
+              return (
+                <button
+                  key={item.id}
+                  onClick={() => setActiveTab(item.id)}
+                  className={`relative py-2 font-label-md text-label-md uppercase tracking-wider font-semibold whitespace-nowrap transition-all border-b-2 flex items-center gap-1.5 cursor-pointer ${
+                    isActive
+                      ? 'border-primary text-primary font-bold'
+                      : 'border-transparent text-on-surface-variant hover:text-primary hover:border-primary/40'
+                  }`}
+                >
+                  <span>{item.icon}</span>
+                  <span>{isBn ? item.labelBn : item.labelEn}</span>
 
-                {item.id === 'saved' && savedStoryIds.length > 0 && (
-                  <span className="ml-1 px-1.5 py-0.2 rounded-full bg-mint text-obsidian-bg text-[10px] font-bold">
-                    {savedStoryIds.length}
-                  </span>
-                )}
-              </button>
-            );
-          })}
+                  {item.id === 'saved' && savedStoryIds.length > 0 && (
+                    <span className="ml-1 px-1.5 py-0.2 rounded-full bg-secondary text-on-secondary text-[10px] font-bold">
+                      {savedStoryIds.length}
+                    </span>
+                  )}
+                </button>
+              );
+            })}
+          </div>
+
+          {/* Inline Briefing Search & Actions */}
+          <div className="hidden lg:flex items-center space-x-3 pb-1">
+            <div className="flex items-center border border-outline-variant px-2.5 py-1 bg-surface-container-lowest">
+              <Search className="w-3.5 h-3.5 text-outline mr-2" />
+              <input 
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder={isBn ? 'সংবাদ অনুসন্ধান...' : 'Search briefing keys...'}
+                className="bg-transparent border-none text-primary text-xs placeholder:text-outline focus:outline-none w-36 sm:w-44 p-0 font-serif"
+              />
+            </div>
+            <a 
+              href="#subscribe" 
+              className="bg-primary text-background font-label-md text-label-md uppercase px-3 py-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary font-semibold"
+            >
+              {isBn ? 'সাবস্ক্রাইব ওয়্যার' : 'Subscribe Wire'}
+            </a>
+          </div>
         </nav>
-
-        {/* Action Controls */}
-        <div className="flex items-center space-x-2 sm:space-x-3 flex-shrink-0">
-          {/* Quick Audio Briefing Button */}
-          <button
-            onClick={() => {
-              if (!isPlayingAudio) {
-                toggleAudio();
-              }
-              setIsAudioSheetOpen(true);
-            }}
-            className={`group flex items-center space-x-2 px-3 py-1.5 sm:px-3.5 sm:py-2 rounded-full border text-xs sm:text-sm font-semibold transition-all duration-300 ${
-              isPlayingAudio
-                ? 'bg-mint/15 border-mint/40 text-mint shadow-[0_0_15px_rgba(52,211,153,0.25)]'
-                : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08]'
-            }`}
-            title="Listen to Audio Briefing"
-          >
-            {isPlayingAudio ? (
-              <div className="flex items-center space-x-0.5 h-3">
-                <span className="w-0.5 h-2 bg-mint animate-[pulse_0.6s_ease-in-out_infinite]" />
-                <span className="w-0.5 h-3 bg-mint animate-[pulse_0.4s_ease-in-out_infinite]" />
-                <span className="w-0.5 h-1.5 bg-mint animate-[pulse_0.8s_ease-in-out_infinite]" />
-              </div>
-            ) : (
-              <Headphones className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-mint" />
-            )}
-            <span className="hidden sm:inline">
-              {isPlayingAudio ? t('playing') : t('listen')}
-            </span>
-          </button>
-
-          {/* Font Toggle (Serif / Sans) */}
-          <button
-            onClick={() => setIsSerif(!isSerif)}
-            className={`p-2 rounded-full border text-xs font-medium transition-all ${
-              isSerif
-                ? 'bg-gold/15 border-gold/40 text-gold shadow-[0_0_10px_rgba(234,179,8,0.2)]'
-                : 'bg-white/[0.04] border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08]'
-            }`}
-            title={isSerif ? 'Switch to Sans-Serif' : 'Switch to Editorial Serif'}
-          >
-            <Type className="w-4 h-4" />
-          </button>
-
-          {/* Bilingual Language Switcher */}
-          <button
-            onClick={toggleLanguage}
-            className="relative flex items-center bg-obsidian-container border border-white/[0.08] rounded-full p-0.5 transition-all hover:border-mint/30"
-            title="Toggle English / বাংলা"
-          >
-            <span
-              className={`px-2.5 py-1 text-xs font-semibold rounded-full transition-all duration-300 ${
-                !isBn
-                  ? 'bg-mint text-obsidian-bg shadow-sm font-bold'
-                  : 'text-text-secondary hover:text-white'
-              }`}
-            >
-              EN
-            </span>
-            <span
-              className={`px-2.5 py-1 text-xs font-semibold rounded-full transition-all duration-300 font-bangla ${
-                isBn
-                  ? 'bg-mint text-obsidian-bg shadow-sm font-bold'
-                  : 'text-text-secondary hover:text-white'
-              }`}
-            >
-              বাং
-            </span>
-          </button>
-
-          {/* Settings Trigger */}
-          <button
-            onClick={() => setIsSettingsOpen(true)}
-            className="p-2 rounded-full bg-white/[0.04] border border-white/[0.08] text-text-secondary hover:text-white hover:bg-white/[0.08] transition-all"
-            title="Settings & Preferences"
-          >
-            <SettingsIcon className="w-4 h-4" />
-          </button>
-        </div>
       </div>
     </header>
   );
