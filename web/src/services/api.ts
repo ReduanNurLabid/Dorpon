@@ -118,17 +118,27 @@ function normalizeStory(data: any): CapsuleStory {
   };
 }
 
+function sortByPublishedDesc(list: CapsuleStory[]): CapsuleStory[] {
+  return list.sort((a, b) => {
+    const timeA = a.published_at ? new Date(a.published_at).getTime() : 0;
+    const timeB = b.published_at ? new Date(b.published_at).getTime() : 0;
+    return timeB - timeA;
+  });
+}
+
 export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
   // 1. Try Firebase Firestore SDK
   try {
-    const q = query(collection(db, 'daily_buzz'), limit(40));
+    const q = query(collection(db, 'daily_buzz'), limit(50));
     const snapshot = await getDocs(q);
     if (!snapshot.empty) {
       const items: CapsuleStory[] = [];
       snapshot.forEach(doc => {
         items.push(normalizeStory(doc.data()));
       });
-      if (items.length > 0) return items;
+      if (items.length > 0) {
+        return sortByPublishedDesc(items);
+      }
     }
   } catch (err) {
     console.warn('Firestore SDK buzz feed read error, falling back:', err);
@@ -136,9 +146,10 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST API
   try {
-    const restItems = await fetchFirestoreRest('daily_buzz', 40);
+    const restItems = await fetchFirestoreRest('daily_buzz', 50);
     if (restItems.length > 0) {
-      return restItems.map(item => normalizeStory(item));
+      const items = restItems.map(item => normalizeStory(item));
+      return sortByPublishedDesc(items);
     }
   } catch (err) {
     console.warn('Firestore REST buzz error:', err);
@@ -150,7 +161,8 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
     if (res.ok) {
       const json = await res.json();
       const stories: any[] = json.stories || [];
-      return stories.map(s => normalizeStory(s));
+      const items = stories.map(s => normalizeStory(s));
+      return sortByPublishedDesc(items);
     }
   } catch (err) {
     console.error('Static top_stories fallback error:', err);
@@ -203,14 +215,16 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
 export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
   // 1. Try Firestore SDK
   try {
-    const q = query(collection(db, 'hourly_buzz'), limit(25));
+    const q = query(collection(db, 'hourly_buzz'), limit(30));
     const snap = await getDocs(q);
     if (!snap.empty) {
       const list: CapsuleStory[] = [];
       snap.forEach(doc => {
         list.push(normalizeStory(doc.data()));
       });
-      if (list.length > 0) return list;
+      if (list.length > 0) {
+        return sortByPublishedDesc(list);
+      }
     }
   } catch (err) {
     console.warn('Firestore SDK hourly buzz error, falling back:', err);
@@ -218,9 +232,10 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST
   try {
-    const restItems = await fetchFirestoreRest('hourly_buzz', 25);
+    const restItems = await fetchFirestoreRest('hourly_buzz', 30);
     if (restItems.length > 0) {
-      return restItems.map(item => normalizeStory(item));
+      const items = restItems.map(item => normalizeStory(item));
+      return sortByPublishedDesc(items);
     }
   } catch (err) {
     console.warn('Firestore REST hourly error:', err);
@@ -232,7 +247,8 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
     if (res.ok) {
       const json = await res.json();
       const stories: any[] = json.stories || [];
-      return stories.map(s => normalizeStory(s));
+      const items = stories.map(s => normalizeStory(s));
+      return sortByPublishedDesc(items);
     }
   } catch (err) {
     console.error('Static hourly_buzz fallback error:', err);

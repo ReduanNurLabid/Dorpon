@@ -1,6 +1,8 @@
 import os
 import json
 import re
+import time
+import random
 from typing import List, Optional
 from pipeline.models import (
     CapsuleStory, DailyBuzzItem, BcsProItem, StatPoint,
@@ -260,16 +262,29 @@ def synthesize_story_with_ai(
     primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
     syllabus = map_syllabus_for_categories(cluster.matched_categories, title)
     
-    # 2. Check for Gemini API Key
-    api_key = api_key or os.getenv("GEMINI_API_KEY")
-    
-    if api_key:
+    # 2. Check for Gemini API Keys (supports multi-key rotation and backup keys)
+    raw_keys = os.getenv("GEMINI_API_KEYS") or ""
+    keys_list = [k.strip() for k in raw_keys.split(",") if k.strip()]
+    if api_key and api_key not in keys_list:
+        keys_list.insert(0, api_key)
+    for env_k in ["GEMINI_API_KEY", "GEMINI_API_KEY_BACKUP", "GEMINI_BACKUP_KEY"]:
+        v = os.getenv(env_k)
+        if v and v.strip() and v.strip() not in keys_list:
+            keys_list.append(v.strip())
+
+    MODEL_CASCADE = [
+        "gemini-3.5-flash-lite",      # Primary tier: Blazing fast, highly available, minimal 503 risk
+        "gemini-flash-lite-latest",   # Stable alias
+        "gemini-3.6-flash",           # Balanced capability
+        "gemini-3.5-flash",           # Standard flash
+        "gemini-3-flash-preview",     # High-speed preview fallback
+    ]
+
+    if keys_list:
         try:
             from google import genai
             from google.genai import types
-            
-            client = genai.Client(api_key=api_key)
-            
+
             bcs_instructions = ""
             if is_bcs_pro:
                 bcs_instructions = """
@@ -355,24 +370,56 @@ You MUST return a JSON object with these EXACT keys:
   {bcs_instructions}
 }}
 """
-            # Prioritize gemini-3.5-flash with fallback to gemini-3.5-flash-lite
+            # Cascade across model tiers with exponential backoff & multi-key rotation
             response = None
-            for model_name in ["gemini-3.5-flash", "gemini-3.5-flash-lite"]:
+            last_err = None
+
+            for active_key in keys_list:
                 try:
-                    response = client.models.generate_content(
-                        model=model_name,
-                        contents=prompt,
-                        config=types.GenerateContentConfig(
-                            response_mime_type="application/json"
-                        )
-                    )
-                    if response and response.text:
+                    client = genai.Client(api_key=active_key)
+                except Exception as client_err:
+                    print(f"⚠️ Failed to init Gemini client with key {active_key[:8]}...: {client_err}")
+                    continue
+
+                for model_name in MODEL_CASCADE:
+                    for attempt in range(2):
+                        try:
+                            resp = client.models.generate_content(
+                                model=model_name,
+                                contents=prompt,
+                                config=types.GenerateContentConfig(
+                                    response_mime_type="application/json"
+                                )
+                            )
+                            if resp and resp.text:
+                                response = resp
+                                break
+                        except Exception as m_err:
+                            last_err = m_err
+                            err_str = str(m_err)
+                            is_503 = "503" in err_str or "UNAVAILABLE" in err_str or "high demand" in err_str
+                            is_429 = "429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "quota" in err_str.lower()
+                            is_404 = "404" in err_str or "NOT_FOUND" in err_str or "no longer available" in err_str
+
+                            if is_404:
+                                # Deprecated model: skip to next model in cascade without retry
+                                break
+
+                            if attempt == 0 and (is_503 or is_429):
+                                backoff = 1.5 + random.uniform(0.5, 1.5)
+                                print(f"⏳ Transient spike on {model_name} ({err_str[:60]}...). Backing off {backoff:.1f}s...")
+                                time.sleep(backoff)
+                                continue
+                            else:
+                                print(f"⚠️ Model {model_name} attempt note: {err_str[:80]}")
+                                break
+                    if response:
                         break
-                except Exception as m_err:
-                    print(f"⚠️ Model {model_name} attempt note: {m_err}")
+                if response:
+                    break
 
             if not response or not response.text:
-                raise RuntimeError("No response received from Gemini models")
+                raise RuntimeError(f"All Gemini models and keys exhausted or unavailable (last error: {last_err})")
 
             data = json.loads(response.text)
             if isinstance(data, list) and len(data) > 0:
@@ -494,19 +541,25 @@ You MUST return a JSON object with these EXACT keys:
     # Generates Gen-Z 10-Second Gist (Lead + 3 Bullets + Grounded Tags)
     # =========================================================================
     paragraphs = [p.strip() for p in body.split("\n\n") if len(p.strip()) > 25]
+    if not paragraphs and body:
+        paragraphs = [p.strip() for p in re.split(r'\n+', body) if len(p.strip()) > 25]
     first_p = paragraphs[0] if paragraphs else title
     
-    # Split sentences for 3 clean bullets with relative-day stripping
-    raw_sentences = [
-        strip_relative_time_leakage(s.strip())
-        for s in re.split(r"(?<=[.!?।])\s+", first_p)
-        if len(strip_relative_time_leakage(s.strip())) > 10
-    ]
-    lead_summary = raw_sentences[0] if raw_sentences else strip_relative_time_leakage(title[:120] + "...")
+    # Collect meaningful sentences across all available scraped paragraphs
+    all_clean_sentences = []
+    for p in (paragraphs if paragraphs else [title]):
+        for s in re.split(r"(?<=[.!?।])\s+", p):
+            cleaned = strip_relative_time_leakage(s.strip())
+            cleaned = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', cleaned)
+            cleaned = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', cleaned).strip()
+            if len(cleaned) > 15:
+                all_clean_sentences.append(cleaned)
     
-    b1 = raw_sentences[0] if len(raw_sentences) > 0 else strip_relative_time_leakage(title)
-    b2 = raw_sentences[1] if len(raw_sentences) > 1 else (strip_relative_time_leakage(paragraphs[1][:140]) if len(paragraphs) > 1 else "সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ করছে।")
-    b3 = raw_sentences[2] if len(raw_sentences) > 2 else "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
+    lead_summary = all_clean_sentences[0] if all_clean_sentences else strip_relative_time_leakage(title[:120])
+    
+    b1 = all_clean_sentences[0] if len(all_clean_sentences) > 0 else strip_relative_time_leakage(title)
+    b2 = all_clean_sentences[1] if len(all_clean_sentences) > 1 else (paragraphs[1][:140] if len(paragraphs) > 1 else ("সংশ্লিষ্ট কর্তৃপক্ষ বিষয়টি পর্যবেক্ষণ ও বাস্তবায়ন করছে।" if is_bangla_source else "Official bodies and stakeholders are coordinating on procedures."))
+    b3 = all_clean_sentences[2] if len(all_clean_sentences) > 2 else ("নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।" if is_bangla_source else "Follow-up regulatory directives are scheduled to take effect.")
 
     def clean_h_bullet(b_raw: str) -> str:
         s = strip_relative_time_leakage(str(b_raw))
@@ -515,31 +568,32 @@ You MUST return a JSON object with these EXACT keys:
         return s.strip()
 
     bullets_bn = [clean_h_bullet(b) for b in [b1, b2, b3]] if is_bangla_source else [
-        f"Core Event: {title[:100]}",
-        "Official representatives and regulatory bodies are monitoring developments.",
-        "Next procedures are scheduled to take effect in the coming days."
+        f"{title} বিষয়ে প্রয়োজনীয় পদক্ষেপ গ্রহণ করা হয়েছে।",
+        clean_h_bullet(b2),
+        clean_h_bullet(b3)
     ]
     bullets_en = [clean_h_bullet(b) for b in [b1, b2, b3]] if not is_bangla_source else [
-        f"Core Event: {title[:100]}",
-        "Official bodies and stakeholders are coordinating on executive procedures.",
-        "Follow-up directives are expected following departmental review."
+        f"Event Update: {title[:100]}",
+        clean_h_bullet(b2),
+        clean_h_bullet(b3)
     ]
     
     details_text = paragraphs[1] if len(paragraphs) > 1 else first_p
     if len(details_text) > 350:
         details_text = details_text[:340] + "..."
 
+    cat_label = primary_cat.replace('_', ' ').title()
     buzz = DailyBuzzItem(
-        title_bn=title if is_bangla_source else f"{title} (সংক্ষিপ্ত সার)",
-        title_en=title if not is_bangla_source else f"Summary: {title}",
-        summary_bn=lead_summary if is_bangla_source else "উক্ত বিষয়ে সংশ্লিষ্ট বিভাগ সমন্বিত পদক্ষেপ গ্রহণ করছে।",
-        summary_en=lead_summary if not is_bangla_source else "A key development that impacts policy, regulatory frameworks, and citizen welfare.",
+        title_bn=title if is_bangla_source else f"{title} (সংক্ষিপ্ত বিবরণ)",
+        title_en=title if not is_bangla_source else f"[{cat_label}] {title}",
+        summary_bn=lead_summary if is_bangla_source else f"{title} সম্পর্কিত সামগ্রিক পরিস্থিতি পর্যালোচনা করা হচ্ছে।",
+        summary_en=lead_summary if not is_bangla_source else f"Significant policy and governance development regarding {title[:90]}.",
         why_it_matters_bn="দেশের সার্বিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি তাৎপর্যপূর্ণ।",
         why_it_matters_en="Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
         interest_categories=cluster.matched_categories,
         published_at=effective_published_at,
         lead_bn=lead_summary if is_bangla_source else f"{title} সম্পর্কিত গুরুত্বপূর্ণ পদক্ষেপ গ্রহণ করা হয়েছে।",
-        lead_en=lead_summary if not is_bangla_source else f"Key executive and policy developments underway regarding {title}.",
+        lead_en=lead_summary if not is_bangla_source else f"Key executive and policy developments underway regarding {title[:90]}.",
         bullets_bn=bullets_bn,
         bullets_en=bullets_en,
         impact_bn="সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",

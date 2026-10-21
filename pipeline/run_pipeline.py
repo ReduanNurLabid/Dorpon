@@ -35,11 +35,14 @@ def run_hourly_buzz(limit: int = 8):
     print(f"⚡ DORPON DAILY HOURLY INGESTION: {timestamp_str}")
     print(f"========================================================")
     
-    # 1. Fetch fresh candidate articles (strictly within last 2.5 hours for Live Hourly Wires)
-    candidates = fetch_rss_candidates(max_age_hours=2.5)
-    if not candidates:
-        print("⚠️ No articles in 2.5h window, checking up to 5 hours...")
-        candidates = fetch_rss_candidates(max_age_hours=5.0)
+    # 1. Fetch fresh candidate articles (progressively widening window if needed)
+    candidates = fetch_rss_candidates(max_age_hours=3.0)
+    if not candidates or len(candidates) < limit:
+        print("⚠️ Candidates pool small in 3h window, expanding to 6 hours...")
+        candidates = fetch_rss_candidates(max_age_hours=6.0)
+    if not candidates or len(candidates) < limit:
+        print("⚠️ Candidates pool small in 6h window, expanding to 12 hours...")
+        candidates = fetch_rss_candidates(max_age_hours=12.0)
     if not candidates:
         print("❌ No fresh articles fetched. Exiting.")
         return None
@@ -47,7 +50,6 @@ def run_hourly_buzz(limit: int = 8):
     # 2. Cross-lingual deduplication & clustering (fast in-memory on titles & RSS summaries)
     print(f"\n🔍 Cross-lingual entity clustering on fresh candidates...")
     clusters = cluster_and_tag_articles(candidates)
-    print(f"   Generated {len(clusters)} unique event clusters.")
     print(f"   Generated {len(clusters)} unique event clusters.")
     
     # 4. Cross-Run Memory & Deduplication
@@ -60,7 +62,8 @@ def run_hourly_buzz(limit: int = 8):
         stopwords = {
             "the", "and", "for", "with", "from", "that", "this", "news", "daily", "dorpon",
             "bangladesh", "latest", "update", "এবং", "থেকে", "করে", "হয়েছে", "হবে", "হয়", "জন্য",
-            "হিসেবে", "নিয়ে", "পর", "বলা", "বলে", "সব", "এক", "দুই"
+            "হিসেবে", "নিয়ে", "পর", "বলা", "বলে", "সব", "এক", "দুই", "করা", "হতে", "তার", "তাদের",
+            "dhaka", "today", "report", "breaking", "update"
         }
         return {w for w in words if w not in stopwords}
 
@@ -71,7 +74,8 @@ def run_hourly_buzz(limit: int = 8):
 
         for hist in history_list:
             h_daily = hist.get("daily_buzz") or {}
-            h_text = f"{hist.get('story_id', '')} {h_daily.get('title_en', '')} {h_daily.get('title_bn', '')} {' '.join(hist.get('tags', []))}"
+            # Match specifically against historical headlines, NOT the entire 50-token payload with tags
+            h_text = f"{h_daily.get('title_en', '')} {h_daily.get('title_bn', '')}"
             h_tokens = extract_clean_tokens(h_text)
             h_ents = extract_canonical_entities(h_text)
 
@@ -94,20 +98,20 @@ def run_hourly_buzz(limit: int = 8):
             if (c_tokens & hegseth_terms) and (c_tokens & israel_terms) and (h_tokens & hegseth_terms) and (h_tokens & israel_terms):
                 return hist
 
-            # 2. Canonical entity overlap
+            # 2. Canonical entity overlap with specific content match
             specific_overlap = (c_ents & h_ents) - GENERIC_THEMATIC_ENTITIES
             if specific_overlap:
-                # If they share specific entities and at least 1 content token
-                if c_tokens & h_tokens:
+                overlap_tokens = c_tokens & h_tokens
+                if len(overlap_tokens) >= 3 and len(c_tokens) > 0 and (len(overlap_tokens) / len(c_tokens) >= 0.45):
                     return hist
 
-            # 3. High token overlap
+            # 3. High Jaccard token overlap on titles
             if c_tokens and h_tokens:
                 intersection = c_tokens & h_tokens
                 union = c_tokens | h_tokens
-                if union and (len(intersection) / len(union) >= 0.40):
+                if union and (len(intersection) / len(union) >= 0.50):
                     return hist
-                if len(intersection) >= 3:
+                if len(c_tokens) >= 4 and (len(intersection) / len(c_tokens) >= 0.60):
                     return hist
 
         return None
@@ -138,11 +142,14 @@ def run_hourly_buzz(limit: int = 8):
             print(f"   ⏩ Skipping duplicate topic in current batch: {cluster.primary_title[:50]} (entity: {specific_entities})")
             continue
             
-        # Title token similarity check within current batch
+        # Title token similarity check within current batch (normalized Jaccard)
         art_tokens = extract_clean_tokens(cluster.primary_title)
         is_duplicate = False
         for prev_tokens in seen_story_tokens:
-            if len(art_tokens & prev_tokens) >= 2:
+            inter = art_tokens & prev_tokens
+            uni = art_tokens | prev_tokens
+            jaccard = len(inter) / max(len(uni), 1)
+            if jaccard >= 0.50 or (len(art_tokens) >= 4 and len(inter) / len(art_tokens) >= 0.65):
                 is_duplicate = True
                 break
         if is_duplicate:

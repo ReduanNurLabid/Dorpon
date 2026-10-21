@@ -1,230 +1,115 @@
 {
-  "updated_at": "2026-10-20T20:33:43.860485",
-  "total_stories": 6,
+  "updated_at": "2026-10-21T23:12:45.418424",
+  "total_stories": 2,
   "stories": [
     {
-      "story_id": "a4bc6f6d-97b9-5db7-a022-bf6df5be3e1a",
+      "story_id": "e4737dca-9fb9-5e23-ad43-d3ab20c7e7ea",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
       ],
       "tags": [
-        "#MeghnaAlam",
-        "#BNP",
-        "#ReservedSeats",
-        "#BangladeshPolitics"
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/PM-14.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-21T16:46:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.0769,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/sports-strengthen-the-spirit-of-camaraderie-harmony-and-patriotism-prime-minister/",
+          "title": "ক্রীড়া সৌহার্দ্য, সম্প্রীতি ও দেশপ্রেমের চেতনাকে সুদৃঢ় করে : প্রধানমন্ত্রী",
+          "snippet": "ক্রীড়া সৌহার্দ্য, সম্প্রীতি ও দেশপ্রেমের চেতনাকে সুদৃঢ় করে : প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সুস্থ ও আত্মপ্রত্যয়ী জাতি গঠনে খেলাধুলার বিকল্প নেই: প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Sports Are Essential for Building a Confident Nation: PM Tarique Rahman",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, ক্রীড়া সৌহার্দ্য ও দেশপ্রেমের চেতনা সুদৃঢ় করার পাশাপাশি একটি সুস্থ জাতি গঠনে অপরিসীম ভূমিকা পালন করে।",
+        "summary_en": "Prime Minister Tarique Rahman stated that sports play a vital role in building a healthy nation and fostering patriotism.",
+        "why_it_matters_bn": "স্কুল পর্যায়ে ক্রীড়া শিক্ষা অন্তর্ভুক্ত হওয়ায় তরুণ প্রজন্ম খেলাধুলাকে পেশা হিসেবে গ্রহণ করার সুযোগ পাবে।",
+        "why_it_matters_en": "The inclusion of sports education at the school level will create opportunities for youth to pursue sports professionally.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T16:46:52+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান বলেছেন, ক্রীড়া সৌহার্দ্য ও দেশপ্রেমের চেতনা সুদৃঢ় করার পাশাপাশি একটি সুস্থ জাতি গঠনে অপরিসীম ভূমিকা পালন করে।",
+        "lead_en": "Prime Minister Tarique Rahman stated that sports play a vital role in building a healthy nation and fostering patriotism.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী আরাফাত রহমান কোকোর স্মরণে আয়োজিত ১৮তম জাতীয় সামার অ্যাথলেটিক্স প্রতিযোগিতা উপলক্ষে বিশেষ বাণী দিয়েছেন।",
+          "আগামী ২৩ থেকে ২৫ অক্টোবর বাংলাদেশ অ্যাথলেটিক্স ফেডারেশনের উদ্যোগে এই জাতীয় প্রতিযোগিতা অনুষ্ঠিত হবে।",
+          "সরকার স্কুল পর্যায় থেকেই ক্রীড়া শিক্ষাকে সিলেবাসের অন্তর্ভুক্ত করেছে যাতে ক্রীড়া একটি পেশা হিসেবে প্রতিষ্ঠিত হয়।"
+        ],
+        "bullets_en": [
+          "The Prime Minister issued a special message for the 18th National Summer Athletics Competition dedicated to Arafat Rahman Koko.",
+          "The national competition will be held from October 23 to 25 under the initiative of the Bangladesh Athletics Federation.",
+          "The government has integrated sports education into the school curriculum to establish sports as a viable profession."
+        ],
+        "impact_bn": "স্কুল পর্যায়ে ক্রীড়া শিক্ষা অন্তর্ভুক্ত হওয়ায় তরুণ প্রজন্ম খেলাধুলাকে পেশা হিসেবে গ্রহণ করার সুযোগ পাবে।",
+        "impact_en": "The inclusion of sports education at the school level will create opportunities for youth to pursue sports professionally.",
+        "details_bn": "বাংলাদেশ অ্যাথলেটিক্স ফেডারেশনের উদ্যোগে প্রয়াত ক্রীড়া সংগঠক আরাফাত রহমান কোকোর স্মৃতির প্রতি শ্রদ্ধা জানিয়ে আগামী ২৩-২৫ অক্টোবর কোকো ১৮তম জাতীয় সামার অ্যাথলেটিক্স প্রতিযোগিতা-২০২৬ অনুষ্ঠিত হতে যাচ্ছে। এই আয়োজন দেশের ক্রীড়াঙ্গনকে আন্তর্জাতিক মানে উন্নীত করতে, নতুন প্রতিভা বিকাশ এবং তৃণমূল পর্যায়ে অ্যাথলেটিক্সের ভিত্তি শক্তিশালী করতে গুরুত্বপূর্ণ ভূমিকা রাখবে বলে প্রত্যাশা করা হচ্ছে। বর্তমান সরকার ক্রীড়াকে পেশা হিসেবে প্রতিষ্ঠিত করতে স্কুল পর্যায় থেকেই ক্রীড়া শিক্ষাকে সিলেবাসের অন্তর্ভুক্ত করেছে।",
+        "details_en": "Organized by the Bangladesh Athletics Federation to honor late sports organizer Arafat Rahman Koko, the 18th National Summer Athletics Competition 2026 is scheduled to take place from October 23 to 25. This event is expected to play a crucial role in elevating the country's sports arena to international standards, developing new talents, and strengthening the foundation of athletics at the grassroots level. The current government has integrated sports education into the school curriculum to establish sports as a profession."
+      }
+    },
+    {
+      "story_id": "8d9284f9-f271-58a0-ace2-800d89037b60",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T19:32:52+00:00",
+      "published_at": "2026-10-21T15:47:31+00:00",
       "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.3331,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/entertainment/news/1170390",
-          "title": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম",
-          "snippet": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম"
+          "url": "https://www.jagonews24.com/country/news/1170690",
+          "title": "দেশের অর্থনীতি ক্রান্তিকাল অতিক্রম করছে: প্রধানমন্ত্রীর উপদেষ্টা",
+          "snippet": "দেশের অর্থনীতি ক্রান্তিকাল অতিক্রম করছে: প্রধানমন্ত্রীর উপদেষ্টা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খালেদা জিয়ার মতো সাজতে চেষ্টা করিনি: মেঘনা আলম",
-        "title_en": "Did Not Try to Imitate Khaleda Zia's Appearance: Meghna Alam",
-        "summary_bn": "জাতীয় সংসদের সংরক্ষিত নারী আসনের উপ-নির্বাচনে বিএনপির মনোনয়ন চেয়ে আলোচনার জন্ম দেওয়া রাজনৈতিক প্রশিক্ষক ও মডেল মেঘনা আলম জানিয়েছেন, তিনি সাবেক প্রধানমন্ত্রী বেগম খালেদা জিয়ার মতো সাজতে চেষ্টা করেননি। বিএনপির মনোনয়ন ফরম জমাদানের সময় তার বাহ্যিক রূপ নিয়ে বিভিন্ন মহলে আলোচনা শুরু হওয়ার পর তিনি এই স্পষ্টীকরণ দেন। রাজনৈতিক অঙ্গনে নতুন মুখের অন্তর্ভুক্তি এবং প্রার্থীদের প্রোটোকল নিয়ে নানা আলোচনার মধ্যে তার এই বক্তব্য সামনে এলো।",
-        "summary_en": "Political trainer and model Meghna Alam, who recently sought BNP nomination for the reserved women's seat in Parliament, stated that she did not intentionally try to imitate former Prime Minister Khaleda Zia's appearance. She made this clarification following public discussions and social media commentary regarding her attire and styling during the nomination submission. Her remarks come amid widespread debates within political circles regarding candidate selection and public presentation styles.",
-        "why_it_matters_bn": "এই ঘটনাটি রাজনৈতিক দলে নতুন মুখের অংশগ্রহণ এবং প্রার্থীর ব্যক্তি ইমেজ ও দলীয় ইতিহাসের উপস্থাপনার ক্ষেত্রে জনসচেতনতার গুরুত্বকে ফুটিয়ে তোলে।",
-        "why_it_matters_en": "This incident highlights the intersection of personal branding, political optics, and public perception in contemporary party nomination processes.",
+        "title_bn": "দেশের অর্থনীতি কঠিন সময় অতিক্রম করছে: অর্থ উপদেষ্টা ড. তিতুমীর",
+        "title_en": "Bangladesh Economy is Passing Through a Critical Phase: Finance Adviser",
+        "summary_bn": "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা উপদেষ্টা ড. রাশেদ আল মাহমুদ তিতুমীর জানিয়েছেন যে দেশের অর্থনীতি বর্তমানে একটি ক্রান্তিকাল অতিক্রম করছে।",
+        "summary_en": "Prime Minister's Finance and Planning Adviser Dr. Rashed Al Mahmud Titumir stated that the national economy is currently passing through a critical phase.",
+        "why_it_matters_bn": "অর্থনৈতিক সংকটের কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় ও মূল্যস্ফীতির চাপ অব্যাহত রয়েছে।",
+        "why_it_matters_en": "The ongoing economic challenges continue to exert pressure on the cost of living and inflation for ordinary citizens.",
         "interest_categories": [
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T19:32:52+00:00"
-      }
-    },
-    {
-      "story_id": "8bf821d3-2c54-543d-abbd-ccfb17c23ae1",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#ConsumerTech",
-        "#CircularEconomy",
-        "#RefurbishedHardware"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T20:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
-          "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
-          "snippet": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লজিটেক জি প্রো এক্স ২ সুপারস্ট্রাইক গেমিং মাউসে ৩৫ শতাংশ ছাড়",
-        "title_en": "Logitech Offers 35 Percent Discount on Refurbished G Pro X2 Superstrike Wireless Gaming Mouse",
-        "summary_bn": "লজিটেক তাদের অফিসিয়াল ইবে স্টোরের মাধ্যমে রিফার্বিশড 'জি প্রো এক্স ২ সুপারস্ট্রাইক' ওয়ারলেস গেমিং মাউসে ৩৫ শতাংশ মূল্যছাড় ঘোষণা করেছে। এই ডিভাইসটিতে মেকানিক্যাল সুইচের অনুভূতি তৈরি করতে উন্নত হ্যাপটিক ফিডব্যাক প্রযুক্তি ব্যবহার করা হয়েছে। পিসি গেমাররা এখন কম খরচে সার্টিফাইড ফ্ল্যাগশিপ গেমিং হার্ডওয়্যার সংগ্রহের সুযোগ পাচ্ছেন।",
-        "summary_en": "Logitech is offering a 35 percent discount on its certified refurbished G Pro X2 Superstrike wireless gaming mouse via its official eBay store. The right-handed gaming peripheral utilizes haptic feedback technology to simulate the tactile response of mechanical switches. The deal offers consumers an affordable entry point to high-end wireless hardware.",
-        "why_it_matters_bn": "সার্টিফাইড রিফার্বিশড প্রযুক্তির প্রসার গ্রাহকদের সাশ্রয়ী মূল্যে প্রিমিয়াম গ্যাজেট ব্যবহারের সুযোগ দেয় এবং বিশ্বব্যাপী ইলেকট্রনিক বর্জ্য হ্রাসে সহায়তা করে।",
-        "why_it_matters_en": "The accessibility of certified refurbished hardware lowers financial barriers for advanced consumer technology while promoting circular economy practices in the tech sector.",
-        "interest_categories": [
-          "governance_law"
+        "published_at": "2026-10-21T15:47:31+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা উপদেষ্টা ড. রাশেদ আল মাহমুদ তিতুমীর জানিয়েছেন যে দেশের অর্থনীতি বর্তমানে একটি ক্রান্তিকাল অতিক্রম করছে।",
+        "lead_en": "Prime Minister's Finance and Planning Adviser Dr. Rashed Al Mahmud Titumir stated that the national economy is currently passing through a critical phase.",
+        "bullets_bn": [
+          "দেশের বর্তমান অর্থনৈতিক অবস্থা নিয়ে মন্তব্য প্রকাশ করেছেন অর্থ উপদেষ্টা।",
+          "ড. রাশেদ আল মাহমুদ তিতুমীর অর্থনৈতিক সংকটের এই বিষয়টি স্পষ্টভাবে তুলে ধরেন।",
+          "অর্থনৈতিক চ্যালেঞ্জ মোকাবিলায় সরকারের পরবর্তী পদক্ষেপ নির্ধারণের কাজ চলছে।"
         ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:00:00+00:00"
-      }
-    },
-    {
-      "story_id": "493ceec7-9494-5521-a81c-52d62955da05",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#LakshmipurNews",
-        "#KrishakDal",
-        "#RuleOfLaw",
-        "#CrimeAndPolitics"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T20:05:03+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/975782/%E0%A6%B9%E0%A6%A0%E0%A6%BE%E0%A7%8E-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%A2%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%AC%E0%A6%BE%E0%A6%A6-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%A7%E0%A6%B0-%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%95%E0%A6%A6%E0%A6%B2",
-          "title": "হঠাৎ বাসায় ঢুকে অপবাদ দিয়ে দম্পতিকে মারধর: কৃষকদল নেতা আটক",
-          "snippet": "হঠাৎ বাসায় ঢুকে অপবাদ দিয়ে দম্পতিকে মারধর: কৃষকদল নেতা আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে প্রবাসী দম্পতিকে মারধর ও জিম্মির ঘটনায় কৃষকদল নেতা আটক",
-        "title_en": "Krishak Dal Leader Arrested for Assaulting Expatriate Couple in Lakshmipur",
-        "summary_bn": "লক্ষ্মীপুরের রায়পুরে আত্মীয়ের বাসায় বেড়াতে আসা এক প্রবাসী দম্পতিকে জিম্মি করে মারধরের অভিযোগে রায়পুর পৌর কৃষক দলের সভাপতি প্রার্থী রিয়াদ হাসান বয়াতিকে আটক করেছে পুলিশ। মঙ্গলবার সন্ধ্যায় রায়পুর বাজারের দেনায়েতপুর এলাকা থেকে তাকে আটক করা হয়। ভুক্তভোগীদের অভিযোগের ভিত্তিতে পুলিশ এ বিষয়ে আইনগত ব্যবস্থা গ্রহণ করছে।",
-        "summary_en": "Police have arrested Riyad Hasan Boyati, a Krishak Dal leader, for allegedly taking an expatriate couple hostage and physically assaulting them at a relative's house in Lakshmipur's Raipur. The arrest was made on Tuesday evening from the Denayetpur area of Raipur bazar following complaints from the victims. Law enforcement authorities are taking necessary legal steps regarding the incident.",
-        "why_it_matters_bn": "রাজনৈতিক পদপ্রত্যাশীদের দ্বারা সংঘটিত এ ধরনের অপরাধমূলক কর্মকাণ্ড রাজনৈতিক দলের শৃঙ্খলা এবং স্থানীয় আইনশৃঙ্খলা পরিস্থিতির ওপর নেতিবাচক প্রভাব ফেলে।",
-        "why_it_matters_en": "Such criminal acts committed by political aspirants underscore the critical challenge of maintaining grassroots discipline and upholding the rule of law.",
-        "interest_categories": [
-          "governance_law"
+        "bullets_en": [
+          "The finance adviser made critical observations regarding the country's economic state.",
+          "Dr. Rashed Al Mahmud Titumir clearly highlighted the ongoing economic challenges.",
+          "Work is underway to determine the government's next steps to tackle the economic crisis."
         ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:05:03+00:00"
-      }
-    },
-    {
-      "story_id": "0b380e60-626f-5279-be53-b362be32dbe2",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#BirthRegistration",
-        "#DigitalBangladesh",
-        "#PublicService"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T19:38:05+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/975781/%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AE-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81-%E0%A6%A8%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A7%AD-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
-          "title": "জন্ম-মৃত্যু নিবন্ধন কার্যক্রম ৭ দিন বন্ধ",
-          "snippet": "জন্ম-মৃত্যু নিবন্ধন কার্যক্রম ৭ দিন বন্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সফটওয়্যার রক্ষণাবেক্ষণের কারণে সাত দিন জন্ম ও মৃত্যু নিবন্ধন কার্যক্রম বন্ধ",
-        "title_en": "Birth and Death Registration Activities Suspended for Seven Days Due to Software Maintenance",
-        "summary_bn": "রেজিস্ট্রার জেনারেলের কার্যালয়ের সিদ্ধান্ত অনুযায়ী বিডিআরআইএস সফটওয়্যার রক্ষণাবেক্ষণের কাজের জন্য জন্ম ও মৃত্যু নিবন্ধন সেবা সাত দিন বন্ধ থাকবে। ১৯ অক্টোবর সকাল ৬টা থেকে ২৫ অক্টোবর সকাল ৬টা পর্যন্ত এই অনলাইন কার্যক্রম পুরোপুরি স্থগিত থাকবে। এই রক্ষণাবেক্ষণ কাজের ফলে নির্ধারিত সময়ের মধ্যে নাগরিকরা জন্ম ও মৃত্যু সনদের অনলাইন আবেদন বা সংগ্রহ করতে পারবেন না।",
-        "summary_en": "Birth and death registration services have been suspended for seven days due to maintenance work on the BDRIS software, according to the Office of the Registrar General. The online registration activities remain completely halted from October 19 morning until October 25 morning. Consequently, citizens will be temporarily unable to apply for or download birth and death certificates during this period.",
-        "why_it_matters_bn": "এই সাময়িক স্থগিতাদেশের ফলে জরুরি প্রয়োজনে জন্ম ও মৃত্যু সনদ গ্রহণে ইচ্ছুক নাগরিকদের কার্যক্রম ব্যাহত হবে এবং সেবা প্রাপ্তিতে সাময়িক দীর্ঘসূত্রিতা তৈরি হবে।",
-        "why_it_matters_en": "This temporary suspension disrupts routine service delivery and delays urgent administrative procedures for citizens requiring birth and death certificates.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T19:38:05+00:00"
-      }
-    },
-    {
-      "story_id": "c3c91d26-15fc-53f4-b1fd-9e499e7a41b3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#PressFreedom",
-        "#JournalistSafety",
-        "#ChandpurNews"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T18:57:43+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/975778/%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%95-%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F%E2%80%99",
-          "title": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা",
-          "snippet": "‘স্বেচ্ছাসেবক দলের কয়েকজনকে নিয়ে নিউজ করায়’ সাংবাদিকের ওপর হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চাঁদপুরের ফরিদগঞ্জে সংবাদ প্রকাশের জেরে সাংবাদিক মহিউদ্দিনের ওপর হামলা",
-        "title_en": "Daily Ittefaq Journalist Mohiuddin Attacked in Chandpur Over News Report",
-        "summary_bn": "চাঁদপুরের ফরিদগঞ্জ বাজারে দৈনিক ইত্তেফাকের প্রতিনিধি মহিউদ্দিনের ওপর হামলার ঘটনা ঘটেছে। মঙ্গলবার সকালে ফরিদগঞ্জ পৌর ছাত্রদলের সাবেক সভাপতি কামরুল পাটোয়ারীর নেতৃত্বে এই হামলা চালানো হয় বলে অভিযোগ উঠেছে। স্বেচ্ছাসেবক দলের কিছু নেতার কার্যক্রম নিয়ে সংবাদ প্রকাশের জের ধরে এই হামলা হয়েছে বলে প্রত্যক্ষদর্শীরা জানিয়েছেন।",
-        "summary_en": "Journalist Mohiuddin, the Faridganj correspondent for the Daily Ittefaq, was assaulted in Chandpur's Faridganj market. The attack, which occurred on Tuesday morning, was reportedly led by former Faridganj municipal Chhatra Dal president Kamrul Patwary. Eyewitnesses state the assault stemmed from a recent news report published regarding certain activities of Jatiyatabadi Swechchhasebak Dal leaders.",
-        "why_it_matters_bn": "সাংবাদিকদের ওপর এ ধরনের রাজনৈতিক হামলা সংবাদমাধ্যমের স্বাধীনতা ও পেশাগত সুরক্ষার ওপর সরাসরি আঘাত এবং আইনের শাসন প্রতিষ্ঠার ক্ষেত্রে একটি বড় অন্তরায়।",
-        "why_it_matters_en": "Such politically motivated assaults on journalists directly threaten media freedom and professional safety, undermining the rule of law.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T18:57:43+00:00"
-      }
-    },
-    {
-      "story_id": "febd7ecb-0a16-528a-8291-94912b88d622",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#TigerShroff",
-        "#MumbaiPolice",
-        "#CrimeNews",
-        "#BollywoodSecurity"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2F5ju3udc8%2F2.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-20T18:48:59+00:00",
-      "is_bcs_pro_selected": false,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/jrfyjb495g",
-          "title": "টাইগার শ্রফের গাড়িতে গুলির ঘটনায় গ্রেপ্তার তরুণের মা বললেন, ‘ছেলেকে ফাঁদে ফেলে এই কাজ করানো হয়েছে’",
-          "snippet": "টাইগার শ্রফের গাড়িতে গুলির ঘটনায় গ্রেপ্তার তরুণের মা বললেন, ‘ছেলেকে ফাঁদে ফেলে এই কাজ করানো হয়েছে’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বলিউড অভিনেতা টাইগার শ্রফের গাড়িতে গুলিবর্ষণের ঘটনায় গ্রেপ্তার তিন, মা বললেন ছেলে ফাঁদে পড়েছে",
-        "title_en": "Three Arrested Over Shooting at Bollywood Actor Tiger Shroff's Car in Mumbai",
-        "summary_bn": "মুম্বাইয়ে বলিউড অভিনেতা টাইগার শ্রফের গাড়ি লক্ষ্য করে গুলি চালানোর ঘটনায় হরিয়ানা ও বিহার থেকে তিনজনকে গ্রেপ্তার করেছে পুলিশ। গত রোববার জুহু এলাকায় এই হামলায় অভিনেতার গাড়িচালক ও এক পথচারী আহত হন। এদিকে গ্রেপ্তার রেহানের মা দাবি করেছেন, তাঁর ছেলেকে ফাঁদে ফেলে এই অপরাধে জড়ানো হয়েছে।",
-        "summary_en": "Mumbai Police have arrested three suspects in connection with the shooting at Bollywood actor Tiger Shroff's car in Juhu on Sunday, which left his driver and a pedestrian injured. Following the arrests made in Rajasthan's Kota, the mother of one of the suspects claimed her son Rehan was trapped and manipulated into the crime.",
-        "why_it_matters_bn": "এই ঘটনা সেলিব্রিটি নিরাপত্তা এবং সংঘবদ্ধ অপরাধ চক্রের ক্রমবর্ধমান হুমকির বিষয়টি নতুন করে সামনে এনেছে।",
-        "why_it_matters_en": "This incident highlights escalating security concerns for public figures and the operational reach of organized crime syndicates in urban centers.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T18:48:59+00:00"
+        "impact_bn": "অর্থনৈতিক সংকটের কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় ও মূল্যস্ফীতির চাপ অব্যাহত রয়েছে।",
+        "impact_en": "The ongoing economic challenges continue to exert pressure on the cost of living and inflation for ordinary citizens.",
+        "details_bn": "দেশের অর্থনীতি দীর্ঘ সময় ধরে উচ্চ মূল্যস্ফীতি, বৈদেশিক মুদ্রার রিজার্ভের সংকট এবং ব্যাংকিং খাতের অস্থিরতার মধ্য দিয়ে যাচ্ছে। বর্তমান অন্তর্বর্তীকালীন সরকার অর্থনীতিকে স্থিতিশীল করতে এবং শৃঙ্খলা ফিরিয়ে আনতে বিভিন্ন সংস্কারমূলক পদক্ষেপ গ্রহণ করছে। এই প্রেক্ষাপটে নীতিনির্ধারকরা অর্থনৈতিক চ্যালেঞ্জগুলো প্রকাশ্যে স্বীকার করে তা উত্তরণের চেষ্টা চালিয়ে যাচ্ছেন।",
+        "details_en": "The country's economy has been navigating through high inflation, foreign exchange reserve deficits, and instability in the banking sector for a prolonged period. The current interim government has been undertaking various reform measures to stabilize the economy and restore financial discipline. In this context, policymakers are openly acknowledging these economic hurdles while pursuing corrective measures."
       }
     }
   ]
