@@ -244,6 +244,7 @@ def synthesize_story_with_ai(
     title = primary_art.title
     body = primary_art.body_text or primary_art.summary_raw or title
     is_bangla_source = primary_art.language == "bn"
+    effective_published_at = primary_art.published_at or datetime.now().astimezone().isoformat()
     
     # 1. Deterministic Constitutional KB Matching
     const_matches = find_relevant_articles(f"{title} {body}")
@@ -407,7 +408,7 @@ You MUST return a JSON object with these EXACT keys:
                 why_it_matters_bn=impact_bn or (bullets_bn[0] if bullets_bn else "জাতীয় নীতি ও নাগরিক জীবনের ওপর এর প্রত্যক্ষ প্রভাব রয়েছে।"),
                 why_it_matters_en=impact_en or (bullets_en[0] if bullets_en else "Directly impacts national policy, regulatory frameworks, and citizen welfare."),
                 interest_categories=cluster.matched_categories,
-                published_at=primary_art.published_at,
+                published_at=effective_published_at,
                 lead_bn=lead_bn,
                 lead_en=lead_en,
                 bullets_bn=bullets_bn,
@@ -480,7 +481,7 @@ You MUST return a JSON object with these EXACT keys:
                 importance_score=getattr(cluster, "importance_score", 2.0),
                 rank_score=getattr(cluster, "rank_score", 1.0),
                 image_url=primary_art.image_url,
-                published_at=primary_art.published_at,
+                published_at=effective_published_at,
                 sources=build_clean_sources(cluster.articles),
                 daily_buzz=buzz,
                 bcs_pro=bcs_pro
@@ -536,7 +537,7 @@ You MUST return a JSON object with these EXACT keys:
         why_it_matters_bn="দেশের সার্বিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি তাৎপর্যপূর্ণ।",
         why_it_matters_en="Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
         interest_categories=cluster.matched_categories,
-        published_at=primary_art.published_at,
+        published_at=effective_published_at,
         lead_bn=lead_summary if is_bangla_source else f"{title} সম্পর্কিত গুরুত্বপূর্ণ পদক্ষেপ গ্রহণ করা হয়েছে।",
         lead_en=lead_summary if not is_bangla_source else f"Key executive and policy developments underway regarding {title}.",
         bullets_bn=bullets_bn,
@@ -609,7 +610,7 @@ You MUST return a JSON object with these EXACT keys:
         importance_score=getattr(cluster, "importance_score", 2.0),
         rank_score=getattr(cluster, "rank_score", 1.0),
         image_url=primary_art.image_url,
-        published_at=primary_art.published_at,
+        published_at=effective_published_at,
         sources=build_clean_sources(cluster.articles),
         daily_buzz=buzz,
         bcs_pro=bcs_pro

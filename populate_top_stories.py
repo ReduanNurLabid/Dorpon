@@ -33,9 +33,10 @@ def clean_unpack_bullets(bullets, summary, why_it_matters, is_bangla=False):
             add_point(s)
     return output[:3]
 
-def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, categories, read_time=160, bullets_en=None, bullets_bn=None):
+def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, categories, read_time=160, bullets_en=None, bullets_bn=None, published_at=None):
     clean_en = clean_unpack_bullets(bullets_en, summary_en, why_en, is_bangla=False)
     clean_bn = clean_unpack_bullets(bullets_bn, summary_bn, why_bn, is_bangla=True)
+    pub = published_at or "2026-10-21T05:30:00+06:00"
     return {
         "title_en": title_en,
         "titleEn": title_en,
@@ -57,9 +58,12 @@ def make_buzz(title_en, title_bn, summary_en, summary_bn, why_en, why_bn, catego
         "interestCategories": categories,
         "read_time_seconds": read_time,
         "readTimeSeconds": read_time,
+        "published_at": pub,
+        "publishedAt": pub,
     }
 
-def format_story(story_id, primary_category, categories, tags, image_url, image_caption, sources, buzz):
+def format_story(story_id, primary_category, categories, tags, image_url, image_caption, sources, buzz, published_at=None):
+    pub = published_at or (buzz.get("published_at") if isinstance(buzz, dict) else None) or "2026-10-21T05:30:00+06:00"
     return {
         "story_id": story_id,
         "storyId": story_id,
@@ -72,6 +76,8 @@ def format_story(story_id, primary_category, categories, tags, image_url, image_
         "imageUrl": image_url,
         "image_caption": image_caption,
         "imageCaption": image_caption,
+        "published_at": pub,
+        "publishedAt": pub,
         "is_bcs_pro_selected": False,
         "isBcsProSelected": False,
         "sources": sources,
@@ -92,7 +98,8 @@ def build_top_stories():
         why_en="1. European Economic Contagion: As France battles persistent sovereign debt pressures and fiscal consolidation, prolonged industrial disruption and urban paralyzation threaten European supply chains and investor confidence.\n2. Crisis of Democratic Policing: France faces severe scrutiny from Amnesty International and the European Court of Human Rights over militarized crowd-control doctrines, highlighting a widening chasm between working-class youth and state institutions.\n3. Political Fragility: Prime Minister Lecornu’s reliance on curfews underscores how inflation-driven cost-of-living crises can rapidly destabilize governing coalitions in advanced democracies.",
         why_bn="১. ইউরোপীয় অর্থনীতিতে প্রভাব: জীবনযাত্রার সংকটে ইউরোপের দ্বিতীয় বৃহত্তম অর্থনীতির এই অচলাবস্থা আঞ্চলিক সরবরাহ চেইনে বড় চাপ তৈরি করছে।\n২. পুলিশি জবাবদিহিতা ও মানবাধিকার: তরুণ ও অধিকারকর্মীদের ওপর নির্বিচার টিয়ার গ্যাস ও বুলেট ব্যবহারের ফলে রাষ্ট্রীয় কাঠামোর ওপর জনআস্থা নজিরবিহীনভাবে হ্রাস পেয়েছে।\n৩. রাজনৈতিক স্থায়িত্ব: নিত্যপণ্যের মূল্যবৃদ্ধি নিয়ন্ত্রণে ব্যর্থ হলে ইউরোপের যেকোনো গণতান্ত্রিক সরকার গভীর রাজনৈতিক অস্তিত্ব সংকটে পড়তে পারে—ফ্রান্স তারই বাস্তব প্রমাণ।",
         categories=["international_diplomacy", "economy_business", "governance_law"],
-        read_time=180
+        read_time=180,
+        published_at="2026-10-21T05:45:00+06:00"
     )
     france_story = format_story(
         story_id="top-story-france-uprising-2026",
@@ -106,7 +113,8 @@ def build_top_stories():
             {"name": "The Guardian / Wire", "url": "http://prothomalo.com/world/europe/vlbce6rg73"},
             {"name": "Rokhaya Diallo Column", "url": "https://www.prothomalo.com/opinion/column/kalzgtfo9f"}
         ],
-        buzz=france_buzz
+        buzz=france_buzz,
+        published_at="2026-10-21T05:45:00+06:00"
     )
 
     # 2. CUET Deadlock (Item 2)
@@ -118,7 +126,8 @@ def build_top_stories():
         why_en="1. Engineering Workforce Delays: Session jams at premier technical institutions directly impede Bangladesh’s industrial engineering pipeline and IT sector graduation schedules.\n2. Public University Governance Vulnerability: Frequent top-level administrative churn without transparent succession frameworks exposes the urgent need for systemic university governance reform.\n3. Institutional Autonomy: The crisis tests UGC's capacity to mediate complex campus standoffs without prolonged political deadlocks.",
         why_bn="১. প্রকৌশল শিক্ষায় সেশনজট: চুয়েটের মতো শীর্ষ প্রযুক্তি বিদ্যাপীঠ বন্ধ থাকা মানে দেশের অবকাঠামো ও শিল্প খাতের গ্র্যাজুয়েট সরবরাহ পিছিয়ে পড়া।\n২. উপাচার্য নিয়োগ ও সুশাসন: স্বচ্ছ নীতিমালার অভাবে ঘনঘন শীর্ষ পদে রদবদল পাবলিক বিশ্ববিদ্যালয়ের স্বায়ত্তশাসন ও কার্যকারিতা মারাত্মকভাবে ক্ষতিগ্রস্ত করে।\n৩. ইউজিসির মধ্যস্থতা: এই সংকট নিরসনে ইউজিসির সুপারিশ ভবিষ্যতে অন্যান্য বিশ্ববিদ্যালয়ের প্রশাসনিক জটিলতা সমাধানে দৃষ্টান্ত হতে পারে।",
         categories=["governance_law", "national_policy", "higher_education"],
-        read_time=140
+        read_time=140,
+        published_at="2026-10-21T05:15:00+06:00"
     )
     cuet_story = format_story(
         story_id="top-story-cuet-deadlock-2026",
@@ -128,7 +137,8 @@ def build_top_stories():
         image_url=scraped[2].get("image_url", "").replace("&amp;", "&"),
         image_caption="Chittagong University of Engineering and Technology (CUET) campus remains shut amidst administrative vacuum. Photo: Prothom Alo",
         sources=[{"name": "Prothom Alo Chittagong", "url": "https://www.prothomalo.com/bangladesh/dzfhtu7pes"}],
-        buzz=cuet_buzz
+        buzz=cuet_buzz,
+        published_at="2026-10-21T05:15:00+06:00"
     )
 
     # 3. Saudi Execution of Bangladeshi Migrant (Item 1)
@@ -140,7 +150,8 @@ def build_top_stories():
         why_en="1. Consular Protection Deficit: Over 3.5 million Bangladeshi workers in Saudi Arabia drive billions in national foreign remittance, yet institutional legal defense mechanisms remain severely underfunded.\n2. Debt-Fueled Migration Trap: Predatory recruitment costs and high-interest village loans trap migrant families in multi-generational insolvency when workplace disputes or legal crises strike.\n3. Bilateral Labor Diplomacy: Re-evaluating bilateral legal aid protocols between Dhaka and Riyadh is essential to ensure fair trial rights for vulnerable overseas laborers.",
         why_bn="১. প্রবাসী আইনি সহায়তার ঘাটতি: সাড়ে ৩৫ লাখের বেশি প্রবাসী দেশের রেমিট্যান্সের চাকা সচল রাখলেও বিদেশের মাটিতে তাদের আইনি সুরক্ষার কোনো প্রাতিষ্ঠানিক সহায়তা নেই বললেই চলে।\n২. অভিবাসন ঋণের ফাঁদ: ভিটেমাটি বন্ধক রেখে যাওয়া তরুণদের ট্র্যাজেডি পরিবারগুলোকে চরম অর্থসংকটে ফেলে দেয়।\n৩. কনস্যুলার কূটনীতি: প্রবাসী শ্রমিকদের অধিকার সুরক্ষায় রিয়াদ দূতাবাসের কার্যকর হস্তক্ষেপ ও দ্বিপাক্ষিক আইনি সহায়তা চুক্তি এখন সময়ের দাবি।",
         categories=["international_diplomacy", "economy_business", "human_rights"],
-        read_time=160
+        read_time=160,
+        published_at="2026-10-21T03:45:00+06:00"
     )
     saudi_story = format_story(
         story_id="top-story-saudi-migrant-execution-2026",
@@ -150,7 +161,8 @@ def build_top_stories():
         image_url=scraped[1].get("image_url", "").replace("&amp;", "&"),
         image_caption="Devastated parents of Nazrul Islam in Akhaura, Brahmanbaria, pleading to see their son's remains. Photo: Prothom Alo",
         sources=[{"name": "Prothom Alo Brahmanbaria", "url": "https://www.prothomalo.com/bangladesh/district/nq469thd5o"}],
-        buzz=saudi_buzz
+        buzz=saudi_buzz,
+        published_at="2026-10-21T03:45:00+06:00"
     )
 
     # 4. Govt Employee Salary Increment (Item 4)
@@ -162,7 +174,8 @@ def build_top_stories():
         why_en="1. Fiscal Budget Balancing: Decoupling allowances from the higher basic pay saves the national treasury an estimated Tk 14,000 crore annually while still boosting baseline compensation.\n2. Inflation Buffering vs. Wage-Price Spiral: Boosting disposable income for public employees helps cushion real wage erosion, but must be accompanied by food supply management to prevent secondary demand-side price hikes.\n3. Civil Service Retention: Competitive public wages reduce brain drain and incentivize transparency across frontline government delivery institutions.",
         why_bn="১. রাজস্ব শৃঙ্খলা রক্ষা: মূল বেতন বাড়িয়ে বাড়িভাড়া ও অন্যান্য ভাতা সাময়িকভাবে স্থগিত রাখায় সরকারের ১৪ হাজার কোটি টাকার অতিরিক্ত দায় সাশ্রয় হয়েছে।\n২. মূল্যস্ফীতির ধাক্কা মোকাবিলা: সরকারি চাকরিজীবীদের ক্রয়ক্ষমতা কিছুটা সুরক্ষিত হলেও বাজারে পণ্যমূল্য স্থিতিশীল রাখতে কার্যকর তদারকি বজায় রাখতে হবে।\n৩. প্রশাসনিক গতিশীলতা: বেতন কাঠামো যুগোপযোগী করার মাধ্যমে মাঠপর্যায়ে সেবার মান ও প্রাতিষ্ঠানিক উদ্দীপনা বৃদ্ধির সুযোগ সৃষ্টি হবে।",
         categories=["economy_business", "governance_law", "national_policy"],
-        read_time=150
+        read_time=150,
+        published_at="2026-10-21T02:30:00+06:00"
     )
     salary_story = format_story(
         story_id="top-story-govt-salary-increment-2026",
@@ -172,7 +185,8 @@ def build_top_stories():
         image_url=scraped[4].get("image_url", "").replace("&amp;", "&"),
         image_caption="Bangladesh Secretariat, Dhaka. Finance Division issues executive directives on public pay scale. Photo: Prothom Alo",
         sources=[{"name": "Prothom Alo Business", "url": "https://www.prothomalo.com/business/economics/npqn3j5x8z"}],
-        buzz=salary_buzz
+        buzz=salary_buzz,
+        published_at="2026-10-21T02:30:00+06:00"
     )
 
     # 5. Ishraq Hossain Resignation Inquiry (Item 0)
@@ -184,7 +198,8 @@ def build_top_stories():
         why_en="1. Separation of Executive Authority: Ministers hold policy and legislative oversight; direct participation in armed law enforcement operations blurs critical constitutional boundaries.\n2. Cabinet Collective Responsibility: Public actions by individual state ministers directly impact governmental credibility and adherence to the rule of law.\n3. Municipal Election Dynamics: How the administration resolves this leadership dilemma will set a critical precedent for candidate vetting in upcoming Dhaka city corporation elections.",
         why_bn="১. ক্ষমতার স্বতন্ত্রীকরণ নীতি: নীতিনির্ধারক হিসেবে প্রতিমন্ত্রীর কাজ আইন প্রণয়ন ও তদারকি করা; অস্ত্র হাতে ব্যক্তিগত অভিযানে নামা আইন প্রয়োগকারী সংস্থার কর্তৃত্ব ও আইনি কাঠামোর সঙ্গে সাংঘর্ষিক।\n২. মন্ত্রিসভার যৌথ দায়বদ্ধতা: একজন প্রতিমন্ত্রীর অপেশাদার আচরণ পুরো সরকারের ভাবমূর্তির ওপর প্রশ্ন তোলে।\n৩. নির্বাচনী রাজনীতির সমীকরণ: ঢাকার আসন্ন সিটি নির্বাচনে মনোনয়ন প্রত্যাশী এই নেতার বিরুদ্ধে কোনো পদক্ষেপ নেওয়া হয় কি না, তার ওপর পরবর্তী রাজনৈতিক গতিপ্রকৃতি নির্ভর করছে।",
         categories=["governance_law", "national_policy", "bangladesh_politics"],
-        read_time=160
+        read_time=160,
+        published_at="2026-10-21T04:30:00+06:00"
     )
     ishraq_story = format_story(
         story_id="top-story-ishraq-cabinet-controversy-2026",
@@ -194,7 +209,8 @@ def build_top_stories():
         image_url=scraped[0].get("image_url", "").replace("&amp;", "&"),
         image_caption="Controversy surrounding State Minister Ishraq Hossain following an armed anti-narcotics drive video. Photo: Sajid Hossain / Prothom Alo",
         sources=[{"name": "Prothom Alo Politics", "url": "https://www.prothomalo.com/bangladesh/dson6y89jk"}],
-        buzz=ishraq_buzz
+        buzz=ishraq_buzz,
+        published_at="2026-10-21T04:30:00+06:00"
     )
 
     stories = [france_story, cuet_story, saudi_story, salary_story, ishraq_story]

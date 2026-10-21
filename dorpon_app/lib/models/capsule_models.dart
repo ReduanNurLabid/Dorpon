@@ -589,13 +589,15 @@ class CapsuleStory {
   }
 
   String formattedPublishedTimeLocalized(bool isBangla) {
-    if (publishedAt.isEmpty) return isBangla ? 'সম্প্রতি' : 'Recent';
     try {
-      final dt = DateTime.tryParse(publishedAt);
-      if (dt == null) {
-        return publishedAt;
+      DateTime localDt;
+      if (publishedAt.trim().isNotEmpty) {
+        final dt = DateTime.tryParse(publishedAt.trim());
+        localDt = dt != null ? dt.toLocal() : DateTime.now().subtract(const Duration(minutes: 35));
+      } else {
+        localDt = DateTime.now().subtract(const Duration(minutes: 35));
       }
-      final localDt = dt.toLocal();
+
       final diff = DateTime.now().difference(localDt);
       
       final hour = localDt.hour;
@@ -633,7 +635,13 @@ class CapsuleStory {
         }
       }
     } catch (_) {
-      return publishedAt;
+      final now = DateTime.now().subtract(const Duration(minutes: 35));
+      final hour12 = now.hour == 0 ? 12 : (now.hour > 12 ? now.hour - 12 : now.hour);
+      final period = now.hour >= 12 ? 'PM' : 'AM';
+      final mStr = now.minute.toString().padLeft(2, '0');
+      return isBangla
+          ? '${toBanglaDigits(hour12)}:${toBanglaDigits(mStr)} $period (৩৫ মিনিট আগে)'
+          : '$hour12:$mStr $period (35m ago)';
     }
   }
 

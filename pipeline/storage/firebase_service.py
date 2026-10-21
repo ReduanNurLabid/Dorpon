@@ -68,16 +68,26 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
 
         doc_ref = db.collection("daily_buzz").document(story_id)
         hourly_ref = db.collection("hourly_buzz").document(story_id)
-        pub_at = story.get("published_at") or (story.get("daily_buzz", {}) or {}).get("published_at")
+        pub_at = story.get("published_at") or (story.get("daily_buzz", {}) or {}).get("published_at") or datetime.now().astimezone().isoformat()
+        buzz_dict = dict(story.get("daily_buzz", {}))
+        buzz_dict["published_at"] = pub_at
+        buzz_dict["publishedAt"] = pub_at
+
         payload = {
             "story_id": story_id,
+            "storyId": story_id,
             "primary_category": story.get("primary_category", "governance_law"),
+            "primaryCategory": story.get("primary_category", "governance_law"),
             "interest_categories": story.get("interest_categories", []),
+            "interestCategories": story.get("interest_categories", []),
             "tags": story.get("tags", []),
             "image_url": story.get("image_url"),
+            "imageUrl": story.get("image_url"),
             "sources": story.get("sources", []),
             "published_at": pub_at,
-            "daily_buzz": story.get("daily_buzz", {}),
+            "publishedAt": pub_at,
+            "daily_buzz": buzz_dict,
+            "dailyBuzz": buzz_dict,
             "updated_at": firestore.SERVER_TIMESTAMP,
             "is_active": True
         }
