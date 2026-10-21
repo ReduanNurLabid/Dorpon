@@ -44,7 +44,7 @@ export const TopStoriesFeed: React.FC = () => {
             {CATEGORIES.map((cat) => {
               const isSelected = selectedCategory === cat;
               const label = cat === 'all' 
-                ? (isBn ? 'সকল খবর (ব্রডশিট)' : 'All Briefings (Broadsheet)') 
+                ? (isBn ? 'সব খবর' : 'All Briefings') 
                 : getLocalizedCategory(cat, isBn);
               return (
                 <button

@@ -122,7 +122,7 @@ export const Header: React.FC = () => {
               title="Listen to Audio Briefing"
             >
               <Headphones className="w-3 h-3 text-secondary" />
-              <span>{isPlayingAudio ? (isBn ? 'চলছে...' : 'Listening') : (isBn ? 'অডিও শুনুন' : 'Listen Wire')}</span>
+              <span>{isPlayingAudio ? (isBn ? 'চলছে...' : 'Playing...') : (isBn ? 'অডিও শুনুন' : 'Listen Audio')}</span>
             </button>
 
             {/* Typography Serif Toggle */}
@@ -200,18 +200,9 @@ export const Header: React.FC = () => {
             onClick={() => setActiveTab('top_stories')}
             className="flex flex-col items-center cursor-pointer group"
           >
-            <div className="flex items-center gap-3 mb-1">
-              <div className="relative w-8 h-8 sm:w-10 sm:h-10 rounded-full overflow-hidden bg-primary text-background border border-primary flex items-center justify-center p-0.5 group-hover:scale-105 transition-transform">
-                <img 
-                  src="/Dorpon_logo.svg" 
-                  alt="Dorpon Daily Logo" 
-                  className="w-full h-full object-contain filter invert"
-                />
-              </div>
-              <h1 className="font-display-masthead text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-primary uppercase text-center group-hover:text-secondary transition-colors">
-                {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
-              </h1>
-            </div>
+            <h1 className="font-display-masthead text-2xl sm:text-3xl md:text-5xl font-extrabold tracking-tight text-primary uppercase text-center group-hover:text-secondary transition-colors mb-1">
+              {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
+            </h1>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
                 ? 'জাতীয় বিষয়াবলী, সুশাসন, সামষ্টিক অর্থনীতি ও নির্বাহী পর্যালোচনার স্বাধীন ডিজিটাল জার্নাল' 
@@ -267,16 +258,29 @@ export const Header: React.FC = () => {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') {
+                    setActiveTab('discover');
+                  }
+                }}
                 placeholder={isBn ? 'সংবাদ অনুসন্ধান...' : 'Search briefing keys...'}
                 className="bg-transparent border-none text-primary text-xs placeholder:text-outline focus:outline-none w-36 sm:w-44 p-0 font-serif"
               />
             </div>
-            <a 
-              href="#subscribe" 
-              className="bg-primary text-background font-label-md text-label-md uppercase px-3 py-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary font-semibold"
+            <button 
+              onClick={() => {
+                if (activeTab !== 'top_stories') {
+                  setActiveTab('top_stories');
+                }
+                setTimeout(() => {
+                  const el = document.getElementById('subscribe');
+                  el?.scrollIntoView({ behavior: 'smooth' });
+                }, 50);
+              }}
+              className="bg-primary text-background font-label-md text-label-md uppercase px-3 py-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary font-semibold cursor-pointer"
             >
               {isBn ? 'সাবস্ক্রাইব ওয়্যার' : 'Subscribe Wire'}
-            </a>
+            </button>
           </div>
         </nav>
       </div>

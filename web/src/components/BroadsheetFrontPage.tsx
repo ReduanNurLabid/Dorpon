@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
-import { formatRelativeTime, getLocalizedCategory } from '../utils/bilingual';
+import { formatRelativeTime, getLocalizedCategory, toBanglaDigits } from '../utils/bilingual';
 import { 
   Play, 
   Pause, 
@@ -309,7 +309,9 @@ export const BroadsheetFrontPage: React.FC = () => {
                       </span>
                     </div>
                     <div className="font-label-sm text-label-sm text-on-surface-variant">
-                      {isBn ? '১ মিনিট পাঠ • ব্রডকাস্ট সংস্করণ' : '1 min read • Broadcast telemetry edition'}
+                      {isBn 
+                        ? `${toBanglaDigits(Math.ceil((heroStory.daily_buzz.read_time_seconds || 60) / 60))} মিনিট পাঠ • সিন্থেটিক অডিও ব্রডকাস্ট`
+                        : `${Math.ceil((heroStory.daily_buzz.read_time_seconds || 60) / 60)} min read • Synthetic audio broadcast`}
                     </div>
                   </div>
                 </div>
@@ -489,7 +491,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 {isBn ? 'নির্বাহী ওয়্যার ডেস্ক' : 'Executive Wire Desk'}
               </h3>
               <span className="bg-secondary text-on-secondary px-2 py-0.5 font-label-sm text-label-sm font-bold rounded">
-                {wireDeskStories.length} {isBn ? 'ডসিয়ার' : 'Dossiers'}
+                {wireDeskStories.length} {isBn ? 'সংক্ষেপ' : 'Briefs'}
               </span>
             </div>
 
@@ -714,7 +716,7 @@ export const BroadsheetFrontPage: React.FC = () => {
       {/* ============================================================== */}
       {/* SUBSCRIBER BANNER (EXECUTIVE DISPATCH) */}
       {/* ============================================================== */}
-      <div className="border-x border-b border-primary/20 bg-primary text-background p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm">
+      <div id="subscribe" className="border-x border-b border-primary/20 bg-primary text-background p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm scroll-mt-6">
         <div className="max-w-3xl">
           <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary-fixed flex items-center gap-1.5 font-bold">
             <Mail className="w-4 h-4" />

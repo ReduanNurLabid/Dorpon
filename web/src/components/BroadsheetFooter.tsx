@@ -2,7 +2,7 @@ import React from 'react';
 import { useApp } from '../context/AppContext';
 
 export const BroadsheetFooter: React.FC = () => {
-  const { language } = useApp();
+  const { language, setActiveTab, setIsAudioSheetOpen, setIsSettingsOpen } = useApp();
   const isBn = language === 'bn';
 
   const scrollToTop = (e: React.MouseEvent) => {
@@ -40,24 +40,42 @@ export const BroadsheetFooter: React.FC = () => {
               {isBn ? 'নির্বাহী ওয়্যার ডিরেক্টরি' : 'Executive Wire Directory'}
             </h4>
             <div className="grid grid-cols-2 gap-2 font-label-sm text-label-sm uppercase">
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              <button 
+                onClick={() => { setActiveTab('top_stories'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'মূল বিষয়' : 'Key Takeway'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => { setActiveTab('discover'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'টেলিমেট্রি ওয়্যার' : 'Telemetry Wire'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => { setActiveTab('current_affairs'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'কারেন্ট অ্যাফেয়ার্স' : 'Current Affairs'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => setIsAudioSheetOpen(true)}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'অডিও ব্রিফিং' : 'Audio Briefings'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => { setActiveTab('discover'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'যাচাইকৃত সূত্র' : 'Verified Sources'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'সম্পাদকীয় প্যানেল' : 'Masthead Directory'}
-              </span>
+              </button>
             </div>
           </div>
 
@@ -67,12 +85,18 @@ export const BroadsheetFooter: React.FC = () => {
               {isBn ? 'প্রেস প্রটোকল' : 'Press Protocols'}
             </h4>
             <div className="flex flex-col space-y-2 font-label-sm text-label-sm uppercase">
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              <button 
+                onClick={() => setIsSettingsOpen(true)}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'ব্যবহারের শর্তাবলী' : 'Terms of Service'}
-              </span>
-              <span className="text-on-surface-variant hover:text-primary transition-colors cursor-pointer">
+              </button>
+              <button 
+                onClick={() => setIsSettingsOpen(true)}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
                 {isBn ? 'গোপনীয়তা নীতিমালা' : 'Privacy Protocol'}
-              </span>
+              </button>
               <span className="text-on-surface-variant pt-2 normal-case font-serif text-xs">
                 {isBn
                   ? 'প্রেস কাউন্সিল নিবন্ধন নং ৪১৮/ডিসি-পিআর-২০২৪'
