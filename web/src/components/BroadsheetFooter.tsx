@@ -79,7 +79,7 @@ export const BroadsheetFooter: React.FC = () => {
           {/* Links Column 2: Legal & Protocol */}
           <div className="md:col-span-3">
             <h4 className="font-serif text-base font-bold text-primary mb-3 uppercase tracking-wide">
-              {isBn ? 'প্রেস প্রটোকল' : 'Press Protocols'}
+              {isBn ? 'প্রেস ও আইনি প্রটোকল' : 'Press & Legal Protocols'}
             </h4>
             <div className="flex flex-col space-y-2 font-label-sm text-label-sm uppercase">
               <button 
@@ -92,13 +92,20 @@ export const BroadsheetFooter: React.FC = () => {
                 onClick={() => setIsSettingsOpen(true)}
                 className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'গোপনীয়তা নীতিমালা' : 'Privacy Protocol'}
+                {isBn ? 'গোপনীয়তা নীতি' : 'Privacy Policy'}
               </button>
-              <span className="text-on-surface-variant pt-2 normal-case font-serif text-xs">
-                {isBn
-                  ? 'প্রেস কাউন্সিল নিবন্ধন নং ৪১৮/ডিসি-পিআর-২০২৪'
-                  : 'Press Council Registration No. 418/DC-PR-2024'}
-              </span>
+              <button 
+                onClick={() => setIsSettingsOpen(true)}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
+                {isBn ? 'সম্পাদকীয় নীতিমালা ও উৎস যাচাই' : 'Editorial Ethics & Source Standards'}
+              </button>
+              <button 
+                onClick={() => setIsSettingsOpen(true)}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
+              >
+                {isBn ? 'সংশোধন ও ফ্যাক্ট-চেক প্রটোকল' : 'Corrections & Fact-Checking'}
+              </button>
             </div>
           </div>
         </div>
