@@ -628,30 +628,30 @@ export const BroadsheetFrontPage: React.FC = () => {
       </div>
 
       {/* ============================================================== */}
-      {/* SUBSCRIBER BANNER (EXECUTIVE DISPATCH) */}
+      {/* SUBSCRIBER BANNER (SONDESH EXPRESS DISPATCH) */}
       {/* ============================================================== */}
-      <div id="subscribe" className="border-x border-b border-primary/20 bg-primary text-background p-6 sm:p-8 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm scroll-mt-6">
-        <div className="max-w-3xl">
+      <div id="subscribe" className="border-x border-b border-primary/20 bg-primary text-background p-6 sm:p-9 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm scroll-mt-6">
+        <div className="max-w-2xl">
           <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary-fixed flex items-center gap-1.5 font-bold">
             <Mail className="w-4 h-4" />
-            <span>{isBn ? 'নির্বাহী ইন্টেলিজেন্স ডেসপ্যাচ' : 'EXECUTIVE INTELLIGENCE DISPATCH'}</span>
+            <span>{isBn ? 'সন্দেশ এক্সপ্রেস মর্নিং ডেসপ্যাচ' : 'SONDESH EXPRESS MORNING DISPATCH'}</span>
           </span>
-          <h2 className="font-serif text-xl sm:text-2xl text-background font-bold mt-1.5">
+          <h2 className="font-serif text-xl sm:text-2xl text-background font-bold mt-2">
             {isBn 
-              ? '৩-স্তরীয় নির্বাহী ডসিয়ার সরাসরি আপনার ইনবক্সে' 
-              : '3-Tier Executive Dossiers Delivered to Your Secure Terminal'}
+              ? 'প্রতিদিনের সংক্ষেপিত সংবাদ ডসিয়ার সরাসরি আপনার ইমেইলে' 
+              : 'Daily Scannable Briefings Delivered Directly to Your Inbox'}
           </h2>
-          <p className="font-serif text-xs sm:text-sm text-inverse-primary mt-1 leading-relaxed">
+          <p className="font-serif text-xs sm:text-sm text-inverse-primary mt-1.5 leading-relaxed">
             {isBn
-              ? 'কোনো অতিরঞ্জন ছাড়া সরাসরি বুলেট পয়েন্ট, কারণ বিশ্লেষণ এবং যাচাইকৃত সূত্রের লিঙ্ক সহ প্রতিদিন সকাল ৬:০০ টায়।'
-              : 'No narrative bloat. Rigorous bulleted takeaways, why it matters, and direct source links delivered every morning at 06:00 GMT.'}
+              ? 'অপ্রয়োজনীয় তথ্য ও বিভ্রান্তিহীন নির্ভুল সারসংক্ষেপ, পেছনের কারণ এবং মূল সূত্রের সংযোগ—প্রতিদিন সকালে।'
+              : 'Zero noise. Essential bulleted takeaways, why it matters, and direct source citations delivered fresh every morning.'}
           </p>
         </div>
 
         <div className="w-full md:w-auto">
           {subscribedMessage ? (
-            <div className="bg-secondary text-on-secondary px-4 py-2 font-serif text-sm rounded font-semibold text-center">
-              ✓ {isBn ? 'সফলভাবে নিবন্ধিত হয়েছে!' : 'Enrolled successfully in the Wire!'}
+            <div className="bg-secondary text-on-secondary px-5 py-2.5 font-serif text-sm rounded font-semibold text-center shadow">
+              ✓ {isBn ? 'ধন্যবাদ! আপনার সাবস্ক্রিপশন সম্পন্ন হয়েছে।' : 'Subscribed successfully! Welcome to the daily brief.'}
             </div>
           ) : (
             <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row items-center gap-2 w-full">
@@ -660,14 +660,14 @@ export const BroadsheetFrontPage: React.FC = () => {
                 required
                 value={subscribedEmail}
                 onChange={(e) => setSubscribedEmail(e.target.value)}
-                placeholder={isBn ? 'প্রাতিষ্ঠানিক ইমেইল দিন...' : 'Enter institutional email...'}
-                className="bg-primary-container border border-outline text-background font-serif px-3.5 py-2 text-sm focus:outline-none focus:border-secondary w-full sm:w-64 placeholder:text-outline"
+                placeholder={isBn ? 'আপনার ইমেইল অ্যাড্রেস লিখুন...' : 'Enter your email address...'}
+                className="bg-primary-container border border-outline text-background font-serif px-4 py-2.5 text-sm focus:outline-none focus:border-secondary w-full sm:w-72 placeholder:text-outline"
               />
               <button 
                 type="submit"
-                className="w-full sm:w-auto bg-surface text-primary font-label-md text-label-md uppercase font-bold px-5 py-2 hover:bg-surface-container-high transition-colors whitespace-nowrap cursor-pointer"
+                className="w-full sm:w-auto bg-surface text-primary font-label-md text-label-md uppercase font-bold px-6 py-2.5 hover:bg-surface-container-high transition-colors whitespace-nowrap cursor-pointer"
               >
-                {isBn ? 'ওয়্যার সাবস্ক্রাইব' : 'Enroll Wire'}
+                {isBn ? 'সাবস্ক্রাইব করুন' : 'Subscribe Free'}
               </button>
             </form>
           )}
