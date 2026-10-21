@@ -30,29 +30,38 @@ export function getLocalizedCategory(cat: string, isBangla: boolean): string {
   const clean = (cat || '').toLowerCase().replace(/ /g, '_');
   if (isBangla) {
     switch (clean) {
+      case 'governance_law':
+      case 'governance':
+      case 'law':
+      case 'politics':
+        return 'শাসনব্যবস্থা ও রাজনীতি';
       case 'macroeconomy_banking':
       case 'economy_business':
       case 'economy':
       case 'macroeconomy':
+      case 'trade_forex':
         return 'অর্থনীতি ও বাণিজ্য';
-      case 'governance_law':
-      case 'governance':
-      case 'law':
-        return 'শাসন ও আইন';
-      case 'climate_delta':
-      case 'environment':
-      case 'climate_environment':
-        return 'জলবায়ু ও পরিবেশ';
       case 'international_diplomacy':
       case 'world_diplomacy':
       case 'diplomacy':
       case 'geopolitics':
-      case 'trade_forex':
-        return 'আন্তর্জাতিক কূটনীতি';
+      case 'world':
+        return 'আন্তর্জাতিক ও কূটনীতি';
       case 'tech_infrastructure':
       case 'tech_innovation':
       case 'technology':
-        return 'প্রযুক্তি ও উদ্ভাবন';
+      case 'ai':
+        return 'প্রযুক্তি ও এআই';
+      case 'climate_delta':
+      case 'environment':
+      case 'climate_environment':
+      case 'climate':
+        return 'পরিবেশ ও জলবায়ু';
+      case 'society_education':
+      case 'education':
+      case 'society':
+      case 'health':
+        return 'সমাজ ও শিক্ষা';
       case 'sports_fitness':
       case 'sports':
         return 'খেলাধুলা';
@@ -64,29 +73,38 @@ export function getLocalizedCategory(cat: string, isBangla: boolean): string {
     }
   } else {
     switch (clean) {
+      case 'governance_law':
+      case 'governance':
+      case 'law':
+      case 'politics':
+        return 'Governance & Politics';
       case 'macroeconomy_banking':
       case 'economy_business':
       case 'economy':
       case 'macroeconomy':
+      case 'trade_forex':
         return 'Economy & Business';
-      case 'governance_law':
-      case 'governance':
-      case 'law':
-        return 'Governance & Law';
-      case 'climate_delta':
-      case 'environment':
-      case 'climate_environment':
-        return 'Climate & Environment';
       case 'international_diplomacy':
       case 'world_diplomacy':
       case 'diplomacy':
       case 'geopolitics':
-      case 'trade_forex':
-        return 'Global Diplomacy';
+      case 'world':
+        return 'World & Geopolitics';
       case 'tech_infrastructure':
       case 'tech_innovation':
       case 'technology':
-        return 'Tech & Innovation';
+      case 'ai':
+        return 'Technology & AI';
+      case 'climate_delta':
+      case 'environment':
+      case 'climate_environment':
+      case 'climate':
+        return 'Climate & Environment';
+      case 'society_education':
+      case 'education':
+      case 'society':
+      case 'health':
+        return 'Society & Education';
       case 'sports_fitness':
       case 'sports':
         return 'Sports';

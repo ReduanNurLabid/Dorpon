@@ -119,67 +119,97 @@ INTEREST_CATEGORIES: Dict[str, Dict[str, any]] = {
         "en": "Economy & Business",
         "bn": "অর্থনীতি ও বাণিজ্য",
         "keywords": [
+            # English
             "economy", "economic", "inflation", "bank", "banking", "tax", "taxes", "gdp", 
             "export", "import", "budget", "finance", "financial", "dollar", "reserve", 
             "forex", "interest rate", "revenue", "nbr", "trade", "commerce", "stock", 
             "market", "share market", "dse", "investment", "investor", "remittance", 
             "imf", "world bank", "central bank", "loan", "default", "customs", "tariff",
-            "অর্থনীতি", "অর্থনৈতিক", "ব্যাংক", "মুদ্রাস্ফীতি", "মূল্যস্ফীতি", "রিজার্ভ", 
-            "বাজেট", "রাজস্ব", "ডলার", "রপ্তানি", "আমদানি", "বাণিজ্য", "শেয়ারবাজার", 
-            "ডিএসই", "রেমিট্যান্স", "বিনিয়োগ", "ঋণ", "কাস্টমস", "ভ্যাট", "ট্যাক্স"
+            "price hike", "fiscal", "monetary policy", "bond",
+            # Bengali
+            "অর্থনীতি", "অর্থনৈতিক", "ব্যাংক", "ব্যাংকিং", "মুদ্রাস্ফীতি", "মূল্যস্ফীতি", 
+            "রিজার্ভ", "বৈদেশিক মুদ্রা", "বাজেট", "রাজস্ব", "ডলার", "টাকা", "রপ্তানি", 
+            "আমদানি", "বাণিজ্য", "বাণিজ্যিক", "শেয়ারবাজার", "শেয়ার বাজার", "ডিএসই", 
+            "পুঁজিবাজার", "রেমিট্যান্স", "প্রবাসী আয়", "বিনিয়োগ", "ঋণ", "খেলাপি ঋণ", 
+            "কাস্টমস", "ভ্যাট", "ট্যাক্স", "কর", "জাতীয় রাজস্ব বোর্ড", "এনবিআর", 
+            "বাংলাদেশ ব্যাংক", "কেন্দ্রীয় ব্যাংক", "আইএমএফ", "বিশ্বব্যাংক", "মুদ্রানীতি", 
+            "সুদের হার", "ট্যারিফ", "শুল্ক", "জিডিপি", "অর্থ মন্ত্রণালয়", "মূল্যবৃদ্ধি", 
+            "দ্রব্যমূল্য", "মুদ্রাবাজার", "বন্ড"
         ]
     },
     "governance_law": {
         "en": "Governance, Law & Constitution",
         "bn": "শাসনব্যবস্থা, রাজনীতি ও সংবিধান",
         "keywords": [
+            # English
             "court", "constitution", "constitutional", "police", "election", "commission", 
             "ministry", "parliament", "bpsc", "judiciary", "judge", "justice", "high court", 
             "supreme court", "ordinance", "resignation", "cabinet", "politics", "political", 
             "ishraque", "bnp", "awami", "jamaat", "adviser", "interim", "yunus", "governance", 
             "administration", "administrative", "dudok", "acc", "anticorruption", "anti-corruption",
             "protest", "reform", "commissioner", "deputy commissioner", "gazette", "magistrate",
-            "আদালত", "সংবিধান", "সাংবিধানিক", "নির্বাচন", "মন্ত্রণালয়", "আইন", "প্রশাসন", 
-            "দুদক", "হাইকোর্ট", "সুপ্রিম কোর্ট", "অধ্যাদেশ", "পদত্যাগ", "ইশরাক", "বিএনপি", 
-            "আওয়ামী লীগ", "জামায়াত", "মন্ত্রিসভা", "উপদেষ্টা", "রাজনীতি", "রাজনৈতিক", 
-            "স্বরাষ্ট্র", "আন্দোলন", "সংসদ", "বিচারপতি", "গেজেট", "সংস্কার", "ইউনূস"
+            "arrest", "investigation", "writ", "case", "bail", "law enforcement",
+            # Bengali
+            "আদালত", "সংবিধান", "সাংবিধানিক", "নির্বাচন", "নির্বাচন কমিশন", "ইসি", 
+            "মন্ত্রণালয়", "আইন", "আইনশৃঙ্খলা", "প্রশাসন", "প্রশাসনিক", "দুদক", "দুর্নীতি", 
+            "হাইকোর্ট", "সুপ্রিম কোর্ট", "আপিল বিভাগ", "অধ্যাদেশ", "পদত্যাগ", "ইশরাক", 
+            "বিএনপি", "আওয়ামী লীগ", "জামায়াত", "মন্ত্রিসভা", "উপদেষ্টা", "প্রধান উপদেষ্টা", 
+            "রাজনীতি", "রাজনৈতিক", "স্বরাষ্ট্র", "স্বরাষ্ট্র মন্ত্রণালয়", "আন্দোলন", 
+            "বিক্ষোভ", "সংসদ", "জাতীয় সংসদ", "অধিবেশন", "বিচারপতি", "প্রধান বিচারপতি", 
+            "বিচারক", "আইনজীবী", "গেজেট", "সংস্কার", "ইউনূস", "পুলিশ", "র‍্যাব", "গ্রেপ্তার", 
+            "মামলা", "রিট", "তদন্ত", "জেলা প্রশাসক", "ডিসি", "ইউএনও", "বিপিএসসি", "কমিশন", 
+            "স্বচ্ছতা", "জবাবদিহিতা", "জামিন"
         ]
     },
     "tech_innovation": {
         "en": "Technology & AI",
         "bn": "প্রযুক্তি ও এআই",
         "keywords": [
+            # English
             "tech", "technology", "ai", "artificial intelligence", "digital", "internet", 
             "telecom", "satellite", "cyber", "cybersecurity", "innovation", "science", 
             "software", "hardware", "startup", "cloud", "data", "algorithm", "php", 
             "vulnerability", "hacker", "hacking", "chip", "semiconductor", "robot", 
-            "robotics", "app", "spacex", "nasa", "machine learning",
+            "robotics", "app", "spacex", "nasa", "machine learning", "coding", "server",
+            # Bengali
             "প্রযুক্তি", "বিজ্ঞান", "ইন্টারনেট", "এআই", "কৃত্রিম বুদ্ধিমত্তা", "সাইবার", 
-            "সফটওয়্যার", "টেলিকম", "স্যাটেলাইট", "ডিজিটাল", "রোবট", "হ্যাকিং", "স্টার্টআপ"
+            "সাইবার নিরাপত্তা", "সাইবার হামলা", "সফটওয়্যার", "হার্ডওয়্যার", "টেলিকম", 
+            "টেলিকমিউনিকেশন", "স্যাটেলাইট", "ডিজিটাল", "রোবট", "রোবোটিক্স", "হ্যাকিং", 
+            "হ্যাকার", "স্টার্টআপ", "ক্লাউড", "ক্লাউড কম্পিউটিং", "অ্যালগরিদম", "ডেটা", 
+            "তথ্যপ্রযুক্তি", "সেমিকন্ডাক্টর", "চিপ", "মহাকাশ", "নাসা", "স্পেসএক্স", 
+            "প্রযুক্তি প্রতিষ্ঠান", "টেলিযোগাযোগ", "বিটিআরসি", "স্মার্টফোন", "মোবাইল অ্যাপ", 
+            "কোডিং", "প্রোগ্রামিং", "সার্ভার"
         ]
     },
     "climate_environment": {
         "en": "Climate & Environment",
         "bn": "পরিবেশ ও জলবায়ু",
         "keywords": [
+            # English
             "climate", "climate change", "flood", "flooding", "river", "environment", 
             "environmental", "pollution", "air quality", "aqi", "cyclone", "forest", 
             "delta", "renewable", "energy", "solar", "biodiversity", "wildlife", "drought", 
             "carbon", "emission", "heatwave", "rain", "monsoon", "disaster", "ecology",
-            "পরিবেশ", "জলবায়ু", "বন্যা", "নদী", "দূষণ", "ঘূর্ণিঝড়", "ডেল্টা", "নবায়নযোগ্য", 
-            "জ্বালানি", "বায়ুদূষণ", "তাপপ্রবাহ", "বৃষ্টি", "দুর্যোগ", "বন", "সুন্দরবন"
+            # Bengali
+            "পরিবেশ", "জলবায়ু", "জলবায়ু পরিবর্তন", "বন্যা", "প্লাবন", "নদী", "নদীভাঙন", 
+            "দূষণ", "বায়ুদূষণ", "শব্দদূষণ", "পানিদূষণ", "ঘূর্ণিঝড়", "সাইক্লোন", "ডেল্টা", 
+            "ব-দ্বীপ", "নবায়নযোগ্য", "জ্বালানি", "সৌরবিদ্যুৎ", "সৌরশক্তি", "তাপপ্রবাহ", 
+            "বৃষ্টি", "বৃষ্টিপাত", "ভারী বর্ষণ", "দুর্যোগ", "দুর্যোগ ব্যবস্থাপনা", "বন", 
+            "বনাঞ্চল", "সুন্দরবন", "জীববৈচিত্র্য", "খরা", "কার্বন", "কার্বন নির্গমন", 
+            "একিউআই", "আবহাওয়া", "আবহাওয়া অধিদপ্তর", "সমুদ্রপৃষ্ঠ", "তিস্তা"
         ]
     },
     "world_diplomacy": {
         "en": "World & Geopolitics",
         "bn": "আন্তর্জাতিক ও কূটনীতি",
         "keywords": [
+            # English
             "world", "international", "global", "geopolitics", "geopolitical", "diplomacy", 
             "diplomatic", "foreign", "foreign policy", "foreign minister", "ambassador", 
             "embassy", "treaty", "summit", "bilateral", "sanctions", "war", "conflict", 
             "ceasefire", "peacekeeping", "military", "nato", "pentagon", "white house", 
             "kremlin", "un", "united nations", "security council", "epstein",
-            # Key countries and demonyms frequently appearing in world wires
+            # Countries and Demonyms (English)
             "india", "indian", "delhi", "modi", "pakistan", "pakistani", "islamabad", 
             "china", "chinese", "beijing", "xi jinping", "usa", "america", "american", 
             "washington", "biden", "trump", "russia", "russian", "moscow", "putin", 
@@ -188,28 +218,41 @@ INTEREST_CATEGORIES: Dict[str, Dict[str, any]] = {
             "saudi", "riyadh", "uae", "dubai", "qatar", "myanmar", "burma", "rohingya", 
             "japan", "japanese", "tokyo", "uk", "british", "britain", "london", "europe", 
             "european", "france", "french", "germany", "german", "turkey", "turkish", 
-            "north korea", "south korea", "taiwan",
-            # Bengali keywords
-            "আন্তর্জাতিক", "বিশ্ব", "কূটনীতি", "কূটনৈতিক", "পররাষ্ট্র", "যুদ্ধ", "সংঘাত", 
-            "যুদ্ধবিরতি", "শান্তি", "সামরিক", "ন্যাটো", "যুক্তরাষ্ট্র", "আমেরিকা", 
-            "হোয়াইট হাউস", "ভারত", "ভারতীয়", "দিল্লি", "মোদি", "চীন", "চীনা", "বেইজিং", 
-            "পাকিস্তান", "পাকিস্তানি", "ইসলামাবাদ", "রাশিয়া", "পুতিন", "ইউক্রেন", "জেলেনস্কি", 
-            "ইসরায়েল", "ইসরাইল", "ফিলিস্তিন", "গাজা", "হামাস", "ইরান", "তেহরান", 
-            "মধ্যপ্রাচ্য", "সৌদি", "মায়ানমার", "মিয়ানমার", "রোহিঙ্গা", "জাতিসংঘ", 
-            "নিরাপত্তা পরিষদ", "চুক্তি", "ভূরাজনীতি", "নিষেধাজ্ঞা"
+            "north korea", "south korea", "taiwan", "canada", "australia",
+            # Countries, Demonyms, Leaders & Terms (Bengali)
+            "আন্তর্জাতিক", "বিশ্ব", "কূটনীতি", "কূটনৈতিক", "পররাষ্ট্র", "পররাষ্ট্র মন্ত্রণালয়", 
+            "পররাষ্ট্রমন্ত্রী", "যুদ্ধ", "সংঘাত", "যুদ্ধবিরতি", "শান্তি", "শান্তি মিশন", 
+            "সামরিক", "ন্যাটো", "যুক্তরাষ্ট্র", "আমেরিকা", "মার্কিন", "হোয়াইট হাউস", "পেন্টাগন", 
+            "ভারত", "ভারতীয়", "নয়াদিল্লি", "দিল্লি", "মোদি", "চীন", "চীনা", "বেইজিং", 
+            "শি জিনপিং", "পাকিস্তান", "পাকিস্তানি", "ইসলামাবাদ", "রাশিয়া", "রুশ", "মস্কো", 
+            "পুতিন", "ইউক্রেন", "কিয়েভ", "জেলেনস্কি", "ইসরায়েল", "ইসরাইল", "নেতানিয়াহু", 
+            "ফিলিস্তিন", "গাজা", "হামাস", "ইরান", "ইরানি", "তেহরান", "মধ্যপ্রাচ্য", 
+            "সৌদি আরব", "সৌদি", "রিয়াদ", "সংযুক্ত আরব আমিরাত", "দুবাই", "কাতার", "দোহা", 
+            "মায়ানমার", "মিয়ানমার", "বর্মা", "জান্তা", "রোহিঙ্গা", "জাতিসংঘ", "নিরাপত্তা পরিষদ", 
+            "সাধারণ পরিষদ", "চুক্তি", "দ্বিপক্ষীয়", "বহুপক্ষীয়", "ভূরাজনীতি", "নিষেধাজ্ঞা", 
+            "স্যাংশন", "জাপান", "জাপানি", "টোকিও", "যুক্তরাজ্য", "ব্রিটেন", "ব্রিটিশ", 
+            "লন্ডন", "ইউরোপ", "ইউরোপীয় ইউনিয়ন", "ইইউ", "ফ্রান্স", "ফরাসি", "জার্মানি", 
+            "জার্মান", "তুরস্ক", "তুর্কি", "এরদোয়ান", "উত্তর কোরিয়া", "দক্ষিণ কোরিয়া", 
+            "তাইওয়ান", "রাষ্ট্রদূত", "দূতাবাস", "সম্মেলন", "শীর্ষ সম্মেলন", "বাইডেন", "ট্রাম্প"
         ]
     },
     "society_education": {
         "en": "Society & Education",
         "bn": "সমাজ ও শিক্ষা",
         "keywords": [
+            # English
             "education", "university", "college", "school", "student", "students", 
             "teacher", "teachers", "health", "hospital", "doctor", "medical", 
             "culture", "cultural", "public health", "campus", "academic", "youth", 
-            "citizens", "religion", "religious", "community", "social", "welfare",
-            "শিক্ষা", "বিশ্ববিদ্যালয়", "কলেজ", "স্কুল", "শিক্ষার্থী", "ছাত্র", "শিক্ষক", 
-            "স্বাস্থ্য", "হাসপাতাল", "ডাক্তার", "মেডিকেল", "সংস্কার", "নাগরিক", 
-            "সংস্কৃতি", "ক্যাম্পাস", "সমাজ", "ধর্মীয়"
+            "citizens", "religion", "religious", "community", "social", "welfare", 
+            "human rights", "madrasa",
+            # Bengali
+            "শিক্ষা", "উচ্চশিক্ষা", "প্রাথমিক শিক্ষা", "মাধ্যমিক", "বিশ্ববিদ্যালয়", 
+            "কলেজ", "স্কুল", "মাদ্রাসা", "শিক্ষার্থী", "ছাত্র", "ছাত্রী", "শিক্ষক", 
+            "উপাচার্য", "ভিসি", "ক্যাম্পাস", "স্বাস্থ্য", "স্বাস্থ্যসেবা", "হাসপাতাল", 
+            "ডাক্তার", "চিকিৎসক", "নার্স", "মেডিকেল", "চিকিৎসা", "ওষুধ", "জনস্বাস্থ্য", 
+            "মহামারী", "নাগরিক", "নাগরিক সমাজ", "সংস্কৃতি", "সাংস্কৃতিক", "সমাজ", 
+            "সামাজিক", "যুবসমাজ", "তরুণ", "ধর্ম", "ধর্মীয়", "কল্যাণ", "মানবাধিকার"
         ]
     }
 }
@@ -217,7 +260,6 @@ INTEREST_CATEGORIES: Dict[str, Dict[str, any]] = {
 # =====================================================================
 # 3. Canonical Entity Dictionary for Cross-Lingual Deduplication
 # =====================================================================
-# Maps Bengali & English keywords to a single canonical entity slug
 CANONICAL_ENTITIES = {
     # Monetary / Banking
     "bangladesh_bank": ["bangladesh bank", "বাংলাদেশ ব্যাংক", "central bank", "কেন্দ্রীয় ব্যাংক"],

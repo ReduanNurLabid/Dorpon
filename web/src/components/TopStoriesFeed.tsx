@@ -9,13 +9,12 @@ import { RefreshCw, Layers } from 'lucide-react';
 
 const CATEGORIES = [
   'all',
-  'international_diplomacy',
-  'economy_business',
   'governance_law',
-  'climate_delta',
+  'economy_business',
+  'world_diplomacy',
   'tech_innovation',
-  'sports_fitness',
-  'pop_culture',
+  'climate_environment',
+  'society_education',
 ];
 
 export const TopStoriesFeed: React.FC = () => {
