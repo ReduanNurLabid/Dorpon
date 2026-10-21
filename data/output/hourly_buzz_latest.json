@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-20T23:03:34.324974",
+  "updated_at": "2026-10-21T00:37:24.122218",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "bdf0cd65-d059-5c11-a804-3a2611419870",
+      "story_id": "447cf0ee-66a7-50d8-988c-a99533cc9477",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,50 +14,104 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T20:48:56+00:00",
+      "published_at": "2026-10-21T00:28:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.0063,
+      "importance_score": 2.4,
+      "rank_score": 0.8907,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170392",
-          "title": "প্রধানমন্ত্রীর জনসভায় ৯ নেতাকর্মীর মোবাইল ফোন চুরি",
-          "snippet": "প্রধানমন্ত্রীর জনসভায় ৯ নেতাকর্মীর মোবাইল ফোন চুরি"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/jobs/975792/%E0%A7%AE%E0%A7%AA-%E0%A6%B8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A7%A7%E0%A7%A9%E0%A7%AB-%E0%A6%AA%E0%A6%A6%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97",
+          "title": "৮৪ সাব-রেজিস্ট্রারসহ পিএসসির মাধ্যমে ১৩৫ পদে নিয়োগ",
+          "snippet": "৮৪ সাব-রেজিস্ট্রারসহ পিএসসির মাধ্যমে ১৩৫ পদে নিয়োগ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজশাহীতে প্রধানমন্ত্রীর জনসভায় ৯ বিএনপি নেতাকর্মীর মোবাইল ফোন চুরি",
-        "title_en": "9 BNP Leaders Lose Mobile Phones at PM Rally in Rajshahi",
-        "summary_bn": "রাজশাহীতে জনসভায় যোগ দিয়ে ৯ জন বিএনপি নেতাকর্মী তাদের মোবাইল ফোন চুরির অভিযোগ করেছেন।",
-        "summary_en": "Nine BNP leaders and activists reported their mobile phones stolen while attending a public rally in Rajshahi.",
-        "why_it_matters_bn": "জনসমাবেশে অংশ নেওয়া সাধারণ মানুষের ব্যক্তিগত মালামাল সুরক্ষার ঝুঁকি প্রকাশ পায়।",
-        "why_it_matters_en": "Highlights personal safety and device security risks for attendees at massive political gatherings.",
+        "title_bn": "পিএসসির মাধ্যমে ৮৪ সাব-রেজিস্ট্রারসহ ১৩৫ পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ",
+        "title_en": "PSC Publishes Circular to Recruit 135 Officers Including 84 Sub-Registrars",
+        "summary_bn": "বাংলাদেশ সরকারি কর্ম কমিশন বিভিন্ন সরকারি দফতরে ৯ম থেকে ১২তম গ্রেডে ১৩৫ জন কর্মকর্তা নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "The Bangladesh Public Service Commission has issued a recruitment circular to hire 135 officers across 9th to 12th grades.",
+        "why_it_matters_bn": "সরকারি চাকরিতে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হলো, যা তরুণদের প্রশাসনিক সেবায় যোগ দিতে উৎসাহিত করবে।",
+        "why_it_matters_en": "Creates new public sector employment opportunities for educated youth, particularly in land registration and legal services.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:48:56+00:00",
-        "lead_bn": "রাজশাহীতে জনসভায় যোগ দিয়ে ৯ জন বিএনপি নেতাকর্মী তাদের মোবাইল ফোন চুরির অভিযোগ করেছেন।",
-        "lead_en": "Nine BNP leaders and activists reported their mobile phones stolen while attending a public rally in Rajshahi.",
+        "published_at": "2026-10-21T00:28:56+00:00",
+        "lead_bn": "বাংলাদেশ সরকারি কর্ম কমিশন বিভিন্ন সরকারি দফতরে ৯ম থেকে ১২তম গ্রেডে ১৩৫ জন কর্মকর্তা নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "The Bangladesh Public Service Commission has issued a recruitment circular to hire 135 officers across 9th to 12th grades.",
         "bullets_bn": [
-          "১. রাজশাহীতে আয়োজিত জনসভায় অংশ নিয়ে ৯ জন বিএনপি নেতাকর্মীর মোবাইল ফোন চুরি বা নিখোঁজ হয়েছে।",
-          "২. ভুক্তভোগী ৯ জনের মধ্যে ৭ জন নগরীর রাজপাড়া থানায় লিখিত অভিযোগ দায়ের করেছেন।",
-          "৩. হারিয়ে যাওয়া ফোন উদ্ধার ও চোর শনাক্তে পুলিশ তদন্ত কাজ শুরু করেছে।"
+          "পিএসসি বিভিন্ন মন্ত্রণালয় ও বিভাগে ১৩৫টি পদ পূরণে নতুন নিয়োগ প্রক্রিয়া শুরু করেছে।",
+          "বিজ্ঞপ্তি অনুযায়ী সর্বোচ্চ ৮৪ জন সাব-রেজিস্ট্রার, ১ জন আইন কর্মকর্তা ও ২ জন বয়লার পরিদর্শক নিয়োগ দেওয়া হবে।",
+          "আগ্রহী প্রার্থীরা ১ নভেম্বর থেকে অনলাইনে নির্ধারিত নিয়মে আবেদন জমা দিতে পারবেন।"
         ],
         "bullets_en": [
-          "1. Nine BNP leaders and activists faced phone theft during a major public rally in Rajshahi.",
-          "2. Seven of the affected individuals filed written complaints at the Rajpara Police Station.",
-          "3. Local police have launched an investigation to trace the stolen mobile phones."
+          "PSC initiated recruitment for 135 non-cadre posts across various government ministries and departments.",
+          "The hiring includes a maximum of 84 Sub-Registrars, alongside Law Officers and Boiler Inspectors.",
+          "Interested job seekers can submit their applications online starting November 1."
         ],
-        "impact_bn": "জনসমাবেশে অংশ নেওয়া সাধারণ মানুষের ব্যক্তিগত মালামাল সুরক্ষার ঝুঁকি প্রকাশ পায়।",
-        "impact_en": "Highlights personal safety and device security risks for attendees at massive political gatherings.",
-        "details_bn": "বাংলাদেশে বড় রাজনৈতিক জনসভাগুলোতে বিশাল ভিড়ের সুযোগ নিয়ে মোবাইল ও মানিব্যাগ চুরির ঘটনা প্রায়ই ঘটে। বিশিষ্ট রাজনৈতিক নেতাদের উপস্থিতিতে সভা চলাকালীন সংঘবদ্ধ চক্রগুলো সুযোগ সুবিধা অনুযায়ী সাধারণ মানুষ ও কর্মীদের মূল্যবান জিনিসপত্র হাতিয়ে নেয়। সমাবেশ শেষে সংশ্লিষ্ট থানায় হারানো জিডি দায়েরের মাধ্যমে পুলিশি উদ্ধার প্রক্রিয়া শুরু হয়।",
-        "details_en": "Large political rallies in Bangladesh frequently face challenges related to opportunistic petty crimes like pickpocketing. High-density crowds during major political events create opportunities for organized groups to target attendees' valuable belongings. Following such incidents, victims typically lodge general diaries with local police stations to initiate recovery operations."
+        "impact_bn": "সরকারি চাকরিতে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হলো, যা তরুণদের প্রশাসনিক সেবায় যোগ দিতে উৎসাহিত করবে।",
+        "impact_en": "Creates new public sector employment opportunities for educated youth, particularly in land registration and legal services.",
+        "details_bn": "বাংলাদেশ সরকারি কর্ম কমিশন (পিএসসি) নিয়মিতভাবে সরকারি বিভিন্ন দপ্তরের জন্য ক্যাডার ও নন-ক্যাডার পদে নিয়োগ প্রক্রিয়া পরিচালনা করে থাকে। সাব-রেজিস্ট্রার এবং প্রকৌশলীর মতো কারিগরি ও আইনি পদে নতুন লোকবল নিয়োগের মাধ্যমে সরকারি সাব-রেজিস্ট্রি কার্যালয় ও অন্যান্য প্রশাসনিক ইউনিটের কর্মদক্ষতা বৃদ্ধির উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "The Bangladesh Public Service Commission (PSC) regularly conducts recruitment for non-cadre positions across ministries and directorates. Recruiting for key administrative positions like sub-registrars and specialized technical officers helps address staffing shortages, improving public service delivery in land registration and administrative operations nationwide."
       }
     },
     {
-      "story_id": "56adb51a-39e2-5ee9-868d-191d8cf90793",
+      "story_id": "097ea3ea-8e4e-5cee-aee0-57ebc552b957",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T00:14:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7787,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/975793/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B2%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
+          "title": "শ্রীলঙ্কার পথে পথে বিনামূল্যে খাবার বিতরণের উৎসব কেন",
+          "snippet": "শ্রীলঙ্কার পথে পথে বিনামূল্যে খাবার বিতরণের উৎসব কেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবে বিনামূল্যে খাবার বিতরণের ঐতিহ্য 'দানসাল'",
+        "title_en": "Sri Lanka Maintains Unique Tradition of Free Food Distribution Called 'Dansal'",
+        "summary_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবকে কেন্দ্র করে সড়কের পাশে পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের অনন্য সামাজিক ঐতিহ্য চালু রয়েছে।",
+        "summary_en": "Sri Lanka maintains a unique social tradition of distributing free food and drinks to pedestrians during religious festivals.",
+        "why_it_matters_bn": "এই সামাজিক প্রথা সমাজে পারস্পরিক সহমর্মিতা ও সম্প্রীতির বন্ধন সুদৃঢ় করে।",
+        "why_it_matters_en": "This social practice strengthens mutual empathy and community bonding.",
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T00:14:56+00:00",
+        "lead_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবকে কেন্দ্র করে সড়কের পাশে পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের অনন্য সামাজিক ঐতিহ্য চালু রয়েছে।",
+        "lead_en": "Sri Lanka maintains a unique social tradition of distributing free food and drinks to pedestrians during religious festivals.",
+        "bullets_bn": [
+          "১. স্বেচ্ছাসেবীরা ধর্মীয় উৎসবের সময় সড়কের পাশে অস্থায়ী স্টল স্থাপন করেন।",
+          "২. স্থানীয়ভাবে 'দানসাল' নামে পরিচিত এই আয়োজনে অপরিচিত মানুষকে বিনামূল্যে খাবার ও পানীয় দেওয়া হয়।",
+          "৩. বৌদ্ধ ধর্মের দান ও মানুষের প্রতি সহমর্মিতা প্রদর্শনের শিক্ষা থেকে এই আয়োজন পরিচালিত হয়।"
+        ],
+        "bullets_en": [
+          "1. Volunteers set up temporary roadside stalls during religious festivals.",
+          "2. Known locally as 'Dansal', this initiative provides free food and drinks to strangers.",
+          "3. The tradition is driven by Buddhist teachings of charity and empathy toward humanity."
+        ],
+        "impact_bn": "এই সামাজিক প্রথা সমাজে পারস্পরিক সহমর্মিতা ও সম্প্রীতির বন্ধন সুদৃঢ় করে।",
+        "impact_en": "This social practice strengthens mutual empathy and community bonding.",
+        "details_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবের সময় পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের এই অনন্য ঐতিহ্য 'দানসাল' নামে পরিচিত। বৌদ্ধ ধর্মের দান ও মানুষের প্রতি সহমর্মিতার শিক্ষা থেকে গড়ে ওঠা এই আয়োজন দেশটির সামাজিক ও সাংস্কৃতিক জীবনের অত্যন্ত গুরুত্বপূর্ণ একটি অংশ। উৎসবের দিনগুলোতে স্বেচ্ছাসেবীরা নিজ উদ্যোগে অস্থায়ী স্টল বসিয়ে অপরিচিত মানুষদের খাবার ও পানীয় পরিবেশন করেন, যার বিনিময়ে কোনো অর্থ নেওয়া হয় না।",
+        "details_en": "In Sri Lanka, the unique tradition of distributing free food and drinks to pedestrians during religious festivals is known as 'Dansal'. Rooted in Buddhist teachings of charity and human empathy, this practice forms a vital part of the nation's social and cultural life. During festivals, volunteers set up temporary stalls to serve food and beverages to strangers without expecting any payment in return."
+      }
+    },
+    {
+      "story_id": "c74acb64-39d5-5f1c-a26a-4b1f9db45a25",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -66,48 +120,156 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2F3q8njiux%2FScreenshot21-10-202623857notebook.google.com.jpeg?rect=0%2C9%2C1153%2C605&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T20:41:56+00:00",
+      "published_at": "2026-10-21T00:02:27+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 0.9715,
+      "importance_score": 2.4,
+      "rank_score": 0.6983,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.protichinta.com/article/qgfddr4303",
-          "title": "প্রধানমন্ত্রীর মেয়াদসীমা কেন প্রয়োজন?",
-          "snippet": "প্রধানমন্ত্রীর মেয়াদসীমা কেন প্রয়োজন?"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1170397",
+          "title": "প্রচলিত ব্যাংকের ইসলামি শাখা-উইন্ডোতে আমানতের বড় লাফ",
+          "snippet": "প্রচলিত ব্যাংকের ইসলামি শাখা-উইন্ডোতে আমানতের বড় লাফ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংসদীয় ব্যবস্থায় ক্ষমতার ভারসাম্য রক্ষায় প্রধানমন্ত্রীর মেয়াদসীমা নির্ধারণের তাগিদ",
-        "title_en": "Urgency Highlighted for Prime Ministerial Term Limits to Ensure Balance of Power",
-        "summary_bn": "দীঘদিন ক্ষমতায় থাকার ফলে সৃষ্ট কর্তৃত্ববাদ রোধ করতে সংসদীয় ব্যবস্থায় প্রধানমন্ত্রীর পদের মেয়াদসীমা নির্ধারণের ওপর গুরুত্বারোপ করা হয়েছে।",
-        "summary_en": "Experts emphasize setting term limits for prime ministers in parliamentary systems to prevent authoritarianism caused by prolonged power.",
-        "why_it_matters_bn": "মেয়াদসীমা নির্ধারিত হলে ক্ষমতার অপব্যবহার কমবে এবং সাধারণ নাগরিকরা প্রকৃত গণতান্ত্রিক অধিকার ও শক্তিশালী প্রাতিষ্ঠানিক সেবা পাবে।",
-        "why_it_matters_en": "Establishing term limits will curb the abuse of power, ensuring ordinary citizens enjoy true democratic rights and robust institutions.",
+        "title_bn": "প্রচলিত ব্যাংকের ইসলামি শাখা ও উইন্ডোতে আমানত বৃদ্ধি পেয়েছে",
+        "title_en": "Deposits Surge in Islamic Branches and Windows of Conventional Banks",
+        "summary_bn": "দেশের পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত হ্রাস পেলেও প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলোতে আমানত প্রবাহ উল্লেখযোগ্য পরিমাণে বৃদ্ধি পেয়েছে।",
+        "summary_en": "Deposits in Islamic branches and windows of conventional banks have increased significantly despite a decline in full-fledged Islamic banks.",
+        "why_it_matters_bn": "গ্রাহকরা প্রচলিত ব্যাংকের ইসলামি সেবার মাধ্যমে আমানত সংরক্ষণে নতুন বিকল্প ও স্বাচ্ছন্দ্য পাচ্ছেন।",
+        "why_it_matters_en": "Savers and consumers gain alternative secure avenues for managing funds through Islamic windows in conventional banks.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T20:41:56+00:00",
-        "lead_bn": "দীঘদিন ক্ষমতায় থাকার ফলে সৃষ্ট কর্তৃত্ববাদ রোধ করতে সংসদীয় ব্যবস্থায় প্রধানমন্ত্রীর পদের মেয়াদসীমা নির্ধারণের ওপর গুরুত্বারোপ করা হয়েছে।",
-        "lead_en": "Experts emphasize setting term limits for prime ministers in parliamentary systems to prevent authoritarianism caused by prolonged power.",
+        "published_at": "2026-10-21T00:02:27+00:00",
+        "lead_bn": "দেশের পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত হ্রাস পেলেও প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলোতে আমানত প্রবাহ উল্লেখযোগ্য পরিমাণে বৃদ্ধি পেয়েছে।",
+        "lead_en": "Deposits in Islamic branches and windows of conventional banks have increased significantly despite a decline in full-fledged Islamic banks.",
         "bullets_bn": [
-          "১. দীর্ঘমেয়াদি শাসনপদ্ধতিতে ক্ষমতার ব্যক্তিকেন্দ্রিক প্রবণতা রোধে সাংবিধানিক কাঠামোতে মেয়াদসীমা যুক্ত করার প্রস্তাব করা হয়েছে।",
-          "২. বৈশ্বিক গবেষণায় দেখা যায়, রাষ্ট্রপতিশাসিত সংবিধানগুলোর প্রায় ৬০ থেকে ৭৫ শতাংশে মেয়াদসীমা কার্যকর রয়েছে।",
-          "৩. নিয়মিত নেতৃত্ব পরিবর্তন নিশ্চিত হলে জবাবদিহি বাড়বে এবং গণতন্ত্র কর্তৃত্ববাদের দিকে ঝুঁকে পড়ার আশঙ্কা হ্রাস পাবে।"
+          "১. পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত কমলেও প্রচলিত ব্যাংকের ইসলামি শাখা ও উইন্ডোতে আমানত বেড়েছে।",
+          "২. গত এক বছরে প্রচলিত ধারার ব্যাংকগুলোর এই বিশেষ শাখাগুলোতে আমানতের পরিমাণ উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে।",
+          "৩. গ্রাহকদের আস্থার পরিবর্তনের কারণে ব্যাংক খাতের ইসলামি ব্যাংকিং কার্যক্রমে এই নতুন গতিশীলতা তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "1. Proposals suggest introducing constitutional term limits to prevent power concentration under prolonged governance.",
-          "2. Global research shows that roughly 60 to 75 percent of presidential constitutions enforce term limits.",
-          "3. Regular leadership changes will enhance accountability and reduce the risk of democratic backsliding into authoritarianism."
+          "1. Deposits increased in Islamic branches and windows of conventional banks despite a drop in full-fledged Islamic banks.",
+          "2. A significant growth in deposits was recorded in these specialized windows over the past year.",
+          "3. This shift reflects changing customer preferences and confidence within the banking sector's Islamic operations."
         ],
-        "impact_bn": "মেয়াদসীমা নির্ধারিত হলে ক্ষমতার অপব্যবহার কমবে এবং সাধারণ নাগরিকরা প্রকৃত গণতান্ত্রিক অধিকার ও শক্তিশালী প্রাতিষ্ঠানিক সেবা পাবে।",
-        "impact_en": "Establishing term limits will curb the abuse of power, ensuring ordinary citizens enjoy true democratic rights and robust institutions.",
-        "details_bn": "বিশ্বজুড়ে রাষ্ট্রপতির মেয়াদসীমা ব্যাপকভাবে প্রচলিত থাকলেও ওয়েস্টমিনস্টার ধাঁচের সংসদীয় ব্যবস্থায় প্রধান নির্বাহী বা প্রধানমন্ত্রীর মেয়াদ সাধারণত নির্ধারিত থাকে না। তবে হাঙ্গেরি, থাইল্যান্ড, বাংলাদেশ, মালয়েশিয়া ও ভারতের অভিজ্ঞতায় দেখা গেছে, নিয়ন্ত্রণহীন দীর্ঘ শাসন বিচার বিভাগ, প্রশাসন ও গণমাধ্যমের ওপর নেতিবাচক প্রভাব ফেলে এবং গণতান্ত্রিক প্রতিষ্ঠান দুর্বল করে। ফলে জবাবদিহি ও শান্তিপূর্ণ ক্ষমতা হস্তান্তরের স্বার্থে প্রধানমন্ত্রীর মেয়াদসীমা নির্ধারণ নিয়ে আন্তর্জাতিকভাবে বিতর্ক ও আলোচনা জোরালো হচ্ছে।",
-        "details_en": "While presidential term limits are widely adopted globally, Westminster-style parliamentary systems typically lack term limits for prime ministers. However, experiences in Hungary, Thailand, Bangladesh, Malaysia, and India show that unchecked prolonged rule negatively impacts the judiciary, administration, and media, weakening democratic institutions. Consequently, debates on establishing prime ministerial term limits are intensifying internationally to ensure accountability and peaceful transitions of power."
+        "impact_bn": "গ্রাহকরা প্রচলিত ব্যাংকের ইসলামি সেবার মাধ্যমে আমানত সংরক্ষণে নতুন বিকল্প ও স্বাচ্ছন্দ্য পাচ্ছেন।",
+        "impact_en": "Savers and consumers gain alternative secure avenues for managing funds through Islamic windows in conventional banks.",
+        "details_bn": "সাম্প্রতিক সময়ে দেশের ব্যাংক খাতে ইসলামি ব্যাংকিংয়ের প্রতি গ্রাহকদের ঝোঁক এবং আস্থার পরিসর পরিবর্তিত হয়েছে। পূর্ণাঙ্গ ইসলামি ব্যাংকগুলো যখন বিভিন্ন অনিয়ম ও তারল্য সংকটে ধুঁকছে, তখন প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলো তুলনামূলক নিরাপদ বিকল্প হিসেবে গ্রাহকদের আকৃষ্ট করছে। এর ফলে দেশের সামগ্রিক ব্যাংকিং কার্যক্রমে ইসলামি উইন্ডোগুলোর গুরুত্ব ও আমানতের প্রবৃদ্ধি ক্রমাগত বাড়ছে।",
+        "details_en": "In recent times, customer trust and preferences within the country's banking sector have experienced shifts. While full-fledged Islamic banks face governance and liquidity challenges, the Islamic branches and windows of conventional banks have emerged as safer alternatives, attracting steady inflows of deposits and altering traditional savings patterns."
+      }
+    },
+    {
+      "story_id": "44c37ee8-869e-5d76-abf8-69101c61a7a5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T23:48:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6225,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1170396",
+          "title": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
+          "snippet": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
+        "title_en": "Summary: ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
+        "summary_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "A key development that impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের সার্বিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T23:48:07+00:00",
+        "lead_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Key executive and policy developments underway regarding ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন.",
+        "bullets_bn": [
+          "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
+          "ওই যুবক নারী পরিচয়ে সখ্যতা গড়ে...",
+          "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
+        ],
+        "bullets_en": [
+          "Core Event: ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
+          "Official bodies and stakeholders are coordinating on executive procedures.",
+          "Follow-up directives are expected following departmental review."
+        ],
+        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
+        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
+        "details_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ। ওই যুবক নারী পরিচয়ে সখ্যতা গড়ে...",
+        "details_en": null
+      }
+    },
+    {
+      "story_id": "f9a3ccbb-1284-56f7-95af-15919b978087",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-20T23:40:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5886,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/975791/%E0%A6%B8%E0%A6%AC-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87",
+          "title": "সব শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনায় বসবে না ইরান",
+          "snippet": "সব শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনায় বসবে না ইরান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনা করবে না ইরান",
+        "title_en": "Iran Will Not Hold Talks With US Until Conditions Are Met",
+        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে আলোচনা শুরুর আগে ওয়াশিংটনকে ইরানের আস্থা পুনর্গঠনের শর্ত পূরণ করতে হবে বলে সাফ জানিয়ে দিয়েছে তেহরান।",
+        "summary_en": "Tehran has declared that Washington must fulfill trust-building conditions before starting any negotiations with Iran.",
+        "why_it_matters_bn": "১. ইরানের সব শর্ত বাস্তবায়িত না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে কোনো বৈঠকে বসবে না তেহরান।",
+        "why_it_matters_en": "1. Tehran will not sit for any talks with the US until all of Iran's conditions are fully met.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T23:40:40+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে আলোচনা শুরুর আগে ওয়াশিংটনকে ইরানের আস্থা পুনর্গঠনের শর্ত পূরণ করতে হবে বলে সাফ জানিয়ে দিয়েছে তেহরান।",
+        "lead_en": "Tehran has declared that Washington must fulfill trust-building conditions before starting any negotiations with Iran.",
+        "bullets_bn": [
+          "১. ইরানের সব শর্ত বাস্তবায়িত না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে কোনো বৈঠকে বসবে না তেহরান।",
+          "২. দেশটির সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সচিব মেজর জেনারেল মোহসেন রেজাই এই অবস্থান স্পষ্ট করেছেন।",
+          "৩. ওয়াশিংটনকে আগে নিজেদের সদিচ্ছা প্রমাণ ও আস্থা পুনর্গঠনের দৃশ্যমান পদক্ষেপ নিতে হবে।"
+        ],
+        "bullets_en": [
+          "1. Tehran will not sit for any talks with the US until all of Iran's conditions are fully met.",
+          "2. Major General Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, clarified this strict stance.",
+          "3. Washington must first take visible steps to prove good faith and rebuild mutual trust."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই যুক্তরাষ্ট্র ও ইরানের সম্পর্কের এই নতুন অচলাবস্থা তৈরি হয়েছে। এর আগে গত মাসে কাতারের মধ্যস্থতায় দুই দেশের মধ্যে বন্দী বিনিময় বা পরোক্ষ যোগাযোগের নানা উদ্যোগের কথা গণমাধ্যমে এলেও তেহরান এখন কঠোর শর্তের বেড়াজাল থেকে সরে আসতে নারাজ। ওয়াশিংটনের প্রতি অনাস্থা এবং পূর্বের বিভিন্ন চুক্তির বরখেলাপের কারণে তেহরান এই অনমনীয় অবস্থান বজায় রেখেছে।",
+        "details_en": "This new stalemate in US-Iran relations comes amid ongoing geopolitical tensions in the Middle East. Although reports last month indicated indirect contacts or prisoner exchange initiatives mediated by Qatar, Tehran remains firm on its strict preconditions. This uncompromising stance stems from deep-rooted distrust of Washington and past grievances regarding broken diplomatic agreements."
       }
     },
     {
@@ -125,7 +287,7 @@
       "published_at": "2026-10-20T22:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7053,
+      "rank_score": 0.3802,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -136,195 +298,32 @@
       ],
       "daily_buzz": {
         "title_bn": "ইসলামের ইতিহাসে নবম হিজরি প্রতিনিধিদলের বছর বা 'আমুল উফুদ' হিসেবে পরিচিত",
-        "title_en": "The Ninth Hijri Year Known in Islamic History as 'Amul Ufud'",
-        "summary_bn": "**মক্কা বিজয়ের পর আরবজুড়ে রাজনৈতিক পরিবর্তন আসায় নবম হিজরিতে মদিনায় প্রতিনিধিদলগুলোর আগমন ব্যাপকভাবে বৃদ্ধি পায়।**",
-        "summary_en": "**Delegations arriving in Medina surged massively during the ninth Hijri following sweeping political shifts across Arabia after the conquest of Mecca.**",
-        "why_it_matters_bn": "null",
-        "why_it_matters_en": "null",
+        "title_en": "The Ninth Hijri Year Known as 'Amul Ufud' or Year of Delegations in Islamic History",
+        "summary_bn": "মক্কা বিজয়ের পর নবম হিজরিতে আরবজুড়ে বিভিন্ন প্রতিনিধিদলের মদিনায় আগমনের জোয়ার সৃষ্টি হয় যা ইসলামের ইতিহাসে আমুল উফুদ নামে খ্যাত।",
+        "summary_en": "Following the Conquest of Mecca, the ninth Hijri year marked a massive influx of delegations to Medina, known in Islamic history as Amul Ufud.",
+        "why_it_matters_bn": "১. আরবের বিভিন্ন অঞ্চল থেকে ইসলাম ধর্ম গ্রহণ, আনুগত্য প্রকাশ ও আলোচনার জন্য প্রতিনিধিদল মদিনায় আগমন করে।",
+        "why_it_matters_en": "1. Delegations from various regions of Arabia arrived in Medina to embrace Islam, pledge allegiance, and hold discussions.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-20T22:30:00+00:00",
-        "lead_bn": "**মক্কা বিজয়ের পর আরবজুড়ে রাজনৈতিক পরিবর্তন আসায় নবম হিজরিতে মদিনায় প্রতিনিধিদলগুলোর আগমন ব্যাপকভাবে বৃদ্ধি পায়।**",
-        "lead_en": "**Delegations arriving in Medina surged massively during the ninth Hijri following sweeping political shifts across Arabia after the conquest of Mecca.**",
+        "lead_bn": "মক্কা বিজয়ের পর নবম হিজরিতে আরবজুড়ে বিভিন্ন প্রতিনিধিদলের মদিনায় আগমনের জোয়ার সৃষ্টি হয় যা ইসলামের ইতিহাসে আমুল উফুদ নামে খ্যাত।",
+        "lead_en": "Following the Conquest of Mecca, the ninth Hijri year marked a massive influx of delegations to Medina, known in Islamic history as Amul Ufud.",
         "bullets_bn": [
-          "১. ইসলাম গ্রহণের খবর ছড়িয়ে পড়ার পর আরবের বিভিন্ন অঞ্চল থেকে প্রতিনিধিদল মদিনায় আগমন করে।",
-          "২. ইসলামের ইতিহাসে নবম হিজরি সালটি 'আমুল উফুদ' বা প্রতিনিধিদলের বছর হিসেবে খ্যাতি লাভ করে।",
-          "৩. বিভিন্ন গোত্র ইসলাম সম্পর্কে জানতে এবং আনুগত্যের অঙ্গীকার জানাতে মদিনা সফর করে।"
+          "১. আরবের বিভিন্ন অঞ্চল থেকে ইসলাম ধর্ম গ্রহণ, আনুগত্য প্রকাশ ও আলোচনার জন্য প্রতিনিধিদল মদিনায় আগমন করে।",
+          "২. ইবনে হিশামের সিরাত গ্রন্থ অনুযায়ী মক্কা বিজয় ও তায়েফবাসীর ইসলাম গ্রহণের পর প্রতিনিধিদলের আগমন বহুগুণ বৃদ্ধি পায়।",
+          "৩. রাসুল (সা.) পরিস্থিতি অনুযায়ী যুক্তি, আন্তরিক অভ্যর্থনা ও বাস্তবসম্মত সিদ্ধান্তের মাধ্যমে আগত প্রতিনিধিদের সঙ্গে সম্পর্ক স্থাপন করেন।"
         ],
         "bullets_en": [
-          "1. Delegations arrived in Medina from various regions across Arabia following the spread of Islam.",
-          "2. The ninth Hijri year gained historical renown as 'Amul Ufud' or the Year of Delegations.",
-          "3. Different tribes visited Medina to learn about Islam and offer pledges of allegiance."
-        ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "মক্কা বিজয়ের আগে আরবের অনেক গোত্র ইসলাম গ্রহণের বিষয়ে সতর্ক অবস্থান নিয়েছিল এবং কোরাইশদের সঙ্গে সংঘাতের পরিণতির অপেক্ষায় ছিল। অষ্টম হিজরিতে মক্কা বিজয় ও পরবর্তী ঘটনাবলি আরবের রাজনৈতিক ও সামাজিক পরিস্থিতিতে বড় পরিবর্তন আনে। পবিত্র কুরআনের সুরা নাসরে এই বিজয়ের মাধ্যমে মানুষের দলে দলে ইসলাম গ্রহণের ঐতিহাসিক পটভূমি বর্ণিত হয়েছে।",
-        "details_en": "Before the conquest of Mecca, many Arab tribes maintained a cautious stance regarding Islam, awaiting the outcome of the conflict with the Quraysh. The conquest in the eighth Hijri and subsequent events brought major shifts to the political and social landscape of Arabia. Surah Nasr in the Holy Quran depicts this historical backdrop of people entering Islam in crowds following the divine victory."
-      }
-    },
-    {
-      "story_id": "d295537b-8c19-5d57-8e6c-1805930ab78a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T22:26:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.683,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170395",
-          "title": "ব্রাহ্মণবাড়িয়ায় গরুর ঘাস কাটা নিয়ে সংঘর্ষে জড়ালো দুই পক্ষ",
-          "snippet": "ব্রাহ্মণবাড়িয়ায় গরুর ঘাস কাটা নিয়ে সংঘর্ষে জড়ালো দুই পক্ষ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে ঘাস কাটা নিয়ে সংঘর্ষে ইউপি চেয়ারম্যানসহ আহত ১৫",
-        "title_en": "Grass Cutting Dispute Triggers Clash in Brahmanbaria, Leaving 15 Injured Including UP Chairman",
-        "summary_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে গরুর ঘাস কাটাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষে ইউনিয়ন পরিষদের চেয়ারম্যানসহ অন্তত ১৫ জন আহত হয়েছেন।",
-        "summary_en": "At least 15 people, including a Union Parishad chairman, were injured during a violent clash over grass cutting in Brahmanbaria's Sarail.",
-        "why_it_matters_bn": "গ্রামীণ এলাকায় তুচ্ছ বিষয় কেন্দ্র করে সহিংসতা এড়াতে দ্রুত স্থানীয় বিরোধ নিষ্পত্তির প্রয়োজনীয়তা স্পষ্ট হয়েছে।",
-        "why_it_matters_en": "Tensions in rural communities highlight the vital need for prompt local conflict resolution to prevent sudden violence.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T22:26:09+00:00",
-        "lead_bn": "ব্রাহ্মণবাড়িয়ার সরাইলে গরুর ঘাস কাটাকে কেন্দ্র করে দুই পক্ষের সংঘর্ষে ইউনিয়ন পরিষদের চেয়ারম্যানসহ অন্তত ১৫ জন আহত হয়েছেন।",
-        "lead_en": "At least 15 people, including a Union Parishad chairman, were injured during a violent clash over grass cutting in Brahmanbaria's Sarail.",
-        "bullets_bn": [
-          "গরুর জন্য ঘাস কাটাকে কেন্দ্র করে ব্রাহ্মণবাড়িয়ার সরাইলে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষ ঘটে।",
-          "রাতের অন্ধকারে সংঘটিত এই সংঘর্ষে স্থানীয় ইউপি চেয়ারম্যানসহ উভয় পক্ষের অন্তত ১৫ জন আহত হন।",
-          "ঘটনার পর এলাকায় থমথমে পরিস্থিতি বিরাজ করায় অতিরিক্ত পুলিশ মোতায়েন করে শৃঙ্খলা বজায় রাখা হয়।"
-        ],
-        "bullets_en": [
-          "A violent clash broke out between two groups in Brahmanbaria's Sarail over cutting grass for cattle.",
-          "At least 15 people, including the local Union Parishad chairman, sustained injuries during the nighttime altercation.",
-          "Police stepped in following the conflict to restore law and order and calm tension in the area."
-        ],
-        "impact_bn": "গ্রামীণ এলাকায় তুচ্ছ বিষয় কেন্দ্র করে সহিংসতা এড়াতে দ্রুত স্থানীয় বিরোধ নিষ্পত্তির প্রয়োজনীয়তা স্পষ্ট হয়েছে।",
-        "impact_en": "Tensions in rural communities highlight the vital need for prompt local conflict resolution to prevent sudden violence.",
-        "details_bn": "বাংলাদেশে গ্রামীণ এলাকায় জমি ও ছোটখাটো সম্পদ নিয়ে তৈরি হওয়া সাধারণ বিরোধ মাঝেমধ্যেই বড় সংঘর্ষে রূপ নেয়। ব্রাহ্মণবাড়িয়ার সরাইলে স্থানীয় গোষ্ঠীগুলোর মধ্যকার পূর্ববিরোধ এবং প্রভাব বিস্তারের মনোভাব থেকে প্রায়শই তুচ্ছ ঘটনা কেন্দ্র করে সহিংসতা ছড়িয়ে পড়ে। এসব ঘটনা নিয়ন্ত্রণে প্রশাসন নিয়মিত পুলিশি তৎপরতা বৃদ্ধির মাধ্যমে স্থানীয় শান্তি ধরে রাখার চেষ্টা করে।",
-        "details_en": "In rural Bangladesh, minor disagreements over local resources such as land or grazing areas often escalate into larger clashes due to underlying factional rivalries. Sarail in Brahmanbaria has a history of local group disputes where minor incidents trigger violent altercations, frequently requiring law enforcement intervention to restore peace and process legal cases against perpetrators."
-      }
-    },
-    {
-      "story_id": "58fe4c21-f45a-5cba-801f-c539b2bcc031",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#SpaceX",
-        "#Tesla",
-        "#ElonMusk"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-      "image_caption": null,
-      "published_at": "2026-10-20T22:57:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6483,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-          "title": "SpaceX and Tesla boards form special committees to review merger",
-          "snippet": "SpaceX and Tesla boards form special committees to review merger"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেসএক্স এবং টেসলার মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন",
-        "title_en": "SpaceX and Tesla Boards Form Special Committees to Review Merger",
-        "summary_bn": "**শেয়ারহোল্ডারদের অনুরোধে স্পেসএক্স এবং টেসলা সম্ভাব্য মার্জ পর্যালোচনা করতে স্বাধীন পরিচালকদের নিয়ে বিশেষ কমিটি গঠন করেছে।**",
-        "summary_en": "**SpaceX and Tesla boards have formed special committees of independent directors to review a potential merger following shareholder requests.**",
-        "why_it_matters_bn": "১. দুই কোম্পানির বোর্ড শেয়ারহোল্ডারদের অনুরোধে সম্ভাব্য মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন করেছে।",
-        "why_it_matters_en": "1. The boards of both companies established special committees consisting of independent directors to review a possible merger.",
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T22:57:57+00:00",
-        "lead_bn": "**শেয়ারহোল্ডারদের অনুরোধে স্পেসএক্স এবং টেসলা সম্ভাব্য মার্জ পর্যালোচনা করতে স্বাধীন পরিচালকদের নিয়ে বিশেষ কমিটি গঠন করেছে।**",
-        "lead_en": "**SpaceX and Tesla boards have formed special committees of independent directors to review a potential merger following shareholder requests.**",
-        "bullets_bn": [
-          "১. দুই কোম্পানির বোর্ড শেয়ারহোল্ডারদের অনুরোধে সম্ভাব্য মার্জ পর্যালোচনার জন্য বিশেষ কমিটি গঠন করেছে।",
-          "২. প্রধান নির্বাহী Elon Musk জানিয়েছেন যে স্বার্থের সংঘাত এড়াতে তিনি বা তার ভাই Kimbal Musk এই কমিটির আলোচনায় অংশ নিচ্ছেন না।",
-          "৩. মার্জ নিশ্চিত নয় এবং চূড়ান্ত সিদ্ধান্তের জন্য শেষ পর্যন্ত শেয়ারহোল্ডারদের সমর্থন প্রয়োজন হবে বলে জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "1. The boards of both companies established special committees consisting of independent directors to review a possible merger.",
-          "2. CEO Elon Musk confirmed that neither he nor his brother Kimbal Musk can participate in discussions due to conflicts of interest.",
-          "3. Musk cautioned that the merger is not guaranteed and ultimately depends on shareholder approval."
+          "1. Delegations from various regions of Arabia arrived in Medina to embrace Islam, pledge allegiance, and hold discussions.",
+          "2. According to historical records in Ibn Hisham's Sirah, the arrival of delegations surged following the Conquest of Mecca and Taif.",
+          "3. The Prophet Muhammad handled each delegation with contextual wisdom, sincere hospitality, and pragmatic decision-making."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্পেসএক্স এবং টেসলার প্রধান নির্বাহী Elon Musk-এর ভাষ্য অনুযায়ী, শেয়ারহোল্ডারদের ক্রমবর্ধমান চাপের মুখে দুই কোম্পানির মার্জ বা একত্রীকরণের বিষয়টি পর্যালোচনার উদ্যোগ নেওয়া হয়েছে। স্বাধীন পরিচালকদের সমন্বয়ে গঠিত এই কমিটিগুলো দুই প্রতিষ্ঠানের ব্যবসায়িক কাঠামোর সম্ভাব্যতা খতিয়ে দেখবে। তবে Musk স্পষ্ট করেছেন যে মার্জ প্রক্রিয়াটি এখনও নিশ্চিত নয় এবং এর ভবিষ্যৎ সম্পূর্ণভাবে শেয়ারহোল্ডারদের অনুমোদনের ওপর নির্ভর করছে।",
-        "details_en": "At the request of shareholders, the boards of SpaceX and Tesla created special committees comprising independent directors to assess a potential merger. CEO Elon Musk noted that due to conflicts of interest, neither he nor Kimbal Musk are involved in committee discussions. While Musk expressed personal support for the idea, he cautioned that a merger is not guaranteed and requires ultimate backing from shareholders."
-      }
-    },
-    {
-      "story_id": "fa75e48c-39fc-552f-ac2a-0f0f77026866",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T22:05:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5806,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1170394",
-          "title": "রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শনে গণঅধিকার পরিষদের নেতারা",
-          "snippet": "রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শনে গণঅধিকার পরিষদের নেতারা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দুর্গাপূজা উপলক্ষে রমনা ও ঢাকেশ্বরী মন্দির পরিদর্শন করেছেন গণঅধিকার পরিষদের নেতারা",
-        "title_en": "Gono Odhikar Parishad Leaders Visit Ramna and Dhakeshwari Temples",
-        "summary_bn": "দুর্গাপূজা উদযাপনের অংশ হিসেবে রাজধানীর দুটি প্রধান মন্দির পরিদর্শন করে হিন্দু সম্প্রদায়ের নেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেছেন গণঅধিকার পরিষদের নেতারা।",
-        "summary_en": "Gono Odhikar Parishad leaders visited two major capital temples and exchanged greetings with Hindu community leaders as part of Durga Puja celebrations.",
-        "why_it_matters_bn": "এই ধরনের আন্তঃধর্মীয় শুভেচ্ছা বিনিময় দেশের বিভিন্ন সম্প্রদায়ের মধ্যে সাম্প্রদায়িক সম্প্রীতি ও পারস্পরিক আস্থা সুদৃঢ় করতে ভূমিকা রাখে।",
-        "why_it_matters_en": "Such interfaith greetings help strengthen communal harmony and mutual trust among different communities in the country.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T22:05:09+00:00",
-        "lead_bn": "দুর্গাপূজা উদযাপনের অংশ হিসেবে রাজধানীর দুটি প্রধান মন্দির পরিদর্শন করে হিন্দু সম্প্রদায়ের নেতাদের সঙ্গে শুভেচ্ছা বিনিময় করেছেন গণঅধিকার পরিষদের নেতারা।",
-        "lead_en": "Gono Odhikar Parishad leaders visited two major capital temples and exchanged greetings with Hindu community leaders as part of Durga Puja celebrations.",
-        "bullets_bn": [
-          "১. গণঅধিকার পরিষদের শীর্ষ নেতারা রাজধানীর রমনা কালী মন্দির ও শ্রী শ্রী ঢাকেশ্বরী জাতীয় মন্দির পরিদর্শন করেন।",
-          "২. পরিদর্শনকালে দলটির প্রতিনিধিদল সনাতন ধর্মাবলম্বী নেতাদের সঙ্গে কুশল বিনিময় ও শুভেচ্ছা আদান-প্রদান করেন।",
-          "৩. দেশের সব ধর্মের মানুষের সমান অধিকার ও নিরাপত্তা নিশ্চিত করার বার্তা দেওয়া হয় এই কর্মসূচির মাধ্যমে।"
-        ],
-        "bullets_en": [
-          "1. Top leaders of Gono Odhikar Parishad visited Ramna Kali Temple and Sri Sri Dhakeshwari National Temple.",
-          "2. The delegation exchanged greetings and pleasantries with Hindu community leaders during the visit.",
-          "3. The initiative conveyed a message of ensuring equal rights and security for people of all faiths in the country."
-        ],
-        "impact_bn": "এই ধরনের আন্তঃধর্মীয় শুভেচ্ছা বিনিময় দেশের বিভিন্ন সম্প্রদায়ের মধ্যে সাম্প্রদায়িক সম্প্রীতি ও পারস্পরিক আস্থা সুদৃঢ় করতে ভূমিকা রাখে।",
-        "impact_en": "Such interfaith greetings help strengthen communal harmony and mutual trust among different communities in the country.",
-        "details_bn": "শারদীয় দুর্গাপূজা উদযাপনের প্রাক্কালে দেশের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠনের পক্ষ থেকে মন্দির পরিদর্শন এবং সনাতন ধর্মাবলম্বীদের সঙ্গে শুভেচ্ছা বিনিময়ের ঐতিহ্য রয়েছে। এরই ধারাবাহিকতায় গণঅধিকার পরিষদের নেতারা রাজধানীর ঐতিহাসিক রমনা কালী মন্দির এবং ঢাকেশ্বরী জাতীয় মন্দির পরিদর্শনে যান এবং পূজামণ্ডপের সার্বিক পরিস্থিতি ও নিরাপত্তার খোঁজখবর নেন।",
-        "details_en": "Political and social organizations in the country traditionally visit temples and exchange greetings with the Hindu community ahead of Sharadiya Durga Puja. Continuing this practice, Gono Odhikar Parishad leaders visited the capital's historic Ramna Kali Temple and Dhakeshwari National Temple to observe the overall situation and security measures at the puja venues."
+        "details_bn": "মক্কা বিজয়ের আগে আরবের বিভিন্ন গোত্র কোরাইশদের সঙ্গে মুসলমানদের সংঘাতের পরিণতি পর্যবেক্ষণের জন্য সতর্ক অবস্থানে ছিল। অষ্টম হিজরিতে মক্কা বিজয় এবং পরবর্তী ঐতিহাসিক ঘটনাপ্রবাহ আরব উপদ্বীপের রাজনৈতিক ও সামাজিক পরিস্থিতিতে যুগান্তকারী পরিবর্তন আনে। পবিত্র কুরআনের সুরা নাসরে এই বিজয়ের মাধ্যমে মানুষের দলে দলে ইসলামে প্রবেশের বিষয়টি স্পষ্টভাবে উল্লেখ করা হয়েছে। এর ধারাবাহিকতায় নবম হিজরিতে বিভিন্ন গোত্রের প্রতিনিধিদলের আগমন নজিরবিহীনভাবে বৃদ্ধি পায়।",
+        "details_en": "Before the Conquest of Mecca, many Arabian tribes adopted a cautious stance, waiting to see the outcome of the conflict between the Quraysh and Muslims. The conquest in the eighth Hijri year and subsequent events dramatically transformed the political and social landscape of Arabia. This mass entry of people into Islam was foretold in Surah An-Nasr. Consequently, the influx of tribal delegations peaked significantly during the ninth Hijri year."
       }
     }
   ]
