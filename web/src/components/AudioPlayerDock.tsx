@@ -71,12 +71,12 @@ export const AudioPlayerDock: React.FC = () => {
   };
 
   return (
-    <div
-      onClick={() => setIsAudioSheetOpen(true)}
-      className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3.5 transition-all duration-300 hover:border-mint/60 animate-slideUp
-        bottom-20 md:bottom-6 left-1/2 -translate-x-1/2 w-[94%] sm:w-[88%] md:w-[80%] lg:w-[65%] xl:w-[55%] max-w-4xl"
-    >
-      {/* Clickable interactive scrubber */}
+    <div className="fixed z-40 bottom-20 md:bottom-6 left-0 right-0 flex justify-center pointer-events-none px-3 sm:px-6">
+      <div
+        onClick={() => setIsAudioSheetOpen(true)}
+        className="pointer-events-auto cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3.5 transition-all duration-300 hover:border-mint/60 animate-slideUp w-full max-w-xl md:max-w-2xl lg:max-w-3xl"
+      >
+        {/* Clickable interactive scrubber */}
       <div 
         ref={progressBarRef}
         onClick={handleProgressClick}
@@ -225,5 +225,6 @@ export const AudioPlayerDock: React.FC = () => {
         </div>
       </div>
     </div>
+  </div>
   );
 };
