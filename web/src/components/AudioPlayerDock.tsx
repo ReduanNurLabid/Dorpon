@@ -73,8 +73,8 @@ export const AudioPlayerDock: React.FC = () => {
   return (
     <div
       onClick={() => setIsAudioSheetOpen(true)}
-      className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3 transition-all duration-300 hover:border-mint/60 animate-slideUp
-        bottom-20 md:bottom-8 left-1/2 -translate-x-1/2 w-[94%] max-w-lg"
+      className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3.5 transition-all duration-300 hover:border-mint/60 animate-slideUp
+        bottom-20 md:bottom-6 left-1/2 -translate-x-1/2 w-[94%] sm:w-[88%] md:w-[80%] lg:w-[65%] xl:w-[55%] max-w-4xl"
     >
       {/* Clickable interactive scrubber */}
       <div 
@@ -109,16 +109,16 @@ export const AudioPlayerDock: React.FC = () => {
             )}
           </div>
 
-          <div className="overflow-hidden min-w-0">
-            <div className="flex items-center space-x-2">
-              <span className="text-[10px] font-bold uppercase tracking-wider text-mint">
+          <div className="overflow-hidden min-w-0 flex-1">
+            <div className="flex items-center space-x-2 mb-0.5">
+              <span className="text-[10px] sm:text-xs font-bold uppercase tracking-wider text-mint">
                 {categoryLabel}
               </span>
-              <span className="text-[10px] text-text-secondary/80 font-mono">
+              <span className="text-[10px] sm:text-xs text-text-secondary/80 font-mono">
                 {formatSeconds(audioCurrentTime)} / {formatSeconds(audioDuration)}
               </span>
             </div>
-            <p className="text-xs sm:text-sm font-semibold text-white truncate">
+            <p className="text-xs sm:text-sm md:text-base font-semibold text-white truncate">
               {title}
             </p>
           </div>
@@ -126,7 +126,7 @@ export const AudioPlayerDock: React.FC = () => {
 
         {/* Action Controls */}
         <div 
-          className="flex items-center space-x-1 sm:space-x-1.5 flex-shrink-0"
+          className="flex items-center space-x-1 sm:space-x-2 flex-shrink-0"
           onClick={(e) => e.stopPropagation()}
         >
           {/* Skip -10s */}
