@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useApp } from '../context/AppContext';
 import { TabType } from '../types';
+import { fetchDseMarketData, StockMarketData } from '../services/stockService';
 import { 
   Headphones, 
   Type, 
@@ -31,7 +32,22 @@ export const Header: React.FC = () => {
   } = useApp();
 
   const [searchQuery, setSearchQuery] = useState('');
+  const [stockData, setStockData] = useState<StockMarketData | null>(null);
   const isBn = language === 'bn';
+
+  useEffect(() => {
+    fetchDseMarketData().then((data) => {
+      if (data) setStockData(data);
+    });
+  }, []);
+
+  const formatStockNum = (num: number, decimals: number = 2) => {
+    const formatted = num.toLocaleString('en-US', {
+      minimumFractionDigits: decimals,
+      maximumFractionDigits: decimals,
+    });
+    return isBn ? toBanglaDigits(formatted) : formatted;
+  };
 
   // Format today's date in broadsheet format
   const today = new Date();
@@ -151,12 +167,32 @@ export const Header: React.FC = () => {
           {/* Left Financial Register (Desktop) */}
           <div className="absolute left-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-left font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant leading-tight space-y-0.5">
             <span className="font-bold text-primary flex items-center gap-1">
-              <span className="w-1.5 h-1.5 rounded-full bg-secondary"></span>
-              {isBn ? 'আর্থিক সূচক' : 'FINANCIAL REGISTER'}
+              <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
+              {isBn ? 'ডিএসই স্টক রেজিস্টার' : 'DSE STOCK REGISTER'}
             </span>
-            <span>REPO: 10.00% (+25bps)</span>
-            <span>FOREX: $24.81B</span>
-            <span>INFLATION: 9.92% YoY</span>
+            {stockData?.indices?.DSEX && (
+              <span className="flex items-center gap-1 font-mono">
+                <span>DSEX: {formatStockNum(stockData.indices.DSEX.close)}</span>
+                <span className={stockData.indices.DSEX.change >= 0 ? 'text-secondary font-bold' : 'text-red-600 font-bold'}>
+                  ({stockData.indices.DSEX.change >= 0 ? '+' : ''}{formatStockNum(stockData.indices.DSEX.change_percent)}%)
+                </span>
+              </span>
+            )}
+            {stockData?.indices?.DS30 && (
+              <span className="flex items-center gap-1 font-mono">
+                <span>DS30: {formatStockNum(stockData.indices.DS30.close)}</span>
+                <span className={stockData.indices.DS30.change >= 0 ? 'text-secondary font-bold' : 'text-red-600 font-bold'}>
+                  ({stockData.indices.DS30.change >= 0 ? '+' : ''}{formatStockNum(stockData.indices.DS30.change_percent)}%)
+                </span>
+              </span>
+            )}
+            {stockData?.breadth && (
+              <span className="font-mono">
+                {isBn 
+                  ? `লেনদেন: ৳${toBanglaDigits(Math.round(stockData.breadth.total_value_mn || 5026))} কোটি`
+                  : `TURNOVER: ৳${Math.round(stockData.breadth.total_value_mn || 5026).toLocaleString()}M`}
+              </span>
+            )}
           </div>
 
           {/* Central Logo & Grand Logotype */}
