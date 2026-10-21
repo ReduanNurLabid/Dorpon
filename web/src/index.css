@@ -55,6 +55,38 @@
   }
 }
 
+/* Broadsheet Rules */
+.ink-border-double {
+  border: 3px double #141414;
+}
+.ink-border-fine {
+  border: 1px solid #141414;
+}
+.paper-texture {
+  background-color: #f6f3eb;
+  background-image: radial-gradient(#141414 0.4px, transparent 0.4px);
+  background-size: 8px 8px;
+}
+.registration-mark {
+  position: relative;
+}
+.registration-mark::before,
+.registration-mark::after {
+  content: '+';
+  position: absolute;
+  font-size: 10px;
+  line-height: 1;
+  color: #85837e;
+  font-family: monospace;
+}
+.registration-mark::before { top: 3px; left: 4px; }
+.registration-mark::after { top: 3px; right: 4px; }
+
+.newsprint-filter {
+  filter: grayscale(100%) contrast(120%) brightness(96%);
+  mix-blend-mode: multiply;
+}
+
 @keyframes slideUp {
   from {
     opacity: 0;

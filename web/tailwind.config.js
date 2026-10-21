@@ -37,6 +37,12 @@ export default {
           highlight: 'rgba(52, 211, 153, 0.12)',
         },
         paper: {
+          DEFAULT: '#FCF9F1',
+          dim: '#ECE7DB',
+          sheet: '#FFFFFF',
+          box: '#F6F3EB',
+          tint: '#F4F7F4',
+          ochre: '#FAF5EC',
           bg: '#fcf9f1',
           surface: '#f6f3eb',
           container: '#f1eee6',
@@ -46,6 +52,18 @@ export default {
           emerald: '#006c4a',
           emeraldLight: '#82f5c1',
           border: '#c4c7c7',
+        },
+        ink: {
+          DEFAULT: '#141414',
+          muted: '#4A4A48',
+          faint: '#85837E',
+          border: '#2C2B29',
+          rule: '#D6D1C4',
+        },
+        accent: {
+          emerald: '#1E5E41',
+          amber: '#965E0E',
+          brick: '#8B2C2C',
         },
         // Direct broadsheet color tokens from code.html
         'primary': '#000000',
