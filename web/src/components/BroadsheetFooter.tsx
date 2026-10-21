@@ -20,17 +20,20 @@ export const BroadsheetFooter: React.FC = () => {
             <span className="font-display-masthead text-2xl sm:text-3xl tracking-tight text-primary uppercase font-bold">
               {isBn ? 'সন্দেশ এক্সপ্রেস' : 'SONDESH EXPRESS'}
             </span>
+            <div className="mt-1 font-label-sm text-label-sm uppercase tracking-wider text-secondary font-bold">
+              {isBn ? 'বাংলাদেশ নিউজ নেটওয়ার্ক • স্বাধীন সংবাদ সংকলন' : 'BANGLADESH NEWS WIRE • INDEPENDENT DIGITAL GAZETTE'}
+            </div>
             <p className="font-serif text-sm text-on-surface-variant mt-2 max-w-md leading-relaxed">
               {isBn
                 ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। আপনার সময়ের মর্যাদা দিয়ে শীর্ষ সংবাদমাধ্যম থেকে যাচাইকৃত ও কিউরেট করা প্রয়োজনীয় সংবাদের সারসংক্ষেপ।'
-                : 'Established 1 November 2026. Curated, source-verified news summaries engineered to respect your time with only what actually needs to be read.'}
+                : 'Established 1 November 2026. Bangladesh’s fast, noise-free digital news broadsheet — curating strictly what you need to know with direct source verification.'}
             </p>
             <div className="mt-4 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider flex items-center gap-2">
-              <span>{isBn ? 'ঢাকা ব্যুরো' : 'Dhaka Bureau'}</span>
+              <span>{isBn ? 'ঢাকা ব্যুরো (বাংলাদেশ)' : 'Dhaka Bureau (Bangladesh)'}</span>
               <span>•</span>
-              <span>{isBn ? 'জেনেভা ওয়্যার' : 'Geneva Wire'}</span>
+              <span>{isBn ? 'চট্টগ্রাম নিউজ ডেস্ক' : 'Chittagong News Desk'}</span>
               <span>•</span>
-              <span>{isBn ? 'লন্ডন ব্যুরো' : 'London Bureau'}</span>
+              <span>{isBn ? 'গ্লোবাল মনিটর' : 'Global Monitor'}</span>
             </div>
           </div>
 
@@ -103,7 +106,7 @@ export const BroadsheetFooter: React.FC = () => {
         {/* Lower Footer Copyright & Disclaimer */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-on-surface-variant font-serif text-xs sm:text-sm">
           <p>
-            &copy; 2026 Sondesh Express. Established 1 November 2026. All editorial summary rights reserved.
+            &copy; 2026 Sondesh Express (Bangladesh News Wire). Established 1 November 2026. All editorial summary rights reserved.
           </p>
           <div className="mt-3 sm:mt-0 flex items-center space-x-4 font-label-sm text-label-sm uppercase">
             <span className="text-outline-variant hidden sm:inline">

@@ -77,20 +77,20 @@ export const Header: React.FC = () => {
           <div className="flex items-center space-x-2.5 sm:space-x-3">
             <span className="flex items-center gap-1 font-semibold text-primary">
               <span className="text-secondary font-mono">●</span>
-              {isBn ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬' : 'Est. 1 November 2026'}
+              {isBn ? 'বাংলাদেশ • ১ নভেম্বর ২০২৬' : 'Bangladesh • 1 November 2026'}
             </span>
             <span className="text-outline-variant">|</span>
             <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
             <span className="text-outline-variant hidden sm:inline">|</span>
             <span className="hidden sm:inline font-medium text-on-surface">
-              {isBn ? `ঢাকা • ${dateFormatted} • লাইভ এডিশন` : `Dhaka • ${dateFormatted} • Live Edition`}
+              {isBn ? `ঢাকা নিউজ ডেস্ক • ${dateFormatted} • লাইভ এডিশন` : `Dhaka News Desk • ${dateFormatted} • Live Edition`}
             </span>
           </div>
 
           <div className="flex items-center space-x-3 sm:space-x-4">
             <span className="text-secondary font-semibold hidden md:flex items-center gap-1.5">
               <span className="w-2 h-2 rounded-full bg-secondary inline-block animate-pulse"></span>
-              {isBn ? '৩-স্তর বিশিষ্ট এক্সিকিউটিভ ডসিয়ার মোড' : '3-TIER EXECUTIVE DOSSIER MODE'}
+              {isBn ? 'বাংলাদেশ সংবাদ ও নির্বাহী ব্রিফিং' : 'BANGLADESH NEWS & EXECUTIVE BRIEFINGS'}
             </span>
             <span className="text-outline-variant hidden md:inline">|</span>
 
@@ -161,8 +161,8 @@ export const Header: React.FC = () => {
             </h1>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
-                ? 'আপনার সময়ের মূল্য দিয়ে—শীর্ষ সংবাদমাধ্যমের সূত্রসহ যাচাইকৃত ও কিউরেট করা প্রয়োজনীয় সংবাদের সারসংক্ষেপ' 
-                : 'Essential News, Rigorously Sourced & Curated — Respecting Your Time With What Actually Matters'}
+                ? 'সংবাদের অপ্রয়োজনীয় বাহুল্য বর্জন — বাংলাদেশ ও বিশ্বের মূল খবরের কিউরেট করা সারসংক্ষেপ' 
+                : 'Cut the Noise. Bangladesh News & Verified Global Briefings Curated for Your Time.'}
             </p>
           </div>
 
