@@ -139,10 +139,10 @@ export const CurrentAffairsFeed: React.FC = () => {
                 <button
                   key={s.story_id}
                   onClick={() => setSelectedStoryId(s.story_id)}
-                  className={`px-3 py-1 font-semibold whitespace-nowrap transition-colors border ${
+                  className={`px-3 py-1 font-semibold whitespace-nowrap transition-colors border cursor-pointer ${
                     isSelected
-                      ? 'bg-primary text-on-primary border-primary'
-                      : 'bg-surface border-outline-variant hover:border-primary text-on-surface'
+                      ? 'bg-primary text-background border-primary shadow-sm font-bold'
+                      : 'bg-surface border-outline-variant hover:border-primary text-primary'
                   }`}
                 >
                   {shortTitle}
@@ -269,7 +269,7 @@ export const CurrentAffairsFeed: React.FC = () => {
 
                 <button
                   onClick={() => openStory(activeDossier)}
-                  className="mt-5 w-full inline-flex items-center justify-center gap-2 py-2 bg-primary text-on-primary font-label-md text-label-md uppercase tracking-wider hover:bg-on-surface-variant transition-colors cursor-pointer"
+                  className="mt-5 w-full inline-flex items-center justify-center gap-2 py-2.5 bg-primary text-background font-label-md text-label-md uppercase tracking-wider hover:bg-surface-container-highest hover:text-primary transition-colors cursor-pointer border border-primary font-bold"
                 >
                   <BookOpen className="w-4 h-4" />
                   <span>{isBn ? 'পূর্ণাঙ্গ ডসিয়ার বিস্তারিত দেখুন' : 'Open Full Analytical Canvas'}</span>
@@ -359,7 +359,7 @@ export const CurrentAffairsFeed: React.FC = () => {
                   <div key={aIdx} className="p-3.5 bg-surface border border-primary/20 flex flex-col justify-between">
                     <div>
                       <div className="flex items-center gap-2 mb-1">
-                        <span className="px-2 py-0.5 bg-primary text-on-primary text-label-sm font-label-sm font-bold uppercase">
+                        <span className="px-2 py-0.5 bg-primary text-background text-label-sm font-label-sm font-bold uppercase">
                           {art.article_number}
                         </span>
                         <span className="font-bold text-primary font-headline-sm text-headline-sm">
@@ -466,7 +466,7 @@ export const CurrentAffairsFeed: React.FC = () => {
                     href={src.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="px-3 py-1.5 bg-surface-container border border-primary/20 hover:bg-primary hover:text-on-primary transition-colors flex items-center gap-1"
+                    className="px-3 py-1.5 bg-surface-container border border-primary/20 hover:bg-primary hover:text-background transition-colors flex items-center gap-1"
                   >
                     <span>{src.name}</span>
                     <ExternalLink className="w-3 h-3" />

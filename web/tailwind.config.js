@@ -67,6 +67,7 @@ export default {
         },
         // Direct broadsheet color tokens from code.html
         'primary': '#000000',
+        'on-primary': '#ffffff',
         'primary-container': '#1c1b1b',
         'secondary': '#006c4a',
         'secondary-container': '#82f5c1',

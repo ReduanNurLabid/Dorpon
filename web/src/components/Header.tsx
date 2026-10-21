@@ -80,7 +80,7 @@ export const Header: React.FC = () => {
           <div className="flex items-center space-x-2.5 sm:space-x-3">
             <span className="flex items-center gap-1 font-semibold text-primary">
               <span className="text-secondary font-mono">●</span>
-              {isBn ? 'প্রতিষ্ঠিত ২০২৪' : 'Est. MDCCCCLXXXIV'}
+              {isBn ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬' : 'Est. 1 November 2026'}
             </span>
             <span className="text-outline-variant">|</span>
             <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
