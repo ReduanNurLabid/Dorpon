@@ -17,6 +17,8 @@ export const BreakingWiresTicker: React.FC = () => {
 
   // Duplicate items to ensure a seamless infinite scrolling ticker
   const displayWires = [...rawWires, ...rawWires];
+  // Calculate calm reading speed (~18s per wire item, minimum 110s)
+  const durationSeconds = Math.max(110, rawWires.length * 18);
 
   return (
     <div className="w-full bg-surface-container-high border-b border-primary/20 shadow-sm overflow-hidden select-none">
@@ -29,7 +31,10 @@ export const BreakingWiresTicker: React.FC = () => {
 
         {/* Continuous Rotating Wire Stream */}
         <div className="flex-1 overflow-hidden relative">
-          <div className="animate-ticker space-x-8 py-0.5">
+          <div 
+            className="animate-ticker space-x-8 py-0.5"
+            style={{ animationDuration: `${durationSeconds}s` }}
+          >
             {displayWires.map((wire, idx) => {
               const headline = isBn
                 ? (wire.daily_buzz.title_bn || wire.daily_buzz.title_en)
