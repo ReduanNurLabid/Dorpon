@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-21T22:00:46.476266",
+  "updated_at": "2026-10-21T23:00:42.838157",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "75251307-f12c-5a7f-bd64-dac134fe0247",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T22:48:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8579,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/975971/%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
+          "title": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব",
+          "snippet": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "উয়েফা চ্যাম্পিয়নস লিগে বায়ার্নের সাথে আর্সেনালের ড্র এবং রিয়ালের জয়",
+        "title_en": "Arsenal Draws Bayern While Real Madrid Wins In Champions League",
+        "summary_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের বিপক্ষে ড্র করেছে আর্সেনাল এবং আরবি লাইপজিগকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
+        "summary_en": "Arsenal secured a dramatic draw against Bayern Munich while Real Madrid earned a dominant victory over RB Leipzig in the UEFA Champions League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T22:48:31+00:00",
+        "lead_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের বিপক্ষে ড্র করেছে আর্সেনাল এবং আরবি লাইপজিগকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
+        "lead_en": "Arsenal secured a dramatic draw against Bayern Munich while Real Madrid earned a dominant victory over RB Leipzig in the UEFA Champions League.",
+        "bullets_bn": [
+          "জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে পিছিয়ে পড়েও শেষ মুহূর্তের গোলে ম্যাচ ড্র করে আর্সেনাল।",
+          "আর্সেনাল ও বায়ার্নের ম্যাচটি দুই গোলের সমতায় ২-২ ব্যবধানে শেষ হয়।",
+          "আরেক ম্যাচে আরবি লাইপজিগকে ৪-১ গোলের বড় ব্যবধানে পরাজিত করে রিয়াল মাদ্রিদ।"
+        ],
+        "bullets_en": [
+          "Arsenal fought back from a deficit to secure a late draw away against German club Bayern Munich.",
+          "The intensely contested match between Arsenal and Bayern concluded with a 2-2 scoreline.",
+          "In a separate fixture, Real Madrid registered a resounding 4-1 victory against RB Leipzig."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "উয়েফা চ্যাম্পিয়নস লিগের লিগ পর্বে ইউরোপের শীর্ষ ক্লাবগুলো মাঠে নামে। জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে খেলতে গিয়ে ইংলিশ ক্লাব আর্সেনাল দারুণ লড়াকু পারফরম্যান্স দেখায়। অন্যদিকে সান্তিয়াগো বার্নাব্যুতে আরবি লাইপজিগের বিপক্ষে বড় জয় তুলে নেয় রিয়াল মাদ্রিদ। এই ফলাফলগুলো টুর্নামেন্টের পয়েন্ট তালিকায় দলগুলোর অবস্থান আরও জমে তুলেছে।",
+        "details_en": "Europe's elite football clubs clashed in the latest round of the UEFA Champions League. Arsenal demonstrated strong resilience to secure an away draw against Bayern Munich. Meanwhile, Real Madrid delivered an impressive offensive display at the Santiago Bernabeu to defeat RB Leipzig comfortably, shaping the competitive landscape of the tournament."
+      }
+    },
     {
       "story_id": "758922d8-0b48-5701-8858-68bc889ab4a3",
       "primary_category": "sports_fitness",
@@ -17,7 +73,7 @@
       "published_at": "2026-10-21T21:00:13+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.1441,
+      "rank_score": 0.7888,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -27,10 +83,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউয়েফা চ্যাম্পিয়নস লিগে বায়ার্ন মিউনিখের সাথে আর্সেনালের ড্র",
-        "title_en": "Arsenal Holds Bayern Munich to a Draw in Champions League",
-        "summary_bn": "ইউয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের মাঠে দুই গোল করে ড্র নিয়ে মাঠ ছেড়েছে আর্সেনাল।",
-        "summary_en": "Arsenal secured a crucial away draw against Bayern Munich in the UEFA Champions League encounter.",
+        "title_bn": "আর্সেনালের বিপক্ষে ড্র করে পয়েন্ট হারাল বায়ার্ন মিউনিখ",
+        "title_en": "Bayern Munich Held to Draw by Arsenal in Champions League",
+        "summary_bn": "ইউরোপিয়ান প্রতিযোগিতায় আর্সেনালের বিপক্ষে রোমাঞ্চকর ম্যাচে দুই গোল করেও জয় নিয়ে মাঠ ছাড়তে পারেনি বায়ার্ন মিউনিখ।",
+        "summary_en": "Bayern Munich was held to a thrilling draw by Arsenal after failing to defend their lead in Munich.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -38,22 +94,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T21:00:13+00:00",
-        "lead_bn": "ইউয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের মাঠে দুই গোল করে ড্র নিয়ে মাঠ ছেড়েছে আর্সেনাল।",
-        "lead_en": "Arsenal secured a crucial away draw against Bayern Munich in the UEFA Champions League encounter.",
+        "lead_bn": "ইউরোপিয়ান প্রতিযোগিতায় আর্সেনালের বিপক্ষে রোমাঞ্চকর ম্যাচে দুই গোল করেও জয় নিয়ে মাঠ ছাড়তে পারেনি বায়ার্ন মিউনিখ।",
+        "lead_en": "Bayern Munich was held to a thrilling draw by Arsenal after failing to defend their lead in Munich.",
         "bullets_bn": [
-          "আর্সেনালের পক্ষে এবেরেচি এজে এবং ডেকলান রাইস একটি করে গোল করেন।",
-          "ম্যাচটি দুই গোলের সমতায় শেষ হয় এবং হ্যারি কেইন বায়ার্নের হয়ে একটি গোল ও একটি অ্যাসিস্ট করেন।",
+          "ম্যাচটি দুই গোলের সমতায় শেষ হওয়ায় উভয় দল পয়েন্ট ভাগাভাগি করে মাঠ ছাড়ে।",
+          "হ্যারি কেইন পেনাল্টি থেকে গোল করার পাশাপাশি আলফোনসো ডেভিয়েসের গোলে অ্যাসিস্ট করেন।",
           "এই ড্রয়ের ফলে তিন ম্যাচে সাত পয়েন্ট নিয়ে তালিকার সপ্তম স্থানে অবস্থান করছে আর্সেনাল।"
         ],
         "bullets_en": [
-          "Eberechi Eze and Declan Rice scored for Arsenal during the match.",
-          "The match ended in a two-all draw with Harry Kane scoring and assisting for Bayern.",
-          "Arsenal currently sits seventh in the standings with seven points from three matches."
+          "Both teams shared points after ending the match in a two-goal deadlock.",
+          "Harry Kane scored from a penalty spot and provided an assist for Alphonso Davies.",
+          "Arsenal currently sits in seventh position with seven points from three matches following this draw."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইউয়েফা চ্যাম্পিয়নস লিগের এই হাইভোল্টেজ ম্যাচে শুরু থেকেই দুই দল আক্রমণাত্মক ফুটবল খেলে। বায়ার্ন মিউনিখের ঘরের মাঠ আলিয়াঞ্জ অ্যারেনায় অনুষ্ঠিত এই ম্যাচে জার্মান চ্যাম্পিয়নরা লিড নিলেও শেষ মুহূর্তের গোলে জয় হাতছাড়া হয়। এই ড্রয়ের ফলে ইউরোপিয়ান প্রতিযোগিতায় দুই দলেরই পয়েন্টের ব্যবধানে পরিবর্তন এসেছে।",
-        "details_en": "The high-voltage UEFA Champions League match featured intense attacking football from both sides at the Allianz Arena. Although the German giants took the lead, a late goal denied them victory. This draw impacts the standings for both European heavyweights as the tournament progresses."
+        "details_bn": "ম্যাচের শুরু থেকে দুই দলই আক্রমণাত্মক ও সতর্ক ফুটবল খেলে। প্রথমার্ধে এবেরেচি এজে আর্সেনালকে এগিয়ে দিলেও আলফোনসো ডেভিয়েসের গোলে সমতায় ফেরে বায়ার্ন। দ্বিতীয়ার্ধে হ্যারি কেইন পেনাল্টি থেকে গোল করে বায়ার্নকে এগিয়ে নেন। তবে শেষ দিকে ডেকলান রাইসের গোলে ম্যাচে সমতা ফেরায় সফরকারী আর্সেনাল। এই ড্রয়ের ফলে ইউরোপিয়ান প্রতিযোগিতায় পয়েন্ট টেবিলে অবস্থানের পরিবর্তন ঘটেছে উভয় দলের।",
+        "details_en": "Both teams displayed cautious yet attacking football from the start. Eberchi Eze opened the scoring for Arsenal before Alphonso Davies equalized for Bayern. In the second phase, Harry Kane converted a penalty to put the German side ahead. However, Declan Rice secured the equalizer for the visitors in the closing stages, affecting both teams' standings in the European competition table."
       }
     },
     {
@@ -71,7 +127,7 @@
       "published_at": "2026-10-21T20:39:58+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.9966,
+      "rank_score": 0.7101,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -81,10 +137,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ",
-        "title_en": "Websites Worldwide Shut Down Following Severe PHP Security Vulnerabilities",
-        "summary_bn": "পিএইচপি কোডিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় সাইবার হামলার ঝুঁকি এড়াতে বিশ্বজুড়ে বিভিন্ন প্রতিষ্ঠান ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
-        "summary_en": "Organizations worldwide have temporarily shut down websites to prevent cyber attacks after two severe security vulnerabilities were discovered in PHP.",
+        "title_bn": "গুরুতর নিরাপত্তা ত্রুটির কারণে বিশ্বজুড়ে ওয়েবসাইট সাময়িকভাবে বন্ধ রাখছে বিভিন্ন প্রতিষ্ঠান",
+        "title_en": "Global Websites Temporarily Shut Down Following Critical Security Vulnerabilities",
+        "summary_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় বিশ্বজুড়ে বিভিন্ন সরকারি ও বাণিজ্যিক প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+        "summary_en": "Organizations worldwide are temporarily shutting down websites after critical security vulnerabilities were discovered in the PHP programming language.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -92,22 +148,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T20:39:58+00:00",
-        "lead_bn": "পিএইচপি কোডিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় সাইবার হামলার ঝুঁকি এড়াতে বিশ্বজুড়ে বিভিন্ন প্রতিষ্ঠান ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
-        "lead_en": "Organizations worldwide have temporarily shut down websites to prevent cyber attacks after two severe security vulnerabilities were discovered in PHP.",
+        "lead_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় বিশ্বজুড়ে বিভিন্ন সরকারি ও বাণিজ্যিক প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+        "lead_en": "Organizations worldwide are temporarily shutting down websites after critical security vulnerabilities were discovered in the PHP programming language.",
         "bullets_bn": [
-          "পিএইচপি কোডিং ভাষার দুটি মারাত্মক নিরাপত্তা ত্রুটির কারণে বিশ্বজুড়ে সরকারি ও বাণিজ্যিক ওয়েবসাইটগুলো সাময়িকভাবে বন্ধ রাখা হয়েছে।",
-          "বিশ্বের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং হ্যাকাররা পাসওয়ার্ড ছাড়াই সার্ভার দখলের সুযোগ পেতে পারে বলে নিরাপত্তা বিশেষজ্ঞরা সতর্ক করেছেন।",
-          "পিএইচপি ডেভেলপাররা ইতিমধ্যে নিরাপত্তা আপডেট প্রকাশ করেছেন এবং ঝুঁকিপূর্ণ সিস্টেমে দ্রুত আপডেট ইনস্টল করার পরামর্শ দেওয়া হয়েছে।"
+          "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি কাজে লাগিয়ে হামলাকারীরা পাসওয়ার্ড ছাড়াই সার্ভারের পূর্ণ নিয়ন্ত্রণ নিতে পারে বলে বিশেষজ্ঞরা সতর্ক করেছেন।",
+          "বিশ্বের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং একে দশকের সবচেয়ে বড় ত্রুটি হিসেবে তুলনা করা হয়েছে।",
+          "যুক্তরাষ্ট্রের জাতীয় নিরাপত্তা সংস্থা অবিলম্বে সফটওয়্যার আপডেট করার অথবা ঝুঁকিপূর্ণ সিস্টেমে ইন্টারনেট সংযোগ বিচ্ছিন্ন রাখার পরামর্শ দিয়েছে।"
         ],
         "bullets_en": [
-          "Government and commercial websites worldwide have been temporarily shut down due to two critical security flaws in the PHP programming language.",
-          "Experts warned that PHP powers nearly 70 percent of websites worldwide, and attackers could gain server access without passwords.",
-          "PHP developers have released a security update, and users are strongly advised to install the patch on vulnerable systems immediately."
+          "Experts warned attackers could exploit two severe PHP vulnerabilities to gain full server control without passwords.",
+          "Approximately 70 percent of global websites use PHP, making this one of the most critical software flaws in a decade.",
+          "The US National Security Agency advised immediate software updates or disconnecting vulnerable systems from the internet."
         ],
-        "impact_bn": "অনলাইন সেবা ও সংবাদমাধ্যম সাময়িকভাবে ব্যাহত হওয়ায় সাধারণ ব্যবহারকারী ও ডিজিটাল সেবাগ্রহীতারা সাইবার নিরাপত্তা ঝুঁকির মুখে পড়েছেন।",
-        "impact_en": "General users and digital service recipients face security risks as online services and news portals experience temporary disruptions.",
-        "details_bn": "ওয়েবসাইট তৈরি ও পরিচালনায় বহুল ব্যবহৃত পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ার পর সাইবার নিরাপত্তা প্রতিষ্ঠান উইজ ও মার্কিন জাতীয় নিরাপত্তা সংস্থা এই সতর্কতা জারি করে। ওপেনএআই এবং গুগলের এআই মডেল ব্যবহার করে এই ত্রুটিগুলো প্রথম শনাক্ত করা হয়। পিএইচপি ফাউন্ডেশন একে গত এক দশকের মধ্যে সবচেয়ে গুরুতর নিরাপত্তা সংকট হিসেবে অভিহিত করেছে এবং অবিলম্বে সফটওয়্যার আপডেট করার তাগিদ দিয়েছে।",
-        "details_en": "Cybersecurity firm Wiz and the US National Security Agency issued warnings after critical security vulnerabilities were discovered in the widely used PHP programming language. The flaws were initially identified using OpenAI and Google AI models. The PHP Foundation described the issue as the most severe security crisis in over a decade and urged immediate software updates."
+        "impact_bn": "সাধারণ ব্যবহারকারী ও গ্রাহকদের অনলাইন সেবার নিরাপত্তা বিঘ্নিত হতে পারে এবং বিভিন্ন সরকারি ও বাণিজ্যিক সেবা সাময়িকভাবে ব্যাহত হতে পারে।",
+        "impact_en": "Online service security for ordinary users and consumers may be compromised, causing temporary disruptions in government and commercial services.",
+        "details_bn": "সাইবার নিরাপত্তা প্রতিষ্ঠান উইজ এবং ওপেনএআইয়ের অর্থায়নে পিএইচপির কোড পর্যালোচনার সময় এই গুরুতর নিরাপত্তা ত্রুটিগুলো শনাক্ত হয়। বিশ্বের প্রায় ৭০ শতাংশ ওয়েবসাইট পিএইচপি ভিত্তিক হওয়ায় এর প্রভাব অত্যন্ত ব্যাপক। এআই মডেল ব্যবহার করে এই ত্রুটিগুলো খুঁজে বের করা হয়, যা প্রযুক্তি খাতে কৃত্রিম বুদ্ধিমত্তার বড় ভূমিকা তুলে ধরেছে। ডেভেলপাররা ইতিমধ্যে আপডেট প্রকাশ করেছেন এবং সংশ্লিষ্ট সকলকে দ্রুত তা ইনস্টল করার তাগিদ দেওয়া হয়েছে।",
+        "details_en": "These critical security vulnerabilities were identified during code reviews of PHP supported by cybersecurity firm Wiz and OpenAI. Since nearly 70 percent of global websites rely on PHP, the potential impact is massive. The flaws were uncovered using AI models, highlighting a significant milestone in technology. Developers have already released security updates, urging all users to install them immediately to prevent unauthorized server access."
       }
     },
     {
@@ -126,7 +182,7 @@
       "published_at": "2026-10-21T20:18:55+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.8756,
+      "rank_score": 0.642,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -137,9 +193,9 @@
       ],
       "daily_buzz": {
         "title_bn": "যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রীর বৈঠকের ছবি প্রকাশ",
-        "title_en": "US Department of Justice Releases Photos of Indian Minister with Jeffrey Epstein",
-        "summary_bn": "মার্কিন বিচার বিভাগের প্রকাশিত ছবিতে ভারতের মন্ত্রী হরদীপ সিং পুরিকে যৌন অপরাধী জেফরি এপস্টিনের সাথে মুখোমুখি বসে থাকতে দেখা গেছে।",
-        "summary_en": "Newly released US Department of Justice files show Indian minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+        "title_en": "US Justice Department Releases Photos of Indian Minister with Jeffrey Epstein",
+        "summary_bn": "যুক্তরাষ্ট্রের বিচার বিভাগের প্রকাশিত নথিতে যৌন নিপীড়ক জেফরি এপস্টিনের সাথে ভারতের পেট্রোলিয়াম মন্ত্রীর বৈঠকের ছবি প্রকাশ্যে এসেছে।",
+        "summary_en": "Newly released US Department of Justice files reveal photographs of Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -148,76 +204,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T20:18:55+00:00",
-        "lead_bn": "মার্কিন বিচার বিভাগের প্রকাশিত ছবিতে ভারতের মন্ত্রী হরদীপ সিং পুরিকে যৌন অপরাধী জেফরি এপস্টিনের সাথে মুখোমুখি বসে থাকতে দেখা গেছে।",
-        "lead_en": "Newly released US Department of Justice files show Indian minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+        "lead_bn": "যুক্তরাষ্ট্রের বিচার বিভাগের প্রকাশিত নথিতে যৌন নিপীড়ক জেফরি এপস্টিনের সাথে ভারতের পেট্রোলিয়াম মন্ত্রীর বৈঠকের ছবি প্রকাশ্যে এসেছে।",
+        "lead_en": "Newly released US Department of Justice files reveal photographs of Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
         "bullets_bn": [
-          "মার্কিন বিচার বিভাগ জেফরি এপস্টিনের ফাইল থেকে ভারতের পেট্রোলিয়াম মন্ত্রী হরদীপ সিং পুরির সাথে বৈঠকের ছবি প্রকাশ করে।",
-          "প্রকাশিত ছবিতে মন্ত্রী পুরি ও এপস্টিনকে একটি টেবিলে মুখোমুখি বসে থাকতে দেখা যায়, যা মন্ত্রীর আগের দাবিকে প্রশ্নবিদ্ধ করেছে।",
-          "ছবি প্রকাশের পর ভারতের বিরোধী দলের নেতারা মন্ত্রীর পদত্যাগ দাবি করে তীব্র সমালোচনা শুরু করেছেন।"
+          "যুক্তরাষ্ট্রের বিচার বিভাগ জেফরি এপস্টিনের সাথে ভারতীয় মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ করেছে।",
+          "প্রকাশিত ছবিতে টেবিলে কেবল মন্ত্রী পুরি এবং এপস্টিনকে দেখা যাওয়ায় তাঁর পূর্বের দাবি নিয়ে প্রশ্ন উঠেছে।",
+          "এই ছবি প্রকাশের পর বিরোধী দলের নেতারা মন্ত্রীর পদত্যাগ দাবি করে তীব্র সমালোচনা শুরু করেছেন।"
         ],
         "bullets_en": [
           "The US Department of Justice published photographs showing Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
-          "The newly surfaced images contradict the minister's previous claim that he met Epstein only as part of a formal delegation.",
+          "The newly released images contradict the minister's previous claim that he met Epstein only as part of an official delegation.",
           "Opposition leaders in India strongly criticized the minister and demanded his resignation following the photo release."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যৌন নিপীড়ন ও নারী পাচারের দায়ে দোষী সাব্যস্ত মার্কিন financier জেফরি এপস্টিনের সাথে যোগাযোগের বিষয়ে সম্প্রতি মার্কিন বিচার বিভাগ নতুন ডেটাসেট প্রকাশ করেছে। এর আগে মন্ত্রী হরদীপ সিং পুরি দাবি করেছিলেন যে তিনি ইন্টারন্যাশনাল পিস ইনস্টিটিউটের একটি প্রতিনিধিদলের অংশ হিসেবে এপস্টিনের সাথে দেখা করেছিলেন। তবে সম্প্রতি প্রকাশিত ছবিগুলোতে কোনো তৃতীয় ব্যক্তির উপস্থিতি না থাকায় তাঁর দাবি নিয়ে রাজনৈতিক বিতর্ক শুরু হয়েছে। বিরোধী দলগুলো এই ঘটনায় মন্ত্রীর পদত্যাগ দাবি করছে।",
-        "details_en": "The United States Department of Justice released fresh datasets from Epstein files revealing photographs of Indian Petroleum and Natural Gas Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein. Previously, Puri claimed his interactions with Epstein occurred strictly as part of a formal institutional delegation. The newly published images show the two seated alone, contradicting earlier statements and triggering sharp criticism and resignation demands from Indian opposition parties."
-      }
-    },
-    {
-      "story_id": "25b55791-cf3a-52b4-b145-bb7fb75c388e",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fiqrhz7u1%2Frealmadridc.f.vrbleipzig-uefachampionsleague202627leaguephasemd3.avif?rect=0%2C0%2C988%2C519&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T21:04:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5902,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/rn02mxb8ws",
-          "title": "বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সারল রিয়াল মাদ্রিদ",
-          "snippet": "বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সারল রিয়াল মাদ্রিদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লাইপজিগকে হারিয়ে এল ক্লাসিকোর প্রস্তুতি সারল রিয়াল মাদ্রিদ",
-        "title_en": "Real Madrid Prepares for El Clasico with Big Win Against Leipzig",
-        "summary_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে লাইপজিগকে চার গোল দিয়ে বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সম্পন্ন করেছে রিয়াল মাদ্রিদ।",
-        "summary_en": "Real Madrid completed preparations for El Clasico by securing a big victory against Leipzig in the UEFA Champions League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T21:04:31+00:00",
-        "lead_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে লাইপজিগকে চার গোল দিয়ে বড় জয়ে এল ক্লাসিকোর প্রস্তুতি সম্পন্ন করেছে রিয়াল মাদ্রিদ।",
-        "lead_en": "Real Madrid completed preparations for El Clasico by securing a big victory against Leipzig in the UEFA Champions League.",
-        "bullets_bn": [
-          "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে জার্মান ক্লাব লাইপজিগের মুখোমুখি হয় রিয়াল মাদ্রিদ।",
-          "ম্যাচে রিয়ালের হয়ে গোল করেন বের্নার্দো সিলভা, আরদা গুলের, কিলিয়ান এমবাপ্পে ও ইয়ান দিওমান্দে।",
-          "বড় এই জয়ের পর লিগে বার্সেলোনার বিপক্ষে এল ক্লাসিকো ম্যাচে মাঠে নামবে রিয়াল মাদ্রিদ।"
-        ],
-        "bullets_en": [
-          "Real Madrid faced German club Leipzig in a UEFA Champions League fixture.",
-          "Bernardo Silva, Arda Guler, Kylian Mbappe, and Yan Diomande scored for Real Madrid.",
-          "Real Madrid will next face Barcelona in the domestic league El Clasico following this victory."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মৌসুমের প্রথম এল ক্লাসিকোয় বার্সেলোনার মুখোমুখি হওয়ার আগে উয়েফা চ্যাম্পিয়নস লিগের এই ম্যাচটিকে সর্বোচ্চ প্রস্তুতির সুযোগ হিসেবে নিয়েছিল রিয়াল মাদ্রিদ। সান্তিয়াগো বার্নাব্যুতে বুন্দেসলিগার ক্লাব লাইপজিগের বিপক্ষে ৪-১ গোলের বড় জয় তুলে নিয়ে নিজেদের আক্রমণভাগের শক্তি প্রমাণ করেছে দলটি। প্রথমার্ধে কিছু চ্যালেঞ্জের মুখে পড়লেও শেষ পর্যন্ত বড় ব্যবধানের জয়ে মাঠ ছাড়ে তারা।",
-        "details_en": "Real Madrid treated this UEFA Champions League fixture as a crucial preparatory opportunity ahead of facing Barcelona in the first El Clasico of the season. Playing at the Santiago Bernabeu, the team demonstrated their attacking strength by securing a dominant 4-1 victory against Bundesliga club Leipzig. Despite facing some challenges in the first half, they ultimately closed out the match with a comfortable margin."
+        "details_bn": "যুক্তরাষ্ট্রের বিচার বিভাগ যৌন নিপীড়ন ও নারী পাচারের দায়ে দোষী সাব্যস্ত জেফরি এপস্টিনের সাথে সম্পর্কিত বেশ কিছু নথি এবং ছবি প্রকাশ করেছে। এর আগে মন্ত্রী হরদীপ সিং পুরি দাবি করেছিলেন যে ইন্টারন্যাশনাল পিস ইনস্টিটিউটের একটি প্রতিনিধিদলের অংশ হিসেবে তিনি এপস্টিনের সাথে দেখা করেছিলেন। কিন্তু নতুন ছবিগুলোতে কেবল তাদের দুজনকে মুখোমুখি বসে থাকতে দেখা যাওয়ায় বিষয়টি নিয়ে রাজনৈতিক বিতর্ক তৈরি হয়েছে এবং বিরোধীরা মন্ত্রীর পদত্যাগ দাবি করছেন।",
+        "details_en": "The United States Department of Justice released files containing photographs linked to convicted sex offender and human trafficker Jeffrey Epstein. Previously, Indian Petroleum Minister Hardeep Singh Puri claimed he met Epstein only as part of an official delegation at the International Institute for Peace. However, the newly surfaced images show the two men seated facing each other alone, sparking intense political backlash and demands for the minister's resignation from opposition parties."
       }
     },
     {
@@ -236,7 +238,7 @@
       "published_at": "2026-10-21T20:56:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5557,
+      "rank_score": 0.3859,
       "sources": [
         {
           "name": "Jago News 24",
@@ -247,9 +249,9 @@
       ],
       "daily_buzz": {
         "title_bn": "ধর্মের শিক্ষা কর্ম ও আচরণে প্রতিফলিত করার আহ্বান চট্টগ্রাম ডিসির",
-        "title_en": "Chattogram DC Urges Reflecting Religious Teachings in Daily Actions",
-        "summary_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্মে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
-        "summary_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Mia urged citizens to reflect religious teachings in their daily work and behavior.",
+        "title_en": "Chattogram DC Urges Reflecting Religious Teachings in Daily Work",
+        "summary_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "summary_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia urged people to reflect religious teachings in their daily work and behavior.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -258,80 +260,80 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T20:56:09+00:00",
-        "lead_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্মে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
-        "lead_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Mia urged citizens to reflect religious teachings in their daily work and behavior.",
+        "lead_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "lead_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia urged people to reflect religious teachings in their daily work and behavior.",
         "bullets_bn": [
-          "ধর্মের শিক্ষা শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রাখার ওপর জোর দেওয়া হয়েছে",
-          "মানুষের কর্ম ও আচরণে ধর্মীয় মূল্যবোধ প্রতিফলিত করার আহ্বান জানিয়েছেন চট্টগ্রাম জেলা প্রশাসক",
-          "সামাজিক সম্প্রীতি ও নৈতিক মূল্যবোধ বাড়াতে এই বার্তা প্রচারের উদ্যোগ নেওয়া হয়েছে"
+          "ধর্মীয় অনুশাসন ও নৈতিক শিক্ষা বাস্তব জীবনে চর্চা করার ওপর গুরুত্বারোপ করা হয়েছে।",
+          "উৎসব উদযাপনের পাশাপাশি মানবতার কল্যাণে কাজ করার আহ্বান জানান জেলা প্রশাসক।",
+          "সামাজিক সম্প্রীতি বজায় রাখতে যুবসমাজকে নৈতিক মূল্যবোধে উদ্বুদ্ধ করা হবে।"
         ],
         "bullets_en": [
-          "Emphasis was placed on not limiting religious teachings solely to festival celebrations",
-          "The Chattogram Deputy Commissioner urged reflecting moral values in human work and behavior",
-          "Initiatives have been taken to spread this message to enhance social harmony and ethics"
+          "Emphasis was placed on practicing religious discipline and moral education in practical life.",
+          "The Deputy Commissioner urged working for the welfare of humanity alongside celebrating festivals.",
+          "Youth will be inspired by moral values to maintain social harmony."
         ],
-        "impact_bn": "নৈতিক মূল্যবোধ ও পারস্পরিক শ্রদ্ধাবোধ বৃদ্ধি পেলে সমাজে অপরাধ প্রবণতা কমে আসবে।",
-        "impact_en": "Promoting moral values and mutual respect helps reduce social conflicts and crime rates.",
-        "details_bn": "বিভিন্ন ধর্মীয় উৎসব ও আয়োজনের সময় প্রশাসনের পক্ষ থেকে এই ধরনের নৈতিক বার্তা প্রদান করা হয়। সমাজে শান্তি ও শৃঙ্খলা বজায় রাখতে এবং ধর্মীয় সম্প্রীতি সুদৃঢ় করতে স্থানীয় প্রশাসন নিয়মিতভাবে বিভিন্ন সচেতনতামূলক বক্তব্য ও কর্মসূচি পরিচালনা করে থাকে।",
-        "details_en": "Local administrations frequently share moral messages during religious festivals and events. Such addresses aim to maintain peace, order, and strengthen religious harmony within local communities."
+        "impact_bn": "এই আহ্বান তরুণ সমাজকে নৈতিক মূল্যবোধ চর্চা করতে এবং সামাজিক শৃঙ্খলা বজায় রাখতে উৎসাহিত করবে।",
+        "impact_en": "This call will encourage youth to practice moral values and maintain social discipline.",
+        "details_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা বিভিন্ন সামাজিক ও ধর্মীয় অনুষ্ঠানে প্রধান অতিথির বক্তব্যে নৈতিকতা ও মূল্যবোধের ওপর জোর দিয়ে আসছেন। বর্তমান সময়ে সমাজ থেকে নৈতিক অবক্ষয় রোধ এবং ধর্মীয় সম্প্রীতি ও সৌহার্দ্য বজায় রাখার ক্ষেত্রে প্রশাসন ও ধর্মীয় নেতাদের যৌথ উদ্যোগের ওপর গুরুত্ব দেওয়া হচ্ছে।",
+        "details_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia has continuously emphasized morality and values during various social and religious events. In recent times, importance is being given to joint initiatives by the administration and religious leaders to prevent moral degradation and maintain religious harmony and goodwill in society."
       }
     },
     {
-      "story_id": "7f55e7b2-8532-5f7b-9b96-2c5a66a69b07",
+      "story_id": "009493c2-be60-5e79-87c7-f3c56757151b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "governance_law"
+        "governance_law",
+        "tech_innovation"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-10-04%2F1phzs1xb%2Fmeta.jpg?rect=0%2C8%2C400%2C210&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T20:45:37+00:00",
+      "published_at": "2026-10-21T20:43:36+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5171,
+      "rank_score": 0.3616,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/rx7bp02bzh",
-          "title": "তথ্যের গোপনীয়তা নিয়ে বিভ্রান্তি, মেটাকে ২ হাজার ৫০০ কোটি ডলার জরিমানা",
-          "snippet": "তথ্যের গোপনীয়তা নিয়ে বিভ্রান্তি, মেটাকে ২ হাজার ৫০০ কোটি ডলার জরিমানা"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/others/975966/%E0%A6%AD%E0%A7%81%E0%A7%9F%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE",
+          "title": "বুকিং ডটকমের বিরুদ্ধে তদন্ত করবে ইউরোপীয় কমিশন",
+          "snippet": "বুকিং ডটকমের বিরুদ্ধে তদন্ত করবে ইউরোপীয় কমিশন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যবহারকারীর গোপনীয়তা লঙ্ঘনের দায়ে মেটাকে আড়াই হাজার কোটি ডলার জরিমানা",
-        "title_en": "US Court Fines Meta $25 Billion Over User Privacy Violations",
-        "summary_bn": "ব্যবহারকারীর তথ্যের গোপনীয়তা নিয়ে বিভ্রান্তি সৃষ্টির দায়ে যুক্তরাষ্ট্রের আদালতে আড়াই হাজার কোটি ডলার জরিমানা গুনতে হচ্ছে মেটাকে।",
-        "summary_en": "A US court has ordered Meta to pay a historic 25 billion dollar fine for misleading users regarding privacy.",
+        "title_bn": "বুকিং ডটকমকে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধের নির্দেশ ইউরোপীয় কমিশনের",
+        "title_en": "European Commission Directs Booking.com to Prevent Fake Listings and Phishing",
+        "summary_bn": "অনলাইনে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধে বুকিং ডটকমকে প্রয়োজনীয় ব্যবস্থা নিতে নির্দেশ দিয়েছে ইউরোপীয় কমিশন।",
+        "summary_en": "The European Commission has instructed Booking.com to take necessary measures to prevent online fake listings and phishing scams.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "governance_law"
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T20:45:37+00:00",
-        "lead_bn": "ব্যবহারকারীর তথ্যের গোপনীয়তা নিয়ে বিভ্রান্তি সৃষ্টির দায়ে যুক্তরাষ্ট্রের আদালতে আড়াই হাজার কোটি ডলার জরিমানা গুনতে হচ্ছে মেটাকে।",
-        "lead_en": "A US court has ordered Meta to pay a historic 25 billion dollar fine for misleading users regarding privacy.",
+        "published_at": "2026-10-21T20:43:36+00:00",
+        "lead_bn": "অনলাইনে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধে বুকিং ডটকমকে প্রয়োজনীয় ব্যবস্থা নিতে নির্দেশ দিয়েছে ইউরোপীয় কমিশন।",
+        "lead_en": "The European Commission has instructed Booking.com to take necessary measures to prevent online fake listings and phishing scams.",
         "bullets_bn": [
-          "নিউ মেক্সিকোর আদালত মেটাকে ২৫ বিলিয়ন ডলার জরিমানা পরিশোধের নির্দেশ দিয়েছে।",
-          "ভোক্তা অধিকার সুরক্ষা আইন ৪ কোটি ৩০ লাখ বার লঙ্ঘনের দায়ে এই রায় দেওয়া হয়।",
-          "কেমব্রিজ অ্যানালিটিকা তথ্য ফাঁসের জেরে ২০২১ সালে নিউ মেক্সিকো কর্তৃপক্ষ এই মামলা করে।"
+          "বুকিং ডটকমকে অনলাইনে ভুয়া তালিকা এবং ফিশিং প্রতারণার ঝুঁকি মোকাবিলায় কঠোর ব্যবস্থা গ্রহণের নির্দেশ দেওয়া হয়েছে।",
+          "সার্চের ফলাফলে অর্থের বিনিময়ে প্রদর্শিত তালিকাগুলো স্পষ্টভাবে চিহ্নিত করার নির্দেশ দিয়েছে ইইউ কর্তৃপক্ষ।",
+          "ইউরোপীয় ইউনিয়নের ডিজিটাল আইন কঠোরভাবে বাস্তবায়নের অংশ হিসেবে এই পদক্ষেপ নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "A New Mexico court ordered Meta to pay a 25 billion dollar penalty.",
-          "The ruling cited over 43 million violations of the state consumer protection act.",
-          "The lawsuit was filed in 2021 following the Cambridge Analytica data breach controversy."
+          "Booking.com has been directed to take necessary measures to combat online fake listings and phishing risks.",
+          "The EU authority instructed that paid listings in search results must be clearly labeled.",
+          "This directive is part of the strict implementation of European Union digital laws."
         ],
-        "impact_bn": "বিশ্বব্যাপী সামাজিক যোগাযোগমাধ্যম ব্যবহারকারীদের ব্যক্তিগত তথ্যের সুরক্ষায় বড় ধরনের পরিবর্তন আসতে পারে।",
-        "impact_en": "Social media platforms may face stricter global scrutiny regarding the protection of personal data.",
-        "details_bn": "কেমব্রিজ অ্যানালিটিকা কেলেঙ্কারির পর ২০২১ সালে মেটার বিরুদ্ধে মামলা করে নিউ মেক্সিকো কর্তৃপক্ষ। দুই সপ্তাহের শুনানি শেষে সান্তা ফে স্টেট ডিস্ট্রিক্ট কোর্টের বিচারক ফ্রান্সিস জে ম্যাথিউ এই ঐতিহাসিক রায় দেন। এর আগে শিশু-কিশোরদের ক্ষতি ও নিরাপত্তা বিঘ্নিত করার অভিযোগে মেটাকে আরও একাধিকবার বড় অঙ্কের জরিমানা করা হয়েছে।",
-        "details_en": "New Mexico authorities filed the lawsuit against Meta in 2021 following the Cambridge Analytica data breach. Following a two-week hearing, Santa Fe State District Court Judge Francis J. Mathew issued this historic penalty. Meta has previously faced multiple heavy fines in separate lawsuits regarding youth safety and privacy violations."
+        "impact_bn": "এই পদক্ষেপে ইউরোপের অনলাইন ভ্রমণকারীরা ভুয়া বুকিং ও আর্থিক প্রতারণার ঝুঁকি থেকে সুরক্ষিত থাকবেন।",
+        "impact_en": "This measure protects European online travelers from the risks of fake bookings and financial fraud.",
+        "details_bn": "অনলাইন প্ল্যাটফর্মগুলোতে ভুয়া তথ্য এবং প্রতারণামূলক কর্মকাণ্ড বাড়ায় এর আগে থেকেই কড়াকড়ি আরোপ করে আসছে ইউরোপীয় ইউনিয়ন। ডিজিটাল আইন বা ডিজিটাল সার্ভিসেস অ্যাক্ট অনুযায়ী বড় প্রযুক্তি ও সেবা প্রদানকারী প্রতিষ্ঠানগুলোকে ব্যবহারকারীদের নিরাপত্তা নিশ্চিত করতে বাধ্য করা হচ্ছে। এরই ধারাবাহিকতায় বুকিং ডটকমের প্ল্যাটফর্মে থাকা তালিকাগুলো স্বচ্ছ ও জালিয়াতিমুক্ত রাখতে এই নির্দেশনা দেয় ইউরোপীয় কমিশন।",
+        "details_en": "The European Union has increasingly tightened regulations on online platforms due to rising fraudulent activities and misinformation. Under digital service laws, major tech and service providers are legally mandated to ensure consumer safety and transparency. Consequently, the European Commission issued directives to Booking.com to ensure all platform listings are transparent and free from scams."
       }
     }
   ]
