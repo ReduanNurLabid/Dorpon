@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-21T05:20:10.978944",
+  "updated_at": "2026-10-21T10:36:28.140475",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "c651edf3-4039-5a23-af40-89136e78bf7b",
+      "story_id": "27a5af2f-7217-54c9-aff8-ff5be668369e",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,159 +14,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T05:18:02+00:00",
+      "published_at": "2026-10-21T10:17:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9016,
+      "importance_score": 6.6,
+      "rank_score": 2.2083,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1170449",
-          "title": "মাদক নির্মূলে একটি সংগঠন গড়ে তুলতে চাই: ইশরাক",
-          "snippet": "মাদক নির্মূলে একটি সংগঠন গড়ে তুলতে চাই: ইশরাক"
+          "url": "https://www.jagonews24.com/national/news/1170574",
+          "title": "অনাগত সন্তান বিক্রি করতে চাওয়া সেই মায়ের পাশে প্রধানমন্ত্রী",
+          "snippet": "অনাগত সন্তান বিক্রি করতে চাওয়া সেই মায়ের পাশে প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাদক নির্মূলে সামাজিক সংগঠন গড়ে তোলার ঘোষণা ইশরাক হোসেনের",
-        "title_en": "Ishrak Hossain Announces Social Initiative to Eradicate Drugs",
-        "summary_bn": "সদ্য পদত্যাগ করা সংসদ সদস্য ইশরাক হোসেন মাদক নির্মূলের লক্ষ্যে একটি নতুন সামাজিক সংগঠন গড়ে তোলার ঘোষণা দিয়েছেন।",
-        "summary_en": "Recently resigned lawmaker Ishrak Hossain has announced plans to form a social organization aimed at eradicating drugs.",
-        "why_it_matters_bn": "মাদকবিরোধী এই সামাজিক উদ্যোগ সফল হলে স্থানীয় যুবসমাজ সুরক্ষা পাবে এবং এলাকার সার্বিক আইনশৃঙ্খলা পরিস্থিতির উন্নতি হবে।",
-        "why_it_matters_en": "If successful, this anti-drug social initiative will protect local youth and improve overall community safety.",
+        "title_bn": "অনাগত সন্তান বিক্রির চেষ্টার সংবাদ পেয়ে সহায়তার হাত বাড়ালেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Extends Support to Impoverished Mother Attempting to Sell Unborn Child",
+        "summary_bn": "**অনাগত সন্তান বিক্রির সিদ্ধান্ত নেওয়া অসহায় আঁখির চরম আর্থিক সংকটের খবর পেয়ে সহায়তার নির্দেশ দিয়েছেন প্রধানমন্ত্রী।**",
+        "summary_en": "**Prime Minister has ordered immediate assistance for Akhi, an impoverished mother who attempted to sell her unborn child.**",
+        "why_it_matters_bn": "এই উদ্যোগ সমাজের চরম দরিদ্র ও অসহায় প্রান্তিক জনগোষ্ঠীর সুরক্ষায় সরকারের সরাসরি দায়িত্বশীলতার নজির স্থাপন করেছে।",
+        "why_it_matters_en": "This initiative sets a precedent of direct government responsibility in protecting extremely impoverished and vulnerable marginalized populations.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T05:18:02+00:00",
-        "lead_bn": "সদ্য পদত্যাগ করা সংসদ সদস্য ইশরাক হোসেন মাদক নির্মূলের লক্ষ্যে একটি নতুন সামাজিক সংগঠন গড়ে তোলার ঘোষণা দিয়েছেন।",
-        "lead_en": "Recently resigned lawmaker Ishrak Hossain has announced plans to form a social organization aimed at eradicating drugs.",
+        "published_at": "2026-10-21T10:17:19+00:00",
+        "lead_bn": "**অনাগত সন্তান বিক্রির সিদ্ধান্ত নেওয়া অসহায় আঁখির চরম আর্থিক সংকটের খবর পেয়ে সহায়তার নির্দেশ দিয়েছেন প্রধানমন্ত্রী।**",
+        "lead_en": "**Prime Minister has ordered immediate assistance for Akhi, an impoverished mother who attempted to sell her unborn child.**",
         "bullets_bn": [
-          "১. মাদক নির্মূলের কার্যক্রমে তরুণ প্রজন্ম ও স্থানীয় জনসাধারণকে সম্পৃক্ত করতে নতুন সংগঠন গড়ার উদ্যোগ নিয়েছেন ইশরাক হোসেন।",
-          "২. ঢাকা-৬ আসনের সাবেক সংসদ সদস্য ও সদ্য পদত্যাগকারী প্রতিমন্ত্রী ইশরাক হোসেন এই সামাজিক আন্দোলনের নেতৃত্ব দেবেন।",
-          "৩. খুব শীঘ্রই সংগঠনটির রূপরেখা ঘোষণা করে দেশব্যাপী মাদকবিরোধী সচেতনতা কার্যক্রম শুরু করা হবে।"
+          "১. চরম দারিদ্র্য ও অসুস্থ স্বামীর কারণে তৃতীয় সন্তান বিক্রির সিদ্ধান্ত নেন আঁখি।",
+          "২. গণমাধ্যমে প্রকাশিত সংবাদের মাধ্যমে বিষয়টি প্রধানমন্ত্রীর নজরে আসে।",
+          "৩. প্রধানমন্ত্রীর নির্দেশনায় পরিবারটির পুনর্বাসন ও চিকিৎসার ব্যবস্থা নেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "1. Ishrak Hossain has initiated plans to build a new organization involving the youth and local communities to combat drugs.",
-          "2. The former lawmaker of Dhaka-6 and recently resigned state minister will spearhead this social movement.",
-          "3. The structural outline of the organization will be announced soon to launch nationwide anti-drug awareness activities."
+          "1. Akhi decided to sell her third unborn child due to extreme poverty and her husband's illness.",
+          "2. The incident came to the Prime Minister's attention through media reports.",
+          "3. Rehabilitation and medical support are being arranged for the family under direct directives."
         ],
-        "impact_bn": "মাদকবিরোধী এই সামাজিক উদ্যোগ সফল হলে স্থানীয় যুবসমাজ সুরক্ষা পাবে এবং এলাকার সার্বিক আইনশৃঙ্খলা পরিস্থিতির উন্নতি হবে।",
-        "impact_en": "If successful, this anti-drug social initiative will protect local youth and improve overall community safety.",
-        "details_bn": "ইশরাক হোসেন সম্প্রতি মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে পদত্যাগ করেন এবং ঢাকা-৬ আসনের সংসদ সদস্য হিসেবে দায়িত্ব পালনকালে বিভিন্ন সামাজিক ও জনকল্যাণমূলক কার্যক্রমে যুক্ত ছিলেন। মাদক সমস্যা বর্তমান সমাজে তরুণ প্রজন্মের জন্য একটি বড় সংকট হয়ে দাঁড়ানোয় তিনি এবার সুনির্দিষ্টভাবে মাদক নির্মূলের এই কার্যক্রমে নামার ঘোষণা দিয়েছেন।",
-        "details_en": "Ishrak Hossain recently resigned from his position as the State Minister for Liberation War Affairs while serving as the lawmaker for Dhaka-6, maintaining involvement in various social welfare activities. Given that drug abuse has become a major crisis for the youth generation, he has now declared his intention to focus specifically on eradicating the menace."
+        "impact_bn": "এই উদ্যোগ সমাজের চরম দরিদ্র ও অসহায় প্রান্তিক জনগোষ্ঠীর সুরক্ষায় সরকারের সরাসরি দায়িত্বশীলতার নজির স্থাপন করেছে।",
+        "impact_en": "This initiative sets a precedent of direct government responsibility in protecting extremely impoverished and vulnerable marginalized populations.",
+        "details_bn": "সম্প্রতি গণমাধ্যমে 'গর্ভের সন্তান বিক্রি করতে চান আঁখি' শিরোনামে একটি প্রতিবেদন প্রকাশিত হয়। এতে তৃতীয় সন্তানের মা হতে চলা এক অসহায় নারীর চরম আর্থিক অনটন ও সংকটের চিত্র ফুটে ওঠে। অসুস্থ স্বামীর চিকিৎসা এবং সংসারের ভরণপোষণ চালাতে ব্যর্থ হয়ে তিনি এই মর্মান্তিক সিদ্ধান্ত নিতে বাধ্য হন। প্রতিবেদনটি দৃষ্টিগোচর হওয়ার পর প্রধানমন্ত্রী শেখ হাসিনা ওই পরিবারের দায়িত্ব নেওয়ার এবং তাদের পাশে দাঁড়ানোর তাৎক্ষণিক নির্দেশ দেন।",
+        "details_en": "Recently, a media report highlighted the dire situation of Akhi, an impoverished woman expecting her third child, who intended to sell her unborn baby due to extreme financial hardship and her husband's illness. Unable to afford family expenses or medical care, she resorted to this desperate measure. Upon noticing the report, the Prime Minister immediately stepped forward to take responsibility for the family and provide necessary support."
       }
     },
     {
-      "story_id": "555166f5-3a96-5fe2-8822-1cde50996bbc",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#QuestionLeak",
-        "#CID",
-        "#YouthDevelopment"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/madaripur%20arrest.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-21T04:35:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2867,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/barc-official-arrested-over-youth-development-recruitment-exam-question-leak-4303971",
-          "title": "BARC official arrested over Youth Development recruitment exam question leak",
-          "snippet": "BARC official arrested over Youth Development recruitment exam question leak"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুব উন্নয়ন অধিদপ্তরের প্রশ্নপত্র ফাঁসের ঘটনায় বিএআরসি কর্মকর্তা গ্রেপ্তার",
-        "title_en": "BARC Official Arrested Over Youth Development Recruitment Exam Question Leak",
-        "summary_bn": "সিআইডি বাংলাদেশ কৃষি গবেষণা কাউন্সিলের এক সহকারী পরিচালককে যুব উন্নয়ন অধিদপ্তরের নিয়োগ পরীক্ষার প্রশ্ন ফাঁসের অভিযোগে গ্রেপ্তার করেছে।",
-        "summary_en": "CID arrested a Bangladesh Agricultural Research Council assistant director for leaking Department of Youth Development recruitment exam questions.",
-        "why_it_matters_bn": "প্রশ্ন ফাঁস ও নিয়োগ পরীক্ষা স্থগিতের ঘটনায় চাকরিপ্রত্যাশী হাজার হাজার তরুণ চরম অনিশ্চয়তা ও মানসিক যন্ত্রণার শিকার হয়েছেন।",
-        "why_it_matters_en": "Job-seeking youths face severe uncertainty and distress due to recurring recruitment exam question leaks and sudden postponements.",
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T04:35:10+00:00",
-        "lead_bn": "সিআইডি বাংলাদেশ কৃষি গবেষণা কাউন্সিলের এক সহকারী পরিচালককে যুব উন্নয়ন অধিদপ্তরের নিয়োগ পরীক্ষার প্রশ্ন ফাঁসের অভিযোগে গ্রেপ্তার করেছে।",
-        "lead_en": "CID arrested a Bangladesh Agricultural Research Council assistant director for leaking Department of Youth Development recruitment exam questions.",
-        "bullets_bn": [
-          "সিআইডির অতিরিক্ত পুলিশ সুপার মোহাইমিনুল ইসলাম প্রশ্ন ফাঁস মামলায় সোহাগ ফকীরের সম্পৃক্ততার বিষয়টি নিশ্চিত করেছেন।",
-          "মাদারীপুরের রাজৈর থেকে গ্রেপ্তারের সময় তাঁর কাছ থেকে দুটি স্মার্টফোন জব্দ করা হয় এবং তাঁকে ঢাকায় আনা হচ্ছে।",
-          "প্রশ্ন ফাঁসের অভিযোগ ওঠার পর গত ১০ অক্টোবর সহকারী উপজেলা যুব উন্নয়ন কর্মকর্তা পদের নিয়োগ পরীক্ষা শেষ মুহূর্তে স্থগিত করা হয়।"
-        ],
-        "bullets_en": [
-          "CID Additional Superintendent of Police Mohaiminul Islam confirmed Sohag Fakir's involvement in the question leak case.",
-          "Two smartphones were seized during his arrest in Madaripur's Rajoir, and he is currently being brought to Dhaka.",
-          "The recruitment exam for assistant upazila youth development officers was postponed at the last minute on October 10 following leak allegations."
-        ],
-        "impact_bn": "প্রশ্ন ফাঁস ও নিয়োগ পরীক্ষা স্থগিতের ঘটনায় চাকরিপ্রত্যাশী হাজার হাজার তরুণ চরম অনিশ্চয়তা ও মানসিক যন্ত্রণার শিকার হয়েছেন।",
-        "impact_en": "Job-seeking youths face severe uncertainty and distress due to recurring recruitment exam question leaks and sudden postponements.",
-        "details_bn": "গত ১০ অক্টোবর যুব উন্নয়ন অধিদপ্তরের সহকারী উপজেলা যুব উন্নয়ন কর্মকর্তা পদের নিয়োগ পরীক্ষা অনুষ্ঠিত হওয়ার কথা ছিল। তবে পরীক্ষা শুরুর ঠিক আগ মুহূর্তে প্রশ্নপত্র ফাঁসের জোরালো অভিযোগ ওঠায় কর্তৃপক্ষ আকস্মিকভাবে পরীক্ষা স্থগিত করতে বাধ্য হয়। এই ঘটনার পর থেকেই আইনশৃঙ্খলা রক্ষাকারী বাহিনী প্রশ্ন ফাঁস চক্রের মূল হোতাদের ধরতে দেশের বিভিন্ন স্থানে নজরদারি ও তদন্ত তীব্র করে তোলে। এর ধারাবাহিকতায় অপরাধ তদন্ত বিভাগ বা সিআইডি অভিযান চালিয়ে বাংলাদেশ কৃষি গবেষণা কাউন্সিলের (বিএআরসি) ওই কর্মকর্তাকে গ্রেপ্তার করে।",
-        "details_en": "The recruitment examination for the post of assistant upazila youth development officer was scheduled for October 10. However, authorities were forced to postpone the test at the eleventh hour following widespread allegations of a question paper leak. Following the disruption, law enforcement agencies intensified investigations to dismantle the graft syndicate, culminating in the CID's operation and subsequent arrest of the BARC official."
-      }
-    },
-    {
-      "story_id": "8ee404ae-ef05-5e00-9e61-558178b4d183",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/coxbazar.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-21T05:18:19+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9537,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/allegation-of-abduction-of-a-chhatra-dal-leaders-elder-brother-in-teknaf-following-the-firing-of-shots-into-the-air/",
-          "title": "ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার বড় ভাইকে অপহরণের অভিযোগ",
-          "snippet": "ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার বড় ভাইকে অপহরণের অভিযোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টেকনাফে ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার ভাইকে অপহরণ",
-        "title_en": "Chhatradol leader's brother abducted in Teknaf after blank shots fired",
-        "summary_bn": "**কক্সবাজারের টেকনাফে অস্ত্রধারীরা ফাঁকা গুলি চালিয়ে ছাত্রদল নেতার বড় ভাইকে জিম্মি করে পাহাড়ি এলাকায় অপহরণ করেছে।**",
-        "summary_en": "**Armed miscreants abducted a Chhatradol leader's elder brother after firing blank shots in the hilly area of Teknaf, Cox's Bazar.**",
-        "why_it_matters_bn": "এ ধরনের অপহরণের ঘটনা স্থানীয় পাহাড়ি ও সীমান্তবর্তী অঞ্চলের বাসিন্দাদের মধ্যে নিরাপত্তা নিয়ে চরম আতঙ্ক তৈরি করেছে।",
-        "why_it_matters_en": "Such abduction incidents create severe security concerns and panic among residents living in hilly and border areas.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T05:18:19+00:00",
-        "lead_bn": "**কক্সবাজারের টেকনাফে অস্ত্রধারীরা ফাঁকা গুলি চালিয়ে ছাত্রদল নেতার বড় ভাইকে জিম্মি করে পাহাড়ি এলাকায় অপহরণ করেছে।**",
-        "lead_en": "**Armed miscreants abducted a Chhatradol leader's elder brother after firing blank shots in the hilly area of Teknaf, Cox's Bazar.**",
-        "bullets_bn": [
-          "১. টেকনাফের বাহারছড়া ইউনিয়নের চৌকিদার পাড়া এলাকায় দুই রাউন্ড ফাঁকা গুলি ছুড়ে মো. রফিককে অপহরণ করা হয়।",
-          "২. অপহৃত মো. রফিক বাহারছড়া উত্তর শাখা ছাত্রদলের সভাপতি আব্দুল্লাহ কায়সারের বড় ভাই।",
-          "৩. অপহৃত ব্যক্তিকে উদ্ধারে পাহাড়ি এলাকায় আইনশৃঙ্খলা রক্ষাকারী বাহিনীর অভিযান ও তল্লাশি শুরু হয়েছে।"
-        ],
-        "bullets_en": [
-          "1. Md. Rafiq was abducted from the Chowkidar Para area of Baharchhara union in Teknaf after two blank shots were fired.",
-          "2. The victim Md. Rafiq is the elder brother of Abdullah Kaisar, president of the Baharchhara North branch Chhatradol.",
-          "3. Law enforcement agencies launched a search and rescue operation in the hilly terrain to rescue the abductee."
-        ],
-        "impact_bn": "এ ধরনের অপহরণের ঘটনা স্থানীয় পাহাড়ি ও সীমান্তবর্তী অঞ্চলের বাসিন্দাদের মধ্যে নিরাপত্তা নিয়ে চরম আতঙ্ক তৈরি করেছে।",
-        "impact_en": "Such abduction incidents create severe security concerns and panic among residents living in hilly and border areas.",
-        "details_bn": "কক্সবাজারের টেকনাফ ও এর আশেপাশের পাহাড়ি অঞ্চলে দীর্ঘদিন ধরে অপরাধী চক্র ও অস্ত্রধারীদের তৎপরতা রয়েছে। সাধারণ মানুষ ও স্থানীয় রাজনৈতিক নেতাকর্মীদের টার্গেট করে অপহরণ ও মুক্তিপণ আদায়ের ঘটনা এ অঞ্চলে প্রায়ই ঘটে থাকে। সাম্প্রতিক সময়ে আইনশৃঙ্খলা পরিস্থিতির অবনতির ফলে স্থানীয়দের মধ্যে আতঙ্ক বাড়ায় পুলিশ ও অন্যান্য বাহিনী পাহাড়ি এলাকায় নিরাপত্তা জোরদার করার উদ্যোগ নিয়েছে।",
-        "details_en": "Criminal gangs and armed groups have long been active in the hilly regions of Teknaf and surrounding areas in Cox's Bazar. Incidents targeting ordinary citizens and local political activists for abduction and ransom are frequent. Amid growing safety concerns due to recent security challenges, law enforcement agencies have stepped up patrols and search operations in the hilly terrain."
-      }
-    },
-    {
-      "story_id": "706cf42b-6d98-57a6-9a0d-31a3cdca2075",
+      "story_id": "a229097f-27d8-5b09-ba8a-77a79c26bdf9",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -177,50 +68,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T05:17:16+00:00",
+      "published_at": "2026-10-21T10:12:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9431,
+      "importance_score": 4.8,
+      "rank_score": 1.5302,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/975810/%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BC-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
-          "title": "হিলি সীমান্তে দর্শনার্থীদের ভিড়, কাঁটাতারের ওপারে স্বজন-এপারে আক্ষেপ",
-          "snippet": "হিলি সীমান্তে দর্শনার্থীদের ভিড়, কাঁটাতারের ওপারে স্বজন-এপারে আক্ষেপ"
+          "url": "https://www.banglatribune.com/country/mymensing/975869/%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%9B%E0%A6%A8%E0%A7%8D%E0%A6%A6-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%AC%E0%A6%AC%E0%A6%A7%E0%A7%82%E0%A6%95%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE",
+          "title": "বিয়ের উপহার পছন্দ না হওয়ায় নববধূকে নির্যাতন-হত্যা, আটক স্বামী",
+          "snippet": "বিয়ের উপহার পছন্দ না হওয়ায় নববধূকে নির্যাতন-হত্যা, আটক স্বামী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শারদীয় দুর্গোৎসবে হিলি সীমান্তে দর্শনার্থীদের উপচেপড়া ভিড় ও স্বজন সাক্ষাতের আক্ষেপ",
-        "title_en": "Hili Border Sees Visitor Crowds and Regret Over Unmet Relatives During Durga Puja",
-        "summary_bn": "শারদীয় দুর্গাপূজাকে কেন্দ্র করে দিনাজপুরের হিলি সীমান্তে প্রতিমা দেখতে এবং ওপারে থাকা স্বজনদের সাথে দেখা করতে দর্শনার্থীরা ভিড় জমিয়েছেন।",
-        "summary_en": "Visitors crowded the Hili border in Dinajpur during Durga Puja to view idols and catch glimpses of relatives across the border.",
-        "why_it_matters_bn": "সীমান্তবর্তী এলাকার দর্শনার্থী ও সাধারণ মানুষ প্রিয়জনদের সাথে সরাসরি দেখা করতে না পারার মানসিক হতাশায় ভুগেছেন।",
-        "why_it_matters_en": "Visitors and ordinary people faced emotional disappointment due to not being able to meet their loved ones directly.",
+        "title_bn": "নালিতাবাড়ীতে উপহার পছন্দ না হওয়ায় নববধূকে নির্যাতন ও হত্যার অভিযোগ, স্বামী আটক",
+        "title_en": "Newlywed Tortured and Killed Over Unwanted Dowry Gifts in Nalitabari, Husband Detained",
+        "summary_bn": "বিয়ের ছয় দিনের মাথায় বাবার বাড়ি থেকে দেওয়া উপহার পছন্দ না হওয়ায় লিমা আক্তার নামের এক নববধূকে নির্যাতন চালিয়ে হত্যার অভিযোগ উঠেছে।",
+        "summary_en": "Newlywed Lima Akhter was allegedly tortured and killed just six days after her wedding over unwanted gifts from her family.",
+        "why_it_matters_bn": "এই মর্মান্তিক ঘটনা সমাজে যৌতুকপ্রথা ও পারিবারিক সহিংসতার বিরুদ্ধে কঠোর আইনি পদক্ষেপ ও জনসচেতনতার প্রয়োজনীয়তা পুনরায় সামনে এনেছে।",
+        "why_it_matters_en": "This tragic incident highlights the urgent need for stringent legal action and social awareness against dowry practices and domestic violence.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T05:17:16+00:00",
-        "lead_bn": "শারদীয় দুর্গাপূজাকে কেন্দ্র করে দিনাজপুরের হিলি সীমান্তে প্রতিমা দেখতে এবং ওপারে থাকা স্বজনদের সাথে দেখা করতে দর্শনার্থীরা ভিড় জমিয়েছেন।",
-        "lead_en": "Visitors crowded the Hili border in Dinajpur during Durga Puja to view idols and catch glimpses of relatives across the border.",
+        "published_at": "2026-10-21T10:12:02+00:00",
+        "lead_bn": "বিয়ের ছয় দিনের মাথায় বাবার বাড়ি থেকে দেওয়া উপহার পছন্দ না হওয়ায় লিমা আক্তার নামের এক নববধূকে নির্যাতন চালিয়ে হত্যার অভিযোগ উঠেছে।",
+        "lead_en": "Newlywed Lima Akhter was allegedly tortured and killed just six days after her wedding over unwanted gifts from her family.",
         "bullets_bn": [
-          "১. দেশের বিভিন্ন প্রান্ত থেকে দর্শনার্থীরা দিনাজপুরের হিলি সীমান্তের শূন্যরেখার কাছাকাছি এলাকায় জড়ো হন।",
-          "২. সীমান্তে কঠোর নিরাপত্তার কারণে দর্শনার্থীরা ওপারে থাকা আত্মীয়স্বজনের কাছে যেতে পারেননি।",
-          "৩. দূর থেকে হাত নেড়ে অভিবাদন জানিয়ে আক্ষেপ নিয়ে বাড়ি ফিরতে বাধ্য হন সাধারণ মানুষ।"
+          "১. বিয়ের ছয় দিনের মাথায় শেরপুরের নালিতাবাড়ী উপজেলায় এক নববধূর রহস্যজনক মৃত্যু হয়েছে।",
+          "২. নিহতের পরিবারের অভিযোগ, বাবার বাড়ি থেকে দেওয়া জিনিসপত্র পছন্দ না হওয়ায় তাকে নির্যাতন করে হত্যা করা হয়েছে।",
+          "৩. এ ঘটনায় জিজ্ঞাসাবাদের জন্য নিহতের স্বামী একরামুল হক ও শাশুড়ি ফরিদা বেগমকে আটক করেছে পুলিশ।"
         ],
         "bullets_en": [
-          "1. Visitors from various parts of the country gathered near the zero line of the Hili border in Dinajpur.",
-          "2. Due to strict border security, visitors were unable to cross over to meet their relatives.",
-          "3. People were forced to return home with regret after only exchanging distant waves and greetings."
+          "1. A newlywed bride died under mysterious circumstances just six days after her wedding in Nalitabari upazila of Sherpur.",
+          "2. The victim's family alleged that she was tortured and killed because the gifts provided by her family were deemed unsatisfactory.",
+          "3. Police have detained the victim's husband Ekramul Haque and mother-in-law Farida Begum for questioning regarding the incident."
         ],
-        "impact_bn": "সীমান্তবর্তী এলাকার দর্শনার্থী ও সাধারণ মানুষ প্রিয়জনদের সাথে সরাসরি দেখা করতে না পারার মানসিক হতাশায় ভুগেছেন।",
-        "impact_en": "Visitors and ordinary people faced emotional disappointment due to not being able to meet their loved ones directly.",
-        "details_bn": "দিনাজপুরের হিলি সীমান্তে শারদীয় দুর্গাপূজার সময় ভারত ও বাংলাদেশের সীমান্তবর্তী মানুষদের মধ্যে এমন আবেগঘন দৃশ্য নিয়মিত দেখা যায়। দুই দেশের আত্মিক সম্পর্ক ও আত্মীয়তার বন্ধন থাকা সত্ত্বেও কঠোর সীমান্ত সুরক্ষার কারণে দর্শনার্থীরা কেবল দূর থেকেই একে অপরকে দেখার সুযোগ পান। প্রতি বছর উৎসবের দিনে এই সীমান্তে স্বজনদের এক পলক দেখার জন্য সাধারণ মানুষের ভিড় জমে।",
-        "details_en": "Such emotional scenes are common between border communities of Bangladesh and India during Durga Puja at the Hili border. Despite strong familial ties across the two countries, strict border security limits visitors to observing from a distance. Every year during festivals, crowds gather at this border simply to catch a glimpse of their relatives."
+        "impact_bn": "এই মর্মান্তিক ঘটনা সমাজে যৌতুকপ্রথা ও পারিবারিক সহিংসতার বিরুদ্ধে কঠোর আইনি পদক্ষেপ ও জনসচেতনতার প্রয়োজনীয়তা পুনরায় সামনে এনেছে।",
+        "impact_en": "This tragic incident highlights the urgent need for stringent legal action and social awareness against dowry practices and domestic violence.",
+        "details_bn": "শেরপুরের নালিতাবাড়ী উপজেলার রূপনারায়নকুড়া ইউনিয়নের পাইখাতলা গ্রামে বিয়ের মাত্র ছয় দিনের মাথায় লিমা আক্তার নামের ২০ বছর বয়সী এক নববধূর মৃত্যু হয়। লিমার পরিবারের অভিযোগ, বিয়ের সময় দেওয়া উপহার সামগ্রী নিয়ে স্বামীর পরিবারের সাথে অসন্তোষ তৈরি হয়েছিল। এর জেরে তাকে শারীরিক নির্যাতন চালিয়ে হত্যা করা হয়েছে বলে অভিযোগ তোলে পরিবার। ঘটনার পর পুলিশ জিজ্ঞাসাবাদের জন্য নিহতের স্বামী একরামুল হক ও শাশুড়ি ফরিদা বেগমকে আটক করেছে।",
+        "details_en": "Twenty-year-old newlywed Lima Akhter died at her husband's home in Paikhatla village, Rupanarankura union of Nalitabari upazila, just six days after her marriage. Her family claimed that dissatisfaction over wedding gifts escalated into severe physical abuse, resulting in her death. Following the incident, local authorities detained the husband, Ekramul Haque, and mother-in-law, Farida Begum, for interrogation."
       }
     },
     {
-      "story_id": "76c34309-8e08-5c2d-b9a4-e4fbeaf2c315",
+      "story_id": "3265a463-a5a1-568a-a598-b38004bbaf07",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -231,50 +122,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T05:11:24+00:00",
+      "published_at": "2026-10-21T10:08:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8877,
+      "importance_score": 4.8,
+      "rank_score": 1.4883,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/jago-jobs/news/1170448",
-          "title": "মদিনা গ্রুপে ম্যানেজার পদে নিয়োগ, কর্মস্থল গাজীপুর",
-          "snippet": "মদিনা গ্রুপে ম্যানেজার পদে নিয়োগ, কর্মস্থল গাজীপুর"
+          "url": "https://www.jagonews24.com/country/news/1170569",
+          "title": "যুবলীগ নেতাকে অপহরণ করে আটক ছাত্রদল নেতা",
+          "snippet": "যুবলীগ নেতাকে অপহরণ করে আটক ছাত্রদল নেতা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মদিনা গ্রুপে ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ",
-        "title_en": "Medina Group issues job circular for Deputy and Assistant Manager positions",
-        "summary_bn": "শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ গাজীপুরে কাজের জন্য ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "Leading industrial conglomerate Medina Group has issued a job circular to recruit personnel for Deputy and Assistant Manager positions in Gazipur.",
-        "why_it_matters_bn": "বেকার যুবকদের জন্য গাজীপুরে কর্মসংস্থানের নতুন সুযোগ তৈরি হয়েছে।",
-        "why_it_matters_en": "New employment opportunities have been created for job-seeking youths in Gazipur.",
+        "title_bn": "ছাত্রদল নেতার বিরুদ্ধে যুবলীগ নেতাকে অপহরণের অভিযোগ",
+        "title_en": "Chhatra Dal Leader Accused of Abducting Jubo League Leader",
+        "summary_bn": "ছাত্রদল নেতার বিরুদ্ধে এক যুবলীগ নেতাকে অপহরণ করে আটকে রাখার গুরুতর অভিযোগ উঠেছে।",
+        "summary_en": "A local Chhatra Dal leader has been accused of abducting and detaining a Jubo League leader.",
+        "why_it_matters_bn": "রাজনৈতিক দ্বন্দ্বের কারণে সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "why_it_matters_en": "Political rivalries and such incidents raise security concerns among local residents.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T05:11:24+00:00",
-        "lead_bn": "শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ গাজীপুরে কাজের জন্য ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "Leading industrial conglomerate Medina Group has issued a job circular to recruit personnel for Deputy and Assistant Manager positions in Gazipur.",
+        "published_at": "2026-10-21T10:08:55+00:00",
+        "lead_bn": "ছাত্রদল নেতার বিরুদ্ধে এক যুবলীগ নেতাকে অপহরণ করে আটকে রাখার গুরুতর অভিযোগ উঠেছে।",
+        "lead_en": "A local Chhatra Dal leader has been accused of abducting and detaining a Jubo League leader.",
         "bullets_bn": [
-          "১. মদিনা গ্রুপে ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের প্রক্রিয়া শুরু হয়েছে।",
-          "২. আগ্রহী প্রার্থীরা নির্দিষ্ট যোগ্যতা সাপেক্ষে আগামী ১৮ নভেম্বর পর্যন্ত আবেদন করতে পারবেন।",
-          "৩. নির্বাচিত প্রার্থীদের কর্মস্থল হবে গাজীপুর।"
+          "১. যুবলীগ নেতাকে অপহরণ করে আটকে রাখার ঘটনায় ছাত্রদল নেতার সম্পৃক্ততার অভিযোগ উঠেছে।",
+          "২. ভুক্তভোগী নেতার পরিবারের অভিযোগের ভিত্তিতে বিষয়টি নিয়ে স্থানীয় রাজনৈতিক মহོলে চাঞ্চল্য সৃষ্টি হয়েছে।",
+          "৩. ঘটনার পর আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে এবং পুলিশ বিষয়টি খতিয়ে দেখছে।"
         ],
         "bullets_en": [
-          "1. Medina Group has initiated the recruitment process for Deputy and Assistant Manager positions.",
-          "2. Eligible candidates can submit their applications until November 18.",
-          "3. The designated workplace for the selected candidates will be in Gazipur."
+          "1. A Chhatra Dal leader is accused of abducting and forcefully detaining a Jubo League leader.",
+          "2. The incident has sparked tension among local political circles following complaints from the victim's family.",
+          "3. Legal procedures are underway as law enforcement agencies investigate the incident."
         ],
-        "impact_bn": "বেকার যুবকদের জন্য গাজীপুরে কর্মসংস্থানের নতুন সুযোগ তৈরি হয়েছে।",
-        "impact_en": "New employment opportunities have been created for job-seeking youths in Gazipur.",
-        "details_bn": "দেশের অন্যতম শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ নিয়মিত বিভিন্ন পদে দক্ষ জনবল নিয়োগ দিয়ে আসছে। এরই ধারাবাহিকতায় প্রতিষ্ঠানটি তাদের উৎপাদন ও ব্যবস্থাপনা কার্যক্রম আরও গতিশীল করতে গাজীপুর কর্মস্থলের জন্য এই নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। দেশের শিক্ষিত বেকার তরুণদের কর্মসংস্থানে এটি একটি ইতিবাচক সুযোগ।",
-        "details_en": "As one of the country's leading industrial conglomerates, Medina Group regularly recruits skilled professionals across various positions. Continuing this trend, the company has published this circular for Gazipur to further streamline its production and management operations, creating positive employment opportunities for educated youth."
+        "impact_bn": "রাজনৈতিক দ্বন্দ্বের কারণে সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Political rivalries and such incidents raise security concerns among local residents.",
+        "details_bn": "সাম্প্রতিক সময়ে রাজনৈতিক পটপরিবর্তনের পর দেশের বিভিন্ন স্থানে অভ্যন্তরীণ কোন্দল ও ক্ষমতার দ্বন্দ্বে এ ধরনের অপরাধমূলক কর্মকাণ্ডের অভিযোগ বাড়ছে। বিরোধী ও ক্ষমতাসীন দলের স্থানীয় নেতাকর্মীদের মধ্যে আধিপত্য বিস্তারকে কেন্দ্র করে নানা সংঘাতের ঘটনা জনমনে উদ্বেগ তৈরি করছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী এ ধরনের ঘটনায় কঠোর আইনি পদক্ষেপ নেওয়ার কথা জানিয়েছে।",
+        "details_en": "In recent times, allegations of such criminal activities amid internal conflicts and power struggles have increased in various parts of the country following political transitions. Clashes between local activists for dominance continue to raise public concern. Law enforcement agencies have stated they are taking strict legal action against such incidents."
       }
     },
     {
-      "story_id": "8e735517-2e38-5f30-9b45-41751c9a5f1e",
+      "story_id": "2472f8f0-70f0-5f1e-b943-d226ac5cc102",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -283,48 +174,156 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Ffhmsg9yr%2FUntitled-3.jpg?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T05:06:00+00:00",
+      "published_at": "2026-10-21T09:58:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8416,
+      "importance_score": 4.8,
+      "rank_score": 1.367,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://nagorik.prothomalo.com/durporobash/291hxj6qf6",
-          "title": "আলো যখন মস্তিষ্কের নিয়ন্ত্রক: গল্পের শুরু একটি সবুজ শৈবাল থেকে",
-          "snippet": "আলো যখন মস্তিষ্কের নিয়ন্ত্রক: গল্পের শুরু একটি সবুজ শৈবাল থেকে"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/975865/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%80%E0%A6%B2%E0%A6%AB%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%8B%E0%A6%A7",
+          "title": "যাত্রাবিরতির দাবিতে নীলফামারীতে ট্রেন আটকে অবরোধ, ৪ ঘণ্টা পর চলাচল স্বাভাবিক",
+          "snippet": "যাত্রাবিরতির দাবিতে নীলফামারীতে ট্রেন আটকে অবরোধ, ৪ ঘণ্টা পর চলাচল স্বাভাবিক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কারের জন্য তিন বিজ্ঞানী পেলেন ২০২৬ সালের নোবেল",
-        "title_en": "Three Scientists Win 2026 Nobel Prize for Optogenetics Discovery",
-        "summary_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কার এবং মস্তিষ্কের স্নায়ুকোষ আলো দিয়ে নিয়ন্ত্রール করার পদ্ধতি উদ্ভাবনের জন্য তিন বিজ্ঞানী ২০২৬ সালের চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার লাভ করেছেন।",
-        "summary_en": "Three scientists won the 2026 Nobel Prize in Physiology or Medicine for pioneering optogenetics and controlling brain neurons using light.",
-        "why_it_matters_bn": "এই প্রযুক্তি স্নায়ুবিজ্ঞান ও মস্তিষ্কের জটিল রোগ নিরাময়ের গবেষণায় বিপ্লব ঘটিয়ে মানুষের স্বাস্থ্যসেবায় দীর্ঘমেয়াদি ভূমিকা রাখবে।",
-        "why_it_matters_en": "This technology revolutionizes neuroscience and brain disorder research, paving the way for advanced neurological treatments.",
+        "title_bn": "দারোয়ানীতে ট্রেনের যাত্রাবিরতির দাবিতে নীলফামারীতে রেললাইন অবরোধ",
+        "title_en": "Nilphamari Locals Block Railway Demanding Train Stop at Darowani",
+        "summary_bn": "দারোয়ানী রেলস্টেশনে ট্রেনের যাত্রাবিরতির দাবিতে স্থানীয় বাসিন্দারা রেলপথ অবরোধ করলে প্রায় চার ঘণ্টা ট্রেন চলাচল ব্যাহত হয়।",
+        "summary_en": "Local residents blocked the railway demanding a train stop at Darowani railway station, disrupting train movement for about four hours.",
+        "why_it_matters_bn": "যাত্রী সাধারণকে চার ঘণ্টা চরম দুর্ভোগ পোহাতে হয় এবং উত্তরাঞ্চলের রেল যোগাযোগ সাময়িকভাবে ব্যাহত হয়।",
+        "why_it_matters_en": "General passengers faced severe suffering for four hours, and railway communication in the northern region was temporarily disrupted.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T05:06:00+00:00",
-        "lead_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কার এবং মস্তিষ্কের স্নায়ুকোষ আলো দিয়ে নিয়ন্ত্রール করার পদ্ধতি উদ্ভাবনের জন্য তিন বিজ্ঞানী ২০২৬ সালের চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার লাভ করেছেন।",
-        "lead_en": "Three scientists won the 2026 Nobel Prize in Physiology or Medicine for pioneering optogenetics and controlling brain neurons using light.",
+        "published_at": "2026-10-21T09:58:56+00:00",
+        "lead_bn": "দারোয়ানী রেলস্টেশনে ট্রেনের যাত্রাবিরতির দাবিতে স্থানীয় বাসিন্দারা রেলপথ অবরোধ করলে প্রায় চার ঘণ্টা ট্রেন চলাচল ব্যাহত হয়।",
+        "lead_en": "Local residents blocked the railway demanding a train stop at Darowani railway station, disrupting train movement for about four hours.",
         "bullets_bn": [
-          "১. কার্ল ডাইসেরথ, পিটার হেগেমান ও গেয়র্গ নাগেল যৌথভাবে ২০২৬ সালের শারীরতত্ত্ব বা চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার অর্জন করেছেন।",
-          "২. ক্ল্যামাইডোমোনাস নামক সবুজ শৈবালে থাকা ‘চ্যানেলরোডপসিন’ প্রোটিনের কার্যকারিতা নিয়ে দীর্ঘ গবেষণার মাধ্যমে এই প্রযুক্তি বিকশিত হয়।",
-          "৩. এই আবিষ্কারের ফলে জীবন্ত প্রাণীর মস্তিষ্কের নির্দিষ্ট স্নায়ুকোষ আলো দিয়ে অতিদ্রুত চালু বা বন্ধ করা সম্ভব হচ্ছে।"
+          "১. দারোয়ানী টেক্সটাইল এলাকায় সহস্রাধিক স্থানীয় বাসিন্দা রেলপথ অবরোধে অংশ নেন।",
+          "২. চিলাহাটি-সৈয়দপুর রেলপথের এই বিক্ষোভে আটকে পড়ে বেশ কয়েকটি ট্রেন।",
+          "৩. প্রশাসনের আশ্বাসের প্রেক্ষিতে চার ঘণ্টা পর অবরোধ তুলে নেওয়া হলে ট্রেন চলাচল স্বাভাবিক হয়।"
         ],
         "bullets_en": [
-          "1. Karl Deisseroth, Peter Hegemann, and Georg Nagel jointly won the 2026 Nobel Prize in Physiology or Medicine.",
-          "2. The breakthrough technology developed from studying the 'channelrhodopsin' protein found in the green alga Chlamydomonas.",
-          "3. The innovation enables scientists to activate or deactivate specific neurons in living brains using light."
+          "1. Over a thousand local residents participated in the railway blockade in the Darowani textile area.",
+          "2. Several trains got stranded on the Chilahati-Saidpur railway route due to the protest.",
+          "3. Train movement resumed after four hours following assurances from the administration."
         ],
-        "impact_bn": "এই প্রযুক্তি স্নায়ুবিজ্ঞান ও মস্তিষ্কের জটিল রোগ নিরাময়ের গবেষণায় বিপ্লব ঘটিয়ে মানুষের স্বাস্থ্যসেবায় দীর্ঘমেয়াদি ভূমিকা রাখবে।",
-        "impact_en": "This technology revolutionizes neuroscience and brain disorder research, paving the way for advanced neurological treatments.",
-        "details_bn": "মানুষের মস্তিষ্কে প্রায় ৮ হাজার ৬০০ কোটি স্নায়ুকোষ বৈদ্যুতিক ও রাসায়নিক সংকেত আদান-প্রদান করে। মস্তিষ্কের নির্দিষ্ট স্নায়ুবর্তনী বা কোষের ভূমিকা জানতে বিজ্ঞানীরা দীর্ঘদিন ধরে কাজ করছিলেন। এককোষী সবুজ শৈবাল ক্ল্যামাইডোমোনাসের আলোকসংবেদনশীলতা নিয়ে পিটার হেগেমান ও অন্য গবেষকদের কাজের ওপর ভিত্তি করে এই যুগান্তকারী আলোক-জিনপ্রযুক্তি বা অপটোজেনেটিকস বিকশিত হয়, যা আধুনিক স্নায়ুবিজ্ঞানে নতুন দিগন্ত উন্মোচন করেছে।",
-        "details_en": "The human brain contains approximately 86 billion neurons communicating via electrical and chemical signals. Understanding specific neural circuits has long challenged neuroscientists. Building on research into the light sensitivity of the single-celled green alga Chlamydomonas by Peter Hegemann and others, this groundbreaking optogenetics technology was developed, revolutionizing modern neuroscience."
+        "impact_bn": "যাত্রী সাধারণকে চার ঘণ্টা চরম দুর্ভোগ পোহাতে হয় এবং উত্তরাঞ্চলের রেল যোগাযোগ সাময়িকভাবে ব্যাহত হয়।",
+        "impact_en": "General passengers faced severe suffering for four hours, and railway communication in the northern region was temporarily disrupted.",
+        "details_bn": "নীলফামারীর দারোয়ানী টেক্সটাইল স্টেশন এলাকায় ট্রেনের যাত্রাবিরতি চালুর দীর্ঘদিনের দাবি জানিয়ে আসছিলেন স্থানীয় বাসিন্দারা। এর ধারাবাহিকতায় সকালে সহস্রাধিক মানুষ রেললাইন অবরোধ করেন। প্রশাসনের পক্ষ থেকে বিষয়টি সমাধানের সুনির্দিষ্ট আশ্বাসের পর আন্দোলনকারীরা রেলপথ ছেড়ে দেন, যার ফলে পুনরায় স্বাভাবিক হয় ট্রেন চলাচল।",
+        "details_en": "Local residents had long been demanding the resumption of train stops at the Darowani textile station area in Nilphamari. Following this, over a thousand people blocked the railway line in the morning. Protestors cleared the tracks after receiving specific assurances from the administration regarding a solution, allowing train operations to return to normal."
+      }
+    },
+    {
+      "story_id": "aee1242d-7ce6-59a2-925d-8417450dce00",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-4-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-21T08:07:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 0.9388,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/divisional-commissioner-withdrawn-for-breach-of-protocol-while-shaking-hands-with-the-prime-minister/",
+          "title": "প্রধানমন্ত্রীর সঙ্গে প্রটোকল ভঙ্গ: রাজশাহীর বিভাগীয় কমিশনার ওএসডি",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে প্রটোকল ভঙ্গ: রাজশাহীর বিভাগীয় কমিশনার ওএসডি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজশাহীর বিভাগীয় কমিশনার ইউসুফ আলীকে প্রত্যাহার করে ওএসডি করা হয়েছে",
+        "title_en": "Rajshahi Divisional Commissioner Yusuf Ali Replaced and Made OSD",
+        "summary_bn": "প্রশাসনিক কারণে রাজশাহীর বিভাগীয় কমিশনার ইউসুফ আলীকে প্রত্যাহার করে জনপ্রশাসন মন্ত্রণালয়ে ওএসডি করা হয়েছে।",
+        "summary_en": "Rajshahi Divisional Commissioner Yusuf Ali has been withdrawn and attached to the Ministry of Public Administration for administrative reasons.",
+        "why_it_matters_bn": "১. প্রশাসনিক কারণে রাজশাহী বিভাগীয় কমিশনার ইউসুফ আলীকে তাৎক্ষণিকভাবে স্ট্যান্ড রিলিজ করা হয়েছে।",
+        "why_it_matters_en": "1. Rajshahi Divisional Commissioner Yusuf Ali was immediately stand-released due to administrative reasons.",
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T08:07:39+00:00",
+        "lead_bn": "প্রশাসনিক কারণে রাজশাহীর বিভাগীয় কমিশনার ইউসুফ আলীকে প্রত্যাহার করে জনপ্রশাসন মন্ত্রণালয়ে ওএসডি করা হয়েছে।",
+        "lead_en": "Rajshahi Divisional Commissioner Yusuf Ali has been withdrawn and attached to the Ministry of Public Administration for administrative reasons.",
+        "bullets_bn": [
+          "১. প্রশাসনিক কারণে রাজশাহী বিভাগীয় কমিশনার ইউসুফ আলীকে তাৎক্ষণিকভাবে স্ট্যান্ড রিলিজ করা হয়েছে।",
+          "২. জনপ্রশাসন প্রতিমন্ত্রী মো. আব্দুল বারী জানান যে এটি একটি নিয়মিত প্রশাসনিক পদক্ষেপ।",
+          "৩. অতিরিক্ত বিভাগীয় কমিশনার (রাজস্ব) মো. রেজাউল আলম সরকারকে ভারপ্রাপ্ত বিভাগীয় কমিশনারের দায়িত্ব দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "1. Rajshahi Divisional Commissioner Yusuf Ali was immediately stand-released due to administrative reasons.",
+          "2. State Minister for Public Administration Md. Abdul Bari stated that this is a routine administrative measure.",
+          "3. Additional Divisional Commissioner (Revenue) Md. Rezaul Alam Sarker has been assigned as the acting divisional commissioner."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরকালে বিমানবন্দরের বিদায় অনুষ্ঠানে প্রটোকল ভঙ্গের একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ে। ভিডিওতে দেখা যায়, বিভাগীয় কমিশনার ইউসুফ আলী হাত মেলানোর সময় প্রোটোকলের সারি ভেঙে প্রধানমন্ত্রীর দিকে এগিয়ে যাওয়ার চেষ্টা করেন। এর পরপরই তাকে তাৎক্ষণিকভাবে অবমুক্ত করে জনপ্রশাসন মন্ত্রণালয়ে সংযুক্ত করা হয় এবং অতিরিক্ত দায়িত্ব হিসেবে নতুন ভারপ্রাপ্ত কমিশনার নিয়োগ দেওয়া হয়।",
+        "details_en": "During Prime Minister Tarique Rahman's visit to Rajshahi, a video circulated on social media showing Divisional Commissioner Yusuf Ali breaking protocol while bidding farewell at the airport. Shortly after the incident, he was stand-released and attached to the Ministry of Public Administration, with a new acting commissioner appointed to take over his duties."
+      }
+    },
+    {
+      "story_id": "578646ec-eac0-517f-895e-8e310e74c2eb",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Fast-Food-to-Knee-Pain.png?w=1200&quality=80",
+      "image_caption": null,
+      "published_at": "2026-10-21T10:31:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9219,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/fast-food-feels-good-but-your-knees-may-pay-the-price/",
+          "title": "ফাস্ট ফুডে মজা, কিন্তু হাঁটুতে সাজা- চমকপ্রদ গবেষণা প্রকাশ",
+          "snippet": "ফাস্ট ফুডে মজা, কিন্তু হাঁটুতে সাজা- চমকপ্রদ গবেষণা প্রকাশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আল্ট্রা-প্রসেসড খাবার হাঁটুতে অস্টিওআর্থ্রাইটিসের ঝুঁকি বাড়ায়, গবেষণায় প্রকাশ",
+        "title_en": "Ultra-Processed Foods Increase Knee Osteoarthritis Risk, Study Reveals",
+        "summary_bn": "**যুক্তরাষ্ট্রের গবেষকদের নতুন গবেষণায় দেখা গেছে, অতিরিক্ত আল্ট্রা-প্রসেসড খাবার খাওয়ার ফলে উরুর পেশিতে চর্বি জমে হাঁটু ক্ষতিগ্রস্ত হতে পারে।**",
+        "summary_en": "**New US research shows that consuming excessive ultra-processed foods causes fat buildup in thigh muscles, damaging knees.**",
+        "why_it_matters_bn": "খাদ্যাভ্যাসে অতিরিক্ত প্রক্রিয়াজাত খাবার গ্রহণকারী সাধারণ মানুষ ও তরুণরা দীর্ঘমেয়াদে হাঁটু ও পেশির জটিল স্বাস্থ্যঝুঁকিতে পড়তে পারেন।",
+        "why_it_matters_en": "Ordinary citizens and youth consuming excessive processed foods face long-term health risks regarding joint and muscle degeneration.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T10:31:21+00:00",
+        "lead_bn": "**যুক্তরাষ্ট্রের গবেষকদের নতুন গবেষণায় দেখা গেছে, অতিরিক্ত আল্ট্রা-প্রসেসড খাবার খাওয়ার ফলে উরুর পেশিতে চর্বি জমে হাঁটু ক্ষতিগ্রস্ত হতে পারে।**",
+        "lead_en": "**New US research shows that consuming excessive ultra-processed foods causes fat buildup in thigh muscles, damaging knees.**",
+        "bullets_bn": [
+          "১. ইউনিভার্সিটি অব ক্যালিফোর্নিয়া সান ফ্রান্সিসকো (UCSF)-এর গবেষক জেহরা আক্কায়ার নেতৃত্বে এই গবেষণাটি পরিচালিত হয়।",
+          "২. গবেষণায় প্রায় ৬০ বছর বয়সী ৬১৫ জন অংশগ্রহণকারীর খাদ্যাভ্যাস ও শরীরের গঠন এমআরআই স্ক্যানের মাধ্যমে বিশ্লেষণ করা হয়।",
+          "৩. প্রসেসড খাবার পেশির গুণমান কমিয়ে ভবিষ্যতে হাঁটুর অস্টিওআর্থ্রাইটিসের ঝুঁকি উল্লেখযোগ্যভাবে বাড়িয়ে দেয়।"
+        ],
+        "bullets_en": [
+          "1. The study was led by researcher Zehra Akkaya, MD, and her colleagues at the University of California, San Francisco (UCSF).",
+          "2. The study analyzed the diet and body composition of 615 participants with an average age of nearly 60 using MRI scans.",
+          "3. Processed foods reduce muscle quality and significantly increase the future risk of knee osteoarthritis."
+        ],
+        "impact_bn": "খাদ্যাভ্যাসে অতিরিক্ত প্রক্রিয়াজাত খাবার গ্রহণকারী সাধারণ মানুষ ও তরুণরা দীর্ঘমেয়াদে হাঁটু ও পেশির জটিল স্বাস্থ্যঝুঁকিতে পড়তে পারেন।",
+        "impact_en": "Ordinary citizens and youth consuming excessive processed foods face long-term health risks regarding joint and muscle degeneration.",
+        "details_bn": "আন্তর্জাতিক মেডিকেল জার্নাল ‘রেডিওলজি’-তে প্রকাশিত এই গবেষণাটিতে ৬১৫ জন অংশগ্রহণকারীর ওপর জরিপ চালানো হয়। গবেষকরা দেখতে পান যে, ব্রেকফাস্ট সিরিয়াল, প্যাকেটজাত স্ন্যাকস, সফট ড্রিঙ্কস এবং ফ্রোজেন পিৎজার মতো খাবারগুলো কেবল ক্যালোরি বাড়ায় না, বরং শরীরের পেশির অভ্যন্তরে চর্বি জমিয়ে এর গুণমান নষ্ট করে। বিজ্ঞানীরা জোর দিয়ে বলছেন যে, কেবল ক্যালোরি গণনা নয়, বরং কী ধরনের খাবার খাওয়া হচ্ছে তা স্বাস্থ্যের সুরক্ষায় অত্যন্ত গুরুত্বপূর্ণ ভূমিকা রাখে।",
+        "details_en": "Published in the international medical journal 'Radiology', this study surveyed 615 participants. Researchers found that ultra-processed foods such as breakfast cereals, packaged snacks, soft drinks, and frozen pizzas do more than add calories; they cause fat accumulation within muscles, degrading their quality. Scientists emphasize that dietary quality, rather than just calorie count, is critical for long-term physical health."
       }
     }
   ]
