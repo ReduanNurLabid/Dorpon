@@ -35,24 +35,33 @@ export const HeartbeatVisualizer: React.FC<HeartbeatVisualizerProps> = ({ analys
       const totalBarStep = barWidth + barGap;
       const halfBars = Math.floor((cx - 8) / totalBarStep);
 
-      phase += 0.04;
+      phase += isPlaying ? 0.05 : 0.03;
+
+      let hasRealAudio = false;
+      let sumEnergy = 0;
 
       if (analyser && isPlaying) {
         analyser.getByteFrequencyData(dataArray);
-
-        // Overall speech energy
-        let sumEnergy = 0;
         const sampleCount = Math.min(16, dataArray.length);
         for (let i = 0; i < sampleCount; i++) sumEnergy += dataArray[i];
-        const avgEnergy = sumEnergy / (sampleCount * 255); // 0 to 1
+        if (sumEnergy > 8) {
+          hasRealAudio = true;
+        }
+      }
 
-        // Dynamic breathing expansion stretch (breathing pulse)
-        const breathScale = 1.0 + 0.16 * Math.sin(phase * 1.4);
+      if (isPlaying) {
+        // Energy from real voice or organic cardiac rhythm
+        const avgEnergy = hasRealAudio 
+          ? (sumEnergy / (16 * 255)) 
+          : (0.3 + 0.28 * Math.abs(Math.sin(phase * 2.2)));
+        
+        const breathScale = 1.0 + 0.25 * Math.sin(phase * 1.5);
 
         // Radiant center breathing glow
-        const centerGlow = ctx.createRadialGradient(cx, cy, 2, cx, cy, 65 + avgEnergy * 85);
-        centerGlow.addColorStop(0, `rgba(52, 211, 153, ${0.3 + avgEnergy * 0.45})`);
-        centerGlow.addColorStop(0.5, `rgba(90, 240, 179, ${0.15 + avgEnergy * 0.25})`);
+        const glowRadius = Math.min(width / 2, 70 + avgEnergy * 95);
+        const centerGlow = ctx.createRadialGradient(cx, cy, 2, cx, cy, glowRadius);
+        centerGlow.addColorStop(0, `rgba(52, 211, 153, ${0.4 + avgEnergy * 0.45})`);
+        centerGlow.addColorStop(0.5, `rgba(90, 240, 179, ${0.18 + avgEnergy * 0.25})`);
         centerGlow.addColorStop(1, 'rgba(0, 0, 0, 0)');
         ctx.fillStyle = centerGlow;
         ctx.fillRect(0, 0, width, height);
@@ -61,13 +70,22 @@ export const HeartbeatVisualizer: React.FC<HeartbeatVisualizerProps> = ({ analys
 
         // Symmetrical expansion from center outward with Gaussian bell decay
         for (let i = 0; i < halfBars; i++) {
-          const rawVal = dataArray[i * step] || 15;
-          const percent = rawVal / 255;
+          let percent = 0;
+          if (hasRealAudio) {
+            const rawVal = dataArray[i * step] || 15;
+            percent = Math.max(0.1, rawVal / 255);
+          } else {
+            // Heartbeat ECG pulse wave radiating outward from center
+            const normDist = i / halfBars;
+            const ecgWave = Math.sin(phase * 3 - normDist * 5.5);
+            percent = Math.max(0.12, 0.28 + 0.62 * Math.pow(Math.max(0, ecgWave), 2));
+          }
 
           const normDist = i / (halfBars * 0.72);
           const bellDecay = Math.exp(-Math.pow(normDist, 2));
 
-          const barHeight = Math.max(5, percent * (height - 8) * bellDecay * breathScale);
+          // Bold, dynamic bar heights that scale with the voice
+          const barHeight = Math.max(6, percent * (height - 10) * bellDecay * breathScale);
           const y = cy - (barHeight / 2);
 
           const xRight = cx + (i * totalBarStep) + (barGap / 2);
@@ -75,12 +93,12 @@ export const HeartbeatVisualizer: React.FC<HeartbeatVisualizerProps> = ({ analys
 
           const colorRatio = i / halfBars;
           let barColor: string;
-          if (colorRatio < 0.3) {
-            barColor = '#5AF0B3'; // Mint Bright
-          } else if (colorRatio < 0.65) {
+          if (colorRatio < 0.25) {
+            barColor = '#5AF0B3'; // Bright Mint
+          } else if (colorRatio < 0.6) {
             barColor = '#34D399'; // Emerald
           } else {
-            barColor = 'rgba(52, 211, 153, 0.45)'; // Soft sage
+            barColor = 'rgba(52, 211, 153, 0.5)'; // Soft Sage
           }
 
           ctx.fillStyle = barColor;
@@ -97,20 +115,23 @@ export const HeartbeatVisualizer: React.FC<HeartbeatVisualizerProps> = ({ analys
         }
 
         // Center respiratory pulse pip
-        const pipHeight = Math.max(8, (dataArray[0] / 255) * (height - 6));
+        const pipVal = hasRealAudio ? (dataArray[0] / 255) : (0.55 + 0.4 * Math.sin(phase * 3.5));
+        const pipHeight = Math.max(14, pipVal * (height - 6));
         ctx.fillStyle = '#ffffff';
+        ctx.shadowColor = '#5AF0B3';
+        ctx.shadowBlur = 10;
         ctx.beginPath();
         ctx.roundRect(cx - 1.5, cy - (pipHeight / 2), 3, pipHeight, 1.5);
         ctx.fill();
+        ctx.shadowBlur = 0;
 
       } else {
         // Organic Resting Breathing Rhythm (Lungs inhaling & exhaling)
-        // Breathes continuously even when paused/idle!
         const breathWave = Math.sin(phase);
         const breathExpansion = (breathWave + 1) / 2;
 
-        const idleGlow = ctx.createRadialGradient(cx, cy, 0, cx, cy, 40 + breathExpansion * 40);
-        idleGlow.addColorStop(0, `rgba(52, 211, 153, ${0.12 + breathExpansion * 0.2})`);
+        const idleGlow = ctx.createRadialGradient(cx, cy, 0, cx, cy, 50 + breathExpansion * 45);
+        idleGlow.addColorStop(0, `rgba(52, 211, 153, ${0.15 + breathExpansion * 0.25})`);
         idleGlow.addColorStop(1, 'rgba(0, 0, 0, 0)');
         ctx.fillStyle = idleGlow;
         ctx.fillRect(0, 0, width, height);
@@ -121,13 +142,13 @@ export const HeartbeatVisualizer: React.FC<HeartbeatVisualizerProps> = ({ analys
           const localExpansion = Math.max(0, (ripple + 1) / 2);
 
           const bellDecay = Math.exp(-Math.pow(normDist / 0.62, 2));
-          const barHeight = Math.max(3.5, 4 + (localExpansion * bellDecay * (height * 0.54)));
+          const barHeight = Math.max(5, 6 + (localExpansion * bellDecay * (height * 0.52)));
           const y = cy - (barHeight / 2);
 
           const xRight = cx + (i * totalBarStep) + (barGap / 2);
           const xLeft = cx - ((i + 1) * totalBarStep) + (barGap / 2);
 
-          const alpha = 0.16 + 0.38 * bellDecay * localExpansion;
+          const alpha = 0.2 + 0.42 * bellDecay * localExpansion;
           ctx.fillStyle = `rgba(52, 211, 153, ${alpha})`;
 
           ctx.beginPath();

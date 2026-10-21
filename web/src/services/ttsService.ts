@@ -140,11 +140,11 @@ export async function synthesizeAudioStory(
   const wordCount = cleanedText.split(/\s+/).length;
   const estimatedDuration = Math.max(8, Math.round(wordCount / 2.2));
 
-  // 1. Try local endpoints (fast 500ms timeout)
+  // 1. Try local endpoints (timeout: 7000ms)
   for (const ep of LOCAL_ENDPOINTS) {
     try {
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 1200);
+      const timeoutId = setTimeout(() => controller.abort(), 7000);
 
       const res = await fetch(ep, {
         method: 'POST',
@@ -179,10 +179,10 @@ export async function synthesizeAudioStory(
     }
   }
 
-  // 2. Try Render Cloud Voice Studio API
+  // 2. Try Render Cloud Voice Studio API (timeout: 10000ms)
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 4000);
+    const timeoutId = setTimeout(() => controller.abort(), 10000);
 
     const res = await fetch(CLOUD_ENDPOINT, {
       method: 'POST',

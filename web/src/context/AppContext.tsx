@@ -108,6 +108,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const chimeAudioRef = useRef<HTMLAudioElement | null>(null);
   const synthRef = useRef<SpeechSynthesis | null>(null);
   const audioDurationRef = useRef<number>(45);
+  const speechStartTimeRef = useRef<number>(0);
 
   useEffect(() => {
     // Initialize HTML5 Audio Element
@@ -190,22 +191,40 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     }
   };
 
-  // Heartbeat & Waveform animation loop
+  // Heartbeat & Continuous Audio Progress Loop
   useEffect(() => {
     let phase = 0;
-    const updateHeartbeat = () => {
+    const updatePlaybackLoop = () => {
       if (isPlayingAudio) {
+        // Continuous smooth progress calculation
+        if (audioRef.current && audioRef.current.src && !audioRef.current.paused) {
+          const cur = audioRef.current.currentTime;
+          const dur = (audioRef.current.duration && isFinite(audioRef.current.duration) && audioRef.current.duration > 0)
+            ? audioRef.current.duration
+            : (audioDurationRef.current || 25);
+          if (dur > 0) {
+            const pct = Math.min(100, Math.max(0, (cur / dur) * 100));
+            setAudioProgress(pct);
+            setAudioTimeRemaining(Math.max(0, Math.round(dur - cur)));
+          }
+        } else if (speechStartTimeRef.current > 0) {
+          // Synthetic / Speech fallback progress ticker
+          const elapsed = (Date.now() - speechStartTimeRef.current) / 1000;
+          const total = audioDurationRef.current || 25;
+          const pct = Math.min(100, Math.max(0, (elapsed / total) * 100));
+          setAudioProgress(pct);
+          setAudioTimeRemaining(Math.max(0, Math.round(total - elapsed)));
+        }
+
         if (analyserRef.current) {
           const dataArray = new Uint8Array(analyserRef.current.frequencyBinCount);
           analyserRef.current.getByteFrequencyData(dataArray);
           let sum = 0;
           for (let i = 0; i < dataArray.length; i++) sum += dataArray[i];
           const avg = sum / (dataArray.length * 255);
-          // Smooth scale directly based on real voice energy
           const scale = 1.0 + Math.min(0.4, avg * 1.5);
           setAudioHeartbeatScale(scale);
         } else {
-          // Organic breathing pulse fallback
           phase += 0.08;
           const scale = 1.0 + Math.sin(phase) * 0.12;
           setAudioHeartbeatScale(scale);
@@ -213,10 +232,10 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       } else {
         setAudioHeartbeatScale(1.0);
       }
-      animFrameRef.current = requestAnimationFrame(updateHeartbeat);
+      animFrameRef.current = requestAnimationFrame(updatePlaybackLoop);
     };
 
-    animFrameRef.current = requestAnimationFrame(updateHeartbeat);
+    animFrameRef.current = requestAnimationFrame(updatePlaybackLoop);
     return () => {
       if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current);
     };
@@ -313,6 +332,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     if (synthRef.current) {
       synthRef.current.cancel();
     }
+    speechStartTimeRef.current = 0;
     setIsPlayingAudio(false);
     setIsAudioLoading(false);
     setAudioProgress(0);
@@ -353,6 +373,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
       if (audioRef.current && result.audioUrl) {
         initAudioAnalyser();
+        speechStartTimeRef.current = 0;
         audioRef.current.src = result.audioUrl;
         audioRef.current.playbackRate = audioPlaybackRate;
         await audioRef.current.play();
@@ -377,9 +398,11 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         if (enVoice) utterance.voice = enVoice;
       }
       utterance.onend = () => {
+        speechStartTimeRef.current = 0;
         setIsPlayingAudio(false);
         playNextAudio();
       };
+      speechStartTimeRef.current = Date.now();
       synthRef.current.speak(utterance);
       setIsPlayingAudio(true);
     }
@@ -402,6 +425,9 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       audioRef.current.play().then(() => setIsPlayingAudio(true)).catch(() => {});
     } else if (synthRef.current) {
       synthRef.current.resume();
+      if (speechStartTimeRef.current === 0) {
+        speechStartTimeRef.current = Date.now() - (audioProgress / 100) * (audioDurationRef.current || 25) * 1000;
+      }
       setIsPlayingAudio(true);
     }
   };

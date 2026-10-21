@@ -105,10 +105,13 @@ class TTSHandler(http.server.SimpleHTTPRequestHandler):
         self.send_response(404)
         self.end_headers()
 
+class ThreadedTCPServer(socketserver.ThreadingMixIn, socketserver.TCPServer):
+    allow_reuse_address = True
+    daemon_threads = True
+
 def main():
-    socketserver.TCPServer.allow_reuse_address = True
-    with socketserver.TCPServer(("", PORT), TTSHandler) as httpd:
-        print(f"Dorpon TTS Server running on port {PORT}")
+    with ThreadedTCPServer(("", PORT), TTSHandler) as httpd:
+        print(f"Dorpon Multi-Threaded TTS Server running on port {PORT}")
         httpd.serve_forever()
 
 if __name__ == "__main__":

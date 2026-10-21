@@ -72,8 +72,7 @@ export const AudioPlayerDock: React.FC = () => {
     <div
       onClick={() => setIsAudioSheetOpen(true)}
       className="fixed z-40 cursor-pointer rounded-2xl backdrop-blur-2xl bg-obsidian-lowest/95 border border-mint/30 shadow-[0_16px_40px_rgba(0,0,0,0.85)] p-3 transition-all duration-300 hover:border-mint/60 animate-slideUp
-        bottom-20 left-1/2 -translate-x-1/2 w-[94%] max-w-lg
-        md:bottom-6 md:right-6 md:left-auto md:translate-x-0 md:w-[420px]"
+        bottom-20 md:bottom-8 left-1/2 -translate-x-1/2 w-[94%] max-w-lg"
     >
       {/* Clickable interactive scrubber */}
       <div 
