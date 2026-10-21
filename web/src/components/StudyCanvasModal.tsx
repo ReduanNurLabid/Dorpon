@@ -16,8 +16,6 @@ export const StudyCanvasModal: React.FC = () => {
     setIsSerif,
     fontSize,
     setFontSize,
-    isSaved,
-    toggleSave,
   } = useApp();
 
   const [copied, setCopied] = useState(false);
@@ -39,7 +37,6 @@ export const StudyCanvasModal: React.FC = () => {
   const isBn = language === 'bn';
   const buzz = activeStory.daily_buzz;
   const bcs = activeStory.bcs_pro;
-  const bookmarked = isSaved(activeStory.story_id);
 
 
   const headline = isBn
@@ -199,20 +196,6 @@ export const StudyCanvasModal: React.FC = () => {
               title={isSerif ? 'Sans-Serif' : 'Serif'}
             >
               T
-            </button>
-
-            {/* Save Citation / Bookmark */}
-            <button 
-              onClick={() => toggleSave(activeStory.story_id)}
-              aria-label="Bookmark article" 
-              className={`w-8 h-8 rounded-full border border-ink/50 hover:border-ink hover:bg-paper-dim flex items-center justify-center text-ink transition-colors cursor-pointer ${
-                bookmarked ? 'bg-ink text-paper' : ''
-              }`} 
-              title={isBn ? 'সংরক্ষণ করুন' : 'Add to Revision Binder'}
-            >
-              <svg className="w-4 h-4" fill={bookmarked ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="1.8" viewBox="0 0 24 24">
-                <path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" strokeLinecap="round" strokeLinejoin="round"></path>
-              </svg>
             </button>
 
             {/* Dismiss Modal Button */}
@@ -434,15 +417,6 @@ export const StudyCanvasModal: React.FC = () => {
               <span className="text-accent-brick">⚡</span>
               <span>{isBn ? 'উচ্চ ফলনশীল' : 'High Yield'}</span>
               <span className="text-ink-faint font-semibold ml-0.5">({highYieldCount})</span>
-            </button>
-
-            <button 
-              onClick={() => toggleSave(activeStory.story_id)}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-ink/40 bg-paper hover:border-ink font-medium text-ink transition-colors cursor-pointer" 
-              type="button"
-            >
-              <span>{bookmarked ? '✓' : '🔖'}</span>
-              <span>{bookmarked ? (isBn ? 'সংরক্ষিত' : 'Saved') : (isBn ? 'সংরক্ষণ' : 'Save Dossier')}</span>
             </button>
 
             <button 

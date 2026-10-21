@@ -1,17 +1,12 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 import { TabType } from '../types';
-import { Compass, Flame, BookOpen, Bookmark } from 'lucide-react';
+import { Compass, Flame, BookOpen } from 'lucide-react';
 
 export const FloatingDock: React.FC = () => {
-  const { activeTab, setActiveTab, savedStoryIds, t } = useApp();
+  const { activeTab, setActiveTab, t } = useApp();
 
   const navItems: { id: TabType; labelKey: any; icon: React.ReactNode; isGold?: boolean }[] = [
-    {
-      id: 'discover',
-      labelKey: 'discover',
-      icon: <Compass className="w-5 h-5" />,
-    },
     {
       id: 'top_stories',
       labelKey: 'top_stories',
@@ -24,9 +19,9 @@ export const FloatingDock: React.FC = () => {
       isGold: true,
     },
     {
-      id: 'saved',
-      labelKey: 'saved',
-      icon: <Bookmark className="w-5 h-5" />,
+      id: 'discover',
+      labelKey: 'discover',
+      icon: <Compass className="w-5 h-5" />,
     },
   ];
 
@@ -51,13 +46,6 @@ export const FloatingDock: React.FC = () => {
             <span className={isActive ? 'inline-block' : 'hidden'}>
               {t(item.labelKey)}
             </span>
-
-            {/* Saved badge counter */}
-            {item.id === 'saved' && savedStoryIds.length > 0 && (
-              <span className="w-4 h-4 rounded-full bg-mint text-obsidian-bg text-[10px] font-bold flex items-center justify-center">
-                {savedStoryIds.length}
-              </span>
-            )}
           </button>
         );
       })}

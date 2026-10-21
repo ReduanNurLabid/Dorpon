@@ -23,7 +23,6 @@ export const Header: React.FC = () => {
     setIsSerif,
     activeTab,
     setActiveTab,
-    savedStoryIds,
     setIsSettingsOpen,
   } = useApp();
 
@@ -70,12 +69,6 @@ export const Header: React.FC = () => {
       labelEn: 'Archive',
       labelBn: 'সংরক্ষণাগার',
       icon: <Compass className="w-3.5 h-3.5" />,
-    },
-    {
-      id: 'saved',
-      labelEn: 'Saved',
-      labelBn: 'সংরক্ষিত',
-      icon: <Bookmark className="w-3.5 h-3.5" />,
     },
   ];
 
@@ -218,12 +211,6 @@ export const Header: React.FC = () => {
                 >
                   <span>{item.icon}</span>
                   <span>{isBn ? item.labelBn : item.labelEn}</span>
-
-                  {item.id === 'saved' && savedStoryIds.length > 0 && (
-                    <span className="ml-1 px-1.5 py-0.2 rounded-full bg-secondary text-on-secondary text-[10px] font-bold">
-                      {savedStoryIds.length}
-                    </span>
-                  )}
                 </button>
               );
             })}

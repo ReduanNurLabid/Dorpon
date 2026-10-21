@@ -4,7 +4,6 @@ import { CapsuleStory } from '../types';
 import { 
   Scale, 
   BarChart3, 
-  Bookmark, 
   ExternalLink,
   ShieldCheck,
   ArrowRight,
@@ -20,8 +19,6 @@ export const CurrentAffairsFeed: React.FC = () => {
     openStory, 
     language, 
     isSerif, 
-    isSaved, 
-    toggleSave, 
     t 
   } = useApp();
 
@@ -74,7 +71,7 @@ export const CurrentAffairsFeed: React.FC = () => {
 
   const categoryLabel = getLocalizedCategory(activeDossier.primary_category, isBn);
   const timeFormatted = formatRelativeTime(activeDossier.published_at, isBn);
-  const bookmarked = isSaved(activeDossier.story_id);
+
 
 
   const defaultStats = [
@@ -176,14 +173,6 @@ export const CurrentAffairsFeed: React.FC = () => {
             </div>
             <div className="flex items-center space-x-3 text-label-sm font-label-sm text-on-surface-variant">
               <span>{isBn ? 'প্রকাশনা ডেক্স:' : 'FILED FROM:'} <strong>{isBn ? 'ঢাকা ও আঞ্চলিক প্রতিনিধি' : 'DHAKA & REGIONAL BUREAUS'}</strong></span>
-              <span>•</span>
-              <button 
-                onClick={() => toggleSave(activeDossier.story_id)}
-                className={`inline-flex items-center gap-1 font-bold ${bookmarked ? 'text-secondary' : 'hover:text-primary'}`}
-              >
-                <Bookmark className="w-3.5 h-3.5" fill={bookmarked ? 'currentColor' : 'none'} />
-                <span>{bookmarked ? (isBn ? 'সংরক্ষিত' : 'SAVED') : (isBn ? 'সংরক্ষণ করুন' : 'SAVE')}</span>
-              </button>
             </div>
           </div>
 

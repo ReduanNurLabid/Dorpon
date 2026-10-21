@@ -6,12 +6,11 @@ import { FloatingDock } from './components/FloatingDock';
 import { TopStoriesFeed } from './components/TopStoriesFeed';
 import { CurrentAffairsFeed } from './components/CurrentAffairsFeed';
 import { DiscoverFeed } from './components/DiscoverFeed';
-import { SavedStoriesFeed } from './components/SavedStoriesFeed';
 import { StudyCanvasModal } from './components/StudyCanvasModal';
 import { SettingsModal } from './components/SettingsModal';
 
 const MainLayout: React.FC = () => {
-  const { activeTab, focusMode, isSerif } = useApp();
+  const { activeTab, focusMode } = useApp();
 
   return (
     <AmbientBackground>
@@ -23,7 +22,6 @@ const MainLayout: React.FC = () => {
         {activeTab === 'top_stories' && <TopStoriesFeed />}
         {activeTab === 'current_affairs' && <CurrentAffairsFeed />}
         {activeTab === 'discover' && <DiscoverFeed />}
-        {activeTab === 'saved' && <SavedStoriesFeed />}
       </main>
 
       {/* Bottom Floating Navigation Dock */}

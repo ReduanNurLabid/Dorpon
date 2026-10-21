@@ -3,8 +3,6 @@ import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
 import { formatRelativeTime, getLocalizedCategory, toBanglaDigits } from '../utils/bilingual';
 import { 
-  Bookmark, 
-  BookmarkCheck, 
   Share2, 
   Lightbulb, 
   Sparkles, 
@@ -21,8 +19,6 @@ export const BroadsheetFrontPage: React.FC = () => {
     hourlyWires, 
     currentAffairs, 
     openStory, 
-    toggleSave, 
-    isSaved, 
     language,
     setIsSettingsOpen
   } = useApp();
@@ -260,17 +256,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                   >
                     <span className="font-bold text-xs uppercase px-1 border border-outline-variant rounded">T</span>
                   </button>
-                  <button 
-                    onClick={() => toggleSave(heroStory.story_id)}
-                    className="p-1 hover:text-primary transition-colors cursor-pointer" 
-                    title={isBn ? 'সংরক্ষণ' : 'Bookmark'}
-                  >
-                    {isSaved(heroStory.story_id) ? (
-                      <BookmarkCheck className="w-4 h-4 text-secondary fill-current" />
-                    ) : (
-                      <Bookmark className="w-4 h-4" />
-                    )}
-                  </button>
                 </div>
               </div>
 
@@ -397,22 +382,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </button>
               </div>
               <div className="flex items-center space-x-2 font-label-sm text-label-sm uppercase">
-                <button 
-                  onClick={() => toggleSave(heroStory.story_id)}
-                  className="p-1 px-2.5 border border-outline hover:bg-surface-container text-primary flex items-center gap-1 cursor-pointer transition-colors"
-                >
-                  {isSaved(heroStory.story_id) ? (
-                    <>
-                      <BookmarkCheck className="w-3.5 h-3.5 text-secondary fill-current" />
-                      <span>{isBn ? 'সংরক্ষিত' : 'Saved'}</span>
-                    </>
-                  ) : (
-                    <>
-                      <Bookmark className="w-3.5 h-3.5" />
-                      <span>{isBn ? 'সংরক্ষণ' : 'Save'}</span>
-                    </>
-                  )}
-                </button>
                 <button 
                   onClick={(e) => handleShare(heroStory, e)}
                   className="p-1 px-2.5 border border-outline hover:bg-surface-container text-primary flex items-center gap-1 cursor-pointer transition-colors"
