@@ -1,63 +1,9 @@
 {
-  "updated_at": "2026-10-21T19:37:42.335417",
+  "updated_at": "2026-10-21T21:18:46.950540",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "1fb77b0a-73d6-541c-a481-bed8ea772ad7",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Ffncav939%2FMinister-Hakan-Fidan.jpg?rect=0%2C27%2C1400%2C735&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T18:46:50+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2292,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/6xa52nv489",
-          "title": "মক্কা প্রতিরক্ষা চুক্তি থেকে ১০ বছর আগে বের হওয়া যাবে না",
-          "snippet": "মক্কা প্রতিরক্ষা চুক্তি থেকে ১০ বছর আগে বের হওয়া যাবে না"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তুরস্ক, সৌদি আরব ও পাকিস্তানের মধ্যে যৌথ প্রতিরক্ষা চুক্তি স্বাক্ষরিত",
-        "title_en": "Turkey, Saudi Arabia and Pakistan Sign Joint Defense Pact",
-        "summary_bn": "**তুরস্ক, সৌদি আরব ও পাকিস্তানের মধ্যে যৌথ সামরিক সহযোগিতা এবং সমরাস্ত্র উৎপাদনের লক্ষ্যে একটি মক্কা প্রতিরক্ষা চুক্তি স্বাক্ষরিত হয়েছে।**",
-        "summary_en": "**Turkey, Saudi Arabia, and Pakistan have signed the Makkah defense pact aimed at joint military cooperation and arms manufacturing.**",
-        "why_it_matters_bn": "এই প্রতিরক্ষা চুক্তির ফলে মধ্যপ্রাচ্য ও দক্ষিণ এশিয়ার ভূরাজনৈতিক নিরাপত্তায় নতুন সমীকরণ তৈরি হবে।",
-        "why_it_matters_en": "This defense pact establishes a new geopolitical security equation between the Middle East and South Asia.",
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T18:46:50+00:00",
-        "lead_bn": "**তুরস্ক, সৌদি আরব ও পাকিস্তানের মধ্যে যৌথ সামরিক সহযোগিতা এবং সমরাস্ত্র উৎপাদনের লক্ষ্যে একটি মক্কা প্রতিরক্ষা চুক্তি স্বাক্ষরিত হয়েছে।**",
-        "lead_en": "**Turkey, Saudi Arabia, and Pakistan have signed the Makkah defense pact aimed at joint military cooperation and arms manufacturing.**",
-        "bullets_bn": [
-          "১. চুক্তির মেয়াদ অনির্দিষ্টকালের হলেও কার্যকর হওয়ার প্রথম ১০ বছর কোনো দেশ তা থেকে সরে যেতে পারবে না।",
-          "২. চুক্তির দ্বিতীয় ধারা অনুযায়ী, যেকোনো এক দেশের ওপর সশস্ত্র হামলা সব পক্ষের ওপর হামলা হিসেবে গণ্য হবে।",
-          "৩. চুক্তি বাস্তবায়নে সৌদি আরবে একটি সচিবালয় স্থাপিত হবে এবং পাকিস্তানের নাগরিক প্রথম মহাসচিব হিসেবে দায়িত্ব পালন করবেন।"
-        ],
-        "bullets_en": [
-          "1. The agreement has an indefinite duration, but member states cannot withdraw during the first 10 years of implementation.",
-          "2. Under article two, an armed attack on any single party will be considered an attack on all allied nations.",
-          "3. A permanent secretariat will be established in Saudi Arabia, with a Pakistani national appointed as the first secretary-general."
-        ],
-        "impact_bn": "এই প্রতিরক্ষা চুক্তির ফলে মধ্যপ্রাচ্য ও দক্ষিণ এশিয়ার ভূরাজনৈতিক নিরাপত্তায় নতুন সমীকরণ তৈরি হবে।",
-        "impact_en": "This defense pact establishes a new geopolitical security equation between the Middle East and South Asia.",
-        "details_bn": "তুরস্ক, সৌদি আরব ও পাকিস্তানের মধ্যে সই হওয়া মক্কা প্রতিরক্ষা চুক্তির মাধ্যমে যৌথ সামরিক মহড়া, অস্ত্র উৎপাদন এবং গোয়েন্দা তথ্য বিনিময়ে সহযোগিতা বাড়ানোর সিদ্ধান্ত হয়েছে। চুক্তিতে নতুন কোনো দেশ যুক্ত করার বিষয়টি তিন দেশের ঐকমত্যের ভিত্তিতে নির্ধারিত হবে। চুক্তি অনুযায়ী যেকোনো পক্ষের সার্বভৌমত্ব বা ভূখণ্ড হুমকিতে পড়লে অন্য দেশগুলো প্রয়োজনীয় সহায়তা প্রদান করবে। প্রস্তাবিত চুক্তিটি পরবর্তীতে অনুমোদনের জন্য সংশ্লিষ্ট দেশের পার্লামেন্টে জমা দেওয়া হয়েছে।",
-        "details_en": "The Makkah defense pact signed between Turkey, Saudi Arabia, and Pakistan focuses on joint military exercises, weapons production, and intelligence sharing. New countries can only join the pact through mutual consensus among the founding nations. The agreement mandates mutual assistance if any member's sovereignty or territory faces external threats. The text of the treaty has been submitted to respective parliaments for formal ratification."
-      }
-    },
-    {
-      "story_id": "2ad0925a-e0f3-50ea-b248-4d1777617a1a",
+      "story_id": "758922d8-0b48-5701-8858-68bc889ab4a3",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -66,106 +12,160 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-10%2Fkjl94tya%2Fu2coxzhb.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F4qtkgjh2%2Fkane-afp.webp?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-21T17:50:46+00:00",
+      "published_at": "2026-10-21T21:00:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.1693,
+      "importance_score": 4.8,
+      "rank_score": 1.6146,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/ublwk7n8cd",
-          "title": "হাইকোর্টের আদেশে ফুডপ্যান্ডা ও ডেলিভারি হিরোর ৫ কর্মকর্তার দুই মামলার কার্যক্রম স্থগিত",
-          "snippet": "হাইকোর্টের আদেশে ফুডপ্যান্ডা ও ডেলিভারি হিরোর ৫ কর্মকর্তার দুই মামলার কার্যক্রম স্থগিত"
+          "url": "https://www.prothomalo.com/sports/football/d8js7ol0ad",
+          "title": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল",
+          "snippet": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফুডপ্যান্ডা ও ডেলিভারি হিরোর পাঁচ কর্মকর্তার মামলার কার্যক্রম হাইকোর্টে স্থগিত",
-        "title_en": "High Court Stays Proceedings in Cases Against Foodpanda and Delivery Hero Officials",
-        "summary_bn": "হাইকোর্ট প্রতারণা ও বিশ্বাসভঙ্গের অভিযোগে ফুডপ্যান্ডা ও ডেলিভারি হিরোর পাঁচ কর্মকর্তার বিরুদ্ধে করা দুটি মামলার কার্যক্রম তিন মাসের জন্য স্থগিত করেছেন।",
-        "summary_en": "The High Court has stayed proceedings in two cases of fraud and breach of trust against five Foodpanda and Delivery Hero officials.",
-        "why_it_matters_bn": "১. হাইকোর্টের অবকাশকালীন বেঞ্চ প্রতারণা ও বিশ্বাসভঙ্গের অভিযোগে করা দুটি মামলার কার্যক্রম তিন মাসের জন্য স্থগিত করেছেন।",
-        "why_it_matters_en": "1. The High Court bench stayed the proceedings of two fraud and breach of trust cases for three months.",
+        "title_bn": "বায়ার্ন মিউনিখকে রুখে দিল আর্সেনাল",
+        "title_en": "Arsenal Holds Bayern Munich to a Draw",
+        "summary_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
+        "summary_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
+        "why_it_matters_bn": "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
+        "why_it_matters_en": "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T17:50:46+00:00",
-        "lead_bn": "হাইকোর্ট প্রতারণা ও বিশ্বাসভঙ্গের অভিযোগে ফুডপ্যান্ডা ও ডেলিভারি হিরোর পাঁচ কর্মকর্তার বিরুদ্ধে করা দুটি মামলার কার্যক্রম তিন মাসের জন্য স্থগিত করেছেন।",
-        "lead_en": "The High Court has stayed proceedings in two cases of fraud and breach of trust against five Foodpanda and Delivery Hero officials.",
+        "published_at": "2026-10-21T21:00:13+00:00",
+        "lead_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
+        "lead_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
         "bullets_bn": [
-          "১. হাইকোর্টের অবকাশকালীন বেঞ্চ প্রতারণা ও বিশ্বাসভঙ্গের অভিযোগে করা দুটি মামলার কার্যক্রম তিন মাসের জন্য স্থগিত করেছেন।",
-          "২. মামলার আসামিরা হলেন ফুডপ্যান্ডার সহপ্রতিষ্ঠাতা সৈয়দা আম্বারীন রেজা ও জুবায়ের সিদ্দিকীসহ পাঁচ কর্মকর্তা।",
-          "৩. আদালত মামলা দুটি কেন বাতিল করা হবে না তা জানতে চেয়ে রুল জারি করেছেন এবং চার সপ্তাহের মধ্যে জবাব চেয়েছে।"
+          "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
+          "২. ম্যাচের দ্বিতীয়ার্ধে গোল করে বায়ার্নকে এগিয়ে দিয়েছিলেন স্ট্রাইকার হ্যারি কেইন।",
+          "৩. ঘরের মাঠে ড্র করার ফলে জয়ে ফিরতে ব্যর্থ হয় বায়ার্ন মিউনিখ।"
         ],
         "bullets_en": [
-          "1. The High Court bench stayed the proceedings of two fraud and breach of trust cases for three months.",
-          "2. The accused include Foodpanda co-founders Ambareen Reza and Zubair Siddiky, alongside three other officials.",
-          "3. The court issued a rule asking why the cases should not be quashed, demanding a response within four weeks."
+          "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
+          "2. Striker Harry Kane scored in the second half to put Bayern ahead.",
+          "3. Bayern Munich failed to return to winning ways after being held at home."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আইপিএলই ডিস্ট্রিবিউশন নেটওয়ার্কের স্বত্বাধিকারী শিহাব মাহমুদ বশির প্রতারণা ও বিশ্বাসভঙ্গের অভিযোগে ফুডপ্যান্ডা ও ডেলিভারি হিরোর পাঁচ কর্মকর্তার বিরুদ্ধে ঢাকার নিম্ন আদালতে মামলা দুটি করেছিলেন। তদন্ত শেষে গুলশান থানা-পুলিশ আদালতে অভিযোগপত্র দাখিল করে এবং আদালত গ্রেপ্তারি পরোয়ানা জারি করেন। পরবর্তীতে কর্মকর্তারা হাইকোর্টে আবেদন করলে আদালত রুল দিয়ে মামলার কার্যক্রম স্থগিত করেন।",
-        "details_en": "Shihab Mahmud Bashir, owner ofIPLE Distribution Network, filed the cases against five officials of Foodpanda and Delivery Hero in a Dhaka court alleging fraud and breach of trust. Following police investigation reports, the court issued arrest warrants. The officials later moved the High Court, which issued a rule and stayed the proceedings."
+        "details_bn": "এর আগের ম্যাচে ভাইকিংয়ের মাঠ থেকে ড্র করে ফিরেছিল বায়ার্ন মিউনিখ। আর্সেনালের বিপক্ষে ঘরের মাঠে ম্যাচে কোচ ভিনসেন্ট কোম্পানি এবং গোলরক্ষক মানুয়েল ন্যয়ারের খেলা নিয়ে অনিশ্চয়তা থাকলেও শেষ পর্যন্ত তারা মাঠে ছিলেন। দ্বিতীয়ার্ধে হ্যারি কেইনের গোলে বায়ার্ন এগিয়ে গেলেও শেষ পর্যন্ত ২-২ গোলের সমতা নিয়ে মাঠ ছাড়তে হয় জার্মান চ্যাম্পিয়নদের।",
+        "details_en": "Bayern Munich previously came away with a draw from Viking's ground. Despite uncertainties surrounding manager Vincent Kompany and goalkeeper Manuel Neuer due to illness, both participated in the match. Although Harry Kane gave Bayern the lead in the second half, the German champions ultimately had to settle for a 2-2 draw."
       }
     },
     {
-      "story_id": "f8c9de49-e2ad-5bea-98af-e330109532d4",
-      "primary_category": "world_diplomacy",
+      "story_id": "8c456a73-2fdd-585d-9485-79bba6ebf909",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "world_diplomacy"
+        "tech_innovation"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fdgl4jqe7%2FPort.png?rect=0%2C39%2C677%2C355&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fdnz7bose%2F%E0%A7%A9.avif?rect=0%2C38%2C540%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-21T18:05:00+00:00",
+      "published_at": "2026-10-21T20:39:58+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.925,
+      "rank_score": 1.3525,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/opinion/column/ruks5t3aho",
-          "title": "চট্টগ্রাম বন্দর: ইজারার চুক্তি সংসদে আলোচিত হলো না কেন",
-          "snippet": "চট্টগ্রাম বন্দর: ইজারার চুক্তি সংসদে আলোচিত হলো না কেন"
+          "url": "https://www.prothomalo.com/world/48c8bk3g4s",
+          "title": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ",
+          "snippet": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংসদে আলোচনা ছাড়াই ডিপি ওয়ার্ল্ডের কাছে চট্টগ্রাম বন্দরের এনসিটি ইজারা",
-        "title_en": "Chittagong Port NCT Leased to DP World Without Parliamentary Discussion",
-        "summary_bn": "<b>সংযুক্ত আরব আমিরাতের ডিপি ওয়ার্ল্ডের কাছে চট্টগ্রাম বন্দরের এনসিটি টার্মিনাল দীর্ঘমেয়াদে ইজারার বিষয়টি জাতীয় সংসদে আলোচিত হয়নি।</b>",
-        "summary_en": "<b>The long-term lease of Chittagong Port's NCT terminal to UAE-based DP World was finalized without parliamentary discussion.</b>",
-        "why_it_matters_bn": "টার্মিনাল পরিচালনার এই দীর্ঘমেয়াদি সিদ্ধান্তের ফলে আমদানি-রপ্তানি ব্যয়, বন্দরের সেবা এবং স্থানীয় শ্রমিকদের কর্মসংস্থানের ওপর সুদূরপ্রসারী প্রভাব পড়বে।",
-        "why_it_matters_en": "This long-term terminal operation decision will have far-reaching effects on import-export costs, port services, and local worker employment.",
+        "title_bn": "পিএইচপি-তে গুরুতর নিরাপত্তারুটি শনাক্তের পর বিশ্বজুড়ে বহু ওয়েবসাইট সাময়িক বন্ধ",
+        "title_en": "Global Websites Shut Down Following Critical PHP Vulnerabilities Discovered by AI",
+        "summary_bn": "প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপি-তে মারাত্মক নিরাপত্তারুটি ধরা পড়ার পর সার্ভার সুরক্ষায় বিশ্বজুড়ে অসংখ্য সরকারি ও বাণিজ্যিক ওয়েবসাইট বন্ধ রাখা হয়েছে।",
+        "summary_en": "Global entities have temporarily shut down websites after AI tools identified severe flaws in PHP programming language risking unauthorized server access.",
+        "why_it_matters_bn": "অনলাইন মার্কেটপ্লেস, সংবাদমাধ্যম ও সরকারি অনলাইন সেবা ব্যবহারের ক্ষেত্রে সাধারণ ব্যবহারকারীরা সাময়িক বিঘ্ন বা ধীরগতির সম্মুখীন হতে পারেন।",
+        "why_it_matters_en": "Users may experience temporary downtime or delays while accessing online marketplaces, news portals, and government e-services.",
         "interest_categories": [
-          "world_diplomacy"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T18:05:00+00:00",
-        "lead_bn": "<b>সংযুক্ত আরব আমিরাতের ডিপি ওয়ার্ল্ডের কাছে চট্টগ্রাম বন্দরের এনসিটি টার্মিনাল দীর্ঘমেয়াদে ইজারার বিষয়টি জাতীয় সংসদে আলোচিত হয়নি।</b>",
-        "lead_en": "<b>The long-term lease of Chittagong Port's NCT terminal to UAE-based DP World was finalized without parliamentary discussion.</b>",
+        "published_at": "2026-10-21T20:39:58+00:00",
+        "lead_bn": "প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপি-তে মারাত্মক নিরাপত্তারুটি ধরা পড়ার পর সার্ভার সুরক্ষায় বিশ্বজুড়ে অসংখ্য সরকারি ও বাণিজ্যিক ওয়েবসাইট বন্ধ রাখা হয়েছে।",
+        "lead_en": "Global entities have temporarily shut down websites after AI tools identified severe flaws in PHP programming language risking unauthorized server access.",
         "bullets_bn": [
-          "চট্টগ্রাম বন্দরের নিউমুরিং কনটেইনার টার্মিনাল ১৫ বছরের জন্য পরিচালনার দায়িত্ব দেওয়া হয়েছে সংযুক্ত আরব আমিরাতের প্রতিষ্ঠান ডিপি ওয়ার্ল্ডকে।",
-          "চুক্তির আওতায় ডিপি ওয়ার্ল্ড ১৫ কোটি ডলার বিনিয়োগ করবে এবং বন্দর কর্তৃপক্ষ কনটেইনারপ্রতি আয়ের ৪০ থেকে ৬৭ শতাংশ রাজস্ব পাবে।",
-          "জাতীয় গুরুত্বপূর্ণ এই অর্থনৈতিক সিদ্ধান্ত সংসদে আলোচনা ও গণতান্ত্রিক জবাবদিহির বাইরে রাখায় স্বচ্ছতা নিয়ে প্রশ্ন উঠেছে।"
+          "বিশ্বজুড়ে ওয়েবসাইট সাময়িক বন্ধ রেখে পিএইচপি ডেভেলপাররা পাসওয়ার্ডহীন অনুপ্রবেশ রোধে নিরাপত্তা আপডেট প্রকাশ করেছেন।",
+          "সাইবার নিরাপত্তা প্রতিষ্ঠান উইজ জানায়, বিশ্বের ৭০% ওয়েবসাইটে ব্যবহৃত পিএইচপির এই ত্রুটি ২০১৪ সালের 'হার্টব্লিড'-এর মতো গুরুতর।",
+          "ডেটাবেজ হ্যাক এড়াতে মার্কিন এনএসএ দ্রুত নিরাপত্তা প্যাচ ইনস্টল করা বা সিস্টেম ইন্টারনেট থেকে বিচ্ছিন্ন রাখার নির্দেশ দিয়েছে।"
         ],
         "bullets_en": [
-          "Chittagong Port's New Mooring Container Terminal has been handed over to UAE-based DP World for a 15-year operational period.",
-          "DP World will invest $150 million under the agreement, with the port authority receiving 40 to 67 percent of container revenue.",
-          "The lack of parliamentary debate and democratic accountability on this vital national economic decision has sparked transparency concerns."
+          "Organizations globally disabled websites while PHP developers released patches to fix two passwordless access vulnerabilities.",
+          "Cybersecurity firm Wiz noted PHP powers 70% of websites, calling this flaw comparable to 2014’s famous Heartbleed bug.",
+          "The US NSA advised immediate software updates or disconnecting vulnerable systems from the internet to prevent database breaches."
         ],
-        "impact_bn": "টার্মিনাল পরিচালনার এই দীর্ঘমেয়াদি সিদ্ধান্তের ফলে আমদানি-রপ্তানি ব্যয়, বন্দরের সেবা এবং স্থানীয় শ্রমিকদের কর্মসংস্থানের ওপর সুদূরপ্রসারী প্রভাব পড়বে।",
-        "impact_en": "This long-term terminal operation decision will have far-reaching effects on import-export costs, port services, and local worker employment.",
-        "details_bn": "চট্টগ্রাম বন্দরের দক্ষতা বৃদ্ধি এবং কাস্টমসের দীর্ঘসূত্রতা কমাতে আন্তর্জাতিক অপারেটর নিয়োগের প্রয়োজনীয়তা রয়েছে। তবে সাম্প্রতিক সময়ে সংযুক্ত আরব আমিরাতের কোম্পানি ডিপি ওয়ার্ল্ডের সঙ্গে চুক্তি স্বাক্ষরিত হলেও, দেড় দশক মেয়াদি এই গুরুত্বপূর্ণ জাতীয় সিদ্ধান্তটি জাতীয় সংসদে বা উন্মুক্ত ফোরামে আলোচনা করা হয়নি। ফলে চুক্তির শর্ত ও স্বচ্ছতা নিয়ে অর্থনীতিবিদ ও বিশ্লেষকদের মধ্যে নানা প্রশ্ন তৈরি হয়েছে।",
-        "details_en": "While engaging international operators is necessary to enhance Chittagong Port efficiency and reduce customs delays, the recent 15-year lease agreement with UAE-based DP World bypassed parliamentary discussion. This lack of open debate on a major national infrastructure decision has raised transparency and accountability concerns among analysts and stakeholders."
+        "impact_bn": "অনলাইন মার্কেটপ্লেস, সংবাদমাধ্যম ও সরকারি অনলাইন সেবা ব্যবহারের ক্ষেত্রে সাধারণ ব্যবহারকারীরা সাময়িক বিঘ্ন বা ধীরগতির সম্মুখীন হতে পারেন।",
+        "impact_en": "Users may experience temporary downtime or delays while accessing online marketplaces, news portals, and government e-services.",
+        "details_bn": "সাইবার নিরাপত্তা প্রতিষ্ঠান 'ক্যালিফ' ওপেনএআই-এর 'জিপিটি-৫.৬ সল' মডেল ব্যবহার করে প্রথম এই ত্রুটিটি শনাক্ত করে। পরবর্তীতে উইজ-ও 'জেমিনি ৪ আর্গন' মডেলের সাহায্যে ত্রুটিটির সত্যতা নিশ্চিত করে। এবারই প্রথম এআই প্রযুক্তি পুরো ইন্টারনেটে প্রভাব ফেলতে সক্ষম এমন একটি বড় ধরনের সফটওয়্যার ত্রুটি খুঁজে বের করতে পারল। পিএইচপি ফাউন্ডেশন একে গত এক দশকের মধ্যে সবচেয়ে গুরুতর সফটওয়্যার দুর্বলতা হিসেবে চিহ্নিত করেছে, যা ২০১৪ সালের আলোচিত 'হার্টব্লিড' ত্রুটির কথা স্মরণ করিয়ে দেয়।",
+        "details_en": "Cybersecurity firm Kalif first detected the PHP vulnerabilities using OpenAI’s GPT-5.6 Sol model during a funded code review. Wiz later confirmed the flaw using Google’s Gemini 4 Argon, marking a major milestone where artificial intelligence independently discovered critical internet-wide bugs. PHP Foundation engineers described it as the language's most severe vulnerability in over a decade, recalling the widespread emergency patching forced by the 2014 Heartbleed bug."
       }
     },
     {
-      "story_id": "035d88eb-05a6-5d84-9311-a615d888045e",
+      "story_id": "12cbf4a3-177d-5d94-b557-c2b5369ab3d1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fc89vuh7o%2FCapture.PNG?rect=0%2C51%2C477%2C250&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-21T20:18:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.1506,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/6rhyu88nd6",
+          "title": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা",
+          "snippet": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন বিচার বিভাগ প্রকাশ করায় এপস্টিনের সাথে ভারতীয় মন্ত্রীর ছবি নিয়ে বিতর্ক",
+        "title_en": "Indian Minister Hardeep Singh Puri Faces Backlash Over Newly Released Epstein Photos",
+        "summary_bn": "**যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশের পর পদত্যাগের দাবি জানিয়েছে বিরোধীরা।**",
+        "summary_en": "**Opposition leaders demand the resignation of Indian Minister Hardeep Singh Puri following the release of his photos with Jeffrey Epstein.**",
+        "why_it_matters_bn": "মার্কিন বিচার বিভাগ কর্তৃক প্রকাশিত এপস্টিন ফাইলের ‘ডেটাসেট ৯’-এ হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ্যে এসেছে।",
+        "why_it_matters_en": "The US Department of Justice released photos showing Indian Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T20:18:55+00:00",
+        "lead_bn": "**যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশের পর পদত্যাগের দাবি জানিয়েছে বিরোধীরা।**",
+        "lead_en": "**Opposition leaders demand the resignation of Indian Minister Hardeep Singh Puri following the release of his photos with Jeffrey Epstein.**",
+        "bullets_bn": [
+          "মার্কিন বিচার বিভাগ কর্তৃক প্রকাশিত এপস্টিন ফাইলের ‘ডেটাসেট ৯’-এ হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ্যে এসেছে।",
+          "মন্ত্রী পুরির দপ্তর জানিয়েছে, ছবিটি ঠিক কোন বৈঠকের তা মন্ত্রীর মনে নেই এবং তিনি কখনো একান্তে সাক্ষাতের কথা অস্বীকার করেননি।",
+          "ছবি প্রকাশকে কেন্দ্র করে বিরোধী দলগুলো ক্ষমতাসীন সরকারের সমালোচনা করে মন্ত্রীর পদত্যাগের দাবি তুলেছে।"
+        ],
+        "bullets_en": [
+          "The US Department of Justice released photos showing Indian Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
+          "Puri's office stated the minister does not recall the exact meeting and never claimed he never met Epstein alone.",
+          "Opposition leaders launched sharp criticisms against the ruling government and demanded the minister's resignation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের বিচার বিভাগ যৌন নিপীড়ন ও নারী পাচারের দায়ে দোষী সাব্যস্ত জেফরি এপস্টিনের সাথে জড়িত বিভিন্ন নথি এবং ছবি প্রকাশ করেছে। এর আগে মন্ত্রী হরদীপ সিং পুরি দাবি করেছিলেন যে ইন্টারন্যাশনাল পিস ইনস্টিটিউটে একটি প্রতিনিধিদলের অংশ হিসেবে তিনি এপস্টিনের সাথে দেখা করেছিলেন। তবে নতুন প্রকাশিত ছবিগুলোতে কোনো তৃতীয় ব্যক্তির উপস্থিতি না থাকায় মন্ত্রীর পূর্বের দাবি নিয়ে প্রশ্ন উঠেছে এবং বিরোধী দলগুলো সরব হয়েছে।",
+        "details_en": "The United States Department of Justice released files and photographs related to convicted sex offender Jeffrey Epstein. Previously, Indian Minister Hardeep Singh Puri claimed he met Epstein as part of a delegation at the International Peace Institute. However, the newly released photos showing no third party present have contradicted his previous statements, sparking intense political controversy."
+      }
+    },
+    {
+      "story_id": "ed7f091e-ee78-552b-b020-7c1d652cd6f7",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -176,104 +176,104 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T19:21:56+00:00",
+      "published_at": "2026-10-21T21:07:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8284,
+      "rank_score": 0.8646,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/capital-city/975967/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81",
-          "title": "মহাখালীতে ট্রেনের ধাক্কায় যুবকের মৃত্যু",
-          "snippet": "মহাখালীতে ট্রেনের ধাক্কায় যুবকের মৃত্যু"
+          "url": "https://www.banglatribune.com/country/mymensing/975970/%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%B2%E0%A6%BF%E0%A6%AB-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B9%E0%A6%AD%E0%A6%BE%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "সাংবাদিক আলিফ হত্যার সন্দেহভাজন আসামি গ্রেফতার",
+          "snippet": "সাংবাদিক আলিফ হত্যার সন্দেহভাজন আসামি গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মহাখালীতে ট্রেনের ধাক্কায় ফুটপাত হোটেলের এক কর্মীর মৃত্যু",
-        "title_en": "Streetside hotel worker killed in train collision in Mohakhali",
-        "summary_bn": "**রাজধানীর মহাখালী রেলগেট এলাকায় ট্রেনের ধাক্কায় রায়হান নামের এক হোটেল কর্মচারী নিহত হয়েছেন।**",
-        "summary_en": "**A hotel employee named Raihan was killed after being hit by a train in the capital's Mohakhali railgate area.**",
-        "why_it_matters_bn": "রাজধানীর অরক্ষিত রেললাইনগুলো পারাপারের সময় দুর্ঘটনা এড়াতে পথচারীদের আরও সতর্ক হওয়া প্রয়োজন।",
-        "why_it_matters_en": "Pedestrians need to exercise greater caution while crossing unguarded railway tracks in the capital to prevent fatal accidents.",
+        "title_bn": "নেত্রকোনায় সাংবাদিক লুৎফুজ্জামান হত্যা মামলার সন্দেহভাজন আসামি গ্রেফতার",
+        "title_en": "Suspect Arrested in Journalist Lutfuzzaman Murder Case in Netrokona",
+        "summary_bn": "বিশেষ বাহিনী দুর্গাপুর পৌর এলাকা থেকে সাংবাদিক লুৎফুজ্জামান ফকির হত্যা মামলায় আশিকুর রহমান প্রাঙ্গন নামের এক সন্দেহভাজন আসামিকে গ্রেফতার করেছে।",
+        "summary_en": "Special forces arrested a suspect named Ashikur Rahman Prangon in connection with the murder of journalist Lutfuzzaman Fakir in Durgapur.",
+        "why_it_matters_bn": "সাংবাদিক হত্যায় জড়িত সন্দেহভাজন আসামি গ্রেফতার হওয়ায় স্থানীয় সংবাদকর্মী ও সাধারণ মানুষের মধ্যে আইনের শাসন প্রতিষ্ঠার স্বস্তি ফিরেছে।",
+        "why_it_matters_en": "The arrest of the suspect in the journalist's murder brings relief regarding the establishment of the rule of law among local media workers and citizens.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T19:21:56+00:00",
-        "lead_bn": "**রাজধানীর মহাখালী রেলগেট এলাকায় ট্রেনের ধাক্কায় রায়হান নামের এক হোটেল কর্মচারী নিহত হয়েছেন।**",
-        "lead_en": "**A hotel employee named Raihan was killed after being hit by a train in the capital's Mohakhali railgate area.**",
+        "published_at": "2026-10-21T21:07:21+00:00",
+        "lead_bn": "বিশেষ বাহিনী দুর্গাপুর পৌর এলাকা থেকে সাংবাদিক লুৎফুজ্জামান ফকির হত্যা মামলায় আশিকুর রহমান প্রাঙ্গন নামের এক সন্দেহভাজন আসামিকে গ্রেফতার করেছে।",
+        "lead_en": "Special forces arrested a suspect named Ashikur Rahman Prangon in connection with the murder of journalist Lutfuzzaman Fakir in Durgapur.",
         "bullets_bn": [
-          "রাজধানীর মহাখালী রেলগেট এলাকায় রেললাইন পার হওয়ার সময় ট্রেনের ধাক্কায় রায়হান আহত হন।",
-          "আহত অবস্থায় ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় ২৫ বছর বয়সী রায়হানের মৃত্যু হয়।",
-          "নিহত রায়হান মহাখালী এলাকার ফুটপাতের একটি হোটেলের কর্মচারী হিসেবে কাজ করতেন।"
+          "১. এসআরবি-১৪ ব্যাটালিয়নের অভিযানে দুর্গাপুর পৌরসভার শহীদ মিনার এলাকা থেকে সন্দেহভাজন আসামিকে গ্রেফতার করা হয়।",
+          "২. গ্রেফতারকৃত প্রাঙ্গন একাধিক হত্যা মামলার আসামি হিসেবে পরিচিত শুটার শামীমের ভাগনে।",
+          "৩. হত্যা মামলার বাকি আসামিদের গ্রেফতারে আইনশৃঙ্খলা বাহিনীর অভিযান অব্যাহত রয়েছে।"
         ],
         "bullets_en": [
-          "Raihan was struck by a train while crossing the railway tracks in the Mohakhali railgate area.",
-          "The 25-year-old succumbed to his injuries while undergoing treatment at Dhaka Medical College Hospital.",
-          "The victim worked as an employee at a roadside eatery located in the Mohakhali area."
+          "1. The suspect was arrested during an operation by SRB-14 near the Durgapur Municipality Shaheed Minar area.",
+          "2. Arrested Prangon is the nephew of notorious shooter Shamim, an accused in multiple murder cases.",
+          "3. Law enforcement operations are ongoing to apprehend the remaining suspects in the murder case."
         ],
-        "impact_bn": "রাজধানীর অরক্ষিত রেললাইনগুলো পারাপারের সময় দুর্ঘটনা এড়াতে পথচারীদের আরও সতর্ক হওয়া প্রয়োজন।",
-        "impact_en": "Pedestrians need to exercise greater caution while crossing unguarded railway tracks in the capital to prevent fatal accidents.",
-        "details_bn": "সন্ধ্যা সাড়ে ছয়টার দিকে মহাখালী রেলগেট এলাকায় রেললাইন পার হওয়ার সময় এই দুর্ঘটনা ঘটে। পরে আশপাশের লোকজন ও হোটেল মালিক নজরুল ইসলাম তাকে উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করেন। রাত নয়টার দিকে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়। এই ঘটনায় এলাকায় শোকের ছায়া নেমে এসেছে এবং রেললাইন পারাপারে নিরাপত্তার বিষয়টি পুনরায় আলোচনায় এসেছে।",
-        "details_en": "The accident occurred around 6:30 PM when the victim was crossing the tracks in the Mohakhali railgate area. He was rescued by locals and his employer Nazrul Islam, and admitted to Dhaka Medical College Hospital, where he passed away around 9:00 PM while receiving treatment. The incident has reignited concerns regarding pedestrian safety and hazard risks near railway crossings in the capital."
+        "impact_bn": "সাংবাদিক হত্যায় জড়িত সন্দেহভাজন আসামি গ্রেফতার হওয়ায় স্থানীয় সংবাদকর্মী ও সাধারণ মানুষের মধ্যে আইনের শাসন প্রতিষ্ঠার স্বস্তি ফিরেছে।",
+        "impact_en": "The arrest of the suspect in the journalist's murder brings relief regarding the establishment of the rule of law among local media workers and citizens.",
+        "details_bn": "নেত্রকোনার দুর্গাপুরে সাংবাদিক লুৎফুজ্জামান ফকির ওরফে আলিফ হত্যাকাণ্ডের ঘটনায় দেশজুড়ে তীব্র প্রতিক্রিয়া সৃষ্টি হয়। এর ধারাবাহিকতায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও বিশেষ বাহিনীগুলো আসামিদের গ্রেফতারে তৎপরতা জোরদার করে। ঘটনার সঙ্গে জড়িত মূল অপরাধী ও তাদের সহযোগীদের আইনের আওতায় আনতে বিভিন্ন স্থানে অভিযান পরিচালনা করছে পুলিশ ও সংশ্লিষ্ট বাহিনী।",
+        "details_en": "The murder of journalist Lutfuzzaman Fakir alias Alif in Durgapur, Netrokona, sparked widespread outrage across the country. In response, law enforcement and special forces intensified efforts to apprehend the suspects. Police and relevant forces are conducting raids in various locations to bring the main perpetrators and their accomplices to justice."
       }
     },
     {
-      "story_id": "932724a7-43c5-5579-bad7-7adacb59ad4d",
-      "primary_category": "climate_environment",
+      "story_id": "9118d522-3bd8-5a7b-bafc-64407a83e29f",
+      "primary_category": "society_education",
       "interest_categories": [
-        "climate_environment"
+        "society_education"
       ],
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T19:07:45+00:00",
+      "published_at": "2026-10-21T20:56:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7282,
+      "rank_score": 0.7775,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1170709",
-          "title": "প্রতিমা বিসর্জনে বুড়িগঙ্গায় কড়া নিরাপত্তা",
-          "snippet": "প্রতিমা বিসর্জনে বুড়িগঙ্গায় কড়া নিরাপত্তা"
+          "url": "https://www.jagonews24.com/national/news/1170717",
+          "title": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ",
+          "snippet": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রতিমা বিসর্জন নির্বিঘ্ন করতে বুড়িগঙ্গায় বহুমুখী নিরাপত্তাব্যবস্থা গ্রহণ",
-        "title_en": "Multitiered Security Deployed on Buriganga for Idol Immersion",
-        "summary_bn": "দুর্গাপূজার প্রতিমা বিসর্জন উৎসব নিরাপদ ও শান্তিপূর্ণ করতে পুরান ঢাকার সদরঘাট ও বুড়িগঙ্গা নদীতে কঠোর নিরাপত্তাব্যবস্থা নেওয়া হয়েছে।",
-        "summary_en": "Multitiered security measures have been deployed along the Buriganga River and Sadarghat in Old Dhaka to ensure safe idol immersion.",
-        "why_it_matters_bn": "পূজারি ও সাধারণ দর্শনার্থীরা নির্বিঘ্ন ও নিরাপদ পরিবেশে প্রতিমা বিসর্জন উৎসবে অংশ নিতে পারবেন।",
-        "why_it_matters_en": "Devotees and general visitors will be able to participate in the idol immersion festival in a secure and uninterrupted environment.",
+        "title_bn": "ধর্মের শিক্ষা কর্ম ও আচরণে প্রতিফলিত করার আহ্বান চট্টগ্রাম ডিসির",
+        "title_en": "Chattogram DC Urges Reflecting Religious Teachings in Daily Conduct",
+        "summary_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "summary_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah has urged reflecting religious teachings in daily conduct rather than limiting them to festivals.",
+        "why_it_matters_bn": "নৈতিক মূল্যবোধ চর্চার মাধ্যমে সমাজে পারস্পরিক সম্প্রীতি ও শৃঙ্খলা বৃদ্ধিতে সহায়তা করবে।",
+        "why_it_matters_en": "Practicing moral values will help foster mutual harmony and discipline in society.",
         "interest_categories": [
-          "climate_environment"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T19:07:45+00:00",
-        "lead_bn": "দুর্গাপূজার প্রতিমা বিসর্জন উৎসব নিরাপদ ও শান্তিপূর্ণ করতে পুরান ঢাকার সদরঘাট ও বুড়িগঙ্গা নদীতে কঠোর নিরাপত্তাব্যবস্থা নেওয়া হয়েছে।",
-        "lead_en": "Multitiered security measures have been deployed along the Buriganga River and Sadarghat in Old Dhaka to ensure safe idol immersion.",
+        "published_at": "2026-10-21T20:56:09+00:00",
+        "lead_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসবে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
+        "lead_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah has urged reflecting religious teachings in daily conduct rather than limiting them to festivals.",
         "bullets_bn": [
-          "১. সদরঘাট সংলগ্ন বুড়িগঙ্গা নদী এবং আশপাশের এলাকায় বহুস্তরের নিরাপত্তা বলয় তৈরি করা হয়েছে।",
-          "২. প্রতিমা বিসর্জনের শোভাযাত্রা ও ঘাট এলাকায় আইনশৃঙ্খলা রক্ষাকারী বাহিনীর অতিরিক্ত সদস্য মোতায়েন করা হয়েছে।",
-          "৩. বিসর্জন কার্যক্রম চলাকালীন নদীপথে চলাচলকারী নৌযানের ওপর বিশেষ নজরদারি রাখা হচ্ছে।"
+          "১. ডিসি মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মীয় মূল্যবোধ কর্ম ও আচরণে অনুসরণের আহ্বান জানান।",
+          "২. শিক্ষাগুলো শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রাখার ওপর জোর দেওয়া হয়েছে।",
+          "৩. নৈতিকতা ও মানবকল্যাণে এই বার্তা সমাজের সর্বস্তরে প্রচারের পরিকল্পনা রয়েছে।"
         ],
         "bullets_en": [
-          "1. A multitiered security ring has been established around the Buriganga River and surrounding areas near Sadarghat.",
-          "2. Additional law enforcement personnel have been deployed along immersion processions and river ghats.",
-          "3. Special surveillance is being maintained on watercraft operating on the river during the immersion activities."
+          "1. DC Mohammad Jahidul Islam Miah called for adopting moral values in everyday life.",
+          "2. Emphasis was placed on avoiding the confinement of religious lessons solely to festivals.",
+          "3. Plans are underway to promote these ethical messages widely for community welfare."
         ],
-        "impact_bn": "পূজারি ও সাধারণ দর্শনার্থীরা নির্বিঘ্ন ও নিরাপদ পরিবেশে প্রতিমা বিসর্জন উৎসবে অংশ নিতে পারবেন।",
-        "impact_en": "Devotees and general visitors will be able to participate in the idol immersion festival in a secure and uninterrupted environment.",
-        "details_bn": "সনাতন ধর্মাবলম্বীদের সবচেয়ে বড় ধর্মীয় উৎসব শারদীয় দুর্গাপূজার শেষ দিন প্রতিমা বিসর্জনের মধ্য দিয়ে সমাপ্তি ঘটে। প্রতিবছর পুরান ঢাকার সদরঘাট সংলগ্ন বুড়িগঙ্গা নদীতে রাজধানী ও এর আশপাশের বিভিন্ন পূজামণ্ডপের প্রতিমা বিসর্জন দেওয়া হয়। এই সময়ে নদীপথে অতিরিক্ত ভিড় এবং অনাকাঙ্ক্ষিত পরিস্থিতি এড়াতে আইনশৃঙ্খলা রক্ষাকারী বাহিনী প্রতিবারই বিশেষ নিরাপত্তা পরিকল্পনা বাস্তবায়ন করে থাকে।",
-        "details_en": "The grand festival of Sharadiya Durgapujo concludes with the immersion of idols on the final day. Every year, idols from numerous pandals across Dhaka are brought to the Buriganga River near Sadarghat for immersion. To manage large crowds and prevent untoward incidents on the waterways during this period, law enforcement agencies regularly implement specialized security frameworks."
+        "impact_bn": "নৈতিক মূল্যবোধ চর্চার মাধ্যমে সমাজে পারস্পরিক সম্প্রীতি ও শৃঙ্খলা বৃদ্ধিতে সহায়তা করবে।",
+        "impact_en": "Practicing moral values will help foster mutual harmony and discipline in society.",
+        "details_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা এক অনুষ্ঠানে সমাজের নৈতিক অবক্ষয় রোধ এবং মানবিক মূল্যবোধ প্রতিষ্ঠায় ধর্মীয় প্রকৃত শিক্ষার গুরুত্ব তুলে ধরেন। তিনি উল্লেখ করেন, ধর্মীয় অনুশাসন শুধু আনুষ্ঠানিকতার বিষয় নয়, বরং তা মানুষের দৈনন্দিন জীবন ও কর্মে প্রতিফলিত হওয়া উচিত। সাম্প্রতিক সময়ে সমাজে শান্তি ও শৃঙ্খলা বজায় রাখতে নৈতিক শিক্ষার প্রচার ও প্রসারের ওপর বিশেষ গুরুত্ব দেওয়া হচ্ছে।",
+        "details_en": "Chattogram Deputy Commissioner Mohammad Jahidul Islam Miah highlighted the importance of true religious teachings in preventing moral degradation and establishing human values. He noted that religious discipline is not merely about rituals but should reflect in daily life and work. Recently, special emphasis has been placed on promoting moral education to maintain peace and order in society."
       }
     },
     {
-      "story_id": "8cb40c37-10a3-57e8-a464-2dd89e8f64dd",
+      "story_id": "7aa1b505-a29a-5fce-a240-0f9bb85787a9",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -282,48 +282,48 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fs6r06daa%2F%E0%A7%A8.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T18:55:13+00:00",
+      "published_at": "2026-10-21T20:48:04+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6561,
+      "rank_score": 0.7238,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/r1h2rrq6ts",
-          "title": "দেশে প্রথমবারের মতো হচ্ছে ক্ষুদ্র নৃগোষ্ঠী জরিপ, তাদের আত্মসামাজিক অবস্থা জানতে চায় বিবিএস",
-          "snippet": "দেশে প্রথমবারের মতো হচ্ছে ক্ষুদ্র নৃগোষ্ঠী জরিপ, তাদের আত্মসামাজিক অবস্থা জানতে চায় বিবিএস"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170716",
+          "title": "রোববার আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি",
+          "snippet": "রোববার আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে প্রথমবারের মতো ক্ষুদ্র নৃগোষ্ঠীর আর্থসামাজিক অবস্থা জানতে বিবিএস জরিপ শুরু",
-        "title_en": "BBS Launches First-Ever Socioeconomic Survey on Ethnic Minorities in Bangladesh",
-        "summary_bn": "**বাংলাদেশ পরিসংখ্যান ব্যুরো দেশের ক্ষুদ্র নৃগোষ্ঠীর জীবনমান ও দারিদ্র্য পরিস্থিতি মূল্যায়নের জন্য প্রথমবারের মতো দেশব্যাপী বিশেষ জরিপ পরিচালনা করছে।**",
-        "summary_en": "**The Bangladesh Bureau of Statistics is conducting a nationwide survey to evaluate the living standards and poverty status of ethnic minorities.**",
-        "why_it_matters_bn": "এ জরিপের মাধ্যমে প্রাপ্ত নির্ভুল তথ্যের ভিত্তিতে ক্ষুদ্র নৃগোষ্ঠীর জীবনমান উন্নয়ন ও সামাজিক সুরক্ষার সঠিক সুবিধা পৌঁছানো সম্ভব হবে।",
-        "why_it_matters_en": "Accurate data from this survey will help channel targeted social safety nets and development benefits to underprivileged ethnic communities.",
+        "title_bn": "সুপ্রিম কোর্টের অবকাশ শেষে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ করবেন প্রধান বিচারপতি",
+        "title_en": "Chief Justice to exchange greetings with lawyers after Supreme Court vacation",
+        "summary_bn": "সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ ও শুভেচ্ছা বিনিময় করবেন প্রধান বিচারপতি।",
+        "summary_en": "The Chief Justice will exchange courtesy greetings with lawyers on the first working day after the Supreme Court vacation.",
+        "why_it_matters_bn": "আইনজীবীদের সঙ্গে এই শুভেচ্ছা বিনিময়ের ফলে বিচার বিভাগের সাথে আইনজীবীদের পারস্পরিক সুসম্পর্ক ও কাজের গতি বাড়বে।",
+        "why_it_matters_en": "This interaction fosters better professional synergy between the judiciary and legal practitioners as court operations resume.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T18:55:13+00:00",
-        "lead_bn": "**বাংলাদেশ পরিসংখ্যান ব্যুরো দেশের ক্ষুদ্র নৃগোষ্ঠীর জীবনমান ও দারিদ্র্য পরিস্থিতি মূল্যায়নের জন্য প্রথমবারের মতো দেশব্যাপী বিশেষ জরিপ পরিচালনা করছে।**",
-        "lead_en": "**The Bangladesh Bureau of Statistics is conducting a nationwide survey to evaluate the living standards and poverty status of ethnic minorities.**",
+        "published_at": "2026-10-21T20:48:04+00:00",
+        "lead_bn": "সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে আইনজীবীদের সঙ্গে সৌজন্য সাক্ষাৎ ও শুভেচ্ছা বিনিময় করবেন প্রধান বিচারপতি।",
+        "lead_en": "The Chief Justice will exchange courtesy greetings with lawyers on the first working day after the Supreme Court vacation.",
         "bullets_bn": [
-          "১. বিবিএস দেশের ৫০টি ক্ষুদ্র নৃগোষ্ঠীকে অন্তর্ভুক্ত করে পরিবারভিত্তিক তালিকা তৈরি এবং আর্থসামাজিক তথ্য সংগ্রহ করছে।",
-          "২. এ জরিপের মাধ্যমে ক্ষুদ্র নৃগোষ্ঠীর কোন সম্প্রদায় বেশি পিছিয়ে তা চিহ্নিত করে দারিদ্র্যের হার নির্ণয় করা হবে।",
-          "৩. সংগৃহীত তথ্যের ভিত্তিতে একটি বেঞ্চমার্ক ডেটাবেস তৈরি করে ভবিষ্যতে জীবনমান উন্নয়নের পরিকল্পনা নেওয়া হবে।"
+          "১. সুপ্রিম কোর্টের অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে সৌজন্য সাক্ষাৎ অনুষ্ঠিত হবে।",
+          "২. প্রধান বিচারপতি এবং আপিল ও হাইকোর্ট বিভাগের বিচারপতিরা এই শুভেচ্ছা বিনিময়ে অংশ নেবেন।",
+          "৩. এই সাক্ষাতের মধ্য দিয়ে সুপ্রিম কোর্টে পুনরায় নিয়মিত বিচারিক কার্যক্রমের গতিশীলতা ফিরবে।"
         ],
         "bullets_en": [
-          "1. BBS is compiling family-based lists and socioeconomic data covering 50 ethnic minority groups across the country.",
-          "2. The survey identifies disadvantaged communities to accurately determine poverty rates among ethnic minorities.",
-          "3. Collected data will form a benchmark database to guide future policymaking and standard of living improvements."
+          "1. The courtesy meeting will take place on the first working day following the Supreme Court's vacation.",
+          "2. The Chief Justice and justices from both the Appellate and High Court divisions will participate.",
+          "3. Regular judicial proceedings and court operations will resume full momentum following this interaction."
         ],
-        "impact_bn": "এ জরিপের মাধ্যমে প্রাপ্ত নির্ভুল তথ্যের ভিত্তিতে ক্ষুদ্র নৃগোষ্ঠীর জীবনমান উন্নয়ন ও সামাজিক সুরক্ষার সঠিক সুবিধা পৌঁছানো সম্ভব হবে।",
-        "impact_en": "Accurate data from this survey will help channel targeted social safety nets and development benefits to underprivileged ethnic communities.",
-        "details_bn": "দেশের ক্ষুদ্র নৃগোষ্ঠীর মানুষের জীবনযাত্রার মান এবং দারিদ্র্যের প্রকৃত চিত্র জানতে এই প্রথম ব্যাপকভিত্তিক উদ্যোগ নিয়েছে বাংলাদেশ পরিসংখ্যান ব্যুরো। জরিপটি চলাকালে কিছু এলাকায় তথ্য সংগ্রহে প্রাথমিক বাধা আসলেও সংশ্লিষ্টদের বোঝানোর পর তারা সহযোগিতায় এগিয়ে আসেন। সংগৃহীত তথ্যের ভিত্তিতে একটি শক্তিশালী ডেটাবেস তৈরি করা হবে, যা ভবিষ্যতে সরকারের নীতিনির্ধারণী ও উন্নয়নমূলক কার্যক্রমে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "details_en": "Bangladesh Bureau of Statistics has undertaken this comprehensive first-time initiative to accurately assess the living standards and poverty levels of the country's ethnic minority populations. Despite initial reluctance and minor fieldwork hurdles in a few areas, community cooperation was secured through dialogue. The initiative aims to build a robust database that will guide targeted government development programs and future policymaking for marginalized communities."
+        "impact_bn": "আইনজীবীদের সঙ্গে এই শুভেচ্ছা বিনিময়ের ফলে বিচার বিভাগের সাথে আইনজীবীদের পারস্পরিক সুসম্পর্ক ও কাজের গতি বাড়বে।",
+        "impact_en": "This interaction fosters better professional synergy between the judiciary and legal practitioners as court operations resume.",
+        "details_bn": "সুপ্রিম কোর্টের নির্ধারিত অবকাশকালীন ছুটি শেষে আদালতের নিয়মিত কার্যক্রম পুনরায় শুরু হওয়ার প্রাক্কালে এই সৌজন্য সাক্ষাতের ঐতিহ্য রয়েছে। এর মাধ্যমে প্রধান বিচারপতি ও বিচারপতির সাথে আইনজীবীদের সৌহার্দ্যপূর্ণ সম্পর্ক বজায় থাকে এবং বিচারকাজ আরও সুশৃঙ্খলভাবে পরিচালনার পথ প্রশস্ত হয়।",
+        "details_en": "This tradition marks the resumption of regular judicial activities following the Supreme Court's scheduled vacation. Such interactions help maintain cordial professional relations between the bench and the bar, ensuring smooth coordination for upcoming judicial proceedings."
       }
     }
   ]
