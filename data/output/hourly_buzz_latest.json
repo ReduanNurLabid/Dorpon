@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-21T00:37:24.122218",
+  "updated_at": "2026-10-21T05:20:10.978944",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "447cf0ee-66a7-50d8-988c-a99533cc9477",
+      "story_id": "c651edf3-4039-5a23-af40-89136e78bf7b",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,104 +14,105 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T00:28:56+00:00",
+      "published_at": "2026-10-21T05:18:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8907,
+      "importance_score": 4.8,
+      "rank_score": 1.9016,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/jobs/975792/%E0%A7%AE%E0%A7%AA-%E0%A6%B8%E0%A6%BE%E0%A6%AC-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AE%E0%A7%87-%E0%A7%A7%E0%A7%A9%E0%A7%AB-%E0%A6%AA%E0%A6%A6%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97",
-          "title": "৮৪ সাব-রেজিস্ট্রারসহ পিএসসির মাধ্যমে ১৩৫ পদে নিয়োগ",
-          "snippet": "৮৪ সাব-রেজিস্ট্রারসহ পিএসসির মাধ্যমে ১৩৫ পদে নিয়োগ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1170449",
+          "title": "মাদক নির্মূলে একটি সংগঠন গড়ে তুলতে চাই: ইশরাক",
+          "snippet": "মাদক নির্মূলে একটি সংগঠন গড়ে তুলতে চাই: ইশরাক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পিএসসির মাধ্যমে ৮৪ সাব-রেজিস্ট্রারসহ ১৩৫ পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ",
-        "title_en": "PSC Publishes Circular to Recruit 135 Officers Including 84 Sub-Registrars",
-        "summary_bn": "বাংলাদেশ সরকারি কর্ম কমিশন বিভিন্ন সরকারি দফতরে ৯ম থেকে ১২তম গ্রেডে ১৩৫ জন কর্মকর্তা নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "The Bangladesh Public Service Commission has issued a recruitment circular to hire 135 officers across 9th to 12th grades.",
-        "why_it_matters_bn": "সরকারি চাকরিতে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হলো, যা তরুণদের প্রশাসনিক সেবায় যোগ দিতে উৎসাহিত করবে।",
-        "why_it_matters_en": "Creates new public sector employment opportunities for educated youth, particularly in land registration and legal services.",
+        "title_bn": "মাদক নির্মূলে সামাজিক সংগঠন গড়ে তোলার ঘোষণা ইশরাক হোসেনের",
+        "title_en": "Ishrak Hossain Announces Social Initiative to Eradicate Drugs",
+        "summary_bn": "সদ্য পদত্যাগ করা সংসদ সদস্য ইশরাক হোসেন মাদক নির্মূলের লক্ষ্যে একটি নতুন সামাজিক সংগঠন গড়ে তোলার ঘোষণা দিয়েছেন।",
+        "summary_en": "Recently resigned lawmaker Ishrak Hossain has announced plans to form a social organization aimed at eradicating drugs.",
+        "why_it_matters_bn": "মাদকবিরোধী এই সামাজিক উদ্যোগ সফল হলে স্থানীয় যুবসমাজ সুরক্ষা পাবে এবং এলাকার সার্বিক আইনশৃঙ্খলা পরিস্থিতির উন্নতি হবে।",
+        "why_it_matters_en": "If successful, this anti-drug social initiative will protect local youth and improve overall community safety.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T00:28:56+00:00",
-        "lead_bn": "বাংলাদেশ সরকারি কর্ম কমিশন বিভিন্ন সরকারি দফতরে ৯ম থেকে ১২তম গ্রেডে ১৩৫ জন কর্মকর্তা নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "The Bangladesh Public Service Commission has issued a recruitment circular to hire 135 officers across 9th to 12th grades.",
+        "published_at": "2026-10-21T05:18:02+00:00",
+        "lead_bn": "সদ্য পদত্যাগ করা সংসদ সদস্য ইশরাক হোসেন মাদক নির্মূলের লক্ষ্যে একটি নতুন সামাজিক সংগঠন গড়ে তোলার ঘোষণা দিয়েছেন।",
+        "lead_en": "Recently resigned lawmaker Ishrak Hossain has announced plans to form a social organization aimed at eradicating drugs.",
         "bullets_bn": [
-          "পিএসসি বিভিন্ন মন্ত্রণালয় ও বিভাগে ১৩৫টি পদ পূরণে নতুন নিয়োগ প্রক্রিয়া শুরু করেছে।",
-          "বিজ্ঞপ্তি অনুযায়ী সর্বোচ্চ ৮৪ জন সাব-রেজিস্ট্রার, ১ জন আইন কর্মকর্তা ও ২ জন বয়লার পরিদর্শক নিয়োগ দেওয়া হবে।",
-          "আগ্রহী প্রার্থীরা ১ নভেম্বর থেকে অনলাইনে নির্ধারিত নিয়মে আবেদন জমা দিতে পারবেন।"
+          "১. মাদক নির্মূলের কার্যক্রমে তরুণ প্রজন্ম ও স্থানীয় জনসাধারণকে সম্পৃক্ত করতে নতুন সংগঠন গড়ার উদ্যোগ নিয়েছেন ইশরাক হোসেন।",
+          "২. ঢাকা-৬ আসনের সাবেক সংসদ সদস্য ও সদ্য পদত্যাগকারী প্রতিমন্ত্রী ইশরাক হোসেন এই সামাজিক আন্দোলনের নেতৃত্ব দেবেন।",
+          "৩. খুব শীঘ্রই সংগঠনটির রূপরেখা ঘোষণা করে দেশব্যাপী মাদকবিরোধী সচেতনতা কার্যক্রম শুরু করা হবে।"
         ],
         "bullets_en": [
-          "PSC initiated recruitment for 135 non-cadre posts across various government ministries and departments.",
-          "The hiring includes a maximum of 84 Sub-Registrars, alongside Law Officers and Boiler Inspectors.",
-          "Interested job seekers can submit their applications online starting November 1."
+          "1. Ishrak Hossain has initiated plans to build a new organization involving the youth and local communities to combat drugs.",
+          "2. The former lawmaker of Dhaka-6 and recently resigned state minister will spearhead this social movement.",
+          "3. The structural outline of the organization will be announced soon to launch nationwide anti-drug awareness activities."
         ],
-        "impact_bn": "সরকারি চাকরিতে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হলো, যা তরুণদের প্রশাসনিক সেবায় যোগ দিতে উৎসাহিত করবে।",
-        "impact_en": "Creates new public sector employment opportunities for educated youth, particularly in land registration and legal services.",
-        "details_bn": "বাংলাদেশ সরকারি কর্ম কমিশন (পিএসসি) নিয়মিতভাবে সরকারি বিভিন্ন দপ্তরের জন্য ক্যাডার ও নন-ক্যাডার পদে নিয়োগ প্রক্রিয়া পরিচালনা করে থাকে। সাব-রেজিস্ট্রার এবং প্রকৌশলীর মতো কারিগরি ও আইনি পদে নতুন লোকবল নিয়োগের মাধ্যমে সরকারি সাব-রেজিস্ট্রি কার্যালয় ও অন্যান্য প্রশাসনিক ইউনিটের কর্মদক্ষতা বৃদ্ধির উদ্যোগ নেওয়া হয়েছে।",
-        "details_en": "The Bangladesh Public Service Commission (PSC) regularly conducts recruitment for non-cadre positions across ministries and directorates. Recruiting for key administrative positions like sub-registrars and specialized technical officers helps address staffing shortages, improving public service delivery in land registration and administrative operations nationwide."
+        "impact_bn": "মাদকবিরোধী এই সামাজিক উদ্যোগ সফল হলে স্থানীয় যুবসমাজ সুরক্ষা পাবে এবং এলাকার সার্বিক আইনশৃঙ্খলা পরিস্থিতির উন্নতি হবে।",
+        "impact_en": "If successful, this anti-drug social initiative will protect local youth and improve overall community safety.",
+        "details_bn": "ইশরাক হোসেন সম্প্রতি মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে পদত্যাগ করেন এবং ঢাকা-৬ আসনের সংসদ সদস্য হিসেবে দায়িত্ব পালনকালে বিভিন্ন সামাজিক ও জনকল্যাণমূলক কার্যক্রমে যুক্ত ছিলেন। মাদক সমস্যা বর্তমান সমাজে তরুণ প্রজন্মের জন্য একটি বড় সংকট হয়ে দাঁড়ানোয় তিনি এবার সুনির্দিষ্টভাবে মাদক নির্মূলের এই কার্যক্রমে নামার ঘোষণা দিয়েছেন।",
+        "details_en": "Ishrak Hossain recently resigned from his position as the State Minister for Liberation War Affairs while serving as the lawmaker for Dhaka-6, maintaining involvement in various social welfare activities. Given that drug abuse has become a major crisis for the youth generation, he has now declared his intention to focus specifically on eradicating the menace."
       }
     },
     {
-      "story_id": "097ea3ea-8e4e-5cee-aee0-57ebc552b957",
+      "story_id": "555166f5-3a96-5fe2-8822-1cde50996bbc",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#QuestionLeak",
+        "#CID",
+        "#YouthDevelopment"
       ],
-      "image_url": null,
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/madaripur%20arrest.jpg",
       "image_caption": null,
-      "published_at": "2026-10-21T00:14:56+00:00",
+      "published_at": "2026-10-21T04:35:10+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7787,
+      "importance_score": 4.8,
+      "rank_score": 1.2867,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/975793/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B2%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
-          "title": "শ্রীলঙ্কার পথে পথে বিনামূল্যে খাবার বিতরণের উৎসব কেন",
-          "snippet": "শ্রীলঙ্কার পথে পথে বিনামূল্যে খাবার বিতরণের উৎসব কেন"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/barc-official-arrested-over-youth-development-recruitment-exam-question-leak-4303971",
+          "title": "BARC official arrested over Youth Development recruitment exam question leak",
+          "snippet": "BARC official arrested over Youth Development recruitment exam question leak"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবে বিনামূল্যে খাবার বিতরণের ঐতিহ্য 'দানসাল'",
-        "title_en": "Sri Lanka Maintains Unique Tradition of Free Food Distribution Called 'Dansal'",
-        "summary_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবকে কেন্দ্র করে সড়কের পাশে পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের অনন্য সামাজিক ঐতিহ্য চালু রয়েছে।",
-        "summary_en": "Sri Lanka maintains a unique social tradition of distributing free food and drinks to pedestrians during religious festivals.",
-        "why_it_matters_bn": "এই সামাজিক প্রথা সমাজে পারস্পরিক সহমর্মিতা ও সম্প্রীতির বন্ধন সুদৃঢ় করে।",
-        "why_it_matters_en": "This social practice strengthens mutual empathy and community bonding.",
+        "title_bn": "যুব উন্নয়ন অধিদপ্তরের প্রশ্নপত্র ফাঁসের ঘটনায় বিএআরসি কর্মকর্তা গ্রেপ্তার",
+        "title_en": "BARC Official Arrested Over Youth Development Recruitment Exam Question Leak",
+        "summary_bn": "সিআইডি বাংলাদেশ কৃষি গবেষণা কাউন্সিলের এক সহকারী পরিচালককে যুব উন্নয়ন অধিদপ্তরের নিয়োগ পরীক্ষার প্রশ্ন ফাঁসের অভিযোগে গ্রেপ্তার করেছে।",
+        "summary_en": "CID arrested a Bangladesh Agricultural Research Council assistant director for leaking Department of Youth Development recruitment exam questions.",
+        "why_it_matters_bn": "প্রশ্ন ফাঁস ও নিয়োগ পরীক্ষা স্থগিতের ঘটনায় চাকরিপ্রত্যাশী হাজার হাজার তরুণ চরম অনিশ্চয়তা ও মানসিক যন্ত্রণার শিকার হয়েছেন।",
+        "why_it_matters_en": "Job-seeking youths face severe uncertainty and distress due to recurring recruitment exam question leaks and sudden postponements.",
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T00:14:56+00:00",
-        "lead_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবকে কেন্দ্র করে সড়কের পাশে পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের অনন্য সামাজিক ঐতিহ্য চালু রয়েছে।",
-        "lead_en": "Sri Lanka maintains a unique social tradition of distributing free food and drinks to pedestrians during religious festivals.",
+        "published_at": "2026-10-21T04:35:10+00:00",
+        "lead_bn": "সিআইডি বাংলাদেশ কৃষি গবেষণা কাউন্সিলের এক সহকারী পরিচালককে যুব উন্নয়ন অধিদপ্তরের নিয়োগ পরীক্ষার প্রশ্ন ফাঁসের অভিযোগে গ্রেপ্তার করেছে।",
+        "lead_en": "CID arrested a Bangladesh Agricultural Research Council assistant director for leaking Department of Youth Development recruitment exam questions.",
         "bullets_bn": [
-          "১. স্বেচ্ছাসেবীরা ধর্মীয় উৎসবের সময় সড়কের পাশে অস্থায়ী স্টল স্থাপন করেন।",
-          "২. স্থানীয়ভাবে 'দানসাল' নামে পরিচিত এই আয়োজনে অপরিচিত মানুষকে বিনামূল্যে খাবার ও পানীয় দেওয়া হয়।",
-          "৩. বৌদ্ধ ধর্মের দান ও মানুষের প্রতি সহমর্মিতা প্রদর্শনের শিক্ষা থেকে এই আয়োজন পরিচালিত হয়।"
+          "সিআইডির অতিরিক্ত পুলিশ সুপার মোহাইমিনুল ইসলাম প্রশ্ন ফাঁস মামলায় সোহাগ ফকীরের সম্পৃক্ততার বিষয়টি নিশ্চিত করেছেন।",
+          "মাদারীপুরের রাজৈর থেকে গ্রেপ্তারের সময় তাঁর কাছ থেকে দুটি স্মার্টফোন জব্দ করা হয় এবং তাঁকে ঢাকায় আনা হচ্ছে।",
+          "প্রশ্ন ফাঁসের অভিযোগ ওঠার পর গত ১০ অক্টোবর সহকারী উপজেলা যুব উন্নয়ন কর্মকর্তা পদের নিয়োগ পরীক্ষা শেষ মুহূর্তে স্থগিত করা হয়।"
         ],
         "bullets_en": [
-          "1. Volunteers set up temporary roadside stalls during religious festivals.",
-          "2. Known locally as 'Dansal', this initiative provides free food and drinks to strangers.",
-          "3. The tradition is driven by Buddhist teachings of charity and empathy toward humanity."
+          "CID Additional Superintendent of Police Mohaiminul Islam confirmed Sohag Fakir's involvement in the question leak case.",
+          "Two smartphones were seized during his arrest in Madaripur's Rajoir, and he is currently being brought to Dhaka.",
+          "The recruitment exam for assistant upazila youth development officers was postponed at the last minute on October 10 following leak allegations."
         ],
-        "impact_bn": "এই সামাজিক প্রথা সমাজে পারস্পরিক সহমর্মিতা ও সম্প্রীতির বন্ধন সুদৃঢ় করে।",
-        "impact_en": "This social practice strengthens mutual empathy and community bonding.",
-        "details_bn": "শ্রীলঙ্কায় ধর্মীয় উৎসবের সময় পথচারীদের বিনা মূল্যে খাবার ও পানীয় বিতরণের এই অনন্য ঐতিহ্য 'দানসাল' নামে পরিচিত। বৌদ্ধ ধর্মের দান ও মানুষের প্রতি সহমর্মিতার শিক্ষা থেকে গড়ে ওঠা এই আয়োজন দেশটির সামাজিক ও সাংস্কৃতিক জীবনের অত্যন্ত গুরুত্বপূর্ণ একটি অংশ। উৎসবের দিনগুলোতে স্বেচ্ছাসেবীরা নিজ উদ্যোগে অস্থায়ী স্টল বসিয়ে অপরিচিত মানুষদের খাবার ও পানীয় পরিবেশন করেন, যার বিনিময়ে কোনো অর্থ নেওয়া হয় না।",
-        "details_en": "In Sri Lanka, the unique tradition of distributing free food and drinks to pedestrians during religious festivals is known as 'Dansal'. Rooted in Buddhist teachings of charity and human empathy, this practice forms a vital part of the nation's social and cultural life. During festivals, volunteers set up temporary stalls to serve food and beverages to strangers without expecting any payment in return."
+        "impact_bn": "প্রশ্ন ফাঁস ও নিয়োগ পরীক্ষা স্থগিতের ঘটনায় চাকরিপ্রত্যাশী হাজার হাজার তরুণ চরম অনিশ্চয়তা ও মানসিক যন্ত্রণার শিকার হয়েছেন।",
+        "impact_en": "Job-seeking youths face severe uncertainty and distress due to recurring recruitment exam question leaks and sudden postponements.",
+        "details_bn": "গত ১০ অক্টোবর যুব উন্নয়ন অধিদপ্তরের সহকারী উপজেলা যুব উন্নয়ন কর্মকর্তা পদের নিয়োগ পরীক্ষা অনুষ্ঠিত হওয়ার কথা ছিল। তবে পরীক্ষা শুরুর ঠিক আগ মুহূর্তে প্রশ্নপত্র ফাঁসের জোরালো অভিযোগ ওঠায় কর্তৃপক্ষ আকস্মিকভাবে পরীক্ষা স্থগিত করতে বাধ্য হয়। এই ঘটনার পর থেকেই আইনশৃঙ্খলা রক্ষাকারী বাহিনী প্রশ্ন ফাঁস চক্রের মূল হোতাদের ধরতে দেশের বিভিন্ন স্থানে নজরদারি ও তদন্ত তীব্র করে তোলে। এর ধারাবাহিকতায় অপরাধ তদন্ত বিভাগ বা সিআইডি অভিযান চালিয়ে বাংলাদেশ কৃষি গবেষণা কাউন্সিলের (বিএআরসি) ওই কর্মকর্তাকে গ্রেপ্তার করে।",
+        "details_en": "The recruitment examination for the post of assistant upazila youth development officer was scheduled for October 10. However, authorities were forced to postpone the test at the eleventh hour following widespread allegations of a question paper leak. Following the disruption, law enforcement agencies intensified investigations to dismantle the graft syndicate, culminating in the CID's operation and subsequent arrest of the BARC official."
       }
     },
     {
-      "story_id": "c74acb64-39d5-5f1c-a26a-4b1f9db45a25",
+      "story_id": "8ee404ae-ef05-5e00-9e61-558178b4d183",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -120,52 +121,52 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/coxbazar.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-21T00:02:27+00:00",
+      "published_at": "2026-10-21T05:18:19+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6983,
+      "rank_score": 0.9537,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1170397",
-          "title": "প্রচলিত ব্যাংকের ইসলামি শাখা-উইন্ডোতে আমানতের বড় লাফ",
-          "snippet": "প্রচলিত ব্যাংকের ইসলামি শাখা-উইন্ডোতে আমানতের বড় লাফ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/allegation-of-abduction-of-a-chhatra-dal-leaders-elder-brother-in-teknaf-following-the-firing-of-shots-into-the-air/",
+          "title": "ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার বড় ভাইকে অপহরণের অভিযোগ",
+          "snippet": "ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার বড় ভাইকে অপহরণের অভিযোগ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রচলিত ব্যাংকের ইসলামি শাখা ও উইন্ডোতে আমানত বৃদ্ধি পেয়েছে",
-        "title_en": "Deposits Surge in Islamic Branches and Windows of Conventional Banks",
-        "summary_bn": "দেশের পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত হ্রাস পেলেও প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলোতে আমানত প্রবাহ উল্লেখযোগ্য পরিমাণে বৃদ্ধি পেয়েছে।",
-        "summary_en": "Deposits in Islamic branches and windows of conventional banks have increased significantly despite a decline in full-fledged Islamic banks.",
-        "why_it_matters_bn": "গ্রাহকরা প্রচলিত ব্যাংকের ইসলামি সেবার মাধ্যমে আমানত সংরক্ষণে নতুন বিকল্প ও স্বাচ্ছন্দ্য পাচ্ছেন।",
-        "why_it_matters_en": "Savers and consumers gain alternative secure avenues for managing funds through Islamic windows in conventional banks.",
+        "title_bn": "টেকনাফে ফাঁকা গুলি ছুড়ে ছাত্রদল নেতার ভাইকে অপহরণ",
+        "title_en": "Chhatradol leader's brother abducted in Teknaf after blank shots fired",
+        "summary_bn": "**কক্সবাজারের টেকনাফে অস্ত্রধারীরা ফাঁকা গুলি চালিয়ে ছাত্রদল নেতার বড় ভাইকে জিম্মি করে পাহাড়ি এলাকায় অপহরণ করেছে।**",
+        "summary_en": "**Armed miscreants abducted a Chhatradol leader's elder brother after firing blank shots in the hilly area of Teknaf, Cox's Bazar.**",
+        "why_it_matters_bn": "এ ধরনের অপহরণের ঘটনা স্থানীয় পাহাড়ি ও সীমান্তবর্তী অঞ্চলের বাসিন্দাদের মধ্যে নিরাপত্তা নিয়ে চরম আতঙ্ক তৈরি করেছে।",
+        "why_it_matters_en": "Such abduction incidents create severe security concerns and panic among residents living in hilly and border areas.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T00:02:27+00:00",
-        "lead_bn": "দেশের পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত হ্রাস পেলেও প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলোতে আমানত প্রবাহ উল্লেখযোগ্য পরিমাণে বৃদ্ধি পেয়েছে।",
-        "lead_en": "Deposits in Islamic branches and windows of conventional banks have increased significantly despite a decline in full-fledged Islamic banks.",
+        "published_at": "2026-10-21T05:18:19+00:00",
+        "lead_bn": "**কক্সবাজারের টেকনাফে অস্ত্রধারীরা ফাঁকা গুলি চালিয়ে ছাত্রদল নেতার বড় ভাইকে জিম্মি করে পাহাড়ি এলাকায় অপহরণ করেছে।**",
+        "lead_en": "**Armed miscreants abducted a Chhatradol leader's elder brother after firing blank shots in the hilly area of Teknaf, Cox's Bazar.**",
         "bullets_bn": [
-          "১. পূর্ণাঙ্গ ইসলামি ব্যাংকগুলোতে আমানত কমলেও প্রচলিত ব্যাংকের ইসলামি শাখা ও উইন্ডোতে আমানত বেড়েছে।",
-          "২. গত এক বছরে প্রচলিত ধারার ব্যাংকগুলোর এই বিশেষ শাখাগুলোতে আমানতের পরিমাণ উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে।",
-          "৩. গ্রাহকদের আস্থার পরিবর্তনের কারণে ব্যাংক খাতের ইসলামি ব্যাংকিং কার্যক্রমে এই নতুন গতিশীলতা তৈরি হয়েছে।"
+          "১. টেকনাফের বাহারছড়া ইউনিয়নের চৌকিদার পাড়া এলাকায় দুই রাউন্ড ফাঁকা গুলি ছুড়ে মো. রফিককে অপহরণ করা হয়।",
+          "২. অপহৃত মো. রফিক বাহারছড়া উত্তর শাখা ছাত্রদলের সভাপতি আব্দুল্লাহ কায়সারের বড় ভাই।",
+          "৩. অপহৃত ব্যক্তিকে উদ্ধারে পাহাড়ি এলাকায় আইনশৃঙ্খলা রক্ষাকারী বাহিনীর অভিযান ও তল্লাশি শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "1. Deposits increased in Islamic branches and windows of conventional banks despite a drop in full-fledged Islamic banks.",
-          "2. A significant growth in deposits was recorded in these specialized windows over the past year.",
-          "3. This shift reflects changing customer preferences and confidence within the banking sector's Islamic operations."
+          "1. Md. Rafiq was abducted from the Chowkidar Para area of Baharchhara union in Teknaf after two blank shots were fired.",
+          "2. The victim Md. Rafiq is the elder brother of Abdullah Kaisar, president of the Baharchhara North branch Chhatradol.",
+          "3. Law enforcement agencies launched a search and rescue operation in the hilly terrain to rescue the abductee."
         ],
-        "impact_bn": "গ্রাহকরা প্রচলিত ব্যাংকের ইসলামি সেবার মাধ্যমে আমানত সংরক্ষণে নতুন বিকল্প ও স্বাচ্ছন্দ্য পাচ্ছেন।",
-        "impact_en": "Savers and consumers gain alternative secure avenues for managing funds through Islamic windows in conventional banks.",
-        "details_bn": "সাম্প্রতিক সময়ে দেশের ব্যাংক খাতে ইসলামি ব্যাংকিংয়ের প্রতি গ্রাহকদের ঝোঁক এবং আস্থার পরিসর পরিবর্তিত হয়েছে। পূর্ণাঙ্গ ইসলামি ব্যাংকগুলো যখন বিভিন্ন অনিয়ম ও তারল্য সংকটে ধুঁকছে, তখন প্রচলিত ধারার ব্যাংকগুলোর ইসলামি শাখা ও উইন্ডোগুলো তুলনামূলক নিরাপদ বিকল্প হিসেবে গ্রাহকদের আকৃষ্ট করছে। এর ফলে দেশের সামগ্রিক ব্যাংকিং কার্যক্রমে ইসলামি উইন্ডোগুলোর গুরুত্ব ও আমানতের প্রবৃদ্ধি ক্রমাগত বাড়ছে।",
-        "details_en": "In recent times, customer trust and preferences within the country's banking sector have experienced shifts. While full-fledged Islamic banks face governance and liquidity challenges, the Islamic branches and windows of conventional banks have emerged as safer alternatives, attracting steady inflows of deposits and altering traditional savings patterns."
+        "impact_bn": "এ ধরনের অপহরণের ঘটনা স্থানীয় পাহাড়ি ও সীমান্তবর্তী অঞ্চলের বাসিন্দাদের মধ্যে নিরাপত্তা নিয়ে চরম আতঙ্ক তৈরি করেছে।",
+        "impact_en": "Such abduction incidents create severe security concerns and panic among residents living in hilly and border areas.",
+        "details_bn": "কক্সবাজারের টেকনাফ ও এর আশেপাশের পাহাড়ি অঞ্চলে দীর্ঘদিন ধরে অপরাধী চক্র ও অস্ত্রধারীদের তৎপরতা রয়েছে। সাধারণ মানুষ ও স্থানীয় রাজনৈতিক নেতাকর্মীদের টার্গেট করে অপহরণ ও মুক্তিপণ আদায়ের ঘটনা এ অঞ্চলে প্রায়ই ঘটে থাকে। সাম্প্রতিক সময়ে আইনশৃঙ্খলা পরিস্থিতির অবনতির ফলে স্থানীয়দের মধ্যে আতঙ্ক বাড়ায় পুলিশ ও অন্যান্য বাহিনী পাহাড়ি এলাকায় নিরাপত্তা জোরদার করার উদ্যোগ নিয়েছে।",
+        "details_en": "Criminal gangs and armed groups have long been active in the hilly regions of Teknaf and surrounding areas in Cox's Bazar. Incidents targeting ordinary citizens and local political activists for abduction and ransom are frequent. Amid growing safety concerns due to recent security challenges, law enforcement agencies have stepped up patrols and search operations in the hilly terrain."
       }
     },
     {
-      "story_id": "44c37ee8-869e-5d76-abf8-69101c61a7a5",
+      "story_id": "706cf42b-6d98-57a6-9a0d-31a3cdca2075",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -176,104 +177,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T23:48:07+00:00",
+      "published_at": "2026-10-21T05:17:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6225,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170396",
-          "title": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
-          "snippet": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
-        "title_en": "Summary: ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
-        "summary_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
-        "summary_en": "A key development that impacts policy, regulatory frameworks, and citizen welfare.",
-        "why_it_matters_bn": "দেশের সার্বিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি তাৎপর্যপূর্ণ।",
-        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-20T23:48:07+00:00",
-        "lead_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
-        "lead_en": "Key executive and policy developments underway regarding ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন.",
-        "bullets_bn": [
-          "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ।",
-          "ওই যুবক নারী পরিচয়ে সখ্যতা গড়ে...",
-          "নীতিমালা ও আইনি প্রক্রিয়া অনুযায়ী পরবর্তী ব্যবস্থা গ্রহণ করা হবে।"
-        ],
-        "bullets_en": [
-          "Core Event: ইনস্টাগ্রাম-ফেসবুকে নারী পরিচয়ে ২৭ ফেইক আইডি, হানিট্র্যাপে পড়লেন ৮২ জন",
-          "Official bodies and stakeholders are coordinating on executive procedures.",
-          "Follow-up directives are expected following departmental review."
-        ],
-        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
-        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
-        "details_bn": "ভারতের তেলেঙ্গনার হায়দারাবাদে হানিট্র্যাপ পরিচালনা ও সামাজিক যোগাযোগমাধ্যমে নারী সেজে বিভিন্ন ব্যক্তিকে তাদের অন্তরঙ্গ ছবি ও ভিডিও দিয়ে ব্ল্যাকমেইল করার দায়ে এক যুবককে গ্রেফতার করেছে পুলিশ। ওই যুবক নারী পরিচয়ে সখ্যতা গড়ে...",
-        "details_en": null
-      }
-    },
-    {
-      "story_id": "f9a3ccbb-1284-56f7-95af-15919b978087",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-20T23:40:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5886,
+      "rank_score": 0.9431,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/975791/%E0%A6%B8%E0%A6%AC-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87",
-          "title": "সব শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনায় বসবে না ইরান",
-          "snippet": "সব শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনায় বসবে না ইরান"
+          "url": "https://www.banglatribune.com/country/rangpur/975810/%E0%A6%B9%E0%A6%BF%E0%A6%B2%E0%A6%BF-%E0%A6%B8%E0%A7%80%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BC-%E0%A6%95%E0%A6%BE%E0%A6%81%E0%A6%9F%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87",
+          "title": "হিলি সীমান্তে দর্শনার্থীদের ভিড়, কাঁটাতারের ওপারে স্বজন-এপারে আক্ষেপ",
+          "snippet": "হিলি সীমান্তে দর্শনার্থীদের ভিড়, কাঁটাতারের ওপারে স্বজন-এপারে আক্ষেপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শর্ত পূরণ না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে আলোচনা করবে না ইরান",
-        "title_en": "Iran Will Not Hold Talks With US Until Conditions Are Met",
-        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে আলোচনা শুরুর আগে ওয়াশিংটনকে ইরানের আস্থা পুনর্গঠনের শর্ত পূরণ করতে হবে বলে সাফ জানিয়ে দিয়েছে তেহরান।",
-        "summary_en": "Tehran has declared that Washington must fulfill trust-building conditions before starting any negotiations with Iran.",
-        "why_it_matters_bn": "১. ইরানের সব শর্ত বাস্তবায়িত না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে কোনো বৈঠকে বসবে না তেহরান।",
-        "why_it_matters_en": "1. Tehran will not sit for any talks with the US until all of Iran's conditions are fully met.",
+        "title_bn": "শারদীয় দুর্গোৎসবে হিলি সীমান্তে দর্শনার্থীদের উপচেপড়া ভিড় ও স্বজন সাক্ষাতের আক্ষেপ",
+        "title_en": "Hili Border Sees Visitor Crowds and Regret Over Unmet Relatives During Durga Puja",
+        "summary_bn": "শারদীয় দুর্গাপূজাকে কেন্দ্র করে দিনাজপুরের হিলি সীমান্তে প্রতিমা দেখতে এবং ওপারে থাকা স্বজনদের সাথে দেখা করতে দর্শনার্থীরা ভিড় জমিয়েছেন।",
+        "summary_en": "Visitors crowded the Hili border in Dinajpur during Durga Puja to view idols and catch glimpses of relatives across the border.",
+        "why_it_matters_bn": "সীমান্তবর্তী এলাকার দর্শনার্থী ও সাধারণ মানুষ প্রিয়জনদের সাথে সরাসরি দেখা করতে না পারার মানসিক হতাশায় ভুগেছেন।",
+        "why_it_matters_en": "Visitors and ordinary people faced emotional disappointment due to not being able to meet their loved ones directly.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T23:40:40+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে আলোচনা শুরুর আগে ওয়াশিংটনকে ইরানের আস্থা পুনর্গঠনের শর্ত পূরণ করতে হবে বলে সাফ জানিয়ে দিয়েছে তেহরান।",
-        "lead_en": "Tehran has declared that Washington must fulfill trust-building conditions before starting any negotiations with Iran.",
+        "published_at": "2026-10-21T05:17:16+00:00",
+        "lead_bn": "শারদীয় দুর্গাপূজাকে কেন্দ্র করে দিনাজপুরের হিলি সীমান্তে প্রতিমা দেখতে এবং ওপারে থাকা স্বজনদের সাথে দেখা করতে দর্শনার্থীরা ভিড় জমিয়েছেন।",
+        "lead_en": "Visitors crowded the Hili border in Dinajpur during Durga Puja to view idols and catch glimpses of relatives across the border.",
         "bullets_bn": [
-          "১. ইরানের সব শর্ত বাস্তবায়িত না হওয়া পর্যন্ত যুক্তরাষ্ট্রের সঙ্গে কোনো বৈঠকে বসবে না তেহরান।",
-          "২. দেশটির সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সচিব মেজর জেনারেল মোহসেন রেজাই এই অবস্থান স্পষ্ট করেছেন।",
-          "৩. ওয়াশিংটনকে আগে নিজেদের সদিচ্ছা প্রমাণ ও আস্থা পুনর্গঠনের দৃশ্যমান পদক্ষেপ নিতে হবে।"
+          "১. দেশের বিভিন্ন প্রান্ত থেকে দর্শনার্থীরা দিনাজপুরের হিলি সীমান্তের শূন্যরেখার কাছাকাছি এলাকায় জড়ো হন।",
+          "২. সীমান্তে কঠোর নিরাপত্তার কারণে দর্শনার্থীরা ওপারে থাকা আত্মীয়স্বজনের কাছে যেতে পারেননি।",
+          "৩. দূর থেকে হাত নেড়ে অভিবাদন জানিয়ে আক্ষেপ নিয়ে বাড়ি ফিরতে বাধ্য হন সাধারণ মানুষ।"
         ],
         "bullets_en": [
-          "1. Tehran will not sit for any talks with the US until all of Iran's conditions are fully met.",
-          "2. Major General Mohsen Rezaei, Secretary of Iran's Supreme National Security Council, clarified this strict stance.",
-          "3. Washington must first take visible steps to prove good faith and rebuild mutual trust."
+          "1. Visitors from various parts of the country gathered near the zero line of the Hili border in Dinajpur.",
+          "2. Due to strict border security, visitors were unable to cross over to meet their relatives.",
+          "3. People were forced to return home with regret after only exchanging distant waves and greetings."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই যুক্তরাষ্ট্র ও ইরানের সম্পর্কের এই নতুন অচলাবস্থা তৈরি হয়েছে। এর আগে গত মাসে কাতারের মধ্যস্থতায় দুই দেশের মধ্যে বন্দী বিনিময় বা পরোক্ষ যোগাযোগের নানা উদ্যোগের কথা গণমাধ্যমে এলেও তেহরান এখন কঠোর শর্তের বেড়াজাল থেকে সরে আসতে নারাজ। ওয়াশিংটনের প্রতি অনাস্থা এবং পূর্বের বিভিন্ন চুক্তির বরখেলাপের কারণে তেহরান এই অনমনীয় অবস্থান বজায় রেখেছে।",
-        "details_en": "This new stalemate in US-Iran relations comes amid ongoing geopolitical tensions in the Middle East. Although reports last month indicated indirect contacts or prisoner exchange initiatives mediated by Qatar, Tehran remains firm on its strict preconditions. This uncompromising stance stems from deep-rooted distrust of Washington and past grievances regarding broken diplomatic agreements."
+        "impact_bn": "সীমান্তবর্তী এলাকার দর্শনার্থী ও সাধারণ মানুষ প্রিয়জনদের সাথে সরাসরি দেখা করতে না পারার মানসিক হতাশায় ভুগেছেন।",
+        "impact_en": "Visitors and ordinary people faced emotional disappointment due to not being able to meet their loved ones directly.",
+        "details_bn": "দিনাজপুরের হিলি সীমান্তে শারদীয় দুর্গাপূজার সময় ভারত ও বাংলাদেশের সীমান্তবর্তী মানুষদের মধ্যে এমন আবেগঘন দৃশ্য নিয়মিত দেখা যায়। দুই দেশের আত্মিক সম্পর্ক ও আত্মীয়তার বন্ধন থাকা সত্ত্বেও কঠোর সীমান্ত সুরক্ষার কারণে দর্শনার্থীরা কেবল দূর থেকেই একে অপরকে দেখার সুযোগ পান। প্রতি বছর উৎসবের দিনে এই সীমান্তে স্বজনদের এক পলক দেখার জন্য সাধারণ মানুষের ভিড় জমে।",
+        "details_en": "Such emotional scenes are common between border communities of Bangladesh and India during Durga Puja at the Hili border. Despite strong familial ties across the two countries, strict border security limits visitors to observing from a distance. Every year during festivals, crowds gather at this border simply to catch a glimpse of their relatives."
       }
     },
     {
-      "story_id": "abcceaab-38e1-5e20-82b3-7208ddd84090",
+      "story_id": "76c34309-8e08-5c2d-b9a4-e4fbeaf2c315",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -282,48 +229,102 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-20%2Fyfc5r03z%2Fpexels-tarik-sami-2136439315-33169785.jpg?rect=0%2C936%2C6919%2C3632&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-20T22:30:00+00:00",
+      "published_at": "2026-10-21T05:11:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.3802,
+      "rank_score": 0.8877,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/islam/qvv9mu9exa",
-          "title": "মহানবীর কূটনৈতিক সাফল্য",
-          "snippet": "মহানবীর কূটনৈতিক সাফল্য"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/jago-jobs/news/1170448",
+          "title": "মদিনা গ্রুপে ম্যানেজার পদে নিয়োগ, কর্মস্থল গাজীপুর",
+          "snippet": "মদিনা গ্রুপে ম্যানেজার পদে নিয়োগ, কর্মস্থল গাজীপুর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসলামের ইতিহাসে নবম হিজরি প্রতিনিধিদলের বছর বা 'আমুল উফুদ' হিসেবে পরিচিত",
-        "title_en": "The Ninth Hijri Year Known as 'Amul Ufud' or Year of Delegations in Islamic History",
-        "summary_bn": "মক্কা বিজয়ের পর নবম হিজরিতে আরবজুড়ে বিভিন্ন প্রতিনিধিদলের মদিনায় আগমনের জোয়ার সৃষ্টি হয় যা ইসলামের ইতিহাসে আমুল উফুদ নামে খ্যাত।",
-        "summary_en": "Following the Conquest of Mecca, the ninth Hijri year marked a massive influx of delegations to Medina, known in Islamic history as Amul Ufud.",
-        "why_it_matters_bn": "১. আরবের বিভিন্ন অঞ্চল থেকে ইসলাম ধর্ম গ্রহণ, আনুগত্য প্রকাশ ও আলোচনার জন্য প্রতিনিধিদল মদিনায় আগমন করে।",
-        "why_it_matters_en": "1. Delegations from various regions of Arabia arrived in Medina to embrace Islam, pledge allegiance, and hold discussions.",
+        "title_bn": "মদিনা গ্রুপে ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ",
+        "title_en": "Medina Group issues job circular for Deputy and Assistant Manager positions",
+        "summary_bn": "শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ গাজীপুরে কাজের জন্য ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "Leading industrial conglomerate Medina Group has issued a job circular to recruit personnel for Deputy and Assistant Manager positions in Gazipur.",
+        "why_it_matters_bn": "বেকার যুবকদের জন্য গাজীপুরে কর্মসংস্থানের নতুন সুযোগ তৈরি হয়েছে।",
+        "why_it_matters_en": "New employment opportunities have been created for job-seeking youths in Gazipur.",
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-20T22:30:00+00:00",
-        "lead_bn": "মক্কা বিজয়ের পর নবম হিজরিতে আরবজুড়ে বিভিন্ন প্রতিনিধিদলের মদিনায় আগমনের জোয়ার সৃষ্টি হয় যা ইসলামের ইতিহাসে আমুল উফুদ নামে খ্যাত।",
-        "lead_en": "Following the Conquest of Mecca, the ninth Hijri year marked a massive influx of delegations to Medina, known in Islamic history as Amul Ufud.",
+        "published_at": "2026-10-21T05:11:24+00:00",
+        "lead_bn": "শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ গাজীপুরে কাজের জন্য ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "Leading industrial conglomerate Medina Group has issued a job circular to recruit personnel for Deputy and Assistant Manager positions in Gazipur.",
         "bullets_bn": [
-          "১. আরবের বিভিন্ন অঞ্চল থেকে ইসলাম ধর্ম গ্রহণ, আনুগত্য প্রকাশ ও আলোচনার জন্য প্রতিনিধিদল মদিনায় আগমন করে।",
-          "২. ইবনে হিশামের সিরাত গ্রন্থ অনুযায়ী মক্কা বিজয় ও তায়েফবাসীর ইসলাম গ্রহণের পর প্রতিনিধিদলের আগমন বহুগুণ বৃদ্ধি পায়।",
-          "৩. রাসুল (সা.) পরিস্থিতি অনুযায়ী যুক্তি, আন্তরিক অভ্যর্থনা ও বাস্তবসম্মত সিদ্ধান্তের মাধ্যমে আগত প্রতিনিধিদের সঙ্গে সম্পর্ক স্থাপন করেন।"
+          "১. মদিনা গ্রুপে ডেপুটি ম্যানেজার বা অ্যাসিস্ট্যান্ট ম্যানেজার পদে জনবল নিয়োগের প্রক্রিয়া শুরু হয়েছে।",
+          "২. আগ্রহী প্রার্থীরা নির্দিষ্ট যোগ্যতা সাপেক্ষে আগামী ১৮ নভেম্বর পর্যন্ত আবেদন করতে পারবেন।",
+          "৩. নির্বাচিত প্রার্থীদের কর্মস্থল হবে গাজীপুর।"
         ],
         "bullets_en": [
-          "1. Delegations from various regions of Arabia arrived in Medina to embrace Islam, pledge allegiance, and hold discussions.",
-          "2. According to historical records in Ibn Hisham's Sirah, the arrival of delegations surged following the Conquest of Mecca and Taif.",
-          "3. The Prophet Muhammad handled each delegation with contextual wisdom, sincere hospitality, and pragmatic decision-making."
+          "1. Medina Group has initiated the recruitment process for Deputy and Assistant Manager positions.",
+          "2. Eligible candidates can submit their applications until November 18.",
+          "3. The designated workplace for the selected candidates will be in Gazipur."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মক্কা বিজয়ের আগে আরবের বিভিন্ন গোত্র কোরাইশদের সঙ্গে মুসলমানদের সংঘাতের পরিণতি পর্যবেক্ষণের জন্য সতর্ক অবস্থানে ছিল। অষ্টম হিজরিতে মক্কা বিজয় এবং পরবর্তী ঐতিহাসিক ঘটনাপ্রবাহ আরব উপদ্বীপের রাজনৈতিক ও সামাজিক পরিস্থিতিতে যুগান্তকারী পরিবর্তন আনে। পবিত্র কুরআনের সুরা নাসরে এই বিজয়ের মাধ্যমে মানুষের দলে দলে ইসলামে প্রবেশের বিষয়টি স্পষ্টভাবে উল্লেখ করা হয়েছে। এর ধারাবাহিকতায় নবম হিজরিতে বিভিন্ন গোত্রের প্রতিনিধিদলের আগমন নজিরবিহীনভাবে বৃদ্ধি পায়।",
-        "details_en": "Before the Conquest of Mecca, many Arabian tribes adopted a cautious stance, waiting to see the outcome of the conflict between the Quraysh and Muslims. The conquest in the eighth Hijri year and subsequent events dramatically transformed the political and social landscape of Arabia. This mass entry of people into Islam was foretold in Surah An-Nasr. Consequently, the influx of tribal delegations peaked significantly during the ninth Hijri year."
+        "impact_bn": "বেকার যুবকদের জন্য গাজীপুরে কর্মসংস্থানের নতুন সুযোগ তৈরি হয়েছে।",
+        "impact_en": "New employment opportunities have been created for job-seeking youths in Gazipur.",
+        "details_bn": "দেশের অন্যতম শীর্ষস্থানীয় শিল্পপ্রতিষ্ঠান মদিনা গ্রুপ নিয়মিত বিভিন্ন পদে দক্ষ জনবল নিয়োগ দিয়ে আসছে। এরই ধারাবাহিকতায় প্রতিষ্ঠানটি তাদের উৎপাদন ও ব্যবস্থাপনা কার্যক্রম আরও গতিশীল করতে গাজীপুর কর্মস্থলের জন্য এই নিয়োগ বিজ্ঞপ্তি প্রকাশ করেছে। দেশের শিক্ষিত বেকার তরুণদের কর্মসংস্থানে এটি একটি ইতিবাচক সুযোগ।",
+        "details_en": "As one of the country's leading industrial conglomerates, Medina Group regularly recruits skilled professionals across various positions. Continuing this trend, the company has published this circular for Gazipur to further streamline its production and management operations, creating positive employment opportunities for educated youth."
+      }
+    },
+    {
+      "story_id": "8e735517-2e38-5f30-9b45-41751c9a5f1e",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Ffhmsg9yr%2FUntitled-3.jpg?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-21T05:06:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8416,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://nagorik.prothomalo.com/durporobash/291hxj6qf6",
+          "title": "আলো যখন মস্তিষ্কের নিয়ন্ত্রক: গল্পের শুরু একটি সবুজ শৈবাল থেকে",
+          "snippet": "আলো যখন মস্তিষ্কের নিয়ন্ত্রক: গল্পের শুরু একটি সবুজ শৈবাল থেকে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কারের জন্য তিন বিজ্ঞানী পেলেন ২০২৬ সালের নোবেল",
+        "title_en": "Three Scientists Win 2026 Nobel Prize for Optogenetics Discovery",
+        "summary_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কার এবং মস্তিষ্কের স্নায়ুকোষ আলো দিয়ে নিয়ন্ত্রール করার পদ্ধতি উদ্ভাবনের জন্য তিন বিজ্ঞানী ২০২৬ সালের চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার লাভ করেছেন।",
+        "summary_en": "Three scientists won the 2026 Nobel Prize in Physiology or Medicine for pioneering optogenetics and controlling brain neurons using light.",
+        "why_it_matters_bn": "এই প্রযুক্তি স্নায়ুবিজ্ঞান ও মস্তিষ্কের জটিল রোগ নিরাময়ের গবেষণায় বিপ্লব ঘটিয়ে মানুষের স্বাস্থ্যসেবায় দীর্ঘমেয়াদি ভূমিকা রাখবে।",
+        "why_it_matters_en": "This technology revolutionizes neuroscience and brain disorder research, paving the way for advanced neurological treatments.",
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T05:06:00+00:00",
+        "lead_bn": "আলোক-জিনপ্রযুক্তি আবিষ্কার এবং মস্তিষ্কের স্নায়ুকোষ আলো দিয়ে নিয়ন্ত্রール করার পদ্ধতি উদ্ভাবনের জন্য তিন বিজ্ঞানী ২০২৬ সালের চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার লাভ করেছেন।",
+        "lead_en": "Three scientists won the 2026 Nobel Prize in Physiology or Medicine for pioneering optogenetics and controlling brain neurons using light.",
+        "bullets_bn": [
+          "১. কার্ল ডাইসেরথ, পিটার হেগেমান ও গেয়র্গ নাগেল যৌথভাবে ২০২৬ সালের শারীরতত্ত্ব বা চিকিৎসাবিজ্ঞানে নোবেল পুরস্কার অর্জন করেছেন।",
+          "২. ক্ল্যামাইডোমোনাস নামক সবুজ শৈবালে থাকা ‘চ্যানেলরোডপসিন’ প্রোটিনের কার্যকারিতা নিয়ে দীর্ঘ গবেষণার মাধ্যমে এই প্রযুক্তি বিকশিত হয়।",
+          "৩. এই আবিষ্কারের ফলে জীবন্ত প্রাণীর মস্তিষ্কের নির্দিষ্ট স্নায়ুকোষ আলো দিয়ে অতিদ্রুত চালু বা বন্ধ করা সম্ভব হচ্ছে।"
+        ],
+        "bullets_en": [
+          "1. Karl Deisseroth, Peter Hegemann, and Georg Nagel jointly won the 2026 Nobel Prize in Physiology or Medicine.",
+          "2. The breakthrough technology developed from studying the 'channelrhodopsin' protein found in the green alga Chlamydomonas.",
+          "3. The innovation enables scientists to activate or deactivate specific neurons in living brains using light."
+        ],
+        "impact_bn": "এই প্রযুক্তি স্নায়ুবিজ্ঞান ও মস্তিষ্কের জটিল রোগ নিরাময়ের গবেষণায় বিপ্লব ঘটিয়ে মানুষের স্বাস্থ্যসেবায় দীর্ঘমেয়াদি ভূমিকা রাখবে।",
+        "impact_en": "This technology revolutionizes neuroscience and brain disorder research, paving the way for advanced neurological treatments.",
+        "details_bn": "মানুষের মস্তিষ্কে প্রায় ৮ হাজার ৬০০ কোটি স্নায়ুকোষ বৈদ্যুতিক ও রাসায়নিক সংকেত আদান-প্রদান করে। মস্তিষ্কের নির্দিষ্ট স্নায়ুবর্তনী বা কোষের ভূমিকা জানতে বিজ্ঞানীরা দীর্ঘদিন ধরে কাজ করছিলেন। এককোষী সবুজ শৈবাল ক্ল্যামাইডোমোনাসের আলোকসংবেদনশীলতা নিয়ে পিটার হেগেমান ও অন্য গবেষকদের কাজের ওপর ভিত্তি করে এই যুগান্তকারী আলোক-জিনপ্রযুক্তি বা অপটোজেনেটিকস বিকশিত হয়, যা আধুনিক স্নায়ুবিজ্ঞানে নতুন দিগন্ত উন্মোচন করেছে।",
+        "details_en": "The human brain contains approximately 86 billion neurons communicating via electrical and chemical signals. Understanding specific neural circuits has long challenged neuroscientists. Building on research into the light sensitivity of the single-celled green alga Chlamydomonas by Peter Hegemann and others, this groundbreaking optogenetics technology was developed, revolutionizing modern neuroscience."
       }
     }
   ]
