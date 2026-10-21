@@ -484,33 +484,6 @@ export const BroadsheetFrontPage: React.FC = () => {
               })}
             </div>
           </div>
-
-          {/* Macro Telemetry Register Box */}
-          <div className="mt-4 pt-3 border-t-2 border-primary">
-            <div className="bg-surface-container-high border border-outline-variant p-3 rounded">
-              <div className="flex items-center justify-between mb-1">
-                <span className="font-label-sm text-label-sm uppercase font-bold text-primary">
-                  {isBn ? 'সামষ্টিক টেলিমেট্রি রেজিস্টার' : 'Macro Telemetry Register'}
-                </span>
-                <span className="bg-secondary text-on-secondary px-1.5 py-0.2 text-[10px] font-bold rounded">
-                  REGISTER #46
-                </span>
-              </div>
-              <p className="font-serif text-xs text-on-surface mb-2">
-                <strong>{isBn ? 'আইএমএফ BPM6 রিজার্ভ মানদণ্ড:' : 'BPM6 Reserve Standard:'}</strong>{' '}
-                {isBn 
-                  ? 'কেন্দ্রীয় ব্যাংকের মোট বনাম প্রকৃত ব্যবহারযোগ্য বৈদেশিক মুদ্রা রিজার্ভের হিসাব ও স্বল্পমেয়াদি ঋণ কভারেজ মেট্রিক্স।'
-                  : 'Central bank gross vs. net usable foreign reserves differential and short-term debt cover metrics.'}
-              </p>
-              <button 
-                onClick={() => heroStory && openStory(heroStory)}
-                className="text-primary font-bold font-label-sm text-label-sm uppercase hover:underline inline-flex items-center gap-1 cursor-pointer"
-              >
-                <span>{isBn ? 'বিশ্লেষণ পড়ুন' : 'Read Full Analysis'}</span>
-                <span>&rarr;</span>
-              </button>
-            </div>
-          </div>
         </section>
       </div>
 
