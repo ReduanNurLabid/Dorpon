@@ -254,45 +254,6 @@ export const StudyCanvasModal: React.FC = () => {
           )}
           {/* END: CoreTakeawayIntelligence */}
 
-          {/* BEGIN: WhyItMattersBox */}
-          {whyItMatters && (
-            <section className="bg-paper-ochre ink-border-double p-4 sm:p-5 relative" data-purpose="tier-2-why-it-matters">
-              <div className="flex items-center gap-2 mb-2 font-sans text-xs font-bold uppercase tracking-wider text-accent-amber">
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
-                  <path d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" strokeLinecap="round" strokeLinejoin="round"></path>
-                </svg>
-                <span>{isBn ? 'কেন এটি তাৎপর্যপূর্ণ — নির্বাহী বিশ্লেষণ' : 'Why It Matters — Executive Synthesis'}</span>
-              </div>
-              <p className="font-serif text-base sm:text-[17px] text-ink leading-relaxed font-normal">
-                {whyItMatters}
-              </p>
-
-              {/* Jurisprudential / Constitutional Policy Anchor */}
-              {bcs && bcs.constitutional_articles && bcs.constitutional_articles.length > 0 ? (
-                <div className="mt-3 pt-2.5 border-t border-ink/20 font-sans text-xs text-ink-muted flex items-start gap-1.5">
-                  <span className="font-semibold uppercase tracking-wider text-ink text-[10px]">
-                    {isBn ? 'সাংবিধানিক প্রাসঙ্গিকতা:' : 'Institutional Nexus:'}
-                  </span>
-                  <span>
-                    {bcs.constitutional_articles[0].article_number} ({isBn ? bcs.constitutional_articles[0].article_title_bn : bcs.constitutional_articles[0].article_title_en}) — {bcs.constitutional_articles[0].legal_relevance}
-                  </span>
-                </div>
-              ) : (
-                <div className="mt-3 pt-2.5 border-t border-ink/20 font-sans text-xs text-ink-muted flex items-start gap-1.5">
-                  <span className="font-semibold uppercase tracking-wider text-ink text-[10px]">
-                    {isBn ? 'প্রাতিষ্ঠানিক সংযোগ:' : 'Institutional Nexus:'}
-                  </span>
-                  <span>
-                    {isBn
-                      ? 'জাতীয় নীতি সুরক্ষা, সুশাসন ও নির্বাহী নির্দেশিকা কাঠামোর অধীন।'
-                      : 'Executive Governance, Public Interest Oversight & Regulatory Compliance Protocol.'}
-                  </span>
-                </div>
-              )}
-            </section>
-          )}
-          {/* END: WhyItMattersBox */}
-
           {/* BEGIN: CoreContextAndNewsWireImage */}
           <section className="space-y-4" data-purpose="tier-3-core-narrative">
             {coreStory && (

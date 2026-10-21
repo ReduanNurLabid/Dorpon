@@ -185,19 +185,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </div>
                   )}
 
-                  {/* TIER 2: Why It Matters */}
-                  {whyItMatters && (
-                    <div className="rounded border-l-2 border-secondary bg-surface-container p-2.5 mb-2.5">
-                      <div className="flex items-center gap-1 font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">
-                        <Lightbulb className="w-3.5 h-3.5 text-amber-600" />
-                        <span>{isBn ? 'কেন এটি গুরুত্বপূর্ণ' : 'Why It Matters'}</span>
-                      </div>
-                      <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
-                        {whyItMatters}
-                      </p>
-                    </div>
-                  )}
-
                   {/* TIER 3: The Core Story & Sources */}
                   <div className="pt-1">
                     <div className="font-label-sm text-label-sm uppercase font-bold text-outline mb-1">
@@ -313,19 +300,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                       );
                     })}
                   </ul>
-                </div>
-              )}
-
-              {/* TIER 2: Why It Matters (Tinted Box) */}
-              {getWhyItMatters(heroStory) && (
-                <div className="rounded-lg border-2 border-primary/20 bg-surface-container p-4 mb-4">
-                  <div className="flex items-center gap-1.5 font-label-md text-label-md font-bold uppercase text-on-tertiary-container mb-1.5">
-                    <Lightbulb className="w-4 h-4 text-amber-600" />
-                    <span>{isBn ? 'কেন এটি তাৎপর্যপূর্ণ' : 'Why It Matters'}</span>
-                  </div>
-                  <p className="font-serif text-sm sm:text-[15px] text-on-surface-variant leading-relaxed">
-                    {getWhyItMatters(heroStory)}
-                  </p>
                 </div>
               )}
 
@@ -452,12 +426,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                       </div>
                     )}
 
-                    {whyItMatters && (
-                      <div className="bg-surface-container p-1.5 border-l border-primary font-serif text-xs text-on-surface-variant mb-1.5">
-                        <strong>{isBn ? 'গুরুত্ব:' : 'Why It Matters:'}</strong> {whyItMatters}
-                      </div>
-                    )}
-
                     <div 
                       onClick={() => openStory(wire)}
                       className="font-serif text-xs text-on-surface leading-snug mb-1 line-clamp-2 hover:text-secondary cursor-pointer"
@@ -548,18 +516,6 @@ export const BroadsheetFrontPage: React.FC = () => {
                         </li>
                       ))}
                     </ul>
-                  </div>
-                )}
-
-                {/* Tier 2 */}
-                {whyItMatters && (
-                  <div className="rounded border-l-2 border-primary bg-surface-container p-2.5 mb-2.5">
-                    <div className="font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">
-                      {isBn ? 'কেন এটি গুরুত্বপূর্ণ' : 'Why It Matters'}
-                    </div>
-                    <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
-                      {whyItMatters}
-                    </p>
                   </div>
                 )}
 

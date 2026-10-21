@@ -139,18 +139,6 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
           </div>
         )}
 
-        {/* Tier 2: Why it matters */}
-        {whyItMatters && (
-          <div className="rounded border-l-2 border-secondary bg-surface-container p-2.5 mb-2.5">
-            <div className="font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5 flex items-center gap-1">
-              <Lightbulb className="w-3 h-3 text-amber-600" />
-              <span>{isBn ? 'কেন এটি গুরুত্বপূর্ণ' : 'Why It Matters'}</span>
-            </div>
-            <p className="font-serif text-xs text-on-surface-variant line-clamp-2 leading-relaxed">
-              {whyItMatters}
-            </p>
-          </div>
-        )}
       </div>
 
       {/* Footer bar */}
