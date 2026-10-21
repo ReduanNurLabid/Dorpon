@@ -161,8 +161,8 @@ export const Header: React.FC = () => {
             </h1>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
-                ? 'শীর্ষ জাতীয় সংবাদমাধ্যমের সমন্বয়ে এআই-চালিত স্বয়ংক্রিয় সারসংক্ষেপ ও নির্বাহী ব্রিফিং' 
-                : 'AI-Synthesized Executive Briefings & Multi-Source Intelligence from Bangladesh’s Leading Media'}
+                ? 'আপনার সময়ের মূল্য দিয়ে—শীর্ষ সংবাদমাধ্যমের সূত্রসহ যাচাইকৃত ও কিউরেট করা প্রয়োজনীয় সংবাদের সারসংক্ষেপ' 
+                : 'Essential News, Rigorously Sourced & Curated — Respecting Your Time With What Actually Matters'}
             </p>
           </div>
 
