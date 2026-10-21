@@ -48,10 +48,12 @@ export const StudyCanvasModal: React.FC = () => {
     isPlayingAudio,
     currentAudioStory,
     audioProgress,
+    seekAudio,
     t,
   } = useApp();
 
   const [copied, setCopied] = useState(false);
+  const [scrollProgress, setScrollProgress] = useState(0);
   const [insightfulCount, setInsightfulCount] = useState(142);
   const [hasVotedInsightful, setHasVotedInsightful] = useState(false);
   const [highYieldCount, setHighYieldCount] = useState(89);
@@ -260,10 +262,28 @@ export const StudyCanvasModal: React.FC = () => {
               <X className="w-4 h-4" />
             </button>
           </div>
+
+          {/* Reading Scroll Progress Bar across top of News Modal */}
+          <div className="absolute bottom-0 left-0 right-0 h-[2px] bg-white/[0.08] overflow-hidden">
+            <div 
+              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_8px_rgba(52,211,153,0.8)] transition-all duration-75"
+              style={{ width: `${scrollProgress}%` }}
+            />
+          </div>
         </div>
 
         {/* Scrollable Canvas Body */}
-        <div className="flex-1 overflow-y-auto px-5 sm:px-10 py-6 sm:py-8 space-y-8 pb-28">
+        <div 
+          onScroll={(e) => {
+            const el = e.currentTarget;
+            const maxScroll = el.scrollHeight - el.clientHeight;
+            if (maxScroll > 0) {
+              const pct = Math.min(100, Math.max(0, (el.scrollTop / maxScroll) * 100));
+              setScrollProgress(pct);
+            }
+          }}
+          className="flex-1 overflow-y-auto px-5 sm:px-10 py-6 sm:py-8 space-y-8 pb-28"
+        >
           
           {/* Integrated Audio Bar */}
           <div className="p-3.5 sm:p-4 rounded-tile bg-white/[0.03] border border-mint/30 flex items-center justify-between gap-3 shadow-lg">
@@ -285,10 +305,20 @@ export const StudyCanvasModal: React.FC = () => {
             </div>
 
             {isAudioCurrentStory && (
-              <div className="w-24 sm:w-36 h-1.5 bg-white/10 rounded-full overflow-hidden flex-shrink-0">
+              <div 
+                onClick={(e) => {
+                  e.stopPropagation();
+                  const rect = e.currentTarget.getBoundingClientRect();
+                  const clickX = e.clientX - rect.left;
+                  const pct = Math.max(0, Math.min(100, (clickX / rect.width) * 100));
+                  seekAudio(pct);
+                }}
+                className="w-28 sm:w-44 h-2 bg-white/10 rounded-full overflow-hidden flex-shrink-0 cursor-pointer relative group"
+                title="Click to scrub audio"
+              >
                 <div
-                  className="h-full bg-mint transition-all duration-300"
-                  style={{ width: `${audioProgress}%` }}
+                  className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_8px_rgba(52,211,153,0.7)] transition-all duration-100"
+                  style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
                 />
               </div>
             )}

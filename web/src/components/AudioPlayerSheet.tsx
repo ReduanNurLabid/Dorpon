@@ -33,6 +33,7 @@ export const AudioPlayerSheet: React.FC = () => {
     audioDuration,
     audioPlaybackRate,
     audioHeartbeatScale,
+    audioAnalyser,
     setAudioPlaybackRate,
     buzzStories,
     playStoryAudio,
@@ -107,7 +108,7 @@ export const AudioPlayerSheet: React.FC = () => {
             boxShadow: isPlayingAudio ? '0 0 28px rgba(52, 211, 153, 0.22), inset 0 0 16px rgba(52, 211, 153, 0.08)' : 'none',
           }}
         >
-          <HeartbeatVisualizer isPlaying={isPlayingAudio} scale={audioHeartbeatScale} />
+          <HeartbeatVisualizer analyser={audioAnalyser} isPlaying={isPlayingAudio} scale={audioHeartbeatScale} />
         </div>
 
         {/* Current Story Metadata */}

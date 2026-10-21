@@ -43,6 +43,7 @@ interface AppContextType {
   audioDuration: number; // total duration in seconds
   audioPlaybackRate: number;
   audioHeartbeatScale: number; // 1.0 to 1.8 dynamic scale for heartbeat animation
+  audioAnalyser: AnalyserNode | null;
   setAudioPlaybackRate: (rate: number) => void;
   playStoryAudio: (story: CapsuleStory) => void;
   pauseAudio: () => void;
@@ -96,6 +97,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [audioTimeRemaining, setAudioTimeRemaining] = useState<number>(45);
   const [audioPlaybackRate, setAudioPlaybackRateState] = useState<number>(1.0);
   const [audioHeartbeatScale, setAudioHeartbeatScale] = useState<number>(1.0);
+  const [audioAnalyser, setAudioAnalyserState] = useState<AnalyserNode | null>(null);
 
   // Audio Elements & Context References
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -105,8 +107,6 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const animFrameRef = useRef<number | null>(null);
   const chimeAudioRef = useRef<HTMLAudioElement | null>(null);
   const synthRef = useRef<SpeechSynthesis | null>(null);
-  const audioPlaylistRef = useRef<string[]>([]);
-  const chunkIndexRef = useRef<number>(0);
   const audioDurationRef = useRef<number>(45);
 
   useEffect(() => {
@@ -122,24 +122,21 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       synthRef.current = window.speechSynthesis;
     }
 
-    // Exact progress and time listeners across chunked playlists
+    // Exact progress and time listeners matching Voice Studio
     audio.ontimeupdate = () => {
       const cur = audio.currentTime;
       const dur = audio.duration;
-      const totalChunks = audioPlaylistRef.current.length || 1;
-      const currentChunk = chunkIndexRef.current;
+      const totalDur = (dur && isFinite(dur) && dur > 0) ? dur : (audioDurationRef.current || 20);
 
-      if (dur && !isNaN(dur) && dur > 0) {
-        const chunkProgress = Math.min(1, cur / dur);
-        const overallPct = Math.min(100, Math.max(0, ((currentChunk + chunkProgress) / totalChunks) * 100));
-        setAudioProgress(overallPct);
-        const totalDur = audioDurationRef.current || dur;
-        setAudioTimeRemaining(Math.max(0, Math.round(totalDur * (1 - overallPct / 100))));
+      if (totalDur > 0) {
+        const pct = Math.min(100, Math.max(0, (cur / totalDur) * 100));
+        setAudioProgress(pct);
+        setAudioTimeRemaining(Math.max(0, Math.round(totalDur - cur)));
       }
     };
 
     audio.onloadedmetadata = () => {
-      if (audioPlaylistRef.current.length <= 1 && audio.duration && !isNaN(audio.duration)) {
+      if (audio.duration && isFinite(audio.duration) && audio.duration > 0) {
         setAudioDuration(Math.round(audio.duration));
         audioDurationRef.current = Math.round(audio.duration);
         setAudioTimeRemaining(Math.round(audio.duration));
@@ -147,30 +144,17 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     };
 
     audio.onended = () => {
-      if (chunkIndexRef.current + 1 < audioPlaylistRef.current.length) {
-        chunkIndexRef.current += 1;
-        audio.src = audioPlaylistRef.current[chunkIndexRef.current];
-        audio.play().catch(() => {});
-      } else {
-        setIsPlayingAudio(false);
-        setAudioProgress(100);
-        try {
-          chimeAudioRef.current?.play().catch(() => {});
-        } catch {}
-        playNextAudio();
-      }
+      setIsPlayingAudio(false);
+      setAudioProgress(100);
+      try {
+        chimeAudioRef.current?.play().catch(() => {});
+      } catch {}
+      playNextAudio();
     };
 
     audio.onerror = () => {
-      // If a chunk fails, try advancing or stop gracefully
-      if (chunkIndexRef.current + 1 < audioPlaylistRef.current.length) {
-        chunkIndexRef.current += 1;
-        audio.src = audioPlaylistRef.current[chunkIndexRef.current];
-        audio.play().catch(() => {});
-      } else {
-        setIsPlayingAudio(false);
-        setIsAudioLoading(false);
-      }
+      setIsPlayingAudio(false);
+      setIsAudioLoading(false);
     };
 
     return () => {
@@ -179,7 +163,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     };
   }, []);
 
-  // Web Audio Visualizer Setup
+  // Web Audio Visualizer Setup (Mirrors Voice Studio initWebAudioSource)
   const initAudioAnalyser = () => {
     try {
       if (!audioContextRef.current) {
@@ -189,18 +173,20 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         analyser.fftSize = 64;
         analyser.smoothingTimeConstant = 0.8;
         analyserRef.current = analyser;
+        setAudioAnalyserState(analyser);
       }
       if (audioContextRef.current.state === 'suspended') {
         audioContextRef.current.resume();
       }
-      if (audioRef.current && !sourceNodeRef.current && analyserRef.current) {
+      if (audioRef.current && !(audioRef.current as any)._hasSource && analyserRef.current) {
         const source = audioContextRef.current.createMediaElementSource(audioRef.current);
         source.connect(analyserRef.current);
         analyserRef.current.connect(audioContextRef.current.destination);
+        (audioRef.current as any)._hasSource = true;
         sourceNodeRef.current = source;
       }
     } catch (err) {
-      // AudioContext policy fallback
+      console.log('AudioContext initialization note:', err);
     }
   };
 
@@ -214,14 +200,14 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
           analyserRef.current.getByteFrequencyData(dataArray);
           let sum = 0;
           for (let i = 0; i < dataArray.length; i++) sum += dataArray[i];
-          const avg = sum / dataArray.length;
-          // Scale from 1.0 to 1.6 based on real volume
-          const scale = 1.0 + Math.min(0.6, (avg / 255) * 1.2);
+          const avg = sum / (dataArray.length * 255);
+          // Smooth scale directly based on real voice energy
+          const scale = 1.0 + Math.min(0.4, avg * 1.5);
           setAudioHeartbeatScale(scale);
         } else {
           // Organic breathing pulse fallback
           phase += 0.08;
-          const scale = 1.0 + Math.sin(phase) * 0.15;
+          const scale = 1.0 + Math.sin(phase) * 0.12;
           setAudioHeartbeatScale(scale);
         }
       } else {
@@ -327,8 +313,6 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     if (synthRef.current) {
       synthRef.current.cancel();
     }
-    audioPlaylistRef.current = [];
-    chunkIndexRef.current = 0;
     setIsPlayingAudio(false);
     setIsAudioLoading(false);
     setAudioProgress(0);
@@ -362,16 +346,14 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
     try {
       const result = await synthesizeAudioStory(speechScript, voice, rateStr);
-      audioPlaylistRef.current = result.urls;
-      chunkIndexRef.current = 0;
       setAudioDuration(result.duration);
       audioDurationRef.current = result.duration;
       setAudioTimeRemaining(result.duration);
       setAudioProgress(0);
 
-      if (audioRef.current && result.urls.length > 0) {
+      if (audioRef.current && result.audioUrl) {
         initAudioAnalyser();
-        audioRef.current.src = result.urls[0];
+        audioRef.current.src = result.audioUrl;
         audioRef.current.playbackRate = audioPlaybackRate;
         await audioRef.current.play();
         setIsPlayingAudio(true);
@@ -379,7 +361,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         return;
       }
     } catch (err) {
-      console.warn('Audio streaming encountered error, attempting Web Speech fallback:', err);
+      console.warn('Neural audio synthesis failed, falling back to Web Speech:', err);
     }
 
     // Web Speech API Fallback (native on Android/iOS)
@@ -416,6 +398,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
   const resumeAudio = () => {
     if (audioRef.current && audioRef.current.src) {
+      initAudioAnalyser();
       audioRef.current.play().then(() => setIsPlayingAudio(true)).catch(() => {});
     } else if (synthRef.current) {
       synthRef.current.resume();
@@ -452,35 +435,18 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const skipAudio = (seconds: number) => {
     const audio = audioRef.current;
     if (!audio) return;
-    if (audio.duration && !isNaN(audio.duration)) {
-      const nextTime = Math.max(0, Math.min(audio.duration, audio.currentTime + seconds));
-      audio.currentTime = nextTime;
-    }
+    const dur = audio.duration;
+    const totalDur = (dur && isFinite(dur) && dur > 0) ? dur : (audioDurationRef.current || 20);
+    audio.currentTime = Math.max(0, Math.min(totalDur, audio.currentTime + seconds));
   };
 
   const seekAudio = (percent: number) => {
     const audio = audioRef.current;
     if (!audio) return;
-    const totalChunks = audioPlaylistRef.current.length || 1;
+    const dur = audio.duration;
+    const totalDur = (dur && isFinite(dur) && dur > 0) ? dur : (audioDurationRef.current || 20);
     const clampedPct = Math.max(0, Math.min(100, percent));
-    const targetFraction = clampedPct / 100;
-    const targetGlobalPos = targetFraction * totalChunks;
-    const targetChunk = Math.min(totalChunks - 1, Math.floor(targetGlobalPos));
-    const chunkFraction = targetGlobalPos - targetChunk;
-
-    if (chunkIndexRef.current !== targetChunk && audioPlaylistRef.current[targetChunk]) {
-      chunkIndexRef.current = targetChunk;
-      audio.src = audioPlaylistRef.current[targetChunk];
-      audio.playbackRate = audioPlaybackRate;
-      audio.onloadedmetadata = () => {
-        if (audio.duration && !isNaN(audio.duration)) {
-          audio.currentTime = chunkFraction * audio.duration;
-        }
-        if (isPlayingAudio) audio.play().catch(() => {});
-      };
-    } else if (audio.duration && !isNaN(audio.duration)) {
-      audio.currentTime = chunkFraction * audio.duration;
-    }
+    audio.currentTime = (clampedPct / 100) * totalDur;
     setAudioProgress(clampedPct);
   };
 
@@ -531,6 +497,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         audioDuration,
         audioPlaybackRate,
         audioHeartbeatScale,
+        audioAnalyser,
         setAudioPlaybackRate,
         playStoryAudio,
         pauseAudio,
