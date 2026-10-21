@@ -119,56 +119,97 @@ INTEREST_CATEGORIES: Dict[str, Dict[str, any]] = {
         "en": "Economy & Business",
         "bn": "অর্থনীতি ও বাণিজ্য",
         "keywords": [
-            "economy", "inflation", "bank", "tax", "gdp", "export", "import", "budget", 
-            "finance", "dollar", "reserve", "forex", "interest rate", "revenue", "nbr",
-            "অর্থনীতি", "ব্যাংক", "মুদ্রাস্ফীতি", "রিজার্ভ", "বাজেট", "রাজস্ব", "ডলার", "রপ্তানি", "আমদানি"
+            "economy", "economic", "inflation", "bank", "banking", "tax", "taxes", "gdp", 
+            "export", "import", "budget", "finance", "financial", "dollar", "reserve", 
+            "forex", "interest rate", "revenue", "nbr", "trade", "commerce", "stock", 
+            "market", "share market", "dse", "investment", "investor", "remittance", 
+            "imf", "world bank", "central bank", "loan", "default", "customs", "tariff",
+            "অর্থনীতি", "অর্থনৈতিক", "ব্যাংক", "মুদ্রাস্ফীতি", "মূল্যস্ফীতি", "রিজার্ভ", 
+            "বাজেট", "রাজস্ব", "ডলার", "রপ্তানি", "আমদানি", "বাণিজ্য", "শেয়ারবাজার", 
+            "ডিএসই", "রেমিট্যান্স", "বিনিয়োগ", "ঋণ", "কাস্টমস", "ভ্যাট", "ট্যাক্স"
         ]
     },
     "governance_law": {
         "en": "Governance, Law & Constitution",
         "bn": "শাসনব্যবস্থা, রাজনীতি ও সংবিধান",
         "keywords": [
-            "court", "constitution", "police", "election", "commission", "ministry", 
-            "parliament", "bpsc", "judiciary", "high court", "supreme court", "ordinance",
-            "resignation", "cabinet", "politics", "political", "ishraque", "bnp", "awami",
-            "আদালত", "সংবিধান", "নির্বাচন", "মন্ত্রণালয়", "আইন", "প্রশাসন", "দুদক", "হাইকোর্ট", 
-            "সুপ্রিম কোর্ট", "অধ্যাদেশ", "পদত্যাগ", "ইশরাক", "বিএনপি", "আওয়ামী লীগ", "মন্ত্রিসভা", 
-            "উপদেষ্টা", "রাজনীতি", "রাজনৈতিক", "স্বরাষ্ট্র", "আন্দোলন", "সংসদ"
+            "court", "constitution", "constitutional", "police", "election", "commission", 
+            "ministry", "parliament", "bpsc", "judiciary", "judge", "justice", "high court", 
+            "supreme court", "ordinance", "resignation", "cabinet", "politics", "political", 
+            "ishraque", "bnp", "awami", "jamaat", "adviser", "interim", "yunus", "governance", 
+            "administration", "administrative", "dudok", "acc", "anticorruption", "anti-corruption",
+            "protest", "reform", "commissioner", "deputy commissioner", "gazette", "magistrate",
+            "আদালত", "সংবিধান", "সাংবিধানিক", "নির্বাচন", "মন্ত্রণালয়", "আইন", "প্রশাসন", 
+            "দুদক", "হাইকোর্ট", "সুপ্রিম কোর্ট", "অধ্যাদেশ", "পদত্যাগ", "ইশরাক", "বিএনপি", 
+            "আওয়ামী লীগ", "জামায়াত", "মন্ত্রিসভা", "উপদেষ্টা", "রাজনীতি", "রাজনৈতিক", 
+            "স্বরাষ্ট্র", "আন্দোলন", "সংসদ", "বিচারপতি", "গেজেট", "সংস্কার", "ইউনূস"
         ]
     },
     "tech_innovation": {
         "en": "Technology & AI",
         "bn": "প্রযুক্তি ও এআই",
         "keywords": [
-            "tech", "ai", "artificial intelligence", "digital", "internet", "telecom", "satellite", 
-            "cyber", "innovation", "science", "software", "startup", "cloud",
-            "প্রযুক্তি", "বিজ্ঞান", "ইন্টারনেট", "এআই", "সাইবার", "সফটওয়্যার", "টেলিকম"
+            "tech", "technology", "ai", "artificial intelligence", "digital", "internet", 
+            "telecom", "satellite", "cyber", "cybersecurity", "innovation", "science", 
+            "software", "hardware", "startup", "cloud", "data", "algorithm", "php", 
+            "vulnerability", "hacker", "hacking", "chip", "semiconductor", "robot", 
+            "robotics", "app", "spacex", "nasa", "machine learning",
+            "প্রযুক্তি", "বিজ্ঞান", "ইন্টারনেট", "এআই", "কৃত্রিম বুদ্ধিমত্তা", "সাইবার", 
+            "সফটওয়্যার", "টেলিকম", "স্যাটেলাইট", "ডিজিটাল", "রোবট", "হ্যাকিং", "স্টার্টআপ"
         ]
     },
     "climate_environment": {
         "en": "Climate & Environment",
         "bn": "পরিবেশ ও জলবায়ু",
         "keywords": [
-            "climate", "flood", "river", "environment", "pollution", "cyclone", "forest", 
-            "delta", "renewable", "energy", "solar", "biodiversity",
-            "পরিবেশ", "জলবায়ু", "বন্যা", "নদী", "দূষণ", "ঘূর্ণিঝড়", "ডেল্টা", "নবায়নযোগ্য", "জ্বালানি"
+            "climate", "climate change", "flood", "flooding", "river", "environment", 
+            "environmental", "pollution", "air quality", "aqi", "cyclone", "forest", 
+            "delta", "renewable", "energy", "solar", "biodiversity", "wildlife", "drought", 
+            "carbon", "emission", "heatwave", "rain", "monsoon", "disaster", "ecology",
+            "পরিবেশ", "জলবায়ু", "বন্যা", "নদী", "দূষণ", "ঘূর্ণিঝড়", "ডেল্টা", "নবায়নযোগ্য", 
+            "জ্বালানি", "বায়ুদূষণ", "তাপপ্রবাহ", "বৃষ্টি", "দুর্যোগ", "বন", "সুন্দরবন"
         ]
     },
     "world_diplomacy": {
         "en": "World & Geopolitics",
         "bn": "আন্তর্জাতিক ও কূটনীতি",
         "keywords": [
-            "un", "united nations", "usa", "india", "china", "treaty", "diplomacy", 
-            "war", "summit", "bilateral", "sanctions", "geopolitics", "myanmar", "rohingya",
-            "যুক্তরাষ্ট্র", "ভারত", "চীন", "জাতিসংঘ", "কূটনীতি", "চুক্তি", "ভূরাজনীতি", "রোহিঙ্গা"
+            "world", "international", "global", "geopolitics", "geopolitical", "diplomacy", 
+            "diplomatic", "foreign", "foreign policy", "foreign minister", "ambassador", 
+            "embassy", "treaty", "summit", "bilateral", "sanctions", "war", "conflict", 
+            "ceasefire", "peacekeeping", "military", "nato", "pentagon", "white house", 
+            "kremlin", "un", "united nations", "security council", "epstein",
+            # Key countries and demonyms frequently appearing in world wires
+            "india", "indian", "delhi", "modi", "pakistan", "pakistani", "islamabad", 
+            "china", "chinese", "beijing", "xi jinping", "usa", "america", "american", 
+            "washington", "biden", "trump", "russia", "russian", "moscow", "putin", 
+            "ukraine", "kyiv", "zelensky", "israel", "israeli", "netanyahu", "palestine", 
+            "palestinian", "gaza", "hamas", "iran", "iranian", "tehran", "middle east", 
+            "saudi", "riyadh", "uae", "dubai", "qatar", "myanmar", "burma", "rohingya", 
+            "japan", "japanese", "tokyo", "uk", "british", "britain", "london", "europe", 
+            "european", "france", "french", "germany", "german", "turkey", "turkish", 
+            "north korea", "south korea", "taiwan",
+            # Bengali keywords
+            "আন্তর্জাতিক", "বিশ্ব", "কূটনীতি", "কূটনৈতিক", "পররাষ্ট্র", "যুদ্ধ", "সংঘাত", 
+            "যুদ্ধবিরতি", "শান্তি", "সামরিক", "ন্যাটো", "যুক্তরাষ্ট্র", "আমেরিকা", 
+            "হোয়াইট হাউস", "ভারত", "ভারতীয়", "দিল্লি", "মোদি", "চীন", "চীনা", "বেইজিং", 
+            "পাকিস্তান", "পাকিস্তানি", "ইসলামাবাদ", "রাশিয়া", "পুতিন", "ইউক্রেন", "জেলেনস্কি", 
+            "ইসরায়েল", "ইসরাইল", "ফিলিস্তিন", "গাজা", "হামাস", "ইরান", "তেহরান", 
+            "মধ্যপ্রাচ্য", "সৌদি", "মায়ানমার", "মিয়ানমার", "রোহিঙ্গা", "জাতিসংঘ", 
+            "নিরাপত্তা পরিষদ", "চুক্তি", "ভূরাজনীতি", "নিষেধাজ্ঞা"
         ]
     },
     "society_education": {
         "en": "Society & Education",
         "bn": "সমাজ ও শিক্ষা",
         "keywords": [
-            "education", "university", "health", "hospital", "reform", "youth", "culture", "public health",
-            "শিক্ষা", "বিশ্ববিদ্যালয়", "স্বাস্থ্য", "হাসপাতাল", "সংস্কার", "নাগরিক"
+            "education", "university", "college", "school", "student", "students", 
+            "teacher", "teachers", "health", "hospital", "doctor", "medical", 
+            "culture", "cultural", "public health", "campus", "academic", "youth", 
+            "citizens", "religion", "religious", "community", "social", "welfare",
+            "শিক্ষা", "বিশ্ববিদ্যালয়", "কলেজ", "স্কুল", "শিক্ষার্থী", "ছাত্র", "শিক্ষক", 
+            "স্বাস্থ্য", "হাসপাতাল", "ডাক্তার", "মেডিকেল", "সংস্কার", "নাগরিক", 
+            "সংস্কৃতি", "ক্যাম্পাস", "সমাজ", "ধর্মীয়"
         ]
     }
 }
@@ -215,14 +256,30 @@ CANONICAL_ENTITIES = {
 # 4. Strict Noise Filter (Exclusion keywords)
 # =====================================================================
 EXCLUSION_KEYWORDS = [
-    # Sports
-    "cricket", "football", "goal", "ipl", "bpl", "world cup", "match", "wicket", "fifa", "messi", "ronaldo",
-    "ক্রিকেট", "ফুটবল", "গোল", "আইপিএল", "বিপিএল", "বিশ্বকাপ", "উইকেট", "ফিফা",
+    # Sports - General & Competitions
+    "cricket", "football", "soccer", "goal", "ipl", "bpl", "world cup", "match", 
+    "wicket", "fifa", "uefa", "messi", "ronaldo", "champions league", "premier league", 
+    "la liga", "bundesliga", "serie a", "europa league", "derby", "striker", "goalkeeper",
+    "coach", "tennis", "badminton", "hockey", "athletics", "olympics", "nba", "basketball",
+    "formula 1", "grand slam", "wimbledon", "stadium", "tournament", "semi-final", 
+    "quarter-final", "penalty shootout", "clean sheet",
+    # Football Clubs (European & Domestic)
+    "arsenal", "bayern", "munich", "barcelona", "real madrid", "chelsea", "liverpool", 
+    "manchester city", "man city", "manchester united", "man utd", "juventus", "psg", 
+    "paris saint-germain", "inter milan", "ac milan", "tottenham", "borussia", "atletico",
+    # Bengali Sports Terms
+    "খেলাধুলা", "ক্রিকেট", "ফুটবল", "গোল", "আইপিএল", "বিপিএল", "বিশ্বকাপ", "উইকেট", 
+    "ফিফা", "আর্সেনাল", "বায়ার্ন", "বার্সেলোনা", "রিয়াল মাদ্রিদ", "ম্যানচেস্টার", 
+    "মেসি", "রোনালদো", "চ্যাম্পিয়নস লিগ", "প্রিমিয়ার লিগ", "সেমিফাইনাল", "কোয়ার্টার ফাইনাল",
+    "স্ট্রাইকার", "গোলরক্ষক", "স্টেডিয়াম",
     
-    # Showbiz & Entertainment
-    "bollywood", "hollywood", "actor", "actress", "wedding", "divorce", "movie", "cinema", 
-    "box office", "horoscope", "celebrity", "drama", "hero", "heroine", "ott", "web series",
-    "অভিনেতা", "অভিনেত্রী", "সিনেমা", "নাটক", "তারকা", "রাশিফল", "নায়ক", "নায়িকা", "বিনোদন", "সঙ্গীত",
+    # Showbiz, Celebrity & Tabloid Gossip
+    "bollywood", "hollywood", "dhallywood", "actor", "actress", "wedding", "divorce", 
+    "movie", "cinema", "box office", "horoscope", "celebrity", "drama", "hero", "heroine", 
+    "ott", "web series", "song", "trailer", "teaser", "pageant", "miss world", "miss universe",
+    "viral video", "viral photo", "leaked photo", "intimate photo",
+    "অভিনেতা", "অভিনেত্রী", "সিনেমা", "নাটক", "তারকা", "রাশিফল", "নায়ক", "নায়িকা", 
+    "বিনোদন", "সঙ্গীত", "গান", "ট্রেলার",
     
     # Commercial shopping, gadget discounts & deals (Noise)
     "discount", "deal", "deals", "refurbished", "sale", "save $", "coupon", "cashback",
@@ -230,5 +287,5 @@ EXCLUSION_KEYWORDS = [
     "ছাড়", "মূল্যছাড়", "ডিসকাউন্ট", "অফার", "সেল",
 
     # Petty / Local Blotter Crime (Noise)
-    "road accident", "killed in road", "motorcycle accident", "সড়ক দুর্ঘটনা", "নিহত", "লাশ উদ্ধার"
+    "road accident", "killed in road", "motorcycle accident", "সড়ক দুর্ঘটনা", "লাশ উদ্ধার"
 ]

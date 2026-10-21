@@ -38,7 +38,14 @@ def is_excluded(title: str, summary: str = "") -> bool:
     """Checks whether an article falls into excluded categories (sports, showbiz, gossip)."""
     text = (title + " " + summary).lower()
     for kw in EXCLUSION_KEYWORDS:
-        if kw in text:
+        kw_clean = kw.strip().lower()
+        if not kw_clean:
+            continue
+        if re.match(r'^[a-zA-Z0-9\s]+$', kw_clean):
+            pattern = r'\b' + re.escape(kw_clean) + r'\b'
+        else:
+            pattern = r'(?:^|[^\w\u0980-\u09FF])' + re.escape(kw_clean) + r'(?:$|[^\w\u0980-\u09FF])'
+        if re.search(pattern, text):
             return True
     return False
 

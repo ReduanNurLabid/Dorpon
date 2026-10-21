@@ -25,9 +25,13 @@ def extract_canonical_entities(text: str) -> Set[str]:
     return entities
 
 def categorize_article(text: str, source_hint: str = "") -> List[str]:
-    """Matches text against INTEREST_CATEGORIES keywords using strict word boundaries."""
+    """
+    Matches text against INTEREST_CATEGORIES keywords using strict word boundaries.
+    Ranks categories by keyword frequency so the highest-signal category comes first.
+    """
     text_lower = text.lower()
-    categories = []
+    cat_scores = {}
+
     for cat_id, meta in INTEREST_CATEGORIES.items():
         score = 0
         for kw in meta["keywords"]:
@@ -38,22 +42,39 @@ def categorize_article(text: str, source_hint: str = "") -> List[str]:
                 pattern = r'\b' + re.escape(kw_clean) + r'\b'
             else:
                 pattern = r'(?:^|[^\w\u0980-\u09FF])' + re.escape(kw_clean) + r'(?:$|[^\w\u0980-\u09FF])'
-            if re.search(pattern, text_lower):
-                score += 1
+            matches = len(re.findall(pattern, text_lower))
+            score += matches
         if score > 0:
-            categories.append(cat_id)
-            
-    if categories:
-        return categories
+            cat_scores[cat_id] = score
 
-    # Source-aware fallback
+    if cat_scores:
+        # Sort by match frequency descending so the most prominent theme is index 0
+        sorted_cats = sorted(cat_scores.keys(), key=lambda c: cat_scores[c], reverse=True)
+        return sorted_cats
+
+    # Intelligent content-based fallback if no taxonomy keyword hit
     hint = source_hint.lower()
-    if "tech" in hint:
+    if any(k in hint for k in ["tech", "science", "digital", "gadget"]):
         return ["tech_innovation"]
-    elif "business" in hint or "financial" in hint or "economy" in hint:
+    if any(k in hint for k in ["business", "financial", "economy", "market"]):
         return ["economy_business"]
-    elif "crime" in hint or "justice" in hint or "law" in hint or "politics" in hint:
+    if any(k in hint for k in ["world", "international", "global", "foreign"]):
+        return ["world_diplomacy"]
+    if any(k in hint for k in ["climate", "environment", "nature", "earth"]):
+        return ["climate_environment"]
+    if any(k in hint for k in ["crime", "justice", "law", "politics"]):
         return ["governance_law"]
+
+    # Check for general international markers before blindly falling back
+    intl_markers = [
+        "president", "minister", "foreign", "un ", "united nations", "white house", 
+        "kremlin", "embassy", "diplomat", "treaty", "nato", "sanctions", "border",
+        "india", "china", "usa", "uk ", "russia", "israel", "gaza", "iran", "myanmar"
+    ]
+    if any(im in text_lower for im in intl_markers):
+        return ["world_diplomacy"]
+
+    # Default to governance_law only for local BD political/administrative reporting
     return ["governance_law"]
 
 def calculate_bcs_relevance(text: str) -> float:

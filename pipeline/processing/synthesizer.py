@@ -358,13 +358,28 @@ EDITORIAL REQUIREMENTS:
 7. RELATIVE TIME PROHIBITION:
    - NEVER include relative weekdays or day markers ("গত সোমবার", "সোমবার", "গতকাল", "আজকে", "yesterday", "on Monday", "last week") in headlines, leads, or bullets. State actions timelessly so summaries remain grounded days later.
 
+8. CATEGORY CLASSIFICATION (primary_category):
+   - Accurately classify this story into EXACTLY ONE canonical category:
+     • "economy_business" -> Finance, banking, inflation, budget, revenue, forex, trade, commerce, stock market.
+     • "governance_law" -> Bangladesh domestic politics, ministries, law enforcement, courts, constitution, reforms, public administration.
+     • "world_diplomacy" -> International politics, foreign countries (India, US, China, Middle East, Europe, Russia, etc.), global conflicts, diplomacy, treaties, bilateral relations.
+     • "tech_innovation" -> AI, cybersecurity, software, digital platforms, telecom, science, space, tech vulnerabilities.
+     • "climate_environment" -> Climate change, natural disasters, floods, rivers, pollution, weather, renewable energy.
+     • "society_education" -> Universities, schools, healthcare, hospitals, cultural trends, youth, civic society.
+   CRITICAL RULE: If the story is about foreign nations (e.g. India, USA, Israel, Russia, Ukraine, Pakistan, etc.), it MUST be "world_diplomacy", NEVER "governance_law". "governance_law" is strictly for Bangladesh domestic governance.
+
+9. NOISE / SPORTS / ENTERTAINMENT DETECTION (is_excluded):
+   - Set true if this story is about sports (football, cricket, matches, tournaments, athletes) OR celebrity gossip/tabloid scandals. Otherwise false.
+
 Headline from Source: {title}
 Source Text / Scraped Body: {body[:2500]}
-Primary Category: {primary_cat}
+Primary Category Hint: {primary_cat}
 Is BCS Pro Selection: {is_bcs_pro}
 
 You MUST return a JSON object with these EXACT keys:
 {{
+  "primary_category": "one of: economy_business, governance_law, world_diplomacy, tech_innovation, climate_environment, society_education",
+  "is_excluded": false,
   "headline_bn": "Factual declarative Bengali headline without asterisks (<= 14 words)",
   "headline_en": "Factual declarative English headline without asterisks (<= 14 words)",
   "lead_bn": "1 declarative lead sentence in Bengali without asterisks (<= 25 words)",
@@ -446,6 +461,25 @@ You MUST return a JSON object with these EXACT keys:
                 data = data[0]
             if not isinstance(data, dict):
                 data = {}
+
+            # Reject sports and entertainment noise identified by Gemini
+            if data.get("is_excluded") is True:
+                print(f"   🚫 Gemini flagged story as sports/showbiz noise: {title[:55]}. Skipping.")
+                return None
+
+            # Verify and set primary category from Gemini's analysis
+            VALID_CATEGORIES = {
+                "economy_business", "governance_law", "tech_innovation",
+                "climate_environment", "world_diplomacy", "society_education"
+            }
+            ai_cat = data.get("primary_category")
+            if ai_cat in VALID_CATEGORIES:
+                primary_cat = ai_cat
+                if primary_cat not in cluster.matched_categories:
+                    cluster.matched_categories.insert(0, primary_cat)
+                else:
+                    cluster.matched_categories.remove(primary_cat)
+                    cluster.matched_categories.insert(0, primary_cat)
 
             # Map headline & leads with relative-day and markdown asterisk stripping
             h_bn = clean_editorial_text(data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title))

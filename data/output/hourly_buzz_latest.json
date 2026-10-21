@@ -1,61 +1,7 @@
 {
   "updated_at": "2026-10-21T21:18:46.950540",
-  "total_stories": 6,
+  "total_stories": 5,
   "stories": [
-    {
-      "story_id": "758922d8-0b48-5701-8858-68bc889ab4a3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F4qtkgjh2%2Fkane-afp.webp?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T21:00:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6146,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/d8js7ol0ad",
-          "title": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল",
-          "snippet": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বায়ার্ন মিউনিখকে রুখে দিল আর্সেনাল",
-        "title_en": "Arsenal Holds Bayern Munich to a Draw",
-        "summary_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
-        "summary_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
-        "why_it_matters_bn": "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
-        "why_it_matters_en": "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T21:00:13+00:00",
-        "lead_bn": "আর্সেনালের বিপক্ষে ম্যাচে হ্যারি কেইন গোল করেও বায়ার্ন মিউনিখ জয় নিশ্চিত করতে পারেনি।",
-        "lead_en": "Bayern Munich failed to secure a win against Arsenal despite a goal from Harry Kane.",
-        "bullets_bn": [
-          "১. জার্মান চ্যাম্পিয়ন বায়ার্ন মিউনিখের বিপক্ষে ২-২ গোলে ড্র করেছে আর্সেনাল।",
-          "২. ম্যাচের দ্বিতীয়ার্ধে গোল করে বায়ার্নকে এগিয়ে দিয়েছিলেন স্ট্রাইকার হ্যারি কেইন।",
-          "৩. ঘরের মাঠে ড্র করার ফলে জয়ে ফিরতে ব্যর্থ হয় বায়ার্ন মিউনিখ।"
-        ],
-        "bullets_en": [
-          "1. Arsenal secured a 2-2 draw against German champions Bayern Munich.",
-          "2. Striker Harry Kane scored in the second half to put Bayern ahead.",
-          "3. Bayern Munich failed to return to winning ways after being held at home."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগের ম্যাচে ভাইকিংয়ের মাঠ থেকে ড্র করে ফিরেছিল বায়ার্ন মিউনিখ। আর্সেনালের বিপক্ষে ঘরের মাঠে ম্যাচে কোচ ভিনসেন্ট কোম্পানি এবং গোলরক্ষক মানুয়েল ন্যয়ারের খেলা নিয়ে অনিশ্চয়তা থাকলেও শেষ পর্যন্ত তারা মাঠে ছিলেন। দ্বিতীয়ার্ধে হ্যারি কেইনের গোলে বায়ার্ন এগিয়ে গেলেও শেষ পর্যন্ত ২-২ গোলের সমতা নিয়ে মাঠ ছাড়তে হয় জার্মান চ্যাম্পিয়নদের।",
-        "details_en": "Bayern Munich previously came away with a draw from Viking's ground. Despite uncertainties surrounding manager Vincent Kompany and goalkeeper Manuel Neuer due to illness, both participated in the match. Although Harry Kane gave Bayern the lead in the second half, the German champions ultimately had to settle for a 2-2 draw."
-      }
-    },
     {
       "story_id": "8c456a73-2fdd-585d-9485-79bba6ebf909",
       "primary_category": "tech_innovation",
@@ -112,9 +58,9 @@
     },
     {
       "story_id": "12cbf4a3-177d-5d94-b557-c2b5369ab3d1",
-      "primary_category": "governance_law",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy"
       ],
       "tags": [
         "#Bangladesh",
@@ -142,7 +88,7 @@
         "why_it_matters_bn": "মার্কিন বিচার বিভাগ কর্তৃক প্রকাশিত এপস্টিন ফাইলের ‘ডেটাসেট ৯’-এ হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ্যে এসেছে।",
         "why_it_matters_en": "The US Department of Justice released photos showing Indian Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T20:18:55+00:00",
