@@ -7,8 +7,7 @@ import {
   ExternalLink,
   ShieldCheck,
   ArrowRight,
-  AlertTriangle,
-  BookOpen
+  AlertTriangle
 } from 'lucide-react';
 import { getLocalizedCategory, formatRelativeTime, toBanglaDigits } from '../utils/bilingual';
 import { BroadsheetFooter } from './BroadsheetFooter';
@@ -266,14 +265,6 @@ export const CurrentAffairsFeed: React.FC = () => {
                     </>
                   )}
                 </ul>
-
-                <button
-                  onClick={() => openStory(activeDossier)}
-                  className="mt-5 w-full inline-flex items-center justify-center gap-2 py-2.5 bg-primary text-background font-label-md text-label-md uppercase tracking-wider hover:bg-surface-container-highest hover:text-primary transition-colors cursor-pointer border border-primary font-bold"
-                >
-                  <BookOpen className="w-4 h-4" />
-                  <span>{isBn ? 'পূর্ণাঙ্গ ডসিয়ার বিস্তারিত দেখুন' : 'Open Full Analytical Canvas'}</span>
-                </button>
               </div>
             </div>
           </div>
