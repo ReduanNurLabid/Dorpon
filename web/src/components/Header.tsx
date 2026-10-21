@@ -3,7 +3,6 @@ import { useApp } from '../context/AppContext';
 import { TabType } from '../types';
 import { fetchDseMarketData, StockMarketData } from '../services/stockService';
 import { 
-  Type, 
   Settings as SettingsIcon,
   Flame,
   BookOpen,
@@ -19,8 +18,6 @@ export const Header: React.FC = () => {
   const {
     language,
     toggleLanguage,
-    isSerif,
-    setIsSerif,
     activeTab,
     setActiveTab,
     setIsSettingsOpen,
@@ -96,19 +93,6 @@ export const Header: React.FC = () => {
               {isBn ? '৩-স্তর বিশিষ্ট এক্সিকিউটিভ ডসিয়ার মোড' : '3-TIER EXECUTIVE DOSSIER MODE'}
             </span>
             <span className="text-outline-variant hidden md:inline">|</span>
-
-            {/* Typography Serif Toggle */}
-            <button
-              onClick={() => setIsSerif(!isSerif)}
-              className={`px-1.5 py-0.5 rounded border text-label-sm font-bold transition-all cursor-pointer ${
-                isSerif
-                  ? 'bg-surface-container-high border-primary text-primary font-serif'
-                  : 'bg-surface border-outline-variant text-on-surface-variant hover:text-primary'
-              }`}
-              title={isSerif ? 'Switch to Modern Sans' : 'Switch to Broadsheet Serif'}
-            >
-              <Type className="w-3 h-3" />
-            </button>
 
             {/* Bilingual Switcher */}
             <button

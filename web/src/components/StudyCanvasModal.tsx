@@ -186,18 +186,6 @@ export const StudyCanvasModal: React.FC = () => {
               Aa
             </button>
 
-            {/* Typography Serif/Sans Toggle */}
-            <button 
-              onClick={() => setIsSerif(!isSerif)}
-              aria-label="Toggle Serif" 
-              className={`w-8 h-8 rounded-full border border-ink/50 hover:border-ink hover:bg-paper-dim flex items-center justify-center text-xs font-bold text-ink transition-colors cursor-pointer ${
-                isSerif ? 'bg-paper-dim border-ink' : ''
-              }`} 
-              title={isSerif ? 'Sans-Serif' : 'Serif'}
-            >
-              T
-            </button>
-
             {/* Dismiss Modal Button */}
             <button 
               onClick={closeStory}
