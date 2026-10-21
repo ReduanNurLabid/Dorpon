@@ -22,8 +22,8 @@ export const BroadsheetFooter: React.FC = () => {
             </span>
             <p className="font-serif text-sm text-on-surface-variant mt-2 max-w-md leading-relaxed">
               {isBn
-                ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। নীতিনির্ধারক, গবেষক এবং সিদ্ধান্ত গ্রহণকারীদের জন্য ৩-স্তরীয় যাচাইকৃত সারসংক্ষেপ।'
-                : 'Established 1 November 2026. Reformulated for senior decision makers, researchers, and policy fellows with verified 3-tier scannable intelligence.'}
+                ? 'প্রতিষ্ঠিত ১ নভেম্বর ২০২৬। শীর্ষ জাতীয় সংবাদমাধ্যমের সমন্বয়ে এআই-চালিত স্বয়ংক্রিয় সারসংক্ষেপ ও ৩-স্তরীয় যাচাইকৃত নির্বাহী ব্রিফিং।'
+                : 'Established 1 November 2026. AI-synthesized executive briefings and multi-source intelligence from Bangladesh’s leading media.'}
             </p>
             <div className="mt-4 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider flex items-center gap-2">
               <span>{isBn ? 'ঢাকা ব্যুরো' : 'Dhaka Bureau'}</span>
