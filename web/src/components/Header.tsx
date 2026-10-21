@@ -161,8 +161,8 @@ export const Header: React.FC = () => {
             </h1>
             <p className="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-0.5">
               {isBn 
-                ? 'জাতীয় বিষয়াবলী, সুশাসন, সামষ্টিক অর্থনীতি ও নির্বাহী পর্যালোচনার স্বাধীন ডিজিটাল জার্নাল' 
-                : 'The Independent Journal of National Affairs, Governance, Macroeconomy & Executive Briefings'}
+                ? 'শীর্ষ জাতীয় সংবাদমাধ্যমের সমন্বয়ে এআই-চালিত স্বয়ংক্রিয় সারসংক্ষেপ ও নির্বাহী ব্রিফিং' 
+                : 'AI-Synthesized Executive Briefings & Multi-Source Intelligence from Bangladesh’s Leading Media'}
             </p>
           </div>
 
