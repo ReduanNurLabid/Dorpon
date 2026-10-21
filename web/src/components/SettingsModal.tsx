@@ -4,9 +4,8 @@ import {
   X, 
   Settings as SettingsIcon, 
   Languages, 
-  Type, 
-  Eye, 
-  HardDrive, 
+  Type,
+HardDrive, 
   Trash2, 
   Check, 
   Sparkles,
@@ -24,9 +23,7 @@ export const SettingsModal: React.FC = () => {
     setIsSerif,
     fontSize,
     setFontSize,
-    focusMode,
-    setFocusMode,
-    clearSaved,
+clearSaved,
     t,
   } = useApp();
 
@@ -173,33 +170,6 @@ export const SettingsModal: React.FC = () => {
                 ))}
               </div>
             </div>
-          </div>
-
-          {/* Section: Focus Mode */}
-          <div>
-            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
-              <Eye className="w-4 h-4 text-secondary" />
-              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
-                {isBn ? 'মনোযোগ ও ডিসপ্লে মোড' : 'Focus & Distraction Controls'}
-              </h4>
-            </div>
-
-            <label className="flex items-center justify-between p-3.5 bg-surface-container-low border border-primary/20 cursor-pointer hover:border-primary transition-colors">
-              <div>
-                <span className="font-sans text-xs font-bold text-primary block">
-                  {isBn ? 'ফোকাস রিডিং মোড' : 'Full Focus Mode'}
-                </span>
-                <span className="font-sans text-[11px] text-on-surface-variant">
-                  {isBn ? 'পঠনকালে উপরের হেডার ও সাইডবার বারগুলো আড়াল করুন' : 'Hide peripheral mastheads and banners during active reading'}
-                </span>
-              </div>
-              <input
-                type="checkbox"
-                checked={focusMode}
-                onChange={(e) => setFocusMode(e.target.checked)}
-                className="w-4 h-4 accent-primary border-primary rounded-none cursor-pointer"
-              />
-            </label>
           </div>
 
           {/* Section: Storage & Local Cache */}

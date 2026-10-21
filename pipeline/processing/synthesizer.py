@@ -366,10 +366,11 @@ EDITORIAL REQUIREMENTS:
      • "tech_innovation" -> AI, cybersecurity, software, digital platforms, telecom, science, space, tech vulnerabilities.
      • "climate_environment" -> Climate change, natural disasters, floods, rivers, pollution, weather, renewable energy.
      • "society_education" -> Universities, schools, healthcare, hospitals, cultural trends, youth, civic society.
+     • "sports_fitness" -> Cricket, football, international tournaments, BCB, leagues, athletics, major sports results.
    CRITICAL RULE: If the story is about foreign nations (e.g. India, USA, Israel, Russia, Ukraine, Pakistan, etc.), it MUST be "world_diplomacy", NEVER "governance_law". "governance_law" is strictly for Bangladesh domestic governance.
 
-9. NOISE / SPORTS / ENTERTAINMENT DETECTION (is_excluded):
-   - Set true if this story is about sports (football, cricket, matches, tournaments, athletes) OR celebrity gossip/tabloid scandals. Otherwise false.
+9. NOISE / SHOWBIZ / GOSSIP DETECTION (is_excluded):
+   - Set true ONLY if this story is cheap celebrity tabloid gossip, viral photos/scandals, or shopping discounts. Legitimate sports news is NOT excluded (classify sports as "sports_fitness").
 
 Headline from Source: {title}
 Source Text / Scraped Body: {body[:2500]}
@@ -378,7 +379,7 @@ Is BCS Pro Selection: {is_bcs_pro}
 
 You MUST return a JSON object with these EXACT keys:
 {{
-  "primary_category": "one of: economy_business, governance_law, world_diplomacy, tech_innovation, climate_environment, society_education",
+  "primary_category": "one of: economy_business, governance_law, world_diplomacy, tech_innovation, climate_environment, society_education, sports_fitness",
   "is_excluded": false,
   "headline_bn": "Factual declarative Bengali headline without asterisks (<= 14 words)",
   "headline_en": "Factual declarative English headline without asterisks (<= 14 words)",
@@ -470,7 +471,7 @@ You MUST return a JSON object with these EXACT keys:
             # Verify and set primary category from Gemini's analysis
             VALID_CATEGORIES = {
                 "economy_business", "governance_law", "tech_innovation",
-                "climate_environment", "world_diplomacy", "society_education"
+                "climate_environment", "world_diplomacy", "society_education", "sports_fitness"
             }
             ai_cat = data.get("primary_category")
             if ai_cat in VALID_CATEGORIES:

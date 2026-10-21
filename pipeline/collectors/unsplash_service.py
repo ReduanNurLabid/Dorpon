@@ -39,6 +39,7 @@ CATEGORY_FALLBACK_KEYWORDS = {
     "climate_environment":"nature climate flood bangladesh",
     "world_diplomacy":    "diplomacy world politics flag",
     "society_education":  "education university students bangladesh",
+    "sports_fitness":     "stadium football cricket sports match",
 }
 
 
@@ -90,6 +91,7 @@ def build_search_query(headline: str, category: str, max_tokens: int = 4) -> str
         "climate_environment":"environment",
         "world_diplomacy":    "diplomacy",
         "society_education":  "education",
+        "sports_fitness":     "sports",
     }.get(category, "")
 
     query_parts = [p for p in [headline_part, category_hint] if p]

@@ -254,6 +254,28 @@ INTEREST_CATEGORIES: Dict[str, Dict[str, any]] = {
             "মহামারী", "নাগরিক", "নাগরিক সমাজ", "সংস্কৃতি", "সাংস্কৃতিক", "সমাজ", 
             "সামাজিক", "যুবসমাজ", "তরুণ", "ধর্ম", "ধর্মীয়", "কল্যাণ", "মানবাধিকার"
         ]
+    },
+    "sports_fitness": {
+        "en": "Sports",
+        "bn": "খেলাধুলা",
+        "keywords": [
+            # English
+            "cricket", "football", "soccer", "goal", "ipl", "bpl", "world cup", "match", 
+            "wicket", "fifa", "uefa", "messi", "ronaldo", "champions league", "premier league", 
+            "la liga", "bundesliga", "serie a", "europa league", "derby", "striker", "goalkeeper",
+            "coach", "tennis", "badminton", "hockey", "athletics", "olympics", "nba", "basketball",
+            "formula 1", "grand slam", "wimbledon", "stadium", "tournament", "semi-final", 
+            "quarter-final", "penalty shootout", "clean sheet", "arsenal", "bayern", "munich", 
+            "barcelona", "real madrid", "chelsea", "liverpool", "manchester city", "man city", 
+            "manchester united", "man utd", "juventus", "psg", "tottenham", "borussia", "atletico",
+            "bcb", "tamim", "shakib", "mashrafe", "mushfiqur", "test match", "odi", "t20",
+            # Bengali
+            "খেলাধুলা", "ক্রিকেট", "ফুটবল", "গোল", "আইপিএল", "বিপিএল", "বিশ্বকাপ", "উইকেট", 
+            "ফিফা", "আর্সেনাল", "বায়ার্ন", "বার্সেলোনা", "রিয়াল মাদ্রিদ", "ম্যানচেস্টার", 
+            "মেসি", "রোনালদো", "চ্যাম্পিয়নস লিগ", "প্রিমিয়ার লিগ", "সেমিফাইনাল", "কোয়ার্টার ফাইনাল",
+            "স্ট্রাইকার", "গোলরক্ষক", "স্টেডিয়াম", "বিসিবি", "সাকিব", "তামিম", "মুশফিক", "মাশরাফি", 
+            "টেস্ট", "ওয়ানডে", "টি-টোয়েন্টি", "টেনিস", "ব্যাডমিন্টন", "অলিম্পিক", "অ্যাথলেটিকস"
+        ]
     }
 }
 
@@ -298,24 +320,7 @@ CANONICAL_ENTITIES = {
 # 4. Strict Noise Filter (Exclusion keywords)
 # =====================================================================
 EXCLUSION_KEYWORDS = [
-    # Sports - General & Competitions
-    "cricket", "football", "soccer", "goal", "ipl", "bpl", "world cup", "match", 
-    "wicket", "fifa", "uefa", "messi", "ronaldo", "champions league", "premier league", 
-    "la liga", "bundesliga", "serie a", "europa league", "derby", "striker", "goalkeeper",
-    "coach", "tennis", "badminton", "hockey", "athletics", "olympics", "nba", "basketball",
-    "formula 1", "grand slam", "wimbledon", "stadium", "tournament", "semi-final", 
-    "quarter-final", "penalty shootout", "clean sheet",
-    # Football Clubs (European & Domestic)
-    "arsenal", "bayern", "munich", "barcelona", "real madrid", "chelsea", "liverpool", 
-    "manchester city", "man city", "manchester united", "man utd", "juventus", "psg", 
-    "paris saint-germain", "inter milan", "ac milan", "tottenham", "borussia", "atletico",
-    # Bengali Sports Terms
-    "খেলাধুলা", "ক্রিকেট", "ফুটবল", "গোল", "আইপিএল", "বিপিএল", "বিশ্বকাপ", "উইকেট", 
-    "ফিফা", "আর্সেনাল", "বায়ার্ন", "বার্সেলোনা", "রিয়াল মাদ্রিদ", "ম্যানচেস্টার", 
-    "মেসি", "রোনালদো", "চ্যাম্পিয়নস লিগ", "প্রিমিয়ার লিগ", "সেমিফাইনাল", "কোয়ার্টার ফাইনাল",
-    "স্ট্রাইকার", "গোলরক্ষক", "স্টেডিয়াম",
-    
-    # Showbiz, Celebrity & Tabloid Gossip
+    # Showbiz, Celebrity & Tabloid Gossip (Noise)
     "bollywood", "hollywood", "dhallywood", "actor", "actress", "wedding", "divorce", 
     "movie", "cinema", "box office", "horoscope", "celebrity", "drama", "hero", "heroine", 
     "ott", "web series", "song", "trailer", "teaser", "pageant", "miss world", "miss universe",

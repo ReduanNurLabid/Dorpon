@@ -15,6 +15,7 @@ const CATEGORIES = [
   'tech_innovation',
   'climate_environment',
   'society_education',
+  'sports_fitness',
 ];
 
 export const TopStoriesFeed: React.FC = () => {
