@@ -108,7 +108,9 @@ export const BroadsheetFrontPage: React.FC = () => {
   // Divide available stories across the broadsheet columns
   const heroStory = buzzStories[0] || hourlyWires[0] || null;
   const leftStories = buzzStories.slice(1, 3);
-  const wireDeskStories = hourlyWires.length > 0 ? hourlyWires.slice(0, 3) : buzzStories.slice(3, 6);
+  const wireDeskStories = hourlyWires.length >= 4 
+    ? hourlyWires.slice(0, 4) 
+    : (hourlyWires.length > 0 ? [...hourlyWires, ...buzzStories.slice(3, 3 + (4 - hourlyWires.length))] : buzzStories.slice(3, 7));
   
   // Lower 3-column investigations: prioritize current affairs or deeper buzz stories
   const lowerStories = currentAffairs.length >= 3 
