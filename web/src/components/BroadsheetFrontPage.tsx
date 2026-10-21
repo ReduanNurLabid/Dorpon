@@ -112,10 +112,21 @@ export const BroadsheetFrontPage: React.FC = () => {
     ? hourlyWires.slice(0, 4) 
     : (hourlyWires.length > 0 ? [...hourlyWires, ...buzzStories.slice(3, 3 + (4 - hourlyWires.length))] : buzzStories.slice(3, 7));
   
-  // Lower 3-column investigations: prioritize current affairs or deeper buzz stories
-  const lowerStories = currentAffairs.length >= 3 
-    ? currentAffairs.slice(0, 3) 
-    : (buzzStories.length > 4 ? buzzStories.slice(3, 6) : buzzStories.slice(0, 3));
+  // Lower 3-column investigations: 2 full rows (6 stories total)
+  const lowerStories = (() => {
+    // Collect stories not already placed in hero or left column
+    const usedIds = new Set<string>();
+    if (heroStory) usedIds.add(heroStory.story_id);
+    leftStories.forEach(s => usedIds.add(s.story_id));
+
+    const pool = [
+      ...currentAffairs.filter(s => !usedIds.has(s.story_id)),
+      ...buzzStories.filter(s => !usedIds.has(s.story_id)),
+      ...hourlyWires.filter(s => !usedIds.has(s.story_id))
+    ];
+
+    return pool.slice(0, 6);
+  })();
 
 
 
@@ -472,7 +483,9 @@ export const BroadsheetFrontPage: React.FC = () => {
           return (
             <article 
               key={story.story_id || idx}
-              className="border-b md:border-b-0 md:border-r border-primary/20 p-5 bg-surface-container-low hover:bg-surface-container transition-colors flex flex-col"
+              className={`border-b border-primary/20 p-5 bg-surface-container-low hover:bg-surface-container transition-colors flex flex-col ${
+                (idx % 3 !== 2) ? 'md:border-r' : ''
+              }`}
             >
               <div>
                 <div className="flex items-center justify-between mb-2">
