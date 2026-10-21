@@ -63,9 +63,22 @@ async function fetchFirestoreDocRest(collectionName: string, docId: string): Pro
   return null;
 }
 
+function cleanEditorialMarkdown(text?: string | null): string {
+  if (!text) return '';
+  return text
+    .replace(/^[\s*_\-•\d.)]+\s*/, '')
+    .replace(/\s*[*_]+\s*$/, '')
+    .replace(/\*\*([^*]+)\*\*/g, '$1')
+    .replace(/\*([^*]+)\*/g, '$1')
+    .trim();
+}
+
 function normalizeStory(data: any): CapsuleStory {
   const buzz = data.daily_buzz || data.dailyBuzz || {};
   const bcs = data.bcs_pro || data.bcsPro || null;
+
+  const rawBulletsBn = buzz.bullets_bn || buzz.bulletsBn || buzz.key_takeaways_bn || [];
+  const rawBulletsEn = buzz.bullets_en || buzz.bulletsEn || buzz.key_takeaways_en || [];
 
   return {
     story_id: data.story_id || data.storyId || Math.random().toString(36).substring(7),
@@ -80,20 +93,20 @@ function normalizeStory(data: any): CapsuleStory {
     rank_score: data.rank_score ?? 1.0,
     sources: data.sources || [],
     daily_buzz: {
-      title_bn: buzz.title_bn || buzz.titleBn || '',
-      title_en: buzz.title_en || buzz.titleEn || '',
-      summary_bn: buzz.summary_bn || buzz.summaryBn || '',
-      summary_en: buzz.summary_en || buzz.summaryEn || '',
-      lead_bn: buzz.lead_bn || buzz.leadBn || '',
-      lead_en: buzz.lead_en || buzz.leadEn || '',
-      bullets_bn: buzz.bullets_bn || buzz.bulletsBn || buzz.key_takeaways_bn || [],
-      bullets_en: buzz.bullets_en || buzz.bulletsEn || buzz.key_takeaways_en || [],
-      details_bn: buzz.details_bn || buzz.detailsBn || '',
-      details_en: buzz.details_en || buzz.detailsEn || '',
-      impact_bn: buzz.impact_bn || buzz.impactBn || '',
-      impact_en: buzz.impact_en || buzz.impactEn || '',
-      why_it_matters_bn: buzz.why_it_matters_bn || buzz.whyItMattersBn || '',
-      why_it_matters_en: buzz.why_it_matters_en || buzz.whyItMattersEn || '',
+      title_bn: cleanEditorialMarkdown(buzz.title_bn || buzz.titleBn || ''),
+      title_en: cleanEditorialMarkdown(buzz.title_en || buzz.titleEn || ''),
+      summary_bn: cleanEditorialMarkdown(buzz.summary_bn || buzz.summaryBn || ''),
+      summary_en: cleanEditorialMarkdown(buzz.summary_en || buzz.summaryEn || ''),
+      lead_bn: cleanEditorialMarkdown(buzz.lead_bn || buzz.leadBn || ''),
+      lead_en: cleanEditorialMarkdown(buzz.lead_en || buzz.leadEn || ''),
+      bullets_bn: Array.isArray(rawBulletsBn) ? rawBulletsBn.map((b: any) => cleanEditorialMarkdown(String(b))).filter(Boolean) : [],
+      bullets_en: Array.isArray(rawBulletsEn) ? rawBulletsEn.map((b: any) => cleanEditorialMarkdown(String(b))).filter(Boolean) : [],
+      details_bn: cleanEditorialMarkdown(buzz.details_bn || buzz.detailsBn || ''),
+      details_en: cleanEditorialMarkdown(buzz.details_en || buzz.detailsEn || ''),
+      impact_bn: cleanEditorialMarkdown(buzz.impact_bn || buzz.impactBn || ''),
+      impact_en: cleanEditorialMarkdown(buzz.impact_en || buzz.impactEn || ''),
+      why_it_matters_bn: cleanEditorialMarkdown(buzz.why_it_matters_bn || buzz.whyItMattersBn || ''),
+      why_it_matters_en: cleanEditorialMarkdown(buzz.why_it_matters_en || buzz.whyItMattersEn || ''),
       interest_categories: buzz.interest_categories || buzz.interestCategories || [],
       read_time_seconds: buzz.read_time_seconds || buzz.readTimeSeconds || 60,
       published_at: buzz.published_at || data.published_at,

@@ -397,7 +397,7 @@ export const StudyCanvasModal: React.FC = () => {
                 {t('the_core_story')}
               </h3>
               <div className={`${textBodySize} ${fontClass} text-text-primary/90 space-y-4 whitespace-pre-line`}>
-                {summary}
+                {summary.replace(/^\s*[*_\-•\d.)]+\s*/, '').replace(/\s*[*_]+\s*$/, '').replace(/\*\*([^*]+)\*\*/g, '$1')}
               </div>
             </div>
           )}

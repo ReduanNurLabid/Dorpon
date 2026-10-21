@@ -46,6 +46,25 @@ def strip_relative_time_leakage(text: str) -> str:
     cleaned = re.sub(r"^[,।\-\–\s]+", "", cleaned)
     return cleaned.strip()
 
+def clean_editorial_text(text: Optional[str]) -> str:
+    """
+    Sanitizes editorial text by stripping relative temporal markers,
+    raw Markdown formatting asterisks/underscores (**bold**, *italic*),
+    and leading bullet/list symbols so UI cards remain clean and professional.
+    """
+    if not text:
+        return ""
+    s = strip_relative_time_leakage(str(text)).strip()
+    # Strip markdown bold/italic asterisks & underscores from start and end
+    s = re.sub(r'^\s*[\*\_]{1,3}\s*', '', s)
+    s = re.sub(r'\s*[\*\_]{1,3}\s*$', '', s)
+    # Strip inline double/triple markdown bold markers
+    s = re.sub(r'[\*\_]{2,3}(.+?)[\*\_]{2,3}', r'\1', s)
+    # Strip leading bullet/list badges
+    s = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', s)
+    s = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', s)
+    return s.strip()
+
 def validate_and_filter_tags(tags: List[str], text: str, primary_category: str) -> List[str]:
     """
     Deterministic Tag Grounding Validator:
@@ -314,15 +333,16 @@ EDITORIAL REQUIREMENTS:
    - Example BN: 'দ্বিপক্ষীয় বাণিজ্য বাড়াতে জাপানি প্রতিনিধিদলের সাথে প্রধানমন্ত্রীর বৈঠক'
 
 2. ONE-LINE LEAD (lead_en, lead_bn):
-   - Exactly 1 bold sentence capturing the single primary event (<= 25 words).
+   - Exactly 1 high-impact declarative lead sentence capturing the single primary event (<= 25 words).
    - Inverted pyramid style: The core action/decision right up front.
+   - NO MARKDOWN FORMATTING: Absolutely DO NOT wrap text in asterisks (e.g., no **bold** or *italics*), backticks, or quotes. Return purely raw text.
 
 3. THREE KEY TAKEAWAY BULLETS (bullets_en, bullets_bn):
    - Provide EXACTLY 3 clean, factual bullets (<= 22 words per bullet):
      • Bullet 1: Core Action / Decision (who decided or executed what).
      • Bullet 2: Key Numbers, Official Quotes, or Specific Metrics (amounts, percentages, named spokespersons, dates).
      • Bullet 3: Immediate Consequence, Next Step, or Timeline.
-   - CRITICAL FORMAT RULE: DO NOT prefix bullets with numbers ("1.", "2.", "3.", "১.", "২.", "৩.") or symbols ("•", "-"). The mobile UI automatically renders numbered badges. Return purely the raw bullet sentence.
+   - CRITICAL FORMAT RULE: DO NOT prefix bullets with numbers ("1.", "2.", "3.", "১.", "২.", "৩."), symbols ("•", "-"), or markdown asterisks ("**"). The mobile UI automatically renders numbered badges. Return purely the raw bullet sentence.
    - Bullets must be strictly factual, never vague generic boilerplate.
 
 4. CITIZEN IMPACT (impact_en, impact_bn):
@@ -345,10 +365,10 @@ Is BCS Pro Selection: {is_bcs_pro}
 
 You MUST return a JSON object with these EXACT keys:
 {{
-  "headline_bn": "Factual declarative Bengali headline (<= 14 words)",
-  "headline_en": "Factual declarative English headline (<= 14 words)",
-  "lead_bn": "1 bold sentence capturing the core event in Bengali (<= 25 words)",
-  "lead_en": "1 bold sentence capturing the core event in English (<= 25 words)",
+  "headline_bn": "Factual declarative Bengali headline without asterisks (<= 14 words)",
+  "headline_en": "Factual declarative English headline without asterisks (<= 14 words)",
+  "lead_bn": "1 declarative lead sentence in Bengali without asterisks (<= 25 words)",
+  "lead_en": "1 declarative lead sentence in English without asterisks (<= 25 words)",
   "bullets_bn": [
     "প্রধান সিদ্ধান্ত বা গৃহীত পদক্ষেপ",
     "সুনির্দিষ্ট পরিসংখ্যান, উদ্ধৃতি বা তথ্য",
@@ -427,25 +447,20 @@ You MUST return a JSON object with these EXACT keys:
             if not isinstance(data, dict):
                 data = {}
 
-            # Map headline & leads with relative-day stripping
-            h_bn = strip_relative_time_leakage(data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title))
-            h_en = strip_relative_time_leakage(data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title))
-            lead_bn = strip_relative_time_leakage(data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title))
-            lead_en = strip_relative_time_leakage(data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title))
-            def clean_bullet_str(b_raw: str) -> str:
-                s = strip_relative_time_leakage(str(b_raw))
-                s = re.sub(r'^[•\-\*\d\.\)\:\s]+', '', s)
-                s = re.sub(r'^[•\-\*০-৯\.\)\:\s]+', '', s)
-                return s.strip()
+            # Map headline & leads with relative-day and markdown asterisk stripping
+            h_bn = clean_editorial_text(data.get("headline_bn") or data.get("title_bn") or (title if is_bangla_source else title))
+            h_en = clean_editorial_text(data.get("headline_en") or data.get("title_en") or (title if not is_bangla_source else title))
+            lead_bn = clean_editorial_text(data.get("lead_bn") or data.get("summary_bn") or (primary_art.summary_raw or title))
+            lead_en = clean_editorial_text(data.get("lead_en") or data.get("summary_en") or (primary_art.summary_raw or title))
 
-            bullets_bn = [clean_bullet_str(b) for b in data.get("bullets_bn", []) if b]
+            bullets_bn = [clean_editorial_text(b) for b in data.get("bullets_bn", []) if b]
             bullets_bn = [b for b in bullets_bn if len(b) > 5][:3]
-            bullets_en = [clean_bullet_str(b) for b in data.get("bullets_en", []) if b]
+            bullets_en = [clean_editorial_text(b) for b in data.get("bullets_en", []) if b]
             bullets_en = [b for b in bullets_en if len(b) > 5][:3]
-            impact_bn = data.get("impact_bn")
-            impact_en = data.get("impact_en")
-            details_bn = data.get("details_bn")
-            details_en = data.get("details_en")
+            impact_bn = clean_editorial_text(data.get("impact_bn")) or None
+            impact_en = clean_editorial_text(data.get("impact_en")) or None
+            details_bn = clean_editorial_text(data.get("details_bn")) or None
+            details_en = clean_editorial_text(data.get("details_en")) or None
             
             buzz = DailyBuzzItem(
                 title_bn=h_bn,
