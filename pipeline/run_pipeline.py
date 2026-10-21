@@ -11,6 +11,7 @@ if sys.stdout:
 
 from pipeline.collectors.rss_fetcher import fetch_rss_candidates
 from pipeline.collectors.article_scraper import scrape_article_body, scrape_article_details
+from pipeline.collectors.unsplash_service import fetch_story_image
 from pipeline.processing.deduplicator import cluster_and_tag_articles, extract_canonical_entities
 from pipeline.processing.selector import select_stories_for_audiences
 from pipeline.processing.synthesizer import synthesize_story_with_ai, build_clean_sources
@@ -167,6 +168,23 @@ def run_hourly_buzz(limit: int = 8):
                 primary_art.image_url = details["image_url"]
 
         story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
+
+        # ── Unsplash image enrichment ──────────────────────────────────────
+        # If og:image scraping failed (or was absent), fetch a contextually
+        # relevant Unsplash photo using the synthesized English headline.
+        if not story.image_url:
+            headline_en = (story.daily_buzz.title_en or primary_art.title) if story.daily_buzz else primary_art.title
+            headline_bn = (story.daily_buzz.title_bn or "") if story.daily_buzz else ""
+            primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
+            unsplash_url = fetch_story_image(
+                headline_en=headline_en,
+                headline_bn=headline_bn,
+                category=primary_cat,
+                existing_image_url=None,
+            )
+            if unsplash_url:
+                story.image_url = unsplash_url
+        # ───────────────────────────────────────────────────────────────────
         item = story.model_dump()
         item.pop("bcs_pro", None)  # Lightweight payload for free buzz
         buzz_stories.append(item)
@@ -253,6 +271,23 @@ def run_daily_pipeline(bcs_count: int = 4, pool_count: int = 8) -> DailyCapsule:
     for cluster in pool_clusters:
         is_bcs = cluster.cluster_id in bcs_ids
         story = synthesize_story_with_ai(cluster, is_bcs_pro=is_bcs)
+
+        # ── Unsplash image enrichment ──────────────────────────────────────
+        if not story.image_url:
+            primary_art = cluster.articles[0]
+            headline_en = (story.daily_buzz.title_en or primary_art.title) if story.daily_buzz else primary_art.title
+            headline_bn = (story.daily_buzz.title_bn or "") if story.daily_buzz else ""
+            primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
+            unsplash_url = fetch_story_image(
+                headline_en=headline_en,
+                headline_bn=headline_bn,
+                category=primary_cat,
+                existing_image_url=None,
+            )
+            if unsplash_url:
+                story.image_url = unsplash_url
+        # ───────────────────────────────────────────────────────────────────
+
         stories.append(story)
         
     capsule = DailyCapsule(

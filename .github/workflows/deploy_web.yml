@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feat/web-version
     paths:
       - 'web/**'           # Automatically deploys when web code changes
   workflow_dispatch:       # Allows manual trigger from Actions tab

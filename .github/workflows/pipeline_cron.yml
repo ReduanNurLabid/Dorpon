@@ -2,8 +2,10 @@ name: Dorpon Daily Autonomous Pipeline
 
 on:
   schedule:
-    # Run every 30 minutes at off-peak minutes (:15 and :45) so GitHub Actions queue delays don't cause hourly gaps
-    - cron: '15,45 * * * *'
+    # Backup fallback only — fires once daily at 6 AM UTC in case
+    # the external cron trigger (cron-job.org) is down for the day.
+    # The real hourly trigger comes from cron-job.org → workflow_dispatch.
+    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       limit:
@@ -11,12 +13,21 @@ on:
         required: false
         default: '6'
 
+# Prevent two concurrent runs from overlapping and burning double quota.
+concurrency:
+  group: hourly-pipeline
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
+    # Hard kill after 12 minutes — prevents a hung API call from
+    # occupying a runner slot and blocking the next scheduled run.
+    timeout-minutes: 12
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -36,11 +47,12 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           PYTHONPATH: .
         run: |
           python -m pipeline.hourly_worker --limit ${{ github.event.inputs.limit || '6' }}
 
-      - name: Commit Updated Output Data (Optional)
+      - name: Commit Updated Output Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

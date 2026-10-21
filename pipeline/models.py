@@ -54,8 +54,8 @@ class DailyBuzzItem(BaseModel):
     title_en: str
     summary_bn: str  # 2-3 sentences in clear universal Bengali
     summary_en: str  # 2-3 sentences in clear universal English
-    why_it_matters_bn: str
-    why_it_matters_en: str
+    why_it_matters_bn: Optional[str] = None   # Deprecated — kept for Firestore backwards-compatibility
+    why_it_matters_en: Optional[str] = None   # Deprecated — kept for Firestore backwards-compatibility
     interest_categories: List[str]  # e.g. ["economy_business", "governance_law"]
     read_time_seconds: int = 60
     published_at: Optional[str] = None
