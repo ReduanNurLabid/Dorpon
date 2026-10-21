@@ -24,7 +24,9 @@ export const AudioPlayerDock: React.FC = () => {
     skipAudio,
     seekAudio,
     audioProgress,
+    audioCurrentTime,
     audioTimeRemaining,
+    audioDuration,
     audioPlaybackRate,
     audioHeartbeatScale,
     setAudioPlaybackRate,
@@ -83,7 +85,7 @@ export const AudioPlayerDock: React.FC = () => {
       >
         <div
           className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_10px_rgba(52,211,153,0.8)] transition-all duration-150"
-          style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
+          style={{ width: `${Number.isFinite(audioProgress) ? Math.max(0, Math.min(100, audioProgress)) : 0}%` }}
         />
       </div>
 
@@ -113,7 +115,7 @@ export const AudioPlayerDock: React.FC = () => {
                 {categoryLabel}
               </span>
               <span className="text-[10px] text-text-secondary/80 font-mono">
-                {formatSeconds(audioTimeRemaining)}
+                {formatSeconds(audioCurrentTime)} / {formatSeconds(audioDuration)}
               </span>
             </div>
             <p className="text-xs sm:text-sm font-semibold text-white truncate">

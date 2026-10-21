@@ -39,11 +39,14 @@ interface AppContextType {
   isPlayingAudio: boolean;
   isAudioLoading: boolean;
   audioProgress: number; // 0-100 percentage
+  audioCurrentTime: number; // current elapsed seconds
   audioTimeRemaining: number; // seconds
   audioDuration: number; // total duration in seconds
   audioPlaybackRate: number;
   audioHeartbeatScale: number; // 1.0 to 1.8 dynamic scale for heartbeat animation
   audioAnalyser: AnalyserNode | null;
+  audioWords: Array<{ text: string; start: number; end: number }>;
+  currentWordIndex: number;
   setAudioPlaybackRate: (rate: number) => void;
   playStoryAudio: (story: CapsuleStory) => void;
   pauseAudio: () => void;
@@ -93,11 +96,14 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const [isPlayingAudio, setIsPlayingAudio] = useState<boolean>(false);
   const [isAudioLoading, setIsAudioLoading] = useState<boolean>(false);
   const [audioProgress, setAudioProgress] = useState<number>(0);
+  const [audioCurrentTime, setAudioCurrentTime] = useState<number>(0);
   const [audioDuration, setAudioDuration] = useState<number>(45);
   const [audioTimeRemaining, setAudioTimeRemaining] = useState<number>(45);
   const [audioPlaybackRate, setAudioPlaybackRateState] = useState<number>(1.0);
   const [audioHeartbeatScale, setAudioHeartbeatScale] = useState<number>(1.0);
   const [audioAnalyser, setAudioAnalyserState] = useState<AnalyserNode | null>(null);
+  const [audioWords, setAudioWords] = useState<Array<{ text: string; start: number; end: number }>>([]);
+  const [currentWordIndex, setCurrentWordIndex] = useState<number>(-1);
 
   // Audio Elements & Context References
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -109,6 +115,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const synthRef = useRef<SpeechSynthesis | null>(null);
   const audioDurationRef = useRef<number>(45);
   const speechStartTimeRef = useRef<number>(0);
+  const audioWordsRef = useRef<Array<{ text: string; start: number; end: number }>>([]);
 
   useEffect(() => {
     // Initialize HTML5 Audio Element
@@ -125,19 +132,29 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
     // Exact progress and time listeners matching Voice Studio
     audio.ontimeupdate = () => {
-      const cur = audio.currentTime;
-      const dur = audio.duration;
-      const totalDur = (dur && isFinite(dur) && dur > 0) ? dur : (audioDurationRef.current || 20);
+      const cur = Number.isFinite(audio.currentTime) ? audio.currentTime : 0;
+      const dur = (audio.duration && Number.isFinite(audio.duration) && audio.duration > 0) 
+        ? audio.duration 
+        : (audioDurationRef.current || 20);
 
-      if (totalDur > 0) {
-        const pct = Math.min(100, Math.max(0, (cur / totalDur) * 100));
+      if (dur > 0) {
+        const rawPct = (cur / dur) * 100;
+        const pct = Number.isFinite(rawPct) ? Math.min(100, Math.max(0, rawPct)) : 0;
         setAudioProgress(pct);
-        setAudioTimeRemaining(Math.max(0, Math.round(totalDur - cur)));
+        setAudioCurrentTime(Math.round(cur));
+        setAudioTimeRemaining(Math.max(0, Math.round(dur - cur)));
+
+        // Word boundary highlighting in real time
+        const words = audioWordsRef.current;
+        if (words && words.length > 0) {
+          const wIdx = words.findIndex(w => cur >= w.start && cur <= w.end);
+          if (wIdx !== -1) setCurrentWordIndex(wIdx);
+        }
       }
     };
 
     audio.onloadedmetadata = () => {
-      if (audio.duration && isFinite(audio.duration) && audio.duration > 0) {
+      if (audio.duration && Number.isFinite(audio.duration) && audio.duration > 0) {
         setAudioDuration(Math.round(audio.duration));
         audioDurationRef.current = Math.round(audio.duration);
         setAudioTimeRemaining(Math.round(audio.duration));
@@ -147,6 +164,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     audio.onended = () => {
       setIsPlayingAudio(false);
       setAudioProgress(100);
+      setCurrentWordIndex(-1);
       try {
         chimeAudioRef.current?.play().catch(() => {});
       } catch {}
@@ -198,22 +216,40 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       if (isPlayingAudio) {
         // Continuous smooth progress calculation
         if (audioRef.current && audioRef.current.src && !audioRef.current.paused) {
-          const cur = audioRef.current.currentTime;
-          const dur = (audioRef.current.duration && isFinite(audioRef.current.duration) && audioRef.current.duration > 0)
+          const cur = Number.isFinite(audioRef.current.currentTime) ? audioRef.current.currentTime : 0;
+          const dur = (audioRef.current.duration && Number.isFinite(audioRef.current.duration) && audioRef.current.duration > 0)
             ? audioRef.current.duration
             : (audioDurationRef.current || 25);
           if (dur > 0) {
-            const pct = Math.min(100, Math.max(0, (cur / dur) * 100));
+            const rawPct = (cur / dur) * 100;
+            const pct = Number.isFinite(rawPct) ? Math.min(100, Math.max(0, rawPct)) : 0;
             setAudioProgress(pct);
+            setAudioCurrentTime(Math.round(cur));
             setAudioTimeRemaining(Math.max(0, Math.round(dur - cur)));
+
+            // Word tracking
+            const words = audioWordsRef.current;
+            if (words && words.length > 0) {
+              const wIdx = words.findIndex(w => cur >= w.start && cur <= w.end);
+              if (wIdx !== -1) setCurrentWordIndex(wIdx);
+            }
           }
         } else if (speechStartTimeRef.current > 0) {
           // Synthetic / Speech fallback progress ticker
           const elapsed = (Date.now() - speechStartTimeRef.current) / 1000;
           const total = audioDurationRef.current || 25;
-          const pct = Math.min(100, Math.max(0, (elapsed / total) * 100));
+          const rawPct = (elapsed / total) * 100;
+          const pct = Number.isFinite(rawPct) ? Math.min(100, Math.max(0, rawPct)) : 0;
           setAudioProgress(pct);
+          setAudioCurrentTime(Math.round(elapsed));
           setAudioTimeRemaining(Math.max(0, Math.round(total - elapsed)));
+
+          // Word tracking for synthetic fallback
+          const words = audioWordsRef.current;
+          if (words && words.length > 0) {
+            const wIdx = Math.min(words.length - 1, Math.floor((pct / 100) * words.length));
+            setCurrentWordIndex(wIdx);
+          }
         }
 
         if (analyserRef.current) {
@@ -333,9 +369,13 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       synthRef.current.cancel();
     }
     speechStartTimeRef.current = 0;
+    audioWordsRef.current = [];
+    setAudioWords([]);
+    setCurrentWordIndex(-1);
     setIsPlayingAudio(false);
     setIsAudioLoading(false);
     setAudioProgress(0);
+    setAudioCurrentTime(0);
   };
 
   // Completely dismisses the floating player and sheet overlay
@@ -366,9 +406,14 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
     try {
       const result = await synthesizeAudioStory(speechScript, voice, rateStr);
+      const words = result.words || [];
+      audioWordsRef.current = words;
+      setAudioWords(words);
+      setCurrentWordIndex(-1);
       setAudioDuration(result.duration);
       audioDurationRef.current = result.duration;
       setAudioTimeRemaining(result.duration);
+      setAudioCurrentTime(0);
       setAudioProgress(0);
 
       if (audioRef.current && result.audioUrl) {
@@ -387,6 +432,15 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
     // Web Speech API Fallback (native on Android/iOS)
     if (synthRef.current) {
+      // Split into words for fallback teleprompter
+      const fallbackWords = speechScript.split(/\s+/).map((w, idx) => ({
+        text: w,
+        start: idx * 0.4,
+        end: (idx + 1) * 0.4
+      }));
+      audioWordsRef.current = fallbackWords;
+      setAudioWords(fallbackWords);
+
       const utterance = new SpeechSynthesisUtterance(speechScript);
       utterance.rate = audioPlaybackRate;
       const voices = synthRef.current.getVoices();
@@ -399,6 +453,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       }
       utterance.onend = () => {
         speechStartTimeRef.current = 0;
+        setCurrentWordIndex(-1);
         setIsPlayingAudio(false);
         playNextAudio();
       };
@@ -519,11 +574,14 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         isPlayingAudio,
         isAudioLoading,
         audioProgress,
+        audioCurrentTime,
         audioTimeRemaining,
         audioDuration,
         audioPlaybackRate,
         audioHeartbeatScale,
         audioAnalyser,
+        audioWords,
+        currentWordIndex,
         setAudioPlaybackRate,
         playStoryAudio,
         pauseAudio,

@@ -29,11 +29,14 @@ export const AudioPlayerSheet: React.FC = () => {
     skipAudio,
     seekAudio,
     audioProgress,
+    audioCurrentTime,
     audioTimeRemaining,
     audioDuration,
     audioPlaybackRate,
     audioHeartbeatScale,
     audioAnalyser,
+    audioWords,
+    currentWordIndex,
     setAudioPlaybackRate,
     buzzStories,
     playStoryAudio,
@@ -112,7 +115,7 @@ export const AudioPlayerSheet: React.FC = () => {
         </div>
 
         {/* Current Story Metadata */}
-        <div className="text-center mb-6">
+        <div className="text-center mb-5">
           <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-mint/15 text-mint border border-mint/30 text-xs font-bold uppercase tracking-wider mb-2">
             <Sparkles className="w-3.5 h-3.5" />
             <span>{categoryLabel}</span>
@@ -125,26 +128,53 @@ export const AudioPlayerSheet: React.FC = () => {
           </p>
         </div>
 
-        {/* Clickable Progress Bar & Time */}
+        {/* Live Word Teleprompter (Synchronized with Neural Voice) */}
+        {audioWords && audioWords.length > 0 && (
+          <div className="mb-6 max-h-24 overflow-y-auto rounded-tile bg-white/[0.02] border border-white/[0.06] p-3 text-center scrollbar-none">
+            <div className="flex flex-wrap items-center justify-center gap-1.5 text-xs sm:text-sm leading-relaxed">
+              {audioWords.map((w, idx) => {
+                const isCurrent = idx === currentWordIndex;
+                const isPast = currentWordIndex !== -1 && idx < currentWordIndex;
+                return (
+                  <span
+                    key={idx}
+                    className={`transition-all duration-150 px-1 py-0.5 rounded ${
+                      isCurrent
+                        ? 'bg-mint text-obsidian-bg font-extrabold shadow-[0_0_12px_rgba(52,211,153,0.8)] scale-105 inline-block'
+                        : isPast
+                        ? 'text-white/40'
+                        : 'text-white/80'
+                    }`}
+                  >
+                    {w.text}
+                  </span>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
+        {/* Clickable & Draggable Scrubber Bar with Standard Audio Times */}
         <div className="mb-6">
           <div 
             ref={progressRef}
             onClick={handleScrub}
-            className="h-2 w-full bg-white/10 rounded-full cursor-pointer overflow-hidden mb-2 relative group"
-            title="Click to scrub audio"
+            className="h-2 w-full bg-white/10 rounded-full cursor-pointer relative group flex items-center mb-2"
+            title="Click to seek"
           >
             <div
-              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_12px_rgba(52,211,153,0.8)] transition-all duration-150"
-              style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
+              className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_12px_rgba(52,211,153,0.8)] rounded-full transition-all duration-100"
+              style={{ width: `${Number.isFinite(audioProgress) ? Math.max(0, Math.min(100, audioProgress)) : 0}%` }}
+            />
+            {/* Scrubber Knob */}
+            <div
+              className="absolute top-1/2 -translate-y-1/2 -translate-x-1/2 w-3.5 h-3.5 rounded-full bg-white border-2 border-mint shadow-[0_0_8px_rgba(52,211,153,0.9)] opacity-0 group-hover:opacity-100 transition-opacity"
+              style={{ left: `${Number.isFinite(audioProgress) ? Math.max(0, Math.min(100, audioProgress)) : 0}%` }}
             />
           </div>
           <div className="flex items-center justify-between text-xs text-text-secondary font-mono">
-            <span>{isBn ? `${toBanglaDigits(Math.round(audioProgress))}%` : `${Math.round(audioProgress)}%`}</span>
-            <span>
-              {isBn
-                ? `${formatSeconds(audioTimeRemaining)} বাকি`
-                : `${formatSeconds(audioTimeRemaining)} remaining`}
-            </span>
+            <span>{formatSeconds(audioCurrentTime)}</span>
+            <span>{formatSeconds(audioDuration)}</span>
           </div>
         </div>
 

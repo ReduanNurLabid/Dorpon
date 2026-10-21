@@ -318,7 +318,7 @@ export const StudyCanvasModal: React.FC = () => {
               >
                 <div
                   className="h-full bg-gradient-to-r from-mint to-mint-bright shadow-[0_0_8px_rgba(52,211,153,0.7)] transition-all duration-100"
-                  style={{ width: `${Math.max(0, Math.min(100, audioProgress))}%` }}
+                  style={{ width: `${Number.isFinite(audioProgress) ? Math.max(0, Math.min(100, audioProgress)) : 0}%` }}
                 />
               </div>
             )}
