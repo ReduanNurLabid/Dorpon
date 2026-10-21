@@ -125,7 +125,7 @@ export const BroadsheetFrontPage: React.FC = () => {
         {/* ============================================================== */}
         {/* COLUMN 1: Left 25% (Cols 1-3) Secondary Lead Briefings */}
         {/* ============================================================== */}
-        <section className="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col justify-between">
+        <section className="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col">
           <div className="space-y-6">
             {leftStories.map((story, idx) => {
               const title = getTitle(story);
@@ -235,7 +235,7 @@ export const BroadsheetFrontPage: React.FC = () => {
         {/* COLUMN 2: Center 50% (Cols 4-9) Hero Executive Dossier */}
         {/* ============================================================== */}
         {heroStory ? (
-          <article className="md:col-span-6 border-r border-b border-primary/20 p-5 sm:p-6 bg-background flex flex-col justify-between">
+          <article className="md:col-span-6 border-r border-b border-primary/20 p-5 sm:p-6 bg-background flex flex-col">
             <div>
               {/* Story Header Metadata & Actions */}
               <div className="flex items-center justify-between pb-2 border-b border-outline-variant mb-3">
@@ -364,7 +364,7 @@ export const BroadsheetFrontPage: React.FC = () => {
             </div>
 
             {/* Reaction / Utility Pills (Matching Image 4 Bottom Bar) */}
-            <div className="pt-3 border-t border-dashed border-outline-variant flex flex-wrap items-center justify-between gap-2">
+            <div className="mt-4 pt-3 border-t border-dashed border-outline-variant flex flex-wrap items-center justify-between gap-2">
               <div className="flex items-center space-x-2">
                 <button 
                   onClick={() => setInsightCount(prev => ({ ...prev, [heroStory.story_id]: (prev[heroStory.story_id] || 142) + 1 }))}
@@ -397,7 +397,7 @@ export const BroadsheetFrontPage: React.FC = () => {
         {/* ============================================================== */}
         {/* COLUMN 3: Right 25% (Cols 10-12) Popular Briefing Wire & BBS Analysis */}
         {/* ============================================================== */}
-        <section className="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col justify-between">
+        <section className="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col">
           <div>
             {/* Header for Popular Articles Wire */}
             <div className="flex items-center justify-between border-b-2 border-primary pb-1.5 mb-3">
@@ -502,7 +502,7 @@ export const BroadsheetFrontPage: React.FC = () => {
           return (
             <article 
               key={story.story_id || idx}
-              className="border-b md:border-b-0 md:border-r border-primary/20 p-5 bg-surface-container-low hover:bg-surface-container transition-colors flex flex-col justify-between"
+              className="border-b md:border-b-0 md:border-r border-primary/20 p-5 bg-surface-container-low hover:bg-surface-container transition-colors flex flex-col"
             >
               <div>
                 <div className="flex items-center justify-between mb-2">
