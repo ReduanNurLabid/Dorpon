@@ -7,7 +7,9 @@ import {
   ExternalLink,
   ShieldCheck,
   ArrowRight,
-  AlertTriangle
+  AlertTriangle,
+  Share2,
+  Check
 } from 'lucide-react';
 import { getLocalizedCategory, formatRelativeTime, toBanglaDigits } from '../utils/bilingual';
 import { BroadsheetFooter } from './BroadsheetFooter';
@@ -18,21 +20,53 @@ export const CurrentAffairsFeed: React.FC = () => {
     openStory, 
     language, 
     isSerif, 
-    t 
+    t,
+    selectedCurrentAffairId,
+    setSelectedCurrentAffairId
   } = useApp();
 
-  const [selectedStoryId, setSelectedStoryId] = useState<string | null>(null);
-
+  const [copied, setCopied] = useState(false);
   const isBn = language === 'bn';
 
   // Selected story or fallback to first available current affair
   const activeDossier = useMemo(() => {
-    if (selectedStoryId) {
-      const found = currentAffairs.find(s => s.story_id === selectedStoryId);
+    if (selectedCurrentAffairId) {
+      const found = currentAffairs.find(s => s.story_id === selectedCurrentAffairId);
       if (found) return found;
     }
     return currentAffairs.length > 0 ? currentAffairs[0] : null;
-  }, [currentAffairs, selectedStoryId]);
+  }, [currentAffairs, selectedCurrentAffairId]);
+
+  const handleShareDossier = async () => {
+    if (!activeDossier) return;
+    const headlineText = isBn
+      ? (activeDossier.daily_buzz.title_bn || activeDossier.daily_buzz.title_en)
+      : (activeDossier.daily_buzz.title_en || activeDossier.daily_buzz.title_bn);
+
+    const dossierUrl = new URL(window.location.origin + window.location.pathname);
+    dossierUrl.searchParams.set('tab', 'current_affairs');
+    dossierUrl.searchParams.set('story', activeDossier.story_id);
+    const link = dossierUrl.toString();
+
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        await navigator.clipboard.writeText(link);
+      }
+    } catch {}
+
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: headlineText,
+          text: headlineText,
+          url: link,
+        });
+      } catch {}
+    }
+
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
 
   // Related current affairs (excluding active dossier)
   const relatedDossiers = useMemo(() => {
@@ -111,9 +145,9 @@ export const CurrentAffairsFeed: React.FC = () => {
             <span className="inline-block w-2 h-2 rounded-full bg-secondary animate-pulse" />
             <span className="font-bold">{isBn ? 'সংখ্যা: ৪৪ • খণ্ড: ১,৪৮৪' : 'VOL. XLIV NO. 1,484'}</span>
             <span className="text-outline">/</span>
-            <span>{isBn ? 'কৌশলগত নীতি ও বৈশ্বিক অর্থনৈতিক বিশ্লেষণ' : 'STRATEGIC POLICY & GLOBAL GEOECONOMIC DESK'}</span>
+            <span>{isBn ? 'কৌশলগত নীতি ও ভূ-অর্থনৈতিক বিশ্লেষণ' : 'STRATEGIC POLICY & GEOECONOMIC DOSSIER'}</span>
             <span className="hidden md:inline text-outline">/</span>
-            <span className="hidden md:inline">{isBn ? 'ঢাকা ব্যুরো' : 'DHAKA CENTRAL BUREAU'}</span>
+            <span className="hidden md:inline font-semibold text-secondary">{isBn ? 'কারেন্ট অ্যাফেয়ার্স সম্পাদকীয়' : 'CURRENT AFFAIRS EDITORIAL'}</span>
           </div>
           <div className="flex items-center space-x-4 py-0.5">
             <span className="text-outline">{isBn ? 'সংস্করণ: আন্তর্জাতিক ও জাতীয় নিবন্ধন' : 'EDITION: DIPLOMATIC & ECONOMIC REGISTER'}</span>
@@ -128,7 +162,7 @@ export const CurrentAffairsFeed: React.FC = () => {
           <div className="flex items-center gap-2 overflow-x-auto w-full md:w-auto pb-1 md:pb-0 custom-scroll">
             <span className="text-outline font-bold mr-1">{isBn ? 'বিষয়তালিকা:' : 'DOSSIER TRACKS:'}</span>
             {currentAffairs.map((s, idx) => {
-              const isSelected = (selectedStoryId === s.story_id) || (!selectedStoryId && idx === 0);
+              const isSelected = (selectedCurrentAffairId === s.story_id) || (!selectedCurrentAffairId && idx === 0);
               const trackTitle = isBn 
                 ? (s.daily_buzz.title_bn || s.daily_buzz.title_en)
                 : (s.daily_buzz.title_en || s.daily_buzz.title_bn);
@@ -137,7 +171,7 @@ export const CurrentAffairsFeed: React.FC = () => {
               return (
                 <button
                   key={s.story_id}
-                  onClick={() => setSelectedStoryId(s.story_id)}
+                  onClick={() => setSelectedCurrentAffairId(s.story_id)}
                   className={`px-3 py-1 font-semibold whitespace-nowrap transition-colors border cursor-pointer ${
                     isSelected
                       ? 'bg-primary text-background border-primary shadow-sm font-bold'
@@ -170,8 +204,16 @@ export const CurrentAffairsFeed: React.FC = () => {
                 {isBn ? 'বিশেষ নীতি ডসিয়ার' : 'SPECIAL STRATEGIC DOSSIER'} • #{activeDossier.story_id.slice(0, 8).toUpperCase()}
               </span>
             </div>
-            <div className="flex items-center space-x-3 text-label-sm font-label-sm text-on-surface-variant">
-              <span>{isBn ? 'প্রকাশনা ডেক্স:' : 'FILED FROM:'} <strong>{isBn ? 'ঢাকা ও আঞ্চলিক প্রতিনিধি' : 'DHAKA & REGIONAL BUREAUS'}</strong></span>
+            <div className="flex items-center space-x-3 text-label-sm font-label-sm text-on-surface-variant flex-wrap gap-2">
+              <span>{isBn ? 'সম্পাদনা ও তত্ত্বাবধান:' : 'EDITORIAL SUPERVISION:'} <strong>{isBn ? 'কারেন্ট অ্যাফেয়ার্স সম্পাদকীয় সেল (হিউম্যান ইন দ্য লুপ)' : 'Current Affairs Editorial Desk (Human-Managed)'}</strong></span>
+              <button
+                onClick={handleShareDossier}
+                className="inline-flex items-center gap-1.5 px-2.5 py-1 bg-surface-container-high hover:bg-primary hover:text-background border border-primary/30 transition-colors font-medium text-xs rounded-sm cursor-pointer ml-1 shadow-sm"
+                title={isBn ? 'এই ডসিয়ারের স্থায়ী লিঙ্ক কপি করুন' : 'Copy dossier permalink'}
+              >
+                {copied ? <Check className="w-3.5 h-3.5 text-secondary" /> : <Share2 className="w-3.5 h-3.5" />}
+                <span>{copied ? (isBn ? 'লিঙ্ক কপি হয়েছে' : 'Copied!') : (isBn ? 'শেয়ার লিঙ্ক' : 'Share Link')}</span>
+              </button>
             </div>
           </div>
 
@@ -492,7 +534,7 @@ export const CurrentAffairsFeed: React.FC = () => {
                     <article
                       key={rel.story_id}
                       onClick={() => {
-                        setSelectedStoryId(rel.story_id);
+                        setSelectedCurrentAffairId(rel.story_id);
                         window.scrollTo({ top: 120, behavior: 'smooth' });
                       }}
                       className="p-4 bg-surface-container-low border border-primary/20 flex flex-col justify-between hover:border-primary transition-colors cursor-pointer"

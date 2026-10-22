@@ -84,7 +84,7 @@ export const Header: React.FC = () => {
             <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
             <span className="text-outline-variant hidden sm:inline">|</span>
             <span className="hidden sm:inline font-medium text-on-surface">
-              {isBn ? `ঢাকা নিউজ ডেস্ক • ${dateFormatted} • লাইভ এডিশন` : `Dhaka News Desk • ${dateFormatted} • Live Edition`}
+              {isBn ? `এআই নিউজ ইঞ্জিন • ${dateFormatted} • লাইভ এডিশন` : `AI News Engine • ${dateFormatted} • Live Edition`}
             </span>
           </div>
 
@@ -173,9 +173,9 @@ export const Header: React.FC = () => {
               <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span>
               {isBn ? 'স্ট্রাকচার্ড ব্রিফিং' : 'STRUCTURED BRIEFINGS'}
             </span>
-            <span>FORMAT: 3-TIER INTELLIGENCE</span>
-            <span>VERIFIED TELEMETRY #102</span>
-            <span>CIRCULATION: 184,200</span>
+            <span>{isBn ? 'ফরম্যাট: ৩-স্তরীয় ব্রিফিং' : 'FORMAT: 3-TIER INTELLIGENCE'}</span>
+            <span>{isBn ? 'সংস্করণ: ডিজিটাল ব্রডশিট' : 'EDITION: DIGITAL BROADSHEET'}</span>
+            <span>{isBn ? 'যাচাই: বহু-উৎস সংবাদ বিশ্লেষণ' : 'SYNTHESIS: VERIFIED MULTI-SOURCE'}</span>
           </div>
         </div>
 

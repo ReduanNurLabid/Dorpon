@@ -99,10 +99,10 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
     return count
 
 
-def get_recent_published_stories(limit: int = 100) -> List[Dict[str, Any]]:
+def get_recent_published_stories(limit: int = 100, max_age_hours: float = 30.0) -> List[Dict[str, Any]]:
     """
     Fetches recent stories from Firestore 'daily_buzz' and 'hourly_buzz' collections
-    to maintain cross-run event memory and prevent duplicate story generation.
+    within the past 30 hours to maintain cross-run event memory and prevent duplicate story generation.
     Falls back to data/output/hourly_buzz_latest.json if Firestore is unreachable.
     """
     import json
@@ -116,7 +116,20 @@ def get_recent_published_stories(limit: int = 100) -> List[Dict[str, Any]]:
         for doc in docs:
             data = doc.to_dict()
             s_id = data.get("story_id") or doc.id
-            if s_id and s_id not in seen_ids:
+            pub_str = data.get("published_at") or data.get("publishedAt")
+            is_within_window = True
+            if pub_str and max_age_hours:
+                try:
+                    from datetime import datetime, timezone
+                    pub_dt = datetime.fromisoformat(pub_str.replace("Z", "+00:00"))
+                    if pub_dt.tzinfo is None:
+                        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                    age_h = (datetime.now(timezone.utc) - pub_dt).total_seconds() / 3600.0
+                    if age_h > max_age_hours:
+                        is_within_window = False
+                except Exception:
+                    pass
+            if s_id and s_id not in seen_ids and is_within_window:
                 seen_ids.add(s_id)
                 stories.append(data)
                 
@@ -125,7 +138,20 @@ def get_recent_published_stories(limit: int = 100) -> List[Dict[str, Any]]:
         for doc in h_docs:
             data = doc.to_dict()
             s_id = data.get("story_id") or doc.id
-            if s_id and s_id not in seen_ids:
+            pub_str = data.get("published_at") or data.get("publishedAt")
+            is_within_window = True
+            if pub_str and max_age_hours:
+                try:
+                    from datetime import datetime, timezone
+                    pub_dt = datetime.fromisoformat(pub_str.replace("Z", "+00:00"))
+                    if pub_dt.tzinfo is None:
+                        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                    age_h = (datetime.now(timezone.utc) - pub_dt).total_seconds() / 3600.0
+                    if age_h > max_age_hours:
+                        is_within_window = False
+                except Exception:
+                    pass
+            if s_id and s_id not in seen_ids and is_within_window:
                 seen_ids.add(s_id)
                 stories.append(data)
     except Exception as e:

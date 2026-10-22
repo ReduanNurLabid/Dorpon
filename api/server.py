@@ -255,20 +255,48 @@ def publish_editorial_story(payload: dict = Body(...)):
     today_str = datetime.now().strftime("%Y-%m-%d")
     now_iso = datetime.now().isoformat()
 
+    # Load existing published stories to preserve history
+    existing_stories = []
+    if os.path.exists(CURRENT_AFFAIRS_FILE):
+        try:
+            with open(CURRENT_AFFAIRS_FILE, "r", encoding="utf-8") as f:
+                prev_data = json.load(f)
+                existing_stories = prev_data.get("stories", [])
+        except Exception:
+            existing_stories = []
+
+    new_story_id = story.get("story_id") or f"story-editorial-{int(datetime.now().timestamp())}"
+    story["story_id"] = new_story_id
+    if not story.get("published_at"):
+        story["published_at"] = now_iso
+
+    merged_stories = [story] + [s for s in existing_stories if s.get("story_id") != new_story_id]
+    preset_ids = [s.get("story_id") for s in merged_stories if s.get("story_id")]
+
     full_payload = {
         "status": "published",
         "edition_date": today_str,
         "created_at": now_iso,
         "published_at": now_iso,
-        "total_stories": 1,
-        "bcs_pro_preset_story_ids": [story.get("story_id", "story-editorial-latest")],
+        "total_stories": len(merged_stories),
+        "bcs_pro_preset_story_ids": preset_ids,
         "review_notes": "Direct human editorial broadcast via Dorpon Studio.",
-        "stories": [story]
+        "stories": merged_stories
     }
 
-    # 1. Update local current affairs file
-    with open(CURRENT_AFFAIRS_FILE, "w", encoding="utf-8") as f:
-        json.dump(full_payload, f, ensure_ascii=False, indent=2)
+    # 1. Update local files (data/output and web public/dist)
+    target_files = [
+        CURRENT_AFFAIRS_FILE,
+        os.path.join(os.path.dirname(__file__), "..", "web", "public", "data", "current_affairs_latest.json"),
+        os.path.join(os.path.dirname(__file__), "..", "web", "dist", "data", "current_affairs_latest.json")
+    ]
+    for tf in target_files:
+        try:
+            os.makedirs(os.path.dirname(tf), exist_ok=True)
+            with open(tf, "w", encoding="utf-8") as f:
+                json.dump(full_payload, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Warning writing to {tf}: {e}")
 
     # 2. Update Firestore
     firestore_synced = False
@@ -282,6 +310,7 @@ def publish_editorial_story(payload: dict = Body(...)):
         if firebase_admin._apps:
             db = firestore.client()
             db.collection("current_affairs_published").document("latest").set(full_payload)
+            db.collection("current_affairs_published").document(today_str).set(full_payload)
             db.collection("bcs_pro_published").document("latest").set(full_payload)
             db.collection("bcs_pro_published").document(today_str).set(full_payload)
             firestore_synced = True
@@ -293,7 +322,8 @@ def publish_editorial_story(payload: dict = Body(...)):
         "message": "Successfully published Current Affairs article!",
         "edition_date": today_str,
         "firestore_synced": firestore_synced,
-        "story_id": story.get("story_id")
+        "total_stories": len(merged_stories),
+        "story_id": new_story_id
     }
 
 @app.post("/api/editor/save-draft")

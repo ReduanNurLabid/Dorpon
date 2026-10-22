@@ -23,10 +23,10 @@ export const BreakingWiresTicker: React.FC = () => {
   return (
     <div className="w-full bg-surface-container-high border-b border-primary/20 shadow-sm overflow-hidden select-none">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5 flex items-center text-body-sm">
-        {/* EXECUTIVE WIRE BADGE */}
+        {/* TAJA KHOBOR / LATEST NEWS BADGE */}
         <div className="bg-primary text-background px-2.5 py-0.5 font-label-sm text-label-sm uppercase font-bold tracking-wider mr-3 whitespace-nowrap flex items-center gap-1.5 shrink-0 shadow-sm z-10">
           <Zap className="w-3.5 h-3.5 fill-current text-secondary-container" />
-          <span>{isBn ? 'নির্বাহী ওয়্যার' : 'EXECUTIVE WIRE'}</span>
+          <span>{isBn ? 'তাজা খবর' : 'LATEST NEWS'}</span>
         </div>
 
         {/* Continuous Rotating Wire Stream */}

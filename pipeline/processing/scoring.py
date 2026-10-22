@@ -128,16 +128,16 @@ def compute_time_decayed_score(
     base_importance: float,
     published_at_iso: Optional[str],
     now_dt: Optional[datetime] = None,
-    gravity: float = 1.3
+    gravity: float = 1.3,
+    max_active_window_hours: float = 30.0
 ) -> float:
     """
     Applies logarithmic-power time decay to balance importance against freshness:
     RankScore = BaseImportance / (AgeInHours + 2.0) ** gravity
 
-    Behavior:
-    - Fresh news (0-1h) gets high priority.
-    - An old 24h story with 9.0 importance decays to ~0.13, gracefully letting fresh 4.0 news (score 1.43) lead.
-    - A 2-hour-old breaking story (9.0 imp -> 1.73) still beats a 10-minute trivial story (2.0 imp -> 0.71).
+    Enforces a strict 30-hour active window. Beyond 30 hours, an additional
+    exponential decay penalty is applied so yesterday's stories naturally
+    relinquish the front page hero slot.
     """
     if not now_dt:
         now_dt = datetime.now(timezone.utc)
@@ -145,7 +145,6 @@ def compute_time_decayed_score(
     age_hours = 0.0
     if published_at_iso:
         try:
-            # Handle ISO formats
             clean_iso = published_at_iso.replace("Z", "+00:00")
             pub_dt = datetime.fromisoformat(clean_iso)
             if pub_dt.tzinfo is None:
@@ -155,7 +154,13 @@ def compute_time_decayed_score(
         except Exception:
             age_hours = 0.5  # reasonable default
 
-    # Decay denominator
+    # Standard gravity decay denominator
     decay = math.pow(age_hours + 2.0, gravity)
+
+    # Beyond 30 hours, apply an aggressive cutoff penalty
+    if age_hours > max_active_window_hours:
+        overstay = age_hours - max_active_window_hours
+        decay *= math.pow(1.0 + overstay, 2.0)
+
     rank_score = base_importance / decay
     return round(rank_score, 4)

@@ -215,7 +215,7 @@ clearSaved,
               <span>Sondesh Express Autonomous Intelligence</span>
             </div>
             <p className="font-serif text-xs text-on-surface-variant leading-relaxed">
-              Autonomous verified multi-source news synthesis. Cross-indexed against official registers, constitutional articles, and institutional telemetry.
+              Autonomous verified multi-source news synthesis. Cross-indexed against official registers, constitutional articles, and institutional public records.
             </p>
             <div className="flex items-center space-x-2 font-sans text-[10px] uppercase text-outline pt-1">
               <span>Established 1 November 2026</span>

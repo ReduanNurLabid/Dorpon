@@ -80,20 +80,29 @@ export const BroadsheetFrontPage: React.FC = () => {
   const handleShare = async (story: CapsuleStory, e: React.MouseEvent) => {
     e.stopPropagation();
     const title = getTitle(story);
+    const storyUrl = new URL(window.location.origin + window.location.pathname);
+    storyUrl.searchParams.set('story', story.story_id);
+    const permalink = storyUrl.toString();
+
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        await navigator.clipboard.writeText(permalink);
+      }
+    } catch {}
+
     if (navigator.share) {
       try {
         await navigator.share({
           title,
           text: title,
-          url: window.location.href,
+          url: permalink,
         });
+        return;
       } catch {
         // User dismissed
       }
-    } else {
-      navigator.clipboard.writeText(`${title} - ${window.location.href}`);
-      alert(isBn ? 'সংবাদের লিঙ্ক কপি করা হয়েছে!' : 'Briefing link copied to clipboard!');
     }
+    alert(isBn ? 'সংবাদের সরাসরি লিঙ্ক কপি করা হয়েছে!' : 'Article permalink copied to clipboard!');
   };
 
   const handleSubscribe = (e: React.FormEvent) => {
@@ -105,28 +114,37 @@ export const BroadsheetFrontPage: React.FC = () => {
     }
   };
 
-  // Divide available stories across the broadsheet columns
-  const heroStory = buzzStories[0] || hourlyWires[0] || null;
-  const leftStories = buzzStories.slice(1, 3);
-  const wireDeskStories = hourlyWires.length >= 4 
-    ? hourlyWires.slice(0, 4) 
-    : (hourlyWires.length > 0 ? [...hourlyWires, ...buzzStories.slice(3, 3 + (4 - hourlyWires.length))] : buzzStories.slice(3, 7));
-  
-  // Lower 3-column investigations: 2 full rows (6 stories total)
-  const lowerStories = (() => {
-    // Collect stories not already placed in hero or left column
-    const usedIds = new Set<string>();
-    if (heroStory) usedIds.add(heroStory.story_id);
-    leftStories.forEach(s => usedIds.add(s.story_id));
+  // Divide available stories across the broadsheet columns with strict cross-column deduplication
+  // Enforce 30-hour active window on the Center Hero slot so yesterday's stories yield to fresh news
+  const freshBuzz = buzzStories.filter(s => {
+    if (!s.published_at) return true;
+    const ageHours = (Date.now() - new Date(s.published_at).getTime()) / (3600 * 1000);
+    return ageHours <= 30;
+  });
 
-    const pool = [
-      ...currentAffairs.filter(s => !usedIds.has(s.story_id)),
-      ...buzzStories.filter(s => !usedIds.has(s.story_id)),
-      ...hourlyWires.filter(s => !usedIds.has(s.story_id))
-    ];
+  const heroStory = freshBuzz[0] || buzzStories[0] || hourlyWires[0] || null;
+  const leftStories = buzzStories.filter(s => s.story_id !== heroStory?.story_id).slice(0, 2);
 
-    return pool.slice(0, 6);
-  })();
+  const usedTopIds = new Set<string>();
+  if (heroStory) usedTopIds.add(heroStory.story_id);
+  leftStories.forEach(s => usedTopIds.add(s.story_id));
+
+  // Wire desk (Column 3: তাজা খবর) - strictly filter out hero and left stories to prevent cross-column duplicate cards
+  const candidateWires = hourlyWires.filter(s => !usedTopIds.has(s.story_id));
+  const candidateBuzz = buzzStories.slice(3).filter(s => !usedTopIds.has(s.story_id));
+  const wireDeskStories = candidateWires.length >= 4 
+    ? candidateWires.slice(0, 4) 
+    : [...candidateWires, ...candidateBuzz].slice(0, 4);
+
+  // Add wire desk stories to used IDs so lower grid never repeats them
+  wireDeskStories.forEach(s => usedTopIds.add(s.story_id));
+
+  // Lower 3-column investigations: 2 full rows (6 stories total), 100% deduplicated across the entire broadsheet
+  const lowerStories = [
+    ...currentAffairs.filter(s => !usedTopIds.has(s.story_id)),
+    ...buzzStories.filter(s => !usedTopIds.has(s.story_id)),
+    ...hourlyWires.filter(s => !usedTopIds.has(s.story_id))
+  ].slice(0, 6);
 
 
 
@@ -221,7 +239,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                           <ExternalLink className="w-2.5 h-2.5" />
                         </a>
                       ) : (
-                        <span className="text-on-surface-variant font-semibold">Dorpon Wire</span>
+                        <span className="text-on-surface-variant font-semibold">{isBn ? 'সন্দেশ ওয়্যার' : 'Sondesh Wire'}</span>
                       )}
                     </div>
                   </div>
@@ -284,10 +302,10 @@ export const BroadsheetFrontPage: React.FC = () => {
                   />
                   <div className="p-2 bg-surface-container-high border-t border-primary/20 flex items-center justify-between font-label-sm text-label-sm">
                     <span className="italic text-on-surface-variant truncate mr-2">
-                      {heroStory.image_caption || (isBn ? 'আর্কাইভাল টেলিমেট্রি: জাতীয় সংবাদের আলোকচিত্র।' : 'Archival Telemetry: Dorpon Intelligence photo report.')}
+                      {heroStory.image_caption || (isBn ? 'আর্কাইভাল চিত্র: জাতীয় সংবাদের আলোকচিত্র।' : 'Archival Photo: Sondesh Express documentary report.')}
                     </span>
                     <span className="font-semibold text-primary shrink-0 uppercase">
-                      WIRE: DORPON BUREAU
+                      WIRE: SONDESH EXPRESS
                     </span>
                   </div>
                 </div>
@@ -389,7 +407,7 @@ export const BroadsheetFrontPage: React.FC = () => {
             {/* Header for Popular Articles Wire */}
             <div className="flex items-center justify-between border-b-2 border-primary pb-1.5 mb-3">
               <h3 className="font-serif text-sm uppercase tracking-tight text-primary font-bold">
-                {isBn ? 'নির্বাহী ওয়্যার ডেস্ক' : 'Executive Wire Desk'}
+                {isBn ? 'তাজা খবর' : 'Latest News'}
               </h3>
               <span className="bg-secondary text-on-secondary px-2 py-0.5 font-label-sm text-label-sm font-bold rounded">
                 {wireDeskStories.length} {isBn ? 'সংক্ষেপ' : 'Briefs'}
@@ -457,7 +475,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                           <ExternalLink className="w-2 h-2" />
                         </a>
                       ) : (
-                        <span className="font-bold text-primary">Dorpon Wire</span>
+                        <span className="font-bold text-primary">{isBn ? 'সন্দেশ ওয়্যার' : 'Sondesh Wire'}</span>
                       )}
                     </div>
                   </article>
@@ -548,7 +566,7 @@ export const BroadsheetFrontPage: React.FC = () => {
 
               <div className="mt-4 pt-2 border-t border-outline-variant flex items-center justify-between font-label-sm text-label-sm">
                 <span className="text-on-surface-variant font-semibold">
-                  {story.sources && story.sources[0]?.name ? story.sources[0].name : 'Dorpon Desk'}
+                  {story.sources && story.sources[0]?.name ? story.sources[0].name : (isBn ? 'এআই সিন্থেসিস' : 'AI Synthesis')}
                 </span>
                 {primarySource ? (
                   <a 

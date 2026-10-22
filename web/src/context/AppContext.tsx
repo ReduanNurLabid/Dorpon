@@ -16,6 +16,8 @@ interface AppContextType {
   setFocusMode: (val: boolean) => void;
   activeTab: TabType;
   setActiveTab: (tab: TabType) => void;
+  selectedCurrentAffairId: string | null;
+  setSelectedCurrentAffairId: (id: string | null) => void;
   savedStoryIds: string[];
   toggleSave: (storyId: string) => void;
   isSaved: (storyId: string) => boolean;
@@ -73,7 +75,43 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   });
   const [fontSize, setFontSizeState] = useState<'sm' | 'base' | 'lg'>('base');
   const [focusMode, setFocusModeState] = useState<boolean>(false);
-  const [activeTab, setActiveTab] = useState<TabType>('top_stories');
+  const [activeTab, setActiveTabState] = useState<TabType>('top_stories');
+  const [selectedCurrentAffairId, setSelectedCurrentAffairIdState] = useState<string | null>(null);
+
+  const setSelectedCurrentAffairId = (id: string | null) => {
+    setSelectedCurrentAffairIdState(id);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      if (id) {
+        url.searchParams.set('story', id);
+        url.searchParams.set('tab', 'current_affairs');
+      } else {
+        url.searchParams.delete('story');
+      }
+      window.history.replaceState({ storyId: id, tab: 'current_affairs' }, '', url.toString());
+    }
+  };
+
+  const setActiveTab = (tab: TabType) => {
+    setActiveTabState(tab);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      if (tab === 'current_affairs') {
+        url.searchParams.set('tab', 'current_affairs');
+        if (selectedCurrentAffairId) {
+          url.searchParams.set('story', selectedCurrentAffairId);
+        } else if (currentAffairs.length > 0) {
+          url.searchParams.set('story', currentAffairs[0].story_id);
+        }
+      } else {
+        url.searchParams.delete('tab');
+        if (url.searchParams.get('tab') === 'current_affairs') {
+          url.searchParams.delete('story');
+        }
+      }
+      window.history.replaceState({ tab }, '', url.toString());
+    }
+  };
 
   const [savedStoryIds, setSavedStoryIds] = useState<string[]>(() => {
     try {
@@ -321,10 +359,20 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
   const openStory = (story: CapsuleStory) => {
     setActiveStory(story);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('story', story.story_id);
+      window.history.pushState({ storyId: story.story_id }, '', url.toString());
+    }
   };
 
   const closeStory = () => {
     setActiveStory(null);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.delete('story');
+      window.history.pushState({}, '', url.toString());
+    }
   };
 
   const t = (key: keyof typeof translations['en']): string => {
@@ -360,6 +408,45 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     for (const s of hourlyWires) map.set(s.story_id, s);
     return Array.from(map.values());
   }, [buzzStories, currentAffairs, hourlyWires]);
+
+  // Deep linking and permalink synchronization
+  useEffect(() => {
+    if (typeof window === 'undefined' || allStories.length === 0) return;
+
+    const syncFromUrl = () => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const storyParam = urlParams.get('story');
+      const tabParam = urlParams.get('tab') as TabType | null;
+
+      if (tabParam && ['top_stories', 'current_affairs', 'discover'].includes(tabParam)) {
+        setActiveTabState(tabParam);
+      }
+
+      if (storyParam) {
+        const affairMatch = currentAffairs.find(s => s.story_id === storyParam);
+        if (affairMatch || tabParam === 'current_affairs') {
+          setActiveTabState('current_affairs');
+          setSelectedCurrentAffairIdState(storyParam);
+        } else {
+          const storyMatch = allStories.find(s => s.story_id === storyParam);
+          if (storyMatch) {
+            setActiveStory(storyMatch);
+          }
+        }
+      } else if (!urlParams.has('story')) {
+        setActiveStory(null);
+      }
+    };
+
+    syncFromUrl();
+
+    const handlePopState = () => {
+      syncFromUrl();
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+  }, [allStories, currentAffairs]);
 
   // Audio Player Engine
   const stopAudio = () => {
@@ -555,6 +642,8 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         setFocusMode,
         activeTab,
         setActiveTab,
+        selectedCurrentAffairId,
+        setSelectedCurrentAffairId,
         savedStoryIds,
         toggleSave,
         isSaved,

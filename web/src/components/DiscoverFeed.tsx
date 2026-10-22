@@ -209,7 +209,7 @@ export const DiscoverFeed: React.FC = () => {
             <div className="pt-2 border-t border-primary/10">
               <div className="flex items-center space-x-1.5 font-label-sm text-label-sm font-bold uppercase text-on-surface-variant mb-2">
                 <Globe className="w-3.5 h-3.5" />
-                <span>{isBn ? 'প্রকাশক ও ওয়্যার ব্যুরো' : 'Publisher Desks & Wire Services'}</span>
+                <span>{isBn ? 'সংবাদ উৎস ও ওয়্যার সার্ভিস' : 'News Sources & Wire Services'}</span>
               </div>
               <div className="flex flex-wrap gap-1.5">
                 {allSources.map((src) => {
