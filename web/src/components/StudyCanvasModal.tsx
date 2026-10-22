@@ -79,19 +79,29 @@ export const StudyCanvasModal: React.FC = () => {
   const serialRef = `Ref #${activeStory.story_id.slice(0, 8).toUpperCase()}`;
 
   const handleShare = async () => {
+    if (!activeStory) return;
+    const storyUrl = new URL(window.location.origin + window.location.pathname);
+    storyUrl.searchParams.set('story', activeStory.story_id);
+    const permalink = storyUrl.toString();
+
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        await navigator.clipboard.writeText(permalink);
+      }
+    } catch {}
+
     if (navigator.share) {
       try {
         await navigator.share({
           title: headline,
           text: whyItMatters || headline,
-          url: window.location.href,
+          url: permalink,
         });
       } catch {}
-    } else {
-      navigator.clipboard.writeText(`${headline}\n${window.location.href}`);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
     }
+
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
   };
 
   const handleVoteInsightful = () => {
@@ -209,10 +219,10 @@ export const StudyCanvasModal: React.FC = () => {
               <span>{timeFormatted}</span>
               <span className="text-ink/30">•</span>
               <span className="text-ink font-bold">
-                {activeStory.sources.length > 0 ? activeStory.sources[0].name : 'Dorpon Intelligence'}
+                {activeStory.sources.length > 0 ? activeStory.sources[0].name : (isBn ? 'সন্দেশ এক্সপ্রেস এআই' : 'Sondesh Intelligence')}
               </span>
               <span className="text-ink/30">•</span>
-              <span>{isBn ? 'টেলিমেট্রি ডেস্ক কর্তৃক দাখিলকৃত' : 'Filed by Telemetry Desk'}</span>
+              <span>{isBn ? 'এআই যাচাইকৃত সংবাদ সংকলন' : 'AI-Verified Synthesis'}</span>
               <span className="text-ink/30">•</span>
               <span className="font-mono text-[11px] bg-paper-dim px-1.5 py-0.2 border border-ink/20">
                 {serialRef}
@@ -279,10 +289,10 @@ export const StudyCanvasModal: React.FC = () => {
                 </div>
                 <figcaption className="px-2 pt-2 pb-1 font-sans text-[11px] text-ink-muted flex flex-col sm:flex-row sm:items-center justify-between gap-1 border-t border-ink/10 mt-1">
                   <span>
-                    {activeStory.image_caption || (isBn ? 'আর্কাইভাল টেলিমেট্রি: তথ্য ও সম্প্রচার চিত্র প্রতিবেদন।' : 'Archival Telemetry: Dorpon Intelligence photo report.')}
+                    {activeStory.image_caption || (isBn ? 'আর্কাইভাল চিত্র: তথ্য ও প্রাসঙ্গিক আলোকচিত্র প্রতিবেদন।' : 'Archival Photo: Sondesh Express documentary report.')}
                   </span>
                   <span className="font-semibold uppercase text-ink text-[10px] tracking-wide shrink-0">
-                    WIRE: DORPON BUREAU
+                    WIRE: SONDESH EXPRESS
                   </span>
                 </figcaption>
               </figure>
@@ -320,7 +330,7 @@ export const StudyCanvasModal: React.FC = () => {
             <aside className="border border-ink bg-paper-box p-3.5 sm:p-4 text-xs font-sans text-ink space-y-2">
               <div className="flex items-center justify-between">
                 <span className="font-bold tracking-wider uppercase text-[10px] bg-ink text-paper px-2 py-0.5">
-                  {isBn ? 'যাচাইকৃত পরিসংখ্যান ও উপাত্ত' : 'Verified Telemetry & Empirical Data'}
+                  {isBn ? 'যাচাইকৃত পরিসংখ্যান ও উপাত্ত' : 'Verified Statistics & Empirical Data'}
                 </span>
                 <span className="font-mono text-[10px] text-accent-emerald font-semibold uppercase">
                   Verified Data

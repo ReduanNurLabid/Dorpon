@@ -124,7 +124,7 @@ export const AudioPlayerSheet: React.FC = () => {
             {title}
           </h3>
           <p className="text-xs text-text-secondary mt-1">
-            {isBn ? 'দর্পণ স্মার্ট অডিও ব্রিফিং (বাংলা)' : 'Dorpon Smart Audio Briefing (English)'}
+            {isBn ? 'সন্দেশ এক্সপ্রেস স্মার্ট অডিও ব্রিফিং (বাংলা)' : 'Sondesh Express Smart Audio Briefing (English)'}
           </p>
         </div>
 

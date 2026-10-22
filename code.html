@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Dorpon Daily Intelligence — Executive Summary Edition</title>
+<!-- Material Symbols Outlined -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<!-- Google Fonts: Newsreader & Space Grotesk -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,600&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Tailwind Theme Configuration -->
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          "colors": {
+            "secondary-container": "#82f5c1",
+            "on-primary-fixed": "#1c1b1b",
+            "surface-variant": "#e5e2da",
+            "error-container": "#ffdad6",
+            "surface-container-low": "#f6f3eb",
+            "on-tertiary": "#ffffff",
+            "background": "#fcf9f1",
+            "inverse-primary": "#c8c6c5",
+            "primary": "#000000",
+            "on-background": "#1c1c17",
+            "on-surface-variant": "#444748",
+            "outline": "#747878",
+            "on-tertiary-fixed": "#2a1800",
+            "on-primary-container": "#858383",
+            "primary-fixed": "#e5e2e1",
+            "on-surface": "#1c1c17",
+            "on-secondary": "#ffffff",
+            "on-primary": "#ffffff",
+            "secondary": "#006c4a",
+            "surface-dim": "#dcdad2",
+            "primary-fixed-dim": "#c8c6c5",
+            "surface": "#fcf9f1",
+            "surface-container-high": "#ebe8e0",
+            "inverse-surface": "#31312b",
+            "surface-container-lowest": "#ffffff",
+            "tertiary-fixed": "#ffddb6",
+            "secondary-fixed-dim": "#68dba9",
+            "surface-container-highest": "#e5e2da",
+            "outline-variant": "#c4c7c7",
+            "on-error-container": "#93000a",
+            "secondary-fixed": "#85f8c4",
+            "error": "#ba1a1a",
+            "on-error": "#ffffff",
+            "surface-container": "#f1eee6",
+            "on-tertiary-fixed-variant": "#5e4119",
+            "surface-bright": "#fcf9f1",
+            "primary-container": "#1c1b1b",
+            "on-secondary-container": "#00714e",
+            "inverse-on-surface": "#f3f1e9",
+            "tertiary-container": "#2a1800",
+            "on-primary-fixed-variant": "#474646",
+            "on-secondary-fixed-variant": "#005137",
+            "tertiary": "#000000",
+            "surface-tint": "#5f5e5e",
+            "on-secondary-fixed": "#002114",
+            "tertiary-fixed-dim": "#eabf8c",
+            "on-tertiary-container": "#a17d50"
+          },
+          "borderRadius": {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+          "spacing": {
+            "space-sm": "0.5rem",
+            "margin-tablet": "1.5rem",
+            "space-md": "1rem",
+            "space-lg": "1.5rem",
+            "space-xl": "2.5rem",
+            "margin": "1rem",
+            "margin-desktop": "2.5rem",
+            "gutter-desktop": "1.5rem",
+            "space-xs": "0.25rem",
+            "gutter": "1rem"
+          },
+          "fontFamily": {
+            "headline-xl": ["Newsreader"],
+            "headline-xl-mobile": ["Newsreader"],
+            "display-masthead-mobile": ["Newsreader"],
+            "body-sm": ["Newsreader"],
+            "label-md": ["Space Grotesk"],
+            "body-md": ["Newsreader"],
+            "label-lg": ["Space Grotesk"],
+            "headline-md": ["Newsreader"],
+            "body-lg": ["Newsreader"],
+            "headline-sm": ["Newsreader"],
+            "headline-lg": ["Newsreader"],
+            "label-sm": ["Space Grotesk"],
+            "headline-lg-mobile": ["Newsreader"],
+            "display-masthead": ["Newsreader"]
+          },
+          "fontSize": {
+            "headline-xl": ["36px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "600" }],
+            "headline-xl-mobile": ["26px", { "lineHeight": "30px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "display-masthead-mobile": ["36px", { "lineHeight": "40px", "letterSpacing": "-0.02em", "fontWeight": "700" }],
+            "body-sm": ["13px", { "lineHeight": "18px", "fontWeight": "400" }],
+            "label-md": ["11px", { "lineHeight": "14px", "letterSpacing": "0.08em", "fontWeight": "500" }],
+            "body-md": ["15px", { "lineHeight": "22px", "fontWeight": "400" }],
+            "label-lg": ["13px", { "lineHeight": "16px", "letterSpacing": "0.06em", "fontWeight": "600" }],
+            "headline-md": ["20px", { "lineHeight": "24px", "letterSpacing": "-0.01em", "fontWeight": "500" }],
+            "body-lg": ["17px", { "lineHeight": "26px", "fontWeight": "400" }],
+            "headline-sm": ["16px", { "lineHeight": "20px", "fontWeight": "600" }],
+            "headline-lg": ["26px", { "lineHeight": "30px", "letterSpacing": "-0.015em", "fontWeight": "600" }],
+            "label-sm": ["10px", { "lineHeight": "12px", "letterSpacing": "0.1em", "fontWeight": "600" }],
+            "headline-lg-mobile": ["22px", { "lineHeight": "26px", "letterSpacing": "-0.01em", "fontWeight": "600" }],
+            "display-masthead": ["54px", { "lineHeight": "58px", "letterSpacing": "-0.03em", "fontWeight": "700" }]
+          }
+        }
+      }
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    .custom-scroll::-webkit-scrollbar {
+      height: 4px;
+    }
+    .custom-scroll::-webkit-scrollbar-thumb {
+      background: #c4c7c7;
+    }
+  </style>
+</head>
+<body class="bg-background text-on-surface antialiased selection:bg-secondary-container selection:text-primary">
+<!-- TOP BROADSHEET UTILITY RIBBON -->
+<header class="w-full bg-background border-b border-primary/20">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2 flex flex-wrap items-center justify-between text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider">
+<div class="flex items-center space-x-3">
+<span class="flex items-center gap-1 font-semibold text-primary">
+<span class="material-symbols-outlined text-[15px]">newspaper</span>
+        Est. MDCCCCLXXXIV
+      </span>
+<span class="text-outline-variant">|</span>
+<span>Vol. XLIV No. 1,482</span>
+<span class="text-outline-variant hidden sm:inline">|</span>
+<span class="hidden sm:inline">Dhaka • Sunday, Oct 25, 2026 • 28°C Hazy</span>
+</div>
+<div class="flex items-center space-x-4">
+<span class="text-secondary font-semibold hidden md:inline flex items-center gap-1">
+<span class="w-2 h-2 rounded-full bg-secondary inline-block animate-pulse"></span>
+        3-TIER EXECUTIVE DOSSIER MODE
+      </span>
+<span class="text-outline-variant hidden md:inline">|</span>
+<span class="hover:text-primary cursor-pointer transition-colors">Edition: International (EN / বাংলা)</span>
+<span class="text-outline-variant">|</span>
+<a class="text-primary font-bold hover:underline" href="#subscribe">Subscribe</a>
+<a class="hover:text-primary transition-colors" href="#signin">Sign In</a>
+</div>
+</div>
+</header>
+<!-- GRAND MASTHEAD -->
+<div class="w-full border-b border-primary/20 bg-background">
+<div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col">
+<!-- Center Grand Masthead -->
+<div class="py-6 border-b border-primary/10 flex flex-col items-center justify-center relative">
+<div class="absolute left-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-left text-on-surface-variant font-label-sm text-label-sm">
+<span class="font-bold text-primary">FINANCIAL REGISTER</span>
+<span>REPO: 10.00% (+25bps)</span>
+<span>FOREX RES: $24.81B</span>
+<span>INFLATION: 9.92% YoY</span>
+</div>
+<h1 class="font-display-masthead text-display-masthead tracking-tight text-primary uppercase text-center py-1">
+        DORPON DAILY INTELLIGENCE
+      </h1>
+<p class="font-headline-sm text-headline-sm italic text-on-surface-variant text-center max-w-2xl mt-1">
+        The Independent Journal of National Affairs, Governance, Macroeconomy &amp; Executive Briefings
+      </p>
+<div class="absolute right-0 top-1/2 -translate-y-1/2 hidden xl:flex flex-col text-right text-on-surface-variant font-label-sm text-label-sm">
+<span class="font-bold text-secondary flex items-center justify-end gap-1">
+<span class="w-2 h-2 rounded-full bg-secondary inline-block animate-pulse"></span>
+          STRUCTURED BRIEFINGS
+        </span>
+<span>FORMAT: 3-TIER INTELLIGENCE</span>
+<span>VERIFIED TELEMETRY #102</span>
+<span>CIRCULATION: 184,200</span>
+</div>
+</div>
+<!-- Navigation Bar Strip -->
+<nav class="flex items-center justify-between py-2 border-b-2 border-primary overflow-x-auto custom-scroll">
+<div class="flex items-center space-x-6 sm:space-x-8">
+<a class="border-b-2 border-primary text-primary font-label-md text-label-md py-2 uppercase whitespace-nowrap" href="#">
+          Dispatches
+        </a>
+<a class="text-on-surface-variant font-label-md text-label-md py-2 uppercase hover:text-primary whitespace-nowrap" href="#">
+          Governance &amp; Law
+        </a>
+<a class="text-on-surface-variant font-label-md text-label-md py-2 uppercase hover:text-primary whitespace-nowrap" href="#">
+          Macro Markets
+        </a>
+<a class="text-on-surface-variant font-label-md text-label-md py-2 uppercase hover:text-primary whitespace-nowrap" href="#">
+          Cyber &amp; Defence
+        </a>
+<a class="text-on-surface-variant font-label-md text-label-md py-2 uppercase hover:text-primary whitespace-nowrap" href="#">
+          Infrastructure
+        </a>
+<a class="text-on-surface-variant font-label-md text-label-md py-2 uppercase hover:text-primary whitespace-nowrap" href="#">
+          BCS Archive
+        </a>
+</div>
+<!-- Trailing Actions & Search -->
+<div class="flex items-center space-x-3 pl-4">
+<button class="border border-secondary bg-secondary-container/30 text-secondary px-2.5 py-1 text-label-sm font-label-sm uppercase font-semibold flex items-center gap-1 hover:bg-secondary-container transition-colors" onclick="document.getElementById('summary-preview-modal').classList.toggle('hidden')">
+<span class="material-symbols-outlined text-[15px]">auto_stories</span> Sample Card
+        </button>
+<div class="hidden lg:flex items-center border border-outline-variant px-2 py-1 bg-surface-container-lowest">
+<input class="bg-transparent border-0 text-body-sm font-body-sm p-0 focus:ring-0 w-40 placeholder:text-outline text-primary" placeholder="Search briefing keys..." type="text"/>
+<span class="material-symbols-outlined text-outline-variant text-[18px]">search</span>
+</div>
+<a class="bg-primary text-background font-label-md text-label-md uppercase px-3 py-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary font-semibold" href="#subscribe">
+          Subscribe Wire
+        </a>
+</div>
+</nav>
+</div>
+</div>
+<!-- BREAKING TELEMETRY TICKER -->
+<div class="w-full bg-surface-container-high border-b border-primary/20">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5 flex items-center text-body-sm">
+<span class="bg-primary text-background px-2 py-0.5 font-label-sm text-label-sm uppercase font-bold tracking-wider mr-3 whitespace-nowrap flex items-center gap-1">
+<span class="material-symbols-outlined text-[13px]">bolt</span> EXECUTIVE WIRE
+    </span>
+<marquee behavior="scroll" class="font-body-sm text-body-sm text-on-surface" direction="left">
+<span class="font-semibold text-primary">14:22 GMT:</span> Central Bank increases repo lending ceiling to 10.00% to suppress durable inflationary impulses •
+      <span class="font-semibold text-primary">13:58 GMT:</span> High Court Division bench orders algorithmic transparency in civil cadre promotions •
+      <span class="font-semibold text-primary">13:10 GMT:</span> BBS records 4.2% annualized industrial manufacturing rebound in Delta Economic Zones •
+      <span class="font-semibold text-primary">12:35 GMT:</span> Citizen Lab confirms state-linked ad network exploit affecting international newsroom terminals.
+    </marquee>
+</div>
+</div>
+<!-- MAIN BROADSHEET BODY (12-Column Ink Grid with Scannable 3-Tier Modules) -->
+<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-0 border-l border-t border-primary/20">
+<!-- COLUMN 1: Left 25% (Cols 1-3) Secondary Lead Briefings -->
+<section class="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col justify-between">
+<div class="space-y-5">
+<!-- STORY MODULE 1: Economy Remittance Surge -->
+<article class="pb-4 border-b border-outline-variant">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase text-secondary font-bold tracking-wider">Economy &amp; Forex</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">24m ago</span>
+</div>
+<h2 class="font-headline-md text-headline-md text-primary font-bold hover:text-secondary transition-colors cursor-pointer leading-tight mb-2">
+            Record Capital Inflows via Remittance Surge Ahead of Monetary Review
+          </h2>
+<!-- Tier 1: Core Takeaway Intelligence -->
+<div class="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
+<div class="flex items-center gap-1 text-secondary font-label-sm text-label-sm font-bold uppercase mb-1.5">
+<span class="material-symbols-outlined text-[14px]">auto_awesome</span>
+              Core Takeaway Intelligence
+            </div>
+<ul class="space-y-1 font-body-sm text-body-sm text-on-surface leading-tight">
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Formal remittance transfers touched a 14-month zenith of $2.19 billion.
+              </li>
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Banking spread between curb and official windows dropped under 1.2%.
+              </li>
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Central bank net foreign assets received an immediate $640M buffer.
+              </li>
+</ul>
+</div>
+<!-- Tier 2: Why It Matters -->
+<div class="rounded border-l-2 border-secondary bg-surface-container p-2.5 mb-2.5">
+<div class="flex items-center gap-1 font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">
+<span class="material-symbols-outlined text-[13px]">lightbulb</span>
+              Why It Matters
+            </div>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-snug">
+              Surging formal inflows alleviate sovereign sovereign default premiums and stabilize crucial fuel import payment pipelines.
+            </p>
+</div>
+<!-- Tier 3: The Core Story & Sources -->
+<div class="pt-1">
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">The Core Story</div>
+<p class="font-body-sm text-body-sm text-on-surface leading-snug mb-2">
+              The surge stems from renewed overseas depositor confidence following strict oversight on curb-market transaction nodes. Central bank reserves expanded to $24.81B, reducing immediate bilateral swap dependencies.
+            </p>
+<div class="flex items-center justify-between text-label-sm font-label-sm pt-1 border-t border-dashed border-outline-variant">
+<span class="text-outline uppercase">Verified Sources:</span>
+<a class="inline-flex items-center gap-0.5 bg-surface-container-high border border-outline-variant px-2 py-0.5 text-primary hover:border-secondary font-semibold" href="#">
+                Bangladesh Bank ↗
+              </a>
+</div>
+</div>
+</article>
+<!-- STORY MODULE 2: Forestry & Law Reserve Encroachment -->
+<article class="pb-4 border-b border-outline-variant">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase text-secondary font-bold tracking-wider">Forestry &amp; Law</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">42m ago</span>
+</div>
+<h3 class="font-headline-md text-headline-md text-primary font-bold hover:text-secondary transition-colors cursor-pointer leading-tight mb-2">
+            High Court Halts Reserve Encroachment in Northern Sal Corridors
+          </h3>
+<div class="my-2 border border-primary/30 overflow-hidden">
+<img class="w-full h-28 object-cover filter grayscale contrast-125" data-alt="Dense wetlands and reserve forests in monochrome broadsheet print style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDKVZy5Tdy4GW8kLbVFyDiNDQfaS5oaK5KWLw7XFSFNDM1SGfdOxGgGrZDwKTmnZ9XP5l0QYyIhdjCmw4J2gADDdjYwFbjUCphVgk_eifIOs0p-MCYVIb_dAPsxke8Xz0vD51XLTmE2KdPat6otdP5A9dc1gFtOPfPJnHmEXv7Y4GKecBdHVVkRWbCLBuNq-ADCZElARvn6dEhE0ZP1_xPPGTSilfjnR9FtlSivonQK5lLPqnVA0LGIgQ"/>
+</div>
+<!-- Tier 1: Core Takeaway Intelligence -->
+<div class="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
+<div class="flex items-center gap-1 text-secondary font-label-sm text-label-sm font-bold uppercase mb-1.5">
+<span class="material-symbols-outlined text-[14px]">auto_awesome</span>
+              Core Takeaway Intelligence
+            </div>
+<ul class="space-y-1 font-body-sm text-body-sm text-on-surface leading-tight">
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Constitutional bench froze 14 industrial lease deeds in designated Sal tracts.
+              </li>
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Space Research Organization mandated to deploy bi-weekly satellite audits.
+              </li>
+<li class="flex items-start gap-1.5">
+<span class="text-secondary text-sm leading-none mt-0.5">●</span>
+                Divisional conservator granted summary demolition powers for illegal plants.
+              </li>
+</ul>
+</div>
+<!-- Tier 2: Why It Matters -->
+<div class="rounded border-l-2 border-secondary bg-surface-container p-2.5 mb-2.5">
+<div class="flex items-center gap-1 font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">
+<span class="material-symbols-outlined text-[13px]">lightbulb</span>
+              Why It Matters
+            </div>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-snug">
+              Sets unprecedented judicial liability for industrial encroachment within critical ecologic watersheds.
+            </p>
+</div>
+<!-- Tier 3: The Core Story & Sources -->
+<div class="pt-1">
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">The Core Story</div>
+<p class="font-body-sm text-body-sm text-on-surface leading-snug mb-2">
+              A public interest writ challenged commercial zoning that encroached 4,200 acres of protected woodland. The bench ruled statutory forest preserves hold inviolable public-trust status under Article 18A.
+            </p>
+<div class="flex items-center justify-between text-label-sm font-label-sm pt-1 border-t border-dashed border-outline-variant">
+<span class="text-outline uppercase">Verified Sources:</span>
+<a class="inline-flex items-center gap-0.5 bg-surface-container-high border border-outline-variant px-2 py-0.5 text-primary hover:border-secondary font-semibold" href="#">
+                Supreme Court Registry ↗
+              </a>
+</div>
+</div>
+</article>
+</div>
+<!-- Quick Cadre Study Box -->
+<div class="mt-4 p-2.5 bg-surface-container border border-primary text-center">
+<div class="font-label-sm text-label-sm uppercase font-bold text-primary tracking-widest">
+          BCS DOSSIER • PAPER IV
+        </div>
+<p class="font-body-sm text-body-sm text-on-surface-variant my-1">
+          Study summary on monetary corridor vs. commercial liquidity traps.
+        </p>
+<span class="inline-block text-[11px] font-bold text-secondary uppercase">Active Syllabus Note #88</span>
+</div>
+</section>
+<!-- COLUMN 2: Center 50% (Cols 4-9) Hero Editorial Executive Dossier -->
+<article class="md:col-span-6 border-r border-b border-primary/20 p-5 bg-background">
+<!-- Top Audio Briefing & Category Bar (Direct from Image 4 Reference) -->
+<div class="flex items-center justify-between pb-3 mb-3 border-b border-primary/10">
+<div class="flex items-center space-x-2">
+<span class="bg-secondary/15 text-secondary border border-secondary/30 px-2.5 py-0.5 rounded-full font-label-sm text-label-sm font-bold uppercase tracking-wider">
+            Governance &amp; Cyber Telemetry
+          </span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">9:32 PM (2h ago) • Jago News 24</span>
+</div>
+<div class="flex items-center space-x-1 text-on-surface-variant">
+<button class="p-1 hover:text-primary" title="Audio"><span class="material-symbols-outlined text-[18px]">headphones</span></button>
+<button class="p-1 hover:text-primary" title="Font size"><span class="material-symbols-outlined text-[18px]">format_size</span></button>
+<button class="p-1 hover:text-primary" title="Bookmark"><span class="material-symbols-outlined text-[18px]">bookmark_border</span></button>
+</div>
+</div>
+<!-- Audio Player Pill Bar (from Reference Image 4) -->
+<div class="rounded-xl border border-secondary/40 bg-surface-container-low p-3 mb-4 flex items-center justify-between shadow-sm">
+<div class="flex items-center space-x-3">
+<button class="w-10 h-10 rounded-full bg-secondary text-on-secondary flex items-center justify-center hover:bg-opacity-90 transition-transform active:scale-95 shadow">
+<span class="material-symbols-outlined text-[22px]">play_arrow</span>
+</button>
+<div>
+<div class="font-label-md text-label-md font-bold text-primary flex items-center gap-1.5">
+              Listen to Audio Briefing
+              <span class="bg-primary text-background text-[9px] px-1.5 py-0.2 rounded font-mono">AI VOICE</span>
+</div>
+<div class="font-label-sm text-label-sm text-on-surface-variant">1 min read • Broadcast telemetry edition</div>
+</div>
+</div>
+<div class="flex items-center space-x-1 text-outline font-label-sm text-label-sm">
+<span class="material-symbols-outlined text-[18px]">graphic_eq</span>
+<span class="hidden sm:inline">1.0x</span>
+</div>
+</div>
+<!-- Hero Headline Inspired by Request & Image 4 Reference -->
+<h1 class="font-headline-xl text-headline-xl text-primary font-bold leading-tight tracking-tight mb-2">
+        Al Jazeera Devices Targeted by Israeli Espionage Disguised as Ads
+      </h1>
+<p class="font-headline-sm text-headline-sm italic text-on-surface-variant mb-4">
+        Zero-click mobile payloads infiltrated Middle East and South Asian correspondent devices via forged ad networks.
+      </p>
+<!-- Hero Lead Broadsheet Image -->
+<div class="border border-primary/40 mb-4">
+<img class="w-full h-56 object-cover filter contrast-125 grayscale" data-alt="Official hearing and cyber intelligence briefing room in monochrome print texture" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBhCtus1mslMJ-pEATySE6cyu75QXB2EbM1QXrBaovOemNOSRw39-hA2t4-QU1ZgCF_F8BqhQk8XzzjUB9NrnC8d0mnEUTSTrsCMVWcz4Bo1v9cFWkLl9zPJOMfdsAQoLjh3hO21RRw5dkmr5Fs2kKH8sMBE7I3Rx_qT2lExfPoF5ZfAW283hOAzXQ8FMwx8efM7fiMkrY0bDNvU8d4f-1NQtnhDo7FCiYtgBSujGUzzxtks0Mb9n89cw"/>
+<div class="p-1.5 bg-surface-container-high border-t border-primary/20 flex items-center justify-between font-label-sm text-label-sm">
+<span class="italic text-on-surface-variant">Archival Telemetry: Cyber Defense Command emergency briefing on commercial ad exploits.</span>
+<span class="font-semibold text-primary">WIRE: DORPON CYBER DESK</span>
+</div>
+</div>
+<!-- TIER 1: Core Takeaway Intelligence (Matching Image 4 Spec) -->
+<div class="rounded-lg border-2 border-secondary/50 bg-secondary-container/20 p-4 mb-4">
+<div class="flex items-center gap-1.5 text-secondary font-label-md text-label-md font-bold uppercase tracking-wider mb-2.5">
+<span class="material-symbols-outlined text-[18px]">auto_awesome</span>
+          Core Takeaway Intelligence
+        </div>
+<ul class="space-y-2 font-body-md text-body-md text-on-surface">
+<li class="flex items-start gap-2.5">
+<span class="text-secondary text-lg leading-none mt-0.5">●</span>
+<span><strong>Threat Actor Identified:</strong> Citizen Lab identified a malicious actor named 'Dark Cartographer' responsible for the cross-border espionage operations.</span>
+</li>
+<li class="flex items-start gap-2.5">
+<span class="text-secondary text-lg leading-none mt-0.5">●</span>
+<span><strong>Target Scope:</strong> A total of 45 mobile devices belonging to Al Jazeera media network newsroom directors and field bureaus were systematically targeted.</span>
+</li>
+<li class="flex items-start gap-2.5">
+<span class="text-secondary text-lg leading-none mt-0.5">●</span>
+<span><strong>Attack Vector:</strong> Attackers exploited vulnerabilities in Discover-Tech ad-serving infrastructure and regional mobile operator packet routing systems.</span>
+</li>
+</ul>
+</div>
+<!-- TIER 2: Why It Matters (Matching Image 4 Tinted Box) -->
+<div class="rounded-lg border-2 border-primary/20 bg-surface-container p-4 mb-4">
+<div class="flex items-center gap-1.5 font-label-md text-label-md font-bold uppercase text-on-tertiary-container mb-1.5">
+<span class="material-symbols-outlined text-[18px]">lightbulb</span>
+          Why It Matters
+        </div>
+<p class="font-body-md text-body-md text-on-surface leading-relaxed">
+          The cyberattack severely compromises the digital privacy and operational security of investigative journalists, confidential whistleblower networks, and media personnel reporting in conflict theaters.
+        </p>
+</div>
+<!-- TIER 3: The Core Story & Verified Source Chip -->
+<div class="p-3 bg-surface-container-low border border-outline-variant mb-4">
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-1">The Core Story</div>
+<p class="font-body-lg text-body-lg text-on-surface leading-snug mb-3">
+          Israeli spyware operators compromised 45 Al Jazeera devices by exploiting mobile network vulnerabilities disguised as advertisements. The covert campaign bypassed two-factor credentials without requiring user clicks, granting adversaries remote microphone and message access.
+        </p>
+<div class="pt-2 border-t border-outline-variant flex flex-wrap items-center justify-between gap-2">
+<div class="flex items-center gap-2">
+<span class="font-label-sm text-label-sm uppercase text-outline">Verified Sources:</span>
+<a class="inline-flex items-center gap-1 bg-surface-container-highest border border-primary/30 rounded px-2.5 py-1 text-label-sm font-label-sm text-primary font-semibold hover:bg-secondary-container transition-colors" href="https://jagonews24.com" target="_blank">
+              Jago News 24 ↗
+            </a>
+<a class="inline-flex items-center gap-1 bg-surface-container-highest border border-primary/30 rounded px-2.5 py-1 text-label-sm font-label-sm text-primary font-semibold hover:bg-secondary-container transition-colors" href="#">
+              Citizen Lab Dossier ↗
+            </a>
+</div>
+<span class="text-on-surface-variant font-label-sm text-label-sm">Ref #CYB-2026-AJ</span>
+</div>
+</div>
+<!-- Reaction / Utility Pills (Matching Image 4 Bottom Bar) -->
+<div class="pt-3 border-t border-dashed border-outline-variant flex flex-wrap items-center justify-between gap-2">
+<div class="flex items-center space-x-2">
+<button class="flex items-center gap-1.5 px-3 py-1 rounded-full border border-secondary/50 bg-secondary-container/30 text-secondary font-label-sm text-label-sm font-bold hover:bg-secondary-container transition-colors">
+<span class="material-symbols-outlined text-[15px]">lightbulb</span>
+            Insightful (142)
+          </button>
+<button class="flex items-center gap-1.5 px-3 py-1 rounded-full border border-outline-variant bg-surface-container font-label-sm text-label-sm font-bold text-primary hover:bg-surface-container-high transition-colors">
+<span class="material-symbols-outlined text-[15px]">verified</span>
+            High Yield (89)
+          </button>
+</div>
+<div class="flex items-center space-x-2 font-label-sm text-label-sm uppercase">
+<button class="p-1 px-2 border border-outline hover:bg-surface-container text-primary flex items-center gap-1">
+<span class="material-symbols-outlined text-[15px]">bookmark_border</span> Save
+          </button>
+<button class="p-1 px-2 border border-outline hover:bg-surface-container text-primary flex items-center gap-1">
+<span class="material-symbols-outlined text-[15px]">share</span> Share
+          </button>
+</div>
+</div>
+</article>
+<!-- COLUMN 3: Right 25% (Cols 10-12) Popular Briefing Wire & BBS Analysis -->
+<section class="md:col-span-3 border-r border-b border-primary/20 p-4 bg-background flex flex-col justify-between">
+<div>
+<!-- Header for Popular Articles Wire -->
+<div class="flex items-center justify-between border-b-2 border-primary pb-1.5 mb-3">
+<h3 class="font-headline-sm text-headline-sm uppercase tracking-tight text-primary font-bold">
+            Executive Wire Desk
+          </h3>
+<span class="bg-secondary text-on-secondary px-1.5 py-0.5 font-label-sm text-label-sm font-bold rounded">
+            5 Dossiers
+          </span>
+</div>
+<!-- STACKED 3-TIER CONDENSED BRIEFS -->
+<div class="space-y-4">
+<!-- Wire Item 1: Middle East Air Corridors -->
+<article class="pb-3 border-b border-outline-variant">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase text-secondary font-bold">01 • Aviation Corridor</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm font-bold text-primary hover:text-secondary cursor-pointer leading-snug mb-1.5">
+              Middle East Air Corridors Realigned, Diverting Over 20,000 Transits
+            </h4>
+<!-- Condensed 3-tier -->
+<div class="bg-secondary-container/15 border border-secondary/30 p-2 rounded mb-1.5">
+<div class="font-label-sm text-label-sm font-bold text-secondary uppercase flex items-center gap-1">
+<span>●</span> Key Takeaways:
+              </div>
+<p class="font-body-sm text-body-sm text-on-surface leading-tight mt-0.5">
+                Flight routing times expanded by 42 minutes average; jet fuel consumption surges by 18%; regional carriers adopt southern oceanic lanes.
+              </p>
+</div>
+<div class="bg-surface-container p-1.5 border-l border-primary text-[12px] font-body-sm text-on-surface-variant mb-1.5">
+<strong>Why It Matters:</strong> Escalating transit costs will trigger 7-11% tariff surges on air cargo across Asian supply chains.
+            </div>
+<div class="text-[12px] font-body-sm text-on-surface leading-snug mb-1">
+              Civil aviation regulators closed northern routes following regional airspace closure orders. Airlines are rerouting 20,000 weekly flights through oceanic bypass paths.
+            </div>
+<div class="flex items-center justify-between text-label-sm font-label-sm pt-1">
+<span class="text-outline uppercase">Source:</span>
+<a class="text-primary font-bold hover:underline" href="#">ICAO Bulletin ↗</a>
+</div>
+</article>
+<!-- Wire Item 2: BBS Industrial Census -->
+<article class="pb-3 border-b border-outline-variant">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase text-on-tertiary-container font-bold">02 • Macro Data</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">3h ago</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm font-bold text-primary hover:text-secondary cursor-pointer leading-snug mb-1.5">
+              BBS Releases Industrial Census: Manufacturing Recovers 4.2%
+            </h4>
+<div class="bg-secondary-container/15 border border-secondary/30 p-2 rounded mb-1.5">
+<div class="font-label-sm text-label-sm font-bold text-secondary uppercase flex items-center gap-1">
+<span>●</span> Key Takeaways:
+              </div>
+<p class="font-body-sm text-body-sm text-on-surface leading-tight mt-0.5">
+                Textile and leather exports drove 68% of quarterly gains; capital machinery imports stabilized; small SME defaults slowed.
+              </p>
+</div>
+<div class="bg-surface-container p-1.5 border-l border-primary text-[12px] font-body-sm text-on-surface-variant mb-1.5">
+<strong>Why It Matters:</strong> Signals positive manufacturing elasticity despite benchmark lending rates remaining at 10.00%.
+            </div>
+<div class="text-[12px] font-body-sm text-on-surface leading-snug mb-1">
+              BBS recorded a 4.2% rebound in annualized factory output as raw material import backlogs cleared. Economic advisors credit streamlined customs clearance.
+            </div>
+<div class="flex items-center justify-between text-label-sm font-label-sm pt-1">
+<span class="text-outline uppercase">Source:</span>
+<a class="text-primary font-bold hover:underline" href="#">BBS Gazette ↗</a>
+</div>
+</article>
+<!-- Wire Item 3: Regional Defense Protocol -->
+<article class="pb-2">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase text-primary font-bold">03 • Security</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">5h ago</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm font-bold text-primary hover:text-secondary cursor-pointer leading-snug mb-1.5">
+              Regional Defense Protocol Ratified to Secure Delta Littoral Routes
+            </h4>
+<div class="bg-surface-container p-2 border-l-2 border-secondary text-[12px] font-body-sm text-on-surface mb-1.5">
+<strong>Core Takeaway:</strong> Trilateral coast-guard patrols established; automated radar monitoring deployed along 420 nautical miles of EEZ.
+            </div>
+<div class="flex items-center justify-between text-label-sm font-label-sm pt-1">
+<span class="text-outline uppercase">Source:</span>
+<a class="text-primary font-bold hover:underline" href="#">Foreign Ministry ↗</a>
+</div>
+</article>
+</div>
+</div>
+<!-- BCS Study Module Box -->
+<div class="mt-4 pt-3 border-t-2 border-primary">
+<div class="bg-surface-container-high border border-outline-variant p-3 rounded">
+<div class="flex items-center justify-between mb-1">
+<span class="font-label-sm text-label-sm uppercase font-bold text-primary">BCS Pro Study Deck</span>
+<span class="bg-secondary text-on-secondary px-1 py-0.2 text-[10px] font-bold rounded">CARD #46</span>
+</div>
+<p class="font-body-sm text-body-sm text-on-surface mb-2">
+<strong>BPM6 Reserve Standard:</strong> Central bank gross vs. net usable foreign reserves differential and short-term debt cover metrics.
+          </p>
+<a class="text-primary font-bold font-label-sm text-label-sm uppercase hover:underline inline-flex items-center gap-1" href="#">
+            Open Study Card →
+          </a>
+</div>
+</div>
+</section>
+</div>
+<!-- LOWER SECTION: 3 Featured Investigations — Strict 3-Tier Summaries -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-0 border-l border-r border-b border-primary/20">
+<!-- Card 1: Archaeology -->
+<article class="border-b md:border-b-0 md:border-r border-primary/20 p-5 bg-surface-container-low hover:bg-surface-container transition-colors flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-2">
+<span class="font-label-sm text-label-sm uppercase font-bold text-on-tertiary-container">Heritage &amp; History</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Survey Unit</span>
+</div>
+<h3 class="font-headline-lg text-headline-lg text-primary font-bold mb-2">
+          Archaeological Survey Unearths 8th-Century Riverine Settlement
+        </h3>
+<div class="my-2 border border-primary/20 overflow-hidden">
+<img class="w-full h-32 object-cover filter contrast-125 grayscale" data-alt="Monochrome archaeological excavation site in northern Bengal floodplain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBKAkis2Q5gsbONBEZP9tXKBquiPeaMYqj7O1Xi2TTfaKD3qnQpwN0DmR7SdGgTcLIkF4Gw9qwok028S5yFuvO-frgnIsQjK_DVIqMO9wCI1QoDihsnD30um-bZzPR0ZALw7gPnfam1JUfZb7QrRHqJsyemsT4ZqVqydHviarkccUE5gvL4zV4dPU4VTXPSbAuwQVwNt1AOZpDzo5YspDiyU-WM-d5uKc2-rCOA2deF_aIsTFQ-Rx6gTw"/>
+</div>
+<!-- Tier 1 -->
+<div class="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1">
+            Core Takeaway Intelligence
+          </div>
+<ul class="space-y-1 font-body-sm text-body-sm text-on-surface">
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> 8th-century brick foundations and terracotta seals uncovered.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Maritime trade beads verify active riverine commerce with Southeast Asia.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Radiocarbon dating pins structures to the early Pala reign.</li>
+</ul>
+</div>
+<!-- Tier 2 -->
+<div class="rounded border-l-2 border-primary bg-surface-container p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">Why It Matters</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-snug">
+            Rewrites regional pre-modern trade history, proving direct river-to-ocean trade channels existed 300 years earlier than colonial records suggested.
+          </p>
+</div>
+<!-- Tier 3 -->
+<div>
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">The Core Story</div>
+<p class="font-body-sm text-body-sm text-on-surface leading-snug">
+            Excavation teams in the Mahasthangarh basin discovered a multi-acre complex featuring kiln-baked kilns and granary infrastructure. The Department of Archaeology has proposed a protected national sanctuary buffer.
+          </p>
+</div>
+</div>
+<div class="mt-4 pt-2 border-t border-outline-variant flex items-center justify-between font-label-sm text-label-sm">
+<span class="text-on-surface-variant font-semibold">By Naheb Abimanyu</span>
+<a class="bg-surface-container-highest border border-outline-variant px-2 py-0.5 text-primary hover:border-secondary font-bold" href="#">
+          The Daily Star ↗
+        </a>
+</div>
+</article>
+<!-- Card 2: Jurisprudence Dispatch -->
+<article class="border-b md:border-b-0 md:border-r border-primary/20 p-5 bg-background hover:bg-surface-container-low transition-colors flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-2">
+<span class="font-label-sm text-label-sm uppercase font-bold text-secondary">Jurisprudence Dispatch</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Supreme Court</span>
+</div>
+<h3 class="font-headline-lg text-headline-lg text-primary font-bold mb-2">
+          High Court Directs Strict Transparency In Civil Cadre Promotions
+        </h3>
+<!-- Tier 1 -->
+<div class="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1">
+            Core Takeaway Intelligence
+          </div>
+<ul class="space-y-1 font-body-sm text-body-sm text-on-surface">
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Evaluation scores for 46th cadre promotions must be made auditable.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Executive discretion quotas limited to strictly defined statutory ceilings.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Ministry of Public Administration mandated to deploy open review portal.</li>
+</ul>
+</div>
+<!-- Tier 2 -->
+<div class="rounded border-l-2 border-secondary bg-surface-container-high p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-primary mb-0.5">Why It Matters</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-snug">
+            Reestablishes constitutional protections under Articles 27 and 29, curtailing arbitrary bureaucratic appointments across line ministries.
+          </p>
+</div>
+<!-- Tier 3 -->
+<div>
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">The Core Story</div>
+<p class="font-body-sm text-body-sm text-on-surface leading-snug">
+            A constitutional division bench ruled that opaque civil service grading creates systemic inequality and undermines bureaucratic efficacy. The registry was directed to monitor compliance reports within 60 calendar days.
+          </p>
+</div>
+</div>
+<div class="mt-4 pt-2 border-t border-outline-variant flex items-center justify-between font-label-sm text-label-sm">
+<span class="text-on-surface-variant font-semibold">Special Court Correspondent</span>
+<a class="bg-surface-container-highest border border-outline-variant px-2 py-0.5 text-primary hover:border-secondary font-bold" href="#">
+          Prothom Alo ↗
+        </a>
+</div>
+</article>
+<!-- Card 3: Energy Infrastructure -->
+<article class="p-5 bg-surface-container-high hover:bg-surface-container transition-colors flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-2">
+<span class="font-label-sm text-label-sm uppercase font-bold text-primary">Energy &amp; Infrastructure</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">Grid Monitor</span>
+</div>
+<h3 class="font-headline-lg text-headline-lg text-primary font-bold mb-2">
+          Decentralized Solar Sub-Stations Slated for 14 Vulnerable Delta Enclaves
+        </h3>
+<div class="my-2 border border-primary/20 overflow-hidden">
+<img class="w-full h-32 object-cover filter contrast-125 grayscale" data-alt="Monochrome solar arrays along delta embankment" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDYIuvs87tfLskcPg9DW6TR8l7JGNxnENduZ2PWt8TUdLu1Amvlxowe6YZ75LCqWW3YnfWhHaRzJuE6vVyJll9hWw2YizpPA1loUTiz-lgkGApSGCp7HTSnQwanueQnZgvrH_2euOs-DslZIEMYjuQ_liA4jV_AejDoNa6PIbpjz4gwvk4cE0r6ysoP3pDay4b0c9PPxIzDGNIKSrG89LMxcuy9cfigPjZrQb9vpFlTISH_o-3WuVs3RA"/>
+</div>
+<!-- Tier 1 -->
+<div class="rounded border border-secondary/40 bg-secondary-container/15 p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-secondary mb-1">
+            Core Takeaway Intelligence
+          </div>
+<ul class="space-y-1 font-body-sm text-body-sm text-on-surface">
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> 50MW standalone microgrid clusters approved for offshore delta islands.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> High-capacity battery storage provides 72-hour autonomous storm resilience.</li>
+<li class="flex items-start gap-1.5"><span class="text-secondary text-sm">●</span> Financed under $180M concessional sovereign climate credit tranche.</li>
+</ul>
+</div>
+<!-- Tier 2 -->
+<div class="rounded border-l-2 border-primary bg-surface-container p-2.5 mb-2.5">
+<div class="font-label-sm text-label-sm font-bold uppercase text-on-tertiary-container mb-0.5">Why It Matters</div>
+<p class="font-body-sm text-body-sm text-on-surface-variant leading-snug">
+            Protects critical coastal pumping stations and healthcare centers from national grid outages caused by recurrent cyclonic storms.
+          </p>
+</div>
+<!-- Tier 3 -->
+<div>
+<div class="font-label-sm text-label-sm uppercase font-bold text-outline mb-0.5">The Core Story</div>
+<p class="font-body-sm text-body-sm text-on-surface leading-snug">
+            The Power Division signed project execution agreements for solar-battery hybrid microgrids spanning 14 isolated delta chars. Initial phase construction begins in November with targeted commissioning by Q2 2027.
+          </p>
+</div>
+</div>
+<div class="mt-4 pt-2 border-t border-outline-variant flex items-center justify-between font-label-sm text-label-sm">
+<span class="text-on-surface-variant font-semibold">Infrastructure Desk</span>
+<a class="bg-surface-container-highest border border-outline-variant px-2 py-0.5 text-primary hover:border-secondary font-bold" href="#">
+          Power Cell PR ↗
+        </a>
+</div>
+</article>
+</div>
+<!-- SUBSCRIBER BANNER -->
+<div class="border-x border-b border-primary/20 bg-primary text-background p-6 flex flex-col md:flex-row items-center justify-between gap-4">
+<div class="max-w-3xl">
+<span class="font-label-sm text-label-sm uppercase tracking-widest text-secondary-fixed flex items-center gap-1 font-bold">
+<span class="material-symbols-outlined text-[15px]">mail</span> EXECUTIVE INTELLIGENCE DISPATCH
+      </span>
+<h2 class="font-headline-lg text-headline-lg text-background mt-1">
+        3-Tier Executive Dossiers Delivered to Your Secure Terminal
+      </h2>
+<p class="font-body-sm text-body-sm text-inverse-primary mt-1">
+        No narrative bloat. Rigorous bulleted takeaways, why it matters, and direct source links delivered every morning at 06:00 GMT.
+      </p>
+</div>
+<div class="flex items-center gap-3 w-full md:w-auto">
+<input class="bg-primary-container border border-outline text-background font-body-sm px-3 py-2 text-sm focus:outline-none focus:border-secondary w-full md:w-64 placeholder:text-outline" placeholder="Enter institutional email..." type="email"/>
+<button class="bg-surface text-primary font-label-md text-label-md uppercase font-bold px-4 py-2 hover:bg-surface-container-high transition-colors whitespace-nowrap">
+        Enroll Wire
+      </button>
+</div>
+</div>
+</main>
+<!-- INTERACTIVE MODAL / DRAWER: Sample Executive Summary Card (Inspired by Image 4 Reference) -->
+<div class="hidden fixed inset-0 z-50 bg-black/60 backdrop-blur-sm flex items-center justify-center p-4" id="summary-preview-modal">
+<div class="bg-[#121413] text-white border border-[#2b312c] rounded-2xl max-w-xl w-full p-6 relative max-h-[90vh] overflow-y-auto shadow-2xl">
+<!-- Top Action bar from Image 4 -->
+<div class="flex items-center justify-between pb-3 border-b border-neutral-800 mb-4">
+<button class="flex items-center gap-1 text-xs font-semibold uppercase bg-neutral-800 text-neutral-200 px-3 py-1 rounded-full hover:bg-neutral-700" onclick="document.getElementById('summary-preview-modal').classList.add('hidden')">
+<span class="material-symbols-outlined text-[14px]">arrow_back</span> Back
+      </button>
+<span class="bg-[#006c4a]/30 text-[#82f5c1] text-[11px] font-bold uppercase tracking-wider px-3 py-0.5 rounded-full border border-[#006c4a]/50">
+        GOVERNANCE &amp; LAW
+      </span>
+<div class="flex items-center space-x-1 text-neutral-400">
+<span class="material-symbols-outlined text-[18px]">headphones</span>
+<span class="material-symbols-outlined text-[18px]">bookmark_border</span>
+<button class="hover:text-white" onclick="document.getElementById('summary-preview-modal').classList.add('hidden')">
+<span class="material-symbols-outlined text-[18px]">close</span>
+</button>
+</div>
+</div>
+<!-- Audio Briefing Pill -->
+<div class="rounded-xl border border-[#006c4a]/40 bg-[#161a17] p-3 mb-4 flex items-center justify-between">
+<div class="flex items-center space-x-3">
+<div class="w-9 h-9 rounded-full bg-[#82f5c1] text-black flex items-center justify-center">
+<span class="material-symbols-outlined text-[20px]">play_arrow</span>
+</div>
+<div>
+<div class="text-sm font-bold text-white">Listen to Audio Briefing</div>
+<div class="text-xs text-neutral-400">1 min read</div>
+</div>
+</div>
+</div>
+<div class="text-xs text-neutral-400 mb-1">9:32 PM (2h ago) • <span class="text-[#82f5c1] font-semibold">Jago News 24</span></div>
+<h2 class="text-2xl font-bold text-white mb-4 leading-tight">
+      Al Jazeera Devices Targeted by Israeli Espionage Disguised as Ads
+    </h2>
+<!-- Tier 1 -->
+<div class="rounded-xl border border-[#006c4a]/50 bg-[#15231c]/60 p-4 mb-3">
+<div class="flex items-center gap-1.5 text-[#82f5c1] text-xs font-bold uppercase mb-2">
+<span class="material-symbols-outlined text-[16px]">auto_awesome</span> CORE TAKEAWAY INTELLIGENCE
+      </div>
+<ul class="space-y-2 text-sm text-neutral-200">
+<li class="flex items-start gap-2">
+<span class="text-[#82f5c1]">●</span> Citizen Lab identified a malicious actor named 'Dark Cartographer' responsible for the espionage operations.
+        </li>
+<li class="flex items-start gap-2">
+<span class="text-[#82f5c1]">●</span> A total of 45 mobile devices belonging to Al Jazeera media network were targeted.
+        </li>
+<li class="flex items-start gap-2">
+<span class="text-[#82f5c1]">●</span> Attackers exploited vulnerabilities in Discover-Tech infrastructure and mobile operator systems.
+        </li>
+</ul>
+</div>
+<!-- Tier 2 -->
+<div class="rounded-xl border border-neutral-800 bg-[#171917] p-4 mb-4">
+<div class="flex items-center gap-1.5 text-amber-400 text-xs font-bold uppercase mb-1">
+<span class="material-symbols-outlined text-[15px]">lightbulb</span> WHY IT MATTERS
+      </div>
+<p class="text-sm text-neutral-300">
+        The cyberattack severely compromises the digital privacy and operational security of journalists and media personnel.
+      </p>
+</div>
+<!-- Tier 3 -->
+<div class="mb-5">
+<div class="text-xs font-bold uppercase text-neutral-500 mb-1">THE CORE STORY</div>
+<p class="text-sm text-neutral-200 mb-3">
+        Israeli spyware operators compromised 45 Al Jazeera devices by exploiting mobile network vulnerabilities disguised as advertisements.
+      </p>
+<div class="text-xs font-bold uppercase text-neutral-500 mb-1">VERIFIED SOURCES</div>
+<a class="inline-flex items-center gap-1 bg-neutral-800 border border-neutral-700 rounded-lg px-3 py-1 text-xs text-neutral-200 hover:border-neutral-500" href="#">
+        Jago News 24 ↗
+      </a>
+</div>
+<!-- Reactions -->
+<div class="flex items-center justify-between pt-3 border-t border-neutral-800">
+<div class="flex items-center space-x-2">
+<span class="px-3 py-1 rounded-full border border-[#006c4a] text-[#82f5c1] text-xs font-semibold flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">lightbulb</span> Insightful (142)
+        </span>
+<span class="px-3 py-1 rounded-full border border-neutral-700 text-neutral-300 text-xs font-semibold flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">verified</span> High Yield (89)
+        </span>
+</div>
+<button class="px-4 py-1 rounded-full bg-neutral-800 text-xs font-semibold hover:bg-neutral-700" onclick="document.getElementById('summary-preview-modal').classList.add('hidden')">
+        Close Card
+      </button>
+</div>
+</div>
+</div>
+<!-- SHARED COMPONENT: Footer -->
+<footer class="w-full border-t-2 border-primary bg-surface-container mt-12">
+<div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 flex flex-col">
+<!-- Upper Footer Grid -->
+<div class="grid grid-cols-1 md:grid-cols-12 gap-8 pb-8 border-b border-primary/20">
+<!-- Brand & Description -->
+<div class="md:col-span-5">
+<span class="font-display-masthead text-headline-xl tracking-tight text-primary uppercase">
+          DORPON DAILY INTELLIGENCE
+        </span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 max-w-md">
+          Established MDCCCCLXXXIV. Reformulated for senior decision makers, civil service examinees, and policy fellows with verified 3-tier scannable intelligence.
+        </p>
+<div class="mt-4 font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">
+<span>Dhaka Bureau</span> • <span>Geneva Wire</span> • <span>London Bureau</span>
+</div>
+</div>
+<!-- Links Column 1: Editorial Directory -->
+<div class="md:col-span-4">
+<h4 class="font-headline-md text-headline-md text-primary mb-3">
+          Executive Wire Directory
+        </h4>
+<div class="grid grid-cols-2 gap-2 font-label-sm text-label-sm uppercase">
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Core Takeaways</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Telemetry Wire</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">BCS Dossiers</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Audio Briefings</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Verified Sources</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Masthead Directory</a>
+</div>
+</div>
+<!-- Links Column 2: Legal & Protocol -->
+<div class="md:col-span-3">
+<h4 class="font-headline-md text-headline-md text-primary mb-3">
+          Press Protocols
+        </h4>
+<div class="flex flex-col space-y-2 font-label-sm text-label-sm uppercase">
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Terms of Service</a>
+<a class="text-on-surface-variant hover:text-primary transition-colors" href="#">Privacy Protocol</a>
+<span class="text-on-surface-variant pt-2 normal-case font-body-sm text-body-sm">
+            Press Council Registration No. 418/DC-PR-2024
+          </span>
+</div>
+</div>
+</div>
+<!-- Lower Footer Copyright & Disclaimer -->
+<div class="pt-6 flex flex-col sm:flex-row items-center justify-between text-on-surface-variant font-body-sm text-body-sm">
+<p>© 2026 Dorpon Daily Intelligence. Established MDCCCCLXXXIV. All editorial summary rights reserved.</p>
+<div class="mt-2 sm:mt-0 flex items-center space-x-4 font-label-sm text-label-sm uppercase">
+<span class="text-outline-variant">3-Tier Scannable Ink Format</span>
+<a class="text-primary hover:underline font-semibold" href="#">Back to Top ↑</a>
+</div>
+</div>
+</div>
+</footer>
+</body></html>

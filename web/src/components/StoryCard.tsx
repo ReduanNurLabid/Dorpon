@@ -59,19 +59,28 @@ export const StoryCard: React.FC<StoryCardProps> = ({ story, featured = false })
 
   const handleShare = async (e: React.MouseEvent) => {
     e.stopPropagation();
+    const storyUrl = new URL(window.location.origin + window.location.pathname);
+    storyUrl.searchParams.set('story', story.story_id);
+    const permalink = storyUrl.toString();
+
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        await navigator.clipboard.writeText(permalink);
+      }
+    } catch {}
+
     if (navigator.share) {
       try {
         await navigator.share({
           title,
           text: whyItMatters || title,
-          url: window.location.href,
+          url: permalink,
         });
       } catch {}
-    } else {
-      navigator.clipboard.writeText(`${title}\n${window.location.href}`);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
     }
+
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
   };
 
   const handleSaveClick = (e: React.MouseEvent) => {

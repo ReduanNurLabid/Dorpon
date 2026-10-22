@@ -124,7 +124,7 @@ class AppSettingsService extends ChangeNotifier {
   }
 
   static const Map<String, String> _englishTranslations = {
-    'app_name': 'Dorpon',
+    'app_name': 'Sondesh Express',
     'app_tagline': 'Daily Current Affairs That Save Time',
     'good_morning': 'Good Morning,',
     'good_afternoon': 'Good Afternoon,',
@@ -170,12 +170,12 @@ class AppSettingsService extends ChangeNotifier {
     'sign_up': 'Create Account',
     'sign_out': 'Sign Out',
     'guest_user': 'Guest Reader',
-    'free_plan': 'Dorpon Free',
-    'pro_plan': 'Dorpon Pro',
+    'free_plan': 'Sondesh Express Free',
+    'pro_plan': 'Sondesh Express Pro',
   };
 
   static const Map<String, String> _banglaTranslations = {
-    'app_name': 'দর্পণ',
+    'app_name': 'সন্দেশ এক্সপ্রেস',
     'app_tagline': 'সময় বাঁচানো প্রতিদিনের চলতি ঘটনাবলী',
     'good_morning': 'শুভ সকাল,',
     'good_afternoon': 'শুভ দুপুর,',
@@ -221,7 +221,7 @@ class AppSettingsService extends ChangeNotifier {
     'sign_up': 'অ্যাকাউন্ট তৈরি করুন',
     'sign_out': 'সাইন আউট',
     'guest_user': 'অতিথি পাঠক',
-    'free_plan': 'দর্পণ ফ্রি',
-    'pro_plan': 'দর্পণ প্রো',
+    'free_plan': 'সন্দেশ এক্সপ্রেস ফ্রি',
+    'pro_plan': 'সন্দেশ এক্সপ্রেস প্রো',
   };
 }

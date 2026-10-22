@@ -54,8 +54,8 @@ def run_hourly_buzz(limit: int = 8):
     print(f"   Generated {len(clusters)} unique event clusters.")
     
     # 4. Cross-Run Memory & Deduplication
-    print(f"\n🧠 Loading historical event memory from past 48 hours...")
-    historical_stories = get_recent_published_stories(limit=100)
+    print(f"\n🧠 Loading historical event memory from past 30 hours...")
+    historical_stories = get_recent_published_stories(limit=100, max_age_hours=30.0)
     print(f"   Loaded {len(historical_stories)} recent published stories for cross-run deduplication.")
 
     def extract_clean_tokens(text: str) -> set:

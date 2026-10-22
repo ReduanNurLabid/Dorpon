@@ -1,13 +1,16 @@
 {
   "status": "published",
   "edition_date": "2026-10-20",
-  "created_at": "2026-10-20T06:17:41.068871",
-  "published_at": "2026-10-20T06:17:41.068871",
-  "total_stories": 1,
+  "created_at": "2026-10-20T06:00:00Z",
+  "published_at": "2026-10-20T06:00:00Z",
+  "total_stories": 4,
   "bcs_pro_preset_story_ids": [
-    "story-houthi-saudi-bangladesh-2026"
+    "story-houthi-saudi-bangladesh-2026",
+    "6f12f494-a5c8-5ee2-b970-5356caa670e8",
+    "f6dc55dc-1319-5307-928e-7baceed5f4a1",
+    "4beac23e-2388-5d66-aa07-7fe960641059"
   ],
-  "review_notes": "Direct human editorial broadcast via Dorpon Studio.",
+  "review_notes": "Human-curated Current Affairs editorial collection.",
   "stories": [
     {
       "story_id": "story-houthi-saudi-bangladesh-2026",
@@ -134,6 +137,307 @@
       },
       "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80",
       "image_caption": "Commercial shipping detour around the Cape of Good Hope amid Red Sea maritime escalation • Photo: Unsplash"
+    },
+    {
+      "interest_categories": [
+        "governance_law",
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "bcs_pro": {
+        "constitutional_articles": [],
+        "analytical_breakdown_en": "Crucial structural policy development relevant for public administration and BPSC written examination papers.",
+        "data_stats": [
+          {
+            "value": "1.2 Million+",
+            "context": "Total number of forcibly displaced Myanmar nationals currently residing in camps in Cox's Bazar and Bhasan Char.",
+            "source_org": "UNHCR / RRRC",
+            "metric_name": "Displaced Population"
+          }
+        ],
+        "bcs_subject_area": "Bangladesh Affairs (Paper V) › The Constitution & Rule of Law",
+        "challenges": [
+          "1. Ongoing armed conflict and political instability within Myanmar hindering safe repatriation conditions.",
+          "2. Declining international donor funding and fatigue regarding the protracted refugee crisis.",
+          "3. Emerging internal security threats, including radicalization and transnational crimes within the camps."
+        ],
+        "linked_pyqs": [
+          {
+            "subject": "Bangladesh Affairs",
+            "bcs_batch": "43rd BCS Written",
+            "pyq_id": "pyq_bcs43_w_02",
+            "relevance_score": 0.9,
+            "question_snippet": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]"
+          },
+          {
+            "subject": "International Affairs",
+            "bcs_batch": "41st BCS Written",
+            "pyq_id": "pyq_bcs41_w_03",
+            "relevance_score": 0.9,
+            "question_snippet": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত ভূরাজনীতি এবং বাংলাদেশের পররাষ্ট্রনীতির জাতীয় স্বার্থ রক্ষার কৌশল বিশ্লেষণ করুন। [নম্বর: ১৫]"
+          }
+        ],
+        "why_in_the_news_bn": "স্বরাষ্ট্রমন্ত্রীর সাথে জাতিসংঘের বিশেষ দূতের সাম্প্রতিক সৌজন্য সাক্ষাতে রোহিঙ্গা প্রত্যাবাসন ইস্যুটি প্রধান্য পায়। এটি আন্তর্জাতিক সম্প্রদায়ের সক্রিয় অংশগ্রহণ নিশ্চিত করার ক্ষেত্রে একটি গুরুত্বপূর্ণ কূটনৈতিক অগ্রগতি।",
+        "question_breakdowns": [
+          {
+            "anchor_points": [
+              "**Core Concept:** The prolonged presence of **Forcibly Displaced Myanmar Nationals (FDMN)** poses severe socio-economic and security challenges to Bangladesh.",
+              "**Administrative Mechanism:** Effective executive implementation requires robust border management, intelligence coordination, and proactive multi-lateral diplomacy."
+            ],
+            "question": "How does the protracted Rohingya crisis impact Bangladesh's internal security and regional geopolitics?"
+          },
+          {
+            "anchor_points": [
+              "**Institutional Impact:** Leveraging platforms like the United Nations to pressure the Myanmar junta for safe, voluntary, and dignified return.",
+              "**Public Finance Impact:** Mitigating the heavy economic burden on the national exchequer through sustained international aid mobilization."
+            ],
+            "question": "What are the diplomatic imperatives for ensuring sustainable repatriation under international legal frameworks?"
+          }
+        ],
+        "written_exam_prompt": {
+          "prompt_text_en": "Q: Analyze the socio-economic and internal security impacts of the Rohingya crisis on Bangladesh and outline an effective diplomatic and strategic framework for its resolution.",
+          "prompt_text_bn": "প্রশ্ন: বাংলাদেশের আর্থ-সামাজিক ও অভ্যন্তরীণ নিরাপত্তার ওপর রোহিঙ্গা সংকটের প্রভাব বিশ্লেষণ করুন এবং এই সংকট সমাধানে একটি কার্যকর কূটনৈতিক ও কৌশলগত রূপরেখা প্রদান করুন।",
+          "marks": 15,
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. প্রাতিষ্ঠানিক ও আইনগত সীমাবদ্ধতা (Institutional & Regulatory Gaps)",
+            "৩. কৌশলগত নীতি সংস্কার ও ভবিষ্যৎ পথরেখা (Strategic Policy Recommendations)"
+          ]
+        },
+        "way_forward": [
+          "1. Intensify bilateral and multilateral diplomatic engagements, involving regional powers like China and ASEAN.",
+          "2. Ensure better coordination among security agencies to curb illegal activities and enhance camp governance.",
+          "3. Advocate for international accountability mechanisms, such as the ICJ proceedings, to pressure Myanmar."
+        ],
+        "analytical_breakdown_bn": "বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "syllabus_mapping": {
+          "paper_code": "Paper V",
+          "microtheme": "The Constitution, Organs of State & Writ Jurisdiction",
+          "full_breadcrumb": "Bangladesh Affairs (Paper V) › The Constitution & Rule of Law",
+          "subject": "Bangladesh Affairs"
+        },
+        "why_in_the_news_en": "The recent courtesy meeting between the Home Minister and the UN Special Envoy brought the Rohingya repatriation issue to the forefront. It serves as a vital diplomatic trigger to secure active engagement from the international community."
+      },
+      "primary_category": "governance_law",
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422498/home-minister-calls-for-global-support-for"
+        }
+      ],
+      "story_id": "6f12f494-a5c8-5ee2-b970-5356caa670e8",
+      "daily_buzz": {
+        "title_bn": "রোহিঙ্গা প্রত্যাবাসনে আন্তর্জাতিক সহযোগিতার আহ্বান স্বরাষ্ট্রমন্ত্রীর",
+        "title_en": "Home Minister calls for global support for Rohingya repatriation",
+        "why_it_matters_bn": "রোহিঙ্গা সংকট বাংলাদেশের পররাষ্ট্র নীতি, অভ্যন্তরীণ নিরাপত্তা এবং আঞ্চলিক স্থিতিশীলতার জন্য একটি দীর্ঘমেয়াদী কৌশলগত চ্যালেঞ্জ হিসেবে অব্যাহত রয়েছে।",
+        "why_it_matters_en": "The Rohingya crisis remains a long-term strategic challenge for Bangladesh's foreign policy, internal security, and regional stability.",
+        "summary_en": "Home Minister Salahuddin Ahmed has urged the international community to play a more effective role in ensuring the sustainable repatriation of forcibly displaced Myanmar nationals to their homeland. He made the call during a courtesy meeting with Julie Isabel Bishop, the UN Secretary-General's Special Envoy on Myanmar. This meeting underscores renewed efforts to find a lasting solution to the protracted Rohingya crisis.",
+        "interest_categories": [
+          "governance_law",
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "summary_bn": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ মিয়ানমারের জোরপূর্বক বাস্তুচ্যুত নাগরিকদের নিজ ভূখণ্ডে টেকসই প্রত্যাবাসন নিশ্চিত করতে আন্তর্জাতিক সম্প্রদায়কে আরও কার্যকর ভূমিকা পালনের আহ্বান জানিয়েছেন। জাতিসংঘের মিয়ানমার বিষয়ক বিশেষ দূত জুলি ইবেল বিশপের সাথে এক সৌজন্য সাক্ষাৎকালে তিনি এই আহ্বান জানান। এই বৈঠকটি দীর্ঘস্থায়ী রোহিঙ্গা সংকটের স্থায়ী সমাধানের ওপর নতুন করে জোর দিয়েছে।",
+        "read_time_seconds": 60
+      },
+      "image_url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1200&q=80",
+      "image_caption": "চিত্র: আন্তর্জাতিক কূটনীতি ও রোহিঙ্গা প্রত্যাবাসন সহায়তা।",
+      "published_at": "2026-10-20T12:00:00Z"
+    },
+    {
+      "interest_categories": [
+        "economy_business",
+        "governance_law",
+        "tech_innovation"
+      ],
+      "bcs_pro": {
+        "constitutional_articles": [],
+        "analytical_breakdown_en": "Crucial structural policy development relevant for public administration and BPSC written examination papers.",
+        "data_stats": [
+          {
+            "value": "Low Institutional Efficiency",
+            "context": "Reflects the degree of state capture, corruption control, and regulatory quality within public administration.",
+            "source_org": "World Bank / Transparency International Bangladesh",
+            "metric_name": "Governance and Institutional Quality Index"
+          }
+        ],
+        "bcs_subject_area": "Bangladesh Affairs (Paper V) › Macroeconomy, Trade & Foreign Reserves",
+        "challenges": [
+          "1. Deep-rooted patronage networks and systemic political corruption.",
+          "2. Weak institutional autonomy of oversight and regulatory bodies.",
+          "3. Absence of robust transparency and accountability mechanisms in resource distribution."
+        ],
+        "linked_pyqs": [
+          {
+            "subject": "Bangladesh Affairs",
+            "bcs_batch": "44th BCS Written",
+            "pyq_id": "pyq_bcs44_w_01",
+            "relevance_score": 0.9,
+            "question_snippet": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]"
+          },
+          {
+            "subject": "Bangladesh Affairs",
+            "bcs_batch": "43rd BCS Written",
+            "pyq_id": "pyq_bcs43_w_02",
+            "relevance_score": 0.9,
+            "question_snippet": "বাংলাদেশের সংবিধানের মৌলিক অধিকার সংরক্ষণ ও প্রয়োগে সুপ্রিম কোর্টের রিট এখতিয়ারের গুরুত্ব আলোচনা করুন। [নম্বর: ১৫]"
+          }
+        ],
+        "why_in_the_news_bn": "গণতান্ত্রিক প্রতিষ্ঠানের অবক্ষয় এবং রাজনৈতিক অর্থনীতিতে পারিবারিক প্রভাব নিয়ে সাম্প্রতিক বিশ্লেষণে এই বিষয়টি উঠে এসেছে। রাষ্ট্র পরিচালনার ক্ষেত্রে জবাবদিহিতা নিশ্চিত করার তাগিদ থেকেই এই ইস্যুটি বর্তমানে সর্বাধিক গুরুত্ব পাচ্ছে।",
+        "question_breakdowns": [
+          {
+            "anchor_points": [
+              "**Core Concept:** **Patronage Politics** replaces institutional competence with personal loyalty, leading to systemic governance failure.",
+              "**Administrative Mechanism:** Executive implementation becomes skewed toward serving narrow interest groups rather than public welfare."
+            ],
+            "question": "How does the privatization of state power through familial and political patronage undermine the principles of a merit-based civil service?"
+          },
+          {
+            "anchor_points": [
+              "**Institutional Impact:** **Regulatory Capture** prevents regulatory bodies from enforcing laws impartially against powerful elites.",
+              "**Public Finance Impact:** Misallocation of public funds exacerbates wealth inequality and stifles inclusive economic growth."
+            ],
+            "question": "What are the socio-economic ramifications of resource allocation controlled by a privatized political economy in Bangladesh?"
+          }
+        ],
+        "written_exam_prompt": {
+          "prompt_text_en": "Q: How do familial ties and political patronage impede the institutionalization of democracy? Discuss the necessary measures to ensure good governance and a merit-based administration.",
+          "prompt_text_bn": "প্রশ্ন: গণতান্ত্রিক ব্যবস্থার প্রাতিষ্ঠানিকীকরণে পরিবারতন্ত্র ও রাজনৈতিক পৃষ্ঠপোষকতা কীভাবে বাধা সৃষ্টি করে? সুশাসন ও মেধাভিত্তিক প্রশাসন নিশ্চিত করতে করণীয় বিষয়গুলো আলোচনা করুন।",
+          "marks": 15,
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. প্রাতিষ্ঠানিক ও আইনগত সীমাবদ্ধতা (Institutional & Regulatory Gaps)",
+            "৩. কৌশলগত নীতি সংস্কার ও ভবিষ্যৎ পথরেখা (Strategic Policy Recommendations)"
+          ]
+        },
+        "way_forward": [
+          "1. Strengthen the independence of oversight institutions such as the Anti-Corruption Commission and the Judiciary.",
+          "2. Institutionalize meritocracy and professional integrity in public sector recruitment and promotion.",
+          "3. Enforce strict asset disclosure laws for public officials and political leaders to prevent conflict of interest."
+        ],
+        "analytical_breakdown_bn": "বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "syllabus_mapping": {
+          "paper_code": "Paper V",
+          "microtheme": "Macroeconomy, Banking, Trade & Foreign Reserves",
+          "full_breadcrumb": "Bangladesh Affairs (Paper V) › Macroeconomy, Trade & Foreign Reserves",
+          "subject": "Bangladesh Affairs"
+        },
+        "why_in_the_news_en": "Recent analytical discourse highlights the erosion of democratic institutions through the lens of familial and private control over state resources. This debate is critical for understanding current administrative reforms and governance challenges."
+      },
+      "primary_category": "economy_business",
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "Dhaka Tribune",
+          "url": "https://www.dhakatribune.com/opinion/longform/422422/when-the-state-becomes-a-family-business"
+        }
+      ],
+      "story_id": "f6dc55dc-1319-5307-928e-7baceed5f4a1",
+      "daily_buzz": {
+        "title_bn": "যখন রাষ্ট্র হয়ে ওঠে পারিবারিক ব্যবসা",
+        "title_en": "When the state becomes a family business",
+        "why_it_matters_bn": "রাষ্ট্রীয় ক্ষমতার কেন্দ্রীকরণ ও পারিবারিকীকরণ মেধার ভিত্তিতে প্রশাসনিক পদায়ন এবং জনস্বার্থমূলক নীতি প্রণয়নকে বাধাগ্রস্ত করে।",
+        "why_it_matters_en": "The privatization of state power undermines meritocracy in public administration and skews resource allocation away from public welfare.",
+        "summary_en": "Democracy risks losing its public essence when formal institutions are overshadowed by familial ties, political allegiance, and private wealth. This dynamic privatizes political economy, concentrating resource allocation and power within narrow circles. Bangladesh faces critical challenges regarding this erosion of public governance.",
+        "interest_categories": [
+          "economy_business",
+          "governance_law",
+          "tech_innovation"
+        ],
+        "summary_bn": "গণতন্ত্র কেবল আনুষ্ঠানিক নির্বাচন বা সংবিধানের মধ্যে সীমাবদ্ধ থাকলেই তা জনকল্যাণ নিশ্চিত করতে পারে না। যখন পারিবারিক সম্পর্ক ও ব্যক্তিস্বার্থ ক্ষমতা এবং রাষ্ট্রীয় সম্পদ বণ্টনের মূল নিয়ামক হয়ে দাঁড়ায়, তখন গণতান্ত্রিক ব্যবস্থা এক ধরণের ব্যক্তিগত রাজনৈতিক অর্থনীতিতে পরিণত হয়। এই সংকট সুশাসন ও প্রশাসনিক নিরপেক্ষতাকে মারাত্মকভাবে ব্যাহত করে।",
+        "read_time_seconds": 60
+      },
+      "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
+      "image_caption": "চিত্র: গণতান্ত্রিক সুশাসন ও রাষ্ট্রীয় প্রতিষ্ঠান সংস্কার।",
+      "published_at": "2026-10-20T12:00:00Z"
+    },
+    {
+      "story_id": "4beac23e-2388-5d66-aa07-7fe960641059",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "is_bcs_pro_selected": true,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.protichinta.com/article/86s7wfqdgk"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা",
+        "title_en": "Summary: বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা",
+        "summary_bn": "অর্থনৈতিক মধ্যবিত্ত কারা, সেটা চিহ্নিত করা গেলে তাদের অর্থনৈতিক উপযোগিতা ও অবদানের সুযোগগুলোও খুঁজে পাওয়া সম্ভব। বাংলাদেশের অর্থনৈতিক রূপান্তরের ফল ও কারণ হিসেবে নতুন এক উঠতি মধ্যবিত্তকেও দেখা যাচ্ছে। উন্নয়ন গবেষক মহা মির্জা প্রশ্ন করছেন, শ্রমিকের আয়...",
+        "summary_en": "A key development that directly impacts policy, regulatory frameworks, and citizen welfare.",
+        "why_it_matters_bn": "দেশের অর্থনৈতিক স্থিতিশীলতা ও প্রাতিষ্ঠানিক সুশাসন নিশ্চিতে এই সিদ্ধান্তটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "why_it_matters_en": "Vital for understanding structural policy decisions and systemic governance across Bangladesh.",
+        "interest_categories": [
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60
+      },
+      "bcs_pro": {
+        "bcs_subject_area": "Bangladesh Affairs",
+        "data_stats": [
+          {
+            "metric_name": "Official Report / Indicator",
+            "value": "Latest Gazette / BBS Release",
+            "source_org": "BBS / Bangladesh Bank",
+            "context": "Key data point referenced in the morning gazette."
+          }
+        ],
+        "constitutional_articles": [
+          {
+            "article_number": "Article 15 (অনুচ্ছেদ 15)",
+            "article_title_bn": "মৌলিক প্রয়োজনের ব্যবস্থা",
+            "article_title_en": "Provision of Basic Necessities",
+            "legal_relevance": "State responsibility to secure food, clothing, shelter, education and medical care, and right to work."
+          },
+          {
+            "article_number": "Article 102 (অনুচ্ছেদ 102)",
+            "article_title_bn": "হাইকোর্ট বিভাগের কতিপয় আদেশ ও নির্দেশ ইত্যাদি দানের ক্ষমতা (রিট)",
+            "article_title_en": "Power of High Court Division to issue certain orders and directions (Writ Jurisdiction)",
+            "legal_relevance": "High Court powers to enforce fundamental rights and issue writ petitions (Mandamus, Certiorari, Habeas Corpus, Prohibition, Quo Warranto)."
+          }
+        ],
+        "analytical_breakdown_bn": "প্রশাসনিক ও অর্থনৈতিক কাঠামোর ওপর এই ঘটনার প্রভাব বহুমাত্রিক। বিপিএসসি লিখিত পরীক্ষায় নীতি পর্যালোচনা ও সংস্কারমূলক সুপারিশে এই তথ্যগুলো উচ্চ মানসম্পন্ন পয়েন্ট হিসেবে উপস্থাপনযোগ্য।",
+        "analytical_breakdown_en": "Significant structural implication for civil servants. Demonstrates real-world application of executive regulatory mechanisms and fiscal-monetary governance.",
+        "written_exam_prompt": {
+          "marks": 15,
+          "prompt_text_bn": "প্রশ্ন: 'বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা'—উক্ত ঘটনার আলোকে বাংলাদেশের প্রশাসনিক স্বচ্ছতা ও দীর্ঘমেয়াদী নীতিগত চ্যালেঞ্জসমূহ পর্যালোচনা করুন। [নম্বর: ১৫]",
+          "prompt_text_en": "Q: In light of 'বাংলাদেশে উঠতি মধ্যবিত্তের বিকাশ এবং স্থানীয় শিল্পায়নের সম্ভাবনা', analyze the policy bottlenecks and propose strategic governance solutions. [Marks: 15]",
+          "model_outline_points": [
+            "১. প্রাথমিক পটভূমি ও বর্তমান চালচিত্র (Introduction & Context)",
+            "২. আইনগত ও প্রাতিষ্ঠানিক সীমাবদ্ধতা (Regulatory Gaps & Institutional Issues)",
+            "৩. সরকারি নীতি সংস্কার ও ভবিষ্যৎ করণীয় (Strategic Policy Recommendations)"
+          ]
+        },
+        "linked_pyqs": [
+          {
+            "pyq_id": "pyq_bcs44_w_01",
+            "bcs_batch": "44th BCS Written",
+            "subject": "Bangladesh Affairs",
+            "question_snippet": "বাংলাদেশে সাম্প্রতিক মূল্যস্ফীতির প্রধান কারণসমূহ চিহ্নিত করুন এবং তা নিয়ন্ত্রণে বাংলাদেশ ব্যাংক গৃহীত আর্থিক পদক্ষেপগুলোর কার্যকারিতা মূল্যায়ন করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          },
+          {
+            "pyq_id": "pyq_bcs41_w_03",
+            "bcs_batch": "41st BCS Written",
+            "subject": "International Affairs",
+            "question_snippet": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত ভূরাজনীতি এবং বাংলাদেশের পররাষ্ট্রনীতির জাতীয় স্বার্থ রক্ষার কৌশল বিশ্লেষণ করুন। [নম্বর: ১৫]",
+            "relevance_score": 0.9
+          }
+        ]
+      },
+      "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "image_caption": "চিত্র: বাংলাদেশে অর্থনৈতিক উন্নয়ন ও নগর মধ্যবিত্তের বিস্তার।"
     }
   ]
 }

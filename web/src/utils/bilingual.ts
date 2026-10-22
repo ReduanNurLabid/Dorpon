@@ -162,7 +162,7 @@ export function formatRelativeTime(dateStr?: string, isBangla: boolean = false):
 
 export const translations = {
   en: {
-    app_name: 'Dorpon',
+    app_name: 'Sondesh Express',
     app_subtitle: 'Daily Current Affairs That Save Time',
     good_morning: 'Good Morning',
     good_afternoon: 'Good Afternoon',
@@ -181,7 +181,7 @@ export const translations = {
     explore_all: 'Explore All News',
     view_all: 'View All',
     read_full: 'Read Full Analysis',
-    breaking_wires: 'Breaking Wires',
+    breaking_wires: 'Latest News',
     why_in_the_news: 'Why in the News',
     the_core_story: 'The Core Story',
     why_it_matters: 'Why It Matters',
@@ -215,7 +215,7 @@ export const translations = {
     share: 'Share',
     original_report: 'Original Publisher Wire',
     exam_prompt: 'Analytical Exam Prompt & Model Outline',
-    stat_points: 'Official Telemetry & Empirical Data',
+    stat_points: 'Official Statistics & Empirical Data',
     constitutional_articles: 'Constitutional Provisions & Statutory Mandates',
     mark_as_read: 'Mark as read',
     reactions_insightful: 'Insightful',
@@ -229,7 +229,7 @@ export const translations = {
     close: 'Close',
   },
   bn: {
-    app_name: 'দর্পণ',
+    app_name: 'সন্দেশ এক্সপ্রেস',
     app_subtitle: 'সময় বাঁচানো প্রতিদিনের চলতি ঘটনাবলী',
     good_morning: 'শুভ সকাল',
     good_afternoon: 'শুভ দুপুর',
@@ -296,3 +296,14 @@ export const translations = {
     close: 'বন্ধ করুন',
   }
 };
+
+
+export function getStoryPermalink(storyId: string, isCurrentAffairs: boolean = false): string {
+  if (typeof window === 'undefined') return '';
+  const url = new URL(window.location.origin + window.location.pathname);
+  url.searchParams.set('story', storyId);
+  if (isCurrentAffairs) {
+    url.searchParams.set('tab', 'current_affairs');
+  }
+  return url.toString();
+}

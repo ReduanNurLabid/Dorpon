@@ -73,6 +73,25 @@ function cleanEditorialMarkdown(text?: string | null): string {
     .trim();
 }
 
+export function calculateDynamicRank(importance: number, publishedAt?: string | null, maxHours: number = 30): number {
+  if (!publishedAt) return Number((importance / 2.0).toFixed(4));
+  const pubTime = new Date(publishedAt).getTime();
+  if (isNaN(pubTime)) return Number((importance / 2.0).toFixed(4));
+
+  const now = Date.now();
+  const ageHours = Math.max(0, (now - pubTime) / (3600 * 1000));
+
+  let decay = Math.pow(ageHours + 2.0, 1.3);
+
+  // If older than 30 hours, apply an aggressive cutoff penalty
+  if (ageHours > maxHours) {
+    const overstay = ageHours - maxHours;
+    decay *= Math.pow(1.0 + overstay, 2.0);
+  }
+
+  return Number((importance / decay).toFixed(4));
+}
+
 function normalizeStory(data: any): CapsuleStory {
   const buzz = data.daily_buzz || data.dailyBuzz || {};
   const bcs = data.bcs_pro || data.bcsPro || null;
@@ -90,7 +109,7 @@ function normalizeStory(data: any): CapsuleStory {
     published_at: data.published_at || data.publishedAt || buzz.published_at || data.created_at || new Date().toISOString(),
     is_bcs_pro_selected: Boolean(data.is_bcs_pro_selected || data.isBcsProSelected || bcs),
     importance_score: data.importance_score ?? 2.0,
-    rank_score: data.rank_score ?? 1.0,
+    rank_score: calculateDynamicRank(data.importance_score ?? 2.0, data.published_at || data.publishedAt || buzz.published_at || data.created_at, 30),
     sources: data.sources || [],
     daily_buzz: {
       title_bn: cleanEditorialMarkdown(buzz.title_bn || buzz.titleBn || ''),
@@ -139,6 +158,33 @@ function sortByPublishedDesc(list: CapsuleStory[]): CapsuleStory[] {
   });
 }
 
+function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
+  return list.sort((a, b) => {
+    // 1. Primary sort: rank_score (freshness + importance decay)
+    const rankA = a.rank_score ?? 1.0;
+    const rankB = b.rank_score ?? 1.0;
+    if (Math.abs(rankB - rankA) > 0.05) {
+      return rankB - rankA;
+    }
+    // 2. Secondary sort: importance_score
+    const impA = a.importance_score ?? 2.0;
+    const impB = b.importance_score ?? 2.0;
+    if (Math.abs(impB - impA) > 0.4) {
+      return impB - impA;
+    }
+    // 3. Multi-source coverage boost
+    const srcA = a.sources?.length ?? 1;
+    const srcB = b.sources?.length ?? 1;
+    if (srcB !== srcA) {
+      return srcB - srcA;
+    }
+    // 4. Tie-breaker: recency
+    const timeA = a.published_at ? new Date(a.published_at).getTime() : 0;
+    const timeB = b.published_at ? new Date(b.published_at).getTime() : 0;
+    return timeB - timeA;
+  });
+}
+
 export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
   // 1. Try Firebase Firestore SDK
   try {
@@ -150,7 +196,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
         items.push(normalizeStory(doc.data()));
       });
       if (items.length > 0) {
-        return sortByPublishedDesc(items);
+        return sortByEditorialRank(items);
       }
     }
   } catch (err) {
@@ -162,7 +208,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
     const restItems = await fetchFirestoreRest('daily_buzz', 50);
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
-      return sortByPublishedDesc(items);
+      return sortByEditorialRank(items);
     }
   } catch (err) {
     console.warn('Firestore REST buzz error:', err);
@@ -175,7 +221,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
       const json = await res.json();
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
-      return sortByPublishedDesc(items);
+      return sortByEditorialRank(items);
     }
   } catch (err) {
     console.error('Static top_stories fallback error:', err);
@@ -185,29 +231,71 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
 }
 
 export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
-  // 1. Try Firestore SDK
+  const storyMap = new Map<string, CapsuleStory>();
+
+  // 1. Try Firestore SDK on both current_affairs_published and bcs_pro_published
   try {
-    const dRef = doc(db, 'current_affairs_published', 'latest');
-    const snap = await getDoc(dRef);
-    if (snap.exists()) {
-      const data = snap.data();
-      const stories: any[] = data.stories || [];
-      if (stories.length > 0) {
-        return stories.map(s => normalizeStory(s));
+    const collectionsToCheck = ['current_affairs_published', 'bcs_pro_published'];
+    for (const collName of collectionsToCheck) {
+      try {
+        const snap = await getDocs(collection(db, collName));
+        if (!snap.empty) {
+          snap.forEach(docSnap => {
+            const data = docSnap.data();
+            const stories: any[] = data.stories || [];
+            for (const s of stories) {
+              const norm = normalizeStory(s);
+              if (norm.story_id && !storyMap.has(norm.story_id)) {
+                storyMap.set(norm.story_id, norm);
+              }
+            }
+          });
+        }
+      } catch (colErr) {
+        // Individual collection fallback
       }
     }
   } catch (err) {
     console.warn('Firestore SDK current affairs error, falling back:', err);
   }
 
-  // 2. Try Firestore REST
-  try {
-    const data = await fetchFirestoreDocRest('current_affairs_published', 'latest');
-    if (data && data.stories && data.stories.length > 0) {
-      return (data.stories as any[]).map(s => normalizeStory(s));
+  // Also check doc 'latest' explicitly if collection queries were restricted
+  if (storyMap.size === 0) {
+    for (const collName of ['current_affairs_published', 'bcs_pro_published']) {
+      try {
+        const dRef = doc(db, collName, 'latest');
+        const snap = await getDoc(dRef);
+        if (snap.exists()) {
+          const stories: any[] = snap.data().stories || [];
+          for (const s of stories) {
+            const norm = normalizeStory(s);
+            if (norm.story_id && !storyMap.has(norm.story_id)) {
+              storyMap.set(norm.story_id, norm);
+            }
+          }
+        }
+      } catch {}
     }
-  } catch (err) {
-    console.warn('Firestore REST current affairs error:', err);
+  }
+
+  // 2. Try Firestore REST fallback if still empty
+  if (storyMap.size === 0) {
+    for (const collName of ['current_affairs_published', 'bcs_pro_published']) {
+      try {
+        const restDocs = await fetchFirestoreRest(collName, 20);
+        for (const docData of restDocs) {
+          const stories: any[] = docData.stories || [];
+          for (const s of stories) {
+            const norm = normalizeStory(s);
+            if (norm.story_id && !storyMap.has(norm.story_id)) {
+              storyMap.set(norm.story_id, norm);
+            }
+          }
+        }
+      } catch (err) {
+        console.warn(`Firestore REST ${collName} error:`, err);
+      }
+    }
   }
 
   // 3. Fallback to bundled snapshot
@@ -216,13 +304,38 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
     if (res.ok) {
       const json = await res.json();
       const stories: any[] = json.stories || [];
-      return stories.map(s => normalizeStory(s));
+      for (const s of stories) {
+        const norm = normalizeStory(s);
+        if (norm.story_id && !storyMap.has(norm.story_id)) {
+          storyMap.set(norm.story_id, norm);
+        }
+      }
     }
   } catch (err) {
     console.error('Static current_affairs fallback error:', err);
   }
 
-  return [];
+  // 4. Secondary fallback: check capsule_latest.json
+  if (storyMap.size === 0) {
+    try {
+      const res = await fetch('/data/capsule_latest.json');
+      if (res.ok) {
+        const json = await res.json();
+        const stories: any[] = json.stories || [];
+        for (const s of stories) {
+          if (s.bcs_pro || s.is_bcs_pro_selected) {
+            const norm = normalizeStory(s);
+            if (norm.story_id && !storyMap.has(norm.story_id)) {
+              storyMap.set(norm.story_id, norm);
+            }
+          }
+        }
+      }
+    } catch {}
+  }
+
+  const list = Array.from(storyMap.values());
+  return sortByPublishedDesc(list);
 }
 
 export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
@@ -248,7 +361,7 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
     const restItems = await fetchFirestoreRest('hourly_buzz', 30);
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
-      return sortByPublishedDesc(items);
+      return sortByEditorialRank(items);
     }
   } catch (err) {
     console.warn('Firestore REST hourly error:', err);
@@ -261,7 +374,7 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
       const json = await res.json();
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
-      return sortByPublishedDesc(items);
+      return sortByEditorialRank(items);
     }
   } catch (err) {
     console.error('Static hourly_buzz fallback error:', err);
