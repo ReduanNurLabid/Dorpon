@@ -1,7 +1,175 @@
 {
-  "updated_at": "2026-10-21T23:00:42.838157",
-  "total_stories": 6,
+  "updated_at": "2026-10-22T00:00:47.610810",
+  "total_stories": 4,
   "stories": [
+    {
+      "story_id": "0f480175-5cce-56b7-854f-e3a44d982926",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9652,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/other-sports/975950/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A8-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+          "title": "টিভিতে আজকের খেলা (২২ অক্টোবর, ২০২৬)",
+          "snippet": "টিভিতে আজকের খেলা (২২ অক্টোবর, ২০২৬)"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টিভিতে র ক্রিকেট ও ক্রীড়া সূচি",
+        "title_en": "Television Broadcast Schedule for Today's Cricket and Sports",
+        "summary_bn": "টেলিভিশনের পর্দায় সম্প্রচারিত হতে যাওয়া দেশি ও আন্তর্জাতিক ক্রীড়া ইভেন্টগুলোর সময়সূচি প্রকাশ করা হয়েছে।",
+        "summary_en": "The broadcast schedule for domestic and international sports events airing on television has been released.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T00:00:00+00:00",
+        "lead_bn": "টেলিভিশনের পর্দায় সম্প্রচারিত হতে যাওয়া দেশি ও আন্তর্জাতিক ক্রীড়া ইভেন্টগুলোর সময়সূচি প্রকাশ করা হয়েছে।",
+        "lead_en": "The broadcast schedule for domestic and international sports events airing on television has been released.",
+        "bullets_bn": [
+          "টেলিভিশন চ্যানেলে সরাসরি সম্প্রচারিত ক্রীড়া ইভেন্টসমূহের সময়তালিকা নির্ধারণ করা হয়েছে।",
+          "ইংল্যান্ড বনাম শ্রীলঙ্কা ত্রিদেশীয় সিরিজের ম্যাচটি বেলা দুইটায় টি স্পোর্টসে সরাসরি সম্প্রচার করা হবে।",
+          "দর্শকরা নির্ধারিত সময়ে সংশ্লিষ্ট টিভি চ্যানেল ও প্ল্যাটফর্মে ম্যাচগুলো সরাসরি উপভোগ করতে পারবেন।"
+        ],
+        "bullets_en": [
+          "The broadcasting schedule for various sports events on television channels has been finalized.",
+          "The England versus Sri Lanka tri-nation series match will be broadcast live at two PM on T Sports.",
+          "Viewers can watch the matches live on the respective television channels and platforms at the scheduled time."
+        ],
+        "impact_bn": "ক্রিকেটপ্রেমী ও দর্শকরা সময়মতো পছন্দের খেলা সরাসরি উপভোগ করতে পারবেন।",
+        "impact_en": "Cricket fans and viewers can enjoy their favorite matches live at the scheduled time.",
+        "details_bn": "প্রতিদিনের নিয়মিত ক্রীড়া সূচির অংশ হিসেবে বিভিন্ন জাতীয় ও আন্তর্জাতিক টুর্নামেন্টের ম্যাচগুলো টেলিভিশন ও ডিজিটাল মাধ্যমে সরাসরি সম্প্রচার করা হয়। দর্শকদের খেলা দেখার সুবিধা নিশ্চিত করতে গণমাধ্যম ও ক্রীড়া চ্যানেলগুলো নিয়মিত এই সূচি প্রকাশ করে থাকে।",
+        "details_en": "As part of the regular daily sports schedule, matches from various national and international tournaments are broadcast live across television and digital platforms. Media outlets and sports channels routinely publish these schedules to ensure viewers can easily track and watch the games."
+      }
+    },
+    {
+      "story_id": "7dafcfd9-7f28-5d5a-9ee7-1c85f2c45a11",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T23:49:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.869,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170718",
+          "title": "ঢাকের শব্দে বিদায়, বুড়িগঙ্গার ঘাটে আগামী বছরের অপেক্ষা",
+          "snippet": "ঢাকের শব্দে বিদায়, বুড়িগঙ্গার ঘাটে আগামী বছরের অপেক্ষা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শঙ্খধ্বনি ও উলুধ্বনির মধ্য দিয়ে শেষ হলো সনাতন ধর্মাবলম্বীদের শারদীয় দুর্গোৎসব",
+        "title_en": "Sharadiya Durgotsav Concludes Amid Conch Shell Sounds and Devotional Chants",
+        "summary_bn": "শঙ্খধ্বনি, উলুধ্বনি এবং ঢাকের বাদ্যের মধ্য দিয়ে বুড়িগঙ্গার তীরে প্রতিমা বিসর্জনের মাধ্যমে সমাপ্তি ঘটেছে সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসবের।",
+        "summary_en": "Sharadiya Durgotsav concluded with the immersion of idols in the Buriganga river amid conch sounds, uludhwani, and traditional drum beats.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T23:49:50+00:00",
+        "lead_bn": "শঙ্খধ্বনি, উলুধ্বনি এবং ঢাকের বাদ্যের মধ্য দিয়ে বুড়িগঙ্গার তীরে প্রতিমা বিসর্জনের মাধ্যমে সমাপ্তি ঘটেছে সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসবের।",
+        "lead_en": "Sharadiya Durgotsav concluded with the immersion of idols in the Buriganga river amid conch sounds, uludhwani, and traditional drum beats.",
+        "bullets_bn": [
+          "সনাতন ধর্মাবলম্বীরা গভীর রাতে বুড়িগঙ্গার ঘাটে প্রতিমা বিসর্জন সম্পন্ন করেন।",
+          "বিসর্জন শোভাযাত্রায় ঢাকের বাদ্য, শঙ্খধ্বনি ও উলুধ্বনির মাধ্যমে ভক্তরা অংশ নেন।",
+          "উৎসব শেষে এখন আগামী বছরের শারদীয় দুর্গোৎসবের জন্য অপেক্ষা শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "Hindu devotees completed the immersion of idols at the Buriganga river banks late at night.",
+          "Devotees participated in the immersion procession with traditional drum beats, conch sounds, and rituals.",
+          "Preparations and anticipation for next year's Durgotsav have begun following the conclusion of the festival."
+        ],
+        "impact_bn": "উৎসব শেষ হওয়ায় নগরজীবনে পুনরায় স্বাভাবিক কর্মচাঞ্চল্য ফিরে এসেছে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিরাপত্তা ব্যবস্থা প্রত্যাহার করেছে।",
+        "impact_en": "Normal urban routines resumed across the city following the conclusion of the religious festivities.",
+        "details_bn": "শারদীয় দুর্গোৎসব সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। প্রতি বছর শরৎকালে এই উৎসব উদযাপিত হয়, যা পাঁচ দিনব্যাপী নানা ধর্মীয় আচার-অনুষ্ঠানের মধ্য দিয়ে চলে। বিজয়া দশমীর দিনে প্রতিমা বিসর্জনের মাধ্যমে এই উৎসবের আনুষ্ঠানিক সমাপ্তি ঘটে। দেশের বিভিন্ন প্রান্তে নদী বা জলাশয়ে প্রতিমা বিসর্জনের পর ভক্তরা আগামী বছরের জন্য আবার অপেক্ষা শুরু করেন।",
+        "details_en": "Sharadiya Durgotsav is the largest religious festival for the Hindu community, celebrated annually during autumn. Spanning five days, the festival features various religious rituals and community gatherings. The celebrations formally conclude on Bijoya Dashami with the immersion of idols in rivers and water bodies across the country, marking the beginning of the wait for the next year."
+      }
+    },
+    {
+      "story_id": "22173314-8a74-5943-be15-67d3be27e9fb",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-21T23:19:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6629,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975972/%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%AA%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE",
+          "title": "আত্মীয়ের মুখ চেয়ে সন্তানের নিরাপত্তায় আপস করছেন না তো?",
+          "snippet": "আত্মীয়ের মুখ চেয়ে সন্তানের নিরাপত্তায় আপস করছেন না তো?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আত্মীয়দের অসম্মানজনক আচরণ থেকে সন্তানকে রক্ষা করার প্রয়োজনীয়তা",
+        "title_en": "Protecting Children From Inappropriate Behavior by Relatives",
+        "summary_bn": "পরিবারের ঘনিষ্ঠ আত্মীয়দের আক্রমণাত্মক বা ক্ষতিকর আচরণ থেকে শিশুদের সুরক্ষা নিশ্চিত করা অভিভাবকদের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "summary_en": "Ensuring child safety against inappropriate behavior from close family relatives is crucial for parents.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-21T23:19:29+00:00",
+        "lead_bn": "পরিবারের ঘনিষ্ঠ আত্মীয়দের আক্রমণাত্মক বা ক্ষতিকর আচরণ থেকে শিশুদের সুরক্ষা নিশ্চিত করা অভিভাবকদের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "lead_en": "Ensuring child safety against inappropriate behavior from close family relatives is crucial for parents.",
+        "bullets_bn": [
+          "পরিবারের চাপে সন্তানের নিরাপত্তা ও মানসিক স্বাস্থ্যের সাথে আপস করা উচিত নয়।",
+          "শিশুর সামনে অপমানজনক বা চিৎকার করার মতো আচরণ তার মানসিক বিকাশে নেতিবাচক প্রভাব ফেলে।",
+          "অভিভাবকদের উচিত আত্মীয়তার সম্পর্ক রক্ষার চেয়ে সন্তানের সুরক্ষাকে সর্বোচ্চ অগ্রাধিকার দেওয়া।"
+        ],
+        "bullets_en": [
+          "Parents must not compromise child safety and mental health due to family pressure.",
+          "Offensive behavior or shouting in front of children negatively impacts their mental development.",
+          "Guardians should prioritize child protection over maintaining conventional family relations."
+        ],
+        "impact_bn": "সন্তানের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সাহসী সিদ্ধান্ত নিতে এবং পারিবারিক চাপ এড়াতে সাহায্য করে।",
+        "impact_en": "Helps parents make bold decisions to safeguard children mental health by resisting undue family pressure.",
+        "details_bn": "অনেক সময় আত্মীয়দের বিব্রতকর পরিস্থিতি এড়াতে অভিভাবকরা শিশুদের প্রতি অনৈতিক আচরণ সহ্য করেন। কিন্তু এই ধরনের আচরণ শিশুদের মনে দীর্ঘস্থায়ী নেতিবাচক প্রভাব ফেলতে পারে, যা তাদের আত্মবিশ্বাস কমিয়ে দেয়। তাই আত্মীয়তার সম্পর্ক বজায় রাখার পাশাপাশি শিশুর মানসিক ও শারীরিক নিরাপত্তা নিশ্চিত করা সমানভাবে জরুরি।",
+        "details_en": "Guardians often tolerate inappropriate behavior toward children to avoid awkward situations with relatives. However, such actions can leave lasting negative impacts on a child self-esteem. Ensuring a child mental and physical safety is vital even while maintaining family ties."
+      }
+    },
     {
       "story_id": "75251307-f12c-5a7f-bd64-dac134fe0247",
       "primary_category": "sports_fitness",
@@ -18,7 +186,7 @@
       "published_at": "2026-10-21T22:48:31+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8579,
+      "rank_score": 0.5277,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -28,10 +196,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "উয়েফা চ্যাম্পিয়নস লিগে বায়ার্নের সাথে আর্সেনালের ড্র এবং রিয়ালের জয়",
-        "title_en": "Arsenal Draws Bayern While Real Madrid Wins In Champions League",
-        "summary_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের বিপক্ষে ড্র করেছে আর্সেনাল এবং আরবি লাইপজিগকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
-        "summary_en": "Arsenal secured a dramatic draw against Bayern Munich while Real Madrid earned a dominant victory over RB Leipzig in the UEFA Champions League.",
+        "title_bn": "উয়েফা চ্যাম্পিয়নস লিগে বায়ার্ন-আর্সেনাল ড্র এবং রিয়ালের জয়",
+        "title_en": "Bayern and Arsenal Draw While Real Madrid Wins in Champions League",
+        "summary_bn": "উয়েফা চ্যাম্পিয়নস লিগ ম্যাচে আর্সেনাল বায়ার্ন মিউনিখের সাথে ড্র করেছে এবং রিয়াল মাদ্রিদ আরবি লাইপজিগকে পরাজিত করেছে।",
+        "summary_en": "Arsenal secured a draw against Bayern Munich while Real Madrid defeated RB Leipzig in the UEFA Champions League.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,300 +208,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-21T22:48:31+00:00",
-        "lead_bn": "উয়েফা চ্যাম্পিয়নস লিগের ম্যাচে বায়ার্ন মিউনিখের বিপক্ষে ড্র করেছে আর্সেনাল এবং আরবি লাইপজিগকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
-        "lead_en": "Arsenal secured a dramatic draw against Bayern Munich while Real Madrid earned a dominant victory over RB Leipzig in the UEFA Champions League.",
+        "lead_bn": "উয়েফা চ্যাম্পিয়নস লিগ ম্যাচে আর্সেনাল বায়ার্ন মিউনিখের সাথে ড্র করেছে এবং রিয়াল মাদ্রিদ আরবি লাইপজিগকে পরাজিত করেছে।",
+        "lead_en": "Arsenal secured a draw against Bayern Munich while Real Madrid defeated RB Leipzig in the UEFA Champions League.",
         "bullets_bn": [
-          "জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে পিছিয়ে পড়েও শেষ মুহূর্তের গোলে ম্যাচ ড্র করে আর্সেনাল।",
-          "আর্সেনাল ও বায়ার্নের ম্যাচটি দুই গোলের সমতায় ২-২ ব্যবধানে শেষ হয়।",
-          "আরেক ম্যাচে আরবি লাইপজিগকে ৪-১ গোলের বড় ব্যবধানে পরাজিত করে রিয়াল মাদ্রিদ।"
+          "জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে পিছিয়ে পড়েও শেষ মুহূর্তে গোল করে দুই দুই ব্যবধানে ড্র করে ইংলিশ ক্লাব আর্সেনাল।",
+          "নিজেদের মাঠ সান্তিয়াগো বার্নাব্যুতে আরবি লাইপজিগের বিপক্ষে চার এক গোলের দাপুটে জয় তুলে নেয় রিয়াল মাদ্রিদ।",
+          "উয়েফা চ্যাম্পিয়নস লিগের লিগ পর্বের ম্যাচগুলোতে ইউরোপের শীর্ষ ক্লাবগুলো নিজেদের আধিপত্য ধরে রাখতে লড়ছে।"
         ],
         "bullets_en": [
-          "Arsenal fought back from a deficit to secure a late draw away against German club Bayern Munich.",
-          "The intensely contested match between Arsenal and Bayern concluded with a 2-2 scoreline.",
-          "In a separate fixture, Real Madrid registered a resounding 4-1 victory against RB Leipzig."
+          "Arsenal secured a 2-2 draw against Bayern Munich after coming from behind on the German club's home ground.",
+          "Real Madrid claimed a dominant 4-1 victory over RB Leipzig at their home stadium Santiago Bernabeu.",
+          "European top-tier clubs continue their campaign with high-stakes matches in the ongoing UEFA Champions League group stage."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "উয়েফা চ্যাম্পিয়নস লিগের লিগ পর্বে ইউরোপের শীর্ষ ক্লাবগুলো মাঠে নামে। জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে খেলতে গিয়ে ইংলিশ ক্লাব আর্সেনাল দারুণ লড়াকু পারফরম্যান্স দেখায়। অন্যদিকে সান্তিয়াগো বার্নাব্যুতে আরবি লাইপজিগের বিপক্ষে বড় জয় তুলে নেয় রিয়াল মাদ্রিদ। এই ফলাফলগুলো টুর্নামেন্টের পয়েন্ট তালিকায় দলগুলোর অবস্থান আরও জমে তুলেছে।",
-        "details_en": "Europe's elite football clubs clashed in the latest round of the UEFA Champions League. Arsenal demonstrated strong resilience to secure an away draw against Bayern Munich. Meanwhile, Real Madrid delivered an impressive offensive display at the Santiago Bernabeu to defeat RB Leipzig comfortably, shaping the competitive landscape of the tournament."
-      }
-    },
-    {
-      "story_id": "758922d8-0b48-5701-8858-68bc889ab4a3",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F4qtkgjh2%2Fkane-afp.webp?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T21:00:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.7888,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/d8js7ol0ad",
-          "title": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল",
-          "snippet": "মিউনিখে বায়ার্নকে আটকে দিল আর্সেনাল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আর্সেনালের বিপক্ষে ড্র করে পয়েন্ট হারাল বায়ার্ন মিউনিখ",
-        "title_en": "Bayern Munich Held to Draw by Arsenal in Champions League",
-        "summary_bn": "ইউরোপিয়ান প্রতিযোগিতায় আর্সেনালের বিপক্ষে রোমাঞ্চকর ম্যাচে দুই গোল করেও জয় নিয়ে মাঠ ছাড়তে পারেনি বায়ার্ন মিউনিখ।",
-        "summary_en": "Bayern Munich was held to a thrilling draw by Arsenal after failing to defend their lead in Munich.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T21:00:13+00:00",
-        "lead_bn": "ইউরোপিয়ান প্রতিযোগিতায় আর্সেনালের বিপক্ষে রোমাঞ্চকর ম্যাচে দুই গোল করেও জয় নিয়ে মাঠ ছাড়তে পারেনি বায়ার্ন মিউনিখ।",
-        "lead_en": "Bayern Munich was held to a thrilling draw by Arsenal after failing to defend their lead in Munich.",
-        "bullets_bn": [
-          "ম্যাচটি দুই গোলের সমতায় শেষ হওয়ায় উভয় দল পয়েন্ট ভাগাভাগি করে মাঠ ছাড়ে।",
-          "হ্যারি কেইন পেনাল্টি থেকে গোল করার পাশাপাশি আলফোনসো ডেভিয়েসের গোলে অ্যাসিস্ট করেন।",
-          "এই ড্রয়ের ফলে তিন ম্যাচে সাত পয়েন্ট নিয়ে তালিকার সপ্তম স্থানে অবস্থান করছে আর্সেনাল।"
-        ],
-        "bullets_en": [
-          "Both teams shared points after ending the match in a two-goal deadlock.",
-          "Harry Kane scored from a penalty spot and provided an assist for Alphonso Davies.",
-          "Arsenal currently sits in seventh position with seven points from three matches following this draw."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ম্যাচের শুরু থেকে দুই দলই আক্রমণাত্মক ও সতর্ক ফুটবল খেলে। প্রথমার্ধে এবেরেচি এজে আর্সেনালকে এগিয়ে দিলেও আলফোনসো ডেভিয়েসের গোলে সমতায় ফেরে বায়ার্ন। দ্বিতীয়ার্ধে হ্যারি কেইন পেনাল্টি থেকে গোল করে বায়ার্নকে এগিয়ে নেন। তবে শেষ দিকে ডেকলান রাইসের গোলে ম্যাচে সমতা ফেরায় সফরকারী আর্সেনাল। এই ড্রয়ের ফলে ইউরোপিয়ান প্রতিযোগিতায় পয়েন্ট টেবিলে অবস্থানের পরিবর্তন ঘটেছে উভয় দলের।",
-        "details_en": "Both teams displayed cautious yet attacking football from the start. Eberchi Eze opened the scoring for Arsenal before Alphonso Davies equalized for Bayern. In the second phase, Harry Kane converted a penalty to put the German side ahead. However, Declan Rice secured the equalizer for the visitors in the closing stages, affecting both teams' standings in the European competition table."
-      }
-    },
-    {
-      "story_id": "8c456a73-2fdd-585d-9485-79bba6ebf909",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fdnz7bose%2F%E0%A7%A9.avif?rect=0%2C38%2C540%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T20:39:58+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.7101,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/48c8bk3g4s",
-          "title": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ",
-          "snippet": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে বহু ওয়েবসাইট বন্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গুরুতর নিরাপত্তা ত্রুটির কারণে বিশ্বজুড়ে ওয়েবসাইট সাময়িকভাবে বন্ধ রাখছে বিভিন্ন প্রতিষ্ঠান",
-        "title_en": "Global Websites Temporarily Shut Down Following Critical Security Vulnerabilities",
-        "summary_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় বিশ্বজুড়ে বিভিন্ন সরকারি ও বাণিজ্যিক প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
-        "summary_en": "Organizations worldwide are temporarily shutting down websites after critical security vulnerabilities were discovered in the PHP programming language.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T20:39:58+00:00",
-        "lead_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ায় বিশ্বজুড়ে বিভিন্ন সরকারি ও বাণিজ্যিক প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
-        "lead_en": "Organizations worldwide are temporarily shutting down websites after critical security vulnerabilities were discovered in the PHP programming language.",
-        "bullets_bn": [
-          "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি কাজে লাগিয়ে হামলাকারীরা পাসওয়ার্ড ছাড়াই সার্ভারের পূর্ণ নিয়ন্ত্রণ নিতে পারে বলে বিশেষজ্ঞরা সতর্ক করেছেন।",
-          "বিশ্বের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং একে দশকের সবচেয়ে বড় ত্রুটি হিসেবে তুলনা করা হয়েছে।",
-          "যুক্তরাষ্ট্রের জাতীয় নিরাপত্তা সংস্থা অবিলম্বে সফটওয়্যার আপডেট করার অথবা ঝুঁকিপূর্ণ সিস্টেমে ইন্টারনেট সংযোগ বিচ্ছিন্ন রাখার পরামর্শ দিয়েছে।"
-        ],
-        "bullets_en": [
-          "Experts warned attackers could exploit two severe PHP vulnerabilities to gain full server control without passwords.",
-          "Approximately 70 percent of global websites use PHP, making this one of the most critical software flaws in a decade.",
-          "The US National Security Agency advised immediate software updates or disconnecting vulnerable systems from the internet."
-        ],
-        "impact_bn": "সাধারণ ব্যবহারকারী ও গ্রাহকদের অনলাইন সেবার নিরাপত্তা বিঘ্নিত হতে পারে এবং বিভিন্ন সরকারি ও বাণিজ্যিক সেবা সাময়িকভাবে ব্যাহত হতে পারে।",
-        "impact_en": "Online service security for ordinary users and consumers may be compromised, causing temporary disruptions in government and commercial services.",
-        "details_bn": "সাইবার নিরাপত্তা প্রতিষ্ঠান উইজ এবং ওপেনএআইয়ের অর্থায়নে পিএইচপির কোড পর্যালোচনার সময় এই গুরুতর নিরাপত্তা ত্রুটিগুলো শনাক্ত হয়। বিশ্বের প্রায় ৭০ শতাংশ ওয়েবসাইট পিএইচপি ভিত্তিক হওয়ায় এর প্রভাব অত্যন্ত ব্যাপক। এআই মডেল ব্যবহার করে এই ত্রুটিগুলো খুঁজে বের করা হয়, যা প্রযুক্তি খাতে কৃত্রিম বুদ্ধিমত্তার বড় ভূমিকা তুলে ধরেছে। ডেভেলপাররা ইতিমধ্যে আপডেট প্রকাশ করেছেন এবং সংশ্লিষ্ট সকলকে দ্রুত তা ইনস্টল করার তাগিদ দেওয়া হয়েছে।",
-        "details_en": "These critical security vulnerabilities were identified during code reviews of PHP supported by cybersecurity firm Wiz and OpenAI. Since nearly 70 percent of global websites rely on PHP, the potential impact is massive. The flaws were uncovered using AI models, highlighting a significant milestone in technology. Developers have already released security updates, urging all users to install them immediately to prevent unauthorized server access."
-      }
-    },
-    {
-      "story_id": "12cbf4a3-177d-5d94-b557-c2b5369ab3d1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fc89vuh7o%2FCapture.PNG?rect=0%2C51%2C477%2C250&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-21T20:18:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.642,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/6rhyu88nd6",
-          "title": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা",
-          "snippet": "এপস্টিনের সঙ্গে ভারতের মন্ত্রী পুরির বৈঠকের ছবি প্রকাশ্যে, সরব বিরোধীরা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যৌন অপরাধী জেফরি এপস্টিনের সাথে ভারতের মন্ত্রীর বৈঠকের ছবি প্রকাশ",
-        "title_en": "US Justice Department Releases Photos of Indian Minister with Jeffrey Epstein",
-        "summary_bn": "যুক্তরাষ্ট্রের বিচার বিভাগের প্রকাশিত নথিতে যৌন নিপীড়ক জেফরি এপস্টিনের সাথে ভারতের পেট্রোলিয়াম মন্ত্রীর বৈঠকের ছবি প্রকাশ্যে এসেছে।",
-        "summary_en": "Newly released US Department of Justice files reveal photographs of Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T20:18:55+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের বিচার বিভাগের প্রকাশিত নথিতে যৌন নিপীড়ক জেফরি এপস্টিনের সাথে ভারতের পেট্রোলিয়াম মন্ত্রীর বৈঠকের ছবি প্রকাশ্যে এসেছে।",
-        "lead_en": "Newly released US Department of Justice files reveal photographs of Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্রের বিচার বিভাগ জেফরি এপস্টিনের সাথে ভারতীয় মন্ত্রী হরদীপ সিং পুরির মুখোমুখি বসার ছবি প্রকাশ করেছে।",
-          "প্রকাশিত ছবিতে টেবিলে কেবল মন্ত্রী পুরি এবং এপস্টিনকে দেখা যাওয়ায় তাঁর পূর্বের দাবি নিয়ে প্রশ্ন উঠেছে।",
-          "এই ছবি প্রকাশের পর বিরোধী দলের নেতারা মন্ত্রীর পদত্যাগ দাবি করে তীব্র সমালোচনা শুরু করেছেন।"
-        ],
-        "bullets_en": [
-          "The US Department of Justice published photographs showing Indian Petroleum Minister Hardeep Singh Puri meeting convicted sex offender Jeffrey Epstein.",
-          "The newly released images contradict the minister's previous claim that he met Epstein only as part of an official delegation.",
-          "Opposition leaders in India strongly criticized the minister and demanded his resignation following the photo release."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের বিচার বিভাগ যৌন নিপীড়ন ও নারী পাচারের দায়ে দোষী সাব্যস্ত জেফরি এপস্টিনের সাথে সম্পর্কিত বেশ কিছু নথি এবং ছবি প্রকাশ করেছে। এর আগে মন্ত্রী হরদীপ সিং পুরি দাবি করেছিলেন যে ইন্টারন্যাশনাল পিস ইনস্টিটিউটের একটি প্রতিনিধিদলের অংশ হিসেবে তিনি এপস্টিনের সাথে দেখা করেছিলেন। কিন্তু নতুন ছবিগুলোতে কেবল তাদের দুজনকে মুখোমুখি বসে থাকতে দেখা যাওয়ায় বিষয়টি নিয়ে রাজনৈতিক বিতর্ক তৈরি হয়েছে এবং বিরোধীরা মন্ত্রীর পদত্যাগ দাবি করছেন।",
-        "details_en": "The United States Department of Justice released files containing photographs linked to convicted sex offender and human trafficker Jeffrey Epstein. Previously, Indian Petroleum Minister Hardeep Singh Puri claimed he met Epstein only as part of an official delegation at the International Institute for Peace. However, the newly surfaced images show the two men seated facing each other alone, sparking intense political backlash and demands for the minister's resignation from opposition parties."
-      }
-    },
-    {
-      "story_id": "9118d522-3bd8-5a7b-bafc-64407a83e29f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-21T20:56:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3859,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1170717",
-          "title": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ",
-          "snippet": "ধর্মের শিক্ষা প্রতিফলিত হোক কর্মেও: ডিসি জাহিদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ধর্মের শিক্ষা কর্ম ও আচরণে প্রতিফলিত করার আহ্বান চট্টগ্রাম ডিসির",
-        "title_en": "Chattogram DC Urges Reflecting Religious Teachings in Daily Work",
-        "summary_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
-        "summary_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia urged people to reflect religious teachings in their daily work and behavior.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T20:56:09+00:00",
-        "lead_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা ধর্মের শিক্ষা শুধু উৎসব উদযাপনের মধ্যে সীমাবদ্ধ না রেখে কর্ম ও আচরণে প্রতিফলিত করার আহ্বান জানিয়েছেন।",
-        "lead_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia urged people to reflect religious teachings in their daily work and behavior.",
-        "bullets_bn": [
-          "ধর্মীয় অনুশাসন ও নৈতিক শিক্ষা বাস্তব জীবনে চর্চা করার ওপর গুরুত্বারোপ করা হয়েছে।",
-          "উৎসব উদযাপনের পাশাপাশি মানবতার কল্যাণে কাজ করার আহ্বান জানান জেলা প্রশাসক।",
-          "সামাজিক সম্প্রীতি বজায় রাখতে যুবসমাজকে নৈতিক মূল্যবোধে উদ্বুদ্ধ করা হবে।"
-        ],
-        "bullets_en": [
-          "Emphasis was placed on practicing religious discipline and moral education in practical life.",
-          "The Deputy Commissioner urged working for the welfare of humanity alongside celebrating festivals.",
-          "Youth will be inspired by moral values to maintain social harmony."
-        ],
-        "impact_bn": "এই আহ্বান তরুণ সমাজকে নৈতিক মূল্যবোধ চর্চা করতে এবং সামাজিক শৃঙ্খলা বজায় রাখতে উৎসাহিত করবে।",
-        "impact_en": "This call will encourage youth to practice moral values and maintain social discipline.",
-        "details_bn": "চট্টগ্রামের জেলা প্রশাসক মোহাম্মদ জাহিদুল ইসলাম মিঞা বিভিন্ন সামাজিক ও ধর্মীয় অনুষ্ঠানে প্রধান অতিথির বক্তব্যে নৈতিকতা ও মূল্যবোধের ওপর জোর দিয়ে আসছেন। বর্তমান সময়ে সমাজ থেকে নৈতিক অবক্ষয় রোধ এবং ধর্মীয় সম্প্রীতি ও সৌহার্দ্য বজায় রাখার ক্ষেত্রে প্রশাসন ও ধর্মীয় নেতাদের যৌথ উদ্যোগের ওপর গুরুত্ব দেওয়া হচ্ছে।",
-        "details_en": "Chattogram Deputy Commissioner Mohammad Zahidul Islam Mia has continuously emphasized morality and values during various social and religious events. In recent times, importance is being given to joint initiatives by the administration and religious leaders to prevent moral degradation and maintain religious harmony and goodwill in society."
-      }
-    },
-    {
-      "story_id": "009493c2-be60-5e79-87c7-f3c56757151b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-21T20:43:36+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3616,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/975966/%E0%A6%AD%E0%A7%81%E0%A7%9F%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%87%E0%A6%87%E0%A6%89%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE",
-          "title": "বুকিং ডটকমের বিরুদ্ধে তদন্ত করবে ইউরোপীয় কমিশন",
-          "snippet": "বুকিং ডটকমের বিরুদ্ধে তদন্ত করবে ইউরোপীয় কমিশন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বুকিং ডটকমকে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধের নির্দেশ ইউরোপীয় কমিশনের",
-        "title_en": "European Commission Directs Booking.com to Prevent Fake Listings and Phishing",
-        "summary_bn": "অনলাইনে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধে বুকিং ডটকমকে প্রয়োজনীয় ব্যবস্থা নিতে নির্দেশ দিয়েছে ইউরোপীয় কমিশন।",
-        "summary_en": "The European Commission has instructed Booking.com to take necessary measures to prevent online fake listings and phishing scams.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-21T20:43:36+00:00",
-        "lead_bn": "অনলাইনে ভুয়া তালিকা ও ফিশিং প্রতারণা রোধে বুকিং ডটকমকে প্রয়োজনীয় ব্যবস্থা নিতে নির্দেশ দিয়েছে ইউরোপীয় কমিশন।",
-        "lead_en": "The European Commission has instructed Booking.com to take necessary measures to prevent online fake listings and phishing scams.",
-        "bullets_bn": [
-          "বুকিং ডটকমকে অনলাইনে ভুয়া তালিকা এবং ফিশিং প্রতারণার ঝুঁকি মোকাবিলায় কঠোর ব্যবস্থা গ্রহণের নির্দেশ দেওয়া হয়েছে।",
-          "সার্চের ফলাফলে অর্থের বিনিময়ে প্রদর্শিত তালিকাগুলো স্পষ্টভাবে চিহ্নিত করার নির্দেশ দিয়েছে ইইউ কর্তৃপক্ষ।",
-          "ইউরোপীয় ইউনিয়নের ডিজিটাল আইন কঠোরভাবে বাস্তবায়নের অংশ হিসেবে এই পদক্ষেপ নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Booking.com has been directed to take necessary measures to combat online fake listings and phishing risks.",
-          "The EU authority instructed that paid listings in search results must be clearly labeled.",
-          "This directive is part of the strict implementation of European Union digital laws."
-        ],
-        "impact_bn": "এই পদক্ষেপে ইউরোপের অনলাইন ভ্রমণকারীরা ভুয়া বুকিং ও আর্থিক প্রতারণার ঝুঁকি থেকে সুরক্ষিত থাকবেন।",
-        "impact_en": "This measure protects European online travelers from the risks of fake bookings and financial fraud.",
-        "details_bn": "অনলাইন প্ল্যাটফর্মগুলোতে ভুয়া তথ্য এবং প্রতারণামূলক কর্মকাণ্ড বাড়ায় এর আগে থেকেই কড়াকড়ি আরোপ করে আসছে ইউরোপীয় ইউনিয়ন। ডিজিটাল আইন বা ডিজিটাল সার্ভিসেস অ্যাক্ট অনুযায়ী বড় প্রযুক্তি ও সেবা প্রদানকারী প্রতিষ্ঠানগুলোকে ব্যবহারকারীদের নিরাপত্তা নিশ্চিত করতে বাধ্য করা হচ্ছে। এরই ধারাবাহিকতায় বুকিং ডটকমের প্ল্যাটফর্মে থাকা তালিকাগুলো স্বচ্ছ ও জালিয়াতিমুক্ত রাখতে এই নির্দেশনা দেয় ইউরোপীয় কমিশন।",
-        "details_en": "The European Union has increasingly tightened regulations on online platforms due to rising fraudulent activities and misinformation. Under digital service laws, major tech and service providers are legally mandated to ensure consumer safety and transparency. Consequently, the European Commission issued directives to Booking.com to ensure all platform listings are transparent and free from scams."
+        "details_bn": "উয়েফা চ্যাম্পিয়নস লিগ ইউরোপের সবচেয়ে মর্যাদাপূর্ণ ক্লাব ফুটবল প্রতিযোগিতা। এতে মহাদেশের শীর্ষ দলগুলো গ্রুপ ও লিগ পর্বে একে অপরের মুখোমুখি হয়। বর্তমান মৌসুমেও ইউরোপের জায়ান্ট ক্লাবগুলোর এই লড়াই ফুটবলপ্রেমীদের মধ্যে ব্যাপক উন্মাদনা সৃষ্টি করেছে।",
+        "details_en": "The UEFA Champions League is the most prestigious club football competition in Europe, featuring top-tier teams from across the continent. This season continues to deliver high-intensity matchups as football giants battle for European supremacy."
       }
     }
   ]
