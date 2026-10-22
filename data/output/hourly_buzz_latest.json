@@ -1,171 +1,283 @@
 {
-  "updated_at": "2026-10-22T06:00:49.953244",
+  "updated_at": "2026-10-22T07:00:41.132010",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "aacfc71a-937d-5f29-b882-e7f2581182d7",
-      "primary_category": "governance_law",
+      "story_id": "dab4d18c-80a8-51e7-9e11-4c573a423132",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "governance_law"
+        "climate_environment",
+        "society_education"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Climate",
+        "#Environment"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T05:38:11+00:00",
+      "published_at": "2026-10-22T05:53:11+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.9142,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1170788",
-          "title": "প্রধানমন্ত্রীকে নিয়ে ‘শুধু একটা স্নাইপারের অভাব ছিল’ বলা যুবক আটক",
-          "snippet": "প্রধানমন্ত্রীকে নিয়ে ‘শুধু একটা স্নাইপারের অভাব ছিল’ বলা যুবক আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর সফর নিয়ে ফেসবুকে হুমকি দেওয়ায় যুবক আটক",
-        "title_en": "Youth Arrested for Threatening Facebook Post Regarding Prime Minister",
-        "summary_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে উসকানিমূলক মন্তব্যকারী এক যুবককে আটক করেছে।",
-        "summary_en": "Dhaka Metropolitan Detective Branch arrested a youth for posting a provocative social media comment regarding the prime minister.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:38:11+00:00",
-        "lead_bn": "ঢাকা মহানগর গোয়েন্দা পুলিশ প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে উসকানিমূলক মন্তব্যকারী এক যুবককে আটক করেছে।",
-        "lead_en": "Dhaka Metropolitan Detective Branch arrested a youth for posting a provocative social media comment regarding the prime minister.",
-        "bullets_bn": [
-          "ঢাকা মহানগর গোয়েন্দা পুলিশ সামাজিক যোগাযোগমাধ্যমে হুমকিদাতা আবু বক্কর সিদ্দিকীকে আটক করে",
-          "আটককৃত ব্যক্তি ফেসবুকে প্রধানমন্ত্রীর রাজশাহী সফরকে কেন্দ্র করে স্নাইপার দিয়ে হামলার কথা লিখেছিলেন",
-          "পুলিশের সাইবার নিরাপত্তা দল অভিযুক্তের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করেছে"
-        ],
-        "bullets_en": [
-          "Dhaka Metropolitan Detective Branch arrested accused Abu Bakkar Siddique from social media monitoring",
-          "The detainee posted a comment on Facebook mentioning a sniper attack targeting the prime minister visit",
-          "Police cyber security unit initiated legal proceedings against the arrested individual"
-        ],
-        "impact_bn": "অনলাইন প্ল্যাটফর্মে নিরাপত্তা হুমকি ও উসকানিমূলক পোস্ট পর্যবেক্ষণে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজরদারি বেড়েছে।",
-        "impact_en": "Law enforcement monitoring on security threats and provocative posts across online platforms has increased.",
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ভিআইপি ব্যক্তিদের নিরাপত্তা নিয়ে বিভিন্ন সময় নানা ধরনের উসকানিমূলক ও ভীতি প্রদর্শনমূলক মন্তব্য ছড়ানোর ঘটনা ঘটে। এর আগে থেকেই আইনশৃঙ্খলা রক্ষাকারী বাহিনী সাইবার অপরাধ দমনে কঠোর অবস্থান নিয়েছে এবং অনলাইনে প্ররোচনামূলক কনটেন্টদাতাদের শনাক্ত করে আইনের আওতায় আনার কার্যক্রম জোরদার করেছে।",
-        "details_en": "Social media frequently witnesses provocative and threatening comments regarding VIP security. Law enforcement agencies have maintained a strict stance against cybercrimes and intensified efforts to identify and prosecute individuals posting inciting content online."
-      }
-    },
-    {
-      "story_id": "9bb0b909-2b7b-5856-ae1b-24c6c64abeec",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.964,
+      "importance_score": 6.6,
+      "rank_score": 1.4987,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/columns/975913/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A6-%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95-%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A7%8B%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE%C2%A0",
-          "title": "নিরাপদ সড়ক: স্লোগান নয়, হোক নিশ্চয়তা",
-          "snippet": "নিরাপদ সড়ক: স্লোগান নয়, হোক নিশ্চয়তা"
+          "url": "https://www.banglatribune.com/country/khulna/976008/%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%AA",
+          "title": "হেলিকপ্টারে সুন্দরবন দেখলেন প্রধানমন্ত্রী, দাকোপ ঘুরে যাচ্ছেন মোংলায়",
+          "snippet": "হেলিকপ্টারে সুন্দরবন দেখলেন প্রধানমন্ত্রী, দাকোপ ঘুরে যাচ্ছেন মোংলায়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় নিরাপদ সড়ক দিবসে সড়কে শৃঙ্খলা ও নিরাপত্তা নিশ্চিত করার দাবি",
-        "title_en": "Safe Roads Demanded Across Bangladesh on National Road Safety Day",
-        "summary_bn": "জাতীয় নিরাপদ সড়ক দিবসে দেশজুড়ে নানা কর্মসূচির মধ্য দিয়ে সড়কে শৃঙ্খলা ও প্রাণহানি রোধের জোরালো দাবি জানানো হয়েছে।",
-        "summary_en": "Observing National Road Safety Day, citizens and activists across Bangladesh strongly demanded strict discipline and reduced road fatalities.",
+        "title_bn": "সুন্দরবন পরিদর্শন শেষে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Visits Sundarbans Before Heading to Mongla",
+        "summary_bn": "হেলিকপ্টারে সুন্দরবন পরিদর্শন শেষে খুলনার দাকোপ হয়ে নৌপথে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman completed an aerial tour of the Sundarbans and departed for Mongla via waterways.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "climate_environment",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:00:00+00:00",
-        "lead_bn": "জাতীয় নিরাপদ সড়ক দিবসে দেশজুড়ে নানা কর্মসূচির মধ্য দিয়ে সড়কে শৃঙ্খলা ও প্রাণহানি রোধের জোরালো দাবি জানানো হয়েছে।",
-        "lead_en": "Observing National Road Safety Day, citizens and activists across Bangladesh strongly demanded strict discipline and reduced road fatalities.",
+        "published_at": "2026-10-22T05:53:11+00:00",
+        "lead_bn": "হেলিকপ্টারে সুন্দরবন পরিদর্শন শেষে খুলনার দাকোপ হয়ে নৌপথে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman completed an aerial tour of the Sundarbans and departed for Mongla via waterways.",
         "bullets_bn": [
-          "জাতীয় নিরাপদ সড়ক দিবস উপলক্ষ্যে দেশজুড়ে র‍্যালি, আলোচনা সভা ও লিফলেট বিতরণ কর্মসূচি পালিত হয়।",
-          "এবারের দিবসের নির্ধারিত প্রতিপাদ্য ছিল নিরাপদ সড়ক সমৃদ্ধ দেশ সবার আগে বাংলাদেশ।",
-          "সড়ক দুর্ঘটনা রোধে আনুষ্ঠানিক কর্মসূচির পাশাপাশি বাস্তবমুখী ও কার্যকর পদক্ষেপ গ্রহণের তাগিদ দেওয়া হয়েছে।"
+          "প্রধানমন্ত্রী হেলিকপ্টারে করে সুন্দরবনের বিভিন্ন এলাকা পরিদর্শন করেছেন।",
+          "সকাল সাড়ে দশটায় খুলনার দাকোপ উপজেলার নলিয়ান মাধ্যমিক বিদ্যালয় মাঠে তার কপ্টার অবতরণ করে।",
+          "নলিয়ান থেকে লঞ্চে চড়ে দুপুর পৌনে একটায় বানৌজা মোংলা জেটিতে পৌঁছানোর কথা রয়েছে তার।"
         ],
         "bullets_en": [
-          "Rellies, discussions, and leaflet distributions were held nationwide to mark National Road Safety Day.",
-          "The official theme for this year's observance was Safe Roads Prosperous Country Bangladesh First.",
-          "Experts emphasized implementing practical measures alongside ceremonial events to curb accidents."
-        ],
-        "impact_bn": "নিরাপদ সড়ক নিশ্চিত হলে সাধারণ যাত্রীদের দৈনন্দিন যাতায়াত ঝুঁকিমুক্ত হবে এবং মূল্যবান প্রাণহানি কমবে।",
-        "impact_en": "Ensuring safe roads will make daily commuting risk-free for ordinary citizens and significantly reduce fatalities.",
-        "details_bn": "বাংলাদেশে নিরাপদ সড়কের দাবি দীর্ঘদিনের। ১৯৯৩ সালে চিত্রনায়ক ইলিয়াস কাঞ্চনের নেতৃত্বে নিরাপদ সড়ক চাই আন্দোলন শুরু হওয়ার পর থেকেই সড়ক দুর্ঘটনা রোধ ও ট্রাফিক আইন বাস্তবায়নের দাবিতে বিভিন্ন সামাজিক সংগঠন সোচ্চার রয়েছে। প্রতি বছর ২২ অক্টোবর নানা আয়োজনের মধ্য দিয়ে দিবসটি পালন করা হয়।",
-        "details_en": "The demand for safe roads in Bangladesh is longstanding. Initiated in 1993 under the leadership of film actor Iliyas Kanchan through the Safe Road movement, various social organizations have continuously advocated for stricter traffic laws and accident prevention. The day is observed annually on October 22 through various events."
-      }
-    },
-    {
-      "story_id": "1308f3de-7974-53b6-ab46-b547a0623216",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T05:47:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8489,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976006/%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE-%E0%A6%85%E0%A6%A8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AC-%E0%A7%A7%E0%A7%AB-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
-          "title": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ খেলতে বাকুতে বাংলাদেশ",
-          "snippet": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ খেলতে বাকুতে বাংলাদেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ খেলতে ারবাইজানে পৌঁছেছে বাংলাদেশ দল",
-        "title_en": "Bangladesh Team Arrives in Azerbaijan to Play FIFA U-15 World Cup",
-        "summary_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে অংশ নিতে বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দল বাকুতে পৌঁছেছে।",
-        "summary_en": "The Bangladesh under-15 football team has arrived in Baku to participate in the FIFA Under-15 World Cup and Festival.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:47:34+00:00",
-        "lead_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে অংশ নিতে বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দল বাকুতে পৌঁছেছে।",
-        "lead_en": "The Bangladesh under-15 football team has arrived in Baku to participate in the FIFA Under-15 World Cup and Festival.",
-        "bullets_bn": [
-          "বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দল ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে অংশ নিতে ারবাইজানের বাকুতে পৌঁছেছে।",
-          "দলের সকল খেলোয়াড় ও কর্মকর্তা সুস্থ আছেন এবং বাকুর অ্যাথলেটস ভিলেজে অবস্থান করছেন।",
-          "দলটি স্থানীয় সময় সকালে তাদের প্রথম অনুশীলনে অংশ নেবে।"
-        ],
-        "bullets_en": [
-          "The Bangladesh U-15 football team arrived in Baku, Azerbaijan, to compete in the FIFA U-15 World Cup and Festival.",
-          "All players and officials are reported to be in good health and are currently staying at the Athletes Village in Baku.",
-          "The team is scheduled to hold its first training session during the morning hours."
+          "The Prime Minister conducted an aerial inspection of the Sundarbans by helicopter.",
+          "The chopper landed at the Nalian Secondary School ground in Dakop upazila at 10:30 AM.",
+          "He traveled from Nalian by launch and scheduled to reach BNS Mongla jetty at 12:45 PM."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দলটি ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে অংশগ্রহণের উদ্দেশ্যে ারবাইজানের রাজধানী বাকুতে অবস্থান করছে। টুর্নামেন্টে নিজেদের প্রস্তুতি নিশ্চিত করতে দলটি ইতোমধ্যে অ্যাথলেটস ভিলেজে উঠেছে এবং নির্ধারিত সূচি অনুযায়ী অনুশীলনে নামবে। বাফুফের পক্ষ থেকে দলের সামগ্রিক স্বাস্থ্য ও নিরাপত্তার বিষয়টি নিয়মিত পর্যবেক্ষণ করা হচ্ছে।",
-        "details_en": "The Bangladesh under-15 football team is currently in Baku, Azerbaijan, to compete in the FIFA U-15 World Cup and Festival. Upon arrival, the squad settled into the Athletes Village to prepare for their upcoming matches. The Bangladesh Football Federation is actively monitoring the health and well-being of all players and staff members as they gear up for their opening sessions."
+        "details_bn": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন এবং বাংলাদেশের দক্ষিণ উপকূলীয় অঞ্চলের প্রধান প্রাকৃতিক ঢাল। এই বন জীববৈচিত্র্য সংরক্ষণ, সামুদ্রিক সম্পদ রক্ষা এবং প্রাকৃতিক দুর্যোগ মোকাবিলায় গুরুত্বপূর্ণ ভূমিকা পালন করে। সরকারের শীর্ষপর্যায়ের ব্যক্তিবর্গ প্রায়ই উপকূলীয় পরিবেশ ও জীববৈচিত্র্য রক্ষার অগ্রগতি তদারকি করতে এই অঞ্চলে সফর করেন।",
+        "details_en": "The Sundarbans is the world's largest mangrove forest and acts as a vital natural shield for Bangladesh's southern coastal region. It plays a critical role in biodiversity conservation and natural disaster mitigation. High-level state visits to the region often emphasize environmental protection, conservation efforts, and regional development oversight."
       }
     },
     {
-      "story_id": "e7042c1d-cf52-5be0-9b28-da79b3e06615",
+      "story_id": "c1d88666-072d-5443-931d-dc6d5aff3b8c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T06:33:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4938,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/976016/%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF",
+          "title": "সাজেকে গোলাগুলি, আটকে দিয়েছে পর্যটকদের গাড়ি",
+          "snippet": "সাজেকে গোলাগুলি, আটকে দিয়েছে পর্যটকদের গাড়ি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাজেকে আইনশৃঙ্খলা বাহিনী ও সন্ত্রাসীদের গোলাগুলি, পর্যটকদের গাড়ি আটকে আছে",
+        "title_en": "Gunfight Erupts Between Security Forces and Terrorists in Sajek, Tourists Stranded",
+        "summary_bn": "রাঙামাটির সাজেকে আইনশৃঙ্খলা বাহিনীর সাথে সশস্ত্র সন্ত্রাসীদের গোলাগুলির ঘটনা ঘটে এবং পর্যটকদের গাড়ি আটকে যায়।",
+        "summary_en": "A gunfight erupted between security forces and armed terrorists in Sajek, stranding tourist vehicles on the road.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T06:33:35+00:00",
+        "lead_bn": "রাঙামাটির সাজেকে আইনশৃঙ্খলা বাহিনীর সাথে সশস্ত্র সন্ত্রাসীদের গোলাগুলির ঘটনা ঘটে এবং পর্যটকদের গাড়ি আটকে যায়।",
+        "lead_en": "A gunfight erupted between security forces and armed terrorists in Sajek, stranding tourist vehicles on the road.",
+        "bullets_bn": [
+          "সাজেক সড়কে অবরোধ চলাকালে আইনশৃঙ্খলা বাহিনী ব্যারিকেড সরিয়ে পর্যটকদের খাগড়াছড়ি নেওয়ার সময় এই সংঘর্ষ শুরু হয়।",
+          "উজোবাজার এলাকায় অবরোধকারীরা প্রথমে ইট-পাটকেল নিক্ষেপ করে এবং পরবর্তীতে দুই পক্ষের মধ্যে গোলাগুলি শুরু হয়।",
+          "পরিস্থিতি নিয়ন্ত্রণে আসার পর পর্যটকদের নিরাপদে দিঘীনালায় সরিয়ে নেওয়ার প্রক্রিয়া অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Clashes broke out as security forces attempted to remove barricades and escort tourists towards Khagrachhari during a road blockade.",
+          "Protesters initially hurled bricks in the Ujobazar area before armed exchanges began between the two sides.",
+          "Efforts are underway to ensure the safe evacuation of stranded tourists toward Dighinala as security measures normalize."
+        ],
+        "impact_bn": "সাজেকে বেড়াতে যাওয়া পর্যটকরা চরম আতঙ্ক ও নিরাপত্তাহীনতার মুখে পড়েন এবং তাদের চলাচল সাময়িকভাবে ব্যাহত হয়।",
+        "impact_en": "Tourists visiting Sajek face severe panic and movement restrictions due to sudden armed clashes.",
+        "details_bn": "রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক ইউনিয়নে দীর্ঘ দিন ধরে পাহাড়ি সন্ত্রাসী গোষ্ঠীগুলোর আধিপত্য বিস্তারকে কেন্দ্র করে নিরাপত্তা জনিত অস্থিরতা বিরাজ করছে। এর আগেও বিভিন্ন সময় সাজেক সড়কে পর্যটকবাহী যানবাহন ও স্থানীয় চালকরা সন্ত্রাসী কর্মকাণ্ড বা অবরোধের কারণে আটকা পড়েছেন। আইনশৃঙ্খলা বাহিনী পাহাড়ি জনপদে নিরাপত্তা জোরদার ও সন্ত্রাস দমনে নিয়মিত অভিযান পরিচালনা করে আসছে। সাম্প্রতিক এই সহিংসতার ঘটনায় পার্বত্য অঞ্চলের সার্বিক নিরাপত্তা ও পর্যটন শিল্প আবারও বড় ধরনের ঝুঁকির মুখে পড়ল।",
+        "details_en": "The Sajek union in Baghaichhari upazila of Rangamati has long experienced security volatility due to activities by armed regional groups. Tourist vehicles and local drivers have frequently faced disruptions and blockades on the Sajek road. Security forces regularly conduct operations to maintain regional stability and curb insurgent violence. This latest clash poses renewed concerns for regional security and the local tourism sector."
+      }
+    },
+    {
+      "story_id": "0b59a146-2c73-54cd-bf83-207d3fbef8d7",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2F10dz9stl%2FWhatsApp-Image-2026-10-22-at-11.56.37.jpeg?rect=0%2C0%2C656%2C344&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T06:21:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3464,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/1z1fu7fn8t",
+          "title": "সাজেকে আবার অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন প্রায় দুই হাজার পর্যটক",
+          "snippet": "সাজেকে আবার অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন প্রায় দুই হাজার পর্যটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাজেকে অনির্দিষ্টকালের অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন দুই হাজার পর্যটক",
+        "title_en": "Indefinite Blockade Strands Two Thousand Tourists Leaving Sajek",
+        "summary_bn": "আঞ্চলিক দুটি সংগঠনের ডাকা অনির্দিষ্টকালের অবরোধের কারণে রাঙামাটির সাজেক থেকে ফেরার পথে প্রায় দুই হাজার পর্যটক মাঝপথে আটকা পড়েছেন।",
+        "summary_en": "Around two thousand tourists are stranded midway while returning from Sajek due to an indefinite blockade called by regional organizations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T06:21:20+00:00",
+        "lead_bn": "আঞ্চলিক দুটি সংগঠনের ডাকা অনির্দিষ্টকালের অবরোধের কারণে রাঙামাটির সাজেক থেকে ফেরার পথে প্রায় দুই হাজার পর্যটক মাঝপথে আটকা পড়েছেন।",
+        "lead_en": "Around two thousand tourists are stranded midway while returning from Sajek due to an indefinite blockade called by regional organizations.",
+        "bullets_bn": [
+          "সাজেক গণ-অধিকার রক্ষা কমিটি ও সাজেক কার্বারি অ্যাসোসিয়েশন অনির্দিষ্টকালের এই অবরোধ কর্মসূচি পালন করছে।",
+          "সেনাবাহিনী ও পুলিশের নিরাপত্তাবলয়ে সাজেক থেকে খাগড়াছড়ির উদ্দেশ্যে রওয়ানা দেওয়া প্রায় দুই হাজার পর্যটক উজোবাজারে আটকে পড়েন।",
+          "নিরাপত্তাঝুঁকির কারণে জেলা প্রশাসন সাজেক পর্যটনকেন্দ্র পরবর্তী নির্দেশ না দেওয়া পর্যন্ত সাময়িকভাবে বন্ধ ঘোষণা করেছে।"
+        ],
+        "bullets_en": [
+          "Sajek Gonodhikar Roksha Committee and Sajek Karbari Association enforced the indefinite blockade.",
+          "Around two thousand tourists travelling under military and police escort got stranded at Ujobazar.",
+          "The district administration temporarily closed the Sajek tourist hub indefinitely citing security risks."
+        ],
+        "impact_bn": "আটকে পড়া পর্যটকরা চরম ভোগান্তিতে পড়েছেন এবং পাহাড় ভ্রমণকারী সাধারণ মানুষ নিরাপত্তাহীনতার মুখে পড়েছেন।",
+        "impact_en": "Stranded tourists are facing severe disruptions and ordinary travelers visiting the hills are experiencing security concerns.",
+        "details_bn": "পার্বত্য চট্টগ্রাম জনসংহতি সমিতির সশস্ত্র সদস্যদের সাজেক এলাকা থেকে সরিয়ে নেওয়ার দাবিতে স্থানীয় দুটি সংগঠন এই অনির্দিষ্টকালের অবরোধের ডাক দেয়। এর আগে থেকেই দফায় দফায় চলা অবরোধের কারণে রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক ভ্যালি পর্যটনকেন্দ্র যাতায়াত ও নিরাপত্তার দিক থেকে অস্থিতিশীল হয়ে ওঠে। প্রশাসন পর্যটকদের নিরাপত্তায় সাজেক ছাড়ার নির্দেশ দিলেও মাঝপথে অবরোধকারীরা গাড়ি আটকে দেয়। বর্তমানে নেটওয়ার্ক সমস্যার কারণে আটকে থাকা পর্যটকদের সঠিক পরিস্থিতি জানতে সমস্যা হচ্ছে।",
+        "details_en": "Two local organizations called the indefinite blockade demanding the withdrawal of armed members of the Parbatya Chattagram Jana Samhati Samiti from the Sajek area. Prior to this, recurring blockades had made the tourist hub in Baghaichhari upazila unstable regarding travel and security. Although the administration ordered tourists to evacuate for their safety, blockaders intercepted vehicles midway, leaving visitors stranded with communication hampered by network issues."
+      }
+    },
+    {
+      "story_id": "9eb2ee3e-aada-5cb6-9da5-bde89cfc7f99",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-05%2F6kmrpu16%2Fuimage-2.jpg?rect=0%2C62%2C860%2C452&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T06:09:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.224,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/fgmnk4zake",
+          "title": "ইরানের বাইরে কোথাও যাবে না সম্মৃদ্ধ ইউরেনিয়াম, নতুন মার্কিন হামলার আশঙ্কার মধ্যেও অনড় তেহরান",
+          "snippet": "ইরানের বাইরে কোথাও যাবে না সম্মৃদ্ধ ইউরেনিয়াম, নতুন মার্কিন হামলার আশঙ্কার মধ্যেও অনড় তেহরান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরান জানিয়েছে সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে নেওয়া হবে না",
+        "title_en": "Iran Declares Enriched Uranium Will Not Leave the Country",
+        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক হুমকির মুখেও ইরান তাদের সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে না সরানোর সিদ্ধান্তে অনড় রয়েছে।",
+        "summary_en": "Iran remains steadfast in its decision not to transfer enriched uranium abroad despite ongoing US and Israeli military threats.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T06:09:12+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক হুমকির মুখেও ইরান তাদের সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে না সরানোর সিদ্ধান্তে অনড় রয়েছে।",
+        "lead_en": "Iran remains steadfast in its decision not to transfer enriched uranium abroad despite ongoing US and Israeli military threats.",
+        "bullets_bn": [
+          "ইরান স্পষ্টভাবে জানিয়েছে দেশের বাইরে ইউরেনিয়াম সমৃদ্ধকরণ করা হবে না।",
+          "ইরানের ন্যাশনাল সিকিউরিটি কাউন্সিলের সেক্রেটারি মোহসেন রেজায়ি এই অবস্থান পুনর্ব্যক্ত করেছেন।",
+          "আন্তর্জাতিক পর্যবেক্ষকদের তত্ত্বাবধানে ইরানের ভেতরেই ইউরেনিয়াম প্রক্রিয়াজাতকরণের কাজ হতে পারে।"
+        ],
+        "bullets_en": [
+          "Iran has explicitly stated that enriched uranium will not be removed from the country.",
+          "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, reaffirmed this stance.",
+          "Uranium processing could take place within Iran under the supervision of international observers."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার কেন্দ্রে রয়েছে ইরানের পারমাণবিক কর্মসূচি। যুক্তরাষ্ট্র ও ইসরায়েলের তীব্র বিরোধিতার মুখেও তেহরান তাদের এই কর্মসূচিকে জাতীয় সার্বভৌমত্ব ও অধিকার হিসেবে রক্ষা করে চলেছে। মার্কিন প্রশাসনের যুদ্ধ শুরুর মূল উদ্দেশ্য ছিল ইরানের পারমাণবিক কর্মসূচি পুরোপুরি ধ্বংস করা। তবে আন্তর্জাতিক কূটনীতি ও বিভিন্ন দেশের মধ্যস্থতার মধ্যেও ইউরেনিয়াম স্থানান্তর নিয়ে ইরান ও ওয়াশিংটনের মধ্যকার মতপার্থক্য এখনো কাটেনি।",
+        "details_en": "Iran's nuclear program remains at the center of ongoing geopolitical tensions in the Middle East. Despite fierce opposition from the US and Israel, Tehran continues to defend its program as a matter of national sovereignty and rights. The US administration's primary objective in initiating military action was to completely dismantle Iran's nuclear program. However, despite international diplomacy and mediation efforts, differences between Iran and Washington over uranium transfer persist."
+      }
+    },
+    {
+      "story_id": "b38b9595-03f1-566e-9509-bec0a66365e3",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T06:46:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8403,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1170811",
+          "title": "এসএসসির টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর, ফল ১৫ নভেম্বরের মধ্যে",
+          "snippet": "এসএসসির টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর, ফল ১৫ নভেম্বরের মধ্যে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এসএসসি ও সমমান পরীক্ষার টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর",
+        "title_en": "SSC and Equivalent Test Exams to Begin on October 28",
+        "summary_bn": "আসন্ন এসএসসি ও সমমান পরীক্ষার নির্বাচনি বা টেস্ট পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু হয়ে ১৫ নভেম্বরের মধ্যে শেষ হবে।",
+        "summary_en": "The upcoming SSC and equivalent test examinations will begin on October 28 and conclude by November 15.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T06:46:21+00:00",
+        "lead_bn": "আসন্ন এসএসসি ও সমমান পরীক্ষার নির্বাচনি বা টেস্ট পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু হয়ে ১৫ নভেম্বরের মধ্যে শেষ হবে।",
+        "lead_en": "The upcoming SSC and equivalent test examinations will begin on October 28 and conclude by November 15.",
+        "bullets_bn": [
+          "নির্বাচনি পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু করতে হবে",
+          "পরীক্ষা শেষ করার জন্য ১০ নভেম্বর পর্যন্ত সময় নির্ধারণ করা হয়েছে",
+          "টেস্ট পরীক্ষার ফলাফল ১৫ নভেম্বরের মধ্যে প্রকাশ করতে হবে"
+        ],
+        "bullets_en": [
+          "The test examinations must commence starting from October 28",
+          "Institutions have been instructed to finish exams by November 10",
+          "Results of the test examinations must be published by November 15"
+        ],
+        "impact_bn": "এসএসসি পরীক্ষার্থীরা নির্দিষ্ট সময়ের মধ্যে তাদের প্রস্তুতি সম্পন্ন করার সুযোগ পাবে এবং নির্ধারিত সূচি অনুযায়ী মূল পরীক্ষার প্রস্তুতি নিতে পারবে।",
+        "impact_en": "SSC candidates will get the opportunity to complete their preparation within a stipulated timeframe and proceed according to schedule.",
+        "details_bn": "বাংলাদেশের শিক্ষা বোর্ডগুলোর নিয়মানুযায়ী এসএসসি ও সমমান পরীক্ষার আগে শিক্ষার্থীদের মূল্যায়ন ও মূল পরীক্ষার জন্য প্রস্তুত করতে নির্বাচনি বা টেস্ট পরীক্ষা অনুষ্ঠিত হয়। নির্দিষ্ট সময়ের মধ্যে পরীক্ষা সম্পন্ন এবং ফলাফল প্রকাশের মাধ্যমে শিক্ষার্থীদের চূড়ান্ত পরীক্ষার ফরম পূরণের প্রক্রিয়া সহজতর করা হয়।",
+        "details_en": "According to the regulations of education boards in Bangladesh, test examinations are held to evaluate and prepare students before the final SSC and equivalent exams. Completing the exams and publishing results within a specific timeframe facilitates the final exam registration process for students."
+      }
+    },
+    {
+      "story_id": "1b975aad-627a-594b-addc-1c667a18f365",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -174,158 +286,48 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Flhoqiwuh%2FWhatsApp-Image-2026-10-22-at-11.32.23.jpeg?rect=0%2C0%2C621%2C326&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fdshxavye%2FLead.png?rect=0%2C0%2C1870%2C982&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T05:39:04+00:00",
+      "published_at": "2026-10-22T06:39:40+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7834,
+      "rank_score": 0.789,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/wgmc1g09n8",
-          "title": "দুর্গম পাহাড়ে শিশুদের চিত্রাঙ্কন শেখাতে এসেছিলেন তরুণ, ফিরলেন লাশ হয়ে",
-          "snippet": "দুর্গম পাহাড়ে শিশুদের চিত্রাঙ্কন শেখাতে এসেছিলেন তরুণ, ফিরলেন লাশ হয়ে"
+          "url": "https://www.prothomalo.com/world/europe/v7cg7j13du",
+          "title": "গ্রিসে জীবনযাত্রা ও শিক্ষা–সংকট কতটা তীব্র, কেন হাজারো শিক্ষার্থী রাজপথে",
+          "snippet": "গ্রিসে জীবনযাত্রা ও শিক্ষা–সংকট কতটা তীব্র, কেন হাজারো শিক্ষার্থী রাজপথে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বান্দরবানের দুর্গম পাহাড়ে শিশুদের আঁকা শেখাতে গিয়ে তরুণের মৃত্যু",
-        "title_en": "Youth Dies in Bandarban Pond While Teaching Art to Children",
-        "summary_bn": "বান্দরবানের লামায় পুকুরে গোসল করতে নেমে মোহাম্মদ জিসাদ নামের ১৯ বছর বয়সী এক তরুণের মৃত্যু হয়েছে।",
-        "summary_en": "Nineteen-year-old youth Mohammad Jisad drowned while bathing in a pond in Lama upazila of Bandarban.",
+        "title_bn": "শিক্ষা খাতে বরাদ্দ বৃদ্ধির দাবিতে গ্রিসে হাজারো শিক্ষার্থীর রাজপথে বিক্ষোভ",
+        "title_en": "Thousands of Students Protest in Greece Demanding Increased Education Funding",
+        "summary_bn": "উন্নত সুযোগ-সুবিধা ও শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধির দাবিতে গ্রিসের বিভিন্ন শহরে হাজারো শিক্ষার্থী ও শিক্ষক বিক্ষোভ করেছেন।",
+        "summary_en": "Thousands of students and teachers protested across Greek cities demanding better facilities and increased state funding for education.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:39:04+00:00",
-        "lead_bn": "বান্দরবানের লামায় পুকুরে গোসল করতে নেমে মোহাম্মদ জিসাদ নামের ১৯ বছর বয়সী এক তরুণের মৃত্যু হয়েছে।",
-        "lead_en": "Nineteen-year-old youth Mohammad Jisad drowned while bathing in a pond in Lama upazila of Bandarban.",
+        "published_at": "2026-10-22T06:39:40+00:00",
+        "lead_bn": "উন্নত সুযোগ-সুবিধা ও শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধির দাবিতে গ্রিসের বিভিন্ন শহরে হাজারো শিক্ষার্থী ও শিক্ষক বিক্ষোভ করেছেন।",
+        "lead_en": "Thousands of students and teachers protested across Greek cities demanding better facilities and increased state funding for education.",
         "bullets_bn": [
-          "ঢাকা থেকে বান্দরবানের দুর্গম পাহাড়ে শিশুদের চিত্রাঙ্কন শেখাতে গিয়েছিলেন তরুণ মোহাম্মদ জিসাদ।",
-          "পুকুরে গোসল করতে নামার পর নিখোঁজ হন জিসাদ এবং পরে লামা উপজেলা স্বাস্থ্যকেন্দ্রে চিকিৎসকেরা তাঁকে মৃত ঘোষণা করেন।",
-          "পরিবারের সদস্যরা হাসপাতালে পৌঁছানোর পর আইনি প্রক্রিয়া সম্পন্ন করে মরদেহ হস্তান্তর করা হবে।"
+          "শিক্ষার্থীরা শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধি এবং সুপরিসর ক্লাসরুম ও উন্নত সুযোগ-সুবিধার দাবি জানিয়েছেন।",
+          "রাজধানী এথেন্সের সেন্ট্রাল এলাকায় প্রায় ১০ হাজার শিক্ষার্থী ও শিক্ষক শান্তিপূর্ণ বিক্ষোভ মিছিলে অংশ নেন।",
+          "আগামী বছরের মাঝামাঝি সময়ে নির্ধারিত নির্বাচনের আগে আন্দোলনকারীরা সরকারের ওপর চাপ সৃষ্টি করার চেষ্টা করছেন।"
         ],
         "bullets_en": [
-          "Youth Mohammad Jisad traveled from Dhaka to a remote hilly area in Bandarban to teach painting to children.",
-          "Jisad went missing while bathing in a pond and was later declared dead by doctors at the Lama Upazila Health Complex.",
-          "The body will be handed over to family members after completing necessary legal procedures upon their arrival."
+          "Students demanded increased state funding for education along with larger classrooms and better facilities.",
+          "Around 10,000 students and teachers participated in a peaceful protest march in central Athens.",
+          "Protesters are attempting to pressure the government ahead of the national elections scheduled for mid next year."
         ],
-        "impact_bn": "দুর্গম পাহাড়ি এলাকায় স্বেচ্ছাসেবা কার্যক্রমে অংশ নিতে যাওয়া তরুণদের নিরাপত্তা নিয়ে নতুন করে প্রশ্ন উঠেছে।",
-        "impact_en": "The tragic incident raises safety concerns for volunteers traveling to remote hilly areas for educational outreach.",
-        "details_bn": "রাজধানীর ভাষানটেকের বাসিন্দা ১৯ বছর বয়সী মোহাম্মদ জিসাদসহ ১২ জন তরুণ ঢাকা থেকে বান্দরবানের লামার গোজালিয়া ইউনিয়নের চিংককপাড়ায় শিশুদের চিত্রাঙ্কন শেখাতে গিয়েছিলেন। পাওমুম থারক্লা ছাত্রাবাস ও ছাত্রীনিবাসের দরিদ্র ম্রো শিশুদের জন্য আয়োজিত এক সপ্তাহের কর্মশালায় অংশ নিতে তাঁরা সেখানে পৌঁছান। স্থানীয় পাড়ার একটি পুকুরে গোসল করতে নেমে নিখোঁজ হওয়ার পর তাঁকে মৃত অবস্থায় উদ্ধার করা হয়।",
-        "details_en": "Nineteen-year-old Mohammad Jisad, a resident of Bhasantek in Dhaka, went to Chinkakpara in Lama upazila of Bandarban along with twelve other youths to teach painting to children. They arrived there to participate in a week-long workshop organized for underprivileged Mro children at the Paomum Tharkla hostel. Jisad went missing while bathing in a local pond and was subsequently recovered dead."
-      }
-    },
-    {
-      "story_id": "338cb100-8b6a-5463-afe5-31226b7995cc",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fw5cuwys9%2FDSC7113.JPG?rect=0%2C0%2C3867%2C2030&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T05:36:58+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7686,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/wj6nma02x6",
-          "title": "হৃদয় বললেন, ট্রফি জয়ের কথা শুধু মুখেই বলি, কাজে প্রতিফলন নেই",
-          "snippet": "হৃদয় বললেন, ট্রফি জয়ের কথা শুধু মুখেই বলি, কাজে প্রতিফলন নেই"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ট্রফি জয়ের কথা শুধু মুখেই বলি, কাজে প্রতিফলন নেই: তাওহিদ হৃদয়",
-        "title_en": "Trophy winning ambitions are only spoken, not reflected in actions: Towhid Hridoy",
-        "summary_bn": "আফগানিস্তানের কাছে হেরে ত্রিদেশীয় সিরিজ থেকে বিদায় নেওয়ার পর দলের পারফরম্যান্স নিয়ে আক্ষেপ প্রকাশ করেছেন ভারপ্রাপ্ত অধিনায়ক তাওহিদ হৃদয়।",
-        "summary_en": "Acting captain Towhid Hridoy expressed frustration over team performance after elimination from the tri-nation series following defeat against Afghanistan.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:36:58+00:00",
-        "lead_bn": "আফগানিস্তানের কাছে হেরে ত্রিদেশীয় সিরিজ থেকে বিদায় নেওয়ার পর দলের পারফরম্যান্স নিয়ে আক্ষেপ প্রকাশ করেছেন ভারপ্রাপ্ত অধিনায়ক তাওহিদ হৃদয়।",
-        "lead_en": "Acting captain Towhid Hridoy expressed frustration over team performance after elimination from the tri-nation series following defeat against Afghanistan.",
-        "bullets_bn": [
-          "আফগানিস্তানের বিপক্ষে ৭ উইকেটে হেরে ত্রিদেশীয় সিরিজ থেকে বিদায় নেয় বাংলাদেশ দল।",
-          "আমরা বড় কোনো টুর্নামেন্টে ট্রফি জিততে চাই বলে শুধু মুখেই বলি, কাজে এর প্রতিফলন থাকে না বলে স্বীকার করেন হৃদয়।",
-          "প্রাথমিক বিপর্যয় সামাল দিতে ব্যর্থ হওয়ায় পুরো ব্যাটিং ইউনিট ব্যর্থ হয়েছে বলে জানান অধিনায়ক।"
-        ],
-        "bullets_en": [
-          "Bangladesh was eliminated from the tri-nation series following a seven-wicket defeat against Afghanistan.",
-          "Captain Towhid Hridoy admitted that ambitions to win trophies remain only in words rather than actions.",
-          "The skipper stated that the entire batting unit failed to recover from early batting collapses."
-        ],
-        "impact_bn": "ক্রিকেট ভক্ত ও তরুণ প্রজন্মের মাঝে জাতীয় দলের এমন ধারাবাহিক ব্যর্থতা হতাশার সৃষ্টি করেছে।",
-        "impact_en": "Consistent failures by the national cricket team have caused disappointment among fans and the younger generation.",
-        "details_bn": "আফগানিস্তানের বিপক্ষে ত্রিদেশীয় সিরিজের ফাইনালে ওঠার লড়াইয়ে ১৬০ রানে অলআউট হয়ে ৭ উইকেটে হারে বাংলাদেশ। চোটের কারণে লিটন দাসের অনুপস্থিতিতে ভারপ্রাপ্ত অধিনায়কের দায়িত্ব পাওয়া তাওহিদ হৃদয় ম্যাচ শেষে সংবাদ সম্মেলনে ব্যাটিং ব্যর্থতার বিষয়টি স্বীকার করেন। তিনি জানান, দল বড় স্বপ্ন দেখলেও মাঠের পারফরম্যান্স ও পাইপলাইনের গভীরতা নিয়ে ঘাটতি রয়ে গেছে। সাম্প্রতিক সময়ে ঘরের বাইরে ও আন্তর্জাতিক টুর্নামেন্টে বাংলাদেশ দলের ব্যাটিং দুর্বলতা বারবার প্রকাশ পাচ্ছে।",
-        "details_en": "Bangladesh was bowled out for 160 and suffered a seven-wicket defeat against Afghanistan in the tri-nation series. Standing in as captain for injured Liton Das, Towhid Hridoy acknowledged the batting frailties in the post-match press conference. He noted that despite big ambitions, the team struggles with on-field execution and consistency. Batting vulnerabilities have repeatedly plagued the national side in recent international fixtures and away tours."
-      }
-    },
-    {
-      "story_id": "8e317fd3-dfb9-5510-a469-c7c7b855598f",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2F0gq7l0ag%2Fsceince-4.png?rect=0%2C0%2C2040%2C1071&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T05:35:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7565,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/examination/0azw6nvl7f",
-          "title": "প্রাথমিক বৃত্তি পরীক্ষা ২০২৬। বিজ্ঞান (অধ্যায় ৬): তাপ বিকিরণ পদ্ধতিতে সঞ্চালিত হয়",
-          "snippet": "প্রাথমিক বৃত্তি পরীক্ষা ২০২৬। বিজ্ঞান (অধ্যায় ৬): তাপ বিকিরণ পদ্ধতিতে সঞ্চালিত হয়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রাথমিক বৃত্তি পরীক্ষার বিজ্ঞান বিষয়ে তাপ সঞ্চালন ও শক্তির রূপান্তর পাঠ প্রকাশ",
-        "title_en": "Primary Scholarship Science Syllabus Explores Heat Transfer and Energy Conversion",
-        "summary_bn": "প্রাথমিক বৃত্তি পরীক্ষার বিজ্ঞান সিলেবাসে তাপ সঞ্চালন পদ্ধতি এবং শক্তির রূপান্তর সম্পর্কিত গুরুত্বপূর্ণ সংক্ষিপ্ত প্রশ্ন ও উত্তর প্রকাশ করা হয়েছে।",
-        "summary_en": "The primary scholarship science curriculum has released essential short questions and answers regarding heat transfer methods and energy conversion.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:35:12+00:00",
-        "lead_bn": "প্রাথমিক বৃত্তি পরীক্ষার বিজ্ঞান সিলেবাসে তাপ সঞ্চালন পদ্ধতি এবং শক্তির রূপান্তর সম্পর্কিত গুরুত্বপূর্ণ সংক্ষিপ্ত প্রশ্ন ও উত্তর প্রকাশ করা হয়েছে।",
-        "lead_en": "The primary scholarship science curriculum has released essential short questions and answers regarding heat transfer methods and energy conversion.",
-        "bullets_bn": [
-          "পরিবহন, পরিচলন ও বিকিরণ পদ্ধতির মাধ্যমে তাপ সঞ্চালনের প্রক্রিয়া ব্যাখ্যা করা হয়েছে।",
-          "বৈদ্যুতিক ইস্ত্রি, পাখা এবং বাতিতে বিদ্যুৎ শক্তির বিভিন্ন রূপান্তরের বিশদ বিবরণ দেওয়া হয়েছে।",
-          "ঘর্ষণ বল এবং হেলানো সমতলের মতো মৌলিক পদার্থবিজ্ঞান ধারণার ব্যবহারিক প্রয়োগ শেখানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Heat transfer processes are explained through conduction, convection, and radiation methods.",
-          "Detailed descriptions cover electrical energy conversion in irons, fans, and lamps.",
-          "Practical applications of fundamental physics concepts like friction and inclined planes are taught."
-        ],
-        "impact_bn": "শিক্ষার্থীরা দৈনন্দিন জীবনে বিজ্ঞান ও শক্তির রূপান্তরের বাস্তব প্রয়োগ সহজে বুঝতে সক্ষম হবে।",
-        "impact_en": "Students will easily understand the practical applications of science and energy conversion in daily life.",
-        "details_bn": "প্রাথমিক বৃত্তি পরীক্ষার প্রস্তুতিমূলক বিজ্ঞান পাঠ্যক্রমে শিক্ষার্থীদের বৈজ্ঞানিক ধারণা স্পষ্ট করার জন্য এই প্রশ্নগুলো যুক্ত করা হয়েছে। তাপ সঞ্চালন, ঘর্ষণ বল এবং শক্তির রূপান্তরের মতো মৌলিক বিষয়গুলো শিক্ষার্থীদের প্রাথমিক বিজ্ঞান শিক্ষা মজবুত করতে সাহায্য করে। এই নির্দেশিকাটি পরীক্ষার পাশাপাশি শিক্ষার্থীদের দৈনন্দিন জীবনের বৈজ্ঞানিক ব্যাখ্যা বুঝতে সহায়তা করে।",
-        "details_en": "These questions are included in the primary scholarship preparation science curriculum to clarify scientific concepts for students. Fundamental topics like heat transfer, friction force, and energy conversion help strengthen primary science education. This guide assists students in understanding both exam requirements and everyday scientific explanations."
+        "impact_bn": "শিক্ষার্থীদের এই আন্দোলন গ্রিসের সাধারণ মানুষের জীবনযাত্রার ব্যয় বৃদ্ধি এবং স্থবির মজুরির বিরুদ্ধে সরকারের ওপর রাজনৈতিক চাপ বাড়াচ্ছে।",
+        "impact_en": "The student movement increases political pressure on the government amid rising living costs and stagnant wages for ordinary citizens in Greece.",
+        "details_bn": "ফ্রান্স ও আলবেনিয়ার পর গ্রিসের শিক্ষাব্যবস্থায় সংকট ও বিক্ষোভের উত্তাপ ছড়িয়ে পড়েছে। এর আগে ফ্রান্স ও স্পেনের মতো ইউরোপীয় দেশগুলোতেও শিক্ষাব্যবস্থা সংস্কার ও জীবনযাত্রার ব্যয় বৃদ্ধির প্রতিবাদে বিক্ষোভ হয়েছিল। গ্রিসের মানুষ বর্তমানে স্থবির মজুরি, বাড়তি বাড়িভাড়া এবং জ্বালানি ব্যয়ের ঊর্ধ্বগতির মতো অর্থনৈতিক সমস্যার মুখোমুখি হচ্ছেন। আগামী বছরের মাঝামাঝি সময়ে দেশটিতে সাধারণ নির্বাচন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+        "details_en": "Following France and Albania, student protests over education crises have spread to Greece. Earlier, European countries like Spain, Portugal, and Italy witnessed protests over soaring living costs and fragile education systems. Greek citizens currently face stagnant wages, high rents, and surging energy costs. The country's next general election is scheduled for the middle of next year."
       }
     }
   ]
