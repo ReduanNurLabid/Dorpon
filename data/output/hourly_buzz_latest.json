@@ -1,63 +1,9 @@
 {
-  "updated_at": "2026-10-22T11:06:32.872987",
+  "updated_at": "2026-10-22T12:00:47.380329",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "f25c1a4d-bce7-5ca7-971d-ccb2b0a8c5d3",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/WhatsApp-Image-2026-10-22-at-2.55.41-PM.jpeg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-22T09:22:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 1.6182,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/individual-detained-in-rajshahi-over-lack-of-a-sniper-remark-concerning-the-prime-minister/",
-          "title": "প্রধানমন্ত্রীকে নিয়ে ‘স্নাইপারের অভাব’ মন্তব্য, রাজশাহী থেকে যুবক আটক",
-          "snippet": "প্রধানমন্ত্রীকে নিয়ে ‘স্নাইপারের অভাব’ মন্তব্য, রাজশাহী থেকে যুবক আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর নিরাপত্তা নিয়ে ফেসবুকে মন্তব্য করায় রাজশাহী থেকে যুবক আটক",
-        "title_en": "Youth Arrested in Rajshahi Over Social Media Comment on Prime Minister",
-        "summary_bn": "প্রধানমন্ত্রীর নিরাপত্তা নিয়ে ফেসবুকে আপত্তিকর মন্তব্য করায় আবু বক্কর সিদ্দিকী নামের এক যুবককে রাজশাহী থেকে আটক করেছে পুলিশ।",
-        "summary_en": "Police arrested a youth named Abu Bakkar Siddique from Rajshahi for making an offensive social media comment regarding the Prime Minister.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T09:22:07+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর নিরাপত্তা নিয়ে ফেসবুকে আপত্তিকর মন্তব্য করায় আবু বক্কর সিদ্দিকী নামের এক যুবককে রাজশাহী থেকে আটক করেছে পুলিশ।",
-        "lead_en": "Police arrested a youth named Abu Bakkar Siddique from Rajshahi for making an offensive social media comment regarding the Prime Minister.",
-        "bullets_bn": [
-          "ফেসবুকে প্রধানমন্ত্রীকে নিয়ে উসকানিমূলক মন্তব্য করায় আবু বক্কর সিদ্দিকীকে আটক করে পুলিশ।",
-          "ডিএমপির অতিরিক্ত পুলিশ কমিশনার মো. শফিকুল ইসলাম আটকের বিষয়টি নিশ্চিত করেছেন।",
-          "আটককৃত ব্যক্তিকে জিজ্ঞাসাবাদের জন্য ঢাকায় আনা হচ্ছে এবং তার বিরুদ্ধে আইনগত ব্যবস্থা প্রক্রিয়াধীন।"
-        ],
-        "bullets_en": [
-          "Police detained Abu Bakkar Siddique for posting a provocative comment about the Prime Minister on Facebook.",
-          "DMP Additional Police Commissioner Md. Shafiqul Islam confirmed the arrest to the media.",
-          "The detainee is being brought to Dhaka for interrogation and legal action will be taken."
-        ],
-        "impact_bn": "অনলাইন প্ল্যাটফর্মে প্ররোচনামূলক বা হুমকিস্বরূপ মন্তব্য করার ক্ষেত্রে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজরদারি ও কঠোর আইন প্রয়োগ বাড়ছে।",
-        "impact_en": "Law enforcement agencies are increasing surveillance and strict legal enforcement against provocative or threatening comments on online platforms.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরকালে একটি ফেসবুক পোস্টে এক ব্যক্তি কমেন্ট করেন যে সেখানে শুধু একটি স্নাইপারের অভাব ছিল। বিষয়টি আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজরে আসার পর তথ্যপ্রযুক্তির সহায়তায় রাজশাহী থেকে ওই যুবকের অবস্থান শনাক্ত করা হয় এবং তাকে আটক করা হয়। পুলিশ জানিয়েছে, সামাজিক যোগাযোগ মাধ্যমে এ ধরনের অপরাধমূলক ও উদ্বেগজনক মন্তব্যের বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়া হবে।",
-        "details_en": "During Prime Minister Tarique Rahman's visit to Rajshahi, an individual commented on a Facebook post stating there was a lack of a sniper. After the matter came to the attention of law enforcement, the youth's location was identified in Rajshahi using information technology and he was detained. Police stated that strict legal action will be taken against such criminal and alarming comments on social media."
-      }
-    },
-    {
-      "story_id": "c1e9bd8a-f4cb-5819-9427-5d228109f6ce",
+      "story_id": "f101ac27-efc7-5553-88b7-036fc71eb49d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -68,216 +14,220 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T11:05:16+00:00",
+      "published_at": "2026-10-22T11:42:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9597,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976065/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B2-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8",
-          "title": "মাদক সেবনের ভিডিও ভাইরাল, ছাত্রদল নেতা স্বাধীন বহিষ্কার",
-          "snippet": "মাদক সেবনের ভিডিও ভাইরাল, ছাত্রদল নেতা স্বাধীন বহিষ্কার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মাদক সেবনের ভিডিও ভাইরাল হওয়ায় ছাত্রদল নেতা স্বাধীন বহিষ্কার",
-        "title_en": "Chattadal Leader Shadhin Expelled Over Viral Drug Consumption Video",
-        "summary_bn": "মাদক সেবনের ভিডিও ছড়িয়ে পড়ার ঘটনায় নাটোরের বাগাতিপাড়া উপজেলা ছাত্রদলের সদস্যসচিব মো. শাহরিয়ার মাহমুদ স্বাধীনকে দল থেকে বহিষ্কার করা হয়েছে।",
-        "summary_en": "Bagatipara Upazila Chattadal Member Secretary Md Shahriyar Mahmud Shadhin was expelled following a viral video showing him consuming drugs.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T11:05:16+00:00",
-        "lead_bn": "মাদক সেবনের ভিডিও ছড়িয়ে পড়ার ঘটনায় নাটোরের বাগাতিপাড়া উপজেলা ছাত্রদলের সদস্যসচিব মো. শাহরিয়ার মাহমুদ স্বাধীনকে দল থেকে বহিষ্কার করা হয়েছে।",
-        "lead_en": "Bagatipara Upazila Chattadal Member Secretary Md Shahriyar Mahmud Shadhin was expelled following a viral video showing him consuming drugs.",
-        "bullets_bn": [
-          "শৃঙ্খলা পরিপন্থী কর্মকাণ্ডে জড়িত থাকার অভিযোগে নাটোরের বাগাতিপাড়া উপজেলা ছাত্রদলের সদস্যসচিব পদ থেকে মো. শাহরিয়ার মাহমুদ স্বাধীনকে অব্যাহতি দেওয়া হয়েছে।",
-          "জেলা ছাত্রদলের দফতর সম্পাদক আসিফ ইকবালের সই করা একটি সংবাদ বিজ্ঞপ্তিতে এই বহিষ্কারাদেশের বিষয়টি নিশ্চিত করা হয়।",
-          "সামাজিক যোগাযোগমাধ্যমে মাদক সেবনের একটি ভিডিও ছড়িয়ে পড়ার পর দলীয় শৃঙ্খলা ভঙ্গের দায়ে এই শাস্তিমূলক ব্যবস্থা নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Bagatipara Upazila Chattadal Member Secretary Md Shahriyar Mahmud Shadhin was relieved from his post for violating organizational discipline.",
-          "The expulsion order was officially confirmed through a press release signed by Natore District Chattadal Office Secretary Asif Iqbal.",
-          "The disciplinary action was taken after a video showing him consuming drugs went viral on social media platforms."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সম্প্রতি সামাজিক যোগাযোগমাধ্যমে নাটোরের বাগাতিপাড়া উপজেলা ছাত্রদলের সদস্যসচিব মো. শাহরিয়ার মাহমুদ স্বাধীনের মাদক সেবনের একটি ভিডিও ছড়িয়ে পড়ে। এই ভিডিওটি ভাইরাল হওয়ার পর রাজনৈতিক অঙ্গনে ব্যাপক সমালোচনা ও বিতর্কের সৃষ্টি হয়। এর পরিপ্রেক্ষিতে জেলা ছাত্রদল বিষয়টি গুরুত্বের সাথে বিবেচনা করে এবং দলীয় শৃঙ্খলা বজায় রাখতে তাৎক্ষণিকভাবে তাকে বহিষ্কারের সিদ্ধান্ত নেয়। ছাত্রসংগঠনগুলোর অভ্যন্তরীণ শৃঙ্খলা রক্ষা এবং নৈতিক অবক্ষয় রোধে এ ধরনের পদক্ষেপ নিয়মিত নেওয়া হয়ে থাকে।",
-        "details_en": "A video of Md Shahriyar Mahmud Shadhin, member secretary of Bagatipara Upazila Chattadal in Natore, consuming drugs recently surfaced on social media. The video triggered widespread criticism and debate across political circles. In response, the district unit of Chattadal treated the matter with strict priority and decided to expel him to uphold organizational discipline. Such measures are routinely enforced by student political bodies to curb moral degradation and maintain internal accountability."
-      }
-    },
-    {
-      "story_id": "c3217847-a398-59ef-9680-875b201bd845",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T11:03:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9382,
+      "importance_score": 6.6,
+      "rank_score": 2.2199,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170915",
-          "title": "এনসিপি নেতার ফেসবুক স্টোরিতে আগ্নেয়াস্ত্রের ভিডিও, পাবনায় তোলপাড়",
-          "snippet": "এনসিপি নেতার ফেসবুক স্টোরিতে আগ্নেয়াস্ত্রের ভিডিও, পাবনায় তোলপাড়"
+          "url": "https://www.jagonews24.com/country/news/1170939",
+          "title": "কারাবন্দি বিএনপি নেতার পরিবারের পাশে দাঁড়ানোর নির্দেশ প্রধানমন্ত্রীর",
+          "snippet": "কারাবন্দি বিএনপি নেতার পরিবারের পাশে দাঁড়ানোর নির্দেশ প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনায় এনসিপি নেতার আগ্নেয়াস্ত্র প্রদর্শনের ভিডিও সামাজিক যোগাযোগমাধ্যমে ভাইরাল",
-        "title_en": "NCP Leader Firearms Display Video Goes Viral on Social Media in Pabna",
-        "summary_bn": "পাবনার সাঁথিয়ায় এক রাজনৈতিক নেতার সামাজিক যোগাযোগমাধ্যমে অস্ত্র প্রদর্শনের ভিডিও ছড়িয়ে পড়ায় স্থানীয় সাধারণ মানুষের মাঝে তীব্র আতঙ্ক ও সমালোচনার সৃষ্টি হয়েছে।",
-        "summary_en": "A video showing a political leader displaying a firearm on social media in Pabna has sparked widespread panic and criticism among locals.",
+        "title_bn": "কারাবন্দি বিএনপি নেতার পরিবারের পাশে দাঁড়ানোর নির্দেশ প্রধানমন্ত্রীর",
+        "title_en": "Prime Minister Directs Support for Family of Imprisoned BNP Leader",
+        "summary_bn": "প্রধানমন্ত্রী রাজশাহীর জনসভায় কারাবন্দি বিএনপি নেতার দুই মেয়ের আকুতি শুনে তাদের পরিবারের পাশে দাঁড়ানোর নির্দেশ দিয়েছেন।",
+        "summary_en": "The Prime Minister directed support for the family of an imprisoned BNP leader after hearing his two daughters at a rally in Rajshahi.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T11:03:08+00:00",
-        "lead_bn": "পাবনার সাঁথিয়ায় এক রাজনৈতিক নেতার সামাজিক যোগাযোগমাধ্যমে অস্ত্র প্রদর্শনের ভিডিও ছড়িয়ে পড়ায় স্থানীয় সাধারণ মানুষের মাঝে তীব্র আতঙ্ক ও সমালোচনার সৃষ্টি হয়েছে।",
-        "lead_en": "A video showing a political leader displaying a firearm on social media in Pabna has sparked widespread panic and criticism among locals.",
+        "published_at": "2026-10-22T11:42:13+00:00",
+        "lead_bn": "প্রধানমন্ত্রী রাজশাহীর জনসভায় কারাবন্দি বিএনপি নেতার দুই মেয়ের আকুতি শুনে তাদের পরিবারের পাশে দাঁড়ানোর নির্দেশ দিয়েছেন।",
+        "lead_en": "The Prime Minister directed support for the family of an imprisoned BNP leader after hearing his two daughters at a rally in Rajshahi.",
         "bullets_bn": [
-          "সামাজিক যোগাযোগমাধ্যমে মুজাহিদ ফকির নামক এক নেতার অস্ত্র প্রদর্শনীর ভিডিও ছড়িয়ে পড়ে",
-          "ভিডিওতে একটি আগ্নেয়াস্ত্রের কার্যকারিতা প্রদর্শন করতে দেখা যায় সংশ্লিষ্ট ব্যক্তিকে",
-          "আইনশৃঙ্খলা বাহিনী বিষয়টি খতিয়ে দেখে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করেছে"
+          "প্রধানমন্ত্রী কারাবন্দি নেতার পরিবারের খোঁজখবর নিতে এবং তাদের সহায়তার নির্দেশ দেন",
+          "রাজশাহীর একটি জনসভায় দুই মেয়ে তাদের বাবার মুক্তির আবেদন সংবলিত পোস্টার প্রদর্শন করেন",
+          "সম্পর্কিত প্রশাসনের পক্ষ থেকে পরিবারটিকে দ্রুত প্রয়োজনীয় সহায়তা দেওয়ার প্রক্রিয়া শুরু হয়েছে"
         ],
         "bullets_en": [
-          "A video showing political leader Mujahid Fakir displaying a firearm spread across social media platforms",
-          "The individual in the footage was seen demonstrating the operation of a firearm",
-          "Law enforcement agencies have initiated steps to investigate the matter and take legal action"
+          "The Prime Minister instructed authorities to check on the imprisoned leader's family and provide assistance",
+          "Two daughters displayed a poster pleading for their father's release during a public rally in Rajshahi",
+          "Relevant administration has initiated the process to deliver necessary support to the family promptly"
         ],
-        "impact_bn": "প্রকাশ্যে রাজনৈতিক নেতার এমন অস্ত্র প্রদর্শনী স্থানীয় সাধারণ মানুষের নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।",
-        "impact_en": "Such public display of weapons by political figures raises serious concerns about local public safety.",
-        "details_bn": "পাবনার সাঁথিয়া উপজেলায় রাজনৈতিক অঙ্গনে প্রভাব বিস্তারকে কেন্দ্র করে নানা সময় নানা ধরনের বিশৃঙ্খলার ঘটনা ঘটে থাকে। সম্প্রতি বিভিন্ন নেতার অস্ত্রধারী ছবি বা ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার ঘটনা আইনশৃঙ্খলা পরিস্থিতির ওপর নেতিবাচক প্রভাব ফেলছে। স্থানীয় প্রশাসন এ ধরনের বেআইনি কর্মকাণ্ডের বিরুদ্ধে কঠোর পদক্ষেপ নেওয়ার কথা বারবার বললেও বাস্তবে এর পুনরাবৃত্তি জনমনে ক্ষোভের সৃষ্টি করছে।",
-        "details_en": "Incidents of political unrest and disputes over local dominance frequently occur in the upazila. The circulation of armed photos and videos of political figures on social media negatively impacts the local law and order situation. Although the local administration repeatedly warns against such illegal activities, their recurrence continues to fuel public resentment."
+        "impact_bn": "এই মানবিক পদক্ষেপে সাধারণ মানুষ ও রাজনৈতিক পরিবারের প্রতি শীর্ষ নেতৃত্বের সহানুভূতিশীল দৃষ্টিভঙ্গি প্রকাশ পায়।",
+        "impact_en": "This humanitarian gesture reflects the sympathetic approach of top leadership toward ordinary citizens and political families.",
+        "details_bn": "রাজশাহীর একটি জনসভায় কারাবন্দি বাবার মুক্তির আকুতি জানিয়ে দুই মেয়ে প্রধানমন্ত্রীর গাড়ির সামনে প্ল্যাকার্ড হাতে দাঁড়িয়েছিলেন। তাদের এই আবেদন তাৎক্ষণিকভাবে নজরে আসার পর প্রধানমন্ত্রী সংশ্লিষ্ট কর্তৃপক্ষকে পরিবারটির খোঁজখবর নিতে ও সহায়তা প্রদানে প্রয়োজনীয় পদক্ষেপ নেওয়ার নির্দেশ দেন। রাজনৈতিক প্রেক্ষাপটে এই ঘটনা জনমনে ব্যাপক আলোচনার সৃষ্টি করেছে।",
+        "details_en": "During a public rally in Rajshahi, two daughters stood before the Prime Minister's vehicle holding placards pleading for their jailed father's release. Once the appeal caught attention, the Prime Minister promptly directed relevant authorities to check on the family and provide necessary support. This incident has drawn widespread public discussion within the political context."
       }
     },
     {
-      "story_id": "85c01f9a-90bf-5b41-9b6b-9b2c1183be65",
+      "story_id": "e27dc2b0-74df-5c7a-aa02-8c42b0e6ca0c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T11:22:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3607,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976067/%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%BE-%E0%A7%A9-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95",
+          "title": "সাজেকে গোলাগুলির মধ্যে আটকে পড়া ৩ হাজার পর্যটক উদ্ধার",
+          "snippet": "সাজেকে গোলাগুলির মধ্যে আটকে পড়া ৩ হাজার পর্যটক উদ্ধার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাজেকের গঙ্গারাম বাজার এলাকায় গোলাগুলির মুখে আটকে পড়া ৩ হাজার পর্যটক উদ্ধার",
+        "title_en": "Three thousand stranded tourists rescued following armed clashes in Sajek",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষা বাহিনী রাঙামাটির সাজেকে সহিংসতার মধ্যে আটকে পড়া তিন হাজার পর্যটককে নিরাপদে উদ্ধার করেছে।",
+        "summary_en": "Law enforcement agencies successfully rescued three thousand tourists stranded amidst armed violence in Sajek.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T11:22:43+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষা বাহিনী রাঙামাটির সাজেকে সহিংসতার মধ্যে আটকে পড়া তিন হাজার পর্যটককে নিরাপদে উদ্ধার করেছে।",
+        "lead_en": "Law enforcement agencies successfully rescued three thousand tourists stranded amidst armed violence in Sajek.",
+        "bullets_bn": [
+          "ইউপিডিএফের সশস্ত্র সদস্যরা সড়ক অবরোধ করে পর্যটক ও নিরাপত্তা বাহিনীর ওপর গুলিবর্ষণ করে।",
+          "সহিংসতার সময় স্থানীয় জনগণকে মানবঢাল হিসেবে ব্যবহার করে সশস্ত্র সন্ত্রাসী গোষ্ঠী।",
+          "নিরাপত্তা বাহিনীর হস্তক্ষেপে পরিস্থিতি নিয়ন্ত্রণে আসে এবং পর্যটকদের নিরাপদে সরিয়ে নেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "Armed members of UPDF blocked roads and opened fire on tourists and security forces.",
+          "The armed insurgent group used local residents as human shields during the violence.",
+          "Security forces brought the situation under control and safely evacuated all stranded tourists."
+        ],
+        "impact_bn": "পর্যটন এলাকায় নিরাপত্তা ঝুঁকি তৈরি হওয়ায় সাধারণ ভ্রমণপিপাসুরা আতঙ্কিত হয়েছেন এবং স্থানীয় পর্যটন ব্যবসা সাময়িকভাবে ব্যাহত হয়েছে।",
+        "impact_en": "Emerging security risks in tourist zones have alarmed ordinary travelers and temporarily disrupted local tourism business.",
+        "details_bn": "রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক ইউনিয়ন একটি জনপ্রিয় পাহাড়ি পর্যটন কেন্দ্র। এর আগেও পাহাড়ি অঞ্চলের বিভিন্ন সন্ত্রাসী গোষ্ঠীর তৎপরতা ও সশস্ত্র সংঘাতে পর্যটক এবং স্থানীয় সাধারণ মানুষ নানা সময়ে ঝুঁকির মুখে পড়েছেন। সাম্প্রতিক সময়ে নিরাপত্তা নিশ্চিত করতে আইনশৃঙ্খলা বাহিনী পাহাড়ি এলাকায় টহল ও নজরদারি জোরদার করেছে।",
+        "details_en": "Sajek Union in Rangamati is a popular hill-track tourist destination. Previously, armed activities and conflicts involving regional groups in the hilly terrain have repeatedly endangered tourists and local residents. Recently, law enforcement agencies have intensified patrols and surveillance to ensure security in these remote areas."
+      }
+    },
+    {
+      "story_id": "8a04fe6f-09fb-577d-9161-df1fc423352f",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business"
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy"
       ],
       "tags": [
         "#Economy",
         "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-12%2F5c915e28-73f1-4786-9e98-1414c0947ba8%2F3a68dbb2-4f88-4007-bdbb-55075681aefb.jpg?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-06%2Fj94zytwb%2FAI.jpg?rect=0%2C14%2C1408%2C739&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T10:52:53+00:00",
+      "published_at": "2026-10-22T11:45:31+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8459,
+      "rank_score": 0.8329,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/chakri/employment/n9avjwbxjq",
-          "title": "পল্লী কর্ম-সহায়ক ফাউন্ডেশনে একাধিক পদে চাকরি, বেতন ২ লাখ ৩০ হাজার টাকা পর্যন্ত",
-          "snippet": "পল্লী কর্ম-সহায়ক ফাউন্ডেশনে একাধিক পদে চাকরি, বেতন ২ লাখ ৩০ হাজার টাকা পর্যন্ত"
+          "url": "https://www.prothomalo.com/chakri/chakri-news/920xvy9i0l",
+          "title": "ব্যাংক খাতে কৃত্রিম বুদ্ধিমত্তার প্রভাব, ৫ হাজার কর্মী ছাঁটাই করছে বার্কলেস",
+          "snippet": "ব্যাংক খাতে কৃত্রিম বুদ্ধিমত্তার প্রভাব, ৫ হাজার কর্মী ছাঁটাই করছে বার্কলেস"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পল্লী কর্ম-সহায়ক ফাউন্ডেশনে চার পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ",
-        "title_en": "PKSF Publishes Job Circular for Four Positions",
-        "summary_bn": "পল্লী কর্ম-সহায়ক ফাউন্ডেশন গ্রিন প্রকল্পের আওতায় চুক্তিভিত্তিক চারটি পদে জনবল নিয়োগের জন্য বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "The Palli Karma-Sahayak Foundation has issued a recruitment circular to hire personnel for four contractual positions under its Green project.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার ব্যবহারের কারণে ৫ হাজার কর্মী ছাঁটাই করছে বার্কলেস",
+        "title_en": "Barclays cuts 5,000 jobs to integrate artificial intelligence and reduce costs",
+        "summary_bn": "পরিচালন ব্যয় কমাতে এবং কৃত্রিম বুদ্ধিমত্তার ব্যবহার বাড়াতে চলতি বছর প্রায় ৫ হাজার কর্মী ছাঁটাইয়ের পরিকল্পনা করেছে বার্কলেস ব্যাংক।",
+        "summary_en": "British multinational bank Barclays plans to lay off about 5,000 employees this year to reduce operational costs and expand AI usage.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T10:52:53+00:00",
-        "lead_bn": "পল্লী কর্ম-সহায়ক ফাউন্ডেশন গ্রিন প্রকল্পের আওতায় চুক্তিভিত্তিক চারটি পদে জনবল নিয়োগের জন্য বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "The Palli Karma-Sahayak Foundation has issued a recruitment circular to hire personnel for four contractual positions under its Green project.",
+        "published_at": "2026-10-22T11:45:31+00:00",
+        "lead_bn": "পরিচালন ব্যয় কমাতে এবং কৃত্রিম বুদ্ধিমত্তার ব্যবহার বাড়াতে চলতি বছর প্রায় ৫ হাজার কর্মী ছাঁটাইয়ের পরিকল্পনা করেছে বার্কলেস ব্যাংক।",
+        "lead_en": "British multinational bank Barclays plans to lay off about 5,000 employees this year to reduce operational costs and expand AI usage.",
         "bullets_bn": [
-          "পল্লী কর্ম-সহায়ক ফাউন্ডেশনের গ্রিন প্রকল্পের আওতায় চারটি পদে চুক্তিভিত্তিক জনবল নিয়োগ দেওয়া হবে।",
-          "পদগুলোতে সর্বোচ্চ মাসিক বেতন নির্ধারণ করা হয়েছে দুই লাখ ৩০ হাজার টাকা।",
-          "আগ্রহী প্রার্থীরা আগামী সাত নভেম্বর পর্যন্ত অনলাইনে আবেদন করতে পারবেন।"
+          "পরিচালন ব্যয় কমানোর অংশ হিসেবে ব্রিটিশ বহুজাতিক ব্যাংক বার্কলেস ৫ শতাংশ কর্মী ছাঁটাইয়ের সিদ্ধান্ত নিয়েছে।",
+          "ছাঁটাই হওয়া কর্মীদের প্রায় ৬০ শতাংশই সহায়ক বিভাগ ও প্রযুক্তি খাতের সফটওয়্যার ডেভেলপারদের মধ্য থেকে আসবে।",
+          "চলতি বছরের শেষ নাগাদ এই কর্মী ছাঁটাইয়ের পুরো প্রক্রিয়াটি সম্পন্ন করার লক্ষ্য নির্ধারণ করেছে ব্যাংকটি।"
         ],
         "bullets_en": [
-          "Personnel will be recruited for four contractual positions under the Green project of the Palli Karma-Sahayak Foundation.",
-          "The maximum monthly salary for these positions has been set at 230,000 Baka.",
-          "Interested candidates can submit their applications online until November 7."
+          "British multinational bank Barclays decided to lay off five percent of its total workforce to reduce operational costs.",
+          "About sixty percent of the targeted layoffs will affect support departments and technology sector software developers.",
+          "The bank aims to complete the entire workforce reduction process by the end of the current year."
         ],
-        "impact_bn": "বেকার ও পেশাজীবীদের জন্য সরকারি প্রতিষ্ঠানে উচ্চ বেতনে কর্মসংস্থানের সুযোগ তৈরি হয়েছে।",
-        "impact_en": "Creates high-paying employment opportunities within a state-affiliated institution for qualified professionals and job seekers.",
-        "details_bn": "পল্লী কর্ম-সহায়ক ফাউন্ডেশন একটি সরকারি স্বায়ত্তশাসিত সংস্থা যা দেশের গ্রামীণ জনগোষ্ঠীর জীবনমান উন্নয়ন এবং কর্মসংস্থান সৃষ্টিতে কাজ করে থাকে। সংস্থাটি বিভিন্ন প্রকল্পের আওতায় প্রায়ই বিশেষজ্ঞ ও দক্ষ জনবল নিয়োগ দিয়ে থাকে। এর ধারাবাহিকতায় গ্রিন প্রকল্পের কার্যক্রম পরিচালনার জন্য ফুড সিস্টেম সেক্টর ম্যানেজার, কমিউনিকেশন অ্যান্ড নলেজ ম্যানেজমেন্ট স্পেশালিস্ট, অ্যাকাউন্টস অ্যাসিস্ট্যান্ট ম্যানেজার এবং এম অ্যান্ড ই ডাটা ম্যানেজমেন্ট অ্যাসিস্ট্যান্ট ম্যানেজার পদে দক্ষ প্রার্থীদের দরখাস্ত আহ্বান করা হয়েছে।",
-        "details_en": "The Palli Karma-Sahayak Foundation is a government autonomous organization dedicated to rural livelihood development and poverty alleviation in Bangladesh. It frequently recruits specialized professionals to implement various developmental projects. In line with this mandate, applications have been invited from qualified candidates for key roles including food system sector management, communications, and data management under its specialized Green initiative."
+        "impact_bn": "ব্যাংকিং ও প্রযুক্তি খাতে কৃত্রিম বুদ্ধিমত্তার ব্যবহার বৃদ্ধির ফলে পেশাজীবীদের মধ্যে চাকরির নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
+        "impact_en": "The growing adoption of artificial intelligence in banking and tech sectors raises job security concerns among professionals.",
+        "details_bn": "বিশ্বের বিভিন্ন আর্থিক প্রতিষ্ঠান পরিচালন ব্যয় কমাতে কৃত্রিম বুদ্ধিমত্তা ও স্বয়ংক্রিয় প্রযুক্তির ব্যবহার বাড়িয়ে চলেছে। সফটওয়্যার লেখা, পরীক্ষা ও তথ্য প্রক্রিয়াকরণের মতো কাজগুলো এআই দিয়ে করার সুযোগ তৈরি হওয়ায় সহায়ক বিভাগগুলোর কর্মীরা ছাঁটাইয়ের মুখে পড়ছেন। বার্কলেস ব্যাংক ইতিমধ্যে প্রক্রিয়াটির অংশ হিসেবে কিছু কর্মী ছাঁটাই করেছে এবং মুনাফা বৃদ্ধির কৌশলের অংশ হিসেবে প্রযুক্তিনির্ভর ব্যয় সংকোচনের এই ধারা অব্যাহত রেখেছে।",
+        "details_en": "Financial institutions globally are increasing the use of automation and artificial intelligence to cut operational expenses. As tasks like software writing, testing, and data processing are handled by AI, workers in support divisions face growing redundancy risks. Barclays has already laid off some staff as part of this broader tech-driven cost-reduction strategy aimed at improving long-term profitability."
       }
     },
     {
-      "story_id": "18629ecb-e6e0-5ca1-874c-8469d1b12ed7",
-      "primary_category": "world_diplomacy",
+      "story_id": "c5630421-1626-53bc-b4fb-aa77ac9b2db2",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law",
-        "climate_environment"
+        "economy_business",
+        "society_education"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fp38jkxnb%2Ffrance2.png?rect=0%2C0%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-3-2.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T10:49:39+00:00",
+      "published_at": "2026-10-22T11:43:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.82,
+      "rank_score": 0.8152,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/opinion/column/v13jlqk02q",
-          "title": "প্যারিসের দুই প্রজন্মের সংঘাত কবে থামবে",
-          "snippet": "প্যারিসের দুই প্রজন্মের সংঘাত কবে থামবে"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/thank-you-home-minister/",
+          "title": "থ্যাংক ইউ হোম মিনিস্টার",
+          "snippet": "থ্যাংক ইউ হোম মিনিস্টার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফ্রান্সে শিক্ষার্থীদের অসন্তোষ ও জলবায়ু সংকটে রাজপথে তীব্র বিক্ষোভ",
-        "title_en": "French Students Protest Over Climate Crisis and Education Discontent",
-        "summary_bn": "ভবিষ্যতের অনিশ্চয়তা ও শিক্ষাপ্রতিষ্ঠানের বেহাল দশার প্রতিবাদে ফ্রান্সজুড়ে রাস্তায় নেমেছে শিক্ষার্থীরা।",
-        "summary_en": "Students across France have taken to the streets to protest educational decay and climate uncertainty.",
+        "title_bn": "দুর্গাপূজার নিরাপত্তা ও সরকারি ছুটির পরিসর বৃদ্ধি করেছে সরকার",
+        "title_en": "Government Increases Durga Puja Security and Public Holiday Duration",
+        "summary_bn": "সরকার দুর্গাপূজার সরকারি ছুটি তিন দিনে উন্নীত করে এবং দেশজুড়ে সুদৃঢ় নিরাপত্তা ব্যবস্থা নিশ্চিত করে উৎসবের পরিধি বাড়িয়েছে।",
+        "summary_en": "The government expanded the festival scope by extending Durga Puja public holidays to three days and ensuring robust security nationwide.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law",
-          "climate_environment"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T10:49:39+00:00",
-        "lead_bn": "ভবিষ্যতের অনিশ্চয়তা ও শিক্ষাপ্রতিষ্ঠানের বেহাল দশার প্রতিবাদে ফ্রান্সজুড়ে রাস্তায় নেমেছে শিক্ষার্থীরা।",
-        "lead_en": "Students across France have taken to the streets to protest educational decay and climate uncertainty.",
+        "published_at": "2026-10-22T11:43:16+00:00",
+        "lead_bn": "সরকার দুর্গাপূজার সরকারি ছুটি তিন দিনে উন্নীত করে এবং দেশজুড়ে সুদৃঢ় নিরাপত্তা ব্যবস্থা নিশ্চিত করে উৎসবের পরিধি বাড়িয়েছে।",
+        "lead_en": "The government expanded the festival scope by extending Durga Puja public holidays to three days and ensuring robust security nationwide.",
         "bullets_bn": [
-          "ফ্রান্সের মাধ্যমিক বিদ্যালয়গুলোতে কৃচ্ছ্রসাধন নীতি ও আর্থিক চাপের কারণে তরুণদের মধ্যে তীব্র অসন্তোষ তৈরি হয়েছে।",
-          "তাপমাত্রা রেকর্ড ভাঙা উষ্ণ গ্রীষ্ম এবং শিক্ষাব্যবস্থার বেহাল দশা নিয়ে ক্ষুব্ধ তরুণেরা আন্দোলন চালিয়ে যাচ্ছেন।",
-          "আসন্ন প্রেসিডেন্ট নির্বাচনকে সামনে রেখে এই আন্দোলন মধ্যপন্থী রাজনীতির ভিত্তিকে দুর্বল করে দিচ্ছে।"
+          "দেশজুড়ে ৩৩ হাজার ৮৫১টি পূজামণ্ডপে নিশ্ছিদ্র নিরাপত্তা পরিকল্পনা ও প্রযুক্তিনির্ভর নজরদারি নিশ্চিত করা হয়েছে।",
+          "সরকারের পক্ষ থেকে দুর্গাপূজা উদযাপনে পাঁচ কোটি টাকা আর্থিক অনুদান প্রদান করা হয়েছে।",
+          "সাপ্তাহিক ছুটি মিলিয়ে সনাতন ধর্মাবলম্বীরা টানা পাঁচ দিনের অবকাশ ভোগ করার সুযোগ পেয়েছেন।"
         ],
         "bullets_en": [
-          "Severe discontent has emerged among French youth due to austerity measures and financial pressure in schools.",
-          "Frustrated students are protesting record-breaking hot summers and deteriorating educational conditions.",
-          "This ongoing unrest threatens to destabilize centrist politics ahead of the upcoming presidential election."
+          "Robust security planning and tech-based surveillance were implemented across 33,851 puja mandaps nationwide.",
+          "The government provided a financial allocation of five crore taka to support Durga Puja celebrations.",
+          "Citizens enjoyed a consecutive five-day break including weekend holidays for the festival."
         ],
-        "impact_bn": "রাজপথে সহিংসতার ঘটনায় সাধারণ নাগরিক ও পথচারীদের দৈনন্দিন চলাফেরা বিঘ্নিত হচ্ছে।",
-        "impact_en": "Street protests and clashes disrupt daily commuting and normal life for ordinary citizens.",
-        "details_bn": "ফ্রান্সে তরুণ প্রজন্মের ভবিষ্যৎ নিয়ে হতাশা এবং আর্থিক চাপের কারণে মাধ্যমিক বিদ্যালয়গুলো থেকে আন্দোলন শুরু হয়। জলবায়ু পরিবর্তনের নেতিবাচক প্রভাব এবং বয়স্ক নীতিনির্ধারকদের নিষ্ক্রিয়তার বিরুদ্ধে ক্ষুব্ধ শিক্ষার্থীরা রাজপথে নেমেছেন। ২০২৩ সালের পেনশন সংস্কার নিয়ে ব্যাপক বিক্ষোভের পর এবার তরুণদের এই আন্দোলন ফরাসি রাজনীতিতে নতুন অস্থিরতা তৈরি করেছে। ২০২৭ সালের নির্বাচন সামনে রেখে এই বিক্ষোভ উগ্রপন্থীদের শক্তি বাড়াতে পারে বলে আশঙ্কা করা হচ্ছে।",
-        "details_en": "Youth disillusionment and financial pressures in secondary schools triggered widespread protests across France. Angered students took to the streets to protest climate change inaction and deteriorating educational standards by policymakers. Following the 2025 pension reform protests, this youth-led unrest creates new political instability, potentially boosting extremist factions ahead of the 2027 presidential election."
+        "impact_bn": "বর্ধিত ছুটি ও নিরাপত্তা ব্যবস্থার কারণে সাধারণ মানুষ ও সনাতন ধর্মাবলম্বীরা শান্তিপূর্ণ পরিবেশে উৎসব উদযাপন করতে পেরেছেন।",
+        "impact_en": "Extended holidays and security arrangements enabled citizens and the Hindu community to celebrate the festival in a peaceful environment.",
+        "details_bn": "বাংলাদেশের সাম্প্রদায়িক সম্প্রীতির ইতিহাসে ২০২১ সালের দুর্গাপূজা একটি গভীর ক্ষত সৃষ্টি করেছিল। কুমিল্লার একটি পূজামণ্ডপকে কেন্দ্র করে সৃষ্ট উত্তেজনা দ্রুত দেশের বিভিন্ন স্থানে ছড়িয়ে পড়েছিল এবং মন্দির ও বাসাবাড়িতে হামলা হয়েছিল। হিউম্যান রাইটস ওয়াচের প্রতিবেদন অনুযায়ী ওই সময় ৭১টি মামলা ও ৪৫০ জনকে গ্রেপ্তার করা হয়েছিল। বর্তমান প্রশাসন সেই অতীত অভিজ্ঞতা থেকে শিক্ষা নিয়ে এবার কঠোর প্রশাসনিক সমন্বয়, প্রযুক্তিনির্ভর নজরদারি এবং পর্যাপ্ত সরকারি অনুদানের মাধ্যমে উৎসবের নিরাপত্তা জোরদার করেছে।",
+        "details_en": "The Durga Puja celebrations in 2021 left a deep scar on Bangladesh's communal harmony history due to widespread violence stemming from an incident in Cumilla. Human Rights Watch reported 71 cases and 450 arrests following attacks on temples and homes. Learning from this past volatility, the current administration reinforced festival security through strict administrative coordination, technology-driven surveillance, and increased government financial support."
       }
     },
     {
-      "story_id": "82cd8593-753d-52e0-91e1-8dd5a7c4d235",
+      "story_id": "e81782f2-80c2-5b8a-89c1-220af9f7e482",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -289,23 +239,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T10:47:32+00:00",
+      "published_at": "2026-10-22T11:42:27+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8038,
+      "rank_score": 0.809,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/976063/%E0%A6%8F%E0%A6%B8%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%85%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A7%AB",
-          "title": "এসএসসিতে অকৃতকার্য শিক্ষার্থীদের বিশেষ পরীক্ষাসহ ৫ দাবি",
-          "snippet": "এসএসসিতে অকৃতকার্য শিক্ষার্থীদের বিশেষ পরীক্ষাসহ ৫ দাবি"
+          "url": "https://www.banglatribune.com/country/rangpur/976077/%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%9C-%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A7%AA%E0%A7%A6-%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%80-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+          "title": "রংপুর মেডিক্যাল কলেজ হাসপাতালে আগুন, ৪০ রোগী আহত",
+          "snippet": "রংপুর মেডিক্যাল কলেজ হাসপাতালে আগুন, ৪০ রোগী আহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এসএসসিতে অকৃতকার্য শিক্ষার্থীদের বিশেষ পরীক্ষাসহ পাঁচ দফা দাবি",
-        "title_en": "Failed SSC Students Demand Special Exams and Five Point Reforms",
-        "summary_bn": "এসএসসি পরীক্ষায় অকৃতকার্য শিক্ষার্থীরা একাদশ শ্রেণিতে ভর্তির সুযোগ ও বিশেষ সাপ্লিমেন্টারি পরীক্ষাসহ পাঁচ দফা দাবি জানিয়েছে।",
-        "summary_en": "Students who failed the SSC exams demanded five reforms, including admission to higher secondary classes and special supplementary tests.",
+        "title_bn": "রংপুর মেডিক্যাল কলেজ হাসপাতালে আগুন, হুড়োহুড়িতে আহত ৪০",
+        "title_en": "Fire Breaks Out at Rangpur Medical College Hospital, Forty Injured",
+        "summary_bn": "রংপুর মেডিক্যাল কলেজ হাসপাতালে শর্টসার্কিট থেকে আগুন লাগলে তাড়াহুড়ো করে নামতে গিয়ে অন্তত ৪০ জন রোগী ও স্বজন আহত হন।",
+        "summary_en": "A short-circuit fire at Rangpur Medical College Hospital caused panic and left at least forty patients and relatives injured during evacuation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -313,23 +263,80 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T10:47:32+00:00",
-        "lead_bn": "এসএসসি পরীক্ষায় অকৃতকার্য শিক্ষার্থীরা একাদশ শ্রেণিতে ভর্তির সুযোগ ও বিশেষ সাপ্লিমেন্টারি পরীক্ষাসহ পাঁচ দফা দাবি জানিয়েছে।",
-        "lead_en": "Students who failed the SSC exams demanded five reforms, including admission to higher secondary classes and special supplementary tests.",
+        "published_at": "2026-10-22T11:42:27+00:00",
+        "lead_bn": "রংপুর মেডিক্যাল কলেজ হাসপাতালে শর্টসার্কিট থেকে আগুন লাগলে তাড়াহুড়ো করে নামতে গিয়ে অন্তত ৪০ জন রোগী ও স্বজন আহত হন।",
+        "lead_en": "A short-circuit fire at Rangpur Medical College Hospital caused panic and left at least forty patients and relatives injured during evacuation.",
         "bullets_bn": [
-          "এসএসসি পরীক্ষায় অকৃতকার্য শিক্ষার্থীদের একাদশ শ্রেণিতে ভর্তির সুযোগ দেওয়ার দাবি জানানো হয়েছে।",
-          "চলতি বছরেই বিশেষ সাপ্লিমেন্টারি পরীক্ষা আয়োজনের সুনির্দিষ্ট দাবি তুলেছেন আন্দোলনরত শিক্ষার্থীরা।",
-          "দাবি আদায় না হলে আগামীতে আরও কঠোর কর্মসূচি ঘোষণা করা হবে বলে হুশিয়ারি দেওয়া হয়।"
+          "হাসপাতালের নিচতলায় বিদ্যুতের কন্ট্রোল রুমের প্রশাসনিক শাখা সংলগ্ন সুইচ বোর্ডে শর্টসার্কিট থেকে আগুনের সূত্রপাত ঘটে।",
+          "অগ্নিকাণ্ডের ঘটনায় হুড়োহুড়ি করে নিচে নামতে গিয়ে অন্তত ৪০ জন রোগী ও তাদের স্বজন আহত হয়েছেন।",
+          "ফায়ার সার্ভিসের কর্মীরা দ্রুত ঘটনাস্থলে পৌঁছে আগুন নিয়ন্ত্রণে আনলেও দীর্ঘ ছয় ঘণ্টা বিদ্যুৎহীন ছিল হাসপাতালটি।"
         ],
         "bullets_en": [
-          "Failed SSC examinees demanded the opportunity to enroll in higher secondary classes.",
-          "Students specifically called for organizing a special supplementary examination within the current year.",
-          "The platform warned of stricter agitations if authorities fail to address their demands."
+          "The fire originated from an electrical short-circuit at the switchboard near the administrative wing of the ground floor control room.",
+          "At least forty patients and their attendants sustained injuries while rushing down in panic during the incident.",
+          "Fire service personnel brought the blaze under control quickly, though the hospital suffered a six-hour power outage."
         ],
-        "impact_bn": "এই দাবি বাস্তবায়িত হলে হাজার হাজার অকৃতকার্য শিক্ষার্থী শিক্ষাজীবন হারানোর শঙ্কা থেকে রক্ষা পাবে।",
-        "impact_en": "Implementation of these demands would save thousands of failed students from losing an academic year.",
-        "details_bn": "মাধ্যমিক স্কুল সার্টিফিকেট পরীক্ষায় প্রতিটি বিষয়ে শতভাগ পাসের হার নিশ্চিত করা এবং অকৃতকার্য শিক্ষার্থীদের খাতা পুনঃমূল্যায়নসহ বিভিন্ন দাবিতে শিক্ষার্থীরা দীর্ঘদিন ধরে আন্দোলন চালিয়ে আসছে। পরীক্ষার ফলাফলে অসন্তোষ প্রকাশ করে বিভিন্ন শিক্ষাপ্রতিষ্ঠানের শিক্ষার্থীরা ইতিপূর্বে রাজধানীসহ দেশের বিভিন্ন স্থানে মানববন্ধন ও বিক্ষোভ প্রদর্শন করেছে। কর্তৃপক্ষ শিক্ষার্থীদের দাবিগুলো নিয়ে পর্যালোচনার আশ্বাস দিলেও চূড়ান্ত কোনো সমাধান এখনো আসেনি।",
-        "details_en": "Students have been protesting over grading discrepancies and exam outcomes demanding policy reviews and reassessment opportunities. Frustrated by mass failures in public examinations, student groups have staged demonstrations across the capital calling for alternative pathways to continue their education without facing a mandatory one-year delay."
+        "impact_bn": "হাসপাতালে আগুনের ঘটনায় চিকিৎসা নিতে আসা সাধারণ রোগী ও তাদের স্বজনদের মধ্যে আতঙ্ক ও চরম দুর্ভোগ সৃষ্টি হয়েছে।",
+        "impact_en": "The hospital fire caused severe distress and panic among patients seeking urgent medical care and their visiting families.",
+        "details_bn": "রংপুর মেডিক্যাল কলেজ হাসপাতালে ঘটে যাওয়া এই অগ্নিকাণ্ডের ঘটনায় স্বাস্থ্যসেবা কেন্দ্রগুলোর বৈদ্যুতিক নিরাপত্তা ও রক্ষণাবেক্ষণ নিয়ে নতুন করে প্রশ্ন উঠেছে। ঘনবসতিপূর্ণ ও গুরুত্বপূর্ণ এই সরকারি হাসপাতালে এ ধরনের দুর্ঘটনা রোগীদের জীবনকে চরম ঝুঁকির মুখে ফেলে দেয়, যা নিয়মিত পরিদর্শন ও আধুনিক ফায়ার সেফটি ব্যবস্থার প্রয়োজনীয়তা স্পষ্ট করে।",
+        "details_en": "This fire incident at Rangpur Medical College Hospital raises serious concerns regarding the electrical safety and maintenance standards of public healthcare facilities. Such accidents in vital government hospitals put vulnerable patients at grave risk, highlighting the urgent need for regular safety audits and robust fire prevention protocols."
+      }
+    },
+    {
+      "story_id": "c3528ef1-17b4-5f0b-a3f7-c75d6faa9dc2",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#SohrawardyHospital",
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/09/01/uaa7kjnv2eyeiykguaygg9u9esitf8hyqystno7j.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-22T11:41:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8048,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/man-beaten-death-over-child-abduction-suspicion-shaheed-suhrawardy-medical-college-hospital-4304966",
+          "title": "Man beaten to death over child abduction suspicion at Shaheed Suhrawardy Medical College Hospital",
+          "snippet": "Man beaten to death over child abduction suspicion at Shaheed Suhrawardy Medical College Hospital"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শহীদ সোহরাওয়ার্দী হাসপাতালে শিশু চোর সন্দেহে পিটিয়ে হত্যা",
+        "title_en": "Man Beaten to Death Over Child Abduction Suspicion at Hospital",
+        "summary_bn": "শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ হাসপাতালে শিশু চোর সন্দেহে মো. আলম শেখ নামের এক ব্যক্তিকে পিটিয়ে হত্যা করা হয়েছে।",
+        "summary_en": "A man was beaten to death at Shaheed Suhrawardy Medical College Hospital after being suspected of child abduction.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T11:41:54+00:00",
+        "lead_bn": "শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ হাসপাতালে শিশু চোর সন্দেহে মো. আলম শেখ নামের এক ব্যক্তিকে পিটিয়ে হত্যা করা হয়েছে।",
+        "lead_en": "A man was beaten to death at Shaheed Suhrawardy Medical College Hospital after being suspected of child abduction.",
+        "bullets_bn": [
+          "শিশু ওয়ার্ডের সামনে ঘোরার সময় আলম শেখকে সন্দেহ করে রোগীর স্বজনেরা মারধর করেন।",
+          "শের-ই-বাংলা নগর থানার পরিদর্শক জানান যে এ ঘটনায় ইতিমধ্যে একজনকে গ্রেপ্তার করা হয়েছে।",
+          "পুলিশ মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য মর্গে পাঠিয়েছে এবং আইনি প্রক্রিয়া চলছে।"
+        ],
+        "bullets_en": [
+          "Relatives of patients beat Md Alam Sheikh after suspecting him while he wandered near the paediatric ward.",
+          "Police confirmed that one suspect has been arrested in connection with the fatal beating.",
+          "Law enforcement recovered the body for an autopsy while completing legal formalities for the family."
+        ],
+        "impact_bn": "জনগণের মধ্যে আইন নিজের হাতে তুলে নেওয়ার প্রবণতা এবং বিচারহীনতার সংস্কৃতির ভয়াবহ ঝুঁকি তুলে ধরে এই ঘটনা।",
+        "impact_en": "This incident highlights the severe risks of mob violence and the dangerous trend of taking the law into citizens' hands.",
+        "details_bn": "ঢাকা শহরের শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ হাসপাতালে শিশু চুরির গুজবের জেরে সাম্প্রতিক সময়ে গণপিটুনির ঘটনা বেড়েছে। চিকিৎসা নিতে আসা রোগীদের স্বজনেরা অপরিচিত ব্যক্তিদের দেখলে প্রায়ই সন্দেহবশত আইন নিজের হাতে তুলে নিচ্ছেন। আইনশৃঙ্খলা রক্ষাকারী বাহিনী এ ধরনের অপরাধ রোধে কড়া সতর্কতা জারি করলেও সচেতনতার অভাবে এ ধরনের মর্মান্তিক মৃত্যুর ঘটনা ঠেকানো যাচ্ছে না।",
+        "details_en": "Mob violence and vigilante attacks stemming from unverified rumors of child abduction have raised serious security concerns across hospitals in Dhaka. Despite warnings from law enforcement agencies against taking the law into one's own hands, public panic and a lack of immediate institutional verification often lead to tragic fatalities during such confrontations."
       }
     }
   ]
