@@ -1,13 +1,68 @@
 {
-  "updated_at": "2026-10-22T22:00:50.496202",
+  "updated_at": "2026-10-22T23:00:52.567318",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a5ea2d5a-fd9d-5e18-9acc-2982a1001898",
+      "story_id": "de883ee6-845a-5c37-9299-45d7ba29f28a",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T20:25:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 0.9103,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976160/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AE",
+          "title": "প্রধানমন্ত্রীর সঙ্গে হাত মিলিয়ে উচ্ছ্বসিত বাদাম বিক্রেতা রাজু",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে হাত মিলিয়ে উচ্ছ্বসিত বাদাম বিক্রেতা রাজু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রধানমন্ত্রীর সঙ্গে সাক্ষাৎ ও হাত মিলিয়ে উচ্ছ্বসিত খুলনার বাদাম বিক্রেতা",
+        "title_en": "Khulna Peanut Seller Overjoyed After Meeting and Shaking Hands With Prime Minister",
+        "summary_bn": "খুলনার দাকোপে প্রধানমন্ত্রীর সাথে হাত মেলানোর মুহূর্ত ভিডিও করে সামাজিক যোগাযোগমাধ্যমে প্রকাশ করেছেন এক বাদাম বিক্রেতা।",
+        "summary_en": "A peanut seller in Khulna expressed excitement after capturing and sharing his moment of shaking hands with the prime minister.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T20:25:40+00:00",
+        "lead_bn": "খুলনার দাকোপে প্রধানমন্ত্রীর সাথে হাত মেলানোর মুহূর্ত ভিডিও করে সামাজিক যোগাযোগমাধ্যমে প্রকাশ করেছেন এক বাদাম বিক্রেতা।",
+        "lead_en": "A peanut seller in Khulna expressed excitement after capturing and sharing his moment of shaking hands with the prime minister.",
+        "bullets_bn": [
+          "দাকোপের নলিয়ান মাধ্যমিক বিদ্যালয় মাঠ এলাকায় বাদাম বিক্রেতা রাজু গাজী প্রধানমন্ত্রীর সাথে হাত মেলান",
+          "রাজু গাজী তার মোবাইল ফোনে এই মুহূর্তটি ধারণ করে নিজের ফেসবুক রিলসে প্রকাশ করেন",
+          "ভিডিওটি প্রকাশের পর মুহূর্তেই তা সামাজিক যোগাযোগমাধ্যমে ব্যাপকভাবে ছড়িয়ে পড়ে"
+        ],
+        "bullets_en": [
+          "Peanut seller Raju Gazi shook hands with the prime minister near the Nalian Secondary School ground in Dakop",
+          "Raju Gazi recorded the encounter on his mobile phone and uploaded it as a Facebook reel",
+          "The video quickly went viral across various social media platforms after being published"
+        ],
+        "impact_bn": "সাধারণ শ্রমজীবী মানুষের সাথে শীর্ষ নেতৃত্বের এমন সাধারণ মুহূর্ত নাগরিকদের মাঝে ইতিবাচক উদ্দীপনা তৈরি করে।",
+        "impact_en": "Such approachable moments between top leadership and ordinary working people create a positive buzz among citizens.",
+        "details_bn": "খুলনার দাকোপ উপজেলার নলিয়ান এলাকায় সাধারণ মানুষের সাথে শুভেচ্ছা বিনিময়ের সময় এই ঘটনা ঘটে। প্রধানমন্ত্রী দাকোপের নলিয়ান মাধ্যমিক বিদ্যালয় মাঠ থেকে কোস্টগার্ডের পন্টুনে যাওয়ার পথে এই বাদাম বিক্রেতার মুখোমুখি হন। রাজু গাজী তাৎক্ষণিকভাবে নিজের মোবাইল ফোনে এই বিশেষ মুহূর্তটি ধারণ করেন এবং পরে তা ফেসবুকে রিলস আকারে প্রকাশ করলে ইন্টারনেটে দ্রুত ছড়িয়ে পড়ে।",
+        "details_en": "The incident occurred during public interactions in the Nalian area of Dakop upazila in Khulna. The prime minister encountered the peanut seller while heading toward the Coast Guard pontoon from the Nalian Secondary School ground. Raju Gazi instantly captured the special moment on his mobile phone and later uploaded it as a reel on Facebook, which quickly spread across the internet."
+      }
+    },
+    {
+      "story_id": "b9573564-5997-5c14-a2dd-3386917494ec",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "world_diplomacy"
+        "governance_law",
+        "tech_innovation"
       ],
       "tags": [
         "#Economy",
@@ -15,51 +70,52 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T21:01:05+00:00",
+      "published_at": "2026-10-22T22:36:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.5833,
+      "importance_score": 2.4,
+      "rank_score": 0.7646,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976163/%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%93-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF",
-          "title": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ",
-          "snippet": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ"
+          "url": "https://www.banglatribune.com/country/rajshahi/976165/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%AD%E0%A6%A8%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0",
+          "title": "অ্যাপে বিনিয়োগের প্রলোভনে টাকা হাতিয়ে নেওয়ার অভিযোগ, গ্রেফতার ৩",
+          "snippet": "অ্যাপে বিনিয়োগের প্রলোভনে টাকা হাতিয়ে নেওয়ার অভিযোগ, গ্রেফতার ৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ",
-        "title_en": "PM Directs Authorities to Boost Mongla Port Capacity and Expedite Cargo Handling",
-        "summary_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন কার্যক্রম দ্রুত বাস্তবায়নের জন্য সংশ্লিষ্ট কর্মকর্তাদের কড়া নির্দেশ দিয়েছেন।",
-        "summary_en": "The Prime Minister has instructed relevant officials to boost Mongla port capacity and accelerate modernization for smoother international trade.",
+        "title_bn": "বগুড়ায় ডিজিটাল অ্যাপের মাধ্যমে প্রতারণার অভিযোগে গ্রেফতার তিন",
+        "title_en": "Three Arrested in Bogura for Digital App Fraud",
+        "summary_bn": "গোয়েন্দা পুলিশ ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে বগুড়া থেকে তিনজনকে গ্রেফতার করেছে।",
+        "summary_en": "Detective police arrested three individuals in Bogura for embezzling funds through digital wallet app fraud.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "world_diplomacy"
+          "governance_law",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T21:01:05+00:00",
-        "lead_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন কার্যক্রম দ্রুত বাস্তবায়নের জন্য সংশ্লিষ্ট কর্মকর্তাদের কড়া নির্দেশ দিয়েছেন।",
-        "lead_en": "The Prime Minister has instructed relevant officials to boost Mongla port capacity and accelerate modernization for smoother international trade.",
+        "published_at": "2026-10-22T22:36:25+00:00",
+        "lead_bn": "গোয়েন্দা পুলিশ ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে বগুড়া থেকে তিনজনকে গ্রেফতার করেছে।",
+        "lead_en": "Detective police arrested three individuals in Bogura for embezzling funds through digital wallet app fraud.",
         "bullets_bn": [
-          "মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাস নিশ্চিত করার তাগিদ দিয়েছেন প্রধানমন্ত্রী।",
-          "খুলনার দাকোপে অবস্থিত বানৌজা মোংলা নৌঘাঁটি, বন্দর এলাকা এবং প্রস্তাবিত অর্থনৈতিক অঞ্চল সরেজমিন পরিদর্শন করেন তিনি।",
-          "বন্দরটির কার্যকারিতা বাড়াতে আধুনিকায়ন কার্যক্রম ত্বরান্বিত করার সুনির্দিষ্ট পরিকল্পনা বাস্তবায়নের কাজ শুরু হবে।"
+          "ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অবৈধ ই-ট্রানজেকশনের মাধ্যমে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে গোয়েন্দা পুলিশ।",
+          "অভিযান চালিয়ে পুলিশ আসামিদের কাছ থেকে অপরাধে ব্যবহৃত চারটি মোবাইল ফোন এবং পাঁচটি সিম কার্ড জব্দ করে।",
+          "গ্রেফতারকৃত ব্যক্তিদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে এবং চক্রের বাকি সদস্যদের ধরতে তদন্ত চলছে।"
         ],
         "bullets_en": [
-          "The Prime Minister directed authorities to enhance international trade capacity and ensure swift cargo handling at Mongla port.",
-          "During the visit, the premier inspected BNS Mongla naval base, the port area, and the proposed economic zone in Dakop, Khulna.",
-          "Modernization activities will be accelerated to significantly improve the operational efficiency of the strategic port."
+          "Detective police arrested three individuals on charges of embezzling funds through illegal e-transactions using digital wallet apps.",
+          "Police seized four mobile phones and five SIM cards used in the crimes during the raid.",
+          "Legal procedures have begun against the arrested individuals and investigations are underway to catch remaining members."
         ],
-        "impact_bn": "মোংলা বন্দরের কার্যক্ষমতা বৃদ্ধি পেলে দক্ষিণাঞ্চলের ব্যবসায়ীদের আমদানি-রপ্তানি ব্যয় কমবে এবং স্থানীয় পর্যায়ে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
-        "impact_en": "Increased efficiency at Mongla port will reduce import-export costs for regional businesses and create new local employment opportunities.",
-        "details_bn": "মোংলা বন্দর দেশের দ্বিতীয় বৃহত্তম সমুদ্রবন্দর হিসেবে দীর্ঘদিন ধরে আন্তর্জাতিক বাণিজ্যে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। দক্ষিণ অঞ্চলের অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত করতে এই বন্দরের আধুনিকায়ন ও সক্ষমতা বৃদ্ধি সরকারের দীর্ঘমেয়াদী অগ্রাধিকারের অংশ। এর আগে বিভিন্ন সময়ে বন্দরের অবকাঠামোগত উন্নয়ন এবং যোগাযোগ ব্যবস্থার উন্নতির জন্য একাধিক প্রকল্প হাতে নেওয়া হলেও তার পূর্ণ বাস্তবায়নে নতুন করে এই নির্দেশনা দেওয়া হয়েছে।",
-        "details_en": "Mongla port has long served as the countrys second-largest maritime gateway, playing a vital role in international trade. Modernizing and expanding the capacity of the port remains a strategic priority to drive economic growth in the southern region. While various infrastructure projects have been undertaken over the years, the new directives aim to fast-track full operational efficiency."
+        "impact_bn": "অনলাইন লেনদেনের ক্ষেত্রে সাধারণ মানুষকে আরও সতর্কতা অবলম্বন করতে হবে যাতে এ ধরনের প্রতারক চক্রের শিকার না হওয়া যায়।",
+        "impact_en": "Ordinary citizens must exercise greater caution during online transactions to avoid falling victim to such fraudulent rings.",
+        "details_bn": "বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপের মাধ্যমে প্রতারণার অভিযোগে গোয়েন্দা পুলিশ তিনজনকে গ্রেফতার করেছে। সম্প্রতি ডিজিটাল মাধ্যমে আর্থিক লেনদেন বৃদ্ধি পাওয়ার সাথে সাথে সাইবার অপরাধ এবং ভুয়া অ্যাপের মাধ্যমে অর্থ হাতিয়ে নেওয়ার প্রবণতাও বাড়ছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী এ ধরনের অপরাধ দমনে নজরদারি জোরদার করেছে।",
+        "details_en": "Detective police arrested three individuals in Bogura over allegations of fraud through digital wallet apps. With the recent increase in digital financial transactions, cybercrimes and scams involving fake apps have also risen. Law enforcement agencies have intensified monitoring to curb such crimes."
       }
     },
     {
-      "story_id": "9e108845-2ec1-5980-950d-a13f7a698ac1",
+      "story_id": "c8587793-0b7c-5bc5-93c8-90ca9724f1d4",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -69,267 +125,211 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fwghfjk48%2Fclose-up-luxury-retro-radio-buttons-with-open-book.jpg?rect=0%2C906%2C6393%2C3356&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T21:56:42+00:00",
+      "published_at": "2026-10-22T22:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9312,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976164/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার",
-          "snippet": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভারে মাদ্রাসার প্রধান শিক্ষকের বিরুদ্ধে ছাত্রীকে ধর্ষণের অভিযোগ, স্ত্রী গ্রেফতার",
-        "title_en": "Madrasa Teacher Accused of Raping Student in Savar, Wife Arrested",
-        "summary_bn": "ঢাকার সাভারে ১৩ বছর বয়সী এক মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেফতার হয়েছেন।",
-        "summary_en": "The wife of a madrasa headmaster was arrested in Savar over the alleged rape of a 13-year-old student.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T21:56:42+00:00",
-        "lead_bn": "ঢাকার সাভারে ১৩ বছর বয়সী এক মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেফতার হয়েছেন।",
-        "lead_en": "The wife of a madrasa headmaster was arrested in Savar over the alleged rape of a 13-year-old student.",
-        "bullets_bn": [
-          "প্রধান শিক্ষক মাওলানা মো. আব্দুল বারীর বিরুদ্ধে ১৩ বছর বয়সী এক ছাত্রীকে ধর্ষণের অভিযোগ উঠেছে।",
-          "ধর্ষণে সহযোগিতা ও হুমকি দেওয়ার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
-          "মামলা দায়েরের পর থেকে অভিযুক্ত প্রধান শিক্ষক পলাতক রয়েছেন এবং তাকে গ্রেফতারে অভিযান চলছে।"
-        ],
-        "bullets_en": [
-          "The 13-year-old female student was allegedly raped by madrasa owner and headmaster Mawlana Md Abdul Bari.",
-          "Police arrested the headmaster's wife for allegedly assisting in the crime and threatening the victim.",
-          "The accused headmaster has been absconding since the filing of the case and law enforcement is searching for him."
-        ],
-        "impact_bn": "educational institutions-এ শিশু সুরক্ষা ও নিরাপত্তা নিশ্চিত করার দাবি জোরালো হচ্ছে।",
-        "impact_en": "This incident heightens urgent concerns regarding the safety and security of children within educational institutions.",
-        "details_bn": "সাভার উপজেলার বিরুলিয়া ইউনিয়নের তোহফাতুল জান্না মহিলা মাদ্রাসায় এই ধর্ষণের ঘটনা ঘটে। ঘটনার পর ভুক্তভোগীর পরিবার মামলা দায়ের করলে পুলিশ আসামিকে ধরতে অভিযান শুরু করে। প্রধান শিক্ষক পলাতক থাকলেও তার স্ত্রীকে সহযোগিতার অভিযোগে গ্রেফতার করা হয়েছে।",
-        "details_en": "The incident occurred at the Tohaful Jannat Mohila Madrasa in Birulia union of Savar upazila. Following the filing of a case by the victim's family, police initiated a manhunt while arresting the headmaster's wife for her complicity."
-      }
-    },
-    {
-      "story_id": "f7e5fe05-1a11-5a93-96ab-3f2109341581",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T19:43:22+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.722,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/probash/news/1171044",
-          "title": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব",
-          "snippet": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের বর্ণিল শারদীয় দুর্গোৎসব উদ্‌যাপন",
-        "title_en": "Expatriate Bengalis Celebrate Durga Puja with Enthusiasm in Düsseldorf",
-        "summary_bn": "জার্মানির ডুসেলডর্ফ শহরে ঢাকের বাদ্য ও প্রথাগত আয়োজনের মধ্য দিয়ে শারদীয় দুর্গোৎসব উদ্‌যাপন করেছেন প্রবাসী বাঙালিরা।",
-        "summary_en": "Expatriate Bengalis celebrated the Sharadiya Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T19:43:22+00:00",
-        "lead_bn": "জার্মানির ডুসেলডর্ফ শহরে ঢাকের বাদ্য ও প্রথাগত আয়োজনের মধ্য দিয়ে শারদীয় দুর্গোৎসব উদ্‌যাপন করেছেন প্রবাসী বাঙালিরা।",
-        "lead_en": "Expatriate Bengalis celebrated the Sharadiya Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
-        "bullets_bn": [
-          "জার্মানির ডুসেলডর্ফ শহরে প্রবাসী বাংলাদেশিরা আনন্দঘন পরিবেশে শারদীয় দুর্গোৎসবের আয়োজন করেন।",
-          "থেকে ২১ অক্টোবর পর্যন্ত চলা পাঁচ দিনব্যাপী এই উৎসবে প্রায় এক হাজার প্রবাসী বাঙালি অংশ নেন।",
-          "বিদেশ বিভুঁইয়ে বাঙালি সংস্কৃতির আবহ টিকিয়ে রাখতে প্রতিবছর এই পূজার আয়োজন অব্যাহত রাখা হবে।"
-        ],
-        "bullets_en": [
-          "Expatriate Bangladeshis organized the Sharadiya Durga Puja in a festive environment in Düsseldorf, Germany.",
-          "Nearly one thousand expatriate Bengalis participated in the five-day festival held from October 17 to 21.",
-          "Organizers plan to continue holding the puja annually to preserve Bengali cultural heritage abroad."
-        ],
-        "impact_bn": "বিদেশে বসবাসরত নতুন প্রজন্মের তরুণদের মাঝে বাঙালি সংস্কৃতি ও ঐতিহ্য ছড়িয়ে দিতে এই উৎসব গুরুত্বপূর্ণ ভূমিকা রাখছে।",
-        "impact_en": "The festival plays a vital role in passing down Bengali culture and traditions to the new generation living abroad.",
-        "details_bn": "বাংলাদেশ থেকে হাজার হাজার মাইল দূরে বসবাস করলেও দেশের কৃষ্টি ও সংস্কৃতি লালন করতে ভুলেন না প্রবাসী বাঙালিরা। জার্মানির ডুসেলডর্ফ শহরে প্রতিবছরই নানা আয়োজনের মধ্য দিয়ে বাঙালিরা তাদের প্রধান ধর্মীয় ও সামাজিক উৎসবগুলো উদ্‌যাপন করে থাকেন। এই ধারাবাহিকতায় আয়োজিত শারদীয় দুর্গোৎসব প্রবাসীদের মিলনমেলায় পরিণত হয় এবং দেশের আবহ স্মরণ করিয়ে দেয়।",
-        "details_en": "Living thousands of miles away from Bangladesh, expatriate Bengalis continually strive to nurture their heritage. Bengalis in Düsseldorf, Germany, regularly celebrate major religious and social festivals with various events. This year's Durga Puja transformed into a vibrant gathering of expatriates, recreating the festive atmosphere of home."
-      }
-    },
-    {
-      "story_id": "79345c68-6852-5eb4-9ded-cccb61b2f080",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T21:23:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6825,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976161/%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87-%E2%80%98%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF",
-          "title": "মসজিদে ‘রাজনৈতিক আলোচনা’ নিয়ে আপত্তি, বিএনপি-জামায়াতের হাতাহাতি",
-          "snippet": "মসজিদে ‘রাজনৈতিক আলোচনা’ নিয়ে আপত্তি, বিএনপি-জামায়াতের হাতাহাতি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুষ্টিয়ায় মসজিদভিত্তিক রাজনৈতিক আলোচনা নিয়ে বিএনপি ও জামায়াতের হাতাহাতি",
-        "title_en": "BNP and Jamaat Clash Over Political Discussions Inside Kushtia Mosque",
-        "summary_bn": "কুষ্টিয়ার মিরপুরে মসজিদে রাজনৈতিক আলোচনা কেন্দ্র করে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে হাতাহাতির ঘটনায় চারজন আহত হয়েছেন।",
-        "summary_en": "Four people were injured in a physical altercation between BNP and Jamaat activists over political discussions inside a mosque in Kushtia.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T21:23:09+00:00",
-        "lead_bn": "কুষ্টিয়ার মিরপুরে মসজিদে রাজনৈতিক আলোচনা কেন্দ্র করে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে হাতাহাতির ঘটনায় চারজন আহত হয়েছেন।",
-        "lead_en": "Four people were injured in a physical altercation between BNP and Jamaat activists over political discussions inside a mosque in Kushtia.",
-        "bullets_bn": [
-          "মসজিদে নামাজের পর রাজনৈতিক আলোচনা নিয়ে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে বাকবিতণ্ডা থেকে সংঘর্ষ বাধে।",
-          "সংঘর্ষে কুর্শা ইউনিয়ন জামায়াতের আমির জয়নাল আবেদীন ও ইউনিয়ন যুবদলের যুগ্ম আহ্বায়ক স্বপন শেখসহ চারজন আহত হন।",
-          "স্থানীয় প্রশাসনের হস্তক্ষেপে পরিস্থিতি নিয়ন্ত্রণে আসে এবং এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "A verbal altercation erupted into a clash between BNP and Jamaat activists over political discussions following prayers inside a local mosque.",
-          "Four individuals including Kursha union Jamaat amir Zainal Abedin and union Jubo Dal joint convener Swapan Sheikh were injured in the scuffle.",
-          "The situation was brought under control following local intervention, and additional police forces were deployed in the area to maintain order."
-        ],
-        "impact_bn": "মসজিদের মতো পবিত্র স্থানে রাজনৈতিক বিরোধের জেরে সৃষ্ট সংঘাত সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
-        "impact_en": "Such conflicts stemming from political rivalries in religious spaces raise safety and community harmony concerns among ordinary residents.",
-        "details_bn": "কুষ্টিয়ার মিরপুর উপজেলার কুর্শা ইউনিয়নের তারা চাঁদ মন্ডল সরকারি প্রাথমিক বিদ্যালয়সংলগ্ন মসজিদে আসরের নামাজের পর এই ঘটনা ঘটে। দীর্ঘদিন ধরে স্থানীয় রাজনৈতিক দলগুলোর মধ্যে আধিপত্য বিস্তারকে কেন্দ্র করে উত্তেজনা বিরাজ করছিল। ঘটনার পর এলাকায় থমথমে অবস্থা বিরাজ করায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী টহল জোরদার করেছে।",
-        "details_en": "The incident occurred after Asr prayers at a mosque adjacent to Tara Chand Mondal Government Primary School in Kursha union of Mirpur upazila, Kushtia. Local political tensions had been simmering for a long time regarding dominance in the area. Law enforcement agencies stepped up patrols following the incident as a tense atmosphere prevailed."
-      }
-    },
-    {
-      "story_id": "b9a88c52-5223-54be-a994-bb8ea8327339",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-01%2Fc7711f5e-ed1d-48b4-abbf-9f1147de8885%2FDead_Body_2.png?rect=0%2C126%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T19:13:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.6267,
+      "rank_score": 0.7226,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/fb3fg47636",
-          "title": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
-          "snippet": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক"
+          "url": "https://www.prothomalo.com/religion/islam/xian98la32",
+          "title": "ইবাদত কবুলের ৪ শর্ত",
+          "snippet": "ইবাদত কবুলের ৪ শর্ত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর নাখালপাড়ায় গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
-        "title_en": "Police Recover Body of Housewife in Nakhalpara, Husband Detained",
-        "summary_bn": "পুলিশ রাজধানীর পূর্ব নাখালপাড়া থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে এবং তাঁর স্বামীকে আটক করে।",
-        "summary_en": "Police recovered the body of a housewife named Rozina Khatun from East Nakhalpara in the capital and detained her husband.",
+        "title_bn": "ইবাদত কবুলের জন্য ইসলামে যে চারটি প্রধান শর্ত উল্লেখ করা হয়েছে",
+        "title_en": "Four Key Conditions Outlined in Islam for Acceptance of Worship",
+        "summary_bn": "ইসলামে যেকোনো নেক আমল বা ইবাদত আল্লাহর দরবারে কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা আবশ্যক।",
+        "summary_en": "Fulfilling four fundamental conditions is essential for any act of worship to be accepted by Allah.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T19:13:44+00:00",
-        "lead_bn": "পুলিশ রাজধানীর পূর্ব নাখালপাড়া থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে এবং তাঁর স্বামীকে আটক করে।",
-        "lead_en": "Police recovered the body of a housewife named Rozina Khatun from East Nakhalpara in the capital and detained her husband.",
+        "published_at": "2026-10-22T22:30:00+00:00",
+        "lead_bn": "ইসলামে যেকোনো নেক আমল বা ইবাদত আল্লাহর দরবারে কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা আবশ্যক।",
+        "lead_en": "Fulfilling four fundamental conditions is essential for any act of worship to be accepted by Allah.",
         "bullets_bn": [
-          "পুলিশ জাতীয় জরুরি সেবা নম্বর থেকে কল পেয়ে পূর্ব নাখালপাড়ার একটি বাসা থেকে মরদেহ উদ্ধার করে।",
-          "নিহত নারীর গলায় ফাঁস লাগানোর দাগ রয়েছে এবং মরদেহ ময়নাতদন্তের জন্য শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ মর্গে পাঠানো হয়েছে।",
-          "পুলিশ ঘটনার সাথে জড়িত সন্দেহে নিহতের স্বামী আরিফ হাসানকে আটক করে থানায় নিয়ে জিজ্ঞাসাবাদ শুরু করেছে।"
+          "নেক আমল আল্লাহর দরবারে গ্রহণযোগ্য হওয়ার জন্য ইমান, সুন্নাহর অনুসরণ এবং হালাল উপার্জন নিশ্চিত করা আবশ্যক।",
+          "বিশুদ্ধ ইমান ও শিরক থেকে মুক্ত থাকা জান্নাত লাভের প্রধান শর্ত হিসেবে পবিত্র কুরআনে উল্লেখ করা হয়েছে।",
+          "ধর্মের নামে নতুন কোনো প্রথা বা পদ্ধতি উদ্ভাবন করলে তা আল্লাহর কাছে প্রত্যাখ্যাত বলে গণ্য হয়।"
         ],
         "bullets_en": [
-          "Police recovered the body from an East Nakhalpara residence after receiving a call through the national emergency service number.",
-          "The deceased woman bore strangulation marks on her neck, and the body was sent to Shaheed Suhrawardy Medical College morgue for autopsy.",
-          "Police detained the victim husband, Arif Hasan, on suspicion and brought him to the police station for interrogation."
+          "Ensuring faith, following the Sunnah, and lawful earnings are essential for good deeds to be accepted.",
+          "Pure faith and freedom from polytheism are highlighted in the Quran as the primary conditions for entering paradise.",
+          "Any newly invented practice or method in the name of religion is considered rejected by Allah."
         ],
-        "impact_bn": "পারিবারিক সহিংসতা ও অপরাধ রোধে দ্রুত আইনগত পদক্ষেপ এবং তদন্তের মাধ্যমে প্রকৃত সত্য উদ্ঘাটনের দাবি জোরালো হয়েছে।",
-        "impact_en": "Public calls for swift legal action against domestic violence and thorough investigations to uncover the truth have intensified.",
-        "details_bn": "রাজধানীর তেজগাঁও শিল্পাঞ্চল থানার পূর্ব নাখালপাড়ার একটি বাসা থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে পুলিশ। জাতীয় জরুরি সেবা নম্বর ৯৯৯-এ সংবাদ পেয়ে পুলিশ ঘটনাস্থলে পৌঁছে সুরতহাল প্রতিবেদন তৈরি করে। নিহতের গলায় ফাঁসের চিহ্ন থাকায় পুলিশ এটিকে সন্দেহজনক মৃত্যু হিসেবে দেখছে। ময়নাতদন্তের প্রতিবেদন পেলে মৃত্যুর আসল কারণ নিশ্চিত হওয়া যাবে। পুলিশ এ ঘটনায় স্বামী আরিফ হাসানকে আটক করেছে যার কথাবার্তা অসংলগ্ন ছিল বলে জানিয়েছে কর্তৃপক্ষ।",
-        "details_en": "Police recovered the body of a housewife named Rozina Khatun from a residence in East Nakhalpara under Tejgaon Industrial Area police station. Acting on a tip-off through the 999 emergency hotline, police reached the scene and prepared an inquest report. Authorities are treating the incident as a suspicious death due to strangulation marks on the victim neck. The exact cause of death will be confirmed following the autopsy report. Police detained the victim husband, Arif Hasan, whose statements were reported as incoherent."
+        "impact_bn": "হালাল উপার্জন ও সঠিক পদ্ধতিতে ইবাদত পালনের মাধ্যমে সাধারণ মানুষের ধর্মীয় জীবনে শৃঙ্খলা ও নৈতিকতা বৃদ্ধি পায়।",
+        "impact_en": "Practicing lawful earnings and proper worship brings discipline and morality to the religious lives of ordinary people.",
+        "details_bn": "ইসলাম ধর্মে মানবজীবনের প্রতিটি নেক আমল আল্লাহর সন্তুষ্টির ওপর নির্ভরশীল। নামাজ, রোজা, দান কিংবা মানুষের উপকারের মতো সৎকর্মগুলো তখনই সফল হয়, যখন তা সঠিক নিয়মে ও নির্ধারিত শর্ত মেনে সম্পন্ন করা হয়। এর মধ্যে বিশুদ্ধ ইমান, রাসুলের সুন্নাহ অনুযায়ী আমল করা এবং হালাল উপার্জনের ওপর বিশেষ গুরুত্ব দেওয়া হয়েছে।",
+        "details_en": "In Islam, every good deed depends on seeking Allah's pleasure. Acts of worship such as prayers, fasting, charity, and helping others are only successful when performed according to prescribed conditions. Special emphasis is placed on pure faith, adhering to the Sunnah of the Prophet, and maintaining lawful sources of income."
       }
     },
     {
-      "story_id": "6c7ea826-4541-54f4-b12b-4534a5ef767e",
+      "story_id": "50572eb0-34be-5d25-97f5-0327c3ac9e3a",
       "primary_category": "tech_innovation",
       "interest_categories": [
         "tech_innovation"
       ],
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#OpenAI",
+        "#TechFunding"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fvfgwtzfg%2FUntitled-1.jpg?rect=0%2C40%2C1516%2C796&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
       "image_caption": null,
-      "published_at": "2026-10-22T20:30:22+00:00",
+      "published_at": "2026-10-22T22:08:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.4691,
+      "importance_score": 1.7,
+      "rank_score": 0.4302,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/78x7fs1j2s",
-          "title": "ইন্টারনেট স্বাধীনতায় বাংলাদেশের উন্নতি, গণমাধ্যম নিয়ে উদ্বেগ",
-          "snippet": "ইন্টারনেট স্বাধীনতায় বাংলাদেশের উন্নতি, গণমাধ্যম নিয়ে উদ্বেগ"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "snippet": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইন্টারনেট স্বাধীনতায় বিশ্বে টানা দ্বিতীয় বছর বাংলাদেশের উল্লেখযোগ্য উন্নতি",
-        "title_en": "Bangladesh Shows Continuous Improvement in Global Internet Freedom Index",
-        "summary_bn": "ফ্রিডম হাউসের সর্বশেষ প্রতিবেদন অনুযায়ী ইন্টারনেটে নাগরিক স্বাধীনতার ক্ষেত্রে টানা দ্বিতীয় বছরের মতো বিশ্বে সর্বোচ্চ উন্নতি করেছে বাংলাদেশ।",
-        "summary_en": "Bangladesh has achieved the world highest improvement in internet civic freedom for the second consecutive year according to Freedom House.",
+        "title_bn": "আইপিওর আগে ত্রিশ বিলিয়ন ডলার তহবিল সংগ্রহের কাজ করছে ওপেনএআই",
+        "title_en": "OpenAI Works on New 30 Billion Dollar Raise Ahead of IPO",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান ওপেনএআই আইপিওতে যাওয়ার পরিবর্তে এক দশমিক পঁচিশ ট্রিলিয়ন ডলার মূল্যায়নে নতুন তহবিল সংগ্রহ করছে।",
+        "summary_en": "Artificial intelligence lab OpenAI is securing a mega private funding round at a high valuation ahead of its planned IPO.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T20:30:22+00:00",
-        "lead_bn": "ফ্রিডম হাউসের সর্বশেষ প্রতিবেদন অনুযায়ী ইন্টারনেটে নাগরিক স্বাধীনতার ক্ষেত্রে টানা দ্বিতীয় বছরের মতো বিশ্বে সর্বোচ্চ উন্নতি করেছে বাংলাদেশ।",
-        "lead_en": "Bangladesh has achieved the world highest improvement in internet civic freedom for the second consecutive year according to Freedom House.",
+        "published_at": "2026-10-22T22:08:24+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান ওপেনএআই আইপিওতে যাওয়ার পরিবর্তে এক দশমিক পঁচিশ ট্রিলিয়ন ডলার মূল্যায়নে নতুন তহবিল সংগ্রহ করছে।",
+        "lead_en": "Artificial intelligence lab OpenAI is securing a mega private funding round at a high valuation ahead of its planned IPO.",
         "bullets_bn": [
-          "ইন্টারনেট নাগরিক স্বাধীনতার সূচকে বাংলাদেশের বর্তমান স্কোর বৃদ্ধি পেয়ে দাঁড়িয়েছে পঞ্চাশে।",
-          "যুক্তরাষ্ট্রভিত্তিক গবেষণাপ্রতিষ্ঠান ফ্রিডম হাউসের ফ্রিডম অন দ্য নেট প্রতিবেদনে এই তথ্য উঠে এসেছে।",
-          "চলতি বছর দেশটিতে ইন্টারনেট ব্যবহারের ওপর বিধিনিষেধ উল্লেখযোগ্য হারে হ্রাস পেয়েছে।"
+          "কোয়েট এবং সংযুক্ত আরব আমিরাতের বিনিয়োগকারীদের নেতৃত্বে তহবিল সংগ্রহের এই প্রক্রিয়া পরিচালিত হচ্ছে।",
+          "এই রাউন্ডে ত্রিশ বিলিয়ন ডলার পর্যন্ত তোলার পরিকল্পনা রয়েছে এবং মূল্যায়ন ধরা হয়েছে এক দশমিক পঁচিশ ট্রিলিয়ন ডলার।",
+          "আলোচনা চূড়ান্ত না হওয়ায় চুক্তির শর্তগুলোতে পরিবর্তন আসার সম্ভাবনা এখনো রয়ে গেছে।"
         ],
         "bullets_en": [
-          "Bangladesh scored fifty out of one hundred in the latest internet civic freedom index.",
-          "The findings were published by the US based research organization Freedom House.",
-          "Restrictions on online content and internet access barriers declined significantly over the year."
+          "The private funding round is being led by Coatue and investors based in the UAE.",
+          "OpenAI aims to raise up to 30 billion dollars at a pre-money valuation of 1.25 trillion dollars.",
+          "Negotiations regarding the final terms of the funding round remain ongoing and could change."
         ],
-        "impact_bn": "সাধারণ নাগরিক ও তরুণ সমাজ এখন আগের তুলনায় কম বিধিনিষেধে ডিজিটাল প্ল্যাটফর্ম ব্যবহার করতে পারছে।",
-        "impact_en": "Ordinary citizens and youth can now access digital platforms with fewer government restrictions.",
-        "details_bn": "যুক্তরাষ্ট্রভিত্তিক গবেষণাপ্রতিষ্ঠান ফ্রিডম হাউসের প্রকাশিত প্রতিবেদনে বিশ্বের ৩৮টি দেশের ইন্টারনেট পরিস্থিতির মূল্যায়ন করা হয়েছে। বিগত রাজনৈতিক পরিবর্তনের পর থেকে বাংলাদেশে অনলাইন আধেয়র ওপর বিধিনিষেধ ও ইন্টারনেট পরিষেবা বন্ধ রাখার প্রবণতা হ্রাস পেয়েছে। তবে সামগ্রিক গণমাধ্যমের স্বাধীনতা নিয়ে ফ্রিডম হাউস এখনো নির্দিষ্ট কিছু উদ্বেগ প্রকাশ করেছে। বৈশ্বিক এই সূচকে এস্তোনিয়া সর্বোচ্চ অবস্থান ধরে রেখেছে।",
-        "details_en": "The Freedom House report evaluates internet freedom across thirty-eight countries globally. Following recent political shifts in Bangladesh restrictions on online content and service shutdowns have decreased. However the report notes that concerns regarding broader media freedom still persist. Estonia retained the highest ranking globally in this index."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ওপেনএআই এর আগে মার্চ মাসে আটশ বায়ান্ন বিলিয়ন ডলার মূল্যায়নে তহবিল সংগ্রহ করেছিল এবং জুন মাসে আইপিওর জন্য গোপনীয় কাগজপত্র জমা দেয়। এই বিশাল মূল্যায়ন প্রযুক্তি খাতের সবচেয়ে মূল্যবান বেসরকারি কোম্পানির নতুন রেকর্ড গড়তে পারে। পাশাপাশি এটি প্রতিদ্বন্দ্বী প্রতিষ্ঠান অ্যানথ্রপিকের আসন্ন আইপিওর ওপরও প্রভাব ফেলতে পারে।",
+        "details_en": "OpenAI previously raised funds in March valuing the ChatGPT maker at 852 billion dollars and filed confidential paperwork for an IPO in June. Achieving a valuation above one trillion dollars would break records as the most valued private company ever, potentially setting a high benchmark for competitor Anthropic."
+      }
+    },
+    {
+      "story_id": "45f08168-a037-53fa-aa06-11fa2f5e1a17",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T20:56:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.3853,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171050",
+          "title": "পাবনা-ঢাকা রুটে নতুন ট্রেন চলাচল নভেম্বরের শেষে: রেলপথ সচিব",
+          "snippet": "পাবনা-ঢাকা রুটে নতুন ট্রেন চলাচল নভেম্বরের শেষে: রেলপথ সচিব"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাবনা-ঢাকা রুটে নভেম্বর নাগাদ নতুন ট্রেন চালুর ঘোষণা রেলপথ সচিবের",
+        "title_en": "New Train Service Between Pabna and Dhaka to Launch by November",
+        "summary_bn": "রেলপথ মন্ত্রণালয়ের ঘোষণা অনুযায়ী আগামী নভেম্বরের শেষ দিকে ঢাকা ও পাবনা রুটে নতুন ট্রেন চলাচল শুরু হবে।",
+        "summary_en": "A new train service will commence operations between Dhaka and Pabna by the end of November.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T20:56:00+00:00",
+        "lead_bn": "রেলপথ মন্ত্রণালয়ের ঘোষণা অনুযায়ী আগামী নভেম্বরের শেষ দিকে ঢাকা ও পাবনা রুটে নতুন ট্রেন চলাচল শুরু হবে।",
+        "lead_en": "A new train service will commence operations between Dhaka and Pabna by the end of November.",
+        "bullets_bn": [
+          "ঢাকা ও পাবনা রুটে ট্রেন চালুর সিদ্ধান্ত নিয়েছে রেলপথ মন্ত্রণালয়।",
+          "রেলপথ সচিব ফাহিমুল ইসলাম নতুন ট্রেন চালুর এই সময়সীমা নিশ্চিত করেছেন।",
+          "নির্ধারিত সময়ের মধ্যে ট্রেন চলাচল শুরু করতে সংশ্লিষ্ট বিভাগ প্রস্তুতি নিচ্ছে।"
+        ],
+        "bullets_en": [
+          "The Ministry of Railways has decided to launch a new train on the Dhaka-Pabna route.",
+          "Railway Secretary Fahimul Islam confirmed the timeline for launching the new train service.",
+          "Relevant authorities are making preparations to start operations within the stipulated timeframe."
+        ],
+        "impact_bn": "পাবনা ও ঢাকার মধ্যকার যাতায়াত সহজতর হবে এবং সাধারণ যাত্রীদের দীর্ঘদিনের ভোগান্তি কমবে।",
+        "impact_en": "Commuting between Pabna and Dhaka will become easier, reducing long-standing travel hassles for ordinary passengers.",
+        "details_bn": "পাবনা অঞ্চলের মানুষের দীর্ঘদিনের দাবি ছিল রাজধানী ঢাকার সাথে সরাসরি ও উন্নত ট্রেন যোগাযোগের ব্যবস্থা করা। এর আগে বিভিন্ন সময়ে এই রুটে ট্রেন বাড়ানোর বা নতুন ট্রেন চালুর নানামুখী দাবি উঠলেও তা বাস্তবায়নের প্রক্রিয়া ধীরগতির ছিল। সাম্প্রতিক সময়ে যোগাযোগব্যবস্থার উন্নয়ন ও যাত্রী সাধারণের সুবিধা বৃদ্ধির অংশ হিসেবে রেলওয়ে কর্তৃপক্ষ এই নতুন ট্রেন চালুর উদ্যোগ গ্রহণ করেছে।",
+        "details_en": "Residents of the Pabna region have long demanded direct and improved rail communication with the capital city of Dhaka. Although various demands for increasing trains or introducing new services on this route were raised previously, implementation was slow. As part of recent efforts to improve transportation infrastructure and enhance passenger convenience, railway authorities have taken this initiative to launch a new train."
+      }
+    },
+    {
+      "story_id": "f5e6621a-55cc-5b30-bfa2-052225265b5d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T20:26:30+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.3323,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171049",
+          "title": "রামদা-চাপাতি থেকে এয়ারগান, কিশোর গ্যাং নেতার বাড়িতে যা মিললো",
+          "snippet": "রামদা-চাপাতি থেকে এয়ারগান, কিশোর গ্যাং নেতার বাড়িতে যা মিললো"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কুমিল্লায় দেশীয় অস্ত্র ও এয়ারগানসহ কিশোর গ্যাংয়ের নেতা আটক",
+        "title_en": "Teen Gang Leader Arrested with Local Weapons and Airgun in Cumilla",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী কুমিল্লার লালমাই উপজেলায় অভিযান চালিয়ে দেশীয় অস্ত্র ও এয়ারগানসহ এক কিশোর গ্যাং নেতাকে আটক করেছে।",
+        "summary_en": "Law enforcement agencies detained a teen gang leader along with local weapons and an airgun during a drive in Cumilla.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T20:26:30+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী কুমিল্লার লালমাই উপজেলায় অভিযান চালিয়ে দেশীয় অস্ত্র ও এয়ারগানসহ এক কিশোর গ্যাং নেতাকে আটক করেছে।",
+        "lead_en": "Law enforcement agencies detained a teen gang leader along with local weapons and an airgun during a drive in Cumilla.",
+        "bullets_bn": [
+          "লালমাই উপজেলার বেলঘর এলাকায় অভিযান চালিয়ে কিশোর গ্যাংয়ের ওই নেতাকে আটক করা হয়।",
+          "অভিযানের সময় তার বাড়ি থেকে রামদা ও চাপাতিসহ বিভিন্ন দেশীয় অস্ত্র এবং একটি এয়ারগান জব্দ করা হয়।",
+          "আটককৃত ব্যক্তির বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "The teen gang leader was detained during a raid conducted in the Belghar area of Lalmai upazila.",
+          "Various local weapons including ramdas and chapatis along with an airgun were seized from his residence.",
+          "Legal procedures have been initiated to take action against the detained individual."
+        ],
+        "impact_bn": "এই ধরনের অভিযান স্থানীয় পর্যায়ে কিশোর গ্যাংয়ের দৌরাত্ম্য কমাতে এবং জননিরাপত্তা নিশ্চিত করতে সাহায্য করবে।",
+        "impact_en": "Such operations help curb the menace of teen gangs and ensure public safety at the local level.",
+        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে কিশোর গ্যাংয়ের তৎপরতা বৃদ্ধি পাওয়ায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী নজরদারি বাড়িয়েছে। অপরাধমূলক কর্মকাণ্ড দমনে নিয়মিত অভিযان পরিচালনা করা হচ্ছে, যার অংশ হিসেবে কুমিল্লার এই অস্ত্র উদ্ধারের ঘটনাটি ঘটেছে।",
+        "details_en": "Law enforcement agencies have stepped up surveillance due to the recent rise in teen gang activities across the country. Regular operations are being conducted to suppress criminal acts, of which this weapon recovery incident in Cumilla is a part."
       }
     }
   ]
