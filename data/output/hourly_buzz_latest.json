@@ -1,121 +1,229 @@
 {
-  "updated_at": "2026-10-22T00:00:47.610810",
-  "total_stories": 4,
+  "updated_at": "2026-10-22T01:00:51.194293",
+  "total_stories": 6,
   "stories": [
     {
-      "story_id": "0f480175-5cce-56b7-854f-e3a44d982926",
-      "primary_category": "sports_fitness",
+      "story_id": "47213455-333a-5863-9fc6-a8a045b13e23",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T00:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9652,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/other-sports/975950/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A8-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-          "title": "টিভিতে আজকের খেলা (২২ অক্টোবর, ২০২৬)",
-          "snippet": "টিভিতে আজকের খেলা (২২ অক্টোবর, ২০২৬)"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টিভিতে র ক্রিকেট ও ক্রীড়া সূচি",
-        "title_en": "Television Broadcast Schedule for Today's Cricket and Sports",
-        "summary_bn": "টেলিভিশনের পর্দায় সম্প্রচারিত হতে যাওয়া দেশি ও আন্তর্জাতিক ক্রীড়া ইভেন্টগুলোর সময়সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "The broadcast schedule for domestic and international sports events airing on television has been released.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:00:00+00:00",
-        "lead_bn": "টেলিভিশনের পর্দায় সম্প্রচারিত হতে যাওয়া দেশি ও আন্তর্জাতিক ক্রীড়া ইভেন্টগুলোর সময়সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "The broadcast schedule for domestic and international sports events airing on television has been released.",
-        "bullets_bn": [
-          "টেলিভিশন চ্যানেলে সরাসরি সম্প্রচারিত ক্রীড়া ইভেন্টসমূহের সময়তালিকা নির্ধারণ করা হয়েছে।",
-          "ইংল্যান্ড বনাম শ্রীলঙ্কা ত্রিদেশীয় সিরিজের ম্যাচটি বেলা দুইটায় টি স্পোর্টসে সরাসরি সম্প্রচার করা হবে।",
-          "দর্শকরা নির্ধারিত সময়ে সংশ্লিষ্ট টিভি চ্যানেল ও প্ল্যাটফর্মে ম্যাচগুলো সরাসরি উপভোগ করতে পারবেন।"
-        ],
-        "bullets_en": [
-          "The broadcasting schedule for various sports events on television channels has been finalized.",
-          "The England versus Sri Lanka tri-nation series match will be broadcast live at two PM on T Sports.",
-          "Viewers can watch the matches live on the respective television channels and platforms at the scheduled time."
-        ],
-        "impact_bn": "ক্রিকেটপ্রেমী ও দর্শকরা সময়মতো পছন্দের খেলা সরাসরি উপভোগ করতে পারবেন।",
-        "impact_en": "Cricket fans and viewers can enjoy their favorite matches live at the scheduled time.",
-        "details_bn": "প্রতিদিনের নিয়মিত ক্রীড়া সূচির অংশ হিসেবে বিভিন্ন জাতীয় ও আন্তর্জাতিক টুর্নামেন্টের ম্যাচগুলো টেলিভিশন ও ডিজিটাল মাধ্যমে সরাসরি সম্প্রচার করা হয়। দর্শকদের খেলা দেখার সুবিধা নিশ্চিত করতে গণমাধ্যম ও ক্রীড়া চ্যানেলগুলো নিয়মিত এই সূচি প্রকাশ করে থাকে।",
-        "details_en": "As part of the regular daily sports schedule, matches from various national and international tournaments are broadcast live across television and digital platforms. Media outlets and sports channels routinely publish these schedules to ensure viewers can easily track and watch the games."
-      }
-    },
-    {
-      "story_id": "7dafcfd9-7f28-5d5a-9ee7-1c85f2c45a11",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
         "governance_law"
       ],
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T23:49:50+00:00",
+      "published_at": "2026-10-22T00:58:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.869,
+      "importance_score": 4.8,
+      "rank_score": 1.9006,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1170718",
-          "title": "ঢাকের শব্দে বিদায়, বুড়িগঙ্গার ঘাটে আগামী বছরের অপেক্ষা",
-          "snippet": "ঢাকের শব্দে বিদায়, বুড়িগঙ্গার ঘাটে আগামী বছরের অপেক্ষা"
+          "url": "https://www.jagonews24.com/country/news/1170722",
+          "title": "চাঁদপুরে মা ইলিশ রক্ষায় দুই অভিযানে আটক ৭, জাল ও নৌকা জব্দ",
+          "snippet": "চাঁদপুরে মা ইলিশ রক্ষায় দুই অভিযানে আটক ৭, জাল ও নৌকা জব্দ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শঙ্খধ্বনি ও উলুধ্বনির মধ্য দিয়ে শেষ হলো সনাতন ধর্মাবলম্বীদের শারদীয় দুর্গোৎসব",
-        "title_en": "Sharadiya Durgotsav Concludes Amid Conch Shell Sounds and Devotional Chants",
-        "summary_bn": "শঙ্খধ্বনি, উলুধ্বনি এবং ঢাকের বাদ্যের মধ্য দিয়ে বুড়িগঙ্গার তীরে প্রতিমা বিসর্জনের মাধ্যমে সমাপ্তি ঘটেছে সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসবের।",
-        "summary_en": "Sharadiya Durgotsav concluded with the immersion of idols in the Buriganga river amid conch sounds, uludhwani, and traditional drum beats.",
+        "title_bn": "চাঁদপুরে মা ইলিশ রক্ষায় নৌ পুলিশের অভিযানে ৭ জেলে আটক",
+        "title_en": "Seven Fishermen Detained in Chandpur River Drive to Protect Mother Hilsa",
+        "summary_bn": "মা ইলিশ সংরক্ষণ অভিযانের অংশ হিসেবে চাঁদপুরের মেঘনা নদীতে নৌ পুলিশ পৃথক দুটি অভিযান চালিয়ে সাত জেলেকে আটক করেছে।",
+        "summary_en": "Naval police detained seven fishermen during separate drives in the Meghna River in Chandpur to protect mother hilsa.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T23:49:50+00:00",
-        "lead_bn": "শঙ্খধ্বনি, উলুধ্বনি এবং ঢাকের বাদ্যের মধ্য দিয়ে বুড়িগঙ্গার তীরে প্রতিমা বিসর্জনের মাধ্যমে সমাপ্তি ঘটেছে সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসবের।",
-        "lead_en": "Sharadiya Durgotsav concluded with the immersion of idols in the Buriganga river amid conch sounds, uludhwani, and traditional drum beats.",
+        "published_at": "2026-10-22T00:58:38+00:00",
+        "lead_bn": "মা ইলিশ সংরক্ষণ অভিযانের অংশ হিসেবে চাঁদপুরের মেঘনা নদীতে নৌ পুলিশ পৃথক দুটি অভিযান চালিয়ে সাত জেলেকে আটক করেছে।",
+        "lead_en": "Naval police detained seven fishermen during separate drives in the Meghna River in Chandpur to protect mother hilsa.",
         "bullets_bn": [
-          "সনাতন ধর্মাবলম্বীরা গভীর রাতে বুড়িগঙ্গার ঘাটে প্রতিমা বিসর্জন সম্পন্ন করেন।",
-          "বিসর্জন শোভাযাত্রায় ঢাকের বাদ্য, শঙ্খধ্বনি ও উলুধ্বনির মাধ্যমে ভক্তরা অংশ নেন।",
-          "উৎসব শেষে এখন আগামী বছরের শারদীয় দুর্গোৎসবের জন্য অপেক্ষা শুরু হয়েছে।"
+          "মেঘনা নদীতে নৌ পুলিশের পৃথক দুটি অভিযানে সাত জেলেকে আটক করা হয়েছে।",
+          "অভিযানের সময় নিষিদ্ধ চায়না চাই জাল এবং নৌকা জব্দ করা হয়েছে।",
+          "মা ইলিশ সংরক্ষণ অভিযান চলাকালীন মেঘনা নদীতে নিয়মিত টহল ও আইনি ব্যবস্থা জোরদার করা হয়েছে।"
         ],
         "bullets_en": [
-          "Hindu devotees completed the immersion of idols at the Buriganga river banks late at night.",
-          "Devotees participated in the immersion procession with traditional drum beats, conch sounds, and rituals.",
-          "Preparations and anticipation for next year's Durgotsav have begun following the conclusion of the festival."
+          "Naval police detained seven fishermen during separate operations in the Meghna River.",
+          "Banned China chai nets and fishing boats were seized during the drives.",
+          "Routine patrols and legal actions are strengthened in the Meghna River during the mother hilsa conservation period."
         ],
-        "impact_bn": "উৎসব শেষ হওয়ায় নগরজীবনে পুনরায় স্বাভাবিক কর্মচাঞ্চল্য ফিরে এসেছে এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিরাপত্তা ব্যবস্থা প্রত্যাহার করেছে।",
-        "impact_en": "Normal urban routines resumed across the city following the conclusion of the religious festivities.",
-        "details_bn": "শারদীয় দুর্গোৎসব সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। প্রতি বছর শরৎকালে এই উৎসব উদযাপিত হয়, যা পাঁচ দিনব্যাপী নানা ধর্মীয় আচার-অনুষ্ঠানের মধ্য দিয়ে চলে। বিজয়া দশমীর দিনে প্রতিমা বিসর্জনের মাধ্যমে এই উৎসবের আনুষ্ঠানিক সমাপ্তি ঘটে। দেশের বিভিন্ন প্রান্তে নদী বা জলাশয়ে প্রতিমা বিসর্জনের পর ভক্তরা আগামী বছরের জন্য আবার অপেক্ষা শুরু করেন।",
-        "details_en": "Sharadiya Durgotsav is the largest religious festival for the Hindu community, celebrated annually during autumn. Spanning five days, the festival features various religious rituals and community gatherings. The celebrations formally conclude on Bijoya Dashami with the immersion of idols in rivers and water bodies across the country, marking the beginning of the wait for the next year."
+        "impact_bn": "মা ইলিশ সুরক্ষার ফলে ইলিশের উৎপাদন বৃদ্ধি পাবে যা স্থানীয় বাজারে সরবরাহ বাড়াতে সহায়তা করবে।",
+        "impact_en": "Protecting mother hilsa will boost fish production and help increase market supply for consumers.",
+        "details_bn": "সরকার কর্তৃক নির্ধারিত নির্দিষ্ট সময়ে মা ইলিশের প্রজনন নিরাপদ রাখতে প্রতি বছর ইলিশ ধরা নিষিদ্ধ করা হয়। এই নিষেধাজ্ঞার কার্যকারিতা নিশ্চিত করতে নদী এলাকায় নিয়মিত অভিযান পরিচালনা করে থাকে আইনশৃঙ্খলা বাহিনী। আটক জেলেদের বিরুদ্ধে মৎস্য সুরক্ষা আইন অনুযায়ী আইনি ব্যবস্থা গ্রহণ করা হয়ে থাকে।",
+        "details_en": "Fishing is banned during the designated breeding season every year to ensure the safe reproduction of mother hilsa. Law enforcement agencies conduct regular drives in river areas to enforce this ban strictly. Legal actions are routinely taken against detained violators under fisheries protection laws."
       }
     },
     {
-      "story_id": "22173314-8a74-5943-be15-67d3be27e9fb",
+      "story_id": "a3debec6-fbd7-5e76-bac1-bc80cb6222bc",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T00:52:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8946,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975974/%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A7%87",
+          "title": "সঙ্গী আপনার সম্পর্কে চ্যাটজিপিটিতে কী লেখে, জানতে চান?",
+          "snippet": "সঙ্গী আপনার সম্পর্কে চ্যাটজিপিটিতে কী লেখে, জানতে চান?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সম্পর্ক নিয়ে চ্যাটজিপিটিতে সঙ্গীর কথোপকথন জানার প্রবণতা বাড়াচ্ছে গোপনীয়তার ঝুঁকি",
+        "title_en": "Curiosity About Partners ChatGPT Prompts Raises Privacy Concerns",
+        "summary_bn": "সঙ্গী চ্যাটজিপিটিতে সম্পর্ক নিয়ে কী লিখছেন তা জানার আগ্রহ ব্যক্তিগত গোপনীয়তা এবং বিশ্বাসের ওপর নেতিবাচক প্রভাব ফেলছে।",
+        "summary_en": "The growing curiosity about what partners write regarding relationships on ChatGPT poses significant privacy and trust concerns.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T00:52:49+00:00",
+        "lead_bn": "সঙ্গী চ্যাটজিপিটিতে সম্পর্ক নিয়ে কী লিখছেন তা জানার আগ্রহ ব্যক্তিগত গোপনীয়তা এবং বিশ্বাসের ওপর নেতিবাচক প্রভাব ফেলছে।",
+        "lead_en": "The growing curiosity about what partners write regarding relationships on ChatGPT poses significant privacy and trust concerns.",
+        "bullets_bn": [
+          "প্রযুক্তি ব্যবহারের ফলে ব্যক্তিগত সম্পর্কের গোপনীয়তা এবং বিশ্বাসের ক্ষেত্রগুলো নতুন চ্যালেঞ্জের মুখে পড়ছে।",
+          "বিশেষজ্ঞরা বলছেন মানুষ এখন সম্পর্ক সংক্রান্ত ব্যক্তিগত সমস্যা ও পরামর্শের জন্য কৃত্রিম বুদ্ধিমত্তার ওপর নির্ভর করছে।",
+          "অত্যাধুনিক চ্যাটবট ব্যবহারের এই প্রবণতা পারস্পরিক খোলামেলা আলোচনার জায়গা সংকুচিত করে দিচ্ছে।"
+        ],
+        "bullets_en": [
+          "The use of technology creates new challenges for personal relationship privacy and trust.",
+          "Experts note that people increasingly rely on artificial intelligence for relationship advice and personal issues.",
+          "This trend of utilizing advanced chatbots narrows the scope for open mutual communication."
+        ],
+        "impact_bn": "প্রযুক্তির অতিরিক্ত ব্যবহারের ফলে দম্পতিদের পারস্পরিক যোগাযোগ এবং মানসিক দূরত্ব তৈরি হওয়ার আশঙ্কা রয়েছে।",
+        "impact_en": "Excessive reliance on technology may create emotional distance and communication gaps between couples.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা ও চ্যাটবটের জনপ্রিয়তা বৃদ্ধির সঙ্গে সঙ্গে মানুষ দৈনন্দিন জীবনের নানা ব্যক্তিগত সমস্যার সমাধান খুঁজতে শুরু করেছে চ্যাটজিপিটির মতো প্ল্যাটফর্মে। এই প্রবণতা মানুষের ব্যক্তিগত গোপনীয়তার ধারণাকে বদলে দিচ্ছে এবং সম্পর্কের অভ্যন্তরীণ সমীকরণে নতুন প্রভাব ফেলছে।",
+        "details_en": "With the growing popularity of artificial intelligence and chatbots, people increasingly turn to platforms like ChatGPT to solve personal life problems. This trend is reshaping notions of personal privacy and impacting internal relationship dynamics."
+      }
+    },
+    {
+      "story_id": "813f36c4-a9b7-5cfd-b1dc-39679a6fc342",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T00:50:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8748,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1170721",
+          "title": "সাইবার সিকিউরিটিসহ অন্যান্য আইন সংশোধনের চেষ্টা করছি: তথ্যমন্ত্রী",
+          "snippet": "সাইবার সিকিউরিটিসহ অন্যান্য আইন সংশোধনের চেষ্টা করছি: তথ্যমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাইবার সিকিউরিটি আইনসহ অন্যান্য আইন সংশোধনের উদ্যোগ নিয়েছে সরকার",
+        "title_en": "Government is Working to Amend Cyber Security and Related Laws",
+        "summary_bn": "তথ্য ও সম্প্রচারমন্ত্রী জানিয়েছেন যে সরকার স্টেকহোল্ডার ও গণমাধ্যম মালিকদের সঙ্গে আলোচনা করে সাইবার সিকিউরিটি আইন সংশোধনের উদ্যোগ নিয়েছে।",
+        "summary_en": "The Information and Broadcasting Minister stated that the government is initiating amendments to the cyber security act following stakeholder consultations.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T00:50:35+00:00",
+        "lead_bn": "তথ্য ও সম্প্রচারমন্ত্রী জানিয়েছেন যে সরকার স্টেকহোল্ডার ও গণমাধ্যম মালিকদের সঙ্গে আলোচনা করে সাইবার সিকিউরিটি আইন সংশোধনের উদ্যোগ নিয়েছে।",
+        "lead_en": "The Information and Broadcasting Minister stated that the government is initiating amendments to the cyber security act following stakeholder consultations.",
+        "bullets_bn": [
+          "সাইবার সিকিউরিটি আইনসহ বেশ কিছু আইন সংশোধনের জন্য কাজ করছে তথ্য ও সম্প্রচার মন্ত্রণালয়।",
+          "আইন সংশোধনের প্রক্রিয়াটি নিয়ে বিভিন্ন সময় গণমাধ্যমের মালিক ও সংশ্লিষ্ট স্টেকহোল্ডারদের সঙ্গে আলোচনা করা হয়েছে।",
+          "সংশ্লিষ্ট অংশীজনদের মতামতের ভিত্তিতে শিগগিরই সংশোধিত আইনের রূপরেখা চূড়ান্ত করা হবে।"
+        ],
+        "bullets_en": [
+          "The Ministry of Information and Broadcasting is working to amend the cyber security act and other laws.",
+          "Discussions have been held at various times with media owners and relevant stakeholders regarding the law amendments.",
+          "The revised framework of the laws will be finalized soon based on feedback from the stakeholders."
+        ],
+        "impact_bn": "আইনটি সংশোধিত হলে ডিজিটাল মাধ্যমে কাজ করা নাগরিক ও গণমাধ্যমকর্মীদের বাকস্বাধীনতা ও নিরাপত্তা নিশ্চিত হবে।",
+        "impact_en": "Amendments to the law will ensure freedom of speech and security for citizens and media workers operating in digital spaces.",
+        "details_bn": "গত কয়েক বছর ধরে সাইবার নিরাপত্তা আইন নিয়ে সাংবাদিক, মানবাধিকার কর্মী ও প্রযুক্তিবিদরা বিভিন্ন মাধ্যমে আপত্তি ও সংশোধনের দাবি জানিয়ে আসছিলেন। বর্তমান অন্তর্বর্তীকালীন সরকার ডিজিটাল অধিকার রক্ষা এবং মতপ্রকাশের স্বাধীনতা নিশ্চিত করার লক্ষ্যে বিভিন্ন নিবর্তনমূলক আইন পর্যালোচনা ও যুগোপযোগী করার প্রক্রিয়া শুরু করেছে।",
+        "details_en": "Over the past few years, journalists, human rights activists, and technologists have raised objections and demanded amendments to the cyber security legislation. The current interim administration has initiated the process of reviewing and updating restrictive laws to protect digital rights and ensure freedom of expression."
+      }
+    },
+    {
+      "story_id": "51e87a0c-c698-59f8-b37d-8674dfd73440",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T00:27:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7089,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1170720",
+          "title": "ব্যাংক খাতে উদ্বৃত্ত তারল্য ৪ লাখ ৪২ হাজার কোটি টাকা",
+          "snippet": "ব্যাংক খাতে উদ্বৃত্ত তারল্য ৪ লাখ ৪২ হাজার কোটি টাকা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্য বেড়ে দাঁড়িয়েছে ৪ লাখ ৪২ হাজার কোটি টাকা",
+        "title_en": "Surplus liquidity in Bangladesh banking sector rises to Tk 4.42 lakh crore",
+        "summary_bn": "বেসরকারি খাতে ঋণের চাহিদা হ্রাস পাওয়ায় দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্যের পরিমাণ বেড়ে ৪ লাখ ৪২ হাজার কোটি টাকায় পৌঁছেছে।",
+        "summary_en": "Surplus liquidity in the country's banking sector has risen to Tk 4.42 lakh crore due to low credit demand in the private sector.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T00:27:41+00:00",
+        "lead_bn": "বেসরকারি খাতে ঋণের চাহিদা হ্রাস পাওয়ায় দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্যের পরিমাণ বেড়ে ৪ লাখ ৪২ হাজার কোটি টাকায় পৌঁছেছে।",
+        "lead_en": "Surplus liquidity in the country's banking sector has risen to Tk 4.42 lakh crore due to low credit demand in the private sector.",
+        "bullets_bn": [
+          "বেসরকারি খাতে ঋণের চাহিদা না বাড়ায় ব্যাংকগুলো আমানতের তুলনায় অনেক কম অর্থ ঋণ হিসেবে বিতরণ করছে।",
+          "ব্যাংক খাতে অলস অর্থের পরিমাণ ৪ লাখ ৪২ হাজার কোটি টাকায় উন্নীত হয়েছে।",
+          "অলস অর্থ বেড়ে যাওয়ায় ব্যাংকিং খাতে ঋণ ও আমানতের অনুপাত ক্রমান্বয়ে হ্রাস পাচ্ছে।"
+        ],
+        "bullets_en": [
+          "Banks are distributing significantly less loan money compared to deposits due to stagnant private sector credit demand.",
+          "The volume of idle money in the banking sector has reached Tk 4.42 lakh crore.",
+          "The credit-to-deposit ratio is steadily declining as idle funds continue to accumulate."
+        ],
+        "impact_bn": "অলস তারল্য বেড়ে যাওয়ায় ব্যাংকগুলোর আয় কমে যাওয়ার পাশাপাশি আমানতকারীদের সুদের হার হ্রাসের ঝুঁকি তৈরি হয়েছে।",
+        "impact_en": "Increased idle liquidity reduces bank earnings and poses risks of lowering interest rates for depositors.",
+        "details_bn": "সাম্প্রতিক সময়ে অর্থনৈতিক মন্থরতা ও বিনিয়োগ স্থবিরতার কারণে বেসরকারি খাতে ঋণপ্রবাহ উল্লেখযোগ্য হারে কমে গেছে। এর ফলে বাণিজ্যিক ব্যাংকগুলোতে আমানত জমা হলেও তার বিপরীতে নতুন ঋণ ছাড় হচ্ছে না। ব্যাংকগুলোর হাতে অলস টাকা জমে থাকায় তাদের পরিচালন ব্যয় মেটানো এবং সঠিক মুনাফা অর্জন কঠিন হয়ে পড়ছে, যা সার্বিক মুদ্রাবাজারের ওপর প্রভাব ফেলছে।",
+        "details_en": "Private sector credit growth has slowed significantly in recent times due to economic sluggishness and stagnant investment. Consequently, commercial banks continue to accumulate deposits without deploying adequate loans. The heavy accumulation of idle funds increases operating costs and affects profitability across the banking industry."
+      }
+    },
+    {
+      "story_id": "4df313fd-f369-5081-b9a3-7ff06ac7a608",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -127,23 +235,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T23:19:29+00:00",
+      "published_at": "2026-10-22T00:13:06+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6629,
+      "rank_score": 0.6299,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975972/%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%AA%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A8%E0%A6%BE",
-          "title": "আত্মীয়ের মুখ চেয়ে সন্তানের নিরাপত্তায় আপস করছেন না তো?",
-          "snippet": "আত্মীয়ের মুখ চেয়ে সন্তানের নিরাপত্তায় আপস করছেন না তো?"
+          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975973/%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B2%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BF%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%9F-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0",
+          "title": "হাম্বলব্র্যাগিং: বিনয় দেখাতে গিয়ে উল্টো বিরক্তির কারণ হচ্ছেন না তো?",
+          "snippet": "হাম্বলব্র্যাগিং: বিনয় দেখাতে গিয়ে উল্টো বিরক্তির কারণ হচ্ছেন না তো?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আত্মীয়দের অসম্মানজনক আচরণ থেকে সন্তানকে রক্ষা করার প্রয়োজনীয়তা",
-        "title_en": "Protecting Children From Inappropriate Behavior by Relatives",
-        "summary_bn": "পরিবারের ঘনিষ্ঠ আত্মীয়দের আক্রমণাত্মক বা ক্ষতিকর আচরণ থেকে শিশুদের সুরক্ষা নিশ্চিত করা অভিভাবকদের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
-        "summary_en": "Ensuring child safety against inappropriate behavior from close family relatives is crucial for parents.",
+        "title_bn": "সামাজিক যোগাযোগমাধ্যমে হাম্বলব্র্যাগিং প্রবণতা বিরক্তি তৈরি করছে",
+        "title_en": "Humblebragging on social media creates annoyance among users",
+        "summary_bn": "বিনয়ের আড়ালে সাফল্য বা ব্যস্ততা প্রচারের মনস্তাত্ত্বিক প্রবণতা হাম্বলব্র্যাগিং সামাজিক যোগাযোগমাধ্যমে বিরক্তির কারণ হচ্ছে।",
+        "summary_en": "The psychological habit of humblebragging, masking self-praise as modesty or complaints, often causes annoyance on social media.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -151,79 +259,79 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T23:19:29+00:00",
-        "lead_bn": "পরিবারের ঘনিষ্ঠ আত্মীয়দের আক্রমণাত্মক বা ক্ষতিকর আচরণ থেকে শিশুদের সুরক্ষা নিশ্চিত করা অভিভাবকদের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
-        "lead_en": "Ensuring child safety against inappropriate behavior from close family relatives is crucial for parents.",
+        "published_at": "2026-10-22T00:13:06+00:00",
+        "lead_bn": "বিনয়ের আড়ালে সাফল্য বা ব্যস্ততা প্রচারের মনস্তাত্ত্বিক প্রবণতা হাম্বলব্র্যাগিং সামাজিক যোগাযোগমাধ্যমে বিরক্তির কারণ হচ্ছে।",
+        "lead_en": "The psychological habit of humblebragging, masking self-praise as modesty or complaints, often causes annoyance on social media.",
         "bullets_bn": [
-          "পরিবারের চাপে সন্তানের নিরাপত্তা ও মানসিক স্বাস্থ্যের সাথে আপস করা উচিত নয়।",
-          "শিশুর সামনে অপমানজনক বা চিৎকার করার মতো আচরণ তার মানসিক বিকাশে নেতিবাচক প্রভাব ফেলে।",
-          "অভিভাবকদের উচিত আত্মীয়তার সম্পর্ক রক্ষার চেয়ে সন্তানের সুরক্ষাকে সর্বোচ্চ অগ্রাধিকার দেওয়া।"
+          "ব্যস্ততা বা কাজের চাপের কথা বলে নিজেদের সাফল্য ও যোগ্যতার পরোক্ষ প্রচার চালানো হয়।",
+          "মনোবিজ্ঞানীদের মতে সরাসরি প্রশংসা এড়াতে মানুষ বিনয়ের মুখোশ ব্যবহার করে আত্মপ্রচার চালায়।",
+          "এ ধরনের আচরণ অনলাইন যোগাযোগে আস্থার সংকট ও বিরক্তি বাড়াতে পারে।"
         ],
         "bullets_en": [
-          "Parents must not compromise child safety and mental health due to family pressure.",
-          "Offensive behavior or shouting in front of children negatively impacts their mental development.",
-          "Guardians should prioritize child protection over maintaining conventional family relations."
+          "Users indirectly promote their achievements and capabilities by complaining about heavy workloads.",
+          "Psychologists note that people use this behavioral trait to mask self-praise behind false modesty.",
+          "Such online behavior often damages authentic relationships and increases digital fatigue."
         ],
-        "impact_bn": "সন্তানের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সাহসী সিদ্ধান্ত নিতে এবং পারিবারিক চাপ এড়াতে সাহায্য করে।",
-        "impact_en": "Helps parents make bold decisions to safeguard children mental health by resisting undue family pressure.",
-        "details_bn": "অনেক সময় আত্মীয়দের বিব্রতকর পরিস্থিতি এড়াতে অভিভাবকরা শিশুদের প্রতি অনৈতিক আচরণ সহ্য করেন। কিন্তু এই ধরনের আচরণ শিশুদের মনে দীর্ঘস্থায়ী নেতিবাচক প্রভাব ফেলতে পারে, যা তাদের আত্মবিশ্বাস কমিয়ে দেয়। তাই আত্মীয়তার সম্পর্ক বজায় রাখার পাশাপাশি শিশুর মানসিক ও শারীরিক নিরাপত্তা নিশ্চিত করা সমানভাবে জরুরি।",
-        "details_en": "Guardians often tolerate inappropriate behavior toward children to avoid awkward situations with relatives. However, such actions can leave lasting negative impacts on a child self-esteem. Ensuring a child mental and physical safety is vital even while maintaining family ties."
+        "impact_bn": "সামাজিক মাধ্যমে এ ধরনের আচরণ পারস্পরিক যোগাযোগে বিরক্তি তৈরি করে এবং মানসিক দূরত্ব বাড়ায়।",
+        "impact_en": "This behavior creates interpersonal friction and increases psychological fatigue in digital interactions.",
+        "details_bn": "হাম্বলব্র্যাগিং এমন একটি মনস্তাত্ত্বিক প্রবণতা যেখানে ব্যক্তি নিজের সাফল্য, ব্যস্ততা বা যোগ্যতাকে সরাসরি প্রকাশ না করে অভিযোগ বা বিনয়ের ছলে তুলে ধরেন। সামাজিক যোগাযোগমাধ্যমের বিস্তৃতির সাথে সাথে এই ধরনের আত্মপ্রচারের প্রবণতা বেড়েছে। বিশেষজ্ঞরা বলছেন, এই আচরণ প্রায়ই কাঙ্ক্ষিত ফল না দিয়ে উল্টো সহকর্মী ও পরিচিতজনদের মধ্যে বিরক্তি ও আস্থার সংকট তৈরি করে।",
+        "details_en": "Humblebragging is a psychological phenomenon where individuals disguise self-praise, success, or status behind complaints or false modesty. With the expansion of social networks, this disguised self-promotion has become increasingly common. Experts suggest that rather than earning admiration, this behavior frequently backfires by breeding annoyance and reducing authenticity among peers."
       }
     },
     {
-      "story_id": "75251307-f12c-5a7f-bd64-dac134fe0247",
-      "primary_category": "sports_fitness",
+      "story_id": "a5c41ce6-c8da-5a1d-8ed5-4ce782b5abdf",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "economy_business",
+        "governance_law"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-21T22:48:31+00:00",
+      "published_at": "2026-10-22T00:10:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5277,
+      "rank_score": 0.6151,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/975971/%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%A1%E0%A7%8D%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%89%E0%A7%8E%E0%A6%B8%E0%A6%AC",
-          "title": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব",
-          "snippet": "বায়ার্ন-আর্সেনাল মহারণে ড্র, রিয়ালের গোল উৎসব"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1170719",
+          "title": "ইসলামী ব্যাংকিংয়ে মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ",
+          "snippet": "ইসলামী ব্যাংকিংয়ে মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "উয়েফা চ্যাম্পিয়নস লিগে বায়ার্ন-আর্সেনাল ড্র এবং রিয়ালের জয়",
-        "title_en": "Bayern and Arsenal Draw While Real Madrid Wins in Champions League",
-        "summary_bn": "উয়েফা চ্যাম্পিয়নস লিগ ম্যাচে আর্সেনাল বায়ার্ন মিউনিখের সাথে ড্র করেছে এবং রিয়াল মাদ্রিদ আরবি লাইপজিগকে পরাজিত করেছে।",
-        "summary_en": "Arsenal secured a draw against Bayern Munich while Real Madrid defeated RB Leipzig in the UEFA Champions League.",
+        "title_bn": "ইসলামী ব্যাংকিংয়ের মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ",
+        "title_en": "Islamic Banking MFS Sector Sees 20 Percent Drop in Transactions",
+        "summary_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
+        "summary_en": "Transactions and account numbers in the mobile financial services sector of Islamic banks have significantly decreased according to Bangladesh Bank data.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-21T22:48:31+00:00",
-        "lead_bn": "উয়েফা চ্যাম্পিয়নস লিগ ম্যাচে আর্সেনাল বায়ার্ন মিউনিখের সাথে ড্র করেছে এবং রিয়াল মাদ্রিদ আরবি লাইপজিগকে পরাজিত করেছে।",
-        "lead_en": "Arsenal secured a draw against Bayern Munich while Real Madrid defeated RB Leipzig in the UEFA Champions League.",
+        "published_at": "2026-10-22T00:10:00+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
+        "lead_en": "Transactions and account numbers in the mobile financial services sector of Islamic banks have significantly decreased according to Bangladesh Bank data.",
         "bullets_bn": [
-          "জার্মান ক্লাব বায়ার্ন মিউনিখের মাঠে পিছিয়ে পড়েও শেষ মুহূর্তে গোল করে দুই দুই ব্যবধানে ড্র করে ইংলিশ ক্লাব আর্সেনাল।",
-          "নিজেদের মাঠ সান্তিয়াগো বার্নাব্যুতে আরবি লাইপজিগের বিপক্ষে চার এক গোলের দাপুটে জয় তুলে নেয় রিয়াল মাদ্রিদ।",
-          "উয়েফা চ্যাম্পিয়নস লিগের লিগ পর্বের ম্যাচগুলোতে ইউরোপের শীর্ষ ক্লাবগুলো নিজেদের আধিপত্য ধরে রাখতে লড়ছে।"
+          "ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উভয়ই কমে গেছে",
+          "বাংলাদেশ ব্যাংকের প্রকাশিত তথ্য অনুযায়ী আগের মাসের তুলনায় লেনদেন কমেছে প্রায় ২০ শতাংশ",
+          "কেন্দ্রীয় ব্যাংক এই খাতের লেনদেন হ্রাসের সুনির্দিষ্ট কারণ খতিয়ে দেখছে"
         ],
         "bullets_en": [
-          "Arsenal secured a 2-2 draw against Bayern Munich after coming from behind on the German club's home ground.",
-          "Real Madrid claimed a dominant 4-1 victory over RB Leipzig at their home stadium Santiago Bernabeu.",
-          "European top-tier clubs continue their campaign with high-stakes matches in the ongoing UEFA Champions League group stage."
+          "Both transactions and the number of accounts dropped in the mobile financial services sector of Islamic banks",
+          "Transaction volume decreased by nearly 20 percent compared to the previous month according to Bangladesh Bank data",
+          "The central bank is reviewing the specific reasons behind this decline in sector transactions"
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "উয়েফা চ্যাম্পিয়নস লিগ ইউরোপের সবচেয়ে মর্যাদাপূর্ণ ক্লাব ফুটবল প্রতিযোগিতা। এতে মহাদেশের শীর্ষ দলগুলো গ্রুপ ও লিগ পর্বে একে অপরের মুখোমুখি হয়। বর্তমান মৌসুমেও ইউরোপের জায়ান্ট ক্লাবগুলোর এই লড়াই ফুটবলপ্রেমীদের মধ্যে ব্যাপক উন্মাদনা সৃষ্টি করেছে।",
-        "details_en": "The UEFA Champions League is the most prestigious club football competition in Europe, featuring top-tier teams from across the continent. This season continues to deliver high-intensity matchups as football giants battle for European supremacy."
+        "impact_bn": "গ্রাহকদের দৈনন্দিন ডিজিটাল লেনদেন এবং আর্থিক সেবা ব্যবহারে কিছুটা ধীরগতি লক্ষ্য করা যেতে পারে।",
+        "impact_en": "Ordinary consumers may experience minor shifts in their daily digital transactions and financial service usage.",
+        "details_bn": "ইসলামী ব্যাংকগুলোর মাধ্যমে পরিচালিত মোবাইল আর্থিক সেবা বাংলাদেশে দ্রুত জনপ্রিয়তা লাভ করেছিল। তবে সাম্প্রতিক সময়ে গ্রাহক হিসাব এবং সামগ্রিক লেনদেনের পরিমাণ কমে যাওয়ায় খাতটির প্রবৃদ্ধির গতি কিছুটা মন্থর হয়েছে। বাংলাদেশ ব্যাংক এই খাতের ওপর নিয়মিত নজরদারি বজায় রাখছে এবং প্রয়োজনীয় নীতিমালা পর্যালোচনা করছে।",
+        "details_en": "Mobile financial services operated through Islamic banks gained rapid popularity in Bangladesh. However, recent declines in customer accounts and overall transaction volumes have slowed the sector growth. Bangladesh Bank maintains regular surveillance over the sector and reviews necessary policies."
       }
     }
   ]
