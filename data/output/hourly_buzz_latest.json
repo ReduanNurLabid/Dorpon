@@ -1,229 +1,63 @@
 {
-  "updated_at": "2026-10-22T01:00:51.194293",
+  "updated_at": "2026-10-22T02:00:45.525573",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "47213455-333a-5863-9fc6-a8a045b13e23",
-      "primary_category": "governance_law",
+      "story_id": "54996c76-22a0-5a47-b1ab-031179caf383",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law"
+        "sports_fitness"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T00:58:38+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9006,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170722",
-          "title": "চাঁদপুরে মা ইলিশ রক্ষায় দুই অভিযানে আটক ৭, জাল ও নৌকা জব্দ",
-          "snippet": "চাঁদপুরে মা ইলিশ রক্ষায় দুই অভিযানে আটক ৭, জাল ও নৌকা জব্দ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চাঁদপুরে মা ইলিশ রক্ষায় নৌ পুলিশের অভিযানে ৭ জেলে আটক",
-        "title_en": "Seven Fishermen Detained in Chandpur River Drive to Protect Mother Hilsa",
-        "summary_bn": "মা ইলিশ সংরক্ষণ অভিযانের অংশ হিসেবে চাঁদপুরের মেঘনা নদীতে নৌ পুলিশ পৃথক দুটি অভিযান চালিয়ে সাত জেলেকে আটক করেছে।",
-        "summary_en": "Naval police detained seven fishermen during separate drives in the Meghna River in Chandpur to protect mother hilsa.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:58:38+00:00",
-        "lead_bn": "মা ইলিশ সংরক্ষণ অভিযانের অংশ হিসেবে চাঁদপুরের মেঘনা নদীতে নৌ পুলিশ পৃথক দুটি অভিযান চালিয়ে সাত জেলেকে আটক করেছে।",
-        "lead_en": "Naval police detained seven fishermen during separate drives in the Meghna River in Chandpur to protect mother hilsa.",
-        "bullets_bn": [
-          "মেঘনা নদীতে নৌ পুলিশের পৃথক দুটি অভিযানে সাত জেলেকে আটক করা হয়েছে।",
-          "অভিযানের সময় নিষিদ্ধ চায়না চাই জাল এবং নৌকা জব্দ করা হয়েছে।",
-          "মা ইলিশ সংরক্ষণ অভিযান চলাকালীন মেঘনা নদীতে নিয়মিত টহল ও আইনি ব্যবস্থা জোরদার করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Naval police detained seven fishermen during separate operations in the Meghna River.",
-          "Banned China chai nets and fishing boats were seized during the drives.",
-          "Routine patrols and legal actions are strengthened in the Meghna River during the mother hilsa conservation period."
-        ],
-        "impact_bn": "মা ইলিশ সুরক্ষার ফলে ইলিশের উৎপাদন বৃদ্ধি পাবে যা স্থানীয় বাজারে সরবরাহ বাড়াতে সহায়তা করবে।",
-        "impact_en": "Protecting mother hilsa will boost fish production and help increase market supply for consumers.",
-        "details_bn": "সরকার কর্তৃক নির্ধারিত নির্দিষ্ট সময়ে মা ইলিশের প্রজনন নিরাপদ রাখতে প্রতি বছর ইলিশ ধরা নিষিদ্ধ করা হয়। এই নিষেধাজ্ঞার কার্যকারিতা নিশ্চিত করতে নদী এলাকায় নিয়মিত অভিযান পরিচালনা করে থাকে আইনশৃঙ্খলা বাহিনী। আটক জেলেদের বিরুদ্ধে মৎস্য সুরক্ষা আইন অনুযায়ী আইনি ব্যবস্থা গ্রহণ করা হয়ে থাকে।",
-        "details_en": "Fishing is banned during the designated breeding season every year to ensure the safe reproduction of mother hilsa. Law enforcement agencies conduct regular drives in river areas to enforce this ban strictly. Legal actions are routinely taken against detained violators under fisheries protection laws."
-      }
-    },
-    {
-      "story_id": "a3debec6-fbd7-5e76-bac1-bc80cb6222bc",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T00:52:49+00:00",
+      "published_at": "2026-10-22T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8946,
+      "rank_score": 0.9654,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975974/%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%80-%E0%A6%B2%E0%A7%87%E0%A6%96%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%A4%E0%A7%87",
-          "title": "সঙ্গী আপনার সম্পর্কে চ্যাটজিপিটিতে কী লেখে, জানতে চান?",
-          "snippet": "সঙ্গী আপনার সম্পর্কে চ্যাটজিপিটিতে কী লেখে, জানতে চান?"
+          "url": "https://www.banglatribune.com/sport/football/975944/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%B0%E2%80%8C%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%AB",
+          "title": "বিশ্বের সেরা অ্যাকাডেমির র‌্যাঙ্কিংয়ে ব্রাজিলের ৫ ক্লাব, আর্জেন্টিনার কয়টি?",
+          "snippet": "বিশ্বের সেরা অ্যাকাডেমির র‌্যাঙ্কিংয়ে ব্রাজিলের ৫ ক্লাব, আর্জেন্টিনার কয়টি?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সম্পর্ক নিয়ে চ্যাটজিপিটিতে সঙ্গীর কথোপকথন জানার প্রবণতা বাড়াচ্ছে গোপনীয়তার ঝুঁকি",
-        "title_en": "Curiosity About Partners ChatGPT Prompts Raises Privacy Concerns",
-        "summary_bn": "সঙ্গী চ্যাটজিপিটিতে সম্পর্ক নিয়ে কী লিখছেন তা জানার আগ্রহ ব্যক্তিগত গোপনীয়তা এবং বিশ্বাসের ওপর নেতিবাচক প্রভাব ফেলছে।",
-        "summary_en": "The growing curiosity about what partners write regarding relationships on ChatGPT poses significant privacy and trust concerns.",
+        "title_bn": "বিশ্বসেরা অ্যাকাডেমির তালিকায় ব্রাজিলের পাঁচ ও আর্জেন্টিনার আট ক্লাব স্থান পেয়েছে",
+        "title_en": "Five Brazilian and eight Argentine clubs feature in global academy rankings",
+        "summary_bn": "সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত বিশ্বসেরা অ্যাকাডেমির তালিকায় লাতিন আমেরিকার দুই দেশের তেরোটি ক্লাব জায়গা করে নিয়েছে।",
+        "summary_en": "Thirteen clubs from Latin America secured spots in the CIES Football Observatory global academy rankings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "governance_law"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:52:49+00:00",
-        "lead_bn": "সঙ্গী চ্যাটজিপিটিতে সম্পর্ক নিয়ে কী লিখছেন তা জানার আগ্রহ ব্যক্তিগত গোপনীয়তা এবং বিশ্বাসের ওপর নেতিবাচক প্রভাব ফেলছে।",
-        "lead_en": "The growing curiosity about what partners write regarding relationships on ChatGPT poses significant privacy and trust concerns.",
+        "published_at": "2026-10-22T02:00:00+00:00",
+        "lead_bn": "সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত বিশ্বসেরা অ্যাকাডেমির তালিকায় লাতিন আমেরিকার দুই দেশের তেরোটি ক্লাব জায়গা করে নিয়েছে।",
+        "lead_en": "Thirteen clubs from Latin America secured spots in the CIES Football Observatory global academy rankings.",
         "bullets_bn": [
-          "প্রযুক্তি ব্যবহারের ফলে ব্যক্তিগত সম্পর্কের গোপনীয়তা এবং বিশ্বাসের ক্ষেত্রগুলো নতুন চ্যালেঞ্জের মুখে পড়ছে।",
-          "বিশেষজ্ঞরা বলছেন মানুষ এখন সম্পর্ক সংক্রান্ত ব্যক্তিগত সমস্যা ও পরামর্শের জন্য কৃত্রিম বুদ্ধিমত্তার ওপর নির্ভর করছে।",
-          "অত্যাধুনিক চ্যাটবট ব্যবহারের এই প্রবণতা পারস্পরিক খোলামেলা আলোচনার জায়গা সংকুচিত করে দিচ্ছে।"
+          "বিশ্বের সেরা ত্রিশটি ফুটবল অ্যাকাডেমির তালিকায় জায়গা পেয়েছে ব্রাজিলের পাঁচটি ক্লাব।",
+          "তালিকায় সংখ্যার দিক থেকে এগিয়ে থেকে আটটি ক্লাব জায়গা করে নিয়েছে আর্জেন্টিনা।",
+          "বিশ্বসেরা ফুটবল অ্যাকাডেমি হিসেবে শীর্ষস্থান অর্জন করেছে পর্তুগালের বেনফিকা ক্লাব।"
         ],
         "bullets_en": [
-          "The use of technology creates new challenges for personal relationship privacy and trust.",
-          "Experts note that people increasingly rely on artificial intelligence for relationship advice and personal issues.",
-          "This trend of utilizing advanced chatbots narrows the scope for open mutual communication."
+          "Five Brazilian clubs secured positions within the top thirty global football academies.",
+          "Argentina leads in total representation with eight clubs featured in the rankings.",
+          "Portuguese club Benfica claimed the top position as the world's best football academy."
         ],
-        "impact_bn": "প্রযুক্তির অতিরিক্ত ব্যবহারের ফলে দম্পতিদের পারস্পরিক যোগাযোগ এবং মানসিক দূরত্ব তৈরি হওয়ার আশঙ্কা রয়েছে।",
-        "impact_en": "Excessive reliance on technology may create emotional distance and communication gaps between couples.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা ও চ্যাটবটের জনপ্রিয়তা বৃদ্ধির সঙ্গে সঙ্গে মানুষ দৈনন্দিন জীবনের নানা ব্যক্তিগত সমস্যার সমাধান খুঁজতে শুরু করেছে চ্যাটজিপিটির মতো প্ল্যাটফর্মে। এই প্রবণতা মানুষের ব্যক্তিগত গোপনীয়তার ধারণাকে বদলে দিচ্ছে এবং সম্পর্কের অভ্যন্তরীণ সমীকরণে নতুন প্রভাব ফেলছে।",
-        "details_en": "With the growing popularity of artificial intelligence and chatbots, people increasingly turn to platforms like ChatGPT to solve personal life problems. This trend is reshaping notions of personal privacy and impacting internal relationship dynamics."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সুইজারল্যান্ডভিত্তিক গবেষণা প্রতিষ্ঠান সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত নতুন প্রতিবেদনে বিশ্বের শীর্ষস্থানীয় ফুটবল অ্যাকাডেমিগুলোর মান ও কার্যকারিতা মূল্যায়ন করা হয়েছে। এই র&zwj;্যাঙ্কিংয়ে বিশ্বমানের ফুটবলার তৈরিতে লাতিন আমেরিকার দুই চিরপ্রতিদ্বন্দ্বী দেশ ব্রাজিল ও আর্জেন্টিনার দীর্ঘদিনের আধিপত্য এবং ধারাবাহিক সাফল্য স্পষ্টভাবে ফুটে উঠেছে।",
+        "details_en": "The newly published report by the Switzerland-based research institution CIES Football Observatory evaluates the quality and output of leading global football academies. The rankings clearly highlight the enduring dominance and sustained success of traditional Latin American powerhouses Brazil and Argentina in producing world-class football talent."
       }
     },
     {
-      "story_id": "813f36c4-a9b7-5cfd-b1dc-39679a6fc342",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T00:50:35+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8748,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170721",
-          "title": "সাইবার সিকিউরিটিসহ অন্যান্য আইন সংশোধনের চেষ্টা করছি: তথ্যমন্ত্রী",
-          "snippet": "সাইবার সিকিউরিটিসহ অন্যান্য আইন সংশোধনের চেষ্টা করছি: তথ্যমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাইবার সিকিউরিটি আইনসহ অন্যান্য আইন সংশোধনের উদ্যোগ নিয়েছে সরকার",
-        "title_en": "Government is Working to Amend Cyber Security and Related Laws",
-        "summary_bn": "তথ্য ও সম্প্রচারমন্ত্রী জানিয়েছেন যে সরকার স্টেকহোল্ডার ও গণমাধ্যম মালিকদের সঙ্গে আলোচনা করে সাইবার সিকিউরিটি আইন সংশোধনের উদ্যোগ নিয়েছে।",
-        "summary_en": "The Information and Broadcasting Minister stated that the government is initiating amendments to the cyber security act following stakeholder consultations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:50:35+00:00",
-        "lead_bn": "তথ্য ও সম্প্রচারমন্ত্রী জানিয়েছেন যে সরকার স্টেকহোল্ডার ও গণমাধ্যম মালিকদের সঙ্গে আলোচনা করে সাইবার সিকিউরিটি আইন সংশোধনের উদ্যোগ নিয়েছে।",
-        "lead_en": "The Information and Broadcasting Minister stated that the government is initiating amendments to the cyber security act following stakeholder consultations.",
-        "bullets_bn": [
-          "সাইবার সিকিউরিটি আইনসহ বেশ কিছু আইন সংশোধনের জন্য কাজ করছে তথ্য ও সম্প্রচার মন্ত্রণালয়।",
-          "আইন সংশোধনের প্রক্রিয়াটি নিয়ে বিভিন্ন সময় গণমাধ্যমের মালিক ও সংশ্লিষ্ট স্টেকহোল্ডারদের সঙ্গে আলোচনা করা হয়েছে।",
-          "সংশ্লিষ্ট অংশীজনদের মতামতের ভিত্তিতে শিগগিরই সংশোধিত আইনের রূপরেখা চূড়ান্ত করা হবে।"
-        ],
-        "bullets_en": [
-          "The Ministry of Information and Broadcasting is working to amend the cyber security act and other laws.",
-          "Discussions have been held at various times with media owners and relevant stakeholders regarding the law amendments.",
-          "The revised framework of the laws will be finalized soon based on feedback from the stakeholders."
-        ],
-        "impact_bn": "আইনটি সংশোধিত হলে ডিজিটাল মাধ্যমে কাজ করা নাগরিক ও গণমাধ্যমকর্মীদের বাকস্বাধীনতা ও নিরাপত্তা নিশ্চিত হবে।",
-        "impact_en": "Amendments to the law will ensure freedom of speech and security for citizens and media workers operating in digital spaces.",
-        "details_bn": "গত কয়েক বছর ধরে সাইবার নিরাপত্তা আইন নিয়ে সাংবাদিক, মানবাধিকার কর্মী ও প্রযুক্তিবিদরা বিভিন্ন মাধ্যমে আপত্তি ও সংশোধনের দাবি জানিয়ে আসছিলেন। বর্তমান অন্তর্বর্তীকালীন সরকার ডিজিটাল অধিকার রক্ষা এবং মতপ্রকাশের স্বাধীনতা নিশ্চিত করার লক্ষ্যে বিভিন্ন নিবর্তনমূলক আইন পর্যালোচনা ও যুগোপযোগী করার প্রক্রিয়া শুরু করেছে।",
-        "details_en": "Over the past few years, journalists, human rights activists, and technologists have raised objections and demanded amendments to the cyber security legislation. The current interim administration has initiated the process of reviewing and updating restrictive laws to protect digital rights and ensure freedom of expression."
-      }
-    },
-    {
-      "story_id": "51e87a0c-c698-59f8-b37d-8674dfd73440",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T00:27:41+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7089,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1170720",
-          "title": "ব্যাংক খাতে উদ্বৃত্ত তারল্য ৪ লাখ ৪২ হাজার কোটি টাকা",
-          "snippet": "ব্যাংক খাতে উদ্বৃত্ত তারল্য ৪ লাখ ৪২ হাজার কোটি টাকা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্য বেড়ে দাঁড়িয়েছে ৪ লাখ ৪২ হাজার কোটি টাকা",
-        "title_en": "Surplus liquidity in Bangladesh banking sector rises to Tk 4.42 lakh crore",
-        "summary_bn": "বেসরকারি খাতে ঋণের চাহিদা হ্রাস পাওয়ায় দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্যের পরিমাণ বেড়ে ৪ লাখ ৪২ হাজার কোটি টাকায় পৌঁছেছে।",
-        "summary_en": "Surplus liquidity in the country's banking sector has risen to Tk 4.42 lakh crore due to low credit demand in the private sector.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:27:41+00:00",
-        "lead_bn": "বেসরকারি খাতে ঋণের চাহিদা হ্রাস পাওয়ায় দেশের ব্যাংক খাতে উদ্বৃত্ত তারল্যের পরিমাণ বেড়ে ৪ লাখ ৪২ হাজার কোটি টাকায় পৌঁছেছে।",
-        "lead_en": "Surplus liquidity in the country's banking sector has risen to Tk 4.42 lakh crore due to low credit demand in the private sector.",
-        "bullets_bn": [
-          "বেসরকারি খাতে ঋণের চাহিদা না বাড়ায় ব্যাংকগুলো আমানতের তুলনায় অনেক কম অর্থ ঋণ হিসেবে বিতরণ করছে।",
-          "ব্যাংক খাতে অলস অর্থের পরিমাণ ৪ লাখ ৪২ হাজার কোটি টাকায় উন্নীত হয়েছে।",
-          "অলস অর্থ বেড়ে যাওয়ায় ব্যাংকিং খাতে ঋণ ও আমানতের অনুপাত ক্রমান্বয়ে হ্রাস পাচ্ছে।"
-        ],
-        "bullets_en": [
-          "Banks are distributing significantly less loan money compared to deposits due to stagnant private sector credit demand.",
-          "The volume of idle money in the banking sector has reached Tk 4.42 lakh crore.",
-          "The credit-to-deposit ratio is steadily declining as idle funds continue to accumulate."
-        ],
-        "impact_bn": "অলস তারল্য বেড়ে যাওয়ায় ব্যাংকগুলোর আয় কমে যাওয়ার পাশাপাশি আমানতকারীদের সুদের হার হ্রাসের ঝুঁকি তৈরি হয়েছে।",
-        "impact_en": "Increased idle liquidity reduces bank earnings and poses risks of lowering interest rates for depositors.",
-        "details_bn": "সাম্প্রতিক সময়ে অর্থনৈতিক মন্থরতা ও বিনিয়োগ স্থবিরতার কারণে বেসরকারি খাতে ঋণপ্রবাহ উল্লেখযোগ্য হারে কমে গেছে। এর ফলে বাণিজ্যিক ব্যাংকগুলোতে আমানত জমা হলেও তার বিপরীতে নতুন ঋণ ছাড় হচ্ছে না। ব্যাংকগুলোর হাতে অলস টাকা জমে থাকায় তাদের পরিচালন ব্যয় মেটানো এবং সঠিক মুনাফা অর্জন কঠিন হয়ে পড়ছে, যা সার্বিক মুদ্রাবাজারের ওপর প্রভাব ফেলছে।",
-        "details_en": "Private sector credit growth has slowed significantly in recent times due to economic sluggishness and stagnant investment. Consequently, commercial banks continue to accumulate deposits without deploying adequate loans. The heavy accumulation of idle funds increases operating costs and affects profitability across the banking industry."
-      }
-    },
-    {
-      "story_id": "4df313fd-f369-5081-b9a3-7ff06ac7a608",
+      "story_id": "b35bb332-98cc-509c-84d3-87e2de0fc610",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -235,23 +69,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T00:13:06+00:00",
+      "published_at": "2026-10-22T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6299,
+      "rank_score": 0.9654,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/975973/%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B2%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%97%E0%A6%BF%E0%A6%82-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%9F-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0",
-          "title": "হাম্বলব্র্যাগিং: বিনয় দেখাতে গিয়ে উল্টো বিরক্তির কারণ হচ্ছেন না তো?",
-          "snippet": "হাম্বলব্র্যাগিং: বিনয় দেখাতে গিয়ে উল্টো বিরক্তির কারণ হচ্ছেন না তো?"
+          "url": "https://www.banglatribune.com/law-and-crime/975930/%E0%A6%8F%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9D%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%8B-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A7%87",
+          "title": "এক যুগে সড়কে ঝরেছে লাখো প্রাণ, মৃত্যুর মিছিল থামবে কবে",
+          "snippet": "এক যুগে সড়কে ঝরেছে লাখো প্রাণ, মৃত্যুর মিছিল থামবে কবে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সামাজিক যোগাযোগমাধ্যমে হাম্বলব্র্যাগিং প্রবণতা বিরক্তি তৈরি করছে",
-        "title_en": "Humblebragging on social media creates annoyance among users",
-        "summary_bn": "বিনয়ের আড়ালে সাফল্য বা ব্যস্ততা প্রচারের মনস্তাত্ত্বিক প্রবণতা হাম্বলব্র্যাগিং সামাজিক যোগাযোগমাধ্যমে বিরক্তির কারণ হচ্ছে।",
-        "summary_en": "The psychological habit of humblebragging, masking self-praise as modesty or complaints, often causes annoyance on social media.",
+        "title_bn": "দেশের সড়কে এক দশকে লক্ষাধিক প্রাণহানি, থামছে না দুর্ঘটনা",
+        "title_en": "Over One Hundred Thousand Lives Lost on Roads in a Decade",
+        "summary_bn": "দেশের সড়কগুলোতে প্রতিনিয়ত ঝরছে বহু প্রাণ, যার ফলে বাড়ছে দুর্ঘটনা ও হতাহতের সংখ্যা।",
+        "summary_en": "Persistent road accidents continue to claim numerous lives across the country, highlighting an ongoing safety crisis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -259,79 +93,241 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:13:06+00:00",
-        "lead_bn": "বিনয়ের আড়ালে সাফল্য বা ব্যস্ততা প্রচারের মনস্তাত্ত্বিক প্রবণতা হাম্বলব্র্যাগিং সামাজিক যোগাযোগমাধ্যমে বিরক্তির কারণ হচ্ছে।",
-        "lead_en": "The psychological habit of humblebragging, masking self-praise as modesty or complaints, often causes annoyance on social media.",
+        "published_at": "2026-10-22T02:00:00+00:00",
+        "lead_bn": "দেশের সড়কগুলোতে প্রতিনিয়ত ঝরছে বহু প্রাণ, যার ফলে বাড়ছে দুর্ঘটনা ও হতাহতের সংখ্যা।",
+        "lead_en": "Persistent road accidents continue to claim numerous lives across the country, highlighting an ongoing safety crisis.",
         "bullets_bn": [
-          "ব্যস্ততা বা কাজের চাপের কথা বলে নিজেদের সাফল্য ও যোগ্যতার পরোক্ষ প্রচার চালানো হয়।",
-          "মনোবিজ্ঞানীদের মতে সরাসরি প্রশংসা এড়াতে মানুষ বিনয়ের মুখোশ ব্যবহার করে আত্মপ্রচার চালায়।",
-          "এ ধরনের আচরণ অনলাইন যোগাযোগে আস্থার সংকট ও বিরক্তি বাড়াতে পারে।"
+          "সড়ক যোগাযোগ ব্যবস্থার আধুনিকায়ন ও নতুন গাড়ির সংখ্যা বাড়লেও শৃঙ্খলা ফিরছে না।",
+          "দুর্ঘটনার শিকারদের মধ্যে রয়েছে শিক্ষার্থী, শ্রমজীবী, নারী ও শিশুসহ নানা বয়সী মানুষ।",
+          "নিরাপদ সড়ক আন্দোলন হলেও পরিস্থিতির কাঙ্ক্ষিত কোনো উন্নতি লক্ষ্য করা যায়নি।"
         ],
         "bullets_en": [
-          "Users indirectly promote their achievements and capabilities by complaining about heavy workloads.",
-          "Psychologists note that people use this behavioral trait to mask self-praise behind false modesty.",
-          "Such online behavior often damages authentic relationships and increases digital fatigue."
+          "Road fatalities continue despite investments in transport infrastructure and the addition of new vehicles.",
+          "Victims of frequent road crashes include students, working people, elderly, women, and children.",
+          "Major safety movements have previously shaken the nation but failed to enforce lasting discipline."
         ],
-        "impact_bn": "সামাজিক মাধ্যমে এ ধরনের আচরণ পারস্পরিক যোগাযোগে বিরক্তি তৈরি করে এবং মানসিক দূরত্ব বাড়ায়।",
-        "impact_en": "This behavior creates interpersonal friction and increases psychological fatigue in digital interactions.",
-        "details_bn": "হাম্বলব্র্যাগিং এমন একটি মনস্তাত্ত্বিক প্রবণতা যেখানে ব্যক্তি নিজের সাফল্য, ব্যস্ততা বা যোগ্যতাকে সরাসরি প্রকাশ না করে অভিযোগ বা বিনয়ের ছলে তুলে ধরেন। সামাজিক যোগাযোগমাধ্যমের বিস্তৃতির সাথে সাথে এই ধরনের আত্মপ্রচারের প্রবণতা বেড়েছে। বিশেষজ্ঞরা বলছেন, এই আচরণ প্রায়ই কাঙ্ক্ষিত ফল না দিয়ে উল্টো সহকর্মী ও পরিচিতজনদের মধ্যে বিরক্তি ও আস্থার সংকট তৈরি করে।",
-        "details_en": "Humblebragging is a psychological phenomenon where individuals disguise self-praise, success, or status behind complaints or false modesty. With the expansion of social networks, this disguised self-promotion has become increasingly common. Experts suggest that rather than earning admiration, this behavior frequently backfires by breeding annoyance and reducing authenticity among peers."
+        "impact_bn": "সড়ক দুর্ঘটনা সাধারণ মানুষ ও শিক্ষার্থীদের জীবনকে প্রতিনিয়ত চরম ঝুঁকির মধ্যে ফেলছে।",
+        "impact_en": "Continuous road hazards place ordinary citizens and students at severe daily risk.",
+        "details_bn": "দেশের সড়ক ব্যবস্থার উন্নয়নে ব্যাপক বিনিয়োগ ও নতুন বিলাসবহুল গাড়ি নামলেও সড়কে শৃঙ্খলা ফেরেনি। প্রতিদিন ঝরছে তাজা প্রাণ। শিকার হচ্ছেন শিক্ষার্থী, শ্রমজীবী, নারী ও শিশুসহ নানা শ্রেণি-পেশার মানুষ। ২০১৮ সালে দুই শিক্ষার্থীর মৃত্যুকে কেন্দ্র করে গড়ে ওঠা নিরাপদ সড়ক আন্দোলন পুরো দেশকে নাড়া দিলেও পরিস্থিতির স্থায়ী কোনো পরিবর্তন আসেনি।",
+        "details_en": "Despite major investments in transport infrastructure and the introduction of luxury vehicles, road discipline remains absent. Daily crashes continue to kill students, workers, women, and children. Although the historic student road safety protests in 2018 shook the entire nation, systemic reforms and lasting discipline have yet to be established."
       }
     },
     {
-      "story_id": "a5c41ce6-c8da-5a1d-8ed5-4ce782b5abdf",
-      "primary_category": "economy_business",
+      "story_id": "9cde5e0f-672b-5065-aacb-438a7a6e3b6b",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "society_education"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T00:10:00+00:00",
+      "published_at": "2026-10-22T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6151,
+      "rank_score": 0.9654,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1170719",
-          "title": "ইসলামী ব্যাংকিংয়ে মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ",
-          "snippet": "ইসলামী ব্যাংকিংয়ে মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/entertainment/bollywood/975925/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%85%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AD",
+          "title": "চিকিৎসকের পরামর্শে বিশ্রাম, ক্ষমা চাইলেন অমিতাভ",
+          "snippet": "চিকিৎসকের পরামর্শে বিশ্রাম, ক্ষমা চাইলেন অমিতাভ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসলামী ব্যাংকিংয়ের মোবাইল আর্থিক সেবা খাতে লেনদেন কমেছে ২০ শতাংশ",
-        "title_en": "Islamic Banking MFS Sector Sees 20 Percent Drop in Transactions",
-        "summary_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
-        "summary_en": "Transactions and account numbers in the mobile financial services sector of Islamic banks have significantly decreased according to Bangladesh Bank data.",
+        "title_bn": "চিকিৎসকদের পরামর্শে কুন বনেগা ক্রোড়পতি শুটিং থেকে বিরতি নিচ্ছেন অমিতাভ বচ্চন",
+        "title_en": "Amitabh Bachchan takes break from shooting on medical advice",
+        "summary_bn": "হাঁটুতে চোট পাওয়ার পর চিকিৎসকদের পরামর্শে কয়েক দিন বিশ্রামে থাকার কথা জানিয়েছেন বলিউড মেগাস্টার অমিতাভ বচ্চন।",
+        "summary_en": "Bollywood megastar Amitabh Bachchan announced he is taking a few days off following medical advice after knee injury.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T00:10:00+00:00",
-        "lead_bn": "বাংলাদেশ ব্যাংকের তথ্য অনুযায়ী ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
-        "lead_en": "Transactions and account numbers in the mobile financial services sector of Islamic banks have significantly decreased according to Bangladesh Bank data.",
+        "published_at": "2026-10-22T02:00:00+00:00",
+        "lead_bn": "হাঁটুতে চোট পাওয়ার পর চিকিৎসকদের পরামর্শে কয়েক দিন বিশ্রামে থাকার কথা জানিয়েছেন বলিউড মেগাস্টার অমিতাভ বচ্চন।",
+        "lead_en": "Bollywood megastar Amitabh Bachchan announced he is taking a few days off following medical advice after knee injury.",
         "bullets_bn": [
-          "ইসলামী ব্যাংকগুলোর মোবাইল আর্থিক সেবা খাতে লেনদেন এবং হিসাবের সংখ্যা উভয়ই কমে গেছে",
-          "বাংলাদেশ ব্যাংকের প্রকাশিত তথ্য অনুযায়ী আগের মাসের তুলনায় লেনদেন কমেছে প্রায় ২০ শতাংশ",
-          "কেন্দ্রীয় ব্যাংক এই খাতের লেনদেন হ্রাসের সুনির্দিষ্ট কারণ খতিয়ে দেখছে"
+          "শারীরিক অসুস্থতার কারণে শুটিং থেকে সাময়িক বিরতি নিয়েছেন অমিতাভ বচ্চন।",
+          "সামাজিক যোগাযোগমাধ্যম এক্সে দেওয়া পোস্টে বিশ্রামে থাকার কথা নিশ্চিত করেছেন এই অভিনেতা।",
+          "চিকিৎসকদের পরামর্শ অনুযায়ী পরবর্তী শুটিংয়ের সময় নির্ধারণ করা হবে।"
         ],
         "bullets_en": [
-          "Both transactions and the number of accounts dropped in the mobile financial services sector of Islamic banks",
-          "Transaction volume decreased by nearly 20 percent compared to the previous month according to Bangladesh Bank data",
-          "The central bank is reviewing the specific reasons behind this decline in sector transactions"
+          "Amitabh Bachchan has taken a temporary break from shooting due to physical illness.",
+          "The actor confirmed his need for rest through a post on social media platform X.",
+          "Future shooting schedules will be determined according to medical advice."
         ],
-        "impact_bn": "গ্রাহকদের দৈনন্দিন ডিজিটাল লেনদেন এবং আর্থিক সেবা ব্যবহারে কিছুটা ধীরগতি লক্ষ্য করা যেতে পারে।",
-        "impact_en": "Ordinary consumers may experience minor shifts in their daily digital transactions and financial service usage.",
-        "details_bn": "ইসলামী ব্যাংকগুলোর মাধ্যমে পরিচালিত মোবাইল আর্থিক সেবা বাংলাদেশে দ্রুত জনপ্রিয়তা লাভ করেছিল। তবে সাম্প্রতিক সময়ে গ্রাহক হিসাব এবং সামগ্রিক লেনদেনের পরিমাণ কমে যাওয়ায় খাতটির প্রবৃদ্ধির গতি কিছুটা মন্থর হয়েছে। বাংলাদেশ ব্যাংক এই খাতের ওপর নিয়মিত নজরদারি বজায় রাখছে এবং প্রয়োজনীয় নীতিমালা পর্যালোচনা করছে।",
-        "details_en": "Mobile financial services operated through Islamic banks gained rapid popularity in Bangladesh. However, recent declines in customer accounts and overall transaction volumes have slowed the sector growth. Bangladesh Bank maintains regular surveillance over the sector and reviews necessary policies."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "চলতি মাসের শুরুতে জনপ্রিয় কুইজ শো কৌন বনেগা ক্রোড়পতির শুটিংয়ের সময় হাঁটুতে চোট পান বলিউড অভিনেতা অমিতাভ বচ্চন। এই চোটের কারণে তাকে চিকিৎসকদের পরামর্শ নিতে হয় এবং তারা তাকে কয়েক দিন সম্পূর্ণ বিশ্রামে থাকার নির্দেশ দেন। সামাজিক যোগাযোগমাধ্যমে বিষয়টি প্রকাশ করার পর তার ভক্তদের মধ্যে উৎকণ্ঠা তৈরি হয়েছে।",
+        "details_en": "Earlier this month, veteran Bollywood actor Amitabh Bachchan injured his knee during the shooting of the popular quiz show Kaun Banega Crorepati. Following the injury, he consulted physicians who advised him to take complete rest for a few days. The revelation on social media has sparked concern among his global fanbase."
+      }
+    },
+    {
+      "story_id": "2c1d40fa-acb6-59d8-9336-292183c64d97",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/UCL-6.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-22T01:20:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6664,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/champions-league-bayern-munich-arsenal-real-madrid-leipzig-manchester-united-como-lead-sports/",
+          "title": "নাটকীয় রাতে চেনারূপেই রিয়াল, বায়ার্ন-আর্সেনাল ড্র, ইউনাইটেডকে চমকে কোমোর রূপকথা",
+          "snippet": "নাটকীয় রাতে চেনারূপেই রিয়াল, বায়ার্ন-আর্সেনাল ড্র, ইউনাইটেডকে চমকে কোমোর রূপকথা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চ্যাম্পিয়ন্স লিগে কোমো ও রিয়াল মাদ্রিদের জয় এবং বায়ার্ন-আর্সেনাল ড্র",
+        "title_en": "Real Madrid and Como Secure Victories While Bayern and Arsenal Draw",
+        "summary_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ম্যানচেস্টার ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে কোমো এবং আরবি লেইপজিগকে হারিয়েছে রিয়াল মাদ্রিদ।",
+        "summary_en": "Como secured a major win against Manchester United and Real Madrid defeated RB Leipzig in the UEFA Champions League.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T01:20:07+00:00",
+        "lead_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ম্যানচেস্টার ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে কোমো এবং আরবি লেইপজিগকে হারিয়েছে রিয়াল মাদ্রিদ।",
+        "lead_en": "Como secured a major win against Manchester United and Real Madrid defeated RB Leipzig in the UEFA Champions League.",
+        "bullets_bn": [
+          "কোমো চার এক গোলে ম্যানচেস্টার ইউনাইটেডকে এবং রিয়াল মাদ্রিদ চার এক গোলে লেইপজিগকে পরাজিত করেছে।",
+          "নিকো পাজ জোড়া গোল করেন এবং বায়ার্ন মিউজিক ও আর্সেনালের ম্যাচটি দুই দুই গোলে ড্র হয়।",
+          "চ্যাম্পিয়ন্স লিগ লিগ পর্বে তিন ম্যাচে তিন জয়ে পিএসজি পয়েন্ট তালিকার শীর্ষে অবস্থান করছে।"
+        ],
+        "bullets_en": [
+          "Como defeated Manchester United four to one and Real Madrid secured a four to one victory over Leipzig.",
+          "Nico Paz scored two goals while Bayern Munich and Arsenal played to a two to two draw.",
+          "PSG currently leads the Champions League league stage standings with three consecutive wins from three matches."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "উয়েফা চ্যাম্পিয়ন্স লিগের নতুন ফরম্যাটের লিগ পর্বে ইউরোপের শীর্ষ ক্লাবগুলো একে অপরের মুখোমুখি হচ্ছে। টুর্নামেন্টের শুরুতে ঐতিহ্যবাহী জায়ান্ট দলগুলোর পাশাপাশি নবাগত ক্লাবগুলোও নিজেদের পারফরম্যান্সের মাধ্যমে চমক সৃষ্টি করছে। বায়ার্ন মিউনিখ ও রিয়াল মাদ্রিদের মতো দলগুলো নকআউট পর্বে নিজেদের অবস্থান শক্ত করতে লড়াই চালিয়ে যাচ্ছে।",
+        "details_en": "European top clubs are facing each other in the league phase of the new UEFA Champions League format. Alongside traditional giants, newcomer clubs are creating surprises with strong performances. Teams like Bayern Munich and Real Madrid continue their campaign to secure their positions for the knockout stages."
+      }
+    },
+    {
+      "story_id": "a6caf263-2079-5113-928f-3c0ef219bd2b",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T01:19:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6604,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/975975/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE",
+          "title": "বঙ্গোপসাগরে লঘুচাপ, কেমন থাকবে আজকের আবহাওয়া",
+          "snippet": "বঙ্গোপসাগরে লঘুচাপ, কেমন থাকবে আজকের আবহাওয়া"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চট্টগ্রামের কিছু অঞ্চলে বৃষ্টির সম্ভাবনা সহ দেশের আবহাওয়া প্রধানত শুষ্ক থাকবে",
+        "title_en": "Weather to Remain Mostly Dry Across Country With Rain Chances in Chattogram",
+        "summary_bn": "আবহাওয়া অধিদফতর জানিয়েছে যে দেশের অধিকাংশ এলাকায় আবহাওয়া প্রধানত শুষ্ক থাকলেও চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টির সম্ভাবনা রয়েছে।",
+        "summary_en": "The Meteorological Department stated that weather will remain mostly dry nationwide with chances of rain in parts of Chattogram division.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T01:19:00+00:00",
+        "lead_bn": "আবহাওয়া অধিদফতর জানিয়েছে যে দেশের অধিকাংশ এলাকায় আবহাওয়া প্রধানত শুষ্ক থাকলেও চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টির সম্ভাবনা রয়েছে।",
+        "lead_en": "The Meteorological Department stated that weather will remain mostly dry nationwide with chances of rain in parts of Chattogram division.",
+        "bullets_bn": [
+          "দেশের অধিকাংশ এলাকার আবহাওয়া প্রধানত শুষ্ক থাকার পূর্বাভাস দিয়েছে আবহাওয়া অফিস।",
+          "চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টি বা বজ্রসহ বৃষ্টির সম্ভাবনা রয়েছে।",
+          "সারাদেশে দিন ও রাতের তাপমাত্রা প্রায় অপরিবর্তিত থাকতে পারে।"
+        ],
+        "bullets_en": [
+          "The meteorological office forecasts mostly dry weather across most regions of the country.",
+          "Rain or thundershowers are likely to occur at a few places in Chattogram division.",
+          "Day and night temperatures are expected to remain nearly unchanged across the country."
+        ],
+        "impact_bn": "চট্টগ্রাম অঞ্চলের বাসিন্দাদের বৃষ্টির কারণে সাময়িক যাতায়াত সমস্যায় পড়তে হতে পারে।",
+        "impact_en": "Residents in the Chattogram region may face temporary commuting disruptions due to potential rainfall.",
+        "details_bn": "বঙ্গোপসাগরে সৃষ্টি হওয়া লঘুচাপ ও মৌসুমী বায়ুর প্রভাবে দেশের আবহাওয়া পরিস্থিতিতে এই পরিবর্তন দেখা গেছে। আবহাওয়া অধিদপ্তর নিয়মিত দেশের বিভিন্ন অঞ্চলের তাপমাত্রা ও বৃষ্টির পূর্বাভাস প্রকাশ করে থাকে যাতে সাধারণ মানুষ ও সংশ্লিষ্ট খাতগুলো আগাম প্রস্তুতি নিতে পারে।",
+        "details_en": "This weather pattern is influenced by low-pressure formations and seasonal winds over the Bay of Bengal. The Met Office regularly issues regional forecasts to help citizens and relevant sectors prepare for sudden weather shifts."
+      }
+    },
+    {
+      "story_id": "c25c8197-c98b-5557-8cc1-3f0c5303ae85",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F7zxn9jz2%2FWhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2Foj267urd%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5717,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/adhgh6sv0a",
+          "title": "আজ টিভিতে যা দেখবেন (২২ অক্টোবর ২০২৬)",
+          "snippet": "আজ টিভিতে যা দেখবেন (২২ অক্টোবর ২০২৬)"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টিভিতে র ক্রিকেট ও ফুটবল ম্যাচের তালিকা",
+        "title_en": "Television Schedule for Today Featuring Cricket and Football Matches",
+        "summary_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য বিভিন্ন আন্তর্জাতিক সিরিজ ও ইউরোপীয় ক্লাব ফুটবল ম্যাচের পূর্ণাঙ্গ টিভি সূচি প্রকাশ করা হয়েছে।",
+        "summary_en": "A comprehensive television schedule featuring various international series and European club football matches has been released.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T01:00:00+00:00",
+        "lead_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য বিভিন্ন আন্তর্জাতিক সিরিজ ও ইউরোপীয় ক্লাব ফুটবল ম্যাচের পূর্ণাঙ্গ টিভি সূচি প্রকাশ করা হয়েছে।",
+        "lead_en": "A comprehensive television schedule featuring various international series and European club football matches has been released.",
+        "bullets_bn": [
+          "নিউজিল্যান্ড ও ভারতের মধ্যকার টি-টুয়েন্টি সিরিজ শুরু হচ্ছে সনি স্পোর্টস চ্যানেলে",
+          "পাকিস্তান ত্রিদেশীয় টি-টুয়েন্টি সিরিজে মুখোমুখি হচ্ছে ইংল্যান্ড ও শ্রীলঙ্কা",
+          "রাতে ইউরোপা লিগের একাধিক ম্যাচ সনি স্পোর্টস ও টি স্পোর্টসে সম্প্রচারিত হবে"
+        ],
+        "bullets_en": [
+          "The T20 series between New Zealand and India begins on Sony Sports channels",
+          "England and Sri Lanka face each other in the Pakistan T20 triangular series",
+          "Multiple Europa League matches will be broadcast at night on Sony Sports and T Sports"
+        ],
+        "impact_bn": "ক্রীড়াপ্রেমীরা নির্ধারিত সময়ে ঘরে বসেই বিভিন্ন আন্তর্জাতিক ক্রিকেট ও ফুটবল ম্যাচ উপভোগ করতে পারবেন।",
+        "impact_en": "Sports enthusiasts can enjoy various international cricket and football matches from the comfort of their homes.",
+        "details_bn": "বিভিন্ন আন্তর্জাতিক ও ক্লাব টুর্নামেন্টের ব্যস্ত সূচির অংশ হিসেবে প্রতিদিন বিশ্বের বিভিন্ন প্রান্তে একাধিক ক্রিকেট ও ফুটবল ম্যাচ অনুষ্ঠিত হয়। ক্রীড়া সম্প্রচারকারী চ্যানেলগুলো দর্শকদের জন্য এই ম্যাচগুলোর সরাসরি সম্প্রচার নিশ্চিত করে থাকে, যা বিশ্বজুড়ে দর্শকদের বিনোদনের অন্যতম প্রধান মাধ্যম।",
+        "details_en": "As part of the busy schedule of various international and club tournaments, multiple cricket and football matches take place daily across the globe. Sports broadcasting channels ensure live coverage of these matches for viewers, serving as a primary source of entertainment worldwide."
       }
     }
   ]
