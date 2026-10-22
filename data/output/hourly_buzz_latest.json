@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:00:46.475442",
+  "updated_at": "2026-10-22T09:00:47.014332",
   "total_stories": 6,
   "stories": [
     {
@@ -17,7 +17,7 @@
       "published_at": "2026-10-22T07:45:56+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 3.1365,
+      "rank_score": 1.9435,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -27,10 +27,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে কুরুচিপূর্ণ মন্তব্যের অভিযোগে একজন আটক",
-        "title_en": "One arrested for making offensive comments on PM Rajshahi visit photos",
-        "summary_bn": "প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামের এক ব্যক্তিকে আটক করেছে নিরাপত্তা বাহিনী।",
-        "summary_en": "Security forces arrested a man named Abu Bakkar Siddique for making derogatory social media comments regarding the Prime Minister Rajshahi visit.",
+        "title_bn": "প্রধানমন্ত্রীর ছবি নিয়ে ফেসবুকে বাজে মন্তব্য করায় যুবক আটক",
+        "title_en": "Youth arrested for offensive comments on PM social media post",
+        "summary_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবি নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে এক ব্যক্তিকে আটক করেছে আইনপ্রয়োগকারী সংস্থা।",
+        "summary_en": "Law enforcement agencies arrested a man for making derogatory comments on social media regarding the Prime Minister visit to Rajshahi.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -38,26 +38,136 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T07:45:56+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামের এক ব্যক্তিকে আটক করেছে নিরাপত্তা বাহিনী।",
-        "lead_en": "Security forces arrested a man named Abu Bakkar Siddique for making derogatory social media comments regarding the Prime Minister Rajshahi visit.",
+        "lead_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবি নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে এক ব্যক্তিকে আটক করেছে আইনপ্রয়োগকারী সংস্থা।",
+        "lead_en": "Law enforcement agencies arrested a man for making derogatory comments on social media regarding the Prime Minister visit to Rajshahi.",
         "bullets_bn": [
-          "বিশেষায়িত বাহিনী এসআরবি-৫ রাজশাহী পবা থানা এলাকা থেকে আবু বক্কর সিদ্দিককে আটক করে।",
-          "স্বরাষ্ট্র মন্ত্রণালয় এক সংবাদ বিজ্ঞপ্তিতে আটকের বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে।",
-          "আটকের পর আইনগত ব্যবস্থা গ্রহণের জন্য তাকে সংশ্লিষ্ট থানায় হস্তান্তর করা হয়।"
+          "সামাজিক যোগাযোগমাধ্যমে প্রধানমন্ত্রীর ছবি সম্বলিত পোস্টে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামক এক ব্যক্তিকে আটক করা হয়।",
+          "বিশেষ বাহিনী এসআরবি-৫ এর একটি দল রাজশাহীর পবা থানাধীন রামচন্দ্রপুর এলাকা থেকে অভিযান পরিচালনা করে অভিযুক্তকে গ্রেপ্তার করে।",
+          "অভিযুক্ত ব্যক্তির বিরুদ্ধে যথাযথ আইনি প্রক্রিয়া অনুসরণ করে পরবর্তী আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
         ],
         "bullets_en": [
-          "Special response battalion SRB-5 arrested Abu Bakkar Siddique from the Paba upazila area in Rajshahi.",
-          "The Ministry of Home Affairs officially confirmed the arrest through a press release.",
-          "He was handed over to the local police station for subsequent legal proceedings."
+          "Law enforcement detained a man named Abu Bakkar Siddique for posting derogatory remarks on a social media post featuring the Prime Minister.",
+          "A specialized response battalion team conducted a raid in the Ramchandrapur area of Paba upazila in Rajshahi to apprehend the suspect.",
+          "Appropriate legal procedures are underway to take strict penal action against the detained individual under existing laws."
         ],
-        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে দায়িত্বশীল আচরণ এবং সাইবার অপরাধ রোধে কঠোর পদক্ষেপের বার্তা দিচ্ছে এই ঘটনা।",
-        "impact_en": "This incident reinforces strict enforcement against cyberbullying and irresponsible social media behavior.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরসংক্রান্ত ছবি সামাজিক যোগাযোগমাধ্যমে পোস্ট করার পর সেখানে কুরুচিপূর্ণ মন্তব্য করা হয়। ঘটনার পর আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও বিভিন্ন গোয়েন্দা ইউনিট যৌথভাবে প্রযুক্তির সহায়তায় মন্তব্যকারীর পরিচয় শনাক্ত করে। পরবর্তীতে অভিযান চালিয়ে তাকে আটক করা হয়। ডিজিটাল প্ল্যাটফর্মে সাইবার অপরাধ ও মানহানিকর কনটেন্ট মনিটরিংয়ের অংশ হিসেবে এ ধরনের পদক্ষেপ গ্রহণ করা হচ্ছে।",
-        "details_en": "Offensive comments appeared on social media posts featuring the Prime Minister Rajshahi visit. Law enforcement and intelligence agencies identified the user through digital tracking. Subsequently, a special response team conducted a raid and apprehended the individual. Such actions are part of ongoing efforts to monitor cybercrimes and defamatory content across digital platforms."
+        "impact_bn": "অনলাইন প্ল্যাটফর্মে দায়িত্বশীল আচরণ এবং আপত্তিকর মন্তব্য ছড়ানোর বিরুদ্ধে কঠোর আইনি পদক্ষেপের বার্তা দেয় এই ঘটনা।",
+        "impact_en": "This incident reinforces online accountability and signals strict legal consequences for posting offensive content on digital platforms.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরসংক্রান্ত একটি ছবির নিচে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য প্রকাশের পর বিষয়টি আইনশৃঙ্খলা বাহিনীর নজরে আসে। পরবর্তীতে গোয়েন্দা সংস্থা ও পুলিশের যৌথ প্রচেষ্টায় অভিযুক্ত ব্যক্তির পরিচয় শনাক্ত করা হয়। পরিচয় নিশ্চিত হওয়ার পর বিশেষ বাহিনী এসআরবি-৫ অভিযান চালিয়ে তাকে আটক করে।",
+        "details_en": "The incident came to the attention of law enforcement after derogatory comments were published under a social media post regarding the Prime Minister visit to Rajshahi. Intelligence agencies and police subsequently identified the individual through a coordinated digital investigation, leading to a targeted raid by the specialized response battalion that resulted in his arrest."
       }
     },
     {
-      "story_id": "a8cdf57e-8c2a-51ef-9ff0-f10541c0b5ee",
+      "story_id": "8dabcb0a-19f5-527c-b71b-2c2df8284507",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T08:59:30+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9181,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976042/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
+          "title": "সৌদির বিমানবন্দরে হুথিদের হামলায় ভারতীয়সহ নিহত ২, আহত ৮",
+          "snippet": "সৌদির বিমানবন্দরে হুথিদের হামলায় ভারতীয়সহ নিহত ২, আহত ৮"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদির বিমানবন্দরে হুথি হামলায় ভারতীয়সহ নিহত দুই",
+        "title_en": "Two Killed Including Indian in Houthi Airport Attack in Saudi Arabia",
+        "summary_bn": "সৌদির কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় একজন ভারতীয়সহ দুইজন নিহত এবং আটজন আহত হয়েছেন।",
+        "summary_en": "A Houthi attack on Saudi Arabia's King Fahd International Airport left two dead, including an Indian national, and eight injured.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T08:59:30+00:00",
+        "lead_bn": "সৌদির কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় একজন ভারতীয়সহ দুইজন নিহত এবং আটজন আহত হয়েছেন।",
+        "lead_en": "A Houthi attack on Saudi Arabia's King Fahd International Airport left two dead, including an Indian national, and eight injured.",
+        "bullets_bn": [
+          "সৌদির দাম্মাম শহরের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীরা ড্রোন বা ক্ষেপণাস্ত্র হামলা চালায়।",
+          "হামলায় একজন সৌদি নাগরিক ও একজন ভারতীয় বাসিন্দা নিহত হন এবং আটজন আহত হন।",
+          "সৌদি বেসামরিক বিমান চলাচল কর্তৃপক্ষ ঘটনার সত্যতা নিশ্চিত করে নিরাপত্তা জোরদার করেছে।"
+        ],
+        "bullets_en": [
+          "Houthi rebels carried out an attack on the King Fahd International Airport in Dammam, Saudi Arabia.",
+          "The strike resulted in the deaths of one Saudi national and one Indian resident, injuring eight others.",
+          "The General Authority of Civil Aviation confirmed the casualties and tightened security measures."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী কর্মী ও তাদের পরিবারগুলোর মধ্যে নিরাপত্তা উদ্বেগ বৃদ্ধি পেয়েছে।",
+        "impact_en": "The incident heightens security concerns among expatriate workers and their families in the Middle East.",
+        "details_bn": "সৌদি আরবের পূর্বাঞ্চলের দাম্মাম শহরে অবস্থিত কিং ফাহাদ আন্তর্জাতিক বিমানবন্দর কৌশলগতভাবে অত্যন্ত গুরুত্বপূর্ণ। ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সৌদির তেল ও বেসামরিক অবকাঠামো লক্ষ্য করে আন্তঃসীমান্ত হামলা চালিয়ে আসছে। আঞ্চলিক সংঘাতের অংশ হিসেবে বেসামরিক লোকজনকে লক্ষ্য করে এ ধরনের হামলা আন্তর্জাতিক আইনের লঙ্ঘন এবং মধ্যপ্রাচ্যের নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলছে।",
+        "details_en": "The King Fahd International Airport in Dammam is a crucial strategic infrastructure in eastern Saudi Arabia. Houthi rebels in Yemen have frequently targeted Saudi energy and civilian installations amid the ongoing regional conflict. Such attacks on civilian areas violate international norms and further complicate the security landscape in the Middle East."
+      }
+    },
+    {
+      "story_id": "47d9d29b-3ac6-5759-96fe-de25a198e5c9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T08:54:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8223,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1170854",
+          "title": "মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের",
+          "snippet": "মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অবৈধ জাহাজ চলাচলে সহায়তা অব্যাহত রাখলে মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের",
+        "title_en": "Iran Warns of Attacks on US Bases if Illegal Shipping Support Continues",
+        "summary_bn": "মধ্যপ্রাচ্যে অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্র সহায়তা অব্যাহত রাখলে সেখানকার মার্কিন সামরিক ঘাঁটিগুলো সংঘাতে জড়াবে বলে হুঁশিয়ারি দিয়েছে ইরান।",
+        "summary_en": "Iran warned that continued US support for illegal shipping in the Middle East will bring American military bases into the conflict.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T08:54:37+00:00",
+        "lead_bn": "মধ্যপ্রাচ্যে অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্র সহায়তা অব্যাহত রাখলে সেখানকার মার্কিন সামরিক ঘাঁটিগুলো সংঘাতে জড়াবে বলে হুঁশিয়ারি দিয়েছে ইরান।",
+        "lead_en": "Iran warned that continued US support for illegal shipping in the Middle East will bring American military bases into the conflict.",
+        "bullets_bn": [
+          "মধ্যপ্রাচ্যে মার্কিন সামরিক ঘাঁটিগুলো সংঘাতের আওতায় আসবে বলে তেহরান সরাসরি হুঁশিয়ারি উচ্চারণ করেছে।",
+          "অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্রের চলমান সহায়তা এই আঞ্চলিক উত্তেজনার মূল কারণ হিসেবে উল্লেখ করা হয়েছে।",
+          "পরিস্থিতি নিয়ন্ত্রণহীন হলে মধ্যপ্রাচ্যজুড়ে সংঘাত ছড়িয়ে পড়ার আশঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "Tehran issued a direct warning that US military bases in the Middle East will fall under potential conflict.",
+          "Ongoing US support for illegal shipping was cited as the primary catalyst for regional escalation.",
+          "Unchecked escalation risks widening the military conflict across the entire Middle East region."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যের চলমান উত্তেজনার কারণে বৈশ্বিক জ্বালানি সরবরাহ ও মধ্যপ্রাচ্যে প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে উদ্বেগ বাড়ছে।",
+        "impact_en": "Ongoing Middle East tensions heighten concerns over global fuel supplies and the security of expatriate workers.",
+        "details_bn": "মধ্যপ্রাচ্যের জলসীমায় বাণিজ্যিক জাহাজ চলাচল ও আঞ্চলিক নিরাপত্তা নিয়ে দীর্ঘ দিন ধরে যুক্তরাষ্ট্র ও ইরানের মধ্যে ভূ-রাজনৈতিক উত্তেজনা বিরাজ করছে। লোহিত সাগর ও সংলগ্ন জলপথে হুথি বিদ্রোহীদের তৎপরতা এবং পশ্চিমা দেশগুলোর সামরিক উপস্থিতির কারণে সংঘাতের মাত্রা ক্রমেই বাড়ছে। এই পরিস্থিতিতে তেহরান মার্কিন সামরিক নীতির তীব্র সমালোচনা করে কঠোর হুঁশিয়ারি দিয়েছে।",
+        "details_en": "Geopolitical tensions between the United States and Iran have persisted over commercial shipping and regional security in Middle Eastern waters. Escalating Houthi rebel activities in the Red Sea and surrounding waterways, coupled with Western military deployment, have intensified conflict risks. Amidst this backdrop, Tehran issued sharp warnings criticizing ongoing US military posture."
+      }
+    },
+    {
+      "story_id": "e55cf1b2-c1a4-59ab-b68b-2174f00e6ea2",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -68,50 +178,104 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T07:29:25+00:00",
+      "published_at": "2026-10-22T08:47:09+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.9796,
+      "importance_score": 4.8,
+      "rank_score": 1.6913,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976028/%E0%A6%A8%E0%A7%8C%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "নৌপথে মোংলায় পৌঁছেছেন প্রধানমন্ত্রী",
-          "snippet": "নৌপথে মোংলায় পৌঁছেছেন প্রধানমন্ত্রী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1170848",
+          "title": "জমি নিয়ে দুই পক্ষের বিরোধে আটকে গেল প্রতিমা বিসর্জন",
+          "snippet": "জমি নিয়ে দুই পক্ষের বিরোধে আটকে গেল প্রতিমা বিসর্জন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নৌপথে বাগেরহাটের মোংলায় নৌঘাঁটিতে পৌঁছালেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman arrives at Mongla naval base by waterway",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জলপথে বাগেরহাটের মোংলা নৌঘাঁটিতে পৌঁছে সুন্দরবনসহ সংশ্লিষ্ট উপকূলীয় এলাকা পরিদর্শন করেন।",
-        "summary_en": "Prime Minister Tarique Rahman arrived at the Mongla naval base in Bagerhat via waterway to visit the Sundarbans and coastal areas.",
+        "title_bn": "রংপুরে জমি সংক্রান্ত বিরোধের জেরে প্রতিমা বিসর্জন স্থগিত",
+        "title_en": "Pratima Immersion Halted in Rangpur Due to Land Dispute",
+        "summary_bn": "সনাতন ধর্মাবলম্বীদের দুই পক্ষের জমি নিয়ে বিরোধের জেরে রংপুরে দশমীর রাতে প্রতিমা বিসর্জন কার্যক্রম স্থগিত করা হয়।",
+        "summary_en": "Pratima immersion was halted in Rangpur on Dashami night due to a land dispute between two factions of the Hindu community.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:29:25+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জলপথে বাগেরহাটের মোংলা নৌঘাঁটিতে পৌঁছে সুন্দরবনসহ সংশ্লিষ্ট উপকূলীয় এলাকা পরিদর্শন করেন।",
-        "lead_en": "Prime Minister Tarique Rahman arrived at the Mongla naval base in Bagerhat via waterway to visit the Sundarbans and coastal areas.",
+        "published_at": "2026-10-22T08:47:09+00:00",
+        "lead_bn": "সনাতন ধর্মাবলম্বীদের দুই পক্ষের জমি নিয়ে বিরোধের জেরে রংপুরে দশমীর রাতে প্রতিমা বিসর্জন কার্যক্রম স্থগিত করা হয়।",
+        "lead_en": "Pratima immersion was halted in Rangpur on Dashami night due to a land dispute between two factions of the Hindu community.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান সড়কপথ ও হেলিকপ্টারের পর জলপথে মোংলা নৌঘাঁটির জেটিতে পৌঁছান।",
-          "সফরসূচির অংশ হিসেবে তিনি হিরণ পয়েন্টসহ সুন্দরবনের বিভিন্ন গুরুত্বপূর্ণ এলাকা পরিদর্শন করেন।",
-          "এই সফরের মাধ্যমে উপকূলীয় অঞ্চলের নিরাপত্তা ব্যবস্থা ও পরিবেশগত পরিস্থিতি পর্যবেক্ষণ করা হবে।"
+          "জমি নিয়ে বিরোধের জেরে প্রতিমা বিসর্জন কার্যক্রম বন্ধ থাকে।",
+          "দশমীর দিন গভীর রাত পর্যন্ত দুপক্ষের মধ্যে তুমুল বাগবিতণ্ডা ও সড়ক অবরোধ চলে।",
+          "পরিস্থিতি নিয়ন্ত্রণে আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও স্থানীয় প্রশাসন হস্তক্ষেপ করে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman reached the jetty of the Mongla naval base using waterways.",
-          "He inspected key areas including Hiron Point as part of his scheduled tour of the Sundarbans.",
-          "The visit aims to monitor coastal security measures and environmental conditions in the region."
+          "Pratima immersion activities were halted due to an ongoing land dispute.",
+          "Intense arguments and road blockades continued deep into Dashami night between the two factions.",
+          "Law enforcement agencies and local administration intervened to bring the situation under control."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমান নিজ বাসভবন থেকে সড়কপথে তেজগাঁও বিমানবন্দরে গিয়ে সেখান থেকে হেলিকপ্টারে সুন্দরবনের উদ্দেশে যাত্রা করেন। পরে তিনি জলপথে মোংলা নৌঘাঁটিতে পৌঁছান। এই সফরের মাধ্যমে সুন্দরবনের জীববৈচিত্র্য রক্ষা এবং উপকূলীয় এলাকার সার্বিক নিরাপত্তা পরিস্থিতি সরাসরি পরিদর্শন করা হয়।",
-        "details_en": "Prime Minister Tarique Rahman traveled from his residence to Tejgaon airport by road and subsequently took a helicopter towards the Sundarbans before arriving at the Mongla naval base via waterway. This visit involves inspecting the biodiversity preservation efforts of the Sundarbans and the overall security situation in the coastal belt."
+        "impact_bn": "ধর্মীয় উৎসব ব্যাহত হওয়ায় স্থানীয় সনাতন ধর্মাবলম্বী সম্প্রদায়ের মাঝে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The disruption of a major religious festival has caused concern among the local Hindu community.",
+        "details_bn": "রংপুরে সনাতন ধর্মাবলম্বীদের দুই পক্ষের দীর্ঘদিনের জমি সংক্রান্ত বিরোধের জেরে দুর্গাপূজার বিজয়া দশমীর রাতে প্রতিমা বিসর্জন অনুষ্ঠান আটকে যায়। গভীর রাত পর্যন্ত উভয় পক্ষের তর্ক-বিতর্ক ও সড়ক অবরোধের কারণে সাধারণ মানুষের চলাচল বিঘ্নিত হয়। স্থানীয় প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হস্তক্ষেপে পরিস্থিতি শান্ত করার চেষ্টা চলছে।",
+        "details_en": "The immersion of idols during Durga Puja was halted in Rangpur due to a long-standing land dispute between two factions of the Hindu community. Protracted arguments and road blockades continued deep into Dashami night, disrupting public movement. Local administration and law enforcement agencies are working to restore order and resolve the dispute."
       }
     },
     {
-      "story_id": "877a2682-20a2-515d-95e2-79abf4891767",
+      "story_id": "1c125f40-43ea-5b94-9f07-d0bc65209ca1",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#SavarCrime",
+        "#MadrasaIncident"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/Savar%20Map.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-22T08:45:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6643,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/madrasa-headteachers-wife-arrested-over-alleged-rape-13-year-old-savar-4304841",
+          "title": "Madrasa headteacher's wife arrested over alleged rape of 13-year-old in Savar",
+          "snippet": "Madrasa headteacher's wife arrested over alleged rape of 13-year-old in Savar"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেপ্তার",
+        "title_en": "Madrasa Headteacher's Wife Arrested Over Alleged Rape of Student in Savar",
+        "summary_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহায়তা ও হুমকি দেওয়ার অভিযোগে এক মাদরাসা প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested a madrasa headteacher's wife in Savar over allegations that she assisted in raping a 13-year-old student.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T08:45:29+00:00",
+        "lead_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহায়তা ও হুমকি দেওয়ার অভিযোগে এক মাদরাসা প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested a madrasa headteacher's wife in Savar over allegations that she assisted in raping a 13-year-old student.",
+        "bullets_bn": [
+          "সাভারে মাদরাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী মোসাম্মৎ তোহফাকে গ্রেপ্তার করেছে পুলিশ।",
+          "অভিযুক্ত শিক্ষক মাওলানা মো. আব বারী ছাত্রীকে ধর্ষণ করেন এবং তার স্ত্রী ভুক্তভোগীকে হুমকি দেন।",
+          "ভুক্তভোগীর দাদার করা মামলার পর প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করা হলেও মূল অভিযুক্ত পলাতক রয়েছেন।"
+        ],
+        "bullets_en": [
+          "Police arrested Mosammat Tohfa, wife of a madrasa headteacher, over allegations of assisting in the rape of a student in Savar.",
+          "The victim's grandfather filed a case at Savar Model Police Station following the incident.",
+          "The prime accused madrasa headteacher remains absconding while law enforcement efforts continue."
+        ],
+        "impact_bn": "educational institutions-এ শিক্ষার্থী নিরাপত্তা ও শিক্ষকদের জবাবদিহিতা নিশ্চিত করার দাবি জোরালো হচ্ছে।",
+        "impact_en": "This incident heightens safety concerns for students in residential educational institutions and urges stricter oversight.",
+        "details_bn": "ঘটনার সূত্রপাত ঘটে যখন সাভারের ছোট কালিয়াকৈরে একটি নারী মাদরাসার প্রধান শিক্ষক মাওলানা মো. আব বারী ১৩ বছরের এক ছাত্রীকে নিজ কার্যালয়ের পাশের কক্ষে ধর্ষণ করেন। এ সময় তার স্ত্রী মোসাম্মৎ তোহফা ছাত্রীকে চুপ থাকার জন্য হুমকি দেন। পরে মাদরাসার এক রাঁধুনির সহায়তায় ভুক্তভোগী বাড়িতে ফিরে তার পরিবারকে বিষয়টি জানায়। ঘটনা জানাজানি হলে স্থানীয় জনতা ক্ষুব্ধ হয়ে মাদরাসাটিতে ভাঙচুর চালায়। পুলিশ অতিরিক্ত ফোর্স পাঠিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং প্রধান শিক্ষকের স্ত্রীকে আটক করে।",
+        "details_en": "The incident unfolded at a women's madrasa in Chhoto Kaliakoir, Savar, where the headteacher allegedly assaulted a 13-year-old student while his wife assisted by threatening the victim. Following the disclosure, local residents gathered and vandalized the madrasa premises. Police intervened to bring the situation under control, leading to the arrest of the headteacher's wife, while a manhunt is underway for the fugitive prime suspect."
+      }
+    },
+    {
+      "story_id": "d431019e-9429-5fbc-8c30-21b2d829a671",
       "primary_category": "tech_innovation",
       "interest_categories": [
         "tech_innovation"
@@ -120,210 +284,48 @@
         "#Technology",
         "#Innovation"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-16%2Flb608s8c%2FCyber%20attack.reuters.png?rect=0%2C0%2C616%2C323&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T07:41:41+00:00",
+      "published_at": "2026-10-22T08:42:53+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6068,
+      "rank_score": 1.6237,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/wintoepbaa",
-          "title": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ, বাংলাদেশের প্রস্তুতি কতটা, ঝুঁকি কী",
-          "snippet": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ, বাংলাদেশের প্রস্তুতি কতটা, ঝুঁকি কী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1170845",
+          "title": "বিশ্বজুড়ে সাইবার হামলার শঙ্কা, দেশে দেশে সতর্কতা",
+          "snippet": "বিশ্বজুড়ে সাইবার হামলার শঙ্কা, দেশে দেশে সতর্কতা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে সাইবার হামলার আশঙ্কা",
-        "title_en": "Global Cyber Attack Fears Rise After Critical Security Flaws Found in PHP",
-        "summary_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে ওয়েবসাইট বন্ধ রাখা হয়েছে এবং বাংলাদেশের ডিজিটাল নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "summary_en": "Websites worldwide are shut down after critical security flaws in the PHP programming language raise cyber attack fears in Bangladesh and globally.",
+        "title_bn": "পিএইচপির গুরুতর নিরাপত্তা ত্রুটি নিয়ে বিশ্বজুড়ে সতর্কতা জারি",
+        "title_en": "Global Security Alert Issued Over Critical PHP Vulnerabilities",
+        "summary_bn": "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে এবং প্রযুক্তি প্রতিষ্ঠানগুলো হামলা ঠেকাতে কাজ করছে।",
+        "summary_en": "Global alerts have been issued following the identification of two critical PHP security vulnerabilities as tech giants work to prevent attacks.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:41:41+00:00",
-        "lead_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে ওয়েবসাইট বন্ধ রাখা হয়েছে এবং বাংলাদেশের ডিজিটাল নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "lead_en": "Websites worldwide are shut down after critical security flaws in the PHP programming language raise cyber attack fears in Bangladesh and globally.",
+        "published_at": "2026-10-22T08:42:53+00:00",
+        "lead_bn": "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে এবং প্রযুক্তি প্রতিষ্ঠানগুলো হামলা ঠেকাতে কাজ করছে।",
+        "lead_en": "Global alerts have been issued following the identification of two critical PHP security vulnerabilities as tech giants work to prevent attacks.",
         "bullets_bn": [
-          "পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে সরকারি ও বাণিজ্যিক প্রতিষ্ঠান ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
-          "নিরাপত্তা বিশ্লেষকদের মতে, এই ত্রুটির ফলে পাসওয়ার্ড ছাড়াই দূর থেকে সার্ভারে অননুমোদিত নির্দেশনা কার্যকর করার সুযোগ তৈরি হতে পারে।",
-          "ঝুঁকি এড়াতে ব্যবহৃত পিএইচপির সংস্করণ হালনাগাদ করা এবং সার্ভারের মূল সুরক্ষাব্যবস্থা জোরদার করার পরামর্শ দিয়েছেন বিশেষজ্ঞরা।"
+          "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি নিয়ে বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে",
+          "ঝুঁকি শনাক্ত ও সম্ভাব্য হামলা ঠেকাতে গুগল ওপেনএআই এবং অ্যামাজন কাজ করছে",
+          "সফটওয়্যার সিস্টেমে সাইবার হামলা প্রতিরোধের সুরক্ষামূলক ব্যবস্থা জোরদার করা হচ্ছে"
         ],
         "bullets_en": [
-          "Government and commercial institutions worldwide temporarily closed websites after two critical security flaws were detected in PHP.",
-          "Experts warn these vulnerabilities could allow attackers to execute unauthorized commands on servers remotely without passwords.",
-          "Authorities advise updating PHP versions and strengthening core server security measures to mitigate potential cyber threats."
+          "Global warnings have been issued regarding two critical security flaws in PHP",
+          "Tech giants including Google OpenAI and Amazon are actively working to mitigate risks",
+          "Defensive measures are being reinforced across software systems to prevent potential cyber attacks"
         ],
-        "impact_bn": "অনলাইন সেবা ও সরকারি-বেসরকারি ওয়েবসাইটের ব্যবহারকারীরা ডেটা চুরি এবং সাইবার হামলার ঝুঁকির মুখে পড়েছেন।",
-        "impact_en": "Users of online services and government-private websites face potential data breaches and service disruptions from cyber threats.",
-        "details_bn": "পিএইচপি একটি বহুল ব্যবহৃত সার্ভার-সাইড প্রোগ্রামিং ভাষা, যা ওয়ার্ডপ্রেসসহ বিভিন্ন ওয়েবসাইটের পেছনের কাজ পরিচালনা করে। আন্তর্জাতিক সাইবার নিরাপত্তাপ্রতিষ্ঠান উইজের প্রতিবেদনে পিএইচপির মেমোরি ব্যবস্থাপনায় দুটি গুরুতর ত্রুটি ধরা পড়ে। এই দুর্বলতার সুযোগ নিয়ে হামলাকারীরা সার্ভারের ফাইল ও ডেটাবেজ ঝুঁকিতে ফেলতে পারে। ফলে শুধু লগইন বা পাসওয়ার্ড শক্তিশালী না করে মূল সার্ভার সফটওয়্যার হালনাগাদ করার তাগিদ দিয়েছেন বিশেষজ্ঞরা।",
-        "details_en": "PHP is a widely used server-side programming language powering websites and content management systems like WordPress. Cybersecurity firm Wiz identified two severe memory management flaws in PHP. Attackers could exploit these vulnerabilities to compromise server files and databases, necessitating server-level software updates rather than just strong passwords."
-      }
-    },
-    {
-      "story_id": "5e153f57-94e9-5c28-87bb-de7159822430",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T07:55:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9209,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170829",
-          "title": "মদের মধ্যে ঘুমের ওষুধ, যেভাবে স্বামীকে হত্যার পরিকল্পনা সাজান নারী",
-          "snippet": "মদের মধ্যে ঘুমের ওষুধ, যেভাবে স্বামীকে হত্যার পরিকল্পনা সাজান নারী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পরকীয়া প্রেমিকের সাথে মিলে স্বামীকে হত্যার পরিকল্পনা করেন নারী",
-        "title_en": "Woman Conspires With Paramour to Murder Husband in Dhaka",
-        "summary_bn": "পরকীয়া সম্পর্ক বজায় রাখতে প্রেমিককে সাথে নিয়ে স্বামীকে ঘুমের ওষুধ খাইয়ে হত্যার পরিকল্পনা করেন এক নারী।",
-        "summary_en": "A woman conspired with her illicit partner to murder her husband by mixing sleeping pills in his food.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:55:34+00:00",
-        "lead_bn": "পরকীয়া সম্পর্ক বজায় রাখতে প্রেমিককে সাথে নিয়ে স্বামীকে ঘুমের ওষুধ খাইয়ে হত্যার পরিকল্পনা করেন এক নারী।",
-        "lead_en": "A woman conspired with her illicit partner to murder her husband by mixing sleeping pills in his food.",
-        "bullets_bn": [
-          "ছেলের নজরে পড়ায় পরকীয়া প্রেমিকের সাথে বাসায় দেখা করা বন্ধ করেন উর্মিলা",
-          "গোপনে মেলামেশা অব্যাহত রেখে স্বামীকে হত্যার ভয়ংকর পরিকল্পনা চূড়ান্ত করেন তারা",
-          "পরিকল্পনা বাস্তবায়নের আগেই বিষয়টি জানাজানি হলে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়"
-        ],
-        "bullets_en": [
-          "Urmila stopped meeting her paramour at home after her son discovered their illicit affair.",
-          "The couple continued secret meetings and hatched a dangerous plot to eliminate the husband.",
-          "Legal proceedings were initiated after the sinister murder plot came to light before execution."
-        ],
-        "impact_bn": "পারিবারিক সম্পর্কের অবক্ষয় ও অপরাধপ্রবণতা সমাজে গভীর নিরাপত্তাহীনতা ও আস্থার সংকট তৈরি করছে।",
-        "impact_en": "The erosion of familial values and rising domestic conspiracies create deep social insecurity and loss of trust.",
-        "details_bn": "সাম্প্রতিক সময়ে পারিবারিক সম্পর্কের টানাপোড়েন ও অবৈধ সম্পর্কের জেরে অপরাধমূলক কর্মকাণ্ডের প্রবণতা উদ্বেগজনক হারে বাড়ছে। পরকীয়ার বলি হয়ে অহরহ ঘটছে বিভিন্ন নৃশংস হত্যাকাণ্ড। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর তথ্যমতে, পারিবারিক সচেতনতা ও নৈতিক শিক্ষার অভাবেই মূলত এ ধরণের অপরাধপ্রবণতা দিন দিন বৃদ্ধি পাচ্ছে, যা সুস্থ সমাজ বিনির্মাণের পথে বড় অন্তরায়।",
-        "details_en": "Criminal activities stemming from strained family ties and illicit relationships have been on an alarming rise. Various brutal murders frequently occur as a consequence of extramarital affairs. According to law enforcement agencies, the lack of familial awareness and moral education primarily fuels such crimes, posing a major obstacle to building a healthy society."
-      }
-    },
-    {
-      "story_id": "83631c31-3162-56ab-b921-634631c23341",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-09%2Fb91fe164-93c3-4885-98d7-7887aac24cba%2F7.JPG?rect=0%2C76%2C5760%2C3024&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T07:47:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8463,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/chakri/chakri-news/afydp4eatb",
-          "title": "৭ ব্যাংক ও ২ আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ",
-          "snippet": "৭ ব্যাংক ও ২ আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাত ব্যাংক ও দুই আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ",
-        "title_en": "Admit Cards Published for Officer Posts in Seven Banks and Two Financial Institutions",
-        "summary_bn": "ব্যাংকার্স সিলেকশন কমিটির অধীনে সাতটি ব্যাংক ও দুটি আর্থিক প্রতিষ্ঠানের অফিসার পদে নিয়োগ পরীক্ষার প্রবেশপত্র প্রকাশিত হয়েছে।",
-        "summary_en": "Admit cards for recruitment exams for officer positions in seven banks and two financial institutions have been published under the Bankers Selection Committee.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:47:09+00:00",
-        "lead_bn": "ব্যাংকার্স সিলেকশন কমিটির অধীনে সাতটি ব্যাংক ও দুটি আর্থিক প্রতিষ্ঠানের অফিসার পদে নিয়োগ পরীক্ষার প্রবেশপত্র প্রকাশিত হয়েছে।",
-        "lead_en": "Admit cards for recruitment exams for officer positions in seven banks and two financial institutions have been published under the Bankers Selection Committee.",
-        "bullets_bn": [
-          "প্রাথমিকভাবে যোগ্য প্রার্থীরা বাংলাদেশ ব্যাংকের নিয়োগসংক্রান্ত ওয়েবসাইট থেকে প্রবেশপত্র সংগ্রহ করতে পারবেন।",
-          "প্রার্থীদের নির্ধারিত ২৬ অক্টোবরের মধ্যে ওয়েবসাইট থেকে প্রবেশপত্র ডাউনলোড সম্পন্ন করতে হবে।",
-          "পরীক্ষার সুনির্দিষ্ট তারিখ, সময় ও কেন্দ্র পরবর্তীতে ওয়েবসাইট ও জাতীয় পত্রিকার বিজ্ঞপ্তিতে জানানো হবে।"
-        ],
-        "bullets_en": [
-          "Eligible candidates can collect their admit cards from the recruitment website of Bangladesh Bank.",
-          "Candidates must complete downloading their admit cards by the specified deadline of October 26.",
-          "The exact date, time, and venue of the exam will be announced later through website notices and national dailies."
-        ],
-        "impact_bn": "চাকরিপ্রার্থীরা নির্ধারিত সময়ের মধ্যে প্রবেশপত্র ডাউনলোড করে নিয়োগ পরীক্ষায় অংশ নেওয়ার সুযোগ পাবেন।",
-        "impact_en": "Job seekers can download admit cards within the deadline to participate in the recruitment examinations.",
-        "details_bn": "বাংলাদেশ ব্যাংকের ব্যাংকার্স সিলেকশন কমিটির মাধ্যমে রাষ্ট্রায়ত্ত ও বিশেষায়িত বিভিন্ন ব্যাংক এবং আর্থিক প্রতিষ্ঠানে নিয়মিতভাবে কর্মকর্তা নিয়োগ করা হয়। এর অংশ হিসেবে নির্দিষ্ট পদগুলোর জন্য যোগ্য প্রার্থীদের প্রাথমিক বাছাই সম্পন্ন করে প্রবেশপত্র প্রকাশ করা হয়েছে। নির্ধারিত সময়ের মধ্যে প্রার্থীরা ওয়েবসাইট থেকে প্রবেশপত্র সংগ্রহ না করলে পরীক্ষায় অংশগ্রহণের সুযোগ হারাবেন।",
-        "details_en": "Regular recruitment of officers in state-owned and specialized banks and financial institutions is conducted through the Bankers Selection Committee of Bangladesh Bank. As part of this process, admit cards have been published after completing the preliminary screening of eligible candidates for the designated positions. Candidates who fail to collect their admit cards from the website within the stipulated timeframe will lose the opportunity to participate in the exam."
-      }
-    },
-    {
-      "story_id": "e7b68b97-c90e-5f4f-87c5-436997fdd85d",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T07:46:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8415,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1170826",
-          "title": "উচ্চতর গ্রেড বৈষম্য নিরসনে মাধ্যমিক শিক্ষকদের ২ মাসের আলটিমেটাম",
-          "snippet": "উচ্চতর গ্রেড বৈষম্য নিরসনে মাধ্যমিক শিক্ষকদের ২ মাসের আলটিমেটাম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মাধ্যমিক শিক্ষকদের উচ্চতর গ্রেড বৈষম্য নিরসনে দুই মাসের আলটিমেটাম",
-        "title_en": "Secondary Teachers Issue Two Month Ultimatum to Remove Grade Disparities",
-        "summary_bn": "এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড প্রাপ্তির বৈষম্য দূর করতে সংশ্লিষ্ট কর্তৃপক্ষকে দুই মাসের সময়সীমা বেঁধে দিয়েছেন।",
-        "summary_en": "MPO-enrolled secondary school assistant teachers have given authorities a two-month deadline to resolve disparities in obtaining higher grades.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:46:34+00:00",
-        "lead_bn": "এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড প্রাপ্তির বৈষম্য দূর করতে সংশ্লিষ্ট কর্তৃপক্ষকে দুই মাসের সময়সীমা বেঁধে দিয়েছেন।",
-        "lead_en": "MPO-enrolled secondary school assistant teachers have given authorities a two-month deadline to resolve disparities in obtaining higher grades.",
-        "bullets_bn": [
-          "মাধ্যমিক বিদ্যালয়ের এমপিওভুক্ত সহকারী শিক্ষকরা উচ্চতর গ্রেড বৈষম্য নিরসনের দাবিতে আলটিমেটাম দিয়েছেন।",
-          "শিক্ষক নেতারা সংশ্লিষ্ট মন্ত্রণালয় ও অধিদপ্তরকে আগামী দুই মাসের মধ্যে কার্যকর পদক্ষেপ গ্রহণের আহ্বান জানিয়েছেন।",
-          "নির্দিষ্ট সময়ের মধ্যে দাবি না মানলে শিক্ষকরা কঠোর আন্দোলন কর্মসূচি ঘোষণা করবেন।"
-        ],
-        "bullets_en": [
-          "MPO-enrolled secondary school assistant teachers issued an ultimatum demanding the elimination of higher grade disparities.",
-          "Teacher leaders urged the relevant ministry and directorate to take effective action within the next two months.",
-          "Teachers will announce stricter protest programs if the demands are not met within the stipulated time."
-        ],
-        "impact_bn": "এই দাবি বাস্তবায়িত হলে দেশের মাধ্যমিক বিদ্যালয়ের হাজার হাজার শিক্ষকের দীর্ঘদিনের আর্থিক বৈষম্য দূর হবে।",
-        "impact_en": "Implementation of these demands will resolve long-standing financial disparities for thousands of secondary school teachers nationwide.",
-        "details_bn": "দীর্ঘদিন ধরে এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড পাওয়া নিয়ে নানা জটিলতা ও বৈষম্যের শিকার হয়ে আসছেন। বিভিন্ন সময় শিক্ষক সংগঠনগুলো এর প্রতিকার চেয়ে স্মারকলিপি ও মানববন্ধন করলেও সুনির্দিষ্ট সমাধান মেলেনি। শিক্ষকদের এই অসন্তোষের পরিপ্রেক্ষিতে নতুন করে আলটিমেটাম দেওয়ার ঘটনা ঘটে।",
-        "details_en": "For a long time, MPO-enrolled assistant teachers in secondary schools have faced complications and disparities in securing higher grades. Although teacher associations previously submitted memorandums and formed human chains seeking remedies, no concrete solution had been reached, prompting this new ultimatum."
+        "impact_bn": "সাইবার ঝুঁকির কারণে ব্যবহারকারীদের ব্যক্তিগত ডেটা সুরক্ষা নিশ্চিত করতে সফটওয়্যার আপডেট করার প্রয়োজন হতে পারে।",
+        "impact_en": "Users may need to update software to ensure personal data protection amid heightened cyber risk.",
+        "details_bn": "প্রযুক্তির আধুনিক যুগে বিভিন্ন ওপেন সোর্স সফটওয়্যার এবং প্রোগ্রামিং ভাষার নিরাপত্তা ত্রুটি বড় ধরনের সাইবার ঝুঁকির কারণ হয়ে দাঁড়ায়। পিএইচপিভিত্তিক সিস্টেমগুলোতে অতীতেও বিভিন্ন দুর্বলতা দেখা দেওয়ায় প্রযুক্তি জায়ান্টরা যৌথভাবে সাইবার নিরাপত্তা নিশ্চিত করতে কাজ করে থাকে। সাম্প্রতিক এই ত্রুটিগুলো দ্রুত সমাধান না করলে বিশ্বজুড়ে বড় পরিসরে সাইবার হামলার আশঙ্কা থাকে।",
+        "details_en": "In the modern tech era, security vulnerabilities in open-source software and programming languages frequently pose major cyber risks. As PHP-based systems have faced weaknesses in the past, technology giants routinely collaborate to ensure robust cybersecurity. Failing to address these recent flaws promptly raises the risk of large-scale cyber attacks globally."
       }
     }
   ]
