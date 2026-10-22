@@ -1,59 +1,285 @@
 {
-  "updated_at": "2026-10-22T14:00:47.481828",
+  "updated_at": "2026-10-22T15:00:48.501152",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "6e18a219-2ec8-57a4-b6f9-c62a433d2229",
-      "primary_category": "tech_innovation",
+      "story_id": "f36da586-8a1b-5ede-895b-044bb835bcb9",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "tech_innovation"
+        "economy_business",
+        "world_diplomacy"
       ],
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Untitled4-19.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T13:49:46+00:00",
+      "published_at": "2026-10-22T14:33:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 8.4,
-      "rank_score": 3.0368,
+      "importance_score": 6.6,
+      "rank_score": 2.0582,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1170984",
-          "title": "সাইবার হামলার শঙ্কায় বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট",
-          "snippet": "সাইবার হামলার শঙ্কায় বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/directives-for-the-development-social-integration-and-expansion-of-mongla-port/",
+          "title": "মোংলা বন্দরের উন্নয়নে আধুনিকায়ন ও সম্প্রসারণের নির্দেশ প্রধানমন্ত্রীর",
+          "snippet": "মোংলা বন্দরের উন্নয়নে আধুনিকায়ন ও সম্প্রসারণের নির্দেশ প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাইবার হামলার আশঙ্কায় বাংলাদেশ ব্যাংকের ওয়েবসাইট সাময়িকভাবে বন্ধ",
-        "title_en": "Bangladesh Bank Website Temporarily Closed Amid Cyber Attack Fears",
-        "summary_bn": "সম্ভাব্য সাইবার হামলার ঝুঁকি এড়াতে বিশ্বব্যাপী সতর্কতামূলক ব্যবস্থার অংশ হিসেবে ওয়েবসাইট বন্ধ রেখেছে বাংলাদেশ ব্যাংক।",
-        "summary_en": "Bangladesh Bank has temporarily suspended its website as a precautionary measure against potential cyber attacks.",
+        "title_bn": "মোংলা বন্দরের আধুনিকায়ন ও সম্প্রসারণের নির্দেশ প্রধানমন্ত্রীর",
+        "title_en": "Prime Minister Directs Modernization and Expansion of Mongla Port",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান মোংলা বন্দরের সার্বিক কার্যক্রম পরিদর্শন করে আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন ত্বরান্বিত করার নির্দেশ দিয়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman inspected Mongla port operations and directed officials to boost international trade capacity and accelerate modernization.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T13:49:46+00:00",
-        "lead_bn": "সম্ভাব্য সাইবার হামলার ঝুঁকি এড়াতে বিশ্বব্যাপী সতর্কতামূলক ব্যবস্থার অংশ হিসেবে ওয়েবসাইট বন্ধ রেখেছে বাংলাদেশ ব্যাংক।",
-        "lead_en": "Bangladesh Bank has temporarily suspended its website as a precautionary measure against potential cyber attacks.",
+        "published_at": "2026-10-22T14:33:58+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান মোংলা বন্দরের সার্বিক কার্যক্রম পরিদর্শন করে আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন ত্বরান্বিত করার নির্দেশ দিয়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman inspected Mongla port operations and directed officials to boost international trade capacity and accelerate modernization.",
         "bullets_bn": [
-          "সাইবার ঝুঁকির আশঙ্কায় বাংলাদেশ ব্যাংক তাদের অফিসিয়াল ওয়েবসাইট সাময়িকভাবে নিষ্ক্রিয় রাখে।",
-          "বিশ্বব্যাপী চলমান সতর্কতামূলক পদক্ষেপের অংশ হিসেবে এই বিশেষ সতর্কতা গ্রহণ করা হয়েছে।",
-          "ঝুঁকি বিশ্লেষণ ও নিরাপত্তা নিশ্চিত করার পর ওয়েবসাইটটি পুনরায় চালু করা হবে।"
+          "প্রধানমন্ত্রী বন্দর সম্প্রসারণ প্রকল্প, জেটি সুবিধা ও কনটেইনার ইয়ার্ডসহ বিভিন্ন অবকাঠামো ঘুরে দেখেন।",
+          "দ্রুত পণ্য খালাস নিশ্চিত করা এবং আন্তর্জাতিক বাণিজ্য সক্ষমতা বাড়াতে সংশ্লিষ্ট কর্মকর্তাদের প্রয়োজনীয় দিকনির্দেশনা দেওয়া হয়।",
+          "পরিদর্শন শেষে প্রধানমন্ত্রী বাংলাদেশ অর্থনৈতিক অঞ্চল কর্তৃপক্ষের প্রস্তাবিত বিশেষ অর্থনৈতিক অঞ্চল পরিদর্শন করেন।"
         ],
         "bullets_en": [
-          "Bangladesh Bank temporarily deactivated its official website to avert potential cyber security threats.",
-          "The measure was taken as part of a global precautionary step against digital vulnerabilities.",
-          "The website will be restored after a thorough risk assessment and security verification."
+          "The Prime Minister inspected port expansion projects, jetty facilities, and container yards.",
+          "Officials received directives to ensure rapid cargo handling and enhance international trade capacity.",
+          "Following the port visit, the Prime Minister inspected the proposed special economic zone."
         ],
-        "impact_bn": "অনলাইন সেবা সাময়িকভাবে ব্যাহত হলেও ব্যাংক ও আর্থিক খাতের মূল কার্যক্রমে এর কোনো প্রভাব পড়বে না।",
-        "impact_en": "While online services face brief interruptions, core banking and financial operations remain completely unaffected.",
-        "details_bn": "সাম্প্রতিক সময়ে বিভিন্ন দেশের গুরুত্বপূর্ণ প্রতিষ্ঠানে সাইবার হামলার ঘটনার প্রেক্ষাপটে বৈশ্বিক সাইবার নিরাপত্তা জোরদার করা হয়েছে। এরই ধারাবাহিকতায় বাংলাদেশ ব্যাংকও তাদের ডিজিটাল অবকাঠামো সুরক্ষায় এই সতর্কতামূলক পদক্ষেপ নিয়েছে। ঝুঁকি মূল্যায়ন শেষে দ্রুতই স্বাভাবিক কার্যক্রম শুরু হবে।",
-        "details_en": "In light of recent cyber attacks targeting critical infrastructure globally, cybersecurity protocols have been heightened worldwide. As part of this proactive defense, Bangladesh Bank took precautionary steps to safeguard its digital assets. Normal operations will resume once the technical risk assessment is successfully completed."
+        "impact_bn": "মোংলা বন্দরের অবকাঠামোগত উন্নয়ন ও অর্থনৈতিক অঞ্চলের বাস্তবায়নে উপকূলীয় অঞ্চলে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
+        "impact_en": "Infrastructure upgrades and the special economic zone at Mongla port will generate new employment opportunities in the coastal region.",
+        "details_bn": "দেশের দ্বিতীয় বৃহত্তম সমুদ্রবন্দর মোংলা বন্দরের কার্যক্রম গতিশীল করতে বিভিন্ন সময় নানা উদ্যোগ নেওয়া হয়েছে। এই পরিদর্শনের মাধ্যমে বন্দরটির অবকাঠামোগত উন্নয়ন, জেটি সুবিধার সম্প্রসারণ এবং কন্টেইনার হ্যান্ডলিং ক্ষমতা বাড়ানোর প্রক্রিয়া আরও ত্বরান্বিত হবে বলে আশা করা হচ্ছে। পাশাপাশি, বেজার প্রস্তাবিত বিশেষ অর্থনৈতিক অঞ্চল বাস্তবায়িত হলে এ অঞ্চলের অর্থনৈতিক কার্যক্রমে নতুন গতি আসবে।",
+        "details_en": "Efforts to dynamicize operations at Mongla port, the country's second-largest seaport, have been ongoing. This inspection is expected to accelerate infrastructure upgrades, jetty expansions, and container handling capacities. Additionally, the implementation of the proposed special economic zone by BEZA is projected to infuse new dynamism into regional economic activities."
+      }
+    },
+    {
+      "story_id": "6d8a0a25-0637-5768-acad-e8bebbf37f62",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Jashore",
+        "#ChildSafety",
+        "#JusticeForChildren",
+        "#BangladeshPolice"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/arrest_3%20%281%29%20%281%29_0_0.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-22T14:38:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5562,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/stepfather-arrested-over-alleged-attempted-rape-7-year-old-girl-jashore-4305106",
+          "title": "Stepfather arrested over alleged attempted rape of 7-year-old girl in Jashore",
+          "snippet": "Stepfather arrested over alleged attempted rape of 7-year-old girl in Jashore"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যশোরে ৭ বছরের শিশুকে ধর্ষণের চেষ্টার অভিযোগে সৎ বাবা গ্রেপ্তার",
+        "title_en": "Police Arrest Stepfather for Attempted Rape of Seven-Year-Old Girl in Jashore",
+        "summary_bn": "যশোরের চৌগাছায় সাত বছর বয়সী সৎ কন্যাকে ধর্ষণের চেষ্টার অভিযোগে শহিদুল ইসলাম নামে ষাটোর্ধ্ব এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Jashore police arrested a sixty-year-old man following a case filed for the attempted rape of his seven-year-old stepdaughter in Chaugachha.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T14:38:18+00:00",
+        "lead_bn": "যশোরের চৌগাছায় সাত বছর বয়সী সৎ কন্যাকে ধর্ষণের চেষ্টার অভিযোগে শহিদুল ইসলাম নামে ষাটোর্ধ্ব এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Jashore police arrested a sixty-year-old man following a case filed for the attempted rape of his seven-year-old stepdaughter in Chaugachha.",
+        "bullets_bn": [
+          "শিশুর মায়ের দায়ের করা মামলার প্রেক্ষিতে অভিযুক্ত শহিদুল ইসলামকে গ্রেপ্তার করেছে চৌগাছা থানা পুলিশ।",
+          "ঘর থেকে মা বাইরে যাওয়ার সুযোগে শিশুটির ওপর এই যৌন নিপীড়নের চেষ্টা চালানো হয় বলে এজাহারে উল্লেখ করা হয়েছে।",
+          "আইনি প্রক্রিয়া অনুসরণ করে গ্রেপ্তারকৃত আসামিকে যশোরের একটি আদালতে হাজির করা হবে।"
+        ],
+        "bullets_en": [
+          "Chaugachha police arrested Shahidul Islam after the child's mother filed a formal complaint regarding the assault.",
+          "Police Officer-in-Charge Mamunur Rashid confirmed the arrest following the incident which occurred while the mother was away briefly.",
+          "Law enforcement officials will produce the accused before a Jashore court to proceed with legal action."
+        ],
+        "impact_bn": "এই গ্রেপ্তারের মাধ্যমে শিশু নির্যাতনের বিরুদ্ধে দ্রুত আইনি ব্যবস্থা গ্রহণের বিষয়টি প্রতিফলিত হয়েছে।",
+        "impact_en": "This arrest underscores the priority of law enforcement in addressing child abuse cases and ensuring swift legal action.",
+        "details_bn": "যশোরের চৌগাছা উপজেলায় এই ঘটনাটি ঘটে। চার বছর আগে শিশুটির বাবা-মায়ের বিবাহবিচ্ছেদের পর তার মা শহিদুলকে বিয়ে করেন এবং শিশুটি তখন থেকেই তাদের সাথে থাকছিল। মামলার বিবরণ অনুযায়ী, ধর্ষণের চেষ্টার সময় শিশুর চিৎকার শুনে মা এগিয়ে এসে তাকে উদ্ধার করেন। পরবর্তীতে অভিযুক্ত ব্যক্তি বিষয়টি স্থানীয়ভাবে মীমাংসার চেষ্টা করলেও মা তা প্রত্যাখ্যান করে নিজের বাবার বাড়িতে চলে যান এবং থানায় মামলা দায়ের করেন।",
+        "details_en": "The incident occurred in Jashore’s Chaugachha upazila. The child had been living with her mother and stepfather since her biological parents divorced four years ago. According to the case statement, the mother rescued the child after hearing her screams during the attempted assault. Following an argument, the mother sought refuge at her parents' home and rejected the accused's attempts to settle the matter through local arbitration, choosing instead to seek justice through formal police intervention."
+      }
+    },
+    {
+      "story_id": "e2996e63-2ccc-587d-beca-f1ca3aa7b99a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T14:36:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5336,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1170998",
+          "title": "মোহাম্মদপুরে গোপন বৈঠক: ছাত্রলীগ-স্বেচ্ছাসেবক লীগের ৪ জন কারাগারে",
+          "snippet": "মোহাম্মদপুরে গোপন বৈঠক: ছাত্রলীগ-স্বেচ্ছাসেবক লীগের ৪ জন কারাগারে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মোহাম্মদপুরে গোপন বৈঠকে জড়িত অভিযোগে চার নেতাকর্মী কারাগারে",
+        "title_en": "Four Activists Sent to Jail Over Secret Meeting in Mohammadpur",
+        "summary_bn": "মোহাম্মদপুর এলাকায় গোপন বৈঠকের অভিযোগে আটক ছাত্রলীগ ও স্বেচ্ছাসেবক লীগের চার নেতাকর্মীকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "Four Chhatra League and Swechchhasebak League activists have been sent to jail following their arrest over a secret meeting in Mohammadpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T14:36:41+00:00",
+        "lead_bn": "মোহাম্মদপুর এলাকায় গোপন বৈঠকের অভিযোগে আটক ছাত্রলীগ ও স্বেচ্ছাসেবক লীগের চার নেতাকর্মীকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "Four Chhatra League and Swechchhasebak League activists have been sent to jail following their arrest over a secret meeting in Mohammadpur.",
+        "bullets_bn": [
+          "তদন্ত শেষ না হওয়া পর্যন্ত অভিযুক্তদের কারাগারে আটক রাখার আবেদন করেন মামলার তদন্তকারী কর্মকর্তা।",
+          "আটককৃত চার জনের মধ্যে ছাত্রলীগ এবং স্বেচ্ছাসেবক লীগের স্থানীয় পর্যায়ের নেতাকর্মীরা অন্তর্ভুক্ত রয়েছেন।",
+          "আইনি প্রক্রিয়া সম্পন্ন করে আদালত আসামিদের কারাগারে পাঠানোর এই নির্দেশ দেন।"
+        ],
+        "bullets_en": [
+          "The investigating officer formally requested the court to keep the accused confined until the investigation concludes.",
+          "The four detained individuals include local level activists affiliated with Chhatra League and Swechchhasebak League.",
+          "The court issued the jail detention order after completing necessary legal procedures for the accused."
+        ],
+        "impact_bn": "রাজনৈতিক তৎপরতায় আইনগত কড়াকড়ির কারণে সাধারণ নাগরিকরা স্বস্তি প্রকাশ করেছেন এবং নিরাপত্তা ব্যবস্থার ওপর আস্থা বেড়েছে।",
+        "impact_en": "Ordinary citizens have expressed relief and renewed trust in security measures due to strict legal actions against covert political activities.",
+        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে রাজনৈতিক দলের গোপন তৎপরতা ও নাশকতা রোধে আইনশৃঙ্খলা রক্ষাকারী বাহিনী বিশেষ অভিযান পরিচালনা করছে। তারই অংশ হিসেবে মোহাম্মদপুর এলাকা থেকে নিষিদ্ধ ও বিতর্কিত কর্মকাণ্ডে জড়িত থাকার অভিযোগে বিভিন্ন রাজনৈতিক সংগঠনের এই চার নেতাকর্মীকে আটক করা হয়। পরবর্তীতে তাদের বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণ করে আদালতে সোপর্দ করা হলে আদালত এই আদেশ দেন।",
+        "details_en": "Law enforcement agencies have been conducting special operations across the country to curb covert political activities and potential sabotage. As part of these ongoing efforts, the four activists belonging to political organizations were detained from the Mohammadpur area over alleged controversial activities. Following their arrest, they were produced before the court, which subsequently ordered their detention."
+      }
+    },
+    {
+      "story_id": "9ef04c1f-31e3-50e6-aa03-127d308c452a",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T14:29:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4399,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976128/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%A8-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F%C2%A0",
+          "title": "সৌদি আরবে হামলায় ২ বাংলাদেশি আহত, জানা গেলো পরিচয়",
+          "snippet": "সৌদি আরবে হামলায় ২ বাংলাদেশি আহত, জানা গেলো পরিচয়"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদির বিমানবন্দরে হামলায় দুই বাংলাদেশি নাগরিক আহত",
+        "title_en": "Two Bangladeshis Injured in Attack at Saudi Airport",
+        "summary_bn": "সৌদি আরবের দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে এক হামলায় দুই বাংলাদেশি নাগরিক আহত হয়ে হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "summary_en": "Two Bangladeshi nationals were injured and hospitalised following an attack targeting the King Fahd International Airport in Dammam, Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T14:29:31+00:00",
+        "lead_bn": "সৌদি আরবের দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে এক হামলায় দুই বাংলাদেশি নাগরিক আহত হয়ে হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "lead_en": "Two Bangladeshi nationals were injured and hospitalised following an attack targeting the King Fahd International Airport in Dammam, Saudi Arabia.",
+        "bullets_bn": [
+          "দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে সংঘটিত হামলায় দুই বাংলাদেশি নাগরিক আহত হয়েছেন।",
+          "আহত দুজন বর্তমানে দাম্মামস্থ সৌদি জার্মান হাসপাতালে চিকিৎসাধীন অবস্থায় রয়েছেন বলে প্রবাসী কল্যাণ মন্ত্রণালয় জানিয়েছে।",
+          "প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় ঘটনার সত্যতা নিশ্চিত করে বিস্তারিত তথ্য প্রকাশ করেছে।"
+        ],
+        "bullets_en": [
+          "Two Bangladeshi citizens sustained injuries in an attack targeting the King Fahd International Airport in Dammam.",
+          "The injured individuals are currently receiving medical treatment at the Saudi German Hospital in Dammam.",
+          "The Ministry of Expatriates Welfare and Overseas Employment officially confirmed the incident and their hospitalisation."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশিদের নিরাপত্তা ও সুরক্ষা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Raised concerns regarding the safety and security of migrant workers residing and working in the Middle East.",
+        "details_bn": "দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দর লক্ষ্য করে সংঘটিত এই হামলায় দুজন বাংলাদেশি নাগরিক আহত হন। ঘটনার পর প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় বিষয়টি নিশ্চিত করে। বিদেশে কর্মরত বাংলাদেশি প্রবাসীদের নিরাপত্তা নিশ্চিত করতে এবং আহতদের সুচিকিৎসা প্রদানে সংশ্লিষ্ট কর্তৃপক্ষ কাজ করছে। মধ্যপ্রাচ্যের বিভিন্ন দেশে প্রায়ই নানা নিরাপত্তা ঝুঁকির খবর পাওয়া যায়, যা প্রবাসীদের জন্য উদ্বেগের কারণ হয়ে দাঁড়ায়।",
+        "details_en": "The attack targeting the King Fahd International Airport in Dammam resulted in injuries to two Bangladeshi nationals. Following the incident, the Ministry of Expatriates Welfare and Overseas Employment verified the reports and confirmed their ongoing treatment at a local hospital. Safety and security concerns for migrant workers in Middle Eastern nations remain a critical issue for authorities and families back home."
+      }
+    },
+    {
+      "story_id": "d178b34f-96f3-5637-9ae9-27d6352962da",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/soudi.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-22T14:28:38+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4291,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/houthis-clai-m-atta-cks-on-saudi-ministry-of-defence-and-aramco-facilities-2-kil-led/",
+          "title": "সৌদি প্রতিরক্ষা মন্ত্রণালয় ও তেল কোম্পানি আরামকোতে হুতিদের হামলা, নিহত ২",
+          "snippet": "সৌদি প্রতিরক্ষা মন্ত্রণালয় ও তেল কোম্পানি আরামকোতে হুতিদের হামলা, নিহত ২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদির প্রতিরক্ষা মন্ত্রণালয় ও তেল স্থাপনায় হুতি বিদ্রোহীদের ড্রোন ও ক্ষেপণাস্ত্র হামলা",
+        "title_en": "Houthi Rebels Launch Drone and Missile Attacks on Saudi Defense Ministry and Oil Facilities",
+        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদসহ একাধিক গুরুত্বপূর্ণ স্থাপনা ও বিমানবন্দরে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
+        "summary_en": "Yemeni Houthi rebels launched drone and missile attacks targeting key strategic sites and airports across Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T14:28:38+00:00",
+        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদসহ একাধিক গুরুত্বপূর্ণ স্থাপনা ও বিমানবন্দরে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
+        "lead_en": "Yemeni Houthi rebels launched drone and missile attacks targeting key strategic sites and airports across Saudi Arabia.",
+        "bullets_bn": [
+          "হুতি বিদ্রোহীরা রিয়াদের প্রতিরক্ষা মন্ত্রণালয়, আরামকো তেল স্থাপনা এবং দুটি বিমানবন্দরে হামলা চালিয়েছে",
+          "কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে সংঘটিত এসব হামলায় দুজন নিহত হয়েছেন বলে নিশ্চিত করেছে সৌদি কর্তৃপক্ষ",
+          "সৌদি আরবের পক্ষ থেকে সামরিক স্থাপনা লক্ষ্য করে চালানো এসব হামলার বিষয়ে বিস্তারিত স্বাধীনভাবে যাচাই করা যায়নি"
+        ],
+        "bullets_en": [
+          "Houthi rebels targeted the Riyadh defense ministry, Aramco oil facilities, and two major airports.",
+          "Saudi authorities confirmed that two people were killed during the attacks on King Fahd International Airport.",
+          "Independent verification of the attacks claimed by the Houthi military spokesperson remains unavailable."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে চলমান এই সংঘাতে জ্বালানি সরবরাহ ব্যাহত হওয়ার আশঙ্কা তৈরি হয়েছে।",
+        "impact_en": "Escalating regional tensions threaten potential disruptions to global energy supply chains and security.",
+        "details_bn": "ইয়েমেনে সৌদি নেতৃত্বাধীন সামরিক জোটের হস্তক্ষেপে দীর্ঘদিন ধরে ইরানসমর্থিত হুতি বিদ্রোহীদের সাথে সংঘাত চলছে। এর আগেও সৌদি আরবের তেল স্থাপনা ও বিমানবন্দর লক্ষ্য করে বেশ কয়েকবার ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়েছে বিদ্রোহী গোষ্ঠীটি, যা আঞ্চলিক নিরাপত্তা ও আন্তর্জাতিক জ্বালানি বাজারে প্রভাব ফেলেছে।",
+        "details_en": "The conflict involving the Saudi-led coalition in Yemen and the Iran-backed Houthi movement has persisted for years. The rebels have frequently targeted Saudi oil infrastructure and civilian airports, raising significant concerns over regional security and global energy stability."
       }
     },
     {
@@ -71,7 +297,7 @@
       "published_at": "2026-10-22T14:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 2.4106,
+      "rank_score": 1.4281,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -81,10 +307,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "মূল্যস্ফীতির চাপে ব্যাংকে টাকা রেখেও ক্ষতিগ্রস্ত হচ্ছেন আমানতকারীরা",
-        "title_en": "Depositors Lose Money As Inflation Outpaces Bank Interest Rates",
-        "summary_bn": "দেশের শীর্ষ বাণিজ্যিক ব্যাংকগুলোর স্থায়ী আমানতের সুদের হার মূল্যস্ফীতির হারের চেয়ে কমে যাওয়ায় প্রকৃত মুনাফা হারাচ্ছেন গ্রাহকরা।",
-        "summary_en": "Depositors face real losses as major commercial banks reduce fixed deposit interest rates below the national inflation rate.",
+        "title_bn": "মূল্যস্ফীতির চাপে ব্যাংকে স্থায়ী আমানতের সুদের লাভ কমছে",
+        "title_en": "Fixed Deposit Returns Shrink as Inflation Outpaces Bank Interest Rates",
+        "summary_bn": "দেশের শীর্ষ বাণিজ্যিক ব্যাংকগুলোর স্থায়ী আমানতের সুদের হার মূল্যস্ফীতির হারের নিচে নেমে যাওয়ায় আমানতকারীদের প্রকৃত আয় কমছে।",
+        "summary_en": "Fixed deposit interest rates offered by top commercial banks have fallen below inflation, eroding real returns for depositors.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -92,248 +318,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T14:00:00+00:00",
-        "lead_bn": "দেশের শীর্ষ বাণিজ্যিক ব্যাংকগুলোর স্থায়ী আমানতের সুদের হার মূল্যস্ফীতির হারের চেয়ে কমে যাওয়ায় প্রকৃত মুনাফা হারাচ্ছেন গ্রাহকরা।",
-        "lead_en": "Depositors face real losses as major commercial banks reduce fixed deposit interest rates below the national inflation rate.",
+        "lead_bn": "দেশের শীর্ষ বাণিজ্যিক ব্যাংকগুলোর স্থায়ী আমানতের সুদের হার মূল্যস্ফীতির হারের নিচে নেমে যাওয়ায় আমানতকারীদের প্রকৃত আয় কমছে।",
+        "lead_en": "Fixed deposit interest rates offered by top commercial banks have fallen below inflation, eroding real returns for depositors.",
         "bullets_bn": [
           "শীর্ষ বাণিজ্যিক ব্যাংকগুলো এক বছর মেয়াদি স্থায়ী আমানতের সুদের হার কমিয়ে সাড়ে সাত শতাংশে নামিয়ে এনেছে।",
-          "নির্দিষ্ট সময়ে মূল্যস্ফীতির হার রেকর্ড করা হয়েছে আট দশমিক চৌত্রিশ শতাংশ যা আমানতের সুদের চেয়ে বেশি।",
-          "টাকার মান কমে যাওয়ায় ব্যাংকে সঞ্চিত অর্থ দিয়ে নিত্যপণ্যের ব্যয় মেটাতে হিমশিম খাচ্ছেন সাধারণ মানুষ।"
+          "মূল্যস্ফীতির হার আট দশমিক তিন চার শতাংশে থাকায় আমানতকারীরা ব্যাংকে টাকা রেখে লোকসানের মুখে পড়ছেন।",
+          "জীবনযাত্রার ব্যয় বৃদ্ধির সাথে সামঞ্জস্য রেখে সুদের হার না বাড়লে সাধারণ মানুষ ব্যাংকে সঞ্চয় করা কমিয়ে দিতে পারে।"
         ],
         "bullets_en": [
-          "Top commercial banks have reduced one-year fixed deposit interest rates to seven point five percent.",
-          "National inflation stood at eight point thirty-four percent, exceeding the returns offered on bank deposits.",
-          "Diminishing returns leave everyday depositors struggling to counter the rising cost of living."
+          "Top commercial banks have reduced one-year fixed deposit interest rates to seven and a half percent.",
+          "With inflation standing at eight point three four percent, depositors are facing negative real returns on savings.",
+          "Failure to adjust interest rates in line with living costs may discourage ordinary citizens from bank savings."
         ],
-        "impact_bn": "সাধারণ savers ও মধ্যবিত্তরা ব্যাংকে টাকা রেখেও ক্রয়ক্ষমতা হারাচ্ছেন এবং সঞ্চয়ের প্রতি আগ্রহ কমে যাচ্ছে।",
-        "impact_en": "Ordinary savers and middle-class citizens lose purchasing power, discouraging traditional bank savings.",
-        "details_bn": "ব্যাংকিং খাতে মূল্যস্ফীতি ও সুদের হারের ব্যবধান দীর্ঘদিন ধরে আমানতকারীদের জন্য উদ্বেগের কারণ হয়ে দাঁড়িয়েছে। দ্রব্যমূল্যের ঊর্ধ্বগতির কারণে মানুষের জীবনযাত্রার ব্যয় বৃদ্ধির পাশাপাশি সঞ্চয়ের ওপর নেতিবাচক প্রভাব পড়ছে। ব্যাংকগুলোর আমানতের সুদের হার মূল্যস্ফীতির নিচে নেমে যাওয়ায় সাধারণ মানুষের কষ্টার্জিত সঞ্চয়ের প্রকৃত মূল্য দিন দিন হ্রাস পাচ্ছে।",
-        "details_en": "The gap between inflation and bank deposit rates has long been a major concern for savers. With escalating commodity prices and rising living costs, the negative real return on deposits is eroding the value of hard-earned savings. As banks lower fixed deposit returns below inflation levels, depositors face continuous financial erosion."
-      }
-    },
-    {
-      "story_id": "cdaba7ab-ca4d-5985-98fa-8de54b1e49ba",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T13:54:04+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8121,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976123/%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E2%80%98%E0%A6%AC%E0%A6%A6%E0%A6%B0%E2%80%99",
-          "title": "মক্কা প্যাক্টের পর এবার চার মুসলিম দেশের ‘বদর’ চুক্তি",
-          "snippet": "মক্কা প্যাক্টের পর এবার চার মুসলিম দেশের ‘বদর’ চুক্তি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাকিস্তান, কাতার, তুরস্ক ও ইন্দোনেশিয়ার চার দেশীয় প্রতিরক্ষা চুক্তি স্বাক্ষর",
-        "title_en": "Pakistan, Qatar, Turkey, and Indonesia Sign Four-Nation Defense Pact",
-        "summary_bn": "পাকিস্তান, কাতার, তুরস্ক ও ইন্দোনেশিয়া যৌথ সামরিক সহযোগিতা বাড়াতে একটি নতুন প্রতিরক্ষা শিল্প সমঝোতা স্মারক স্বাক্ষর করেছে।",
-        "summary_en": "Pakistan, Qatar, Turkey, and Indonesia have signed a new defense industry memorandum of understanding to boost joint military cooperation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T13:54:04+00:00",
-        "lead_bn": "পাকিস্তান, কাতার, তুরস্ক ও ইন্দোনেশিয়া যৌথ সামরিক সহযোগিতা বাড়াতে একটি নতুন প্রতিরক্ষা শিল্প সমঝোতা স্মারক স্বাক্ষর করেছে।",
-        "lead_en": "Pakistan, Qatar, Turkey, and Indonesia have signed a new defense industry memorandum of understanding to boost joint military cooperation.",
-        "bullets_bn": [
-          "চারটি মুসলিম দেশ যৌথ অস্ত্র উৎপাদন এবং প্রযুক্তি বিনিময়ের লক্ষ্যে বদর চুক্তি স্বাক্ষর করেছে।",
-          "দোহার অনুষ্ঠিত উচ্চপর্যায়ের বৈঠকে যৌথ অস্ত্র গবেষণা এবং সামরিক প্রশিক্ষণ সম্প্রসারণের সিদ্ধান্ত নেওয়া হয়।",
-          "এই চুক্তির ফলে সংশ্লিষ্ট দেশগুলোর মধ্যকার প্রতিরক্ষা সহযোগিতা এবং কৌশলগত অংশীদারিত্ব আরও জোরদার হবে।"
-        ],
-        "bullets_en": [
-          "Four Muslim nations signed the Badr pact aimed at joint weapons manufacturing and technology exchange.",
-          "The high-level meeting in Doha finalized decisions on joint arms research and expanded military training.",
-          "The agreement will further strengthen defense cooperation and strategic partnership among the participating nations."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাম্প্রতিক বছরগুলোতে উপসাগরীয় অঞ্চল এবং দক্ষিণ এশিয়ার ভূরাজনীতিতে নিরাপত্তা সহযোগিতা ও প্রতিরক্ষা জোট গঠনের প্রবণতা বৃদ্ধি পেয়েছে। এরই ধারাবাহিকতায় পাকিস্তান, কাতার, তুরস্ক এবং ইন্দোনেশিয়া নিজেদের সামরিক সক্ষমতা বাড়াতে এবং প্রতিরক্ষা খাতে পারস্পরিক নির্ভরতা কমাতে এই যৌথ উদ্যোগ গ্রহণ করেছে।",
-        "details_en": "In recent years, security cooperation and the formation of defense alliances have grown in the geopolitics of the Gulf region and South Asia. Following this trend, Pakistan, Qatar, Turkey, and Indonesia have taken this joint initiative to enhance their military capabilities and reduce mutual dependence in the defense sector."
-      }
-    },
-    {
-      "story_id": "676b7840-b959-5500-ae8f-e72fbcc2c1f1",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "economy_business",
-        "governance_law"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T13:25:11+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.7352,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/tech-and-gadget/tech-news/976107/%E0%A6%85%E0%A6%AC%E0%A7%88%E0%A6%A7-%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%93-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B8%E0%A7%8D%E0%A6%AC-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87",
-          "title": "অবৈধ মোবাইল ও রাজস্ব ফাঁকি বন্ধে চালু হচ্ছে এনইআইআর",
-          "snippet": "অবৈধ মোবাইল ও রাজস্ব ফাঁকি বন্ধে চালু হচ্ছে এনইআইআর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অবৈধ মোবাইল ও রাজস্ব ফাঁকি রোধে এনইআইআর চালুর উদ্যোগ বিটিআরসির",
-        "title_en": "BTRC to Launch NEIR to Stop Illegal Phones and Revenue Loss",
-        "summary_bn": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন রাজস্ব ফাঁকি ও অবৈধ মোবাইল ফোন বিক্রি বন্ধে আগামী জানুয়ারি থেকে এনইআইআর ব্যবস্থা চালুর পরিকল্পনা নিয়েছে।",
-        "summary_en": "The Bangladesh Telecommunication Regulatory Commission plans to launch NEIR from January to stop revenue loss and illegal mobile sales.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T13:25:11+00:00",
-        "lead_bn": "বাংলাদেশ টেলিযোগাযোগ নিয়ন্ত্রণ কমিশন রাজস্ব ফাঁকি ও অবৈধ মোবাইল ফোন বিক্রি বন্ধে আগামী জানুয়ারি থেকে এনইআইআর ব্যবস্থা চালুর পরিকল্পনা নিয়েছে।",
-        "lead_en": "The Bangladesh Telecommunication Regulatory Commission plans to launch NEIR from January to stop revenue loss and illegal mobile sales.",
-        "bullets_bn": [
-          "অবৈধ মোবাইল ফোন উৎপাদন, চোরাচালান এবং অনুমোদনহীন বিক্রি রোধে বিশেষ পদক্ষেপ নেওয়া হয়েছে",
-          "সরকারের বছরে প্রায় ২ হাজার কোটি টাকার রাজস্ব ফাঁকি রোধের লক্ষ্য নির্ধারণ করা হয়েছে",
-          "আগামী ১ জানুয়ারি থেকে দুই ধাপে জাতীয় যন্ত্রপাতি শনাক্তকরণ নিবন্ধন ব্যবস্থা পুনরায় চালু হবে"
-        ],
-        "bullets_en": [
-          "Special measures have been taken to prevent illegal mobile production, smuggling, and unauthorized sales",
-          "The initiative targets stopping an annual revenue loss of approximately 2000 crore taka for the government",
-          "The National Equipment Identity Register system will restart in two phases starting January 1"
-        ],
-        "impact_bn": "সাধারণ গ্রাহকরা যাচাইকৃত এবং বৈধ হ্যান্ডসেট কিনতে বাধ্য হবেন, যা সাইবার নিরাপত্তা নিশ্চিত করবে।",
-        "impact_en": "Ordinary consumers will be compelled to buy verified and legal handsets, ensuring enhanced cyber security.",
-        "details_bn": "দেশে অবৈধ মোবাইল ফোনের বিস্তার এবং চোরাচালানের মাধ্যমে বড় অঙ্কের রাজস্ব হারাচ্ছিল সরকার। এর আগে এই ব্যবস্থা চালুর প্রাথমিক উদ্যোগ নেওয়া হলেও নানা জটিলতায় তা স্থগিত ছিল। বর্তমান পরিস্থিতিতে সাইবার নিরাপত্তা জোরদার এবং মোবাইল বাজারের শৃঙ্খলা ফেরাতে বিটিআরসি পুনরায় এই জাতীয় যন্ত্রপাতি শনাক্তকরণ নিবন্ধন ব্যবস্থা কার্যকর করার সিদ্ধান্ত নিয়েছে।",
-        "details_en": "The government was losing substantial revenue due to the proliferation of illegal mobile phones and smuggling. Although initial steps were taken earlier, the initiative was suspended due to various complications. To strengthen cyber security and bring discipline to the mobile market, BTRC has now decided to reactivate this device registration system."
-      }
-    },
-    {
-      "story_id": "38a6cdf3-df0d-5f64-b284-d94de3d62b84",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Chattogram",
-        "#PoliceRescue"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/WhatsApp%20Image%202026-10-22%20at%207.02.01%20PM.jpeg",
-      "image_caption": null,
-      "published_at": "2026-10-22T13:46:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6845,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/chattogram-businessman-abducted-men-posing-srb-members-rescued-teknaf-rohingya-camp-police-say-4305071",
-          "title": "Chattogram businessman abducted by men posing as SRB members rescued from Teknaf Rohingya camp, police say",
-          "snippet": "Chattogram businessman abducted by men posing as SRB members rescued from Teknaf Rohingya camp, police say"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টেকনাফের রোহিঙ্গা ক্যাম্প থেকে অপহরণের শিকার ব্যবসায়ী উদ্ধার",
-        "title_en": "Abducted Chattogram Businessman Rescued from Teknaf Rohingya Camp",
-        "summary_bn": "চট্টগ্রামের বাঁশখালী থেকে অপহৃত ব্যবসায়ী মোহাম্মদ এহসানকে টেকনাফের রোহিঙ্গা ক্যাম্প থেকে উদ্ধার করেছে পুলিশ।",
-        "summary_en": "Police rescued abducted Chattogram businessman Mohammad Ehsan from a Rohingya camp in Teknaf.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T13:46:44+00:00",
-        "lead_bn": "চট্টগ্রামের বাঁশখালী থেকে অপহৃত ব্যবসায়ী মোহাম্মদ এহসানকে টেকনাফের রোহিঙ্গা ক্যাম্প থেকে উদ্ধার করেছে পুলিশ।",
-        "lead_en": "Police rescued abducted Chattogram businessman Mohammad Ehsan from a Rohingya camp in Teknaf.",
-        "bullets_bn": [
-          "বিশেষ রেসপন্স ব্যাটালিয়নের সদস্য পরিচয়ে বাঁশখালী থেকে ব্যবসায়ীকে অপহরণ করা হয়।",
-          "অপহরণকারীরা পরিবারের কাছে ২০ লাখ টাকা মুক্তিপণ দাবি করেছিল।",
-          "সেনাবাহিনী থেকে বরখাস্ত সাবেক এক সদস্য এই অপরাধ চক্রের নেতৃত্ব দিচ্ছিল।"
-        ],
-        "bullets_en": [
-          "Police rescued the businessman who was held at a Rohingya camp in Teknaf.",
-          "The kidnappers demanded a ransom of Tk 20 lakh using VoIP numbers.",
-          "A dismissed former army member led the criminal abduction syndicate."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও ভুয়া আইনশৃঙ্খলা রক্ষাকারী বাহিনীর পরিচয়ে অপরাধ বৃদ্ধি সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা তৈরি করছে।",
-        "impact_en": "The rise of criminal gangs impersonating law enforcement personnel raises serious public safety concerns for local businesses.",
-        "details_bn": "চট্টগ্রামের বাঁশখালীর প্রেমবাজার এলাকা থেকে ১৭ অক্টোবর হার্ডওয়্যার ব্যবসায়ী মোহাম্মদ এহসানকে অপহরণ করে একটি চক্র। নিজেকে সেনাবাহিনীর সাবেক সদস্য হিসেবে পরিচয় দেওয়া সুমন মুন্সীর নেতৃত্বে এই চক্রটি বিভিন্ন এলাকায় অপরাধ কর্মকাণ্ড চালিয়ে আসছে। ঘটনার পর অপহৃত ব্যবসায়ীর পরিবারের কাছে ২০ লাখ টাকা মুক্তিপণ দাবি করা হয়। পরে তথ্যপ্রযুক্তির সহায়তায় পুলিশ অভিযান চালিয়ে তাকে উদ্ধার করে।",
-        "details_en": "Chattogram police rescued hardware shop owner Mohammad Ehsan who was abducted from Banshkhali by criminals posing as SRB members. The gang, led by a dismissed army member, held him at a Teknaf Rohingya camp and demanded Tk 20 lakh in ransom. Police tracked the VoIP calls made by the kidnappers and successfully rescued the victim during a raid."
-      }
-    },
-    {
-      "story_id": "401c43e1-710a-54a8-81e8-fd494f9499d8",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T13:38:47+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5631,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/europe/976113/%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA-%E0%A6%AF%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%9B%E0%A7%87%E0%A6%A8",
-          "title": "ট্রাম্প যেখানে চুক্তি দেখছেন, পুতিন সেখানে দেখছেন রাশিয়ার বিজয়",
-          "snippet": "ট্রাম্প যেখানে চুক্তি দেখছেন, পুতিন সেখানে দেখছেন রাশিয়ার বিজয়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেন যুদ্ধ বন্ধ ও সমঝোতা নিয়ে ট্রাম্প এবং পুতিনের ভিন্ন দৃষ্টিভঙ্গি",
-        "title_en": "Trump and Putin hold contrasting views on ending the Ukraine war",
-        "summary_bn": "ডোনাল্ড ট্রাম্প দ্রুত যুদ্ধ সমাপ্তি ও বাণিজ্যিক লাভের দেখলেও পুতিন এই সংঘাতে রাশিয়ার পূর্ণ বিজয় দেখছেন।",
-        "summary_en": "Donald Trump envisions quick conflict resolution and profitable trade while Putin sees a definitive Russian victory.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T13:38:47+00:00",
-        "lead_bn": "ডোনাল্ড ট্রাম্প দ্রুত যুদ্ধ সমাপ্তি ও বাণিজ্যিক লাভের দেখলেও পুতিন এই সংঘাতে রাশিয়ার পূর্ণ বিজয় দেখছেন।",
-        "lead_en": "Donald Trump envisions quick conflict resolution and profitable trade while Putin sees a definitive Russian victory.",
-        "bullets_bn": [
-          "ট্রাম্পের দৃষ্টিভঙ্গিতে দ্রুত সমঝোতা হলে হাজার হাজার তরুণের প্রাণহানি বন্ধ হবে।",
-          "রাশিয়ার ওপর থেকে নিষেধাজ্ঞা তুলে নিয়ে লাভজনক বাণিজ্য শুরু করার সুযোগ দেখছেন ট্রাম্প।",
-          "পাঁচ বছরে পা দেওয়া ইউক্রেন যুদ্ধ বন্ধের কৌশলগত অবস্থান নিয়ে বিশ্ব রাজনীতিতে আলোচনা চলছে।"
-        ],
-        "bullets_en": [
-          "Trump argues that a swift compromise would prevent the loss of thousands of young lives.",
-          "Lifting sanctions on Russia would pave the way for restarting lucrative trade opportunities.",
-          "Strategic positions on ending the prolonged Ukraine conflict continue to spark global debate."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইউক্রেন যুদ্ধ দীর্ঘ পাঁচ বছরে পদার্পণ করেছে এবং বিশ্বনেতারা এই সংঘাত নিরসনে বিভিন্ন কৌশলগত প্রস্তাব তুলে ধরছেন। ডোনাল্ড ট্রাম্প যুদ্ধ থামিয়ে অর্থনৈতিক নিষেধাজ্ঞা প্রত্যাহার ও বাণিজ্যের পক্ষে অবস্থান নিলেও রুশ প্রেসিডেন্ট পুতিন এই লড়াইয়ে রাশিয়ার বিজয় দেখতে চান। বৈশ্বিক এই পরাশক্তিগুলোর দৃষ্টিভঙ্গির পার্থক্য আন্তর্জাতিক কূটনীতি ও শান্তি আলোচনাকে নানাভাবে প্রভাবিত করছে।",
-        "details_en": "The Ukraine war has entered its fifth year, prompting various global leaders to propose strategic paths for resolution. While Donald Trump emphasizes halting the conflict to lift sanctions and resume trade, Russian President Vladimir Putin views the ongoing hostilities through the lens of national victory. These divergent geopolitical perspectives continue to shape international diplomacy and peace negotiations."
+        "impact_bn": "সাধারণ savers ও মধ্যবিত্ত পরিবারগুলোর সঞ্চয়ের প্রকৃত মূল্য কমে যাওয়ায় জীবনযাত্রার ব্যয় মেটানো কঠিন হয়ে পড়ছে।",
+        "impact_en": "Ordinary savers and middle-class families face mounting financial pressure as the real value of their savings diminishes.",
+        "details_bn": "দেশের ব্যাংক খাতে দীর্ঘদিন ধরেই মূল্যস্ফীতির তুলনায় কম সুদের হার দেওয়ার প্রবণতা রয়েছে। নিত্যপ্রয়োজনীয় পণ্যের ঊর্ধ্বগতি এবং জীবনযাত্রার ব্যয় বৃদ্ধির ফলে সাধারণ মানুষের পক্ষে সঞ্চয় ধরে রাখা কঠিন হয়ে পড়েছে। অর্থনীতিবিদরা মনে করছেন, মূল্যস্ফীতি নিয়ন্ত্রণ এবং আমানতকারীদের সুরক্ষা দিতে সুদের হার যৌক্তিক পর্যায়ে উন্নীত করা প্রয়োজন।",
+        "details_en": "The banking sector has long experienced deposit interest rates trailing behind inflation. Escalating commodity prices and living costs have made it increasingly difficult for ordinary citizens to preserve their savings. Economists suggest raising interest rates to reasonable levels to combat inflation and protect depositors."
       }
     }
   ]
