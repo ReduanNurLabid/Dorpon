@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-22T09:00:47.014332",
+  "updated_at": "2026-10-22T10:00:49.349764",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "10fb3f2b-c684-5c5e-b294-f7a580faab1e",
+      "story_id": "f25c1a4d-bce7-5ca7-971d-ccb2b0a8c5d3",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,52 +12,268 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-03%2F0p8cryri%2Fimage-337794-1788374036.jpg?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/WhatsApp-Image-2026-10-22-at-2.55.41-PM.jpeg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T07:45:56+00:00",
+      "published_at": "2026-10-22T09:22:07+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 1.9435,
+      "rank_score": 2.5373,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/tw0x7iem11",
-          "title": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে বাজে মন্তব্যকারী আটক: স্বরাষ্ট্র মন্ত্রণালয়",
-          "snippet": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে বাজে মন্তব্যকারী আটক: স্বরাষ্ট্র মন্ত্রণালয়"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/individual-detained-in-rajshahi-over-lack-of-a-sniper-remark-concerning-the-prime-minister/",
+          "title": "প্রধানমন্ত্রীকে নিয়ে ‘স্নাইপারের অভাব’ মন্তব্য, রাজশাহী থেকে যুবক আটক",
+          "snippet": "প্রধানমন্ত্রীকে নিয়ে ‘স্নাইপারের অভাব’ মন্তব্য, রাজশাহী থেকে যুবক আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর ছবি নিয়ে ফেসবুকে বাজে মন্তব্য করায় যুবক আটক",
-        "title_en": "Youth arrested for offensive comments on PM social media post",
-        "summary_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবি নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে এক ব্যক্তিকে আটক করেছে আইনপ্রয়োগকারী সংস্থা।",
-        "summary_en": "Law enforcement agencies arrested a man for making derogatory comments on social media regarding the Prime Minister visit to Rajshahi.",
+        "title_bn": "প্রধানমন্ত্রীর নিরাপত্তা নিয়ে ফেসবুকে মন্তব্য করায় রাজশাহী থেকে যুবক আটক",
+        "title_en": "Youth detained from Rajshahi over Facebook comment threatening prime minister",
+        "summary_bn": "পুলিশ সোশ্যাল মিডিয়ায় প্রধানমন্ত্রীকে নিয়ে আপত্তিকর ও হুমকিমূলক মন্তব্য করার অভিযোগে রাজশাহী থেকে এক যুবককে আটক করেছে।",
+        "summary_en": "Police detained a young man from Rajshahi for making a threatening social media comment regarding the prime minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T07:45:56+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবি নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে এক ব্যক্তিকে আটক করেছে আইনপ্রয়োগকারী সংস্থা।",
-        "lead_en": "Law enforcement agencies arrested a man for making derogatory comments on social media regarding the Prime Minister visit to Rajshahi.",
+        "published_at": "2026-10-22T09:22:07+00:00",
+        "lead_bn": "পুলিশ সোশ্যাল মিডিয়ায় প্রধানমন্ত্রীকে নিয়ে আপত্তিকর ও হুমকিমূলক মন্তব্য করার অভিযোগে রাজশাহী থেকে এক যুবককে আটক করেছে।",
+        "lead_en": "Police detained a young man from Rajshahi for making a threatening social media comment regarding the prime minister.",
         "bullets_bn": [
-          "সামাজিক যোগাযোগমাধ্যমে প্রধানমন্ত্রীর ছবি সম্বলিত পোস্টে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামক এক ব্যক্তিকে আটক করা হয়।",
-          "বিশেষ বাহিনী এসআরবি-৫ এর একটি দল রাজশাহীর পবা থানাধীন রামচন্দ্রপুর এলাকা থেকে অভিযান পরিচালনা করে অভিযুক্তকে গ্রেপ্তার করে।",
-          "অভিযুক্ত ব্যক্তির বিরুদ্ধে যথাযথ আইনি প্রক্রিয়া অনুসরণ করে পরবর্তী আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
+          "পুলিশের গোয়েন্দা বিভাগ রাজশাহী থেকে আবু বক্কর সিদ্দিকী নামের অভিযুক্ত যুবককে আটক করে ঢাকায় নিয়ে আসে।",
+          "ফেসবুক পোস্টে প্রধানমন্ত্রীকে বহনকারী বাস নিয়ে মন্তব্য করে ওই যুবক লেখেন শুধু একটা স্নাইপারের অভাব ছিল।",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী অভিযুক্ত ব্যক্তির বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করেছে।"
         ],
         "bullets_en": [
-          "Law enforcement detained a man named Abu Bakkar Siddique for posting derogatory remarks on a social media post featuring the Prime Minister.",
-          "A specialized response battalion team conducted a raid in the Ramchandrapur area of Paba upazila in Rajshahi to apprehend the suspect.",
-          "Appropriate legal procedures are underway to take strict penal action against the detained individual under existing laws."
+          "The Detective Branch of police detained accused youth Abu Bakkar Siddique from Rajshahi and brought him to Dhaka.",
+          "The youth commented on a Facebook post regarding the prime minister transport stating only a sniper was missing.",
+          "Law enforcement agencies have initiated legal proceedings against the accused individual."
         ],
-        "impact_bn": "অনলাইন প্ল্যাটফর্মে দায়িত্বশীল আচরণ এবং আপত্তিকর মন্তব্য ছড়ানোর বিরুদ্ধে কঠোর আইনি পদক্ষেপের বার্তা দেয় এই ঘটনা।",
-        "impact_en": "This incident reinforces online accountability and signals strict legal consequences for posting offensive content on digital platforms.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরসংক্রান্ত একটি ছবির নিচে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য প্রকাশের পর বিষয়টি আইনশৃঙ্খলা বাহিনীর নজরে আসে। পরবর্তীতে গোয়েন্দা সংস্থা ও পুলিশের যৌথ প্রচেষ্টায় অভিযুক্ত ব্যক্তির পরিচয় শনাক্ত করা হয়। পরিচয় নিশ্চিত হওয়ার পর বিশেষ বাহিনী এসআরবি-৫ অভিযান চালিয়ে তাকে আটক করে।",
-        "details_en": "The incident came to the attention of law enforcement after derogatory comments were published under a social media post regarding the Prime Minister visit to Rajshahi. Intelligence agencies and police subsequently identified the individual through a coordinated digital investigation, leading to a targeted raid by the specialized response battalion that resulted in his arrest."
+        "impact_bn": "অনলাইন প্ল্যাটফর্মে প্ররোচনামূলক বা হুমকিমূলক মন্তব্য করলে কঠোর আইনি পদক্ষেপ নেওয়া হবে যা সাইবার নিরাপত্তা নিশ্চিত করে।",
+        "impact_en": "Strict legal action against online threats deters cyber crime and reinforces digital safety standards.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরকালে তার নিরাপত্তা নিয়ে সামাজিক যোগাযোগমাধ্যমে একটি পেজের মন্তব্যের ঘরে উসকানিমূলক মন্তব্য করা হয়। সেই মন্তব্যের জেরে গোয়েন্দা পুলিশ তদন্ত শুরু করে এবং সংশ্লিষ্ট অ্যাকাউন্টধারীকে শনাক্ত করে রাজশাহী থেকে আটক করে। বিষয়টি নিয়ে জনমনে ও আইনশৃঙ্খলা বাহিনীর মধ্যে গুরুত্বের সাথে পর্যালোচনা করা হচ্ছে।",
+        "details_en": "During the prime minister visit to Rajshahi, a provocative comment was posted on social media regarding security arrangements. Following the incident, detective police initiated an investigation, identified the account holder, and detained him from Rajshahi for legal action."
       }
     },
     {
-      "story_id": "8dabcb0a-19f5-527c-b71b-2c2df8284507",
+      "story_id": "6f97eaa2-fd16-5edd-a709-ca33a5b74cbd",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T09:58:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9496,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170886",
+          "title": "হজযাত্রীদের কোরবানি দেওয়া নিয়ে অনিয়ম, এজেন্সিকে লাখ টাকা জরিমানা",
+          "snippet": "হজযাত্রীদের কোরবানি দেওয়া নিয়ে অনিয়ম, এজেন্সিকে লাখ টাকা জরিমানা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হজযাত্রীদের সাথে প্রতারণার দায়ে হজ এজেন্সিকে লাখ টাকা জরিমানা",
+        "title_en": "Hajj Agency Fined One Lakh Taka for Cheating Pilgrims",
+        "summary_bn": "হজযাত্রীদের কোরবানি ও প্রয়োজনীয় সেবা নিশ্চিত করতে ব্যর্থ হওয়ায় একটি হজ এজেন্সিকে বড় অঙ্কের জরিমানা করা হয়েছে।",
+        "summary_en": "A Hajj agency has been heavily fined for failing to ensure sacrifice and necessary services for pilgrims.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T09:58:35+00:00",
+        "lead_bn": "হজযাত্রীদের কোরবানি ও প্রয়োজনীয় সেবা নিশ্চিত করতে ব্যর্থ হওয়ায় একটি হজ এজেন্সিকে বড় অঙ্কের জরিমানা করা হয়েছে।",
+        "lead_en": "A Hajj agency has been heavily fined for failing to ensure sacrifice and necessary services for pilgrims.",
+        "bullets_bn": [
+          "হজযাত্রীদের কাছ থেকে টাকা নিয়েও কোরবানি নিশ্চিত না করা এবং আবাসন, খাবার ও পরিবহনসেবা দিতে ব্যর্থ হয়েছে এজেন্সি।",
+          "নিয়ম লঙ্ঘনের দায়ে সংশ্লিষ্ট হজ এজেন্সিকে এক লাখ টাকা জরিমানা করা হয়েছে।",
+          "ভবিষ্যতে এ ধরনের অনিয়ম রোধে হজ এজেন্সিগুলোর কার্যক্রমের ওপর কঠোর নজরদারি বজায় রাখার নির্দেশ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The Hajj agency failed to ensure animal sacrifice and provide promised accommodation, food, and transport services after taking money.",
+          "The authorities imposed a fine of one lakh Taka on the agency for violating regulations.",
+          "Strict surveillance will be maintained on Hajj agencies to prevent such irregularities in the future."
+        ],
+        "impact_bn": "এই পদক্ষেপে হজযাত্রীরা প্রতারণা থেকে সুরক্ষা পাবেন এবং এজেন্সির সেবার মান বৃদ্ধি পাবে।",
+        "impact_en": "This measure protects pilgrims from fraud and ensures better service standards from agencies.",
+        "details_bn": "প্রতি বছর হজ ব্যবস্থাপনায় অনিয়ম ও অব্যবস্থাপনার অভিযোগ দীর্ঘদিনের। হাজিদের কাছ থেকে অতিরিক্ত অর্থ আদায় এবং প্রতিশ্রুত সেবা প্রদানে ব্যর্থতার মতো ঘটনায় সরকার ও ধর্ম মন্ত্রণালয় নিয়মিত তদারকি করে আসছে। এ ধরনের অনিয়মের বিরুদ্ধে প্রশাসনিক ব্যবস্থা গ্রহণের মাধ্যমে হজ ব্যবস্থাপনায় শৃঙ্খলা ফিরিয়ে আনার চেষ্টা চলছে।",
+        "details_en": "Allegations of mismanagement and irregularities in Hajj operations have persisted for years. The government and religious ministry regularly monitor issues such as overcharging and failure to deliver promised services. Administrative actions against such violations aim to restore discipline in Hajj management."
+      }
+    },
+    {
+      "story_id": "0f0d31e2-72ee-53fd-a530-48fe72b82c94",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T09:57:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9412,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/976055/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A7%E0%A6%BE%E0%A6%AA-%E0%A6%8F%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "আইনের শাসনে দুই ধাপ এগিয়েছে বাংলাদেশ, তবু পিছিয়ে বহু দেশের চেয়ে",
+          "snippet": "আইনের শাসনে দুই ধাপ এগিয়েছে বাংলাদেশ, তবু পিছিয়ে বহু দেশের চেয়ে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইনের শাসন সূচকে দুই ধাপ এগিয়েছে বাংলাদেশ",
+        "title_en": "Bangladesh Advances Two Steps in Rule of Law Index",
+        "summary_bn": "ওয়ার্ল্ড জাস্টিস প্রজেক্টের প্রকাশিত ২০২৬ সালের আইনের শাসন সূচকে বাংলাদেশ ১৪৩টি দেশের মধ্যে ১২৩তম অবস্থান অর্জন করেছে।",
+        "summary_en": "Bangladesh has secured the 123rd position among 143 countries in the Rule of Law Index 2026 published by the World Justice Project.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T09:57:45+00:00",
+        "lead_bn": "ওয়ার্ল্ড জাস্টিস প্রজেক্টের প্রকাশিত ২০২৬ সালের আইনের শাসন সূচকে বাংলাদেশ ১৪৩টি দেশের মধ্যে ১২৩তম অবস্থান অর্জন করেছে।",
+        "lead_en": "Bangladesh has secured the 123rd position among 143 countries in the Rule of Law Index 2026 published by the World Justice Project.",
+        "bullets_bn": [
+          "ওয়ার্ল্ড জাস্টিস প্রজেক্টের প্রকাশিত নতুন সূচকে বাংলাদেশ দুই ধাপ উন্নতি করেছে।",
+          "টি দেশের মধ্যে বাংলাদেশের বর্তমান অবস্থান ১২৩তম এবং অর্জিত স্কোর শূন্য দশমিক তিন নয়।",
+          "উন্নতি হওয়া সত্ত্বেও দেশটির স্কোর বৈশ্বিক গড় শূন্য দশমিক পাঁচ পাঁচের নিচে রয়েছে।"
+        ],
+        "bullets_en": [
+          "Bangladesh has improved by two steps in the newly published Rule of Law Index by the World Justice Project.",
+          "The country holds the 123rd position out of 143 nations with a current score of 0.39.",
+          "Despite the progress, the national score remains below the global average of 0.55."
+        ],
+        "impact_bn": "আইনের শাসন উন্নত না হলে দেশের সাধারণ নাগরিক ও বিচারপ্রার্থীরা ন্যায়বিচার প্রাপ্তিতে দীর্ঘমেিয় ভোগান্তির শিকার হন।",
+        "impact_en": "Stagnant judicial standards and low legal enforcement scores can delay justice and affect rights for everyday citizens.",
+        "details_bn": "ওয়ার্ল্ড জাস্টিস প্রজেক্ট নিয়মিতভাবে বিশ্বজুড়ে আইনের শাসনের বিভিন্ন সূচক প্রকাশ করে থাকে। এই সূচকে মৌলিক অধিকার, সরকারের ক্ষমতার সীমাবদ্ধতা, দুর্নীতি অনুপস্থিতি এবং বিচার ব্যবস্থার কার্যকারিতার মতো বিষয়গুলো মূল্যায়ন করা হয়। বৈশ্বিক গড়ের তুলনায় পিছিয়ে থাকায় বাংলাদেশের বিচার বিভাগীয় সংস্কার ও প্রশাসনিক স্বচ্ছতার ওপর গুরুত্ব দিচ্ছেন বিশেষজ্ঞরা।",
+        "details_en": "The World Justice Project regularly evaluates global legal systems based on factors like fundamental rights, absence of corruption, and regulatory enforcement. Scoring below the global average highlights ongoing structural challenges within the national judicial framework."
+      }
+    },
+    {
+      "story_id": "9ed3687b-4439-5d69-b66a-67ee84b39463",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T09:57:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9409,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1170885",
+          "title": "ঢাকায় উদ্ধার ১১৭ মোবাইল, মালিকদের আইএমইআই মিলিয়ে দেখার আহ্বান ডিবির",
+          "snippet": "ঢাকায় উদ্ধার ১১৭ মোবাইল, মালিকদের আইএমইআই মিলিয়ে দেখার আহ্বান ডিবির"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকায় উদ্ধার হওয়া ১১৭টি মোবাইল ফোনের মালিক শনাক্তে ডিবির আহ্বান",
+        "title_en": "DB Appeals to Identify Owners of 117 Recovered Mobile Phones in Dhaka",
+        "summary_bn": "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ রাজধানীতে অভিযান চালিয়ে উদ্ধার হওয়া ১১৭টি চোরাই মোবাইল ফোনের প্রকৃত মালিকদের খুঁজে বের করতে আইএমইআই নম্বর মিলিয়ে দেখার আহ্বান জানিয়েছে।",
+        "summary_en": "The Detective Branch of Dhaka Metropolitan Police has urged rightful owners to verify IMEI numbers to claim 117 recovered mobile phones.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T09:57:43+00:00",
+        "lead_bn": "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ রাজধানীতে অভিযান চালিয়ে উদ্ধার হওয়া ১১৭টি চোরাই মোবাইল ফোনের প্রকৃত মালিকদের খুঁজে বের করতে আইএমইআই নম্বর মিলিয়ে দেখার আহ্বান জানিয়েছে।",
+        "lead_en": "The Detective Branch of Dhaka Metropolitan Police has urged rightful owners to verify IMEI numbers to claim 117 recovered mobile phones.",
+        "bullets_bn": [
+          "ঢাকা মেট্রোপলিটন পুলিশের গোয়েন্দা বিভাগ রাজধানীতে অভিযান চালিয়ে মোট ১১৭টি চোরাই মোবাইল ফোন উদ্ধার করেছে।",
+          "উদ্ধারকৃত ফোনগুলোর ব্র্যান্ড এবং আইএমইআই নম্বরের বিস্তারিত তালিকা ডিএমপির পক্ষ থেকে প্রকাশ করা হয়েছে।",
+          "প্রকৃত মালিকরা প্রমাণ সাপেক্ষে ডিবি কার্যালয় থেকে নির্দিষ্ট প্রক্রিয়া অনুসরণ করে তাদের ফোন সংগ্রহ করতে পারবেন।"
+        ],
+        "bullets_en": [
+          "The Detective Branch of Dhaka Metropolitan Police recovered a total of 117 stolen mobile phones during recent operations in the capital.",
+          "DMP has officially published a detailed list containing the brands and corresponding IMEI numbers of the recovered devices.",
+          "Rightful owners can claim their respective devices from the DB office by presenting valid proof of ownership and verification documents."
+        ],
+        "impact_bn": "সাধারণ মানুষ হারিয়ে যাওয়া বা চুরি হওয়া দামি স্মার্টফোন পুনরায় ফিরে পাওয়ার সুযোগ পাবে এবং অপরাধ চক্রের দৌরাত্ম্য কমবে।",
+        "impact_en": "Citizens gain a direct pathway to recover lost or stolen smartphones, reducing the financial loss caused by device theft.",
+        "details_bn": "রাজধানীতে মোবাইল ফোন চুরি ও ছিনতাইয়ের ঘটনা বৃদ্ধি পাওয়ার প্রেক্ষাপটে আইনশৃঙ্খলা বাহিনী নিয়মিত বিশেষ অভিযান পরিচালনা করে আসছে। এসব অভিযানে উদ্ধার হওয়া অনেক ডিভাইসের প্রকৃত মালিকদের খুঁজে পাওয়া কঠিন হয়ে পড়ে। এই সমস্যার সমাধানে ডিএমপির গোয়েন্দা বিভাগ উদ্ধার করা ফোনের আইএমইআই নম্বর প্রকাশ করে মালিক শনাক্তের উদ্যোগ নিয়েছে, যা অপরাধ দমনে সহায়ক ভূমিকা পালন করবে।",
+        "details_en": "Amid rising incidents of mobile phone theft and snatching in the capital, law enforcement agencies conduct regular special operations. Often, tracing the rightful owners of recovered devices proves difficult. To address this, the Detective Branch has published IMEI numbers to streamline owner identification and return stolen property."
+      }
+    },
+    {
+      "story_id": "62d9ea5f-9a12-5dcd-a974-1ebc8cfae375",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T09:48:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8544,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1170882",
+          "title": "ফরিদপুরে বিপন্ন প্রজাতির গন্ধগোকুল উদ্ধার",
+          "snippet": "ফরিদপুরে বিপন্ন প্রজাতির গন্ধগোকুল উদ্ধার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফরিদপুরে স্থানীয়দের সহায়তায় বিপন্ন প্রজাতির গন্ধগোকুল উদ্ধার",
+        "title_en": "Endangered Civet Cat Rescued With Local Help in Faridpur",
+        "summary_bn": "ফরিদপুর সদর উপজেলায় একটি কলা রাখার ঘর থেকে বিপন্ন প্রজাতির একটি গন্ধগোকুল উদ্ধার করা হয়েছে।",
+        "summary_en": "An endangered civet cat has been rescued from a banana storage room in the Faridpur Sadar upazila.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T09:48:13+00:00",
+        "lead_bn": "ফরিদপুর সদর উপজেলায় একটি কলা রাখার ঘর থেকে বিপন্ন প্রজাতির একটি গন্ধগোকুল উদ্ধার করা হয়েছে।",
+        "lead_en": "An endangered civet cat has been rescued from a banana storage room in the Faridpur Sadar upazila.",
+        "bullets_bn": [
+          "স্থানীয় বাসিন্দারা কানাইপুর ইউনিয়নের কোশাগোপালপুর এলাকা থেকে গন্ধগোকুলটি আটক করেন।",
+          "উদ্ধারকৃত প্রাণীটিকে পরবর্তীতে বন বিভাগের কার্যালয়ে হস্তান্তর করা হয়।",
+          "বন্যপ্রাণী সংরক্ষণ ও নিরাপত্তার স্বার্থে প্রাণীটিকে নিরাপদ প্রাকৃতিক আবাসে অবমুক্ত করা হবে।"
+        ],
+        "bullets_en": [
+          "Local residents successfully captured the civet cat from the Koshagopalpur area of Kanaipur union.",
+          "The rescued animal was subsequently handed over to the local forest department office.",
+          "The wildlife will be released into a secure natural habitat to ensure its conservation and safety."
+        ],
+        "impact_bn": "স্থানীয় জনসাধারণ বন্যপ্রাণী সংরক্ষণে সচেতনতা বৃদ্ধি ও দায়িত্বশীল আচরণের পরিচয় দিচ্ছে।",
+        "impact_en": "Local residents are demonstrating greater awareness and responsibility toward wildlife conservation.",
+        "details_bn": "গ্রামীণ জনপদে অনেক সময় বন্যপ্রাণী লোকালয়ে চলে আসে এবং খাদ্য বা আশ্রয়ের খোঁজে ঘরবাড়িতে প্রবেশ করে। এ ধরনের বিপন্ন প্রাণী রক্ষায় সচেতন নাগরিকরা প্রায়ই বন বিভাগের সহায়তা নিয়ে থাকেন। গন্ধগোকুল আমাদের পরিবেশের ভারসাম্য রক্ষায় অত্যন্ত গুরুত্বপূর্ণ একটি নিশাচর বন্যপ্রাণী, যা ইঁদুর ও অন্যান্য ক্ষতিকর পোকামাকড় খেয়ে পরিবেশের উপকার করে থাকে। বন্যপ্রাণী সংরক্ষণে সাধারণ মানুষের এই সম্পৃক্ততা জীববৈচিত্র্য রক্ষায় ইতিবাচক ভূমিকা রাখছে।",
+        "details_en": "Wildlife frequently strays into human settlements in rural areas searching for food or shelter. Alert citizens often coordinate with the forest department to rescue such endangered species. The civet cat is a vital nocturnal animal that helps maintain ecological balance by controlling rodent and pest populations. Public involvement in wildlife rescue plays a crucial role in preserving local biodiversity and protecting vulnerable species from harm."
+      }
+    },
+    {
+      "story_id": "3e679951-2e27-5b01-9869-9e2040faa89b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -69,23 +285,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T08:59:30+00:00",
+      "published_at": "2026-10-22T09:46:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9181,
+      "importance_score": 2.4,
+      "rank_score": 0.8402,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976042/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
-          "title": "সৌদির বিমানবন্দরে হুথিদের হামলায় ভারতীয়সহ নিহত ২, আহত ৮",
-          "snippet": "সৌদির বিমানবন্দরে হুথিদের হামলায় ভারতীয়সহ নিহত ২, আহত ৮"
+          "url": "https://www.banglatribune.com/foreign/middle-east/976053/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%9B%E0%A7%9F-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A7%A7%E0%A7%A6%E0%A7%AE-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A6%E0%A6%A3%E0%A7%8D%E0%A6%A1-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A6%B0",
+          "title": "সৌদি আরবে ছয় মাসে ১০৮ জনের মৃত্যুদণ্ড কার্যকর",
+          "snippet": "সৌদি আরবে ছয় মাসে ১০৮ জনের মৃত্যুদণ্ড কার্যকর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদির বিমানবন্দরে হুথি হামলায় ভারতীয়সহ নিহত দুই",
-        "title_en": "Two Killed Including Indian in Houthi Airport Attack in Saudi Arabia",
-        "summary_bn": "সৌদির কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় একজন ভারতীয়সহ দুইজন নিহত এবং আটজন আহত হয়েছেন।",
-        "summary_en": "A Houthi attack on Saudi Arabia's King Fahd International Airport left two dead, including an Indian national, and eight injured.",
+        "title_bn": "সৌদি আরবে অর্ধবছরে ১০৮ জনের মৃত্যুদণ্ড কার্যকর",
+        "title_en": "Saudi Arabia Executes 108 People in First Half of Year",
+        "summary_bn": "সৌদি আরবে বছরের প্রথম ছয় মাসে ১০৮ জনের মৃত্যুদণ্ড কার্যকর করা হয়েছে যার মধ্যে অর্ধেকের বেশি বিদেশি নাগরিক।",
+        "summary_en": "Saudi Arabia has executed 108 people in the first half of the year, with foreign nationals comprising over half.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -93,239 +309,23 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T08:59:30+00:00",
-        "lead_bn": "সৌদির কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় একজন ভারতীয়সহ দুইজন নিহত এবং আটজন আহত হয়েছেন।",
-        "lead_en": "A Houthi attack on Saudi Arabia's King Fahd International Airport left two dead, including an Indian national, and eight injured.",
+        "published_at": "2026-10-22T09:46:30+00:00",
+        "lead_bn": "সৌদি আরবে বছরের প্রথম ছয় মাসে ১০৮ জনের মৃত্যুদণ্ড কার্যকর করা হয়েছে যার মধ্যে অর্ধেকের বেশি বিদেশি নাগরিক।",
+        "lead_en": "Saudi Arabia has executed 108 people in the first half of the year, with foreign nationals comprising over half.",
         "bullets_bn": [
-          "সৌদির দাম্মাম শহরের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীরা ড্রোন বা ক্ষেপণাস্ত্র হামলা চালায়।",
-          "হামলায় একজন সৌদি নাগরিক ও একজন ভারতীয় বাসিন্দা নিহত হন এবং আটজন আহত হন।",
-          "সৌদি বেসামরিক বিমান চলাচল কর্তৃপক্ষ ঘটনার সত্যতা নিশ্চিত করে নিরাপত্তা জোরদার করেছে।"
+          "চলতি বছরের প্রথমার্ধে সৌদি আরবে মোট ১০৮ জনের মৃত্যুদণ্ড কার্যকর করা হয়েছে।",
+          "নিহতদের মধ্যে ৫৯ জন বিদেশি নাগরিক যার মধ্যে বাংলাদেশি নাগরিকও অন্তর্ভুক্ত রয়েছেন।",
+          "মাদকসংক্রান্ত অপরাধের দায়ে ৭১ জন এবং হত্যার অভিযোগে বাকিদের মৃত্যুদণ্ড কার্যকর করা হয়।"
         ],
         "bullets_en": [
-          "Houthi rebels carried out an attack on the King Fahd International Airport in Dammam, Saudi Arabia.",
-          "The strike resulted in the deaths of one Saudi national and one Indian resident, injuring eight others.",
-          "The General Authority of Civil Aviation confirmed the casualties and tightened security measures."
+          "A total of 108 individuals faced execution in Saudi Arabia during the first half of the year.",
+          "Foreign nationals accounted for 59 of the executed individuals, including Bangladeshi citizens.",
+          "The executions included 71 individuals convicted of drug-related offenses and others for murder."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী কর্মী ও তাদের পরিবারগুলোর মধ্যে নিরাপত্তা উদ্বেগ বৃদ্ধি পেয়েছে।",
-        "impact_en": "The incident heightens security concerns among expatriate workers and their families in the Middle East.",
-        "details_bn": "সৌদি আরবের পূর্বাঞ্চলের দাম্মাম শহরে অবস্থিত কিং ফাহাদ আন্তর্জাতিক বিমানবন্দর কৌশলগতভাবে অত্যন্ত গুরুত্বপূর্ণ। ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সৌদির তেল ও বেসামরিক অবকাঠামো লক্ষ্য করে আন্তঃসীমান্ত হামলা চালিয়ে আসছে। আঞ্চলিক সংঘাতের অংশ হিসেবে বেসামরিক লোকজনকে লক্ষ্য করে এ ধরনের হামলা আন্তর্জাতিক আইনের লঙ্ঘন এবং মধ্যপ্রাচ্যের নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলছে।",
-        "details_en": "The King Fahd International Airport in Dammam is a crucial strategic infrastructure in eastern Saudi Arabia. Houthi rebels in Yemen have frequently targeted Saudi energy and civilian installations amid the ongoing regional conflict. Such attacks on civilian areas violate international norms and further complicate the security landscape in the Middle East."
-      }
-    },
-    {
-      "story_id": "47d9d29b-3ac6-5759-96fe-de25a198e5c9",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T08:54:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8223,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170854",
-          "title": "মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের",
-          "snippet": "মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অবৈধ জাহাজ চলাচলে সহায়তা অব্যাহত রাখলে মার্কিন ঘাঁটিতে হামলার হুঁশিয়ারি ইরানের",
-        "title_en": "Iran Warns of Attacks on US Bases if Illegal Shipping Support Continues",
-        "summary_bn": "মধ্যপ্রাচ্যে অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্র সহায়তা অব্যাহত রাখলে সেখানকার মার্কিন সামরিক ঘাঁটিগুলো সংঘাতে জড়াবে বলে হুঁশিয়ারি দিয়েছে ইরান।",
-        "summary_en": "Iran warned that continued US support for illegal shipping in the Middle East will bring American military bases into the conflict.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T08:54:37+00:00",
-        "lead_bn": "মধ্যপ্রাচ্যে অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্র সহায়তা অব্যাহত রাখলে সেখানকার মার্কিন সামরিক ঘাঁটিগুলো সংঘাতে জড়াবে বলে হুঁশিয়ারি দিয়েছে ইরান।",
-        "lead_en": "Iran warned that continued US support for illegal shipping in the Middle East will bring American military bases into the conflict.",
-        "bullets_bn": [
-          "মধ্যপ্রাচ্যে মার্কিন সামরিক ঘাঁটিগুলো সংঘাতের আওতায় আসবে বলে তেহরান সরাসরি হুঁশিয়ারি উচ্চারণ করেছে।",
-          "অবৈধ জাহাজ চলাচলে যুক্তরাষ্ট্রের চলমান সহায়তা এই আঞ্চলিক উত্তেজনার মূল কারণ হিসেবে উল্লেখ করা হয়েছে।",
-          "পরিস্থিতি নিয়ন্ত্রণহীন হলে মধ্যপ্রাচ্যজুড়ে সংঘাত ছড়িয়ে পড়ার আশঙ্কা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Tehran issued a direct warning that US military bases in the Middle East will fall under potential conflict.",
-          "Ongoing US support for illegal shipping was cited as the primary catalyst for regional escalation.",
-          "Unchecked escalation risks widening the military conflict across the entire Middle East region."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যের চলমান উত্তেজনার কারণে বৈশ্বিক জ্বালানি সরবরাহ ও মধ্যপ্রাচ্যে প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে উদ্বেগ বাড়ছে।",
-        "impact_en": "Ongoing Middle East tensions heighten concerns over global fuel supplies and the security of expatriate workers.",
-        "details_bn": "মধ্যপ্রাচ্যের জলসীমায় বাণিজ্যিক জাহাজ চলাচল ও আঞ্চলিক নিরাপত্তা নিয়ে দীর্ঘ দিন ধরে যুক্তরাষ্ট্র ও ইরানের মধ্যে ভূ-রাজনৈতিক উত্তেজনা বিরাজ করছে। লোহিত সাগর ও সংলগ্ন জলপথে হুথি বিদ্রোহীদের তৎপরতা এবং পশ্চিমা দেশগুলোর সামরিক উপস্থিতির কারণে সংঘাতের মাত্রা ক্রমেই বাড়ছে। এই পরিস্থিতিতে তেহরান মার্কিন সামরিক নীতির তীব্র সমালোচনা করে কঠোর হুঁশিয়ারি দিয়েছে।",
-        "details_en": "Geopolitical tensions between the United States and Iran have persisted over commercial shipping and regional security in Middle Eastern waters. Escalating Houthi rebel activities in the Red Sea and surrounding waterways, coupled with Western military deployment, have intensified conflict risks. Amidst this backdrop, Tehran issued sharp warnings criticizing ongoing US military posture."
-      }
-    },
-    {
-      "story_id": "e55cf1b2-c1a4-59ab-b68b-2174f00e6ea2",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T08:47:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6913,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1170848",
-          "title": "জমি নিয়ে দুই পক্ষের বিরোধে আটকে গেল প্রতিমা বিসর্জন",
-          "snippet": "জমি নিয়ে দুই পক্ষের বিরোধে আটকে গেল প্রতিমা বিসর্জন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রংপুরে জমি সংক্রান্ত বিরোধের জেরে প্রতিমা বিসর্জন স্থগিত",
-        "title_en": "Pratima Immersion Halted in Rangpur Due to Land Dispute",
-        "summary_bn": "সনাতন ধর্মাবলম্বীদের দুই পক্ষের জমি নিয়ে বিরোধের জেরে রংপুরে দশমীর রাতে প্রতিমা বিসর্জন কার্যক্রম স্থগিত করা হয়।",
-        "summary_en": "Pratima immersion was halted in Rangpur on Dashami night due to a land dispute between two factions of the Hindu community.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T08:47:09+00:00",
-        "lead_bn": "সনাতন ধর্মাবলম্বীদের দুই পক্ষের জমি নিয়ে বিরোধের জেরে রংপুরে দশমীর রাতে প্রতিমা বিসর্জন কার্যক্রম স্থগিত করা হয়।",
-        "lead_en": "Pratima immersion was halted in Rangpur on Dashami night due to a land dispute between two factions of the Hindu community.",
-        "bullets_bn": [
-          "জমি নিয়ে বিরোধের জেরে প্রতিমা বিসর্জন কার্যক্রম বন্ধ থাকে।",
-          "দশমীর দিন গভীর রাত পর্যন্ত দুপক্ষের মধ্যে তুমুল বাগবিতণ্ডা ও সড়ক অবরোধ চলে।",
-          "পরিস্থিতি নিয়ন্ত্রণে আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও স্থানীয় প্রশাসন হস্তক্ষেপ করে।"
-        ],
-        "bullets_en": [
-          "Pratima immersion activities were halted due to an ongoing land dispute.",
-          "Intense arguments and road blockades continued deep into Dashami night between the two factions.",
-          "Law enforcement agencies and local administration intervened to bring the situation under control."
-        ],
-        "impact_bn": "ধর্মীয় উৎসব ব্যাহত হওয়ায় স্থানীয় সনাতন ধর্মাবলম্বী সম্প্রদায়ের মাঝে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The disruption of a major religious festival has caused concern among the local Hindu community.",
-        "details_bn": "রংপুরে সনাতন ধর্মাবলম্বীদের দুই পক্ষের দীর্ঘদিনের জমি সংক্রান্ত বিরোধের জেরে দুর্গাপূজার বিজয়া দশমীর রাতে প্রতিমা বিসর্জন অনুষ্ঠান আটকে যায়। গভীর রাত পর্যন্ত উভয় পক্ষের তর্ক-বিতর্ক ও সড়ক অবরোধের কারণে সাধারণ মানুষের চলাচল বিঘ্নিত হয়। স্থানীয় প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হস্তক্ষেপে পরিস্থিতি শান্ত করার চেষ্টা চলছে।",
-        "details_en": "The immersion of idols during Durga Puja was halted in Rangpur due to a long-standing land dispute between two factions of the Hindu community. Protracted arguments and road blockades continued deep into Dashami night, disrupting public movement. Local administration and law enforcement agencies are working to restore order and resolve the dispute."
-      }
-    },
-    {
-      "story_id": "1c125f40-43ea-5b94-9f07-d0bc65209ca1",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#SavarCrime",
-        "#MadrasaIncident"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/Savar%20Map.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-22T08:45:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6643,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/madrasa-headteachers-wife-arrested-over-alleged-rape-13-year-old-savar-4304841",
-          "title": "Madrasa headteacher's wife arrested over alleged rape of 13-year-old in Savar",
-          "snippet": "Madrasa headteacher's wife arrested over alleged rape of 13-year-old in Savar"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেপ্তার",
-        "title_en": "Madrasa Headteacher's Wife Arrested Over Alleged Rape of Student in Savar",
-        "summary_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহায়তা ও হুমকি দেওয়ার অভিযোগে এক মাদরাসা প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested a madrasa headteacher's wife in Savar over allegations that she assisted in raping a 13-year-old student.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T08:45:29+00:00",
-        "lead_bn": "সাভারে ১৩ বছরের মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহায়তা ও হুমকি দেওয়ার অভিযোগে এক মাদরাসা প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested a madrasa headteacher's wife in Savar over allegations that she assisted in raping a 13-year-old student.",
-        "bullets_bn": [
-          "সাভারে মাদরাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী মোসাম্মৎ তোহফাকে গ্রেপ্তার করেছে পুলিশ।",
-          "অভিযুক্ত শিক্ষক মাওলানা মো. আব বারী ছাত্রীকে ধর্ষণ করেন এবং তার স্ত্রী ভুক্তভোগীকে হুমকি দেন।",
-          "ভুক্তভোগীর দাদার করা মামলার পর প্রধান শিক্ষকের স্ত্রীকে গ্রেপ্তার করা হলেও মূল অভিযুক্ত পলাতক রয়েছেন।"
-        ],
-        "bullets_en": [
-          "Police arrested Mosammat Tohfa, wife of a madrasa headteacher, over allegations of assisting in the rape of a student in Savar.",
-          "The victim's grandfather filed a case at Savar Model Police Station following the incident.",
-          "The prime accused madrasa headteacher remains absconding while law enforcement efforts continue."
-        ],
-        "impact_bn": "educational institutions-এ শিক্ষার্থী নিরাপত্তা ও শিক্ষকদের জবাবদিহিতা নিশ্চিত করার দাবি জোরালো হচ্ছে।",
-        "impact_en": "This incident heightens safety concerns for students in residential educational institutions and urges stricter oversight.",
-        "details_bn": "ঘটনার সূত্রপাত ঘটে যখন সাভারের ছোট কালিয়াকৈরে একটি নারী মাদরাসার প্রধান শিক্ষক মাওলানা মো. আব বারী ১৩ বছরের এক ছাত্রীকে নিজ কার্যালয়ের পাশের কক্ষে ধর্ষণ করেন। এ সময় তার স্ত্রী মোসাম্মৎ তোহফা ছাত্রীকে চুপ থাকার জন্য হুমকি দেন। পরে মাদরাসার এক রাঁধুনির সহায়তায় ভুক্তভোগী বাড়িতে ফিরে তার পরিবারকে বিষয়টি জানায়। ঘটনা জানাজানি হলে স্থানীয় জনতা ক্ষুব্ধ হয়ে মাদরাসাটিতে ভাঙচুর চালায়। পুলিশ অতিরিক্ত ফোর্স পাঠিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং প্রধান শিক্ষকের স্ত্রীকে আটক করে।",
-        "details_en": "The incident unfolded at a women's madrasa in Chhoto Kaliakoir, Savar, where the headteacher allegedly assaulted a 13-year-old student while his wife assisted by threatening the victim. Following the disclosure, local residents gathered and vandalized the madrasa premises. Police intervened to bring the situation under control, leading to the arrest of the headteacher's wife, while a manhunt is underway for the fugitive prime suspect."
-      }
-    },
-    {
-      "story_id": "d431019e-9429-5fbc-8c30-21b2d829a671",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T08:42:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6237,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170845",
-          "title": "বিশ্বজুড়ে সাইবার হামলার শঙ্কা, দেশে দেশে সতর্কতা",
-          "snippet": "বিশ্বজুড়ে সাইবার হামলার শঙ্কা, দেশে দেশে সতর্কতা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পিএইচপির গুরুতর নিরাপত্তা ত্রুটি নিয়ে বিশ্বজুড়ে সতর্কতা জারি",
-        "title_en": "Global Security Alert Issued Over Critical PHP Vulnerabilities",
-        "summary_bn": "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে এবং প্রযুক্তি প্রতিষ্ঠানগুলো হামলা ঠেকাতে কাজ করছে।",
-        "summary_en": "Global alerts have been issued following the identification of two critical PHP security vulnerabilities as tech giants work to prevent attacks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T08:42:53+00:00",
-        "lead_bn": "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে এবং প্রযুক্তি প্রতিষ্ঠানগুলো হামলা ঠেকাতে কাজ করছে।",
-        "lead_en": "Global alerts have been issued following the identification of two critical PHP security vulnerabilities as tech giants work to prevent attacks.",
-        "bullets_bn": [
-          "পিএইচপির দুটি গুরুতর নিরাপত্তা ত্রুটি নিয়ে বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে",
-          "ঝুঁকি শনাক্ত ও সম্ভাব্য হামলা ঠেকাতে গুগল ওপেনএআই এবং অ্যামাজন কাজ করছে",
-          "সফটওয়্যার সিস্টেমে সাইবার হামলা প্রতিরোধের সুরক্ষামূলক ব্যবস্থা জোরদার করা হচ্ছে"
-        ],
-        "bullets_en": [
-          "Global warnings have been issued regarding two critical security flaws in PHP",
-          "Tech giants including Google OpenAI and Amazon are actively working to mitigate risks",
-          "Defensive measures are being reinforced across software systems to prevent potential cyber attacks"
-        ],
-        "impact_bn": "সাইবার ঝুঁকির কারণে ব্যবহারকারীদের ব্যক্তিগত ডেটা সুরক্ষা নিশ্চিত করতে সফটওয়্যার আপডেট করার প্রয়োজন হতে পারে।",
-        "impact_en": "Users may need to update software to ensure personal data protection amid heightened cyber risk.",
-        "details_bn": "প্রযুক্তির আধুনিক যুগে বিভিন্ন ওপেন সোর্স সফটওয়্যার এবং প্রোগ্রামিং ভাষার নিরাপত্তা ত্রুটি বড় ধরনের সাইবার ঝুঁকির কারণ হয়ে দাঁড়ায়। পিএইচপিভিত্তিক সিস্টেমগুলোতে অতীতেও বিভিন্ন দুর্বলতা দেখা দেওয়ায় প্রযুক্তি জায়ান্টরা যৌথভাবে সাইবার নিরাপত্তা নিশ্চিত করতে কাজ করে থাকে। সাম্প্রতিক এই ত্রুটিগুলো দ্রুত সমাধান না করলে বিশ্বজুড়ে বড় পরিসরে সাইবার হামলার আশঙ্কা থাকে।",
-        "details_en": "In the modern tech era, security vulnerabilities in open-source software and programming languages frequently pose major cyber risks. As PHP-based systems have faced weaknesses in the past, technology giants routinely collaborate to ensure robust cybersecurity. Failing to address these recent flaws promptly raises the risk of large-scale cyber attacks globally."
+        "impact_bn": "বিদেশে কর্মরত বাংলাদেশি প্রবাসীদের আইনি সুরক্ষা ও সচেতনতা বাড়ানোর প্রয়োজনীয়তা তৈরি হয়েছে।",
+        "impact_en": "The situation highlights the urgent need for increased legal awareness and consular support for expatriate workers.",
+        "details_bn": "ইউরোপীয় সৌদি অর্গানাইজেশন ফর হিউম্যান রাইটসের এক প্রতিবেদনে এই তথ্য প্রকাশ করা হয়েছে। সৌদি আরবে বিভিন্ন অপরাধের দায়ে কঠোর আইন প্রয়োগের অংশ হিসেবে নিয়মিতভাবেই মৃত্যুদণ্ড কার্যকর করা হয়ে থাকে, যা নিয়ে আন্তর্জাতিক মানবাধিকার সংগঠনগুলো দীর্ঘদিন ধরে উদ্বেগ প্রকাশ করে আসছে।",
+        "details_en": "The figures were published in a report by the European-Saudi Organisation for Human Rights. Saudi Arabia routinely enforces capital punishment for various offenses, a practice that international human rights organizations have long criticized."
       }
     }
   ]
