@@ -1,81 +1,79 @@
 {
-  "updated_at": "2026-10-22T17:00:47.993808",
+  "updated_at": "2026-10-22T18:00:49.458624",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "031ba480-5d3b-50b8-8445-bc9ea22acf16",
-      "primary_category": "world_diplomacy",
+      "story_id": "60d35552-ba10-5f80-ac74-ef9be239e20e",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/big-band-wall.jpg?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/Capture-3.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T16:10:45+00:00",
+      "published_at": "2026-10-22T17:44:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.7012,
+      "importance_score": 4.8,
+      "rank_score": 1.6451,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/trump-administration-seeks-supreme-court-permission-to-build-border-wall-in-big-bend/",
-          "title": "সীমান্তপ্রাচীর নির্মাণে সুপ্রিম কোর্টের অনুমতি চাইল ট্রাম্প প্রশাসন",
-          "snippet": "সীমান্তপ্রাচীর নির্মাণে সুপ্রিম কোর্টের অনুমতি চাইল ট্রাম্প প্রশাসন"
+          "url": "https://www.channelionline.com/three-nephews-of-three-brothers-arrested-in-mirpur-on-charges-of-land-grabbing-and-extortion/",
+          "title": "মিরপুরে দখল-চাঁদাবাজি: শীর্ষ সন্ত্রাসী মামুন বাহিনীর ৩ ভাগনে গ্রেপ্তার",
+          "snippet": "মিরপুরে দখল-চাঁদাবাজি: শীর্ষ সন্ত্রাসী মামুন বাহিনীর ৩ ভাগনে গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টেক্সাস সীমান্তে প্রাচীর নির্মাণ শুরু করতে সুপ্রিম কোর্টের অনুমতি চাইল যুক্তরাষ্ট্র",
-        "title_en": "US Administration Asks Supreme Court to Lift Order Blocking Border Wall",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রশাসন টেক্সাসের বিগ বেন্ড এলাকায় মেক্সিকো সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় চালুর জন্য সুপ্রিম কোর্টের কাছে জরুরি আবেদন করেছে।",
-        "summary_en": "The US administration has filed an emergency appeal with the Supreme Court to resume border wall construction in Texas.",
+        "title_bn": "মিরপুরে চাঁদাবাজি ও দখলের অভিযোগে শীর্ষ সন্ত্রাসী মামুন বাহিনীর তিনজন গ্রেপ্তার",
+        "title_en": "Three Associates of Mamun Gang Arrested in Mirpur Extortion Crackdown",
+        "summary_bn": "পুলিশ রাজধানীর মিরপুরে বিশেষ অভিযান চালিয়ে চাঁদাবাজি ও দখলদারির সাথে জড়িত শীর্ষ সন্ত্রাসী মামুন বাহিনীর তিন সদস্যকে গ্রেপ্তার করেছে।",
+        "summary_en": "Police arrested three members of the Mamun gang in Mirpur for extortion, land grabbing, and illegal business control.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T16:10:45+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রশাসন টেক্সাসের বিগ বেন্ড এলাকায় মেক্সিকো সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় চালুর জন্য সুপ্রিম কোর্টের কাছে জরুরি আবেদন করেছে।",
-        "lead_en": "The US administration has filed an emergency appeal with the Supreme Court to resume border wall construction in Texas.",
+        "published_at": "2026-10-22T17:44:23+00:00",
+        "lead_bn": "পুলিশ রাজধানীর মিরপুরে বিশেষ অভিযান চালিয়ে চাঁদাবাজি ও দখলদারির সাথে জড়িত শীর্ষ সন্ত্রাসী মামুন বাহিনীর তিন সদস্যকে গ্রেপ্তার করেছে।",
+        "lead_en": "Police arrested three members of the Mamun gang in Mirpur for extortion, land grabbing, and illegal business control.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের বিচার বিভাগ বিগ বেন্ড এলাকায় সীমান্তপ্রাচীর নির্মাণের ওপর থাকা নিম্ন আদালতের নিষেধাজ্ঞা তুলে নেওয়ার অনুরোধ জানিয়েছে।",
-          "প্রায় ১৭০ কোটি ডলার ব্যয়ের এই প্রকল্পে যানবাহন চলাচলের প্রতিবন্ধক, টহল সড়ক ও আলোকব্যবস্থা স্থাপনের পরিকল্পনা রয়েছে।",
-          "পরিবেশবাদী সংগঠনের করা মামলার নিষ্পত্তি না হওয়া পর্যন্ত সুপ্রিম কোর্টের সিদ্ধান্তের অপেক্ষায় রয়েছে প্রশাসন।"
+          "মিরপুর মডেল থানা পুলিশ বিশেষ অভিযান পরিচালনা করে মেহেদী হাসান জয়, সানজিম হাসান ও অমিত হাসানকে গ্রেপ্তার করে।",
+          "গ্রেপ্তারকৃতদের মাধ্যমে আদায় করা চাঁদাবাজির অর্থ বিদেশে পলাতক শীর্ষ সন্ত্রাসী তিন মামার কাছে পাঠানো হতো।",
+          "পুলিশের প্রাথমিক জিজ্ঞাসাবাদ শেষে আসামীদের বিরুদ্ধে সুনির্দিষ্ট আইনি প্রক্রিয়ায় পরবর্তী পদক্ষেপ গ্রহণ করা হচ্ছে।"
         ],
         "bullets_en": [
-          "The US Department of Justice asked the Supreme Court to lift a lower court injunction halting border wall construction in the Big Bend area.",
-          "The 1.7 billion dollar project involves building vehicle barriers, patrol roads, and surveillance infrastructure along the border.",
-          "The administration awaits a Supreme Court ruling while facing ongoing legal challenges from environmental organizations."
+          "Mirpur Model Police Station conducted a special drive to arrest Mehedi Hasan Joy, Sanjim Hasan, and Amit Hasan.",
+          "Extortion money collected through the arrestees was funneled to fugitive kingpins hiding abroad.",
+          "Police are executing further legal proceedings following primary interrogation of the suspects."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের টেক্সাস অঙ্গরাজ্যের পশ্চিমাঞ্চলে বিগ বেন্ড এলাকায় সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় শুরু করতে সুপ্রিম কোর্টের অনুমতি চেয়েছে প্রশাসন। মেক্সিকো সীমান্তে নিরাপত্তা জোরদার ও অভিবাসন নিয়ন্ত্রণের অংশ হিসেবে বিচার বিভাগ এই জরুরি আবেদন করে। পরিবেশবাদী একটি সংগঠন প্রকল্পের কাজ বন্ধের দাবিতে মামলা করলে ফেডারেল আদালত নির্মাণকাজে নিষেধাজ্ঞা দেয়। প্রায় ১৭০ কোটি ডলার ব্যয়ের এ প্রকল্পে কেন্দ্রীয় সরকারের পরিবেশ সংরক্ষণ আইন প্রয়োগে ছাড় দেওয়া নিয়ে বিরোধ চলছে।",
-        "details_en": "The US administration has asked the Supreme Court to allow the resumption of border wall construction in the Big Bend region of West Texas. The Department of Justice filed the emergency appeal to advance security and immigration control measures. Environmental groups previously secured a federal court injunction halting the project, arguing against exemptions from environmental protection laws for the 1.7 billion dollar initiative."
+        "impact_bn": "এই গ্রেপ্তারের ফলে মিরপুর এলাকায় চাঁদাবাজি, ঝুট ব্যবসা নিয়ন্ত্রণ ও কিশোর গ্যাংয়ের দৌরাত্ম্য কিছুটা কমবে বলে আশা করা হচ্ছে।",
+        "impact_en": "The arrests are expected to curb local extortion, illegal garment jhut business control, and juvenile gang activities in Mirpur.",
+        "details_bn": "রাজধানীর মিরপুরে দীর্ঘদিন ধরে ফোর স্টার গ্রুপের ব্যানারে ঝুট ব্যবসা নিয়ন্ত্রণ, প্লট ও ফ্ল্যাট দখল এবং ফুটপাত থেকে চাঁদাবাজি চালিয়ে আসছিল একটি শক্তিশালী সিন্ডিকেট। বিদেশে পলাতক শীর্ষ সন্ত্রাসী মফিজুর রহমান মামুন, মশিউর রহমান ও জামিলুর রহমানের নির্দেশেই এই সাম্রাজ্য পরিচালিত হতো। সম্প্রতি গণমাধ্যমে এই চাঁদাবাজির সাম্রাজ্য নিয়ে প্রতিবেদন প্রকাশিত হওয়ার পর আইনশৃঙ্খলা রক্ষাকারী বাহিনী নড়েচড়ে বসে এবং ধারাবাহিক অভিযان চালিয়ে তাদের সহযোগীদের আটক করে।",
+        "details_en": "A powerful syndicate under the banner of the Four Star Group has long controlled extortion, garment jhut businesses, and land grabbing in Mirpur. The criminal network was directed by fugitive underworld figures Mofijur Rahman Mamun, Moshiur Rahman, and Jamilur Rahman from abroad. Following recent media reports exposing their extensive extortion empire, law enforcement agencies launched a crackdown and apprehended key local associates."
       }
     },
     {
       "story_id": "7d3d3cd9-7ae2-516f-ab37-0344a9faa6b3",
-      "primary_category": "society_education",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
         "governance_law"
       ],
       "tags": [
         "#Gazipur",
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#BangladeshPolice"
       ],
       "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Gazipur%20Map.jpg",
       "image_caption": null,
       "published_at": "2026-10-22T16:44:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6494,
+      "rank_score": 1.0262,
       "sources": [
         {
           "name": "The Daily Star",
@@ -85,146 +83,37 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে ১২ বছরের কিশোরীকে ধর্ষণ ও গর্ভপাত মামলায় গ্রেপ্তার ৩",
-        "title_en": "Three Arrested in Gazipur Over Alleged Rape and Forced Abortion",
-        "summary_bn": "গাজীপুরের কালিয়াকৈরে ১২ বছরের এক কিশোরীকে বারবার ধর্ষণ ও গর্ভপাতের অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested three men in Gazipur over the alleged repeated rape and forced abortion of a 12-year-old girl.",
+        "title_bn": "গাজীপুরে দ্বাদশ শ্রেণীর ছাত্রীকে ধর্ষণ ও জোরপূর্বক গর্ভপাত করানোর ঘটনায় গ্রেপ্তার ৩",
+        "title_en": "Three Arrested in Gazipur for Alleged Rape and Forced Abortion of Minor",
+        "summary_bn": "গাজীপুরের কালীগঞ্জে এক কিশোরীকে একাধিকবার ধর্ষণের পর জোরপূর্বক গর্ভপাত করানোর অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested three men in Gazipur for the alleged repeated rape and forced abortion of a minor girl.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T16:44:32+00:00",
-        "lead_bn": "গাজীপুরের কালিয়াকৈরে ১২ বছরের এক কিশোরীকে বারবার ধর্ষণ ও গর্ভপাতের অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested three men in Gazipur over the alleged repeated rape and forced abortion of a 12-year-old girl.",
+        "lead_bn": "গাজীপুরের কালীগঞ্জে এক কিশোরীকে একাধিকবার ধর্ষণের পর জোরপূর্বক গর্ভপাত করানোর অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested three men in Gazipur for the alleged repeated rape and forced abortion of a minor girl.",
         "bullets_bn": [
-          "ভুক্তভোগীর মায়ের দায়ের করা মামলার ভিত্তিতে পুলিশ চার অভিযুক্তের মধ্যে তিনজনকে গ্রেপ্তার করেছে।",
-          "গ্রেপ্তারকৃতরা হলেন মো. আহাদ, মো. শামীম এবং মো. নজরুল ইসলাম।",
-          "মামলার বাকি এক পলাতক অভিযুক্তকে গ্রেপ্তারের জন্য পুলিশের অভিযান অব্যাহত রয়েছে।"
+          "কালীগঞ্জ থানায় চারজনকে আসামি করে মামলা দায়ের করেন ভুক্তভোগী কিশোরীর মা",
+          "গ্রেপ্তারকৃতরা হলেন মো. আহাদ, মো. শামীম ও মো. নজরুল ইসলাম",
+          "চতুর্থ আসামিকে ধরতে পুলিশের অভিযান অব্যাহত রয়েছে এবং গ্রেপ্তারকৃতদের আদালতে পাঠানো হয়েছে"
         ],
         "bullets_en": [
-          "Police arrested three of the four named accused following a complaint filed by the victim mother.",
-          "The arrestees are Md Ahad, Md Shamim, and Md Nazrul Islam.",
-          "Law enforcement operations are ongoing to capture the remaining absconding suspect."
+          "The victim's mother filed a case at Kaliganj Police Station naming four individuals as accused.",
+          "Police arrested Md Ahad, Md Shamim, and Md Nazrul Islam following overnight operations.",
+          "Law enforcement operations are ongoing to capture the fourth absconding suspect."
         ],
-        "impact_bn": "শিশু ও কিশোরীদের সুরক্ষায় আইন প্রয়োগকারী সংস্থার কঠোর নজরদারি এবং দ্রুত আইনি পদক্ষেপ নিশ্চিত করার দাবি জোরালো হয়েছে।",
-        "impact_en": "This incident heightens public urgency for stronger child protection measures and swift justice against gender-based violence.",
-        "details_bn": "অভিযোগ অনুযায়ী, গাজীপুরের কালিয়াকঞ্জে পাঁচ মাস আগে এক অভিযুক্ত কিশোরীকে ভয় দেখিয়ে ধর্ষণের সূত্রপাত করে। পরবর্তীতে আরও কয়েকজন বিভিন্ন স্থানে নিয়ে তাকে বারবার ধর্ষণ করে বলে মামলায় উল্লেখ করা হয়। কিশোরী গর্ভবতী হওয়ার পর তাকে জোরপূর্বক ওষুধ খাইয়ে গর্ভপাত করানো হয়। বিষয়টি জানাজানি হওয়ার পর ভুক্তভোগীর মা থানায় মামলা দায়ের করেন এবং পুলিশ অভিযান চালিয়ে তিনজনকে গ্রেপ্তার করে। চতুর্থ অভিযুক্তকে গ্রেপ্তারের চেষ্টা চলছে।",
-        "details_en": "According to the case details, the victim was initially lured and raped in Kaliganj five months ago. Subsequent threats and repeated assaults by multiple men led to a pregnancy, after which she was forced to take medication for an abortion. Following a formal complaint by the victim mother, police conducted raids and apprehended three suspects while continuing efforts to track down the remaining fugitive."
+        "impact_bn": "এই অপরাধমূলক ঘটনা সমাজে নারী ও শিশুর নিরাপত্তা এবং আইনি সুরক্ষার বিষয়টি জোরালোভাবে সামনে এনেছে।",
+        "impact_en": "This incident highlights severe concerns regarding the safety and legal protection of minors in local communities.",
+        "details_bn": "গাজীপুরের কালীগঞ্জে এক কিশোরীকে পাঁচ মাস আগে হুমকি দিয়ে একটি বাড়িতে নিয়ে ধর্ষণ করা হয়। পরবর্তীতে আরও তিন ব্যক্তি বিভিন্ন স্থানে নিয়ে তাকে একাধিকবার ধর্ষণ করে বলে এজাহারে উল্লেখ করা হয়। ভুক্তভোগী গর্ভধারণ করার পর অভিযুক্তরা তাকে ওষুধ খাইয়ে জোরপূর্বক গর্ভপাত করায়। পুলিশ মামলা দায়েরের পর দ্রুত অভিযান চালিয়ে তিনজনকে গ্রেপ্তার করে এবং পলাতক অপর আসামিকে ধরতে অভিযান চালাচ্ছে।",
+        "details_en": "A minor girl was allegedly lured and repeatedly raped by multiple suspects in Kaliganj, Gazipur, over several months under threats of violence. After the victim became pregnant, the primary accused provided medication to force an abortion. Following a formal complaint by the victim's mother, police conducted overnight raids and apprehended three suspects, while efforts continue to arrest the remaining fugitive."
       }
     },
     {
-      "story_id": "77ebf5d5-1024-5f52-8685-dfb97a8475a6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fd1c4rffx%2Fjhenaidahdh05742026102218415809-4553-43ef-82b0-792ea8e53742.jpg?rect=0%2C0%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T16:43:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.628,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/33txzkdzk7",
-          "title": "কার্যক্রম নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক, থানা থেকে ছাড়িয়ে নিলেন জামায়াতের নেতারা",
-          "snippet": "কার্যক্রম নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক, থানা থেকে ছাড়িয়ে নিলেন জামায়াতের নেতারা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক ব্যক্তিকে ছাড়িয়ে নিলেন জামায়াত নেতারা",
-        "title_en": "Jamaat Leaders Secure Release of Detained Man Suspected as Jubo League Leader",
-        "summary_bn": "ঝিনাইদহের কোটচাঁদপুরে নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক এক ব্যক্তিকে দলীয় সদস্যপদ প্রমাণ করে ছাড়িয়ে নিয়েছেন জামায়াত নেতারা।",
-        "summary_en": "Jamaat leaders secured the release of a man detained in Jhenaidah on suspicion of being a banned Jubo League leader.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T16:43:09+00:00",
-        "lead_bn": "ঝিনাইদহের কোটচাঁদপুরে নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক এক ব্যক্তিকে দলীয় সদস্যপদ প্রমাণ করে ছাড়িয়ে নিয়েছেন জামায়াত নেতারা।",
-        "lead_en": "Jamaat leaders secured the release of a man detained in Jhenaidah on suspicion of being a banned Jubo League leader.",
-        "bullets_bn": [
-          "সোর্সের ভুল তথ্যের ভিত্তিতে কোটচাঁদপুর থানা পুলিশ হায়দার আলী নামের এক ব্যক্তিকে আটক করে।",
-          "জামায়াত নেতারা থানায় গিয়ে ২০২২ সাল থেকে ওই ব্যক্তির দলীয় সদস্যপদের রসিদ ও নথিপত্র প্রদর্শন করেন।",
-          "যাচাই-বাছাই শেষে ঊর্ধ্বতন কর্তৃপক্ষের অনুমতি সাপেক্ষে পুলিশ তাঁকে জামায়াত নেতাদের জিম্মায় ছেড়ে দেয়।"
-        ],
-        "bullets_en": [
-          "Kotchandpur police detained a man named Haidar Ali based on erroneous information provided by an informant.",
-          "Jamaat leaders visited the police station to present membership receipts and documents proving his affiliation since 2022.",
-          "Police handed him over to Jamaat leaders following verification and clearance from higher authorities."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পুলিশ সোর্সের দেওয়া তথ্যের ভিত্তিতে ঝিনাইদহের কোটচাঁদপুর উপজেলার তালসার গ্রাম থেকে হায়দার আলীকে আটক করে। আটকের পর স্থানীয় জামায়াতের শীর্ষ নেতারা থানায় উপস্থিত হন এবং দাবি করেন আটক ব্যক্তি নিষিদ্ধ যুবলীগের কেউ নন, বরং ২০২২ সাল থেকে তাঁদের দলের সক্রিয় কর্মী। তাঁরা দলীয় চাঁদা বা ইয়ানতের রসিদ এবং সভা-সমাবেশে উপস্থিত থাকার নানা প্রমাণ পুলিশের কাছে পেশ করেন। সমস্ত কাগজপত্র যাচাই করার পর পুলিশ ঊর্ধ্বতন কর্তৃপক্ষের সঙ্গে আলোচনা করে তাঁকে জামায়াত নেতাদের কাছে হস্তান্তর করে এবং ভুল তথ্য সরবরাহকারী সোর্সের বিরুদ্ধে ব্যবস্থা নেওয়ার ঘোষণা দেয়।",
-        "details_en": "Police detained Haidar Ali from Talsar village in Kotchandpur upazila of Jhenaidah based on an informant's tip. Following the detention, local Jamaat leaders rushed to the police station and argued that the detainee was not affiliated with the banned Jubo League, but had been an active Jamaat member since 2022. They submitted party contribution receipts and attendance records of meetings to substantiate their claim. After reviewing the documents and consulting superiors, police handed him over to the Jamaat leaders and announced action against the source who provided false information."
-      }
-    },
-    {
-      "story_id": "5d29d5ad-d965-529d-9f43-d4bf23070b57",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T16:34:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5021,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/cricket/1171033",
-          "title": "প্রবাসী বাংলাদেশিদের নিয়ে হবে ব্যতিক্রমী ক্রিকেট বিশ্বকাপ!",
-          "snippet": "প্রবাসী বাংলাদেশিদের নিয়ে হবে ব্যতিক্রমী ক্রিকেট বিশ্বকাপ!"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রবাসী বাংলাদেশিদের নিয়ে বিশেষ ক্রিকেট বিশ্বকাপ আয়োজনের উদ্যোগ",
-        "title_en": "Special Cricket World Cup Planned for Expatriate Bangladeshis",
-        "summary_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের একই প্ল্যাটফর্মে আনতে আয়োজন করা হচ্ছে বিশেষ ক্রিকেট বিশ্বকাপ।",
-        "summary_en": "A special cricket world cup is being organized to bring together expatriate Bangladeshis living across the globe.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T16:34:21+00:00",
-        "lead_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের একই প্ল্যাটফর্মে আনতে আয়োজন করা হচ্ছে বিশেষ ক্রিকেট বিশ্বকাপ।",
-        "lead_en": "A special cricket world cup is being organized to bring together expatriate Bangladeshis living across the globe.",
-        "bullets_bn": [
-          "বিশ্বের বিভিন্ন দেশে বসবাসরত প্রবাসী বাংলাদেশিদের অংশগ্রহণে টুর্নামেন্টটি আয়োজনের সিদ্ধান্ত নেওয়া হয়েছে।",
-          "বিশ্বজুড়ে বিভিন্ন দেশে স্থায়ী ও অস্থায়ীভাবে বসবাসকারী প্রায় দুই কোটি প্রবাসী বাংলাদেশি এই উদ্যোগের সাথে যুক্ত।",
-          "প্রবাসী বাংলাদেশিদের মধ্যে সম্প্রীতি বাড়াতে এই টুর্নামেন্টের বিভিন্ন ম্যাচ বিশ্বজুড়ে অনুষ্ঠিত হবে।"
-        ],
-        "bullets_en": [
-          "Organizers decided to host a special cricket tournament featuring expatriate Bangladeshis residing across various global destinations.",
-          "Nearly twenty million permanent and temporary expatriate Bangladeshis live across different countries worldwide.",
-          "The tournament matches will be held globally to foster stronger connections among the diaspora."
-        ],
-        "impact_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের মধ্যে পারস্পরিক যোগাযোগ ও সাংস্কৃতিক বন্ধন আরও দৃঢ় হবে।",
-        "impact_en": "Communication and cultural bonds among expatriate Bangladeshis worldwide will be significantly strengthened.",
-        "details_bn": "পৃথিবীর বিভিন্ন দেশে স্থায়ী ও অস্থায়ীভাবে বসবাস করছেন প্রায় দুই কোটি প্রবাসী বাংলাদেশি। তাদের পারস্পরিক মেলবন্ধন বাড়াতে এবং একই ছাতার নিচে আনতে এবার ব্যতিক্রমী এই ক্রিকেট বিশ্বকাপের উদ্যোগ নেওয়া হয়েছে। এই আয়োজনের মাধ্যমে প্রবাসী যুবসমাজ ক্রীড়ার মাধ্যমে আরও বেশি সংযুক্ত হওয়ার সুযোগ পাবে।",
-        "details_en": "Nearly twenty million expatriate Bangladeshis currently live permanently or temporarily across various countries globally. This unique cricket world cup initiative has been launched to connect them and bring the diaspora under one umbrella. Through this event, expatriate youth will get opportunities to bond further through sports."
-      }
-    },
-    {
-      "story_id": "d231e349-0f54-55ab-b074-c445713859fc",
+      "story_id": "7fef8c84-2a9f-5fb7-845d-0c3046d2cf4e",
       "primary_category": "tech_innovation",
       "interest_categories": [
         "tech_innovation",
@@ -234,25 +123,25 @@
         "#Technology",
         "#Innovation"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Untitled8-18.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T17:00:00+00:00",
+      "published_at": "2026-10-22T17:59:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9643,
+      "rank_score": 0.9586,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/tech-and-gadget/976146/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A6%B2%E0%A6%BE-%E0%A6%8F%E0%A6%A8%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%A8%E0%A7%AE%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
-          "title": "স্যামসাংয়ে টেসলা-এনভিডিয়ারের ২৮০ কোটি ডলারের বিনিয়োগ",
-          "snippet": "স্যামসাংয়ে টেসলা-এনভিডিয়ারের ২৮০ কোটি ডলারের বিনিয়োগ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/i-havent-seen-an-incident-like-this-in-a-long-time-said-the-microsoft-chief/",
+          "title": "‘দীর্ঘ সময়ে এমন ঘটনা দেখিনি’, বললেন মাইক্রোসফট প্রধান",
+          "snippet": "‘দীর্ঘ সময়ে এমন ঘটনা দেখিনি’, বললেন মাইক্রোসফট প্রধান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টেসলা ও এনভিডিয়া থেকে ২৮০ কোটি ডলার বিনিয়োগ পাচ্ছে স্যামসাং",
-        "title_en": "Samsung Secures 2.8 Billion Dollar Investment From Tesla and Nvidia",
-        "summary_bn": "দক্ষিণ কোরিয়ার স্যামসাং ইলেক্ট্রো-মেকানিক্স টেসলা ও এনভিডিয়ার কাছ থেকে প্রায় ২৮০ কোটি ডলারের বিশাল বিনিয়োগ পেতে যাচ্ছে।",
-        "summary_en": "South Korea's Samsung Electro-Mechanics is receiving a massive investment of nearly 2.8 billion dollars from Tesla and Nvidia.",
+        "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ার পর বিশ্বজুড়ে লাখ লাখ হ্যাকিংয়ের চেষ্টা",
+        "title_en": "Millions of hacking attempts globally after critical security flaws found in PHP",
+        "summary_bn": "ওয়েব ডেভেলপমেন্টে বহুল ব্যবহৃত পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ার পর বিশ্বজুড়ে লাখ লাখ সাইবার হামলার চেষ্টা চালানো হয়েছে।",
+        "summary_en": "Millions of cyberattacks hit systems globally after two critical security flaws were discovered in the widely used PHP programming language.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -260,78 +149,189 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T17:00:00+00:00",
-        "lead_bn": "দক্ষিণ কোরিয়ার স্যামসাং ইলেক্ট্রো-মেকানিক্স টেসলা ও এনভিডিয়ার কাছ থেকে প্রায় ২৮০ কোটি ডলারের বিশাল বিনিয়োগ পেতে যাচ্ছে।",
-        "lead_en": "South Korea's Samsung Electro-Mechanics is receiving a massive investment of nearly 2.8 billion dollars from Tesla and Nvidia.",
+        "published_at": "2026-10-22T17:59:34+00:00",
+        "lead_bn": "ওয়েব ডেভেলপমেন্টে বহুল ব্যবহৃত পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ার পর বিশ্বজুড়ে লাখ লাখ সাইবার হামলার চেষ্টা চালানো হয়েছে।",
+        "lead_en": "Millions of cyberattacks hit systems globally after two critical security flaws were discovered in the widely used PHP programming language.",
         "bullets_bn": [
-          "এআই সেমিকন্ডাক্টরের উন্নত চিপ সাবস্ট্রেট তৈরির জন্য এ বিনিয়োগ ব্যবহার করা হবে",
-          "বিনিয়োগের মোট পরিমাণ প্রায় ৩ দশমিক ৭ ট্রিলিয়ন ওয়ান বা ২৮০ কোটি ডলার",
-          "নতুন এই স্থাপনাটি এফসি-বিজিএ প্রযুক্তির চিপ উৎপাদনে কাজ করবে"
+          "পিএইচপি প্রোগ্রামিং ভাষার দুটি গুরুতর নিরাপত্তা ত্রুটি সংশোধন করতে ডেভেলপাররা একটি জরুরি হালনাগাদ সংস্করণ প্রকাশ করেছেন।",
+          "নিরাপত্তা ত্রুটি প্রকাশ্যে আসার প্রথম দুই ঘণ্টার মধ্যে ক্লাউডফ্লেয়ার সিস্টেমে সাইবার হামলার চেষ্টা কয়েক লাখে পৌঁছায়।",
+          "ঝুঁকি এড়াতে জাপানের কয়েকটি আর্থিক প্রতিষ্ঠান ও বিমান সংস্থা সাময়িকভাবে তাদের কিছু অনলাইন সেবা বন্ধ রেখেছে।"
         ],
         "bullets_en": [
-          "The investment will be used to build facilities for advanced chip substrates for AI semiconductors",
-          "The total investment amounts to approximately 3.7 trillion won or 2.8 billion dollars",
-          "The new facility will focus on manufacturing FC-BGA technology chips"
+          "Developers released an urgent security update to fix two critical vulnerabilities discovered in the PHP programming language.",
+          "Cloudflare reported that hacking attempts surged to hundreds of thousands within just two hours of the vulnerability disclosure.",
+          "Several Japanese financial institutions and airlines temporarily suspended online services as a precautionary measure."
         ],
-        "impact_bn": "উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির চিপ উৎপাদন বাড়ায় বিশ্ববাজারে ডিভাইস উৎপাদনে গতি আসবে।",
-        "impact_en": "Increased production of advanced AI chips will accelerate global device manufacturing capabilities.",
-        "details_bn": "দক্ষিণ কোরিয়ার শীর্ষস্থানীয় সংবাদমাধ্যম মায়েইল বিজনেস নিউজপেপারের প্রতিবেদনে এই বড় বিনিয়োগের খবর প্রকাশিত হয়েছে। কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত প্রসারের ফলে উন্নত সেমিকন্ডাক্টর ও চিপ সাবস্ট্রেটের চাহিদা বিশ্বজুড়ে বহুগুণ বেড়ে গেছে। এই চাহিদার জোগান দিতে প্রযুক্তি জায়ান্ট স্যামসাং তাদের উৎপাদন সক্ষমতা ব্যাপকভাবে বাড়াচ্ছে।",
-        "details_en": "The news of this major investment was reported by South Korea's leading daily, Maeil Business Newspaper. With the rapid expansion of the artificial intelligence sector, the global demand for advanced semiconductors and chip substrates has multiplied significantly. To meet this demand, tech giant Samsung is drastically scaling up its manufacturing capabilities."
+        "impact_bn": "অনলাইন সেবা সাময়িকভাবে বন্ধ থাকায় বিভিন্ন দেশের সাধারণ ব্যবহারকারী ও গ্রাহকরা ডিজিটাল সেবা গ্রহণে সাময়িক ভোগান্তিতে পড়েছেন।",
+        "impact_en": "Ordinary users and customers faced temporary disruptions in accessing online services as major institutions restricted digital access.",
+        "details_bn": "ওয়েবসাইট তৈরি ও পরিচালনায় বহুল ব্যবহৃত পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর ত্রুটি কৃত্রিম বুদ্ধিমত্তার সহায়তায় শনাক্ত করা হয়। ত্রুটিগুলোর বিস্তারিত তথ্য প্রকাশের পর হ্যাকাররা ওয়েবসাইটের নিয়ন্ত্রণ নেওয়ার চেষ্টা চালায়। পরিস্থিতি মোকাবিলায় বিশ্বের বিভিন্ন দেশের সরকার ও বাণিজ্যিক প্রতিষ্ঠান জরুরি ভিত্তিতে ওয়েবসাইট হালনাগাদ ও অনলাইন সেবা সীমিত করে। মাইক্রোসফটের প্রধান নির্বাহী সত্য নাদেলা একে দীর্ঘ সময়ের মধ্যে অন্যতম নজিরবিহীন ঘটনা বলে উল্লেখ করেছেন।",
+        "details_en": "Two critical vulnerabilities in the widely used PHP programming language were identified using artificial intelligence. Details of the flaws leaked before the patch, triggering hundreds of thousands of cyberattack attempts as hackers sought to exploit the systems. Governments and commercial entities worldwide rushed to update software and restrict online services. Microsoft CEO Satya Nadella described the incident as unprecedented in recent times."
       }
     },
     {
-      "story_id": "2e5a284e-f3e1-51b4-a110-3bc31f113279",
-      "primary_category": "governance_law",
+      "story_id": "515328c9-9f40-559e-98dc-823f5a938c5c",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business",
+        "world_diplomacy"
       ],
       "tags": [
-        "#Madaripur",
-        "#CrimeNews",
-        "#BangladeshPolice"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Madaripur-web.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T16:58:51+00:00",
+      "published_at": "2026-10-22T17:59:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9525,
+      "rank_score": 0.9528,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/man-killed-madaripur-clash-after-attack-burqa-clad-assailants-police-official-says-4305206",
-          "title": "Man killed in Madaripur clash after attack by burqa-clad assailants, police official says",
-          "snippet": "Man killed in Madaripur clash after attack by burqa-clad assailants, police official says"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/business/news/976096/%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%81%E0%A6%9A-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A6%B6%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%AA%E0%A7%87",
+          "title": "ইউরোপে বিক্ষোভের আঁচ বাংলাদেশের পোশাকশিল্পে, হাতছাড়া হতে পারে ক্রয়াদেশ",
+          "snippet": "ইউরোপে বিক্ষোভের আঁচ বাংলাদেশের পোশাকশিল্পে, হাতছাড়া হতে পারে ক্রয়াদেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাদারীপুরের কালকিনিতে বোমা হামলা ও সংঘর্ষে নিহত ১",
-        "title_en": "One Killed in Bomb Attack and Subsequent Clash in Madaripur",
-        "summary_bn": "মাদারীপুরের কালকিনি উপজিলায় বোরকা পরা ব্যক্তিদের বোমা হামলা ও সংঘর্ষের ঘটনায় এক ব্যক্তি নিহত হয়েছেন।",
-        "summary_en": "A man died following a clash triggered by a bomb attack carried out by burqa-clad assailants in Madaripur.",
+        "title_bn": "ইউরোপীয় ইউনিয়নের বাজারে বাংলাদেশের পোশাক রপ্তানি কমেছে ১১ শতাংশের বেশি",
+        "title_en": "Bangladesh RMG exports to European Union drop by over 11 percent",
+        "summary_bn": "ইউরোপীয় ইউনিয়নের বাজারে চাহিদা কমার পাশাপাশি সামগ্রিক আমদানির তুলনায় বাংলাদেশের পোশাক রপ্তানি আরও দ্রুত হ্রাস পেয়েছে।",
+        "summary_en": "Bangladesh garment exports to the European Union declined at a faster rate than the market's overall contraction.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T16:58:51+00:00",
-        "lead_bn": "মাদারীপুরের কালকিনি উপজিলায় বোরকা পরা ব্যক্তিদের বোমা হামলা ও সংঘর্ষের ঘটনায় এক ব্যক্তি নিহত হয়েছেন।",
-        "lead_en": "A man died following a clash triggered by a bomb attack carried out by burqa-clad assailants in Madaripur.",
+        "published_at": "2026-10-22T17:59:00+00:00",
+        "lead_bn": "ইউরোপীয় ইউনিয়নের বাজারে চাহিদা কমার পাশাপাশি সামগ্রিক আমদানির তুলনায় বাংলাদেশের পোশাক রপ্তানি আরও দ্রুত হ্রাস পেয়েছে।",
+        "lead_en": "Bangladesh garment exports to the European Union declined at a faster rate than the market's overall contraction.",
         "bullets_bn": [
-          "বোরকা পরিহিত চার দুষ্কৃতকারী কালকিনি উপজেলার কালীনগঞ্জ বাজারে একটি চায়ের দোকানে অতর্কিত বোমা হামলা চালায়।",
-          "হামলায় নিহত তাইজুল সরদারসহ অন্তত ছয়জন আহত হন এবং উন্নত চিকিৎসার জন্য তাদের ঢাকা মেডিকেল কলেজ হাসপাতালে পাঠানো হয়।",
-          "পুলিশ ঘটনার সঙ্গে জড়িত পলাতক হামলাকারীদের গ্রেপ্তার করতে এবং বাকি তিনজনকে আইনের আওতায় আনতে তদন্ত শুরু করেছে।"
+          "ইউরোপীয় ইউনিয়নের বাজারে বাংলাদেশ থেকে তৈরি পোশাক আমদানি ১১ দশমিক ৬৭ শতাংশ হ্রাস পেয়েছে।",
+          "ইউরোপীয় ইউনিয়নে সামগ্রিকভাবে পোশাক আমদানি ৩ দশমিক ৮৩ শতাংশ কমেছে।",
+          "ইউরোপীয় বাজারে সামগ্রিক সংকোচন এবং তীব্র প্রতিযোগিতার ফলে বাংলাদেশের প্রধান রপ্তানি খাত চাপে পড়েছে।"
         ],
         "bullets_en": [
-          "Four assailants wearing black burqas and pink hijabs detonated crude bombs and launched a sudden attack at a tea stall.",
-          "At least six people including the deceased attacker sustained injuries and were transferred to Dhaka Medical College Hospital.",
-          "Police launched an investigation to track down and apprehend the remaining three attackers who fled the scene."
+          "Garment imports from Bangladesh to the European Union dropped by 11.67 percent.",
+          "Overall apparel imports in the European Union decreased by 3.83 percent.",
+          "The contraction in the European market and intense competition put pressure on Bangladesh export sector."
         ],
-        "impact_bn": "এই ধরনের সহিংস ঘটনা স্থানীয় জনসাধারণের মধ্যে আতঙ্ক ও নিরাপত্তার উদ্বেগ বাড়িয়ে তোলে।",
-        "impact_en": "Such violent clashes raise immediate security concerns and create panic among local residents.",
-        "details_bn": "মাদারীপুরের কালকিনি উপজেলার কালীনগঞ্জ বাজারে স্থানীয় দুই পক্ষের দ্বন্দ্বের জেরে এই সহিংস হামলা ও সংঘর্ষের ঘটনা ঘটে। হামলাকারীরা বোরকা পরে আত্মগোপন করে দেশীয় অস্ত্র ও ককটেল ব্যবহার করে অতর্কিত হামলা চালায়। এতে উভয়পক্ষের বেশ কয়েকজন গুরুতর আহত হন এবং হাসপাতালে নেওয়ার পর একজনের মৃত্যু হয়। পুলিশ ও স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে এলাকায় নজরদারি বাড়িয়েছে।",
-        "details_en": "The violent clash erupted at Kaliganj Bazar in Madaripur following an ambush by attackers wearing disguises. The assailants used crude bombs and sharp weapons against individuals sitting at a local tea stall, triggering a counter-attack from associates. Law enforcement agencies intervened to restore order and initiated efforts to capture the fleeing suspects."
+        "impact_bn": "রপ্তানি আয় হ্রাসের কারণে দেশের পোশাক কারখানাগুলোর ওপর চাপ তৈরি হতে পারে যা কর্মসংস্থানে প্রভাব ফেলতে পারে।",
+        "impact_en": "Falling export revenue may increase pressure on local garment factories and impact employment.",
+        "details_bn": "ইউরোপের বাজারে জীবনযাত্রার ব্যয় বৃদ্ধি এবং সামগ্রিক অর্থনৈতিক মন্দার কারণে তৈরি পোশাকের চাহিদা কমেছে। এর ফলে ইউরোপীয় ইউনিয়নের বাজারে অন্যান্য দেশের তুলনায় বাংলাদেশের রপ্তানি পতন আরও বড় উদ্বেগের কারণ হয়ে দাঁড়িয়েছে, যা দেশের প্রধান বৈদেশিক মুদ্রা অর্জনকারী এই খাতের প্রবৃদ্ধি মন্থর করে দিচ্ছে।",
+        "details_en": "Rising living costs and economic slowdown in Europe have reduced consumer demand for apparel. Consequently, Bangladesh has experienced a steeper decline in exports compared to the broader market contraction, posing a serious challenge to the country primary foreign exchange-earning sector."
+      }
+    },
+    {
+      "story_id": "d32251e7-13ef-5a9a-ae27-db5639fdb672",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T17:56:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9246,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/health/976156/%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8B%E0%A6%AA%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE",
+          "title": "ডেঙ্গুর প্রকোপে চাপে চিকিৎসাসেবা",
+          "snippet": "ডেঙ্গুর প্রকোপে চাপে চিকিৎসাসেবা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশে ডেঙ্গুর প্রকোপ অব্যাহত থাকায় একদিনে চার জনের মৃত্যু",
+        "title_en": "Four Deaths Reported in a Single Day Amid Rising Dengue Outbreak",
+        "summary_bn": "ডেঙ্গু আক্রান্ত হয়ে সারাদেশে এক দিনে চার জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন দেড় হাজারের বেশি রোগী।",
+        "summary_en": "Four people have died from dengue across the country in a single day, with over fifteen hundred new patients hospitalized.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T17:56:09+00:00",
+        "lead_bn": "ডেঙ্গু আক্রান্ত হয়ে সারাদেশে এক দিনে চার জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন দেড় হাজারের বেশি রোগী।",
+        "lead_en": "Four people have died from dengue across the country in a single day, with over fifteen hundred new patients hospitalized.",
+        "bullets_bn": [
+          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী ২৪ ঘণ্টায় ডেঙ্গুতে আক্রান্ত হয়ে চার জনের মৃত্যু হয়েছে।",
+          "নির্দিষ্ট এই সময়ে নতুন করে হাসপাতালে ভর্তি হয়েছেন এক হাজার ৫১২ জন রোগী।",
+          "হাসপাতালগুলোতে ডেঙ্গু রোগীর চিকিৎসাসেবা অব্যাহত রাখতে স্বাস্থ্য বিভাগ জরুরি প্রস্তুতি গ্রহণ করেছে।"
+        ],
+        "bullets_en": [
+          "Four fatalities from dengue were officially recorded across the country over a single twenty-four-hour period.",
+          "A total of one thousand five hundred twelve new patients were admitted to hospitals during this period.",
+          "Health authorities are maintaining emergency preparedness across medical facilities to manage the continuous influx of patients."
+        ],
+        "impact_bn": "ডেঙ্গুর ক্রমবর্ধমান সংক্রমণের কারণে নগরবাসীর মধ্যে স্বাস্থ্যঝুঁকি ও আতঙ্ক বৃদ্ধি পেয়েছে, যার ফলে বাসা বাড়িতে মশার বিস্তার রোধে সতর্কতা জরুরি হয়ে পড়েছে।",
+        "impact_en": "The rising transmission of dengue increases health risks and anxiety among city residents, making immediate mosquito control measures crucial.",
+        "details_bn": "চলতি বছর ডেঙ্গুর প্রকোপ গত বছরের তুলনায় উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে। প্রতিদিন দেশের বিভিন্ন হাসপাতালগুলোতে হাজার হাজার রোগী ভর্তি হওয়ায় চিকিৎসা সেবা প্রদান ব্যাহত হচ্ছে। স্বাস্থ্য অধিদপ্তর ও স্থানীয় সিটি কর্পোরেশনগুলোর পক্ষ থেকে মশক নিধন এবং সচেতনতামূলক কার্যক্রম পরিচালনা করা হলেও পরিস্থিতির তেমন দৃশ্যমান উন্নতি হয়নি।",
+        "details_en": "Dengue outbreaks have surged significantly this year compared to previous periods, putting immense pressure on hospital capacities across the country. Daily admissions numbering in the thousands have strained medical services. Despite ongoing mosquito eradication drives and awareness campaigns by municipal authorities and health departments, the infection rate remains critically high."
+      }
+    },
+    {
+      "story_id": "5443e77b-bbc6-5945-8f22-3f4576b01f8b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/sub.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-22T17:49:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8656,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/demo-lition-of-mosques-in-india-what-the-bangladesh-hindu-buddhist-christian-unity-council-says/",
+          "title": "ভারতে মসজিদ উচ্ছেদ: কী বলছে বাংলাদেশ হিন্দু-বৌদ্ধ-খ্রিস্টান ঐক্য পরিষদ",
+          "snippet": "ভারতে মসজিদ উচ্ছেদ: কী বলছে বাংলাদেশ হিন্দু-বৌদ্ধ-খ্রিস্টান ঐক্য পরিষদ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দিল্লিতে শতবর্ষী মসজিদ উচ্ছেদের পদক্ষেপে বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদের উদ্বেগ",
+        "title_en": "Hindu Buddhist Christian Unity Council expresses concern over mosque demolition in Delhi",
+        "summary_bn": "ভারতের রাজধানী দিল্লিতে শতবর্ষী ঐতিহাসিক রেসকোর্স মসজিদ উচ্ছেদের উদ্যোগে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদ।",
+        "summary_en": "The Bangladesh Hindu Buddhist Christian Unity Council expressed deep concern over the initiative to demolish a century-old mosque in Delhi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T17:49:39+00:00",
+        "lead_bn": "ভারতের রাজধানী দিল্লিতে শতবর্ষী ঐতিহাসিক রেসকোর্স মসজিদ উচ্ছেদের উদ্যোগে গভীর উদ্বেগ প্রকাশ করেছে বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদ।",
+        "lead_en": "The Bangladesh Hindu Buddhist Christian Unity Council expressed deep concern over the initiative to demolish a century-old mosque in Delhi.",
+        "bullets_bn": [
+          "বাংলাদেশ হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদের সভাপতি অ্যাডভোকেট সুব্রত চৌধুরী ভারতের দিল্লিতে শতবর্ষী মসজিদ উচ্ছেদের তীব্র নিন্দা জানান।",
+          "মসজিদটির বিদ্যুৎ ও পানির সংযোগ বিচ্ছিন্ন করা এবং প্রধান ফটক বন্ধ করে দেওয়ার অভিযোগ তুলেছেন ইমাম।",
+          "ধর্মীয় প্রতিষ্ঠানের নিরাপত্তা নিশ্চিত করতে এবং ভারতের সংবিধানের ধর্মনিরপেক্ষতার নীতি বজায় রাখতে সংশ্লিষ্টদের প্রতি আহ্বান জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Advocate Subrata Chowdhury, president of the Unity Council, strongly condemned the move to demolish a century-old mosque in Delhi.",
+          "The imam of the mosque alleged that authorities disconnected electricity and water supplies and sealed the main gate.",
+          "Calls have been made to ensure the security of religious institutions and uphold secular principles enshrined in the Indian constitution."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভারতের রাজধানী দিল্লিতে প্রধানমন্ত্রীর বাসভবনের কাছাকাছি অবস্থিত ঐতিহাসিক রেসকোর্স মসজিদটি উচ্ছেদের নোটিশ দেওয়ার পর ধর্মীয় প্রতিষ্ঠানগুলোর নিরাপত্তা ও ধর্মীয় স্বাধীনতা নিয়ে প্রশ্ন উঠেছে। স্থানীয় কর্তৃপক্ষের পক্ষ থেকে বিদ্যুৎ ও পানির সংযোগ বিচ্ছিন্ন করার পাশাপাশি প্রধান ফটক বন্ধ করে দেওয়া হয়। যদিও নয়া দিল্লি মিউনিসিপাল কাউন্সিলের ওয়েবসাইটে মসজিদটিকে ঐতিহ্যবাহী সম্পত্তি হিসেবে তালিকাভুক্ত করা হয়েছে। এই ঘটনার প্রতিবাদ জানিয়ে বাংলাদেশে হিন্দু বৌদ্ধ খ্রিস্টান ঐক্য পরিষদ সংখ্যালঘু ও ধর্মীয় উপাসনালয়ের নিরাপত্তা নিয়ে উদ্বেগ প্রকাশ করেছে।",
+        "details_en": "Concerns regarding religious freedom and the security of sacred sites arose after authorities issued a notice to demolish the historic Racecourse Mosque near the Indian Prime Minister's official residence in Delhi. Local authorities reportedly disconnected utilities and sealed the main entrance, despite the mosque being listed as a heritage property by the New Delhi Municipal Council. In response, the Hindu Buddhist Christian Unity Council in Bangladesh voiced strong apprehension over the safety of religious institutions."
       }
     }
   ]
