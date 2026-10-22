@@ -1,63 +1,9 @@
 {
-  "updated_at": "2026-10-22T19:00:50.319336",
+  "updated_at": "2026-10-22T20:00:46.077201",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "c12ca6dc-a67a-5c7b-b295-262aaf8c42ab",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T18:15:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2814,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171036",
-          "title": "সৌদির বিমানবন্দরে হামলা: ফের দাম্মাম ও রিয়াদে বিমানের ফ্লাইট স্থগিত",
-          "snippet": "সৌদির বিমানবন্দরে হামলা: ফের দাম্মাম ও রিয়াদে বিমানের ফ্লাইট স্থগিত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদির বিমানবন্দরে হামলা ও নিরাপত্তাজনিত কারণে বিমানের ফ্লাইট স্থগিত",
-        "title_en": "Biman Bangladesh Suspends Flights to Dammam and Riyadh Amid Security Concerns",
-        "summary_bn": "নিরাপত্তা ঝুঁকির কারণে বিমান বাংলাদেশ এয়ারলাইনস সৌদির দাম্মাম ও রিয়াদগামী ফ্লাইট স্থগিত করেছে।",
-        "summary_en": "Biman Bangladesh Airlines has suspended all flights to Dammam and Riyadh due to ongoing security concerns.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:15:20+00:00",
-        "lead_bn": "নিরাপত্তা ঝুঁকির কারণে বিমান বাংলাদেশ এয়ারলাইনস সৌদির দাম্মাম ও রিয়াদগামী ফ্লাইট স্থগিত করেছে।",
-        "lead_en": "Biman Bangladesh Airlines has suspended all flights to Dammam and Riyadh due to ongoing security concerns.",
-        "bullets_bn": [
-          "সৌদি আরবে হুথিদের হামলার কারণে বিমান বাংলাদেশ এয়ারলাইনস ফ্লাইট চলাচল স্থগিত করার সিদ্ধান্ত নিয়েছে।",
-          "দাম্মামগামী ফ্লাইট ২৫ অক্টোবর পর্যন্ত এবং রিয়াদগামী ফ্লাইট ৩১ অক্টোবর পর্যন্ত স্থগিত রাখা হয়েছে।",
-          "পরিস্থিতি স্বাভাবিক হলে এবং নিরাপত্তা নিশ্চিত হওয়ার পর ফ্লাইট চলাচল পুনরায় শুরু হবে।"
-        ],
-        "bullets_en": [
-          "Biman Bangladesh Airlines suspended flight operations following attacks in Saudi Arabia.",
-          "Flights to Dammam are suspended until October 25 and flights to Riyadh until October 31.",
-          "Flight operations will resume once the situation normalizes and security is fully assured."
-        ],
-        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা ফ্লাইট বাতিলের কারণে ভ্রমণ পরিকল্পনা পরিবর্তনের ভোগান্তিতে পড়বেন।",
-        "impact_en": "Expatriate workers traveling to Saudi Arabia will face disruptions in their travel plans.",
-        "details_bn": "মধ্যপ্রাচ্যে চলমান নিরাপত্তা সংকটের কারণে বিভিন্ন এয়ারলাইন্স তাদের ফ্লাইট সময়সূচিতে পরিবর্তন আনতে বাধ্য হচ্ছে। এর আগে মধ্যপ্রাচ্যের একাধিক রুটে নিরাপত্তা ঝুঁকি এড়াতে বিমান চলাচল সাময়িকভাবে সীমিত বা স্থগিত করা হয়েছিল। সৌদি আরবের আকাশসীমা ও বিমানবন্দরগুলোর সুরক্ষা নিশ্চিত করতে সংশ্লিষ্ট কর্তৃপক্ষগুলো সর্বোচ্চ সতর্কতায় রয়েছে।",
-        "details_en": "Airlines are increasingly forced to adjust flight schedules due to ongoing security tensions in the Middle East. Authorities have previously restricted or suspended operations on several regional routes to avoid security risks. Saudi authorities remain on high alert to ensure the safety of national airspace and airports."
-      }
-    },
-    {
-      "story_id": "fda9c43d-58ab-5dba-bba7-262595b2d5da",
+      "story_id": "f7e5fe05-1a11-5a93-96ab-3f2109341581",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -69,23 +15,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T18:57:47+00:00",
+      "published_at": "2026-10-22T19:43:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9413,
+      "importance_score": 4.8,
+      "rank_score": 1.6323,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/976158/%E0%A6%B0%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95-%E0%A6%B9%E0%A6%BF%E0%A6%AA%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0",
-          "title": "রোমান্টিক হিপোক্রেসি: সঙ্গীর বেলায় প্রতারণা, নিজের বেলায় অজুহাত?",
-          "snippet": "রোমান্টিক হিপোক্রেসি: সঙ্গীর বেলায় প্রতারণা, নিজের বেলায় অজুহাত?"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1171044",
+          "title": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব",
+          "snippet": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রেমের সম্পর্কে দ্বৈত মানদণ্ড ও প্রতারণার মানসিকতা সম্পর্কের জন্য ক্ষতিকর",
-        "title_en": "Double standards in romantic relationships harm trust and emotional stability",
-        "summary_bn": "প্রেমের সম্পর্কে সঙ্গীর ব্যক্তিগত বার্তা আদান-প্রদানকে প্রতারণা মনে করলেও নিজের ক্ষেত্রে একই আচরণকে অজুহাত দিয়ে এড়িয়ে যাওয়া দ্বৈত মানদণ্ডের পরিচায়ক।",
-        "summary_en": "Romantic relationships often suffer from a double standard where individuals excuse their own questionable messaging while condemning their partners.",
+        "title_bn": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের বর্ণিল শারদীয় দুর্গোৎসব উদ্‌যাপন",
+        "title_en": "Expatriate Bengalis Celebrate Vibrant Durga Puja in Düsseldorf, Germany",
+        "summary_bn": "বাংলাদেশ থেকে হাজার হাজার মাইল দূরে জার্মানির ডুসেলডর্ফ শহরে ঢাক-ঢোল ও বাদ্য-বাজনায় শারদীয় দুর্গোৎসব উদযাপিত হয়েছে।",
+        "summary_en": "Expatriate Bengalis celebrated the autumnal Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -93,27 +39,27 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:57:47+00:00",
-        "lead_bn": "প্রেমের সম্পর্কে সঙ্গীর ব্যক্তিগত বার্তা আদান-প্রদানকে প্রতারণা মনে করলেও নিজের ক্ষেত্রে একই আচরণকে অজুহাত দিয়ে এড়িয়ে যাওয়া দ্বৈত মানদণ্ডের পরিচায়ক।",
-        "lead_en": "Romantic relationships often suffer from a double standard where individuals excuse their own questionable messaging while condemning their partners.",
+        "published_at": "2026-10-22T19:43:22+00:00",
+        "lead_bn": "বাংলাদেশ থেকে হাজার হাজার মাইল দূরে জার্মানির ডুসেলডর্ফ শহরে ঢাক-ঢোল ও বাদ্য-বাজনায় শারদীয় দুর্গোৎসব উদযাপিত হয়েছে।",
+        "lead_en": "Expatriate Bengalis celebrated the autumnal Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
         "bullets_bn": [
-          "সঙ্গীর গোপন বার্তা বিনিময় বিশ্বাসঘাতকতা হিসেবে গণ্য হলেও নিজের ক্ষেত্রে বন্ধুত্বের অজুহাত দেওয়া হয়।",
-          "মনস্তাত্ত্বিক বিশ্লেষণে সম্পর্কের ক্ষেত্রে এই ধরনের দ্বৈত নীতি মানসিক দূরত্বের সৃষ্টি করে।",
-          "সম্পর্কে স্বচ্ছতা বজায় রাখতে উভয়ের জন্য সমান নিয়ম ও সততা নিশ্চিত করা জরুরি।"
+          "জার্মানির ডুসেলডর্ফ শহরে প্রবাসী বাঙালিরা ঐতিহ্যবাহী নানা আয়োজনে শারদীয় দুর্গোৎসব উদ্‌যাপন করেন।",
+          "উৎসবটিতে সুদূর প্রবাস থেকে অংশগ্রহণ করেন প্রায় এক হাজার প্রবাসী বাঙালি।",
+          "অনুষ্ঠানে ঢাক-ঢোল ও বাদ্য-বাজনার মধ্য দিয়ে বাঙালি সংস্কৃতির আবহ ফুটিয়ে তোলা হয়।"
         ],
         "bullets_en": [
-          "Individuals label partners texting others as betrayal while justifying their own similar actions as harmless.",
-          "Psychological analysis shows this hypocrisy creates emotional distance and erodes mutual trust.",
-          "Establishing consistent boundaries and mutual transparency helps resolve conflicts in modern relationships."
+          "Expatriate Bengalis celebrated the Durga Puja festival with traditional arrangements in Düsseldorf, Germany.",
+          "Approximately one thousand expatriate Bengalis participated in the festivities from far and wide.",
+          "The celebration highlighted Bengali culture through traditional drumming and musical performances."
         ],
-        "impact_bn": "সম্পর্কের এই দ্বৈত আচরণ তরুণ প্রজন্মের মানসিক স্বাস্থ্য এবং পারস্পরিক আস্থার ওপর নেতিবাচক প্রভাব ফেলে।",
-        "impact_en": "Such behavioral double standards negatively impact youth mental health and emotional trust in modern dating.",
-        "details_bn": "মানসিক সম্পর্ক এবং রোমান্টিক আচরণ নিয়ে মনস্তাত্ত্বিক বিশ্লেষণে দেখা যায় যে মানুষ নিজের ভুলত্রুটির বেলায় এক ধরনের আত্মপক্ষ সমর্থন খোঁজে। তবে সঙ্গীর ক্ষেত্রে একই মানদণ্ড প্রয়োগ করতে নারাজ থাকে। এই দ্বৈত আচরণ বা হাইপোক্রেসি সম্পর্কের ভিত দুর্বল করে দেয় এবং ভুল বোঝাবুঝির সৃষ্টি করে। দীর্ঘস্থায়ী ও স্বাস্থ্যকর সম্পর্কের জন্য যোগাযোগের স্বচ্ছতা এবং সমতা অত্যন্ত গুরুত্বপূর্ণ একটি বিষয়।",
-        "details_en": "Psychological studies on romantic relationships highlight a common hypocritical tendency where individuals rationalize their own boundary-crossing behaviors while strictly judging their partners for identical actions. This behavioral asymmetry erodes trust and creates deep emotional rifts. Healthy communication and consistent accountability remain essential for sustaining long-term romantic partnerships."
+        "impact_bn": "প্রবাসে বসবাসরত বাঙালিদের নিজেদের সংস্কৃতি ও ঐতিহ্যের সাথে যুক্ত রাখতে এই ধরনের উৎসব গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+        "impact_en": "Such festivals play a crucial role in keeping expatriate Bengalis connected to their cultural heritage.",
+        "details_bn": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিরা প্রতি বছরই নানা আয়োজনের মধ্য দিয়ে সনাতন ধর্মাবলম্বীদের সবচেয়ে বড় উৎসব শারদীয় দুর্গোৎসব পালন করে থাকেন। বাংলাদেশ থেকে হাজার হাজার মাইল দূরে বসবাস করলেও দেশের কৃষ্টি, সংস্কৃতি ও উৎসবের আমেজ টিকিয়ে রাখতে প্রবাসীরা এই উদ্যোগ নেন। এই ধরনের আয়োজন বিদেশে নতুন প্রজন্মের কাছে বাঙালি সংস্কৃতি তুলে ধরার পাশাপাশি প্রবাসী কমিউনিটিকে একত্রিত করে।",
+        "details_en": "Expatriate Bengalis in Düsseldorf, Germany, regularly celebrate Durga Puja, the largest festival of the Hindu community, with various events. Despite living thousands of miles away from Bangladesh, expatriates take this initiative to preserve their culture and festive spirit. Such gatherings unite the diaspora community and showcase Bengali traditions to the younger generation abroad."
       }
     },
     {
-      "story_id": "f2d8fb9d-e7d2-5d08-b71e-bde2d76b1484",
+      "story_id": "b9a88c52-5223-54be-a994-bb8ea8327339",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -122,163 +68,108 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-01%2Fc7711f5e-ed1d-48b4-abbf-9f1147de8885%2FDead_Body_2.png?rect=0%2C126%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T18:48:03+00:00",
+      "published_at": "2026-10-22T19:13:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8527,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171039",
-          "title": "সমর্থকদের নিয়ে থানায় রুমিন ফারহানা, ওসির সঙ্গে উত্তপ্ত বাক্যবিনিময়",
-          "snippet": "সমর্থকদের নিয়ে থানায় রুমিন ফারহানা, ওসির সঙ্গে উত্তপ্ত বাক্যবিনিময়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সরাইল থানায় নেতাকর্মীদের নিয়ে ওসির সাথে ব্যারিস্টার রুমিন ফারহানার বাদানুবাদ",
-        "title_en": "Barrister Rumin Farhana Engages in Heated Argument with Sarail OC",
-        "summary_bn": "ব্রাহ্মণবাড়িয়ার সরাইল থানায় কর্মী ও সমর্থকদের নিয়ে উপস্থিত হয়ে ভারপ্রাপ্ত কর্মকর্তার সাথে তর্কে জড়ান ব্যারিস্টার রুমিন ফারহানা।",
-        "summary_en": "Barrister Rumin Farhana visited Sarail police station with supporters and engaged in a heated argument with the officer-in-charge.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:48:03+00:00",
-        "lead_bn": "ব্রাহ্মণবাড়িয়ার সরাইল থানায় কর্মী ও সমর্থকদের নিয়ে উপস্থিত হয়ে ভারপ্রাপ্ত কর্মকর্তার সাথে তর্কে জড়ান ব্যারিস্টার রুমিন ফারহানা।",
-        "lead_en": "Barrister Rumin Farhana visited Sarail police station with supporters and engaged in a heated argument with the officer-in-charge.",
-        "bullets_bn": [
-          "সমর্থকদের নিয়ে সরাইল থানায় গিয়ে ভারপ্রাপ্ত কর্মকর্তা মনজুর কাদের ভূঁইয়ার মুখোমুখি হন ব্যারিস্টার রুমিন ফারহানা।",
-          "থানায় উভয়ের মধ্যে কথাকাটাকাটি ও উত্তপ্ত বাক্যবিনিময় হওয়ার ঘটনা ঘটেছে।",
-          "ঘটনার পর স্থানীয় রাজনৈতিক মহলে আলোচনা ও চাঞ্চল্যের সৃষ্টি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Barrister Rumin Farhana went to Sarail police station with her supporters and confronted Officer-in-Charge Monjur Kader Bhuiyan.",
-          "A heated debate and verbal exchange took place between the politician and the police official inside the station.",
-          "The incident has sparked widespread discussion and tension among local political circles."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ব্রাহ্মণবাড়িয়া-২ আসনের বিভিন্ন এলাকায় রাজনৈতিক কার্যক্রম ও স্থানীয় পরিস্থিতি নিয়ে পুলিশ প্রশাসনের সাথে বিভিন্ন সময় রাজনৈতিক ব্যক্তিবর্গের মতপার্থক্য দেখা দেয়। সম্প্রতি সরাইল থানায় এই উত্তপ্ত বাক্যবিনিময়ের ঘটনাটি স্থানীয় আইনশৃঙ্খলা পরিস্থিতি ও রাজনৈতিক কর্মকাণ্ডের কেন্দ্রবিন্দুতে পরিণত হয়েছে।",
-        "details_en": "Political activities and local dynamics in the Brahmanbaria-2 constituency often lead to friction between political figures and law enforcement agencies. This recent verbal confrontation at the Sarail police station has drawn significant attention regarding local law enforcement and political engagement."
-      }
-    },
-    {
-      "story_id": "7ea768ae-ea18-546d-90ec-45878bd48b3f",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fhn3kc7ft%2F2026-10-22T151344Z1244268057UP1EMAM16AVGXRTRMADP3CRICKET-ODI-ENG-LKA.JPG?rect=0%2C118%2C2280%2C1197&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T18:41:11+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7987,
+      "importance_score": 4.8,
+      "rank_score": 1.2666,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/961oz9vdud",
-          "title": "১১৪ বলে ডাবল সেঞ্চুরি, ৪২৯ রান তাড়া—রাওয়ালপিন্ডিতে রেকর্ডের পর রেকর্ড",
-          "snippet": "১১৪ বলে ডাবল সেঞ্চুরি, ৪২৯ রান তাড়া—রাওয়ালপিন্ডিতে রেকর্ডের পর রেকর্ড"
+          "url": "https://www.prothomalo.com/bangladesh/capital/fb3fg47636",
+          "title": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+          "snippet": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রীলঙ্কার রেকর্ড রান তাড়া এবং হ্যারির ব্রুকের দ্রুততম ডাবল সেঞ্চুরি",
-        "title_en": "Sri Lanka Chases Record Target as Brook Hits Fastest Double Century",
-        "summary_bn": "শ্রীলঙ্কা রেকর্ড রান তাড়া করে জয় পেলেও হ্যারি ব্রুক ওয়ানডে ইতিহাসে দ্রুততম ডাবল সেঞ্চুরির বিশ্ব রেকর্ড গড়েন।",
-        "summary_en": "Sri Lanka secured a record run chase while Harry Brook smashed the fastest double century in ODI history.",
+        "title_bn": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+        "title_en": "Police Recover Housewife Body From Nakhalpara, Husband Detained",
+        "summary_bn": "তেজগাঁও শিল্পাঞ্চল থানার পূর্ব নাখালপাড়ার একটি বাসা থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করেছে পুলিশ।",
+        "summary_en": "Police recovered the body of a housewife named Rozina Khatun from a residence in East Nakhalpara.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:41:11+00:00",
-        "lead_bn": "শ্রীলঙ্কা রেকর্ড রান তাড়া করে জয় পেলেও হ্যারি ব্রুক ওয়ানডে ইতিহাসে দ্রুততম ডাবল সেঞ্চুরির বিশ্ব রেকর্ড গড়েন।",
-        "lead_en": "Sri Lanka secured a record run chase while Harry Brook smashed the fastest double century in ODI history.",
+        "published_at": "2026-10-22T19:13:44+00:00",
+        "lead_bn": "তেজগাঁও শিল্পাঞ্চল থানার পূর্ব নাখালপাড়ার একটি বাসা থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করেছে পুলিশ।",
+        "lead_en": "Police recovered the body of a housewife named Rozina Khatun from a residence in East Nakhalpara.",
         "bullets_bn": [
-          "শ্রীলঙ্কা দল ইংল্যান্ডের বিপক্ষে ৪২৯ রানের বিশাল লক্ষ্য সফলভাবে তাড়া করে ওয়ানডে ইতিহাসের দ্বিতীয় সর্বোচ্চ সফল রান তাড়ার রেকর্ড গড়ে",
-          "ইংল্যান্ডের ব্যাটার হ্যারি ব্রুক ১১৪ বলে ডাবল সেঞ্চুরি করে ওয়ানডে ক্রিকেটে দ্রুততম দ্বিশতকের বিশ্ব রেকর্ড গড়েন",
-          "ম্যাচটিতে দুই দল মিলিয়ে মোট রান হয় যা ওয়ানডে ইতিহাসে এক ম্যাচে দ্বিতীয় সর্বোচ্চ মোট রানের রেকর্ড"
+          "জাতীয় জরুরি সেবা নম্বরে কল পেয়ে পূর্ব নাখালপাড়ার বাসা থেকে গৃহবধূর মরদেহ উদ্ধার করে পুলিশ",
+          "নিহতের গলায় ফাঁসের দাগ রয়েছে এবং ময়নাতদন্তের জন্য লাশ শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ মর্গে পাঠানো হয়েছে",
+          "ঘটনার সময় বাসায় উপস্থিত থাকা নিহত গৃহবধূর স্বামী আরিফ হাসানকে আটক করে থানায় নিয়ে জিজ্ঞাসাবাদ করছে পুলিশ"
         ],
         "bullets_en": [
-          "Sri Lanka successfully chased down a massive target of 429 runs against England to set the second-highest successful run chase in ODI history",
-          "England batsman Harry Brook scored a double century off just 114 balls to break the world record for the fastest ODI double century",
-          "The match witnessed a combined total of runs making it the second-highest match aggregate in ODI history"
+          "Police recovered the housewife body from an East Nakhalpara residence after receiving an emergency call.",
+          "The body bearing strangulation marks was sent to Shaheed Suhrawardy Medical College morgue for autopsy.",
+          "The victim husband Arif Hasan, present at the scene during the recovery, was detained for questioning."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাওয়ালপিন্ডিতে ইংল্যান্ডের বিপক্ষে ম্যাচে রেকর্ড ভাঙা গড়ার এই মহাযুদ্ধে শ্রীলঙ্কা দল ওয়ানডে ক্রিকেটের অন্যতম সেরা রান তাড়ার নজির স্থাপন করে। হ্যারি ব্রুক মাত্র ১১৪ বলে ডাবল সেঞ্চুরি হাঁকিয়ে ভারতের শুভমান গিলের আগের দ্রুততম ডাবল সেঞ্চুরির রেকর্ড ভেঙে দেন। এছাড়া পাকিস্তানের মাটিতে এটিই প্রথম চারশোর্ধ্ব দলীয় সংগ্রহের রেকর্ড।",
-        "details_en": "In a record-breaking encounter in Rawalpindi against England, Sri Lanka pulled off one of the greatest run chases in ODI cricket history. Harry Brook smashed a double century off just 114 balls, surpassing the previous record for the fastest ODI double century held by India's Shubman Gill. This also marked the first time a team crossed the 400-run mark in ODIs on Pakistani soil."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতি ও পারিবারিক নিরাপত্তা নিয়ে সাধারণ মানুষের মধ্যে সচেতনতা ও উদ্বেগ তৈরি করে।",
+        "impact_en": "Raises public concern regarding domestic safety and prompt law enforcement intervention in suspicious deaths.",
+        "details_bn": "রাজধানীর তেজগাঁও শিল্পাঞ্চল থানার পূর্ব নাখালপাড়া এলাকা থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করা হয়। পুলিশ জাতীয় জরুরি সেবা নম্বর থেকে তথ্য পেয়ে ঘটনাস্থলে যায় এবং সুরতহাল প্রতিবেদন তৈরি করে। নিহতের গলায় ফাঁসের চিহ্ন পাওয়া গেছে এবং ময়নাতদন্তের রিপোর্টের পর মৃত্যুর আসল কারণ জানা যাবে। এ ঘটনায় জিজ্ঞাসাবাদের জন্য নিহতের স্বামী আরিফ হাসানকে আটক করা হয়েছে।",
+        "details_en": "Police recovered the body of Rozina Khatun from an East Nakhalpara residence in Dhaka after receiving a call through the national emergency service. Officers found strangulation marks on the victim neck and sent the body for an autopsy to determine the exact cause of death. The victim husband, Arif Hasan, was detained at the scene for questioning as police investigate the suspicious circumstances surrounding the incident."
       }
     },
     {
-      "story_id": "7d3d3cd9-7ae2-516f-ab37-0344a9faa6b3",
-      "primary_category": "governance_law",
+      "story_id": "c8cb3daf-0cd8-5f68-84dc-d7896ddd60d6",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "governance_law"
       ],
       "tags": [
-        "#Gazipur",
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Gazipur%20Map.jpg",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Ff2ptwvqe%2FTrump-speaks-as-.jpg?rect=0%2C103%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T16:44:32+00:00",
+      "published_at": "2026-10-22T18:52:12+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.7261,
+      "rank_score": 1.0821,
       "sources": [
         {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/12-year-old-allegedly-raped-repeatedly-gazipur-3-arrested-4305196",
-          "title": "12-year-old allegedly raped repeatedly in Gazipur, 3 arrested",
-          "snippet": "12-year-old allegedly raped repeatedly in Gazipur, 3 arrested"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/a6qzup6q1s",
+          "title": "যুক্তরাষ্ট্রে মধ্যবর্তী নির্বাচনের পর আবার ইরানে বড় হামলার ছক",
+          "snippet": "যুক্তরাষ্ট্রে মধ্যবর্তী নির্বাচনের পর আবার ইরানে বড় হামলার ছক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে ১২ বছরের শিশুকে ধর্ষণ ও গর্ভপাতে বাধ্য করার অভিযোগে গ্রেপ্তার ৩",
-        "title_en": "Three Arrested in Gazipur for Alleged Rape and Forced Abortion of Child",
-        "summary_bn": "গাজীপুরের কালীগঞ্জে ১২ বছরের এক শিশুকে বারবার ধর্ষণ এবং গর্ভপাতে বাধ্য করার অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested three men in Kaliganj, Gazipur, following allegations of repeated rape and forced abortion of a 12-year-old girl.",
+        "title_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ইরানে নতুন বড় সামরিক হামলার পরিকল্পনা করছে",
+        "title_en": "US and Israel Plan New Major Military Strikes Against Iran",
+        "summary_bn": "মার্কিন ও ইসরায়েলি সামরিক বাহিনী ইরানের পারমাণবিক ও জ্বালানি অবকাঠামোতে তীব্র হামলার নতুন পরিকল্পনা হাতে নিয়েছে।",
+        "summary_en": "US and Israeli military forces are planning intense new strikes targeting Iran's nuclear and energy infrastructure.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T16:44:32+00:00",
-        "lead_bn": "গাজীপুরের কালীগঞ্জে ১২ বছরের এক শিশুকে বারবার ধর্ষণ এবং গর্ভপাতে বাধ্য করার অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested three men in Kaliganj, Gazipur, following allegations of repeated rape and forced abortion of a 12-year-old girl.",
+        "published_at": "2026-10-22T18:52:12+00:00",
+        "lead_bn": "মার্কিন ও ইসরায়েলি সামরিক বাহিনী ইরানের পারমাণবিক ও জ্বালানি অবকাঠামোতে তীব্র হামলার নতুন পরিকল্পনা হাতে নিয়েছে।",
+        "lead_en": "US and Israeli military forces are planning intense new strikes targeting Iran's nuclear and energy infrastructure.",
         "bullets_bn": [
-          "কালীগঞ্জ থানায় মামলা দায়েরের পর পুলিশ রাতভর অভিযান চালিয়ে তিনজনকে গ্রেপ্তার করে",
-          "মামলায় চারজনকে আসামি করা হয়েছে এবং প্রধান অভিযুক্তদের বয়স ২১ থেকে ৪৫ বছরের মধ্যে",
-          "ঘটনায় জড়িত পলাতক চতুর্থ আসামিকে গ্রেপ্তারের জন্য পুলিশের অভিযান অব্যাহত রয়েছে"
+          "যুক্তরাষ্ট্র ও ইসরায়েল ইরানে পারমাণবিক স্থাপনা, ক্ষেপণাস্ত্র ভান্ডার এবং জ্বালানি অবকাঠামো নিশানা করে নতুন হামলার প্রস্তুতি নিচ্ছে।",
+          "মার্কিন সংবাদমাধ্যমের তথ্য অনুযায়ী হামলায় ইরানের অর্থনীতি পঙ্গু করে তেহরানকে আলোচনায় বাধ্য করার কৌশল নেওয়া হয়েছে।",
+          "প্রেসিডেন্ট ট্রাম্পের অনুমোদন এবং মধ্যপ্রাচ্যের রাজনৈতিক পরিস্থিতির ওপর হামলার চূড়ান্ত বাস্তবায়ন নির্ভর করছে।"
         ],
         "bullets_en": [
-          "Police arrested three men following an overnight operation after a case was filed at Kaliganj Police Station.",
-          "The FIR names four suspects aged between 21 and 45 years involved in the repeated assaults.",
-          "Law enforcement authorities confirmed that operations are currently ongoing to capture the remaining fourth fugitive."
+          "The US and Israel are preparing new strikes targeting Iranian nuclear sites, missile stockpiles, and energy infrastructure.",
+          "Reports indicate plans aim to devastate Iran's economy to force Tehran into concessions through intense short-term bombardments.",
+          "The final execution depends on presidential approval and evolving regional political dynamics in the Middle East."
         ],
-        "impact_bn": "শিশু সুরক্ষা জোরদার এবং অপরাধীদের দ্রুত বিচারের আওতায় আনার মাধ্যমে জনমনে নিরাপত্তা ও আইনের শাসন নিশ্চিত হয়।",
-        "impact_en": "Strengthening child protection and ensuring swift legal action against abusers reinforces public safety and justice.",
-        "details_bn": "ভুক্তভোগী কিশোরীর মা বাদী হয়ে কালীগঞ্জ থানায় চারজনকে আসামি করে মামলা দায়ের করেন। মামলার এজাহার অনুযায়ী, প্রায় পাঁচ মাস আগে অভিযুক্তরা বিভিন্ন স্থানে নিয়ে শিশুটিকে ভয়ভীতি দেখিয়ে একাধিকবার ধর্ষণ করে। এর ফলে শিশুটি গর্ভবতী হয়ে পড়লে অভিযুক্তরা তাকে গর্ভনশতকারী ওষুধ সেবন করায়। পুলিশ অভিযুক্তদের আদালতের মাধ্যমে কারাগারে পাঠিয়েছে এবং পলাতক অপর আসামিকে গ্রেপ্তারে চেষ্টা চালাচ্ছে।",
-        "details_en": "The victim's mother filed a case at Kaliganj Police Station accusing four individuals. According to the FIR, the suspects repeatedly assaulted the 12-year-old girl at different locations after threatening her. After she became pregnant, one of the accused provided her with medication to induce an abortion. Police sent the three arrested men to jail through court while continuing efforts to apprehend the remaining suspect."
+        "impact_bn": "এই সম্ভাব্য সামরিক সংঘাত আন্তর্জাতিক বাজারে জ্বালানি তেলের মূল্যবৃদ্ধি এবং মধ্যপ্রাচ্যে সামগ্রিক নিরাপত্তার অবনতি ঘটাতে পারে।",
+        "impact_en": "This potential military conflict could trigger spikes in global fuel prices and destabilize regional security in the Middle East.",
+        "details_bn": "চলতি বছরের শুরুতে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলা সত্ত্বেও ইরানের সরকার টিকে রয়েছে এবং তেহরানকে কোনো ছাড় দেওয়ানো যায়নি। পূর্বের হামলায় কাঙ্ক্ষিত লক্ষ্য অর্জিত না হলেও এবং মার্কিন অস্ত্রের মজুতে টান পড়লেও দুই দেশ এখন নতুন করে হামলার প্রস্তুতি নিচ্ছে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের চূড়ান্ত অনুমোদনের ওপর এই সামরিক অভিযানের ভবিষ্যৎ নির্ভর করছে।",
+        "details_en": "Despite joint US-Israeli attacks earlier this year, Iran's government has remained resilient without yielding to international pressure. Although previous operations failed to achieve strategic goals and strained American military reserves, both nations are formulating renewed attack plans. The execution of these plans ultimately rests on the final approval of US leadership."
       }
     },
     {
-      "story_id": "d32251e7-13ef-5a9a-ae27-db5639fdb672",
+      "story_id": "49490ffe-9fe3-5ad5-ab91-e738dd359d8c",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -289,46 +180,154 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T18:10:22+00:00",
+      "published_at": "2026-10-22T19:58:10+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6165,
+      "rank_score": 0.9463,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/health/976156/%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8B%E0%A6%AA%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE",
-          "title": "ডেঙ্গুর প্রকোপে চাপে চিকিৎসাসেবা",
-          "snippet": "ডেঙ্গুর প্রকোপে চাপে চিকিৎসাসেবা"
+          "url": "https://www.banglatribune.com/country/rajshahi/976162/%E0%A6%8F%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%BE",
+          "title": "এয়ার অ্যাম্বুলেন্সে ঢাকায় নিয়েও বাঁচানো গেলো না রাবির সেই শিক্ষার্থীকে",
+          "snippet": "এয়ার অ্যাম্বুলেন্সে ঢাকায় নিয়েও বাঁচানো গেলো না রাবির সেই শিক্ষার্থীকে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গুর প্রকোপে দেশে মৃত্যুর সংখ্যা বেড়ে চার জনে দাঁড়িয়েছে",
-        "title_en": "Dengue Outbreak Causes Four Deaths Across the Country",
-        "summary_bn": "ডেঙ্গু আক্রান্ত হয়ে সারাদেশে আরও চার জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন এক হাজার ৫১২ জন রোগী।",
-        "summary_en": "Four more people have died from dengue across the country with one thousand 512 new patients hospitalised.",
+        "title_bn": "সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষার্থী চেসি ত্রিপুরার ঢাকায় মৃত্যু",
+        "title_en": "Injured Rajshahi University student Chesi Tripura passes away in Dhaka",
+        "summary_bn": "উন্নত চিকিৎসার জন্য এয়ার অ্যাম্বুলেন্সে ঢাকায় নেওয়ার পরও সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষার্থী চেসি ত্রিপুরা মারা গেছেন।",
+        "summary_en": "Rajshahi University student Chesi Tripura passed away in Dhaka after being airlifted for advanced treatment following a road accident.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:10:22+00:00",
-        "lead_bn": "ডেঙ্গু আক্রান্ত হয়ে সারাদেশে আরও চার জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন এক হাজার ৫১২ জন রোগী।",
-        "lead_en": "Four more people have died from dengue across the country with one thousand 512 new patients hospitalised.",
+        "published_at": "2026-10-22T19:58:10+00:00",
+        "lead_bn": "উন্নত চিকিৎসার জন্য এয়ার অ্যাম্বুলেন্সে ঢাকায় নেওয়ার পরও সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষার্থী চেসি ত্রিপুরা মারা গেছেন।",
+        "lead_en": "Rajshahi University student Chesi Tripura passed away in Dhaka after being airlifted for advanced treatment following a road accident.",
         "bullets_bn": [
-          "ডেঙ্গু আক্রান্ত হয়ে সারাদেশে ২৪ ঘণ্টায় চার জনের মৃত্যু হয়েছে।",
-          "একই সময়ে নতুন করে হাসপাতালে ভর্তি হয়েছেন এক হাজার ৫১২ জন রোগী।",
-          "স্বাস্থ্য অধিদফতর পরিস্থিতি মোকাবিলায় হাসপাতালগুলোতে চিকিৎসাসেবা জোরদার করার নির্দেশ দিয়েছে।"
+          "উন্নত চিকিৎসার জন্য রাজশাহী বিশ্ববিদ্যালয় থেকে ঢাকায় আনা হয়েছিল আহত শিক্ষার্থীকে",
+          "ঢাকার ন্যাশনাল ইনস্টিটিউট অব নিউরোসায়েন্সেস অ্যান্ড হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়",
+          "নিহত চেসি ত্রিপুরা বিশ্ববিদ্যালয়ের মাইক্রোবায়োলজি বিভাগের চতুর্থ বর্ষের শিক্ষার্থী ছিলেন"
         ],
         "bullets_en": [
-          "Four patients died from dengue across the country within a single day.",
-          "One thousand 512 new patients were admitted to hospitals during the same period.",
-          "Health authorities directed hospitals to strengthen medical services to handle the surge."
+          "The injured student was brought to Dhaka from Rajshahi University for advanced medical treatment.",
+          "She passed away while undergoing treatment at the National Institute of Neurosciences and Hospital in Dhaka.",
+          "The deceased Chesi Tripura was a fourth-year student of the Microbiology Department at the university."
         ],
-        "impact_bn": "ডেঙ্গুর ক্রমবর্ধমান প্রাদুর্ভাবের কারণে সাধারণ মানুষ ও শিক্ষার্থীদের স্বাস্থ্যঝুঁকি মারাত্মকভাবে বাড়ছে।",
-        "impact_en": "The rising outbreak of dengue significantly increases health risks for ordinary citizens and students.",
-        "details_bn": "বাংলাদেশে বর্ষা মৌসুমের পাশাপাশি ডেঙ্গুর প্রকোপ প্রতি বছরই জনস্বাস্থ্যকে হুমকিতে ফেলে। স্বাস্থ্য অধিদফতরের তথ্য অনুযায়ী, বিগত বছরগুলোর তুলনায় এবার আক্রান্ত ও মৃত্যুর হার উদ্বেগজনকভাবে বৃদ্ধি পাওয়ায় হাসপাতালগুলোতে চিকিৎসাসেবা দিতে হিমশিম খেতে হচ্ছে। কার্যকর মশানিধন কার্যক্রমের অভাব এবং সচেতনতার অভাবে এই পরিস্থিতি বারবার ফিরে আসছে।",
-        "details_en": "The dengue outbreak routinely threatens public health in Bangladesh alongside the monsoon season. According to health directorate data, infection and fatality rates have increased alarmingly compared to previous years, straining hospital services. The lack of effective mosquito eradication drives and public awareness continues to fuel this recurring crisis."
+        "impact_bn": "শিক্ষার্থীদের নিরাপদ সড়ক ও উন্নত স্বাস্থ্যসেবা নিশ্চিত করার দাবি আরও জোরালো হয়েছে।",
+        "impact_en": "The incident reinforces student demands for safer roads and prompt access to advanced healthcare facilities.",
+        "details_bn": "রাজশাহী বিশ্ববিদ্যালয়ের মাইক্রোবায়োলজি বিভাগের চতুর্থ বর্ষের শিক্ষার্থী চেসি ত্রিপুরা সড়ক দুর্ঘটনায় গুরুতর আহত হন। অবস্থার অবনতি হলে তাকে দ্রুত উন্নত চিকিৎসার জন্য এয়ার অ্যাম্বুলেন্সে করে ঢাকায় নিয়ে আসা হয়। ঢাকার ন্যাশনাল ইনস্টিটিউট অব নিউরোসায়েন্সেস অ্যান্ড হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু নিশ্চিত করেন বিশ্ববিদ্যালয়ের প্রক্টর অধ্যাপক মাহবুবুর রহমান।",
+        "details_en": "Chesi Tripura, a fourth-year student of the Microbiology Department at Rajshahi University, suffered severe injuries in a road accident. As her condition deteriorated, she was airlifted to Dhaka for specialized medical care. University Proctor Professor Mahbubur Rahman confirmed her death while she was receiving treatment at the National Institute of Neurosciences and Hospital in Dhaka."
+      }
+    },
+    {
+      "story_id": "1517a836-85f0-58fd-9d62-6174e21ca548",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T19:51:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8864,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171045",
+          "title": "ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসায় অভিযান, মিললো ১০টির বেশি ফোন",
+          "snippet": "ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসায় অভিযান, মিললো ১০টির বেশি ফোন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চট্টগ্রামে ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসা থেকে ১০টির বেশি ফোন উদ্ধার",
+        "title_en": "Police Recover Over Ten Phones From Suspect House in Chattogram Mugging",
+        "summary_bn": "চট্টগ্রামের লাভ লেন এলাকায় ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসায় অভিযান চালিয়ে দশটির বেশি মোবাইল ফোন ও বিভিন্ন মালামাল উদ্ধার করেছে পুলিশ।",
+        "summary_en": "Police recovered over ten mobile phones and various items by raiding a suspect residence in the Lab Len area of Chattogram.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T19:51:50+00:00",
+        "lead_bn": "চট্টগ্রামের লাভ লেন এলাকায় ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসায় অভিযান চালিয়ে দশটির বেশি মোবাইল ফোন ও বিভিন্ন মালামাল উদ্ধার করেছে পুলিশ।",
+        "lead_en": "Police recovered over ten mobile phones and various items by raiding a suspect residence in the Lab Len area of Chattogram.",
+        "bullets_bn": [
+          "কোতোয়ালি থানার লাভ লেন এলাকার একটি বাসায় অভিযান পরিচালনা করে পুলিশ",
+          "ছিনতাইয়ের ঘটনায় সন্দেহভাজনের বাসা থেকে ১০টির বেশি মোবাইল ফোনসহ অন্যান্য মালামাল উদ্ধার করা হয়",
+          "অভিযানের সময় সন্দেহভাজন মো. এরশাদ পালিয়ে যাওয়ায় পুলিশ তাকে গ্রেফতারে চেষ্টা চালাচ্ছে"
+        ],
+        "bullets_en": [
+          "Police conducted a raid at a residential building in the Lab Len area under Kotwali Police Station.",
+          "More than ten mobile phones and other stolen items were recovered from the suspect's residence.",
+          "Suspect Md. Ershad managed to flee during the raid, and police efforts are underway to arrest him."
+        ],
+        "impact_bn": "এই উদ্ধার অভিযান নগরীতে ক্রমবর্ধমান ছিনতাই রোধে সাধারণ মানুষের নিরাপত্তা বাড়াতে সহায়তা করবে।",
+        "impact_en": "This recovery operation will help enhance public safety by curbing rising street muggings in the city.",
+        "details_bn": "চট্টগ্রাম নগরের বিভিন্ন এলাকায় সম্প্রতি ছিনতাইয়ের ঘটনা বৃদ্ধি পাওয়ার প্রেক্ষিতে আইনশৃঙ্খলা রক্ষাকারী বাহিনী তৎপরতা জোরদার করেছে। এর অংশ হিসেবে কোতোয়ালি থানা পুলিশ সুনির্দিষ্ট তথ্যের ভিত্তিতে লাভ লেন এলাকার একটি বাসায় অভিযান চালায়। অভিযানের সময় ছিনতাই চক্রের সাথে জড়িত সন্দেহভাজন মো. এরশাদ পালিয়ে গেলেও পুলিশ চোরাই মোবাইল ও মালামাল জব্দ করতে সক্ষম হয়। এই ঘটনায় জড়িত অন্যান্যদের গ্রেফতারে পুলিশি তদন্ত ও অভিযান অব্যাহত রয়েছে।",
+        "details_en": "Law enforcement agencies have intensified their operations following a recent rise in mugging incidents across Chattogram city. As part of this effort, Kotwali police conducted a raid on a residence in the Lab Len area based on specific information. Although the primary suspect, Md. Ershad, managed to escape during the operation, police successfully seized stolen mobile phones and valuables. Police investigations and operations are ongoing to apprehend other associates involved in the syndicate."
+      }
+    },
+    {
+      "story_id": "e2933705-be65-5e56-9748-4814c3ba16f5",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-07%2Fb52096f9-a0b9-4e67-bf55-924d3f2bdd2f%2Fcox_s_bazar.png?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T19:01:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5774,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/563ttkwjqb",
+          "title": "চা বানাতে গিয়ে দেখেন, রান্নাঘরে ফোঁস ফোঁস করছে ‘কিং কোবরা’",
+          "snippet": "চা বানাতে গিয়ে দেখেন, রান্নাঘরে ফোঁস ফোঁস করছে ‘কিং কোবরা’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টেকনাফে রান্নাঘর থেকে ২০ ফুট দীর্ঘ কিং কোবরা উদ্ধার",
+        "title_en": "Foot King Cobra Rescued From Kitchen in Teknaf",
+        "summary_bn": "বন বিভাগের হস্তক্ষেপে টেকনাফের একটি বাড়ি থেকে বিশালাকার কিং কোবরা সাপ উদ্ধার করে বনে অবমুক্ত করা হয়েছে।",
+        "summary_en": "Forest officials successfully rescued a massive king cobra from a residential kitchen in Teknaf and released it into the wild.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T19:01:25+00:00",
+        "lead_bn": "বন বিভাগের হস্তক্ষেপে টেকনাফের একটি বাড়ি থেকে বিশালাকার কিং কোবরা সাপ উদ্ধার করে বনে অবমুক্ত করা হয়েছে।",
+        "lead_en": "Forest officials successfully rescued a massive king cobra from a residential kitchen in Teknaf and released it into the wild.",
+        "bullets_bn": [
+          "কমিউনিটি প্যাট্রল গ্রুপের সহায়তায় বন বিভাগ টেকনাফের নোয়াখালীপাড়া থেকে সাপটি উদ্ধার করে।",
+          "উদ্ধার করা কিং কোবরাটির দৈর্ঘ্য ২০ ফুট ও ওজন ৭ কেজি এবং পরে তা গর্জন বনে অবমুক্ত করা হয়।",
+          "বন্য প্রাণী সংরক্ষণ আইন অনুযায়ী সাপ হত্যা দণ্ডনীয় অপরাধ হওয়ায় স্থানীয়দের নিবৃত্ত করে বন বিভাগ।"
+        ],
+        "bullets_en": [
+          "The forest department rescued the snake from Noakhalipara in Teknaf with the help of community patrol groups.",
+          "The rescued king cobra measures 20 feet in length and weighs 7 kilograms, and was released into the Garjan forest.",
+          "Forest officials intervened to prevent locals from killing the snake, citing wildlife conservation laws against animal slaughter."
+        ],
+        "impact_bn": "বন্য প্রাণী রক্ষায় স্থানীয় সচেতনতা বৃদ্ধি এবং প্রতিবেশের ভারসাম্য রক্ষায় এই উদ্ধার অভিযান গুরুত্বপূর্ণ ভূমিকা রাখে।",
+        "impact_en": "This rescue operation highlights the importance of wildlife conservation and raises local awareness about protecting vital apex predators.",
+        "details_bn": "কক্সবাজারের টেকনাফ সদর ইউনিয়নের নোয়াখালীপাড়ার একটি রান্নাঘরে ভোরে ২০ ফুটের একটি কিং কোবরা দেখতে পান স্থানীয় এক নারী। স্থানীয় লোকজন সাপটি মারতে উদ্যত হলে কমিউনিটি প্যাট্রল গ্রুপের সদস্য ও বন বিভাগ দ্রুত ঘটনাস্থলে পৌঁছে বন্য প্রাণী সংরক্ষণ আইনের কথা বলে জনতাকে নিবৃত্ত করেন। পরে সাত কেজি ওজনের সাপটি অক্ষত অবস্থায় উদ্ধার করে এক কিলোমিটার দূরে শিলখালীর জাহাজপুরা গর্জন বনে অবমুক্ত করা হয়। বন্য প্রাণী সংরক্ষণ আইন অনুযায়ী সাপ হত্যা শাস্তিযোগ্য অপরাধ।",
+        "details_en": "Locals in Teknaf discovered a 20-foot king cobra inside a residential kitchen during the early hours. As a crowd gathered to kill the reptile, community patrol members and forest officials intervened, citing wildlife protection laws. The seven-kilogram snake was safely captured and released into the nearby Shilkhalia Shipakhali Garjan forest. Killing protected wildlife carries strict penalties under national conservation laws."
       }
     }
   ]
