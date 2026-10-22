@@ -1,12 +1,69 @@
 {
-  "updated_at": "2026-10-22T21:00:46.354979",
+  "updated_at": "2026-10-22T22:00:50.496202",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "de883ee6-845a-5c37-9299-45d7ba29f28a",
+      "story_id": "a5ea2d5a-fd9d-5e18-9acc-2982a1001898",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T21:01:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.5833,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976163/%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%93-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF",
+          "title": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ",
+          "snippet": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ",
+        "title_en": "PM Directs Authorities to Boost Mongla Port Capacity and Expedite Cargo Handling",
+        "summary_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন কার্যক্রম দ্রুত বাস্তবায়নের জন্য সংশ্লিষ্ট কর্মকর্তাদের কড়া নির্দেশ দিয়েছেন।",
+        "summary_en": "The Prime Minister has instructed relevant officials to boost Mongla port capacity and accelerate modernization for smoother international trade.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T21:01:05+00:00",
+        "lead_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন কার্যক্রম দ্রুত বাস্তবায়নের জন্য সংশ্লিষ্ট কর্মকর্তাদের কড়া নির্দেশ দিয়েছেন।",
+        "lead_en": "The Prime Minister has instructed relevant officials to boost Mongla port capacity and accelerate modernization for smoother international trade.",
+        "bullets_bn": [
+          "মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাস নিশ্চিত করার তাগিদ দিয়েছেন প্রধানমন্ত্রী।",
+          "খুলনার দাকোপে অবস্থিত বানৌজা মোংলা নৌঘাঁটি, বন্দর এলাকা এবং প্রস্তাবিত অর্থনৈতিক অঞ্চল সরেজমিন পরিদর্শন করেন তিনি।",
+          "বন্দরটির কার্যকারিতা বাড়াতে আধুনিকায়ন কার্যক্রম ত্বরান্বিত করার সুনির্দিষ্ট পরিকল্পনা বাস্তবায়নের কাজ শুরু হবে।"
+        ],
+        "bullets_en": [
+          "The Prime Minister directed authorities to enhance international trade capacity and ensure swift cargo handling at Mongla port.",
+          "During the visit, the premier inspected BNS Mongla naval base, the port area, and the proposed economic zone in Dakop, Khulna.",
+          "Modernization activities will be accelerated to significantly improve the operational efficiency of the strategic port."
+        ],
+        "impact_bn": "মোংলা বন্দরের কার্যক্ষমতা বৃদ্ধি পেলে দক্ষিণাঞ্চলের ব্যবসায়ীদের আমদানি-রপ্তানি ব্যয় কমবে এবং স্থানীয় পর্যায়ে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
+        "impact_en": "Increased efficiency at Mongla port will reduce import-export costs for regional businesses and create new local employment opportunities.",
+        "details_bn": "মোংলা বন্দর দেশের দ্বিতীয় বৃহত্তম সমুদ্রবন্দর হিসেবে দীর্ঘদিন ধরে আন্তর্জাতিক বাণিজ্যে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। দক্ষিণ অঞ্চলের অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত করতে এই বন্দরের আধুনিকায়ন ও সক্ষমতা বৃদ্ধি সরকারের দীর্ঘমেয়াদী অগ্রাধিকারের অংশ। এর আগে বিভিন্ন সময়ে বন্দরের অবকাঠামোগত উন্নয়ন এবং যোগাযোগ ব্যবস্থার উন্নতির জন্য একাধিক প্রকল্প হাতে নেওয়া হলেও তার পূর্ণ বাস্তবায়নে নতুন করে এই নির্দেশনা দেওয়া হয়েছে।",
+        "details_en": "Mongla port has long served as the countrys second-largest maritime gateway, playing a vital role in international trade. Modernizing and expanding the capacity of the port remains a strategic priority to drive economic growth in the southern region. While various infrastructure projects have been undertaken over the years, the new directives aim to fast-track full operational efficiency."
+      }
+    },
+    {
+      "story_id": "9e108845-2ec1-5980-950d-a13f7a698ac1",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
@@ -14,50 +71,107 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T20:25:40+00:00",
+      "published_at": "2026-10-22T21:56:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.9177,
+      "importance_score": 2.4,
+      "rank_score": 0.9312,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976160/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%A4-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AE",
-          "title": "প্রধানমন্ত্রীর সঙ্গে হাত মিলিয়ে উচ্ছ্বসিত বাদাম বিক্রেতা রাজু",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে হাত মিলিয়ে উচ্ছ্বসিত বাদাম বিক্রেতা রাজু"
+          "url": "https://www.banglatribune.com/country/dhaka/976164/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার",
+          "snippet": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর সাথে হাত মিলিয়ে উচ্ছ্বাস প্রকাশ করলেন বাদাম বিক্রেতা রাজু",
-        "title_en": "Peanut Vendor Raju Expresses Joy After Shaking Hands With Prime Minister",
-        "summary_bn": "খুলনার দাকোপের বাদাম বিক্রেতা রাজু গাজী প্রধানমন্ত্রী তারেক রহমানের সাথে হাত মেলানোর পর সামাজিক যোগাযোগমাধ্যমে নিজের উচ্ছ্বাস প্রকাশ করেছেন।",
-        "summary_en": "Peanut vendor Raju Gazi from Khulna expressed immense joy on social media after shaking hands with Prime Minister Tarique Rahman.",
+        "title_bn": "সাভারে মাদ্রাসার প্রধান শিক্ষকের বিরুদ্ধে ছাত্রীকে ধর্ষণের অভিযোগ, স্ত্রী গ্রেফতার",
+        "title_en": "Madrasa Teacher Accused of Raping Student in Savar, Wife Arrested",
+        "summary_bn": "ঢাকার সাভারে ১৩ বছর বয়সী এক মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেফতার হয়েছেন।",
+        "summary_en": "The wife of a madrasa headmaster was arrested in Savar over the alleged rape of a 13-year-old student.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T20:25:40+00:00",
-        "lead_bn": "খুলনার দাকোপের বাদাম বিক্রেতা রাজু গাজী প্রধানমন্ত্রী তারেক রহমানের সাথে হাত মেলানোর পর সামাজিক যোগাযোগমাধ্যমে নিজের উচ্ছ্বাস প্রকাশ করেছেন।",
-        "lead_en": "Peanut vendor Raju Gazi from Khulna expressed immense joy on social media after shaking hands with Prime Minister Tarique Rahman.",
+        "published_at": "2026-10-22T21:56:42+00:00",
+        "lead_bn": "ঢাকার সাভারে ১৩ বছর বয়সী এক মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগে প্রধান শিক্ষকের স্ত্রী গ্রেফতার হয়েছেন।",
+        "lead_en": "The wife of a madrasa headmaster was arrested in Savar over the alleged rape of a 13-year-old student.",
         "bullets_bn": [
-          "দাকোপ উপজেলার নলিয়ান মাধ্যমিক বিদ্যালয় মাঠ এলাকায় বাদাম বিক্রেতা রাজু গাজী প্রধানমন্ত্রীর সাথে সাক্ষাৎ করেন।",
-          "প্রধানমন্ত্রীর সাথে হাত মেলানোর সেই মুহূর্তটি রাজু তার মোবাইল ফোনে ধারণ করেন।",
-          "ভিডিওটি পরে ফেসবুক রিলসে প্রকাশ করার পর তা সামাজিক যোগাযোগমাধ্যমে দ্রুত ছড়িয়ে পড়ে।"
+          "প্রধান শিক্ষক মাওলানা মো. আব্দুল বারীর বিরুদ্ধে ১৩ বছর বয়সী এক ছাত্রীকে ধর্ষণের অভিযোগ উঠেছে।",
+          "ধর্ষণে সহযোগিতা ও হুমকি দেওয়ার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
+          "মামলা দায়েরের পর থেকে অভিযুক্ত প্রধান শিক্ষক পলাতক রয়েছেন এবং তাকে গ্রেফতারে অভিযান চলছে।"
         ],
         "bullets_en": [
-          "Peanut vendor Raju Gazi met the Prime Minister near the Nalian Secondary School ground area in Dakop upazila.",
-          "Raju captured the special moment of shaking hands with the Prime Minister using his mobile phone.",
-          "The video quickly went viral on social media after he published it as a Facebook reel."
+          "The 13-year-old female student was allegedly raped by madrasa owner and headmaster Mawlana Md Abdul Bari.",
+          "Police arrested the headmaster's wife for allegedly assisting in the crime and threatening the victim.",
+          "The accused headmaster has been absconding since the filing of the case and law enforcement is searching for him."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "খুলনার দাকোপ উপজেলার সাধারণ বাদাম বিক্রেতা রাজু গাজী কোস্টগার্ডের পন্টুনে যাওয়ার পথে প্রধানমন্ত্রীর মুখোমুখি হন। এ সময় তিনি প্রধানমন্ত্রীর সাথে হাত মেলানোর দুর্লভ সুযোগ পান এবং নিজের স্মার্টফোনে পুরো মুহূর্তটি ধারণ করেন। সাধারণ নাগরিকের সাথে রাষ্ট্রের শীর্ষ নেতার এমন সহজ ও অনানুষ্ঠানিক যোগাযোগ সামাজিক যোগাযোগমাধ্যমে বেশ ইতিবাচক আলোচনার জন্ম দিয়েছে।",
-        "details_en": "Raju Gazi, an ordinary peanut vendor from Dakop upazila in Khulna, encountered the Prime Minister while heading towards the Coast Guard pontoon. He seized the opportunity to shake hands with the Prime Minister and recorded the entire interaction on his smartphone. Such spontaneous and informal interactions between ordinary citizens and top state leaders frequently generate widespread positive engagement across social media platforms."
+        "impact_bn": "educational institutions-এ শিশু সুরক্ষা ও নিরাপত্তা নিশ্চিত করার দাবি জোরালো হচ্ছে।",
+        "impact_en": "This incident heightens urgent concerns regarding the safety and security of children within educational institutions.",
+        "details_bn": "সাভার উপজেলার বিরুলিয়া ইউনিয়নের তোহফাতুল জান্না মহিলা মাদ্রাসায় এই ধর্ষণের ঘটনা ঘটে। ঘটনার পর ভুক্তভোগীর পরিবার মামলা দায়ের করলে পুলিশ আসামিকে ধরতে অভিযান শুরু করে। প্রধান শিক্ষক পলাতক থাকলেও তার স্ত্রীকে সহযোগিতার অভিযোগে গ্রেফতার করা হয়েছে।",
+        "details_en": "The incident occurred at the Tohaful Jannat Mohila Madrasa in Birulia union of Savar upazila. Following the filing of a case by the victim's family, police initiated a manhunt while arresting the headmaster's wife for her complicity."
       }
     },
     {
-      "story_id": "45f08168-a037-53fa-aa06-11fa2f5e1a17",
+      "story_id": "f7e5fe05-1a11-5a93-96ab-3f2109341581",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T19:43:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 0.722,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1171044",
+          "title": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব",
+          "snippet": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের দুর্গোৎসব"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জার্মানির ডুসেলডর্ফে প্রবাসী বাঙালিদের বর্ণিল শারদীয় দুর্গোৎসব উদ্‌যাপন",
+        "title_en": "Expatriate Bengalis Celebrate Durga Puja with Enthusiasm in Düsseldorf",
+        "summary_bn": "জার্মানির ডুসেলডর্ফ শহরে ঢাকের বাদ্য ও প্রথাগত আয়োজনের মধ্য দিয়ে শারদীয় দুর্গোৎসব উদ্‌যাপন করেছেন প্রবাসী বাঙালিরা।",
+        "summary_en": "Expatriate Bengalis celebrated the Sharadiya Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T19:43:22+00:00",
+        "lead_bn": "জার্মানির ডুসেলডর্ফ শহরে ঢাকের বাদ্য ও প্রথাগত আয়োজনের মধ্য দিয়ে শারদীয় দুর্গোৎসব উদ্‌যাপন করেছেন প্রবাসী বাঙালিরা।",
+        "lead_en": "Expatriate Bengalis celebrated the Sharadiya Durga Puja with traditional music and festivities in Düsseldorf, Germany.",
+        "bullets_bn": [
+          "জার্মানির ডুসেলডর্ফ শহরে প্রবাসী বাংলাদেশিরা আনন্দঘন পরিবেশে শারদীয় দুর্গোৎসবের আয়োজন করেন।",
+          "থেকে ২১ অক্টোবর পর্যন্ত চলা পাঁচ দিনব্যাপী এই উৎসবে প্রায় এক হাজার প্রবাসী বাঙালি অংশ নেন।",
+          "বিদেশ বিভুঁইয়ে বাঙালি সংস্কৃতির আবহ টিকিয়ে রাখতে প্রতিবছর এই পূজার আয়োজন অব্যাহত রাখা হবে।"
+        ],
+        "bullets_en": [
+          "Expatriate Bangladeshis organized the Sharadiya Durga Puja in a festive environment in Düsseldorf, Germany.",
+          "Nearly one thousand expatriate Bengalis participated in the five-day festival held from October 17 to 21.",
+          "Organizers plan to continue holding the puja annually to preserve Bengali cultural heritage abroad."
+        ],
+        "impact_bn": "বিদেশে বসবাসরত নতুন প্রজন্মের তরুণদের মাঝে বাঙালি সংস্কৃতি ও ঐতিহ্য ছড়িয়ে দিতে এই উৎসব গুরুত্বপূর্ণ ভূমিকা রাখছে।",
+        "impact_en": "The festival plays a vital role in passing down Bengali culture and traditions to the new generation living abroad.",
+        "details_bn": "বাংলাদেশ থেকে হাজার হাজার মাইল দূরে বসবাস করলেও দেশের কৃষ্টি ও সংস্কৃতি লালন করতে ভুলেন না প্রবাসী বাঙালিরা। জার্মানির ডুসেলডর্ফ শহরে প্রতিবছরই নানা আয়োজনের মধ্য দিয়ে বাঙালিরা তাদের প্রধান ধর্মীয় ও সামাজিক উৎসবগুলো উদ্‌যাপন করে থাকেন। এই ধারাবাহিকতায় আয়োজিত শারদীয় দুর্গোৎসব প্রবাসীদের মিলনমেলায় পরিণত হয় এবং দেশের আবহ স্মরণ করিয়ে দেয়।",
+        "details_en": "Living thousands of miles away from Bangladesh, expatriate Bengalis continually strive to nurture their heritage. Bengalis in Düsseldorf, Germany, regularly celebrate major religious and social festivals with various events. This year's Durga Puja transformed into a vibrant gathering of expatriates, recreating the festive atmosphere of home."
+      }
+    },
+    {
+      "story_id": "79345c68-6852-5eb4-9ded-cccb61b2f080",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -68,266 +182,154 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T20:56:00+00:00",
+      "published_at": "2026-10-22T21:23:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9251,
+      "rank_score": 0.6825,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171050",
-          "title": "পাবনা-ঢাকা রুটে নতুন ট্রেন চলাচল নভেম্বরের শেষে: রেলপথ সচিব",
-          "snippet": "পাবনা-ঢাকা রুটে নতুন ট্রেন চলাচল নভেম্বরের শেষে: রেলপথ সচিব"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976161/%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87-%E2%80%98%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%86%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE%E2%80%99-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+          "title": "মসজিদে ‘রাজনৈতিক আলোচনা’ নিয়ে আপত্তি, বিএনপি-জামায়াতের হাতাহাতি",
+          "snippet": "মসজিদে ‘রাজনৈতিক আলোচনা’ নিয়ে আপত্তি, বিএনপি-জামায়াতের হাতাহাতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনা-ঢাকা রুটে নভেম্বর নাগাদ নতুন ট্রেন চালু হচ্ছে",
-        "title_en": "New train on Dhaka-Pabna route starting by end of November",
-        "summary_bn": "রেলপথ সচিব জানিয়েছেন আগামী নভেম্বরের শেষ নাগাদ ঢাকা ও পাবনার মধ্যে নতুন ট্রেন চলাচল শুরু হবে।",
-        "summary_en": "The railways ministry announced that new train operations between Dhaka and Pabna will begin by the end of November.",
+        "title_bn": "কুষ্টিয়ায় মসজিদভিত্তিক রাজনৈতিক আলোচনা নিয়ে বিএনপি ও জামায়াতের হাতাহাতি",
+        "title_en": "BNP and Jamaat Clash Over Political Discussions Inside Kushtia Mosque",
+        "summary_bn": "কুষ্টিয়ার মিরপুরে মসজিদে রাজনৈতিক আলোচনা কেন্দ্র করে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে হাতাহাতির ঘটনায় চারজন আহত হয়েছেন।",
+        "summary_en": "Four people were injured in a physical altercation between BNP and Jamaat activists over political discussions inside a mosque in Kushtia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T20:56:00+00:00",
-        "lead_bn": "রেলপথ সচিব জানিয়েছেন আগামী নভেম্বরের শেষ নাগাদ ঢাকা ও পাবনার মধ্যে নতুন ট্রেন চলাচল শুরু হবে।",
-        "lead_en": "The railways ministry announced that new train operations between Dhaka and Pabna will begin by the end of November.",
+        "published_at": "2026-10-22T21:23:09+00:00",
+        "lead_bn": "কুষ্টিয়ার মিরপুরে মসজিদে রাজনৈতিক আলোচনা কেন্দ্র করে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে হাতাহাতির ঘটনায় চারজন আহত হয়েছেন।",
+        "lead_en": "Four people were injured in a physical altercation between BNP and Jamaat activists over political discussions inside a mosque in Kushtia.",
         "bullets_bn": [
-          "রেলপথ মন্ত্রণালয় ঢাকা ও পাবনা রুটে নতুন ট্রেন চালুর ঘোষণা দিয়েছে।",
-          "রেলপথ সচিব ফাহিমুল ইসলাম এই নতুন ট্রেন চালুর সময়সীমা নিশ্চিত করেছেন।",
-          "আগামী নভেম্বরের শেষ সপ্তাহ থেকেই এই রুটে ট্রেন চলাচল শুরু হবে।"
+          "মসজিদে নামাজের পর রাজনৈতিক আলোচনা নিয়ে বিএনপি ও জামায়াত নেতাকর্মীদের মধ্যে বাকবিতণ্ডা থেকে সংঘর্ষ বাধে।",
+          "সংঘর্ষে কুর্শা ইউনিয়ন জামায়াতের আমির জয়নাল আবেদীন ও ইউনিয়ন যুবদলের যুগ্ম আহ্বায়ক স্বপন শেখসহ চারজন আহত হন।",
+          "স্থানীয় প্রশাসনের হস্তক্ষেপে পরিস্থিতি নিয়ন্ত্রণে আসে এবং এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে।"
         ],
         "bullets_en": [
-          "The Ministry of Railways announced the launch of a new train on the Dhaka-Pabna route.",
-          "Railways Secretary Fahimul Islam confirmed the timeline for launching this new passenger service.",
-          "Regular train operations on this route will commence by the final week of November."
+          "A verbal altercation erupted into a clash between BNP and Jamaat activists over political discussions following prayers inside a local mosque.",
+          "Four individuals including Kursha union Jamaat amir Zainal Abedin and union Jubo Dal joint convener Swapan Sheikh were injured in the scuffle.",
+          "The situation was brought under control following local intervention, and additional police forces were deployed in the area to maintain order."
         ],
-        "impact_bn": "পাবনা ও ঢাকার মধ্যকার যাতায়াত সহজ হবে এবং যাত্রীদের দীর্ঘদিনের ভোগান্তি কমবে।",
-        "impact_en": "Travel between Pabna and Dhaka will become much easier, reducing long-standing commuting hassles for passengers.",
-        "details_bn": "দীর্ঘদিন ধরে পাবনাবাসী রাজধানী ঢাকার সাথে সরাসরি ও উন্নত ট্রেন যোগাযোগের দাবি জানিয়ে আসছিলেন। যাত্রীদের এই যাতায়াত সংকট নিরসনে রেলপথ মন্ত্রণালয় নতুন ট্রেন চালুর উদ্যোগ নেয়। এর অংশ হিসেবে সংশ্লিষ্ট কর্তৃপক্ষ রুটটি প্রস্তুত এবং সিডিউল চূড়ান্ত করার কাজ চালিয়ে যাচ্ছে। নভেম্বরের শেষ নাগাদ ট্রেনটি চালুর মধ্য দিয়ে এই অঞ্চলের যোগাযোগ ব্যবস্থায় নতুন গতি আসবে বলে আশা করা হচ্ছে।",
-        "details_en": "Residents of Pabna have long demanded a direct and improved rail connection with the capital. To address this commuting crisis, the Ministry of Railways initiated plans to launch a new train service. Authorities are currently finalizing schedules and route preparations. This new service is expected to significantly improve regional transport connectivity by the end of November."
+        "impact_bn": "মসজিদের মতো পবিত্র স্থানে রাজনৈতিক বিরোধের জেরে সৃষ্ট সংঘাত সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
+        "impact_en": "Such conflicts stemming from political rivalries in religious spaces raise safety and community harmony concerns among ordinary residents.",
+        "details_bn": "কুষ্টিয়ার মিরপুর উপজেলার কুর্শা ইউনিয়নের তারা চাঁদ মন্ডল সরকারি প্রাথমিক বিদ্যালয়সংলগ্ন মসজিদে আসরের নামাজের পর এই ঘটনা ঘটে। দীর্ঘদিন ধরে স্থানীয় রাজনৈতিক দলগুলোর মধ্যে আধিপত্য বিস্তারকে কেন্দ্র করে উত্তেজনা বিরাজ করছিল। ঘটনার পর এলাকায় থমথমে অবস্থা বিরাজ করায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী টহল জোরদার করেছে।",
+        "details_en": "The incident occurred after Asr prayers at a mosque adjacent to Tara Chand Mondal Government Primary School in Kursha union of Mirpur upazila, Kushtia. Local political tensions had been simmering for a long time regarding dominance in the area. Law enforcement agencies stepped up patrols following the incident as a tense atmosphere prevailed."
       }
     },
     {
-      "story_id": "c8cb3daf-0cd8-5f68-84dc-d7896ddd60d6",
-      "primary_category": "world_diplomacy",
+      "story_id": "b9a88c52-5223-54be-a994-bb8ea8327339",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Ff2ptwvqe%2FTrump-speaks-as-.jpg?rect=0%2C103%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-01%2Fc7711f5e-ed1d-48b4-abbf-9f1147de8885%2FDead_Body_2.png?rect=0%2C126%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T18:52:12+00:00",
+      "published_at": "2026-10-22T19:13:44+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.7558,
+      "rank_score": 0.6267,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/a6qzup6q1s",
-          "title": "যুক্তরাষ্ট্রে মধ্যবর্তী নির্বাচনের পর আবার ইরানে বড় হামলার ছক",
-          "snippet": "যুক্তরাষ্ট্রে মধ্যবর্তী নির্বাচনের পর আবার ইরানে বড় হামলার ছক"
+          "url": "https://www.prothomalo.com/bangladesh/capital/fb3fg47636",
+          "title": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+          "snippet": "রাজধানীর নাখালপাড়া থেকে গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরানে নতুন করে বড় হামলা চালানোর পরিকল্পনা যুক্তরাষ্ট্র ও ইসরায়েলের",
-        "title_en": "US and Israel Plan New Major Military Strikes on Iran",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক বাহিনী ইরানের পারমাণবিক স্থাপনা ও জ্বালানি অবকাঠামোতে নতুন করে বড় হামলা চালানোর প্রস্তুতি নিচ্ছে।",
-        "summary_en": "The military forces of the US and Israel are preparing new major strikes targeting Iran nuclear and energy facilities.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T18:52:12+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক বাহিনী ইরানের পারমাণবিক স্থাপনা ও জ্বালানি অবকাঠামোতে নতুন করে বড় হামলা চালানোর প্রস্তুতি নিচ্ছে।",
-        "lead_en": "The military forces of the US and Israel are preparing new major strikes targeting Iran nuclear and energy facilities.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্র ও ইসরায়েল ইরানের পারমাণবিক স্থাপনা এবং জ্বালানি অবকাঠামো নিশানা করে নতুন হামলার প্রস্তুতি নিচ্ছে",
-          "নিউইয়র্ক টাইমসের প্রতিবেদনে তিন দিনব্যাপী তীব্র হামলার পরিকল্পনা এবং মার্কিন ও ইসরায়েলি প্রতিরক্ষা বৈঠকের কথা বলা হয়েছে",
-          "ইরান যেকোনো হামলার দাঁতভাঙা জবাব দেওয়ার হুঁশিয়ারি উচ্চারণ করেছে এবং সংঘাত ছড়িয়ে পড়ার ঝুঁকি তৈরি হয়েছে"
-        ],
-        "bullets_en": [
-          "The US and Israel are preparing new strikes targeting Iranian nuclear sites and energy infrastructure",
-          "Reports indicate plans for intensive three-day attacks following high-level US and Israeli defense discussions",
-          "Iran has warned of a crushing response to any aggression while regional conflict risks escalate"
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে নতুন সামরিক সংঘাত শুরু হলে বৈশ্বিক জ্বালানি বাজার অস্থিতিশীল হতে পারে এবং সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়তে পারে।",
-        "impact_en": "A new military conflict in the Middle East could destabilize global energy markets and drive up consumer living costs.",
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ সামরিক বাহিনী এর আগেও ইরানে হামলা চালিয়েছিল। তবে সেই হামলায় কাঙ্ক্ষিত লক্ষ্য অর্জিত না হওয়ায় এবং বৈশ্বিক অর্থনীতিতে নেতিবাচক প্রভাব পড়ায় তা সীমিত রাখা হয়। বর্তমান পরিকল্পনা অনুযায়ী, ইরানের অর্থনীতিতে বড় ধরনের ধাক্কা দিয়ে তেহরানকে আলোচনায় বাধ্য করার কৌশল নিয়ে আলোচনা চলছে। তবে মার্কিন প্রেসিডেন্টের চূড়ান্ত অনুমোদন এবং মধ্যপ্রাচ্যের আঞ্চলিক রাজনৈতিক পরিস্থিতি এই পরিকল্পনার বাস্তবায়নকে প্রভাবিত করছে।",
-        "details_en": "US and Israeli forces previously conducted joint actions against Iran, but those efforts failed to achieve stated objectives and strained global markets. Current discussions focus on inflicting severe economic pressure to force Tehran into negotiations, though final approval by the US leadership and regional political dynamics remain critical factors."
-      }
-    },
-    {
-      "story_id": "f5e6621a-55cc-5b30-bfa2-052225265b5d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T20:26:30+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7023,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171049",
-          "title": "রামদা-চাপাতি থেকে এয়ারগান, কিশোর গ্যাং নেতার বাড়িতে যা মিললো",
-          "snippet": "রামদা-চাপাতি থেকে এয়ারগান, কিশোর গ্যাং নেতার বাড়িতে যা মিললো"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুমিল্লায় দেশীয় অস্ত্র ও এয়ারগানসহ কিশোর গ্যাংয়ের নেতা আটক",
-        "title_en": "Teen Gang Leader Arrested with Local Weapons and Airgun in Comilla",
-        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী কুমিল্লার লালমাইয়ে অভিযান চালিয়ে দেশীয় অস্ত্র ও এয়ারগানসহ এক কিশোর গ্যাং নেতাকে আটক করেছে।",
-        "summary_en": "Law enforcement agencies detained a teen gang leader along with local weapons and an airgun during a drive in Comilla.",
+        "title_bn": "রাজধানীর নাখালপাড়ায় গৃহবধূর মরদেহ উদ্ধার, স্বামী আটক",
+        "title_en": "Police Recover Body of Housewife in Nakhalpara, Husband Detained",
+        "summary_bn": "পুলিশ রাজধানীর পূর্ব নাখালপাড়া থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে এবং তাঁর স্বামীকে আটক করে।",
+        "summary_en": "Police recovered the body of a housewife named Rozina Khatun from East Nakhalpara in the capital and detained her husband.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T20:26:30+00:00",
-        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী কুমিল্লার লালমাইয়ে অভিযান চালিয়ে দেশীয় অস্ত্র ও এয়ারগানসহ এক কিশোর গ্যাং নেতাকে আটক করেছে।",
-        "lead_en": "Law enforcement agencies detained a teen gang leader along with local weapons and an airgun during a drive in Comilla.",
+        "published_at": "2026-10-22T19:13:44+00:00",
+        "lead_bn": "পুলিশ রাজধানীর পূর্ব নাখালপাড়া থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে এবং তাঁর স্বামীকে আটক করে।",
+        "lead_en": "Police recovered the body of a housewife named Rozina Khatun from East Nakhalpara in the capital and detained her husband.",
         "bullets_bn": [
-          "লালমাই উপজেলার বেলঘর এলাকায় অভিযান চালিয়ে কিশোর গ্যাং নেতাকে আটক করা হয়।",
-          "অভিযানের সময় তার বাসা থেকে রামদা, চাপাতি এবং একটি এয়ারগান উদ্ধার করা হয়।",
-          "আটককৃত ব্যক্তির বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
+          "পুলিশ জাতীয় জরুরি সেবা নম্বর থেকে কল পেয়ে পূর্ব নাখালপাড়ার একটি বাসা থেকে মরদেহ উদ্ধার করে।",
+          "নিহত নারীর গলায় ফাঁস লাগানোর দাগ রয়েছে এবং মরদেহ ময়নাতদন্তের জন্য শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ মর্গে পাঠানো হয়েছে।",
+          "পুলিশ ঘটনার সাথে জড়িত সন্দেহে নিহতের স্বামী আরিফ হাসানকে আটক করে থানায় নিয়ে জিজ্ঞাসাবাদ শুরু করেছে।"
         ],
         "bullets_en": [
-          "The teen gang leader was detained during a raid in the Belghor area of Laimai upazila.",
-          "Ramdas, machetes, and an airgun were recovered from his residence during the operation.",
-          "Legal procedures are underway to take strict action against the arrested individual."
+          "Police recovered the body from an East Nakhalpara residence after receiving a call through the national emergency service number.",
+          "The deceased woman bore strangulation marks on her neck, and the body was sent to Shaheed Suhrawardy Medical College morgue for autopsy.",
+          "Police detained the victim husband, Arif Hasan, on suspicion and brought him to the police station for interrogation."
         ],
-        "impact_bn": "স্থানীয় এলাকায় কিশোর গ্যাংয়ের দৌরাত্ম্য ও অপরাধমূলক কর্মকাণ্ড কমবে বলে সাধারণ মানুষ আশা করছেন।",
-        "impact_en": "Local residents expect a reduction in teen gang activities and related crimes in the area.",
-        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে কিশোর গ্যাংয়ের অপরাধমূলক কর্মকাণ্ড বৃদ্ধি পাওয়ায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী তৎপরতা জোরদার করেছে। অপরাধ দমনে কুমিল্লাসহ বিভিন্ন জেলায় নিয়মিত অভিযান পরিচালনা করা হচ্ছে, যার অংশ হিসেবে লালমাইয়ে এই অস্ত্র উদ্ধার ও আটকের ঘটনা ঘটে।",
-        "details_en": "Law enforcement agencies have intensified operations amid rising teen gang crimes across the country. Regular drives are being conducted in Comilla and other districts to curb criminal activities, leading to this recent weapon seizure and arrest in Lalmai."
+        "impact_bn": "পারিবারিক সহিংসতা ও অপরাধ রোধে দ্রুত আইনগত পদক্ষেপ এবং তদন্তের মাধ্যমে প্রকৃত সত্য উদ্ঘাটনের দাবি জোরালো হয়েছে।",
+        "impact_en": "Public calls for swift legal action against domestic violence and thorough investigations to uncover the truth have intensified.",
+        "details_bn": "রাজধানীর তেজগাঁও শিল্পাঞ্চল থানার পূর্ব নাখালপাড়ার একটি বাসা থেকে রোজিনা খাতুন নামের এক গৃহবধূর মরদেহ উদ্ধার করে পুলিশ। জাতীয় জরুরি সেবা নম্বর ৯৯৯-এ সংবাদ পেয়ে পুলিশ ঘটনাস্থলে পৌঁছে সুরতহাল প্রতিবেদন তৈরি করে। নিহতের গলায় ফাঁসের চিহ্ন থাকায় পুলিশ এটিকে সন্দেহজনক মৃত্যু হিসেবে দেখছে। ময়নাতদন্তের প্রতিবেদন পেলে মৃত্যুর আসল কারণ নিশ্চিত হওয়া যাবে। পুলিশ এ ঘটনায় স্বামী আরিফ হাসানকে আটক করেছে যার কথাবার্তা অসংলগ্ন ছিল বলে জানিয়েছে কর্তৃপক্ষ।",
+        "details_en": "Police recovered the body of a housewife named Rozina Khatun from a residence in East Nakhalpara under Tejgaon Industrial Area police station. Acting on a tip-off through the 999 emergency hotline, police reached the scene and prepared an inquest report. Authorities are treating the incident as a suspicious death due to strangulation marks on the victim neck. The exact cause of death will be confirmed following the autopsy report. Police detained the victim husband, Arif Hasan, whose statements were reported as incoherent."
       }
     },
     {
-      "story_id": "49490ffe-9fe3-5ad5-ab91-e738dd359d8c",
-      "primary_category": "society_education",
+      "story_id": "6c7ea826-4541-54f4-b12b-4534a5ef767e",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T20:13:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6338,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976162/%E0%A6%8F%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%BE",
-          "title": "এয়ার অ্যাম্বুলেন্সে ঢাকায় নিয়েও বাঁচানো গেলো না রাবির সেই শিক্ষার্থীকে",
-          "snippet": "এয়ার অ্যাম্বুলেন্সে ঢাকায় নিয়েও বাঁচানো গেলো না রাবির সেই শিক্ষার্থীকে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকায় চিকিৎসাধীন অবস্থায় রাজশাহী বিশ্ববিদ্যালয়ের আহত শিক্ষার্থীর মৃত্যু",
-        "title_en": "Injured Rajshahi University student passes away during treatment in Dhaka",
-        "summary_bn": "উন্নত চিকিৎসার জন্য ঢাকায় নেওয়ার পর সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের এক শিক্ষার্থী হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "summary_en": "An injured Rajshahi University student passed away in a hospital after being brought to Dhaka for advanced medical treatment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T20:13:49+00:00",
-        "lead_bn": "উন্নত চিকিৎসার জন্য ঢাকায় নেওয়ার পর সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের এক শিক্ষার্থী হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "lead_en": "An injured Rajshahi University student passed away in a hospital after being brought to Dhaka for advanced medical treatment.",
-        "bullets_bn": [
-          "উন্নত চিকিৎসার জন্য সড়ক দুর্ঘটনায় আহত রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষার্থী চেসি ত্রিপুরাকে এয়ার অ্যাম্বুলেন্সে ঢাকায় আনা হয়।",
-          "ঢাকার ন্যাশনাল ইনস্টিটিউট অব নিউরোসায়েন্সেস অ্যান্ড হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়।",
-          "বিশ্ববিদ্যালয়ের প্রক্টর অধ্যাপক মাহবুবুর রহমান শিক্ষার্থীর মৃত্যুর বিষয়টি নিশ্চিত করেছেন।"
-        ],
-        "bullets_en": [
-          "Injured Rajshahi University student Chesi Tripura was brought to Dhaka via air ambulance for advanced medical treatment.",
-          "She passed away while undergoing treatment at the National Institute of Neurosciences and Hospital in Dhaka.",
-          "University Proctor Professor Mahbubur Rahman officially confirmed the tragic death of the student."
-        ],
-        "impact_bn": "শিক্ষার্থীদের জন্য নিরাপদ সড়ক ও দ্রুত উন্নত চিকিৎসা নিশ্চিত করার দাবি আরও জোরালো হয়েছে।",
-        "impact_en": "The incident has heightened demands among students for safer roads and rapid access to advanced medical care.",
-        "details_bn": "রাজশাহী বিশ্ববিদ্যালয়ের মাইক্রোবায়োলজি বিভাগের চতুর্থ বর্ষের শিক্ষার্থী ছিলেন চেসি ত্রিপুরা। সড়ক দুর্ঘটনায় গুরুতর আহত হওয়ার পর তাকে প্রথমে স্থানীয়ভাবে চিকিৎসা দেওয়া হয় এবং পরবর্তীতে উন্নত চিকিৎসার জন্য এয়ার অ্যাম্বুলেন্সে ঢাকায় স্থানান্তরিত করা হয়। ন্যাশনাল ইনস্টিটিউট অব নিউরোসায়েন্সেস অ্যান্ড হাসপাতালে চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়। এই ঘটনায় বিশ্ববিদ্যালয় ক্যাম্পাসে শোকের ছায়া নেমে এসেছে এবং শিক্ষার্থীরা নিরাপদ সড়কের দাবিতে সোচ্চার হয়েছেন।",
-        "details_en": "Chesi Tripura was a fourth-year student in the Microbiology Department at Rajshahi University. After sustaining severe injuries in a road accident, she received initial local medical attention before being airlifted to Dhaka for critical care. She ultimately passed away while undergoing treatment at the National Institute of Neurosciences and Hospital. Her untimely death has cast a shadow of grief across the campus, prompting renewed student calls for road safety."
-      }
-    },
-    {
-      "story_id": "b1e22c4f-c5cb-5668-8bfa-b2e80c5b39ec",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
         "tech_innovation"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fj96iyvh7%2FTrump-Pichai.jpg?rect=0%2C18%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fvfgwtzfg%2FUntitled-1.jpg?rect=0%2C40%2C1516%2C796&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T19:55:05+00:00",
+      "published_at": "2026-10-22T20:30:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.552,
+      "rank_score": 0.4691,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/p3bfj94rgx",
-          "title": "ম্যাপে আটলান্টিকের নাম বদলে নিজের নাম বসাতে গুগল সিইওকে ট্রাম্পের ফোন",
-          "snippet": "ম্যাপে আটলান্টিকের নাম বদলে নিজের নাম বসাতে গুগল সিইওকে ট্রাম্পের ফোন"
+          "url": "https://www.prothomalo.com/bangladesh/78x7fs1j2s",
+          "title": "ইন্টারনেট স্বাধীনতায় বাংলাদেশের উন্নতি, গণমাধ্যম নিয়ে উদ্বেগ",
+          "snippet": "ইন্টারনেট স্বাধীনতায় বাংলাদেশের উন্নতি, গণমাধ্যম নিয়ে উদ্বেগ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আটলান্টিক মহাসাগরের নাম বদলানোর প্রস্তাব প্রত্যাখ্যান করেছে গুগল",
-        "title_en": "Google Rejects Donald Trump Request to Rename Atlantic Ocean",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প আটলান্টিক মহাসাগরের নাম পরিবর্তনের অনুরোধ জানিয়ে গুগল সিইও সুন্দর পিচাইকে ফোন করলেও গুগল তা প্রত্যাখ্যান করেছে।",
-        "summary_en": "US President Donald Trump called Google CEO Sundar Pichai to rename the Atlantic Ocean, but Google rejected the proposal.",
+        "title_bn": "ইন্টারনেট স্বাধীনতায় বিশ্বে টানা দ্বিতীয় বছর বাংলাদেশের উল্লেখযোগ্য উন্নতি",
+        "title_en": "Bangladesh Shows Continuous Improvement in Global Internet Freedom Index",
+        "summary_bn": "ফ্রিডম হাউসের সর্বশেষ প্রতিবেদন অনুযায়ী ইন্টারনেটে নাগরিক স্বাধীনতার ক্ষেত্রে টানা দ্বিতীয় বছরের মতো বিশ্বে সর্বোচ্চ উন্নতি করেছে বাংলাদেশ।",
+        "summary_en": "Bangladesh has achieved the world highest improvement in internet civic freedom for the second consecutive year according to Freedom House.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T19:55:05+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প আটলান্টিক মহাসাগরের নাম পরিবর্তনের অনুরোধ জানিয়ে গুগল সিইও সুন্দর পিচাইকে ফোন করলেও গুগল তা প্রত্যাখ্যান করেছে।",
-        "lead_en": "US President Donald Trump called Google CEO Sundar Pichai to rename the Atlantic Ocean, but Google rejected the proposal.",
+        "published_at": "2026-10-22T20:30:22+00:00",
+        "lead_bn": "ফ্রিডম হাউসের সর্বশেষ প্রতিবেদন অনুযায়ী ইন্টারনেটে নাগরিক স্বাধীনতার ক্ষেত্রে টানা দ্বিতীয় বছরের মতো বিশ্বে সর্বোচ্চ উন্নতি করেছে বাংলাদেশ।",
+        "lead_en": "Bangladesh has achieved the world highest improvement in internet civic freedom for the second consecutive year according to Freedom House.",
         "bullets_bn": [
-          "আটলান্টিক মহাসাগরের নাম পরিবর্তন করে নিজস্ব বা আমেরিকার নামে রাখার অনুরোধ নিয়ে গুগল সিইওকে ফোন করেন ডোনাল্ড ট্রাম্প।",
-          "গুগলের প্রধান নির্বাহী কর্মকর্তা সুন্দর পিচাই মহাসাগরগুলো একাধিক দেশজুড়ে বিস্তৃত এই যুক্তিতে ট্রাম্পের প্রস্তাব সরাসরি প্রত্যাখ্যান করেন।",
-          "ট্রাম্প জনসমক্ষে জানান যে তিনি প্রস্তাবটি থেকে সরে আসছেন এবং মহাসাগরটির নাম আটলান্টিক মহাসাগরই থাকছে।"
+          "ইন্টারনেট নাগরিক স্বাধীনতার সূচকে বাংলাদেশের বর্তমান স্কোর বৃদ্ধি পেয়ে দাঁড়িয়েছে পঞ্চাশে।",
+          "যুক্তরাষ্ট্রভিত্তিক গবেষণাপ্রতিষ্ঠান ফ্রিডম হাউসের ফ্রিডম অন দ্য নেট প্রতিবেদনে এই তথ্য উঠে এসেছে।",
+          "চলতি বছর দেশটিতে ইন্টারনেট ব্যবহারের ওপর বিধিনিষেধ উল্লেখযোগ্য হারে হ্রাস পেয়েছে।"
         ],
         "bullets_en": [
-          "Donald Trump called the Google CEO requesting to rename the Atlantic Ocean after himself or America.",
-          "Google CEO Sundar Pichai explicitly rejected the proposal, stating oceans span across multiple countries.",
-          "Trump publicly stated he is likely backing down from the proposal and the ocean will retain its name."
+          "Bangladesh scored fifty out of one hundred in the latest internet civic freedom index.",
+          "The findings were published by the US based research organization Freedom House.",
+          "Restrictions on online content and internet access barriers declined significantly over the year."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে ডোনাল্ড ট্রাম্প একটি নির্বাহী আদেশের মাধ্যমে মেক্সিকো উপসাগরের নাম বদলে গালফ অব আমেরিকা রেখেছিলেন। এ ছাড়া যুক্তরাষ্ট্র ও কানাডার মধ্যকার বাণিজ্য বিরোধের সময় লেক অন্টারিওর নাম বদলে লেক আমেরিকা করার চেষ্টা করেন তিনি। ট্রাম্পের ওই দাবি সে সময় গুগল মেনে নিয়েছিল, যা মেক্সিকো ও কানাডিসহ সাধারণ মানুষের তীব্র সমালোচনার জন্ম দিয়েছিল। তবে আটলান্টিকের নাম বদলানোর সাম্প্রতিক চেষ্টাটি ব্যর্থ হয়।",
-        "details_en": "US President Donald Trump previously used executive orders to rename the Gulf of Mexico to the Gulf of America and attempted to rename Lake Ontario to Lake America. Google complied with those prior geographic renaming requests for US users, sparking widespread criticism from Mexico and Canada. However, his latest attempt to rename the Atlantic Ocean was firmly rejected by Google CEO Sundar Pichai."
+        "impact_bn": "সাধারণ নাগরিক ও তরুণ সমাজ এখন আগের তুলনায় কম বিধিনিষেধে ডিজিটাল প্ল্যাটফর্ম ব্যবহার করতে পারছে।",
+        "impact_en": "Ordinary citizens and youth can now access digital platforms with fewer government restrictions.",
+        "details_bn": "যুক্তরাষ্ট্রভিত্তিক গবেষণাপ্রতিষ্ঠান ফ্রিডম হাউসের প্রকাশিত প্রতিবেদনে বিশ্বের ৩৮টি দেশের ইন্টারনেট পরিস্থিতির মূল্যায়ন করা হয়েছে। বিগত রাজনৈতিক পরিবর্তনের পর থেকে বাংলাদেশে অনলাইন আধেয়র ওপর বিধিনিষেধ ও ইন্টারনেট পরিষেবা বন্ধ রাখার প্রবণতা হ্রাস পেয়েছে। তবে সামগ্রিক গণমাধ্যমের স্বাধীনতা নিয়ে ফ্রিডম হাউস এখনো নির্দিষ্ট কিছু উদ্বেগ প্রকাশ করেছে। বৈশ্বিক এই সূচকে এস্তোনিয়া সর্বোচ্চ অবস্থান ধরে রেখেছে।",
+        "details_en": "The Freedom House report evaluates internet freedom across thirty-eight countries globally. Following recent political shifts in Bangladesh restrictions on online content and service shutdowns have decreased. However the report notes that concerns regarding broader media freedom still persist. Estonia retained the highest ranking globally in this index."
       }
     }
   ]
