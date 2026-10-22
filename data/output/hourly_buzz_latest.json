@@ -1,231 +1,174 @@
 {
-  "updated_at": "2026-10-22T07:00:41.132010",
+  "updated_at": "2026-10-22T08:00:46.475442",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "dab4d18c-80a8-51e7-9e11-4c573a423132",
-      "primary_category": "climate_environment",
+      "story_id": "10fb3f2b-c684-5c5e-b294-f7a580faab1e",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
-        "society_education"
+        "governance_law"
       ],
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-03%2F0p8cryri%2Fimage-337794-1788374036.jpg?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T07:45:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 3.1365,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/tw0x7iem11",
+          "title": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে বাজে মন্তব্যকারী আটক: স্বরাষ্ট্র মন্ত্রণালয়",
+          "snippet": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে বাজে মন্তব্যকারী আটক: স্বরাষ্ট্র মন্ত্রণালয়"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রধানমন্ত্রীর রাজশাহী সফরের ছবিতে কুরুচিপূর্ণ মন্তব্যের অভিযোগে একজন আটক",
+        "title_en": "One arrested for making offensive comments on PM Rajshahi visit photos",
+        "summary_bn": "প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামের এক ব্যক্তিকে আটক করেছে নিরাপত্তা বাহিনী।",
+        "summary_en": "Security forces arrested a man named Abu Bakkar Siddique for making derogatory social media comments regarding the Prime Minister Rajshahi visit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T07:45:56+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর রাজশাহী সফর নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার অভিযোগে আবু বক্কর সিদ্দিক নামের এক ব্যক্তিকে আটক করেছে নিরাপত্তা বাহিনী।",
+        "lead_en": "Security forces arrested a man named Abu Bakkar Siddique for making derogatory social media comments regarding the Prime Minister Rajshahi visit.",
+        "bullets_bn": [
+          "বিশেষায়িত বাহিনী এসআরবি-৫ রাজশাহী পবা থানা এলাকা থেকে আবু বক্কর সিদ্দিককে আটক করে।",
+          "স্বরাষ্ট্র মন্ত্রণালয় এক সংবাদ বিজ্ঞপ্তিতে আটকের বিষয়টি আনুষ্ঠানিকভাবে নিশ্চিত করেছে।",
+          "আটকের পর আইনগত ব্যবস্থা গ্রহণের জন্য তাকে সংশ্লিষ্ট থানায় হস্তান্তর করা হয়।"
+        ],
+        "bullets_en": [
+          "Special response battalion SRB-5 arrested Abu Bakkar Siddique from the Paba upazila area in Rajshahi.",
+          "The Ministry of Home Affairs officially confirmed the arrest through a press release.",
+          "He was handed over to the local police station for subsequent legal proceedings."
+        ],
+        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে দায়িত্বশীল আচরণ এবং সাইবার অপরাধ রোধে কঠোর পদক্ষেপের বার্তা দিচ্ছে এই ঘটনা।",
+        "impact_en": "This incident reinforces strict enforcement against cyberbullying and irresponsible social media behavior.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফরসংক্রান্ত ছবি সামাজিক যোগাযোগমাধ্যমে পোস্ট করার পর সেখানে কুরুচিপূর্ণ মন্তব্য করা হয়। ঘটনার পর আইনশৃঙ্খলা রক্ষাকারী বাহিনী ও বিভিন্ন গোয়েন্দা ইউনিট যৌথভাবে প্রযুক্তির সহায়তায় মন্তব্যকারীর পরিচয় শনাক্ত করে। পরবর্তীতে অভিযান চালিয়ে তাকে আটক করা হয়। ডিজিটাল প্ল্যাটফর্মে সাইবার অপরাধ ও মানহানিকর কনটেন্ট মনিটরিংয়ের অংশ হিসেবে এ ধরনের পদক্ষেপ গ্রহণ করা হচ্ছে।",
+        "details_en": "Offensive comments appeared on social media posts featuring the Prime Minister Rajshahi visit. Law enforcement and intelligence agencies identified the user through digital tracking. Subsequently, a special response team conducted a raid and apprehended the individual. Such actions are part of ongoing efforts to monitor cybercrimes and defamatory content across digital platforms."
+      }
+    },
+    {
+      "story_id": "a8cdf57e-8c2a-51ef-9ff0-f10541c0b5ee",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T05:53:11+00:00",
+      "published_at": "2026-10-22T07:29:25+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.4987,
+      "rank_score": 1.9796,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976008/%E0%A6%B9%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%AA",
-          "title": "হেলিকপ্টারে সুন্দরবন দেখলেন প্রধানমন্ত্রী, দাকোপ ঘুরে যাচ্ছেন মোংলায়",
-          "snippet": "হেলিকপ্টারে সুন্দরবন দেখলেন প্রধানমন্ত্রী, দাকোপ ঘুরে যাচ্ছেন মোংলায়"
+          "url": "https://www.banglatribune.com/country/khulna/976028/%E0%A6%A8%E0%A7%8C%E0%A6%AA%E0%A6%A5%E0%A7%87-%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "নৌপথে মোংলায় পৌঁছেছেন প্রধানমন্ত্রী",
+          "snippet": "নৌপথে মোংলায় পৌঁছেছেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুন্দরবন পরিদর্শন শেষে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Visits Sundarbans Before Heading to Mongla",
-        "summary_bn": "হেলিকপ্টারে সুন্দরবন পরিদর্শন শেষে খুলনার দাকোপ হয়ে নৌপথে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman completed an aerial tour of the Sundarbans and departed for Mongla via waterways.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T05:53:11+00:00",
-        "lead_bn": "হেলিকপ্টারে সুন্দরবন পরিদর্শন শেষে খুলনার দাকোপ হয়ে নৌপথে মোংলার উদ্দেশে রওনা হয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman completed an aerial tour of the Sundarbans and departed for Mongla via waterways.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী হেলিকপ্টারে করে সুন্দরবনের বিভিন্ন এলাকা পরিদর্শন করেছেন।",
-          "সকাল সাড়ে দশটায় খুলনার দাকোপ উপজেলার নলিয়ান মাধ্যমিক বিদ্যালয় মাঠে তার কপ্টার অবতরণ করে।",
-          "নলিয়ান থেকে লঞ্চে চড়ে দুপুর পৌনে একটায় বানৌজা মোংলা জেটিতে পৌঁছানোর কথা রয়েছে তার।"
-        ],
-        "bullets_en": [
-          "The Prime Minister conducted an aerial inspection of the Sundarbans by helicopter.",
-          "The chopper landed at the Nalian Secondary School ground in Dakop upazila at 10:30 AM.",
-          "He traveled from Nalian by launch and scheduled to reach BNS Mongla jetty at 12:45 PM."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন এবং বাংলাদেশের দক্ষিণ উপকূলীয় অঞ্চলের প্রধান প্রাকৃতিক ঢাল। এই বন জীববৈচিত্র্য সংরক্ষণ, সামুদ্রিক সম্পদ রক্ষা এবং প্রাকৃতিক দুর্যোগ মোকাবিলায় গুরুত্বপূর্ণ ভূমিকা পালন করে। সরকারের শীর্ষপর্যায়ের ব্যক্তিবর্গ প্রায়ই উপকূলীয় পরিবেশ ও জীববৈচিত্র্য রক্ষার অগ্রগতি তদারকি করতে এই অঞ্চলে সফর করেন।",
-        "details_en": "The Sundarbans is the world's largest mangrove forest and acts as a vital natural shield for Bangladesh's southern coastal region. It plays a critical role in biodiversity conservation and natural disaster mitigation. High-level state visits to the region often emphasize environmental protection, conservation efforts, and regional development oversight."
-      }
-    },
-    {
-      "story_id": "c1d88666-072d-5443-931d-dc6d5aff3b8c",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T06:33:35+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4938,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976016/%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF",
-          "title": "সাজেকে গোলাগুলি, আটকে দিয়েছে পর্যটকদের গাড়ি",
-          "snippet": "সাজেকে গোলাগুলি, আটকে দিয়েছে পর্যটকদের গাড়ি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাজেকে আইনশৃঙ্খলা বাহিনী ও সন্ত্রাসীদের গোলাগুলি, পর্যটকদের গাড়ি আটকে আছে",
-        "title_en": "Gunfight Erupts Between Security Forces and Terrorists in Sajek, Tourists Stranded",
-        "summary_bn": "রাঙামাটির সাজেকে আইনশৃঙ্খলা বাহিনীর সাথে সশস্ত্র সন্ত্রাসীদের গোলাগুলির ঘটনা ঘটে এবং পর্যটকদের গাড়ি আটকে যায়।",
-        "summary_en": "A gunfight erupted between security forces and armed terrorists in Sajek, stranding tourist vehicles on the road.",
+        "title_bn": "নৌপথে বাগেরহাটের মোংলায় নৌঘাঁটিতে পৌঁছালেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman arrives at Mongla naval base by waterway",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জলপথে বাগেরহাটের মোংলা নৌঘাঁটিতে পৌঁছে সুন্দরবনসহ সংশ্লিষ্ট উপকূলীয় এলাকা পরিদর্শন করেন।",
+        "summary_en": "Prime Minister Tarique Rahman arrived at the Mongla naval base in Bagerhat via waterway to visit the Sundarbans and coastal areas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:33:35+00:00",
-        "lead_bn": "রাঙামাটির সাজেকে আইনশৃঙ্খলা বাহিনীর সাথে সশস্ত্র সন্ত্রাসীদের গোলাগুলির ঘটনা ঘটে এবং পর্যটকদের গাড়ি আটকে যায়।",
-        "lead_en": "A gunfight erupted between security forces and armed terrorists in Sajek, stranding tourist vehicles on the road.",
+        "published_at": "2026-10-22T07:29:25+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জলপথে বাগেরহাটের মোংলা নৌঘাঁটিতে পৌঁছে সুন্দরবনসহ সংশ্লিষ্ট উপকূলীয় এলাকা পরিদর্শন করেন।",
+        "lead_en": "Prime Minister Tarique Rahman arrived at the Mongla naval base in Bagerhat via waterway to visit the Sundarbans and coastal areas.",
         "bullets_bn": [
-          "সাজেক সড়কে অবরোধ চলাকালে আইনশৃঙ্খলা বাহিনী ব্যারিকেড সরিয়ে পর্যটকদের খাগড়াছড়ি নেওয়ার সময় এই সংঘর্ষ শুরু হয়।",
-          "উজোবাজার এলাকায় অবরোধকারীরা প্রথমে ইট-পাটকেল নিক্ষেপ করে এবং পরবর্তীতে দুই পক্ষের মধ্যে গোলাগুলি শুরু হয়।",
-          "পরিস্থিতি নিয়ন্ত্রণে আসার পর পর্যটকদের নিরাপদে দিঘীনালায় সরিয়ে নেওয়ার প্রক্রিয়া অব্যাহত রয়েছে।"
+          "প্রধানমন্ত্রী তারেক রহমান সড়কপথ ও হেলিকপ্টারের পর জলপথে মোংলা নৌঘাঁটির জেটিতে পৌঁছান।",
+          "সফরসূচির অংশ হিসেবে তিনি হিরণ পয়েন্টসহ সুন্দরবনের বিভিন্ন গুরুত্বপূর্ণ এলাকা পরিদর্শন করেন।",
+          "এই সফরের মাধ্যমে উপকূলীয় অঞ্চলের নিরাপত্তা ব্যবস্থা ও পরিবেশগত পরিস্থিতি পর্যবেক্ষণ করা হবে।"
         ],
         "bullets_en": [
-          "Clashes broke out as security forces attempted to remove barricades and escort tourists towards Khagrachhari during a road blockade.",
-          "Protesters initially hurled bricks in the Ujobazar area before armed exchanges began between the two sides.",
-          "Efforts are underway to ensure the safe evacuation of stranded tourists toward Dighinala as security measures normalize."
-        ],
-        "impact_bn": "সাজেকে বেড়াতে যাওয়া পর্যটকরা চরম আতঙ্ক ও নিরাপত্তাহীনতার মুখে পড়েন এবং তাদের চলাচল সাময়িকভাবে ব্যাহত হয়।",
-        "impact_en": "Tourists visiting Sajek face severe panic and movement restrictions due to sudden armed clashes.",
-        "details_bn": "রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক ইউনিয়নে দীর্ঘ দিন ধরে পাহাড়ি সন্ত্রাসী গোষ্ঠীগুলোর আধিপত্য বিস্তারকে কেন্দ্র করে নিরাপত্তা জনিত অস্থিরতা বিরাজ করছে। এর আগেও বিভিন্ন সময় সাজেক সড়কে পর্যটকবাহী যানবাহন ও স্থানীয় চালকরা সন্ত্রাসী কর্মকাণ্ড বা অবরোধের কারণে আটকা পড়েছেন। আইনশৃঙ্খলা বাহিনী পাহাড়ি জনপদে নিরাপত্তা জোরদার ও সন্ত্রাস দমনে নিয়মিত অভিযান পরিচালনা করে আসছে। সাম্প্রতিক এই সহিংসতার ঘটনায় পার্বত্য অঞ্চলের সার্বিক নিরাপত্তা ও পর্যটন শিল্প আবারও বড় ধরনের ঝুঁকির মুখে পড়ল।",
-        "details_en": "The Sajek union in Baghaichhari upazila of Rangamati has long experienced security volatility due to activities by armed regional groups. Tourist vehicles and local drivers have frequently faced disruptions and blockades on the Sajek road. Security forces regularly conduct operations to maintain regional stability and curb insurgent violence. This latest clash poses renewed concerns for regional security and the local tourism sector."
-      }
-    },
-    {
-      "story_id": "0b59a146-2c73-54cd-bf83-207d3fbef8d7",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2F10dz9stl%2FWhatsApp-Image-2026-10-22-at-11.56.37.jpeg?rect=0%2C0%2C656%2C344&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T06:21:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3464,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/1z1fu7fn8t",
-          "title": "সাজেকে আবার অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন প্রায় দুই হাজার পর্যটক",
-          "snippet": "সাজেকে আবার অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন প্রায় দুই হাজার পর্যটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাজেকে অনির্দিষ্টকালের অবরোধ শুরু, ফেরার পথে আটকা পড়েছেন দুই হাজার পর্যটক",
-        "title_en": "Indefinite Blockade Strands Two Thousand Tourists Leaving Sajek",
-        "summary_bn": "আঞ্চলিক দুটি সংগঠনের ডাকা অনির্দিষ্টকালের অবরোধের কারণে রাঙামাটির সাজেক থেকে ফেরার পথে প্রায় দুই হাজার পর্যটক মাঝপথে আটকা পড়েছেন।",
-        "summary_en": "Around two thousand tourists are stranded midway while returning from Sajek due to an indefinite blockade called by regional organizations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:21:20+00:00",
-        "lead_bn": "আঞ্চলিক দুটি সংগঠনের ডাকা অনির্দিষ্টকালের অবরোধের কারণে রাঙামাটির সাজেক থেকে ফেরার পথে প্রায় দুই হাজার পর্যটক মাঝপথে আটকা পড়েছেন।",
-        "lead_en": "Around two thousand tourists are stranded midway while returning from Sajek due to an indefinite blockade called by regional organizations.",
-        "bullets_bn": [
-          "সাজেক গণ-অধিকার রক্ষা কমিটি ও সাজেক কার্বারি অ্যাসোসিয়েশন অনির্দিষ্টকালের এই অবরোধ কর্মসূচি পালন করছে।",
-          "সেনাবাহিনী ও পুলিশের নিরাপত্তাবলয়ে সাজেক থেকে খাগড়াছড়ির উদ্দেশ্যে রওয়ানা দেওয়া প্রায় দুই হাজার পর্যটক উজোবাজারে আটকে পড়েন।",
-          "নিরাপত্তাঝুঁকির কারণে জেলা প্রশাসন সাজেক পর্যটনকেন্দ্র পরবর্তী নির্দেশ না দেওয়া পর্যন্ত সাময়িকভাবে বন্ধ ঘোষণা করেছে।"
-        ],
-        "bullets_en": [
-          "Sajek Gonodhikar Roksha Committee and Sajek Karbari Association enforced the indefinite blockade.",
-          "Around two thousand tourists travelling under military and police escort got stranded at Ujobazar.",
-          "The district administration temporarily closed the Sajek tourist hub indefinitely citing security risks."
-        ],
-        "impact_bn": "আটকে পড়া পর্যটকরা চরম ভোগান্তিতে পড়েছেন এবং পাহাড় ভ্রমণকারী সাধারণ মানুষ নিরাপত্তাহীনতার মুখে পড়েছেন।",
-        "impact_en": "Stranded tourists are facing severe disruptions and ordinary travelers visiting the hills are experiencing security concerns.",
-        "details_bn": "পার্বত্য চট্টগ্রাম জনসংহতি সমিতির সশস্ত্র সদস্যদের সাজেক এলাকা থেকে সরিয়ে নেওয়ার দাবিতে স্থানীয় দুটি সংগঠন এই অনির্দিষ্টকালের অবরোধের ডাক দেয়। এর আগে থেকেই দফায় দফায় চলা অবরোধের কারণে রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক ভ্যালি পর্যটনকেন্দ্র যাতায়াত ও নিরাপত্তার দিক থেকে অস্থিতিশীল হয়ে ওঠে। প্রশাসন পর্যটকদের নিরাপত্তায় সাজেক ছাড়ার নির্দেশ দিলেও মাঝপথে অবরোধকারীরা গাড়ি আটকে দেয়। বর্তমানে নেটওয়ার্ক সমস্যার কারণে আটকে থাকা পর্যটকদের সঠিক পরিস্থিতি জানতে সমস্যা হচ্ছে।",
-        "details_en": "Two local organizations called the indefinite blockade demanding the withdrawal of armed members of the Parbatya Chattagram Jana Samhati Samiti from the Sajek area. Prior to this, recurring blockades had made the tourist hub in Baghaichhari upazila unstable regarding travel and security. Although the administration ordered tourists to evacuate for their safety, blockaders intercepted vehicles midway, leaving visitors stranded with communication hampered by network issues."
-      }
-    },
-    {
-      "story_id": "9eb2ee3e-aada-5cb6-9da5-bde89cfc7f99",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-05%2F6kmrpu16%2Fuimage-2.jpg?rect=0%2C62%2C860%2C452&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-22T06:09:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.224,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/fgmnk4zake",
-          "title": "ইরানের বাইরে কোথাও যাবে না সম্মৃদ্ধ ইউরেনিয়াম, নতুন মার্কিন হামলার আশঙ্কার মধ্যেও অনড় তেহরান",
-          "snippet": "ইরানের বাইরে কোথাও যাবে না সম্মৃদ্ধ ইউরেনিয়াম, নতুন মার্কিন হামলার আশঙ্কার মধ্যেও অনড় তেহরান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরান জানিয়েছে সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে নেওয়া হবে না",
-        "title_en": "Iran Declares Enriched Uranium Will Not Leave the Country",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক হুমকির মুখেও ইরান তাদের সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে না সরানোর সিদ্ধান্তে অনড় রয়েছে।",
-        "summary_en": "Iran remains steadfast in its decision not to transfer enriched uranium abroad despite ongoing US and Israeli military threats.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:09:12+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক হুমকির মুখেও ইরান তাদের সমৃদ্ধ ইউরেনিয়াম দেশের বাইরে না সরানোর সিদ্ধান্তে অনড় রয়েছে।",
-        "lead_en": "Iran remains steadfast in its decision not to transfer enriched uranium abroad despite ongoing US and Israeli military threats.",
-        "bullets_bn": [
-          "ইরান স্পষ্টভাবে জানিয়েছে দেশের বাইরে ইউরেনিয়াম সমৃদ্ধকরণ করা হবে না।",
-          "ইরানের ন্যাশনাল সিকিউরিটি কাউন্সিলের সেক্রেটারি মোহসেন রেজায়ি এই অবস্থান পুনর্ব্যক্ত করেছেন।",
-          "আন্তর্জাতিক পর্যবেক্ষকদের তত্ত্বাবধানে ইরানের ভেতরেই ইউরেনিয়াম প্রক্রিয়াজাতকরণের কাজ হতে পারে।"
-        ],
-        "bullets_en": [
-          "Iran has explicitly stated that enriched uranium will not be removed from the country.",
-          "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, reaffirmed this stance.",
-          "Uranium processing could take place within Iran under the supervision of international observers."
+          "Prime Minister Tarique Rahman reached the jetty of the Mongla naval base using waterways.",
+          "He inspected key areas including Hiron Point as part of his scheduled tour of the Sundarbans.",
+          "The visit aims to monitor coastal security measures and environmental conditions in the region."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার কেন্দ্রে রয়েছে ইরানের পারমাণবিক কর্মসূচি। যুক্তরাষ্ট্র ও ইসরায়েলের তীব্র বিরোধিতার মুখেও তেহরান তাদের এই কর্মসূচিকে জাতীয় সার্বভৌমত্ব ও অধিকার হিসেবে রক্ষা করে চলেছে। মার্কিন প্রশাসনের যুদ্ধ শুরুর মূল উদ্দেশ্য ছিল ইরানের পারমাণবিক কর্মসূচি পুরোপুরি ধ্বংস করা। তবে আন্তর্জাতিক কূটনীতি ও বিভিন্ন দেশের মধ্যস্থতার মধ্যেও ইউরেনিয়াম স্থানান্তর নিয়ে ইরান ও ওয়াশিংটনের মধ্যকার মতপার্থক্য এখনো কাটেনি।",
-        "details_en": "Iran's nuclear program remains at the center of ongoing geopolitical tensions in the Middle East. Despite fierce opposition from the US and Israel, Tehran continues to defend its program as a matter of national sovereignty and rights. The US administration's primary objective in initiating military action was to completely dismantle Iran's nuclear program. However, despite international diplomacy and mediation efforts, differences between Iran and Washington over uranium transfer persist."
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমান নিজ বাসভবন থেকে সড়কপথে তেজগাঁও বিমানবন্দরে গিয়ে সেখান থেকে হেলিকপ্টারে সুন্দরবনের উদ্দেশে যাত্রা করেন। পরে তিনি জলপথে মোংলা নৌঘাঁটিতে পৌঁছান। এই সফরের মাধ্যমে সুন্দরবনের জীববৈচিত্র্য রক্ষা এবং উপকূলীয় এলাকার সার্বিক নিরাপত্তা পরিস্থিতি সরাসরি পরিদর্শন করা হয়।",
+        "details_en": "Prime Minister Tarique Rahman traveled from his residence to Tejgaon airport by road and subsequently took a helicopter towards the Sundarbans before arriving at the Mongla naval base via waterway. This visit involves inspecting the biodiversity preservation efforts of the Sundarbans and the overall security situation in the coastal belt."
       }
     },
     {
-      "story_id": "b38b9595-03f1-566e-9509-bec0a66365e3",
+      "story_id": "877a2682-20a2-515d-95e2-79abf4891767",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2024-09-16%2Flb608s8c%2FCyber%20attack.reuters.png?rect=0%2C0%2C616%2C323&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T07:41:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6068,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/wintoepbaa",
+          "title": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ, বাংলাদেশের প্রস্তুতি কতটা, ঝুঁকি কী",
+          "snippet": "সাইবার হামলার শঙ্কায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ, বাংলাদেশের প্রস্তুতি কতটা, ঝুঁকি কী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে সাইবার হামলার আশঙ্কা",
+        "title_en": "Global Cyber Attack Fears Rise After Critical Security Flaws Found in PHP",
+        "summary_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে ওয়েবসাইট বন্ধ রাখা হয়েছে এবং বাংলাদেশের ডিজিটাল নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "summary_en": "Websites worldwide are shut down after critical security flaws in the PHP programming language raise cyber attack fears in Bangladesh and globally.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T07:41:41+00:00",
+        "lead_bn": "পিএইচপি প্রোগ্রামিং ভাষায় গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে ওয়েবসাইট বন্ধ রাখা হয়েছে এবং বাংলাদেশের ডিজিটাল নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "lead_en": "Websites worldwide are shut down after critical security flaws in the PHP programming language raise cyber attack fears in Bangladesh and globally.",
+        "bullets_bn": [
+          "পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে সরকারি ও বাণিজ্যিক প্রতিষ্ঠান ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+          "নিরাপত্তা বিশ্লেষকদের মতে, এই ত্রুটির ফলে পাসওয়ার্ড ছাড়াই দূর থেকে সার্ভারে অননুমোদিত নির্দেশনা কার্যকর করার সুযোগ তৈরি হতে পারে।",
+          "ঝুঁকি এড়াতে ব্যবহৃত পিএইচপির সংস্করণ হালনাগাদ করা এবং সার্ভারের মূল সুরক্ষাব্যবস্থা জোরদার করার পরামর্শ দিয়েছেন বিশেষজ্ঞরা।"
+        ],
+        "bullets_en": [
+          "Government and commercial institutions worldwide temporarily closed websites after two critical security flaws were detected in PHP.",
+          "Experts warn these vulnerabilities could allow attackers to execute unauthorized commands on servers remotely without passwords.",
+          "Authorities advise updating PHP versions and strengthening core server security measures to mitigate potential cyber threats."
+        ],
+        "impact_bn": "অনলাইন সেবা ও সরকারি-বেসরকারি ওয়েবসাইটের ব্যবহারকারীরা ডেটা চুরি এবং সাইবার হামলার ঝুঁকির মুখে পড়েছেন।",
+        "impact_en": "Users of online services and government-private websites face potential data breaches and service disruptions from cyber threats.",
+        "details_bn": "পিএইচপি একটি বহুল ব্যবহৃত সার্ভার-সাইড প্রোগ্রামিং ভাষা, যা ওয়ার্ডপ্রেসসহ বিভিন্ন ওয়েবসাইটের পেছনের কাজ পরিচালনা করে। আন্তর্জাতিক সাইবার নিরাপত্তাপ্রতিষ্ঠান উইজের প্রতিবেদনে পিএইচপির মেমোরি ব্যবস্থাপনায় দুটি গুরুতর ত্রুটি ধরা পড়ে। এই দুর্বলতার সুযোগ নিয়ে হামলাকারীরা সার্ভারের ফাইল ও ডেটাবেজ ঝুঁকিতে ফেলতে পারে। ফলে শুধু লগইন বা পাসওয়ার্ড শক্তিশালী না করে মূল সার্ভার সফটওয়্যার হালনাগাদ করার তাগিদ দিয়েছেন বিশেষজ্ঞরা।",
+        "details_en": "PHP is a widely used server-side programming language powering websites and content management systems like WordPress. Cybersecurity firm Wiz identified two severe memory management flaws in PHP. Attackers could exploit these vulnerabilities to compromise server files and databases, necessitating server-level software updates rather than just strong passwords."
+      }
+    },
+    {
+      "story_id": "5e153f57-94e9-5c28-87bb-de7159822430",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education",
-        "sports_fitness"
+        "society_education"
       ],
       "tags": [
         "#Bangladesh",
@@ -233,51 +176,104 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T06:46:21+00:00",
+      "published_at": "2026-10-22T07:55:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8403,
+      "rank_score": 0.9209,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1170811",
-          "title": "এসএসসির টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর, ফল ১৫ নভেম্বরের মধ্যে",
-          "snippet": "এসএসসির টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর, ফল ১৫ নভেম্বরের মধ্যে"
+          "url": "https://www.jagonews24.com/international/news/1170829",
+          "title": "মদের মধ্যে ঘুমের ওষুধ, যেভাবে স্বামীকে হত্যার পরিকল্পনা সাজান নারী",
+          "snippet": "মদের মধ্যে ঘুমের ওষুধ, যেভাবে স্বামীকে হত্যার পরিকল্পনা সাজান নারী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এসএসসি ও সমমান পরীক্ষার টেস্ট পরীক্ষা শুরু ২৮ অক্টোবর",
-        "title_en": "SSC and Equivalent Test Exams to Begin on October 28",
-        "summary_bn": "আসন্ন এসএসসি ও সমমান পরীক্ষার নির্বাচনি বা টেস্ট পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু হয়ে ১৫ নভেম্বরের মধ্যে শেষ হবে।",
-        "summary_en": "The upcoming SSC and equivalent test examinations will begin on October 28 and conclude by November 15.",
+        "title_bn": "পরকীয়া প্রেমিকের সাথে মিলে স্বামীকে হত্যার পরিকল্পনা করেন নারী",
+        "title_en": "Woman Conspires With Paramour to Murder Husband in Dhaka",
+        "summary_bn": "পরকীয়া সম্পর্ক বজায় রাখতে প্রেমিককে সাথে নিয়ে স্বামীকে ঘুমের ওষুধ খাইয়ে হত্যার পরিকল্পনা করেন এক নারী।",
+        "summary_en": "A woman conspired with her illicit partner to murder her husband by mixing sleeping pills in his food.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "sports_fitness"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:46:21+00:00",
-        "lead_bn": "আসন্ন এসএসসি ও সমমান পরীক্ষার নির্বাচনি বা টেস্ট পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু হয়ে ১৫ নভেম্বরের মধ্যে শেষ হবে।",
-        "lead_en": "The upcoming SSC and equivalent test examinations will begin on October 28 and conclude by November 15.",
+        "published_at": "2026-10-22T07:55:34+00:00",
+        "lead_bn": "পরকীয়া সম্পর্ক বজায় রাখতে প্রেমিককে সাথে নিয়ে স্বামীকে ঘুমের ওষুধ খাইয়ে হত্যার পরিকল্পনা করেন এক নারী।",
+        "lead_en": "A woman conspired with her illicit partner to murder her husband by mixing sleeping pills in his food.",
         "bullets_bn": [
-          "নির্বাচনি পরীক্ষা আগামী ২৮ অক্টোবর থেকে শুরু করতে হবে",
-          "পরীক্ষা শেষ করার জন্য ১০ নভেম্বর পর্যন্ত সময় নির্ধারণ করা হয়েছে",
-          "টেস্ট পরীক্ষার ফলাফল ১৫ নভেম্বরের মধ্যে প্রকাশ করতে হবে"
+          "ছেলের নজরে পড়ায় পরকীয়া প্রেমিকের সাথে বাসায় দেখা করা বন্ধ করেন উর্মিলা",
+          "গোপনে মেলামেশা অব্যাহত রেখে স্বামীকে হত্যার ভয়ংকর পরিকল্পনা চূড়ান্ত করেন তারা",
+          "পরিকল্পনা বাস্তবায়নের আগেই বিষয়টি জানাজানি হলে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়"
         ],
         "bullets_en": [
-          "The test examinations must commence starting from October 28",
-          "Institutions have been instructed to finish exams by November 10",
-          "Results of the test examinations must be published by November 15"
+          "Urmila stopped meeting her paramour at home after her son discovered their illicit affair.",
+          "The couple continued secret meetings and hatched a dangerous plot to eliminate the husband.",
+          "Legal proceedings were initiated after the sinister murder plot came to light before execution."
         ],
-        "impact_bn": "এসএসসি পরীক্ষার্থীরা নির্দিষ্ট সময়ের মধ্যে তাদের প্রস্তুতি সম্পন্ন করার সুযোগ পাবে এবং নির্ধারিত সূচি অনুযায়ী মূল পরীক্ষার প্রস্তুতি নিতে পারবে।",
-        "impact_en": "SSC candidates will get the opportunity to complete their preparation within a stipulated timeframe and proceed according to schedule.",
-        "details_bn": "বাংলাদেশের শিক্ষা বোর্ডগুলোর নিয়মানুযায়ী এসএসসি ও সমমান পরীক্ষার আগে শিক্ষার্থীদের মূল্যায়ন ও মূল পরীক্ষার জন্য প্রস্তুত করতে নির্বাচনি বা টেস্ট পরীক্ষা অনুষ্ঠিত হয়। নির্দিষ্ট সময়ের মধ্যে পরীক্ষা সম্পন্ন এবং ফলাফল প্রকাশের মাধ্যমে শিক্ষার্থীদের চূড়ান্ত পরীক্ষার ফরম পূরণের প্রক্রিয়া সহজতর করা হয়।",
-        "details_en": "According to the regulations of education boards in Bangladesh, test examinations are held to evaluate and prepare students before the final SSC and equivalent exams. Completing the exams and publishing results within a specific timeframe facilitates the final exam registration process for students."
+        "impact_bn": "পারিবারিক সম্পর্কের অবক্ষয় ও অপরাধপ্রবণতা সমাজে গভীর নিরাপত্তাহীনতা ও আস্থার সংকট তৈরি করছে।",
+        "impact_en": "The erosion of familial values and rising domestic conspiracies create deep social insecurity and loss of trust.",
+        "details_bn": "সাম্প্রতিক সময়ে পারিবারিক সম্পর্কের টানাপোড়েন ও অবৈধ সম্পর্কের জেরে অপরাধমূলক কর্মকাণ্ডের প্রবণতা উদ্বেগজনক হারে বাড়ছে। পরকীয়ার বলি হয়ে অহরহ ঘটছে বিভিন্ন নৃশংস হত্যাকাণ্ড। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর তথ্যমতে, পারিবারিক সচেতনতা ও নৈতিক শিক্ষার অভাবেই মূলত এ ধরণের অপরাধপ্রবণতা দিন দিন বৃদ্ধি পাচ্ছে, যা সুস্থ সমাজ বিনির্মাণের পথে বড় অন্তরায়।",
+        "details_en": "Criminal activities stemming from strained family ties and illicit relationships have been on an alarming rise. Various brutal murders frequently occur as a consequence of extramarital affairs. According to law enforcement agencies, the lack of familial awareness and moral education primarily fuels such crimes, posing a major obstacle to building a healthy society."
       }
     },
     {
-      "story_id": "1b975aad-627a-594b-addc-1c667a18f365",
+      "story_id": "83631c31-3162-56ab-b921-634631c23341",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-09%2Fb91fe164-93c3-4885-98d7-7887aac24cba%2F7.JPG?rect=0%2C76%2C5760%2C3024&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-22T07:47:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8463,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/chakri/chakri-news/afydp4eatb",
+          "title": "৭ ব্যাংক ও ২ আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ",
+          "snippet": "৭ ব্যাংক ও ২ আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাত ব্যাংক ও দুই আর্থিক প্রতিষ্ঠানে অফিসার পদের প্রবেশপত্র প্রকাশ",
+        "title_en": "Admit Cards Published for Officer Posts in Seven Banks and Two Financial Institutions",
+        "summary_bn": "ব্যাংকার্স সিলেকশন কমিটির অধীনে সাতটি ব্যাংক ও দুটি আর্থিক প্রতিষ্ঠানের অফিসার পদে নিয়োগ পরীক্ষার প্রবেশপত্র প্রকাশিত হয়েছে।",
+        "summary_en": "Admit cards for recruitment exams for officer positions in seven banks and two financial institutions have been published under the Bankers Selection Committee.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T07:47:09+00:00",
+        "lead_bn": "ব্যাংকার্স সিলেকশন কমিটির অধীনে সাতটি ব্যাংক ও দুটি আর্থিক প্রতিষ্ঠানের অফিসার পদে নিয়োগ পরীক্ষার প্রবেশপত্র প্রকাশিত হয়েছে।",
+        "lead_en": "Admit cards for recruitment exams for officer positions in seven banks and two financial institutions have been published under the Bankers Selection Committee.",
+        "bullets_bn": [
+          "প্রাথমিকভাবে যোগ্য প্রার্থীরা বাংলাদেশ ব্যাংকের নিয়োগসংক্রান্ত ওয়েবসাইট থেকে প্রবেশপত্র সংগ্রহ করতে পারবেন।",
+          "প্রার্থীদের নির্ধারিত ২৬ অক্টোবরের মধ্যে ওয়েবসাইট থেকে প্রবেশপত্র ডাউনলোড সম্পন্ন করতে হবে।",
+          "পরীক্ষার সুনির্দিষ্ট তারিখ, সময় ও কেন্দ্র পরবর্তীতে ওয়েবসাইট ও জাতীয় পত্রিকার বিজ্ঞপ্তিতে জানানো হবে।"
+        ],
+        "bullets_en": [
+          "Eligible candidates can collect their admit cards from the recruitment website of Bangladesh Bank.",
+          "Candidates must complete downloading their admit cards by the specified deadline of October 26.",
+          "The exact date, time, and venue of the exam will be announced later through website notices and national dailies."
+        ],
+        "impact_bn": "চাকরিপ্রার্থীরা নির্ধারিত সময়ের মধ্যে প্রবেশপত্র ডাউনলোড করে নিয়োগ পরীক্ষায় অংশ নেওয়ার সুযোগ পাবেন।",
+        "impact_en": "Job seekers can download admit cards within the deadline to participate in the recruitment examinations.",
+        "details_bn": "বাংলাদেশ ব্যাংকের ব্যাংকার্স সিলেকশন কমিটির মাধ্যমে রাষ্ট্রায়ত্ত ও বিশেষায়িত বিভিন্ন ব্যাংক এবং আর্থিক প্রতিষ্ঠানে নিয়মিতভাবে কর্মকর্তা নিয়োগ করা হয়। এর অংশ হিসেবে নির্দিষ্ট পদগুলোর জন্য যোগ্য প্রার্থীদের প্রাথমিক বাছাই সম্পন্ন করে প্রবেশপত্র প্রকাশ করা হয়েছে। নির্ধারিত সময়ের মধ্যে প্রার্থীরা ওয়েবসাইট থেকে প্রবেশপত্র সংগ্রহ না করলে পরীক্ষায় অংশগ্রহণের সুযোগ হারাবেন।",
+        "details_en": "Regular recruitment of officers in state-owned and specialized banks and financial institutions is conducted through the Bankers Selection Committee of Bangladesh Bank. As part of this process, admit cards have been published after completing the preliminary screening of eligible candidates for the designated positions. Candidates who fail to collect their admit cards from the website within the stipulated timeframe will lose the opportunity to participate in the exam."
+      }
+    },
+    {
+      "story_id": "e7b68b97-c90e-5f4f-87c5-436997fdd85d",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -286,48 +282,48 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fdshxavye%2FLead.png?rect=0%2C0%2C1870%2C982&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T06:39:40+00:00",
+      "published_at": "2026-10-22T07:46:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.789,
+      "rank_score": 0.8415,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/europe/v7cg7j13du",
-          "title": "গ্রিসে জীবনযাত্রা ও শিক্ষা–সংকট কতটা তীব্র, কেন হাজারো শিক্ষার্থী রাজপথে",
-          "snippet": "গ্রিসে জীবনযাত্রা ও শিক্ষা–সংকট কতটা তীব্র, কেন হাজারো শিক্ষার্থী রাজপথে"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/education/news/1170826",
+          "title": "উচ্চতর গ্রেড বৈষম্য নিরসনে মাধ্যমিক শিক্ষকদের ২ মাসের আলটিমেটাম",
+          "snippet": "উচ্চতর গ্রেড বৈষম্য নিরসনে মাধ্যমিক শিক্ষকদের ২ মাসের আলটিমেটাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শিক্ষা খাতে বরাদ্দ বৃদ্ধির দাবিতে গ্রিসে হাজারো শিক্ষার্থীর রাজপথে বিক্ষোভ",
-        "title_en": "Thousands of Students Protest in Greece Demanding Increased Education Funding",
-        "summary_bn": "উন্নত সুযোগ-সুবিধা ও শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধির দাবিতে গ্রিসের বিভিন্ন শহরে হাজারো শিক্ষার্থী ও শিক্ষক বিক্ষোভ করেছেন।",
-        "summary_en": "Thousands of students and teachers protested across Greek cities demanding better facilities and increased state funding for education.",
+        "title_bn": "মাধ্যমিক শিক্ষকদের উচ্চতর গ্রেড বৈষম্য নিরসনে দুই মাসের আলটিমেটাম",
+        "title_en": "Secondary Teachers Issue Two Month Ultimatum to Remove Grade Disparities",
+        "summary_bn": "এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড প্রাপ্তির বৈষম্য দূর করতে সংশ্লিষ্ট কর্তৃপক্ষকে দুই মাসের সময়সীমা বেঁধে দিয়েছেন।",
+        "summary_en": "MPO-enrolled secondary school assistant teachers have given authorities a two-month deadline to resolve disparities in obtaining higher grades.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T06:39:40+00:00",
-        "lead_bn": "উন্নত সুযোগ-সুবিধা ও শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধির দাবিতে গ্রিসের বিভিন্ন শহরে হাজারো শিক্ষার্থী ও শিক্ষক বিক্ষোভ করেছেন।",
-        "lead_en": "Thousands of students and teachers protested across Greek cities demanding better facilities and increased state funding for education.",
+        "published_at": "2026-10-22T07:46:34+00:00",
+        "lead_bn": "এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড প্রাপ্তির বৈষম্য দূর করতে সংশ্লিষ্ট কর্তৃপক্ষকে দুই মাসের সময়সীমা বেঁধে দিয়েছেন।",
+        "lead_en": "MPO-enrolled secondary school assistant teachers have given authorities a two-month deadline to resolve disparities in obtaining higher grades.",
         "bullets_bn": [
-          "শিক্ষার্থীরা শিক্ষা খাতে রাষ্ট্রীয় বরাদ্দ বৃদ্ধি এবং সুপরিসর ক্লাসরুম ও উন্নত সুযোগ-সুবিধার দাবি জানিয়েছেন।",
-          "রাজধানী এথেন্সের সেন্ট্রাল এলাকায় প্রায় ১০ হাজার শিক্ষার্থী ও শিক্ষক শান্তিপূর্ণ বিক্ষোভ মিছিলে অংশ নেন।",
-          "আগামী বছরের মাঝামাঝি সময়ে নির্ধারিত নির্বাচনের আগে আন্দোলনকারীরা সরকারের ওপর চাপ সৃষ্টি করার চেষ্টা করছেন।"
+          "মাধ্যমিক বিদ্যালয়ের এমপিওভুক্ত সহকারী শিক্ষকরা উচ্চতর গ্রেড বৈষম্য নিরসনের দাবিতে আলটিমেটাম দিয়েছেন।",
+          "শিক্ষক নেতারা সংশ্লিষ্ট মন্ত্রণালয় ও অধিদপ্তরকে আগামী দুই মাসের মধ্যে কার্যকর পদক্ষেপ গ্রহণের আহ্বান জানিয়েছেন।",
+          "নির্দিষ্ট সময়ের মধ্যে দাবি না মানলে শিক্ষকরা কঠোর আন্দোলন কর্মসূচি ঘোষণা করবেন।"
         ],
         "bullets_en": [
-          "Students demanded increased state funding for education along with larger classrooms and better facilities.",
-          "Around 10,000 students and teachers participated in a peaceful protest march in central Athens.",
-          "Protesters are attempting to pressure the government ahead of the national elections scheduled for mid next year."
+          "MPO-enrolled secondary school assistant teachers issued an ultimatum demanding the elimination of higher grade disparities.",
+          "Teacher leaders urged the relevant ministry and directorate to take effective action within the next two months.",
+          "Teachers will announce stricter protest programs if the demands are not met within the stipulated time."
         ],
-        "impact_bn": "শিক্ষার্থীদের এই আন্দোলন গ্রিসের সাধারণ মানুষের জীবনযাত্রার ব্যয় বৃদ্ধি এবং স্থবির মজুরির বিরুদ্ধে সরকারের ওপর রাজনৈতিক চাপ বাড়াচ্ছে।",
-        "impact_en": "The student movement increases political pressure on the government amid rising living costs and stagnant wages for ordinary citizens in Greece.",
-        "details_bn": "ফ্রান্স ও আলবেনিয়ার পর গ্রিসের শিক্ষাব্যবস্থায় সংকট ও বিক্ষোভের উত্তাপ ছড়িয়ে পড়েছে। এর আগে ফ্রান্স ও স্পেনের মতো ইউরোপীয় দেশগুলোতেও শিক্ষাব্যবস্থা সংস্কার ও জীবনযাত্রার ব্যয় বৃদ্ধির প্রতিবাদে বিক্ষোভ হয়েছিল। গ্রিসের মানুষ বর্তমানে স্থবির মজুরি, বাড়তি বাড়িভাড়া এবং জ্বালানি ব্যয়ের ঊর্ধ্বগতির মতো অর্থনৈতিক সমস্যার মুখোমুখি হচ্ছেন। আগামী বছরের মাঝামাঝি সময়ে দেশটিতে সাধারণ নির্বাচন অনুষ্ঠিত হওয়ার কথা রয়েছে।",
-        "details_en": "Following France and Albania, student protests over education crises have spread to Greece. Earlier, European countries like Spain, Portugal, and Italy witnessed protests over soaring living costs and fragile education systems. Greek citizens currently face stagnant wages, high rents, and surging energy costs. The country's next general election is scheduled for the middle of next year."
+        "impact_bn": "এই দাবি বাস্তবায়িত হলে দেশের মাধ্যমিক বিদ্যালয়ের হাজার হাজার শিক্ষকের দীর্ঘদিনের আর্থিক বৈষম্য দূর হবে।",
+        "impact_en": "Implementation of these demands will resolve long-standing financial disparities for thousands of secondary school teachers nationwide.",
+        "details_bn": "দীর্ঘদিন ধরে এমপিওভুক্ত মাধ্যমিক বিদ্যালয়ের সহকারী শিক্ষকরা উচ্চতর গ্রেড পাওয়া নিয়ে নানা জটিলতা ও বৈষম্যের শিকার হয়ে আসছেন। বিভিন্ন সময় শিক্ষক সংগঠনগুলো এর প্রতিকার চেয়ে স্মারকলিপি ও মানববন্ধন করলেও সুনির্দিষ্ট সমাধান মেলেনি। শিক্ষকদের এই অসন্তোষের পরিপ্রেক্ষিতে নতুন করে আলটিমেটাম দেওয়ার ঘটনা ঘটে।",
+        "details_en": "For a long time, MPO-enrolled assistant teachers in secondary schools have faced complications and disparities in securing higher grades. Although teacher associations previously submitted memorandums and formed human chains seeking remedies, no concrete solution had been reached, prompting this new ultimatum."
       }
     }
   ]
