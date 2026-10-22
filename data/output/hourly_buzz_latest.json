@@ -1,230 +1,13 @@
 {
-  "updated_at": "2026-10-22T02:00:45.525573",
+  "updated_at": "2026-10-22T03:00:53.963234",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "54996c76-22a0-5a47-b1ab-031179caf383",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9654,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/975944/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%B0%E0%A6%BE-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A1%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%B0%E2%80%8C%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%AB",
-          "title": "বিশ্বের সেরা অ্যাকাডেমির র‌্যাঙ্কিংয়ে ব্রাজিলের ৫ ক্লাব, আর্জেন্টিনার কয়টি?",
-          "snippet": "বিশ্বের সেরা অ্যাকাডেমির র‌্যাঙ্কিংয়ে ব্রাজিলের ৫ ক্লাব, আর্জেন্টিনার কয়টি?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিশ্বসেরা অ্যাকাডেমির তালিকায় ব্রাজিলের পাঁচ ও আর্জেন্টিনার আট ক্লাব স্থান পেয়েছে",
-        "title_en": "Five Brazilian and eight Argentine clubs feature in global academy rankings",
-        "summary_bn": "সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত বিশ্বসেরা অ্যাকাডেমির তালিকায় লাতিন আমেরিকার দুই দেশের তেরোটি ক্লাব জায়গা করে নিয়েছে।",
-        "summary_en": "Thirteen clubs from Latin America secured spots in the CIES Football Observatory global academy rankings.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:00:00+00:00",
-        "lead_bn": "সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত বিশ্বসেরা অ্যাকাডেমির তালিকায় লাতিন আমেরিকার দুই দেশের তেরোটি ক্লাব জায়গা করে নিয়েছে।",
-        "lead_en": "Thirteen clubs from Latin America secured spots in the CIES Football Observatory global academy rankings.",
-        "bullets_bn": [
-          "বিশ্বের সেরা ত্রিশটি ফুটবল অ্যাকাডেমির তালিকায় জায়গা পেয়েছে ব্রাজিলের পাঁচটি ক্লাব।",
-          "তালিকায় সংখ্যার দিক থেকে এগিয়ে থেকে আটটি ক্লাব জায়গা করে নিয়েছে আর্জেন্টিনা।",
-          "বিশ্বসেরা ফুটবল অ্যাকাডেমি হিসেবে শীর্ষস্থান অর্জন করেছে পর্তুগালের বেনফিকা ক্লাব।"
-        ],
-        "bullets_en": [
-          "Five Brazilian clubs secured positions within the top thirty global football academies.",
-          "Argentina leads in total representation with eight clubs featured in the rankings.",
-          "Portuguese club Benfica claimed the top position as the world's best football academy."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সুইজারল্যান্ডভিত্তিক গবেষণা প্রতিষ্ঠান সিআইইএস ফুটবল অবজারভেটরির প্রকাশিত নতুন প্রতিবেদনে বিশ্বের শীর্ষস্থানীয় ফুটবল অ্যাকাডেমিগুলোর মান ও কার্যকারিতা মূল্যায়ন করা হয়েছে। এই র&zwj;্যাঙ্কিংয়ে বিশ্বমানের ফুটবলার তৈরিতে লাতিন আমেরিকার দুই চিরপ্রতিদ্বন্দ্বী দেশ ব্রাজিল ও আর্জেন্টিনার দীর্ঘদিনের আধিপত্য এবং ধারাবাহিক সাফল্য স্পষ্টভাবে ফুটে উঠেছে।",
-        "details_en": "The newly published report by the Switzerland-based research institution CIES Football Observatory evaluates the quality and output of leading global football academies. The rankings clearly highlight the enduring dominance and sustained success of traditional Latin American powerhouses Brazil and Argentina in producing world-class football talent."
-      }
-    },
-    {
-      "story_id": "b35bb332-98cc-509c-84d3-87e2de0fc610",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9654,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/975930/%E0%A6%8F%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9D%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B2%E0%A6%BE%E0%A6%96%E0%A7%8B-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A7%87",
-          "title": "এক যুগে সড়কে ঝরেছে লাখো প্রাণ, মৃত্যুর মিছিল থামবে কবে",
-          "snippet": "এক যুগে সড়কে ঝরেছে লাখো প্রাণ, মৃত্যুর মিছিল থামবে কবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশের সড়কে এক দশকে লক্ষাধিক প্রাণহানি, থামছে না দুর্ঘটনা",
-        "title_en": "Over One Hundred Thousand Lives Lost on Roads in a Decade",
-        "summary_bn": "দেশের সড়কগুলোতে প্রতিনিয়ত ঝরছে বহু প্রাণ, যার ফলে বাড়ছে দুর্ঘটনা ও হতাহতের সংখ্যা।",
-        "summary_en": "Persistent road accidents continue to claim numerous lives across the country, highlighting an ongoing safety crisis.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:00:00+00:00",
-        "lead_bn": "দেশের সড়কগুলোতে প্রতিনিয়ত ঝরছে বহু প্রাণ, যার ফলে বাড়ছে দুর্ঘটনা ও হতাহতের সংখ্যা।",
-        "lead_en": "Persistent road accidents continue to claim numerous lives across the country, highlighting an ongoing safety crisis.",
-        "bullets_bn": [
-          "সড়ক যোগাযোগ ব্যবস্থার আধুনিকায়ন ও নতুন গাড়ির সংখ্যা বাড়লেও শৃঙ্খলা ফিরছে না।",
-          "দুর্ঘটনার শিকারদের মধ্যে রয়েছে শিক্ষার্থী, শ্রমজীবী, নারী ও শিশুসহ নানা বয়সী মানুষ।",
-          "নিরাপদ সড়ক আন্দোলন হলেও পরিস্থিতির কাঙ্ক্ষিত কোনো উন্নতি লক্ষ্য করা যায়নি।"
-        ],
-        "bullets_en": [
-          "Road fatalities continue despite investments in transport infrastructure and the addition of new vehicles.",
-          "Victims of frequent road crashes include students, working people, elderly, women, and children.",
-          "Major safety movements have previously shaken the nation but failed to enforce lasting discipline."
-        ],
-        "impact_bn": "সড়ক দুর্ঘটনা সাধারণ মানুষ ও শিক্ষার্থীদের জীবনকে প্রতিনিয়ত চরম ঝুঁকির মধ্যে ফেলছে।",
-        "impact_en": "Continuous road hazards place ordinary citizens and students at severe daily risk.",
-        "details_bn": "দেশের সড়ক ব্যবস্থার উন্নয়নে ব্যাপক বিনিয়োগ ও নতুন বিলাসবহুল গাড়ি নামলেও সড়কে শৃঙ্খলা ফেরেনি। প্রতিদিন ঝরছে তাজা প্রাণ। শিকার হচ্ছেন শিক্ষার্থী, শ্রমজীবী, নারী ও শিশুসহ নানা শ্রেণি-পেশার মানুষ। ২০১৮ সালে দুই শিক্ষার্থীর মৃত্যুকে কেন্দ্র করে গড়ে ওঠা নিরাপদ সড়ক আন্দোলন পুরো দেশকে নাড়া দিলেও পরিস্থিতির স্থায়ী কোনো পরিবর্তন আসেনি।",
-        "details_en": "Despite major investments in transport infrastructure and the introduction of luxury vehicles, road discipline remains absent. Daily crashes continue to kill students, workers, women, and children. Although the historic student road safety protests in 2018 shook the entire nation, systemic reforms and lasting discipline have yet to be established."
-      }
-    },
-    {
-      "story_id": "9cde5e0f-672b-5065-aacb-438a7a6e3b6b",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9654,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/entertainment/bollywood/975925/%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%85%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A6%BE%E0%A6%AD",
-          "title": "চিকিৎসকের পরামর্শে বিশ্রাম, ক্ষমা চাইলেন অমিতাভ",
-          "snippet": "চিকিৎসকের পরামর্শে বিশ্রাম, ক্ষমা চাইলেন অমিতাভ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চিকিৎসকদের পরামর্শে কুন বনেগা ক্রোড়পতি শুটিং থেকে বিরতি নিচ্ছেন অমিতাভ বচ্চন",
-        "title_en": "Amitabh Bachchan takes break from shooting on medical advice",
-        "summary_bn": "হাঁটুতে চোট পাওয়ার পর চিকিৎসকদের পরামর্শে কয়েক দিন বিশ্রামে থাকার কথা জানিয়েছেন বলিউড মেগাস্টার অমিতাভ বচ্চন।",
-        "summary_en": "Bollywood megastar Amitabh Bachchan announced he is taking a few days off following medical advice after knee injury.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:00:00+00:00",
-        "lead_bn": "হাঁটুতে চোট পাওয়ার পর চিকিৎসকদের পরামর্শে কয়েক দিন বিশ্রামে থাকার কথা জানিয়েছেন বলিউড মেগাস্টার অমিতাভ বচ্চন।",
-        "lead_en": "Bollywood megastar Amitabh Bachchan announced he is taking a few days off following medical advice after knee injury.",
-        "bullets_bn": [
-          "শারীরিক অসুস্থতার কারণে শুটিং থেকে সাময়িক বিরতি নিয়েছেন অমিতাভ বচ্চন।",
-          "সামাজিক যোগাযোগমাধ্যম এক্সে দেওয়া পোস্টে বিশ্রামে থাকার কথা নিশ্চিত করেছেন এই অভিনেতা।",
-          "চিকিৎসকদের পরামর্শ অনুযায়ী পরবর্তী শুটিংয়ের সময় নির্ধারণ করা হবে।"
-        ],
-        "bullets_en": [
-          "Amitabh Bachchan has taken a temporary break from shooting due to physical illness.",
-          "The actor confirmed his need for rest through a post on social media platform X.",
-          "Future shooting schedules will be determined according to medical advice."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চলতি মাসের শুরুতে জনপ্রিয় কুইজ শো কৌন বনেগা ক্রোড়পতির শুটিংয়ের সময় হাঁটুতে চোট পান বলিউড অভিনেতা অমিতাভ বচ্চন। এই চোটের কারণে তাকে চিকিৎসকদের পরামর্শ নিতে হয় এবং তারা তাকে কয়েক দিন সম্পূর্ণ বিশ্রামে থাকার নির্দেশ দেন। সামাজিক যোগাযোগমাধ্যমে বিষয়টি প্রকাশ করার পর তার ভক্তদের মধ্যে উৎকণ্ঠা তৈরি হয়েছে।",
-        "details_en": "Earlier this month, veteran Bollywood actor Amitabh Bachchan injured his knee during the shooting of the popular quiz show Kaun Banega Crorepati. Following the injury, he consulted physicians who advised him to take complete rest for a few days. The revelation on social media has sparked concern among his global fanbase."
-      }
-    },
-    {
-      "story_id": "2c1d40fa-acb6-59d8-9336-292183c64d97",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/UCL-6.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-22T01:20:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6664,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/champions-league-bayern-munich-arsenal-real-madrid-leipzig-manchester-united-como-lead-sports/",
-          "title": "নাটকীয় রাতে চেনারূপেই রিয়াল, বায়ার্ন-আর্সেনাল ড্র, ইউনাইটেডকে চমকে কোমোর রূপকথা",
-          "snippet": "নাটকীয় রাতে চেনারূপেই রিয়াল, বায়ার্ন-আর্সেনাল ড্র, ইউনাইটেডকে চমকে কোমোর রূপকথা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চ্যাম্পিয়ন্স লিগে কোমো ও রিয়াল মাদ্রিদের জয় এবং বায়ার্ন-আর্সেনাল ড্র",
-        "title_en": "Real Madrid and Como Secure Victories While Bayern and Arsenal Draw",
-        "summary_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ম্যানচেস্টার ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে কোমো এবং আরবি লেইপজিগকে হারিয়েছে রিয়াল মাদ্রিদ।",
-        "summary_en": "Como secured a major win against Manchester United and Real Madrid defeated RB Leipzig in the UEFA Champions League.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T01:20:07+00:00",
-        "lead_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ম্যানচেস্টার ইউনাইটেডকে বড় ব্যবধানে হারিয়েছে কোমো এবং আরবি লেইপজিগকে হারিয়েছে রিয়াল মাদ্রিদ।",
-        "lead_en": "Como secured a major win against Manchester United and Real Madrid defeated RB Leipzig in the UEFA Champions League.",
-        "bullets_bn": [
-          "কোমো চার এক গোলে ম্যানচেস্টার ইউনাইটেডকে এবং রিয়াল মাদ্রিদ চার এক গোলে লেইপজিগকে পরাজিত করেছে।",
-          "নিকো পাজ জোড়া গোল করেন এবং বায়ার্ন মিউজিক ও আর্সেনালের ম্যাচটি দুই দুই গোলে ড্র হয়।",
-          "চ্যাম্পিয়ন্স লিগ লিগ পর্বে তিন ম্যাচে তিন জয়ে পিএসজি পয়েন্ট তালিকার শীর্ষে অবস্থান করছে।"
-        ],
-        "bullets_en": [
-          "Como defeated Manchester United four to one and Real Madrid secured a four to one victory over Leipzig.",
-          "Nico Paz scored two goals while Bayern Munich and Arsenal played to a two to two draw.",
-          "PSG currently leads the Champions League league stage standings with three consecutive wins from three matches."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "উয়েফা চ্যাম্পিয়ন্স লিগের নতুন ফরম্যাটের লিগ পর্বে ইউরোপের শীর্ষ ক্লাবগুলো একে অপরের মুখোমুখি হচ্ছে। টুর্নামেন্টের শুরুতে ঐতিহ্যবাহী জায়ান্ট দলগুলোর পাশাপাশি নবাগত ক্লাবগুলোও নিজেদের পারফরম্যান্সের মাধ্যমে চমক সৃষ্টি করছে। বায়ার্ন মিউনিখ ও রিয়াল মাদ্রিদের মতো দলগুলো নকআউট পর্বে নিজেদের অবস্থান শক্ত করতে লড়াই চালিয়ে যাচ্ছে।",
-        "details_en": "European top clubs are facing each other in the league phase of the new UEFA Champions League format. Alongside traditional giants, newcomer clubs are creating surprises with strong performances. Teams like Bayern Munich and Real Madrid continue their campaign to secure their positions for the knockout stages."
-      }
-    },
-    {
-      "story_id": "a6caf263-2079-5113-928f-3c0ef219bd2b",
+      "story_id": "a8fd02df-c76f-5bda-a0fb-3b0f9528f012",
       "primary_category": "climate_environment",
       "interest_categories": [
-        "climate_environment"
+        "climate_environment",
+        "economy_business"
       ],
       "tags": [
         "#Climate",
@@ -232,50 +15,105 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T01:19:00+00:00",
+      "published_at": "2026-10-22T02:34:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6604,
+      "importance_score": 6.6,
+      "rank_score": 2.0656,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/975975/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE",
-          "title": "বঙ্গোপসাগরে লঘুচাপ, কেমন থাকবে আজকের আবহাওয়া",
-          "snippet": "বঙ্গোপসাগরে লঘুচাপ, কেমন থাকবে আজকের আবহাওয়া"
+          "url": "https://www.banglatribune.com/country/khulna/975979/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8-%E0%A6%93-%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "সুন্দরবন ও মোংলা পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী, সারাদিন যেসব কর্মসূচি রয়েছে",
+          "snippet": "সুন্দরবন ও মোংলা পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী, সারাদিন যেসব কর্মসূচি রয়েছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামের কিছু অঞ্চলে বৃষ্টির সম্ভাবনা সহ দেশের আবহাওয়া প্রধানত শুষ্ক থাকবে",
-        "title_en": "Weather to Remain Mostly Dry Across Country With Rain Chances in Chattogram",
-        "summary_bn": "আবহাওয়া অধিদফতর জানিয়েছে যে দেশের অধিকাংশ এলাকায় আবহাওয়া প্রধানত শুষ্ক থাকলেও চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টির সম্ভাবনা রয়েছে।",
-        "summary_en": "The Meteorological Department stated that weather will remain mostly dry nationwide with chances of rain in parts of Chattogram division.",
+        "title_bn": "সুন্দরবন ও মোংলা বন্দর পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman to visit Sundarbans and Mongla Port",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান সুন্দরবন এবং মোংলা বন্দরের বিভিন্ন উন্নয়নমূলক প্রকল্প পরিদর্শনে যাচ্ছেন।",
+        "summary_en": "Prime Minister Tarique Rahman is visiting the Sundarbans and Mongla Port to inspect ongoing development projects.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment"
+          "climate_environment",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T01:19:00+00:00",
-        "lead_bn": "আবহাওয়া অধিদফতর জানিয়েছে যে দেশের অধিকাংশ এলাকায় আবহাওয়া প্রধানত শুষ্ক থাকলেও চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টির সম্ভাবনা রয়েছে।",
-        "lead_en": "The Meteorological Department stated that weather will remain mostly dry nationwide with chances of rain in parts of Chattogram division.",
+        "published_at": "2026-10-22T02:34:30+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান সুন্দরবন এবং মোংলা বন্দরের বিভিন্ন উন্নয়নমূলক প্রকল্প পরিদর্শনে যাচ্ছেন।",
+        "lead_en": "Prime Minister Tarique Rahman is visiting the Sundarbans and Mongla Port to inspect ongoing development projects.",
         "bullets_bn": [
-          "দেশের অধিকাংশ এলাকার আবহাওয়া প্রধানত শুষ্ক থাকার পূর্বাভাস দিয়েছে আবহাওয়া অফিস।",
-          "চট্টগ্রাম বিভাগের দুএক জায়গায় বৃষ্টি বা বজ্রসহ বৃষ্টির সম্ভাবনা রয়েছে।",
-          "সারাদেশে দিন ও রাতের তাপমাত্রা প্রায় অপরিবর্তিত থাকতে পারে।"
+          "প্রধানমন্ত্রী মোংলা বন্দরের নতুন জেটি ও চায়না অর্থনৈতিক অঞ্চল পরিদর্শন করবেন",
+          "সফরের অংশ হিসেবে সুন্দরবনের ইকোট্যুরিজম এলাকা ঘুরে দেখবেন সরকারপ্রধান",
+          "সফরের প্রস্তুতি হিসেবে সংশ্লিষ্ট কর্তৃপক্ষ প্রয়োজনীয় নিরাপত্তা ব্যবস্থা গ্রহণ করেছে"
         ],
         "bullets_en": [
-          "The meteorological office forecasts mostly dry weather across most regions of the country.",
-          "Rain or thundershowers are likely to occur at a few places in Chattogram division.",
-          "Day and night temperatures are expected to remain nearly unchanged across the country."
+          "The Prime Minister will inspect the new jetty of Mongla Port and the China Economic Zone",
+          "The government head will visit the ecotourism spots in the Sundarbans during the trip",
+          "Relevant authorities have implemented necessary security measures in preparation for the visit"
         ],
-        "impact_bn": "চট্টগ্রাম অঞ্চলের বাসিন্দাদের বৃষ্টির কারণে সাময়িক যাতায়াত সমস্যায় পড়তে হতে পারে।",
-        "impact_en": "Residents in the Chattogram region may face temporary commuting disruptions due to potential rainfall.",
-        "details_bn": "বঙ্গোপসাগরে সৃষ্টি হওয়া লঘুচাপ ও মৌসুমী বায়ুর প্রভাবে দেশের আবহাওয়া পরিস্থিতিতে এই পরিবর্তন দেখা গেছে। আবহাওয়া অধিদপ্তর নিয়মিত দেশের বিভিন্ন অঞ্চলের তাপমাত্রা ও বৃষ্টির পূর্বাভাস প্রকাশ করে থাকে যাতে সাধারণ মানুষ ও সংশ্লিষ্ট খাতগুলো আগাম প্রস্তুতি নিতে পারে।",
-        "details_en": "This weather pattern is influenced by low-pressure formations and seasonal winds over the Bay of Bengal. The Met Office regularly issues regional forecasts to help citizens and relevant sectors prepare for sudden weather shifts."
+        "impact_bn": "এই পরিদর্শনের ফলে মোংলা বন্দরের কার্যক্রম গতিশীল হবে এবং স্থানীয় পর্যটন খাতের উন্নয়ন ঘটবে।",
+        "impact_en": "This visit will boost port activities and stimulate regional tourism development in the area.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের এই সফর দেশের দক্ষিণাঞ্চলের সামুদ্রিক বাণিজ্য এবং পরিবেশবান্ধব পর্যটন খাতের প্রসারে গুরুত্বপূর্ণ ভূমিকা রাখবে। মোংলা বন্দরের আধুনিকায়ন এবং চায়না অর্থনৈতিক অঞ্চলের কাজ ত্বরান্বিত করার লক্ষে এই পরিদর্শন নির্ধারিত হয়েছে।",
+        "details_en": "This official tour by Prime Minister Tarique Rahman plays a vital role in expanding maritime trade and eco-friendly tourism in the southern region. The inspection aims to accelerate the modernization of Mongla Port and development works in the China Economic Zone."
       }
     },
     {
-      "story_id": "c25c8197-c98b-5557-8cc1-3f0c5303ae85",
+      "story_id": "414bd2ba-b3af-5b78-bf07-4168496d9abd",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T02:42:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6205,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1170733",
+          "title": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলা, অনেকে হতাহত",
+          "snippet": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলা, অনেকে হতাহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলায় নিহত ১ আহত ৮",
+        "title_en": "Attack on Saudi Arabia Dammam Airport Leaves One Dead and Eight Injured",
+        "summary_bn": "সৌদি আরবের পূর্বাঞ্চলীয় দাম্মাম শহরের কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
+        "summary_en": "An attack on the King Fahd International Airport in Saudi Arabia's eastern Dammam city has left one dead and eight injured.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T02:42:48+00:00",
+        "lead_bn": "সৌদি আরবের পূর্বাঞ্চলীয় দাম্মাম শহরের কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
+        "lead_en": "An attack on the King Fahd International Airport in Saudi Arabia's eastern Dammam city has left one dead and eight injured.",
+        "bullets_bn": [
+          "কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে অজ্ঞাত গোষ্ঠীর হামলায় হতাহতের এই ঘটনা ঘটে।",
+          "হামলায় একজন নিহত হয়েছেন এবং অন্তত আটজন গুরুতর আহত অবস্থায় চিকিৎসাধীন রয়েছেন।",
+          "নিরাপত্তা বাহিনী পরিস্থিতি নিয়ন্ত্রণে আনতে বিমানবন্দরে তল্লাশি ও তদন্ত শুরু করেছে।"
+        ],
+        "bullets_en": [
+          "An attack occurred at the King Fahd International Airport resulting in casualties.",
+          "The attack left one person dead and at least eight others injured receiving medical treatment.",
+          "Security forces launched investigations and beefed up security measures at the facility."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে যাতায়াতকারী যাত্রী ও প্রবাসীদের মধ্যে নিরাপত্তা নিয়ে বাড়তি উদ্বেগ তৈরি হতে পারে।",
+        "impact_en": "Security concerns may rise among travelers and expatriates commuting through the Middle East region.",
+        "details_bn": "সৌদি আরবের পূর্বাঞ্চলীয় শহর দাম্মামে অবস্থিত কিং ফাহদ আন্তর্জাতিক বিমানবন্দর দেশটির অন্যতম প্রধান বিমানবন্দর। মধ্যপ্রাচ্যের ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে এই ধরনের অবকাঠামোতে হামলার ঘটনা আঞ্চলিক নিরাপত্তা ও বিমান চলাচলের ওপর নেতিবাচক প্রভাব ফেলতে পারে। কর্তৃপক্ষ ঘটনার পেছনের কারণ উদঘাটনে কাজ করছে।",
+        "details_en": "King Fahd International Airport located in Saudi Arabia's eastern Dammam city is one of the nation's major aviation hubs. Incidents of attacks on critical infrastructure amid regional geopolitical tensions raise significant concerns for aviation safety and regional stability. Authorities are currently investigating the security breach."
+      }
+    },
+    {
+      "story_id": "3d05c233-2221-5282-b5f3-90220060ee4b",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness",
@@ -285,25 +123,25 @@
         "#Sports",
         "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F7zxn9jz2%2FWhatsApp-Image-2025-09-07-at-18.46.345cffd0da.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2Foj267urd%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T01:00:00+00:00",
+      "published_at": "2026-10-22T03:00:25+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5717,
+      "rank_score": 0.9672,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/adhgh6sv0a",
-          "title": "আজ টিভিতে যা দেখবেন (২২ অক্টোবর ২০২৬)",
-          "snippet": "আজ টিভিতে যা দেখবেন (২২ অক্টোবর ২০২৬)"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/975981/%E0%A6%AF%E0%A7%87-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9A-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "যে শর্ত দিয়ে আর্জেন্টিনার কোচ থাকতে রাজি হলেন স্কালোনি",
+          "snippet": "যে শর্ত দিয়ে আর্জেন্টিনার কোচ থাকতে রাজি হলেন স্কালোনি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিভিতে র ক্রিকেট ও ফুটবল ম্যাচের তালিকা",
-        "title_en": "Television Schedule for Today Featuring Cricket and Football Matches",
-        "summary_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য বিভিন্ন আন্তর্জাতিক সিরিজ ও ইউরোপীয় ক্লাব ফুটবল ম্যাচের পূর্ণাঙ্গ টিভি সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "A comprehensive television schedule featuring various international series and European club football matches has been released.",
+        "title_bn": "আর্জেন্টিনার কোচ হিসেবে ২০২৮ সাল পর্যন্ত থাকছেন লিওনেল স্কালোনি",
+        "title_en": "Lionel Scaloni Extends Argentina Coaching Contract Until 2028",
+        "summary_bn": "লিওনেল স্কালোনি শর্ত সাপেক্ষে আগামী বিশ্বকাপ পর্যন্ত আর্জেন্টিনার প্রধান কোচ হিসেবে দায়িত্ব চালিয়ে যেতে চুক্তিতে পৌঁছেছেন।",
+        "summary_en": "Lionel Scaloni reached an agreement to continue as Argentina head coach under specific conditions until the upcoming World Cup.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -311,23 +149,193 @@
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T01:00:00+00:00",
-        "lead_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য বিভিন্ন আন্তর্জাতিক সিরিজ ও ইউরোপীয় ক্লাব ফুটবল ম্যাচের পূর্ণাঙ্গ টিভি সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "A comprehensive television schedule featuring various international series and European club football matches has been released.",
+        "published_at": "2026-10-22T03:00:25+00:00",
+        "lead_bn": "লিওনেল স্কালোনি শর্ত সাপেক্ষে আগামী বিশ্বকাপ পর্যন্ত আর্জেন্টিনার প্রধান কোচ হিসেবে দায়িত্ব চালিয়ে যেতে চুক্তিতে পৌঁছেছেন।",
+        "lead_en": "Lionel Scaloni reached an agreement to continue as Argentina head coach under specific conditions until the upcoming World Cup.",
         "bullets_bn": [
-          "নিউজিল্যান্ড ও ভারতের মধ্যকার টি-টুয়েন্টি সিরিজ শুরু হচ্ছে সনি স্পোর্টস চ্যানেলে",
-          "পাকিস্তান ত্রিদেশীয় টি-টুয়েন্টি সিরিজে মুখোমুখি হচ্ছে ইংল্যান্ড ও শ্রীলঙ্কা",
-          "রাতে ইউরোপা লিগের একাধিক ম্যাচ সনি স্পোর্টস ও টি স্পোর্টসে সম্প্রচারিত হবে"
+          "আর্জেন্টাইন ফুটবল ফেডারেশনের সাথে নতুন চুক্তি স্বাক্ষর করেছেন লিওনেল স্কালোনি",
+          "চুক্তি অনুযায়ী তিনি ২০২৮ সাল পর্যন্ত দুই বছরের মেয়াদ বাড়িয়েছেন",
+          "উভয় পক্ষের সম্মতিতে চুক্তিটি ২০৩০ সাল পর্যন্ত বর্ধিত করার সুযোগ রয়েছে"
         ],
         "bullets_en": [
-          "The T20 series between New Zealand and India begins on Sony Sports channels",
-          "England and Sri Lanka face each other in the Pakistan T20 triangular series",
-          "Multiple Europa League matches will be broadcast at night on Sony Sports and T Sports"
+          "Lionel Scaloni signed a new agreement with the Argentine Football Association.",
+          "The contract extends his tenure for two years through 2028.",
+          "The agreement includes a mutual option to extend the term until 2030."
         ],
-        "impact_bn": "ক্রীড়াপ্রেমীরা নির্ধারিত সময়ে ঘরে বসেই বিভিন্ন আন্তর্জাতিক ক্রিকেট ও ফুটবল ম্যাচ উপভোগ করতে পারবেন।",
-        "impact_en": "Sports enthusiasts can enjoy various international cricket and football matches from the comfort of their homes.",
-        "details_bn": "বিভিন্ন আন্তর্জাতিক ও ক্লাব টুর্নামেন্টের ব্যস্ত সূচির অংশ হিসেবে প্রতিদিন বিশ্বের বিভিন্ন প্রান্তে একাধিক ক্রিকেট ও ফুটবল ম্যাচ অনুষ্ঠিত হয়। ক্রীড়া সম্প্রচারকারী চ্যানেলগুলো দর্শকদের জন্য এই ম্যাচগুলোর সরাসরি সম্প্রচার নিশ্চিত করে থাকে, যা বিশ্বজুড়ে দর্শকদের বিনোদনের অন্যতম প্রধান মাধ্যম।",
-        "details_en": "As part of the busy schedule of various international and club tournaments, multiple cricket and football matches take place daily across the globe. Sports broadcasting channels ensure live coverage of these matches for viewers, serving as a primary source of entertainment worldwide."
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "ডিসেম্বরেই শেষ হওয়ার কথা ছিল আর্জেন্টিনার সঙ্গে কোচ লিওনেল স্কালোনির আগের চুক্তির মেয়াদ। দলটির হয়ে কোপা আমেরিকা ও বিশ্বকাপ জয়ের পর তার ভবিষ্যৎ নিয়ে জল্পনা চলছিল। আন্তর্জাতিক সংবাদমাধ্যমের প্রতিবেদন অনুযায়ী, নতুন এই চুক্তির ফলে ২০২৬ সালের বিশ্বকাপ পর্যন্ত বর্তমান বিশ্বচ্যাম্পিয়নদের ডাগআউটে দেখা যাবে তাকে।",
+        "details_en": "Lionel Scaloni's previous coaching contract with Argentina was set to expire in December. Following his historic Copa America and World Cup triumphs, his future had been the subject of widespread speculation. According to international media reports, this new agreement ensures his leadership of the reigning world champions through the upcoming World Cup cycle."
+      }
+    },
+    {
+      "story_id": "d7dd57b8-1adf-5b42-8ed9-54cd1c1dbef3",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T02:56:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9256,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/football/1170737",
+          "title": "জিতেই চলেছে রিয়াল মাদ্রিদ, এবার প্রতিপক্ষের জালে ৪ গোল",
+          "snippet": "জিতেই চলেছে রিয়াল মাদ্রিদ, এবার প্রতিপক্ষের জালে ৪ গোল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আরবি লাইপজিগকে চার গোলে হারিয়ে চ্যাম্পিয়ন্স লিগে রিয়াল মাদ্রিদের জয়",
+        "title_en": "Real Madrid Defeats RB Leipzig Four Goals to One in Champions League",
+        "summary_bn": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে জার্মান ক্লাব আরবি লাইপজিগকে চার গোলের ব্যবধানে পরাজিত করেছে।",
+        "summary_en": "Real Madrid secured a dominant victory over German club RB Leipzig at the Santiago Bernabeu.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T02:56:16+00:00",
+        "lead_bn": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে জার্মান ক্লাব আরবি লাইপজিগকে চার গোলের ব্যবধানে পরাজিত করেছে।",
+        "lead_en": "Real Madrid secured a dominant victory over German club RB Leipzig at the Santiago Bernabeu.",
+        "bullets_bn": [
+          "রিয়াল মাদ্রিদ উয়েফা চ্যাম্পিয়ন্স লিগে নিজেদের জয়ের ধারা অব্যাহত রেখেছে।",
+          "ম্যাচে রিয়ালের হয়ে বার্নার্দো সিলভা, আর্দা গুলের, কিলিয়ান এমবাপে ও ইয়ান দিয়োমান্দে গোল করেছেন।",
+          "স্প্যানিশ জায়ান্টরা এই জয়ের ফলে প্রতিযোগিতার পয়েন্ট তালিকায় নিজেদের অবস্থান আরও সুসংহত করেছে।"
+        ],
+        "bullets_en": [
+          "Real Madrid continued their winning streak in the UEFA Champions League.",
+          "Bernardo Silva, Arda Guler, Kylian Mbappe, and Yan Diomande scored for Real Madrid.",
+          "The Spanish giants further strengthened their position in the tournament standings with this victory."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ইউরোপের শীর্ষ ক্লাবগুলো অংশগ্রহণ করে। রিয়াল মাদ্রিদ প্রতিযোগিতার অন্যতম সফল দল হিসেবে নিয়মিত নিজেদের আধিপত্য বজায় রেখে আসছে। এই মৌসুমেও তারা ঘরের মাঠে দুর্দান্ত পারফরম্যান্সের মাধ্যমে জয়ের ধারা ধরে রেখেছে।",
+        "details_en": "The UEFA Champions League features top clubs from across Europe competing for the ultimate continental title. Real Madrid, as one of the most successful teams in the tournament's history, continues to maintain strong performances in the current campaign, showcasing their dominance at the Santiago Bernabeu."
+      }
+    },
+    {
+      "story_id": "9cdc4020-957e-5cf7-990f-a127d575cff1",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "climate_environment"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T02:53:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8987,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/975980/%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A6%9B%E0%A7%8B%E0%A6%81%E0%A7%9F%E0%A6%BE",
+          "title": "থামার নাম নেই: বিশ্ববাজারে তেলের দাম আকাশছোঁয়া",
+          "snippet": "থামার নাম নেই: বিশ্ববাজারে তেলের দাম আকাশছোঁয়া"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে হুথি হামলার জেরে বিশ্ববাজারে জ্বালানি তেলের দাম বৃদ্ধি",
+        "title_en": "Global Oil Prices Surge Following Fresh Houthi Attacks in Saudi Arabia",
+        "summary_bn": "সৌদি আরবে হুথিদের নতুন হামলার পর বিশ্ববাজারে জ্বালানি তেলের দাম বেড়েছে এবং যুক্তরাষ্ট্র কূটনৈতিক কর্মীদের সরে যাওয়ার নির্দেশ দিয়েছে।",
+        "summary_en": "Global oil prices surged and the US ordered diplomatic personnel to evacuate following fresh Houthi attacks in Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T02:53:24+00:00",
+        "lead_bn": "সৌদি আরবে হুথিদের নতুন হামলার পর বিশ্ববাজারে জ্বালানি তেলের দাম বেড়েছে এবং যুক্তরাষ্ট্র কূটনৈতিক কর্মীদের সরে যাওয়ার নির্দেশ দিয়েছে।",
+        "lead_en": "Global oil prices surged and the US ordered diplomatic personnel to evacuate following fresh Houthi attacks in Saudi Arabia.",
+        "bullets_bn": [
+          "সৌদি আরবে নতুন করে হামলা চালিয়েছে হুথি বিদ্রোহীরা।",
+          "আন্তর্জাতিক বাজারে ব্রেন্ট ক্রুডের দাম ব্যারেলপ্রতি ১ দশমিক ২ শতাংশ বা ১ দশমিক ২৯ ডলার বেড়ে ১১০ দশমিক ১১ ডলারে দাঁড়িয়েছে।",
+          "পরিস্থিতির পরিপ্রেক্ষিতে সৌদি আরব থেকে কিছু কূটনৈতিক কর্মী ও তাদের পরিবারের সদস্যদের চলে যাওয়ার নির্দেশ দিয়েছে যুক্তরাষ্ট্র।"
+        ],
+        "bullets_en": [
+          "Houthi rebels launched fresh attacks targeting locations in Saudi Arabia.",
+          "Brent crude prices on the international market increased by 1.2 percent or 1.29 dollars to reach 110.11 dollars per barrel.",
+          "The United States ordered some diplomatic staff and their family members to leave its facilities in the country."
+        ],
+        "impact_bn": "জ্বালানি তেলের দাম বাড়ায় দেশীয় বাজারে আমদানি ব্যয় ও নিত্যপণ্যের দাম বৃদ্ধির আশঙ্কা রয়েছে।",
+        "impact_en": "Rising global fuel prices could increase import costs and drive up commodity prices in domestic markets.",
+        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই সৌদি আরবে নতুন করে এই হামলাগুলো পরিচালিত হয়েছে। ইয়েমেনের হুথি বিদ্রোহীদের সাম্প্রতিক সামরিক তৎপরতা এবং এর বিপরীতে মার্কিন ও সৌদি জোটের সুরক্ষা ব্যবস্থার কারণে আঞ্চলিক নিরাপত্তা পরিস্থিতি আরও জটিল হয়ে উঠেছে। এই সংঘাত বিশ্বজুড়ে জ্বালানি সরবরাহ শৃঙ্খলকে চরম ঝুঁকির মুখে ফেলেছে।",
+        "details_en": "These fresh attacks occurred amid ongoing geopolitical tensions in the Middle East. Recent military activities by Yemen's Houthi rebels and the corresponding security measures by US and Saudi coalitions have further complicated the regional security situation, putting global energy supply chains at severe risk."
+      }
+    },
+    {
+      "story_id": "ddf11dfb-789f-5f56-b6a3-33e7b24ad8b6",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "governance_law"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T02:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8273,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/975903/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A6%A8%E0%A7%87-%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%AE%E0%A6%B0%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
+          "title": "দিনে তপ্ত, রাতেই কনকনে ঠান্ডা: মরুভূমির তাপমাত্রা হঠাৎ কমে কেন?",
+          "snippet": "দিনে তপ্ত, রাতেই কনকনে ঠান্ডা: মরুভূমির তাপমাত্রা হঠাৎ কমে কেন?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দিনের তীব্র তাপ এবং রাতের কনকনে ঠান্ডার কারণ প্রকাশ",
+        "title_en": "Researchers Explain Sharp Temperature Drop in Deserts at Night",
+        "summary_bn": "মরুভূমির শুষ্ক বাতাস এবং আর্দ্রতার স্বল্পতার কারণে সূর্যাস্তের পরপরই তাপমাত্রার দ্রুত পতন ঘটে।",
+        "summary_en": "Dry air and low humidity levels cause temperatures to drop rapidly in deserts immediately after sunset.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T02:45:00+00:00",
+        "lead_bn": "মরুভূমির শুষ্ক বাতাস এবং আর্দ্রতার স্বল্পতার কারণে সূর্যাস্তের পরপরই তাপমাত্রার দ্রুত পতন ঘটে।",
+        "lead_en": "Dry air and low humidity levels cause temperatures to drop rapidly in deserts immediately after sunset.",
+        "bullets_bn": [
+          "দিনের বেলায় প্রখর রোদে মরুভূমির বালু অতি দ্রুত উত্তপ্ত হয়ে ওঠে।",
+          "শুষ্ক বাতাস ও আর্দ্রতার অভাবে রাতের আকাশ থেকে তাপ দ্রুত বিকিরিত হয়।",
+          "তাপ ধরে রাখার মতো মেঘ বা উপাদানের অনুপস্থিতিতে মরুভূমিতে তীব্র ঠান্ডা অনুভূত হয়।"
+        ],
+        "bullets_en": [
+          "Desert sand absorbs intense solar radiation and heats up rapidly during daytime hours.",
+          "Dry air and minimal humidity allow heat to radiate quickly from the surface into the atmosphere at night.",
+          "The absence of cloud cover prevents heat retention, leading to freezing temperatures after dark."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মরু অঞ্চলে জলবায়ুগত বৈশিষ্ট্যের কারণে তাপমাত্রা দ্রুত পরিবর্তিত হয়। দিনের বেলা বালু দ্রুত গরম হলেও রাতের বেলা তাপ ধরে রাখার মতো আর্দ্রতা বা মেঘ না থাকায় তাপ বিকিরণ করে মহাশূন্যে চলে যায়। এর ফলে দিনের অসহনীয় গরম রাতারাতি কনকনে ঠান্ডায় রূপ নেয়।",
+        "details_en": "Desert regions experience extreme temperature swings due to unique atmospheric conditions. While sand absorbs heavy heat during the day, the lack of atmospheric moisture and cloud cover prevents heat retention at night, causing thermal energy to escape rapidly into space and plunging temperatures dramatically."
       }
     }
   ]
