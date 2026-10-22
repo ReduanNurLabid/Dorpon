@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-10-22T04:00:47.316139",
+  "updated_at": "2026-10-22T05:00:43.200928",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "c26a1982-81e1-53b5-80b5-a2ea239ff59a",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T04:40:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5893,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/others/975995/%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%87-%E0%A7%A9%E0%A7%AD%E0%A7%AF-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
+          "title": "হুথি হামলার মধ্যেই ৩৭৯ যাত্রী নিয়ে দাম্মাম গেলো বিমানের ফ্লাইট",
+          "snippet": "হুথি হামলার মধ্যেই ৩৭৯ যাত্রী নিয়ে দাম্মাম গেলো বিমানের ফ্লাইট"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদির দাম্মামে হুথি হামলার ঝুঁকি সত্ত্বেও ৩৭৯ যাত্রী নিয়ে বিমানের ফ্লাইট পরিচালনা",
+        "title_en": "Biman Operates Flight to Dammam with 379 Passengers Amid Houthi Attacks",
+        "summary_bn": "হুথি হামলার ঝুঁকি থাকা সত্ত্বেও বিমান বাংলাদেশ এয়ারলাইনসের একটি ফ্লাইট ৩৭৯ জন যাত্রী নিয়ে সৌদির দাম্মামের উদ্দেশে ঢাকা ছেড়েছে।",
+        "summary_en": "A Biman Bangladesh Airlines flight carrying 379 passengers departed for Dammam despite ongoing Houthi attacks.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T04:40:29+00:00",
+        "lead_bn": "হুথি হামলার ঝুঁকি থাকা সত্ত্বেও বিমান বাংলাদেশ এয়ারলাইনসের একটি ফ্লাইট ৩৭৯ জন যাত্রী নিয়ে সৌদির দাম্মামের উদ্দেশে ঢাকা ছেড়েছে।",
+        "lead_en": "A Biman Bangladesh Airlines flight carrying 379 passengers departed for Dammam despite ongoing Houthi attacks.",
+        "bullets_bn": [
+          "বিমান বাংলাদেশ এয়ারলাইনস ঝুঁকি সত্ত্বেও সৌদির দাম্মাম বিমানবন্দরে নিয়মিত ফ্লাইট পরিচালনা অব্যাহত রেখেছে।",
+          "ফ্লাইটটিতে মোট ৩৭৯ জন যাত্রী ছিল বলে নিশ্চিত করেছেন বিমানের জনসংযোগ বিভাগের মুখপাত্র শাহনুর আহমেদ।",
+          "নির্ধারিত সময় অনুযায়ী ফ্লাইটটি হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর ত্যাগ করে দাম্মামের উদ্দেশে রওনা হয়।"
+        ],
+        "bullets_en": [
+          "Biman Bangladesh Airlines continued its regular flight operations to Dammam airport despite ongoing security risks.",
+          "A total of 379 passengers were on board the flight, confirmed Biman public relations spokesperson Shahnur Ahmed.",
+          "The flight departed from Hazrat Shahjalal International Airport for Dammam according to the prior schedule."
+        ],
+        "impact_bn": "সৌদুগামী প্রবাসী যাত্রী ও তাদের পরিবারগুলোর মধ্যে বিমান চলাচলের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Travelers heading to Saudi Arabia and their families face heightened concerns regarding flight safety amid regional conflicts.",
+        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন বিমানবন্দরে সাম্প্রতিক সময়ে নিরাপত্তা ঝুঁকি ও হুথি বিদ্রোহীদের হামলার ঘটনা বৃদ্ধি পেয়েছে। তা সত্ত্বেও বিমান বাংলাদেশ এয়ারলাইনস নির্ধারিত শিডিউল বজায় রেখে মধ্যপ্রাচ্যের বিভিন্ন গন্তব্যে নিয়মিত ফ্লাইট পরিচালনা করে আসছে। যাত্রীদের নিরাপত্তা নিশ্চিত করতে সংশ্লিষ্ট কর্তৃপক্ষ পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে।",
+        "details_en": "Security risks and Houthi rebel attacks have recently increased across various Middle Eastern airports. Despite these challenges, Biman Bangladesh Airlines continues to operate regular flights to Middle Eastern destinations by maintaining its scheduled timetables. Relevant authorities are closely monitoring the situation to ensure passenger safety."
+      }
+    },
     {
       "story_id": "0abb2e96-2c73-5a9c-9aee-86a7fe0e9835",
       "primary_category": "governance_law",
@@ -18,7 +72,7 @@
       "published_at": "2026-10-22T04:01:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.6804,
+      "rank_score": 1.5835,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -30,8 +84,8 @@
       "daily_buzz": {
         "title_bn": "খুলনা ও মোংলা সফরে আসছেন প্রধানমন্ত্রী তারেক রহমান",
         "title_en": "Prime Minister Tarique Rahman Visits Khulna and Mongla",
-        "summary_bn": "নির্বাচনোত্তর সরকারের প্রধান হিসেবে খুলনা ও মোংলা অঞ্চলে প্রথম সরকারি সফর করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is conducting his first official post-election visit to the Khulna and Mongla regions.",
+        "summary_bn": "নির্বাচনের পর প্রধানমন্ত্রী হিসেবে প্রথম খুলনা ও মোংলা সফরে আসছেন সরকারপ্রধান তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is visiting Khulna and Mongla for the first time since assuming office.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,22 +94,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T04:01:00+00:00",
-        "lead_bn": "নির্বাচনোত্তর সরকারের প্রধান হিসেবে খুলনা ও মোংলা অঞ্চলে প্রথম সরকারি সফর করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is conducting his first official post-election visit to the Khulna and Mongla regions.",
+        "lead_bn": "নির্বাচনের পর প্রধানমন্ত্রী হিসেবে প্রথম খুলনা ও মোংলা সফরে আসছেন সরকারপ্রধান তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is visiting Khulna and Mongla for the first time since assuming office.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী হিসেবে দক্ষিণ-পশ্চিমাঞ্চলে এটিই প্রথম সরকারি সফর।",
-          "সফরকে কেন্দ্র করে খুলনা ও মোংলা অঞ্চলের ব্যবসায়ীদের মধ্যে নতুন আশার সঞ্চার হয়েছে।",
-          "এ অঞ্চলের দীর্ঘদিনের অমীমাংসিত সমস্যা সমাধানের প্রত্যাশা করছেন স্থানীয় বাসিন্দারা।"
+          "সরকারপ্রধান হিসেবে খুলনা ও মোংলা অঞ্চল পরিদর্শন করছেন প্রধানমন্ত্রী তারেক রহমান।",
+          "এই সফর ঘিরে দক্ষিণ-পশ্চিমাঞ্চলের সাধারণ মানুষ ও ব্যবসায়ীদের মধ্যে নতুন আশার সঞ্চার হয়েছে।",
+          "সফরের মাধ্যমে দীর্ঘদিনের অমীমাংসিত সমস্যা সমাধান এবং নতুন অর্থনৈতিক অগ্রযাত্রার প্রত্যাশা করা হচ্ছে।"
         ],
         "bullets_en": [
-          "This marks the first official visit to the southwestern region as head of government.",
-          "The visit has generated renewed optimism among local business communities in Khulna and Mongla.",
-          "Local residents expect the resolution of long-standing unresolved issues through this official tour."
+          "Prime Minister Tarique Rahman is visiting the Khulna and Mongla regions in his official capacity.",
+          "The visit has generated immense enthusiasm and renewed hope among local residents and business communities.",
+          "Locals expect this high-level visit to pave the way for resolving longstanding regional problems and boosting economic growth."
         ],
-        "impact_bn": "দক্ষিণ-পশ্চিমাঞ্চলের ব্যবসা-বাণিজ্য ও স্থানীয় অর্থনৈতিক কার্যক্রমে গতিশীলতা আসবে বলে আশা করছেন সাধারণ মানুষ।",
-        "impact_en": "Ordinary citizens expect renewed momentum in local trade and economic activities across the southwestern region.",
-        "details_bn": "নির্বাচনে বিজয়ী হয়ে সরকার গঠনের পর দক্ষিণ-পশ্চিমাঞ্চলের এই গুরুত্বপূর্ণ অঞ্চলে এটিই প্রধানমন্ত্রী তারেক রহমানের প্রথম সফর। এর মাধ্যমে মোংলা বন্দর ও খুলনা অঞ্চলের অর্থনৈতিক সম্ভাবনা কাজে লাগানোর বিষয়ে নতুন উদ্যোগ গ্রহণের প্রত্যাশা করা হচ্ছে। স্থানীয় ব্যবসায়ী ও সাধারণ মানুষ দীর্ঘদিন ধরে অমীমাংসিত নানা infrastructural ও অর্থনৈতিক সমস্যার দ্রুত সমাধান চেয়ে আসছেন।",
-        "details_en": "This marks Prime Minister Tarique Rahman's first visit to the vital southwestern region after forming the post-election government. The tour is expected to spark new initiatives to harness the economic potential of the Mongla port and Khulna region. Local businesses and residents have long sought swift resolutions to lingering infrastructure and economic challenges."
+        "impact_bn": "দক্ষিণ-পশ্চিমাঞ্চলের ব্যবসা-বাণিজ্য ও জীবনযাত্রার মান উন্নত হওয়ার নতুন সম্ভাবনা তৈরি হয়েছে।",
+        "impact_en": "The visit raises expectations for regional trade expansion and improved public infrastructure for local residents.",
+        "details_bn": "নির্বাচনের পর সরকারপ্রধান হিসেবে খুলনা ও মোংলা অঞ্চলে এটিই প্রথম কোনো সরকারি সফর। এই সফরকে কেন্দ্র করে দক্ষিণ-পশ্চিমাঞ্চলের মানুষের দীর্ঘদিনের অমীমাংসিত সমস্যাগুলো সমাধানের দাবি জোরালো হয়েছে। একই সঙ্গে মোংলা বন্দরকেন্দ্রিক অর্থনৈতিক কার্যক্রম বৃদ্ধি এবং স্থানীয় ব্যবসায়ীদের দীর্ঘমেয়াদী সংকটের অবসান ঘটার আশা করছেন এই অঞ্চলের বাসিন্দারা।",
+        "details_en": "This marks the first official visit of the head of government to the Khulna and Mongla regions following the election. The visit has intensified local expectations for resolving long-standing regional problems. Residents and business leaders are anticipating major economic advancements tied to the Mongla port and regional infrastructure development."
       }
     },
     {
@@ -73,7 +127,7 @@
       "published_at": "2026-10-22T04:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.6525,
+      "rank_score": 1.5721,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -83,10 +137,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের ন্যায্য ক্ষতিপূরণ পেতে হাইকোর্টের শরণাপন্ন হতে হচ্ছে",
-        "title_en": "Road accident victims must approach High Court to secure fair compensation",
-        "summary_bn": "আইনে বিধান থাকলেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে হাইকোর্টের দ্বারস্থ হতে হচ্ছে ভুক্তভোগীদের।",
-        "summary_en": "Road accident victims face complex application procedures and delays, forcing them to approach the High Court for fair compensation.",
+        "title_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের ন্যায্য ক্ষতিপূরণ পেতে হাইকোর্টের দ্বারস্থ হতে হয়",
+        "title_en": "Road Accident Victims Must Approach High Court for Proper Compensation",
+        "summary_bn": "আইনে আর্থিক সহায়তার বিধান থাকা সত্ত্বেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের উচ্চ আদালতে যেতে হচ্ছে।",
+        "summary_en": "Despite legal provisions for financial aid, road accident victims must approach the High Court due to complex application procedures and delays.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,78 +148,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T04:00:00+00:00",
-        "lead_bn": "আইনে বিধান থাকলেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে হাইকোর্টের দ্বারস্থ হতে হচ্ছে ভুক্তভোগীদের।",
-        "lead_en": "Road accident victims face complex application procedures and delays, forcing them to approach the High Court for fair compensation.",
+        "lead_bn": "আইনে আর্থিক সহায়তার বিধান থাকা সত্ত্বেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের উচ্চ আদালতে যেতে হচ্ছে।",
+        "lead_en": "Despite legal provisions for financial aid, road accident victims must approach the High Court due to complex application procedures and delays.",
         "bullets_bn": [
-          "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্ত ও পঙ্গুত্ববরণকারী পরিবারগুলোর জন্য আর্থিক সহায়তা পাওয়া বড় একটি চ্যালেঞ্জ হিসেবে রয়ে গেছে।",
-          "আইনে আর্থিক সহায়তার বিধান থাকা সত্ত্বেও ক্ষতিপূরণের পরিমাণ এবং আবেদন প্রক্রিয়া নিয়ে নানা প্রশ্ন রয়েছে।",
-          "ন্যায্য ক্ষতিপূরণ নিশ্চিত করতে আইনি প্রক্রিয়ার দীর্ঘসূত্রতা দূর করার দাবি জোরালো হচ্ছে।"
+          "সড়ক দুর্ঘটনায় স্বজন হারানো বা পঙ্গুত্ববরণকারী পরিবারগুলো ক্ষতিপূরণ পেতে দীর্ঘ আইনি জটিলতার মুখোমুখি হচ্ছে।",
+          "আইনে সহায়তার বিধান থাকলেও ক্ষতিপূরণের সুনির্দিষ্ট পরিমাণ ও দ্রুত প্রাপ্তি নিয়ে প্রশ্ন রয়েছে।",
+          "ভুক্তভোগীদের দীর্ঘসূত্রতা কাটিয়ে ন্যায্য ক্ষতিপূরণ নিশ্চিত করতে বিচার ব্যবস্থার ওপর নির্ভর করতে হচ্ছে।"
         ],
         "bullets_en": [
-          "Securing financial assistance remains a major challenge for families devastated by road accidents or permanent disabilities.",
-          "Despite legal provisions for financial support, concerns persist regarding compensation amounts and application processes.",
-          "Demands are growing to eliminate bureaucratic delays in legal procedures to ensure fair compensation."
+          "Families losing relatives or facing permanent disability in road accidents face severe legal complexities to get compensation.",
+          "Despite legal aid provisions, questions remain regarding specific compensation amounts and timely disbursement.",
+          "Victims are forced to rely heavily on the judiciary to bypass systemic delays and secure fair compensation."
         ],
-        "impact_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্ত সাধারণ মানুষ ও পরিবারগুলো দীর্ঘ আইনি লড়াই ছাড়া দ্রুত ক্ষতিপূরণ পাচ্ছে না।",
-        "impact_en": "Ordinary citizens and families affected by road accidents struggle to secure prompt compensation without prolonged legal battles.",
-        "details_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের আইনি সুরক্ষা ও আর্থিক ক্ষতিপূরণ দেওয়ার বিষয়ে দেশে আইন থাকলেও তার বাস্তবায়ন প্রক্রিয়া বেশ জটিল। ভুক্তভোগী পরিবারগুলোকে ক্ষতিপূরণ পেতে দীর্ঘ আইনি লড়াই ও প্রশাসনিক জটিলতার মুখোমুখি হতে হয়। বিশেষ করে স্বজনহারা বা পঙ্গুত্ববরণকারী দরিদ্র মানুষগুলোর জন্য এই আইনি প্রক্রিয়া আরও দুর্বিষহ হয়ে ওঠে, যার ফলে অনেককেই শেষ পর্যন্ত উচ্চ আদালতের শরণাপন্ন হতে হয়।",
-        "details_en": "Although laws exist to provide legal protection and financial compensation to road accident victims, the implementation process remains highly complex. Victim families face protracted legal battles and administrative red tape to claim compensation. This makes the legal process particularly grueling for impoverished individuals who have lost breadwinners or suffered disabilities, ultimately driving many to seek intervention from the High Court."
-      }
-    },
-    {
-      "story_id": "2cd7015b-6997-5800-8e10-2863770f44e6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T03:47:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6981,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170752",
-          "title": "সৌদি আরবের তেল স্থাপনায় হামলা, দুই বিদেশি নাগরিক নিহত",
-          "snippet": "সৌদি আরবের তেল স্থাপনায় হামলা, দুই বিদেশি নাগরিক নিহত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবের আরামকো তেলক্ষেত্রে ড্রোন হামলায় নিহত দুই বিদেশি",
-        "title_en": "Two Foreign Nationals Killed in Drone Attack on Saudi Aramco Oil Field",
-        "summary_bn": "সৌদি আরবের শাইবাহ তেলক্ষেত্রে ড্রোন হামলার চেষ্টা প্রতিহত করার সময় ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুই বিদেশি নাগরিক নিহত হয়েছেন।",
-        "summary_en": "Two foreign nationals were killed in a fire triggered by drone debris while air defenses intercepted an attack on a Saudi oil field.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T03:47:32+00:00",
-        "lead_bn": "সৌদি আরবের শাইবাহ তেলক্ষেত্রে ড্রোন হামলার চেষ্টা প্রতিহত করার সময় ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুই বিদেশি নাগরিক নিহত হয়েছেন।",
-        "lead_en": "Two foreign nationals were killed in a fire triggered by drone debris while air defenses intercepted an attack on a Saudi oil field.",
-        "bullets_bn": [
-          "সৌদি আরবের পূর্বাঞ্চলীয় প্রদেশে রাষ্ট্রায়ত্ত আরামকো তেলক্ষেত্রের শাইবাহ স্থাপনায় ড্রোন হামলার চেষ্টা চালানো হয়।",
-          "হামলার পর ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুজন বিদেশি নাগরিক নিহত এবং দুজন আহত হন।",
-          "সৌদি আকাশ প্রতিরক্ষাব্যবস্থা সফলভাবে প্রধান ড্রোন হামলার চেষ্টা প্রতিহত করে।"
-        ],
-        "bullets_en": [
-          "A drone attack was attempted on the Shaybah oil field belonging to state-owned Aramco in Saudi Arabia's Eastern Province.",
-          "Two foreign nationals were killed and two others injured due to a fire caused by falling drone debris.",
-          "Saudi air defense systems successfully intercepted the primary drone attack attempt."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সৌদি আরবের আরামকো তেল স্থাপনাগুলো এর আগেও বিভিন্ন ড্রোন ও ক্ষেপণাস্ত্র হামলার লক্ষ্যবস্তু হয়েছে। বিশ্বের অন্যতম প্রধান এই তেল উৎপাদক দেশের জ্বালানি অবকাঠামো সুরক্ষায় দেশটির কর্তৃপক্ষ আকাশ প্রতিরক্ষাব্যবস্থা জোরদার করেছে। মধ্যপ্রাচ্যের ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে এই তেলক্ষেত্রগুলোর নিরাপত্তা নিশ্চিত করা আন্তর্জাতিক জ্বালানি বাজারের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
-        "details_en": "Saudi Arabia's Aramco oil facilities have repeatedly been targeted by drone and missile attacks amid regional tensions. Authorities have reinforced air defense systems to protect critical energy infrastructure in the world's leading oil exporter, ensuring stability in global energy markets remains a top priority."
+        "impact_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্ত সাধারণ মানুষ ও তাদের পরিবারগুলো দীর্ঘ আইনি লড়াই ও আর্থিক সংকটের শিকার হচ্ছে।",
+        "impact_en": "Ordinary citizens and families affected by road accidents face prolonged legal battles and financial distress.",
+        "details_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের ক্ষতিপূরণ দেওয়ার বিষয়টি আইনে থাকলেও সঠিক বাস্তবায়ন ও প্রক্রিয়ার জটিলতার কারণে সাধারণ মানুষ ভোগান্তির শিকার হন। আবেদন প্রক্রিয়া সহজ না থাকায় এবং দীর্ঘসূত্রতার কারণে অনেক সময় ভুক্তভোগী পরিবারগুলো ন্যায়বিচার পেতে উচ্চ আদালতের শরণাপন্ন হতে বাধ্য হয়। এই পরিস্থিতি সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের আইনি সুরক্ষা ব্যবস্থার দুর্বলতা ফুটিয়ে তোলে।",
+        "details_en": "Although compensation for road accident victims is legally mandated, proper implementation and procedural complexities cause immense suffering to ordinary people. Due to complicated application processes and delays, victim families are often compelled to seek justice from the High Court. This situation highlights systemic weaknesses in legal protection mechanisms for road accident victims."
       }
     },
     {
@@ -184,7 +182,7 @@
       "published_at": "2026-10-22T03:37:43+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5484,
+      "rank_score": 0.9831,
       "sources": [
         {
           "name": "Channel i",
@@ -196,8 +194,8 @@
       "daily_buzz": {
         "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ",
         "title_en": "Critical Security Flaws Found in PHP Prompting Global Website Shutdowns",
-        "summary_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক ওয়েবসাইটগুলো সাময়িকভাবে অফলাইনে রাখা হয়েছে।",
-        "summary_en": "Government and commercial websites worldwide have been temporarily taken offline after two critical security flaws were identified in PHP.",
+        "summary_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে মারাত্মক নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর সাইবার ঝুঁকি এড়াতে বিশ্বজুড়ে বিভিন্ন প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+        "summary_en": "Websites globally have been temporarily shut down after critical security flaws were identified in the popular programming language PHP.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -206,26 +204,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T03:37:43+00:00",
-        "lead_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক ওয়েবসাইটগুলো সাময়িকভাবে অফলাইনে রাখা হয়েছে।",
-        "lead_en": "Government and commercial websites worldwide have been temporarily taken offline after two critical security flaws were identified in PHP.",
+        "lead_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে মারাত্মক নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর সাইবার ঝুঁকি এড়াতে বিশ্বজুড়ে বিভিন্ন প্রতিষ্ঠান তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+        "lead_en": "Websites globally have been temporarily shut down after critical security flaws were identified in the popular programming language PHP.",
         "bullets_bn": [
-          "সাইবার ঝুঁকি এড়াতে পিএইচপি ডেভেলপাররা জরুরি ভিত্তিতে একটি নিরাপত্তা প্যাচ বা আপডেট প্রকাশ করেছেন।",
-          "ইন্টারনেটের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং একে এক দশকেরও বেশি সময়ের মধ্যে সবচেয়ে বিপজ্জনক সংকট বলা হচ্ছে।",
-          "সিস্টেম তাৎক্ষণিকভাবে হালনাগাদ করা না গেলে ক্ষতিগ্রস্ত সার্ভারের ইন্টারনেট সংযোগ বিচ্ছিন্ন রাখার পরামর্শ দেওয়া হয়েছে।"
+          "পিএইচপিতে দুটি অত্যন্ত সংবেদনশীল ও গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিভিন্ন সরকারি ও বাণিজ্যিক প্রতিষ্ঠান তাদের পোর্টাল অফলাইনে রেখেছে।",
+          "ইন্টারনেটের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং ক্লাউড নিরাপত্তা প্রতিষ্ঠান উইজ এটিকে পিএইচপির ইতিহাসে অন্যতম ভয়াবহ দুর্বলতা বলেছে।",
+          "ডেভেলপাররা জরুরি ভিত্তিতে নিরাপত্তা প্যাচ প্রকাশ করেছেন এবং মার্কিন জাতীয় নিরাপত্তা সংস্থাসহ সংশ্লিষ্ট কর্তৃপক্ষ অবিলম্বে সিস্টেম হালনাগাদের তাগিদ দিয়েছে।"
         ],
         "bullets_en": [
-          "PHP developers have urgently released a security patch to mitigate widespread cyber risks.",
-          "PHP powers roughly 70 percent of internet websites, making this the most dangerous security crisis in over a decade.",
-          "Authorities advise completely disconnecting vulnerable servers from the internet if immediate system updates are impossible."
+          "Government and commercial entities took portals offline after two sensitive and critical security flaws were detected in PHP.",
+          "PHP powers nearly 70 percent of internet websites, with cloud security firm Wiz describing the issue as one of its worst vulnerabilities ever.",
+          "Developers have released urgent security patches, while authorities including the US National Security Agency urged immediate system updates."
         ],
-        "impact_bn": "গুরুত্বপূর্ণ সরকারি ও বাণিজ্যিক ডিজিটাল সেবা সাময়িকভাবে বন্ধ থাকায় সাধারণ নাগরিক ও সেবাগ্রহীতারা সাময়িক ভোগান্তিতে পড়েছেন।",
-        "impact_en": "Ordinary citizens face temporary disruptions in accessing essential government and commercial digital services due to sudden shutdowns.",
-        "details_bn": "বিশ্বের সিংহভাগ ওয়েবসাইট পরিচালনায় ব্যবহৃত জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি অত্যন্ত সংবেদনশীল নিরাপত্তা ত্রুটি শনাক্ত করা হয়। এই দুর্বলতাকে কাজে লাগিয়ে সাইবার হামলাকারীরা পাসওয়ার্ড ছাড়াই সার্ভারের পূর্ণ নিয়ন্ত্রণ নিতে পারে। ক্লাউড নিরাপত্তা প্রতিষ্ঠান উইজ এবং ওপেনএআইয়ের অর্থায়নে এআই মডেল ব্যবহার করে এই ত্রুটি প্রথম চিহ্নিত করা হয়। এরপর মার্কিন নিরাপত্তা সংস্থা এনএসএ এবং ফ্রান্স ও নেদারল্যান্ডসের মতো দেশের সরকারি সংস্থাগুলো সাইবার ঝুঁকি কমাতে সংশ্লিষ্ট ওয়েবসাইটগুলোর কার্যক্রম সাময়িকভাবে স্থগিত করে।",
-        "details_en": "Two highly sensitive security flaws were identified in PHP, a popular programming language powering a vast majority of websites worldwide. These vulnerabilities could allow attackers to gain full server control without passwords. The flaws were initially detected using AI models in research supported by OpenAI and cloud security firm Wiz. Following warnings from agencies like the US NSA, governments in countries such as France and the Netherlands temporarily suspended critical digital services and websites to mitigate potential cyber attacks."
+        "impact_bn": "জরুরি সরকারি ডিজিটাল সেবা ও অনলাইন পোর্টাল সাময়িকভাবে বন্ধ থাকায় সাধারণ নাগরিক ও সেবাগ্রহীতারা সাময়িক ভোগান্তিতে পড়েছেন।",
+        "impact_en": "Ordinary citizens and service seekers face temporary disruptions as vital government digital services and online portals go offline.",
+        "details_bn": "বিশ্বের সিংহভাগ ওয়েবসাইট পরিচালনায় ব্যবহৃত পিএইচপি প্রোগ্রামিং ল্যাঙ্গুয়েজের সোর্স কোডে কৃত্রিম বুদ্ধিমত্তা মডেলের সাহায্যে এই ত্রুটি শনাক্ত হয়। মার্কিন যুক্তরাষ্ট্র ও ইউরোপের বিভিন্ন দেশের সরকারি সংস্থা এবং সংবাদমাধ্যম সম্ভাব্য সাইবার হামলা ঠেকাতে জরুরি সতর্কতা জারি করে। ডেভেলপাররা দ্রুত নিরাপত্তা আপডেট প্রকাশ করলেও পুরোপুরি সিস্টেম হালনাগাদ না হওয়া পর্যন্ত সার্ভারের ইন্টারনেট সংযোগ বিচ্ছিন্ন রাখার পরামর্শ দেওয়া হয়েছে।",
+        "details_en": "The vulnerability in PHP, which powers a vast majority of global websites, was discovered using artificial intelligence models. Government agencies and media outlets across the US and Europe issued urgent security warnings to prevent cyberattacks. Although developers released emergency patches, authorities advised disconnecting vulnerable servers from the internet until full system updates are implemented."
       }
     },
     {
-      "story_id": "8bffcd09-e2b7-5bb8-a4ea-4e7ed0fa90d3",
+      "story_id": "a30fe002-badc-5206-b71f-caf75e0d8b9e",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -236,100 +234,100 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T03:15:15+00:00",
+      "published_at": "2026-10-22T04:59:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2813,
+      "importance_score": 2.4,
+      "rank_score": 0.9647,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/975983/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
-          "title": "সৌদির বিমানবন্দরে হুথিদের আবারও হামলা, প্রাণ গেলো একজনের",
-          "snippet": "সৌদির বিমানবন্দরে হুথিদের আবারও হামলা, প্রাণ গেলো একজনের"
+          "url": "https://www.banglatribune.com/foreign/middle-east/975997/%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AC-%E0%A6%85%E0%A6%B2-%E0%A6%AC%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B8%E2%80%99-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E2%80%98%E0%A6%AB%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AC-%E0%A6%85%E0%A6%B2",
+          "title": "‘মাদার অব অল বম্বস’-এর পাল্টায় এবার ‘ফাদার অব অল বম্বস’ আনছে ইরান",
+          "snippet": "‘মাদার অব অল বম্বস’-এর পাল্টায় এবার ‘ফাদার অব অল বম্বস’ আনছে ইরান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদির কিং ফাহাদ বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় নিহত এক",
-        "title_en": "Houthi Rebel Attack on Saudi King Fahd Airport Kills One",
-        "summary_bn": "সৌদি আরবের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
-        "summary_en": "A Houthi rebel attack on Saudi Arabia's King Fahd International Airport left one person dead and eight injured.",
+        "title_bn": "‘ফাদার অব অল বম্বস’ নামের নতুন অস্ত্র উন্মোচনের প্রস্তুতি নিচ্ছে ইরান",
+        "title_en": "Iran Prepares to Unveil New Weapon Named Father of All Bombs",
+        "summary_bn": "যুক্তরাষ্ট্রের ভারী বোমার পাল্টায় নতুন শক্তিশালী অস্ত্র উন্মোচনের চূড়ান্ত প্রস্তুতি নিচ্ছে ইরানের ইসলামিক রিভোলিউশনারি গার্ড কোর।",
+        "summary_en": "The Islamic Revolutionary Guard Corps of Iran is finalizing preparations to unveil a powerful new weapon against US heavy bombs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T03:15:15+00:00",
-        "lead_bn": "সৌদি আরবের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
-        "lead_en": "A Houthi rebel attack on Saudi Arabia's King Fahd International Airport left one person dead and eight injured.",
+        "published_at": "2026-10-22T04:59:56+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের ভারী বোমার পাল্টায় নতুন শক্তিশালী অস্ত্র উন্মোচনের চূড়ান্ত প্রস্তুতি নিচ্ছে ইরানের ইসলামিক রিভোলিউশনারি গার্ড কোর।",
+        "lead_en": "The Islamic Revolutionary Guard Corps of Iran is finalizing preparations to unveil a powerful new weapon against US heavy bombs.",
         "bullets_bn": [
-          "হুথি বিদ্রোহীরা সৌদি আরবের পূর্বাঞ্চলীয় শহর দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হামলা চালায়।",
-          "হামলায় একজন নিহত হন এবং সামান্য থেকে গুরুতর আহত আটজনকে হাসপাতালে ভর্তি করা হয়।",
-          "সৌদির বেসামরিক বিমান চলাচল কর্তৃপক্ষ ঘটনার সত্যতা নিশ্চিত করে নিরাপত্তা জোরদারের পদক্ষেপ নিয়েছে।"
+          "ইরানের ইসলামিক রিভোলিউশনারি গার্ড কোর ফাদার অব অল বম্বস নামক নতুন অস্ত্র উন্মোচনের চূড়ান্ত প্রস্তুতি নিচ্ছে।",
+          "আইআরজিসির মুখপাত্র হোসেইন মোহেব্বি অস্ত্রটির বিষয়ে বিস্তারিত প্রকাশ না করলেও এটিকে শত্রুর জন্য সম্পূর্ণ নতুন বলে উল্লেখ করেছেন।",
+          "অস্ত্রটির প্রকাশ মধ্যপ্রাচ্যে সামরিক উত্তেজনা আরও বাড়িয়ে তুলতে পারে বলে আশঙ্কা করা হচ্ছে।"
         ],
         "bullets_en": [
-          "Houthi rebels launched an attack on the King Fahd International Airport in Dammam, eastern Saudi Arabia.",
-          "The strike resulted in one fatality and left eight individuals with injuries ranging from minor to severe.",
-          "The General Authority of Civil Aviation confirmed the casualties and beefed up local security measures."
+          "The Islamic Revolutionary Guard Corps of Iran is finalizing preparations to unveil a new weapon named the Father of All Bombs.",
+          "IRGC spokesperson Hossein Mohebbi did not reveal technical details but described the weapon as completely new for enemies.",
+          "The introduction of this high-capacity weapon is expected to escalate military tensions in the Middle East."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সীমান্ত পেরিয়ে সৌদি আরব ও এর বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এই সংঘাত মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তায় দীর্ঘমেয়াদী অস্থিরতা তৈরি করেছে এবং আন্তর্জাতিক বিমান চলাচলে নিরাপত্তা ঝুঁকি বাড়িয়েছে। কাতারভিত্তিক সংবাদমাধ্যম আল জাজিরার প্রতিবেদনে এই তথ্য নিশ্চিত করা হয়েছে।",
-        "details_en": "Yemen's Houthi rebels have frequently targeted Saudi infrastructure with cross-border drone and missile strikes amid an ongoing regional conflict. This persistent hostility continues to threaten regional stability and commercial aviation security in the Middle East. Al Jazeera reported the latest casualties following confirmation by Saudi aviation authorities."
+        "impact_bn": "এই নতুন অস্ত্রের উন্মোচন মধ্যপ্রাচ্যে নিরাপত্তা পরিস্থিতিকে প্রভাবিত করতে পারে এবং আঞ্চলিক কূটনীতিতে নতুন চাপ তৈরি করবে।",
+        "impact_en": "The unveiling of this new weapon could impact regional security dynamics and create fresh pressure in Middle Eastern diplomacy.",
+        "details_bn": "যুক্তরাষ্ট্রের কাছে মাদার অব অল বম্বস বা জিবিইউ-৪৩/বি ম্যাসিভ অর্ডন্যান্স এয়ার ব্লাস্ট বোমা রয়েছে, যা মার্কিন সামরিক বাহিনীর অন্যতম শক্তিশালী অণু-পারমাণবিক অস্ত্র। এর কাউন্টার হিসেবে ইরান দীর্ঘদিন ধরে নিজস্ব ভারী সমরাস্ত্র ও ক্ষেপণাস্ত্র প্রযুক্তির উন্নয়ন ঘটিয়ে আসছে। এই নতুন অস্ত্র উন্মোচনের ঘোষণা তেহরানের সামরিক সক্ষমতা প্রদর্শনের একটি কৌশলগত পদক্ষেপ হিসেবে দেখা হচ্ছে।",
+        "details_en": "The United States possesses the GBU-43/B Massive Ordnance Air Blast, widely known as the Mother of All Bombs, as one of its most powerful non-nuclear weapons. As a countermeasure, Iran has long focused on developing its domestic heavy weaponry and missile technology. The announcement to unveil this new weapon is seen as a strategic move by Tehran to showcase its military readiness."
       }
     },
     {
-      "story_id": "5643f866-7ec5-559f-be1c-cafbf988759f",
-      "primary_category": "sports_fitness",
+      "story_id": "4af6b876-e836-5828-bf73-0a59e6116c78",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "sports_fitness"
+        "economy_business"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T04:00:00+00:00",
+      "published_at": "2026-10-22T04:47:35+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9645,
+      "rank_score": 0.8501,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/975933/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%9B%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B8-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87",
-          "title": "নিজের নামে ছয় প্রজাতি, গিনেস ওয়ার্ল্ড রেকর্ডে মেসির আরেক কীর্তি",
-          "snippet": "নিজের নামে ছয় প্রজাতি, গিনেস ওয়ার্ল্ড রেকর্ডে মেসির আরেক কীর্তি"
+          "url": "https://www.banglatribune.com/business/news/975996/%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%93-%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AD%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A4",
+          "title": "কমলো স্বর্ণ ও রুপার দাম, ভরিতে কত?",
+          "snippet": "কমলো স্বর্ণ ও রুপার দাম, ভরিতে কত?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লিওনেল মেসির নামে নতুন ছয় প্রজাতির উদ্ভিদের নামকরণ",
-        "title_en": "Six New Plant Species Named After Lionel Messi",
-        "summary_bn": "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন ফুলের গাছের নামকরণ করা হয়েছে আর্জেন্টাইন ফুটবল তারকা লিওনেল মেসির নামে।",
-        "summary_en": "Newly discovered flowering plant species in the Peruvian Andes have been named after Argentine football star Lionel Messi.",
+        "title_bn": "দেশের বাজারে স্বর্ণ ও রুপার দাম কমিয়েছে বাজুস",
+        "title_en": "Bangladesh Jeweller Association Lowers Gold and Silver Prices",
+        "summary_bn": "দেশের বাজারে তেজাবি স্বর্ণ ও রুপার দাম হ্রাসের পরিপ্রেক্ষিতে নতুন মূল্যতালিকা কার্যকর করেছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন।",
+        "summary_en": "The Bangladesh Jeweller Association has implemented a revised price schedule following a decrease in pure gold and silver costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T04:00:00+00:00",
-        "lead_bn": "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন ফুলের গাছের নামকরণ করা হয়েছে আর্জেন্টাইন ফুটবল তারকা লিওনেল মেসির নামে।",
-        "lead_en": "Newly discovered flowering plant species in the Peruvian Andes have been named after Argentine football star Lionel Messi.",
+        "published_at": "2026-10-22T04:47:35+00:00",
+        "lead_bn": "দেশের বাজারে তেজাবি স্বর্ণ ও রুপার দাম হ্রাসের পরিপ্রেক্ষিতে নতুন মূল্যতালিকা কার্যকর করেছে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন।",
+        "lead_en": "The Bangladesh Jeweller Association has implemented a revised price schedule following a decrease in pure gold and silver costs.",
         "bullets_bn": [
-          "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন উদ্ভিদের প্রজাতির নামকরণ করা হয়েছে লিওনেল মেসির নামে।",
-          "গাছটির ফুলের নীল ও সাদা রঙের সাথে মিল রয়েছে আর্জেন্টিনার জাতীয় পতাকার রঙের।",
-          "উদ্ভিদটির প্রজাতিটি বর্তমানে বিপন্ন অবস্থায় রয়েছে বলে জানিয়েছেন গবেষকরা।"
+          "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে স্বর্ণ ও রুপার গহনার দাম কমানোর সিদ্ধান্ত নিয়েছে।",
+          "নতুন মূল্যতালিকা অনুযায়ী ২২ ক্যারেটের প্রতি ভরি স্বর্ণের দাম নির্ধারণ করা হয়েছে ২ লাখ ২৬ হাজার ৪০০ টাকা এবং রুপার দাম ৪ হাজার টাকা।",
+          "সংশোধিত এই নতুন দাম সকাল ১০টা থেকে কার্যকর করা হয়েছে।"
         ],
         "bullets_en": [
-          "Newly discovered plant species in the Peruvian Andes have been officially named after Lionel Messi.",
-          "The blue and white colors of the flowers match the colors of the Argentine national flag.",
-          "Researchers have noted that the newly discovered plant species is currently endangered."
+          "The Bangladesh Jeweller Association decided to reduce retail gold and silver jewellery prices nationwide.",
+          "Under the new price list, 22-carat gold is set at 2,26,400 BDT per bhori and silver at 4,000 BDT per bhori.",
+          "The revised pricing structure took effect from morning hours following organizational review."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফুটবল মাঠের সাফল্যের পাশাপাশি এবার প্রকৃতির জগতেও স্থায়ী জায়গা করে নিলেন মহাতারকা লিওনেল মেসি। পেরুর আন্দিজ পর্বতমালায় সম্প্রতি আবিষ্কৃত বেশ কিছু নতুন প্রজাতির উদ্ভিদের বৈজ্ঞানিক নামকরণ করা হয়েছে তার নামে। গাছের ফুলের রঙের সাথে আর্জেন্টিনার পতাকার মিল থাকায় এই ব্যতিক্রমী উদ্যোগ নেন বিজ্ঞানীরা। তবে এই আবিষ্কারের আনন্দের মাঝেও উদ্ভিদের বিপন্ন অবস্থা নিয়ে উদ্বেগ প্রকাশ করেছেন বিশেষজ্ঞরা।",
-        "details_en": "Alongside his unprecedented success on the football pitch, superstar Lionel Messi has now secured a permanent place in nature. Newly discovered plant species in the Peruvian Andes have been scientifically named after him. Scientists took this initiative because the flower colors match the Argentine national flag. However, experts have expressed concern over the endangered status of these newly found species."
+        "impact_bn": "স্বর্ণের দাম কমায় ক্রেতা ও সাধারণ গহনা ক্রেতারা সাশ্রয়ী মূল্যে গহনা কিনতে পারবেন।",
+        "impact_en": "Lower precious metal prices allow consumers to purchase jewellery at more affordable rates.",
+        "details_bn": "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারের চাহিদার সাথে সামঞ্জস্য রেখে নিয়মিত সোনার দাম নির্ধারণ করে থাকে। আন্তর্জাতিক বাজারে তেজাবি স্বর্ণ বা পাকা সোনার দামের ওঠানামার ওপর ভিত্তি করে স্থানীয় ডিলার ও ব্যবসায়ীদের স্বার্থ রক্ষা এবং ক্রেতাদের ক্রয়ক্ষমতা বজায় রাখতে এই মূল্য সমন্বয় করা হয়।",
+        "details_en": "The Bangladesh Jeweller Association routinely adjusts precious metal rates to align with global market trends. Price revisions protect local consumer interests and balance domestic retail demand against international bullion fluctuations."
       }
     }
   ]
