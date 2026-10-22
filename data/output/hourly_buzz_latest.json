@@ -1,236 +1,123 @@
 {
-  "updated_at": "2026-10-22T03:00:53.963234",
+  "updated_at": "2026-10-22T04:00:47.316139",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a8fd02df-c76f-5bda-a0fb-3b0f9528f012",
-      "primary_category": "climate_environment",
+      "story_id": "0abb2e96-2c73-5a9c-9aee-86a7fe0e9835",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "climate_environment",
+        "governance_law",
         "economy_business"
       ],
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T02:34:30+00:00",
+      "published_at": "2026-10-22T04:01:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.0656,
+      "rank_score": 2.6804,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/975979/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8-%E0%A6%93-%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "সুন্দরবন ও মোংলা পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী, সারাদিন যেসব কর্মসূচি রয়েছে",
-          "snippet": "সুন্দরবন ও মোংলা পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী, সারাদিন যেসব কর্মসূচি রয়েছে"
+          "url": "https://www.banglatribune.com/country/khulna/975965/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%81%E0%A6%A7%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%95%E0%A7%8B%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7",
+          "title": "প্রধানমন্ত্রীর সফরে আশায় বুক বেঁধেছে দাকোপের মানুষ",
+          "snippet": "প্রধানমন্ত্রীর সফরে আশায় বুক বেঁধেছে দাকোপের মানুষ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুন্দরবন ও মোংলা বন্দর পরিদর্শনে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman to visit Sundarbans and Mongla Port",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান সুন্দরবন এবং মোংলা বন্দরের বিভিন্ন উন্নয়নমূলক প্রকল্প পরিদর্শনে যাচ্ছেন।",
-        "summary_en": "Prime Minister Tarique Rahman is visiting the Sundarbans and Mongla Port to inspect ongoing development projects.",
+        "title_bn": "খুলনা ও মোংলা সফরে আসছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman Visits Khulna and Mongla",
+        "summary_bn": "নির্বাচনোত্তর সরকারের প্রধান হিসেবে খুলনা ও মোংলা অঞ্চলে প্রথম সরকারি সফর করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is conducting his first official post-election visit to the Khulna and Mongla regions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
+          "governance_law",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:34:30+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান সুন্দরবন এবং মোংলা বন্দরের বিভিন্ন উন্নয়নমূলক প্রকল্প পরিদর্শনে যাচ্ছেন।",
-        "lead_en": "Prime Minister Tarique Rahman is visiting the Sundarbans and Mongla Port to inspect ongoing development projects.",
+        "published_at": "2026-10-22T04:01:00+00:00",
+        "lead_bn": "নির্বাচনোত্তর সরকারের প্রধান হিসেবে খুলনা ও মোংলা অঞ্চলে প্রথম সরকারি সফর করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is conducting his first official post-election visit to the Khulna and Mongla regions.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী মোংলা বন্দরের নতুন জেটি ও চায়না অর্থনৈতিক অঞ্চল পরিদর্শন করবেন",
-          "সফরের অংশ হিসেবে সুন্দরবনের ইকোট্যুরিজম এলাকা ঘুরে দেখবেন সরকারপ্রধান",
-          "সফরের প্রস্তুতি হিসেবে সংশ্লিষ্ট কর্তৃপক্ষ প্রয়োজনীয় নিরাপত্তা ব্যবস্থা গ্রহণ করেছে"
+          "প্রধানমন্ত্রী হিসেবে দক্ষিণ-পশ্চিমাঞ্চলে এটিই প্রথম সরকারি সফর।",
+          "সফরকে কেন্দ্র করে খুলনা ও মোংলা অঞ্চলের ব্যবসায়ীদের মধ্যে নতুন আশার সঞ্চার হয়েছে।",
+          "এ অঞ্চলের দীর্ঘদিনের অমীমাংসিত সমস্যা সমাধানের প্রত্যাশা করছেন স্থানীয় বাসিন্দারা।"
         ],
         "bullets_en": [
-          "The Prime Minister will inspect the new jetty of Mongla Port and the China Economic Zone",
-          "The government head will visit the ecotourism spots in the Sundarbans during the trip",
-          "Relevant authorities have implemented necessary security measures in preparation for the visit"
+          "This marks the first official visit to the southwestern region as head of government.",
+          "The visit has generated renewed optimism among local business communities in Khulna and Mongla.",
+          "Local residents expect the resolution of long-standing unresolved issues through this official tour."
         ],
-        "impact_bn": "এই পরিদর্শনের ফলে মোংলা বন্দরের কার্যক্রম গতিশীল হবে এবং স্থানীয় পর্যটন খাতের উন্নয়ন ঘটবে।",
-        "impact_en": "This visit will boost port activities and stimulate regional tourism development in the area.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের এই সফর দেশের দক্ষিণাঞ্চলের সামুদ্রিক বাণিজ্য এবং পরিবেশবান্ধব পর্যটন খাতের প্রসারে গুরুত্বপূর্ণ ভূমিকা রাখবে। মোংলা বন্দরের আধুনিকায়ন এবং চায়না অর্থনৈতিক অঞ্চলের কাজ ত্বরান্বিত করার লক্ষে এই পরিদর্শন নির্ধারিত হয়েছে।",
-        "details_en": "This official tour by Prime Minister Tarique Rahman plays a vital role in expanding maritime trade and eco-friendly tourism in the southern region. The inspection aims to accelerate the modernization of Mongla Port and development works in the China Economic Zone."
+        "impact_bn": "দক্ষিণ-পশ্চিমাঞ্চলের ব্যবসা-বাণিজ্য ও স্থানীয় অর্থনৈতিক কার্যক্রমে গতিশীলতা আসবে বলে আশা করছেন সাধারণ মানুষ।",
+        "impact_en": "Ordinary citizens expect renewed momentum in local trade and economic activities across the southwestern region.",
+        "details_bn": "নির্বাচনে বিজয়ী হয়ে সরকার গঠনের পর দক্ষিণ-পশ্চিমাঞ্চলের এই গুরুত্বপূর্ণ অঞ্চলে এটিই প্রধানমন্ত্রী তারেক রহমানের প্রথম সফর। এর মাধ্যমে মোংলা বন্দর ও খুলনা অঞ্চলের অর্থনৈতিক সম্ভাবনা কাজে লাগানোর বিষয়ে নতুন উদ্যোগ গ্রহণের প্রত্যাশা করা হচ্ছে। স্থানীয় ব্যবসায়ী ও সাধারণ মানুষ দীর্ঘদিন ধরে অমীমাংসিত নানা infrastructural ও অর্থনৈতিক সমস্যার দ্রুত সমাধান চেয়ে আসছেন।",
+        "details_en": "This marks Prime Minister Tarique Rahman's first visit to the vital southwestern region after forming the post-election government. The tour is expected to spark new initiatives to harness the economic potential of the Mongla port and Khulna region. Local businesses and residents have long sought swift resolutions to lingering infrastructure and economic challenges."
       }
     },
     {
-      "story_id": "414bd2ba-b3af-5b78-bf07-4168496d9abd",
-      "primary_category": "world_diplomacy",
+      "story_id": "933aee5e-7a0a-5292-b56d-5addb2d32c5b",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T02:42:48+00:00",
+      "published_at": "2026-10-22T04:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6205,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1170733",
-          "title": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলা, অনেকে হতাহত",
-          "snippet": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলা, অনেকে হতাহত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবের দাম্মাম বিমানবন্দরে হামলায় নিহত ১ আহত ৮",
-        "title_en": "Attack on Saudi Arabia Dammam Airport Leaves One Dead and Eight Injured",
-        "summary_bn": "সৌদি আরবের পূর্বাঞ্চলীয় দাম্মাম শহরের কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
-        "summary_en": "An attack on the King Fahd International Airport in Saudi Arabia's eastern Dammam city has left one dead and eight injured.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:42:48+00:00",
-        "lead_bn": "সৌদি আরবের পূর্বাঞ্চলীয় দাম্মাম শহরের কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
-        "lead_en": "An attack on the King Fahd International Airport in Saudi Arabia's eastern Dammam city has left one dead and eight injured.",
-        "bullets_bn": [
-          "কিং ফাহদ আন্তর্জাতিক বিমানবন্দরে অজ্ঞাত গোষ্ঠীর হামলায় হতাহতের এই ঘটনা ঘটে।",
-          "হামলায় একজন নিহত হয়েছেন এবং অন্তত আটজন গুরুতর আহত অবস্থায় চিকিৎসাধীন রয়েছেন।",
-          "নিরাপত্তা বাহিনী পরিস্থিতি নিয়ন্ত্রণে আনতে বিমানবন্দরে তল্লাশি ও তদন্ত শুরু করেছে।"
-        ],
-        "bullets_en": [
-          "An attack occurred at the King Fahd International Airport resulting in casualties.",
-          "The attack left one person dead and at least eight others injured receiving medical treatment.",
-          "Security forces launched investigations and beefed up security measures at the facility."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে যাতায়াতকারী যাত্রী ও প্রবাসীদের মধ্যে নিরাপত্তা নিয়ে বাড়তি উদ্বেগ তৈরি হতে পারে।",
-        "impact_en": "Security concerns may rise among travelers and expatriates commuting through the Middle East region.",
-        "details_bn": "সৌদি আরবের পূর্বাঞ্চলীয় শহর দাম্মামে অবস্থিত কিং ফাহদ আন্তর্জাতিক বিমানবন্দর দেশটির অন্যতম প্রধান বিমানবন্দর। মধ্যপ্রাচ্যের ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে এই ধরনের অবকাঠামোতে হামলার ঘটনা আঞ্চলিক নিরাপত্তা ও বিমান চলাচলের ওপর নেতিবাচক প্রভাব ফেলতে পারে। কর্তৃপক্ষ ঘটনার পেছনের কারণ উদঘাটনে কাজ করছে।",
-        "details_en": "King Fahd International Airport located in Saudi Arabia's eastern Dammam city is one of the nation's major aviation hubs. Incidents of attacks on critical infrastructure amid regional geopolitical tensions raise significant concerns for aviation safety and regional stability. Authorities are currently investigating the security breach."
-      }
-    },
-    {
-      "story_id": "3d05c233-2221-5282-b5f3-90220060ee4b",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T03:00:25+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9672,
+      "importance_score": 6.6,
+      "rank_score": 2.6525,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/975981/%E0%A6%AF%E0%A7%87-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8B%E0%A6%9A-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF-%E0%A6%B9%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "যে শর্ত দিয়ে আর্জেন্টিনার কোচ থাকতে রাজি হলেন স্কালোনি",
-          "snippet": "যে শর্ত দিয়ে আর্জেন্টিনার কোচ থাকতে রাজি হলেন স্কালোনি"
+          "url": "https://www.banglatribune.com/law-and-crime/975939/%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A6%A3-%E0%A6%AA%E0%A7%87%E0%A6%A4%E0%A7%87-%E2%80%98%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87%E2%80%99-%E0%A6%B9%E0%A7%9F",
+          "title": "সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে ‘হাইকোর্ট দেখতে’ হয় ভুক্তভোগীদের",
+          "snippet": "সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে ‘হাইকোর্ট দেখতে’ হয় ভুক্তভোগীদের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আর্জেন্টিনার কোচ হিসেবে ২০২৮ সাল পর্যন্ত থাকছেন লিওনেল স্কালোনি",
-        "title_en": "Lionel Scaloni Extends Argentina Coaching Contract Until 2028",
-        "summary_bn": "লিওনেল স্কালোনি শর্ত সাপেক্ষে আগামী বিশ্বকাপ পর্যন্ত আর্জেন্টিনার প্রধান কোচ হিসেবে দায়িত্ব চালিয়ে যেতে চুক্তিতে পৌঁছেছেন।",
-        "summary_en": "Lionel Scaloni reached an agreement to continue as Argentina head coach under specific conditions until the upcoming World Cup.",
+        "title_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের ন্যায্য ক্ষতিপূরণ পেতে হাইকোর্টের শরণাপন্ন হতে হচ্ছে",
+        "title_en": "Road accident victims must approach High Court to secure fair compensation",
+        "summary_bn": "আইনে বিধান থাকলেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে হাইকোর্টের দ্বারস্থ হতে হচ্ছে ভুক্তভোগীদের।",
+        "summary_en": "Road accident victims face complex application procedures and delays, forcing them to approach the High Court for fair compensation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T03:00:25+00:00",
-        "lead_bn": "লিওনেল স্কালোনি শর্ত সাপেক্ষে আগামী বিশ্বকাপ পর্যন্ত আর্জেন্টিনার প্রধান কোচ হিসেবে দায়িত্ব চালিয়ে যেতে চুক্তিতে পৌঁছেছেন।",
-        "lead_en": "Lionel Scaloni reached an agreement to continue as Argentina head coach under specific conditions until the upcoming World Cup.",
+        "published_at": "2026-10-22T04:00:00+00:00",
+        "lead_bn": "আইনে বিধান থাকলেও জটিল আবেদন প্রক্রিয়া ও দীর্ঘসূত্রতার কারণে সড়ক দুর্ঘটনার ক্ষতিপূরণ পেতে হাইকোর্টের দ্বারস্থ হতে হচ্ছে ভুক্তভোগীদের।",
+        "lead_en": "Road accident victims face complex application procedures and delays, forcing them to approach the High Court for fair compensation.",
         "bullets_bn": [
-          "আর্জেন্টাইন ফুটবল ফেডারেশনের সাথে নতুন চুক্তি স্বাক্ষর করেছেন লিওনেল স্কালোনি",
-          "চুক্তি অনুযায়ী তিনি ২০২৮ সাল পর্যন্ত দুই বছরের মেয়াদ বাড়িয়েছেন",
-          "উভয় পক্ষের সম্মতিতে চুক্তিটি ২০৩০ সাল পর্যন্ত বর্ধিত করার সুযোগ রয়েছে"
+          "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্ত ও পঙ্গুত্ববরণকারী পরিবারগুলোর জন্য আর্থিক সহায়তা পাওয়া বড় একটি চ্যালেঞ্জ হিসেবে রয়ে গেছে।",
+          "আইনে আর্থিক সহায়তার বিধান থাকা সত্ত্বেও ক্ষতিপূরণের পরিমাণ এবং আবেদন প্রক্রিয়া নিয়ে নানা প্রশ্ন রয়েছে।",
+          "ন্যায্য ক্ষতিপূরণ নিশ্চিত করতে আইনি প্রক্রিয়ার দীর্ঘসূত্রতা দূর করার দাবি জোরালো হচ্ছে।"
         ],
         "bullets_en": [
-          "Lionel Scaloni signed a new agreement with the Argentine Football Association.",
-          "The contract extends his tenure for two years through 2028.",
-          "The agreement includes a mutual option to extend the term until 2030."
+          "Securing financial assistance remains a major challenge for families devastated by road accidents or permanent disabilities.",
+          "Despite legal provisions for financial support, concerns persist regarding compensation amounts and application processes.",
+          "Demands are growing to eliminate bureaucratic delays in legal procedures to ensure fair compensation."
         ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "ডিসেম্বরেই শেষ হওয়ার কথা ছিল আর্জেন্টিনার সঙ্গে কোচ লিওনেল স্কালোনির আগের চুক্তির মেয়াদ। দলটির হয়ে কোপা আমেরিকা ও বিশ্বকাপ জয়ের পর তার ভবিষ্যৎ নিয়ে জল্পনা চলছিল। আন্তর্জাতিক সংবাদমাধ্যমের প্রতিবেদন অনুযায়ী, নতুন এই চুক্তির ফলে ২০২৬ সালের বিশ্বকাপ পর্যন্ত বর্তমান বিশ্বচ্যাম্পিয়নদের ডাগআউটে দেখা যাবে তাকে।",
-        "details_en": "Lionel Scaloni's previous coaching contract with Argentina was set to expire in December. Following his historic Copa America and World Cup triumphs, his future had been the subject of widespread speculation. According to international media reports, this new agreement ensures his leadership of the reigning world champions through the upcoming World Cup cycle."
+        "impact_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্ত সাধারণ মানুষ ও পরিবারগুলো দীর্ঘ আইনি লড়াই ছাড়া দ্রুত ক্ষতিপূরণ পাচ্ছে না।",
+        "impact_en": "Ordinary citizens and families affected by road accidents struggle to secure prompt compensation without prolonged legal battles.",
+        "details_bn": "সড়ক দুর্ঘটনায় ক্ষতিগ্রস্তদের আইনি সুরক্ষা ও আর্থিক ক্ষতিপূরণ দেওয়ার বিষয়ে দেশে আইন থাকলেও তার বাস্তবায়ন প্রক্রিয়া বেশ জটিল। ভুক্তভোগী পরিবারগুলোকে ক্ষতিপূরণ পেতে দীর্ঘ আইনি লড়াই ও প্রশাসনিক জটিলতার মুখোমুখি হতে হয়। বিশেষ করে স্বজনহারা বা পঙ্গুত্ববরণকারী দরিদ্র মানুষগুলোর জন্য এই আইনি প্রক্রিয়া আরও দুর্বিষহ হয়ে ওঠে, যার ফলে অনেককেই শেষ পর্যন্ত উচ্চ আদালতের শরণাপন্ন হতে হয়।",
+        "details_en": "Although laws exist to provide legal protection and financial compensation to road accident victims, the implementation process remains highly complex. Victim families face protracted legal battles and administrative red tape to claim compensation. This makes the legal process particularly grueling for impoverished individuals who have lost breadwinners or suffered disabilities, ultimately driving many to seek intervention from the High Court."
       }
     },
     {
-      "story_id": "d7dd57b8-1adf-5b42-8ed9-54cd1c1dbef3",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T02:56:16+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9256,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/football/1170737",
-          "title": "জিতেই চলেছে রিয়াল মাদ্রিদ, এবার প্রতিপক্ষের জালে ৪ গোল",
-          "snippet": "জিতেই চলেছে রিয়াল মাদ্রিদ, এবার প্রতিপক্ষের জালে ৪ গোল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আরবি লাইপজিগকে চার গোলে হারিয়ে চ্যাম্পিয়ন্স লিগে রিয়াল মাদ্রিদের জয়",
-        "title_en": "Real Madrid Defeats RB Leipzig Four Goals to One in Champions League",
-        "summary_bn": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে জার্মান ক্লাব আরবি লাইপজিগকে চার গোলের ব্যবধানে পরাজিত করেছে।",
-        "summary_en": "Real Madrid secured a dominant victory over German club RB Leipzig at the Santiago Bernabeu.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:56:16+00:00",
-        "lead_bn": "রিয়াল মাদ্রিদ সান্তিয়াগো বার্নাব্যুতে জার্মান ক্লাব আরবি লাইপজিগকে চার গোলের ব্যবধানে পরাজিত করেছে।",
-        "lead_en": "Real Madrid secured a dominant victory over German club RB Leipzig at the Santiago Bernabeu.",
-        "bullets_bn": [
-          "রিয়াল মাদ্রিদ উয়েফা চ্যাম্পিয়ন্স লিগে নিজেদের জয়ের ধারা অব্যাহত রেখেছে।",
-          "ম্যাচে রিয়ালের হয়ে বার্নার্দো সিলভা, আর্দা গুলের, কিলিয়ান এমবাপে ও ইয়ান দিয়োমান্দে গোল করেছেন।",
-          "স্প্যানিশ জায়ান্টরা এই জয়ের ফলে প্রতিযোগিতার পয়েন্ট তালিকায় নিজেদের অবস্থান আরও সুসংহত করেছে।"
-        ],
-        "bullets_en": [
-          "Real Madrid continued their winning streak in the UEFA Champions League.",
-          "Bernardo Silva, Arda Guler, Kylian Mbappe, and Yan Diomande scored for Real Madrid.",
-          "The Spanish giants further strengthened their position in the tournament standings with this victory."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "উয়েফা চ্যাম্পিয়ন্স লিগে ইউরোপের শীর্ষ ক্লাবগুলো অংশগ্রহণ করে। রিয়াল মাদ্রিদ প্রতিযোগিতার অন্যতম সফল দল হিসেবে নিয়মিত নিজেদের আধিপত্য বজায় রেখে আসছে। এই মৌসুমেও তারা ঘরের মাঠে দুর্দান্ত পারফরম্যান্সের মাধ্যমে জয়ের ধারা ধরে রেখেছে।",
-        "details_en": "The UEFA Champions League features top clubs from across Europe competing for the ultimate continental title. Real Madrid, as one of the most successful teams in the tournament's history, continues to maintain strong performances in the current campaign, showcasing their dominance at the Santiago Bernabeu."
-      }
-    },
-    {
-      "story_id": "9cdc4020-957e-5cf7-990f-a127d575cff1",
+      "story_id": "2cd7015b-6997-5800-8e10-2863770f44e6",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "climate_environment"
+        "society_education"
       ],
       "tags": [
         "#Geopolitics",
@@ -238,104 +125,211 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T02:53:24+00:00",
+      "published_at": "2026-10-22T03:47:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8987,
+      "importance_score": 4.8,
+      "rank_score": 1.6981,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/975980/%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A6%9B%E0%A7%8B%E0%A6%81%E0%A7%9F%E0%A6%BE",
-          "title": "থামার নাম নেই: বিশ্ববাজারে তেলের দাম আকাশছোঁয়া",
-          "snippet": "থামার নাম নেই: বিশ্ববাজারে তেলের দাম আকাশছোঁয়া"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1170752",
+          "title": "সৌদি আরবের তেল স্থাপনায় হামলা, দুই বিদেশি নাগরিক নিহত",
+          "snippet": "সৌদি আরবের তেল স্থাপনায় হামলা, দুই বিদেশি নাগরিক নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুথি হামলার জেরে বিশ্ববাজারে জ্বালানি তেলের দাম বৃদ্ধি",
-        "title_en": "Global Oil Prices Surge Following Fresh Houthi Attacks in Saudi Arabia",
-        "summary_bn": "সৌদি আরবে হুথিদের নতুন হামলার পর বিশ্ববাজারে জ্বালানি তেলের দাম বেড়েছে এবং যুক্তরাষ্ট্র কূটনৈতিক কর্মীদের সরে যাওয়ার নির্দেশ দিয়েছে।",
-        "summary_en": "Global oil prices surged and the US ordered diplomatic personnel to evacuate following fresh Houthi attacks in Saudi Arabia.",
+        "title_bn": "সৌদি আরবের আরামকো তেলক্ষেত্রে ড্রোন হামলায় নিহত দুই বিদেশি",
+        "title_en": "Two Foreign Nationals Killed in Drone Attack on Saudi Aramco Oil Field",
+        "summary_bn": "সৌদি আরবের শাইবাহ তেলক্ষেত্রে ড্রোন হামলার চেষ্টা প্রতিহত করার সময় ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুই বিদেশি নাগরিক নিহত হয়েছেন।",
+        "summary_en": "Two foreign nationals were killed in a fire triggered by drone debris while air defenses intercepted an attack on a Saudi oil field.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "climate_environment"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:53:24+00:00",
-        "lead_bn": "সৌদি আরবে হুথিদের নতুন হামলার পর বিশ্ববাজারে জ্বালানি তেলের দাম বেড়েছে এবং যুক্তরাষ্ট্র কূটনৈতিক কর্মীদের সরে যাওয়ার নির্দেশ দিয়েছে।",
-        "lead_en": "Global oil prices surged and the US ordered diplomatic personnel to evacuate following fresh Houthi attacks in Saudi Arabia.",
+        "published_at": "2026-10-22T03:47:32+00:00",
+        "lead_bn": "সৌদি আরবের শাইবাহ তেলক্ষেত্রে ড্রোন হামলার চেষ্টা প্রতিহত করার সময় ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুই বিদেশি নাগরিক নিহত হয়েছেন।",
+        "lead_en": "Two foreign nationals were killed in a fire triggered by drone debris while air defenses intercepted an attack on a Saudi oil field.",
         "bullets_bn": [
-          "সৌদি আরবে নতুন করে হামলা চালিয়েছে হুথি বিদ্রোহীরা।",
-          "আন্তর্জাতিক বাজারে ব্রেন্ট ক্রুডের দাম ব্যারেলপ্রতি ১ দশমিক ২ শতাংশ বা ১ দশমিক ২৯ ডলার বেড়ে ১১০ দশমিক ১১ ডলারে দাঁড়িয়েছে।",
-          "পরিস্থিতির পরিপ্রেক্ষিতে সৌদি আরব থেকে কিছু কূটনৈতিক কর্মী ও তাদের পরিবারের সদস্যদের চলে যাওয়ার নির্দেশ দিয়েছে যুক্তরাষ্ট্র।"
+          "সৌদি আরবের পূর্বাঞ্চলীয় প্রদেশে রাষ্ট্রায়ত্ত আরামকো তেলক্ষেত্রের শাইবাহ স্থাপনায় ড্রোন হামলার চেষ্টা চালানো হয়।",
+          "হামলার পর ড্রোনের ধ্বংসাবশেষ থেকে সৃষ্ট আগুনে দুজন বিদেশি নাগরিক নিহত এবং দুজন আহত হন।",
+          "সৌদি আকাশ প্রতিরক্ষাব্যবস্থা সফলভাবে প্রধান ড্রোন হামলার চেষ্টা প্রতিহত করে।"
         ],
         "bullets_en": [
-          "Houthi rebels launched fresh attacks targeting locations in Saudi Arabia.",
-          "Brent crude prices on the international market increased by 1.2 percent or 1.29 dollars to reach 110.11 dollars per barrel.",
-          "The United States ordered some diplomatic staff and their family members to leave its facilities in the country."
-        ],
-        "impact_bn": "জ্বালানি তেলের দাম বাড়ায় দেশীয় বাজারে আমদানি ব্যয় ও নিত্যপণ্যের দাম বৃদ্ধির আশঙ্কা রয়েছে।",
-        "impact_en": "Rising global fuel prices could increase import costs and drive up commodity prices in domestic markets.",
-        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই সৌদি আরবে নতুন করে এই হামলাগুলো পরিচালিত হয়েছে। ইয়েমেনের হুথি বিদ্রোহীদের সাম্প্রতিক সামরিক তৎপরতা এবং এর বিপরীতে মার্কিন ও সৌদি জোটের সুরক্ষা ব্যবস্থার কারণে আঞ্চলিক নিরাপত্তা পরিস্থিতি আরও জটিল হয়ে উঠেছে। এই সংঘাত বিশ্বজুড়ে জ্বালানি সরবরাহ শৃঙ্খলকে চরম ঝুঁকির মুখে ফেলেছে।",
-        "details_en": "These fresh attacks occurred amid ongoing geopolitical tensions in the Middle East. Recent military activities by Yemen's Houthi rebels and the corresponding security measures by US and Saudi coalitions have further complicated the regional security situation, putting global energy supply chains at severe risk."
-      }
-    },
-    {
-      "story_id": "ddf11dfb-789f-5f56-b6a3-33e7b24ad8b6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T02:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8273,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/975903/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%A8%E0%A6%95%E0%A6%A8%E0%A7%87-%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%AE%E0%A6%B0%E0%A7%81%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE",
-          "title": "দিনে তপ্ত, রাতেই কনকনে ঠান্ডা: মরুভূমির তাপমাত্রা হঠাৎ কমে কেন?",
-          "snippet": "দিনে তপ্ত, রাতেই কনকনে ঠান্ডা: মরুভূমির তাপমাত্রা হঠাৎ কমে কেন?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দিনের তীব্র তাপ এবং রাতের কনকনে ঠান্ডার কারণ প্রকাশ",
-        "title_en": "Researchers Explain Sharp Temperature Drop in Deserts at Night",
-        "summary_bn": "মরুভূমির শুষ্ক বাতাস এবং আর্দ্রতার স্বল্পতার কারণে সূর্যাস্তের পরপরই তাপমাত্রার দ্রুত পতন ঘটে।",
-        "summary_en": "Dry air and low humidity levels cause temperatures to drop rapidly in deserts immediately after sunset.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T02:45:00+00:00",
-        "lead_bn": "মরুভূমির শুষ্ক বাতাস এবং আর্দ্রতার স্বল্পতার কারণে সূর্যাস্তের পরপরই তাপমাত্রার দ্রুত পতন ঘটে।",
-        "lead_en": "Dry air and low humidity levels cause temperatures to drop rapidly in deserts immediately after sunset.",
-        "bullets_bn": [
-          "দিনের বেলায় প্রখর রোদে মরুভূমির বালু অতি দ্রুত উত্তপ্ত হয়ে ওঠে।",
-          "শুষ্ক বাতাস ও আর্দ্রতার অভাবে রাতের আকাশ থেকে তাপ দ্রুত বিকিরিত হয়।",
-          "তাপ ধরে রাখার মতো মেঘ বা উপাদানের অনুপস্থিতিতে মরুভূমিতে তীব্র ঠান্ডা অনুভূত হয়।"
-        ],
-        "bullets_en": [
-          "Desert sand absorbs intense solar radiation and heats up rapidly during daytime hours.",
-          "Dry air and minimal humidity allow heat to radiate quickly from the surface into the atmosphere at night.",
-          "The absence of cloud cover prevents heat retention, leading to freezing temperatures after dark."
+          "A drone attack was attempted on the Shaybah oil field belonging to state-owned Aramco in Saudi Arabia's Eastern Province.",
+          "Two foreign nationals were killed and two others injured due to a fire caused by falling drone debris.",
+          "Saudi air defense systems successfully intercepted the primary drone attack attempt."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মরু অঞ্চলে জলবায়ুগত বৈশিষ্ট্যের কারণে তাপমাত্রা দ্রুত পরিবর্তিত হয়। দিনের বেলা বালু দ্রুত গরম হলেও রাতের বেলা তাপ ধরে রাখার মতো আর্দ্রতা বা মেঘ না থাকায় তাপ বিকিরণ করে মহাশূন্যে চলে যায়। এর ফলে দিনের অসহনীয় গরম রাতারাতি কনকনে ঠান্ডায় রূপ নেয়।",
-        "details_en": "Desert regions experience extreme temperature swings due to unique atmospheric conditions. While sand absorbs heavy heat during the day, the lack of atmospheric moisture and cloud cover prevents heat retention at night, causing thermal energy to escape rapidly into space and plunging temperatures dramatically."
+        "details_bn": "সৌদি আরবের আরামকো তেল স্থাপনাগুলো এর আগেও বিভিন্ন ড্রোন ও ক্ষেপণাস্ত্র হামলার লক্ষ্যবস্তু হয়েছে। বিশ্বের অন্যতম প্রধান এই তেল উৎপাদক দেশের জ্বালানি অবকাঠামো সুরক্ষায় দেশটির কর্তৃপক্ষ আকাশ প্রতিরক্ষাব্যবস্থা জোরদার করেছে। মধ্যপ্রাচ্যের ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে এই তেলক্ষেত্রগুলোর নিরাপত্তা নিশ্চিত করা আন্তর্জাতিক জ্বালানি বাজারের জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+        "details_en": "Saudi Arabia's Aramco oil facilities have repeatedly been targeted by drone and missile attacks amid regional tensions. Authorities have reinforced air defense systems to protect critical energy infrastructure in the world's leading oil exporter, ensuring stability in global energy markets remains a top priority."
+      }
+    },
+    {
+      "story_id": "7367b51f-1f73-5c8b-bd34-b71dd961558d",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled2-24.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-22T03:37:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5484,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/many-websites-shut-down-amid-fears-of-global-cyberattacks/",
+          "title": "বিশ্বজুড়ে সাইবার হামলার শঙ্কায় বহু ওয়েবসাইট বন্ধ",
+          "snippet": "বিশ্বজুড়ে সাইবার হামলার শঙ্কায় বহু ওয়েবসাইট বন্ধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পিএইচপিতে গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ায় বিশ্বজুড়ে ওয়েবসাইট বন্ধ",
+        "title_en": "Critical Security Flaws Found in PHP Prompting Global Website Shutdowns",
+        "summary_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক ওয়েবসাইটগুলো সাময়িকভাবে অফলাইনে রাখা হয়েছে।",
+        "summary_en": "Government and commercial websites worldwide have been temporarily taken offline after two critical security flaws were identified in PHP.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T03:37:43+00:00",
+        "lead_bn": "জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক ওয়েবসাইটগুলো সাময়িকভাবে অফলাইনে রাখা হয়েছে।",
+        "lead_en": "Government and commercial websites worldwide have been temporarily taken offline after two critical security flaws were identified in PHP.",
+        "bullets_bn": [
+          "সাইবার ঝুঁকি এড়াতে পিএইচপি ডেভেলপাররা জরুরি ভিত্তিতে একটি নিরাপত্তা প্যাচ বা আপডেট প্রকাশ করেছেন।",
+          "ইন্টারনেটের প্রায় ৭০ শতাংশ ওয়েবসাইটে পিএইচপি ব্যবহৃত হয় এবং একে এক দশকেরও বেশি সময়ের মধ্যে সবচেয়ে বিপজ্জনক সংকট বলা হচ্ছে।",
+          "সিস্টেম তাৎক্ষণিকভাবে হালনাগাদ করা না গেলে ক্ষতিগ্রস্ত সার্ভারের ইন্টারনেট সংযোগ বিচ্ছিন্ন রাখার পরামর্শ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "PHP developers have urgently released a security patch to mitigate widespread cyber risks.",
+          "PHP powers roughly 70 percent of internet websites, making this the most dangerous security crisis in over a decade.",
+          "Authorities advise completely disconnecting vulnerable servers from the internet if immediate system updates are impossible."
+        ],
+        "impact_bn": "গুরুত্বপূর্ণ সরকারি ও বাণিজ্যিক ডিজিটাল সেবা সাময়িকভাবে বন্ধ থাকায় সাধারণ নাগরিক ও সেবাগ্রহীতারা সাময়িক ভোগান্তিতে পড়েছেন।",
+        "impact_en": "Ordinary citizens face temporary disruptions in accessing essential government and commercial digital services due to sudden shutdowns.",
+        "details_bn": "বিশ্বের সিংহভাগ ওয়েবসাইট পরিচালনায় ব্যবহৃত জনপ্রিয় প্রোগ্রামিং ল্যাঙ্গুয়েজ পিএইচপিতে দুটি অত্যন্ত সংবেদনশীল নিরাপত্তা ত্রুটি শনাক্ত করা হয়। এই দুর্বলতাকে কাজে লাগিয়ে সাইবার হামলাকারীরা পাসওয়ার্ড ছাড়াই সার্ভারের পূর্ণ নিয়ন্ত্রণ নিতে পারে। ক্লাউড নিরাপত্তা প্রতিষ্ঠান উইজ এবং ওপেনএআইয়ের অর্থায়নে এআই মডেল ব্যবহার করে এই ত্রুটি প্রথম চিহ্নিত করা হয়। এরপর মার্কিন নিরাপত্তা সংস্থা এনএসএ এবং ফ্রান্স ও নেদারল্যান্ডসের মতো দেশের সরকারি সংস্থাগুলো সাইবার ঝুঁকি কমাতে সংশ্লিষ্ট ওয়েবসাইটগুলোর কার্যক্রম সাময়িকভাবে স্থগিত করে।",
+        "details_en": "Two highly sensitive security flaws were identified in PHP, a popular programming language powering a vast majority of websites worldwide. These vulnerabilities could allow attackers to gain full server control without passwords. The flaws were initially detected using AI models in research supported by OpenAI and cloud security firm Wiz. Following warnings from agencies like the US NSA, governments in countries such as France and the Netherlands temporarily suspended critical digital services and websites to mitigate potential cyber attacks."
+      }
+    },
+    {
+      "story_id": "8bffcd09-e2b7-5bb8-a4ea-4e7ed0fa90d3",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T03:15:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2813,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/975983/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
+          "title": "সৌদির বিমানবন্দরে হুথিদের আবারও হামলা, প্রাণ গেলো একজনের",
+          "snippet": "সৌদির বিমানবন্দরে হুথিদের আবারও হামলা, প্রাণ গেলো একজনের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদির কিং ফাহাদ বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় নিহত এক",
+        "title_en": "Houthi Rebel Attack on Saudi King Fahd Airport Kills One",
+        "summary_bn": "সৌদি আরবের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
+        "summary_en": "A Houthi rebel attack on Saudi Arabia's King Fahd International Airport left one person dead and eight injured.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T03:15:15+00:00",
+        "lead_bn": "সৌদি আরবের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের হামলায় একজন নিহত এবং আটজন আহত হয়েছেন।",
+        "lead_en": "A Houthi rebel attack on Saudi Arabia's King Fahd International Airport left one person dead and eight injured.",
+        "bullets_bn": [
+          "হুথি বিদ্রোহীরা সৌদি আরবের পূর্বাঞ্চলীয় শহর দাম্মামের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হামলা চালায়।",
+          "হামলায় একজন নিহত হন এবং সামান্য থেকে গুরুতর আহত আটজনকে হাসপাতালে ভর্তি করা হয়।",
+          "সৌদির বেসামরিক বিমান চলাচল কর্তৃপক্ষ ঘটনার সত্যতা নিশ্চিত করে নিরাপত্তা জোরদারের পদক্ষেপ নিয়েছে।"
+        ],
+        "bullets_en": [
+          "Houthi rebels launched an attack on the King Fahd International Airport in Dammam, eastern Saudi Arabia.",
+          "The strike resulted in one fatality and left eight individuals with injuries ranging from minor to severe.",
+          "The General Authority of Civil Aviation confirmed the casualties and beefed up local security measures."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সীমান্ত পেরিয়ে সৌদি আরব ও এর বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এই সংঘাত মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তায় দীর্ঘমেয়াদী অস্থিরতা তৈরি করেছে এবং আন্তর্জাতিক বিমান চলাচলে নিরাপত্তা ঝুঁকি বাড়িয়েছে। কাতারভিত্তিক সংবাদমাধ্যম আল জাজিরার প্রতিবেদনে এই তথ্য নিশ্চিত করা হয়েছে।",
+        "details_en": "Yemen's Houthi rebels have frequently targeted Saudi infrastructure with cross-border drone and missile strikes amid an ongoing regional conflict. This persistent hostility continues to threaten regional stability and commercial aviation security in the Middle East. Al Jazeera reported the latest casualties following confirmation by Saudi aviation authorities."
+      }
+    },
+    {
+      "story_id": "5643f866-7ec5-559f-be1c-cafbf988759f",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9645,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/975933/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%9B%E0%A7%9F-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B8-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A7%8D%E0%A6%A1-%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87",
+          "title": "নিজের নামে ছয় প্রজাতি, গিনেস ওয়ার্ল্ড রেকর্ডে মেসির আরেক কীর্তি",
+          "snippet": "নিজের নামে ছয় প্রজাতি, গিনেস ওয়ার্ল্ড রেকর্ডে মেসির আরেক কীর্তি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লিওনেল মেসির নামে নতুন ছয় প্রজাতির উদ্ভিদের নামকরণ",
+        "title_en": "Six New Plant Species Named After Lionel Messi",
+        "summary_bn": "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন ফুলের গাছের নামকরণ করা হয়েছে আর্জেন্টাইন ফুটবল তারকা লিওনেল মেসির নামে।",
+        "summary_en": "Newly discovered flowering plant species in the Peruvian Andes have been named after Argentine football star Lionel Messi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T04:00:00+00:00",
+        "lead_bn": "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন ফুলের গাছের নামকরণ করা হয়েছে আর্জেন্টাইন ফুটবল তারকা লিওনেল মেসির নামে।",
+        "lead_en": "Newly discovered flowering plant species in the Peruvian Andes have been named after Argentine football star Lionel Messi.",
+        "bullets_bn": [
+          "পেরুর আন্দিজ পর্বতমালায় আবিষ্কৃত নতুন উদ্ভিদের প্রজাতির নামকরণ করা হয়েছে লিওনেল মেসির নামে।",
+          "গাছটির ফুলের নীল ও সাদা রঙের সাথে মিল রয়েছে আর্জেন্টিনার জাতীয় পতাকার রঙের।",
+          "উদ্ভিদটির প্রজাতিটি বর্তমানে বিপন্ন অবস্থায় রয়েছে বলে জানিয়েছেন গবেষকরা।"
+        ],
+        "bullets_en": [
+          "Newly discovered plant species in the Peruvian Andes have been officially named after Lionel Messi.",
+          "The blue and white colors of the flowers match the colors of the Argentine national flag.",
+          "Researchers have noted that the newly discovered plant species is currently endangered."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফুটবল মাঠের সাফল্যের পাশাপাশি এবার প্রকৃতির জগতেও স্থায়ী জায়গা করে নিলেন মহাতারকা লিওনেল মেসি। পেরুর আন্দিজ পর্বতমালায় সম্প্রতি আবিষ্কৃত বেশ কিছু নতুন প্রজাতির উদ্ভিদের বৈজ্ঞানিক নামকরণ করা হয়েছে তার নামে। গাছের ফুলের রঙের সাথে আর্জেন্টিনার পতাকার মিল থাকায় এই ব্যতিক্রমী উদ্যোগ নেন বিজ্ঞানীরা। তবে এই আবিষ্কারের আনন্দের মাঝেও উদ্ভিদের বিপন্ন অবস্থা নিয়ে উদ্বেগ প্রকাশ করেছেন বিশেষজ্ঞরা।",
+        "details_en": "Alongside his unprecedented success on the football pitch, superstar Lionel Messi has now secured a permanent place in nature. Newly discovered plant species in the Peruvian Andes have been scientifically named after him. Scientists took this initiative because the flower colors match the Argentine national flag. However, experts have expressed concern over the endangered status of these newly found species."
       }
     }
   ]
