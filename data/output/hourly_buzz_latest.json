@@ -1,229 +1,122 @@
 {
-  "updated_at": "2026-10-22T16:00:47.353256",
+  "updated_at": "2026-10-22T17:00:47.993808",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "86fe8333-4851-5d4d-9b9a-09d5cc6fb141",
-      "primary_category": "society_education",
+      "story_id": "031ba480-5d3b-50b8-8445-bc9ea22acf16",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education"
+        "world_diplomacy",
+        "governance_law"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/big-band-wall.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-22T15:58:46+00:00",
+      "published_at": "2026-10-22T16:10:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.6163,
+      "rank_score": 1.7012,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/976145/%E0%A6%AE%E0%A6%88%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A7%8B%E0%A6%81%E0%A6%9C-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "মঈন খানের শারীরিক অবস্থার খোঁজ নিলেন প্রধানমন্ত্রীর ব্যক্তিগত চিকিৎসক বিটু",
-          "snippet": "মঈন খানের শারীরিক অবস্থার খোঁজ নিলেন প্রধানমন্ত্রীর ব্যক্তিগত চিকিৎসক বিটু"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/trump-administration-seeks-supreme-court-permission-to-build-border-wall-in-big-bend/",
+          "title": "সীমান্তপ্রাচীর নির্মাণে সুপ্রিম কোর্টের অনুমতি চাইল ট্রাম্প প্রশাসন",
+          "snippet": "সীমান্তপ্রাচীর নির্মাণে সুপ্রিম কোর্টের অনুমতি চাইল ট্রাম্প প্রশাসন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হাসপাতালে চিকিৎসাধীন মন্ত্রী ড. মঈন খানের শারীরিক অবস্থার খোঁজ নিলেন প্রধানমন্ত্রীর চিকিৎসক",
-        "title_en": "Prime Minister's Physician Visits Hospitalized Minister Dr. Moin Khan",
-        "summary_bn": "প্রধানমন্ত্রীর নির্দেশনায় স্থানীয় সরকারমন্ত্রী ড. আব্দুল মঈন খানের শারীরিক অবস্থার খোঁজ নিতে হাসপাতালে যান ব্যক্তিগত চিকিৎসক ডা. বিটু।",
-        "summary_en": "The prime minister's personal physician visited hospitalized Local Government Minister Dr. Abdul Moin Khan to check on his health.",
+        "title_bn": "টেক্সাস সীমান্তে প্রাচীর নির্মাণ শুরু করতে সুপ্রিম কোর্টের অনুমতি চাইল যুক্তরাষ্ট্র",
+        "title_en": "US Administration Asks Supreme Court to Lift Order Blocking Border Wall",
+        "summary_bn": "যুক্তরাষ্ট্রের প্রশাসন টেক্সাসের বিগ বেন্ড এলাকায় মেক্সিকো সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় চালুর জন্য সুপ্রিম কোর্টের কাছে জরুরি আবেদন করেছে।",
+        "summary_en": "The US administration has filed an emergency appeal with the Supreme Court to resume border wall construction in Texas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T15:58:46+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর নির্দেশনায় স্থানীয় সরকারমন্ত্রী ড. আব্দুল মঈন খানের শারীরিক অবস্থার খোঁজ নিতে হাসপাতালে যান ব্যক্তিগত চিকিৎসক ডা. বিটু।",
-        "lead_en": "The prime minister's personal physician visited hospitalized Local Government Minister Dr. Abdul Moin Khan to check on his health.",
+        "published_at": "2026-10-22T16:10:45+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের প্রশাসন টেক্সাসের বিগ বেন্ড এলাকায় মেক্সিকো সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় চালুর জন্য সুপ্রিম কোর্টের কাছে জরুরি আবেদন করেছে।",
+        "lead_en": "The US administration has filed an emergency appeal with the Supreme Court to resume border wall construction in Texas.",
         "bullets_bn": [
-          "প্রধানমন্ত্রীর বিশেষ নির্দেশনায় ব্যক্তিগত চিকিৎসক ডা. আ ন ম মনোয়ারুল কাদির বিটু এভারকেয়ার হাসপাতালে যান।",
-          "ডা. বিটু চিকিৎসাধীন মন্ত্রীর শারীরিক অবস্থার খোঁজখবর নেন এবং দায়িত্বরত চিকিৎসকদের সাথে কথা বলেন।",
-          "হাসপাতালে চিকিৎসাধীন মন্ত্রীর চিকিৎসা পরিস্থিতি ও পরবর্তী করণীয় বিষয়ে বিস্তারিত তথ্য নেওয়া হয়।"
+          "যুক্তরাষ্ট্রের বিচার বিভাগ বিগ বেন্ড এলাকায় সীমান্তপ্রাচীর নির্মাণের ওপর থাকা নিম্ন আদালতের নিষেধাজ্ঞা তুলে নেওয়ার অনুরোধ জানিয়েছে।",
+          "প্রায় ১৭০ কোটি ডলার ব্যয়ের এই প্রকল্পে যানবাহন চলাচলের প্রতিবন্ধক, টহল সড়ক ও আলোকব্যবস্থা স্থাপনের পরিকল্পনা রয়েছে।",
+          "পরিবেশবাদী সংগঠনের করা মামলার নিষ্পত্তি না হওয়া পর্যন্ত সুপ্রিম কোর্টের সিদ্ধান্তের অপেক্ষায় রয়েছে প্রশাসন।"
         ],
         "bullets_en": [
-          "Personal physician Dr. A N M Monowarul Kadir Bitu visited Evercare Hospital following the prime minister's directive.",
-          "Dr. Bitu inquired about the health condition of the hospitalized minister and spoke with attending physicians.",
-          "Detailed updates regarding the minister's ongoing medical treatment and condition were collected during the visit."
+          "The US Department of Justice asked the Supreme Court to lift a lower court injunction halting border wall construction in the Big Bend area.",
+          "The 1.7 billion dollar project involves building vehicle barriers, patrol roads, and surveillance infrastructure along the border.",
+          "The administration awaits a Supreme Court ruling while facing ongoing legal challenges from environmental organizations."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় মন্ত্রণালয়ের মন্ত্রী ড. আব্দুল মঈন খান অসুস্থ হয়ে রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন রয়েছেন। তার সুচিকিৎসা নিশ্চিত করতে সরকারের পক্ষ থেকে নিয়মিত খোঁজখবর রাখা হচ্ছে এবং চিকিৎসকদের সাথে সার্বিক যোগাযোগ বজায় রাখা হচ্ছে।",
-        "details_en": "Local Government, Rural Development and Cooperatives Minister Dr. Abdul Moin Khan has been receiving medical treatment at Evercare Hospital in the capital. The government has been closely monitoring his health status and maintaining communication with the medical board to ensure proper care."
+        "details_bn": "যুক্তরাষ্ট্রের টেক্সাস অঙ্গরাজ্যের পশ্চিমাঞ্চলে বিগ বেন্ড এলাকায় সীমান্তপ্রাচীর নির্মাণের পরিকল্পনা পুনরায় শুরু করতে সুপ্রিম কোর্টের অনুমতি চেয়েছে প্রশাসন। মেক্সিকো সীমান্তে নিরাপত্তা জোরদার ও অভিবাসন নিয়ন্ত্রণের অংশ হিসেবে বিচার বিভাগ এই জরুরি আবেদন করে। পরিবেশবাদী একটি সংগঠন প্রকল্পের কাজ বন্ধের দাবিতে মামলা করলে ফেডারেল আদালত নির্মাণকাজে নিষেধাজ্ঞা দেয়। প্রায় ১৭০ কোটি ডলার ব্যয়ের এ প্রকল্পে কেন্দ্রীয় সরকারের পরিবেশ সংরক্ষণ আইন প্রয়োগে ছাড় দেওয়া নিয়ে বিরোধ চলছে।",
+        "details_en": "The US administration has asked the Supreme Court to allow the resumption of border wall construction in the Big Bend region of West Texas. The Department of Justice filed the emergency appeal to advance security and immigration control measures. Environmental groups previously secured a federal court injunction halting the project, arguing against exemptions from environmental protection laws for the 1.7 billion dollar initiative."
       }
     },
     {
-      "story_id": "4f652327-3f39-5aa5-9720-706d18bfae08",
-      "primary_category": "economy_business",
+      "story_id": "7d3d3cd9-7ae2-516f-ab37-0344a9faa6b3",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Gazipur",
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": null,
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Gazipur%20Map.jpg",
       "image_caption": null,
-      "published_at": "2026-10-22T15:38:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.942,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171017",
-          "title": "জাল দলিলে রাজস্ব ফাঁকি, কর পরিদর্শকসহ ১০ জনের বিরুদ্ধে দুদকের চার্জশিট",
-          "snippet": "জাল দলিলে রাজস্ব ফাঁকি, কর পরিদর্শকসহ ১০ জনের বিরুদ্ধে দুদকের চার্জশিট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাল দলিলে রাজস্ব ফাঁকির অভিযোগে কর পরিদর্শকসহ ১০ জনের বিরুদ্ধে দুদকের চার্জশিট",
-        "title_en": "ACC Files Chargesheet Against 10 Including Tax Inspector for Revenue Fraud",
-        "summary_bn": "দুদক জমির শ্রেণি পরিবর্তন ও জাল রেকর্ডপত্রের মাধ্যমে রাজস্ব ফাঁকির অভিযোগে কর পরিদর্শকসহ দশজনের বিরুদ্ধে আদালতে চার্জশিট দাখিল করেছে।",
-        "summary_en": "The Anti-Corruption Commission submitted a chargesheet against ten individuals, including a tax inspector, for evading revenue through forged land documents.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T15:38:08+00:00",
-        "lead_bn": "দুদক জমির শ্রেণি পরিবর্তন ও জাল রেকর্ডপত্রের মাধ্যমে রাজস্ব ফাঁকির অভিযোগে কর পরিদর্শকসহ দশজনের বিরুদ্ধে আদালতে চার্জশিট দাখিল করেছে।",
-        "lead_en": "The Anti-Corruption Commission submitted a chargesheet against ten individuals, including a tax inspector, for evading revenue through forged land documents.",
-        "bullets_bn": [
-          "কর পরিদর্শক আবু হাসান মোহাম্মদ খাইরুল ইসলামসহ দশজনের বিরুদ্ধে জালিয়াতির ঘটনায় চার্জশিট অনুমোদন ও দাখিল করা হয়েছে।",
-          "অভিযুক্তরা জমির শ্রেণি পরিবর্তন ও ভুয়া রেকর্ডপত্র তৈরি করে সরকারের প্রায় ১৩ লাখ টাকার রাজস্ব আত্মসাৎ করেছেন।",
-          "দুদকের তদন্তে দুর্নীতির সুনির্দিষ্ট প্রমাণ পাওয়ার পর আসামিদের বিরুদ্ধে আইনি প্রক্রিয়া দ্রুত কার্যকর করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "The Anti-Corruption Commission approved and filed charges against ten individuals including tax inspector Abu Hasan Mohammad Khairul Islam.",
-          "The accused evaded approximately 13 lakh taka in government revenue by altering land categories and fabricating records.",
-          "Legal proceedings are being enforced following concrete evidence of corruption uncovered during the investigation."
-        ],
-        "impact_bn": "এই ধরনের দুর্নীতিবিরোধী পদক্ষেপ ভূমি খাতে জালিয়াতি রোধ ও সরকারি রাজস্ব সুরক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
-        "impact_en": "Such anti-corruption measures will play a crucial role in preventing land fraud and safeguarding public revenue.",
-        "details_bn": "দুর্নীতি দমন কমিশন দীর্ঘদিন ধরে সরকারি রাজস্ব ফাঁকি ও ভূমি জালিয়াতির বিভিন্ন অভিযোগ নিয়ে অনুসন্ধান চালিয়ে আসছিল। তদন্তে জানা যায়, একটি চক্র জমির শ্রেণি অবৈধভাবে পরিবর্তন করে ভুয়া দলিল তৈরি করে সরকারের আর্থিক ক্ষতিসাধন করেছে। এর ধারাবাহিকতায় কর পরিদর্শকসহ জড়িত অন্যান্য ব্যক্তিদের চিহ্নিত করে আদালতে চার্জশিট দাখিল করা হয়েছে।",
-        "details_en": "The Anti-Corruption Commission had been investigating various allegations of government revenue evasion and land forgery. Investigations revealed that a syndicate caused financial loss to the government by illegally altering land categories and creating fake deeds. Consequently, the chargesheet has been submitted to the court identifying the tax inspector and other involved individuals."
-      }
-    },
-    {
-      "story_id": "244462fa-458e-55be-ba3b-05870f1535a8",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T15:52:13+00:00",
+      "published_at": "2026-10-22T16:44:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7779,
+      "rank_score": 1.6494,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976143/%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A7%A7%E0%A7%AA-%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A7%80-%E0%A6%87%E0%A7%9F%E0%A6%9F%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
-          "title": "লোহিত সাগরে ১৪ ভারতীয়বাহী ইয়টে সৌদি হামলা, দাবি হুথিদের",
-          "snippet": "লোহিত সাগরে ১৪ ভারতীয়বাহী ইয়টে সৌদি হামলা, দাবি হুথিদের"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/12-year-old-allegedly-raped-repeatedly-gazipur-3-arrested-4305196",
+          "title": "12-year-old allegedly raped repeatedly in Gazipur, 3 arrested",
+          "snippet": "12-year-old allegedly raped repeatedly in Gazipur, 3 arrested"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লোহিত সাগরে ১৪ ভারতীয় নাগরিকবাহী ইয়টে সৌদি হামলার দাবি হুথিদের",
-        "title_en": "Houthis Claim Saudi Attack on Yacht Carrying Indians in Red Sea",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দাবি করেছে যে সৌদি আরব লোহিত সাগরে চৌদ্দ জন ভারতীয় নাগরিককে বহনকারী একটি ইয়টে হামলা চালিয়েছে।",
-        "summary_en": "Yemeni Houthi rebels claim that Saudi Arabia attacked a yacht carrying fourteen Indian nationals in the Red Sea.",
+        "title_bn": "গাজীপুরে ১২ বছরের কিশোরীকে ধর্ষণ ও গর্ভপাত মামলায় গ্রেপ্তার ৩",
+        "title_en": "Three Arrested in Gazipur Over Alleged Rape and Forced Abortion",
+        "summary_bn": "গাজীপুরের কালিয়াকৈরে ১২ বছরের এক কিশোরীকে বারবার ধর্ষণ ও গর্ভপাতের অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested three men in Gazipur over the alleged repeated rape and forced abortion of a 12-year-old girl.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T15:52:13+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দাবি করেছে যে সৌদি আরব লোহিত সাগরে চৌদ্দ জন ভারতীয় নাগরিককে বহনকারী একটি ইয়টে হামলা চালিয়েছে।",
-        "lead_en": "Yemeni Houthi rebels claim that Saudi Arabia attacked a yacht carrying fourteen Indian nationals in the Red Sea.",
+        "published_at": "2026-10-22T16:44:32+00:00",
+        "lead_bn": "গাজীপুরের কালিয়াকৈরে ১২ বছরের এক কিশোরীকে বারবার ধর্ষণ ও গর্ভপাতের অভিযোগে তিনজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested three men in Gazipur over the alleged repeated rape and forced abortion of a 12-year-old girl.",
         "bullets_bn": [
-          "ইয়েমেনের ইরান সমর্থিত হুথি বিদ্রোহীরা লোহিত সাগরের বাব আল-মানদেব প্রণালির জুকার দ্বীপের কাছে এই হামলার দাবি করেছে।",
-          "হুথিদের সামরিক মুখপাত্র ইয়াহিয়া সারি সামাজিক যোগাযোগমাধ্যমে দেওয়া এক আনুষ্ঠানিক বিবৃতিতে এই তথ্য জানান।",
-          "হামলার শিকার ইয়টে থাকা চৌদ্দ জন ভারতীয় নাগরিকের বর্তমান পরিস্থিতি ও নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।"
+          "ভুক্তভোগীর মায়ের দায়ের করা মামলার ভিত্তিতে পুলিশ চার অভিযুক্তের মধ্যে তিনজনকে গ্রেপ্তার করেছে।",
+          "গ্রেপ্তারকৃতরা হলেন মো. আহাদ, মো. শামীম এবং মো. নজরুল ইসলাম।",
+          "মামলার বাকি এক পলাতক অভিযুক্তকে গ্রেপ্তারের জন্য পুলিশের অভিযান অব্যাহত রয়েছে।"
         ],
         "bullets_en": [
-          "Yemeni Iran-backed Houthi rebels claimed the attack near Zuqar Island in the Bab el-Mandeb strait of the Red Sea.",
-          "Houthi military spokesperson Yahya Saree disclosed this information in an official statement on social media.",
-          "Concerns have emerged regarding the current safety and status of the fourteen Indian nationals aboard the targeted yacht."
+          "Police arrested three of the four named accused following a complaint filed by the victim mother.",
+          "The arrestees are Md Ahad, Md Shamim, and Md Nazrul Islam.",
+          "Law enforcement operations are ongoing to capture the remaining absconding suspect."
         ],
-        "impact_bn": "এই ঘটনায় মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি ও অন্যান্য দেশের নাগরিকদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "This incident raises fresh security concerns for expatriate workers and regional maritime transport in the Middle East.",
-        "details_bn": "ইয়েমেনের দীর্ঘস্থায়ী গৃহযুদ্ধে আন্তর্জাতিক হস্তক্ষেপ এবং লোহিত সাগর অঞ্চলে সামুদ্রিক নিরাপত্তা পরিস্থিতি অত্যন্ত সংবেদনশীল হয়ে উঠেছে। কৌশলগতভাবে গুরুত্বপূর্ণ বাব আল-মানদেব প্রণালিতে বাণিজ্যিক জাহাজ ও নৌযানের ওপর বিভিন্ন পক্ষের হামলা বিশ্ব বাণিজ্য এবং আঞ্চলিক স্থিতিশীলতাকে হুমকির মুখে ফেলছে। সৌদি নেতৃত্বাধীন জোট এবং হুথি বিদ্রোহীদের এই সংঘাতে প্রায়শই সাধারণ নাবিক ও বিদেশি নাগরিকরা ঝুঁকির মুখে পড়েন।",
-        "details_en": "International intervention in Yemen's protracted civil war has made maritime security in the Red Sea highly volatile. Attacks on vessels in the strategically vital Bab el-Mandeb strait threaten global trade and regional stability. Foreign nationals and commercial crews frequently face severe risks amid ongoing hostilities between the Saudi-led coalition and Houthi forces."
+        "impact_bn": "শিশু ও কিশোরীদের সুরক্ষায় আইন প্রয়োগকারী সংস্থার কঠোর নজরদারি এবং দ্রুত আইনি পদক্ষেপ নিশ্চিত করার দাবি জোরালো হয়েছে।",
+        "impact_en": "This incident heightens public urgency for stronger child protection measures and swift justice against gender-based violence.",
+        "details_bn": "অভিযোগ অনুযায়ী, গাজীপুরের কালিয়াকঞ্জে পাঁচ মাস আগে এক অভিযুক্ত কিশোরীকে ভয় দেখিয়ে ধর্ষণের সূত্রপাত করে। পরবর্তীতে আরও কয়েকজন বিভিন্ন স্থানে নিয়ে তাকে বারবার ধর্ষণ করে বলে মামলায় উল্লেখ করা হয়। কিশোরী গর্ভবতী হওয়ার পর তাকে জোরপূর্বক ওষুধ খাইয়ে গর্ভপাত করানো হয়। বিষয়টি জানাজানি হওয়ার পর ভুক্তভোগীর মা থানায় মামলা দায়ের করেন এবং পুলিশ অভিযান চালিয়ে তিনজনকে গ্রেপ্তার করে। চতুর্থ অভিযুক্তকে গ্রেপ্তারের চেষ্টা চলছে।",
+        "details_en": "According to the case details, the victim was initially lured and raped in Kaliganj five months ago. Subsequent threats and repeated assaults by multiple men led to a pregnancy, after which she was forced to take medication for an abortion. Following a formal complaint by the victim mother, police conducted raids and apprehended three suspects while continuing efforts to track down the remaining fugitive."
       }
     },
     {
-      "story_id": "7c038800-3293-5536-b44a-480937c100ad",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T15:42:18+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6145,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171019",
-          "title": "দক্ষিণ কোরিয়ায় বাংলাদেশিদের নিয়োগ বাড়াতে প্রতিমন্ত্রী নুরের বৈঠক",
-          "snippet": "দক্ষিণ কোরিয়ায় বাংলাদেশিদের নিয়োগ বাড়াতে প্রতিমন্ত্রী নুরের বৈঠক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ কোরিয়ায় বাংলাদেশি কর্মীদের কর্মসংস্থান বাড়াতে প্রতিমন্ত্রীর ধারাবাহিক বৈঠক",
-        "title_en": "State Minister Holds Series of Meetings to Increase Bangladeshi Employment in South Korea",
-        "summary_bn": "বাংলাদেশি কর্মীদের কর্মসংস্থানের সুযোগ সম্প্রসারণ এবং দ্বিপক্ষীয় সহযোগিতা জোরদার করতে দক্ষিণ কোরিয়ায় উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়েছে।",
-        "summary_en": "High-level meetings were held in South Korea to expand employment opportunities for Bangladeshi workers and strengthen bilateral cooperation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T15:42:18+00:00",
-        "lead_bn": "বাংলাদেশি কর্মীদের কর্মসংস্থানের সুযোগ সম্প্রসারণ এবং দ্বিপক্ষীয় সহযোগিতা জোরদার করতে দক্ষিণ কোরিয়ায় উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়েছে।",
-        "lead_en": "High-level meetings were held in South Korea to expand employment opportunities for Bangladeshi workers and strengthen bilateral cooperation.",
-        "bullets_bn": [
-          "বাংলাদেশি কর্মীদের কর্মসংস্থানের সুযোগ সম্প্রসারণের জন্য কোরিয়ান কর্তৃপক্ষের সাথে বৈঠক অনুষ্ঠিত হয়েছে",
-          "কর্মী নিয়োগ প্রক্রিয়া সহজ করা এবং তাদের সার্বিক কল্যাণ নিশ্চিত করার বিষয়ে আলোচনা হয়",
-          "ভবিষ্যতে কোরিয়ায় দক্ষ কর্মী প্রেরণের পরিসর বাড়াতে যৌথ উদ্যোগ গ্রহণের সিদ্ধান্ত হয়েছে"
-        ],
-        "bullets_en": [
-          "High-level meetings were held with Korean authorities to expand employment opportunities for Bangladeshi workers.",
-          "Discussions focused on simplifying the recruitment process and ensuring the overall welfare of workers.",
-          "Both sides agreed to undertake joint initiatives to increase the deployment of skilled workers to Korea."
-        ],
-        "impact_bn": "এই উদ্যোগ বাস্তবায়িত হলে দক্ষিণ কোরিয়ায় চাকরিপ্রার্থী বাংলাদেশি যুবকদের কর্মসংস্থানের সুযোগ আরও প্রসারিত হবে।",
-        "impact_en": "This initiative will expand employment opportunities for young Bangladeshi job seekers in South Korea.",
-        "details_bn": "দক্ষিণ কোরিয়া বাংলাদেশের জন্য একটি গুরুত্বপূর্ণ শ্রমবাজার। দেশটিতে দীর্ঘদিন ধরে বাংলাদেশ থেকে কর্মী পাঠানো হলেও চাহিদার তুলনায় তা সীমিত। অভিবাসন প্রক্রিয়া আরও গতিশীল করতে এবং নতুন কর্মসংস্থানের ক্ষেত্র তৈরিতে সরকারের পক্ষ থেকে এই কূটনৈতিক প্রচেষ্টা চালানো হচ্ছে।",
-        "details_en": "South Korea remains an important labor market for Bangladesh. Although workers have been sent to the country for a long time, opportunities have been limited relative to demand. The government has undertaken these diplomatic efforts to make the migration process more dynamic and create new employment sectors."
-      }
-    },
-    {
-      "story_id": "ad2c26d3-f71d-5355-92cc-af7049cc18b8",
+      "story_id": "77ebf5d5-1024-5f52-8685-dfb97a8475a6",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -232,104 +125,213 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2F8qzlujqq%2Fmaguradh083020261021magura-saker-hossain-12-1.jpg?rect=0%2C18%2C1012%2C531&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fd1c4rffx%2Fjhenaidahdh05742026102218415809-4553-43ef-82b0-792ea8e53742.jpg?rect=0%2C0%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T15:27:05+00:00",
+      "published_at": "2026-10-22T16:43:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4102,
+      "rank_score": 1.628,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/hb63yiog18",
-          "title": "মাগুরায় যুবদল নেতা হত্যায় সংগঠনের আরেক নেতাসহ দুজন গ্রেপ্তার",
-          "snippet": "মাগুরায় যুবদল নেতা হত্যায় সংগঠনের আরেক নেতাসহ দুজন গ্রেপ্তার"
+          "url": "https://www.prothomalo.com/bangladesh/district/33txzkdzk7",
+          "title": "কার্যক্রম নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক, থানা থেকে ছাড়িয়ে নিলেন জামায়াতের নেতারা",
+          "snippet": "কার্যক্রম নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক, থানা থেকে ছাড়িয়ে নিলেন জামায়াতের নেতারা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাগুরায় যুবদল নেতা হত্যায় যুবদল নেতাসহ দুজন গ্রেপ্তার",
-        "title_en": "Two Arrested Over Juba Dal Leader Murder in Magura",
-        "summary_bn": "মাগুরায় যুবদল নেতা শাকের হোসেন হত্যা মামলায় ঢাকা মহানগর দক্ষিণ যুবদলের নেতাসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested two individuals, including a Juba Dal leader, over the murder of Juba Dal leader Shaker Hossain in Magura.",
+        "title_bn": "নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক ব্যক্তিকে ছাড়িয়ে নিলেন জামায়াত নেতারা",
+        "title_en": "Jamaat Leaders Secure Release of Detained Man Suspected as Jubo League Leader",
+        "summary_bn": "ঝিনাইদহের কোটচাঁদপুরে নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক এক ব্যক্তিকে দলীয় সদস্যপদ প্রমাণ করে ছাড়িয়ে নিয়েছেন জামায়াত নেতারা।",
+        "summary_en": "Jamaat leaders secured the release of a man detained in Jhenaidah on suspicion of being a banned Jubo League leader.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T15:27:05+00:00",
-        "lead_bn": "মাগুরায় যুবদল নেতা শাকের হোসেন হত্যা মামলায় ঢাকা মহানগর দক্ষিণ যুবদলের নেতাসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested two individuals, including a Juba Dal leader, over the murder of Juba Dal leader Shaker Hossain in Magura.",
+        "published_at": "2026-10-22T16:43:09+00:00",
+        "lead_bn": "ঝিনাইদহের কোটচাঁদপুরে নিষিদ্ধ যুবলীগ নেতা সন্দেহে আটক এক ব্যক্তিকে দলীয় সদস্যপদ প্রমাণ করে ছাড়িয়ে নিয়েছেন জামায়াত নেতারা।",
+        "lead_en": "Jamaat leaders secured the release of a man detained in Jhenaidah on suspicion of being a banned Jubo League leader.",
         "bullets_bn": [
-          "মাগুরায় যুবদল নেতা শাকের হোসেন হত্যায় জড়িত সন্দেহে দুজনকে গ্রেপ্তার করেছে জেলা গোয়েন্দা পুলিশ।",
-          "গ্রেপ্তার ব্যক্তিরা হলেন ঢাকা মহানগর দক্ষিণ যুবদলের আহ্বায়ক কমিটির সদস্য রনি শিকদার ও শামীমা তাবাসসুম।",
-          "গ্রেপ্তার দুজনকে সন্দেহভাজন আসামি হিসেবে আদালতে হাজির করার পর কারাগারে পাঠানো হয়েছে।"
+          "সোর্সের ভুল তথ্যের ভিত্তিতে কোটচাঁদপুর থানা পুলিশ হায়দার আলী নামের এক ব্যক্তিকে আটক করে।",
+          "জামায়াত নেতারা থানায় গিয়ে ২০২২ সাল থেকে ওই ব্যক্তির দলীয় সদস্যপদের রসিদ ও নথিপত্র প্রদর্শন করেন।",
+          "যাচাই-বাছাই শেষে ঊর্ধ্বতন কর্তৃপক্ষের অনুমতি সাপেক্ষে পুলিশ তাঁকে জামায়াত নেতাদের জিম্মায় ছেড়ে দেয়।"
         ],
         "bullets_en": [
-          "District detective police arrested two suspects over the murder of Juba Dal leader Shaker Hossain in Magura.",
-          "The arrestees are Roni Shikdar, a member of the Dhaka South city unit Juba Dal convening committee, and Shamima Tabassum.",
-          "Both arrestees were produced before the court and sent to jail as suspect accused in the case."
+          "Kotchandpur police detained a man named Haidar Ali based on erroneous information provided by an informant.",
+          "Jamaat leaders visited the police station to present membership receipts and documents proving his affiliation since 2022.",
+          "Police handed him over to Jamaat leaders following verification and clearance from higher authorities."
         ],
-        "impact_bn": "রাজনৈতিক সহিংসতা ও অপরাধমূলক ঘটনায় আইনশৃঙ্খলা বাহিনীর এমন দ্রুত পদক্ষেপে জননিরাপত্তা নিয়ে উদ্বেগের অবসান ঘটবে।",
-        "impact_en": "Such prompt law enforcement action against politically linked violence helps maintain public safety and accountability.",
-        "details_bn": "মাগুরা পৌর বাস টার্মিনালে রয়েল পরিবহনের কাউন্টারে দায়িত্ব পালনকালে গুলিবিদ্ধ হয়ে নিহত হন পৌর যুবদলের জ্যেষ্ঠ যুগ্ম আহ্বায়ক শাকের হোসেন। প্রথমে মৃত্যুর বিষয়টি স্বাভাবিক মনে করা হলেও গোসলের সময় মাথার পেছনে ক্ষতচিহ্ন ও ময়নাতদন্তে বুলেটের সন্ধান মেলে। পরে নিহত নেতার স্ত্রী অজ্ঞাতনামা আসামিদের বিরুদ্ধে মাগুরা সদর থানায় হত্যা মামলা দায়ের করেন। পুলিশ হত্যাকাণ্ডের রহস্য উদ্ঘাটন এবং অপরাধে ব্যবহৃত অস্ত্র ও যানবাহন উদ্ধারে তদন্ত চালিয়ে যাচ্ছে।",
-        "details_en": "Shaker Hossain, senior joint convener of Magura municipal Juba Dal, was shot dead while on duty at a transport counter in the municipal bus terminal. Initially presumed to be a natural death, a bullet wound was later discovered during pre-burial rituals, which was confirmed by an autopsy. The victim's wife subsequently filed a murder case at the Magura Sadar police station against unnamed individuals. Police are continuing their investigation to uncover the motive and recover weapons."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পুলিশ সোর্সের দেওয়া তথ্যের ভিত্তিতে ঝিনাইদহের কোটচাঁদপুর উপজেলার তালসার গ্রাম থেকে হায়দার আলীকে আটক করে। আটকের পর স্থানীয় জামায়াতের শীর্ষ নেতারা থানায় উপস্থিত হন এবং দাবি করেন আটক ব্যক্তি নিষিদ্ধ যুবলীগের কেউ নন, বরং ২০২২ সাল থেকে তাঁদের দলের সক্রিয় কর্মী। তাঁরা দলীয় চাঁদা বা ইয়ানতের রসিদ এবং সভা-সমাবেশে উপস্থিত থাকার নানা প্রমাণ পুলিশের কাছে পেশ করেন। সমস্ত কাগজপত্র যাচাই করার পর পুলিশ ঊর্ধ্বতন কর্তৃপক্ষের সঙ্গে আলোচনা করে তাঁকে জামায়াত নেতাদের কাছে হস্তান্তর করে এবং ভুল তথ্য সরবরাহকারী সোর্সের বিরুদ্ধে ব্যবস্থা নেওয়ার ঘোষণা দেয়।",
+        "details_en": "Police detained Haidar Ali from Talsar village in Kotchandpur upazila of Jhenaidah based on an informant's tip. Following the detention, local Jamaat leaders rushed to the police station and argued that the detainee was not affiliated with the banned Jubo League, but had been an active Jamaat member since 2022. They submitted party contribution receipts and attendance records of meetings to substantiate their claim. After reviewing the documents and consulting superiors, police handed him over to the Jamaat leaders and announced action against the source who provided false information."
       }
     },
     {
-      "story_id": "52e094d9-8d75-5ef0-9136-edeecef4ce2f",
-      "primary_category": "governance_law",
+      "story_id": "5d29d5ad-d965-529d-9f43-d4bf23070b57",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "sports_fitness"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-03-11%2Fg89ladyj%2Fmoneyll.JPG?rect=0%2C31%2C620%2C326&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T14:53:52+00:00",
+      "published_at": "2026-10-22T16:34:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.0939,
+      "rank_score": 1.5021,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/41sufm8dsu",
-          "title": "চাঁদাবাজির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ক গ্রেপ্তার",
-          "snippet": "চাঁদাবাজির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ক গ্রেপ্তার"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/cricket/1171033",
+          "title": "প্রবাসী বাংলাদেশিদের নিয়ে হবে ব্যতিক্রমী ক্রিকেট বিশ্বকাপ!",
+          "snippet": "প্রবাসী বাংলাদেশিদের নিয়ে হবে ব্যতিক্রমী ক্রিকেট বিশ্বকাপ!"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চাঁদাবাজির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ক গ্রেপ্তার",
-        "title_en": "Adabar Thana Chhatra Dal Convener Arrested Over Extortion Allegations",
-        "summary_bn": "ঢাকা মহানগর পুলিশের গোয়েন্দা শাখা সিটি করপোরেশনের উন্নয়নকাজে বাধা ও চাঁদা দাবির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ককে গ্রেপ্তার করেছে।",
-        "summary_en": "Detective Branch of Dhaka Metropolitan Police arrested the Adabar Thana Chhatra Dal convener for obstructing development work and demanding extortion.",
+        "title_bn": "প্রবাসী বাংলাদেশিদের নিয়ে বিশেষ ক্রিকেট বিশ্বকাপ আয়োজনের উদ্যোগ",
+        "title_en": "Special Cricket World Cup Planned for Expatriate Bangladeshis",
+        "summary_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের একই প্ল্যাটফর্মে আনতে আয়োজন করা হচ্ছে বিশেষ ক্রিকেট বিশ্বকাপ।",
+        "summary_en": "A special cricket world cup is being organized to bring together expatriate Bangladeshis living across the globe.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T16:34:21+00:00",
+        "lead_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের একই প্ল্যাটফর্মে আনতে আয়োজন করা হচ্ছে বিশেষ ক্রিকেট বিশ্বকাপ।",
+        "lead_en": "A special cricket world cup is being organized to bring together expatriate Bangladeshis living across the globe.",
+        "bullets_bn": [
+          "বিশ্বের বিভিন্ন দেশে বসবাসরত প্রবাসী বাংলাদেশিদের অংশগ্রহণে টুর্নামেন্টটি আয়োজনের সিদ্ধান্ত নেওয়া হয়েছে।",
+          "বিশ্বজুড়ে বিভিন্ন দেশে স্থায়ী ও অস্থায়ীভাবে বসবাসকারী প্রায় দুই কোটি প্রবাসী বাংলাদেশি এই উদ্যোগের সাথে যুক্ত।",
+          "প্রবাসী বাংলাদেশিদের মধ্যে সম্প্রীতি বাড়াতে এই টুর্নামেন্টের বিভিন্ন ম্যাচ বিশ্বজুড়ে অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Organizers decided to host a special cricket tournament featuring expatriate Bangladeshis residing across various global destinations.",
+          "Nearly twenty million permanent and temporary expatriate Bangladeshis live across different countries worldwide.",
+          "The tournament matches will be held globally to foster stronger connections among the diaspora."
+        ],
+        "impact_bn": "বিশ্বজুড়ে ছড়িয়ে থাকা প্রবাসী বাংলাদেশিদের মধ্যে পারস্পরিক যোগাযোগ ও সাংস্কৃতিক বন্ধন আরও দৃঢ় হবে।",
+        "impact_en": "Communication and cultural bonds among expatriate Bangladeshis worldwide will be significantly strengthened.",
+        "details_bn": "পৃথিবীর বিভিন্ন দেশে স্থায়ী ও অস্থায়ীভাবে বসবাস করছেন প্রায় দুই কোটি প্রবাসী বাংলাদেশি। তাদের পারস্পরিক মেলবন্ধন বাড়াতে এবং একই ছাতার নিচে আনতে এবার ব্যতিক্রমী এই ক্রিকেট বিশ্বকাপের উদ্যোগ নেওয়া হয়েছে। এই আয়োজনের মাধ্যমে প্রবাসী যুবসমাজ ক্রীড়ার মাধ্যমে আরও বেশি সংযুক্ত হওয়ার সুযোগ পাবে।",
+        "details_en": "Nearly twenty million expatriate Bangladeshis currently live permanently or temporarily across various countries globally. This unique cricket world cup initiative has been launched to connect them and bring the diaspora under one umbrella. Through this event, expatriate youth will get opportunities to bond further through sports."
+      }
+    },
+    {
+      "story_id": "d231e349-0f54-55ab-b074-c445713859fc",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "economy_business"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-22T17:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9643,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/tech-and-gadget/976146/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%B8%E0%A6%BE%E0%A6%82%E0%A7%9F%E0%A7%87-%E0%A6%9F%E0%A7%87%E0%A6%B8%E0%A6%B2%E0%A6%BE-%E0%A6%8F%E0%A6%A8%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A7%A8%E0%A7%AE%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
+          "title": "স্যামসাংয়ে টেসলা-এনভিডিয়ারের ২৮০ কোটি ডলারের বিনিয়োগ",
+          "snippet": "স্যামসাংয়ে টেসলা-এনভিডিয়ারের ২৮০ কোটি ডলারের বিনিয়োগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টেসলা ও এনভিডিয়া থেকে ২৮০ কোটি ডলার বিনিয়োগ পাচ্ছে স্যামসাং",
+        "title_en": "Samsung Secures 2.8 Billion Dollar Investment From Tesla and Nvidia",
+        "summary_bn": "দক্ষিণ কোরিয়ার স্যামসাং ইলেক্ট্রো-মেকানিক্স টেসলা ও এনভিডিয়ার কাছ থেকে প্রায় ২৮০ কোটি ডলারের বিশাল বিনিয়োগ পেতে যাচ্ছে।",
+        "summary_en": "South Korea's Samsung Electro-Mechanics is receiving a massive investment of nearly 2.8 billion dollars from Tesla and Nvidia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T14:53:52+00:00",
-        "lead_bn": "ঢাকা মহানগর পুলিশের গোয়েন্দা শাখা সিটি করপোরেশনের উন্নয়নকাজে বাধা ও চাঁদা দাবির অভিযোগে আদাবর থানা ছাত্রদলের আহ্বায়ককে গ্রেপ্তার করেছে।",
-        "lead_en": "Detective Branch of Dhaka Metropolitan Police arrested the Adabar Thana Chhatra Dal convener for obstructing development work and demanding extortion.",
+        "published_at": "2026-10-22T17:00:00+00:00",
+        "lead_bn": "দক্ষিণ কোরিয়ার স্যামসাং ইলেক্ট্রো-মেকানিক্স টেসলা ও এনভিডিয়ার কাছ থেকে প্রায় ২৮০ কোটি ডলারের বিশাল বিনিয়োগ পেতে যাচ্ছে।",
+        "lead_en": "South Korea's Samsung Electro-Mechanics is receiving a massive investment of nearly 2.8 billion dollars from Tesla and Nvidia.",
         "bullets_bn": [
-          "ঢাকা মহানগর পুলিশের গোয়েন্দা শাখা নয়ন হোসেনকে আদাবর এলাকা থেকে গ্রেপ্তার করে",
-          "ডিবি তেজগাঁও বিভাগের উপকমিশনার মোড জিয়াউদ্দিন চাঁদাবাজির মামলায় গ্রেপ্তারের বিষয়টি নিশ্চিত করেন",
-          "গ্রেপ্তারের পর আসামিকে আইনি প্রক্রিয়া অনুযায়ী আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে"
+          "এআই সেমিকন্ডাক্টরের উন্নত চিপ সাবস্ট্রেট তৈরির জন্য এ বিনিয়োগ ব্যবহার করা হবে",
+          "বিনিয়োগের মোট পরিমাণ প্রায় ৩ দশমিক ৭ ট্রিলিয়ন ওয়ান বা ২৮০ কোটি ডলার",
+          "নতুন এই স্থাপনাটি এফসি-বিজিএ প্রযুক্তির চিপ উৎপাদনে কাজ করবে"
         ],
         "bullets_en": [
-          "Detective Branch of Dhaka Metropolitan Police arrested Nayan Hossain from the Adabar area.",
-          "DC of DB Tejgaon division Md Ziauddin confirmed the arrest in an extortion case.",
-          "Following the arrest, the accused was sent to jail through the court via legal procedures."
+          "The investment will be used to build facilities for advanced chip substrates for AI semiconductors",
+          "The total investment amounts to approximately 3.7 trillion won or 2.8 billion dollars",
+          "The new facility will focus on manufacturing FC-BGA technology chips"
         ],
-        "impact_bn": "স্থানীয় ব্যবসায়ী ও ভবনমালিকরা চাঁদাবাজির আতঙ্ক থেকে মুক্ত হয়ে স্বাভাবিকভাবে নির্মাণকাজ পরিচালনা করতে পারবেন।",
-        "impact_en": "Local business owners and building proprietors can conduct construction work safely without extortion threats.",
-        "details_bn": "রাজধানীর আদাবর এলাকায় ঢাকা উত্তর সিটি করপোরেশনের পয়োনিষ্কাশন ও ড্রেনেজের উন্নয়নকাজ চলমান রয়েছে। এই উন্নয়ন কার্যক্রমে বাধা প্রদান এবং স্থানীয় ভবনমালিকদের কাছে চাঁদা দাবির সুনির্দিষ্ট অভিযোগের ভিত্তিতে পুলিশ অভিযান পরিচালনা করে। পরবর্তীতে সংশ্লিষ্ট থানায় দায়েরকৃত মামলায় অভিযুক্তকে গ্রেপ্তার দেখিয়ে আদালতের মাধ্যমে কারাগারে পাঠানো হয়।",
-        "details_en": "Drainage and sanitation development work by Dhaka North City Corporation was underway in the Adabar area of the capital. Police conducted the operation based on specific complaints of obstructing development work and demanding extortion from local building owners. The accused was subsequently arrested in a filed case and sent to jail through the court."
+        "impact_bn": "উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির চিপ উৎপাদন বাড়ায় বিশ্ববাজারে ডিভাইস উৎপাদনে গতি আসবে।",
+        "impact_en": "Increased production of advanced AI chips will accelerate global device manufacturing capabilities.",
+        "details_bn": "দক্ষিণ কোরিয়ার শীর্ষস্থানীয় সংবাদমাধ্যম মায়েইল বিজনেস নিউজপেপারের প্রতিবেদনে এই বড় বিনিয়োগের খবর প্রকাশিত হয়েছে। কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত প্রসারের ফলে উন্নত সেমিকন্ডাক্টর ও চিপ সাবস্ট্রেটের চাহিদা বিশ্বজুড়ে বহুগুণ বেড়ে গেছে। এই চাহিদার জোগান দিতে প্রযুক্তি জায়ান্ট স্যামসাং তাদের উৎপাদন সক্ষমতা ব্যাপকভাবে বাড়াচ্ছে।",
+        "details_en": "The news of this major investment was reported by South Korea's leading daily, Maeil Business Newspaper. With the rapid expansion of the artificial intelligence sector, the global demand for advanced semiconductors and chip substrates has multiplied significantly. To meet this demand, tech giant Samsung is drastically scaling up its manufacturing capabilities."
+      }
+    },
+    {
+      "story_id": "2e5a284e-f3e1-51b4-a110-3bc31f113279",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Madaripur",
+        "#CrimeNews",
+        "#BangladeshPolice"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Madaripur-web.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-22T16:58:51+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9525,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/man-killed-madaripur-clash-after-attack-burqa-clad-assailants-police-official-says-4305206",
+          "title": "Man killed in Madaripur clash after attack by burqa-clad assailants, police official says",
+          "snippet": "Man killed in Madaripur clash after attack by burqa-clad assailants, police official says"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মাদারীপুরের কালকিনিতে বোমা হামলা ও সংঘর্ষে নিহত ১",
+        "title_en": "One Killed in Bomb Attack and Subsequent Clash in Madaripur",
+        "summary_bn": "মাদারীপুরের কালকিনি উপজিলায় বোরকা পরা ব্যক্তিদের বোমা হামলা ও সংঘর্ষের ঘটনায় এক ব্যক্তি নিহত হয়েছেন।",
+        "summary_en": "A man died following a clash triggered by a bomb attack carried out by burqa-clad assailants in Madaripur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-22T16:58:51+00:00",
+        "lead_bn": "মাদারীপুরের কালকিনি উপজিলায় বোরকা পরা ব্যক্তিদের বোমা হামলা ও সংঘর্ষের ঘটনায় এক ব্যক্তি নিহত হয়েছেন।",
+        "lead_en": "A man died following a clash triggered by a bomb attack carried out by burqa-clad assailants in Madaripur.",
+        "bullets_bn": [
+          "বোরকা পরিহিত চার দুষ্কৃতকারী কালকিনি উপজেলার কালীনগঞ্জ বাজারে একটি চায়ের দোকানে অতর্কিত বোমা হামলা চালায়।",
+          "হামলায় নিহত তাইজুল সরদারসহ অন্তত ছয়জন আহত হন এবং উন্নত চিকিৎসার জন্য তাদের ঢাকা মেডিকেল কলেজ হাসপাতালে পাঠানো হয়।",
+          "পুলিশ ঘটনার সঙ্গে জড়িত পলাতক হামলাকারীদের গ্রেপ্তার করতে এবং বাকি তিনজনকে আইনের আওতায় আনতে তদন্ত শুরু করেছে।"
+        ],
+        "bullets_en": [
+          "Four assailants wearing black burqas and pink hijabs detonated crude bombs and launched a sudden attack at a tea stall.",
+          "At least six people including the deceased attacker sustained injuries and were transferred to Dhaka Medical College Hospital.",
+          "Police launched an investigation to track down and apprehend the remaining three attackers who fled the scene."
+        ],
+        "impact_bn": "এই ধরনের সহিংস ঘটনা স্থানীয় জনসাধারণের মধ্যে আতঙ্ক ও নিরাপত্তার উদ্বেগ বাড়িয়ে তোলে।",
+        "impact_en": "Such violent clashes raise immediate security concerns and create panic among local residents.",
+        "details_bn": "মাদারীপুরের কালকিনি উপজেলার কালীনগঞ্জ বাজারে স্থানীয় দুই পক্ষের দ্বন্দ্বের জেরে এই সহিংস হামলা ও সংঘর্ষের ঘটনা ঘটে। হামলাকারীরা বোরকা পরে আত্মগোপন করে দেশীয় অস্ত্র ও ককটেল ব্যবহার করে অতর্কিত হামলা চালায়। এতে উভয়পক্ষের বেশ কয়েকজন গুরুতর আহত হন এবং হাসপাতালে নেওয়ার পর একজনের মৃত্যু হয়। পুলিশ ও স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে এলাকায় নজরদারি বাড়িয়েছে।",
+        "details_en": "The violent clash erupted at Kaliganj Bazar in Madaripur following an ambush by attackers wearing disguises. The assailants used crude bombs and sharp weapons against individuals sitting at a local tea stall, triggering a counter-attack from associates. Law enforcement agencies intervened to restore order and initiated efforts to capture the fleeing suspects."
       }
     }
   ]
