@@ -1,281 +1,117 @@
 {
-  "updated_at": "2026-10-23T12:00:45.155497",
+  "updated_at": "2026-10-23T13:00:53.450515",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "5a7074f6-4af9-5a92-9fd8-1f57704cacd6",
-      "primary_category": "governance_law",
+      "story_id": "a531d7dc-3911-5e58-b179-7aaff9d0a9bc",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-16%2Fxtjl5jdq%2F1.jpg?rect=0%2C25%2C720%2C378&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T11:07:40+00:00",
+      "published_at": "2026-10-23T12:33:56+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.2086,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171181",
-          "title": "সাংবাদিকদের গাড়ি আটকে যুবদল নেতার চাঁদা আদায়ের চেষ্টা",
-          "snippet": "সাংবাদিকদের গাড়ি আটকে যুবদল নেতার চাঁদা আদায়ের চেষ্টা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাংবাদিকদের গাড়ি আটকে চাঁদা আদায়ের চেষ্টা করেছেন যুবদল নেতা",
-        "title_en": "Yuba Dal Leader Attempts Extortion by Blocking Journalists Vehicles",
-        "summary_bn": "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের চেষ্টার অভিযোগ উঠেছে এক যুবদল নেতার বিরুদ্ধে।",
-        "summary_en": "A local leader of Jatiyatabadi Juba Dal has been accused of attempting extortion by blocking journalists vehicles.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:07:40+00:00",
-        "lead_bn": "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের চেষ্টার অভিযোগ উঠেছে এক যুবদল নেতার বিরুদ্ধে।",
-        "lead_en": "A local leader of Jatiyatabadi Juba Dal has been accused of attempting extortion by blocking journalists vehicles.",
-        "bullets_bn": [
-          "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের উদ্দেশ্যে হেনস্তা করা হয়।",
-          "অভিযুক্ত ব্যক্তি স্থানীয় যুবদলের একজন দায়িত্বপ্রাপ্ত নেতা বলে জানা গেছে।",
-          "ঘটনার পর এলাকায় চাঞ্চল্যের সৃষ্টি হয়েছে এবং আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া চলছে।"
-        ],
-        "bullets_en": [
-          "Vehicles carrying journalists were intercepted and subjected to extortion attempts.",
-          "The accused individual is identified as a local leader of Jatiyatabadi Juba Dal.",
-          "The incident has sparked local concern and legal measures are under consideration."
-        ],
-        "impact_bn": "সাংবাদিকদের পেশাগত নিরাপত্তা ও নির্বিঘ্নে চলাচলের স্বাধীনতা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Concerns have been raised regarding the professional security and freedom of movement for journalists.",
-        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে রাজনৈতিক দলের নেতাকর্মীদের দ্বারা বিভিন্ন পেশার মানুষের ওপর প্রভাব বিস্তার ও বিশৃঙ্খলা সৃষ্টির অভিযোগ পাওয়া যাচ্ছে। দায়িত্ব পালনকালে সাংবাদিকদের সুরক্ষা ও হয়রানি বন্ধে আইনশৃঙ্খলা বাহিনীর কঠোর পদক্ষেপের দাবি জানিয়েছেন সংবাদকর্মীরা।",
-        "details_en": "In recent times, allegations of exerting influence and creating disorder by political activists have emerged in various parts of the country. Journalists have demanded stricter measures from law enforcement agencies to ensure professional security and prevent harassment during news coverage."
-      }
-    },
-    {
-      "story_id": "ebbbf09f-b45a-5186-b399-736a74d40d58",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-05%2F5rq097k9%2Fprothomalo_bangla_2021_10_62723491_53d5_495c_b3ec_0a2431d51190_child_abuse.webp?rect=0%2C228%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T11:06:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2004,
+      "rank_score": 1.4951,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/qw415bwl1h",
-          "title": "গাজীপুরে মাদ্রাসায় শিশুকে ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার",
-          "snippet": "গাজীপুরে মাদ্রাসায় শিশুকে ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার"
+          "url": "https://www.prothomalo.com/bangladesh/ba3ryt3702",
+          "title": "সৌদি আরবের দাম্মাম বিমানবন্দরে হুতিদের হামলার তীব্র নিন্দা বাংলাদেশের",
+          "snippet": "সৌদি আরবের দাম্মাম বিমানবন্দরে হুতিদের হামলার তীব্র নিন্দা বাংলাদেশের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজীপুরে মাদ্রাসায় শিশু ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার",
-        "title_en": "Teacher and Another Arrested for Child Rape at Gazipur Madrassa",
-        "summary_bn": "গাজীপুরে একটি আবাসিক মাদ্রাসায় আট বছরের শিশুকে ধর্ষণের অভিযোগে এক শিক্ষকসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested a teacher and another individual for allegedly raping an eight-year-old child at a residential madrasa in Gazipur.",
+        "title_bn": "সৌদি আরবের দাম্মাম বিমানবন্দরে হুতি হামলার তীব্র নিন্দা জানাল বাংলাদেশ",
+        "title_en": "Bangladesh Strongly Condemns Houthi Attacks on Saudi Arabia Dammam Airport",
+        "summary_bn": "সৌদি আরবের দাম্মাম বিমানবন্দরে হুতি বিদ্রোহীদের সাম্প্রতিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ এবং আহত দুই বাংলাদেশির প্রতি সংহতি প্রকাশ করেছে।",
+        "summary_en": "Bangladesh strongly condemned recent Houthi rebel attacks on Saudi Arabia Dammam Airport and expressed solidarity with injured citizens.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:06:45+00:00",
-        "lead_bn": "গাজীপুরে একটি আবাসিক মাদ্রাসায় আট বছরের শিশুকে ধর্ষণের অভিযোগে এক শিক্ষকসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested a teacher and another individual for allegedly raping an eight-year-old child at a residential madrasa in Gazipur.",
+        "published_at": "2026-10-23T12:33:56+00:00",
+        "lead_bn": "সৌদি আরবের দাম্মাম বিমানবন্দরে হুতি বিদ্রোহীদের সাম্প্রতিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ এবং আহত দুই বাংলাদেশির প্রতি সংহতি প্রকাশ করেছে।",
+        "lead_en": "Bangladesh strongly condemned recent Houthi rebel attacks on Saudi Arabia Dammam Airport and expressed solidarity with injured citizens.",
         "bullets_bn": [
-          "পুলিশ গাজীপুরের একটি আবাসিক মাদ্রাসার শিক্ষক অলিউল্লাহ ইসলাম এবং মাদ্রাসা পরিচালনা কমিটির সদস্য মোহাম্মদ মিজানকে গ্রেপ্তার করে।",
-          "শিশুটির মায়ের দায়ের করা মামলায় তিনজনকে আসামি করা হয় এবং আসামিরা ঘটনার পর বিষয়টি ধামাচাপা দেওয়ার চেষ্টা করেন।",
-          "গ্রেপ্তার দুজনকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে এবং মামলার অন্য আসামিকে গ্রেপ্তারে অভিযান চলছে।"
+          "সৌদি আরবের দাম্মাম বিমানবন্দরের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুতি বিদ্রোহীদের সাম্প্রতিক হামলার তীব্র নিন্দা জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।",
+          "দাম্মাম বিমানবন্দরে হুতিদের হামলায় আহত আটজনের মধ্যে দুজন বাংলাদেশি নাগরিক রয়েছেন বলে নিশ্চিত করেছে মন্ত্রণালয়।",
+          "বাংলাদেশ অবিলম্বে সব ধরনের হামলা বন্ধ এবং কূটনীতির মাধ্যমে চলমান সংকটের শান্তিপূর্ণ সমাধানের আহ্বান জানিয়েছে।"
         ],
         "bullets_en": [
-          "Police arrested madrasa teacher Oliullah Islam and management associate Mohammad Mizan in Gazipur.",
-          "The victim's mother filed a case naming three individuals, and management tried to cover up the crime.",
-          "The arrested accused were sent to jail through the court while efforts continue to capture the remaining suspect."
+          "The Ministry of Foreign Affairs strongly condemned the recent Houthi rebel attacks targeting Saudi Arabia Dammam Airport.",
+          "Two Bangladeshi nationals were among the eight individuals injured in the Houthi attack at the airport.",
+          "Bangladesh called for the immediate cessation of all such attacks and a peaceful resolution through diplomacy."
         ],
-        "impact_bn": "শিক্ষাপ্রতিষ্ঠানে শিশুদের নিরাপত্তা ও অপরাধ ধামাচাপা দেওয়ার চেষ্টার বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়ার দাবি জোরালো হয়েছে।",
-        "impact_en": "Public calls intensify for stricter security in educational institutions and zero tolerance for cover-ups of child abuse.",
-        "details_bn": "গাজীপুরের একটি আবাসিক মাদ্রাসায় তৃতীয় শ্রেণির এক শিক্ষার্থীকে একাধিকবার ধর্ষণের অভিযোগে মামলা হয়। শিশুটি মাদ্রাসার আবাসিক বিভাগে থেকে পড়াশোনা করত। ছুড়িতে বাড়িতে গিয়ে বিষয়টি প্রকাশ পাওয়ার পর পরিবার মাদ্রাসা কর্তৃপক্ষের কাছে বিচার চায়। কর্তৃপক্ষ বিচার না করে ঘটনা ধামাচাপা দেওয়ার চেষ্টা করলে পুলিশে অভিযোগ করা হয়। পুলিশ অভিযান চালিয়ে শিক্ষকসহ দুজনকে গ্রেপ্তার করে আদালতের মাধ্যমে কারাগারে পাঠায়।",
-        "details_en": "A case was filed over the repeated rape of a third-grade residential student at a madrasa in Gazipur. The abuse came to light when the victim visited home and disclosed the trauma to her family. Instead of taking action, madrasa authorities allegedly attempted to conceal the incident, prompting the family to approach law enforcement. Police subsequently conducted raids and sent the two arrested suspects to jail."
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি কর্মীদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Concerns have emerged regarding the safety and security of expatriate Bangladeshi workers employed in the Middle East.",
+        "details_bn": "সৌদি আরবের পূর্বাঞ্চলীয় দাম্মাম শহরের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দরে হুতি বিদ্রোহীদের হামলায় দুই বাংলাদেশি আহত হন। পররাষ্ট্র মন্ত্রণালয় এক বিজ্ঞপ্তিতে ক্ষতিগ্রস্ত পরিবারগুলোর প্রতি সমবেদনা জানিয়ে অবিলম্বে হামলা বন্ধের তাগিদ দেয়। এর আগে চলতি মাসের শুরুতে সৌদি আরবের আন্তর্জাতিক বিমানবন্দরে পৃথক হামলায় ১৪ জন নিহত হয়েছিলেন, যাদের মধ্যে দুজন বাংলাদেশি ছিলেন। মধ্যপ্রাচ্যে আঞ্চলিক সংঘাত বাড়ায় প্রবাসী বাংলাদেশিদের নিরাপত্তা নিশ্চিত করার তাগিদ জোরালো হচ্ছে।",
+        "details_en": "Houthi rebel attacks on the King Fahad International Airport in Dammam injured two Bangladeshi nationals, prompting a strong diplomatic response from Dhaka. The Foreign Ministry expressed solidarity with affected families and urged an immediate halt to hostilities. Earlier this month, separate airport attacks in Saudi Arabia claimed fourteen lives, including two Bangladeshis. The escalating regional tensions in the Middle East have heightened safety concerns for millions of expatriate workers from Bangladesh residing in the region."
       }
     },
     {
-      "story_id": "a7928150-da28-5ff7-acc1-cb985b307e6d",
-      "primary_category": "economy_business",
+      "story_id": "4a668d01-ab10-581c-956a-b6f31923227b",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business"
+        "world_diplomacy"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T11:53:15+00:00",
+      "published_at": "2026-10-23T12:20:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8985,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/jago-jobs/news/1171193",
-          "title": "ব্র্যাক ব্যাংকে ম্যানেজার নিয়োগ, থাকছে না বয়সসীমা",
-          "snippet": "ব্র্যাক ব্যাংকে ম্যানেজার নিয়োগ, থাকছে না বয়সসীমা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্র্যাক ব্যাংকে ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ",
-        "title_en": "BRAC Bank Issues Recruitment Circular for Manager Positions",
-        "summary_bn": "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে দক্ষ জনবল নিয়োগের জন্য আনুষ্ঠানিক বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "BRAC Bank PLC has published an official recruitment circular to hire skilled professionals for manager positions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:53:15+00:00",
-        "lead_bn": "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে দক্ষ জনবল নিয়োগের জন্য আনুষ্ঠানিক বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "BRAC Bank PLC has published an official recruitment circular to hire skilled professionals for manager positions.",
-        "bullets_bn": [
-          "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে লোকবল নিয়োগের ঘোষণা দিয়েছে।",
-          "আগ্রহী প্রার্থীরা ২৬ অক্টোবর পর্যন্ত নির্ধারিত প্রক্রিয়া অনুসরণ করে আবেদন করতে পারবেন।",
-          "এই নিয়োগ কার্যক্রমে প্রার্থীদের জন্য কোনো বয়সসীমা নির্ধারণ করা হয়নি।"
-        ],
-        "bullets_en": [
-          "BRAC Bank PLC announced a recruitment circular to hire professionals for manager roles.",
-          "Interested candidates can submit their applications following the designated process until October 26.",
-          "The recruitment process has no specific age limit restrictions for applicants."
-        ],
-        "impact_bn": "বেকার ও কর্মপ্রত্যাশী তরুণ পেশাজীবীদের জন্য ব্র্যাক ব্যাংকে নতুন ক্যারিয়ার গড়ার সুযোগ তৈরি হয়েছে।",
-        "impact_en": "This creates new career advancement opportunities for job-seeking professionals and young graduates in the banking sector.",
-        "details_bn": "বেসরকারি খাতের শীর্ষস্থানীয় ব্যাংকগুলোর মধ্যে ব্র্যাক ব্যাংক অন্যতম। ব্যাংকটি নিয়মিত দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থান বাড়াতে বিভিন্ন পদে দক্ষ পেশাজীবী নিয়োগ দিয়ে থাকে। সাম্প্রতিক এই নিয়োগ বিজ্ঞপ্তির মাধ্যমে ব্যাংকটির বিভিন্ন কর্পোরেট ও অপারেশনাল কার্যক্রমে অভিজ্ঞ জনবল যুক্ত করার প্রক্রিয়া শুরু হয়েছে।",
-        "details_en": "BRAC Bank is one of the leading private commercial banks in the country, regularly recruiting skilled professionals to support its expanding financial operations and corporate growth. The latest recruitment circular initiates the selection process to onboard qualified professionals into key management roles across its network."
-      }
-    },
-    {
-      "story_id": "63c58e98-bab1-50dd-9e3c-20fd44b346d6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T11:52:11+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8889,
+      "importance_score": 4.8,
+      "rank_score": 1.3316,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/journey/976258/%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%A8-%E0%A6%AB%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E2%80%99",
-          "title": "গাছ নেই, তবু বনের নাম ‘স্টোন ফরেস্ট’",
-          "snippet": "গাছ নেই, তবু বনের নাম ‘স্টোন ফরেস্ট’"
+          "url": "https://www.banglatribune.com/country/rajshahi/976272/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87",
+          "title": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত সাহেদকে দাদার পাশে দাফন",
+          "snippet": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত সাহেদকে দাদার পাশে দাফন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীনের ইউনান প্রদেশে অবস্থিত পাথুরে বন শিলিন দর্শনার্থীদের আকর্ষণ করছে",
-        "title_en": "Yunnan Province Shilin Stone Forest in China attracts visitors naturally",
-        "summary_bn": "চীনের ইউনান প্রদেশের শিলিন পাথুরে বন প্রাকৃতিক ভূদৃশ্যের এক অনন্য নিদর্শন হিসেবে দাঁড়িয়ে আছে।",
-        "summary_en": "The Shilin Stone Forest in China's Yunnan province stands as a unique natural landscape wonder.",
+        "title_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসীর মরদেহ বগুড়ায় দাফন",
+        "title_en": "Body of Expatriate Killed in Saudi Missile Attack Buried in Bogura",
+        "summary_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি প্রবাসী সাহেদ আহমেদ আশিকের মরদেহ দেশে এনে বগুড়ায় পারিবারিক কবরস্থানে দাফন করা হয়েছে।",
+        "summary_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, killed in a Saudi missile attack, has been brought home and buried in Bogura.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:52:11+00:00",
-        "lead_bn": "চীনের ইউনান প্রদেশের শিলিন পাথুরে বন প্রাকৃতিক ভূদৃশ্যের এক অনন্য নিদর্শন হিসেবে দাঁড়িয়ে আছে।",
-        "lead_en": "The Shilin Stone Forest in China's Yunnan province stands as a unique natural landscape wonder.",
+        "published_at": "2026-10-23T12:20:13+00:00",
+        "lead_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি প্রবাসী সাহেদ আহমেদ আশিকের মরদেহ দেশে এনে বগুড়ায় পারিবারিক কবরস্থানে দাফন করা হয়েছে।",
+        "lead_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, killed in a Saudi missile attack, has been brought home and buried in Bogura.",
         "bullets_bn": [
-          "প্রাকৃতিক উপায়ে গঠিত এই পাথুরে বন দূর থেকে দেখলে গাছের সারি বলে মনে হয়",
-          "ইউনান প্রদেশের রাজধানী সংলগ্ন এলাকায় এই পাথরের স্তম্ভ ও শিলাগুলো অবস্থিত",
-          "পাথরগুলোর খাঁজকাটা দেয়াল ও অবয়ব বিভিন্ন প্রাণী ও মানুষের আকৃতির সাথে মিলে যায়"
+          "নিহত সাহেদ আহমেদ আশিকের মরদেহ তার গ্রামের বাড়িতে পৌঁছানোর পর দাফন সম্পন্ন হয়।",
+          "লাশবাহী অ্যাম্বুলেন্সে তার স্ত্রী কাকলী বেগম ও দুই সন্তান উপস্থিত ছিলেন।",
+          "নিহতের মরদেহ বগুড়ার শাজাহানপুর উপজেলার মাদলা পূর্বপাড়া গ্রামে দাফন করা হয়।"
         ],
         "bullets_en": [
-          "This naturally formed stone forest resembles rows of trees from a distance",
-          "The stone pillars and rock formations are located near Yunnan province capital",
-          "The carved walls and shapes of the stones resemble humans and animals"
+          "The body of the victim Shahed Ahmed Ashik was buried upon arrival at his native village.",
+          "His wife Kakoli Begum and two children accompanied the body in the ambulance.",
+          "The burial took place in Madla Purba Para village of Shajahanpur upazila in Bogura."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রকৃতির হাতে তৈরি ভূদৃশ্যের এক অনন্য উদাহরণ হলো চীনের ইউনান প্রদেশের শিলিন পাথুরে বন। দূর থেকে দেখলে বিস্তীর্ণ এলাকায় সারি সারি গাছ দাঁড়িয়ে আছে বলে মনে হলেও কাছে গেলে বিশাল সব পাথরের স্তম্ভ দেখা যায়। কোথাও সরু স্তম্ভ আবার কোথাও খাঁজকাটা দেয়ালের মতো শিলা রয়েছে।",
-        "details_en": "The Shilin Stone Forest in China's Yunnan province is a unique example of a naturally formed landscape. From a distance, it appears as rows of trees across a vast area, but up close, massive stone pillars rise toward the sky, featuring narrow columns and carved wall-like rock formations."
+        "impact_bn": "মধ্যপ্রাচ্যে সংঘাতপূর্ণ অঞ্চলে কর্মরত প্রবাসীদের নিরাপত্তা নিয়ে পরিবারগুলোর মাঝে উদ্বেগ বাড়ছে।",
+        "impact_en": "Families of expatriates working in conflict-prone Middle Eastern regions face growing safety concerns.",
+        "details_bn": "সৌদি আরবে চলমান সংঘাতের মধ্যে ক্ষেপণাস্ত্র হামলায় নিহত হন ৩৫ বছর বয়সী সাহেদ আহমেদ আশিক। তার আকস্মিক মৃত্যুতে পরিবারে শোকের ছায়া নেমে আসে। দীর্ঘ প্রক্রিয়া শেষে তার মরদেহ দেশে ফিরিয়ে আনা হয় এবং পরিবারের উপস্থিতিতে দাফন সম্পন্ন করা হয়।",
+        "details_en": "Thirty-five-year-old Shahed Ahmed Ashik was killed in a missile attack amid ongoing conflicts in Saudi Arabia. His sudden death plunged his family into deep grief. After a lengthy process, his body was repatriated and buried in the presence of his family."
       }
     },
     {
-      "story_id": "eb47cb08-47b4-560c-958e-3bd4285c04c6",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/lisbon.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T11:40:52+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7967,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/student-protests-in-lisbon-tension-surrounding-the-antonio-arroio-and-camoes-schools/",
-          "title": "লিসবনে শিক্ষার্থীদের বিক্ষোভ: আন্তোনিও অ্যারোই ও কামোঁস স্কুল ঘিরে উত্তেজনা",
-          "snippet": "লিসবনে শিক্ষার্থীদের বিক্ষোভ: আন্তোনিও অ্যারোই ও কামোঁস স্কুল ঘিরে উত্তেজনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লিসবনে শিক্ষার্থীদের বিক্ষোভ, স্কুল অব আর্টস ও কামোঁস বিদ্যালয় অবরুদ্ধ",
-        "title_en": "Students Protest in Lisbon, Blockading Art School and Camoes High School",
-        "summary_bn": "পর্তুগালের লিসবনে শিক্ষার্থীরা ভবিষ্যৎ সুরক্ষার দাবিতে স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরুদ্ধ করে বিক্ষোভ করেছে।",
-        "summary_en": "Students in Lisbon blocked the entrances of the School of the Arts and Camoes High School to protest for their future security.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:40:52+00:00",
-        "lead_bn": "পর্তুগালের লিসবনে শিক্ষার্থীরা ভবিষ্যৎ সুরক্ষার দাবিতে স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরুদ্ধ করে বিক্ষোভ করেছে।",
-        "lead_en": "Students in Lisbon blocked the entrances of the School of the Arts and Camoes High School to protest for their future security.",
-        "bullets_bn": [
-          "লিসবনের আন্তোনিও অ্যারোই স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরোধ করেন শিক্ষার্থীরা।",
-          "সরকার ভবিষ্যৎ ও পরিবেশ রক্ষায় যথেষ্ট পদক্ষেপ নিচ্ছে না বলে অভিযোগ করেন আন্দোলনকারী শিক্ষার্থীরা।",
-          "শিক্ষা কার্যক্রমের স্বাভাবিকতা বজায় রাখতে শিক্ষার্থীদের সাথে আলোচনা চালিয়ে যাওয়ার পরিকল্পনা করছে কর্তৃপক্ষ।"
-        ],
-        "bullets_en": [
-          "Students blocked the entrance of Antonio Arroio School of the Arts and Camoes Secondary School in Lisbon.",
-          "Protesting students complained that the government is not taking sufficient steps to protect their future and environment.",
-          "Authorities plan to engage in discussions with students to restore normal educational activities."
-        ],
-        "impact_bn": "এই বিক্ষোভের কারণে বিদ্যালয়গুলোর স্বাভাবিক শিক্ষা কার্যক্রম ব্যাহত হয় এবং তরুণদের মধ্যে জলবায়ু ও ভবিষ্যৎ সুরক্ষা নিয়ে সচেতনতা বৃদ্ধি পায়।",
-        "impact_en": "The protests disrupted normal educational activities at the schools and raised awareness among youth regarding climate and future security.",
-        "details_bn": "পর্তুগালের রাজধানী লিসবনে শিক্ষার্থীদের এই বিক্ষোভ নতুন নয়। এর আগেও দেশটিতে জলবায়ু পরিবর্তন ও জীবাশ্ম জ্বালানির ব্যবহার বন্ধের দাবিতে আন্দোলন করেছিল শিক্ষার্থীরা। ২০৩০ সালের মধ্যে জীবাশ্ম জ্বালানি বন্ধের সুনির্দিষ্ট দাবি জানিয়ে আসছে তরুণ প্রজন্ম। বর্তমানের নীতিগত সিদ্ধান্তগুলো ভবিষ্যৎ প্রজন্মের জীবন ও নিরাপত্তার ওপর প্রভাব ফেলবে বলে মনে করে তারা।",
-        "details_en": "Student protests in Lisbon are not entirely new, as students previously demonstrated demanding an end to fossil fuel use and better climate action. The younger generation has been pushing for a complete halt to fossil fuels by 2030. They believe current policy decisions directly impact the lives and security of future generations."
-      }
-    },
-    {
-      "story_id": "9fef8e9d-f7c7-5098-ad86-092a5dbbc4f7",
+      "story_id": "d4bd382c-f27e-51a6-a760-9b62250f8661",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -286,46 +122,208 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T11:37:42+00:00",
+      "published_at": "2026-10-23T12:59:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7739,
+      "rank_score": 0.9567,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976249/%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "ছাত্রীকে হুজুরের যৌন হয়রানি, মাদ্রাসায় আগুন দিলেন স্থানীয়রা",
-          "snippet": "ছাত্রীকে হুজুরের যৌন হয়রানি, মাদ্রাসায় আগুন দিলেন স্থানীয়রা"
+          "url": "https://www.banglatribune.com/lifestyle/health-style/976279/%E0%A6%AA%E0%A6%B6%E0%A7%81-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%B0%E0%A7%80%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A6%BE%E0%A6%AE%E0%A7%8B%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8",
+          "title": "পশু থেকে প্রথমবার মানুষের শরীরে শামোন্ডা ভাইরাস, সংক্রমণ কতটা ঝুঁকির?",
+          "snippet": "পশু থেকে প্রথমবার মানুষের শরীরে শামোন্ডা ভাইরাস, সংক্রমণ কতটা ঝুঁকির?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ",
-        "title_en": "Madrasa Vandalized and Tornt Down After Teacher Allegedly Harasses Student in Pabna",
-        "summary_bn": "পাবনা সদর উপজেলায় ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষককে আটকের পর উত্তেজিত জনতা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করেছে।",
-        "summary_en": "Angry mobs vandalized and set fire to a madrasa in Pabna after locals detained a teacher accused of sexually harassing a student.",
+        "title_bn": "ফ্রান্সে বিশ্বে প্রথমবার মানুষের শরীরে শনাক্ত হলো শামোন্ডা ভাইরাস",
+        "title_en": "Shamonda Virus Detected in Human Body for the First Time in France",
+        "summary_bn": "ফ্রান্সে একজন গুরুতর অসুস্থ ব্যক্তির শরীরে প্রথমবারের মতো শামোন্ডা ভাইরাসের সংক্রমণ শনাক্ত হয়েছে।",
+        "summary_en": "A severely ill patient in France has been diagnosed with the Shamonda virus infection for the first time.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T11:37:42+00:00",
-        "lead_bn": "পাবনা সদর উপজেলায় ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষককে আটকের পর উত্তেজিত জনতা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করেছে।",
-        "lead_en": "Angry mobs vandalized and set fire to a madrasa in Pabna after locals detained a teacher accused of sexually harassing a student.",
+        "published_at": "2026-10-23T12:59:22+00:00",
+        "lead_bn": "ফ্রান্সে একজন গুরুতর অসুস্থ ব্যক্তির শরীরে প্রথমবারের মতো শামোন্ডা ভাইরাসের সংক্রমণ শনাক্ত হয়েছে।",
+        "lead_en": "A severely ill patient in France has been diagnosed with the Shamonda virus infection for the first time.",
         "bullets_bn": [
-          "ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষক আবু ইউসুফকে আটক করে পুলিশে সোপর্দ করেন স্থানীয়রা",
-          "ঘটনার পর উত্তেজিত জনতা পাবনা সদর উপজেলার নুরে মদিনা মহিলা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ চালায়",
-          "পরিস্থিতি নিয়ন্ত্রণে আইন শৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাস্থলে উপস্থিত হয়ে তদন্ত শুরু করেছে"
+          "ফ্রান্সে প্রথমবার একজন রোগীর শরীরে শামোন্ডা ভাইরাসের সংক্রমণ শনাক্ত করা হয়েছে।",
+          "আক্রান্ত ওই ব্যক্তি অক্টোবরের গোড়ায় মারা গেছেন বলে স্বাস্থ্য বিশেষজ্ঞরা জানিয়েছেন।",
+          "শামোন্ডা ভাইরাসটি মূলত এক ধরনের অর্থোবুনিয়াভাইরাস যা এতদিন গবাদি পশুর শরীরে সীমাবদ্ধ ছিল।"
         ],
         "bullets_en": [
-          "Locals detained and handed over accused teacher Abu Yusuf to the police following allegations of sexually harassing a student",
-          "Outraged residents vandalized and set fire to the Nure Madina Mohila Madrasa in Pabna Sadar upazila following the incident",
-          "Law enforcement agencies rushed to the spot to control the situation and launched an investigation"
+          "Shamonda virus infection has been identified in a human patient for the first time in France.",
+          "Health experts confirmed that the infected patient passed away in early October.",
+          "The Shamonda virus is a type of orthobunyavirus that was previously found primarily in livestock."
         ],
-        "impact_bn": "শিক্ষা প্রতিষ্ঠানে শিক্ষার্থী নিরাপত্তা এবং বিচারহীনতার সংস্কৃতি নিয়ে স্থানীয় অভিভাবকদের মধ্যে তীব্র ক্ষোভ ও উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The incident has sparked serious concerns among parents regarding student safety and accountability within educational institutions.",
-        "details_bn": "পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের দড়ি ভাউডাঙ্গা কদমতলা গ্রামে পদ্মার মাঠসংলগ্ন নুরে মদিনা মহিলা মাদ্রাসায় এই ঘটনা ঘটে। মাদ্রাসার এক ছাত্রীকে যৌন হয়রানি করার অভিযোগ ওঠার পর স্থানীয়দের মধ্যে তীব্র ক্ষোভের সৃষ্টি হয়। বিক্ষুব্ধ জনতা অভিযুক্ত শিক্ষক আবু ইউসুফকে আটক করে পুলিশের হাতে তুলে দেয়। পাশাপাশি বিচারের দাবিতে মাদ্রাসার প্রাঙ্গণে ভাঙচুর চালিয়ে অগ্নিসংযোগ করা হয়। পরে পুলিশ ও স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে আনে এবং ঘটনার আইনি প্রক্রিয়া শুরু করে।",
-        "details_en": "The incident took place at the Nure Madina Mohila Madrasa near the Padma field in Dori Bhaudanga Kodamtala village of Bharara union in Pabna Sadar upazila. Tension flared after allegations surfaced that a teacher sexually harassed a student at the institution. Enraged locals detained the accused teacher, Abu Yusuf, and handed him over to the police, while also vandalizing and setting fire to parts of the madrasa. Law enforcement forces subsequently intervened to restore order and initiated legal proceedings."
+        "impact_bn": "ভাইরাসটি মানুষে ছড়ানোর পর জনস্বাস্থ্য নিয়ে নতুন করে উদ্বেগ তৈরি হলেও এখনই আতঙ্কিত না হওয়ার পরামর্শ দিয়েছেন বিশেষজ্ঞরা।",
+        "impact_en": "While the transmission to humans raises public health concerns, experts advise against immediate panic as monitoring continues.",
+        "details_bn": "ফ্রান্সে একজন রোগীর শরীরে প্রথম শামোন্ডা ভাইরাস শনাক্ত হওয়ায় স্বাস্থ্য বিশেষজ্ঞদের মধ্যে নজরদারি বৃদ্ধি পেয়েছে। শামোন্ডা ভাইরাসটি মূলত অর্থোবুনিয়াভাইরাস গোত্রভুক্ত এবং এটি ১৯৬০-এর দশক থেকে গবাদি পশুর শরীরে পাওয়া যেত। এতদিন এটি কেবল পশুদের মধ্যে সীমাবদ্ধ থাকলেও সম্প্রতি মানুষের শরীরে এর উপস্থিতি নিশ্চিত হওয়ায় চিকিৎসা বিজ্ঞানীদের নজর এই ভাইরাসের দিকে রয়েছে। তবে করোনাকালের মতো বড় পরিসরে আতঙ্কিত হওয়ার মতো পরিস্থিতি এখনো তৈরি হয়নি বলে জানিয়েছেন সংশ্লিষ্টরা।",
+        "details_en": "The detection of the Shamonda virus in a human patient in France has heightened vigilance among health experts. The Shamonda virus belongs to the orthobunyavirus genus and has been documented in livestock since the 1960s. Although previously confined to animals, its confirmation in a human has drawn the attention of medical researchers. Authorities note that there is currently no reason to panic or compare it to the scale of the coronavirus pandemic."
+      }
+    },
+    {
+      "story_id": "c6c7fbb3-2cf5-562f-9cca-461582638b2b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T12:58:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9466,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171210",
+          "title": "দুর্গাপূজার নিরাপত্তা নিশ্চিতে পুলিশ প্রশংসনীয় দৃষ্টান্ত স্থাপন করেছে",
+          "snippet": "দুর্গাপূজার নিরাপত্তা নিশ্চিতে পুলিশ প্রশংসনীয় দৃষ্টান্ত স্থাপন করেছে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দুর্গাপূজার নিরাপত্তা নিশ্চিতে পুলিশ প্রশংসনীয় দৃষ্টান্ত স্থাপন করেছে বলে আইজিপির মন্তব্য",
+        "title_en": "Police Set Commendable Example in Ensuring Durga Puja Security Says IGP",
+        "summary_bn": "পুলিশ মহাপরিদর্শক মো. আলী হোসেন ফকির দুর্গাপূজার নিরাপত্তা রক্ষায় পুলিশের ভূমিকা প্রশংসনীয় বলে উল্লেখ করেছেন।",
+        "summary_en": "Inspector General of Police Md. Ali Hossain Fakir stated that the police played a commendable role in ensuring Durga Puja security.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T12:58:22+00:00",
+        "lead_bn": "পুলিশ মহাপরিদর্শক মো. আলী হোসেন ফকির দুর্গাপূজার নিরাপত্তা রক্ষায় পুলিশের ভূমিকা প্রশংসনীয় বলে উল্লেখ করেছেন।",
+        "lead_en": "Inspector General of Police Md. Ali Hossain Fakir stated that the police played a commendable role in ensuring Durga Puja security.",
+        "bullets_bn": [
+          "পুলিশ মহাপরিদর্শক দুর্গাপূজার সার্বিক নিরাপত্তা ব্যবস্থা সন্তোষজনক বলে অভিহিত করেছেন।",
+          "আইজিপি মো. আলী হোসেন ফকির নিরাপত্তা নিশ্চিতকরণে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কার্যক্রমের প্রশংসা করেছেন।",
+          "উৎসব চলাকালীন আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে দেশব্যাপী বিশেষ নিরাপত্তা বলয় বজায় রাখা হয়।"
+        ],
+        "bullets_en": [
+          "The Inspector General of Police termed the overall security arrangements for Durga Puja as satisfactory.",
+          "IGP Md. Ali Hossain Fakir praised the law enforcement agencies for ensuring foolproof security.",
+          "A nationwide special security grid was maintained to keep the law and order situation stable during the festival."
+        ],
+        "impact_bn": "নিরাপদ উৎসব উদযাপনের মাধ্যমে দেশের বিভিন্ন সম্প্রদায়ের মানুষ শান্তিপূর্ণভাবে ধর্মীয় অনুষ্ঠান সম্পন্ন করতে পেরেছে।",
+        "impact_en": "People from different communities were able to complete religious festivities peacefully through safe celebrations.",
+        "details_bn": "সনাতন ধর্মাবলম্বীদের সবচেয়ে বড় উৎসব শারদীয় দুর্গাপূজা শান্তিপূর্ণভাবে সম্পন্ন করতে দেশজুড়ে কঠোর নিরাপত্তা ব্যবস্থা গ্রহণ করেছিল আইনশৃঙ্খলা বাহিনী। প্রতিবারের মতো এবারও পূজামণ্ডপগুলোতে সম্ভাব্য অপ্রীতিকর পরিস্থিতি এড়াতে পুলিশ, আনসার ও অন্যান্য গোয়েন্দা সংস্থার সদস্যরা সক্রিয় দায়িত্ব পালন করেন। আইজিপির এই মন্তব্যের মাধ্যমে মাঠপর্যায়ের পুলিশ সদস্যদের কাজের স্বীকৃতি ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সামগ্রিক সাফল্যের বিষয়টি তুলে ধরা হয়েছে।",
+        "details_en": "Law enforcement agencies implemented strict security measures across the country to peacefully observe Sharadiya Durgapuja, the largest festival of the Hindu community. As in previous years, police, Ansar, and intelligence personnel were actively deployed at puja pandals to prevent potential untoward incidents. The IGP's remarks highlight the recognition of field-level police personnel and the overall success of the security apparatus."
+      }
+    },
+    {
+      "story_id": "6ae1ca0e-a45e-5c2f-be6d-5e22c06138b9",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T12:57:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9358,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/other-sports/976269/%E0%A6%85%E0%A6%A8%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A7-%E0%A7%A7%E0%A7%AB-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%A4",
+          "title": "অনূর্ধ্ব-১৫ বিশ্বকাপে ওয়েলেসের বিপক্ষে প্রস্তুত বাংলাদেশ",
+          "snippet": "অনূর্ধ্ব-১৫ বিশ্বকাপে ওয়েলেসের বিপক্ষে প্রস্তুত বাংলাদেশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ওয়েলসের বিপক্ষে ম্যাচ দিয়ে ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ শুরু করছে বাংলাদেশ",
+        "title_en": "Bangladesh to Begin FIFA Under-15 World Cup Campaign Against Wales",
+        "summary_bn": "বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দল ওয়েলসের বিপক্ষে ম্যাচ দিয়ে তাদের ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ অভিযান শুরু করছে।",
+        "summary_en": "The Bangladesh Under-15 football team is set to begin its FIFA Under-15 World Cup campaign against Wales.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T12:57:17+00:00",
+        "lead_bn": "বাংলাদেশ অনূর্ধ্ব-১৫ ফুটবল দল ওয়েলসের বিপক্ষে ম্যাচ দিয়ে তাদের ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ অভিযান শুরু করছে।",
+        "lead_en": "The Bangladesh Under-15 football team is set to begin its FIFA Under-15 World Cup campaign against Wales.",
+        "bullets_bn": [
+          "ফিফা আয়োজিত প্রথম অনূর্ধ্ব-১৫ বিশ্বকাপে অংশ নিচ্ছে বাংলাদেশ দল",
+          "ারবাইজানের বাকুতে ওয়েলসের বিপক্ষে নিজেদের প্রথম ম্যাচ খেলবে বাংলাদেশ",
+          "টুর্নামেন্টের প্রথম সংস্করণেই নিজেদের সামর্থ্য প্রমাণ করতে মাঠে নামবে দলটি"
+        ],
+        "bullets_en": [
+          "Bangladesh is participating in the inaugural edition of the FIFA Under-15 World Cup.",
+          "Bangladesh will play its opening match against Wales in Baku, Azerbaijan.",
+          "The team aims to showcase its capability in the very first edition of the tournament."
+        ],
+        "impact_bn": "দেশের তরুণ ফুটবলারদের আন্তর্জাতিক মঞ্চে নিজেদের প্রতিভা প্রমাণের বড় সুযোগ তৈরি হয়েছে।",
+        "impact_en": "This tournament creates a major platform for young football talents of the country to showcase their skills on the international stage.",
+        "details_bn": "ফিফা প্রথমবারের মতো অনূর্ধ্ব-১৫ ফেস্টিভ্যালের পাশাপাশি বিশ্বকাপ টুর্নামেন্টের আয়োজন করছে। ফিফার সদস্যভুক্ত সব দেশকে এই প্রতিযোগিতায় অংশগ্রহণের সুযোগ দেওয়া হয়েছে। এই প্রথম সংস্করণে অংশ নিয়ে আন্তর্জাতিক ফুটবলে নিজেদের সক্ষমতা প্রদর্শনের লক্ষ্য নিয়ে মাঠে নামছে বাংলাদেশ অনূর্ধ্ব-১৫ দল।",
+        "details_en": "FIFA is organizing the Under-15 World Cup for the first time alongside its festival, opening participation to all member nations. The Bangladesh Under-15 team enters this inaugural edition aiming to demonstrate its capabilities on the international football stage."
+      }
+    },
+    {
+      "story_id": "2a394c9b-50d8-57de-a96e-fe5c5a7a5c9b",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T12:56:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9243,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1171208",
+          "title": "এনসিপির মিডিয়া সম্পাদক হলেন ইয়াসির আরাফাত",
+          "snippet": "এনসিপির মিডিয়া সম্পাদক হলেন ইয়াসির আরাফাত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় নাগরিক পার্টির মিডিয়া সম্পাদক হিসেবে দায়িত্ব নিলেন ইয়াসির আরাফাত",
+        "title_en": "Yasir Arafat Appointed as Media Editor of National Citizen Party",
+        "summary_bn": "জাতীয় নাগরিক পার্টির ১৯৫ সদস্যবিশিষ্ট কমিটিতে মিডিয়া সম্পাদকের দায়িত্ব পেয়েছেন ইয়াসির আরাফাত।",
+        "summary_en": "Yasir Arafat has been appointed as the media editor in the 195-member committee of the National Citizen Party.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T12:56:06+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির ১৯৫ সদস্যবিশিষ্ট কমিটিতে মিডিয়া সম্পাদকের দায়িত্ব পেয়েছেন ইয়াসির আরাফাত।",
+        "lead_en": "Yasir Arafat has been appointed as the media editor in the 195-member committee of the National Citizen Party.",
+        "bullets_bn": [
+          "জাতীয় নাগরিক পার্টির নতুন মিডিয়া সম্পাদক হিসেবে ইয়াসির আরাফাত দায়িত্ব গ্রহণ করেছেন।",
+          "দলটির সম্প্রতি ঘোষিত ১৯৫ সদস্যবিশিষ্ট পূর্ণাঙ্গ কমিটিতে এই পদ নির্ধারিত হয়েছে।",
+          "নতুন দায়িত্ব পাওয়ার পর তিনি দলীয় গণসংযোগ এবং মিডিয়া কার্যক্রম পরিচালনা করবেন।"
+        ],
+        "bullets_en": [
+          "Yasir Arafat has taken charge as the new media editor of the National Citizen Party.",
+          "This appointment was finalized as part of the party's newly formed 195-member committee.",
+          "He will now oversee the party's media relations, public communications, and outreach strategies."
+        ],
+        "impact_bn": "রাজনৈতিক দলের এই রদবদল তরুণদের রাজনৈতিক কার্যক্রমে অংশগ্রহণ এবং প্রচারণায় নতুন গতি আনবে।",
+        "impact_en": "This structural change is expected to enhance political communication and youth engagement in public discourse.",
+        "details_bn": "জাতীয় নাগরিক পার্টি দেশের রাজনৈতিক অঙ্গনে নতুন গতি আনতে বিভিন্ন কার্যক্রম পরিচালনা করছে। দলটির সাংগঠনিক ভিত্তি মজবুত করতে এবং গণমাধ্যমের সাথে যোগাযোগ বাড়াতে সম্প্রতি ১৯৫ সদস্যবিশিষ্ট একটি পূর্ণাঙ্গ কমিটি গঠন করা হয়েছে, যার মাধ্যমে দলের কার্যক্রম আরও সুসংগঠিত করার উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "The National Citizen Party has been active in reshaping political narratives and strengthening its organizational framework. As part of this ongoing expansion, the party formed a 195-member committee to streamline internal operations and improve public communications through designated leadership roles."
       }
     }
   ]
