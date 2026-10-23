@@ -1,337 +1,335 @@
 {
-  "updated_at": "2026-10-23T10:00:49.894648",
+  "updated_at": "2026-10-23T10:57:59.101470",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "9927fa1d-42ed-5d41-8d4f-07d1a0879732",
-      "primary_category": "tech_innovation",
+      "story_id": "230ad8e7-5164-59c4-bdac-0c230f012808",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation"
+        "world_diplomacy"
       ],
       "tags": [
-        "#DigitalLandService",
-        "#LandMinistry"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fofdhj7bh%2FUntitled-6.jpg?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T09:41:24+00:00",
+      "published_at": "2026-10-23T10:52:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 2.0,
+      "importance_score": 4.8,
+      "rank_score": 1.8278,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/mwzql7dtpx",
-          "title": "বাংলাদেশ ব্যাংকের পর এবার ১২ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবার সার্ভার",
-          "snippet": "বাংলাদেশ ব্যাংকের পর এবার ১২ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবার সার্ভার"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976246/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0",
+          "title": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা বাংলাদেশের",
+          "snippet": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা বাংলাদেশের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিরাপত্তা ত্রুটি সংশোধনে ৩৬ ঘণ্টা বন্ধ রয়েছে ডিজিটাল ভূমিসেবার সার্ভার",
-        "title_en": "Digital Land Service Server Shut Down For 36 Hours Over Security Flaws",
-        "summary_bn": "পিএইচপি সফটওয়্যারের নিরাপত্তা ত্রুটি দূর করতে টানা ৩৬ ঘণ্টা সব ডিজিটাল ভূমিসেবা কার্যক্রম বন্ধ রেখেছে ভূমি মন্ত্রণালয়।",
-        "summary_en": "The Ministry of Land has suspended all digital land services for 36 hours to fix critical PHP software vulnerabilities.",
+        "title_bn": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা জানাল বাংলাদেশ",
+        "title_en": "Bangladesh Strongly Condemns Houthi Attacks in Saudi Arabia",
+        "summary_bn": "সৌদি আরবে হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ, যেখানে দুই বাংলাদেশি হতাহত হয়েছেন।",
+        "summary_en": "Bangladesh has strongly condemned multiple Houthi rebel attacks in Saudi Arabia, which resulted in casualties among two Bangladeshis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:41:24+00:00",
-        "lead_bn": "পিএইচপি সফটওয়্যারের নিরাপত্তা ত্রুটি দূর করতে টানা ৩৬ ঘণ্টা সব ডিজিটাল ভূমিসেবা কার্যক্রম বন্ধ রেখেছে ভূমি মন্ত্রণালয়।",
-        "lead_en": "The Ministry of Land has suspended all digital land services for 36 hours to fix critical PHP software vulnerabilities.",
+        "published_at": "2026-10-23T10:52:06+00:00",
+        "lead_bn": "সৌদি আরবে হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ, যেখানে দুই বাংলাদেশি হতাহত হয়েছেন।",
+        "lead_en": "Bangladesh has strongly condemned multiple Houthi rebel attacks in Saudi Arabia, which resulted in casualties among two Bangladeshis.",
         "bullets_bn": [
-          "সাইবার নিরাপত্তাসংশ্লিষ্ট সংস্থার সতর্কবার্তার পরিপ্রেক্ষিতে ভূমি মন্ত্রণালয় সার্ভার বন্ধ রেখে নিরাপত্তা উন্নয়নের কাজ শুরু করেছে।",
-          "নামজারি, ভূমি উন্নয়ন কর পরিশোধ ও মৌজা ম্যাপ সংগ্রহসহ সব ধরনের ডিজিটাল ভূমিসেবা সম্পূর্ণ বন্ধ রয়েছে।",
-          "নিরাপত্তা আপগ্রেডেশন কাজ শেষ হওয়ার পর সার্ভার পুনরায় সচল করা হবে।"
+          "সৌদি আরবে চালানো হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ।",
+          "বিমানবন্দরে চালানো এসব হামলায় দুজন বাংলাদেশি হতাহত হয়েছেন বলে পররাষ্ট্র মন্ত্রণালয় জানিয়েছে।",
+          "বাংলাদেশ ক্ষতিগ্রস্ত পরিবারগুলোর প্রতি গভীর সমবেদনা প্রকাশ করে সৌদি সরকার ও জনগণের সাথে সংহতি জানিয়েছে।"
         ],
         "bullets_en": [
-          "The Ministry of Land suspended digital services to conduct security maintenance following a national cybersecurity alert.",
-          "Services including mutation, land tax payment, and Mouza map collection remain completely halted.",
-          "Normal operations will resume immediately after the scheduled security upgrades are completed."
+          "Bangladesh strongly condemned multiple attacks carried out by Houthi rebels in Saudi Arabia.",
+          "The Ministry of Foreign Affairs confirmed that these airport attacks resulted in casualties among two Bangladeshis.",
+          "Bangladesh expressed deep condolences to the affected families and solidarity with the Saudi government and people."
         ],
-        "impact_bn": "সেবা সাময়িকভাবে বন্ধ থাকায় নাগরিকরা নামজারি ও ভূমি কর পরিশোধের মতো গুরুত্বপূর্ণ কাজগুলো নির্দিষ্ট সময় করতে পারছেন না।",
-        "impact_en": "Citizens face temporary disruptions in executing property mutations and paying land development taxes online.",
-        "details_bn": "পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক প্রতিষ্ঠানগুলোতে উদ্বেগ তৈরি হয়। এর অংশ হিসেবে বিজিডি ই-গভ সার্টের জরুরি সাইবার সতর্কবার্তার পর বাংলাদেশ ব্যাংকের পর এবার ডিজিটাল ভূমিসেবার সার্ভার বন্ধ রেখে সিস্টেম হালনাগাদের উদ্যোগ নেওয়া হয়েছে।",
-        "details_en": "Following the discovery of critical security vulnerabilities in the PHP programming language, global institutions have rushed to update their systems. Prompted by an emergency advisory from BGD e-GOV CIRT, the land ministry shut down its servers for security patching, following a similar move by Bangladesh Bank."
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি ও তাদের পরিবারগুলোর নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "It raises renewed security concerns for expatriate Bangladeshi workers and their families residing in the Middle East.",
+        "details_bn": "হুতি বিদ্রোহীরা প্রায়ই আঞ্চলিক নিরাপত্তার বিঘ্ন ঘটিয়ে সৌদি আরবের বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো ও বিমানবন্দর লক্ষ্য করে হামলা চালিয়ে থাকে। এর আগেও বিভিন্ন হামলায় মধ্যপ্রাচ্যে কর্মরত অভিবাসী শ্রমিকদের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে। বাংলাদেশ সরকার সবসময় এ ধরনের সহিংসতার বিরোধিতা করে আসছে এবং আঞ্চলিক শান্তি প্রতিষ্ঠার আহ্বান জানিয়েছে।",
+        "details_en": "Houthi rebels frequently target critical infrastructure and airports in Saudi Arabia, disrupting regional security. Previous attacks have repeatedly raised concerns regarding the safety of migrant workers employed in the Middle East. The Bangladesh government consistently opposes such acts of violence and calls for regional peace and stability."
       }
     },
     {
-      "story_id": "7e8eed1d-0fa7-5cf3-89cc-9d6682caf101",
+      "story_id": "19b5721a-d5c8-516c-97ef-211dd0ca185c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T10:38:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5984,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171169",
+          "title": "সৌদি আরবে হুথির হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় ঢাকার উদ্বেগ",
+          "snippet": "সৌদি আরবে হুথির হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় ঢাকার উদ্বেগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে হুথি হামলায় বাংলাদেশি হতাহতের ঘটনায় ঢাকার তীব্র নিন্দা ও উদ্বেগ",
+        "title_en": "Dhaka Expresses Concern and Condemns Houthi Attacks in Saudi Arabia",
+        "summary_bn": "সৌদি আরবে হুথিদের সাম্প্রতিক হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় গভীর উদ্বেগ ও তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
+        "summary_en": "The Bangladesh government expressed deep concern and strong condemnation over Houthi attacks in Saudi Arabia that left two Bangladeshis casualties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T10:38:24+00:00",
+        "lead_bn": "সৌদি আরবে হুথিদের সাম্প্রতিক হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় গভীর উদ্বেগ ও তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
+        "lead_en": "The Bangladesh government expressed deep concern and strong condemnation over Houthi attacks in Saudi Arabia that left two Bangladeshis casualties.",
+        "bullets_bn": [
+          "দাম্মাম বিমানবন্দরসহ বিভিন্ন স্থানে হুথিদের হামলার ঘটনায় তীব্র নিন্দা প্রকাশ করেছে বাংলাদেশ।",
+          "হামলায় দুই বাংলাদেশি নাগরিক হতাহত হয়েছেন বলে আনুষ্ঠানিকভাবে নিশ্চিত করা হয়েছে।",
+          "সংঘাতময় পরিস্থিতিতে মধ্যপ্রাচ্যে প্রবাসীদের নিরাপত্তা নিশ্চিত করার আহ্বান জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।"
+        ],
+        "bullets_en": [
+          "Bangladesh strongly condemned the Houthi attacks targeting locations including the Dammam airport.",
+          "The attacks resulted in casualties among two Bangladeshi nationals.",
+          "The foreign ministry urged strengthened safety measures for expatriates living in the Middle East."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি শ্রমিকদের নিরাপত্তা ও সুরক্ষা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Concerns have risen regarding the safety and security of expatriate Bangladeshi workers employed in the Middle East.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে মধ্যপ্রাচ্যের বিভিন্ন দেশে ড্রাফ ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এর আগেও কৌশলগত স্থাপনা ও বিমানবন্দর লক্ষ্য করে এমন হামলার ঘটনা ঘটেছে। সাম্প্রতিক সময়ে এই ধরনের সহিংসতা বৃদ্ধি পাওয়ায় প্রবাসী শ্রমিকদের নিরাপত্তা নিয়ে আন্তর্জাতিক অঙ্গনে নতুন করে আলোচনা শুরু হয়েছে।",
+        "details_en": "Yemeni Houthi rebels have frequently launched drone and missile attacks targeting various locations in the Middle East. Strategic infrastructure and airports have been common targets in past escalations. The recent rise in such violence has sparked renewed international concern over the safety of expatriate workers in the region."
+      }
+    },
+    {
+      "story_id": "58e9b46e-4c5e-5275-95d8-eabf51f37cc3",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/engr003.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F5rcgn47r%2F3c768731-9e1f-47ec-9001-56a4f2dd0391.jfif?rect=77%2C0%2C1126%2C591&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T09:58:52+00:00",
+      "published_at": "2026-10-23T09:28:15+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.9034,
+      "rank_score": 0.9421,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/engineer-detained-with-150000-taka-following-complaints-about-roadwork-quality/",
-          "title": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী",
-          "snippet": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/hx5m08j6ma",
+          "title": "পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে: আযাদ",
+          "snippet": "পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে: আযাদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পঞ্চগড়ে রাস্তার কাজের মান নিয়ে অভিযোগে দেড় লাখ টাকাসহ প্রকৌশলী আটক",
-        "title_en": "LGED Sub-Assistant Engineer Detained With Tk 1.5 Lakh Over Road Quality",
-        "summary_bn": "পঞ্চগড়ের বোদায় রাস্তার কাজের মান নিয়ে ক্ষোভের মুখে দেড় লাখ নগদ টাকাসহ এক এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ করেছেন স্থানীয়রা।",
-        "summary_en": "Local residents detained an LGED sub-assistant engineer with Tk 1.5 lakh in cash following disputes over substandard road construction work in Panchagarh.",
+        "title_bn": "পিএসসির সদস্যদের পদত্যাগে বাধ্য করা হচ্ছে বলে জামায়াত নেতার অভিযোগ",
+        "title_en": "Jamaat Leader Alleges PSC Members Are Being Forced to Resign",
+        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ অভিযোগ করেছেন যে পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে।",
+        "summary_en": "Bangladesh Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad alleged that PSC members are being invited for tea and forced to resign.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:58:52+00:00",
-        "lead_bn": "পঞ্চগড়ের বোদায় রাস্তার কাজের মান নিয়ে ক্ষোভের মুখে দেড় লাখ নগদ টাকাসহ এক এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ করেছেন স্থানীয়রা।",
-        "lead_en": "Local residents detained an LGED sub-assistant engineer with Tk 1.5 lakh in cash following disputes over substandard road construction work in Panchagarh.",
+        "published_at": "2026-10-23T09:28:15+00:00",
+        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ অভিযোগ করেছেন যে পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে।",
+        "lead_en": "Bangladesh Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad alleged that PSC members are being invited for tea and forced to resign.",
         "bullets_bn": [
-          "সাকোয়া নয়াদীঘি সড়কের পাকা কাজের মান নিয়ে স্থানীয়দের দীর্ঘদিনের অভিযোগের পরিপ্রেক্ষিতে এই ঘটনা ঘটে",
-          "উপসহকারী প্রকৌশলী নূরই আকরামের ব্যাগ ও পকেট তল্লাশি করে মোট দেড় লাখ টাকা উদ্ধার করে পুলিশ",
-          "দায়িত্ব পালনকালে নগদ টাকা সঙ্গে রাখার বিষয়ে বিভাগীয় তদন্ত সাপেক্ষে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে"
+          "সরকার ও ফ্যাসিবাদী শক্তি মিলে নতুন পরিস্থিতি সৃষ্টির ষড়যন্ত্র করছে বলে অভিযোগ করা হয়।",
+          "দলীয় বিবেচনায় পদোন্নতি, নিয়োগ ও বদলি করা হচ্ছে বলে দাবি করেন হামিদুর রহমান আযাদ।",
+          "জুলাই আন্দোলনে মানবতাবিরোধী অপরাধের দৃশ্যমান বিচার এখনো হয়নি বলে ক্ষোভ প্রকাশ করা হয়।"
         ],
         "bullets_en": [
-          "Locals confronted sub-assistant engineer Nur-e-Akram regarding poor construction quality on the Sakoa-Nayadighi road.",
-          "Police recovered a total of Tk 1.5 lakh in cash from the engineer's bag and pockets during the search.",
-          "The upazila engineer stated that a formal departmental investigation will be conducted into the incident."
+          "The government and fascist forces are conspiring to create a new situation, alleged Jamaat leader Azad.",
+          "Promotions, appointments, and transfers are being executed based on partisan considerations, he claimed.",
+          "Frustration was expressed over the lack of visible justice for crimes against humanity during the July uprising."
         ],
-        "impact_bn": "সরকারি প্রকল্পে দুর্নীতি ও অনিয়মের বিরুদ্ধে স্থানীয় জনগণের এই প্রতিরোধ সাধারণ মানুষের কাজের স্বচ্ছতা নিশ্চিত করতে ভূমিকা রাখবে।",
-        "impact_en": "Active public resistance against corruption in local infrastructure projects helps ensure accountability and better public service delivery.",
-        "details_bn": "পঞ্চগড়ের বোদা উপজেলার সাকোয়া নয়াদীঘি সড়কের নির্মাণ কাজ চলাকালীন নিম্নমানের সামগ্রী ব্যবহারের অভিযোগ ওঠে। স্থানীয়রা কাজের মান যাচাই করতে গেলে উপসহকারী প্রকৌশলী নূরই আকরামের আচরণে সন্দেহজনক পরিস্থিতি তৈরি হয়। পরে তার ব্যাগ ও পকেট তল্লাশি করে দেড় লাখ টাকা উদ্ধার করা হয়। এ ঘটনায় এলাকায় ব্যাপক চাঞ্চল্যের সৃষ্টি হয়েছে এবং উপজেলা প্রকৌশলী বিষয়টি তদন্ত করে দেখার আশ্বাস দিয়েছেন।",
-        "details_en": "Locals in Boda upazila of Panchagarh raised complaints over substandard materials being used in the Sakoa-Nayadighi road construction project. Suspicion arose when sub-assistant engineer Nur-e-Akram attempted to leave after residents demanded project documents. Police subsequently recovered Tk 1.5 lakh from his possession, prompting promises of an internal investigation by the upazila engineering department."
+        "impact_bn": "জনগণের মৌলিক অধিকার ও প্রশাসনিক নিরপেক্ষতা নিয়ে জনমনে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Fresh concerns have emerged among citizens regarding public administration neutrality and fundamental rights.",
+        "details_bn": "রাজধানীর মিন্টো রোডে বিরোধীদলীয় নেতার সরকারি বাসভবনে ১১–দলীয় ঐক্যের লিয়াজোঁ কমিটির বৈঠক শেষে এক ব্রিফিংয়ে এসব অভিযোগ করা হয়। এ সময় জুলাই আন্দোলনের চেতনা নস্যাৎ করা এবং মেধাভিত্তিক নিয়োগ বঞ্চিত করার বিভিন্ন অভিযোগ তুলে ধরেন জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ।",
+        "details_en": "These allegations were made during a briefing following a liaison committee meeting of the 11-party alliance at the opposition leader's official residence on Minto Road in Dhaka. During the briefing, Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad raised various allegations regarding the undermining of the July movement's spirit and the deprivation of merit-based appointments."
       }
     },
     {
-      "story_id": "45e8a9ed-04e1-596a-a188-01a5540bb9b0",
-      "primary_category": "society_education",
+      "story_id": "67c0e575-9e42-57f7-a0d4-448ea9828ca1",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
-        "climate_environment",
-        "world_diplomacy"
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/image-352803-1792751245.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T09:40:07+00:00",
+      "published_at": "2026-10-23T10:54:26+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5811,
+      "importance_score": 2.4,
+      "rank_score": 0.9364,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976232/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9",
-          "title": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত শাহেদের মরদেহ পৌঁছালো গ্রামের বাড়িতে",
-          "snippet": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত শাহেদের মরদেহ পৌঁছালো গ্রামের বাড়িতে"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/a-group-spreading-misinformation-and-misinterpretation-of-religion-beware-water-resources-minister/",
+          "title": "একটি দল ধর্মের অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়াচ্ছে, সতর্ক থাকতে হবে: পানিসম্পদমন্ত্রী",
+          "snippet": "একটি দল ধর্মের অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়াচ্ছে, সতর্ক থাকতে হবে: পানিসম্পদমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসীর মরদেহ বগুড়ায় দাফন",
-        "title_en": "Body of Expatriate Killed in Saudi Missile Attack Reaches Bogura",
-        "summary_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ তার গ্রামের বাড়িতে পৌঁছানোর পর দাফন সম্পন্ন হয়েছে।",
-        "summary_en": "The body of expatriate Shahed Ahmed Ashik, killed in a missile attack in Saudi Arabia, has reached his village home.",
+        "title_bn": "ধর্মের নামে বিভ্রান্তি ও অপপ্রচার রোধে দেশবাসীকে সতর্ক থাকার আহ্বান পানিসম্পদমন্ত্রীর",
+        "title_en": "Water Resources Minister Urges Vigilance Against Religious Misinformation",
+        "summary_bn": "পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি সমাজে ধর্মের ভুল ব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিরুদ্ধে দেশবাসীকে সতর্ক থাকার আহ্বান জানিয়েছেন।",
+        "summary_en": "Water Resources Minister Shahiduddin Chowdhury Annie urged citizens to remain vigilant against religious misinformation and propaganda in society.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T10:54:26+00:00",
+        "lead_bn": "পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি সমাজে ধর্মের ভুল ব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিরুদ্ধে দেশবাসীকে সতর্ক থাকার আহ্বান জানিয়েছেন।",
+        "lead_en": "Water Resources Minister Shahiduddin Chowdhury Annie urged citizens to remain vigilant against religious misinformation and propaganda in society.",
+        "bullets_bn": [
+          "সমাজে ধর্মের নামে অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিষয়ে সবাইকে সতর্ক থাকার আহ্বান জানানো হয়েছে।",
+          "মাদকের বিস্তার রোধে সরকার জিরো টলারেন্স নীতি অনুসরণ করছে এবং অপরাধীদের ছাড় দেওয়া হবে না।",
+          "অনুষ্ঠানে দুস্থ নারীদের মাঝে সেলাই মেশিন বিতরণ করা হয় এবং সমাজ গঠনে সবাইকে ঐক্যবদ্ধ হওয়ার তাগিদ দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "Citizens have been urged to remain cautious against the spread of religious misinterpretations and misinformation.",
+          "The government follows a zero-tolerance policy against drug expansion and warned wrongdoers of strict action.",
+          "Sewing machines were distributed among women during the event, emphasizing unity for national development."
+        ],
+        "impact_bn": "ধর্মীয় বিভ্রান্তি ও মাদকবিরোধী সচেতনতা বৃদ্ধি পাওয়ায় স্থানীয় সমাজে শান্তি ও শৃঙ্খলা বজায় রাখতে সহায়তা করবে।",
+        "impact_en": "Increased awareness against religious misinformation and drug abuse will help maintain peace and order in local communities.",
+        "details_bn": "চন্দ্রগঞ্জ উপজেলার তোতারখিল আয়েশা উচ্চ বিদ্যালয় মাঠে স্বেচ্ছাসেবী সংগঠন লাইফ লাইন ওয়েল ফেয়ার অর্განიზেশনের আয়োজিত এক সভায় পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি বক্তব্য রাখেন। এ সময় তিনি দেশের সার্বিক উন্নয়ন এবং সমাজে শান্তি বজায় রাখতে রাজনৈতিক ও সামাজিক ঐক্য গড়ে তোলার ওপর গুরুত্বারোপ করেন। অনুষ্ঠানে নারীদের আত্মকর্মসংস্থানের জন্য সেলাই মেশিন বিতরণ করা হয়।",
+        "details_en": "Water Resources Minister Shahiduddin Chowdhury Annie delivered remarks at a meeting organized by the voluntary organization Life Line Welfare Organization at the Totarkhil Ayesha High School ground in Chandraganj. During the event, he emphasized the importance of building political and social unity for national development and maintaining social peace. Sewing machines were also distributed among women for self-employment."
+      }
+    },
+    {
+      "story_id": "806f2196-b460-558c-94dc-35feb1ec4db6",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Gianni-Infantino-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T10:53:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9297,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/afc-fifa-gianni-infantino-sheikh-salman-bin-ibrahim-al-khalifa-lead-sports/",
+          "title": "আবারও সভাপতি নির্বাচনে এশিয়াকে পাশে পাচ্ছেন ইনফান্তিনো",
+          "snippet": "আবারও সভাপতি নির্বাচনে এশিয়াকে পাশে পাচ্ছেন ইনফান্তিনো"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফিফা সভাপতি নির্বাচনে ইনফান্তিনোকে সমর্থন দেবে এশিয়ান ফুটবল কনফেডারেশন",
+        "title_en": "Asian Football Confederation to Support Infantino in FIFA Presidential Election",
+        "summary_bn": "এশিয়ান ফুটবল কনফেডারেশন আসন্ন ফিফা সভাপতি নির্বাচনে জিয়ান্নি ইনফান্তিনোকে সমর্থন করার ঘোষণা দিয়েছে।",
+        "summary_en": "The Asian Football Confederation announced its support for Gianni Infantino in the upcoming FIFA presidential election.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T10:53:45+00:00",
+        "lead_bn": "এশিয়ান ফুটবল কনফেডারেশন আসন্ন ফিফা সভাপতি নির্বাচনে জিয়ান্নি ইনফান্তিনোকে সমর্থন করার ঘোষণা দিয়েছে।",
+        "lead_en": "The Asian Football Confederation announced its support for Gianni Infantino in the upcoming FIFA presidential election.",
+        "bullets_bn": [
+          "এএফসি সভাপতি শেখ সালমান বিন ইব্রাহিম আল খলিফা ইনফান্তিনোর চতুর্থ মেয়াদের প্রার্থিতায় পূর্ণ সমর্থন জানান।",
+          "এএফসির ৪৭টি সদস্য দেশের মধ্যে বেশিরভাগ সদস্য এই সমর্থন প্রক্রিয়ার সঙ্গে একমত পোষণ করেছেন।",
+          "আগামী মার্চে ফিফা সভাপতি নির্বাচন অনুষ্ঠিত হবে এবং প্রার্থীদের মনোনয়ন জমার শেষ তারিখ নির্ধারিত রয়েছে।"
+        ],
+        "bullets_en": [
+          "AFC President Sheikh Salman bin Ebrahim Al Khalifa expressed full support for Infantino's fourth-term candidacy.",
+          "A majority of the 47 member countries within the AFC agreed to back the leadership.",
+          "The FIFA presidential election will take place in March, with the candidate nomination deadline approaching."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে বিশ্বকাপের মালিকানা বিক্রির পরিকল্পনার জেরে উয়েফা এবং এশিয়ান ফুটবল কনফেডারেশনের সাথে ফিফা প্রধান জিয়ান্নি ইনফান্তিনোর দূরত্ব তৈরি হয়েছিল। তীব্র সমালোচনার মুখে ইনফান্তিনো সেই পরিকল্পনা বাতিল করে ক্ষমা চান। পরবর্তীতে জুরিখে দুই পক্ষের মধ্যে সমঝোতা বৈঠকের পর সম্পর্কের বরফ গলতে শুরু করে এবং এএফসি তার প্রতি সমর্থন পুনর্ব্যক্ত করে।",
+        "details_en": "Previously, tension arose between FIFA President Gianni Infantino and regional bodies like UEFA and the AFC over a controversial plan to sell World Cup ownership stakes. Following intense criticism, Infantino dropped the plan and apologized. Subsequent meetings in Zurich helped mend ties, leading the AFC to reaffirm its backing for his leadership."
+      }
+    },
+    {
+      "story_id": "09ed6fed-5b3f-5131-a2b7-15e3b2954150",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Pabna",
+        "#Madrasa"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Pabna%20Map%20The%20Daily%20Star.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-23T10:27:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.0,
+      "rank_score": 0.9081,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/pabna-madrasa-teacher-detained-over-alleged-molestation-attempt-locals-set-institution-fire-4305721",
+          "title": "Pabna madrasa teacher detained over alleged molestation attempt; locals set institution on fire",
+          "snippet": "Pabna madrasa teacher detained over alleged molestation attempt; locals set institution on fire"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাবনায় ছাত্রীকে যৌন নিপীড়নের অভিযোগে মাদরাসা শিক্ষক আটক ও আগুন",
+        "title_en": "Pabna Madrasa Teacher Detained Over Alleged Molestation and Institution Set on Fire",
+        "summary_bn": "পাবনায় এক ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে এক মাদরাসা শিক্ষককে আটক করেছে পুলিশ এবং ক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দিয়েছে।",
+        "summary_en": "Police detained a madrasa teacher in Pabna over an alleged molestation attempt, prompting enraged locals to set the institution on fire.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education",
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:40:07+00:00",
-        "lead_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ তার গ্রামের বাড়িতে পৌঁছানোর পর দাফন সম্পন্ন হয়েছে।",
-        "lead_en": "The body of expatriate Shahed Ahmed Ashik, killed in a missile attack in Saudi Arabia, has reached his village home.",
-        "bullets_bn": [
-          "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ বগুড়ার শাজাহানপুর উপজেলায় পৌঁছায়।",
-          "নিহত শাহেদের বয়স ৩৫ বছর এবং তিনি পরিবারের একমাত্র উপার্জনক্ষম সদস্য ছিলেন।",
-          "পরিবারটির একমাত্র উপার্জনক্ষম ব্যক্তিকে হারানোর ফলে স্ত্রী ও দুই সন্তানের ভবিষ্যৎ অনিশ্চিত হয়ে পড়েছে।"
-        ],
-        "bullets_en": [
-          "The body of expatriate Shahed Ahmed Ashik, killed in a Saudi missile attack, arrived in Boguras Shahjahanpur upazila.",
-          "The victim, Shahed, was 35 years old and served as the sole breadwinner for his family.",
-          "The loss of the primary earner leaves his wife and two children facing an uncertain financial future."
-        ],
-        "impact_bn": "পরিবারের একমাত্র উপার্জনক্ষম সদস্যের আকস্মিক মৃত্যুতে তার dependents দের জীবন মারাত্মক আর্থিক অনিশ্চয়তার মুখে পড়েছে।",
-        "impact_en": "The sudden loss of the primary breadwinner plunges his dependents into severe financial uncertainty.",
-        "details_bn": "সৌদি আরবে চলমান নিরাপত্তা ঝুঁকিপূর্ণ পরিস্থিতির মধ্যে ক্ষেপণাস্ত্র হামলায় নিহত হন প্রবাসী শ্রমিক শাহেদ আহমেদ আশিক। দীর্ঘ প্রক্রিয়া শেষে তার মরদেহ দেশে ফিরিয়ে আনা হয়। প্রবাসীদের নিরাপত্তা নিশ্চিতকরণ এবং মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে কর্মরত বাংলাদেশিদের সুরক্ষার বিষয়টি আবারও সামনে এসেছে।",
-        "details_en": "Expatriate worker Shahed Ahmed Ashik was killed in a missile attack amid security risks in Saudi Arabia. His body was repatriated following necessary official procedures. The incident once again highlights the urgent need to ensure the safety and security of Bangladeshi workers employed in volatile Middle Eastern regions."
-      }
-    },
-    {
-      "story_id": "42bc5516-bbcc-5062-b7fb-ea071ccc3bc3",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T09:32:48+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4805,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171148",
-          "title": "গ্রামে পৌঁছাল হুথিদের ক্ষেপণাস্ত্র হামলায় সৌদিতে নিহত সাহেদের মরদেহ",
-          "snippet": "গ্রামে পৌঁছাল হুথিদের ক্ষেপণাস্ত্র হামলায় সৌদিতে নিহত সাহেদের মরদেহ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুথি হামলায় নিহত বাংলাদেশি সাহেদের মরদেহ দেশে পৌঁছেছে",
-        "title_en": "Body of Bangladeshi Shahed Killed in Houthi Attack Arrives Home",
-        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি নাগরিক সাহেদ আহমেদ আশিকের মরদেহ দেশে পৌঁছানোর পর পরিবারের কাছে হস্তান্তর করা হয়েছে।",
-        "summary_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, who was killed in a Houthi rebel missile strike in Saudi Arabia, has arrived home.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:32:48+00:00",
-        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি নাগরিক সাহেদ আহমেদ আশিকের মরদেহ দেশে পৌঁছানোর পর পরিবারের কাছে হস্তান্তর করা হয়েছে।",
-        "lead_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, who was killed in a Houthi rebel missile strike in Saudi Arabia, has arrived home.",
-        "bullets_bn": [
-          "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত হন ৩৫ বছর বয়সী সাহেদ আহমেদ আশিক",
-          "নিহতের মরদেহ দেশে পৌঁছানোর পর হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে আনুষ্ঠানিকতা সম্পন্ন হয়",
-          "মরদেহ গ্রামের বাড়িতে নিয়ে দাফনের ব্যবস্থা করেছে স্থানীয় প্রশাসন ও পরিবার"
-        ],
-        "bullets_en": [
-          "Thirty-five-year-old expatriate Shahed Ahmed Ashik died in a Houthi rebel missile attack in Saudi Arabia.",
-          "His mortal remains arrived at Hazrat Shahjalal International Airport where administrative formalities were completed.",
-          "The body was subsequently transported to his native village for burial arrangements by his family."
-        ],
-        "impact_bn": "প্রবাসীদের নিরাপত্তা এবং মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে কর্মরত বাংলাদেশিদের সুরক্ষার বিষয়টি নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The incident raises renewed concerns regarding the safety and security of Bangladeshi expatriates working in conflict-prone Middle Eastern regions.",
-        "details_bn": "সৌদি আরবে দীর্ঘদিন ধরে কাজ করছিলেন সাহেদ আহমেদ আশিক। ইয়েমেনের হুথি বিদ্রোহীদের ছোঁড়া ক্ষেপণাস্ত্র হামলায় তিনি প্রাণ হারান। মধ্যপ্রাচ্যের বিভিন্ন দেশে কর্মরত প্রবাসী বাংলাদেশিদের নিরাপত্তা নিশ্চিত করার দাবি দীর্ঘদিন ধরে জোরালো হয়ে আসছে। এই মৃত্যুর ঘটনায় তার গ্রামের বাড়িতে শোকের ছায়া নেমে এসেছে এবং পরিবার সরকারের পক্ষ থেকে সহায়তা কামনা করেছে।",
-        "details_en": "Shahed Ahmed Ashik had been working in Saudi Arabia for a long time before losing his life in a missile strike launched by Yemen's Houthi rebels. The incident highlights the ongoing security risks faced by migrant workers in the region, drawing widespread sympathy and calls for enhanced protection of expatriates."
-      }
-    },
-    {
-      "story_id": "0b966df4-a2d8-56d1-be3b-a1d7e7e119e6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled-10-2.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T09:14:36+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2736,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/netanyahus-convoy-attacked-while-en-route-to-a-birthday-celebration/",
-          "title": "জন্মদিন উদযাপনে যাওয়ার পথে নেতানিয়াহুর গাড়িবহরে হামলা",
-          "snippet": "জন্মদিন উদযাপনে যাওয়ার পথে নেতানিয়াহুর গাড়িবহরে হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলের প্রধানমন্ত্রী নেতানিয়াহুর গাড়িবহরে হামলা ও বোতল নিক্ষেপ",
-        "title_en": "Glass Bottle Thrown at Israeli Prime Minister Benjamin Netanyahu Convoy",
-        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ৭৭তম জন্মদিন উদযাপনের যাত্রাপথে জেরুজালেমে তার গাড়িবহর লক্ষ্য করে একটি কাঁচের বোতল নিক্ষেপ করা হয়েছে।",
-        "summary_en": "A glass bottle was thrown at Israeli Prime Minister Benjamin Netanyahu convoy in Jerusalem during his birthday travel.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:14:36+00:00",
-        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ৭৭তম জন্মদিন উদযাপনের যাত্রাপথে জেরুজালেমে তার গাড়িবহর লক্ষ্য করে একটি কাঁচের বোতল নিক্ষেপ করা হয়েছে।",
-        "lead_en": "A glass bottle was thrown at Israeli Prime Minister Benjamin Netanyahu convoy in Jerusalem during his birthday travel.",
+        "published_at": "2026-10-23T10:27:45+00:00",
+        "lead_bn": "পাবনায় এক ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে এক মাদরাসা শিক্ষককে আটক করেছে পুলিশ এবং ক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দিয়েছে।",
+        "lead_en": "Police detained a madrasa teacher in Pabna over an alleged molestation attempt, prompting enraged locals to set the institution on fire.",
         "bullets_bn": [
-          "জেরুজালেমের মাহানে ইহুদা বাজারের কাছে ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহরে কাঁচের বোতল নিক্ষেপ করা হয়।",
-          "তেল আবিবের হাতিকভা বাজারে সফরকালে ৭ অক্টোবরের হামলায় জিম্মি ও নিহতদের পরিবারের সদস্যরা নেতানিয়াহুর পদত্যাগ দাবি করেন।",
-          "নিরাপত্তা রক্ষীরা তাৎক্ষণিকভাবে ব্যারিকেড ডিঙিয়ে অভিযুক্ত ব্যক্তিকে আটক করার চেষ্টা চালালেও গাড়ি বহরটি না থেমে চলে যায়।"
+          "পুলিশের সহায়তায় অভিযুক্ত শিক্ষক মো. আবু ইউসুফ প্রামাণিককে আটক করে হেফাজতে নেওয়া হয়।",
+          "ঘটনার পর মাদরাসার আবাসিক ৩০ জনসহ মোট ৬০ জন শিক্ষার্থীকে উদ্ধার করে অভিভাবকদের কাছে হস্তান্তর করা হয়।",
+          "পরিস্থিতি নিয়ন্ত্রণে আসার পর ক্ষুব্ধ জনতা মাদরাসা ভবনে ভাঙচুর চালিয়ে অগ্নিসংযোগ করে।"
         ],
         "bullets_en": [
-          "A glass bottle was hurled at the motorcade of Israeli Prime Minister Benjamin Netanyahu near Jerusalem's Mahane Yehuda market.",
-          "Families of October 7 victims and hostages confronted Netanyahu during his market visit, demanding his immediate resignation over security failures.",
-          "Security guards immediately attempted to cross barricades to apprehend the suspect while the motorcade continued moving without stopping."
+          "Police intervened and took accused teacher Md Abu Eusuf Pramanik into custody following public outrage.",
+          "Authorities rescued all 60 students, including 30 residential students, and safely handed them over to parents.",
+          "Outraged locals subsequently vandalised the madrasa building and set it on fire following the incident."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অক্টোবরের হামলার পর থেকেই গাজায় জিম্মি থাকা ব্যক্তিদের উদ্ধার ও সরকারের ব্যর্থতার দায় নিয়ে ইসরায়েলে তীব্র বিক্ষোভ চলছে। হামাস ও ইসরায়েল সংঘাতে দেশটির সাধারণ নাগরিক ও জিম্মি পরিবারগুলোর মধ্যে ক্ষোভ দিন দিন বাড়ছে। সাম্প্রতিক এই সফরেও নেতানিয়াহু সাধারণ জনগণ ও জিম্মি পরিবারের তীব্র প্রতিবাদের মুখোমুখি হন, যা তার প্রশাসনের ওপর রাজনৈতিক চাপ আরও বাড়িয়ে দিয়েছে।",
-        "details_en": "Protests have surged across Israel following the October 7 attacks, with citizens and families of hostages criticizing the government's failure to secure their release. Public frustration has intensified as hostage families openly demand Prime Minister Benjamin Netanyahu's resignation and accountability for security lapses."
-      }
-    },
-    {
-      "story_id": "25b50816-b26c-5b67-a75b-b8c5f4ae039f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T09:14:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2731,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171143",
-          "title": "চট্টগ্রামে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৭৮৬",
-          "snippet": "চট্টগ্রামে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৭৮৬"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রামে অপরাধ ও কিশোর গ্যাংবিরোধী বিশেষ অভিযানে আটক ৭৮৬",
-        "title_en": "Law Enforcement Arrests 786 in Special Anti-Crime Drive in Chattogram",
-        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী চট্টগ্রামজুড়ে বিশেষ অভিযান পরিচালনা করে ছিনতাই, চাঁদাবাজি ও মাদকবিরোধী কার্যক্রমে জড়িত ৭৮৬ জনকে গ্রেফতার করেছে।",
-        "summary_en": "Law enforcement agencies arrested 786 individuals in a special crackdown across Chattogram targeting mugging, extortion, and drug-related crimes.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:14:33+00:00",
-        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী চট্টগ্রামজুড়ে বিশেষ অভিযান পরিচালনা করে ছিনতাই, চাঁদাবাজি ও মাদকবিরোধী কার্যক্রমে জড়িত ৭৮৬ জনকে গ্রেফতার করেছে।",
-        "lead_en": "Law enforcement agencies arrested 786 individuals in a special crackdown across Chattogram targeting mugging, extortion, and drug-related crimes.",
-        "bullets_bn": [
-          "চট্টগ্রামে অপরাধ দমন ও আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে বিশেষ অভিযান পরিচালনা করে আইনশৃঙ্খলা বাহিনী।",
-          "অভিযানে ছিনতাই, চাঁদাবাজি, সন্ত্রাসী কার্যক্রম ও মাদক ব্যবসার সাথে জড়িত মোট ৭৮৬ জনকে গ্রেফতার করা হয়।",
-          "নগরীতে অপরাধ প্রবণতা কমাতে এবং জননিরাপত্তা নিশ্চিত করতে এই ধরনের বিশেষ অভিযান অব্যাহত থাকবে।"
-        ],
-        "bullets_en": [
-          "Law enforcement launched a coordinated special operation to curb crime and maintain public security in Chattogram.",
-          "A total of 786 individuals involved in mugging, extortion, terrorist activities, and drug peddling were arrested during the drive.",
-          "Authorities announced that such targeted anti-crime operations will continue to reduce criminal activities across the city."
-        ],
-        "impact_bn": "সাধারণ নাগরিক ও শিক্ষার্থীরা নিরাপদ ও নির্বিঘ্নে চলাচল করতে পারবে এবং ছিনতাইয়ের আতঙ্ক কিছুটা কমবে।",
-        "impact_en": "Ordinary citizens and commuters will experience enhanced security and reduced fear of muggings in public spaces.",
-        "details_bn": "সাম্প্রতিক সময়ে বন্দরনগরী চট্টগ্রামে কিশোর গ্যাংয়ের দৌরাত্ম্য, ছিনতাই এবং চাঁদাবাজি বেড়ে যাওয়ায় সাধারণ মানুষের মধ্যে উদ্বেগ তৈরি হয়। এই পরিস্থিতি নিয়ন্ত্রণে পুলিশ ও অন্যান্য আইনশৃঙ্খলা রক্ষাকারী বাহিনী যৌথভাবে বিভিন্ন অপরাধপ্রবণ এলাকায় চিরুনি অভিযান পরিচালনা করে আসছে। অপরাধীদের আইনের আওতায় এনে নগরীর আইনশৃঙ্খলার অবনতি রোধ করতে এই ধরনের ধারাবাহিক ও সাঁড়াশি অভিযান পরিচালনা করা হচ্ছে।",
-        "details_en": "Rising incidents of juvenile delinquency, mugging, and extortion in the port city recently sparked public concern. To restore order, law enforcement agencies intensified coordinated crackdowns across crime-prone neighborhoods, aiming to curb underworld activities and ensure public safety."
+        "impact_bn": "শিক্ষাপ্রতিষ্ঠানে শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করা এবং আবাসিক মাদরাসাগুলোতে কঠোর নজরদারির প্রয়োজনীয়তা পুনরায় সামনে এসেছে।",
+        "impact_en": "The incident underscores the urgent need for enhanced student safety and strict oversight in residential educational institutions.",
+        "details_bn": "পাবনা সদর উপজেলার ভারারা ইউনিয়নের একটি আবাসিক মাদরাসায় এই ঘটনা ঘটে। অভিযুক্ত শিক্ষক গত পাঁচ বছর ধরে সেখানে কর্মরত ছিলেন। এক ছাত্রী যৌন নিপীড়নের চেষ্টা প্রতিহত করে বিষয়টি স্থানীয়দের জানালে উত্তেজনার সৃষ্টি হয়। পরে পুলিশ ঘটনাস্থলে গিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং আবাসিক শিক্ষার্থীদের অভিভাবকদের জিম্মায় দেয়।",
+        "details_en": "The incident occurred at a residential madrasa in Pabna Sadar upazila where the accused teacher had been working for five years. After a student escaped an alleged molestation attempt and alerted locals, a crowd gathered, prompting a police response to rescue the teacher and students before the building was torched."
       }
     }
   ]
