@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T06:00:48.278265",
+  "updated_at": "2026-10-23T07:00:56.645992",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "b7695459-40a1-5e00-901d-8ff66b1aa2f5",
+      "story_id": "f427d923-adef-5f2f-a760-d58d1fa0d345",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -14,158 +14,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T05:31:04+00:00",
+      "published_at": "2026-10-23T06:59:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4596,
+      "rank_score": 1.9125,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171095",
-          "title": "সৌদি আরবে আটকা পড়েছেন ৪ হাজার ভারতীয় ওমরাহযাত্রী",
-          "snippet": "সৌদি আরবে আটকা পড়েছেন ৪ হাজার ভারতীয় ওমরাহযাত্রী"
+          "url": "https://www.jagonews24.com/national/news/1171116",
+          "title": "সৌদির বিমানবন্দরে হামলায় নিহত শাহেদের মরদেহ ঢাকায় পৌঁছেছে",
+          "snippet": "সৌদির বিমানবন্দরে হামলায় নিহত শাহেদের মরদেহ ঢাকায় পৌঁছেছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে আটকা পড়েছেন চার হাজার ভারতীয় ওমরাহযাত্রী",
-        "title_en": "Four Thousand Indian Umrah Pilgrims Stranded in Saudi Arabia",
-        "summary_bn": "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় প্রায় চার হাজার ভারতীয় ওমরাহযাত্রীর দেশে ফেরা অনিশ্চিত হয়ে পড়েছে।",
-        "summary_en": "Flight disruptions have made the return uncertain for approximately four thousand Indian Umrah pilgrims stranded in Mecca and Medina.",
+        "title_bn": "সৌদির বিমানবন্দরে হুথি হামলায় নিহত বাংলাদেশি শাহেদের মরদেহ ঢাকায় পৌঁছেছে",
+        "title_en": "Body of Bangladeshi Shahed Killed in Saudi Airport Attack Arrives in Dhaka",
+        "summary_bn": "সৌদি আরবের রিয়াদে কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহী হামলায় নিহত বাংলাদেশি নাগরিক শাহেদ আহমেদ আশিকের মরদেহ ঢাকায় এসে পৌঁছেছে।",
+        "summary_en": "The body of Bangladeshi national Shahed Ahmed Ashik, who was killed in a Houthi rebel attack at Riyadh's King Khalid International Airport, has arrived in Dhaka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:31:04+00:00",
-        "lead_bn": "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় প্রায় চার হাজার ভারতীয় ওমরাহযাত্রীর দেশে ফেরা অনিশ্চিত হয়ে পড়েছে।",
-        "lead_en": "Flight disruptions have made the return uncertain for approximately four thousand Indian Umrah pilgrims stranded in Mecca and Medina.",
+        "published_at": "2026-10-23T06:59:21+00:00",
+        "lead_bn": "সৌদি আরবের রিয়াদে কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহী হামলায় নিহত বাংলাদেশি নাগরিক শাহেদ আহমেদ আশিকের মরদেহ ঢাকায় এসে পৌঁছেছে।",
+        "lead_en": "The body of Bangladeshi national Shahed Ahmed Ashik, who was killed in a Houthi rebel attack at Riyadh's King Khalid International Airport, has arrived in Dhaka.",
         "bullets_bn": [
-          "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় ওমরাহযাত্রীরা আটকা পড়েন।",
-          "প্রায় চার হাজার ভারতীয় নাগরিক বর্তমানে দেশে ফেরার অপেক্ষায় অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন।",
-          "সংশ্লিষ্ট কর্তৃপক্ষ ফ্লাইট চলাচল স্বাভাবিক করার এবং যাত্রীদের নিরাপদে দেশে ফেরানোর উদ্যোগ নিয়েছে।"
+          "রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় নিহত দুই বাংলাদেশির একজন ছিলেন শাহেদ আহমেদ আশিক।",
+          "সৌদি আরব থেকে বিমানযোগে শাহেদের মরদেহ ঢাকায় আনার পর আনুষ্ঠানিকতা সম্পন্ন করে পরিবারের কাছে হস্তান্তর করা হয়েছে।",
+          "নিহতের পরিবারকে যথাযথ সরকারি সহায়তা প্রদানে প্রবাসী কল্যাণ মন্ত্রণালয় কাজ করছে।"
         ],
         "bullets_en": [
-          "Umrah pilgrims got stranded in Mecca and Medina due to sudden flight operation disruptions.",
-          "Nearly four thousand Indian nationals are currently facing uncertainty while waiting to return home.",
-          "Relevant authorities have initiated efforts to normalize flight schedules and safely repatriate the passengers."
+          "Shahed Ahmed Ashik was one of two Bangladeshis killed in the Houthi rebel drone attack at Riyadh's King Khalid International Airport.",
+          "His remains were flown back to Dhaka from Saudi Arabia and handed over to his grieving family following official procedures.",
+          "The Expatriates' Welfare Ministry is coordinating support and compensation processes for the victim's family."
         ],
-        "impact_bn": "আটকা পড়া তীর্থযাত্রীদের পরিবার চরম উৎকণ্ঠায় রয়েছে এবং তাদের অতিরিক্ত খরচের মুখোমুখি হতে হচ্ছে।",
-        "impact_en": "Families of the stranded pilgrims face severe anxiety and unexpected financial burdens.",
-        "details_bn": "সাম্প্রতিক সময়ে মধ্যপ্রাচ্যের বিভিন্ন রুটে বিমান চলাচলে নানা জটিলতা দেখা দেওয়ায় যাত্রীদের যাতায়াত ব্যাহত হচ্ছে। ওমরাহ পালন শেষে দেশে ফেরার জন্য বিমানবন্দরে পৌঁছানোর পর ফ্লাইট বাতিলের কবলে পড়েন এই ভারতীয় নাগরিকরা। কূটনৈতিক পর্যায়ে যোগাযোগের মাধ্যমে দ্রুত এই সমস্যার সমাধানের চেষ্টা চলছে।",
-        "details_en": "Recent disruptions in flight operations across various Middle Eastern routes have severely impacted passenger transit. These Indian nationals faced flight cancellations upon arriving at airports after completing their Umrah pilgrimage. Diplomatic channels are currently working to resolve the issue swiftly."
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি শ্রমিকদের নিরাপত্তা ও তাদের পরিবারের সুরক্ষা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The incident raises renewed security concerns for migrant workers in the Middle East and highlights the vulnerabilities of expatriates in conflict zones.",
+        "details_bn": "সৌদি আরবের রিয়াদে অবস্থিত কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের ড্রোন বা ক্ষেপণাস্ত্র হামলায় বেশ কয়েকজন বিদেশি নাগরিক হতাহত হন। ওই হামলায় নিহত ১৩ জনের মধ্যে দুই বাংলাদেশি ছিলেন। এই ঘটনার পর মধ্যপ্রাচ্যের বিভিন্ন সংঘাতপূর্ণ এলাকায় কর্মরত প্রবাসী বাংলাদেশিদের নিরাপত্তা নিশ্চিত করার জোরালো দাবি ওঠে। প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় নিহতদের মরদেহ দেশে ফিরিয়ে আনা এবং ক্ষতিগ্রস্ত পরিবারগুলোকে ক্ষতিপূরণ দেওয়ার প্রক্রিয়া তদারকি করে আসছে।",
+        "details_en": "Several foreign nationals were casualties when Houthi rebels launched attacks targeting Riyadh's King Khalid International Airport, resulting in thirteen deaths, including two Bangladeshis. The tragedy intensified concerns regarding the safety of millions of expatriate workers residing in the Middle East. The Ministry of Expatriates' Welfare and Overseas Employment has been actively coordinating the repatriation of deceased workers and ensuring due compensation for their families."
       }
     },
     {
-      "story_id": "8dd2d671-f568-568f-b4c1-1d55afcbc3f9",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fl9xiwjip%2FWhatsApp-Image-2026-10-23-at-10.45.26-AM.jpeg?rect=0%2C120%2C1067%2C560&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T05:19:56+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3298,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/19lh1aoxhs",
-          "title": "মাদক কারবারিকে আটক করে থানায় ফিরছিলেন, কাভার্ড ভ্যানের চাপায় এসআইসহ নিহত ২",
-          "snippet": "মাদক কারবারিকে আটক করে থানায় ফিরছিলেন, কাভার্ড ভ্যানের চাপায় এসআইসহ নিহত ২"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গাজীপুরে কাভার্ড ভ্যানের চাপায় পুলিশ কর্মকর্তা ও স্থানীয় বিএনপিনেতা নিহত",
-        "title_en": "Police Officer and Local BNP Leader Killed in Gazipur Covered Van Crash",
-        "summary_bn": "গাজীপুরে মাদক কারবারিকে আটকের পর থানায় ফেরার পথে কাভার্ড ভ্যানের চাপায় এক পুলিশ উপপরিদর্শকসহ দুজন নিহত হয়েছেন।",
-        "summary_en": "A police sub-inspector and another person were killed when a covered van struck them while returning from a drug raid in Gazipur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:19:56+00:00",
-        "lead_bn": "গাজীপুরে মাদক কারবারিকে আটকের পর থানায় ফেরার পথে কাভার্ড ভ্যানের চাপায় এক পুলিশ উপপরিদর্শকসহ দুজন নিহত হয়েছেন।",
-        "lead_en": "A police sub-inspector and another person were killed when a covered van struck them while returning from a drug raid in Gazipur.",
-        "bullets_bn": [
-          "মাদক কারবারিকে আটক করে থানায় ফেরার পথে কালীগঞ্জ সরকারি শ্রমিক কলেজের সামনে একটি কাভার্ড ভ্যান পুলিশের দলটিকে চাপা দেয়।",
-          "নিহতরা হলেন কালীগঞ্জ থানার উপপরিদর্শক মিজানুর রহমান ও তুমুলিয়া ইউনিয়ন বিএনপির সাংগঠনিক সম্পাদক রফিক মোল্লা।",
-          "দুর্ঘটনায় গুরুতর আহত আরেক পুলিশ কর্মকর্তা ঢাকায় চিকিৎসাধীন আছেন এবং ঘাতক গাড়িটিকে শনাক্তের চেষ্টা চলছে।"
-        ],
-        "bullets_en": [
-          "A covered van struck a police team in front of Kaliganj Government Workers College while they were returning with a detained drug dealer.",
-          "The victims are Kaliganj Police Station Sub-Inspector Mizanur Rahman and local BNP leader Rafiq Mollah.",
-          "Another injured police officer is undergoing treatment in Dhaka while efforts are underway to identify the fleeing vehicle."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গাজীপুরের কালীগঞ্জে মাদক কারবারি আহিদ মিয়াকে আটকের পর থানায় ফেরার পথে এই দুর্ঘটনা ঘটে। পুলিশ কর্মকর্তারা স্থানীয় এক রাজনৈতিক নেতার সঙ্গে কথা বলার সময় একটি ঘোড়াশালমুখী কাভার্ড ভ্যান তাদের চাপা দেয়। এতে ঘটনাস্থলে ও হাসপাতালে নেওয়ার পর দুইজনের মৃত্যু হয়। পুলিশ ঘাতক গাড়িটি শনাক্ত ও আইনি ব্যবস্থা নিতে কাজ করছে।",
-        "details_en": "The incident occurred in Kaliganj, Gazipur, while police were returning with a detained drug suspect named Ahid Mia. The officers were conversing with a local political leader when a speeding covered van crushed them. Two individuals succumbed to their injuries, while law enforcement authorities are actively attempting to trace the vehicle responsible for the collision."
-      }
-    },
-    {
-      "story_id": "92fe2176-2ea2-54c9-9cfd-765037e16616",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T06:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9645,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/columns/976130/%E0%A6%97%E0%A7%83%E0%A6%B9%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%C2%A0",
-          "title": "গৃহকর্মীর শ্রম আছে, স্বীকৃতি আছে কি?",
-          "snippet": "গৃহকর্মীর শ্রম আছে, স্বীকৃতি আছে কি?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গৃহকর্মীদের শ্রমের সামাজিক স্বীকৃতি ও সুরক্ষার দাবি জোরালো হচ্ছে",
-        "title_en": "Demand for Social Recognition and Protection of Domestic Workers Grows",
-        "summary_bn": "পেশাগত স্বীকৃতি ও আইনি সুরক্ষার অভাবে গৃহকর্মীরা প্রতিনিয়ত বঞ্চিত হচ্ছেন তাদের ন্যায্য অধিকার ও মর্যাদা থেকে।",
-        "summary_en": "Domestic workers are routinely deprived of their fair rights and dignity due to a lack of professional recognition and legal protection.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:00:00+00:00",
-        "lead_bn": "পেশাগত স্বীকৃতি ও আইনি সুরক্ষার অভাবে গৃহকর্মীরা প্রতিনিয়ত বঞ্চিত হচ্ছেন তাদের ন্যায্য অধিকার ও মর্যাদা থেকে।",
-        "lead_en": "Domestic workers are routinely deprived of their fair rights and dignity due to a lack of professional recognition and legal protection.",
-        "bullets_bn": [
-          "গৃহকর্মীদের শ্রমকে প্রাতিষ্ঠানিক স্বীকৃতি ও আইনি সুরক্ষার আওতায় আনার দাবি জানিয়েছেন বিশেষজ্ঞরা",
-          "পেশাগত নিরাপত্তা না থাকায় কর্মরত নারীরা পারিবারিক ও কর্মক্ষেত্রে নানা বৈষম্যের শিকার হচ্ছেন",
-          "গৃহকর্মী সুরক্ষায় সুনির্দিষ্ট নীতিমালা প্রণয়ন এবং সঠিক বাস্তবায়নের ওপর গুরুত্বারোপ করা হয়েছে"
-        ],
-        "bullets_en": [
-          "Experts emphasize bringing domestic labor under institutional recognition and legal protection frameworks.",
-          "Working women face various forms of discrimination due to a lack of professional security.",
-          "Emphasis has been placed on formulating and properly implementing specific policies for domestic workers."
-        ],
-        "impact_bn": "গৃহকর্মীদের আইনি সুরক্ষা নিশ্চিত হলে তাদের জীবনযাত্রার মান উন্নত হবে এবং সমাজে বৈষম্য কমবে।",
-        "impact_en": "Ensuring legal protection for domestic workers will improve their living standards and reduce societal inequality.",
-        "details_bn": "শহুরে মধ্যবিত্ত ও উচ্চবিত্ত পরিবারগুলোতে কর্মজীবী নারীদের সংখ্যা বৃদ্ধির সাথে সাথে গৃহকর্মীদের ওপর নির্ভরতা বহুগুণ বেড়েছে। চিকিৎসাকেন্দ্র থেকে শুরু করে করপোরেট অফিস সামলানো মায়েদের ক্ষেত্রে গৃহকর্মীরা ছায়াসঙ্গীর মতো কাজ করলেও তাদের এই শ্রমের কোনো প্রাতিষ্ঠানিক মূল্যায়ন বা আইনি সুরক্ষা নেই। ফলে কর্মঘণ্টা অনির্ধারিত থাকা এবং ন্যায্য মজুরি না পাওয়ার মতো সমস্যা নিত্যদিনের ঘটনা হয়ে দাঁড়িয়েছে।",
-        "details_en": "With the rise of working women in urban middle and upper-class families, reliance on domestic workers has multiplied significantly. Although domestic workers act as vital support for mothers managing medical practices and corporate offices, their labor lacks institutional evaluation or legal protection. Consequently, issues such as undefined working hours and unpaid wages have become everyday occurrences."
-      }
-    },
-    {
-      "story_id": "d1685459-024c-5641-baa1-7427b84587ad",
+      "story_id": "02707e62-ed09-5bfe-a9e2-5c79bc4b12e6",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -175,25 +67,25 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/diljit-dosanjh-film-1.webp?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T05:59:37+00:00",
+      "published_at": "2026-10-23T06:44:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9605,
+      "importance_score": 4.8,
+      "rank_score": 1.6405,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/entertainment/news/1171104",
-          "title": "তিন লাক্স সুন্দরীর অভিনয়ে অভিষেক, মুক্তি পাচ্ছে ‘ক্যাফে আমব্রেলা’",
-          "snippet": "তিন লাক্স সুন্দরীর অভিনয়ে অভিষেক, মুক্তি পাচ্ছে ‘ক্যাফে আমব্রেলা’"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/delhi-police-denied-permission-for-diljit-dosanjhs-concert/",
+          "title": "দিল্লিতে দিলজিতের কনসার্ট আটকালো পুলিশ",
+          "snippet": "দিল্লিতে দিলজিতের কনসার্ট আটকালো পুলিশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লাক্স সুন্দরীদের অভিনয়ে নতুন ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে",
-        "title_en": "New Web Film Cafe Umbrella Starring Lux Stars Set for Release",
-        "summary_bn": "লাক্স সুপারস্টার প্রতিযোগিতার তিন নতুন মুখকে নিয়ে নির্মিত ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে আগামী ২৯ অক্টোবর।",
-        "summary_en": "The new web film Cafe Umbrella starring three fresh faces from the Lux Superstar competition releases on October 29.",
+        "title_bn": "দিল্লিতে দিলজিত দোসাঞ্জের কনসার্টের অনুমতি বাতিল করল পুলিশ",
+        "title_en": "Delhi Police Denies Permission for Diljit Dosanjh Concert",
+        "summary_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
+        "summary_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -201,137 +93,242 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:59:37+00:00",
-        "lead_bn": "লাক্স সুপারস্টার প্রতিযোগিতার তিন নতুন মুখকে নিয়ে নির্মিত ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে আগামী ২৯ অক্টোবর।",
-        "lead_en": "The new web film Cafe Umbrella starring three fresh faces from the Lux Superstar competition releases on October 29.",
+        "published_at": "2026-10-23T06:44:06+00:00",
+        "lead_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
+        "lead_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
         "bullets_bn": [
-          "লাক্স সুপারস্টার প্রতিযোগিতা থেকে আসা তিন নতুন অভিনেত্রী এই ওয়েব ফিল্মে অভিনয়ের মাধ্যমে আত্মপ্রকাশ করছেন।",
-          "আসন্ন ২৯ অক্টোবর ওটিটি প্ল্যাটফর্মে ওয়েব ফিল্মটি মুক্তি পাওয়ার কথা রয়েছে।",
-          "নতুন এই শিল্পীদের অভিনয় ও সামগ্রিক নির্মাণ দর্শকদের মাঝে নতুন আগ্রহ তৈরি করেছে।"
+          "নিরাপত্তা ও উৎসবের মৌসুমের বাড়তি দায়িত্বের কারণ দেখিয়ে কনসার্টের অনুমতি বাতিল করেছে দিল্লি পুলিশ",
+          "এই কনসার্টের মাধ্যমে ভারতে দিলজিতের অরা ওয়ার্ল্ড ট্যুর শুরু হওয়ার কথা ছিল",
+          "দিল্লির কনসার্ট স্থগিত হওয়ায় পুরো ভারত সফরের সূচি ও পরবর্তী আয়োজন নিয়ে অনিশ্চয়তা তৈরি হয়েছে"
         ],
         "bullets_en": [
-          "Three new actresses emerging from the Lux Superstar contest make their acting debut in this web film.",
-          "The web film is scheduled for release on an OTT platform on October 29.",
-          "The performances of the fresh artists and overall production have generated new interest among audiences."
+          "Delhi Police cancelled the concert permission citing security concerns and festival season duties",
+          "The cancelled event was scheduled to launch Diljit Dosanjh's Aura World Tour in India",
+          "The cancellation creates uncertainty over the singer's upcoming tour schedule across Indian cities"
         ],
-        "impact_bn": "তরুণ দর্শকরা দেশীয় ওটিটি প্ল্যাটফর্মে নতুন মুখের অভিনয় দেখতে পাবে।",
-        "impact_en": "Young audiences will get to experience performances by fresh faces on domestic OTT platforms.",
-        "details_bn": "লাক্স সুপারস্টার প্রতিযোগিতার মাধ্যমে শোবিজ অঙ্গনে প্রবেশ করা নতুন তারকাদের নিয়ে ওটিটি প্ল্যাটফর্মের জন্য বিভিন্ন কাজ নির্মিত হচ্ছে। এরই ধারাবাহিকতায় তরুণ প্রজন্মের অভিনয়শিল্পীদের নিয়ে নির্মিত হয়েছে ওয়েব ফিল্ম ক্যাফে আমব্রেলা। এর মাধ্যমে এই প্রতিযোগিতার তিন নতুন মুখ প্রথমবারের মতো অভিনয়ে পা রাখছেন, যা দেশের বিনোদন অঙ্গনে নতুন প্রতিভার বিকাশ ঘটাবে।",
-        "details_en": "Various projects are being produced for OTT platforms featuring new stars who entered the showbiz arena through the Lux Superstar contest. Continuing this trend, the web film Cafe Umbrella has been created with young generation actors. Through this, three new faces from the competition are stepping into acting for the first time, fostering the development of new talent in the country's entertainment sector."
+        "impact_bn": "এই সিদ্ধান্তের ফলে ভারতের সংগীতপ্রেমী ও অনুরাগীদের মাঝে তীব্র হতাশার সৃষ্টি হয়েছে।",
+        "impact_en": "The cancellation has sparked disappointment among music enthusiasts and fans awaiting the tour.",
+        "details_bn": "পাঞ্জাবি গায়ক ও অভিনেতা দিলজিৎ দোসাঞ্জের অরা ওয়ার্ল্ড ট্যুরের অংশ হিসেবে ৩০ অক্টোবর দিল্লির জওহরলাল নেহরু স্টেডিয়ামে কনসার্টটি হওয়ার কথা ছিল। দিল্লির পর ইন্দোর, আহমেদাবাদ, মুম্বাই ও বেঙ্গালুরুসহ বেশ কয়েকটি শহরে তার পারফর্ম করার পরিকল্পনা রয়েছে। বিশ্বজুড়ে সফলভাবে কনসার্ট শেষ করলেও ভারতের এই সূচনা পর্বে অনুমতি না মেলায় সামগ্রিক আয়োজন নিয়ে প্রশ্ন দেখা দিয়েছে।",
+        "details_en": "Punjabi singer and actor Diljit Dosanjh was scheduled to perform at Delhi's Jawaharlal Nehru Stadium as part of his Aura World Tour. The tour includes subsequent stops in Indore, Ahmedabad, Mumbai, and Bengaluru. While the artist has successfully performed across North America, Europe, and Australia, the setback in Delhi creates logistical uncertainty for the rest of the Indian leg."
       }
     },
     {
-      "story_id": "fe488ff1-15b1-5f49-b0a7-155a040a9ff9",
+      "story_id": "5ccdf69c-767f-5c66-9ef2-8d737e1dfe60",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "governance_law",
         "society_education"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T05:53:07+00:00",
+      "published_at": "2026-10-23T06:27:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8975,
+      "importance_score": 4.8,
+      "rank_score": 1.4159,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976193/%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4",
-          "title": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত",
-          "snippet": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-body-of-the-bangladeshi-national-killed-in-an-attack-at-a-saudi-airport-has-arrived-in-the-country/",
+          "title": "দেশে পৌঁছেছে সৌদি বিমানবন্দরে হামলায় নিহত বাংলাদেশির মরদেহ",
+          "snippet": "দেশে পৌঁছেছে সৌদি বিমানবন্দরে হামলায় নিহত বাংলাদেশির মরদেহ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত পাঠিয়েছে বিভিন্ন দেশ",
-        "title_en": "Europe Returns Thirty-Five Bangladeshi Nationals",
-        "summary_bn": "ইতালি, গ্রিস ও সাইপ্রাস থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৩৫ বাংলাদেশি নাগরিক।",
-        "summary_en": "Thirty-five Bangladeshi nationals returned home on a special flight from Italy, Greece, and Cyprus.",
+        "title_bn": "সৌদি বিমানবন্দর হামলায় নিহত বাংলাদেশির মরদেহ দেশে পৌঁছেছে",
+        "title_en": "Body of Bangladeshi killed in Saudi airport attack arrives home",
+        "summary_bn": "সৌদি আরবের রিয়াদে বিমানবন্দর হামলায় নিহত বাংলাদেশি নাগরিক মো. শাহেদ আহম্মেদের মরদেহ হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এসে পৌঁছেছে।",
+        "summary_en": "The body of Bangladeshi national Md. Shahed Ahmed, killed in a Saudi airport attack, arrived at Hazrat Shahjalal International Airport.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:53:07+00:00",
-        "lead_bn": "ইতালি, গ্রিস ও সাইপ্রাস থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৩৫ বাংলাদেশি নাগরিক।",
-        "lead_en": "Thirty-five Bangladeshi nationals returned home on a special flight from Italy, Greece, and Cyprus.",
+        "published_at": "2026-10-23T06:27:40+00:00",
+        "lead_bn": "সৌদি আরবের রিয়াদে বিমানবন্দর হামলায় নিহত বাংলাদেশি নাগরিক মো. শাহেদ আহম্মেদের মরদেহ হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এসে পৌঁছেছে।",
+        "lead_en": "The body of Bangladeshi national Md. Shahed Ahmed, killed in a Saudi airport attack, arrived at Hazrat Shahjalal International Airport.",
         "bullets_bn": [
-          "ইউরোপের বিভিন্ন দেশ থেকে বিশেষ চার্টার্ড ফ্লাইটে মোট ৩৫ জন বাংলাদেশি নাগরিককে ফেরত পাঠানো হয়েছে।",
-          "ফেরত আসা নাগরিকদের মধ্যে ইতালি থেকে ১৯ জন, গ্রিস থেকে ১০ জন এবং সাইপ্রাস থেকে ৬ জন রয়েছেন।",
-          "শাহজালাল আন্তর্জাতিক বিমানবন্দরে অবতরণের পর ইমিগ্রেশন পুলিশ ও প্রবাসী কল্যাণ ডেস্ক তাদের গ্রহণ করে।"
+          "সৌদি আরবের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলায় নিহত মো. শাহেদ আহম্মেদের মরদেহ দেশে ফিরিয়ে আনা হয়েছে।",
+          "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে মরদেহ গ্রহণ করেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
+          "নিহতের পরিবারকে দাফন ও যাতায়াত বাবদ ৩৫ হাজার টাকা এবং বিশেষ অনুদান হিসেবে ৫০ হাজার টাকা দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Thirty-five Bangladeshi nationals were sent back from various European countries on a special chartered flight.",
-          "Among the returnees, nineteen are from Italy, ten from Greece, and six from Cyprus.",
-          "Immigration police and the expatriate welfare desk received the returnees upon their arrival at Shahjalal International Airport."
+          "The body of Md. Shahed Ahmed, killed in an attack at King Khaled International Airport in Riyadh, was brought back home.",
+          "State Minister for Foreign Affairs Shama Obaid Islam received the body at Hazrat Shahjalal International Airport.",
+          "The bereaved family received 35,000 taka for burial and transport, plus a special grant of 50,000 taka."
         ],
-        "impact_bn": "অবৈধ অভিবাসনের শিকার যুবকদের মাঝে আর্থিক ক্ষতি ও সামাজিক অনিশ্চয়তা তৈরি হচ্ছে।",
-        "impact_en": "Illegal migration attempts expose youth to severe financial losses and social uncertainty.",
-        "details_bn": "ইউরোপের বিভিন্ন দেশে অবৈধভাবে প্রবেশ বা অবস্থানের অভিযোগে বাংলাদেশি নাগরিকদের ফেরত পাঠানোর ঘটনা নিয়মিত প্রক্রিয়ার অংশ হিসেবে ঘটছে। অভিবাসন আইন কঠোর করায় এবং অবৈধ অভিবাসী শনাক্তকরণ অভিযান জোরদার করায় বিভিন্ন দেশ থেকে নিয়মিত বিরতিতে বাংলাদেশিদের ফিরিয়ে দেওয়া হচ্ছে। ফেরত আসা এসব নাগরিকের অধিকাংশই জীবনের ঝুঁকি নিয়ে এবং দালালদের মাধ্যমে সমুদ্র বা স্থলপথে ইউরোপে প্রবেশের চেষ্টা করেছিলেন।",
-        "details_en": "The deportation of Bangladeshi nationals for unauthorized entry or stay in European countries is part of ongoing immigration enforcement. As European nations tighten border controls and crack down on undocumented migration, groups of migrants are regularly sent back. Most of these individuals attempted dangerous and illegal routes to Europe through brokers and traffickers."
+        "impact_bn": "বিদেশগামী প্রবাসী কর্মী ও তাদের পরিবারগুলোর নিরাপত্তা এবং বিদেশে মর্মান্তিক মৃত্যুর ঘটনায় সরকারের সহায়তা প্রদানের বিষয়টি সুনিশ্চিত হয়।",
+        "impact_en": "Highlights the safety concerns of migrant workers abroad and the government support provided during overseas tragedies.",
+        "details_bn": "গত ১০ অক্টোবর সৌদি আরবের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হুথিদের ক্ষেপণাস্ত্র হামলায় নিহত ১৩ জনের মধ্যে বাংলাদেশি নাগরিক শাহেদ আহম্মেদ ও কুমিল্লার ওমরাহ ভিসাধারী মো্স নাসরুল্লাহ বদরপুরি প্রাণ হারান। ওই হামলায় আরও ২৭ বাংলাদেশি আহত হন। পরবর্তীতে প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের মাধ্যমে নিহতদের মরদেহ দেশে ফিরিয়ে আনার প্রক্রিয়া সম্পন্ন করা হয় এবং নিহতের পরিবারকে তাৎক্ষণিক আর্থিক সহায়তা প্রদান করা হয়।",
+        "details_en": "On October 10, Houthi missile strikes at King Khaled International Airport in Riyadh killed 13 people, including Bangladeshi nationals Shahed Ahmed and Md. Nasrullah Badrpuri from Cumilla, while injuring 27 other Bangladeshis. Subsequently, the Ministry of Expatriates' Welfare and Overseas Employment facilitated the repatriation of the bodies and provided immediate financial assistance to the victim's family."
       }
     },
     {
-      "story_id": "30c6b37a-8b0d-5c6e-ad07-6889f8a6b5b3",
-      "primary_category": "sports_fitness",
+      "story_id": "649ad11e-e208-5577-97e1-8e1644bb0515",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
         "governance_law"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#CumillaCrime",
+        "#MurderCase",
+        "#BangladeshPolice"
       ],
-      "image_url": null,
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Oprotim.jpg",
       "image_caption": null,
-      "published_at": "2026-10-23T05:49:48+00:00",
+      "published_at": "2026-10-23T06:06:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8681,
+      "importance_score": 4.8,
+      "rank_score": 1.1928,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/cricket/1171101",
-          "title": "৫৬ বছর পর এমন লজ্জায় ডুবলো অস্ট্রেলিয়া",
-          "snippet": "৫৬ বছর পর এমন লজ্জায় ডুবলো অস্ট্রেলিয়া"
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/chargesheet-filed-cumillas-oprotim-murder-case-4305646",
+          "title": "Chargesheet filed in Cumilla's Oprotim murder case",
+          "snippet": "Chargesheet filed in Cumilla's Oprotim murder case"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দক্ষিণ আফ্রিকার কাছে ইনিংস ব্যবধানে হেরে ৫৬ বছরের খরায় অস্ট্রেলিয়া",
-        "title_en": "Australia Suffers Innings Defeat to South Africa After 56 Years",
-        "summary_bn": "গেবেখার সেন্ট জর্জেস পার্কে দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে হারিয়ে সিরিজে সমতা ফেরাল দক্ষিণ আফ্রিকা।",
-        "summary_en": "South Africa leveled the series by defeating Australia by an innings and 31 runs in the second Test at St George's Park.",
+        "title_bn": "কুমিল্লায় অপ্রটিম হত্যা মামলায় চারজনের বিরুদ্ধে চার্জশিট দাখিল",
+        "title_en": "Chargesheet filed against four individuals in Cumilla Oprotim murder case",
+        "summary_bn": "পুলিশ কুমিল্লায় কিশোর ইশিয়াত শাহরিয়ার অপ্রটিম হত্যা মামলায় দুই শিশুসহ চারজনের বিরুদ্ধে চার্জশিট দাখিল করেছে।",
+        "summary_en": "Police have submitted a chargesheet against four individuals, including two juveniles, in the murder case of teenager Ishiat Shahriar Oprotim in Cumilla.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:49:48+00:00",
-        "lead_bn": "গেবেখার সেন্ট জর্জেস পার্কে দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে হারিয়ে সিরিজে সমতা ফেরাল দক্ষিণ আফ্রিকা।",
-        "lead_en": "South Africa leveled the series by defeating Australia by an innings and 31 runs in the second Test at St George's Park.",
+        "published_at": "2026-10-23T06:06:02+00:00",
+        "lead_bn": "পুলিশ কুমিল্লায় কিশোর ইশিয়াত শাহরিয়ার অপ্রটিম হত্যা মামলায় দুই শিশুসহ চারজনের বিরুদ্ধে চার্জশিট দাখিল করেছে।",
+        "lead_en": "Police have submitted a chargesheet against four individuals, including two juveniles, in the murder case of teenager Ishiat Shahriar Oprotim in Cumilla.",
         "bullets_bn": [
-          "দক্ষিণ আফ্রিকা দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে পরাজিত করেছে।",
-          "এই জয়ে পাঁচ ম্যাচের টেস্ট সিরিজে সমতা ফেরানোর পথে এগিয়ে গেছে স্বাগতিক দক্ষিণ আফ্রিকা।",
-          "এর আগে ৫৬ বছর আগে দক্ষিণ আফ্রিকার মাটিতে ইনিংস ব্যবধানে হেরেছিল অস্ট্রেলিয়া।"
+          "তদন্ত কর্মকর্তা আদালতে চার্জশিট জমা দিয়েছেন যাতে চারজনকে অভিযুক্ত করা হয়েছে।",
+          "আইফোন ছিনতাইয়ের চেষ্টার সময় মাথায় কোদালের হাতলের আঘাতে অপ্রটিম নিহত হয়।",
+          "বাদী দ্রুত বিচার ও আসামিদের সর্বোচ্চ শাস্তি দাবি করেছেন।"
         ],
         "bullets_en": [
-          "South Africa defeated Australia by an innings and 31 runs in the second Test.",
-          "The victory put the hosts on track to level the five-match Test series.",
-          "Australia previously suffered an innings defeat on South African soil 56 years ago."
+          "The investigating officer submitted the chargesheet to the court naming four accused individuals.",
+          "Oprotim was struck on the head with a spade handle while resisting an iPhone snatching attempt.",
+          "The victim's father demanded a speedy trial and maximum punishment for the responsible parties."
+        ],
+        "impact_bn": "এই বিচার প্রক্রিয়া দ্রুত সম্পন্ন হলে কিশোর অপরাধ ও ছিনতাই রোধে জননিরাপত্তা জোরদার হবে।",
+        "impact_en": "Swift justice in this case reinforces public safety concerns regarding juvenile crime and street muggings.",
+        "details_bn": "কুমিল্লায় ১৩ বছর বয়সী ইশিয়াত শাহরিয়ার অপ্রটিম হত্যার ঘটনায় পুলিশ চারজনকে অভিযুক্ত করে আদালতে চার্জশিট জমা দিয়েছে। আইফোন ছিনতাইয়ে বাধা দেওয়ায় তাকে হত্যা করা হয় বলে চার্জশিটে উল্লেখ করা হয়েছে। অভিযুক্তদের মধ্যে দুজন অপ্রাপ্তবয়স্ক এবং দুজন প্রাপ্তবয়স্ক রয়েছে। মামলার বাদী ও নিহতের পিতা দ্রুত বিচার এবং অপরাধীদের কঠোর শাস্তির দাবি জানিয়েছেন।",
+        "details_en": "Police submitted a chargesheet in Cumilla naming four individuals, including two juveniles, for the murder of 13-year-old Ishiat Shahriar Oprotim. According to the investigation, the victim was killed after resisting an attempt to snatch his iPhone. The victim's father has demanded a speedy trial and maximum legal accountability for all involved perpetrators."
+      }
+    },
+    {
+      "story_id": "db3bd8e0-1a0d-51ee-8d25-3f4eefe466a5",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/President-5-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T06:59:58+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9626,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/president-visits-hospital-to-see-ailing-dr-abdul-moyeen-khan/",
+          "title": "অসুস্থ ড. আবদুল মঈন খানকে দেখতে হাসপাতালে রাষ্ট্রপতি",
+          "snippet": "অসুস্থ ড. আবদুল মঈন খানকে দেখতে হাসপাতালে রাষ্ট্রপতি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এভারকেয়ার হাসপাতালে চিকিৎসাধীন ড. আবদুল মঈন খানকে দেখতে যান রাষ্ট্রপতি",
+        "title_en": "President Visits Ailing BNP Standing Committee Member Abdul Moyeen Khan at Hospital",
+        "summary_bn": "রাষ্ট্রপতি রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন বিএনপির স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খানকে দেখতে গিয়ে তার শারীরিক অবস্থার খোঁজখবর নেন।",
+        "summary_en": "The President visited ailing BNP standing committee member Abdul Moyeen Khan at Evercare Hospital to check on his health condition.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T06:59:58+00:00",
+        "lead_bn": "রাষ্ট্রপতি রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন বিএনপির স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খানকে দেখতে গিয়ে তার শারীরিক অবস্থার খোঁজখবর নেন।",
+        "lead_en": "The President visited ailing BNP standing committee member Abdul Moyeen Khan at Evercare Hospital to check on his health condition.",
+        "bullets_bn": [
+          "রাষ্ট্রপতি হাসপাতালে গিয়ে চিকিৎসাধীন ড. আবদুল মঈন খানের শারীরিক অবস্থার খোঁজখবর নেন।",
+          "শ্বাসকষ্ট ও হৃদ্‌রোগজনিত সমস্যার কারণে ড. আবদুল মঈন খানকে এভারকেয়ার হাসপাতালে ভর্তি করা হয়।",
+          "বিশেষজ্ঞ চিকিৎসকদের তত্ত্বাবধানে বর্তমানে তার চিকিৎসা ও পর্যবেক্ষণ চলছে।"
+        ],
+        "bullets_en": [
+          "The President visited the hospital to inquire about the health condition of Abdul Moyeen Khan.",
+          "Abdul Moyeen Khan was admitted to Evercare Hospital due to respiratory distress and heart-related complications.",
+          "He is currently receiving treatment and medical observation under specialist physicians."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ডারবানে অনুষ্ঠিত প্রথম টেস্টে জয়ের মাধ্যমে সিরিজে আধিপত্য বিস্তার করেছিল অস্ট্রেলিয়া। তবে সেন্ট জর্জেস পার্কে অনুষ্ঠিত দ্বিতীয় টেস্টে দারুণভাবে ঘুরে দাঁড়িয়ে দুর্দান্ত পারফরম্যান্স প্রদর্শন করে স্বাগতিক দক্ষিণ আফ্রিকা। এই জয়ে দীর্ঘ ৫৬ বছর পর প্রোটিয়াদের মাটিতে অজিদের ইনিংস ব্যবধানে হারার লজ্জাজনক রেকর্ড উপহার দিল দক্ষিণ আফ্রিকা দল।",
-        "details_en": "Australia dominated the first Test in Durban to take the early lead in the series. However, South Africa bounced back strongly in the second Test at St George's Park to secure a comprehensive victory. This result handed Australia their first innings defeat on South African soil in 56 years."
+        "details_bn": "বিএনপির জাতীয় স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খান হঠাৎ অসুস্থ হয়ে পড়লে তাকে দ্রুত রাজধানীর এভারকেয়ার হাসপাতালে ভর্তি করা হয়। শ্বাসকষ্ট ও হৃদ্‌রোগজনিত জটিলতা নিয়ে হাসপাতালে ভর্তি হওয়ার পর থেকেই তিনি চিকিৎসকদের তত্ত্বাবধানে চিকিৎসাধীন রয়েছেন। এর আগে তার শারীরিক অবস্থা স্থিতিশীল বলে জানিয়েছেন সংশ্লিষ্ট চিকিৎসকরা। রাজনৈতিক অঙ্গনের এই জ্যেষ্ঠ নেতার অসুস্থতার খবর পাওয়ার পর থেকেই দলীয় নেতাকর্মী ও শুভানুধ্যায়ীরা তার সুস্থতা কামনা করছেন।",
+        "details_en": "BNP National Standing Committee member Abdul Moyeen Khan was admitted to Evercare Hospital after suddenly falling ill. He has been undergoing treatment under specialist doctors due to respiratory and cardiac complications. Earlier, his physical condition was reported to be stable by the concerned medical team. Following news of his illness, party leaders, activists, and well-wishers have continuously monitored his condition and wished for his swift recovery."
+      }
+    },
+    {
+      "story_id": "b1177cff-5537-5883-be4a-5ed6fe571893",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/image-287157.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T06:54:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9061,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/poems-of-freedom-from-urban-life-shamsur-rahmans-98th-birthday/",
+          "title": "নাগরিক জীবন থেকে স্বাধীনতার কবিতা, শামসুর রাহমানের ৯৮তম জন্মদিন",
+          "snippet": "নাগরিক জীবন থেকে স্বাধীনতার কবিতা, শামসুর রাহমানের ৯৮তম জন্মদিন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলা কবিতার প্রধান পুরোধা ব্যক্তিত্ব শামসুর রাহমানের জন্মবার্ষিকী পালিত",
+        "title_en": "Birth Anniversary of Eminent Bengali Poet Shamsur Rahman Observed",
+        "summary_bn": "নাগরিক জীবন ও স্বাধীনতার চেতনা ধারণকারী বিশিষ্ট কবি শামসুর রাহমানের জন্মবার্ষিকী উদযাপিত হচ্ছে।",
+        "summary_en": "The birth anniversary of prominent poet Shamsur Rahman, known for capturing urban life and independence, is observed.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T06:54:12+00:00",
+        "lead_bn": "নাগরিক জীবন ও স্বাধীনতার চেতনা ধারণকারী বিশিষ্ট কবি শামসুর রাহমানের জন্মবার্ষিকী উদযাপিত হচ্ছে।",
+        "lead_en": "The birth anniversary of prominent poet Shamsur Rahman, known for capturing urban life and independence, is observed.",
+        "bullets_bn": [
+          "বিশিষ্ট কবি শামসুর রাহমান ১৯২৯ সালের ২৩ অক্টোবর পুরান ঢাকার মাহুতটুলীতে জন্মগ্রহণ করেন।",
+          "তিনি জীবদ্দশায় ৬৬টি কাব্যগ্রন্থ, চারটি উপন্যাস ও বিভিন্ন অনুবাদগ্রন্থসহ সমৃদ্ধ সাহিত্যকর্ম উপহার দেন।",
+          "তার লেখা স্বাধীনতা ও প্রতিবাদের কবিতা বাংলা সাহিত্যকে অনন্য উচ্চতায় পৌঁছে দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Eminent poet Shamsur Rahman was born on October 23, 1929, in Mahut-tuli, Old Dhaka.",
+          "He contributed richly to literature with 66 poetry books, four novels, and various translations.",
+          "His poems on independence and resistance have elevated Bengali literature to unique heights."
+        ],
+        "impact_bn": "তার কবিতা তরুণ সমাজকে মুক্তচিন্তা, অসাম্প্রদায়িকতা ও প্রতিবাদের ভাষা শেখাতে অনুপ্রাণিত করে।",
+        "impact_en": "His poetry inspires the youth with the language of free-thinking, secularism, and resistance.",
+        "details_bn": "সালে জন্মগ্রহণকারী শামসুর রাহমান ঢাকা শহরের অলিগলি, নাগরিক জীবন এবং রাষ্ট্রীয় সংকটের অভিজ্ঞতা তার কবিতায় ফুটিয়ে তুলেছেন। ষাটের দশকে প্রথম কাব্যগ্রন্থ প্রকাশের মধ্য দিয়ে তিনি সাহিত্যে স্বতন্ত্র স্থান করে নেন। ভাষা আন্দোলন ও মুক্তিযুদ্ধের চেতনা তার কবিতায় গভীরভাবে প্রতিফলিত হয়েছে। একুশে পদক ও স্বাধীনতা পদকপ্রাপ্ত এই কবি ২০০৬ সালের ১৭ আগস্ট মৃত্যুবরণ করেন। তার সাহিত্যকর্ম ও বাঙালির সাংস্কৃতিক পরিচয় ও প্রতিবাদের প্রধান দলিল হিসেবে বিবেচিত হয়।",
+        "details_en": "Born in 1929, Shamsur Rahman portrayed the alleys of Dhaka, urban life, and state crises in his poetry. He established a distinct place in literature with his first poetry book in the 1960s. The spirit of the Language Movement and the Liberation War is deeply reflected in his work. The Ekushey Padak and Independence Award-winning poet passed away on August 17, 2006. His literary works remain a vital document of Bengali cultural identity and resistance."
       }
     }
   ]
