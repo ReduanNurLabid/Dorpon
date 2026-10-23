@@ -1,70 +1,180 @@
 {
-  "updated_at": "2026-10-23T09:00:43.900848",
+  "updated_at": "2026-10-23T10:00:49.894648",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "5e6bde9a-f65d-52de-b608-ec64735790da",
-      "primary_category": "economy_business",
+      "story_id": "9927fa1d-42ed-5d41-8d4f-07d1a0879732",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "tech_innovation"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#DigitalLandService",
+        "#LandMinistry"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-06-24%2Fqxsrlrbc%2FUntitled-11.jpg?rect=0%2C101%2C1708%2C897&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fofdhj7bh%2FUntitled-6.jpg?rect=0%2C114%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T08:15:00+00:00",
+      "published_at": "2026-10-23T09:41:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 1.5997,
+      "rank_score": 2.0,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/analysis/de51kbx2xd",
-          "title": "করকাঠামো সংস্কারে নীতি ও প্রশাসন আলাদা করলেই কি রাজস্ব বাড়বে",
-          "snippet": "করকাঠামো সংস্কারে নীতি ও প্রশাসন আলাদা করলেই কি রাজস্ব বাড়বে"
+          "url": "https://www.prothomalo.com/bangladesh/mwzql7dtpx",
+          "title": "বাংলাদেশ ব্যাংকের পর এবার ১২ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবার সার্ভার",
+          "snippet": "বাংলাদেশ ব্যাংকের পর এবার ১২ ঘণ্টা বন্ধ ডিজিটাল ভূমিসেবার সার্ভার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় রাজস্ব বোর্ডের সংস্কার ও নীতি প্রশাসন আলাদা করার পরিকল্পনা পুনর্মূল্যায়ন",
-        "title_en": "Parliamentary Review Underway for National Board of Revenue Reform Plan",
-        "summary_bn": "জাতীয় রাজস্ব বোর্ড ভেঙে নীতি ও প্রশাসন বিভাগ আলাদা করার আগের উদ্যোগটি বর্তমান সরকার নতুন করে পর্যালোচনা করছে।",
-        "summary_en": "The government is reviewing the previous initiative to split the National Board of Revenue into policy and administration divisions.",
+        "title_bn": "নিরাপত্তা ত্রুটি সংশোধনে ৩৬ ঘণ্টা বন্ধ রয়েছে ডিজিটাল ভূমিসেবার সার্ভার",
+        "title_en": "Digital Land Service Server Shut Down For 36 Hours Over Security Flaws",
+        "summary_bn": "পিএইচপি সফটওয়্যারের নিরাপত্তা ত্রুটি দূর করতে টানা ৩৬ ঘণ্টা সব ডিজিটাল ভূমিসেবা কার্যক্রম বন্ধ রেখেছে ভূমি মন্ত্রণালয়।",
+        "summary_en": "The Ministry of Land has suspended all digital land services for 36 hours to fix critical PHP software vulnerabilities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:15:00+00:00",
-        "lead_bn": "জাতীয় রাজস্ব বোর্ড ভেঙে নীতি ও প্রশাসন বিভাগ আলাদা করার আগের উদ্যোগটি বর্তমান সরকার নতুন করে পর্যালোচনা করছে।",
-        "lead_en": "The government is reviewing the previous initiative to split the National Board of Revenue into policy and administration divisions.",
+        "published_at": "2026-10-23T09:41:24+00:00",
+        "lead_bn": "পিএইচপি সফটওয়্যারের নিরাপত্তা ত্রুটি দূর করতে টানা ৩৬ ঘণ্টা সব ডিজিটাল ভূমিসেবা কার্যক্রম বন্ধ রেখেছে ভূমি মন্ত্রণালয়।",
+        "lead_en": "The Ministry of Land has suspended all digital land services for 36 hours to fix critical PHP software vulnerabilities.",
         "bullets_bn": [
-          "জাতীয় রাজস্ব বোর্ডকে ভেঙে নীতি প্রণয়ন ও কর আদায় আলাদা করার পরিকল্পনা বর্তমান সরকার সংসদীয় কমিটিতে পর্যালোচনার জন্য পাঠিয়েছে।",
-          "বিগত সরকারের আমলে এই সংস্কারের প্রতিবাদে রাজস্ব বিভাগে টানা দুই মাস অচলাবস্থা তৈরি হলে একাধিক কর্মকর্তাকে বরখাস্ত করা হয়।",
-          "আইনি পর্যালোচনার মাধ্যমে করব্যবস্থার মৌলিক দ্বন্দ্ব নিরসন করে কর আদায় বাড়ানোর পরিকল্পনা চূড়ান্ত করা হবে।"
+          "সাইবার নিরাপত্তাসংশ্লিষ্ট সংস্থার সতর্কবার্তার পরিপ্রেক্ষিতে ভূমি মন্ত্রণালয় সার্ভার বন্ধ রেখে নিরাপত্তা উন্নয়নের কাজ শুরু করেছে।",
+          "নামজারি, ভূমি উন্নয়ন কর পরিশোধ ও মৌজা ম্যাপ সংগ্রহসহ সব ধরনের ডিজিটাল ভূমিসেবা সম্পূর্ণ বন্ধ রয়েছে।",
+          "নিরাপত্তা আপগ্রেডেশন কাজ শেষ হওয়ার পর সার্ভার পুনরায় সচল করা হবে।"
         ],
         "bullets_en": [
-          "The current government has sent the plan to split the National Board of Revenue into separate policy and administration units for parliamentary review.",
-          "During the previous administration, protests over this reform caused a two-month deadlock in the revenue sector, leading to officer suspensions.",
-          "The parliamentary review aims to resolve fundamental administrative conflicts and sustainably increase revenue collection."
+          "The Ministry of Land suspended digital services to conduct security maintenance following a national cybersecurity alert.",
+          "Services including mutation, land tax payment, and Mouza map collection remain completely halted.",
+          "Normal operations will resume immediately after the scheduled security upgrades are completed."
         ],
-        "impact_bn": "করব্যবস্থার এই সংস্কার বাস্তবায়িত হলে ব্যবসা-বাণিজ্যের পরিবেশ এবং করদাতাদের হয়রানি কমবে বলে আশা করা হচ্ছে।",
-        "impact_en": "This structural reform is expected to ease business operations and reduce harassment for taxpayers if implemented properly.",
-        "details_bn": "বিগত অন্তর্বর্তী সরকার জাতীয় রাজস্ব বোর্ডকে ভেঙে নীতি এবং প্রশাসন—এই দুই ভাগে বিভক্ত করার উদ্যোগ নিয়েছিল। ওই সময় এনবিআর কর্মকর্তাদের কঠোর আন্দোলনের মুখে সরকার অধ্যাদেশ জারি করে এবং পরবর্তীতে অচলাবস্থা নিরসনে কিছু কর্মকর্তাকে সাময়িক বরখাস্ত ও বাধ্যতামূলক অবসরে পাঠায়। বর্তমান নির্বাচিত সরকার অধ্যাদেশটি আইনে রূপ না দিয়ে সংসদীয় কমিটির পর্যালোচনার জন্য পাঠিয়েছে এবং বরখাস্ত হওয়া কর্মকর্তাদের পুনর্বহাল করেছে।",
-        "details_en": "The previous interim government initiated moves to split the National Board of Revenue into separate policy and tax collection divisions. The decision sparked intense protests and a two-month deadlock among tax officials, resulting in disciplinary actions. The current elected government has refrained from turning the ordinance into law, instead referring the matter to a parliamentary committee while reinstating the suspended officials."
+        "impact_bn": "সেবা সাময়িকভাবে বন্ধ থাকায় নাগরিকরা নামজারি ও ভূমি কর পরিশোধের মতো গুরুত্বপূর্ণ কাজগুলো নির্দিষ্ট সময় করতে পারছেন না।",
+        "impact_en": "Citizens face temporary disruptions in executing property mutations and paying land development taxes online.",
+        "details_bn": "পিএইচপি প্রোগ্রামিং ভাষায় দুটি গুরুতর নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সরকারি ও বাণিজ্যিক প্রতিষ্ঠানগুলোতে উদ্বেগ তৈরি হয়। এর অংশ হিসেবে বিজিডি ই-গভ সার্টের জরুরি সাইবার সতর্কবার্তার পর বাংলাদেশ ব্যাংকের পর এবার ডিজিটাল ভূমিসেবার সার্ভার বন্ধ রেখে সিস্টেম হালনাগাদের উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "Following the discovery of critical security vulnerabilities in the PHP programming language, global institutions have rushed to update their systems. Prompted by an emergency advisory from BGD e-GOV CIRT, the land ministry shut down its servers for security patching, following a similar move by Bangladesh Bank."
       }
     },
     {
-      "story_id": "a8853e5e-ed71-5285-8c0a-1e1d227f258b",
+      "story_id": "7e8eed1d-0fa7-5cf3-89cc-9d6682caf101",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/engr003.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T09:58:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9034,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/engineer-detained-with-150000-taka-following-complaints-about-roadwork-quality/",
+          "title": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী",
+          "snippet": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পঞ্চগড়ে রাস্তার কাজের মান নিয়ে অভিযোগে দেড় লাখ টাকাসহ প্রকৌশলী আটক",
+        "title_en": "LGED Sub-Assistant Engineer Detained With Tk 1.5 Lakh Over Road Quality",
+        "summary_bn": "পঞ্চগড়ের বোদায় রাস্তার কাজের মান নিয়ে ক্ষোভের মুখে দেড় লাখ নগদ টাকাসহ এক এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ করেছেন স্থানীয়রা।",
+        "summary_en": "Local residents detained an LGED sub-assistant engineer with Tk 1.5 lakh in cash following disputes over substandard road construction work in Panchagarh.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T09:58:52+00:00",
+        "lead_bn": "পঞ্চগড়ের বোদায় রাস্তার কাজের মান নিয়ে ক্ষোভের মুখে দেড় লাখ নগদ টাকাসহ এক এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ করেছেন স্থানীয়রা।",
+        "lead_en": "Local residents detained an LGED sub-assistant engineer with Tk 1.5 lakh in cash following disputes over substandard road construction work in Panchagarh.",
+        "bullets_bn": [
+          "সাকোয়া নয়াদীঘি সড়কের পাকা কাজের মান নিয়ে স্থানীয়দের দীর্ঘদিনের অভিযোগের পরিপ্রেক্ষিতে এই ঘটনা ঘটে",
+          "উপসহকারী প্রকৌশলী নূরই আকরামের ব্যাগ ও পকেট তল্লাশি করে মোট দেড় লাখ টাকা উদ্ধার করে পুলিশ",
+          "দায়িত্ব পালনকালে নগদ টাকা সঙ্গে রাখার বিষয়ে বিভাগীয় তদন্ত সাপেক্ষে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে"
+        ],
+        "bullets_en": [
+          "Locals confronted sub-assistant engineer Nur-e-Akram regarding poor construction quality on the Sakoa-Nayadighi road.",
+          "Police recovered a total of Tk 1.5 lakh in cash from the engineer's bag and pockets during the search.",
+          "The upazila engineer stated that a formal departmental investigation will be conducted into the incident."
+        ],
+        "impact_bn": "সরকারি প্রকল্পে দুর্নীতি ও অনিয়মের বিরুদ্ধে স্থানীয় জনগণের এই প্রতিরোধ সাধারণ মানুষের কাজের স্বচ্ছতা নিশ্চিত করতে ভূমিকা রাখবে।",
+        "impact_en": "Active public resistance against corruption in local infrastructure projects helps ensure accountability and better public service delivery.",
+        "details_bn": "পঞ্চগড়ের বোদা উপজেলার সাকোয়া নয়াদীঘি সড়কের নির্মাণ কাজ চলাকালীন নিম্নমানের সামগ্রী ব্যবহারের অভিযোগ ওঠে। স্থানীয়রা কাজের মান যাচাই করতে গেলে উপসহকারী প্রকৌশলী নূরই আকরামের আচরণে সন্দেহজনক পরিস্থিতি তৈরি হয়। পরে তার ব্যাগ ও পকেট তল্লাশি করে দেড় লাখ টাকা উদ্ধার করা হয়। এ ঘটনায় এলাকায় ব্যাপক চাঞ্চল্যের সৃষ্টি হয়েছে এবং উপজেলা প্রকৌশলী বিষয়টি তদন্ত করে দেখার আশ্বাস দিয়েছেন।",
+        "details_en": "Locals in Boda upazila of Panchagarh raised complaints over substandard materials being used in the Sakoa-Nayadighi road construction project. Suspicion arose when sub-assistant engineer Nur-e-Akram attempted to leave after residents demanded project documents. Police subsequently recovered Tk 1.5 lakh from his possession, prompting promises of an internal investigation by the upazila engineering department."
+      }
+    },
+    {
+      "story_id": "45e8a9ed-04e1-596a-a188-01a5540bb9b0",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T09:40:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5811,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976232/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9",
+          "title": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত শাহেদের মরদেহ পৌঁছালো গ্রামের বাড়িতে",
+          "snippet": "সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত শাহেদের মরদেহ পৌঁছালো গ্রামের বাড়িতে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসীর মরদেহ বগুড়ায় দাফন",
+        "title_en": "Body of Expatriate Killed in Saudi Missile Attack Reaches Bogura",
+        "summary_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ তার গ্রামের বাড়িতে পৌঁছানোর পর দাফন সম্পন্ন হয়েছে।",
+        "summary_en": "The body of expatriate Shahed Ahmed Ashik, killed in a missile attack in Saudi Arabia, has reached his village home.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T09:40:07+00:00",
+        "lead_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ তার গ্রামের বাড়িতে পৌঁছানোর পর দাফন সম্পন্ন হয়েছে।",
+        "lead_en": "The body of expatriate Shahed Ahmed Ashik, killed in a missile attack in Saudi Arabia, has reached his village home.",
+        "bullets_bn": [
+          "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী শাহেদ আহমেদ আশিকের মরদেহ বগুড়ার শাজাহানপুর উপজেলায় পৌঁছায়।",
+          "নিহত শাহেদের বয়স ৩৫ বছর এবং তিনি পরিবারের একমাত্র উপার্জনক্ষম সদস্য ছিলেন।",
+          "পরিবারটির একমাত্র উপার্জনক্ষম ব্যক্তিকে হারানোর ফলে স্ত্রী ও দুই সন্তানের ভবিষ্যৎ অনিশ্চিত হয়ে পড়েছে।"
+        ],
+        "bullets_en": [
+          "The body of expatriate Shahed Ahmed Ashik, killed in a Saudi missile attack, arrived in Boguras Shahjahanpur upazila.",
+          "The victim, Shahed, was 35 years old and served as the sole breadwinner for his family.",
+          "The loss of the primary earner leaves his wife and two children facing an uncertain financial future."
+        ],
+        "impact_bn": "পরিবারের একমাত্র উপার্জনক্ষম সদস্যের আকস্মিক মৃত্যুতে তার dependents দের জীবন মারাত্মক আর্থিক অনিশ্চয়তার মুখে পড়েছে।",
+        "impact_en": "The sudden loss of the primary breadwinner plunges his dependents into severe financial uncertainty.",
+        "details_bn": "সৌদি আরবে চলমান নিরাপত্তা ঝুঁকিপূর্ণ পরিস্থিতির মধ্যে ক্ষেপণাস্ত্র হামলায় নিহত হন প্রবাসী শ্রমিক শাহেদ আহমেদ আশিক। দীর্ঘ প্রক্রিয়া শেষে তার মরদেহ দেশে ফিরিয়ে আনা হয়। প্রবাসীদের নিরাপত্তা নিশ্চিতকরণ এবং মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে কর্মরত বাংলাদেশিদের সুরক্ষার বিষয়টি আবারও সামনে এসেছে।",
+        "details_en": "Expatriate worker Shahed Ahmed Ashik was killed in a missile attack amid security risks in Saudi Arabia. His body was repatriated following necessary official procedures. The incident once again highlights the urgent need to ensure the safety and security of Bangladeshi workers employed in volatile Middle Eastern regions."
+      }
+    },
+    {
+      "story_id": "42bc5516-bbcc-5062-b7fb-ea071ccc3bc3",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "society_education"
+        "world_diplomacy"
       ],
       "tags": [
         "#Geopolitics",
@@ -72,52 +182,106 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T08:35:02+00:00",
+      "published_at": "2026-10-23T09:32:48+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5128,
+      "rank_score": 1.4805,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976219/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AA%E0%A6%B0%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E2%80%99-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে ‘পরজীবী’ বললেন ইরানি পররাষ্ট্রমন্ত্রী",
-          "snippet": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে ‘পরজীবী’ বললেন ইরানি পররাষ্ট্রমন্ত্রী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171148",
+          "title": "গ্রামে পৌঁছাল হুথিদের ক্ষেপণাস্ত্র হামলায় সৌদিতে নিহত সাহেদের মরদেহ",
+          "snippet": "গ্রামে পৌঁছাল হুথিদের ক্ষেপণাস্ত্র হামলায় সৌদিতে নিহত সাহেদের মরদেহ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে পরজীবী বললেন ইরানের পররাষ্ট্রমন্ত্রী",
-        "title_en": "Iranian Foreign Minister Terms US-Israel Military Tie Parasitic",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক সম্পর্ককে পরজীবী বলে তীব্র সমালোচনা করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-        "summary_en": "Iranian Foreign Minister Abbas Araghchi strongly criticized the military relationship between the United States and Israel as parasitic.",
+        "title_bn": "সৌদি আরবে হুথি হামলায় নিহত বাংলাদেশি সাহেদের মরদেহ দেশে পৌঁছেছে",
+        "title_en": "Body of Bangladeshi Shahed Killed in Houthi Attack Arrives Home",
+        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি নাগরিক সাহেদ আহমেদ আশিকের মরদেহ দেশে পৌঁছানোর পর পরিবারের কাছে হস্তান্তর করা হয়েছে।",
+        "summary_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, who was killed in a Houthi rebel missile strike in Saudi Arabia, has arrived home.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T09:32:48+00:00",
+        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত বাংলাদেশি নাগরিক সাহেদ আহমেদ আশিকের মরদেহ দেশে পৌঁছানোর পর পরিবারের কাছে হস্তান্তর করা হয়েছে।",
+        "lead_en": "The body of Bangladeshi expatriate Shahed Ahmed Ashik, who was killed in a Houthi rebel missile strike in Saudi Arabia, has arrived home.",
+        "bullets_bn": [
+          "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত হন ৩৫ বছর বয়সী সাহেদ আহমেদ আশিক",
+          "নিহতের মরদেহ দেশে পৌঁছানোর পর হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে আনুষ্ঠানিকতা সম্পন্ন হয়",
+          "মরদেহ গ্রামের বাড়িতে নিয়ে দাফনের ব্যবস্থা করেছে স্থানীয় প্রশাসন ও পরিবার"
+        ],
+        "bullets_en": [
+          "Thirty-five-year-old expatriate Shahed Ahmed Ashik died in a Houthi rebel missile attack in Saudi Arabia.",
+          "His mortal remains arrived at Hazrat Shahjalal International Airport where administrative formalities were completed.",
+          "The body was subsequently transported to his native village for burial arrangements by his family."
+        ],
+        "impact_bn": "প্রবাসীদের নিরাপত্তা এবং মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে কর্মরত বাংলাদেশিদের সুরক্ষার বিষয়টি নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The incident raises renewed concerns regarding the safety and security of Bangladeshi expatriates working in conflict-prone Middle Eastern regions.",
+        "details_bn": "সৌদি আরবে দীর্ঘদিন ধরে কাজ করছিলেন সাহেদ আহমেদ আশিক। ইয়েমেনের হুথি বিদ্রোহীদের ছোঁড়া ক্ষেপণাস্ত্র হামলায় তিনি প্রাণ হারান। মধ্যপ্রাচ্যের বিভিন্ন দেশে কর্মরত প্রবাসী বাংলাদেশিদের নিরাপত্তা নিশ্চিত করার দাবি দীর্ঘদিন ধরে জোরালো হয়ে আসছে। এই মৃত্যুর ঘটনায় তার গ্রামের বাড়িতে শোকের ছায়া নেমে এসেছে এবং পরিবার সরকারের পক্ষ থেকে সহায়তা কামনা করেছে।",
+        "details_en": "Shahed Ahmed Ashik had been working in Saudi Arabia for a long time before losing his life in a missile strike launched by Yemen's Houthi rebels. The incident highlights the ongoing security risks faced by migrant workers in the region, drawing widespread sympathy and calls for enhanced protection of expatriates."
+      }
+    },
+    {
+      "story_id": "0b966df4-a2d8-56d1-be3b-a1d7e7e119e6",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-10-2.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T09:14:36+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2736,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/netanyahus-convoy-attacked-while-en-route-to-a-birthday-celebration/",
+          "title": "জন্মদিন উদযাপনে যাওয়ার পথে নেতানিয়াহুর গাড়িবহরে হামলা",
+          "snippet": "জন্মদিন উদযাপনে যাওয়ার পথে নেতানিয়াহুর গাড়িবহরে হামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসরায়েলের প্রধানমন্ত্রী নেতানিয়াহুর গাড়িবহরে হামলা ও বোতল নিক্ষেপ",
+        "title_en": "Glass Bottle Thrown at Israeli Prime Minister Benjamin Netanyahu Convoy",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ৭৭তম জন্মদিন উদযাপনের যাত্রাপথে জেরুজালেমে তার গাড়িবহর লক্ষ্য করে একটি কাঁচের বোতল নিক্ষেপ করা হয়েছে।",
+        "summary_en": "A glass bottle was thrown at Israeli Prime Minister Benjamin Netanyahu convoy in Jerusalem during his birthday travel.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:35:02+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক সম্পর্ককে পরজীবী বলে তীব্র সমালোচনা করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-        "lead_en": "Iranian Foreign Minister Abbas Araghchi strongly criticized the military relationship between the United States and Israel as parasitic.",
+        "published_at": "2026-10-23T09:14:36+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ৭৭তম জন্মদিন উদযাপনের যাত্রাপথে জেরুজালেমে তার গাড়িবহর লক্ষ্য করে একটি কাঁচের বোতল নিক্ষেপ করা হয়েছে।",
+        "lead_en": "A glass bottle was thrown at Israeli Prime Minister Benjamin Netanyahu convoy in Jerusalem during his birthday travel.",
         "bullets_bn": [
-          "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি যুক্তরাষ্ট্র ও ইসরায়েলের মধ্যকার সামরিক সহযোগিতাকে পরজীবী সম্পর্ক হিসেবে অভিহিত করেছেন।",
-          "ইসরায়েলের ক্ষেপণাস্ত্র প্রতিরক্ষায় মার্কিন করদাতাদের ১ হাজার ১০০ কোটি ডলার ব্যয় হয়েছে বলে দাবি করেছেন তিনি।",
-          "সামাজিক যোগাযোগমাধ্যম এক্সে দেওয়া এক পোস্টে এই কঠোর মন্তব্য প্রকাশ করেন ইরানি এই শীর্ষ কূটনীতিক।"
+          "জেরুজালেমের মাহানে ইহুদা বাজারের কাছে ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহরে কাঁচের বোতল নিক্ষেপ করা হয়।",
+          "তেল আবিবের হাতিকভা বাজারে সফরকালে ৭ অক্টোবরের হামলায় জিম্মি ও নিহতদের পরিবারের সদস্যরা নেতানিয়াহুর পদত্যাগ দাবি করেন।",
+          "নিরাপত্তা রক্ষীরা তাৎক্ষণিকভাবে ব্যারিকেড ডিঙিয়ে অভিযুক্ত ব্যক্তিকে আটক করার চেষ্টা চালালেও গাড়ি বহরটি না থেমে চলে যায়।"
         ],
         "bullets_en": [
-          "Iranian Foreign Minister Abbas Araghchi characterized the military cooperation between the US and Israel as a parasitic relationship.",
-          "He claimed that Washington spent USD 11 billion from US taxpayer money on Israel missile defense systems over the past three years.",
-          "The Iranian top diplomat expressed this sharp criticism through a post on the social media platform X."
+          "A glass bottle was hurled at the motorcade of Israeli Prime Minister Benjamin Netanyahu near Jerusalem's Mahane Yehuda market.",
+          "Families of October 7 victims and hostages confronted Netanyahu during his market visit, demanding his immediate resignation over security failures.",
+          "Security guards immediately attempted to cross barricades to apprehend the suspect while the motorcade continued moving without stopping."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক জোট এবং অস্ত্র সহায়তা নিয়ে এই মন্তব্য এসেছে। ইরান দীর্ঘদিন ধরে ইসরায়েলকে দেওয়া মার্কিন সামরিক সহায়তার প্রকাশ্য বিরোধিতা করে আসছে। ওয়াশিংটন মধ্যপ্রাচ্যে ইসরায়েলের প্রতিরক্ষায় নিয়মিত কোটি কোটি ডলার ও সামরিক সরঞ্জাম দিয়ে সহায়তা করে থাকে, যা আঞ্চলিক রাজনীতিতে বড় ধরনের বিতর্ক সৃষ্টি করে।",
-        "details_en": "This remark comes amid ongoing geopolitical tensions in the Middle East regarding US military alliances and arms support for Israel. Iran has long opposed American military backing of Israel. Washington regularly provides billions of dollars and military hardware to secure Israel defenses in the Middle East, sparking major regional political debate."
+        "details_bn": "অক্টোবরের হামলার পর থেকেই গাজায় জিম্মি থাকা ব্যক্তিদের উদ্ধার ও সরকারের ব্যর্থতার দায় নিয়ে ইসরায়েলে তীব্র বিক্ষোভ চলছে। হামাস ও ইসরায়েল সংঘাতে দেশটির সাধারণ নাগরিক ও জিম্মি পরিবারগুলোর মধ্যে ক্ষোভ দিন দিন বাড়ছে। সাম্প্রতিক এই সফরেও নেতানিয়াহু সাধারণ জনগণ ও জিম্মি পরিবারের তীব্র প্রতিবাদের মুখোমুখি হন, যা তার প্রশাসনের ওপর রাজনৈতিক চাপ আরও বাড়িয়ে দিয়েছে।",
+        "details_en": "Protests have surged across Israel following the October 7 attacks, with citizens and families of hostages criticizing the government's failure to secure their release. Public frustration has intensified as hostage families openly demand Prime Minister Benjamin Netanyahu's resignation and accountability for security lapses."
       }
     },
     {
-      "story_id": "d2a1e0ee-c239-5a73-879b-9f09c19c8384",
+      "story_id": "25b50816-b26c-5b67-a75b-b8c5f4ae039f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -128,212 +292,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T08:22:59+00:00",
+      "published_at": "2026-10-23T09:14:33+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.3645,
+      "rank_score": 1.2731,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171132",
-          "title": "পদ্মায় ভ্রাম্যমাণ আদালতের অভিযানে ৯ জেলে আটক",
-          "snippet": "পদ্মায় ভ্রাম্যমাণ আদালতের অভিযানে ৯ জেলে আটক"
+          "url": "https://www.jagonews24.com/national/news/1171143",
+          "title": "চট্টগ্রামে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৭৮৬",
+          "snippet": "চট্টগ্রামে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৭৮৬"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পদ্মায় ইলিশ শিকার বিরোধী অভিযানে আটক ৯ জেলে",
-        "title_en": "Nine Fishermen Detained During Hilsa Fishing Ban Drive in Padma River",
-        "summary_bn": "মাদারীপুরের শিবচরে পদ্মা নদীতে নিষেধাজ্ঞা অমান্য করে ইলিশ শিকারের সময় ভ্রাম্যমাণ আদালত পরিচালনা করে নয় জেলেকে আটক করা হয়েছে।",
-        "summary_en": "Authorities detained nine fishermen from the Padma River in Shibchar during a mobile court drive against illegal hilsa fishing.",
+        "title_bn": "চট্টগ্রামে অপরাধ ও কিশোর গ্যাংবিরোধী বিশেষ অভিযানে আটক ৭৮৬",
+        "title_en": "Law Enforcement Arrests 786 in Special Anti-Crime Drive in Chattogram",
+        "summary_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী চট্টগ্রামজুড়ে বিশেষ অভিযান পরিচালনা করে ছিনতাই, চাঁদাবাজি ও মাদকবিরোধী কার্যক্রমে জড়িত ৭৮৬ জনকে গ্রেফতার করেছে।",
+        "summary_en": "Law enforcement agencies arrested 786 individuals in a special crackdown across Chattogram targeting mugging, extortion, and drug-related crimes.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:22:59+00:00",
-        "lead_bn": "মাদারীপুরের শিবচরে পদ্মা নদীতে নিষেধাজ্ঞা অমান্য করে ইলিশ শিকারের সময় ভ্রাম্যমাণ আদালত পরিচালনা করে নয় জেলেকে আটক করা হয়েছে।",
-        "lead_en": "Authorities detained nine fishermen from the Padma River in Shibchar during a mobile court drive against illegal hilsa fishing.",
+        "published_at": "2026-10-23T09:14:33+00:00",
+        "lead_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনী চট্টগ্রামজুড়ে বিশেষ অভিযান পরিচালনা করে ছিনতাই, চাঁদাবাজি ও মাদকবিরোধী কার্যক্রমে জড়িত ৭৮৬ জনকে গ্রেফতার করেছে।",
+        "lead_en": "Law enforcement agencies arrested 786 individuals in a special crackdown across Chattogram targeting mugging, extortion, and drug-related crimes.",
         "bullets_bn": [
-          "পদ্মা নদীতে ইলিশ ধরা নিষিদ্ধ সময়ে অভিযান পরিচালনা করে ভ্রাম্যমাণ আদালত।",
-          "অভিযানে আটক নয় জেলেকে আইন লঙ্ঘন করায় বিভিন্ন মেয়াদে কারাদণ্ড দেওয়া হয়েছে।",
-          "ইলিশের প্রজনন নিরাপদ রাখতে নদীতীরে এ ধরনের নিয়মিত অভিযান অব্যাহত রাখবে স্থানীয় প্রশাসন।"
+          "চট্টগ্রামে অপরাধ দমন ও আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে বিশেষ অভিযান পরিচালনা করে আইনশৃঙ্খলা বাহিনী।",
+          "অভিযানে ছিনতাই, চাঁদাবাজি, সন্ত্রাসী কার্যক্রম ও মাদক ব্যবসার সাথে জড়িত মোট ৭৮৬ জনকে গ্রেফতার করা হয়।",
+          "নগরীতে অপরাধ প্রবণতা কমাতে এবং জননিরাপত্তা নিশ্চিত করতে এই ধরনের বিশেষ অভিযান অব্যাহত থাকবে।"
         ],
         "bullets_en": [
-          "A mobile court conducted a drive in the Padma River during the ongoing hilsa fishing ban.",
-          "Nine detained fishermen were sentenced to varying jail terms for violating government fishing restrictions.",
-          "Local administration will continue regular river patrols to ensure a safe breeding season for hilsa."
+          "Law enforcement launched a coordinated special operation to curb crime and maintain public security in Chattogram.",
+          "A total of 786 individuals involved in mugging, extortion, terrorist activities, and drug peddling were arrested during the drive.",
+          "Authorities announced that such targeted anti-crime operations will continue to reduce criminal activities across the city."
         ],
-        "impact_bn": "এই অভিযানের ফলে ইলিশের প্রজনন সুরক্ষিত হবে যা ভবিষ্যতে বাজারে মাছের সরবরাহ বাড়াতে সাহায্য করবে।",
-        "impact_en": "The enforcement drive protects breeding hilsa, ultimately helping stabilize fish supplies and fair market prices.",
-        "details_bn": "জাতীয় সম্পদ রক্ষা এবং ইলিশের প্রজনন নিরাপদ রাখতে সরকার নির্দিষ্ট সময়ে নদীতে সব ধরনের ইলিশ শিকার নিষিদ্ধ করে। এই নিষেধাজ্ঞা বাস্তবায়নে জেলা ও উপজেলা প্রশাসনের উদ্যোগে নিয়মিত ভ্রাম্যমাণ আদালত পরিচালিত হয়। আইন অমান্যকারীদের বিরুদ্ধে কারাদণ্ড ও অর্থদণ্ডের মতো কঠোর শাস্তিমূলক ব্যবস্থা নেওয়া হয়ে থাকে।",
-        "details_en": "The government enforces seasonal fishing bans to protect national fish resources and ensure safe hilsa breeding. Local administrations regularly deploy mobile courts along rivers to enforce these restrictions. Violators face strict legal penalties, including jail terms and financial fines, to deter illegal fishing activities during peak breeding cycles."
-      }
-    },
-    {
-      "story_id": "a9fcbf55-115e-5a02-b494-383886aeeb11",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T08:58:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9527,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/ncp/976222/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF",
-          "title": "এনসিপিতে সামান্তা শারমিনের পদাবনতি",
-          "snippet": "এনসিপিতে সামান্তা শারমিনের পদাবনতি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় নাগরিক পার্টির কমিটিতে সামান্তা শারমিনের পদাবনতি",
-        "title_en": "Samanta Sharmin Demoted in New National Citizen Party Committee",
-        "summary_bn": "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক পদ থেকে সরিয়ে সামান্তা শারমিনকে যুগ্ম আহ্বায়ক করা হয়েছে।",
-        "summary_en": "Samanta Sharmin has been demoted from senior joint convener to joint convener in the new National Citizen Party committee.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:58:45+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক পদ থেকে সরিয়ে সামান্তা শারমিনকে যুগ্ম আহ্বায়ক করা হয়েছে।",
-        "lead_en": "Samanta Sharmin has been demoted from senior joint convener to joint convener in the new National Citizen Party committee.",
-        "bullets_bn": [
-          "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সামান্তা শারমিনের পদাবনতি ঘটেছে",
-          "তিনি এতদিন দলটির সিনিয়র যুগ্ম আহ্বায়ক হিসেবে দায়িত্ব পালন করে আসছিলেন",
-          "দলটির ১৯৫ সদস্যের নতুন কমিটিতে তার পদবি পরিবর্তন করা হয়েছে"
-        ],
-        "bullets_en": [
-          "Samanta Sharmin faced demotion in the newly announced committee of the National Citizen Party.",
-          "She was previously serving as the senior joint convener of the organization.",
-          "Her position was adjusted in the newly formed 195-member committee of the party."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জুলাই অভ্যুত্থানে গুরুত্বপূর্ণ অবদান রাখা সামান্তা শারমিন এতদিন জাতীয় নাগরিক পার্টির সিনিয়র যুগ্ম আহ্বায়ক হিসেবে দায়িত্ব পালন করছিলেন। সম্প্রতি দলটির পক্ষ থেকে ১৯৫ সদস্যের নতুন কমিটি ঘোষণা করা হয়। এই নতুন কমিটিতে তার পদবি পরিবর্তন করে যুগ্ম আহ্বায়ক করা হয়েছে, যা রাজনৈতিক মহলে আলোচনার জন্ম দিয়েছে।",
-        "details_en": "Samanta Sharmin, who played a significant role in the July uprising, previously served as the senior joint convener of the National Citizen Party. The party recently announced a new 195-member committee where her position was adjusted to a joint convener, marking a notable shift in internal leadership roles."
-      }
-    },
-    {
-      "story_id": "6310f5ea-901b-59bf-b771-bc21f59d6be5",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T08:54:04+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9072,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171140",
-          "title": "বিশ্ববাজারে সোনার দামে বড় পতন, বাংলাদেশে নতুন দর কার্যকর",
-          "snippet": "বিশ্ববাজারে সোনার দামে বড় পতন, বাংলাদেশে নতুন দর কার্যকর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিশ্ববাজারে সোনার দাম কমেছে, বাংলাদেশে নতুন দর কার্যকর",
-        "title_en": "Gold Prices Fall in Global Markets With New Rates Effective in Bangladesh",
-        "summary_bn": "আন্তর্জাতিক বাজারে সোনার দাম বড় পতনের মুখে পড়ায় দেশের বাজারেও নতুন দর কার্যকর করেছে জুয়েলারি সমিতি।",
-        "summary_en": "Gold prices dropped significantly in global markets, prompting the jewellers association to adjust local rates in Bangladesh.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:54:04+00:00",
-        "lead_bn": "আন্তর্জাতিক বাজারে সোনার দাম বড় পতনের মুখে পড়ায় দেশের বাজারেও নতুন দর কার্যকর করেছে জুয়েলারি সমিতি।",
-        "lead_en": "Gold prices dropped significantly in global markets, prompting the jewellers association to adjust local rates in Bangladesh.",
-        "bullets_bn": [
-          "আন্তর্জাতিক বাজারে মূল্যবান এই ধাতুর দামে বড় ধরনের সাপ্তাহিক দরপতন রেকর্ড করা হয়েছে।",
-          "বিশ্ববাজারের সাথে সামঞ্জস্য রেখে দেশের বাজারে সোনার নতুন দাম নির্ধারণ ও কার্যকর করা হয়েছে।",
-          "স্থানীয় বাজারে ক্রেতারা এখন নির্ধারিত নতুন মূল্যে সোনা কেনাবেচা করতে পারছেন।"
-        ],
-        "bullets_en": [
-          "A significant weekly price drop for the precious metal has been recorded in global markets.",
-          "New gold prices have been fixed and implemented locally to align with international trends.",
-          "Local buyers are now trading gold at the newly adjusted market rates."
-        ],
-        "impact_bn": "সোনার দাম হ্রাসের ফলে দেশের গহনা ক্রেতা ও সাধারণ মানুষের জন্য অলংকার কেনা কিছুটা সাশ্রয়ী হয়েছে।",
-        "impact_en": "The reduction in gold prices makes purchasing jewelry slightly more affordable for local consumers.",
-        "details_bn": "আন্তর্জাতিক বাজারে অর্থনৈতিক বিভিন্ন সূচক ও মুদ্রার মান পরিবর্তনের প্রভাবে গত কয়েকদিন ধরে সোনার দাম কমছিল। এর ধারাবাহিকতায় স্থানীয় বাজারেও এর প্রভাব পড়েছে। বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বিশ্ববাজারের সাথে সামঞ্জস্য রেখে নিয়মিতভাবে দেশের বাজারে সোনার দাম নির্ধারণ করে থাকে। সর্বশেষ দরপতনের ফলে ক্রেতাদের মধ্যে কিছুটা স্বস্তি ফিরেছে।",
-        "details_en": "Gold prices have been declining globally over the past few days due to shifts in economic indicators and currency values. This trend directly impacted the domestic market, prompting the Bangladesh Jewellers Association to adjust rates accordingly. Regular price revisions are conducted to reflect global market realities and maintain market stability."
-      }
-    },
-    {
-      "story_id": "6e4e89c5-e1f0-5d3b-87a3-e3c390825e36",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T08:53:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9044,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/hocky/1171139",
-          "title": "এশিয়ার সেরাদের বিপক্ষে খেলা চ্যালেঞ্জিং, দিল্লি যাওয়ার আগে আশরাফুল",
-          "snippet": "এশিয়ার সেরাদের বিপক্ষে খেলা চ্যালেঞ্জিং, দিল্লি যাওয়ার আগে আশরাফুল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ঢাকা ছেড়েছে বাংলাদেশ দল",
-        "title_en": "Bangladesh Hockey Team Leaves for Asian Champions Trophy",
-        "summary_bn": "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ভারতের উদ্দেশে ঢাকা ছেড়েছে।",
-        "summary_en": "The Bangladesh national hockey team has departed Dhaka for India to participate in the Asian Champions Trophy.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T08:53:46+00:00",
-        "lead_bn": "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ভারতের উদ্দেশে ঢাকা ছেড়েছে।",
-        "lead_en": "The Bangladesh national hockey team has departed Dhaka for India to participate in the Asian Champions Trophy.",
-        "bullets_bn": [
-          "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশগ্রহণের উদ্দেশ্যে ভারত অভিমুখে যাত্রা শুরু করেছে।",
-          "টুর্নামেন্টে এশিয়ার শীর্ষ দলগুলোর বিপক্ষে খেলা চ্যালেঞ্জিং হবে বলে উল্লেখ করেছেন জাতীয় হকি দলের সংশ্লিষ্টরা।",
-          "ভারত পৌঁছে নির্ধারিত অনুশীলন ও প্রস্তুতি ম্যাচ শেষে প্রতিযোগিতার মূল পর্বে অংশ নেবে বাংলাদেশ দল।"
-        ],
-        "bullets_en": [
-          "The Bangladesh national hockey team began their journey toward India to participate in the Asian Champions Trophy.",
-          "Team representatives noted that competing against top-tier Asian opponents in the tournament will present a significant challenge.",
-          "Upon reaching India, the Bangladesh team will complete scheduled practice sessions and preparation matches before the main tournament."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকি প্রতিযোগিতায় অংশ নিতে বাংলাদেশ জাতীয় হকি দল ভারতের উদ্দেশ্যে রওনা হয়েছে। মহাদেশীয় শীর্ষ দলগুলোর অংশগ্রহণে এই টুর্নামেন্টে নিজেদের সেরাটা প্রদর্শনের লক্ষ্য নিয়ে মাঠে নামবে লাল-সবুজের প্রতিনিধিরা। টুর্নামেন্ট শুরুর আগে কন্ডিশন ও নিজেদের কৌশল গুছিয়ে নিতে ভারতের মাটিতে প্রস্তুতি সম্পন্ন করবে দল।",
-        "details_en": "The Bangladesh national hockey team has departed for India to compete in the Asian Champions Trophy. The red-and-green representatives aim to showcase their best performance in this tournament featuring top continental teams. Before the tournament commences, the team will complete their preparations on Indian soil to adapt to conditions and refine strategies."
+        "impact_bn": "সাধারণ নাগরিক ও শিক্ষার্থীরা নিরাপদ ও নির্বিঘ্নে চলাচল করতে পারবে এবং ছিনতাইয়ের আতঙ্ক কিছুটা কমবে।",
+        "impact_en": "Ordinary citizens and commuters will experience enhanced security and reduced fear of muggings in public spaces.",
+        "details_bn": "সাম্প্রতিক সময়ে বন্দরনগরী চট্টগ্রামে কিশোর গ্যাংয়ের দৌরাত্ম্য, ছিনতাই এবং চাঁদাবাজি বেড়ে যাওয়ায় সাধারণ মানুষের মধ্যে উদ্বেগ তৈরি হয়। এই পরিস্থিতি নিয়ন্ত্রণে পুলিশ ও অন্যান্য আইনশৃঙ্খলা রক্ষাকারী বাহিনী যৌথভাবে বিভিন্ন অপরাধপ্রবণ এলাকায় চিরুনি অভিযান পরিচালনা করে আসছে। অপরাধীদের আইনের আওতায় এনে নগরীর আইনশৃঙ্খলার অবনতি রোধ করতে এই ধরনের ধারাবাহিক ও সাঁড়াশি অভিযান পরিচালনা করা হচ্ছে।",
+        "details_en": "Rising incidents of juvenile delinquency, mugging, and extortion in the port city recently sparked public concern. To restore order, law enforcement agencies intensified coordinated crackdowns across crime-prone neighborhoods, aiming to curb underworld activities and ensure public safety."
       }
     }
   ]
