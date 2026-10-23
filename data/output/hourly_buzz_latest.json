@@ -1,59 +1,61 @@
 {
-  "updated_at": "2026-10-23T07:00:56.645992",
+  "updated_at": "2026-10-23T08:00:50.686607",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "f427d923-adef-5f2f-a760-d58d1fa0d345",
+      "story_id": "7533127c-ed8e-5501-9f5b-853196ae3c35",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "tech_innovation"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fn079gn9s%2FMOHOSENIRAN.avif?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T06:59:21+00:00",
+      "published_at": "2026-10-23T06:45:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.9125,
+      "rank_score": 1.03,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171116",
-          "title": "সৌদির বিমানবন্দরে হামলায় নিহত শাহেদের মরদেহ ঢাকায় পৌঁছেছে",
-          "snippet": "সৌদির বিমানবন্দরে হামলায় নিহত শাহেদের মরদেহ ঢাকায় পৌঁছেছে"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/0hylf58itn",
+          "title": "ইরানে আবার হামলা হলে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি",
+          "snippet": "ইরানে আবার হামলা হলে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদির বিমানবন্দরে হুথি হামলায় নিহত বাংলাদেশি শাহেদের মরদেহ ঢাকায় পৌঁছেছে",
-        "title_en": "Body of Bangladeshi Shahed Killed in Saudi Airport Attack Arrives in Dhaka",
-        "summary_bn": "সৌদি আরবের রিয়াদে কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহী হামলায় নিহত বাংলাদেশি নাগরিক শাহেদ আহমেদ আশিকের মরদেহ ঢাকায় এসে পৌঁছেছে।",
-        "summary_en": "The body of Bangladeshi national Shahed Ahmed Ashik, who was killed in a Houthi rebel attack at Riyadh's King Khalid International Airport, has arrived in Dhaka.",
+        "title_bn": "যুক্তরাষ্ট্র বা ইসরায়েল নতুন হামলা চালালে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি ইরানের",
+        "title_en": "Iran Threatens to Destroy Middle East Oil and AI Infrastructure If Attacked",
+        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ফের সামরিক আগ্রাসন চালালে পারস্য উপসাগরীয় অঞ্চলে সর্বাত্মক পাল্টা আঘাতের কঠোর হুঁশিয়ারি দিয়েছে ইরান।",
+        "summary_en": "Iran has issued a stern warning of all-out retaliation against any new military aggression by the United States and Israel.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:59:21+00:00",
-        "lead_bn": "সৌদি আরবের রিয়াদে কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহী হামলায় নিহত বাংলাদেশি নাগরিক শাহেদ আহমেদ আশিকের মরদেহ ঢাকায় এসে পৌঁছেছে।",
-        "lead_en": "The body of Bangladeshi national Shahed Ahmed Ashik, who was killed in a Houthi rebel attack at Riyadh's King Khalid International Airport, has arrived in Dhaka.",
+        "published_at": "2026-10-23T06:45:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ফের সামরিক আগ্রাসন চালালে পারস্য উপসাগরীয় অঞ্চলে সর্বাত্মক পাল্টা আঘাতের কঠোর হুঁশিয়ারি দিয়েছে ইরান।",
+        "lead_en": "Iran has issued a stern warning of all-out retaliation against any new military aggression by the United States and Israel.",
         "bullets_bn": [
-          "রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথিদের হামলায় নিহত দুই বাংলাদেশির একজন ছিলেন শাহেদ আহমেদ আশিক।",
-          "সৌদি আরব থেকে বিমানযোগে শাহেদের মরদেহ ঢাকায় আনার পর আনুষ্ঠানিকতা সম্পন্ন করে পরিবারের কাছে হস্তান্তর করা হয়েছে।",
-          "নিহতের পরিবারকে যথাযথ সরকারি সহায়তা প্রদানে প্রবাসী কল্যাণ মন্ত্রণালয় কাজ করছে।"
+          "যুক্তরাষ্ট্র ও ইসরায়েল নতুন হামলা চালালে উপসাগরীয় সাতটি দেশের তেল স্থাপনা এবং কৃত্রিম বুদ্ধিমত্তা অবকাঠামো ধ্বংসের হুমকি দিয়েছে তেহরান।",
+          "ইরানের সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সচিব মহসেন রেজাই জানিয়েছেন, হামলা হলে তেহরান আরও বড় ও ধ্বংসাত্মক সামরিক কৌশল নেবে।",
+          "আসন্ন যুদ্ধের আশঙ্কায় বিশ্ববাজারে অপরিশোধিত ব্রেন্ট ক্রুড তেলের দাম বেড়ে প্রতি ব্যারেল ১১৩ দশমিক ৪ ডলারে পৌঁছেছে।"
         ],
         "bullets_en": [
-          "Shahed Ahmed Ashik was one of two Bangladeshis killed in the Houthi rebel drone attack at Riyadh's King Khalid International Airport.",
-          "His remains were flown back to Dhaka from Saudi Arabia and handed over to his grieving family following official procedures.",
-          "The Expatriates' Welfare Ministry is coordinating support and compensation processes for the victim's family."
+          "Tehran threatened to destroy oil facilities and AI infrastructure across seven Gulf nations if targeted by a new US-Israeli attack.",
+          "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, warned that Tehran would adopt a larger and more destructive military strategy.",
+          "Amid fears of an impending conflict, Brent crude oil prices in the global market surged to $113.4 per barrel."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি শ্রমিকদের নিরাপত্তা ও তাদের পরিবারের সুরক্ষা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The incident raises renewed security concerns for migrant workers in the Middle East and highlights the vulnerabilities of expatriates in conflict zones.",
-        "details_bn": "সৌদি আরবের রিয়াদে অবস্থিত কিং খালিদ আন্তর্জাতিক বিমানবন্দরে হুথি বিদ্রোহীদের ড্রোন বা ক্ষেপণাস্ত্র হামলায় বেশ কয়েকজন বিদেশি নাগরিক হতাহত হন। ওই হামলায় নিহত ১৩ জনের মধ্যে দুই বাংলাদেশি ছিলেন। এই ঘটনার পর মধ্যপ্রাচ্যের বিভিন্ন সংঘাতপূর্ণ এলাকায় কর্মরত প্রবাসী বাংলাদেশিদের নিরাপত্তা নিশ্চিত করার জোরালো দাবি ওঠে। প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় নিহতদের মরদেহ দেশে ফিরিয়ে আনা এবং ক্ষতিগ্রস্ত পরিবারগুলোকে ক্ষতিপূরণ দেওয়ার প্রক্রিয়া তদারকি করে আসছে।",
-        "details_en": "Several foreign nationals were casualties when Houthi rebels launched attacks targeting Riyadh's King Khalid International Airport, resulting in thirteen deaths, including two Bangladeshis. The tragedy intensified concerns regarding the safety of millions of expatriate workers residing in the Middle East. The Ministry of Expatriates' Welfare and Overseas Employment has been actively coordinating the repatriation of deceased workers and ensuring due compensation for their families."
+        "impact_bn": "মধ্যপ্রাচ্যে সম্ভাব্য যুদ্ধের আশঙ্কায় বিশ্ববাজারে তেলসহ জ্বালানির মূল্যবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়িয়ে দিতে পারে।",
+        "impact_en": "Fears of a potential Middle East war and rising global oil prices could increase the cost of living for ordinary citizens.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য যৌথ সামরিক হামলার প্রস্তুতির জবাবে তেহরান এই কড়া হুঁশিয়ারি দিয়েছে। পেন্টাগন ইরানে সম্ভাব্য লক্ষ্যবস্তুর তালিকা প্রস্তুত করেছে এবং মধ্যপ্রাচ্যে সামরিক উপস্থিতি বাড়িয়েছে। এই উত্তেজনার ফলে বিশ্ব অর্থনীতি ও জ্বালানি সরবরাহে বড় ধরনের সংকটের ঝুঁকি তৈরি হয়েছে।",
+        "details_en": "Tehran issued this stern warning in response to preparations for a potential joint US-Israeli military strike. The Pentagon has reportedly prepared a target list and increased military assets in the Middle East, raising concerns over global economic stability and energy supplies."
       }
     },
     {
@@ -72,7 +74,7 @@
       "published_at": "2026-10-23T06:44:06+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6405,
+      "rank_score": 1.0238,
       "sources": [
         {
           "name": "Channel i",
@@ -82,7 +84,7 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "দিল্লিতে দিলজিত দোসাঞ্জের কনসার্টের অনুমতি বাতিল করল পুলিশ",
+        "title_bn": "দিল্লিতে দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি বাতিল করল পুলিশ",
         "title_en": "Delhi Police Denies Permission for Diljit Dosanjh Concert",
         "summary_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
         "summary_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
@@ -97,134 +99,23 @@
         "lead_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
         "lead_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
         "bullets_bn": [
-          "নিরাপত্তা ও উৎসবের মৌসুমের বাড়তি দায়িত্বের কারণ দেখিয়ে কনসার্টের অনুমতি বাতিল করেছে দিল্লি পুলিশ",
-          "এই কনসার্টের মাধ্যমে ভারতে দিলজিতের অরা ওয়ার্ল্ড ট্যুর শুরু হওয়ার কথা ছিল",
-          "দিল্লির কনসার্ট স্থগিত হওয়ায় পুরো ভারত সফরের সূচি ও পরবর্তী আয়োজন নিয়ে অনিশ্চয়তা তৈরি হয়েছে"
+          "নিরাপত্তা উদ্বেগ ও উৎসব মৌসুমের বাড়তি দায়িত্বের কথা বলে কনসার্টের অনুমতি অস্বীকার করা হয়েছে",
+          "দিল্লির এই অনুষ্ঠানের মাধ্যমেই ভারতে গায়কের অরা ওয়ার্ল্ড ট্যুর শুরু হওয়ার কথা ছিল",
+          "অনুমতি না পাওয়ায় ভারতের অন্যান্য শহরে কনসার্ট আয়োজন নিয়েও অনিশ্চয়তা তৈরি হয়েছে"
         ],
         "bullets_en": [
-          "Delhi Police cancelled the concert permission citing security concerns and festival season duties",
-          "The cancelled event was scheduled to launch Diljit Dosanjh's Aura World Tour in India",
-          "The cancellation creates uncertainty over the singer's upcoming tour schedule across Indian cities"
+          "Police denied permission citing security concerns and high workload during the festive season",
+          "The Delhi event was scheduled to launch the singer's Aura World Tour in India",
+          "Uncertainty looms over upcoming shows in other Indian cities following the cancellation"
         ],
-        "impact_bn": "এই সিদ্ধান্তের ফলে ভারতের সংগীতপ্রেমী ও অনুরাগীদের মাঝে তীব্র হতাশার সৃষ্টি হয়েছে।",
-        "impact_en": "The cancellation has sparked disappointment among music enthusiasts and fans awaiting the tour.",
-        "details_bn": "পাঞ্জাবি গায়ক ও অভিনেতা দিলজিৎ দোসাঞ্জের অরা ওয়ার্ল্ড ট্যুরের অংশ হিসেবে ৩০ অক্টোবর দিল্লির জওহরলাল নেহরু স্টেডিয়ামে কনসার্টটি হওয়ার কথা ছিল। দিল্লির পর ইন্দোর, আহমেদাবাদ, মুম্বাই ও বেঙ্গালুরুসহ বেশ কয়েকটি শহরে তার পারফর্ম করার পরিকল্পনা রয়েছে। বিশ্বজুড়ে সফলভাবে কনসার্ট শেষ করলেও ভারতের এই সূচনা পর্বে অনুমতি না মেলায় সামগ্রিক আয়োজন নিয়ে প্রশ্ন দেখা দিয়েছে।",
-        "details_en": "Punjabi singer and actor Diljit Dosanjh was scheduled to perform at Delhi's Jawaharlal Nehru Stadium as part of his Aura World Tour. The tour includes subsequent stops in Indore, Ahmedabad, Mumbai, and Bengaluru. While the artist has successfully performed across North America, Europe, and Australia, the setback in Delhi creates logistical uncertainty for the rest of the Indian leg."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বিশ্বজুড়ে সংগীত সফরের অংশ হিসেবে উত্তর আমেরিকা, ইউরোপ ও অস্ট্রেলিয়ার বিভিন্ন দেশে সফল পারফর্ম করেছেন পাঞ্জাবি গায়ক ও অভিনেতা দিলজিৎ দোসাঞ্জ। ভারতে তার অরা ওয়ার্ল্ড ট্যুরের সূচনা হওয়ার কথা ছিল দিল্লি থেকে। এর ধারাবাহিকতায় ইন্দোর, আহমেদাবাদ, মুম্বাই, বেঙ্গালুরু, লক্ষ্ণৌ ও চণ্ডীগড়ে কনসার্ট হওয়ার কথা থাকলেও দিল্লির এই অনুমতি বাতিলের ফলে পুরো সফরসূচি নিয়ে সংশয় তৈরি হয়েছে।",
+        "details_en": "Punjabi singer and actor Diljit Dosanjh has successfully performed across North America, Europe, and Australia as part of his global music tours. His Aura World Tour in India was planned to kick off in Delhi, followed by shows in Indore, Ahmedabad, Mumbai, Bengaluru, Lucknow, and Chandigarh. However, the denial of permission in Delhi has cast doubt over the entire concert schedule."
       }
     },
     {
-      "story_id": "5ccdf69c-767f-5c66-9ef2-8d737e1dfe60",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%8C%E0%A6%81%E0%A6%9B%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B9.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T06:27:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4159,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-body-of-the-bangladeshi-national-killed-in-an-attack-at-a-saudi-airport-has-arrived-in-the-country/",
-          "title": "দেশে পৌঁছেছে সৌদি বিমানবন্দরে হামলায় নিহত বাংলাদেশির মরদেহ",
-          "snippet": "দেশে পৌঁছেছে সৌদি বিমানবন্দরে হামলায় নিহত বাংলাদেশির মরদেহ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি বিমানবন্দর হামলায় নিহত বাংলাদেশির মরদেহ দেশে পৌঁছেছে",
-        "title_en": "Body of Bangladeshi killed in Saudi airport attack arrives home",
-        "summary_bn": "সৌদি আরবের রিয়াদে বিমানবন্দর হামলায় নিহত বাংলাদেশি নাগরিক মো. শাহেদ আহম্মেদের মরদেহ হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এসে পৌঁছেছে।",
-        "summary_en": "The body of Bangladeshi national Md. Shahed Ahmed, killed in a Saudi airport attack, arrived at Hazrat Shahjalal International Airport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:27:40+00:00",
-        "lead_bn": "সৌদি আরবের রিয়াদে বিমানবন্দর হামলায় নিহত বাংলাদেশি নাগরিক মো. শাহেদ আহম্মেদের মরদেহ হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে এসে পৌঁছেছে।",
-        "lead_en": "The body of Bangladeshi national Md. Shahed Ahmed, killed in a Saudi airport attack, arrived at Hazrat Shahjalal International Airport.",
-        "bullets_bn": [
-          "সৌদি আরবের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলায় নিহত মো. শাহেদ আহম্মেদের মরদেহ দেশে ফিরিয়ে আনা হয়েছে।",
-          "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দরে মরদেহ গ্রহণ করেন পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম।",
-          "নিহতের পরিবারকে দাফন ও যাতায়াত বাবদ ৩৫ হাজার টাকা এবং বিশেষ অনুদান হিসেবে ৫০ হাজার টাকা দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "The body of Md. Shahed Ahmed, killed in an attack at King Khaled International Airport in Riyadh, was brought back home.",
-          "State Minister for Foreign Affairs Shama Obaid Islam received the body at Hazrat Shahjalal International Airport.",
-          "The bereaved family received 35,000 taka for burial and transport, plus a special grant of 50,000 taka."
-        ],
-        "impact_bn": "বিদেশগামী প্রবাসী কর্মী ও তাদের পরিবারগুলোর নিরাপত্তা এবং বিদেশে মর্মান্তিক মৃত্যুর ঘটনায় সরকারের সহায়তা প্রদানের বিষয়টি সুনিশ্চিত হয়।",
-        "impact_en": "Highlights the safety concerns of migrant workers abroad and the government support provided during overseas tragedies.",
-        "details_bn": "গত ১০ অক্টোবর সৌদি আরবের রিয়াদের কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হুথিদের ক্ষেপণাস্ত্র হামলায় নিহত ১৩ জনের মধ্যে বাংলাদেশি নাগরিক শাহেদ আহম্মেদ ও কুমিল্লার ওমরাহ ভিসাধারী মো্স নাসরুল্লাহ বদরপুরি প্রাণ হারান। ওই হামলায় আরও ২৭ বাংলাদেশি আহত হন। পরবর্তীতে প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের মাধ্যমে নিহতদের মরদেহ দেশে ফিরিয়ে আনার প্রক্রিয়া সম্পন্ন করা হয় এবং নিহতের পরিবারকে তাৎক্ষণিক আর্থিক সহায়তা প্রদান করা হয়।",
-        "details_en": "On October 10, Houthi missile strikes at King Khaled International Airport in Riyadh killed 13 people, including Bangladeshi nationals Shahed Ahmed and Md. Nasrullah Badrpuri from Cumilla, while injuring 27 other Bangladeshis. Subsequently, the Ministry of Expatriates' Welfare and Overseas Employment facilitated the repatriation of the bodies and provided immediate financial assistance to the victim's family."
-      }
-    },
-    {
-      "story_id": "649ad11e-e208-5577-97e1-8e1644bb0515",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#CumillaCrime",
-        "#MurderCase",
-        "#BangladeshPolice"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Oprotim.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-23T06:06:02+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1928,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/chargesheet-filed-cumillas-oprotim-murder-case-4305646",
-          "title": "Chargesheet filed in Cumilla's Oprotim murder case",
-          "snippet": "Chargesheet filed in Cumilla's Oprotim murder case"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুমিল্লায় অপ্রটিম হত্যা মামলায় চারজনের বিরুদ্ধে চার্জশিট দাখিল",
-        "title_en": "Chargesheet filed against four individuals in Cumilla Oprotim murder case",
-        "summary_bn": "পুলিশ কুমিল্লায় কিশোর ইশিয়াত শাহরিয়ার অপ্রটিম হত্যা মামলায় দুই শিশুসহ চারজনের বিরুদ্ধে চার্জশিট দাখিল করেছে।",
-        "summary_en": "Police have submitted a chargesheet against four individuals, including two juveniles, in the murder case of teenager Ishiat Shahriar Oprotim in Cumilla.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:06:02+00:00",
-        "lead_bn": "পুলিশ কুমিল্লায় কিশোর ইশিয়াত শাহরিয়ার অপ্রটিম হত্যা মামলায় দুই শিশুসহ চারজনের বিরুদ্ধে চার্জশিট দাখিল করেছে।",
-        "lead_en": "Police have submitted a chargesheet against four individuals, including two juveniles, in the murder case of teenager Ishiat Shahriar Oprotim in Cumilla.",
-        "bullets_bn": [
-          "তদন্ত কর্মকর্তা আদালতে চার্জশিট জমা দিয়েছেন যাতে চারজনকে অভিযুক্ত করা হয়েছে।",
-          "আইফোন ছিনতাইয়ের চেষ্টার সময় মাথায় কোদালের হাতলের আঘাতে অপ্রটিম নিহত হয়।",
-          "বাদী দ্রুত বিচার ও আসামিদের সর্বোচ্চ শাস্তি দাবি করেছেন।"
-        ],
-        "bullets_en": [
-          "The investigating officer submitted the chargesheet to the court naming four accused individuals.",
-          "Oprotim was struck on the head with a spade handle while resisting an iPhone snatching attempt.",
-          "The victim's father demanded a speedy trial and maximum punishment for the responsible parties."
-        ],
-        "impact_bn": "এই বিচার প্রক্রিয়া দ্রুত সম্পন্ন হলে কিশোর অপরাধ ও ছিনতাই রোধে জননিরাপত্তা জোরদার হবে।",
-        "impact_en": "Swift justice in this case reinforces public safety concerns regarding juvenile crime and street muggings.",
-        "details_bn": "কুমিল্লায় ১৩ বছর বয়সী ইশিয়াত শাহরিয়ার অপ্রটিম হত্যার ঘটনায় পুলিশ চারজনকে অভিযুক্ত করে আদালতে চার্জশিট জমা দিয়েছে। আইফোন ছিনতাইয়ে বাধা দেওয়ায় তাকে হত্যা করা হয় বলে চার্জশিটে উল্লেখ করা হয়েছে। অভিযুক্তদের মধ্যে দুজন অপ্রাপ্তবয়স্ক এবং দুজন প্রাপ্তবয়স্ক রয়েছে। মামলার বাদী ও নিহতের পিতা দ্রুত বিচার এবং অপরাধীদের কঠোর শাস্তির দাবি জানিয়েছেন।",
-        "details_en": "Police submitted a chargesheet in Cumilla naming four individuals, including two juveniles, for the murder of 13-year-old Ishiat Shahriar Oprotim. According to the investigation, the victim was killed after resisting an attempt to snatch his iPhone. The victim's father has demanded a speedy trial and maximum legal accountability for all involved perpetrators."
-      }
-    },
-    {
-      "story_id": "db3bd8e0-1a0d-51ee-8d25-3f4eefe466a5",
+      "story_id": "57b010ee-417b-534e-89f8-193c4857dc02",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -233,102 +124,212 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/President-5-1.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fmmzu62xv%2FNCP.jpg?rect=280%2C0%2C1046%2C549&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T06:59:58+00:00",
+      "published_at": "2026-10-23T07:55:57+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9626,
+      "rank_score": 0.9236,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/president-visits-hospital-to-see-ailing-dr-abdul-moyeen-khan/",
-          "title": "অসুস্থ ড. আবদুল মঈন খানকে দেখতে হাসপাতালে রাষ্ট্রপতি",
-          "snippet": "অসুস্থ ড. আবদুল মঈন খানকে দেখতে হাসপাতালে রাষ্ট্রপতি"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/669vboj19s",
+          "title": "এনসিপিতে পাটওয়ারী-হাসনাত-সারজিস-আসিফের পদোন্নতি, বিলুপ্ত ৭ পদ",
+          "snippet": "এনসিপিতে পাটওয়ারী-হাসনাত-সারজিস-আসিফের পদোন্নতি, বিলুপ্ত ৭ পদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এভারকেয়ার হাসপাতালে চিকিৎসাধীন ড. আবদুল মঈন খানকে দেখতে যান রাষ্ট্রপতি",
-        "title_en": "President Visits Ailing BNP Standing Committee Member Abdul Moyeen Khan at Hospital",
-        "summary_bn": "রাষ্ট্রপতি রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন বিএনপির স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খানকে দেখতে গিয়ে তার শারীরিক অবস্থার খোঁজখবর নেন।",
-        "summary_en": "The President visited ailing BNP standing committee member Abdul Moyeen Khan at Evercare Hospital to check on his health condition.",
+        "title_bn": "জাতীয় নাগরিক পার্টির ১৯৫ সদস্যের পুনর্গঠিত কমিটি ঘোষণা ও সাত পদ বিলুপ্ত",
+        "title_en": "National Citizens Party Announces 195-Member Restructured Committee and Abolishes Seven Posts",
+        "summary_bn": "জাতীয় নাগরিক পার্টি ১৯৫ সদস্যের পুনর্গঠিত কমিটি প্রকাশ করেছে যেখানে একাধিক শীর্ষ নেতার পদোন্নতি এবং সাতটি সাংগঠনিক পদ বিলুপ্ত করা হয়েছে।",
+        "summary_en": "The National Citizens Party has released a restructured 195-member committee, featuring promotions for key leaders and the abolition of seven posts.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:59:58+00:00",
-        "lead_bn": "রাষ্ট্রপতি রাজধানীর এভারকেয়ার হাসপাতালে চিকিৎসাধীন বিএনপির স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খানকে দেখতে গিয়ে তার শারীরিক অবস্থার খোঁজখবর নেন।",
-        "lead_en": "The President visited ailing BNP standing committee member Abdul Moyeen Khan at Evercare Hospital to check on his health condition.",
+        "published_at": "2026-10-23T07:55:57+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টি ১৯৫ সদস্যের পুনর্গঠিত কমিটি প্রকাশ করেছে যেখানে একাধিক শীর্ষ নেতার পদোন্নতি এবং সাতটি সাংগঠনিক পদ বিলুপ্ত করা হয়েছে।",
+        "lead_en": "The National Citizens Party has released a restructured 195-member committee, featuring promotions for key leaders and the abolition of seven posts.",
         "bullets_bn": [
-          "রাষ্ট্রপতি হাসপাতালে গিয়ে চিকিৎসাধীন ড. আবদুল মঈন খানের শারীরিক অবস্থার খোঁজখবর নেন।",
-          "শ্বাসকষ্ট ও হৃদ্‌রোগজনিত সমস্যার কারণে ড. আবদুল মঈন খানকে এভারকেয়ার হাসপাতালে ভর্তি করা হয়।",
-          "বিশেষজ্ঞ চিকিৎসকদের তত্ত্বাবধানে বর্তমানে তার চিকিৎসা ও পর্যবেক্ষণ চলছে।"
+          "নাসীরুদ্দীন পাটওয়ারী ও হাসনাত আবদুল্লাহকে জ্যেষ্ঠ যুগ্ম আহ্বায়ক এবং সারজিস আলম ও আসিফ মাহমুদকে জ্যেষ্ঠ যুগ্ম সদস্যসচিব হিসেবে পদোন্নতি দেওয়া হয়েছে।",
+          "নতুন কমিটিতে ২৪ জন যুগ্ম আহ্বায়ক, ছয়জন যুগ্ম সদস্যসচিব, ৩২টি সম্পাদকীয় পদ এবং ১১ জন সাংগঠনিক সম্পাদক রাখা হয়েছে।",
+          "সাংগঠনিক কাঠামো ঢেলে সাজানোর প্রক্রিয়ার অংশ হিসেবে মুখ্য সমন্বয়ক ও মুখপাত্রসহ মোট সাতটি পদ বিলুপ্ত করা হয়েছে।"
         ],
         "bullets_en": [
-          "The President visited the hospital to inquire about the health condition of Abdul Moyeen Khan.",
-          "Abdul Moyeen Khan was admitted to Evercare Hospital due to respiratory distress and heart-related complications.",
-          "He is currently receiving treatment and medical observation under specialist physicians."
+          "Nasiruddin Patwary and Hasnat Abdullah have been promoted to senior joint conveners, while Sarjis Alam and Asif Mahmud are now senior joint member secretaries.",
+          "The new committee includes 24 joint conveners, six joint member secretaries, 32 editorial positions, and 11 organizational secretaries.",
+          "A total of seven organizational posts, including chief coordinator and spokesperson, have been abolished to streamline the party structure."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিএনপির জাতীয় স্থায়ী কমিটির সদস্য ড. আবদুল মঈন খান হঠাৎ অসুস্থ হয়ে পড়লে তাকে দ্রুত রাজধানীর এভারকেয়ার হাসপাতালে ভর্তি করা হয়। শ্বাসকষ্ট ও হৃদ্‌রোগজনিত জটিলতা নিয়ে হাসপাতালে ভর্তি হওয়ার পর থেকেই তিনি চিকিৎসকদের তত্ত্বাবধানে চিকিৎসাধীন রয়েছেন। এর আগে তার শারীরিক অবস্থা স্থিতিশীল বলে জানিয়েছেন সংশ্লিষ্ট চিকিৎসকরা। রাজনৈতিক অঙ্গনের এই জ্যেষ্ঠ নেতার অসুস্থতার খবর পাওয়ার পর থেকেই দলীয় নেতাকর্মী ও শুভানুধ্যায়ীরা তার সুস্থতা কামনা করছেন।",
-        "details_en": "BNP National Standing Committee member Abdul Moyeen Khan was admitted to Evercare Hospital after suddenly falling ill. He has been undergoing treatment under specialist doctors due to respiratory and cardiac complications. Earlier, his physical condition was reported to be stable by the concerned medical team. Following news of his illness, party leaders, activists, and well-wishers have continuously monitored his condition and wished for his swift recovery."
+        "details_bn": "সালের ২৮ ফেব্রুয়ারি ২১৭ সদস্যের কমিটি নিয়ে জাতীয় নাগরিক পার্টি যাত্রা শুরু করে। পরবর্তীতে দলের কার্যক্রমে বিভিন্ন সংযোজন ও বিয়োজন ঘটে। পুনর্গঠিত এই নতুন কমিটিতে অবিভক্ত বাংলার প্রথম প্রধানমন্ত্রী শেরেবাংলা এ কে ফজলুল হকের নাতনি এ কে ফ্লোরা এবং বিএনপির বহিষ্কৃত নেতা ইসহাক সরকার যুগ্ম আহ্বায়কের পদ লাভ করেছেন। এর মধ্য দিয়ে রাজনৈতিক দলটির অভ্যন্তরীণ সাংগঠনিক কাঠামোর বড় ধরনের রদবদল ঘটল।",
+        "details_en": "The National Citizens Party initially launched on February 28, 2025, with a 217-member committee. Following subsequent additions and adjustments, the newly restructured committee has inducted notable figures such as AK Flora, granddaughter of undivided Bengal's first prime minister Sher-e-Bangla AK Fazlul Huq, and expelled BNP leader Ishak Sarkar as joint conveners, marking a significant administrative overhaul within the party."
       }
     },
     {
-      "story_id": "b1177cff-5537-5883-be4a-5ed6fe571893",
-      "primary_category": "society_education",
+      "story_id": "15ea5ca9-c0c4-5efe-8e3b-e226fe3840ba",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "society_education"
       ],
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/image-287157.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T06:54:12+00:00",
+      "published_at": "2026-10-23T07:54:08+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9061,
+      "rank_score": 0.9064,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/poems-of-freedom-from-urban-life-shamsur-rahmans-98th-birthday/",
-          "title": "নাগরিক জীবন থেকে স্বাধীনতার কবিতা, শামসুর রাহমানের ৯৮তম জন্মদিন",
-          "snippet": "নাগরিক জীবন থেকে স্বাধীনতার কবিতা, শামসুর রাহমানের ৯৮তম জন্মদিন"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/ncp/976211/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87",
+          "title": "এনসিপি পুনর্গঠন, নতুন দায়িত্বে হাসনাত-সারজিস-আসিফ-পাটওয়ারী",
+          "snippet": "এনসিপি পুনর্গঠন, নতুন দায়িত্বে হাসনাত-সারজিস-আসিফ-পাটওয়ারী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলা কবিতার প্রধান পুরোধা ব্যক্তিত্ব শামসুর রাহমানের জন্মবার্ষিকী পালিত",
-        "title_en": "Birth Anniversary of Eminent Bengali Poet Shamsur Rahman Observed",
-        "summary_bn": "নাগরিক জীবন ও স্বাধীনতার চেতনা ধারণকারী বিশিষ্ট কবি শামসুর রাহমানের জন্মবার্ষিকী উদযাপিত হচ্ছে।",
-        "summary_en": "The birth anniversary of prominent poet Shamsur Rahman, known for capturing urban life and independence, is observed.",
+        "title_bn": "জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি গঠিত",
+        "title_en": "National Citizen Party Announces Restructured Central Convener Committee",
+        "summary_bn": "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির তালিকা প্রকাশ করেছে যেখানে গুরুত্বপূর্ণ পদ পরিবর্তন আনা হয়েছে।",
+        "summary_en": "The National Citizen Party has published its restructured central convener committee with key leadership appointments.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:54:12+00:00",
-        "lead_bn": "নাগরিক জীবন ও স্বাধীনতার চেতনা ধারণকারী বিশিষ্ট কবি শামসুর রাহমানের জন্মবার্ষিকী উদযাপিত হচ্ছে।",
-        "lead_en": "The birth anniversary of prominent poet Shamsur Rahman, known for capturing urban life and independence, is observed.",
+        "published_at": "2026-10-23T07:54:08+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির তালিকা প্রকাশ করেছে যেখানে গুরুত্বপূর্ণ পদ পরিবর্তন আনা হয়েছে।",
+        "lead_en": "The National Citizen Party has published its restructured central convener committee with key leadership appointments.",
         "bullets_bn": [
-          "বিশিষ্ট কবি শামসুর রাহমান ১৯২৯ সালের ২৩ অক্টোবর পুরান ঢাকার মাহুতটুলীতে জন্মগ্রহণ করেন।",
-          "তিনি জীবদ্দশায় ৬৬টি কাব্যগ্রন্থ, চারটি উপন্যাস ও বিভিন্ন অনুবাদগ্রন্থসহ সমৃদ্ধ সাহিত্যকর্ম উপহার দেন।",
-          "তার লেখা স্বাধীনতা ও প্রতিবাদের কবিতা বাংলা সাহিত্যকে অনন্য উচ্চতায় পৌঁছে দিয়েছে।"
+          "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির আনুষ্ঠানিক তালিকা প্রকাশ করেছে।",
+          "নাহিদ ইসলাম আহ্বায়ক এবং আখতার হোসেন সদস্যসচিব পদে স্বপদে বহাল রয়েছেন।",
+          "শীর্ষ নেতৃত্বে পরিবর্তন এনে নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক ও সদস্যসচিব পদ দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Eminent poet Shamsur Rahman was born on October 23, 1929, in Mahut-tuli, Old Dhaka.",
-          "He contributed richly to literature with 66 poetry books, four novels, and various translations.",
-          "His poems on independence and resistance have elevated Bengali literature to unique heights."
+          "The National Citizen Party published the official list of its newly restructured central convener committee.",
+          "Nahid Islam remains as convener and Akhter Hossain continues to serve as member secretary.",
+          "Leadership adjustments brought new faces to senior joint convener and joint member secretary positions."
         ],
-        "impact_bn": "তার কবিতা তরুণ সমাজকে মুক্তচিন্তা, অসাম্প্রদায়িকতা ও প্রতিবাদের ভাষা শেখাতে অনুপ্রাণিত করে।",
-        "impact_en": "His poetry inspires the youth with the language of free-thinking, secularism, and resistance.",
-        "details_bn": "সালে জন্মগ্রহণকারী শামসুর রাহমান ঢাকা শহরের অলিগলি, নাগরিক জীবন এবং রাষ্ট্রীয় সংকটের অভিজ্ঞতা তার কবিতায় ফুটিয়ে তুলেছেন। ষাটের দশকে প্রথম কাব্যগ্রন্থ প্রকাশের মধ্য দিয়ে তিনি সাহিত্যে স্বতন্ত্র স্থান করে নেন। ভাষা আন্দোলন ও মুক্তিযুদ্ধের চেতনা তার কবিতায় গভীরভাবে প্রতিফলিত হয়েছে। একুশে পদক ও স্বাধীনতা পদকপ্রাপ্ত এই কবি ২০০৬ সালের ১৭ আগস্ট মৃত্যুবরণ করেন। তার সাহিত্যকর্ম ও বাঙালির সাংস্কৃতিক পরিচয় ও প্রতিবাদের প্রধান দলিল হিসেবে বিবেচিত হয়।",
-        "details_en": "Born in 1929, Shamsur Rahman portrayed the alleys of Dhaka, urban life, and state crises in his poetry. He established a distinct place in literature with his first poetry book in the 1960s. The spirit of the Language Movement and the Liberation War is deeply reflected in his work. The Ekushey Padak and Independence Award-winning poet passed away on August 17, 2006. His literary works remain a vital document of Bengali cultural identity and resistance."
+        "impact_bn": "এই নেতৃত্ব পরিবর্তন দেশের রাজনৈতিক গতিপ্রকৃতি এবং তরুণ সমাজ পরিচালিত রাজনৈতিক কার্যক্রমে সরাসরি প্রভাব ফেলবে।",
+        "impact_en": "This leadership reshuffle directly influences the political landscape and youth-led political activities in the country.",
+        "details_bn": "জাতীয় নাগরিক পার্টি রাজনৈতিকভাবে নিজেদের সাংগঠনিক কাঠামো শক্তিশালী করতে এবং নতুন রূপরেখা দাঁড় করাতে এই কমিটি পুনর্গঠন করেছে। কমিটির শীর্ষ পদে নাহিদ ইসলাম ও আখতার হোসেনের দায়িত্ব অব্যাহত রাখার পাশাপাশি বেশ কিছু নতুন মুখকে গুরুত্বপূর্ণ পদে যুক্ত করা হয়েছে, যা দলের অভ্যন্তরীণ রাজনীতিতে নতুন সমীকরণ তৈরি করতে পারে।",
+        "details_en": "The National Citizen Party restructured its committee to strengthen its organizational framework and political strategy. While retaining Nahid Islam and Akhter Hossain in the top positions, the party integrated several new faces into crucial roles, marking a significant shift in its internal political dynamics."
+      }
+    },
+    {
+      "story_id": "a7e4c179-238b-5197-a5ad-f233d03a4de0",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fr847r1xf%2FTachPic01.jpg?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T07:43:38+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8174,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/technology/zuu95lwd36",
+          "title": "যেভাবে উড়বে টেসলার উড়ন্ত গাড়ি",
+          "snippet": "যেভাবে উড়বে টেসলার উড়ন্ত গাড়ি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টেসলা আনল স্পেসএক্স প্রযুক্তির উড়ন্ত রোডস্টার গাড়ি",
+        "title_en": "Tesla Unveils Flying Roadster Car Powered by SpaceX Tech",
+        "summary_bn": "টেসলা স্পেসএক্স প্রযুক্তির কোল্ড গ্যাস থ্রাস্টার ব্যবহার করে মাটি ছেড়ে আকাশে ভাসতে সক্ষম নতুন রোডস্টার গাড়ি প্রদর্শন করেছে।",
+        "summary_en": "Tesla has showcased a new Roadster capable of hovering above ground using SpaceX-inspired cold-gas thruster technology.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T07:43:38+00:00",
+        "lead_bn": "টেসলা স্পেসএক্স প্রযুক্তির কোল্ড গ্যাস থ্রাস্টার ব্যবহার করে মাটি ছেড়ে আকাশে ভাসতে সক্ষম নতুন রোডস্টার গাড়ি প্রদর্শন করেছে।",
+        "lead_en": "Tesla has showcased a new Roadster capable of hovering above ground using SpaceX-inspired cold-gas thruster technology.",
+        "bullets_bn": [
+          "টেসলা শূন্য থেকে ঘণ্টায় ৬০ মাইল গতিতে পৌঁছাতে সক্ষম এবং ঘণ্টায় ২৩০ মাইলের বেশি গতিসম্পন্ন নতুন রোডস্টার মডেল প্রদর্শন করেছে।",
+          "গাড়িটিতে স্পেসএক্সের আদলে তৈরি কোল্ড গ্যাস থ্রাস্টার প্রযুক্তি এবং উচ্চচাপে বাতাস জমা রাখার বিশেষ সিওপিভি ট্যাংক ব্যবহার করা হয়েছে।",
+          "সীমিত পরিসরে আমন্ত্রণের ভিত্তিতে বিশেষ এই সংস্করণের গাড়ি ক্রয়ের সুযোগ রাখা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Tesla introduced a new Roadster model capable of exceeding 230 mph and accelerating from zero to sixty mph in under a second.",
+          "The vehicle utilizes SpaceX-inspired cold-gas thruster technology and high-pressure carbon-wrapped pressure vessels to generate upward lift.",
+          "The special version of the vehicle is currently available in limited quantities strictly by invitation."
+        ],
+        "impact_bn": "উড়ন্ত প্রযুক্তির এই গাড়ি ভবিষ্যতে শহুরে যানজট এড়ানোর ক্ষেত্রে নতুন সম্ভাবনার দ্বার উন্মোচন করতে পারে।",
+        "impact_en": "This flying car technology could potentially open new possibilities for avoiding urban traffic congestion in the future.",
+        "details_bn": "বৈদ্যুতিক গাড়ি নির্মাতা প্রতিষ্ঠান টেসলা উদ্ভাবনী প্রযুক্তির অংশ হিসেবে তাদের রোডস্টার মডেলের এই নতুন সংস্করণটি নিয়ে এসেছে। স্পেসএক্সের রকেট প্রযুক্তির আদলে তৈরি কোল্ড গ্যাস থ্রাস্টারের মাধ্যমে এটি মাটি ছেড়ে আকাশে ভাসতে পারে। ইলন মাস্কের প্রদর্শনীতে গাড়িটির চালকবিহীন কসরত দেখানো হলেও, দীর্ঘক্ষণ ওড়ার সক্ষমতা এবং সাধারণ সড়কে এর নিরাপত্তা ও কার্যকারিতা নিয়ে এখনো প্রশ্ন রয়েছে।",
+        "details_en": "Electric vehicle manufacturer Tesla has introduced this new version of the Roadster as part of its innovative technology lineup. It utilizes cold-gas thruster technology inspired by SpaceX rockets to lift off the ground. Although autonomous stunts were demonstrated by Elon Musk, questions remain regarding its long-term flight capability, safety, and practical utility on ordinary roads."
+      }
+    },
+    {
+      "story_id": "a71c99db-04cd-5c06-ad85-e3d37eeb63a8",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fpcs4wb95%2Fmessi.jpg?rect=0%2C0%2C1200%2C630&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T07:33:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7467,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.haal.fashion/celeb/look/dkx7b9bvko",
+          "title": "অল-ব্ল্যাক আউটফিটে মেসি-আন্তোনেলা",
+          "snippet": "অল-ব্ল্যাক আউটফিটে মেসি-আন্তোনেলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্পেনে পৌঁছেছেন মেসি",
+        "title_en": "Lionel Messi Arrives in Spain for Princess of Asturias Awards",
+        "summary_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্ত্রী আন্তোনেলা রোকুজ্জোসহ স্পেনের ওভিয়েদো শহরে পৌঁছেছেন লিওনেল মেসি।",
+        "summary_en": "Lionel Messi and his wife Antonela Roccuzzo arrived in Oviedo, Spain, to attend the Princess of Asturias Awards ceremony.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T07:33:44+00:00",
+        "lead_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্ত্রী আন্তোনেলা রোকুজ্জোসহ স্পেনের ওভিয়েদো শহরে পৌঁছেছেন লিওনেল মেসি।",
+        "lead_en": "Lionel Messi and his wife Antonela Roccuzzo arrived in Oviedo, Spain, to attend the Princess of Asturias Awards ceremony.",
+        "bullets_bn": [
+          "লিওনেল মেসি ও তাঁর স্ত্রী আন্তোনেলা রোকুজ্জো স্পেনের ওভিয়েদো শহরে পৌঁছেছেন।",
+          "তারা প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে অংশগ্রহণ করছেন।",
+          "সফরের প্রথম দিনেই তাদের ছিমছাম অল-ব্ল্যাক লুকে দেখা গেছে।"
+        ],
+        "bullets_en": [
+          "Lionel Messi and his wife Antonela Roccuzzo arrived in the Spanish city of Oviedo.",
+          "They are attending the upcoming Princess of Asturias Awards ceremony.",
+          "The couple drew attention by sporting matching all-black outfits on their first day."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্পেনের ওভিয়েদো শহরে আয়োজিত প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠান আন্তর্জাতিক অঙ্গনে অত্যন্ত মর্যাদাপূর্ণ একটি ইভেন্ট। এই অনুষ্ঠানে বিশ্বের বিভিন্ন প্রান্তের বিশিষ্ট ব্যক্তি ও তারকারা অংশগ্রহণ করে থাকেন। ফুটবল তারকা লিওনেল মেসির এই উপস্থিতি এবং তার ফ্যাশন চয়েজ ভক্ত ও গণমাধ্যমের নজর কেড়েছে।",
+        "details_en": "The Princess of Asturias Awards ceremony held in Oviedo, Spain, is a prestigious international event that attracts prominent figures and global stars from various fields. Football star Lionel Messi's attendance alongside his wife and their stylish appearance quickly captured the attention of fans and media outlets worldwide."
       }
     }
   ]
