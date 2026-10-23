@@ -1,119 +1,63 @@
 {
-  "updated_at": "2026-10-23T14:00:50.444140",
+  "updated_at": "2026-10-23T15:00:50.864093",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "626f6e0b-3e86-5d53-89e2-cac0b8f37a47",
-      "primary_category": "world_diplomacy",
+      "story_id": "bb105bdc-7a0d-5753-82b9-36b4e6ac4c8b",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fx2g48rrr%2FCEC.jpg?rect=0%2C111%2C5649%2C2966&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F0qng44ba%2F81a3da8f-0cfb-43fa-9c9e-2ad0f5efde56.jpg?rect=0%2C57%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T13:49:00+00:00",
+      "published_at": "2026-10-23T14:33:37+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7214,
+      "rank_score": 1.4913,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/mv340498h4",
-          "title": "জ্ঞানেশের পদত্যাগের দাবিতে ইসিমুখী বিক্ষোভে পুলিশের ধরপাকড়, যাবেন বলেও অনেকে গরহাজির",
-          "snippet": "জ্ঞানেশের পদত্যাগের দাবিতে ইসিমুখী বিক্ষোভে পুলিশের ধরপাকড়, যাবেন বলেও অনেকে গরহাজির"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/3cwfenoouv",
+          "title": "‘শেখ হাসিনা ডিসেম্বরে ফিরছেন’ মাইকিংয়ের পর নিষিদ্ধ ছাত্রলীগের নেতাসহ দুজন আটক",
+          "snippet": "‘শেখ হাসিনা ডিসেম্বরে ফিরছেন’ মাইকিংয়ের পর নিষিদ্ধ ছাত্রলীগের নেতাসহ দুজন আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দিল্লিতে নির্বাচন কমিশন অভিমুখী প্রতিবাদ মিছিলে পুলিশের ধরপাকড়",
-        "title_en": "Delhi Police Detains Protesters Marching Toward Election Commission",
-        "summary_bn": "নয়াদিল্লিতে নির্বাচন কমিশন অভিমুখে আয়োজিত প্রতিবাদ মিছিল থেকে বেশ কয়েকজনকে আটক করেছে পুলিশ।",
-        "summary_en": "Police detained several protesters during a demonstration march toward the election commission in New Delhi.",
+        "title_bn": "নওগাঁয় সাবেক প্রধানমন্ত্রীর দেশে ফেরার মাইকিংয়ের ঘটনায় নিষিদ্ধ সংগঠনের দুই নেতা আটক",
+        "title_en": "Two Banned Student and Youth Wing Leaders Detained in Naogaon Over Public Announcements",
+        "summary_bn": "সাবেক প্রধানমন্ত্রীর দেশে ফেরার মিথ্যা প্রচার চালিয়ে মাইকিং করার অভিযোগে নওগাঁর মান্দায় নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
+        "summary_en": "Police detained two local leaders of banned political wings in Naogaon for making public loudspeaker announcements about the former prime minister's return.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:49:00+00:00",
-        "lead_bn": "নয়াদিল্লিতে নির্বাচন কমিশন অভিমুখে আয়োজিত প্রতিবাদ মিছিল থেকে বেশ কয়েকজনকে আটক করেছে পুলিশ।",
-        "lead_en": "Police detained several protesters during a demonstration march toward the election commission in New Delhi.",
+        "published_at": "2026-10-23T14:33:37+00:00",
+        "lead_bn": "সাবেক প্রধানমন্ত্রীর দেশে ফেরার মিথ্যা প্রচার চালিয়ে মাইকিং করার অভিযোগে নওগাঁর মান্দায় নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
+        "lead_en": "Police detained two local leaders of banned political wings in Naogaon for making public loudspeaker announcements about the former prime minister's return.",
         "bullets_bn": [
-          "বামপন্থী দল, কৃষক সংগঠন এবং নাগরিক সমাজের যৌথ উদ্যোগে নয়াদিল্লিতে এই প্রতিবাদ মিছিলের আয়োজন করা হয়।",
-          "মিছিলে যোগ দেওয়ার কথা থাকলেও অনেক বিশিষ্ট ব্যক্তি অনুপস্থিত ছিলেন এবং অংশগ্রহণকারী ছিলেন কয়েকশ সমর্থক।",
-          "ব্যারিকেডের সামনে অবস্থান নেওয়া বিক্ষোভকারীদের পুলিশ লাউডস্পিকারে সতর্ক করার পর গ্রেপ্তার শুরু করে।"
+          "মান্দা উপজেলায় অটোরিকশায় মাইক বেঁধে সাবেক প্রধানমন্ত্রীর দেশে ফেরার পক্ষে প্রচারণা চালানো হয়",
+          "আটক ব্যক্তিরা হলেন নিষিদ্ধ ছাত্রলীগের ইউনিয়ন সভাপতি শহীদুল ইসলাম এবং স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকার",
+          "এ ঘটনায় জড়িত বাকিদের গ্রেফতারে পুলিশের অভিযান চলছে এবং আটকদের বিরুদ্ধে মামলার প্রস্তুতি নেওয়া হচ্ছে"
         ],
         "bullets_en": [
-          "Leftist parties, farmers organizations, and civil society groups jointly organized the protest march in New Delhi.",
-          "Despite announcements, many prominent figures remained absent while several hundred supporters participated in the rally.",
-          "Police initiated arrests after issuing loudspeaker warnings to protesters who stopped at the barricades."
+          "Loudspeaker announcements were made using an autorickshaw in Manda upazila claiming the former prime minister would return.",
+          "Detained individuals are identified as local Chhatra League union president Shahidul Islam and Swechchhasebak League president Abdul Jalil Sarker.",
+          "Police have seized the audio recording equipment and are conducting raids to arrest other individuals involved in the propaganda."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "গণতন্ত্র রক্ষা এবং নির্দিষ্ট পদত্যাগের দাবিতে নয়াদিল্লির কনট প্লেস এলাকা থেকে নির্বাচন কমিশন অভিমুখে পিপলস মার্চ কর্মসূচি ঘোষণা করা হয়েছিল। বিভিন্ন রাজনৈতিক দল ও নাগরিক সংগঠনের ডাকে আয়োজিত এই কর্মসূচিতে অংশ নিতে বাংলা সাহেব গুরুদ্বার এলাকায় জড়ো হন বিক্ষোভকারীরা। পুলিশ আগে থেকেই কঠোর নিরাপত্তা ব্যবস্থা গ্রহণ করলেও আন্দোলনকারীরা ব্যারিকেডের সামনে এসে শান্তিপূর্ণভাবে অবস্থান নেন এবং পরবর্তীতে পুলিশি সতর্কতার পর গ্রেপ্তার বরণ করেন।",
-        "details_en": "A peoples march toward the election commission was announced from the Connaught Place area in New Delhi to demand democratic protection and specific resignations. Protesters gathered near the Bangla Sahib Gurudwara for the program called by various political and civil groups. Although heavy security measures were pre-arranged, demonstrators peacefully stopped at the barricades and subsequently courted arrest following police warnings."
+        "impact_bn": "অস্থিরতা তৈরি করতে পারে এমন উসকানিমূলক ও নিষিদ্ধ প্রচারণার বিরুদ্ধে আইনগত ব্যবস্থা নেওয়ায় জনমনে স্বস্তি ফিরেছে।",
+        "impact_en": "Swift law enforcement action against provocative propaganda helps maintain public order and prevents localized tensions.",
+        "details_bn": "নওগাঁর মান্দা উপজেলায় নিষিদ্ধ সংগঠনের কয়েকজন নেতা অটোরিকশায় মাইক লাগিয়ে সাবেক প্রধানমন্ত্রীর আগামী ডিসেম্বরে দেশে ফেরার মিথ্যা প্রচারণা চালান এবং সেই ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দেন। ভিডিওটি জেলা পুলিশের নজরে আসার পর পুলিশ অভিযান চালিয়ে মান্দার কাশোপাড়া ইউনিয়ন ছাত্রলীগের সভাপতি শহীদুল ইসলাম এবং সদর ইউনিয়ন স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকারকে আটক করে। এ সময় প্রচারণায় ব্যবহৃত অটোরিকশাসহ রেকর্ডিং জব্দ করা হয়।",
+        "details_en": "Local leaders in Manda upazila used an autorickshaw to broadcast public announcements claiming the former prime minister would return in December, subsequently uploading the video to social media. After the video came to the attention of district law enforcement, police launched a raid and arrested Shahidul Islam, local Chhatra League president, and Abdul Jalil Sarker, Swechchhasebak League president. Police seized the audio equipment and initiated legal proceedings."
       }
     },
     {
-      "story_id": "efb4fc77-f85e-573e-b1be-5d627dba3d15",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T13:48:48+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.718,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171223",
-          "title": "নিজ গ্রামে শায়িত হলেন সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত সাহেদ",
-          "snippet": "নিজ গ্রামে শায়িত হলেন সৌদিতে ক্ষেপণাস্ত্র হামলায় নিহত সাহেদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে ক্ষেপণাস্ত্র হামলায় নিহত সাহেদের মরদেহ দেশে দাফন",
-        "title_en": "Body of Shahed Killed in Saudi Missile Attack Buried in Village",
-        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী সাহেদ আহমেদ আশিকের মরদেহ দেশে এনে গ্রামের বাড়িতে দাফন করা হয়েছে।",
-        "summary_en": "The body of expatriate Shahed Ahmed Ashik, killed in a Houthi missile attack in Saudi Arabia, has been buried in his native village.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:48:48+00:00",
-        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলায় নিহত প্রবাসী সাহেদ আহমেদ আশিকের মরদেহ দেশে এনে গ্রামের বাড়িতে দাফন করা হয়েছে।",
-        "lead_en": "The body of expatriate Shahed Ahmed Ashik, killed in a Houthi missile attack in Saudi Arabia, has been buried in his native village.",
-        "bullets_bn": [
-          "নিহত সাহেদের মরদেহ সৌদি আরব থেকে দেশে ফিরিয়ে আনার পর পারিবারিক কবরস্থানে দাফন সম্পন্ন হয়।",
-          "সৌদি আরবের একটি কর্মস্থলে হুথি বিদ্রোহীদের ছোঁড়া ক্ষেপণাস্ত্র হামলায় ৩৫ বছর বয়সী সাহেদ নিহত হন।",
-          "নিহতের পরিবারকে সরকারি ও কূটনৈতিক পর্যায়ে প্রয়োজনীয় সহায়তা দেওয়ার প্রক্রিয়া চলছে।"
-        ],
-        "bullets_en": [
-          "The body of the deceased Shahed was brought back from Saudi Arabia and buried in the family graveyard.",
-          "The 35-year-old Shahed was killed in a missile attack launched by Houthi rebels at his workplace in Saudi Arabia.",
-          "Process is underway to provide necessary governmental and diplomatic assistance to the bereaved family."
-        ],
-        "impact_bn": "প্রবাসী বাংলাদেশিদের নিরাপত্তা এবং মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে কর্মরত প্রবাসীদের ঝুঁকি নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "It raises renewed concerns regarding the safety of Bangladeshi expatriates working in conflict-prone areas of the Middle East.",
-        "details_bn": "সৌদি আরবে কর্মরত অবস্থায় হুথি বিদ্রোহীদের বিভিন্ন সময়ে চালানো হামলায় বেশ কয়েকজন প্রবাসী হতাহত হয়েছেন। এই ঘটনাগুলো মধ্যপ্রাচ্যের প্রবাসীদের নিরাপত্তা নিয়ে গভীর উদ্বেগের জন্ম দিয়েছে। বৈদেশিক কর্মসংস্থান নিশ্চিতকরণ এবং সংঘাতপূর্ণ এলাকায় অবস্থানরত বাংলাদেশিদের সুরক্ষায় সরকারের পক্ষ থেকে বিভিন্ন সময় কূটনৈতিক প্রচেষ্টা চালানো হচ্ছে।",
-        "details_en": "Several expatriates have been killed or injured in intermittent Houthi rebel attacks while working in Saudi Arabia. These incidents have raised deep concerns regarding the safety of migrants in the Middle East. The government continues diplomatic efforts to ensure foreign employment security and protect Bangladeshis stationed in conflict zones."
-      }
-    },
-    {
-      "story_id": "08bcfaf9-cad0-53cd-89fb-c2c222af4839",
+      "story_id": "2941a31c-60ae-5503-99e5-08418ed0b6d6",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -124,50 +68,218 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T13:23:30+00:00",
+      "published_at": "2026-10-23T14:24:01+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.3683,
+      "rank_score": 1.3739,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171219",
-          "title": "মাদকসহ আটক, প্রস্রাবের কথা বলে পুলিশের কাছ থেকে পালাল কিশোর",
-          "snippet": "মাদকসহ আটক, প্রস্রাবের কথা বলে পুলিশের কাছ থেকে পালাল কিশোর"
+          "url": "https://www.jagonews24.com/national/news/1171232",
+          "title": "রামপুরায় চাপাতি দিয়ে পুলিশের ওপর হামলা, হাজার পুরিয়া হেরোইনসহ আটক ২",
+          "snippet": "রামপুরায় চাপাতি দিয়ে পুলিশের ওপর হামলা, হাজার পুরিয়া হেরোইনসহ আটক ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাদক মামলার আটক কিশোর আসামি পুলিশের হেফাজত থেকে পলায়ন",
-        "title_en": "Detained Teenager Escapes Police Custody in Coxs Bazar",
-        "summary_bn": "কক্সবাজারের ঈদগাঁও থানা পুলিশের হেফাজত থেকে প্রস্রাবের কথা বলে মাদকসহ আটক এক কিশোর অপরাধী পালিয়ে গেছে।",
-        "summary_en": "A detained teenager accused of drug charges escaped police custody in Coxs Bazar by making a restroom excuse.",
+        "title_bn": "রামপুরায় পুলিশের ওপর হামলা ও হেরোইনসহ দুজন আটক",
+        "title_en": "Two Arrested with Heroin After Attacking Police in Rampura",
+        "summary_bn": "রাজধানীর রামপুরা এলাকায় পুলিশের ওপর চাপাতি দিয়ে হামলার ঘটনায় এক হাজার ৩৯ পুরিয়া হেরোইনসহ দুজনকে আটক করা হয়েছে।",
+        "summary_en": "Two individuals were arrested in Rampura with one thousand thirty-nine packets of heroin after attempting to attack police with a machete.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:23:30+00:00",
-        "lead_bn": "কক্সবাজারের ঈদগাঁও থানা পুলিশের হেফাজত থেকে প্রস্রাবের কথা বলে মাদকসহ আটক এক কিশোর অপরাধী পালিয়ে গেছে।",
-        "lead_en": "A detained teenager accused of drug charges escaped police custody in Coxs Bazar by making a restroom excuse.",
+        "published_at": "2026-10-23T14:24:01+00:00",
+        "lead_bn": "রাজধানীর রামপুরা এলাকায় পুলিশের ওপর চাপাতি দিয়ে হামলার ঘটনায় এক হাজার ৩৯ পুরিয়া হেরোইনসহ দুজনকে আটক করা হয়েছে।",
+        "lead_en": "Two individuals were arrested in Rampura with one thousand thirty-nine packets of heroin after attempting to attack police with a machete.",
         "bullets_bn": [
-          "মাদকদ্রব্যসহ আটক হওয়ার পর পুলিশের হেফাজতে থাকা অবস্থায় এক কিশোর পালিয়ে যায়।",
-          "ঘটনাটি ঘটেছে কক্সবাজারের ঈদগাঁও থানা পুলিশের হেফাজতে থাকা অবস্থায়।",
-          "পলায়নকারী কিশোরকে গ্রেফতারে পুলিশি তৎপরতা ও তল্লাশি অভিযান শুরু হয়েছে।"
+          "রামপুরা এলাকায় পুলিশি ধাওয়ার সময় চাপাতি দিয়ে হামলা চালানোর চেষ্টা করেন দুই মাদক কারবারি।",
+          "ঘটনাস্থল থেকে তল্লাশি চালিয়ে এক হাজার ৩৯ পুরিয়া হেরোইন উদ্ধার করে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
+          "আটক ব্যক্তিদের বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে নিয়মিত মামলা দায়ের করে আদালতে পাঠানো হয়েছে।"
         ],
         "bullets_en": [
-          "A teenager managed to flee from law enforcement custody after being apprehended with narcotics.",
-          "The incident occurred within the premises of the Eidgah police station in Coxs Bazar.",
-          "Law enforcement authorities have launched efforts and search operations to recapture the escaped minor."
+          "Two drug suspects attempted to attack law enforcement officers with a machete during a police chase in Rampura.",
+          "Police recovered one thousand thirty-nine packets of heroin from the possession of the detained suspects.",
+          "The arrestees were handed over to court following the filing of a regular case under narcotics control laws."
         ],
-        "impact_bn": "পুলিশি হেফাজতে আসামির পলায়ন জননিরাপত্তা ও আইনশৃঙ্খলা বাহিনীর তদারকি নিয়ে জনমনে প্রশ্ন তুলেছে।",
-        "impact_en": "The escape of a detainee from police custody raises concerns regarding station security and law enforcement oversight.",
-        "details_bn": "পুলিশি হেফাজতে থাকাকালীন আসামিদের পলায়ন বা গা ঢাকা দেওয়ার ঘটনা আইনশৃঙ্খলা বাহিনীর নিরাপত্তা ও নজরদারি নিয়ে নানা মহলে প্রশ্ন তোলে। এর আগেও বিভিন্ন থানা বা হেফাজত থেকে আসামি পালানোর ঘটনা ঘটলে দায়িত্বরত কর্মকর্তাদের বিরুদ্ধে বিভাগীয় ব্যবস্থা নেওয়ার নজির রয়েছে। এই ঘটনার পর সংশ্লিষ্ট থানায় নিরাপত্তা জোরদার করা হয়েছে এবং অপরাধীকে পুনরায় ধরতে অভিযান চলছে।",
-        "details_en": "Incidents involving suspects escaping from law enforcement custody frequently raise serious questions regarding station security and institutional oversight. Similar breakouts in the past have often led to departmental inquiries against duty officers. Following this escape, local authorities intensified security measures and initiated manhunts to apprehend the fugitive."
+        "impact_bn": "মাদক উদ্ধারের এই অভিযানে স্থানীয় এলাকায় মাদক কারবারিদের দৌরাত্ম্য কিছুটা কমবে বলে আশা করা হচ্ছে।",
+        "impact_en": "This narcotics seizure is expected to curb local drug trafficking activities in the area.",
+        "details_bn": "রাজধানীতে মাদকবিরোধী নিয়মিত অভিযানের অংশ হিসেবে আইনশৃঙ্খলা বাহিনী বিভিন্ন এলাকায় তল্লাশি পরিচালনা করে আসছে। রামপুরার এই ঘটনায় মাদক বহন ও পুলিশ ওপর হামলার অভিযোগে আসামিদের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।",
+        "details_en": "Law enforcement agencies regularly conduct anti-narcotics drives across the capital to curb illegal substances. Following the incident in Rampura, strict legal proceedings have been initiated against the suspects for drug possession and assaulting law enforcement officers."
       }
     },
     {
-      "story_id": "56173b14-500c-57fc-84ed-abd4f1040d97",
+      "story_id": "e16d9c46-3765-5d4e-9471-c90afd04ddb5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T14:10:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2367,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171228",
+          "title": "নভেম্বরে আমিরাতে বৈঠকে বসতে পারে রাশিয়া-ইউক্রেন",
+          "snippet": "নভেম্বরে আমিরাতে বৈঠকে বসতে পারে রাশিয়া-ইউক্রেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় নভেম্বরে বৈঠকে বসতে পারে রাশিয়া ও ইউক্রেন",
+        "title_en": "Russia and Ukraine May Hold US-Mediated Talks in November",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় সংযুক্ত আরব আমিরাতের আবুধাবিতে রাশিয়া ও ইউক্রেনের প্রতিনিধিরা আগামী নভেম্বরে বৈঠকে বসতে পারেন।",
+        "summary_en": "Representatives of Russia and Ukraine may hold a meeting in Abu Dhabi this November mediated by the United States.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T14:10:47+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় সংযুক্ত আরব আমিরাতের আবুধাবিতে রাশিয়া ও ইউক্রেনের প্রতিনিধিরা আগামী নভেম্বরে বৈঠকে বসতে পারেন।",
+        "lead_en": "Representatives of Russia and Ukraine may hold a meeting in Abu Dhabi this November mediated by the United States.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের মধ্যস্থতায় রাশিয়া এবং ইউক্রেনের মধ্যে ত্রিপক্ষীয় বৈঠকের সম্ভাবনা তৈরি হয়েছে।",
+          "সংযুক্ত আরব আমিরাতের রাজধানী আবুধাবিতে এই উচ্চপর্যায়ের বৈঠকটি অনুষ্ঠিত হতে পারে।",
+          "আসন্ন নভেম্বর মাসে এই কূটনৈতিক বৈঠকটি আয়োজনের প্রস্তুতি চলছে।"
+        ],
+        "bullets_en": [
+          "A trilateral meeting between Russia and Ukraine is being arranged through US mediation.",
+          "The high-level diplomatic meeting is scheduled to take place in Abu Dhabi, United Arab Emirates.",
+          "Preparations are underway to host these crucial discussions in the coming month of November."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রাশিয়া ও ইউক্রেনের দীর্ঘস্থায়ী সংঘাতে কূটনৈতিক সমাধানের পথ খুঁজতে আন্তর্জাতিক মধ্যস্থতাকারীরা দীর্ঘদিন ধরে চেষ্টা চালিয়ে যাচ্ছেন। মার্কিন যুক্তরাষ্ট্রের মধ্যস্থতায় এই সম্ভাব্য বৈঠকটি দুই দেশের মধ্যে চলমান যুদ্ধ অবসানের ক্ষেত্রে একটি নতুন কূটনৈতিক মোড় নিতে পারে বলে আন্তর্জাতিক বিশ্লেষকরা মনে করছেন। এর আগেও বিভিন্ন মধ্যস্থতাকারী দেশের উদ্যোগে শান্তি আলোচনা হলেও তা স্থায়ী কোনো সমাধান আনতে ব্যর্থ হয়।",
+        "details_en": "International mediators have long been attempting to find a diplomatic resolution to the protracted conflict between Russia and Ukraine. Analysts believe this potential US-mediated meeting could mark a new diplomatic turning point in efforts to end the ongoing war. Previous peace talks initiated by various mediating nations have repeatedly failed to yield lasting solutions."
+      }
+    },
+    {
+      "story_id": "72f5f5c6-8348-5914-8523-797d2fa194e5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fbhj86dbw%2Fuimage-3.jpg?rect=0%2C216%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T13:51:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.0742,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/dj127o8qcw",
+          "title": "ভারতের প্রধান ব্যাংক স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা",
+          "snippet": "ভারতের প্রধান ব্যাংক স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের স্টেট ব্যাংক অব ইন্ডিয়ায় হ্যাকার গোষ্ঠীর সাইবার হামলা",
+        "title_en": "Hackers Target State Bank of India in Major Cyber Attack",
+        "summary_bn": "সিরিউসিম নামের একটি হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নেওয়ার দাবি করেছে।",
+        "summary_en": "A hacker group named Ceriusim claims to have seized control of confidential customer data from the State Bank of India.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T13:51:17+00:00",
+        "lead_bn": "সিরিউসিম নামের একটি হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নেওয়ার দাবি করেছে।",
+        "lead_en": "A hacker group named Ceriusim claims to have seized control of confidential customer data from the State Bank of India.",
+        "bullets_bn": [
+          "সিরিউসিম হ্যাকার গোষ্ঠী ভারতের রাষ্ট্রায়ত্ত স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের ব্যক্তিগত তথ্য এবং ঋণের নথিপত্র নিয়ন্ত্রণে নিয়েছে।",
+          "প্রায় ৩ লাখ ৮০ হাজার তথ্য ফাঁসের ঘটনা আংশিকভাবে স্বীকার করে ক্ষতিগ্রস্ত গ্রাহকদের ইমেইল ও হোয়াটসঅ্যাপে সতর্কবার্তা পাঠিয়েছে ব্যাংকটি।",
+          "চুরি হওয়া তথ্য ব্যবহার করে পরিচয় জালিয়াতি এবং ভুয়া ঋণের আবেদন করার আশঙ্কা প্রকাশ করেছেন সাইবার নিরাপত্তা বিশেষজ্ঞরা।"
+        ],
+        "bullets_en": [
+          "The Ceriusim hacker group took control of customer personal data and loan application documents from the State Bank of India.",
+          "The bank partially acknowledged the leakage of nearly 380,000 data records and alerted affected customers via email and WhatsApp.",
+          "Cybersecurity experts warn that the stolen data could be misused for identity theft and fraudulent loan applications."
+        ],
+        "impact_bn": "তথ্য ফাঁসের এই ঘটনায় ভারতে ব্যাংকিং সেবা ব্যবহারকারী সাধারণ গ্রাহকদের ব্যক্তিগত তথ্যের সুরক্ষা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "This data leak raises serious security concerns for millions of ordinary banking customers regarding the privacy of their personal information.",
+        "details_bn": "সামাজিক যোগাযোগমাধ্যমে সাইবার নিরাপত্তা মনিটরিং হ্যান্ডল সাইবারপালস৫৬ প্রথম এসবিআইয়ের ডেটা ফাঁসের বিষয়টি প্রকাশ করে। ব্যাংক কর্তৃপক্ষ জানিয়েছে, গ্রাহকদের অ্যাকাউন্ট ও তহবিল সুরক্ষিত রয়েছে এবং ঘটনার উৎস ও সত্যতা যাচাইয়ের কাজ চলছে। স্টেট ব্যাংক অব ইন্ডিয়া ৫০ কোটির বেশি গ্রাহক নিয়ে বিশ্বের অন্যতম বৃহৎ রাষ্ট্রায়ত্ত ব্যাংক হিসেবে পরিচালিত হয়ে আসছে।",
+        "details_en": "Cybersecurity monitoring handle Cyberpulse56 first revealed the SBI data breach on social media. Bank authorities stated that customer accounts and funds remain secure while the source and authenticity of the breach are being investigated. The State Bank of India operates as one of the world's largest state-owned banks with over 500 million customers."
+      }
+    },
+    {
+      "story_id": "a3e1d446-0e67-5e9a-b494-42ba652fedd1",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T14:55:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9167,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/india/976301/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%89%E0%A7%9C%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3",
+          "title": "প্রকৌশল ডিগ্রি ছাড়াই উড়ন্ত গাড়ি বানালেন তরুণ",
+          "snippet": "প্রকৌশল ডিগ্রি ছাড়াই উড়ন্ত গাড়ি বানালেন তরুণ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রকৌশল ডিগ্রি ছাড়াই ইলেকট্রিক উড়ন্ত গাড়ি বানালেন তরুণ রবি তামতা",
+        "title_en": "Youth Ravi Tamta Builds Electric Flying Car Without Engineering Degree",
+        "summary_bn": "ভারতের উত্তরাখণ্ডের তরুণ রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই একটি বৈদ্যুতিক উড়ন্ত গাড়ির প্রোটোটাইপ তৈরি করেছেন।",
+        "summary_en": "Young innovator Ravi Tamta from Uttarakhand successfully built an electric flying car prototype without any formal engineering education.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T14:55:17+00:00",
+        "lead_bn": "ভারতের উত্তরাখণ্ডের তরুণ রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই একটি বৈদ্যুতিক উড়ন্ত গাড়ির প্রোটোটাইপ তৈরি করেছেন।",
+        "lead_en": "Young innovator Ravi Tamta from Uttarakhand successfully built an electric flying car prototype without any formal engineering education.",
+        "bullets_bn": [
+          "অনলাইন এবং হাতে-কলমে দীর্ঘ তেরো বছর পরীক্ষানিরীক্ষার মাধ্যমে গাড়িটির প্রোটোটাইপ তৈরি করা হয়।",
+          "একক আসনের হাপিডা স্কাইনেক্স নামক এই যানটি সফলভাবে পরীক্ষামূলক উড্ডয়ন সম্পন্ন করেছে।",
+          "প্রাতিষ্ঠানিক ডিগ্রির বাইরে স্বশিক্ষিত উদ্ভাবন তরুণদের জন্য নতুন সম্ভাবনার দ্বার উন্মোচন করছে।"
+        ],
+        "bullets_en": [
+          "The prototype was developed through thirteen years of self-taught online research and practical experimentation.",
+          "The single-seater vehicle named Hapida Skynex successfully completed its trial flight.",
+          "Such self-taught innovations inspire alternative pathways for youth beyond traditional classroom education."
+        ],
+        "impact_bn": "এই উদ্ভাবন তরুণ প্রজন্মকে প্রাতিষ্ঠানিক সীমানার বাইরে গিয়ে প্রযুক্তিগত ও সৃজনশীল কাজে উদ্বুদ্ধ করবে।",
+        "impact_en": "This innovation inspires the younger generation to pursue technological creativity beyond traditional institutional boundaries.",
+        "details_bn": "ভারতের উত্তরাখণ্ডের আলমোড়া জেলার মানবিক বিষয়ের স্নাতক রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই প্রযুক্তি খাতে অনন্য দৃষ্টান্ত স্থাপন করেছেন। দীর্ঘ ১৩ বছর ধরে অনলাইন ভিডিও এবং নিজস্ব প্রচেষ্টায় পরীক্ষা-নিরীক্ষা চালিয়ে তিনি এই বৈদ্যুতিক উড়ন্ত গাড়ি তৈরি করেন। তার তৈরি একক আসনের হাপিডা স্কাইনেক্স নামের যানটি সফলভাবে পরীক্ষামূলক উড্ডয়ন সম্পন্ন করে, যা প্রথাগত শিক্ষার বাইরেও ব্যক্তিগত প্রতিভার বিকাশ ও স্বশিক্ষার শক্তিকে প্রমাণ করে।",
+        "details_en": "Ravi Tamta, a humanities graduate from Almora district in Uttarakhand, India, achieved a remarkable feat by developing an electric flying car without any formal engineering background. Through thirteen years of self-directed online learning and hands-on experimentation, he built the single-seater prototype named Hapida Skynex, which successfully completed its test flight. This milestone highlights how self-driven innovation can transcend conventional educational barriers."
+      }
+    },
+    {
+      "story_id": "8497d77f-2204-569b-b25b-3490f0c52187",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
@@ -179,23 +291,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T13:22:46+00:00",
+      "published_at": "2026-10-23T14:53:27+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3601,
+      "importance_score": 2.4,
+      "rank_score": 0.8997,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171218",
-          "title": "সুইচ গিয়ার হাতে ছিনতাইয়ের প্রস্তুতি নিচ্ছিলেন যুবক, আটক করলো পুলিশ",
-          "snippet": "সুইচ গিয়ার হাতে ছিনতাইয়ের প্রস্তুতি নিচ্ছিলেন যুবক, আটক করলো পুলিশ"
+          "url": "https://www.jagonews24.com/politics/news/1171235",
+          "title": "জামায়াতের অনুমোদনে এনসিপির নতুন কমিটি হয়েছে: রাশেদ খাঁন",
+          "snippet": "জামায়াতের অনুমোদনে এনসিপির নতুন কমিটি হয়েছে: রাশেদ খাঁন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মোহাম্মদপুরে সুইচ গিয়ারসহ ছিনতাইয়ের প্রস্তুতিকালে যুবক আটক",
-        "title_en": "Youth detained with switchgear while preparing for mugging in Mohammadpur",
-        "summary_bn": "মোহাম্মদপুরে ছিনতাইয়ের প্রস্তুতির সময় পুলিশ সুইচ গিয়ারসহ এক যুবককে আটক করেছে।",
-        "summary_en": "Police detained a young man with a switchgear while preparing for a mugging in Mohammadpur.",
+        "title_bn": "জামায়াতের অনুমোদনে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় কমিটি গঠিত",
+        "title_en": "National Citizens Party Forms New Central Committee With Jamaat Approval",
+        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদনক্রমে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে।",
+        "summary_en": "The central convening committee of the National Citizens Party has been reconstituted with the approval of Bangladesh Jamaat-e-Islami.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -203,133 +315,23 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:22:46+00:00",
-        "lead_bn": "মোহাম্মদপুরে ছিনতাইয়ের প্রস্তুতির সময় পুলিশ সুইচ গিয়ারসহ এক যুবককে আটক করেছে।",
-        "lead_en": "Police detained a young man with a switchgear while preparing for a mugging in Mohammadpur.",
+        "published_at": "2026-10-23T14:53:27+00:00",
+        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদনক্রমে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে।",
+        "lead_en": "The central convening committee of the National Citizens Party has been reconstituted with the approval of Bangladesh Jamaat-e-Islami.",
         "bullets_bn": [
-          "পুলিশ মোহাম্মদপুরের কলেজ গেট এলাকা থেকে অভিযুক্ত যুবককে আটক করেছে।",
-          "আটককৃত মো. হাসনাইনের বয়স ২৬ বছর এবং তার কাছ থেকে একটি সুইচ গিয়ার উদ্ধার করা হয়েছে।",
-          "আইনগত প্রক্রিয়া সম্পন্ন করে আটক যুবকের বিরুদ্ধে নিয়মিত মামলা দায়ের করা হয়েছে।"
+          "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদন সাপেক্ষে জাতীয় নাগরিক পার্টির কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়।",
+          "নতুন এই কমিটির নেতৃত্বে রাশেদ খাঁনসহ অন্যান্যরা দায়িত্ব গ্রহণ করেছেন বলে জানানো হয়।",
+          "রাজনৈতিক দলগুলোর অভ্যন্তরীণ কাঠামোগগত পুনর্বিন্যাস প্রক্রিয়ার অংশ হিসেবে এই কমিটি গঠন করা হয়।"
         ],
         "bullets_en": [
-          "Police detained the accused youth from the College Gate area in Mohammadpur.",
-          "The detained youth named Md Hasnain is 26 years old and a switchgear was recovered from him.",
-          "Regular legal proceedings have been initiated against the detained youth."
+          "The central convening committee of the National Citizens Party was reconstituted with Bangladesh Jamaat-e-Islami approval.",
+          "Rashed Khan and other key figures took charge under the newly formed committee structure.",
+          "This committee was formed as part of ongoing organizational realignments among political factions."
         ],
-        "impact_bn": "এ ধরনের পুলিশি অভিযানে রাজধানীতে ছিনতাইয়ের প্রবণতা হ্রাস পাবে এবং সাধারণ মানুষের নিরাপত্তা নিশ্চিত হবে।",
-        "impact_en": "Such police operations will reduce mugging tendencies in the capital and ensure public safety.",
-        "details_bn": "রাজধানীতে অপরাধমূলক কর্মকাণ্ড দমনে আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিয়মিত অভিযান পরিচালনা করে আসছে। বিশেষ করে রাতের পাশাপাশি দিনের বিভিন্ন সময়েও ছিনতাই চক্রের সদস্যদের ধরতে সতর্ক অবস্থানে রয়েছে পুলিশ। মোহাম্মদপুর এলাকায় অপরাধ প্রবণতা রোধে পুলিশের এই ধরনের তৎপরতা জোরদার করা হয়েছে।",
-        "details_en": "Law enforcement agencies have been conducting regular operations to suppress criminal activities in the capital. Police remain vigilant to catch members of mugging rings not only at night but also during various times of the day. Such police activities have been intensified in the Mohammadpur area to prevent crime trends."
-      }
-    },
-    {
-      "story_id": "4ab6805b-892a-5f35-842b-34d2b67bfcca",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T14:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9637,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/journey/976287/%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A1-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95%E0%A6%A6%E0%A7%87%E0%A6%B0",
-          "title": "মেঘালয়ের পাহাড়ে প্রাকৃতিক জলস্লাইড ঘিরে পর্যটকদের মুগ্ধতা ও উদ্বেগ",
-          "snippet": "মেঘালয়ের পাহাড়ে প্রাকৃতিক জলস্লাইড ঘিরে পর্যটকদের মুগ্ধতা ও উদ্বেগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মেঘালয়ের প্রাকৃতিক জলস্লাইড পর্যটকদের মুগ্ধ করলেও ঝুঁকি নিয়ে তৈরি হয়েছে উদ্বেগ",
-        "title_en": "Natural water slide in Meghalaya captivates tourists while raising safety concerns",
-        "summary_bn": "ভারতের মেঘালয়ের একটি লুকানো প্রাকৃতিক জলস্লাইডের ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর পর্যটকদের মধ্যে মুগ্ধতা ও নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "summary_en": "A video of a hidden natural water slide in Meghalaya has gone viral, sparking both tourist fascination and safety concerns.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:00:00+00:00",
-        "lead_bn": "ভারতের মেঘালয়ের একটি লুকানো প্রাকৃতিক জলস্লাইডের ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর পর্যটকদের মধ্যে মুগ্ধতা ও নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "lead_en": "A video of a hidden natural water slide in Meghalaya has gone viral, sparking both tourist fascination and safety concerns.",
-        "bullets_bn": [
-          "ভারতের মেঘালয় রাজ্যের পাহাড়ি ঢালে প্রাকৃতিকভাবে তৈরি হওয়া একটি জলস্লাইডের ভিডিও সামাজিক যোগাযোগমাধ্যমে ব্যাপকভাবে ছড়িয়ে পড়ে।",
-          "জলস্লাইডটির নান্দনিক সৌন্দর্য দেখে দর্শনার্থীরা মুগ্ধ হলেও পাথুরে পথে নামার মারাত্মক ঝুঁকি নিয়ে প্রশ্ন তুলেছেন অনেকে।",
-          "অনলাইন প্ল্যাটফর্মে ভিডিওটি ভাইরাল হওয়ার পর পর্যটন স্পটটিতে নিরাপত্তা জোরদার করার দাবি উঠেছে।"
-        ],
-        "bullets_en": [
-          "A video showing a naturally formed water slide on a hilly slope in the Indian state of Meghalaya went viral on social media.",
-          "While visitors are captivated by the scenic beauty of the water slide, many have raised questions about the severe risks of descending the rocky path.",
-          "Demands for enhanced safety measures at the tourist spot have emerged following the viral circulation of the video on online platforms."
-        ],
-        "impact_bn": "অসাবধানতাবশত ঝুঁকিপূর্ণ পর্যটন স্পটে যাতায়াতকারী ভ্রমণপিপাসুদের মাঝে সতর্কতা অবলম্বন জরুরি হয়ে পড়েছে।",
-        "impact_en": "Travelers visiting hazardous tourist destinations need to exercise heightened caution to prevent accidents.",
-        "details_bn": "ভারতের মেঘালয় রাজ্য তার মনোরম পাহাড়, জলপ্রপাত এবং প্রাকৃতিক সৌন্দর্যের জন্য বিশ্বজুড়ে পরিচিত। সাম্প্রতিক সময়ে সামাজিক যোগাযোগমাধ্যমের কল্যাণে মেঘালয়ের বিভিন্ন অজানা ও লুকানো প্রাকৃতিক সৌন্দর্য দ্রুত মানুষের নজরে আসছে। তবে পর্যাপ্ত অবকাঠামো ও নিরাপত্তা ব্যবস্থার অভাব থাকা সত্ত্বেও এসব দুর্গম স্থানে পর্যটকদের ভিড় বাড়ায় দুর্ঘটনা ঘটার আশঙ্কা দিন দিন বৃদ্ধি পাচ্ছে।",
-        "details_en": "The Indian state of Meghalaya is globally renowned for its scenic hills, waterfalls, and natural beauty. In recent times, social media has accelerated the exposure of various hidden natural wonders in the region. However, the lack of adequate infrastructure and safety measures, combined with a rising influx of tourists to these remote locations, has heightened concerns over potential accidents."
-      }
-    },
-    {
-      "story_id": "968c9e61-a5e4-587c-984b-a2be066fb293",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/66-1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T13:54:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9095,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bangladesh-vs-west-indies-test-mirpur-bcb-test-tickets/",
-          "title": "মিরপুর টেস্টে বিনামূল্যে মাঠে বসে দেখা যাবে খেলা",
-          "snippet": "মিরপুর টেস্টে বিনামূল্যে মাঠে বসে দেখা যাবে খেলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিরপুর টেস্ট ম্যাচ দর্শকরা বিনামূল্যে মাঠে বসে উপভোগ করতে পারবেন",
-        "title_en": "Spectators can watch Mirpur test match from stadium for free",
-        "summary_bn": "বাংলাদেশ ক্রিকেট বোর্ড জানিয়েছে দর্শকরা মিরপুর টেস্টের নির্দিষ্ট গ্যালারিতে টিকিট ছাড়াই বিনামূল্যে খেলা দেখতে পারবেন।",
-        "summary_en": "Bangladesh Cricket Board announces free entry for spectators in specific galleries during the Mirpur test match.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:54:29+00:00",
-        "lead_bn": "বাংলাদেশ ক্রিকেট বোর্ড জানিয়েছে দর্শকরা মিরপুর টেস্টের নির্দিষ্ট গ্যালারিতে টিকিট ছাড়াই বিনামূল্যে খেলা দেখতে পারবেন।",
-        "lead_en": "Bangladesh Cricket Board announces free entry for spectators in specific galleries during the Mirpur test match.",
-        "bullets_bn": [
-          "বাংলাদেশ ক্রিকেট বোর্ড মিরপুর টেস্টের জন্য বিনামূল্যে গ্যালারিতে প্রবেশের সুযোগ ঘোষণা করেছে।",
-          "দর্শকরা উত্তর ও দক্ষিণ গ্যালারিতে কোনো টিকিট ছাড়াই প্রবেশ করতে পারবেন।",
-          "গ্র্যান্ড স্ট্যান্ড, শহীদ জুয়েল স্ট্যান্ড ও শহীদ মোস্তাক স্ট্যান্ডের জন্য নিয়মিত টিকিট কিনতে হবে।"
-        ],
-        "bullets_en": [
-          "Bangladesh Cricket Board announced free gallery entry for the upcoming Mirpur test match.",
-          "Spectators can enter the North and South galleries without purchasing any tickets.",
-          "Grand stand, Shaheed Jewel stand, and Shaheed Mostaque stand will still require paid tickets."
-        ],
-        "impact_bn": "ক্রিকেটপ্রেমীরা বিনা খরচে আন্তর্জাতিক টেস্ট ম্যাচ সরাসরি স্টেডিয়ামে বসে উপভোগ করতে পারবেন।",
-        "impact_en": "Cricket fans can enjoy international test cricket live from the stadium without incurring ticket costs.",
-        "details_bn": "ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথমটি মিরপুর শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামে অনুষ্ঠিত হবে। এই ম্যাচটিকে কেন্দ্র করে ক্রিকেটপ্রেমীদের স্টেডিয়ামে টানতে এবং টেস্ট ক্রিকেটের প্রতি আগ্রহ বাড়াতে বাংলাদেশ ক্রিকেট বোর্ড উত্তর ও দক্ষিণ গ্যালারির দর্শকদের জন্য বিনামূল্যে প্রবেশের বিশেষ সুবিধা দিয়েছে। তবে ভিআইপি এবং অন্যান্য বিশেষ স্ট্যান্ডের ক্ষেত্রে পূর্বের নিয়ম অনুযায়ী টিকিট সংগ্রহ করতে হবে। সিরিজের দ্বিতীয় টেস্ট ম্যাচটি সিলেট আন্তর্জাতিক ক্রিকেট স্টেডিয়ামে অনুষ্ঠিত হওয়ার কথা রয়েছে।",
-        "details_en": "Bangladesh will play a two-match test series against West Indies, with the first fixture scheduled at the Sher-e-Bangla National Cricket Stadium in Mirpur. To encourage stadium attendance and revitalize interest in test cricket, the Bangladesh Cricket Board decided to waive ticket requirements for the North and South galleries. Premium seating areas like grand stands and VIP enclosures will still maintain standard ticketing protocols. The second test of the series is scheduled to be held at the Sylhet International Cricket Stadium."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে। সাম্প্রতিক রাজনৈতিক প্রেক্ষাপটে বিভিন্ন দলের অভ্যন্তরীণ সাংগঠনিক পরিবর্তন এবং দলগুলোর পারস্পরিক বোঝাপড়ার অংশ হিসেবে এই নতুন কমিটি আত্মপ্রকাশ করেছে। রাজনৈতিক মহলে এ ধরনের কমিটি গঠন প্রক্রিয়া নিয়ে নানা আলোচনা চলছে।",
+        "details_en": "The central convening committee of the National Citizens Party has been reconstituted. This new committee emerged amid ongoing organizational shifts and strategic alignments among various political factions within the country's evolving political landscape, drawing significant public attention."
       }
     }
   ]
