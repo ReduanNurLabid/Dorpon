@@ -1,65 +1,9 @@
 {
-  "updated_at": "2026-10-23T05:00:47.315153",
+  "updated_at": "2026-10-23T06:00:48.278265",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "73f61204-16e4-568d-9e51-8bdc0e357720",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T04:50:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7527,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976183/%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AE%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "জেরুজালেমে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা",
-          "snippet": "জেরুজালেমে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জেরুজালেমে ইসরায়েলি প্রধানমন্ত্রী নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা",
-        "title_en": "Glass Bottle Thrown at Israeli PM Netanyahu Motorcade in Jerusalem",
-        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করেছে দুর্বৃত্তরা।",
-        "summary_en": "Unidentified individuals hurled a glass bottle at the motorcade of Israeli Prime Minister Benjamin Netanyahu.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:50:44+00:00",
-        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করেছে দুর্বৃত্তরা।",
-        "lead_en": "Unidentified individuals hurled a glass bottle at the motorcade of Israeli Prime Minister Benjamin Netanyahu.",
-        "bullets_bn": [
-          "জেরুজালেমের মাহানে ইয়েহুদা বাজারে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করা হয়।",
-          "ইসরায়েলি সংবাদমাধ্যম টাইমস অব ইসরায়েল এই হামলার খবর প্রকাশ করে।",
-          "প্রচারণার অংশ হিসেবে গভীর রাতে ওই বাজারে গিয়েছিলেন ইসরায়েলি প্রধানমন্ত্রী।"
-        ],
-        "bullets_en": [
-          "A glass bottle was thrown targeting the motorcade of Benjamin Netanyahu at a market in Jerusalem.",
-          "Israeli media outlet The Times of Israel reported the security breach incident.",
-          "The Israeli prime minister was visiting the Mahane Yehuda market late at night as part of a campaign tour."
-        ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জেরুজালেমের জনপ্রিয় রাত্রিকালীন বিনোদনকেন্দ্র মাহানে ইয়েহুদা বাজারে প্রচারাভিযানে গেলে এই নিরাপত্তা বিঘ্নিত হওয়ার ঘটনা ঘটে। সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া ভিডিওতে দেখা যায় গভীর রাতে বাজার পরিদর্শনের সময় তার গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করা হয়। এই ঘটনা মধ্যপ্রাচ্যের রাজনৈতিক ও নিরাপত্তার বর্তমান উত্তেজনাকর পরিস্থিতির মধ্যেই ঘটল।",
-        "details_en": "The security breach occurred when Israeli Prime Minister Benjamin Netanyahu visited the popular Mahane Yehuda market in Jerusalem for a campaign tour. Social media footage captured the moment a glass bottle was hurled toward his vehicles during the late-night visit. The incident unfolds amid heightened political tensions and ongoing security concerns within Israel."
-      }
-    },
-    {
-      "story_id": "c05a945a-38e1-5c29-a1f4-8eed9962d11f",
+      "story_id": "b7695459-40a1-5e00-901d-8ff66b1aa2f5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -68,107 +12,52 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-14%2Fdygr8lpk%2Firan-11.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T04:39:22+00:00",
+      "published_at": "2026-10-23T05:31:04+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5721,
+      "rank_score": 1.4596,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/34dixjxwym",
-          "title": "হরমুজ প্রণালিতে এক রাতে ইরানের হামলায় ‘যুক্তরাষ্ট্র সংশ্লিষ্ট’ ৭টি জাহাজে আগুন",
-          "snippet": "হরমুজ প্রণালিতে এক রাতে ইরানের হামলায় ‘যুক্তরাষ্ট্র সংশ্লিষ্ট’ ৭টি জাহাজে আগুন"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171095",
+          "title": "সৌদি আরবে আটকা পড়েছেন ৪ হাজার ভারতীয় ওমরাহযাত্রী",
+          "snippet": "সৌদি আরবে আটকা পড়েছেন ৪ হাজার ভারতীয় ওমরাহযাত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হরমুজ প্রণালিতে ইরানের হামলায় যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে আগুন",
-        "title_en": "Iran Attacks Seven US-Linked Oil Tankers in Strait of Hormuz",
-        "summary_bn": "ইরানি বাহিনী হরমুজ প্রণালিতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে হামলা চালিয়ে আগুন ধরিয়ে দিয়েছে।",
-        "summary_en": "Iranian forces launched attacks setting fire to seven US-linked oil tankers in the Strait of Hormuz.",
+        "title_bn": "সৌদি আরবে আটকা পড়েছেন চার হাজার ভারতীয় ওমরাহযাত্রী",
+        "title_en": "Four Thousand Indian Umrah Pilgrims Stranded in Saudi Arabia",
+        "summary_bn": "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় প্রায় চার হাজার ভারতীয় ওমরাহযাত্রীর দেশে ফেরা অনিশ্চিত হয়ে পড়েছে।",
+        "summary_en": "Flight disruptions have made the return uncertain for approximately four thousand Indian Umrah pilgrims stranded in Mecca and Medina.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:39:22+00:00",
-        "lead_bn": "ইরানি বাহিনী হরমুজ প্রণালিতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে হামলা চালিয়ে আগুন ধরিয়ে দিয়েছে।",
-        "lead_en": "Iranian forces launched attacks setting fire to seven US-linked oil tankers in the Strait of Hormuz.",
+        "published_at": "2026-10-23T05:31:04+00:00",
+        "lead_bn": "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় প্রায় চার হাজার ভারতীয় ওমরাহযাত্রীর দেশে ফেরা অনিশ্চিত হয়ে পড়েছে।",
+        "lead_en": "Flight disruptions have made the return uncertain for approximately four thousand Indian Umrah pilgrims stranded in Mecca and Medina.",
         "bullets_bn": [
-          "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী এবং নৌমাইনের আঘাতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজ ক্ষতিগ্রস্ত হয়েছে।",
-          "যুক্তরাষ্ট্রের উৎসাহ ও সহায়তায় জাহাজগুলো হরমুজ প্রণালি দিয়ে চলাচল করছিল বলে জানিয়েছে তেহরান।",
-          "সামুদ্রিক অবরোধ আরোপ করাকে যুদ্ধের শামিল হিসেবে বিবেচনা করে নতুন নীতি কার্যকর করেছে ইরান।"
+          "বিমান চলাচলে বিঘ্ন ঘটায় সৌদি আরবের মক্কা ও মদিনায় ওমরাহযাত্রীরা আটকা পড়েন।",
+          "প্রায় চার হাজার ভারতীয় নাগরিক বর্তমানে দেশে ফেরার অপেক্ষায় অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন।",
+          "সংশ্লিষ্ট কর্তৃপক্ষ ফ্লাইট চলাচল স্বাভাবিক করার এবং যাত্রীদের নিরাপদে দেশে ফেরানোর উদ্যোগ নিয়েছে।"
         ],
         "bullets_en": [
-          "Seven US-linked oil tankers sustained damage following attacks by Iran's Islamic Revolutionary Guard Corps and naval mines.",
-          "Tehran stated that the vessels were navigating the Strait of Hormuz with encouragement and support from Washington.",
-          "Iran has implemented a new policy treating maritime blockades as acts of war amid rising regional tensions."
+          "Umrah pilgrims got stranded in Mecca and Medina due to sudden flight operation disruptions.",
+          "Nearly four thousand Indian nationals are currently facing uncertainty while waiting to return home.",
+          "Relevant authorities have initiated efforts to normalize flight schedules and safely repatriate the passengers."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে নতুন করে সর্বাত্মক যুদ্ধ শুরু হলে বৈশ্বিক জ্বালানি সরবরাহ ব্যাহত হয়ে জ্বালানি তেলের দাম বাড়তে পারে।",
-        "impact_en": "Escalating regional conflict could disrupt global energy supplies and drive up fuel prices for consumers worldwide.",
-        "details_bn": "ইরান ও যুক্তরাষ্ট্রের দীর্ঘদিনের ভূরাজনৈতিক উত্তেজনার কেন্দ্রে রয়েছে কৌশলগতভাবে গুরুত্বপূর্ণ হরমুজ প্রণালি, যার মধ্য দিয়ে বিশ্বের একটি বড় অংশের তেল ও জ্বালানি পরিবাহিত হয়। সম্প্রতি ইরানের বিরুদ্ধে মার্কিন আগ্রাসন ও সম্ভাব্য অবরোধ মোকাবিলায় তেহরান কঠোর অবস্থান নিয়েছে। যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য সামরিক পদক্ষেপের আশঙ্কায় মধ্যপ্রাচ্যজুড়ে নতুন করে সর্বাত্মক যুদ্ধ শুরুর শঙ্কা তৈরি হয়েছে।",
-        "details_en": "The strategic Strait of Hormuz, a vital passageway for a significant portion of global oil shipments, lies at the center of long-standing geopolitical tensions between Iran and the United States. Tehran has adopted a hardline stance to counter potential US-led maritime blockades and aggression. Amid expectations of possible military moves by the US and Israel, fears of a renewed all-out war have intensified across the Middle East."
+        "impact_bn": "আটকা পড়া তীর্থযাত্রীদের পরিবার চরম উৎকণ্ঠায় রয়েছে এবং তাদের অতিরিক্ত খরচের মুখোমুখি হতে হচ্ছে।",
+        "impact_en": "Families of the stranded pilgrims face severe anxiety and unexpected financial burdens.",
+        "details_bn": "সাম্প্রতিক সময়ে মধ্যপ্রাচ্যের বিভিন্ন রুটে বিমান চলাচলে নানা জটিলতা দেখা দেওয়ায় যাত্রীদের যাতায়াত ব্যাহত হচ্ছে। ওমরাহ পালন শেষে দেশে ফেরার জন্য বিমানবন্দরে পৌঁছানোর পর ফ্লাইট বাতিলের কবলে পড়েন এই ভারতীয় নাগরিকরা। কূটনৈতিক পর্যায়ে যোগাযোগের মাধ্যমে দ্রুত এই সমস্যার সমাধানের চেষ্টা চলছে।",
+        "details_en": "Recent disruptions in flight operations across various Middle Eastern routes have severely impacted passenger transit. These Indian nationals faced flight cancellations upon arriving at airports after completing their Umrah pilgrimage. Diplomatic channels are currently working to resolve the issue swiftly."
       }
     },
     {
-      "story_id": "f7327530-9d61-5356-a93e-84a5afaccb74",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Netrokona",
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Netrokona%20gang%20rape%20accused%20jailed.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-23T05:00:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9681,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/netrokona-court-sends-2-jail-alleged-gang-rape-case-4305596",
-          "title": "Netrokona court sends 2 to jail in alleged gang rape case",
-          "snippet": "Netrokona court sends 2 to jail in alleged gang rape case"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নেত্রকোণায় সংঘবদ্ধ ধর্ষণ মামলায় দুই যুবক কারাগারে প্রেরিত",
-        "title_en": "Netrokona Court Sends Two Men to Jail in Gang Rape Case",
-        "summary_bn": "নেত্রকোণায় এক নারী শ্রমিককে সংঘবদ্ধ ধর্ষণের অভিযোগে গ্রেপ্তার দুই ব্যক্তিকে আদালতের নির্দেশে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "A Netrokona court ordered two arrested men to be sent to jail following an alleged gang rape in Durgapur upazila.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T05:00:20+00:00",
-        "lead_bn": "নেত্রকোণায় এক নারী শ্রমিককে সংঘবদ্ধ ধর্ষণের অভিযোগে গ্রেপ্তার দুই ব্যক্তিকে আদালতের নির্দেশে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "A Netrokona court ordered two arrested men to be sent to jail following an alleged gang rape in Durgapur upazila.",
-        "bullets_bn": [
-          "পুলিশ নেত্রকোণার দুর্গাপুর উপজেলা থেকে মামলার প্রধান দুই অভিযুক্তকে গ্রেপ্তার করে আদালতে হাজির করে।",
-          "গ্রেপ্তারকৃতরা হলেন ২৫ বছর বয়সী হাসিবুল হাসান এবং ২৬ বছর বয়সী হাফিজুল হাসান রবি।",
-          "পুলিশি হস্তক্ষেপে বিষয়টি প্রকাশ পাওয়ার পর পলাতক আরেক অভিযুক্তকে গ্রেপ্তারে অভিযান চলছে।"
-        ],
-        "bullets_en": [
-          "Police arrested two accused men from Durgapur upazila and produced them before the court.",
-          "The arrested individuals are identified as 25-year-old Hasibul Hasan and 26-year-old Hafizul Hasan Rabbi.",
-          "Authorities are continuing efforts to apprehend another suspect who remains absconding following the incident."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও অপরাধের বিচারহীনতা রোধে দ্রুত আইনি পদক্ষেপ গ্রহণের প্রয়োজনীয়তা তুলে ধরে এ ঘটনা।",
-        "impact_en": "This case highlights the ongoing necessity for swift law enforcement intervention and legal accountability in crimes against women.",
-        "details_bn": "ঢাকা থেকে গ্রামের বাড়িতে ফেরা এক নারী পোশাক শ্রমিককে দুর্গাপুরে সংঘবদ্ধ ধর্ষণের অভিযোগ ওঠে। ঘটনার পর স্থানীয়ভাবে বিষয়টি সালিশের মাধ্যমে মীমাংসার চেষ্টা করা হলেও পুলিশ খবর পেয়ে দ্রুত ঘটনাস্থলে পৌঁছে দুজনকে গ্রেপ্তার করে। ঘটনার সাথে জড়িত অপর এক ব্যক্তি এখনও পলাতক রয়েছে এবং পুলিশ তাকে গ্রেপ্তারের চেষ্টা চালিয়ে যাচ্ছে।",
-        "details_en": "A female garment worker visiting her village home in Durgapur was allegedly gang-raped by local youths. While locals initially attempted to arbitrate the matter, police intervened upon receiving information and arrested two suspects. A third suspect remains at large as law enforcement continues their pursuit."
-      }
-    },
-    {
-      "story_id": "42be0fdc-976d-5430-8185-22d932c05a9d",
+      "story_id": "8dd2d671-f568-568f-b4c1-1d55afcbc3f9",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -177,109 +66,224 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fl9xiwjip%2FWhatsApp-Image-2026-10-23-at-10.45.26-AM.jpeg?rect=0%2C120%2C1067%2C560&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T04:56:17+00:00",
+      "published_at": "2026-10-23T05:19:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9274,
+      "importance_score": 4.8,
+      "rank_score": 1.3298,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171079",
-          "title": "বরিশালে ইয়াবাসহ সাবেক সেনাসদস্য ও তার স্ত্রী গ্রেফতার",
-          "snippet": "বরিশালে ইয়াবাসহ সাবেক সেনাসদস্য ও তার স্ত্রী গ্রেফতার"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/19lh1aoxhs",
+          "title": "মাদক কারবারিকে আটক করে থানায় ফিরছিলেন, কাভার্ড ভ্যানের চাপায় এসআইসহ নিহত ২",
+          "snippet": "মাদক কারবারিকে আটক করে থানায় ফিরছিলেন, কাভার্ড ভ্যানের চাপায় এসআইসহ নিহত ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বরিশালে ২৩৫ পিস ইয়াবাসহ সাবেক সেনাসদস্য ও স্ত্রী গ্রেফতার",
-        "title_en": "Former Army Member and Wife Arrested with Yaba in Barishal",
-        "summary_bn": "বরিশালে বিপুল পরিমাণ মাদকদ্রব্যসহ এক সাবেক সেনাসদস্য ও তার স্ত্রীকে গ্রেফতার করেছে কোতোয়ালি মডেল থানা পুলিশ।",
-        "summary_en": "Kotwali Model Police Station arrested a former army member and his wife with a significant amount of narcotics in Barishal.",
+        "title_bn": "গাজীপুরে কাভার্ড ভ্যানের চাপায় পুলিশ কর্মকর্তা ও স্থানীয় বিএনপিনেতা নিহত",
+        "title_en": "Police Officer and Local BNP Leader Killed in Gazipur Covered Van Crash",
+        "summary_bn": "গাজীপুরে মাদক কারবারিকে আটকের পর থানায় ফেরার পথে কাভার্ড ভ্যানের চাপায় এক পুলিশ উপপরিদর্শকসহ দুজন নিহত হয়েছেন।",
+        "summary_en": "A police sub-inspector and another person were killed when a covered van struck them while returning from a drug raid in Gazipur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:56:17+00:00",
-        "lead_bn": "বরিশালে বিপুল পরিমাণ মাদকদ্রব্যসহ এক সাবেক সেনাসদস্য ও তার স্ত্রীকে গ্রেফতার করেছে কোতোয়ালি মডেল থানা পুলিশ।",
-        "lead_en": "Kotwali Model Police Station arrested a former army member and his wife with a significant amount of narcotics in Barishal.",
+        "published_at": "2026-10-23T05:19:56+00:00",
+        "lead_bn": "গাজীপুরে মাদক কারবারিকে আটকের পর থানায় ফেরার পথে কাভার্ড ভ্যানের চাপায় এক পুলিশ উপপরিদর্শকসহ দুজন নিহত হয়েছেন।",
+        "lead_en": "A police sub-inspector and another person were killed when a covered van struck them while returning from a drug raid in Gazipur.",
         "bullets_bn": [
-          "কোতোয়ালি মডেল থানা পুলিশ অভিযান চালিয়ে ওই দম্পতিকে আটক করে।",
-          "তাদের কাছ থেকে ২৩৫ পিস ইয়াবা ট্যাবলেট উদ্ধার করা হয়।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে আইনি প্রক্রিয়া শুরু হয়েছে।"
+          "মাদক কারবারিকে আটক করে থানায় ফেরার পথে কালীগঞ্জ সরকারি শ্রমিক কলেজের সামনে একটি কাভার্ড ভ্যান পুলিশের দলটিকে চাপা দেয়।",
+          "নিহতরা হলেন কালীগঞ্জ থানার উপপরিদর্শক মিজানুর রহমান ও তুমুলিয়া ইউনিয়ন বিএনপির সাংগঠনিক সম্পাদক রফিক মোল্লা।",
+          "দুর্ঘটনায় গুরুতর আহত আরেক পুলিশ কর্মকর্তা ঢাকায় চিকিৎসাধীন আছেন এবং ঘাতক গাড়িটিকে শনাক্তের চেষ্টা চলছে।"
         ],
         "bullets_en": [
-          "Kotwali Model Police Station conducted a drive to arrest the couple.",
-          "A total of 235 pieces of Yaba tablets were recovered from their possession.",
-          "Legal proceedings under the Narcotics Control Act have been initiated against the arrestees."
+          "A covered van struck a police team in front of Kaliganj Government Workers College while they were returning with a detained drug dealer.",
+          "The victims are Kaliganj Police Station Sub-Inspector Mizanur Rahman and local BNP leader Rafiq Mollah.",
+          "Another injured police officer is undergoing treatment in Dhaka while efforts are underway to identify the fleeing vehicle."
         ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষা এবং মাদকের বিস্তার রোধে এ ধরনের নিয়মিত অভিযান জনমনে স্বস্তি বাড়ায়।",
-        "impact_en": "Regular enforcement drives against narcotics help curb local peddling and enhance community safety.",
-        "details_bn": "মাদকদ্রব্য উদ্ধার ও কারবারিদের দমনে দেশজুড়ে আইনশৃঙ্খলা বাহিনী বিভিন্ন সময়ে অভিযান পরিচালনা করে আসছে। সাম্প্রতিক সময়ে সাবেক বা বর্তমান বিভিন্ন পেশাজীবীদের অপরাধমূলক কার্যক্রমে জড়ানোর ঘটনা উদ্বেগ বাড়িয়েছে। সংশ্লিষ্ট পুলিশ প্রশাসন জানিয়েছে, মাদকের বিরুদ্ধে জিরো টলারেন্স নীতি বাস্তবায়নে এ ধরনের অভিযান অব্যাহত থাকবে।",
-        "details_en": "Law enforcement agencies across the country regularly conduct drives to recover narcotics and curb drug trafficking. Recent incidents involving individuals from various professional backgrounds in illicit activities have raised concerns. Police administration stated that operations will continue to enforce a zero-tolerance policy against narcotics."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "গাজীপুরের কালীগঞ্জে মাদক কারবারি আহিদ মিয়াকে আটকের পর থানায় ফেরার পথে এই দুর্ঘটনা ঘটে। পুলিশ কর্মকর্তারা স্থানীয় এক রাজনৈতিক নেতার সঙ্গে কথা বলার সময় একটি ঘোড়াশালমুখী কাভার্ড ভ্যান তাদের চাপা দেয়। এতে ঘটনাস্থলে ও হাসপাতালে নেওয়ার পর দুইজনের মৃত্যু হয়। পুলিশ ঘাতক গাড়িটি শনাক্ত ও আইনি ব্যবস্থা নিতে কাজ করছে।",
+        "details_en": "The incident occurred in Kaliganj, Gazipur, while police were returning with a detained drug suspect named Ahid Mia. The officers were conversing with a local political leader when a speeding covered van crushed them. Two individuals succumbed to their injuries, while law enforcement authorities are actively attempting to trace the vehicle responsible for the collision."
       }
     },
     {
-      "story_id": "a0feca01-dded-5399-8291-0d759a9980c1",
-      "primary_category": "economy_business",
+      "story_id": "92fe2176-2ea2-54c9-9cfd-765037e16616",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business"
+        "society_education"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T04:38:11+00:00",
+      "published_at": "2026-10-23T06:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7776,
+      "rank_score": 0.9645,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/976184/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AD%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%A4%C2%A0",
-          "title": "আরও কমলো সোনা-রুপার দাম, ভরি কত",
-          "snippet": "আরও কমলো সোনা-রুপার দাম, ভরি কত"
+          "url": "https://www.banglatribune.com/columns/976130/%E0%A6%97%E0%A7%83%E0%A6%B9%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%C2%A0",
+          "title": "গৃহকর্মীর শ্রম আছে, স্বীকৃতি আছে কি?",
+          "snippet": "গৃহকর্মীর শ্রম আছে, স্বীকৃতি আছে কি?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশের বাজারে আবারও কমলো সোনা ও রুপার দাম",
-        "title_en": "Gold and Silver Prices Decreased Again in Local Markets",
-        "summary_bn": "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে তেজাবি সোনা ও রুপার দাম কমানোর পর নতুন দর কার্যকর করেছে।",
-        "summary_en": "Bangladesh Jeweller Association implemented reduced prices for gold and silver across local markets following drops in bullion costs.",
+        "title_bn": "গৃহকর্মীদের শ্রমের সামাজিক স্বীকৃতি ও সুরক্ষার দাবি জোরালো হচ্ছে",
+        "title_en": "Demand for Social Recognition and Protection of Domestic Workers Grows",
+        "summary_bn": "পেশাগত স্বীকৃতি ও আইনি সুরক্ষার অভাবে গৃহকর্মীরা প্রতিনিয়ত বঞ্চিত হচ্ছেন তাদের ন্যায্য অধিকার ও মর্যাদা থেকে।",
+        "summary_en": "Domestic workers are routinely deprived of their fair rights and dignity due to a lack of professional recognition and legal protection.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:38:11+00:00",
-        "lead_bn": "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে তেজাবি সোনা ও রুপার দাম কমানোর পর নতুন দর কার্যকর করেছে।",
-        "lead_en": "Bangladesh Jeweller Association implemented reduced prices for gold and silver across local markets following drops in bullion costs.",
+        "published_at": "2026-10-23T06:00:00+00:00",
+        "lead_bn": "পেশাগত স্বীকৃতি ও আইনি সুরক্ষার অভাবে গৃহকর্মীরা প্রতিনিয়ত বঞ্চিত হচ্ছেন তাদের ন্যায্য অধিকার ও মর্যাদা থেকে।",
+        "lead_en": "Domestic workers are routinely deprived of their fair rights and dignity due to a lack of professional recognition and legal protection.",
         "bullets_bn": [
-          "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে সোনার ও রুপার গহনার দাম কমিয়ে নতুন দর কার্যকর করেছে।",
-          "নতুন মূল্য অনুযায়ী ২২ ক্যারেটের প্রতি ভরি সোনার দাম নির্ধারণ করা হয়েছে ২ লাখ ২৪ হাজার ৩৩৬ টাকা এবং রুপার ভরি ৩ হাজার ৮৪৫ টাকা।",
-          "নতুন নির্ধারিত এই দর সংশ্লিষ্ট কার্যদিবসের সকাল থেকে দেশজুড়ে কার্যকর করা হয়েছে।"
+          "গৃহকর্মীদের শ্রমকে প্রাতিষ্ঠানিক স্বীকৃতি ও আইনি সুরক্ষার আওতায় আনার দাবি জানিয়েছেন বিশেষজ্ঞরা",
+          "পেশাগত নিরাপত্তা না থাকায় কর্মরত নারীরা পারিবারিক ও কর্মক্ষেত্রে নানা বৈষম্যের শিকার হচ্ছেন",
+          "গৃহকর্মী সুরক্ষায় সুনির্দিষ্ট নীতিমালা প্রণয়ন এবং সঠিক বাস্তবায়নের ওপর গুরুত্বারোপ করা হয়েছে"
         ],
         "bullets_en": [
-          "Bangladesh Jeweller Association reduced and implemented lower prices for gold and silver jewelry in domestic markets.",
-          "Under the revised rates, 22-carat gold is priced at BDT 2,24,336 per bhori, and silver is set at BDT 3,845 per bhori.",
-          "The newly adjusted price schedule has been officially made effective from the morning of the implementation day."
+          "Experts emphasize bringing domestic labor under institutional recognition and legal protection frameworks.",
+          "Working women face various forms of discrimination due to a lack of professional security.",
+          "Emphasis has been placed on formulating and properly implementing specific policies for domestic workers."
         ],
-        "impact_bn": "সোনা ও রুপার দাম কমায় সাধারণ ক্রেতা ও গহনাপ্রেমীরা কিছুটা স্বস্তিতে কেনাকাটা করতে পারবেন।",
-        "impact_en": "Lower gold and silver prices provide financial relief for ordinary consumers and buyers purchasing jewelry.",
-        "details_bn": "দেশের বাজারে মূল্যবান ধাতুর দাম নির্ধারণ ও সমন্বয় করে থাকে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বাজুস। আন্তর্জাতিক বাজারের সাথে সামঞ্জস্য রেখে এবং স্থানীয় বুলিয়ন বা তেজাবি সোনার দামের ওঠানামার ওপর ভিত্তি করে প্রায়ই সোনার নতুন দাম নির্ধারণ করা হয়। এর আগেও আন্তর্জাতিক বাজারের দরের সাথে মিল রেখে দেশের বাজারে স্বর্ণের দামে বেশ কয়েকবার পরিবর্তন এনেছে সংগঠনটি।",
-        "details_en": "The Bangladesh Jeweller Association regularly reviews and adjusts precious metal prices in the domestic market. Price revisions are typically aligned with international market trends and fluctuations in local bullion costs. The association frequently alters retail prices to reflect these global economic shifts and local supply dynamics."
+        "impact_bn": "গৃহকর্মীদের আইনি সুরক্ষা নিশ্চিত হলে তাদের জীবনযাত্রার মান উন্নত হবে এবং সমাজে বৈষম্য কমবে।",
+        "impact_en": "Ensuring legal protection for domestic workers will improve their living standards and reduce societal inequality.",
+        "details_bn": "শহুরে মধ্যবিত্ত ও উচ্চবিত্ত পরিবারগুলোতে কর্মজীবী নারীদের সংখ্যা বৃদ্ধির সাথে সাথে গৃহকর্মীদের ওপর নির্ভরতা বহুগুণ বেড়েছে। চিকিৎসাকেন্দ্র থেকে শুরু করে করপোরেট অফিস সামলানো মায়েদের ক্ষেত্রে গৃহকর্মীরা ছায়াসঙ্গীর মতো কাজ করলেও তাদের এই শ্রমের কোনো প্রাতিষ্ঠানিক মূল্যায়ন বা আইনি সুরক্ষা নেই। ফলে কর্মঘণ্টা অনির্ধারিত থাকা এবং ন্যায্য মজুরি না পাওয়ার মতো সমস্যা নিত্যদিনের ঘটনা হয়ে দাঁড়িয়েছে।",
+        "details_en": "With the rise of working women in urban middle and upper-class families, reliance on domestic workers has multiplied significantly. Although domestic workers act as vital support for mothers managing medical practices and corporate offices, their labor lacks institutional evaluation or legal protection. Consequently, issues such as undefined working hours and unpaid wages have become everyday occurrences."
       }
     },
     {
-      "story_id": "d8fe43ae-3af8-580b-ab75-0afdf8865286",
+      "story_id": "d1685459-024c-5641-baa1-7427b84587ad",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T05:59:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9605,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/entertainment/news/1171104",
+          "title": "তিন লাক্স সুন্দরীর অভিনয়ে অভিষেক, মুক্তি পাচ্ছে ‘ক্যাফে আমব্রেলা’",
+          "snippet": "তিন লাক্স সুন্দরীর অভিনয়ে অভিষেক, মুক্তি পাচ্ছে ‘ক্যাফে আমব্রেলা’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লাক্স সুন্দরীদের অভিনয়ে নতুন ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে",
+        "title_en": "New Web Film Cafe Umbrella Starring Lux Stars Set for Release",
+        "summary_bn": "লাক্স সুপারস্টার প্রতিযোগিতার তিন নতুন মুখকে নিয়ে নির্মিত ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে আগামী ২৯ অক্টোবর।",
+        "summary_en": "The new web film Cafe Umbrella starring three fresh faces from the Lux Superstar competition releases on October 29.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T05:59:37+00:00",
+        "lead_bn": "লাক্স সুপারস্টার প্রতিযোগিতার তিন নতুন মুখকে নিয়ে নির্মিত ওয়েব ফিল্ম ক্যাফে আমব্রেলা মুক্তি পাচ্ছে আগামী ২৯ অক্টোবর।",
+        "lead_en": "The new web film Cafe Umbrella starring three fresh faces from the Lux Superstar competition releases on October 29.",
+        "bullets_bn": [
+          "লাক্স সুপারস্টার প্রতিযোগিতা থেকে আসা তিন নতুন অভিনেত্রী এই ওয়েব ফিল্মে অভিনয়ের মাধ্যমে আত্মপ্রকাশ করছেন।",
+          "আসন্ন ২৯ অক্টোবর ওটিটি প্ল্যাটফর্মে ওয়েব ফিল্মটি মুক্তি পাওয়ার কথা রয়েছে।",
+          "নতুন এই শিল্পীদের অভিনয় ও সামগ্রিক নির্মাণ দর্শকদের মাঝে নতুন আগ্রহ তৈরি করেছে।"
+        ],
+        "bullets_en": [
+          "Three new actresses emerging from the Lux Superstar contest make their acting debut in this web film.",
+          "The web film is scheduled for release on an OTT platform on October 29.",
+          "The performances of the fresh artists and overall production have generated new interest among audiences."
+        ],
+        "impact_bn": "তরুণ দর্শকরা দেশীয় ওটিটি প্ল্যাটফর্মে নতুন মুখের অভিনয় দেখতে পাবে।",
+        "impact_en": "Young audiences will get to experience performances by fresh faces on domestic OTT platforms.",
+        "details_bn": "লাক্স সুপারস্টার প্রতিযোগিতার মাধ্যমে শোবিজ অঙ্গনে প্রবেশ করা নতুন তারকাদের নিয়ে ওটিটি প্ল্যাটফর্মের জন্য বিভিন্ন কাজ নির্মিত হচ্ছে। এরই ধারাবাহিকতায় তরুণ প্রজন্মের অভিনয়শিল্পীদের নিয়ে নির্মিত হয়েছে ওয়েব ফিল্ম ক্যাফে আমব্রেলা। এর মাধ্যমে এই প্রতিযোগিতার তিন নতুন মুখ প্রথমবারের মতো অভিনয়ে পা রাখছেন, যা দেশের বিনোদন অঙ্গনে নতুন প্রতিভার বিকাশ ঘটাবে।",
+        "details_en": "Various projects are being produced for OTT platforms featuring new stars who entered the showbiz arena through the Lux Superstar contest. Continuing this trend, the web film Cafe Umbrella has been created with young generation actors. Through this, three new faces from the competition are stepping into acting for the first time, fostering the development of new talent in the country's entertainment sector."
+      }
+    },
+    {
+      "story_id": "fe488ff1-15b1-5f49-b0a7-155a040a9ff9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T05:53:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8975,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976193/%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A9%E0%A7%AB-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4",
+          "title": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত",
+          "snippet": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউরোপ থেকে ৩৫ বাংলাদেশিকে ফেরত পাঠিয়েছে বিভিন্ন দেশ",
+        "title_en": "Europe Returns Thirty-Five Bangladeshi Nationals",
+        "summary_bn": "ইতালি, গ্রিস ও সাইপ্রাস থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৩৫ বাংলাদেশি নাগরিক।",
+        "summary_en": "Thirty-five Bangladeshi nationals returned home on a special flight from Italy, Greece, and Cyprus.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T05:53:07+00:00",
+        "lead_bn": "ইতালি, গ্রিস ও সাইপ্রাস থেকে বিশেষ ফ্লাইটে দেশে ফিরেছেন ৩৫ বাংলাদেশি নাগরিক।",
+        "lead_en": "Thirty-five Bangladeshi nationals returned home on a special flight from Italy, Greece, and Cyprus.",
+        "bullets_bn": [
+          "ইউরোপের বিভিন্ন দেশ থেকে বিশেষ চার্টার্ড ফ্লাইটে মোট ৩৫ জন বাংলাদেশি নাগরিককে ফেরত পাঠানো হয়েছে।",
+          "ফেরত আসা নাগরিকদের মধ্যে ইতালি থেকে ১৯ জন, গ্রিস থেকে ১০ জন এবং সাইপ্রাস থেকে ৬ জন রয়েছেন।",
+          "শাহজালাল আন্তর্জাতিক বিমানবন্দরে অবতরণের পর ইমিগ্রেশন পুলিশ ও প্রবাসী কল্যাণ ডেস্ক তাদের গ্রহণ করে।"
+        ],
+        "bullets_en": [
+          "Thirty-five Bangladeshi nationals were sent back from various European countries on a special chartered flight.",
+          "Among the returnees, nineteen are from Italy, ten from Greece, and six from Cyprus.",
+          "Immigration police and the expatriate welfare desk received the returnees upon their arrival at Shahjalal International Airport."
+        ],
+        "impact_bn": "অবৈধ অভিবাসনের শিকার যুবকদের মাঝে আর্থিক ক্ষতি ও সামাজিক অনিশ্চয়তা তৈরি হচ্ছে।",
+        "impact_en": "Illegal migration attempts expose youth to severe financial losses and social uncertainty.",
+        "details_bn": "ইউরোপের বিভিন্ন দেশে অবৈধভাবে প্রবেশ বা অবস্থানের অভিযোগে বাংলাদেশি নাগরিকদের ফেরত পাঠানোর ঘটনা নিয়মিত প্রক্রিয়ার অংশ হিসেবে ঘটছে। অভিবাসন আইন কঠোর করায় এবং অবৈধ অভিবাসী শনাক্তকরণ অভিযান জোরদার করায় বিভিন্ন দেশ থেকে নিয়মিত বিরতিতে বাংলাদেশিদের ফিরিয়ে দেওয়া হচ্ছে। ফেরত আসা এসব নাগরিকের অধিকাংশই জীবনের ঝুঁকি নিয়ে এবং দালালদের মাধ্যমে সমুদ্র বা স্থলপথে ইউরোপে প্রবেশের চেষ্টা করেছিলেন।",
+        "details_en": "The deportation of Bangladeshi nationals for unauthorized entry or stay in European countries is part of ongoing immigration enforcement. As European nations tighten border controls and crack down on undocumented migration, groups of migrants are regularly sent back. Most of these individuals attempted dangerous and illegal routes to Europe through brokers and traffickers."
+      }
+    },
+    {
+      "story_id": "30c6b37a-8b0d-5c6e-ad07-6889f8a6b5b3",
       "primary_category": "sports_fitness",
       "interest_categories": [
-        "sports_fitness"
+        "sports_fitness",
+        "governance_law"
       ],
       "tags": [
         "#Sports",
@@ -287,46 +291,47 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T04:27:26+00:00",
+      "published_at": "2026-10-23T05:49:48+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7076,
+      "rank_score": 0.8681,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/cricket/1171072",
-          "title": "ওয়েস্ট ইন্ডিজের বিপক্ষে বাংলাদেশের প্রথম টেস্টের দল ঘোষণা",
-          "snippet": "ওয়েস্ট ইন্ডিজের বিপক্ষে বাংলাদেশের প্রথম টেস্টের দল ঘোষণা"
+          "url": "https://www.jagonews24.com/sports/cricket/1171101",
+          "title": "৫৬ বছর পর এমন লজ্জায় ডুবলো অস্ট্রেলিয়া",
+          "snippet": "৫৬ বছর পর এমন লজ্জায় ডুবলো অস্ট্রেলিয়া"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ওয়েস্ট ইন্ডিজের বিপক্ষে প্রথম টেস্টের জন্য দল ঘোষণা করল বিসিবি",
-        "title_en": "BCB Announces Squad for First Test Against West Indies",
-        "summary_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে ব্যর্থতার পর ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম ম্যাচের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
-        "summary_en": "Following a dismal run in the tri-nation ODI series in the UAE, the Bangladesh Cricket Board has announced the squad for the opening Test against West Indies.",
+        "title_bn": "দক্ষিণ আফ্রিকার কাছে ইনিংস ব্যবধানে হেরে ৫৬ বছরের খরায় অস্ট্রেলিয়া",
+        "title_en": "Australia Suffers Innings Defeat to South Africa After 56 Years",
+        "summary_bn": "গেবেখার সেন্ট জর্জেস পার্কে দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে হারিয়ে সিরিজে সমতা ফেরাল দক্ষিণ আফ্রিকা।",
+        "summary_en": "South Africa leveled the series by defeating Australia by an innings and 31 runs in the second Test at St George's Park.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "sports_fitness",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:27:26+00:00",
-        "lead_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে ব্যর্থতার পর ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম ম্যাচের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
-        "lead_en": "Following a dismal run in the tri-nation ODI series in the UAE, the Bangladesh Cricket Board has announced the squad for the opening Test against West Indies.",
+        "published_at": "2026-10-23T05:49:48+00:00",
+        "lead_bn": "গেবেখার সেন্ট জর্জেস পার্কে দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে হারিয়ে সিরিজে সমতা ফেরাল দক্ষিণ আফ্রিকা।",
+        "lead_en": "South Africa leveled the series by defeating Australia by an innings and 31 runs in the second Test at St George's Park.",
         "bullets_bn": [
-          "ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম টেস্টের জন্য দল ঘোষণা করেছে বিসিবি",
-          "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে চরম ব্যর্থতার পর টেস্ট ফরম্যাটে ফিরছে বাংলাদেশ",
-          "আসন্ন টেস্ট সিরিজকে কেন্দ্র করে স্কোয়াডে বেশ কিছু পরিবর্তন এনেছে ক্রিকেট বোর্ড"
+          "দক্ষিণ আফ্রিকা দ্বিতীয় টেস্টে অস্ট্রেলিয়াকে ইনিংস ও ৩১ রানে পরাজিত করেছে।",
+          "এই জয়ে পাঁচ ম্যাচের টেস্ট সিরিজে সমতা ফেরানোর পথে এগিয়ে গেছে স্বাগতিক দক্ষিণ আফ্রিকা।",
+          "এর আগে ৫৬ বছর আগে দক্ষিণ আফ্রিকার মাটিতে ইনিংস ব্যবধানে হেরেছিল অস্ট্রেলিয়া।"
         ],
         "bullets_en": [
-          "The Bangladesh Cricket Board has announced the squad for the opening match of the two-Test series against West Indies.",
-          "Bangladesh is returning to the Test format following a major failure in the tri-nation ODI series in the UAE.",
-          "The cricket board has made several changes to the squad ahead of the upcoming Test series."
+          "South Africa defeated Australia by an innings and 31 runs in the second Test.",
+          "The victory put the hosts on track to level the five-match Test series.",
+          "Australia previously suffered an innings defeat on South African soil 56 years ago."
         ],
-        "impact_bn": "জাতীয় দলের সাম্প্রতিক পারফরম্যান্স নিয়ে হতাশ ক্রীড়াপ্রেমী ও তরুণ দর্শকরা আসন্ন সিরিজে ঘুরে দাঁড়ানোর প্রত্যাশা করছেন।",
-        "impact_en": "Cricket fans and young supporters disappointed by recent national team performances look forward to a turnaround in the upcoming series.",
-        "details_bn": "সংযুক্ত আরব আমিরাতে অনুষ্ঠিত ত্রিদেশীয় ওয়ানডে সিরিজে আশানুরূপ ফল করতে পারেনি বাংলাদেশ দল। ওই প্রতিযোগিতায় চরম ব্যর্থতার পর এবার লাল বলের ক্রিকেটে ঘুরে দাঁড়ানোর মিশনে নামছে দল। ওয়েস্ট ইন্ডিজের বিপক্ষে এই হোম বা অ্যাওয়ে সিরিজে ভালো পারফরম্যান্স করে নিজেদের টেস্ট ফর্ম ফিরে পেতে মুখিয়ে আছে টাইগাররা।",
-        "details_en": "The Bangladesh team failed to deliver satisfactory results in the tri-nation ODI series held in the UAE. Following that extreme disappointment in the limited-overs format, the team is now embarking on a red-ball cricket mission to bounce back. The Tigers are eager to regain their Test form through strong performances in this series against West Indies."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ডারবানে অনুষ্ঠিত প্রথম টেস্টে জয়ের মাধ্যমে সিরিজে আধিপত্য বিস্তার করেছিল অস্ট্রেলিয়া। তবে সেন্ট জর্জেস পার্কে অনুষ্ঠিত দ্বিতীয় টেস্টে দারুণভাবে ঘুরে দাঁড়িয়ে দুর্দান্ত পারফরম্যান্স প্রদর্শন করে স্বাগতিক দক্ষিণ আফ্রিকা। এই জয়ে দীর্ঘ ৫৬ বছর পর প্রোটিয়াদের মাটিতে অজিদের ইনিংস ব্যবধানে হারার লজ্জাজনক রেকর্ড উপহার দিল দক্ষিণ আফ্রিকা দল।",
+        "details_en": "Australia dominated the first Test in Durban to take the early lead in the series. However, South Africa bounced back strongly in the second Test at St George's Park to secure a comprehensive victory. This result handed Australia their first innings defeat on South African soil in 56 years."
       }
     }
   ]
