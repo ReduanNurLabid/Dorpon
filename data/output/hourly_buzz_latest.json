@@ -1,61 +1,277 @@
 {
-  "updated_at": "2026-10-23T11:00:48.197310",
+  "updated_at": "2026-10-23T12:00:45.155497",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "7e8eed1d-0fa7-5cf3-89cc-9d6682caf101",
+      "story_id": "5a7074f6-4af9-5a92-9fd8-1f57704cacd6",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/engr003.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T09:58:52+00:00",
+      "published_at": "2026-10-23T11:07:40+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.1332,
+      "rank_score": 1.2086,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/engineer-detained-with-150000-taka-following-complaints-about-roadwork-quality/",
-          "title": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী",
-          "snippet": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171181",
+          "title": "সাংবাদিকদের গাড়ি আটকে যুবদল নেতার চাঁদা আদায়ের চেষ্টা",
+          "snippet": "সাংবাদিকদের গাড়ি আটকে যুবদল নেতার চাঁদা আদায়ের চেষ্টা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পঞ্চগড়ে দেড় লাখ টাকাসহ এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ",
-        "title_en": "LGED Engineer Detained With Cash by Locals Over Road Quality",
-        "summary_bn": "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অনিয়মের অভিযোগে স্থানীয়রা নগদ দেড় লাখ টাকাসহ এক প্রকৌশলীকে আটক করেছেন।",
-        "summary_en": "Locals in Panchagarh detained an assistant engineer with Tk 1.5 lakh amid complaints over substandard road construction work.",
+        "title_bn": "সাংবাদিকদের গাড়ি আটকে চাঁদা আদায়ের চেষ্টা করেছেন যুবদল নেতা",
+        "title_en": "Yuba Dal Leader Attempts Extortion by Blocking Journalists Vehicles",
+        "summary_bn": "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের চেষ্টার অভিযোগ উঠেছে এক যুবদল নেতার বিরুদ্ধে।",
+        "summary_en": "A local leader of Jatiyatabadi Juba Dal has been accused of attempting extortion by blocking journalists vehicles.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T11:07:40+00:00",
+        "lead_bn": "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের চেষ্টার অভিযোগ উঠেছে এক যুবদল নেতার বিরুদ্ধে।",
+        "lead_en": "A local leader of Jatiyatabadi Juba Dal has been accused of attempting extortion by blocking journalists vehicles.",
+        "bullets_bn": [
+          "সাংবাদিকদের বহনকারী গাড়ি আটকে চাঁদা আদায়ের উদ্দেশ্যে হেনস্তা করা হয়।",
+          "অভিযুক্ত ব্যক্তি স্থানীয় যুবদলের একজন দায়িত্বপ্রাপ্ত নেতা বলে জানা গেছে।",
+          "ঘটনার পর এলাকায় চাঞ্চল্যের সৃষ্টি হয়েছে এবং আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া চলছে।"
+        ],
+        "bullets_en": [
+          "Vehicles carrying journalists were intercepted and subjected to extortion attempts.",
+          "The accused individual is identified as a local leader of Jatiyatabadi Juba Dal.",
+          "The incident has sparked local concern and legal measures are under consideration."
+        ],
+        "impact_bn": "সাংবাদিকদের পেশাগত নিরাপত্তা ও নির্বিঘ্নে চলাচলের স্বাধীনতা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Concerns have been raised regarding the professional security and freedom of movement for journalists.",
+        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে রাজনৈতিক দলের নেতাকর্মীদের দ্বারা বিভিন্ন পেশার মানুষের ওপর প্রভাব বিস্তার ও বিশৃঙ্খলা সৃষ্টির অভিযোগ পাওয়া যাচ্ছে। দায়িত্ব পালনকালে সাংবাদিকদের সুরক্ষা ও হয়রানি বন্ধে আইনশৃঙ্খলা বাহিনীর কঠোর পদক্ষেপের দাবি জানিয়েছেন সংবাদকর্মীরা।",
+        "details_en": "In recent times, allegations of exerting influence and creating disorder by political activists have emerged in various parts of the country. Journalists have demanded stricter measures from law enforcement agencies to ensure professional security and prevent harassment during news coverage."
+      }
+    },
+    {
+      "story_id": "ebbbf09f-b45a-5186-b399-736a74d40d58",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-05%2F5rq097k9%2Fprothomalo_bangla_2021_10_62723491_53d5_495c_b3ec_0a2431d51190_child_abuse.webp?rect=0%2C228%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T11:06:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2004,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/qw415bwl1h",
+          "title": "গাজীপুরে মাদ্রাসায় শিশুকে ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার",
+          "snippet": "গাজীপুরে মাদ্রাসায় শিশুকে ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গাজীপুরে মাদ্রাসায় শিশু ধর্ষণের অভিযোগে শিক্ষকসহ দুজন গ্রেপ্তার",
+        "title_en": "Teacher and Another Arrested for Child Rape at Gazipur Madrassa",
+        "summary_bn": "গাজীপুরে একটি আবাসিক মাদ্রাসায় আট বছরের শিশুকে ধর্ষণের অভিযোগে এক শিক্ষকসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested a teacher and another individual for allegedly raping an eight-year-old child at a residential madrasa in Gazipur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T11:06:45+00:00",
+        "lead_bn": "গাজীপুরে একটি আবাসিক মাদ্রাসায় আট বছরের শিশুকে ধর্ষণের অভিযোগে এক শিক্ষকসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested a teacher and another individual for allegedly raping an eight-year-old child at a residential madrasa in Gazipur.",
+        "bullets_bn": [
+          "পুলিশ গাজীপুরের একটি আবাসিক মাদ্রাসার শিক্ষক অলিউল্লাহ ইসলাম এবং মাদ্রাসা পরিচালনা কমিটির সদস্য মোহাম্মদ মিজানকে গ্রেপ্তার করে।",
+          "শিশুটির মায়ের দায়ের করা মামলায় তিনজনকে আসামি করা হয় এবং আসামিরা ঘটনার পর বিষয়টি ধামাচাপা দেওয়ার চেষ্টা করেন।",
+          "গ্রেপ্তার দুজনকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে এবং মামলার অন্য আসামিকে গ্রেপ্তারে অভিযান চলছে।"
+        ],
+        "bullets_en": [
+          "Police arrested madrasa teacher Oliullah Islam and management associate Mohammad Mizan in Gazipur.",
+          "The victim's mother filed a case naming three individuals, and management tried to cover up the crime.",
+          "The arrested accused were sent to jail through the court while efforts continue to capture the remaining suspect."
+        ],
+        "impact_bn": "শিক্ষাপ্রতিষ্ঠানে শিশুদের নিরাপত্তা ও অপরাধ ধামাচাপা দেওয়ার চেষ্টার বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়ার দাবি জোরালো হয়েছে।",
+        "impact_en": "Public calls intensify for stricter security in educational institutions and zero tolerance for cover-ups of child abuse.",
+        "details_bn": "গাজীপুরের একটি আবাসিক মাদ্রাসায় তৃতীয় শ্রেণির এক শিক্ষার্থীকে একাধিকবার ধর্ষণের অভিযোগে মামলা হয়। শিশুটি মাদ্রাসার আবাসিক বিভাগে থেকে পড়াশোনা করত। ছুড়িতে বাড়িতে গিয়ে বিষয়টি প্রকাশ পাওয়ার পর পরিবার মাদ্রাসা কর্তৃপক্ষের কাছে বিচার চায়। কর্তৃপক্ষ বিচার না করে ঘটনা ধামাচাপা দেওয়ার চেষ্টা করলে পুলিশে অভিযোগ করা হয়। পুলিশ অভিযান চালিয়ে শিক্ষকসহ দুজনকে গ্রেপ্তার করে আদালতের মাধ্যমে কারাগারে পাঠায়।",
+        "details_en": "A case was filed over the repeated rape of a third-grade residential student at a madrasa in Gazipur. The abuse came to light when the victim visited home and disclosed the trauma to her family. Instead of taking action, madrasa authorities allegedly attempted to conceal the incident, prompting the family to approach law enforcement. Police subsequently conducted raids and sent the two arrested suspects to jail."
+      }
+    },
+    {
+      "story_id": "a7928150-da28-5ff7-acc1-cb985b307e6d",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T11:53:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8985,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/jago-jobs/news/1171193",
+          "title": "ব্র্যাক ব্যাংকে ম্যানেজার নিয়োগ, থাকছে না বয়সসীমা",
+          "snippet": "ব্র্যাক ব্যাংকে ম্যানেজার নিয়োগ, থাকছে না বয়সসীমা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্র্যাক ব্যাংকে ম্যানেজার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ",
+        "title_en": "BRAC Bank Issues Recruitment Circular for Manager Positions",
+        "summary_bn": "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে দক্ষ জনবল নিয়োগের জন্য আনুষ্ঠানিক বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "BRAC Bank PLC has published an official recruitment circular to hire skilled professionals for manager positions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:58:52+00:00",
-        "lead_bn": "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অনিয়মের অভিযোগে স্থানীয়রা নগদ দেড় লাখ টাকাসহ এক প্রকৌশলীকে আটক করেছেন।",
-        "lead_en": "Locals in Panchagarh detained an assistant engineer with Tk 1.5 lakh amid complaints over substandard road construction work.",
+        "published_at": "2026-10-23T11:53:15+00:00",
+        "lead_bn": "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে দক্ষ জনবল নিয়োগের জন্য আনুষ্ঠানিক বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "BRAC Bank PLC has published an official recruitment circular to hire skilled professionals for manager positions.",
         "bullets_bn": [
-          "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অসন্তোষ প্রকাশ করে স্থানীয় বাসিন্দারা এক প্রকৌশলীকে আটক করেন।",
-          "তল্লাশির সময় প্রকৌশলী নূরই আকরামের ব্যাগ ও পকেট থেকে নগদ মোট দেড় লাখ টাকা উদ্ধার করে পুলিশ।",
-          "উপজেলা প্রকৌশলী জানিয়েছেন দায়িত্বে থাকার সময় নগদ টাকা রাখার বিষয়টি তদন্ত করে ব্যবস্থা নেওয়া হবে।"
+          "ব্র্যাক ব্যাংক পিএলসি ম্যানেজার পদে লোকবল নিয়োগের ঘোষণা দিয়েছে।",
+          "আগ্রহী প্রার্থীরা ২৬ অক্টোবর পর্যন্ত নির্ধারিত প্রক্রিয়া অনুসরণ করে আবেদন করতে পারবেন।",
+          "এই নিয়োগ কার্যক্রমে প্রার্থীদের জন্য কোনো বয়সসীমা নির্ধারণ করা হয়নি।"
         ],
         "bullets_en": [
-          "Local residents detained assistant engineer Nur-e-Akram in Boda upazila over persistent complaints regarding road construction quality.",
-          "Police recovered a total of Tk 1.5 lakh in cash from the engineer's bag and pockets during the search.",
-          "Upazila engineer Firozur Rahman stated that an investigation will be conducted into carrying cash on duty."
+          "BRAC Bank PLC announced a recruitment circular to hire professionals for manager roles.",
+          "Interested candidates can submit their applications following the designated process until October 26.",
+          "The recruitment process has no specific age limit restrictions for applicants."
         ],
-        "impact_bn": "রাস্তার কাজে দুর্নীতি রোধে স্থানীয় জনগণের এই ধরনের প্রতিরোধ সরকারি প্রকল্পে স্বচ্ছতা আনতে সাহায্য করে।",
-        "impact_en": "Public vigilance against corruption in local infrastructure projects helps ensure better quality and accountability.",
-        "details_bn": "পঞ্চগড়ের বোদা উপজেলায় সাকোয়া-নয়াদীঘি সড়কের পাকা কাজ চলার সময় দীর্ঘদিন ধরে অনিয়মের অভিযোগ করে আসছিলেন স্থানীয়রা। কাজের মান যাচাই করতে গেলে উপসহকারী প্রকৌশলী নূরই আকরাম পালিয়ে যাওয়ার চেষ্টা করেন। পরে স্থানীয়রা তার ব্যাগ তল্লাশি করে নগদ টাকা পান এবং তাকে পুলিশের কাছে সোপর্দ করেন।",
-        "details_en": "Locals in Boda upazila had been complaining about poor construction standards on the Sakua-Noyadighi road. When confronted about project documents, assistant engineer Nur-e-Akram attempted to leave, prompting residents to search his belongings and hand him over to police with cash."
+        "impact_bn": "বেকার ও কর্মপ্রত্যাশী তরুণ পেশাজীবীদের জন্য ব্র্যাক ব্যাংকে নতুন ক্যারিয়ার গড়ার সুযোগ তৈরি হয়েছে।",
+        "impact_en": "This creates new career advancement opportunities for job-seeking professionals and young graduates in the banking sector.",
+        "details_bn": "বেসরকারি খাতের শীর্ষস্থানীয় ব্যাংকগুলোর মধ্যে ব্র্যাক ব্যাংক অন্যতম। ব্যাংকটি নিয়মিত দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থান বাড়াতে বিভিন্ন পদে দক্ষ পেশাজীবী নিয়োগ দিয়ে থাকে। সাম্প্রতিক এই নিয়োগ বিজ্ঞপ্তির মাধ্যমে ব্যাংকটির বিভিন্ন কর্পোরেট ও অপারেশনাল কার্যক্রমে অভিজ্ঞ জনবল যুক্ত করার প্রক্রিয়া শুরু হয়েছে।",
+        "details_en": "BRAC Bank is one of the leading private commercial banks in the country, regularly recruiting skilled professionals to support its expanding financial operations and corporate growth. The latest recruitment circular initiates the selection process to onboard qualified professionals into key management roles across its network."
+      }
+    },
+    {
+      "story_id": "63c58e98-bab1-50dd-9e3c-20fd44b346d6",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T11:52:11+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8889,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/journey/976258/%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E0%A6%AC%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E2%80%98%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%A8-%E0%A6%AB%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%E2%80%99",
+          "title": "গাছ নেই, তবু বনের নাম ‘স্টোন ফরেস্ট’",
+          "snippet": "গাছ নেই, তবু বনের নাম ‘স্টোন ফরেস্ট’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চীনের ইউনান প্রদেশে অবস্থিত পাথুরে বন শিলিন দর্শনার্থীদের আকর্ষণ করছে",
+        "title_en": "Yunnan Province Shilin Stone Forest in China attracts visitors naturally",
+        "summary_bn": "চীনের ইউনান প্রদেশের শিলিন পাথুরে বন প্রাকৃতিক ভূদৃশ্যের এক অনন্য নিদর্শন হিসেবে দাঁড়িয়ে আছে।",
+        "summary_en": "The Shilin Stone Forest in China's Yunnan province stands as a unique natural landscape wonder.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T11:52:11+00:00",
+        "lead_bn": "চীনের ইউনান প্রদেশের শিলিন পাথুরে বন প্রাকৃতিক ভূদৃশ্যের এক অনন্য নিদর্শন হিসেবে দাঁড়িয়ে আছে।",
+        "lead_en": "The Shilin Stone Forest in China's Yunnan province stands as a unique natural landscape wonder.",
+        "bullets_bn": [
+          "প্রাকৃতিক উপায়ে গঠিত এই পাথুরে বন দূর থেকে দেখলে গাছের সারি বলে মনে হয়",
+          "ইউনান প্রদেশের রাজধানী সংলগ্ন এলাকায় এই পাথরের স্তম্ভ ও শিলাগুলো অবস্থিত",
+          "পাথরগুলোর খাঁজকাটা দেয়াল ও অবয়ব বিভিন্ন প্রাণী ও মানুষের আকৃতির সাথে মিলে যায়"
+        ],
+        "bullets_en": [
+          "This naturally formed stone forest resembles rows of trees from a distance",
+          "The stone pillars and rock formations are located near Yunnan province capital",
+          "The carved walls and shapes of the stones resemble humans and animals"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রকৃতির হাতে তৈরি ভূদৃশ্যের এক অনন্য উদাহরণ হলো চীনের ইউনান প্রদেশের শিলিন পাথুরে বন। দূর থেকে দেখলে বিস্তীর্ণ এলাকায় সারি সারি গাছ দাঁড়িয়ে আছে বলে মনে হলেও কাছে গেলে বিশাল সব পাথরের স্তম্ভ দেখা যায়। কোথাও সরু স্তম্ভ আবার কোথাও খাঁজকাটা দেয়ালের মতো শিলা রয়েছে।",
+        "details_en": "The Shilin Stone Forest in China's Yunnan province is a unique example of a naturally formed landscape. From a distance, it appears as rows of trees across a vast area, but up close, massive stone pillars rise toward the sky, featuring narrow columns and carved wall-like rock formations."
+      }
+    },
+    {
+      "story_id": "eb47cb08-47b4-560c-958e-3bd4285c04c6",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/lisbon.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T11:40:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7967,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/student-protests-in-lisbon-tension-surrounding-the-antonio-arroio-and-camoes-schools/",
+          "title": "লিসবনে শিক্ষার্থীদের বিক্ষোভ: আন্তোনিও অ্যারোই ও কামোঁস স্কুল ঘিরে উত্তেজনা",
+          "snippet": "লিসবনে শিক্ষার্থীদের বিক্ষোভ: আন্তোনিও অ্যারোই ও কামোঁস স্কুল ঘিরে উত্তেজনা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "লিসবনে শিক্ষার্থীদের বিক্ষোভ, স্কুল অব আর্টস ও কামোঁস বিদ্যালয় অবরুদ্ধ",
+        "title_en": "Students Protest in Lisbon, Blockading Art School and Camoes High School",
+        "summary_bn": "পর্তুগালের লিসবনে শিক্ষার্থীরা ভবিষ্যৎ সুরক্ষার দাবিতে স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরুদ্ধ করে বিক্ষোভ করেছে।",
+        "summary_en": "Students in Lisbon blocked the entrances of the School of the Arts and Camoes High School to protest for their future security.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T11:40:52+00:00",
+        "lead_bn": "পর্তুগালের লিসবনে শিক্ষার্থীরা ভবিষ্যৎ সুরক্ষার দাবিতে স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরুদ্ধ করে বিক্ষোভ করেছে।",
+        "lead_en": "Students in Lisbon blocked the entrances of the School of the Arts and Camoes High School to protest for their future security.",
+        "bullets_bn": [
+          "লিসবনের আন্তোনিও অ্যারোই স্কুল অব দ্য আর্টস ও কামোঁস মাধ্যমিক বিদ্যালয়ের প্রবেশদ্বার অবরোধ করেন শিক্ষার্থীরা।",
+          "সরকার ভবিষ্যৎ ও পরিবেশ রক্ষায় যথেষ্ট পদক্ষেপ নিচ্ছে না বলে অভিযোগ করেন আন্দোলনকারী শিক্ষার্থীরা।",
+          "শিক্ষা কার্যক্রমের স্বাভাবিকতা বজায় রাখতে শিক্ষার্থীদের সাথে আলোচনা চালিয়ে যাওয়ার পরিকল্পনা করছে কর্তৃপক্ষ।"
+        ],
+        "bullets_en": [
+          "Students blocked the entrance of Antonio Arroio School of the Arts and Camoes Secondary School in Lisbon.",
+          "Protesting students complained that the government is not taking sufficient steps to protect their future and environment.",
+          "Authorities plan to engage in discussions with students to restore normal educational activities."
+        ],
+        "impact_bn": "এই বিক্ষোভের কারণে বিদ্যালয়গুলোর স্বাভাবিক শিক্ষা কার্যক্রম ব্যাহত হয় এবং তরুণদের মধ্যে জলবায়ু ও ভবিষ্যৎ সুরক্ষা নিয়ে সচেতনতা বৃদ্ধি পায়।",
+        "impact_en": "The protests disrupted normal educational activities at the schools and raised awareness among youth regarding climate and future security.",
+        "details_bn": "পর্তুগালের রাজধানী লিসবনে শিক্ষার্থীদের এই বিক্ষোভ নতুন নয়। এর আগেও দেশটিতে জলবায়ু পরিবর্তন ও জীবাশ্ম জ্বালানির ব্যবহার বন্ধের দাবিতে আন্দোলন করেছিল শিক্ষার্থীরা। ২০৩০ সালের মধ্যে জীবাশ্ম জ্বালানি বন্ধের সুনির্দিষ্ট দাবি জানিয়ে আসছে তরুণ প্রজন্ম। বর্তমানের নীতিগত সিদ্ধান্তগুলো ভবিষ্যৎ প্রজন্মের জীবন ও নিরাপত্তার ওপর প্রভাব ফেলবে বলে মনে করে তারা।",
+        "details_en": "Student protests in Lisbon are not entirely new, as students previously demonstrated demanding an end to fossil fuel use and better climate action. The younger generation has been pushing for a complete halt to fossil fuels by 2030. They believe current policy decisions directly impact the lives and security of future generations."
       }
     },
     {
@@ -70,10 +286,10 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T10:59:36+00:00",
+      "published_at": "2026-10-23T11:37:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.96,
+      "rank_score": 0.7739,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -83,255 +299,33 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে মাদ্রাসা শিক্ষক আটক ও অগ্নিসংযোগ",
-        "title_en": "Madrasah Teacher Detained Over Student Harassment Sparking Arson in Pabna",
-        "summary_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে এক মাদ্রাসা শিক্ষককে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় জনতা।",
-        "summary_en": "Locals detained a madrasah teacher and handed him over to police following allegations of sexual harassment against a student in Pabna.",
+        "title_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ",
+        "title_en": "Madrasa Vandalized and Tornt Down After Teacher Allegedly Harasses Student in Pabna",
+        "summary_bn": "পাবনা সদর উপজেলায় ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষককে আটকের পর উত্তেজিত জনতা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করেছে।",
+        "summary_en": "Angry mobs vandalized and set fire to a madrasa in Pabna after locals detained a teacher accused of sexually harassing a student.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:59:36+00:00",
-        "lead_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে এক মাদ্রাসা শিক্ষককে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় জনতা।",
-        "lead_en": "Locals detained a madrasah teacher and handed him over to police following allegations of sexual harassment against a student in Pabna.",
+        "published_at": "2026-10-23T11:37:42+00:00",
+        "lead_bn": "পাবনা সদর উপজেলায় ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষককে আটকের পর উত্তেজিত জনতা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করেছে।",
+        "lead_en": "Angry mobs vandalized and set fire to a madrasa in Pabna after locals detained a teacher accused of sexually harassing a student.",
         "bullets_bn": [
           "ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষক আবু ইউসুফকে আটক করে পুলিশে সোপর্দ করেন স্থানীয়রা",
-          "ঘটনার জেরে উত্তেজিত জনতা পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের একটি মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করে",
-          "পুলিশ অভিযুক্ত শিক্ষককে হেফাজতে নিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং ঘটনার আইনি প্রক্রিয়া শুরু করে"
+          "ঘটনার পর উত্তেজিত জনতা পাবনা সদর উপজেলার নুরে মদিনা মহিলা মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ চালায়",
+          "পরিস্থিতি নিয়ন্ত্রণে আইন শৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাস্থলে উপস্থিত হয়ে তদন্ত শুরু করেছে"
         ],
         "bullets_en": [
-          "Locals detained accused teacher Abu Yusuf and handed him over to police following harassment allegations",
-          "Angered by the incident, a mob vandalized and set fire to the madrasah in Sadar upazila",
-          "Police took the accused teacher into custody, brought the situation under control, and initiated legal steps"
+          "Locals detained and handed over accused teacher Abu Yusuf to the police following allegations of sexually harassing a student",
+          "Outraged residents vandalized and set fire to the Nure Madina Mohila Madrasa in Pabna Sadar upazila following the incident",
+          "Law enforcement agencies rushed to the spot to control the situation and launched an investigation"
         ],
-        "impact_bn": "শিক্ষা প্রতিষ্ঠানে নারী শিক্ষার্থীদের নিরাপত্তা ও সুরক্ষা নিশ্চিত করার বিষয়টি নিয়ে তীব্র উদ্বেগের সৃষ্টি হয়েছে।",
-        "impact_en": "The incident heightens urgent concerns regarding the safety and security of female students inside educational institutions.",
-        "details_bn": "পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের দড়ি ভাউডাঙ্গা কদমতলা গ্রামের পদ্মার মাঠসংলগ্ন নুরে মদিনা মহিলা মাদ্রাসায় এই ঘটনা ঘটে। মাদ্রাসার এক ছাত্রীকে যৌন হয়রানির অভিযোগ ওঠার পর স্থানীয় বাসিন্দারা ক্ষুব্ধ হয়ে ওঠেন। অভিযুক্ত শিক্ষক আবু ইউসুফকে অবরুদ্ধ করে পুলিশে খবর দেওয়া হয়। পরবর্তীতে ক্ষুব্ধ জনতা মাদ্রাসায় ভাঙচুর চালিয়ে অগ্নিসংযোগ করে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাস্থলে পৌঁছে পরিস্থিতি নিয়ন্ত্রণে আনে এবং এ ঘটনায় আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করে।",
-        "details_en": "The incident took place at Nure Madina Mohila Madrasa in Dori Bhaudanga Kodamtola village under Bharara union in Pabna Sadar upazila. After allegations arose that a teacher sexually harassed a student, local residents grew furious and detained accused teacher Abu Yusuf before alerting police. Subsequently, a volatile crowd vandalized and set fire to the madrasah premises. Law enforcement units rushed to the spot to control the unrest and initiated legal procedures regarding the assault and arson."
-      }
-    },
-    {
-      "story_id": "c0ac59da-4b65-5d7b-ab0e-953503f328e8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T10:54:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9142,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171176",
-          "title": "নির্বাচনের আগে ভারতের কর্মকর্তাদের সঙ্গে মিটিং করেছিল জামায়াত",
-          "snippet": "নির্বাচনের আগে ভারতের কর্মকর্তাদের সঙ্গে মিটিং করেছিল জামায়াত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নির্বাচনের আগে ভারতীয় কর্মকর্তাদের সঙ্গে জামায়াত নেতাদের বৈঠক নিয়ে বিতর্ক",
-        "title_en": "Controversy Arises Over Jamaat Leaders Meeting Indian Officials Before Election",
-        "summary_bn": "জাতীয় নির্বাচনের আগে জামায়াতে ইসলামীর শীর্ষ নেতাদের সঙ্গে ভারতীয় কর্মকর্তাদের গোপন বৈঠক নিয়ে রাজনৈতিক অঙ্গনে তীব্র বিতর্ক ও পাল্টাপাল্টি মন্তব্য শুরু হয়েছে।",
-        "summary_en": "Intense political debate erupted over secret meetings between Jamaat-e-Islami leaders and Indian officials ahead of the national election.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:54:57+00:00",
-        "lead_bn": "জাতীয় নির্বাচনের আগে জামায়াতে ইসলামীর শীর্ষ নেতাদের সঙ্গে ভারতীয় কর্মকর্তাদের গোপন বৈঠক নিয়ে রাজনৈতিক অঙ্গনে তীব্র বিতর্ক ও পাল্টাপাল্টি মন্তব্য শুরু হয়েছে।",
-        "lead_en": "Intense political debate erupted over secret meetings between Jamaat-e-Islami leaders and Indian officials ahead of the national election.",
-        "bullets_bn": [
-          "জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ারসহ শীর্ষ নেতারা নির্বাচনের আগে ভারতীয় কর্মকর্তাদের সাথে বৈঠক করেছিলেন বলে রাজনৈতিক মহলে তথ্য প্রকাশ পায়।",
-          "বিএনপির পক্ষ থেকে দাবি করা হয়েছে যে জামায়াত ভারতের সঙ্গে মিলে আওয়ামী লীগের রাজনৈতিক কৌশল বাস্তবায়নের চেষ্টা করছে।",
-          "গণ অধিকার পরিষদের সাধারণ সম্পাদক রাশেদ খানসহ বিভিন্ন রাজনৈতিক নেতারা এই গোপন বৈঠক ও রাজনৈতিক মেরুকরণ নিয়ে কড়া প্রতিক্রিয়া ব্যক্ত করেছেন।"
-        ],
-        "bullets_en": [
-          "Reports emerged regarding meetings between Jamaat-e-Islami Secretary General Mia Golam Parwar and Indian officials prior to the election.",
-          "The BNP alleged that Jamaat is attempting to adopt a political strategy aligned with India to revive Awami League characteristics.",
-          "Gono Odhikar Parishad General Secretary Rashed Khan and other political figures strongly reacted to these covert meetings and political realignments."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ জামায়াতে ইসলামীর রাজনৈতিক অবস্থান এবং বিভিন্ন দেশের কূটনীতিকদের সঙ্গে দলটির গোপন বা প্রকাশ্য যোগাযোগ নিয়ে দেশের রাজনৈতিক মহলে দীর্ঘদিন ধরে নানা আলোচনা চলছে। সম্প্রতি জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ারের ভারতীয় কর্মকর্তাদের সঙ্গে বৈঠকের বিষয়টি সামনে আসার পর রাজনৈতিক দলগুলোর মধ্যে নতুন করে সমীকরণ ও কথার লড়াই শুরু হয়েছে। এই পরিস্থিতি দেশের আসন্ন রাজনৈতিক দৃশ্যপটে বড় ধরনের প্রভাব ফেলতে পারে বলে মনে করছেন বিশ্লেষকরা।",
-        "details_en": "The political stance of Bangladesh Jamaat-e-Islami and its communications with foreign diplomats have long been a subject of discussion in domestic politics. Recently, reports regarding a meeting between Jamaat Secretary General Mia Golam Parwar and Indian officials sparked renewed verbal clashes and strategic realignments among political parties. Analysts suggest these developments could significantly influence the country's upcoming political landscape."
-      }
-    },
-    {
-      "story_id": "806f2196-b460-558c-94dc-35feb1ec4db6",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Gianni-Infantino-1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T10:53:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.903,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/afc-fifa-gianni-infantino-sheikh-salman-bin-ibrahim-al-khalifa-lead-sports/",
-          "title": "আবারও সভাপতি নির্বাচনে এশিয়াকে পাশে পাচ্ছেন ইনফান্তিনো",
-          "snippet": "আবারও সভাপতি নির্বাচনে এশিয়াকে পাশে পাচ্ছেন ইনফান্তিনো"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ফিফা সভাপতি নির্বাচনে ইনফান্তিনোকে সমর্থন জানাল এএফসি",
-        "title_en": "AFC Backs Gianni Infantino for Re-election as FIFA President",
-        "summary_bn": "আসন্ন ফিফা সভাপতি নির্বাচনে চতুর্থ মেয়াদের জন্য প্রতিদ্বন্দ্বিতাকারী জিয়ান্নি ইনফান্তিনোকে সমর্থন দিয়েছে এশিয়ান ফুটবল কনফেডারেশন।",
-        "summary_en": "The Asian Football Confederation has announced its support for Gianni Infantino for a fourth term as FIFA president.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:53:45+00:00",
-        "lead_bn": "আসন্ন ফিফা সভাপতি নির্বাচনে চতুর্থ মেয়াদের জন্য প্রতিদ্বন্দ্বিতাকারী জিয়ান্নি ইনফান্তিনোকে সমর্থন দিয়েছে এশিয়ান ফুটবল কনফেডারেশন।",
-        "lead_en": "The Asian Football Confederation has announced its support for Gianni Infantino for a fourth term as FIFA president.",
-        "bullets_bn": [
-          "এশিয়ান ফুটবল কনফেডারেশনের সভাপতি শেখ সালমান বিন ইব্রাহিম আল খলিফা ইনফান্তিনোর পক্ষে সমর্থনের ঘোষণা দেন।",
-          "আসন্ন ফিফা নির্বাচন আগামী মার্চে অনুষ্ঠিত হবে এবং প্রার্থীদের মনোনয়ন জমা দেওয়ার শেষ তারিখ নির্ধারণ করা হয়েছে ১৮ নভেম্বর।",
-          "এর আগে কিছু মতপার্থক্য থাকলেও আলোচনা ও পারস্পরিক বোঝাপড়ার মাধ্যমে সেই দূরত্ব দূর হয়েছে বলে জানানো হয়।"
-        ],
-        "bullets_en": [
-          "AFC President Sheikh Salman bin Ebrahim Al Khalifa officially announced support for Infantino during a special congress.",
-          "The upcoming FIFA election is scheduled for March, with candidate nominations closing on November 18.",
-          "Past tensions between the governing bodies have been resolved through recent discussions and mutual understanding."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফিফার বিশ্বকাপের মালিকানা বিক্রির একটি পরিকল্পনা ঘিরে অতীতে উয়েফা এবং এশিয়ান ফুটবল কনফেডারেশনের সাথে ফিফা প্রধান জিয়ান্নি ইনফান্তিনোর বিরোধ তৈরি হয়েছিল। পরবর্তীতে তীব্র সমালোচনার মুখে ফিফা সেই পরিকল্পনা বাতিল করে ক্ষমা প্রার্থনা করে। বর্তমান পরিস্থিতিতে সেই মতপার্থক্য ভুলে এশিয়ান ফুটবল কনফেডারেশন ইনফান্তিনোর নেতৃত্বকে পূর্ণ সমর্থন দেওয়ার ঘোষণা দেওয়ায় বিশ্ব ফুটবলের রাজনীতিতে তার অবস্থান আরও শক্তিশালী হলো।",
-        "details_en": "Disagreements previously arose between FIFA, UEFA, and the Asian Football Confederation over a controversial plan to sell World Cup ownership rights, which FIFA later scrapped following backlash. Despite past friction, the recent endorsement by the AFC significantly strengthens Infantino's bid for a fourth term in the upcoming presidential election."
-      }
-    },
-    {
-      "story_id": "09ed6fed-5b3f-5131-a2b7-15e3b2954150",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Pabna",
-        "#Madrasa"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Pabna%20Map%20The%20Daily%20Star.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-23T10:27:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.0,
-      "rank_score": 0.8865,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/pabna-madrasa-teacher-detained-over-alleged-molestation-attempt-locals-set-institution-fire-4305721",
-          "title": "Pabna madrasa teacher detained over alleged molestation attempt; locals set institution on fire",
-          "snippet": "Pabna madrasa teacher detained over alleged molestation attempt; locals set institution on fire"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাবনায় মাদরাসা শিক্ষক আটক এবং স্থানীয়দের বিক্ষোভে প্রতিষ্ঠানে অগ্নিসংযোগ",
-        "title_en": "Pabna Madrasa Teacher Detained Over Harassment Allegations and Institution Torched",
-        "summary_bn": "ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে পাবনায় এক মাদরাসা শিক্ষককে আটক করার পর বিক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দেয়।",
-        "summary_en": "Locals set a Pabna madrasa on fire and vandalized the premises after a teacher was detained over molestation allegations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:27:45+00:00",
-        "lead_bn": "ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে পাবনায় এক মাদরাসা শিক্ষককে আটক করার পর বিক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দেয়।",
-        "lead_en": "Locals set a Pabna madrasa on fire and vandalized the premises after a teacher was detained over molestation allegations.",
-        "bullets_bn": [
-          "যৌন নিপীড়নের চেষ্টার অভিযোগে মাদরাসা শিক্ষক মো. আবু ইউসুফ প্রামাণিককে আটক করে পুলিশ হেফাজতে নেওয়া হয়।",
-          "ঘটনার পর পুলিশ আবাসিক মাদরাসার ৩০ জন শিক্ষার্থীসহ মোট ৬০ জন শিক্ষার্থীকে উদ্ধার করে অভিভাবকদের কাছে হস্তান্তর করে।",
-          "বিক্ষুব্ধ জনতা মাদরাসা ভবনে ব্যাপক ভাঙচুর চালায় এবং পরবর্তীতে ভোরে আগুন লাগিয়ে দেয়।"
-        ],
-        "bullets_en": [
-          "Madrasa teacher Md Abu Eusuf Pramanik was detained and taken into police custody over alleged harassment.",
-          "Police successfully rescued all residential and non-residential students from the institution and handed them over to parents.",
-          "Outraged locals subsequently vandalized the madrasa building and set it on fire during early morning protests."
-        ],
-        "impact_bn": "শিক্ষা প্রতিষ্ঠানে শিশু শিক্ষার্থীদের নিরাপত্তা ও সুরক্ষা নিশ্চিত করার ক্ষেত্রে স্থানীয় সম্প্রদায়ের ক্ষোভ ও সচেতনতার বিষয়টি জোরালোভাবে সামনে এসেছে।",
-        "impact_en": "The incident highlights critical student safety concerns in residential educational institutions and prompts community outrage over child protection.",
-        "details_bn": "পাবনা সদর উপজেলার ভারারা ইউনিয়নের দরিভৌডাঙ্গা গ্রামে অবস্থিত নূরানী মাদরাসায় এই ঘটনা ঘটে। অভিযুক্ত শিক্ষক গত পাঁচ বছর ধরে ওই প্রতিষ্ঠানে শিক্ষকতা করছিলেন। ছাত্রীকে নিপীড়নের চেষ্টার ঘটনার জেরে স্থানীয় বাসিন্দারা ক্ষুব্ধ হয়ে ওঠে এবং পুলিশ ঘটনাস্থলে গিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে ও শিক্ষককে উদ্ধার করে। পরবর্তীতে উদ্ভূত পরিস্থিতিতে কর্তৃপক্ষ আবাসিক শিক্ষার্থীদের নিরাপде সরিয়ে নেয়।",
-        "details_en": "The incident occurred at Nurani Madrasa in Dorivaudanga village under Pabna Sadar upazila, where the accused teacher had been working for five years. Following the alleged molestation attempt, enraged locals gathered at the institution, prompting police intervention to rescue the suspect and secure the students. Authorities safely handed the residential children back to their families before the building was targeted by protesters."
-      }
-    },
-    {
-      "story_id": "6c6e6d66-2497-5cf5-a450-c770bfceea09",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T10:47:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8497,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/976247/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
-          "title": "বিনামূল্যে গ্যালারিতে বসে দেখা যাবে বাংলাদেশ-ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ",
-          "snippet": "বিনামূল্যে গ্যালারিতে বসে দেখা যাবে বাংলাদেশ-ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ গ্যালারিতে বসে বিনামূল্যে দেখার সুযোগ দিচ্ছে বিসিবি",
-        "title_en": "BCB Announces Free Gallery Entry for Bangladesh vs West Indies Test Match",
-        "summary_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচের নির্ধারিত গ্যালারিতে বসে দর্শকরা বিনামূল্যে খেলা উপভোগ করার সুযোগ পাবে।",
-        "summary_en": "Spectators can enjoy the upcoming Test match between Bangladesh and West Indies from the gallery for free.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:47:39+00:00",
-        "lead_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচের নির্ধারিত গ্যালারিতে বসে দর্শকরা বিনামূল্যে খেলা উপভোগ করার সুযোগ পাবে।",
-        "lead_en": "Spectators can enjoy the upcoming Test match between Bangladesh and West Indies from the gallery for free.",
-        "bullets_bn": [
-          "মিরপুর শের-এ-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামের গ্যালারিতে বিনামূল্যে খেলা দেখার ঘোষণা দিয়েছে বাংলাদেশ ক্রিকেট বোর্ড।",
-          "স্টেডিয়ামের উত্তর ও দক্ষিণ গ্যালারিতে ১ম টেস্টের পাঁচ দিন দর্শকদের জন্য এই প্রবেশের সুযোগ থাকবে।",
-          "ক্রিকেটপ্রেমীরা কোনো টিকিট ছাড়াই নির্ধারিত গ্যালারিতে বসে সরাসরি টেস্ট ম্যাচ উপভোগ করতে পারবেন।"
-        ],
-        "bullets_en": [
-          "The Bangladesh Cricket Board announced free entry for spectators to watch the Test match from the stadium gallery.",
-          "Free access will be available at the north and south galleries of the Sher-e-Bangla National Cricket Stadium for all five days.",
-          "Cricket fans can enjoy the Test match live from the designated galleries without purchasing any tickets."
-        ],
-        "impact_bn": "ক্রিকেটপ্রেমী সাধারণ দর্শকরা কোনো খরচ ছাড়াই মাঠে গিয়ে সরাসরি টেস্ট ম্যাচ উপভোগ করতে পারবেন।",
-        "impact_en": "Ordinary cricket fans can experience live international cricket directly from the stadium without any financial cost.",
-        "details_bn": "দর্শকদের মাঠে টানতে এবং ক্রিকেটের প্রতি আগ্রহ বাড়াতে বাংলাদেশ ক্রিকেট বোর্ড প্রায়ই বিভিন্ন উদ্যোগ নিয়ে থাকে। এর অংশ হিসেবেই মিরপুর টেস্টে গ্যালারির টিকিটের মূল্য মওকুফ করে দর্শকদের জন্য উন্মুক্ত প্রবেশের ব্যবস্থা করা হয়েছে, যা দেশের ক্রিকেটে দর্শকদের অংশগ্রহণ আরও বাড়িয়ে তুলবে।",
-        "details_en": "The Bangladesh Cricket Board frequently undertakes initiatives to draw spectators back to the stadiums and boost local interest in cricket. As part of this effort, ticket fees for specific galleries at the Mirpur Test have been waived to encourage higher fan attendance and support for the national team."
+        "impact_bn": "শিক্ষা প্রতিষ্ঠানে শিক্ষার্থী নিরাপত্তা এবং বিচারহীনতার সংস্কৃতি নিয়ে স্থানীয় অভিভাবকদের মধ্যে তীব্র ক্ষোভ ও উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The incident has sparked serious concerns among parents regarding student safety and accountability within educational institutions.",
+        "details_bn": "পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের দড়ি ভাউডাঙ্গা কদমতলা গ্রামে পদ্মার মাঠসংলগ্ন নুরে মদিনা মহিলা মাদ্রাসায় এই ঘটনা ঘটে। মাদ্রাসার এক ছাত্রীকে যৌন হয়রানি করার অভিযোগ ওঠার পর স্থানীয়দের মধ্যে তীব্র ক্ষোভের সৃষ্টি হয়। বিক্ষুব্ধ জনতা অভিযুক্ত শিক্ষক আবু ইউসুফকে আটক করে পুলিশের হাতে তুলে দেয়। পাশাপাশি বিচারের দাবিতে মাদ্রাসার প্রাঙ্গণে ভাঙচুর চালিয়ে অগ্নিসংযোগ করা হয়। পরে পুলিশ ও স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে আনে এবং ঘটনার আইনি প্রক্রিয়া শুরু করে।",
+        "details_en": "The incident took place at the Nure Madina Mohila Madrasa near the Padma field in Dori Bhaudanga Kodamtala village of Bharara union in Pabna Sadar upazila. Tension flared after allegations surfaced that a teacher sexually harassed a student at the institution. Enraged locals detained the accused teacher, Abu Yusuf, and handed him over to the police, while also vandalizing and setting fire to parts of the madrasa. Law enforcement forces subsequently intervened to restore order and initiated legal proceedings."
       }
     }
   ]
