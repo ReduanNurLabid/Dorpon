@@ -1,7 +1,117 @@
 {
-  "updated_at": "2026-10-23T00:00:53.105347",
+  "updated_at": "2026-10-23T01:00:48.834378",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "8bff36b4-db78-5714-bc63-e4f480972ba2",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T00:32:33+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4786,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976167/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%80-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE",
+          "title": "অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা, ইউপি সদস্য আটক",
+          "snippet": "অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা, ইউপি সদস্য আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজশাহীতে সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা তোলার সময় ইউপি সদস্য আটক",
+        "title_en": "Union Parishad Member Detained for Embezzling Disability Allowances in Rajshahi",
+        "summary_bn": "রাজশাহীর বাগমারায় অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা আত্মসাতের অভিযোগে এক ইউপি সদস্যকে আটক করেছে স্থানীয়রা।",
+        "summary_en": "Locals in Bagmara upazila detained a local union parishad member over allegations of embezzling disability allowance funds using fake beneficiary lists.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T00:32:33+00:00",
+        "lead_bn": "রাজশাহীর বাগমারায় অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা আত্মসাতের অভিযোগে এক ইউপি সদস্যকে আটক করেছে স্থানীয়রা।",
+        "lead_en": "Locals in Bagmara upazila detained a local union parishad member over allegations of embezzling disability allowance funds using fake beneficiary lists.",
+        "bullets_bn": [
+          "বাগমারা উপজেলায় প্রতিবন্ধী ভাতার টাকা তুলতে গিয়ে স্থানীয়দের হাতে আটক হন শহিদুল ইসলাম নামের ওই ইউপি সদস্য।",
+          "অভিযুক্ত সদস্যের কাছ থেকে জব্দ করা ১২টি সিম কার্ডের মধ্যে ১০টি মোবাইল ফিন্যান্সিয়াল সার্ভিসের লেনদেনে ব্যবহৃত হচ্ছিল।",
+          "উপজেলা সমাজসেবা কর্মকর্তার প্রাথমিক তদন্তে ভাতার তালিকায় অনিয়ম ও দুর্নীতির সত্যতা পাওয়া গেছে।"
+        ],
+        "bullets_en": [
+          "Union Parishad member Shahidul Islam was caught red-handed by locals while attempting to withdraw disability allowances.",
+          "Authorities confiscated ten active SIM cards out of twelve found in his possession during the detention.",
+          "The upazila social services officer confirmed initial findings of financial irregularities following a preliminary investigation."
+        ],
+        "impact_bn": "দুর্নীতির কারণে প্রকৃত প্রতিবন্ধী ও সুবিধাবঞ্চিত নাগরিকরা তাদের প্রাপ্য সরকারি সহায়তা থেকে বঞ্চিত হচ্ছেন।",
+        "impact_en": "Genuine disabled citizens and vulnerable populations are deprived of crucial state financial assistance due to local corruption.",
+        "details_bn": "রাজশাহীর বাগমারায় সামাজিক নিরাপত্তা জালের আওতায় বরাদ্দকৃত প্রতিবন্ধী ভাতার অর্থ আত্মসাতের ঘটনা এটি। প্রাথমিক তদন্তে জানা যায়, অভিযুক্ত ইউপি সদস্য নিজের ও স্বজনদের পাশাপাশি এলাকার অর্ধশতাধিক সুস্থ-সবল ব্যক্তিকে প্রতিবন্ধী তালিকায় অন্তর্ভুক্ত করেছিলেন। মোবাইল ফিন্যান্সিয়াল সার্ভিসের মাধ্যমে দীর্ঘদিন ধরে এই ভাতার অর্থ হাতিয়ে নেওয়া হচ্ছিল। স্থানীয়দের সন্দেহ হওয়ায় বিষয়টি হাতেনাতে ধরে ফেলা হয় এবং পরবর্তীতে উপজেলা প্রশাসন ও সমাজসেবা অধিদপ্তর এ বিষয়ে আইনি পদক্ষেপ গ্রহণ করে।",
+        "details_en": "This incident highlights systemic vulnerabilities in the distribution of social safety net allowances in rural Bangladesh. The accused representative allegedly exploited digital financial services by enrolling dozens of able-bodied individuals, including relatives, onto the government disability registry. Local vigilance exposed the scheme, prompting immediate administrative intervention and investigation by the social services department to recover embezzled public funds."
+      }
+    },
+    {
+      "story_id": "075b5a1d-29ad-556e-9933-fc2506924d10",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T00:26:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7007,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976166/%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%9D%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8",
+          "title": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২",
+          "snippet": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজশাহীতে ঘরের মেঝে খুঁড়ে গোপন মাদকের গোডাউন উদ্ঘাটন, গ্রেফতার ২",
+        "title_en": "Police Unearth Secret Underground Drug Den Beneath Floor in Rajshahi, Two Arrested",
+        "summary_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের টাইলসের নিচে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকাসহ দুই মাদক কারবারিকে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police arrested two drug dealers and recovered large quantities of narcotics and cash from a secret hideout beneath a floor in Rajshahi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T00:26:18+00:00",
+        "lead_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের টাইলসের নিচে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকাসহ দুই মাদক কারবারিকে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police arrested two drug dealers and recovered large quantities of narcotics and cash from a secret hideout beneath a floor in Rajshahi.",
+        "bullets_bn": [
+          "রাজশাহীর কাটাখালীতে বিশেষ কৌশলে নির্মিত গোপন গোডাউন থেকে মাদক উদ্ধার করা হয়।",
+          "অভিযানে তিন হাজার সাতশ পিস ট্যাপেন্টাডল ট্যাবলেট, এক কেজি তিনশ গ্রাম গাঁজা এবং ১১ লাখ ৬৩ হাজার ৯৬০ টাকা জব্দ করা হয়।",
+          "ঘটনায় জড়িত সন্দেহে দুই ব্যক্তিকে গ্রেফতার করে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "Law enforcement discovered a specially constructed secret drug warehouse beneath a residential floor in Rajshahi.",
+          "Operations led to the seizure of 3,700 Tapentadol tablets, 1.3 kg of cannabis, and 1,163,960 BDT in cash.",
+          "Two suspects were taken into custody and face immediate legal action under narcotics control laws."
+        ],
+        "impact_bn": "স্থানীয় পর্যায়ে মাদক ব্যবসা ও অপরাধ কর্মকাণ্ড দমনে এই ধরনের পুলিশি অভিযান জনমনে স্বস্তি ফেরাতে সাহায্য করবে।",
+        "impact_en": "Crackdowns on concealed local drug rings help improve community safety and curb illicit substance distribution.",
+        "details_bn": "রাজশাহী মেট্রোপলিটন পুলিশ মাদকবিরোধী নিয়মিত অভিযানের অংশ হিসেবে কাটাখালী এলাকায় এই অভিযান পরিচালনা করে। অপরাধীরা আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজর এড়াতে অভিনব পন্থায় ঘরের মেঝের টাইলসের নিচে গোপন গুদাম তৈরি করে অবৈধ মাদকের ব্যবসা পরিচালনা করে আসছিল। গোয়েন্দা তথ্যের ভিত্তিতে পরিচালিত এই অভিযানে বিপুল পরিমাণ মাদক ও নগদ অর্থ উদ্ধার করা হয়, যা এই চক্রের সাথে জড়িত বড় কোনো নেটওয়ার্কের সন্ধান পেতে সাহায্য করবে।",
+        "details_en": "Rajshahi Metropolitan Police conducted the raid as part of ongoing anti-narcotics operations in the Katakhali area. Perpetrators had ingeniously constructed a hidden warehouse beneath floor tiles to evade law enforcement while running their illicit trade. Based on intelligence inputs, the raid successfully seized substantial narcotics and cash, which will aid authorities in tracking down broader distribution networks operating in the region."
+      }
+    },
     {
       "story_id": "9727a0c2-06e9-5ea0-b369-c2ec47603dbf",
       "primary_category": "sports_fitness",
@@ -18,7 +128,7 @@
       "published_at": "2026-10-23T00:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.964,
+      "rank_score": 0.5713,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -28,10 +138,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিভিতে প্রচারিত র ফুটবল ও অন্যান্য খেলার সূচি",
-        "title_en": "Television broadcast schedule for today's football and other sports",
-        "summary_bn": "দেশের ও আন্তর্জাতিক অঙ্গনের বিভিন্ন ম্যাচের টেলিভিশন সম্প্রচার সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "The television broadcast schedule for various domestic and international matches has been announced.",
+        "title_bn": "টিভিতে ব্রাদার্স ও আবাহনী ম্যাচসহ র খেলার সূচি",
+        "title_en": "Television broadcast schedule for domestic and international sports matches",
+        "summary_bn": "টেলিভিশনের পর্দায় সরাসরি সম্প্রচারিত হওয়া র বিভিন্ন জাতীয় ও আন্তর্জাতিক খেলার সময়সূচি প্রকাশ করা হয়েছে।",
+        "summary_en": "The television broadcast schedule for today's domestic and international sporting events has been announced.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,134 +150,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T00:00:00+00:00",
-        "lead_bn": "দেশের ও আন্তর্জাতিক অঙ্গনের বিভিন্ন ম্যাচের টেলিভিশন সম্প্রচার সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "The television broadcast schedule for various domestic and international matches has been announced.",
+        "lead_bn": "টেলিভিশনের পর্দায় সরাসরি সম্প্রচারিত হওয়া র বিভিন্ন জাতীয় ও আন্তর্জাতিক খেলার সময়সূচি প্রকাশ করা হয়েছে।",
+        "lead_en": "The television broadcast schedule for today's domestic and international sporting events has been announced.",
         "bullets_bn": [
-          "ব্রাদার্স ইউনিয়ন ও আবাহনী লিমিটেডের মধ্যকার বাংলাদেশ ফুটবল লিগের ম্যাচ সরাসরি সম্প্রচারিত হবে।",
-          "খেলাটি দুপুর দুইটা পঁয়তাল্লিশ মিনিটে টি স্পোর্টস চ্যানেলে সরাসরি দেখা যাবে।",
-          "লা লিগায় দেপোর্তিভো আলাভেস ও মালাগার ম্যাচটি রাতে টি স্পোর্টসে সম্প্রচার করা হবে।"
+          "বাংলাদেশ ফুটবল লিগে ব্রাদার্স ইউনিয়ন এবং আবাহনী লিমিটেড ম্যাচটি টি স্পোর্টসে সরাসরি সম্প্রচার করা হবে।",
+          "খেলাটি দুপুর দুইটা পঁয়তাল্লিশ মিনিটে টি স্পোর্টস চ্যানেলে সরাসরি উপভোগ করা যাবে।",
+          "লা লিগার ম্যাচসহ অন্যান্য আন্তর্জাতিক ক্রীড়া ইভেন্টগুলো নির্ধারিত সময়ে সম্প্রচারিত হবে।"
         ],
         "bullets_en": [
-          "The Bangladesh Football League match between Brothers Union and Abahani Limited will be broadcast live.",
-          "The match can be watched live on T Sports starting at two forty-five in the afternoon.",
-          "The La Liga match between Deportivo Alaves and Malaga will be broadcast at night on T Sports."
+          "The Bangladesh Football League match between Brothers Union and Abahani will be broadcast live.",
+          "The match is scheduled to be aired live on T Sports at two forty-five PM.",
+          "La Liga matches and other international sports events will be telecast according to schedule."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ক্রীড়াপ্রেমী দর্শকদের জন্য প্রতিদিনের দেশি ও আন্তর্জাতিক বিভিন্ন ম্যাচের সরাসরি সম্প্রচার সূচি গণমাধ্যমে প্রকাশ করা হয়। এর মাধ্যমে দর্শকরা তাদের পছন্দের খেলা সঠিক সময়ে টেলিভিশনে উপভোগ করতে পারেন।",
-        "details_en": "Television broadcast schedules for daily domestic and international matches are regularly published for sports enthusiasts. This allows viewers to enjoy their favorite games on television at the correct time."
-      }
-    },
-    {
-      "story_id": "075b5a1d-29ad-556e-9933-fc2506924d10",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T23:57:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9428,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976166/%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%9D%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8",
-          "title": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২",
-          "snippet": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজশাহীতে গোপন মাদক গোডাউন আবিষ্কার, নগদ টাকাসহ গ্রেফতার ২",
-        "title_en": "Secret Drug Warehouse Discovered in Rajshahi, Two Arrested with Cash",
-        "summary_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের নিচে বিশেষ কৌশলে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকা উদ্ধার করেছে পুলিশ।",
-        "summary_en": "Police have recovered a large volume of narcotics and cash from a secret underground warehouse beneath a house floor in Rajshahi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T23:57:55+00:00",
-        "lead_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের নিচে বিশেষ কৌশলে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকা উদ্ধার করেছে পুলিশ।",
-        "lead_en": "Police have recovered a large volume of narcotics and cash from a secret underground warehouse beneath a house floor in Rajshahi.",
-        "bullets_bn": [
-          "রাজশাহীর কাটাখালীতে ঘরের মেঝের টাইলসের নিচে তৈরি গোপন গোডাউন থেকে মাদক জব্দ করেছে পুলিশ।",
-          "অভিযানে ৩ হাজার ৭০০ পিস ট্যাপেন্টাডল ট্যাবলেট, ১ কেজি ৩০০ গ্রাম গাঁজা এবং মাদক বিক্রির ১১ লাখ ৬৩ হাজার ৯৬০ টাকা উদ্ধার করা হয়েছে।",
-          "ঘটনায় জড়িত অভিযোগে দুই ব্যক্তিকে গ্রেফতার করে আইনগত ব্যবস্থা গ্রহণ করেছে রাজশাহী মেট্রোপলিটন পুলিশ।"
-        ],
-        "bullets_en": [
-          "Police seized narcotics from a secretly constructed underground warehouse beneath a house floor in Rajshahi.",
-          "Officers recovered 3,700 Tapentadol tablets, 1.3 kg of cannabis, and 1,163,960 Taka in cash from the stash.",
-          "Rajshahi Metropolitan Police arrested two individuals in connection with the illegal drug stockpile."
-        ],
-        "impact_bn": "স্থানীয় পর্যায়ে মাদকের অবৈধ কারবার ও বিস্তার রোধে আইনপ্রয়োগকারী সংস্থার এই অভিযান সাধারণ মানুষের মধ্যে স্বস্তি ফিরিয়ে আনবে।",
-        "impact_en": "Such law enforcement raids curb illegal drug distribution networks and enhance safety for local communities.",
-        "details_bn": "রাজশাহী মেট্রোপলিটন পুলিশের একটি দল সুনির্দিষ্ট তথ্যের ভিত্তিতে কাটাখালী এলাকায় অভিযান পরিচালনা করে। অভিযানের সময় তল্লাশি চালিয়ে ঘরের মেঝের টাইলস তুলে বিশেষ কায়দায় তৈরি এই গোপন মাদক ব্যবসার সন্ধান পাওয়া যায়। আটককৃতদের বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে মামলা দায়ের করে আদালতে সোপর্দ করা হয়েছে।",
-        "details_en": "A team of Rajshahi Metropolitan Police conducted a raid in the Katakhali area based on specific intelligence. During the search, officers lifted the floor tiles to uncover the sophisticated hidden storage facility used for illicit drug trading. The arrestees have been handed over to court under the Narcotics Control Act."
-      }
-    },
-    {
-      "story_id": "a5ea2d5a-fd9d-5e18-9acc-2982a1001898",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-22T21:01:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 0.8147,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976163/%E0%A6%AE%E0%A7%8B%E0%A6%82%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A3%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF-%E0%A6%93-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF",
-          "title": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ",
-          "snippet": "মোংলা বন্দরের বাণিজ্য সক্ষমতা বৃদ্ধি ও দ্রুত পণ্য খালাসে প্রধানমন্ত্রীর নির্দেশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মোংলা বন্দরের বাণিজ্য সক্ষমতা ও পণ্য খালাস বাড়াতে প্রধানমন্ত্রীর নির্দেশ",
-        "title_en": "PM Directs Authorities to Boost Mongla Port Capacity and Cargo Handling",
-        "summary_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং দ্রুত পণ্য খালাস নিশ্চিত করতে সংশ্লিষ্ট কর্মকর্তাদের নির্দেশ দিয়েছেন।",
-        "summary_en": "Prime Minister directed relevant officials to enhance international trade capacity and ensure rapid cargo handling at Mongla Port.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-22T21:01:05+00:00",
-        "lead_bn": "প্রধানমন্ত্রী মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং দ্রুত পণ্য খালাস নিশ্চিত করতে সংশ্লিষ্ট কর্মকর্তাদের নির্দেশ দিয়েছেন।",
-        "lead_en": "Prime Minister directed relevant officials to enhance international trade capacity and ensure rapid cargo handling at Mongla Port.",
-        "bullets_bn": [
-          "মোংলা বন্দরের আন্তর্জাতিক বাণিজ্য সক্ষমতা বৃদ্ধি এবং আধুনিকায়ন কার্যক্রম ত্বরান্বিত করার নির্দেশ দেওয়া হয়েছে।",
-          "প্রধানমন্ত্রী খুলনা হয়ে মোংলায় পৌঁছে নৌঘাঁটি, বন্দর ও প্রস্তাবিত অর্থনৈতিক অঞ্চল পরিদর্শন করেন।",
-          "বন্দরটির কার্যক্ষমতা বাড়লে আমদানি-রপ্তানি কার্যক্রমে গতি আসবে এবং ব্যবসায়িক ব্যয় কমবে।"
-        ],
-        "bullets_en": [
-          "Authorities were directed to accelerate modernization and boost international trade capacity at Mongla Port.",
-          "The Prime Minister visited the naval base, port area, and proposed economic zone in Khulna.",
-          "Enhanced port operations are expected to accelerate import-export activities and reduce business costs."
-        ],
-        "impact_bn": "বন্দরের কার্যক্রম গতিশীল হলে স্থানীয় ব্যবসায়ীদের পণ্য আমদানিপণ্যের খরচ ও সময় কমবে।",
-        "impact_en": "Increased port efficiency will reduce shipping time and costs for local businesses and traders.",
-        "details_bn": "মোংলা বন্দর দেশের দ্বিতীয় বৃহত্তম সমুদ্রবন্দর হিসেবে দীর্ঘদিন ধরে আন্তর্জাতিক বাণিজ্যে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। বন্দরটির অবকাঠামোগত উন্নয়ন এবং আধুনিকায়ন বর্তমান সরকারের অন্যতম অগ্রাধিকার। এর আগে বন্দর এলাকায় বিভিন্ন উন্নয়নমূলক প্রকল্প নেওয়া হলেও তা পুরোপুরি বাস্তবায়নে নানা চ্যালেঞ্জ ছিল। বর্তমান নির্দেশনার ফলে বন্দরটির সক্ষমতা বহুগুণ বাড়ার পাশাপাশি আঞ্চলিক বাণিজ্যে নতুন গতি আসবে বলে আশা করা হচ্ছে।",
-        "details_en": "Mongla Port has long served as the country's second-largest seaport, playing a vital role in international trade. Infrastructure development and modernization of the port remain a key priority for the government. Although various development projects were previously initiated, full implementation faced multiple challenges. The latest directives are expected to significantly boost the port's capacity and inject new momentum into regional trade."
+        "impact_bn": "ক্রীড়াপ্রেমী দর্শক ও তরুণরা টেলিভিশনের পর্দায় তাদের পছন্দের ম্যাচগুলো সরাসরি উপভোগ করতে পারবেন।",
+        "impact_en": "Sports enthusiasts and youth can watch their preferred matches live on television.",
+        "details_bn": "ক্রীড়াপ্রেমীদের নিয়মিত আপডেট জানাতে প্রতিদিনের লাইভ ম্যাচ, সময়সূচি এবং কোন চ্যানেলে খেলা সম্প্রচারিত হবে তার বিবরণ প্রকাশ করা হয়। ঘরোয়া লিগের ম্যাচ এবং ইউরোপীয় ফুটবলের বিভিন্ন হাইভোল্টেজ ম্যাচ দেখতে সমর্থকরা টেলিভিশনের বিভিন্ন ক্রীড়া চ্যানেলের ওপর নির্ভর করেন।",
+        "details_en": "Daily live match schedules and broadcast channel details are regularly published to keep sports fans updated. Supporters rely on various sports channels on television to watch domestic league fixtures and high-voltage European football matches."
       }
     },
     {
@@ -187,7 +185,7 @@
       "published_at": "2026-10-22T22:36:25+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.4871,
+      "rank_score": 0.3487,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -198,9 +196,9 @@
       ],
       "daily_buzz": {
         "title_bn": "বগুড়ায় ডিজিটাল অ্যাপের মাধ্যমে প্রতারণার অভিযোগে গ্রেফতার তিন",
-        "title_en": "Three Arrested in Bogura for Fraud via Digital App",
-        "summary_bn": "ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে প্রতারণা ও অবৈধ আর্থিক লেনদেনের অভিযোগে তিনজনকে গ্রেফতার করেছে গোয়েন্দা পুলিশ।",
-        "summary_en": "Detective police arrested three individuals on charges of fraud and illegal financial transactions using digital wallet apps.",
+        "title_en": "Three Arrested in Bogura Over Digital App Fraud Scheme",
+        "summary_bn": "গোয়েন্দা পুলিশ বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
+        "summary_en": "Detectives arrested three individuals in Bogura for embezzling funds through fraudulent digital wallet apps.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -210,22 +208,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T22:36:25+00:00",
-        "lead_bn": "ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে প্রতারণা ও অবৈধ আর্থিক লেনদেনের অভিযোগে তিনজনকে গ্রেফতার করেছে গোয়েন্দা পুলিশ।",
-        "lead_en": "Detective police arrested three individuals on charges of fraud and illegal financial transactions using digital wallet apps.",
+        "lead_bn": "গোয়েন্দা পুলিশ বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
+        "lead_en": "Detectives arrested three individuals in Bogura for embezzling funds through fraudulent digital wallet apps.",
         "bullets_bn": [
-          "ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে গোয়েন্দা পুলিশ।",
-          "অভিযুক্তদের কাছ থেকে অপরাধে ব্যবহৃত চারটি মোবাইল ফোন ও পাঁচটি সিম কার্ড জব্দ করা হয়েছে।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
+          "গোয়েন্দা পুলিশ ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অবৈধ ই-ট্রানজেকশন ও অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
+          "অভিযানকালে পুলিশ আসামিদের কাছ থেকে অপরাধে ব্যবহৃত চারটি মোবাইল ফোন ও পাঁচটি সিম কার্ড জব্দ করেছে।",
+          "গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে এবং পুলিশি তদন্ত অব্যাহত রয়েছে।"
         ],
         "bullets_en": [
-          "Detective police arrested three suspects over embezzlement of funds using digital wallet apps.",
-          "Four mobile phones and five SIM cards used in the crimes were seized from the suspects.",
-          "Legal proceedings are underway against the arrested individuals."
+          "Detectives arrested three suspects involved in illegal e-transactions and fund embezzlement via digital wallet applications.",
+          "Police seized four mobile phones and five SIM cards used in the fraudulent activities during the raid.",
+          "Legal proceedings have been initiated against the arrestees while police investigations remain ongoing."
         ],
-        "impact_bn": "সাধারণ মানুষ ও মোবাইল আর্থিক সেবা ব্যবহারকারীরা প্রতারণা থেকে রক্ষায় আরও সতর্ক হবেন।",
-        "impact_en": "Ordinary citizens and mobile financial service users will exercise greater caution to avoid digital scams.",
-        "details_bn": "বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপের মাধ্যমে দীর্ঘদিন ধরে প্রতারণা ও অবৈধ ই-ট্রানজেকশন চালিয়ে আসছিল একটি চক্র। গোয়েন্দা পুলিশের একটি দল সুনির্দিষ্ট তথ্যের ভিত্তিতে অভিযান চালিয়ে এই চক্রের তিন সদস্যকে গ্রেফতার করে। এ সময় তাদের কাছ থেকে অপরাধমূলক কার্যক্রমে ব্যবহৃত মোবাইল ফোন ও সিম কার্ড উদ্ধার করা হয়। অনলাইনভিত্তিক আর্থিক অপরাধ রোধে আইনশৃঙ্খলা বাহিনী তৎপরতা জোরদার করেছে।",
-        "details_en": "A syndicate had long been carrying out fraud and illegal e-transactions in Bogura using digital wallet apps. Acting on specific information, a team of detective police raided the area and arrested three members of the syndicate. Law enforcement agencies have intensified operations to curb online financial crimes."
+        "impact_bn": "অনলাইন লেনদেনের ক্ষেত্রে সাধারণ ব্যবহারকারীদের আরও সতর্ক ও সচেতন হওয়ার প্রয়োজনীয়তা দেখা দিয়েছে।",
+        "impact_en": "Ordinary digital wallet users need to exercise greater caution to avoid falling prey to online fraud.",
+        "details_bn": "ডিজিটাল আর্থিক সেবার প্রসার বাড়ার সাথে সাথে প্রতারক চক্র নানা অভিনব উপায় অবলম্বন করে আসছে। বগুড়ায় গোয়েন্দা পুলিশের এই অভিযানে ডিজিটাল ওয়ালেট অ্যাপের অপব্যবহার করে অর্থ আত্মসাতের বিষয়টি উন্মোচিত হয়েছে, যা অনলাইন লেনদেনের নিরাপত্তা নিয়ে নতুন করে উদ্বেগের জন্ম দিয়েছে।",
+        "details_en": "With the expansion of digital financial services, fraudsters have increasingly adopted sophisticated techniques. This operation by Bogura detective police uncovered a scam involving the misuse of digital wallet apps to misappropriate funds, highlighting ongoing security concerns in digital transactions."
       }
     },
     {
@@ -244,7 +242,7 @@
       "published_at": "2026-10-22T22:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.4679,
+      "rank_score": 0.338,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -256,8 +254,8 @@
       "daily_buzz": {
         "title_bn": "ইবাদত কবুলের জন্য ইসলামে যে চারটি প্রধান শর্ত নির্ধারণ করা হয়েছে",
         "title_en": "Four Key Conditions Outlined in Islam for Acceptance of Worship",
-        "summary_bn": "ইসলামে যেকোনো নেক আমল বা ইবাদত আল্লাহর দরবারে গ্রহণযোগ্য হওয়ার জন্য নির্দিষ্ট কিছু শর্ত পূরণ করা আবশ্যক।",
-        "summary_en": "Fulfilling specific fundamental conditions is essential for any act of worship or good deed to be accepted in Islam.",
+        "summary_bn": "আল্লাহর দরবারে মানুষের যেকোনো নেক আমল বা ইবাদত কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা বাধ্যতামূলক।",
+        "summary_en": "Four fundamental conditions are mandatory for any good deed or worship to be accepted by the Almighty.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -266,78 +264,76 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-22T22:30:00+00:00",
-        "lead_bn": "ইসলামে যেকোনো নেক আমল বা ইবাদত আল্লাহর দরবারে গ্রহণযোগ্য হওয়ার জন্য নির্দিষ্ট কিছু শর্ত পূরণ করা আবশ্যক।",
-        "lead_en": "Fulfilling specific fundamental conditions is essential for any act of worship or good deed to be accepted in Islam.",
+        "lead_bn": "আল্লাহর দরবারে মানুষের যেকোনো নেক আমল বা ইবাদত কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা বাধ্যতামূলক।",
+        "lead_en": "Four fundamental conditions are mandatory for any good deed or worship to be accepted by the Almighty.",
         "bullets_bn": [
-          "আল্লাহর সন্তুষ্টি ও প্রতিদান লাভের জন্য ইবাদত কবুলের নির্দিষ্ট শর্তগুলো মেনে চলা বাধ্যতামূলক।",
-          "বিশুদ্ধ ইমান, শিরক থেকে মুক্ত থাকা এবং রাসুলের সুন্নাহ অনুযায়ী আমল করা ইবাদত কবুলের মৌলিক ভিত্তি।",
-          "হারাম উপার্জন ও ভোগ থেকে বিরত থেকে সম্পূর্ণ হালাল পন্থায় জীবনযাপন করা আমল কবুলের অপরিহার্য শর্ত।"
+          "ইবাদত কবুলের প্রথম ও প্রধান শর্ত হলো আল্লাহর প্রতি অবিচল বিশ্বাস বা বিশুদ্ধ ইমান রাখা।",
+          "কোরআন ও হাদিসের নির্দেশনা অনুযায়ী ইবাদতের ক্ষেত্রে শিরক থেকে সম্পূর্ণ মুক্ত থাকা এবং হালাল উপার্জন নিশ্চিত করা আবশ্যক।",
+          "ধর্মীয় বিধান পালনের ক্ষেত্রে নবীজির সুন্নাহ বা নির্দেশনার সঙ্গে সম্পূর্ণ সামঞ্জস্যপূর্ণ পদ্ধতি অনুসরণ করতে হবে।"
         ],
         "bullets_en": [
-          "Following specific conditions is mandatory for acts of worship to be accepted and rewarded by Allah.",
-          "Pure faith, freedom from polytheism, and adherence to prophetic traditions form the core foundation of accepted deeds.",
-          "Abstaining from unlawful earnings and consuming strictly halal provisions are essential prerequisites for worship acceptance."
+          "The primary and foremost condition for the acceptance of worship is having pure faith in Allah.",
+          "Worship must be completely free from polytheism and supported strictly by lawful earnings and consumption.",
+          "Religious practices must strictly align with the teachings and methodology of the Prophet."
         ],
-        "impact_bn": "সঠিক পন্থায় ইবাদত পালনের মাধ্যমে সাধারণ মানুষ ও যুবসমাজ তাদের ধর্মীয় জীবন আরও অর্থবহ ও শুদ্ধ করতে পারে।",
-        "impact_en": "Practicing worship through correct guidelines enables ordinary citizens and youth to purify and give deeper meaning to their religious lives.",
-        "details_bn": "ইসলামি শরিয়তে ইবাদতের গুরুত্ব অপরিসীম হলেও তা আল্লাহর কাছে কবুল হওয়ার জন্য নির্দিষ্ট কিছু শর্ত রয়েছে। বিশুদ্ধ ইমান, শিরক থেকে মুক্ত থাকা, সুন্নাহর অনুসরণ এবং হালাল উপার্জন নিশ্চিত করা ছাড়া কোনো নেক আমলই গ্রহণযোগ্য হয় না। কোরআন ও হাদিসের আলোকে এই শর্তগুলো মানবজীবন ও আমলকে সঠিক পথে পরিচালিত করতে দিকনির্দেশনা প্রদান করে।",
-        "details_en": "In Islamic jurisprudence, acts of worship hold immense significance, yet specific conditions must be met for them to be accepted by Allah. Pure faith, freedom from polytheism, adherence to Prophetic traditions, and ensuring lawful earnings are prerequisites for any righteous deed to be valid. These conditions, rooted in Quranic verses and Hadiths, guide individuals toward righteous living."
+        "impact_bn": "নাগরিকরা দৈনন্দিন জীবনে হালাল উপার্জন ও সঠিক ধর্মীয় নিয়ম অনুসরণ করে নিজেদের নেক আমল অর্থবহ করতে পারেন।",
+        "impact_en": "Citizens can make their good deeds meaningful by ensuring lawful earnings and proper religious practices in daily life.",
+        "details_bn": "ইসলাম ধর্মে মানুষের জীবনের প্রতিটি ভালো কাজ বা নেক আমল সফল হওয়ার জন্য নির্দিষ্ট কিছু মাপকাঠি রয়েছে। নামাজ, রোজা কিংবা দান-সদকার মতো ইবাদতগুলো কেবল আনুষ্ঠানিকতা নয়, বরং তা আল্লাহর সন্তুষ্টি অর্জনের মাধ্যম। সঠিক ইমান, সুন্নাহর অনুসরণ এবং হালাল রিজিকের ওপর নির্ভর করেই একজন মুমিনের আমল পরকালের মুক্তির মাধ্যম হতে পারে।",
+        "details_en": "In Islam, specific criteria determine the success of every good deed or act of worship in a believer's life. Acts such as prayers, fasting, and charity are not merely rituals but means to attain divine satisfaction. True faith, adherence to prophetic traditions, and lawful sustenance ensure that a believer's actions serve as a means of salvation."
       }
     },
     {
-      "story_id": "9e108845-2ec1-5980-950d-a13f7a698ac1",
-      "primary_category": "society_education",
+      "story_id": "50572eb0-34be-5d25-97f5-0327c3ac9e3a",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "tech_innovation"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#OpenAI",
+        "#TechFunding"
       ],
-      "image_url": null,
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
       "image_caption": null,
-      "published_at": "2026-10-22T21:56:42+00:00",
+      "published_at": "2026-10-22T22:08:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3868,
+      "importance_score": 1.7,
+      "rank_score": 0.2167,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976164/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার",
-          "snippet": "মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ, শিক্ষকের স্ত্রী গ্রেফতার"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "snippet": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাভারে মাদ্রাসার ছাত্রীকে ধর্ষণের অভিযোগে শিক্ষকের স্ত্রী গ্রেফতার",
-        "title_en": "Teacher Wife Arrested in Savar Madrasa Student Rape Case",
-        "summary_bn": "সাভারে এক মাদ্রাসার প্রধান শিক্ষকের বিরুদ্ধে ১৩ বছর বয়সী ছাত্রীকে ধর্ষণের অভিযোগ উঠেছে এবং পুলিশ এ ঘটনায় তার স্ত্রীকে গ্রেফতার করেছে।",
-        "summary_en": "Police arrested the wife of a madrasa head teacher in Savar over allegations that he raped a thirteen-year-old student.",
+        "title_bn": "আইপিও এর আগে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহের কাজ করছে ওপেনএআই",
+        "title_en": "OpenAI Working On New Thirty Billion Dollar Raise Ahead Of IPO",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা গবেষণাগার ওপেনএআই আইপিওতে যাওয়ার আগে একটি নতুন বিনিয়োগ রাউন্ডের মাধ্যমে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহ করছে।",
+        "summary_en": "Artificial intelligence lab OpenAI is working on raising up to thirty billion dollars in private funding ahead of its public debut.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T21:56:42+00:00",
-        "lead_bn": "সাভারে এক মাদ্রাসার প্রধান শিক্ষকের বিরুদ্ধে ১৩ বছর বয়সী ছাত্রীকে ধর্ষণের অভিযোগ উঠেছে এবং পুলিশ এ ঘটনায় তার স্ত্রীকে গ্রেফতার করেছে।",
-        "lead_en": "Police arrested the wife of a madrasa head teacher in Savar over allegations that he raped a thirteen-year-old student.",
+        "published_at": "2026-10-22T22:08:24+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা গবেষণাগার ওপেনএআই আইপিওতে যাওয়ার আগে একটি নতুন বিনিয়োগ রাউন্ডের মাধ্যমে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহ করছে।",
+        "lead_en": "Artificial intelligence lab OpenAI is working on raising up to thirty billion dollars in private funding ahead of its public debut.",
         "bullets_bn": [
-          "প্রধান শিক্ষক মাওলানা মো. আব্দুল বারীর বিরুদ্ধে ১৩ বছর বয়সী এক মাদ্রাসাছাত্রীকে ধর্ষণের অভিযোগ উঠেছে।",
-          "ধর্ষণে সহযোগিতা এবং শিশুটিকে হুমকি দেওয়ার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
-          "মামলার পর থেকে অভিযুক্ত প্রধান শিক্ষক পলাতক রয়েছেন এবং তাকে গ্রেফতারে অভিযান চলছে।"
+          "কোয়েট এবং সংযুক্ত আরব আমিরাতের বিনিয়োগকারীদের নেতৃত্বে তহবিল সংগ্রহের আলোচনা চলছে",
+          "প্রস্তাবিত এই রাউন্ড সফল হলে কোম্পানির মূল্যায়ন এক দশমিক দুই পাঁচ ট্রিলিয়ন ডলারে পৌঁছাবে",
+          "তহবিল সংগ্রহের এই প্রক্রিয়া সফল হলে তা সর্বকালের সর্বোচ্চ মূল্যায়নপ্রাপ্ত প্রাইভেট কোম্পানির রেকর্ড ভাঙবে"
         ],
         "bullets_en": [
-          "Madrasa head teacher Maulana Md Abdul Bari faces allegations of raping a thirteen-year-old student.",
-          "Police arrested the teacher's wife for allegedly abetting the rape and threatening the victim.",
-          "The accused head teacher remains fugitive following the filing of the case and faces imminent arrest."
+          "The private funding round is being led by Coatue and investors from the United Arab Emirates",
+          "The round aims to raise up to thirty billion dollars targeting a valuation of one point two five trillion dollars",
+          "A successful valuation above one trillion dollars would set a record for the most valued private company ever"
         ],
-        "impact_bn": "educational institutions এ শিশুদের নিরাপত্তা এবং আইনি সুরক্ষা নিশ্চিত করার দাবি জোরালো হয়েছে।",
-        "impact_en": "The incident heightens safety concerns for children in educational institutions and underscores the need for strict legal action.",
-        "details_bn": "ঢাকার সাভার উপজেলার বিরুলিয়া ইউনিয়নের তোহফাতুল জান্না মহিলা মাদ্রাসায় এই ধর্ষণের ঘটনা ঘটে। ঘটনার পর ভুক্তভোগী শিক্ষার্থীর পরিবার মামলা দায়ের করলে পুলিশ প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করে। প্রধান শিক্ষক পলাতক থাকায় আইনশৃঙ্খলা বাহিনী তাকে গ্রেফতারে অভিযান চালিয়ে যাচ্ছে।",
-        "details_en": "The incident took place at Tohfatul Jannah Mohila Madrasa in Birulia union of Savar upazila near Dhaka. Following the filing of a case by the victim's family, law enforcement arrested the primary suspect's wife while authorities continue efforts to apprehend the fugitive head teacher."
+        "impact_bn": "উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির গবেষণা ও কম্পিউটিং ক্ষমতা বৃদ্ধিতে এই বিশাল বিনিয়োগ বড় প্রভাব ফেলবে।",
+        "impact_en": "This massive funding round will significantly accelerate the global development and deployment of advanced artificial intelligence capabilities.",
+        "details_bn": "এর আগে ওপেনএআই মার্চ মাসে আটশত বায়ান্ন বিলিয়ন ডলার মূল্যায়নে তহবিল সংগ্রহ করেছিল এবং জুনে আইপিও-র জন্য গোপনীয় কাগজপত্র জমা দেয়। বর্তমান আলোচনা সফল হলে এটি প্রযুক্তি খাতের সবচেয়ে বড় আর্থিক লেনদেনগুলোর একটি হবে। সংযুক্ত আরব আমিরাতের সাথে এই তহবিলের অংশ হিসেবে অতিরিক্ত কম্পিউটিং ক্ষমতা 확보ের চুক্তিও যুক্ত থাকতে পারে, যা তাদের প্রযুক্তিগত সক্ষমতা আরও বাড়িয়ে দেবে।",
+        "details_en": "OpenAI previously secured funding in March that valued the ChatGPT maker at eight hundred and fifty-two billion dollars post-money before filing confidential IPO paperwork in June. This new mega round follows prior reports from financial outlets regarding surging private market valuations for major artificial intelligence developers. The potential inclusion of compute capacity deals with Middle Eastern investors highlights the massive infrastructure demands driving these record-breaking capital raises."
       }
     }
   ]
