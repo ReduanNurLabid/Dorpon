@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-10-23T15:00:50.864093",
+  "updated_at": "2026-10-23T16:00:43.301904",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "77e09ea7-913a-526a-8801-52238cf99e86",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T15:59:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9577,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1171248",
+          "title": "মালয়েশিয়ায় বাংলা ভাষা-সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস হাইকমিশনারের",
+          "snippet": "মালয়েশিয়ায় বাংলা ভাষা-সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস হাইকমিশনারের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মালয়েশিয়ায় বাংলা ভাষা ও সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস বাংলাদেশ হাইকমিশনারের",
+        "title_en": "Bangladesh High Commissioner Assures Support for Bengali Culture in Malaysia",
+        "summary_bn": "মালয়েশিয়ায় প্রবাসী নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়াতে সহযোগিতার আশ্বাস দিয়েছেন দেশটির বাংলাদেশ হাইকমিশনার।",
+        "summary_en": "The Bangladesh High Commissioner to Malaysia assured support for promoting Bengali language and culture among expatriate youth.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T15:59:28+00:00",
+        "lead_bn": "মালয়েশিয়ায় প্রবাসী নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়াতে সহযোগিতার আশ্বাস দিয়েছেন দেশটির বাংলাদেশ হাইকমিশনার।",
+        "lead_en": "The Bangladesh High Commissioner to Malaysia assured support for promoting Bengali language and culture among expatriate youth.",
+        "bullets_bn": [
+          "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়ানোর ওপর গুরুত্বারোপ করা হয়েছে।",
+          "হাইকমিশনার প্রবাসী বাংলাদেশিদের শিক্ষা ও দক্ষতা উন্নয়নে পরিচালিত আর্টস, কালচার অ্যান্ড ল্যাঙ্গুয়েজ প্রোগ্রামের কার্যক্রমের প্রশংসা করেছেন।",
+          "প্রবাসীদের নতুন প্রজন্মের কাছে দেশীয় ঐতিহ্য তুলে ধরতে সংশ্লিষ্ট কর্মসূচিগুলোর পরিধি ভবিষ্যতে আরও বাড়ানো হবে।"
+        ],
+        "bullets_en": [
+          "Emphasis was placed on increasing the practice of Bengali language and culture among the new generation of expatriates in Malaysia.",
+          "The High Commissioner praised the activities of the Arts, Culture and Language Programme aimed at education and skill development.",
+          "The scope of relevant programs will be further expanded in the future to introduce native heritage to the new generation."
+        ],
+        "impact_bn": "মালয়েশিয়ায় বসবাসরত প্রবাসী বাংলাদেশিরা তাদের সন্তানদের মাঝে দেশীয় সংস্কৃতি ও ভাষা টিকিয়ে রাখার সুযোগ পাবে।",
+        "impact_en": "Expatriate Bangladeshis living in Malaysia will get the opportunity to preserve native culture and language among their children.",
+        "details_bn": "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের নতুন প্রজন্ম যাতে নিজস্ব শেকড়, ভাষা ও সংস্কৃতির সাথে পরিচিত থাকতে পারে, সে জন্য বিভিন্ন সামাজিক ও সাংস্কৃতিক উদ্যোগ পরিচালিত হচ্ছে। এর অংশ হিসেবে আর্টস, কালচার অ্যান্ড ল্যাঙ্গুয়েজ প্রোগ্রাম প্রবাসীদের মাঝে শিক্ষা ও দক্ষতা বৃদ্ধির পাশাপাশি দেশীয় ঐতিহ্য প্রসারে কাজ করে আসছে। এই উদ্যোগগুলোর মাধ্যমে প্রবাসে বেড়ে ওঠা শিশু ও কিশোরদের মাঝে দেশপ্রেম এবং সাংস্কৃতিক শেকড় মজবুত করার প্রয়াস অব্যাহত রয়েছে।",
+        "details_en": "Various social and cultural initiatives are operated in Malaysia to ensure that the new generation of expatriate Bangladeshis remains connected to their roots, language, and culture. As part of this, the Arts, Culture and Language Programme has been working to enhance education and skills while promoting native heritage among expatriates. These efforts continue to foster patriotism and cultural roots among children and youth growing up abroad."
+      }
+    },
     {
       "story_id": "bb105bdc-7a0d-5753-82b9-36b4e6ac4c8b",
       "primary_category": "governance_law",
@@ -17,7 +71,7 @@
       "published_at": "2026-10-23T14:33:37+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4913,
+      "rank_score": 0.9567,
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
@@ -27,10 +81,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "নওগাঁয় সাবেক প্রধানমন্ত্রীর দেশে ফেরার মাইকিংয়ের ঘটনায় নিষিদ্ধ সংগঠনের দুই নেতা আটক",
-        "title_en": "Two Banned Student and Youth Wing Leaders Detained in Naogaon Over Public Announcements",
-        "summary_bn": "সাবেক প্রধানমন্ত্রীর দেশে ফেরার মিথ্যা প্রচার চালিয়ে মাইকিং করার অভিযোগে নওগাঁর মান্দায় নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
-        "summary_en": "Police detained two local leaders of banned political wings in Naogaon for making public loudspeaker announcements about the former prime minister's return.",
+        "title_bn": "নওগাঁয় শেখ হাসিনার ফেরার মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতা আটক",
+        "title_en": "Two Banned Student and Youth Wing Leaders Arrested in Naogaon Over Public Announcements",
+        "summary_bn": "নওগাঁর মান্দায় সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা দিয়ে মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
+        "summary_en": "Police arrested two leaders of banned organizations in Naogaon for using loudspeakers to announce the return of the former prime minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -38,80 +92,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T14:33:37+00:00",
-        "lead_bn": "সাবেক প্রধানমন্ত্রীর দেশে ফেরার মিথ্যা প্রচার চালিয়ে মাইকিং করার অভিযোগে নওগাঁর মান্দায় নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
-        "lead_en": "Police detained two local leaders of banned political wings in Naogaon for making public loudspeaker announcements about the former prime minister's return.",
+        "lead_bn": "নওগাঁর মান্দায় সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা দিয়ে মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
+        "lead_en": "Police arrested two leaders of banned organizations in Naogaon for using loudspeakers to announce the return of the former prime minister.",
         "bullets_bn": [
-          "মান্দা উপজেলায় অটোরিকশায় মাইক বেঁধে সাবেক প্রধানমন্ত্রীর দেশে ফেরার পক্ষে প্রচারণা চালানো হয়",
-          "আটক ব্যক্তিরা হলেন নিষিদ্ধ ছাত্রলীগের ইউনিয়ন সভাপতি শহীদুল ইসলাম এবং স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকার",
-          "এ ঘটনায় জড়িত বাকিদের গ্রেফতারে পুলিশের অভিযান চলছে এবং আটকদের বিরুদ্ধে মামলার প্রস্তুতি নেওয়া হচ্ছে"
+          "নিষিদ্ধ সংগঠনের নেতাদের বিরুদ্ধে মাইকিং করে জনমনে বিভ্রান্তি সৃষ্টির অভিযোগে পুলিশ নওগাঁর মান্দা উপজেলা থেকে দুজনকে আটক করেছে।",
+          "আটক ব্যক্তিরা হলেন নিষিদ্ধ ছাত্রলীগের ইউনিয়ন সভাপতি শহিদুল ইসলাম শহীদ ও স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকার।",
+          "ঘটনায় জড়িত বাকিদের গ্রেপ্তারে অভিযান চলছে এবং আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "Loudspeaker announcements were made using an autorickshaw in Manda upazila claiming the former prime minister would return.",
-          "Detained individuals are identified as local Chhatra League union president Shahidul Islam and Swechchhasebak League president Abdul Jalil Sarker.",
-          "Police have seized the audio recording equipment and are conducting raids to arrest other individuals involved in the propaganda."
+          "Police arrested two individuals from Manda upazila in Naogaon for using loudspeakers to propagate unauthorized political announcements.",
+          "The detained individuals are identified as local union-level leaders of the banned Chhatra League and Jubo/Swechchhasebak League.",
+          "Law enforcement authorities have seized the audio equipment and initiated formal legal proceedings against the suspects."
         ],
-        "impact_bn": "অস্থিরতা তৈরি করতে পারে এমন উসকানিমূলক ও নিষিদ্ধ প্রচারণার বিরুদ্ধে আইনগত ব্যবস্থা নেওয়ায় জনমনে স্বস্তি ফিরেছে।",
-        "impact_en": "Swift law enforcement action against provocative propaganda helps maintain public order and prevents localized tensions.",
-        "details_bn": "নওগাঁর মান্দা উপজেলায় নিষিদ্ধ সংগঠনের কয়েকজন নেতা অটোরিকশায় মাইক লাগিয়ে সাবেক প্রধানমন্ত্রীর আগামী ডিসেম্বরে দেশে ফেরার মিথ্যা প্রচারণা চালান এবং সেই ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দেন। ভিডিওটি জেলা পুলিশের নজরে আসার পর পুলিশ অভিযান চালিয়ে মান্দার কাশোপাড়া ইউনিয়ন ছাত্রলীগের সভাপতি শহীদুল ইসলাম এবং সদর ইউনিয়ন স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকারকে আটক করে। এ সময় প্রচারণায় ব্যবহৃত অটোরিকশাসহ রেকর্ডিং জব্দ করা হয়।",
-        "details_en": "Local leaders in Manda upazila used an autorickshaw to broadcast public announcements claiming the former prime minister would return in December, subsequently uploading the video to social media. After the video came to the attention of district law enforcement, police launched a raid and arrested Shahidul Islam, local Chhatra League president, and Abdul Jalil Sarker, Swechchhasebak League president. Police seized the audio equipment and initiated legal proceedings."
+        "impact_bn": "এ ধরনের উসকানিমূলক কর্মকাণ্ড স্থানীয় আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটাতে পারে, যা জনমনে উদ্বেগ তৈরি করে।",
+        "impact_en": "Such unauthorized political propaganda and provocative activities can disrupt local public order and create community tension.",
+        "details_bn": "নওগাঁর মান্দা উপজেলায় নিষিদ্ধ সংগঠনের সভাপতি পরিচয় দিয়ে সাবেক প্রধানমন্ত্রী শেখ হাসিনার আগামী ডিসেম্বর মাসে দেশে ফেরার প্রচারণা চালিয়ে একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দেওয়া হয়। ৩৭ সেকেন্ডের ওই ভাইরাল ভিডিওতে দেখা যায়, অটোরিকশায় মাইক বেঁধে এই প্রচার চালানো হচ্ছে। বিষয়টি পুলিশ সুপার ও স্থানীয় প্রশাসনের নজরে আসার পর অভিযান চালিয়ে সংশ্লিষ্ট দুজনকে আটক করা হয় এবং মাইকিংয়ে ব্যবহৃত অটোরেকর্ডিং জব্দ করা হয়। বাকি আসামিদের ধরতে অভিযান অব্যাহত রয়েছে।",
+        "details_en": "A 37-second video went viral on social media showing a loudspeaker-equipped auto-rickshaw announcing the return of former Prime Minister fugitive Sheikh Hasina in December. Following the circulation of the footage, local police identified and detained two local leaders of banned political wings in Manda upazila. Authorities seized the recording equipment and launched operations to apprehend other individuals involved in the propaganda."
       }
     },
     {
-      "story_id": "2941a31c-60ae-5503-99e5-08418ed0b6d6",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T14:24:01+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3739,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171232",
-          "title": "রামপুরায় চাপাতি দিয়ে পুলিশের ওপর হামলা, হাজার পুরিয়া হেরোইনসহ আটক ২",
-          "snippet": "রামপুরায় চাপাতি দিয়ে পুলিশের ওপর হামলা, হাজার পুরিয়া হেরোইনসহ আটক ২"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রামপুরায় পুলিশের ওপর হামলা ও হেরোইনসহ দুজন আটক",
-        "title_en": "Two Arrested with Heroin After Attacking Police in Rampura",
-        "summary_bn": "রাজধানীর রামপুরা এলাকায় পুলিশের ওপর চাপাতি দিয়ে হামলার ঘটনায় এক হাজার ৩৯ পুরিয়া হেরোইনসহ দুজনকে আটক করা হয়েছে।",
-        "summary_en": "Two individuals were arrested in Rampura with one thousand thirty-nine packets of heroin after attempting to attack police with a machete.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:24:01+00:00",
-        "lead_bn": "রাজধানীর রামপুরা এলাকায় পুলিশের ওপর চাপাতি দিয়ে হামলার ঘটনায় এক হাজার ৩৯ পুরিয়া হেরোইনসহ দুজনকে আটক করা হয়েছে।",
-        "lead_en": "Two individuals were arrested in Rampura with one thousand thirty-nine packets of heroin after attempting to attack police with a machete.",
-        "bullets_bn": [
-          "রামপুরা এলাকায় পুলিশি ধাওয়ার সময় চাপাতি দিয়ে হামলা চালানোর চেষ্টা করেন দুই মাদক কারবারি।",
-          "ঘটনাস্থল থেকে তল্লাশি চালিয়ে এক হাজার ৩৯ পুরিয়া হেরোইন উদ্ধার করে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-          "আটক ব্যক্তিদের বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে নিয়মিত মামলা দায়ের করে আদালতে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Two drug suspects attempted to attack law enforcement officers with a machete during a police chase in Rampura.",
-          "Police recovered one thousand thirty-nine packets of heroin from the possession of the detained suspects.",
-          "The arrestees were handed over to court following the filing of a regular case under narcotics control laws."
-        ],
-        "impact_bn": "মাদক উদ্ধারের এই অভিযানে স্থানীয় এলাকায় মাদক কারবারিদের দৌরাত্ম্য কিছুটা কমবে বলে আশা করা হচ্ছে।",
-        "impact_en": "This narcotics seizure is expected to curb local drug trafficking activities in the area.",
-        "details_bn": "রাজধানীতে মাদকবিরোধী নিয়মিত অভিযানের অংশ হিসেবে আইনশৃঙ্খলা বাহিনী বিভিন্ন এলাকায় তল্লাশি পরিচালনা করে আসছে। রামপুরার এই ঘটনায় মাদক বহন ও পুলিশ ওপর হামলার অভিযোগে আসামিদের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।",
-        "details_en": "Law enforcement agencies regularly conduct anti-narcotics drives across the capital to curb illegal substances. Following the incident in Rampura, strict legal proceedings have been initiated against the suspects for drug possession and assaulting law enforcement officers."
-      }
-    },
-    {
-      "story_id": "e16d9c46-3765-5d4e-9471-c90afd04ddb5",
+      "story_id": "b765f332-a7fa-50fc-abf3-f804cec20934",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -122,168 +122,53 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T14:10:47+00:00",
+      "published_at": "2026-10-23T15:59:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2367,
+      "importance_score": 2.4,
+      "rank_score": 0.9541,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171228",
-          "title": "নভেম্বরে আমিরাতে বৈঠকে বসতে পারে রাশিয়া-ইউক্রেন",
-          "snippet": "নভেম্বরে আমিরাতে বৈঠকে বসতে পারে রাশিয়া-ইউক্রেন"
+          "url": "https://www.jagonews24.com/international/news/1171247",
+          "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২৩ অক্টোবর ২০২৬",
+          "snippet": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২৩ অক্টোবর ২০২৬"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় নভেম্বরে বৈঠকে বসতে পারে রাশিয়া ও ইউক্রেন",
-        "title_en": "Russia and Ukraine May Hold US-Mediated Talks in November",
-        "summary_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় সংযুক্ত আরব আমিরাতের আবুধাবিতে রাশিয়া ও ইউক্রেনের প্রতিনিধিরা আগামী নভেম্বরে বৈঠকে বসতে পারেন।",
-        "summary_en": "Representatives of Russia and Ukraine may hold a meeting in Abu Dhabi this November mediated by the United States.",
+        "title_bn": "বিশ্বজুড়ে ঘটে যাওয়া বিভিন্ন গুরুত্বপূর্ণ আন্তর্জাতিক ঘটনার সংক্ষিপ্ত সারসংক্ষেপ",
+        "title_en": "Summary of Important International Events Around the World",
+        "summary_bn": "বিশ্বের বিভিন্ন প্রান্তে ঘটে যাওয়া সাম্প্রতিক প্রধান ঘটনাগুলো নিয়ে সংক্ষিপ্ত আন্তর্জাতিক সংবাদ পরিবেশিত হয়েছে।",
+        "summary_en": "A brief international news roundup covers major recent events occurring across different parts of the world.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:10:47+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের মধ্যস্থতায় সংযুক্ত আরব আমিরাতের আবুধাবিতে রাশিয়া ও ইউক্রেনের প্রতিনিধিরা আগামী নভেম্বরে বৈঠকে বসতে পারেন।",
-        "lead_en": "Representatives of Russia and Ukraine may hold a meeting in Abu Dhabi this November mediated by the United States.",
+        "published_at": "2026-10-23T15:59:07+00:00",
+        "lead_bn": "বিশ্বের বিভিন্ন প্রান্তে ঘটে যাওয়া সাম্প্রতিক প্রধান ঘটনাগুলো নিয়ে সংক্ষিপ্ত আন্তর্জাতিক সংবাদ পরিবেশিত হয়েছে।",
+        "lead_en": "A brief international news roundup covers major recent events occurring across different parts of the world.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের মধ্যস্থতায় রাশিয়া এবং ইউক্রেনের মধ্যে ত্রিপক্ষীয় বৈঠকের সম্ভাবনা তৈরি হয়েছে।",
-          "সংযুক্ত আরব আমিরাতের রাজধানী আবুধাবিতে এই উচ্চপর্যায়ের বৈঠকটি অনুষ্ঠিত হতে পারে।",
-          "আসন্ন নভেম্বর মাসে এই কূটনৈতিক বৈঠকটি আয়োজনের প্রস্তুতি চলছে।"
+          "বিশ্বের বিভিন্ন প্রান্তের গুরুত্বপূর্ণ ঘটনাগুলো একনজরে তুলে ধরা হয়েছে।",
+          "আন্তর্জাতিক সংবাদ মাধ্যমের প্রতিবেদন অনুযায়ী বিভিন্ন দেশের পরিস্থিতি পর্যালোচনা করা হয়েছে।",
+          "সংবাদ সংশ্লিষ্ট বৈশ্বিক পরিস্থিতি এবং এর সম্ভাব্য প্রভাব নিয়ে আপডেট দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "A trilateral meeting between Russia and Ukraine is being arranged through US mediation.",
-          "The high-level diplomatic meeting is scheduled to take place in Abu Dhabi, United Arab Emirates.",
-          "Preparations are underway to host these crucial discussions in the coming month of November."
+          "Important events from various parts of the world are highlighted at a glance.",
+          "Situations in different countries are reviewed based on international media reports.",
+          "Updates regarding the global situation and its potential impact are provided."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাশিয়া ও ইউক্রেনের দীর্ঘস্থায়ী সংঘাতে কূটনৈতিক সমাধানের পথ খুঁজতে আন্তর্জাতিক মধ্যস্থতাকারীরা দীর্ঘদিন ধরে চেষ্টা চালিয়ে যাচ্ছেন। মার্কিন যুক্তরাষ্ট্রের মধ্যস্থতায় এই সম্ভাব্য বৈঠকটি দুই দেশের মধ্যে চলমান যুদ্ধ অবসানের ক্ষেত্রে একটি নতুন কূটনৈতিক মোড় নিতে পারে বলে আন্তর্জাতিক বিশ্লেষকরা মনে করছেন। এর আগেও বিভিন্ন মধ্যস্থতাকারী দেশের উদ্যোগে শান্তি আলোচনা হলেও তা স্থায়ী কোনো সমাধান আনতে ব্যর্থ হয়।",
-        "details_en": "International mediators have long been attempting to find a diplomatic resolution to the protracted conflict between Russia and Ukraine. Analysts believe this potential US-mediated meeting could mark a new diplomatic turning point in efforts to end the ongoing war. Previous peace talks initiated by various mediating nations have repeatedly failed to yield lasting solutions."
+        "details_bn": "আন্তর্জাতিক অঙ্গনে প্রতিদিন নানা ঘটনা ঘটে যা বৈশ্বিক রাজনীতি, অর্থনীতি এবং সাধারণ মানুষের জীবনযাত্রাকে প্রভাবিত করে। এই সংক্ষিপ্ত সংবাদের মাধ্যমে পাঠকরা বিশ্বের সাম্প্রতিক ঘটনাবলীর মূল বিষয়গুলো সম্পর্কে দ্রুত ধারণা লাভ করতে পারেন।",
+        "details_en": "Various events occur daily in the international arena that influence global politics, economics, and the lives of ordinary people. Through this brief news update, readers can quickly grasp the core developments of recent global events."
       }
     },
     {
-      "story_id": "72f5f5c6-8348-5914-8523-797d2fa194e5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fbhj86dbw%2Fuimage-3.jpg?rect=0%2C216%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T13:51:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.0742,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/dj127o8qcw",
-          "title": "ভারতের প্রধান ব্যাংক স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা",
-          "snippet": "ভারতের প্রধান ব্যাংক স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভারতের স্টেট ব্যাংক অব ইন্ডিয়ায় হ্যাকার গোষ্ঠীর সাইবার হামলা",
-        "title_en": "Hackers Target State Bank of India in Major Cyber Attack",
-        "summary_bn": "সিরিউসিম নামের একটি হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নেওয়ার দাবি করেছে।",
-        "summary_en": "A hacker group named Ceriusim claims to have seized control of confidential customer data from the State Bank of India.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T13:51:17+00:00",
-        "lead_bn": "সিরিউসিম নামের একটি হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নেওয়ার দাবি করেছে।",
-        "lead_en": "A hacker group named Ceriusim claims to have seized control of confidential customer data from the State Bank of India.",
-        "bullets_bn": [
-          "সিরিউসিম হ্যাকার গোষ্ঠী ভারতের রাষ্ট্রায়ত্ত স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের ব্যক্তিগত তথ্য এবং ঋণের নথিপত্র নিয়ন্ত্রণে নিয়েছে।",
-          "প্রায় ৩ লাখ ৮০ হাজার তথ্য ফাঁসের ঘটনা আংশিকভাবে স্বীকার করে ক্ষতিগ্রস্ত গ্রাহকদের ইমেইল ও হোয়াটসঅ্যাপে সতর্কবার্তা পাঠিয়েছে ব্যাংকটি।",
-          "চুরি হওয়া তথ্য ব্যবহার করে পরিচয় জালিয়াতি এবং ভুয়া ঋণের আবেদন করার আশঙ্কা প্রকাশ করেছেন সাইবার নিরাপত্তা বিশেষজ্ঞরা।"
-        ],
-        "bullets_en": [
-          "The Ceriusim hacker group took control of customer personal data and loan application documents from the State Bank of India.",
-          "The bank partially acknowledged the leakage of nearly 380,000 data records and alerted affected customers via email and WhatsApp.",
-          "Cybersecurity experts warn that the stolen data could be misused for identity theft and fraudulent loan applications."
-        ],
-        "impact_bn": "তথ্য ফাঁসের এই ঘটনায় ভারতে ব্যাংকিং সেবা ব্যবহারকারী সাধারণ গ্রাহকদের ব্যক্তিগত তথ্যের সুরক্ষা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "This data leak raises serious security concerns for millions of ordinary banking customers regarding the privacy of their personal information.",
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে সাইবার নিরাপত্তা মনিটরিং হ্যান্ডল সাইবারপালস৫৬ প্রথম এসবিআইয়ের ডেটা ফাঁসের বিষয়টি প্রকাশ করে। ব্যাংক কর্তৃপক্ষ জানিয়েছে, গ্রাহকদের অ্যাকাউন্ট ও তহবিল সুরক্ষিত রয়েছে এবং ঘটনার উৎস ও সত্যতা যাচাইয়ের কাজ চলছে। স্টেট ব্যাংক অব ইন্ডিয়া ৫০ কোটির বেশি গ্রাহক নিয়ে বিশ্বের অন্যতম বৃহৎ রাষ্ট্রায়ত্ত ব্যাংক হিসেবে পরিচালিত হয়ে আসছে।",
-        "details_en": "Cybersecurity monitoring handle Cyberpulse56 first revealed the SBI data breach on social media. Bank authorities stated that customer accounts and funds remain secure while the source and authenticity of the breach are being investigated. The State Bank of India operates as one of the world's largest state-owned banks with over 500 million customers."
-      }
-    },
-    {
-      "story_id": "a3e1d446-0e67-5e9a-b494-42ba652fedd1",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T14:55:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9167,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/india/976301/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2-%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%87-%E0%A6%89%E0%A7%9C%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%B0%E0%A7%81%E0%A6%A3",
-          "title": "প্রকৌশল ডিগ্রি ছাড়াই উড়ন্ত গাড়ি বানালেন তরুণ",
-          "snippet": "প্রকৌশল ডিগ্রি ছাড়াই উড়ন্ত গাড়ি বানালেন তরুণ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রকৌশল ডিগ্রি ছাড়াই ইলেকট্রিক উড়ন্ত গাড়ি বানালেন তরুণ রবি তামতা",
-        "title_en": "Youth Ravi Tamta Builds Electric Flying Car Without Engineering Degree",
-        "summary_bn": "ভারতের উত্তরাখণ্ডের তরুণ রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই একটি বৈদ্যুতিক উড়ন্ত গাড়ির প্রোটোটাইপ তৈরি করেছেন।",
-        "summary_en": "Young innovator Ravi Tamta from Uttarakhand successfully built an electric flying car prototype without any formal engineering education.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:55:17+00:00",
-        "lead_bn": "ভারতের উত্তরাখণ্ডের তরুণ রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই একটি বৈদ্যুতিক উড়ন্ত গাড়ির প্রোটোটাইপ তৈরি করেছেন।",
-        "lead_en": "Young innovator Ravi Tamta from Uttarakhand successfully built an electric flying car prototype without any formal engineering education.",
-        "bullets_bn": [
-          "অনলাইন এবং হাতে-কলমে দীর্ঘ তেরো বছর পরীক্ষানিরীক্ষার মাধ্যমে গাড়িটির প্রোটোটাইপ তৈরি করা হয়।",
-          "একক আসনের হাপিডা স্কাইনেক্স নামক এই যানটি সফলভাবে পরীক্ষামূলক উড্ডয়ন সম্পন্ন করেছে।",
-          "প্রাতিষ্ঠানিক ডিগ্রির বাইরে স্বশিক্ষিত উদ্ভাবন তরুণদের জন্য নতুন সম্ভাবনার দ্বার উন্মোচন করছে।"
-        ],
-        "bullets_en": [
-          "The prototype was developed through thirteen years of self-taught online research and practical experimentation.",
-          "The single-seater vehicle named Hapida Skynex successfully completed its trial flight.",
-          "Such self-taught innovations inspire alternative pathways for youth beyond traditional classroom education."
-        ],
-        "impact_bn": "এই উদ্ভাবন তরুণ প্রজন্মকে প্রাতিষ্ঠানিক সীমানার বাইরে গিয়ে প্রযুক্তিগত ও সৃজনশীল কাজে উদ্বুদ্ধ করবে।",
-        "impact_en": "This innovation inspires the younger generation to pursue technological creativity beyond traditional institutional boundaries.",
-        "details_bn": "ভারতের উত্তরাখণ্ডের আলমোড়া জেলার মানবিক বিষয়ের স্নাতক রবি তামতা কোনো প্রাতিষ্ঠানিক প্রকৌশল শিক্ষা ছাড়াই প্রযুক্তি খাতে অনন্য দৃষ্টান্ত স্থাপন করেছেন। দীর্ঘ ১৩ বছর ধরে অনলাইন ভিডিও এবং নিজস্ব প্রচেষ্টায় পরীক্ষা-নিরীক্ষা চালিয়ে তিনি এই বৈদ্যুতিক উড়ন্ত গাড়ি তৈরি করেন। তার তৈরি একক আসনের হাপিডা স্কাইনেক্স নামের যানটি সফলভাবে পরীক্ষামূলক উড্ডয়ন সম্পন্ন করে, যা প্রথাগত শিক্ষার বাইরেও ব্যক্তিগত প্রতিভার বিকাশ ও স্বশিক্ষার শক্তিকে প্রমাণ করে।",
-        "details_en": "Ravi Tamta, a humanities graduate from Almora district in Uttarakhand, India, achieved a remarkable feat by developing an electric flying car without any formal engineering background. Through thirteen years of self-directed online learning and hands-on experimentation, he built the single-seater prototype named Hapida Skynex, which successfully completed its test flight. This milestone highlights how self-driven innovation can transcend conventional educational barriers."
-      }
-    },
-    {
-      "story_id": "8497d77f-2204-569b-b25b-3490f0c52187",
+      "story_id": "d5f4811b-e1ec-5544-a97e-2151f2bfa389",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
@@ -291,47 +176,154 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T14:53:27+00:00",
+      "published_at": "2026-10-23T15:58:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8997,
+      "rank_score": 0.9499,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1171235",
-          "title": "জামায়াতের অনুমোদনে এনসিপির নতুন কমিটি হয়েছে: রাশেদ খাঁন",
-          "snippet": "জামায়াতের অনুমোদনে এনসিপির নতুন কমিটি হয়েছে: রাশেদ খাঁন"
+          "url": "https://www.jagonews24.com/country/news/1171246",
+          "title": "মাদরাসাছাত্রীকে ধর্ষণে সহযোগিতার অভিযোগে শিক্ষকের স্ত্রী গ্রেফতার",
+          "snippet": "মাদরাসাছাত্রীকে ধর্ষণে সহযোগিতার অভিযোগে শিক্ষকের স্ত্রী গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জামায়াতের অনুমোদনে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় কমিটি গঠিত",
-        "title_en": "National Citizens Party Forms New Central Committee With Jamaat Approval",
-        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদনক্রমে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে।",
-        "summary_en": "The central convening committee of the National Citizens Party has been reconstituted with the approval of Bangladesh Jamaat-e-Islami.",
+        "title_bn": "সাভারে মাদরাসাছাত্রীকে ধর্ষণের সহযোগিতায় শিক্ষকের স্ত্রী গ্রেফতার",
+        "title_en": "Teacher Wife Arrested for Aiding Madrassa Student Rape in Savar",
+        "summary_bn": "সাভারে তেরো বছরের এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহযোগিতার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police have arrested a headteacher's wife in Savar for allegedly aiding the rape of a thirteen-year-old madrassa student.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:53:27+00:00",
-        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদনক্রমে জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে।",
-        "lead_en": "The central convening committee of the National Citizens Party has been reconstituted with the approval of Bangladesh Jamaat-e-Islami.",
+        "published_at": "2026-10-23T15:58:42+00:00",
+        "lead_bn": "সাভারে তেরো বছরের এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহযোগিতার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police have arrested a headteacher's wife in Savar for allegedly aiding the rape of a thirteen-year-old madrassa student.",
         "bullets_bn": [
-          "বাংলাদেশ জামায়াতে ইসলামীর অনুমোদন সাপেক্ষে জাতীয় নাগরিক পার্টির কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়।",
-          "নতুন এই কমিটির নেতৃত্বে রাশেদ খাঁনসহ অন্যান্যরা দায়িত্ব গ্রহণ করেছেন বলে জানানো হয়।",
-          "রাজনৈতিক দলগুলোর অভ্যন্তরীণ কাঠামোগগত পুনর্বিন্যাস প্রক্রিয়ার অংশ হিসেবে এই কমিটি গঠন করা হয়।"
+          "পুলিশ অভিযুক্ত প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করে এবং নির্যাতিত ছাত্রীকে উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালের ওয়ান-স্টপ ক্রাইসিস সেন্টারে ভর্তি করে",
+          "মামলার এজাহারে মাদরাসার মালিক ও প্রধান শিক্ষক শহিদুল ইসলামকে মূল অভিযুক্ত হিসেবে উল্লেখ করা হয়েছে",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী পলাতক মূল অভিযুক্ত প্রধান শিক্ষককে গ্রেফতারে অভিযান পরিচালনা করছে"
         ],
         "bullets_en": [
-          "The central convening committee of the National Citizens Party was reconstituted with Bangladesh Jamaat-e-Islami approval.",
-          "Rashed Khan and other key figures took charge under the newly formed committee structure.",
-          "This committee was formed as part of ongoing organizational realignments among political factions."
+          "Police arrested the accused teacher's wife and admitted the victim to Dhaka Medical College Hospital's One-Stop Crisis Centre",
+          "The primary accused in the case has been identified as madrasa owner and headteacher Shahidul Islam",
+          "Law enforcement agencies are conducting operations to arrest the fugitive headteacher"
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) কেন্দ্রীয় আহ্বায়ক কমিটি পুনর্গঠন করা হয়েছে। সাম্প্রতিক রাজনৈতিক প্রেক্ষাপটে বিভিন্ন দলের অভ্যন্তরীণ সাংগঠনিক পরিবর্তন এবং দলগুলোর পারস্পরিক বোঝাপড়ার অংশ হিসেবে এই নতুন কমিটি আত্মপ্রকাশ করেছে। রাজনৈতিক মহলে এ ধরনের কমিটি গঠন প্রক্রিয়া নিয়ে নানা আলোচনা চলছে।",
-        "details_en": "The central convening committee of the National Citizens Party has been reconstituted. This new committee emerged amid ongoing organizational shifts and strategic alignments among various political factions within the country's evolving political landscape, drawing significant public attention."
+        "impact_bn": "এই ঘটনা শিক্ষাপ্রতিষ্ঠানে শিশুদের নিরাপত্তা এবং অপরাধীদের দ্রুত বিচারের আওতায় আনার দাবি জোরালো করেছে।",
+        "impact_en": "This incident reinforces the urgent demand for child safety in educational institutions and swift justice for offenders.",
+        "details_bn": "ঢাকার সাভার উপজেলায় তেরো বছর বয়সী এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনা ঘটে। এ ঘটনায় প্রধান শিক্ষকের বিরুদ্ধে ছাত্রীকে নিপীড়ন ও হুমকির অভিযোগ ওঠার পর পুলিশি তৎপরতা শুরু হয়। প্রাথমিক তদন্তের ভিত্তিতে অপরাধে সহায়তাকারী হিসেবে শিক্ষকের স্ত্রীকে আইনের আওতায় আনা হয়েছে। শিশু সুরক্ষায় এ ধরনের অপরাধের বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়ার ওপর জোর দিচ্ছেন স্থানীয়রা।",
+        "details_en": "The incident involves the abuse of a thirteen-year-old student at a madrasa in Savar, Dhaka. Following allegations of harassment and threats against the headteacher, police initiated an investigation. Based on preliminary findings, the teacher's wife was brought under the law for aiding the crime. Locals have emphasized the need for strict legal action against such offences to ensure child safety."
+      }
+    },
+    {
+      "story_id": "b27baaab-a0ab-519b-a438-84d515e05ee6",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T15:52:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8914,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/football/1171244",
+          "title": "পেছন থেকে ধাক্কা, ওনানার গাড়ি ধাক্কা দিলো সামনের গাড়িতে",
+          "snippet": "পেছন থেকে ধাক্কা, ওনানার গাড়ি ধাক্কা দিলো সামনের গাড়িতে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তুরস্কে একাধিক গাড়ির সংঘর্ষের মুখে পড়েন ফুটবলার আন্দ্রে ওনানা",
+        "title_en": "Footballer Andre Onana Escapes Injury in Multi-Vehicle Crash in Turkey",
+        "summary_bn": "ম্যানচেস্টার ইউনাইটেডের সাবেক গোলরক্ষক আন্দ্রে ওনানা তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষে দুর্ঘটনা থেকে অক্ষত অবস্থায় বেঁচে গেছেন।",
+        "summary_en": "Former Manchester United goalkeeper Andre Onana escaped unhurt following a multi-vehicle collision in northern Turkey.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T15:52:34+00:00",
+        "lead_bn": "ম্যানচেস্টার ইউনাইটেডের সাবেক গোলরক্ষক আন্দ্রে ওনানা তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষে দুর্ঘটনা থেকে অক্ষত অবস্থায় বেঁচে গেছেন।",
+        "lead_en": "Former Manchester United goalkeeper Andre Onana escaped unhurt following a multi-vehicle collision in northern Turkey.",
+        "bullets_bn": [
+          "তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষের কবলে পড়েন গোলরক্ষক আন্দ্রে ওনানা।",
+          "দুর্ঘটনায় ওনানা এবং তার পরিবারের কোনো সদস্যই হতাহত হননি।",
+          "ঘটনার পর ফুটবলার ও তার পরিবার নিরাপদে গন্তব্যের উদ্দেশ্যে যাত্রা অব্যাহত রাখেন।"
+        ],
+        "bullets_en": [
+          "Goalkeeper Andre Onana became involved in a multi-vehicle collision in northern Turkey.",
+          "Neither Onana nor any members of his family sustained injuries during the accident.",
+          "The footballer and his family safely continued their journey following the incident."
+        ],
+        "impact_bn": "মাঠের বাইরের এই দুর্ঘটনা থেকে বড় ধরনের ক্ষতি ছাড়াই রক্ষা পাওয়ায় ক্রীড়াপ্রেমী ও ভক্তরা স্বস্তি প্রকাশ করেছেন।",
+        "impact_en": "Fans and sports enthusiasts expressed relief as the footballer emerged safely from the unexpected road accident.",
+        "details_bn": "আন্দ্রে ওনানা বর্তমান সময়ের অন্যতম পরিচিত আন্তর্জাতিক ফুটবলার। ম্যানচেস্টার ইউনাইটেডের গোলরক্ষক হিসেবে তিনি বিশ্বজুড়ে ব্যাপক পরিচিতি লাভ করেছেন। সম্প্রতি বিভিন্ন আন্তর্জাতিক সফরে থাকাকালীন এই অপ্রত্যাশিত সড়ক দুর্ঘটনার মুখোমুখি হন তিনি। সৌভাগ্যবশত বড় ধরনের কোনো বিপদ ছাড়াই তিনি ও তার পরিবার অক্ষত রয়েছেন।",
+        "details_en": "Andre Onana is a prominent international footballer globally recognized for his role as a goalkeeper. While traveling through northern Turkey, he encountered an unexpected multi-vehicle road collision. Fortunately, strict safety measures and favorable conditions ensured that neither he nor his family members suffered any physical harm."
+      }
+    },
+    {
+      "story_id": "2ff27d1b-31bf-54c8-972c-67257754ac5e",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/417230.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T15:51:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8779,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bashar-bcb-nahid-mirpur/",
+          "title": "নাহিদের না থাকাটা বড় ক্ষতি, তবে পেস আক্রমণে আস্থা বাশারের",
+          "snippet": "নাহিদের না থাকাটা বড় ক্ষতি, তবে পেস আক্রমণে আস্থা বাশারের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাহিদ রানার চোট বড় ক্ষতি হলেও পেস আক্রমণে আস্থা হাবিবুল বাশারের",
+        "title_en": "Habibul Bashar Expresses Confidence in Pace Attack Despite Nahid Rana's Injury Absence",
+        "summary_bn": "প্রধান নির্বাচক হাবিবুল বাশার জানিয়েছেন, চোটের কারণে নাহিদ রানার অনুপস্থিতি বড় ক্ষতি হলেও বিদ্যমান পেস আক্রমণ নিয়ে দল আশাবাদী।",
+        "summary_en": "Chief selector Habibul Bashar stated that Nahid Rana's injury absence is a major loss, but the team remains confident in the pace attack.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T15:51:03+00:00",
+        "lead_bn": "প্রধান নির্বাচক হাবিবুল বাশার জানিয়েছেন, চোটের কারণে নাহিদ রানার অনুপস্থিতি বড় ক্ষতি হলেও বিদ্যমান পেস আক্রমণ নিয়ে দল আশাবাদী।",
+        "lead_en": "Chief selector Habibul Bashar stated that Nahid Rana's injury absence is a major loss, but the team remains confident in the pace attack.",
+        "bullets_bn": [
+          "নাহিদ রানা চোটের কারণে ওয়েস্ট ইন্ডিজের বিপক্ষে প্রথম টেস্টে দল থেকে ছিটকে গেছেন।",
+          "প্রধান নির্বাচক হাবিবুল বাশার তাসকিন, ইবাদত, হাসান ও শরিফুলের ওপর পূর্ণ আস্থা প্রকাশ করেছেন।",
+          "দলের পেস আক্রমণ নিজেদের সামর্থ্য প্রমাণ করতে প্রস্তুত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Nahid Rana has been ruled out of the first Test against West Indies due to injury.",
+          "Chief selector Habibul Bashar expressed full confidence in pacers Taskin, Ebadot, Hasan, and Shoriful.",
+          "The team management remains optimistic about the depth and performance of the pace attack."
+        ],
+        "impact_bn": "ক্রিকেটপ্রেমী ও তরুণ সমর্থকরা দলের পেসারদের পারফরম্যান্স নিয়ে উজ্জীবিত থাকবেন।",
+        "impact_en": "Cricket enthusiasts and young supporters will look forward to strong performances from the pace unit.",
+        "details_bn": "বাংলাদেশ দলের তরুণ পেসার নাহিদ রানা সাম্প্রতিক সময়ে গতির ঝড়ে নজর কেড়েছেন। তবে ইনজুরির কারণে ওয়েস্ট ইন্ডিজ সিরিজের প্রথম টেস্টে তার সার্ভিস পাচ্ছে না বাংলাদেশ। তার অনুপস্থিতি দলের বোলিং কম্বিনেশনে কিছুটা প্রভাব ফেললেও তাসকিন আহমেদ ও শরিফুল ইসলামের মতো অভিজ্ঞ বোলাররা পেস ইউনিটের নেতৃত্ব দিতে প্রস্তুত রয়েছেন।",
+        "details_en": "Young pace sensation Nahid Rana has caught attention with his raw pace, but an injury has sidelined him for the first Test against West Indies. While his absence affects the bowling combination, experienced pacers like Taskin Ahmed and Shoriful Islam are ready to lead the pace unit."
       }
     }
   ]
