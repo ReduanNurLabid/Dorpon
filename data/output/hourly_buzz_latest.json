@@ -1,65 +1,65 @@
 {
-  "updated_at": "2026-10-23T04:00:45.334880",
+  "updated_at": "2026-10-23T05:00:47.315153",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "43f53c67-46f2-5169-8680-3dff8b8f581d",
-      "primary_category": "economy_business",
+      "story_id": "73f61204-16e4-568d-9e51-8bdc0e357720",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "world_diplomacy",
+        "society_education"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fcitsg7zk%2FThamm.jpg?rect=0%2C54%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "published_at": "2026-10-23T04:50:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.8088,
+      "importance_score": 4.8,
+      "rank_score": 1.7527,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/economics/uze7j7tdw0",
-          "title": "নতুন ঋণেও আইএমএফের পুরোনো শর্ত, রাজস্ব সংস্কার কতটা এগোল",
-          "snippet": "নতুন ঋণেও আইএমএফের পুরোনো শর্ত, রাজস্ব সংস্কার কতটা এগোল"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976183/%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AE%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "জেরুজালেমে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা",
+          "snippet": "জেরুজালেমে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইএমএফের নতুন ঋণেও বহাল থাকছে রাজস্ব খাতের পুরোনো সংস্কার শর্ত",
-        "title_en": "IMF Maintains Previous Revenue Reform Conditions for New Loan",
-        "summary_bn": "বাংলাদেশ নতুন চারশো পঞ্চাশ কোটি ডলার ঋণের জন্য আলোচনা চালিয়ে গেলেও আইএমএফ রাজস্ব সংস্কারের পুরোনো শর্ত বহাল রেখেছে।",
-        "summary_en": "Bangladesh faces persistent IMF revenue reform conditions during ongoing negotiations for a new four-point-five billion dollar loan.",
+        "title_bn": "জেরুজালেমে ইসরায়েলি প্রধানমন্ত্রী নেতানিয়াহুর গাড়িবহর লক্ষ্য করে হামলা",
+        "title_en": "Glass Bottle Thrown at Israeli PM Netanyahu Motorcade in Jerusalem",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "summary_en": "Unidentified individuals hurled a glass bottle at the motorcade of Israeli Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T03:30:00+00:00",
-        "lead_bn": "বাংলাদেশ নতুন চারশো পঞ্চাশ কোটি ডলার ঋণের জন্য আলোচনা চালিয়ে গেলেও আইএমএফ রাজস্ব সংস্কারের পুরোনো শর্ত বহাল রেখেছে।",
-        "lead_en": "Bangladesh faces persistent IMF revenue reform conditions during ongoing negotiations for a new four-point-five billion dollar loan.",
+        "published_at": "2026-10-23T04:50:44+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করেছে দুর্বৃত্তরা।",
+        "lead_en": "Unidentified individuals hurled a glass bottle at the motorcade of Israeli Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "বাংলাদেশ চারশো পঞ্চাশ কোটি ডলারের নতুন তিন বছর মেয়াদী ঋণ পেতে আন্তর্জাতিক মুদ্রা তহবিলের সাথে আলোচনা চালিয়ে যাচ্ছে।",
-          "আলোচনায় জাতীয় রাজস্ব বোর্ড বিভক্তিকরণ, শুল্ক ও কর ছাড় হ্রাস এবং একক ভ্যাট হার নির্ধারণের শর্তগুলো অন্তর্ভুক্ত রয়েছে।",
-          "জাতীয় রাজস্ব বোর্ড ২০৩০ সালের মধ্যে ১৫ শতাংশ একক ভ্যাট হার চালুর সময়ভিত্তিক পরিকল্পনা তৈরি করেছে।"
+          "জেরুজালেমের মাহানে ইয়েহুদা বাজারে নেতানিয়াহুর গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করা হয়।",
+          "ইসরায়েলি সংবাদমাধ্যম টাইমস অব ইসরায়েল এই হামলার খবর প্রকাশ করে।",
+          "প্রচারণার অংশ হিসেবে গভীর রাতে ওই বাজারে গিয়েছিলেন ইসরায়েলি প্রধানমন্ত্রী।"
         ],
         "bullets_en": [
-          "Bangladesh is negotiating a new four-point-five billion dollar three-year loan program with the International Monetary Fund.",
-          "Discussions continue over previous conditions including splitting the National Board of Revenue and establishing a single VAT rate.",
-          "The National Board of Revenue has prepared a timeline to implement a single fifteen percent VAT rate by twenty thirty."
+          "A glass bottle was thrown targeting the motorcade of Benjamin Netanyahu at a market in Jerusalem.",
+          "Israeli media outlet The Times of Israel reported the security breach incident.",
+          "The Israeli prime minister was visiting the Mahane Yehuda market late at night as part of a campaign tour."
         ],
-        "impact_bn": "একক ভ্যাট হার বাস্তবায়িত হলে নিত্যপ্রয়োজনীয় পণ্যের দাম ও ভোক্তাদের ওপর করের বোঝা সরাসরি প্রভাবিত হবে।",
-        "impact_en": "Implementation of a single VAT rate will directly affect consumer prices and tax burdens on everyday commodities.",
-        "details_bn": "আন্তর্জাতিক মুদ্রা তহবিলের আগের ঋণ কর্মসূচির অংশ হিসেবে জাতীয় রাজস্ব বোর্ড বিভক্ত করে রাজস্ব নীতি ও আদায় বিভাগ আলাদা করার শর্ত ছিল। ব্যাংককে অনুষ্ঠিত বার্ষিক যৌথ সভার সাইডলাইন বৈঠকে এই সংস্কারের অগ্রগতি পর্যালোচনা করা হয়। অন্তর্বর্তী সরকার অধ্যাদেশ জারি করলেও বর্তমান সরকার তা পর্যালোচনা করে। এছাড়া ব্যবসায়ীদের সাথে আলোচনা সাপেক্ষে ২০২৭ থেকে ২০৩০ সালের মধ্যে হ্রাসকৃত ভ্যাট হার তুলে দিয়ে একক ভ্যাট হার চালুর পরিকল্পনা রয়েছে।",
-        "details_en": "Under previous International Monetary Fund credit programs, conditions required splitting the National Board of Revenue into separate policy and collection departments. Progress was reviewed during sideline meetings at the joint annual gathering in Bangkok. Although an interim administration issued an ordinance, the current administration reviewed the matter. Plans are underway to phase out reduced value-added tax rates between twenty twenty-seven and twenty thirty following stakeholder consultations."
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জেরুজালেমের জনপ্রিয় রাত্রিকালীন বিনোদনকেন্দ্র মাহানে ইয়েহুদা বাজারে প্রচারাভিযানে গেলে এই নিরাপত্তা বিঘ্নিত হওয়ার ঘটনা ঘটে। সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া ভিডিওতে দেখা যায় গভীর রাতে বাজার পরিদর্শনের সময় তার গাড়িবহর লক্ষ্য করে কাচের বোতল নিক্ষেপ করা হয়। এই ঘটনা মধ্যপ্রাচ্যের রাজনৈতিক ও নিরাপত্তার বর্তমান উত্তেজনাকর পরিস্থিতির মধ্যেই ঘটল।",
+        "details_en": "The security breach occurred when Israeli Prime Minister Benjamin Netanyahu visited the popular Mahane Yehuda market in Jerusalem for a campaign tour. Social media footage captured the moment a glass bottle was hurled toward his vehicles during the late-night visit. The incident unfolds amid heightened political tensions and ongoing security concerns within Israel."
       }
     },
     {
-      "story_id": "f694f9c7-643a-5e63-9eb2-13d196a895c9",
+      "story_id": "c05a945a-38e1-5c29-a1f4-8eed9962d11f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -68,52 +68,161 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fcki1frmk%2FHouthi.jfif?rect=0%2C85%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-14%2Fdygr8lpk%2Firan-11.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T03:34:50+00:00",
+      "published_at": "2026-10-23T04:39:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5096,
+      "rank_score": 1.5721,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/huti-haamlaayy-asthir-mdhypraacy-bipaake-saudi-aarb",
-          "title": "হুতি হামলায় অস্থির মধ্যপ্রাচ্য, বিপাকে সৌদি আরব",
-          "snippet": "হুতি হামলায় অস্থির মধ্যপ্রাচ্য, বিপাকে সৌদি আরব"
+          "url": "https://www.prothomalo.com/world/middle-east/34dixjxwym",
+          "title": "হরমুজ প্রণালিতে এক রাতে ইরানের হামলায় ‘যুক্তরাষ্ট্র সংশ্লিষ্ট’ ৭টি জাহাজে আগুন",
+          "snippet": "হরমুজ প্রণালিতে এক রাতে ইরানের হামলায় ‘যুক্তরাষ্ট্র সংশ্লিষ্ট’ ৭টি জাহাজে আগুন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হুতিদের উন্নত ক্ষেপণাস্ত্র ও ড্রোন হামলায় মধ্যপ্রাচ্যে বাড়ছে সামরিক ঝুঁকি",
-        "title_en": "Rising Houthi Missile and Drone Attacks Escalating Middle East Security Risks",
-        "summary_bn": "হুতিদের উন্নত সামরিক সক্ষমতা এবং সমন্বিত হামলার মুখে মধ্যপ্রাচ্যের নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি হয়েছে।",
-        "summary_en": "Advanced military capabilities and coordinated Houthi attacks are fueling security concerns across the Middle East.",
+        "title_bn": "হরমুজ প্রণালিতে ইরানের হামলায় যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে আগুন",
+        "title_en": "Iran Attacks Seven US-Linked Oil Tankers in Strait of Hormuz",
+        "summary_bn": "ইরানি বাহিনী হরমুজ প্রণালিতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে হামলা চালিয়ে আগুন ধরিয়ে দিয়েছে।",
+        "summary_en": "Iranian forces launched attacks setting fire to seven US-linked oil tankers in the Strait of Hormuz.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T03:34:50+00:00",
-        "lead_bn": "হুতিদের উন্নত সামরিক সক্ষমতা এবং সমন্বিত হামলার মুখে মধ্যপ্রাচ্যের নিরাপত্তা নিয়ে নতুন উদ্বেগ তৈরি হয়েছে।",
-        "lead_en": "Advanced military capabilities and coordinated Houthi attacks are fueling security concerns across the Middle East.",
+        "published_at": "2026-10-23T04:39:22+00:00",
+        "lead_bn": "ইরানি বাহিনী হরমুজ প্রণালিতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজে হামলা চালিয়ে আগুন ধরিয়ে দিয়েছে।",
+        "lead_en": "Iranian forces launched attacks setting fire to seven US-linked oil tankers in the Strait of Hormuz.",
         "bullets_bn": [
-          "ইরানি নকশার ক্ষেপণাস্ত্র ও চীনা যন্ত্রাংশ ব্যবহার করে হুতিরা তাদের সামরিক সক্ষমতা উল্লেখযোগ্যভাবে বাড়িয়েছে।",
-          "সৌদি আরবের আধুনিক আকাশ প্রতিরক্ষাব্যবস্থা থাকা সত্ত্বেও সব ড্রোন ও ক্ষেপণাস্ত্র হামলা ঠেকানো সম্ভব হচ্ছে না।",
-          "প্রতিরোধী ক্ষেপণাস্ত্রের সীমিত মজুত এবং দীর্ঘমেয়াদি যুদ্ধের কারণে আঞ্চলিক স্থিতিশীলতা চরম হুমকির মুখে পড়েছে।"
+          "ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী এবং নৌমাইনের আঘাতে যুক্তরাষ্ট্র সংশ্লিষ্ট সাতটি তেলবাহী জাহাজ ক্ষতিগ্রস্ত হয়েছে।",
+          "যুক্তরাষ্ট্রের উৎসাহ ও সহায়তায় জাহাজগুলো হরমুজ প্রণালি দিয়ে চলাচল করছিল বলে জানিয়েছে তেহরান।",
+          "সামুদ্রিক অবরোধ আরোপ করাকে যুদ্ধের শামিল হিসেবে বিবেচনা করে নতুন নীতি কার্যকর করেছে ইরান।"
         ],
         "bullets_en": [
-          "Houthi forces have significantly boosted their military capabilities using Iranian-designed missiles and Chinese components.",
-          "Despite having modern air defense systems, Saudi Arabia is struggling to intercept all incoming drone and missile attacks.",
-          "Limited stockpiles of defensive missiles and prolonged warfare are severely threatening regional stability."
+          "Seven US-linked oil tankers sustained damage following attacks by Iran's Islamic Revolutionary Guard Corps and naval mines.",
+          "Tehran stated that the vessels were navigating the Strait of Hormuz with encouragement and support from Washington.",
+          "Iran has implemented a new policy treating maritime blockades as acts of war amid rising regional tensions."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে চলমান এই সংঘাত মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি শ্রমিকদের জীবনযাত্রায় অনিশ্চয়তা ও নিরাপত্তা ঝুঁকি তৈরি করতে পারে।",
-        "impact_en": "The ongoing regional conflict may create uncertainty and security risks for expatriate Bangladeshi workers residing in the Middle East.",
-        "details_bn": "ইয়েমেনের বিদ্রোহী গোষ্ঠী হুতি সাম্প্রতিক সময়ে তাদের সামরিক কৌশলে বড় ধরনের পরিবর্তন এনেছে। উন্নত প্রযুক্তির ড্রোন এবং বহুমুখী ক্ষেপণাস্ত্র ব্যবহারের ফলে তাদের আক্রমণ প্রতিহত করা আঞ্চলিক দেশগুলোর জন্য ক্রমশ কঠিন হয়ে উঠছে। এর ফলে সৌদি আরবসহ পুরো মধ্যপ্রাচ্যের ভূরাজনীতি ও নিরাপত্তা ব্যবস্থায় নতুন চ্যালেঞ্জের সৃষ্টি হয়েছে।",
-        "details_en": "Yemen's Houthi rebel group has significantly evolved its military tactics in recent times. The deployment of advanced drones and multi-vector missiles has made interception increasingly difficult for regional nations, creating fresh challenges for geopolitics and security across Saudi Arabia and the broader Middle East."
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন করে সর্বাত্মক যুদ্ধ শুরু হলে বৈশ্বিক জ্বালানি সরবরাহ ব্যাহত হয়ে জ্বালানি তেলের দাম বাড়তে পারে।",
+        "impact_en": "Escalating regional conflict could disrupt global energy supplies and drive up fuel prices for consumers worldwide.",
+        "details_bn": "ইরান ও যুক্তরাষ্ট্রের দীর্ঘদিনের ভূরাজনৈতিক উত্তেজনার কেন্দ্রে রয়েছে কৌশলগতভাবে গুরুত্বপূর্ণ হরমুজ প্রণালি, যার মধ্য দিয়ে বিশ্বের একটি বড় অংশের তেল ও জ্বালানি পরিবাহিত হয়। সম্প্রতি ইরানের বিরুদ্ধে মার্কিন আগ্রাসন ও সম্ভাব্য অবরোধ মোকাবিলায় তেহরান কঠোর অবস্থান নিয়েছে। যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য সামরিক পদক্ষেপের আশঙ্কায় মধ্যপ্রাচ্যজুড়ে নতুন করে সর্বাত্মক যুদ্ধ শুরুর শঙ্কা তৈরি হয়েছে।",
+        "details_en": "The strategic Strait of Hormuz, a vital passageway for a significant portion of global oil shipments, lies at the center of long-standing geopolitical tensions between Iran and the United States. Tehran has adopted a hardline stance to counter potential US-led maritime blockades and aggression. Amid expectations of possible military moves by the US and Israel, fears of a renewed all-out war have intensified across the Middle East."
       }
     },
     {
-      "story_id": "5d16d31d-9824-5cfc-9457-f9930c2e32de",
+      "story_id": "f7327530-9d61-5356-a93e-84a5afaccb74",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Netrokona",
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Netrokona%20gang%20rape%20accused%20jailed.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-23T05:00:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9681,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/netrokona-court-sends-2-jail-alleged-gang-rape-case-4305596",
+          "title": "Netrokona court sends 2 to jail in alleged gang rape case",
+          "snippet": "Netrokona court sends 2 to jail in alleged gang rape case"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নেত্রকোণায় সংঘবদ্ধ ধর্ষণ মামলায় দুই যুবক কারাগারে প্রেরিত",
+        "title_en": "Netrokona Court Sends Two Men to Jail in Gang Rape Case",
+        "summary_bn": "নেত্রকোণায় এক নারী শ্রমিককে সংঘবদ্ধ ধর্ষণের অভিযোগে গ্রেপ্তার দুই ব্যক্তিকে আদালতের নির্দেশে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "A Netrokona court ordered two arrested men to be sent to jail following an alleged gang rape in Durgapur upazila.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T05:00:20+00:00",
+        "lead_bn": "নেত্রকোণায় এক নারী শ্রমিককে সংঘবদ্ধ ধর্ষণের অভিযোগে গ্রেপ্তার দুই ব্যক্তিকে আদালতের নির্দেশে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "A Netrokona court ordered two arrested men to be sent to jail following an alleged gang rape in Durgapur upazila.",
+        "bullets_bn": [
+          "পুলিশ নেত্রকোণার দুর্গাপুর উপজেলা থেকে মামলার প্রধান দুই অভিযুক্তকে গ্রেপ্তার করে আদালতে হাজির করে।",
+          "গ্রেপ্তারকৃতরা হলেন ২৫ বছর বয়সী হাসিবুল হাসান এবং ২৬ বছর বয়সী হাফিজুল হাসান রবি।",
+          "পুলিশি হস্তক্ষেপে বিষয়টি প্রকাশ পাওয়ার পর পলাতক আরেক অভিযুক্তকে গ্রেপ্তারে অভিযান চলছে।"
+        ],
+        "bullets_en": [
+          "Police arrested two accused men from Durgapur upazila and produced them before the court.",
+          "The arrested individuals are identified as 25-year-old Hasibul Hasan and 26-year-old Hafizul Hasan Rabbi.",
+          "Authorities are continuing efforts to apprehend another suspect who remains absconding following the incident."
+        ],
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও অপরাধের বিচারহীনতা রোধে দ্রুত আইনি পদক্ষেপ গ্রহণের প্রয়োজনীয়তা তুলে ধরে এ ঘটনা।",
+        "impact_en": "This case highlights the ongoing necessity for swift law enforcement intervention and legal accountability in crimes against women.",
+        "details_bn": "ঢাকা থেকে গ্রামের বাড়িতে ফেরা এক নারী পোশাক শ্রমিককে দুর্গাপুরে সংঘবদ্ধ ধর্ষণের অভিযোগ ওঠে। ঘটনার পর স্থানীয়ভাবে বিষয়টি সালিশের মাধ্যমে মীমাংসার চেষ্টা করা হলেও পুলিশ খবর পেয়ে দ্রুত ঘটনাস্থলে পৌঁছে দুজনকে গ্রেপ্তার করে। ঘটনার সাথে জড়িত অপর এক ব্যক্তি এখনও পলাতক রয়েছে এবং পুলিশ তাকে গ্রেপ্তারের চেষ্টা চালিয়ে যাচ্ছে।",
+        "details_en": "A female garment worker visiting her village home in Durgapur was allegedly gang-raped by local youths. While locals initially attempted to arbitrate the matter, police intervened upon receiving information and arrested two suspects. A third suspect remains at large as law enforcement continues their pursuit."
+      }
+    },
+    {
+      "story_id": "42be0fdc-976d-5430-8185-22d932c05a9d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T04:56:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9274,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171079",
+          "title": "বরিশালে ইয়াবাসহ সাবেক সেনাসদস্য ও তার স্ত্রী গ্রেফতার",
+          "snippet": "বরিশালে ইয়াবাসহ সাবেক সেনাসদস্য ও তার স্ত্রী গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বরিশালে ২৩৫ পিস ইয়াবাসহ সাবেক সেনাসদস্য ও স্ত্রী গ্রেফতার",
+        "title_en": "Former Army Member and Wife Arrested with Yaba in Barishal",
+        "summary_bn": "বরিশালে বিপুল পরিমাণ মাদকদ্রব্যসহ এক সাবেক সেনাসদস্য ও তার স্ত্রীকে গ্রেফতার করেছে কোতোয়ালি মডেল থানা পুলিশ।",
+        "summary_en": "Kotwali Model Police Station arrested a former army member and his wife with a significant amount of narcotics in Barishal.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T04:56:17+00:00",
+        "lead_bn": "বরিশালে বিপুল পরিমাণ মাদকদ্রব্যসহ এক সাবেক সেনাসদস্য ও তার স্ত্রীকে গ্রেফতার করেছে কোতোয়ালি মডেল থানা পুলিশ।",
+        "lead_en": "Kotwali Model Police Station arrested a former army member and his wife with a significant amount of narcotics in Barishal.",
+        "bullets_bn": [
+          "কোতোয়ালি মডেল থানা পুলিশ অভিযান চালিয়ে ওই দম্পতিকে আটক করে।",
+          "তাদের কাছ থেকে ২৩৫ পিস ইয়াবা ট্যাবলেট উদ্ধার করা হয়।",
+          "গ্রেফতারকৃতদের বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে আইনি প্রক্রিয়া শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "Kotwali Model Police Station conducted a drive to arrest the couple.",
+          "A total of 235 pieces of Yaba tablets were recovered from their possession.",
+          "Legal proceedings under the Narcotics Control Act have been initiated against the arrestees."
+        ],
+        "impact_bn": "আইনশৃঙ্খলা রক্ষা এবং মাদকের বিস্তার রোধে এ ধরনের নিয়মিত অভিযান জনমনে স্বস্তি বাড়ায়।",
+        "impact_en": "Regular enforcement drives against narcotics help curb local peddling and enhance community safety.",
+        "details_bn": "মাদকদ্রব্য উদ্ধার ও কারবারিদের দমনে দেশজুড়ে আইনশৃঙ্খলা বাহিনী বিভিন্ন সময়ে অভিযান পরিচালনা করে আসছে। সাম্প্রতিক সময়ে সাবেক বা বর্তমান বিভিন্ন পেশাজীবীদের অপরাধমূলক কার্যক্রমে জড়ানোর ঘটনা উদ্বেগ বাড়িয়েছে। সংশ্লিষ্ট পুলিশ প্রশাসন জানিয়েছে, মাদকের বিরুদ্ধে জিরো টলারেন্স নীতি বাস্তবায়নে এ ধরনের অভিযান অব্যাহত থাকবে।",
+        "details_en": "Law enforcement agencies across the country regularly conduct drives to recover narcotics and curb drug trafficking. Recent incidents involving individuals from various professional backgrounds in illicit activities have raised concerns. Police administration stated that operations will continue to enforce a zero-tolerance policy against narcotics."
+      }
+    },
+    {
+      "story_id": "a0feca01-dded-5399-8291-0d759a9980c1",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
@@ -124,50 +233,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T04:01:00+00:00",
+      "published_at": "2026-10-23T04:38:11+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9747,
+      "rank_score": 0.7776,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976157/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%98%E0%A7%81%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%B8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F",
-          "title": "কক্সবাজারে ঘুরতে এসে নিরাপত্তা নিয়ে দুশ্চিন্তায় থাকতে হবে, কখনও ভাবিনি",
-          "snippet": "কক্সবাজারে ঘুরতে এসে নিরাপত্তা নিয়ে দুশ্চিন্তায় থাকতে হবে, কখনও ভাবিনি"
+          "url": "https://www.banglatribune.com/business/976184/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%95%E0%A6%AE%E0%A6%B2%E0%A7%8B-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%AD%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%A4%C2%A0",
+          "title": "আরও কমলো সোনা-রুপার দাম, ভরি কত",
+          "snippet": "আরও কমলো সোনা-রুপার দাম, ভরি কত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কক্সবাজারে পর্যটক নিরাপত্তা নিয়ে নতুন উদ্বেগ সৃষ্টি হয়েছে",
-        "title_en": "New Security Concerns Emerge for Tourists in Cox's Bazar",
-        "summary_bn": "সাম্প্রতিক প্রাণঘাতী দুর্ঘটনা ও অগ্নিকাণ্ডের ঘটনায় দেশের প্রধান পর্যটন কেন্দ্র কক্সবাজারে পর্যটকদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ দেখা দিয়েছে।",
-        "summary_en": "Recent fatal accidents and resort fires have sparked fresh concerns over tourist safety in Bangladesh's premier coastal hub.",
+        "title_bn": "দেশের বাজারে আবারও কমলো সোনা ও রুপার দাম",
+        "title_en": "Gold and Silver Prices Decreased Again in Local Markets",
+        "summary_bn": "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে তেজাবি সোনা ও রুপার দাম কমানোর পর নতুন দর কার্যকর করেছে।",
+        "summary_en": "Bangladesh Jeweller Association implemented reduced prices for gold and silver across local markets following drops in bullion costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:01:00+00:00",
-        "lead_bn": "সাম্প্রতিক প্রাণঘাতী দুর্ঘটনা ও অগ্নিকাণ্ডের ঘটনায় দেশের প্রধান পর্যটন কেন্দ্র কক্সবাজারে পর্যটকদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ দেখা দিয়েছে।",
-        "lead_en": "Recent fatal accidents and resort fires have sparked fresh concerns over tourist safety in Bangladesh's premier coastal hub.",
+        "published_at": "2026-10-23T04:38:11+00:00",
+        "lead_bn": "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে তেজাবি সোনা ও রুপার দাম কমানোর পর নতুন দর কার্যকর করেছে।",
+        "lead_en": "Bangladesh Jeweller Association implemented reduced prices for gold and silver across local markets following drops in bullion costs.",
         "bullets_bn": [
-          "ইনানীর একটি রিসোর্টে অগ্নিকাণ্ডে ১০ জন পর্যটকের প্রাণহানির ঘটনা ঘটে",
-          "হিমছড়ি সৈকতে গোসলে নেমে প্রাণহানির মতো ঘটনা পর্যটন খাতে উদ্বেগ বাড়িয়েছে",
-          "নিরাপত্তা ঘাটতি মোকাবিলায় কঠোর পদক্ষেপ গ্রহণের দাবি জানিয়েছেন পর্যটকরা"
+          "বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন দেশের বাজারে সোনার ও রুপার গহনার দাম কমিয়ে নতুন দর কার্যকর করেছে।",
+          "নতুন মূল্য অনুযায়ী ২২ ক্যারেটের প্রতি ভরি সোনার দাম নির্ধারণ করা হয়েছে ২ লাখ ২৪ হাজার ৩৩৬ টাকা এবং রুপার ভরি ৩ হাজার ৮৪৫ টাকা।",
+          "নতুন নির্ধারিত এই দর সংশ্লিষ্ট কার্যদিবসের সকাল থেকে দেশজুড়ে কার্যকর করা হয়েছে।"
         ],
         "bullets_en": [
-          "Ten tourists lost their lives in a sudden fire at an Inani resort.",
-          "Repeated drowning and fatal incidents at Himchari beach alarmed visitors.",
-          "Stakeholders are demanding immediate safety audits and enhanced emergency responses."
+          "Bangladesh Jeweller Association reduced and implemented lower prices for gold and silver jewelry in domestic markets.",
+          "Under the revised rates, 22-carat gold is priced at BDT 2,24,336 per bhori, and silver is set at BDT 3,845 per bhori.",
+          "The newly adjusted price schedule has been officially made effective from the morning of the implementation day."
         ],
-        "impact_bn": "নিরাপত্তাহীনতার কারণে দেশের পর্যটন শিল্প বড় ধরনের অর্থনৈতিক ক্ষতির মুখে পড়তে পারে।",
-        "impact_en": "Persistent safety failures risk dampening domestic tourism and harming local hospitality businesses.",
-        "details_bn": "বিশ্বের দীর্ঘতম সমুদ্রসৈকত কক্সবাজার দেশের পর্যটন অর্থনীতির প্রধান চালিকাশক্তি। প্রতিবছর এখানে লাখো পর্যটক আসেন। তবে সাম্প্রতিক সময়ে ইনানীর রিসোর্টে অগ্নিকাণ্ড এবং হিমছড়ি সৈকতে গোসল করতে গিয়ে প্রাণহানির মতো একের পর এক দুর্ঘটনা পর্যটকদের নিরাপত্তা ব্যবস্থাপনার ভঙ্গুর দিকগুলো উন্মোচন করেছে।",
-        "details_en": "Cox's Bazar is Bangladesh's prime coastal tourism hub, drawing millions of visitors annually. However, recent tragic incidents, including a fatal resort fire in Inani and drowning casualties at Himchari beach, have exposed critical gaps in local safety protocols and emergency management, threatening the viability of the tourism sector."
+        "impact_bn": "সোনা ও রুপার দাম কমায় সাধারণ ক্রেতা ও গহনাপ্রেমীরা কিছুটা স্বস্তিতে কেনাকাটা করতে পারবেন।",
+        "impact_en": "Lower gold and silver prices provide financial relief for ordinary consumers and buyers purchasing jewelry.",
+        "details_bn": "দেশের বাজারে মূল্যবান ধাতুর দাম নির্ধারণ ও সমন্বয় করে থাকে বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বাজুস। আন্তর্জাতিক বাজারের সাথে সামঞ্জস্য রেখে এবং স্থানীয় বুলিয়ন বা তেজাবি সোনার দামের ওঠানামার ওপর ভিত্তি করে প্রায়ই সোনার নতুন দাম নির্ধারণ করা হয়। এর আগেও আন্তর্জাতিক বাজারের দরের সাথে মিল রেখে দেশের বাজারে স্বর্ণের দামে বেশ কয়েকবার পরিবর্তন এনেছে সংগঠনটি।",
+        "details_en": "The Bangladesh Jeweller Association regularly reviews and adjusts precious metal prices in the domestic market. Price revisions are typically aligned with international market trends and fluctuations in local bullion costs. The association frequently alters retail prices to reflect these global economic shifts and local supply dynamics."
       }
     },
     {
-      "story_id": "1c772607-24a7-574a-9fdc-98472130fd8b",
+      "story_id": "d8fe43ae-3af8-580b-ab75-0afdf8865286",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness"
@@ -178,156 +287,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T04:00:00+00:00",
+      "published_at": "2026-10-23T04:27:26+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9651,
+      "rank_score": 0.7076,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976099/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E2%80%99%E0%A6%85%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%A4%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A1%E0%A7%8B%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%80",
-          "title": "ব্যালন ডি’অর জিততে পারেননি পেলে-ম্যারাডোনা, দায়ী ছিল যে নিয়ম",
-          "snippet": "ব্যালন ডি’অর জিততে পারেননি পেলে-ম্যারাডোনা, দায়ী ছিল যে নিয়ম"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/cricket/1171072",
+          "title": "ওয়েস্ট ইন্ডিজের বিপক্ষে বাংলাদেশের প্রথম টেস্টের দল ঘোষণা",
+          "snippet": "ওয়েস্ট ইন্ডিজের বিপক্ষে বাংলাদেশের প্রথম টেস্টের দল ঘোষণা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যে নিয়মের কারণে ব্যালন ডিঅর জিততে পারেননি পেলে ও ম্যারাডোনা",
-        "title_en": "Why Pele and Maradona Never Won the Ballon dOr",
-        "summary_bn": "ফুটবল ইতিহাসের দুই কিংবদন্তি পেলে ও ম্যারাডোনা পুরস্কারটির নিয়মের সীমাবদ্ধতার কারণে তাদের ক্যারিয়ারে কখনো ব্যালন ডিঅর জিততে পারেননি।",
-        "summary_en": "Football legends Pele and Maradona never won the Ballon dOr during their careers due to the restrictive rules of the award.",
+        "title_bn": "ওয়েস্ট ইন্ডিজের বিপক্ষে প্রথম টেস্টের জন্য দল ঘোষণা করল বিসিবি",
+        "title_en": "BCB Announces Squad for First Test Against West Indies",
+        "summary_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে ব্যর্থতার পর ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম ম্যাচের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
+        "summary_en": "Following a dismal run in the tri-nation ODI series in the UAE, the Bangladesh Cricket Board has announced the squad for the opening Test against West Indies.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T04:00:00+00:00",
-        "lead_bn": "ফুটবল ইতিহাসের দুই কিংবদন্তি পেলে ও ম্যারাডোনা পুরস্কারটির নিয়মের সীমাবদ্ধতার কারণে তাদের ক্যারিয়ারে কখনো ব্যালন ডিঅর জিততে পারেননি।",
-        "lead_en": "Football legends Pele and Maradona never won the Ballon dOr during their careers due to the restrictive rules of the award.",
+        "published_at": "2026-10-23T04:27:26+00:00",
+        "lead_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে ব্যর্থতার পর ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম ম্যাচের দল ঘোষণা করেছে বাংলাদেশ ক্রিকেট বোর্ড।",
+        "lead_en": "Following a dismal run in the tri-nation ODI series in the UAE, the Bangladesh Cricket Board has announced the squad for the opening Test against West Indies.",
         "bullets_bn": [
-          "পেলে তিনবার বিশ্বকাপ জিতলেও এবং ম্যারাডোনা একা আর্জেন্টিনাকে শিরোপা এনে দিলেও তারা এই পুরস্কার পাননি।",
-          "সেসময়ে পুরস্কারটির প্রতিযোগিতামূলক সংস্করণে ইউরোপের বাইরে খেলা ফুটবলারদের অন্তর্ভুক্ত করা হতো না।",
-          "ফিফার নিয়মের পরিবর্তনের পর এই কিংবদন্তিদের অনারারি ব্যালন ডিঅর প্রদান করা হয়।"
+          "ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচের টেস্ট সিরিজের প্রথম টেস্টের জন্য দল ঘোষণা করেছে বিসিবি",
+          "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় ওয়ানডে সিরিজে চরম ব্যর্থতার পর টেস্ট ফরম্যাটে ফিরছে বাংলাদেশ",
+          "আসন্ন টেস্ট সিরিজকে কেন্দ্র করে স্কোয়াডে বেশ কিছু পরিবর্তন এনেছে ক্রিকেট বোর্ড"
         ],
         "bullets_en": [
-          "Pele won three World Cups and Maradona inspired Argentina to victory, yet both missed the prestigious award.",
-          "Rules at the time excluded players who did not play in European club leagues from contention.",
-          "Both legends were later awarded honorary Ballon dOr trophies after rule adjustments by FIFA and France Football."
+          "The Bangladesh Cricket Board has announced the squad for the opening match of the two-Test series against West Indies.",
+          "Bangladesh is returning to the Test format following a major failure in the tri-nation ODI series in the UAE.",
+          "The cricket board has made several changes to the squad ahead of the upcoming Test series."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফুটবল ইতিহাসের সর্বকালের সেরা খেলোয়াড় হিসেবে বিবেচিত হলেও পেলে এবং ডিয়েগো ম্যারাডোনা তাদের পেশাদার ক্যারিয়ারে কখনো ব্যালন ডিঅর জিততে পারেননি। মূলত ফ্রেন্স ফুটবল ম্যাগাজিনের তৎকালীন নিয়মের কারণে ইউরোপের বাইরে খেলা ফুটবলাররা এই পুরস্কারের জন্য বিবেচিত হতেন না। পেলে তার পুরো ক্যারিয়ার ব্রাজিলের সান্তোস এবং যুক্তরাষ্ট্রের নিউ ইয়র্ক কসমসে খেলেছেন। পরবর্তীতে ১৯৯5 সালে পেলেকে অনারারি ব্যালন ডিঅর এবং ফিফার শতবর্ষী সম্মাননা দেওয়া হয়। একইভাবে ম্যারাডোনাও ইউরোপীয় নিয়মের বেড়াজালে এই পুরস্কার থেকে বঞ্চিত হন।",
-        "details_en": "Despite being widely regarded as two of the greatest players in football history, Pele and Diego Maradona never won a competitive Ballon dOr. At the time, France Football restricted the award exclusively to European players, barring South American legends who played predominantly outside Europe. Pele spent most of his career with Santos and the New York Cosmos, while Maradona achieved his greatest success with Napoli and Boca Juniors. France Football later acknowledged these historical anomalies by awarding honorary titles to both icons."
-      }
-    },
-    {
-      "story_id": "5937a158-e641-5d8d-98f1-b641f70ad81b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T03:45:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8351,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976178/%E0%A6%A6%E0%A6%B2%E0%A7%80%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%82%E0%A6%B6-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE",
-          "title": "দলীয় কাজে অংশ নেওয়ায় কার্যক্রম নিষিদ্ধ আ.লীগ নেতা গ্রেফতার",
-          "snippet": "দলীয় কাজে অংশ নেওয়ায় কার্যক্রম নিষিদ্ধ আ.লীগ নেতা গ্রেফতার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে নিষিদ্ধ আওয়ামী লীগ কার্যক্রমে অংশ নেওয়ায় নেতা গ্রেফতার",
-        "title_en": "Awami League Leader Arrested for Participating in Banned Activities in Laxmipur",
-        "summary_bn": "রাষ্ট্রের নিষেধাজ্ঞা অমান্য করে রাজনৈতিক কার্যক্রমে অংশ নেওয়ার অভিযোগে লক্ষ্মীপুরের রায়পুরে এক আওয়ামী লীগ নেতাকে গ্রেফতার করেছে পুলিশ।",
-        "summary_en": "Police arrested an Awami League leader in Laxmipur's Raipur for participating in political activities in defiance of state bans.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T03:45:46+00:00",
-        "lead_bn": "রাষ্ট্রের নিষেধাজ্ঞা অমান্য করে রাজনৈতিক কার্যক্রমে অংশ নেওয়ার অভিযোগে লক্ষ্মীপুরের রায়পুরে এক আওয়ামী লীগ নেতাকে গ্রেফতার করেছে পুলিশ।",
-        "lead_en": "Police arrested an Awami League leader in Laxmipur's Raipur for participating in political activities in defiance of state bans.",
-        "bullets_bn": [
-          "রায়পুর থানার পুলিশ শহরের দেনায়েতপুর এলাকা থেকে ইসমাইল মাহমুদ পাটওয়ারী নামের ওই স্থানীয় নেতাকে গ্রেফতার করে।",
-          "গ্রেফতারকৃত ইসমাইল মাহমুদ পাটওয়ারী রায়পুর উপজেলা ছাত্রলীগের সাবেক ও স্থানীয় আওয়ামী লীগের রাজনীতির সাথে জড়িত।",
-          "পুলিশের পক্ষ থেকে জানানো হয়েছে যে তার বিরুদ্ধে আইনি প্রক্রিয়া অনুসরণ করে পরবর্তী পদক্ষেপ নেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Police from Raipur station arrested local leader Ismail Mahmud Patwary from the Denaetpur area of the town.",
-          "The arrested Ismail Mahmud Patwary is linked to local Awami League politics and previously served in the Upazila Chhatra League.",
-          "Police stated that legal procedures are underway to take necessary subsequent actions against him."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ছাত্রলীগ ও আওয়ামী লীগের রাজনীতি নিষিদ্ধ হওয়ার পর দেশের বিভিন্ন স্থানে আইনশৃঙ্খলা রক্ষাকারী বাহিনী কড়া নজরদারি বজায় রাখছে। সরকারের জারি করা নিষেধাজ্ঞা অমান্য করে গোপনে দলীয় কর্মকাণ্ড পরিচালনার চেষ্টা করায় প্রশাসন তৎপর রয়েছে। তারই ধারাবাহিকতায় লক্ষ্মীপুরের রায়পুরে অভিযান চালিয়ে এই স্থানীয় নেতাকে আটক করা হয়। আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে রাখতে এ ধরনের অভিযান অব্যাহত রয়েছে।",
-        "details_en": "Following the ban on Chhatra League and Awami League politics, law enforcement agencies have maintained strict surveillance across the country. Authorities remain vigilant as individuals attempt to conduct clandestine party activities in violation of government bans. In line with this, the local leader was detained during a drive in Raipur, Laxmipur. Such operations continue to maintain law and order stability."
-      }
-    },
-    {
-      "story_id": "e20a05b5-709f-5130-aac8-ea93aa57bb99",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T03:44:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8227,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976177/%E0%A7%A9%E0%A7%A7-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%B0",
-          "title": "৩১ দিনেই তদন্ত শেষ, অপ্রতিম হত্যায় চার আসামির মধ্যে দুইজন কিশোর",
-          "snippet": "৩১ দিনেই তদন্ত শেষ, অপ্রতিম হত্যায় চার আসামির মধ্যে দুইজন কিশোর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষকপুত্রের হত্যা মামলায় চারজনের বিরুদ্ধে অভিযোগপত্র দাখিল",
-        "title_en": "Police Submit Charge Sheet in Comilla University Teacher Son Murder Case",
-        "summary_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষকের ১৩ বছর বয়সী ছেলে ইশায়াত শাহরিয়ার অপ্রতিম হত্যা মামলায় দুই কিশোরসহ চারজনকে অভিযুক্ত করে আদালতে অভিযোগপত্র জমা দিয়েছে পুলিশ।",
-        "summary_en": "Police have submitted a charge sheet in court accusing four individuals, including two juveniles, in the murder of thirteen-year-old Ishayat Shahriar Protik.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T03:44:12+00:00",
-        "lead_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষকের ১৩ বছর বয়সী ছেলে ইশায়াত শাহরিয়ার অপ্রতিম হত্যা মামলায় দুই কিশোরসহ চারজনকে অভিযুক্ত করে আদালতে অভিযোগপত্র জমা দিয়েছে পুলিশ।",
-        "lead_en": "Police have submitted a charge sheet in court accusing four individuals, including two juveniles, in the murder of thirteen-year-old Ishayat Shahriar Protik.",
-        "bullets_bn": [
-          "পুলিশ চার আসামির বিরুদ্ধে হত্যাকাণ্ডে জড়িত থাকার প্রাথমিক প্রমাণ পেয়ে আদালতে অভিযোগপত্র দাখিল করেছে।",
-          "ঘটনার মাত্র ৩১ দিনের মাথায় পুলিশ তদন্ত সম্পন্ন করে আদালতে এই অভিযোগপত্র জমা দেয়।",
-          "অভিযুক্ত চারজনের মধ্যে দুজন অপ্রাপ্তবয়স্ক বা কিশোর রয়েছে বলে জানিয়েছে তদন্তকারী কর্মকর্তা।"
-        ],
-        "bullets_en": [
-          "Police submitted the formal charge sheet to the court after finding preliminary evidence against four accused individuals.",
-          "Investigators completed the probe and filed the charges within just thirty-one days of the incident.",
-          "The group of four accused includes two juveniles, according to the official police findings."
-        ],
-        "impact_bn": "দ্রুত তদন্ত শেষ হওয়ায় বিচার প্রক্রিয়ায় অপরাধীদের দৃষ্টান্তমূলক শাস্তি নিশ্চিত হওয়ার আশা বাড়িয়েছে।",
-        "impact_en": "Swift investigation and charge sheet submission raise public expectations for speedy justice and accountability in heinous crimes.",
-        "details_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের বাংলা বিভাগের সহযোগী অধ্যাপক নাহিদা বেগমের ১৩ বছর বয়সী ছেলে ইশায়াত শাহরিয়ার ওরফে অপ্রতিম হত্যার শিকার হয়। মরদেহ উদ্ধারের পর চাঞ্চল্য সৃষ্টি হলে পুলিশ তাৎক্ষণিকভাবে তদন্ত শুরু করে। মাত্র ৩১ দিনের মধ্যে তদন্ত শেষ করে আদালতে অভিযোগপত্র দাখিল করায় বিচার প্রক্রিয়া দ্রুত শুরু হওয়ার পথ উন্মুক্ত হয়েছে। মামলার চার আসামির মধ্যে দুজন কিশোর থাকায় বিচারটি শিশু আইন অনুযায়ী পরিচালিত হবে।",
-        "details_en": "Ishayat Shahriar Protik, the thirteen-year-old son of Comilla University Bangla department associate professor Nahida Begum, was found dead, sparking widespread outrage. Police launched an immediate investigation and concluded the probe within thirty-one days, submitting a formal charge sheet naming four suspects, including two juveniles. The rapid turnaround accelerates the judicial process under applicable legal frameworks for juvenile and adult offenders."
+        "impact_bn": "জাতীয় দলের সাম্প্রতিক পারফরম্যান্স নিয়ে হতাশ ক্রীড়াপ্রেমী ও তরুণ দর্শকরা আসন্ন সিরিজে ঘুরে দাঁড়ানোর প্রত্যাশা করছেন।",
+        "impact_en": "Cricket fans and young supporters disappointed by recent national team performances look forward to a turnaround in the upcoming series.",
+        "details_bn": "সংযুক্ত আরব আমিরাতে অনুষ্ঠিত ত্রিদেশীয় ওয়ানডে সিরিজে আশানুরূপ ফল করতে পারেনি বাংলাদেশ দল। ওই প্রতিযোগিতায় চরম ব্যর্থতার পর এবার লাল বলের ক্রিকেটে ঘুরে দাঁড়ানোর মিশনে নামছে দল। ওয়েস্ট ইন্ডিজের বিপক্ষে এই হোম বা অ্যাওয়ে সিরিজে ভালো পারফরম্যান্স করে নিজেদের টেস্ট ফর্ম ফিরে পেতে মুখিয়ে আছে টাইগাররা।",
+        "details_en": "The Bangladesh team failed to deliver satisfactory results in the tri-nation ODI series held in the UAE. Following that extreme disappointment in the limited-overs format, the team is now embarking on a red-ball cricket mission to bounce back. The Tigers are eager to regain their Test form through strong performances in this series against West Indies."
       }
     }
   ]
