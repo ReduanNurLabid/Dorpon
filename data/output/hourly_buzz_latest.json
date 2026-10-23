@@ -1,67 +1,12 @@
 {
-  "updated_at": "2026-10-23T01:00:48.834378",
+  "updated_at": "2026-10-23T02:00:51.421711",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "8bff36b4-db78-5714-bc63-e4f480972ba2",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T00:32:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4786,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976167/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A7%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%80-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE",
-          "title": "অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা, ইউপি সদস্য আটক",
-          "snippet": "অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা, ইউপি সদস্য আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজশাহীতে সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা তোলার সময় ইউপি সদস্য আটক",
-        "title_en": "Union Parishad Member Detained for Embezzling Disability Allowances in Rajshahi",
-        "summary_bn": "রাজশাহীর বাগমারায় অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা আত্মসাতের অভিযোগে এক ইউপি সদস্যকে আটক করেছে স্থানীয়রা।",
-        "summary_en": "Locals in Bagmara upazila detained a local union parishad member over allegations of embezzling disability allowance funds using fake beneficiary lists.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T00:32:33+00:00",
-        "lead_bn": "রাজশাহীর বাগমারায় অর্ধশতাধিক সুস্থ ব্যক্তির নামে প্রতিবন্ধী ভাতা আত্মসাতের অভিযোগে এক ইউপি সদস্যকে আটক করেছে স্থানীয়রা।",
-        "lead_en": "Locals in Bagmara upazila detained a local union parishad member over allegations of embezzling disability allowance funds using fake beneficiary lists.",
-        "bullets_bn": [
-          "বাগমারা উপজেলায় প্রতিবন্ধী ভাতার টাকা তুলতে গিয়ে স্থানীয়দের হাতে আটক হন শহিদুল ইসলাম নামের ওই ইউপি সদস্য।",
-          "অভিযুক্ত সদস্যের কাছ থেকে জব্দ করা ১২টি সিম কার্ডের মধ্যে ১০টি মোবাইল ফিন্যান্সিয়াল সার্ভিসের লেনদেনে ব্যবহৃত হচ্ছিল।",
-          "উপজেলা সমাজসেবা কর্মকর্তার প্রাথমিক তদন্তে ভাতার তালিকায় অনিয়ম ও দুর্নীতির সত্যতা পাওয়া গেছে।"
-        ],
-        "bullets_en": [
-          "Union Parishad member Shahidul Islam was caught red-handed by locals while attempting to withdraw disability allowances.",
-          "Authorities confiscated ten active SIM cards out of twelve found in his possession during the detention.",
-          "The upazila social services officer confirmed initial findings of financial irregularities following a preliminary investigation."
-        ],
-        "impact_bn": "দুর্নীতির কারণে প্রকৃত প্রতিবন্ধী ও সুবিধাবঞ্চিত নাগরিকরা তাদের প্রাপ্য সরকারি সহায়তা থেকে বঞ্চিত হচ্ছেন।",
-        "impact_en": "Genuine disabled citizens and vulnerable populations are deprived of crucial state financial assistance due to local corruption.",
-        "details_bn": "রাজশাহীর বাগমারায় সামাজিক নিরাপত্তা জালের আওতায় বরাদ্দকৃত প্রতিবন্ধী ভাতার অর্থ আত্মসাতের ঘটনা এটি। প্রাথমিক তদন্তে জানা যায়, অভিযুক্ত ইউপি সদস্য নিজের ও স্বজনদের পাশাপাশি এলাকার অর্ধশতাধিক সুস্থ-সবল ব্যক্তিকে প্রতিবন্ধী তালিকায় অন্তর্ভুক্ত করেছিলেন। মোবাইল ফিন্যান্সিয়াল সার্ভিসের মাধ্যমে দীর্ঘদিন ধরে এই ভাতার অর্থ হাতিয়ে নেওয়া হচ্ছিল। স্থানীয়দের সন্দেহ হওয়ায় বিষয়টি হাতেনাতে ধরে ফেলা হয় এবং পরবর্তীতে উপজেলা প্রশাসন ও সমাজসেবা অধিদপ্তর এ বিষয়ে আইনি পদক্ষেপ গ্রহণ করে।",
-        "details_en": "This incident highlights systemic vulnerabilities in the distribution of social safety net allowances in rural Bangladesh. The accused representative allegedly exploited digital financial services by enrolling dozens of able-bodied individuals, including relatives, onto the government disability registry. Local vigilance exposed the scheme, prompting immediate administrative intervention and investigation by the social services department to recover embezzled public funds."
-      }
-    },
-    {
-      "story_id": "075b5a1d-29ad-556e-9933-fc2506924d10",
+      "story_id": "1488420a-f8d5-5b21-ba86-3e87f6c4b619",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
@@ -69,165 +14,214 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T00:26:18+00:00",
+      "published_at": "2026-10-23T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7007,
+      "rank_score": 0.9637,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976166/%E0%A6%98%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%9D%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%9A%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8",
-          "title": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২",
-          "snippet": "ঘরের মেঝের নিচে মাদকের গোডাউন, গ্রেফতার ২"
+          "url": "https://www.banglatribune.com/law-and-crime/976129/%E0%A6%96%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A7%87%E0%A6%AA%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%8F%E0%A6%A4-%C2%A0%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87",
+          "title": "খুনিরা বেপরোয়া, এত অস্ত্র আসে কোথা থেকে?",
+          "snippet": "খুনিরা বেপরোয়া, এত অস্ত্র আসে কোথা থেকে?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজশাহীতে ঘরের মেঝে খুঁড়ে গোপন মাদকের গোডাউন উদ্ঘাটন, গ্রেফতার ২",
-        "title_en": "Police Unearth Secret Underground Drug Den Beneath Floor in Rajshahi, Two Arrested",
-        "summary_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের টাইলসের নিচে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকাসহ দুই মাদক কারবারিকে গ্রেফতার করেছে পুলিশ।",
-        "summary_en": "Police arrested two drug dealers and recovered large quantities of narcotics and cash from a secret hideout beneath a floor in Rajshahi.",
+        "title_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতিতে দেশজুড়ে প্রকাশ্য গুলিবর্ষণ ও হত্যাকাণ্ডের ঘটনা বাড়ছে",
+        "title_en": "Public Shootings and Murders Surge Across Country Amid Deteriorating Law Order",
+        "summary_bn": "দেশের বিভিন্ন স্থানে হেলমেট পরিহিত দুর্বৃত্তদের অতর্কিত গুলিবর্ষণে সাংবাদিকসহ একাধিক নাগরিক নিহত হওয়ার ঘটনায় জনমনে তীব্র আতঙ্ক সৃষ্টি হয়েছে।",
+        "summary_en": "A surge in targeted shootings by helmet-clad assailants across the country, including the killing of a journalist, has sparked severe public panic.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T00:26:18+00:00",
-        "lead_bn": "রাজশাহীর কাটাখালীতে ঘরের মেঝের টাইলসের নিচে তৈরি গোপন গোডাউন থেকে বিপুল পরিমাণ মাদক ও নগদ টাকাসহ দুই মাদক কারবারিকে গ্রেফতার করেছে পুলিশ।",
-        "lead_en": "Police arrested two drug dealers and recovered large quantities of narcotics and cash from a secret hideout beneath a floor in Rajshahi.",
+        "published_at": "2026-10-23T02:00:00+00:00",
+        "lead_bn": "দেশের বিভিন্ন স্থানে হেলমেট পরিহিত দুর্বৃত্তদের অতর্কিত গুলিবর্ষণে সাংবাদিকসহ একাধিক নাগরিক নিহত হওয়ার ঘটনায় জনমনে তীব্র আতঙ্ক সৃষ্টি হয়েছে।",
+        "lead_en": "A surge in targeted shootings by helmet-clad assailants across the country, including the killing of a journalist, has sparked severe public panic.",
         "bullets_bn": [
-          "রাজশাহীর কাটাখালীতে বিশেষ কৌশলে নির্মিত গোপন গোডাউন থেকে মাদক উদ্ধার করা হয়।",
-          "অভিযানে তিন হাজার সাতশ পিস ট্যাপেন্টাডল ট্যাবলেট, এক কেজি তিনশ গ্রাম গাঁজা এবং ১১ লাখ ৬৩ হাজার ৯৬০ টাকা জব্দ করা হয়।",
-          "ঘটনায় জড়িত সন্দেহে দুই ব্যক্তিকে গ্রেফতার করে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।"
+          "নেত্রকোনা ও সীতাকুণ্ডসহ বিভিন্ন এলাকায় পরপর কয়েকটি প্রকাশ্য গুলিবর্ষণের ও হত্যার ঘটনা ঘটে।",
+          "দুর্বৃত্তরা মোটরসাইকেলে এসে খুব কাছ থেকে গুলি চালিয়ে নির্বিঘ্নে পালিয়ে যাচ্ছে।",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী অপরাধীদের শনাক্ত করতে ও অবৈধ অস্ত্রের উৎস খুঁজতে অভিযান শুরু করেছে।"
         ],
         "bullets_en": [
-          "Law enforcement discovered a specially constructed secret drug warehouse beneath a residential floor in Rajshahi.",
-          "Operations led to the seizure of 3,700 Tapentadol tablets, 1.3 kg of cannabis, and 1,163,960 BDT in cash.",
-          "Two suspects were taken into custody and face immediate legal action under narcotics control laws."
+          "Multiple public shooting and murder incidents occurred in Netrokona, Sitakunda, and other areas.",
+          "Assailants arrived on motorcycles, fired from close range, and fled without hindrance.",
+          "Law enforcement agencies launched drives to identify perpetrators and trace illegal weapon sources."
         ],
-        "impact_bn": "স্থানীয় পর্যায়ে মাদক ব্যবসা ও অপরাধ কর্মকাণ্ড দমনে এই ধরনের পুলিশি অভিযান জনমনে স্বস্তি ফেরাতে সাহায্য করবে।",
-        "impact_en": "Crackdowns on concealed local drug rings help improve community safety and curb illicit substance distribution.",
-        "details_bn": "রাজশাহী মেট্রোপলিটন পুলিশ মাদকবিরোধী নিয়মিত অভিযানের অংশ হিসেবে কাটাখালী এলাকায় এই অভিযান পরিচালনা করে। অপরাধীরা আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজর এড়াতে অভিনব পন্থায় ঘরের মেঝের টাইলসের নিচে গোপন গুদাম তৈরি করে অবৈধ মাদকের ব্যবসা পরিচালনা করে আসছিল। গোয়েন্দা তথ্যের ভিত্তিতে পরিচালিত এই অভিযানে বিপুল পরিমাণ মাদক ও নগদ অর্থ উদ্ধার করা হয়, যা এই চক্রের সাথে জড়িত বড় কোনো নেটওয়ার্কের সন্ধান পেতে সাহায্য করবে।",
-        "details_en": "Rajshahi Metropolitan Police conducted the raid as part of ongoing anti-narcotics operations in the Katakhali area. Perpetrators had ingeniously constructed a hidden warehouse beneath floor tiles to evade law enforcement while running their illicit trade. Based on intelligence inputs, the raid successfully seized substantial narcotics and cash, which will aid authorities in tracking down broader distribution networks operating in the region."
+        "impact_bn": "প্রকাশ্য স্থানে গুলি চালিয়ে হত্যার এসব ঘটনায় সাধারণ মানুষের মধ্যে তীব্র নিরাপত্তাহীনতা ও উৎকণ্ঠা তৈরি হয়েছে।",
+        "impact_en": "Such public shooting incidents have triggered intense insecurity and anxiety among ordinary citizens.",
+        "details_bn": "সম্প্রতি দেশের বিভিন্ন প্রান্তে প্রকাশ্যে অস্ত্র প্রদর্শন ও গুলি করে হত্যার প্রবণতা আশঙ্কাজনকভাবে বৃদ্ধি পেয়েছে। নেত্রকোনায় চায়ের দোকান থেকে বের হওয়ার সময় এক সাংবাদিককে এবং পরবর্তীতে মসজিদের সামনে আরেক যুবককে গুলি করে হত্যা করা হয়। একই সময়ে চট্টগ্রামের সীতাকুণ্ডেও ঘটে আরেকটি হত্যাকাণ্ডের ঘটনা। এসব ঘটনায় অপরাধীদের ব্যবহৃত অবৈধ অস্ত্রের উৎস এবং তাদের বেপরোয়া গতিবিধি রোধে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর পদক্ষেপের দাবি জোরালো হচ্ছে।",
+        "details_en": "Recently, the tendency of public armed attacks and killings has risen alarmingly across the country. A journalist was shot dead upon leaving a tea stall in Netrokona, followed by the killing of another youth near a mosque. Concurrently, another murder occurred in Sitakunda, Chattogram. These incidents have intensified public demands for strict law enforcement action to track illegal weapons and curb rising crime."
       }
     },
     {
-      "story_id": "9727a0c2-06e9-5ea0-b369-c2ec47603dbf",
-      "primary_category": "sports_fitness",
+      "story_id": "27e6c874-8c37-5276-9655-4042baac262f",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "sports_fitness",
+        "tech_innovation",
         "world_diplomacy"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Technology",
+        "#Innovation"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T00:00:00+00:00",
+      "published_at": "2026-10-23T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5713,
+      "rank_score": 0.9637,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/other-sports/976111/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A9-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-          "title": "টিভিতে আজকের খেলা (২৩ অক্টোবর, ২০২৬)",
-          "snippet": "টিভিতে আজকের খেলা (২৩ অক্টোবর, ২০২৬)"
+          "url": "https://www.banglatribune.com/sport/cricket/976100/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%A1%E0%A6%BF%E0%A6%86%E0%A6%B0%E0%A6%8F%E0%A6%B8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%8B",
+          "title": "ক্রিকেটে প্রযুক্তির নতুন অধ্যায়, ডিআরএসে যুক্ত হলো ‘সনিক’",
+          "snippet": "ক্রিকেটে প্রযুক্তির নতুন অধ্যায়, ডিআরএসে যুক্ত হলো ‘সনিক’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিভিতে ব্রাদার্স ও আবাহনী ম্যাচসহ র খেলার সূচি",
-        "title_en": "Television broadcast schedule for domestic and international sports matches",
-        "summary_bn": "টেলিভিশনের পর্দায় সরাসরি সম্প্রচারিত হওয়া র বিভিন্ন জাতীয় ও আন্তর্জাতিক খেলার সময়সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "The television broadcast schedule for today's domestic and international sporting events has been announced.",
+        "title_bn": "ক্রিকেটের ডিআরএস প্রযুক্তিতে যুক্ত হলো নিউজিল্যান্ডের সনিক প্রযুক্তি",
+        "title_en": "New Zealand Sonic Technology Added to Cricket DRS System",
+        "summary_bn": "ব্যাটে বলের স্পর্শ নিখুঁতভাবে নির্ধারণ করতে ক্রিকেট ডিসিশন রিভিউ সিস্টেমে যুক্ত হয়েছে নিউজিল্যান্ডের তৈরি নতুন সনিক প্রযুক্তি।",
+        "summary_en": "New Zealand-developed Sonic technology has been integrated into the cricket decision review system to accurately detect bat-ball contact.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
+          "tech_innovation",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T00:00:00+00:00",
-        "lead_bn": "টেলিভিশনের পর্দায় সরাসরি সম্প্রচারিত হওয়া র বিভিন্ন জাতীয় ও আন্তর্জাতিক খেলার সময়সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "The television broadcast schedule for today's domestic and international sporting events has been announced.",
+        "published_at": "2026-10-23T02:00:00+00:00",
+        "lead_bn": "ব্যাটে বলের স্পর্শ নিখুঁতভাবে নির্ধারণ করতে ক্রিকেট ডিসিশন রিভিউ সিস্টেমে যুক্ত হয়েছে নিউজিল্যান্ডের তৈরি নতুন সনিক প্রযুক্তি।",
+        "lead_en": "New Zealand-developed Sonic technology has been integrated into the cricket decision review system to accurately detect bat-ball contact.",
         "bullets_bn": [
-          "বাংলাদেশ ফুটবল লিগে ব্রাদার্স ইউনিয়ন এবং আবাহনী লিমিটেড ম্যাচটি টি স্পোর্টসে সরাসরি সম্প্রচার করা হবে।",
-          "খেলাটি দুপুর দুইটা পঁয়তাল্লিশ মিনিটে টি স্পোর্টস চ্যানেলে সরাসরি উপভোগ করা যাবে।",
-          "লা লিগার ম্যাচসহ অন্যান্য আন্তর্জাতিক ক্রীড়া ইভেন্টগুলো নির্ধারিত সময়ে সম্প্রচারিত হবে।"
+          "ভারত ও নিউজিল্যান্ডের মধ্যকার টি-টোয়েন্টি সিরিজ দিয়ে প্রথমবারের মতো সনিক প্রযুক্তি চালু করা হয়েছে।",
+          "ব্যাটে বলের স্পর্শ বা সূক্ষ্ম শব্দ নিখুঁতভাবে শনাক্ত করতে এই উন্নত প্রযুক্তি সহায়তা করবে।",
+          "নিউজিল্যান্ডের এই সিরিজে পরীক্ষামূলক ব্যবহারের পর অন্যান্য সিরিজে এর বিস্তার নির্ভর করবে।"
         ],
         "bullets_en": [
-          "The Bangladesh Football League match between Brothers Union and Abahani will be broadcast live.",
-          "The match is scheduled to be aired live on T Sports at two forty-five PM.",
-          "La Liga matches and other international sports events will be telecast according to schedule."
+          "Sonic technology is introduced for the first time during the ongoing T20 series between India and New Zealand.",
+          "This advanced technology will help accurately detect bat-ball contact or subtle sounds during reviews.",
+          "Future use in other international series will depend on the performance and approval in this series."
         ],
-        "impact_bn": "ক্রীড়াপ্রেমী দর্শক ও তরুণরা টেলিভিশনের পর্দায় তাদের পছন্দের ম্যাচগুলো সরাসরি উপভোগ করতে পারবেন।",
-        "impact_en": "Sports enthusiasts and youth can watch their preferred matches live on television.",
-        "details_bn": "ক্রীড়াপ্রেমীদের নিয়মিত আপডেট জানাতে প্রতিদিনের লাইভ ম্যাচ, সময়সূচি এবং কোন চ্যানেলে খেলা সম্প্রচারিত হবে তার বিবরণ প্রকাশ করা হয়। ঘরোয়া লিগের ম্যাচ এবং ইউরোপীয় ফুটবলের বিভিন্ন হাইভোল্টেজ ম্যাচ দেখতে সমর্থকরা টেলিভিশনের বিভিন্ন ক্রীড়া চ্যানেলের ওপর নির্ভর করেন।",
-        "details_en": "Daily live match schedules and broadcast channel details are regularly published to keep sports fans updated. Supporters rely on various sports channels on television to watch domestic league fixtures and high-voltage European football matches."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ক্রিকেটে এলবিডব্লিউ ও কট-বিহাইন্ডের মতো সিদ্ধান্তগুলোতে আম্পায়ারদের নির্ভুল রায় প্রদানে প্রযুক্তির ব্যবহার ক্রমাগত বাড়ছে। প্রচলিত স্নিকোমিটার বা আল্ট্রাএজ প্রযুক্তির পাশাপাশি ব্যাটের কানায় বলের স্পর্শ নিশ্চিত করতে নতুন এই সনিক প্রযুক্তি যুক্ত হলো। প্রযুক্তিটির সফল প্রয়োগ ভবিষ্যতে আন্তর্জাতিক ক্রিকেটের সব ফরম্যাটে আম্পায়ারিংয়ের মান আরও উন্নত করবে বলে আশা করা হচ্ছে।",
+        "details_en": "The use of technology in cricket to help umpires make accurate decisions on LBW and caught-behind appeals has continuously grown. Alongside traditional snickometer or ultra-edge tech, this new sonic technology has been introduced to better confirm edges. Successful implementation is expected to further improve umpiring standards across all formats of international cricket."
       }
     },
     {
-      "story_id": "b9573564-5997-5c14-a2dd-3386917494ec",
-      "primary_category": "economy_business",
+      "story_id": "93db28c3-a7fe-51eb-85c9-dadd5e57d901",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "governance_law",
-        "tech_innovation"
+        "society_education"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-22T22:36:25+00:00",
+      "published_at": "2026-10-23T01:59:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.3487,
+      "rank_score": 0.9606,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976165/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%8B%E0%A6%AD%E0%A6%A8%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0",
-          "title": "অ্যাপে বিনিয়োগের প্রলোভনে টাকা হাতিয়ে নেওয়ার অভিযোগ, গ্রেফতার ৩",
-          "snippet": "অ্যাপে বিনিয়োগের প্রলোভনে টাকা হাতিয়ে নেওয়ার অভিযোগ, গ্রেফতার ৩"
+          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/976169/%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%BF-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%AC",
+          "title": "সোশ্যাল মিডিয়ায় একটি পোস্ট-কমেন্টেই কি শেষ সব সুনাম?",
+          "snippet": "সোশ্যাল মিডিয়ায় একটি পোস্ট-কমেন্টেই কি শেষ সব সুনাম?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বগুড়ায় ডিজিটাল অ্যাপের মাধ্যমে প্রতারণার অভিযোগে গ্রেফতার তিন",
-        "title_en": "Three Arrested in Bogura Over Digital App Fraud Scheme",
-        "summary_bn": "গোয়েন্দা পুলিশ বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
-        "summary_en": "Detectives arrested three individuals in Bogura for embezzling funds through fraudulent digital wallet apps.",
+        "title_bn": "সামাজিক মাধ্যমে একটি মন্তব্যেই নষ্ট হয় মানুষের দীর্ঘদিনের সুনাম",
+        "title_en": "Single social media comment can ruin years of personal reputation",
+        "summary_bn": "সামাজিক যোগাযোগ মাধ্যমে একটি মাত্র আপত্তিকর মন্তব্য ব্যবহারকারীর দীর্ঘদিনের সামাজিক পরিচয় ও কর্মজীবনকে মুহূর্তের মধ্যে ঝুঁকির মুখে ফেলে দেয়।",
+        "summary_en": "A single controversial social media comment can instantly jeopardize a user's long-standing reputation and professional life.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law",
-          "tech_innovation"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T22:36:25+00:00",
-        "lead_bn": "গোয়েন্দা পুলিশ বগুড়ায় ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
-        "lead_en": "Detectives arrested three individuals in Bogura for embezzling funds through fraudulent digital wallet apps.",
+        "published_at": "2026-10-23T01:59:42+00:00",
+        "lead_bn": "সামাজিক যোগাযোগ মাধ্যমে একটি মাত্র আপত্তিকর মন্তব্য ব্যবহারকারীর দীর্ঘদিনের সামাজিক পরিচয় ও কর্মজীবনকে মুহূর্তের মধ্যে ঝুঁকির মুখে ফেলে দেয়।",
+        "lead_en": "A single controversial social media comment can instantly jeopardize a user's long-standing reputation and professional life.",
         "bullets_bn": [
-          "গোয়েন্দা পুলিশ ডিজিটাল ওয়ালেট অ্যাপ ব্যবহার করে অবৈধ ই-ট্রানজেকশন ও অর্থ আত্মসাতের অভিযোগে তিনজনকে গ্রেফতার করেছে।",
-          "অভিযানকালে পুলিশ আসামিদের কাছ থেকে অপরাধে ব্যবহৃত চারটি মোবাইল ফোন ও পাঁচটি সিম কার্ড জব্দ করেছে।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে এবং পুলিশি তদন্ত অব্যাহত রয়েছে।"
+          "অনলাইন প্ল্যাটফর্মে একটিমাত্র আপত্তিকর মন্তব্য মুহূর্তেই ভাইরাল হয়ে তীব্র সমালোচনার জন্ম দেয়।",
+          "অপরিচিত ব্যক্তিরা ব্যক্তির ব্যক্তিত্ব নিয়ে প্রশ্ন তোলেন এবং কর্মস্থলে ব্যবস্থা নেওয়ার দাবি জানান।",
+          "সামাজিক মাধ্যমের একমুখী বিচার অনেক সময় মানুষের বাস্তব জীবনের সামগ্রিক অবদান ও পরিচিতিকে মুছে দেয়।"
         ],
         "bullets_en": [
-          "Detectives arrested three suspects involved in illegal e-transactions and fund embezzlement via digital wallet applications.",
-          "Police seized four mobile phones and five SIM cards used in the fraudulent activities during the raid.",
-          "Legal proceedings have been initiated against the arrestees while police investigations remain ongoing."
+          "A single offensive comment on online platforms instantly goes viral and sparks severe criticism.",
+          "Unfamiliar users question the individual's character and demand disciplinary action at their workplace.",
+          "One-sided online judgment often erases a person's overall contributions and real-life identity."
         ],
-        "impact_bn": "অনলাইন লেনদেনের ক্ষেত্রে সাধারণ ব্যবহারকারীদের আরও সতর্ক ও সচেতন হওয়ার প্রয়োজনীয়তা দেখা দিয়েছে।",
-        "impact_en": "Ordinary digital wallet users need to exercise greater caution to avoid falling prey to online fraud.",
-        "details_bn": "ডিজিটাল আর্থিক সেবার প্রসার বাড়ার সাথে সাথে প্রতারক চক্র নানা অভিনব উপায় অবলম্বন করে আসছে। বগুড়ায় গোয়েন্দা পুলিশের এই অভিযানে ডিজিটাল ওয়ালেট অ্যাপের অপব্যবহার করে অর্থ আত্মসাতের বিষয়টি উন্মোচিত হয়েছে, যা অনলাইন লেনদেনের নিরাপত্তা নিয়ে নতুন করে উদ্বেগের জন্ম দিয়েছে।",
-        "details_en": "With the expansion of digital financial services, fraudsters have increasingly adopted sophisticated techniques. This operation by Bogura detective police uncovered a scam involving the misuse of digital wallet apps to misappropriate funds, highlighting ongoing security concerns in digital transactions."
+        "impact_bn": "ডিজিটাল প্ল্যাটফর্মে মন্তব্য করার আগে সচেতন না হলে সাধারণ নাগরিক ও তরুণরা মারাত্মক পেশাগত ও সামাজিক সংকটের মুখে পড়তে পারেন।",
+        "impact_en": "Ordinary citizens and youth risk severe professional and social crises unless they exercise caution before posting online.",
+        "details_bn": "বর্তমান ডিজিটাল যুগে সামাজিক যোগাযোগ মাধ্যমের প্রভাব মানুষের ব্যক্তিগত ও পেশাগত জীবনে ব্যাপক ভূমিকা রাখছে। একটিমাত্র অনলাইন মন্তব্য বা পোস্ট অনেক সময় ব্যক্তির সামগ্রিক চরিত্র মূল্যায়নে নেতিবাচক প্রভাব ফেলে। এই সংস্কৃতি সাইবার বুলিং এবং দ্রুত বিচারপ্রবণতার এক নতুন রূপ উন্মোচন করেছে, যা সচেতনতার অভাবের কারণে সমাজে প্রতিনিয়ত বাড়ছে।",
+        "details_en": "In the modern digital era, social media heavily influences personal and professional lives. A single online comment or post often negatively distorts the overall evaluation of an individual's character. This culture exposes a new form of cyberbullying and rapid trial mentality, which continuously rises in society due to a lack of digital awareness."
       }
     },
     {
-      "story_id": "c8587793-0b7c-5bc5-93c8-90ca9724f1d4",
+      "story_id": "98a02077-59ce-56ae-9f0a-34f63b2a4b32",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T01:07:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6051,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/976168/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE",
+          "title": "বঙ্গোপসাগরে এক লঘুচাপের মধ্যে আরেকটির শঙ্কা",
+          "snippet": "বঙ্গোপসাগরে এক লঘুচাপের মধ্যে আরেকটির শঙ্কা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বঙ্গোপসাগরে নতুন লঘুচাপ সৃষ্টির শঙ্কা আবহাওয়া অধিদফতরের",
+        "title_en": "Meteorological Department Warns of Potential New Low Pressure in Bay of Bengal",
+        "summary_bn": "বঙ্গোপসাগরে বিদ্যমান লঘুচাপের পাশাপাশি আরেকটি নতুন লঘুচাপ সৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
+        "summary_en": "The Meteorological Department has reported that another low-pressure system is likely to form in the Bay of Bengal alongside the existing one.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T01:07:53+00:00",
+        "lead_bn": "বঙ্গোপসাগরে বিদ্যমান লঘুচাপের পাশাপাশি আরেকটি নতুন লঘুচাপ সৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
+        "lead_en": "The Meteorological Department has reported that another low-pressure system is likely to form in the Bay of Bengal alongside the existing one.",
+        "bullets_bn": [
+          "দক্ষিণ-পূর্ব ও পূর্ব-মধ্য বঙ্গোপসাগর এলাকায় আগামী চব্বিশ ঘণ্টার মধ্যে নতুন লঘুচাপ সৃষ্টি হতে পারে।",
+          "নতুন এই লঘুচাপটি পরবর্তীতে ঘনীভূত হওয়ার আশঙ্কা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
+          "লঘুচাপের পূর্বাভাস সত্ত্বেও দেশের সামগ্রিক আবহাওয়া আপাতত প্রধানত শুষ্ক থাকতে পারে।"
+        ],
+        "bullets_en": [
+          "A new low-pressure system may form over the southeast and adjoining east-central Bay of Bengal within the next twenty-four hours.",
+          "The Meteorological Department has indicated that the newly formed low-pressure system is likely to intensify further.",
+          "Despite the low-pressure forecast, the overall weather across the country is expected to remain mainly dry for the time being."
+        ],
+        "impact_bn": "সমুদ্র উপকূলবর্তী এলাকার জেলে ও সাধারণ মানুষজনকে আবহাওয়া পরিস্থিতির দিকে সতর্ক দৃষ্টি রাখার পরামর্শ দেওয়া হয়েছে।",
+        "impact_en": "Coastal fishermen and residents are advised to monitor weather updates closely as new atmospheric disturbances develop.",
+        "details_bn": "বঙ্গোপসাগরে প্রায় সময়ই মৌসুমি বায়ুর প্রভাবে কিংবা ক্রান্তীয় পরিস্থিতিতে লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়ে থাকে। আবহাওয়ার গতিপ্রকৃতি ও সামুদ্রিক পরিবর্তন নিয়মিত পর্যবেক্ষণ করে থাকে বাংলাদেশ আবহাওয়া অধিদফতর। এই ধরনের লঘুচাপগুলো পরবর্তীতে ঘনীভূত হয়ে অনেক সময় নিম্নচাপ বা সামুদ্রিক ঝড়ে রূপ নেয়, যা উপকূলীয় অঞ্চলে আবহাওয়া পরিবর্তনে বড় ভূমিকা রাখে।",
+        "details_en": "Low-pressure systems frequently form in the Bay of Bengal due to seasonal winds and tropical conditions. The Bangladesh Meteorological Department routinely monitors atmospheric patterns and maritime changes. Such systems often intensify into depressions or cyclones, significantly impacting weather conditions across coastal regions."
+      }
+    },
+    {
+      "story_id": "b20809eb-bb2e-5ea2-89d7-b6ab5b2b63e8",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -237,25 +231,25 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fwghfjk48%2Fclose-up-luxury-retro-radio-buttons-with-open-book.jpg?rect=0%2C906%2C6393%2C3356&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fndak8sk5%2Fdiet-4.jpg?overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T22:30:00+00:00",
+      "published_at": "2026-10-23T01:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.338,
+      "rank_score": 0.571,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/islam/xian98la32",
-          "title": "ইবাদত কবুলের ৪ শর্ত",
-          "snippet": "ইবাদত কবুলের ৪ শর্ত"
+          "url": "https://www.haal.fashion/lifestyle/well-being/9ybr8h7e7f",
+          "title": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ",
+          "snippet": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইবাদত কবুলের জন্য ইসলামে যে চারটি প্রধান শর্ত নির্ধারণ করা হয়েছে",
-        "title_en": "Four Key Conditions Outlined in Islam for Acceptance of Worship",
-        "summary_bn": "আল্লাহর দরবারে মানুষের যেকোনো নেক আমল বা ইবাদত কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা বাধ্যতামূলক।",
-        "summary_en": "Four fundamental conditions are mandatory for any good deed or worship to be accepted by the Almighty.",
+        "title_bn": "ওজন কমানোর ডায়েটে যেসব সাধারণ ভুল এড়িয়ে চলা জরুরি",
+        "title_en": "Common Mistakes to Avoid While Following Weight Loss Diets",
+        "summary_bn": "সঠিক ডায়েট পরিকল্পনা এবং সুষম খাদ্যাভ্যাসের অভাবে অনেক সময় ওজন কমানোর চেষ্টা ব্যর্থ হয়।",
+        "summary_en": "Weight loss attempts often fail due to poor diet selection and inconsistent eating habits.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -263,77 +257,79 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T22:30:00+00:00",
-        "lead_bn": "আল্লাহর দরবারে মানুষের যেকোনো নেক আমল বা ইবাদত কবুল হওয়ার জন্য চারটি মৌলিক শর্ত পূরণ করা বাধ্যতামূলক।",
-        "lead_en": "Four fundamental conditions are mandatory for any good deed or worship to be accepted by the Almighty.",
+        "published_at": "2026-10-23T01:00:00+00:00",
+        "lead_bn": "সঠিক ডায়েট পরিকল্পনা এবং সুষম খাদ্যাভ্যাসের অভাবে অনেক সময় ওজন কমানোর চেষ্টা ব্যর্থ হয়।",
+        "lead_en": "Weight loss attempts often fail due to poor diet selection and inconsistent eating habits.",
         "bullets_bn": [
-          "ইবাদত কবুলের প্রথম ও প্রধান শর্ত হলো আল্লাহর প্রতি অবিচল বিশ্বাস বা বিশুদ্ধ ইমান রাখা।",
-          "কোরআন ও হাদিসের নির্দেশনা অনুযায়ী ইবাদতের ক্ষেত্রে শিরক থেকে সম্পূর্ণ মুক্ত থাকা এবং হালাল উপার্জন নিশ্চিত করা আবশ্যক।",
-          "ধর্মীয় বিধান পালনের ক্ষেত্রে নবীজির সুন্নাহ বা নির্দেশনার সঙ্গে সম্পূর্ণ সামঞ্জস্যপূর্ণ পদ্ধতি অনুসরণ করতে হবে।"
+          "ভুল ডায়েট নির্বাচন এবং দীর্ঘমেয়াদি পরিকল্পনার অভাবেই মূলত ওজন প্রত্যাশিত হারে কমে না।",
+          "খাদ্যাভ্যাসে অসংগতির কারণে ডায়েট শেষ হওয়ার পর ওজন দ্রুত আগের অবস্থায় ফিরে আসে।",
+          "স্বাস্থ্যসম্মত এবং সুষম ডায়েট বাস্তবায়নে পুষ্টিবিদের পরামর্শ অনুযায়ী সঠিক রুটিন মেনে চলা উচিত।"
         ],
         "bullets_en": [
-          "The primary and foremost condition for the acceptance of worship is having pure faith in Allah.",
-          "Worship must be completely free from polytheism and supported strictly by lawful earnings and consumption.",
-          "Religious practices must strictly align with the teachings and methodology of the Prophet."
+          "Incorrect diet selection and lack of long-term planning often prevent expected weight loss.",
+          "Inconsistent eating habits frequently cause people to regain lost weight quickly after stopping a diet.",
+          "Following proper nutritional guidance and maintaining a structured routine ensures sustainable weight management results."
         ],
-        "impact_bn": "নাগরিকরা দৈনন্দিন জীবনে হালাল উপার্জন ও সঠিক ধর্মীয় নিয়ম অনুসরণ করে নিজেদের নেক আমল অর্থবহ করতে পারেন।",
-        "impact_en": "Citizens can make their good deeds meaningful by ensuring lawful earnings and proper religious practices in daily life.",
-        "details_bn": "ইসলাম ধর্মে মানুষের জীবনের প্রতিটি ভালো কাজ বা নেক আমল সফল হওয়ার জন্য নির্দিষ্ট কিছু মাপকাঠি রয়েছে। নামাজ, রোজা কিংবা দান-সদকার মতো ইবাদতগুলো কেবল আনুষ্ঠানিকতা নয়, বরং তা আল্লাহর সন্তুষ্টি অর্জনের মাধ্যম। সঠিক ইমান, সুন্নাহর অনুসরণ এবং হালাল রিজিকের ওপর নির্ভর করেই একজন মুমিনের আমল পরকালের মুক্তির মাধ্যম হতে পারে।",
-        "details_en": "In Islam, specific criteria determine the success of every good deed or act of worship in a believer's life. Acts such as prayers, fasting, and charity are not merely rituals but means to attain divine satisfaction. True faith, adherence to prophetic traditions, and lawful sustenance ensure that a believer's actions serve as a means of salvation."
+        "impact_bn": "সঠিক ডায়েট পদ্ধতি জানা থাকলে সাধারণ মানুষ স্বাস্থ্যঝুঁকি এড়াতে এবং সুস্থ জীবনধারা বজায় রাখতে পারেন।",
+        "impact_en": "Understanding proper dieting methods helps individuals avoid health risks and maintain a sustainable healthy lifestyle.",
+        "details_bn": "অনেকেই ডায়েট পরিকল্পনা অনুসরণ করেও প্রত্যাশিত ফল পান না। কারও ওজন কমে না, আবার কারও ক্ষেত্রে ডায়েট শেষ করার পর দ্রুত আগের ওজন ফিরে আসে। ভুল ডায়েট নির্বাচন, খাদ্যাভ্যাসে অসংগতি কিংবা দীর্ঘমেয়াদি পরিকল্পনার অভাব এর পেছনে প্রধান কারণ হিসেবে কাজ করে। সঠিক ওজন নিয়ন্ত্রণে ডায়েট পরিচালনার ক্ষেত্রে সুনির্দিষ্ট নয়টি ভুল চিহ্নিত করা হয়েছে যা এড়িয়ে চলা আবশ্যক।",
+        "details_en": "Many people fail to achieve expected results despite following strict diet plans, often regaining weight quickly afterward. Poor diet selection, eating inconsistencies, and lack of long-term planning are primary reasons behind this failure. Identifying and avoiding common diet mistakes is essential for achieving sustainable weight loss and maintaining overall health."
       }
     },
     {
-      "story_id": "50572eb0-34be-5d25-97f5-0327c3ac9e3a",
-      "primary_category": "tech_innovation",
+      "story_id": "76ba9eb6-3cd5-5fbe-8fad-35cb22505eb0",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "tech_innovation"
+        "sports_fitness",
+        "governance_law"
       ],
       "tags": [
-        "#OpenAI",
-        "#TechFunding"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Flcwuy1sp%2FWhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2Foj267urd%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-22T22:08:24+00:00",
+      "published_at": "2026-10-23T01:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2167,
+      "importance_score": 2.4,
+      "rank_score": 0.571,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-          "snippet": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/m327n8h4gc",
+          "title": "আজ টিভিতে যা দেখবেন (২৩ অক্টোবর ২০২৬)",
+          "snippet": "আজ টিভিতে যা দেখবেন (২৩ অক্টোবর ২০২৬)"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইপিও এর আগে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহের কাজ করছে ওপেনএআই",
-        "title_en": "OpenAI Working On New Thirty Billion Dollar Raise Ahead Of IPO",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা গবেষণাগার ওপেনএআই আইপিওতে যাওয়ার আগে একটি নতুন বিনিয়োগ রাউন্ডের মাধ্যমে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহ করছে।",
-        "summary_en": "Artificial intelligence lab OpenAI is working on raising up to thirty billion dollars in private funding ahead of its public debut.",
+        "title_bn": "আফগানিস্তান ও জিম্বাবুয়ের ফাইনাল ম্যাচসহ র প্রধান খেলাগুলো টিভিতে সম্প্রচারিত হবে",
+        "title_en": "Television Broadcast Schedule Features Afghanistan Facing Zimbabwe in Tri-Series Final",
+        "summary_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় সিরিজের ফাইনালে মুখোমুখি হবে আফগানিস্তান ও জিম্বাবুয়ে, যা টি স্পোর্টসে সম্প্রচারিত হবে।",
+        "summary_en": "Afghanistan and Zimbabwe face each other in the tri-nation series final in the UAE, broadcast live on T Sports.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "sports_fitness",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-22T22:08:24+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা গবেষণাগার ওপেনএআই আইপিওতে যাওয়ার আগে একটি নতুন বিনিয়োগ রাউন্ডের মাধ্যমে ৩০ বিলিয়ন ডলার তহবিল সংগ্রহ করছে।",
-        "lead_en": "Artificial intelligence lab OpenAI is working on raising up to thirty billion dollars in private funding ahead of its public debut.",
+        "published_at": "2026-10-23T01:00:00+00:00",
+        "lead_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় সিরিজের ফাইনালে মুখোমুখি হবে আফগানিস্তান ও জিম্বাবুয়ে, যা টি স্পোর্টসে সম্প্রচারিত হবে।",
+        "lead_en": "Afghanistan and Zimbabwe face each other in the tri-nation series final in the UAE, broadcast live on T Sports.",
         "bullets_bn": [
-          "কোয়েট এবং সংযুক্ত আরব আমিরাতের বিনিয়োগকারীদের নেতৃত্বে তহবিল সংগ্রহের আলোচনা চলছে",
-          "প্রস্তাবিত এই রাউন্ড সফল হলে কোম্পানির মূল্যায়ন এক দশমিক দুই পাঁচ ট্রিলিয়ন ডলারে পৌঁছাবে",
-          "তহবিল সংগ্রহের এই প্রক্রিয়া সফল হলে তা সর্বকালের সর্বোচ্চ মূল্যায়নপ্রাপ্ত প্রাইভেট কোম্পানির রেকর্ড ভাঙবে"
+          "আফগানিস্তান ও জিম্বাবুয়ের মধ্যকার ত্রিদেশীয় সিরিজের ফাইনাল ম্যাচটি বিকেল সাড়ে পাঁচটায় টি স্পোর্টসে সরাসরি সম্প্রচারিত হবে।",
+          "ব্রাদার্স ইউনিয়নের বিপক্ষে আবাহনীর ফুটবল ম্যাচ দুপুর দুইটা পয়তাল্লিশ মিনিটে টি স্পোর্টসে অনুষ্ঠিত হবে।",
+          "ইংলিশ প্রিমিয়ার লিগে ইপসউইচ ও নটিংহাম ফরেস্ট ম্যাচ রাত একটায় স্টার স্পোর্টস সিলেক্ট ওয়ানে দেখা যাবে।"
         ],
         "bullets_en": [
-          "The private funding round is being led by Coatue and investors from the United Arab Emirates",
-          "The round aims to raise up to thirty billion dollars targeting a valuation of one point two five trillion dollars",
-          "A successful valuation above one trillion dollars would set a record for the most valued private company ever"
+          "The tri-nation series final match between Afghanistan and Zimbabwe will be broadcast live at 5:30 PM on T Sports.",
+          "Abahani will face Brothers Union in a football match scheduled for 2:45 PM on T Sports.",
+          "The English Premier League match between Ipswich and Nottingham Forest airs at 1:00 AM on Star Sports Select 1."
         ],
-        "impact_bn": "উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির গবেষণা ও কম্পিউটিং ক্ষমতা বৃদ্ধিতে এই বিশাল বিনিয়োগ বড় প্রভাব ফেলবে।",
-        "impact_en": "This massive funding round will significantly accelerate the global development and deployment of advanced artificial intelligence capabilities.",
-        "details_bn": "এর আগে ওপেনএআই মার্চ মাসে আটশত বায়ান্ন বিলিয়ন ডলার মূল্যায়নে তহবিল সংগ্রহ করেছিল এবং জুনে আইপিও-র জন্য গোপনীয় কাগজপত্র জমা দেয়। বর্তমান আলোচনা সফল হলে এটি প্রযুক্তি খাতের সবচেয়ে বড় আর্থিক লেনদেনগুলোর একটি হবে। সংযুক্ত আরব আমিরাতের সাথে এই তহবিলের অংশ হিসেবে অতিরিক্ত কম্পিউটিং ক্ষমতা 확보ের চুক্তিও যুক্ত থাকতে পারে, যা তাদের প্রযুক্তিগত সক্ষমতা আরও বাড়িয়ে দেবে।",
-        "details_en": "OpenAI previously secured funding in March that valued the ChatGPT maker at eight hundred and fifty-two billion dollars post-money before filing confidential IPO paperwork in June. This new mega round follows prior reports from financial outlets regarding surging private market valuations for major artificial intelligence developers. The potential inclusion of compute capacity deals with Middle Eastern investors highlights the massive infrastructure demands driving these record-breaking capital raises."
+        "impact_bn": "ক্রীড়াপ্রেমী দর্শক ও তরুণরা টেলিভিশনের পর্দায় সরাসরি র আকর্ষণীয় ম্যাচগুলো উপভোগ করতে পারবেন।",
+        "impact_en": "Sports fans and youth can enjoy live broadcasts of today's major domestic and international matches.",
+        "details_bn": "সংযুক্ত আরব আমিরাতে অনুষ্ঠিত ত্রিদেশীয় সিরিজের ফাইনালে আফগানিস্তান ও জিম্বাবুয়ে মুখোমুখি হচ্ছে। পাশাপাশি ঘরোয়া ফুটবল লিগে ব্রাদার্স ও আবাহনীর লড়াই এবং ইউরোপিয়ান ফুটবলে ইংলিশ প্রিমিয়ার লিগের ম্যাচ রয়েছে। টি স্পোর্টস ও স্টার স্পোর্টসসহ বিভিন্ন ক্রীড়া চ্যানেল এসব ম্যাচ সরাসরি সম্প্রচার করবে। দর্শকরা ঘরে বসেই আন্তর্জাতিক ও ঘরোয়া প্রতিযোগিতামূলক খেলাগুলোর উপভোগ করার সুযোগ পাবেন।",
+        "details_en": "Afghanistan and Zimbabwe are clashing in the tri-nation series final held in the United Arab Emirates. Alongside international cricket, domestic football features a match between Brothers Union and Abahani, while European action includes the English Premier League. Major sports broadcasters like T Sports and Star Sports will air these fixtures live, allowing fans to follow both local and global sporting events."
       }
     }
   ]
