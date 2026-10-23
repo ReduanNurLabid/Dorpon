@@ -1,179 +1,126 @@
 {
-  "updated_at": "2026-10-23T08:00:50.686607",
+  "updated_at": "2026-10-23T09:00:43.900848",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "7533127c-ed8e-5501-9f5b-853196ae3c35",
+      "story_id": "5e6bde9a-f65d-52de-b608-ec64735790da",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-06-24%2Fqxsrlrbc%2FUntitled-11.jpg?rect=0%2C101%2C1708%2C897&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T08:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 1.5997,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/analysis/de51kbx2xd",
+          "title": "করকাঠামো সংস্কারে নীতি ও প্রশাসন আলাদা করলেই কি রাজস্ব বাড়বে",
+          "snippet": "করকাঠামো সংস্কারে নীতি ও প্রশাসন আলাদা করলেই কি রাজস্ব বাড়বে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় রাজস্ব বোর্ডের সংস্কার ও নীতি প্রশাসন আলাদা করার পরিকল্পনা পুনর্মূল্যায়ন",
+        "title_en": "Parliamentary Review Underway for National Board of Revenue Reform Plan",
+        "summary_bn": "জাতীয় রাজস্ব বোর্ড ভেঙে নীতি ও প্রশাসন বিভাগ আলাদা করার আগের উদ্যোগটি বর্তমান সরকার নতুন করে পর্যালোচনা করছে।",
+        "summary_en": "The government is reviewing the previous initiative to split the National Board of Revenue into policy and administration divisions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T08:15:00+00:00",
+        "lead_bn": "জাতীয় রাজস্ব বোর্ড ভেঙে নীতি ও প্রশাসন বিভাগ আলাদা করার আগের উদ্যোগটি বর্তমান সরকার নতুন করে পর্যালোচনা করছে।",
+        "lead_en": "The government is reviewing the previous initiative to split the National Board of Revenue into policy and administration divisions.",
+        "bullets_bn": [
+          "জাতীয় রাজস্ব বোর্ডকে ভেঙে নীতি প্রণয়ন ও কর আদায় আলাদা করার পরিকল্পনা বর্তমান সরকার সংসদীয় কমিটিতে পর্যালোচনার জন্য পাঠিয়েছে।",
+          "বিগত সরকারের আমলে এই সংস্কারের প্রতিবাদে রাজস্ব বিভাগে টানা দুই মাস অচলাবস্থা তৈরি হলে একাধিক কর্মকর্তাকে বরখাস্ত করা হয়।",
+          "আইনি পর্যালোচনার মাধ্যমে করব্যবস্থার মৌলিক দ্বন্দ্ব নিরসন করে কর আদায় বাড়ানোর পরিকল্পনা চূড়ান্ত করা হবে।"
+        ],
+        "bullets_en": [
+          "The current government has sent the plan to split the National Board of Revenue into separate policy and administration units for parliamentary review.",
+          "During the previous administration, protests over this reform caused a two-month deadlock in the revenue sector, leading to officer suspensions.",
+          "The parliamentary review aims to resolve fundamental administrative conflicts and sustainably increase revenue collection."
+        ],
+        "impact_bn": "করব্যবস্থার এই সংস্কার বাস্তবায়িত হলে ব্যবসা-বাণিজ্যের পরিবেশ এবং করদাতাদের হয়রানি কমবে বলে আশা করা হচ্ছে।",
+        "impact_en": "This structural reform is expected to ease business operations and reduce harassment for taxpayers if implemented properly.",
+        "details_bn": "বিগত অন্তর্বর্তী সরকার জাতীয় রাজস্ব বোর্ডকে ভেঙে নীতি এবং প্রশাসন—এই দুই ভাগে বিভক্ত করার উদ্যোগ নিয়েছিল। ওই সময় এনবিআর কর্মকর্তাদের কঠোর আন্দোলনের মুখে সরকার অধ্যাদেশ জারি করে এবং পরবর্তীতে অচলাবস্থা নিরসনে কিছু কর্মকর্তাকে সাময়িক বরখাস্ত ও বাধ্যতামূলক অবসরে পাঠায়। বর্তমান নির্বাচিত সরকার অধ্যাদেশটি আইনে রূপ না দিয়ে সংসদীয় কমিটির পর্যালোচনার জন্য পাঠিয়েছে এবং বরখাস্ত হওয়া কর্মকর্তাদের পুনর্বহাল করেছে।",
+        "details_en": "The previous interim government initiated moves to split the National Board of Revenue into separate policy and tax collection divisions. The decision sparked intense protests and a two-month deadlock among tax officials, resulting in disciplinary actions. The current elected government has refrained from turning the ordinance into law, instead referring the matter to a parliamentary committee while reinstating the suspended officials."
+      }
+    },
+    {
+      "story_id": "a8853e5e-ed71-5285-8c0a-1e1d227f258b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "tech_innovation"
+        "economy_business",
+        "society_education"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fn079gn9s%2FMOHOSENIRAN.avif?rect=0%2C0%2C640%2C336&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T06:45:00+00:00",
+      "published_at": "2026-10-23T08:35:02+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.03,
+      "rank_score": 1.5128,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/0hylf58itn",
-          "title": "ইরানে আবার হামলা হলে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি",
-          "snippet": "ইরানে আবার হামলা হলে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976219/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%B0%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AA%E0%A6%B0%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E2%80%99-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে ‘পরজীবী’ বললেন ইরানি পররাষ্ট্রমন্ত্রী",
+          "snippet": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে ‘পরজীবী’ বললেন ইরানি পররাষ্ট্রমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্র বা ইসরায়েল নতুন হামলা চালালে মধ্যপ্রাচ্যের তেল ও এআই অবকাঠামো ধ্বংসের হুমকি ইরানের",
-        "title_en": "Iran Threatens to Destroy Middle East Oil and AI Infrastructure If Attacked",
-        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ফের সামরিক আগ্রাসন চালালে পারস্য উপসাগরীয় অঞ্চলে সর্বাত্মক পাল্টা আঘাতের কঠোর হুঁশিয়ারি দিয়েছে ইরান।",
-        "summary_en": "Iran has issued a stern warning of all-out retaliation against any new military aggression by the United States and Israel.",
+        "title_bn": "মার্কিন-ইসরায়েল সামরিক সম্পর্ককে পরজীবী বললেন ইরানের পররাষ্ট্রমন্ত্রী",
+        "title_en": "Iranian Foreign Minister Terms US-Israel Military Tie Parasitic",
+        "summary_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক সম্পর্ককে পরজীবী বলে তীব্র সমালোচনা করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
+        "summary_en": "Iranian Foreign Minister Abbas Araghchi strongly criticized the military relationship between the United States and Israel as parasitic.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation"
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:45:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েল ফের সামরিক আগ্রাসন চালালে পারস্য উপসাগরীয় অঞ্চলে সর্বাত্মক পাল্টা আঘাতের কঠোর হুঁশিয়ারি দিয়েছে ইরান।",
-        "lead_en": "Iran has issued a stern warning of all-out retaliation against any new military aggression by the United States and Israel.",
+        "published_at": "2026-10-23T08:35:02+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক সম্পর্ককে পরজীবী বলে তীব্র সমালোচনা করেছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
+        "lead_en": "Iranian Foreign Minister Abbas Araghchi strongly criticized the military relationship between the United States and Israel as parasitic.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্র ও ইসরায়েল নতুন হামলা চালালে উপসাগরীয় সাতটি দেশের তেল স্থাপনা এবং কৃত্রিম বুদ্ধিমত্তা অবকাঠামো ধ্বংসের হুমকি দিয়েছে তেহরান।",
-          "ইরানের সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সচিব মহসেন রেজাই জানিয়েছেন, হামলা হলে তেহরান আরও বড় ও ধ্বংসাত্মক সামরিক কৌশল নেবে।",
-          "আসন্ন যুদ্ধের আশঙ্কায় বিশ্ববাজারে অপরিশোধিত ব্রেন্ট ক্রুড তেলের দাম বেড়ে প্রতি ব্যারেল ১১৩ দশমিক ৪ ডলারে পৌঁছেছে।"
+          "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি যুক্তরাষ্ট্র ও ইসরায়েলের মধ্যকার সামরিক সহযোগিতাকে পরজীবী সম্পর্ক হিসেবে অভিহিত করেছেন।",
+          "ইসরায়েলের ক্ষেপণাস্ত্র প্রতিরক্ষায় মার্কিন করদাতাদের ১ হাজার ১০০ কোটি ডলার ব্যয় হয়েছে বলে দাবি করেছেন তিনি।",
+          "সামাজিক যোগাযোগমাধ্যম এক্সে দেওয়া এক পোস্টে এই কঠোর মন্তব্য প্রকাশ করেন ইরানি এই শীর্ষ কূটনীতিক।"
         ],
         "bullets_en": [
-          "Tehran threatened to destroy oil facilities and AI infrastructure across seven Gulf nations if targeted by a new US-Israeli attack.",
-          "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, warned that Tehran would adopt a larger and more destructive military strategy.",
-          "Amid fears of an impending conflict, Brent crude oil prices in the global market surged to $113.4 per barrel."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে সম্ভাব্য যুদ্ধের আশঙ্কায় বিশ্ববাজারে তেলসহ জ্বালানির মূল্যবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়িয়ে দিতে পারে।",
-        "impact_en": "Fears of a potential Middle East war and rising global oil prices could increase the cost of living for ordinary citizens.",
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য যৌথ সামরিক হামলার প্রস্তুতির জবাবে তেহরান এই কড়া হুঁশিয়ারি দিয়েছে। পেন্টাগন ইরানে সম্ভাব্য লক্ষ্যবস্তুর তালিকা প্রস্তুত করেছে এবং মধ্যপ্রাচ্যে সামরিক উপস্থিতি বাড়িয়েছে। এই উত্তেজনার ফলে বিশ্ব অর্থনীতি ও জ্বালানি সরবরাহে বড় ধরনের সংকটের ঝুঁকি তৈরি হয়েছে।",
-        "details_en": "Tehran issued this stern warning in response to preparations for a potential joint US-Israeli military strike. The Pentagon has reportedly prepared a target list and increased military assets in the Middle East, raising concerns over global economic stability and energy supplies."
-      }
-    },
-    {
-      "story_id": "02707e62-ed09-5bfe-a9e2-5c79bc4b12e6",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/diljit-dosanjh-film-1.webp?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T06:44:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.0238,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/delhi-police-denied-permission-for-diljit-dosanjhs-concert/",
-          "title": "দিল্লিতে দিলজিতের কনসার্ট আটকালো পুলিশ",
-          "snippet": "দিল্লিতে দিলজিতের কনসার্ট আটকালো পুলিশ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দিল্লিতে দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি বাতিল করল পুলিশ",
-        "title_en": "Delhi Police Denies Permission for Diljit Dosanjh Concert",
-        "summary_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
-        "summary_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T06:44:06+00:00",
-        "lead_bn": "নিরাপত্তা সংক্রান্ত উদ্বেগের কারণে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে নির্ধারিত দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি দেয়নি পুলিশ।",
-        "lead_en": "Delhi Police denied permission for Diljit Dosanjh's scheduled concert at the Jawaharlal Nehru Stadium due to security concerns.",
-        "bullets_bn": [
-          "নিরাপত্তা উদ্বেগ ও উৎসব মৌসুমের বাড়তি দায়িত্বের কথা বলে কনসার্টের অনুমতি অস্বীকার করা হয়েছে",
-          "দিল্লির এই অনুষ্ঠানের মাধ্যমেই ভারতে গায়কের অরা ওয়ার্ল্ড ট্যুর শুরু হওয়ার কথা ছিল",
-          "অনুমতি না পাওয়ায় ভারতের অন্যান্য শহরে কনসার্ট আয়োজন নিয়েও অনিশ্চয়তা তৈরি হয়েছে"
-        ],
-        "bullets_en": [
-          "Police denied permission citing security concerns and high workload during the festive season",
-          "The Delhi event was scheduled to launch the singer's Aura World Tour in India",
-          "Uncertainty looms over upcoming shows in other Indian cities following the cancellation"
+          "Iranian Foreign Minister Abbas Araghchi characterized the military cooperation between the US and Israel as a parasitic relationship.",
+          "He claimed that Washington spent USD 11 billion from US taxpayer money on Israel missile defense systems over the past three years.",
+          "The Iranian top diplomat expressed this sharp criticism through a post on the social media platform X."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিশ্বজুড়ে সংগীত সফরের অংশ হিসেবে উত্তর আমেরিকা, ইউরোপ ও অস্ট্রেলিয়ার বিভিন্ন দেশে সফল পারফর্ম করেছেন পাঞ্জাবি গায়ক ও অভিনেতা দিলজিৎ দোসাঞ্জ। ভারতে তার অরা ওয়ার্ল্ড ট্যুরের সূচনা হওয়ার কথা ছিল দিল্লি থেকে। এর ধারাবাহিকতায় ইন্দোর, আহমেদাবাদ, মুম্বাই, বেঙ্গালুরু, লক্ষ্ণৌ ও চণ্ডীগড়ে কনসার্ট হওয়ার কথা থাকলেও দিল্লির এই অনুমতি বাতিলের ফলে পুরো সফরসূচি নিয়ে সংশয় তৈরি হয়েছে।",
-        "details_en": "Punjabi singer and actor Diljit Dosanjh has successfully performed across North America, Europe, and Australia as part of his global music tours. His Aura World Tour in India was planned to kick off in Delhi, followed by shows in Indore, Ahmedabad, Mumbai, Bengaluru, Lucknow, and Chandigarh. However, the denial of permission in Delhi has cast doubt over the entire concert schedule."
+        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই যুক্তরাষ্ট্র ও ইসরায়েলের সামরিক জোট এবং অস্ত্র সহায়তা নিয়ে এই মন্তব্য এসেছে। ইরান দীর্ঘদিন ধরে ইসরায়েলকে দেওয়া মার্কিন সামরিক সহায়তার প্রকাশ্য বিরোধিতা করে আসছে। ওয়াশিংটন মধ্যপ্রাচ্যে ইসরায়েলের প্রতিরক্ষায় নিয়মিত কোটি কোটি ডলার ও সামরিক সরঞ্জাম দিয়ে সহায়তা করে থাকে, যা আঞ্চলিক রাজনীতিতে বড় ধরনের বিতর্ক সৃষ্টি করে।",
+        "details_en": "This remark comes amid ongoing geopolitical tensions in the Middle East regarding US military alliances and arms support for Israel. Iran has long opposed American military backing of Israel. Washington regularly provides billions of dollars and military hardware to secure Israel defenses in the Middle East, sparking major regional political debate."
       }
     },
     {
-      "story_id": "57b010ee-417b-534e-89f8-193c4857dc02",
+      "story_id": "d2a1e0ee-c239-5a73-879b-9f09c19c8384",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fmmzu62xv%2FNCP.jpg?rect=280%2C0%2C1046%2C549&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T07:55:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9236,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/669vboj19s",
-          "title": "এনসিপিতে পাটওয়ারী-হাসনাত-সারজিস-আসিফের পদোন্নতি, বিলুপ্ত ৭ পদ",
-          "snippet": "এনসিপিতে পাটওয়ারী-হাসনাত-সারজিস-আসিফের পদোন্নতি, বিলুপ্ত ৭ পদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় নাগরিক পার্টির ১৯৫ সদস্যের পুনর্গঠিত কমিটি ঘোষণা ও সাত পদ বিলুপ্ত",
-        "title_en": "National Citizens Party Announces 195-Member Restructured Committee and Abolishes Seven Posts",
-        "summary_bn": "জাতীয় নাগরিক পার্টি ১৯৫ সদস্যের পুনর্গঠিত কমিটি প্রকাশ করেছে যেখানে একাধিক শীর্ষ নেতার পদোন্নতি এবং সাতটি সাংগঠনিক পদ বিলুপ্ত করা হয়েছে।",
-        "summary_en": "The National Citizens Party has released a restructured 195-member committee, featuring promotions for key leaders and the abolition of seven posts.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T07:55:57+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টি ১৯৫ সদস্যের পুনর্গঠিত কমিটি প্রকাশ করেছে যেখানে একাধিক শীর্ষ নেতার পদোন্নতি এবং সাতটি সাংগঠনিক পদ বিলুপ্ত করা হয়েছে।",
-        "lead_en": "The National Citizens Party has released a restructured 195-member committee, featuring promotions for key leaders and the abolition of seven posts.",
-        "bullets_bn": [
-          "নাসীরুদ্দীন পাটওয়ারী ও হাসনাত আবদুল্লাহকে জ্যেষ্ঠ যুগ্ম আহ্বায়ক এবং সারজিস আলম ও আসিফ মাহমুদকে জ্যেষ্ঠ যুগ্ম সদস্যসচিব হিসেবে পদোন্নতি দেওয়া হয়েছে।",
-          "নতুন কমিটিতে ২৪ জন যুগ্ম আহ্বায়ক, ছয়জন যুগ্ম সদস্যসচিব, ৩২টি সম্পাদকীয় পদ এবং ১১ জন সাংগঠনিক সম্পাদক রাখা হয়েছে।",
-          "সাংগঠনিক কাঠামো ঢেলে সাজানোর প্রক্রিয়ার অংশ হিসেবে মুখ্য সমন্বয়ক ও মুখপাত্রসহ মোট সাতটি পদ বিলুপ্ত করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Nasiruddin Patwary and Hasnat Abdullah have been promoted to senior joint conveners, while Sarjis Alam and Asif Mahmud are now senior joint member secretaries.",
-          "The new committee includes 24 joint conveners, six joint member secretaries, 32 editorial positions, and 11 organizational secretaries.",
-          "A total of seven organizational posts, including chief coordinator and spokesperson, have been abolished to streamline the party structure."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সালের ২৮ ফেব্রুয়ারি ২১৭ সদস্যের কমিটি নিয়ে জাতীয় নাগরিক পার্টি যাত্রা শুরু করে। পরবর্তীতে দলের কার্যক্রমে বিভিন্ন সংযোজন ও বিয়োজন ঘটে। পুনর্গঠিত এই নতুন কমিটিতে অবিভক্ত বাংলার প্রথম প্রধানমন্ত্রী শেরেবাংলা এ কে ফজলুল হকের নাতনি এ কে ফ্লোরা এবং বিএনপির বহিষ্কৃত নেতা ইসহাক সরকার যুগ্ম আহ্বায়কের পদ লাভ করেছেন। এর মধ্য দিয়ে রাজনৈতিক দলটির অভ্যন্তরীণ সাংগঠনিক কাঠামোর বড় ধরনের রদবদল ঘটল।",
-        "details_en": "The National Citizens Party initially launched on February 28, 2025, with a 217-member committee. Following subsequent additions and adjustments, the newly restructured committee has inducted notable figures such as AK Flora, granddaughter of undivided Bengal's first prime minister Sher-e-Bangla AK Fazlul Huq, and expelled BNP leader Ishak Sarkar as joint conveners, marking a significant administrative overhaul within the party."
-      }
-    },
-    {
-      "story_id": "15ea5ca9-c0c4-5efe-8e3b-e226fe3840ba",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
       ],
       "tags": [
         "#Bangladesh",
@@ -181,155 +128,212 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T07:54:08+00:00",
+      "published_at": "2026-10-23T08:22:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3645,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171132",
+          "title": "পদ্মায় ভ্রাম্যমাণ আদালতের অভিযানে ৯ জেলে আটক",
+          "snippet": "পদ্মায় ভ্রাম্যমাণ আদালতের অভিযানে ৯ জেলে আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পদ্মায় ইলিশ শিকার বিরোধী অভিযানে আটক ৯ জেলে",
+        "title_en": "Nine Fishermen Detained During Hilsa Fishing Ban Drive in Padma River",
+        "summary_bn": "মাদারীপুরের শিবচরে পদ্মা নদীতে নিষেধাজ্ঞা অমান্য করে ইলিশ শিকারের সময় ভ্রাম্যমাণ আদালত পরিচালনা করে নয় জেলেকে আটক করা হয়েছে।",
+        "summary_en": "Authorities detained nine fishermen from the Padma River in Shibchar during a mobile court drive against illegal hilsa fishing.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T08:22:59+00:00",
+        "lead_bn": "মাদারীপুরের শিবচরে পদ্মা নদীতে নিষেধাজ্ঞা অমান্য করে ইলিশ শিকারের সময় ভ্রাম্যমাণ আদালত পরিচালনা করে নয় জেলেকে আটক করা হয়েছে।",
+        "lead_en": "Authorities detained nine fishermen from the Padma River in Shibchar during a mobile court drive against illegal hilsa fishing.",
+        "bullets_bn": [
+          "পদ্মা নদীতে ইলিশ ধরা নিষিদ্ধ সময়ে অভিযান পরিচালনা করে ভ্রাম্যমাণ আদালত।",
+          "অভিযানে আটক নয় জেলেকে আইন লঙ্ঘন করায় বিভিন্ন মেয়াদে কারাদণ্ড দেওয়া হয়েছে।",
+          "ইলিশের প্রজনন নিরাপদ রাখতে নদীতীরে এ ধরনের নিয়মিত অভিযান অব্যাহত রাখবে স্থানীয় প্রশাসন।"
+        ],
+        "bullets_en": [
+          "A mobile court conducted a drive in the Padma River during the ongoing hilsa fishing ban.",
+          "Nine detained fishermen were sentenced to varying jail terms for violating government fishing restrictions.",
+          "Local administration will continue regular river patrols to ensure a safe breeding season for hilsa."
+        ],
+        "impact_bn": "এই অভিযানের ফলে ইলিশের প্রজনন সুরক্ষিত হবে যা ভবিষ্যতে বাজারে মাছের সরবরাহ বাড়াতে সাহায্য করবে।",
+        "impact_en": "The enforcement drive protects breeding hilsa, ultimately helping stabilize fish supplies and fair market prices.",
+        "details_bn": "জাতীয় সম্পদ রক্ষা এবং ইলিশের প্রজনন নিরাপদ রাখতে সরকার নির্দিষ্ট সময়ে নদীতে সব ধরনের ইলিশ শিকার নিষিদ্ধ করে। এই নিষেধাজ্ঞা বাস্তবায়নে জেলা ও উপজেলা প্রশাসনের উদ্যোগে নিয়মিত ভ্রাম্যমাণ আদালত পরিচালিত হয়। আইন অমান্যকারীদের বিরুদ্ধে কারাদণ্ড ও অর্থদণ্ডের মতো কঠোর শাস্তিমূলক ব্যবস্থা নেওয়া হয়ে থাকে।",
+        "details_en": "The government enforces seasonal fishing bans to protect national fish resources and ensure safe hilsa breeding. Local administrations regularly deploy mobile courts along rivers to enforce these restrictions. Violators face strict legal penalties, including jail terms and financial fines, to deter illegal fishing activities during peak breeding cycles."
+      }
+    },
+    {
+      "story_id": "a9fcbf55-115e-5a02-b494-383886aeeb11",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T08:58:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9064,
+      "rank_score": 0.9527,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/ncp/976211/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%A0%E0%A6%A8-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87",
-          "title": "এনসিপি পুনর্গঠন, নতুন দায়িত্বে হাসনাত-সারজিস-আসিফ-পাটওয়ারী",
-          "snippet": "এনসিপি পুনর্গঠন, নতুন দায়িত্বে হাসনাত-সারজিস-আসিফ-পাটওয়ারী"
+          "url": "https://www.banglatribune.com/politics/ncp/976222/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%B6%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%A4%E0%A6%BF",
+          "title": "এনসিপিতে সামান্তা শারমিনের পদাবনতি",
+          "snippet": "এনসিপিতে সামান্তা শারমিনের পদাবনতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় নাগরিক পার্টির নতুন কেন্দ্রীয় আহ্বায়ক কমিটি গঠিত",
-        "title_en": "National Citizen Party Announces Restructured Central Convener Committee",
-        "summary_bn": "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির তালিকা প্রকাশ করেছে যেখানে গুরুত্বপূর্ণ পদ পরিবর্তন আনা হয়েছে।",
-        "summary_en": "The National Citizen Party has published its restructured central convener committee with key leadership appointments.",
+        "title_bn": "জাতীয় নাগরিক পার্টির কমিটিতে সামান্তা শারমিনের পদাবনতি",
+        "title_en": "Samanta Sharmin Demoted in New National Citizen Party Committee",
+        "summary_bn": "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক পদ থেকে সরিয়ে সামান্তা শারমিনকে যুগ্ম আহ্বায়ক করা হয়েছে।",
+        "summary_en": "Samanta Sharmin has been demoted from senior joint convener to joint convener in the new National Citizen Party committee.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T07:54:08+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির তালিকা প্রকাশ করেছে যেখানে গুরুত্বপূর্ণ পদ পরিবর্তন আনা হয়েছে।",
-        "lead_en": "The National Citizen Party has published its restructured central convener committee with key leadership appointments.",
+        "published_at": "2026-10-23T08:58:45+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক পদ থেকে সরিয়ে সামান্তা শারমিনকে যুগ্ম আহ্বায়ক করা হয়েছে।",
+        "lead_en": "Samanta Sharmin has been demoted from senior joint convener to joint convener in the new National Citizen Party committee.",
         "bullets_bn": [
-          "জাতীয় নাগরিক পার্টি তাদের পুনর্গঠিত কেন্দ্রীয় আহ্বায়ক কমিটির আনুষ্ঠানিক তালিকা প্রকাশ করেছে।",
-          "নাহিদ ইসলাম আহ্বায়ক এবং আখতার হোসেন সদস্যসচিব পদে স্বপদে বহাল রয়েছেন।",
-          "শীর্ষ নেতৃত্বে পরিবর্তন এনে নতুন কমিটিতে সিনিয়র যুগ্ম আহ্বায়ক ও সদস্যসচিব পদ দেওয়া হয়েছে।"
+          "জাতীয় নাগরিক পার্টির নতুন কমিটিতে সামান্তা শারমিনের পদাবনতি ঘটেছে",
+          "তিনি এতদিন দলটির সিনিয়র যুগ্ম আহ্বায়ক হিসেবে দায়িত্ব পালন করে আসছিলেন",
+          "দলটির ১৯৫ সদস্যের নতুন কমিটিতে তার পদবি পরিবর্তন করা হয়েছে"
         ],
         "bullets_en": [
-          "The National Citizen Party published the official list of its newly restructured central convener committee.",
-          "Nahid Islam remains as convener and Akhter Hossain continues to serve as member secretary.",
-          "Leadership adjustments brought new faces to senior joint convener and joint member secretary positions."
+          "Samanta Sharmin faced demotion in the newly announced committee of the National Citizen Party.",
+          "She was previously serving as the senior joint convener of the organization.",
+          "Her position was adjusted in the newly formed 195-member committee of the party."
         ],
-        "impact_bn": "এই নেতৃত্ব পরিবর্তন দেশের রাজনৈতিক গতিপ্রকৃতি এবং তরুণ সমাজ পরিচালিত রাজনৈতিক কার্যক্রমে সরাসরি প্রভাব ফেলবে।",
-        "impact_en": "This leadership reshuffle directly influences the political landscape and youth-led political activities in the country.",
-        "details_bn": "জাতীয় নাগরিক পার্টি রাজনৈতিকভাবে নিজেদের সাংগঠনিক কাঠামো শক্তিশালী করতে এবং নতুন রূপরেখা দাঁড় করাতে এই কমিটি পুনর্গঠন করেছে। কমিটির শীর্ষ পদে নাহিদ ইসলাম ও আখতার হোসেনের দায়িত্ব অব্যাহত রাখার পাশাপাশি বেশ কিছু নতুন মুখকে গুরুত্বপূর্ণ পদে যুক্ত করা হয়েছে, যা দলের অভ্যন্তরীণ রাজনীতিতে নতুন সমীকরণ তৈরি করতে পারে।",
-        "details_en": "The National Citizen Party restructured its committee to strengthen its organizational framework and political strategy. While retaining Nahid Islam and Akhter Hossain in the top positions, the party integrated several new faces into crucial roles, marking a significant shift in its internal political dynamics."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই অভ্যুত্থানে গুরুত্বপূর্ণ অবদান রাখা সামান্তা শারমিন এতদিন জাতীয় নাগরিক পার্টির সিনিয়র যুগ্ম আহ্বায়ক হিসেবে দায়িত্ব পালন করছিলেন। সম্প্রতি দলটির পক্ষ থেকে ১৯৫ সদস্যের নতুন কমিটি ঘোষণা করা হয়। এই নতুন কমিটিতে তার পদবি পরিবর্তন করে যুগ্ম আহ্বায়ক করা হয়েছে, যা রাজনৈতিক মহলে আলোচনার জন্ম দিয়েছে।",
+        "details_en": "Samanta Sharmin, who played a significant role in the July uprising, previously served as the senior joint convener of the National Citizen Party. The party recently announced a new 195-member committee where her position was adjusted to a joint convener, marking a notable shift in internal leadership roles."
       }
     },
     {
-      "story_id": "a7e4c179-238b-5197-a5ad-f233d03a4de0",
-      "primary_category": "tech_innovation",
+      "story_id": "6310f5ea-901b-59bf-b771-bc21f59d6be5",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "tech_innovation"
+        "economy_business",
+        "governance_law"
       ],
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fr847r1xf%2FTachPic01.jpg?rect=0%2C0%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T07:43:38+00:00",
+      "published_at": "2026-10-23T08:54:04+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8174,
+      "rank_score": 0.9072,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/zuu95lwd36",
-          "title": "যেভাবে উড়বে টেসলার উড়ন্ত গাড়ি",
-          "snippet": "যেভাবে উড়বে টেসলার উড়ন্ত গাড়ি"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171140",
+          "title": "বিশ্ববাজারে সোনার দামে বড় পতন, বাংলাদেশে নতুন দর কার্যকর",
+          "snippet": "বিশ্ববাজারে সোনার দামে বড় পতন, বাংলাদেশে নতুন দর কার্যকর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টেসলা আনল স্পেসএক্স প্রযুক্তির উড়ন্ত রোডস্টার গাড়ি",
-        "title_en": "Tesla Unveils Flying Roadster Car Powered by SpaceX Tech",
-        "summary_bn": "টেসলা স্পেসএক্স প্রযুক্তির কোল্ড গ্যাস থ্রাস্টার ব্যবহার করে মাটি ছেড়ে আকাশে ভাসতে সক্ষম নতুন রোডস্টার গাড়ি প্রদর্শন করেছে।",
-        "summary_en": "Tesla has showcased a new Roadster capable of hovering above ground using SpaceX-inspired cold-gas thruster technology.",
+        "title_bn": "বিশ্ববাজারে সোনার দাম কমেছে, বাংলাদেশে নতুন দর কার্যকর",
+        "title_en": "Gold Prices Fall in Global Markets With New Rates Effective in Bangladesh",
+        "summary_bn": "আন্তর্জাতিক বাজারে সোনার দাম বড় পতনের মুখে পড়ায় দেশের বাজারেও নতুন দর কার্যকর করেছে জুয়েলারি সমিতি।",
+        "summary_en": "Gold prices dropped significantly in global markets, prompting the jewellers association to adjust local rates in Bangladesh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T07:43:38+00:00",
-        "lead_bn": "টেসলা স্পেসএক্স প্রযুক্তির কোল্ড গ্যাস থ্রাস্টার ব্যবহার করে মাটি ছেড়ে আকাশে ভাসতে সক্ষম নতুন রোডস্টার গাড়ি প্রদর্শন করেছে।",
-        "lead_en": "Tesla has showcased a new Roadster capable of hovering above ground using SpaceX-inspired cold-gas thruster technology.",
+        "published_at": "2026-10-23T08:54:04+00:00",
+        "lead_bn": "আন্তর্জাতিক বাজারে সোনার দাম বড় পতনের মুখে পড়ায় দেশের বাজারেও নতুন দর কার্যকর করেছে জুয়েলারি সমিতি।",
+        "lead_en": "Gold prices dropped significantly in global markets, prompting the jewellers association to adjust local rates in Bangladesh.",
         "bullets_bn": [
-          "টেসলা শূন্য থেকে ঘণ্টায় ৬০ মাইল গতিতে পৌঁছাতে সক্ষম এবং ঘণ্টায় ২৩০ মাইলের বেশি গতিসম্পন্ন নতুন রোডস্টার মডেল প্রদর্শন করেছে।",
-          "গাড়িটিতে স্পেসএক্সের আদলে তৈরি কোল্ড গ্যাস থ্রাস্টার প্রযুক্তি এবং উচ্চচাপে বাতাস জমা রাখার বিশেষ সিওপিভি ট্যাংক ব্যবহার করা হয়েছে।",
-          "সীমিত পরিসরে আমন্ত্রণের ভিত্তিতে বিশেষ এই সংস্করণের গাড়ি ক্রয়ের সুযোগ রাখা হয়েছে।"
+          "আন্তর্জাতিক বাজারে মূল্যবান এই ধাতুর দামে বড় ধরনের সাপ্তাহিক দরপতন রেকর্ড করা হয়েছে।",
+          "বিশ্ববাজারের সাথে সামঞ্জস্য রেখে দেশের বাজারে সোনার নতুন দাম নির্ধারণ ও কার্যকর করা হয়েছে।",
+          "স্থানীয় বাজারে ক্রেতারা এখন নির্ধারিত নতুন মূল্যে সোনা কেনাবেচা করতে পারছেন।"
         ],
         "bullets_en": [
-          "Tesla introduced a new Roadster model capable of exceeding 230 mph and accelerating from zero to sixty mph in under a second.",
-          "The vehicle utilizes SpaceX-inspired cold-gas thruster technology and high-pressure carbon-wrapped pressure vessels to generate upward lift.",
-          "The special version of the vehicle is currently available in limited quantities strictly by invitation."
+          "A significant weekly price drop for the precious metal has been recorded in global markets.",
+          "New gold prices have been fixed and implemented locally to align with international trends.",
+          "Local buyers are now trading gold at the newly adjusted market rates."
         ],
-        "impact_bn": "উড়ন্ত প্রযুক্তির এই গাড়ি ভবিষ্যতে শহুরে যানজট এড়ানোর ক্ষেত্রে নতুন সম্ভাবনার দ্বার উন্মোচন করতে পারে।",
-        "impact_en": "This flying car technology could potentially open new possibilities for avoiding urban traffic congestion in the future.",
-        "details_bn": "বৈদ্যুতিক গাড়ি নির্মাতা প্রতিষ্ঠান টেসলা উদ্ভাবনী প্রযুক্তির অংশ হিসেবে তাদের রোডস্টার মডেলের এই নতুন সংস্করণটি নিয়ে এসেছে। স্পেসএক্সের রকেট প্রযুক্তির আদলে তৈরি কোল্ড গ্যাস থ্রাস্টারের মাধ্যমে এটি মাটি ছেড়ে আকাশে ভাসতে পারে। ইলন মাস্কের প্রদর্শনীতে গাড়িটির চালকবিহীন কসরত দেখানো হলেও, দীর্ঘক্ষণ ওড়ার সক্ষমতা এবং সাধারণ সড়কে এর নিরাপত্তা ও কার্যকারিতা নিয়ে এখনো প্রশ্ন রয়েছে।",
-        "details_en": "Electric vehicle manufacturer Tesla has introduced this new version of the Roadster as part of its innovative technology lineup. It utilizes cold-gas thruster technology inspired by SpaceX rockets to lift off the ground. Although autonomous stunts were demonstrated by Elon Musk, questions remain regarding its long-term flight capability, safety, and practical utility on ordinary roads."
+        "impact_bn": "সোনার দাম হ্রাসের ফলে দেশের গহনা ক্রেতা ও সাধারণ মানুষের জন্য অলংকার কেনা কিছুটা সাশ্রয়ী হয়েছে।",
+        "impact_en": "The reduction in gold prices makes purchasing jewelry slightly more affordable for local consumers.",
+        "details_bn": "আন্তর্জাতিক বাজারে অর্থনৈতিক বিভিন্ন সূচক ও মুদ্রার মান পরিবর্তনের প্রভাবে গত কয়েকদিন ধরে সোনার দাম কমছিল। এর ধারাবাহিকতায় স্থানীয় বাজারেও এর প্রভাব পড়েছে। বাংলাদেশ জুয়েলার্স অ্যাসোসিয়েশন বিশ্ববাজারের সাথে সামঞ্জস্য রেখে নিয়মিতভাবে দেশের বাজারে সোনার দাম নির্ধারণ করে থাকে। সর্বশেষ দরপতনের ফলে ক্রেতাদের মধ্যে কিছুটা স্বস্তি ফিরেছে।",
+        "details_en": "Gold prices have been declining globally over the past few days due to shifts in economic indicators and currency values. This trend directly impacted the domestic market, prompting the Bangladesh Jewellers Association to adjust rates accordingly. Regular price revisions are conducted to reflect global market realities and maintain market stability."
       }
     },
     {
-      "story_id": "a71c99db-04cd-5c06-ad85-e3d37eeb63a8",
+      "story_id": "6e4e89c5-e1f0-5d3b-87a3-e3c390825e36",
       "primary_category": "sports_fitness",
       "interest_categories": [
-        "sports_fitness"
+        "sports_fitness",
+        "world_diplomacy"
       ],
       "tags": [
         "#Sports",
         "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fpcs4wb95%2Fmessi.jpg?rect=0%2C0%2C1200%2C630&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T07:33:44+00:00",
+      "published_at": "2026-10-23T08:53:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7467,
+      "rank_score": 0.9044,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.haal.fashion/celeb/look/dkx7b9bvko",
-          "title": "অল-ব্ল্যাক আউটফিটে মেসি-আন্তোনেলা",
-          "snippet": "অল-ব্ল্যাক আউটফিটে মেসি-আন্তোনেলা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/hocky/1171139",
+          "title": "এশিয়ার সেরাদের বিপক্ষে খেলা চ্যালেঞ্জিং, দিল্লি যাওয়ার আগে আশরাফুল",
+          "snippet": "এশিয়ার সেরাদের বিপক্ষে খেলা চ্যালেঞ্জিং, দিল্লি যাওয়ার আগে আশরাফুল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্পেনে পৌঁছেছেন মেসি",
-        "title_en": "Lionel Messi Arrives in Spain for Princess of Asturias Awards",
-        "summary_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্ত্রী আন্তোনেলা রোকুজ্জোসহ স্পেনের ওভিয়েদো শহরে পৌঁছেছেন লিওনেল মেসি।",
-        "summary_en": "Lionel Messi and his wife Antonela Roccuzzo arrived in Oviedo, Spain, to attend the Princess of Asturias Awards ceremony.",
+        "title_bn": "এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ঢাকা ছেড়েছে বাংলাদেশ দল",
+        "title_en": "Bangladesh Hockey Team Leaves for Asian Champions Trophy",
+        "summary_bn": "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ভারতের উদ্দেশে ঢাকা ছেড়েছে।",
+        "summary_en": "The Bangladesh national hockey team has departed Dhaka for India to participate in the Asian Champions Trophy.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T07:33:44+00:00",
-        "lead_bn": "প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে যোগ দিতে স্ত্রী আন্তোনেলা রোকুজ্জোসহ স্পেনের ওভিয়েদো শহরে পৌঁছেছেন লিওনেল মেসি।",
-        "lead_en": "Lionel Messi and his wife Antonela Roccuzzo arrived in Oviedo, Spain, to attend the Princess of Asturias Awards ceremony.",
+        "published_at": "2026-10-23T08:53:46+00:00",
+        "lead_bn": "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশ নিতে ভারতের উদ্দেশে ঢাকা ছেড়েছে।",
+        "lead_en": "The Bangladesh national hockey team has departed Dhaka for India to participate in the Asian Champions Trophy.",
         "bullets_bn": [
-          "লিওনেল মেসি ও তাঁর স্ত্রী আন্তোনেলা রোকুজ্জো স্পেনের ওভিয়েদো শহরে পৌঁছেছেন।",
-          "তারা প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠানে অংশগ্রহণ করছেন।",
-          "সফরের প্রথম দিনেই তাদের ছিমছাম অল-ব্ল্যাক লুকে দেখা গেছে।"
+          "বাংলাদেশ জাতীয় হকি দল এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকিতে অংশগ্রহণের উদ্দেশ্যে ভারত অভিমুখে যাত্রা শুরু করেছে।",
+          "টুর্নামেন্টে এশিয়ার শীর্ষ দলগুলোর বিপক্ষে খেলা চ্যালেঞ্জিং হবে বলে উল্লেখ করেছেন জাতীয় হকি দলের সংশ্লিষ্টরা।",
+          "ভারত পৌঁছে নির্ধারিত অনুশীলন ও প্রস্তুতি ম্যাচ শেষে প্রতিযোগিতার মূল পর্বে অংশ নেবে বাংলাদেশ দল।"
         ],
         "bullets_en": [
-          "Lionel Messi and his wife Antonela Roccuzzo arrived in the Spanish city of Oviedo.",
-          "They are attending the upcoming Princess of Asturias Awards ceremony.",
-          "The couple drew attention by sporting matching all-black outfits on their first day."
+          "The Bangladesh national hockey team began their journey toward India to participate in the Asian Champions Trophy.",
+          "Team representatives noted that competing against top-tier Asian opponents in the tournament will present a significant challenge.",
+          "Upon reaching India, the Bangladesh team will complete scheduled practice sessions and preparation matches before the main tournament."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্পেনের ওভিয়েদো শহরে আয়োজিত প্রিন্সেস অব আস্তুরিয়াস পুরস্কার অনুষ্ঠান আন্তর্জাতিক অঙ্গনে অত্যন্ত মর্যাদাপূর্ণ একটি ইভেন্ট। এই অনুষ্ঠানে বিশ্বের বিভিন্ন প্রান্তের বিশিষ্ট ব্যক্তি ও তারকারা অংশগ্রহণ করে থাকেন। ফুটবল তারকা লিওনেল মেসির এই উপস্থিতি এবং তার ফ্যাশন চয়েজ ভক্ত ও গণমাধ্যমের নজর কেড়েছে।",
-        "details_en": "The Princess of Asturias Awards ceremony held in Oviedo, Spain, is a prestigious international event that attracts prominent figures and global stars from various fields. Football star Lionel Messi's attendance alongside his wife and their stylish appearance quickly captured the attention of fans and media outlets worldwide."
+        "details_bn": "এশিয়ান চ্যাম্পিয়ন্স ট্রফি হকি প্রতিযোগিতায় অংশ নিতে বাংলাদেশ জাতীয় হকি দল ভারতের উদ্দেশ্যে রওনা হয়েছে। মহাদেশীয় শীর্ষ দলগুলোর অংশগ্রহণে এই টুর্নামেন্টে নিজেদের সেরাটা প্রদর্শনের লক্ষ্য নিয়ে মাঠে নামবে লাল-সবুজের প্রতিনিধিরা। টুর্নামেন্ট শুরুর আগে কন্ডিশন ও নিজেদের কৌশল গুছিয়ে নিতে ভারতের মাটিতে প্রস্তুতি সম্পন্ন করবে দল।",
+        "details_en": "The Bangladesh national hockey team has departed for India to compete in the Asian Champions Trophy. The red-and-green representatives aim to showcase their best performance in this tournament featuring top continental teams. Before the tournament commences, the team will complete their preparations on Indian soil to adapt to conditions and refine strategies."
       }
     }
   ]
