@@ -36,9 +36,10 @@ function decodeFirestoreDoc(doc: any): any {
   return res;
 }
 
-async function fetchFirestoreRest(collectionName: string, pageSize: number = 40): Promise<any[]> {
+async function fetchFirestoreRest(collectionName: string, pageSize: number = 40, orderByField: string = "published_at"): Promise<any[]> {
   try {
-    const res = await fetch(`${FIRESTORE_REST_BASE}/${collectionName}?pageSize=${pageSize}`);
+    const orderParam = orderByField ? `&orderBy=${encodeURIComponent(orderByField + " desc")}` : "";
+    const res = await fetch(`${FIRESTORE_REST_BASE}/${collectionName}?pageSize=${pageSize}${orderParam}`);
     if (res.ok) {
       const data = await res.json();
       const docs = data.documents || [];
@@ -92,7 +93,7 @@ export function calculateDynamicRank(importance: number, publishedAt?: string | 
   return Number((importance / decay).toFixed(4));
 }
 
-function normalizeStory(data: any): CapsuleStory {
+function normalizeStory(data: any, fallbackDate?: string): CapsuleStory {
   const buzz = data.daily_buzz || data.dailyBuzz || {};
   const bcs = data.bcs_pro || data.bcsPro || null;
 
@@ -106,10 +107,10 @@ function normalizeStory(data: any): CapsuleStory {
     tags: data.tags || [],
     image_url: data.image_url || data.imageUrl || null,
     image_caption: data.image_caption || data.imageCaption || null,
-    published_at: data.published_at || data.publishedAt || buzz.published_at || data.created_at || new Date().toISOString(),
+    published_at: data.published_at || data.publishedAt || buzz.published_at || data.created_at || fallbackDate || undefined,
     is_bcs_pro_selected: Boolean(data.is_bcs_pro_selected || data.isBcsProSelected || bcs),
     importance_score: data.importance_score ?? 2.0,
-    rank_score: calculateDynamicRank(data.importance_score ?? 2.0, data.published_at || data.publishedAt || buzz.published_at || data.created_at, 30),
+    rank_score: calculateDynamicRank(data.importance_score ?? 2.0, data.published_at || data.publishedAt || buzz.published_at || data.created_at || fallbackDate, 30),
     sources: data.sources || [],
     daily_buzz: {
       title_bn: cleanEditorialMarkdown(buzz.title_bn || buzz.titleBn || ''),
@@ -128,7 +129,7 @@ function normalizeStory(data: any): CapsuleStory {
       why_it_matters_en: cleanEditorialMarkdown(buzz.why_it_matters_en || buzz.whyItMattersEn || ''),
       interest_categories: buzz.interest_categories || buzz.interestCategories || [],
       read_time_seconds: buzz.read_time_seconds || buzz.readTimeSeconds || 60,
-      published_at: buzz.published_at || data.published_at,
+      published_at: buzz.published_at || data.published_at || fallbackDate,
     },
     bcs_pro: bcs ? {
       syllabus_mapping: bcs.syllabus_mapping,
@@ -188,7 +189,7 @@ function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
 export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
   // 1. Try Firebase Firestore SDK
   try {
-    const q = query(collection(db, 'daily_buzz'), limit(50));
+    const q = query(collection(db, 'daily_buzz'), orderBy('published_at', 'desc'), limit(60));
     const snapshot = await getDocs(q);
     if (!snapshot.empty) {
       const items: CapsuleStory[] = [];
@@ -205,7 +206,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST API
   try {
-    const restItems = await fetchFirestoreRest('daily_buzz', 50);
+    const restItems = await fetchFirestoreRest('daily_buzz', 60, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
       return sortByEditorialRank(items);
@@ -219,6 +220,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
     const res = await fetch('/data/top_stories_latest.json');
     if (res.ok) {
       const json = await res.json();
+      const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
       return sortByEditorialRank(items);
@@ -242,9 +244,10 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
         if (!snap.empty) {
           snap.forEach(docSnap => {
             const data = docSnap.data();
+            const docTime = data.published_at || data.created_at || (data.edition_date ? data.edition_date + "T06:00:00Z" : undefined);
             const stories: any[] = data.stories || [];
             for (const s of stories) {
-              const norm = normalizeStory(s);
+              const norm = normalizeStory(s, typeof docTime !== "undefined" ? docTime : undefined);
               if (norm.story_id && !storyMap.has(norm.story_id)) {
                 storyMap.set(norm.story_id, norm);
               }
@@ -266,9 +269,11 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
         const dRef = doc(db, collName, 'latest');
         const snap = await getDoc(dRef);
         if (snap.exists()) {
-          const stories: any[] = snap.data().stories || [];
+          const snapData = snap.data();
+          const docTime = snapData.published_at || snapData.created_at || (snapData.edition_date ? snapData.edition_date + "T06:00:00Z" : undefined);
+          const stories: any[] = snapData.stories || [];
           for (const s of stories) {
-            const norm = normalizeStory(s);
+            const norm = normalizeStory(s, typeof docTime !== "undefined" ? docTime : undefined);
             if (norm.story_id && !storyMap.has(norm.story_id)) {
               storyMap.set(norm.story_id, norm);
             }
@@ -284,9 +289,10 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
       try {
         const restDocs = await fetchFirestoreRest(collName, 20);
         for (const docData of restDocs) {
+          const docTime = docData.published_at || docData.created_at || (docData.edition_date ? docData.edition_date + "T06:00:00Z" : undefined);
           const stories: any[] = docData.stories || [];
           for (const s of stories) {
-            const norm = normalizeStory(s);
+            const norm = normalizeStory(s, typeof docTime !== "undefined" ? docTime : undefined);
             if (norm.story_id && !storyMap.has(norm.story_id)) {
               storyMap.set(norm.story_id, norm);
             }
@@ -303,9 +309,10 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
     const res = await fetch('/data/current_affairs_latest.json');
     if (res.ok) {
       const json = await res.json();
+      const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
       const stories: any[] = json.stories || [];
       for (const s of stories) {
-        const norm = normalizeStory(s);
+        const norm = normalizeStory(s, typeof docTime !== "undefined" ? docTime : undefined);
         if (norm.story_id && !storyMap.has(norm.story_id)) {
           storyMap.set(norm.story_id, norm);
         }
@@ -321,10 +328,11 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
       const res = await fetch('/data/capsule_latest.json');
       if (res.ok) {
         const json = await res.json();
+      const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
         const stories: any[] = json.stories || [];
         for (const s of stories) {
           if (s.bcs_pro || s.is_bcs_pro_selected) {
-            const norm = normalizeStory(s);
+            const norm = normalizeStory(s, typeof docTime !== "undefined" ? docTime : undefined);
             if (norm.story_id && !storyMap.has(norm.story_id)) {
               storyMap.set(norm.story_id, norm);
             }
@@ -341,7 +349,7 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
 export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
   // 1. Try Firestore SDK
   try {
-    const q = query(collection(db, 'hourly_buzz'), limit(30));
+    const q = query(collection(db, 'hourly_buzz'), orderBy('published_at', 'desc'), limit(40));
     const snap = await getDocs(q);
     if (!snap.empty) {
       const list: CapsuleStory[] = [];
@@ -358,7 +366,7 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST
   try {
-    const restItems = await fetchFirestoreRest('hourly_buzz', 30);
+    const restItems = await fetchFirestoreRest('hourly_buzz', 40, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
       return sortByEditorialRank(items);
@@ -372,6 +380,7 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
     const res = await fetch('/data/hourly_buzz_latest.json');
     if (res.ok) {
       const json = await res.json();
+      const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
       return sortByEditorialRank(items);

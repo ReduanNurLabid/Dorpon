@@ -140,8 +140,8 @@ export const BroadsheetFrontPage: React.FC = () => {
   wireDeskStories.forEach(s => usedTopIds.add(s.story_id));
 
   // Lower 3-column investigations: 2 full rows (6 stories total), 100% deduplicated across the entire broadsheet
+  // Driven dynamically by active buzz stories and latest wire reports (excluding top-placed stories)
   const lowerStories = [
-    ...currentAffairs.filter(s => !usedTopIds.has(s.story_id)),
     ...buzzStories.filter(s => !usedTopIds.has(s.story_id)),
     ...hourlyWires.filter(s => !usedTopIds.has(s.story_id))
   ].slice(0, 6);

@@ -56,7 +56,8 @@
           "international_diplomacy",
           "economy_business"
         ],
-        "read_time_seconds": 180
+        "read_time_seconds": 180,
+        "published_at": "2026-10-20T12:00:00Z"
       },
       "bcs_pro": {
         "syllabus_mapping": {
@@ -136,7 +137,8 @@
         "linked_pyqs": []
       },
       "image_url": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1200&q=80",
-      "image_caption": "Commercial shipping detour around the Cape of Good Hope amid Red Sea maritime escalation • Photo: Unsplash"
+      "image_caption": "Commercial shipping detour around the Cape of Good Hope amid Red Sea maritime escalation • Photo: Unsplash",
+      "published_at": "2026-10-20T12:00:00Z"
     },
     {
       "interest_categories": [
@@ -239,7 +241,8 @@
           "world_diplomacy"
         ],
         "summary_bn": "স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমেদ মিয়ানমারের জোরপূর্বক বাস্তুচ্যুত নাগরিকদের নিজ ভূখণ্ডে টেকসই প্রত্যাবাসন নিশ্চিত করতে আন্তর্জাতিক সম্প্রদায়কে আরও কার্যকর ভূমিকা পালনের আহ্বান জানিয়েছেন। জাতিসংঘের মিয়ানমার বিষয়ক বিশেষ দূত জুলি ইবেল বিশপের সাথে এক সৌজন্য সাক্ষাৎকালে তিনি এই আহ্বান জানান। এই বৈঠকটি দীর্ঘস্থায়ী রোহিঙ্গা সংকটের স্থায়ী সমাধানের ওপর নতুন করে জোর দিয়েছে।",
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T12:00:00Z"
       },
       "image_url": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1200&q=80",
       "image_caption": "চিত্র: আন্তর্জাতিক কূটনীতি ও রোহিঙ্গা প্রত্যাবাসন সহায়তা।",
@@ -346,7 +349,8 @@
           "tech_innovation"
         ],
         "summary_bn": "গণতন্ত্র কেবল আনুষ্ঠানিক নির্বাচন বা সংবিধানের মধ্যে সীমাবদ্ধ থাকলেই তা জনকল্যাণ নিশ্চিত করতে পারে না। যখন পারিবারিক সম্পর্ক ও ব্যক্তিস্বার্থ ক্ষমতা এবং রাষ্ট্রীয় সম্পদ বণ্টনের মূল নিয়ামক হয়ে দাঁড়ায়, তখন গণতান্ত্রিক ব্যবস্থা এক ধরণের ব্যক্তিগত রাজনৈতিক অর্থনীতিতে পরিণত হয়। এই সংকট সুশাসন ও প্রশাসনিক নিরপেক্ষতাকে মারাত্মকভাবে ব্যাহত করে।",
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T12:00:00Z"
       },
       "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=1200&q=80",
       "image_caption": "চিত্র: গণতান্ত্রিক সুশাসন ও রাষ্ট্রীয় প্রতিষ্ঠান সংস্কার।",
@@ -381,7 +385,8 @@
           "world_diplomacy",
           "society_education"
         ],
-        "read_time_seconds": 60
+        "read_time_seconds": 60,
+        "published_at": "2026-10-20T12:00:00Z"
       },
       "bcs_pro": {
         "bcs_subject_area": "Bangladesh Affairs",
@@ -437,7 +442,8 @@
         ]
       },
       "image_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
-      "image_caption": "চিত্র: বাংলাদেশে অর্থনৈতিক উন্নয়ন ও নগর মধ্যবিত্তের বিস্তার।"
+      "image_caption": "চিত্র: বাংলাদেশে অর্থনৈতিক উন্নয়ন ও নগর মধ্যবিত্তের বিস্তার।",
+      "published_at": "2026-10-20T12:00:00Z"
     }
   ]
 }
