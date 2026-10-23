@@ -1,119 +1,9 @@
 {
-  "updated_at": "2026-10-23T18:00:56.864987",
+  "updated_at": "2026-10-23T19:00:52.045140",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "2c0a0ace-7fae-5d57-bcb9-5a06bc5b2f47",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "society_education"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Tree-saplings-in-exchange-for-plastic.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T17:51:19+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8789,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/tree-saplings-in-exchange-for-plastic-prayas-commits-to-building-a-greener-pakundia/",
-          "title": "প্লাস্টিকের বিনিময়ে মিলছে গাছের চারা",
-          "snippet": "প্লাস্টিকের বিনিময়ে মিলছে গাছের চারা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কিশোরগঞ্জে প্লাস্টিক বর্জ্যের বিনিময়ে বিনামূল্যে গাছের চারা বিতরণ",
-        "title_en": "Kishoreganj Voluntary Group Distributes Saplings in Exchange for Plastic Waste",
-        "summary_bn": "কিশোরগঞ্জের পাকুন্দিয়ায় পরিবেশ দূষণ রোধ ও বৃক্ষরোপণ উৎসাহিত করতে প্লাস্টিক বর্জ্যের বিনিময়ে প্রায় সাতশো গাছের চারা বিতরণ করা হয়েছে।",
-        "summary_en": "About seven hundred saplings were distributed in Kishoreganj in exchange for plastic waste to promote tree planting and combat pollution.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:51:19+00:00",
-        "lead_bn": "কিশোরগঞ্জের পাকুন্দিয়ায় পরিবেশ দূষণ রোধ ও বৃক্ষরোপণ উৎসাহিত করতে প্লাস্টিক বর্জ্যের বিনিময়ে প্রায় সাতশো গাছের চারা বিতরণ করা হয়েছে।",
-        "lead_en": "About seven hundred saplings were distributed in Kishoreganj in exchange for plastic waste to promote tree planting and combat pollution.",
-        "bullets_bn": [
-          "পাকুন্দিয়ায় স্বেচ্ছাসেবী সামাজিক সংগঠন প্রয়াস প্লাস্টিকের বিনিময়ে বৃক্ষ কর্মসূচি পরিচালনা করে",
-          "তিনটি প্লাস্টিকের বোতল জমা দিয়ে অংশগ্রহণকারীরা একটি করে ফলজ বনজ ও ঔষধি চারা সংগ্রহ করেন",
-          "সংগঠনটি প্লাস্টিক বর্জ্য ব্যবস্থাপনার মাধ্যমে পরিবেশ সুরক্ষা ও জনসচেতনতা বাড়ানোর পরিকল্পনা হাতে নিয়েছে"
-        ],
-        "bullets_en": [
-          "Voluntary social organization Proyas organized the trees for plastic campaign in Pakundia",
-          "Participants collected fruit medicinal and timber saplings by depositing three plastic bottles each",
-          "The organization plans to enhance environmental protection and public awareness through proper waste management"
-        ],
-        "impact_bn": "এই উদ্যোগ সাধারণ মানুষ ও শিক্ষার্থীদের মধ্যে বর্জ্য পুনর্ব্যবহার এবং বৃক্ষরোপণের মাধ্যমে পরিবেশ রক্ষায় সচেতন অভ্যাস গড়ে তুলছে।",
-        "impact_en": "This initiative builds conscious habits among citizens and students for environmental protection through waste recycling and tree planting.",
-        "details_bn": "প্লাস্টিক ও পলিথিনের নির্বিচার ব্যবহার পরিবেশের জন্য মারাত্মক হুমকি হয়ে দাঁড়িয়েছে। এই প্রেক্ষাপটে কিশোরগঞ্জের পাকুন্দিয়ায় স্বেচ্ছাসেবী সামাজিক সংগঠন প্রয়াস প্লাস্টিক দূষণ রোধে ব্যতিক্রমী এই উদ্যোগ গ্রহণ করে। স্থানীয় মানুষ ও শিক্ষার্থীরা বাড়িতে জমাকৃত প্লাস্টিক বর্জ্য জমা দিয়ে গাছের চারা সংগ্রহ করেন। আয়োজকদের লক্ষ্য সচেতনতামূলক বক্তব্যের পাশাপাশি মানুষের সরাসরি অংশগ্রহণের মাধ্যমে প্লাস্টিক বর্জ্য ব্যবস্থাপনায় ইতিবাচক পরিবর্তন আনা।",
-        "details_en": "Indiscriminate use of plastic and polythene poses a severe threat to the environment. Addressing this, voluntary organization Proyas in Pakundia Kishoreganj launched this unique initiative to combat plastic pollution. Local residents and students collected saplings by depositing plastic waste accumulated at home. The organizers aim to bring positive changes in waste management through direct public participation alongside awareness campaigns."
-      }
-    },
-    {
-      "story_id": "439a504d-ce86-5b4c-b699-501c74e76c17",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Capture-4.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T17:50:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8753,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/body-of-jubo-mohila-league-leader-whose-activities-were-banned-recovered-from-her-own-flat/",
-          "title": "নিজ ফ্ল্যাট থেকে কার্যক্রম নিষিদ্ধ যুব মহিলা লীগ নেত্রীর মরদেহ উদ্ধার",
-          "snippet": "নিজ ফ্ল্যাট থেকে কার্যক্রম নিষিদ্ধ যুব মহিলা লীগ নেত্রীর মরদেহ উদ্ধার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দক্ষিণ কেরানীগঞ্জে নিষিদ্ধ যুব মহিলা লীগ নেত্রীর গলাকাটা মরদেহ উদ্ধার",
-        "title_en": "Slit-Throat Body of Banned Jubo Mohila League Leader Recovered in Keraniganj",
-        "summary_bn": "পুলিশ দক্ষিণ কেরানীগঞ্জে নিজ ফ্ল্যাট থেকে নিষিদ্ধ বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি ডালিয়া আক্তারের গলাকাটা মরদেহ উদ্ধার করেছে।",
-        "summary_en": "Police recovered the slit-throat body of banned Jubo Mohila League leader Dalia Akter from her flat in South Keraniganj.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:50:54+00:00",
-        "lead_bn": "পুলিশ দক্ষিণ কেরানীগঞ্জে নিজ ফ্ল্যাট থেকে নিষিদ্ধ বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি ডালিয়া আক্তারের গলাকাটা মরদেহ উদ্ধার করেছে।",
-        "lead_en": "Police recovered the slit-throat body of banned Jubo Mohila League leader Dalia Akter from her flat in South Keraniganj.",
-        "bullets_bn": [
-          "দক্ষিণ কেরানীগঞ্জ থানার পুলিশ রসুলপুর বাজারের সোনালী ব্যাংক ভবনের তৃতীয় তলার একটি ফ্ল্যাট থেকে মরদেহটি উদ্ধার করে।",
-          "নিহত ডালিয়া আক্তারের গলায় ধারালো অস্ত্রের আঘাত রয়েছে এবং সিআইডির ক্রাইম ইউনিট ঘটনাস্থলে কাজ করছে।",
-          "পুলিশ মরদেহ ময়নাতদন্তের জন্য স্যার সলিমুল্লাহ মেডিকেল কলেজ মর্গে পাঠিয়েছে এবং ঘটনার তদন্ত চলছে।"
-        ],
-        "bullets_en": [
-          "Police recovered the body from a third-floor flat in the Sonali Bank building at Rasulpur Bazar in South Keraniganj.",
-          "The victim bore sharp weapon injuries on her neck while CID crime units initiated forensic investigations at the scene.",
-          "Police sent the body to Sir Salimullah Medical College morgue for autopsy while further investigation is underway."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ডালিয়া আক্তার বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি এবং চর বাঘাপুর সরকারি প্রাথমিক বিদ্যালয়ের খণ্ডকালীন শিক্ষক ছিলেন। স্বামীর সঙ্গে বিবাহবিচ্ছেদের পর তিনি দুই মেয়ের সঙ্গে ওই ফ্ল্যাটে বসবাস করতেন। মেয়েদের বিয়ের পর থেকে তিনি একা থাকছিলেন। স্থানীয়দের মাধ্যমে খবর পেয়ে পুলিশ তার মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য পাঠায়।",
-        "details_en": "Dalia Akter served as the president of the banned Basta Union Jubo Mohila League and worked as a part-time teacher at Char Baghopur Government Primary School. Following her divorce, she lived in the flat with her two daughters. After her daughters got married, she resided there alone until police recovered her body following local reports."
-      }
-    },
-    {
-      "story_id": "1aa99311-46fd-5e32-aa39-12516e7c12fc",
+      "story_id": "f70bf444-c351-54b2-ae07-968b9a5b6697",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -122,108 +12,164 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2025/10/2024-06-08T150946Z_1201396069_RC2378AFHZVP_RTRMADP_3_ISRAEL-PALESTINIANS-HOSTAGES-e1719157956489-425x288-1.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T17:50:28+00:00",
+      "published_at": "2026-10-23T18:17:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8715,
+      "importance_score": 4.8,
+      "rank_score": 1.3077,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/netanyahu-discussions-underway-with-several-countries-on-relocating-palestinians-from-gaza/",
-          "title": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সঙ্গে আলোচনা: নেতানিয়াহু",
-          "snippet": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সঙ্গে আলোচনা: নেতানিয়াহু"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976325/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%AA%E0%A7%A7-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A6%BE-%E0%A7%A8%E0%A7%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "ঢাকা থেকে ১৪১ ফ্লাইট বাতিল, আটকা ২২ হাজার যাত্রী",
+          "snippet": "ঢাকা থেকে ১৪১ ফ্লাইট বাতিল, আটকা ২২ হাজার যাত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সাথে আলোচনা চলছে বলে জানান নেতানিয়াহু",
-        "title_en": "Netanyahu Confirms Talks With Several Countries to Relocate Palestinians From Gaza",
-        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জানিয়েছেন, গাজা থেকে বাস্তুচ্যুত ফিলিস্তিনিদের অন্য দেশে স্থানান্তরের বিষয়ে কয়েকটি দেশের সঙ্গে আলোচনা চলছে।",
-        "summary_en": "Israeli Prime Minister Benjamin Netanyahu confirmed that discussions are underway with several countries to relocate displaced Palestinians from Gaza.",
+        "title_bn": "সৌদি আরবে হুথি হামলার জেরে ঢাকা থেকে ১৪১ ফ্লাইট বাতিল",
+        "title_en": "One Hundred Forty One Flights From Dhaka Cancelled Due To Houthi Attacks In Saudi Arabia",
+        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের নিরাপত্তা আশঙ্কায় ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল করা হয়েছে।",
+        "summary_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to security concerns following Houthi rebel attacks in Saudi Arabia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:50:28+00:00",
-        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জানিয়েছেন, গাজা থেকে বাস্তুচ্যুত ফিলিস্তিনিদের অন্য দেশে স্থানান্তরের বিষয়ে কয়েকটি দেশের সঙ্গে আলোচনা চলছে।",
-        "lead_en": "Israeli Prime Minister Benjamin Netanyahu confirmed that discussions are underway with several countries to relocate displaced Palestinians from Gaza.",
+        "published_at": "2026-10-23T18:17:55+00:00",
+        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের নিরাপত্তা আশঙ্কায় ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল করা হয়েছে।",
+        "lead_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to security concerns following Houthi rebel attacks in Saudi Arabia.",
         "bullets_bn": [
-          "দক্ষিণ সুদান, সোমালিল্যান্ড, ইথিওপিয়া, লিবিয়া ও ইন্দোনেশিয়ার সঙ্গে ফিলিস্তিনিদের স্থানান্তরের বিষয়ে আলোচনা চলছে।",
-          "সংশ্লিষ্ট দেশগুলো গাজার বাসিন্দাদের আশ্রয় দেওয়ার বিনিময়ে উল্লেখযোগ্য আর্থিক ও আন্তর্জাতিক ক্ষতিপূরণ দাবি করেছে।",
-          "পুনর্বাসনের পরিকল্পনাটি বাস্তবায়িত হলে মধ্যপ্রাচ্যে নতুন কূটনৈতিক ও মানবিক সংকট তৈরি হতে পারে।"
+          "নিরাপত্তা ঝুঁকির কারণে ঢাকা থেকে রিয়াদ ও দাম্মাম রুটের ফ্লাইট চলাচল স্থগিত করা হয়েছে।",
+          "বাতিল হওয়া ফ্লাইটের কারণে বর্তমানে প্রায় ২১ হাজার ৯৩৩ জন যাত্রী আটকা পড়েছেন।",
+          "বেসামরিক বিমান চলাচল কর্তৃপক্ষের জনসংযোগ বিভাগ ফ্লাইট বাতিলের এই তথ্য নিশ্চিত করেছে।"
         ],
         "bullets_en": [
-          "Discussions regarding the relocation of Palestinians involve South Sudan, Somaliland, Ethiopia, Libya, and Indonesia.",
-          "The countries involved are reportedly demanding significant financial and international compensation in exchange for shelter.",
-          "Implementation of this relocation plan risks triggering a new diplomatic and humanitarian crisis in the region."
+          "Flight operations on Dhaka to Riyadh and Dammam routes have been suspended due to security risks.",
+          "A total of 21933 passengers are currently stranded due to the flight cancellations.",
+          "The Public Relations Department of the Civil Aviation Authority confirmed the cancellation figures."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে নতুন রাজনৈতিক অস্থিরতা ও ফিলিস্তিনিদের স্থায়ী বাস্তুচ্যুতির ঝুঁকি তৈরি হয়েছে।",
-        "impact_en": "The relocation push deepens regional instability and threatens permanent displacement for thousands of Palestinians.",
-        "details_bn": "যুদ্ধ-পরবর্তী গাজার ভবিষ্যৎ নিয়ে সুনির্দিষ্ট পরিকল্পনা না দিলেও ফিলিস্তিনিদের অন্য দেশে পুনর্বাসনের পক্ষে বারবার কথা বলেছেন ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু। তার দাবি, এটি জোরপূর্বক বিতাড়ন নয় বরং ফিলিস্তিনিদের চলে যাওয়ার সুযোগ দেওয়া। তবে দক্ষিণ সুদান ও সোমালিল্যান্ড এই পুনর্বাসন আলোচনা প্রত্যাখ্যান করেছে। এদিকে গাজা সিটির নিয়ন্ত্রণ নেওয়ার ইসরায়েলি পরিকল্পনা এবং সংঘাতের তীব্রতা নিয়ে আন্তর্জাতিক মহলে উদ্বেগ বেড়েই চলেছে।",
-        "details_en": "Israeli Prime Minister Benjamin Netanyahu has repeatedly advocated for relocating displaced Palestinians, framing it as providing an exit rather than forced expulsion, despite lacking a detailed post-war plan for Gaza. While countries like South Sudan and Somaliland have rejected reports of such relocation talks, international concern continues to mount over Israel's military plans and the escalating humanitarian crisis in Gaza."
+        "impact_bn": "সৌদি আরবগামী যাত্রীরা আকস্মিক ফ্লাইট বাতিল ও দীর্ঘ অপেক্ষার কারণে চরম ভোগান্তির শিকার হচ্ছেন।",
+        "impact_en": "Passengers bound for Saudi Arabia are facing severe disruptions and uncertainty due to sudden flight cancellations.",
+        "details_bn": "সৌদি আরবের বিভিন্ন অঞ্চলে হুথি বিদ্রোহীদের ধারাবাহিক ড্রোন ও ক্ষেপণাস্ত্র হামলার ফলে মধ্যপ্রাচ্যের আকাশসীমায় নিরাপত্তা ঝুঁকি তৈরি হয়েছে। এর প্রভাব পড়েছে আন্তর্জাতিক বিমান চলাচলে। এর অংশ হিসেবে ঢাকা থেকে সৌদি আরবগামী ফ্লাইটগুলোর সময়সূচিতে বিপর্যয় দেখা দেয় এবং নিরাপত্তা নিশ্চিত করতে বিমান চলাচল কর্তৃপক্ষ ও সংশ্লিষ্ট এয়ারলাইনসগুলো ফ্লাইট বাতিল করতে বাধ্য হয়। এতে মধ্যপ্রাচ্যগামী হাজার হাজার প্রবাসী শ্রমিক ও যাত্রীরা বিমানবন্দরে আটকা পড়েন।",
+        "details_en": "Persistent drone and missile attacks by Houthi rebels across various regions of Saudi Arabia have created significant security risks in Middle Eastern airspace, directly impacting international aviation. Consequently, flight schedules from Dhaka to Saudi Arabia faced major disruptions, forcing aviation authorities and airlines to cancel services to ensure passenger safety, leaving thousands of expatriate workers and travelers stranded."
       }
     },
     {
-      "story_id": "39c86452-0bd2-5ebd-9499-3b447b6c4460",
-      "primary_category": "society_education",
+      "story_id": "4f5b14a3-3cc4-50f5-8db9-f11480f67583",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "tech_innovation",
+        "economy_business"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled-38.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T17:49:26+00:00",
+      "published_at": "2026-10-23T17:19:08+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8626,
+      "importance_score": 6.0,
+      "rank_score": 1.0957,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/madrasa-teacher-jailed-on-charges-of-sexually-abusing-a-student/",
-          "title": "শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে কারাগারে মাদ্রাসার শিক্ষক",
-          "snippet": "শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে কারাগারে মাদ্রাসার শিক্ষক"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/business/976319/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A7%80-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%93-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7",
+          "title": "বিশ্বব্যাপী সাইবার সতর্কতায় দ্বিতীয় দিনও বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট",
+          "snippet": "বিশ্বব্যাপী সাইবার সতর্কতায় দ্বিতীয় দিনও বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টঙ্গীতে শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে মাদ্রাসার শিক্ষক কারাগারে",
-        "title_en": "Madrasa teacher jailed in Tongi over child sexual abuse allegations",
-        "summary_bn": "টঙ্গীতে এক শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে দায়ের করা মামলায় মাদ্রাসার এক শিক্ষককে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "A madrasa teacher has been sent to jail in a case filed over the sexual abuse of a child student in Tongi.",
+        "title_bn": "বিশ্বব্যাপী সাইবার সতর্কতায় টানা দ্বিতীয় দিন বন্ধ বাংলাদেশ ব্যাংকের ওয়েবসাইট",
+        "title_en": "Bangladesh Bank Website Remains Shut for Second Day Amid Cyber Alert",
+        "summary_bn": "বিশ্বব্যাপী সাইবার নিরাপত্তার সতর্কবার্তা পেয়ে সতর্কতামূলক ব্যবস্থা হিসেবে বাংলাদেশ ব্যাংকের ওয়েবসাইট টানা দ্বিতীয় দিনের মতো বন্ধ রাখা হয়েছে।",
+        "summary_en": "The Bangladesh Bank website remained shut for the second consecutive day as a precautionary measure following a global cyber security alert.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "tech_innovation",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:49:26+00:00",
-        "lead_bn": "টঙ্গীতে এক শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে দায়ের করা মামলায় মাদ্রাসার এক শিক্ষককে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "A madrasa teacher has been sent to jail in a case filed over the sexual abuse of a child student in Tongi.",
+        "published_at": "2026-10-23T17:19:08+00:00",
+        "lead_bn": "বিশ্বব্যাপী সাইবার নিরাপত্তার সতর্কবার্তা পেয়ে সতর্কতামূলক ব্যবস্থা হিসেবে বাংলাদেশ ব্যাংকের ওয়েবসাইট টানা দ্বিতীয় দিনের মতো বন্ধ রাখা হয়েছে।",
+        "lead_en": "The Bangladesh Bank website remained shut for the second consecutive day as a precautionary measure following a global cyber security alert.",
         "bullets_bn": [
-          "যৌন নিপীড়নের অভিযোগে অভিযুক্ত শিক্ষককে আদালতে হাজির করার পর বিচারক তাকে কারাগারে পাঠানোর নির্দেশ দেন।",
-          "ভুক্তভোগী শিক্ষার্থীর বাবা মাদ্রাসাশিক্ষক মোসলেম আহম্মদের বিরুদ্ধে নারী ও শিশু নির্যাতন আইনে মামলা দায়ের করেন।",
-          "মাদ্রাসায় ভাঙচুর ও অর্থ লুটের অভিযোগে মাদ্রাসা কর্তৃপক্ষের পক্ষ থেকে একটি পাল্টা মামলা দায়ের করা হয়েছে।"
+          "সাইবার নিরাপত্তা ঝুঁকির কারণে কেন্দ্রীয় ব্যাংক সাময়িকভাবে তাদের অফিশিয়াল ওয়েবসাইট বন্ধ রেখেছে",
+          "কেন্দ্রীয় ব্যাংকের সঙ্গে দেশের সব বাণিজ্যিক ব্যাংকের অভ্যন্তরীণ সংযোগ ও আর্থিক কার্যক্রম সম্পূর্ণ স্বাভাবিক রয়েছে",
+          "নিরাপত্তা পরিস্থিতি সার্বক্ষণিক পর্যবেক্ষণ শেষে ওয়েবসাইট পুনরায় চালুর পরবর্তী সিদ্ধান্ত নেওয়া হবে"
         ],
         "bullets_en": [
-          "The accused teacher was sent to jail by the court following charges of sexual abuse against a child student.",
-          "The father of the victimized student filed a formal case against madrasa teacher Moslem Ahmed.",
-          "The madrasa authority has filed a counter case alleging vandalism and looting on the institution premises."
+          "The central bank temporarily shut down its official website citing potential cyber security risks",
+          "Internal connectivity and financial operations between the central bank and commercial banks remain fully normal",
+          "The website will be restored after continuous monitoring and verification of the current security situation"
         ],
-        "impact_bn": "educational institutions-এ শিশুদের নিরাপত্তা এবং অভিভাবকদের উদ্বেগ নিয়ে তীব্র সামাজিক আলোচনার সৃষ্টি হয়েছে।",
-        "impact_en": "The incident has triggered intense public concern regarding child safety inside educational institutions.",
-        "details_bn": "টঙ্গীর আউচপাড়া এলাকার একটি মাদ্রাসায় শিশু শিক্ষার্থীকে যৌন নিপীড়নের ঘটনা ঘটে। এর জেরে স্থানীয় লোকজন ও শিক্ষার্থীর অভিভাবকরা অভিযুক্ত শিক্ষককে মারধর করেন এবং পুলিশে সোপর্দ করেন। পরবর্তীতে পুলিশ তাকে আদালতের মাধ্যমে কারাগারে পাঠায়। এ ঘটনায় উভয় পক্ষের পাল্টাপাল্টি মামলা ও সামাজিক যোগাযোগমাধ্যমে ভিডিও ছড়িয়ে পড়ার পর বিষয়টি নিয়ে ব্যাপক চাঞ্চল্য সৃষ্টি হয়।",
-        "details_en": "The incident occurred at a madrasa in the Auchpara area of Tongi where a child student was reportedly sexually abused. Enraged locals and guardians confronted and beat the accused teacher before handing him over to police, who later sent him to jail. Counter cases from both parties and viral footage of the altercation have sparked widespread discussions."
+        "impact_bn": "সাধারণ গ্রাহকদের অনলাইন ব্যাংকিং লেনদেন স্বাভাবিক থাকলেও কেন্দ্রীয় ব্যাংকের তথ্যসেবা সাময়িকভাবে ব্যাহত হচ্ছে।",
+        "impact_en": "Online banking transactions for ordinary citizens remain normal though central bank information services are temporarily restricted.",
+        "details_bn": "বৈশ্বিক সাইবার নিরাপত্তা সতর্কতার অংশ হিসেবে ডিজিটাল অবকাঠামোর সুরক্ষা নিশ্চিত করতে এই পদক্ষপে নিয়েছে বাংলাদেশ ব্যাংক। রাষ্ট্রীয় ও আর্থিক প্রতিষ্ঠানের ওয়েবসাইটগুলোতে সাইবার হামলার ঝুঁকি এড়াতে এ ধরনের সতর্কতামূলক শাটডাউন কার্যকর করা হয়ে থাকে।",
+        "details_en": "Bangladesh Bank took this precautionary step to ensure the security of its digital infrastructure following a global cyber security alert. Such defensive shutdowns are routinely implemented to mitigate potential cyber attack risks on state and financial institution websites."
       }
     },
     {
-      "story_id": "f7c1348d-918b-50af-9b2d-98e5d0fe0072",
+      "story_id": "f54b2dad-df12-53e0-b0a3-4184df9732b6",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T18:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9143,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/other-sports/976327/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0%E0%A6%BE",
+          "title": "কেনিয়ার কাছে হারলো বাংলাদেশের মেয়েরা",
+          "snippet": "কেনিয়ার কাছে হারলো বাংলাদেশের মেয়েরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে কেনিয়ার কাছে বাংলাদেশের নারীদের হার",
+        "title_en": "Bangladesh Women Lose to Kenya in Commonwealth Kabaddi Championship",
+        "summary_bn": "ভারতের আহমেদাবাদে কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে কেনিয়া নারী দলের কাছে ৩৪-২৫ পয়েন্টে পরাজিত হয়েছে বাংলাদেশ দল।",
+        "summary_en": "Bangladesh women lost to Kenya by 34-25 points in the Commonwealth Kabaddi Championship in Ahmedabad, India.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T18:55:00+00:00",
+        "lead_bn": "ভারতের আহমেদাবাদে কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে কেনিয়া নারী দলের কাছে ৩৪-২৫ পয়েন্টে পরাজিত হয়েছে বাংলাদেশ দল।",
+        "lead_en": "Bangladesh women lost to Kenya by 34-25 points in the Commonwealth Kabaddi Championship in Ahmedabad, India.",
+        "bullets_bn": [
+          "কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপে কেনিয়া নারী দলের মুখোমুখি হয় বাংলাদেশ নারী দল।",
+          "ম্যাচে বাংলাদেশ দল কেনিয়ার কাছে ৩৪-২৫ পয়েন্টের ব্যবধানে পরাজিত হয়।",
+          "নারী দলের এই পরাজয়ের পর পুরুষ বিভাগেও কেনিয়ার বিপক্ষে ম্যাচের প্রস্তুতি নিয়ে সতর্ক রয়েছে বাংলাদেশ।"
+        ],
+        "bullets_en": [
+          "Bangladesh women faced the Kenyan team in the Commonwealth Kabaddi Championship.",
+          "Bangladesh suffered a 34-25 point defeat against Kenya in the match.",
+          "Following the defeat of the women team, the Bangladesh men team remains cautious ahead of their fixture against Kenya."
+        ],
+        "impact_bn": "খেলোয়াড় ও তরুণ ক্রীড়াবিদরা আন্তর্জাতিক প্রতিযোগিতায় নিজেদের কৌশল আরও শাণিত করার তাগিদ অনুভব করছেন।",
+        "impact_en": "Athletes and young sports enthusiasts recognize the need to sharpen tactical execution for upcoming international competitions.",
+        "details_bn": "ভারতের আহমেদাবাদে অনুষ্ঠিত হচ্ছে কমনওয়েলথ কাবাডি চ্যাম্পিয়নশিপ। টুর্নামেন্টের নারী বিভাগে কেনিয়ার কাছে বাংলাদেশ দল পরাজিত হওয়ায় পুরুষ দলের ম্যাচের আগে বাড়তি সতর্কতা নিয়েছে টিম ম্যানেজমেন্ট। কেনিয়ার কাবাডির উন্নতি এবং তাদের খেলার কৌশল নিয়ে কোচ আব্দুল জলিল সংবাদমাধ্যমকে নিজেদের ভাবনার কথা জানিয়েছেন।",
+        "details_en": "The Commonwealth Kabaddi Championship is taking place in Ahmedabad, India. Following the defeat of the women team against Kenya, the management has adopted a cautious approach for the men fixtures. Coach Abdul Jalil noted the steady improvement of the Kenyan kabaddi team on the international stage."
+      }
+    },
+    {
+      "story_id": "a960fce8-b00e-5504-9386-5f3ad430b79b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -233,25 +179,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fohb9qim2%2FRace-Course-Masjid-1-.JPG?rect=0%2C230%2C519%2C272&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fvdz925fn%2FCapture.PNG?rect=0%2C80%2C869%2C456&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T17:43:56+00:00",
+      "published_at": "2026-10-23T18:46:22+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.818,
+      "rank_score": 0.8388,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/jblj58coi4",
-          "title": "বিদ্যুৎ ও পানি বন্ধ, উচ্ছেদ-আতঙ্কের মধ্যেই দিল্লির শতবর্ষী মসজিদে জুমার নামাজ পড়লেন মুসল্লিরা",
-          "snippet": "বিদ্যুৎ ও পানি বন্ধ, উচ্ছেদ-আতঙ্কের মধ্যেই দিল্লির শতবর্ষী মসজিদে জুমার নামাজ পড়লেন মুসল্লিরা"
+          "url": "https://www.prothomalo.com/world/usa/9pnykuuv7g",
+          "title": "‘ইরানে নরক নামিয়েছিলাম, আরও কঠোর হতে পারি’",
+          "snippet": "‘ইরানে নরক নামিয়েছিলাম, আরও কঠোর হতে পারি’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দিল্লির শতবর্ষী রেসকোর্স মসজিদে বিদ্যুৎ-পানি বন্ধের মধ্যেই জুমার নামাজ আদায়",
-        "title_en": "Muslims Offer Friday Prayers at Delhi Century-Old Mosque Amid Utility Disconnections",
-        "summary_bn": "প্রশাসনের উচ্ছেদ আতঙ্ক ও বিদ্যুৎ সংযোগ বিচ্ছিন্ন করার কঠোর নিরাপত্তার মাঝেই দিল্লির শতাব্দীপ্রাচীন রেসকোর্স মসজিদে জুমার নামাজ আদায় করেছেন মুসল্লিরা।",
-        "summary_en": "Muslims offered Friday prayers at Delhi's century-old Race Course Mosque amid strict security and administrative utility disconnections.",
+        "title_bn": "ইরানে নতুন সামরিক আগ্রাসনের ইঙ্গিত মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের",
+        "title_en": "US President Donald Trump Hints at New Military Action Against Iran",
+        "summary_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানে আরও কঠোর সামরিক হামলা চালানোর হুমকি দিয়েছেন, যা মধ্যপ্রাচ্যে নতুন যুদ্ধের আশঙ্কা তৈরি করেছে।",
+        "summary_en": "US President Donald Trump has threatened to launch harsher military strikes against Iran, raising fears of a new regional conflict.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -259,77 +205,133 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:43:56+00:00",
-        "lead_bn": "প্রশাসনের উচ্ছেদ আতঙ্ক ও বিদ্যুৎ সংযোগ বিচ্ছিন্ন করার কঠোর নিরাপত্তার মাঝেই দিল্লির শতাব্দীপ্রাচীন রেসকোর্স মসজিদে জুমার নামাজ আদায় করেছেন মুসল্লিরা।",
-        "lead_en": "Muslims offered Friday prayers at Delhi's century-old Race Course Mosque amid strict security and administrative utility disconnections.",
+        "published_at": "2026-10-23T18:46:22+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানে আরও কঠোর সামরিক হামলা চালানোর হুমকি দিয়েছেন, যা মধ্যপ্রাচ্যে নতুন যুদ্ধের আশঙ্কা তৈরি করেছে।",
+        "lead_en": "US President Donald Trump has threatened to launch harsher military strikes against Iran, raising fears of a new regional conflict.",
         "bullets_bn": [
-          "কঠোর নিরাপত্তা এবং বিদ্যুৎ ও পানি সরবরাহ বন্ধ থাকার মধ্যেই নয়াদিল্লির ঐতিহাসিক রেসকোর্স মসজিদে জুমার নামাজ সম্পন্ন হয়েছে।",
-          "মসজিদটিকে অবৈধ ঘোষণা করে উচ্ছেদের নোটিশ জারি করা হয়েছে এবং এর আশপাশের কিছু বসতবাড়ি বুলডোজার দিয়ে গুঁড়িয়ে দেওয়া হয়েছে।",
-          "পরিস্থিতি নিয়ন্ত্রণে এলাকায় বিএনএসএসের ১৬৩ ধারা জারি করা হলেও নামাজের সময় পুলিশ মুসল্লিদের প্রবেশের অনুমতি দেয়।"
+          "ইরানে নতুন করে বড় ধরনের সামরিক হামলা চালানোর হুমকি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+          "ইরান পারমাণবিক অস্ত্র পেলে তেহরানের ওপর আরও কঠোর ব্যবস্থা নেওয়ার কথা বলেছেন ট্রাম্প।",
+          "যুক্তরাষ্ট্র ও ইসরায়েল নতুন হামলা চালালে সর্বাত্মক পাল্টা আঘাত হানার হুঁশিয়ারি দিয়েছে ইরান।"
         ],
         "bullets_en": [
-          "Worshippers successfully gathered for Friday prayers at the historic Race Course Mosque despite suspended water and electricity supplies.",
-          "Local authorities recently issued an eviction notice declaring the mosque illegal and demolished surrounding residential structures.",
-          "Section 163 of BNSS was imposed in the area, though police relaxed restrictions during the designated prayer time."
+          "US President Donald Trump has threatened to launch new major military strikes against Iran.",
+          "Trump stated he will take even harsher action to prevent Iran from acquiring nuclear weapons.",
+          "Iran has issued a stern warning of all-out retaliation if the US and Israel launch new attacks."
         ],
-        "impact_bn": "সংখ্যালঘু সম্প্রদায়ের উপাসনালয় ঘিরে এই উচ্ছেদ অভিযানের ফলে সাধারণ মানুষের মধ্যে তীব্র ক্ষোভ ও চরম নিরাপত্তাহীনতা তৈরি হয়েছে।",
-        "impact_en": "Eviction threats targeting minority religious sites have triggered profound anxiety and alienation among local residents.",
-        "details_bn": "দিল্লির প্রধানমন্ত্রীর সরকারি বাসভবনের কাছাকাছি অবস্থিত শতাব্দীপ্রাচীন রেসকোর্স মসজিদটিকে অবৈধ ঘোষণা করে উচ্ছেদের নোটিশ দেয় স্থানীয় প্রশাসন। গত ৭ অক্টোবর মসজিদটির বিদ্যুৎ ও পানি সংযোগ বিচ্ছিন্ন করা হয় এবং পরবর্তীতে ১৫ অক্টোবর দিল্লি হাইকোর্ট সংযোগ পুনর্বহালের আবেদন খারিজ করে দেন। এই পরিস্থিতিতে ওই এলাকায় ভারতীয় নাগরিক সুরক্ষা সংহিতার ১৬৩ ধারা জারি করা হয়েছে এবং মসজিদসংলগ্ন বেশ কিছু বসতবাড়ি ও দোকানপাট বুলডোজার দিয়ে গুঁড়িয়ে দেওয়া হয়েছে।",
-        "details_en": "Local authorities issued an eviction notice against the century-old Race Course Mosque near the Prime Minister's official residence, declaring it illegal. Utility lines were severed on October 7, and the Delhi High Court subsequently dismissed a petition to restore them. Section 163 of the BNSS was enforced locally while surrounding structures faced demolition."
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন যুদ্ধ শুরু হলে বিশ্ববাজারে জ্বালানির মূল্য বৃদ্ধি পাবে এবং সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়বে।",
+        "impact_en": "A new war in the Middle East will spike global fuel prices and increase the cost of living for ordinary citizens.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলার মধ্য দিয়ে ইরানে সংঘাত শুরু হয়, যা পরে মধ্যপ্রাচ্যজুড়ে ছড়িয়ে পড়ে। বর্তমানে মার্কিন মধ্যবর্তী নির্বাচনের কারণে হামলা সাময়িকভাবে বন্ধ থাকলেও তেলসমৃদ্ধ হরমুজ প্রণালিতে উত্তেজনা অব্যাহত রয়েছে। মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ও ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু নতুন হামলার বিষয়ে নীতিগতভাবে একমত হয়েছেন বলে বিভিন্ন গণমাধ্যমের প্রতিবেদনে উঠে এসেছে। এর জবাবে তেহরানও সর্বাত্মক পাল্টা আঘাতের প্রস্তুতি নিচ্ছে।",
+        "details_en": "Conflict in Iran began with joint US-Israel strikes, later spreading across the Middle East. Although attacks are currently paused due to US mid-term elections, tensions remain high in the strategic Strait of Hormuz. Reports indicate that US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have agreed in principle on new strikes, prompting Tehran to prepare for all-out retaliation."
       }
     },
     {
-      "story_id": "9a4c9603-b3e1-5ede-a801-6fa3bf340e84",
-      "primary_category": "governance_law",
+      "story_id": "190adcf4-ecf9-5f71-8f01-88abab9b7b0f",
+      "primary_category": "sports_fitness",
       "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T18:28:01+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7105,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/cricket/1171254",
+          "title": "জিম্বাবুয়েকে উড়িয়ে ত্রিদেশীয় সিরিজে অপরাজিত চ্যাম্পিয়ন আফগানিস্তান",
+          "snippet": "জিম্বাবুয়েকে উড়িয়ে ত্রিদেশীয় সিরিজে অপরাজিত চ্যাম্পিয়ন আফগানিস্তান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ত্রিদেশীয় সিরিজে জিম্বাবুয়েকে হারিয়ে অপরাজিত চ্যাম্পিয়ন আফগানিস্তান",
+        "title_en": "Afghanistan Become Unbeaten Champions Defeating Zimbabwe in Tri-Series",
+        "summary_bn": "ফাইনালে জিম্বাবুয়েকে সাত উইকেটে হারিয়ে ত্রিদেশীয় ওয়ানডে সিরিজের অপরাজিত চ্যাম্পিয়ন হয়েছে আফগানিস্তান ক্রিকেট দল।",
+        "summary_en": "Afghanistan clinched the tri-nation ODI series title as unbeaten champions after defeating Zimbabwe by seven wickets in the final.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T18:28:01+00:00",
+        "lead_bn": "ফাইনালে জিম্বাবুয়েকে সাত উইকেটে হারিয়ে ত্রিদেশীয় ওয়ানডে সিরিজের অপরাজিত চ্যাম্পিয়ন হয়েছে আফগানিস্তান ক্রিকেট দল।",
+        "lead_en": "Afghanistan clinched the tri-nation ODI series title as unbeaten champions after defeating Zimbabwe by seven wickets in the final.",
+        "bullets_bn": [
+          "ফাইনালে জিম্বাবুয়েকে সাত উইকেটে পরাজিত করে আফগানিস্তান ক্রিকেট দল।",
+          "ম্যাচে জিম্বাবুয়েকে পরাজিত করতে ৯৩ বল বাকি রেখে লক্ষ্য অর্জন করে আফগানরা।",
+          "চমৎকার পারফরম্যান্সের মাধ্যমে পুরো টুর্নামেন্টে অপরাজিত থেকে শিরোপা নিশ্চিত করে দলটি।"
+        ],
+        "bullets_en": [
+          "Afghanistan secured a victory against Zimbabwe by seven wickets in the final match.",
+          "The Afghan side successfully chased down the target with 93 balls remaining in hand.",
+          "The team claimed the championship trophy remaining completely unbeaten throughout the tournament."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ত্রিদেশীয় এই ওয়ানডে সিরিজে অংশ নিয়েছিল আফগানিস্তান ও জিম্বাবুয়েসহ একাধিক দল। টুর্নামেন্টের শুরু থেকেই ধারাবাহিক এবং আগ্রাসী ক্রিকেট খেলে ফাইনালে জায়গা করে নেয় আফগানরা। ফাইনাল ম্যাচেও নিজেদের শক্তির প্রমাণ দিয়ে সহজে জয় তুলে নেয় দলটি, যা তাদের আন্তর্জাতিক ক্রিকেটে আত্মবিশ্বাস আরও বাড়িয়ে দেবে।",
+        "details_en": "The tri-nation ODI series featured competitive matches between participating teams including Afghanistan and Zimbabwe. The Afghan side displayed consistent and aggressive cricket from the beginning of the tournament to secure their spot in the final. Their dominant performance in the title clash further reinforces their growing stature in international limited-overs cricket."
+      }
+    },
+    {
+      "story_id": "bf92b852-d01a-5740-a7ef-13fc69aee5cd",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F5cbnn788%2FMymensinghshahin.jpeg?rect=0%2C0%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/WhatsApp-Image-2026-10-23-at-11.32.39-PM.jpeg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T17:35:39+00:00",
+      "published_at": "2026-10-23T18:19:47+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.758,
+      "rank_score": 0.6637,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/r146wtuz13",
-          "title": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছাড়িয়ে নেওয়ার অভিযোগ বিএনপি ও ছাত্রদল নেতাদের বিরুদ্ধে",
-          "snippet": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছাড়িয়ে নেওয়ার অভিযোগ বিএনপি ও ছাত্রদল নেতাদের বিরুদ্ধে"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/a-unique-example-of-harmony-during-the-immersion-of-durga-puja-idols-in-the-buriganga-river/",
+          "title": "বুড়িগঙ্গায় শারদীয় দুর্গাপূজার প্রতিমা বিসর্জনে সম্প্রীতির অনন্য দৃষ্টান্ত",
+          "snippet": "বুড়িগঙ্গায় শারদীয় দুর্গাপূজার প্রতিমা বিসর্জনে সম্প্রীতির অনন্য দৃষ্টান্ত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ময়মনসিংহে পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছিনিয়ে নেওয়ার অভিযোগ",
-        "title_en": "Banned Chhatra League leader snatched from police custody in Mymensingh",
-        "summary_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশের হাত থেকে নিষিদ্ধ ঘোষিত এক ছাত্রলীগ নেতাকে স্থানীয় বিএনপি ও আওয়ামী লীগের নেতা-কর্মীরা ছিনিয়ে নেন।",
-        "summary_en": "Local BNP and Awami League activists snatched a banned Chhatra League leader from police custody in Ishwarganj, Mymensingh.",
+        "title_bn": "বুড়িগঙ্গায় প্রতিমা বিসর্জনের মধ্য দিয়ে সম্পন্ন হলো দুর্গোৎসব",
+        "title_en": "Durga Puja concludes with idol immersion in Buriganga",
+        "summary_bn": "বিজয়া দশমীতে বুড়িগঙ্গার ওয়াইজঘাট ও সদরঘাট এলাকায় শান্তিপূর্ণ পরিবেশে প্রতিমা বিসর্জনের মধ্য দিয়ে শারদীয় দুর্গোৎসব সম্পন্ন হয়েছে।",
+        "summary_en": "Sharadiya Durgotsav concluded peacefully with the immersion of idols in the Buriganga river at Wiseghat and Sadarghat areas on Bijoya Dashami.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T17:35:39+00:00",
-        "lead_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশের হাত থেকে নিষিদ্ধ ঘোষিত এক ছাত্রলীগ নেতাকে স্থানীয় বিএনপি ও আওয়ামী লীগের নেতা-কর্মীরা ছিনিয়ে নেন।",
-        "lead_en": "Local BNP and Awami League activists snatched a banned Chhatra League leader from police custody in Ishwarganj, Mymensingh.",
+        "published_at": "2026-10-23T18:19:47+00:00",
+        "lead_bn": "বিজয়া দশমীতে বুড়িগঙ্গার ওয়াইজঘাট ও সদরঘাট এলাকায় শান্তিপূর্ণ পরিবেশে প্রতিমা বিসর্জনের মধ্য দিয়ে শারদীয় দুর্গোৎসব সম্পন্ন হয়েছে।",
+        "lead_en": "Sharadiya Durgotsav concluded peacefully with the immersion of idols in the Buriganga river at Wiseghat and Sadarghat areas on Bijoya Dashami.",
         "bullets_bn": [
-          "পুলিশের অভিযানে আটক হওয়ার পর স্থানীয় রাজনৈতিক নেতা-কর্মীরা ধস্তাধস্তি করে নিষিদ্ধ ছাত্রলীগ নেতা রিয়াজুল আলমকে ছিনিয়ে নেন।",
-          "রিয়াজুল আলমের বিরুদ্ধে সন্ত্রাসবিরোধী আইন ও মাদক আইনে ঈশ্বরগঞ্জ থানায় তিনটি মামলা রয়েছে।",
-          "পুলিশের অতিরিক্ত দল পৌঁছানোর আগেই পালিয়ে যাওয়া আসামিকে গ্রেপ্তারে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
+          "ঢাকার ওয়াইজঘাট ও সদরঘাট এলাকায় বিজয়া দশমীতে ভক্তদের অংশগ্রহণে প্রতিমা বিসর্জন সম্পন্ন হয়।",
+          "ধর্মীয় আচার-অনুষ্ঠান ও পারস্পরিক সৌহার্দ্যের মধ্য দিয়ে উৎসবের পরিসমাপ্তি ঘটে।",
+          "বিজয়া দশমীর আনুষ্ঠানিকতা শেষে আগামী বছরের দেবী দুর্গাকে ফিরে পাওয়ার প্রত্যাশায় ভক্তরা বিদায় জানান।"
         ],
         "bullets_en": [
-          "Local political activists physically intervened and snatched banned Chhatra League leader Riajul Alam from police custody during a raid.",
-          "Riajul Alam faces three active cases at Ishwarganj police station, including charges under the Anti-Terrorism Act and narcotics laws.",
-          "Police are currently taking legal measures to apprehend the fugitive accused before additional reinforcement could arrive."
+          "Idol immersion took place peacefully with enthusiastic participation of devotees at Wiseghat and Sadarghat in Dhaka.",
+          "The festival concluded maintaining religious rituals and mutual harmony among communities.",
+          "Devotees bade farewell with emotional reflections and expectations for the return of the goddess next year."
         ],
-        "impact_bn": "পুলিশের ওপর এমন রাজনৈতিক হস্তক্ষেপে আইনশৃঙ্খলা পরিস্থিতি ও আইনের শাসন নিয়ে জনমনে প্রশ্ন উঠেছে।",
-        "impact_en": "Such political interference in police operations raises serious public concerns regarding law enforcement and the rule of law.",
-        "details_bn": "ময়মনসিংহের ঈশ্বরগঞ্জ উপজেলার সরিষা ইউনিয়ন পরিষদ এলাকায় একটি ফুটবল খেলার মাঠের কাছে এই ঘটনা ঘটে। আঠারবাড়ী রায়েরবাজার পুলিশ তদন্তকেন্দ্রের একটি দল গোপন সংবাদের ভিত্তিতে অভিযান চালিয়ে একাধিক মামলার আসামি রিয়াজুল আলমকে আটক করে। পরে স্থানীয় কিছু রাজনৈতিক নেতার ছত্রচ্ছায়ায় উপস্থিত লোকজন পুলিশের সঙ্গে ধস্তাধস্তি করে তাঁকে হাতকড়া পরানোর আগেই পালিয়ে যেতে সহায়তা করে। পুলিশ জানিয়েছে, এ ঘটনায় জড়িত ব্যক্তিদের শনাক্ত করে আইনি পদক্ষেপ নেওয়া হচ্ছে।",
-        "details_en": "The incident took place near a football playground in the Sarisha Union Parishad area of Ishwarganj upazila in Mymensingh. A police team from Atharabari Rayerbazar police investigation center detained Riajul Alam, an accused in multiple cases, acting on a tip-off. Subsequently, locals backed by local political figures engaged in a scuffle and helped him escape before police could secure him with handcuffs. Police confirmed that legal actions are underway to identify and prosecute those involved."
+        "impact_bn": "শান্তিপূর্ণ পরিবেশে ধর্মীয় উৎসব উদযাপিত হওয়ায় সাধারণ মানুষ ও বিভিন্ন সম্প্রদায়ের মধ্যে পারস্পরিক সম্প্রীতি ও সৌহার্দ্য আরও সুদৃঢ় হয়েছে।",
+        "impact_en": "The peaceful celebration of the religious festival strengthens communal harmony and mutual goodwill among citizens.",
+        "details_bn": "সনাতন ধর্মাবলম্বীদের সবচেয়ে বড় ধর্মীয় উৎসব শারদীয় দুর্গাপূজা প্রতিমা বিসর্জনের মাধ্যমে সমাপ্ত হয়। বিজয়া দশমীতে রাজধানী ঢাকাসহ সারা দেশে মণ্ডপে মণ্ডপে বিষাদের সুর ও আনন্দের মিশ্রণে উদযাপিত হয় এই দিন। বুড়িগঙ্গার ওয়াইজঘাট ও সদরঘাট এলাকায় প্রতিমা বিসর্জনের সময় আইনশৃঙ্খলা রক্ষাকারী বাহিনীর উপস্থিতিতে ভক্তরা ধর্মীয় ভাবগাম্ভীর্যের মধ্য দিয়ে তাদের আচার-অনুষ্ঠান সম্পন্ন করেন।",
+        "details_en": "Sharadiya Durgotsav, the largest religious festival of the Hindu community, concluded with the immersion of idols. On Bijoya Dashami, the day was observed with a mix of melancholy and joy across mandaps in Dhaka and nationwide. Devotees completed their rituals with religious solemnity near the Wiseghat and Sadarghat areas of the Buriganga river amidst the presence of law enforcement agencies."
       }
     }
   ]
