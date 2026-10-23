@@ -1,221 +1,169 @@
 {
-  "updated_at": "2026-10-23T10:57:59.101470",
+  "updated_at": "2026-10-23T11:00:48.197310",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "230ad8e7-5164-59c4-bdac-0c230f012808",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T10:52:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8278,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976246/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0",
-          "title": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা বাংলাদেশের",
-          "snippet": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা বাংলাদেশের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুতি হামলার তীব্র নিন্দা জানাল বাংলাদেশ",
-        "title_en": "Bangladesh Strongly Condemns Houthi Attacks in Saudi Arabia",
-        "summary_bn": "সৌদি আরবে হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ, যেখানে দুই বাংলাদেশি হতাহত হয়েছেন।",
-        "summary_en": "Bangladesh has strongly condemned multiple Houthi rebel attacks in Saudi Arabia, which resulted in casualties among two Bangladeshis.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:52:06+00:00",
-        "lead_bn": "সৌদি আরবে হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ, যেখানে দুই বাংলাদেশি হতাহত হয়েছেন।",
-        "lead_en": "Bangladesh has strongly condemned multiple Houthi rebel attacks in Saudi Arabia, which resulted in casualties among two Bangladeshis.",
-        "bullets_bn": [
-          "সৌদি আরবে চালানো হুতি বিদ্রোহীদের একাধিক হামলার তীব্র নিন্দা জানিয়েছে বাংলাদেশ।",
-          "বিমানবন্দরে চালানো এসব হামলায় দুজন বাংলাদেশি হতাহত হয়েছেন বলে পররাষ্ট্র মন্ত্রণালয় জানিয়েছে।",
-          "বাংলাদেশ ক্ষতিগ্রস্ত পরিবারগুলোর প্রতি গভীর সমবেদনা প্রকাশ করে সৌদি সরকার ও জনগণের সাথে সংহতি জানিয়েছে।"
-        ],
-        "bullets_en": [
-          "Bangladesh strongly condemned multiple attacks carried out by Houthi rebels in Saudi Arabia.",
-          "The Ministry of Foreign Affairs confirmed that these airport attacks resulted in casualties among two Bangladeshis.",
-          "Bangladesh expressed deep condolences to the affected families and solidarity with the Saudi government and people."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি ও তাদের পরিবারগুলোর নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "It raises renewed security concerns for expatriate Bangladeshi workers and their families residing in the Middle East.",
-        "details_bn": "হুতি বিদ্রোহীরা প্রায়ই আঞ্চলিক নিরাপত্তার বিঘ্ন ঘটিয়ে সৌদি আরবের বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো ও বিমানবন্দর লক্ষ্য করে হামলা চালিয়ে থাকে। এর আগেও বিভিন্ন হামলায় মধ্যপ্রাচ্যে কর্মরত অভিবাসী শ্রমিকদের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে। বাংলাদেশ সরকার সবসময় এ ধরনের সহিংসতার বিরোধিতা করে আসছে এবং আঞ্চলিক শান্তি প্রতিষ্ঠার আহ্বান জানিয়েছে।",
-        "details_en": "Houthi rebels frequently target critical infrastructure and airports in Saudi Arabia, disrupting regional security. Previous attacks have repeatedly raised concerns regarding the safety of migrant workers employed in the Middle East. The Bangladesh government consistently opposes such acts of violence and calls for regional peace and stability."
-      }
-    },
-    {
-      "story_id": "19b5721a-d5c8-516c-97ef-211dd0ca185c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T10:38:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5984,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171169",
-          "title": "সৌদি আরবে হুথির হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় ঢাকার উদ্বেগ",
-          "snippet": "সৌদি আরবে হুথির হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় ঢাকার উদ্বেগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুথি হামলায় বাংলাদেশি হতাহতের ঘটনায় ঢাকার তীব্র নিন্দা ও উদ্বেগ",
-        "title_en": "Dhaka Expresses Concern and Condemns Houthi Attacks in Saudi Arabia",
-        "summary_bn": "সৌদি আরবে হুথিদের সাম্প্রতিক হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় গভীর উদ্বেগ ও তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
-        "summary_en": "The Bangladesh government expressed deep concern and strong condemnation over Houthi attacks in Saudi Arabia that left two Bangladeshis casualties.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:38:24+00:00",
-        "lead_bn": "সৌদি আরবে হুথিদের সাম্প্রতিক হামলায় দুই বাংলাদেশিসহ হতাহতের ঘটনায় গভীর উদ্বেগ ও তীব্র নিন্দা জানিয়েছে বাংলাদেশ সরকার।",
-        "lead_en": "The Bangladesh government expressed deep concern and strong condemnation over Houthi attacks in Saudi Arabia that left two Bangladeshis casualties.",
-        "bullets_bn": [
-          "দাম্মাম বিমানবন্দরসহ বিভিন্ন স্থানে হুথিদের হামলার ঘটনায় তীব্র নিন্দা প্রকাশ করেছে বাংলাদেশ।",
-          "হামলায় দুই বাংলাদেশি নাগরিক হতাহত হয়েছেন বলে আনুষ্ঠানিকভাবে নিশ্চিত করা হয়েছে।",
-          "সংঘাতময় পরিস্থিতিতে মধ্যপ্রাচ্যে প্রবাসীদের নিরাপত্তা নিশ্চিত করার আহ্বান জানিয়েছে পররাষ্ট্র মন্ত্রণালয়।"
-        ],
-        "bullets_en": [
-          "Bangladesh strongly condemned the Houthi attacks targeting locations including the Dammam airport.",
-          "The attacks resulted in casualties among two Bangladeshi nationals.",
-          "The foreign ministry urged strengthened safety measures for expatriates living in the Middle East."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি শ্রমিকদের নিরাপত্তা ও সুরক্ষা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Concerns have risen regarding the safety and security of expatriate Bangladeshi workers employed in the Middle East.",
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে মধ্যপ্রাচ্যের বিভিন্ন দেশে ড্রাফ ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এর আগেও কৌশলগত স্থাপনা ও বিমানবন্দর লক্ষ্য করে এমন হামলার ঘটনা ঘটেছে। সাম্প্রতিক সময়ে এই ধরনের সহিংসতা বৃদ্ধি পাওয়ায় প্রবাসী শ্রমিকদের নিরাপত্তা নিয়ে আন্তর্জাতিক অঙ্গনে নতুন করে আলোচনা শুরু হয়েছে।",
-        "details_en": "Yemeni Houthi rebels have frequently launched drone and missile attacks targeting various locations in the Middle East. Strategic infrastructure and airports have been common targets in past escalations. The recent rise in such violence has sparked renewed international concern over the safety of expatriate workers in the region."
-      }
-    },
-    {
-      "story_id": "58e9b46e-4c5e-5275-95d8-eabf51f37cc3",
+      "story_id": "7e8eed1d-0fa7-5cf3-89cc-9d6682caf101",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F5rcgn47r%2F3c768731-9e1f-47ec-9001-56a4f2dd0391.jfif?rect=77%2C0%2C1126%2C591&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/engr003.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T09:28:15+00:00",
+      "published_at": "2026-10-23T09:58:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.9421,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/hx5m08j6ma",
-          "title": "পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে: আযাদ",
-          "snippet": "পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে: আযাদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পিএসসির সদস্যদের পদত্যাগে বাধ্য করা হচ্ছে বলে জামায়াত নেতার অভিযোগ",
-        "title_en": "Jamaat Leader Alleges PSC Members Are Being Forced to Resign",
-        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ অভিযোগ করেছেন যে পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে।",
-        "summary_en": "Bangladesh Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad alleged that PSC members are being invited for tea and forced to resign.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T09:28:15+00:00",
-        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ অভিযোগ করেছেন যে পিএসসির সদস্যদের চায়ের দাওয়াত দিয়ে পদত্যাগে বাধ্য করা হচ্ছে।",
-        "lead_en": "Bangladesh Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad alleged that PSC members are being invited for tea and forced to resign.",
-        "bullets_bn": [
-          "সরকার ও ফ্যাসিবাদী শক্তি মিলে নতুন পরিস্থিতি সৃষ্টির ষড়যন্ত্র করছে বলে অভিযোগ করা হয়।",
-          "দলীয় বিবেচনায় পদোন্নতি, নিয়োগ ও বদলি করা হচ্ছে বলে দাবি করেন হামিদুর রহমান আযাদ।",
-          "জুলাই আন্দোলনে মানবতাবিরোধী অপরাধের দৃশ্যমান বিচার এখনো হয়নি বলে ক্ষোভ প্রকাশ করা হয়।"
-        ],
-        "bullets_en": [
-          "The government and fascist forces are conspiring to create a new situation, alleged Jamaat leader Azad.",
-          "Promotions, appointments, and transfers are being executed based on partisan considerations, he claimed.",
-          "Frustration was expressed over the lack of visible justice for crimes against humanity during the July uprising."
-        ],
-        "impact_bn": "জনগণের মৌলিক অধিকার ও প্রশাসনিক নিরপেক্ষতা নিয়ে জনমনে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Fresh concerns have emerged among citizens regarding public administration neutrality and fundamental rights.",
-        "details_bn": "রাজধানীর মিন্টো রোডে বিরোধীদলীয় নেতার সরকারি বাসভবনে ১১–দলীয় ঐক্যের লিয়াজোঁ কমিটির বৈঠক শেষে এক ব্রিফিংয়ে এসব অভিযোগ করা হয়। এ সময় জুলাই আন্দোলনের চেতনা নস্যাৎ করা এবং মেধাভিত্তিক নিয়োগ বঞ্চিত করার বিভিন্ন অভিযোগ তুলে ধরেন জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল হামিদুর রহমান আযাদ।",
-        "details_en": "These allegations were made during a briefing following a liaison committee meeting of the 11-party alliance at the opposition leader's official residence on Minto Road in Dhaka. During the briefing, Jamaat-e-Islami Assistant Secretary General Hamidur Rahman Azad raised various allegations regarding the undermining of the July movement's spirit and the deprivation of merit-based appointments."
-      }
-    },
-    {
-      "story_id": "67c0e575-9e42-57f7-a0d4-448ea9828ca1",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/image-352803-1792751245.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-23T10:54:26+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9364,
+      "rank_score": 1.1332,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/a-group-spreading-misinformation-and-misinterpretation-of-religion-beware-water-resources-minister/",
-          "title": "একটি দল ধর্মের অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়াচ্ছে, সতর্ক থাকতে হবে: পানিসম্পদমন্ত্রী",
-          "snippet": "একটি দল ধর্মের অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়াচ্ছে, সতর্ক থাকতে হবে: পানিসম্পদমন্ত্রী"
+          "url": "https://www.channelionline.com/engineer-detained-with-150000-taka-following-complaints-about-roadwork-quality/",
+          "title": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী",
+          "snippet": "রাস্তার কাজের মান নিয়ে অভিযোগ, দেড় লাখ টাকাসহ আটক প্রকৌশলী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ধর্মের নামে বিভ্রান্তি ও অপপ্রচার রোধে দেশবাসীকে সতর্ক থাকার আহ্বান পানিসম্পদমন্ত্রীর",
-        "title_en": "Water Resources Minister Urges Vigilance Against Religious Misinformation",
-        "summary_bn": "পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি সমাজে ধর্মের ভুল ব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিরুদ্ধে দেশবাসীকে সতর্ক থাকার আহ্বান জানিয়েছেন।",
-        "summary_en": "Water Resources Minister Shahiduddin Chowdhury Annie urged citizens to remain vigilant against religious misinformation and propaganda in society.",
+        "title_bn": "পঞ্চগড়ে দেড় লাখ টাকাসহ এলজিইডি প্রকৌশলীকে আটক করে পুলিশে সোপর্দ",
+        "title_en": "LGED Engineer Detained With Cash by Locals Over Road Quality",
+        "summary_bn": "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অনিয়মের অভিযোগে স্থানীয়রা নগদ দেড় লাখ টাকাসহ এক প্রকৌশলীকে আটক করেছেন।",
+        "summary_en": "Locals in Panchagarh detained an assistant engineer with Tk 1.5 lakh amid complaints over substandard road construction work.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T09:58:52+00:00",
+        "lead_bn": "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অনিয়মের অভিযোগে স্থানীয়রা নগদ দেড় লাখ টাকাসহ এক প্রকৌশলীকে আটক করেছেন।",
+        "lead_en": "Locals in Panchagarh detained an assistant engineer with Tk 1.5 lakh amid complaints over substandard road construction work.",
+        "bullets_bn": [
+          "পঞ্চগড়ের বোদা উপজেলায় রাস্তার কাজের মান নিয়ে অসন্তোষ প্রকাশ করে স্থানীয় বাসিন্দারা এক প্রকৌশলীকে আটক করেন।",
+          "তল্লাশির সময় প্রকৌশলী নূরই আকরামের ব্যাগ ও পকেট থেকে নগদ মোট দেড় লাখ টাকা উদ্ধার করে পুলিশ।",
+          "উপজেলা প্রকৌশলী জানিয়েছেন দায়িত্বে থাকার সময় নগদ টাকা রাখার বিষয়টি তদন্ত করে ব্যবস্থা নেওয়া হবে।"
+        ],
+        "bullets_en": [
+          "Local residents detained assistant engineer Nur-e-Akram in Boda upazila over persistent complaints regarding road construction quality.",
+          "Police recovered a total of Tk 1.5 lakh in cash from the engineer's bag and pockets during the search.",
+          "Upazila engineer Firozur Rahman stated that an investigation will be conducted into carrying cash on duty."
+        ],
+        "impact_bn": "রাস্তার কাজে দুর্নীতি রোধে স্থানীয় জনগণের এই ধরনের প্রতিরোধ সরকারি প্রকল্পে স্বচ্ছতা আনতে সাহায্য করে।",
+        "impact_en": "Public vigilance against corruption in local infrastructure projects helps ensure better quality and accountability.",
+        "details_bn": "পঞ্চগড়ের বোদা উপজেলায় সাকোয়া-নয়াদীঘি সড়কের পাকা কাজ চলার সময় দীর্ঘদিন ধরে অনিয়মের অভিযোগ করে আসছিলেন স্থানীয়রা। কাজের মান যাচাই করতে গেলে উপসহকারী প্রকৌশলী নূরই আকরাম পালিয়ে যাওয়ার চেষ্টা করেন। পরে স্থানীয়রা তার ব্যাগ তল্লাশি করে নগদ টাকা পান এবং তাকে পুলিশের কাছে সোপর্দ করেন।",
+        "details_en": "Locals in Boda upazila had been complaining about poor construction standards on the Sakua-Noyadighi road. When confronted about project documents, assistant engineer Nur-e-Akram attempted to leave, prompting residents to search his belongings and hand him over to police with cash."
+      }
+    },
+    {
+      "story_id": "9fef8e9d-f7c7-5098-ad86-092a5dbbc4f7",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T10:59:36+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.96,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976249/%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A8-%E0%A6%B9%E0%A7%9F%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "ছাত্রীকে হুজুরের যৌন হয়রানি, মাদ্রাসায় আগুন দিলেন স্থানীয়রা",
+          "snippet": "ছাত্রীকে হুজুরের যৌন হয়রানি, মাদ্রাসায় আগুন দিলেন স্থানীয়রা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে মাদ্রাসা শিক্ষক আটক ও অগ্নিসংযোগ",
+        "title_en": "Madrasah Teacher Detained Over Student Harassment Sparking Arson in Pabna",
+        "summary_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে এক মাদ্রাসা শিক্ষককে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় জনতা।",
+        "summary_en": "Locals detained a madrasah teacher and handed him over to police following allegations of sexual harassment against a student in Pabna.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T10:59:36+00:00",
+        "lead_bn": "পাবনায় ছাত্রীকে যৌন হয়রানির অভিযোগে এক মাদ্রাসা শিক্ষককে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় জনতা।",
+        "lead_en": "Locals detained a madrasah teacher and handed him over to police following allegations of sexual harassment against a student in Pabna.",
+        "bullets_bn": [
+          "ছাত্রীকে যৌন হয়রানির অভিযোগে অভিযুক্ত শিক্ষক আবু ইউসুফকে আটক করে পুলিশে সোপর্দ করেন স্থানীয়রা",
+          "ঘটনার জেরে উত্তেজিত জনতা পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের একটি মাদ্রাসায় ভাঙচুর ও অগ্নিসংযোগ করে",
+          "পুলিশ অভিযুক্ত শিক্ষককে হেফাজতে নিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং ঘটনার আইনি প্রক্রিয়া শুরু করে"
+        ],
+        "bullets_en": [
+          "Locals detained accused teacher Abu Yusuf and handed him over to police following harassment allegations",
+          "Angered by the incident, a mob vandalized and set fire to the madrasah in Sadar upazila",
+          "Police took the accused teacher into custody, brought the situation under control, and initiated legal steps"
+        ],
+        "impact_bn": "শিক্ষা প্রতিষ্ঠানে নারী শিক্ষার্থীদের নিরাপত্তা ও সুরক্ষা নিশ্চিত করার বিষয়টি নিয়ে তীব্র উদ্বেগের সৃষ্টি হয়েছে।",
+        "impact_en": "The incident heightens urgent concerns regarding the safety and security of female students inside educational institutions.",
+        "details_bn": "পাবনা সদর উপজেলার ভাড়ারা ইউনিয়নের দড়ি ভাউডাঙ্গা কদমতলা গ্রামের পদ্মার মাঠসংলগ্ন নুরে মদিনা মহিলা মাদ্রাসায় এই ঘটনা ঘটে। মাদ্রাসার এক ছাত্রীকে যৌন হয়রানির অভিযোগ ওঠার পর স্থানীয় বাসিন্দারা ক্ষুব্ধ হয়ে ওঠেন। অভিযুক্ত শিক্ষক আবু ইউসুফকে অবরুদ্ধ করে পুলিশে খবর দেওয়া হয়। পরবর্তীতে ক্ষুব্ধ জনতা মাদ্রাসায় ভাঙচুর চালিয়ে অগ্নিসংযোগ করে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাস্থলে পৌঁছে পরিস্থিতি নিয়ন্ত্রণে আনে এবং এ ঘটনায় আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করে।",
+        "details_en": "The incident took place at Nure Madina Mohila Madrasa in Dori Bhaudanga Kodamtola village under Bharara union in Pabna Sadar upazila. After allegations arose that a teacher sexually harassed a student, local residents grew furious and detained accused teacher Abu Yusuf before alerting police. Subsequently, a volatile crowd vandalized and set fire to the madrasah premises. Law enforcement units rushed to the spot to control the unrest and initiated legal procedures regarding the assault and arson."
+      }
+    },
+    {
+      "story_id": "c0ac59da-4b65-5d7b-ab0e-953503f328e8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T10:54:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9142,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171176",
+          "title": "নির্বাচনের আগে ভারতের কর্মকর্তাদের সঙ্গে মিটিং করেছিল জামায়াত",
+          "snippet": "নির্বাচনের আগে ভারতের কর্মকর্তাদের সঙ্গে মিটিং করেছিল জামায়াত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নির্বাচনের আগে ভারতীয় কর্মকর্তাদের সঙ্গে জামায়াত নেতাদের বৈঠক নিয়ে বিতর্ক",
+        "title_en": "Controversy Arises Over Jamaat Leaders Meeting Indian Officials Before Election",
+        "summary_bn": "জাতীয় নির্বাচনের আগে জামায়াতে ইসলামীর শীর্ষ নেতাদের সঙ্গে ভারতীয় কর্মকর্তাদের গোপন বৈঠক নিয়ে রাজনৈতিক অঙ্গনে তীব্র বিতর্ক ও পাল্টাপাল্টি মন্তব্য শুরু হয়েছে।",
+        "summary_en": "Intense political debate erupted over secret meetings between Jamaat-e-Islami leaders and Indian officials ahead of the national election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T10:54:26+00:00",
-        "lead_bn": "পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি সমাজে ধর্মের ভুল ব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিরুদ্ধে দেশবাসীকে সতর্ক থাকার আহ্বান জানিয়েছেন।",
-        "lead_en": "Water Resources Minister Shahiduddin Chowdhury Annie urged citizens to remain vigilant against religious misinformation and propaganda in society.",
+        "published_at": "2026-10-23T10:54:57+00:00",
+        "lead_bn": "জাতীয় নির্বাচনের আগে জামায়াতে ইসলামীর শীর্ষ নেতাদের সঙ্গে ভারতীয় কর্মকর্তাদের গোপন বৈঠক নিয়ে রাজনৈতিক অঙ্গনে তীব্র বিতর্ক ও পাল্টাপাল্টি মন্তব্য শুরু হয়েছে।",
+        "lead_en": "Intense political debate erupted over secret meetings between Jamaat-e-Islami leaders and Indian officials ahead of the national election.",
         "bullets_bn": [
-          "সমাজে ধর্মের নামে অপব্যাখ্যা ও বিভ্রান্তিকর তথ্য ছড়ানোর বিষয়ে সবাইকে সতর্ক থাকার আহ্বান জানানো হয়েছে।",
-          "মাদকের বিস্তার রোধে সরকার জিরো টলারেন্স নীতি অনুসরণ করছে এবং অপরাধীদের ছাড় দেওয়া হবে না।",
-          "অনুষ্ঠানে দুস্থ নারীদের মাঝে সেলাই মেশিন বিতরণ করা হয় এবং সমাজ গঠনে সবাইকে ঐক্যবদ্ধ হওয়ার তাগিদ দেওয়া হয়।"
+          "জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ারসহ শীর্ষ নেতারা নির্বাচনের আগে ভারতীয় কর্মকর্তাদের সাথে বৈঠক করেছিলেন বলে রাজনৈতিক মহলে তথ্য প্রকাশ পায়।",
+          "বিএনপির পক্ষ থেকে দাবি করা হয়েছে যে জামায়াত ভারতের সঙ্গে মিলে আওয়ামী লীগের রাজনৈতিক কৌশল বাস্তবায়নের চেষ্টা করছে।",
+          "গণ অধিকার পরিষদের সাধারণ সম্পাদক রাশেদ খানসহ বিভিন্ন রাজনৈতিক নেতারা এই গোপন বৈঠক ও রাজনৈতিক মেরুকরণ নিয়ে কড়া প্রতিক্রিয়া ব্যক্ত করেছেন।"
         ],
         "bullets_en": [
-          "Citizens have been urged to remain cautious against the spread of religious misinterpretations and misinformation.",
-          "The government follows a zero-tolerance policy against drug expansion and warned wrongdoers of strict action.",
-          "Sewing machines were distributed among women during the event, emphasizing unity for national development."
+          "Reports emerged regarding meetings between Jamaat-e-Islami Secretary General Mia Golam Parwar and Indian officials prior to the election.",
+          "The BNP alleged that Jamaat is attempting to adopt a political strategy aligned with India to revive Awami League characteristics.",
+          "Gono Odhikar Parishad General Secretary Rashed Khan and other political figures strongly reacted to these covert meetings and political realignments."
         ],
-        "impact_bn": "ধর্মীয় বিভ্রান্তি ও মাদকবিরোধী সচেতনতা বৃদ্ধি পাওয়ায় স্থানীয় সমাজে শান্তি ও শৃঙ্খলা বজায় রাখতে সহায়তা করবে।",
-        "impact_en": "Increased awareness against religious misinformation and drug abuse will help maintain peace and order in local communities.",
-        "details_bn": "চন্দ্রগঞ্জ উপজেলার তোতারখিল আয়েশা উচ্চ বিদ্যালয় মাঠে স্বেচ্ছাসেবী সংগঠন লাইফ লাইন ওয়েল ফেয়ার অর্განიზেশনের আয়োজিত এক সভায় পানিসম্পদমন্ত্রী শহীদউদ্দীন চৌধুরী এ্যানি বক্তব্য রাখেন। এ সময় তিনি দেশের সার্বিক উন্নয়ন এবং সমাজে শান্তি বজায় রাখতে রাজনৈতিক ও সামাজিক ঐক্য গড়ে তোলার ওপর গুরুত্বারোপ করেন। অনুষ্ঠানে নারীদের আত্মকর্মসংস্থানের জন্য সেলাই মেশিন বিতরণ করা হয়।",
-        "details_en": "Water Resources Minister Shahiduddin Chowdhury Annie delivered remarks at a meeting organized by the voluntary organization Life Line Welfare Organization at the Totarkhil Ayesha High School ground in Chandraganj. During the event, he emphasized the importance of building political and social unity for national development and maintaining social peace. Sewing machines were also distributed among women for self-employment."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ জামায়াতে ইসলামীর রাজনৈতিক অবস্থান এবং বিভিন্ন দেশের কূটনীতিকদের সঙ্গে দলটির গোপন বা প্রকাশ্য যোগাযোগ নিয়ে দেশের রাজনৈতিক মহলে দীর্ঘদিন ধরে নানা আলোচনা চলছে। সম্প্রতি জামায়াতের সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ারের ভারতীয় কর্মকর্তাদের সঙ্গে বৈঠকের বিষয়টি সামনে আসার পর রাজনৈতিক দলগুলোর মধ্যে নতুন করে সমীকরণ ও কথার লড়াই শুরু হয়েছে। এই পরিস্থিতি দেশের আসন্ন রাজনৈতিক দৃশ্যপটে বড় ধরনের প্রভাব ফেলতে পারে বলে মনে করছেন বিশ্লেষকরা।",
+        "details_en": "The political stance of Bangladesh Jamaat-e-Islami and its communications with foreign diplomats have long been a subject of discussion in domestic politics. Recently, reports regarding a meeting between Jamaat Secretary General Mia Golam Parwar and Indian officials sparked renewed verbal clashes and strategic realignments among political parties. Analysts suggest these developments could significantly influence the country's upcoming political landscape."
       }
     },
     {
@@ -235,7 +183,7 @@
       "published_at": "2026-10-23T10:53:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9297,
+      "rank_score": 0.903,
       "sources": [
         {
           "name": "Channel i",
@@ -245,10 +193,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফিফা সভাপতি নির্বাচনে ইনফান্তিনোকে সমর্থন দেবে এশিয়ান ফুটবল কনফেডারেশন",
-        "title_en": "Asian Football Confederation to Support Infantino in FIFA Presidential Election",
-        "summary_bn": "এশিয়ান ফুটবল কনফেডারেশন আসন্ন ফিফা সভাপতি নির্বাচনে জিয়ান্নি ইনফান্তিনোকে সমর্থন করার ঘোষণা দিয়েছে।",
-        "summary_en": "The Asian Football Confederation announced its support for Gianni Infantino in the upcoming FIFA presidential election.",
+        "title_bn": "ফিফা সভাপতি নির্বাচনে ইনফান্তিনোকে সমর্থন জানাল এএফসি",
+        "title_en": "AFC Backs Gianni Infantino for Re-election as FIFA President",
+        "summary_bn": "আসন্ন ফিফা সভাপতি নির্বাচনে চতুর্থ মেয়াদের জন্য প্রতিদ্বন্দ্বিতাকারী জিয়ান্নি ইনফান্তিনোকে সমর্থন দিয়েছে এশিয়ান ফুটবল কনফেডারেশন।",
+        "summary_en": "The Asian Football Confederation has announced its support for Gianni Infantino for a fourth term as FIFA president.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -258,22 +206,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T10:53:45+00:00",
-        "lead_bn": "এশিয়ান ফুটবল কনফেডারেশন আসন্ন ফিফা সভাপতি নির্বাচনে জিয়ান্নি ইনফান্তিনোকে সমর্থন করার ঘোষণা দিয়েছে।",
-        "lead_en": "The Asian Football Confederation announced its support for Gianni Infantino in the upcoming FIFA presidential election.",
+        "lead_bn": "আসন্ন ফিফা সভাপতি নির্বাচনে চতুর্থ মেয়াদের জন্য প্রতিদ্বন্দ্বিতাকারী জিয়ান্নি ইনফান্তিনোকে সমর্থন দিয়েছে এশিয়ান ফুটবল কনফেডারেশন।",
+        "lead_en": "The Asian Football Confederation has announced its support for Gianni Infantino for a fourth term as FIFA president.",
         "bullets_bn": [
-          "এএফসি সভাপতি শেখ সালমান বিন ইব্রাহিম আল খলিফা ইনফান্তিনোর চতুর্থ মেয়াদের প্রার্থিতায় পূর্ণ সমর্থন জানান।",
-          "এএফসির ৪৭টি সদস্য দেশের মধ্যে বেশিরভাগ সদস্য এই সমর্থন প্রক্রিয়ার সঙ্গে একমত পোষণ করেছেন।",
-          "আগামী মার্চে ফিফা সভাপতি নির্বাচন অনুষ্ঠিত হবে এবং প্রার্থীদের মনোনয়ন জমার শেষ তারিখ নির্ধারিত রয়েছে।"
+          "এশিয়ান ফুটবল কনফেডারেশনের সভাপতি শেখ সালমান বিন ইব্রাহিম আল খলিফা ইনফান্তিনোর পক্ষে সমর্থনের ঘোষণা দেন।",
+          "আসন্ন ফিফা নির্বাচন আগামী মার্চে অনুষ্ঠিত হবে এবং প্রার্থীদের মনোনয়ন জমা দেওয়ার শেষ তারিখ নির্ধারণ করা হয়েছে ১৮ নভেম্বর।",
+          "এর আগে কিছু মতপার্থক্য থাকলেও আলোচনা ও পারস্পরিক বোঝাপড়ার মাধ্যমে সেই দূরত্ব দূর হয়েছে বলে জানানো হয়।"
         ],
         "bullets_en": [
-          "AFC President Sheikh Salman bin Ebrahim Al Khalifa expressed full support for Infantino's fourth-term candidacy.",
-          "A majority of the 47 member countries within the AFC agreed to back the leadership.",
-          "The FIFA presidential election will take place in March, with the candidate nomination deadline approaching."
+          "AFC President Sheikh Salman bin Ebrahim Al Khalifa officially announced support for Infantino during a special congress.",
+          "The upcoming FIFA election is scheduled for March, with candidate nominations closing on November 18.",
+          "Past tensions between the governing bodies have been resolved through recent discussions and mutual understanding."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এর আগে বিশ্বকাপের মালিকানা বিক্রির পরিকল্পনার জেরে উয়েফা এবং এশিয়ান ফুটবল কনফেডারেশনের সাথে ফিফা প্রধান জিয়ান্নি ইনফান্তিনোর দূরত্ব তৈরি হয়েছিল। তীব্র সমালোচনার মুখে ইনফান্তিনো সেই পরিকল্পনা বাতিল করে ক্ষমা চান। পরবর্তীতে জুরিখে দুই পক্ষের মধ্যে সমঝোতা বৈঠকের পর সম্পর্কের বরফ গলতে শুরু করে এবং এএফসি তার প্রতি সমর্থন পুনর্ব্যক্ত করে।",
-        "details_en": "Previously, tension arose between FIFA President Gianni Infantino and regional bodies like UEFA and the AFC over a controversial plan to sell World Cup ownership stakes. Following intense criticism, Infantino dropped the plan and apologized. Subsequent meetings in Zurich helped mend ties, leading the AFC to reaffirm its backing for his leadership."
+        "details_bn": "ফিফার বিশ্বকাপের মালিকানা বিক্রির একটি পরিকল্পনা ঘিরে অতীতে উয়েফা এবং এশিয়ান ফুটবল কনফেডারেশনের সাথে ফিফা প্রধান জিয়ান্নি ইনফান্তিনোর বিরোধ তৈরি হয়েছিল। পরবর্তীতে তীব্র সমালোচনার মুখে ফিফা সেই পরিকল্পনা বাতিল করে ক্ষমা প্রার্থনা করে। বর্তমান পরিস্থিতিতে সেই মতপার্থক্য ভুলে এশিয়ান ফুটবল কনফেডারেশন ইনফান্তিনোর নেতৃত্বকে পূর্ণ সমর্থন দেওয়ার ঘোষণা দেওয়ায় বিশ্ব ফুটবলের রাজনীতিতে তার অবস্থান আরও শক্তিশালী হলো।",
+        "details_en": "Disagreements previously arose between FIFA, UEFA, and the Asian Football Confederation over a controversial plan to sell World Cup ownership rights, which FIFA later scrapped following backlash. Despite past friction, the recent endorsement by the AFC significantly strengthens Infantino's bid for a fourth term in the upcoming presidential election."
       }
     },
     {
@@ -292,7 +240,7 @@
       "published_at": "2026-10-23T10:27:45+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 3.0,
-      "rank_score": 0.9081,
+      "rank_score": 0.8865,
       "sources": [
         {
           "name": "The Daily Star",
@@ -302,10 +250,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাবনায় ছাত্রীকে যৌন নিপীড়নের অভিযোগে মাদরাসা শিক্ষক আটক ও আগুন",
-        "title_en": "Pabna Madrasa Teacher Detained Over Alleged Molestation and Institution Set on Fire",
-        "summary_bn": "পাবনায় এক ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে এক মাদরাসা শিক্ষককে আটক করেছে পুলিশ এবং ক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দিয়েছে।",
-        "summary_en": "Police detained a madrasa teacher in Pabna over an alleged molestation attempt, prompting enraged locals to set the institution on fire.",
+        "title_bn": "পাবনায় মাদরাসা শিক্ষক আটক এবং স্থানীয়দের বিক্ষোভে প্রতিষ্ঠানে অগ্নিসংযোগ",
+        "title_en": "Pabna Madrasa Teacher Detained Over Harassment Allegations and Institution Torched",
+        "summary_bn": "ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে পাবনায় এক মাদরাসা শিক্ষককে আটক করার পর বিক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দেয়।",
+        "summary_en": "Locals set a Pabna madrasa on fire and vandalized the premises after a teacher was detained over molestation allegations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -314,22 +262,76 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T10:27:45+00:00",
-        "lead_bn": "পাবনায় এক ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে এক মাদরাসা শিক্ষককে আটক করেছে পুলিশ এবং ক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দিয়েছে।",
-        "lead_en": "Police detained a madrasa teacher in Pabna over an alleged molestation attempt, prompting enraged locals to set the institution on fire.",
+        "lead_bn": "ছাত্রীকে যৌন নিপীড়নের চেষ্টার অভিযোগে পাবনায় এক মাদরাসা শিক্ষককে আটক করার পর বিক্ষুব্ধ জনতা প্রতিষ্ঠানে আগুন দেয়।",
+        "lead_en": "Locals set a Pabna madrasa on fire and vandalized the premises after a teacher was detained over molestation allegations.",
         "bullets_bn": [
-          "পুলিশের সহায়তায় অভিযুক্ত শিক্ষক মো. আবু ইউসুফ প্রামাণিককে আটক করে হেফাজতে নেওয়া হয়।",
-          "ঘটনার পর মাদরাসার আবাসিক ৩০ জনসহ মোট ৬০ জন শিক্ষার্থীকে উদ্ধার করে অভিভাবকদের কাছে হস্তান্তর করা হয়।",
-          "পরিস্থিতি নিয়ন্ত্রণে আসার পর ক্ষুব্ধ জনতা মাদরাসা ভবনে ভাঙচুর চালিয়ে অগ্নিসংযোগ করে।"
+          "যৌন নিপীড়নের চেষ্টার অভিযোগে মাদরাসা শিক্ষক মো. আবু ইউসুফ প্রামাণিককে আটক করে পুলিশ হেফাজতে নেওয়া হয়।",
+          "ঘটনার পর পুলিশ আবাসিক মাদরাসার ৩০ জন শিক্ষার্থীসহ মোট ৬০ জন শিক্ষার্থীকে উদ্ধার করে অভিভাবকদের কাছে হস্তান্তর করে।",
+          "বিক্ষুব্ধ জনতা মাদরাসা ভবনে ব্যাপক ভাঙচুর চালায় এবং পরবর্তীতে ভোরে আগুন লাগিয়ে দেয়।"
         ],
         "bullets_en": [
-          "Police intervened and took accused teacher Md Abu Eusuf Pramanik into custody following public outrage.",
-          "Authorities rescued all 60 students, including 30 residential students, and safely handed them over to parents.",
-          "Outraged locals subsequently vandalised the madrasa building and set it on fire following the incident."
+          "Madrasa teacher Md Abu Eusuf Pramanik was detained and taken into police custody over alleged harassment.",
+          "Police successfully rescued all residential and non-residential students from the institution and handed them over to parents.",
+          "Outraged locals subsequently vandalized the madrasa building and set it on fire during early morning protests."
         ],
-        "impact_bn": "শিক্ষাপ্রতিষ্ঠানে শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করা এবং আবাসিক মাদরাসাগুলোতে কঠোর নজরদারির প্রয়োজনীয়তা পুনরায় সামনে এসেছে।",
-        "impact_en": "The incident underscores the urgent need for enhanced student safety and strict oversight in residential educational institutions.",
-        "details_bn": "পাবনা সদর উপজেলার ভারারা ইউনিয়নের একটি আবাসিক মাদরাসায় এই ঘটনা ঘটে। অভিযুক্ত শিক্ষক গত পাঁচ বছর ধরে সেখানে কর্মরত ছিলেন। এক ছাত্রী যৌন নিপীড়নের চেষ্টা প্রতিহত করে বিষয়টি স্থানীয়দের জানালে উত্তেজনার সৃষ্টি হয়। পরে পুলিশ ঘটনাস্থলে গিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে এবং আবাসিক শিক্ষার্থীদের অভিভাবকদের জিম্মায় দেয়।",
-        "details_en": "The incident occurred at a residential madrasa in Pabna Sadar upazila where the accused teacher had been working for five years. After a student escaped an alleged molestation attempt and alerted locals, a crowd gathered, prompting a police response to rescue the teacher and students before the building was torched."
+        "impact_bn": "শিক্ষা প্রতিষ্ঠানে শিশু শিক্ষার্থীদের নিরাপত্তা ও সুরক্ষা নিশ্চিত করার ক্ষেত্রে স্থানীয় সম্প্রদায়ের ক্ষোভ ও সচেতনতার বিষয়টি জোরালোভাবে সামনে এসেছে।",
+        "impact_en": "The incident highlights critical student safety concerns in residential educational institutions and prompts community outrage over child protection.",
+        "details_bn": "পাবনা সদর উপজেলার ভারারা ইউনিয়নের দরিভৌডাঙ্গা গ্রামে অবস্থিত নূরানী মাদরাসায় এই ঘটনা ঘটে। অভিযুক্ত শিক্ষক গত পাঁচ বছর ধরে ওই প্রতিষ্ঠানে শিক্ষকতা করছিলেন। ছাত্রীকে নিপীড়নের চেষ্টার ঘটনার জেরে স্থানীয় বাসিন্দারা ক্ষুব্ধ হয়ে ওঠে এবং পুলিশ ঘটনাস্থলে গিয়ে পরিস্থিতি নিয়ন্ত্রণে আনে ও শিক্ষককে উদ্ধার করে। পরবর্তীতে উদ্ভূত পরিস্থিতিতে কর্তৃপক্ষ আবাসিক শিক্ষার্থীদের নিরাপде সরিয়ে নেয়।",
+        "details_en": "The incident occurred at Nurani Madrasa in Dorivaudanga village under Pabna Sadar upazila, where the accused teacher had been working for five years. Following the alleged molestation attempt, enraged locals gathered at the institution, prompting police intervention to rescue the suspect and secure the students. Authorities safely handed the residential children back to their families before the building was targeted by protesters."
+      }
+    },
+    {
+      "story_id": "6c6e6d66-2497-5cf5-a450-c770bfceea09",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T10:47:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8497,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/cricket/976247/%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+          "title": "বিনামূল্যে গ্যালারিতে বসে দেখা যাবে বাংলাদেশ-ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ",
+          "snippet": "বিনামূল্যে গ্যালারিতে বসে দেখা যাবে বাংলাদেশ-ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচ গ্যালারিতে বসে বিনামূল্যে দেখার সুযোগ দিচ্ছে বিসিবি",
+        "title_en": "BCB Announces Free Gallery Entry for Bangladesh vs West Indies Test Match",
+        "summary_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচের নির্ধারিত গ্যালারিতে বসে দর্শকরা বিনামূল্যে খেলা উপভোগ করার সুযোগ পাবে।",
+        "summary_en": "Spectators can enjoy the upcoming Test match between Bangladesh and West Indies from the gallery for free.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T10:47:39+00:00",
+        "lead_bn": "বাংলাদেশ ও ওয়েস্ট ইন্ডিজ টেস্ট ম্যাচের নির্ধারিত গ্যালারিতে বসে দর্শকরা বিনামূল্যে খেলা উপভোগ করার সুযোগ পাবে।",
+        "lead_en": "Spectators can enjoy the upcoming Test match between Bangladesh and West Indies from the gallery for free.",
+        "bullets_bn": [
+          "মিরপুর শের-এ-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামের গ্যালারিতে বিনামূল্যে খেলা দেখার ঘোষণা দিয়েছে বাংলাদেশ ক্রিকেট বোর্ড।",
+          "স্টেডিয়ামের উত্তর ও দক্ষিণ গ্যালারিতে ১ম টেস্টের পাঁচ দিন দর্শকদের জন্য এই প্রবেশের সুযোগ থাকবে।",
+          "ক্রিকেটপ্রেমীরা কোনো টিকিট ছাড়াই নির্ধারিত গ্যালারিতে বসে সরাসরি টেস্ট ম্যাচ উপভোগ করতে পারবেন।"
+        ],
+        "bullets_en": [
+          "The Bangladesh Cricket Board announced free entry for spectators to watch the Test match from the stadium gallery.",
+          "Free access will be available at the north and south galleries of the Sher-e-Bangla National Cricket Stadium for all five days.",
+          "Cricket fans can enjoy the Test match live from the designated galleries without purchasing any tickets."
+        ],
+        "impact_bn": "ক্রিকেটপ্রেমী সাধারণ দর্শকরা কোনো খরচ ছাড়াই মাঠে গিয়ে সরাসরি টেস্ট ম্যাচ উপভোগ করতে পারবেন।",
+        "impact_en": "Ordinary cricket fans can experience live international cricket directly from the stadium without any financial cost.",
+        "details_bn": "দর্শকদের মাঠে টানতে এবং ক্রিকেটের প্রতি আগ্রহ বাড়াতে বাংলাদেশ ক্রিকেট বোর্ড প্রায়ই বিভিন্ন উদ্যোগ নিয়ে থাকে। এর অংশ হিসেবেই মিরপুর টেস্টে গ্যালারির টিকিটের মূল্য মওকুফ করে দর্শকদের জন্য উন্মুক্ত প্রবেশের ব্যবস্থা করা হয়েছে, যা দেশের ক্রিকেটে দর্শকদের অংশগ্রহণ আরও বাড়িয়ে তুলবে।",
+        "details_en": "The Bangladesh Cricket Board frequently undertakes initiatives to draw spectators back to the stadiums and boost local interest in cricket. As part of this effort, ticket fees for specific galleries at the Mirpur Test have been waived to encourage higher fan attendance and support for the national team."
       }
     }
   ]
