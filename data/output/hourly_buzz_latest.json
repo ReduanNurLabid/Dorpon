@@ -1,9 +1,117 @@
 {
-  "updated_at": "2026-10-23T02:00:51.421711",
+  "updated_at": "2026-10-23T03:00:44.658154",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "1488420a-f8d5-5b21-ba86-3e87f6c4b619",
+      "story_id": "68aba515-6900-5c52-a32f-f36dabe6e970",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T02:49:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7243,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171057",
+          "title": "ইরানে আরও হামলার ইঙ্গিত ট্রাম্পের",
+          "snippet": "ইরানে আরও হামলার ইঙ্গিত ট্রাম্পের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানে আরও সামরিক হামলা চালানোর ইঙ্গিত দিলেন মার্কিন প্রেসিডেন্ট ট্রাম্প",
+        "title_en": "US President Trump Hints at Further Military Strikes Against Iran",
+        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানকে মারাত্মকভাবে বিপর্যস্ত করার দাবি করে দেশটিতে নতুন করে সামরিক অভিযান চালানোর হুমকি দিয়েছেন।",
+        "summary_en": "US President Donald Trump threatened new military operations in Iran, claiming the United States has already devastated the country.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T02:49:03+00:00",
+        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানকে মারাত্মকভাবে বিপর্যস্ত করার দাবি করে দেশটিতে নতুন করে সামরিক অভিযান চালানোর হুমকি দিয়েছেন।",
+        "lead_en": "US President Donald Trump threatened new military operations in Iran, claiming the United States has already devastated the country.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানে আরও সামরিক অভিযান পরিচালনার কথা জানান।",
+          "ট্রাম্প দাবি করেন যুক্তরাষ্ট্র এরই মধ্যে ইরানকে ভয়াবহভাবে বিপর্যস্ত করে তুলেছে।",
+          "এই মন্তব্যের ফলে মধ্যপ্রাচ্যে ভূরাজনৈতিক উত্তেজনা আরও তীব্র হওয়ার আশঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "US President Donald Trump announced intentions to conduct further military operations in Iran.",
+          "Trump claimed that the United States has already severely devastated Iran through prior actions.",
+          "This statement raises concerns about escalating geopolitical tensions across the Middle East region."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন সংঘাতের আশঙ্কা বৃদ্ধি পাওয়ায় সেখানে থাকা প্রবাসী বাংলাদেশি এবং বৈশ্বিক জ্বালানি বাজারে অস্থিরতা তৈরি হতে পারে।",
+        "impact_en": "Heightened conflict risks in the Middle East could disrupt global energy markets and impact expatriate workers.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যকার দীর্ঘদিন ধরে চলমান ভূরাজনৈতিক দ্বন্দ্ব এবং পারমাণবিক কর্মসূচি সংক্রান্ত বিরোধের জেরে এই নতুন উত্তেজনার সৃষ্টি হয়েছে। এর আগে মার্কিন প্রশাসন ইরানের বিভিন্ন লক্ষ্যবস্তুতে সামরিক চাপ প্রয়োগের নানা কৌশল বাস্তবায়ন করেছে।",
+        "details_en": "This new tension stems from long-standing geopolitical conflicts and disputes regarding nuclear programs between the United States and Iran. The US administration has previously implemented various strategies to exert military pressure on Iranian targets."
+      }
+    },
+    {
+      "story_id": "2ee7e704-de54-536b-a829-92fbde567098",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T02:37:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5451,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171054",
+          "title": "সৌদি আরবে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলা",
+          "snippet": "সৌদি আরবে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইয়েমেনের হুথি বিদ্রোহীদের রিয়াদ লক্ষ্য করে ব্যালিস্টিক ক্ষেপণাস্ত্র নিক্ষেপ",
+        "title_en": "Yemeni Houthi Rebels Launch Ballistic Missile Targeting Riyadh",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদ লক্ষ্য করে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
+        "summary_en": "Yemeni Houthi rebels have launched a ballistic missile targeting the Saudi Arabian capital of Riyadh.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T02:37:26+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদ লক্ষ্য করে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
+        "lead_en": "Yemeni Houthi rebels have launched a ballistic missile targeting the Saudi Arabian capital of Riyadh.",
+        "bullets_bn": [
+          "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদ লক্ষ্য করে ব্যালিস্টিক ক্ষেপণাস্ত্র নিক্ষেপ করেছে।",
+          "হামলার পর সৌদি প্রতিরক্ষা বাহিনী আকাশ প্রতিরক্ষাব্যবস্থা ব্যবহার করে ক্ষেপণাস্ত্রটি প্রতিহত করে।",
+          "এই ঘটনার ফলে আঞ্চলিক নিরাপত্তা পরিস্থিতি আরও অবনতির শঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "Yemeni Houthi rebels fired a ballistic missile toward the Saudi Arabian capital of Riyadh.",
+          "Saudi air defense forces successfully intercepted and destroyed the incoming missile.",
+          "The attack raises fresh concerns over regional security and stability in the Middle East."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনে সৌদি নেতৃত্বাধীন জোটের সামরিক হস্তক্ষেপের পর থেকেই হুথি বিদ্রোহীরা নিয়মিতভাবে সৌদি আরবের বিভিন্ন গুরুত্বপূর্ণ অবকাঠামো ও শহর লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এই দীর্ঘস্থায়ী সংঘাত মধ্যপ্রাচ্যের ভূরাজনীতি এবং জ্বালানি সরবরাহের নিরাপত্তাকে গভীরভাবে প্রভাবিত করছে।",
+        "details_en": "Since the Saudi-led coalition intervened militarily in Yemen, Houthi rebels have routinely targeted Saudi infrastructure and cities with drones and missiles. This prolonged conflict continues to deeply impact Middle Eastern geopolitics and global energy supply security."
+      }
+    },
+    {
+      "story_id": "8af4aa26-263c-5450-8f88-ee8391043fe0",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,109 +122,55 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T02:00:00+00:00",
+      "published_at": "2026-10-23T02:03:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9637,
+      "importance_score": 4.8,
+      "rank_score": 1.1761,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976129/%E0%A6%96%E0%A7%81%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A7%87%E0%A6%AA%E0%A6%B0%E0%A7%8B%E0%A7%9F%E0%A6%BE-%E0%A6%8F%E0%A6%A4-%C2%A0%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87",
-          "title": "খুনিরা বেপরোয়া, এত অস্ত্র আসে কোথা থেকে?",
-          "snippet": "খুনিরা বেপরোয়া, এত অস্ত্র আসে কোথা থেকে?"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171052",
+          "title": "বোদায় টাকার ব্যাগসহ এলজিইডির উপসহকারী প্রকৌশলী আটক",
+          "snippet": "বোদায় টাকার ব্যাগসহ এলজিইডির উপসহকারী প্রকৌশলী আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতিতে দেশজুড়ে প্রকাশ্য গুলিবর্ষণ ও হত্যাকাণ্ডের ঘটনা বাড়ছে",
-        "title_en": "Public Shootings and Murders Surge Across Country Amid Deteriorating Law Order",
-        "summary_bn": "দেশের বিভিন্ন স্থানে হেলমেট পরিহিত দুর্বৃত্তদের অতর্কিত গুলিবর্ষণে সাংবাদিকসহ একাধিক নাগরিক নিহত হওয়ার ঘটনায় জনমনে তীব্র আতঙ্ক সৃষ্টি হয়েছে।",
-        "summary_en": "A surge in targeted shootings by helmet-clad assailants across the country, including the killing of a journalist, has sparked severe public panic.",
+        "title_bn": "বোদায় টাকার ব্যাগসহ এলজিইডির উপসহকারী প্রকৌশলী আটক",
+        "title_en": "LGED Sub-Assistant Engineer Detained With Bag of Cash in Boda",
+        "summary_bn": "স্থানীয়দের প্রশ্নের মুখে কর্মস্থল ছাড়ার সময় টাকার ব্যাগসহ এলজিইডির এক উপসহকারী প্রকৌশলী আটক হয়েছেন।",
+        "summary_en": "An LGED sub-assistant engineer was detained with a bag of cash while attempting to leave his workplace amid local questioning.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T02:00:00+00:00",
-        "lead_bn": "দেশের বিভিন্ন স্থানে হেলমেট পরিহিত দুর্বৃত্তদের অতর্কিত গুলিবর্ষণে সাংবাদিকসহ একাধিক নাগরিক নিহত হওয়ার ঘটনায় জনমনে তীব্র আতঙ্ক সৃষ্টি হয়েছে।",
-        "lead_en": "A surge in targeted shootings by helmet-clad assailants across the country, including the killing of a journalist, has sparked severe public panic.",
+        "published_at": "2026-10-23T02:03:55+00:00",
+        "lead_bn": "স্থানীয়দের প্রশ্নের মুখে কর্মস্থল ছাড়ার সময় টাকার ব্যাগসহ এলজিইডির এক উপসহকারী প্রকৌশলী আটক হয়েছেন।",
+        "lead_en": "An LGED sub-assistant engineer was detained with a bag of cash while attempting to leave his workplace amid local questioning.",
         "bullets_bn": [
-          "নেত্রকোনা ও সীতাকুণ্ডসহ বিভিন্ন এলাকায় পরপর কয়েকটি প্রকাশ্য গুলিবর্ষণের ও হত্যার ঘটনা ঘটে।",
-          "দুর্বৃত্তরা মোটরসাইকেলে এসে খুব কাছ থেকে গুলি চালিয়ে নির্বিঘ্নে পালিয়ে যাচ্ছে।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী অপরাধীদের শনাক্ত করতে ও অবৈধ অস্ত্রের উৎস খুঁজতে অভিযান শুরু করেছে।"
+          "কাজের মান নিয়ে এলাকাবাসী প্রশ্ন তুলে কাগজপত্র দেখতে চাইলে প্রকৌশলী দ্রুত কর্মস্থল ত্যাগের চেষ্টা করেন।",
+          "স্থানীয়রা তাকে আটকে ব্যাগ তল্লাশি করতে চাইলে তিনি তা অস্বীকার করেন।",
+          "ঘটনার পর স্থানীয়রা বিষয়টি খতিয়ে দেখার জন্য সংশ্লিষ্ট কর্তৃপক্ষের কাছে দাবি জানান।"
         ],
         "bullets_en": [
-          "Multiple public shooting and murder incidents occurred in Netrokona, Sitakunda, and other areas.",
-          "Assailants arrived on motorcycles, fired from close range, and fled without hindrance.",
-          "Law enforcement agencies launched drives to identify perpetrators and trace illegal weapon sources."
+          "Locals questioned the engineer regarding work quality and demanded to check official project documents.",
+          "The accused engineer attempted to leave the workplace quickly and refused to let locals search his bag.",
+          "Locals demanded an immediate official investigation into the suspicious possession of cash at the work site."
         ],
-        "impact_bn": "প্রকাশ্য স্থানে গুলি চালিয়ে হত্যার এসব ঘটনায় সাধারণ মানুষের মধ্যে তীব্র নিরাপত্তাহীনতা ও উৎকণ্ঠা তৈরি হয়েছে।",
-        "impact_en": "Such public shooting incidents have triggered intense insecurity and anxiety among ordinary citizens.",
-        "details_bn": "সম্প্রতি দেশের বিভিন্ন প্রান্তে প্রকাশ্যে অস্ত্র প্রদর্শন ও গুলি করে হত্যার প্রবণতা আশঙ্কাজনকভাবে বৃদ্ধি পেয়েছে। নেত্রকোনায় চায়ের দোকান থেকে বের হওয়ার সময় এক সাংবাদিককে এবং পরবর্তীতে মসজিদের সামনে আরেক যুবককে গুলি করে হত্যা করা হয়। একই সময়ে চট্টগ্রামের সীতাকুণ্ডেও ঘটে আরেকটি হত্যাকাণ্ডের ঘটনা। এসব ঘটনায় অপরাধীদের ব্যবহৃত অবৈধ অস্ত্রের উৎস এবং তাদের বেপরোয়া গতিবিধি রোধে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর কঠোর পদক্ষেপের দাবি জোরালো হচ্ছে।",
-        "details_en": "Recently, the tendency of public armed attacks and killings has risen alarmingly across the country. A journalist was shot dead upon leaving a tea stall in Netrokona, followed by the killing of another youth near a mosque. Concurrently, another murder occurred in Sitakunda, Chattogram. These incidents have intensified public demands for strict law enforcement action to track illegal weapons and curb rising crime."
+        "impact_bn": "স্থানীয় উন্নয়ন প্রকল্পে স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করতে সাধারণ মানুষের এই প্রতিরোধ ভূমিকা রাখবে।",
+        "impact_en": "Such public resistance helps enforce transparency and accountability in local infrastructure development projects.",
+        "details_bn": "উপজেলা প্রকৌশলী অফিসের নানা অনিয়ম ও দুর্নীতির অভিযোগ দীর্ঘদিনের। সম্প্রতি এলজিইডির বিভিন্ন উন্নয়ন কাজের মান নিয়ে সাধারণ মানুষের ক্ষোভ বাড়ছিল। এর মধ্যেই কাজের সাইটে টাকার ব্যাগসহ প্রকৌশলীর আটকের ঘটনা স্থানীয় দুর্নীতি বিরোধী সচেতনতাকে আরও তীব্র করে তুলেছে।",
+        "details_en": "Allegations of irregularities and corruption within upazila engineering offices have persisted for a long time. Public frustration over the quality of various LGED development works has been mounting recently. The detention of the engineer with a bag of cash at the work site has further intensified local anti-corruption awareness."
       }
     },
     {
-      "story_id": "27e6c874-8c37-5276-9655-4042baac262f",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9637,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/976100/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%85%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%A1%E0%A6%BF%E0%A6%86%E0%A6%B0%E0%A6%8F%E0%A6%B8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%B9%E0%A6%B2%E0%A7%8B",
-          "title": "ক্রিকেটে প্রযুক্তির নতুন অধ্যায়, ডিআরএসে যুক্ত হলো ‘সনিক’",
-          "snippet": "ক্রিকেটে প্রযুক্তির নতুন অধ্যায়, ডিআরএসে যুক্ত হলো ‘সনিক’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ক্রিকেটের ডিআরএস প্রযুক্তিতে যুক্ত হলো নিউজিল্যান্ডের সনিক প্রযুক্তি",
-        "title_en": "New Zealand Sonic Technology Added to Cricket DRS System",
-        "summary_bn": "ব্যাটে বলের স্পর্শ নিখুঁতভাবে নির্ধারণ করতে ক্রিকেট ডিসিশন রিভিউ সিস্টেমে যুক্ত হয়েছে নিউজিল্যান্ডের তৈরি নতুন সনিক প্রযুক্তি।",
-        "summary_en": "New Zealand-developed Sonic technology has been integrated into the cricket decision review system to accurately detect bat-ball contact.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T02:00:00+00:00",
-        "lead_bn": "ব্যাটে বলের স্পর্শ নিখুঁতভাবে নির্ধারণ করতে ক্রিকেট ডিসিশন রিভিউ সিস্টেমে যুক্ত হয়েছে নিউজিল্যান্ডের তৈরি নতুন সনিক প্রযুক্তি।",
-        "lead_en": "New Zealand-developed Sonic technology has been integrated into the cricket decision review system to accurately detect bat-ball contact.",
-        "bullets_bn": [
-          "ভারত ও নিউজিল্যান্ডের মধ্যকার টি-টোয়েন্টি সিরিজ দিয়ে প্রথমবারের মতো সনিক প্রযুক্তি চালু করা হয়েছে।",
-          "ব্যাটে বলের স্পর্শ বা সূক্ষ্ম শব্দ নিখুঁতভাবে শনাক্ত করতে এই উন্নত প্রযুক্তি সহায়তা করবে।",
-          "নিউজিল্যান্ডের এই সিরিজে পরীক্ষামূলক ব্যবহারের পর অন্যান্য সিরিজে এর বিস্তার নির্ভর করবে।"
-        ],
-        "bullets_en": [
-          "Sonic technology is introduced for the first time during the ongoing T20 series between India and New Zealand.",
-          "This advanced technology will help accurately detect bat-ball contact or subtle sounds during reviews.",
-          "Future use in other international series will depend on the performance and approval in this series."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ক্রিকেটে এলবিডব্লিউ ও কট-বিহাইন্ডের মতো সিদ্ধান্তগুলোতে আম্পায়ারদের নির্ভুল রায় প্রদানে প্রযুক্তির ব্যবহার ক্রমাগত বাড়ছে। প্রচলিত স্নিকোমিটার বা আল্ট্রাএজ প্রযুক্তির পাশাপাশি ব্যাটের কানায় বলের স্পর্শ নিশ্চিত করতে নতুন এই সনিক প্রযুক্তি যুক্ত হলো। প্রযুক্তিটির সফল প্রয়োগ ভবিষ্যতে আন্তর্জাতিক ক্রিকেটের সব ফরম্যাটে আম্পায়ারিংয়ের মান আরও উন্নত করবে বলে আশা করা হচ্ছে।",
-        "details_en": "The use of technology in cricket to help umpires make accurate decisions on LBW and caught-behind appeals has continuously grown. Alongside traditional snickometer or ultra-edge tech, this new sonic technology has been introduced to better confirm edges. Successful implementation is expected to further improve umpiring standards across all formats of international cricket."
-      }
-    },
-    {
-      "story_id": "93db28c3-a7fe-51eb-85c9-dadd5e57d901",
+      "story_id": "8212d173-cc43-5fa2-a7fd-2315ee59845d",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law",
+        "world_diplomacy"
       ],
       "tags": [
         "#Bangladesh",
@@ -124,104 +178,52 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T01:59:42+00:00",
+      "published_at": "2026-10-23T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9606,
+      "rank_score": 0.965,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%AF/976169/%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%BF-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%B8%E0%A6%AC",
-          "title": "সোশ্যাল মিডিয়ায় একটি পোস্ট-কমেন্টেই কি শেষ সব সুনাম?",
-          "snippet": "সোশ্যাল মিডিয়ায় একটি পোস্ট-কমেন্টেই কি শেষ সব সুনাম?"
+          "url": "https://www.banglatribune.com/entertainment/bollywood/976121/%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%A8%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A7%9F%E0%A6%A4%E0%A6%BE-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%8B-%E0%A6%A8%E0%A6%BE",
+          "title": "দিলজিতের কনসার্ট ঘিরে অনিশ্চয়তা, অনুমতি দিলো না পুলিশ",
+          "snippet": "দিলজিতের কনসার্ট ঘিরে অনিশ্চয়তা, অনুমতি দিলো না পুলিশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সামাজিক মাধ্যমে একটি মন্তব্যেই নষ্ট হয় মানুষের দীর্ঘদিনের সুনাম",
-        "title_en": "Single social media comment can ruin years of personal reputation",
-        "summary_bn": "সামাজিক যোগাযোগ মাধ্যমে একটি মাত্র আপত্তিকর মন্তব্য ব্যবহারকারীর দীর্ঘদিনের সামাজিক পরিচয় ও কর্মজীবনকে মুহূর্তের মধ্যে ঝুঁকির মুখে ফেলে দেয়।",
-        "summary_en": "A single controversial social media comment can instantly jeopardize a user's long-standing reputation and professional life.",
+        "title_bn": "দিলজিৎ দোসাঞ্জের দিল্লি কনসার্টের অনুমতি দিল না দিল্লি পুলিশ",
+        "title_en": "Delhi Police Deny Permission for Diljit Dosanjh Concert in Delhi",
+        "summary_bn": "দিল্লি পুলিশ নিরাপত্তা ও প্রশাসনিক কারণ দেখিয়ে দিলজিৎ দোসাঞ্জের আসন্ন অরা ইন্ডিয়া ট্যুর কনসার্টের অনুমতি দেয়নি।",
+        "summary_en": "Delhi Police denied permission for Diljit Dosanjh upcoming Aura India Tour concert citing administrative and security reasons.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T01:59:42+00:00",
-        "lead_bn": "সামাজিক যোগাযোগ মাধ্যমে একটি মাত্র আপত্তিকর মন্তব্য ব্যবহারকারীর দীর্ঘদিনের সামাজিক পরিচয় ও কর্মজীবনকে মুহূর্তের মধ্যে ঝুঁকির মুখে ফেলে দেয়।",
-        "lead_en": "A single controversial social media comment can instantly jeopardize a user's long-standing reputation and professional life.",
+        "published_at": "2026-10-23T03:00:00+00:00",
+        "lead_bn": "দিল্লি পুলিশ নিরাপত্তা ও প্রশাসনিক কারণ দেখিয়ে দিলজিৎ দোসাঞ্জের আসন্ন অরা ইন্ডিয়া ট্যুর কনসার্টের অনুমতি দেয়নি।",
+        "lead_en": "Delhi Police denied permission for Diljit Dosanjh upcoming Aura India Tour concert citing administrative and security reasons.",
         "bullets_bn": [
-          "অনলাইন প্ল্যাটফর্মে একটিমাত্র আপত্তিকর মন্তব্য মুহূর্তেই ভাইরাল হয়ে তীব্র সমালোচনার জন্ম দেয়।",
-          "অপরিচিত ব্যক্তিরা ব্যক্তির ব্যক্তিত্ব নিয়ে প্রশ্ন তোলেন এবং কর্মস্থলে ব্যবস্থা নেওয়ার দাবি জানান।",
-          "সামাজিক মাধ্যমের একমুখী বিচার অনেক সময় মানুষের বাস্তব জীবনের সামগ্রিক অবদান ও পরিচিতিকে মুছে দেয়।"
+          "দিল্লি পুলিশ জওহরলাল নেহরু স্টেডিয়ামে আয়োজিতব্য দিলজিৎ দোসাঞ্জের কনসার্টের অনুমতি খারিজ করেছে",
+          "নির্ধারিত সূচি অনুযায়ী আগামী ৩০ অক্টোবর এই অনুষ্ঠানটি হওয়ার কথা ছিল",
+          "অনুমতি না পাওয়ায় কনসার্টের ভবিষ্যৎ এবং ইতিমধ্যে কাটা টিকিট নিয়ে অনিশ্চয়তা তৈরি হয়েছে"
         ],
         "bullets_en": [
-          "A single offensive comment on online platforms instantly goes viral and sparks severe criticism.",
-          "Unfamiliar users question the individual's character and demand disciplinary action at their workplace.",
-          "One-sided online judgment often erases a person's overall contributions and real-life identity."
+          "Delhi Police rejected the permission for the scheduled concert of Diljit Dosanjh at Jawaharlal Nehru Stadium.",
+          "The event was originally scheduled to take place on October 30 as part of the tour.",
+          "The cancellation creates uncertainty for ticket holders and organizers regarding a new schedule."
         ],
-        "impact_bn": "ডিজিটাল প্ল্যাটফর্মে মন্তব্য করার আগে সচেতন না হলে সাধারণ নাগরিক ও তরুণরা মারাত্মক পেশাগত ও সামাজিক সংকটের মুখে পড়তে পারেন।",
-        "impact_en": "Ordinary citizens and youth risk severe professional and social crises unless they exercise caution before posting online.",
-        "details_bn": "বর্তমান ডিজিটাল যুগে সামাজিক যোগাযোগ মাধ্যমের প্রভাব মানুষের ব্যক্তিগত ও পেশাগত জীবনে ব্যাপক ভূমিকা রাখছে। একটিমাত্র অনলাইন মন্তব্য বা পোস্ট অনেক সময় ব্যক্তির সামগ্রিক চরিত্র মূল্যায়নে নেতিবাচক প্রভাব ফেলে। এই সংস্কৃতি সাইবার বুলিং এবং দ্রুত বিচারপ্রবণতার এক নতুন রূপ উন্মোচন করেছে, যা সচেতনতার অভাবের কারণে সমাজে প্রতিনিয়ত বাড়ছে।",
-        "details_en": "In the modern digital era, social media heavily influences personal and professional lives. A single online comment or post often negatively distorts the overall evaluation of an individual's character. This culture exposes a new form of cyberbullying and rapid trial mentality, which continuously rises in society due to a lack of digital awareness."
+        "impact_bn": "কনসার্টের টিকিট কেনা ভক্তরা আর্থিক ক্ষতি ও অনিশ্চয়তার মুখে পড়েছেন।",
+        "impact_en": "Fans who already purchased tickets face uncertainty and potential financial inconvenience.",
+        "details_bn": "জনপ্রিয় সংগীতশিল্পী দিলজিৎ দোসাঞ্জের অরা ইন্ডিয়া ট্যুর ঘিরে ভক্তদের মধ্যে ব্যাপক উন্মাদনা তৈরি হয়েছিল। তবে দিল্লির জওহরলাল নেহরু স্টেডিয়ামে ৩০ অক্টোবর অনুষ্ঠেয় এই কনসার্টটির জন্য দিল্লি পুলিশ প্রয়োজনীয় অনুমতি না দেওয়ায় এর আয়োজন নিয়ে বড় ধরণের জটিলতা সৃষ্টি হয়েছে।",
+        "details_en": "Popular singer Diljit Dosanjh sparked massive excitement with his Aura India Tour. However, the refusal of permission by Delhi Police for the October 30 concert at the Jawaharlal Nehru Stadium has cast uncertainty over the high-profile musical event."
       }
     },
     {
-      "story_id": "98a02077-59ce-56ae-9f0a-34f63b2a4b32",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T01:07:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6051,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976168/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%B6%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE",
-          "title": "বঙ্গোপসাগরে এক লঘুচাপের মধ্যে আরেকটির শঙ্কা",
-          "snippet": "বঙ্গোপসাগরে এক লঘুচাপের মধ্যে আরেকটির শঙ্কা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বঙ্গোপসাগরে নতুন লঘুচাপ সৃষ্টির শঙ্কা আবহাওয়া অধিদফতরের",
-        "title_en": "Meteorological Department Warns of Potential New Low Pressure in Bay of Bengal",
-        "summary_bn": "বঙ্গোপসাগরে বিদ্যমান লঘুচাপের পাশাপাশি আরেকটি নতুন লঘুচাপ সৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "summary_en": "The Meteorological Department has reported that another low-pressure system is likely to form in the Bay of Bengal alongside the existing one.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T01:07:53+00:00",
-        "lead_bn": "বঙ্গোপসাগরে বিদ্যমান লঘুচাপের পাশাপাশি আরেকটি নতুন লঘুচাপ সৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "lead_en": "The Meteorological Department has reported that another low-pressure system is likely to form in the Bay of Bengal alongside the existing one.",
-        "bullets_bn": [
-          "দক্ষিণ-পূর্ব ও পূর্ব-মধ্য বঙ্গোপসাগর এলাকায় আগামী চব্বিশ ঘণ্টার মধ্যে নতুন লঘুচাপ সৃষ্টি হতে পারে।",
-          "নতুন এই লঘুচাপটি পরবর্তীতে ঘনীভূত হওয়ার আশঙ্কা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-          "লঘুচাপের পূর্বাভাস সত্ত্বেও দেশের সামগ্রিক আবহাওয়া আপাতত প্রধানত শুষ্ক থাকতে পারে।"
-        ],
-        "bullets_en": [
-          "A new low-pressure system may form over the southeast and adjoining east-central Bay of Bengal within the next twenty-four hours.",
-          "The Meteorological Department has indicated that the newly formed low-pressure system is likely to intensify further.",
-          "Despite the low-pressure forecast, the overall weather across the country is expected to remain mainly dry for the time being."
-        ],
-        "impact_bn": "সমুদ্র উপকূলবর্তী এলাকার জেলে ও সাধারণ মানুষজনকে আবহাওয়া পরিস্থিতির দিকে সতর্ক দৃষ্টি রাখার পরামর্শ দেওয়া হয়েছে।",
-        "impact_en": "Coastal fishermen and residents are advised to monitor weather updates closely as new atmospheric disturbances develop.",
-        "details_bn": "বঙ্গোপসাগরে প্রায় সময়ই মৌসুমি বায়ুর প্রভাবে কিংবা ক্রান্তীয় পরিস্থিতিতে লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়ে থাকে। আবহাওয়ার গতিপ্রকৃতি ও সামুদ্রিক পরিবর্তন নিয়মিত পর্যবেক্ষণ করে থাকে বাংলাদেশ আবহাওয়া অধিদফতর। এই ধরনের লঘুচাপগুলো পরবর্তীতে ঘনীভূত হয়ে অনেক সময় নিম্নচাপ বা সামুদ্রিক ঝড়ে রূপ নেয়, যা উপকূলীয় অঞ্চলে আবহাওয়া পরিবর্তনে বড় ভূমিকা রাখে।",
-        "details_en": "Low-pressure systems frequently form in the Bay of Bengal due to seasonal winds and tropical conditions. The Bangladesh Meteorological Department routinely monitors atmospheric patterns and maritime changes. Such systems often intensify into depressions or cyclones, significantly impacting weather conditions across coastal regions."
-      }
-    },
-    {
-      "story_id": "b20809eb-bb2e-5ea2-89d7-b6ab5b2b63e8",
+      "story_id": "b7791693-b360-5be1-afcb-1a57c77c78b0",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
@@ -231,25 +233,25 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fndak8sk5%2Fdiet-4.jpg?overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T01:00:00+00:00",
+      "published_at": "2026-10-23T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.571,
+      "rank_score": 0.965,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.haal.fashion/lifestyle/well-being/9ybr8h7e7f",
-          "title": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ",
-          "snippet": "ডায়েট করেও ওজন কমছে না? যে ৯টি ভুল হতে পারে কারণ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/976110/%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A6%BE%E0%A6%AA%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B6%E0%A6%BE%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%A4%E0%A6%BE-%E0%A6%9B%E0%A7%9C%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
+          "title": "গোলাপি পোশাক পরে সচেতনতা ছড়ানোর দিন",
+          "snippet": "গোলাপি পোশাক পরে সচেতনতা ছড়ানোর দিন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ওজন কমানোর ডায়েটে যেসব সাধারণ ভুল এড়িয়ে চলা জরুরি",
-        "title_en": "Common Mistakes to Avoid While Following Weight Loss Diets",
-        "summary_bn": "সঠিক ডায়েট পরিকল্পনা এবং সুষম খাদ্যাভ্যাসের অভাবে অনেক সময় ওজন কমানোর চেষ্টা ব্যর্থ হয়।",
-        "summary_en": "Weight loss attempts often fail due to poor diet selection and inconsistent eating habits.",
+        "title_bn": "স্তন ক্যানসার সচেতনতা বাড়াতে বিশ্বজুড়ে পালিত হচ্ছে ওয়্যার ইট পিঙ্ক ডে",
+        "title_en": "Wear It Pink Day Observed Globally to Raise Breast Cancer Awareness",
+        "summary_bn": "স্তন ক্যানসার নিয়ে সচেতনতা তৈরি ও গবেষণার তহবিল সংগ্রহ করতে বিশ্বজুড়ে বিভিন্ন আয়োজনের মধ্য দিয়ে ওয়্যার ইট পিঙ্ক ডে পালিত হয়।",
+        "summary_en": "Wear It Pink Day is observed globally through various events to build breast cancer awareness and raise research funds.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -257,79 +259,77 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T01:00:00+00:00",
-        "lead_bn": "সঠিক ডায়েট পরিকল্পনা এবং সুষম খাদ্যাভ্যাসের অভাবে অনেক সময় ওজন কমানোর চেষ্টা ব্যর্থ হয়।",
-        "lead_en": "Weight loss attempts often fail due to poor diet selection and inconsistent eating habits.",
+        "published_at": "2026-10-23T03:00:00+00:00",
+        "lead_bn": "স্তন ক্যানসার নিয়ে সচেতনতা তৈরি ও গবেষণার তহবিল সংগ্রহ করতে বিশ্বজুড়ে বিভিন্ন আয়োজনের মধ্য দিয়ে ওয়্যার ইট পিঙ্ক ডে পালিত হয়।",
+        "lead_en": "Wear It Pink Day is observed globally through various events to build breast cancer awareness and raise research funds.",
         "bullets_bn": [
-          "ভুল ডায়েট নির্বাচন এবং দীর্ঘমেয়াদি পরিকল্পনার অভাবেই মূলত ওজন প্রত্যাশিত হারে কমে না।",
-          "খাদ্যাভ্যাসে অসংগতির কারণে ডায়েট শেষ হওয়ার পর ওজন দ্রুত আগের অবস্থায় ফিরে আসে।",
-          "স্বাস্থ্যসম্মত এবং সুষম ডায়েট বাস্তবায়নে পুষ্টিবিদের পরামর্শ অনুযায়ী সঠিক রুটিন মেনে চলা উচিত।"
+          "বিশ্বজুড়ে মানুষ গোলাপি পোশাক পরে স্তন ক্যানসার সচেতনতামূলক কার্যক্রমে অংশ নেয়।",
+          "অক্টোবর মাসজুড়ে স্তন ক্যানসার সচেতনতা উদযাপনের অংশ হিসেবে নির্দিষ্ট এই দিনটি পালন করা হয়।",
+          "সচেতনতা বৃদ্ধির পাশাপাশি রোগটি নিয়ে গবেষণার জন্য বিভিন্ন মাধ্যমে তহবিল সংগ্রহ করা হয়।"
         ],
         "bullets_en": [
-          "Incorrect diet selection and lack of long-term planning often prevent expected weight loss.",
-          "Inconsistent eating habits frequently cause people to regain lost weight quickly after stopping a diet.",
-          "Following proper nutritional guidance and maintaining a structured routine ensures sustainable weight management results."
+          "People worldwide participate in breast cancer awareness activities wearing pink attire.",
+          "This specific day is observed as part of the broader breast cancer awareness month celebrations.",
+          "Funds are raised through various channels for ongoing medical research alongside building awareness."
         ],
-        "impact_bn": "সঠিক ডায়েট পদ্ধতি জানা থাকলে সাধারণ মানুষ স্বাস্থ্যঝুঁকি এড়াতে এবং সুস্থ জীবনধারা বজায় রাখতে পারেন।",
-        "impact_en": "Understanding proper dieting methods helps individuals avoid health risks and maintain a sustainable healthy lifestyle.",
-        "details_bn": "অনেকেই ডায়েট পরিকল্পনা অনুসরণ করেও প্রত্যাশিত ফল পান না। কারও ওজন কমে না, আবার কারও ক্ষেত্রে ডায়েট শেষ করার পর দ্রুত আগের ওজন ফিরে আসে। ভুল ডায়েট নির্বাচন, খাদ্যাভ্যাসে অসংগতি কিংবা দীর্ঘমেয়াদি পরিকল্পনার অভাব এর পেছনে প্রধান কারণ হিসেবে কাজ করে। সঠিক ওজন নিয়ন্ত্রণে ডায়েট পরিচালনার ক্ষেত্রে সুনির্দিষ্ট নয়টি ভুল চিহ্নিত করা হয়েছে যা এড়িয়ে চলা আবশ্যক।",
-        "details_en": "Many people fail to achieve expected results despite following strict diet plans, often regaining weight quickly afterward. Poor diet selection, eating inconsistencies, and lack of long-term planning are primary reasons behind this failure. Identifying and avoiding common diet mistakes is essential for achieving sustainable weight loss and maintaining overall health."
+        "impact_bn": "এই সচেতনতামূলক দিবসটি সাধারণ মানুষের মধ্যে স্তন ক্যানসার সম্পর্কে প্রাথমিক সতর্কতা ও স্বাস্থ্য সচেতনতা বৃদ্ধি করতে সাহায্য করে।",
+        "impact_en": "This awareness day helps increase early caution and health consciousness regarding breast cancer among the general public.",
+        "details_bn": "প্রতি বছর অক্টোবর মাসকে স্তন ক্যানসার সচেতনতা মাস হিসেবে পালন করা হয়। এর অংশ হিসেবে ওয়্যার ইট পিঙ্ক ডে তে মানুষ গোলাপি শার্ট, মোজা বা নানা ধরনের পোশাক পরে জনসচেতনতা তৈরি এবং ক্যানসার গবেষণার জন্য অর্থ সংগ্রহে অংশ নেয়।",
+        "details_en": "October is annually observed as Breast Cancer Awareness Month. As part of this, people wear pink shirts, socks, or various outfits during Wear It Pink Day to build public awareness and contribute to fundraising efforts for cancer research."
       }
     },
     {
-      "story_id": "76ba9eb6-3cd5-5fbe-8fad-35cb22505eb0",
-      "primary_category": "sports_fitness",
+      "story_id": "75c59e86-43cb-5de3-9e17-d437f6c73db4",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
         "governance_law"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Flcwuy1sp%2FWhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2Foj267urd%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T01:00:00+00:00",
+      "published_at": "2026-10-23T02:59:04+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.571,
+      "rank_score": 0.9554,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/m327n8h4gc",
-          "title": "আজ টিভিতে যা দেখবেন (২৩ অক্টোবর ২০২৬)",
-          "snippet": "আজ টিভিতে যা দেখবেন (২৩ অক্টোবর ২০২৬)"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976172/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%87-%E0%A6%B2%E2%80%99-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F",
+          "title": "মোহাম্মদপুরে ‘মুখে ল’ সন্ত্রাসী গ্রুপের সক্রিয় সদস্য দিদার গ্রেফতার",
+          "snippet": "মোহাম্মদপুরে ‘মুখে ল’ সন্ত্রাসী গ্রুপের সক্রিয় সদস্য দিদার গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আফগানিস্তান ও জিম্বাবুয়ের ফাইনাল ম্যাচসহ র প্রধান খেলাগুলো টিভিতে সম্প্রচারিত হবে",
-        "title_en": "Television Broadcast Schedule Features Afghanistan Facing Zimbabwe in Tri-Series Final",
-        "summary_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় সিরিজের ফাইনালে মুখোমুখি হবে আফগানিস্তান ও জিম্বাবুয়ে, যা টি স্পোর্টসে সম্প্রচারিত হবে।",
-        "summary_en": "Afghanistan and Zimbabwe face each other in the tri-nation series final in the UAE, broadcast live on T Sports.",
+        "title_bn": "মোহাম্মদপুরে মুখের ল সন্ত্রাসী গ্রুপের সক্রিয় সদস্য দিদার গ্রেফতার",
+        "title_en": "Police Arrests Active Member of Mukhe La Criminal Gang in Mohammadpur",
+        "summary_bn": "রাজধানীর মোহাম্মদপুরে অভিযান চালিয়ে মুখে ল সন্ত্রাসী গ্রুপের সক্রিয় সদস্য মো. দিদারকে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police arrested Md Didar, an active member of the criminal gang Mukhe La, during a drive in Mohammadpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T01:00:00+00:00",
-        "lead_bn": "সংযুক্ত আরব আমিরাতে ত্রিদেশীয় সিরিজের ফাইনালে মুখোমুখি হবে আফগানিস্তান ও জিম্বাবুয়ে, যা টি স্পোর্টসে সম্প্রচারিত হবে।",
-        "lead_en": "Afghanistan and Zimbabwe face each other in the tri-nation series final in the UAE, broadcast live on T Sports.",
+        "published_at": "2026-10-23T02:59:04+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুরে অভিযান চালিয়ে মুখে ল সন্ত্রাসী গ্রুপের সক্রিয় সদস্য মো. দিদারকে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police arrested Md Didar, an active member of the criminal gang Mukhe La, during a drive in Mohammadpur.",
         "bullets_bn": [
-          "আফগানিস্তান ও জিম্বাবুয়ের মধ্যকার ত্রিদেশীয় সিরিজের ফাইনাল ম্যাচটি বিকেল সাড়ে পাঁচটায় টি স্পোর্টসে সরাসরি সম্প্রচারিত হবে।",
-          "ব্রাদার্স ইউনিয়নের বিপক্ষে আবাহনীর ফুটবল ম্যাচ দুপুর দুইটা পয়তাল্লিশ মিনিটে টি স্পোর্টসে অনুষ্ঠিত হবে।",
-          "ইংলিশ প্রিমিয়ার লিগে ইপসউইচ ও নটিংহাম ফরেস্ট ম্যাচ রাত একটায় স্টার স্পোর্টস সিলেক্ট ওয়ানে দেখা যাবে।"
+          "মোহাম্মদপুর থানাধীন বোটঘাট এলাকা থেকে দিদারকে গ্রেফতার করা হয়",
+          "তেজগাঁও বিভাগের পুলিশের অতিরিক্ত উপ কমিশনার জুয়েল রানা বিষয়টি নিশ্চিত করেছেন",
+          "গ্রেফতারকৃত দিদারের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে"
         ],
         "bullets_en": [
-          "The tri-nation series final match between Afghanistan and Zimbabwe will be broadcast live at 5:30 PM on T Sports.",
-          "Abahani will face Brothers Union in a football match scheduled for 2:45 PM on T Sports.",
-          "The English Premier League match between Ipswich and Nottingham Forest airs at 1:00 AM on Star Sports Select 1."
+          "Didar was arrested from the Boatghat area under Mohammadpur Police Station",
+          "Tejgaon division police additional deputy commissioner Jewel Rana confirmed the arrest",
+          "Legal procedures are underway against the arrested individual"
         ],
-        "impact_bn": "ক্রীড়াপ্রেমী দর্শক ও তরুণরা টেলিভিশনের পর্দায় সরাসরি র আকর্ষণীয় ম্যাচগুলো উপভোগ করতে পারবেন।",
-        "impact_en": "Sports fans and youth can enjoy live broadcasts of today's major domestic and international matches.",
-        "details_bn": "সংযুক্ত আরব আমিরাতে অনুষ্ঠিত ত্রিদেশীয় সিরিজের ফাইনালে আফগানিস্তান ও জিম্বাবুয়ে মুখোমুখি হচ্ছে। পাশাপাশি ঘরোয়া ফুটবল লিগে ব্রাদার্স ও আবাহনীর লড়াই এবং ইউরোপিয়ান ফুটবলে ইংলিশ প্রিমিয়ার লিগের ম্যাচ রয়েছে। টি স্পোর্টস ও স্টার স্পোর্টসসহ বিভিন্ন ক্রীড়া চ্যানেল এসব ম্যাচ সরাসরি সম্প্রচার করবে। দর্শকরা ঘরে বসেই আন্তর্জাতিক ও ঘরোয়া প্রতিযোগিতামূলক খেলাগুলোর উপভোগ করার সুযোগ পাবেন।",
-        "details_en": "Afghanistan and Zimbabwe are clashing in the tri-nation series final held in the United Arab Emirates. Alongside international cricket, domestic football features a match between Brothers Union and Abahani, while European action includes the English Premier League. Major sports broadcasters like T Sports and Star Sports will air these fixtures live, allowing fans to follow both local and global sporting events."
+        "impact_bn": "স্থানীয় বাসিন্দারা এই গ্যাপস বা অপরাধ চক্রের তৎপরতা হ্রাস পাওয়ায় কিছুটা স্বস্তি প্রকাশ করেছেন।",
+        "impact_en": "Local residents feel safer as law enforcement cracks down on active street criminal syndicates.",
+        "details_bn": "রাজধানীর বিভিন্ন এলাকায় কিশোর গ্যাং ও স্থানীয় সন্ত্রাসী গ্রুপগুলোর দৌরাত্ম্য দমনে আইনশৃঙ্খলা বাহিনী নিয়মিত অভিযান পরিচালনা করে আসছে। মোহাম্মদপুর ও এর আশেপাশের এলাকায় অপরাধ দমনে পুলিশি নজরদারি ও টহল জোরদার করা হয়েছে।",
+        "details_en": "Law enforcement agencies have intensified regular operations to curb the growing influence of juvenile gangs and local criminal syndicates across various parts of the capital. Police patrolling and surveillance have been strengthened in Mohammadpur and surrounding areas to control local crime."
       }
     }
   ]
