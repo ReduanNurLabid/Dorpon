@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T22:00:48.030260",
+  "updated_at": "2026-10-23T23:00:48.654256",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "fbf0d281-db7f-5cb1-b33b-df58493e1ebe",
+      "story_id": "45cdc0dd-bf7b-54c1-88b4-711420415212",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,50 +14,162 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T21:47:08+00:00",
+      "published_at": "2026-10-23T22:56:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.3262,
+      "importance_score": 2.4,
+      "rank_score": 0.9247,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171258",
-          "title": "প্রধানমন্ত্রীর সফর ঘিরে ‘স্নাইপার’ নিয়ে মন্তব্য, কারাগারে সেই যুবক",
-          "snippet": "প্রধানমন্ত্রীর সফর ঘিরে ‘স্নাইপার’ নিয়ে মন্তব্য, কারাগারে সেই যুবক"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/976339/%E0%A6%AE%E0%A7%8B%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A7%AA",
+          "title": "মোবাইল ছিনিয়ে নিতে বাধা দেওয়ায় অপ্রতিমকে হত্যা: ৪ জনের বিরুদ্ধে চার্জশিট",
+          "snippet": "মোবাইল ছিনিয়ে নিতে বাধা দেওয়ায় অপ্রতিমকে হত্যা: ৪ জনের বিরুদ্ধে চার্জশিট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর সফর নিয়ে কটূক্তি ও স্নাইপার সংক্রান্ত মন্তব্যকারী যুবক কারাগারে",
-        "title_en": "Youth Sent to Jail for Making Sniper Remarks Over Prime Minister Visit",
-        "summary_bn": "প্রধানমন্ত্রীকে নিয়ে সামাজিক যোগাযোগমাধ্যমে কটূক্তি ও স্নাইপার হামলার হুমকিদাতা এক যুবককে কারাগারে পাঠানোর নির্দেশ দিয়েছে আদালত।",
-        "summary_en": "A court has ordered a youth to jail for making derogatory remarks and a sniper threat regarding the Prime Minister on social media.",
+        "title_bn": "কুমিল্লায় বিশ্ববিদ্যালয়ের শিক্ষকপুত্রের মোবাইল ছিনতাইকালে হত্যা মামলায় চারজনের বিরুদ্ধে চার্জশিট দাখিল",
+        "title_en": "Police Submit Chargesheet Against Four in Comilla University Teacher Son Murder Case",
+        "summary_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষকের সন্তান ইশায়াত শাহরিয়ার অপ্রতিমকে মোবাইল ছিনিয়ে নিতে বাধা দেওয়ায় হত্যার ঘটনায় আদালতে চার্জশিট জমা দিয়েছে পুলিশ।",
+        "summary_en": "Police have submitted a chargesheet in court over the murder of Comilla University teacher son Ishayat Shahriar Apratim during a mobile phone snatching attempt.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T21:47:08+00:00",
-        "lead_bn": "প্রধানমন্ত্রীকে নিয়ে সামাজিক যোগাযোগমাধ্যমে কটূক্তি ও স্নাইপার হামলার হুমকিদাতা এক যুবককে কারাগারে পাঠানোর নির্দেশ দিয়েছে আদালত।",
-        "lead_en": "A court has ordered a youth to jail for making derogatory remarks and a sniper threat regarding the Prime Minister on social media.",
+        "published_at": "2026-10-23T22:56:00+00:00",
+        "lead_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের শিক্ষকের সন্তান ইশায়াত শাহরিয়ার অপ্রতিমকে মোবাইল ছিনিয়ে নিতে বাধা দেওয়ায় হত্যার ঘটনায় আদালতে চার্জশিট জমা দিয়েছে পুলিশ।",
+        "lead_en": "Police have submitted a chargesheet in court over the murder of Comilla University teacher son Ishayat Shahriar Apratim during a mobile phone snatching attempt.",
         "bullets_bn": [
-          "সামাজিক যোগাযোগমাধ্যমে উসকানিমূলক মন্তব্য ও হুমকি দেওয়ার অভিযোগে ওই যুবককে গ্রেফতার করা হয়।",
-          "ঢাকার একটি আদালত অভিযুক্তকে কারাগারে আটক রাখার নির্দেশ দেন।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার পেছনের উদ্দেশ্য খতিয়ে দেখতে তদন্ত চালিয়ে যাচ্ছে।"
+          "মোবাইল ছিনিয়ে নেওয়ার সময় বাধা দেওয়ায় কিশোর অপ্রতিমকে হত্যার ঘটনায় চারজনের বিরুদ্ধে আদালতে অভিযোগপত্র দাখিল করেছে পুলিশ।",
+          "কুমিল্লা জেলার অতিরিক্ত পুলিশ সুপার লুৎফর রহমান গণমাধ্যমকে তদন্ত সম্পন্ন করে আদালতে চার্জশিট দাখিলের বিষয়টি নিশ্চিত করেছেন।",
+          "পুলিশের তদন্ত শেষ হওয়ায় এখন এই হত্যা মামলার বিচারিক কার্যক্রম আদালতে আনুষ্ঠানিকভাবে শুরু হওয়ার পথ উন্মুক্ত হলো।"
         ],
         "bullets_en": [
-          "The youth was arrested for posting provocative remarks and threats on social media.",
-          "A Dhaka court ordered the accused to be kept in jail pending further proceedings.",
-          "Law enforcement agencies are continuing investigations to uncover the motive behind the incident."
+          "Police submitted a formal chargesheet against four individuals for murdering teenager Apratim when he resisted a mobile phone snatching attempt.",
+          "Additional Superintendent of Comilla Police Lutfor Rahman officially confirmed the completion of the investigation and submission of the chargesheet.",
+          "With the police investigation concluded, the judicial proceedings for the murder case are now set to formally begin in court."
         ],
-        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে উসকানিমূলক ও হুমকি প্রদর্শনকারী অপরাধীদের আইনের আওতায় আনতে কঠোর নজরদারি বাড়িয়েছে আইনশৃঙ্খলা বাহিনী।",
-        "impact_en": "Law enforcement has heightened monitoring to bring perpetrators of online threats and provocative content under legal accountability.",
-        "details_bn": "প্রধানমন্ত্রীকে নিয়ে আপত্তিকর মন্তব্য এবং স্নাইপার হামলার হুমকি সংবলিত একটি বক্তব্য সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর বিষয়টি আইনশৃঙ্খলা বাহিনীর নজরে আসে। সাইবার অপরাধ দমন আইনের আওতায় সংশ্লিষ্ট কর্তৃপক্ষ তাৎক্ষণিক পদক্ষেপ নিয়ে অভিযুক্তকে আটক করে আদালতে সোপর্দ করে। অনলাইনে নিরাপত্তা বজায় রাখতে এবং ভুয়া তথ্য বা উসকানিমূলক বার্তা ছড়ানোর বিরুদ্ধে প্রশাসন কঠোর অবস্থান নিয়েছে।",
-        "details_en": "The matter came to the attention of law enforcement after a statement containing derogatory remarks and a sniper threat regarding the Prime Minister circulated on social media. Authorities took immediate action under cybercrime laws to detain the accused and produce him in court. The administration has maintained a strict stance against online threats and the propagation of provocative messages to ensure digital security."
+        "impact_bn": "এই চার্জশিট দাখিলের মাধ্যমে চাঞ্চল্যকর এই কিশোর হত্যা মামলার বিচার প্রক্রিয়া শুরু হওয়ার ও ন্যায়বিচার পাওয়ার পথ সুগম হলো।",
+        "impact_en": "The submission of the chargesheet paves the way for the judicial trial and justice in this sensational teenage murder case.",
+        "details_bn": "কুমিল্লা বিশ্ববিদ্যালয়ের বাংলা বিভাগের সহযোগী অধ্যাপক ড. নাহিদা বেগমের একমাত্র সন্তান ইশায়াত শাহরিয়ার অপ্রতিমকে মোবাইল ছিনতাইয়ের সময় বাধা দেওয়ায় হত্যা করা হয়। এই মর্মান্তিক হত্যাকাণ্ডের পর দেশজুড়ে নিরাপত্তা ও আইনশৃঙ্খলা পরিস্থিতি নিয়ে তীব্র ক্ষোভের সৃষ্টি হয়েছিল। ঘটনার পর পুলিশ দীর্ঘ তদন্ত শেষে আদালতে চার আসামির বিরুদ্ধে অভিযোগপত্র দাখিল করে, যা বিচারিক প্রক্রিয়ার দিকে এক ধাপ অগ্রগতি।",
+        "details_en": "Ishayat Shahriar Apratim, the only son of Comilla University Bangla department associate professor Dr. Nahida Begum, was killed while resisting a mobile phone snatching attempt. This tragic murder sparked widespread public outrage and concerns over local security and law enforcement. Following an extended investigation, police submitted a chargesheet against four accused individuals, marking a significant step toward judicial proceedings."
       }
     },
     {
-      "story_id": "6cd5d73e-f05f-5f69-94de-075ecf08923c",
+      "story_id": "c6f7e53e-df91-58e1-b9a5-0e1372ccddca",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2F2xjqli6i%2Fmuslim-friends-restaurant-1.jpg?rect=0%2C388%2C5472%2C2873&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T22:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7232,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/religion/islam/99w07y12fv",
+          "title": "ভালো ‘বন্ধু–সার্কেল’ যেভাবে গড়ে তুলবেন",
+          "snippet": "ভালো ‘বন্ধু–সার্কেল’ যেভাবে গড়ে তুলবেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সুস্থ ও দীর্ঘস্থায়ী বন্ধুত্বের জন্য পারস্পরিক সততা এবং ক্ষমা অপরিহার্য",
+        "title_en": "Mutual Honesty and Forgiveness Are Essential for Lasting Friendships",
+        "summary_bn": "ইসলামি জীবনদর্শন অনুযায়ী নিঃস্বার্থ ভালোবাসা ও মানবিক মূল্যবোধের ওপর ভিত্তি করে সুস্থ বন্ধুত্বের সম্পর্ক গড়ে ওঠে।",
+        "summary_en": "Islamic principles state that healthy and lasting friendships are built on selfless love and human values.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T22:30:00+00:00",
+        "lead_bn": "ইসলামি জীবনদর্শন অনুযায়ী নিঃস্বার্থ ভালোবাসা ও মানবিক মূল্যবোধের ওপর ভিত্তি করে সুস্থ বন্ধুত্বের সম্পর্ক গড়ে ওঠে।",
+        "lead_en": "Islamic principles state that healthy and lasting friendships are built on selfless love and human values.",
+        "bullets_bn": [
+          "দুনিয়াবি স্বার্থহীন সম্পর্ক এবং খোদানুভূতির ওপর ভিত্তি করে স্থায়ী বন্ধুত্ব গড়ে ওঠে।",
+          "সহিহ বুখারি হাদিস অনুযায়ী আল্লাহর সন্তুষ্টির জন্য ভালোবাসা দুই বন্ধুকে কেয়ামতের দিনে আরশের ছায়া দেবে।",
+          "সম্পর্কের দীর্ঘস্থায়িত্ব নিশ্চিত করতে ক্ষতিকর স্বভাব বর্জন এবং ভুলত্রুটি ক্ষমা করার মানসিকতা থাকতে হবে।"
+        ],
+        "bullets_en": [
+          "Permanent friendships are formed based on selfless relationships and divine consciousness without worldly greed.",
+          "According to Sahih al-Bukhari, mutual love for the sake of Allah grants shade on the Day of Judgment.",
+          "Ensuring relationship longevity requires avoiding harmful traits and practicing forgiveness for mistakes."
+        ],
+        "impact_bn": "সৎ ও ইতিবাচক বন্ধু বৃত্তের মাধ্যমে তরুণ প্রজন্ম নৈতিক মূল্যবোধ ও মানসিক শান্তি লাভ করে।",
+        "impact_en": "The younger generation attains moral values and mental peace through honest and positive friendship circles.",
+        "details_bn": "মানুষ সামাজিক জীব হওয়ায় জীবনে বন্ধুত্বের প্রয়োজনীয়তা অপরিসীম। ইসলামি জীবনদর্শনে বন্ধুত্বের মূল ভিত্তি হলো দুনিয়াবি স্বার্থহীনতা ও আত্মিক বন্ধন। সৎ মানুষের সান্নিধ্য জীবনকে সুন্দর করে এবং ক্ষতিকর স্বভাবের মানুষের সংস্পর্শ অনুশোচনার কারণ হয়। দীর্ঘদিনের চলাফেরায় ভুলত্রুটি হতে পারে, যা ক্ষোভ পুষে না রেখে ক্ষমা করে দেওয়ার মাধ্যমে পারস্পরিক সম্পর্ক আরও সুদৃঢ় হয়। ইমাম গাজালির বয়ানেও ভ্রাতৃত্বের মূল দাবি হিসেবে বন্ধুর ভুল ঢেকে রাখার ওপর জোর দেওয়া হয়েছে।",
+        "details_en": "Humans are social beings, making friendship essential in life. According to Islamic philosophy, the core basis of friendship is freedom from worldly greed and spiritual bonding. Companionship with righteous people beautifies life, while harmful traits lead to regret. Mistakes happen over long associations, which are resolved through forgiveness rather than harboring anger, strengthening mutual bonds as emphasized by Islamic teachings."
+      }
+    },
+    {
+      "story_id": "4e05ad25-998d-5c4d-9c53-8ea89d24ef8c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T22:12:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6247,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976338/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A7%8E%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%93-%E0%A6%A7%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95",
+          "title": "মাদ্রাসাছাত্রকে বলাৎকার ও ধামাচাপার চেষ্টা: শিক্ষক ও পরিচালক গ্রেফতার",
+          "snippet": "মাদ্রাসাছাত্রকে বলাৎকার ও ধামাচাপার চেষ্টা: শিক্ষক ও পরিচালক গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গাজীপুরে মাদ্রাসাশিক্ষার্থীকে নিপীড়নের অভিযোগে শিক্ষক ও পরিচালক গ্রেফতার",
+        "title_en": "Teacher and Director Arrested in Gazipur Over Madrasa Student Abuse",
+        "summary_bn": "গাজীপুরের গাছায় তৃতীয় শ্রেণির এক মাদ্রাসাশিক্ষার্থীকে একাধিকবার যৌন নিপীড়নের অভিযোগে শিক্ষক ও ঘটনা ধামাচাপার চেষ্টায় পরিচালককে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police arrested a madrasa teacher for sexually abusing a third-grade student and the director for attempting to cover it up in Gazipur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T22:12:00+00:00",
+        "lead_bn": "গাজীপুরের গাছায় তৃতীয় শ্রেণির এক মাদ্রাসাশিক্ষার্থীকে একাধিকবার যৌন নিপীড়নের অভিযোগে শিক্ষক ও ঘটনা ধামাচাপার চেষ্টায় পরিচালককে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police arrested a madrasa teacher for sexually abusing a third-grade student and the director for attempting to cover it up in Gazipur.",
+        "bullets_bn": [
+          "পুলিশ ভুক্তভোগী শিশুর পরিবারের দায়ের করা মামলার ভিত্তিতে অভিযুক্ত শিক্ষক ও পরিচালককে গ্রেফতার করে।",
+          "মামলায় তিনজনের নাম উল্লেখ করা হয়েছে এবং গাছা থানার ভারপ্রাপ্ত কর্মকর্তা গ্রেফতারের সত্যতা নিশ্চিত করেছেন।",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার সাথে জড়িত অন্য আসামিদের গ্রেফতারে অভিযান অব্যাহত রেখেছে।"
+        ],
+        "bullets_en": [
+          "Police arrested the accused teacher and director based on a case filed by the victim student's family.",
+          "The case names three individuals, and the officer-in-charge of Gacha Police Station confirmed the arrests.",
+          "Law enforcement agencies are continuing operations to arrest other individuals involved in the incident."
+        ],
+        "impact_bn": "এই ধরনের দ্রুত আইনি পদক্ষেপ শিক্ষাপ্রতিষ্ঠানে শিশুদের নিরাপত্তা জোরদার করতে এবং অপরাধীদের জবাবদিহিতা নিশ্চিত করতে সহায়তা করবে।",
+        "impact_en": "Such swift legal action helps strengthen child safety in educational institutions and ensures accountability for offenders.",
+        "details_bn": "গাজীপুর মহানগরীর গাছা এলাকায় কওমী মাদ্রাসার আট বছর বয়সী এক তৃতীয় শ্রেণির শিক্ষার্থীকে একাধিকবার যৌন নিপীড়নের ঘটনা ঘটে। পরে বিষয়টি ধামাচাপা দেওয়ার চেষ্টা করা হলে শিক্ষার্থীর পরিবার থানায় মামলা দায়ের করে। মামলার পর পুলিশ অভিযান চালিয়ে শিক্ষক ও পরিচালককে গ্রেফতার করে। এ ঘটনায় এলাকায় তীব্র ক্ষোভের সৃষ্টি হয়েছে এবং অপরাধীদের দৃষ্টান্তমূলক শাস্তির দাবি উঠেছে।",
+        "details_en": "An eight-year-old third-grade student at a Qawmi madrasa in the Gacha area of Gazipur metropolitan was sexually abused multiple times. When an attempt was made to cover up the incident, the victim's family filed a case at the police station. Following the case, police conducted a drive and arrested the teacher and the director. The incident has sparked outrage in the area, with locals demanding exemplary punishment for the culprits."
+      }
+    },
+    {
+      "story_id": "8c39230b-0154-5f55-abd3-c4cc742a0f04",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -67,25 +179,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F18hp60t2%2FCapture.PNG?rect=0%2C18%2C1006%2C528&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F7ocsgnfq%2FUkrainian-soldier-rescued-1.JPG?rect=0%2C165%2C2200%2C1155&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T21:05:16+00:00",
+      "published_at": "2026-10-23T20:51:15+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1876,
+      "importance_score": 2.4,
+      "rank_score": 0.376,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/gm3ugus9bd",
-          "title": "ফ্রান্সে প্রবাসী বাংলাদেশিদের দোকানেও ভাঙচুর-লুটপাট, আতঙ্কে ব্যবসায়ীরা",
-          "snippet": "ফ্রান্সে প্রবাসী বাংলাদেশিদের দোকানেও ভাঙচুর-লুটপাট, আতঙ্কে ব্যবসায়ীরা"
+          "url": "https://www.prothomalo.com/world/europe/9l4soufeec",
+          "title": "নিজের পা নিজেই কাটলেন ইউক্রেনীয় সেনা, তারপর ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে",
+          "snippet": "নিজের পা নিজেই কাটলেন ইউক্রেনীয় সেনা, তারপর ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফ্রান্সে বিক্ষোভের সময় প্রবাসী বাংলাদেশিদের দোকানে ভাঙচুর ও লুটপাট",
-        "title_en": "Expatriate Bangladeshi Shops Vandalized During Protests in France",
-        "summary_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধির বিক্ষোভে প্যারিসে প্রবাসী বাংলাদেশিদের বেশ কয়েকটি ব্যবসাপ্রতিষ্ঠান ক্ষতিগ্রস্ত হয়েছে।",
-        "summary_en": "Several businesses owned by expatriate Bangladeshis in Paris have been damaged during protests over rising living costs in France.",
+        "title_bn": "যুদ্ধক্ষেত্রে নিজের পা কেটে ড্রোন দিয়ে উদ্ধার পেলেন ইউক্রেনীয় সেনা",
+        "title_en": "Ukrainian Soldier Amputates Own Leg and Escapes War Zone by Drone",
+        "summary_bn": "রাশিয়ার বিরুদ্ধে চলমান যুদ্ধে পরিখায় আটকে পড়া এক ইউক্রেনীয় সেনা নিজের ভাঙা পা কেটে ড্রোন সহায়তায় উদ্ধার পান।",
+        "summary_en": "A trapped Ukrainian infantry soldier amputated his own broken leg and was dramatically rescued by a drone.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -93,241 +205,133 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T21:05:16+00:00",
-        "lead_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধির বিক্ষোভে প্যারিসে প্রবাসী বাংলাদেশিদের বেশ কয়েকটি ব্যবসাপ্রতিষ্ঠান ক্ষতিগ্রস্ত হয়েছে।",
-        "lead_en": "Several businesses owned by expatriate Bangladeshis in Paris have been damaged during protests over rising living costs in France.",
+        "published_at": "2026-10-23T20:51:15+00:00",
+        "lead_bn": "রাশিয়ার বিরুদ্ধে চলমান যুদ্ধে পরিখায় আটকে পড়া এক ইউক্রেনীয় সেনা নিজের ভাঙা পা কেটে ড্রোন সহায়তায় উদ্ধার পান।",
+        "lead_en": "A trapped Ukrainian infantry soldier amputated his own broken leg and was dramatically rescued by a drone.",
         "bullets_bn": [
-          "ফ্রান্সে চলমান বিক্ষোভের মধ্যে প্যারিসে প্রবাসী বাংলাদেশিদের বিভিন্ন দোকানে ভাঙচুর ও লুটপাট চালানো হয়েছে।",
-          "ক্ষতিগ্রস্ত এক বাংলাদেশি ব্যবসায়ীর দোকানে প্রায় ৯০ হাজার ইউরো মূল্যের পণ্য লুট হয়েছে।",
-          "সহিংসতা নিয়ন্ত্রণে ফ্রান্স সরকার দেশজুড়ে প্রায় ৭০ হাজার পুলিশ ও জেন্ডারমেরি সদস্য মোতায়েন করেছে।"
+          "যুদ্ধক্ষেত্রে আটকা পড়ে কোস্তিয়ান্তিন ভ্লাসেনকো নিজের কাছে থাকা ছুরি দিয়ে নিজের ভাঙা পা কেটে ফেলেন।",
+          "বছর বয়সী এই সেনাকে একটি বিশাল ছয় পাখার ড্রোন ১৫ কিলোমিটার দূরে নিরাপদ আশ্রয়ে নিয়ে যায়।",
+          "আকাশপথে ড্রোনের মাধ্যমে কোনো আহত সেনাকে উদ্ধার করার এটিই প্রথম নজিরবিহীন ঘটনা।"
         ],
         "bullets_en": [
-          "Expatriate Bangladeshi shops in Paris faced widespread vandalism and looting amid ongoing protests in France.",
-          "A single affected Bangladeshi merchant reported the total looting of goods worth approximately 90,000 euros.",
-          "The French government deployed around 70,000 police and gendarmerie personnel nationwide to restore order."
+          "Soldier Kostiantyn Vlasenko amputated his own broken leg with a knife while trapped in a boiler room.",
+          "A massive six-rotor drone airlifted the 49-year-old soldier in a harness 15 kilometers to safety.",
+          "Military commanders confirm this marks the first known instance of a frontline troop evacuation entirely via drone."
         ],
-        "impact_bn": "ফ্রান্সে বসবাসরত প্রবাসী বাংলাদেশি ব্যবসায়ী ও কর্মীরা নিরাপত্তা নিয়ে গভীর উৎকণ্ঠায় রয়েছেন।",
-        "impact_en": "Expatriate Bangladeshi business owners and workers living in France are facing severe security concerns.",
-        "details_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধির প্রতিবাদে দেশজুড়ে চলা বিক্ষোভ সহিংস রূপ নেওয়ায় প্যারিসসহ বিভিন্ন শহরের অভিবাসী ও প্রবাসী ব্যবসায়ীরা ক্ষতিগ্রস্ত হন। ১৭ থেকে ২১ অক্টোবরের মধ্যে শুধু প্যারিসেই শত শত দোকানে ভাঙচুরের ঘটনা ঘটে। আর্থিক লেনদেনকারী আউটলেট ও খুচরা ব্যবসায়ীরা সবচেয়ে বেশি ঝুঁকিতে পড়েন। পরিস্থিতি সামাল দিতে ফরাসি প্রশাসন নিরাপত্তা জোরদার করেছে এবং স্থানীয় ব্যবসায়ী সংগঠনগুলো ক্ষতিগ্রস্তদের সহায়তার উদ্যোগ নিয়েছে।",
-        "details_en": "Protests over rising living costs in France turned violent, resulting in widespread damage to immigrant and expatriate businesses in Paris. Hundreds of shops in Paris alone faced vandalism during mid-October unrest, putting financial service outlets and retail stores at severe risk. The French administration subsequently intensified security deployments, while local business associations initiated support measures for the affected merchants."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইউক্রেনের রুশ ফ্রন্টলাইনে ড্রোন হামলার কারণে চরম পরিস্থিতিতে আটকা পড়েন সেনাসদস্যরা। মৃত্যুপুরী নামে পরিচিত ওই এলাকায় ড্রোন ও পরিখার যুদ্ধের কারণে হতাহতের সংখ্যা অনেক বেশি এবং উদ্ধারকাজ অত্যন্ত ঝুঁকিপূর্ণ। এই ঘটনার মাধ্যমে আধুনিক যুদ্ধে প্রযুক্তির নজিরবিহীন ও জীবন রক্ষাকারী ব্যবহারের নতুন দিক উন্মোচিত হয়েছে।",
+        "details_en": "Frontline troops in Ukraine face extreme hazards due to heavy drone surveillance and bombardments, turning contested territories into kill zones. Soldiers often remain trapped underground for months in trenches. This unprecedented rescue highlights how unmanned aerial technology is transforming frontline survival and combat medical evacuations in modern warfare."
       }
     },
     {
-      "story_id": "53a8260f-51e0-5d88-9726-8da7f234ada1",
-      "primary_category": "governance_law",
+      "story_id": "c910a37e-5080-5583-a8ac-a08996f4344f",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
         "governance_law"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T21:39:56+00:00",
+      "published_at": "2026-10-23T20:27:19+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7902,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976337/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%B8%E0%A7%9C%E0%A6%95-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A3%E0%A7%87-%E0%A6%9C%E0%A6%AE%E0%A6%BF-%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%A3",
-          "title": "কক্সবাজারে সেতুর সংযোগ সড়ক নির্মাণে জমি অধিগ্রহণ: অনুমোদন পেলো ১.৮৯ একর",
-          "snippet": "কক্সবাজারে সেতুর সংযোগ সড়ক নির্মাণে জমি অধিগ্রহণ: অনুমোদন পেলো ১.৮৯ একর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কক্সবাজারে সেতুর সংযোগ সড়ক নির্মাণে ১.৮৯ একর জমি অধিগ্রহণের অনুমোদন",
-        "title_en": "Local Government Approves Land Acquisition for Cox's Bazar Bridge Approach Road",
-        "summary_bn": "স্থানীয় সরকার বিভাগ কক্সবাজারে ভারুয়াখালী খালের ওপর নির্মিত সেতুর সংযোগ সড়ক নির্মাণের জন্য ১ দশমিক ৮৯ একর জমি অধিগ্রহণের প্রশাসনিক অনুমোদন দিয়েছে।",
-        "summary_en": "The Local Government Division has approved the administrative acquisition of 1.89 acres of land for a bridge approach road in Cox's Bazar.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T21:39:56+00:00",
-        "lead_bn": "স্থানীয় সরকার বিভাগ কক্সবাজারে ভারুয়াখালী খালের ওপর নির্মিত সেতুর সংযোগ সড়ক নির্মাণের জন্য ১ দশমিক ৮৯ একর জমি অধিগ্রহণের প্রশাসনিক অনুমোদন দিয়েছে।",
-        "lead_en": "The Local Government Division has approved the administrative acquisition of 1.89 acres of land for a bridge approach road in Cox's Bazar.",
-        "bullets_bn": [
-          "ভারুয়াখালী খালের ওপর নির্মাণাধীন সেতুর সংযোগ সড়ক তৈরির জন্য জমি অধিগ্রহণের প্রশাসনিক অনুমোদন দেওয়া হয়েছে।",
-          "স্থানীয় সরকার বিভাগের উন্নয়ন-২ শাখা থেকে ১ দশমিক ৮৯৪৭ একর জমি অধিগ্রহণের এই প্রজ্ঞাপন জারি করা হয়।",
-          "এই নতুন অনুমোদনের ফলে পূর্বের ৩ দশমিক ১৫৬৭ একর জমি অধিগ্রহণের আগের প্রশাসনিক অনুমোদন বাতিল করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Administrative approval was granted for land acquisition to construct an approach road for the bridge over the Bharuakhali canal.",
-          "The Local Government Division's Development-2 branch issued the gazette notification for acquiring 1.8947 acres of land.",
-          "This new approval supersedes and cancels the previous administrative clearance for acquiring 3.1567 acres of land granted earlier."
-        ],
-        "impact_bn": "সংযোগ সড়ক নির্মাণ সম্পন্ন হলে কক্সবাজার সদর উপজেলার স্থানীয় বাসিন্দাদের যাতায়াত ও যোগাযোগ ব্যবস্থা দ্রুত ও সহজ হবে।",
-        "impact_en": "Completion of the approach road will significantly improve transportation and connectivity for local residents in Cox's Bazar Sadar.",
-        "details_bn": "কক্সবাজার সদর উপজেলার ভারুয়াখালী খালের ওপর সেতু নির্মাণের কাজ চলমান রয়েছে। এর আগে ২০২১ সালের মার্চ মাসে এই সেতুর সংযোগ সড়ক নির্মাণের জন্য ৩ দশমিক ১৫৬৭ একর জমি অধিগ্রহণের প্রশাসনিক অনুমোদন দেওয়া হয়েছিল। সাম্প্রতিক বাস্তব প্রয়োজন ও প্রকল্পের পরিধি পর্যালোচনার ভিত্তিতে সরকার আগের সেই অনুমোদন বাতিল করে নতুন করে ১ দশমিক ৮৯৪৭ একর জমি অধিগ্রহণের এই প্রশাসনিক অনুমোদন প্রদান করেছে।",
-        "details_en": "Construction work is ongoing for the bridge over the Bharuakhali canal in Cox's Bazar Sadar upazila. Previously, in March 2021, an administrative approval was issued to acquire 3.1567 acres of land for the bridge's approach road. Following a review of project requirements and scope, the government has cancelled the previous approval and granted a fresh clearance to acquire 1.8947 acres of land."
-      }
-    },
-    {
-      "story_id": "585094f9-1506-57d2-b46b-6c4099b45d19",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T19:31:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3397,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976329/%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87",
-          "title": "অটোরিকশার সঙ্গে বাসের সংঘর্ষে দুজন নিহত: বাসে আগুন, মহাসড়ক অবরোধ",
-          "snippet": "অটোরিকশার সঙ্গে বাসের সংঘর্ষে দুজন নিহত: বাসে আগুন, মহাসড়ক অবরোধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রামে বাস-অটোরিকশা সংঘর্ষে নিহত ২, মহাসড়ক অবরোধ",
-        "title_en": "Two Killed in Chattogram Bus-Autorickshaw Collision, Highway Blocked",
-        "summary_bn": "চট্টগ্রামের সাতকানিয়ায় বাস ও অটোরিকশার সংঘর্ষে দুজন নিহত ও তিনজন আহত হয়েছেন, যার জেরে মহাসড়ক অবরোধ করা হয়।",
-        "summary_en": "Two people were killed and three others injured in a collision between a bus and an autorickshaw in Chattogram, triggering a highway blockade.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T19:31:00+00:00",
-        "lead_bn": "চট্টগ্রামের সাতকানিয়ায় বাস ও অটোরিকশার সংঘর্ষে দুজন নিহত ও তিনজন আহত হয়েছেন, যার জেরে মহাসড়ক অবরোধ করা হয়।",
-        "lead_en": "Two people were killed and three others injured in a collision between a bus and an autorickshaw in Chattogram, triggering a highway blockade.",
-        "bullets_bn": [
-          "চট্টগ্রামের সাতকানিয়ায় অটোরিকশার সাথে বাস সংঘর্ষের জেরে ক্ষুব্ধ জনতা বাসে আগুন ধরিয়ে দেয়।",
-          "দুর্ঘটনায় ঘটনাস্থলেই দুজন নিহত এবং তিনজন আহত হন যাদের মধ্যে ফায়ার সার্ভিসের গাড়িও আটকে দেওয়া হয়।",
-          "উত্তেজিত জনতা চট্টগ্রাম-কক্সবাজার মহাসড়ক অবরোধ করায় কয়েক কিলোমিটার এলাকায় তীব্র যানজটের সৃষ্টি হয়।"
-        ],
-        "bullets_en": [
-          "An angry mob set fire to a bus following a collision with a battery-run autorickshaw in Chattogram.",
-          "The crash left two people dead on the spot and three others injured, while rescue vehicles were obstructed.",
-          "Protesters blocked the Chattogram-Cox's Bazar highway, causing severe traffic congestion spanning several kilometers."
-        ],
-        "impact_bn": "মহাসড়ক অবরোধের ফলে সাধারণ যাত্রী ও দূরপাল্লার যানবাহনের হাজার হাজার মানুষ তীব্র যানজটে আটকা পড়ে চরম দুর্ভোগে পড়েন।",
-        "impact_en": "Commuters and long-distance travelers faced severe travel delays and hardships due to the sudden highway blockade.",
-        "details_bn": "চট্টগ্রাম-কক্সবাজার মহাসড়কের সাতকানিয়া উপজেলার জাফর আহমদ ডিগ্রি কলেজ এলাকায় বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে প্রাণহানির এই ঘটনা ঘটে। দুর্ঘটনার পরপরই স্থানীয় জনতা বিক্ষুব্ধ হয়ে ওঠে এবং সড়কে নেমে যানবাহন চলাচলে বাধা সৃষ্টি করে। আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে ও যান চলাচল স্বাভাবিক করতে পুলিশ ঘটনাস্থলে কাজ শুরু করে।",
-        "details_en": "The fatal collision occurred near the Jafor Ahmad Degree College area on the Chattogram-Cox's Bazar highway in Satkania upazila. The incident provoked immediate local unrest, leading to vehicle torching and a complete standstill of traffic on the crucial regional transport artery."
-      }
-    },
-    {
-      "story_id": "682f0d58-2a4c-5d2a-bc36-72e6e40a7a27",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-01%2Fddc0133f-fa58-46a2-bd39-1a64ebe2ad0e%2FDead_Body_2.png?rect=0%2C97%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T19:19:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3211,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/gf28tulsur",
-          "title": "কুড়িল বিশ্ব রোড এলাকায় প্রাইভেট কারের ধাক্কায় পথচারী নিহত",
-          "snippet": "কুড়িল বিশ্ব রোড এলাকায় প্রাইভেট কারের ধাক্কায় পথচারী নিহত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজধানীর কুড়িল বিশ্বরোডে প্রাইভেট কারের ধাক্কায় পথচারী নিহত",
-        "title_en": "Pedestrian killed in private car collision at Kuril Bishwaroad",
-        "summary_bn": "রাজধানীর কুড়িল বিশ্বরোড এলাকায় রাস্তা পার হওয়ার সময় প্রাইভেট কারের ধাক্কায় ইয়াসিন নামের এক পথচারী নিহত হয়েছেন।",
-        "summary_en": "A pedestrian named Yasin was killed after being hit by a private car while crossing the road at Kuril Bishwaroad.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T19:19:03+00:00",
-        "lead_bn": "রাজধানীর কুড়িল বিশ্বরোড এলাকায় রাস্তা পার হওয়ার সময় প্রাইভেট কারের ধাক্কায় ইয়াসিন নামের এক পথচারী নিহত হয়েছেন।",
-        "lead_en": "A pedestrian named Yasin was killed after being hit by a private car while crossing the road at Kuril Bishwaroad.",
-        "bullets_bn": [
-          "কুড়িল বিশ্ব রোড এলাকায় রাস্তা পারাপারের সময় একটি বেপরোয়া প্রাইভেট কার পথচারীদের ধাক্কা দেয়।",
-          "দুর্ঘটনায় আহত ষাটোর্ধ্ব ইয়াসিন ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন অবস্থায় মারা যান।",
-          "নিহতের মরদেহ ময়নাতদন্তের জন্য হাসপাতালের মর্গে রাখা হয়েছে এবং আহত অপর ব্যক্তির চিকিৎসা চলছে।"
-        ],
-        "bullets_en": [
-          "A speeding private car struck pedestrians while they were crossing the road in the Kuril Bishwaroad area.",
-          "Sixty-year-old Yasin succumbed to his injuries after being rushed to Dhaka Medical College Hospital.",
-          "The body has been kept at the hospital morgue for autopsy while the injured survivor receives treatment."
-        ],
-        "impact_bn": "রাজধানীর ব্যস্ত সড়কে বেপরোয়া গাড়ি চালনার কারণে সাধারণ পথচারীদের জীবনের ঝুঁকি ও নিরাপত্তাহীনতা বাড়ছে।",
-        "impact_en": "Reckless driving on busy capital roads continues to pose serious safety risks for everyday pedestrians.",
-        "details_bn": "রাজধানীর খিলক্ষেত এলাকার কুড়িল বিশ্ব রোডে সড়ক পারাপারের সময় দুর্ঘটনায় এক ব্যক্তি নিহত এবং আরেকজন আহত হন। স্থানীয় পথচারীরা তাঁদের উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে নিয়ে গেলে চিকিৎসক ইয়াসিনকে মৃত ঘোষণা করেন। অপর আহত ব্যক্তি চিকিৎসাধীন রয়েছেন। পুলিশ হাসপাতাল মর্গে মরদেহ সংরক্ষণ করেছে এবং ঘটনার আইনি প্রক্রিয়া চলছে।",
-        "details_en": "A pedestrian was killed and another injured after being struck by a private car while crossing the road at Kuril Bishwaroad in Dhaka. Bystanders rescued the victims and rushed them to the Dhaka Medical College Hospital emergency department, where doctors declared Yasin dead. The other injured individual is currently receiving medical attention while police handle statutory procedures."
-      }
-    },
-    {
-      "story_id": "6a97958a-1bb8-556c-a5bb-e0a394405f62",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T20:58:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5638,
+      "rank_score": 0.3338,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171257",
-          "title": "যশোর-বেনাপোল মহাসড়কে দুর্ঘটনায় নিহত ৩",
-          "snippet": "যশোর-বেনাপোল মহাসড়কে দুর্ঘটনায় নিহত ৩"
+          "url": "https://www.jagonews24.com/national/news/1171256",
+          "title": "ঢাকা থেকে রিয়াদ-দাম্মামের ১৪১ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২১৯৩৩ যাত্রী",
+          "snippet": "ঢাকা থেকে রিয়াদ-দাম্মামের ১৪১ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২১৯৩৩ যাত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যশোর-বেনাপোল মহাসড়কে সড়ক দুর্ঘটনায় নিহত ৩",
-        "title_en": "Three Killed in Road Accident on Jashore-Benapole Highway",
-        "summary_bn": "যশোর-বেনাপোল মহাসড়কে সড়ক দুর্ঘটনায় তিনজন নিহত হয়েছেন এবং তাদের মধ্যে দুইজনের পরিচয় পাওয়া গেছে।",
-        "summary_en": "Three people were killed in a road accident on the Jashore-Benapole Highway and the identities of two victims were confirmed.",
+        "title_bn": "ঢাকা থেকে রিয়াদ ও দাম্মামের ১৪১ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত হাজারো যাত্রী",
+        "title_en": "Flights from Dhaka to Riyadh and Dammam Cancelled Affecting Thousands",
+        "summary_bn": "ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল হওয়ায় চরম ভোগান্তিতে পড়েছেন ২১ হাজারের বেশি বিমানযাত্রী।",
+        "summary_en": "Over 21,000 airline passengers face severe disruptions as 141 flights from Dhaka to Riyadh and Dammam were cancelled.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T20:27:19+00:00",
+        "lead_bn": "ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল হওয়ায় চরম ভোগান্তিতে পড়েছেন ২১ হাজারের বেশি বিমানযাত্রী।",
+        "lead_en": "Over 21,000 airline passengers face severe disruptions as 141 flights from Dhaka to Riyadh and Dammam were cancelled.",
+        "bullets_bn": [
+          "বিমান পরিচালনা কর্তৃপক্ষ ঢাকা থেকে রিয়াদ ও দাম্মাম রুটের মোট ১৪১টি ফ্লাইট বাতিল করেছে।",
+          "বাতিল হওয়া ফ্লাইটগুলোর মধ্যে ৬৬টি সরাসরি এবং ৭৫টি ট্রানজিট ফ্লাইট রয়েছে যা ২১ হাজার ৯৩৩ জন যাত্রীকে প্রভাবিত করেছে।",
+          "ক্ষতিগ্রস্ত যাত্রীদের টিকিটের অর্থ ফেরত দেওয়া অথবা পরবর্তী বিকল্প ফ্লাইটে আসন বরাদ্দের প্রক্রিয়া চলছে।"
+        ],
+        "bullets_en": [
+          "A total of 141 flights operating from Dhaka to Riyadh and Dammam routes have been cancelled.",
+          "The cancelled operations include 66 direct flights and 75 transit flights affecting 21,933 passengers.",
+          "Affected passengers are being accommodated with ticket refunds or alternative flight arrangements by the airlines."
+        ],
+        "impact_bn": "ফ্লাইট বাতিলের কারণে প্রবাসী কর্মীরা সময়মতো কর্মস্থলে যোগদান করতে না পেরে চাকরি হারানোর ঝুঁকিতে পড়েছেন।",
+        "impact_en": "Migrant workers face severe career risks and financial loss due to missing their work joining deadlines.",
+        "details_bn": "নির্দিষ্ট সময়ে ফ্লাইট পরিচালনা করতে না পারার কারণে ঢাকা থেকে রিয়াদ এবং দাম্মাম রুটে এই নজিরবিহীন ফ্লাইট বাতিলের ঘটনা ঘটে। এর ফলে মধ্যপ্রাচ্যগামী প্রবাসী শ্রমিক ও সাধারণ যাত্রীরা বিমানবন্দর এলাকায় তীব্র অনিশ্চয়তা ও দুর্ভোগের শিকার হন। এয়ারলাইন্সগুলোর পক্ষ থেকে যাত্রীদের বিকল্প ব্যবস্থার আশ্বাস দেওয়া হলেও শিট বিপর্যয় সাধারণ মানুষের যাতায়াতকে মারাত্মকভাবে ব্যাহত করেছে।",
+        "details_en": "Unforeseen operational bottlenecks led to the mass cancellation of flights connecting Dhaka with Riyadh and Dammam, creating panic and distress among Middle East-bound migrant workers at the airport. Airlines have initiated rescheduling measures, but the sudden disruptions severely hampered travel plans for thousands."
+      }
+    },
+    {
+      "story_id": "c71f76e6-2987-59a3-adbd-74c77c9fb49c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T20:07:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.305,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171255",
+          "title": "রাজধানীর ৩০০ ফিটে প্রাইভেট কারের ধাক্কায় নিহত ১",
+          "snippet": "রাজধানীর ৩০০ ফিটে প্রাইভেট কারের ধাক্কায় নিহত ১"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর ৩০০ ফিট এলাকায় প্রাইভেট কারের ধাক্কায় নিহত ১",
+        "title_en": "One Killed in Private Car Crash on 300-Foot Road in Capital",
+        "summary_bn": "রাজধানীর ৩০০ ফিট সড়কে দ্রুতগতির প্রাইভেট কারের ধাক্কায় এক অজ্ঞাতপরিচয় ব্যক্তি নিহত ও একজন আহত হয়েছেন।",
+        "summary_en": "An unidentified person was killed and another injured after being hit by a speeding private car in the capital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T20:58:07+00:00",
-        "lead_bn": "যশোর-বেনাপোল মহাসড়কে সড়ক দুর্ঘটনায় তিনজন নিহত হয়েছেন এবং তাদের মধ্যে দুইজনের পরিচয় পাওয়া গেছে।",
-        "lead_en": "Three people were killed in a road accident on the Jashore-Benapole Highway and the identities of two victims were confirmed.",
+        "published_at": "2026-10-23T20:07:42+00:00",
+        "lead_bn": "রাজধানীর ৩০০ ফিট সড়কে দ্রুতগতির প্রাইভেট কারের ধাক্কায় এক অজ্ঞাতপরিচয় ব্যক্তি নিহত ও একজন আহত হয়েছেন।",
+        "lead_en": "An unidentified person was killed and another injured after being hit by a speeding private car in the capital.",
         "bullets_bn": [
-          "যশোর-বেনাপোল মহাসড়কে সংঘটিত মর্মান্তিক সড়ক দুর্ঘটনায় তিনজন নিহত হন।",
-          "নিহতদের মধ্যে সিয়াম হোসেন এবং আরিফুল ইসলাম জয়ের পরিচয় নিশ্চিত করা হয়েছে।",
-          "নিহত অপর ব্যক্তির পরিচয় শনাক্তের জন্য আইনগত প্রক্রিয়া চলমান রয়েছে।"
+          "দ্রুতগতির একটি প্রাইভেট কার পথচারীদের সজোরে ধাক্কা দিলে ঘটনাস্থলেই হতাহতের ঘটনা ঘটে।",
+          "নিহত ব্যক্তির বয়স আনুমানিক ষাট বছর এবং আহত যুবকের নাম মো. ইমরান।",
+          "পুলিশ মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য মর্গে পাঠিয়েছে এবং চালককে আটকের চেষ্টা চলছে।"
         ],
         "bullets_en": [
-          "Three individuals died in a tragic road accident on the Jashore-Benapole Highway.",
-          "Identities of two victims were confirmed as Siyam Hossain and Ariful Islam Joy.",
-          "Legal procedures are underway to identify the third deceased person."
+          "A speeding private car crashed into pedestrians, causing immediate casualties at the scene.",
+          "The deceased is an unidentified man around sixty years old, and the injured youth is named Md Imran.",
+          "Police recovered the body for autopsy and are attempting to detain the driver."
         ],
-        "impact_bn": "সড়ক নিরাপত্তা নিশ্চিত না হওয়ায় মহাসড়কে চলাচলকারী যাত্রীদের জীবনঝুঁকি বাড়ছে।",
-        "impact_en": "Lack of proper road safety measures increases life risks for commuters on highways.",
-        "details_bn": "যশোর-বেনাপোল মহাসড়কটি দেশের একটি অত্যন্ত ব্যস্ততম আন্তর্জাতিক রুট হওয়ায় এখানে প্রায়ই দ্রুতগতির যানবাহনের কারণে দুর্ঘটনা ঘটে থাকে। সাম্প্রতিক সময়ে এই সড়কে দুর্ঘটনা রোধে প্রশাসনের পক্ষ থেকে বিভিন্ন সচেতনতামূলক পদক্ষেপ নেওয়া হলেও চালকদের অসাবধানতা ও বেপরোয়া গতির কারণে প্রাণহানির ঘটনা কমছে না। নিহতদের মরদেহ ময়নাতদন্তের জন্য স্থানীয় হাসপাতালে পাঠানো হয়েছে এবং পুলিশ দুর্ঘটনার কারণ খতিয়ে দেখছে।",
-        "details_en": "The Jashore-Benapole Highway is a busy international route where accidents frequently occur due to high-speed vehicles. Despite administrative awareness campaigns, reckless driving and lack of caution continue to cause fatalities. The bodies of the victims have been sent to a local hospital for autopsy while police investigate the cause of the accident."
+        "impact_bn": "রাজধানীর সড়কগুলোতে বেপরোয়া গতি ও ট্রাফিক নিয়ম অমান্য করার প্রবণতা পথচারীদের জীবন ঝুঁকিতে ফেলছে।",
+        "impact_en": "Reckless driving and violation of traffic rules on capital roads continue to put pedestrians' lives at severe risk.",
+        "details_bn": "রাজধানীর পূর্বাচল লিংক রোড বা ৩০০ ফিট এলাকাটি সাম্প্রতিক সময়ে দ্রুতগতির যানবাহনের কারণে দুর্ঘটনাপ্রবণ হয়ে উঠেছে। পর্যাপ্ত ট্রাফিক নজরদারি ও গতিরোধক না থাকায় প্রায়ই এখানে মর্মান্তিক সড়ক দুর্ঘটনা ঘটে, যা সাধারণ পথচারীদের নিরাপত্তা নিয়ে উদ্বেগের সৃষ্টি করছে। পুলিশ ও ট্রাফিক বিভাগ এসব দুর্ঘটনা রোধে বিভিন্ন সময়ে প্রচারণা চালালেও চালকদের অসচেতনতা পুরোপুরি দূর করা সম্ভব হয়নি।",
+        "details_en": "The Purbachal Link Road, commonly known as 300-Foot Road, has recently become accident-prone due to high-speed vehicles. The lack of adequate traffic surveillance and speed breakers frequently leads to tragic road accidents, raising safety concerns for pedestrians. Although police and traffic authorities periodically campaign to prevent such incidents, driver recklessness remains a persistent issue."
       }
     }
   ]
