@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-10-23T20:00:47.033436",
+  "updated_at": "2026-10-23T21:00:52.829564",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "3732c799-ef96-5bf5-ba89-bcbffeaae967",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T21:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9641,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976336/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87%E0%A6%9F%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A6%A5%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
+          "title": "রাজধানীতে প্রাইভেটকারের ধাক্কায় পথচারী নিহত",
+          "snippet": "রাজধানীতে প্রাইভেটকারের ধাক্কায় পথচারী নিহত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর খিলক্ষেতে প্রাইভেটকারের ধাক্কায় পথচারী নিহত এবং একজন আহত",
+        "title_en": "Pedestrian killed and one injured in private car crash in Khilkhet",
+        "summary_bn": "রাজধানীর খিলক্ষেতে একটি বেপরোয়া প্রাইভেটকারের ধাক্কায় ষাটোর্ধ্ব পথচারী নিহত ও এক টেইলার্স কারিগর আহত হয়েছেন।",
+        "summary_en": "A speeding private car struck and killed an elderly pedestrian while injuring a tailor in Khilkhet.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T21:00:00+00:00",
+        "lead_bn": "রাজধানীর খিলক্ষেতে একটি বেপরোয়া প্রাইভেটকারের ধাক্কায় ষাটোর্ধ্ব পথচারী নিহত ও এক টেইলার্স কারিগর আহত হয়েছেন।",
+        "lead_en": "A speeding private car struck and killed an elderly pedestrian while injuring a tailor in Khilkhet.",
+        "bullets_bn": [
+          "খিলক্ষেত কুড়িল বিশ্বরোড এলাকায় প্রাইভেটকারের ধাক্কায় ইয়াসিন নামের ষাট বছর বয়সী এক পথচারী নিহত হন।",
+          "দুর্ঘটনায় মো. ইমরান নামের ছাব্বিশ বছর বয়সী একজন টেইলার্স কারিগর আহত হয়ে চিকিৎসাধীন রয়েছেন।",
+          "আহত ও নিহত ব্যক্তিদের উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে নিয়ে যাওয়া হয়।"
+        ],
+        "bullets_en": [
+          "A 60-year-old pedestrian named Yasin was killed after being struck by a private car in Khilket Kuril Bishwaroad area.",
+          "A 26-year-old tailor named Md Imran sustained injuries during the same collision.",
+          "Both victims were rushed to the emergency department of Dhaka Medical College Hospital for treatment."
+        ],
+        "impact_bn": "বেপরোয়া গাড়ি চালনার কারণে সড়কে পথচারীদের জীবনের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Reckless driving continues to pose severe safety risks for pedestrians on metropolitan roads.",
+        "details_bn": "সন্ধ্যা সাড়ে ছয়টার দিকে খিলক্ষেত কুড়িল বিশ্বরোড এলাকায় রাস্তা পারাপারের সময় একটি দ্রুতগতির প্রাইভেটকার পথচারীদের সজোরে ধাক্কা দেয়। পরে স্থানীয়রা আহত অবস্থায় তাদের উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালের জরুরি বিভাগে নিয়ে গেলে চিকিৎসক ইয়াসিনকে মৃত ঘোষণা করেন। অপর আহত ব্যক্তি হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "details_en": "The accident occurred when a speeding private car hit pedestrians crossing the road in the Khilkhet Kuril Bishwaroad area during the evening hours. Bystanders rescued the victims and brought them to the emergency department of Dhaka Medical College Hospital, where the attending physician declared one of them dead."
+      }
+    },
+    {
+      "story_id": "0f7b9d0d-352f-5f92-900e-59da28dc1f75",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T20:34:57+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7549,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976335/%E0%A6%95%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%8F%E2%80%99%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A7%8C%E0%A6%B6%E0%A6%B2%E0%A7%80%E0%A6%B8%E0%A6%B9-%E0%A7%AE-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%A6%E0%A6%95%E0%A7%87%E0%A6%B0",
+          "title": "কেডিএ’র প্রধান প্রকৌশলীসহ ৮ জনের বিরুদ্ধে দুদকের মামলার অনুমোদন",
+          "snippet": "কেডিএ’র প্রধান প্রকৌশলীসহ ৮ জনের বিরুদ্ধে দুদকের মামলার অনুমোদন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "খুলনা উন্নয়ন কর্তৃপক্ষের প্রধান প্রকৌশলীসহ ৮ জনের বিরুদ্ধে দুদকের মামলা অনুমোদন",
+        "title_en": "Anti-Corruption Commission Approves Case Against Eight KDA Officials Including Chief Engineer",
+        "summary_bn": "দুর্নীতি দমন কমিশন খুলনা শিপইয়ার্ড সড়ক উন্নয়ন প্রকল্পে অনিয়মের অভিযোগে কেডিএ প্রধান প্রকৌশলীসহ আটজনের বিরুদ্ধে মামলা করার অনুমোদন দিয়েছে।",
+        "summary_en": "The Anti-Corruption Commission has approved filing cases against eight individuals including the KDA chief engineer over road expansion project irregularities.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T20:34:57+00:00",
+        "lead_bn": "দুর্নীতি দমন কমিশন খুলনা শিপইয়ার্ড সড়ক উন্নয়ন প্রকল্পে অনিয়মের অভিযোগে কেডিএ প্রধান প্রকৌশলীসহ আটজনের বিরুদ্ধে মামলা করার অনুমোদন দিয়েছে।",
+        "lead_en": "The Anti-Corruption Commission has approved filing cases against eight individuals including the KDA chief engineer over road expansion project irregularities.",
+        "bullets_bn": [
+          "খুলনা উন্নয়ন কর্তৃপক্ষের প্রধান প্রকৌশলী কাজী মো. সাবিরুল আলমসহ আটজনের বিরুদ্ধে মামলার অনুমোদন দেওয়া হয়েছে।",
+          "খুলনা শিপইয়ার্ড সড়ক প্রশস্তকরণ ও উন্নয়ন প্রকল্প বাস্তবায়নে অনিয়ম ও দুর্নীতির অভিযোগ আনা হয়েছে।",
+          "দুদকের অনুমোদন পাওয়ার পর অভিযুক্তদের বিরুদ্ধে আইনানুগ পরবর্তী আইনি প্রক্রিয়া শুরু হবে।"
+        ],
+        "bullets_en": [
+          "Approval has been granted to file cases against eight individuals including KDA chief engineer Kazi Md. Sabirul Alam.",
+          "The charges involve irregularities and corruption in the implementation of the Khulna Shipyard Road widening and development project.",
+          "Legal proceedings will formally commence against the accused following the anti-corruption commission authorization."
+        ],
+        "impact_bn": "সরকারি উন্নয়ন প্রকল্পে অনিয়ম ও দুর্নীতি রোধে এ ধরনের পদক্ষেপে সাধারণ নাগরিকরা সঠিক সেবা ও জবাবদিহিতা আশা করতে পারেন।",
+        "impact_en": "Such accountability measures in public development projects help ensure proper utilization of public funds and better governance.",
+        "details_bn": "খুলনা উন্নয়ন কর্তৃপক্ষের অধীনে খুলনা শিপইয়ার্ড সড়ক প্রশস্তকরণ ও উন্নয়ন প্রকল্পের কাজ বাস্তবায়িত হচ্ছিল। এই প্রকল্পের কাজ চলাকালীন বিভিন্ন পর্যায়ে আর্থিক অনিয়ম ও দুর্নীতির অভিযোগ ওঠে। বিষয়টি খতিয়ে দেখে প্রাথমিক সত্যতা পাওয়ার পর দুর্নীতি দমন কমিশন অভিযুক্তদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করে। এরই অংশ হিসেবে কেডিএ প্রধান প্রকৌশলীসহ আট কর্মকর্তার বিরুদ্ধে মামলার অনুমোদন দেওয়া হয়।",
+        "details_en": "The Khulna Shipyard Road widening and development project was being implemented under the Khulna Development Authority. Allegations of financial irregularities and corruption arose during the implementation of the project. After verifying the primary validity of the allegations, the Anti-Corruption Commission initiated legal procedures against the accused, leading to the approval of the case against eight officials including the KDA chief engineer."
+      }
+    },
     {
       "story_id": "105f52eb-b705-5c4a-95d1-9fa1133f7889",
       "primary_category": "governance_law",
@@ -17,7 +125,7 @@
       "published_at": "2026-10-23T18:48:47+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.056,
+      "rank_score": 0.7422,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -27,10 +135,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিং এলাকায় পুলিশের মাদকবিরোধী অভিযানে গ্রেপ্তার ২৮",
-        "title_en": "Police Arrest 28 Individuals During Anti-Drug Drive in Dayagang",
-        "summary_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিংসংলগ্ন গুমটিঘর এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত থাকার অভিযোগে ২৮ জনকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested 28 individuals during a special anti-crime drive in the Gumtighor area adjacent to the Dayagang rail crossing.",
+        "title_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিং এলাকায় পুলিশের অভিযানে গ্রেপ্তার ২৮",
+        "title_en": "Police Arrest 28 People in Dhaka Dayaganj Railway Crossing Raid",
+        "summary_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিং সংলগ্ন গুমটিঘর এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত থাকার অভিযোগে ২৮ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested 28 individuals during a special raid targeting criminal activities near the Dayaganj railway crossing area in the capital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -38,22 +146,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T18:48:47+00:00",
-        "lead_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিংসংলগ্ন গুমটিঘর এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত থাকার অভিযোগে ২৮ জনকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested 28 individuals during a special anti-crime drive in the Gumtighor area adjacent to the Dayagang rail crossing.",
+        "lead_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিং সংলগ্ন গুমটিঘর এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত থাকার অভিযোগে ২৮ জনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested 28 individuals during a special raid targeting criminal activities near the Dayaganj railway crossing area in the capital.",
         "bullets_bn": [
-          "রাজধানীর দয়াগঞ্জ রেলক্রসিংসংলগ্ন গুমটিঘর এলাকায় বিশেষ অভিযান পরিচালনা করে আইনশৃঙ্খলা বাহিনী।",
+          "রাজধানীর দয়াগঞ্জ রেলক্রসিং সংলগ্ন গুমটিঘর এলাকায় পুলিশ বিশেষ অভিযান পরিচালনা করে।",
           "অভিযানে বিভিন্ন অপরাধমূলক কর্মকাণ্ডে জড়িত থাকার অভিযোগে মোট ২৮ জনকে গ্রেপ্তার করা হয় এবং সংঘাতে জড়িত এক শিশুকে আইনের আওতায় আনা হয়।",
-          "এর আগে একই এলাকায় অস্ত্র হাতে অভিযান ও রাজনৈতিক বিতর্ক এবং মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তরের একাধিক অভিযানের পর পুলিশ এই পদক্ষেপ গ্রহণ করে।"
+          "আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে রাখতে ওই এলাকায় পুলিশের নিয়মিত টহল ও নজরদারি জোরদার করা হয়েছে।"
         ],
         "bullets_en": [
-          "Law enforcement agencies conducted a special operation in the Gumtighor area near the Dayagang rail crossing in the capital.",
-          "A total of 28 individuals were arrested for alleged involvement in various criminal activities, along with one minor brought under legal custody.",
-          "This latest police action follows prior controversial armed raids and subsequent anti-narcotics operations by the Department of Narcotics Control in the same area."
+          "Police conducted a special raid in the Gumtighor area adjacent to the Dayaganj railway crossing in the capital.",
+          "A total of 28 individuals were arrested for alleged involvement in various criminal activities, and a child involved in a clash was brought under the law.",
+          "Regular police patrols and surveillance have been intensified in the area to maintain law and order."
         ],
-        "impact_bn": "এই ধারাবাহিক অভিযানে স্থানীয় এলাকায় অপরাধমূলক কর্মকাণ্ড ও মাদক কেনাবেচা কমবে বলে আশা করা হচ্ছে।",
-        "impact_en": "These ongoing operations are expected to reduce criminal activities and drug peddling in the local neighborhood.",
-        "details_bn": "রাজধানীর দয়াগঞ্জ রেলক্রসিংয়ের গুমটিঘর এলাকায় এর আগে ১৭ অক্টোবর অস্ত্র হাতে অভিযানের ঘটনা ব্যাপক রাজনৈতিক বিতর্কের সৃষ্টি করেছিল। এর ধারাবাহিকতায় মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রীর পদ থেকে পদত্যাগ করতে হয়েছিল। পরবর্তীতে ১৯ ও ২০ অক্টোবর মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর, এসআরবি এবং পুলিশ পৃথক অভিযান চালিয়ে ১৫ জনসহ বেশ কয়েকজনকে আটক ও কারাদণ্ড দেয়। তারই ধারাবাহিকতায় সম্প্রতি পুনরায় সেখানে বিশেষ অভিযান চালিয়ে ২৮ জনকে গ্রেপ্তার করা হলো।",
-        "details_en": "The Gumtighor area in Dayagang previously witnessed a controversial armed raid on October 17, which led to a ministerial resignation. Following that incident, the Department of Narcotics Control, SRB, and police conducted subsequent crackdowns, arresting and sentencing multiple individuals in mid-October. This latest police sweep resulted in 28 more arrests as authorities continue to crack down on crime and narcotics in the locality."
+        "impact_bn": "এই ধরনের আইন প্রয়োগকারী সংস্থার নিয়মিত অভিযান স্থানীয় এলাকায় অপরাধমূলক কর্মকাণ্ড কমিয়ে সাধারণ নাগরিকদের নিরাপত্তা নিশ্চিত করতে সাহায্য করে।",
+        "impact_en": "Regular law enforcement raids in the area help curb criminal activities and enhance security for ordinary residents.",
+        "details_bn": "এর আগে একই এলাকায় অস্ত্র হাতে অভিযান চালিয়ে ব্যাপক বিতর্কের মুখে পড়েছিলেন একজন প্রতিমন্ত্রী, যার ফলে তাকে পদত্যাগ করতে হয়। এরপর মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর, স্পেশাল রেসপন্স ব্যািয়ন এবং পুলিশ দফায় দফায় অভিযান চালিয়ে বেশ কয়েকজনকে গ্রেপ্তার করে এবং ভ্রাম্যমাণ আদালতের মাধ্যমে সাজা প্রদান করে। অপরাধপ্রবণতা রোধে আইনশৃঙ্খলা বাহিনী ওই এলাকায় তাদের তৎপরতা অব্যাহত রেখেছে।",
+        "details_en": "Previously, a state minister faced intense controversy and resigned after conducting an armed raid in the same area. Following that incident, the Department of Narcotics Control, Special Response Battalion, and police launched consecutive drives, arresting several individuals and sentencing them through mobile courts. Law enforcement agencies have continued their operations to curb criminal tendencies in the locality."
       }
     },
     {
@@ -71,7 +179,7 @@
       "published_at": "2026-10-23T18:17:55+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.8702,
+      "rank_score": 0.6387,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -83,8 +191,8 @@
       "daily_buzz": {
         "title_bn": "সৌদি আরবে হুথি হামলার জেরে ঢাকা থেকে ১৪১ ফ্লাইট বাতিল",
         "title_en": "One Hundred Forty One Flights Cancelled From Dhaka Due To Houthi Attacks In Saudi Arabia",
-        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের কারণে ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল করা হয়েছে।",
-        "summary_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to continuous Houthi rebel attacks in Saudi Arabia.",
+        "summary_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের কারণে ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল হয়েছে।",
+        "summary_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to ongoing Houthi rebel attacks in Saudi Arabia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -92,29 +200,30 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T18:17:55+00:00",
-        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের কারণে ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল করা হয়েছে।",
-        "lead_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to continuous Houthi rebel attacks in Saudi Arabia.",
+        "lead_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক আক্রমণের কারণে ঢাকা থেকে রিয়াদ ও দাম্মামগামী ১৪১টি ফ্লাইট বাতিল হয়েছে।",
+        "lead_en": "A total of 141 flights from Dhaka to Riyadh and Dammam have been cancelled due to ongoing Houthi rebel attacks in Saudi Arabia.",
         "bullets_bn": [
-          "নিরাপত্তা ঝুঁকির কারণে ঢাকা থেকে রিয়াদ ও দাম্মামের ফ্লাইটগুলো স্থগিত করা হয়েছে।",
-          "ফ্লাইট বাতিলের ফলে মোট ২১ হাজার ৯৩৩ জন যাত্রী আটকা পড়েছেন।",
-          "বেবিচকের জনসংযোগ বিভাগ থেকে ফ্লাইট বাতিলের এই তথ্য নিশ্চিত করা হয়েছে।"
+          "সৌদি আরবে নিরাপত্তা ঝুঁকির কারণে ঢাকা থেকে রিয়াদ ও দাম্মাম রুটের ফ্লাইট চলাচল স্থগিত করা হয়েছে।",
+          "ফ্লাইট বাতিলের ফলে সৃষ্ট পরিস্থিতিতে দেশটিতে যেতে না পেরে প্রায় ২১ হাজার ৯৩৩ জন যাত্রী আটকা পড়েছেন।",
+          "পরিস্থিতি স্বাভাবিক হলে এবং নিরাপত্তা নিশ্চিত হওয়ার পর আটকে থাকা যাত্রীদের ফ্লাইট চালুর বিষয়ে সিদ্ধান্ত নেওয়া হবে।"
         ],
         "bullets_en": [
-          "Flights from Dhaka to Riyadh and Dammam have been suspended due to security risks.",
-          "A total of 21933 passengers have been stranded due to the flight cancellations.",
-          "The Civil Aviation Authority of Bangladesh public relations department confirmed the cancellations."
+          "Flight operations from Dhaka to Riyadh and Dammam routes remain suspended due to security risks in Saudi Arabia.",
+          "A total of 21,933 passengers have been stranded in Dhaka as they are unable to travel due to the cancellations.",
+          "A decision regarding the resumption of flights for stranded passengers will be taken once the security situation normalizes."
         ],
-        "impact_bn": "আটকা পড়া হাজার হাজার প্রবাসী কর্মী ও যাত্রীদের যাতায়াত মারাত্মকভাবে ব্যাহত হচ্ছে এবং তারা অনিশ্চয়তার মুখে পড়েছেন।",
-        "impact_en": "Thousands of expatriate workers and passengers are facing severe travel disruptions and uncertainty.",
-        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন দেশের ওপর হুথি বিদ্রোহীদের ধারাবাহিক হামলার প্রেক্ষাপটে ফ্লাইট নিরাপত্তা নিশ্চিত করতে এই সিদ্ধান্ত নেওয়া হয়। এর ফলে সৌদি আরবগামী যাত্রীদের যাত্রা অনিশ্চিত হয়ে পড়েছে এবং সংশ্লিষ্ট বিমান সংস্থাগুলো বিকল্প ব্যবস্থার চেষ্টা চালিয়ে যাচ্ছে।",
-        "details_en": "The decision was taken to ensure flight safety amidst continuous Houthi rebel attacks across Middle Eastern countries. This has made travel uncertain for passengers bound for Saudi Arabia, while respective airlines are trying to arrange alternatives."
+        "impact_bn": "সৌদি আরবগামী প্রবাসী শ্রমিক ও যাত্রীরা বিমান টিকিট ও ভ্রমণ অনিশ্চয়তার মুখে পড়েছেন।",
+        "impact_en": "Expatriate workers and travelers bound for Saudi Arabia face severe uncertainty and travel disruptions.",
+        "details_bn": "সৌদি আরবে হুথি বিদ্রোহীদের ধারাবাহিক সামরিক তৎপরতা ও নিরাপত্তা হুমকির মুখে মধ্যপ্রাচ্যের বিমান চলাচলে বিঘ্ন ঘটছে। এর প্রভাব পড়েছে বাংলাদেশ থেকেও। বেসামরিক বিমান চলাচল কর্তৃপক্ষের তথ্য অনুযায়ী, নিরাপত্তা নিশ্চিত না হওয়া পর্যন্ত এই রুটে ফ্লাইট চলাচল স্বাভাবিক হওয়া অনিশ্চিত।",
+        "details_en": "Continuous military activities and security threats by Houthi rebels in Saudi Arabia have severely disrupted Middle Eastern aviation. This crisis has directly impacted flights originating from Bangladesh. According to the Civil Aviation Authority, regular flight operations on these routes will remain uncertain until security is fully restored."
       }
     },
     {
-      "story_id": "585094f9-1506-57d2-b46b-6c4099b45d19",
+      "story_id": "ac618f67-4755-56f3-8254-1c38552195cc",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
@@ -122,102 +231,47 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T19:31:00+00:00",
+      "published_at": "2026-10-23T19:17:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7287,
+      "rank_score": 0.4347,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976329/%E0%A6%85%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87",
-          "title": "অটোরিকশার সঙ্গে বাসের সংঘর্ষে দুজন নিহত: বাসে আগুন, মহাসড়ক অবরোধ",
-          "snippet": "অটোরিকশার সঙ্গে বাসের সংঘর্ষে দুজন নিহত: বাসে আগুন, মহাসড়ক অবরোধ"
+          "url": "https://www.banglatribune.com/others/976328/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A7%8E%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%A3-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%86%E0%A6%B2%E0%A7%87%E0%A6%AE-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C-%E0%A6%95%E0%A7%87%E0%A6%A8",
+          "title": "মাদ্রাসায় বলাৎকার-ধর্ষণ বন্ধে আলেম সমাজ কেন সোচ্চার হতে পারেন না, প্রশ্ন আসিফ নজরুলের",
+          "snippet": "মাদ্রাসায় বলাৎকার-ধর্ষণ বন্ধে আলেম সমাজ কেন সোচ্চার হতে পারেন না, প্রশ্ন আসিফ নজরুলের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চট্টগ্রামে বাস-অটোরিকশা সংঘর্ষে নিহত ২, মহাসড়ক অবরোধ ও বাসে আগুন",
-        "title_en": "Two Killed in Chattogram Bus-Autorickshaw Collision Sparking Highway Blockade",
-        "summary_bn": "চট্টগ্রামের সাতকানিয়ায় বাস ও সিএনজিচালিত অটোরিকশার সংঘর্ষে দুজন নিহত হয়েছেন এবং উত্তেজিত জনতা সড়কে যান চলাচল বন্ধ করে দিয়েছে।",
-        "summary_en": "Two people were killed in a collision between a bus and an autorickshaw in Satkania, Chattogram, sparking a highway blockade.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T19:31:00+00:00",
-        "lead_bn": "চট্টগ্রামের সাতকানিয়ায় বাস ও সিএনজিচালিত অটোরিকশার সংঘর্ষে দুজন নিহত হয়েছেন এবং উত্তেজিত জনতা সড়কে যান চলাচল বন্ধ করে দিয়েছে।",
-        "lead_en": "Two people were killed in a collision between a bus and an autorickshaw in Satkania, Chattogram, sparking a highway blockade.",
-        "bullets_bn": [
-          "চট্টগ্রাম-কক্সবাজার মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার সংঘর্ষে ঘটনাস্থলেই দুজন নিহত এবং তিনজন আহত হন।",
-          "দুর্ঘটনার পর ক্ষুব্ধ জনতা একটি বাসে আগুন ধরিয়ে দেয় এবং ফায়ার সার্ভিসের গাড়ি আটকে রাখে।",
-          "মহাসড়ক অবরোধের কারণে চট্টগ্রাম-কক্সবাজার রুটে কয়েক কিলোমিটারজুড়ে তীব্র যানজটের সৃষ্টি হয়।"
-        ],
-        "bullets_en": [
-          "A collision between a bus and an autorickshaw left two dead and three injured on the highway.",
-          "Enraged locals torched the bus and obstructed a responding fire service vehicle after the crash.",
-          "The subsequent highway blockade created severe traffic congestion stretching several kilometers along the route."
-        ],
-        "impact_bn": "মহাসড়ক অবরোধ ও যানজটের কারণে সাধারণ যাত্রী এবং দূরপাল্লার যাতায়াতকারীরা চরম ভোগান্তির শিকার হন।",
-        "impact_en": "Commuters and long-distance travellers faced severe suffering due to the highway blockade and subsequent traffic congestion.",
-        "details_bn": "চট্টগ্রাম-কক্সবাজার মহাসড়কে বেপরোয়া গতি ও ট্রাফিক নিয়ম না মানার কারণে প্রায়ই দুর্ঘটনা ঘটে থাকে। সাতকানিয়ার জাফর আহমদ ডিগ্রি কলেজ এলাকায় সংঘটিত এই প্রাণঘাতী দুর্ঘটনার জেরে স্থানীয় জনতা সড়কে নেমে বিক্ষোভ প্রকাশ করে এবং যান চলাচল বন্ধ করে দেয়। পরিস্থিতি নিয়ন্ত্রণে আইন শৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাস্থলে কাজ করে।",
-        "details_en": "Reckless driving and violation of traffic rules frequently cause accidents on the Chattogram-Cox's Bazar highway. Following this fatal crash near the Zafar Ahmad Degree College area in Satkania, local residents took to the streets to protest and halt traffic. Law enforcement agencies intervened to bring the situation under control."
-      }
-    },
-    {
-      "story_id": "682f0d58-2a4c-5d2a-bc36-72e6e40a7a27",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-01%2Fddc0133f-fa58-46a2-bd39-1a64ebe2ad0e%2FDead_Body_2.png?rect=0%2C97%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T19:19:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6596,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/gf28tulsur",
-          "title": "কুড়িল বিশ্ব রোড এলাকায় প্রাইভেট কারের ধাক্কায় পথচারী নিহত",
-          "snippet": "কুড়িল বিশ্ব রোড এলাকায় প্রাইভেট কারের ধাক্কায় পথচারী নিহত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুড়িল বিশ্ব রোডে প্রাইভেট কারের ধাক্কায় পথচারী নিহত",
-        "title_en": "Pedestrian killed in private car collision at Kuril Bishwaroad",
-        "summary_bn": "রাজধানীর কুড়িল বিশ্ব রোডে রাস্তা পার হওয়ার সময় প্রাইভেট কারের ধাক্কায় ষাটোর্ধ্ব এক ব্যক্তি নিহত এবং একজন আহত হয়েছেন।",
-        "summary_en": "A pedestrian was killed and another injured after being struck by a private car while crossing the road in Kuril Bishwaroad.",
+        "title_bn": "মাদ্রাসায় শিশু নির্যাতন বন্ধে শীর্ষ আলেমদের সোচ্চার হওয়ার আহ্বান আসিফ নজরুলের",
+        "title_en": "Asif Nazrul Urges Top Clerics to Speak Out Against Child Abuse in Madrassas",
+        "summary_bn": "সাবেক আইন উপদেষ্টা ড. আসিফ নজরুল মাদ্রাসায় শিশু বলাৎকার ও ধর্ষণের মতো অপরাধের বিরুদ্ধে শীর্ষ আলেমদের নীরবতা নিয়ে প্রশ্ন তুলেছেন।",
+        "summary_en": "Former law adviser Dr. Asif Nazrul questioned the silence of top clerics regarding child abuse and rape incidents in madrassas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T19:19:03+00:00",
-        "lead_bn": "রাজধানীর কুড়িল বিশ্ব রোডে রাস্তা পার হওয়ার সময় প্রাইভেট কারের ধাক্কায় ষাটোর্ধ্ব এক ব্যক্তি নিহত এবং একজন আহত হয়েছেন।",
-        "lead_en": "A pedestrian was killed and another injured after being struck by a private car while crossing the road in Kuril Bishwaroad.",
+        "published_at": "2026-10-23T19:17:42+00:00",
+        "lead_bn": "সাবেক আইন উপদেষ্টা ড. আসিফ নজরুল মাদ্রাসায় শিশু বলাৎকার ও ধর্ষণের মতো অপরাধের বিরুদ্ধে শীর্ষ আলেমদের নীরবতা নিয়ে প্রশ্ন তুলেছেন।",
+        "lead_en": "Former law adviser Dr. Asif Nazrul questioned the silence of top clerics regarding child abuse and rape incidents in madrassas.",
         "bullets_bn": [
-          "রাস্তা পারাপারের সময় একটি বেপরোয়া প্রাইভেট কার দুই পথচারীকে সজোরে ধাক্কা দেয়।",
-          "দুর্ঘটনায় ষাটোর্ধ্ব ইয়াসিন নিহত এবং ২৬ বছর বয়সী মো. ইমরান আহত হন।",
-          "আহত ব্যক্তিকে ঢাকা মেডিকেল কলেজ হাসপাতালে চিকিৎসা দেওয়া হচ্ছে এবং নিহত ব্যক্তির মরদেহ মর্গে রাখা হয়েছে।"
+          "মাদ্রাসায় শিশু নির্যাতন বন্ধে দেশের শীর্ষ আলেম ও ধর্মীয় বক্তাদের প্রকাশ্যে সোচ্চার হওয়ার আহ্বান জানানো হয়েছে।",
+          "সামাজিক যোগাযোগমাধ্যম ফেসবুকে দেওয়া এক পোস্টে এই জঘন্য অপরাধের বিরুদ্ধে আলেম সমাজের নীরবতা নিয়ে প্রশ্ন তোলা হয়।",
+          "এই আহ্বানের ফলে ধর্মীয় প্রতিষ্ঠানগুলোতে শিশু সুরক্ষা জোরদার এবং অপরাধীদের বিরুদ্ধে আইনি পদক্ষেপ ত্বরান্বিত হতে পারে।"
         ],
         "bullets_en": [
-          "A speeding private car struck two pedestrians while they were crossing the street.",
-          "The collision resulted in the death of a sixty-year-old man named Yasin and injured twenty-six-year-old Md Imran.",
-          "The injured person is receiving treatment at Dhaka Medical College Hospital while the deceased body is kept in the morgue."
+          "Top clerics and religious speakers are urged to publicly speak out against child abuse in madrassas.",
+          "The silence of the scholarly community against these heinous crimes was questioned in a social media post.",
+          "This call may strengthen child protection in religious institutions and accelerate legal actions against offenders."
         ],
-        "impact_bn": "রাজধানীর ব্যস্ত সড়কে বেপরোয়া ড্রাইভিংয়ের কারণে পথচারীদের নিরাপত্তা চরম ঝুঁকিতে রয়েছে।",
-        "impact_en": "Reckless driving on busy capital roads continues to pose severe safety risks for ordinary pedestrians.",
-        "details_bn": "রাজধানীর খিলক্ষেত এলাকার কুড়িল বিশ্ব রোডে পথচারী পারাপারের সময় প্রায়ই দুর্ঘটনা ঘটে। সন্ধ্যার পর এই এলাকায় যানবাহনের অতিরিক্ত গতির কারণে প্রায়ই প্রাণহানির ঘটনা ঘটে থাকে। পুলিশ ও হাসপাতাল সূত্র জানিয়েছে, নিহত ব্যক্তির বিস্তারিত পরিচয় উদ্ঘাটনের চেষ্টা চলছে এবং আহত ব্যক্তির চিকিৎসা অব্যাহত রয়েছে।",
-        "details_en": "Accidents frequently occur at pedestrian crossings in the Kuril Bishwaroad area of Khilkhet in the capital. Excessive vehicle speeds during evening hours often lead to fatal incidents. Police and hospital sources stated that efforts are underway to determine the full identity of the deceased while treatment for the injured person continues."
+        "impact_bn": "মাদ্রাসা শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করতে এবং ধর্মীয় প্রতিষ্ঠানে শিশু নির্যাতন প্রতিরোধে কার্যকর পদক্ষেপ নিতে এটি চাপ সৃষ্টি করবে।",
+        "impact_en": "This will create pressure to ensure the safety of madrassa students and take effective measures to prevent child abuse in religious institutions.",
+        "details_bn": "দেশের বিভিন্ন মাদ্রাসায় শিশু বলাৎকার ও শারীরিক নির্যাতনের ঘটনা প্রায়ই গণমাধ্যমে উঠে আসে। এসব ঘটনায় অনেক সময় স্থানীয় পর্যায়ে বিচারহীনতা বা ধামাচাপা দেওয়ার প্রবণতা দেখা যায়। এ প্রেক্ষাপটে সমাজের প্রভাবশালী ধর্মীয় ব্যক্তি ও আলেম সমাজ এগিয়ে এলে অপরাধ প্রবণতা কমবে বলে মনে করেন সংশ্লিষ্টরা।",
+        "details_en": "Incidents of child abuse and physical torture in various madrassas often appear in the media. In many cases, tendencies of impunity or cover-ups at the local level are observed. Against this backdrop, stakeholders believe that the intervention of influential religious figures and scholars can help curb such tendencies."
       }
     },
     {
@@ -235,7 +289,7 @@
       "published_at": "2026-10-23T19:14:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6367,
+      "rank_score": 0.4269,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -245,10 +299,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবের বিমান বিধিনিষেধের কারণে ক্ষতিগ্রস্ত প্রায় বাইশ হাজার যাত্রী",
-        "title_en": "Flight Restrictions in Saudi Arabia Disrupt Travel for Nearly Twenty-Two Thousand Passengers",
-        "summary_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪১টি ফ্লাইট বিঘ্নিত হওয়ায় প্রায় বাইশ হাজার যাত্রী ক্ষতিগ্রস্ত হয়েছেন।",
-        "summary_en": "Flight restrictions at Saudi Arabian airports have disrupted 141 flights on routes connected to Bangladesh, affecting nearly twenty-two thousand passengers.",
+        "title_bn": "সৌদি আরবের ফ্লাইট বিধিনিষেধের কারণে ক্ষতিগ্রস্ত প্রায় বাইশ হাজার যাত্রী",
+        "title_en": "Flight Restrictions in Saudi Arabia Affect Nearly Twenty-Two Thousand Passengers",
+        "summary_bn": "সৌদি আরব বিমানবন্দর কর্তৃপক্ষের বিধিনিষেধের ফলে বাংলাদেশ রুটে চলাচলকারী ১৪১টি ফ্লাইট বিঘ্নিত হওয়ায় প্রায় বাইশ হাজার যাত্রী ক্ষতিগ্রস্ত হয়েছেন।",
+        "summary_en": "Restrictions at Saudi Arabian airports disrupt 141 flights on the Bangladesh route, affecting nearly twenty-two thousand passengers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -256,78 +310,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-23T19:14:34+00:00",
-        "lead_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪১টি ফ্লাইট বিঘ্নিত হওয়ায় প্রায় বাইশ হাজার যাত্রী ক্ষতিগ্রস্ত হয়েছেন।",
-        "lead_en": "Flight restrictions at Saudi Arabian airports have disrupted 141 flights on routes connected to Bangladesh, affecting nearly twenty-two thousand passengers.",
+        "lead_bn": "সৌদি আরব বিমানবন্দর কর্তৃপক্ষের বিধিনিষেধের ফলে বাংলাদেশ রুটে চলাচলকারী ১৪১টি ফ্লাইট বিঘ্নিত হওয়ায় প্রায় বাইশ হাজার যাত্রী ক্ষতিগ্রস্ত হয়েছেন।",
+        "lead_en": "Restrictions at Saudi Arabian airports disrupt 141 flights on the Bangladesh route, affecting nearly twenty-two thousand passengers.",
         "bullets_bn": [
-          "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ রুটের সরাসরি ও ট্রানজিটসহ মোট ১৪১টি ফ্লাইট বিঘ্নিত হয়েছে।",
-          "ফ্লাইট বিঘ্নিত হওয়ায় ২১ হাজার ৯৩৩ জন যাত্রী ক্ষতিগ্রস্ত হয়েছেন যার মধ্যে ৬৬টি সরাসরি এবং ৭৫টি ট্রানজিট ফ্লাইট।",
-          "বিমান বাংলাদেশ এয়ারলাইনস দাম্মামগামী ফ্লাইট ২৫ অক্টোবর পর্যন্ত এবং রিয়াদের ফ্লাইট ৩১ অক্টোবর পর্যন্ত বাতিল করেছে।"
+          "সৌদি বিমানবন্দরগুলোতে অপারেশনাল বিধিনিষেধের কারণে সরাসরি ও ট্রানজিট রুটের মোট ১৪১টি ফ্লাইট বিঘ্নিত হয়েছে।",
+          "ফ্লাইট বিঘ্নিত হওয়ার ফলে ২১ হাজার ৯৩৩ জন যাত্রী সরাসরি ক্ষতিগ্রস্ত হয়েছেন।",
+          "পরিস্থিতির কারণে বিমান বাংলাদেশ এয়ারলাইনস দাম্মাম এবং রিয়াদ রুটের ফ্লাইট একাধিক দফায় বাতিল করেছে।"
         ],
         "bullets_en": [
-          "A total of 141 direct and transit flights connected to Bangladesh have been disrupted due to restrictions at Saudi airports.",
-          "The disruptions have affected 21,933 passengers, encompassing 66 direct flights and 75 transit flights.",
-          "Biman Bangladesh Airlines has cancelled its Dammam flights until October 25 and Riyadh flights until October 31."
+          "A total of 141 direct and transit flights were disrupted due to operational restrictions at Saudi airports.",
+          "The disruptions directly impacted 21,933 passengers traveling on these routes.",
+          "Biman Bangladesh Airlines canceled flights to Dammam and Riyadh in multiple phases due to the situation."
         ],
-        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মী ও যাত্রীরা চরম অনিশ্চয়তা ও অতিরিক্ত টিকিটের সংকটের মুখে পড়েছেন।",
-        "impact_en": "Expatriate workers and travelers heading to Saudi Arabia face severe uncertainty and ticket booking complications.",
-        "details_bn": "ইয়েমেনের সশস্ত্র গোষ্ঠী হুতিদের হামলার মুখে সৌদি আরবের বিমানবন্দরগুলোতে নিরাপত্তা বিধিনিষেধ জারি করা হয়। এর ফলে গত ১১ অক্টোবর থেকে ঢাকা-রিয়াদ ও বাংলাদেশ রুটের ফ্লাইট চলাচল মারাত্মকভাবে ব্যাহত হতে শুরু করে। পরিস্থিতি সামাল দিতে বিমান বাংলাদেশ এয়ারলাইনসসহ বিভিন্ন আন্তর্জাতিক বিমান সংস্থা একাধিক দফায় তাদের ফ্লাইট স্থগিত ও বাতিল করতে বাধ্য হয়েছে, যা বিমান চলাচল কর্তৃপক্ষ বেবিচক নিশ্চিত করেছে।",
-        "details_en": "Security restrictions were imposed at Saudi Arabian airports following attacks by Yemen-based Houthi armed groups. Consequently, flight operations on Dhaka-Riyadh and connecting Bangladesh routes began facing severe disruptions. To manage the crisis, Biman Bangladesh Airlines and various international carriers were forced to suspend and cancel multiple flights in phases, as confirmed by the Civil Aviation Authority of Bangladesh."
-      }
-    },
-    {
-      "story_id": "a960fce8-b00e-5504-9386-5f3ad430b79b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fvdz925fn%2FCapture.PNG?rect=0%2C80%2C869%2C456&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T18:46:22+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5195,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/9pnykuuv7g",
-          "title": "‘ইরানে নরক নামিয়েছিলাম, আরও কঠোর হতে পারি’",
-          "snippet": "‘ইরানে নরক নামিয়েছিলাম, আরও কঠোর হতে পারি’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানে নতুন সামরিক হামলার ইঙ্গিত দিলেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প",
-        "title_en": "US President Donald Trump Hints at New Military Attacks on Iran",
-        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানে আরও কঠোর সামরিক হামলা চালানোর হুমকি দিয়েছেন, যার জবাবে তেহরানও সর্বাত্মক পাল্টা আঘাতের হুঁশিয়ারি দিয়েছে।",
-        "summary_en": "US President Donald Trump threatened harsher military strikes on Iran, prompting Tehran to issue stern warnings of a total counter-offensive.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T18:46:22+00:00",
-        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানে আরও কঠোর সামরিক হামলা চালানোর হুমকি দিয়েছেন, যার জবাবে তেহরানও সর্বাত্মক পাল্টা আঘাতের হুঁশিয়ারি দিয়েছে।",
-        "lead_en": "US President Donald Trump threatened harsher military strikes on Iran, prompting Tehran to issue stern warnings of a total counter-offensive.",
-        "bullets_bn": [
-          "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ইরানের ওপর নরক নামিয়ে এনেছিলেন এবং ভবিষ্যতে আরও কঠোর পদক্ষেপ নেওয়ার হুঁশিয়ারি দিয়েছেন।",
-          "যুক্তরাষ্ট্র ও ইসরায়েল নতুন করে হামলা চালালে উপসাগরীয় অঞ্চলে তেল স্থাপনা ও ডেটা সেন্টার ধ্বংসের হুমকি দিয়েছে ইরান।",
-          "মার্কিন মধ্যবর্তী নির্বাচনের পর হরমুজ প্রণালিতে নতুন করে যৌথ সামরিক হামলা শুরু করতে পারে যুক্তরাষ্ট্র ও ইসরায়েল।"
-        ],
-        "bullets_en": [
-          "US President Donald Trump stated he unleashed hell on Iran and warned of taking even harsher measures.",
-          "Iran threatened to destroy oil facilities and data centers across the Gulf region if joint US-Israeli attacks resume.",
-          "The US and Israel may launch fresh joint military strikes in the Strait of Hormuz following the US midterm elections."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে নতুন যুদ্ধ শুরু হলে বিশ্ববাজারে জ্বালানির মূল্যবৃদ্ধি এবং মূল্যস্ফীতির কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়বে।",
-        "impact_en": "A renewed Middle East war could spike global fuel prices and inflation, directly increasing the cost of living for ordinary citizens.",
-        "details_bn": "ফেব্রুয়ারির শেষে যুক্তরাষ্ট্র ও ইসরায়েলের যৌথ হামলার মধ্য দিয়ে ইরানে যুদ্ধ শুরু হয়, যা পরে মধ্যপ্রাচ্যজুড়ে ছড়িয়ে পড়ে। বর্তমানে জ্বালানির দাম বৃদ্ধি ও মার্কিন মধ্যবর্তী নির্বাচনের কথা বিবেচনা করে হামলা স্থগিত রয়েছে। তবে তেহরানের পরমাণু কর্মসূচি বন্ধে মার্কিন প্রশাসন কঠোর অবস্থান বজায় রেখেছে। ইতোমধ্যে হরমুজ প্রণালিতে জাহাজ চলাচলে বিঘ্ন ঘটার পাশাপাশি দুই দেশের পাল্টাপাল্টি হুমকিতে পুরো অঞ্চলে চরম উত্তেজনা বিরাজ করছে।",
-        "details_en": "The conflict began in late February with joint US-Israeli strikes on Iran, later spreading across the Middle East. Currently, attacks are paused due to soaring fuel prices and upcoming US midterm elections, though Washington maintains a firm stance against Tehran's nuclear ambitions. Meanwhile, disruptions in the Strait of Hormuz and mutual threats have heightened regional tensions significantly."
+        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা ফ্লাইট বাতিল ও দেরির কারণে চরম অনিশ্চয়তা এবং অতিরিক্ত ব্যয়ের মুখে পড়েছেন।",
+        "impact_en": "Expatriate workers traveling to Saudi Arabia face severe uncertainty and additional expenses due to flight cancellations and delays.",
+        "details_bn": "ইয়েমেনের সশস্ত্র গোষ্ঠী হুতিদের হামলার আশঙ্কায় সৌদি আরবের বিমানবন্দরগুলোতে কঠোর নিরাপত্তা ও বিধিনিষেধ আরোপ করা হয়। এর ফলে বাংলাদেশ থেকে চলাচলকারী বিমান বাংলাদেশ এয়ারলাইনস, ইউএস-বাংলা, সৌদিয়াসহ বিভিন্ন আন্তর্জাতিক এয়ারলাইনসের ফ্লাইট চলাচলে বিঘ্ন ঘটে। বেসামরিক বিমান চলাচল কর্তৃপক্ষ পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে।",
+        "details_en": "Strict security and operational restrictions were implemented at Saudi Arabian airports amid threats of attacks by Yemen-based Houthi armed groups. Consequently, flight operations of Biman Bangladesh Airlines, US-Bangla, Saudia, and other international carriers connecting Bangladesh were severely impacted. The Civil Aviation Authority of Bangladesh is closely monitoring the situation."
       }
     }
   ]
