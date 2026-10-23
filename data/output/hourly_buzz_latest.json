@@ -1,177 +1,65 @@
 {
-  "updated_at": "2026-10-23T17:00:51.954089",
+  "updated_at": "2026-10-23T18:00:56.864987",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d2aefba3-19c4-50bc-82c6-c8f9784aab9f",
-      "primary_category": "tech_innovation",
+      "story_id": "2c0a0ace-7fae-5d57-bcb9-5a06bc5b2f47",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "tech_innovation",
-        "economy_business"
+        "climate_environment",
+        "society_education"
       ],
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/ban.jpg?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/Tree-saplings-in-exchange-for-plastic.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T16:32:30+00:00",
+      "published_at": "2026-10-23T17:51:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4755,
+      "importance_score": 2.4,
+      "rank_score": 0.8789,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/cyberat-tack-on-state-bank-of-india/",
-          "title": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা",
-          "snippet": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা"
+          "url": "https://www.channelionline.com/tree-saplings-in-exchange-for-plastic-prayas-commits-to-building-a-greener-pakundia/",
+          "title": "প্লাস্টিকের বিনিময়ে মিলছে গাছের চারা",
+          "snippet": "প্লাস্টিকের বিনিময়ে মিলছে গাছের চারা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা এবং গ্রাহক তথ্য ফাঁস",
-        "title_en": "Cyber Attack on State Bank of India Exposes Customer Data",
-        "summary_bn": "সিরিউসিম নামক হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার বিশাল পরিমাণ গ্রাহকের ব্যক্তিগত ও আর্থিক তথ্য নিয়ন্ত্রণে নেওয়ার কথা জানিয়েছে।",
-        "summary_en": "Hackers group Siriusim claimed control over massive personal and financial data belonging to State Bank of India customers.",
+        "title_bn": "কিশোরগঞ্জে প্লাস্টিক বর্জ্যের বিনিময়ে বিনামূল্যে গাছের চারা বিতরণ",
+        "title_en": "Kishoreganj Voluntary Group Distributes Saplings in Exchange for Plastic Waste",
+        "summary_bn": "কিশোরগঞ্জের পাকুন্দিয়ায় পরিবেশ দূষণ রোধ ও বৃক্ষরোপণ উৎসাহিত করতে প্লাস্টিক বর্জ্যের বিনিময়ে প্রায় সাতশো গাছের চারা বিতরণ করা হয়েছে।",
+        "summary_en": "About seven hundred saplings were distributed in Kishoreganj in exchange for plastic waste to promote tree planting and combat pollution.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "economy_business"
+          "climate_environment",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T16:32:30+00:00",
-        "lead_bn": "সিরিউসিম নামক হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার বিশাল পরিমাণ গ্রাহকের ব্যক্তিগত ও আর্থিক তথ্য নিয়ন্ত্রণে নেওয়ার কথা জানিয়েছে।",
-        "lead_en": "Hackers group Siriusim claimed control over massive personal and financial data belonging to State Bank of India customers.",
+        "published_at": "2026-10-23T17:51:19+00:00",
+        "lead_bn": "কিশোরগঞ্জের পাকুন্দিয়ায় পরিবেশ দূষণ রোধ ও বৃক্ষরোপণ উৎসাহিত করতে প্লাস্টিক বর্জ্যের বিনিময়ে প্রায় সাতশো গাছের চারা বিতরণ করা হয়েছে।",
+        "lead_en": "About seven hundred saplings were distributed in Kishoreganj in exchange for plastic waste to promote tree planting and combat pollution.",
         "bullets_bn": [
-          "সিরিউসিম নামের হ্যাকার গোষ্ঠী ভারতের রাষ্ট্রায়ত্ত স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নিয়েছে।",
-          "প্রায় ৩ লাখ ৮০ হাজার তথ্যের বাইরে বেরিয়ে যাওয়ার কথা জানিয়ে ক্ষতিগ্রস্তদের ই-মেইল ও হোয়াটসঅ্যাপে সতর্কবার্তা পাঠিয়েছে ব্যাংকটি।",
-          "চুরি হওয়া ডেটা ব্যবহার করে পরিচয় চুরি করে ঋণের আবেদন করার অপব্যবহার হতে পারে বলে আশঙ্কা করছেন সাইবার বিশেষজ্ঞরা।"
+          "পাকুন্দিয়ায় স্বেচ্ছাসেবী সামাজিক সংগঠন প্রয়াস প্লাস্টিকের বিনিময়ে বৃক্ষ কর্মসূচি পরিচালনা করে",
+          "তিনটি প্লাস্টিকের বোতল জমা দিয়ে অংশগ্রহণকারীরা একটি করে ফলজ বনজ ও ঔষধি চারা সংগ্রহ করেন",
+          "সংগঠনটি প্লাস্টিক বর্জ্য ব্যবস্থাপনার মাধ্যমে পরিবেশ সুরক্ষা ও জনসচেতনতা বাড়ানোর পরিকল্পনা হাতে নিয়েছে"
         ],
         "bullets_en": [
-          "The hacker group Siriusim took control of confidential data belonging to customers of State Bank of India.",
-          "The bank acknowledged the leak of around 380,000 records and alerted affected individuals via email and WhatsApp.",
-          "Cybersecurity experts warn that the stolen data could be misused for identity theft and fraudulent loan applications."
+          "Voluntary social organization Proyas organized the trees for plastic campaign in Pakundia",
+          "Participants collected fruit medicinal and timber saplings by depositing three plastic bottles each",
+          "The organization plans to enhance environmental protection and public awareness through proper waste management"
         ],
-        "impact_bn": "ব্যাংক গ্রাহকদের ব্যক্তিগত তথ্য এবং ঋণের নথিপত্র ফাঁস হওয়ায় জালিয়াতি ও পরিচয় চুরির বড় ধরনের ঝুঁকিতে পড়েছেন সাধারণ গ্রাহকরা।",
-        "impact_en": "Ordinary bank customers face severe risks of identity theft and financial fraud due to the exposure of personal records and loan documents.",
-        "details_bn": "কোটিরও বেশি গ্রাহক নিয়ে স্টেট ব্যাংক অব ইন্ডিয়া ভারতের প্রধান এবং বিশ্বের তৃতীয় বৃহত্তম ব্যাংক। সাইবার নিরাপত্তা মনিটরিং হ্যান্ডল সাইবারপালস৫৬ প্রথম এসবিআইয়ের বড় ধরনের তথ্য ফাঁসের বিষয়টি সামনে আনে। হ্যাকাররা আবাসিক ঠিকানা, ঋণের আবেদন এবং অ্যাকাউন্ট খোলার নথিপত্রসহ বিভিন্ন তথ্য হাতিয়ে নিয়েছে বলে অভিযোগ রয়েছে। ব্যাংক কর্তৃপক্ষ আংশিক তথ্য ফাঁসের কথা স্বীকার করে সংশ্লিষ্ট গ্রাহকদের সতর্ক করেছে এবং তহবিল সম্পূর্ণ সুরক্ষিত রয়েছে বলে জানিয়েছে।",
-        "details_en": "With over 500 million customers, State Bank of India is India's largest and the world's third-largest bank. The massive data breach was initially flagged by cyber security monitoring handles, revealing that around 380,000 records including residential addresses and loan applications were compromised. SBI acknowledged the breach partially and assured customers that their funds remain completely secure while alerting those impacted."
+        "impact_bn": "এই উদ্যোগ সাধারণ মানুষ ও শিক্ষার্থীদের মধ্যে বর্জ্য পুনর্ব্যবহার এবং বৃক্ষরোপণের মাধ্যমে পরিবেশ রক্ষায় সচেতন অভ্যাস গড়ে তুলছে।",
+        "impact_en": "This initiative builds conscious habits among citizens and students for environmental protection through waste recycling and tree planting.",
+        "details_bn": "প্লাস্টিক ও পলিথিনের নির্বিচার ব্যবহার পরিবেশের জন্য মারাত্মক হুমকি হয়ে দাঁড়িয়েছে। এই প্রেক্ষাপটে কিশোরগঞ্জের পাকুন্দিয়ায় স্বেচ্ছাসেবী সামাজিক সংগঠন প্রয়াস প্লাস্টিক দূষণ রোধে ব্যতিক্রমী এই উদ্যোগ গ্রহণ করে। স্থানীয় মানুষ ও শিক্ষার্থীরা বাড়িতে জমাকৃত প্লাস্টিক বর্জ্য জমা দিয়ে গাছের চারা সংগ্রহ করেন। আয়োজকদের লক্ষ্য সচেতনতামূলক বক্তব্যের পাশাপাশি মানুষের সরাসরি অংশগ্রহণের মাধ্যমে প্লাস্টিক বর্জ্য ব্যবস্থাপনায় ইতিবাচক পরিবর্তন আনা।",
+        "details_en": "Indiscriminate use of plastic and polythene poses a severe threat to the environment. Addressing this, voluntary organization Proyas in Pakundia Kishoreganj launched this unique initiative to combat plastic pollution. Local residents and students collected saplings by depositing plastic waste accumulated at home. The organizers aim to bring positive changes in waste management through direct public participation alongside awareness campaigns."
       }
     },
     {
-      "story_id": "b6ea825f-18cf-58a1-98a0-c9c5c011ff05",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T15:44:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.0284,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976309/%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A6%B0%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
-          "title": "হেবরনে হামলায় ইসরায়েলি দুই সেনা নিহত",
-          "snippet": "হেবরনে হামলায় ইসরায়েলি দুই সেনা নিহত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পশ্চিম তীরের হেবরনে হামলায় দুই ইসরায়েলি সেনা নিহত",
-        "title_en": "Two Israeli Soldiers Killed in Hebron Attack",
-        "summary_bn": "পশ্চিম তীরের হেবরনে সশস্ত্র হামলায় ইসরায়েলি সামরিক বাহিনীর উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
-        "summary_en": "Two soldiers from the Israeli military rescue unit brigade were killed in an armed attack in Hebron.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:44:55+00:00",
-        "lead_bn": "পশ্চিম তীরের হেবরনে সশস্ত্র হামলায় ইসরায়েলি সামরিক বাহিনীর উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
-        "lead_en": "Two soldiers from the Israeli military rescue unit brigade were killed in an armed attack in Hebron.",
-        "bullets_bn": [
-          "পশ্চিম তীরের হেবরনে সংঘটিত হামলায় উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
-          "নিহত সেনারা হলেন স্টাফ সার্জেন্ট রন ইয়োনাথান রয়টম্যান ও সার্জেন্ট ইউভাল শাই সভিলেম।",
-          "হামলায় একই ব্যাটালিয়নের আরও তিন সেনা সামান্য আহত হয়েছেন এবং তাদের হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Two soldiers from the rescue unit brigade were killed in an attack in Hebron, West Bank.",
-          "The deceased soldiers were identified as Staff Sergeant Ron Yonathan Roytman and Sergeant Yuval Shay Svilem.",
-          "Three other soldiers from the same battalion sustained minor injuries and were evacuated to hospital."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলি সামরিক বাহিনী জানিয়েছে যে পশ্চিম তীরের হেবরন এলাকায় এই হামলার ঘটনা ঘটে। আল জাজিরার প্রতিবেদনে বলা হয়, টেলিগ্রামে প্রকাশিত সামরিক বাহিনীর এক পোস্টে হতাহতের এই তথ্য নিশ্চিত করা হয়েছে। হামলায় আহত অন্য তিন সেনাকে তাৎক্ষণিকভাবে চিকিৎসার জন্য হাসপাতালে সরিয়ে নেওয়া হয়। ফিলিস্তিনি ভূখণ্ডে সাম্প্রতিক সহিংসতার ধারাবাহিকতায় এই প্রাণহানির ঘটনা ঘটে।",
-        "details_en": "The Israeli military reported that the attack took place in the Hebron area of the West Bank. According to Al Jazeera, the military confirmed the casualties in a post on Telegram. Three other soldiers injured in the attack were immediately evacuated to hospital for medical treatment. This incident adds to the ongoing violence and casualties in the Palestinian territories."
-      }
-    },
-    {
-      "story_id": "6fa120c6-f8c9-5141-a708-d30cd42da9c0",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T16:58:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9476,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/america/976317/%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A7%AB-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0",
-          "title": "কানাডায় ভিসা আবেদনে জালিয়াতি, ৫ বাংলাদেশির বিরুদ্ধে মামলা",
-          "snippet": "কানাডায় ভিসা আবেদনে জালিয়াতি, ৫ বাংলাদেশির বিরুদ্ধে মামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কানাডায় ভিসা জালিয়াতির অভিযোগে পাঁচ বাংলাদেশির বিরুদ্ধে ফৌজদারি মামলা",
-        "title_en": "Criminal Charges Filed Against Five Bangladeshis for Visa Fraud in Canada",
-        "summary_bn": "কানাডার সীমান্ত রক্ষা সংস্থা জাল নথিপত্র ব্যবহার করে ভিসা আবেদনের অভিযোগে চার বাংলাদেশি ও তাদের এক সহযোগীর বিরুদ্ধে ফৌজদারি মামলা করেছে।",
-        "summary_en": "The Canada Border Services Agency filed criminal charges against four Bangladeshis and an accomplice for visa fraud using forged documents.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T16:58:32+00:00",
-        "lead_bn": "কানাডার সীমান্ত রক্ষা সংস্থা জাল নথিপত্র ব্যবহার করে ভিসা আবেদনের অভিযোগে চার বাংলাদেশি ও তাদের এক সহযোগীর বিরুদ্ধে ফৌজদারি মামলা করেছে।",
-        "lead_en": "The Canada Border Services Agency filed criminal charges against four Bangladeshis and an accomplice for visa fraud using forged documents.",
-        "bullets_bn": [
-          "জাল নথিপত্র ব্যবহার করে কানাডার ভিজিটর ভিসা আবেদনের একটি সংঘবদ্ধ চক্র উন্মোচন করা হয়েছে।",
-          "একই তদন্তে জাল কাগজপত্র দিয়ে কানাডার সাময়িক রেসিডেন্স ভিসার চেষ্টার সঙ্গে জড়িত ২০৯ জন বাংলাদেশি নাগরিককে শনাক্ত করা হয়েছে।",
-          "অভিযুক্তদের বিরুদ্ধে কানাডার অভিবাসন আইনে ফৌজদারি অপরাধে মামলা দায়ের করে আইনি প্রক্রিয়া শুরু হয়েছে।"
-        ],
-        "bullets_en": [
-          "A coordinated syndicate utilizing forged documents for Canadian visitor visa applications was uncovered.",
-          "The investigation identified 209 Bangladeshi nationals who attempted to obtain temporary residence visas using fake paperwork.",
-          "Criminal charges have been filed against the primary suspects under Canadian immigration laws, with further legal actions underway."
-        ],
-        "impact_bn": "বৈধ উপায়ে কানাডায় ভিসা প্রত্যাশী সাধারণ বাংলাদেশি ও শিক্ষার্থীরা কঠোর অভিবাসন যাচাইবাছাইয়ের মুখে পড়তে পারেন।",
-        "impact_en": "Genuine Bangladeshi visa applicants and students wishing to travel to Canada may face stricter immigration scrutiny.",
-        "details_bn": "কানাডার সীমান্ত রক্ষা সংস্থা দেশটির অভিবাসন ব্যবস্থার সুরক্ষা ও জালিয়াতি রোধে নিয়মিত নজরদারি চালিয়ে আসছে। সাম্প্রতিক সময়ে বিভিন্ন দেশ থেকে জাল কাগজপত্র জমা দিয়ে ভিসা পাওয়ার প্রবণতা বৃদ্ধি পাওয়ায় কর্তৃপক্ষ তদন্ত জোরদার করেছে। এই ঘটনার ফলে বাংলাদেশ থেকে কানাডায় যাওয়ার ক্ষেত্রে ভিসা প্রক্রিয়া আরও কঠোর হতে পারে বলে ধারণা করা হচ্ছে।",
-        "details_en": "The Canada Border Services Agency continuously monitors immigration channels to safeguard the system against fraud. Authorities intensified investigations following a rise in fraudulent document submissions globally. This crackdown could lead to more stringent screening processes for visa applicants from Bangladesh."
-      }
-    },
-    {
-      "story_id": "1bb1ad59-6ed3-5661-b5b4-dd55c79db4ff",
+      "story_id": "439a504d-ce86-5b4c-b699-501c74e76c17",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -180,160 +68,268 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Ffxipdwvk%2FNCP-Nahid-01.JPG?rect=0%2C111%2C4885%2C2565&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/Capture-4.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T16:54:32+00:00",
+      "published_at": "2026-10-23T17:50:54+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9088,
+      "rank_score": 0.8753,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/body-of-jubo-mohila-league-leader-whose-activities-were-banned-recovered-from-her-own-flat/",
+          "title": "নিজ ফ্ল্যাট থেকে কার্যক্রম নিষিদ্ধ যুব মহিলা লীগ নেত্রীর মরদেহ উদ্ধার",
+          "snippet": "নিজ ফ্ল্যাট থেকে কার্যক্রম নিষিদ্ধ যুব মহিলা লীগ নেত্রীর মরদেহ উদ্ধার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দক্ষিণ কেরানীগঞ্জে নিষিদ্ধ যুব মহিলা লীগ নেত্রীর গলাকাটা মরদেহ উদ্ধার",
+        "title_en": "Slit-Throat Body of Banned Jubo Mohila League Leader Recovered in Keraniganj",
+        "summary_bn": "পুলিশ দক্ষিণ কেরানীগঞ্জে নিজ ফ্ল্যাট থেকে নিষিদ্ধ বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি ডালিয়া আক্তারের গলাকাটা মরদেহ উদ্ধার করেছে।",
+        "summary_en": "Police recovered the slit-throat body of banned Jubo Mohila League leader Dalia Akter from her flat in South Keraniganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T17:50:54+00:00",
+        "lead_bn": "পুলিশ দক্ষিণ কেরানীগঞ্জে নিজ ফ্ল্যাট থেকে নিষিদ্ধ বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি ডালিয়া আক্তারের গলাকাটা মরদেহ উদ্ধার করেছে।",
+        "lead_en": "Police recovered the slit-throat body of banned Jubo Mohila League leader Dalia Akter from her flat in South Keraniganj.",
+        "bullets_bn": [
+          "দক্ষিণ কেরানীগঞ্জ থানার পুলিশ রসুলপুর বাজারের সোনালী ব্যাংক ভবনের তৃতীয় তলার একটি ফ্ল্যাট থেকে মরদেহটি উদ্ধার করে।",
+          "নিহত ডালিয়া আক্তারের গলায় ধারালো অস্ত্রের আঘাত রয়েছে এবং সিআইডির ক্রাইম ইউনিট ঘটনাস্থলে কাজ করছে।",
+          "পুলিশ মরদেহ ময়নাতদন্তের জন্য স্যার সলিমুল্লাহ মেডিকেল কলেজ মর্গে পাঠিয়েছে এবং ঘটনার তদন্ত চলছে।"
+        ],
+        "bullets_en": [
+          "Police recovered the body from a third-floor flat in the Sonali Bank building at Rasulpur Bazar in South Keraniganj.",
+          "The victim bore sharp weapon injuries on her neck while CID crime units initiated forensic investigations at the scene.",
+          "Police sent the body to Sir Salimullah Medical College morgue for autopsy while further investigation is underway."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ডালিয়া আক্তার বাস্তা ইউনিয়ন যুব মহিলা লীগের সভাপতি এবং চর বাঘাপুর সরকারি প্রাথমিক বিদ্যালয়ের খণ্ডকালীন শিক্ষক ছিলেন। স্বামীর সঙ্গে বিবাহবিচ্ছেদের পর তিনি দুই মেয়ের সঙ্গে ওই ফ্ল্যাটে বসবাস করতেন। মেয়েদের বিয়ের পর থেকে তিনি একা থাকছিলেন। স্থানীয়দের মাধ্যমে খবর পেয়ে পুলিশ তার মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য পাঠায়।",
+        "details_en": "Dalia Akter served as the president of the banned Basta Union Jubo Mohila League and worked as a part-time teacher at Char Baghopur Government Primary School. Following her divorce, she lived in the flat with her two daughters. After her daughters got married, she resided there alone until police recovered her body following local reports."
+      }
+    },
+    {
+      "story_id": "1aa99311-46fd-5e32-aa39-12516e7c12fc",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2025/10/2024-06-08T150946Z_1201396069_RC2378AFHZVP_RTRMADP_3_ISRAEL-PALESTINIANS-HOSTAGES-e1719157956489-425x288-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T17:50:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8715,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/netanyahu-discussions-underway-with-several-countries-on-relocating-palestinians-from-gaza/",
+          "title": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সঙ্গে আলোচনা: নেতানিয়াহু",
+          "snippet": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সঙ্গে আলোচনা: নেতানিয়াহু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গাজা থেকে ফিলিস্তিনিদের সরাতে কয়েকটি দেশের সাথে আলোচনা চলছে বলে জানান নেতানিয়াহু",
+        "title_en": "Netanyahu Confirms Talks With Several Countries to Relocate Palestinians From Gaza",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জানিয়েছেন, গাজা থেকে বাস্তুচ্যুত ফিলিস্তিনিদের অন্য দেশে স্থানান্তরের বিষয়ে কয়েকটি দেশের সঙ্গে আলোচনা চলছে।",
+        "summary_en": "Israeli Prime Minister Benjamin Netanyahu confirmed that discussions are underway with several countries to relocate displaced Palestinians from Gaza.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T17:50:28+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু জানিয়েছেন, গাজা থেকে বাস্তুচ্যুত ফিলিস্তিনিদের অন্য দেশে স্থানান্তরের বিষয়ে কয়েকটি দেশের সঙ্গে আলোচনা চলছে।",
+        "lead_en": "Israeli Prime Minister Benjamin Netanyahu confirmed that discussions are underway with several countries to relocate displaced Palestinians from Gaza.",
+        "bullets_bn": [
+          "দক্ষিণ সুদান, সোমালিল্যান্ড, ইথিওপিয়া, লিবিয়া ও ইন্দোনেশিয়ার সঙ্গে ফিলিস্তিনিদের স্থানান্তরের বিষয়ে আলোচনা চলছে।",
+          "সংশ্লিষ্ট দেশগুলো গাজার বাসিন্দাদের আশ্রয় দেওয়ার বিনিময়ে উল্লেখযোগ্য আর্থিক ও আন্তর্জাতিক ক্ষতিপূরণ দাবি করেছে।",
+          "পুনর্বাসনের পরিকল্পনাটি বাস্তবায়িত হলে মধ্যপ্রাচ্যে নতুন কূটনৈতিক ও মানবিক সংকট তৈরি হতে পারে।"
+        ],
+        "bullets_en": [
+          "Discussions regarding the relocation of Palestinians involve South Sudan, Somaliland, Ethiopia, Libya, and Indonesia.",
+          "The countries involved are reportedly demanding significant financial and international compensation in exchange for shelter.",
+          "Implementation of this relocation plan risks triggering a new diplomatic and humanitarian crisis in the region."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন রাজনৈতিক অস্থিরতা ও ফিলিস্তিনিদের স্থায়ী বাস্তুচ্যুতির ঝুঁকি তৈরি হয়েছে।",
+        "impact_en": "The relocation push deepens regional instability and threatens permanent displacement for thousands of Palestinians.",
+        "details_bn": "যুদ্ধ-পরবর্তী গাজার ভবিষ্যৎ নিয়ে সুনির্দিষ্ট পরিকল্পনা না দিলেও ফিলিস্তিনিদের অন্য দেশে পুনর্বাসনের পক্ষে বারবার কথা বলেছেন ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু। তার দাবি, এটি জোরপূর্বক বিতাড়ন নয় বরং ফিলিস্তিনিদের চলে যাওয়ার সুযোগ দেওয়া। তবে দক্ষিণ সুদান ও সোমালিল্যান্ড এই পুনর্বাসন আলোচনা প্রত্যাখ্যান করেছে। এদিকে গাজা সিটির নিয়ন্ত্রণ নেওয়ার ইসরায়েলি পরিকল্পনা এবং সংঘাতের তীব্রতা নিয়ে আন্তর্জাতিক মহলে উদ্বেগ বেড়েই চলেছে।",
+        "details_en": "Israeli Prime Minister Benjamin Netanyahu has repeatedly advocated for relocating displaced Palestinians, framing it as providing an exit rather than forced expulsion, despite lacking a detailed post-war plan for Gaza. While countries like South Sudan and Somaliland have rejected reports of such relocation talks, international concern continues to mount over Israel's military plans and the escalating humanitarian crisis in Gaza."
+      }
+    },
+    {
+      "story_id": "39c86452-0bd2-5ebd-9499-3b447b6c4460",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-38.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-23T17:49:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8626,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/madrasa-teacher-jailed-on-charges-of-sexually-abusing-a-student/",
+          "title": "শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে কারাগারে মাদ্রাসার শিক্ষক",
+          "snippet": "শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে কারাগারে মাদ্রাসার শিক্ষক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টঙ্গীতে শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে মাদ্রাসার শিক্ষক কারাগারে",
+        "title_en": "Madrasa teacher jailed in Tongi over child sexual abuse allegations",
+        "summary_bn": "টঙ্গীতে এক শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে দায়ের করা মামলায় মাদ্রাসার এক শিক্ষককে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "A madrasa teacher has been sent to jail in a case filed over the sexual abuse of a child student in Tongi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T17:49:26+00:00",
+        "lead_bn": "টঙ্গীতে এক শিশু শিক্ষার্থীকে যৌন নিপীড়নের অভিযোগে দায়ের করা মামলায় মাদ্রাসার এক শিক্ষককে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "A madrasa teacher has been sent to jail in a case filed over the sexual abuse of a child student in Tongi.",
+        "bullets_bn": [
+          "যৌন নিপীড়নের অভিযোগে অভিযুক্ত শিক্ষককে আদালতে হাজির করার পর বিচারক তাকে কারাগারে পাঠানোর নির্দেশ দেন।",
+          "ভুক্তভোগী শিক্ষার্থীর বাবা মাদ্রাসাশিক্ষক মোসলেম আহম্মদের বিরুদ্ধে নারী ও শিশু নির্যাতন আইনে মামলা দায়ের করেন।",
+          "মাদ্রাসায় ভাঙচুর ও অর্থ লুটের অভিযোগে মাদ্রাসা কর্তৃপক্ষের পক্ষ থেকে একটি পাল্টা মামলা দায়ের করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The accused teacher was sent to jail by the court following charges of sexual abuse against a child student.",
+          "The father of the victimized student filed a formal case against madrasa teacher Moslem Ahmed.",
+          "The madrasa authority has filed a counter case alleging vandalism and looting on the institution premises."
+        ],
+        "impact_bn": "educational institutions-এ শিশুদের নিরাপত্তা এবং অভিভাবকদের উদ্বেগ নিয়ে তীব্র সামাজিক আলোচনার সৃষ্টি হয়েছে।",
+        "impact_en": "The incident has triggered intense public concern regarding child safety inside educational institutions.",
+        "details_bn": "টঙ্গীর আউচপাড়া এলাকার একটি মাদ্রাসায় শিশু শিক্ষার্থীকে যৌন নিপীড়নের ঘটনা ঘটে। এর জেরে স্থানীয় লোকজন ও শিক্ষার্থীর অভিভাবকরা অভিযুক্ত শিক্ষককে মারধর করেন এবং পুলিশে সোপর্দ করেন। পরবর্তীতে পুলিশ তাকে আদালতের মাধ্যমে কারাগারে পাঠায়। এ ঘটনায় উভয় পক্ষের পাল্টাপাল্টি মামলা ও সামাজিক যোগাযোগমাধ্যমে ভিডিও ছড়িয়ে পড়ার পর বিষয়টি নিয়ে ব্যাপক চাঞ্চল্য সৃষ্টি হয়।",
+        "details_en": "The incident occurred at a madrasa in the Auchpara area of Tongi where a child student was reportedly sexually abused. Enraged locals and guardians confronted and beat the accused teacher before handing him over to police, who later sent him to jail. Counter cases from both parties and viral footage of the altercation have sparked widespread discussions."
+      }
+    },
+    {
+      "story_id": "f7c1348d-918b-50af-9b2d-98e5d0fe0072",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Fohb9qim2%2FRace-Course-Masjid-1-.JPG?rect=0%2C230%2C519%2C272&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T17:43:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.818,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/jblj58coi4",
+          "title": "বিদ্যুৎ ও পানি বন্ধ, উচ্ছেদ-আতঙ্কের মধ্যেই দিল্লির শতবর্ষী মসজিদে জুমার নামাজ পড়লেন মুসল্লিরা",
+          "snippet": "বিদ্যুৎ ও পানি বন্ধ, উচ্ছেদ-আতঙ্কের মধ্যেই দিল্লির শতবর্ষী মসজিদে জুমার নামাজ পড়লেন মুসল্লিরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দিল্লির শতবর্ষী রেসকোর্স মসজিদে বিদ্যুৎ-পানি বন্ধের মধ্যেই জুমার নামাজ আদায়",
+        "title_en": "Muslims Offer Friday Prayers at Delhi Century-Old Mosque Amid Utility Disconnections",
+        "summary_bn": "প্রশাসনের উচ্ছেদ আতঙ্ক ও বিদ্যুৎ সংযোগ বিচ্ছিন্ন করার কঠোর নিরাপত্তার মাঝেই দিল্লির শতাব্দীপ্রাচীন রেসকোর্স মসজিদে জুমার নামাজ আদায় করেছেন মুসল্লিরা।",
+        "summary_en": "Muslims offered Friday prayers at Delhi's century-old Race Course Mosque amid strict security and administrative utility disconnections.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T17:43:56+00:00",
+        "lead_bn": "প্রশাসনের উচ্ছেদ আতঙ্ক ও বিদ্যুৎ সংযোগ বিচ্ছিন্ন করার কঠোর নিরাপত্তার মাঝেই দিল্লির শতাব্দীপ্রাচীন রেসকোর্স মসজিদে জুমার নামাজ আদায় করেছেন মুসল্লিরা।",
+        "lead_en": "Muslims offered Friday prayers at Delhi's century-old Race Course Mosque amid strict security and administrative utility disconnections.",
+        "bullets_bn": [
+          "কঠোর নিরাপত্তা এবং বিদ্যুৎ ও পানি সরবরাহ বন্ধ থাকার মধ্যেই নয়াদিল্লির ঐতিহাসিক রেসকোর্স মসজিদে জুমার নামাজ সম্পন্ন হয়েছে।",
+          "মসজিদটিকে অবৈধ ঘোষণা করে উচ্ছেদের নোটিশ জারি করা হয়েছে এবং এর আশপাশের কিছু বসতবাড়ি বুলডোজার দিয়ে গুঁড়িয়ে দেওয়া হয়েছে।",
+          "পরিস্থিতি নিয়ন্ত্রণে এলাকায় বিএনএসএসের ১৬৩ ধারা জারি করা হলেও নামাজের সময় পুলিশ মুসল্লিদের প্রবেশের অনুমতি দেয়।"
+        ],
+        "bullets_en": [
+          "Worshippers successfully gathered for Friday prayers at the historic Race Course Mosque despite suspended water and electricity supplies.",
+          "Local authorities recently issued an eviction notice declaring the mosque illegal and demolished surrounding residential structures.",
+          "Section 163 of BNSS was imposed in the area, though police relaxed restrictions during the designated prayer time."
+        ],
+        "impact_bn": "সংখ্যালঘু সম্প্রদায়ের উপাসনালয় ঘিরে এই উচ্ছেদ অভিযানের ফলে সাধারণ মানুষের মধ্যে তীব্র ক্ষোভ ও চরম নিরাপত্তাহীনতা তৈরি হয়েছে।",
+        "impact_en": "Eviction threats targeting minority religious sites have triggered profound anxiety and alienation among local residents.",
+        "details_bn": "দিল্লির প্রধানমন্ত্রীর সরকারি বাসভবনের কাছাকাছি অবস্থিত শতাব্দীপ্রাচীন রেসকোর্স মসজিদটিকে অবৈধ ঘোষণা করে উচ্ছেদের নোটিশ দেয় স্থানীয় প্রশাসন। গত ৭ অক্টোবর মসজিদটির বিদ্যুৎ ও পানি সংযোগ বিচ্ছিন্ন করা হয় এবং পরবর্তীতে ১৫ অক্টোবর দিল্লি হাইকোর্ট সংযোগ পুনর্বহালের আবেদন খারিজ করে দেন। এই পরিস্থিতিতে ওই এলাকায় ভারতীয় নাগরিক সুরক্ষা সংহিতার ১৬৩ ধারা জারি করা হয়েছে এবং মসজিদসংলগ্ন বেশ কিছু বসতবাড়ি ও দোকানপাট বুলডোজার দিয়ে গুঁড়িয়ে দেওয়া হয়েছে।",
+        "details_en": "Local authorities issued an eviction notice against the century-old Race Course Mosque near the Prime Minister's official residence, declaring it illegal. Utility lines were severed on October 7, and the Delhi High Court subsequently dismissed a petition to restore them. Section 163 of the BNSS was enforced locally while surrounding structures faced demolition."
+      }
+    },
+    {
+      "story_id": "9a4c9603-b3e1-5ede-a801-6fa3bf340e84",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F5cbnn788%2FMymensinghshahin.jpeg?rect=0%2C0%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-23T17:35:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.758,
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/8cqdifuktj",
-          "title": "মধ্যবিত্তের ডিম খাওয়া অর্ধেকের বেশি কমেছে: নাহিদ ইসলাম",
-          "snippet": "মধ্যবিত্তের ডিম খাওয়া অর্ধেকের বেশি কমেছে: নাহিদ ইসলাম"
+          "url": "https://www.prothomalo.com/bangladesh/district/r146wtuz13",
+          "title": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছাড়িয়ে নেওয়ার অভিযোগ বিএনপি ও ছাত্রদল নেতাদের বিরুদ্ধে",
+          "snippet": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছাড়িয়ে নেওয়ার অভিযোগ বিএনপি ও ছাত্রদল নেতাদের বিরুদ্ধে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিত্যপণ্যের ঊর্ধ্বগতির কারণে মধ্যবিত্তের ডিম ও সবজি কেনা কমেছে",
-        "title_en": "Middle-Class Egg and Vegetable Consumption Drops Amid Price Hikes",
-        "summary_bn": "নিত্যপ্রয়োজনীয় পণ্যের মূল্যবৃদ্ধি ও চাঁদাবাজির প্রতিবাদে আয়োজিত কর্মসূচিতে এমন মন্তব্য করেন জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম।",
-        "summary_en": "National Citizens Party convener Nahid Islam highlighted soaring commodity prices and extortion during a public outreach program.",
+        "title_bn": "ময়মনসিংহে পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছিনিয়ে নেওয়ার অভিযোগ",
+        "title_en": "Banned Chhatra League leader snatched from police custody in Mymensingh",
+        "summary_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশের হাত থেকে নিষিদ্ধ ঘোষিত এক ছাত্রলীগ নেতাকে স্থানীয় বিএনপি ও আওয়ামী লীগের নেতা-কর্মীরা ছিনিয়ে নেন।",
+        "summary_en": "Local BNP and Awami League activists snatched a banned Chhatra League leader from police custody in Ishwarganj, Mymensingh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T16:54:32+00:00",
-        "lead_bn": "নিত্যপ্রয়োজনীয় পণ্যের মূল্যবৃদ্ধি ও চাঁদাবাজির প্রতিবাদে আয়োজিত কর্মসূচিতে এমন মন্তব্য করেন জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম।",
-        "lead_en": "National Citizens Party convener Nahid Islam highlighted soaring commodity prices and extortion during a public outreach program.",
+        "published_at": "2026-10-23T17:35:39+00:00",
+        "lead_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশের হাত থেকে নিষিদ্ধ ঘোষিত এক ছাত্রলীগ নেতাকে স্থানীয় বিএনপি ও আওয়ামী লীগের নেতা-কর্মীরা ছিনিয়ে নেন।",
+        "lead_en": "Local BNP and Awami League activists snatched a banned Chhatra League leader from police custody in Ishwarganj, Mymensingh.",
         "bullets_bn": [
-          "নিত্যপণ্যের দাম মানুষের ক্রয়ক্ষমতার বাইরে চলে যাওয়ায় মধ্যবিত্ত পরিবারগুলোর ডিম ও সবজি কেনা অর্ধেকের বেশি কমেছে।",
-          "দ্রব্যমূল্য ও জ্বালানি তেল বৃদ্ধির প্রতিবাদে আগামী ৩০ অক্টোবর শাহবাগে গণবিক্ষোভ কর্মসূচি পালন করবে জাতীয় নাগরিক পার্টি।",
-          "সার্বিক ব্যর্থতার কারণে স্বরাষ্ট্রমন্ত্রী এবং বিদ্যুৎ ও জ্বালানি মন্ত্রীর অবিলম্বে পদত্যাগ দাবি করেছে দলটি।"
+          "পুলিশের অভিযানে আটক হওয়ার পর স্থানীয় রাজনৈতিক নেতা-কর্মীরা ধস্তাধস্তি করে নিষিদ্ধ ছাত্রলীগ নেতা রিয়াজুল আলমকে ছিনিয়ে নেন।",
+          "রিয়াজুল আলমের বিরুদ্ধে সন্ত্রাসবিরোধী আইন ও মাদক আইনে ঈশ্বরগঞ্জ থানায় তিনটি মামলা রয়েছে।",
+          "পুলিশের অতিরিক্ত দল পৌঁছানোর আগেই পালিয়ে যাওয়া আসামিকে গ্রেপ্তারে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
         ],
         "bullets_en": [
-          "Middle-class families have reduced egg and vegetable consumption by over half as essential goods exceed purchasing power.",
-          "The National Citizens Party scheduled a mass protest rally at Shahbagh on October 30 against price hikes and fuel costs.",
-          "The party demanded the immediate resignation of the home minister and the power and energy minister over governance failures."
+          "Local political activists physically intervened and snatched banned Chhatra League leader Riajul Alam from police custody during a raid.",
+          "Riajul Alam faces three active cases at Ishwarganj police station, including charges under the Anti-Terrorism Act and narcotics laws.",
+          "Police are currently taking legal measures to apprehend the fugitive accused before additional reinforcement could arrive."
         ],
-        "impact_bn": "দ্রব্যমূল্যের লাগামহীন ঊর্ধ্বগতি ও চাঁদাবাজির কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় বেড়ে গিয়ে চরম আর্থিক সংকট তৈরি হচ্ছে।",
-        "impact_en": "Unchecked commodity price hikes and extortion are increasing living costs and financial distress for ordinary citizens.",
-        "details_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ নাহিদ ইসলাম কারওয়ান বাজারে এক প্রচারপত্র বিতরণ অনুষ্ঠানে দেশের আইনশৃঙ্খলা পরিস্থিতি ও দ্রব্যমূল্যের তীব্র সমালোচনা করেন। তিনি সরকারের বিভিন্ন নীতির কঠোর সমালোচনা করে স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ দাবি করেন। একই সঙ্গে জনদুর্ভোগ সৃষ্টি করা সিন্ডিকেট ও চাঁদাবাজদের বিরুদ্ধে জনগণকে ঐক্যবদ্ধ হওয়ার আহ্বান জানানো হয়।",
-        "details_en": "National Citizens Party convener and opposition chief whip Nahid Islam criticized the government over law and order and soaring commodity prices during a leaflet distribution program in Karwan Bazar. He demanded the resignation of the home minister and the energy minister while calling on citizens to unite against syndicates and extortionists causing public suffering."
-      }
-    },
-    {
-      "story_id": "6974007a-4424-52d0-adbc-065712763e8d",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T16:47:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8484,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/other-sports/976305/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B0-%E0%A6%93-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%A4%E0%A6%AE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%80",
-          "title": "আবার ইমরানুর ও শিরিন দ্রুততম মানব-মানবী",
-          "snippet": "আবার ইমরানুর ও শিরিন দ্রুততম মানব-মানবী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয় সামার অ্যাথলেটিকসে দ্রুততম মানব ও মানবী হলেন ইমরানুর ও শিরিন",
-        "title_en": "Imranur and Shirin Crowned Fastest Man and Woman at Summer Athletics",
-        "summary_bn": "ইমরানুর রহমান ও শিরিন আক্তার কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের দ্রুততম মানব ও মানবী হওয়ার গৌরব অর্জন করেছেন।",
-        "summary_en": "Imranur Rahman and Shirin Akhter claimed the titles of the countrys fastest man and woman at the National Summer Athletics.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T16:47:39+00:00",
-        "lead_bn": "ইমরানুর রহমান ও শিরিন আক্তার কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের দ্রুততম মানব ও মানবী হওয়ার গৌরব অর্জন করেছেন।",
-        "lead_en": "Imranur Rahman and Shirin Akhter claimed the titles of the countrys fastest man and woman at the National Summer Athletics.",
-        "bullets_bn": [
-          "ইমরানুর রহমান পুরুষদের ১০০ মিটার спринт ১০.৫৩ সেকেন্ডে শেষ করে প্রথম স্থান অধিকার করেন।",
-          "নারীদের ১০০ মিটার сприন্টে ১২.০৮ সেকেন্ড সময় নিয়ে শিরিন আক্তার শীর্ষস্থান অর্জন করেন।",
-          "প্রতিযোগিতায় পুরুষ বিভাগে নৌবাহিনীর মোহাম্মদ ইসমাইল ১০.৬৭ সেকেন্ড সময় নিয়ে দ্বিতীয় হয়েছেন।"
-        ],
-        "bullets_en": [
-          "Imranur Rahman secured first place by finishing the mens 100-meter sprint in 10.53 seconds.",
-          "Shirin Akhter claimed the top spot in the womens 100-meter sprint with a timing of 12.08 seconds.",
-          "Mohammad Ismail of the Navy finished second in the mens category with a time of 10.67 seconds."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় স্টেডিয়ামে আয়োজিত কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের শীর্ষস্থানীয় অ্যাথলেটরা বিভিন্ন ট্র্যাক ও ফিল্ড ইভেন্টে প্রতিদ্বন্দ্বিতা করেন। এই প্রতিযোগিতায় দেশের দ্রুততম মানব ও মানবী নির্বাচন দেশের অ্যাথলেটিকস অঙ্গনের অন্যতম আকর্ষণীয় ইভেন্ট হিসেবে পরিচিত।",
-        "details_en": "The Cocoa 18th National Summer Athletics held at the National Stadium featured top athletes competing across various track and field events. Selecting the countrys fastest man and woman remains one of the most anticipated highlights of the national athletics calendar."
-      }
-    },
-    {
-      "story_id": "76d5a4ac-0894-55c4-8e13-553530570ee7",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T16:39:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7826,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976315/%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4",
-          "title": "কিশোরীর সিঁথিতে সিঁদুর দিতে চাওয়া নিয়ে সংঘর্ষ, আহত ৫",
-          "snippet": "কিশোরীর সিঁথিতে সিঁদুর দিতে চাওয়া নিয়ে সংঘর্ষ, আহত ৫"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জয়পুরহাটে কিশোরীর সিঁথিতে সিঁদুর দেওয়া কেন্দ্র করে সংঘর্ষে আহত ৫",
-        "title_en": "Clash Erupts Over Applying Sindoor in Joypurhat Leaving Five Injured",
-        "summary_bn": "জয়পুরহাটের কালাইয়ে একটি ঘটনার জেরে দুই পক্ষের সংঘর্ষে বাড়িঘর ভাঙচুর ও লুটপাটের পর পাঁচজন আহত হয়েছেন।",
-        "summary_en": "A clash between two factions over a local incident resulted in five injuries and vandalism in Joypurhat.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T16:39:06+00:00",
-        "lead_bn": "জয়পুরহাটের কালাইয়ে একটি ঘটনার জেরে দুই পক্ষের সংঘর্ষে বাড়িঘর ভাঙচুর ও লুটপাটের পর পাঁচজন আহত হয়েছেন।",
-        "lead_en": "A clash between two factions over a local incident resulted in five injuries and vandalism in Joypurhat.",
-        "bullets_bn": [
-          "কিশোরীর সিঁথিতে সিঁদুর দেওয়াকে কেন্দ্র করে কালাই উপজেলার মালিপাড়া গ্রামে দুই পক্ষের মধ্যে সংঘর্ষ বাধে।",
-          "সংঘর্ষের ঘটনায় উভয় পক্ষের দুই নারীসহ মোট পাঁচজন আহত হয়ে আধুনিক জেলা হাসপাতালে ভর্তি হন।",
-          "পরিস্থিতি নিয়ন্ত্রণে স্থানীয়রা আহতদের উদ্ধার করে হাসপাতালে পাঠায় এবং পরবর্তীতে এলাকায় আইন শৃঙ্খলা রক্ষাকারী বাহিনী তৎপর হয়।"
-        ],
-        "bullets_en": [
-          "A clash erupted between two groups in Malipara village over a dispute regarding applying sindoor.",
-          "Five individuals including two women sustained injuries during the altercation and were hospitalized.",
-          "Locals rescued the injured and admitted them to the district hospital while authorities monitored the situation."
-        ],
-        "impact_bn": "এ ধরনের স্থানীয় সংঘর্ষ ও সহিংসতা গ্রামীণ জনপদে সাধারণ মানুষের নিরাপত্তা বিঘ্নিত করে এবং সামাজিক সম্প্রীতি বিনষ্ট করে।",
-        "impact_en": "Such local conflicts disrupt community harmony and pose security concerns for ordinary residents.",
-        "details_bn": "জয়পুরহাটের কালাই উপজেলার পুনট ইউনিয়নের মালিপাড়া গ্রামে সনাতন ধর্মাবলম্বী এক কিশোরীর সিঁথিতে সিঁদুর দেওয়া নিয়ে উত্তেজনা সৃষ্টি হয়। এর জেরে রাতে দুই পক্ষের মধ্যে সংঘর্ষ ছড়িয়ে পড়ে, যাতে বাড়িঘর ভাঙচুর ও নগদ টাকা এবং স্বর্ণালংকার লুটের ঘটনা ঘটে। আহতদের তাৎক্ষণিকভাবে জয়পুরহাট আধুনিক জেলা হাসপাতালে ভর্তি করা হয়। স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে কাজ শুরু করে।",
-        "details_en": "Tensions escalated in Malipara village of Kalai upazila in Joypurhat over an incident involving a young Hindu girl. The dispute culminated in a violent clash between two groups, leading to property vandalism, looting of valuables, and injuries. The injured were swiftly admitted to the Joypurhat Modern District Hospital as local authorities moved to restore order."
+        "impact_bn": "পুলিশের ওপর এমন রাজনৈতিক হস্তক্ষেপে আইনশৃঙ্খলা পরিস্থিতি ও আইনের শাসন নিয়ে জনমনে প্রশ্ন উঠেছে।",
+        "impact_en": "Such political interference in police operations raises serious public concerns regarding law enforcement and the rule of law.",
+        "details_bn": "ময়মনসিংহের ঈশ্বরগঞ্জ উপজেলার সরিষা ইউনিয়ন পরিষদ এলাকায় একটি ফুটবল খেলার মাঠের কাছে এই ঘটনা ঘটে। আঠারবাড়ী রায়েরবাজার পুলিশ তদন্তকেন্দ্রের একটি দল গোপন সংবাদের ভিত্তিতে অভিযান চালিয়ে একাধিক মামলার আসামি রিয়াজুল আলমকে আটক করে। পরে স্থানীয় কিছু রাজনৈতিক নেতার ছত্রচ্ছায়ায় উপস্থিত লোকজন পুলিশের সঙ্গে ধস্তাধস্তি করে তাঁকে হাতকড়া পরানোর আগেই পালিয়ে যেতে সহায়তা করে। পুলিশ জানিয়েছে, এ ঘটনায় জড়িত ব্যক্তিদের শনাক্ত করে আইনি পদক্ষেপ নেওয়া হচ্ছে।",
+        "details_en": "The incident took place near a football playground in the Sarisha Union Parishad area of Ishwarganj upazila in Mymensingh. A police team from Atharabari Rayerbazar police investigation center detained Riajul Alam, an accused in multiple cases, acting on a tip-off. Subsequently, locals backed by local political figures engaged in a scuffle and helped him escape before police could secure him with handcuffs. Police confirmed that legal actions are underway to identify and prosecute those involved."
       }
     }
   ]
