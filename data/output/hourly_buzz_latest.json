@@ -1,120 +1,69 @@
 {
-  "updated_at": "2026-10-23T16:00:43.301904",
+  "updated_at": "2026-10-23T17:00:51.954089",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "77e09ea7-913a-526a-8801-52238cf99e86",
-      "primary_category": "society_education",
+      "story_id": "d2aefba3-19c4-50bc-82c6-c8f9784aab9f",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "society_education"
+        "tech_innovation",
+        "economy_business"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/ban.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-23T15:59:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9577,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/probash/news/1171248",
-          "title": "মালয়েশিয়ায় বাংলা ভাষা-সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস হাইকমিশনারের",
-          "snippet": "মালয়েশিয়ায় বাংলা ভাষা-সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস হাইকমিশনারের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মালয়েশিয়ায় বাংলা ভাষা ও সংস্কৃতির বিকাশে সহযোগিতার আশ্বাস বাংলাদেশ হাইকমিশনারের",
-        "title_en": "Bangladesh High Commissioner Assures Support for Bengali Culture in Malaysia",
-        "summary_bn": "মালয়েশিয়ায় প্রবাসী নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়াতে সহযোগিতার আশ্বাস দিয়েছেন দেশটির বাংলাদেশ হাইকমিশনার।",
-        "summary_en": "The Bangladesh High Commissioner to Malaysia assured support for promoting Bengali language and culture among expatriate youth.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:59:28+00:00",
-        "lead_bn": "মালয়েশিয়ায় প্রবাসী নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়াতে সহযোগিতার আশ্বাস দিয়েছেন দেশটির বাংলাদেশ হাইকমিশনার।",
-        "lead_en": "The Bangladesh High Commissioner to Malaysia assured support for promoting Bengali language and culture among expatriate youth.",
-        "bullets_bn": [
-          "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের নতুন প্রজন্মের মাঝে বাংলা ভাষা ও সংস্কৃতি চর্চা বাড়ানোর ওপর গুরুত্বারোপ করা হয়েছে।",
-          "হাইকমিশনার প্রবাসী বাংলাদেশিদের শিক্ষা ও দক্ষতা উন্নয়নে পরিচালিত আর্টস, কালচার অ্যান্ড ল্যাঙ্গুয়েজ প্রোগ্রামের কার্যক্রমের প্রশংসা করেছেন।",
-          "প্রবাসীদের নতুন প্রজন্মের কাছে দেশীয় ঐতিহ্য তুলে ধরতে সংশ্লিষ্ট কর্মসূচিগুলোর পরিধি ভবিষ্যতে আরও বাড়ানো হবে।"
-        ],
-        "bullets_en": [
-          "Emphasis was placed on increasing the practice of Bengali language and culture among the new generation of expatriates in Malaysia.",
-          "The High Commissioner praised the activities of the Arts, Culture and Language Programme aimed at education and skill development.",
-          "The scope of relevant programs will be further expanded in the future to introduce native heritage to the new generation."
-        ],
-        "impact_bn": "মালয়েশিয়ায় বসবাসরত প্রবাসী বাংলাদেশিরা তাদের সন্তানদের মাঝে দেশীয় সংস্কৃতি ও ভাষা টিকিয়ে রাখার সুযোগ পাবে।",
-        "impact_en": "Expatriate Bangladeshis living in Malaysia will get the opportunity to preserve native culture and language among their children.",
-        "details_bn": "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের নতুন প্রজন্ম যাতে নিজস্ব শেকড়, ভাষা ও সংস্কৃতির সাথে পরিচিত থাকতে পারে, সে জন্য বিভিন্ন সামাজিক ও সাংস্কৃতিক উদ্যোগ পরিচালিত হচ্ছে। এর অংশ হিসেবে আর্টস, কালচার অ্যান্ড ল্যাঙ্গুয়েজ প্রোগ্রাম প্রবাসীদের মাঝে শিক্ষা ও দক্ষতা বৃদ্ধির পাশাপাশি দেশীয় ঐতিহ্য প্রসারে কাজ করে আসছে। এই উদ্যোগগুলোর মাধ্যমে প্রবাসে বেড়ে ওঠা শিশু ও কিশোরদের মাঝে দেশপ্রেম এবং সাংস্কৃতিক শেকড় মজবুত করার প্রয়াস অব্যাহত রয়েছে।",
-        "details_en": "Various social and cultural initiatives are operated in Malaysia to ensure that the new generation of expatriate Bangladeshis remains connected to their roots, language, and culture. As part of this, the Arts, Culture and Language Programme has been working to enhance education and skills while promoting native heritage among expatriates. These efforts continue to foster patriotism and cultural roots among children and youth growing up abroad."
-      }
-    },
-    {
-      "story_id": "bb105bdc-7a0d-5753-82b9-36b4e6ac4c8b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2F0qng44ba%2F81a3da8f-0cfb-43fa-9c9e-2ad0f5efde56.jpg?rect=0%2C57%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-23T14:33:37+00:00",
+      "published_at": "2026-10-23T16:32:30+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.9567,
+      "rank_score": 1.4755,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/3cwfenoouv",
-          "title": "‘শেখ হাসিনা ডিসেম্বরে ফিরছেন’ মাইকিংয়ের পর নিষিদ্ধ ছাত্রলীগের নেতাসহ দুজন আটক",
-          "snippet": "‘শেখ হাসিনা ডিসেম্বরে ফিরছেন’ মাইকিংয়ের পর নিষিদ্ধ ছাত্রলীগের নেতাসহ দুজন আটক"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/cyberat-tack-on-state-bank-of-india/",
+          "title": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা",
+          "snippet": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নওগাঁয় শেখ হাসিনার ফেরার মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতা আটক",
-        "title_en": "Two Banned Student and Youth Wing Leaders Arrested in Naogaon Over Public Announcements",
-        "summary_bn": "নওগাঁর মান্দায় সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা দিয়ে মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
-        "summary_en": "Police arrested two leaders of banned organizations in Naogaon for using loudspeakers to announce the return of the former prime minister.",
+        "title_bn": "স্টেট ব্যাংক অব ইন্ডিয়ায় সাইবার হামলা এবং গ্রাহক তথ্য ফাঁস",
+        "title_en": "Cyber Attack on State Bank of India Exposes Customer Data",
+        "summary_bn": "সিরিউসিম নামক হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার বিশাল পরিমাণ গ্রাহকের ব্যক্তিগত ও আর্থিক তথ্য নিয়ন্ত্রণে নেওয়ার কথা জানিয়েছে।",
+        "summary_en": "Hackers group Siriusim claimed control over massive personal and financial data belonging to State Bank of India customers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "tech_innovation",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T14:33:37+00:00",
-        "lead_bn": "নওগাঁর মান্দায় সাবেক প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার ঘোষণা দিয়ে মাইকিং করার অভিযোগে নিষিদ্ধ সংগঠনের দুই নেতাকে আটক করেছে পুলিশ।",
-        "lead_en": "Police arrested two leaders of banned organizations in Naogaon for using loudspeakers to announce the return of the former prime minister.",
+        "published_at": "2026-10-23T16:32:30+00:00",
+        "lead_bn": "সিরিউসিম নামক হ্যাকার গোষ্ঠী ভারতের স্টেট ব্যাংক অব ইন্ডিয়ার বিশাল পরিমাণ গ্রাহকের ব্যক্তিগত ও আর্থিক তথ্য নিয়ন্ত্রণে নেওয়ার কথা জানিয়েছে।",
+        "lead_en": "Hackers group Siriusim claimed control over massive personal and financial data belonging to State Bank of India customers.",
         "bullets_bn": [
-          "নিষিদ্ধ সংগঠনের নেতাদের বিরুদ্ধে মাইকিং করে জনমনে বিভ্রান্তি সৃষ্টির অভিযোগে পুলিশ নওগাঁর মান্দা উপজেলা থেকে দুজনকে আটক করেছে।",
-          "আটক ব্যক্তিরা হলেন নিষিদ্ধ ছাত্রলীগের ইউনিয়ন সভাপতি শহিদুল ইসলাম শহীদ ও স্বেচ্ছাসেবক লীগের সভাপতি আব্দুল জলিল সরকার।",
-          "ঘটনায় জড়িত বাকিদের গ্রেপ্তারে অভিযান চলছে এবং আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু হয়েছে।"
+          "সিরিউসিম নামের হ্যাকার গোষ্ঠী ভারতের রাষ্ট্রায়ত্ত স্টেট ব্যাংক অব ইন্ডিয়ার গ্রাহকদের গোপন তথ্য নিয়ন্ত্রণে নিয়েছে।",
+          "প্রায় ৩ লাখ ৮০ হাজার তথ্যের বাইরে বেরিয়ে যাওয়ার কথা জানিয়ে ক্ষতিগ্রস্তদের ই-মেইল ও হোয়াটসঅ্যাপে সতর্কবার্তা পাঠিয়েছে ব্যাংকটি।",
+          "চুরি হওয়া ডেটা ব্যবহার করে পরিচয় চুরি করে ঋণের আবেদন করার অপব্যবহার হতে পারে বলে আশঙ্কা করছেন সাইবার বিশেষজ্ঞরা।"
         ],
         "bullets_en": [
-          "Police arrested two individuals from Manda upazila in Naogaon for using loudspeakers to propagate unauthorized political announcements.",
-          "The detained individuals are identified as local union-level leaders of the banned Chhatra League and Jubo/Swechchhasebak League.",
-          "Law enforcement authorities have seized the audio equipment and initiated formal legal proceedings against the suspects."
+          "The hacker group Siriusim took control of confidential data belonging to customers of State Bank of India.",
+          "The bank acknowledged the leak of around 380,000 records and alerted affected individuals via email and WhatsApp.",
+          "Cybersecurity experts warn that the stolen data could be misused for identity theft and fraudulent loan applications."
         ],
-        "impact_bn": "এ ধরনের উসকানিমূলক কর্মকাণ্ড স্থানীয় আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটাতে পারে, যা জনমনে উদ্বেগ তৈরি করে।",
-        "impact_en": "Such unauthorized political propaganda and provocative activities can disrupt local public order and create community tension.",
-        "details_bn": "নওগাঁর মান্দা উপজেলায় নিষিদ্ধ সংগঠনের সভাপতি পরিচয় দিয়ে সাবেক প্রধানমন্ত্রী শেখ হাসিনার আগামী ডিসেম্বর মাসে দেশে ফেরার প্রচারণা চালিয়ে একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দেওয়া হয়। ৩৭ সেকেন্ডের ওই ভাইরাল ভিডিওতে দেখা যায়, অটোরিকশায় মাইক বেঁধে এই প্রচার চালানো হচ্ছে। বিষয়টি পুলিশ সুপার ও স্থানীয় প্রশাসনের নজরে আসার পর অভিযান চালিয়ে সংশ্লিষ্ট দুজনকে আটক করা হয় এবং মাইকিংয়ে ব্যবহৃত অটোরেকর্ডিং জব্দ করা হয়। বাকি আসামিদের ধরতে অভিযান অব্যাহত রয়েছে।",
-        "details_en": "A 37-second video went viral on social media showing a loudspeaker-equipped auto-rickshaw announcing the return of former Prime Minister fugitive Sheikh Hasina in December. Following the circulation of the footage, local police identified and detained two local leaders of banned political wings in Manda upazila. Authorities seized the recording equipment and launched operations to apprehend other individuals involved in the propaganda."
+        "impact_bn": "ব্যাংক গ্রাহকদের ব্যক্তিগত তথ্য এবং ঋণের নথিপত্র ফাঁস হওয়ায় জালিয়াতি ও পরিচয় চুরির বড় ধরনের ঝুঁকিতে পড়েছেন সাধারণ গ্রাহকরা।",
+        "impact_en": "Ordinary bank customers face severe risks of identity theft and financial fraud due to the exposure of personal records and loan documents.",
+        "details_bn": "কোটিরও বেশি গ্রাহক নিয়ে স্টেট ব্যাংক অব ইন্ডিয়া ভারতের প্রধান এবং বিশ্বের তৃতীয় বৃহত্তম ব্যাংক। সাইবার নিরাপত্তা মনিটরিং হ্যান্ডল সাইবারপালস৫৬ প্রথম এসবিআইয়ের বড় ধরনের তথ্য ফাঁসের বিষয়টি সামনে আনে। হ্যাকাররা আবাসিক ঠিকানা, ঋণের আবেদন এবং অ্যাকাউন্ট খোলার নথিপত্রসহ বিভিন্ন তথ্য হাতিয়ে নিয়েছে বলে অভিযোগ রয়েছে। ব্যাংক কর্তৃপক্ষ আংশিক তথ্য ফাঁসের কথা স্বীকার করে সংশ্লিষ্ট গ্রাহকদের সতর্ক করেছে এবং তহবিল সম্পূর্ণ সুরক্ষিত রয়েছে বলে জানিয়েছে।",
+        "details_en": "With over 500 million customers, State Bank of India is India's largest and the world's third-largest bank. The massive data breach was initially flagged by cyber security monitoring handles, revealing that around 380,000 records including residential addresses and loan applications were compromised. SBI acknowledged the breach partially and assured customers that their funds remain completely secure while alerting those impacted."
       }
     },
     {
-      "story_id": "b765f332-a7fa-50fc-abf3-f804cec20934",
+      "story_id": "b6ea825f-18cf-58a1-98a0-c9c5c011ff05",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "tags": [
         "#Geopolitics",
@@ -122,50 +71,107 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T15:59:07+00:00",
+      "published_at": "2026-10-23T15:44:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9541,
+      "importance_score": 4.8,
+      "rank_score": 1.0284,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171247",
-          "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২৩ অক্টোবর ২০২৬",
-          "snippet": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২৩ অক্টোবর ২০২৬"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976309/%E0%A6%B9%E0%A7%87%E0%A6%AC%E0%A6%B0%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B2%E0%A6%BF-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4",
+          "title": "হেবরনে হামলায় ইসরায়েলি দুই সেনা নিহত",
+          "snippet": "হেবরনে হামলায় ইসরায়েলি দুই সেনা নিহত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিশ্বজুড়ে ঘটে যাওয়া বিভিন্ন গুরুত্বপূর্ণ আন্তর্জাতিক ঘটনার সংক্ষিপ্ত সারসংক্ষেপ",
-        "title_en": "Summary of Important International Events Around the World",
-        "summary_bn": "বিশ্বের বিভিন্ন প্রান্তে ঘটে যাওয়া সাম্প্রতিক প্রধান ঘটনাগুলো নিয়ে সংক্ষিপ্ত আন্তর্জাতিক সংবাদ পরিবেশিত হয়েছে।",
-        "summary_en": "A brief international news roundup covers major recent events occurring across different parts of the world.",
+        "title_bn": "পশ্চিম তীরের হেবরনে হামলায় দুই ইসরায়েলি সেনা নিহত",
+        "title_en": "Two Israeli Soldiers Killed in Hebron Attack",
+        "summary_bn": "পশ্চিম তীরের হেবরনে সশস্ত্র হামলায় ইসরায়েলি সামরিক বাহিনীর উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
+        "summary_en": "Two soldiers from the Israeli military rescue unit brigade were killed in an armed attack in Hebron.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:59:07+00:00",
-        "lead_bn": "বিশ্বের বিভিন্ন প্রান্তে ঘটে যাওয়া সাম্প্রতিক প্রধান ঘটনাগুলো নিয়ে সংক্ষিপ্ত আন্তর্জাতিক সংবাদ পরিবেশিত হয়েছে।",
-        "lead_en": "A brief international news roundup covers major recent events occurring across different parts of the world.",
+        "published_at": "2026-10-23T15:44:55+00:00",
+        "lead_bn": "পশ্চিম তীরের হেবরনে সশস্ত্র হামলায় ইসরায়েলি সামরিক বাহিনীর উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
+        "lead_en": "Two soldiers from the Israeli military rescue unit brigade were killed in an armed attack in Hebron.",
         "bullets_bn": [
-          "বিশ্বের বিভিন্ন প্রান্তের গুরুত্বপূর্ণ ঘটনাগুলো একনজরে তুলে ধরা হয়েছে।",
-          "আন্তর্জাতিক সংবাদ মাধ্যমের প্রতিবেদন অনুযায়ী বিভিন্ন দেশের পরিস্থিতি পর্যালোচনা করা হয়েছে।",
-          "সংবাদ সংশ্লিষ্ট বৈশ্বিক পরিস্থিতি এবং এর সম্ভাব্য প্রভাব নিয়ে আপডেট দেওয়া হয়েছে।"
+          "পশ্চিম তীরের হেবরনে সংঘটিত হামলায় উদ্ধার ইউনিট ব্রিগেডের দুই সেনা নিহত হয়েছেন।",
+          "নিহত সেনারা হলেন স্টাফ সার্জেন্ট রন ইয়োনাথান রয়টম্যান ও সার্জেন্ট ইউভাল শাই সভিলেম।",
+          "হামলায় একই ব্যাটালিয়নের আরও তিন সেনা সামান্য আহত হয়েছেন এবং তাদের হাসপাতালে চিকিৎসা দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Important events from various parts of the world are highlighted at a glance.",
-          "Situations in different countries are reviewed based on international media reports.",
-          "Updates regarding the global situation and its potential impact are provided."
+          "Two soldiers from the rescue unit brigade were killed in an attack in Hebron, West Bank.",
+          "The deceased soldiers were identified as Staff Sergeant Ron Yonathan Roytman and Sergeant Yuval Shay Svilem.",
+          "Three other soldiers from the same battalion sustained minor injuries and were evacuated to hospital."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "আন্তর্জাতিক অঙ্গনে প্রতিদিন নানা ঘটনা ঘটে যা বৈশ্বিক রাজনীতি, অর্থনীতি এবং সাধারণ মানুষের জীবনযাত্রাকে প্রভাবিত করে। এই সংক্ষিপ্ত সংবাদের মাধ্যমে পাঠকরা বিশ্বের সাম্প্রতিক ঘটনাবলীর মূল বিষয়গুলো সম্পর্কে দ্রুত ধারণা লাভ করতে পারেন।",
-        "details_en": "Various events occur daily in the international arena that influence global politics, economics, and the lives of ordinary people. Through this brief news update, readers can quickly grasp the core developments of recent global events."
+        "details_bn": "ইসরায়েলি সামরিক বাহিনী জানিয়েছে যে পশ্চিম তীরের হেবরন এলাকায় এই হামলার ঘটনা ঘটে। আল জাজিরার প্রতিবেদনে বলা হয়, টেলিগ্রামে প্রকাশিত সামরিক বাহিনীর এক পোস্টে হতাহতের এই তথ্য নিশ্চিত করা হয়েছে। হামলায় আহত অন্য তিন সেনাকে তাৎক্ষণিকভাবে চিকিৎসার জন্য হাসপাতালে সরিয়ে নেওয়া হয়। ফিলিস্তিনি ভূখণ্ডে সাম্প্রতিক সহিংসতার ধারাবাহিকতায় এই প্রাণহানির ঘটনা ঘটে।",
+        "details_en": "The Israeli military reported that the attack took place in the Hebron area of the West Bank. According to Al Jazeera, the military confirmed the casualties in a post on Telegram. Three other soldiers injured in the attack were immediately evacuated to hospital for medical treatment. This incident adds to the ongoing violence and casualties in the Palestinian territories."
       }
     },
     {
-      "story_id": "d5f4811b-e1ec-5544-a97e-2151f2bfa389",
+      "story_id": "6fa120c6-f8c9-5141-a708-d30cd42da9c0",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-23T16:58:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9476,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/america/976317/%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A1%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AD%E0%A6%BF%E0%A6%B8%E0%A6%BE-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A7%AB-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%B0",
+          "title": "কানাডায় ভিসা আবেদনে জালিয়াতি, ৫ বাংলাদেশির বিরুদ্ধে মামলা",
+          "snippet": "কানাডায় ভিসা আবেদনে জালিয়াতি, ৫ বাংলাদেশির বিরুদ্ধে মামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কানাডায় ভিসা জালিয়াতির অভিযোগে পাঁচ বাংলাদেশির বিরুদ্ধে ফৌজদারি মামলা",
+        "title_en": "Criminal Charges Filed Against Five Bangladeshis for Visa Fraud in Canada",
+        "summary_bn": "কানাডার সীমান্ত রক্ষা সংস্থা জাল নথিপত্র ব্যবহার করে ভিসা আবেদনের অভিযোগে চার বাংলাদেশি ও তাদের এক সহযোগীর বিরুদ্ধে ফৌজদারি মামলা করেছে।",
+        "summary_en": "The Canada Border Services Agency filed criminal charges against four Bangladeshis and an accomplice for visa fraud using forged documents.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-23T16:58:32+00:00",
+        "lead_bn": "কানাডার সীমান্ত রক্ষা সংস্থা জাল নথিপত্র ব্যবহার করে ভিসা আবেদনের অভিযোগে চার বাংলাদেশি ও তাদের এক সহযোগীর বিরুদ্ধে ফৌজদারি মামলা করেছে।",
+        "lead_en": "The Canada Border Services Agency filed criminal charges against four Bangladeshis and an accomplice for visa fraud using forged documents.",
+        "bullets_bn": [
+          "জাল নথিপত্র ব্যবহার করে কানাডার ভিজিটর ভিসা আবেদনের একটি সংঘবদ্ধ চক্র উন্মোচন করা হয়েছে।",
+          "একই তদন্তে জাল কাগজপত্র দিয়ে কানাডার সাময়িক রেসিডেন্স ভিসার চেষ্টার সঙ্গে জড়িত ২০৯ জন বাংলাদেশি নাগরিককে শনাক্ত করা হয়েছে।",
+          "অভিযুক্তদের বিরুদ্ধে কানাডার অভিবাসন আইনে ফৌজদারি অপরাধে মামলা দায়ের করে আইনি প্রক্রিয়া শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "A coordinated syndicate utilizing forged documents for Canadian visitor visa applications was uncovered.",
+          "The investigation identified 209 Bangladeshi nationals who attempted to obtain temporary residence visas using fake paperwork.",
+          "Criminal charges have been filed against the primary suspects under Canadian immigration laws, with further legal actions underway."
+        ],
+        "impact_bn": "বৈধ উপায়ে কানাডায় ভিসা প্রত্যাশী সাধারণ বাংলাদেশি ও শিক্ষার্থীরা কঠোর অভিবাসন যাচাইবাছাইয়ের মুখে পড়তে পারেন।",
+        "impact_en": "Genuine Bangladeshi visa applicants and students wishing to travel to Canada may face stricter immigration scrutiny.",
+        "details_bn": "কানাডার সীমান্ত রক্ষা সংস্থা দেশটির অভিবাসন ব্যবস্থার সুরক্ষা ও জালিয়াতি রোধে নিয়মিত নজরদারি চালিয়ে আসছে। সাম্প্রতিক সময়ে বিভিন্ন দেশ থেকে জাল কাগজপত্র জমা দিয়ে ভিসা পাওয়ার প্রবণতা বৃদ্ধি পাওয়ায় কর্তৃপক্ষ তদন্ত জোরদার করেছে। এই ঘটনার ফলে বাংলাদেশ থেকে কানাডায় যাওয়ার ক্ষেত্রে ভিসা প্রক্রিয়া আরও কঠোর হতে পারে বলে ধারণা করা হচ্ছে।",
+        "details_en": "The Canada Border Services Agency continuously monitors immigration channels to safeguard the system against fraud. Authorities intensified investigations following a rise in fraudulent document submissions globally. This crackdown could lead to more stringent screening processes for visa applicants from Bangladesh."
+      }
+    },
+    {
+      "story_id": "1bb1ad59-6ed3-5661-b5b4-dd55c79db4ff",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -174,55 +180,56 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-23%2Ffxipdwvk%2FNCP-Nahid-01.JPG?rect=0%2C111%2C4885%2C2565&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-23T15:58:42+00:00",
+      "published_at": "2026-10-23T16:54:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9499,
+      "rank_score": 0.9088,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171246",
-          "title": "মাদরাসাছাত্রীকে ধর্ষণে সহযোগিতার অভিযোগে শিক্ষকের স্ত্রী গ্রেফতার",
-          "snippet": "মাদরাসাছাত্রীকে ধর্ষণে সহযোগিতার অভিযোগে শিক্ষকের স্ত্রী গ্রেফতার"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/8cqdifuktj",
+          "title": "মধ্যবিত্তের ডিম খাওয়া অর্ধেকের বেশি কমেছে: নাহিদ ইসলাম",
+          "snippet": "মধ্যবিত্তের ডিম খাওয়া অর্ধেকের বেশি কমেছে: নাহিদ ইসলাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাভারে মাদরাসাছাত্রীকে ধর্ষণের সহযোগিতায় শিক্ষকের স্ত্রী গ্রেফতার",
-        "title_en": "Teacher Wife Arrested for Aiding Madrassa Student Rape in Savar",
-        "summary_bn": "সাভারে তেরো বছরের এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহযোগিতার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
-        "summary_en": "Police have arrested a headteacher's wife in Savar for allegedly aiding the rape of a thirteen-year-old madrassa student.",
+        "title_bn": "নিত্যপণ্যের ঊর্ধ্বগতির কারণে মধ্যবিত্তের ডিম ও সবজি কেনা কমেছে",
+        "title_en": "Middle-Class Egg and Vegetable Consumption Drops Amid Price Hikes",
+        "summary_bn": "নিত্যপ্রয়োজনীয় পণ্যের মূল্যবৃদ্ধি ও চাঁদাবাজির প্রতিবাদে আয়োজিত কর্মসূচিতে এমন মন্তব্য করেন জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম।",
+        "summary_en": "National Citizens Party convener Nahid Islam highlighted soaring commodity prices and extortion during a public outreach program.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:58:42+00:00",
-        "lead_bn": "সাভারে তেরো বছরের এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনায় সহযোগিতার অভিযোগে প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করেছে পুলিশ।",
-        "lead_en": "Police have arrested a headteacher's wife in Savar for allegedly aiding the rape of a thirteen-year-old madrassa student.",
+        "published_at": "2026-10-23T16:54:32+00:00",
+        "lead_bn": "নিত্যপ্রয়োজনীয় পণ্যের মূল্যবৃদ্ধি ও চাঁদাবাজির প্রতিবাদে আয়োজিত কর্মসূচিতে এমন মন্তব্য করেন জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম।",
+        "lead_en": "National Citizens Party convener Nahid Islam highlighted soaring commodity prices and extortion during a public outreach program.",
         "bullets_bn": [
-          "পুলিশ অভিযুক্ত প্রধান শিক্ষকের স্ত্রীকে গ্রেফতার করে এবং নির্যাতিত ছাত্রীকে উদ্ধার করে ঢাকা মেডিকেল কলেজ হাসপাতালের ওয়ান-স্টপ ক্রাইসিস সেন্টারে ভর্তি করে",
-          "মামলার এজাহারে মাদরাসার মালিক ও প্রধান শিক্ষক শহিদুল ইসলামকে মূল অভিযুক্ত হিসেবে উল্লেখ করা হয়েছে",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী পলাতক মূল অভিযুক্ত প্রধান শিক্ষককে গ্রেফতারে অভিযান পরিচালনা করছে"
+          "নিত্যপণ্যের দাম মানুষের ক্রয়ক্ষমতার বাইরে চলে যাওয়ায় মধ্যবিত্ত পরিবারগুলোর ডিম ও সবজি কেনা অর্ধেকের বেশি কমেছে।",
+          "দ্রব্যমূল্য ও জ্বালানি তেল বৃদ্ধির প্রতিবাদে আগামী ৩০ অক্টোবর শাহবাগে গণবিক্ষোভ কর্মসূচি পালন করবে জাতীয় নাগরিক পার্টি।",
+          "সার্বিক ব্যর্থতার কারণে স্বরাষ্ট্রমন্ত্রী এবং বিদ্যুৎ ও জ্বালানি মন্ত্রীর অবিলম্বে পদত্যাগ দাবি করেছে দলটি।"
         ],
         "bullets_en": [
-          "Police arrested the accused teacher's wife and admitted the victim to Dhaka Medical College Hospital's One-Stop Crisis Centre",
-          "The primary accused in the case has been identified as madrasa owner and headteacher Shahidul Islam",
-          "Law enforcement agencies are conducting operations to arrest the fugitive headteacher"
+          "Middle-class families have reduced egg and vegetable consumption by over half as essential goods exceed purchasing power.",
+          "The National Citizens Party scheduled a mass protest rally at Shahbagh on October 30 against price hikes and fuel costs.",
+          "The party demanded the immediate resignation of the home minister and the power and energy minister over governance failures."
         ],
-        "impact_bn": "এই ঘটনা শিক্ষাপ্রতিষ্ঠানে শিশুদের নিরাপত্তা এবং অপরাধীদের দ্রুত বিচারের আওতায় আনার দাবি জোরালো করেছে।",
-        "impact_en": "This incident reinforces the urgent demand for child safety in educational institutions and swift justice for offenders.",
-        "details_bn": "ঢাকার সাভার উপজেলায় তেরো বছর বয়সী এক মাদরাসাছাত্রীকে ধর্ষণের ঘটনা ঘটে। এ ঘটনায় প্রধান শিক্ষকের বিরুদ্ধে ছাত্রীকে নিপীড়ন ও হুমকির অভিযোগ ওঠার পর পুলিশি তৎপরতা শুরু হয়। প্রাথমিক তদন্তের ভিত্তিতে অপরাধে সহায়তাকারী হিসেবে শিক্ষকের স্ত্রীকে আইনের আওতায় আনা হয়েছে। শিশু সুরক্ষায় এ ধরনের অপরাধের বিরুদ্ধে কঠোর আইনি ব্যবস্থা নেওয়ার ওপর জোর দিচ্ছেন স্থানীয়রা।",
-        "details_en": "The incident involves the abuse of a thirteen-year-old student at a madrasa in Savar, Dhaka. Following allegations of harassment and threats against the headteacher, police initiated an investigation. Based on preliminary findings, the teacher's wife was brought under the law for aiding the crime. Locals have emphasized the need for strict legal action against such offences to ensure child safety."
+        "impact_bn": "দ্রব্যমূল্যের লাগামহীন ঊর্ধ্বগতি ও চাঁদাবাজির কারণে সাধারণ মানুষের জীবনযাত্রার ব্যয় বেড়ে গিয়ে চরম আর্থিক সংকট তৈরি হচ্ছে।",
+        "impact_en": "Unchecked commodity price hikes and extortion are increasing living costs and financial distress for ordinary citizens.",
+        "details_bn": "জাতীয় নাগরিক পার্টির (এনসিপি) আহ্বায়ক ও বিরোধীদলীয় চিফ হুইপ নাহিদ ইসলাম কারওয়ান বাজারে এক প্রচারপত্র বিতরণ অনুষ্ঠানে দেশের আইনশৃঙ্খলা পরিস্থিতি ও দ্রব্যমূল্যের তীব্র সমালোচনা করেন। তিনি সরকারের বিভিন্ন নীতির কঠোর সমালোচনা করে স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ দাবি করেন। একই সঙ্গে জনদুর্ভোগ সৃষ্টি করা সিন্ডিকেট ও চাঁদাবাজদের বিরুদ্ধে জনগণকে ঐক্যবদ্ধ হওয়ার আহ্বান জানানো হয়।",
+        "details_en": "National Citizens Party convener and opposition chief whip Nahid Islam criticized the government over law and order and soaring commodity prices during a leaflet distribution program in Karwan Bazar. He demanded the resignation of the home minister and the energy minister while calling on citizens to unite against syndicates and extortionists causing public suffering."
       }
     },
     {
-      "story_id": "b27baaab-a0ab-519b-a438-84d515e05ee6",
+      "story_id": "6974007a-4424-52d0-adbc-065712763e8d",
       "primary_category": "sports_fitness",
       "interest_categories": [
-        "sports_fitness"
+        "sports_fitness",
+        "governance_law"
       ],
       "tags": [
         "#Sports",
@@ -230,100 +237,103 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T15:52:34+00:00",
+      "published_at": "2026-10-23T16:47:39+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8914,
+      "rank_score": 0.8484,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/football/1171244",
-          "title": "পেছন থেকে ধাক্কা, ওনানার গাড়ি ধাক্কা দিলো সামনের গাড়িতে",
-          "snippet": "পেছন থেকে ধাক্কা, ওনানার গাড়ি ধাক্কা দিলো সামনের গাড়িতে"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/other-sports/976305/%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%87%E0%A6%AE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%B0-%E0%A6%93-%E0%A6%B6%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%A4%E0%A6%AE-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A7%80",
+          "title": "আবার ইমরানুর ও শিরিন দ্রুততম মানব-মানবী",
+          "snippet": "আবার ইমরানুর ও শিরিন দ্রুততম মানব-মানবী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তুরস্কে একাধিক গাড়ির সংঘর্ষের মুখে পড়েন ফুটবলার আন্দ্রে ওনানা",
-        "title_en": "Footballer Andre Onana Escapes Injury in Multi-Vehicle Crash in Turkey",
-        "summary_bn": "ম্যানচেস্টার ইউনাইটেডের সাবেক গোলরক্ষক আন্দ্রে ওনানা তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষে দুর্ঘটনা থেকে অক্ষত অবস্থায় বেঁচে গেছেন।",
-        "summary_en": "Former Manchester United goalkeeper Andre Onana escaped unhurt following a multi-vehicle collision in northern Turkey.",
+        "title_bn": "জাতীয় সামার অ্যাথলেটিকসে দ্রুততম মানব ও মানবী হলেন ইমরানুর ও শিরিন",
+        "title_en": "Imranur and Shirin Crowned Fastest Man and Woman at Summer Athletics",
+        "summary_bn": "ইমরানুর রহমান ও শিরিন আক্তার কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের দ্রুততম মানব ও মানবী হওয়ার গৌরব অর্জন করেছেন।",
+        "summary_en": "Imranur Rahman and Shirin Akhter claimed the titles of the countrys fastest man and woman at the National Summer Athletics.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "sports_fitness",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:52:34+00:00",
-        "lead_bn": "ম্যানচেস্টার ইউনাইটেডের সাবেক গোলরক্ষক আন্দ্রে ওনানা তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষে দুর্ঘটনা থেকে অক্ষত অবস্থায় বেঁচে গেছেন।",
-        "lead_en": "Former Manchester United goalkeeper Andre Onana escaped unhurt following a multi-vehicle collision in northern Turkey.",
+        "published_at": "2026-10-23T16:47:39+00:00",
+        "lead_bn": "ইমরানুর রহমান ও শিরিন আক্তার কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের দ্রুততম মানব ও মানবী হওয়ার গৌরব অর্জন করেছেন।",
+        "lead_en": "Imranur Rahman and Shirin Akhter claimed the titles of the countrys fastest man and woman at the National Summer Athletics.",
         "bullets_bn": [
-          "তুরস্কের উত্তরাঞ্চলে একাধিক গাড়ির সংঘর্ষের কবলে পড়েন গোলরক্ষক আন্দ্রে ওনানা।",
-          "দুর্ঘটনায় ওনানা এবং তার পরিবারের কোনো সদস্যই হতাহত হননি।",
-          "ঘটনার পর ফুটবলার ও তার পরিবার নিরাপদে গন্তব্যের উদ্দেশ্যে যাত্রা অব্যাহত রাখেন।"
+          "ইমরানুর রহমান পুরুষদের ১০০ মিটার спринт ১০.৫৩ সেকেন্ডে শেষ করে প্রথম স্থান অধিকার করেন।",
+          "নারীদের ১০০ মিটার сприন্টে ১২.০৮ সেকেন্ড সময় নিয়ে শিরিন আক্তার শীর্ষস্থান অর্জন করেন।",
+          "প্রতিযোগিতায় পুরুষ বিভাগে নৌবাহিনীর মোহাম্মদ ইসমাইল ১০.৬৭ সেকেন্ড সময় নিয়ে দ্বিতীয় হয়েছেন।"
         ],
         "bullets_en": [
-          "Goalkeeper Andre Onana became involved in a multi-vehicle collision in northern Turkey.",
-          "Neither Onana nor any members of his family sustained injuries during the accident.",
-          "The footballer and his family safely continued their journey following the incident."
+          "Imranur Rahman secured first place by finishing the mens 100-meter sprint in 10.53 seconds.",
+          "Shirin Akhter claimed the top spot in the womens 100-meter sprint with a timing of 12.08 seconds.",
+          "Mohammad Ismail of the Navy finished second in the mens category with a time of 10.67 seconds."
         ],
-        "impact_bn": "মাঠের বাইরের এই দুর্ঘটনা থেকে বড় ধরনের ক্ষতি ছাড়াই রক্ষা পাওয়ায় ক্রীড়াপ্রেমী ও ভক্তরা স্বস্তি প্রকাশ করেছেন।",
-        "impact_en": "Fans and sports enthusiasts expressed relief as the footballer emerged safely from the unexpected road accident.",
-        "details_bn": "আন্দ্রে ওনানা বর্তমান সময়ের অন্যতম পরিচিত আন্তর্জাতিক ফুটবলার। ম্যানচেস্টার ইউনাইটেডের গোলরক্ষক হিসেবে তিনি বিশ্বজুড়ে ব্যাপক পরিচিতি লাভ করেছেন। সম্প্রতি বিভিন্ন আন্তর্জাতিক সফরে থাকাকালীন এই অপ্রত্যাশিত সড়ক দুর্ঘটনার মুখোমুখি হন তিনি। সৌভাগ্যবশত বড় ধরনের কোনো বিপদ ছাড়াই তিনি ও তার পরিবার অক্ষত রয়েছেন।",
-        "details_en": "Andre Onana is a prominent international footballer globally recognized for his role as a goalkeeper. While traveling through northern Turkey, he encountered an unexpected multi-vehicle road collision. Fortunately, strict safety measures and favorable conditions ensured that neither he nor his family members suffered any physical harm."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় স্টেডিয়ামে আয়োজিত কোকো ১৮তম জাতীয় সামার অ্যাথলেটিকসে দেশের শীর্ষস্থানীয় অ্যাথলেটরা বিভিন্ন ট্র্যাক ও ফিল্ড ইভেন্টে প্রতিদ্বন্দ্বিতা করেন। এই প্রতিযোগিতায় দেশের দ্রুততম মানব ও মানবী নির্বাচন দেশের অ্যাথলেটিকস অঙ্গনের অন্যতম আকর্ষণীয় ইভেন্ট হিসেবে পরিচিত।",
+        "details_en": "The Cocoa 18th National Summer Athletics held at the National Stadium featured top athletes competing across various track and field events. Selecting the countrys fastest man and woman remains one of the most anticipated highlights of the national athletics calendar."
       }
     },
     {
-      "story_id": "2ff27d1b-31bf-54c8-972c-67257754ac5e",
-      "primary_category": "sports_fitness",
+      "story_id": "76d5a4ac-0894-55c4-8e13-553530570ee7",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness"
+        "governance_law",
+        "economy_business"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/417230.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-23T15:51:03+00:00",
+      "published_at": "2026-10-23T16:39:06+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8779,
+      "rank_score": 0.7826,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bashar-bcb-nahid-mirpur/",
-          "title": "নাহিদের না থাকাটা বড় ক্ষতি, তবে পেস আক্রমণে আস্থা বাশারের",
-          "snippet": "নাহিদের না থাকাটা বড় ক্ষতি, তবে পেস আক্রমণে আস্থা বাশারের"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976315/%E0%A6%95%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A6%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%86%E0%A6%B9%E0%A6%A4",
+          "title": "কিশোরীর সিঁথিতে সিঁদুর দিতে চাওয়া নিয়ে সংঘর্ষ, আহত ৫",
+          "snippet": "কিশোরীর সিঁথিতে সিঁদুর দিতে চাওয়া নিয়ে সংঘর্ষ, আহত ৫"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাহিদ রানার চোট বড় ক্ষতি হলেও পেস আক্রমণে আস্থা হাবিবুল বাশারের",
-        "title_en": "Habibul Bashar Expresses Confidence in Pace Attack Despite Nahid Rana's Injury Absence",
-        "summary_bn": "প্রধান নির্বাচক হাবিবুল বাশার জানিয়েছেন, চোটের কারণে নাহিদ রানার অনুপস্থিতি বড় ক্ষতি হলেও বিদ্যমান পেস আক্রমণ নিয়ে দল আশাবাদী।",
-        "summary_en": "Chief selector Habibul Bashar stated that Nahid Rana's injury absence is a major loss, but the team remains confident in the pace attack.",
+        "title_bn": "জয়পুরহাটে কিশোরীর সিঁথিতে সিঁদুর দেওয়া কেন্দ্র করে সংঘর্ষে আহত ৫",
+        "title_en": "Clash Erupts Over Applying Sindoor in Joypurhat Leaving Five Injured",
+        "summary_bn": "জয়পুরহাটের কালাইয়ে একটি ঘটনার জেরে দুই পক্ষের সংঘর্ষে বাড়িঘর ভাঙচুর ও লুটপাটের পর পাঁচজন আহত হয়েছেন।",
+        "summary_en": "A clash between two factions over a local incident resulted in five injuries and vandalism in Joypurhat.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-23T15:51:03+00:00",
-        "lead_bn": "প্রধান নির্বাচক হাবিবুল বাশার জানিয়েছেন, চোটের কারণে নাহিদ রানার অনুপস্থিতি বড় ক্ষতি হলেও বিদ্যমান পেস আক্রমণ নিয়ে দল আশাবাদী।",
-        "lead_en": "Chief selector Habibul Bashar stated that Nahid Rana's injury absence is a major loss, but the team remains confident in the pace attack.",
+        "published_at": "2026-10-23T16:39:06+00:00",
+        "lead_bn": "জয়পুরহাটের কালাইয়ে একটি ঘটনার জেরে দুই পক্ষের সংঘর্ষে বাড়িঘর ভাঙচুর ও লুটপাটের পর পাঁচজন আহত হয়েছেন।",
+        "lead_en": "A clash between two factions over a local incident resulted in five injuries and vandalism in Joypurhat.",
         "bullets_bn": [
-          "নাহিদ রানা চোটের কারণে ওয়েস্ট ইন্ডিজের বিপক্ষে প্রথম টেস্টে দল থেকে ছিটকে গেছেন।",
-          "প্রধান নির্বাচক হাবিবুল বাশার তাসকিন, ইবাদত, হাসান ও শরিফুলের ওপর পূর্ণ আস্থা প্রকাশ করেছেন।",
-          "দলের পেস আক্রমণ নিজেদের সামর্থ্য প্রমাণ করতে প্রস্তুত রয়েছে।"
+          "কিশোরীর সিঁথিতে সিঁদুর দেওয়াকে কেন্দ্র করে কালাই উপজেলার মালিপাড়া গ্রামে দুই পক্ষের মধ্যে সংঘর্ষ বাধে।",
+          "সংঘর্ষের ঘটনায় উভয় পক্ষের দুই নারীসহ মোট পাঁচজন আহত হয়ে আধুনিক জেলা হাসপাতালে ভর্তি হন।",
+          "পরিস্থিতি নিয়ন্ত্রণে স্থানীয়রা আহতদের উদ্ধার করে হাসপাতালে পাঠায় এবং পরবর্তীতে এলাকায় আইন শৃঙ্খলা রক্ষাকারী বাহিনী তৎপর হয়।"
         ],
         "bullets_en": [
-          "Nahid Rana has been ruled out of the first Test against West Indies due to injury.",
-          "Chief selector Habibul Bashar expressed full confidence in pacers Taskin, Ebadot, Hasan, and Shoriful.",
-          "The team management remains optimistic about the depth and performance of the pace attack."
+          "A clash erupted between two groups in Malipara village over a dispute regarding applying sindoor.",
+          "Five individuals including two women sustained injuries during the altercation and were hospitalized.",
+          "Locals rescued the injured and admitted them to the district hospital while authorities monitored the situation."
         ],
-        "impact_bn": "ক্রিকেটপ্রেমী ও তরুণ সমর্থকরা দলের পেসারদের পারফরম্যান্স নিয়ে উজ্জীবিত থাকবেন।",
-        "impact_en": "Cricket enthusiasts and young supporters will look forward to strong performances from the pace unit.",
-        "details_bn": "বাংলাদেশ দলের তরুণ পেসার নাহিদ রানা সাম্প্রতিক সময়ে গতির ঝড়ে নজর কেড়েছেন। তবে ইনজুরির কারণে ওয়েস্ট ইন্ডিজ সিরিজের প্রথম টেস্টে তার সার্ভিস পাচ্ছে না বাংলাদেশ। তার অনুপস্থিতি দলের বোলিং কম্বিনেশনে কিছুটা প্রভাব ফেললেও তাসকিন আহমেদ ও শরিফুল ইসলামের মতো অভিজ্ঞ বোলাররা পেস ইউনিটের নেতৃত্ব দিতে প্রস্তুত রয়েছেন।",
-        "details_en": "Young pace sensation Nahid Rana has caught attention with his raw pace, but an injury has sidelined him for the first Test against West Indies. While his absence affects the bowling combination, experienced pacers like Taskin Ahmed and Shoriful Islam are ready to lead the pace unit."
+        "impact_bn": "এ ধরনের স্থানীয় সংঘর্ষ ও সহিংসতা গ্রামীণ জনপদে সাধারণ মানুষের নিরাপত্তা বিঘ্নিত করে এবং সামাজিক সম্প্রীতি বিনষ্ট করে।",
+        "impact_en": "Such local conflicts disrupt community harmony and pose security concerns for ordinary residents.",
+        "details_bn": "জয়পুরহাটের কালাই উপজেলার পুনট ইউনিয়নের মালিপাড়া গ্রামে সনাতন ধর্মাবলম্বী এক কিশোরীর সিঁথিতে সিঁদুর দেওয়া নিয়ে উত্তেজনা সৃষ্টি হয়। এর জেরে রাতে দুই পক্ষের মধ্যে সংঘর্ষ ছড়িয়ে পড়ে, যাতে বাড়িঘর ভাঙচুর ও নগদ টাকা এবং স্বর্ণালংকার লুটের ঘটনা ঘটে। আহতদের তাৎক্ষণিকভাবে জয়পুরহাট আধুনিক জেলা হাসপাতালে ভর্তি করা হয়। স্থানীয় প্রশাসন পরিস্থিতি নিয়ন্ত্রণে কাজ শুরু করে।",
+        "details_en": "Tensions escalated in Malipara village of Kalai upazila in Joypurhat over an incident involving a young Hindu girl. The dispute culminated in a violent clash between two groups, leading to property vandalism, looting of valuables, and injuries. The injured were swiftly admitted to the Joypurhat Modern District Hospital as local authorities moved to restore order."
       }
     }
   ]
