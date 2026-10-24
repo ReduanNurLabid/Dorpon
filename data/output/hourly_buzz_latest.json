@@ -1,333 +1,349 @@
 {
-  "updated_at": "2026-10-24T06:00:47.572421",
+  "updated_at": "2026-10-24T07:00:44.313870",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "4ee8a349-dcc0-575d-b12f-7740e1c93711",
-      "primary_category": "governance_law",
+      "story_id": "32cf6846-936c-50a6-b87c-759ff7bbee0d",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law"
+        "tech_innovation",
+        "economy_business"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2025-05-21%2F4hp1zs9x%2Fcyber.reuters.png?rect=0%2C9%2C607%2C319&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T05:47:36+00:00",
+      "published_at": "2026-10-24T06:01:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.3359,
+      "importance_score": 6.0,
+      "rank_score": 1.4443,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171323",
-          "title": "সুপ্রিম কোর্ট খোলার প্রথম দিন রোববার বন্ধ থাকবে আপিল বিভাগের কার্যক্রম",
-          "snippet": "সুপ্রিম কোর্ট খোলার প্রথম দিন রোববার বন্ধ থাকবে আপিল বিভাগের কার্যক্রম"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/6egmu8fvc3",
+          "title": "বাংলাদেশ ব্যাংক, ভূমিসেবা ও ৬ ব্যাংকের ওয়েবসাইট এখনো বন্ধ",
+          "snippet": "বাংলাদেশ ব্যাংক, ভূমিসেবা ও ৬ ব্যাংকের ওয়েবসাইট এখনো বন্ধ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুপ্রিম কোর্টের আপিল বিভাগের বিচারিক কার্যক্রম প্রথম কার্যদিবসে বন্ধ থাকবে",
-        "title_en": "Supreme Court Appellate Division Judicial Proceedings Closed on Reopening Day",
-        "summary_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষে সুপ্রিম কোর্টের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম স্থগিত রাখা হয়েছে।",
-        "summary_en": "The judicial proceedings of the Supreme Court Appellate Division remain suspended on the first working day after vacation.",
+        "title_bn": "পিএইচপির নিরাপত্তা ত্রুটির কারণে বাংলাদেশ ব্যাংক ও ৬ ব্যাংকের ওয়েবসাইট বন্ধ",
+        "title_en": "Bangladesh Bank and six banks close websites due to PHP vulnerability",
+        "summary_bn": "প্রোগ্রামিং ভাষার নিরাপত্তা ত্রুটির কারণে সাইবার ঝুঁকি এড়াতে বাংলাদেশ ব্যাংক ও ভূমি সেবা সহ কয়েকটি ব্যাংকের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "summary_en": "Websites of Bangladesh Bank and land services remain temporarily closed to prevent cyber risks due to programming language vulnerabilities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "tech_innovation",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:47:36+00:00",
-        "lead_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষে সুপ্রিম কোর্টের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম স্থগিত রাখা হয়েছে।",
-        "lead_en": "The judicial proceedings of the Supreme Court Appellate Division remain suspended on the first working day after vacation.",
+        "published_at": "2026-10-24T06:01:29+00:00",
+        "lead_bn": "প্রোগ্রামিং ভাষার নিরাপত্তা ত্রুটির কারণে সাইবার ঝুঁকি এড়াতে বাংলাদেশ ব্যাংক ও ভূমি সেবা সহ কয়েকটি ব্যাংকের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "lead_en": "Websites of Bangladesh Bank and land services remain temporarily closed to prevent cyber risks due to programming language vulnerabilities.",
         "bullets_bn": [
-          "ছুটি শেষে আদালতের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম বন্ধ রাখার সিদ্ধান্ত নেওয়া হয়েছে।",
-          "প্রধান বিচারপতিসহ আপিল ও হাইকোর্ট বিভাগের বিচারপতিরা আইনজীবীদের সাথে সৌজন্য সাক্ষাতে অংশ নেবেন।",
-          "নির্ধারিত সূচি অনুযায়ী পরবর্তী কার্যদিবসে আপিল বিভাগের নিয়মিত বিচারিক কার্যক্রম পুনরায় চালু হবে।"
+          "সম্ভাব্য সাইবার ঝুঁকি এড়াতে বাংলাদেশ ব্যাংক এবং ছয়টি বাণিজ্যিক ব্যাংক তাদের ওয়েবসাইট সাময়িকভাবে বন্ধ রেখেছে।",
+          "বিজিডি ই-গভ সার্ট ২২ অক্টোবর পিএইচপির নিরাপত্তা ত্রুটি নিয়ে জরুরি সতর্কবার্তা জারি করে।",
+          "নিরাপত্তা যাচাই ও প্রয়োজনীয় রক্ষণাবেক্ষণ কাজ সম্পন্ন হলে ওয়েবসাইটগুলো পুনরায় চালু করা হবে।"
         ],
         "bullets_en": [
-          "Judicial proceedings of the Appellate Division are suspended on the first working day following the vacation.",
-          "The Chief Justice and judges of both divisions will participate in a courtesy meeting with lawyers.",
-          "Regular judicial proceedings of the Appellate Division will resume on the next scheduled working day."
+          "Bangladesh Bank and six commercial banks temporarily shut down their websites to avoid potential cyber risks.",
+          "BGD e-GOV CIRT issued an urgent warning regarding the PHP security vulnerability on October 22.",
+          "The websites will be restored after security verification and necessary maintenance work are completed."
         ],
-        "impact_bn": "আইনজীবীদের উপস্থিতি ও বিচারপ্রার্থীদের নির্দিষ্ট মামলা শুনানির জন্য পরবর্তী কার্যদিবসের জন্য অপেক্ষা করতে হবে।",
-        "impact_en": "Lawyers and litigants awaiting hearings must adjust schedules as regular proceedings resume on the next working day.",
-        "details_bn": "দীর্ঘ অবকাশকালীন ছুটির পর সুপ্রিম কোর্ট খোলার দিনটি সাধারণত বিচারপতি ও আইনজীবীদের সৌজন্য সাক্ষাতের মাধ্যমে উদযাপিত হয়। ঐতিহ্যগতভাবে এই দিনটিতে বিচারিক কার্যক্রমের চেয়ে শুভেচ্ছা বিনিময় ও আনুষ্ঠানিকতা বেশি গুরুত্ব পায়, ফলে আপিল বিভাগের নিয়মিত বিচারিক কার্যক্রম সাময়িকভাবে বন্ধ থাকে।",
-        "details_en": "The reopening day of the Supreme Court following long vacations is traditionally marked by courtesy meetings between judges and lawyers. Such protocol events typically take precedence over courtroom proceedings, leading to the temporary suspension of judicial sessions in the Appellate Division."
+        "impact_bn": "ওয়েবসাইট বন্ধ থাকায় সাময়িকভাবে অনলাইনে ভূমি সেবা এবং নির্দিষ্ট ব্যাংকিং তথ্য পেতে ভোগান্তিতে পড়েছেন সাধারণ নাগরিকরা।",
+        "impact_en": "Temporary website closures disrupt online land services and hinder citizens from accessing specific banking information.",
+        "details_bn": "ওয়েবসাইট তৈরিতে বহুল ব্যবহৃত পিএইচপি প্রোগ্রামিং ভাষায় নিরাপত্তা ত্রুটি শনাক্ত হওয়ার পর বিজিডি ই-গভ সার্ট জরুরি সতর্কবার্তা জারি করে। এর ফলে সম্ভাব্য সাইবার আক্রমণ ঠেকাতে বাংলাদেশ ব্যাংক, ভূমি মন্ত্রণালয় এবং অগ্রণী, জনতা, আইএফআইসি, স্ট্যান্ডার্ড ইসলামী, এসবিএসি ও বেঙ্গল কমার্শিয়াল ব্যাংক তাদের প্রযুক্তি অবকাঠামোর নিরাপত্তা যাচাই শুরু করে। রক্ষণাবেক্ষণ কাজ শেষে দ্রুত সেবা স্বাভাবিক করার কাজ চলছে।",
+        "details_en": "Following the identification of a security vulnerability in the widely used PHP programming language, BGD e-GOV CIRT issued an emergency alert. Consequently, Bangladesh Bank, the Land Ministry, and six commercial banks including Agrani and Janata initiated server security verifications to prevent potential cyber attacks. Services are expected to resume after maintenance."
       }
     },
     {
-      "story_id": "ae53a985-e1f6-59ff-9eef-93f6fc9dc37f",
-      "primary_category": "governance_law",
+      "story_id": "d8ac68cb-1159-5af1-b4eb-ae959c313cf6",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T05:32:08+00:00",
+      "published_at": "2026-10-24T06:24:13+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.473,
+      "importance_score": 3.6,
+      "rank_score": 1.0335,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976363/%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AE",
-          "title": "‘থানার সামনে থেকে আটক যুবলীগ নেতাকর্মীদের বিরুদ্ধে ব্যবস্থা নেওয়া হচ্ছে’",
-          "snippet": "‘থানার সামনে থেকে আটক যুবলীগ নেতাকর্মীদের বিরুদ্ধে ব্যবস্থা নেওয়া হচ্ছে’"
+          "url": "https://www.banglatribune.com/journey/976370/%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%93-%E0%A6%9D%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A7%8D%E0%A6%AD-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A6%93-%E0%A7%A7%E0%A7%A9-%E0%A6%A4%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A6%BF%E0%A6%81%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A6%AF%E0%A6%BC",
+          "title": "কোথাও ঝুলন্ত স্তম্ভ, কোথাও ১৩ তলা সিঁড়ির বিস্ময়",
+          "snippet": "কোথাও ঝুলন্ত স্তম্ভ, কোথাও ১৩ তলা সিঁড়ির বিস্ময়"
+        },
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/bg1bqo5jzv",
+          "title": "অরুণাচল প্রদেশের ৬-৭ কিলোমিটার ভেতরে আসলেই কি ঢুকে পড়েছে চীনের বাহিনী",
+          "snippet": "অরুণাচল প্রদেশের ৬-৭ কিলোমিটার ভেতরে আসলেই কি ঢুকে পড়েছে চীনের বাহিনী"
+        },
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171332",
+          "title": "অরুণাচল সীমান্তে চীন-ভারত উত্তেজনা, তোপের মুখে মোদী সরকার",
+          "snippet": "অরুণাচল সীমান্তে চীন-ভারত উত্তেজনা, তোপের মুখে মোদী সরকার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শ্রীপুরে নিষিদ্ধ যুবলীগের আট নেতাকর্মী আটক",
-        "title_en": "Eight Jubo League Activists Detained in Sreepur",
-        "summary_bn": "গাজীপুরের শ্রীপুরে নিষিদ্ধ ঘোষিত আওয়ামী লীগের অঙ্গসংগঠন যুবলীগের আট নেতাকর্মীকে আটক করে পুলিশের কাছে সোপর্দ করা হয়েছে।",
-        "summary_en": "Eight activists of the banned Awami League affiliate Jubo League were detained and handed over to police in Sreepur, Gazipur.",
+        "title_bn": "ভারতের প্রাচীন স্থাপত্য ও অচেনা ঐতিহাসিক স্থানসমূহ পর্যটকদের আকর্ষণ করছে",
+        "title_en": "Ancient Indian architectural sites and hidden historical locations attract tourists",
+        "summary_bn": "ভারতের বিভিন্ন প্রান্তে ছড়িয়ে থাকা প্রাচীন স্থাপত্য ও লুকানো ঐতিহাসিক নিদর্শনগুলো পর্যটকদের মাঝে নতুন আগ্রহ তৈরি করেছে।",
+        "summary_en": "Hidden historical monuments and ancient architectural sites scattered across various parts of India are drawing tourist interest.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:32:08+00:00",
-        "lead_bn": "গাজীপুরের শ্রীপুরে নিষিদ্ধ ঘোষিত আওয়ামী লীগের অঙ্গসংগঠন যুবলীগের আট নেতাকর্মীকে আটক করে পুলিশের কাছে সোপর্দ করা হয়েছে।",
-        "lead_en": "Eight activists of the banned Awami League affiliate Jubo League were detained and handed over to police in Sreepur, Gazipur.",
+        "published_at": "2026-10-24T06:24:13+00:00",
+        "lead_bn": "ভারতের বিভিন্ন প্রান্তে ছড়িয়ে থাকা প্রাচীন স্থাপত্য ও লুকানো ঐতিহাসিক নিদর্শনগুলো পর্যটকদের মাঝে নতুন আগ্রহ তৈরি করেছে।",
+        "lead_en": "Hidden historical monuments and ancient architectural sites scattered across various parts of India are drawing tourist interest.",
         "bullets_bn": [
-          "নিষিদ্ধ সংগঠনের পক্ষে মিছিল করার সময় শ্রীপুর থানা ফটকসংলগ্ন এলাকা থেকে আটজনকে আটক করা হয়।",
-          "আটক ব্যক্তিদের মধ্যে চারজনের নাম পাওয়া গেছে যারা হলেন আতিকুর রহমান, আরিফুল ইসলাম, জুনাইদ মিয়া ও মোমেন।",
-          "আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করেছে পুলিশ।"
+          "ভারতের বিভিন্ন প্রান্তে ছড়িয়ে রয়েছে প্রাচীন পাথরে খোদাই করা মূর্তি ও শতাব্দীপ্রাচীন মন্দির।",
+          "ত্রিপুরাসহ বিভিন্ন অঞ্চলের ঐতিহাসিক স্থানগুলো পর্যটকদের কাছে এখনও অনেকটাই অচেনা ও অনাবিষ্কৃত।",
+          "দেশের এই ঐতিহাসিক ও স্থাপত্য নিদর্শনগুলো সংরক্ষণের পাশাপাশি পর্যটন খাতের প্রসারে গুরুত্ব দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Eight individuals were detained near the Sreepur police station gate while marching for the banned organization.",
-          "Four of the detained activists have been identified as Atiqur Rahman, Ariful Islam, Junaid Mia, and Momen.",
-          "Police have initiated legal action against the detained individuals."
+          "Ancient rock-cut sculptures and centuries-old temples are scattered across various regions of India.",
+          "Historical sites in areas including Tripura remain largely unfamiliar and undiscovered by mainstream tourists.",
+          "Emphasis is being placed on preserving these historical architectural landmarks while expanding the tourism sector."
         ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে নিষিদ্ধ সংগঠনের তৎপরতার বিরুদ্ধে কঠোর অবস্থান বজায় রাখা হচ্ছে।",
-        "impact_en": "A strict stance is being maintained against the activities of banned organizations to keep law and order stable.",
-        "details_bn": "ছাত্র-জনতার অভ্যুত্থানের পর থেকে আওয়ামী লীগ ও এর অঙ্গসংগঠনগুলোর কার্যক্রম নিষিদ্ধ রয়েছে। এর আগেও বিভিন্ন এলাকায় নাশকতামূলক বা মিছিলের প্রস্তুতির সময় নিষিদ্ধ সংগঠনের নেতাকর্মীদের আটক করে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাতে সোপর্দ করার ঘটনা ঘটেছে। সাম্প্রতিক এই ঘটনায় স্থানীয় প্রশাসন নিরাপত্তা জোরদার করেছে এবং জড়িতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া অব্যাহত রয়েছে।",
-        "details_en": "Activities of the Awami League and its associated bodies have remained banned following the mass uprising. Security forces have previously detained activists from the banned organization in various areas during unauthorized gatherings or processions. Local administration has heightened security following this incident and pursued legal actions against those involved."
+        "impact_bn": "ঐতিহাসিক স্থানগুলোর সঠিক প্রচার ও উন্নয়ন স্থানীয় পর্যটন শিল্পের বিকাশ ঘটাতে সাহায্য করবে।",
+        "impact_en": "Proper promotion and development of these historical sites will help boost local tourism industries.",
+        "details_bn": "ভারতের বিভিন্ন অঞ্চলে বহু প্রাচীন স্থাপত্য ও ঐতিহাসিক নিদর্শন ছড়িয়ে রয়েছে যা পর্যটকদের আকর্ষণ করে। এর মধ্যে ত্রিপুরার ঊনকোটিসহ ঘন সবুজ পাহাড় ও ঝরনার মাঝে পাথরের গায়ে খোদাই করা বিভিন্ন ভাস্কর্য উল্লেখযোগ্য। এই স্থানগুলো দেশের সমৃদ্ধ ইতিহাস ও সংস্কৃতির পরিচয় বহন করে।",
+        "details_en": "Various regions of India host numerous ancient architectural structures and historical artifacts that attract tourists. Notable among these is Unakoti in Tripura, featuring rock-cut sculptures nestled among green hills and waterfalls. These locations represent the rich history and cultural heritage of the country."
       }
     },
     {
-      "story_id": "294d0ec3-656d-5443-a098-72ec42687712",
-      "primary_category": "sports_fitness",
+      "story_id": "cff5061f-f212-51a6-9ee0-6dde473c47f3",
+      "primary_category": "society_education",
       "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T06:58:58+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9545,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976376/%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A6%AC-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A7%9F",
+          "title": "বিচার চাইতে মাদ্রাসায় গিয়েছিলাম, মব করতে নয়: শিশুটির বাবা",
+          "snippet": "বিচার চাইতে মাদ্রাসায় গিয়েছিলাম, মব করতে নয়: শিশুটির বাবা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টঙ্গীতে শিশু নিপীড়নের বিচার চাইতে গিয়েছিলাম, মব করতে নয়: শিশুর বাবা",
+        "title_en": "Sought Justice Not Mob Violence Over Child Abuse in Tongi: Father",
+        "summary_bn": "গাজীপুরের টঙ্গীতে মাদ্রাসায় শিশু নিপীড়নের ঘটনায় বিচার চাওয়ার কথা জানিয়ে বিশৃঙ্খলা সৃষ্টির অভিযোগ নাকচ করেছেন ভুক্তভোগী শিশুর বাবা।",
+        "summary_en": "The father of the victimized child in Tongi rejected mob violence allegations, stating his sole purpose was seeking justice for abuse.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T06:58:58+00:00",
+        "lead_bn": "গাজীপুরের টঙ্গীতে মাদ্রাসায় শিশু নিপীড়নের ঘটনায় বিচার চাওয়ার কথা জানিয়ে বিশৃঙ্খলা সৃষ্টির অভিযোগ নাকচ করেছেন ভুক্তভোগী শিশুর বাবা।",
+        "lead_en": "The father of the victimized child in Tongi rejected mob violence allegations, stating his sole purpose was seeking justice for abuse.",
+        "bullets_bn": [
+          "মাদ্রাসায় গিয়ে মেয়ের ওপর ঘটে যাওয়া নিপীড়নের বিচার দাবি করেন শিশুটির বাবা।",
+          "মাদ্রাসায় ভাঙচুর চালানো এবং ১৭ লাখ টাকা ছিনিয়ে নেওয়ার অভিযোগ সম্পূর্ণ অস্বীকার করা হয়েছে।",
+          "আইনি প্রক্রিয়ার মাধ্যমে ঘটনার সুষ্ঠু তদন্ত ও দোষীদের দৃষ্টান্তমূলক শাস্তির দাবি জানিয়েছেন তিনি।"
+        ],
+        "bullets_en": [
+          "The father visited the madrasa strictly to demand justice for the sexual abuse inflicted on his six-year-old daughter.",
+          "He completely denied allegations of vandalizing the madrasa premises and looting seventeen lakh taka during the incident.",
+          "He called for a fair investigation through proper legal channels and exemplary punishment for the perpetrators."
+        ],
+        "impact_bn": "শিক্ষা প্রতিষ্ঠানে যেকোনো অনাকাঙ্ক্ষিত পরিস্থিতিতে আইন নিজের হাতে না তুলে সঠিক আইনি প্রক্রিয়া অনুসরণ করার বার্তা দেয় ঘটনাটি।",
+        "impact_en": "This incident emphasizes the importance of pursuing lawful justice rather than resorting to violence during campus disputes.",
+        "details_bn": "গাজীপুরের টঙ্গীতে একটি আবাসিক মাদ্রাসায় ছয় বছর বয়সী এক শিশুকে যৌন নিপীড়নের অভিযোগ ওঠার পর স্থানীয়ভাবে ব্যাপক উত্তেজনা তৈরি হয়। এ ঘটনায় বিক্ষুব্ধ জনতা ও বিচারপ্রার্থীরা মাদ্রাসায় জড়ো হন। পরবর্তীতে ভাঙচুর ও অর্থ লুটের অভিযোগ ওঠে। এই প্রেক্ষাপটে শিশুটির বাবা গণমাধ্যমের সামনে এসে তার অবস্থান পরিষ্কার করেন এবং বিশৃঙ্খলা সৃষ্টির অভিযোগ অস্বীকার করেন।",
+        "details_en": "Tension sparked in a Tongi residential madrasa following allegations of sexual abuse against a six-year-old child. As crowds gathered demanding accountability, counter-allegations of vandalism and financial theft emerged. Amidst the brewing controversy, the victim's father publicly addressed the media to clarify his intentions and refute the accusations of orchestrating a mob."
+      }
+    },
+    {
+      "story_id": "c9301d98-3982-52c3-8cd7-c58393c7befe",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
         "sports_fitness"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Bangladesh-19.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T05:59:54+00:00",
+      "published_at": "2026-10-24T06:56:39+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9632,
+      "rank_score": 0.9314,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bangladesh-wales-under-15-world-cup-portugal/",
-          "title": "বিশ্বকাপের প্রথম ম্যাচে ওয়েলসের বিপক্ষে ড্র বাংলাদেশের",
-          "snippet": "বিশ্বকাপের প্রথম ম্যাচে ওয়েলসের বিপক্ষে ড্র বাংলাদেশের"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171345",
+          "title": "আসিফ আকবরের গাড়িতে গুলির ঘটনায় জড়িতদের খুঁজছে পুলিশ",
+          "snippet": "আসিফ আকবরের গাড়িতে গুলির ঘটনায় জড়িতদের খুঁজছে পুলিশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপে ওয়েলসের বিপক্ষে ড্র করেছে বাংলাদেশ",
-        "title_en": "Bangladesh Draws Against Wales in FIFA U-15 World Cup Opener",
-        "summary_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যালের প্রথম ম্যাচে শক্তিশালী ওয়েলসের সাথে গোলশূন্য ড্র করেছে বাংলাদেশ দল।",
-        "summary_en": "Bangladesh team played a goalless draw against strong Wales in their opening match of the FIFA U-15 World Cup and Football Festival.",
+        "title_bn": "আসিফ আকবরের গাড়িতে গুলির ঘটনায় জড়িতদের গ্রেফতারে মাঠে নেমেছে পুলিশ",
+        "title_en": "Police hunt suspects involved in shooting at singer Asif Akber car",
+        "summary_bn": "জনপ্রিয় সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলির ঘটনার তদন্ত শুরু করেছে পুলিশ এবং জড়িতদের শনাক্তের কাজ চলছে।",
+        "summary_en": "Police have launched an investigation into the shooting targeting singer Asif Akber personal car and are working to identify the culprits.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:59:54+00:00",
-        "lead_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যালের প্রথম ম্যাচে শক্তিশালী ওয়েলসের সাথে গোলশূন্য ড্র করেছে বাংলাদেশ দল।",
-        "lead_en": "Bangladesh team played a goalless draw against strong Wales in their opening match of the FIFA U-15 World Cup and Football Festival.",
+        "published_at": "2026-10-24T06:56:39+00:00",
+        "lead_bn": "জনপ্রিয় সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলির ঘটনার তদন্ত শুরু করেছে পুলিশ এবং জড়িতদের শনাক্তের কাজ চলছে।",
+        "lead_en": "Police have launched an investigation into the shooting targeting singer Asif Akber personal car and are working to identify the culprits.",
         "bullets_bn": [
-          "গ্রুপপর্বের প্রথম ম্যাচে ইউরোপের শক্তিশালী দল ওয়েলসের মুখোমুখি হয় ফাহিম হাসানের বাংলাদেশ দল।",
-          "ম্যাচের প্রথমার্ধে একটি সহজ সুযোগ হাতছাড়া করে বাংলাদেশ দল গোলবঞ্চিত হয়।",
-          "বাংলাদেশ দল টুর্নামেন্টের পরবর্তী ম্যাচে পর্তুগালের মুখোমুখি হবে।"
+          "পুলিশের একাধিক টিম সংগীতশিল্পী আসিফ আকবরের গাড়িতে গুলির ঘটনার তদন্ত করছে",
+          "ঘটনায় জড়িতদের শনাক্ত করে আইনের আওতায় আনার নির্দেশ দেওয়া হয়েছে",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী দ্রুততম সময়ের মধ্যে অপরাধীদের গ্রেফতারে অভিযান পরিচালনা করছে"
         ],
         "bullets_en": [
-          "Bangladesh faced strong European side Wales in their group stage opening match.",
-          "Bangladesh missed a golden scoring opportunity in the first half of the match.",
-          "Bangladesh will face Portugal in their upcoming fixture in the tournament."
+          "Multiple police teams are investigating the shooting incident targeting singer Asif Akber car",
+          "Law enforcement has been directed to identify and bring the culprits to justice",
+          "Security forces are conducting operations to apprehend the perpetrators as soon as possible"
         ],
-        "impact_bn": "তরুণ ফুটবলারদের এই পারফরম্যান্স দেশের ফুটবলের ভবিষ্যতের জন্য নতুন আশার সঞ্চার করেছে।",
-        "impact_en": "This performance by young footballers inspires renewed confidence in the country's football future.",
-        "details_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যাল ২০২৬ আসরে অংশ নিচ্ছে বাংলাদেশ দল। ফাহিম হাসানের নেতৃত্বে খেলতে নামা যুব টাইগাররা টুর্নামেন্টের উদ্বোধনী ম্যাচে ইউরোপের শক্তিশালী প্রতিপক্ষ ওয়েলসের বিপক্ষে চমৎকার লড়াই করে। ম্যাচে বেশ কয়েকটি সুযোগ তৈরি করলেও তা কাজে লাগাতে পারেনি বাংলাদেশ। তবে রক্ষণভাগের দৃঢ়তায় কোনো গোল হজম না করে ড্র নিয়ে মাঠ ছাড়ে দল। পরবর্তীতে তারা শক্তিশালী পর্তুগালের বিপক্ষে ম্যাচ খেলতে নামবে।",
-        "details_en": "Bangladesh team is participating in the FIFA U-15 World Cup and Football Festival 2026. Led by Fahim Hasan, the young Tigers put up a strong fight against European opponents Wales in their opening match. Although Bangladesh created several scoring chances, they failed to capitalize on them. Solid defensive performance ensured a clean sheet and a point, with a crucial upcoming match against Portugal scheduled next."
+        "impact_bn": "এই ধরনের অপরাধমূলক ঘটনা জননিরাপত্তা নিয়ে উদ্বেগের সৃষ্টি করায় নাগরিকদের মধ্যে আইনশৃঙ্খলা পরিস্থিতির উন্নয়ন নিয়ে সচেতনতা বাড়িয়েছে।",
+        "impact_en": "Such criminal incidents raise public safety concerns and heighten awareness regarding the need for improved law and order.",
+        "details_bn": "জনপ্রিয় সংগীতশিল্পী ও বাংলাদেশ ক্রিকেট বোর্ডের সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলির ঘটনা ঘটে। এই আকস্মিক হামলার পর সংগীত অঙ্গন ও সাধারণ মানুষের মধ্যে চাঞ্চল্যের সৃষ্টি হয়। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার প্রকৃত কারণ উদঘাটন এবং অপরাধীদের ধরতে তৎপরতা জোরদার করেছে।",
+        "details_en": "Shots were fired targeting the personal car of popular singer and former Bangladesh Cricket Board director Asif Akber, triggering widespread concern among artists and citizens. Law enforcement agencies have intensified efforts to uncover the motive behind the attack and apprehend the culprits."
       }
     },
     {
-      "story_id": "1e58feaa-2773-596a-8496-90bd24367dc6",
-      "primary_category": "society_education",
+      "story_id": "37c302fd-4183-53b9-a08e-2293f5765fdf",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T06:53:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9034,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1171344",
+          "title": "ইসলামপন্থিদের মধ্যে মতপার্থক্য নিরসনে কার্যকর উদ্যোগ নিতে হবে",
+          "snippet": "ইসলামপন্থিদের মধ্যে মতপার্থক্য নিরসনে কার্যকর উদ্যোগ নিতে হবে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসলামপন্থিদের পারস্পরিক দ্বন্দ্ব ভুলে ঐক্যবদ্ধ হওয়ার আহ্বান মাওলানা মামুনুল হকের",
+        "title_en": "Maulana Mamunul Haque Urges Islamist Groups to Resolve Differences and Unite",
+        "summary_bn": "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক ইসলামপন্থিদের পারস্পরিক বিভেদ দূর করে ঐক্যবদ্ধভাবে কাজ করার আহ্বান জানিয়েছেন।",
+        "summary_en": "Bangladesh Khilafah Majlish Emir Maulana Mamunul Haque called upon Islamist groups to overcome mutual conflicts and work collectively.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T06:53:42+00:00",
+        "lead_bn": "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক ইসলামপন্থিদের পারস্পরিক বিভেদ দূর করে ঐক্যবদ্ধভাবে কাজ করার আহ্বান জানিয়েছেন।",
+        "lead_en": "Bangladesh Khilafah Majlish Emir Maulana Mamunul Haque called upon Islamist groups to overcome mutual conflicts and work collectively.",
+        "bullets_bn": [
+          "ইসলামপন্থিদের পারস্পরিক কলহ, দ্বন্দ্ব ও বিভেদ দূর করার ওপর জোর দেওয়া হয়েছে",
+          "ঐক্যবদ্ধ প্রচেষ্টার মাধ্যমে দেশের বিপুল সম্ভাবনাকে কাজে লাগানোর আহ্বান জানিয়েছেন বাংলাদেশ খেলাফত মজলিসের আমির",
+          "মতপার্থক্য নিরসনে কার্যকর উদ্যোগ গ্রহণের মাধ্যমে ঐক্য প্রতিষ্ঠার ওপর গুরুত্ব আরোপ করা হয়"
+        ],
+        "bullets_en": [
+          "Emphasized the elimination of mutual conflicts, disputes, and divisions among Islamist factions",
+          "The Bangladesh Khilafah Majlish Emir urged utilizing vast potentials through united efforts",
+          "Stressed the importance of taking effective initiatives to resolve differences and establish unity"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দেশের বিভিন্ন ইসলামপন্থি রাজনৈতিক ও সামাজিক দলের মধ্যে দীর্ঘদিন ধরে আদর্শগত ও কৌশলগত নানা বিষয়ে মতপার্থক্য ও বিভক্তি দেখা গেছে। এই প্রেক্ষাপটে বিভিন্ন দল ও সংগঠনের শীর্ষ নেতারা প্রায়ই বৃহত্তর ঐক্যের প্রয়োজনীয়তার কথা তুলে ধরেছেন, যা রাজনৈতিক অঙ্গনে পারস্পরিক সমঝোতা বাড়াতে এবং বিভিন্ন সামাজিক ইস্যুতে সম্মিলিত অবস্থান নিতে ভূমিকা রাখতে পারে বলে মনে করছেন সংশ্লিষ্টরা।",
+        "details_en": "Ideological and strategic differences have long existed among various Islamist political and social organizations in the country. In this context, top leaders from different groups frequently highlight the necessity of broader unity, which observers believe could foster mutual understanding in the political arena and enable collective stances on various social issues."
+      }
+    },
+    {
+      "story_id": "58c5785e-f44f-538e-8715-a2b450916cdb",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
         "world_diplomacy"
       ],
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Ebola-vaccine.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fxohveouf%2FHouthi.avif?rect=0%2C38%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T05:47:38+00:00",
+      "published_at": "2026-10-24T06:40:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8497,
+      "rank_score": 0.791,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/first-clinical-trial-of-ebola-vaccine-begins-in-congo-world-health-organization/",
-          "title": "কঙ্গোতে ইবোলা টিকার প্রথম ক্লিনিক্যাল ট্রায়াল শুরু: বিশ্ব স্বাস্থ্য সংস্থা",
-          "snippet": "কঙ্গোতে ইবোলা টিকার প্রথম ক্লিনিক্যাল ট্রায়াল শুরু: বিশ্ব স্বাস্থ্য সংস্থা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/7qtold4dh0",
+          "title": "ড্রোন বা ক্ষেপণাস্ত্র নয়, সৌদি আরবের বিরুদ্ধে হুতিদের হাতে এবার ভিন্ন এক অস্ত্র",
+          "snippet": "ড্রোন বা ক্ষেপণাস্ত্র নয়, সৌদি আরবের বিরুদ্ধে হুতিদের হাতে এবার ভিন্ন এক অস্ত্র"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কঙ্গোতে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথম ক্লিনিক্যাল ট্রায়াল শুরু করেছে ডব্লিউএইচও",
-        "title_en": "WHO Launches First Clinical Trial Against Ebola Outbreak in DR Congo",
-        "summary_bn": "বিশ্ব স্বাস্থ্য সংস্থা কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথমবারের মতো এরভেবো টিকার ক্লিনিক্যাল ট্রায়াল শুরু করেছে।",
-        "summary_en": "The World Health Organization has launched the first clinical trial of the Ervebo vaccine to combat the Ebola outbreak in DR Congo.",
+        "title_bn": "সৌদি আরবের বিরুদ্ধে নতুন প্রচারযুদ্ধে এপস্টিনের নথি ব্যবহার করছে হুতিরা",
+        "title_en": "Houthis Use Jeffrey Epstein Files in Propaganda Campaign Against Saudi Arabia",
+        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের বিরুদ্ধে সামরিক হামলার পাশাপাশি সামাজিক যোগাযোগমাধ্যমে তীব্র প্রচারযুদ্ধ শুরু করেছে।",
+        "summary_en": "Yemen's Houthi rebels have launched a massive digital propaganda campaign against Saudi Arabia using Jeffrey Epstein's files.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:47:38+00:00",
-        "lead_bn": "বিশ্ব স্বাস্থ্য সংস্থা কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথমবারের মতো এরভেবো টিকার ক্লিনিক্যাল ট্রায়াল শুরু করেছে।",
-        "lead_en": "The World Health Organization has launched the first clinical trial of the Ervebo vaccine to combat the Ebola outbreak in DR Congo.",
+        "published_at": "2026-10-24T06:40:00+00:00",
+        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের বিরুদ্ধে সামরিক হামলার পাশাপাশি সামাজিক যোগাযোগমাধ্যমে তীব্র প্রচারযুদ্ধ শুরু করেছে।",
+        "lead_en": "Yemen's Houthi rebels have launched a massive digital propaganda campaign against Saudi Arabia using Jeffrey Epstein's files.",
         "bullets_bn": [
-          "ইতুরি প্রদেশের রাজধানী বুনিয়ায় অংশগ্রহণকারীদের এরভেবো টিকা দেওয়ার মাধ্যমে এই ট্রায়াল কার্যক্রম শুরু হয়।",
-          "বর্তমান প্রাদুর্ভাবের কারণ বুন্দিবুগিও ভাইরাসের বিরুদ্ধে এই টিকার ক্রস-প্রতিরোধ ক্ষমতা পরীক্ষা করা হচ্ছে।",
-          "পরীক্ষায় অক্সফোর্ড এবং মডার্নার তৈরি আরও দুটি সম্ভাব্য টিকা যুক্ত করার পরিকল্পনা রয়েছে।"
+          "সৌদি নেতৃত্বের ভাবমূর্তি ক্ষুণ্ন করতে মার্কিন যৌন অপরাধী জেফরি এপস্টিনের নথি প্রচার করছে হুতি বিদ্রোহীরা।",
+          "হুতি প্রেসিডেন্ট মাহদি আল-মাশাত দাবি করেন, সৌদি রাজপরিবারের সাথে জড়িত ব্যক্তিরা পবিত্র কাবার গিলাফ এপস্টিনের দ্বীপে পাঠিয়েছিলেন।",
+          "হুতিরা তাদের টেলিভিশন, রেডিও ও সামাজিক যোগাযোগমাধ্যম নেটওয়ার্কে এই প্রচারণা সুসংগঠিতভাবে ছড়িয়ে দিচ্ছে।"
         ],
         "bullets_en": [
-          "The clinical trial commenced in Bunia, the capital of Ituri province, by administering the Ervebo vaccine to participants.",
-          "The trial tests cross-protection against the Bundibugyo virus strain driving the current outbreak.",
-          "Plans are underway to include two additional candidate vaccines developed by Oxford University and Moderna."
+          "Houthi rebels are utilizing documents related to late US sex offender Jeffrey Epstein to damage Saudi leadership's image.",
+          "Houthi President Mahdi al-Mashat claimed individuals linked to Saudi royalty sent the Kaaba kiswa to Epstein's island.",
+          "The group is systematically spreading this propaganda through television, radio, and organized social media networks."
         ],
-        "impact_bn": "এই পরীক্ষা সফল হলে ঝুঁকিপূর্ণ জনগোষ্ঠী, গর্ভবতী নারী ও শিশুরা নতুন ইবোলা স্ট্রেইনের বিরুদ্ধে কার্যকর সুরক্ষা পাবে।",
-        "impact_en": "Successful trials will provide vulnerable populations, pregnant women, and children with effective protection against the new Ebola strain.",
-        "details_bn": "চলতি বছরের মে মাসে কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলার সপ্তদশ প্রাদুর্ভাব ঘোষণা করা হয়। এরপর দেশটিতে ৯ হাজার ৭০০ এর বেশি সংক্রমণ এবং ৪ হাজার ৬০০ এর বেশি মানুষের মৃত্যু হয়েছে। রোগটি আফ্রিকার চারটি দেশে ছড়িয়ে পড়ার পর বিশ্ব স্বাস্থ্য সংস্থা আন্তর্জাতিক উদ্বেগজনক জনস্বাস্থ্য জরুরি অবস্থা জারি করে। এর পরিপ্রেক্ষিতে বিশ্ব স্বাস্থ্য সংস্থা এবং অংশীদাররা ঝুঁকিপূর্ণ মানুষকে সুরক্ষা দিতে এবং বৈজ্ঞানিক তথ্য সংগ্রহ করতে এই বিশেষ টুমাইনি ট্রায়াল শুরু করেছে।",
-        "details_en": "The seventeenth Ebola outbreak in the Democratic Republic of Congo was declared in May, leading to over 9,700 infections and 4,600 deaths across four African countries, prompting the WHO to declare a public health emergency of international concern. In response, the WHO initiated the Tumaini trial to gather reliable scientific data and evaluate vaccine efficacy to protect at-risk populations."
-      }
-    },
-    {
-      "story_id": "cbb02cb4-1e96-508d-80cd-a4a29402af49",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T05:46:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.843,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/tech-and-gadget/976365/%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%A6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0",
-          "title": "সোশ্যাল মিডিয়ার অ্যালগরিদমের ফাঁদ থেকে শিশুদের রক্ষা করবেন যেভাবে",
-          "snippet": "সোশ্যাল মিডিয়ার অ্যালগরিদমের ফাঁদ থেকে শিশুদের রক্ষা করবেন যেভাবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ফাঁদ থেকে রক্ষা করার উপায়",
-        "title_en": "Ways to Protect Children from Harmful Social Media Algorithm Traps",
-        "summary_bn": "সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ও আসক্তি থেকে শিশু-কিশোরদের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সচেতন হওয়ার পরামর্শ দেওয়া হয়েছে।",
-        "summary_en": "Guardians are advised to protect children's mental health from harmful social media algorithms and addiction.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:46:49+00:00",
-        "lead_bn": "সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ও আসক্তি থেকে শিশু-কিশোরদের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সচেতন হওয়ার পরামর্শ দেওয়া হয়েছে।",
-        "lead_en": "Guardians are advised to protect children's mental health from harmful social media algorithms and addiction.",
-        "bullets_bn": [
-          "সামাজিক যোগাযোগমাধ্যমের অ্যালগরিদম শিশু-কিশোরদের একই ধরনের ক্ষতিকর কনটেন্ট বারবার সামনে আনে।",
-          "দীর্ঘ সময় স্ক্রিনে আসক্তি কিশোরদের আত্মবিশ্বাস ও মানসিক স্বাস্থ্যের ওপর গুরুতর নেতিবাচক প্রভাব ফেলে।",
-          "অভিভাবকদের উচিত শিশুদের অনলাইন কার্যক্রম মনিটরিং করা এবং স্ক্রিন টাইম নির্দিষ্ট করে দেওয়া।"
-        ],
-        "bullets_en": [
-          "Social media algorithms repeatedly expose children and teenagers to harmful and repetitive content.",
-          "Extended screen addiction severely impacts teenagers' self-esteem and overall mental health.",
-          "Guardians should monitor children's online activities and establish strict daily screen time limits."
-        ],
-        "impact_bn": "এটি শিশুদের মানসিক অবসাদ ও অবাস্তব জীবনযাপনের তুলনা থেকে রক্ষা করতে সহায়তা করবে।",
-        "impact_en": "This will help protect children from mental depression and unrealistic lifestyle comparisons.",
-        "details_bn": "বর্তমান ডিজিটাল যুগে ফেসবুক, ইনস্টাগ্রাম, টিকটক ও ইউটিউবের মতো প্ল্যাটফর্মগুলো ব্যবহারকারীর পছন্দ বিশ্লেষণ করে কনটেন্ট পরিবেশন করে। এর ফলে শিশু-কিশোরেরা অনেক সময় অজান্তেই ক্ষতিকর ও আসক্তি সৃষ্টিকারী কনটেন্টের সংস্পর্শে চলে যায়, যা তাদের স্বাভাবিক বিকাশকে বাধাগ্রস্ত করে। বিশেষজ্ঞদের মতে, সঠিক গাইডলাইন এবং অফলাইন কার্যক্রমে সম্পৃক্ততার মাধ্যমে এই ঝুঁকি কমানো সম্ভব।",
-        "details_en": "In the modern digital era, platforms like Facebook, Instagram, TikTok, and YouTube deliver content based on user preferences. Consequently, children and teenagers often get exposed to harmful and addictive content unintentionally, hindering their normal development. According to experts, minimizing this risk is possible through proper guidelines and engagement in offline activities."
-      }
-    },
-    {
-      "story_id": "ead3e924-e768-5884-8794-8820d03033c8",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T05:42:16+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8072,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976364/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%A8%E0%A7%8C%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%C2%A0",
-          "title": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ, নৌযানকে সতর্কবার্তা",
-          "snippet": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ, নৌযানকে সতর্কবার্তা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ সৃষ্টি, নৌযানগুলোকে গভীর সমুদ্রে যেতে সতর্কবার্তা",
-        "title_en": "Clear Low-Pressure Area Forms in Bay of Bengal, Watercraft Warned",
-        "summary_bn": "বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপের কারণে গভীর সমুদ্রে চলাচলকারী নৌযানগুলোকে সতর্ক থাকার নির্দেশ দিয়েছে আবহাওয়া অধিদফতর।",
-        "summary_en": "The meteorological department has issued a warning for watercraft operating in deep sea following a low-pressure area in the Bay of Bengal.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T05:42:16+00:00",
-        "lead_bn": "বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপের কারণে গভীর সমুদ্রে চলাচলকারী নৌযানগুলোকে সতর্ক থাকার নির্দেশ দিয়েছে আবহাওয়া অধিদফতর।",
-        "lead_en": "The meteorological department has issued a warning for watercraft operating in deep sea following a low-pressure area in the Bay of Bengal.",
-        "bullets_bn": [
-          "পূর্বমধ্য ও দক্ষিণ-পূর্ব বঙ্গোপসাগর এলাকায় একটি সুস্পষ্ট লঘুচাপ সৃষ্টি হয়েছে।",
-          "সৃষ্ট লঘুচাপটি আরও পশ্চিম-উত্তর-পশ্চিম দিকে অগ্রসর ও ঘনীভূত হতে পারে বলে জানিয়েছে আবহাওয়া অফিস।",
-          "ঝুঁকি এড়াতে মাছ ধরার নৌকা ও ট্রলারগুলোকে উপকূলের কাছাকাছি থেকে সাবধানে চলাচল করতে বলা হয়েছে।"
-        ],
-        "bullets_en": [
-          "A clear low-pressure area has developed over the east-central and adjoining southeast Bay of Bengal.",
-          "The weather office reported that the low-pressure system may move in a west-northwesterly direction and intensify further.",
-          "Fishing boats and trawlers have been advised to remain close to the coast and operate with caution to avoid risks."
-        ],
-        "impact_bn": "উপকূলীয় এলাকার জেলে ও নৌযাত্রীরা সাময়িক ঝুকির মুখে পড়তে পারেন এবং নদীপথে চলাচল ব্যাহত হতে পারে।",
-        "impact_en": "Coastal fishermen and water commuters may face temporary risks, and maritime transport could be disrupted.",
-        "details_bn": "বঙ্গোপসাগরে মৌসুমী বায়ুর প্রভাবে প্রায়ই লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়, যা পরবর্তীতে সামুদ্রিক ঝড়ে রূপ নিতে পারে। আবহাওয়া অধিদফতর নিয়মিত সামুদ্রিক আবহাওয়া পর্যবেক্ষণের মাধ্যমে সম্ভাব্য বিপদ সম্পর্কে বন্দর ও নৌযানগুলোকে সতর্ক করে থাকে। এই লঘুচাপের গতিপ্রকৃতি পর্যবেক্ষণ করে পরবর্তী নির্দেশনা দেওয়া হবে।",
-        "details_en": "Monsoon influences frequently trigger low-pressure systems in the Bay of Bengal, which can escalate into maritime storms. The meteorological department continuously monitors marine weather to alert ports and vessels about potential hazards. Further directives will be issued based on the trajectory of this system."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের ইরান-সমর্থিত হুতি বিদ্রোহীরা সৌদি আরবের বিরুদ্ধে প্রচলিত সামরিক হামলার বাইরে এবার মনস্তাত্ত্বিক ও প্রচারযুদ্ধ শুরু করেছে। যুক্তরাষ্ট্রের বিচার বিভাগ প্রকাশিত জেফরি এপস্টিনের বিভিন্ন নথির অপব্যবহার করে তারা সৌদি রাজপরিবারের বিরুদ্ধে মনগড়া অভিযোগ তুলছে। বিশ্লেষকদের মতে, যুক্তরাষ্ট্র ও ইসরায়েলের বিরুদ্ধে জনমত তৈরি এবং ইহুদিবিদ্বেষী ষড়যন্ত্র তত্ত্ব ছড়াতেই হুতিরা এপস্টিনের নাম প্রচারণায় হাতিয়ার হিসেবে ব্যবহার করছে। সৌদি আরব এ বিষয়ে কোনো আনুষ্ঠানিক মন্তব্য করেনি।",
+        "details_en": "Yemen's Iran-backed Houthi rebels have expanded their conflict with Saudi Arabia into the digital and psychological warfare domain. By misusing recently released US Department of Justice files concerning Jeffrey Epstein, the group is fabricating allegations against the Saudi royal family. Analysts note that the Houthis are leveraging Epstein's notoriety to fuel anti-Western and antisemitic conspiracy narratives. Saudi authorities have not issued any official response to these allegations."
       }
     }
   ]
