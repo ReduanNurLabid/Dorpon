@@ -1,119 +1,117 @@
 {
-  "updated_at": "2026-10-24T05:00:47.352757",
+  "updated_at": "2026-10-24T06:00:47.572421",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d328d7e9-3daa-5821-91b4-26ba84df2845",
-      "primary_category": "world_diplomacy",
+      "story_id": "4ee8a349-dcc0-575d-b12f-7740e1c93711",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
         "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A6%A3%E0%A7%8D%E0%A6%A0%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%96%E0%A7%8B%E0%A6%81.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T04:59:27+00:00",
+      "published_at": "2026-10-24T05:47:36+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9178,
+      "importance_score": 6.6,
+      "rank_score": 2.3359,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/macron-calls-shooting-incident-on-the-outskirts-of-paris-a-terrorist-attack/",
-          "title": "প্যারিসের উপকণ্ঠে গুলির ঘটনাকে ‘বর্ণবাদী সন্ত্রাসী’ হামলা বললেন মাখোঁ",
-          "snippet": "প্যারিসের উপকণ্ঠে গুলির ঘটনাকে ‘বর্ণবাদী সন্ত্রাসী’ হামলা বললেন মাখোঁ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/law-courts/news/1171323",
+          "title": "সুপ্রিম কোর্ট খোলার প্রথম দিন রোববার বন্ধ থাকবে আপিল বিভাগের কার্যক্রম",
+          "snippet": "সুপ্রিম কোর্ট খোলার প্রথম দিন রোববার বন্ধ থাকবে আপিল বিভাগের কার্যক্রম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্যারিসের উপকণ্ঠে বন্দুক হামলায় ফরাসি প্রেসিডেন্টের নিন্দা ও বর্ণবাদী সন্ত্রাসী হামলার স্বীকৃতি",
-        "title_en": "French President Condemns Paris Suburb Shooting as Racist Terror Attack",
-        "summary_bn": "ফ্রান্সের প্যারিস উপকণ্ঠে বন্দুক হামলায় একজন নিহত ও পাঁচজন আহত হওয়ার ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা বলে অভিহিত করেছেন প্রেসিডেন্ট এমানুয়েল মাখোঁ।",
-        "summary_en": "French President Emmanuel Macron condemned a suburb shooting in Paris that left one dead and five injured as a racist terror attack.",
+        "title_bn": "সুপ্রিম কোর্টের আপিল বিভাগের বিচারিক কার্যক্রম প্রথম কার্যদিবসে বন্ধ থাকবে",
+        "title_en": "Supreme Court Appellate Division Judicial Proceedings Closed on Reopening Day",
+        "summary_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষে সুপ্রিম কোর্টের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম স্থগিত রাখা হয়েছে।",
+        "summary_en": "The judicial proceedings of the Supreme Court Appellate Division remain suspended on the first working day after vacation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:59:27+00:00",
-        "lead_bn": "ফ্রান্সের প্যারিস উপকণ্ঠে বন্দুক হামলায় একজন নিহত ও পাঁচজন আহত হওয়ার ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা বলে অভিহিত করেছেন প্রেসিডেন্ট এমানুয়েল মাখোঁ।",
-        "lead_en": "French President Emmanuel Macron condemned a suburb shooting in Paris that left one dead and five injured as a racist terror attack.",
+        "published_at": "2026-10-24T05:47:36+00:00",
+        "lead_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষে সুপ্রিম কোর্টের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম স্থগিত রাখা হয়েছে।",
+        "lead_en": "The judicial proceedings of the Supreme Court Appellate Division remain suspended on the first working day after vacation.",
         "bullets_bn": [
-          "প্যারিসের উপকণ্ঠে এলোপাতাড়ি গুলিতে একজন নিহত এবং ১২ বছরের এক কিশোরীসহ পাঁচজন আহত হন।",
-          "ফরাসি প্রেসিডেন্ট এমানুয়েল মাখোঁ এই ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা হিসেবে অভিহিত করে এর তীব্র নিন্দা জানান।",
-          "অভিযুক্ত ৩৯ বছর বয়সী সন্দেহভাজন হামলাকারীকে পুলিশ গ্রেপ্তার করেছে এবং ঘটনার উদ্দেশ্য খতিয়ে দেখা হচ্ছে।"
+          "ছুটি শেষে আদালতের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম বন্ধ রাখার সিদ্ধান্ত নেওয়া হয়েছে।",
+          "প্রধান বিচারপতিসহ আপিল ও হাইকোর্ট বিভাগের বিচারপতিরা আইনজীবীদের সাথে সৌজন্য সাক্ষাতে অংশ নেবেন।",
+          "নির্ধারিত সূচি অনুযায়ী পরবর্তী কার্যদিবসে আপিল বিভাগের নিয়মিত বিচারিক কার্যক্রম পুনরায় চালু হবে।"
         ],
         "bullets_en": [
-          "One person was killed and five others, including a 12-year-old girl, were injured in random shootings in Paris suburbs.",
-          "French President Emmanuel Macron strongly condemned the incident, designating it as a racist terrorist attack.",
-          "Police arrested the 39-year-old suspected gunman as authorities launched an investigation into the motive."
+          "Judicial proceedings of the Appellate Division are suspended on the first working day following the vacation.",
+          "The Chief Justice and judges of both divisions will participate in a courtesy meeting with lawyers.",
+          "Regular judicial proceedings of the Appellate Division will resume on the next scheduled working day."
         ],
-        "impact_bn": "ফ্রান্সে বসবাসরত অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীর মধ্যে নিরাপত্তা নিয়ে উদ্বেগ ও আতঙ্ক তৈরি হয়েছে।",
-        "impact_en": "Heightened security concerns and fear have emerged among immigrant and minority communities living in France.",
-        "details_bn": "ফ্রান্সের রাজধানী প্যারিসের দক্ষিণ-পশ্চিমে ত্রাপ ও লা ভেরিয়ের এলাকায় গাড়ি চালিয়ে প্রায় ১৫ মিনিট ধরে নির্বিচারে গুলি চালান এক বন্দুকধারী। অভিবাসী বংশোদ্ভূত ও নির্দিষ্ট ধর্মীয় পরিচয়ের মানুষদের লক্ষ্য করে এই হামলা চালানো হয় বলে প্রাথমিক তদন্তে জানা গেছে। ফরাসি জাতীয় সন্ত্রাসবিরোধী কৌঁসুলির দপ্তর ঘটনাটি সন্ত্রাসী কর্মকাণ্ড হিসেবে খতিয়ে দেখছে। সন্দেহভাজন হামলাকারীর বিরুদ্ধে পূর্বে অপরাধের রেকর্ড ছিল।",
-        "details_en": "A gunman opened fire indiscriminately from a car across the Trappes and La Verriere areas in the southwestern suburbs of Paris for about 15 minutes. Preliminary investigations suggest the attack targeted people of immigrant descent and specific religious backgrounds. The French national counter-terrorism prosecutor's office is investigating the incident as a potential terrorist act. The detained suspect has a prior criminal record."
+        "impact_bn": "আইনজীবীদের উপস্থিতি ও বিচারপ্রার্থীদের নির্দিষ্ট মামলা শুনানির জন্য পরবর্তী কার্যদিবসের জন্য অপেক্ষা করতে হবে।",
+        "impact_en": "Lawyers and litigants awaiting hearings must adjust schedules as regular proceedings resume on the next working day.",
+        "details_bn": "দীর্ঘ অবকাশকালীন ছুটির পর সুপ্রিম কোর্ট খোলার দিনটি সাধারণত বিচারপতি ও আইনজীবীদের সৌজন্য সাক্ষাতের মাধ্যমে উদযাপিত হয়। ঐতিহ্যগতভাবে এই দিনটিতে বিচারিক কার্যক্রমের চেয়ে শুভেচ্ছা বিনিময় ও আনুষ্ঠানিকতা বেশি গুরুত্ব পায়, ফলে আপিল বিভাগের নিয়মিত বিচারিক কার্যক্রম সাময়িকভাবে বন্ধ থাকে।",
+        "details_en": "The reopening day of the Supreme Court following long vacations is traditionally marked by courtesy meetings between judges and lawyers. Such protocol events typically take precedence over courtroom proceedings, leading to the temporary suspension of judicial sessions in the Appellate Division."
       }
     },
     {
-      "story_id": "acabdf87-1a40-5238-b804-e14099b2908a",
-      "primary_category": "world_diplomacy",
+      "story_id": "ae53a985-e1f6-59ff-9eef-93f6fc9dc37f",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/4d4irq8o_houthi_625x300_23_October_26.webp?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T04:52:22+00:00",
+      "published_at": "2026-10-24T05:32:08+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7817,
+      "rank_score": 1.473,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/emergency-alert-in-saudi-arabia-following-attack-in-riyadh-houthis-unveil-new-weapon-epstein/",
-          "title": "রিয়াদে হামলায় সৌদি আরবে জরুরি সতর্কতা, হুথিদের নতুন কৌশল ‘এপস্টেইন’",
-          "snippet": "রিয়াদে হামলায় সৌদি আরবে জরুরি সতর্কতা, হুথিদের নতুন কৌশল ‘এপস্টেইন’"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976363/%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A7%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AE",
+          "title": "‘থানার সামনে থেকে আটক যুবলীগ নেতাকর্মীদের বিরুদ্ধে ব্যবস্থা নেওয়া হচ্ছে’",
+          "snippet": "‘থানার সামনে থেকে আটক যুবলীগ নেতাকর্মীদের বিরুদ্ধে ব্যবস্থা নেওয়া হচ্ছে’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে হুথিদের ক্ষেপণাস্ত্র হামলা প্রতিহত, রিয়াদে জরুরি সতর্কতা জারি",
-        "title_en": "Saudi Air Defense Intercepts Houthi Missile, Issues Emergency Alert in Riyadh",
-        "summary_bn": "সৌদি নেতৃত্বাধীন জোট রিয়াদসহ তিনটি এলাকায় হুথিদের ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করেছে এবং দেশটিতে জরুরি সতর্কতা জারি করা হয়েছে।",
-        "summary_en": "The Saudi-led coalition intercepted a ballistic missile fired by Houthi rebels targeting Riyadh, prompting emergency alerts across three areas.",
+        "title_bn": "শ্রীপুরে নিষিদ্ধ যুবলীগের আট নেতাকর্মী আটক",
+        "title_en": "Eight Jubo League Activists Detained in Sreepur",
+        "summary_bn": "গাজীপুরের শ্রীপুরে নিষিদ্ধ ঘোষিত আওয়ামী লীগের অঙ্গসংগঠন যুবলীগের আট নেতাকর্মীকে আটক করে পুলিশের কাছে সোপর্দ করা হয়েছে।",
+        "summary_en": "Eight activists of the banned Awami League affiliate Jubo League were detained and handed over to police in Sreepur, Gazipur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:52:22+00:00",
-        "lead_bn": "সৌদি নেতৃত্বাধীন জোট রিয়াদসহ তিনটি এলাকায় হুথিদের ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করেছে এবং দেশটিতে জরুরি সতর্কতা জারি করা হয়েছে।",
-        "lead_en": "The Saudi-led coalition intercepted a ballistic missile fired by Houthi rebels targeting Riyadh, prompting emergency alerts across three areas.",
+        "published_at": "2026-10-24T05:32:08+00:00",
+        "lead_bn": "গাজীপুরের শ্রীপুরে নিষিদ্ধ ঘোষিত আওয়ামী লীগের অঙ্গসংগঠন যুবলীগের আট নেতাকর্মীকে আটক করে পুলিশের কাছে সোপর্দ করা হয়েছে।",
+        "lead_en": "Eight activists of the banned Awami League affiliate Jubo League were detained and handed over to police in Sreepur, Gazipur.",
         "bullets_bn": [
-          "সৌদি জোটের আকাশ প্রতিরক্ষাব্যবস্থা রিয়াদকে লক্ষ্য করে ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র সফলভাবে প্রতিহত ও ধ্বংস করে।",
-          "নিরাপত্তাজনিত কারণে রিয়াদ, নাজরান ও ওয়াদি আল-দাওয়াসির এলাকায় তাৎক্ষণিক জরুরি সতর্কতা জারি করে বেসামরিক প্রতিরক্ষা কর্তৃপক্ষ।",
-          "সামরিক পদক্ষেপের পাশাপাশি জেফরি এপস্টেইন-সংশ্লিষ্ট নথি ব্যবহার করে সৌদি আরবের বিরুদ্ধে নতুন প্রচারণা শুরু করেছে হুথিরা।"
+          "নিষিদ্ধ সংগঠনের পক্ষে মিছিল করার সময় শ্রীপুর থানা ফটকসংলগ্ন এলাকা থেকে আটজনকে আটক করা হয়।",
+          "আটক ব্যক্তিদের মধ্যে চারজনের নাম পাওয়া গেছে যারা হলেন আতিকুর রহমান, আরিফুল ইসলাম, জুনাইদ মিয়া ও মোমেন।",
+          "আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করেছে পুলিশ।"
         ],
         "bullets_en": [
-          "The Saudi-led coalition air defense successfully intercepted and destroyed a ballistic missile targeting Riyadh.",
-          "Civil defense authorities issued emergency alerts in Riyadh, Najran, and Wadi al-Dawasir following the missile threat.",
-          "Houthi rebels have launched a new propaganda campaign against Saudi Arabia using Jeffrey Epstein-related documents."
+          "Eight individuals were detained near the Sreepur police station gate while marching for the banned organization.",
+          "Four of the detained activists have been identified as Atiqur Rahman, Ariful Islam, Junaid Mia, and Momen.",
+          "Police have initiated legal action against the detained individuals."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে বাড়তি সতর্কতা অবলম্বনের তাগিদ তৈরি হয়েছে।",
-        "impact_en": "The escalation highlights regional security risks and necessitates heightened caution for expatriate communities in the Gulf region.",
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সৌদি আরবকে লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। সাম্প্রতিক সময়ে সামরিক পদক্ষেপের পাশাপাশি রাজনৈতিক ও ধর্মীয় সংবেদনশীলতা উসকে দিতে যুক্তরাষ্ট্রের জেফরি এপস্টেইন-সংশ্লিষ্ট নথিগুলোকে প্রচারণার নতুন হাতিয়ার হিসেবে ব্যবহার করছে গোষ্ঠীটি। কাবা শরিফের গিলাফ সংক্রান্ত একটি উপহারের বিতর্ককে কেন্দ্র করে সৌদি রাজদরবারকে বিব্রত করার চেষ্টা চালাচ্ছে তারা। তবে সৌদি আরব এই বিষয়ে প্রকাশ্যে কোনো প্রতিক্রিয়া জানায়নি।",
-        "details_en": "Yemen's Houthi rebels have frequently targeted Saudi Arabia with drones and ballistic missiles amid ongoing regional conflicts. Alongside military actions, the group has weaponized controversial documents related to Jeffrey Epstein to launch a psychological propaganda campaign against the Saudi leadership. By exploiting sensitive religious symbols like the Kaaba, the rebels aim to damage Saudi Arabia's international standing, though Riyadh has chosen not to publicly respond to these claims."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে নিষিদ্ধ সংগঠনের তৎপরতার বিরুদ্ধে কঠোর অবস্থান বজায় রাখা হচ্ছে।",
+        "impact_en": "A strict stance is being maintained against the activities of banned organizations to keep law and order stable.",
+        "details_bn": "ছাত্র-জনতার অভ্যুত্থানের পর থেকে আওয়ামী লীগ ও এর অঙ্গসংগঠনগুলোর কার্যক্রম নিষিদ্ধ রয়েছে। এর আগেও বিভিন্ন এলাকায় নাশকতামূলক বা মিছিলের প্রস্তুতির সময় নিষিদ্ধ সংগঠনের নেতাকর্মীদের আটক করে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাতে সোপর্দ করার ঘটনা ঘটেছে। সাম্প্রতিক এই ঘটনায় স্থানীয় প্রশাসন নিরাপত্তা জোরদার করেছে এবং জড়িতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া অব্যাহত রয়েছে।",
+        "details_en": "Activities of the Awami League and its associated bodies have remained banned following the mass uprising. Security forces have previously detained activists from the banned organization in various areas during unauthorized gatherings or processions. Local administration has heightened security following this incident and pursued legal actions against those involved."
       }
     },
     {
-      "story_id": "db93b55e-424c-5fbf-8eeb-a7072fb9ed1b",
+      "story_id": "294d0ec3-656d-5443-a098-72ec42687712",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness"
@@ -122,212 +120,214 @@
         "#Sports",
         "#BangladeshCricket"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Bangladesh-19.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T04:58:32+00:00",
+      "published_at": "2026-10-24T05:59:54+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9496,
+      "rank_score": 0.9632,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/entertainment/news/1171301",
-          "title": "গুলির ঘটনায় প্রাণে বাঁচলেন আসিফ আকবর",
-          "snippet": "গুলির ঘটনায় প্রাণে বাঁচলেন আসিফ আকবর"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bangladesh-wales-under-15-world-cup-portugal/",
+          "title": "বিশ্বকাপের প্রথম ম্যাচে ওয়েলসের বিপক্ষে ড্র বাংলাদেশের",
+          "snippet": "বিশ্বকাপের প্রথম ম্যাচে ওয়েলসের বিপক্ষে ড্র বাংলাদেশের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দুর্বৃত্তের গুলিতে প্রাণে বেঁচে গেলেন সংগীতশিল্পী আসিফ আকবর",
-        "title_en": "Singer Asif Akbar Survives Gunshot Attack on Personal Car",
-        "summary_bn": "জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালিয়েছে দুর্বৃত্তরা।",
-        "summary_en": "Popular singer and former BCB director Asif Akbar has narrowly escaped a gun attack on his personal vehicle.",
+        "title_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপে ওয়েলসের বিপক্ষে ড্র করেছে বাংলাদেশ",
+        "title_en": "Bangladesh Draws Against Wales in FIFA U-15 World Cup Opener",
+        "summary_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যালের প্রথম ম্যাচে শক্তিশালী ওয়েলসের সাথে গোলশূন্য ড্র করেছে বাংলাদেশ দল।",
+        "summary_en": "Bangladesh team played a goalless draw against strong Wales in their opening match of the FIFA U-15 World Cup and Football Festival.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:58:32+00:00",
-        "lead_bn": "জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালিয়েছে দুর্বৃত্তরা।",
-        "lead_en": "Popular singer and former BCB director Asif Akbar has narrowly escaped a gun attack on his personal vehicle.",
+        "published_at": "2026-10-24T05:59:54+00:00",
+        "lead_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যালের প্রথম ম্যাচে শক্তিশালী ওয়েলসের সাথে গোলশূন্য ড্র করেছে বাংলাদেশ দল।",
+        "lead_en": "Bangladesh team played a goalless draw against strong Wales in their opening match of the FIFA U-15 World Cup and Football Festival.",
         "bullets_bn": [
-          "দুর্বৃত্তরা জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালায়।",
-          "ঘটনার সময় গাড়িতে উপস্থিত না থাকায় সংগীতশিল্পী আসিফ আকবর অক্ষত ও সম্পূর্ণ নিরাপদ রয়েছেন।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী হামলাকারীদের শনাক্ত ও গ্রেফতারে তদন্ত শুরু করেছে।"
+          "গ্রুপপর্বের প্রথম ম্যাচে ইউরোপের শক্তিশালী দল ওয়েলসের মুখোমুখি হয় ফাহিম হাসানের বাংলাদেশ দল।",
+          "ম্যাচের প্রথমার্ধে একটি সহজ সুযোগ হাতছাড়া করে বাংলাদেশ দল গোলবঞ্চিত হয়।",
+          "বাংলাদেশ দল টুর্নামেন্টের পরবর্তী ম্যাচে পর্তুগালের মুখোমুখি হবে।"
         ],
         "bullets_en": [
-          "Miscreants opened fire targeting the personal vehicle of popular singer and former BCB director Asif Akbar.",
-          "The singer escaped unhurt as he was not inside the vehicle during the time of the attack.",
-          "Law enforcement agencies have launched an investigation to identify and apprehend the attackers."
+          "Bangladesh faced strong European side Wales in their group stage opening match.",
+          "Bangladesh missed a golden scoring opportunity in the first half of the match.",
+          "Bangladesh will face Portugal in their upcoming fixture in the tournament."
         ],
-        "impact_bn": "সাংস্কৃতিক ব্যক্তিত্ব ও ক্রীড়া সংগঠকদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "The incident raises renewed concerns regarding the personal security of cultural figures and sports organizers.",
-        "details_bn": "জনপ্রিয় সংগীতশিল্পী এবং বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) সাবেক পরিচালক আসিফ আকবর দেশের সাংস্কৃতিক অঙ্গনে বেশ পরিচিত মুখ। তার ব্যক্তিগত গাড়ি লক্ষ্য করে এই হামলার ঘটনায় শোবিজ ও ক্রীড়া মহলে চাঞ্চল্যের সৃষ্টি হয়েছে। আইনশৃঙ্খলা বাহিনী ঘটনার প্রকৃত কারণ উদঘাটন ও জড়িতদের আইনের আওতায় আনতে কাজ করছে।",
-        "details_en": "Popular singer and former Bangladesh Cricket Board director Asif Akbar is a prominent figure in the country's cultural arena. This targeted attack on his vehicle has sparked widespread concern within showbiz and sports circles. Law enforcement authorities are actively investigating the incident to determine the motive and bring the perpetrators to justice."
+        "impact_bn": "তরুণ ফুটবলারদের এই পারফরম্যান্স দেশের ফুটবলের ভবিষ্যতের জন্য নতুন আশার সঞ্চার করেছে।",
+        "impact_en": "This performance by young footballers inspires renewed confidence in the country's football future.",
+        "details_bn": "ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফুটবল ফেস্টিভ্যাল ২০২৬ আসরে অংশ নিচ্ছে বাংলাদেশ দল। ফাহিম হাসানের নেতৃত্বে খেলতে নামা যুব টাইগাররা টুর্নামেন্টের উদ্বোধনী ম্যাচে ইউরোপের শক্তিশালী প্রতিপক্ষ ওয়েলসের বিপক্ষে চমৎকার লড়াই করে। ম্যাচে বেশ কয়েকটি সুযোগ তৈরি করলেও তা কাজে লাগাতে পারেনি বাংলাদেশ। তবে রক্ষণভাগের দৃঢ়তায় কোনো গোল হজম না করে ড্র নিয়ে মাঠ ছাড়ে দল। পরবর্তীতে তারা শক্তিশালী পর্তুগালের বিপক্ষে ম্যাচ খেলতে নামবে।",
+        "details_en": "Bangladesh team is participating in the FIFA U-15 World Cup and Football Festival 2026. Led by Fahim Hasan, the young Tigers put up a strong fight against European opponents Wales in their opening match. Although Bangladesh created several scoring chances, they failed to capitalize on them. Solid defensive performance ensured a clean sheet and a point, with a crucial upcoming match against Portugal scheduled next."
       }
     },
     {
-      "story_id": "84a16d53-5b22-5386-8dba-b8d14a17b22b",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T04:57:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9391,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/jago-jobs/news/1171300",
-          "title": "ঢাকায় জনবল নেবে ব্র্যাকনেট, ফ্রেশার প্রার্থীদের আবেদনের সুযোগ",
-          "snippet": "ঢাকায় জনবল নেবে ব্র্যাকনেট, ফ্রেশার প্রার্থীদের আবেদনের সুযোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জুনিয়র এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে ব্র্যাকনেট",
-        "title_en": "BracNet Issues Recruitment Notice for Junior Executive Positions",
-        "summary_bn": "তথ্যপ্রযুক্তি খাতের প্রতিষ্ঠান ব্র্যাকনেট লিমিটেড জুনিয়র এক্সিকিউটিভ বা এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "Information technology firm BracNet Limited has published a recruitment circular for junior executive and executive positions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:57:29+00:00",
-        "lead_bn": "তথ্যপ্রযুক্তি খাতের প্রতিষ্ঠান ব্র্যাকনেট লিমিটেড জুনিয়র এক্সিকিউটিভ বা এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "Information technology firm BracNet Limited has published a recruitment circular for junior executive and executive positions.",
-        "bullets_bn": [
-          "ব্র্যাকনেট লিমিটেডে জুনিয়র এক্সিকিউটিভ ও এক্সিকিউটিভ পদে কর্মী নিয়োগ দেওয়া হবে।",
-          "বিজ্ঞপ্তির শর্ত অনুযায়ী ফ্রেশার প্রার্থীরাও নির্দিষ্ট পদগুলোতে আবেদন করার সুযোগ পাবেন।",
-          "আগ্রহী প্রার্থীরা অনলাইনে নির্দিষ্ট সময়ের মধ্যে আবেদন সম্পন্ন করতে পারবেন।"
-        ],
-        "bullets_en": [
-          "BracNet Limited is hiring personnel for junior executive and executive roles.",
-          "Fresh graduates are eligible to apply for these positions according to the circular.",
-          "Interested candidates can submit their applications online within the designated timeframe."
-        ],
-        "impact_bn": "দেশের তথ্যপ্রযুক্তি খাতে চাকরিপ্রত্যাশী তরুণ ও ফ্রেশারদের জন্য নতুন কর্মসংস্থানের সুযোগ তৈরি হয়েছে।",
-        "impact_en": "New employment opportunities have been created for young job seekers and fresh graduates in the countrys IT sector.",
-        "details_bn": "তথ্যপ্রযুক্তিভিত্তিক সেবা প্রদানে দেশের শীর্ষস্থানীয় প্রতিষ্ঠানগুলোর মধ্যে ব্র্যাকনেট লিমিটেড অন্যতম। প্রতিষ্ঠানটি নিয়মিত তাদের কার্যক্রম সম্প্রসারণের অংশ হিসেবে দক্ষ তরুণ জনবল নিয়োগ দিয়ে থাকে। এর ধারাবাহিকতায় নতুন এই নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে, যা দেশের শিক্ষিত যুবসমাজ ও প্রযুক্তি খাতের পেশাজীবীদের জন্য ক্যারিয়ার গড়ার সুযোগ তৈরি করবে।",
-        "details_en": "BracNet Limited is one of the leading IT service providers in the country. As part of its continuous service expansion, the company frequently recruits skilled young professionals. This newly released recruitment circular creates career development opportunities for educated youth and technology sector professionals in the country."
-      }
-    },
-    {
-      "story_id": "0cefdf95-2f19-57c1-a2b3-aa5ec0ab56cd",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Vincent-Kompany.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T04:56:18+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9275,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/bayern-munich-vincent-kompany-lead-sports/",
-          "title": "মাঠে অজ্ঞান, হাসপাতালে কেমন আছেন বায়ার্ন কোচ",
-          "snippet": "মাঠে অজ্ঞান, হাসপাতালে কেমন আছেন বায়ার্ন কোচ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অনুশীলন মাঠে অসুস্থ হয়ে হাসপাতালে ভর্তি বায়ার্ন কোচ ভিনসেন্ট কোম্পানি",
-        "title_en": "Bayern Munich Coach Vincent Kompany Hospitalized After Falling Ill on Pitch",
-        "summary_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি দলের অনুশীলন সেশন পরিদর্শনের সময় হঠাৎ অসুস্থ হয়ে হাসপাতালে ভর্তি হয়েছেন।",
-        "summary_en": "Bayern Munich coach Vincent Kompany has been hospitalized after suddenly falling ill during a team training session.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:56:18+00:00",
-        "lead_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি দলের অনুশীলন সেশন পরিদর্শনের সময় হঠাৎ অসুস্থ হয়ে হাসপাতালে ভর্তি হয়েছেন।",
-        "lead_en": "Bayern Munich coach Vincent Kompany has been hospitalized after suddenly falling ill during a team training session.",
-        "bullets_bn": [
-          "অসুস্থ হয়ে পড়ার পর বায়ার্ন কোচ ভিনসেন্ট কোম্পানিকে দ্রুত হাসপাতালে ভর্তি করা হয় এবং নিবিড় পর্যবেক্ষণে রাখা হয়েছে।",
-          "চল্লিশ বছর বয়সী এই কোচ একটি সংক্রামক ভাইরাসে ভুগছিলেন এবং নিজের শরীরের সংকেত উপেক্ষা করেছিলেন বলে ক্লাব জানায়।",
-          "কোম্পানির অনুপস্থিতিতে কোচিং স্টাফরা পরবর্তী নির্দেশ না দেওয়া পর্যন্ত দলের প্রশিক্ষণ ও ম্যাচ কার্যক্রম পরিচালনা করবেন।"
-        ],
-        "bullets_en": [
-          "Bayern coach Vincent Kompany was promptly hospitalized and placed under intensive medical observation after falling ill.",
-          "The 40-year-old coach had been suffering from an infection and previously ignored warning signs from his body.",
-          "Coaching staff will supervise training and match operations until further notice while Kompany recovers."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি গত সপ্তাহ থেকে পায়ে প্রভাব ফেলা একটি সংক্রমণে ভুগছিলেন। তিনি আর্সেনালের বিপক্ষে চ্যাম্পিয়নস লিগের ম্যাচেও মাঠের বাইরে ছিলেন এবং তার দায়িত্ব পালন করেছিলেন সহকারী কোচ অ্যারন ড্যাঙ্কস। ক্লাব কর্তৃপক্ষ জানিয়েছে, কোম্পানির স্বাস্থ্য তাদের সর্বোচ্চ অগ্রাধিকার এবং তাকে সুস্থ হওয়ার জন্য প্রয়োজনীয় সব সময় দেওয়া হবে।",
-        "details_en": "Bayern Munich coach Vincent Kompany had been suffering from an infection affecting his leg since the previous week. He missed the Champions League match against Arsenal, with assistant coach Aaron Danks stepping in to manage team duties. Club management emphasized that Kompany's health remains their absolute priority, and he will be given all the time necessary for a full recovery."
-      }
-    },
-    {
-      "story_id": "2b134e95-f5b5-59e4-bdaa-c531c81b8515",
+      "story_id": "1e58feaa-2773-596a-8496-90bd24367dc6",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "world_diplomacy"
       ],
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/1792812284-4b62c9426992095bbffce02e80b178b6.jpg?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/Ebola-vaccine.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T04:55:23+00:00",
+      "published_at": "2026-10-24T05:47:38+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9188,
+      "rank_score": 0.8497,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/a-half-day-road-blockade-is-underway-in-khagrachhari-and-rangamati/",
-          "title": "খাগড়াছড়ি-রাঙামাটিতে চলছে আধাবেলা সড়ক অবরোধ",
-          "snippet": "খাগড়াছড়ি-রাঙামাটিতে চলছে আধাবেলা সড়ক অবরোধ"
+          "url": "https://www.channelionline.com/first-clinical-trial-of-ebola-vaccine-begins-in-congo-world-health-organization/",
+          "title": "কঙ্গোতে ইবোলা টিকার প্রথম ক্লিনিক্যাল ট্রায়াল শুরু: বিশ্ব স্বাস্থ্য সংস্থা",
+          "snippet": "কঙ্গোতে ইবোলা টিকার প্রথম ক্লিনিক্যাল ট্রায়াল শুরু: বিশ্ব স্বাস্থ্য সংস্থা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খাগড়াছড়ি ও রাঙামাটিতে ছাত্র-জনতার আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত",
-        "title_en": "Half-day road and waterway blockade observed in Khagrachari and Rangamati",
-        "summary_bn": "সাজেকের ঘটনায় হামলা ও ভাঙচুরের প্রতিবাদে খাগড়াছড়ি ও রাঙামাটি জেলায় আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত হচ্ছে।",
-        "summary_en": "A half-day road and waterway blockade is underway in Khagrachari and Rangamati to protest attacks and vandalism.",
+        "title_bn": "কঙ্গোতে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথম ক্লিনিক্যাল ট্রায়াল শুরু করেছে ডব্লিউএইচও",
+        "title_en": "WHO Launches First Clinical Trial Against Ebola Outbreak in DR Congo",
+        "summary_bn": "বিশ্ব স্বাস্থ্য সংস্থা কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথমবারের মতো এরভেবো টিকার ক্লিনিক্যাল ট্রায়াল শুরু করেছে।",
+        "summary_en": "The World Health Organization has launched the first clinical trial of the Ervebo vaccine to combat the Ebola outbreak in DR Congo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:55:23+00:00",
-        "lead_bn": "সাজেকের ঘটনায় হামলা ও ভাঙচুরের প্রতিবাদে খাগড়াছড়ি ও রাঙামাটি জেলায় আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত হচ্ছে।",
-        "lead_en": "A half-day road and waterway blockade is underway in Khagrachari and Rangamati to protest attacks and vandalism.",
+        "published_at": "2026-10-24T05:47:38+00:00",
+        "lead_bn": "বিশ্ব স্বাস্থ্য সংস্থা কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলা প্রাদুর্ভাব মোকাবিলায় প্রথমবারের মতো এরভেবো টিকার ক্লিনিক্যাল ট্রায়াল শুরু করেছে।",
+        "lead_en": "The World Health Organization has launched the first clinical trial of the Ervebo vaccine to combat the Ebola outbreak in DR Congo.",
         "bullets_bn": [
-          "হামলা, লাঠিপেটা এবং ঘরবাড়ি ভাঙচুরের প্রতিবাদে ছাত্র-জনতার সংগ্রাম পরিষদ এই অর্ধদিবস অবরোধের ডাক দেয়।",
-          "অবরোধের কারণে খাগড়াছড়ি থেকে কোনো দূরপাল্লার বাস ছেড়ে যায়নি এবং বিভিন্ন স্থানে সড়কে টায়ার জ্বালিয়ে বিক্ষোভ করা হয়।",
-          "আইনশৃঙ্খলা বাহিনীর পাহারায় ঢাকা থেকে আসা রাতের বাসগুলো নির্দিষ্ট গন্তব্যে পৌঁছায়।"
+          "ইতুরি প্রদেশের রাজধানী বুনিয়ায় অংশগ্রহণকারীদের এরভেবো টিকা দেওয়ার মাধ্যমে এই ট্রায়াল কার্যক্রম শুরু হয়।",
+          "বর্তমান প্রাদুর্ভাবের কারণ বুন্দিবুগিও ভাইরাসের বিরুদ্ধে এই টিকার ক্রস-প্রতিরোধ ক্ষমতা পরীক্ষা করা হচ্ছে।",
+          "পরীক্ষায় অক্সফোর্ড এবং মডার্নার তৈরি আরও দুটি সম্ভাব্য টিকা যুক্ত করার পরিকল্পনা রয়েছে।"
         ],
         "bullets_en": [
-          "The Chhatra-Janata Sangram Parishad called the half-day blockade to protest recent attacks, baton charges, and vandalism.",
-          "Long-distance buses remained suspended from Khagrachari while demonstrators burned tires on roads to enforce the shutdown.",
-          "Night coaches arriving from Dhaka reached Khagrachari safely under police escort."
+          "The clinical trial commenced in Bunia, the capital of Ituri province, by administering the Ervebo vaccine to participants.",
+          "The trial tests cross-protection against the Bundibugyo virus strain driving the current outbreak.",
+          "Plans are underway to include two additional candidate vaccines developed by Oxford University and Moderna."
         ],
-        "impact_bn": "অবরোধের কারণে দূরপাল্লার যান চলাচল ব্যাহত হওয়ায় সাধারণ যাত্রী ও পর্যটকরা সাময়িক ভোগান্তিতে পড়েন।",
-        "impact_en": "Ordinary commuters and travelers faced temporary disruptions as long-distance transport services remained suspended during the shutdown.",
-        "details_bn": "সাজেকর পর্যটনকেন্দ্র বন্ধ রাখা এবং সাজেক সড়কে আইনশৃঙ্খলা বাহিনীর সঙ্গে সংঘর্ষের জেরে এই পরিস্থিতির সৃষ্টি হয়। গণঅধিকার রক্ষা কমিটি ও কারবারি অ্যাসোসিয়েশনের ডাকা পূর্বের কর্মসূচি চলাকালীন সংঘর্ষ, হামলা এবং ঘরবাড়ি ভাঙচুরের ঘটনার প্রতিবাদে এই নতুন অবরোধ কর্মসূচি আসে। এর ফলে পাহাড়ি জনপদে যাতায়াত ও স্বাভাবিক কার্যক্রম সাময়িকভাবে থমকে যায়।",
-        "details_en": "The tensions escalated following clashes between security forces and protesters on the Sajek road during an earlier shutdown. The protests and subsequent blockade were called by local platforms to denounce alleged attacks, baton charges, and vandalism of homes and shops during preceding demonstrations, causing significant disruptions to normal life in the hill districts."
+        "impact_bn": "এই পরীক্ষা সফল হলে ঝুঁকিপূর্ণ জনগোষ্ঠী, গর্ভবতী নারী ও শিশুরা নতুন ইবোলা স্ট্রেইনের বিরুদ্ধে কার্যকর সুরক্ষা পাবে।",
+        "impact_en": "Successful trials will provide vulnerable populations, pregnant women, and children with effective protection against the new Ebola strain.",
+        "details_bn": "চলতি বছরের মে মাসে কঙ্গো গণতান্ত্রিক প্রজাতন্ত্রে ইবোলার সপ্তদশ প্রাদুর্ভাব ঘোষণা করা হয়। এরপর দেশটিতে ৯ হাজার ৭০০ এর বেশি সংক্রমণ এবং ৪ হাজার ৬০০ এর বেশি মানুষের মৃত্যু হয়েছে। রোগটি আফ্রিকার চারটি দেশে ছড়িয়ে পড়ার পর বিশ্ব স্বাস্থ্য সংস্থা আন্তর্জাতিক উদ্বেগজনক জনস্বাস্থ্য জরুরি অবস্থা জারি করে। এর পরিপ্রেক্ষিতে বিশ্ব স্বাস্থ্য সংস্থা এবং অংশীদাররা ঝুঁকিপূর্ণ মানুষকে সুরক্ষা দিতে এবং বৈজ্ঞানিক তথ্য সংগ্রহ করতে এই বিশেষ টুমাইনি ট্রায়াল শুরু করেছে।",
+        "details_en": "The seventeenth Ebola outbreak in the Democratic Republic of Congo was declared in May, leading to over 9,700 infections and 4,600 deaths across four African countries, prompting the WHO to declare a public health emergency of international concern. In response, the WHO initiated the Tumaini trial to gather reliable scientific data and evaluate vaccine efficacy to protect at-risk populations."
+      }
+    },
+    {
+      "story_id": "cbb02cb4-1e96-508d-80cd-a4a29402af49",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T05:46:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.843,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/tech-and-gadget/976365/%E0%A6%B8%E0%A7%8B%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%A6-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%A6%E0%A7%87%E0%A6%B0",
+          "title": "সোশ্যাল মিডিয়ার অ্যালগরিদমের ফাঁদ থেকে শিশুদের রক্ষা করবেন যেভাবে",
+          "snippet": "সোশ্যাল মিডিয়ার অ্যালগরিদমের ফাঁদ থেকে শিশুদের রক্ষা করবেন যেভাবে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শিশু-কিশোরদের সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ফাঁদ থেকে রক্ষা করার উপায়",
+        "title_en": "Ways to Protect Children from Harmful Social Media Algorithm Traps",
+        "summary_bn": "সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ও আসক্তি থেকে শিশু-কিশোরদের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সচেতন হওয়ার পরামর্শ দেওয়া হয়েছে।",
+        "summary_en": "Guardians are advised to protect children's mental health from harmful social media algorithms and addiction.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T05:46:49+00:00",
+        "lead_bn": "সামাজিক যোগাযোগমাধ্যমের ক্ষতিকর অ্যালগরিদম ও আসক্তি থেকে শিশু-কিশোরদের মানসিক স্বাস্থ্য রক্ষায় অভিভাবকদের সচেতন হওয়ার পরামর্শ দেওয়া হয়েছে।",
+        "lead_en": "Guardians are advised to protect children's mental health from harmful social media algorithms and addiction.",
+        "bullets_bn": [
+          "সামাজিক যোগাযোগমাধ্যমের অ্যালগরিদম শিশু-কিশোরদের একই ধরনের ক্ষতিকর কনটেন্ট বারবার সামনে আনে।",
+          "দীর্ঘ সময় স্ক্রিনে আসক্তি কিশোরদের আত্মবিশ্বাস ও মানসিক স্বাস্থ্যের ওপর গুরুতর নেতিবাচক প্রভাব ফেলে।",
+          "অভিভাবকদের উচিত শিশুদের অনলাইন কার্যক্রম মনিটরিং করা এবং স্ক্রিন টাইম নির্দিষ্ট করে দেওয়া।"
+        ],
+        "bullets_en": [
+          "Social media algorithms repeatedly expose children and teenagers to harmful and repetitive content.",
+          "Extended screen addiction severely impacts teenagers' self-esteem and overall mental health.",
+          "Guardians should monitor children's online activities and establish strict daily screen time limits."
+        ],
+        "impact_bn": "এটি শিশুদের মানসিক অবসাদ ও অবাস্তব জীবনযাপনের তুলনা থেকে রক্ষা করতে সহায়তা করবে।",
+        "impact_en": "This will help protect children from mental depression and unrealistic lifestyle comparisons.",
+        "details_bn": "বর্তমান ডিজিটাল যুগে ফেসবুক, ইনস্টাগ্রাম, টিকটক ও ইউটিউবের মতো প্ল্যাটফর্মগুলো ব্যবহারকারীর পছন্দ বিশ্লেষণ করে কনটেন্ট পরিবেশন করে। এর ফলে শিশু-কিশোরেরা অনেক সময় অজান্তেই ক্ষতিকর ও আসক্তি সৃষ্টিকারী কনটেন্টের সংস্পর্শে চলে যায়, যা তাদের স্বাভাবিক বিকাশকে বাধাগ্রস্ত করে। বিশেষজ্ঞদের মতে, সঠিক গাইডলাইন এবং অফলাইন কার্যক্রমে সম্পৃক্ততার মাধ্যমে এই ঝুঁকি কমানো সম্ভব।",
+        "details_en": "In the modern digital era, platforms like Facebook, Instagram, TikTok, and YouTube deliver content based on user preferences. Consequently, children and teenagers often get exposed to harmful and addictive content unintentionally, hindering their normal development. According to experts, minimizing this risk is possible through proper guidelines and engagement in offline activities."
+      }
+    },
+    {
+      "story_id": "ead3e924-e768-5884-8794-8820d03033c8",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T05:42:16+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8072,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/976364/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%A8%E0%A7%8C%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%C2%A0",
+          "title": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ, নৌযানকে সতর্কবার্তা",
+          "snippet": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ, নৌযানকে সতর্কবার্তা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ সৃষ্টি, নৌযানগুলোকে গভীর সমুদ্রে যেতে সতর্কবার্তা",
+        "title_en": "Clear Low-Pressure Area Forms in Bay of Bengal, Watercraft Warned",
+        "summary_bn": "বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপের কারণে গভীর সমুদ্রে চলাচলকারী নৌযানগুলোকে সতর্ক থাকার নির্দেশ দিয়েছে আবহাওয়া অধিদফতর।",
+        "summary_en": "The meteorological department has issued a warning for watercraft operating in deep sea following a low-pressure area in the Bay of Bengal.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T05:42:16+00:00",
+        "lead_bn": "বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপের কারণে গভীর সমুদ্রে চলাচলকারী নৌযানগুলোকে সতর্ক থাকার নির্দেশ দিয়েছে আবহাওয়া অধিদফতর।",
+        "lead_en": "The meteorological department has issued a warning for watercraft operating in deep sea following a low-pressure area in the Bay of Bengal.",
+        "bullets_bn": [
+          "পূর্বমধ্য ও দক্ষিণ-পূর্ব বঙ্গোপসাগর এলাকায় একটি সুস্পষ্ট লঘুচাপ সৃষ্টি হয়েছে।",
+          "সৃষ্ট লঘুচাপটি আরও পশ্চিম-উত্তর-পশ্চিম দিকে অগ্রসর ও ঘনীভূত হতে পারে বলে জানিয়েছে আবহাওয়া অফিস।",
+          "ঝুঁকি এড়াতে মাছ ধরার নৌকা ও ট্রলারগুলোকে উপকূলের কাছাকাছি থেকে সাবধানে চলাচল করতে বলা হয়েছে।"
+        ],
+        "bullets_en": [
+          "A clear low-pressure area has developed over the east-central and adjoining southeast Bay of Bengal.",
+          "The weather office reported that the low-pressure system may move in a west-northwesterly direction and intensify further.",
+          "Fishing boats and trawlers have been advised to remain close to the coast and operate with caution to avoid risks."
+        ],
+        "impact_bn": "উপকূলীয় এলাকার জেলে ও নৌযাত্রীরা সাময়িক ঝুকির মুখে পড়তে পারেন এবং নদীপথে চলাচল ব্যাহত হতে পারে।",
+        "impact_en": "Coastal fishermen and water commuters may face temporary risks, and maritime transport could be disrupted.",
+        "details_bn": "বঙ্গোপসাগরে মৌসুমী বায়ুর প্রভাবে প্রায়ই লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়, যা পরবর্তীতে সামুদ্রিক ঝড়ে রূপ নিতে পারে। আবহাওয়া অধিদফতর নিয়মিত সামুদ্রিক আবহাওয়া পর্যবেক্ষণের মাধ্যমে সম্ভাব্য বিপদ সম্পর্কে বন্দর ও নৌযানগুলোকে সতর্ক করে থাকে। এই লঘুচাপের গতিপ্রকৃতি পর্যবেক্ষণ করে পরবর্তী নির্দেশনা দেওয়া হবে।",
+        "details_en": "Monsoon influences frequently trigger low-pressure systems in the Bay of Bengal, which can escalate into maritime storms. The meteorological department continuously monitors marine weather to alert ports and vessels about potential hazards. Further directives will be issued based on the trajectory of this system."
       }
     }
   ]
