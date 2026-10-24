@@ -1,9 +1,67 @@
 {
-  "updated_at": "2026-10-24T08:00:47.983188",
+  "updated_at": "2026-10-24T09:00:46.483408",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "e00e5b9c-5d40-5ec3-b701-5bc8334d8c55",
+      "story_id": "be681835-c3d8-59ac-af6d-3ba08ae41ca0",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "climate_environment"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T08:49:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.3803,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/tokyo-anticipates-fresh-momentum-in-investment-and-economic-cooperation-during-the-prime-ministers-visit-to-japan/",
+          "title": "প্রধানমন্ত্রীর জাপান সফরে অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর",
+          "snippet": "প্রধানমন্ত্রীর জাপান সফরে অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টোকিওতে বাংলাদেশ-জাপান দ্বিপক্ষীয় বৈঠক ও অর্থনৈতিক সহযোগিতা বৃদ্ধির আশা",
+        "title_en": "Japan Expects Boost in Bilateral Trade and Economic Ties With Bangladesh",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের আসন্ন জাপান সফরে দুই দেশের অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির প্রত্যাশা করছে টোকিও।",
+        "summary_en": "Tokyo expects Prime Minister Tarique Rahman upcoming visit to boost economic cooperation and bilateral investment.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T08:49:29+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের আসন্ন জাপান সফরে দুই দেশের অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির প্রত্যাশা করছে টোকিও।",
+        "lead_en": "Tokyo expects Prime Minister Tarique Rahman upcoming visit to boost economic cooperation and bilateral investment.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর আমন্ত্রণে সরকারি সফরে দেশটিতে যাবেন।",
+          "সফরের দ্বিতীয় দিন টোকিওতে দুই দেশের শীর্ষ নেতারা উচ্চপর্যায়ের দ্বিপক্ষীয় বৈঠকে অংশ নেবেন।",
+          "প্রধানমন্ত্রী জাপান-বাংলাদেশ অর্থনৈতিক ফোরামে মূল বক্তব্য দেবেন এবং ব্যবসায়ীদের সাথে বৈঠক করবেন।"
+        ],
+        "bullets_en": [
+          "Prime Minister Tarique Rahman will visit Japan on an official invitation from the Japanese Prime Minister.",
+          "Both leaders will hold a high-level bilateral meeting in Tokyo on the second day of the visit.",
+          "The Prime Minister will deliver the keynote speech at the Japan-Bangladesh Economic Forum and meet business leaders."
+        ],
+        "impact_bn": "বাংলাদেশের অবকাঠামো উন্নয়ন ও ব্যবসাবান্ধব পরিবেশের উন্নতি হওয়ায় দেশটিতে বৈদেশিক বিনিয়োগ বাড়ার নতুন সুযোগ তৈরি হয়েছে।",
+        "impact_en": "Improved business-friendly policies in Bangladesh create new opportunities for increased foreign investment in infrastructure development.",
+        "details_bn": "প্রধানমন্ত্রী হিসেবে এটি তারেক রহমানের প্রথম জাপান সফর। দুই দেশের সরকার আনুষ্ঠানিকভাবে এই সফরের ঘোষণা দেয়। সফরকালে বিনিয়োগ পরিবেশের উন্নয়ন, অবকাঠামো খাতে সহযোগিতা সম্প্রসারণ এবং মানবসম্পদ ও প্রাতিষ্ঠানিক সক্ষমতা বৃদ্ধি নিয়ে আলোচনা হবে। এছাড়া প্রধানমন্ত্রী জাপান-বাংলাদেশ পার্লামেন্টারি ফ্রেন্ডশিপ লিগ এবং ব্যবসায়িক কমিটির প্রতিনিধিদের সাথে বৈঠক করবেন।",
+        "details_en": "This marks the first official visit of Prime Minister Tarique Rahman to Japan. Both governments officially announced the diplomatic tour, focusing on investment climate improvement, infrastructure cooperation, and institutional capacity building. During the visit, the Prime Minister will engage with the Japan-Bangladesh Parliamentary Friendship League and commercial committees to deepen economic partnership."
+      }
+    },
+    {
+      "story_id": "dcfb049c-1565-502e-90b2-252de58913a7",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,216 +70,52 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Ftctf66ea%2FCumillaBCL.jpg?rect=0%2C46%2C1061%2C557&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T07:51:27+00:00",
+      "published_at": "2026-10-24T08:31:33+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7648,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171367",
-          "title": "চট্টগ্রাম বিভাগে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৯৯০",
-          "snippet": "চট্টগ্রাম বিভাগে ছিনতাই ও কিশোর গ্যাংবিরোধী অভিযানে আটক ৯৯০"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রাম বিভাগে বিশেষ অভিযানে কিশোর গ্যাং ও ছিনতাইকারীসহ আটক ৯৯০",
-        "title_en": "Police Arrest 990 in Anti-Crime Drive Across Chattogram Division",
-        "summary_bn": "চট্টগ্রাম বিভাগে অপরাধ দমনে বিশেষ অভিযান চালিয়ে কিশোর গ্যাং সদস্য ও ছিনতাইকারীসহ মোট ৯৯০ জনকে আটক করেছে পুলিশ।",
-        "summary_en": "Police have arrested 990 individuals, including youth gang members and muggers, during a special anti-crime drive across the Chattogram division.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:51:27+00:00",
-        "lead_bn": "চট্টগ্রাম বিভাগে অপরাধ দমনে বিশেষ অভিযান চালিয়ে কিশোর গ্যাং সদস্য ও ছিনতাইকারীসহ মোট ৯৯০ জনকে আটক করেছে পুলিশ।",
-        "lead_en": "Police have arrested 990 individuals, including youth gang members and muggers, during a special anti-crime drive across the Chattogram division.",
-        "bullets_bn": [
-          "চট্টগ্রাম বিভাগের বিভিন্ন জেলায় অপরাধ দমনে এই বিশেষ অভিযান পরিচালনা করে পুলিশ",
-          "ঘণ্টার এই ধারাবাহিক অভিযানে মোট ৯৯০ জন অপরাধীকে আটক করা হয়",
-          "আটককৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে"
-        ],
-        "bullets_en": [
-          "Police conducted the special drive across various districts of the Chattogram division to curb local crimes",
-          "A total of 990 offenders were detained during the continuous twenty-four hour operation",
-          "Legal procedures are underway against all the individuals arrested during the crackdown"
-        ],
-        "impact_bn": "এই সাঁড়াশি অভিযانের ফলে সাধারণ নাগরিক ও শিক্ষার্থীদের যাতায়াতে নিরাপত্তা বাড়ার পাশাপাশি স্থানীয় অপরাধ প্রবণতা কমবে।",
-        "impact_en": "This intense crackdown will improve security for commuters and students while reducing local criminal activities.",
-        "details_bn": "সাম্প্রতিক সময়ে চট্টগ্রাম বিভাগে কিশোর গ্যাংয়ের উৎপাত, ছিনতাই, চাঁদাবাজি এবং মাদকের বিস্তার বৃদ্ধি পাওয়ায় আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিরাপত্তা জোরদার করে। সাধারণ মানুষের নিরাপত্তা নিশ্চিত করতে এবং অপরাধীদের দমনে বিভাগজুড়ে এই ধরনের বিশেষ অভিযান নিয়মিত পরিচালনা করা হচ্ছে।",
-        "details_en": "Law enforcement agencies stepped up security following a recent surge in youth gang violence, mugging, extortion, and drug peddling across the Chattogram division. Such special drives are regularly conducted across the region to ensure public safety and crack down on repeat offenders."
-      }
-    },
-    {
-      "story_id": "f7cee990-eec7-5c03-8270-ee35c42d4297",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T07:33:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4863,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/entertainment/news/1171360",
-          "title": "হামলার পর ঘটনাস্থলে ছুটে গিয়ে যা বললেন আসিফ আকবরের বড় ভাই",
-          "snippet": "হামলার পর ঘটনাস্থলে ছুটে গিয়ে যা বললেন আসিফ আকবরের বড় ভাই"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সংগীতশিল্পী আসিফ আকবরের গাড়িতে গুলির ঘটনায় সুষ্ঠু তদন্ত ও বিচার দাবি",
-        "title_en": "Fair Investigation and Justice Demanded Following Gunshot Attack on Asif Akbar's Car",
-        "summary_bn": "সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়িতে গুলিবর্ষণের ঘটনার সুষ্ঠু তদন্ত এবং দোষীদের বিচারের দাবি জানিয়েছেন তার পরিবার।",
-        "summary_en": "Family members have demanded a proper investigation and justice following the shooting incident targeting singer Asif Akbar's personal vehicle.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:33:09+00:00",
-        "lead_bn": "সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়িতে গুলিবর্ষণের ঘটনার সুষ্ঠু তদন্ত এবং দোষীদের বিচারের দাবি জানিয়েছেন তার পরিবার।",
-        "lead_en": "Family members have demanded a proper investigation and justice following the shooting incident targeting singer Asif Akbar's personal vehicle.",
-        "bullets_bn": [
-          "সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালানোর ঘটনা ঘটে",
-          "ঘটনার সুষ্ঠু তদন্ত এবং এর সঙ্গে জড়িতদের বিচার দাবি করেছেন তার বড় ভাই মোহাম্মদ আলী",
-          "আইনশৃঙ্খলা বাহিনী বিষয়টি খতিয়ে দেখছে এবং পরবর্তী আইনি পদক্ষেপ প্রক্রিয়াধীন রয়েছে"
-        ],
-        "bullets_en": [
-          "A shooting incident targeted the personal vehicle of popular singer Asif Akbar",
-          "His elder brother Mohammad Ali demanded a thorough investigation and justice for those involved",
-          "Law enforcement agencies are reviewing the incident and further legal steps are underway"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জনপ্রিয় সংগীতশিল্পী আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলির এই অনাকাঙ্ক্ষিত ঘটনায় শোবিজ অঙ্গনে উদ্বেগ ছড়িয়ে পড়েছে। ঘটনার পর থেকেই শিল্পী পরিবার ও ভক্তদের মধ্যে নিরাপত্তা নিয়ে প্রশ্ন উঠেছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার পেছনের কারণ উদঘাটনে এবং জড়িতদের শনাক্ত করতে কাজ শুরু করেছে।",
-        "details_en": "The unexpected shooting targeting popular singer Asif Akbar's vehicle has raised concerns within the entertainment industry. Questions regarding security have emerged among family members and fans following the incident. Law enforcement agencies have initiated efforts to uncover the motive and identify those responsible."
-      }
-    },
-    {
-      "story_id": "d64a740a-0c83-5ecf-86b4-2c94f38dfd78",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-22%2Fdgw00ob3%2Fcyber-Attack.reuters.png?rect=0%2C12%2C631%2C331&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T07:30:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4511,
+      "rank_score": 1.466,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/technology/cyberworld/xizxhiwuyu",
-          "title": "পিএইচপির নিরাপত্তা ত্রুটি যেভাবে বিশ্বজুড়ে সাইবার হামলার সুযোগ করে দিল",
-          "snippet": "পিএইচপির নিরাপত্তা ত্রুটি যেভাবে বিশ্বজুড়ে সাইবার হামলার সুযোগ করে দিল"
+          "url": "https://www.prothomalo.com/bangladesh/district/h1616n4l6i",
+          "title": "কুমিল্লায় ‘শেখ হাসিনা আইতাছে’ স্লোগানে নিষিদ্ধ ছাত্রলীগের মিছিল, আটক ১৭",
+          "snippet": "কুমিল্লায় ‘শেখ হাসিনা আইতাছে’ স্লোগানে নিষিদ্ধ ছাত্রলীগের মিছিল, আটক ১৭"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পিএইচপির গুরুতর নিরাপত্তা ত্রুটির কারণে বিশ্বজুড়ে সাইবার হামলার ঝুঁকি তৈরি হয়েছে",
-        "title_en": "Critical PHP Security Vulnerabilities Trigger Global Cyber Attack Risks",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার সহায়তায় জনপ্রিয় প্রোগ্রামিং ভাষা পিএইচপিতে মারাত্মক নিরাপত্তাত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে।",
-        "summary_en": "Global alerts have been issued after critical security vulnerabilities were discovered in the popular PHP programming language using artificial intelligence.",
+        "title_bn": "কুমিল্লায় নিষিদ্ধ ছাত্রলীগের ঝটিকা মিছিল থেকে ১৭ জন আটক",
+        "title_en": "Seventeen Arrested From Banned Chhatra League Rally in Comilla",
+        "summary_bn": "কুমিল্লায় নিষিদ্ধ সংগঠনের পক্ষে স্লোগান দিয়ে ঝটিকা মিছিল করার অভিযোগে ১৭ জন নেতা-কর্মীকে আটক করেছে পুলিশ।",
+        "summary_en": "Police arrested seventeen leaders and activists for staging a sudden flash procession chanting slogans supporting a banned organization in Comilla.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:30:24+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার সহায়তায় জনপ্রিয় প্রোগ্রামিং ভাষা পিএইচপিতে মারাত্মক নিরাপত্তাত্রুটি শনাক্ত হওয়ার পর বিশ্বজুড়ে সতর্কতা জারি করা হয়েছে।",
-        "lead_en": "Global alerts have been issued after critical security vulnerabilities were discovered in the popular PHP programming language using artificial intelligence.",
+        "published_at": "2026-10-24T08:31:33+00:00",
+        "lead_bn": "কুমিল্লায় নিষিদ্ধ সংগঠনের পক্ষে স্লোগান দিয়ে ঝটিকা মিছিল করার অভিযোগে ১৭ জন নেতা-কর্মীকে আটক করেছে পুলিশ।",
+        "lead_en": "Police arrested seventeen leaders and activists for staging a sudden flash procession chanting slogans supporting a banned organization in Comilla.",
         "bullets_bn": [
-          "সাইবার নিরাপত্তা গবেষকরা কৃত্রিম বুদ্ধিমত্তা ব্যবহার করে পিএইচপি প্রোগ্রামিং ভাষায় দুটি মারাত্মক নিরাপত্তাত্রুটি শনাক্ত করেছেন।",
-          "যুক্তরাষ্ট্র, জার্মানি, ফ্রান্স ও জাপানসহ বিভিন্ন দেশের সরকার ও নিরাপত্তা সংস্থাগুলো ওয়েবসাইটের নিরাপত্তা রক্ষায় জরুরি সতর্কতা জারি করেছে।",
-          "ত্রুটি সংশোধনে নতুন সংস্করণ প্রকাশ করা হলেও হ্যাকাররা সার্ভারের মেমোরি থেকে তথ্য হাতিয়ে নেওয়ার চেষ্টা অব্যাহত রেখেছে।"
+          "নগরের নুরপুর তেলিকোনা সড়কে জুমার নামাজের সময় ঝটিকা মিছিল বের করে নিষিদ্ধ সংগঠনের কর্মীরা",
+          "মিছিলে নেতৃত্বদানকারী কাইয়ুমসহ ১৭ জনকে ভিডিও পর্যালোচনা করে বিভিন্ন এলাকায় অভিযান চালিয়ে আটক করা হয়",
+          "আটক ব্যক্তিদের বিরুদ্ধে কোতোয়ালি মডেল থানায় আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে"
         ],
         "bullets_en": [
-          "Cybersecurity researchers identified two severe security flaws in the PHP programming language using artificial intelligence.",
-          "Governments and security agencies in the US, Germany, France, Japan, and other nations issued urgent alerts to protect websites.",
-          "Although a patched version was released, hackers continue attempting to exploit vulnerabilities to steal server memory data."
+          "Activists of a banned organization staged a brief flash procession on Nurpur Telikona road during Friday prayers",
+          "Police arrested seventeen individuals including leader Kaiyum through raids after reviewing surveillance and video footage",
+          "Legal procedures are currently underway against the detained individuals at Kotwali Model Police Station"
         ],
-        "impact_bn": "সাধারণ ব্যবহারকারীদের ব্যক্তিগত তথ্য এবং পাসওয়ার্ড চুরি যাওয়ার ঝুঁকিসহ সরকারি ও বেসরকারি ওয়েবসাইটের সেবা ব্যাহত হতে পারে।",
-        "impact_en": "Ordinary users face risks of personal data and password theft, alongside potential service disruptions across government and private websites.",
-        "details_bn": "পিএইচপি মূলত ওয়েবসাইট হোস্ট করা সার্ভারে ব্যবহৃত একটি জনপ্রিয় প্রোগ্রামিং ভাষা। ক্লাউড সিকিউরিটি প্রতিষ্ঠান উইজ ও ক্যালিফের গবেষকদের মতে, কোডবেজে দীর্ঘ এক দশকেরও বেশি সময় ধরে এই দুর্বলতা লুকিয়ে ছিল। পিএইচপির মেমোরি ব্যবস্থাপনা ও ত্রুটি হ্যান্ডল করার প্রক্রিয়ার দুর্বলতার কারণে হ্যাকাররা পাসওয়ার্ড ছাড়াই দূরবর্তী সার্ভারে ক্ষতিকর কোড চালাতে সক্ষম হচ্ছে। এর ফলে বিশ্বজুড়ে অসংখ্য ওয়েবসাইট ও সার্ভারের নিরাপত্তা মারাত্মক ঝুঁকিতে পড়েছে।",
-        "details_en": "PHP is a widely used programming language for website hosting servers. According to researchers from security firms Wiz and Kalif, these vulnerabilities remained hidden within the codebase for over a decade. Weaknesses in PHP memory management and error handling allow hackers to execute malicious code on remote servers without passwords, severely threatening countless websites globally."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটানোর এই ধরণের ঝটিকা তৎপরতা স্থানীয় সাধারণ নাগরিকদের মধ্যে আতঙ্ক তৈরি করছে।",
+        "impact_en": "Such flash processions aimed at disrupting public order create panic among local citizens.",
+        "details_bn": "কুমিল্লা নগরের চকবাজার-সংলগ্ন নুরপুর তেলিকোনা সড়কে নিষিদ্ধঘোষিত ছাত্রলীগের একদল নেতা-কর্মী আকস্মিক মিছিল বের করে। পুলিশের প্রাথমিক তদন্তে জানা যায়, বিদেশে পলাতক সাবেক সংসদ সদস্যের নির্দেশেই এই অস্থিতিশীল পরিবেশ তৈরি করার পরিকল্পনা করা হয়েছিল। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ভিডিও ফুটেজ বিশ্লেষণ করে অভিযান চালিয়ে অভিযুক্তদের গ্রেপ্তার করে।",
+        "details_en": "A group of activists from the banned student organization staged a sudden procession on the Nurpur Telikona road in Comilla. According to preliminary police findings, the disruption was orchestrated under instructions from abroad to destabilize the area. Law enforcement agencies identified the culprits through video analysis and conducted raids to make the arrests."
       }
     },
     {
-      "story_id": "2f6e8600-7f33-5325-8eff-7b343a92222c",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "economy_business"
-      ],
-      "tags": [
-        "#Technology",
-        "#Innovation"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T07:16:35+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2946,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/tech-and-gadget/tech-news/976377/%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9D%E0%A7%81%E0%A6%81%E0%A6%95%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9B%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A6%B8%E0%A6%B9-%E0%A6%AF%E0%A7%87%E0%A6%B8%E0%A6%AC-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF",
-          "title": "সাইবার হামলার ঝুঁকিতে ছয় ব্যাংকসহ যেসব সরকারি প্রতিষ্ঠানের ওয়েবসাইট বন্ধ",
-          "snippet": "সাইবার হামলার ঝুঁকিতে ছয় ব্যাংকসহ যেসব সরকারি প্রতিষ্ঠানের ওয়েবসাইট বন্ধ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাইবার হামলা এড়াতে বাংলাদেশ ব্যাংকসহ বেশ কয়েকটি গুরুত্বপূর্ণ সরকারি ওয়েবসাইট বন্ধ",
-        "title_en": "Several government websites including Bangladesh Bank shut down to prevent cyberattacks",
-        "summary_bn": "নিরাপত্তা ত্রুটি এড়াতে বাংলাদেশ ব্যাংক ও ছয়টি বাণিজ্যিক ব্যাংকসহ গুরুত্বপূর্ণ সরকারি প্রতিষ্ঠানের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
-        "summary_en": "Several key government and financial institution websites including Bangladesh Bank remain offline to prevent potential cyberattacks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:16:35+00:00",
-        "lead_bn": "নিরাপত্তা ত্রুটি এড়াতে বাংলাদেশ ব্যাংক ও ছয়টি বাণিজ্যিক ব্যাংকসহ গুরুত্বপূর্ণ সরকারি প্রতিষ্ঠানের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
-        "lead_en": "Several key government and financial institution websites including Bangladesh Bank remain offline to prevent potential cyberattacks.",
-        "bullets_bn": [
-          "সাইবার হামলা প্রতিরোধের অংশ হিসেবে বাংলাদেশ ব্যাংক ও ছয়টি ব্যাংকের ওয়েবসাইট বন্ধ রাখা হয়েছে।",
-          "বিজি প্রেস, ব্যানবেইস, পেট্রোবাংলা এবং ভূমিসেবার মতো গুরুত্বপূর্ণ সরকারি প্রতিষ্ঠানের ওয়েবসাইটও বন্ধ রয়েছে।",
-          "প্রযুক্তি অবকাঠামোর নিজস্ব নিরাপত্তা নিশ্চিত করতে সতর্কতামূলক পদক্ষেপ হিসেবে এই সিদ্ধান্ত নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Websites of Bangladesh Bank and six commercial banks have been taken offline as a preventive security measure.",
-          "Critical government platforms including BG Press, BANBEIS, Petrobangla, and land service portals are also suspended.",
-          "Authorities implemented these shutdowns to safeguard their technical infrastructure against potential vulnerabilities."
-        ],
-        "impact_bn": "অনলাইন ব্যাংকিং এবং ভূমি সেবাসহ বিভিন্ন সরকারি ডিজিটাল সেবা সাময়িকভাবে ব্যাহত হচ্ছে।",
-        "impact_en": "Digital public services, online banking, and land services face temporary disruptions.",
-        "details_bn": "পিএইচপি প্রোগ্রামিং ভাষার একটি নিরাপত্তা ত্রুটি নিয়ে সাইবার নিরাপত্তা বিশেষজ্ঞরা সতর্কবার্তা জারির পর এই পদক্ষপে নেওয়া হয়। সম্ভাব্য বড় ধরনের সাইবার হামলা ঠেকাতে এবং প্রযুক্তিগত দুর্বলতাগুলো চিহ্নিত করে তা সংশোধনের কাজ চলছে। সংশ্লিষ্ট কর্তৃপক্ষ জানিয়েছে, নিরাপত্তা যাচাই সম্পন্ন হওয়ার পর ওয়েবসাইটগুলো পুনরায় সচল করা হবে।",
-        "details_en": "This measure follows security alerts regarding a vulnerability in the PHP programming language. Authorities initiated these temporary shutdowns to mitigate potential cyber threat risks and conduct necessary security audits across critical digital infrastructure before restoring services."
-      }
-    },
-    {
-      "story_id": "30c83372-ffab-5ef2-a0c0-68e8ddf84d31",
+      "story_id": "57f62d78-a909-5340-a961-6046fbcda659",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -230,106 +124,216 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Trump-2.webp?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/Iran-and-United-States-flags.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T07:52:26+00:00",
+      "published_at": "2026-10-24T08:01:09+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8912,
+      "importance_score": 4.8,
+      "rank_score": 1.1523,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/trump-reiterates-claim-that-he-has-the-right-to-run-for-a-third-presidential-term/",
-          "title": "তৃতীয় মেয়াদে প্রেসিডেন্ট পদে লড়ার ‘অধিকার’ আছে, ফের দাবি ট্রাম্পের",
-          "snippet": "তৃতীয় মেয়াদে প্রেসিডেন্ট পদে লড়ার ‘অধিকার’ আছে, ফের দাবি ট্রাম্পের"
+          "url": "https://www.channelionline.com/trump-warns-of-further-attacks-on-iran-tehran-responds-by-telling-him-not-to-play-with-fire/",
+          "title": "ইরানে ফের হামলার হুঁশিয়ারি ট্রাম্পের, আগুন নিয়ে না খেলতে বলল তেহরান",
+          "snippet": "ইরানে ফের হামলার হুঁশিয়ারি ট্রাম্পের, আগুন নিয়ে না খেলতে বলল তেহরান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তৃতীয় মেয়াদে প্রেসিডেন্ট পদে লড়ার অধিকার রয়েছে দাবি ডোনাল্ড ট্রাম্পের",
-        "title_en": "Donald Trump Claims Right to Run for Third Presidential Term",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে সংবিধানের বাধা সত্ত্বেও তার তৃতীয় মেয়াদে প্রেসিডেন্ট পদে লড়ার অধিকার রয়েছে।",
-        "summary_en": "US President Donald Trump claimed he holds the right to run for a third presidential term despite constitutional limits.",
+        "title_bn": "যুক্তরাষ্ট্রের সঙ্গে চুক্তি না হলে ইরানে নতুন হামলার হুঁশিয়ারি ট্রাম্পের",
+        "title_en": "US President Trump Threatens New Military Strikes on Iran Without Agreement",
+        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে কোনো চুক্তি না হলে ইরানে আবারও সামরিক হামলা চালানোর হুঁশিয়ারি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "summary_en": "US President Donald Trump threatened renewed military strikes on Iran if Tehran fails to reach an agreement with Washington.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:52:26+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প দাবি করেছেন যে সংবিধানের বাধা সত্ত্বেও তার তৃতীয় মেয়াদে প্রেসিডেন্ট পদে লড়ার অধিকার রয়েছে।",
-        "lead_en": "US President Donald Trump claimed he holds the right to run for a third presidential term despite constitutional limits.",
+        "published_at": "2026-10-24T08:01:09+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে কোনো চুক্তি না হলে ইরানে আবারও সামরিক হামলা চালানোর হুঁশিয়ারি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+        "lead_en": "US President Donald Trump threatened renewed military strikes on Iran if Tehran fails to reach an agreement with Washington.",
         "bullets_bn": [
-          "আইওয়া অঙ্গরাজ্যের সিউক্স সিটিতে এক সমাবেশে সমর্থকদের উদ্দেশে বক্তব্য দেওয়ার সময় ট্রাম্প এই দাবি করেন।",
-          "সালের প্রেসিডেন্ট নির্বাচনে ডেমোক্র্যাটরা প্রতারণা করেছে দাবি করে ট্রাম্প বলেন তিনি মূলত তিনবার জিতেছেন।",
-          "যুক্তরাষ্ট্রের সংবিধানের ২২তম সংশোধনী অনুযায়ী কোনো ব্যক্তি দুইবারের বেশি প্রেসিডেন্ট নির্বাচিত হতে পারেন না।"
+          "সমঝোতায় না পৌঁছালে ইরানে ছোট আকারের এপিক ফিউরি অভিযান চালানোর হুমকি দেন মার্কিন প্রেসিডেন্ট।",
+          "ইরানের ইউরেনিয়াম সমৃদ্ধকরণের সক্ষমতা পুরোপুরি ধ্বংস করা হয়েছে বলে দাবি করেন ট্রাম্প।",
+          "যুক্তরাষ্ট্রের নতুন সামরিক হামলার হুমকির জবাবে তেহরান ওয়াশিংটনকে আগুন নিয়ে না খেলার সতর্কবার্তা দিয়েছে।"
         ],
         "bullets_en": [
-          "Trump made the claim while addressing supporters during a rally in Sioux City, Iowa.",
-          "Citing alleged fraud by Democrats in the 2020 election, Trump claimed he actually won three times.",
-          "The 22nd Amendment of the US Constitution restricts any individual from being elected president more than twice."
+          "US President threatened to launch another small-scale Epic Fury operation if Tehran fails to reach a deal.",
+          "Trump claimed that previous operations completely destroyed Iran's uranium enrichment capabilities and weakened its economy.",
+          "In response to the US threats of impending attacks, Tehran warned Washington against playing with fire."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাষ্ট্রের সংবিধানের ২২তম সংশোধনী অনুযায়ী কোনো নাগরিক দুইবারের বেশি প্রেসিডেন্ট পদে নির্বাচিত হতে পারেন না। তবে ডোনাল্ড ট্রাম্প এর আগেও বিভিন্ন সময় তৃতীয় মেয়াদে হোয়াইট হাউসে ফেরার ইচ্ছা প্রকাশ করেছেন। ২০২০ সালের নির্বাচনে জো বাইডেনের কাছে পরাজয়ের পর থেকেই তিনি ওই নির্বাচনে কারচুপির ভিত্তিহীন অভিযোগ করে আসছেন। ট্রাম্পের এমন মন্তব্য মার্কিন রাজনৈতিক অঙ্গনে এবং গণতান্ত্রিক নিয়মনীতির ধারাবাহিকতা নিয়ে নতুন আলোচনার জন্ম দিয়েছে।",
-        "details_en": "Under the 22nd Amendment of the US Constitution, no person can be elected to the office of the President more than twice. However, Donald Trump has repeatedly expressed interest in seeking a third term in office. Since his defeat to Joe Biden in the 2020 election, he has continuously made unsubstantiated claims of voter fraud. Such remarks by Trump continue to spark discussions regarding democratic norms and constitutional limits in American politics."
+        "details_bn": "চলতি বছরের ফেব্রুয়ারিতে যুক্তরাষ্ট্র ও ইসরায়েল ইরানের বিরুদ্ধে যৌথ সামরিক অভিযান অপারেশন এপিক ফিউরি শুরু করে। ওই সংঘাতে ইরানের তৎকালীন সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি ও তাঁর পরিবারের কয়েকজন সদস্য নিহত হন। এর আগে অপারেশন মিডনাইট হ্যামার অভিযানের মাধ্যমে ইরানের সামরিক ও অর্থনৈতিক সক্ষমতা দুর্বল করার দাবি করে আসছে ওয়াশিংটন। বর্তমান উত্তেজনার মধ্যেই মার্কিন রাষ্ট্রদূত চলতি সপ্তাহান্তে ইরানে হামলার সম্ভাবনার কথা জানান, যার জবাবে তেহরান কঠোর প্রতিক্রিয়া ব্যক্ত করেছে।",
+        "details_en": "In February, the US and Israel launched joint military operations against Iran, resulting in the death of then-Supreme Leader Ayatollah Ali Khamenei and his family members. Washington previously claimed operations like Midnight Hammer severely degraded Iran's military and economic capabilities. Amid escalating tensions, US officials hinted at potential strikes over the weekend, prompting strong warnings from Tehran against further military escalation."
       }
     },
     {
-      "story_id": "032246e7-354a-51fd-b9e9-befcace1a24c",
-      "primary_category": "climate_environment",
+      "story_id": "f3e46b62-fde3-522f-9408-9cd79cf8cfa6",
+      "primary_category": "society_education",
       "interest_categories": [
-        "climate_environment",
-        "world_diplomacy",
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T07:43:07+00:00",
+      "published_at": "2026-10-24T08:58:03+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8137,
+      "rank_score": 0.9448,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171366",
-          "title": "গঙ্গার পানির ন্যাহ্য হিস্যা ও নদী পুনরুদ্ধারে নাগরিক সমাবেশ",
-          "snippet": "গঙ্গার পানির ন্যাহ্য হিস্যা ও নদী পুনরুদ্ধারে নাগরিক সমাবেশ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/976400/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%9D%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A6%B0",
+          "title": "নারকেল কোরানোর ঝামেলা ছাড়াই তৈরি হবে লক্ষ্মীপূজার নাড়ু,",
+          "snippet": "নারকেল কোরানোর ঝামেলা ছাড়াই তৈরি হবে লক্ষ্মীপূজার নাড়ু,"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গঙ্গার ন্যায্য পানি ও নদী রক্ষায় নাগরিক সমাবেশে জোরালো দাবি",
-        "title_en": "Citizens Demand Fair Ganges Water Share and River Restoration at Rally",
-        "summary_bn": "নাগরিক সমাজের প্রতিনিধিরা গঙ্গার পানির ন্যায্য হিস্যা নিশ্চিত করা এবং নদী পুনরুদ্ধারের দাবিতে সমাবেশ করেছেন।",
-        "summary_en": "Civil society representatives held a rally demanding a fair share of Ganges water and river restoration.",
+        "title_bn": "নারকেল কোরা ছাড়াই ঘরে তৈরি করুন লক্ষ্মীপূজার সুস্বাদু নাড়ু",
+        "title_en": "Make Delicious Laxmi Puja Narus at Home Without Grating Coconut",
+        "summary_bn": "কয়েকটি সহজ কৌশল অনুসরণ করে নারকেল কোরার ঝামেলা ছাড়াই খুব কম সময়ে ঘরে তৈরি করা সম্ভব সুস্বাদু নারকেলের নাড়ু।",
+        "summary_en": "Tasty coconut narus can be easily made at home in minimal time without the hassle of grating coconut.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "world_diplomacy",
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T07:43:07+00:00",
-        "lead_bn": "নাগরিক সমাজের প্রতিনিধিরা গঙ্গার পানির ন্যায্য হিস্যা নিশ্চিত করা এবং নদী পুনরুদ্ধারের দাবিতে সমাবেশ করেছেন।",
-        "lead_en": "Civil society representatives held a rally demanding a fair share of Ganges water and river restoration.",
+        "published_at": "2026-10-24T08:58:03+00:00",
+        "lead_bn": "কয়েকটি সহজ কৌশল অনুসরণ করে নারকেল কোরার ঝামেলা ছাড়াই খুব কম সময়ে ঘরে তৈরি করা সম্ভব সুস্বাদু নারকেলের নাড়ু।",
+        "lead_en": "Tasty coconut narus can be easily made at home in minimal time without the hassle of grating coconut.",
         "bullets_bn": [
-          "গঙ্গা-পদ্মা পানি বণ্টন চুক্তির নবায়নে গ্যারান্টি ক্লজ অন্তর্ভুক্ত করার দাবি জানানো হয়।",
-          "পদ্মা ব্যারাজ ও তিস্তা মহাপরিকল্পনা বাস্তবায়ন এবং ২০ হাজার কিলোমিটার নদী ও খাল খননের আহ্বান জানানো হয়।",
-          "নদী রক্ষা ও পানির হিস্যা আদায়ে নীতিনির্ধারণী পর্যায়ে চাপ সৃষ্টির জন্য পরবর্তী কর্মসূচি ঘোষণা করা হবে।"
+          "নারকেল কোরা ছাড়াই ঘরোয়া পদ্ধতিতে নাড়ু তৈরির সহজ উপায় জানানো হয়েছে।",
+          "দীর্ঘক্ষণ কুরুনি দিয়ে নারকেল ঘষার ঝামেলা এড়াতে বিশেষ কৌশল অনুসরণ করা যায়।",
+          "ঝামেলা এড়াতে দোকান থেকে নাড়ু না কিনে ঘরেই সুস্বাদু নাড়ু তৈরি করুন।"
         ],
         "bullets_en": [
-          "Participants demanded the inclusion of a guarantee clause in the renewal of the Ganges water-sharing treaty.",
-          "The rally called for implementing the Padma Barrage and Teesta master plan alongside dredging 20,000 kilometers of rivers and canals.",
-          "Organizers plan to announce further programs to press policymakers for securing water rights and river conservation."
+          "Simple methods are shared to prepare narus at home without coconut grating.",
+          "Special techniques help avoid the trouble of grating coconuts for hours.",
+          "Make delicious narus at home instead of buying them from stores to save effort."
         ],
-        "impact_bn": "নদী ও খালের নাব্যতা ফিরলে সাধারণ মানুষ ও কৃষকরা উপকৃত হবেন এবং জলাবদ্ধতা ও সেকটসংকট কমবে।",
-        "impact_en": "Restoring river navigability will benefit farmers and communities by reducing water scarcity and seasonal waterlogging.",
-        "details_bn": "বাংলাদেশের ভেতর দিয়ে প্রবাহিত আন্তঃসীমান্ত নদীগুলোর সঠিক ব্যবস্থাপনা এবং পানির ন্যায্য হিস্যা নিয়ে দীর্ঘদিন ধরে বিশেষজ্ঞরা উদ্বেগ প্রকাশ করে আসছেন। ভারতের সাথে ১৯৯৬ সালের গঙ্গা পানি বণ্টন চুক্তির মেয়াদ শেষ হতে চলায় এটি নবায়নের প্রসঙ্গটি সামনে এসেছে। একই সাথে অভ্যন্তরীণ নদনদী ও খাল রক্ষায় দীর্ঘমেয়াদী মহাপরিকল্পনা বাস্তবায়নের তাগিদ দিয়ে আসছে বিভিন্ন পরিবেশবাদী সংগঠন।",
-        "details_en": "Experts have long expressed concern over the proper management and fair allocation of cross-border rivers flowing into Bangladesh. With the 1996 Ganges water-sharing treaty nearing its expiration, discussions on its renewal have intensified. Environmental organizations have consistently urged the implementation of long-term master plans to protect domestic rivers and canals."
+        "impact_bn": "গৃহিণীরা সহজেই এবং কম সময়ে পূজার ঐতিহ্যবাহী নাড়ু তৈরি করতে পারবেন।",
+        "impact_en": "Homemakers can easily and quickly prepare traditional puja narus with less physical strain.",
+        "details_bn": "কোজাগরী লক্ষ্মীপূজার অন্যতম প্রধান আকর্ষণ হলো নারকেলের নাড়ু। ঐতিহ্যবাহী এই মিষ্টি পদটি তৈরির প্রক্রিয়ায় নারকেল কোরা সবচেয়ে সময়সাপেক্ষ এবং কষ্টকর কাজ হিসেবে বিবেচিত হয়। অনেকেই এই ঝামেলার কারণে বাইরে থেকে নাড়ু কিনে আনেন। তবে আধুনিক ও সহজ কিছু গৃহস্থালি কৌশল জানা থাকলে এই প্রক্রিয়াটি অনেক সহজ হয়ে যায় এবং ঘরে বসেই নিখুঁত নাড়ু তৈরি করা সম্ভব হয়।",
+        "details_en": "Coconut naru is a staple offering for Kojagori Laxmi Puja. Grating coconut is traditionally considered the most time-consuming and exhausting part of this process. Many people avoid the hassle by purchasing ready-made sweets from shops. However, knowing a few simple household techniques makes this task much easier, allowing anyone to prepare perfect narus right at home."
+      }
+    },
+    {
+      "story_id": "154ddf32-7ef9-52b2-99a4-2947a9d492c7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "governance_law"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T08:54:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9119,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171391",
+          "title": "আমন চাষে খরচের বোঝা, লাভ নিয়ে শঙ্কায় কৃষক",
+          "snippet": "আমন চাষে খরচের বোঝা, লাভ নিয়ে শঙ্কায় কৃষক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নীলফামারীতে আমন চাষে উচ্চ উৎপাদন খরচ নিয়ে কৃষকদের শঙ্কা",
+        "title_en": "Farmers Face Rising Production Costs and Profit Uncertainty in Aman Cultivation",
+        "summary_bn": "নীলফামারীর ডিমলা উপজেলায় অতিরিক্ত ডিজেল ও সার খরচের কারণে আমন চাষাবাদে লাভের প্রত্যাশা নিয়ে দুশ্চিন্তায় পড়েছেন কৃষকরা।",
+        "summary_en": "Farmers in Dimla upazila face mounting anxiety over potential profit losses in Aman cultivation due to soaring diesel and fertilizer costs.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T08:54:39+00:00",
+        "lead_bn": "নীলফামারীর ডিমলা উপজেলায় অতিরিক্ত ডিজেল ও সার খরচের কারণে আমন চাষাবাদে লাভের প্রত্যাশা নিয়ে দুশ্চিন্তায় পড়েছেন কৃষকরা।",
+        "lead_en": "Farmers in Dimla upazila face mounting anxiety over potential profit losses in Aman cultivation due to soaring diesel and fertilizer costs.",
+        "bullets_bn": [
+          "অতিরিক্ত সেচ ব্যয় এবং সার ও কীটনাশকের চড়া দামের কারণে আমন আবাদের উৎপাদন খরচ অস্বাভাবিকভাবে বেড়ে গেছে।",
+          "স্থানীয় কৃষকদের অভিযোগ অনুযায়ী সারের নির্ধারিত মূল্য না পাওয়ায় তাদের প্রতি বিঘা জমিতে অতিরিক্ত খরচ বহন করতে হচ্ছে।",
+          "উৎপাদন ব্যয় বাড়ায় উৎপাদিত ধানের ন্যায্যমূল্য প্রাপ্তি নিয়ে অনিশ্চয়তায় রয়েছেন এই অঞ্চলের কৃষিজীবীরা।"
+        ],
+        "bullets_en": [
+          "Production costs for Aman cultivation surged abnormally due to high irrigation expenses and expensive fertilizers and pesticides.",
+          "Local farmers report paying higher prices than official rates for fertilizers, increasing financial pressure per bigha.",
+          "Rising expenses leave cultivators uncertain about securing fair prices for their harvested paddy in the market."
+        ],
+        "impact_bn": "উৎপাদন খরচ বৃদ্ধির কারণে খাদ্যশস্যের দাম বাড়ায় সাধারণ ভোক্তা ও কৃষিজীবী পরিবারগুলোর ওপর বাড়তি অর্থনৈতিক চাপ সৃষ্টি হচ্ছে।",
+        "impact_en": "Increased production expenses drive up staple food prices, placing additional financial strain on ordinary consumers and farming households.",
+        "details_bn": "বাংলাদেশ একটি কৃষিপ্রধান দেশ হওয়া সত্ত্বেও প্রতি মৌসুমে জ্বালানি তেল, সার ও কীটনাশকের মূল্যবৃদ্ধি কৃষকদের আর্থিক সংকটে ফেলে। নীলফামারীর ডিমলার মতো অঞ্চলে সেচ ও কৃষি উপকরণের চড়া দাম প্রান্তিক কৃষকদের লাভের মার্জিন কমিয়ে দেয়। সঠিক সময়ে সরকারি সহায়তা ও ভর্তুকি না পৌঁছানোর কারণে কৃষকরা উৎপাদিত ফসলের নায্যমূল্য থেকে প্রায়ই বঞ্চিত হন, যা গ্রামীণ অর্থনীতিতে নেতিবাচক প্রভাব ফেলে।",
+        "details_en": "Despite being an agrarian economy, rising prices of fuel, fertilizers, and pesticides frequently push farmers into financial distress each season. In regions like Dimla in Nilphamari, high costs for irrigation and inputs shrink profit margins for marginal cultivators. Delays in receiving agricultural subsidies and fair market access often deprive farmers of expected profits, negatively impacting the rural economy."
+      }
+    },
+    {
+      "story_id": "a947cd3d-c68a-5013-95e2-e19c63b79f26",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Ffvjpmz5o%2Fwmremove-transformed-16.jpeg?rect=0%2C0%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T08:54:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9069,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/0ki4cxwm2d",
+          "title": "পাঞ্জাবের মুখ্যমন্ত্রীর তিরে বিদ্ধ জ্ঞানেশ কুমারের ভাই",
+          "snippet": "পাঞ্জাবের মুখ্যমন্ত্রীর তিরে বিদ্ধ জ্ঞানেশ কুমারের ভাই"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পাঞ্জাবের মুখ্যমন্ত্রীকে হয়রানির নেপথ্যে প্রধান নির্বাচন কমিশনারের ভাই, দাবি ভগবন্ত মানের",
+        "title_en": "Punjab Chief Minister Accuses CEC Brother of Harassment at Delhi Airport",
+        "summary_bn": "দিল্লি বিমানবন্দরে হয়রানি ও জরিমানার নেপথ্যে প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমারের ভাই রয়েছেন বলে দাবি করেছেন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান।",
+        "summary_en": "Punjab Chief Minister Bhagwant Mann claimed that Chief Election Commissioner Gyanesh Kumar's brother orchestrated his harassment and fine at Delhi Airport.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T08:54:07+00:00",
+        "lead_bn": "দিল্লি বিমানবন্দরে হয়রানি ও জরিমানার নেপথ্যে প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমারের ভাই রয়েছেন বলে দাবি করেছেন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান।",
+        "lead_en": "Punjab Chief Minister Bhagwant Mann claimed that Chief Election Commissioner Gyanesh Kumar's brother orchestrated his harassment and fine at Delhi Airport.",
+        "bullets_bn": [
+          "পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত মানকে দিল্লি বিমানবন্দরে তল্লাশি করে ৫০ হাজার রুপি জরিমানা করা হয়।",
+          "দিল্লি শুল্ক বিভাগের ভারপ্রাপ্ত কর্মকর্তা মণীশ কুমার সিইসি জ্ঞানেশ কুমারের ভাই বলে বিধানসভায় জানান মান।",
+          "ভোটার তালিকা সংশোধন ও সিইসির কাজকর্ম নিয়ে স্বাধীন তদন্তের দাবি জানিয়ে পাঞ্জাব বিধানসভায় প্রস্তাব গৃহীত হয়।"
+        ],
+        "bullets_en": [
+          "Punjab Chief Minister Bhagwant Mann was searched and fined 50,000 rupees at Delhi Airport.",
+          "Mann told the assembly that Delhi Customs official Manish Kumar is the brother of CEC Gyanesh Kumar.",
+          "The Punjab Assembly passed a resolution demanding an independent probe into voter list revisions and CEC's actions."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফ্রান্সের প্যারিস থেকে ফেরার পথে দিল্লি বিমানবন্দরে হেনস্তার শিকার হন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান। বিধানসভায় তিনি অভিযোগ করেন, শুল্ক বিভাগের ভারপ্রাপ্ত কর্মকর্তা ও সিইসির ভাই মণীশ কুমারের নির্দেশে তাঁকে অহেতুক আটকে রেখে তল্লাশি চালানো হয় এবং ৫০ হাজার রুপি জরিমানা করা হয়। এর প্রতিবাদে পাঞ্জাব বিধানসভায় সিইসির কাজকর্ম নিয়ে স্বাধীন তদন্তের দাবি জানিয়ে একটি প্রস্তাব পাস হয়। অন্যদিকে, বিজেপি এই অভিযোগ অস্বীকার করে শুল্ক বিভাগের জরিমানার কারণ প্রকাশ্যে আনার চ্যালেঞ্জ ছুড়ে দিয়েছে।",
+        "details_en": "Punjab Chief Minister Bhagwant Mann faced harassment and a 50,000 rupee fine by customs officials at Delhi Airport upon returning from Paris. In the state assembly, Mann alleged that Delhi Customs official Manish Kumar, brother of CEC Gyanesh Kumar, orchestrated the incident under political pressure. Following this, the assembly passed a resolution demanding an independent investigation into the CEC's actions. Meanwhile, the BJP dismissed the allegations, challenging the Chief Minister to make the customs fine documentation public."
       }
     }
   ]
