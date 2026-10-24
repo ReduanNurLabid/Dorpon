@@ -1,59 +1,169 @@
 {
-  "updated_at": "2026-10-24T22:00:53.142774",
+  "updated_at": "2026-10-24T23:00:50.444281",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "8d4a1f38-c7d0-5a98-9a46-88f47edf4d4f",
-      "primary_category": "world_diplomacy",
+      "story_id": "a7cdd988-bd21-593f-a2c2-04b0d022a5cc",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T21:52:25+00:00",
+      "published_at": "2026-10-24T22:47:49+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.4498,
+      "importance_score": 2.4,
+      "rank_score": 0.8515,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171592",
-          "title": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী",
-          "snippet": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী"
+          "url": "https://www.jagonews24.com/national/news/1171593",
+          "title": "মতিঝিলে বিশেষ অভিযানে গ্রেফতার ৭৮",
+          "snippet": "মতিঝিলে বিশেষ অভিযানে গ্রেফতার ৭৮"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman is Visiting Japan",
-        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে জাপান যাত্রা করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan at the invitation of the Japanese premier.",
+        "title_bn": "মতিঝিলে ডেমপির বিশেষ অভিযানে বিভিন্ন অপরাধে গ্রেফতার ৭৮",
+        "title_en": "Police Arrest 78 Individuals During Special Drive in Motijheel",
+        "summary_bn": "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত ৭৮ জনকে গ্রেফতার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
+        "summary_en": "Law enforcement agencies arrested 78 individuals for various crimes during a special drive in crime-prone areas of Motijheel.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:52:25+00:00",
-        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে জাপান যাত্রা করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan at the invitation of the Japanese premier.",
+        "published_at": "2026-10-24T22:47:49+00:00",
+        "lead_bn": "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত ৭৮ জনকে গ্রেফতার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
+        "lead_en": "Law enforcement agencies arrested 78 individuals for various crimes during a special drive in crime-prone areas of Motijheel.",
         "bullets_bn": [
-          "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
-          "বিমান বাংলাদেশ এয়ারলাইন্সের একটি বিশেষ ফ্লাইটে দ্বিপক্ষীয় আলোচনার উদ্দেশ্যে এই সফর অনুষ্ঠিত হচ্ছে।",
-          "সফরে দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ, বিনিয়োগ বৃদ্ধি এবং অর্থনৈতিক সহযোগিতা বিষয়ে গুরুত্বপূর্ণ সমঝোতা হওয়ার কথা রয়েছে।"
+          "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান পরিচালনা করা হয়।",
+          "অভিযানে বিভিন্ন অপরাধে জড়িত সন্দেহে মোট ৭৮ জনকে গ্রেফতার করা হয়েছে।",
+          "গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman is departing on a four-day official visit at the invitation of Japanese Prime Minister Sanae Takaichi.",
-          "The official tour is being conducted via a flight of Biman Bangladesh Airlines to engage in bilateral talks.",
-          "Important understandings regarding the expansion of bilateral trade, increased investment, and economic cooperation are expected during the visit."
+          "A special police drive was conducted in crime-prone areas under the Motijheel division of Dhaka Metropolitan Police.",
+          "A total of 78 individuals were arrested for involvement in various criminal activities.",
+          "Legal procedures are currently underway against all the arrested individuals."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুভাবাপন্ন কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। ঢাকা মেট্রোরেলসহ দেশের বেশ কয়েকটি মেগা প্রকল্পে জাপান প্রধান উন্নয়ন অংশীদার হিসেবে অর্থায়ন করে আসছে। দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে এবং অর্থনৈতিক অংশীদারিত্ব বাড়াতে এই উচ্চপর্যায়ের সফর অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন কূটনৈতিক বিশ্লেষকরা।",
-        "details_en": "Bangladesh and Japan share longstanding friendly diplomatic and economic ties. Japan has been a major development partner, financing several mega projects including the Dhaka Metro Rail. Analysts view this high-level visit as highly significant for further strengthening bilateral relations and enhancing economic partnership."
+        "impact_bn": "এই বিশেষ অভিযانের ফলে মতিঝিল এলাকার অপরাধমূলক কার্যক্রম কমবে এবং সাধারণ নাগরিকরা স্বস্তিবোধ করবেন।",
+        "impact_en": "This special drive aims to reduce criminal activities in the Motijheel area and enhance public safety for residents.",
+        "details_bn": "রাজধানীর আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে রাখতে ঢাকা মেট্রোপলিটন পুলিশ নিয়মিতভাবে বিভিন্ন অপরাধপ্রবণ এলাকায় অভিযান পরিচালনা করে আসছে। অপরাধ দমন এবং ওয়ারেন্টভুক্ত আসামিদের গ্রেফতারে ডিএমপির বিভিন্ন বিভাগ এই ধরনের বিশেষ অভিযান অব্যাহত রেখেছে।",
+        "details_en": "To maintain law and order in the capital, the Dhaka Metropolitan Police regularly conducts drives in crime-prone areas. Various divisions of the DMP continue these special operations to curb crime and apprehend warrant-listed suspects."
+      }
+    },
+    {
+      "story_id": "82bf9810-7dd9-537d-8f5c-96189b3f8926",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fobysnrvb%2Fmoment-prayer-night-sky.jpg?rect=0%2C576%2C5120%2C2688&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T22:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7232,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/religion/islam/b7yn4c1jnj",
+          "title": "যখন তওবা করলেও আল্লাহ ক্ষমা করবেন না",
+          "snippet": "যখন তওবা করলেও আল্লাহ ক্ষমা করবেন না"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যে বিশেষ পরিস্থিতিতে তওবা করলেও আল্লাহ ক্ষমা করেন না",
+        "title_en": "Specific Situations When Repentance Is Not Accepted by Allah",
+        "summary_bn": "মৃত্যুর সময় রুহ কণ্ঠনালিতে পৌঁছালে এবং কেয়ামতের দিন পশ্চিম দিক থেকে সূর্য উঠলে তওবা কবুল হয় না।",
+        "summary_en": "Repentance is permanently rejected when the soul reaches the throat at death and when the sun rises from the west.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T22:30:00+00:00",
+        "lead_bn": "মৃত্যুর সময় রুহ কণ্ঠনালিতে পৌঁছালে এবং কেয়ামতের দিন পশ্চিম দিক থেকে সূর্য উঠলে তওবা কবুল হয় না।",
+        "lead_en": "Repentance is permanently rejected when the soul reaches the throat at death and when the sun rises from the west.",
+        "bullets_bn": [
+          "মৃত্যুর ঠিক পূর্বে যখন রুহ বা আত্মা কণ্ঠনালিতে পৌঁছে যায়, তখন মানুষের কোনো তওবা আল্লাহ গ্রহণ করেন না।",
+          "সুরা নিসার ১৮ নম্বর আয়াতে এবং তিরমিজি শরিফের ৩৫৩৭ নম্বর হাদিসে তওবা কবুল না হওয়ার এই সময়টি স্পষ্ট করা হয়েছে।",
+          "কেয়ামতের অন্যতম বড় নিদর্শন হিসেবে পশ্চিম দিক থেকে সূর্য উঠলেও পৃথিবীর সব মানুষের জন্য তওবার দরজা চিরতরে বন্ধ হয়ে যাবে।"
+        ],
+        "bullets_en": [
+          "Allah does not accept repentance when a person reaches the agony of death and the soul reaches the throat.",
+          "This limitation is explicitly detailed in Surah An-Nisa verse 18 and Jami at-Tirmidhi hadith 3537.",
+          "The door of repentance will also be permanently closed for all humanity when the sun rises from the west."
+        ],
+        "impact_bn": "মানুষকে জীবদ্দশায় সৎ পথে চলার এবং সময় থাকতে ক্ষমা চাওয়ার তাগিদ দেয় এই ধর্মীয় নির্দেশনা।",
+        "impact_en": "This religious directive urges individuals to seek forgiveness and lead righteous lives while there is still time.",
+        "details_bn": "ইসলাম ধর্ম অনুযায়ী, বান্দার যেকোনো বড় পাপের ক্ষমা পাওয়ার প্রধান উপায় হলো সত্যিকার অর্থে তওবা করা। কোরআন ও হাদিসের বর্ণনা অনুযায়ী, আল্লাহর রহমতের পরিধি অসীম হলেও তওবা কবুল হওয়ার নির্দিষ্ট সময়সীমা রয়েছে। মানুষ যখন দুনিয়া ত্যাগ করার চূড়ান্ত মুহূর্তে পৌঁছায় কিংবা পরকালের অদৃশ্য জগৎ স্বচক্ষে দেখতে পায়, তখন আর তওবা গ্রহণযোগ্য হয় না। এছাড়া কেয়ামতের বড় নিদর্শন প্রকাশের পরও নতুন করে কোনো তওবা বা ইমান কবুল করা হবে না।",
+        "details_en": "According to Islamic teachings, sincere repentance is the primary path to seeking forgiveness for major sins. While divine mercy is vast, scriptural texts outline strict temporal boundaries for its acceptance. Once a person reaches the final moments of earthly existence and faces impending death, or when major apocalyptic signs manifest, the opportunity for repentance lapses permanently."
+      }
+    },
+    {
+      "story_id": "b8f1c2ab-9321-54fa-a8cd-4375ad77205a",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T22:10:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6152,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976534/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%95%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8",
+          "title": "পুলিশের চেকপোস্ট চলাকালীন মিরপুরে অস্ত্রসহ দুজন গ্রেফতার",
+          "snippet": "পুলিশের চেকপোস্ট চলাকালীন মিরপুরে অস্ত্রসহ দুজন গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মিরপুরে অস্ত্রসহ মোটরসাইকেল আরোহী দুজনকে গ্রেফতার করেছে পুলিশ",
+        "title_en": "Police Arrest Two Individuals with Firearms at Mirpur Checkpost",
+        "summary_bn": "রাজধানীর মিরপুরে বিশেষ চেকপোস্ট পরিচালনা করে একটি বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশ।",
+        "summary_en": "Dhaka Metropolitan Police arrested two individuals along with a foreign pistol and ammunition during a checkpoint operation in Mirpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T22:10:00+00:00",
+        "lead_bn": "রাজধানীর মিরপুরে বিশেষ চেকপোস্ট পরিচালনা করে একটি বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশ।",
+        "lead_en": "Dhaka Metropolitan Police arrested two individuals along with a foreign pistol and ammunition during a checkpoint operation in Mirpur.",
+        "bullets_bn": [
+          "চেকপোস্টে তল্লাশি চালিয়ে মশিউল ম ও শান্ত ইসলাম নামের দুজনকে গ্রেফতার করে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
+          "অভিযানের সময় তাদের কাছ থেকে একটি বিদেশি পিস্তল, একটি ম্যাগাজিন, দুই রাউন্ড তাজা গুলি এবং একটি মোটরসাইকেল জব্দ করা হয়।",
+          "গ্রেফতারকৃতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে এবং এ বিষয়ে পরবর্তীতে বিস্তারিত জানানো হবে।"
+        ],
+        "bullets_en": [
+          "Law enforcement agencies arrested Mashiul Azam and Shanta Islam during a search at a checkpoint.",
+          "A foreign pistol, a magazine, two rounds of live ammunition, and a motorcycle were seized from their possession.",
+          "Legal procedures against the arrestees are underway, and further details will be disclosed later."
+        ],
+        "impact_bn": "রাজধানীর নিরাপত্তা জোরদারে পুলিশের এমন নিয়মিত চেকপোস্ট ও অভিযান সাধারণ মানুষের সার্বিক নিরাপত্তা রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+        "impact_en": "Regular police checkpoints and operations strengthen capital security and play a vital role in protecting ordinary citizens.",
+        "details_bn": "রাজধানীতে অপরাধ প্রবণতা রোধ এবং অবৈধ অস্ত্র উদ্ধার ও সন্ত্রাসী কার্যক্রম দমনে ঢাকা মেট্রোপলিটন পুলিশ নিয়মিত বিভিন্ন পয়েন্টে চেকপোস্ট পরিচালনা করে থাকে। এই চলমান নিরাপত্তার অংশ হিসেবে মিরপুর এলাকায় সন্দেহভাজন যানবাহন ও ব্যক্তিদের তল্লাশি করার সময় অস্ত্রসহ ওই দুজনকে আটক করা হয়। আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে এ ধরনের অভিযান আরও জোরদার করা হয়েছে।",
+        "details_en": "Dhaka Metropolitan Police regularly operates checkpoints across the capital to curb crime, recover illegal arms, and suppress terrorist activities. As part of this ongoing security measure, the two individuals were intercepted and detained while searching suspicious vehicles and individuals in the Mirpur area. Such operations have been further intensified to maintain law and order."
       }
     },
     {
@@ -71,7 +181,7 @@
       "published_at": "2026-10-24T21:35:34+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7591,
+      "rank_score": 0.4847,
       "sources": [
         {
           "name": "Jago News 24",
@@ -81,10 +191,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি গমনের ১৪৪ ফ্লাইট বাতিল হওয়ায় চরম ভোগান্তিতে হাজার হাজার প্রবাসী",
-        "title_en": "Cancellation of 144 Saudi Flights Strands Thousands of Migrant Workers",
-        "summary_bn": "সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় দুই লক্ষাধিক টাকা খরচ করা ২২ হাজারেরও বেশি যাত্রী মারাত্মক ভোগান্তিতে পড়েছেন।",
-        "summary_en": "The cancellation of 144 flights to Riyadh and Dammam in Saudi Arabia has stranded over 22,000 migrant workers.",
+        "title_bn": "সৌদি গামী রিয়াদ ও দাম্মামের ১৪৪ ফ্লাইট বাতিল",
+        "title_en": "One Hundred Forty Four Flights to Riyadh and Dammam Cancelled",
+        "summary_bn": "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজার হাজার প্রবাসী কর্মী।",
+        "summary_en": "The cancellation of one hundred forty four flights from Dhaka to Riyadh and Dammam has stranded thousands of expatriate workers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -92,22 +202,80 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T21:35:34+00:00",
-        "lead_bn": "সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় দুই লক্ষাধিক টাকা খরচ করা ২২ হাজারেরও বেশি যাত্রী মারাত্মক ভোগান্তিতে পড়েছেন।",
-        "lead_en": "The cancellation of 144 flights to Riyadh and Dammam in Saudi Arabia has stranded over 22,000 migrant workers.",
+        "lead_bn": "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজার হাজার প্রবাসী কর্মী।",
+        "lead_en": "The cancellation of one hundred forty four flights from Dhaka to Riyadh and Dammam has stranded thousands of expatriate workers.",
         "bullets_bn": [
-          "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামের মোট ১৪৪টি ফ্লাইট আকস্মিক বাতিল করা হয়েছে।",
-          "ফ্লাইট বাতিলের কারণে ২২ হাজার ২১ জন প্রবাসী যাত্রী সরাসরি আর্থিক ক্ষতি ও অনিশ্চয়তার মুখে পড়েছেন।",
-          "ক্ষতিগ্রস্ত যাত্রীদের টিকিটের অর্থ ফেরৎ বা বিকল্প ফ্লাইটে পাঠানোর বিষয়ে এয়ারলাইনসগুলোর পক্ষ থেকে ব্যবস্থা নেওয়া হচ্ছে।"
+          "ঢাকা থেকে রিয়াদ ও দাম্মাম রুটের মোট ১৪৪টি নিয়মিত ফ্লাইট বাতিল করা হয়েছে।",
+          "ফ্লাইট বাতিলের কারণে মোট ২২ হাজার ২১ জন যাত্রী সরাসরি ক্ষতিগ্রস্ত হয়েছেন।",
+          "ক্ষতিগ্রস্ত যাত্রীদের টিকিটের অর্থ ফেরত বা বিকল্প ফ্লাইটের ব্যবস্থা করার প্রক্রিয়া চলছে।"
         ],
         "bullets_en": [
-          "A total of 144 flights from Dhaka to Riyadh and Dammam in Saudi Arabia have been abruptly cancelled.",
-          "The cancellations have directly impacted and stranded 22,021 migrant passengers.",
-          "Airlines are coordinating to issue ticket refunds or arrange alternative flights for the affected passengers."
+          "A total of one hundred forty four regular flights from Dhaka to Riyadh and Dammam routes were cancelled.",
+          "A total of twenty two thousand and twenty one passengers faced severe disruptions due to the cancellations.",
+          "Airlines are currently processing refunds or arranging alternative flights for the affected passengers."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যগামী প্রবাসী শ্রমিকেরা সময়মতো কর্মস্থলে যোগ দিতে না পেরে চাকরি হারানোর ঝুঁকিতে পড়েছেন।",
-        "impact_en": "Migrant workers bound for the Middle East face job insecurity due to delays in reaching their workplaces.",
-        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন রুটে ফ্লাইট পরিচালনা ও সিডিউল বিপর্যয় প্রায়শই ঘটে থাকে। সাম্প্রতিক সময়ে বিভিন্ন এয়ারলাইনসের যান্ত্রিক ত্রুটি, সিডিউল বিপর্যয় এবং বিমানবন্দর ব্যবস্থাপনার সমস্যার কারণে ঢাকা থেকে মধ্যপ্রাচ্যগামী অনেক ফ্লাইট নির্দিষ্ট সময়ে ছাড়তে ব্যর্থ হয়। এর ফলে প্রবাসী শ্রমিকদের ট্রাভেল ভিসার মেয়াদ ও কর্মসংস্থান ঝুঁকির মুখে পড়ে, যা দেশের জনশক্তি রপ্তানি খাতে নেতিবাচক প্রভাব ফেলে।",
-        "details_en": "Flight operations and schedule disruptions on Middle Eastern routes occur frequently. Recently, technical glitches, schedule mismanagement, and airport operational issues have caused numerous flights from Dhaka to the Middle East to miss their departure times. This puts migrant workers' employment visas and job security at risk, adversely affecting the country's manpower export sector."
+        "impact_bn": "বিদেশে কর্মসংস্থানে যেতে ইচ্ছুক ও প্রবাসী কর্মীরা সময়মতো গন্তব্যে পৌঁছাতে না পেরে আর্থিক ও পেশাগত ক্ষতির মুখে পড়েছেন।",
+        "impact_en": "Expatriate workers facing sudden travel disruptions experience financial losses and potential risks to their overseas employment.",
+        "details_bn": "হঠাৎ করে ফ্লাইট বাতিলের এই ঘটনায় মধ্যপ্রাচ্যগামী অভিবাসী শ্রমিকদের মধ্যে তীব্র অসন্তোষ ও উদ্বেগ তৈরি হয়েছে। সংশ্লিষ্ট বিমানবন্দর কর্তৃপক্ষ ও এয়ারলাইনসগুলোর পক্ষ থেকে যাত্রীদের বিকল্প ব্যবস্থার মাধ্যমে গন্তব্যে পাঠানোর কাজ চলছে। এ ধরনের ফ্লাইট বাতিল প্রায়ই কূটনৈতিক ও রুট পরিচালনার জটিলতার কারণে ঘটে থাকে, যা অভিবাসী কর্মীদের জীবনযাত্রাকে সরাসরি প্রভাবিত করে।",
+        "details_en": "The sudden cancellation of flights has triggered widespread anxiety among Middle East bound migrant workers. Airport authorities and respective airlines are working to manage alternative travel arrangements for the stranded passengers. Such flight suspensions often stem from operational or route management complexities, directly impacting the livelihoods of expatriate workers."
+      }
+    },
+    {
+      "story_id": "87063482-2ee9-5f74-a8d4-dcc8cfb7e7ad",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Starlink",
+        "#Ukraine",
+        "#SpaceX",
+        "#ElonMusk"
+      ],
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "image_caption": null,
+      "published_at": "2026-10-24T20:46:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2599,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+          "title": "Starlink seems to be working normally again in Ukraine",
+          "snippet": "Starlink seems to be working normally again in Ukraine"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনে স্টারশিল্ড ইন্টারনেট সেবা পুনরায় চালু করেছে স্পেসএক্স",
+        "title_en": "SpaceX Restores Starshield Internet Service for Military Operations in Ukraine",
+        "summary_bn": "স্পেসএক্স ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে বিধিনিষেধ তুলে নিয়েছে।",
+        "summary_en": "SpaceX has reportedly lifted restrictions on the Ukrainian military use of the Starshield internet system.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T20:46:34+00:00",
+        "lead_bn": "স্পেসএক্স ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে বিধিনিষেধ তুলে নিয়েছে।",
+        "lead_en": "SpaceX has reportedly lifted restrictions on the Ukrainian military use of the Starshield internet system.",
+        "bullets_bn": [
+          "ইউক্রেনীয় সামরিক বাহিনীর ব্যবহারের জন্য স্টারশিল্ড ইন্টারনেটের ওপর আরোপিত বিধিনিষেধ প্রত্যাহার করেছে স্পেসএক্স।",
+          "দিন ধরে উচ্চগতিতে চলা ইউক্রেনীয় ড্রোনগুলোর ইন্টারনেট সংযোগ বিচ্ছিন্ন থাকার পর এই পদক্ষেপ নেওয়া হয়।",
+          "সামরিক বাহিনী বর্তমানে সংযোগের কার্যকারিতা পরীক্ষা করছে এবং এই বিধিনিষেধের সুনির্দিষ্ট কোনো কারণ পায়নি।"
+        ],
+        "bullets_en": [
+          "SpaceX lifted restrictions on the Ukrainian military use of the Starshield internet system.",
+          "The restoration follows a 10-day period where Ukrainian drones lost connectivity at high speeds.",
+          "The military is currently conducting tests to verify connectivity without receiving an official explanation."
+        ],
+        "impact_bn": "এই সেবার স্বাভাবিকীকরণের ফলে ইউক্রেনীয় ড্রোন অপারেশন এবং ফ্রন্টলাইন যোগাযোগ ব্যবস্থা পুনরায় সচল হয়েছে।",
+        "impact_en": "The restoration of satellite internet ensures uninterrupted drone operations and frontline communications for the Ukrainian military.",
+        "details_bn": "এর আগে উচ্চগতিতে চলা ইউক্রেনীয় ড্রোনগুলোর ইন্টারনেট সংযোগ বিচ্ছিন্ন হওয়ার কারণে ড্রোন নিয়ন্ত্রণে সমস্যা দেখা দেয়। মার্কিন প্রশাসনের সাথে যোগাযোগের পর স্পেসএক্স এই পদক্ষেপ নেয়। ইলন মাস্ক পূর্বে ইউক্রেনের ড্রোন ব্যবহারের শর্ত লঙ্ঘন নিয়ে উদ্বেগ প্রকাশ করলেও স্টারশিল্ডের গুরুত্ব স্বীকার করেছেন।",
+        "details_en": "SpaceX previously throttled Ukraine's Starshield access after allegations that terms of service were violated during drone operations. The restriction caused connectivity issues for high-speed drones, prompting discussions involving US leadership. Elon Musk later acknowledged that turning off the system entirely would cause the frontline to collapse."
       }
     },
     {
@@ -125,7 +293,7 @@
       "published_at": "2026-10-24T21:26:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7033,
+      "rank_score": 0.4589,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -137,8 +305,8 @@
       "daily_buzz": {
         "title_bn": "খুলনায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির দায়ে ব্যবসায়ীকে কারাদণ্ড",
         "title_en": "Trader Sentenced to Jail for Selling Horse Meat as Beef in Khulna",
-        "summary_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের বিনাশ্রম কারাদণ্ড প্রদান করেছেন।",
-        "summary_en": "A mobile court sentenced a dishonest trader to three months of rigorous imprisonment for selling horse meat as beef in Dumuria, Khulna.",
+        "summary_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের কারাদণ্ড দিয়েছেন।",
+        "summary_en": "A mobile court sentenced a dishonest trader to three months in jail for selling horse meat disguised as beef in Dumuria, Khulna.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -146,184 +314,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T21:26:46+00:00",
-        "lead_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের বিনাশ্রম কারাদণ্ড প্রদান করেছেন।",
-        "lead_en": "A mobile court sentenced a dishonest trader to three months of rigorous imprisonment for selling horse meat as beef in Dumuria, Khulna.",
+        "lead_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের কারাদণ্ড দিয়েছেন।",
+        "lead_en": "A mobile court sentenced a dishonest trader to three months in jail for selling horse meat disguised as beef in Dumuria, Khulna.",
         "bullets_bn": [
-          "ডুমুরিয়ার কাঞ্চনপুর এলাকায় গরুর মাংসের পরিবর্তে ঘোড়ার মাংস বিক্রির সময় অসাধু ব্যবসায়ীকে আটক করা হয়।",
-          "র‌্যাব-৬ এবং ডুমুরিয়া উপজেলার নির্বাহী ম্যাজিস্ট্রেটের যৌথ উদ্যোগে এই ভ্রাম্যমাণ আদালত পরিচালনা করা হয়।",
-          "অভিযুক্ত ব্যবসায়ীকে দোষী সাব্যস্ত করে তিন মাসের বিনাশ্রম কারাদণ্ড দিয়ে কারাগারে পাঠানো হয়েছে।"
+          "ভ্রাম্যমাণ আদালত ডুমুরিয়া থানার কাঞ্চনপুর এলাকায় অভিযান পরিচালনা করে ওই ব্যবসায়ীকে কারাদণ্ড প্রদান করেন।",
+          "র‌্যাব-৬ এবং ডুমুরিয়া উপজেলার নির্বাহী ম্যাজিস্ট্রেটের যৌথ উদ্যোগে এই অভিযান পরিচালিত হয়।",
+          "অসাধু ব্যবসায়ীদের বিরুদ্ধে এ ধরনের ভেজালবিরোধী অভিযান ও আইনি পদক্ষেপ অব্যাহত থাকবে।"
         ],
         "bullets_en": [
-          "A dishonest trader was caught selling horse meat disguised as beef in the Kanchonpur area of Dumuria.",
-          "The mobile court operation was conducted jointly by RAB-6 and the executive magistrate of Dumuria.",
-          "The accused trader was found guilty and sentenced to three months of rigorous imprisonment."
+          "A mobile court sentenced the trader after conducting a raid in the Kanchonpur area of Dumuria.",
+          "The operation was jointly conducted by RAB-6 and the executive magistrate of Dumuria.",
+          "Such anti-adulteration drives and legal actions against dishonest traders will continue."
         ],
-        "impact_bn": "খাদ্যদ্রব্যে ভেজাল ও প্রতারণা রোধে প্রশাসনের এমন কঠোর পদক্ষেপে সাধারণ consumidores স্বস্তি পেলেও ভেজাল খাদ্য বিক্রির প্রবণতা নিয়ে উদ্বেগ রয়ে গেছে।",
-        "impact_en": "Such strict administrative actions bring relief to consumers against food fraud, though concerns over food adulteration persist.",
-        "details_bn": "সম্প্রতি দেশের বিভিন্ন স্থানে অসাধু ব্যবসায়ীদের বিরুদ্ধে ভেজাল খাদ্য ও নিষিদ্ধ মাংস বিক্রির অভিযোগ বাড়ছে। সাধারণ মানুষের স্বাস্থ্যঝুঁকি ও প্রতারণা রোধে আইন শৃঙ্খলা রক্ষাকারী বাহিনী ও স্থানীয় প্রশাসন নিয়মিত অভিযান পরিচালনা করে আসছে। তারই ধারাবাহিকতায় খুলনার ডুমুরিয়ায় এই ভ্রাম্যমাণ আদালত পরিচালনা করা হয়।",
-        "details_en": "Allegations of selling adulterated food and prohibited meat by dishonest traders have been rising across the country. Law enforcement agencies and local administration regularly conduct drives to prevent health hazards and consumer fraud, leading to this mobile court operation in Dumuria."
-      }
-    },
-    {
-      "story_id": "8650a354-1ccf-56d3-957c-abc3131ff457",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T21:08:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6093,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171590",
-          "title": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু",
-          "snippet": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মৌলভীবাজারে নিখোঁজ মাদরাসাশিক্ষক উদ্ধার হলেও হাসপাতালে নেওয়ার পথে মৃত্যু",
-        "title_en": "Missing Madrassa Teacher Found Injured Dies on Way to Hospital",
-        "summary_bn": "নিখোঁজ হওয়ার একদিন পর মৌলভীবাজারে এক মাদরাসাশিক্ষককে সেতুর নিচ থেকে উদ্ধার করার পর হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়।",
-        "summary_en": "A missing madrassa teacher was found under a bridge in Moulvibazar and died on the way to the hospital.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:08:46+00:00",
-        "lead_bn": "নিখোঁজ হওয়ার একদিন পর মৌলভীবাজারে এক মাদরাসাশিক্ষককে সেতুর নিচ থেকে উদ্ধার করার পর হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়।",
-        "lead_en": "A missing madrassa teacher was found under a bridge in Moulvibazar and died on the way to the hospital.",
-        "bullets_bn": [
-          "শ্রীমঙ্গল উপজেলার বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার নিখোঁজ ছিলেন।",
-          "নিখোঁজ থাকার একদিন পর তাকে একটি সেতুর নিচে গুরুতর অবস্থায় পাওয়া যায়।",
-          "উদ্ধার করে হাসপাতালে নেওয়ার পথেই তার মৃত্যু নিশ্চিত করা হয়।"
-        ],
-        "bullets_en": [
-          "Mawlana Shah Moniruzzaman Jasim Talukdar was a teacher at the Baruna Madrassa in Sreemangal.",
-          "He was found in critical condition under a bridge one day after going missing.",
-          "He was pronounced dead while being rushed to the hospital following the rescue."
-        ],
-        "impact_bn": "এই আকস্মিক মৃত্যুতে স্থানীয় শিক্ষাঙ্গন এবং শিক্ষার্থী ও অভিভাবকদের মধ্যে গভীর শোকের ছায়া নেমে এসেছে।",
-        "impact_en": "This sudden death has cast a shadow of deep shock among local educational institutions, students, and guardians.",
-        "details_bn": "মৌলভীবাজারের শ্রীমঙ্গল উপজেলার ঐতিহ্যবাহী জামেয়া লুৎফিয়া আনোয়ারুল উলুম হামিদ নগর বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার হঠাৎ নিখোঁজ হন। খোঁজাখুঁজির এক পর্যায়ে তাকে একটি সেতুর নিচে অচেতন অবস্থায় পাওয়া যায়। তাৎক্ষণিকভাবে তাকে উদ্ধারের পর হাসপাতালে নেওয়ার ব্যবস্থা করা হলেও পথেই তিনি মারা যান। এ ঘটনায় এলাকায় চাঞ্চল্য ও শোকের সৃষ্টি হয়েছে।",
-        "details_en": "Mawlana Shah Moniruzzaman Jasim Talukdar, a teacher at Jamia Lutfia Anwarul Ulum Hamid Nagar Baruna Madrassa in Sreemangal, Moulvibazar, went missing under mysterious circumstances. After a search, he was found unconscious under a bridge. Although immediate efforts were made to take him to the hospital, he passed away on the way, sparking widespread shock and grief in the area."
-      }
-    },
-    {
-      "story_id": "74462798-5bd8-5a7f-bf50-39bb3ee1b05d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T20:27:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.461,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171589",
-          "title": "ভৈরবে টর্চলাইট জ্বালিয়ে দুই পক্ষের সংঘর্ষ, আহত ১৫",
-          "snippet": "ভৈরবে টর্চলাইট জ্বালিয়ে দুই পক্ষের সংঘর্ষ, আহত ১৫"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে আহত ১৫",
-        "title_en": "Fifteen Injured in Clash Between Two Groups in Bhairab",
-        "summary_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে অন্তত ১৫ জন আহত হয়েছেন।",
-        "summary_en": "At least fifteen people were injured following a clash between two groups over a trivial issue in Bhairab.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T20:27:33+00:00",
-        "lead_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে অন্তত ১৫ জন আহত হয়েছেন।",
-        "lead_en": "At least fifteen people were injured following a clash between two groups over a trivial issue in Bhairab.",
-        "bullets_bn": [
-          "তুচ্ছ ঘটনাকে কেন্দ্র করে ভৈরবে স্থানীয় দুটি পক্ষের মধ্যে সংঘর্ষ বাধে।",
-          "অন্ধকারে টর্চলাইট জ্বালিয়ে দেশীয় অস্ত্র নিয়ে এই সংঘর্ষে লিপ্ত হয় উভয় পক্ষ।",
-          "সংঘর্ষে উভয় পক্ষের অন্তত ১৫ জন আহত হয়ে স্থানীয়ভাবে চিকিৎসা নিয়েছেন।"
-        ],
-        "bullets_en": [
-          "A violent clash erupted between two local groups in Bhairab following a trivial dispute.",
-          "Both groups used makeshift weapons and illuminated the dark with torches during the altercation.",
-          "At least fifteen individuals from both sides sustained injuries and received medical treatment."
-        ],
-        "impact_bn": "স্থানীয় আইনশৃঙ্খলা পরিস্থিতির অবনতির কারণে সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা তৈরি হচ্ছে।",
-        "impact_en": "Local residents face growing security concerns due to recurring violent clashes in the area.",
-        "details_bn": "কিশোরগঞ্জের ভৈরব উপজেলায় তুচ্ছ বিষয় নিয়ে স্থানীয়দের মধ্যে দীর্ঘদিন ধরে বিরোধ চলে আসছিল। এরই ধারাবাহিকতায় সম্প্রতি রাতের অন্ধকারে দুই পক্ষ দেশীয় অস্ত্রশস্ত্র নিয়ে সংঘর্ষে জড়িয়ে পড়ে। পরিস্থিতি নিয়ন্ত্রণে স্থানীয় আইনশৃঙ্খলা বাহিনী কাজ শুরু করেছে এবং এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে।",
-        "details_en": "Tensions had been simmering for a long time between local factions in Bhairab upazila over minor disputes. Recently, the situation escalated into a violent confrontation in the dark using local weapons. Law enforcement agencies have intervened to control the situation and additional police personnel have been deployed in the area."
-      }
-    },
-    {
-      "story_id": "889cf07f-2eb9-5186-9d8b-1beeb6e4eaf8",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T19:07:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.304,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976530/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A7%AA-%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A7-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0",
-          "title": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত",
-          "snippet": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বঙ্গোপসাগরে নিম্নচাপ সৃষ্টি, চার সমুদ্রবন্দরে এক নম্বর দূরবর্তী সতর্কতা সংকেত",
-        "title_en": "Depression Forms in Bay of Bengal, Distant Caution Signal One for Ports",
-        "summary_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্কসংকেত দেখাতে বলা হয়েছে।",
-        "summary_en": "Maritime ports have been advised to hoist distant cautionary signal one following a depression in the Bay of Bengal.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T19:07:00+00:00",
-        "lead_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্কসংকেত দেখাতে বলা হয়েছে।",
-        "lead_en": "Maritime ports have been advised to hoist distant cautionary signal one following a depression in the Bay of Bengal.",
-        "bullets_bn": [
-          "পূর্বমধ্য বঙ্গোপসাগর ও সংলগ্ন এলাকায় অবস্থানরত সুস্পষ্ট লঘুচাপটি নিম্নচাপে পরিণত হয়েছে।",
-          "আবহাওয়াবিদ মো. তরিফুল নেওয়াজ কবিরের সই করা বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
-          "নিম্নচাপটি পশ্চিম ও উত্তরপশ্চিম দিকে অগ্রসর হয়ে একই এলাকায় অবস্থান করছে।"
-        ],
-        "bullets_en": [
-          "A well-marked low-pressure area over the central Bay of Bengal has intensified into a depression.",
-          "Meteorologist Md. Tariful Newaz Kabir signed the special weather bulletin confirming the development.",
-          "The depression has moved in a west-northwesterly direction while staying over the same region."
-        ],
-        "impact_bn": "সমুদ্রবন্দরগুলোতে সতর্কতা জারির ফলে মাছ ধরার ট্রলার ও নৌযানসমূহকে উপকূলের কাছাকাছি সাবধানে চলাচল করতে বলা হয়েছে।",
-        "impact_en": "Fishing trawlers and marine vessels are advised to remain cautious and stay close to the coast following the weather alert.",
-        "details_bn": "বঙ্গোপসাগরে মৌসুমি বায়ুর প্রভাবে লঘুচাপ ও নিম্নচাপ সৃষ্টি হওয়া একটি নিয়মিত আবহাওয়া প্রক্রিয়া। এই ধরনের সামুদ্রিক নিম্নচাপের কারণে উপকূলীয় অঞ্চলে আবহাওয়া পরিস্থিতি পরিবর্তিত হতে পারে এবং সমুদ্র উত্তাল হয়ে উঠতে পারে। আবহাওয়া অধিদফতর পরিস্থিতি নিয়মিত পর্যবেক্ষণ করে বিশেষ বিজ্ঞপ্তির মাধ্যমে নৌযান ও বন্দরগুলোকে সতর্কবার্তা দিয়ে আসছে।",
-        "details_en": "The formation of low-pressure systems and depressions in the Bay of Bengal is a common meteorological phenomenon during seasonal transitions. Such maritime depressions can alter coastal weather patterns and make the sea rough. The meteorological department continuously monitors these systems and issues special advisories to ensure maritime safety."
+        "impact_bn": "খাদ্যদ্রব্যে ভেজাল ও প্রতারণা রোধে প্রশাসনের এমন কঠোর পদক্ষেপ সাধারণ ক্রেতাদের স্বাস্থ্য সুরক্ষা নিশ্চিত করতে সাহায্য করবে।",
+        "impact_en": "Strict administrative measures against food adulteration and fraud help ensure health safety for ordinary consumers.",
+        "details_bn": "খুলনার ডুমুরিয়া উপজেলায় দীর্ঘদিন ধরে কিছু অসাধু ব্যবসায়ী কম দামে ঘোড়া বা অন্য পশুর মাংস সংগ্রহ করে তা গরুর মাংস বলে সাধারণ ক্রেতাদের কাছে বিক্রি করে আসছে বলে অভিযোগ ছিল। গোয়েন্দা তথ্যের ভিত্তিতে র‍্যাব-৬ ও স্থানীয় প্রশাসনের যৌথ দল এই অসাধু চক্রটিকে ধরতে অভিযান চালায়। অভিযানের সময় ঘটনাস্থলে প্রতারণার সত্যতা পাওয়ায় ভ্রাম্যমাণ আদালতের মাধ্যমে তাৎক্ষণিক সাজা দেওয়া হয়।",
+        "details_en": "Allegations had persisted that dishonest traders in Dumuria upazila were procuring cheaper meats and selling them to unsuspecting consumers as beef. Acting on intelligence, a joint team of RAB-6 and local administration launched a raid to bust the syndicate. Upon confirming the fraud at the scene, the mobile court handed down the immediate sentence."
       }
     }
   ]
