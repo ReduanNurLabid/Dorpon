@@ -1,67 +1,9 @@
 {
-  "updated_at": "2026-10-24T09:00:46.483408",
+  "updated_at": "2026-10-24T10:00:42.875526",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "be681835-c3d8-59ac-af6d-3ba08ae41ca0",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "climate_environment"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T08:49:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.3803,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/tokyo-anticipates-fresh-momentum-in-investment-and-economic-cooperation-during-the-prime-ministers-visit-to-japan/",
-          "title": "প্রধানমন্ত্রীর জাপান সফরে অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফরে অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টোকিওতে বাংলাদেশ-জাপান দ্বিপক্ষীয় বৈঠক ও অর্থনৈতিক সহযোগিতা বৃদ্ধির আশা",
-        "title_en": "Japan Expects Boost in Bilateral Trade and Economic Ties With Bangladesh",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের আসন্ন জাপান সফরে দুই দেশের অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির প্রত্যাশা করছে টোকিও।",
-        "summary_en": "Tokyo expects Prime Minister Tarique Rahman upcoming visit to boost economic cooperation and bilateral investment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:49:29+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের আসন্ন জাপান সফরে দুই দেশের অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির প্রত্যাশা করছে টোকিও।",
-        "lead_en": "Tokyo expects Prime Minister Tarique Rahman upcoming visit to boost economic cooperation and bilateral investment.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর আমন্ত্রণে সরকারি সফরে দেশটিতে যাবেন।",
-          "সফরের দ্বিতীয় দিন টোকিওতে দুই দেশের শীর্ষ নেতারা উচ্চপর্যায়ের দ্বিপক্ষীয় বৈঠকে অংশ নেবেন।",
-          "প্রধানমন্ত্রী জাপান-বাংলাদেশ অর্থনৈতিক ফোরামে মূল বক্তব্য দেবেন এবং ব্যবসায়ীদের সাথে বৈঠক করবেন।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman will visit Japan on an official invitation from the Japanese Prime Minister.",
-          "Both leaders will hold a high-level bilateral meeting in Tokyo on the second day of the visit.",
-          "The Prime Minister will deliver the keynote speech at the Japan-Bangladesh Economic Forum and meet business leaders."
-        ],
-        "impact_bn": "বাংলাদেশের অবকাঠামো উন্নয়ন ও ব্যবসাবান্ধব পরিবেশের উন্নতি হওয়ায় দেশটিতে বৈদেশিক বিনিয়োগ বাড়ার নতুন সুযোগ তৈরি হয়েছে।",
-        "impact_en": "Improved business-friendly policies in Bangladesh create new opportunities for increased foreign investment in infrastructure development.",
-        "details_bn": "প্রধানমন্ত্রী হিসেবে এটি তারেক রহমানের প্রথম জাপান সফর। দুই দেশের সরকার আনুষ্ঠানিকভাবে এই সফরের ঘোষণা দেয়। সফরকালে বিনিয়োগ পরিবেশের উন্নয়ন, অবকাঠামো খাতে সহযোগিতা সম্প্রসারণ এবং মানবসম্পদ ও প্রাতিষ্ঠানিক সক্ষমতা বৃদ্ধি নিয়ে আলোচনা হবে। এছাড়া প্রধানমন্ত্রী জাপান-বাংলাদেশ পার্লামেন্টারি ফ্রেন্ডশিপ লিগ এবং ব্যবসায়িক কমিটির প্রতিনিধিদের সাথে বৈঠক করবেন।",
-        "details_en": "This marks the first official visit of Prime Minister Tarique Rahman to Japan. Both governments officially announced the diplomatic tour, focusing on investment climate improvement, infrastructure cooperation, and institutional capacity building. During the visit, the Prime Minister will engage with the Japan-Bangladesh Parliamentary Friendship League and commercial committees to deepen economic partnership."
-      }
-    },
-    {
-      "story_id": "dcfb049c-1565-502e-90b2-252de58913a7",
+      "story_id": "5ca8ec3b-edea-5126-a147-a31aedd14949",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,52 +12,216 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Ftctf66ea%2FCumillaBCL.jpg?rect=0%2C46%2C1061%2C557&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T08:31:33+00:00",
+      "published_at": "2026-10-24T09:52:35+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.466,
+      "importance_score": 6.6,
+      "rank_score": 2.4574,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/h1616n4l6i",
-          "title": "কুমিল্লায় ‘শেখ হাসিনা আইতাছে’ স্লোগানে নিষিদ্ধ ছাত্রলীগের মিছিল, আটক ১৭",
-          "snippet": "কুমিল্লায় ‘শেখ হাসিনা আইতাছে’ স্লোগানে নিষিদ্ধ ছাত্রলীগের মিছিল, আটক ১৭"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171428",
+          "title": "জয় বাংলার ভিডিও নিয়ে বিপাকে প্রধানমন্ত্রীর সঙ্গে হাত মেলানো রাজু গাজী",
+          "snippet": "জয় বাংলার ভিডিও নিয়ে বিপাকে প্রধানমন্ত্রীর সঙ্গে হাত মেলানো রাজু গাজী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কুমিল্লায় নিষিদ্ধ ছাত্রলীগের ঝটিকা মিছিল থেকে ১৭ জন আটক",
-        "title_en": "Seventeen Arrested From Banned Chhatra League Rally in Comilla",
-        "summary_bn": "কুমিল্লায় নিষিদ্ধ সংগঠনের পক্ষে স্লোগান দিয়ে ঝটিকা মিছিল করার অভিযোগে ১৭ জন নেতা-কর্মীকে আটক করেছে পুলিশ।",
-        "summary_en": "Police arrested seventeen leaders and activists for staging a sudden flash procession chanting slogans supporting a banned organization in Comilla.",
+        "title_bn": "জয় বাংলার ভিডিও ভাইরাল হওয়ায় বিপাকে রাজু গাজী",
+        "title_en": "Raju Gazi Faces Controversy Over Viral Joy Bangla Video",
+        "summary_bn": "প্রধানমন্ত্রীর সাথে হাত মেলানোর পর জয় বাংলা স্লোগান দেওয়া রাজু গাজীর একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ভাইরাল হওয়ার পর তিনি বিতর্কের মুখে পড়েছেন।",
+        "summary_en": "Raju Gazi faces intense public scrutiny after a video went viral showing him chanting Joy Bangla following a handshake with the Prime Minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:31:33+00:00",
-        "lead_bn": "কুমিল্লায় নিষিদ্ধ সংগঠনের পক্ষে স্লোগান দিয়ে ঝটিকা মিছিল করার অভিযোগে ১৭ জন নেতা-কর্মীকে আটক করেছে পুলিশ।",
-        "lead_en": "Police arrested seventeen leaders and activists for staging a sudden flash procession chanting slogans supporting a banned organization in Comilla.",
+        "published_at": "2026-10-24T09:52:35+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর সাথে হাত মেলানোর পর জয় বাংলা স্লোগান দেওয়া রাজু গাজীর একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ভাইরাল হওয়ার পর তিনি বিতর্কের মুখে পড়েছেন।",
+        "lead_en": "Raju Gazi faces intense public scrutiny after a video went viral showing him chanting Joy Bangla following a handshake with the Prime Minister.",
         "bullets_bn": [
-          "নগরের নুরপুর তেলিকোনা সড়কে জুমার নামাজের সময় ঝটিকা মিছিল বের করে নিষিদ্ধ সংগঠনের কর্মীরা",
-          "মিছিলে নেতৃত্বদানকারী কাইয়ুমসহ ১৭ জনকে ভিডিও পর্যালোচনা করে বিভিন্ন এলাকায় অভিযান চালিয়ে আটক করা হয়",
-          "আটক ব্যক্তিদের বিরুদ্ধে কোতোয়ালি মডেল থানায় আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে"
+          "প্রধানমন্ত্রীর সঙ্গে হাত মেলানোর দাবি করা রাজু গাজীর একটি ভিডিও অনলাইনে ছড়িয়ে পড়ে",
+          "ভিডিওটিতে তাকে জয় বাংলা স্লোগান দিতে দেখা যাওয়ায় সমালোচনার সৃষ্টি হয়",
+          "ঘটনার পর থেকে সংশ্লিষ্ট ব্যক্তি বিভিন্ন মহলের আলোচনা ও আইনি বা সামাজিক প্রতিক্রিয়ার মুখে পড়েন"
         ],
         "bullets_en": [
-          "Activists of a banned organization staged a brief flash procession on Nurpur Telikona road during Friday prayers",
-          "Police arrested seventeen individuals including leader Kaiyum through raids after reviewing surveillance and video footage",
-          "Legal procedures are currently underway against the detained individuals at Kotwali Model Police Station"
+          "A video featuring Raju Gazi went viral online following his claim of shaking hands with the Prime Minister.",
+          "The footage captured him chanting the Joy Bangla slogan, triggering widespread public discussion.",
+          "He has faced severe criticism and subsequent fallout across various circles following the incident."
         ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটানোর এই ধরণের ঝটিকা তৎপরতা স্থানীয় সাধারণ নাগরিকদের মধ্যে আতঙ্ক তৈরি করছে।",
-        "impact_en": "Such flash processions aimed at disrupting public order create panic among local citizens.",
-        "details_bn": "কুমিল্লা নগরের চকবাজার-সংলগ্ন নুরপুর তেলিকোনা সড়কে নিষিদ্ধঘোষিত ছাত্রলীগের একদল নেতা-কর্মী আকস্মিক মিছিল বের করে। পুলিশের প্রাথমিক তদন্তে জানা যায়, বিদেশে পলাতক সাবেক সংসদ সদস্যের নির্দেশেই এই অস্থিতিশীল পরিবেশ তৈরি করার পরিকল্পনা করা হয়েছিল। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ভিডিও ফুটেজ বিশ্লেষণ করে অভিযান চালিয়ে অভিযুক্তদের গ্রেপ্তার করে।",
-        "details_en": "A group of activists from the banned student organization staged a sudden procession on the Nurpur Telikona road in Comilla. According to preliminary police findings, the disruption was orchestrated under instructions from abroad to destabilize the area. Law enforcement agencies identified the culprits through video analysis and conducted raids to make the arrests."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ভাইরাল হওয়া বিভিন্ন কনটেন্ট অনেক সময় সাধারণ মানুষের মধ্যে তীব্র প্রতিক্রিয়ার সৃষ্টি করে। বিশেষ করে রাজনৈতিক ব্যক্তিত্বদের সাথে সম্পৃক্ত কোনো ঘটনার ভিডিও প্রকাশিত হলে তা দ্রুত জনমনে আলোচনা ও সমালোচনার জন্ম দেয়, যার সাম্প্রতিক উদাহরণ রাজু গাজীর এই ঘটনা।",
+        "details_en": "Content that goes viral on social media frequently sparks intense public reactions. Footage involving political figures often generates swift debate and criticism among citizens, with this incident involving Raju Gazi serving as a recent example."
       }
     },
     {
-      "story_id": "57f62d78-a909-5340-a961-6046fbcda659",
+      "story_id": "82b68a40-1bc3-5ee5-b36c-d1b781b9df08",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T09:51:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 2.1998,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1171427",
+          "title": "বাংলাদেশ ব্যাংকের ‘উদ্যোগ’ কর্মসূচিতে ৫৬ জেলায় আবেদন ১ নভেম্বর",
+          "snippet": "বাংলাদেশ ব্যাংকের ‘উদ্যোগ’ কর্মসূচিতে ৫৬ জেলায় আবেদন ১ নভেম্বর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তরুণ উদ্যোক্তা তৈরিতে বাংলাদেশ ব্যাংকের উদ্যোগ কর্মসূচিতে ৫৬ জেলায় আবেদন শুরু",
+        "title_en": "Bangladesh Bank Udyog Program Opens Applications in 56 Districts",
+        "summary_bn": "বাংলাদেশ ব্যাংকের উদ্যোগ কর্মসূচির আওতায় দেশের বাকি ৫৬ জেলায় তরুণ উদ্যোক্তাদের আবেদন প্রক্রিয়া শুরু হয়েছে।",
+        "summary_en": "Bangladesh Bank has opened applications for young entrepreneurs under the Udyog program across the remaining 56 districts.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T09:51:03+00:00",
+        "lead_bn": "বাংলাদেশ ব্যাংকের উদ্যোগ কর্মসূচির আওতায় দেশের বাকি ৫৬ জেলায় তরুণ উদ্যোক্তাদের আবেদন প্রক্রিয়া শুরু হয়েছে।",
+        "lead_en": "Bangladesh Bank has opened applications for young entrepreneurs under the Udyog program across the remaining 56 districts.",
+        "bullets_bn": [
+          "বাংলাদেশ ব্যাংক তরুণ উদ্যোক্তা তৈরি ও কর্মসংস্থান সৃষ্টির লক্ষ্যে বিশেষ উদ্যোগ কর্মসূচি সম্প্রসারণ করেছে।",
+          "প্রথম ধাপে আট জেলার চৌষট্টিটি উপজেলায় আঠারো হাজার চারশো চুয়াল্লিশটি আবেদন জমা পড়েছিল।",
+          "নতুন ধাপে দেশের বাকি ছাপান্ন জেলার তরুণরা এই কর্মসূচির আওতায় আবেদন করার সুযোগ পাচ্ছেন।"
+        ],
+        "bullets_en": [
+          "Bangladesh Bank expanded the special Udyog program to create young entrepreneurs and generate employment.",
+          "The first phase saw eighteen thousand four hundred forty-four applications submitted across sixty-four upazilas in eight districts.",
+          "Youths from the remaining fifty-six districts are now eligible to apply under this new phase."
+        ],
+        "impact_bn": "দেশের তরুণরা সহজ শর্তে সহায়তা নিয়ে নতুন ব্যবসা শুরু করার ও কর্মসংস্থান সৃষ্টির সুযোগ পাবেন।",
+        "impact_en": "Young people across the country gain access to institutional support for launching new ventures and creating employment.",
+        "details_bn": "তরুণদের আত্মকর্মসংস্থান ও অর্থনৈতিকভাবে স্বাবলম্বী করে তুলতে বাংলাদেশ ব্যাংক বিভিন্ন বিশেষ কর্মসূচি পরিচালনা করে আসছে। এর অংশ হিসেবে উদ্যোগ কর্মসূচির প্রথম ধাপে নির্দিষ্ট কিছু জেলায় সাড়া পাওয়ার পর এবার কার্যক্রম দেশব্যাপী বিস্তৃত করা হচ্ছে।",
+        "details_en": "Bangladesh Bank has been implementing specialized programs to foster self-employment and economic independence among the youth. Following positive response from the initial phase in selected districts, the central bank is now expanding the initiative nationwide."
+      }
+    },
+    {
+      "story_id": "65ff0e5d-00cc-5fa7-ba5c-cf6c8b81bc07",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "climate_environment"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fquluvcv2%2FChuadanga.jpg?rect=0%2C565%2C5000%2C2625&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T09:20:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3344,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/ll5uh0o6yq",
+          "title": "পেট্রলপাম্প থেকে তেল নিয়ে পালাচ্ছিলেন দুজন, পাঁচ কিলোমিটার ধাওয়া করে আটক",
+          "snippet": "পেট্রলপাম্প থেকে তেল নিয়ে পালাচ্ছিলেন দুজন, পাঁচ কিলোমিটার ধাওয়া করে আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চুয়াডাঙ্গায় তেল নিয়ে পালিয়ে যাওয়ার সময় দুই মোটরসাইকেলচালক আটক",
+        "title_en": "Two Motorcyclists Detained After Fleeing Fuel Stations Without Paying",
+        "summary_bn": "টাকা না দিয়ে পেট্রলপাম্প থেকে জ্বালানি তেল নিয়ে পালানোর সময় চুয়াডাঙ্গায় দুই মোটরসাইকেলচালককে ধাওয়া করে আটক করা হয়েছে।",
+        "summary_en": "Two motorcyclists were chased and detained in Chuadanga after fleeing fuel stations without paying for petrol.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T09:20:15+00:00",
+        "lead_bn": "টাকা না দিয়ে পেট্রলপাম্প থেকে জ্বালানি তেল নিয়ে পালানোর সময় চুয়াডাঙ্গায় দুই মোটরসাইকেলচালককে ধাওয়া করে আটক করা হয়েছে।",
+        "lead_en": "Two motorcyclists were chased and detained in Chuadanga after fleeing fuel stations without paying for petrol.",
+        "bullets_bn": [
+          "চুয়াডাঙ্গার দুটি ফিলিং স্টেশন থেকে টাকা পরিশোধ না করে মোটরসাইকেলে তেল নিয়ে পালিয়ে যান দুই ব্যক্তি।",
+          "পাম্প মালিকদের সতকর্তা ও পারস্পরিক যোগাযোগের মাধ্যমে প্রায় পাঁচ কিলোমিটার ধাওয়া করে তাঁদের আটক করা হয়।",
+          "আটক ব্যক্তিদের বিরুদ্ধে আইনগত ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করেছে স্থানীয় পুলিশ প্রশাসন।"
+        ],
+        "bullets_en": [
+          "Two individuals fled with petrol from two filling stations in Chuadanga without making payments.",
+          "Pump owners coordinated to chase the suspects for roughly five kilometers before catching them.",
+          "Police initiated formal legal procedures against the two detained individuals following complaints."
+        ],
+        "impact_bn": "স্থানীয় ব্যবসায়িক প্রতিষ্ঠানগুলোর নিরাপত্তায় পেট্রলপাম্প মালিকদের পারস্পরিক সতর্কবার্তা অপরাধ দমনে কার্যকর ভূমিকা রাখছে।",
+        "impact_en": "Coordinated warnings among local fuel station owners demonstrate effective grassroots deterrence against petty theft.",
+        "details_bn": "চুয়াডাঙ্গা ও হাইওয়ে ফিলিং স্টেশন থেকে অভিনব কায়দায় তেল নিয়ে পালিয়ে যাওয়ার পর পাম্প মালিকরা নিজেদের মধ্যে যোগাযোগ করে চুয়াডাঙ্গা-ঝিনাইদহ মহাসড়কে অভিযান চালান। পরে সরোজগঞ্জ এলাকার কাছাকাছি পৌঁছে ধাওয়া করে অভিযুক্ত সেলিম রেজা ও শান্ত রহমানকে আটক করা হয়। মালিকপক্ষের লিখিত অভিযোগের ভিত্তিতে পুলিশ তাঁদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রস্তুতি নিচ্ছে।",
+        "details_en": "After fleeing with fuel using identical tricks from the Chuadanga and Highway filling stations, owners communicated across locations to intercept the suspects along the regional highway. The accused individuals, Selim Reza and Shanta Rahman, were cornered and detained following a five-kilometer pursuit. Written complaints were filed by the management, prompting local police to initiate legal proceedings."
+      }
+    },
+    {
+      "story_id": "9314ccab-db40-54a0-ad16-81c061dfe6de",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T09:59:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9558,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/mymensing/976417/%E0%A6%97%E0%A6%A4-%E0%A7%A7%E0%A7%AD-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F",
+          "title": "গত ১৭ বছরে স্বাস্থ্য খাতকে ধ্বংস করেছে ফ্যাসিস্ট সরকার: স্বাস্থ্যমন্ত্রী",
+          "snippet": "গত ১৭ বছরে স্বাস্থ্য খাতকে ধ্বংস করেছে ফ্যাসিস্ট সরকার: স্বাস্থ্যমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফ্যাসিস্ট সরকার গত ১৭ বছরে দেশের স্বাস্থ্য খাতকে ধ্বংস করেছে",
+        "title_en": "Fascist Government Destroyed Country's Health Sector in 17 Years",
+        "summary_bn": "স্বাস্থ্যমন্ত্রী সরদার সাখাওয়াত হোসেন বকুল মন্তব্য করেছেন যে গত ১৭ বছরে ফ্যাসিস্ট সরকার দেশের স্বাস্থ্য খাতকে সম্পূর্ণ ধ্বংস করেছে।",
+        "summary_en": "Health Minister Sardar Sakhawat Hossain Bakul stated that the fascist government destroyed the country's health sector over the past 17 years.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T09:59:03+00:00",
+        "lead_bn": "স্বাস্থ্যমন্ত্রী সরদার সাখাওয়াত হোসেন বকুল মন্তব্য করেছেন যে গত ১৭ বছরে ফ্যাসিস্ট সরকার দেশের স্বাস্থ্য খাতকে সম্পূর্ণ ধ্বংস করেছে।",
+        "lead_en": "Health Minister Sardar Sakhawat Hossain Bakul stated that the fascist government destroyed the country's health sector over the past 17 years.",
+        "bullets_bn": [
+          "ক্ষতিগ্রস্ত স্বাস্থ্য খাতে গতি ফেরাতে বর্তমান সরকার দিনরাত কাজ করে যাচ্ছে।",
+          "স্বাস্থ্য ও পরিবার পরিকল্পনামন্ত্রী সরদার সাখাওয়াত হোসেন বকুল এই মন্তব্য করেছেন।",
+          "জনগণের জন্য মানসম্মত চিকিৎসাসেবা নিশ্চিত করতে বিভিন্ন পদক্ষেপ নেওয়া হচ্ছে।"
+        ],
+        "bullets_en": [
+          "The current government is working tirelessly to restore momentum in the damaged health sector.",
+          "Health and Family Planning Minister Sardar Sakhawat Hossain Bakul made this critical observation.",
+          "Various initiatives are underway to ensure quality healthcare services for the general public."
+        ],
+        "impact_bn": "সাধারণ মানুষ ও রোগীরা মানসম্মত স্বাস্থ্যসেবা প্রাপ্তি এবং উন্নত চিকিৎসার সুযোগ পাওয়ার ক্ষেত্রে ইতিবাচক পরিবর্তনের আশা করতে পারেন।",
+        "impact_en": "Ordinary citizens and patients can expect positive changes in accessing quality healthcare and improved medical services.",
+        "details_bn": "দীর্ঘদিন ধরে দেশের সরকারি স্বাস্থ্যসেবা খাতে নানা অনিয়ম, অব্যবস্থাপনা এবং দুর্নীতির অভিযোগ রয়েছে। পর্যাপ্ত চিকিৎসাসামগ্রীর অভাব, ডাক্তারদের অনুপস্থিতি এবং সেবার নিম্নমানের কারণে সাধারণ রোগীরা দীর্ঘদিন ধরে চরম ভোগান্তির শিকার হয়ে আসছেন। বর্তমান প্রশাসন ক্ষমতা গ্রহণের পর এই খাতের দীর্ঘমেয়াদী সমস্যাগুলো চিহ্নিত করে তা সংশোধনের ওপর জোর দিচ্ছে।",
+        "details_en": "For a long time, the country's public healthcare sector has faced severe allegations of irregularities, mismanagement, and corruption. Ordinary patients have endured immense suffering due to shortages of medical supplies, absenteeism among doctors, and poor service standards. Following the assumption of power, the current administration has emphasized identifying and resolving these long-term systemic issues."
+      }
+    },
+    {
+      "story_id": "a5a0ad61-8b06-569d-922f-eb1f37ea6077",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -124,216 +230,102 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Iran-and-United-States-flags.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T08:01:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1523,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/trump-warns-of-further-attacks-on-iran-tehran-responds-by-telling-him-not-to-play-with-fire/",
-          "title": "ইরানে ফের হামলার হুঁশিয়ারি ট্রাম্পের, আগুন নিয়ে না খেলতে বলল তেহরান",
-          "snippet": "ইরানে ফের হামলার হুঁশিয়ারি ট্রাম্পের, আগুন নিয়ে না খেলতে বলল তেহরান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের সঙ্গে চুক্তি না হলে ইরানে নতুন হামলার হুঁশিয়ারি ট্রাম্পের",
-        "title_en": "US President Trump Threatens New Military Strikes on Iran Without Agreement",
-        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে কোনো চুক্তি না হলে ইরানে আবারও সামরিক হামলা চালানোর হুঁশিয়ারি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "summary_en": "US President Donald Trump threatened renewed military strikes on Iran if Tehran fails to reach an agreement with Washington.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:01:09+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে কোনো চুক্তি না হলে ইরানে আবারও সামরিক হামলা চালানোর হুঁশিয়ারি দিয়েছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-        "lead_en": "US President Donald Trump threatened renewed military strikes on Iran if Tehran fails to reach an agreement with Washington.",
-        "bullets_bn": [
-          "সমঝোতায় না পৌঁছালে ইরানে ছোট আকারের এপিক ফিউরি অভিযান চালানোর হুমকি দেন মার্কিন প্রেসিডেন্ট।",
-          "ইরানের ইউরেনিয়াম সমৃদ্ধকরণের সক্ষমতা পুরোপুরি ধ্বংস করা হয়েছে বলে দাবি করেন ট্রাম্প।",
-          "যুক্তরাষ্ট্রের নতুন সামরিক হামলার হুমকির জবাবে তেহরান ওয়াশিংটনকে আগুন নিয়ে না খেলার সতর্কবার্তা দিয়েছে।"
-        ],
-        "bullets_en": [
-          "US President threatened to launch another small-scale Epic Fury operation if Tehran fails to reach a deal.",
-          "Trump claimed that previous operations completely destroyed Iran's uranium enrichment capabilities and weakened its economy.",
-          "In response to the US threats of impending attacks, Tehran warned Washington against playing with fire."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চলতি বছরের ফেব্রুয়ারিতে যুক্তরাষ্ট্র ও ইসরায়েল ইরানের বিরুদ্ধে যৌথ সামরিক অভিযান অপারেশন এপিক ফিউরি শুরু করে। ওই সংঘাতে ইরানের তৎকালীন সর্বোচ্চ নেতা আয়াতুল্লাহ আলী খামেনি ও তাঁর পরিবারের কয়েকজন সদস্য নিহত হন। এর আগে অপারেশন মিডনাইট হ্যামার অভিযানের মাধ্যমে ইরানের সামরিক ও অর্থনৈতিক সক্ষমতা দুর্বল করার দাবি করে আসছে ওয়াশিংটন। বর্তমান উত্তেজনার মধ্যেই মার্কিন রাষ্ট্রদূত চলতি সপ্তাহান্তে ইরানে হামলার সম্ভাবনার কথা জানান, যার জবাবে তেহরান কঠোর প্রতিক্রিয়া ব্যক্ত করেছে।",
-        "details_en": "In February, the US and Israel launched joint military operations against Iran, resulting in the death of then-Supreme Leader Ayatollah Ali Khamenei and his family members. Washington previously claimed operations like Midnight Hammer severely degraded Iran's military and economic capabilities. Amid escalating tensions, US officials hinted at potential strikes over the weekend, prompting strong warnings from Tehran against further military escalation."
-      }
-    },
-    {
-      "story_id": "f3e46b62-fde3-522f-9408-9cd79cf8cfa6",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T08:58:03+00:00",
+      "published_at": "2026-10-24T09:57:58+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
       "rank_score": 0.9448,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/976400/%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%B2-%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%9D%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%9B%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AC%E0%A7%87-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE%E0%A6%B0",
-          "title": "নারকেল কোরানোর ঝামেলা ছাড়াই তৈরি হবে লক্ষ্মীপূজার নাড়ু,",
-          "snippet": "নারকেল কোরানোর ঝামেলা ছাড়াই তৈরি হবে লক্ষ্মীপূজার নাড়ু,"
+          "url": "https://www.banglatribune.com/sport/other-sports/976416/%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%A6%E0%A6%B2%E0%A6%95%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A6%A3%E0%A6%BE",
+          "title": "ইরাকে বাংলাদেশ দলকে রাষ্ট্রদূতের অনুপ্রেরণা",
+          "snippet": "ইরাকে বাংলাদেশ দলকে রাষ্ট্রদূতের অনুপ্রেরণা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নারকেল কোরা ছাড়াই ঘরে তৈরি করুন লক্ষ্মীপূজার সুস্বাদু নাড়ু",
-        "title_en": "Make Delicious Laxmi Puja Narus at Home Without Grating Coconut",
-        "summary_bn": "কয়েকটি সহজ কৌশল অনুসরণ করে নারকেল কোরার ঝামেলা ছাড়াই খুব কম সময়ে ঘরে তৈরি করা সম্ভব সুস্বাদু নারকেলের নাড়ু।",
-        "summary_en": "Tasty coconut narus can be easily made at home in minimal time without the hassle of grating coconut.",
+        "title_bn": "ইরাকে বাংলাদেশ আর্চারি দলকে রাষ্ট্রদূতের অনুপ্রেরণা প্রদান",
+        "title_en": "Bangladeshi Ambassador Inspires Archery Team in Iraq",
+        "summary_bn": "ইরাকে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত মেজর জেনারেল মো. মাকসুদুল হক সুলাইমানিয়াহতে অবস্থানরত বাংলাদেশ আর্চারি দলের খেলোয়াড়দের সাথে সাক্ষাৎ করে তাদের অনুপ্রাণিত করেছেন।",
+        "summary_en": "Bangladesh Ambassador to Iraq Major General Md. Maksudur Haque met and inspired the visiting national archery team in Sulaymaniyah.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:58:03+00:00",
-        "lead_bn": "কয়েকটি সহজ কৌশল অনুসরণ করে নারকেল কোরার ঝামেলা ছাড়াই খুব কম সময়ে ঘরে তৈরি করা সম্ভব সুস্বাদু নারকেলের নাড়ু।",
-        "lead_en": "Tasty coconut narus can be easily made at home in minimal time without the hassle of grating coconut.",
+        "published_at": "2026-10-24T09:57:58+00:00",
+        "lead_bn": "ইরাকে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত মেজর জেনারেল মো. মাকসুদুল হক সুলাইমানিয়াহতে অবস্থানরত বাংলাদেশ আর্চারি দলের খেলোয়াড়দের সাথে সাক্ষাৎ করে তাদের অনুপ্রাণিত করেছেন।",
+        "lead_en": "Bangladesh Ambassador to Iraq Major General Md. Maksudur Haque met and inspired the visiting national archery team in Sulaymaniyah.",
         "bullets_bn": [
-          "নারকেল কোরা ছাড়াই ঘরোয়া পদ্ধতিতে নাড়ু তৈরির সহজ উপায় জানানো হয়েছে।",
-          "দীর্ঘক্ষণ কুরুনি দিয়ে নারকেল ঘষার ঝামেলা এড়াতে বিশেষ কৌশল অনুসরণ করা যায়।",
-          "ঝামেলা এড়াতে দোকান থেকে নাড়ু না কিনে ঘরেই সুস্বাদু নাড়ু তৈরি করুন।"
+          "রাষ্ট্রদূত খেলোয়াড়দের আত্মবিশ্বাস ধরে রেখে শেষ মুহূর্ত পর্যন্ত লড়াই চালিয়ে যাওয়ার বার্তা দিয়েছেন।",
+          "এশিয়া কাপ স্টেজ-২ প্রতিযোগিতায় অংশ নিতে বাংলাদেশ আর্চারি দল বর্তমানে ইরাকে অবস্থান করছে।",
+          "খেলোয়াড়রা আন্তর্জাতিক প্রতিযোগিতায় দেশের প্রতিনিধিত্ব করার চ্যালেঞ্জ মোকাবিলায় মানসিক প্রস্তুতি নিচ্ছেন।"
         ],
         "bullets_en": [
-          "Simple methods are shared to prepare narus at home without coconut grating.",
-          "Special techniques help avoid the trouble of grating coconuts for hours.",
-          "Make delicious narus at home instead of buying them from stores to save effort."
-        ],
-        "impact_bn": "গৃহিণীরা সহজেই এবং কম সময়ে পূজার ঐতিহ্যবাহী নাড়ু তৈরি করতে পারবেন।",
-        "impact_en": "Homemakers can easily and quickly prepare traditional puja narus with less physical strain.",
-        "details_bn": "কোজাগরী লক্ষ্মীপূজার অন্যতম প্রধান আকর্ষণ হলো নারকেলের নাড়ু। ঐতিহ্যবাহী এই মিষ্টি পদটি তৈরির প্রক্রিয়ায় নারকেল কোরা সবচেয়ে সময়সাপেক্ষ এবং কষ্টকর কাজ হিসেবে বিবেচিত হয়। অনেকেই এই ঝামেলার কারণে বাইরে থেকে নাড়ু কিনে আনেন। তবে আধুনিক ও সহজ কিছু গৃহস্থালি কৌশল জানা থাকলে এই প্রক্রিয়াটি অনেক সহজ হয়ে যায় এবং ঘরে বসেই নিখুঁত নাড়ু তৈরি করা সম্ভব হয়।",
-        "details_en": "Coconut naru is a staple offering for Kojagori Laxmi Puja. Grating coconut is traditionally considered the most time-consuming and exhausting part of this process. Many people avoid the hassle by purchasing ready-made sweets from shops. However, knowing a few simple household techniques makes this task much easier, allowing anyone to prepare perfect narus right at home."
-      }
-    },
-    {
-      "story_id": "154ddf32-7ef9-52b2-99a4-2947a9d492c7",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T08:54:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9119,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171391",
-          "title": "আমন চাষে খরচের বোঝা, লাভ নিয়ে শঙ্কায় কৃষক",
-          "snippet": "আমন চাষে খরচের বোঝা, লাভ নিয়ে শঙ্কায় কৃষক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নীলফামারীতে আমন চাষে উচ্চ উৎপাদন খরচ নিয়ে কৃষকদের শঙ্কা",
-        "title_en": "Farmers Face Rising Production Costs and Profit Uncertainty in Aman Cultivation",
-        "summary_bn": "নীলফামারীর ডিমলা উপজেলায় অতিরিক্ত ডিজেল ও সার খরচের কারণে আমন চাষাবাদে লাভের প্রত্যাশা নিয়ে দুশ্চিন্তায় পড়েছেন কৃষকরা।",
-        "summary_en": "Farmers in Dimla upazila face mounting anxiety over potential profit losses in Aman cultivation due to soaring diesel and fertilizer costs.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:54:39+00:00",
-        "lead_bn": "নীলফামারীর ডিমলা উপজেলায় অতিরিক্ত ডিজেল ও সার খরচের কারণে আমন চাষাবাদে লাভের প্রত্যাশা নিয়ে দুশ্চিন্তায় পড়েছেন কৃষকরা।",
-        "lead_en": "Farmers in Dimla upazila face mounting anxiety over potential profit losses in Aman cultivation due to soaring diesel and fertilizer costs.",
-        "bullets_bn": [
-          "অতিরিক্ত সেচ ব্যয় এবং সার ও কীটনাশকের চড়া দামের কারণে আমন আবাদের উৎপাদন খরচ অস্বাভাবিকভাবে বেড়ে গেছে।",
-          "স্থানীয় কৃষকদের অভিযোগ অনুযায়ী সারের নির্ধারিত মূল্য না পাওয়ায় তাদের প্রতি বিঘা জমিতে অতিরিক্ত খরচ বহন করতে হচ্ছে।",
-          "উৎপাদন ব্যয় বাড়ায় উৎপাদিত ধানের ন্যায্যমূল্য প্রাপ্তি নিয়ে অনিশ্চয়তায় রয়েছেন এই অঞ্চলের কৃষিজীবীরা।"
-        ],
-        "bullets_en": [
-          "Production costs for Aman cultivation surged abnormally due to high irrigation expenses and expensive fertilizers and pesticides.",
-          "Local farmers report paying higher prices than official rates for fertilizers, increasing financial pressure per bigha.",
-          "Rising expenses leave cultivators uncertain about securing fair prices for their harvested paddy in the market."
-        ],
-        "impact_bn": "উৎপাদন খরচ বৃদ্ধির কারণে খাদ্যশস্যের দাম বাড়ায় সাধারণ ভোক্তা ও কৃষিজীবী পরিবারগুলোর ওপর বাড়তি অর্থনৈতিক চাপ সৃষ্টি হচ্ছে।",
-        "impact_en": "Increased production expenses drive up staple food prices, placing additional financial strain on ordinary consumers and farming households.",
-        "details_bn": "বাংলাদেশ একটি কৃষিপ্রধান দেশ হওয়া সত্ত্বেও প্রতি মৌসুমে জ্বালানি তেল, সার ও কীটনাশকের মূল্যবৃদ্ধি কৃষকদের আর্থিক সংকটে ফেলে। নীলফামারীর ডিমলার মতো অঞ্চলে সেচ ও কৃষি উপকরণের চড়া দাম প্রান্তিক কৃষকদের লাভের মার্জিন কমিয়ে দেয়। সঠিক সময়ে সরকারি সহায়তা ও ভর্তুকি না পৌঁছানোর কারণে কৃষকরা উৎপাদিত ফসলের নায্যমূল্য থেকে প্রায়ই বঞ্চিত হন, যা গ্রামীণ অর্থনীতিতে নেতিবাচক প্রভাব ফেলে।",
-        "details_en": "Despite being an agrarian economy, rising prices of fuel, fertilizers, and pesticides frequently push farmers into financial distress each season. In regions like Dimla in Nilphamari, high costs for irrigation and inputs shrink profit margins for marginal cultivators. Delays in receiving agricultural subsidies and fair market access often deprive farmers of expected profits, negatively impacting the rural economy."
-      }
-    },
-    {
-      "story_id": "a947cd3d-c68a-5013-95e2-e19c63b79f26",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Ffvjpmz5o%2Fwmremove-transformed-16.jpeg?rect=0%2C0%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T08:54:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9069,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/0ki4cxwm2d",
-          "title": "পাঞ্জাবের মুখ্যমন্ত্রীর তিরে বিদ্ধ জ্ঞানেশ কুমারের ভাই",
-          "snippet": "পাঞ্জাবের মুখ্যমন্ত্রীর তিরে বিদ্ধ জ্ঞানেশ কুমারের ভাই"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাঞ্জাবের মুখ্যমন্ত্রীকে হয়রানির নেপথ্যে প্রধান নির্বাচন কমিশনারের ভাই, দাবি ভগবন্ত মানের",
-        "title_en": "Punjab Chief Minister Accuses CEC Brother of Harassment at Delhi Airport",
-        "summary_bn": "দিল্লি বিমানবন্দরে হয়রানি ও জরিমানার নেপথ্যে প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমারের ভাই রয়েছেন বলে দাবি করেছেন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান।",
-        "summary_en": "Punjab Chief Minister Bhagwant Mann claimed that Chief Election Commissioner Gyanesh Kumar's brother orchestrated his harassment and fine at Delhi Airport.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T08:54:07+00:00",
-        "lead_bn": "দিল্লি বিমানবন্দরে হয়রানি ও জরিমানার নেপথ্যে প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমারের ভাই রয়েছেন বলে দাবি করেছেন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান।",
-        "lead_en": "Punjab Chief Minister Bhagwant Mann claimed that Chief Election Commissioner Gyanesh Kumar's brother orchestrated his harassment and fine at Delhi Airport.",
-        "bullets_bn": [
-          "পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত মানকে দিল্লি বিমানবন্দরে তল্লাশি করে ৫০ হাজার রুপি জরিমানা করা হয়।",
-          "দিল্লি শুল্ক বিভাগের ভারপ্রাপ্ত কর্মকর্তা মণীশ কুমার সিইসি জ্ঞানেশ কুমারের ভাই বলে বিধানসভায় জানান মান।",
-          "ভোটার তালিকা সংশোধন ও সিইসির কাজকর্ম নিয়ে স্বাধীন তদন্তের দাবি জানিয়ে পাঞ্জাব বিধানসভায় প্রস্তাব গৃহীত হয়।"
-        ],
-        "bullets_en": [
-          "Punjab Chief Minister Bhagwant Mann was searched and fined 50,000 rupees at Delhi Airport.",
-          "Mann told the assembly that Delhi Customs official Manish Kumar is the brother of CEC Gyanesh Kumar.",
-          "The Punjab Assembly passed a resolution demanding an independent probe into voter list revisions and CEC's actions."
+          "The ambassador urged players to maintain confidence and fight until the last moment.",
+          "The Bangladesh archery team is currently in Iraq to participate in the Asia Cup Stage-2 competition.",
+          "Players are preparing mentally to tackle the challenges of representing the country internationally."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফ্রান্সের প্যারিস থেকে ফেরার পথে দিল্লি বিমানবন্দরে হেনস্তার শিকার হন পাঞ্জাবের মুখ্যমন্ত্রী ভগবন্ত সিং মান। বিধানসভায় তিনি অভিযোগ করেন, শুল্ক বিভাগের ভারপ্রাপ্ত কর্মকর্তা ও সিইসির ভাই মণীশ কুমারের নির্দেশে তাঁকে অহেতুক আটকে রেখে তল্লাশি চালানো হয় এবং ৫০ হাজার রুপি জরিমানা করা হয়। এর প্রতিবাদে পাঞ্জাব বিধানসভায় সিইসির কাজকর্ম নিয়ে স্বাধীন তদন্তের দাবি জানিয়ে একটি প্রস্তাব পাস হয়। অন্যদিকে, বিজেপি এই অভিযোগ অস্বীকার করে শুল্ক বিভাগের জরিমানার কারণ প্রকাশ্যে আনার চ্যালেঞ্জ ছুড়ে দিয়েছে।",
-        "details_en": "Punjab Chief Minister Bhagwant Mann faced harassment and a 50,000 rupee fine by customs officials at Delhi Airport upon returning from Paris. In the state assembly, Mann alleged that Delhi Customs official Manish Kumar, brother of CEC Gyanesh Kumar, orchestrated the incident under political pressure. Following this, the assembly passed a resolution demanding an independent investigation into the CEC's actions. Meanwhile, the BJP dismissed the allegations, challenging the Chief Minister to make the customs fine documentation public."
+        "details_bn": "আন্তর্জাতিক ক্রীড়াঙ্গনে বাংলাদেশের প্রতিনিধিত্ব করার গৌরব ও চ্যালেঞ্জ মাথায় রেখে আর্চাররা বিভিন্ন টুর্নামেন্টে অংশ নেন। এশিয়া কাপ স্টেজ-২ প্রতিযোগিতায় অংশ নিতে বাংলাদেশ দল বর্তমানে ইরাকের সুলাইমানিয়াহতে অবস্থান করছে। বিদেশে অবস্থানরত বাংলাদেশি ক্রীড়াবিদদের মনোবল বাড়াতে প্রায়ই দেশের কূটনৈতিক প্রতিনিধিরা তাদের সাথে সাক্ষাৎ করে উৎসাহ প্রদান করেন, যা খেলোয়াড়দের আন্তর্জাতিক মঞ্চে ভালো ফল করতে সহায়তা করে।",
+        "details_en": "Athletes regularly participate in international tournaments carrying the pride and challenges of representing Bangladesh. The national archery team is currently in Sulaymaniyah, Iraq, to compete in the Asia Cup Stage-2. Diplomatic representatives frequently visit and encourage Bangladeshi athletes abroad to boost their morale, helping them perform better on the international stage."
+      }
+    },
+    {
+      "story_id": "387273eb-94eb-5eea-b4e2-1fb212a7df14",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T09:57:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9432,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/976415/%E0%A6%B9%E0%A7%87%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%A8-%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%97%E0%A6%B0%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8",
+          "title": "হেমন্তেও তিস্তায় ভাঙন, ধান কেটে গরুকে খাওয়াচ্ছেন কৃষক",
+          "snippet": "হেমন্তেও তিস্তায় ভাঙন, ধান কেটে গরুকে খাওয়াচ্ছেন কৃষক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হেমন্তেও তিস্তায় তীব্র ভাঙন, দিশেহারা লালমনিরহাটের কৃষক ও এলাকাবাসী",
+        "title_en": "Severe Erosion Along Teesta River Leaves Farmers in Lalmonirhat Desperate",
+        "summary_bn": "বর্ষা পেরিয়ে হেমন্তেও তিস্তার ভাঙনে লালমনিরহাটের বিভিন্ন এলাকায় ঘরবাড়ি ও কৃষিজমি নদীগর্ভে বিলীন হয়ে যাচ্ছে।",
+        "summary_en": "Persistent erosion along the Teesta River continues to swallow homes and agricultural land in Lalmonirhat during late autumn.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T09:57:48+00:00",
+        "lead_bn": "বর্ষা পেরিয়ে হেমন্তেও তিস্তার ভাঙনে লালমনিরহাটের বিভিন্ন এলাকায় ঘরবাড়ি ও কৃষিজমি নদীগর্ভে বিলীন হয়ে যাচ্ছে।",
+        "lead_en": "Persistent erosion along the Teesta River continues to swallow homes and agricultural land in Lalmonirhat during late autumn.",
+        "bullets_bn": [
+          "লালমনিরহাটের হাতীবান্ধা উপজেলার ডাউয়াবাড়িসহ বিভিন্ন এলাকায় নদী ভাঙন তীব্র আকার ধারণ করেছে।",
+          "ভাঙনের কবলে পড়ে কৃষকরা পাকা ধান কেটে বাধ্য হয়ে গরুকে খাওয়াচ্ছেন।",
+          "নদীগর্ভে একের পর এক ঘরবাড়ি ও অবকাঠামো বিলীন হওয়ায় দুর্ভোগ বাড়ছে সাধারণ মানুষের।"
+        ],
+        "bullets_en": [
+          "Severe river erosion has gripped multiple areas including Dauabari in Hatibandha upazila of Lalmonirhat.",
+          "Affected farmers are forced to cut unripe or ripening paddy to feed their cattle as lands vanish.",
+          "Continuous loss of homes and infrastructure is deepening the suffering of local residents."
+        ],
+        "impact_bn": "স্থানীয় কৃষকদের উৎপাদিত ফসল ও বসতভিটা হারানোর ফলে জীবিকা হুমকিতে পড়ছে।",
+        "impact_en": "Local farmers face severe livelihood threats as their crops and homesteads are swallowed by the river.",
+        "details_bn": "সাধারণত বর্ষা ও শরৎকালে নদনদীর ভাঙন বেশি দেখা গেলেও তিস্তাপাড়ের পরিস্থিতি ব্যতিক্রম রূপ নিয়েছে। হেমন্তকালের এক সপ্তাহ পেরিয়ে যাওয়ার পরও পানি কমলেও ভাঙনের তীব্রতা কমেনি। এর ফলে লালমনিরহাটের হাতীবান্ধা উপজেলার বিভিন্ন পয়েন্টে নদীর গতিপথ পরিবর্তন হয়ে ফসলি জমি ও গ্রামীণ অবকাঠামো গ্রাস করছে, যা স্থানীয়দের চরম অনিশ্চয়তার মধ্যে ফেলেছে।",
+        "details_en": "While river erosion typically peaks during the monsoon and autumn, the Teesta riverbank crisis has persisted well into late autumn. Despite receding water levels, aggressive erosion continues to alter river paths and swallow agricultural plots and rural infrastructure in Hatibandha, plunging locals into severe uncertainty."
       }
     }
   ]
