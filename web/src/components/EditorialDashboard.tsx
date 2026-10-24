@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { 
   signInWithEmailAndPassword, 
   createUserWithEmailAndPassword,
@@ -21,6 +21,7 @@ import {
 import { auth, db } from '../services/firebase';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
+import { calculateDynamicRank, sortByEditorialRank } from '../services/api';
 import { 
   ShieldCheck, 
   Lock, 
@@ -39,7 +40,10 @@ import {
   BarChart2,
   Sliders,
   Layers,
-  ArrowLeft
+  ArrowLeft,
+  Clock,
+  TrendingUp,
+  Zap
 } from 'lucide-react';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
@@ -77,74 +81,159 @@ function cleanForFirestore(val: any): any {
   return val;
 }
 
-// Web Broadsheet Scoring and Placement Calculator
+export function formatRelativeTime(dateStr?: string | null): string {
+  if (!dateStr) return 'Draft';
+  const time = new Date(dateStr).getTime();
+  if (isNaN(time)) return 'Unknown';
+  const diffSec = Math.floor((Date.now() - time) / 1000);
+  if (diffSec < 60) return 'Just now';
+  const diffMin = Math.floor(diffSec / 60);
+  if (diffMin < 60) return `${diffMin}m ago`;
+  const diffHour = Math.floor(diffMin / 60);
+  if (diffHour < 24) return `${diffHour}h ago`;
+  const diffDay = Math.floor(diffHour / 24);
+  return `${diffDay}d ago`;
+}
+
+export type BroadsheetSlot = {
+  slotKey: 'hero' | 'col1_top' | 'col1_bottom' | 'col3_wire' | 'grid';
+  label: string;
+  badgeLabel: string;
+  badgeClass: string;
+  position: number;
+  description: string;
+};
+
+export function getStorySlotPlacement(
+  index: number,
+  collectionName: 'daily_buzz' | 'current_affairs_published' | 'hourly_buzz'
+): BroadsheetSlot {
+  const position = index + 1;
+  if (collectionName === 'daily_buzz') {
+    if (index === 0) {
+      return {
+        slotKey: 'hero',
+        label: 'Hero (Center Fold)',
+        badgeLabel: '🌟 Center Hero (Fold)',
+        badgeClass: 'bg-amber-500/20 text-amber-500 border-amber-500/40',
+        position,
+        description: 'Position #1 • Main Center Fold of the Front Page'
+      };
+    }
+    if (index === 1) {
+      return {
+        slotKey: 'col1_top',
+        label: 'Column 1 (Left Top Lead)',
+        badgeLabel: '📰 Col 1 (Left Top)',
+        badgeClass: 'bg-blue-500/20 text-blue-500 border-blue-500/40',
+        position,
+        description: 'Position #2 • Left Column Top Lead Article'
+      };
+    }
+    if (index === 2) {
+      return {
+        slotKey: 'col1_bottom',
+        label: 'Column 1 (Left Bottom Lead)',
+        badgeLabel: '📰 Col 1 (Left Bottom)',
+        badgeClass: 'bg-blue-500/20 text-blue-500 border-blue-500/40',
+        position,
+        description: 'Position #3 • Left Column Secondary Lead Article'
+      };
+    }
+    if (index >= 3 && index <= 6) {
+      return {
+        slotKey: 'col3_wire',
+        label: `Column 3 (Wire Desk Brief #${index - 2})`,
+        badgeLabel: `⚡ Wire Desk #${index - 2}`,
+        badgeClass: 'bg-emerald-500/20 text-emerald-500 border-emerald-500/40',
+        position,
+        description: `Position #${position} • Right Column Live Wire Desk Brief`
+      };
+    }
+    return {
+      slotKey: 'grid',
+      label: 'Inside Broadsheet Grid',
+      badgeLabel: `📑 Inside Grid (#${position})`,
+      badgeClass: 'bg-primary/10 text-primary border-primary/20',
+      position,
+      description: `Position #${position} • Lower Broadsheet Feed & Archives`
+    };
+  }
+
+  if (collectionName === 'hourly_buzz') {
+    if (index < 4) {
+      return {
+        slotKey: 'col3_wire',
+        label: `Column 3 Wire Lead #${position}`,
+        badgeLabel: `⚡ Col 3 Wire #${position}`,
+        badgeClass: 'bg-emerald-500/20 text-emerald-500 border-emerald-500/40',
+        position,
+        description: `Position #${position} • Top Wire Brief`
+      };
+    }
+    return {
+      slotKey: 'grid',
+      label: 'Hourly Wire Archive',
+      badgeLabel: `⚡ Wire Archive (#${position})`,
+      badgeClass: 'bg-primary/10 text-primary border-primary/20',
+      position,
+      description: `Position #${position} • Wire Archive`
+    };
+  }
+
+  // current_affairs_published
+  if (index === 0) {
+    return {
+      slotKey: 'hero',
+      label: 'Lead Current Affairs Dossier',
+      badgeLabel: '⭐ Lead Dossier',
+      badgeClass: 'bg-purple-500/20 text-purple-400 border-purple-500/40',
+      position,
+      description: 'Position #1 • Lead Analytical Dossier'
+    };
+  }
+  return {
+    slotKey: 'grid',
+    label: `Dossier #${position}`,
+    badgeLabel: `📘 Dossier #${position}`,
+    badgeClass: 'bg-primary/10 text-primary border-primary/20',
+    position,
+    description: `Position #${position} • Analytical Dossier`
+  };
+}
+
+// Backwards-compatible telemetry helper
 export function computeWebStoryScore(story: CapsuleStory): {
   baseScore: number;
   finalRankScore: number;
   breakdown: string[];
   suggestedSlot: 'Hero (Center Fold)' | 'Column 1 (Left)' | 'Column 3 (Wire Desk)' | 'Inside Broadsheet Grid';
 } {
-  let base = story.importance_score ?? 2.0;
+  const base = story.importance_score ?? 2.0;
+  const rank = calculateDynamicRank(base, story.published_at, 30);
   const breakdown: string[] = [`Base: ${base.toFixed(1)}`];
 
-  const title = ((story.daily_buzz?.title_bn || '') + ' ' + (story.daily_buzz?.title_en || '')).toLowerCase();
-  const summary = ((story.daily_buzz?.summary_bn || '') + ' ' + (story.daily_buzz?.summary_en || '')).toLowerCase();
-  const text = `${title} ${summary}`;
-
-  if (/constitution|সংবিধান|supreme court|সুপ্রিম কোর্ট|high court|হাইকোর্ট|chief adviser|প্রধান উপদেষ্টা|prime minister|প্রধানমন্ত্রী|cabinet|মন্ত্রিসভা|election commission|নির্বাচন কমিশন|ordinance|অধ্যাদেশ/i.test(text)) {
-    base += 3.5;
-    breakdown.push('Gov/State (+3.5)');
-  }
-
-  if (/bangladesh bank|বাংলাদেশ ব্যাংক|repo rate|রেপো রেট|inflation|মুদ্রাস্ফীতি|মূল্যস্ফীতি|forex reserve|রিজার্ভ|budget|বাজেট|nbr|রাজস্ব|imf|world bank/i.test(text)) {
-    base += 3.0;
-    breakdown.push('Economy (+3.0)');
-  }
-
-  if (/tarique|তারেক|remittance|প্রবাসী|rohingya|রোহিঙ্গা|arrest|আটক|গ্রেপ্তার|murder|হামলা/i.test(text)) {
-    base += 2.0;
-    breakdown.push('Politics/Law (+2.0)');
-  }
-
   if (story.is_bcs_pro_selected || story.bcs_pro) {
-    base += 2.0;
     breakdown.push('Current Affairs (+2.0)');
   }
 
   const srcCount = story.sources?.length || 1;
   if (srcCount > 1) {
-    const mult = 1.0 + Math.min(0.5, (srcCount - 1) * 0.25);
-    base *= mult;
-    breakdown.push(`Sources ×${mult.toFixed(2)}`);
+    breakdown.push(`Sources: ${srcCount}`);
   }
 
-  // Time decay
-  let finalRank = base;
-  if (story.published_at) {
-    const pubTime = new Date(story.published_at).getTime();
-    if (!isNaN(pubTime)) {
-      const ageHours = Math.max(0, (Date.now() - pubTime) / (3600 * 1000));
-      let decay = Math.pow(ageHours + 2.0, 1.3);
-      if (ageHours > 30) {
-        decay *= Math.pow(1.0 + (ageHours - 30), 2.0);
-      }
-      finalRank = base / decay;
-    }
-  }
-
-  // Determine slot placement on web broadsheet
   let suggestedSlot: 'Hero (Center Fold)' | 'Column 1 (Left)' | 'Column 3 (Wire Desk)' | 'Inside Broadsheet Grid' = 'Inside Broadsheet Grid';
-  if (finalRank >= 1.5 || (story.importance_score && story.importance_score >= 4.0)) {
+  if (rank >= 1.2 || base >= 7.0) {
     suggestedSlot = 'Hero (Center Fold)';
-  } else if (finalRank >= 0.8) {
+  } else if (rank >= 0.7 || base >= 5.0) {
     suggestedSlot = 'Column 1 (Left)';
-  } else if (finalRank >= 0.3) {
+  } else if (rank >= 0.3 || base >= 3.0) {
     suggestedSlot = 'Column 3 (Wire Desk)';
   }
 
   return {
     baseScore: Number(base.toFixed(2)),
-    finalRankScore: Number(finalRank.toFixed(3)),
+    finalRankScore: Number(rank.toFixed(3)),
     breakdown,
     suggestedSlot
   };
@@ -169,6 +258,7 @@ export const EditorialDashboard: React.FC = () => {
   const [stories, setStories] = useState<CapsuleStory[]>([]);
   const [isLoadingStories, setIsLoadingStories] = useState(false);
   const [searchFilter, setSearchFilter] = useState('');
+  const [sortMode, setSortMode] = useState<'broadsheet' | 'date'>('broadsheet');
   const [selectedStory, setSelectedStory] = useState<CapsuleStory | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
@@ -215,17 +305,22 @@ export const EditorialDashboard: React.FC = () => {
         rawStories.forEach((s: any, idx: number) => {
           const id = s.story_id || s.storyId || `ca-story-${idx}`;
           if (!storyMap.has(id)) {
+            const importance = s.importance_score ?? 2.0;
+            const rank = calculateDynamicRank(importance, s.published_at, 30);
             storyMap.set(id, {
               ...s,
               story_id: id,
+              importance_score: importance,
+              rank_score: rank,
               _docId: 'latest',
             });
           }
         });
 
         const list = Array.from(storyMap.values());
-        setStories(list);
-        if (list.length > 0) setSelectedStory(list[0]);
+        const sortedList = sortByEditorialRank(list);
+        setStories(sortedList);
+        if (sortedList.length > 0) setSelectedStory(sortedList[0]);
         else setSelectedStory(null);
       } else {
         const q = query(collection(db, activeCollection), orderBy('published_at', 'desc'), limit(150));
@@ -236,16 +331,21 @@ export const EditorialDashboard: React.FC = () => {
           const docId = d.id;
           const story_id = data.story_id || data.storyId || docId;
           if (!storyMap.has(story_id)) {
+            const importance = data.importance_score ?? 2.0;
+            const rank = calculateDynamicRank(importance, data.published_at, 30);
             storyMap.set(story_id, {
               ...data,
               story_id,
+              importance_score: importance,
+              rank_score: rank,
               _docId: docId,
             } as CapsuleStory & { _docId?: string });
           }
         });
         const list = Array.from(storyMap.values());
-        setStories(list);
-        if (list.length > 0) setSelectedStory(list[0]);
+        const sortedList = sortByEditorialRank(list);
+        setStories(sortedList);
+        if (sortedList.length > 0) setSelectedStory(sortedList[0]);
         else setSelectedStory(null);
       }
     } catch (err: any) {
@@ -431,14 +531,117 @@ export const EditorialDashboard: React.FC = () => {
     setSelectedStory(newStory);
   };
 
-  // Filtered list
-  const filteredStories = stories.filter((s) => {
+  // Dynamically compute ranked feed incorporating any live in-progress edits on selectedStory
+  const rankedStories = useMemo(() => {
+    const list = stories.map((s) => {
+      const isSelected = selectedStory && s.story_id === selectedStory.story_id;
+      const importance = isSelected ? (selectedStory.importance_score ?? 2.0) : (s.importance_score ?? 2.0);
+      const pubAt = isSelected ? selectedStory.published_at : s.published_at;
+      const dynamicRank = calculateDynamicRank(importance, pubAt, 30);
+      return {
+        ...s,
+        importance_score: importance,
+        published_at: pubAt,
+        rank_score: dynamicRank,
+      };
+    });
+    return sortByEditorialRank(list);
+  }, [stories, selectedStory?.story_id, selectedStory?.importance_score, selectedStory?.published_at]);
+
+  // Map each story_id to its live placement and slot on the broadsheet
+  const storyPlacementMap = useMemo(() => {
+    const map = new Map<string, BroadsheetSlot>();
+    rankedStories.forEach((s, idx) => {
+      map.set(s.story_id, getStorySlotPlacement(idx, activeCollection));
+    });
+    return map;
+  }, [rankedStories, activeCollection]);
+
+  // Filtered stories respecting sortMode and search query
+  const filteredStories = useMemo(() => {
+    let baseList = [...rankedStories];
+    if (sortMode === 'date') {
+      baseList = [...stories].sort((a, b) => {
+        const timeA = a.published_at ? new Date(a.published_at).getTime() : 0;
+        const timeB = b.published_at ? new Date(b.published_at).getTime() : 0;
+        return timeB - timeA;
+      });
+    }
+
+    if (!searchFilter.trim()) return baseList;
     const q = searchFilter.toLowerCase();
-    const titleEn = s.daily_buzz?.title_en?.toLowerCase() || '';
-    const titleBn = s.daily_buzz?.title_bn || '';
-    const id = s.story_id?.toLowerCase() || '';
-    return titleEn.includes(q) || titleBn.includes(q) || id.includes(q);
-  });
+    return baseList.filter((s) => {
+      const titleEn = s.daily_buzz?.title_en?.toLowerCase() || '';
+      const titleBn = s.daily_buzz?.title_bn || '';
+      const id = s.story_id?.toLowerCase() || '';
+      return titleEn.includes(q) || titleBn.includes(q) || id.includes(q);
+    });
+  }, [rankedStories, stories, sortMode, searchFilter]);
+
+  // Real-time update for importance score
+  const handleImportanceChange = (newScore: number) => {
+    if (!selectedStory) return;
+    const updated = { 
+      ...selectedStory, 
+      importance_score: newScore,
+      rank_score: calculateDynamicRank(newScore, selectedStory.published_at, 30)
+    };
+    setSelectedStory(updated);
+    setStories((prev) => prev.map((s) => (s.story_id === updated.story_id ? updated : s)));
+  };
+
+  // 1-Click Slot Placement Engine
+  const handleAssignSlot = (target: 'hero' | 'col1' | 'col3' | 'grid') => {
+    if (!selectedStory) return;
+
+    // Time decay of this story: decay = importance / rank
+    const testRank = calculateDynamicRank(10.0, selectedStory.published_at, 30);
+    const decay = 10.0 / Math.max(testRank, 0.01);
+
+    const otherStories = rankedStories.filter((s) => s.story_id !== selectedStory.story_id);
+    let targetImportance = 2.0;
+
+    if (target === 'hero') {
+      // Must beat the current #1 story
+      const topRank = otherStories.length > 0 ? (otherStories[0].rank_score ?? 1.2) : 1.2;
+      const neededRank = topRank + 0.25;
+      targetImportance = Math.min(10.0, Math.max(8.5, Number((neededRank * decay).toFixed(1))));
+    } else if (target === 'col1') {
+      // Must sit in position #2 or #3
+      const topRank = otherStories.length > 0 ? (otherStories[0].rank_score ?? 1.5) : 1.5;
+      const thirdRank = otherStories.length > 2 ? (otherStories[2].rank_score ?? 0.8) : 0.8;
+      const targetRank = Math.max(0.7, (topRank + thirdRank) / 2);
+      targetImportance = Math.min(8.0, Math.max(4.5, Number((targetRank * decay).toFixed(1))));
+    } else if (target === 'col3') {
+      // Must sit in Wire Desk positions #4 to #7
+      const wireRank = otherStories.length > 4 ? (otherStories[4].rank_score ?? 0.5) : 0.5;
+      const targetRank = Math.max(0.35, wireRank);
+      targetImportance = Math.min(5.0, Math.max(2.5, Number((targetRank * decay).toFixed(1))));
+    } else if (target === 'grid') {
+      targetImportance = 1.0;
+    }
+
+    handleImportanceChange(targetImportance);
+  };
+
+  // Set publication timestamp to NOW (removes old age decay penalty)
+  const handleTouchTimestamp = () => {
+    if (!selectedStory) return;
+    const nowIso = new Date().toISOString();
+    const updated = {
+      ...selectedStory,
+      published_at: nowIso,
+      rank_score: calculateDynamicRank(selectedStory.importance_score ?? 2.0, nowIso, 30),
+      daily_buzz: {
+        ...selectedStory.daily_buzz,
+        published_at: nowIso,
+      }
+    };
+    setSelectedStory(updated);
+    setStories((prev) => prev.map((s) => (s.story_id === updated.story_id ? updated : s)));
+    setStatusMessage({ text: '✓ Story timestamp updated to NOW (Decay penalty cleared)', type: 'success' });
+    setTimeout(() => setStatusMessage(null), 3000);
+  };
 
   if (authChecking) {
     return (
@@ -708,13 +911,32 @@ export const EditorialDashboard: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 grid grid-cols-1 lg:grid-cols-12 gap-6">
         {/* LEFT COLUMN: STORY LIST REGISTER */}
         <div className="lg:col-span-5 flex flex-col h-[750px] border border-primary/20 bg-surface-container">
-          <div className="p-3 border-b border-primary/20 bg-surface-container-high flex items-center justify-between">
+          <div className="p-2.5 border-b border-primary/20 bg-surface-container-high flex flex-wrap items-center justify-between gap-2">
             <span className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
-              Archived Documents ({filteredStories.length})
+              Stories ({filteredStories.length})
             </span>
-            <span className="text-[11px] font-mono text-secondary">
-              Collection: {activeCollection}
-            </span>
+            <div className="flex items-center gap-1 bg-surface border border-primary/20 p-0.5 text-[10px] font-sans font-bold">
+              <button
+                type="button"
+                onClick={() => setSortMode('broadsheet')}
+                className={`px-2 py-0.5 transition-colors cursor-pointer ${
+                  sortMode === 'broadsheet' ? 'bg-primary text-background' : 'text-on-surface-variant hover:text-primary'
+                }`}
+                title="Sort by live website placement order"
+              >
+                🏆 Broadsheet Rank
+              </button>
+              <button
+                type="button"
+                onClick={() => setSortMode('date')}
+                className={`px-2 py-0.5 transition-colors cursor-pointer ${
+                  sortMode === 'date' ? 'bg-primary text-background' : 'text-on-surface-variant hover:text-primary'
+                }`}
+                title="Sort chronologically by publish date"
+              >
+                ⏱️ Date
+              </button>
+            </div>
           </div>
 
           <div className="flex-1 overflow-y-auto divide-y divide-primary/10">
@@ -731,14 +953,7 @@ export const EditorialDashboard: React.FC = () => {
               filteredStories.map((story, idx) => {
                 const isSelected = selectedStory?.story_id === story.story_id;
                 const title = story.daily_buzz?.title_en || story.daily_buzz?.title_bn || story.story_id;
-                const scoreData = computeWebStoryScore(story);
-
-                const slotBadgeColors = {
-                  'Hero (Center Fold)': 'bg-amber-500/15 text-amber-500 border-amber-500/30',
-                  'Column 1 (Left)': 'bg-blue-500/15 text-blue-500 border-blue-500/30',
-                  'Column 3 (Wire Desk)': 'bg-emerald-500/15 text-emerald-500 border-emerald-500/30',
-                  'Inside Broadsheet Grid': 'bg-primary/10 text-primary border-primary/20',
-                };
+                const placement = storyPlacementMap.get(story.story_id) || getStorySlotPlacement(idx, activeCollection);
 
                 return (
                   <button
@@ -752,11 +967,11 @@ export const EditorialDashboard: React.FC = () => {
                   >
                     <div className="flex items-center justify-between text-[11px] font-mono gap-1">
                       <span className="text-secondary font-bold truncate max-w-[170px]">
-                        #{story.story_id}
+                        #{story.story_id.slice(0, 14)}...
                       </span>
                       <div className="flex items-center gap-1.5">
-                        <span className="bg-surface-container px-1.5 py-0.5 border border-primary/20 font-bold text-primary" title={`Base Importance: ${scoreData.baseScore} | Decayed Rank: ${scoreData.finalRankScore}`}>
-                          Rank: {scoreData.finalRankScore.toFixed(2)}
+                        <span className="bg-surface-container px-1.5 py-0.5 border border-primary/20 font-bold text-primary" title={`Position: #${placement.position} | Importance: ${story.importance_score ?? 2.0} | Dynamic Rank: ${(story.rank_score ?? 0).toFixed(3)}`}>
+                          Pos #{placement.position} • Rank: {(story.rank_score ?? 0).toFixed(2)}
                         </span>
                       </div>
                     </div>
@@ -766,11 +981,11 @@ export const EditorialDashboard: React.FC = () => {
                     </h4>
 
                     <div className="flex items-center justify-between gap-1 text-[10px] pt-1">
-                      <span className={`px-2 py-0.5 border text-[10px] font-mono font-bold rounded ${slotBadgeColors[scoreData.suggestedSlot]}`}>
-                        {scoreData.suggestedSlot}
+                      <span className={`px-2 py-0.5 border text-[10px] font-mono font-bold rounded ${placement.badgeClass}`}>
+                        {placement.badgeLabel}
                       </span>
                       <span className="text-on-surface-variant font-sans uppercase">
-                        {story.published_at ? new Date(story.published_at).toLocaleDateString() : 'Draft'}
+                        {formatRelativeTime(story.published_at)}
                       </span>
                     </div>
                   </button>
@@ -847,7 +1062,7 @@ export const EditorialDashboard: React.FC = () => {
                         )}
                       </div>
                       <span className="font-mono text-xs text-secondary font-bold">
-                        Target Slot: {computeWebStoryScore(selectedStory).suggestedSlot}
+                        Target Slot: {(storyPlacementMap.get(selectedStory.story_id) || getStorySlotPlacement(0, activeCollection)).badgeLabel}
                       </span>
                     </div>
 
@@ -916,49 +1131,130 @@ export const EditorialDashboard: React.FC = () => {
                 </div>
               ) : (
                 <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-5">
-                  {/* 1. SCORING & EDITORIAL PLACEMENT WEIGHTS */}
+                  {/* 1. SCORING & EDITORIAL PLACEMENT COMMAND */}
                   {(() => {
-                    const scoreData = computeWebStoryScore(selectedStory);
+                    const currentPlacement = storyPlacementMap.get(selectedStory.story_id) || getStorySlotPlacement(0, activeCollection);
+                    const dynamicRank = calculateDynamicRank(selectedStory.importance_score ?? 2.0, selectedStory.published_at, 30);
+                    const ageText = formatRelativeTime(selectedStory.published_at);
+
                     return (
-                      <div className="border border-secondary/30 bg-secondary/5 p-4 space-y-3">
-                        <div className="flex flex-wrap items-center justify-between border-b border-secondary/20 pb-2 gap-2">
+                      <div className="border border-secondary/30 bg-secondary/5 p-4 space-y-4">
+                        {/* Placement Command Header */}
+                        <div className="flex flex-wrap items-center justify-between border-b border-secondary/20 pb-2.5 gap-2">
                           <div className="flex items-center space-x-2 font-sans text-xs font-bold uppercase text-secondary">
                             <Sliders className="w-4 h-4" />
-                            <span>Web Broadsheet Placement & Scoring Engine</span>
+                            <span>Broadsheet Placement & Scoring Command</span>
                           </div>
                           <div className="flex items-center gap-2">
-                            <span className="bg-secondary text-on-secondary px-2 py-0.5 text-xs font-mono font-bold rounded">
-                              Slot: {scoreData.suggestedSlot}
+                            <span className={`px-2.5 py-1 text-xs font-mono font-bold border rounded ${currentPlacement.badgeClass}`}>
+                              {currentPlacement.badgeLabel} • Pos #{currentPlacement.position}
                             </span>
                           </div>
                         </div>
 
                         {/* Real dynamic score telemetry */}
-                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 py-1 font-mono text-xs">
-                          <div className="p-2 bg-surface-container border border-primary/20">
+                        <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 font-mono text-xs">
+                          <div className="p-2.5 bg-surface-container border border-primary/20">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Live Broadsheet Slot</span>
+                            <span className="text-xs font-bold text-primary block truncate">{currentPlacement.label}</span>
+                          </div>
+                          <div className="p-2.5 bg-surface-container border border-primary/20">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Feed Position</span>
+                            <span className="text-sm font-bold text-secondary">#{currentPlacement.position} of {stories.length}</span>
+                          </div>
+                          <div className="p-2.5 bg-surface-container border border-primary/20">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Decayed Rank</span>
+                            <span className="text-sm font-bold text-primary">{dynamicRank.toFixed(3)}</span>
+                          </div>
+                          <div className="p-2.5 bg-surface-container border border-primary/20">
                             <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Base Importance</span>
-                            <span className="text-sm font-bold text-primary">{scoreData.baseScore}</span>
-                          </div>
-                          <div className="p-2 bg-surface-container border border-primary/20">
-                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Final Decayed Rank</span>
-                            <span className="text-sm font-bold text-secondary">{scoreData.finalRankScore}</span>
-                          </div>
-                          <div className="p-2 bg-surface-container border border-primary/20 col-span-2 sm:col-span-1">
-                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Editorial Signals</span>
-                            <div className="text-[10px] text-primary truncate" title={scoreData.breakdown.join(' | ')}>
-                              {scoreData.breakdown.join(' • ')}
-                            </div>
+                            <span className="text-sm font-bold text-primary">{(selectedStory.importance_score ?? 2.0).toFixed(1)} / 10.0</span>
                           </div>
                         </div>
 
+                        {/* 1-Click Slot Assignment Buttons */}
+                        <div>
+                          <div className="flex items-center justify-between mb-1.5">
+                            <label className="text-[11px] font-sans font-bold uppercase tracking-wider text-secondary flex items-center gap-1.5">
+                              <Zap className="w-3.5 h-3.5" />
+                              <span>Quick Slot Promotion (1-Click Broadsheet Assignment)</span>
+                            </label>
+                            <span className="text-[10px] text-on-surface-variant font-serif">
+                              Auto-calculates importance based on age decay
+                            </span>
+                          </div>
+                          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
+                            <button
+                              type="button"
+                              onClick={() => handleAssignSlot('hero')}
+                              className={`p-2.5 border text-left transition-all cursor-pointer flex flex-col justify-between ${
+                                currentPlacement.slotKey === 'hero'
+                                  ? 'bg-amber-500/20 border-amber-500 ring-1 ring-amber-500 text-amber-400 shadow-sm'
+                                  : 'bg-surface border-primary/20 hover:border-amber-500 text-on-surface'
+                              }`}
+                            >
+                              <span className="text-xs font-bold flex items-center gap-1">🌟 Center Hero</span>
+                              <span className="text-[10px] text-on-surface-variant font-serif mt-1">
+                                #1 Top Centerfold
+                              </span>
+                            </button>
+
+                            <button
+                              type="button"
+                              onClick={() => handleAssignSlot('col1')}
+                              className={`p-2.5 border text-left transition-all cursor-pointer flex flex-col justify-between ${
+                                currentPlacement.slotKey === 'col1_top' || currentPlacement.slotKey === 'col1_bottom'
+                                  ? 'bg-blue-500/20 border-blue-500 ring-1 ring-blue-500 text-blue-400 shadow-sm'
+                                  : 'bg-surface border-primary/20 hover:border-blue-500 text-on-surface'
+                              }`}
+                            >
+                              <span className="text-xs font-bold flex items-center gap-1">📰 Column 1 (Left)</span>
+                              <span className="text-[10px] text-on-surface-variant font-serif mt-1">
+                                Lead Dispatches (Pos #2–#3)
+                              </span>
+                            </button>
+
+                            <button
+                              type="button"
+                              onClick={() => handleAssignSlot('col3')}
+                              className={`p-2.5 border text-left transition-all cursor-pointer flex flex-col justify-between ${
+                                currentPlacement.slotKey === 'col3_wire'
+                                  ? 'bg-emerald-500/20 border-emerald-500 ring-1 ring-emerald-500 text-emerald-400 shadow-sm'
+                                  : 'bg-surface border-primary/20 hover:border-emerald-500 text-on-surface'
+                              }`}
+                            >
+                              <span className="text-xs font-bold flex items-center gap-1">⚡ Wire Desk (Col 3)</span>
+                              <span className="text-[10px] text-on-surface-variant font-serif mt-1">
+                                Fast Briefs (Pos #4–#7)
+                              </span>
+                            </button>
+
+                            <button
+                              type="button"
+                              onClick={() => handleAssignSlot('grid')}
+                              className={`p-2.5 border text-left transition-all cursor-pointer flex flex-col justify-between ${
+                                currentPlacement.slotKey === 'grid'
+                                  ? 'bg-primary/20 border-primary ring-1 ring-primary text-primary shadow-sm'
+                                  : 'bg-surface border-primary/20 hover:border-primary text-on-surface'
+                              }`}
+                            >
+                              <span className="text-xs font-bold flex items-center gap-1">📑 Inside Grid</span>
+                              <span className="text-[10px] text-on-surface-variant font-serif mt-1">
+                                Lower Archive (Pos #8+)
+                              </span>
+                            </button>
+                          </div>
+                        </div>
+
+                        {/* Fine Tuning Slider & Metadata Controls */}
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
-                          <div>
-                            <div className="flex items-center justify-between mb-1">
+                          <div className="space-y-2">
+                            <div className="flex items-center justify-between">
                               <label className="text-xs font-serif text-on-surface-variant font-semibold">
                                 Editorial Base Override (1.0 to 10.0)
                               </label>
                               <span className="text-xs font-mono font-bold text-primary">
-                                {selectedStory.importance_score ?? 2.0}
+                                {(selectedStory.importance_score ?? 2.0).toFixed(1)}
                               </span>
                             </div>
                             <input
@@ -967,17 +1263,21 @@ export const EditorialDashboard: React.FC = () => {
                               max="10.0"
                               step="0.5"
                               value={selectedStory.importance_score ?? 2.0}
-                              onChange={(e) =>
-                                setSelectedStory({
-                                  ...selectedStory,
-                                  importance_score: parseFloat(e.target.value)
-                                })
-                              }
+                              onChange={(e) => handleImportanceChange(parseFloat(e.target.value))}
                               className="w-full accent-secondary cursor-pointer"
                             />
-                            <span className="text-[10px] text-on-surface-variant font-serif block mt-1">
-                              Setting score ≥ 4.0 immediately promotes this dispatch into the Center Hero slot on the website.
-                            </span>
+                            <div className="flex items-center justify-between text-[11px] font-serif text-on-surface-variant">
+                              <span>Published: <strong>{ageText}</strong></span>
+                              <button
+                                type="button"
+                                onClick={handleTouchTimestamp}
+                                className="inline-flex items-center gap-1 text-[10px] font-sans font-bold text-secondary hover:underline cursor-pointer"
+                                title="Sets publication timestamp to NOW to clear old age decay penalty"
+                              >
+                                <Clock className="w-3 h-3" />
+                                <span>Reset Time to Now (Fresh)</span>
+                              </button>
+                            </div>
                           </div>
 
                           <div className="space-y-2">

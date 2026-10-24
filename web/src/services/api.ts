@@ -159,7 +159,7 @@ function sortByPublishedDesc(list: CapsuleStory[]): CapsuleStory[] {
   });
 }
 
-function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
+export function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
   return list.sort((a, b) => {
     // 1. Primary sort: rank_score (freshness + importance decay)
     const rankA = a.rank_score ?? 1.0;
