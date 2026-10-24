@@ -1,179 +1,121 @@
 {
-  "updated_at": "2026-10-24T03:00:53.793517",
+  "updated_at": "2026-10-24T04:00:45.785762",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "aae00dbb-20ed-5589-9015-8625e4cfe074",
-      "primary_category": "sports_fitness",
+      "story_id": "a51e6d87-a5e4-5307-a091-51ff00df8749",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "sports_fitness"
+        "world_diplomacy"
       ],
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Istanbul.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T03:00:00+00:00",
+      "published_at": "2026-10-24T03:39:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9631,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976333/%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A7%9C",
-          "title": "কুয়েতে দুই গোল করে রাফায়েলের স্বপ্ন এখন আরও বড়",
-          "snippet": "কুয়েতে দুই গোল করে রাফায়েলের স্বপ্ন এখন আরও বড়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এএফসি চ্যালেঞ্জ লিগে ফর্টিস এফসির জয়ের নায়কে পরিণত হলেন রাফায়েল",
-        "title_en": "Rafael Shines as Fortis FC Secures Historic Victory in AFC Challenge League",
-        "summary_bn": "ফর্টিস এফসির ফরোয়ার্ড রাফায়েল টুডু এএফসি চ্যালেঞ্জ লিগে টানা দুই ম্যাচে গোল করে নিজের ব্যক্তিগত সাফল্যের চেয়ে ক্লাবের জয়কে বড় করে দেখছেন।",
-        "summary_en": "Fortis FC forward Rafael Tudu scored in consecutive AFC Challenge League matches, prioritizing the club's historic milestone over personal achievement.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:00:00+00:00",
-        "lead_bn": "ফর্টিস এফসির ফরোয়ার্ড রাফায়েল টুডু এএফসি চ্যালেঞ্জ লিগে টানা দুই ম্যাচে গোল করে নিজের ব্যক্তিগত সাফল্যের চেয়ে ক্লাবের জয়কে বড় করে দেখছেন।",
-        "lead_en": "Fortis FC forward Rafael Tudu scored in consecutive AFC Challenge League matches, prioritizing the club's historic milestone over personal achievement.",
-        "bullets_bn": [
-          "এএফসি চ্যালেঞ্জ লিগে বদলি খেলোয়াড় হিসেবে নেমে জোড়া গোল করেন রাফায়েল টুডু।",
-          "বাংলাদেশের কোনো ক্লাব হিসেবে টুর্নামেন্টে প্রথম জয় অর্জনের পর এই সাফল্যকে দেশের ফুটবল ইতিহাসের বড় অর্জন বলে অভিহিত করেছেন ২৫ বছর বয়সী এই ফরোয়ার্ড।",
-          "মহাদেশীয় এই টুর্নামেন্টে নিজেদের পারফরম্যান্স আরও উন্নত করার লক্ষ্য নিয়ে পরবর্তী ম্যাচের প্রস্তুতি নিচ্ছে ফর্টিস এফসি।"
-        ],
-        "bullets_en": [
-          "Rafael Tudu scored two crucial goals after coming off the bench in the AFC Challenge League fixture.",
-          "The 25-year-old forward emphasized that securing the first-ever victory for a Bangladeshi club in the tournament matters more than his individual scoring record.",
-          "Fortis FC aims to maintain their momentum and improve their continental campaign in upcoming fixtures."
-        ],
-        "impact_bn": "ফর্টিস এফসির এই আন্তর্জাতিক সাফল্য দেশের ফুটবলপ্রেমী তরুণ ও উদীয়মান খেলোয়াড়দের নতুন স্বপ্ন দেখাতে সাহায্য করবে।",
-        "impact_en": "This historic international milestone for Fortis FC inspires young football fans and aspiring athletes across the country.",
-        "details_bn": "এএফসি চ্যালেঞ্জ লিগে অংশ নিয়ে আন্তর্জাতিক অঙ্গনে নিজেদের উপস্থিতি জানান দিচ্ছে বাংলাদেশের ক্লাব ফর্টিস এফসি। দলের আক্রমণভাগকে শক্তিশালী করতে ফরোয়ার্ড রাফায়েল টুডুর মতো তরুণ খেলোয়াড়রা গুরুত্বপূর্ণ অবদান রেখে চলেছেন। এর আগে ঘরোয়া ফুটবলেও নিজেদের সামর্থ্যের প্রমাণ দেওয়া এই ক্লাবটি মহাদেশীয় প্রতিযোগিতায় দেশের ফুটবলের সম্মান বাড়াতে ধারাবাহিক পারফরম্যান্সের ওপর জোর দিচ্ছে।",
-        "details_en": "Fortis FC is making notable strides on the international stage by competing in the AFC Challenge League. Young forwards like Rafael Tudu have bolstered the team's attack, helping the club secure milestone victories. Having previously proven their mettle in domestic football, the team is now focused on delivering consistent performances to elevate Bangladesh's reputation in continental club competitions."
-      }
-    },
-    {
-      "story_id": "97a03d4d-30f2-5821-b97e-d921fc197494",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9631,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/976264/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
-          "title": "নিজের সময়ের নিয়ন্ত্রণ ফিরে পাওয়ার দিন",
-          "snippet": "নিজের সময়ের নিয়ন্ত্রণ ফিরে পাওয়ার দিন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্যস্ততা ও ডিজিটাল আসক্তি এড়াতে উদযাপিত হচ্ছে নিজের সময় ফিরিয়ে নেওয়ার দিন",
-        "title_en": "Tech Back Your Time Day Observed to Combat Digital Overload",
-        "summary_bn": "অবিরাম কাজ ও ডিজিটাল নোটিফিকেশনের ভিড়ে নিজের মানসিক সুস্থতা ও ব্যক্তিগত সময় নিশ্চিত করার গুরুত্ব তুলে ধরা হচ্ছে।",
-        "summary_en": "Individuals are encouraged to reclaim personal time and mental well-being amidst relentless work and digital notifications.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:00:00+00:00",
-        "lead_bn": "অবিরাম কাজ ও ডিজিটাল নোটিফিকেশনের ভিড়ে নিজের মানসিক সুস্থতা ও ব্যক্তিগত সময় নিশ্চিত করার গুরুত্ব তুলে ধরা হচ্ছে।",
-        "lead_en": "Individuals are encouraged to reclaim personal time and mental well-being amidst relentless work and digital notifications.",
-        "bullets_bn": [
-          "অবিরাম কাজের ব্যস্ততা এবং মোবাইল নোটিফিকেশনের ভিড়ে ব্যক্তিগত সময় ও মানসিক শান্তি বজায় রাখার আহ্বান জানানো হয়েছে।",
-          "দিনের বেশির ভাগ সময় কাজ ও পারিবারিক দায়িত্ব সামলাতে গিয়ে অনেকেই নিজেদের ব্যক্তিগত পছন্দ ও মানসিক স্বাস্থ্যকে অবহেলা করেন।",
-          "ব্যক্তিগত জীবনের ভারসাম্য রক্ষা করতে ডিজিটাল ডিভাইসের ব্যবহার সীমিত করে নিজের জন্য আলাদা সময় বের করার তাগিদ দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "People are encouraged to pause and reclaim personal control over their daily schedules amidst constant busywork.",
-          "Many individuals struggle to balance work, studies, and family responsibilities while neglecting their mental health.",
-          "Limiting digital distractions helps individuals prioritize personal well-being and maintain a healthy life balance."
-        ],
-        "impact_bn": "ডিজিটাল ক্লান্তি কমিয়ে সাধারণ মানুষের মানসিক স্বাস্থ্য সুরক্ষা এবং ব্যক্তিগত সচেতনতা বাড়াতে সাহায্য করবে।",
-        "impact_en": "Helps ordinary citizens reduce digital fatigue and improves mental well-being by fostering personal boundary-setting.",
-        "details_bn": "আধুনিক প্রযুক্তির অতি ব্যবহার ও কর্মব্যস্ততার কারণে মানুষের মানসিক চাপ দিন দিন বৃদ্ধি পাচ্ছে। কাজের ফাঁκε নিজের জন্য সময় বের করা এবং ডিজিটাল মাধ্যম থেকে সাময়িক বিরতি নেওয়ার গুরুত্ব তুলে ধরতে বিশেষ দিবস হিসেবে এটি পালিত হয়। এর মূল উদ্দেশ্য হলো ব্যক্তিজীবনে ভারসাম্য ফিরিয়ে আনা এবং মানসিক অবসাদ দূর করা।",
-        "details_en": "Modern technology and relentless work schedules have significantly increased mental stress levels among individuals. This observance highlights the vital need to take periodic breaks from digital devices, reduce burnout, and consciously reclaim personal time to maintain a balanced lifestyle."
-      }
-    },
-    {
-      "story_id": "633f2d6e-24f7-5b01-b816-b5d72a8a59ef",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%88%E0%A6%A8.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T02:54:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9059,
+      "importance_score": 7.2,
+      "rank_score": 2.3611,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/channel-is-mohiuddin-khan-moin-to-receive-an-award-in-malaysia/",
-          "title": "মালয়েশিয়ায় অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন",
-          "snippet": "মালয়েশিয়ায় অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন"
+          "url": "https://www.channelionline.com/foreign-ministers-of-eight-countries-call-for-a-diplomatic-solution-urging-against-new-attacks-on-iran/",
+          "title": "ইরানে নতুন হামলা নয়, কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের",
+          "snippet": "ইরানে নতুন হামলা নয়, কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়ার ডব্লিউডব্লিউও গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন",
-        "title_en": "Channel i GM Mohiuddin Khan Moin to Receive WWO Global Excellence Leadership Award",
-        "summary_bn": "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের স্বীকৃতিস্বরূপ মালয়েশিয়ার মর্যাদাপূর্ণ গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন।",
-        "summary_en": "Channel i General Manager Mohiuddin Khan Moin is receiving Malaysia's prestigious Global Excellence Leadership Award for contributions to media business development.",
+        "title_bn": "ইরানে সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের",
+        "title_en": "Foreign Ministers of Eight Nations Urge Diplomatic Solution Avoiding Strikes on Iran",
+        "summary_bn": "ইউরোপ ও মধ্যপ্রাচ্যের আট দেশের পররাষ্ট্রমন্ত্রীরা ইরানে নতুন সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের ওপর জোর দিয়েছেন।",
+        "summary_en": "Foreign ministers from Europe and the Middle East urged Washington to avoid fresh military strikes on Iran.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:54:10+00:00",
-        "lead_bn": "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের স্বীকৃতিস্বরূপ মালয়েশিয়ার মর্যাদাপূর্ণ গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন।",
-        "lead_en": "Channel i General Manager Mohiuddin Khan Moin is receiving Malaysia's prestigious Global Excellence Leadership Award for contributions to media business development.",
+        "published_at": "2026-10-24T03:39:29+00:00",
+        "lead_bn": "ইউরোপ ও মধ্যপ্রাচ্যের আট দেশের পররাষ্ট্রমন্ত্রীরা ইরানে নতুন সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের ওপর জোর দিয়েছেন।",
+        "lead_en": "Foreign ministers from Europe and the Middle East urged Washington to avoid fresh military strikes on Iran.",
         "bullets_bn": [
-          "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের জন্য চ্যানেল আইয়ের মহিউদ্দিন খান মঈনকে এই সম্মাননা দেওয়া হচ্ছে।",
-          "কুয়ালালামপুর ইন্টারন্যাশনালে আয়োজিত অনুষ্ঠানে আনুষ্ঠানিকভাবে ডব্লিউডব্লিউও গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড প্রদান করা হবে।",
-          "চ্যানেল আইয়ের ব্যবসায়িক সম্প্রসারণ এবং দীর্ঘমেয়াদি অংশীদারত্ব গড়ে তোলার ক্ষেত্রে তার ভূমিকা বিশেষভাবে মূল্যায়িত হয়েছে।"
+          "যুক্তরাষ্ট্রকে ইরানে নতুন সামরিক হামলা থেকে বিরত থাকার আহ্বান জানায় আট দেশের জোট।",
+          "সংঘাত তীব্র হলে জ্বালানি তেলের বাজারে গুরুতর প্রভাব পড়বে বলে সতর্ক করেন ফরাসি পররাষ্ট্রমন্ত্রী।",
+          "হরমুজ প্রণালির নিরাপত্তা নিশ্চিত করতে সংলাপ ও কূটনৈতিক উদ্যোগ জোরদারের তাগিদ দেওয়া হয়।"
         ],
         "bullets_en": [
-          "Channel i General Manager Mohiuddin Khan Moin has been selected for the prestigious WWO Global Excellence Leadership Award.",
-          "The award will be officially presented at a ceremony in Kuala Lumpur International Hotel recognizing media development.",
-          "His role in expanding corporate clients, sponsorships, and building long-term business relationships was specially evaluated."
+          "Eight foreign ministers urged the United States to refrain from launching new military strikes on Iran.",
+          "French Foreign Minister warned that escalation would severely impact hydrocarbon and fuel oil markets.",
+          "Envoys emphasized dialogue and diplomatic initiatives to ensure security in the Strait of Hormuz."
         ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "গণমাধ্যমের বাণিজ্যিক কার্যক্রম গতিশীল করা, নতুন বিজ্ঞাপন ও স্পনসরশিপের সুযোগ সৃষ্টি এবং করপোরেট প্রতিষ্ঠানগুলোর সঙ্গে কার্যকর অংশীদারত্ব গড়ে তোলার ক্ষেত্রে মহিউদ্দিন খান মঈনের পেশাগত ভূমিকা উল্লেখযোগ্য। বিশেষজ্ঞদের মতে, গণমাধ্যমের কনটেন্টের পাশাপাশি বিপণন ও ব্যবসায়িক ব্যবস্থাপনার দক্ষতাও একটি প্রতিষ্ঠানের টেকসই উন্নয়নে গুরুত্বপূর্ণ ভূমিকা পালন করে। এ ক্ষেত্রে তার ধারাবাহিক অবদান আন্তর্জাতিক অঙ্গনে স্বীকৃতি লাভ করেছে।",
-        "details_en": "Mohiuddin Khan Moin has played a significant professional role in dynamic commercial media operations, creating new advertising opportunities, and building corporate partnerships. Media experts note that alongside journalism, marketing and business management skills are vital for sustainable media institutional development, which has now earned international recognition."
+        "impact_bn": "সংঘাত বাড়লে বৈশ্বিক জ্বালানি তেলের দাম বেড়ে সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়তে পারে।",
+        "impact_en": "Escalating regional conflict could spike global fuel prices and increase living costs for citizens.",
+        "details_bn": "তুরস্কের ইস্তাম্বুলে ইউরোপ ও মধ্যপ্রাচ্যের আটটি দেশের পররাষ্ট্রমন্ত্রীদের বৈঠকে আঞ্চলিক সংঘাত নিরসন ও হরমুজ প্রণালির নিরাপত্তা নিয়ে আলোচনা হয়। বৈঠকে যুক্তরাজ্য, ফ্রান্স, জার্মানি, তুরস্ক, সৌদি আরব, পাকিস্তান, মিসর ও ইতালির প্রতিনিধিরা অংশ নেন। অংশগ্রহণকারী দেশগুলো সামরিক উত্তেজনার পরিবর্তে আলোচনার মাধ্যমে সংকট সমাধানের পক্ষে মত দেয়। তবে এর মধ্যেই যুক্তরাষ্ট্র চলতি সপ্তাহান্তেই ইরানে হামলা চালাতে পারে বলে আশঙ্কা প্রকাশ করা হয়েছে।",
+        "details_en": "Foreign ministers from eight European and Middle Eastern nations met in Istanbul to discuss regional stability and security in the Strait of Hormuz. Representatives from the E3 nations, Turkey, Saudi Arabia, Pakistan, Egypt, and Italy attended the talks. The coalition strongly advocated for diplomatic dialogue over military intervention to de-escalate tensions. Meanwhile, US officials signaled that Washington could potentially launch strikes against Iran."
       }
     },
     {
-      "story_id": "0f248d31-ea79-5dc4-b618-e546b9e002d7",
+      "story_id": "7ac887f1-01f3-5628-9d33-204c95f38dd8",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T03:15:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.7622,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171278",
+          "title": "প্রধানমন্ত্রীর জাপান সফরে একাধিক সমঝোতা স্মারক সইয়ের আশা",
+          "snippet": "প্রধানমন্ত্রীর জাপান সফরে একাধিক সমঝোতা স্মারক সইয়ের আশা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাপান সফরে চারটির বেশি সমঝোতা স্মারক সইয়ের সম্ভাবনা রয়েছে",
+        "title_en": "Multiple Memorandums of Understanding Expected During Japan Tour",
+        "summary_bn": "প্রধানমন্ত্রীর আসন্ন জাপান সফরে বাংলাদেশ ও জাপানের মধ্যে চারটির বেশি সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।",
+        "summary_en": "Bangladesh and Japan are expected to sign more than four memorandums of understanding during the upcoming official visit.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T03:15:15+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর আসন্ন জাপান সফরে বাংলাদেশ ও জাপানের মধ্যে চারটির বেশি সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।",
+        "lead_en": "Bangladesh and Japan are expected to sign more than four memorandums of understanding during the upcoming official visit.",
+        "bullets_bn": [
+          "বাংলাদেশ ও জাপানের মধ্যে অর্থনৈতিক অংশীদারিত্ব বাড়াতে একাধিক চুক্তি চূড়ান্ত করা হচ্ছে।",
+          "সফরে চারটির বেশি সমঝোতা স্মারক বা এমওইউ স্বাক্ষরিত হওয়ার জোরালো সম্ভাবনা রয়েছে।",
+          "চুক্তিগুলোর সফল বাস্তবায়নের মাধ্যমে দুই দেশের দ্বিপক্ষীয় বাণিজ্য ও বিনিয়োগ আরও সম্প্রসারিত হবে।"
+        ],
+        "bullets_en": [
+          "Several bilateral agreements are being finalized to strengthen economic partnership between Bangladesh and Japan.",
+          "More than four memorandums of understanding are strongly expected to be signed during the visit.",
+          "Successful implementation of these deals will further expand bilateral trade and investment between the two nations."
+        ],
+        "impact_bn": "এই চুক্তির ফলে দ্বিপক্ষীয় বিনিয়োগ ও বাণিজ্যের প্রসার ঘটবে, যা দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানে ভূমিকা রাখবে।",
+        "impact_en": "The agreements will expand bilateral investment and trade, contributing to economic growth and employment opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপানের দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। দুই দেশের মধ্যে বাণিজ্য ও অবকাঠামো উন্নয়নসহ বিভিন্ন খাতে সহযোগিতা বজায় রয়েছে। প্রধানমন্ত্রী তারেক রহমানের আসন্ন এই সফর দ্বিপক্ষীয় সম্পর্ককে আরও দৃঢ় করতে এবং নতুন অর্থনৈতিক সম্ভাবনা উন্মোচনে গুরুত্বপূর্ণ ভূমিকা পালন করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share long-standing diplomatic and economic ties, cooperating extensively in trade, infrastructure, and development. The upcoming official visit by Prime Minister Tarique Rahman is expected to further strengthen bilateral relations and unlock new avenues for economic cooperation."
+      }
+    },
+    {
+      "story_id": "6a881a99-e613-5cb8-9488-3fab2615e987",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness",
-        "governance_law"
+        "world_diplomacy"
       ],
       "tags": [
         "#Sports",
@@ -181,51 +123,51 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T02:52:50+00:00",
+      "published_at": "2026-10-24T04:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8937,
+      "rank_score": 0.9649,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/football/1171274",
-          "title": "প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ ফর্টিসের",
-          "snippet": "প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ ফর্টিসের"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/976334/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E2%80%98%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B8-%E0%A6%85%E0%A6%AC-%E0%A6%86%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B8%E2%80%99",
+          "title": "স্পেনের মর্যাদাপূর্ণ ‘প্রিন্সেস অব আস্তুরিয়াস’ পুরস্কার পেলেন মেসি",
+          "snippet": "স্পেনের মর্যাদাপূর্ণ ‘প্রিন্সেস অব আস্তুরিয়াস’ পুরস্কার পেলেন মেসি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জয় দিয়ে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করল ফর্টিস এফসি",
-        "title_en": "Fortis FC Concludes AFC Challenge League Campaign With Victory",
-        "summary_bn": "প্রিমিয়ার লিগের দল ফর্টিস এফসি পিছিয়ে পড়েও দারুণ প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করেছে।",
-        "summary_en": "Fortis FC concluded their AFC Challenge League campaign with a remarkable comeback victory after trailing in the match.",
+        "title_bn": "স্পেনের মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার পেলেন ফুটবলার লিওনেল মেসি",
+        "title_en": "Footballer Lionel Messi Receives Prestigious Princesa de Asturias Award in Spain",
+        "summary_bn": "ফুটবলের জাদুকর লিওনেল মেসি স্পেনের ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে এক বর্ণাঢ্য অনুষ্ঠানে মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার গ্রহণ করেছেন।",
+        "summary_en": "Football maestro Lionel Messi received the prestigious Princesa de Asturias Award at a grand ceremony in Spain.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:52:50+00:00",
-        "lead_bn": "প্রিমিয়ার লিগের দল ফর্টিস এফসি পিছিয়ে পড়েও দারুণ প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করেছে।",
-        "lead_en": "Fortis FC concluded their AFC Challenge League campaign with a remarkable comeback victory after trailing in the match.",
+        "published_at": "2026-10-24T04:00:00+00:00",
+        "lead_bn": "ফুটবলের জাদুকর লিওনেল মেসি স্পেনের ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে এক বর্ণাঢ্য অনুষ্ঠানে মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার গ্রহণ করেছেন।",
+        "lead_en": "Football maestro Lionel Messi received the prestigious Princesa de Asturias Award at a grand ceremony in Spain.",
         "bullets_bn": [
-          "ম্যাচের ৬৬ মিনিট পর্যন্ত পিছিয়ে থাকার পর দুর্দান্ত জয় তুলে নেয় ফর্টিস এফসি",
-          "এএফসি চ্যালেঞ্জ লিগের প্রথম দুই ম্যাচে পরাজয়ের পর শেষ ম্যাচে ঘুরে দাঁড়ায় বাংলাদেশের ক্লাবটি",
-          "এই জয়ের মধ্য দিয়ে টুর্নামেন্টে নিজেদের অভিযান সফলভাবে সমাপ্ত করল ফর্টিস এফসি"
+          "লিওনেল মেসিকে মর্যাদাপূর্ণ আন্তর্জাতিক সম্মাননা প্রিন্সেস অব আস্তুরিয়াস অ্যাওয়ার্ড ফর স্পোর্টস প্রদান করা হয়।",
+          "ওভিয়েদোর ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে প্রিন্সেস লিওনোরের হাত থেকে পুরস্কার গ্রহণ করেন মেসি।",
+          "অনুষ্ঠানে স্পেনের রাজা ষষ্ঠ ফেলিপ এবং রানি লেটিজিয়া উপস্থিত থেকে এই তারকাকে সংবর্ধনা জানান।"
         ],
         "bullets_en": [
-          "Fortis FC secured a brilliant victory after trailing behind until the 66th minute of the match.",
-          "The Bangladeshi club bounced back in their final match following defeats in the first two games of the tournament.",
-          "Fortis FC successfully concluded their campaign in the tournament with this win."
+          "Lionel Messi was honored with the prestigious Princesa de Asturias Award for Sports.",
+          "Messi received the accolade directly from Princess Leonor at the historic Campoamor Theater in Oviedo.",
+          "King Felipe VI and Queen Letizia of Spain attended the grand ceremony to honor the football star."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "এএফসি চ্যালেঞ্জ লিগে অংশ নিয়ে টুর্নামেন্টের শুরুতে টানা দুটি ম্যাচে পরাজয়ের স্বাদ পায় ফর্টিস এফসি। তবে গ্রুপ পর্বের শেষ ম্যাচে এসে ঘুরে দাঁড়ায় দলটি। পিছিয়ে থেকেও দুর্দান্ত পারফরম্যান্স প্রদর্শন করে জয় তুলে নিয়ে টুর্নামেন্ট থেকে বিদায় নেয় বাংলাদেশের এই ক্লাবটি।",
-        "details_en": "Fortis FC faced consecutive defeats in their opening two matches of the AFC Challenge League. However, the club bounced back strongly in their final group fixture, securing a hard-fought victory to conclude their continental campaign on a positive note."
+        "details_bn": "স্পেনের প্রিন্সেস অব আস্তুরিয়াস ফাউন্ডেশন প্রতি বছর বিভিন্ন ক্ষেত্রে অসামান্য অবদানের জন্য বিশ্বখ্যাত ব্যক্তিত্বদের এই পুরস্কার প্রদান করে থাকে। ক্রীড়া ক্ষেত্রে অসাধারণ সাফল্য এবং বিশ্বজুড়ে ফুটবলপ্রেমীদের মাঝে অনুপ্রেরণা জোগানোর স্বীকৃতিস্বরূপ লিওনেল মেসিকে এবারের ক্রীড়া ক্যাটাগরিতে এই মর্যাদাপূর্ণ সম্মাননার জন্য মনোনীত করা হয়। ওভিয়েদোর ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে আয়োজিত এই রাজকীয় অনুষ্ঠানে বিশ্বের বিশিষ্ট ব্যক্তিবর্গ উপস্থিত ছিলেন।",
+        "details_en": "The Princesa de Asturias Foundation in Spain annually honors world-renowned figures for outstanding contributions in various fields. Lionel Messi was selected for this year's sports category in recognition of his extraordinary athletic success and for inspiring football fans globally. The grand ceremony took place at the historic Campoamor Theater in Oviedo, attended by distinguished international guests."
       }
     },
     {
-      "story_id": "02f59208-3fcf-51d2-b4e4-e9e3bdc77ffe",
+      "story_id": "9505d5a0-23cd-5c91-b744-375dbb104b7c",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment"
@@ -234,52 +176,108 @@
         "#Climate",
         "#Environment"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/07-1792470620.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T02:50:24+00:00",
+      "published_at": "2026-10-24T04:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8722,
+      "rank_score": 0.9649,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-weather-will-remain-dry-in-dhaka-and-surrounding-areas/",
-          "title": "ঢাকাসহ আশপাশের এলাকায় শুষ্ক থাকবে আবহাওয়া",
-          "snippet": "ঢাকাসহ আশপাশের এলাকায় শুষ্ক থাকবে আবহাওয়া"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976294/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B9%E0%A7%80%E0%A6%A8-%E0%A6%A8%E0%A7%8C%E0%A6%AA%E0%A6%A5-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%86%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%9B%E0%A7%87%E0%A6%A8",
+          "title": "যাত্রীহীন নৌপথ, পেশা ছেড়ে বিকল্প আয়ের পথ খুঁজছেন ট্রলার মালিক-চালকরা",
+          "snippet": "যাত্রীহীন নৌপথ, পেশা ছেড়ে বিকল্প আয়ের পথ খুঁজছেন ট্রলার মালিক-চালকরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা ও আশপাশের আবহাওয়া প্রধানত শুষ্ক ও আকাশ পরিষ্কার থাকবে",
-        "title_en": "Weather Expected to Remain Dry and Clear in Dhaka and Surrounding Areas",
-        "summary_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া শুষ্ক থাকবে এবং তাপমাত্রা অপরিবর্তিত থাকতে পারে।",
-        "summary_en": "The Bangladesh Meteorological Department has announced that weather in Dhaka and surrounding areas will remain dry with stable temperatures.",
+        "title_bn": "জ্বালানি তেলের দাম বৃদ্ধিতে খুলনার দাকোপে ট্রলার চলাচল বন্ধ",
+        "title_en": "Trawler Services Halt in Khulna Dakop Due to Fuel Price Hike",
+        "summary_bn": "জ্বালানি তেলের দাম দ্বিগুণ হওয়ায় খুলনার দাকোপে নৌপথের ট্রলারচালকরা পেশা ছেড়ে দিনমজুরির পথ বেছে নিচ্ছেন।",
+        "summary_en": "Surging fuel costs double operating expenses, forcing coastal boat operators in Khulna to abandon their profession.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:50:24+00:00",
-        "lead_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া শুষ্ক থাকবে এবং তাপমাত্রা অপরিবর্তিত থাকতে পারে।",
-        "lead_en": "The Bangladesh Meteorological Department has announced that weather in Dhaka and surrounding areas will remain dry with stable temperatures.",
+        "published_at": "2026-10-24T04:00:00+00:00",
+        "lead_bn": "জ্বালানি তেলের দাম দ্বিগুণ হওয়ায় খুলনার দাকোপে নৌপথের ট্রলারচালকরা পেশা ছেড়ে দিনমজুরির পথ বেছে নিচ্ছেন।",
+        "lead_en": "Surging fuel costs double operating expenses, forcing coastal boat operators in Khulna to abandon their profession.",
         "bullets_bn": [
-          "উত্তর ও উত্তর-পশ্চিম দিক থেকে ঘণ্টায় ৫ থেকে ১০ কিলোমিটার বেগে বাতাস প্রবাহিত হতে পারে",
-          "ঢাকার সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে ২৫.৮ ডিগ্রি সেলসিয়াস এবং বাতাসের আর্দ্রতা ছিল ৬৮ শতাংশ",
-          "দেশের অভ্যন্তরীণ নদীবন্দরগুলোর জন্য কোনো সতর্কবার্তা জারি করা হয়নি"
+          "জ্বালানি তেলের দাম বেড়ে যাওয়ায় উপকূলীয় অঞ্চলের নৌপথে ট্রলার পরিচালনা ব্যয় প্রায় দ্বিগুণ হয়েছে।",
+          "দাকোপ উপজেলার সুজিত মন্ডল ও গফ্ফার হোসেন গাজীসহ স্থানীয় চালকরা ট্রলার ঘাটে বসিয়ে রেখেছেন।",
+          "জীবিকা নির্বাহের তাগিদে ক্ষতিগ্রস্ত চালকরা এখন দিনমজুরি বা বিকল্প আয়ের সন্ধান করছেন।"
         ],
         "bullets_en": [
-          "Winds may blow from the north and northwest at 5 to 10 kilometers per hour",
-          "Dhaka recorded a minimum temperature of 25.8 degrees Celsius with 68 percent humidity",
-          "No warning signals have been issued for inland river ports across the country"
+          "Coastal boat operating expenses doubled following a steep rise in fuel prices.",
+          "Local operators including Sujit Mandal and Gaffar Hossain Gazi have grounded their vessels.",
+          "Affected drivers are seeking daily wage labor or alternative livelihoods to survive."
         ],
-        "impact_bn": "শুষ্ক আবহাওয়ায় নগরবাসীর দৈনন্দিন চলাচল ও বাইরের কার্যক্রমে কোনো বড় ধরনের প্রতিবন্ধকতা তৈরি হবে না।",
-        "impact_en": "Dry weather conditions will not cause any major disruption to daily commuting and outdoor activities for city residents.",
-        "details_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর নিয়মিতভাবে দেশের বিভিন্ন অঞ্চলের আবহাওয়ার পূর্বাভাস প্রকাশ করে থাকে। শুষ্ক মৌসুমে ঢাকার আবহাওয়া সাধারণত পরিষ্কার ও অপরিবর্তিত থাকে। সাম্প্রতিক পূর্বাভাস অনুযায়ী অভ্যন্তরীণ নদীবন্দরগুলোর জন্য কোনো ধরনের সতর্ক সংকেত দেখাতে বলা হয়নি, যা নৌ চলাচলের জন্য অনুকূল পরিবেশ নির্দেশ করে।",
-        "details_en": "The Bangladesh Meteorological Department regularly issues weather forecasts for various regions across the country. During this season, Dhaka weather generally remains stable and clear. According to the latest forecast, no warning signals have been issued for inland river ports, indicating favorable conditions for water vessel navigation."
+        "impact_bn": "উপকূলীয় দ্বীপ এলাকার সাধারণ যাত্রীদের যাতায়াত ও দৈনন্দিন যোগাযোগ ব্যবস্থা মারাত্মকভাবে ব্যাহত হচ্ছে।",
+        "impact_en": "Daily commuting and communication for ordinary residents in coastal island areas face severe disruptions.",
+        "details_bn": "খুলনার উপকূলীয় দাকোপ উপজেলায় নদীপথের যাতায়াত মূলত ট্রলারের ওপর নির্ভরশীল। জ্বালানি তেলের মূল্যবৃদ্ধির ফলে সাধারণ যাত্রী পারাপারের এই মাধ্যমটি মুখ থুবড়ে পড়েছে। এর ফলে দ্বীপ এলাকার বাসিন্দাদের চলাচল এবং পণ্য পরিবহন ব্যয়বহুল হয়ে পড়েছে, যা স্থানীয় অর্থনীতি ও জনজীবনকে নেতিবাচকভাবে প্রভাবিত করছে।",
+        "details_en": "River transport in coastal Dakop upazila of Khulna heavily relies on mechanized trawlers. The sudden spike in diesel prices has made regular passenger transport economically unviable, leaving boat owners stranded. This disruption severely impairs mobility for island residents and increases local transport costs, impacting the regional economy."
       }
     },
     {
-      "story_id": "afabe887-f12e-5157-be83-5bc5b9f094d9",
+      "story_id": "7e777c2e-ae3b-5549-a38e-07919bd4c911",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T03:54:11+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9077,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171283",
+          "title": "নিজের পা নিজেই কেটে ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে",
+          "snippet": "নিজের পা নিজেই কেটে ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাশিয়ার হামলায় পা হারিয়ে ড্রোনে ঝুলে রক্ষা পেলেন ইউক্রেনীয় সেনা",
+        "title_en": "Ukrainian Soldier Rescued by Drone After Losing Legs in Russian Attack",
+        "summary_bn": "রাশিয়ার হামলায় দুই পা হারানোর পর ড্রোনবাহিত হয়ে ১৫ কিলোমিটার পথ পাড়ি দিয়ে মৃত্যুপুরী থেকে উদ্ধার হয়েছেন এক ইউক্রেনীয় সেনা।",
+        "summary_en": "A Ukrainian soldier was rescued by a massive drone traveling fifteen kilometers after losing both legs in a Russian attack.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T03:54:11+00:00",
+        "lead_bn": "রাশিয়ার হামলায় দুই পা হারানোর পর ড্রোনবাহিত হয়ে ১৫ কিলোমিটার পথ পাড়ি দিয়ে মৃত্যুপুরী থেকে উদ্ধার হয়েছেন এক ইউক্রেনীয় সেনা।",
+        "lead_en": "A Ukrainian soldier was rescued by a massive drone traveling fifteen kilometers after losing both legs in a Russian attack.",
+        "bullets_bn": [
+          "রাশিয়ার তীব্র হামলার মুখে পা হারানোর পর প্রায় আট মাস একটি গর্তে আটকে ছিলেন ওই সেনা।",
+          "কস্তিয়ান্তিন ভ্লাসেনকো নামক ওই সেনা সদস্য বিশাল একটি ড্রোনে ঝুলে ১৫ কিলোমিটার দূরে নিরাপদ আশ্রয়ে পৌঁছান।",
+          "উদ্ধার হওয়ার পর বর্তমানে তাকে উন্নত চিকিৎসা ও পুনর্বাসনের আওতায় রাখা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The soldier remained trapped inside a trench for nearly eight months after losing his limbs during relentless attacks.",
+          "Named Kostyantyn Vlasenko, the soldier traveled hanging from a massive drone across a distance of fifteen kilometers.",
+          "He has been shifted to a safe location for advanced medical treatment and recovery following the rescue operation."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "রাশিয়া ও ইউক্রেনের মধ্যকার চলমান যুদ্ধে সামনের সারির সেনাদের দুর্ভোগ ও টিকে থাকার লড়াইয়ের এক চাঞ্চল্যকর ঘটনা এটি। আধুনিক ড্রোন প্রযুক্তির বহুমুখী ব্যবহারের ফলে যুদ্ধক্ষেত্রে আহত সেনাদের উদ্ধার কার্যক্রমে নতুন মাত্রা যোগ হয়েছে, যা এমন রোমহর্ষক ও অসম্ভব মনে হওয়া উদ্ধার অভিযানকে সফল করে তুলেছে।",
+        "details_en": "This harrowing survival story highlights the brutal realities faced by frontline soldiers in the ongoing Russia-Ukraine war. The innovative use of heavy-duty drones for casualty evacuation demonstrates how modern battlefield technology is adapting to save lives in high-risk zones where traditional rescue vehicles cannot operate."
+      }
+    },
+    {
+      "story_id": "0ba1242b-6295-5d56-8590-078ef19bac6a",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -290,46 +288,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T02:48:53+00:00",
+      "published_at": "2026-10-24T03:52:55+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8592,
+      "rank_score": 0.896,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171273",
-          "title": "বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা",
-          "snippet": "বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976351/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A7%A9",
+          "title": "দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে প্রাণ গেলো ৩ জনের",
+          "snippet": "দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে প্রাণ গেলো ৩ জনের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিরাজগঞ্জে বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা",
-        "title_en": "Youth hacked to death after being called to house in Sirajganj",
-        "summary_bn": "সিরাজগঞ্জের উল্লাপাড়ায় আকরাম সরকার নামের এক যুবককে বাড়িতে ডেকে নিয়ে কুপিয়ে হত্যা করা হয়েছে।",
-        "summary_en": "A young man named Akram Sarkar was hacked to death after being called to a house in Ullapara, Sirajganj.",
+        "title_bn": "যশোরে দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে নিহত ৩",
+        "title_en": "Three Killed in Head-On Collision Between Two Motorcycles in Jashore",
+        "summary_bn": "যশোর-বেনাপোল মহাসড়কে দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে তিনজন নিহত ও দুজন গুরুতর আহত হয়েছেন।",
+        "summary_en": "Three people were killed and two others seriously injured in a head-on collision between two motorcycles on the Jashore-Benapole highway.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:48:53+00:00",
-        "lead_bn": "সিরাজগঞ্জের উল্লাপাড়ায় আকরাম সরকার নামের এক যুবককে বাড়িতে ডেকে নিয়ে কুপিয়ে হত্যা করা হয়েছে।",
-        "lead_en": "A young man named Akram Sarkar was hacked to death after being called to a house in Ullapara, Sirajganj.",
+        "published_at": "2026-10-24T03:52:55+00:00",
+        "lead_bn": "যশোর-বেনাপোল মহাসড়কে দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে তিনজন নিহত ও দুজন গুরুতর আহত হয়েছেন।",
+        "lead_en": "Three people were killed and two others seriously injured in a head-on collision between two motorcycles on the Jashore-Benapole highway.",
         "bullets_bn": [
-          "নিহত আকরাম সরকারকে পূর্বপরিকল্পিতভাবে বাড়িতে ডেকে নিয়ে ধারালো অস্ত্র দিয়ে কুপিয়ে হত্যা করা হয়",
-          "এ ঘটনায় মারুফ বিন হাবিব নামের ৩০ বছর বয়সী এক যুবককে আটক করেছে পুলিশ",
-          "নিহতের মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য মর্গে পাঠানো হয়েছে এবং আইনগত প্রক্রিয়া চলমান রয়েছে"
+          "যশোর সদর উপজেলার নতুনহাট মোড় এলাকায় দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষ ঘটে।",
+          "দুর্ঘটনায় ঘটনাস্থলেই তিনজনের মৃত্যু হয় এবং আরও দুজন গুরুতর আহত হন।",
+          "নিহতদের মধ্যে সিয়াম হোসেন নামে একজনের পরিচয় নিশ্চিত করা গেছে।"
         ],
         "bullets_en": [
-          "Victim Akram Sarkar was pre-plannedly lured to a house and hacked with sharp weapons",
-          "Police arrested a 30-year-old man named Maruf Bin Habib in connection with the incident",
-          "The body was recovered and sent to the morgue for autopsy while legal procedures are underway"
+          "A head-on collision occurred between two motorcycles near the Nothuhat intersection in Jashore Sadar upazila.",
+          "Three individuals died on the spot and two others sustained critical injuries in the crash.",
+          "The identity of one of the deceased victims has been confirmed as Siyam Hossain."
         ],
-        "impact_bn": "এ ধরনের সহিংস অপরাধ স্থানীয় জনসাধারণের মধ্যে নিরাপত্তাহীনতা বাড়ায় এবং কঠোর আইনের প্রয়োগ দাবি করে।",
-        "impact_en": "Such violent crimes heighten insecurity among local residents and demand stringent law enforcement.",
-        "details_bn": "সিরাজগঞ্জের উল্লাপাড়ায় ঘটে যাওয়া এই হত্যাকাণ্ডের ঘটনায় এলাকায় চাঞ্চল্যের সৃষ্টি হয়েছে। পুলিশ ঘটনাস্থল পরিদর্শন করে আলামত সংগ্রহ করেছে এবং আটক আসামিকে জিজ্ঞাসাবাদ করছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার পেছনের মূল কারণ উদঘাটনে তদন্ত চালিয়ে যাচ্ছে।",
-        "details_en": "This murder incident in Ullapara, Sirajganj, has caused widespread tension in the area. Police inspected the crime scene, collected evidence, and are interrogating the detained suspect. Law enforcement agencies are continuing investigations to uncover the exact motive behind the incident."
+        "impact_bn": "মহাসড়কে দ্রুতগতির যানবাহনের কারণে দুর্ঘটনা বৃদ্ধি পাওয়ায় সাধারণ যাত্রী ও চালকদের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
+        "impact_en": "Increased accidents caused by speeding vehicles on major highways raise severe safety concerns for daily commuters and drivers.",
+        "details_bn": "যশোর-বেনাপোল মহাসড়কটি অত্যন্ত ব্যস্ততম একটি রুট হওয়ায় প্রায়ই এখানে দ্রুতগতির যান চলাচলের কারণে মর্মান্তিক সড়ক দুর্ঘটনা ঘটে। সাম্প্রতিক সময়ে বেপরোয়া ড্রাইভিয়ে এবং ট্রাফিক আইন অমান্য করার প্রবণতা বৃদ্ধির ফলে এই ধরনের প্রাণঘাতী সংঘর্ষের সংখ্যা উদ্বেগজনক হারে বেড়ে চলেছে, যা স্থানীয় প্রশাসন ও সাধারণ মানুষের জন্য বড় উদ্বেগের বিষয় হয়ে দাঁড়িয়েছে।",
+        "details_en": "The Jashore-Benapole highway is a high-traffic corridor where speeding vehicles frequently lead to tragic road accidents. In recent times, reckless driving and the tendency to flout traffic regulations have contributed to a worrying rise in fatal collisions, raising serious concerns for local authorities and commuters alike."
       }
     }
   ]
