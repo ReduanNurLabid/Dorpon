@@ -2,13 +2,62 @@ import React, { useState, useMemo } from 'react';
 import { useApp } from '../context/AppContext';
 import { StoryCard } from './StoryCard';
 import { BroadsheetFooter } from './BroadsheetFooter';
-import { Hash, Globe, Filter, X, Clock, Layers, Search } from 'lucide-react';
+import { Hash, Globe, Filter, X, Clock, Layers, Search, ArrowUpDown } from 'lucide-react';
+import { toBanglaDigits } from '../utils/bilingual';
+import { CapsuleStory } from '../types';
+
+function computeStoryRelevanceScore(story: CapsuleStory): number {
+  let baseScore = story.importance_score ?? 2.0;
+
+  const title = ((story.daily_buzz.title_bn || '') + ' ' + (story.daily_buzz.title_en || '')).toLowerCase();
+  const summary = ((story.daily_buzz.summary_bn || '') + ' ' + (story.daily_buzz.summary_en || '')).toLowerCase();
+  const text = `${title} ${summary}`;
+
+  // 1. Constitutional, Supreme Court, Cabinet, National Governance (+3.5)
+  if (/constitution|সংবিধান|supreme court|সুপ্রিম কোর্ট|high court|হাইকোর্ট|chief adviser|প্রধান উপদেষ্টা|prime minister|প্রধানমন্ত্রী|cabinet|মন্ত্রিসভা|election commission|নির্বাচন কমিশন|ordinance|অধ্যাদেশ/i.test(text)) {
+    baseScore += 3.5;
+  }
+
+  // 2. Macroeconomics, Central Bank, Inflation, Budget (+3.0)
+  if (/bangladesh bank|বাংলাদেশ ব্যাংক|repo rate|রেপো রেট|inflation|মুদ্রাস্ফীতি|মূল্যস্ফীতি|forex reserve|রিজার্ভ|budget|বাজেট|nbr|রাজস্ব|imf|world bank/i.test(text)) {
+    baseScore += 3.0;
+  }
+
+  // 3. High-impact national politics, rule of law (+2.0)
+  if (/tarique|তারেক|remittance|প্রবাসী|rohingya|রোহিঙ্গা|arrest|আটক|গ্রেপ্তার/i.test(text)) {
+    baseScore += 2.0;
+  }
+
+  // 4. BCS Pro / Analytical Dossier presence (+2.0)
+  if (story.is_bcs_pro_selected || story.bcs_pro) {
+    baseScore += 2.0;
+  }
+
+  // 5. Multi-source corroboration factor
+  const srcCount = story.sources?.length || 1;
+  baseScore *= (1.0 + Math.min(0.5, (srcCount - 1) * 0.25));
+
+  // 6. Time decay: RankScore = BaseImportance / (AgeInHours + 2.0)^1.3
+  if (!story.published_at) return baseScore;
+  const pubTime = new Date(story.published_at).getTime();
+  if (isNaN(pubTime)) return baseScore;
+
+  const now = Date.now();
+  const ageHours = Math.max(0, (now - pubTime) / (3600 * 1000));
+  let decay = Math.pow(ageHours + 2.0, 1.3);
+  if (ageHours > 30) {
+    decay *= Math.pow(1.0 + (ageHours - 30), 2.0);
+  }
+
+  return baseScore / decay;
+}
 
 export const DiscoverFeed: React.FC = () => {
   const { allStories, language, searchQuery, setSearchQuery } = useApp();
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [selectedSource, setSelectedSource] = useState<string | null>(null);
   const [timeFilter, setTimeFilter] = useState<'all' | '24h' | '7d' | '30d'>('all');
+  const [sortBy, setSortBy] = useState<'time_desc' | 'relevance'>('time_desc');
   const isBn = language === 'bn';
 
   // Extract distinct tags
@@ -97,80 +146,55 @@ export const DiscoverFeed: React.FC = () => {
       );
     }
 
-    return result;
-  }, [allStories, searchQuery, timeFilter, selectedTag, selectedSource]);
+    // Sort stories
+    result = [...result].sort((a, b) => {
+      if (sortBy === 'relevance') {
+        const scoreA = computeStoryRelevanceScore(a);
+        const scoreB = computeStoryRelevanceScore(b);
+        if (Math.abs(scoreB - scoreA) > 0.001) {
+          return scoreB - scoreA;
+        }
+        const tA = a.published_at ? new Date(a.published_at).getTime() : 0;
+        const tB = b.published_at ? new Date(b.published_at).getTime() : 0;
+        return tB - tA;
+      }
+      // Default: time_desc (Newest First)
+      const tA = a.published_at ? new Date(a.published_at).getTime() : 0;
+      const tB = b.published_at ? new Date(b.published_at).getTime() : 0;
+      return tB - tA;
+    });
 
-  const hasActiveFilters = Boolean(searchQuery.trim() || selectedTag || selectedSource || timeFilter !== 'all');
+    return result;
+  }, [allStories, searchQuery, timeFilter, selectedTag, selectedSource, sortBy]);
+
+  const hasActiveFilters = Boolean(searchQuery.trim() || selectedTag || selectedSource || timeFilter !== 'all' || sortBy !== 'time_desc');
 
   const clearAllFilters = () => {
     setSearchQuery('');
     setSelectedTag(null);
     setSelectedSource(null);
     setTimeFilter('all');
+    setSortBy('time_desc');
   };
 
   return (
     <div className="pb-24 bg-background">
       {/* 1. BROADSHEET ARCHIVE HEADER BANNER */}
       <div className="border-b border-primary/20 bg-surface-container-low py-8 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-end justify-between gap-4">
+        <div className="max-w-7xl mx-auto">
           <div>
             <div className="font-label-sm text-label-sm uppercase tracking-widest text-secondary font-bold flex items-center gap-1.5 mb-1.5">
               <span>●</span>
-              <span>{isBn ? 'ঐতিহাসিক গেজেট নথি • স্থায়ী সংরক্ষণাগার' : 'GAZETTE CHRONICLES • PERMANENT ARCHIVE'}</span>
+              <span>{isBn ? 'সকল সংবাদ' : 'All News'}</span>
             </div>
             <h1 className="font-display-masthead text-2xl sm:text-4xl text-primary font-bold tracking-tight uppercase">
-              {isBn ? 'সংরক্ষণাগার ও পূর্ববর্তী প্রকাশনা' : 'The Archive & Historical Dispatches'}
+              {isBn ? 'সকল সংবাদ' : 'All News'}
             </h1>
             <p className="font-serif text-sm sm:text-base text-on-surface-variant max-w-2xl mt-1 leading-relaxed">
               {isBn 
-                ? 'পূর্বে প্রকাশিত সকল নির্বাহী সারসংক্ষেপ, নীতি বিশ্লেষণ ও যাচাইকৃত সংবাদের কালানুক্রমিক সংগ্রহশালা।' 
-                : 'A permanent scannable record of verified intelligence briefs, macroeconomic indicators, and strategic dispatches.'}
+                ? 'প্রকাশিত সকল সংবাদ, তথ্যসমৃদ্ধ প্রতিবেদন ও যাচাইকৃত সংবাদের উন্মুক্ত সংগ্রহশালা।' 
+                : 'Browse all published news stories, informative reporting, and verified dispatches.'}
             </p>
-          </div>
-
-          {/* Timeframe Filter Buttons */}
-          <div className="flex items-center space-x-1.5 bg-surface-container p-1 border border-primary/20 shrink-0">
-            <button
-              onClick={() => setTimeFilter('all')}
-              className={`px-3 py-1 font-label-sm text-label-sm uppercase font-semibold transition-colors cursor-pointer ${
-                timeFilter === 'all'
-                  ? 'bg-primary text-background font-bold shadow-sm'
-                  : 'text-on-surface-variant hover:text-primary'
-              }`}
-            >
-              {isBn ? 'সব সময়' : 'All Time'}
-            </button>
-            <button
-              onClick={() => setTimeFilter('24h')}
-              className={`px-3 py-1 font-label-sm text-label-sm uppercase font-semibold transition-colors cursor-pointer ${
-                timeFilter === '24h'
-                  ? 'bg-primary text-background font-bold shadow-sm'
-                  : 'text-on-surface-variant hover:text-primary'
-              }`}
-            >
-              {isBn ? '২৪ ঘণ্টা' : '24 Hours'}
-            </button>
-            <button
-              onClick={() => setTimeFilter('7d')}
-              className={`px-3 py-1 font-label-sm text-label-sm uppercase font-semibold transition-colors cursor-pointer ${
-                timeFilter === '7d'
-                  ? 'bg-primary text-background font-bold shadow-sm'
-                  : 'text-on-surface-variant hover:text-primary'
-              }`}
-            >
-              {isBn ? '৭ দিন' : '7 Days'}
-            </button>
-            <button
-              onClick={() => setTimeFilter('30d')}
-              className={`px-3 py-1 font-label-sm text-label-sm uppercase font-semibold transition-colors cursor-pointer ${
-                timeFilter === '30d'
-                  ? 'bg-primary text-background font-bold shadow-sm'
-                  : 'text-on-surface-variant hover:text-primary'
-              }`}
-            >
-              {isBn ? '৩০ দিন' : '30 Days'}
-            </button>
           </div>
         </div>
       </div>
@@ -237,10 +261,10 @@ export const DiscoverFeed: React.FC = () => {
         <div className="flex flex-wrap items-center justify-between gap-3 pb-2 mb-6 border-b-2 border-primary">
           <div className="flex flex-wrap items-center gap-2 font-serif text-sm font-bold text-primary">
             <span className="uppercase tracking-wider font-label-sm text-label-sm">
-              {isBn ? 'সংরক্ষিত প্রকাশনা তালিকা' : 'Archived Records'}
+              {isBn ? 'সকল সংবাদ তালিকা' : 'All News Stories'}
             </span>
-            <span className="bg-secondary text-on-secondary px-2 py-0.2 text-xs font-bold rounded">
-              {filteredStories.length} {isBn ? 'টি নথি' : 'Records'}
+            <span className="bg-secondary text-on-secondary px-2 py-0.2 text-xs font-bold rounded font-mono">
+              {isBn ? toBanglaDigits(filteredStories.length) : filteredStories.length} {isBn ? 'টি সংবাদ' : 'Stories'}
             </span>
 
             {/* Active Search Query Badge */}
@@ -261,15 +285,107 @@ export const DiscoverFeed: React.FC = () => {
             )}
           </div>
 
-          {hasActiveFilters && (
-            <button
-              onClick={clearAllFilters}
-              className="inline-flex items-center gap-1 font-label-sm text-label-sm uppercase font-bold text-secondary hover:underline cursor-pointer"
-            >
-              <X className="w-3.5 h-3.5" />
-              <span>{isBn ? 'সব ফিল্টার সাফ করুন' : 'Clear Active Filters'}</span>
-            </button>
-          )}
+          {/* Combined Controls: Timeframe & Sorting & Clear Button */}
+          <div className="flex flex-wrap items-center gap-3">
+            {/* Combined Sort & Timeframe Controls */}
+            <div className="flex flex-wrap items-center gap-2 sm:gap-3">
+              {/* Sort by Newest / Relevance */}
+              <div className="flex items-center gap-1.5">
+                <span className="font-label-sm text-label-sm uppercase font-bold text-on-surface-variant flex items-center gap-1">
+                  <ArrowUpDown className="w-3.5 h-3.5 text-secondary" />
+                  <span>{isBn ? 'সাজান:' : 'Sort:'}</span>
+                </span>
+                <div className="flex items-center bg-surface-container border border-primary/20 p-0.5">
+                  <button
+                    onClick={() => setSortBy('time_desc')}
+                    className={`px-3 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      sortBy === 'time_desc'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? 'সর্বশেষ আগে (সময়)' : 'Newest First (Time)'}
+                  >
+                    {isBn ? 'সর্বশেষ' : 'Newest'}
+                  </button>
+                  <button
+                    onClick={() => setSortBy('relevance')}
+                    className={`px-3 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      sortBy === 'relevance'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? 'সম্পাদকীয় স্কোর ও প্রাসঙ্গিকতা' : 'Editorial Relevance & Score'}
+                  >
+                    {isBn ? 'প্রাসঙ্গিকতা' : 'Relevance'}
+                  </button>
+                </div>
+              </div>
+
+              {/* Timeframe Filter (All Time, 24 Hours, 7 Days, 30 Days) directly beside Newest / Relevance */}
+              <div className="flex items-center gap-1.5">
+                <span className="font-label-sm text-label-sm uppercase font-bold text-on-surface-variant flex items-center gap-1">
+                  <Clock className="w-3.5 h-3.5 text-secondary" />
+                  <span>{isBn ? 'সময়সীমা:' : 'Time:'}</span>
+                </span>
+                <div className="flex items-center bg-surface-container border border-primary/20 p-0.5">
+                  <button
+                    onClick={() => setTimeFilter('all')}
+                    className={`px-2.5 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      timeFilter === 'all'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? 'সব সময়' : 'All Time'}
+                  >
+                    {isBn ? 'সব সময়' : 'All Time'}
+                  </button>
+                  <button
+                    onClick={() => setTimeFilter('24h')}
+                    className={`px-2.5 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      timeFilter === '24h'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? '২৪ ঘণ্টা' : '24 Hours'}
+                  >
+                    {isBn ? '২৪ ঘণ্টা' : '24 Hours'}
+                  </button>
+                  <button
+                    onClick={() => setTimeFilter('7d')}
+                    className={`px-2.5 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      timeFilter === '7d'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? '৭ দিন' : '7 Days'}
+                  >
+                    {isBn ? '৭ দিন' : '7 Days'}
+                  </button>
+                  <button
+                    onClick={() => setTimeFilter('30d')}
+                    className={`px-2.5 py-1 text-xs font-serif font-semibold transition-colors cursor-pointer ${
+                      timeFilter === '30d'
+                        ? 'bg-primary text-background font-bold shadow-sm'
+                        : 'text-on-surface-variant hover:text-primary'
+                    }`}
+                    title={isBn ? '৩০ দিন' : '30 Days'}
+                  >
+                    {isBn ? '৩০ দিন' : '30 Days'}
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            {hasActiveFilters && (
+              <button
+                onClick={clearAllFilters}
+                className="inline-flex items-center gap-1 font-label-sm text-label-sm uppercase font-bold text-secondary hover:underline cursor-pointer"
+              >
+                <X className="w-3.5 h-3.5" />
+                <span>{isBn ? 'ফিল্টার মুছুন' : 'Reset'}</span>
+              </button>
+            )}
+          </div>
         </div>
 
         {/* 4. ARCHIVE STORIES GRID */}

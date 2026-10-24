@@ -186,10 +186,10 @@ function sortByEditorialRank(list: CapsuleStory[]): CapsuleStory[] {
   });
 }
 
-export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
+export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<CapsuleStory[]> {
   // 1. Try Firebase Firestore SDK
   try {
-    const q = query(collection(db, 'daily_buzz'), orderBy('published_at', 'desc'), limit(60));
+    const q = query(collection(db, 'daily_buzz'), orderBy('published_at', 'desc'), limit(fetchLimit));
     const snapshot = await getDocs(q);
     if (!snapshot.empty) {
       const items: CapsuleStory[] = [];
@@ -206,7 +206,7 @@ export async function fetchDailyBuzzFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST API
   try {
-    const restItems = await fetchFirestoreRest('daily_buzz', 60, 'published_at');
+    const restItems = await fetchFirestoreRest('daily_buzz', fetchLimit, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
       return sortByEditorialRank(items);
@@ -343,13 +343,21 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
   }
 
   const list = Array.from(storyMap.values());
-  return sortByPublishedDesc(list);
+  // The user specifically requested to keep only the Houthi-Saudi conflict dossier in current affairs
+  const filteredList = list.filter(s => {
+    const id = s.story_id?.toLowerCase() || '';
+    const titleEn = s.daily_buzz?.title_en?.toLowerCase() || '';
+    const titleBn = s.daily_buzz?.title_bn || '';
+    return id.includes('houthi') || titleEn.includes('houthi') || titleBn.includes('হুথি');
+  });
+
+  return sortByPublishedDesc(filteredList.length > 0 ? filteredList : list);
 }
 
-export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
+export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<CapsuleStory[]> {
   // 1. Try Firestore SDK
   try {
-    const q = query(collection(db, 'hourly_buzz'), orderBy('published_at', 'desc'), limit(40));
+    const q = query(collection(db, 'hourly_buzz'), orderBy('published_at', 'desc'), limit(fetchLimit));
     const snap = await getDocs(q);
     if (!snap.empty) {
       const list: CapsuleStory[] = [];
@@ -366,7 +374,7 @@ export async function fetchHourlyWiresFeed(): Promise<CapsuleStory[]> {
 
   // 2. Try Firestore REST
   try {
-    const restItems = await fetchFirestoreRest('hourly_buzz', 40, 'published_at');
+    const restItems = await fetchFirestoreRest('hourly_buzz', fetchLimit, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
       return sortByEditorialRank(items);

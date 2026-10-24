@@ -51,8 +51,8 @@ export const Header: React.FC = () => {
   const navItems: { id: TabType; labelEn: string; labelBn: string; icon: React.ReactNode; isGold?: boolean }[] = [
     {
       id: 'top_stories',
-      labelEn: 'Synthetic Brief',
-      labelBn: 'সিন্থেটিক ব্রিফ',
+      labelEn: 'Top Stories',
+      labelBn: 'শীর্ষ সংবাদ',
       icon: <Flame className="w-3.5 h-3.5" />,
     },
     {
@@ -64,27 +64,30 @@ export const Header: React.FC = () => {
     },
     {
       id: 'discover',
-      labelEn: 'Archive',
-      labelBn: 'সংরক্ষণাগার',
+      labelEn: 'All News',
+      labelBn: 'সকল সংবাদ',
       icon: <Compass className="w-3.5 h-3.5" />,
     },
   ];
 
   return (
-    <header className="w-full bg-background border-b border-primary/20 transition-colors">
+    <header
+      className="w-full bg-background border-b border-primary/20 transition-colors"
+      aria-label={isBn ? 'সন্দেশ এক্সপ্রেস — মূল নেভিগেশন' : 'Sondesh Express — Main site header'}
+    >
       {/* 1. TOP BROADSHEET UTILITY RIBBON */}
-      <div className="w-full border-b border-primary/20 bg-background py-1.5 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider">
+      <div className="w-full border-b border-primary/20 bg-background">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5 flex flex-wrap items-center justify-between text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider">
           <div className="flex items-center space-x-2.5 sm:space-x-3">
             <span className="flex items-center gap-1 font-semibold text-primary">
               <span className="text-secondary font-mono">●</span>
-              {isBn ? 'বাংলাদেশ • ১ নভেম্বর ২০২৬' : 'Bangladesh • 1 November 2026'}
+              {isBn ? 'বাংলাদেশ' : 'Bangladesh'}
             </span>
             <span className="text-outline-variant">|</span>
             <span className="hidden xs:inline">Vol. XLIV No. 1,482</span>
             <span className="text-outline-variant hidden sm:inline">|</span>
             <span className="hidden sm:inline font-medium text-on-surface">
-              {isBn ? `এআই নিউজ ইঞ্জিন • ${dateFormatted} • লাইভ এডিশন` : `AI News Engine • ${dateFormatted} • Live Edition`}
+              {isBn ? `সংবাদ সারসংক্ষেপ • ${dateFormatted} • লাইভ` : `Curated News Briefing • ${dateFormatted} • Live`}
             </span>
           </div>
 
@@ -110,7 +113,8 @@ export const Header: React.FC = () => {
             <button
               onClick={() => setIsSettingsOpen(true)}
               className="p-1 text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
-              title="Settings"
+              title={isBn ? 'সেটিংস' : 'Settings'}
+              aria-label={isBn ? 'সেটিংস খুলুন' : 'Open settings'}
             >
               <SettingsIcon className="w-3.5 h-3.5" />
             </button>
@@ -180,7 +184,10 @@ export const Header: React.FC = () => {
         </div>
 
         {/* 3. BROADSHEET NAVIGATION BAR STRIP */}
-        <nav className="flex items-center justify-between pt-2.5 overflow-x-auto no-scrollbar border-b-2 border-primary">
+        <nav
+          className="flex items-center justify-between pt-2.5 overflow-x-auto no-scrollbar border-b-2 border-primary"
+          aria-label={isBn ? 'প্রধান বিভাগ নেভিগেশন' : 'Main section navigation'}
+        >
           <div className="flex items-center space-x-6 sm:space-x-8">
             {navItems.map((item) => {
               const isActive = activeTab === item.id;
@@ -229,8 +236,9 @@ export const Header: React.FC = () => {
                 }, 50);
               }}
               className="bg-primary text-background font-label-md text-label-md uppercase px-3 py-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary font-semibold cursor-pointer"
+              aria-label={isBn ? 'নিউজলেটার সদস্যপদ গ্রহণ করুন' : 'Subscribe to our newsletter'}
             >
-              {isBn ? 'সাবস্ক্রাইব ওয়্যার' : 'Subscribe Wire'}
+              {isBn ? 'সদস্যপদ' : 'Subscribe'}
             </button>
           </div>
         </nav>

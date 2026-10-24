@@ -22,6 +22,9 @@ interface AppContextType {
   toggleSave: (storyId: string) => void;
   isSaved: (storyId: string) => boolean;
   clearSaved: () => void;
+  getVoteCount: (storyId: string, type: 'informative' | 'important') => number;
+  hasVoted: (storyId: string, type: 'informative' | 'important') => boolean;
+  toggleVote: (storyId: string, type: 'informative' | 'important') => void;
   activeStory: CapsuleStory | null;
   openStory: (story: CapsuleStory) => void;
   closeStory: () => void;
@@ -104,8 +107,10 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
           url.searchParams.set('story', currentAffairs[0].story_id);
         }
       } else {
+        // Leaving current_affairs: remove the tab param
         url.searchParams.delete('tab');
-        if (url.searchParams.get('tab') === 'current_affairs') {
+        // If the current ?story is a current affairs story or there is no open modal story, remove ?story
+        if (!activeStory || activeStory.story_id !== url.searchParams.get('story')) {
           url.searchParams.delete('story');
         }
       }
@@ -357,6 +362,68 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     localStorage.removeItem('dorpon_saved_ids');
   };
 
+  // Real Public Voting Engine with Persistent Submissions
+  const [votes, setVotes] = useState<Record<string, { informative: number; important: number }>>(() => {
+    try {
+      const stored = localStorage.getItem('dorpon_public_votes');
+      return stored ? JSON.parse(stored) : {};
+    } catch {
+      return {};
+    }
+  });
+
+  const [userVoted, setUserVoted] = useState<Record<string, { informative?: boolean; important?: boolean }>>(() => {
+    try {
+      const stored = localStorage.getItem('dorpon_user_voted');
+      return stored ? JSON.parse(stored) : {};
+    } catch {
+      return {};
+    }
+  });
+
+  const getVoteCount = (storyId: string, type: 'informative' | 'important') => {
+    return votes[storyId]?.[type] || 0;
+  };
+
+  const hasVoted = (storyId: string, type: 'informative' | 'important') => {
+    return !!userVoted[storyId]?.[type];
+  };
+
+  const toggleVote = (storyId: string, type: 'informative' | 'important') => {
+    setUserVoted(prevUser => {
+      const isAlreadyVoted = !!prevUser[storyId]?.[type];
+      const nextUser = {
+        ...prevUser,
+        [storyId]: {
+          ...prevUser[storyId],
+          [type]: !isAlreadyVoted
+        }
+      };
+      try {
+        localStorage.setItem('dorpon_user_voted', JSON.stringify(nextUser));
+      } catch {}
+
+      setVotes(prevVotes => {
+        const currentCount = prevVotes[storyId]?.[type] || 0;
+        const newCount = isAlreadyVoted ? Math.max(0, currentCount - 1) : currentCount + 1;
+        const nextVotes = {
+          ...prevVotes,
+          [storyId]: {
+            informative: prevVotes[storyId]?.informative || 0,
+            important: prevVotes[storyId]?.important || 0,
+            [type]: newCount
+          }
+        };
+        try {
+          localStorage.setItem('dorpon_public_votes', JSON.stringify(nextVotes));
+        } catch {}
+        return nextVotes;
+      });
+
+      return nextUser;
+    });
+  };
+
   const openStory = (story: CapsuleStory) => {
     setActiveStory(story);
     if (typeof window !== 'undefined') {
@@ -423,14 +490,20 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       }
 
       if (storyParam) {
-        const affairMatch = currentAffairs.find(s => s.story_id === storyParam);
-        if (affairMatch || tabParam === 'current_affairs') {
+        if (tabParam === 'current_affairs') {
           setActiveTabState('current_affairs');
           setSelectedCurrentAffairIdState(storyParam);
         } else {
+          // If tabParam is not current_affairs, look in allStories for modal reading
           const storyMatch = allStories.find(s => s.story_id === storyParam);
           if (storyMatch) {
             setActiveStory(storyMatch);
+          } else {
+            const affairMatch = currentAffairs.find(s => s.story_id === storyParam);
+            if (affairMatch && !tabParam) {
+              setActiveTabState('current_affairs');
+              setSelectedCurrentAffairIdState(storyParam);
+            }
           }
         }
       } else if (!urlParams.has('story')) {
@@ -648,6 +721,9 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         toggleSave,
         isSaved,
         clearSaved,
+        getVoteCount,
+        hasVoted,
+        toggleVote,
         activeStory,
         openStory,
         closeStory,

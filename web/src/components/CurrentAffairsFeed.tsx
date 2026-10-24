@@ -143,14 +143,14 @@ export const CurrentAffairsFeed: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5 flex flex-wrap items-center justify-between text-label-sm font-label-sm uppercase tracking-wider">
           <div className="flex items-center space-x-2 py-0.5">
             <span className="inline-block w-2 h-2 rounded-full bg-secondary animate-pulse" />
-            <span className="font-bold">{isBn ? 'সংখ্যা: ৪৪ • খণ্ড: ১,৪৮৪' : 'VOL. XLIV NO. 1,484'}</span>
+            <span className="font-bold">{isBn ? 'সন্দেশ এক্সপ্রেস • কারেন্ট অ্যাফেয়ার্স' : 'SONDESH EXPRESS • CURRENT AFFAIRS'}</span>
             <span className="text-outline">/</span>
             <span>{isBn ? 'কৌশলগত নীতি ও ভূ-অর্থনৈতিক বিশ্লেষণ' : 'STRATEGIC POLICY & GEOECONOMIC DOSSIER'}</span>
             <span className="hidden md:inline text-outline">/</span>
             <span className="hidden md:inline font-semibold text-secondary">{isBn ? 'কারেন্ট অ্যাফেয়ার্স সম্পাদকীয়' : 'CURRENT AFFAIRS EDITORIAL'}</span>
           </div>
           <div className="flex items-center space-x-4 py-0.5">
-            <span className="text-outline">{isBn ? 'সংস্করণ: আন্তর্জাতিক ও জাতীয় নিবন্ধন' : 'EDITION: DIPLOMATIC & ECONOMIC REGISTER'}</span>
+            <span className="text-outline">{isBn ? 'সংস্করণ: ডিজিটাল ব্রডশিট' : 'EDITION: DIGITAL BROADSHEET'}</span>
             <span className="text-primary font-bold">{timeFormatted}</span>
           </div>
         </div>

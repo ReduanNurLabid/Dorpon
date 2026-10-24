@@ -5,8 +5,8 @@ import path from 'path';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // Required for GitHub Pages: assets resolve correctly under /Dorpon/
-  base: '/Dorpon/',
+  // Base URL: defaults to '/' (for custom domain / Firebase Hosting), or configurable via VITE_BASE_PATH
+  base: process.env.VITE_BASE_PATH || '/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

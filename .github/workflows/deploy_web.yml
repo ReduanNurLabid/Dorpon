@@ -43,6 +43,8 @@ jobs:
 
       - name: Build Web Application
         working-directory: web
+        env:
+          VITE_BASE_PATH: /Dorpon/
         run: pnpm run build
 
       - name: Upload GitHub Pages Artifact
