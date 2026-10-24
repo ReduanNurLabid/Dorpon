@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:00:49.667920",
+  "updated_at": "2026-10-24T14:00:45.990862",
   "total_stories": 6,
   "stories": [
     {
@@ -17,7 +17,7 @@
       "published_at": "2026-10-24T13:00:23+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.6582,
+      "rank_score": 1.5748,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -27,10 +27,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য ৫৭ বেঞ্চ পুনর্গঠন",
-        "title_en": "Chief Justice Reorganizes 57 High Court Benches for Judicial Proceedings",
+        "title_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য ৫৭টি বেঞ্চ পুনর্গঠন",
+        "title_en": "Chief Justice Reconstitutes 57 High Court Benches for Judicial Proceedings",
         "summary_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-        "summary_en": "Chief Justice Jubaer Rahman Chowdhury has reorganized 57 benches of the High Court Division of the Supreme Court.",
+        "summary_en": "Chief Justice Zubayer Rahman Chowdhury has reconstituted 57 benches of the High Court division for judicial proceedings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -39,25 +39,81 @@
         "read_time_seconds": 60,
         "published_at": "2026-10-24T13:00:23+00:00",
         "lead_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-        "lead_en": "Chief Justice Jubaer Rahman Chowdhury has reorganized 57 benches of the High Court Division of the Supreme Court.",
+        "lead_en": "Chief Justice Zubayer Rahman Chowdhury has reconstituted 57 benches of the High Court division for judicial proceedings.",
         "bullets_bn": [
-          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য মোট ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-          "সুপ্রিম কোর্টের ওয়েবসাইটে প্রকাশিত প্রধান বিচারপতির আদেশ অনুযায়ী পুনর্গঠিত বেঞ্চগুলো বিচারিক কার্যক্রম পরিচালনা করবে।",
-          "অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে সকাল সাড়ে ১০টা থেকে এই বেঞ্চগুলোতে বিচারকাজ শুরু হওয়ার কথা রয়েছে।"
+          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী হাইকোর্ট বিভাগের বিচারিক কার্যক্রম পরিচালনার জন্য মোট ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
+          "সুপ্রিম কোর্টের ওয়েবসাইটে প্রকাশিত প্রধান বিচারপতির আদেশ অনুযায়ী পুনর্গঠিত বেঞ্চগুলো বিচারিক কার্যক্রম পরিচালনা করবে।",
+          "অবকাশকালীন ছুটি শেষে নির্ধারিত কর্মদিবস থেকে পুনর্গঠিত এসব বেঞ্চে বিচারকাজ আনুষ্ঠানিকভাবে শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "Chief Justice Jubaer Rahman Chowdhury reorganized a total of 57 benches to conduct judicial proceedings in the High Court Division.",
-          "The reorganized benches will operate according to the directive published on the Supreme Court website.",
-          "Judicial proceedings in these benches are scheduled to resume from 10:30 AM on the first working day after the vacation."
+          "Chief Justice Zubayer Rahman Chowdhury has reorganized a total of 57 benches to conduct judicial proceedings in the High Court division.",
+          "The reconstituted benches will operate according to the directive published on the Supreme Court website by the Chief Justice.",
+          "Judicial proceedings in these reconstituted benches have officially resumed following the vacation period."
         ],
-        "impact_bn": "আদালতে বিচারাধীন মামলাগুলোর শুনানির গতি ও বিচারপ্রার্থীদের আইনি সেবা প্রাপ্তি ত্বরান্বিত হতে পারে।",
-        "impact_en": "The reorganization may accelerate hearing speeds for pending cases and improve legal service delivery for litigants.",
-        "details_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগে বিচারিক কার্যক্রম সুশৃঙ্খল ও গতিশীল রাখতে প্রধান বিচারপতি সময়ে সময়ে বেঞ্চ পুনর্গঠন করে থাকেন। সাধারণত অবকাশকালীন ছুটির পর আদালতের নিয়মিত কার্যক্রম শুরুর আগে নতুন বেঞ্চ গঠন করা হয়, যা বিচারপ্রার্থীদের দ্রুত ন্যায়বিচার নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
-        "details_en": "The Chief Justice periodically reorganizes High Court benches to maintain discipline and efficiency in Supreme Court judicial operations. New benches are typically formed before regular court proceedings resume following vacations, playing a crucial role in ensuring prompt justice for litigants."
+        "impact_bn": "বিচারপ্রার্থী সাধারণ মানুষ দ্রুত বিচার কার্যক্রমের সুফল পাবেন এবং আদালতের স্বাভাবিক কার্যক্রম আরও গতিশীল হবে।",
+        "impact_en": "Litigants will experience smoother court proceedings and faster access to justice following the bench restructuring.",
+        "details_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ সুশৃঙ্খলভাবে পরিচালনার জন্য প্রধান বিচারপতি নিয়মিতভাবেই বেঞ্চ পুনর্গঠন করে থাকেন। বিচারিক কার্যক্রমের গতিশীলতা বজায় রাখতে এবং মামলা জট কমাতে অবকাশকালীন ছুটির পর আদালতের নিয়মিত কার্যক্রম শুরুর প্রাক্কালে এই বেঞ্চ বিন্যাস করা হয়।",
+        "details_en": "The Chief Justice routinely reorganizes High Court benches to ensure orderly judicial proceedings in the Supreme Court. This restructuring typically occurs ahead of regular court operations following vacations to maintain judicial efficiency and address case backlogs."
       }
     },
     {
-      "story_id": "b0538bba-38bf-5f22-9665-74c9a2a08d36",
+      "story_id": "b77d3c6a-4135-5e85-a5f2-704a7a3d155d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T13:30:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4568,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171515",
+          "title": "কৃষ্ণসাগরে ড্রোন হামলায় ডুবল জাহাজ, রাশিয়াকে দুষছে রোমানিয়া",
+          "snippet": "কৃষ্ণসাগরে ড্রোন হামলায় ডুবল জাহাজ, রাশিয়াকে দুষছে রোমানিয়া"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃষ্ণসাগরে ড্রোন হামলায় রোমানিয়ার উপকূলে পণ্যবাহী জাহাজ ডুবি",
+        "title_en": "Cargo Vessel Sinks in Black Sea off Romania Following Drone Attack",
+        "summary_bn": "রোমানিয়ার কৃষ্ণসাগর উপকূলে ড্রোন হামলায় কোমোরোসের পতাকাবাহী একটি পণ্যবাহী জাহাজ ডুবে গেছে এবং একজন নাবিক নিখোঁজ রয়েছেন।",
+        "summary_en": "A Comoros-flagged cargo vessel sank off Romania's Black Sea coast following a drone attack, leaving one crew member missing.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T13:30:54+00:00",
+        "lead_bn": "রোমানিয়ার কৃষ্ণসাগর উপকূলে ড্রোন হামলায় কোমোরোসের পতাকাবাহী একটি পণ্যবাহী জাহাজ ডুবে গেছে এবং একজন নাবিক নিখোঁজ রয়েছেন।",
+        "lead_en": "A Comoros-flagged cargo vessel sank off Romania's Black Sea coast following a drone attack, leaving one crew member missing.",
+        "bullets_bn": [
+          "রোমানিয়ার কৃষ্ণসাগর উপকূলে সংঘটিত ড্রোন হামলায় কোমোরোসের পতাকাবাহী পণ্যবাহী জাহাজ সম্পূর্ণ ডুবে যায়।",
+          "হামলার পর উদ্ধার অভিযানে তেরোজন নাবিককে জীবিত উদ্ধার করা হলেও একজন নাবিক নিখোঁজ রয়েছেন।",
+          "নিরাপত্তা বিশ্লেষকরা এই হামলার জন্য রাশিয়াকে দায়ী করলেও মস্কো পক্ষ থেকে আনুষ্ঠানিকভাবে কোনো প্রতিক্রিয়া জানানো হয়নি।"
+        ],
+        "bullets_en": [
+          "A Comoros-flagged cargo ship completely sank off Romania's Black Sea coast following a drone strike.",
+          "Thirteen crew members were rescued safely during emergency operations, while one crew member remains missing.",
+          "Security analysts blame Russia for the attack, though Moscow has not yet issued any official response."
+        ],
+        "impact_bn": "কৃষ্ণসাগর অঞ্চলে চলমান সংঘাতের কারণে সামুদ্রিক বাণিজ্য ও চলাচল ঝুঁকিপূর্ণ হয়ে ওঠায় বিশ্ব বাজারে পণ্য সরবরাহ ব্যাহত হতে পারে।",
+        "impact_en": "Ongoing conflict in the Black Sea region increases maritime transport risks, potentially disrupting global supply chains and commodity shipping.",
+        "details_bn": "ইউক্রেন যুদ্ধের পর থেকেই কৌশলগতভাবে গুরুত্বপূর্ণ কৃষ্ণসাগর অঞ্চলটি অন্যতম প্রধান সংঘাতে পরিণত হয়েছে। সমুদ্রপথে শস্য ও পণ্যবাহী জাহাজের যাতায়াত সুরক্ষিত রাখতে বিভিন্ন আন্তর্জাতিক পক্ষ দীর্ঘদিন ধরে উদ্বেগ প্রকাশ করে আসছে। সাম্প্রতিক এই ড্রোন হামলার ঘটনা ওই জলপথে বাণিজ্যিক জাহাজের নিরাপত্তা এবং আঞ্চলিক ভূরাজনীতিতে নতুন উত্তেজনার সৃষ্টি করেছে।",
+        "details_en": "The strategically vital Black Sea region has remained a primary conflict zone since the onset of the Russia-Ukraine war. International stakeholders have repeatedly raised concerns over maritime security for grain and cargo shipments. This recent drone attack further escalates tensions regarding commercial vessel safety and geopolitical stability along key European shipping lanes."
+      }
+    },
+    {
+      "story_id": "4245acb7-a029-5885-80f9-885bde48e014",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -66,220 +122,106 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fo4bqsdfz%2Fgopalganj1.jpeg?rect=0%2C0%2C1064%2C559&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T12:47:25+00:00",
+      "published_at": "2026-10-24T13:27:40+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6932,
+      "rank_score": 1.417,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/guofm3vvpa",
-          "title": "গোপালগঞ্জে নিষিদ্ধ ছাত্রলীগ–যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা, তিন পুলিশ সদস্যকে মারধর",
-          "snippet": "গোপালগঞ্জে নিষিদ্ধ ছাত্রলীগ–যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা, তিন পুলিশ সদস্যকে মারধর"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976472/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A6%B0%E0%A6%A4-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95",
+          "title": "মাদক সেবনরত অবস্থায় পুলিশ সদস্যসহ তিন জন আটক",
+          "snippet": "মাদক সেবনরত অবস্থায় পুলিশ সদস্যসহ তিন জন আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে নিষিদ্ধ সংগঠনের মিছিল থেকে পুলিশের গাড়িতে হামলা ও তিন সদস্য মারধর",
-        "title_en": "Attack on Police Car and Officers by Banned Organization Rally in Gopalganj",
-        "summary_bn": "গোপালগঞ্জে নিষিদ্ধ ঘোষিত ছাত্রলীগ ও যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা চালিয়ে তিন সদস্যকে মারধর করা হয়েছে।",
-        "summary_en": "Protesters from a banned student and youth wing rally attacked a police vehicle and beat three officers in Gopalganj.",
+        "title_bn": "শ্রীপুরে মাদক সেবনকালে পুলিশ কনস্টেবলসহ তিনজন আটক",
+        "title_en": "Police Constable and Two Others Detained for Drug Consumption in Sreepur",
+        "summary_bn": "গাজীপুরের শ্রীপুরে মাদক সেবনের সময় এক পুলিশ কনস্টেবলসহ তিনজনকে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় এলাকাবাসী।",
+        "summary_en": "Local residents detained and handed over a police constable and two others to law enforcement for consuming drugs in Sreepur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T12:47:25+00:00",
-        "lead_bn": "গোপালগঞ্জে নিষিদ্ধ ঘোষিত ছাত্রলীগ ও যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা চালিয়ে তিন সদস্যকে মারধর করা হয়েছে।",
-        "lead_en": "Protesters from a banned student and youth wing rally attacked a police vehicle and beat three officers in Gopalganj.",
+        "published_at": "2026-10-24T13:27:40+00:00",
+        "lead_bn": "গাজীপুরের শ্রীপুরে মাদক সেবনের সময় এক পুলিশ কনস্টেবলসহ তিনজনকে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় এলাকাবাসী।",
+        "lead_en": "Local residents detained and handed over a police constable and two others to law enforcement for consuming drugs in Sreepur.",
         "bullets_bn": [
-          "নিষিদ্ধ ঘোষিত ছাত্রলীগ ও কার্যক্রম নিষিদ্ধ যুবলীগের নেতা-কর্মীরা ঝটিকা মিছিল বের করে পুলিশের ওপর চড়াও হন।",
-          "হামলার শিকার আহত পুলিশ সদস্যরা হলেন সদর থানার উপপরিদর্শক ফুলমিয়া এবং কনস্টেবল শওকত ও জসিম।",
-          "পুলিশ সুপার ঘটনার সত্যতা নিশ্চিত করে হামলাকারীদের আইনের আওতায় আনার বিষয়টি তদারকি করছেন।"
+          "এলাকাবাসী হাতেনাতে ধরে তিনজনকে পুলিশের কাছে হস্তান্তর করেন।",
+          "ঘটনাস্থল থেকে ১২০ পিস ইয়াবা ট্যাবলেট উদ্ধার করা হয়েছে।",
+          "আটককৃতদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
         ],
         "bullets_en": [
-          "Activists of banned organizations took out a sudden procession and launched an unprovoked attack on police.",
-          "Injured police personnel include Sub-Inspector Fulmia along with Constables Shawkat and Jasim.",
-          "The district police superintendent confirmed the incident and legal steps are underway against the attackers."
+          "Local residents caught and handed over three individuals to law enforcement.",
+          "Officers recovered 120 pieces of Yaba tablets from the scene.",
+          "The detainees were sent to jail through the court."
         ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর এমন হামলা জননিরাপত্তা এবং সামগ্রিক আইনশৃঙ্খলা পরিস্থিতির অবনতি নিয়ে উদ্বেগের সৃষ্টি করেছে।",
-        "impact_en": "Such direct attacks on law enforcement personnel raise serious concerns regarding public security and regional law and order.",
-        "details_bn": "গোপালগঞ্জ সদর উপজেলার রঘুনাথপুর ইউনিয়নের খেয়াঘাট এলাকায় নিয়মিত টহল দেওয়ার সময় পুলিশ সদস্যদের ওপর এ হামলার ঘটনা ঘটে। সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া ভিডিওতে দেখা যায়, হকিস্টিক ও দেশীয় অস্ত্রধারী একদল যুবক মিছিল নিয়ে এসে পুলিশ সদস্যদের ওপর চড়াও হয় এবং সরকারি গাড়ি ভাঙচুর করে। পুলিশ সুপার মো. হাবীবুল্লাহ ঘটনার সত্যতা নিশ্চিত করেছেন এবং দোষীদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।",
-        "details_en": "The incident occurred when a regular police patrol team was stationed in the Raghunathpur union area of Gopalganj sadar upazila. Video footage circulating online showed armed individuals from a procession attacking the police vehicle and physically assaulting the officers on duty. District Superintendent of Police confirmed the assault, prompting authorities to initiate legal procedures against the perpetrators."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের অপরাধমূলক কর্মকাণ্ডে জড়িত থাকা জনমনে প্রশ্ন তুলেছে এবং জবাবদিহিতার দাবি জোরদার করেছে।",
+        "impact_en": "Involvement of law enforcement personnel in criminal activities raises serious accountability concerns among the public.",
+        "details_bn": "গাজীপুরের শ্রীপুরে স্থানীয় জনগণের সহায়তায় পুলিশ কনস্টেবলসহ তিনজনকে মাদক সেবনরত অবস্থায় আটক করা হয়। পুলিশ জাহাঙ্গীর আলম নামের একজনের ঘর থেকে ১২০ পিস ইয়াবা ট্যাবলেট উদ্ধার করে। পরে শ্রীপুর থানার ওসি মোহাম্মদ শাহীনুর আলম আটকের বিষয়টি নিশ্চিত করেন এবং আসামিদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়।",
+        "details_en": "A police constable and two others were detained in Sreepur with the help of local residents while consuming drugs. Authorities recovered 120 pieces of Yaba tablets from a room belonging to Jahangir Alam. Sreepur Police Station officer-in-charge confirmed the incident, and the suspects were subsequently sent to jail through the court system."
       }
     },
     {
-      "story_id": "73cebb1f-6a20-51d7-b961-1c8e0e6aea7d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T12:24:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3742,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/sylhet/976455/%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%8F%E0%A6%95-%E0%A6%9A%E0%A6%BF%E0%A6%A0%E0%A6%BF-%E0%A6%AF%E0%A6%BE-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95",
-          "title": "লাখ লাখ টাকার মাঝে মিললো এক চিঠি, যা লিখলেন তারেক রহমানকে",
-          "snippet": "লাখ লাখ টাকার মাঝে মিললো এক চিঠি, যা লিখলেন তারেক রহমানকে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিলেটের মাজারের দানবাক্সে তারেক রহমানকে উদ্দেশ করে বেনামি চিঠি পাওয়া গেছে",
-        "title_en": "Anonymous letter addressed to Tarique Rahman found in Sylhet shrine donation box",
-        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানকে উদ্দেশ করে লেখা একটি বেনামি চিঠি উদ্ধার করা হয়েছে।",
-        "summary_en": "An anonymous letter addressed to BNP Chairman Tarique Rahman has been recovered from the donation box of Hazrat Shahjalal shrine in Sylhet.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T12:24:07+00:00",
-        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানকে উদ্দেশ করে লেখা একটি বেনামি চিঠি উদ্ধার করা হয়েছে।",
-        "lead_en": "An anonymous letter addressed to BNP Chairman Tarique Rahman has been recovered from the donation box of Hazrat Shahjalal shrine in Sylhet.",
-        "bullets_bn": [
-          "চিঠিতে বিএনপির কর্মী হওয়ার ক্ষেত্রে শিক্ষাগত যোগ্যতা নির্ধারণের প্রস্তাব দেওয়া হয়েছে।",
-          "দানবাক্স গণনা করার সময় লাখ লাখ টাকার মাঝে বেনামি চিঠিটি পাওয়া যায়।",
-          "চিঠিতে দলের সাংগঠনিক কাঠামো পরিবর্তন নিয়ে লেখকের বিভিন্ন প্রত্যাশার কথা তুলে ধরা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The letter proposes setting educational qualifications for becoming BNP members and workers.",
-          "The anonymous note was discovered among millions of taka during routine donation box counting.",
-          "The author outlined specific expectations regarding organizational changes within the party."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স খোলার পর নিয়মিত টাকা গণনার সময় বিভিন্ন ধরনের চিঠি ও মানত পাওয়ার ঘটনা অতীতেও ঘটেছে। তবে এবার বিএনপির শীর্ষ নেতৃত্বকে উদ্দেশ করে নীতিগত সংস্কার বা শিক্ষাগত যোগ্যতার প্রস্তাবসংবলিত বেনামি চিঠি পাওয়ার বিষয়টি স্থানীয় রাজনৈতিক মহলে আলোচনার জন্ম দিয়েছে। মাজার কর্তৃপক্ষ সাধারণত নিয়মিত প্রক্রিয়ায় এই দানবাক্সগুলো খুলে থাকে।",
-        "details_en": "Finding letters and vows during the routine counting of donation boxes at Hazrat Shahjalal shrine in Sylhet is a regular occurrence. However, discovering an anonymous letter proposing policy reforms and educational requirements addressed to top BNP leadership has drawn local political attention. Shrine authorities typically open these donation boxes through standard administrative procedures."
-      }
-    },
-    {
-      "story_id": "12000e76-f926-5351-a570-a79aee6182a7",
+      "story_id": "86f5f3d6-12e2-5c61-a81f-b5667e3dcf2c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "world_diplomacy"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fyu3ehwtt%2FA-police-officer.jpg?rect=0%2C55%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T13:00:29+00:00",
+      "published_at": "2026-10-24T12:56:43+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9677,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976467/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9F%E0%A6%BF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%B6",
-          "title": "বাংলাদেশে এলএনজি সরবরাহকারী দেশটি এখন আরেক দেশ থেকে কিনতে হচ্ছে",
-          "snippet": "বাংলাদেশে এলএনজি সরবরাহকারী দেশটি এখন আরেক দেশ থেকে কিনতে হচ্ছে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কাতার সংকট কাটায় যুক্তরাষ্ট্র থেকে এলএনজি আমদানি করতে হচ্ছে বাংলাদেশকে",
-        "title_en": "Bangladesh Forced to Import LNG from US Amid Qatar Supply Crisis",
-        "summary_bn": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির কারণে কাতারের সরবরাহ ব্যাহত হওয়ায় বাংলাদেশ এখন যুক্তরাষ্ট্র থেকে বিকল্প এলএনজি আমদানি করতে বাধ্য হচ্ছে।",
-        "summary_en": "Bangladesh is now forced to import alternative LNG from the United States as supplies from Qatar face disruptions due to Middle East conflicts.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T13:00:29+00:00",
-        "lead_bn": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির কারণে কাতারের সরবরাহ ব্যাহত হওয়ায় বাংলাদেশ এখন যুক্তরাষ্ট্র থেকে বিকল্প এলএনজি আমদানি করতে বাধ্য হচ্ছে।",
-        "lead_en": "Bangladesh is now forced to import alternative LNG from the United States as supplies from Qatar face disruptions due to Middle East conflicts.",
-        "bullets_bn": [
-          "যুদ্ধজনিত কারণে কাতার থেকে নিয়মিত তরলীকৃত প্রাকৃতিক গ্যাস আমদানি মারাত্মকভাবে ব্যাহত হয়েছে।",
-          "দীর্ঘমেয়াদি চুক্তির আওতায় বাংলাদেশ আগে কাতার থেকে প্রতি বছর প্রায় ৪০ কার্গো এলএনজি আমদানি করতো।",
-          "উৎপাদন সক্ষমতা ও প্রধান সামুদ্রিক পথ বন্ধ থাকায় বিকল্প হিসেবে যুক্তরাষ্ট্র থেকে গ্যাস সংগ্রহ করছে বাংলাদেশ।"
-        ],
-        "bullets_en": [
-          "Liquefied natural gas imports from Qatar have been severely disrupted due to ongoing war conditions.",
-          "Bangladesh previously imported about 40 cargoes of LNG annually from Qatar under long-term contracts.",
-          "Bangladesh is now sourcing gas from the United States as an alternative due to compromised production and blocked sea routes."
-        ],
-        "impact_bn": "আমদানির উৎস পরিবর্তনের কারণে দেশের জ্বালানি ব্যয় ও বিদ্যুৎ উৎপাদনে বাড়তি চাপ তৈরি হতে পারে।",
-        "impact_en": "Shifting import sources may create additional pressure on national energy costs and power generation.",
-        "details_bn": "ইরান সংঘাত শুরু হওয়ার আগে বিশ্বজুড়ে এলএনজি রফতানিতে শীর্ষ অবস্থানে ছিল কাতার। বাংলাদেশ দীর্ঘমেয়াদি চুক্তির মাধ্যমে কাতার থেকে নিয়মিত জ্বালানি সংগ্রহ করতো। কিন্তু যুদ্ধ শুরুর মাত্র আট মাসের মাথায় পরিস্থিতি সম্পূর্ণ বদলে যায়। কাতারের নিজস্ব উৎপাদন সক্ষমতা ক্ষতিগ্রস্ত হওয়া এবং প্রধান সামুদ্রিক পথ অবরুদ্ধ থাকায় জ্বালানি নিরাপত্তা বজায় রাখতে বাংলাদেশকে এখন যুক্তরাষ্ট্রের মতো নতুন বাজারের ওপর নির্ভর করতে হচ্ছে।",
-        "details_en": "Before the onset of the Iran conflict, Qatar was among the top global exporters of liquefied natural gas. Bangladesh regularly procured energy from Qatar via long-term agreements. However, within eight months of the war, the situation shifted completely. Due to compromised production capacity in Qatar and blocked maritime trade routes, Bangladesh now has to rely on alternative markets like the United States to maintain energy security."
-      }
-    },
-    {
-      "story_id": "2e65416d-b512-558b-a1f6-52ad12814ac8",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "economy_business"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fhzia7tyi%2FMYMENSINGHDH169420261024WHATSAPP-IMAGE-2026-10-24-AT-3.07.59-PM.JPG.JPG?rect=0%2C60%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T12:45:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8343,
+      "importance_score": 4.8,
+      "rank_score": 1.1158,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/h0t6jycge8",
-          "title": "সব ওষুধ কিনতে হয় রোগীর, দুঃখ প্রকাশ করে টাকা দিলেন স্বাস্থ্যমন্ত্রী",
-          "snippet": "সব ওষুধ কিনতে হয় রোগীর, দুঃখ প্রকাশ করে টাকা দিলেন স্বাস্থ্যমন্ত্রী"
+          "url": "https://www.prothomalo.com/world/middle-east/1o3rq9pezv",
+          "title": "হামলার হুমকি দিচ্ছে যুক্তরাষ্ট্র-ইসরায়েল, আক্রমণাত্মক সামরিক নীতি নিচ্ছে ইরান, নতুন করে যুদ্ধ কি আসন্ন",
+          "snippet": "হামলার হুমকি দিচ্ছে যুক্তরাষ্ট্র-ইসরায়েল, আক্রমণাত্মক সামরিক নীতি নিচ্ছে ইরান, নতুন করে যুদ্ধ কি আসন্ন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে রোগীর অব্যবস্থাপনা দেখে স্বাস্থ্যমন্ত্রীর অসন্তোষ প্রকাশ",
-        "title_en": "Health Minister Expresses Dissatisfaction Over Mismanagement at Mymensingh Medical College Hospital",
-        "summary_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন প্রসূতির কাছ থেকে ওষুধ কেনার অভিযোগ পেয়ে দুঃখ প্রকাশ করেছেন স্বাস্থ্যমন্ত্রী।",
-        "summary_en": "Health Minister expressed regret after receiving complaints from a patient about purchasing medicines at Mymensingh Medical College Hospital.",
+        "title_bn": "মার্কিন হামলার আশঙ্কায় আক্রমণাত্মক সামরিক নীতি গ্রহণ করছে ইরান",
+        "title_en": "Iran Shifts to Aggressive Military Doctrine Amid US Attack Threats",
+        "summary_bn": "মার্কিন হামলার হুমকির মুখে প্রতিরক্ষানীতি পরিবর্তন করে আক্রমণাত্মক ও বিস্তৃত সামরিক অভিযান চালানোর ঘোষণা দিয়েছে ইরানের বিপ্লবী গার্ড বাহিনী।",
+        "summary_en": "Faced with US threats, Iran's Islamic Revolutionary Guard Corps shifted its defense doctrine to launch aggressive military operations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "economy_business"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T12:45:54+00:00",
-        "lead_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন প্রসূতির কাছ থেকে ওষুধ কেনার অভিযোগ পেয়ে দুঃখ প্রকাশ করেছেন স্বাস্থ্যমন্ত্রী।",
-        "lead_en": "Health Minister expressed regret after receiving complaints from a patient about purchasing medicines at Mymensingh Medical College Hospital.",
+        "published_at": "2026-10-24T12:56:43+00:00",
+        "lead_bn": "মার্কিন হামলার হুমকির মুখে প্রতিরক্ষানীতি পরিবর্তন করে আক্রমণাত্মক ও বিস্তৃত সামরিক অভিযান চালানোর ঘোষণা দিয়েছে ইরানের বিপ্লবী গার্ড বাহিনী।",
+        "lead_en": "Faced with US threats, Iran's Islamic Revolutionary Guard Corps shifted its defense doctrine to launch aggressive military operations.",
         "bullets_bn": [
-          "হাসপাতাল পরিদর্শনের সময় রোগীরা বিনামূল্যে ওষুধ ও গ্লাভস না পাওয়ার অভিযোগ করলে স্বাস্থ্যমন্ত্রী ব্যক্তিগতভাবে অর্থ সহায়তা দেন।",
-          "ফুলপুর উপজেলা স্বাস্থ্য কমপ্লেক্সে পাঁচজন চিকিৎসক অনুপস্থিত থাকায় তাঁদের এক দিনের বেতন কাটার নির্দেশ দেওয়া হয়।",
-          "অনুপস্থিত চিকিৎসকদের বিরুদ্ধে বিভাগীয় ব্যবস্থা নেওয়া হবে বলে জানিয়েছেন স্বাস্থ্যমন্ত্রী।"
+          "শত্রুপক্ষের যেকোনো হামলার জবাবে কেবল আত্মরক্ষা নয় বরং বিস্তৃত সামরিক অভিযান পরিচালনার সিদ্ধান্ত নিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
+          "ইসরায়েলের সাথে পূর্ববর্তী সংঘাতের পর ইরানের ক্ষেপণাস্ত্রের মজুত দেড় গুণ বৃদ্ধি পেয়েছে বলে জানান আইআরজিসির মুখপাত্র হোসেইন মোহেবি।",
+          "মধ্যপ্রাচ্যে চলমান উত্তেজনা বৃদ্ধি পাওয়ায় মার্কিন কূটনৈতিক কর্মীদের সৌদি আরব থেকে সরিয়ে নেওয়ার প্রক্রিয়া শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The Health Minister provided personal financial assistance after patients reported buying free medicines and gloves themselves.",
-          "Five absent doctors at Phulpur Upazila Health Complex faced salary deductions of one day following the inspection.",
-          "Departmental action will be taken against doctors found absent without valid reasons during roster checks."
+          "Iran shifted its defensive doctrine to conduct wide-ranging military operations in response to enemy attacks instead of mere self-defense.",
+          "IRGC spokesperson Hossein Mohebi stated that Iran's missile stockpile increased by one and a half times following previous clashes.",
+          "Washington began evacuating non-essential diplomatic staff from Saudi Arabia amid escalating military tensions in the Middle East."
         ],
-        "impact_bn": "হাসপাতালের অব্যবস্থাপনা দূর হলে সাধারণ রোগীরা নামমাত্র খরচে সরকারি সেবা ও প্রয়োজনীয় ওষুধ পাবেন।",
-        "impact_en": "Ordinary patients will receive proper government medical care and necessary supplies if hospital mismanagement is resolved.",
-        "details_bn": "স্বাস্থ্যমন্ত্রী সরদার মো. সাখাওয়াত হোসেন ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে ঝটিকা পরিদর্শনকালে চিকিৎসকদের ডিজিটাল ও ম্যানুয়াল হাজিরা খতিয়ে দেখেন। এ সময় নির্ধারিত সময়ে উপস্থিত না হওয়া চিকিৎসকদের বিরুদ্ধে ক্ষোভ প্রকাশ করা হয়। এছাড়া নতুন ভবনের অগ্নিকাণ্ডের তদন্ত প্রতিবেদন পর্যালোচনা করে ব্যবস্থা নেওয়ার ঘোষণা দেন মন্ত্রী।",
-        "details_en": "Health Minister Sardar Md. Sakhawat Hossain inspected Mymensingh Medical College Hospital, reviewing digital and manual attendance records of doctors. He expressed frustration over unauthorized absences and announced that departmental actions would be taken. The minister also reviewed the investigation report regarding a recent fire incident in the new building."
+        "impact_bn": "মধ্যপ্রাচ্যে সম্ভাব্য পূর্ণমাত্রার যুদ্ধ শুরু হলে জ্বালানি সংকট এবং প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হতে পারে।",
+        "impact_en": "A potential full-scale conflict in the Middle East could trigger global energy crises and security concerns for expatriates.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য হামলার আশঙ্কার প্রেক্ষাপটে ইরান তাদের সামরিক কৌশল পরিবর্তন করেছে। হরমুজ প্রণালিতে বাণিজ্যিক জাহাজে হামলা বৃদ্ধি এবং ওয়াশিংটন ও তেহরানের মধ্যকার কূটনৈতিক আলোচনা স্থবির হয়ে পড়ার কারণে মধ্যপ্রাচ্যে নতুন করে বড় ধরনের সামরিক সংঘাতের আশঙ্কা তৈরি হয়েছে।",
+        "details_en": "Iran revised its military strategy amid expectations of impending US and Israeli attacks. Increased commercial shipping attacks in the Strait of Hormuz and stalled diplomatic talks between Washington and Tehran have heightened fears of a major military conflict in the Middle East."
       }
     },
     {
-      "story_id": "dae12f95-248d-5e7e-96ac-0d976d7658d5",
+      "story_id": "fe477351-2598-5786-9c65-025060712727",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment",
@@ -289,25 +231,25 @@
         "#Climate",
         "#Environment"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F317jogkq%2FGaibanda-bs-ValoKaj.jpg?rect=0%2C136%2C1502%2C789&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-06%2Ffc02a57d-164a-4776-9604-2a467333b0e1%2FFinal_Bondhushava_OG_watermark_01.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T12:41:03+00:00",
+      "published_at": "2026-10-24T14:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7969,
+      "rank_score": 0.9638,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.bondhushava.com/activities/cthzr0snxz",
-          "title": "নদীর মাছ রক্ষায় গাইবান্ধায় জেলেদের সঙ্গে বন্ধুসভার মতবিনিময়",
-          "snippet": "নদীর মাছ রক্ষায় গাইবান্ধায় জেলেদের সঙ্গে বন্ধুসভার মতবিনিময়"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/976470/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%A8%E0%A6%B0%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%B0",
+          "title": "জলবায়ু পরিবর্তনে ধাতুর দূষণ, নরওয়ের গ্রামে কলের পানি পানে নিষেধাজ্ঞা",
+          "snippet": "জলবায়ু পরিবর্তনে ধাতুর দূষণ, নরওয়ের গ্রামে কলের পানি পানে নিষেধাজ্ঞা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্রহ্মপুত্রে অবৈধ জাল ও বৈদ্যুতিক মাছ শিকার বন্ধে মতবিনিময় সভা",
-        "title_en": "Meeting Held to Stop Illegal Fishing and Electric Nets in Brahmaputra",
-        "summary_bn": "ব্রহ্মপুত্র নদে অবৈধ জাল ও বৈদ্যুতিক পদ্ধতিতে মাছ শিকার বন্ধে জেলেদের নিয়ে সচেতনতামূলক মতবিনিময় সভা অনুষ্ঠিত হয়েছে।",
-        "summary_en": "An awareness meeting was held with fishermen to stop illegal fishing and electric methods in the Brahmaputra River.",
+        "title_bn": "নরওয়ের আর্কটিক গ্রামে জলবায়ু পরিবর্তনে ধাতুর দূষণ, কলের পানি পানে নিষেধাজ্ঞা",
+        "title_en": "Norwegian Arctic Village Bans Tap Water After Climate-Induced Heavy Metal Contamination",
+        "summary_bn": "জলবায়ু পরিবর্তনের ফলে গলে যাওয়া মাটি থেকে ভারী ধাতু পানিতে মিশায় নরওয়ের একটি প্রত্যন্ত গ্রামে কলের পানি পানে নিষেধাজ্ঞা জারি করা হয়েছে।",
+        "summary_en": "Authorities in a remote Norwegian Arctic village banned tap water consumption after thawing permafrost leaked heavy metals into drinking sources.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -315,23 +257,77 @@
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T12:41:03+00:00",
-        "lead_bn": "ব্রহ্মপুত্র নদে অবৈধ জাল ও বৈদ্যুতিক পদ্ধতিতে মাছ শিকার বন্ধে জেলেদের নিয়ে সচেতনতামূলক মতবিনিময় সভা অনুষ্ঠিত হয়েছে।",
-        "lead_en": "An awareness meeting was held with fishermen to stop illegal fishing and electric methods in the Brahmaputra River.",
+        "published_at": "2026-10-24T14:00:00+00:00",
+        "lead_bn": "জলবায়ু পরিবর্তনের ফলে গলে যাওয়া মাটি থেকে ভারী ধাতু পানিতে মিশায় নরওয়ের একটি প্রত্যন্ত গ্রামে কলের পানি পানে নিষেধাজ্ঞা জারি করা হয়েছে।",
+        "lead_en": "Authorities in a remote Norwegian Arctic village banned tap water consumption after thawing permafrost leaked heavy metals into drinking sources.",
         "bullets_bn": [
-          "গাইবান্ধা বন্ধুসভার উদ্যোগে সদর উপজেলার কামারজানি ইউনিয়নের গোঘাট এলাকায় সভাটি অনুষ্ঠিত হয়।",
-          "বৈদ্যুতিক পদ্ধতি এবং চীনা জাল ব্যবহারের ফলে মাছের পোনা ও জলজ প্রাণী ধ্বংসের আশঙ্কা প্রকাশ করা হয়।",
-          "নদীর জীববৈচিত্র্য ও মৎস্যসম্পদ রক্ষায় মৎস্য আইন মেনে চলার ওপর গুরুত্বারোপ করা হয়।"
+          "জলবায়ু পরিবর্তনের প্রভাবে গলে যাওয়া শিলাস্তর থেকে পানিতে ভারী ধাতু মিশে যাওয়ার পর কর্তৃপক্ষ পানিবণ্টন বন্ধ করে দেয়।",
+          "প্রায় ২ হাজার ৬০০ বাসিন্দার জনপদ লংইয়ারবিয়েনে এই দূষণ ধরা পড়ার পর বিকল্প বিশুদ্ধ পানি সরবরাহ করা হচ্ছে।",
+          "বিজ্ঞানীদের আশঙ্কা, একই ধরনের ভূগর্ভস্থ দূষণ সংকট আর্কটিক অঞ্চলের অন্যান্য জনপদগুলোতেও ছড়িয়ে পড়তে পারে।"
         ],
         "bullets_en": [
-          "The meeting was organized by Gaibandha Prothom Alo Bondhushava in the Gighat area of Kamarjani union.",
-          "Speakers expressed deep concern over the destruction of fish fry and aquatic life caused by electric fishing and Chinese nets.",
-          "Strict adherence to fisheries laws was emphasized to protect river biodiversity and fishery resources."
+          "Authorities halted tap water supply after climate-driven permafrost thaw leaked heavy metals into drinking sources.",
+          "Alternative safe water supplies are being arranged for the approximately 2,600 residents of Longyearbyen.",
+          "Scientists warn that similar groundwater contamination crises could affect other remote Arctic settlements."
         ],
-        "impact_bn": "অবৈধ মাছ শিকার বন্ধ হলে নদীবন্দর এলাকার জেলেদের জীবিকা দীর্ঘমেয়াদে সুরক্ষিত থাকবে এবং নদীর জীববৈচিত্র্য রক্ষা পাবে।",
-        "impact_en": "Stopping illegal fishing will secure the long-term livelihood of local fishermen and preserve the river ecosystem.",
-        "details_bn": "গাইবান্ধার কামারজানিতে ব্রহ্মপুত্র নদে বৈদ্যুতিক পদ্ধতি ও চীনা জাল ব্যবহার করে নির্বিচারে মাছ শিকার করা হচ্ছে। এর ফলে নদীর মৎস্যসম্পদ ও জলজ পরিবেশ মারাত্মক হুমকির মুখে পড়েছে। এই পরিস্থিতি মোকাবেলায় মৎস্যসম্পদ রক্ষা, অবৈধ জালের ব্যবহার বন্ধ এবং জেলেদের মধ্যে সচেতনতা সৃষ্টির লক্ষ্যে গাইবান্ধা বন্ধুসভা এই বিশেষ মতবিনিময় সভার আয়োজন করে। সভায় স্থানীয় জেলে, শিক্ষক ও সামাজিক সংগঠনের প্রতিনিধিরা অংশ নেন।",
-        "details_en": "Indiscriminate fishing using electric methods and Chinese nets in the Brahmaputra River at Kamarjani in Gaibandha has severely threatened aquatic resources and the river environment. To address this crisis, the Gaibandha Bondhushava organized a special awareness meeting aimed at stopping illegal fishing gear and educating local fishermen. Local fishermen, teachers, and social activists participated in the discussion to promote sustainable river management."
+        "impact_bn": "দূষণের ফলে স্থানীয় বাসিন্দাদের সুপেয় পানির সংকট তৈরি হয়েছে এবং তাদের জরুরি ভিত্তিতে বিকল্প উৎসের ওপর নির্ভর করতে হচ্ছে।",
+        "impact_en": "Local residents face drinking water shortages and must rely entirely on emergency alternative sources for daily hydration.",
+        "details_bn": "জলবায়ু পরিবর্তনের কারণে মেরু অঞ্চলের তাপমাত্রা বৈশ্বিক গড়ের তুলনায় দ্রুত বাড়ছে। এর ফলে আর্কটিক অঞ্চলের চিরহিমায়িত মাটি বা পারমাফ্রস্ট গলে গিয়ে দীর্ঘদিন ধরে আটকে থাকা খনিজ ও ভারী ধাতু আশপাশের জলধারায় মিশে যাচ্ছে। এই পরিবেশগত পরিবর্তনের ফলে নরওয়ের স্বায়ত্তশাসিত স্ভালবার্ড দ্বীপপুঞ্জের লংইয়ারবিয়েনে পানীয় জলের সুরক্ষা নিয়ে বড় ধরনের ঝুঁকি তৈরি হয়েছে, যা বিজ্ঞানীদের নতুন করে উদ্বেগে ফেলেছে।",
+        "details_en": "Polar temperatures are rising much faster than the global average due to climate change, causing permafrost to thaw and release trapped heavy metals into surrounding waterways. This environmental shift has created severe drinking water safety risks in Svalbard's Longyearbyen settlement, raising fresh concerns among researchers monitoring Arctic ecosystems."
+      }
+    },
+    {
+      "story_id": "a667f4c6-10fa-59e4-bdb2-886da0c89e90",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T13:55:38+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9204,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171521",
+          "title": "বগুড়ায় শিক্ষার্থীদের স্বপ্নপূরণে ক্যারিয়ার গাইডলাইন সভা",
+          "snippet": "বগুড়ায় শিক্ষার্থীদের স্বপ্নপূরণে ক্যারিয়ার গাইডলাইন সভা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বগুড়ায় শিক্ষার্থীদের ক্যারিয়ার গাইডলাইন সভা অনুষ্ঠিত",
+        "title_en": "Career Guideline Seminar Held for Students in Bogura",
+        "summary_bn": "সামাজিক সংগঠনের উদ্যোগে বগুড়ায় আয়োজিত ক্যারিয়ার গাইডলাইন সভায় এলাকার বিপুল সংখ্যক শিক্ষার্থী ও অভিভাবক অংশ নেন।",
+        "summary_en": "Students and parents participated in a career guideline seminar organized by a social organization in Bogura.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T13:55:38+00:00",
+        "lead_bn": "সামাজিক সংগঠনের উদ্যোগে বগুড়ায় আয়োজিত ক্যারিয়ার গাইডলাইন সভায় এলাকার বিপুল সংখ্যক শিক্ষার্থী ও অভিভাবক অংশ নেন।",
+        "lead_en": "Students and parents participated in a career guideline seminar organized by a social organization in Bogura.",
+        "bullets_bn": [
+          "বারোপুর বাঁশবাড়িয়া নবজাগরণ ও সমাজকল্যাণ সংঘ এই ক্যারিয়ার গাইডলাইন কর্মসূচির আয়োজন করে।",
+          "অনুষ্ঠানে এলাকার বিপুল সংখ্যক শিক্ষার্থী, অভিভাবক এবং সাধারণ নাগরিক উপস্থিত ছিলেন।",
+          "শিক্ষার্থীদের ভবিষ্যৎ পরিকল্পনা ও উচ্চশিক্ষার পথ সুগম করতে এই কর্মশালা পরিচালনা করা হয়।"
+        ],
+        "bullets_en": [
+          "Baropur Bashbaria Nobojagoron O Somajkallan Songho organized the career guideline program.",
+          "A large number of local students, guardians, and general citizens attended the event.",
+          "The workshop was conducted to facilitate students' future planning and higher education paths."
+        ],
+        "impact_bn": "স্থানীয় শিক্ষার্থীরা সঠিক দিকনির্দেশনা পেয়ে তাদের ভবিষ্যৎ পেশাগত জীবন পরিকল্পনা করতে আরও আত্মবিশ্বাসী হবে।",
+        "impact_en": "Local students will gain proper direction and confidence to plan their future professional paths.",
+        "details_bn": "স্থানীয় যুবসমাজ ও শিক্ষার্থীদের মাঝে সঠিক শিক্ষার আলো ছড়াতে এবং তাদের কর্মমুখী করতে বিভিন্ন সামাজিক সংগঠন নিয়মিত এ ধরনের উদ্যোগ গ্রহণ করে থাকে। এরই ধারাবাহিকতায় বগুড়ায় এই ক্যারিয়ার গাইডলাইন সভার আয়োজন করা হয়, যা তরুণ প্রজন্মকে তাদের লক্ষ্য নির্ধারণে সহায়তা করবে।",
+        "details_en": "Social organizations frequently take such initiatives to spread proper education and career orientation among the local youth and students. Following this trend, the career guideline seminar was organized in Bogura to help the younger generation set their professional goals."
       }
     }
   ]
