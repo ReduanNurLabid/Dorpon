@@ -1,65 +1,9 @@
 {
-  "updated_at": "2026-10-24T15:00:54.065007",
+  "updated_at": "2026-10-24T16:00:49.515173",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "fcaba9d4-f17b-51b0-8a0d-0f476f82900d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T14:32:26+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4757,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976489/%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় বাড়িঘরে হামলা চালালেন যুবলীগ নেতা",
-          "snippet": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় বাড়িঘরে হামলা চালালেন যুবলীগ নেতা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় মাদারীপুরে যুবলীগ নেতার হামলা",
-        "title_en": "Juba League Leader Attacks House in Madaripur Over Wedding Snub",
-        "summary_bn": "ভাগ্নির বিয়েতে আমন্ত্রণ না পাওয়ার জেরে মাদারীপুরে এক ব্যক্তির বাড়িতে হামলা ও ভাঙচুর চালিয়েছে স্থানীয় এক যুবলীগ নেতা।",
-        "summary_en": "A local Juba League leader and his associates attacked and vandalized a residence in Madaripur after being omitted from a wedding invite.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:32:26+00:00",
-        "lead_bn": "ভাগ্নির বিয়েতে আমন্ত্রণ না পাওয়ার জেরে মাদারীপুরে এক ব্যক্তির বাড়িতে হামলা ও ভাঙচুর চালিয়েছে স্থানীয় এক যুবলীগ নেতা।",
-        "lead_en": "A local Juba League leader and his associates attacked and vandalized a residence in Madaripur after being omitted from a wedding invite.",
-        "bullets_bn": [
-          "দাওয়াত না পাওয়ার ক্ষোভে এক ব্যক্তির বাড়িতে হামলা চালিয়ে ভাঙচুর করে দুর্বৃত্তরা",
-          "হামলার সময় স্বর্ণালঙ্কার ও নগদ ১০ লাখ টাকা লুট করা হয়েছে বলে অভিযোগ উঠেছে",
-          "ভাঙচুরের সময় একাধিক ককটেল বোমা বিস্ফোরণ ঘটিয়ে পুরো এলাকায় চরম আতঙ্ক সৃষ্টি করা হয়"
-        ],
-        "bullets_en": [
-          "Assailants launched a violent attack on a residential house due to a personal dispute over a wedding invitation snub.",
-          "Victims reported that gold ornaments and ten lakh taka in cash were looted during the raid.",
-          "Multiple crude cocktail bombs were detonated on site to spread panic among local residents."
-        ],
-        "impact_bn": "রাজনৈতিক প্রভাবশালীদের এমন সহিংস কর্মকাণ্ড সাধারণ মানুষের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে এবং জনমনে আতঙ্ক তৈরি করছে।",
-        "impact_en": "Such violent acts by politically connected individuals heighten insecurity and terrorize ordinary residents in local communities.",
-        "details_bn": "মাদারীপুর সদর উপজেলার কালিকাপুর ইউনিয়নের দক্ষিণ এলাকায় ব্যক্তিগত বিরোধ ও বিয়ের দাওয়াত নিয়ে দ্বন্দ্বের জেরে এই হামলার ঘটনা ঘটে। স্থানীয় প্রভাবশালীদের এমন আচরণ ও রাজনৈতিক ছত্রছায়ায় অপরাধমূলক কর্মকাণ্ড পরিচালনার অভিযোগ প্রায়ই এলাকায় নিরাপত্তা সংকট তৈরি করে। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নিষ্ক্রিয়তার সুযোগে অপরাধীরা পার পেয়ে যাওয়ায় সাধারণ মানুষ প্রতিনিয়ত নিরাপত্তাহীনতায় ভুগছেন।",
-        "details_en": "The attack occurred in the South area of Kalikapur union under Madaripur Sadar upazila following a dispute over a family wedding invitation. Local residents frequently face security threats due to the alleged impunity enjoyed by politically affiliated actors. Such incidents underscore recurring law and order challenges involving local political figures."
-      }
-    },
-    {
-      "story_id": "b593d390-398e-5472-9af9-8d61933d44d3",
+      "story_id": "4c49e1c8-280a-5a01-9196-2cfcd806da6f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -68,160 +12,52 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/JPEG-8-1.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-08-07%2Fxut3id4d%2FSongsob.jpg?rect=0%2C99%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T14:29:19+00:00",
+      "published_at": "2026-10-24T15:51:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4364,
+      "importance_score": 6.6,
+      "rank_score": 2.4313,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/police-attacked-during-a-procession-by-the-banned-jubo-league-and-chhatra-league-2-injured/",
-          "title": "নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলা, আহত ২",
-          "snippet": "নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলা, আহত ২"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/as9wa6q38m",
+          "title": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে",
+          "snippet": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে নিষিদ্ধ সংগঠনগুলোর মিছিল থেকে পুলিশের ওপর হামলা, আহত দুই",
-        "title_en": "Police Attacked During Banned Group Processions in Gopalganj, Two Injured",
-        "summary_bn": "গোপালগঞ্জে নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলার ঘটনায় দুই পুলিশ সদস্য আহত এবং একটি গাড়ি ভাঙচুর করা হয়েছে।",
-        "summary_en": "Two police officers were injured and a patrol vehicle was vandalized during an attack by banned Jubo League and Chhatra League processions in Gopalganj.",
+        "title_bn": "সংবিধান সংশোধন কমিটিতে তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা উপস্থাপন",
+        "title_en": "New Proposal for Caretaker Government Structure Presented to Constitution Reform Committee",
+        "summary_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন একটি ধারণা উত্থাপিত হয়েছে।",
+        "summary_en": "A new proposal to form an interim caretaker government from an upper house of parliament has been raised at a reform committee meeting.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:29:19+00:00",
-        "lead_bn": "গোপালগঞ্জে নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলার ঘটনায় দুই পুলিশ সদস্য আহত এবং একটি গাড়ি ভাঙচুর করা হয়েছে।",
-        "lead_en": "Two police officers were injured and a patrol vehicle was vandalized during an attack by banned Jubo League and Chhatra League processions in Gopalganj.",
+        "published_at": "2026-10-24T15:51:42+00:00",
+        "lead_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন একটি ধারণা উত্থাপিত হয়েছে।",
+        "lead_en": "A new proposal to form an interim caretaker government from an upper house of parliament has been raised at a reform committee meeting.",
         "bullets_bn": [
-          "নিষিদ্ধ ঘোষিত যুবলীগ ও ছাত্রলীগের একটি মিছিল থেকে পুলিশের ওপর আকস্মিক লাঠিসোটা নিয়ে হামলা চালানো হয়।",
-          "হামলায় সদর থানার এসআই ফুলমিয়াসহ দুই পুলিশ সদস্য আহত হয়ে গোপালগঞ্জ ২৫০ শয্যাবিশিষ্ট জেনারেল হাসপাতালে চিকিৎসা নেন।",
-          "পুলিশের ওপর হামলা ও গাড়ি ভাঙচুরের ঘটনায় জড়িত নিষিদ্ধ সংগঠনের সদস্যদের গ্রেপ্তারে আইনপ্রয়োগকারী সংস্থার অভিযান চলছে।"
+          "সংসদের উচ্চকক্ষ গঠন করে সেখান থেকে তত্ত্বাবধায়ক সরকার গঠনের প্রস্তাব দেওয়া হয়েছে।",
+          "বিশেষ কমিটির সভায় সংবিধান বিশেষজ্ঞ ও সুপ্রিম কোর্টের আইনজীবীসহ ৪৪ জন অংশ নেন।",
+          "তত্ত্বাবধায়ক সরকারব্যবস্থার রূপরেখা চূড়ান্ত না হওয়ায় পরবর্তী পর্যালোচনার প্রক্রিয়া চলমান রয়েছে।"
         ],
         "bullets_en": [
-          "A procession by banned Jubo League and Chhatra League activists launched a sudden baton attack on police officers.",
-          "Two police personnel, including SI Fulmia of Sadar Police Station, sustained injuries and received treatment at Gopalganj 250-bed General Hospital.",
-          "Law enforcement agencies have launched operations to arrest the perpetrators involved in the assault and vehicle vandalism."
+          "A proposal was floated to form a caretaker government from a newly introduced upper house of parliament.",
+          "Forty-four participants, including constitutional experts and supreme court lawyers, attended the special committee meeting.",
+          "The framework for the caretaker government remains unfinalized as discussions and reviews continue."
         ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও সহিংসতার কারণে স্থানীয় সাধারণ মানুষের মধ্যে আতঙ্ক ও উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Violence and clashes create heightened public anxiety and disrupt normal civic life for local residents.",
-        "details_bn": "গোপালগঞ্জ সদর উপজেলার বেদগ্রাম খেয়াঘাট এলাকায় পুলিশের নিয়মিত টহল চলাকালে নিষিদ্ধ ঘোষিত যুবলীগ ও ছাত্রলীগের নেতাকর্মীরা সাবেক প্রধানমন্ত্রীর পক্ষে একটি মিছিল বের করে। পুলিশ বাধা দিলে মিছিলকারীরা চড়াও হয় এবং হামলা চালায়। পরে পুলিশ সদস্যরা পরিস্থিতি নিয়ন্ত্রণে অতিরিক্ত ফোর্স মোতায়েন ও অভিযুক্তদের গ্রেপ্তারে অভিযান শুরু করে।",
-        "details_en": "During regular police patrols in the Vedgram Kheyaaghat area of Gopalganj Sadar, members of the banned Jubo League and Chhatra League took out a procession in support of the former prime minister. When police attempted to intervene, the participants turned violent and launched an assault. Authorities subsequently deployed additional forces and initiated a manhunt to arrest the suspects involved."
+        "impact_bn": "এই সংস্কার বাস্তবায়িত হলে জাতীয় নির্বাচন ও গণতান্ত্রিক ব্যবস্থার কাঠামোতে বড় ধরনের পরিবর্তন আসবে।",
+        "impact_en": "These structural reforms will directly reshape the framework of future national elections and democratic governance.",
+        "details_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির সভায় বিচার বিভাগের স্বাধীন সচিবালয় প্রতিষ্ঠা, রাষ্ট্রপতির ক্ষমতার ভারসাম্য আনা, এবং সংসদীয় কমিটির ক্ষমতা বাড়ানোর মতো নানা প্রস্তাব নিয়ে আলোচনা হয়েছে। সংসদ দুই কক্ষের হলে উচ্চকক্ষ থেকে তত্ত্বাবধায়ক সরকার গঠনের এই প্রস্তাবটি রাজনৈতিক অঙ্গনে নতুন আলোচনার জন্ম দিয়েছে। তবে রূপরেখা এখনো চূড়ান্ত হয়নি।",
+        "details_en": "The special committee on constitutional reform held extensive discussions with legal experts regarding structural changes, including an independent judicial secretariat, balancing executive powers, and forming an upper house. The proposal to constitute a caretaker government through an upper house marks a notable addition to ongoing reform debates, though no final decisions have been reached yet."
       }
     },
     {
-      "story_id": "064eecdc-b1dc-5ad6-80aa-8caa7940db7e",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/hansi-1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T14:59:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9543,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/el-clasico-jose-mourinho-barcelona-real-madrid-lead-sports-2/",
-          "title": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন দুই কোচ",
-          "snippet": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন দুই কোচ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন বার্সা ও রিয়াল কোচ",
-        "title_en": "Barca and Real Coaches Praise Each Other Ahead of El Clasico",
-        "summary_bn": "মৌসুমের প্রথম এল ক্ল্যাসিকোর আগে বার্সেলোনা ও রিয়াল মাদ্রিদের কোচ একে অপরের প্রশংসা করে নিজেদের পারস্পরিক সমীহ প্রকাশ করেছেন।",
-        "summary_en": "Coaches of Barcelona and Real Madrid exchanged mutual praise and respect ahead of the season's first El Clasico.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:59:07+00:00",
-        "lead_bn": "মৌসুমের প্রথম এল ক্ল্যাসিকোর আগে বার্সেলোনা ও রিয়াল মাদ্রিদের কোচ একে অপরের প্রশংসা করে নিজেদের পারস্পরিক সমীহ প্রকাশ করেছেন।",
-        "lead_en": "Coaches of Barcelona and Real Madrid exchanged mutual praise and respect ahead of the season's first El Clasico.",
-        "bullets_bn": [
-          "এল ক্ল্যাসিকোর প্রাক্কালে রিয়াল মাদ্রিদ ও বার্সেলোনা কোচ একে অপরের কোচিং কৌশল এবং দলের দক্ষতার প্রশংসা করেন।",
-          "রিয়াল কোচ হান্সি ফ্লিককে দারুণ কোচ বলে অভিহিত করেন এবং বার্সা কোচ তাকে দীর্ঘমেয়াদী সফলতার জন্য শ্রদ্ধা জানান।",
-          "দুই চিরপ্রতিদ্বন্দ্বী দলের এই হাইভোল্টেজ ম্যাচটি ফুটবলপ্রেমীদের মধ্যে ব্যাপক উন্মাদনার সৃষ্টি করেছে।"
-        ],
-        "bullets_en": [
-          "Coaches of Real Madrid and Barcelona praised each other's coaching prowess and team capabilities ahead of the El Clasico.",
-          "The Real coach described Hansi Flick as a great coach while the Barca boss praised his counterpart's sustained success.",
-          "This high-voltage encounter between the two arch-rivals has generated massive excitement among football fans worldwide."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্প্যানিশ ফুটবলের দুই চিরপ্রতিদ্বন্দ্বী বার্সেলোনা ও রিয়াল মাদ্রিদের মধ্যকার ম্যাচটি বিশ্বজুড়ে এল ক্ল্যাসিকো হিসেবে পরিচিত। ম্যাচটিকে কেন্দ্র করে ঐতিহ্যগতভাবেই খেলোয়াড় ও কোচদের মধ্যে কথার লড়াই ও উত্তাপ ছড়ায়। তবে সাম্প্রতিক সময়ে দুই দলের কোচদের এমন পারস্পরিক সম্মান প্রদর্শন ফুটবলের মাঠের সৌহার্দ্যপূর্ণ মনোভাবের এক উজ্জ্বল দৃষ্টান্ত স্থাপন করেছে।",
-        "details_en": "The match between Spanish football arch-rivals Barcelona and Real Madrid is globally known as El Clasico. Traditionally, this fixture brings intense rivalry and war of words between camps. However, the recent exchange of mutual respect between the respective coaches sets a fine example of sportsmanship ahead of the high-stakes clash."
-      }
-    },
-    {
-      "story_id": "f48574bc-ce46-521f-a3c1-f0fc305c1f44",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T14:48:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8543,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976495/%E0%A6%A8%E0%A6%BF%E0%A6%9C-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A7%87",
-          "title": "নিজ দোকানে বসে ছিলেন ব্যবসায়ী, পেটে গুলি করে চলে গেলো দুজন",
-          "snippet": "নিজ দোকানে বসে ছিলেন ব্যবসায়ী, পেটে গুলি করে চলে গেলো দুজন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খুলনায় নিজ দোকানে মুদি ব্যবসায়ীকে গুলি করেছে দুর্বৃত্তরা",
-        "title_en": "Gunmen Shoot Grocery Shop Owner Inside Store in Khulna",
-        "summary_bn": "খুলনা সদর থানা এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডু নামের এক মুদি ব্যবসায়ীকে গুলি করে পালিয়ে যায় দুর্বৃত্তরা।",
-        "summary_en": "Unidentified gunmen shot and injured grocery shop owner Akash Kundu while he was sitting inside his store in Khulna.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:48:17+00:00",
-        "lead_bn": "খুলনা সদর থানা এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডু নামের এক মুদি ব্যবসায়ীকে গুলি করে পালিয়ে যায় দুর্বৃত্তরা।",
-        "lead_en": "Unidentified gunmen shot and injured grocery shop owner Akash Kundu while he was sitting inside his store in Khulna.",
-        "bullets_bn": [
-          "দক্ষিণ টুটপাড়া এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডুর পেটে গুলি করে দুই দুর্বৃত্ত।",
-          "গুলিবিদ্ধ আকাশ কুন্ডুকে দ্রুত উদ্ধার করে খুলনা মেডিক্যাল কলেজ হাসপাতালে ভর্তি করা হয়েছে।",
-          "ঘটনার পর এলাকায় আতঙ্ক ছড়িয়ে পড়ে এবং হামলাকারীদের শনাক্ত করতে পুলিশ অভিযান শুরু করেছে।"
-        ],
-        "bullets_en": [
-          "Two assailants shot grocery owner Akash Kundu in the abdomen while he sat inside his store in South Tutpara.",
-          "Locals swiftly rescued the wounded victim and rushed him to Khulna Medical College Hospital for emergency treatment.",
-          "Law enforcement launched a manhunt to identify and capture the perpetrators behind the targeted shooting."
-        ],
-        "impact_bn": "স্থানীয় ব্যবসায়ীদের মধ্যে চরম নিরাপত্তাহীনতা ও ক্ষোভের সৃষ্টি করেছে এই নৃশংস সশস্ত্র হামলা।",
-        "impact_en": "The armed attack has triggered panic and raised severe safety concerns among local business owners.",
-        "details_bn": "খুলনা সদর থানা এলাকার দক্ষিণ টুটপাড়া ক্রসরোড গাছতলা মন্দিরের সামনে এই হামলার ঘটনা ঘটে। মুদি দোকানদার আকাশ কুন্ডু নিজের ব্যবসা পরিচালনা করার সময় হঠাৎ দুই দুর্বৃত্ত অতর্কিত হামলা চালায় এবং পেটে গুলি করে দ্রুত পালিয়ে যায়। স্থানীয়রা তাকে রক্তাক্ত অবস্থায় উদ্ধার করে হাসপাতালে ভর্তি করেন। আইনশৃঙ্খলা রক্ষাকারী বাহিনী হামলাকারীদের গ্রেফতারে তদন্ত ও অভিযান অব্যাহত রেখেছে।",
-        "details_en": "The shooting took place in front of a local temple area in South Tutpara under Khulna Sadar Police Station. Victim Akash Kundu was inside his grocery shop when two armed assailants suddenly opened fire, hitting him in the abdomen before fleeing the scene. Locals rushed the injured trader to Khulna Medical College Hospital. Police have launched an investigation to track down the attackers."
-      }
-    },
-    {
-      "story_id": "87fe52f1-6597-582a-9304-e2a1f0d1c770",
+      "story_id": "b8364780-c941-5f62-9d01-de22f93e9add",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -232,50 +68,214 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T14:47:39+00:00",
+      "published_at": "2026-10-24T15:46:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8491,
+      "importance_score": 4.8,
+      "rank_score": 1.6875,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171550",
-          "title": "ক্ষুধা মোকাবিলায় বাংলাদেশ-ভারতের চেয়ে পিছিয়ে পাকিস্তান",
-          "snippet": "ক্ষুধা মোকাবিলায় বাংলাদেশ-ভারতের চেয়ে পিছিয়ে পাকিস্তান"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/europe/976507/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%9B%E0%A7%87",
+          "title": "ফ্রান্সে বর্ণবাদী হামলা, ইউরোপজুড়ে কি বাড়ছে ইসলামবিদ্বেষ?",
+          "snippet": "ফ্রান্সে বর্ণবাদী হামলা, ইউরোপজুড়ে কি বাড়ছে ইসলামবিদ্বেষ?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ক্ষুধা ও অপুষ্টি মোকাবিলায় বাংলাদেশ ও ভারতের চেয়ে পিছিয়ে পাকিস্তান",
-        "title_en": "Pakistan Lags Behind Bangladesh and India in Combating Hunger and Malnutrition",
-        "summary_bn": "দক্ষিণ এশিয়ার প্রতিবেশী দেশ বাংলাদেশ, ভারত ও নেপালের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় পাকিস্তান উল্লেখযোগ্যভাবে পিছিয়ে পড়েছে।",
-        "summary_en": "Pakistan is lagging significantly behind its South Asian neighbors Bangladesh, India, and Nepal in tackling hunger and malnutrition.",
+        "title_bn": "ফ্রান্সে বর্ণবাদী হামলায় একজন নিহত ও পাঁচজন আহত",
+        "title_en": "Racist Attack in France Leaves One Dead and Five Injured",
+        "summary_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
+        "summary_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five others injured.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:47:39+00:00",
-        "lead_bn": "দক্ষিণ এশিয়ার প্রতিবেশী দেশ বাংলাদেশ, ভারত ও নেপালের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় পাকিস্তান উল্লেখযোগ্যভাবে পিছিয়ে পড়েছে।",
-        "lead_en": "Pakistan is lagging significantly behind its South Asian neighbors Bangladesh, India, and Nepal in tackling hunger and malnutrition.",
+        "published_at": "2026-10-24T15:46:58+00:00",
+        "lead_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
+        "lead_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five others injured.",
         "bullets_bn": [
-          "দক্ষিণ এশিয়ার প্রতিবেশী দেশগুলোর তুলনায় পাকিস্তানের খাদ্য নিরাপত্তা পরিস্থিতি অবনতি হয়েছে।",
-          "বাংলাদেশ ও ভারত পুষ্টিহীনতা হ্রাসে পাকিস্তানের চেয়ে ভালো সূচক অর্জন করেছে।",
-          "পাকিস্তানের এই পেছনের সারিতে থাকা আঞ্চলিক খাদ্য সুরক্ষা কৌশল নিয়ে নতুন উদ্বেগের জন্ম দিয়েছে।"
+          "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলার ঘটনা ঘটেছে।",
+          "এই সন্ত্রাসী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
+          "নিত্যপণ্যের ঊর্ধ্বগতি ও জীবনযাত্রার ব্যয়বৃদ্ধির তীব্র আন্দোলনের মধ্যেই এই সহিংসতা ঘটে।"
         ],
         "bullets_en": [
-          "Pakistans food security situation has deteriorated compared to its South Asian neighbors.",
-          "Bangladesh and India have achieved better indicators than Pakistan in reducing malnutrition.",
-          "Pakistans lagging position has raised fresh concerns regarding regional food security strategies."
+          "A racist and Islamophobic attack took place in northern France.",
+          "The terrorist incident resulted in the death of one black individual and injuries to five others, including a 12-year-old child.",
+          "The violence occurred amid ongoing intense protests over soaring commodity prices and the rising cost of living."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দক্ষিণ এশিয়ার বিভিন্ন দেশের মধ্যে খাদ্য নিরাপত্তা, অপুষ্টি দূরীকরণ এবং কৃষি উৎপাদনের সূচক নিয়ে নিয়মিত মূল্যায়ন করে থাকে আন্তর্জাতিক বিভিন্ন সংস্থা। সাম্প্রতিক মূল্যায়নে দেখা গেছে, খাদ্য উৎপাদন ও বিতরণ ব্যবস্থায় পিছিয়ে পড়ার কারণে পাকিস্তান আঞ্চলিক অন্যান্য দেশের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় তলানিতে রয়েছে।",
-        "details_en": "International organizations regularly assess food security, malnutrition eradication, and agricultural production indices across South Asian nations. Recent evaluations indicate that lagging behind in food production and distribution systems has placed Pakistan at the bottom compared to other regional countries in combating hunger and malnutrition."
+        "impact_bn": "ইউরোপে বসবাসরত অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীর মধ্যে নিরাপত্তা নিয়ে উদ্বেগ ও আতঙ্ক বাড়ছে।",
+        "impact_en": "Security concerns and anxiety are rising among immigrant and minority communities living in Europe.",
+        "details_bn": "ফ্রান্সে জীবনযাত্রার ব্যয়বৃদ্ধি এবং নিত্যপণ্যের ঊর্ধ্বগতির বিরুদ্ধে দেশজুড়ে তীব্র আন্দোলন চলছে। এরই মধ্যে উত্তরের একটি অঞ্চলে বর্ণভিত্তিক ও ইসলামবিদ্বেষী হামলার ঘটনা ঘটল। ফরাসি প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁ এই হামলাকে সন্ত্রাসী ও বর্ণবাদী হিসেবে চিহ্নিত করেছেন। এই ধরনের সহিংসতা ইউরোপজুড়ে ক্রমবর্ধমান ইসলামবিদ্বেষ এবং সামাজিক উত্তেজনার বিষয়টি নতুন করে সামনে নিয়ে এসেছে।",
+        "details_en": "France has been witnessing intense nationwide protests against the rising cost of living and soaring commodity prices. Amid this unrest, a racially and Islamophobically motivated attack occurred in the northern region. French President Emmanuel Macron condemned the incident as a terrorist and racist act. Such violence has reignited concerns regarding the growing trend of Islamophobia and social tensions across Europe."
       }
     },
     {
-      "story_id": "cb1e5afd-90a1-588f-aa3f-1b52dd3aa0b7",
+      "story_id": "7bfd6731-8c19-5b9a-b5b1-d7c65f70a7df",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9637,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976506/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87",
+          "title": "প্রতিকার চাইতে গিয়ে উল্টো বিপাকে: মূল ঘটনাই আড়ালে পড়ে যাচ্ছে না তো?",
+          "snippet": "প্রতিকার চাইতে গিয়ে উল্টো বিপাকে: মূল ঘটনাই আড়ালে পড়ে যাচ্ছে না তো?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় উল্টো বিপাকে সাধারণ নাগরিক ও সংসদ সদস্য",
+        "title_en": "Citizens and Lawmaker Face Counter Charges While Seeking Justice in Gazipur and Brahmanbaria",
+        "summary_bn": "অন্যায়ের প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় অভিযোগকারী বাবা এবং সংসদ সদস্য উভয়েই পাল্টা আইনি ঝামেলা ও বিরোধের মুখে পড়েছেন।",
+        "summary_en": "Seeking justice for grievances led to counter charges and disputes for a grieving father and a lawmaker in Gazipur and Brahmanbaria.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T16:00:00+00:00",
+        "lead_bn": "অন্যায়ের প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় অভিযোগকারী বাবা এবং সংসদ সদস্য উভয়েই পাল্টা আইনি ঝামেলা ও বিরোধের মুখে পড়েছেন।",
+        "lead_en": "Seeking justice for grievances led to counter charges and disputes for a grieving father and a lawmaker in Gazipur and Brahmanbaria.",
+        "bullets_bn": [
+          "সন্তানের ওপর যৌন নিপীড়নের বিচার চাইতে গিয়ে গাজীপুরের টঙ্গীতে হামলার শিকার হন এক বাবা।",
+          "নিরাপত্তা ও পুলিশের অনিয়মের অভিযোগ নিয়ে ব্রাহ্মণবাড়িয়ার সরাইলে থানার ওসির সঙ্গে বাগবিতণ্ডায় জড়ান এক সংসদ সদস্য।",
+          "উভয় ঘটনাতেই পুলিশের পক্ষ থেকে সাধারণ ডায়েরি নথিভুক্ত করা হয়েছে এবং মূল অভিযোগ আড়ালে পড়ার শঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "A father faced counter allegations and vandalism while seeking justice for his child's sexual abuse in Gazipur.",
+          "A lawmaker engaged in a heated argument with the officer-in-charge of Sarail police station regarding security concerns.",
+          "Both incidents have been officially recorded in general diaries by law enforcement, raising public concern."
+        ],
+        "impact_bn": "বিচারপ্রার্থী সাধারণ মানুষের থানায় গিয়ে আইনি সহায়তা পাওয়ার ক্ষেত্রে আস্থার সংকট তৈরি করতে পারে এই ধরনের ঘটনা।",
+        "impact_en": "Such incidents can severely undermine public trust in seeking legal recourse and fair treatment at local police stations.",
+        "details_bn": "দেশের বিভিন্ন স্থানে সাধারণ মানুষ ও জনপ্রতিনিধিরা আইনি প্রতিকার বা সেবা চাইতে গিয়ে পুলিশি হয়রানি কিংবা পাল্টাপাল্টি আইনি জটিলতার মুখে পড়ছেন। গাজীপুরের টঙ্গীতে সন্তানের ওপর যৌন নিপীড়নের বিচার চাইতে যাওয়া এক বাবার বিরুদ্ধে হামলা ও অর্থ লুটের অভিযোগ আনা হয়েছে। অন্যদিকে ব্রাহ্মণবাড়িয়ার সরাইলে থানার ওসির অনিয়মের প্রতিবাদ করতে গিয়ে সংসদ সদস্যের সঙ্গে পুলিশের বাগবিতণ্ডার ঘটনা ঘটে, যা পরবর্তীতে সাধারণ ডায়েরিতে নথিভুক্ত হয়। এসব ঘটনা বিচারপ্রার্থীদের নিরাপত্তা ও আইনি প্রক্রিয়া নিয়ে নতুন প্রশ্নের জন্ম দিয়েছে।",
+        "details_en": "Incidents of citizens and public representatives facing counter-charges or harassment while seeking legal remedies have raised widespread concerns. In Gazipur's Tongi, a father seeking justice for his child's sexual abuse faced counter-allegations of vandalism and extortion. Meanwhile, a lawmaker in Brahmanbaria's Sarail engaged in a dispute with a police officer over alleged irregularities, which was later documented in a general diary. These parallel events highlight systemic challenges in accessing unbiased law enforcement support."
+      }
+    },
+    {
+      "story_id": "96e99617-9e65-5d76-a75a-13b3056fe314",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T15:56:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.929,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171570",
+          "title": "দেশের উন্নয়নের প্রধান অন্তরায় মাদক: সমাজকল্যাণমন্ত্রী",
+          "snippet": "দেশের উন্নয়নের প্রধান অন্তরায় মাদক: সমাজকল্যাণমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মাদক দেশের সামগ্রিক উন্নয়নের প্রধান অন্তরায় বলে মন্তব্য সমাজকল্যাণমন্ত্রীর",
+        "title_en": "Social Welfare Minister Declares Drug Abuse as Main Barrier to Development",
+        "summary_bn": "সমাজকল্যাণমন্ত্রী দেশের সার্বিক উন্নয়ন নিশ্চিত করতে মাদক নির্মূলের ওপর সর্বোচ্চ গুরুত্ব আরোপ করেছেন।",
+        "summary_en": "The Social Welfare Minister emphasized the urgent need to eradicate drug abuse to ensure national development.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T15:56:32+00:00",
+        "lead_bn": "সমাজকল্যাণমন্ত্রী দেশের সার্বিক উন্নয়ন নিশ্চিত করতে মাদক নির্মূলের ওপর সর্বোচ্চ গুরুত্ব আরোপ করেছেন।",
+        "lead_en": "The Social Welfare Minister emphasized the urgent need to eradicate drug abuse to ensure national development.",
+        "bullets_bn": [
+          "মাদককে দেশের উন্নয়ন যাত্রার সবচেয়ে বড় প্রতিবন্ধক হিসেবে চিহ্নিত করা হয়েছে।",
+          "যুবসমাজকে মাদকের করাল গ্রাস থেকে দূরে রাখতে হবে।",
+          "তরুণদের খেলাধুলা ও সাংস্কৃতিক কর্মকাণ্ডে ব্যাপকভাবে সম্পৃক্ত করার নির্দেশ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Drug abuse has been identified as the single biggest obstacle to national development.",
+          "The youth must be shielded from the destructive grip of narcotics.",
+          "Authorities directed widespread engagement of young people in sports and cultural activities."
+        ],
+        "impact_bn": "মাদকবিরোধী এই পদক্ষেপে যুবসমাজ বিপথগামিতা থেকে রক্ষা পেয়ে সুস্থ ধারার সংস্কৃতির দিকে ঝুঁকবে।",
+        "impact_en": "This anti-drug stance helps protect youth from moral degradation while promoting healthy cultural and athletic engagement.",
+        "details_bn": "মাদকদ্রব্যের অপব্যবহার রোধ এবং যুবসমাজকে রক্ষা করার বিষয়টি দীর্ঘদিন ধরে নীতিনির্ধারক মহলে প্রধান আলোচনার বিষয় হয়ে আসছে। অপরাধপ্রবণতা বৃদ্ধি এবং তরুণ প্রজন্মের শারীরিক ও মানসিক ক্ষতি রোধে সরকারের পক্ষ থেকে বিভিন্ন সময় সচেতনতামূলক কার্যক্রম ও সামাজিক আন্দোলন গড়ে তোলার ওপর জোর দেওয়া হয়েছে।",
+        "details_en": "The prevention of substance abuse and the protection of the younger generation have remained major focal points for policymakers. The government has repeatedly emphasized awareness campaigns and social movements to curb rising crime rates and prevent the physical and mental deterioration of youth."
+      }
+    },
+    {
+      "story_id": "9f0ef782-b2ec-56e1-af35-0a184ae276c6",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T15:48:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.853,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171566",
+          "title": "কেন্দ্রীয় কারাগারে ডেঙ্গু আক্রান্ত হাজতির হাসপাতালে মৃত্যু",
+          "snippet": "কেন্দ্রীয় কারাগারে ডেঙ্গু আক্রান্ত হাজতির হাসপাতালে মৃত্যু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গুতে আক্রান্ত হাজতির মৃত্যু",
+        "title_en": "Inmate Dies of Dengue at Dhaka Central Jail",
+        "summary_bn": "কেরানীগঞ্জের ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গু জ্বরে আক্রান্ত হয়ে চিকিৎসাধীন অবস্থায় এক হাজতির মৃত্যু হয়েছে।",
+        "summary_en": "An inmate undergoing treatment for dengue fever has died at the Dhaka Central Jail in Keraniganj.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T15:48:05+00:00",
+        "lead_bn": "কেরানীগঞ্জের ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গু জ্বরে আক্রান্ত হয়ে চিকিৎসাধীন অবস্থায় এক হাজতির মৃত্যু হয়েছে।",
+        "lead_en": "An inmate undergoing treatment for dengue fever has died at the Dhaka Central Jail in Keraniganj.",
+        "bullets_bn": [
+          "ডেঙ্গু আক্রান্ত হাজতিকে উন্নত চিকিৎসার জন্য ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়।",
+          "কর্তব্যরত চিকিৎসক পরীক্ষা-নিরীক্ষা শেষে ওই হাজতিকে মৃত বলে ঘোষণা করেন।",
+          "কারাগারগুলোতে ডেঙ্গু সংক্রমণ রোধে স্বাস্থ্যবিধি ও পরিচ্ছন্নতা অভিযান জোরদারের নির্দেশনা দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The dengue-infected inmate was transferred to Dhaka Medical College Hospital for advanced treatment.",
+          "Attending physicians declared the inmate dead after necessary examinations.",
+          "Authorities directed intensified hygiene and cleanliness drives to curb dengue outbreaks in prisons."
+        ],
+        "impact_bn": "কারাগারে থাকা বন্দীদের স্বাস্থ্য সুরক্ষা ও ডেঙ্গু প্রতিরোধে কর্তৃপক্ষের অবহেলা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Concerns have heightened regarding inmate health safety and the inadequacy of dengue prevention measures in correctional facilities.",
+        "details_bn": "বর্ষা মৌসুমে ঢাকাসহ দেশের বিভিন্ন কারাগারে এডিস মশাবাহিত রোগ ডেঙ্গুর প্রাদুর্ভাব উদ্বেগের কারণ হয়ে দাঁড়িয়েছে। এর আগেও বন্দীদের মধ্যে ডেঙ্গু আক্রান্ত হওয়ার ও মৃত্যুর ঘটনা ঘটেছে। কারাবন্দীদের চিকিৎসাসেবা নিশ্চিত করা এবং কারাগারের পরিবেশ মশামুক্ত রাখতে মানবাধিকার সংগঠনগুলো দীর্ঘদিন ধরে দাবি জানিয়ে আসছে।",
+        "details_en": "The outbreak of Aedes-borne dengue has become a growing concern in prisons across Dhaka and the country during the monsoon season. Prior instances of dengue infections and fatalities among inmates have been reported. Human rights organizations have long demanded ensured medical care for prisoners and mosquito eradication within correctional facilities."
+      }
+    },
+    {
+      "story_id": "5f4f0d22-b7bd-5fb1-917e-e9d80f25a0c8",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business"
@@ -284,48 +284,48 @@
         "#Economy",
         "#Finance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/JPEG-10.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T14:43:18+00:00",
+      "published_at": "2026-10-24T15:43:19+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8144,
+      "rank_score": 0.8148,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171547",
-          "title": "শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকাসহ সোনা-রুপা",
-          "snippet": "শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকাসহ সোনা-রুপা"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/8-8-million-taka-along-with-gold-silver-and-currency-from-18-countries-found-in-the-donation-box-at-the-shrine-of-shahjalal-ra/",
+          "title": "শাহজালাল (রহ.) মাজারের দানবাক্সে মিলল ৮৮ লাখ টাকা, সোনা-রুপা সহ ১৮ দেশের মুদ্রা",
+          "snippet": "শাহজালাল (রহ.) মাজারের দানবাক্সে মিলল ৮৮ লাখ টাকা, সোনা-রুপা সহ ১৮ দেশের মুদ্রা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটের হযরত শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকা",
-        "title_en": "Hazrat Shah Jalal Shrine Donation Boxes Yield 8.8 Lakh Taka",
-        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি এবং সোনা-রুপা পাওয়া গেছে।",
-        "summary_en": "Donation boxes and containers at the Hazrat Shah Jalal shrine in Sylhet yielded over 8.8 million taka in cash and valuables.",
+        "title_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে ৮৮ লাখ টাকা উদ্ধার",
+        "title_en": "Hazrat Shahjalal Shrine Donation Boxes Yield 88 Million Taka",
+        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি, স্বর্ণ ও বিভিন্ন বৈদেশিক মুদ্রা পাওয়া গেছে।",
+        "summary_en": "Authorities recovered over 8.8 million Taka, gold, and diverse foreign currencies from donation boxes at the Hazrat Shahjalal Shrine.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:43:18+00:00",
-        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি এবং সোনা-রুপা পাওয়া গেছে।",
-        "lead_en": "Donation boxes and containers at the Hazrat Shah Jalal shrine in Sylhet yielded over 8.8 million taka in cash and valuables.",
+        "published_at": "2026-10-24T15:43:19+00:00",
+        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি, স্বর্ণ ও বিভিন্ন বৈদেশিক মুদ্রা পাওয়া গেছে।",
+        "lead_en": "Authorities recovered over 8.8 million Taka, gold, and diverse foreign currencies from donation boxes at the Hazrat Shahjalal Shrine.",
         "bullets_bn": [
-          "মাজারের তিনটি ডেগ ও পাঁচটি দানবাক্স থেকে নগদ অর্থ ও মূল্যবান ধাতু সংগ্রহ করা হয়েছে।",
-          "গণনা শেষে মোট নগদ ৮৮ লাখ ৬৫ হাজার ৮০৪ টাকা পাওয়া গেছে।",
-          "জমে থাকা এসব অর্থ ও সম্পদ পরবর্তীতে নির্দিষ্ট নিয়ম অনুযায়ী মাজারের তহবিলে জমা করা হয়।"
+          "হজরত শাহজালাল মাজারের তিনটি ডেগ ও পাঁচটি দানবাক্স খুলে নগদ অর্থ ও মূল্যবান সামগ্রী গণনা করা হয়।",
+          "দানবাক্সগুলো থেকে মোট ৮৮ লাখ ৬৫ হাজার ৮০৪ টাকা, নির্দিষ্ট পরিমাণ স্বর্ণ, রৌপ্য এবং ১৮ দেশের বৈদেশিক মুদ্রা উদ্ধার করা হয়।",
+          "মাজারের আর্থিক ব্যবস্থাপনায় স্বচ্ছতা আনতে নতুন জনবল নিয়োগের মাধ্যমে প্রতিদিন দানের টাকা গণনার সিদ্ধান্ত নিয়েছে কর্তৃপক্ষ।"
         ],
         "bullets_en": [
-          "Cash and valuables were collected from three large pots and five donation boxes at the shrine.",
-          "Counting revealed a total cash amount of 8,865,804 taka along with gold and silver items.",
-          "The collected funds and assets are deposited into the shrine's official accounts following standard procedures."
+          "Authorities opened three large pots and five donation boxes at the Hazrat Shahjalal Shrine for counting.",
+          "The count yielded 8,865,804 Taka in cash alongside gold, silver, and currencies from 18 foreign countries.",
+          "Shrine authorities plan to implement daily counting through newly appointed management staff to ensure financial transparency."
         ],
-        "impact_bn": "মাজারের এই সংগৃহীত তহবিল ধর্মীয় ও দাতব্য কাজে ব্যয় হওয়ায় স্থানীয় অর্থনীতি ও সমাজকল্যাণে ভূমিকা রাখে।",
-        "impact_en": "The funds collected from the shrine contribute to local religious and charitable activities.",
-        "details_bn": "সিলেটের হযরত শাহজালাল (রহ.) মাজারে ভক্ত ও দর্শনার্থীরা নিয়মিত দেশি-বিদেশি মুদ্রা এবং মূল্যবান সামগ্রী দান করেন। নির্দিষ্ট সময় পরপর প্রশাসনিক উপস্থিতিতে এসব দানবাক্স খোলা হয় এবং নিয়মতান্ত্রিক উপায়ে গণনা করে তহবিলে জমা দেওয়া হয়। এই অর্থ মাজারের উন্নয়ন ও রক্ষণাবেক্ষণের কাজে ব্যয় করা হয়ে থাকে।",
-        "details_en": "Devotees and visitors regularly donate local and foreign currencies along with valuables at the shrine of Hazrat Shah Jalal in Sylhet. These donation boxes are periodically opened in the presence of administration officials, counted systematically, and deposited into the shrine fund for maintenance and developmental purposes."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সিলেটের হযরত শাহজালাল (রহ.) মাজারের আর্থিক ব্যবস্থাপনায় স্বচ্ছতা আনতে গত ২৩ সেপ্টেম্বর গঠিত কমিটির সভায় প্রতিদিন দানের টাকা গণনার সিদ্ধান্ত নেওয়া হয়। এর অংশ হিসেবে একজন ব্যবস্থাপক, হিসাবরক্ষক ও অফিস সহকারী নিয়োগের কথা রয়েছে। তবে নিয়োগপ্রক্রিয়া এখনো শেষ না হওয়ায় নির্দিষ্ট সময় পরপর দানবাক্স খুলে অর্থ গণনা করা হচ্ছে। অতীতেও নিয়মিত বিরতিতে মাজারের দানবাক্স ও ডেগ থেকে নগদ টাকা, বৈদেশিক মুদ্রা ও অলংকার পাওয়া গেছে।",
+        "details_en": "To ensure financial transparency, a committee formed on September 23 decided to count donations daily at the Hazrat Shahjalal Shrine by appointing dedicated management staff. As the recruitment process remains incomplete, authorities periodically open the shrine boxes for collection counts. Historically, regular openings of these donation pots and boxes have consistently yielded substantial local cash, precious metals, and diverse foreign currencies."
       }
     }
   ]
