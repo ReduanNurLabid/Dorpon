@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T19:00:50.228394",
+  "updated_at": "2026-10-24T20:00:49.474833",
   "total_stories": 6,
   "stories": [
     {
@@ -17,7 +17,7 @@
       "published_at": "2026-10-24T18:23:59+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.374,
+      "rank_score": 0.9023,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -28,9 +28,9 @@
       ],
       "daily_buzz": {
         "title_bn": "শাহজালাল বিমানবন্দর থেকে সৌদিগামী ১৪৪ ফ্লাইট বাতিল",
-        "title_en": "Saudi-Bound Flights Cancelled from Shahjalal Airport",
-        "summary_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী মোট ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজারো যাত্রী।",
-        "summary_en": "Thousands of passengers face uncertainty as a total of 144 Saudi-bound flights are cancelled from Hazrat Shahjalal International Airport.",
+        "title_en": "Saudi-Bound Flights Cancelled From Shahjalal Airport",
+        "summary_bn": "শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী মোট ১৪৪টি ফ্লাইট বাতিল হওয়ায় ২২ হাজারের বেশি যাত্রী আটকা পড়েছেন।",
+        "summary_en": "A total of 144 Saudi-bound flights from Shahjalal International Airport have been cancelled, stranding over 22,000 passengers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -38,22 +38,76 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T18:23:59+00:00",
-        "lead_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী মোট ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজারো যাত্রী।",
-        "lead_en": "Thousands of passengers face uncertainty as a total of 144 Saudi-bound flights are cancelled from Hazrat Shahjalal International Airport.",
+        "lead_bn": "শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী মোট ১৪৪টি ফ্লাইট বাতিল হওয়ায় ২২ হাজারের বেশি যাত্রী আটকা পড়েছেন।",
+        "lead_en": "A total of 144 Saudi-bound flights from Shahjalal International Airport have been cancelled, stranding over 22,000 passengers.",
         "bullets_bn": [
-          "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদিগামী ফ্লাইট বাতিলের ধারাবাহিকতায় মোট ১৪৪টি ফ্লাইট বাতিল করা হয়েছে।",
-          "বেবিচকের তথ্য অনুযায়ী বাতিল হওয়া এসব ফ্লাইটের মোট যাত্রীর সংখ্যা ছিল ২২ হাজার ২১ জন।",
+          "বেবিচকের তথ্য অনুযায়ী শাহজালাল বিমানবন্দর থেকে সৌদিগামী ফ্লাইট বাতিলের এই ধারাবাহিকতা বজায় রয়েছে।",
+          "বাতিল হওয়া মোট ১৪৪টি ফ্লাইটের মাধ্যমে ২২ হাজার ২১ জন যাত্রী গন্তব্যে যেতে পারেননি।",
           "বাতিল হওয়া ফ্লাইটের মধ্যে সরাসরি ফ্লাইটের সংখ্যা ছিল ৬৭টি।"
         ],
         "bullets_en": [
-          "A total of 144 Saudi-bound flights have been cancelled in an ongoing disruption from Hazrat Shahjalal International Airport.",
-          "According to CAAB, the cancelled flights affected a total of 22,021 passengers.",
-          "Among the cancelled flights, 67 were direct flights to destinations in Saudi Arabia."
+          "Authorities confirmed the ongoing cancellation of flights from Shahjalal International Airport to Saudi Arabia.",
+          "A total of 144 cancelled flights affected 22,021 passengers who faced severe travel disruptions.",
+          "Among the total cancelled flights, 67 were direct operations."
         ],
-        "impact_bn": "সৌদিগামী প্রবাসী কর্মীরা ফ্লাইট বাতিলের কারণে চরম ভোগান্তি ও কর্মক্ষেত্রে যোগদানের অনিশ্চয়তার মুখে পড়েছেন।",
-        "impact_en": "Expatriate workers bound for Saudi Arabia face severe distress and uncertainty regarding their employment.",
-        "details_bn": "শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী ফ্লাইট বাতিলের ধারাবাহিকতা শুরু হয়। বেসামরিক বিমান চলাচল কর্তৃপক্ষ বা বেবিচকের তথ্য অনুযায়ী, পর্যায়ক্রমে ফ্লাইট বাতিল হতে থাকায় যাত্রী সংখ্যা জমা হয়ে জটিলতার সৃষ্টি হয়। এতে করে মধ্যপ্রাচ্যগামী অভিবাসী শ্রমিকরা সময়মতো কর্মস্থলে ফেরা নিয়ে বিপাকে পড়েন। সংশ্লিষ্ট কর্তৃপক্ষ পরিস্থিতি স্বাভাবিক করতে এবং যাত্রীদের বিকল্প ব্যবস্থা করতে কাজ করছে।",
-        "details_en": "Flight cancellations toward Saudi Arabia began from Hazrat Shahjalal International Airport, creating a massive backlog. According to the Civil Aviation Authority of Bangladesh, the cumulative cancellations severely disrupted travel plans for thousands of migrant workers. Authorities are monitoring the situation as stranded passengers await alternative travel arrangements to join their workplaces in the Middle East."
+        "impact_bn": "সৌদিগামী হাজার হাজার প্রবাসী শ্রমিক ফ্লাইট বাতিলের কারণে চরম অনিশ্চয়তা ও আর্থিক ক্ষতির মুখে পড়েছেন।",
+        "impact_en": "Thousands of expatriate workers bound for Saudi Arabia face severe uncertainty and financial loss due to the flight cancellations.",
+        "details_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী ফ্লাইট বাতিলের এই সংকট তৈরি হয় নির্ধারিত কিছু ফ্লাইটের শিডিউল বিপর্যয় ও অনুমোদনের জটিলতার কারণে। এর ফলে হাজার হাজার প্রবাসী কর্মী যারা কর্মস্থলে ফেরার অপেক্ষায় ছিলেন, তারা বিমানবন্দরে আটকা পড়েন। বেসামরিক বিমান চলাচল কর্তৃপক্ষ পরিস্থিতি নিয়ন্ত্রণে এবং যাত্রীদের বিকল্প ব্যবস্থার বিষয়ে কাজ চালিয়ে যাচ্ছে।",
+        "details_en": "The crisis regarding cancelled Saudi-bound flights from Hazrat Shahjalal International Airport emerged due to schedule disruptions and clearance issues. Thousands of expatriate workers awaiting their return to workplaces found themselves stranded at the airport. The Civil Aviation Authority of Bangladesh is monitoring the situation and working on alternative arrangements for the affected passengers."
+      }
+    },
+    {
+      "story_id": "687cb459-43af-57cb-928e-b94a4efe03df",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T19:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8282,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976532/%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%93",
+          "title": "আইজিপির কঠোর বার্তার দিনে খুলনায় তিন স্থানে গুলি ও ভাঙচুর, আহত ২",
+          "snippet": "আইজিপির কঠোর বার্তার দিনে খুলনায় তিন স্থানে গুলি ও ভাঙচুর, আহত ২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আইজিপির সফরের দিনে খুলনায় তিন স্থানে গুলি ও ভাঙচুর, আহত দুই",
+        "title_en": "Shootings and Vandalism Leave Two Injured Across Three Spots in Khulna",
+        "summary_bn": "পুলিশ মহাপরিদর্শকের কঠোর বার্তার দিনে খুলনায় তিনটি স্থানে সহিংসতার ঘটনা ঘটেছে, যাতে দুজন গুলিবিদ্ধ হয়ে হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "summary_en": "Violence erupted across three locations in Khulna on the day of the Inspector General of Police warning, leaving two people injured.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T19:45:00+00:00",
+        "lead_bn": "পুলিশ মহাপরিদর্শকের কঠোর বার্তার দিনে খুলনায় তিনটি স্থানে সহিংসতার ঘটনা ঘটেছে, যাতে দুজন গুলিবিদ্ধ হয়ে হাসপাতালে চিকিৎসাধীন রয়েছেন।",
+        "lead_en": "Violence erupted across three locations in Khulna on the day of the Inspector General of Police warning, leaving two people injured.",
+        "bullets_bn": [
+          "খুলনায় পৃথক তিনটি স্থানে সহিংসতা ও গুলির ঘটনায় দুজন গুলিবিদ্ধ হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+          "সহিংসতার সময় একটি ক্লিনিকে হামলা চালিয়ে ব্যাপক ভাঙচুর করা হয়।",
+          "পুলিশের মহাপরিদর্শকের সন্ত্রাস দমনে কঠোর অবস্থানের ঘোষণা দেওয়ার দিনেই এই হামলার ঘটনা ঘটে।"
+        ],
+        "bullets_en": [
+          "Two individuals sustained gunshot wounds and were hospitalized following separate incidents of violence across three locations.",
+          "A clinic was attacked and extensively vandalized during the ongoing unrest.",
+          "The series of violent incidents occurred despite the Inspector General of Police announcing a strict stance against terrorism."
+        ],
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতিতে সাধারণ মানুষের মাঝে চরম আতঙ্ক ও জননিরাপত্তা নিয়ে বড় ধরনের প্রশ্ন তৈরি হয়েছে।",
+        "impact_en": "The deterioration of law and order has triggered widespread panic and serious concerns over public safety among citizens.",
+        "details_bn": "খুলনায় পুলিশের মহাপরিদর্শক মো. আলী হোসেন ফকিরের সন্ত্রাস দমনে কঠোর অবস্থানের ঘোষণা এবং সুধী সমাবেশের দিনে এই ধারাবাহিক সন্ত্রাসী কর্মকাণ্ড ঘটে। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর শীর্ষ কর্মকর্তার উপস্থিতির দিনেই এমন সহিংসতা সাধারণ মানুষের মধ্যে বড় ধরনের উদ্বেগ তৈরি করেছে। অপরাধীদের দমন করতে এবং জননিরাপত্তা নিশ্চিত করতে পুলিশের ভূমিকা নিয়ে স্থানীয় মহলে প্রশ্ন উঠেছে।",
+        "details_en": "The series of violent acts occurred during the visit of Inspector General of Police Mo. Ali Hossain Fakir, who had announced a strict stance against terrorism and attended a civic rally in Khulna. Such brazen violence in the presence of the top law enforcement official has sparked widespread concern and raised questions about police capability in ensuring immediate public security and deterring local criminal elements."
       }
     },
     {
@@ -72,7 +126,7 @@
       "published_at": "2026-10-24T17:25:15+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.9091,
+      "rank_score": 0.6609,
       "sources": [
         {
           "name": "Channel i",
@@ -82,10 +136,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পদত্যাগের দাবি নাকচ করলেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো",
-        "title_en": "FIFA President Gianni Infantino Rejects Calls for Resignation",
-        "summary_bn": "ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে প্রাতিষ্ঠানিক অস্থিরতার মাঝেও পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করেছেন।",
-        "summary_en": "FIFA President Gianni Infantino has directly rejected calls for his resignation amid institutional turmoil over commercial rights plans.",
+        "title_bn": "পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করলেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো",
+        "title_en": "FIFA President Gianni Infantino Rejects Calls for His Resignation",
+        "summary_bn": "বিশ্বকাপের বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে সমালোচনার মুখে পদত্যাগের দাবি উড়িয়ে দিয়েছেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো।",
+        "summary_en": "FIFA President Gianni Infantino has dismissed calls for his resignation amid mounting criticism over commercial rights plans.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,78 +148,132 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T17:25:15+00:00",
-        "lead_bn": "ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে প্রাতিষ্ঠানিক অস্থিরতার মাঝেও পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করেছেন।",
-        "lead_en": "FIFA President Gianni Infantino has directly rejected calls for his resignation amid institutional turmoil over commercial rights plans.",
+        "lead_bn": "বিশ্বকাপের বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে সমালোচনার মুখে পদত্যাগের দাবি উড়িয়ে দিয়েছেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো।",
+        "lead_en": "FIFA President Gianni Infantino has dismissed calls for his resignation amid mounting criticism over commercial rights plans.",
         "bullets_bn": [
-          "বিশ্ব ফুটবলের বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা বাতিল হওয়ার পর ফিফা সভাপতি জিয়ান্নি ইনফান্তিনোর পদত্যাগের দাবি ওঠে।",
-          "বিশ্ব ফুটবলের সিংহভাগ সদস্য অ্যাসোসিয়েশনের সমর্থন তার পক্ষে রয়েছে বলে দাবি করেছেন ইনফান্তিনো।",
-          "উয়েফা আগামী নভেম্বরের মধ্যে ফিফার আলোচিত উদ্যোগ সংক্রান্ত সমস্ত নথিপত্র প্রকাশের সময়সীমা বেঁধে দিয়েছে।"
+          "ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো তার পদত্যাগের দাবি জোরালোভাবে প্রত্যাখ্যান করেছেন।",
+          "তিনি দাবি করেন যে বিশ্বফুটবল সম্প্রদায়ের বিপুল সংখ্যাগরিষ্ঠ অংশ এখনও তার পক্ষে রয়েছে।",
+          "উয়েফা এফএফই সম্পর্কিত সমস্ত নথিপত্র প্রকাশের জন্য সময়সীমা নির্ধারণ করেছে।"
         ],
         "bullets_en": [
-          "Calls for FIFA President Gianni Infantino to resign emerged following the cancellation of a controversial commercial rights sale plan.",
-          "Infantino asserted that the vast majority of member associations across global football continue to support his leadership.",
-          "UEFA has set a deadline for FIFA to release all related documents regarding the enterprise initiative."
+          "FIFA President Gianni Infantino firmly rejected growing calls for his resignation from office.",
+          "He stated that a vast majority of the global football community still supports his leadership.",
+          "UEFA has demanded the publication of all related documents regarding the commercial enterprise."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফিফার বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনাকে কেন্দ্র করে উয়েফা, কনকাকাফ এবং এশিয়ান ফুটবল কনফেডারেশনের তীব্র সমালোচনার মুখে পড়ে ফিফা প্রশাসন। বেসরকারি বিনিয়োগ প্রতিষ্ঠানের কাছে এই স্বত্ব বিক্রির প্রস্তাব উপস্থাপনের পর তীব্র প্রাতিষ্ঠানিক অস্থিরতা তৈরি হয় এবং তা পরবর্তীতে বাতিল করা হয়। এর জেরে উয়েফা নির্দিষ্ট সময়ের মধ্যে সমস্ত নথিপত্র প্রকাশের দাবি জানায়। তবে ইনফান্তিনো এশীয় ও আফ্রিকান ফুটবল কনফেডারেশনের সমর্থন নিয়ে নিজের অবস্থান শক্ত করেছেন এবং বৈশ্বিক সদস্য অ্যাসোসিয়েশনগুলোর ওপর আস্থা প্রকাশ করেছেন।",
-        "details_en": "FIFA faced intense criticism from UEFA, Concacaf, and the Asian Football Confederation over a plan to sell commercial rights to a private investment firm. Although the controversial plan was eventually shelved, it created significant institutional friction and prompted UEFA to demand transparency regarding enterprise documents. Infantino countered the pressure by securing backing from key continental confederations, emphasizing that the majority of global member associations support his presidency."
+        "details_bn": "ফিফার বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে উয়েফা, কনকাকাফ এবং এএফসির সাথে ফিফার সম্পর্কের অবনতি ঘটে। বেসরকারি প্রতিষ্ঠানের কাছে বাণিজ্যিক স্বত্ব উপস্থাপনের পরিকল্পনাটি ব্যাপক সমালোচনার মুখে বাতিল করা হয়। পরবর্তীতে উয়েফা এফএফই সম্পর্কিত সমস্ত নথিপত্র প্রকাশের জন্য সময়সীমা বেঁধে দেয় এবং নথিপত্র প্রকাশ না করলে তাকে অযোগ্য ঘোষণার হুমকি দেয়। তবে ইনফান্তিনো সদস্য দেশগুলোর পূর্ণ সমর্থন পাওয়ার দাবি করে সকল সমালোচনা ও পদত্যাগের সম্ভাবনা উড়িয়ে দিয়েছেন।",
+        "details_en": "Tensions escalated after plans to sell FIFA commercial rights to private investors faced fierce criticism from UEFA, Concacaf, and the Asian Football Confederation, ultimately leading to the plan's cancellation. UEFA subsequently demanded the release of all enterprise-related documents by a strict deadline. Despite institutional friction and threats of disqualification, Infantino dismissed the pressure, asserting strong backing from member associations across multiple continents."
       }
     },
     {
-      "story_id": "ea8ae919-8c84-5cbd-9e0b-dfce3ab5ed18",
-      "primary_category": "governance_law",
+      "story_id": "3b0e5632-d051-5e01-b19a-d083538bdabb",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "society_education",
+        "world_diplomacy"
       ],
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F7mm5zdtf%2FPolio.jfif?rect=0%2C228%2C1051%2C552&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T18:46:45+00:00",
+      "published_at": "2026-10-24T19:08:56+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8421,
+      "rank_score": 0.61,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/bnp/976529/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%AA%E0%A7%9C-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0",
-          "title": "মাদ্রাসাশিক্ষককে থাপ্পড় মারা রুমিকে গ্রেফতারে অভিযানের খবরটি বিভ্রান্তিকর: রাশেদ খাঁন",
-          "snippet": "মাদ্রাসাশিক্ষককে থাপ্পড় মারা রুমিকে গ্রেফতারে অভিযানের খবরটি বিভ্রান্তিকর: রাশেদ খাঁন"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/0o27fwpjxy",
+          "title": "বিশ্ব পোলিও দিবসে ঢাকায় রোটারি ইন্টারন্যাশনালের র‍্যালি",
+          "snippet": "বিশ্ব পোলিও দিবসে ঢাকায় রোটারি ইন্টারন্যাশনালের র‍্যালি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শাহজালাল রুমিকে গ্রেফতারে অভিযানের খবরটি বিভ্রান্তিকর: রাশেদ খাঁন",
-        "title_en": "Reports of Police Raid to Arrest Shahjalal Rumi Are Misleading: Rashed Khan",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজনৈতিক সহকারী রাশেদ খাঁন জানিয়েছেন মাদ্রাসাশিক্ষককে থাপ্পড় মারা শাহজালাল রুমিকে গ্রেফতারে অভিযানের খবরটি সম্পূর্ণ বিভ্রান্তিকর।",
-        "summary_en": "Prime Minister Tarique Rahman's political assistant Rashed Khan stated that reports of police raids to arrest Shahjalal Rumi are completely misleading.",
+        "title_bn": "বিশ্ব পোলিও দিবস উপলক্ষে ঢাকায় রোটারি ইন্টারন্যাশনালের সচেতনতামূলক র‍্যালি",
+        "title_en": "Rotary International Holds Rally in Dhaka Marking World Polio Day",
+        "summary_bn": "বিশ্ব পোলিও দিবস উপলক্ষে রাজধানীর হাতিরঝিল এলাকায় পোলিও নির্মূলের বার্তা নিয়ে বর্ণাঢ্য র‍্যালি করেছে রোটারি ইন্টারন্যাশনাল।",
+        "summary_en": "Rotary International organized a vibrant rally in the capital to spread awareness about polio eradication marking World Polio Day.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "society_education",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T18:46:45+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজনৈতিক সহকারী রাশেদ খাঁন জানিয়েছেন মাদ্রাসাশিক্ষককে থাপ্পড় মারা শাহজালাল রুমিকে গ্রেফতারে অভিযানের খবরটি সম্পূর্ণ বিভ্রান্তিকর।",
-        "lead_en": "Prime Minister Tarique Rahman's political assistant Rashed Khan stated that reports of police raids to arrest Shahjalal Rumi are completely misleading.",
+        "published_at": "2026-10-24T19:08:56+00:00",
+        "lead_bn": "বিশ্ব পোলিও দিবস উপলক্ষে রাজধানীর হাতিরঝিল এলাকায় পোলিও নির্মূলের বার্তা নিয়ে বর্ণাঢ্য র‍্যালি করেছে রোটারি ইন্টারন্যাশনাল।",
+        "lead_en": "Rotary International organized a vibrant rally in the capital to spread awareness about polio eradication marking World Polio Day.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমানের রাজনৈতিক সহকারী রাশেদ খাঁন গ্রেফতার অভিযানের খবরটি ভুয়া ও বিভ্রান্তিকর বলে স্পষ্ট করেছেন।",
-          "সামাজিক যোগাযোগমাধ্যম ফেসবুকে দেওয়া এক পোস্টে এই তথ্য নিশ্চিত করা হয়েছে।",
-          "টঙ্গীর একটি মাদ্রাসায় শিশু নিপীড়নের অভিযোগে শিক্ষককে থাপ্পড় মেরে আলোচনায় আসেন শাহজালাল রুমি।"
+          "রাজধানীর হাতিরঝিল লেক রোডে সচেতনতামূলক র‍্যালিটি অনুষ্ঠিত হয়।",
+          "র‍্যালির নেতৃত্ব দেন কান্ট্রি কো-অর্ডিনেটর ইশতিয়াক জামান ও ডেপুটি কো-অর্ডিনেটর এ কে এম শামসুল হুদা।",
+          "কর্মসূচিতে শিশুদের টিকাদানে উৎসাহিত করা এবং পোলিওমুক্ত বিশ্ব গড়ার আহ্বান জানানো হয়।"
         ],
         "bullets_en": [
-          "Prime Minister political assistant Rashed Khan clarified that reports of the arrest operation are false and misleading.",
-          "The clarification was officially communicated through a post on the social media platform Facebook.",
-          "Shahjalal Rumi previously drew public attention after slapping a madrasa teacher accused of sexually abusing a child in Tongi."
+          "The awareness rally took place along the Hatirjheel lake road in the capital.",
+          "The procession was led by Country Coordinator Ishtiaq Zaman and Deputy Country Coordinator AKM Shamsul Huda.",
+          "The program emphasized encouraging child vaccinations and building a polio-free world."
         ],
-        "impact_bn": "গুজব ও বিভ্রান্তিকর তথ্য ছড়ানো রোধে সাধারণ নাগরিকদের আরও সচেতন হওয়ার আহ্বান জানানো হয়েছে।",
-        "impact_en": "Citizens are urged to exercise caution against circulating unverified rumors and misinformation on social media.",
-        "details_bn": "গাজীপুরের টঙ্গীর একটি মাদ্রাসায় সাত বছর বয়সী এক শিশুকে যৌন নিপীড়নের অভিযোগ ওঠে মাদ্রাসাশিক্ষক মোসলেহ উদ্দিনের বিরুদ্ধে। ওই ঘটনার পর অভিভাবক শাহজালাল রুমি বিক্ষুব্ধ হয়ে শিক্ষককে থাপ্পড় মারেন এবং সেই দৃশ্য সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়লে দেশজুড়ে আলোচনা তৈরি হয়। পরবর্তীতে তাকে গ্রেফতারে আইনশৃঙ্খলা বাহিনীর অভিযান চলছে মর্মে বিভিন্ন খবর প্রকাশিত হলে সরকারের পক্ষ থেকে তা বিভ্রান্তিকর বলে জানানো হয়।",
-        "details_en": "An allegation of sexual abuse against a seven-year-old child arose involving madrasa teacher Mosleh Uddin in Tongi, Gazipur. Following the incident, guardian Shahjalal Rumi slapped the teacher, and the footage went viral, sparking nationwide discussions. Subsequent rumors emerged regarding a police operation to arrest Rumi, which was later officially dismissed as misleading."
+        "impact_bn": "এই কর্মসূচি সাধারণ মানুষকে শিশুদের নিয়মিত পোলিও টিকা প্রদানে সচেতন করে তুলতে সহায়তা করে।",
+        "impact_en": "This initiative helps raise public awareness about ensuring regular polio vaccinations for children.",
+        "details_bn": "রোটারি ইন্টারন্যাশনাল দীর্ঘদিন ধরে বিশ্বব্যাপী পোলিও নির্মূল কার্যক্রমে কাজ করে আসছে। আন্তর্জাতিক স্বাস্থ্য সংস্থা ও স্থানীয় জনগোষ্ঠীর সঙ্গে সমন্বয়ের মাধ্যমে শিশুদের পোলিও থেকে সুরক্ষিত রাখতে সংস্থাটি বিভিন্ন সচেতনতামূলক ও প্রতিরোধমূলক উদ্যোগ পরিচালনা করে।",
+        "details_en": "Rotary International has long been working globally on polio eradication efforts. Through coordination with international health organizations and local communities, the organization conducts various awareness and preventive initiatives to protect children from polio."
+      }
+    },
+    {
+      "story_id": "889cf07f-2eb9-5186-9d8b-1beeb6e4eaf8",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T19:07:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6012,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/976530/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A7%AA-%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A7-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0",
+          "title": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত",
+          "snippet": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বঙ্গোপসাগরে নিম্নচাপ সৃষ্টি, চার সমুদ্রবন্দরে এক নম্বর দূরবর্তী সতর্কতা সংকেত",
+        "title_en": "Depression Forms Over Bay of Bengal, Distant Warning Signal One Issued",
+        "summary_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্ক সংকেত দেখাতে বলা হয়েছে।",
+        "summary_en": "Four maritime ports have been advised to hoist distant warning signal one due to a depression over the Bay of Bengal.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T19:07:00+00:00",
+        "lead_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্ক সংকেত দেখাতে বলা হয়েছে।",
+        "lead_en": "Four maritime ports have been advised to hoist distant warning signal one due to a depression over the Bay of Bengal.",
+        "bullets_bn": [
+          "পূর্বমধ্য বঙ্গোপসাগর ও সংলগ্ন এলাকায় অবস্থানরত সুস্পষ্ট লঘুচাপটি নিম্নচাপে রূপ নিয়েছে।",
+          "আবহাওয়াবিদ মোড় তরিফুল নেওয়াজ কবিরের সই করা বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়েছে।",
+          "নিম্নচাপের গতিপ্রকৃতি পর্যবেক্ষণ করে পরবর্তী নির্দেশনা দেওয়া হবে বলে জানিয়েছে আবহাওয়া অফিস।"
+        ],
+        "bullets_en": [
+          "The well-marked low-pressure area over the east-central Bay of Bengal has intensified into a depression.",
+          "The meteorological department issued a special bulletin signed by meteorologist Md. Tariful Newaz Kabir.",
+          "The weather office will issue further directives based on the trajectory of the depression."
+        ],
+        "impact_bn": "সমুদ্র উপকূলবর্তী এলাকার মাছ ধরার নৌকা ও ট্রলারগুলোকে সাবধানে চলাচল করার পরামর্শ দেওয়া হয়েছে।",
+        "impact_en": "Fishing boats and trawlers operating in coastal areas have been advised to move with caution.",
+        "details_bn": "বঙ্গোপসাগরে সৃষ্টি হওয়া সুস্পষ্ট লঘুচাপটি ঘনীভূত হয়ে নিম্নচাপে পরিণত হয়েছে। এর প্রভাবে সমুদ্রবন্দরগুলোতে সতর্কতা জারি করা হয়েছে। আবহাওয়া অধিদফতর পরিস্থিতি নিয়মিত পর্যবেক্ষণ করছে এবং পরবর্তী যেকোনো আবহাওয়ার পরিবর্তনের আপডেট সময়মতো প্রকাশ করা হবে।",
+        "details_en": "A well-marked low-pressure area over the Bay of Bengal has intensified into a depression, prompting authorities to issue cautionary signals for maritime ports. The meteorological department is continuously monitoring the situation and will release timely updates regarding any further weather changes."
       }
     },
     {
@@ -183,7 +291,7 @@
       "published_at": "2026-10-24T18:34:56+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7547,
+      "rank_score": 0.4826,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -193,10 +301,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি বিমানবন্দরের বিধিনিষেধের কারণে ১৪৪ ফ্লাইট বাতিল ও স্থগিত",
-        "title_en": "One Hundred Forty Four Flights Cancelled and Suspended Due to Saudi Airport Restrictions",
-        "summary_bn": "সৌদি আরবের বিমানবন্দরে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় প্রায় বাইশ হাজার যাত্রী ভোগান্তিতে পড়েছেন।",
-        "summary_en": "Airport restrictions in Saudi Arabia disrupt one hundred forty four flights on the Bangladesh route, stranding thousands of passengers.",
+        "title_bn": "সৌদি বিমানবন্দর বিধিনিষেধের কারণে ১৪৪ ফ্লাইট বাতিল ও স্থগিত",
+        "title_en": "One Hundred Forty-Four Flights Cancelled Due To Saudi Airport Restrictions",
+        "summary_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় ২২ হাজারের বেশি যাত্রী চরম ভোগান্তিতে পড়েছেন।",
+        "summary_en": "Restrictions at Saudi airports disrupt one hundred forty-four flights on the Bangladesh route, stranding over twenty-two thousand passengers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -204,133 +312,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T18:34:56+00:00",
-        "lead_bn": "সৌদি আরবের বিমানবন্দরে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় প্রায় বাইশ হাজার যাত্রী ভোগান্তিতে পড়েছেন।",
-        "lead_en": "Airport restrictions in Saudi Arabia disrupt one hundred forty four flights on the Bangladesh route, stranding thousands of passengers.",
+        "lead_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ রুটের ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় ২২ হাজারের বেশি যাত্রী চরম ভোগান্তিতে পড়েছেন।",
+        "lead_en": "Restrictions at Saudi airports disrupt one hundred forty-four flights on the Bangladesh route, stranding over twenty-two thousand passengers.",
         "bullets_bn": [
-          "সৌদি আরবের বিমানবন্দরগুলোতে ফ্লাইট পরিচালনায় বিধিনিষেধের কারণে সরাসরি ও ট্রানজিট রুটের মোট ১৪৪টি ফ্লাইট ব্যাহত হয়েছে।",
-          "বাতিল ও স্থগিত হওয়া ফ্লাইটের মধ্যে ৬৭টি সরাসরি এবং ৭৭টি ট্রানজিট ফ্লাইট রয়েছে, যা ২২ হাজার ২১ জন যাত্রীকে প্রভাবিত করেছে।",
+          "সৌদি বিমানবন্দরগুলোতে ফ্লাইট পরিচালনায় বিধিনিষেধের কারণে সরাসরি ও ট্রানজিট রুটের ১৪৪টি ফ্লাইটের কার্যক্রম ব্যাহত হয়।",
+          "বাতিল ও স্থগিত হওয়া ফ্লাইটের মধ্যে ৬৭টি সরাসরি এবং ৭৭টি ট্রানজিট ফ্লাইট রয়েছে যার ফলে ২২ হাজার ২১ জন যাত্রী ভোগান্তিতে পড়েন।",
           "দাম্মামগামী ফ্লাইট ২৫ অক্টোবর পর্যন্ত এবং রিয়াদগামী সব ফ্লাইট ৩১ অক্টোবর পর্যন্ত স্থগিত রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "A total of one hundred forty four direct and transit flights are disrupted due to operational restrictions at Saudi airports.",
-          "The affected flights comprise sixty seven direct and seventy seven transit services, impacting twenty two thousand and twenty one passengers.",
-          "Flights to Dammam remain suspended until October twenty fifth and all flights to Riyadh until October thirty first."
+          "Flight operations on direct and transit routes faced disruptions due to restrictions at Saudi Arabian airports.",
+          "The disruption affected sixty-seven direct and seventy-seven transit flights, stranding twenty-two thousand and twenty-one passengers.",
+          "Flights to Dammam remain suspended until October twenty-fifth and flights to Riyadh until October thirty-first."
         ],
-        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা ফ্লাইট বাতিল ও স্থগিতের ফলে মারাত্মক ভ্রমণ জটিলতা ও অনিশ্চয়তার মুখোমুখি হচ্ছেন।",
-        "impact_en": "Expatriate workers traveling to Saudi Arabia face severe travel complications and uncertainty due to the flight suspensions.",
-        "details_bn": "সৌদি আরবের বিমানবন্দরগুলোতে ইরান সমর্থিত হুতি বিদ্রোহীদের হামলার হুমকির পরিপ্রেক্ষিতে ফ্লাইট চলাচলে এই বিধিনিষেধ আরোপ করা হয়। এর ফলে বাংলাদেশ থেকে সৌদি আরবগামী ও ট্রানজিট রুটের ফ্লাইটগুলোর স্বাভাবিক সূচি ব্যাহত হয়। তবে পরিস্থিতি স্বাভাবিক রাখতে ঢাকা থেকে জেদ্দা ও মদিনাগামী ফ্লাইটগুলো পূর্বনির্ধারিত সময়সূচি অনুযায়ী চালু রাখা হয়েছে এবং রিয়াদ ও দাম্মামগামী যাত্রীদের জেদ্দা ও মদিনা বিমানবন্দর ব্যবহারের বিকল্প সুযোগ দেওয়া হচ্ছে।",
-        "details_en": "Flight restrictions were imposed at Saudi Arabian airports following security threats from Iran backed Houthi armed groups. This disruption affected scheduled direct and transit flights operating between Bangladesh and Saudi Arabia. To mitigate passenger suffering, flights from Dhaka to Jeddah and Medina operate on schedule, while affected travelers to Riyadh and Dammam are advised to use alternative airports subject to seat availability."
-      }
-    },
-    {
-      "story_id": "408f6d95-f80f-5860-ace0-c2e6ccdfc3ca",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation"
-      ],
-      "tags": [
-        "#ArtificialIntelligence",
-        "#TechStartups",
-        "#OpenAI"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "image_caption": null,
-      "published_at": "2026-10-24T19:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6828,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "snippet": "The AI graveyard: a running list of projects and startups that didn’t make it"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তীব্র প্রতিযোগিতার মুখে বন্ধ হয়ে যাচ্ছে একাধিক কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তি ও স্টার্টআপ",
-        "title_en": "Multiple AI Startups and Products Shut Down Amid Rising Market Competition",
-        "summary_bn": "বৃহৎ প্রযুক্তি প্রতিষ্ঠানগুলোর আধিপত্য এবং তীব্র প্রতিযোগিতার মুখে বিশ্বজুড়ে বিভিন্ন এআই স্টার্টআপ ও প্রকল্প বন্ধ হয়ে যাচ্ছে।",
-        "summary_en": "Global AI startups and standalone products are shutting down as major tech giants integrate similar features directly into their platforms.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T19:00:00+00:00",
-        "lead_bn": "বৃহৎ প্রযুক্তি প্রতিষ্ঠানগুলোর আধিপত্য এবং তীব্র প্রতিযোগিতার মুখে বিশ্বজুড়ে বিভিন্ন এআই স্টার্টআপ ও প্রকল্প বন্ধ হয়ে যাচ্ছে।",
-        "lead_en": "Global AI startups and standalone products are shutting down as major tech giants integrate similar features directly into their platforms.",
-        "bullets_bn": [
-          "অটোমেশন টুল রিলে এবং চ্যাটবট প্ল্যাটফর্ম ক্যারেক্টার এআই কার্যক্রম সম্পূর্ণরূপে বন্ধ করে দিয়েছে।",
-          "এসঅ্যান্ডপি গ্লোবাল মার্কেট ইন্টেলিজেন্সের তথ্য অনুযায়ী প্রায় ৪২ শতাংশ কৃত্রিম বুদ্ধিমত্তা উদ্যোগ কর্পোরেট পর্যায়ে বাতিল করা হয়।",
-          "ওপেনএআই তাদের কৃত্রিম বুদ্ধিমত্তাভিত্তিক ওয়েব ব্রাউজার আটলাস এবং পৃথক ইমেজ জেনারেশন প্ল্যাটফর্ম বন্ধ করে দিয়েছে।"
-        ],
-        "bullets_en": [
-          "Standalone automation tool Relay and chatbot platform Character.ai permanently shut down their services.",
-          "SandP Global Market Intelligence data shows approximately 42 percent of corporate artificial intelligence initiatives are ultimately abandoned.",
-          "OpenAI discontinued standalone web browser Atlas and integrated separate features directly into core ChatGPT applications."
-        ],
-        "impact_bn": "প্রযুক্তি ব্যবহারকারীরা এখন পৃথক অ্যাপের পরিবর্তে মূল প্ল্যাটফর্মগুলোতে অধিক সমন্বিত এআই সুবিধা পাচ্ছেন।",
-        "impact_en": "Tech consumers now rely on unified super-apps rather than fragmented standalone AI tools and niche products.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত প্রসারের সাথে সাথে বড় প্রযুক্তি প্রতিষ্ঠানগুলো ছোট স্টার্টআপগুলোর সুবিধা নিজেদের প্ল্যাটফর্মে যুক্ত করছে। ফলে রিলে বা ক্যারেক্টার এআইয়ের মতো স্বাধীন পণ্যগুলোর টিকে থাকা কঠিন হয়ে পড়েছে। ওপেনএআইয়ের মতো শীর্ষ প্রতিষ্ঠানগুলোও তাদের বিভিন্ন ফিচার একীভূত করতে গিয়ে পণ্য নকশায় পরিবর্তন এনে ব্যবহারকারী সমালোচনার মুখে পড়েছে।",
-        "details_en": "As the artificial intelligence sector expands rapidly, major tech corporations are absorbing standalone features into primary systems. This leaves independent products like Relay and Character.ai struggling to maintain market relevance against dominant platform integration."
-      }
-    },
-    {
-      "story_id": "fd277e50-d6d9-582e-8c2d-404f8c9543c3",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/MM-babu.png?w=1200&quality=80",
-      "image_caption": null,
-      "published_at": "2026-10-24T18:11:12+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6206,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/mukit-majumdar-babu-birthday/",
-          "title": "প্রকৃতিবন্ধু মুকিত মজুমদার বাবুর জন্মদিন আজ",
-          "snippet": "প্রকৃতিবন্ধু মুকিত মজুমদার বাবুর জন্মদিন আজ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রকৃতিবন্ধু মুকিত মজুমদার বাবুর অবদান ও পরিবেশ রক্ষায় তার বহুমুখী কার্যক্রম",
-        "title_en": "Environmentalist Mukit Majumdar Babu and His Multifaceted Conservation Initiatives",
-        "summary_bn": "ইমপ্রেস গ্রুপের প্রতিষ্ঠাতা পরিচালক এবং প্রকৃতি ও জীবন ফাউন্ডেশনের চেয়ারম্যান মুকিত মজুমদার বাবু পরিবেশ রক্ষায় দীর্ঘকাল ধরে কাজ করে চলেছেন।",
-        "summary_en": "Impress Group founding director and Prakriti o Jibon Foundation chairman Mukit Majumdar Babu has long been dedicated to environmental conservation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T18:11:12+00:00",
-        "lead_bn": "ইমপ্রেস গ্রুপের প্রতিষ্ঠাতা পরিচালক এবং প্রকৃতি ও জীবন ফাউন্ডেশনের চেয়ারম্যান মুকিত মজুমদার বাবু পরিবেশ রক্ষায় দীর্ঘকাল ধরে কাজ করে চলেছেন।",
-        "lead_en": "Impress Group founding director and Prakriti o Jibon Foundation chairman Mukit Majumdar Babu has long been dedicated to environmental conservation.",
-        "bullets_bn": [
-          "পরিবেশ ও জীববৈচিত্র্য সংরক্ষণে ২০০৯ সালে প্রকৃতি ও জীবন ফাউন্ডেশন প্রতিষ্ঠা করেন মুকিত মজুমদার বাবু।",
-          "চ্যানেল আইতে ২০১০ সাল থেকে পরিবেশ সচেতনতামূলক ধারাবাহিক তথ্যচিত্র অনুষ্ঠান প্রকৃতি ও জীবন সম্প্রচারিত হচ্ছে।",
-          "দেশের ৬৪টি জেলায় প্রকৃতি ও জীবন ক্লাবের শাখা গঠন করে তৃণমূল পর্যায়ে সচেতনতা কার্যক্রম পরিচালনা করা হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Mukit Majumdar Babu established the Prakriti o Jibon Foundation in 2009 to conserve environment and biodiversity.",
-          "The awareness documentary series Prakriti o Jibon has been broadcasting on Channel i since 2010.",
-          "Branches of Prakriti o Jibon Club have been established across all 64 districts for grassroots awareness."
-        ],
-        "impact_bn": "দেশের তরুণ প্রজন্ম ও সাধারণ মানুষের মধ্যে পরিবেশ সচেতনতা বৃদ্ধি এবং প্রকৃতি সংরক্ষণে অংশগ্রহণের মানসিকতা তৈরি হচ্ছে।",
-        "impact_en": "Environmental awareness and active participation in nature conservation are growing among the country's youth and general citizens.",
-        "details_bn": "মুকিত মজুমদার বাবু ১৯৭১ সালে ছাত্রাবস্থায় মুক্তিযুদ্ধে অংশগ্রহণ করেন। পড়াশোনা শেষে দেশে ফিরে ব্যবসা শুরু করলেও দেশপ্রেম ও প্রকৃতির প্রতি দায়বদ্ধতা থেকেই তিনি পরিবেশ সংরক্ষণে মনোনিবেশ করেন। প্রকৃতি ও জীবন ফাউন্ডেশনের মাধ্যমে তিনি বন্যপ্রাণী সংরক্ষণ, বৃক্ষরোপণ, গবেষণা এবং গণসচেতনতা বৃদ্ধিমূলক বিভিন্ন কর্মসূচি বাস্তবায়ন করে আসছেন। পরিবেশ রক্ষায় অবদানের জন্য তিনি দেশজুড়ে প্রকৃতিবন্ধু হিসেবে পরিচিতি লাভ করেছেন।",
-        "details_en": "Mukit Majumdar Babu participated in the Liberation War in 1971 as a student. After completing his education abroad, he returned to Bangladesh and ventured into business, later dedicating himself to environmental conservation out of a deep sense of responsibility. Through the Prakriti o Jibon Foundation, he has been implementing various wildlife preservation, afforestation, research, and public awareness programs, earning widespread recognition as a true friend of nature."
+        "impact_bn": "সৌদিগামী হাজার হাজার প্রবাসী শ্রমিক ও যাত্রীরা ফ্লাইট বাতিল ও স্থগিত হওয়ায় তীব্র ভোগান্তি ও অনিশ্চয়তার মুখোমুখি হয়েছেন।",
+        "impact_en": "Thousands of expatriate workers and travelers bound for Saudi Arabia face severe hardship and uncertainty due to flight suspensions.",
+        "details_bn": "সৌদি আরবের বিমানবন্দরগুলোতে ইরান সমর্থিত সশস্ত্র গোষ্ঠী হুতিদের হামলার পরিপ্রেক্ষিতে ফ্লাইট চলাচলে কঠোর বিধিনিষেধ আরোপ করা হয়। এর ফলে বাংলাদেশের সঙ্গে চলাচলকারী বিভিন্ন দেশীয় ও আন্তর্জাতিক এয়ারলাইনসের নিয়মিত শিডিউল ভেঙে পড়ে। বেসামরিক বিমান চলাচল কর্তৃপক্ষ পরিস্থিতি পর্যবেক্ষণ করছে এবং জেদ্দা ও মদিনাগামী ফ্লাইট নিয়মিত চালু রেখে বিকল্প ব্যবস্থার নির্দেশনা দিয়েছে।",
+        "details_en": "Strict restrictions on flight operations were imposed at Saudi Arabian airports following attacks by Iran-backed Houthi armed groups. This disrupted the regular schedules of domestic and international airlines operating to and from Bangladesh. The Civil Aviation Authority is monitoring the situation and has instructed passengers to use Jeddah and Medina flights as alternatives."
       }
     }
   ]
