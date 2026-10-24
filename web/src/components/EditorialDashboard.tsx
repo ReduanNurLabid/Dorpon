@@ -43,6 +43,79 @@ import {
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
+// Web Broadsheet Scoring and Placement Calculator
+export function computeWebStoryScore(story: CapsuleStory): {
+  baseScore: number;
+  finalRankScore: number;
+  breakdown: string[];
+  suggestedSlot: 'Hero (Center Fold)' | 'Column 1 (Left)' | 'Column 3 (Wire Desk)' | 'Inside Broadsheet Grid';
+} {
+  let base = story.importance_score ?? 2.0;
+  const breakdown: string[] = [`Base: ${base.toFixed(1)}`];
+
+  const title = ((story.daily_buzz?.title_bn || '') + ' ' + (story.daily_buzz?.title_en || '')).toLowerCase();
+  const summary = ((story.daily_buzz?.summary_bn || '') + ' ' + (story.daily_buzz?.summary_en || '')).toLowerCase();
+  const text = `${title} ${summary}`;
+
+  if (/constitution|সংবিধান|supreme court|সুপ্রিম কোর্ট|high court|হাইকোর্ট|chief adviser|প্রধান উপদেষ্টা|prime minister|প্রধানমন্ত্রী|cabinet|মন্ত্রিসভা|election commission|নির্বাচন কমিশন|ordinance|অধ্যাদেশ/i.test(text)) {
+    base += 3.5;
+    breakdown.push('Gov/State (+3.5)');
+  }
+
+  if (/bangladesh bank|বাংলাদেশ ব্যাংক|repo rate|রেপো রেট|inflation|মুদ্রাস্ফীতি|মূল্যস্ফীতি|forex reserve|রিজার্ভ|budget|বাজেট|nbr|রাজস্ব|imf|world bank/i.test(text)) {
+    base += 3.0;
+    breakdown.push('Economy (+3.0)');
+  }
+
+  if (/tarique|তারেক|remittance|প্রবাসী|rohingya|রোহিঙ্গা|arrest|আটক|গ্রেপ্তার|murder|হামলা/i.test(text)) {
+    base += 2.0;
+    breakdown.push('Politics/Law (+2.0)');
+  }
+
+  if (story.is_bcs_pro_selected || story.bcs_pro) {
+    base += 2.0;
+    breakdown.push('Current Affairs (+2.0)');
+  }
+
+  const srcCount = story.sources?.length || 1;
+  if (srcCount > 1) {
+    const mult = 1.0 + Math.min(0.5, (srcCount - 1) * 0.25);
+    base *= mult;
+    breakdown.push(`Sources ×${mult.toFixed(2)}`);
+  }
+
+  // Time decay
+  let finalRank = base;
+  if (story.published_at) {
+    const pubTime = new Date(story.published_at).getTime();
+    if (!isNaN(pubTime)) {
+      const ageHours = Math.max(0, (Date.now() - pubTime) / (3600 * 1000));
+      let decay = Math.pow(ageHours + 2.0, 1.3);
+      if (ageHours > 30) {
+        decay *= Math.pow(1.0 + (ageHours - 30), 2.0);
+      }
+      finalRank = base / decay;
+    }
+  }
+
+  // Determine slot placement on web broadsheet
+  let suggestedSlot: 'Hero (Center Fold)' | 'Column 1 (Left)' | 'Column 3 (Wire Desk)' | 'Inside Broadsheet Grid' = 'Inside Broadsheet Grid';
+  if (finalRank >= 1.5 || (story.importance_score && story.importance_score >= 4.0)) {
+    suggestedSlot = 'Hero (Center Fold)';
+  } else if (finalRank >= 0.8) {
+    suggestedSlot = 'Column 1 (Left)';
+  } else if (finalRank >= 0.3) {
+    suggestedSlot = 'Column 3 (Wire Desk)';
+  }
+
+  return {
+    baseScore: Number(base.toFixed(2)),
+    finalRankScore: Number(finalRank.toFixed(3)),
+    breakdown,
+    suggestedSlot
+  };
+}
+
 export const EditorialDashboard: React.FC = () => {
   const { setActiveTab, language } = useApp();
   const isBn = language === 'bn';
@@ -65,6 +138,7 @@ export const EditorialDashboard: React.FC = () => {
   const [selectedStory, setSelectedStory] = useState<CapsuleStory | null>(null);
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
+  const [previewMode, setPreviewMode] = useState<'editor' | 'preview'>('editor');
 
   // Monitor Auth state
   useEffect(() => {
@@ -306,10 +380,10 @@ export const EditorialDashboard: React.FC = () => {
             D
           </div>
           <h2 className="mt-4 text-center font-display-masthead text-2xl sm:text-3xl text-primary font-bold uppercase tracking-tight">
-            Dorpon Editorial Studio
+            SondeshX Editorial Studio
           </h2>
           <p className="mt-1 text-center font-serif text-xs text-on-surface-variant max-w-sm mx-auto">
-            Authorized central command for live article scoring, placement, and direct broadcast.
+            Authorized central command for web broadsheet article scoring, placement, and direct broadcast.
           </p>
         </div>
 
@@ -424,20 +498,43 @@ export const EditorialDashboard: React.FC = () => {
             <div>
               <div className="flex items-center gap-2">
                 <span className="font-display-masthead text-base sm:text-lg font-bold text-primary uppercase">
-                  Dorpon Editorial Studio
+                  SondeshX Editorial Studio
                 </span>
                 <span className="inline-flex items-center gap-1 bg-secondary/15 text-secondary border border-secondary/30 px-2 py-0.5 text-[10px] font-mono font-bold rounded">
                   <ShieldCheck className="w-3 h-3" />
-                  <span>LIVE FIRESTORE CONTROL</span>
+                  <span>WEB BROADSHEET COMMAND</span>
                 </span>
               </div>
               <p className="font-serif text-[11px] text-on-surface-variant">
-                Logged in as <strong>{currentUser.email}</strong>
+                Live placement scoring & direct publishing • Editor: <strong>{currentUser.email}</strong>
               </p>
             </div>
           </div>
 
           <div className="flex items-center space-x-3">
+            <div className="flex items-center bg-surface border border-primary/30 p-0.5">
+              <button
+                onClick={() => setPreviewMode('editor')}
+                className={`px-3 py-1 font-sans text-xs font-bold uppercase transition-colors cursor-pointer ${
+                  previewMode === 'editor'
+                    ? 'bg-primary text-background'
+                    : 'text-on-surface-variant hover:text-primary'
+                }`}
+              >
+                Editor
+              </button>
+              <button
+                onClick={() => setPreviewMode('preview')}
+                className={`px-3 py-1 font-sans text-xs font-bold uppercase transition-colors cursor-pointer ${
+                  previewMode === 'preview'
+                    ? 'bg-primary text-background'
+                    : 'text-on-surface-variant hover:text-primary'
+                }`}
+              >
+                Web Preview
+              </button>
+            </div>
+
             <button
               onClick={handleCreateNewStory}
               className="bg-secondary text-on-secondary font-sans text-xs font-bold uppercase tracking-wider px-3 py-1.5 flex items-center gap-1.5 border border-secondary hover:opacity-90 cursor-pointer shadow-sm"
@@ -545,7 +642,14 @@ export const EditorialDashboard: React.FC = () => {
               filteredStories.map((story) => {
                 const isSelected = selectedStory?.story_id === story.story_id;
                 const title = story.daily_buzz?.title_en || story.daily_buzz?.title_bn || story.story_id;
-                const score = story.importance_score ?? 2.0;
+                const scoreData = computeWebStoryScore(story);
+
+                const slotBadgeColors = {
+                  'Hero (Center Fold)': 'bg-amber-500/15 text-amber-500 border-amber-500/30',
+                  'Column 1 (Left)': 'bg-blue-500/15 text-blue-500 border-blue-500/30',
+                  'Column 3 (Wire Desk)': 'bg-emerald-500/15 text-emerald-500 border-emerald-500/30',
+                  'Inside Broadsheet Grid': 'bg-primary/10 text-primary border-primary/20',
+                };
 
                 return (
                   <button
@@ -557,22 +661,28 @@ export const EditorialDashboard: React.FC = () => {
                         : 'hover:bg-surface-container-high'
                     }`}
                   >
-                    <div className="flex items-center justify-between text-[11px] font-mono">
-                      <span className="text-secondary font-bold truncate max-w-[200px]">
+                    <div className="flex items-center justify-between text-[11px] font-mono gap-1">
+                      <span className="text-secondary font-bold truncate max-w-[170px]">
                         #{story.story_id}
                       </span>
-                      <span className="bg-surface-container px-1.5 py-0.5 border border-primary/20 font-bold text-primary">
-                        Score: {score.toFixed(1)}
-                      </span>
+                      <div className="flex items-center gap-1.5">
+                        <span className="bg-surface-container px-1.5 py-0.5 border border-primary/20 font-bold text-primary" title={`Base Importance: ${scoreData.baseScore} | Decayed Rank: ${scoreData.finalRankScore}`}>
+                          Rank: {scoreData.finalRankScore.toFixed(2)}
+                        </span>
+                      </div>
                     </div>
 
                     <h4 className="font-serif text-xs font-bold text-primary line-clamp-2 leading-snug">
                       {title}
                     </h4>
 
-                    <div className="flex items-center justify-between text-[10px] text-on-surface-variant font-sans uppercase pt-1">
-                      <span>{story.primary_category || 'general'}</span>
-                      <span>{story.published_at ? new Date(story.published_at).toLocaleDateString() : 'Draft'}</span>
+                    <div className="flex items-center justify-between gap-1 text-[10px] pt-1">
+                      <span className={`px-2 py-0.5 border text-[10px] font-mono font-bold rounded ${slotBadgeColors[scoreData.suggestedSlot]}`}>
+                        {scoreData.suggestedSlot}
+                      </span>
+                      <span className="text-on-surface-variant font-sans uppercase">
+                        {story.published_at ? new Date(story.published_at).toLocaleDateString() : 'Draft'}
+                      </span>
                     </div>
                   </button>
                 );
@@ -616,83 +726,197 @@ export const EditorialDashboard: React.FC = () => {
                 </div>
               </div>
 
-              {/* Form Body */}
-              <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-5">
-                {/* 1. SCORING & EDITORIAL PLACEMENT WEIGHTS */}
-                <div className="border border-secondary/30 bg-secondary/5 p-4 space-y-3">
-                  <div className="flex items-center justify-between border-b border-secondary/20 pb-2">
-                    <div className="flex items-center space-x-2 font-sans text-xs font-bold uppercase text-secondary">
-                      <Sliders className="w-4 h-4" />
-                      <span>Editorial Weight & Relevance Scoring</span>
-                    </div>
-                    <span className="text-xs font-mono font-bold text-primary">
-                      {selectedStory.importance_score ?? 2.0} / 5.0
-                    </span>
-                  </div>
-
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    <div>
-                      <label className="block text-xs font-serif text-on-surface-variant mb-1 font-semibold">
-                        Importance Score (0.5 to 5.0)
-                      </label>
-                      <input
-                        type="range"
-                        min="0.5"
-                        max="5.0"
-                        step="0.1"
-                        value={selectedStory.importance_score ?? 2.0}
-                        onChange={(e) =>
-                          setSelectedStory({
-                            ...selectedStory,
-                            importance_score: parseFloat(e.target.value)
-                          })
-                        }
-                        className="w-full accent-secondary cursor-pointer"
-                      />
-                      <span className="text-[10px] text-on-surface-variant font-serif">
-                        Higher scores automatically lift stories to Hero / Center fold broadsheet placement.
+              {/* Form Body vs Live Broadsheet Preview */}
+              {previewMode === 'preview' ? (
+                <div className="flex-1 overflow-y-auto p-4 sm:p-6 bg-background">
+                  <div className="max-w-2xl mx-auto border border-primary/30 p-6 bg-surface shadow-sm">
+                    {/* Eyebrow & Slot placement badge */}
+                    <div className="flex items-center justify-between border-b border-primary/20 pb-3 mb-4">
+                      <div className="flex items-center space-x-2">
+                        <span className="px-2 py-0.5 bg-secondary text-on-secondary font-label-sm text-label-sm uppercase font-bold">
+                          {selectedStory.primary_category?.replace('_', ' ')}
+                        </span>
+                        {selectedStory.is_bcs_pro_selected && (
+                          <span className="px-2 py-0.5 bg-primary text-background font-label-sm text-label-sm uppercase font-bold">
+                            Current Affairs Dossier
+                          </span>
+                        )}
+                      </div>
+                      <span className="font-mono text-xs text-secondary font-bold">
+                        Target Slot: {computeWebStoryScore(selectedStory).suggestedSlot}
                       </span>
                     </div>
 
-                    <div className="space-y-2">
-                      <label className="block text-xs font-serif text-on-surface-variant font-semibold">
-                        Category & Syllabus Flag
-                      </label>
-                      <select
-                        value={selectedStory.primary_category}
-                        onChange={(e) =>
-                          setSelectedStory({
-                            ...selectedStory,
-                            primary_category: e.target.value
-                          })
-                        }
-                        className="w-full bg-surface border border-primary/30 text-xs text-primary p-2 focus:outline-none font-sans"
-                      >
-                        <option value="governance_law">Governance & Law (শাসন ও সংবিধান)</option>
-                        <option value="economy_business">Economy & Business (অর্থনীতি ও ব্যাংকিং)</option>
-                        <option value="international_diplomacy">International & Geopolitics (আন্তর্জাতিক ও কূটনীতি)</option>
-                        <option value="infrastructure_energy">Infrastructure & Energy (অবকাঠামো ও জ্বালানি)</option>
-                        <option value="science_technology">Science & Technology (তথ্যপ্রযুক্তি)</option>
-                        <option value="national">National & Society (জাতীয়)</option>
-                      </select>
+                    {/* Headline EN / BN */}
+                    <h2 className="font-display-headline text-xl sm:text-2xl text-primary font-bold leading-tight mb-2">
+                      {isBn
+                        ? (selectedStory.daily_buzz?.title_bn || selectedStory.daily_buzz?.title_en)
+                        : (selectedStory.daily_buzz?.title_en || selectedStory.daily_buzz?.title_bn)}
+                    </h2>
 
-                      <label className="flex items-center gap-2 cursor-pointer pt-1 select-none text-xs font-serif">
-                        <input
-                          type="checkbox"
-                          checked={selectedStory.is_bcs_pro_selected}
-                          onChange={(e) =>
-                            setSelectedStory({
-                              ...selectedStory,
-                              is_bcs_pro_selected: e.target.checked
-                            })
-                          }
-                          className="accent-secondary"
-                        />
-                        <span className="font-semibold text-primary">BCS Pro / Current Affairs Analytical Badge</span>
-                      </label>
+                    {/* Alternative Language Sub-headline */}
+                    <h3 className="font-serif text-sm font-semibold text-secondary mb-4 italic">
+                      {isBn
+                        ? selectedStory.daily_buzz?.title_en
+                        : selectedStory.daily_buzz?.title_bn}
+                    </h3>
+
+                    {/* Lead Paragraph */}
+                    <div className="p-3 bg-surface-container-low border-l-4 border-l-secondary font-serif text-xs sm:text-sm text-primary leading-relaxed mb-4 text-justify">
+                      {isBn
+                        ? (selectedStory.daily_buzz?.summary_bn || selectedStory.daily_buzz?.summary_en)
+                        : (selectedStory.daily_buzz?.summary_en || selectedStory.daily_buzz?.summary_bn)}
                     </div>
+
+                    {/* Key Bullets */}
+                    {((selectedStory.daily_buzz?.bullets_bn && selectedStory.daily_buzz.bullets_bn.length > 0) ||
+                      (selectedStory.daily_buzz?.bullets_en && selectedStory.daily_buzz.bullets_en.length > 0)) && (
+                      <div className="mb-4 p-3 bg-surface-container border border-primary/20">
+                        <span className="font-sans text-[11px] font-bold uppercase tracking-wider text-secondary block mb-2">
+                          Key Analytical Dispatches
+                        </span>
+                        <ul className="space-y-1.5 list-disc list-inside text-xs font-serif text-primary">
+                          {(isBn
+                            ? (selectedStory.daily_buzz?.bullets_bn || selectedStory.daily_buzz?.bullets_en)
+                            : (selectedStory.daily_buzz?.bullets_en || selectedStory.daily_buzz?.bullets_bn)
+                          )?.map((bullet, bIdx) => (
+                            <li key={bIdx} className="leading-relaxed">
+                              {bullet}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+
+                    {/* Extended Details */}
+                    {selectedStory.daily_buzz?.details_en && (
+                      <p className="font-serif text-xs text-on-surface-variant leading-relaxed text-justify mb-4">
+                        {isBn
+                          ? (selectedStory.daily_buzz?.details_bn || selectedStory.daily_buzz?.details_en)
+                          : (selectedStory.daily_buzz?.details_en || selectedStory.daily_buzz?.details_bn)}
+                      </p>
+                    )}
+
+                    {/* Sources footer */}
+                    {selectedStory.sources && selectedStory.sources.length > 0 && (
+                      <div className="pt-3 border-t border-primary/20 flex flex-wrap items-center gap-2">
+                        <span className="font-sans text-[10px] font-bold uppercase text-outline">Verified Sources:</span>
+                        {selectedStory.sources.map((src, sIdx) => (
+                          <span key={sIdx} className="px-2 py-0.5 bg-surface-container-high border border-outline-variant text-[10px] font-mono font-bold text-primary">
+                            {src.name}
+                          </span>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 </div>
+              ) : (
+                <div className="flex-1 overflow-y-auto p-4 sm:p-6 space-y-5">
+                  {/* 1. SCORING & EDITORIAL PLACEMENT WEIGHTS */}
+                  {(() => {
+                    const scoreData = computeWebStoryScore(selectedStory);
+                    return (
+                      <div className="border border-secondary/30 bg-secondary/5 p-4 space-y-3">
+                        <div className="flex flex-wrap items-center justify-between border-b border-secondary/20 pb-2 gap-2">
+                          <div className="flex items-center space-x-2 font-sans text-xs font-bold uppercase text-secondary">
+                            <Sliders className="w-4 h-4" />
+                            <span>Web Broadsheet Placement & Scoring Engine</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <span className="bg-secondary text-on-secondary px-2 py-0.5 text-xs font-mono font-bold rounded">
+                              Slot: {scoreData.suggestedSlot}
+                            </span>
+                          </div>
+                        </div>
+
+                        {/* Real dynamic score telemetry */}
+                        <div className="grid grid-cols-2 sm:grid-cols-3 gap-2 py-1 font-mono text-xs">
+                          <div className="p-2 bg-surface-container border border-primary/20">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Base Importance</span>
+                            <span className="text-sm font-bold text-primary">{scoreData.baseScore}</span>
+                          </div>
+                          <div className="p-2 bg-surface-container border border-primary/20">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Final Decayed Rank</span>
+                            <span className="text-sm font-bold text-secondary">{scoreData.finalRankScore}</span>
+                          </div>
+                          <div className="p-2 bg-surface-container border border-primary/20 col-span-2 sm:col-span-1">
+                            <span className="text-[10px] text-on-surface-variant uppercase block font-sans">Editorial Signals</span>
+                            <div className="text-[10px] text-primary truncate" title={scoreData.breakdown.join(' | ')}>
+                              {scoreData.breakdown.join(' • ')}
+                            </div>
+                          </div>
+                        </div>
+
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
+                          <div>
+                            <div className="flex items-center justify-between mb-1">
+                              <label className="text-xs font-serif text-on-surface-variant font-semibold">
+                                Editorial Base Override (1.0 to 10.0)
+                              </label>
+                              <span className="text-xs font-mono font-bold text-primary">
+                                {selectedStory.importance_score ?? 2.0}
+                              </span>
+                            </div>
+                            <input
+                              type="range"
+                              min="1.0"
+                              max="10.0"
+                              step="0.5"
+                              value={selectedStory.importance_score ?? 2.0}
+                              onChange={(e) =>
+                                setSelectedStory({
+                                  ...selectedStory,
+                                  importance_score: parseFloat(e.target.value)
+                                })
+                              }
+                              className="w-full accent-secondary cursor-pointer"
+                            />
+                            <span className="text-[10px] text-on-surface-variant font-serif block mt-1">
+                              Setting score ≥ 4.0 immediately promotes this dispatch into the Center Hero slot on the website.
+                            </span>
+                          </div>
+
+                          <div className="space-y-2">
+                            <label className="block text-xs font-serif text-on-surface-variant font-semibold">
+                              Website Category Desk
+                            </label>
+                            <select
+                              value={selectedStory.primary_category}
+                              onChange={(e) =>
+                                setSelectedStory({
+                                  ...selectedStory,
+                                  primary_category: e.target.value
+                                })
+                              }
+                              className="w-full bg-surface border border-primary/30 text-xs text-primary p-2 focus:outline-none font-sans"
+                            >
+                              <option value="governance_law">Governance & Law (শাসন ও সংবিধান)</option>
+                              <option value="economy_business">Economy & Business (অর্থনীতি ও ব্যাংকিং)</option>
+                              <option value="international_diplomacy">International & Geopolitics (আন্তর্জাতিক ও কূটনীতি)</option>
+                              <option value="infrastructure_energy">Infrastructure & Energy (অবকাঠামো ও জ্বালানি)</option>
+                              <option value="science_technology">Science & Technology (তথ্যপ্রযুক্তি)</option>
+                              <option value="national">National & Society (জাতীয়)</option>
+                            </select>
+
+                            <label className="flex items-center gap-2 cursor-pointer pt-1 select-none text-xs font-serif">
+                              <input
+                                type="checkbox"
+                                checked={selectedStory.is_bcs_pro_selected}
+                                onChange={(e) =>
+                                  setSelectedStory({
+                                    ...selectedStory,
+                                    is_bcs_pro_selected: e.target.checked
+                                  })
+                                }
+                                className="accent-secondary"
+                              />
+                              <span className="font-semibold text-primary">Current Affairs / BCS Pro Analytical Badge</span>
+                            </label>
+                          </div>
+                        </div>
+                      </div>
+                    );
+                  })()}
 
                 {/* 2. ENGLISH COPYWRITING */}
                 <div className="space-y-3">
@@ -871,8 +1095,9 @@ export const EditorialDashboard: React.FC = () => {
                   </div>
                 </div>
               </div>
-            </div>
-          ) : (
+            )}
+          </div>
+        ) : (
             <div className="h-full flex flex-col items-center justify-center p-8 text-center text-on-surface-variant">
               <Layers className="w-10 h-10 mb-3 text-secondary/40" />
               <h4 className="font-serif text-base font-bold text-primary mb-1">
