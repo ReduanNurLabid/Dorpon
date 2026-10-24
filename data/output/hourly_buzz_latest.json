@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-10-24T14:00:45.990862",
+  "updated_at": "2026-10-24T15:00:54.065007",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "2a9fc67e-d6b3-54b3-9b8d-e0c0e8901b9a",
+      "story_id": "fcaba9d4-f17b-51b0-8a0d-0f476f82900d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T14:32:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4757,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976489/%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A4-%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%98%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় বাড়িঘরে হামলা চালালেন যুবলীগ নেতা",
+          "snippet": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় বাড়িঘরে হামলা চালালেন যুবলীগ নেতা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভাগ্নির বিয়েতে দাওয়াত না দেওয়ায় মাদারীপুরে যুবলীগ নেতার হামলা",
+        "title_en": "Juba League Leader Attacks House in Madaripur Over Wedding Snub",
+        "summary_bn": "ভাগ্নির বিয়েতে আমন্ত্রণ না পাওয়ার জেরে মাদারীপুরে এক ব্যক্তির বাড়িতে হামলা ও ভাঙচুর চালিয়েছে স্থানীয় এক যুবলীগ নেতা।",
+        "summary_en": "A local Juba League leader and his associates attacked and vandalized a residence in Madaripur after being omitted from a wedding invite.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T14:32:26+00:00",
+        "lead_bn": "ভাগ্নির বিয়েতে আমন্ত্রণ না পাওয়ার জেরে মাদারীপুরে এক ব্যক্তির বাড়িতে হামলা ও ভাঙচুর চালিয়েছে স্থানীয় এক যুবলীগ নেতা।",
+        "lead_en": "A local Juba League leader and his associates attacked and vandalized a residence in Madaripur after being omitted from a wedding invite.",
+        "bullets_bn": [
+          "দাওয়াত না পাওয়ার ক্ষোভে এক ব্যক্তির বাড়িতে হামলা চালিয়ে ভাঙচুর করে দুর্বৃত্তরা",
+          "হামলার সময় স্বর্ণালঙ্কার ও নগদ ১০ লাখ টাকা লুট করা হয়েছে বলে অভিযোগ উঠেছে",
+          "ভাঙচুরের সময় একাধিক ককটেল বোমা বিস্ফোরণ ঘটিয়ে পুরো এলাকায় চরম আতঙ্ক সৃষ্টি করা হয়"
+        ],
+        "bullets_en": [
+          "Assailants launched a violent attack on a residential house due to a personal dispute over a wedding invitation snub.",
+          "Victims reported that gold ornaments and ten lakh taka in cash were looted during the raid.",
+          "Multiple crude cocktail bombs were detonated on site to spread panic among local residents."
+        ],
+        "impact_bn": "রাজনৈতিক প্রভাবশালীদের এমন সহিংস কর্মকাণ্ড সাধারণ মানুষের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে এবং জনমনে আতঙ্ক তৈরি করছে।",
+        "impact_en": "Such violent acts by politically connected individuals heighten insecurity and terrorize ordinary residents in local communities.",
+        "details_bn": "মাদারীপুর সদর উপজেলার কালিকাপুর ইউনিয়নের দক্ষিণ এলাকায় ব্যক্তিগত বিরোধ ও বিয়ের দাওয়াত নিয়ে দ্বন্দ্বের জেরে এই হামলার ঘটনা ঘটে। স্থানীয় প্রভাবশালীদের এমন আচরণ ও রাজনৈতিক ছত্রছায়ায় অপরাধমূলক কর্মকাণ্ড পরিচালনার অভিযোগ প্রায়ই এলাকায় নিরাপত্তা সংকট তৈরি করে। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নিষ্ক্রিয়তার সুযোগে অপরাধীরা পার পেয়ে যাওয়ায় সাধারণ মানুষ প্রতিনিয়ত নিরাপত্তাহীনতায় ভুগছেন।",
+        "details_en": "The attack occurred in the South area of Kalikapur union under Madaripur Sadar upazila following a dispute over a family wedding invitation. Local residents frequently face security threats due to the alleged impunity enjoyed by politically affiliated actors. Such incidents underscore recurring law and order challenges involving local political figures."
+      }
+    },
+    {
+      "story_id": "b593d390-398e-5472-9af9-8d61933d44d3",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,272 +68,106 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/JPEG-8-1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T13:00:23+00:00",
+      "published_at": "2026-10-24T14:29:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.5748,
+      "importance_score": 4.8,
+      "rank_score": 1.4364,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976466/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A7%AB%E0%A7%AD-%E0%A6%AC%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%A0%E0%A6%A8",
-          "title": "হাইকোর্টের ৫৭ বেঞ্চ পুনর্গঠন",
-          "snippet": "হাইকোর্টের ৫৭ বেঞ্চ পুনর্গঠন"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/police-attacked-during-a-procession-by-the-banned-jubo-league-and-chhatra-league-2-injured/",
+          "title": "নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলা, আহত ২",
+          "snippet": "নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলা, আহত ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য ৫৭টি বেঞ্চ পুনর্গঠন",
-        "title_en": "Chief Justice Reconstitutes 57 High Court Benches for Judicial Proceedings",
-        "summary_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-        "summary_en": "Chief Justice Zubayer Rahman Chowdhury has reconstituted 57 benches of the High Court division for judicial proceedings.",
+        "title_bn": "গোপালগঞ্জে নিষিদ্ধ সংগঠনগুলোর মিছিল থেকে পুলিশের ওপর হামলা, আহত দুই",
+        "title_en": "Police Attacked During Banned Group Processions in Gopalganj, Two Injured",
+        "summary_bn": "গোপালগঞ্জে নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলার ঘটনায় দুই পুলিশ সদস্য আহত এবং একটি গাড়ি ভাঙচুর করা হয়েছে।",
+        "summary_en": "Two police officers were injured and a patrol vehicle was vandalized during an attack by banned Jubo League and Chhatra League processions in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T13:00:23+00:00",
-        "lead_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-        "lead_en": "Chief Justice Zubayer Rahman Chowdhury has reconstituted 57 benches of the High Court division for judicial proceedings.",
+        "published_at": "2026-10-24T14:29:19+00:00",
+        "lead_bn": "গোপালগঞ্জে নিষিদ্ধ যুবলীগ ও ছাত্রলীগের মিছিল থেকে পুলিশের ওপর হামলার ঘটনায় দুই পুলিশ সদস্য আহত এবং একটি গাড়ি ভাঙচুর করা হয়েছে।",
+        "lead_en": "Two police officers were injured and a patrol vehicle was vandalized during an attack by banned Jubo League and Chhatra League processions in Gopalganj.",
         "bullets_bn": [
-          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী হাইকোর্ট বিভাগের বিচারিক কার্যক্রম পরিচালনার জন্য মোট ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
-          "সুপ্রিম কোর্টের ওয়েবসাইটে প্রকাশিত প্রধান বিচারপতির আদেশ অনুযায়ী পুনর্গঠিত বেঞ্চগুলো বিচারিক কার্যক্রম পরিচালনা করবে।",
-          "অবকাশকালীন ছুটি শেষে নির্ধারিত কর্মদিবস থেকে পুনর্গঠিত এসব বেঞ্চে বিচারকাজ আনুষ্ঠানিকভাবে শুরু হয়েছে।"
+          "নিষিদ্ধ ঘোষিত যুবলীগ ও ছাত্রলীগের একটি মিছিল থেকে পুলিশের ওপর আকস্মিক লাঠিসোটা নিয়ে হামলা চালানো হয়।",
+          "হামলায় সদর থানার এসআই ফুলমিয়াসহ দুই পুলিশ সদস্য আহত হয়ে গোপালগঞ্জ ২৫০ শয্যাবিশিষ্ট জেনারেল হাসপাতালে চিকিৎসা নেন।",
+          "পুলিশের ওপর হামলা ও গাড়ি ভাঙচুরের ঘটনায় জড়িত নিষিদ্ধ সংগঠনের সদস্যদের গ্রেপ্তারে আইনপ্রয়োগকারী সংস্থার অভিযান চলছে।"
         ],
         "bullets_en": [
-          "Chief Justice Zubayer Rahman Chowdhury has reorganized a total of 57 benches to conduct judicial proceedings in the High Court division.",
-          "The reconstituted benches will operate according to the directive published on the Supreme Court website by the Chief Justice.",
-          "Judicial proceedings in these reconstituted benches have officially resumed following the vacation period."
+          "A procession by banned Jubo League and Chhatra League activists launched a sudden baton attack on police officers.",
+          "Two police personnel, including SI Fulmia of Sadar Police Station, sustained injuries and received treatment at Gopalganj 250-bed General Hospital.",
+          "Law enforcement agencies have launched operations to arrest the perpetrators involved in the assault and vehicle vandalism."
         ],
-        "impact_bn": "বিচারপ্রার্থী সাধারণ মানুষ দ্রুত বিচার কার্যক্রমের সুফল পাবেন এবং আদালতের স্বাভাবিক কার্যক্রম আরও গতিশীল হবে।",
-        "impact_en": "Litigants will experience smoother court proceedings and faster access to justice following the bench restructuring.",
-        "details_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ সুশৃঙ্খলভাবে পরিচালনার জন্য প্রধান বিচারপতি নিয়মিতভাবেই বেঞ্চ পুনর্গঠন করে থাকেন। বিচারিক কার্যক্রমের গতিশীলতা বজায় রাখতে এবং মামলা জট কমাতে অবকাশকালীন ছুটির পর আদালতের নিয়মিত কার্যক্রম শুরুর প্রাক্কালে এই বেঞ্চ বিন্যাস করা হয়।",
-        "details_en": "The Chief Justice routinely reorganizes High Court benches to ensure orderly judicial proceedings in the Supreme Court. This restructuring typically occurs ahead of regular court operations following vacations to maintain judicial efficiency and address case backlogs."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও সহিংসতার কারণে স্থানীয় সাধারণ মানুষের মধ্যে আতঙ্ক ও উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Violence and clashes create heightened public anxiety and disrupt normal civic life for local residents.",
+        "details_bn": "গোপালগঞ্জ সদর উপজেলার বেদগ্রাম খেয়াঘাট এলাকায় পুলিশের নিয়মিত টহল চলাকালে নিষিদ্ধ ঘোষিত যুবলীগ ও ছাত্রলীগের নেতাকর্মীরা সাবেক প্রধানমন্ত্রীর পক্ষে একটি মিছিল বের করে। পুলিশ বাধা দিলে মিছিলকারীরা চড়াও হয় এবং হামলা চালায়। পরে পুলিশ সদস্যরা পরিস্থিতি নিয়ন্ত্রণে অতিরিক্ত ফোর্স মোতায়েন ও অভিযুক্তদের গ্রেপ্তারে অভিযান শুরু করে।",
+        "details_en": "During regular police patrols in the Vedgram Kheyaaghat area of Gopalganj Sadar, members of the banned Jubo League and Chhatra League took out a procession in support of the former prime minister. When police attempted to intervene, the participants turned violent and launched an assault. Authorities subsequently deployed additional forces and initiated a manhunt to arrest the suspects involved."
       }
     },
     {
-      "story_id": "b77d3c6a-4135-5e85-a5f2-704a7a3d155d",
-      "primary_category": "world_diplomacy",
+      "story_id": "064eecdc-b1dc-5ad6-80aa-8caa7940db7e",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "sports_fitness"
       ],
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/hansi-1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T13:30:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4568,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171515",
-          "title": "কৃষ্ণসাগরে ড্রোন হামলায় ডুবল জাহাজ, রাশিয়াকে দুষছে রোমানিয়া",
-          "snippet": "কৃষ্ণসাগরে ড্রোন হামলায় ডুবল জাহাজ, রাশিয়াকে দুষছে রোমানিয়া"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কৃষ্ণসাগরে ড্রোন হামলায় রোমানিয়ার উপকূলে পণ্যবাহী জাহাজ ডুবি",
-        "title_en": "Cargo Vessel Sinks in Black Sea off Romania Following Drone Attack",
-        "summary_bn": "রোমানিয়ার কৃষ্ণসাগর উপকূলে ড্রোন হামলায় কোমোরোসের পতাকাবাহী একটি পণ্যবাহী জাহাজ ডুবে গেছে এবং একজন নাবিক নিখোঁজ রয়েছেন।",
-        "summary_en": "A Comoros-flagged cargo vessel sank off Romania's Black Sea coast following a drone attack, leaving one crew member missing.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T13:30:54+00:00",
-        "lead_bn": "রোমানিয়ার কৃষ্ণসাগর উপকূলে ড্রোন হামলায় কোমোরোসের পতাকাবাহী একটি পণ্যবাহী জাহাজ ডুবে গেছে এবং একজন নাবিক নিখোঁজ রয়েছেন।",
-        "lead_en": "A Comoros-flagged cargo vessel sank off Romania's Black Sea coast following a drone attack, leaving one crew member missing.",
-        "bullets_bn": [
-          "রোমানিয়ার কৃষ্ণসাগর উপকূলে সংঘটিত ড্রোন হামলায় কোমোরোসের পতাকাবাহী পণ্যবাহী জাহাজ সম্পূর্ণ ডুবে যায়।",
-          "হামলার পর উদ্ধার অভিযানে তেরোজন নাবিককে জীবিত উদ্ধার করা হলেও একজন নাবিক নিখোঁজ রয়েছেন।",
-          "নিরাপত্তা বিশ্লেষকরা এই হামলার জন্য রাশিয়াকে দায়ী করলেও মস্কো পক্ষ থেকে আনুষ্ঠানিকভাবে কোনো প্রতিক্রিয়া জানানো হয়নি।"
-        ],
-        "bullets_en": [
-          "A Comoros-flagged cargo ship completely sank off Romania's Black Sea coast following a drone strike.",
-          "Thirteen crew members were rescued safely during emergency operations, while one crew member remains missing.",
-          "Security analysts blame Russia for the attack, though Moscow has not yet issued any official response."
-        ],
-        "impact_bn": "কৃষ্ণসাগর অঞ্চলে চলমান সংঘাতের কারণে সামুদ্রিক বাণিজ্য ও চলাচল ঝুঁকিপূর্ণ হয়ে ওঠায় বিশ্ব বাজারে পণ্য সরবরাহ ব্যাহত হতে পারে।",
-        "impact_en": "Ongoing conflict in the Black Sea region increases maritime transport risks, potentially disrupting global supply chains and commodity shipping.",
-        "details_bn": "ইউক্রেন যুদ্ধের পর থেকেই কৌশলগতভাবে গুরুত্বপূর্ণ কৃষ্ণসাগর অঞ্চলটি অন্যতম প্রধান সংঘাতে পরিণত হয়েছে। সমুদ্রপথে শস্য ও পণ্যবাহী জাহাজের যাতায়াত সুরক্ষিত রাখতে বিভিন্ন আন্তর্জাতিক পক্ষ দীর্ঘদিন ধরে উদ্বেগ প্রকাশ করে আসছে। সাম্প্রতিক এই ড্রোন হামলার ঘটনা ওই জলপথে বাণিজ্যিক জাহাজের নিরাপত্তা এবং আঞ্চলিক ভূরাজনীতিতে নতুন উত্তেজনার সৃষ্টি করেছে।",
-        "details_en": "The strategically vital Black Sea region has remained a primary conflict zone since the onset of the Russia-Ukraine war. International stakeholders have repeatedly raised concerns over maritime security for grain and cargo shipments. This recent drone attack further escalates tensions regarding commercial vessel safety and geopolitical stability along key European shipping lanes."
-      }
-    },
-    {
-      "story_id": "4245acb7-a029-5885-80f9-885bde48e014",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T13:27:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.417,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976472/%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%A8%E0%A6%B0%E0%A6%A4-%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%9C%E0%A6%A8-%E0%A6%86%E0%A6%9F%E0%A6%95",
-          "title": "মাদক সেবনরত অবস্থায় পুলিশ সদস্যসহ তিন জন আটক",
-          "snippet": "মাদক সেবনরত অবস্থায় পুলিশ সদস্যসহ তিন জন আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শ্রীপুরে মাদক সেবনকালে পুলিশ কনস্টেবলসহ তিনজন আটক",
-        "title_en": "Police Constable and Two Others Detained for Drug Consumption in Sreepur",
-        "summary_bn": "গাজীপুরের শ্রীপুরে মাদক সেবনের সময় এক পুলিশ কনস্টেবলসহ তিনজনকে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় এলাকাবাসী।",
-        "summary_en": "Local residents detained and handed over a police constable and two others to law enforcement for consuming drugs in Sreepur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T13:27:40+00:00",
-        "lead_bn": "গাজীপুরের শ্রীপুরে মাদক সেবনের সময় এক পুলিশ কনস্টেবলসহ তিনজনকে আটক করে পুলিশে সোপর্দ করেছে স্থানীয় এলাকাবাসী।",
-        "lead_en": "Local residents detained and handed over a police constable and two others to law enforcement for consuming drugs in Sreepur.",
-        "bullets_bn": [
-          "এলাকাবাসী হাতেনাতে ধরে তিনজনকে পুলিশের কাছে হস্তান্তর করেন।",
-          "ঘটনাস্থল থেকে ১২০ পিস ইয়াবা ট্যাবলেট উদ্ধার করা হয়েছে।",
-          "আটককৃতদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Local residents caught and handed over three individuals to law enforcement.",
-          "Officers recovered 120 pieces of Yaba tablets from the scene.",
-          "The detainees were sent to jail through the court."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের অপরাধমূলক কর্মকাণ্ডে জড়িত থাকা জনমনে প্রশ্ন তুলেছে এবং জবাবদিহিতার দাবি জোরদার করেছে।",
-        "impact_en": "Involvement of law enforcement personnel in criminal activities raises serious accountability concerns among the public.",
-        "details_bn": "গাজীপুরের শ্রীপুরে স্থানীয় জনগণের সহায়তায় পুলিশ কনস্টেবলসহ তিনজনকে মাদক সেবনরত অবস্থায় আটক করা হয়। পুলিশ জাহাঙ্গীর আলম নামের একজনের ঘর থেকে ১২০ পিস ইয়াবা ট্যাবলেট উদ্ধার করে। পরে শ্রীপুর থানার ওসি মোহাম্মদ শাহীনুর আলম আটকের বিষয়টি নিশ্চিত করেন এবং আসামিদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়।",
-        "details_en": "A police constable and two others were detained in Sreepur with the help of local residents while consuming drugs. Authorities recovered 120 pieces of Yaba tablets from a room belonging to Jahangir Alam. Sreepur Police Station officer-in-charge confirmed the incident, and the suspects were subsequently sent to jail through the court system."
-      }
-    },
-    {
-      "story_id": "86f5f3d6-12e2-5c61-a81f-b5667e3dcf2c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fyu3ehwtt%2FA-police-officer.jpg?rect=0%2C55%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T12:56:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1158,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/1o3rq9pezv",
-          "title": "হামলার হুমকি দিচ্ছে যুক্তরাষ্ট্র-ইসরায়েল, আক্রমণাত্মক সামরিক নীতি নিচ্ছে ইরান, নতুন করে যুদ্ধ কি আসন্ন",
-          "snippet": "হামলার হুমকি দিচ্ছে যুক্তরাষ্ট্র-ইসরায়েল, আক্রমণাত্মক সামরিক নীতি নিচ্ছে ইরান, নতুন করে যুদ্ধ কি আসন্ন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন হামলার আশঙ্কায় আক্রমণাত্মক সামরিক নীতি গ্রহণ করছে ইরান",
-        "title_en": "Iran Shifts to Aggressive Military Doctrine Amid US Attack Threats",
-        "summary_bn": "মার্কিন হামলার হুমকির মুখে প্রতিরক্ষানীতি পরিবর্তন করে আক্রমণাত্মক ও বিস্তৃত সামরিক অভিযান চালানোর ঘোষণা দিয়েছে ইরানের বিপ্লবী গার্ড বাহিনী।",
-        "summary_en": "Faced with US threats, Iran's Islamic Revolutionary Guard Corps shifted its defense doctrine to launch aggressive military operations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T12:56:43+00:00",
-        "lead_bn": "মার্কিন হামলার হুমকির মুখে প্রতিরক্ষানীতি পরিবর্তন করে আক্রমণাত্মক ও বিস্তৃত সামরিক অভিযান চালানোর ঘোষণা দিয়েছে ইরানের বিপ্লবী গার্ড বাহিনী।",
-        "lead_en": "Faced with US threats, Iran's Islamic Revolutionary Guard Corps shifted its defense doctrine to launch aggressive military operations.",
-        "bullets_bn": [
-          "শত্রুপক্ষের যেকোনো হামলার জবাবে কেবল আত্মরক্ষা নয় বরং বিস্তৃত সামরিক অভিযান পরিচালনার সিদ্ধান্ত নিয়েছে ইরানের ইসলামি বিপ্লবী গার্ড বাহিনী।",
-          "ইসরায়েলের সাথে পূর্ববর্তী সংঘাতের পর ইরানের ক্ষেপণাস্ত্রের মজুত দেড় গুণ বৃদ্ধি পেয়েছে বলে জানান আইআরজিসির মুখপাত্র হোসেইন মোহেবি।",
-          "মধ্যপ্রাচ্যে চলমান উত্তেজনা বৃদ্ধি পাওয়ায় মার্কিন কূটনৈতিক কর্মীদের সৌদি আরব থেকে সরিয়ে নেওয়ার প্রক্রিয়া শুরু হয়েছে।"
-        ],
-        "bullets_en": [
-          "Iran shifted its defensive doctrine to conduct wide-ranging military operations in response to enemy attacks instead of mere self-defense.",
-          "IRGC spokesperson Hossein Mohebi stated that Iran's missile stockpile increased by one and a half times following previous clashes.",
-          "Washington began evacuating non-essential diplomatic staff from Saudi Arabia amid escalating military tensions in the Middle East."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে সম্ভাব্য পূর্ণমাত্রার যুদ্ধ শুরু হলে জ্বালানি সংকট এবং প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে উদ্বেগ তৈরি হতে পারে।",
-        "impact_en": "A potential full-scale conflict in the Middle East could trigger global energy crises and security concerns for expatriates.",
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সম্ভাব্য হামলার আশঙ্কার প্রেক্ষাপটে ইরান তাদের সামরিক কৌশল পরিবর্তন করেছে। হরমুজ প্রণালিতে বাণিজ্যিক জাহাজে হামলা বৃদ্ধি এবং ওয়াশিংটন ও তেহরানের মধ্যকার কূটনৈতিক আলোচনা স্থবির হয়ে পড়ার কারণে মধ্যপ্রাচ্যে নতুন করে বড় ধরনের সামরিক সংঘাতের আশঙ্কা তৈরি হয়েছে।",
-        "details_en": "Iran revised its military strategy amid expectations of impending US and Israeli attacks. Increased commercial shipping attacks in the Strait of Hormuz and stalled diplomatic talks between Washington and Tehran have heightened fears of a major military conflict in the Middle East."
-      }
-    },
-    {
-      "story_id": "fe477351-2598-5786-9c65-025060712727",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T14:00:00+00:00",
+      "published_at": "2026-10-24T14:59:07+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9638,
+      "rank_score": 0.9543,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/976470/%E0%A6%9C%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%A6%E0%A7%82%E0%A6%B7%E0%A6%A3-%E0%A6%A8%E0%A6%B0%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%95%E0%A6%B2%E0%A7%87%E0%A6%B0",
-          "title": "জলবায়ু পরিবর্তনে ধাতুর দূষণ, নরওয়ের গ্রামে কলের পানি পানে নিষেধাজ্ঞা",
-          "snippet": "জলবায়ু পরিবর্তনে ধাতুর দূষণ, নরওয়ের গ্রামে কলের পানি পানে নিষেধাজ্ঞা"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/el-clasico-jose-mourinho-barcelona-real-madrid-lead-sports-2/",
+          "title": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন দুই কোচ",
+          "snippet": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন দুই কোচ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নরওয়ের আর্কটিক গ্রামে জলবায়ু পরিবর্তনে ধাতুর দূষণ, কলের পানি পানে নিষেধাজ্ঞা",
-        "title_en": "Norwegian Arctic Village Bans Tap Water After Climate-Induced Heavy Metal Contamination",
-        "summary_bn": "জলবায়ু পরিবর্তনের ফলে গলে যাওয়া মাটি থেকে ভারী ধাতু পানিতে মিশায় নরওয়ের একটি প্রত্যন্ত গ্রামে কলের পানি পানে নিষেধাজ্ঞা জারি করা হয়েছে।",
-        "summary_en": "Authorities in a remote Norwegian Arctic village banned tap water consumption after thawing permafrost leaked heavy metals into drinking sources.",
+        "title_bn": "এল ক্ল্যাসিকোর আগে একে অন্যের প্রশংসায় মাতলেন বার্সা ও রিয়াল কোচ",
+        "title_en": "Barca and Real Coaches Praise Each Other Ahead of El Clasico",
+        "summary_bn": "মৌসুমের প্রথম এল ক্ল্যাসিকোর আগে বার্সেলোনা ও রিয়াল মাদ্রিদের কোচ একে অপরের প্রশংসা করে নিজেদের পারস্পরিক সমীহ প্রকাশ করেছেন।",
+        "summary_en": "Coaches of Barcelona and Real Madrid exchanged mutual praise and respect ahead of the season's first El Clasico.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T14:00:00+00:00",
-        "lead_bn": "জলবায়ু পরিবর্তনের ফলে গলে যাওয়া মাটি থেকে ভারী ধাতু পানিতে মিশায় নরওয়ের একটি প্রত্যন্ত গ্রামে কলের পানি পানে নিষেধাজ্ঞা জারি করা হয়েছে।",
-        "lead_en": "Authorities in a remote Norwegian Arctic village banned tap water consumption after thawing permafrost leaked heavy metals into drinking sources.",
+        "published_at": "2026-10-24T14:59:07+00:00",
+        "lead_bn": "মৌসুমের প্রথম এল ক্ল্যাসিকোর আগে বার্সেলোনা ও রিয়াল মাদ্রিদের কোচ একে অপরের প্রশংসা করে নিজেদের পারস্পরিক সমীহ প্রকাশ করেছেন।",
+        "lead_en": "Coaches of Barcelona and Real Madrid exchanged mutual praise and respect ahead of the season's first El Clasico.",
         "bullets_bn": [
-          "জলবায়ু পরিবর্তনের প্রভাবে গলে যাওয়া শিলাস্তর থেকে পানিতে ভারী ধাতু মিশে যাওয়ার পর কর্তৃপক্ষ পানিবণ্টন বন্ধ করে দেয়।",
-          "প্রায় ২ হাজার ৬০০ বাসিন্দার জনপদ লংইয়ারবিয়েনে এই দূষণ ধরা পড়ার পর বিকল্প বিশুদ্ধ পানি সরবরাহ করা হচ্ছে।",
-          "বিজ্ঞানীদের আশঙ্কা, একই ধরনের ভূগর্ভস্থ দূষণ সংকট আর্কটিক অঞ্চলের অন্যান্য জনপদগুলোতেও ছড়িয়ে পড়তে পারে।"
+          "এল ক্ল্যাসিকোর প্রাক্কালে রিয়াল মাদ্রিদ ও বার্সেলোনা কোচ একে অপরের কোচিং কৌশল এবং দলের দক্ষতার প্রশংসা করেন।",
+          "রিয়াল কোচ হান্সি ফ্লিককে দারুণ কোচ বলে অভিহিত করেন এবং বার্সা কোচ তাকে দীর্ঘমেয়াদী সফলতার জন্য শ্রদ্ধা জানান।",
+          "দুই চিরপ্রতিদ্বন্দ্বী দলের এই হাইভোল্টেজ ম্যাচটি ফুটবলপ্রেমীদের মধ্যে ব্যাপক উন্মাদনার সৃষ্টি করেছে।"
         ],
         "bullets_en": [
-          "Authorities halted tap water supply after climate-driven permafrost thaw leaked heavy metals into drinking sources.",
-          "Alternative safe water supplies are being arranged for the approximately 2,600 residents of Longyearbyen.",
-          "Scientists warn that similar groundwater contamination crises could affect other remote Arctic settlements."
+          "Coaches of Real Madrid and Barcelona praised each other's coaching prowess and team capabilities ahead of the El Clasico.",
+          "The Real coach described Hansi Flick as a great coach while the Barca boss praised his counterpart's sustained success.",
+          "This high-voltage encounter between the two arch-rivals has generated massive excitement among football fans worldwide."
         ],
-        "impact_bn": "দূষণের ফলে স্থানীয় বাসিন্দাদের সুপেয় পানির সংকট তৈরি হয়েছে এবং তাদের জরুরি ভিত্তিতে বিকল্প উৎসের ওপর নির্ভর করতে হচ্ছে।",
-        "impact_en": "Local residents face drinking water shortages and must rely entirely on emergency alternative sources for daily hydration.",
-        "details_bn": "জলবায়ু পরিবর্তনের কারণে মেরু অঞ্চলের তাপমাত্রা বৈশ্বিক গড়ের তুলনায় দ্রুত বাড়ছে। এর ফলে আর্কটিক অঞ্চলের চিরহিমায়িত মাটি বা পারমাফ্রস্ট গলে গিয়ে দীর্ঘদিন ধরে আটকে থাকা খনিজ ও ভারী ধাতু আশপাশের জলধারায় মিশে যাচ্ছে। এই পরিবেশগত পরিবর্তনের ফলে নরওয়ের স্বায়ত্তশাসিত স্ভালবার্ড দ্বীপপুঞ্জের লংইয়ারবিয়েনে পানীয় জলের সুরক্ষা নিয়ে বড় ধরনের ঝুঁকি তৈরি হয়েছে, যা বিজ্ঞানীদের নতুন করে উদ্বেগে ফেলেছে।",
-        "details_en": "Polar temperatures are rising much faster than the global average due to climate change, causing permafrost to thaw and release trapped heavy metals into surrounding waterways. This environmental shift has created severe drinking water safety risks in Svalbard's Longyearbyen settlement, raising fresh concerns among researchers monitoring Arctic ecosystems."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্প্যানিশ ফুটবলের দুই চিরপ্রতিদ্বন্দ্বী বার্সেলোনা ও রিয়াল মাদ্রিদের মধ্যকার ম্যাচটি বিশ্বজুড়ে এল ক্ল্যাসিকো হিসেবে পরিচিত। ম্যাচটিকে কেন্দ্র করে ঐতিহ্যগতভাবেই খেলোয়াড় ও কোচদের মধ্যে কথার লড়াই ও উত্তাপ ছড়ায়। তবে সাম্প্রতিক সময়ে দুই দলের কোচদের এমন পারস্পরিক সম্মান প্রদর্শন ফুটবলের মাঠের সৌহার্দ্যপূর্ণ মনোভাবের এক উজ্জ্বল দৃষ্টান্ত স্থাপন করেছে।",
+        "details_en": "The match between Spanish football arch-rivals Barcelona and Real Madrid is globally known as El Clasico. Traditionally, this fixture brings intense rivalry and war of words between camps. However, the recent exchange of mutual respect between the respective coaches sets a fine example of sportsmanship ahead of the high-stakes clash."
       }
     },
     {
-      "story_id": "a667f4c6-10fa-59e4-bdb2-886da0c89e90",
+      "story_id": "f48574bc-ce46-521f-a3c1-f0fc305c1f44",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -288,46 +178,154 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T13:55:38+00:00",
+      "published_at": "2026-10-24T14:48:17+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9204,
+      "rank_score": 0.8543,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171521",
-          "title": "বগুড়ায় শিক্ষার্থীদের স্বপ্নপূরণে ক্যারিয়ার গাইডলাইন সভা",
-          "snippet": "বগুড়ায় শিক্ষার্থীদের স্বপ্নপূরণে ক্যারিয়ার গাইডলাইন সভা"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/976495/%E0%A6%A8%E0%A6%BF%E0%A6%9C-%E0%A6%A6%E0%A7%8B%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A7%87-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%AA%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A7%87",
+          "title": "নিজ দোকানে বসে ছিলেন ব্যবসায়ী, পেটে গুলি করে চলে গেলো দুজন",
+          "snippet": "নিজ দোকানে বসে ছিলেন ব্যবসায়ী, পেটে গুলি করে চলে গেলো দুজন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বগুড়ায় শিক্ষার্থীদের ক্যারিয়ার গাইডলাইন সভা অনুষ্ঠিত",
-        "title_en": "Career Guideline Seminar Held for Students in Bogura",
-        "summary_bn": "সামাজিক সংগঠনের উদ্যোগে বগুড়ায় আয়োজিত ক্যারিয়ার গাইডলাইন সভায় এলাকার বিপুল সংখ্যক শিক্ষার্থী ও অভিভাবক অংশ নেন।",
-        "summary_en": "Students and parents participated in a career guideline seminar organized by a social organization in Bogura.",
+        "title_bn": "খুলনায় নিজ দোকানে মুদি ব্যবসায়ীকে গুলি করেছে দুর্বৃত্তরা",
+        "title_en": "Gunmen Shoot Grocery Shop Owner Inside Store in Khulna",
+        "summary_bn": "খুলনা সদর থানা এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডু নামের এক মুদি ব্যবসায়ীকে গুলি করে পালিয়ে যায় দুর্বৃত্তরা।",
+        "summary_en": "Unidentified gunmen shot and injured grocery shop owner Akash Kundu while he was sitting inside his store in Khulna.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T13:55:38+00:00",
-        "lead_bn": "সামাজিক সংগঠনের উদ্যোগে বগুড়ায় আয়োজিত ক্যারিয়ার গাইডলাইন সভায় এলাকার বিপুল সংখ্যক শিক্ষার্থী ও অভিভাবক অংশ নেন।",
-        "lead_en": "Students and parents participated in a career guideline seminar organized by a social organization in Bogura.",
+        "published_at": "2026-10-24T14:48:17+00:00",
+        "lead_bn": "খুলনা সদর থানা এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডু নামের এক মুদি ব্যবসায়ীকে গুলি করে পালিয়ে যায় দুর্বৃত্তরা।",
+        "lead_en": "Unidentified gunmen shot and injured grocery shop owner Akash Kundu while he was sitting inside his store in Khulna.",
         "bullets_bn": [
-          "বারোপুর বাঁশবাড়িয়া নবজাগরণ ও সমাজকল্যাণ সংঘ এই ক্যারিয়ার গাইডলাইন কর্মসূচির আয়োজন করে।",
-          "অনুষ্ঠানে এলাকার বিপুল সংখ্যক শিক্ষার্থী, অভিভাবক এবং সাধারণ নাগরিক উপস্থিত ছিলেন।",
-          "শিক্ষার্থীদের ভবিষ্যৎ পরিকল্পনা ও উচ্চশিক্ষার পথ সুগম করতে এই কর্মশালা পরিচালনা করা হয়।"
+          "দক্ষিণ টুটপাড়া এলাকায় নিজ দোকানে বসা অবস্থায় আকাশ কুন্ডুর পেটে গুলি করে দুই দুর্বৃত্ত।",
+          "গুলিবিদ্ধ আকাশ কুন্ডুকে দ্রুত উদ্ধার করে খুলনা মেডিক্যাল কলেজ হাসপাতালে ভর্তি করা হয়েছে।",
+          "ঘটনার পর এলাকায় আতঙ্ক ছড়িয়ে পড়ে এবং হামলাকারীদের শনাক্ত করতে পুলিশ অভিযান শুরু করেছে।"
         ],
         "bullets_en": [
-          "Baropur Bashbaria Nobojagoron O Somajkallan Songho organized the career guideline program.",
-          "A large number of local students, guardians, and general citizens attended the event.",
-          "The workshop was conducted to facilitate students' future planning and higher education paths."
+          "Two assailants shot grocery owner Akash Kundu in the abdomen while he sat inside his store in South Tutpara.",
+          "Locals swiftly rescued the wounded victim and rushed him to Khulna Medical College Hospital for emergency treatment.",
+          "Law enforcement launched a manhunt to identify and capture the perpetrators behind the targeted shooting."
         ],
-        "impact_bn": "স্থানীয় শিক্ষার্থীরা সঠিক দিকনির্দেশনা পেয়ে তাদের ভবিষ্যৎ পেশাগত জীবন পরিকল্পনা করতে আরও আত্মবিশ্বাসী হবে।",
-        "impact_en": "Local students will gain proper direction and confidence to plan their future professional paths.",
-        "details_bn": "স্থানীয় যুবসমাজ ও শিক্ষার্থীদের মাঝে সঠিক শিক্ষার আলো ছড়াতে এবং তাদের কর্মমুখী করতে বিভিন্ন সামাজিক সংগঠন নিয়মিত এ ধরনের উদ্যোগ গ্রহণ করে থাকে। এরই ধারাবাহিকতায় বগুড়ায় এই ক্যারিয়ার গাইডলাইন সভার আয়োজন করা হয়, যা তরুণ প্রজন্মকে তাদের লক্ষ্য নির্ধারণে সহায়তা করবে।",
-        "details_en": "Social organizations frequently take such initiatives to spread proper education and career orientation among the local youth and students. Following this trend, the career guideline seminar was organized in Bogura to help the younger generation set their professional goals."
+        "impact_bn": "স্থানীয় ব্যবসায়ীদের মধ্যে চরম নিরাপত্তাহীনতা ও ক্ষোভের সৃষ্টি করেছে এই নৃশংস সশস্ত্র হামলা।",
+        "impact_en": "The armed attack has triggered panic and raised severe safety concerns among local business owners.",
+        "details_bn": "খুলনা সদর থানা এলাকার দক্ষিণ টুটপাড়া ক্রসরোড গাছতলা মন্দিরের সামনে এই হামলার ঘটনা ঘটে। মুদি দোকানদার আকাশ কুন্ডু নিজের ব্যবসা পরিচালনা করার সময় হঠাৎ দুই দুর্বৃত্ত অতর্কিত হামলা চালায় এবং পেটে গুলি করে দ্রুত পালিয়ে যায়। স্থানীয়রা তাকে রক্তাক্ত অবস্থায় উদ্ধার করে হাসপাতালে ভর্তি করেন। আইনশৃঙ্খলা রক্ষাকারী বাহিনী হামলাকারীদের গ্রেফতারে তদন্ত ও অভিযান অব্যাহত রেখেছে।",
+        "details_en": "The shooting took place in front of a local temple area in South Tutpara under Khulna Sadar Police Station. Victim Akash Kundu was inside his grocery shop when two armed assailants suddenly opened fire, hitting him in the abdomen before fleeing the scene. Locals rushed the injured trader to Khulna Medical College Hospital. Police have launched an investigation to track down the attackers."
+      }
+    },
+    {
+      "story_id": "87fe52f1-6597-582a-9304-e2a1f0d1c770",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T14:47:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8491,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171550",
+          "title": "ক্ষুধা মোকাবিলায় বাংলাদেশ-ভারতের চেয়ে পিছিয়ে পাকিস্তান",
+          "snippet": "ক্ষুধা মোকাবিলায় বাংলাদেশ-ভারতের চেয়ে পিছিয়ে পাকিস্তান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ক্ষুধা ও অপুষ্টি মোকাবিলায় বাংলাদেশ ও ভারতের চেয়ে পিছিয়ে পাকিস্তান",
+        "title_en": "Pakistan Lags Behind Bangladesh and India in Combating Hunger and Malnutrition",
+        "summary_bn": "দক্ষিণ এশিয়ার প্রতিবেশী দেশ বাংলাদেশ, ভারত ও নেপালের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় পাকিস্তান উল্লেখযোগ্যভাবে পিছিয়ে পড়েছে।",
+        "summary_en": "Pakistan is lagging significantly behind its South Asian neighbors Bangladesh, India, and Nepal in tackling hunger and malnutrition.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T14:47:39+00:00",
+        "lead_bn": "দক্ষিণ এশিয়ার প্রতিবেশী দেশ বাংলাদেশ, ভারত ও নেপালের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় পাকিস্তান উল্লেখযোগ্যভাবে পিছিয়ে পড়েছে।",
+        "lead_en": "Pakistan is lagging significantly behind its South Asian neighbors Bangladesh, India, and Nepal in tackling hunger and malnutrition.",
+        "bullets_bn": [
+          "দক্ষিণ এশিয়ার প্রতিবেশী দেশগুলোর তুলনায় পাকিস্তানের খাদ্য নিরাপত্তা পরিস্থিতি অবনতি হয়েছে।",
+          "বাংলাদেশ ও ভারত পুষ্টিহীনতা হ্রাসে পাকিস্তানের চেয়ে ভালো সূচক অর্জন করেছে।",
+          "পাকিস্তানের এই পেছনের সারিতে থাকা আঞ্চলিক খাদ্য সুরক্ষা কৌশল নিয়ে নতুন উদ্বেগের জন্ম দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Pakistans food security situation has deteriorated compared to its South Asian neighbors.",
+          "Bangladesh and India have achieved better indicators than Pakistan in reducing malnutrition.",
+          "Pakistans lagging position has raised fresh concerns regarding regional food security strategies."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দক্ষিণ এশিয়ার বিভিন্ন দেশের মধ্যে খাদ্য নিরাপত্তা, অপুষ্টি দূরীকরণ এবং কৃষি উৎপাদনের সূচক নিয়ে নিয়মিত মূল্যায়ন করে থাকে আন্তর্জাতিক বিভিন্ন সংস্থা। সাম্প্রতিক মূল্যায়নে দেখা গেছে, খাদ্য উৎপাদন ও বিতরণ ব্যবস্থায় পিছিয়ে পড়ার কারণে পাকিস্তান আঞ্চলিক অন্যান্য দেশের তুলনায় ক্ষুধা ও অপুষ্টি মোকাবিলায় তলানিতে রয়েছে।",
+        "details_en": "International organizations regularly assess food security, malnutrition eradication, and agricultural production indices across South Asian nations. Recent evaluations indicate that lagging behind in food production and distribution systems has placed Pakistan at the bottom compared to other regional countries in combating hunger and malnutrition."
+      }
+    },
+    {
+      "story_id": "cb1e5afd-90a1-588f-aa3f-1b52dd3aa0b7",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T14:43:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8144,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171547",
+          "title": "শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকাসহ সোনা-রুপা",
+          "snippet": "শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকাসহ সোনা-রুপা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিলেটের হযরত শাহজালাল মাজারে দানবাক্সে মিলল ৮৮ লাখ টাকা",
+        "title_en": "Hazrat Shah Jalal Shrine Donation Boxes Yield 8.8 Lakh Taka",
+        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি এবং সোনা-রুপা পাওয়া গেছে।",
+        "summary_en": "Donation boxes and containers at the Hazrat Shah Jalal shrine in Sylhet yielded over 8.8 million taka in cash and valuables.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T14:43:18+00:00",
+        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি এবং সোনা-রুপা পাওয়া গেছে।",
+        "lead_en": "Donation boxes and containers at the Hazrat Shah Jalal shrine in Sylhet yielded over 8.8 million taka in cash and valuables.",
+        "bullets_bn": [
+          "মাজারের তিনটি ডেগ ও পাঁচটি দানবাক্স থেকে নগদ অর্থ ও মূল্যবান ধাতু সংগ্রহ করা হয়েছে।",
+          "গণনা শেষে মোট নগদ ৮৮ লাখ ৬৫ হাজার ৮০৪ টাকা পাওয়া গেছে।",
+          "জমে থাকা এসব অর্থ ও সম্পদ পরবর্তীতে নির্দিষ্ট নিয়ম অনুযায়ী মাজারের তহবিলে জমা করা হয়।"
+        ],
+        "bullets_en": [
+          "Cash and valuables were collected from three large pots and five donation boxes at the shrine.",
+          "Counting revealed a total cash amount of 8,865,804 taka along with gold and silver items.",
+          "The collected funds and assets are deposited into the shrine's official accounts following standard procedures."
+        ],
+        "impact_bn": "মাজারের এই সংগৃহীত তহবিল ধর্মীয় ও দাতব্য কাজে ব্যয় হওয়ায় স্থানীয় অর্থনীতি ও সমাজকল্যাণে ভূমিকা রাখে।",
+        "impact_en": "The funds collected from the shrine contribute to local religious and charitable activities.",
+        "details_bn": "সিলেটের হযরত শাহজালাল (রহ.) মাজারে ভক্ত ও দর্শনার্থীরা নিয়মিত দেশি-বিদেশি মুদ্রা এবং মূল্যবান সামগ্রী দান করেন। নির্দিষ্ট সময় পরপর প্রশাসনিক উপস্থিতিতে এসব দানবাক্স খোলা হয় এবং নিয়মতান্ত্রিক উপায়ে গণনা করে তহবিলে জমা দেওয়া হয়। এই অর্থ মাজারের উন্নয়ন ও রক্ষণাবেক্ষণের কাজে ব্যয় করা হয়ে থাকে।",
+        "details_en": "Devotees and visitors regularly donate local and foreign currencies along with valuables at the shrine of Hazrat Shah Jalal in Sylhet. These donation boxes are periodically opened in the presence of administration officials, counted systematically, and deposited into the shrine fund for maintenance and developmental purposes."
       }
     }
   ]
