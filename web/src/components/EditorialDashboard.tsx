@@ -10,6 +10,7 @@ import {
 import { 
   collection, 
   getDocs, 
+  getDoc,
   doc, 
   setDoc, 
   deleteDoc, 
@@ -191,43 +192,58 @@ export const EditorialDashboard: React.FC = () => {
     setStatusMessage(null);
     try {
       if (activeCollection === 'current_affairs_published') {
-        const docSnap = await getDocs(collection(db, 'current_affairs_published'));
-        const list: (CapsuleStory & { _docId?: string })[] = [];
-        docSnap.forEach((d) => {
-          const data = d.data();
-          if (data.stories && Array.isArray(data.stories)) {
-            data.stories.forEach((s: any, idx: number) => {
-              list.push({
-                ...s,
-                story_id: s.story_id || s.storyId || `${d.id}-${idx}`,
-                _docId: d.id,
-              });
+        // Load the active canonical edition 'latest'
+        const latestDocRef = doc(db, 'current_affairs_published', 'latest');
+        const latestSnap = await getDoc(latestDocRef);
+        let rawStories: any[] = [];
+
+        if (latestSnap.exists() && latestSnap.data().stories && Array.isArray(latestSnap.data().stories)) {
+          rawStories = latestSnap.data().stories;
+        } else {
+          // Fallback if 'latest' is not yet initialized
+          const docSnap = await getDocs(collection(db, 'current_affairs_published'));
+          docSnap.forEach((d) => {
+            const data = d.data();
+            if (data.stories && Array.isArray(data.stories)) {
+              rawStories.push(...data.stories);
+            }
+          });
+        }
+
+        // Strict deduplication by story_id
+        const storyMap = new Map<string, CapsuleStory & { _docId?: string }>();
+        rawStories.forEach((s: any, idx: number) => {
+          const id = s.story_id || s.storyId || `ca-story-${idx}`;
+          if (!storyMap.has(id)) {
+            storyMap.set(id, {
+              ...s,
+              story_id: id,
+              _docId: 'latest',
             });
-          } else if (data.story_id || d.id) {
-            list.push({
-              ...data,
-              story_id: data.story_id || data.storyId || d.id,
-              _docId: d.id,
-            } as CapsuleStory & { _docId?: string });
           }
         });
+
+        const list = Array.from(storyMap.values());
         setStories(list);
         if (list.length > 0) setSelectedStory(list[0]);
         else setSelectedStory(null);
       } else {
         const q = query(collection(db, activeCollection), orderBy('published_at', 'desc'), limit(150));
         const snap = await getDocs(q);
-        const list: (CapsuleStory & { _docId?: string })[] = [];
+        const storyMap = new Map<string, CapsuleStory & { _docId?: string }>();
         snap.forEach((d) => {
           const data = d.data();
           const docId = d.id;
           const story_id = data.story_id || data.storyId || docId;
-          list.push({
-            ...data,
-            story_id,
-            _docId: docId,
-          } as CapsuleStory & { _docId?: string });
+          if (!storyMap.has(story_id)) {
+            storyMap.set(story_id, {
+              ...data,
+              story_id,
+              _docId: docId,
+            } as CapsuleStory & { _docId?: string });
+          }
         });
+        const list = Array.from(storyMap.values());
         setStories(list);
         if (list.length > 0) setSelectedStory(list[0]);
         else setSelectedStory(null);
@@ -712,7 +728,7 @@ export const EditorialDashboard: React.FC = () => {
                 No stories found matching "{searchFilter}".
               </div>
             ) : (
-              filteredStories.map((story) => {
+              filteredStories.map((story, idx) => {
                 const isSelected = selectedStory?.story_id === story.story_id;
                 const title = story.daily_buzz?.title_en || story.daily_buzz?.title_bn || story.story_id;
                 const scoreData = computeWebStoryScore(story);
@@ -726,7 +742,7 @@ export const EditorialDashboard: React.FC = () => {
 
                 return (
                   <button
-                    key={story.story_id}
+                    key={`${story.story_id}-${idx}`}
                     onClick={() => setSelectedStory(story)}
                     className={`w-full text-left p-3.5 transition-colors cursor-pointer flex flex-col gap-1.5 ${
                       isSelected
