@@ -106,8 +106,11 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         } else if (currentAffairs.length > 0) {
           url.searchParams.set('story', currentAffairs[0].story_id);
         }
+      } else if (tab === 'editorial_dashboard') {
+        url.searchParams.set('tab', 'editorial_dashboard');
+        url.searchParams.delete('story');
       } else {
-        // Leaving current_affairs: remove the tab param
+        // Leaving current_affairs / dashboard: remove the tab param
         url.searchParams.delete('tab');
         // If the current ?story is a current affairs story or there is no open modal story, remove ?story
         if (!activeStory || activeStory.story_id !== url.searchParams.get('story')) {
@@ -485,7 +488,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       const storyParam = urlParams.get('story');
       const tabParam = urlParams.get('tab') as TabType | null;
 
-      if (tabParam && ['top_stories', 'current_affairs', 'discover'].includes(tabParam)) {
+      if (tabParam && ['top_stories', 'current_affairs', 'discover', 'editorial_dashboard'].includes(tabParam)) {
         setActiveTabState(tabParam);
       }
 

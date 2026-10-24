@@ -111,4 +111,4 @@ export interface DailyCapsule {
   total_stories: number;
 }
 
-export type TabType = 'top_stories' | 'current_affairs' | 'discover' | 'saved' | 'settings';
+export type TabType = 'top_stories' | 'current_affairs' | 'discover' | 'saved' | 'settings' | 'editorial_dashboard';
