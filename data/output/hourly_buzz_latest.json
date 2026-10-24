@@ -1,9 +1,117 @@
 {
-  "updated_at": "2026-10-24T21:00:43.699939",
+  "updated_at": "2026-10-24T22:00:53.142774",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "357080af-a9fc-5164-bfe4-24a5b0c0f097",
+      "story_id": "8d4a1f38-c7d0-5a98-9a46-88f47edf4d4f",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T21:52:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.4498,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171592",
+          "title": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী",
+          "snippet": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman is Visiting Japan",
+        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে জাপান যাত্রা করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan at the invitation of the Japanese premier.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T21:52:25+00:00",
+        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে জাপান যাত্রা করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan at the invitation of the Japanese premier.",
+        "bullets_bn": [
+          "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
+          "বিমান বাংলাদেশ এয়ারলাইন্সের একটি বিশেষ ফ্লাইটে দ্বিপক্ষীয় আলোচনার উদ্দেশ্যে এই সফর অনুষ্ঠিত হচ্ছে।",
+          "সফরে দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ, বিনিয়োগ বৃদ্ধি এবং অর্থনৈতিক সহযোগিতা বিষয়ে গুরুত্বপূর্ণ সমঝোতা হওয়ার কথা রয়েছে।"
+        ],
+        "bullets_en": [
+          "Prime Minister Tarique Rahman is departing on a four-day official visit at the invitation of Japanese Prime Minister Sanae Takaichi.",
+          "The official tour is being conducted via a flight of Biman Bangladesh Airlines to engage in bilateral talks.",
+          "Important understandings regarding the expansion of bilateral trade, increased investment, and economic cooperation are expected during the visit."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুভাবাপন্ন কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। ঢাকা মেট্রোরেলসহ দেশের বেশ কয়েকটি মেগা প্রকল্পে জাপান প্রধান উন্নয়ন অংশীদার হিসেবে অর্থায়ন করে আসছে। দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে এবং অর্থনৈতিক অংশীদারিত্ব বাড়াতে এই উচ্চপর্যায়ের সফর অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন কূটনৈতিক বিশ্লেষকরা।",
+        "details_en": "Bangladesh and Japan share longstanding friendly diplomatic and economic ties. Japan has been a major development partner, financing several mega projects including the Dhaka Metro Rail. Analysts view this high-level visit as highly significant for further strengthening bilateral relations and enhancing economic partnership."
+      }
+    },
+    {
+      "story_id": "e2051a5e-1541-5e1e-8aef-599b79b51879",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T21:35:34+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7591,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171591",
+          "title": "রিয়াদ-দাম্মামের ১৪৪ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২২ হাজার যাত্রী",
+          "snippet": "রিয়াদ-দাম্মামের ১৪৪ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২২ হাজার যাত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি গমনের ১৪৪ ফ্লাইট বাতিল হওয়ায় চরম ভোগান্তিতে হাজার হাজার প্রবাসী",
+        "title_en": "Cancellation of 144 Saudi Flights Strands Thousands of Migrant Workers",
+        "summary_bn": "সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় দুই লক্ষাধিক টাকা খরচ করা ২২ হাজারেরও বেশি যাত্রী মারাত্মক ভোগান্তিতে পড়েছেন।",
+        "summary_en": "The cancellation of 144 flights to Riyadh and Dammam in Saudi Arabia has stranded over 22,000 migrant workers.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T21:35:34+00:00",
+        "lead_bn": "সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় দুই লক্ষাধিক টাকা খরচ করা ২২ হাজারেরও বেশি যাত্রী মারাত্মক ভোগান্তিতে পড়েছেন।",
+        "lead_en": "The cancellation of 144 flights to Riyadh and Dammam in Saudi Arabia has stranded over 22,000 migrant workers.",
+        "bullets_bn": [
+          "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামের মোট ১৪৪টি ফ্লাইট আকস্মিক বাতিল করা হয়েছে।",
+          "ফ্লাইট বাতিলের কারণে ২২ হাজার ২১ জন প্রবাসী যাত্রী সরাসরি আর্থিক ক্ষতি ও অনিশ্চয়তার মুখে পড়েছেন।",
+          "ক্ষতিগ্রস্ত যাত্রীদের টিকিটের অর্থ ফেরৎ বা বিকল্প ফ্লাইটে পাঠানোর বিষয়ে এয়ারলাইনসগুলোর পক্ষ থেকে ব্যবস্থা নেওয়া হচ্ছে।"
+        ],
+        "bullets_en": [
+          "A total of 144 flights from Dhaka to Riyadh and Dammam in Saudi Arabia have been abruptly cancelled.",
+          "The cancellations have directly impacted and stranded 22,021 migrant passengers.",
+          "Airlines are coordinating to issue ticket refunds or arrange alternative flights for the affected passengers."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যগামী প্রবাসী শ্রমিকেরা সময়মতো কর্মস্থলে যোগ দিতে না পেরে চাকরি হারানোর ঝুঁকিতে পড়েছেন।",
+        "impact_en": "Migrant workers bound for the Middle East face job insecurity due to delays in reaching their workplaces.",
+        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন রুটে ফ্লাইট পরিচালনা ও সিডিউল বিপর্যয় প্রায়শই ঘটে থাকে। সাম্প্রতিক সময়ে বিভিন্ন এয়ারলাইনসের যান্ত্রিক ত্রুটি, সিডিউল বিপর্যয় এবং বিমানবন্দর ব্যবস্থাপনার সমস্যার কারণে ঢাকা থেকে মধ্যপ্রাচ্যগামী অনেক ফ্লাইট নির্দিষ্ট সময়ে ছাড়তে ব্যর্থ হয়। এর ফলে প্রবাসী শ্রমিকদের ট্রাভেল ভিসার মেয়াদ ও কর্মসংস্থান ঝুঁকির মুখে পড়ে, যা দেশের জনশক্তি রপ্তানি খাতে নেতিবাচক প্রভাব ফেলে।",
+        "details_en": "Flight operations and schedule disruptions on Middle Eastern routes occur frequently. Recently, technical glitches, schedule mismanagement, and airport operational issues have caused numerous flights from Dhaka to the Middle East to miss their departure times. This puts migrant workers' employment visas and job security at risk, adversely affecting the country's manpower export sector."
+      }
+    },
+    {
+      "story_id": "1b922858-eeeb-58a1-92fb-9e7ae52b61a4",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -14,46 +122,100 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T20:33:28+00:00",
+      "published_at": "2026-10-24T21:26:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7458,
+      "rank_score": 0.7033,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/other-politics/976533/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%88%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%97%E0%A6%A3%E0%A6%85%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B9%E0%A6%A4-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B0",
-          "title": "রাজনৈতিক গণঅভ্যুত্থানের ধারাকে অব্যাহত রাখার আহ্বান জাতীয় মুক্তি কাউন্সিলের",
-          "snippet": "রাজনৈতিক গণঅভ্যুত্থানের ধারাকে অব্যাহত রাখার আহ্বান জাতীয় মুক্তি কাউন্সিলের"
+          "url": "https://www.banglatribune.com/country/khulna/976535/%E0%A6%97%E0%A6%B0%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%98%E0%A7%87%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A7%A9",
+          "title": "গরুর মাংস বলে ঘোড়ার মাংস বিক্রি, ব্যবসায়ীকে ৩ মাসের কারাদণ্ড",
+          "snippet": "গরুর মাংস বলে ঘোড়ার মাংস বিক্রি, ব্যবসায়ীকে ৩ মাসের কারাদণ্ড"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজনৈতিক গণঅভ্যুত্থানের ধারা অব্যাহত রাখার আহ্বান জাতীয় মুক্তি কাউন্সিলের",
-        "title_en": "National Liberation Council Urges Sustaining Political Mass Uprising",
-        "summary_bn": "জাতীয় মুক্তি কাউন্সিল সারা দেশে শ্রমিক ও কৃষকদের শ্রেণি সংগঠন গড়ে তুলে ১৮ দফা কর্মসূচি বাস্তবায়নের আহ্বান জানিয়েছে।",
-        "summary_en": "The National Liberation Council called for building worker and peasant class organizations nationwide to implement an 18-point agenda.",
+        "title_bn": "খুলনায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির দায়ে ব্যবসায়ীকে কারাদণ্ড",
+        "title_en": "Trader Sentenced to Jail for Selling Horse Meat as Beef in Khulna",
+        "summary_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের বিনাশ্রম কারাদণ্ড প্রদান করেছেন।",
+        "summary_en": "A mobile court sentenced a dishonest trader to three months of rigorous imprisonment for selling horse meat as beef in Dumuria, Khulna.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T20:33:28+00:00",
-        "lead_bn": "জাতীয় মুক্তি কাউন্সিল সারা দেশে শ্রমিক ও কৃষকদের শ্রেণি সংগঠন গড়ে তুলে ১৮ দফা কর্মসূচি বাস্তবায়নের আহ্বান জানিয়েছে।",
-        "lead_en": "The National Liberation Council called for building worker and peasant class organizations nationwide to implement an 18-point agenda.",
+        "published_at": "2026-10-24T21:26:46+00:00",
+        "lead_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের বিনাশ্রম কারাদণ্ড প্রদান করেছেন।",
+        "lead_en": "A mobile court sentenced a dishonest trader to three months of rigorous imprisonment for selling horse meat as beef in Dumuria, Khulna.",
         "bullets_bn": [
-          "শ্রমিক ও কৃষক মেহনতি জনগণের শ্রেণি সংগঠন গড়ে তোলার আহ্বান জানানো হয়েছে।",
-          "রাজধানীর তোপখানা রোডে জাতীয় মুক্তি কাউন্সিলের কেন্দ্রীয় কর্মীসভা অনুষ্ঠিত হয়েছে।",
-          "রাজনৈতিক গণঅভ্যুত্থানের ধারা অব্যাহত রেখে ১৮ দফা কর্মসূচি বাস্তবায়নের লক্ষ্য নির্ধারণ করা হয়েছে।"
+          "ডুমুরিয়ার কাঞ্চনপুর এলাকায় গরুর মাংসের পরিবর্তে ঘোড়ার মাংস বিক্রির সময় অসাধু ব্যবসায়ীকে আটক করা হয়।",
+          "র‌্যাব-৬ এবং ডুমুরিয়া উপজেলার নির্বাহী ম্যাজিস্ট্রেটের যৌথ উদ্যোগে এই ভ্রাম্যমাণ আদালত পরিচালনা করা হয়।",
+          "অভিযুক্ত ব্যবসায়ীকে দোষী সাব্যস্ত করে তিন মাসের বিনাশ্রম কারাদণ্ড দিয়ে কারাগারে পাঠানো হয়েছে।"
         ],
         "bullets_en": [
-          "Call issued to build class organizations for working-class people, laborers, and farmers.",
-          "A central workers meeting of the National Liberation Council was held in Topkhana Road.",
-          "Goal set to sustain the political mass uprising and implement an 18-point program."
+          "A dishonest trader was caught selling horse meat disguised as beef in the Kanchonpur area of Dumuria.",
+          "The mobile court operation was conducted jointly by RAB-6 and the executive magistrate of Dumuria.",
+          "The accused trader was found guilty and sentenced to three months of rigorous imprisonment."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় মুক্তি কাউন্সিল দীর্ঘদিন ধরে দেশের শ্রমিক ও কৃষক সমাজের অধিকার আদায় এবং শোষণমুক্ত সমাজ প্রতিষ্ঠার লক্ষ্যে রাজনৈতিক কার্যক্রম পরিচালনা করে আসছে। সাম্প্রতিক রাজনৈতিক পরিবর্তনের প্রেক্ষাপটে বিভিন্ন বামপন্থী ও সমমনা রাজনৈতিক দলগুলো তাদের সাংগঠনিক কার্যক্রম জোরদার করছে এবং জনকল্যাণমূলক বিভিন্ন দাবি তুলে ধরছে। এরই ধারাবাহিকতায় আয়োজিত কেন্দ্রীয় কর্মীসভায় দেশের শ্রমজীবী মানুষের অধিকার রক্ষায় সুনির্দিষ্ট ১৮ দফা কর্মসূচি বাস্তবায়নের ওপর জোর দেওয়া হয়।",
-        "details_en": "The National Liberation Council has long been active in advocating for the rights of workers and peasants to establish an exploitation-free society. Amid recent political shifts, various progressive and leftist political platforms are intensifying organizational efforts and pressing for systemic reforms. During this central meeting, leaders emphasized sustaining mass mobilization to ensure the implementation of their 18-point political and economic agenda."
+        "impact_bn": "খাদ্যদ্রব্যে ভেজাল ও প্রতারণা রোধে প্রশাসনের এমন কঠোর পদক্ষেপে সাধারণ consumidores স্বস্তি পেলেও ভেজাল খাদ্য বিক্রির প্রবণতা নিয়ে উদ্বেগ রয়ে গেছে।",
+        "impact_en": "Such strict administrative actions bring relief to consumers against food fraud, though concerns over food adulteration persist.",
+        "details_bn": "সম্প্রতি দেশের বিভিন্ন স্থানে অসাধু ব্যবসায়ীদের বিরুদ্ধে ভেজাল খাদ্য ও নিষিদ্ধ মাংস বিক্রির অভিযোগ বাড়ছে। সাধারণ মানুষের স্বাস্থ্যঝুঁকি ও প্রতারণা রোধে আইন শৃঙ্খলা রক্ষাকারী বাহিনী ও স্থানীয় প্রশাসন নিয়মিত অভিযান পরিচালনা করে আসছে। তারই ধারাবাহিকতায় খুলনার ডুমুরিয়ায় এই ভ্রাম্যমাণ আদালত পরিচালনা করা হয়।",
+        "details_en": "Allegations of selling adulterated food and prohibited meat by dishonest traders have been rising across the country. Law enforcement agencies and local administration regularly conduct drives to prevent health hazards and consumer fraud, leading to this mobile court operation in Dumuria."
+      }
+    },
+    {
+      "story_id": "8650a354-1ccf-56d3-957c-abc3131ff457",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T21:08:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6093,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171590",
+          "title": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু",
+          "snippet": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মৌলভীবাজারে নিখোঁজ মাদরাসাশিক্ষক উদ্ধার হলেও হাসপাতালে নেওয়ার পথে মৃত্যু",
+        "title_en": "Missing Madrassa Teacher Found Injured Dies on Way to Hospital",
+        "summary_bn": "নিখোঁজ হওয়ার একদিন পর মৌলভীবাজারে এক মাদরাসাশিক্ষককে সেতুর নিচ থেকে উদ্ধার করার পর হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়।",
+        "summary_en": "A missing madrassa teacher was found under a bridge in Moulvibazar and died on the way to the hospital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T21:08:46+00:00",
+        "lead_bn": "নিখোঁজ হওয়ার একদিন পর মৌলভীবাজারে এক মাদরাসাশিক্ষককে সেতুর নিচ থেকে উদ্ধার করার পর হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়।",
+        "lead_en": "A missing madrassa teacher was found under a bridge in Moulvibazar and died on the way to the hospital.",
+        "bullets_bn": [
+          "শ্রীমঙ্গল উপজেলার বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার নিখোঁজ ছিলেন।",
+          "নিখোঁজ থাকার একদিন পর তাকে একটি সেতুর নিচে গুরুতর অবস্থায় পাওয়া যায়।",
+          "উদ্ধার করে হাসপাতালে নেওয়ার পথেই তার মৃত্যু নিশ্চিত করা হয়।"
+        ],
+        "bullets_en": [
+          "Mawlana Shah Moniruzzaman Jasim Talukdar was a teacher at the Baruna Madrassa in Sreemangal.",
+          "He was found in critical condition under a bridge one day after going missing.",
+          "He was pronounced dead while being rushed to the hospital following the rescue."
+        ],
+        "impact_bn": "এই আকস্মিক মৃত্যুতে স্থানীয় শিক্ষাঙ্গন এবং শিক্ষার্থী ও অভিভাবকদের মধ্যে গভীর শোকের ছায়া নেমে এসেছে।",
+        "impact_en": "This sudden death has cast a shadow of deep shock among local educational institutions, students, and guardians.",
+        "details_bn": "মৌলভীবাজারের শ্রীমঙ্গল উপজেলার ঐতিহ্যবাহী জামেয়া লুৎফিয়া আনোয়ারুল উলুম হামিদ নগর বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার হঠাৎ নিখোঁজ হন। খোঁজাখুঁজির এক পর্যায়ে তাকে একটি সেতুর নিচে অচেতন অবস্থায় পাওয়া যায়। তাৎক্ষণিকভাবে তাকে উদ্ধারের পর হাসপাতালে নেওয়ার ব্যবস্থা করা হলেও পথেই তিনি মারা যান। এ ঘটনায় এলাকায় চাঞ্চল্য ও শোকের সৃষ্টি হয়েছে।",
+        "details_en": "Mawlana Shah Moniruzzaman Jasim Talukdar, a teacher at Jamia Lutfia Anwarul Ulum Hamid Nagar Baruna Madrassa in Sreemangal, Moulvibazar, went missing under mysterious circumstances. After a search, he was found unconscious under a bridge. Although immediate efforts were made to take him to the hospital, he passed away on the way, sparking widespread shock and grief in the area."
       }
     },
     {
@@ -71,7 +233,7 @@
       "published_at": "2026-10-24T20:27:33+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7086,
+      "rank_score": 0.461,
       "sources": [
         {
           "name": "Jago News 24",
@@ -83,8 +245,8 @@
       "daily_buzz": {
         "title_bn": "কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে আহত ১৫",
         "title_en": "Fifteen Injured in Clash Between Two Groups in Bhairab",
-        "summary_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষের ঘটনা ঘটে।",
-        "summary_en": "A violent clash erupted between two rival groups over a trivial matter in Kishoreganj's Bhairab.",
+        "summary_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে অন্তত ১৫ জন আহত হয়েছেন।",
+        "summary_en": "At least fifteen people were injured following a clash between two groups over a trivial issue in Bhairab.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -92,243 +254,76 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T20:27:33+00:00",
-        "lead_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের মধ্যে রক্তক্ষয়ী সংঘর্ষের ঘটনা ঘটে।",
-        "lead_en": "A violent clash erupted between two rival groups over a trivial matter in Kishoreganj's Bhairab.",
+        "lead_bn": "তুচ্ছ ঘটনাকে কেন্দ্র করে কিশোরগঞ্জের ভৈরবে দুই পক্ষের সংঘর্ষে অন্তত ১৫ জন আহত হয়েছেন।",
+        "lead_en": "At least fifteen people were injured following a clash between two groups over a trivial issue in Bhairab.",
         "bullets_bn": [
-          "তুচ্ছ বিষয় নিয়ে স্থানীয় দুটি পক্ষ সংঘাতে জড়িয়ে পড়ে।",
-          "অন্ধকারে টর্চলাইট জ্বালিয়ে সংঘটিত এই সংঘর্ষে উভয় পক্ষের অন্তত ১৫ জন আহত হন।",
-          "আহতদের স্থানীয় হাসপাতালে চিকিৎসা দেওয়া হচ্ছে এবং এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে।"
+          "তুচ্ছ ঘটনাকে কেন্দ্র করে ভৈরবে স্থানীয় দুটি পক্ষের মধ্যে সংঘর্ষ বাধে।",
+          "অন্ধকারে টর্চলাইট জ্বালিয়ে দেশীয় অস্ত্র নিয়ে এই সংঘর্ষে লিপ্ত হয় উভয় পক্ষ।",
+          "সংঘর্ষে উভয় পক্ষের অন্তত ১৫ জন আহত হয়ে স্থানীয়ভাবে চিকিৎসা নিয়েছেন।"
         ],
         "bullets_en": [
-          "Two local groups engaged in a violent altercation over a minor dispute.",
-          "At least fifteen people from both sides sustained injuries during the clash fought under flashlight illumination.",
-          "Injured individuals are receiving treatment at local hospitals while law enforcement maintains order."
+          "A violent clash erupted between two local groups in Bhairab following a trivial dispute.",
+          "Both groups used makeshift weapons and illuminated the dark with torches during the altercation.",
+          "At least fifteen individuals from both sides sustained injuries and received medical treatment."
         ],
-        "impact_bn": "স্থানীয় জনপদে এ ধরণের সহিংসতা সাধারণ মানুষের স্বাভাবিক জীবনযাত্রা ব্যাহত করে এবং নিরাপত্তাহীনতা তৈরি করে।",
-        "impact_en": "Such local violence disrupts community life and instills fear among ordinary residents.",
-        "details_bn": "কিশোরগঞ্জের ভৈরব উপজেলায় বিভিন্ন বিষয় নিয়ে স্থানীয় বাসিন্দাদের মধ্যে বিরোধ চলে আসছিল। এর জের ধরে প্রায়ই দুই পক্ষের মধ্যে উত্তেজনা ও সংঘর্ষের ঘটনা ঘটে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী পরিস্থিতি নিয়ন্ত্রণে রাখতে এলাকায় টহল জোরদার করেছে এবং জড়িতদের শনাক্তে কাজ শুরু করেছে।",
-        "details_en": "Local residents in Bhairab upazila of Kishoreganj have a history of community tensions over petty disputes. Such clashes frequently disrupt neighborhood stability, prompting law enforcement agencies to increase patrols and initiate measures to identify those involved."
+        "impact_bn": "স্থানীয় আইনশৃঙ্খলা পরিস্থিতির অবনতির কারণে সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা তৈরি হচ্ছে।",
+        "impact_en": "Local residents face growing security concerns due to recurring violent clashes in the area.",
+        "details_bn": "কিশোরগঞ্জের ভৈরব উপজেলায় তুচ্ছ বিষয় নিয়ে স্থানীয়দের মধ্যে দীর্ঘদিন ধরে বিরোধ চলে আসছিল। এরই ধারাবাহিকতায় সম্প্রতি রাতের অন্ধকারে দুই পক্ষ দেশীয় অস্ত্রশস্ত্র নিয়ে সংঘর্ষে জড়িয়ে পড়ে। পরিস্থিতি নিয়ন্ত্রণে স্থানীয় আইনশৃঙ্খলা বাহিনী কাজ শুরু করেছে এবং এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে।",
+        "details_en": "Tensions had been simmering for a long time between local factions in Bhairab upazila over minor disputes. Recently, the situation escalated into a violent confrontation in the dark using local weapons. Law enforcement agencies have intervened to control the situation and additional police personnel have been deployed in the area."
       }
     },
     {
-      "story_id": "87063482-2ee9-5f74-a8d4-dcc8cfb7e7ad",
-      "primary_category": "world_diplomacy",
+      "story_id": "889cf07f-2eb9-5186-9d8b-1beeb6e4eaf8",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
+        "climate_environment"
       ],
       "tags": [
-        "#Starlink",
-        "#SpaceX",
-        "#Ukraine"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-      "image_caption": null,
-      "published_at": "2026-10-24T20:46:34+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5962,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-          "title": "Starlink seems to be working normally again in Ukraine",
-          "snippet": "Starlink seems to be working normally again in Ukraine"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনে স্টারশিল্ড সেবা স্বাভাবিক করেছে স্পেসএক্স",
-        "title_en": "SpaceX Restores Normal Starshield Service in Ukraine",
-        "summary_bn": "ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে নিষেধাজ্ঞা প্রত্যাহার করে তা স্বাভাবিক করেছে স্পেসএক্স।",
-        "summary_en": "SpaceX has lifted restrictions and restored normal operation of the Starshield internet system for the Ukrainian military.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T20:46:34+00:00",
-        "lead_bn": "ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে নিষেধাজ্ঞা প্রত্যাহার করে তা স্বাভাবিক করেছে স্পেসএক্স।",
-        "lead_en": "SpaceX has lifted restrictions and restored normal operation of the Starshield internet system for the Ukrainian military.",
-        "bullets_bn": [
-          "ইউক্রেনীয় সামরিক বাহিনীর ব্যবহারের জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর আরোপিত নিষেধাজ্ঞা তুলে নেওয়া হয়েছে",
-          "দ্রুতগতির ড্রোন চলাচলের সময় ইন্টারনেট সংযোগ বিচ্ছিন্ন হওয়ার দশ দিন পর এই সেবা পুনর্বহাল করা হলো",
-          "ইউক্রেনীয় প্রতিরক্ষা মন্ত্রণালয় সংযোগ স্বাভাবিক হওয়ার কথা জানালেও স্পেসএক্স থেকে আনুষ্ঠানিক কোনো ব্যাখ্যা দেওয়া হয়নি"
-        ],
-        "bullets_en": [
-          "Restrictions on the Ukrainian military usage of the Starshield internet system have been officially lifted",
-          "Service restoration follows a ten-day period where drones experienced internet connectivity loss at high speeds",
-          "The Ukrainian defense ministry confirmed the system is working normally while awaiting formal explanations from SpaceX"
-        ],
-        "impact_bn": "এই সেবার পুনর্বহাল ইউক্রেনীয় সামরিক বাহিনীকে যুদ্ধক্ষেত্রে ড্রোন পরিচালনা ও সামনের সারির প্রতিরক্ষা বজায় রাখতে সাহায্য করবে।",
-        "impact_en": "Restoration of the satellite internet service enables the Ukrainian military to resume critical drone operations and maintain frontline defense capabilities.",
-        "details_bn": "সম্প্রতি ইউক্রেনীয় সামরিক ড্রোনগুলোর ইন্টারনেট সংযোগ বিচ্ছিন্ন হওয়ার পর স্টারশিল্ড সংযোগ নিয়ে সংকট তৈরি হয়। এর আগে স্পেসএক্স ইউক্রেনের সেবা সীমিত করার পদক্ষেপ নিয়েছিল। মার্কিন রাজনৈতিক মহলের আলোচনা এবং ড্রোন অপারেশনে সংযোগ ফিরে পাওয়ার প্রয়োজনীয়তার প্রেক্ষাপটে এই সামরিক ইন্টারনেট সেবা পুনরায় সচল করা হলো।",
-        "details_en": "The service restoration follows a period of restricted access that crippled Ukrainian drone operations at high speeds. Reports emerged of political discussions involving US leadership and SpaceX CEO Elon Musk regarding the critical nature of the satellite network for frontline Ukrainian defense, eventually leading to the removal of connectivity restrictions."
-      }
-    },
-    {
-      "story_id": "7eca2939-850d-52bb-b978-49058fc8e61c",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-13%2Fay2a093i%2Fairport-1.jpeg?rect=0%2C113%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T18:34:56+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3464,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/6bd5s045do",
-          "title": "সৌদির বিমানবন্দরে বিধিনিষেধ: বাতিল-স্থগিত ১৪৪ ফ্লাইট, ভোগান্তিতে ২২ হাজার যাত্রী",
-          "snippet": "সৌদির বিমানবন্দরে বিধিনিষেধ: বাতিল-স্থগিত ১৪৪ ফ্লাইট, ভোগান্তিতে ২২ হাজার যাত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি বিমানবন্দরের বিধিনিষেধের কারণে ১৪৪ ফ্লাইট বাতিল ও স্থগিত",
-        "title_en": "One Hundred Forty Four Flights Cancelled and Suspended Due to Saudi Airport Restrictions",
-        "summary_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ থেকে চলাচলকারী ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় হাজার হাজার যাত্রী ভোগান্তিতে পড়েছেন।",
-        "summary_en": "Thousands of passengers face severe disruptions as 144 flights operating from Bangladesh are affected by Saudi airport restrictions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T18:34:56+00:00",
-        "lead_bn": "সৌদি আরবের বিমানবন্দরগুলোতে বিধিনিষেধের কারণে বাংলাদেশ থেকে চলাচলকারী ১৪৪টি ফ্লাইট ব্যাহত হওয়ায় হাজার হাজার যাত্রী ভোগান্তিতে পড়েছেন।",
-        "lead_en": "Thousands of passengers face severe disruptions as 144 flights operating from Bangladesh are affected by Saudi airport restrictions.",
-        "bullets_bn": [
-          "সৌদি আরবের বিমানবন্দরগুলোতে ফ্লাইট পরিচালনায় বিধিনিষেধের ফলে সরাসরি ও ট্রানজিট রুটের ১৪৪টি ফ্লাইট ব্যাহত হয়েছে।",
-          "বাতিল ও স্থগিত হওয়া ফ্লাইটের মধ্যে ৬৭টি সরাসরি এবং ৭৭টি ট্রানজিট ফ্লাইট রয়েছে, যা ২২ হাজার যাত্রীকে প্রভাবিত করেছে।",
-          "রিয়াদগামী সব ফ্লাইট নির্দিষ্ট সময় পর্যন্ত এবং দাম্মামগামী ফ্লাইটগুলো সাময়িকভাবে স্থগিত ঘোষণা করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "Flight operations on direct and transit routes faced disruptions due to restrictions at Saudi Arabian airports.",
-          "The affected flights comprise 67 direct and 77 transit services, impacting twenty-two thousand passengers.",
-          "Riyadh-bound flights are suspended until further notice while Dammam-bound flights face temporary halts."
-        ],
-        "impact_bn": "সৌদি আরবগামী অভিবাসী শ্রমিক ও যাত্রীরা ফ্লাইট বিপর্যয়ের কারণে চরম অনিশ্চয়তা ও অতিরিক্ত ব্যয়ের মুখে পড়েছেন।",
-        "impact_en": "Expatriate workers and travellers heading to Saudi Arabia face severe uncertainty and additional travel complications due to the flight disruptions.",
-        "details_bn": "সৌদি আরবের বিমানবন্দরগুলোতে ইরান-সমর্থিত সশস্ত্র গোষ্ঠী হুতিদের হামলার পরিপ্রেক্ষিতে ফ্লাইট চলাচলে এই বিধিনিষেধ আরোপ করা হয়। এর ফলে বাংলাদেশের সঙ্গে চলাচলকারী বিভিন্ন এয়ারলাইনসের সরাসরি ও ট্রানজিট ফ্লাইট ক্ষতিগ্রস্ত হয়েছে। বেসামরিক বিমান চলাচল কর্তৃপক্ষ পরিস্থিতি নিয়ন্ত্রণে বিকল্প রুট হিসেবে জেদ্দা ও মদিনা বিমানবন্দর ব্যবহারের সুযোগ রাখলেও যাত্রীদের যাতায়াতে বড় ধরনের বিঘ্ন ঘটছে।",
-        "details_en": "Restrictions on flight operations were imposed following attacks by Iran-backed Houthi armed groups at Saudi Arabian airports. This has severely impacted direct and transit flights operated by various airlines connecting Bangladesh. Although civil aviation authorities have kept Jeddah and Medina airports operational as alternatives, passengers continue to face major travel disruptions."
-      }
-    },
-    {
-      "story_id": "3f3454d5-1d7c-5ef4-ba01-c923f5653e94",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Climate",
+        "#Environment"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T18:10:34+00:00",
+      "published_at": "2026-10-24T19:07:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.3091,
+      "rank_score": 0.304,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/976474/%E0%A6%8F%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A7%9F-%E0%A6%AF%E0%A7%8C%E0%A6%A8-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A4%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BF",
-          "title": "একের পর এক মাদ্রাসায় যৌন নির্যাতনের অভিযোগ: তদারকি নিয়ে প্রশ্ন",
-          "snippet": "একের পর এক মাদ্রাসায় যৌন নির্যাতনের অভিযোগ: তদারকি নিয়ে প্রশ্ন"
+          "url": "https://www.banglatribune.com/weather/976530/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A7%AA-%E0%A6%B8%E0%A6%AE%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A7-%E0%A6%A8%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0",
+          "title": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত",
+          "snippet": "বঙ্গোপসাগরে নিম্নচাপ: ৪ সমুদ্রবন্দরে ১ নম্বর সতর্কতা সংকেত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাদ্রাসায় যৌন নির্যাতনের অভিযোগ বাড়ছে, তদারকি ব্যবস্থা নিয়ে প্রশ্ন",
-        "title_en": "Rising Sexual Abuse Allegations in Madrrasas Raise Oversight Concerns",
-        "summary_bn": "দেশের বিভিন্ন মাদ্রাসায় একের পর এক যৌন নির্যাতনের অভিযোগ ওঠায় শিক্ষা প্রতিষ্ঠানে নিরাপত্তা ও তদারকি ব্যবস্থা নিয়ে তীব্র প্রশ্ন উঠেছে।",
-        "summary_en": "A series of sexual abuse allegations across madrrasas has sparked serious questions regarding institutional safety and regulatory oversight.",
+        "title_bn": "বঙ্গোপসাগরে নিম্নচাপ সৃষ্টি, চার সমুদ্রবন্দরে এক নম্বর দূরবর্তী সতর্কতা সংকেত",
+        "title_en": "Depression Forms in Bay of Bengal, Distant Caution Signal One for Ports",
+        "summary_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্কসংকেত দেখাতে বলা হয়েছে।",
+        "summary_en": "Maritime ports have been advised to hoist distant cautionary signal one following a depression in the Bay of Bengal.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T18:10:34+00:00",
-        "lead_bn": "দেশের বিভিন্ন মাদ্রাসায় একের পর এক যৌন নির্যাতনের অভিযোগ ওঠায় শিক্ষা প্রতিষ্ঠানে নিরাপত্তা ও তদারকি ব্যবস্থা নিয়ে তীব্র প্রশ্ন উঠেছে।",
-        "lead_en": "A series of sexual abuse allegations across madrrasas has sparked serious questions regarding institutional safety and regulatory oversight.",
+        "published_at": "2026-10-24T19:07:00+00:00",
+        "lead_bn": "পূর্বমধ্য বঙ্গোপসাগরে সৃষ্ট নিম্নচাপের কারণে দেশের চার সমুদ্রবন্দরকে এক নম্বর দূরবর্তী সতর্কসংকেত দেখাতে বলা হয়েছে।",
+        "lead_en": "Maritime ports have been advised to hoist distant cautionary signal one following a depression in the Bay of Bengal.",
         "bullets_bn": [
-          "আলিয়া ও কওমি দুই ধারার মাদ্রাসাতেই যৌন হয়রানির ঘটনার পুনরাবৃত্তি ঘটছে।",
-          "উচ্চ আদালতের সুনির্দিষ্ট নির্দেশনা থাকা সত্ত্বেও মাঠপর্যায়ে তদারকি কাঠামো কার্যকর হচ্ছে না।",
-          "ভুক্তভোগীদের সুরক্ষা ও অপরাধীদের বিরুদ্ধে দ্রুত দৃষ্টান্তমূলক শাস্তির দাবি জোরালো হয়েছে।"
+          "পূর্বমধ্য বঙ্গোপসাগর ও সংলগ্ন এলাকায় অবস্থানরত সুস্পষ্ট লঘুচাপটি নিম্নচাপে পরিণত হয়েছে।",
+          "আবহাওয়াবিদ মো. তরিফুল নেওয়াজ কবিরের সই করা বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়।",
+          "নিম্নচাপটি পশ্চিম ও উত্তরপশ্চিম দিকে অগ্রসর হয়ে একই এলাকায় অবস্থান করছে।"
         ],
         "bullets_en": [
-          "Sexual harassment incidents continue to occur across both Alia and Qawmi stream madrrasas.",
-          "Despite specific High Court directives, regulatory oversight frameworks remain ineffective at the field level.",
-          "Demands for victim protection and swift exemplary punishment against perpetrators have intensified."
+          "A well-marked low-pressure area over the central Bay of Bengal has intensified into a depression.",
+          "Meteorologist Md. Tariful Newaz Kabir signed the special weather bulletin confirming the development.",
+          "The depression has moved in a west-northwesterly direction while staying over the same region."
         ],
-        "impact_bn": "শিক্ষাপ্রতিষ্ঠানে নিরাপদ পরিবেশ নিশ্চিত না হলে শিক্ষার্থীদের মানসিক নিরাপত্তা ও অভিভাবকত্বের আস্থা মারাত্মকভাবে ব্যাহত হবে।",
-        "impact_en": "Failure to ensure a safe environment in educational institutions severely harms students mental security and parental trust.",
-        "details_bn": "শিক্ষাপ্রতিষ্ঠানে যৌন হয়রানি প্রতিরোধে উচ্চ আদালতের সুনির্দিষ্ট নির্দেশনা এবং অভিযোগ কমিটি গঠনের নিয়ম রয়েছে। আলিয়া মাদ্রাসার ক্ষেত্রে সরকারি তদারকি কাঠামো থাকলেও কওমি মাদ্রাসাগুলো নিজস্ব ব্যবস্থাপনায় পরিচালিত হয়। কিন্তু নজরদারির ঘাটতির কারণে এসব প্রতিষ্ঠানে শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করা বারবার ব্যাহত হচ্ছে।",
-        "details_en": "The High Court has specific directives and mandates committees to prevent sexual harassment in educational institutions. While Alia madrrasas have government oversight frameworks, Qawmi madrrasas operate under independent managements. However, gaps in monitoring repeatedly undermine efforts to ensure student safety in these institutions."
-      }
-    },
-    {
-      "story_id": "5018c48f-d0fb-5efc-8212-336fbfa45a26",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F5kx2vmgz%2FReligion-Minister.jpeg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T18:07:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3054,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/px62gi0ucz",
-          "title": "ধর্মীয় শিক্ষা প্রতিষ্ঠানে এসব বন্ধে প্রয়োজনীয় সব করা হবে: ধর্মমন্ত্রী",
-          "snippet": "ধর্মীয় শিক্ষা প্রতিষ্ঠানে এসব বন্ধে প্রয়োজনীয় সব করা হবে: ধর্মমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ধর্মীয় প্রতিষ্ঠানে যৌন নিপীড়ন রোধে প্রয়োজনীয় ব্যবস্থা নেওয়ার ঘোষণা ধর্মমন্ত্রীর",
-        "title_en": "Religious Affairs Minister Vows Strict Action Against Abuse in Institutions",
-        "summary_bn": "ধর্মীয় শিক্ষা প্রতিষ্ঠানে যৌন নিপীড়ন ও অপরাধমূলক ঘটনা বন্ধে প্রয়োজনীয় সব ধরনের কঠোর পদক্ষেপ গ্রহণের ঘোষণা দিয়েছেন ধর্মমন্ত্রী।",
-        "summary_en": "The religious affairs minister announced that necessary strict measures will be taken to halt sexual abuse in religious educational institutions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T18:07:54+00:00",
-        "lead_bn": "ধর্মীয় শিক্ষা প্রতিষ্ঠানে যৌন নিপীড়ন ও অপরাধমূলক ঘটনা বন্ধে প্রয়োজনীয় সব ধরনের কঠোর পদক্ষেপ গ্রহণের ঘোষণা দিয়েছেন ধর্মমন্ত্রী।",
-        "lead_en": "The religious affairs minister announced that necessary strict measures will be taken to halt sexual abuse in religious educational institutions.",
-        "bullets_bn": [
-          "ধর্মীয় শিক্ষা প্রতিষ্ঠানে যৌন নিপীড়নের ঘটনাকে অত্যন্ত দুঃখজনক ও লজ্জাকর বলে অভিহিত করেছেন ধর্মমন্ত্রী।",
-          "সমাজ থেকে মাদক ও দুর্নীতি দূর করতে জুমার খুতবায় জনসচেতনতা তৈরিতে ইমামদের সক্রিয় ভূমিকা রাখার আহ্বান জানানো হয়েছে।",
-          "প্রধানমন্ত্রী এ বিষয়ে অত্যন্ত সচেতন রয়েছেন এবং অপরাধ রোধে মন্ত্রণালয় থেকে প্রয়োজনীয় পদক্ষেপ কার্যকর করা হবে।"
-        ],
-        "bullets_en": [
-          "The religious affairs minister termed incidents of sexual abuse in religious institutions as extremely unfortunate and shameful.",
-          "Imams were urged to play an active role in creating public awareness through Friday sermons to eradicate social vices.",
-          "The prime minister is highly aware of the issue and necessary administrative steps will be executed to prevent such crimes."
-        ],
-        "impact_bn": "ধর্মীয় শিক্ষা প্রতিষ্ঠানে শিক্ষার্থীদের নিরাপত্তা নিশ্চিত হলে অভিভাবকদের উৎকণ্ঠা কমবে এবং নিরাপদ পরিবেশ তৈরি হবে।",
-        "impact_en": "Ensuring student safety in religious institutions will reduce parental anxiety and foster a secure educational environment.",
-        "details_bn": "ঢাকার আগারগাঁওয়ে ইসলামিক ফাউন্ডেশন মিলনায়তনে বাংলাদেশ জাতীয় ইমাম সমিতির ত্রিবার্ষিক কাউন্সিল অধিবেশন ও জাতীয় ইমাম সম্মেলন অনুষ্ঠিত হয়। সম্মেলনে প্রধান অতিথির বক্তব্যে ধর্মমন্ত্রী কাজী শাহ মোফাজ্জাল হোসাইন কায়কোবাদ সমাজের বিভিন্ন অনৈতিকতা ও অপরাধ দূর করার ওপর জোর দেন। এ সময় তিনি আইনশৃঙ্খলা রক্ষাকারী বাহিনীর পাশাপাশি অপরাধ রোধে ইমামদের সামাজিক প্রভাবকে কাজে লাগানোর আহ্বান জানান।",
-        "details_en": "The triennial council session and national imam conference of the Bangladesh National Imam Association was held at the Islamic Foundation auditorium in Agargaon, Dhaka. Addressing the event as chief guest, Religious Affairs Minister Kazi Shah Mofazzal Hossain Kaykobad emphasized eradicating various social vices and crimes, urging that the social influence of imams be utilized alongside law enforcement."
+        "impact_bn": "সমুদ্রবন্দরগুলোতে সতর্কতা জারির ফলে মাছ ধরার ট্রলার ও নৌযানসমূহকে উপকূলের কাছাকাছি সাবধানে চলাচল করতে বলা হয়েছে।",
+        "impact_en": "Fishing trawlers and marine vessels are advised to remain cautious and stay close to the coast following the weather alert.",
+        "details_bn": "বঙ্গোপসাগরে মৌসুমি বায়ুর প্রভাবে লঘুচাপ ও নিম্নচাপ সৃষ্টি হওয়া একটি নিয়মিত আবহাওয়া প্রক্রিয়া। এই ধরনের সামুদ্রিক নিম্নচাপের কারণে উপকূলীয় অঞ্চলে আবহাওয়া পরিস্থিতি পরিবর্তিত হতে পারে এবং সমুদ্র উত্তাল হয়ে উঠতে পারে। আবহাওয়া অধিদফতর পরিস্থিতি নিয়মিত পর্যবেক্ষণ করে বিশেষ বিজ্ঞপ্তির মাধ্যমে নৌযান ও বন্দরগুলোকে সতর্কবার্তা দিয়ে আসছে।",
+        "details_en": "The formation of low-pressure systems and depressions in the Bay of Bengal is a common meteorological phenomenon during seasonal transitions. Such maritime depressions can alter coastal weather patterns and make the sea rough. The meteorological department continuously monitors these systems and issues special advisories to ensure maritime safety."
       }
     }
   ]
