@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-24T16:00:49.515173",
+  "updated_at": "2026-10-24T17:00:47.559068",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "4c49e1c8-280a-5a01-9196-2cfcd806da6f",
+      "story_id": "5c1ac4f2-9531-5a11-8046-454db8e0e98d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,48 +12,158 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-08-07%2Fxut3id4d%2FSongsob.jpg?rect=0%2C99%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/01-5.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T15:51:42+00:00",
+      "published_at": "2026-10-24T15:39:28+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.4313,
+      "rank_score": 1.3662,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/as9wa6q38m",
-          "title": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে",
-          "snippet": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/mps-to-be-allowed-to-vote-independently-on-an-urgent-basis-constitutional-amendment/",
+          "title": "জরুরি পরিস্থিতি ছাড়া সাংসদরা স্বাধীনভাবে ভোট দিতে পারবেন: সংবিধান সংশোধন কমিটি",
+          "snippet": "জরুরি পরিস্থিতি ছাড়া সাংসদরা স্বাধীনভাবে ভোট দিতে পারবেন: সংবিধান সংশোধন কমিটি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংবিধান সংশোধন কমিটিতে তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা উপস্থাপন",
-        "title_en": "New Proposal for Caretaker Government Structure Presented to Constitution Reform Committee",
-        "summary_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন একটি ধারণা উত্থাপিত হয়েছে।",
-        "summary_en": "A new proposal to form an interim caretaker government from an upper house of parliament has been raised at a reform committee meeting.",
+        "title_bn": "জরুরি পরিস্থিতি ছাড়া স্বাধীনভাবে ভোট দিতে পারবেন সংসদ সদস্যরা",
+        "title_en": "Lawmakers to Vote Freely Except in Emergency Situations",
+        "summary_bn": "সংবিধান সংশোধন কমিটির সিদ্ধান্ত অনুযায়ী আস্থা ভোট ও অর্থবিল ছাড়া সংসদ সদস্যরা স্বাধীনভাবে ভোট দিতে পারবেন।",
+        "summary_en": "Lawmakers will be allowed to vote independently on legislation except during confidence votes and money bills.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:51:42+00:00",
-        "lead_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন একটি ধারণা উত্থাপিত হয়েছে।",
-        "lead_en": "A new proposal to form an interim caretaker government from an upper house of parliament has been raised at a reform committee meeting.",
+        "published_at": "2026-10-24T15:39:28+00:00",
+        "lead_bn": "সংবিধান সংশোধন কমিটির সিদ্ধান্ত অনুযায়ী আস্থা ভোট ও অর্থবিল ছাড়া সংসদ সদস্যরা স্বাধীনভাবে ভোট দিতে পারবেন।",
+        "lead_en": "Lawmakers will be allowed to vote independently on legislation except during confidence votes and money bills.",
         "bullets_bn": [
-          "সংসদের উচ্চকক্ষ গঠন করে সেখান থেকে তত্ত্বাবধায়ক সরকার গঠনের প্রস্তাব দেওয়া হয়েছে।",
-          "বিশেষ কমিটির সভায় সংবিধান বিশেষজ্ঞ ও সুপ্রিম কোর্টের আইনজীবীসহ ৪৪ জন অংশ নেন।",
-          "তত্ত্বাবধায়ক সরকারব্যবস্থার রূপরেখা চূড়ান্ত না হওয়ায় পরবর্তী পর্যালোচনার প্রক্রিয়া চলমান রয়েছে।"
+          "আস্থা ভোট, অর্থবিল এবং যুদ্ধকালীন জরুরি পরিস্থিতি বাদ দিয়ে সংসদ সদস্যরা নিজেদের স্বাধীন মতামত অনুযায়ী ভোট প্রদান করতে পারবেন।",
+          "সংবিধান সংশোধন বিষয়ক বিশেষ কমিটির বৈঠক শেষে সাংবাদিকদের এই কথা জানান কমিটির সভাপতি ও স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
+          "বৈঠকে তত্ত্বাবধায়ক সরকার গঠনের রূপরেখা নিয়ে আলোচনা হয়েছে এবং বিরোধী দল প্রস্তাব দিলে তা বিবেচনায় নেওয়া হবে।"
         ],
         "bullets_en": [
-          "A proposal was floated to form a caretaker government from a newly introduced upper house of parliament.",
-          "Forty-four participants, including constitutional experts and supreme court lawyers, attended the special committee meeting.",
-          "The framework for the caretaker government remains unfinalized as discussions and reviews continue."
+          "Lawmakers can exercise independent voting rights excluding confidence votes, money bills, and wartime emergencies.",
+          "The announcement was made by Home Minister and Constitution Reform Committee President Salahuddin Ahmed after a meeting.",
+          "The committee discussed caretaker government frameworks and noted that opposition proposals will be considered."
         ],
-        "impact_bn": "এই সংস্কার বাস্তবায়িত হলে জাতীয় নির্বাচন ও গণতান্ত্রিক ব্যবস্থার কাঠামোতে বড় ধরনের পরিবর্তন আসবে।",
-        "impact_en": "These structural reforms will directly reshape the framework of future national elections and democratic governance.",
-        "details_bn": "সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির সভায় বিচার বিভাগের স্বাধীন সচিবালয় প্রতিষ্ঠা, রাষ্ট্রপতির ক্ষমতার ভারসাম্য আনা, এবং সংসদীয় কমিটির ক্ষমতা বাড়ানোর মতো নানা প্রস্তাব নিয়ে আলোচনা হয়েছে। সংসদ দুই কক্ষের হলে উচ্চকক্ষ থেকে তত্ত্বাবধায়ক সরকার গঠনের এই প্রস্তাবটি রাজনৈতিক অঙ্গনে নতুন আলোচনার জন্ম দিয়েছে। তবে রূপরেখা এখনো চূড়ান্ত হয়নি।",
-        "details_en": "The special committee on constitutional reform held extensive discussions with legal experts regarding structural changes, including an independent judicial secretariat, balancing executive powers, and forming an upper house. The proposal to constitute a caretaker government through an upper house marks a notable addition to ongoing reform debates, though no final decisions have been reached yet."
+        "impact_bn": "আইনপ্রণেতাদের স্বাধীন মতপ্রকাশের সুযোগ তৈরি হওয়ায় সংসদে গণতান্ত্রিক চর্চা ও বিতর্ক আরও কার্যকর হবে।",
+        "impact_en": "Expanded voting freedom for lawmakers aims to foster more genuine democratic debate and accountability in parliament.",
+        "details_bn": "সংবিধান সংশোধনের লক্ষ্যে গঠিত বিশেষ কমিটি দেশের রাজনৈতিক কাঠামো সংস্কারে বিভিন্ন প্রস্তাব নিয়ে কাজ করছে। এর অংশ হিসেবে সংসদীয় কার্যপ্রণালী ও ভোটাভুটির স্বাধীনতায় সংস্কার আনার প্রক্রিয়া চলছে। তত্ত্বাবধায়ক সরকার ব্যবস্থা এবং সংসদ সদস্যদের স্বাধীনভাবে ভোট দেওয়ার অধিকারের মতো গুরুত্বপূর্ণ বিষয়গুলো নিয়ে রাজনৈতিক দলগুলোর মধ্যে দীর্ঘদিনের আলোচনা ও বিতর্ক রয়েছে।",
+        "details_en": "The special committee on constitutional reform is currently working on restructuring key political frameworks to enhance parliamentary democracy. Discussions have focused heavily on redefining lawmakers voting independence and addressing structural mechanisms such as the caretaker government system. These proposed reforms aim to resolve long-standing political debates surrounding legislative accountability and representation."
+      }
+    },
+    {
+      "story_id": "d7068dda-a636-56fc-8ac4-67352358ea1d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T16:16:22+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2923,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/976510/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BF-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
+          "title": "নির্বাচনি দায়িত্বে থাকা পুলিশ সদস্যের ওপর গাড়িয়ে তুলে হত্যাচেষ্টা, আটক ২",
+          "snippet": "নির্বাচনি দায়িত্বে থাকা পুলিশ সদস্যের ওপর গাড়িয়ে তুলে হত্যাচেষ্টা, আটক ২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঠাকুরগাঁওয়ে নির্বাচনী দায়িত্ব পালনকালে পুলিশ সদস্যকে পিকআপ চাপা দিয়ে হত্যার চেষ্টা",
+        "title_en": "Pickup Van Driver Tries to Kill Traffic Police Officer on Election Duty",
+        "summary_bn": "ঠাকুরগাঁওয়ে উপনির্বাচনের দায়িত্ব পালনকালে ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যান তুলে দিয়ে এক পুলিশ সদস্যকে হত্যার চেষ্টা চালানো হয়েছে।",
+        "summary_en": "A pickup driver intentionally ran over a traffic police officer in Thakurgaon after defying signals while on election duty.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T16:16:22+00:00",
+        "lead_bn": "ঠাকুরগাঁওয়ে উপনির্বাচনের দায়িত্ব পালনকালে ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যান তুলে দিয়ে এক পুলিশ সদস্যকে হত্যার চেষ্টা চালানো হয়েছে।",
+        "lead_en": "A pickup driver intentionally ran over a traffic police officer in Thakurgaon after defying signals while on election duty.",
+        "bullets_bn": [
+          "ঠাকুরগাঁও সদর থানাধীন বাসস্ট্যান্ড গোলচত্বর এলাকায় ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যানটি এক পুলিশ সদস্যকে চাপা দেয়।",
+          "ঘটনার পর পরই পুলিশ পিকআপটির চালক ও তার সহযোগীকে হাতেনাতে আটক করে।",
+          "আটককৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণ করে বিচারিক আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "The pickup driver defied traffic police signals and drove the vehicle directly over a police officer at the bus stand roundabout.",
+          "Police immediately detained the driver and his accomplice at the scene following the incident.",
+          "The arrested individuals were sent to jail through the judicial court following legal procedures."
+        ],
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের ওপর এ ধরনের হামলা মাঠপর্যায়ে তাদের নিরাপত্তা এবং দায়িত্বপালনের পরিবেশ নিয়ে উদ্বেগ তৈরি করে।",
+        "impact_en": "Such attacks on law enforcement personnel raise serious concerns regarding their safety and security while performing official duties.",
+        "details_bn": "ঠাকুরগাঁওয়ে একটি উপনির্বাচনের ভোটগ্রহণ ও শৃঙ্খলা রক্ষার কাজে ট্রাফিক পুলিশ সদস্যরা মোতায়েন ছিলেন। সে সময় যানবাহন তল্লাশি ও নিয়ন্ত্রণের অংশ হিসেবে একটি পিকআপ ভ্যানকে থামার সংকেত দেওয়া হয়। কিন্তু চালক নির্দেশ অমান্য করে দ্রুত গতিতে গাড়ি চালিয়ে পুলিশ সদস্যকে চাপা দেওয়ার চেষ্টা করেন। স্থানীয় পুলিশ তাৎক্ষণিক পদক্ষেপে অভিযুক্তদের আটক করে এবং আদালতের মাধ্যমে তাদের কারাগারে পাঠায়।",
+        "details_en": "Traffic police officers were deployed in Thakurgaon to maintain order during a local by-election. During routine vehicle checks, officers signaled a pickup van to stop, but the driver ignored the directive and attempted to run over the policeman. Police acted swiftly to apprehend the suspects, who were subsequently sent to jail via the judicial court."
+      }
+    },
+    {
+      "story_id": "98bf8d15-8a80-579e-830c-bcaaadfa7ee8",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Savar",
+        "#MadrasaCase"
+      ],
+      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/Savar%20Map.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-24T17:00:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.0,
+      "rank_score": 1.2151,
+      "sources": [
+        {
+          "name": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/crime-justice/news/rape-case-plaintiff-among-21-sued-over-madrasa-looting-vandalism-savar-4306511",
+          "title": "Rape case plaintiff among 21 sued over madrasa looting, vandalism in Savar",
+          "snippet": "Rape case plaintiff among 21 sued over madrasa looting, vandalism in Savar"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সাভারে মাদ্রাসা ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা",
+        "title_en": "Rape Case Plaintiff Among 21 Sued Over Madrasa Looting and Vandalism in Savar",
+        "summary_bn": "সাভারে একটি মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
+        "summary_en": "A case has been filed against 21 people, including a rape case plaintiff, over allegations of looting and vandalism at a Savar madrasa.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T17:00:45+00:00",
+        "lead_bn": "সাভারে একটি মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
+        "lead_en": "A case has been filed against 21 people, including a rape case plaintiff, over allegations of looting and vandalism at a Savar madrasa.",
+        "bullets_bn": [
+          "প্রধান আসামির ছেলে মো. উমায়ের সাভার মডেল থানায় মামলাটি দায়ের করেন",
+          "মামলায় ৪৭ লাখ টাকা নগদ ও ১২ ভরি স্বর্ণালংকারসহ ৭৭ লাখ টাকার মালামাল লুটের অভিযোগ আনা হয়েছে",
+          "পুলিশ জানিয়েছে, তদন্ত ছাড়া ধর্ষণ মামলার বাদীকে গ্রেপ্তার করা হবে না"
+        ],
+        "bullets_en": [
+          "Md Umair, son of the prime accused in a rape case, filed the looting and vandalism case at Savar Model Police Station.",
+          "The complaint alleges the looting of Tk 47 lakh in cash and 12 bhori of gold ornaments worth a total of Tk 77 lakh.",
+          "Police stated that the rape case plaintiff will not be arrested without a thorough investigation into the allegations."
+        ],
+        "impact_bn": "এ ধরনের পাল্টাপাল্টি আইনি পদক্ষেপ বিচারপ্রার্থী ও সাধারণ মানুষের মধ্যে আইনি প্রক্রিয়া নিয়ে উদ্বেগ বাড়াতে পারে।",
+        "impact_en": "Such retaliatory legal filings between opposing parties can heighten community tensions and complicate access to justice for victims.",
+        "details_bn": "সাভারে একটি মাদ্রাসার প্রধান শিক্ষক ও মালিকের বিরুদ্ধে ১৩ বছরের এক ছাত্রীকে ধর্ষণের অভিযোগে মামলা দায়েরের পর এই পাল্টাপাল্টি ঘটনা ঘটে। প্রধান আসামির পরিবার দাবি করেছে, মাদ্রাসাটির সম্পত্তি দখল ও সম্মানহানির উদ্দেশ্যে মিথ্যা ধর্ষণ মামলা করা হয়েছে। অন্যদিকে, মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে করা নতুন মামলায় ধর্ষণ মামলার বাদীকে আসামি করায় ভুক্তভোগীর স্বজনরা তীব্র ক্ষোভ প্রকাশ করেছেন। পুলিশ জানিয়েছে, অভিযোগগুলো খতিয়ে দেখা হচ্ছে এবং কোনো রকম যাচাই ছাড়া কাউকে গ্রেপ্তার করা হবে না।",
+        "details_en": "The case follows a recent rape accusation filed against a madrasa headteacher and owner involving a 13-year-old student. The family of the accused headteacher claimed the rape allegation was fabricated to grab madrasa property, prompting them to file a counter-case alleging widespread looting and vandalism. Meanwhile, relatives of the rape victim expressed anger after learning that the rape case plaintiff was named in the new looting complaint, while law enforcement assured that no arrests would be made without proper investigation."
       }
     },
     {
@@ -71,7 +181,7 @@
       "published_at": "2026-10-24T15:46:58+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6875,
+      "rank_score": 1.0438,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -81,10 +191,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফ্রান্সে বর্ণবাদী হামলায় একজন নিহত ও পাঁচজন আহত",
-        "title_en": "Racist Attack in France Leaves One Dead and Five Injured",
+        "title_bn": "ফ্রান্সে বর্ণবাদী হামলায় এক কৃষ্ণাঙ্গ নিহত ও পাঁচজন আহত",
+        "title_en": "Racist Attack in Northern France Leaves One Dead and Five Injured",
         "summary_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
-        "summary_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five others injured.",
+        "summary_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five injured, including a child.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -93,135 +203,25 @@
         "read_time_seconds": 60,
         "published_at": "2026-10-24T15:46:58+00:00",
         "lead_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
-        "lead_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five others injured.",
+        "lead_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five injured, including a child.",
         "bullets_bn": [
-          "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলার ঘটনা ঘটেছে।",
-          "এই সন্ত্রাসী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
-          "নিত্যপণ্যের ঊর্ধ্বগতি ও জীবনযাত্রার ব্যয়বৃদ্ধির তীব্র আন্দোলনের মধ্যেই এই সহিংসতা ঘটে।"
+          "ফ্রান্সের উত্তরাঞ্চলে বর্ণভিত্তিক ও ইসলামবিদ্বেষী প্রেরণা থেকে একটি সন্ত্রাসী হামলা চালানো হয়।",
+          "এই সহিংস ঘটনায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছর বয়সী এক শিশুসহ অন্তত পাঁচজন আহত হয়েছেন।",
+          "ফরাসি প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁ এই বর্বর ঘটনাটিকে সন্ত্রাসী ও বর্ণবাদী হামলা হিসেবে নিন্দা জানিয়েছেন।"
         ],
         "bullets_en": [
-          "A racist and Islamophobic attack took place in northern France.",
-          "The terrorist incident resulted in the death of one black individual and injuries to five others, including a 12-year-old child.",
-          "The violence occurred amid ongoing intense protests over soaring commodity prices and the rising cost of living."
+          "A terrorist attack driven by racial and Islamophobic motives was carried out in northern France.",
+          "The violent incident left one black individual dead and at least five others injured, including a 12-year-old child.",
+          "French President Emmanuel Macron strongly condemned the incident, classifying it as a terrorist and racist attack."
         ],
-        "impact_bn": "ইউরোপে বসবাসরত অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীর মধ্যে নিরাপত্তা নিয়ে উদ্বেগ ও আতঙ্ক বাড়ছে।",
-        "impact_en": "Security concerns and anxiety are rising among immigrant and minority communities living in Europe.",
-        "details_bn": "ফ্রান্সে জীবনযাত্রার ব্যয়বৃদ্ধি এবং নিত্যপণ্যের ঊর্ধ্বগতির বিরুদ্ধে দেশজুড়ে তীব্র আন্দোলন চলছে। এরই মধ্যে উত্তরের একটি অঞ্চলে বর্ণভিত্তিক ও ইসলামবিদ্বেষী হামলার ঘটনা ঘটল। ফরাসি প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁ এই হামলাকে সন্ত্রাসী ও বর্ণবাদী হিসেবে চিহ্নিত করেছেন। এই ধরনের সহিংসতা ইউরোপজুড়ে ক্রমবর্ধমান ইসলামবিদ্বেষ এবং সামাজিক উত্তেজনার বিষয়টি নতুন করে সামনে নিয়ে এসেছে।",
-        "details_en": "France has been witnessing intense nationwide protests against the rising cost of living and soaring commodity prices. Amid this unrest, a racially and Islamophobically motivated attack occurred in the northern region. French President Emmanuel Macron condemned the incident as a terrorist and racist act. Such violence has reignited concerns regarding the growing trend of Islamophobia and social tensions across Europe."
+        "impact_bn": "ইউরোপে ক্রমবর্ধমান বর্ণবাদ ও ইসলামবিদ্বেষ প্রবাসী এবং সংখ্যালঘু জনগোষ্ঠীর নিরাপত্তা নিয়ে নতুন উদ্বেগের জন্ম দিয়েছে।",
+        "impact_en": "Rising racism and Islamophobia in Europe raise fresh security concerns for expatriates and minority communities.",
+        "details_bn": "নিত্যপণ্যের ঊর্ধ্বগতি ও জীবনযাত্রার ব্যয়বৃদ্ধির প্রতিবাদে যখন দেশজুড়ে তীব্র আন্দোলন চলছে, ঠিক সেই সময়ে ফ্রান্সে এই বর্ণবাদী সহিংসতার ঘটনা ঘটল। ফরাসি সমাজে সাম্প্রতিক সময়ে অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীকে লক্ষ্য করে হামলা এবং সামাজিক বিভাজন বৃদ্ধির প্রবণতা পরিলক্ষিত হচ্ছে, যা ইউরোপজুড়ে ইসলামবিদ্বেষ ও বর্ণবাদের ঝুঁকি নিয়ে নতুন বিতর্কের জন্ম দিয়েছে।",
+        "details_en": "This racist violence in France occurred amid widespread protests across the country against soaring commodity prices and a rising cost of living. In recent times, French society has witnessed a growing trend of attacks targeting immigrants and minority groups, sparking renewed debate over the risks of Islamophobia and racism across Europe."
       }
     },
     {
-      "story_id": "7bfd6731-8c19-5b9a-b5b1-d7c65f70a7df",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T16:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9637,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976506/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%89%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%82%E0%A6%B2-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%87-%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87",
-          "title": "প্রতিকার চাইতে গিয়ে উল্টো বিপাকে: মূল ঘটনাই আড়ালে পড়ে যাচ্ছে না তো?",
-          "snippet": "প্রতিকার চাইতে গিয়ে উল্টো বিপাকে: মূল ঘটনাই আড়ালে পড়ে যাচ্ছে না তো?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় উল্টো বিপাকে সাধারণ নাগরিক ও সংসদ সদস্য",
-        "title_en": "Citizens and Lawmaker Face Counter Charges While Seeking Justice in Gazipur and Brahmanbaria",
-        "summary_bn": "অন্যায়ের প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় অভিযোগকারী বাবা এবং সংসদ সদস্য উভয়েই পাল্টা আইনি ঝামেলা ও বিরোধের মুখে পড়েছেন।",
-        "summary_en": "Seeking justice for grievances led to counter charges and disputes for a grieving father and a lawmaker in Gazipur and Brahmanbaria.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T16:00:00+00:00",
-        "lead_bn": "অন্যায়ের প্রতিকার চাইতে গিয়ে গাজীপুর ও ব্রাহ্মণবাড়িয়ায় অভিযোগকারী বাবা এবং সংসদ সদস্য উভয়েই পাল্টা আইনি ঝামেলা ও বিরোধের মুখে পড়েছেন।",
-        "lead_en": "Seeking justice for grievances led to counter charges and disputes for a grieving father and a lawmaker in Gazipur and Brahmanbaria.",
-        "bullets_bn": [
-          "সন্তানের ওপর যৌন নিপীড়নের বিচার চাইতে গিয়ে গাজীপুরের টঙ্গীতে হামলার শিকার হন এক বাবা।",
-          "নিরাপত্তা ও পুলিশের অনিয়মের অভিযোগ নিয়ে ব্রাহ্মণবাড়িয়ার সরাইলে থানার ওসির সঙ্গে বাগবিতণ্ডায় জড়ান এক সংসদ সদস্য।",
-          "উভয় ঘটনাতেই পুলিশের পক্ষ থেকে সাধারণ ডায়েরি নথিভুক্ত করা হয়েছে এবং মূল অভিযোগ আড়ালে পড়ার শঙ্কা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "A father faced counter allegations and vandalism while seeking justice for his child's sexual abuse in Gazipur.",
-          "A lawmaker engaged in a heated argument with the officer-in-charge of Sarail police station regarding security concerns.",
-          "Both incidents have been officially recorded in general diaries by law enforcement, raising public concern."
-        ],
-        "impact_bn": "বিচারপ্রার্থী সাধারণ মানুষের থানায় গিয়ে আইনি সহায়তা পাওয়ার ক্ষেত্রে আস্থার সংকট তৈরি করতে পারে এই ধরনের ঘটনা।",
-        "impact_en": "Such incidents can severely undermine public trust in seeking legal recourse and fair treatment at local police stations.",
-        "details_bn": "দেশের বিভিন্ন স্থানে সাধারণ মানুষ ও জনপ্রতিনিধিরা আইনি প্রতিকার বা সেবা চাইতে গিয়ে পুলিশি হয়রানি কিংবা পাল্টাপাল্টি আইনি জটিলতার মুখে পড়ছেন। গাজীপুরের টঙ্গীতে সন্তানের ওপর যৌন নিপীড়নের বিচার চাইতে যাওয়া এক বাবার বিরুদ্ধে হামলা ও অর্থ লুটের অভিযোগ আনা হয়েছে। অন্যদিকে ব্রাহ্মণবাড়িয়ার সরাইলে থানার ওসির অনিয়মের প্রতিবাদ করতে গিয়ে সংসদ সদস্যের সঙ্গে পুলিশের বাগবিতণ্ডার ঘটনা ঘটে, যা পরবর্তীতে সাধারণ ডায়েরিতে নথিভুক্ত হয়। এসব ঘটনা বিচারপ্রার্থীদের নিরাপত্তা ও আইনি প্রক্রিয়া নিয়ে নতুন প্রশ্নের জন্ম দিয়েছে।",
-        "details_en": "Incidents of citizens and public representatives facing counter-charges or harassment while seeking legal remedies have raised widespread concerns. In Gazipur's Tongi, a father seeking justice for his child's sexual abuse faced counter-allegations of vandalism and extortion. Meanwhile, a lawmaker in Brahmanbaria's Sarail engaged in a dispute with a police officer over alleged irregularities, which was later documented in a general diary. These parallel events highlight systemic challenges in accessing unbiased law enforcement support."
-      }
-    },
-    {
-      "story_id": "96e99617-9e65-5d76-a75a-13b3056fe314",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "sports_fitness"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T15:56:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.929,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171570",
-          "title": "দেশের উন্নয়নের প্রধান অন্তরায় মাদক: সমাজকল্যাণমন্ত্রী",
-          "snippet": "দেশের উন্নয়নের প্রধান অন্তরায় মাদক: সমাজকল্যাণমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মাদক দেশের সামগ্রিক উন্নয়নের প্রধান অন্তরায় বলে মন্তব্য সমাজকল্যাণমন্ত্রীর",
-        "title_en": "Social Welfare Minister Declares Drug Abuse as Main Barrier to Development",
-        "summary_bn": "সমাজকল্যাণমন্ত্রী দেশের সার্বিক উন্নয়ন নিশ্চিত করতে মাদক নির্মূলের ওপর সর্বোচ্চ গুরুত্ব আরোপ করেছেন।",
-        "summary_en": "The Social Welfare Minister emphasized the urgent need to eradicate drug abuse to ensure national development.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:56:32+00:00",
-        "lead_bn": "সমাজকল্যাণমন্ত্রী দেশের সার্বিক উন্নয়ন নিশ্চিত করতে মাদক নির্মূলের ওপর সর্বোচ্চ গুরুত্ব আরোপ করেছেন।",
-        "lead_en": "The Social Welfare Minister emphasized the urgent need to eradicate drug abuse to ensure national development.",
-        "bullets_bn": [
-          "মাদককে দেশের উন্নয়ন যাত্রার সবচেয়ে বড় প্রতিবন্ধক হিসেবে চিহ্নিত করা হয়েছে।",
-          "যুবসমাজকে মাদকের করাল গ্রাস থেকে দূরে রাখতে হবে।",
-          "তরুণদের খেলাধুলা ও সাংস্কৃতিক কর্মকাণ্ডে ব্যাপকভাবে সম্পৃক্ত করার নির্দেশ দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Drug abuse has been identified as the single biggest obstacle to national development.",
-          "The youth must be shielded from the destructive grip of narcotics.",
-          "Authorities directed widespread engagement of young people in sports and cultural activities."
-        ],
-        "impact_bn": "মাদকবিরোধী এই পদক্ষেপে যুবসমাজ বিপথগামিতা থেকে রক্ষা পেয়ে সুস্থ ধারার সংস্কৃতির দিকে ঝুঁকবে।",
-        "impact_en": "This anti-drug stance helps protect youth from moral degradation while promoting healthy cultural and athletic engagement.",
-        "details_bn": "মাদকদ্রব্যের অপব্যবহার রোধ এবং যুবসমাজকে রক্ষা করার বিষয়টি দীর্ঘদিন ধরে নীতিনির্ধারক মহলে প্রধান আলোচনার বিষয় হয়ে আসছে। অপরাধপ্রবণতা বৃদ্ধি এবং তরুণ প্রজন্মের শারীরিক ও মানসিক ক্ষতি রোধে সরকারের পক্ষ থেকে বিভিন্ন সময় সচেতনতামূলক কার্যক্রম ও সামাজিক আন্দোলন গড়ে তোলার ওপর জোর দেওয়া হয়েছে।",
-        "details_en": "The prevention of substance abuse and the protection of the younger generation have remained major focal points for policymakers. The government has repeatedly emphasized awareness campaigns and social movements to curb rising crime rates and prevent the physical and mental deterioration of youth."
-      }
-    },
-    {
-      "story_id": "9f0ef782-b2ec-56e1-af35-0a184ae276c6",
+      "story_id": "db373b3f-7a19-5bae-9c6a-d70beadbc160",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -232,100 +232,102 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T15:48:05+00:00",
+      "published_at": "2026-10-24T16:47:59+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.853,
+      "rank_score": 0.8526,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171566",
-          "title": "কেন্দ্রীয় কারাগারে ডেঙ্গু আক্রান্ত হাজতির হাসপাতালে মৃত্যু",
-          "snippet": "কেন্দ্রীয় কারাগারে ডেঙ্গু আক্রান্ত হাজতির হাসপাতালে মৃত্যু"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/educations/976516/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A6%BE%E0%A6%AB%E0%A6%B2-%E0%A7%A8%E0%A7%AF-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0",
+          "title": "এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবর",
+          "snippet": "এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গুতে আক্রান্ত হাজতির মৃত্যু",
-        "title_en": "Inmate Dies of Dengue at Dhaka Central Jail",
-        "summary_bn": "কেরানীগঞ্জের ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গু জ্বরে আক্রান্ত হয়ে চিকিৎসাধীন অবস্থায় এক হাজতির মৃত্যু হয়েছে।",
-        "summary_en": "An inmate undergoing treatment for dengue fever has died at the Dhaka Central Jail in Keraniganj.",
+        "title_bn": "এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশিত হবে ২৯ অক্টোবর",
+        "title_en": "HSC and Equivalent Exam Results to Be Published on October 29",
+        "summary_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল ২৯ অক্টোবর প্রকাশিত হবে বলে আন্তশিক্ষা বোর্ড সমন্বয় কমিটি নিশ্চিত করেছে।",
+        "summary_en": "The results of this year's HSC and equivalent examinations will be published on October 29, confirmed the Inter-Education Board Coordination Committee.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:48:05+00:00",
-        "lead_bn": "কেরানীগঞ্জের ঢাকা কেন্দ্রীয় কারাগারে ডেঙ্গু জ্বরে আক্রান্ত হয়ে চিকিৎসাধীন অবস্থায় এক হাজতির মৃত্যু হয়েছে।",
-        "lead_en": "An inmate undergoing treatment for dengue fever has died at the Dhaka Central Jail in Keraniganj.",
+        "published_at": "2026-10-24T16:47:59+00:00",
+        "lead_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল ২৯ অক্টোবর প্রকাশিত হবে বলে আন্তশিক্ষা বোর্ড সমন্বয় কমিটি নিশ্চিত করেছে।",
+        "lead_en": "The results of this year's HSC and equivalent examinations will be published on October 29, confirmed the Inter-Education Board Coordination Committee.",
         "bullets_bn": [
-          "ডেঙ্গু আক্রান্ত হাজতিকে উন্নত চিকিৎসার জন্য ঢাকা মেডিকেল কলেজ হাসপাতালে ভর্তি করা হয়।",
-          "কর্তব্যরত চিকিৎসক পরীক্ষা-নিরীক্ষা শেষে ওই হাজতিকে মৃত বলে ঘোষণা করেন।",
-          "কারাগারগুলোতে ডেঙ্গু সংক্রমণ রোধে স্বাস্থ্যবিধি ও পরিচ্ছন্নতা অভিযান জোরদারের নির্দেশনা দেওয়া হয়েছে।"
+          "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি ফল প্রকাশের চূড়ান্ত তারিখ হিসেবে ২৯ অক্টোবর নির্ধারণ করেছে।",
+          "ঢাকা শিক্ষা বোর্ডের চেয়ারম্যান ও আন্তশিক্ষা বোর্ড সমন্বয় কমিটির সভাপতি অধ্যাপক সৈয়দ আক্তারুজ্জামান এই তথ্য নিশ্চিত করেছেন।",
+          "শিক্ষাবোর্ডগুলোর প্রস্তাবিত সময়ের মধ্যে শিক্ষা মন্ত্রণালয়ের অনুমোদনের পর নির্ধারিত দিনে ফলাফল প্রকাশ করা হবে।"
         ],
         "bullets_en": [
-          "The dengue-infected inmate was transferred to Dhaka Medical College Hospital for advanced treatment.",
-          "Attending physicians declared the inmate dead after necessary examinations.",
-          "Authorities directed intensified hygiene and cleanliness drives to curb dengue outbreaks in prisons."
+          "The Inter-Education Board Coordination Committee finalized October 29 as the publication date for the exam results.",
+          "Professor Syed Akteruzzaman, chairman of the Dhaka Education Board and the coordination committee, confirmed this information.",
+          "Results will be officially published on the scheduled date following approval from the education ministry based on the boards' proposal."
         ],
-        "impact_bn": "কারাগারে থাকা বন্দীদের স্বাস্থ্য সুরক্ষা ও ডেঙ্গু প্রতিরোধে কর্তৃপক্ষের অবহেলা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Concerns have heightened regarding inmate health safety and the inadequacy of dengue prevention measures in correctional facilities.",
-        "details_bn": "বর্ষা মৌসুমে ঢাকাসহ দেশের বিভিন্ন কারাগারে এডিস মশাবাহিত রোগ ডেঙ্গুর প্রাদুর্ভাব উদ্বেগের কারণ হয়ে দাঁড়িয়েছে। এর আগেও বন্দীদের মধ্যে ডেঙ্গু আক্রান্ত হওয়ার ও মৃত্যুর ঘটনা ঘটেছে। কারাবন্দীদের চিকিৎসাসেবা নিশ্চিত করা এবং কারাগারের পরিবেশ মশামুক্ত রাখতে মানবাধিকার সংগঠনগুলো দীর্ঘদিন ধরে দাবি জানিয়ে আসছে।",
-        "details_en": "The outbreak of Aedes-borne dengue has become a growing concern in prisons across Dhaka and the country during the monsoon season. Prior instances of dengue infections and fatalities among inmates have been reported. Human rights organizations have long demanded ensured medical care for prisoners and mosquito eradication within correctional facilities."
+        "impact_bn": "লক্ষাধিক এইচএসসি পরীক্ষার্থী ও তাদের অভিভাবকরা এই ফলাফল প্রকাশের মাধ্যমে তাদের উচ্চশিক্ষার পরবর্তী ধাপের প্রস্তুতি শুরু করতে পারবেন।",
+        "impact_en": "HSC candidates and their families can begin planning their higher education pathways once the official results are released.",
+        "details_bn": "শিক্ষা বোর্ডগুলোর পক্ষ থেকে এর আগে ২৫ থেকে ২৯ অক্টোবরের মধ্যে এইচএসসি ও সমমানের পরীক্ষার ফল প্রকাশের জন্য শিক্ষা মন্ত্রণালয়ে প্রস্তাব পাঠানো হয়েছিল। সেই প্রস্তাবের ভিত্তিতে মন্ত্রণালয় ফল প্রকাশের এই তারিখ চূড়ান্ত করে। প্রতি বছর লাখ লাখ শিক্ষার্থী এই পরীক্ষায় অংশগ্রহণ করে এবং এই ফলাফলের ওপর তাদের পরবর্তী উচ্চশিক্ষার ভর্তি কার্যক্রম নির্ভর করে।",
+        "details_en": "Education boards had earlier sent a proposal to the ministry requesting result publication between October 25 and 29. Based on this proposal, the ministry finalized the release date. Millions of students participate in these exams annually, and the results determine their eligibility for higher education admissions."
       }
     },
     {
-      "story_id": "5f4f0d22-b7bd-5fb1-917e-e9d80f25a0c8",
-      "primary_category": "economy_business",
+      "story_id": "5cba822b-9cb0-5b79-b21f-aea7a929b286",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/JPEG-10.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fofgl4guz%2FGazipurDH061520261024IMG-20261024-WA0101.jpg?rect=0%2C16%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T15:43:19+00:00",
+      "published_at": "2026-10-24T16:38:08+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8148,
+      "rank_score": 0.777,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/8-8-million-taka-along-with-gold-silver-and-currency-from-18-countries-found-in-the-donation-box-at-the-shrine-of-shahjalal-ra/",
-          "title": "শাহজালাল (রহ.) মাজারের দানবাক্সে মিলল ৮৮ লাখ টাকা, সোনা-রুপা সহ ১৮ দেশের মুদ্রা",
-          "snippet": "শাহজালাল (রহ.) মাজারের দানবাক্সে মিলল ৮৮ লাখ টাকা, সোনা-রুপা সহ ১৮ দেশের মুদ্রা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/dm6r1jogql",
+          "title": "সাদপন্থীদের টঙ্গীর ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার দাবি",
+          "snippet": "সাদপন্থীদের টঙ্গীর ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার দাবি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে ৮৮ লাখ টাকা উদ্ধার",
-        "title_en": "Hazrat Shahjalal Shrine Donation Boxes Yield 88 Million Taka",
-        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি, স্বর্ণ ও বিভিন্ন বৈদেশিক মুদ্রা পাওয়া গেছে।",
-        "summary_en": "Authorities recovered over 8.8 million Taka, gold, and diverse foreign currencies from donation boxes at the Hazrat Shahjalal Shrine.",
+        "title_bn": "টঙ্গীর ইজতেমা ময়দান সাদপন্থীদের না দেওয়ার দাবি ওলামা-মাশায়েখদের",
+        "title_en": "Ulema Demand Denial of Tongi Ijtema Ground to Saad Followers",
+        "summary_bn": "হেফাজতে ইসলাম ও দেশের শীর্ষস্থানীয় আলেম-ওলামারা টঙ্গীর বিশ্ব ইজতেমা ময়দান সাদপন্থীদের ব্যবহারের অনুমতি না দেওয়ার দাবি জানিয়েছেন।",
+        "summary_en": "Top clerics and Hefazat-e-Islam leaders have demanded that Saad followers be denied permission to use the Tongi Ijtema ground.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:43:19+00:00",
-        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স ও ডেগ খুলে নগদ ৮৮ লাখ টাকার বেশি, স্বর্ণ ও বিভিন্ন বৈদেশিক মুদ্রা পাওয়া গেছে।",
-        "lead_en": "Authorities recovered over 8.8 million Taka, gold, and diverse foreign currencies from donation boxes at the Hazrat Shahjalal Shrine.",
+        "published_at": "2026-10-24T16:38:08+00:00",
+        "lead_bn": "হেফাজতে ইসলাম ও দেশের শীর্ষস্থানীয় আলেম-ওলামারা টঙ্গীর বিশ্ব ইজতেমা ময়দান সাদপন্থীদের ব্যবহারের অনুমতি না দেওয়ার দাবি জানিয়েছেন।",
+        "lead_en": "Top clerics and Hefazat-e-Islam leaders have demanded that Saad followers be denied permission to use the Tongi Ijtema ground.",
         "bullets_bn": [
-          "হজরত শাহজালাল মাজারের তিনটি ডেগ ও পাঁচটি দানবাক্স খুলে নগদ অর্থ ও মূল্যবান সামগ্রী গণনা করা হয়।",
-          "দানবাক্সগুলো থেকে মোট ৮৮ লাখ ৬৫ হাজার ৮০৪ টাকা, নির্দিষ্ট পরিমাণ স্বর্ণ, রৌপ্য এবং ১৮ দেশের বৈদেশিক মুদ্রা উদ্ধার করা হয়।",
-          "মাজারের আর্থিক ব্যবস্থাপনায় স্বচ্ছতা আনতে নতুন জনবল নিয়োগের মাধ্যমে প্রতিদিন দানের টাকা গণনার সিদ্ধান্ত নিয়েছে কর্তৃপক্ষ।"
+          "সাদপন্থীদের টঙ্গী বিশ্ব ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার বিষয়ে সরকারের আগের সিদ্ধান্ত বহাল রাখার দাবি জানানো হয়েছে।",
+          "ও ২০২৪ সালে টঙ্গীতে সংঘটিত হত্যাকাণ্ডের ঘটনায় করা দুটি মামলার তদন্ত দ্রুত শেষ করে অভিযোগপত্র দাখিলের দাবি জানানো হয়।",
+          "টঙ্গীর ময়দান নিয়ে সাদপন্থীরা বিশৃঙ্খলা সৃষ্টি করলে জেলাপর্যায়ে কঠোর কর্মসূচি পালন করা হবে বলে হুঁশিয়ারি দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Authorities opened three large pots and five donation boxes at the Hazrat Shahjalal Shrine for counting.",
-          "The count yielded 8,865,804 Taka in cash alongside gold, silver, and currencies from 18 foreign countries.",
-          "Shrine authorities plan to implement daily counting through newly appointed management staff to ensure financial transparency."
+          "Clerics demanded that the government uphold its previous decision barring Saad followers from using the Tongi Ijtema ground.",
+          "Speakers urged the Police Bureau of Investigation to swiftly finish probe reports and submit charge sheets for two past murder cases.",
+          "Leaders warned of strict district-wide protests if Saad followers attempt to create chaos over the control of the venue."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সিলেটের হযরত শাহজালাল (রহ.) মাজারের আর্থিক ব্যবস্থাপনায় স্বচ্ছতা আনতে গত ২৩ সেপ্টেম্বর গঠিত কমিটির সভায় প্রতিদিন দানের টাকা গণনার সিদ্ধান্ত নেওয়া হয়। এর অংশ হিসেবে একজন ব্যবস্থাপক, হিসাবরক্ষক ও অফিস সহকারী নিয়োগের কথা রয়েছে। তবে নিয়োগপ্রক্রিয়া এখনো শেষ না হওয়ায় নির্দিষ্ট সময় পরপর দানবাক্স খুলে অর্থ গণনা করা হচ্ছে। অতীতেও নিয়মিত বিরতিতে মাজারের দানবাক্স ও ডেগ থেকে নগদ টাকা, বৈদেশিক মুদ্রা ও অলংকার পাওয়া গেছে।",
-        "details_en": "To ensure financial transparency, a committee formed on September 23 decided to count donations daily at the Hazrat Shahjalal Shrine by appointing dedicated management staff. As the recruitment process remains incomplete, authorities periodically open the shrine boxes for collection counts. Historically, regular openings of these donation pots and boxes have consistently yielded substantial local cash, precious metals, and diverse foreign currencies."
+        "details_bn": "বাংলাদেশে তাবলিগ জামাতের দাওয়াতি কার্যক্রম নিয়ে ২০১৮ সাল থেকে মাওলানা জোবায়ের আহমদ ও ভারতের মাওলানা সাদ কান্ধলভীর অনুসারীদের মধ্যে বিরোধ চলে আসছে। গত বছর কিছু শর্তে সাদপন্থীদের ইজতেমা আয়োজনের অনুমতি দেওয়া হলেও চুক্তিতে বলা হয়েছিল তারা ২০২৬ সাল থেকে টঙ্গীর মাঠে কার্যক্রম চালাতে পারবে না। সম্প্রতি এ ময়দান ব্যবহার নিয়ে নতুন করে জটিলতা সৃষ্টি হলে ওলামা-মাশায়েখরা পরামর্শ সভা ডেকে সরকারের কাছে তাদের পূর্বের সিদ্ধান্ত বহাল রাখার দাবি জানান।",
+        "details_en": "A schism within Bangladesh Tablighi Jamaat has persisted since 2018 between followers of Maulana Zubair Ahmed and Indian preacher Maulana Saad Kandhlawi. Although Saad followers secured conditional permission to hold Ijtema previously, agreements stipulated they could not use the Tongi venue from 2026. Amid fresh disputes over venue access, senior clerics convened to officially press the government to maintain its exclusionary stance against Saad's faction."
       }
     }
   ]
