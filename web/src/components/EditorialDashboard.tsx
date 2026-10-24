@@ -312,6 +312,7 @@ export const EditorialDashboard: React.FC = () => {
               story_id: id,
               importance_score: importance,
               rank_score: rank,
+              is_bcs_pro_selected: Boolean(s.is_bcs_pro_selected || s.bcs_pro || s.bcsPro),
               _docId: 'latest',
             });
           }
@@ -338,6 +339,7 @@ export const EditorialDashboard: React.FC = () => {
               story_id,
               importance_score: importance,
               rank_score: rank,
+              is_bcs_pro_selected: Boolean(data.is_bcs_pro_selected || data.bcs_pro || data.bcsPro),
               _docId: docId,
             } as CapsuleStory & { _docId?: string });
           }
@@ -1324,7 +1326,7 @@ export const EditorialDashboard: React.FC = () => {
                             <label className="flex items-center gap-2 cursor-pointer pt-1 select-none text-xs font-serif">
                               <input
                                 type="checkbox"
-                                checked={selectedStory.is_bcs_pro_selected}
+                                checked={Boolean(selectedStory.is_bcs_pro_selected)}
                                 onChange={(e) =>
                                   setSelectedStory({
                                     ...selectedStory,
