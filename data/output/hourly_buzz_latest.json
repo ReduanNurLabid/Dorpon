@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-24T17:00:47.559068",
+  "updated_at": "2026-10-24T18:00:49.166264",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "5c1ac4f2-9531-5a11-8046-454db8e0e98d",
+      "story_id": "2449ffae-8f34-5b1b-b790-12dbc13a19fb",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -12,216 +12,278 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/01-5.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fjvdj2snu%2FArrestees.jpg?rect=0%2C0%2C3264%2C1714&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T15:39:28+00:00",
+      "published_at": "2026-10-24T17:25:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.3662,
+      "importance_score": 4.8,
+      "rank_score": 1.3905,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/n8b6mizawc",
+          "title": "সহযোগীকে ছাড়াতে যাচ্ছিলেন আদালতে, পথে পিস্তল-গুলিসহ আটক",
+          "snippet": "সহযোগীকে ছাড়াতে যাচ্ছিলেন আদালতে, পথে পিস্তল-গুলিসহ আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর মিরপুরে বিদেশি পিস্তল ও গুলিসহ দুই ব্যক্তি গ্রেপ্তার",
+        "title_en": "Two Arrested with Foreign Pistol and Ammunition in Mirpur",
+        "summary_bn": "দণ্ডপ্রাপ্ত সহযোগীকে আদালত থেকে ছাড়াতে যাওয়ার পথে বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested two men with a foreign pistol and bullets while they were heading to court to free an associate.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T17:25:23+00:00",
+        "lead_bn": "দণ্ডপ্রাপ্ত সহযোগীকে আদালত থেকে ছাড়াতে যাওয়ার পথে বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested two men with a foreign pistol and bullets while they were heading to court to free an associate.",
+        "bullets_bn": [
+          "মিরপুর ১১ নম্বর মেট্রোরেল স্টেশনের নিচে পুলিশের তল্লাশিচৌকিতে মশিউল ম ও শান্ত ইসলামকে গ্রেপ্তার করা হয়।",
+          "মিরপুর বিভাগের উপকমিশনার হাসান মোহাম্মদ নাসের রিকাবদার গ্রেপ্তারের সত্যতা নিশ্চিত করে জানান মশিউলের বিরুদ্ধে ৯টি মামলা রয়েছে।",
+          "ধৃত ব্যক্তিদের বিরুদ্ধে অস্ত্র আইনে নতুন মামলার প্রস্তুতি চলছে এবং তাঁদের ব্যবহৃত মোটরসাইকেলটি জব্দ করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Mashiul Azam and Shanto Islam were arrested at a police checkpoint beneath the Mirpur 11 metro rail station.",
+          "Mirpur division Deputy Commissioner Hasan Mohammad Nasser Rikabdar confirmed the arrest, noting Mashiul faces nine prior cases.",
+          "Preparations are underway to file a fresh arms case against the detainees, and their motorcycle has been seized."
+        ],
+        "impact_bn": "অবৈধ অস্ত্রধারীদের গ্রেপ্তারের ফলে স্থানীয় বাজারে চাঁদাবাজি কমবে এবং সাধারণ ব্যবসায়ীদের নিরাপত্তা বাড়াবে।",
+        "impact_en": "The arrest of armed extortionists will reduce local market extortion and enhance security for ordinary business owners.",
+        "details_bn": "বিশেষ মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত কর্তৃক মাদক মামলায় দণ্ডপ্রাপ্ত এক সহযোগীকে জেলখানা থেকে ছাড়িয়ে নিতে যাওয়ার সময় পুলিশ এই দুজনকে আটক করে। প্রাথমিক জিজ্ঞাসাবাদে জানা যায়, গ্রেপ্তার মশিউল দীর্ঘদিন ধরে মিরপুর ১২ নম্বর এলাকার বিভিন্ন দোকান ও মার্কেটে অস্ত্র দেখিয়ে চাঁদাবাজি করে আসছিলেন। তাঁর বিরুদ্ধে পল্লবী থানায় অস্ত্র, চাঁদাবাজি ও মাদক আইনে একাধিক মামলা রয়েছে এবং এর আগেও তিনি অবৈধ আগ্নেয়াস্ত্রসহ গ্রেপ্তার হয়েছিলেন। পুলিশ জানিয়েছে, তাঁদের ব্যবহৃত মোটরসাইকেল জব্দ করা হয়েছে এবং অস্ত্র আইনের মামলার প্রক্রিয়া চলছে।",
+        "details_en": "Police intercepted the suspects as they attempted to rescue an associate who had been sentenced to jail in a drug case by a special metropolitan magistrate court. Initial interrogation revealed that Mashiul had been extorting money from various shops and markets in the Mirpur 12 area using illegal firearms. He faces multiple cases under arms, extortion, and drug laws at Pallabi police station and was previously arrested in possession of illegal arms. Authorities confirmed that their motorcycle was seized and legal proceedings are underway."
+      }
+    },
+    {
+      "story_id": "dd4ea797-32ec-5531-8b12-b1a2b2a087af",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "economy_business"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/f9.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T17:25:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.389,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/mps-to-be-allowed-to-vote-independently-on-an-urgent-basis-constitutional-amendment/",
-          "title": "জরুরি পরিস্থিতি ছাড়া সাংসদরা স্বাধীনভাবে ভোট দিতে পারবেন: সংবিধান সংশোধন কমিটি",
-          "snippet": "জরুরি পরিস্থিতি ছাড়া সাংসদরা স্বাধীনভাবে ভোট দিতে পারবেন: সংবিধান সংশোধন কমিটি"
+          "url": "https://www.channelionline.com/gianni-infantino-uefa-concacaf-asian-football-confederation-lead-sports/",
+          "title": "পদত্যাগের প্রশ্ন হেসে উড়িয়ে দিলেন ইনফান্তিনো",
+          "snippet": "পদত্যাগের প্রশ্ন হেসে উড়িয়ে দিলেন ইনফান্তিনো"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জরুরি পরিস্থিতি ছাড়া স্বাধীনভাবে ভোট দিতে পারবেন সংসদ সদস্যরা",
-        "title_en": "Lawmakers to Vote Freely Except in Emergency Situations",
-        "summary_bn": "সংবিধান সংশোধন কমিটির সিদ্ধান্ত অনুযায়ী আস্থা ভোট ও অর্থবিল ছাড়া সংসদ সদস্যরা স্বাধীনভাবে ভোট দিতে পারবেন।",
-        "summary_en": "Lawmakers will be allowed to vote independently on legislation except during confidence votes and money bills.",
+        "title_bn": "পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করলেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো",
+        "title_en": "FIFA President Gianni Infantino Rejects Calls to Step Down",
+        "summary_bn": "ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা ঘিরে সৃষ্ট প্রাতিষ্ঠানিক অস্থিরতার মাঝে পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করেছেন।",
+        "summary_en": "FIFA President Gianni Infantino has flatly rejected calls to step down amid institutional turmoil over commercial rights plans.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "sports_fitness",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:39:28+00:00",
-        "lead_bn": "সংবিধান সংশোধন কমিটির সিদ্ধান্ত অনুযায়ী আস্থা ভোট ও অর্থবিল ছাড়া সংসদ সদস্যরা স্বাধীনভাবে ভোট দিতে পারবেন।",
-        "lead_en": "Lawmakers will be allowed to vote independently on legislation except during confidence votes and money bills.",
+        "published_at": "2026-10-24T17:25:15+00:00",
+        "lead_bn": "ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা ঘিরে সৃষ্ট প্রাতিষ্ঠানিক অস্থিরতার মাঝে পদত্যাগের দাবি সরাসরি প্রত্যাখ্যান করেছেন।",
+        "lead_en": "FIFA President Gianni Infantino has flatly rejected calls to step down amid institutional turmoil over commercial rights plans.",
         "bullets_bn": [
-          "আস্থা ভোট, অর্থবিল এবং যুদ্ধকালীন জরুরি পরিস্থিতি বাদ দিয়ে সংসদ সদস্যরা নিজেদের স্বাধীন মতামত অনুযায়ী ভোট প্রদান করতে পারবেন।",
-          "সংবিধান সংশোধন বিষয়ক বিশেষ কমিটির বৈঠক শেষে সাংবাদিকদের এই কথা জানান কমিটির সভাপতি ও স্বরাষ্ট্রমন্ত্রী সালাহউদ্দিন আহমদ।",
-          "বৈঠকে তত্ত্বাবধায়ক সরকার গঠনের রূপরেখা নিয়ে আলোচনা হয়েছে এবং বিরোধী দল প্রস্তাব দিলে তা বিবেচনায় নেওয়া হবে।"
+          "বিশ্ব ফুটবল সংস্থার বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা নিয়ে সমালোচনার মুখে পদত্যাগের দাবি প্রত্যাখ্যান করেছেন জিয়ান্নি ইনফান্তিনো।",
+          "ফিফা সভাপতি দাবি করেছেন যে বিশ্ব ফুটবল সম্প্রদায়ের বিপুল সংখ্যাগরিষ্ঠ অংশ এবং সদস্য অ্যাসোসিয়েশনগুলো তার পক্ষে রয়েছে।",
+          "উয়েফা এফএফই সম্পর্কিত সমস্ত নথিপত্র প্রকাশের জন্য সময়সীমা নির্ধারণ করেছে এবং ফিফা সভাপতির ভূমিকা নিয়ে প্রশ্ন তুলেছে।"
         ],
         "bullets_en": [
-          "Lawmakers can exercise independent voting rights excluding confidence votes, money bills, and wartime emergencies.",
-          "The announcement was made by Home Minister and Constitution Reform Committee President Salahuddin Ahmed after a meeting.",
-          "The committee discussed caretaker government frameworks and noted that opposition proposals will be considered."
+          "FIFA President Gianni Infantino rejected resignation calls amid fierce criticism over plans to sell commercial rights.",
+          "Infantino claimed that the vast majority of the global football community and member associations still support him.",
+          "UEFA has set a strict deadline for FIFA to release all documents related to the FFE initiative."
         ],
-        "impact_bn": "আইনপ্রণেতাদের স্বাধীন মতপ্রকাশের সুযোগ তৈরি হওয়ায় সংসদে গণতান্ত্রিক চর্চা ও বিতর্ক আরও কার্যকর হবে।",
-        "impact_en": "Expanded voting freedom for lawmakers aims to foster more genuine democratic debate and accountability in parliament.",
-        "details_bn": "সংবিধান সংশোধনের লক্ষ্যে গঠিত বিশেষ কমিটি দেশের রাজনৈতিক কাঠামো সংস্কারে বিভিন্ন প্রস্তাব নিয়ে কাজ করছে। এর অংশ হিসেবে সংসদীয় কার্যপ্রণালী ও ভোটাভুটির স্বাধীনতায় সংস্কার আনার প্রক্রিয়া চলছে। তত্ত্বাবধায়ক সরকার ব্যবস্থা এবং সংসদ সদস্যদের স্বাধীনভাবে ভোট দেওয়ার অধিকারের মতো গুরুত্বপূর্ণ বিষয়গুলো নিয়ে রাজনৈতিক দলগুলোর মধ্যে দীর্ঘদিনের আলোচনা ও বিতর্ক রয়েছে।",
-        "details_en": "The special committee on constitutional reform is currently working on restructuring key political frameworks to enhance parliamentary democracy. Discussions have focused heavily on redefining lawmakers voting independence and addressing structural mechanisms such as the caretaker government system. These proposed reforms aim to resolve long-standing political debates surrounding legislative accountability and representation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ফিফার বাণিজ্যিক স্বত্ব বিক্রির পরিকল্পনা বা ফিফা ফরওয়ার্ড এন্টারপ্রাইজ উদ্যোগ নিয়ে উয়েফা, কনকাকাফ এবং এশিয়ান ফুটবল কনফেডারেশনের তীব্র সমালোচনার মুখে পড়ে ফিফা। বেসরকারি প্রতিষ্ঠানের কাছে বাণিজ্যিক স্বত্ব বিক্রির ওই পরিকল্পনা পরে বাতিল করা হয়। পরিকল্পনা বাতিলের পর উয়েফা আগামী দুই নভেম্বরের মধ্যে এ সংক্রান্ত সব নথিপত্র প্রকাশের সময়সীমা বেঁধে দেয় এবং নথিপত্র প্রকাশ না করলে তাকে দায়িত্বের জন্য অযোগ্য ঘোষণা করার হুমকি দেয়। এই অস্থিরতার মাঝেই ইনফান্তিনো তার রাজনৈতিক অবস্থান শক্ত করতে বিভিন্ন দেশ সফর করেন।",
+        "details_en": "FIFA faced severe criticism from UEFA, Concacaf, and the Asian Football Confederation over the FIFA Forward Enterprise initiative regarding commercial rights sales, which was eventually scrapped. Following the cancellation, UEFA demanded the release of all related documents by November 2. Amid this institutional friction, Infantino undertook diplomatic visits to various countries to shore up his support base ahead of upcoming administrative challenges."
       }
     },
     {
-      "story_id": "d7068dda-a636-56fc-8ac4-67352358ea1d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T16:16:22+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2923,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/976510/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BF-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A7%9F%E0%A7%87",
-          "title": "নির্বাচনি দায়িত্বে থাকা পুলিশ সদস্যের ওপর গাড়িয়ে তুলে হত্যাচেষ্টা, আটক ২",
-          "snippet": "নির্বাচনি দায়িত্বে থাকা পুলিশ সদস্যের ওপর গাড়িয়ে তুলে হত্যাচেষ্টা, আটক ২"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঠাকুরগাঁওয়ে নির্বাচনী দায়িত্ব পালনকালে পুলিশ সদস্যকে পিকআপ চাপা দিয়ে হত্যার চেষ্টা",
-        "title_en": "Pickup Van Driver Tries to Kill Traffic Police Officer on Election Duty",
-        "summary_bn": "ঠাকুরগাঁওয়ে উপনির্বাচনের দায়িত্ব পালনকালে ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যান তুলে দিয়ে এক পুলিশ সদস্যকে হত্যার চেষ্টা চালানো হয়েছে।",
-        "summary_en": "A pickup driver intentionally ran over a traffic police officer in Thakurgaon after defying signals while on election duty.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T16:16:22+00:00",
-        "lead_bn": "ঠাকুরগাঁওয়ে উপনির্বাচনের দায়িত্ব পালনকালে ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যান তুলে দিয়ে এক পুলিশ সদস্যকে হত্যার চেষ্টা চালানো হয়েছে।",
-        "lead_en": "A pickup driver intentionally ran over a traffic police officer in Thakurgaon after defying signals while on election duty.",
-        "bullets_bn": [
-          "ঠাকুরগাঁও সদর থানাধীন বাসস্ট্যান্ড গোলচত্বর এলাকায় ট্রাফিক পুলিশের সংকেত অমান্য করে পিকআপ ভ্যানটি এক পুলিশ সদস্যকে চাপা দেয়।",
-          "ঘটনার পর পরই পুলিশ পিকআপটির চালক ও তার সহযোগীকে হাতেনাতে আটক করে।",
-          "আটককৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণ করে বিচারিক আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "The pickup driver defied traffic police signals and drove the vehicle directly over a police officer at the bus stand roundabout.",
-          "Police immediately detained the driver and his accomplice at the scene following the incident.",
-          "The arrested individuals were sent to jail through the judicial court following legal procedures."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের ওপর এ ধরনের হামলা মাঠপর্যায়ে তাদের নিরাপত্তা এবং দায়িত্বপালনের পরিবেশ নিয়ে উদ্বেগ তৈরি করে।",
-        "impact_en": "Such attacks on law enforcement personnel raise serious concerns regarding their safety and security while performing official duties.",
-        "details_bn": "ঠাকুরগাঁওয়ে একটি উপনির্বাচনের ভোটগ্রহণ ও শৃঙ্খলা রক্ষার কাজে ট্রাফিক পুলিশ সদস্যরা মোতায়েন ছিলেন। সে সময় যানবাহন তল্লাশি ও নিয়ন্ত্রণের অংশ হিসেবে একটি পিকআপ ভ্যানকে থামার সংকেত দেওয়া হয়। কিন্তু চালক নির্দেশ অমান্য করে দ্রুত গতিতে গাড়ি চালিয়ে পুলিশ সদস্যকে চাপা দেওয়ার চেষ্টা করেন। স্থানীয় পুলিশ তাৎক্ষণিক পদক্ষেপে অভিযুক্তদের আটক করে এবং আদালতের মাধ্যমে তাদের কারাগারে পাঠায়।",
-        "details_en": "Traffic police officers were deployed in Thakurgaon to maintain order during a local by-election. During routine vehicle checks, officers signaled a pickup van to stop, but the driver ignored the directive and attempted to run over the policeman. Police acted swiftly to apprehend the suspects, who were subsequently sent to jail via the judicial court."
-      }
-    },
-    {
-      "story_id": "98bf8d15-8a80-579e-830c-bcaaadfa7ee8",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Savar",
-        "#MadrasaCase"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-05/Savar%20Map.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-24T17:00:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.0,
-      "rank_score": 1.2151,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/rape-case-plaintiff-among-21-sued-over-madrasa-looting-vandalism-savar-4306511",
-          "title": "Rape case plaintiff among 21 sued over madrasa looting, vandalism in Savar",
-          "snippet": "Rape case plaintiff among 21 sued over madrasa looting, vandalism in Savar"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাভারে মাদ্রাসা ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা",
-        "title_en": "Rape Case Plaintiff Among 21 Sued Over Madrasa Looting and Vandalism in Savar",
-        "summary_bn": "সাভারে একটি মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
-        "summary_en": "A case has been filed against 21 people, including a rape case plaintiff, over allegations of looting and vandalism at a Savar madrasa.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T17:00:45+00:00",
-        "lead_bn": "সাভারে একটি মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে ধর্ষণ মামলার বাদীসহ ২১ জনের বিরুদ্ধে মামলা দায়ের করা হয়েছে।",
-        "lead_en": "A case has been filed against 21 people, including a rape case plaintiff, over allegations of looting and vandalism at a Savar madrasa.",
-        "bullets_bn": [
-          "প্রধান আসামির ছেলে মো. উমায়ের সাভার মডেল থানায় মামলাটি দায়ের করেন",
-          "মামলায় ৪৭ লাখ টাকা নগদ ও ১২ ভরি স্বর্ণালংকারসহ ৭৭ লাখ টাকার মালামাল লুটের অভিযোগ আনা হয়েছে",
-          "পুলিশ জানিয়েছে, তদন্ত ছাড়া ধর্ষণ মামলার বাদীকে গ্রেপ্তার করা হবে না"
-        ],
-        "bullets_en": [
-          "Md Umair, son of the prime accused in a rape case, filed the looting and vandalism case at Savar Model Police Station.",
-          "The complaint alleges the looting of Tk 47 lakh in cash and 12 bhori of gold ornaments worth a total of Tk 77 lakh.",
-          "Police stated that the rape case plaintiff will not be arrested without a thorough investigation into the allegations."
-        ],
-        "impact_bn": "এ ধরনের পাল্টাপাল্টি আইনি পদক্ষেপ বিচারপ্রার্থী ও সাধারণ মানুষের মধ্যে আইনি প্রক্রিয়া নিয়ে উদ্বেগ বাড়াতে পারে।",
-        "impact_en": "Such retaliatory legal filings between opposing parties can heighten community tensions and complicate access to justice for victims.",
-        "details_bn": "সাভারে একটি মাদ্রাসার প্রধান শিক্ষক ও মালিকের বিরুদ্ধে ১৩ বছরের এক ছাত্রীকে ধর্ষণের অভিযোগে মামলা দায়েরের পর এই পাল্টাপাল্টি ঘটনা ঘটে। প্রধান আসামির পরিবার দাবি করেছে, মাদ্রাসাটির সম্পত্তি দখল ও সম্মানহানির উদ্দেশ্যে মিথ্যা ধর্ষণ মামলা করা হয়েছে। অন্যদিকে, মাদ্রাসায় ভাঙচুর ও লুটপাটের অভিযোগে করা নতুন মামলায় ধর্ষণ মামলার বাদীকে আসামি করায় ভুক্তভোগীর স্বজনরা তীব্র ক্ষোভ প্রকাশ করেছেন। পুলিশ জানিয়েছে, অভিযোগগুলো খতিয়ে দেখা হচ্ছে এবং কোনো রকম যাচাই ছাড়া কাউকে গ্রেপ্তার করা হবে না।",
-        "details_en": "The case follows a recent rape accusation filed against a madrasa headteacher and owner involving a 13-year-old student. The family of the accused headteacher claimed the rape allegation was fabricated to grab madrasa property, prompting them to file a counter-case alleging widespread looting and vandalism. Meanwhile, relatives of the rape victim expressed anger after learning that the rape case plaintiff was named in the new looting complaint, while law enforcement assured that no arrests would be made without proper investigation."
-      }
-    },
-    {
-      "story_id": "b8364780-c941-5f62-9d01-de22f93e9add",
+      "story_id": "6668f362-0871-5f3c-8173-c7463fce244b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law",
+        "tech_innovation",
+        "climate_environment"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fkb6g7ryc%2FTURKEY-POLITICS-MEDIA-RIGHTS-DEMO-1.JPG?rect=0%2C78%2C4000%2C2100&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T15:46:58+00:00",
+      "published_at": "2026-10-24T17:19:31+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.0438,
+      "rank_score": 1.3252,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/europe/976507/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%87%E0%A6%89%E0%A6%B0%E0%A7%8B%E0%A6%AA%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A6%BC%E0%A7%87-%E0%A6%95%E0%A6%BF-%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%9B%E0%A7%87",
-          "title": "ফ্রান্সে বর্ণবাদী হামলা, ইউরোপজুড়ে কি বাড়ছে ইসলামবিদ্বেষ?",
-          "snippet": "ফ্রান্সে বর্ণবাদী হামলা, ইউরোপজুড়ে কি বাড়ছে ইসলামবিদ্বেষ?"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/europe/bdb6jhnbog",
+          "title": "সাংবাদিকদের গ্রেপ্তার ও সংবাদমাধ্যম বন্ধের প্রতিবাদে তুরস্কে বিক্ষোভ",
+          "snippet": "সাংবাদিকদের গ্রেপ্তার ও সংবাদমাধ্যম বন্ধের প্রতিবাদে তুরস্কে বিক্ষোভ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফ্রান্সে বর্ণবাদী হামলায় এক কৃষ্ণাঙ্গ নিহত ও পাঁচজন আহত",
-        "title_en": "Racist Attack in Northern France Leaves One Dead and Five Injured",
-        "summary_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
-        "summary_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five injured, including a child.",
+        "title_bn": "তুরস্কে সংবাদমাধ্যমের স্বাধীনতা ও সাংবাদিকদের গ্রেপ্তারের প্রতিবাদে হাজারো মানুষের বিক্ষোভ",
+        "title_en": "Thousands Protest in Turkey Against Media Crackdown and Journalist Arrests",
+        "summary_bn": "তুরস্কে সংবাদমাধ্যমের স্বাধীনতা হরণ এবং সাংবাদিকদের গ্রেপ্তারের প্রতিবাদে ইস্তাম্বুল ও আঙ্কারা শহরে বিক্ষোভ করেছেন হাজারো মানুষ।",
+        "summary_en": "Thousands of people demonstrated in Istanbul and Ankara to protest against the suppression of media freedom and the arrest of journalists in Turkey.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law",
+          "tech_innovation",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T15:46:58+00:00",
-        "lead_bn": "ফ্রান্সের উত্তরাঞ্চলে বর্ণবাদী ও ইসলামবিদ্বেষী হামলায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছরের এক শিশুসহ পাঁচজন আহত হয়েছেন।",
-        "lead_en": "A racist and Islamophobic attack in northern France leaves one black individual dead and five injured, including a child.",
+        "published_at": "2026-10-24T17:19:31+00:00",
+        "lead_bn": "তুরস্কে সংবাদমাধ্যমের স্বাধীনতা হরণ এবং সাংবাদিকদের গ্রেপ্তারের প্রতিবাদে ইস্তাম্বুল ও আঙ্কারা শহরে বিক্ষোভ করেছেন হাজারো মানুষ।",
+        "lead_en": "Thousands of people demonstrated in Istanbul and Ankara to protest against the suppression of media freedom and the arrest of journalists in Turkey.",
         "bullets_bn": [
-          "ফ্রান্সের উত্তরাঞ্চলে বর্ণভিত্তিক ও ইসলামবিদ্বেষী প্রেরণা থেকে একটি সন্ত্রাসী হামলা চালানো হয়।",
-          "এই সহিংস ঘটনায় একজন কৃষ্ণাঙ্গ নিহত এবং ১২ বছর বয়সী এক শিশুসহ অন্তত পাঁচজন আহত হয়েছেন।",
-          "ফরাসি প্রেসিডেন্ট ইমানুয়েল ম্যাক্রোঁ এই বর্বর ঘটনাটিকে সন্ত্রাসী ও বর্ণবাদী হামলা হিসেবে নিন্দা জানিয়েছেন।"
+          "সাংবাদিক, মানবাধিকারকর্মী ও বিরোধী দলের প্রতিনিধিরা ইস্তাম্বুল ও আঙ্কারায় রাজপথে নেমে বিক্ষোভ করেন।",
+          "গত দুই মাসে তুরস্কে ১১ জন সাংবাদিককে কারাগারে পাঠানো হয়েছে এবং জনপ্রিয় নিউজ চ্যানেল হাল্ক টিভির সম্প্রচার বন্ধ করা হয়েছে।",
+          "স্বাধীন সংবাদমাধ্যম ও জনগণের তথ্য পাওয়ার অধিকার রক্ষায় সরকারের ওপর চাপ সৃষ্টির কর্মসূচি অব্যাহত থাকবে।"
         ],
         "bullets_en": [
-          "A terrorist attack driven by racial and Islamophobic motives was carried out in northern France.",
-          "The violent incident left one black individual dead and at least five others injured, including a 12-year-old child.",
-          "French President Emmanuel Macron strongly condemned the incident, classifying it as a terrorist and racist attack."
+          "Journalists, human rights activists, and opposition representatives took to the streets in Istanbul and Ankara to protest.",
+          "Authorities imprisoned 11 journalists in two months and shut down popular news channel Halk TV.",
+          "Protesters vowed to maintain pressure to protect independent media and the public right to information."
         ],
-        "impact_bn": "ইউরোপে ক্রমবর্ধমান বর্ণবাদ ও ইসলামবিদ্বেষ প্রবাসী এবং সংখ্যালঘু জনগোষ্ঠীর নিরাপত্তা নিয়ে নতুন উদ্বেগের জন্ম দিয়েছে।",
-        "impact_en": "Rising racism and Islamophobia in Europe raise fresh security concerns for expatriates and minority communities.",
-        "details_bn": "নিত্যপণ্যের ঊর্ধ্বগতি ও জীবনযাত্রার ব্যয়বৃদ্ধির প্রতিবাদে যখন দেশজুড়ে তীব্র আন্দোলন চলছে, ঠিক সেই সময়ে ফ্রান্সে এই বর্ণবাদী সহিংসতার ঘটনা ঘটল। ফরাসি সমাজে সাম্প্রতিক সময়ে অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীকে লক্ষ্য করে হামলা এবং সামাজিক বিভাজন বৃদ্ধির প্রবণতা পরিলক্ষিত হচ্ছে, যা ইউরোপজুড়ে ইসলামবিদ্বেষ ও বর্ণবাদের ঝুঁকি নিয়ে নতুন বিতর্কের জন্ম দিয়েছে।",
-        "details_en": "This racist violence in France occurred amid widespread protests across the country against soaring commodity prices and a rising cost of living. In recent times, French society has witnessed a growing trend of attacks targeting immigrants and minority groups, sparking renewed debate over the risks of Islamophobia and racism across Europe."
+        "impact_bn": "সংবাদমাধ্যম বন্ধ ও সেন্সরশিপের কারণে সাধারণ মানুষের নিরপেক্ষ তথ্য পাওয়ার মৌলিক অধিকার ক্ষুণ্ন হচ্ছে।",
+        "impact_en": "The shutdown of media outlets and ongoing censorship severely restrict ordinary citizens fundamental right to access independent information.",
+        "details_bn": "সালের ব্যর্থ সেনা অভ্যুত্থানের পর থেকেই তুরস্কে সংবাদমাধ্যমের স্বাধীনতা ধারাবাহিকভাবে সংকুচিত হচ্ছে। সরকারের সমালোচক সংবাদমাধ্যমগুলোর ওপর চাপ বাড়াতে সম্প্রতি বেশ কিছু ডিজিটাল পোর্টাল ও নিউজ চ্যানেল বন্ধ করে দেওয়া হয়েছে এবং সেখানে সরকারি প্রশাসক নিয়োগ করা হয়েছে। সর্বশেষ পুলিশি অভিযানের প্রতিবাদে ক্ষুব্ধ সাংবাদিক ও নাগরিক সমাজ রাজপথে নেমে আসে।",
+        "details_en": "Media freedom in Turkey has steadily deteriorated following the failed coup in 2016. Authorities have systematically increased pressure on critical media outlets by blocking digital portals and appointing state administrators to seized networks. The recent police raids and closures triggered widespread public outrage, bringing journalists and civil society members onto the streets."
       }
     },
     {
-      "story_id": "db373b3f-7a19-5bae-9c6a-d70beadbc160",
+      "story_id": "208f8b81-d535-527e-b70b-5fdbeac71f5c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F5a04malr%2FFranceAFPProthomalo.jpg?rect=0%2C458%2C6459%2C3391&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T17:12:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.251,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/europe/180r5s89rp",
+          "title": "ফ্রান্সে লাখো মানুষের বিক্ষোভ, শহরে শহরে কাঁদানে গ্যাসের শেল নিক্ষেপ, গ্রেপ্তার ১৩৫",
+          "snippet": "ফ্রান্সে লাখো মানুষের বিক্ষোভ, শহরে শহরে কাঁদানে গ্যাসের শেল নিক্ষেপ, গ্রেপ্তার ১৩৫"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় ও শিক্ষা সংকটের প্রতিবাদে লাখো মানুষের বিক্ষোভ",
+        "title_en": "Thousands Protest in France Over Rising Living Costs and Education Crisis",
+        "summary_bn": "নিষেধাজ্ঞা উপেক্ষা করে ফ্রান্সের বিভিন্ন শহরে বিক্ষোভ করেছেন শিক্ষার্থী ও শ্রমিকরা, সংঘর্ষ ও ভাঙচুরের ঘটনায় পুলিশ অন্তত ১৩৫ জনকে গ্রেপ্তার করেছে।",
+        "summary_en": "Ignoring bans, students and workers protested across French cities, leading to clashes and at least 135 arrests by police.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T17:12:12+00:00",
+        "lead_bn": "নিষেধাজ্ঞা উপেক্ষা করে ফ্রান্সের বিভিন্ন শহরে বিক্ষোভ করেছেন শিক্ষার্থী ও শ্রমিকরা, সংঘর্ষ ও ভাঙচুরের ঘটনায় পুলিশ অন্তত ১৩৫ জনকে গ্রেপ্তার করেছে।",
+        "lead_en": "Ignoring bans, students and workers protested across French cities, leading to clashes and at least 135 arrests by police.",
+        "bullets_bn": [
+          "জীবনযাত্রার ব্যয় বৃদ্ধি, শিক্ষা খাতের সংকট ও দুর্নীতির প্রতিবাদে ফ্রান্সের বিভিন্ন শহরে হাজারো মানুষ বিক্ষোভ মিছিলে অংশ নেন।",
+          "বিক্ষোভ নিয়ন্ত্রণে দেশজুড়ে প্রায় ৭০ হাজার নিরাপত্তা কর্মী মোতায়েন করা হয় এবং পরিস্থিতি নিয়ন্ত্রণে পুলিশ কাঁদানে গ্যাস নিক্ষেপ করে।",
+          "ছাত্র ও শ্রমিক ইউনিয়নগুলোর সঙ্গে সরকারের একাধিক বৈঠক ব্যর্থ হওয়ায় আন্দোলন চালিয়ে যাওয়ার ঘোষণা দিয়েছে বিক্ষোভকারীরা।"
+        ],
+        "bullets_en": [
+          "Thousands of people joined protest marches across various French cities against rising living costs, education sector crises, and corruption.",
+          "Around 70,000 security personnel were deployed nationwide, and police used tear gas to disperse protesters and control the situation.",
+          "Protesters announced the continuation of their movement after multiple meetings between student and worker unions and the government failed."
+        ],
+        "impact_bn": "ফ্রান্সের এই চলমান বিক্ষোভ ও নিরাপত্তা ব্যবস্থার কারণে সাধারণ মানুষের দৈনন্দিন যাতায়াত এবং জনজীবন ব্যাহত হচ্ছে।",
+        "impact_en": "The ongoing protests and security measures in France are disrupting daily commutes and normal public life.",
+        "details_bn": "শিক্ষক সংকট ও জরাজীর্ণ স্কুলের অবকাঠামো নিয়ে গত মাসে শিক্ষার্থীরা বিক্ষোভ শুরু করে। পরবর্তীতে জীবনযাত্রার ব্যয় বৃদ্ধি ও সরকারি পরিষেবার সংকটের কারণে শ্রমিক সংগঠনগুলোও এই আন্দোলনে যুক্ত হয়। ১৭ অক্টোবর বিক্ষোভ সহিংস রূপ নিলে কর্তৃপক্ষ কারফিউ জারি করে। সংকট সমাধানে সরকারের সঙ্গে আলোচনা ব্যর্থ হওয়ায় ফ্রান্স ছাড়াও ইউরোপের অন্তত ১০টি দেশে একই ধরনের বিক্ষোভ ছড়িয়ে পড়েছে।",
+        "details_en": "Students began protesting last month over teacher shortages and dilapidated school infrastructure. Subsequently, labor unions joined the movement due to rising living costs and public service crises. After protests turned violent on October 17, authorities imposed curfews. As talks with the government failed to resolve the crisis, similar protests have spread to at least 10 European countries besides France."
+      }
+    },
+    {
+      "story_id": "4c49e1c8-280a-5a01-9196-2cfcd806da6f",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-08-07%2Fxut3id4d%2FSongsob.jpg?rect=0%2C99%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T15:51:42+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.0361,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/as9wa6q38m",
+          "title": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে",
+          "snippet": "তত্ত্বাবধায়ক সরকারের রূপরেখা নিয়ে নতুন ‘আইডিয়া’ সংবিধান সংশোধন কমিটিতে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সংবিধান সংশোধন কমিটিতে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা উপস্থাপন",
+        "title_en": "New proposal for caretaker government structure presented to constitution reform committee",
+        "summary_bn": "সংবিধান সংশোধন বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা উপস্থাপন করা হয়েছে।",
+        "summary_en": "A new concept for forming an election-time caretaker government from an upper house was presented to the constitution reform committee.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T15:51:42+00:00",
+        "lead_bn": "সংবিধান সংশোধন বিশেষ কমিটির বৈঠকে উচ্চকক্ষ থেকে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা উপস্থাপন করা হয়েছে।",
+        "lead_en": "A new concept for forming an election-time caretaker government from an upper house was presented to the constitution reform committee.",
+        "bullets_bn": [
+          "সংসদ দুই কক্ষের হলে উচ্চকক্ষ থেকে তত্ত্বাবধায়ক সরকার গঠনের নতুন ধারণা নিয়ে সংবিধান সংশোধন কমিটি আলোচনা করেছে।",
+          "বৈঠকে সংবিধান বিশেষজ্ঞ, আইনের অধ্যাপক ও সুপ্রিম কোর্টের আইনজীবীদের ৪৪ জন প্রতিনিধি অংশ নেন।",
+          "তত্ত্বাবধায়ক সরকারব্যবস্থার চূড়ান্ত রূপরেখা নির্ধারণে পরবর্তীতে আরও বিস্তারিত আলোচনা করা হবে।"
+        ],
+        "bullets_en": [
+          "The constitution reform committee discussed a new concept of forming a caretaker government from a bicameral parliament's upper house.",
+          "Forty-four participants including constitutional experts, law professors, and Supreme Court lawyers attended the meeting.",
+          "Further detailed discussions will be held to finalize the definitive framework of the caretaker government system."
+        ],
+        "impact_bn": "নাগরিকরা ভবিষ্যতে নির্বাচনকালীন সরকারের স্বচ্ছ ও অংশগ্রহণমূলক রূপরেখা দেখতে পাবেন, যা রাজনৈতিক স্থিতিশীলতা নিশ্চিত করবে।",
+        "impact_en": "Citizens will witness a transparent and participatory election-time government framework in the future, ensuring political stability.",
+        "details_bn": "সংসদ ভবনের ক্যাবিনেট কক্ষে সংবিধান সংশোধন সম্পর্কিত বিশেষ কমিটির সাথে সংবিধান বিশেষজ্ঞ ও আইনবিদদের একটি বৈঠক অনুষ্ঠিত হয়। বৈঠকে বিচার বিভাগের জন্য স্বাধীন সচিবালয় প্রতিষ্ঠা, রাষ্ট্রপতির ক্ষমতার ভারসাম্য আনা, এবং উচ্চকক্ষ গঠনসহ বিভিন্ন সাংবিধানিক সংস্কারের প্রস্তাব নিয়ে আলোচনা করা হয়। তবে তত্ত্বাবধায়ক সরকারের সুনির্দিষ্ট রূপরেখা ও এর গঠনপদ্ধতি এখনো চূড়ান্ত হয়নি।",
+        "details_en": "A meeting was held at the cabinet room of the parliament building between the special committee on constitution reform, legal experts, and jurists. Discussions covered various constitutional reforms, including establishing an independent judiciary secretariat, balancing presidential powers, and forming an upper house. However, the exact framework and formation method of the caretaker government have not been finalized yet."
+      }
+    },
+    {
+      "story_id": "e74f845e-de12-52cd-b7ea-66deecabe2f3",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -232,102 +294,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T16:47:59+00:00",
+      "published_at": "2026-10-24T18:01:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8526,
+      "rank_score": 0.9747,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/976516/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A6%BE%E0%A6%AB%E0%A6%B2-%E0%A7%A8%E0%A7%AF-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0",
-          "title": "এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবর",
-          "snippet": "এইচএসসি পরীক্ষার ফলাফল ২৯ অক্টোবর"
+          "url": "https://www.banglatribune.com/others/religion/976511/%E0%A6%90%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A7%80-%E0%A6%B2%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%86%E0%A6%9C",
+          "title": "ঐশ্বর্যের দেবী লক্ষ্মীর পূজা আজ",
+          "snippet": "ঐশ্বর্যের দেবী লক্ষ্মীর পূজা আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশিত হবে ২৯ অক্টোবর",
-        "title_en": "HSC and Equivalent Exam Results to Be Published on October 29",
-        "summary_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল ২৯ অক্টোবর প্রকাশিত হবে বলে আন্তশিক্ষা বোর্ড সমন্বয় কমিটি নিশ্চিত করেছে।",
-        "summary_en": "The results of this year's HSC and equivalent examinations will be published on October 29, confirmed the Inter-Education Board Coordination Committee.",
+        "title_bn": "হিন্দু সম্প্রদায়ের অন্যতম ধর্মীয় উৎসব কোজাগরী লক্ষ্মীপূজা উদযাপিত",
+        "title_en": "Hindu Community Celebrates Kojagari Lakshmi Puja Festival",
+        "summary_bn": "শারদীয় দুর্গোৎসবের পর প্রথম পূর্ণিমা তিথিতে হিন্দু সম্প্রদায়ের মানুষ যথাযথ ধর্মীয় ভাবগাম্ভীর্য ও উৎসাহে লক্ষ্মীপূজা উদযাপন করছে।",
+        "summary_en": "People from the Hindu community are celebrating Lakshmi Puja with religious fervour and enthusiasm on the first full moon after Durga Puja.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T16:47:59+00:00",
-        "lead_bn": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল ২৯ অক্টোবর প্রকাশিত হবে বলে আন্তশিক্ষা বোর্ড সমন্বয় কমিটি নিশ্চিত করেছে।",
-        "lead_en": "The results of this year's HSC and equivalent examinations will be published on October 29, confirmed the Inter-Education Board Coordination Committee.",
+        "published_at": "2026-10-24T18:01:00+00:00",
+        "lead_bn": "শারদীয় দুর্গোৎসবের পর প্রথম পূর্ণিমা তিথিতে হিন্দু সম্প্রদায়ের মানুষ যথাযথ ধর্মীয় ভাবগাম্ভীর্য ও উৎসাহে লক্ষ্মীপূজা উদযাপন করছে।",
+        "lead_en": "People from the Hindu community are celebrating Lakshmi Puja with religious fervour and enthusiasm on the first full moon after Durga Puja.",
         "bullets_bn": [
-          "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি ফল প্রকাশের চূড়ান্ত তারিখ হিসেবে ২৯ অক্টোবর নির্ধারণ করেছে।",
-          "ঢাকা শিক্ষা বোর্ডের চেয়ারম্যান ও আন্তশিক্ষা বোর্ড সমন্বয় কমিটির সভাপতি অধ্যাপক সৈয়দ আক্তারুজ্জামান এই তথ্য নিশ্চিত করেছেন।",
-          "শিক্ষাবোর্ডগুলোর প্রস্তাবিত সময়ের মধ্যে শিক্ষা মন্ত্রণালয়ের অনুমোদনের পর নির্ধারিত দিনে ফলাফল প্রকাশ করা হবে।"
+          "সনাতন ধর্মাবলম্বীরা প্রতি পূর্ণিমা তিথিতে দেবী লক্ষ্মীর আরাধনা সম্পন্ন করছেন।",
+          "ভক্তরা দিনভর উপবাস ও বিশেষ ধর্মীয় আচার-অনুষ্ঠানের মাধ্যমে পূজা উদযাপন করছেন।",
+          "দেশের বিভিন্ন মন্দিরে ও মণ্ডপে বিশেষ প্রার্থনার আয়োজন করা হয়েছে।"
         ],
         "bullets_en": [
-          "The Inter-Education Board Coordination Committee finalized October 29 as the publication date for the exam results.",
-          "Professor Syed Akteruzzaman, chairman of the Dhaka Education Board and the coordination committee, confirmed this information.",
-          "Results will be officially published on the scheduled date following approval from the education ministry based on the boards' proposal."
+          "Hindu devotees are offering prayers to Goddess Lakshmi on the full moon night.",
+          "Devotees observe fasts and perform special religious rituals throughout the day.",
+          "Special prayer assemblies are organised at various temples and homes across the country."
         ],
-        "impact_bn": "লক্ষাধিক এইচএসসি পরীক্ষার্থী ও তাদের অভিভাবকরা এই ফলাফল প্রকাশের মাধ্যমে তাদের উচ্চশিক্ষার পরবর্তী ধাপের প্রস্তুতি শুরু করতে পারবেন।",
-        "impact_en": "HSC candidates and their families can begin planning their higher education pathways once the official results are released.",
-        "details_bn": "শিক্ষা বোর্ডগুলোর পক্ষ থেকে এর আগে ২৫ থেকে ২৯ অক্টোবরের মধ্যে এইচএসসি ও সমমানের পরীক্ষার ফল প্রকাশের জন্য শিক্ষা মন্ত্রণালয়ে প্রস্তাব পাঠানো হয়েছিল। সেই প্রস্তাবের ভিত্তিতে মন্ত্রণালয় ফল প্রকাশের এই তারিখ চূড়ান্ত করে। প্রতি বছর লাখ লাখ শিক্ষার্থী এই পরীক্ষায় অংশগ্রহণ করে এবং এই ফলাফলের ওপর তাদের পরবর্তী উচ্চশিক্ষার ভর্তি কার্যক্রম নির্ভর করে।",
-        "details_en": "Education boards had earlier sent a proposal to the ministry requesting result publication between October 25 and 29. Based on this proposal, the ministry finalized the release date. Millions of students participate in these exams annually, and the results determine their eligibility for higher education admissions."
-      }
-    },
-    {
-      "story_id": "5cba822b-9cb0-5b79-b21f-aea7a929b286",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fofgl4guz%2FGazipurDH061520261024IMG-20261024-WA0101.jpg?rect=0%2C16%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T16:38:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.777,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/dm6r1jogql",
-          "title": "সাদপন্থীদের টঙ্গীর ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার দাবি",
-          "snippet": "সাদপন্থীদের টঙ্গীর ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার দাবি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টঙ্গীর ইজতেমা ময়দান সাদপন্থীদের না দেওয়ার দাবি ওলামা-মাশায়েখদের",
-        "title_en": "Ulema Demand Denial of Tongi Ijtema Ground to Saad Followers",
-        "summary_bn": "হেফাজতে ইসলাম ও দেশের শীর্ষস্থানীয় আলেম-ওলামারা টঙ্গীর বিশ্ব ইজতেমা ময়দান সাদপন্থীদের ব্যবহারের অনুমতি না দেওয়ার দাবি জানিয়েছেন।",
-        "summary_en": "Top clerics and Hefazat-e-Islam leaders have demanded that Saad followers be denied permission to use the Tongi Ijtema ground.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T16:38:08+00:00",
-        "lead_bn": "হেফাজতে ইসলাম ও দেশের শীর্ষস্থানীয় আলেম-ওলামারা টঙ্গীর বিশ্ব ইজতেমা ময়দান সাদপন্থীদের ব্যবহারের অনুমতি না দেওয়ার দাবি জানিয়েছেন।",
-        "lead_en": "Top clerics and Hefazat-e-Islam leaders have demanded that Saad followers be denied permission to use the Tongi Ijtema ground.",
-        "bullets_bn": [
-          "সাদপন্থীদের টঙ্গী বিশ্ব ইজতেমা ময়দান ব্যবহারের অনুমতি না দেওয়ার বিষয়ে সরকারের আগের সিদ্ধান্ত বহাল রাখার দাবি জানানো হয়েছে।",
-          "ও ২০২৪ সালে টঙ্গীতে সংঘটিত হত্যাকাণ্ডের ঘটনায় করা দুটি মামলার তদন্ত দ্রুত শেষ করে অভিযোগপত্র দাখিলের দাবি জানানো হয়।",
-          "টঙ্গীর ময়দান নিয়ে সাদপন্থীরা বিশৃঙ্খলা সৃষ্টি করলে জেলাপর্যায়ে কঠোর কর্মসূচি পালন করা হবে বলে হুঁশিয়ারি দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Clerics demanded that the government uphold its previous decision barring Saad followers from using the Tongi Ijtema ground.",
-          "Speakers urged the Police Bureau of Investigation to swiftly finish probe reports and submit charge sheets for two past murder cases.",
-          "Leaders warned of strict district-wide protests if Saad followers attempt to create chaos over the control of the venue."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশে তাবলিগ জামাতের দাওয়াতি কার্যক্রম নিয়ে ২০১৮ সাল থেকে মাওলানা জোবায়ের আহমদ ও ভারতের মাওলানা সাদ কান্ধলভীর অনুসারীদের মধ্যে বিরোধ চলে আসছে। গত বছর কিছু শর্তে সাদপন্থীদের ইজতেমা আয়োজনের অনুমতি দেওয়া হলেও চুক্তিতে বলা হয়েছিল তারা ২০২৬ সাল থেকে টঙ্গীর মাঠে কার্যক্রম চালাতে পারবে না। সম্প্রতি এ ময়দান ব্যবহার নিয়ে নতুন করে জটিলতা সৃষ্টি হলে ওলামা-মাশায়েখরা পরামর্শ সভা ডেকে সরকারের কাছে তাদের পূর্বের সিদ্ধান্ত বহাল রাখার দাবি জানান।",
-        "details_en": "A schism within Bangladesh Tablighi Jamaat has persisted since 2018 between followers of Maulana Zubair Ahmed and Indian preacher Maulana Saad Kandhlawi. Although Saad followers secured conditional permission to hold Ijtema previously, agreements stipulated they could not use the Tongi venue from 2026. Amid fresh disputes over venue access, senior clerics convened to officially press the government to maintain its exclusionary stance against Saad's faction."
+        "impact_bn": "এই ধর্মীয় উৎসবের মাধ্যমে সমাজে শান্তি, সম্প্রীতি ও সমৃদ্ধির বার্তা ছড়িয়ে পড়ে।",
+        "impact_en": "The religious festival fosters communal harmony and cultural traditions among citizens.",
+        "details_bn": "শারদীয় দুর্গোৎসবের সমাপ্তির পর প্রথম পূর্ণিমা তিথিতে কোজাগরী লক্ষ্মীপূজা অনুষ্ঠিত হয়। সনাতন ধর্মাবলম্বীরা বিশ্বাস করেন, এই পূজার মাধ্যমে দেবী লক্ষ্মী ঘরে সুখ ও সমৃদ্ধি নিয়ে আসেন। আশ্বিনী পূর্ণিমা ছাড়াও অনেকে নিয়মিত লক্ষ্মীপূজা করেন এবং কিছু অঞ্চলে দীপান্বিতা অমাবস্যায় এই পূজার প্রচলন রয়েছে। ভক্তরা ঘটে বা মূর্তিতে দেবীর আরাধনা করেন।",
+        "details_en": "Kojagari Lakshmi Puja is observed on the first full moon night following Durga Puja. Followers of the Hindu faith believe that worshiping Goddess Lakshmi brings prosperity and peace to households. Besides the full moon in the month of Ashwini, some observe special worship on Thursdays, while others perform it during Dipannwita Amavasya using pots or idols."
       }
     }
   ]
