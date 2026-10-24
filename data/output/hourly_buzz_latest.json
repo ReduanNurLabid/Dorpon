@@ -1,121 +1,9 @@
 {
-  "updated_at": "2026-10-24T12:00:56.499835",
+  "updated_at": "2026-10-24T13:00:49.667920",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "3cca0339-1253-5c3d-8e34-2703be257a63",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fqhnfr3g8%2FPM.jpg?rect=0%2C2%2C918%2C482&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T11:36:59+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1122,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/ob9uxo0iek",
-          "title": "প্রধানমন্ত্রীর সফরে বিনিয়োগ ও অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর",
-          "snippet": "প্রধানমন্ত্রীর সফরে বিনিয়োগ ও অর্থনৈতিক সহযোগিতায় নতুন গতির আশা টোকিওর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টোকিওতে বাংলাদেশ-জাপান দ্বিপক্ষীয় বাণিজ্য ও বিনিয়োগ বাড়াতে প্রধানমন্ত্রীর সফর ঘোষণা",
-        "title_en": "Bangladesh Prime Minister Announces Japan Visit to Boost Trade and Investment",
-        "summary_bn": "দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ ও অর্থনৈতিক সহযোগিতা জোরদার করতে জাপান সফর করবেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman will visit Japan to expand bilateral trade and strengthen economic cooperation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:36:59+00:00",
-        "lead_bn": "দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ ও অর্থনৈতিক সহযোগিতা জোরদার করতে জাপান সফর করবেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman will visit Japan to expand bilateral trade and strengthen economic cooperation.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে দেশটিতে রাষ্ট্রীয় সফর করবেন।",
-          "সফরের দ্বিতীয় দিন টোকিওতে জাপানের প্রধানমন্ত্রীর কার্যালয়ে উচ্চপর্যায়ের দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হবে।",
-          "প্রধানমন্ত্রী জাপান-বাংলাদেশ অর্থনৈতিক ফোরামে বক্তব্য দেবেন এবং শীর্ষ ব্যবসায়ী নেতাদের সঙ্গে বৈঠক করবেন।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman will pay a state visit to Japan at the invitation of Prime Minister Sanae Takaichi.",
-          "A high-level bilateral meeting will be held at the Prime Minister Office in Tokyo on the second day of the visit.",
-          "The Prime Minister will address the Japan-Bangladesh Economic Forum and hold meetings with top business leaders."
-        ],
-        "impact_bn": "এই সফরের মাধ্যমে বাংলাদেশে জাপানি বিনিয়োগ বৃদ্ধি পেলে কর্মসংস্থান সৃষ্টি ও অর্থনৈতিক প্রবৃদ্ধি ত্বরান্বিত হবে।",
-        "impact_en": "Increased Japanese investment resulting from this visit will accelerate job creation and economic growth in Bangladesh.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক অংশীদারিত্ব রয়েছে। পররাষ্ট্রমন্ত্রী ও উচ্চপর্যায়ের কর্মকর্তাদের মাধ্যমে দুই দেশ বাণিজ্য সম্প্রসারণ, অবকাঠামো উন্নয়ন এবং ব্যবসাবান্ধব পরিবেশ তৈরিতে দীর্ঘদিন ধরে কাজ করে আসছে। প্রধানমন্ত্রীর এই সফর দুই দেশের মধ্যকার কৌশলগত সম্পর্ককে নতুন উচ্চতায় নিয়ে যাবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership. Both nations have collaborated for years on trade expansion, infrastructure development, and creating a business-friendly environment through high-level diplomatic channels. This prime ministerial visit is expected to elevate the strategic ties between the two nations to new heights."
-      }
-    },
-    {
-      "story_id": "1b56c299-254d-5b20-9dc5-bca2b6ff5b9f",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "tech_innovation"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8-%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%AB-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T11:35:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.0765,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/cheating-on-the-staff-identity-of-the-prime-ministers-additional-press-secretary-banned-chhatra-league-leader-arrested/",
-          "title": "প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয়ে প্রতারণা, নিষিদ্ধ ছাত্রলীগ নেতা গ্রেফতার",
-          "snippet": "প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয়ে প্রতারণা, নিষিদ্ধ ছাত্রলীগ নেতা গ্রেফতার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয়ে প্রতারণাকারী নিষিদ্ধ ছাত্রলীগ নেতা গ্রেফতার",
-        "title_en": "Banned Chhatra League leader arrested for posing as PM’s assistant press secretary",
-        "summary_bn": "প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয় দিয়ে ডিজিটাল মাধ্যমে প্রতারণা ও অর্থ আদায়ের অভিযোগে নাটোর থেকে একজনকে গ্রেফতার করা হয়েছে।",
-        "summary_en": "A former Chhatra League leader was arrested in Natore for digital fraud by posing as the Prime Minister's assistant press secretary.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:35:05+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয় দিয়ে ডিজিটাল মাধ্যমে প্রতারণা ও অর্থ আদায়ের অভিযোগে নাটোর থেকে একজনকে গ্রেফতার করা হয়েছে।",
-        "lead_en": "A former Chhatra League leader was arrested in Natore for digital fraud by posing as the Prime Minister's assistant press secretary.",
-        "bullets_bn": [
-          "নাটোর জেলা গোয়েন্দা পুলিশ সিংড়া পৌর এলাকার নিজ বাড়ি থেকে অভিযুক্ত আবু হুরায়রাকে গ্রেফতার করে।",
-          "পুলিশ সুপার শরিফুল হক জানান অভিযুক্ত ব্যক্তি হোয়াটসঅ্যাপ ও মোবাইল ব্যাংকিংয়ের মাধ্যমে রাজনৈতিক পদ ও সুবিধা পাইয়ে দেওয়ার আশ্বাস দিয়ে অর্থ দাবি করতেন।",
-          "সিংড়া থানায় সাইবার সুরক্ষা আইনের সংশ্লিষ্ট ধারায় মামলা দায়ের করা হয়েছে এবং চক্রের অন্য সদস্যদের গ্রেফতারে অভিযান চলছে।"
-        ],
-        "bullets_en": [
-          "Natore District Detective Branch arrested the accused Abu Huraira from his residence in Singra municipality area.",
-          "Superintendent of Police Shariful Huq stated that the accused demanded money via WhatsApp and mobile banking by promising political posts and favours.",
-          "A case has been filed under the Cyber Security Act at Singra police station and drives are underway to arrest other syndicate members."
-        ],
-        "impact_bn": "এ ধরনের প্রতারণা চক্র সাধারণ মানুষকে আর্থিক ক্ষতির পাশাপাশি রাজনৈতিক পরিচয় ও সরকারি সেবার প্রতি আস্থাহীনতা তৈরি করে।",
-        "impact_en": "Such fraud syndicates cause financial loss and undermine public trust in political identities and government services.",
-        "details_bn": "অভিযুক্ত আবু হুরায়রা সিংড়া উপজেলা ছাত্রলীগের সাবেক সাংগঠনিক সম্পাদক এবং বাংলাদেশ বেতারের বরখাস্তকৃত রেডিও টেকনিশিয়ান। তিনি দীর্ঘদিন ধরে হোয়াটসঅ্যাপ ও বিভিন্ন ডিজিটাল মাধ্যম ব্যবহার করে রাজনৈতিক প্রভাবশালী ও সরকারি চাকরিজীবীদের সঙ্গে যোগাযোগ করতেন। প্রধানমন্ত্রীর অতিরিক্ত প্রেস সচিবের স্টাফ পরিচয় দিয়ে বিএনপি ও অন্যান্য মহলের গুরুত্বপূর্ণ ব্যক্তিদের কাছে রাজনৈতিক মনোনয়ন ও পদায়ন পাইয়ে দেওয়ার আশ্বাসে অর্থ দাবি করে আসছিলেন তিনি। বিষয়টি নজরে আসার পর তথ্যপ্রযুক্তির সহায়তায় ডিবি পুলিশ তাকে গ্রেফতার করে।",
-        "details_en": "The accused Abu Huraira is a former organizing secretary of Singra upazila Chhatra League and a dismissed radio technician of Bangladesh Betar. For a long period, he used WhatsApp and digital mediums to contact influential figures and government officials. Posing as the additional press secretary's staff to the Prime Minister, he demanded money by promising political nominations and posts. Following complaints, police tracked him down using information technology and arrested him from Natore."
-      }
-    },
-    {
-      "story_id": "53e88800-84d7-5e57-80c2-e2efa0722eae",
+      "story_id": "2a9fc67e-d6b3-54b3-9b8d-e0c0e8901b9a",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -126,107 +14,164 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T11:54:21+00:00",
+      "published_at": "2026-10-24T13:00:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8152,
+      "importance_score": 6.6,
+      "rank_score": 2.6582,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171479",
-          "title": "কুমিল্লায় পুলিশের অভিযানে আটক ২৭৫",
-          "snippet": "কুমিল্লায় পুলিশের অভিযানে আটক ২৭৫"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/976466/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A7%AB%E0%A7%AD-%E0%A6%AC%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%A0%E0%A6%A8",
+          "title": "হাইকোর্টের ৫৭ বেঞ্চ পুনর্গঠন",
+          "snippet": "হাইকোর্টের ৫৭ বেঞ্চ পুনর্গঠন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কুমিল্লায় পুলিশের বিশেষ অভিযানে মাদক কারবারি ও কিশোর গ্যাংয়ের ২৭৫ সদস্য আটক",
-        "title_en": "Police Detain 275 Suspects in Special Anti-Crime Drive Across Comilla",
-        "summary_bn": "কুমিল্লায় মাদক কারবারি, কিশোর গ্যাং এবং ছিনতাই রোধে বিশেষ অভিযান চালিয়ে ২৭৫ জনকে আটক করেছে জেলা পুলিশ।",
-        "summary_en": "District police detained 275 individuals during a special anti-crime drive targeting drug dealers and youth gangs in Comilla.",
+        "title_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য ৫৭ বেঞ্চ পুনর্গঠন",
+        "title_en": "Chief Justice Reorganizes 57 High Court Benches for Judicial Proceedings",
+        "summary_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
+        "summary_en": "Chief Justice Jubaer Rahman Chowdhury has reorganized 57 benches of the High Court Division of the Supreme Court.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:54:21+00:00",
-        "lead_bn": "কুমিল্লায় মাদক কারবারি, কিশোর গ্যাং এবং ছিনতাই রোধে বিশেষ অভিযান চালিয়ে ২৭৫ জনকে আটক করেছে জেলা পুলিশ।",
-        "lead_en": "District police detained 275 individuals during a special anti-crime drive targeting drug dealers and youth gangs in Comilla.",
+        "published_at": "2026-10-24T13:00:23+00:00",
+        "lead_bn": "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী সুপ্রিম কোর্টের হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য নতুন করে ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
+        "lead_en": "Chief Justice Jubaer Rahman Chowdhury has reorganized 57 benches of the High Court Division of the Supreme Court.",
         "bullets_bn": [
-          "কুমিল্লা জেলা পুলিশ মাদক কারবারি, কিশোর গ্যাং এবং ছিনতাইকারীদের ধরতে এই বিশেষ অভিযান পরিচালনা করে।",
-          "অভিযানের সময় মোট ২৭৫ জন সন্দেহভাজন ব্যক্তিকে আটক করা হয় এবং তাদের বিরুদ্ধে আইনি ব্যবস্থা নেওয়া হচ্ছে।",
-          "আইনশৃঙ্খলা পরিস্থিতি স্বাভাবিক রাখতে অপরাধপ্রবণ এলাকায় পুলিশের এমন অভিযান অব্যাহত থাকবে।"
+          "প্রধান বিচারপতি জুবায়ের রহমান চৌধুরী হাইকোর্ট বিভাগের বিচারকাজ পরিচালনার জন্য মোট ৫৭টি বেঞ্চ পুনর্গঠন করেছেন।",
+          "সুপ্রিম কোর্টের ওয়েবসাইটে প্রকাশিত প্রধান বিচারপতির আদেশ অনুযায়ী পুনর্গঠিত বেঞ্চগুলো বিচারিক কার্যক্রম পরিচালনা করবে।",
+          "অবকাশকালীন ছুটি শেষে প্রথম কার্যদিবসে সকাল সাড়ে ১০টা থেকে এই বেঞ্চগুলোতে বিচারকাজ শুরু হওয়ার কথা রয়েছে।"
         ],
         "bullets_en": [
-          "The Comilla district police conducted a special crackdown targeting drug dealers, youth gangs, and snatchers.",
-          "A total of 275 suspected individuals were detained during the coordinated law enforcement operation.",
-          "Law enforcement authorities plan to continue similar security sweeps to maintain public safety in vulnerable areas."
+          "Chief Justice Jubaer Rahman Chowdhury reorganized a total of 57 benches to conduct judicial proceedings in the High Court Division.",
+          "The reorganized benches will operate according to the directive published on the Supreme Court website.",
+          "Judicial proceedings in these benches are scheduled to resume from 10:30 AM on the first working day after the vacation."
         ],
-        "impact_bn": "এই অভিযানের ফলে স্থানীয় এলাকাবাসী ও শিক্ষার্থীরা অপরাধমুক্ত পরিবেশে স্বস্তিতে চলাচল করতে পারবে।",
-        "impact_en": "Local residents and students will experience improved safety and reduced harassment in public spaces.",
-        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে কিশোর গ্যাংয়ের উপদ্রব ও মাদক কারবার বৃদ্ধি পাওয়ার প্রেক্ষাপটে আইনশৃঙ্খলা রক্ষাকারী বাহিনী কঠোর অবস্থান নিয়েছে। সাধারণ মানুষের নিরাপত্তা নিশ্চিত করতে এবং অপরাধমূলক কর্মকাণ্ড দমনে পুলিশ নিয়মিত এই ধরনের বিশেষ অভিযান পরিচালনা করে আসছে। আটককৃতদের বিরুদ্ধে প্রচলিত আইনে মামলা দায়ের করে আদালতে সোপর্দ করা হবে।",
-        "details_en": "Law enforcement agencies have adopted a stringent stance amid rising concerns over youth gang activities and drug proliferation in various regions. Police routinely conduct such targeted operations to ensure public safety and curb criminal enterprises. Detained suspects face formal charges under existing laws before being produced in court."
+        "impact_bn": "আদালতে বিচারাধীন মামলাগুলোর শুনানির গতি ও বিচারপ্রার্থীদের আইনি সেবা প্রাপ্তি ত্বরান্বিত হতে পারে।",
+        "impact_en": "The reorganization may accelerate hearing speeds for pending cases and improve legal service delivery for litigants.",
+        "details_bn": "সুপ্রিম কোর্টের হাইকোর্ট বিভাগে বিচারিক কার্যক্রম সুশৃঙ্খল ও গতিশীল রাখতে প্রধান বিচারপতি সময়ে সময়ে বেঞ্চ পুনর্গঠন করে থাকেন। সাধারণত অবকাশকালীন ছুটির পর আদালতের নিয়মিত কার্যক্রম শুরুর আগে নতুন বেঞ্চ গঠন করা হয়, যা বিচারপ্রার্থীদের দ্রুত ন্যায়বিচার নিশ্চিত করতে গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+        "details_en": "The Chief Justice periodically reorganizes High Court benches to maintain discipline and efficiency in Supreme Court judicial operations. New benches are typically formed before regular court proceedings resume following vacations, playing a crucial role in ensuring prompt justice for litigants."
       }
     },
     {
-      "story_id": "7c057f08-33e8-5234-a53e-97069cfb1ac5",
-      "primary_category": "tech_innovation",
+      "story_id": "b0538bba-38bf-5f22-9665-74c9a2a08d36",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "tech_innovation"
+        "governance_law"
       ],
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fo4bqsdfz%2Fgopalganj1.jpeg?rect=0%2C0%2C1064%2C559&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T11:54:57+00:00",
+      "published_at": "2026-10-24T12:47:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9132,
+      "importance_score": 4.8,
+      "rank_score": 1.6932,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/jago-jobs/news/1171481",
-          "title": "ক্যারিয়ার গঠন ও দক্ষতা উন্নয়নে কৃত্রিম বুদ্ধিমত্তা",
-          "snippet": "ক্যারিয়ার গঠন ও দক্ষতা উন্নয়নে কৃত্রিম বুদ্ধিমত্তা"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/guofm3vvpa",
+          "title": "গোপালগঞ্জে নিষিদ্ধ ছাত্রলীগ–যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা, তিন পুলিশ সদস্যকে মারধর",
+          "snippet": "গোপালগঞ্জে নিষিদ্ধ ছাত্রলীগ–যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা, তিন পুলিশ সদস্যকে মারধর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তা তরুণদের ক্যারিয়ার গঠন ও দক্ষতা উন্নয়নে ভূমিকা রাখছে",
-        "title_en": "Artificial Intelligence Drives Career Building and Skill Development for Youth",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির অগ্রগতি তরুণদের পেশাগত দক্ষতা বৃদ্ধি ও কর্মসংস্থানের সুযোগ তৈরিতে নতুন মাত্রা যোগ করেছে।",
-        "summary_en": "Advancements in artificial intelligence technology are opening new horizons for youth skill development and employment opportunities.",
+        "title_bn": "গোপালগঞ্জে নিষিদ্ধ সংগঠনের মিছিল থেকে পুলিশের গাড়িতে হামলা ও তিন সদস্য মারধর",
+        "title_en": "Attack on Police Car and Officers by Banned Organization Rally in Gopalganj",
+        "summary_bn": "গোপালগঞ্জে নিষিদ্ধ ঘোষিত ছাত্রলীগ ও যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা চালিয়ে তিন সদস্যকে মারধর করা হয়েছে।",
+        "summary_en": "Protesters from a banned student and youth wing rally attacked a police vehicle and beat three officers in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:54:57+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির অগ্রগতি তরুণদের পেশাগত দক্ষতা বৃদ্ধি ও কর্মসংস্থানের সুযোগ তৈরিতে নতুন মাত্রা যোগ করেছে।",
-        "lead_en": "Advancements in artificial intelligence technology are opening new horizons for youth skill development and employment opportunities.",
+        "published_at": "2026-10-24T12:47:25+00:00",
+        "lead_bn": "গোপালগঞ্জে নিষিদ্ধ ঘোষিত ছাত্রলীগ ও যুবলীগের মিছিল থেকে পুলিশের গাড়িতে হামলা চালিয়ে তিন সদস্যকে মারধর করা হয়েছে।",
+        "lead_en": "Protesters from a banned student and youth wing rally attacked a police vehicle and beat three officers in Gopalganj.",
         "bullets_bn": [
-          "জেনারেটিভ এআই টুলস মানুষের কাজ করার পদ্ধতি এবং পেশাগত দক্ষতার চাহিদা পরিবর্তন করছে।",
-          "চ্যাটজিপিটি এবং মিডজার্নির মতো প্রযুক্তি বৈশ্বিক কর্মক্ষেত্রে নতুন কর্মসংস্থানের সুযোগ সৃষ্টি করছে।",
-          "তরুণ প্রজন্মকে প্রতিযোগিতায় টিকে থাকতে ডিজিটাল প্রযুক্তির ব্যবহার বাড়াতে হবে।"
+          "নিষিদ্ধ ঘোষিত ছাত্রলীগ ও কার্যক্রম নিষিদ্ধ যুবলীগের নেতা-কর্মীরা ঝটিকা মিছিল বের করে পুলিশের ওপর চড়াও হন।",
+          "হামলার শিকার আহত পুলিশ সদস্যরা হলেন সদর থানার উপপরিদর্শক ফুলমিয়া এবং কনস্টেবল শওকত ও জসিম।",
+          "পুলিশ সুপার ঘটনার সত্যতা নিশ্চিত করে হামলাকারীদের আইনের আওতায় আনার বিষয়টি তদারকি করছেন।"
         ],
         "bullets_en": [
-          "Generative AI tools are fundamentally altering work methods and professional skill requirements.",
-          "Technologies like ChatGPT and Midjourney are creating fresh employment opportunities in the global workplace.",
-          "The younger generation must increase digital technology adoption to stay competitive in the job market."
+          "Activists of banned organizations took out a sudden procession and launched an unprovoked attack on police.",
+          "Injured police personnel include Sub-Inspector Fulmia along with Constables Shawkat and Jasim.",
+          "The district police superintendent confirmed the incident and legal steps are underway against the attackers."
         ],
-        "impact_bn": "তরুণ পেশাজীবী ও শিক্ষার্থীরা এআই দক্ষতা অর্জন করে নিজেদের ক্যারিয়ার আরও সমৃদ্ধ করতে পারবেন।",
-        "impact_en": "Young professionals and students can enrich their careers by acquiring essential artificial intelligence skills.",
-        "details_bn": "প্রযুক্তির দ্রুত বিবর্তনের সাথে সাথে বিশ্বজুড়ে কর্মসংস্থানের বাজারে এসেছে বড় পরিবর্তন। কৃত্রিম বুদ্ধিমত্তা বা এআই এখন আর শুধু গবেষণার বিষয় নয়, বরং এটি দৈনন্দিন কাজ থেকে শুরু করে জটিল ব্যবসায়িক প্রক্রিয়ার অংশ হয়ে উঠেছে। চ্যাটজিপিটি, মিডজারি ও জেমিনির মতো জেনারেটিভ এআই টুলগুলোর উত্থান কাজের ধরনকে আমূল বদলে দিয়েছে। ফলে তরুণ প্রজন্মকে ক্যারিয়ার গঠনে টিকে থাকতে হলে এআই ও আধুনিক প্রযুক্তির সাথে খাপ খাইয়ে নেয়ার বিকল্প নেই।",
-        "details_en": "With the rapid evolution of technology, the global employment market has undergone massive transformations. Artificial intelligence is no longer confined to research but has become integral to daily tasks and complex business processes. The rise of generative AI tools like ChatGPT, Midjourney, and Gemini has completely reshaped work patterns. Consequently, the younger generation must adapt to AI and modern technologies to remain competitive in their career paths."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর এমন হামলা জননিরাপত্তা এবং সামগ্রিক আইনশৃঙ্খলা পরিস্থিতির অবনতি নিয়ে উদ্বেগের সৃষ্টি করেছে।",
+        "impact_en": "Such direct attacks on law enforcement personnel raise serious concerns regarding public security and regional law and order.",
+        "details_bn": "গোপালগঞ্জ সদর উপজেলার রঘুনাথপুর ইউনিয়নের খেয়াঘাট এলাকায় নিয়মিত টহল দেওয়ার সময় পুলিশ সদস্যদের ওপর এ হামলার ঘটনা ঘটে। সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়া ভিডিওতে দেখা যায়, হকিস্টিক ও দেশীয় অস্ত্রধারী একদল যুবক মিছিল নিয়ে এসে পুলিশ সদস্যদের ওপর চড়াও হয় এবং সরকারি গাড়ি ভাঙচুর করে। পুলিশ সুপার মো. হাবীবুল্লাহ ঘটনার সত্যতা নিশ্চিত করেছেন এবং দোষীদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।",
+        "details_en": "The incident occurred when a regular police patrol team was stationed in the Raghunathpur union area of Gopalganj sadar upazila. Video footage circulating online showed armed individuals from a procession attacking the police vehicle and physically assaulting the officers on duty. District Superintendent of Police confirmed the assault, prompting authorities to initiate legal procedures against the perpetrators."
       }
     },
     {
-      "story_id": "511e6eaf-69eb-56bf-aa14-cd41e62fcafb",
+      "story_id": "73cebb1f-6a20-51d7-b961-1c8e0e6aea7d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T12:24:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3742,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/sylhet/976455/%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%9D%E0%A7%87-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%B2%E0%A7%8B-%E0%A6%8F%E0%A6%95-%E0%A6%9A%E0%A6%BF%E0%A6%A0%E0%A6%BF-%E0%A6%AF%E0%A6%BE-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95",
+          "title": "লাখ লাখ টাকার মাঝে মিললো এক চিঠি, যা লিখলেন তারেক রহমানকে",
+          "snippet": "লাখ লাখ টাকার মাঝে মিললো এক চিঠি, যা লিখলেন তারেক রহমানকে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিলেটের মাজারের দানবাক্সে তারেক রহমানকে উদ্দেশ করে বেনামি চিঠি পাওয়া গেছে",
+        "title_en": "Anonymous letter addressed to Tarique Rahman found in Sylhet shrine donation box",
+        "summary_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানকে উদ্দেশ করে লেখা একটি বেনামি চিঠি উদ্ধার করা হয়েছে।",
+        "summary_en": "An anonymous letter addressed to BNP Chairman Tarique Rahman has been recovered from the donation box of Hazrat Shahjalal shrine in Sylhet.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T12:24:07+00:00",
+        "lead_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স থেকে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমানকে উদ্দেশ করে লেখা একটি বেনামি চিঠি উদ্ধার করা হয়েছে।",
+        "lead_en": "An anonymous letter addressed to BNP Chairman Tarique Rahman has been recovered from the donation box of Hazrat Shahjalal shrine in Sylhet.",
+        "bullets_bn": [
+          "চিঠিতে বিএনপির কর্মী হওয়ার ক্ষেত্রে শিক্ষাগত যোগ্যতা নির্ধারণের প্রস্তাব দেওয়া হয়েছে।",
+          "দানবাক্স গণনা করার সময় লাখ লাখ টাকার মাঝে বেনামি চিঠিটি পাওয়া যায়।",
+          "চিঠিতে দলের সাংগঠনিক কাঠামো পরিবর্তন নিয়ে লেখকের বিভিন্ন প্রত্যাশার কথা তুলে ধরা হয়েছে।"
+        ],
+        "bullets_en": [
+          "The letter proposes setting educational qualifications for becoming BNP members and workers.",
+          "The anonymous note was discovered among millions of taka during routine donation box counting.",
+          "The author outlined specific expectations regarding organizational changes within the party."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সিলেটের হযরত শাহজালাল মাজারের দানবাক্স খোলার পর নিয়মিত টাকা গণনার সময় বিভিন্ন ধরনের চিঠি ও মানত পাওয়ার ঘটনা অতীতেও ঘটেছে। তবে এবার বিএনপির শীর্ষ নেতৃত্বকে উদ্দেশ করে নীতিগত সংস্কার বা শিক্ষাগত যোগ্যতার প্রস্তাবসংবলিত বেনামি চিঠি পাওয়ার বিষয়টি স্থানীয় রাজনৈতিক মহলে আলোচনার জন্ম দিয়েছে। মাজার কর্তৃপক্ষ সাধারণত নিয়মিত প্রক্রিয়ায় এই দানবাক্সগুলো খুলে থাকে।",
+        "details_en": "Finding letters and vows during the routine counting of donation boxes at Hazrat Shahjalal shrine in Sylhet is a regular occurrence. However, discovering an anonymous letter proposing policy reforms and educational requirements addressed to top BNP leadership has drawn local political attention. Shrine authorities typically open these donation boxes through standard administrative procedures."
+      }
+    },
+    {
+      "story_id": "12000e76-f926-5351-a570-a79aee6182a7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business"
       ],
       "tags": [
         "#Geopolitics",
@@ -234,100 +179,159 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T11:47:24+00:00",
+      "published_at": "2026-10-24T13:00:29+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8467,
+      "rank_score": 0.9677,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/uk/976441/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87-%E0%A6%86%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A6%B0-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87",
-          "title": "বাবার বিরুদ্ধে আপত্তিকর ছবি রাখার অভিযোগে ‘গভীরভাবে মর্মাহত’ মেগান",
-          "snippet": "বাবার বিরুদ্ধে আপত্তিকর ছবি রাখার অভিযোগে ‘গভীরভাবে মর্মাহত’ মেগান"
+          "url": "https://www.banglatribune.com/foreign/middle-east/976467/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%B8%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%9F%E0%A6%BF-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%A6%E0%A7%87%E0%A6%B6",
+          "title": "বাংলাদেশে এলএনজি সরবরাহকারী দেশটি এখন আরেক দেশ থেকে কিনতে হচ্ছে",
+          "snippet": "বাংলাদেশে এলএনজি সরবরাহকারী দেশটি এখন আরেক দেশ থেকে কিনতে হচ্ছে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাবার বিরুদ্ধে আপত্তিকর ছবি উদ্ধারে গভীর মর্মাহত মেগান মার্কেল",
-        "title_en": "Meghan Markle Deeply Distressed Over Inappropriate Images Found at Father Home",
-        "summary_bn": "মেগান মার্কেল তার বাবার সাবেক বাড়ি থেকে শিশু যৌন নিপীড়নের বিতর্কিত ছবি উদ্ধারের ঘটনায় গভীর দুঃখ ও উদ্বেগ প্রকাশ করেছেন।",
-        "summary_en": "Meghan Markle expressed profound distress and concern over the recovery of controversial images from her father former residence.",
+        "title_bn": "কাতার সংকট কাটায় যুক্তরাষ্ট্র থেকে এলএনজি আমদানি করতে হচ্ছে বাংলাদেশকে",
+        "title_en": "Bangladesh Forced to Import LNG from US Amid Qatar Supply Crisis",
+        "summary_bn": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির কারণে কাতারের সরবরাহ ব্যাহত হওয়ায় বাংলাদেশ এখন যুক্তরাষ্ট্র থেকে বিকল্প এলএনজি আমদানি করতে বাধ্য হচ্ছে।",
+        "summary_en": "Bangladesh is now forced to import alternative LNG from the United States as supplies from Qatar face disruptions due to Middle East conflicts.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:47:24+00:00",
-        "lead_bn": "মেগান মার্কেল তার বাবার সাবেক বাড়ি থেকে শিশু যৌন নিপীড়নের বিতর্কিত ছবি উদ্ধারের ঘটনায় গভীর দুঃখ ও উদ্বেগ প্রকাশ করেছেন।",
-        "lead_en": "Meghan Markle expressed profound distress and concern over the recovery of controversial images from her father former residence.",
-        "bullets_bn": [
-          "বাবার সাবেক বাড়ি থেকে বিতর্কিত ছবি উদ্ধারের ঘটনায় ব্রিটিশ রাজপরিবারের বধূ মেগান মার্কেল গভীর উদ্বেগ প্রকাশ করেছেন।",
-          "মার্কিন বার্তা সংস্থা এপি জানায় ২০১৮ সাল থেকেই থমাস মার্কেল সিনিয়রের বিরুদ্ধে এই অভিযোগ রয়েছে।",
-          "এই ঘটনার পর তিনি সন্তানদের বাবার কাছ থেকে দূরে রাখার কারণ জনসমক্ষে স্পষ্ট করেছেন।"
-        ],
-        "bullets_en": [
-          "Meghan Markle expressed profound concern over the discovery of controversial images at her father former home.",
-          "US news agency AP reported that allegations against Thomas Markle Senior date back to 2018.",
-          "The incident prompted her to publicly explain the reasons for keeping her children away from him."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মেগান মার্কেল এবং তার বাবা থমাস মার্কেল সিনিয়রের সম্পর্ক দীর্ঘদিন ধরেই টানাপোড়েনের মধ্য দিয়ে যাচ্ছে। ২০১৮ সালে প্রিন্স হ্যারির সাথে বিয়ের পর থেকেই পারিবারিক দূরত্ব বাড়তে থাকে। সাম্প্রতিক এই ঘটনায় তার বাবার সাবেক বাড়ি থেকে বিতর্কিত ছবি উদ্ধারের বিষয়টি গণমাধ্যমে আসার পর রাজপরিবারে নতুন করে আলোচনা শুরু হয়েছে।",
-        "details_en": "The relationship between Meghan Markle and her father, Thomas Markle Senior, has faced prolonged strain. Familial distance widened significantly following her marriage to Prince Harry in 2018. The recent emergence of reports regarding controversial images recovered from her father former residence has drawn renewed public attention to the family rift."
-      }
-    },
-    {
-      "story_id": "a45c5a77-276c-5d3c-b8a6-b277782716c0",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T11:45:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8325,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1171475",
-          "title": "মিডল্যান্ড ব্যাংক পরিচালনা পর্ষদের নির্বাহী কমিটির সভা",
-          "snippet": "মিডল্যান্ড ব্যাংক পরিচালনা পর্ষদের নির্বাহী কমিটির সভা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিডল্যান্ড ব্যাংকের পরিচালনা পর্ষদের নির্বাহী কমিটির সভা অনুষ্ঠিত",
-        "title_en": "Midland Bank Holds Executive Committee Board Meeting",
-        "summary_bn": "মিডল্যান্ড ব্যাংক পিএলসির পরিচালনা পর্ষদের নির্বাহী কমিটির দ্বিশতম সভা ব্যাংকটির প্রধান কার্যালয়ে অনুষ্ঠিত হয়েছে।",
-        "summary_en": "The 200th meeting of the executive committee of Midland Bank PLC was held at the bank headquarters.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
+          "world_diplomacy",
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T11:45:39+00:00",
-        "lead_bn": "মিডল্যান্ড ব্যাংক পিএলসির পরিচালনা পর্ষদের নির্বাহী কমিটির দ্বিশতম সভা ব্যাংকটির প্রধান কার্যালয়ে অনুষ্ঠিত হয়েছে।",
-        "lead_en": "The 200th meeting of the executive committee of Midland Bank PLC was held at the bank headquarters.",
+        "published_at": "2026-10-24T13:00:29+00:00",
+        "lead_bn": "মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতির কারণে কাতারের সরবরাহ ব্যাহত হওয়ায় বাংলাদেশ এখন যুক্তরাষ্ট্র থেকে বিকল্প এলএনজি আমদানি করতে বাধ্য হচ্ছে।",
+        "lead_en": "Bangladesh is now forced to import alternative LNG from the United States as supplies from Qatar face disruptions due to Middle East conflicts.",
         "bullets_bn": [
-          "মিডল্যান্ড ব্যাংক পিএলসির পরিচালনা পর্ষদের নির্বাহী কমিটির দ্বিশতম সভা সফলভাবে সম্পন্ন হয়েছে।",
-          "সভায় ব্যাংকের বিভিন্ন ব্যবসায়িক কার্যক্রম ও কৌশলগত বিষয় নিয়ে বিস্তারিত আলোচনা করা হয়।",
-          "ভবিষ্যতের আর্থিক লক্ষ্য অর্জন এবং সেবার মান বৃদ্ধির জন্য নতুন দিকনির্দেশনা দেওয়া হয়েছে।"
+          "যুদ্ধজনিত কারণে কাতার থেকে নিয়মিত তরলীকৃত প্রাকৃতিক গ্যাস আমদানি মারাত্মকভাবে ব্যাহত হয়েছে।",
+          "দীর্ঘমেয়াদি চুক্তির আওতায় বাংলাদেশ আগে কাতার থেকে প্রতি বছর প্রায় ৪০ কার্গো এলএনজি আমদানি করতো।",
+          "উৎপাদন সক্ষমতা ও প্রধান সামুদ্রিক পথ বন্ধ থাকায় বিকল্প হিসেবে যুক্তরাষ্ট্র থেকে গ্যাস সংগ্রহ করছে বাংলাদেশ।"
         ],
         "bullets_en": [
-          "The 200th executive committee meeting of Midland Bank PLC was successfully convened.",
-          "Detailed discussions were held regarding various business operations and strategic initiatives of the bank.",
-          "New directives were issued to achieve future financial targets and enhance service quality."
+          "Liquefied natural gas imports from Qatar have been severely disrupted due to ongoing war conditions.",
+          "Bangladesh previously imported about 40 cargoes of LNG annually from Qatar under long-term contracts.",
+          "Bangladesh is now sourcing gas from the United States as an alternative due to compromised production and blocked sea routes."
         ],
-        "impact_bn": "এই সভার সিদ্ধান্তসমূহ ব্যাংকের গ্রাহকসেবা ও আর্থিক কার্যক্রমে গতিশীলতা আনতে সহায়তা করবে।",
-        "impact_en": "Decisions from this meeting will help accelerate the bank's customer services and financial operations.",
-        "details_bn": "মিডল্যান্ড ব্যাংক পিএলসি নিয়মিতভাবে তাদের পরিচালনা পর্ষদ এবং বিভিন্ন কমিটির সভা আয়োজন করে থাকে। এসব সভার মাধ্যমে ব্যাংকটির নীতিনির্ধারকরা সার্বিক আর্থিক অগ্রগতি পর্যালোচনা করেন এবং গ্রাহকদের আধুনিক ব্যাংকিং সেবা প্রদান নিশ্চিত করতে গুরুত্বপূর্ণ ব্যবসায়িক কৌশল নির্ধারণ করেন।",
-        "details_en": "Midland Bank PLC regularly organizes board and committee meetings. Through these sessions, policymakers review overall financial progress and determine key business strategies to ensure modern banking services for customers."
+        "impact_bn": "আমদানির উৎস পরিবর্তনের কারণে দেশের জ্বালানি ব্যয় ও বিদ্যুৎ উৎপাদনে বাড়তি চাপ তৈরি হতে পারে।",
+        "impact_en": "Shifting import sources may create additional pressure on national energy costs and power generation.",
+        "details_bn": "ইরান সংঘাত শুরু হওয়ার আগে বিশ্বজুড়ে এলএনজি রফতানিতে শীর্ষ অবস্থানে ছিল কাতার। বাংলাদেশ দীর্ঘমেয়াদি চুক্তির মাধ্যমে কাতার থেকে নিয়মিত জ্বালানি সংগ্রহ করতো। কিন্তু যুদ্ধ শুরুর মাত্র আট মাসের মাথায় পরিস্থিতি সম্পূর্ণ বদলে যায়। কাতারের নিজস্ব উৎপাদন সক্ষমতা ক্ষতিগ্রস্ত হওয়া এবং প্রধান সামুদ্রিক পথ অবরুদ্ধ থাকায় জ্বালানি নিরাপত্তা বজায় রাখতে বাংলাদেশকে এখন যুক্তরাষ্ট্রের মতো নতুন বাজারের ওপর নির্ভর করতে হচ্ছে।",
+        "details_en": "Before the onset of the Iran conflict, Qatar was among the top global exporters of liquefied natural gas. Bangladesh regularly procured energy from Qatar via long-term agreements. However, within eight months of the war, the situation shifted completely. Due to compromised production capacity in Qatar and blocked maritime trade routes, Bangladesh now has to rely on alternative markets like the United States to maintain energy security."
+      }
+    },
+    {
+      "story_id": "2e65416d-b512-558b-a1f6-52ad12814ac8",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fhzia7tyi%2FMYMENSINGHDH169420261024WHATSAPP-IMAGE-2026-10-24-AT-3.07.59-PM.JPG.JPG?rect=0%2C60%2C1599%2C839&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T12:45:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8343,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/h0t6jycge8",
+          "title": "সব ওষুধ কিনতে হয় রোগীর, দুঃখ প্রকাশ করে টাকা দিলেন স্বাস্থ্যমন্ত্রী",
+          "snippet": "সব ওষুধ কিনতে হয় রোগীর, দুঃখ প্রকাশ করে টাকা দিলেন স্বাস্থ্যমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে রোগীর অব্যবস্থাপনা দেখে স্বাস্থ্যমন্ত্রীর অসন্তোষ প্রকাশ",
+        "title_en": "Health Minister Expresses Dissatisfaction Over Mismanagement at Mymensingh Medical College Hospital",
+        "summary_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন প্রসূতির কাছ থেকে ওষুধ কেনার অভিযোগ পেয়ে দুঃখ প্রকাশ করেছেন স্বাস্থ্যমন্ত্রী।",
+        "summary_en": "Health Minister expressed regret after receiving complaints from a patient about purchasing medicines at Mymensingh Medical College Hospital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T12:45:54+00:00",
+        "lead_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে চিকিৎসাধীন প্রসূতির কাছ থেকে ওষুধ কেনার অভিযোগ পেয়ে দুঃখ প্রকাশ করেছেন স্বাস্থ্যমন্ত্রী।",
+        "lead_en": "Health Minister expressed regret after receiving complaints from a patient about purchasing medicines at Mymensingh Medical College Hospital.",
+        "bullets_bn": [
+          "হাসপাতাল পরিদর্শনের সময় রোগীরা বিনামূল্যে ওষুধ ও গ্লাভস না পাওয়ার অভিযোগ করলে স্বাস্থ্যমন্ত্রী ব্যক্তিগতভাবে অর্থ সহায়তা দেন।",
+          "ফুলপুর উপজেলা স্বাস্থ্য কমপ্লেক্সে পাঁচজন চিকিৎসক অনুপস্থিত থাকায় তাঁদের এক দিনের বেতন কাটার নির্দেশ দেওয়া হয়।",
+          "অনুপস্থিত চিকিৎসকদের বিরুদ্ধে বিভাগীয় ব্যবস্থা নেওয়া হবে বলে জানিয়েছেন স্বাস্থ্যমন্ত্রী।"
+        ],
+        "bullets_en": [
+          "The Health Minister provided personal financial assistance after patients reported buying free medicines and gloves themselves.",
+          "Five absent doctors at Phulpur Upazila Health Complex faced salary deductions of one day following the inspection.",
+          "Departmental action will be taken against doctors found absent without valid reasons during roster checks."
+        ],
+        "impact_bn": "হাসপাতালের অব্যবস্থাপনা দূর হলে সাধারণ রোগীরা নামমাত্র খরচে সরকারি সেবা ও প্রয়োজনীয় ওষুধ পাবেন।",
+        "impact_en": "Ordinary patients will receive proper government medical care and necessary supplies if hospital mismanagement is resolved.",
+        "details_bn": "স্বাস্থ্যমন্ত্রী সরদার মো. সাখাওয়াত হোসেন ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে ঝটিকা পরিদর্শনকালে চিকিৎসকদের ডিজিটাল ও ম্যানুয়াল হাজিরা খতিয়ে দেখেন। এ সময় নির্ধারিত সময়ে উপস্থিত না হওয়া চিকিৎসকদের বিরুদ্ধে ক্ষোভ প্রকাশ করা হয়। এছাড়া নতুন ভবনের অগ্নিকাণ্ডের তদন্ত প্রতিবেদন পর্যালোচনা করে ব্যবস্থা নেওয়ার ঘোষণা দেন মন্ত্রী।",
+        "details_en": "Health Minister Sardar Md. Sakhawat Hossain inspected Mymensingh Medical College Hospital, reviewing digital and manual attendance records of doctors. He expressed frustration over unauthorized absences and announced that departmental actions would be taken. The minister also reviewed the investigation report regarding a recent fire incident in the new building."
+      }
+    },
+    {
+      "story_id": "dae12f95-248d-5e7e-96ac-0d976d7658d5",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F317jogkq%2FGaibanda-bs-ValoKaj.jpg?rect=0%2C136%2C1502%2C789&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-06%2Ffc02a57d-164a-4776-9604-2a467333b0e1%2FFinal_Bondhushava_OG_watermark_01.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T12:41:03+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7969,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.bondhushava.com/activities/cthzr0snxz",
+          "title": "নদীর মাছ রক্ষায় গাইবান্ধায় জেলেদের সঙ্গে বন্ধুসভার মতবিনিময়",
+          "snippet": "নদীর মাছ রক্ষায় গাইবান্ধায় জেলেদের সঙ্গে বন্ধুসভার মতবিনিময়"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্রহ্মপুত্রে অবৈধ জাল ও বৈদ্যুতিক মাছ শিকার বন্ধে মতবিনিময় সভা",
+        "title_en": "Meeting Held to Stop Illegal Fishing and Electric Nets in Brahmaputra",
+        "summary_bn": "ব্রহ্মপুত্র নদে অবৈধ জাল ও বৈদ্যুতিক পদ্ধতিতে মাছ শিকার বন্ধে জেলেদের নিয়ে সচেতনতামূলক মতবিনিময় সভা অনুষ্ঠিত হয়েছে।",
+        "summary_en": "An awareness meeting was held with fishermen to stop illegal fishing and electric methods in the Brahmaputra River.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T12:41:03+00:00",
+        "lead_bn": "ব্রহ্মপুত্র নদে অবৈধ জাল ও বৈদ্যুতিক পদ্ধতিতে মাছ শিকার বন্ধে জেলেদের নিয়ে সচেতনতামূলক মতবিনিময় সভা অনুষ্ঠিত হয়েছে।",
+        "lead_en": "An awareness meeting was held with fishermen to stop illegal fishing and electric methods in the Brahmaputra River.",
+        "bullets_bn": [
+          "গাইবান্ধা বন্ধুসভার উদ্যোগে সদর উপজেলার কামারজানি ইউনিয়নের গোঘাট এলাকায় সভাটি অনুষ্ঠিত হয়।",
+          "বৈদ্যুতিক পদ্ধতি এবং চীনা জাল ব্যবহারের ফলে মাছের পোনা ও জলজ প্রাণী ধ্বংসের আশঙ্কা প্রকাশ করা হয়।",
+          "নদীর জীববৈচিত্র্য ও মৎস্যসম্পদ রক্ষায় মৎস্য আইন মেনে চলার ওপর গুরুত্বারোপ করা হয়।"
+        ],
+        "bullets_en": [
+          "The meeting was organized by Gaibandha Prothom Alo Bondhushava in the Gighat area of Kamarjani union.",
+          "Speakers expressed deep concern over the destruction of fish fry and aquatic life caused by electric fishing and Chinese nets.",
+          "Strict adherence to fisheries laws was emphasized to protect river biodiversity and fishery resources."
+        ],
+        "impact_bn": "অবৈধ মাছ শিকার বন্ধ হলে নদীবন্দর এলাকার জেলেদের জীবিকা দীর্ঘমেয়াদে সুরক্ষিত থাকবে এবং নদীর জীববৈচিত্র্য রক্ষা পাবে।",
+        "impact_en": "Stopping illegal fishing will secure the long-term livelihood of local fishermen and preserve the river ecosystem.",
+        "details_bn": "গাইবান্ধার কামারজানিতে ব্রহ্মপুত্র নদে বৈদ্যুতিক পদ্ধতি ও চীনা জাল ব্যবহার করে নির্বিচারে মাছ শিকার করা হচ্ছে। এর ফলে নদীর মৎস্যসম্পদ ও জলজ পরিবেশ মারাত্মক হুমকির মুখে পড়েছে। এই পরিস্থিতি মোকাবেলায় মৎস্যসম্পদ রক্ষা, অবৈধ জালের ব্যবহার বন্ধ এবং জেলেদের মধ্যে সচেতনতা সৃষ্টির লক্ষ্যে গাইবান্ধা বন্ধুসভা এই বিশেষ মতবিনিময় সভার আয়োজন করে। সভায় স্থানীয় জেলে, শিক্ষক ও সামাজিক সংগঠনের প্রতিনিধিরা অংশ নেন।",
+        "details_en": "Indiscriminate fishing using electric methods and Chinese nets in the Brahmaputra River at Kamarjani in Gaibandha has severely threatened aquatic resources and the river environment. To address this crisis, the Gaibandha Bondhushava organized a special awareness meeting aimed at stopping illegal fishing gear and educating local fishermen. Local fishermen, teachers, and social activists participated in the discussion to promote sustainable river management."
       }
     }
   ]
