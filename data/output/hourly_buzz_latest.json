@@ -1,227 +1,9 @@
 {
-  "updated_at": "2026-10-24T04:00:45.785762",
+  "updated_at": "2026-10-24T05:00:47.352757",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a51e6d87-a5e4-5307-a091-51ff00df8749",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Istanbul.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T03:39:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 2.3611,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/foreign-ministers-of-eight-countries-call-for-a-diplomatic-solution-urging-against-new-attacks-on-iran/",
-          "title": "ইরানে নতুন হামলা নয়, কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের",
-          "snippet": "ইরানে নতুন হামলা নয়, কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানে সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের আহ্বান আট দেশের পররাষ্ট্রমন্ত্রীদের",
-        "title_en": "Foreign Ministers of Eight Nations Urge Diplomatic Solution Avoiding Strikes on Iran",
-        "summary_bn": "ইউরোপ ও মধ্যপ্রাচ্যের আট দেশের পররাষ্ট্রমন্ত্রীরা ইরানে নতুন সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের ওপর জোর দিয়েছেন।",
-        "summary_en": "Foreign ministers from Europe and the Middle East urged Washington to avoid fresh military strikes on Iran.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:39:29+00:00",
-        "lead_bn": "ইউরোপ ও মধ্যপ্রাচ্যের আট দেশের পররাষ্ট্রমন্ত্রীরা ইরানে নতুন সামরিক হামলা না চালিয়ে কূটনৈতিক সমাধানের ওপর জোর দিয়েছেন।",
-        "lead_en": "Foreign ministers from Europe and the Middle East urged Washington to avoid fresh military strikes on Iran.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্রকে ইরানে নতুন সামরিক হামলা থেকে বিরত থাকার আহ্বান জানায় আট দেশের জোট।",
-          "সংঘাত তীব্র হলে জ্বালানি তেলের বাজারে গুরুতর প্রভাব পড়বে বলে সতর্ক করেন ফরাসি পররাষ্ট্রমন্ত্রী।",
-          "হরমুজ প্রণালির নিরাপত্তা নিশ্চিত করতে সংলাপ ও কূটনৈতিক উদ্যোগ জোরদারের তাগিদ দেওয়া হয়।"
-        ],
-        "bullets_en": [
-          "Eight foreign ministers urged the United States to refrain from launching new military strikes on Iran.",
-          "French Foreign Minister warned that escalation would severely impact hydrocarbon and fuel oil markets.",
-          "Envoys emphasized dialogue and diplomatic initiatives to ensure security in the Strait of Hormuz."
-        ],
-        "impact_bn": "সংঘাত বাড়লে বৈশ্বিক জ্বালানি তেলের দাম বেড়ে সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়তে পারে।",
-        "impact_en": "Escalating regional conflict could spike global fuel prices and increase living costs for citizens.",
-        "details_bn": "তুরস্কের ইস্তাম্বুলে ইউরোপ ও মধ্যপ্রাচ্যের আটটি দেশের পররাষ্ট্রমন্ত্রীদের বৈঠকে আঞ্চলিক সংঘাত নিরসন ও হরমুজ প্রণালির নিরাপত্তা নিয়ে আলোচনা হয়। বৈঠকে যুক্তরাজ্য, ফ্রান্স, জার্মানি, তুরস্ক, সৌদি আরব, পাকিস্তান, মিসর ও ইতালির প্রতিনিধিরা অংশ নেন। অংশগ্রহণকারী দেশগুলো সামরিক উত্তেজনার পরিবর্তে আলোচনার মাধ্যমে সংকট সমাধানের পক্ষে মত দেয়। তবে এর মধ্যেই যুক্তরাষ্ট্র চলতি সপ্তাহান্তেই ইরানে হামলা চালাতে পারে বলে আশঙ্কা প্রকাশ করা হয়েছে।",
-        "details_en": "Foreign ministers from eight European and Middle Eastern nations met in Istanbul to discuss regional stability and security in the Strait of Hormuz. Representatives from the E3 nations, Turkey, Saudi Arabia, Pakistan, Egypt, and Italy attended the talks. The coalition strongly advocated for diplomatic dialogue over military intervention to de-escalate tensions. Meanwhile, US officials signaled that Washington could potentially launch strikes against Iran."
-      }
-    },
-    {
-      "story_id": "7ac887f1-01f3-5628-9d33-204c95f38dd8",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T03:15:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.7622,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171278",
-          "title": "প্রধানমন্ত্রীর জাপান সফরে একাধিক সমঝোতা স্মারক সইয়ের আশা",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফরে একাধিক সমঝোতা স্মারক সইয়ের আশা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপান সফরে চারটির বেশি সমঝোতা স্মারক সইয়ের সম্ভাবনা রয়েছে",
-        "title_en": "Multiple Memorandums of Understanding Expected During Japan Tour",
-        "summary_bn": "প্রধানমন্ত্রীর আসন্ন জাপান সফরে বাংলাদেশ ও জাপানের মধ্যে চারটির বেশি সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।",
-        "summary_en": "Bangladesh and Japan are expected to sign more than four memorandums of understanding during the upcoming official visit.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:15:15+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর আসন্ন জাপান সফরে বাংলাদেশ ও জাপানের মধ্যে চারটির বেশি সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।",
-        "lead_en": "Bangladesh and Japan are expected to sign more than four memorandums of understanding during the upcoming official visit.",
-        "bullets_bn": [
-          "বাংলাদেশ ও জাপানের মধ্যে অর্থনৈতিক অংশীদারিত্ব বাড়াতে একাধিক চুক্তি চূড়ান্ত করা হচ্ছে।",
-          "সফরে চারটির বেশি সমঝোতা স্মারক বা এমওইউ স্বাক্ষরিত হওয়ার জোরালো সম্ভাবনা রয়েছে।",
-          "চুক্তিগুলোর সফল বাস্তবায়নের মাধ্যমে দুই দেশের দ্বিপক্ষীয় বাণিজ্য ও বিনিয়োগ আরও সম্প্রসারিত হবে।"
-        ],
-        "bullets_en": [
-          "Several bilateral agreements are being finalized to strengthen economic partnership between Bangladesh and Japan.",
-          "More than four memorandums of understanding are strongly expected to be signed during the visit.",
-          "Successful implementation of these deals will further expand bilateral trade and investment between the two nations."
-        ],
-        "impact_bn": "এই চুক্তির ফলে দ্বিপক্ষীয় বিনিয়োগ ও বাণিজ্যের প্রসার ঘটবে, যা দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানে ভূমিকা রাখবে।",
-        "impact_en": "The agreements will expand bilateral investment and trade, contributing to economic growth and employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। দুই দেশের মধ্যে বাণিজ্য ও অবকাঠামো উন্নয়নসহ বিভিন্ন খাতে সহযোগিতা বজায় রয়েছে। প্রধানমন্ত্রী তারেক রহমানের আসন্ন এই সফর দ্বিপক্ষীয় সম্পর্ককে আরও দৃঢ় করতে এবং নতুন অর্থনৈতিক সম্ভাবনা উন্মোচনে গুরুত্বপূর্ণ ভূমিকা পালন করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share long-standing diplomatic and economic ties, cooperating extensively in trade, infrastructure, and development. The upcoming official visit by Prime Minister Tarique Rahman is expected to further strengthen bilateral relations and unlock new avenues for economic cooperation."
-      }
-    },
-    {
-      "story_id": "6a881a99-e613-5cb8-9488-3fab2615e987",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T04:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9649,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976334/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E2%80%98%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%B8-%E0%A6%85%E0%A6%AC-%E0%A6%86%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B8%E2%80%99",
-          "title": "স্পেনের মর্যাদাপূর্ণ ‘প্রিন্সেস অব আস্তুরিয়াস’ পুরস্কার পেলেন মেসি",
-          "snippet": "স্পেনের মর্যাদাপূর্ণ ‘প্রিন্সেস অব আস্তুরিয়াস’ পুরস্কার পেলেন মেসি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্পেনের মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার পেলেন ফুটবলার লিওনেল মেসি",
-        "title_en": "Footballer Lionel Messi Receives Prestigious Princesa de Asturias Award in Spain",
-        "summary_bn": "ফুটবলের জাদুকর লিওনেল মেসি স্পেনের ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে এক বর্ণাঢ্য অনুষ্ঠানে মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার গ্রহণ করেছেন।",
-        "summary_en": "Football maestro Lionel Messi received the prestigious Princesa de Asturias Award at a grand ceremony in Spain.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:00:00+00:00",
-        "lead_bn": "ফুটবলের জাদুকর লিওনেল মেসি স্পেনের ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে এক বর্ণাঢ্য অনুষ্ঠানে মর্যাদাপূর্ণ প্রিন্সেস অব আস্তুরিয়াস পুরস্কার গ্রহণ করেছেন।",
-        "lead_en": "Football maestro Lionel Messi received the prestigious Princesa de Asturias Award at a grand ceremony in Spain.",
-        "bullets_bn": [
-          "লিওনেল মেসিকে মর্যাদাপূর্ণ আন্তর্জাতিক সম্মাননা প্রিন্সেস অব আস্তুরিয়াস অ্যাওয়ার্ড ফর স্পোর্টস প্রদান করা হয়।",
-          "ওভিয়েদোর ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে প্রিন্সেস লিওনোরের হাত থেকে পুরস্কার গ্রহণ করেন মেসি।",
-          "অনুষ্ঠানে স্পেনের রাজা ষষ্ঠ ফেলিপ এবং রানি লেটিজিয়া উপস্থিত থেকে এই তারকাকে সংবর্ধনা জানান।"
-        ],
-        "bullets_en": [
-          "Lionel Messi was honored with the prestigious Princesa de Asturias Award for Sports.",
-          "Messi received the accolade directly from Princess Leonor at the historic Campoamor Theater in Oviedo.",
-          "King Felipe VI and Queen Letizia of Spain attended the grand ceremony to honor the football star."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্পেনের প্রিন্সেস অব আস্তুরিয়াস ফাউন্ডেশন প্রতি বছর বিভিন্ন ক্ষেত্রে অসামান্য অবদানের জন্য বিশ্বখ্যাত ব্যক্তিত্বদের এই পুরস্কার প্রদান করে থাকে। ক্রীড়া ক্ষেত্রে অসাধারণ সাফল্য এবং বিশ্বজুড়ে ফুটবলপ্রেমীদের মাঝে অনুপ্রেরণা জোগানোর স্বীকৃতিস্বরূপ লিওনেল মেসিকে এবারের ক্রীড়া ক্যাটাগরিতে এই মর্যাদাপূর্ণ সম্মাননার জন্য মনোনীত করা হয়। ওভিয়েদোর ঐতিহাসিক ক্যাম্পোআমোর থিয়েটারে আয়োজিত এই রাজকীয় অনুষ্ঠানে বিশ্বের বিশিষ্ট ব্যক্তিবর্গ উপস্থিত ছিলেন।",
-        "details_en": "The Princesa de Asturias Foundation in Spain annually honors world-renowned figures for outstanding contributions in various fields. Lionel Messi was selected for this year's sports category in recognition of his extraordinary athletic success and for inspiring football fans globally. The grand ceremony took place at the historic Campoamor Theater in Oviedo, attended by distinguished international guests."
-      }
-    },
-    {
-      "story_id": "9505d5a0-23cd-5c91-b744-375dbb104b7c",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T04:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9649,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976294/%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B9%E0%A7%80%E0%A6%A8-%E0%A6%A8%E0%A7%8C%E0%A6%AA%E0%A6%A5-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA-%E0%A6%86%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5-%E0%A6%96%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%9B%E0%A7%87%E0%A6%A8",
-          "title": "যাত্রীহীন নৌপথ, পেশা ছেড়ে বিকল্প আয়ের পথ খুঁজছেন ট্রলার মালিক-চালকরা",
-          "snippet": "যাত্রীহীন নৌপথ, পেশা ছেড়ে বিকল্প আয়ের পথ খুঁজছেন ট্রলার মালিক-চালকরা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জ্বালানি তেলের দাম বৃদ্ধিতে খুলনার দাকোপে ট্রলার চলাচল বন্ধ",
-        "title_en": "Trawler Services Halt in Khulna Dakop Due to Fuel Price Hike",
-        "summary_bn": "জ্বালানি তেলের দাম দ্বিগুণ হওয়ায় খুলনার দাকোপে নৌপথের ট্রলারচালকরা পেশা ছেড়ে দিনমজুরির পথ বেছে নিচ্ছেন।",
-        "summary_en": "Surging fuel costs double operating expenses, forcing coastal boat operators in Khulna to abandon their profession.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T04:00:00+00:00",
-        "lead_bn": "জ্বালানি তেলের দাম দ্বিগুণ হওয়ায় খুলনার দাকোপে নৌপথের ট্রলারচালকরা পেশা ছেড়ে দিনমজুরির পথ বেছে নিচ্ছেন।",
-        "lead_en": "Surging fuel costs double operating expenses, forcing coastal boat operators in Khulna to abandon their profession.",
-        "bullets_bn": [
-          "জ্বালানি তেলের দাম বেড়ে যাওয়ায় উপকূলীয় অঞ্চলের নৌপথে ট্রলার পরিচালনা ব্যয় প্রায় দ্বিগুণ হয়েছে।",
-          "দাকোপ উপজেলার সুজিত মন্ডল ও গফ্ফার হোসেন গাজীসহ স্থানীয় চালকরা ট্রলার ঘাটে বসিয়ে রেখেছেন।",
-          "জীবিকা নির্বাহের তাগিদে ক্ষতিগ্রস্ত চালকরা এখন দিনমজুরি বা বিকল্প আয়ের সন্ধান করছেন।"
-        ],
-        "bullets_en": [
-          "Coastal boat operating expenses doubled following a steep rise in fuel prices.",
-          "Local operators including Sujit Mandal and Gaffar Hossain Gazi have grounded their vessels.",
-          "Affected drivers are seeking daily wage labor or alternative livelihoods to survive."
-        ],
-        "impact_bn": "উপকূলীয় দ্বীপ এলাকার সাধারণ যাত্রীদের যাতায়াত ও দৈনন্দিন যোগাযোগ ব্যবস্থা মারাত্মকভাবে ব্যাহত হচ্ছে।",
-        "impact_en": "Daily commuting and communication for ordinary residents in coastal island areas face severe disruptions.",
-        "details_bn": "খুলনার উপকূলীয় দাকোপ উপজেলায় নদীপথের যাতায়াত মূলত ট্রলারের ওপর নির্ভরশীল। জ্বালানি তেলের মূল্যবৃদ্ধির ফলে সাধারণ যাত্রী পারাপারের এই মাধ্যমটি মুখ থুবড়ে পড়েছে। এর ফলে দ্বীপ এলাকার বাসিন্দাদের চলাচল এবং পণ্য পরিবহন ব্যয়বহুল হয়ে পড়েছে, যা স্থানীয় অর্থনীতি ও জনজীবনকে নেতিবাচকভাবে প্রভাবিত করছে।",
-        "details_en": "River transport in coastal Dakop upazila of Khulna heavily relies on mechanized trawlers. The sudden spike in diesel prices has made regular passenger transport economically unviable, leaving boat owners stranded. This disruption severely impairs mobility for island residents and increases local transport costs, impacting the regional economy."
-      }
-    },
-    {
-      "story_id": "7e777c2e-ae3b-5549-a38e-07919bd4c911",
+      "story_id": "d328d7e9-3daa-5821-91b4-26ba84df2845",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -231,25 +13,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%AA%E0%A6%95%E0%A6%A3%E0%A7%8D%E0%A6%A0%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AC%E0%A6%BE%E0%A6%A6%E0%A7%80-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%96%E0%A7%8B%E0%A6%81.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T03:54:11+00:00",
+      "published_at": "2026-10-24T04:59:27+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9077,
+      "importance_score": 4.8,
+      "rank_score": 1.9178,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171283",
-          "title": "নিজের পা নিজেই কেটে ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে",
-          "snippet": "নিজের পা নিজেই কেটে ড্রোনে ঝুলে ফিরলেন মৃত্যুপুরী থেকে"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/macron-calls-shooting-incident-on-the-outskirts-of-paris-a-terrorist-attack/",
+          "title": "প্যারিসের উপকণ্ঠে গুলির ঘটনাকে ‘বর্ণবাদী সন্ত্রাসী’ হামলা বললেন মাখোঁ",
+          "snippet": "প্যারিসের উপকণ্ঠে গুলির ঘটনাকে ‘বর্ণবাদী সন্ত্রাসী’ হামলা বললেন মাখোঁ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাশিয়ার হামলায় পা হারিয়ে ড্রোনে ঝুলে রক্ষা পেলেন ইউক্রেনীয় সেনা",
-        "title_en": "Ukrainian Soldier Rescued by Drone After Losing Legs in Russian Attack",
-        "summary_bn": "রাশিয়ার হামলায় দুই পা হারানোর পর ড্রোনবাহিত হয়ে ১৫ কিলোমিটার পথ পাড়ি দিয়ে মৃত্যুপুরী থেকে উদ্ধার হয়েছেন এক ইউক্রেনীয় সেনা।",
-        "summary_en": "A Ukrainian soldier was rescued by a massive drone traveling fifteen kilometers after losing both legs in a Russian attack.",
+        "title_bn": "প্যারিসের উপকণ্ঠে বন্দুক হামলায় ফরাসি প্রেসিডেন্টের নিন্দা ও বর্ণবাদী সন্ত্রাসী হামলার স্বীকৃতি",
+        "title_en": "French President Condemns Paris Suburb Shooting as Racist Terror Attack",
+        "summary_bn": "ফ্রান্সের প্যারিস উপকণ্ঠে বন্দুক হামলায় একজন নিহত ও পাঁচজন আহত হওয়ার ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা বলে অভিহিত করেছেন প্রেসিডেন্ট এমানুয়েল মাখোঁ।",
+        "summary_en": "French President Emmanuel Macron condemned a suburb shooting in Paris that left one dead and five injured as a racist terror attack.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -257,77 +39,295 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:54:11+00:00",
-        "lead_bn": "রাশিয়ার হামলায় দুই পা হারানোর পর ড্রোনবাহিত হয়ে ১৫ কিলোমিটার পথ পাড়ি দিয়ে মৃত্যুপুরী থেকে উদ্ধার হয়েছেন এক ইউক্রেনীয় সেনা।",
-        "lead_en": "A Ukrainian soldier was rescued by a massive drone traveling fifteen kilometers after losing both legs in a Russian attack.",
+        "published_at": "2026-10-24T04:59:27+00:00",
+        "lead_bn": "ফ্রান্সের প্যারিস উপকণ্ঠে বন্দুক হামলায় একজন নিহত ও পাঁচজন আহত হওয়ার ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা বলে অভিহিত করেছেন প্রেসিডেন্ট এমানুয়েল মাখোঁ।",
+        "lead_en": "French President Emmanuel Macron condemned a suburb shooting in Paris that left one dead and five injured as a racist terror attack.",
         "bullets_bn": [
-          "রাশিয়ার তীব্র হামলার মুখে পা হারানোর পর প্রায় আট মাস একটি গর্তে আটকে ছিলেন ওই সেনা।",
-          "কস্তিয়ান্তিন ভ্লাসেনকো নামক ওই সেনা সদস্য বিশাল একটি ড্রোনে ঝুলে ১৫ কিলোমিটার দূরে নিরাপদ আশ্রয়ে পৌঁছান।",
-          "উদ্ধার হওয়ার পর বর্তমানে তাকে উন্নত চিকিৎসা ও পুনর্বাসনের আওতায় রাখা হয়েছে।"
+          "প্যারিসের উপকণ্ঠে এলোপাতাড়ি গুলিতে একজন নিহত এবং ১২ বছরের এক কিশোরীসহ পাঁচজন আহত হন।",
+          "ফরাসি প্রেসিডেন্ট এমানুয়েল মাখোঁ এই ঘটনাকে বর্ণবাদী সন্ত্রাসী হামলা হিসেবে অভিহিত করে এর তীব্র নিন্দা জানান।",
+          "অভিযুক্ত ৩৯ বছর বয়সী সন্দেহভাজন হামলাকারীকে পুলিশ গ্রেপ্তার করেছে এবং ঘটনার উদ্দেশ্য খতিয়ে দেখা হচ্ছে।"
         ],
         "bullets_en": [
-          "The soldier remained trapped inside a trench for nearly eight months after losing his limbs during relentless attacks.",
-          "Named Kostyantyn Vlasenko, the soldier traveled hanging from a massive drone across a distance of fifteen kilometers.",
-          "He has been shifted to a safe location for advanced medical treatment and recovery following the rescue operation."
+          "One person was killed and five others, including a 12-year-old girl, were injured in random shootings in Paris suburbs.",
+          "French President Emmanuel Macron strongly condemned the incident, designating it as a racist terrorist attack.",
+          "Police arrested the 39-year-old suspected gunman as authorities launched an investigation into the motive."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাশিয়া ও ইউক্রেনের মধ্যকার চলমান যুদ্ধে সামনের সারির সেনাদের দুর্ভোগ ও টিকে থাকার লড়াইয়ের এক চাঞ্চল্যকর ঘটনা এটি। আধুনিক ড্রোন প্রযুক্তির বহুমুখী ব্যবহারের ফলে যুদ্ধক্ষেত্রে আহত সেনাদের উদ্ধার কার্যক্রমে নতুন মাত্রা যোগ হয়েছে, যা এমন রোমহর্ষক ও অসম্ভব মনে হওয়া উদ্ধার অভিযানকে সফল করে তুলেছে।",
-        "details_en": "This harrowing survival story highlights the brutal realities faced by frontline soldiers in the ongoing Russia-Ukraine war. The innovative use of heavy-duty drones for casualty evacuation demonstrates how modern battlefield technology is adapting to save lives in high-risk zones where traditional rescue vehicles cannot operate."
+        "impact_bn": "ফ্রান্সে বসবাসরত অভিবাসী ও সংখ্যালঘু জনগোষ্ঠীর মধ্যে নিরাপত্তা নিয়ে উদ্বেগ ও আতঙ্ক তৈরি হয়েছে।",
+        "impact_en": "Heightened security concerns and fear have emerged among immigrant and minority communities living in France.",
+        "details_bn": "ফ্রান্সের রাজধানী প্যারিসের দক্ষিণ-পশ্চিমে ত্রাপ ও লা ভেরিয়ের এলাকায় গাড়ি চালিয়ে প্রায় ১৫ মিনিট ধরে নির্বিচারে গুলি চালান এক বন্দুকধারী। অভিবাসী বংশোদ্ভূত ও নির্দিষ্ট ধর্মীয় পরিচয়ের মানুষদের লক্ষ্য করে এই হামলা চালানো হয় বলে প্রাথমিক তদন্তে জানা গেছে। ফরাসি জাতীয় সন্ত্রাসবিরোধী কৌঁসুলির দপ্তর ঘটনাটি সন্ত্রাসী কর্মকাণ্ড হিসেবে খতিয়ে দেখছে। সন্দেহভাজন হামলাকারীর বিরুদ্ধে পূর্বে অপরাধের রেকর্ড ছিল।",
+        "details_en": "A gunman opened fire indiscriminately from a car across the Trappes and La Verriere areas in the southwestern suburbs of Paris for about 15 minutes. Preliminary investigations suggest the attack targeted people of immigrant descent and specific religious backgrounds. The French national counter-terrorism prosecutor's office is investigating the incident as a potential terrorist act. The detained suspect has a prior criminal record."
       }
     },
     {
-      "story_id": "0ba1242b-6295-5d56-8590-078ef19bac6a",
-      "primary_category": "governance_law",
+      "story_id": "acabdf87-1a40-5238-b804-e14099b2908a",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/4d4irq8o_houthi_625x300_23_October_26.webp?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T03:52:55+00:00",
+      "published_at": "2026-10-24T04:52:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.896,
+      "importance_score": 4.8,
+      "rank_score": 1.7817,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976351/%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A7%A9",
-          "title": "দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে প্রাণ গেলো ৩ জনের",
-          "snippet": "দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে প্রাণ গেলো ৩ জনের"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/emergency-alert-in-saudi-arabia-following-attack-in-riyadh-houthis-unveil-new-weapon-epstein/",
+          "title": "রিয়াদে হামলায় সৌদি আরবে জরুরি সতর্কতা, হুথিদের নতুন কৌশল ‘এপস্টেইন’",
+          "snippet": "রিয়াদে হামলায় সৌদি আরবে জরুরি সতর্কতা, হুথিদের নতুন কৌশল ‘এপস্টেইন’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যশোরে দুই মোটরসাইকেলের মুখোমুখি সংঘর্ষে নিহত ৩",
-        "title_en": "Three Killed in Head-On Collision Between Two Motorcycles in Jashore",
-        "summary_bn": "যশোর-বেনাপোল মহাসড়কে দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে তিনজন নিহত ও দুজন গুরুতর আহত হয়েছেন।",
-        "summary_en": "Three people were killed and two others seriously injured in a head-on collision between two motorcycles on the Jashore-Benapole highway.",
+        "title_bn": "সৌদি আরবে হুথিদের ক্ষেপণাস্ত্র হামলা প্রতিহত, রিয়াদে জরুরি সতর্কতা জারি",
+        "title_en": "Saudi Air Defense Intercepts Houthi Missile, Issues Emergency Alert in Riyadh",
+        "summary_bn": "সৌদি নেতৃত্বাধীন জোট রিয়াদসহ তিনটি এলাকায় হুথিদের ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করেছে এবং দেশটিতে জরুরি সতর্কতা জারি করা হয়েছে।",
+        "summary_en": "The Saudi-led coalition intercepted a ballistic missile fired by Houthi rebels targeting Riyadh, prompting emergency alerts across three areas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T04:52:22+00:00",
+        "lead_bn": "সৌদি নেতৃত্বাধীন জোট রিয়াদসহ তিনটি এলাকায় হুথিদের ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করেছে এবং দেশটিতে জরুরি সতর্কতা জারি করা হয়েছে।",
+        "lead_en": "The Saudi-led coalition intercepted a ballistic missile fired by Houthi rebels targeting Riyadh, prompting emergency alerts across three areas.",
+        "bullets_bn": [
+          "সৌদি জোটের আকাশ প্রতিরক্ষাব্যবস্থা রিয়াদকে লক্ষ্য করে ছোড়া ব্যালিস্টিক ক্ষেপণাস্ত্র সফলভাবে প্রতিহত ও ধ্বংস করে।",
+          "নিরাপত্তাজনিত কারণে রিয়াদ, নাজরান ও ওয়াদি আল-দাওয়াসির এলাকায় তাৎক্ষণিক জরুরি সতর্কতা জারি করে বেসামরিক প্রতিরক্ষা কর্তৃপক্ষ।",
+          "সামরিক পদক্ষেপের পাশাপাশি জেফরি এপস্টেইন-সংশ্লিষ্ট নথি ব্যবহার করে সৌদি আরবের বিরুদ্ধে নতুন প্রচারণা শুরু করেছে হুথিরা।"
+        ],
+        "bullets_en": [
+          "The Saudi-led coalition air defense successfully intercepted and destroyed a ballistic missile targeting Riyadh.",
+          "Civil defense authorities issued emergency alerts in Riyadh, Najran, and Wadi al-Dawasir following the missile threat.",
+          "Houthi rebels have launched a new propaganda campaign against Saudi Arabia using Jeffrey Epstein-related documents."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার প্রেক্ষাপটে প্রবাসী বাংলাদেশিদের নিরাপত্তা নিয়ে বাড়তি সতর্কতা অবলম্বনের তাগিদ তৈরি হয়েছে।",
+        "impact_en": "The escalation highlights regional security risks and necessitates heightened caution for expatriate communities in the Gulf region.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীরা দীর্ঘদিন ধরে সৌদি আরবকে লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। সাম্প্রতিক সময়ে সামরিক পদক্ষেপের পাশাপাশি রাজনৈতিক ও ধর্মীয় সংবেদনশীলতা উসকে দিতে যুক্তরাষ্ট্রের জেফরি এপস্টেইন-সংশ্লিষ্ট নথিগুলোকে প্রচারণার নতুন হাতিয়ার হিসেবে ব্যবহার করছে গোষ্ঠীটি। কাবা শরিফের গিলাফ সংক্রান্ত একটি উপহারের বিতর্ককে কেন্দ্র করে সৌদি রাজদরবারকে বিব্রত করার চেষ্টা চালাচ্ছে তারা। তবে সৌদি আরব এই বিষয়ে প্রকাশ্যে কোনো প্রতিক্রিয়া জানায়নি।",
+        "details_en": "Yemen's Houthi rebels have frequently targeted Saudi Arabia with drones and ballistic missiles amid ongoing regional conflicts. Alongside military actions, the group has weaponized controversial documents related to Jeffrey Epstein to launch a psychological propaganda campaign against the Saudi leadership. By exploiting sensitive religious symbols like the Kaaba, the rebels aim to damage Saudi Arabia's international standing, though Riyadh has chosen not to publicly respond to these claims."
+      }
+    },
+    {
+      "story_id": "db93b55e-424c-5fbf-8eeb-a7072fb9ed1b",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T04:58:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9496,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/entertainment/news/1171301",
+          "title": "গুলির ঘটনায় প্রাণে বাঁচলেন আসিফ আকবর",
+          "snippet": "গুলির ঘটনায় প্রাণে বাঁচলেন আসিফ আকবর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দুর্বৃত্তের গুলিতে প্রাণে বেঁচে গেলেন সংগীতশিল্পী আসিফ আকবর",
+        "title_en": "Singer Asif Akbar Survives Gunshot Attack on Personal Car",
+        "summary_bn": "জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Popular singer and former BCB director Asif Akbar has narrowly escaped a gun attack on his personal vehicle.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T04:58:32+00:00",
+        "lead_bn": "জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Popular singer and former BCB director Asif Akbar has narrowly escaped a gun attack on his personal vehicle.",
+        "bullets_bn": [
+          "দুর্বৃত্তরা জনপ্রিয় সংগীতশিল্পী ও বিসিবির সাবেক পরিচালক আসিফ আকবরের ব্যক্তিগত গাড়ি লক্ষ্য করে গুলি চালায়।",
+          "ঘটনার সময় গাড়িতে উপস্থিত না থাকায় সংগীতশিল্পী আসিফ আকবর অক্ষত ও সম্পূর্ণ নিরাপদ রয়েছেন।",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী হামলাকারীদের শনাক্ত ও গ্রেফতারে তদন্ত শুরু করেছে।"
+        ],
+        "bullets_en": [
+          "Miscreants opened fire targeting the personal vehicle of popular singer and former BCB director Asif Akbar.",
+          "The singer escaped unhurt as he was not inside the vehicle during the time of the attack.",
+          "Law enforcement agencies have launched an investigation to identify and apprehend the attackers."
+        ],
+        "impact_bn": "সাংস্কৃতিক ব্যক্তিত্ব ও ক্রীড়া সংগঠকদের নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The incident raises renewed concerns regarding the personal security of cultural figures and sports organizers.",
+        "details_bn": "জনপ্রিয় সংগীতশিল্পী এবং বাংলাদেশ ক্রিকেট বোর্ডের (বিসিবি) সাবেক পরিচালক আসিফ আকবর দেশের সাংস্কৃতিক অঙ্গনে বেশ পরিচিত মুখ। তার ব্যক্তিগত গাড়ি লক্ষ্য করে এই হামলার ঘটনায় শোবিজ ও ক্রীড়া মহলে চাঞ্চল্যের সৃষ্টি হয়েছে। আইনশৃঙ্খলা বাহিনী ঘটনার প্রকৃত কারণ উদঘাটন ও জড়িতদের আইনের আওতায় আনতে কাজ করছে।",
+        "details_en": "Popular singer and former Bangladesh Cricket Board director Asif Akbar is a prominent figure in the country's cultural arena. This targeted attack on his vehicle has sparked widespread concern within showbiz and sports circles. Law enforcement authorities are actively investigating the incident to determine the motive and bring the perpetrators to justice."
+      }
+    },
+    {
+      "story_id": "84a16d53-5b22-5386-8dba-b8d14a17b22b",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "tags": [
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T04:57:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9391,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/jago-jobs/news/1171300",
+          "title": "ঢাকায় জনবল নেবে ব্র্যাকনেট, ফ্রেশার প্রার্থীদের আবেদনের সুযোগ",
+          "snippet": "ঢাকায় জনবল নেবে ব্র্যাকনেট, ফ্রেশার প্রার্থীদের আবেদনের সুযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জুনিয়র এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে ব্র্যাকনেট",
+        "title_en": "BracNet Issues Recruitment Notice for Junior Executive Positions",
+        "summary_bn": "তথ্যপ্রযুক্তি খাতের প্রতিষ্ঠান ব্র্যাকনেট লিমিটেড জুনিয়র এক্সিকিউটিভ বা এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "Information technology firm BracNet Limited has published a recruitment circular for junior executive and executive positions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T04:57:29+00:00",
+        "lead_bn": "তথ্যপ্রযুক্তি খাতের প্রতিষ্ঠান ব্র্যাকনেট লিমিটেড জুনিয়র এক্সিকিউটিভ বা এক্সিকিউটিভ পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "Information technology firm BracNet Limited has published a recruitment circular for junior executive and executive positions.",
+        "bullets_bn": [
+          "ব্র্যাকনেট লিমিটেডে জুনিয়র এক্সিকিউটিভ ও এক্সিকিউটিভ পদে কর্মী নিয়োগ দেওয়া হবে।",
+          "বিজ্ঞপ্তির শর্ত অনুযায়ী ফ্রেশার প্রার্থীরাও নির্দিষ্ট পদগুলোতে আবেদন করার সুযোগ পাবেন।",
+          "আগ্রহী প্রার্থীরা অনলাইনে নির্দিষ্ট সময়ের মধ্যে আবেদন সম্পন্ন করতে পারবেন।"
+        ],
+        "bullets_en": [
+          "BracNet Limited is hiring personnel for junior executive and executive roles.",
+          "Fresh graduates are eligible to apply for these positions according to the circular.",
+          "Interested candidates can submit their applications online within the designated timeframe."
+        ],
+        "impact_bn": "দেশের তথ্যপ্রযুক্তি খাতে চাকরিপ্রত্যাশী তরুণ ও ফ্রেশারদের জন্য নতুন কর্মসংস্থানের সুযোগ তৈরি হয়েছে।",
+        "impact_en": "New employment opportunities have been created for young job seekers and fresh graduates in the countrys IT sector.",
+        "details_bn": "তথ্যপ্রযুক্তিভিত্তিক সেবা প্রদানে দেশের শীর্ষস্থানীয় প্রতিষ্ঠানগুলোর মধ্যে ব্র্যাকনেট লিমিটেড অন্যতম। প্রতিষ্ঠানটি নিয়মিত তাদের কার্যক্রম সম্প্রসারণের অংশ হিসেবে দক্ষ তরুণ জনবল নিয়োগ দিয়ে থাকে। এর ধারাবাহিকতায় নতুন এই নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়েছে, যা দেশের শিক্ষিত যুবসমাজ ও প্রযুক্তি খাতের পেশাজীবীদের জন্য ক্যারিয়ার গড়ার সুযোগ তৈরি করবে।",
+        "details_en": "BracNet Limited is one of the leading IT service providers in the country. As part of its continuous service expansion, the company frequently recruits skilled young professionals. This newly released recruitment circular creates career development opportunities for educated youth and technology sector professionals in the country."
+      }
+    },
+    {
+      "story_id": "0cefdf95-2f19-57c1-a2b3-aa5ec0ab56cd",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Vincent-Kompany.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T04:56:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9275,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/bayern-munich-vincent-kompany-lead-sports/",
+          "title": "মাঠে অজ্ঞান, হাসপাতালে কেমন আছেন বায়ার্ন কোচ",
+          "snippet": "মাঠে অজ্ঞান, হাসপাতালে কেমন আছেন বায়ার্ন কোচ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অনুশীলন মাঠে অসুস্থ হয়ে হাসপাতালে ভর্তি বায়ার্ন কোচ ভিনসেন্ট কোম্পানি",
+        "title_en": "Bayern Munich Coach Vincent Kompany Hospitalized After Falling Ill on Pitch",
+        "summary_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি দলের অনুশীলন সেশন পরিদর্শনের সময় হঠাৎ অসুস্থ হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+        "summary_en": "Bayern Munich coach Vincent Kompany has been hospitalized after suddenly falling ill during a team training session.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T03:52:55+00:00",
-        "lead_bn": "যশোর-বেনাপোল মহাসড়কে দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষে তিনজন নিহত ও দুজন গুরুতর আহত হয়েছেন।",
-        "lead_en": "Three people were killed and two others seriously injured in a head-on collision between two motorcycles on the Jashore-Benapole highway.",
+        "published_at": "2026-10-24T04:56:18+00:00",
+        "lead_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি দলের অনুশীলন সেশন পরিদর্শনের সময় হঠাৎ অসুস্থ হয়ে হাসপাতালে ভর্তি হয়েছেন।",
+        "lead_en": "Bayern Munich coach Vincent Kompany has been hospitalized after suddenly falling ill during a team training session.",
         "bullets_bn": [
-          "যশোর সদর উপজেলার নতুনহাট মোড় এলাকায় দুটি মোটরসাইকেলের মুখোমুখি সংঘর্ষ ঘটে।",
-          "দুর্ঘটনায় ঘটনাস্থলেই তিনজনের মৃত্যু হয় এবং আরও দুজন গুরুতর আহত হন।",
-          "নিহতদের মধ্যে সিয়াম হোসেন নামে একজনের পরিচয় নিশ্চিত করা গেছে।"
+          "অসুস্থ হয়ে পড়ার পর বায়ার্ন কোচ ভিনসেন্ট কোম্পানিকে দ্রুত হাসপাতালে ভর্তি করা হয় এবং নিবিড় পর্যবেক্ষণে রাখা হয়েছে।",
+          "চল্লিশ বছর বয়সী এই কোচ একটি সংক্রামক ভাইরাসে ভুগছিলেন এবং নিজের শরীরের সংকেত উপেক্ষা করেছিলেন বলে ক্লাব জানায়।",
+          "কোম্পানির অনুপস্থিতিতে কোচিং স্টাফরা পরবর্তী নির্দেশ না দেওয়া পর্যন্ত দলের প্রশিক্ষণ ও ম্যাচ কার্যক্রম পরিচালনা করবেন।"
         ],
         "bullets_en": [
-          "A head-on collision occurred between two motorcycles near the Nothuhat intersection in Jashore Sadar upazila.",
-          "Three individuals died on the spot and two others sustained critical injuries in the crash.",
-          "The identity of one of the deceased victims has been confirmed as Siyam Hossain."
+          "Bayern coach Vincent Kompany was promptly hospitalized and placed under intensive medical observation after falling ill.",
+          "The 40-year-old coach had been suffering from an infection and previously ignored warning signs from his body.",
+          "Coaching staff will supervise training and match operations until further notice while Kompany recovers."
         ],
-        "impact_bn": "মহাসড়কে দ্রুতগতির যানবাহনের কারণে দুর্ঘটনা বৃদ্ধি পাওয়ায় সাধারণ যাত্রী ও চালকদের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
-        "impact_en": "Increased accidents caused by speeding vehicles on major highways raise severe safety concerns for daily commuters and drivers.",
-        "details_bn": "যশোর-বেনাপোল মহাসড়কটি অত্যন্ত ব্যস্ততম একটি রুট হওয়ায় প্রায়ই এখানে দ্রুতগতির যান চলাচলের কারণে মর্মান্তিক সড়ক দুর্ঘটনা ঘটে। সাম্প্রতিক সময়ে বেপরোয়া ড্রাইভিয়ে এবং ট্রাফিক আইন অমান্য করার প্রবণতা বৃদ্ধির ফলে এই ধরনের প্রাণঘাতী সংঘর্ষের সংখ্যা উদ্বেগজনক হারে বেড়ে চলেছে, যা স্থানীয় প্রশাসন ও সাধারণ মানুষের জন্য বড় উদ্বেগের বিষয় হয়ে দাঁড়িয়েছে।",
-        "details_en": "The Jashore-Benapole highway is a high-traffic corridor where speeding vehicles frequently lead to tragic road accidents. In recent times, reckless driving and the tendency to flout traffic regulations have contributed to a worrying rise in fatal collisions, raising serious concerns for local authorities and commuters alike."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বায়ার্ন মিউনিখের কোচ ভিনসেন্ট কোম্পানি গত সপ্তাহ থেকে পায়ে প্রভাব ফেলা একটি সংক্রমণে ভুগছিলেন। তিনি আর্সেনালের বিপক্ষে চ্যাম্পিয়নস লিগের ম্যাচেও মাঠের বাইরে ছিলেন এবং তার দায়িত্ব পালন করেছিলেন সহকারী কোচ অ্যারন ড্যাঙ্কস। ক্লাব কর্তৃপক্ষ জানিয়েছে, কোম্পানির স্বাস্থ্য তাদের সর্বোচ্চ অগ্রাধিকার এবং তাকে সুস্থ হওয়ার জন্য প্রয়োজনীয় সব সময় দেওয়া হবে।",
+        "details_en": "Bayern Munich coach Vincent Kompany had been suffering from an infection affecting his leg since the previous week. He missed the Champions League match against Arsenal, with assistant coach Aaron Danks stepping in to manage team duties. Club management emphasized that Kompany's health remains their absolute priority, and he will be given all the time necessary for a full recovery."
+      }
+    },
+    {
+      "story_id": "2b134e95-f5b5-59e4-bdaa-c531c81b8515",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/1792812284-4b62c9426992095bbffce02e80b178b6.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T04:55:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9188,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/a-half-day-road-blockade-is-underway-in-khagrachhari-and-rangamati/",
+          "title": "খাগড়াছড়ি-রাঙামাটিতে চলছে আধাবেলা সড়ক অবরোধ",
+          "snippet": "খাগড়াছড়ি-রাঙামাটিতে চলছে আধাবেলা সড়ক অবরোধ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "খাগড়াছড়ি ও রাঙামাটিতে ছাত্র-জনতার আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত",
+        "title_en": "Half-day road and waterway blockade observed in Khagrachari and Rangamati",
+        "summary_bn": "সাজেকের ঘটনায় হামলা ও ভাঙচুরের প্রতিবাদে খাগড়াছড়ি ও রাঙামাটি জেলায় আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত হচ্ছে।",
+        "summary_en": "A half-day road and waterway blockade is underway in Khagrachari and Rangamati to protest attacks and vandalism.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T04:55:23+00:00",
+        "lead_bn": "সাজেকের ঘটনায় হামলা ও ভাঙচুরের প্রতিবাদে খাগড়াছড়ি ও রাঙামাটি জেলায় আধাবেলা সড়ক ও নৌপথ অবরোধ পালিত হচ্ছে।",
+        "lead_en": "A half-day road and waterway blockade is underway in Khagrachari and Rangamati to protest attacks and vandalism.",
+        "bullets_bn": [
+          "হামলা, লাঠিপেটা এবং ঘরবাড়ি ভাঙচুরের প্রতিবাদে ছাত্র-জনতার সংগ্রাম পরিষদ এই অর্ধদিবস অবরোধের ডাক দেয়।",
+          "অবরোধের কারণে খাগড়াছড়ি থেকে কোনো দূরপাল্লার বাস ছেড়ে যায়নি এবং বিভিন্ন স্থানে সড়কে টায়ার জ্বালিয়ে বিক্ষোভ করা হয়।",
+          "আইনশৃঙ্খলা বাহিনীর পাহারায় ঢাকা থেকে আসা রাতের বাসগুলো নির্দিষ্ট গন্তব্যে পৌঁছায়।"
+        ],
+        "bullets_en": [
+          "The Chhatra-Janata Sangram Parishad called the half-day blockade to protest recent attacks, baton charges, and vandalism.",
+          "Long-distance buses remained suspended from Khagrachari while demonstrators burned tires on roads to enforce the shutdown.",
+          "Night coaches arriving from Dhaka reached Khagrachari safely under police escort."
+        ],
+        "impact_bn": "অবরোধের কারণে দূরপাল্লার যান চলাচল ব্যাহত হওয়ায় সাধারণ যাত্রী ও পর্যটকরা সাময়িক ভোগান্তিতে পড়েন।",
+        "impact_en": "Ordinary commuters and travelers faced temporary disruptions as long-distance transport services remained suspended during the shutdown.",
+        "details_bn": "সাজেকর পর্যটনকেন্দ্র বন্ধ রাখা এবং সাজেক সড়কে আইনশৃঙ্খলা বাহিনীর সঙ্গে সংঘর্ষের জেরে এই পরিস্থিতির সৃষ্টি হয়। গণঅধিকার রক্ষা কমিটি ও কারবারি অ্যাসোসিয়েশনের ডাকা পূর্বের কর্মসূচি চলাকালীন সংঘর্ষ, হামলা এবং ঘরবাড়ি ভাঙচুরের ঘটনার প্রতিবাদে এই নতুন অবরোধ কর্মসূচি আসে। এর ফলে পাহাড়ি জনপদে যাতায়াত ও স্বাভাবিক কার্যক্রম সাময়িকভাবে থমকে যায়।",
+        "details_en": "The tensions escalated following clashes between security forces and protesters on the Sajek road during an earlier shutdown. The protests and subsequent blockade were called by local platforms to denounce alleged attacks, baton charges, and vandalism of homes and shops during preceding demonstrations, causing significant disruptions to normal life in the hill districts."
       }
     }
   ]
