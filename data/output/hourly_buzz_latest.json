@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-10-24T10:14:16.532218",
+  "updated_at": "2026-10-24T11:00:46.367168",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "5ca8ec3b-edea-5126-a147-a31aedd14949",
+      "story_id": "b29293b5-7593-5694-8dd3-72b1b2f0e64a",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "tags": [
         "#Bangladesh",
@@ -14,160 +15,219 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T09:52:35+00:00",
+      "published_at": "2026-10-24T10:52:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1552,
+      "importance_score": 4.8,
+      "rank_score": 1.7836,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171428",
-          "title": "জয় বাংলার ভিডিও নিয়ে বিপাকে প্রধানমন্ত্রীর সঙ্গে হাত মেলানো রাজু গাজী",
-          "snippet": "জয় বাংলার ভিডিও নিয়ে বিপাকে প্রধানমন্ত্রীর সঙ্গে হাত মেলানো রাজু গাজী"
+          "url": "https://www.jagonews24.com/country/news/1171456",
+          "title": "রোহিঙ্গা ক্যাম্প থেকে ইসলামি মাহাজ দলের প্রধান রফিক গ্রেফতার",
+          "snippet": "রোহিঙ্গা ক্যাম্প থেকে ইসলামি মাহাজ দলের প্রধান রফিক গ্রেফতার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জয় বাংলার ভিডিও ভাইরাল হওয়ায় বিপাকে রাজু গাজী",
-        "title_en": "Raju Gazi Faces Trouble Over Viral Joy Bangla Video",
-        "summary_bn": "প্রধানমন্ত্রীর সঙ্গে হাত মেলানোর দাবি করা রাজু গাজী জয় বাংলা স্লোগান দেওয়া একটি ভিডিও ভাইরাল হওয়ার পর সমালোচনার মুখে পড়েছেন।",
-        "summary_en": "Raju Gazi, who claimed to shake hands with the prime minister, faces backlash after a video of him chanting Joy Bangla went viral.",
+        "title_bn": "রোহিঙ্গা ক্যাম্প থেকে ইসলামি মাহাজ দলের প্রধান রফিক গ্রেফতার",
+        "title_en": "Islami Mahaj Dal Chief Rafiq Arrested From Rohingya Camp",
+        "summary_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্প থেকে এপিবিএন পুলিশ নিষিদ্ধ সংগঠনের প্রধান মো. রফিককে গ্রেফতার করেছে।",
+        "summary_en": "Armed Police Battalion arrested Islami Mahaj Dal chief Md Rafiq from a Rohingya camp in Ukhia, Cox's Bazar.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T09:52:35+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর সঙ্গে হাত মেলানোর দাবি করা রাজু গাজী জয় বাংলা স্লোগান দেওয়া একটি ভিডিও ভাইরাল হওয়ার পর সমালোচনার মুখে পড়েছেন।",
-        "lead_en": "Raju Gazi, who claimed to shake hands with the prime minister, faces backlash after a video of him chanting Joy Bangla went viral.",
+        "published_at": "2026-10-24T10:52:32+00:00",
+        "lead_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্প থেকে এপিবিএন পুলিশ নিষিদ্ধ সংগঠনের প্রধান মো. রফিককে গ্রেফতার করেছে।",
+        "lead_en": "Armed Police Battalion arrested Islami Mahaj Dal chief Md Rafiq from a Rohingya camp in Ukhia, Cox's Bazar.",
         "bullets_bn": [
-          "ভাইরাল হওয়া ভিডিওটিতে রাজু গাজীকে জয় বাংলা স্লোগান দিতে দেখা যায়",
-          "এর আগে তিনি সরকারের শীর্ষ নেতার সাথে হাত মেলানোর দাবি করে আলোচনায় এসেছিলেন",
-          "সামাজিক যোগাযোগমাধ্যমে ভিডিও ছড়িয়ে পড়ার পর থেকেই তিনি নানামুখী সমালোচনার মুখোমুখি হয়েছেন"
+          "এপিবিএন পুলিশ উখিয়ার বালুখালী পানবাজার এলাকা থেকে মো. রফিককে আটক করে।",
+          "গ্রেফতারকৃত রফিক ইসলামি মাহাজ দলের প্রধান হিসেবে রোহিঙ্গা ক্যাম্পে সক্রিয় ছিলেন।",
+          "আইনি প্রক্রিয়া সম্পন্ন করার পর তাকে সংশ্লিষ্ট থানায় হস্তান্তর করা হয়েছে।"
         ],
         "bullets_en": [
-          "Raju Gazi was seen chanting the Joy Bangla slogan in the widely circulated video",
-          "He previously drew attention by claiming to have shaken hands with a top government leader",
-          "He has faced severe public criticism across social media platforms following the video release"
+          "Armed Police Battalion apprehended Md Rafiq from the Balukhali Panbazar area in Ukhia.",
+          "The detained individual was operating inside the Rohingya camp as the chief of Islami Mahaj Dal.",
+          "He was handed over to the local police station after completing necessary legal procedures."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে নানা রকম রাজনৈতিক স্লোগান ও মন্তব্য ঘিরে প্রায়ই বিভিন্ন ব্যক্তি আলোচনা ও সমালোচনার কেন্দ্রবিন্দুতে আসেন। সাম্প্রতিক সময়ে তেমনি এক ভিডিওর সুবাদে রাজু গাজী জনসমক্ষে নতুন করে বিতর্কের মুখে পড়েছেন, যা ডিজিটাল মাধ্যমে ব্যাপক প্রতিক্রিয়ার সৃষ্টি করেছে।",
-        "details_en": "Individuals frequently become centers of discussion and criticism on social media due to various political slogans and remarks. Raju Gazi has recently faced renewed public controversy following the circulation of such a video, generating widespread reactions across digital platforms."
+        "impact_bn": "ক্যাম্প এলাকায় উগ্রপন্থীদের তৎপরতা রোধ ও নিরাপত্তা জোরদারে এই গ্রেফতার গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "impact_en": "This arrest plays a crucial role in curbing extremist activities and strengthening security within the camp area.",
+        "details_bn": "কক্সবাজারের উখিয়া ও টেকনাফের রোহিঙ্গা ক্যাম্পগুলোতে দীর্ঘদিন ধরে বিভিন্ন উগ্রপন্থী ও অপরাধ চক্রের তৎপরতা রয়েছে। আইন শৃঙ্খলা বাহিনী ক্যাম্পের অভ্যন্তরীণ নিরাপত্তা নিশ্চিত করতে এবং অপরাধমূলক কর্মকাণ্ড দমনে নিয়মিত অভিযান পরিচালনা করে আসছে। এ ধরনের অভিযানে প্রায়ই বিভিন্ন সংগঠনের শীর্ষ নেতারা আটক হচ্ছে।",
+        "details_en": "Rohingya camps in Ukhia and Teknaf of Cox's Bazar have long witnessed activities by various extremist and criminal syndicates. Law enforcement agencies regularly conduct operations to ensure internal security and suppress criminal activities within the camps, frequently detaining key leaders of various factions."
       }
     },
     {
-      "story_id": "7c21899a-1047-532d-be77-cb2359a1ff5d",
+      "story_id": "757d22f0-7358-5948-82a1-8fa7c15e9b50",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/3-idiots.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T10:59:35+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9597,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/aamir-khan-gets-emotional-at-singapore-film-festival-hints-at-3-idiots-sequel/",
+          "title": "‘থ্রি ইডিয়টস’র সিক্যুয়েল নিয়ে আমিরের বড় ঘোষণা!",
+          "snippet": "‘থ্রি ইডিয়টস’র সিক্যুয়েল নিয়ে আমিরের বড় ঘোষণা!"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "থ্রি ইডিয়টস ছবির সিক্যুয়েলের চিত্রনাট্য নিয়ে বড় ঘোষণা দিলেন অভিনেতা আমির খান",
+        "title_en": "Actor Aamir Khan Announces Major Update Regarding Three Idiots Sequel Script",
+        "summary_bn": "বলিউড অভিনেতা আমির খান জনপ্রিয় চলচ্চিত্র থ্রি ইডিয়টস সিক্যুয়েলের চূড়ান্ত চিত্রনাট্য খুব শীঘ্রই শোনার ঘোষণা দিয়েছেন।",
+        "summary_en": "Bollywood actor Aamir Khan announced that he is awaiting the final script for the much-anticipated Three Idiots sequel.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T10:59:35+00:00",
+        "lead_bn": "বলিউড অভিনেতা আমির খান জনপ্রিয় চলচ্চিত্র থ্রি ইডিয়টস সিক্যুয়েলের চূড়ান্ত চিত্রনাট্য খুব শীঘ্রই শোনার ঘোষণা দিয়েছেন।",
+        "lead_en": "Bollywood actor Aamir Khan announced that he is awaiting the final script for the much-anticipated Three Idiots sequel.",
+        "bullets_bn": [
+          "পরিচালক রাজকুমার হিরানী থ্রি ইডিয়টস ছবির সিক্যুয়েল তৈরির জন্য চিত্রনাট্য লেখার কাজ চালিয়ে যাচ্ছেন।",
+          "আমির খান আগামী কয়েক সপ্তাহের মধ্যে ছবির চিত্রনাট্যের চূড়ান্ত খসড়া হাতে পাওয়ার আশা প্রকাশ করেছেন।",
+          "চিত্রনাট্য চূড়ান্ত হওয়ার পর নির্মাতা ও অভিনেতা জুটি পরবর্তী পদক্ষেপ গ্রহণের সিদ্ধান্ত নেবেন।"
+        ],
+        "bullets_en": [
+          "Director Rajkumar Hirani is actively developing the script for the sequel to the hit film Three Idiots.",
+          "Aamir Khan expects to review the final draft of the upcoming film script within the next few weeks.",
+          "The core team will decide on the production timeline once the script evaluation is successfully completed."
+        ],
+        "impact_bn": "চলচ্চিত্রপ্রেমী তরুণ ও দর্শকরা কালজয়ী এই সিনেমার নতুন সিক্যুয়েল নিয়ে নতুন করে আগ্রহ প্রকাশ করছেন।",
+        "impact_en": "Movie enthusiasts and fans are eagerly anticipating the continuation of the iconic film's storyline.",
+        "details_bn": "সালে মুক্তি পাওয়া রাজকুমার হিরানী পরিচালিত থ্রি ইডিয়টস ছবিটি বক্স অফিসে বিশাল সাফল্য অর্জন করে এবং ইঞ্জিনিয়ারিং শিক্ষার্থীদের জীবন নিয়ে দেশজুড়ে ব্যাপক আলোচনা তৈরি করে। এই ছবির সাফল্যের পর ২০১৪ সালে পিকে চলচ্চিত্রে আবারও একসঙ্গে কাজ করেন আমির খান ও রাজকুমার হিরানী। দীর্ঘ দিন ধরে এই জুটির পরবর্তী কাজ নিয়ে দর্শকদের মাঝে ব্যাপক কৌতূহল রয়েছে।",
+        "details_en": "Released in 2009, the Rajkumar Hirani-directed film Three Idiots achieved massive commercial success while highlighting the pressures faced by engineering students. Following this milestone, Aamir Khan and Rajkumar Hirani collaborated again on the hit movie PK in 2014. Fans have awaited a new project from this creative duo for years."
+      }
+    },
+    {
+      "story_id": "e009abf5-778b-566a-8888-50b7030218fd",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "society_education"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%B6%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%93%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A6.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T10:08:39+00:00",
+      "published_at": "2026-10-24T10:54:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8324,
+      "importance_score": 2.4,
+      "rank_score": 0.9086,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171440",
-          "title": "সৌদি আরবের দুই শহর লক্ষ্য করে ক্ষেপণাস্ত্র হামলা",
-          "snippet": "সৌদি আরবের দুই শহর লক্ষ্য করে ক্ষেপণাস্ত্র হামলা"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/foreign-ministry-decides-to-recall-the-ambassador-shama-obaed/",
+          "title": "রাষ্ট্রদূতকে ফিরিয়ে আনার সিদ্ধান্ত পররাষ্ট্র মন্ত্রণালয়ের: শামা ওবায়েদ",
+          "snippet": "রাষ্ট্রদূতকে ফিরিয়ে আনার সিদ্ধান্ত পররাষ্ট্র মন্ত্রণালয়ের: শামা ওবায়েদ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবের তাইফ ও ইয়ানবু শহরে হুথি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলা",
-        "title_en": "Yemeni Houthi Rebels Launch Missile Attacks on Saudi Arabian Cities",
-        "summary_bn": "সৌদি আরবের দুটি শহর লক্ষ্য করে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইয়েমেনের হুথি বিদ্রোহীরা, যা প্রতিহত করেছে সামরিক জোট।",
-        "summary_en": "Yemeni Houthi rebels launched missile attacks targeting two Saudi Arabian cities, which were intercepted by the military coalition.",
+        "title_bn": "টোকিওতে নিযুক্ত বাংলাদেশের রাষ্ট্রদূতকে ঢাকায় ফিরিয়ে আনার সিদ্ধান্ত পররাষ্ট্র মন্ত্রণালয়ের",
+        "title_en": "Foreign Ministry decides to recall Bangladesh ambassador in Tokyo",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের আগে টোকিওতে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত মো. দাউদ আলীকে ঢাকায় ফিরিয়ে আনার সিদ্ধান্ত নিয়েছে পররাষ্ট্র মন্ত্রণালয়।",
+        "summary_en": "The Foreign Ministry has decided to recall Bangladesh Ambassador to Tokyo, Md. Daud Ali, ahead of Prime Minister Tarique Rahman's Japan visit.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T10:08:39+00:00",
-        "lead_bn": "সৌদি আরবের দুটি শহর লক্ষ্য করে ক্ষেপণাস্ত্র হামলা চালিয়েছে ইয়েমেনের হুথি বিদ্রোহীরা, যা প্রতিহত করেছে সামরিক জোট।",
-        "lead_en": "Yemeni Houthi rebels launched missile attacks targeting two Saudi Arabian cities, which were intercepted by the military coalition.",
+        "published_at": "2026-10-24T10:54:22+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের আগে টোকিওতে নিযুক্ত বাংলাদেশের রাষ্ট্রদূত মো. দাউদ আলীকে ঢাকায় ফিরিয়ে আনার সিদ্ধান্ত নিয়েছে পররাষ্ট্র মন্ত্রণালয়।",
+        "lead_en": "The Foreign Ministry has decided to recall Bangladesh Ambassador to Tokyo, Md. Daud Ali, ahead of Prime Minister Tarique Rahman's Japan visit.",
         "bullets_bn": [
-          "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের তাইফ ও ইয়ানবু শহর লক্ষ্য করে ক্ষেপণাস্ত্র নিক্ষেপ করে",
-          "সৌদি নেতৃত্বাধীন সামরিক জোট আকাশে দুটি ব্যালিস্টিক ক্ষেপণাস্ত্র সফলভাবে প্রতিহত ও ধ্বংস করেছে",
-          "এই হামলার ফলে তাৎক্ষণিকভাবে কোনো হতাহত বা বড় ধরনের ক্ষয়ক্ষতির খবর পাওয়া যায়নি"
+          "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের প্রাক্কালে টোকিওতে নিযুক্ত রাষ্ট্রদূত মো. দাউদ আলীকে ঢাকায় ফিরিয়ে আনার সিদ্ধান্ত নেওয়া হয়েছে।",
+          "পররাষ্ট্র প্রতিমন্ত্রী শামা ওবায়েদ ইসলাম জানিয়েছেন এটি পররাষ্ট্র মন্ত্রণালয়ের নিজস্ব সিদ্ধান্ত এবং এই সফরের মাধ্যমে নতুন বিনিয়োগের সম্ভাবনা তৈরি হবে।",
+          "প্রধানমন্ত্রী ২৬ থেকে ২৯ অক্টোবর জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে জাপান সফর করবেন।"
         ],
         "bullets_en": [
-          "Yemeni Houthi rebels launched missile attacks targeting the Saudi cities of Taif and Yanbu",
-          "The Saudi-led military coalition successfully intercepted and destroyed two ballistic missiles in mid-air",
-          "No immediate casualties or major structural damages were reported following the failed missile strikes"
+          "Ambassador Md. Daud Ali in Tokyo is being recalled to Dhaka ahead of Prime Minister Tarique Rahman's upcoming Japan visit.",
+          "State Minister for Foreign Affairs Shama Obaid Islam stated this is an independent decision of the foreign ministry aimed at boosting new investments.",
+          "The Prime Minister will visit Japan from October 26 to 29 at the invitation of Japanese Prime Minister Sanae Takaichi."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইয়েমেনে সৌদি নেতৃত্বাধীন সামরিক জোটের হস্তক্ষেপের পর থেকে হুথি বিদ্রোহীরা প্রায়ই সৌদি আরবের তেল স্থাপনা ও জনবহুল এলাকায় ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। আঞ্চলিক এই সংঘাতে মধ্যপ্রাচ্যের নিরাপত্তা পরিস্থিতি দীর্ঘদিন ধরে উত্তপ্ত রয়েছে এবং আন্তর্জাতিক সম্প্রদায় এই হামলা বন্ধের জন্য কূটনৈতিক প্রচেষ্টা চালিয়ে যাচ্ছে।",
-        "details_en": "Since the military intervention by the Saudi-led coalition in Yemen, Houthi rebels have frequently launched drone and missile attacks targeting Saudi infrastructure and urban areas. This regional conflict has kept Middle Eastern security volatile, with the international community continuously urging diplomatic solutions to halt these cross-border strikes."
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরকে কেন্দ্র করে দ্বিপক্ষীয় সম্পর্ক ও কূটনৈতিক প্রস্তুতির অংশ হিসেবে এই সিদ্ধান্ত নেওয়া হয়েছে। এর পাশাপাশি জলবায়ু পরিবর্তন ইস্যু এবং কপ-৩১ সম্মেলনে বাংলাদেশের অংশগ্রহণ ও জাতীয় অবস্থান তুলে ধরতে সরকার প্রস্তুতি নিচ্ছে। পরিবেশবান্ধব পাটজাত পণ্যের বৈশ্বিক সম্ভাবনা এবং জলবায়ু তহবিলের দাবি জোরালো করতে পররাষ্ট্র ও পরিবেশ মন্ত্রণালয় যৌথভাবে কাজ করছে।",
+        "details_en": "This diplomatic decision comes ahead of Prime Minister Tarique Rahman's upcoming visit to Japan aimed at enhancing bilateral relations and investment prospects. Meanwhile, the government is preparing its national stance for the upcoming COP-31 conference, focusing on climate adaptation, energy transition, and promoting eco-friendly jute products globally through inter-ministerial coordination."
       }
     },
     {
-      "story_id": "65ff0e5d-00cc-5fa7-ba5c-cf6c8b81bc07",
-      "primary_category": "economy_business",
+      "story_id": "1477bbc0-af64-5583-8577-d11c22984f4c",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "climate_environment"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fquluvcv2%2FChuadanga.jpg?rect=0%2C565%2C5000%2C2625&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/Health-Minister.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-24T09:20:15+00:00",
+      "published_at": "2026-10-24T10:52:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2004,
+      "importance_score": 2.4,
+      "rank_score": 0.887,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/ll5uh0o6yq",
-          "title": "পেট্রলপাম্প থেকে তেল নিয়ে পালাচ্ছিলেন দুজন, পাঁচ কিলোমিটার ধাওয়া করে আটক",
-          "snippet": "পেট্রলপাম্প থেকে তেল নিয়ে পালাচ্ছিলেন দুজন, পাঁচ কিলোমিটার ধাওয়া করে আটক"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/health-minister-expresses-displeasure-over-mismanagement-at-mymensingh-medical-college-hospital-orders-an-investigation/",
+          "title": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে অব্যবস্থাপনায় ক্ষুব্ধ স্বাস্থ্যমন্ত্রী, তদন্তের নির্দেশ",
+          "snippet": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালে অব্যবস্থাপনায় ক্ষুব্ধ স্বাস্থ্যমন্ত্রী, তদন্তের নির্দেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চুয়াডাঙ্গায় তেল নিয়ে টাকা না দিয়ে পালানোর সময় দুজন আটক",
-        "title_en": "Two Detained After Fleeing Without Paying for Fuel in Chuadanga",
-        "summary_bn": "চুয়াডাঙ্গায় দুটি ফিলিং স্টেশন থেকে টাকা না দিয়ে জ্বালানি তেল নিয়ে পালানোর সময় পাঁচ কিলোমিটার ধাওয়া করে দুজনকে আটক করেছে স্থানীয়রা।",
-        "summary_en": "Locals detained two individuals after a five-kilometer chase for fleeing two filling stations with fuel without making payments in Chuadanga.",
+        "title_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালের অব্যবস্থাপনায় স্বাস্থ্যমন্ত্রীর ক্ষোভ ও তদন্তের নির্দেশ",
+        "title_en": "Health Minister Expresses Anger Over Mymensingh Medical College Hospital Mismanagement",
+        "summary_bn": "স্বাস্থ্যমন্ত্রী সর্দার সাখাওয়াত হোসেন ময়মনসিংহ মেডিকেল কলেজ হাসপাতালের অব্যবস্থাপনা ও চিকিৎসাসামগ্রী ময়লার ভাগাড়ে পাওয়ার ঘটনায় দ্রুত তদন্তের নির্দেশ দিয়েছেন।",
+        "summary_en": "Health Minister Sardar Sakhawat Hossain ordered a swift probe into mismanagement and dumped medical supplies at Mymensingh Medical College Hospital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "climate_environment"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T09:20:15+00:00",
-        "lead_bn": "চুয়াডাঙ্গায় দুটি ফিলিং স্টেশন থেকে টাকা না দিয়ে জ্বালানি তেল নিয়ে পালানোর সময় পাঁচ কিলোমিটার ধাওয়া করে দুজনকে আটক করেছে স্থানীয়রা।",
-        "lead_en": "Locals detained two individuals after a five-kilometer chase for fleeing two filling stations with fuel without making payments in Chuadanga.",
+        "published_at": "2026-10-24T10:52:00+00:00",
+        "lead_bn": "স্বাস্থ্যমন্ত্রী সর্দার সাখাওয়াত হোসেন ময়মনসিংহ মেডিকেল কলেজ হাসপাতালের অব্যবস্থাপনা ও চিকিৎসাসামগ্রী ময়লার ভাগাড়ে পাওয়ার ঘটনায় দ্রুত তদন্তের নির্দেশ দিয়েছেন।",
+        "lead_en": "Health Minister Sardar Sakhawat Hossain ordered a swift probe into mismanagement and dumped medical supplies at Mymensingh Medical College Hospital.",
         "bullets_bn": [
-          "ফিলিং স্টেশন থেকে তেল নিয়ে টাকা পরিশোধ না করে পালিয়ে যাওয়ার সময় স্থানীয় লোকজন দুজনকে ধাওয়া করে ধরে ফেলেন।",
-          "অভিযুক্ত ব্যক্তিরা চুয়াডাঙ্গা ফিলিং স্টেশন ও হাইওয়ে ফিলিং স্টেশন থেকে মোট ১ হাজার ৭৫০ টাকার তেল নেন।",
-          "আটক ব্যক্তিদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের জন্য থানায় লিখিত অভিযোগ দায়ের করা হয়েছে এবং পুলিশ বিষয়টি তদন্ত করছে।"
+          "হাসপাতালে চিকিৎসাসামগ্রী ময়লার ভাগাড়ে পাওয়া এবং চিকিৎসক ও নার্সদের সময়মতো উপস্থিত না হওয়ায় ক্ষোভ প্রকাশ করেন স্বাস্থ্যমন্ত্রী।",
+          "অব্যবস্থাপনার ঘটনায় দ্রুত তদন্ত করে প্রতিবেদন জমা দেওয়ার নির্দেশ এবং দায়িত্বে অবহেলাকারীদের বিরুদ্ধে কঠোর ব্যবস্থা নেওয়ার ঘোষণা দেওয়া হয়।",
+          "হাসপাতালের গাইনি ওয়ার্ডে রোগীর বাইরে থেকে স্যালাইন কেনার কারণ জানতে চেয়ে হাসপাতাল কর্তৃপক্ষকে প্রয়োজনীয় ব্যবস্থা নেওয়ার নির্দেশ দেওয়া হয়।"
         ],
         "bullets_en": [
-          "Locals chased and captured two individuals who fled from filling stations after taking fuel without paying.",
-          "The suspects took fuel worth a total of 1,750 taka from Chuadanga Filling Station and Highway Filling Station.",
-          "A written complaint has been filed at the police station against the detainees, and legal proceedings are underway."
+          "The Health Minister expressed strong displeasure over dumped medical supplies and delayed attendance by doctors and nurses.",
+          "He ordered an immediate investigation report on the mismanagement and warned of strict action against negligence.",
+          "He questioned authorities regarding patients buying saline externally in the gynaecology ward and ordered corrective measures."
         ],
-        "impact_bn": "জ্বালানি তেল ব্যবসায়ীদের নিরাপত্তা ও পাম্পে প্রতারণা রোধে এ ধরনের ঘটনা প্রশাসনের কঠোর নজরদারির প্রয়োজনীয়তা তুলে ধরে।",
-        "impact_en": "Such incidents highlight the need for enhanced security at fuel stations to prevent fraud and protect business owners.",
-        "details_bn": "চুয়াডাঙ্গা ও ঝিনাইদহ অঞ্চলের বিভিন্ন ফিলিং স্টেশনে প্রতারণা করে টাকা পরিশোধ না করে পালিয়ে যাওয়ার ঘটনা সম্প্রতি বৃদ্ধি পেয়েছে। এই ঘটনার প্রেক্ষাপটে পাম্প মালিকরা নিজেদের মধ্যে যোগাযোগ বাড়িয়ে নিরাপত্তা জোরদার করেছেন। চুয়াডাঙ্গা সদর উপজেলার বিভিন্ন মহাসড়কে অবস্থিত পাম্পগুলোতে এ ধরনের প্রতারণা রোধে সজাগ দৃষ্টি রাখা হচ্ছে এবং পুলিশ প্রশাসন দ্রুত আইনি পদক্ষেপ গ্রহণ করছে।",
-        "details_en": "Incidents of fraud involving individuals fleeing fuel stations without paying have recently raised concerns in Chuadanga and Jhenaidah regions. In response, filling station owners have improved communication networks to track down suspects and enhance security. Local authorities and police are actively monitoring major highways to prevent similar deceptive practices and ensure immediate legal accountability."
+        "impact_bn": "সাধারণ রোগীরা সরকারি হাসপাতালে উন্নত সেবা ও জবাবদিহিতা নিশ্চিত হওয়ার পাশাপাশি চিকিৎসা উপকরণের অপচয় রোধের সুফল পাবেন।",
+        "impact_en": "Ordinary patients will benefit from improved accountability and reduced waste of medical supplies in public healthcare facilities.",
+        "details_bn": "ময়মনসিংহ মেডিকেল কলেজ হাসপাতালের আকস্মিক পরিদর্শনে গিয়ে লেবার ওয়ার্ড, আইসোলেশন ও ডেঙ্গু ওয়ার্ড ঘুরে দেখেন স্বাস্থ্যমন্ত্রী। এ সময় নতুন ভবনের নিচতলায় ময়লা-আবর্জনা এবং ক্যানুলা ও সিরিঞ্জের মতো চিকিৎসা সরঞ্জাম যত্রতত্র পড়ে থাকতে দেখা যায়। পাশাপাশি অগ্নিকাণ্ডের এক মাস পেরিয়ে গেলেও তদন্ত প্রতিবেদন জমা না দেওয়ায় অসন্তোষ প্রকাশ করেন তিনি।",
+        "details_en": "During a surprise visit, the Health Minister inspected various wards of Mymensingh Medical College Hospital and discovered discarded medical supplies scattered around the premises. He also expressed dissatisfaction over delayed attendance by staff and the pending investigation report regarding a prior hospital fire incident."
       }
     },
     {
-      "story_id": "a099efe4-faa2-5b9e-815f-0b762ceb01fa",
+      "story_id": "31109e8e-30ad-5ae9-acb9-43d265361b94",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -176,156 +236,104 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F1cg0whrk%2FNiaz-Ahmed-Khan.jpeg?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Faz15jq0h%2FWhatsApp-Image-2026-10-24-at-16.37.11.jpeg?rect=69%2C0%2C596%2C313&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T10:14:03+00:00",
+      "published_at": "2026-10-24T10:50:15+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.97,
+      "rank_score": 0.8716,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/wpo8jc0k1e",
-          "title": "গণ-অভ্যুত্থানের পরাজিত শক্তি শক্তিশালী, অস্তিত্বের জন্য পরস্পরের হাত ধরে রাখা দরকার: নিয়াজ আহমেদ",
-          "snippet": "গণ-অভ্যুত্থানের পরাজিত শক্তি শক্তিশালী, অস্তিত্বের জন্য পরস্পরের হাত ধরে রাখা দরকার: নিয়াজ আহমেদ"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/tmch7oco64",
+          "title": "লগি-বইঠা নিয়ে নিষিদ্ধ ছাত্রলীগের মিছিল, ভিডিও ভাইরাল",
+          "snippet": "লগি-বইঠা নিয়ে নিষিদ্ধ ছাত্রলীগের মিছিল, ভিডিও ভাইরাল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতীয় ঐক্যের ডাক দিয়ে ঢাবির সাবেক উপাচার্য নিয়াজ আহমেদ খান",
-        "title_en": "Former DU VC Niaz Ahmed Khan Calls for National Unity",
-        "summary_bn": "জুলাই গণঅভ্যুত্থানের পরাজিত শক্তির হুমকি মোকাবিলায় জাতীয় ঐক্য বজায় রাখার আহ্বান জানিয়েছেন ঢাকা বিশ্ববিদ্যালয়ের সাবেক উপাচার্য নিয়াজ আহমেদ খান।",
-        "summary_en": "Former Dhaka University Vice-Chancellor Niaz Ahmed Khan called for national unity to counter threats from the defeated forces of the July uprising.",
+        "title_bn": "বাঁশখালীতে নিষিদ্ধ ছাত্রলীগের লগি-বইঠা নিয়ে মিছিল, ভিডিও ভাইরাল",
+        "title_en": "Banned Chhatra League brings out procession in Banshkhali, video goes viral",
+        "summary_bn": "চট্টগ্রামের বাঁশখালীতে লগি-বইঠা নিয়ে নিষিদ্ধ সংগঠনের পক্ষে মিছিল করেছে ছাত্রলীগের নেতা-কর্মীরা।",
+        "summary_en": "Leaders and activists of the banned student organization have brought out a procession with poles in Banshkhali, Chattogram.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T10:14:03+00:00",
-        "lead_bn": "জুলাই গণঅভ্যুত্থানের পরাজিত শক্তির হুমকি মোকাবিলায় জাতীয় ঐক্য বজায় রাখার আহ্বান জানিয়েছেন ঢাকা বিশ্ববিদ্যালয়ের সাবেক উপাচার্য নিয়াজ আহমেদ খান।",
-        "lead_en": "Former Dhaka University Vice-Chancellor Niaz Ahmed Khan called for national unity to counter threats from the defeated forces of the July uprising.",
+        "published_at": "2026-10-24T10:50:15+00:00",
+        "lead_bn": "চট্টগ্রামের বাঁশখালীতে লগি-বইঠা নিয়ে নিষিদ্ধ সংগঠনের পক্ষে মিছিল করেছে ছাত্রলীগের নেতা-কর্মীরা।",
+        "lead_en": "Leaders and activists of the banned student organization have brought out a procession with poles in Banshkhali, Chattogram.",
         "bullets_bn": [
-          "গণঅভ্যুত্থানের পরাজিত শক্তিকে একা মোকাবিলা করা সম্ভব নয় বলে মন্তব্য করেন নিয়াজ আহমেদ খান।",
-          "বিভাজন দূর করতে এবং দেশের স্থিতিশীলতা বজায় রাখতে রাজনৈতিক ঊর্ধ্বে ওঠার আহ্বান জানান তিনি।",
-          "তরুণ প্রজন্মের প্রতিষ্ঠান এবং অভিন্ন শত্রুর উপস্থিতি জাতীয় ঐক্যের বড় সুযোগ তৈরি করেছে বলে উল্লেখ করেন।"
+          "নিষিদ্ধ ছাত্রলীগের নেতা-কর্মীরা বাঁশখালীর চুনতি বাজার এলাকায় একটি ব্যানার ও লগি-বইঠা নিয়ে ঝটিকা মিছিল বের করেন",
+          "মিছিলের খবর পেয়ে পুলিশ সদস্যরা দ্রুত ঘটনাস্থলে পৌঁছে অংশগ্রহণকারীদের ধাওয়া করেন",
+          "পুলিশ মিছিলে অংশগ্রহণকারীদের পরিচয় শনাক্ত করে তাদের আইনের আওতায় আনার জন্য অভিযান পরিচালনা করছে"
         ],
         "bullets_en": [
-          "Niaz Ahmed Khan stated that confronting the defeated forces of the uprising is impossible alone.",
-          "He urged rising above political divisions to eliminate polarization and maintain national stability.",
-          "He highlighted that youth-led institutions and a common threat offer significant opportunities for unity."
+          "Leaders and activists of the banned Chhatra League brought out a sudden procession with a banner and poles in Banshkhali.",
+          "Police personnel rushed to the scene immediately after receiving information about the procession and chased the participants.",
+          "Police are trying to identify the participants in the procession and bring them under the law."
         ],
-        "impact_bn": "জাতীয় ঐক্য বজায় থাকলে দেশের রাজনৈতিক স্থিতিশীলতা রক্ষিত হবে এবং সাধারণ মানুষ শান্তিতে বসবাস করতে পারবে।",
-        "impact_en": "Maintaining national unity will preserve political stability and ensure a peaceful environment for ordinary citizens.",
-        "details_bn": "রাজধানীর জাতীয় প্রেসক্লাবে আয়োজিত ভিশন পিস অ্যান্ড স্ট্র্যাটেজিক স্টাডিজ সেন্টারের গোলটেবিল বৈঠকে বক্তারা জাতীয় ঐক্যের ওপর জোর দেন। বক্তারা বলেন, গত দুই দশকে রাষ্ট্রীয়ভাবে পদ্ধতিগত বিভাজন তৈরি করা হয়েছে যা থেকে উত্তরণ জরুরি। ইতিহাসের বিভিন্ন বাঁক যেমন ১৯৪৭, ১৯৭১ ও ২০২৪ সালের চেতনাকে মুখোমুখি না করে ঐক্যবদ্ধভাবে কাজ করার তাগিদ দেওয়া হয়।",
-        "details_en": "Speakers at a roundtable meeting organized by the Vision Peace and Strategic Studies Center at the National Press Club emphasized the urgent need for national unity. They noted that systematic polarization was historically fostered over the past two decades. Speakers urged avoiding confrontation between historical milestones like 1971 and 2024, advocating instead for collective collaboration."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতি ও জননিরাপত্তা বিঘ্নিত করার এই ধরনের অবৈধ তৎপরতা স্থানীয় সাধারণ মানুষের মাঝে আতঙ্ক সৃষ্টি করেছে।",
+        "impact_en": "Such illegal activities disrupting law and order and public safety have created panic among local residents.",
+        "details_bn": "ছাত্রলীগকে সরকার কর্তৃক নিষিদ্ধ ঘোষণার পর থেকেই দেশের বিভিন্ন স্থানে ঝটিকা মিছিলের চেষ্টা চালিয়ে আসছে সংগঠনটির নেতা-কর্মীরা। এর অংশ হিসেবে চট্টগ্রামের বাঁশখালী উপজেলার কাথরিয়া ইউনিয়নের চুনতি বাজার এলাকায় ভোরে এই মিছিলটি বের করা হয়। মিছিলের ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর স্থানীয় প্রশাসন ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী তৎপর হয়ে ওঠে এবং জড়িতদের আইনের আওতায় আনতে কাজ শুরু করে।",
+        "details_en": "Following the government ban on Chhatra League, activists of the organization have been attempting sudden processions in various parts of the country. As part of this, the procession was brought out early in the morning in the Chunti Bazar area of Katharia union in Banshkhali, Chattogram. After videos of the procession went viral on social media, local administration and law enforcement agencies became active and initiated efforts to bring those involved under the law."
       }
     },
     {
-      "story_id": "5ca959d1-3a17-5bf5-a43b-510eb5b97660",
-      "primary_category": "society_education",
+      "story_id": "77ca2449-27af-5b22-82cb-bc7e28fa8777",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education"
+        "governance_law",
+        "economy_business"
       ],
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled3-21.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T10:13:34+00:00",
+      "published_at": "2026-10-24T10:47:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9649,
+      "rank_score": 0.85,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/5-more-deaths-from-dengue/",
-          "title": "ডেঙ্গুতে আরও ৫ জনের মৃত্যু",
-          "snippet": "ডেঙ্গুতে আরও ৫ জনের মৃত্যু"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171455",
+          "title": "কুষ্টিয়ায় দুই ছিনতাইকারীকে গণধোলাই দিয়ে পুলিশে সোপর্দ করলো জনতা",
+          "snippet": "কুষ্টিয়ায় দুই ছিনতাইকারীকে গণধোলাই দিয়ে পুলিশে সোপর্দ করলো জনতা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে ডেঙ্গুতে আরও পাঁচজনের মৃত্যু এবং নতুন রোগী শনাক্ত প্রায় দুই হাজার",
-        "title_en": "Five More Deaths and Nearly Two Thousand New Dengue Cases Reported Nationwide",
-        "summary_bn": "সারা দেশে ডেঙ্গুতে নতুন করে পাঁচজনের মৃত্যু হয়েছে এবং আক্রান্ত হয়ে হাসপাতালে ভর্তি হয়েছেন এক হাজারের বেশি মানুষ।",
-        "summary_en": "Five more people died and nearly two thousand new dengue cases were recorded across the country.",
+        "title_bn": "কুষ্টিয়ায় অস্ত্র দেখিয়ে ছিনতাই চেষ্টার সময় দুইজনকে গণধোলাই দিয়ে পুলিশে সোপর্দ",
+        "title_en": "Public Hands Over Two Accused to Police Following Robbery Attempt in Kushtia",
+        "summary_bn": "কুষ্টিয়ায় মহাসড়কে অস্ত্র ঠেকিয়ে পেয়ারা ব্যবসায়ীর টাকা ছিনতাইয়ের চেষ্টার সময় স্থানীয় জনতা দুই ছিনতাইকারীকে আটক করে পুলিশে সোপর্দ করেছে।",
+        "summary_en": "Local residents in Kushtia caught and handed over two individuals to police after they attempted to rob a fruit trader.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T10:13:34+00:00",
-        "lead_bn": "সারা দেশে ডেঙ্গুতে নতুন করে পাঁচজনের মৃত্যু হয়েছে এবং আক্রান্ত হয়ে হাসপাতালে ভর্তি হয়েছেন এক হাজারের বেশি মানুষ।",
-        "lead_en": "Five more people died and nearly two thousand new dengue cases were recorded across the country.",
+        "published_at": "2026-10-24T10:47:42+00:00",
+        "lead_bn": "কুষ্টিয়ায় মহাসড়কে অস্ত্র ঠেকিয়ে পেয়ারা ব্যবসায়ীর টাকা ছিনতাইয়ের চেষ্টার সময় স্থানীয় জনতা দুই ছিনতাইকারীকে আটক করে পুলিশে সোপর্দ করেছে।",
+        "lead_en": "Local residents in Kushtia caught and handed over two individuals to police after they attempted to rob a fruit trader.",
         "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী সারা দেশে এক দিনে ডেঙ্গুতে পাঁচজনের মৃত্যু হয়েছে।",
-          "নতুন করে এক হাজার আটশ আটানব্বই জন ডেঙ্গু রোগী হাসপাতালে ভর্তি হয়েছেন।",
-          "চলতি বছরে ডেঙ্গুতে মোট মৃত্যুর সংখ্যা বেড়ে তিনশ ছিয়াত্তর জনে দাঁড়িয়েছে।"
+          "কুষ্টিয়া-পাবনা মহাসড়কে পেয়ারা ব্যবসায়ীর গাড়ির গতি রোধ করে ছিনতাইয়ের চেষ্টা চালায় দুর্বৃত্তরা।",
+          "ঘটনার সময় অস্ত্র দেখিয়ে টাকা ছিনিয়ে নেওয়ার চেষ্টা করা হলে স্থানীয়রা প্রতিরোধ গড়ে তোলে।",
+          "গণধোলাইয়ের শিকার দুই ছিনতাইকারীকে উদ্ধার করে আইনশৃঙ্খলা বাহিনীর হেফাজতে দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Five people died from dengue across the country within a single day according to health authorities.",
-          "One thousand eight hundred and ninety-eight new dengue patients were hospitalized.",
-          "Total fatalities from dengue reached three hundred and seventy-six for the current year."
+          "Miscreants attempted to block a fruit trader vehicle and rob cash on the Kushtia-Pabna highway.",
+          "Locals intervened when the suspects brandished weapons to execute the robbery.",
+          "The two accused were beaten by the mob before being handed over to law enforcement."
         ],
-        "impact_bn": "ডেঙ্গু সংক্রমণ বৃদ্ধির ফলে হাসপাতালগুলোতে রোগীর চাপ বাড়ায় সাধারণ নাগরিকদের চিকিৎসাসেবা নিশ্চিত করতে বাড়তি সতর্কতা প্রয়োজন।",
-        "impact_en": "Increased dengue transmission raises hospital pressure, requiring heightened caution to ensure proper medical care for citizens.",
-        "details_bn": "ডেঙ্গু বাংলাদেশে একটি নিয়মিত জনস্বাস্থ্য সংকট হিসেবে আবির্ভূত হয়েছে, বিশেষ করে বর্ষা ও পরবর্তী মৌসুমে এডিস মশাবাহিত এই রোগের প্রকোপ তীব্র আকার ধারণ করে। স্বাস্থ্য অধিদপ্তরের নিয়মিত তথ্য অনুযায়ী প্রতি বছর হাজার হাজার মানুষ আক্রান্ত হন এবং উল্লেখযোগ্য সংখ্যক প্রাণহানি ঘটে। অতীতের বছরগুলোতেও দেশজুড়ে ডেঙ্গুর প্রাদুর্ভাব মোকাবেলায় বিভিন্ন সিটি কর্পোরেশন ও স্থানীয় প্রশাসন মশনিধন অভিযান পরিচালনা করে আসছে।",
-        "details_en": "Dengue has emerged as a recurring public health crisis in Bangladesh, with outbreaks intensifying particularly during and after the monsoon season. Official health data indicates that thousands are infected and significant fatalities occur annually. City corporations and local administrations routinely conduct mosquito eradication drives to combat the seasonal spread."
-      }
-    },
-    {
-      "story_id": "9c0613cb-fa5c-5105-994e-30e6a9ab8202",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/HAAM.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-24T10:11:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9399,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/8-deaths-in-24-hours-from-measles-like-symptoms/",
-          "title": "২৪ ঘণ্টায় হামে ৮ জনের মৃত্যু",
-          "snippet": "২৪ ঘণ্টায় হামে ৮ জনের মৃত্যু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দেশে হামের উপসর্গে চব্বিশ ঘণ্টায় আটজনের মৃত্যু ও এক হাজার বেশি আক্রান্ত",
-        "title_en": "Eight Deaths and Over One Thousand New Measles Infections Reported Nationwide",
-        "summary_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী সারা দেশে হামের উপসর্গে চব্বিশ ঘণ্টায় আটজনের মৃত্যু হয়েছে এবং নতুন করে এক হাজার ৬৫ জন আক্রান্ত হয়েছেন।",
-        "summary_en": "Health department data shows eight deaths and one thousand sixty-five new measles infections were recorded nationwide within a twenty-four hour period.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T10:11:06+00:00",
-        "lead_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী সারা দেশে হামের উপসর্গে চব্বিশ ঘণ্টায় আটজনের মৃত্যু হয়েছে এবং নতুন করে এক হাজার ৬৫ জন আক্রান্ত হয়েছেন।",
-        "lead_en": "Health department data shows eight deaths and one thousand sixty-five new measles infections were recorded nationwide within a twenty-four hour period.",
-        "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তর দেশজুড়ে চব্বিশ ঘণ্টায় হামে আটজনের মৃত্যুর নতুন তথ্য প্রকাশ করেছে",
-          "চব্বিশ ঘণ্টায় নতুন করে এক হাজার ৬৫ জনের শরীরে হামের উপসর্গ শনাক্ত হয়েছে",
-          "স্বাস্থ্য বিভাগ পরিস্থিতি নিয়ন্ত্রণে হাসপাতালগুলোতে চিকিৎসা কার্যক্রম অব্যাহত রেখেছে"
-        ],
-        "bullets_en": [
-          "The Directorate General of Health Services reported eight deaths from measles symptoms across the country.",
-          "A total of one thousand sixty-five new measles symptoms were detected within twenty-four hours.",
-          "Health authorities are continuing hospital treatment and monitoring to manage the outbreak."
-        ],
-        "impact_bn": "অভিভাবকদের মধ্যে সন্তানদের স্বাস্থ্য সুরক্ষা নিয়ে উদ্বেগ বেড়েছে এবং স্বাস্থ্যকেন্দ্রে রোগীর চাপ তৈরি হয়েছে।",
-        "impact_en": "Parents face growing concerns over children's health safety as hospital patient admissions increase.",
-        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী চলতি বছরের মার্চ মাস থেকে দেশজুড়ে হামের প্রাদুর্ভাব দেখা দিয়েছে। এর মধ্যে হাসপাতালে হাজার হাজার রোগী ভর্তি হয়েছেন এবং মৃতু্যর সংখ্যা বেড়েই চলেছে। কর্তৃপক্ষ সংক্রমণ রোধে সচেতনতা বৃদ্ধি ও চিকিৎসা সেবা নিশ্চিত করার ওপর জোর দিচ্ছে।",
-        "details_en": "A measles outbreak has persisted across the country since March, resulting in thousands of hospitalizations and fatalities. Health authorities continue to emphasize public awareness and medical treatment to curb the rising infections."
+        "impact_bn": "মহাসড়কে এ ধরনের ঘটনা প্রতিরোধে স্থানীয় জনগণের সজাগ দৃষ্টি ও দ্রুত পদক্ষেপ অপরাধ দমনে ভূমিকা রাখছে।",
+        "impact_en": "Active public resistance against highway crimes helps deter local extortion and safeguards commuters.",
+        "details_bn": "দেশের বিভিন্ন মহাসড়কে প্রায়ই চাঁদাবাজি ও ছিনতাইয়ের শিকার হন দূরপাল্লার ব্যবসায়ী ও চালকরা। কুষ্টিয়ার এই ঘটনায় স্থানীয়দের তাৎক্ষণিক প্রতিরোধ ও গণধোলাইয়ের পর পুলিশ পরিস্থিতি নিয়ন্ত্রণে নেয় এবং অভিযুক্তদের বিরুদ্ধে আইনানুগ ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করে।",
+        "details_en": "Long-distance traders and drivers frequently face extortion and robbery risks on regional highways. In this Kushtia incident, immediate public intervention neutralized the threat, prompting police intervention and subsequent legal action against the suspects."
       }
     }
   ]
