@@ -1,63 +1,9 @@
 {
-  "updated_at": "2026-10-24T02:00:44.117286",
+  "updated_at": "2026-10-24T03:00:53.793517",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "8595be96-6c40-51cc-9ac3-6e0f49e4da65",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-23T23:45:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.0015,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/976340/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%AC",
-          "title": "দিনমজুরের সন্তান বক্করের চোখের চিকিৎসার দায়িত্ব নিলেন প্রধানমন্ত্রী",
-          "snippet": "দিনমজুরের সন্তান বক্করের চোখের চিকিৎসার দায়িত্ব নিলেন প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দিনমজুরের সন্তান আবু বক্করের চোখের চিকিৎসার দায়িত্ব নিলেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Takes Responsibility for Eye Treatment of Day Laborer Child",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জন্মগত চোখের ত্রুটিতে আক্রান্ত দরিদ্র শিশু আবু বক্করের সম্পূর্ণ চিকিৎসার দায়িত্ব নিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman has taken full responsibility for the medical treatment of a poor child born with congenital eye defects.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-23T23:45:00+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জন্মগত চোখের ত্রুটিতে আক্রান্ত দরিদ্র শিশু আবু বক্করের সম্পূর্ণ চিকিৎসার দায়িত্ব নিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman has taken full responsibility for the medical treatment of a poor child born with congenital eye defects.",
-        "bullets_bn": [
-          "বগুড়ার নন্দীগ্রামের দিনমজুর পরিবারের শিশু আবু বক্করের চিকিৎসার ব্যয় বহন করবে সরকার",
-          "শিশুটির চোখে ইতোমধ্যে তিনটি অস্ত্রোপচার সম্পন্ন হয়েছে এবং আরও দুটি অস্ত্রোপচার প্রয়োজন",
-          "চিকিৎসকদের পরামর্শ অনুযায়ী দ্রুত পরবর্তী ধাপের অস্ত্রোপচার সম্পন্ন করা হবে"
-        ],
-        "bullets_en": [
-          "The government will bear the treatment expenses of child Abu Bakr from a day laborer family in Bogura",
-          "Three surgeries have already been completed on the child's eyes with two more required",
-          "The next phase of surgeries will be conducted promptly based on medical recommendations"
-        ],
-        "impact_bn": "এই রাষ্ট্রীয় সহায়তার ফলে চরম আর্থিক সংকটে থাকা দরিদ্র পরিবারগুলোর পক্ষে উন্নত চিকিৎসা নিশ্চিত করা সম্ভব হবে।",
-        "impact_en": "This high-level state intervention ensures critical healthcare access for impoverished families who cannot afford specialized medical care.",
-        "details_bn": "বগুড়ার নন্দীগ্রাম উপজেলার সিদেল গ্রামের দিনমজুরের সন্তান তিন বছর বয়সী আবু বক্কর জন্মগত চোখের ত্রুটি নিয়ে জন্মগ্রহণ করে। দরিদ্রতার কারণে পরিবারটি তার ব্যয়বহুল চিকিৎসার খরচ বহন করতে ব্যর্থ হচ্ছিল। গণমাধ্যমে শিশুটির অসহায়ত্বের খবর প্রকাশের পর প্রধানমন্ত্রী তার চিকিৎসার সম্পূর্ণ দায়িত্ব গ্রহণ করেন, যা তার সুস্থতার পথ সুগম করেছে।",
-        "details_en": "Abu Bakr, a three-year-old child from Sidel village in Nandigram upazila of Bogura, was born with severe eye defects. Hailing from a humble day laborer family, his parents struggled to finance the expensive series of surgeries required for his recovery. Following media reports on his condition, the Prime Minister stepped in to manage his medical expenses, raising hope for his complete recovery after two pending operations."
-      }
-    },
-    {
-      "story_id": "4994f365-912e-58b8-8b84-1cec35f8fd45",
+      "story_id": "aae00dbb-20ed-5589-9015-8625e4cfe074",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness"
@@ -68,53 +14,54 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T02:00:00+00:00",
+      "published_at": "2026-10-24T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9653,
+      "rank_score": 0.9631,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976332/%E2%80%98%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%AF%E0%A6%A6%E0%A6%BF-%E0%A6%B8%E0%A6%BE%E0%A6%AB-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A6%B6%E0%A6%BF%E0%A6%AA-%E0%A6%A8%E0%A6%BE-%E0%A6%9C%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%9C-%E0%A6%A7%E0%A6%B0%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "‘বাংলাদেশ যদি সাফ চ্যাম্পিয়নশিপ না জেতে, বড় ধরনের বিস্ময় হবে’",
-          "snippet": "‘বাংলাদেশ যদি সাফ চ্যাম্পিয়নশিপ না জেতে, বড় ধরনের বিস্ময় হবে’"
+          "url": "https://www.banglatribune.com/sport/football/976333/%E0%A6%95%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%8D%E0%A6%A8-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%AC%E0%A7%9C",
+          "title": "কুয়েতে দুই গোল করে রাফায়েলের স্বপ্ন এখন আরও বড়",
+          "snippet": "কুয়েতে দুই গোল করে রাফায়েলের স্বপ্ন এখন আরও বড়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ছয় বছর পর ঢাকায় অনুষ্ঠিত হতে যাচ্ছে সাফ চ্যাম্পিয়নশিপ ফুটবল",
-        "title_en": "Dhaka to Host SAFF Championship Football After Six Years",
-        "summary_bn": "আগামী ৪ থেকে ১৭ নভেম্বর ঢাকার জাতীয় স্টেডিয়ামে ছয় দেশের অংশগ্রহণে সাফ চ্যাম্পিয়নশিপ ফুটবল প্রতিযোগিতা অনুষ্ঠিত হবে।",
-        "summary_en": "The SAFF Championship football tournament featuring six nations will take place at the National Stadium in Dhaka from November 4 to 17.",
+        "title_bn": "এএফসি চ্যালেঞ্জ লিগে ফর্টিস এফসির জয়ের নায়কে পরিণত হলেন রাফায়েল",
+        "title_en": "Rafael Shines as Fortis FC Secures Historic Victory in AFC Challenge League",
+        "summary_bn": "ফর্টিস এফসির ফরোয়ার্ড রাফায়েল টুডু এএফসি চ্যালেঞ্জ লিগে টানা দুই ম্যাচে গোল করে নিজের ব্যক্তিগত সাফল্যের চেয়ে ক্লাবের জয়কে বড় করে দেখছেন।",
+        "summary_en": "Fortis FC forward Rafael Tudu scored in consecutive AFC Challenge League matches, prioritizing the club's historic milestone over personal achievement.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:00:00+00:00",
-        "lead_bn": "আগামী ৪ থেকে ১৭ নভেম্বর ঢাকার জাতীয় স্টেডিয়ামে ছয় দেশের অংশগ্রহণে সাফ চ্যাম্পিয়নশিপ ফুটবল প্রতিযোগিতা অনুষ্ঠিত হবে।",
-        "lead_en": "The SAFF Championship football tournament featuring six nations will take place at the National Stadium in Dhaka from November 4 to 17.",
+        "published_at": "2026-10-24T03:00:00+00:00",
+        "lead_bn": "ফর্টিস এফসির ফরোয়ার্ড রাফায়েল টুডু এএফসি চ্যালেঞ্জ লিগে টানা দুই ম্যাচে গোল করে নিজের ব্যক্তিগত সাফল্যের চেয়ে ক্লাবের জয়কে বড় করে দেখছেন।",
+        "lead_en": "Fortis FC forward Rafael Tudu scored in consecutive AFC Challenge League matches, prioritizing the club's historic milestone over personal achievement.",
         "bullets_bn": [
-          "ঢাকার জাতীয় স্টেডিয়ামে আগামী ৪ থেকে ১৭ নভেম্বর পর্যন্ত সাফ চ্যাম্পিয়নশিপ ফুটবল প্রতিযোগিতা অনুষ্ঠিত হবে।",
-          "দক্ষিণ এশিয়ার বিশ্বকাপ খ্যাত এই মর্যাদাপূর্ণ টুর্নামেন্টে মোট ছয়টি দেশ অংশগ্রহণ করবে।",
-          "দীর্ঘ ছয় বছর পর দেশের মাটিতে সাফ চ্যাম্পিয়নশিপ আয়োজিত হওয়ায় ফুটবলপ্রেমীদের মধ্যে ব্যাপক উন্মাদনা তৈরি হয়েছে।"
+          "এএফসি চ্যালেঞ্জ লিগে বদলি খেলোয়াড় হিসেবে নেমে জোড়া গোল করেন রাফায়েল টুডু।",
+          "বাংলাদেশের কোনো ক্লাব হিসেবে টুর্নামেন্টে প্রথম জয় অর্জনের পর এই সাফল্যকে দেশের ফুটবল ইতিহাসের বড় অর্জন বলে অভিহিত করেছেন ২৫ বছর বয়সী এই ফরোয়ার্ড।",
+          "মহাদেশীয় এই টুর্নামেন্টে নিজেদের পারফরম্যান্স আরও উন্নত করার লক্ষ্য নিয়ে পরবর্তী ম্যাচের প্রস্তুতি নিচ্ছে ফর্টিস এফসি।"
         ],
         "bullets_en": [
-          "The SAFF Championship football tournament will be held at the National Stadium in Dhaka from November 4 to 17.",
-          "A total of six countries will participate in this prestigious regional tournament known as the World Cup of South Asia.",
-          "The upcoming tournament has generated immense excitement among football fans as Bangladesh hosts the event after six long years."
+          "Rafael Tudu scored two crucial goals after coming off the bench in the AFC Challenge League fixture.",
+          "The 25-year-old forward emphasized that securing the first-ever victory for a Bangladeshi club in the tournament matters more than his individual scoring record.",
+          "Fortis FC aims to maintain their momentum and improve their continental campaign in upcoming fixtures."
         ],
-        "impact_bn": "দেশের ফুটবলপ্রেমী তরুণ ও দর্শকরা দীর্ঘদিন পর ঘরের মাঠে আন্তর্জাতিক মানের এই টুর্নামেন্টের সরাসরি সাক্ষী হওয়ার সুযোগ পাবে।",
-        "impact_en": "Local football fans and youth will get the opportunity to witness international standard regional matches live on home soil after a long hiatus.",
-        "details_bn": "দক্ষিণ এশিয়ার ফুটবলের সবচেয়ে মর্যাদাপূর্ণ আসর হলো সাফ চ্যাম্পিয়নশিপ, যা প্রায়ই দক্ষিণ এশিয়ার বিশ্বকাপ হিসেবে অভিহিত হয়। এই টুর্নামেন্ট ঘিরে বাংলাদেশের ফুটবলপ্রেমীদের দীর্ঘদিনের আবেগ ও উন্মাদনা রয়েছে। সর্বশেষ দীর্ঘদিন বিরতির পর আবারও ঢাকার মাঠে এই আন্তর্জাতিক প্রতিযোগিতা আয়োজিত হওয়ায় দেশের ফুটবল অঙ্গনে নতুন করে প্রাণের সঞ্চার হয়েছে। টুর্নামেন্টকে কেন্দ্র করে বাংলাদেশ দলের প্রস্তুতি ও সমর্থকদের প্রত্যাশা এখন তুঙ্গে।",
-        "details_en": "The SAFF Championship is the most prestigious football tournament in South Asia, often referred to as the World Cup of South Asia. It holds immense emotional value and excitement for football enthusiasts in Bangladesh. The return of this international competition to Dhaka after a significant gap has revitalized the country's football arena, with heightened expectations surrounding the national team's performance."
+        "impact_bn": "ফর্টিস এফসির এই আন্তর্জাতিক সাফল্য দেশের ফুটবলপ্রেমী তরুণ ও উদীয়মান খেলোয়াড়দের নতুন স্বপ্ন দেখাতে সাহায্য করবে।",
+        "impact_en": "This historic international milestone for Fortis FC inspires young football fans and aspiring athletes across the country.",
+        "details_bn": "এএফসি চ্যালেঞ্জ লিগে অংশ নিয়ে আন্তর্জাতিক অঙ্গনে নিজেদের উপস্থিতি জানান দিচ্ছে বাংলাদেশের ক্লাব ফর্টিস এফসি। দলের আক্রমণভাগকে শক্তিশালী করতে ফরোয়ার্ড রাফায়েল টুডুর মতো তরুণ খেলোয়াড়রা গুরুত্বপূর্ণ অবদান রেখে চলেছেন। এর আগে ঘরোয়া ফুটবলেও নিজেদের সামর্থ্যের প্রমাণ দেওয়া এই ক্লাবটি মহাদেশীয় প্রতিযোগিতায় দেশের ফুটবলের সম্মান বাড়াতে ধারাবাহিক পারফরম্যান্সের ওপর জোর দিচ্ছে।",
+        "details_en": "Fortis FC is making notable strides on the international stage by competing in the AFC Challenge League. Young forwards like Rafael Tudu have bolstered the team's attack, helping the club secure milestone victories. Having previously proven their mettle in domestic football, the team is now focused on delivering consistent performances to elevate Bangladesh's reputation in continental club competitions."
       }
     },
     {
-      "story_id": "25a3d65d-657f-5b30-9fad-03ae46a2d515",
+      "story_id": "97a03d4d-30f2-5821-b97e-d921fc197494",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
@@ -122,50 +69,217 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T02:00:00+00:00",
+      "published_at": "2026-10-24T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9653,
+      "rank_score": 0.9631,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/health/976312/%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A1%E0%A7%87%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%81-%E0%A6%B9%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%BF-%E2%80%98%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%93%E0%A7%9F%E0%A6%BE%E2%80%99",
-          "title": "থামছে না মৃত্যুর মিছিল: ডেঙ্গু-হাম কি ‘গা-সওয়া’ হয়ে উঠছে?",
-          "snippet": "থামছে না মৃত্যুর মিছিল: ডেঙ্গু-হাম কি ‘গা-সওয়া’ হয়ে উঠছে?"
+          "url": "https://www.banglatribune.com/lifestyle/976264/%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
+          "title": "নিজের সময়ের নিয়ন্ত্রণ ফিরে পাওয়ার দিন",
+          "snippet": "নিজের সময়ের নিয়ন্ত্রণ ফিরে পাওয়ার দিন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গু ও হামে অব্যাহত মৃত্যুতে জনস্বাস্থ্য নিয়ে উদ্বেগ প্রকাশ",
-        "title_en": "Persistent Dengue and Measles Deaths Raise Public Health Concerns",
-        "summary_bn": "ডেঙ্গু এবং হামের সংক্রমণে প্রতিদিন মৃত্যুর মিছিল দীর্ঘ হলেও জনস্বাস্থ্য নিয়ে সামগ্রিক উদাসীনতা ও গা-সওয়া ভাব উদ্বেগজনক পর্যায়ে পৌঁছেছে।",
-        "summary_en": "Persistent fatalities from dengue and measles continue to rise daily while public apathy toward the escalating health crisis deepens.",
+        "title_bn": "ব্যস্ততা ও ডিজিটাল আসক্তি এড়াতে উদযাপিত হচ্ছে নিজের সময় ফিরিয়ে নেওয়ার দিন",
+        "title_en": "Tech Back Your Time Day Observed to Combat Digital Overload",
+        "summary_bn": "অবিরাম কাজ ও ডিজিটাল নোটিফিকেশনের ভিড়ে নিজের মানসিক সুস্থতা ও ব্যক্তিগত সময় নিশ্চিত করার গুরুত্ব তুলে ধরা হচ্ছে।",
+        "summary_en": "Individuals are encouraged to reclaim personal time and mental well-being amidst relentless work and digital notifications.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T02:00:00+00:00",
-        "lead_bn": "ডেঙ্গু এবং হামের সংক্রমণে প্রতিদিন মৃত্যুর মিছিল দীর্ঘ হলেও জনস্বাস্থ্য নিয়ে সামগ্রিক উদাসীনতা ও গা-সওয়া ভাব উদ্বেগজনক পর্যায়ে পৌঁছেছে।",
-        "lead_en": "Persistent fatalities from dengue and measles continue to rise daily while public apathy toward the escalating health crisis deepens.",
+        "published_at": "2026-10-24T03:00:00+00:00",
+        "lead_bn": "অবিরাম কাজ ও ডিজিটাল নোটিফিকেশনের ভিড়ে নিজের মানসিক সুস্থতা ও ব্যক্তিগত সময় নিশ্চিত করার গুরুত্ব তুলে ধরা হচ্ছে।",
+        "lead_en": "Individuals are encouraged to reclaim personal time and mental well-being amidst relentless work and digital notifications.",
         "bullets_bn": [
-          "স্বাস্থ্য অধিদফতরের নিয়মিত প্রতিবেদনে ডেঙ্গু ও হামের উপসর্গ নিয়ে নতুন সংক্রমণ ও মৃত্যুর তথ্য উঠে আসছে।",
-          "প্রতিদিন একাধিক মানুষের মৃত্যু হওয়া সত্ত্বেও কার্যকর প্রতিরোধমূলক ব্যবস্থা গ্রহণের ক্ষেত্রে ঘাটতি দেখা যাচ্ছে।",
-          "রোগী শনাক্তকরণ ও চিকিৎসাসেবা নিশ্চিত করতে সংশ্লিষ্ট কর্তৃপক্ষকে আরও কঠোর পদক্ষেপ নিতে হবে।"
+          "অবিরাম কাজের ব্যস্ততা এবং মোবাইল নোটিফিকেশনের ভিড়ে ব্যক্তিগত সময় ও মানসিক শান্তি বজায় রাখার আহ্বান জানানো হয়েছে।",
+          "দিনের বেশির ভাগ সময় কাজ ও পারিবারিক দায়িত্ব সামলাতে গিয়ে অনেকেই নিজেদের ব্যক্তিগত পছন্দ ও মানসিক স্বাস্থ্যকে অবহেলা করেন।",
+          "ব্যক্তিগত জীবনের ভারসাম্য রক্ষা করতে ডিজিটাল ডিভাইসের ব্যবহার সীমিত করে নিজের জন্য আলাদা সময় বের করার তাগিদ দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Regular health directorate reports highlight continuous new infections and fatalities from dengue and measles.",
-          "Despite daily casualties, gaps remain in the implementation of effective preventive measures.",
-          "Relevant authorities must take stricter actions to ensure rapid patient identification and medical care."
+          "People are encouraged to pause and reclaim personal control over their daily schedules amidst constant busywork.",
+          "Many individuals struggle to balance work, studies, and family responsibilities while neglecting their mental health.",
+          "Limiting digital distractions helps individuals prioritize personal well-being and maintain a healthy life balance."
         ],
-        "impact_bn": "ডেঙ্গু ও হামের ক্রমবর্ধমান প্রকোপ সাধারণ মানুষের জীবন ঝুঁকিতে ফেলছে এবং পরিবারগুলোতে অপূরণীয় ক্ষতি ডেকে আনছে।",
-        "impact_en": "The escalating outbreak of dengue and measles puts ordinary lives at risk and causes irreparable loss to affected families.",
-        "details_bn": "দেশে ডেঙ্গু ও হামের মতো সংক্রামক রোগগুলো দীর্ঘদিন ধরে জনস্বাস্থ্যের জন্য বড় চ্যালেঞ্জ হয়ে দাঁড়িয়েছে। বর্ষাকালসহ বিভিন্ন সময়ে ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করলেও বছরজুড়েই এর ঝুঁকি থাকে। পাশাপাশি প্রতিরোধযোগ্য রোগ হওয়া সত্ত্বেও হামের সংক্রমণ ও মৃত্যু সাধারণ মানুষের সচেতনতার অভাব এবং চিকিৎসাব্যবস্থার দুর্বল দিকগুলোকে উন্মোচন করে। এসব রোগ নিয়ন্ত্রণে সমন্বিত ও দীর্ঘমেয়াদি উদ্যোগের অভাব রয়েছে বলে বিশেষজ্ঞরা মনে করেন।",
-        "details_en": "Contagious diseases like dengue and measles have long posed major public health challenges in the country. While dengue outbreaks peak during specific seasons, the risk persists year-round. Despite being preventable, measles transmission and fatalities highlight gaps in public awareness and healthcare infrastructure. Experts note a lack of coordinated and long-term initiatives to control these persistent health hazards."
+        "impact_bn": "ডিজিটাল ক্লান্তি কমিয়ে সাধারণ মানুষের মানসিক স্বাস্থ্য সুরক্ষা এবং ব্যক্তিগত সচেতনতা বাড়াতে সাহায্য করবে।",
+        "impact_en": "Helps ordinary citizens reduce digital fatigue and improves mental well-being by fostering personal boundary-setting.",
+        "details_bn": "আধুনিক প্রযুক্তির অতি ব্যবহার ও কর্মব্যস্ততার কারণে মানুষের মানসিক চাপ দিন দিন বৃদ্ধি পাচ্ছে। কাজের ফাঁκε নিজের জন্য সময় বের করা এবং ডিজিটাল মাধ্যম থেকে সাময়িক বিরতি নেওয়ার গুরুত্ব তুলে ধরতে বিশেষ দিবস হিসেবে এটি পালিত হয়। এর মূল উদ্দেশ্য হলো ব্যক্তিজীবনে ভারসাম্য ফিরিয়ে আনা এবং মানসিক অবসাদ দূর করা।",
+        "details_en": "Modern technology and relentless work schedules have significantly increased mental stress levels among individuals. This observance highlights the vital need to take periodic breaks from digital devices, reduce burnout, and consciously reclaim personal time to maintain a balanced lifestyle."
       }
     },
     {
-      "story_id": "ec1ff027-fce9-594f-9a87-4ec0b324fe18",
+      "story_id": "633f2d6e-24f7-5b01-b816-b5d72a8a59ef",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AE%E0%A6%B9%E0%A6%BF%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%96%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%88%E0%A6%A8.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T02:54:10+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9059,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/channel-is-mohiuddin-khan-moin-to-receive-an-award-in-malaysia/",
+          "title": "মালয়েশিয়ায় অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন",
+          "snippet": "মালয়েশিয়ায় অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মালয়েশিয়ার ডব্লিউডব্লিউও গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন",
+        "title_en": "Channel i GM Mohiuddin Khan Moin to Receive WWO Global Excellence Leadership Award",
+        "summary_bn": "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের স্বীকৃতিস্বরূপ মালয়েশিয়ার মর্যাদাপূর্ণ গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন।",
+        "summary_en": "Channel i General Manager Mohiuddin Khan Moin is receiving Malaysia's prestigious Global Excellence Leadership Award for contributions to media business development.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T02:54:10+00:00",
+        "lead_bn": "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের স্বীকৃতিস্বরূপ মালয়েশিয়ার মর্যাদাপূর্ণ গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড পাচ্ছেন চ্যানেল আইয়ের মহিউদ্দিন খান মঈন।",
+        "lead_en": "Channel i General Manager Mohiuddin Khan Moin is receiving Malaysia's prestigious Global Excellence Leadership Award for contributions to media business development.",
+        "bullets_bn": [
+          "গণমাধ্যমের ব্যবসায়িক উন্নয়ন ও সম্প্রসারণে অসামান্য অবদানের জন্য চ্যানেল আইয়ের মহিউদ্দিন খান মঈনকে এই সম্মাননা দেওয়া হচ্ছে।",
+          "কুয়ালালামপুর ইন্টারন্যাশনালে আয়োজিত অনুষ্ঠানে আনুষ্ঠানিকভাবে ডব্লিউডব্লিউও গ্লোবাল এক্সিলেন্স লিডারশিপ অ্যাওয়ার্ড প্রদান করা হবে।",
+          "চ্যানেল আইয়ের ব্যবসায়িক সম্প্রসারণ এবং দীর্ঘমেয়াদি অংশীদারত্ব গড়ে তোলার ক্ষেত্রে তার ভূমিকা বিশেষভাবে মূল্যায়িত হয়েছে।"
+        ],
+        "bullets_en": [
+          "Channel i General Manager Mohiuddin Khan Moin has been selected for the prestigious WWO Global Excellence Leadership Award.",
+          "The award will be officially presented at a ceremony in Kuala Lumpur International Hotel recognizing media development.",
+          "His role in expanding corporate clients, sponsorships, and building long-term business relationships was specially evaluated."
+        ],
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "গণমাধ্যমের বাণিজ্যিক কার্যক্রম গতিশীল করা, নতুন বিজ্ঞাপন ও স্পনসরশিপের সুযোগ সৃষ্টি এবং করপোরেট প্রতিষ্ঠানগুলোর সঙ্গে কার্যকর অংশীদারত্ব গড়ে তোলার ক্ষেত্রে মহিউদ্দিন খান মঈনের পেশাগত ভূমিকা উল্লেখযোগ্য। বিশেষজ্ঞদের মতে, গণমাধ্যমের কনটেন্টের পাশাপাশি বিপণন ও ব্যবসায়িক ব্যবস্থাপনার দক্ষতাও একটি প্রতিষ্ঠানের টেকসই উন্নয়নে গুরুত্বপূর্ণ ভূমিকা পালন করে। এ ক্ষেত্রে তার ধারাবাহিক অবদান আন্তর্জাতিক অঙ্গনে স্বীকৃতি লাভ করেছে।",
+        "details_en": "Mohiuddin Khan Moin has played a significant professional role in dynamic commercial media operations, creating new advertising opportunities, and building corporate partnerships. Media experts note that alongside journalism, marketing and business management skills are vital for sustainable media institutional development, which has now earned international recognition."
+      }
+    },
+    {
+      "story_id": "0f248d31-ea79-5dc4-b618-e546b9e002d7",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T02:52:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8937,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/sports/football/1171274",
+          "title": "প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ ফর্টিসের",
+          "snippet": "প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ ফর্টিসের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জয় দিয়ে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করল ফর্টিস এফসি",
+        "title_en": "Fortis FC Concludes AFC Challenge League Campaign With Victory",
+        "summary_bn": "প্রিমিয়ার লিগের দল ফর্টিস এফসি পিছিয়ে পড়েও দারুণ প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করেছে।",
+        "summary_en": "Fortis FC concluded their AFC Challenge League campaign with a remarkable comeback victory after trailing in the match.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T02:52:50+00:00",
+        "lead_bn": "প্রিমিয়ার লিগের দল ফর্টিস এফসি পিছিয়ে পড়েও দারুণ প্রত্যাবর্তনের গল্প লিখে এএফসি চ্যালেঞ্জ লিগ অভিযান শেষ করেছে।",
+        "lead_en": "Fortis FC concluded their AFC Challenge League campaign with a remarkable comeback victory after trailing in the match.",
+        "bullets_bn": [
+          "ম্যাচের ৬৬ মিনিট পর্যন্ত পিছিয়ে থাকার পর দুর্দান্ত জয় তুলে নেয় ফর্টিস এফসি",
+          "এএফসি চ্যালেঞ্জ লিগের প্রথম দুই ম্যাচে পরাজয়ের পর শেষ ম্যাচে ঘুরে দাঁড়ায় বাংলাদেশের ক্লাবটি",
+          "এই জয়ের মধ্য দিয়ে টুর্নামেন্টে নিজেদের অভিযান সফলভাবে সমাপ্ত করল ফর্টিস এফসি"
+        ],
+        "bullets_en": [
+          "Fortis FC secured a brilliant victory after trailing behind until the 66th minute of the match.",
+          "The Bangladeshi club bounced back in their final match following defeats in the first two games of the tournament.",
+          "Fortis FC successfully concluded their campaign in the tournament with this win."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এএফসি চ্যালেঞ্জ লিগে অংশ নিয়ে টুর্নামেন্টের শুরুতে টানা দুটি ম্যাচে পরাজয়ের স্বাদ পায় ফর্টিস এফসি। তবে গ্রুপ পর্বের শেষ ম্যাচে এসে ঘুরে দাঁড়ায় দলটি। পিছিয়ে থেকেও দুর্দান্ত পারফরম্যান্স প্রদর্শন করে জয় তুলে নিয়ে টুর্নামেন্ট থেকে বিদায় নেয় বাংলাদেশের এই ক্লাবটি।",
+        "details_en": "Fortis FC faced consecutive defeats in their opening two matches of the AFC Challenge League. However, the club bounced back strongly in their final group fixture, securing a hard-fought victory to conclude their continental campaign on a positive note."
+      }
+    },
+    {
+      "story_id": "02f59208-3fcf-51d2-b4e4-e9e3bdc77ffe",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/07-1792470620.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-24T02:50:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8722,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-weather-will-remain-dry-in-dhaka-and-surrounding-areas/",
+          "title": "ঢাকাসহ আশপাশের এলাকায় শুষ্ক থাকবে আবহাওয়া",
+          "snippet": "ঢাকাসহ আশপাশের এলাকায় শুষ্ক থাকবে আবহাওয়া"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঢাকা ও আশপাশের আবহাওয়া প্রধানত শুষ্ক ও আকাশ পরিষ্কার থাকবে",
+        "title_en": "Weather Expected to Remain Dry and Clear in Dhaka and Surrounding Areas",
+        "summary_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া শুষ্ক থাকবে এবং তাপমাত্রা অপরিবর্তিত থাকতে পারে।",
+        "summary_en": "The Bangladesh Meteorological Department has announced that weather in Dhaka and surrounding areas will remain dry with stable temperatures.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T02:50:24+00:00",
+        "lead_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া শুষ্ক থাকবে এবং তাপমাত্রা অপরিবর্তিত থাকতে পারে।",
+        "lead_en": "The Bangladesh Meteorological Department has announced that weather in Dhaka and surrounding areas will remain dry with stable temperatures.",
+        "bullets_bn": [
+          "উত্তর ও উত্তর-পশ্চিম দিক থেকে ঘণ্টায় ৫ থেকে ১০ কিলোমিটার বেগে বাতাস প্রবাহিত হতে পারে",
+          "ঢাকার সর্বনিম্ন তাপমাত্রা রেকর্ড করা হয়েছে ২৫.৮ ডিগ্রি সেলসিয়াস এবং বাতাসের আর্দ্রতা ছিল ৬৮ শতাংশ",
+          "দেশের অভ্যন্তরীণ নদীবন্দরগুলোর জন্য কোনো সতর্কবার্তা জারি করা হয়নি"
+        ],
+        "bullets_en": [
+          "Winds may blow from the north and northwest at 5 to 10 kilometers per hour",
+          "Dhaka recorded a minimum temperature of 25.8 degrees Celsius with 68 percent humidity",
+          "No warning signals have been issued for inland river ports across the country"
+        ],
+        "impact_bn": "শুষ্ক আবহাওয়ায় নগরবাসীর দৈনন্দিন চলাচল ও বাইরের কার্যক্রমে কোনো বড় ধরনের প্রতিবন্ধকতা তৈরি হবে না।",
+        "impact_en": "Dry weather conditions will not cause any major disruption to daily commuting and outdoor activities for city residents.",
+        "details_bn": "বাংলাদেশ আবহাওয়া অধিদপ্তর নিয়মিতভাবে দেশের বিভিন্ন অঞ্চলের আবহাওয়ার পূর্বাভাস প্রকাশ করে থাকে। শুষ্ক মৌসুমে ঢাকার আবহাওয়া সাধারণত পরিষ্কার ও অপরিবর্তিত থাকে। সাম্প্রতিক পূর্বাভাস অনুযায়ী অভ্যন্তরীণ নদীবন্দরগুলোর জন্য কোনো ধরনের সতর্ক সংকেত দেখাতে বলা হয়নি, যা নৌ চলাচলের জন্য অনুকূল পরিবেশ নির্দেশ করে।",
+        "details_en": "The Bangladesh Meteorological Department regularly issues weather forecasts for various regions across the country. During this season, Dhaka weather generally remains stable and clear. According to the latest forecast, no warning signals have been issued for inland river ports, indicating favorable conditions for water vessel navigation."
+      }
+    },
+    {
+      "story_id": "afabe887-f12e-5157-be83-5bc5b9f094d9",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -176,156 +290,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T01:56:15+00:00",
+      "published_at": "2026-10-24T02:48:53+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9277,
+      "rank_score": 0.8592,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171263",
-          "title": "‘ক্যাসিনো’ ব্যবসার অভিযোগ, তদন্তে গাফিলতিতে আসামির খালাস",
-          "snippet": "‘ক্যাসিনো’ ব্যবসার অভিযোগ, তদন্তে গাফিলতিতে আসামির খালাস"
+          "url": "https://www.jagonews24.com/country/news/1171273",
+          "title": "বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা",
+          "snippet": "বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দুদকের তদন্তে গাফিলতির কারণে ক্যাসিনো মামলায় আসামি খালাস",
-        "title_en": "Accused Acquitted in Casino Case Due to Corruption Commission Investigation Flaws",
-        "summary_bn": "দুর্নীতি দমন কমিশনের তদন্তে মারাত্মক গাফিলতি ও দুর্বল প্রমাণের কারণে ক্যাসিনো সম্পদ অর্জনের মামলায় এক আসামিকে খালাস দিয়েছেন আদালত।",
-        "summary_en": "A court acquitted an accused in a casino wealth case due to severe investigative flaws and weak evidence by the Anti-Corruption Commission.",
+        "title_bn": "সিরাজগঞ্জে বাড়িতে ডেকে নিয়ে যুবককে কুপিয়ে হত্যা",
+        "title_en": "Youth hacked to death after being called to house in Sirajganj",
+        "summary_bn": "সিরাজগঞ্জের উল্লাপাড়ায় আকরাম সরকার নামের এক যুবককে বাড়িতে ডেকে নিয়ে কুপিয়ে হত্যা করা হয়েছে।",
+        "summary_en": "A young man named Akram Sarkar was hacked to death after being called to a house in Ullapara, Sirajganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T01:56:15+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশনের তদন্তে মারাত্মক গাফিলতি ও দুর্বল প্রমাণের কারণে ক্যাসিনো সম্পদ অর্জনের মামলায় এক আসামিকে খালাস দিয়েছেন আদালত।",
-        "lead_en": "A court acquitted an accused in a casino wealth case due to severe investigative flaws and weak evidence by the Anti-Corruption Commission.",
+        "published_at": "2026-10-24T02:48:53+00:00",
+        "lead_bn": "সিরাজগঞ্জের উল্লাপাড়ায় আকরাম সরকার নামের এক যুবককে বাড়িতে ডেকে নিয়ে কুপিয়ে হত্যা করা হয়েছে।",
+        "lead_en": "A young man named Akram Sarkar was hacked to death after being called to a house in Ullapara, Sirajganj.",
         "bullets_bn": [
-          "ক্যাসিনো ব্যবসার অবৈধ আয়ে সম্পদ অর্জনের অভিযোগে তিন বছরের কারাদণ্ডপ্রাপ্ত আসামি আইনি ত্রুটির সুযোগে খালাস পেয়েছেন।",
-          "দুদকের দাখিল করা মামলার নথিপত্র ও সাক্ষ্যপ্রমাণে গুরুতর ঘাটতি থাকায় আদালত আসামিকে অব্যাহতি দেয়।",
-          "রাষ্ট্রপক্ষের আইনজীবীরা রায়ের বিরুদ্ধে উচ্চ আদালতে আপিল করার প্রক্রিয়া শুরু করেছেন।"
+          "নিহত আকরাম সরকারকে পূর্বপরিকল্পিতভাবে বাড়িতে ডেকে নিয়ে ধারালো অস্ত্র দিয়ে কুপিয়ে হত্যা করা হয়",
+          "এ ঘটনায় মারুফ বিন হাবিব নামের ৩০ বছর বয়সী এক যুবককে আটক করেছে পুলিশ",
+          "নিহতের মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য মর্গে পাঠানো হয়েছে এবং আইনগত প্রক্রিয়া চলমান রয়েছে"
         ],
         "bullets_en": [
-          "The accused, previously sentenced to three years in prison for acquiring wealth through illegal casino operations, was acquitted due to legal loopholes.",
-          "The court cleared the defendant because of critical shortages in documentation and evidence submitted by the anti-graft agency.",
-          "State prosecutors have initiated procedures to appeal the acquittal verdict in a higher court."
+          "Victim Akram Sarkar was pre-plannedly lured to a house and hacked with sharp weapons",
+          "Police arrested a 30-year-old man named Maruf Bin Habib in connection with the incident",
+          "The body was recovered and sent to the morgue for autopsy while legal procedures are underway"
         ],
-        "impact_bn": "রাষ্ট্রীয় সংস্থার দুর্বল তদন্তের কারণে দুর্নীতি মামলার আসামিরা পার পেয়ে যাওয়ায় সাধারণ মানুষের বিচারপ্রাপ্তি ও আইনের শাসনের প্রতি আস্থা ক্ষুণ্ন হচ্ছে।",
-        "impact_en": "The acquittal of corruption accused due to weak state investigations undermines public trust in the rule of law and accountability.",
-        "details_bn": "স্বামীর কথিত ক্যাসিনো ব্যবসার আয় দিয়ে অবৈধ সম্পদ অর্জনের অভিযোগে দুর্নীতি দমন কমিশন সুমি রহমানের বিরুদ্ধে মামলাটি দায়ের করেছিল। নিম্ন আদালতে তিন বছরের কারাদণ্ড দেওয়া হলেও আপিল পর্যায়ে তদন্তকারী সংস্থার গাফিলতি এবং সাক্ষ্যপ্রমাণে গরমিলের কারণে আসামি খালাস পান। এই রায় দুর্নীতি দমন কমিশনের পেশাদারিত্ব ও মামলার তদন্ত প্রক্রিয়ার মান নিয়ে গুরুতর প্রশ্ন তুলেছে।",
-        "details_en": "The Anti-Corruption Commission filed the case against Sumi Rahman for acquiring illegal wealth through her husband's alleged casino business. Although a lower court handed down a three-year prison sentence, appeal proceedings revealed critical investigative flaws and evidentiary gaps that led to the acquittal. The verdict raises serious questions about the professionalism and investigation standards of the anti-graft body."
-      }
-    },
-    {
-      "story_id": "086e5401-f7bf-576f-b6cd-0eb2a6a795f6",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T01:24:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6879,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976342/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%9C-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%AA%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4",
-          "title": "ঢাকার আকাশ পরিষ্কার, আজ দিনের তাপমাত্রা অপরিবর্তিত থাকতে পারে",
-          "snippet": "ঢাকার আকাশ পরিষ্কার, আজ দিনের তাপমাত্রা অপরিবর্তিত থাকতে পারে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ঢাকার আকাশ প্রধানত পরিষ্কার ও শুষ্ক থাকতে পারে",
-        "title_en": "Dhaka Sky Expected to Remain Clear and Dry",
-        "summary_bn": "ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া প্রধানত শুষ্ক ও পরিষ্কার থাকতে পারে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "summary_en": "The weather in Dhaka and surrounding areas is expected to remain mainly dry and clear, according to the Met Office.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T01:24:00+00:00",
-        "lead_bn": "ঢাকা ও পার্শ্ববর্তী এলাকার আবহাওয়া প্রধানত শুষ্ক ও পরিষ্কার থাকতে পারে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "lead_en": "The weather in Dhaka and surrounding areas is expected to remain mainly dry and clear, according to the Met Office.",
-        "bullets_bn": [
-          "ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ পরিষ্কার এবং আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
-          "উত্তর বা উত্তর-পশ্চিম দিক থেকে ঘণ্টায় ৫ থেকে ১০ কিলোমিটার বেগে বাতাস প্রবাহিত হতে পারে।",
-          "দিনের তাপমাত্রা সাধারণত অপরিবর্তিত থাকতে পারে বলে পূর্বাভাস দিয়েছে আবহাওয়া অফিস।"
-        ],
-        "bullets_en": [
-          "The sky over Dhaka and surrounding areas may remain clear and the weather dry.",
-          "Winds may blow from the north or northwest at 5 to 10 kilometers per hour.",
-          "Daytime temperatures are likely to remain nearly unchanged according to the weather forecast."
-        ],
-        "impact_bn": "স্বাভাবিক ও শুষ্ক আবহাওয়ায় নগরবাসীর দৈনন্দিন চলাচল ও বাইরের কার্যক্রম আরামদায়ক হতে পারে।",
-        "impact_en": "Normal and dry weather conditions may make daily commuting and outdoor activities comfortable for city residents.",
-        "details_bn": "বাংলাদেশ আবহাওয়া অধিদফতর নিয়মিতভাবে দেশের বিভিন্ন অঞ্চলের আবহাওয়ার পূর্বাভাস প্রকাশ করে থাকে। বিশেষ করে রাজধানী ঢাকা এবং এর আশপাশের এলাকার দৈনিক আকাশ ও তাপমাত্রার পরিস্থিতি নগরবাসীর যাতায়াত এবং দৈনন্দিন পরিকল্পনা সহজ করতে গুরুত্বপূর্ণ ভূমিকা পালন করে। এই পূর্বাভাসগুলোর মাধ্যমে সাধারণ মানুষ আকস্মিক আবহাওয়া পরিবর্তন বা বৃষ্টির প্রস্তুতি নিতে সক্ষম হয়।",
-        "details_en": "The Bangladesh Meteorological Department regularly publishes weather forecasts for various regions of the country. Daily updates regarding the sky and temperature conditions in and around the capital Dhaka play an important role in helping city residents plan their commutes and daily activities. These forecasts enable the public to prepare for sudden weather changes or rainfall."
-      }
-    },
-    {
-      "story_id": "6a02f8c3-49d6-53bd-a39d-9564dcca4345",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla/2021-01/1d75151c-eff9-4e9f-ac28-aebc4618d00f/palo_bangla_og.png",
-      "image_caption": null,
-      "published_at": "2026-10-24T01:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5717,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/sjy00ve8nj",
-          "title": "আজ টিভিতে যা দেখবেন (২৪ অক্টোবর ২০২৬)",
-          "snippet": "আজ টিভিতে যা দেখবেন (২৪ অক্টোবর ২০২৬)"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "র টিভি সূচিতে রয়েছে নিউজিল্যান্ড ভারত ক্রিকেট এবং ইংলিশ প্রিমিয়ার লিগ ম্যাচ",
-        "title_en": "Today television schedule features New Zealand India cricket and English Premier League matches",
-        "summary_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য টেলিভিশন ও ডিজিটাল মাধ্যমে সম্প্রচারিত হবে একাধিক আন্তর্জাতিক ও ঘরোয়া ম্যাচ।",
-        "summary_en": "Cricket and football fans will enjoy multiple international and domestic matches broadcast across television and digital platforms today.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T01:00:00+00:00",
-        "lead_bn": "ক্রিকেট ও ফুটবলপ্রেমীদের জন্য টেলিভিশন ও ডিজিটাল মাধ্যমে সম্প্রচারিত হবে একাধিক আন্তর্জাতিক ও ঘরোয়া ম্যাচ।",
-        "lead_en": "Cricket and football fans will enjoy multiple international and domestic matches broadcast across television and digital platforms today.",
-        "bullets_bn": [
-          "নিউজিল্যান্ড ও ভারতের মধ্যকার দ্বিতীয় টিটোয়েন্টি ম্যাচ সরাসরি সম্প্রচারিত হবে সনি স্পোর্টস চ্যানেলে।",
-          "ইংলিশ প্রিমিয়ার লিগে মাঠে নামবে ম্যানচেস্টার সিটি, আর্সেনাল, চেলসি এবং টটেনহামের মতো শীর্ষ ক্লাবগুলো।",
-          "ক্রিকেট লিগের বিভিন্ন ম্যাচ ইউটিউব ও বিসিবির অফিশিয়াল প্ল্যাটফর্মে সকাল সাড়ে নয়টা থেকে দেখা যাবে।"
-        ],
-        "bullets_en": [
-          "The second T20 match between New Zealand and India will be broadcast live on Sony Sports channels.",
-          "Top clubs including Manchester City, Arsenal, Chelsea, and Tottenham will take the field in the English Premier League.",
-          "Various cricket league matches will be streamed online via YouTube and BCB official platforms starting at nine thirty in the morning."
-        ],
-        "impact_bn": "খেলার এই ব্যস্ত সূচি ক্রীড়াপ্রেমী দর্শক ও তরুণ প্রজন্মের বিনোদনের প্রধান উৎস হিসেবে কাজ করবে।",
-        "impact_en": "This busy sports schedule will serve as a primary source of entertainment for sports enthusiasts and the younger generation.",
-        "details_bn": "দর্শকদের সুবিধার জন্য প্রতিদিন বিভিন্ন জাতীয় ও আন্তর্জাতিক ক্রীড়া ইভেন্টের টেলিভিশন ও অনলাইন সম্প্রচার সূচি প্রকাশ করা হয়। বিশ্বজুড়ে চলা ক্রিকেট সিরিজ এবং ইউরোপিয়ান ফুটবল লিগের নিয়মিত ম্যাচগুলো দেখার সুযোগ পান ক্রীড়াপ্রেমীরা।",
-        "details_en": "Television and online broadcast schedules for various national and international sporting events are published daily for viewer convenience. Sports enthusiasts get the opportunity to watch ongoing cricket series and regular European football league matches worldwide."
+        "impact_bn": "এ ধরনের সহিংস অপরাধ স্থানীয় জনসাধারণের মধ্যে নিরাপত্তাহীনতা বাড়ায় এবং কঠোর আইনের প্রয়োগ দাবি করে।",
+        "impact_en": "Such violent crimes heighten insecurity among local residents and demand stringent law enforcement.",
+        "details_bn": "সিরাজগঞ্জের উল্লাপাড়ায় ঘটে যাওয়া এই হত্যাকাণ্ডের ঘটনায় এলাকায় চাঞ্চল্যের সৃষ্টি হয়েছে। পুলিশ ঘটনাস্থল পরিদর্শন করে আলামত সংগ্রহ করেছে এবং আটক আসামিকে জিজ্ঞাসাবাদ করছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার পেছনের মূল কারণ উদঘাটনে তদন্ত চালিয়ে যাচ্ছে।",
+        "details_en": "This murder incident in Ullapara, Sirajganj, has caused widespread tension in the area. Police inspected the crime scene, collected evidence, and are interrogating the detained suspect. Law enforcement agencies are continuing investigations to uncover the exact motive behind the incident."
       }
     }
   ]
