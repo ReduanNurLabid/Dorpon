@@ -74,10 +74,10 @@ export const BroadsheetFooter: React.FC = () => {
                 {isBn ? 'যাচাইকৃত সূত্র' : 'Verified Sources'}
               </button>
               <button 
-                onClick={() => { setActiveTab('editorial_dashboard'); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-                className="text-left text-secondary hover:text-primary transition-colors cursor-pointer font-bold"
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                className="text-left text-on-surface-variant hover:text-primary transition-colors cursor-pointer"
               >
-                {isBn ? 'সম্পাদকীয় স্টুডিও' : 'Editorial Studio'}
+                {isBn ? 'সম্পাদকীয় প্যানেল' : 'Masthead Directory'}
               </button>
             </div>
           </div>

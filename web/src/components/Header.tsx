@@ -110,17 +110,6 @@ export const Header: React.FC = () => {
               <span className={isBn ? 'text-secondary font-bold' : 'text-on-surface-variant'}>বাং</span>
             </button>
 
-            {/* Editorial Studio Direct Gateway */}
-            <button
-              onClick={() => setActiveTab('editorial_dashboard')}
-              className="p-1 text-secondary hover:text-primary transition-colors cursor-pointer flex items-center gap-1 font-sans text-[11px] font-bold"
-              title={isBn ? 'সম্পাদকীয় স্টুডিও' : 'Editorial Studio'}
-              aria-label="Editorial Studio"
-            >
-              <ShieldCheck className="w-3.5 h-3.5" />
-              <span className="hidden sm:inline">Editor</span>
-            </button>
-
             {/* Settings Trigger */}
             <button
               onClick={() => setIsSettingsOpen(true)}

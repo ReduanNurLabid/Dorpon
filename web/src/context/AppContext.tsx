@@ -487,8 +487,15 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       const urlParams = new URLSearchParams(window.location.search);
       const storyParam = urlParams.get('story');
       const tabParam = urlParams.get('tab') as TabType | null;
+      const pathname = window.location.pathname.toLowerCase();
+      const isEditorPath = pathname === '/dashboard' || pathname === '/editor' || urlParams.get('tab') === 'editorial_dashboard' || urlParams.has('editor');
 
-      if (tabParam && ['top_stories', 'current_affairs', 'discover', 'editorial_dashboard'].includes(tabParam)) {
+      if (isEditorPath) {
+        setActiveTabState('editorial_dashboard');
+        return;
+      }
+
+      if (tabParam && ['top_stories', 'current_affairs', 'discover'].includes(tabParam)) {
         setActiveTabState(tabParam);
       }
 
