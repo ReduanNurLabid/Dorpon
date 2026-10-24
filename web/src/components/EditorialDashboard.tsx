@@ -43,6 +43,39 @@ import {
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
+export const WEBSITE_CATEGORY_DESKS = [
+  { value: 'governance_law', label: 'Governance & Law (শাসনব্যবস্থা ও রাজনীতি)' },
+  { value: 'economy_business', label: 'Economy & Business (অর্থনীতি ও বাণিজ্য)' },
+  { value: 'world_diplomacy', label: 'World & Geopolitics (আন্তর্জাতিক ও কূটনীতি)' },
+  { value: 'tech_infrastructure', label: 'Technology & AI (প্রযুক্তি ও উদ্ভাবন)' },
+  { value: 'climate_delta', label: 'Climate & Environment (পরিবেশ ও জলবায়ু)' },
+  { value: 'society_education', label: 'Society & Education (সমাজ ও শিক্ষা)' },
+  { value: 'sports_fitness', label: 'Sports & Fitness (খেলাধুলা)' },
+  { value: 'infrastructure_energy', label: 'Infrastructure & Energy (অবকাঠামো ও জ্বালানি)' },
+  { value: 'national', label: 'National Affairs (জাতীয় বিষয়াবলী)' },
+  { value: 'pop_culture', label: 'Culture & Entertainment (সংস্কৃতি ও বিনোদন)' },
+];
+
+// Helper to recursively remove undefined values before writing to Firestore
+function cleanForFirestore(val: any): any {
+  if (val === undefined) return null;
+  if (val === null) return null;
+  if (Array.isArray(val)) {
+    return val.map((item) => cleanForFirestore(item));
+  }
+  if (typeof val === 'object' && !(val instanceof Date)) {
+    const cleaned: Record<string, any> = {};
+    for (const key of Object.keys(val)) {
+      const v = val[key];
+      if (v !== undefined) {
+        cleaned[key] = cleanForFirestore(v);
+      }
+    }
+    return cleaned;
+  }
+  return val;
+}
+
 // Web Broadsheet Scoring and Placement Calculator
 export function computeWebStoryScore(story: CapsuleStory): {
   baseScore: number;
@@ -159,13 +192,23 @@ export const EditorialDashboard: React.FC = () => {
     try {
       if (activeCollection === 'current_affairs_published') {
         const docSnap = await getDocs(collection(db, 'current_affairs_published'));
-        const list: CapsuleStory[] = [];
+        const list: (CapsuleStory & { _docId?: string })[] = [];
         docSnap.forEach((d) => {
           const data = d.data();
           if (data.stories && Array.isArray(data.stories)) {
-            list.push(...data.stories);
-          } else if (data.story_id) {
-            list.push(data as CapsuleStory);
+            data.stories.forEach((s: any, idx: number) => {
+              list.push({
+                ...s,
+                story_id: s.story_id || s.storyId || `${d.id}-${idx}`,
+                _docId: d.id,
+              });
+            });
+          } else if (data.story_id || d.id) {
+            list.push({
+              ...data,
+              story_id: data.story_id || data.storyId || d.id,
+              _docId: d.id,
+            } as CapsuleStory & { _docId?: string });
           }
         });
         setStories(list);
@@ -174,9 +217,16 @@ export const EditorialDashboard: React.FC = () => {
       } else {
         const q = query(collection(db, activeCollection), orderBy('published_at', 'desc'), limit(150));
         const snap = await getDocs(q);
-        const list: CapsuleStory[] = [];
+        const list: (CapsuleStory & { _docId?: string })[] = [];
         snap.forEach((d) => {
-          list.push(d.data() as CapsuleStory);
+          const data = d.data();
+          const docId = d.id;
+          const story_id = data.story_id || data.storyId || docId;
+          list.push({
+            ...data,
+            story_id,
+            _docId: docId,
+          } as CapsuleStory & { _docId?: string });
         });
         setStories(list);
         if (list.length > 0) setSelectedStory(list[0]);
@@ -254,30 +304,53 @@ export const EditorialDashboard: React.FC = () => {
 
   // Story editing handlers
   const handleSaveStory = async () => {
-    if (!selectedStory || !isAuthorized) return;
+    if (!selectedStory) {
+      alert('Please select an article first.');
+      return;
+    }
+    if (!isAuthorized) {
+      alert('Your email is not authorized to edit live Firestore.');
+      return;
+    }
     setIsSaving(true);
     setStatusMessage(null);
     try {
+      const docId = (selectedStory as any)._docId || selectedStory.story_id;
+      if (!docId) {
+        throw new Error('No document ID available for this story.');
+      }
+
       if (activeCollection === 'current_affairs_published') {
         // Update the current_affairs doc
         const updatedList = stories.map((s) => (s.story_id === selectedStory.story_id ? selectedStory : s));
-        await setDoc(doc(db, 'current_affairs_published', 'latest'), {
+        const payload = cleanForFirestore({
           stories: updatedList,
           edition_date: new Date().toISOString().split('T')[0],
           published_at: new Date().toISOString(),
           total_stories: updatedList.length,
           status: 'published'
         });
+        await setDoc(doc(db, 'current_affairs_published', 'latest'), payload, { merge: true });
         setStories(updatedList);
       } else {
-        await setDoc(doc(db, activeCollection, selectedStory.story_id), selectedStory);
-        setStories((prev) => prev.map((s) => (s.story_id === selectedStory.story_id ? selectedStory : s)));
+        const payload = cleanForFirestore({
+          ...selectedStory,
+          story_id: docId,
+        });
+        delete payload._docId;
+        await setDoc(doc(db, activeCollection, docId), payload, { merge: true });
+        setStories((prev) =>
+          prev.map((s) =>
+            s.story_id === selectedStory.story_id || (s as any)._docId === docId ? selectedStory : s
+          )
+        );
       }
-      setStatusMessage({ text: 'Changes saved directly to live Firestore!', type: 'success' });
+      setStatusMessage({ text: `✓ Saved successfully to live Firestore [${docId.slice(0, 8)}...]`, type: 'success' });
       setTimeout(() => setStatusMessage(null), 4000);
     } catch (err: any) {
       console.error('Error saving story:', err);
-      setStatusMessage({ text: err.message || 'Failed to save updates', type: 'error' });
+      const errMsg = err?.message || 'Failed to save updates to Firestore';
+      setStatusMessage({ text: `Save error: ${errMsg}`, type: 'error' });
     } finally {
       setIsSaving(false);
     }
@@ -705,6 +778,21 @@ export const EditorialDashboard: React.FC = () => {
                 </div>
 
                 <div className="flex items-center space-x-2">
+                  {statusMessage && (
+                    <span className={`text-[11px] font-sans font-bold px-2.5 py-1 flex items-center gap-1.5 border shadow-xs ${
+                      statusMessage.type === 'success'
+                        ? 'bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border-emerald-500/40'
+                        : 'bg-red-500/15 text-red-600 dark:text-red-400 border-red-500/40'
+                    }`}>
+                      {statusMessage.type === 'success' ? (
+                        <CheckCircle2 className="w-3.5 h-3.5 shrink-0" />
+                      ) : (
+                        <AlertCircle className="w-3.5 h-3.5 shrink-0" />
+                      )}
+                      <span>{statusMessage.text}</span>
+                    </span>
+                  )}
+
                   <button
                     onClick={handleDeleteStory}
                     disabled={isSaving}
@@ -718,10 +806,10 @@ export const EditorialDashboard: React.FC = () => {
                   <button
                     onClick={handleSaveStory}
                     disabled={isSaving}
-                    className="bg-primary text-background font-sans text-xs font-bold uppercase px-4 py-1.5 flex items-center gap-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary cursor-pointer disabled:opacity-50 shadow-sm"
+                    className="bg-primary text-background font-sans text-xs font-bold uppercase px-4 py-1.5 flex items-center gap-1.5 hover:bg-surface-container-highest hover:text-primary transition-colors border border-primary cursor-pointer disabled:opacity-50 shadow-sm active:scale-98"
                   >
                     {isSaving ? <RefreshCw className="w-3.5 h-3.5 animate-spin" /> : <Save className="w-3.5 h-3.5" />}
-                    <span>Save to Live Firestore</span>
+                    <span>{isSaving ? 'Saving to Firestore...' : 'Save to Live Firestore'}</span>
                   </button>
                 </div>
               </div>
@@ -880,23 +968,42 @@ export const EditorialDashboard: React.FC = () => {
                             <label className="block text-xs font-serif text-on-surface-variant font-semibold">
                               Website Category Desk
                             </label>
-                            <select
-                              value={selectedStory.primary_category}
-                              onChange={(e) =>
-                                setSelectedStory({
-                                  ...selectedStory,
-                                  primary_category: e.target.value
-                                })
-                              }
-                              className="w-full bg-surface border border-primary/30 text-xs text-primary p-2 focus:outline-none font-sans"
-                            >
-                              <option value="governance_law">Governance & Law (শাসন ও সংবিধান)</option>
-                              <option value="economy_business">Economy & Business (অর্থনীতি ও ব্যাংকিং)</option>
-                              <option value="international_diplomacy">International & Geopolitics (আন্তর্জাতিক ও কূটনীতি)</option>
-                              <option value="infrastructure_energy">Infrastructure & Energy (অবকাঠামো ও জ্বালানি)</option>
-                              <option value="science_technology">Science & Technology (তথ্যপ্রযুক্তি)</option>
-                              <option value="national">National & Society (জাতীয়)</option>
-                            </select>
+                            {(() => {
+                              const currentCatLower = (selectedStory.primary_category || '').toLowerCase();
+                              const isUnmatched = !WEBSITE_CATEGORY_DESKS.some(
+                                (d) => d.value.toLowerCase() === currentCatLower
+                              );
+
+                              return (
+                                <select
+                                  value={selectedStory.primary_category}
+                                  onChange={(e) => {
+                                    const newCat = e.target.value;
+                                    setSelectedStory({
+                                      ...selectedStory,
+                                      primary_category: newCat,
+                                      interest_categories: Array.from(new Set([newCat, ...(selectedStory.interest_categories || [])]))
+                                    });
+                                  }}
+                                  className="w-full bg-surface border border-primary/30 text-xs text-primary p-2 focus:outline-none font-sans font-medium"
+                                >
+                                  {isUnmatched && selectedStory.primary_category && (
+                                    <option value={selectedStory.primary_category}>
+                                      {selectedStory.primary_category} (Current Desk)
+                                    </option>
+                                  )}
+                                  {WEBSITE_CATEGORY_DESKS.map((desk) => {
+                                    const isCurrent = currentCatLower === desk.value.toLowerCase();
+                                    const optionValue = isCurrent ? selectedStory.primary_category : desk.value;
+                                    return (
+                                      <option key={desk.value} value={optionValue}>
+                                        {desk.label}
+                                      </option>
+                                    );
+                                  })}
+                                </select>
+                              );
+                            })()}
 
                             <label className="flex items-center gap-2 cursor-pointer pt-1 select-none text-xs font-serif">
                               <input
@@ -974,6 +1081,27 @@ export const EditorialDashboard: React.FC = () => {
                       className="w-full bg-surface border border-primary/30 p-2 text-xs font-serif text-primary focus:outline-none leading-relaxed"
                     />
                   </div>
+
+                  <div>
+                    <label className="block text-xs font-serif font-bold text-on-surface-variant mb-1">
+                      Key Takeaway Bullets (EN) — One bullet point per line
+                    </label>
+                    <textarea
+                      rows={3}
+                      value={(selectedStory.daily_buzz?.bullets_en || []).join('\n')}
+                      onChange={(e) =>
+                        setSelectedStory({
+                          ...selectedStory,
+                          daily_buzz: {
+                            ...selectedStory.daily_buzz,
+                            bullets_en: e.target.value.split('\n').filter((l) => l.trim().length > 0)
+                          }
+                        })
+                      }
+                      placeholder="• First analytical point&#10;• Policy decision or statistic&#10;• Strategic consequence"
+                      className="w-full bg-surface border border-primary/30 p-2 text-xs font-serif text-primary focus:outline-none leading-relaxed"
+                    />
+                  </div>
                 </div>
 
                 {/* 3. BANGLA COPYWRITING */}
@@ -1029,6 +1157,27 @@ export const EditorialDashboard: React.FC = () => {
                           daily_buzz: { ...selectedStory.daily_buzz, details_bn: e.target.value }
                         })
                       }
+                      className="w-full bg-surface border border-primary/30 p-2 text-xs font-serif text-primary focus:outline-none leading-relaxed font-bangla"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-xs font-serif font-bold text-on-surface-variant mb-1 font-bangla">
+                      প্রধান বিশ্লেষণাত্মক বুলেট পয়েন্ট (BN) — প্রতি লাইনে একটি পয়েন্ট
+                    </label>
+                    <textarea
+                      rows={3}
+                      value={(selectedStory.daily_buzz?.bullets_bn || []).join('\n')}
+                      onChange={(e) =>
+                        setSelectedStory({
+                          ...selectedStory,
+                          daily_buzz: {
+                            ...selectedStory.daily_buzz,
+                            bullets_bn: e.target.value.split('\n').filter((l) => l.trim().length > 0)
+                          }
+                        })
+                      }
+                      placeholder="• প্রথম গুরুত্বপূর্ণ তথ্য&#10;• নীতিগত প্রেক্ষাপট বা পরিসংখ্যান&#10;• ভবিষ্যৎ প্রভাব"
                       className="w-full bg-surface border border-primary/30 p-2 text-xs font-serif text-primary focus:outline-none leading-relaxed font-bangla"
                     />
                   </div>
