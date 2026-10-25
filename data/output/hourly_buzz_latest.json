@@ -1,313 +1,205 @@
 {
-  "updated_at": "2026-10-25T02:00:47.890412",
+  "updated_at": "2026-10-25T08:17:31.742684",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "9b131a28-a1d6-5c95-89aa-3fe1793ff258",
-      "primary_category": "world_diplomacy",
+      "story_id": "cdd31dd9-1f45-5e36-a344-a2484c4ee32e",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "society_education",
+        "world_diplomacy"
       ],
+      "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F5rpmsa2a%2FCapture.PNG?rect=0%2C26%2C374%2C196&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fluc0efcv%2FWhatsApp-Image-2026-10-24-at-6.28.46-PM.jpeg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T01:02:37+00:00",
+      "published_at": "2026-10-25T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.601,
+      "rank_score": 2.241,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/kpppa2rfxb",
-          "title": "প্রধানমন্ত্রী কাল জাপান যাচ্ছেন, বিনিয়োগে নতুন গতির আশা",
-          "snippet": "প্রধানমন্ত্রী কাল জাপান যাচ্ছেন, বিনিয়োগে নতুন গতির আশা"
+          "url": "https://www.prothomalo.com/opinion/interview/tnn1of6c7e",
+          "title": "প্রধানমন্ত্রীর জাপান সফরে ডেঙ্গুর টিকার প্রসঙ্গ তোলা যায়",
+          "snippet": "প্রধানমন্ত্রীর জাপান সফরে ডেঙ্গুর টিকার প্রসঙ্গ তোলা যায়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে চার দিনের দ্বিপক্ষীয় বৈঠকে অংশ নিচ্ছেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Travels to Japan for Four Day Bilateral Talks",
-        "summary_bn": "প্রধানমন্ত্রী চার দিনের সফরে জাপান গিয়ে সে দেশের প্রধানমন্ত্রীর সাথে শীর্ষ বৈঠকে অংশ নিচ্ছেন।",
-        "summary_en": "The Prime Minister travels to Japan on a four-day visit to hold a summit with the Japanese Prime Minister.",
+        "title_bn": "দেশে ডেঙ্গুর সংক্রমণ ও বিস্তার গ্রামাঞ্চল পর্যন্ত ছড়িয়ে পড়ছে",
+        "title_en": "Dengue infections and fatalities are rapidly expanding into rural areas",
+        "summary_bn": "বিশেষজ্ঞদের মতে ডেঙ্গুর বিস্তার ও মৃত্যু এখন রাজধানী ছাড়িয়ে দেশের বিভিন্ন গ্রামাঞ্চল পর্যন্ত মারাত্মকভাবে ছড়িয়ে পড়েছে।",
+        "summary_en": "Experts warn that dengue infections and deaths are now spreading significantly beyond the capital into rural areas.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T01:02:37+00:00",
-        "lead_bn": "প্রধানমন্ত্রী চার দিনের সফরে জাপান গিয়ে সে দেশের প্রধানমন্ত্রীর সাথে শীর্ষ বৈঠকে অংশ নিচ্ছেন।",
-        "lead_en": "The Prime Minister travels to Japan on a four-day visit to hold a summit with the Japanese Prime Minister.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির সাথে দ্বিপক্ষীয় বৈঠকে অংশ নিচ্ছেন।",
-          "জাপানের বেসরকারি খাত আগামী পাঁচ বছরে বাংলাদেশে প্রায় ৭৭ হাজার কোটি টাকা বিনিয়োগের রূপরেখা তৈরি করছে।",
-          "সফরে টয়োটা কারখানা ও জেরার এলএনজি টার্মিনাল পরিদর্শনের মাধ্যমে বিগ-বি মহাপরিকল্পনা এগিয়ে নেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "The Prime Minister is holding a bilateral summit with Japanese Prime Minister Sanae Takaichi.",
-          "The Japanese private sector is outlining nearly 77000 crore taka in investments for Bangladesh over five years.",
-          "The Big-B master plan is being advanced through visits to the Toyota plant and JERA LNG terminal."
-        ],
-        "impact_bn": "জাপানি বিনিয়োগ ও নতুন কারখানা স্থাপনের ফলে তরুণ প্রকৌশলী ও স্থানীয় সরবরাহকারীদের জন্য নতুন কর্মসংস্থান তৈরি হবে।",
-        "impact_en": "Japanese investments and new manufacturing plants will create employment opportunities for young engineers and local suppliers.",
-        "details_bn": "সালে তৎকালীন জাপানি প্রধানমন্ত্রী শিনজো আবের উদ্যোগে বিগ-বি মহাপরিকল্পনা শুরু হয়। মাতারবাড়ী গভীর সমুদ্রবন্দর ও মেট্রোরেলসহ বাংলাদেশের মেগা প্রকল্পে জাপান দীর্ঘদিনের অংশীদার। দুই দেশের মধ্যে অর্থনৈতিক অংশীদারত্ব চুক্তি স্বাক্ষরিত হওয়ার পর এবার জ্বালানি ও উৎপাদন খাতে বড় অংকের বেসরকারি বিনিয়োগের পরিকল্পনা সামনে এসেছে।",
-        "details_en": "The Big-B master plan was initiated in 2014 by then Japanese Prime Minister Shinzo Abe. Japan has long been a key partner in Bangladesh mega projects including the Matarbari deep seaport and metro rail. Following the signing of an economic partnership agreement, large-scale private investments in energy and manufacturing are now underway."
-      }
-    },
-    {
-      "story_id": "6e1b8de8-848c-50df-943c-7959361abe0d",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9643,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976518/%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%9C%E0%A6%BF-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF",
-          "title": "বাজারে শীতের সবজি, দামে অস্বস্তি",
-          "snippet": "বাজারে শীতের সবজি, দামে অস্বস্তি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাজশাহীর বাজারে চড়া দামে বিক্রি হচ্ছে শীতকালীন সবজি",
-        "title_en": "Winter Vegetables Schedulled at High Prices in Rajshahi Markets",
-        "summary_bn": "পূর্ণ সরবরাহ না থাকায় রাজশাহীর কাঁচাবাজারে শীতকালীন সবজি চড়া দামে বিক্রি হচ্ছে, যা সাধারণ ক্রেতাদের বিপাকে ফেলেছে।",
-        "summary_en": "Winter vegetables are selling at high prices in Rajshahi markets due to limited supply, causing distress for consumers.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:00:00+00:00",
-        "lead_bn": "পূর্ণ সরবরাহ না থাকায় রাজশাহীর কাঁচাবাজারে শীতকালীন সবজি চড়া দামে বিক্রি হচ্ছে, যা সাধারণ ক্রেতাদের বিপাকে ফেলেছে।",
-        "lead_en": "Winter vegetables are selling at high prices in Rajshahi markets due to limited supply, causing distress for consumers.",
-        "bullets_bn": [
-          "বাজারে নতুন শীতকালীন সবজির পর্যাপ্ত সরবরাহ এখনো নিশ্চিত হয়নি।",
-          "রাজশাহীর বাজারে প্রতি কেজি টমেটো ১৬০ টাকা, শিম ১৪০ টাকা এবং ফুলকপি ৮০ টাকায় বিক্রি হচ্ছে।",
-          "সরবরাহ পুরোপুরি স্বাভাবিক না হওয়া পর্যন্ত উচ্চমূল্য বজায় থাকতে পারে।"
-        ],
-        "bullets_en": [
-          "Full supply of new winter vegetables has not yet arrived in local markets.",
-          "Tomatoes are selling at 160 taka, beans at 140 taka, and cauliflowers at 80 taka per kg in Rajshahi.",
-          "High prices are expected to persist until market supply normalizes fully."
-        ],
-        "impact_bn": "উচ্চমূল্যের কারণে সীমিত আয়ের সাধারণ মানুষের দৈনন্দিন খাদ্য ক্রয়ে অতিরিক্ত আর্থিক চাপ তৈরি হয়েছে।",
-        "impact_en": "High vegetable prices are creating additional financial pressure on ordinary low-income consumers.",
-        "details_bn": "শীতকাল আসার আগেই বাজারে কিছু আগাম শীতকালীন সবজি উঠতে শুরু করে। তবে মৌসুমের শুরুতে উৎপাদক থেকে খুচরা পর্যায়ে সরবরাহ কম থাকায় এবং পরিবহন খরচের প্রভাবে দাম সাধারণত কিছুটা চড়া থাকে। পাইকারি বাজারগুলোতে পর্যাপ্ত সরবরাহ বাড়লে এবং স্থানীয়ভাবে উৎপাদন পুরোদমে শুরু হলে সবজির দাম সহনীয় পর্যায়ে নেমে আসে।",
-        "details_en": "Early winter vegetables begin appearing in markets ahead of the full season. However, prices typically remain high at the start due to limited supply chains from producers to retailers and transportation costs. Prices generally drop to affordable levels once wholesale supplies increase and local production peaks."
-      }
-    },
-    {
-      "story_id": "3e5893d0-9771-5fc5-93d8-0d36fb6d50a8",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9643,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976496/%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B%E0%A6%B0-%E0%A7%AF%E0%A7%AE%E0%A7%A8%E0%A6%A4%E0%A6%AE-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95",
-          "title": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
-          "snippet": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
-        "title_en": "[Sports Fitness] রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
-        "summary_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
-        "summary_en": "Significant policy and governance development regarding রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
+          "society_education",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T02:00:00+00:00",
-        "lead_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
-        "lead_en": "Key executive and policy developments underway regarding রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক.",
+        "lead_bn": "বিশেষজ্ঞদের মতে ডেঙ্গুর বিস্তার ও মৃত্যু এখন রাজধানী ছাড়িয়ে দেশের বিভিন্ন গ্রামাঞ্চল পর্যন্ত মারাত্মকভাবে ছড়িয়ে পড়েছে।",
+        "lead_en": "Experts warn that dengue infections and deaths are now spreading significantly beyond the capital into rural areas.",
         "bullets_bn": [
-          "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
-          "আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা।",
-          "কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক।"
+          "জুন থেকে সেপ্টেম্বর পর্যন্ত স্বল্প সময়ে এডিস মশার ব্যাপক প্রজনন ঘটেছে।",
+          "ঢাকার বাইরে শহর ও গ্রামাঞ্চলে ডেঙ্গু রোগী এবং মৃত্যুর সংখ্যা এখন বেশি।",
+          "উপজেলা স্বাস্থ্য কমপ্লেক্সে পরীক্ষার সুযোগ বাড়ায় রোগী শনাক্তকরণ দ্রুত হচ্ছে।"
         ],
         "bullets_en": [
-          "Event Update: রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
-          "আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা।",
-          "কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক।"
+          "Rapid breeding of Aedes mosquitoes surged significantly between June and September.",
+          "Rural areas and peripheral towns now record higher numbers of dengue cases and deaths.",
+          "Expanded testing facilities at upazila health complexes accelerate prompt disease detection."
         ],
-        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
-        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
-        "details_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর। আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা। কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক। সৌদি প্রো লিগ রোনালদোকে গোলের কৃতিত্ব দিলেও চারটি বড় ফুটবল পরিসংখ্যান প্ল্যাটফর্ম গোলটি আত্মঘাতী...",
-        "details_en": null
+        "impact_bn": "গ্রামাঞ্চলে ডেঙ্গুর বিস্তার বাড়ায় সাধারণ মানুষ ও গ্রামীণ জনপদে স্বাস্থ্যঝুঁকি বহুগুণ বৃদ্ধি পেয়েছে।",
+        "impact_en": "The spread of dengue to rural areas significantly increases health risks for ordinary villagers.",
+        "details_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যুর ধরন পরিবর্তিত হয়েছে। আগে বর্ষার শুরুতে রোগী কম থাকলেও এবার জুন থেকে সেপ্টেম্বর পর্যন্ত রোগীর সংখ্যা দ্রুত বেড়েছে। মানুষের ব্যাপক যাতায়াত এবং অনুকূল পরিবেশের কারণে এডিস মশা এখন রাজধানী ছাড়িয়ে সারা দেশে ছড়িয়ে পড়েছে। উপজেলা পর্যায়ে পরীক্ষার সুযোগ বাড়ায় প্রত্যন্ত অঞ্চলেও ডেঙ্গু রোগী শনাক্ত হচ্ছে।",
+        "details_en": "The pattern of dengue transmission and mortality in Bangladesh has shifted. While early monsoon cases were previously lower, numbers surged rapidly from June to September. Due to widespread human mobility and favorable weather, Aedes mosquitoes have expanded beyond the capital. Enhanced diagnostic facilities at the upazila level now ensure higher detection rates in remote areas."
       }
     },
     {
-      "story_id": "931464cf-a783-520f-83ee-247ea63e8a90",
+      "story_id": "af7429a9-4c3b-5b14-b89b-c2cab3e13267",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T02:15:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9554,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1171598",
+          "title": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের শ্রদ্ধা",
+          "snippet": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের শ্রদ্ধা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের নেতৃবৃন্দের শ্রদ্ধা নিবেদন",
+        "title_en": "Nationalist ICT Forum pays homage at Ziaur Rahman's mausoleum",
+        "summary_bn": "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ শহীদ রাষ্ট্রপতি জিয়াউর রহমানের সমাধিতে পুষ্পস্তবক অর্পণ করেছেন।",
+        "summary_en": "The newly formed full committee leaders of the Nationalist ICT Forum placed floral wreaths at the mausoleum of late President Ziaur Rahman.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T02:15:52+00:00",
+        "lead_bn": "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ শহীদ রাষ্ট্রপতি জিয়াউর রহমানের সমাধিতে পুষ্পস্তবক অর্পণ করেছেন।",
+        "lead_en": "The newly formed full committee leaders of the Nationalist ICT Forum placed floral wreaths at the mausoleum of late President Ziaur Rahman.",
+        "bullets_bn": [
+          "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ মাজারে শ্রদ্ধা নিবেদন করেন।",
+          "নেতৃবৃন্দ শহীদ রাষ্ট্রপতির স্মৃতির প্রতি শ্রদ্ধা জানিয়ে ফাতেহা পাঠ ও মোনাজাত করেন।",
+          "সংগঠনের কার্যক্রম গতিশীল করতে ভবিষ্যতে নতুন কর্মসূচি গ্রহণের ঘোষণা দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "Leaders of the newly formed full committee of the Nationalist ICT Forum paid their respects at the mausoleum.",
+          "The leaders offered special prayers and recited Fatiha seeking eternal peace for the late president's soul.",
+          "Announcements were made to take up new programmes to accelerate the organization's activities."
+        ],
+        "impact_bn": "সাধারণ নাগরিক বা তরুণদের ওপর এর কোনো প্রত্যক্ষ প্রভাব নেই।",
+        "impact_en": null,
+        "details_bn": "জাতীয়তাবাদী আইসিটি ফোরাম বিভিন্ন সময়ে প্রযুক্তি খাতের পেশাজীবীদের নিয়ে নানা কার্যক্রম পরিচালনা করে আসছে। নবগঠিত কমিটি গঠনের পর সংগঠনের কেন্দ্রীয় নেতৃবৃন্দ আনুষ্ঠানিকভাবে শেরেবাংলা নগরে অবস্থিত জিয়াউর রহমানের মাজার জিয়ারত ও শ্রদ্ধা নিবেদন করেন।",
+        "details_en": "The Nationalist ICT Forum regularly organizes activities involving technology professionals. Following the formation of its new committee, central leaders formally visited and paid homage at the mausoleum of Ziaur Rahman in Sher-e-Bangla Nagar."
+      }
+    },
+    {
+      "story_id": "e202e9d0-d579-5a25-8656-8f5e77ab012d",
       "primary_category": "climate_environment",
       "interest_categories": [
         "climate_environment"
       ],
+      "region": "national",
       "tags": [
         "#Climate",
         "#Environment"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T01:33:06+00:00",
+      "published_at": "2026-10-25T02:13:13+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7428,
+      "rank_score": 0.9291,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976539/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0",
-          "title": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ: কেমন থাকবে আজকের আবহাওয়া?",
-          "snippet": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ: কেমন থাকবে আজকের আবহাওয়া?"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171597",
+          "title": "ঢাকায় আজ কেমন থাকবে আবহাওয়া?",
+          "snippet": "ঢাকায় আজ কেমন থাকবে আবহাওয়া?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ সৃষ্টি, আবহাওয়া অধিদফতরের বিশেষ সতর্কতা",
-        "title_en": "Clear Low-Pressure Area Forms in Bay of Bengal, Met Office Issues Alert",
-        "summary_bn": "পূর্ব-মধ্য বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপটি আরও ঘনীভূত হয়ে পশ্চিম ও উত্তর-পশ্চিম দিকে অগ্রসর হতে পারে।",
-        "summary_en": "A well-marked low-pressure area formed over the east-central Bay of Bengal may intensify and move west-northwestwards.",
+        "title_bn": "ঢাকার আকাশ অস্থায়ীভাবে মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে",
+        "title_en": "Dhaka Skies Expected to Remain Partially Cloudy and Dry",
+        "summary_bn": "আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
+        "summary_en": "Meteorological department reports Dhaka and surrounding areas may experience partially cloudy skies with mainly dry weather.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T01:33:06+00:00",
-        "lead_bn": "পূর্ব-মধ্য বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপটি আরও ঘনীভূত হয়ে পশ্চিম ও উত্তর-পশ্চিম দিকে অগ্রসর হতে পারে।",
-        "lead_en": "A well-marked low-pressure area formed over the east-central Bay of Bengal may intensify and move west-northwestwards.",
+        "published_at": "2026-10-25T02:13:13+00:00",
+        "lead_bn": "আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
+        "lead_en": "Meteorological department reports Dhaka and surrounding areas may experience partially cloudy skies with mainly dry weather.",
         "bullets_bn": [
-          "পূর্ব-মধ্য এবং তৎসংলগ্ন দক্ষিণ-পূর্ব বঙ্গোপসাগর এলাকার লঘুচাপটি ঘনীভূত হয়ে সুস্পষ্ট লঘুচাপ আকারে অবস্থান করছে।",
-          "চট্টগ্রাম বিভাগের দুএক জায়গায় হালকা বৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-          "সিস্টেমটি আরও ঘনীভূত হয়ে পশ্চিম-উত্তরপশ্চিম দিকে অগ্রসর হওয়ার শঙ্কা রয়েছে।"
+          "ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলা থাকার পূর্বাভাস দেওয়া হয়েছে।",
+          "আবহাওয়া অধিদপ্তর জানিয়েছে এই সময়ে আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
+          "নগরবাসীর দৈনন্দিন চলাচলে উল্লেখযোগ্য কোনো আবহাওয়া পরিবর্তনের শঙ্কা নেই।"
         ],
         "bullets_en": [
-          "The low-pressure system over the east-central Bay of Bengal has intensified into a well-marked low-pressure area.",
-          "The Met Office forecasts light rain at one or two places over the Chattogram division.",
-          "The system is likely to intensify further and move in a west-northwestward direction."
+          "The skies over Dhaka and adjacent areas are forecasted to remain partially cloudy.",
+          "Meteorological authorities indicate the overall weather condition will remain mainly dry.",
+          "No significant disruption to daily commuter activities is anticipated."
         ],
-        "impact_bn": "সমুদ্র উপকূলবর্তী এলাকার সাধারণ মানুষ ও জেলেদের আবহাওয়া পরিস্থিতির দিকে সতর্ক নজর রাখতে বলা হয়েছে।",
-        "impact_en": "Coastal residents and fishermen are advised to keep a close watch on evolving weather conditions.",
-        "details_bn": "বঙ্গোপসাগরে মৌসুমি বায়ুর প্রভাবে এবং সাগরের তাপমাত্রা বৃদ্ধির ফলে প্রায় সময়ই এ ধরনের লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়। এসব আবহাওয়া সিস্টেম পরবর্তীতে ঘনীভূত হয়ে সামুদ্রিক ঝড়ে রূপ নেওয়ার আশঙ্কা থাকে। আবহাওয়া অধিদফতর নিয়মিতভাবে এসব সিস্টেমের গতিবিধি পর্যবেক্ষণ করে থাকে এবং উপকূলীয় অঞ্চলে সতর্কতা জারি করে।",
-        "details_en": "Such low-pressure areas frequently form in the Bay of Bengal due to seasonal wind patterns and rising sea temperatures. These systems often have the potential to intensify into severe maritime storms. The Meteorological Department continuously monitors the trajectory of such systems and issues advisories for coastal regions."
+        "impact_bn": "শুষ্ক ও আংশিক মেঘলা আবহাওয়ায় নগরবাসীর যাতায়াতে বড় কোনো বিঘ্ন ঘটার সম্ভাবনা নেই।",
+        "impact_en": "Dry and partially cloudy weather ensures normal commuting conditions for city residents without major disruptions.",
+        "details_bn": "শহরের আবহাওয়া সাধারণত মৌসুমী বায়ুর গতিপ্রকৃতি ও প্রাত্যহিক তাপমাত্রার ওপর নির্ভর করে পরিবর্তিত হয়। শীত বা শুষ্ক মৌসুমে ঢাকার আকাশ মাঝেমধ্যে মেঘাচ্ছন্ন থাকলেও উল্লেখযোগ্য বৃষ্টির সম্ভাবনা সাধারণত কম থাকে। আবহাওয়া অধিদপ্তর নিয়মিত পর্যবেক্ষণের মাধ্যমে এই তথ্যগুলো প্রকাশ করে থাকে।",
+        "details_en": "Urban weather patterns in Dhaka typically fluctuate based on seasonal wind movements and daily temperatures. During the dry season, skies may occasionally turn partly cloudy, though significant rainfall remains unlikely. The meteorological department continuously monitors and releases these forecasts for public awareness."
       }
     },
     {
-      "story_id": "eaa4afd0-062d-50c0-b6bf-96114f815565",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fseykolaa%2Fclassico.jpg?rect=0%2C0%2C1286%2C675&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T01:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.723,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/football/6flw2cmyw1",
-          "title": "এল ক্লাসিকোর ফল ঠিক করে দিতে পারে যে পাঁচ প্রশ্নের উত্তর",
-          "snippet": "এল ক্লাসিকোর ফল ঠিক করে দিতে পারে যে পাঁচ প্রশ্নের উত্তর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এল ক্লাসিকোর মহারণে মুখোমুখি হচ্ছে বার্সেলোনা ও রিয়াল মাদ্রিদ",
-        "title_en": "Barcelona and Real Madrid Face Off in El Clasico Showdown",
-        "summary_bn": "লা লিগার পয়েন্ট টেবিলে ব্যবধান বাড়াতে ক্যাম্প ন্যুতে রিয়াল মাদ্রিদের মুখোমুখি হচ্ছে পয়েন্ট টেবিলের শীর্ষে থাকা বার্সেলোনা।",
-        "summary_en": "League leaders Barcelona host Real Madrid at Camp Nou aiming to widen their gap in the standings.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T01:30:00+00:00",
-        "lead_bn": "লা লিগার পয়েন্ট টেবিলে ব্যবধান বাড়াতে ক্যাম্প ন্যুতে রিয়াল মাদ্রিদের মুখোমুখি হচ্ছে পয়েন্ট টেবিলের শীর্ষে থাকা বার্সেলোনা।",
-        "lead_en": "League leaders Barcelona host Real Madrid at Camp Nou aiming to widen their gap in the standings.",
-        "bullets_bn": [
-          "লা লিগার ম্যাচে মুখোমুখি হচ্ছে চিরপ্রতিদ্বন্দ্বী বার্সেলোনা ও রিয়াল মাদ্রিদ",
-          "নয় ম্যাচে ২৭ পয়েন্ট নিয়ে পয়েন্ট তালিকার শীর্ষে রয়েছে বার্সেলোনা এবং সমান ম্যাচে ২১ পয়েন্ট নিয়ে তিনে রিয়াল মাদ্রিদ",
-          "এই ম্যাচে পরাজিত হলে শিরোপার লড়াইয়ে ৯ পয়েন্টে পিছিয়ে পড়বে মাদ্রিদের দলটি"
-        ],
-        "bullets_en": [
-          "Arch-rivals Barcelona and Real Madrid face each other in a crucial league fixture.",
-          "Barcelona leads the table with 27 points from nine matches while Real Madrid sits third with 21 points.",
-          "A defeat for Madrid would widen the title race gap to nine points."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "স্প্যানিশ ফুটবলের সবচেয়ে আকর্ষণীয় দ্বৈরথ হলো এল ক্লাসিকো, যেখানে ঐতিহ্যগতভাবে বার্সেলোনা ও রিয়াল মাদ্রিদ প্রতিদ্বন্দ্বিতা করে আসছে। লিওনেল মেসি ও ক্রিস্টিয়ানো রোনালদোর যুগের পর এবার নতুন প্রজন্মের তারকারা এই মহারণের কেন্দ্রবিন্দুতে রয়েছে। হ্যান্সি ফ্লিকের কোচিংয়ে বার্সেলোনা দুর্দান্ত ফর্মে থেকে মাঠে নামছে, অন্যদিকে রিয়াল মাদ্রিদের জন্য এটি শিরোপার দৌড়ে টিকে থাকার অত্যন্ত গুরুত্বপূর্ণ ম্যাচ।",
-        "details_en": "El Clasico is Spanish football's most celebrated rivalry between Barcelona and Real Madrid. Following the era of Lionel and Cristiano, a new generation of players now headlines the fixture. Barcelona enters under Hansi Flick in strong form, while Madrid faces a crucial test to stay in the title race."
-      }
-    },
-    {
-      "story_id": "6e575607-8b20-5b89-920e-4ca7d6519833",
+      "story_id": "390065d8-e8a2-5ab7-b559-623fc254f2dd",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education",
         "governance_law"
       ],
+      "region": "national",
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fs04hsl1z%2Fcoffee-n-2.jpg?overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fozjgk0nc%2F%E0%A7%A7.-%E0%A6%A5%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A7%8B-%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B2%E0%A5%A4-%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A6%BE-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A7%87.jpeg?rect=0%2C406%2C1079%2C566&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T01:00:00+00:00",
+      "published_at": "2026-10-25T02:09:18+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5713,
+      "rank_score": 0.8924,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.haal.fashion/lifestyle/well-being/842ny14e48",
-          "title": "ব্ল্যাক কফি কি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সাহায্য করে?",
-          "snippet": "ব্ল্যাক কফি কি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সাহায্য করে?"
+          "url": "https://nagorik.prothomalo.com/travel/l563xn37sv",
+          "title": "মালয়েশিয়া ভ্রমণ: কালের যাত্রাধ্বনি–৩",
+          "snippet": "মালয়েশিয়া ভ্রমণ: কালের যাত্রাধ্বনি–৩"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্ল্যাক কফি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সরাসরি সহায়তা করে না",
-        "title_en": "Black Coffee Does Not Directly Control Blood Sugar and Cholesterol",
-        "summary_bn": "স্বাস্থ্য বিশেষজ্ঞরা জানিয়েছেন যে ব্ল্যাক কফি চিনি ও ক্যালরি মুক্ত হলেও এটি কোনো রোগের চিকিৎসাকারি প্রতিকার নয়।",
-        "summary_en": "Health experts state that while black coffee is calorie and sugar free, it is not a cure for diseases.",
+        "title_bn": "মালয়েশিয়ার থিয়ান হো মন্দিরে চীনা স্থাপত্য ও সংস্কৃতির অনন্য মেলবন্ধন",
+        "title_en": "Thean Hou Temple in Malaysia Displays Unique Blend of Chinese Architecture",
+        "summary_bn": "মালয়েশিয়ার থিয়ান হো মন্দির চীনা ঐতিহ্য, স্থাপত্য ও বহুমুখী ধর্মীয় বিশ্বাসের এক নান্দনিক নিদর্শন হিসেবে দর্শনার্থীদের আকর্ষণ করে।",
+        "summary_en": "The Thean Hou Temple in Malaysia attracts visitors as an aesthetic showcase of Chinese heritage, architecture, and diverse religious beliefs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -315,23 +207,140 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T01:00:00+00:00",
-        "lead_bn": "স্বাস্থ্য বিশেষজ্ঞরা জানিয়েছেন যে ব্ল্যাক কফি চিনি ও ক্যালরি মুক্ত হলেও এটি কোনো রোগের চিকিৎসাকারি প্রতিকার নয়।",
-        "lead_en": "Health experts state that while black coffee is calorie and sugar free, it is not a cure for diseases.",
+        "published_at": "2026-10-25T02:09:18+00:00",
+        "lead_bn": "মালয়েশিয়ার থিয়ান হো মন্দির চীনা ঐতিহ্য, স্থাপত্য ও বহুমুখী ধর্মীয় বিশ্বাসের এক নান্দনিক নিদর্শন হিসেবে দর্শনার্থীদের আকর্ষণ করে।",
+        "lead_en": "The Thean Hou Temple in Malaysia attracts visitors as an aesthetic showcase of Chinese heritage, architecture, and diverse religious beliefs.",
         "bullets_bn": [
-          "ব্ল্যাক কফি চিনি ও দুধ ছাড়া সেবন করায় এতে ক্যালরির পরিমাণ অনেক কম থাকে।",
-          "বিভিন্ন গবেষণায় রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে এর সম্ভাব্য ভূমিকার কথা বলা হয়েছে।",
-          "এটি স্বাস্থ্যকর খাদ্যাভ্যাসের অংশ হতে পারে তবে কোনো চিকিৎসা বা ওষুধের বিকল্প নয়।"
+          "কুয়ালালামপুরের থিয়ান হো মন্দিরে চীনা সমুদ্রযাত্রীদের রক্ষাকর্ত্রী দেবী মাৎসু ও করুণার দেবী গুয়ানইনের আরাধনা করা হয়",
+          "সালে শুরু হওয়া এই মন্দিরের নির্মাণকাজ শেষ হয় প্রায় আট বছর পর এবং এটি জনসাধারণের জন্য উন্মুক্ত করা হয়",
+          "চীনা সংস্কৃতিতে লাল রং সৌভাগ্য ও সোনালি রং সমৃদ্ধির প্রতীক হিসেবে মন্দিরের স্থাপত্যে ফুটিয়ে তোলা হয়েছে"
         ],
         "bullets_en": [
-          "Black coffee contains very low calories as it is consumed without milk and sugar.",
-          "Various studies suggest its potential role in controlling blood sugar and cholesterol levels.",
-          "It can be part of a healthy diet but is not a substitute for medical treatment."
+          "The Thean Hou Temple in Kuala Lumpur worships Mazu, the protector of Chinese seafarers, and Guanyin, the goddess of mercy",
+          "Construction of the temple began in 1981 and it officially opened to the public nearly eight years later",
+          "Red and gold colors symbolizing good fortune and prosperity are prominently featured in the temple's architecture"
         ],
-        "impact_bn": "সঠিক খাদ্যাভ্যাস সম্পর্কে সচেতন সাধারণ মানুষ ও ওজন নিয়ন্ত্রণে আগ্রহী যুবসমাজ কফি পানের উপকারিতা ও সীমাবদ্ধতা সম্পর্কে সঠিক ধারণা পাবে।",
-        "impact_en": "General consumers and health-conscious youth will gain a realistic understanding of the benefits and limitations of consuming black coffee.",
-        "details_bn": "সকালের শুরুতে ব্ল্যাক কফি পানের অভ্যাস বিশ্বজুড়ে ওজন সচেতন মানুষের মধ্যে অত্যন্ত জনপ্রিয়। গবেষকরা এর পুষ্টিগুণ ও রোগ প্রতিরোধের ক্ষমতার ওপর বিভিন্ন পরীক্ষা চালিয়েছেন। তবে অতিরিক্ত কফি পান বা এর অলৌকিক গুণ নিয়ে অতিআস্থার কারণে স্বাস্থ্যঝুঁকি তৈরি হতে পারে। চিকিৎসকরা সবসময় সুষম খাদ্যাভ্যাস ও নিয়মের ওপর জোর দিয়ে থাকেন।",
-        "details_en": "The habit of drinking black coffee in the morning is very popular worldwide among weight-conscious people. Researchers have conducted various tests on its nutritional value and disease prevention capacity. However, over-reliance or excessive consumption can create health risks. Doctors always emphasize a balanced diet and proper lifestyle."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মালয়েশিয়া ভ্রমণকালে লেখক বাতু কেভের গুহা থেকে থিয়ান হো মন্দিরে প্রবেশ করেন। চীনের দক্ষিণ উপকূল ও হাইনান দ্বীপ থেকে অভিবাসিত মানুষেরা তাদের ধর্মবিশ্বাস ও সংস্কৃতির এই ধারা মালয়েশিয়ায় নিয়ে আসেন। মন্দিরটিতে বৌদ্ধ, তাওবাদী ও কনফুসীয় চিন্তাধারার মিশ্রণ দেখা যায়, যা চীনা শিল্পরীতির এক উন্মুক্ত প্রদর্শনী।",
+        "details_en": "During a trip to Malaysia, the traveler visited the Thean Hou Temple after exploring the Batu Caves. Immigrants from China's southern coast and Hainan Island brought these religious beliefs and cultural traditions to Malaysia. The temple reflects a blend of Buddhist, Taoist, and Confucian traditions, serving as an open exhibition of Chinese artistry."
+      }
+    },
+    {
+      "story_id": "f2ee8ade-7544-530b-8570-9450fbeabf20",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#Starlink",
+        "#Ukraine"
+      ],
+      "image_url": "https://static.dw.com/image/79738872_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T02:17:31.742684+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.689,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+          "title": "Ukraine: Starlink satellite speeds restored to normal",
+          "snippet": "Ukraine: Starlink satellite speeds restored to normal"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইউক্রেনে স্টারলিংক ও স্টারশিল্ড স্যাটেলাইটের ইন্টারনেট গতি স্বাভাবিক অবস্থায় ফিরেছে",
+        "title_en": "Starlink and Starshield Internet Speeds Return to Normal in Ukraine",
+        "summary_bn": "ইউক্রেনের সামরিক যোগাযোগে ব্যবহৃত স্টারলিংক ও স্টারশিল্ড স্যাটেলাইট নেটওয়ার্কের গতি পুনরায় স্বাভাবিক অবস্থায় ফিরেছে।",
+        "summary_en": "Speeds for Ukraine vital Starlink and Starshield satellite networks have officially returned to normal operating levels.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T02:17:31.742684+00:00",
+        "lead_bn": "ইউক্রেনের সামরিক যোগাযোগে ব্যবহৃত স্টারলিংক ও স্টারশিল্ড স্যাটেলাইট নেটওয়ার্কের গতি পুনরায় স্বাভাবিক অবস্থায় ফিরেছে।",
+        "lead_en": "Speeds for Ukraine vital Starlink and Starshield satellite networks have officially returned to normal operating levels.",
+        "bullets_bn": [
+          "ইউক্রেনীয় সরকার স্টারলিংক এবং স্টারশিল্ড সিস্টেমের স্বাভাবিক কার্যক্রম পুনরায় চালুর বিষয়টি নিশ্চিত করেছে।",
+          "স্যাটেলাইট সংযোগের গতি এখন প্রতি ঘণ্টায় ৪০০ কিলোমিটারের বেশি স্থিতিশীল রয়েছে বলে জানিয়েছে প্রতিরক্ষা মন্ত্রণালয়।",
+          "সীমিত গতির কারণে ইউক্রেনীয় সামরিক বাহিনীর যে অভিযান ব্যাহত হয়েছিল তা এখন স্বাভাবিক হবে।"
+        ],
+        "bullets_en": [
+          "The Ukrainian government confirmed that Starlink and Starshield satellite systems fully resumed normal operations.",
+          "Connection speeds remained stable at over 400 kilometers per hour according to the defense ministry.",
+          "Restored speeds will immediately resume critical frontline logistics and defense against attack drones."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে স্টারলিংক ও স্টারশিল্ডের গতি কমিয়ে ১৬০ কিলোমিটারে নামিয়ে আনা হয়েছিল, যা ইউক্রেনের সামরিক অভিযান এবং রুশ ড্রোন প্রতিহত করার সক্ষমতাকে বাধাগ্রস্ত করেছিল। এই বিধিনিষেধের ফলে যুক্তরাষ্ট্রের সাথে কূটনৈতিক উত্তেজনাও তৈরি হয়েছিল। তবে সাম্প্রতিক পদক্ষেপে ইন্টারনেট গতি স্বাভাবিক হওয়ায় ইউক্রেনীয় বাহিনীর অপারেশনাল কার্যক্ষমতা পুনরুদ্ধার হয়েছে।",
+        "details_en": "Speed restrictions on Starlink and Starshield had previously capped connections at 160 kilometers per hour, disrupting military operations and straining ties with the US. The capped speeds hampered Ukraine ability to intercept Russian attack drones and forced the cancellation of key operations before being fully restored to normal levels."
+      }
+    },
+    {
+      "story_id": "1d69d011-0604-5a5f-a8f9-e7b82a49e343",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#Pesticides",
+        "#EuropeanCommission",
+        "#FoodSafety"
+      ],
+      "image_url": "https://static.dw.com/image/77802067_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T02:17:31.742684+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.689,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
+          "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
+          "snippet": "EU moves to loosen rules on pesticide use as experts sound the alarm"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কীটনাশক ব্যবহারে কড়াকড়ি শিথিল করার প্রস্তাব ইউরোপীয় কমিশনের",
+        "title_en": "European Commission Proposes Loosening Rules on Pesticide Use",
+        "summary_bn": "কৃষকদের চাপ ও আমলাতান্ত্রিক জটিলতা ক কমাতে কীটনাশকের ওপর বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "summary_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to help farmers and cut administrative costs.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T02:17:31.742684+00:00",
+        "lead_bn": "কৃষকদের চাপ ও আমলাতান্ত্রিক জটিলতা ক কমাতে কীটনাশকের ওপর বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "lead_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to help farmers and cut administrative costs.",
+        "bullets_bn": [
+          "কীটনাশকের অনুমোদনের ক্ষেত্রে সময়সীমা তুলে দিয়ে অনির্দিষ্টকালের জন্য ব্যবহারের পক্ষে মত দিয়েছে ইউরোপীয় কমিশন",
+          "চরম বিষাক্ত গ্লাইফোসেটসহ প্রধান কীটনাশকগুলোর নিরাপত্তা পর্যালোচনা এখন থেকে সীমিত ও ব্যতিক্রমী ক্ষেত্রে করা হবে",
+          "স্বাস্থ্যঝুঁকি ও পরিবেশগত ক্ষতি হতে পারে বলে এই প্রস্তাবের বিরুদ্ধে জোরালো সতর্কবার্তা উচ্চারণ করেছেন বিজ্ঞানীরা"
+        ],
+        "bullets_en": [
+          "The European Commission proposed making indefinite greenlighting for pesticides the default to simplify agricultural legislation.",
+          "Safety reviews for controversial active substances like glyphosate will now only be conducted in exceptional cases.",
+          "Scientists and medical experts have strongly warned that human health and environmental safety concerns are being ignored."
+        ],
+        "impact_bn": "এই নীতিমালা কার্যকর হলে খাদ্যপণ্যে বিষাক্ত রাসায়নিকের উপস্থিতি বাড়ায় জনস্বাস্থ্য দীর্ঘমেয়াদী স্বাস্থ্যঝুঁকিতে পড়তে পারে।",
+        "impact_en": "Relaxing pesticide approvals could increase toxic chemical residues in food, raising long-term health risks for consumers.",
+        "details_bn": "বর্তমান নিয়ম অনুযায়ী ইউরোপীয় ইউনিয়নে কীটনাশকের প্রাথমিক উপাদানগুলোর অনুমোদন সর্বোচ্চ ১৫ বছরের জন্য সীমিত ছিল। কৃষকদের দীর্ঘদিনের অভিযোগ এবং আমলাতান্ত্রিক দীর্ঘসূত্রিতা কমাতেই এই সংস্কারের উদ্যোগ নেওয়া হয়েছে। তবে খাদ্য নিরাপত্তা ও জনস্বাস্থ্যের ওপর এর বিরূপ প্রভাব নিয়ে পরিবেশবাদী ও বিজ্ঞানমহলে তীব্র অসন্তোষ দেখা দিয়েছে।",
+        "details_en": "Under existing EU rules dating back to 2011, primary pesticide components received approval for limited periods of no more than 15 years. The European Commission pursued this revamp to address chronic delays and ease administrative burdens for farmers facing crop protection challenges, despite severe warnings from scientists regarding potential health and environmental hazards."
       }
     }
   ]
