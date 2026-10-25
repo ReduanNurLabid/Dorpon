@@ -1,173 +1,9 @@
 {
-  "updated_at": "2026-10-24T23:00:50.444281",
+  "updated_at": "2026-10-25T00:00:52.966995",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a7cdd988-bd21-593f-a2c2-04b0d022a5cc",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T22:47:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8515,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171593",
-          "title": "মতিঝিলে বিশেষ অভিযানে গ্রেফতার ৭৮",
-          "snippet": "মতিঝিলে বিশেষ অভিযানে গ্রেফতার ৭৮"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মতিঝিলে ডেমপির বিশেষ অভিযানে বিভিন্ন অপরাধে গ্রেফতার ৭৮",
-        "title_en": "Police Arrest 78 Individuals During Special Drive in Motijheel",
-        "summary_bn": "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত ৭৮ জনকে গ্রেফতার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-        "summary_en": "Law enforcement agencies arrested 78 individuals for various crimes during a special drive in crime-prone areas of Motijheel.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T22:47:49+00:00",
-        "lead_bn": "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান চালিয়ে বিভিন্ন অপরাধে জড়িত ৭৮ জনকে গ্রেফতার করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-        "lead_en": "Law enforcement agencies arrested 78 individuals for various crimes during a special drive in crime-prone areas of Motijheel.",
-        "bullets_bn": [
-          "ঢাকা মেট্রোপলিটন পুলিশের মতিঝিল বিভাগের অপরাধপ্রবণ এলাকায় বিশেষ অভিযান পরিচালনা করা হয়।",
-          "অভিযানে বিভিন্ন অপরাধে জড়িত সন্দেহে মোট ৭৮ জনকে গ্রেফতার করা হয়েছে।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
-        ],
-        "bullets_en": [
-          "A special police drive was conducted in crime-prone areas under the Motijheel division of Dhaka Metropolitan Police.",
-          "A total of 78 individuals were arrested for involvement in various criminal activities.",
-          "Legal procedures are currently underway against all the arrested individuals."
-        ],
-        "impact_bn": "এই বিশেষ অভিযانের ফলে মতিঝিল এলাকার অপরাধমূলক কার্যক্রম কমবে এবং সাধারণ নাগরিকরা স্বস্তিবোধ করবেন।",
-        "impact_en": "This special drive aims to reduce criminal activities in the Motijheel area and enhance public safety for residents.",
-        "details_bn": "রাজধানীর আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে রাখতে ঢাকা মেট্রোপলিটন পুলিশ নিয়মিতভাবে বিভিন্ন অপরাধপ্রবণ এলাকায় অভিযান পরিচালনা করে আসছে। অপরাধ দমন এবং ওয়ারেন্টভুক্ত আসামিদের গ্রেফতারে ডিএমপির বিভিন্ন বিভাগ এই ধরনের বিশেষ অভিযান অব্যাহত রেখেছে।",
-        "details_en": "To maintain law and order in the capital, the Dhaka Metropolitan Police regularly conducts drives in crime-prone areas. Various divisions of the DMP continue these special operations to curb crime and apprehend warrant-listed suspects."
-      }
-    },
-    {
-      "story_id": "82bf9810-7dd9-537d-8f5c-96189b3f8926",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fobysnrvb%2Fmoment-prayer-night-sky.jpg?rect=0%2C576%2C5120%2C2688&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T22:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7232,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/islam/b7yn4c1jnj",
-          "title": "যখন তওবা করলেও আল্লাহ ক্ষমা করবেন না",
-          "snippet": "যখন তওবা করলেও আল্লাহ ক্ষমা করবেন না"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যে বিশেষ পরিস্থিতিতে তওবা করলেও আল্লাহ ক্ষমা করেন না",
-        "title_en": "Specific Situations When Repentance Is Not Accepted by Allah",
-        "summary_bn": "মৃত্যুর সময় রুহ কণ্ঠনালিতে পৌঁছালে এবং কেয়ামতের দিন পশ্চিম দিক থেকে সূর্য উঠলে তওবা কবুল হয় না।",
-        "summary_en": "Repentance is permanently rejected when the soul reaches the throat at death and when the sun rises from the west.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T22:30:00+00:00",
-        "lead_bn": "মৃত্যুর সময় রুহ কণ্ঠনালিতে পৌঁছালে এবং কেয়ামতের দিন পশ্চিম দিক থেকে সূর্য উঠলে তওবা কবুল হয় না।",
-        "lead_en": "Repentance is permanently rejected when the soul reaches the throat at death and when the sun rises from the west.",
-        "bullets_bn": [
-          "মৃত্যুর ঠিক পূর্বে যখন রুহ বা আত্মা কণ্ঠনালিতে পৌঁছে যায়, তখন মানুষের কোনো তওবা আল্লাহ গ্রহণ করেন না।",
-          "সুরা নিসার ১৮ নম্বর আয়াতে এবং তিরমিজি শরিফের ৩৫৩৭ নম্বর হাদিসে তওবা কবুল না হওয়ার এই সময়টি স্পষ্ট করা হয়েছে।",
-          "কেয়ামতের অন্যতম বড় নিদর্শন হিসেবে পশ্চিম দিক থেকে সূর্য উঠলেও পৃথিবীর সব মানুষের জন্য তওবার দরজা চিরতরে বন্ধ হয়ে যাবে।"
-        ],
-        "bullets_en": [
-          "Allah does not accept repentance when a person reaches the agony of death and the soul reaches the throat.",
-          "This limitation is explicitly detailed in Surah An-Nisa verse 18 and Jami at-Tirmidhi hadith 3537.",
-          "The door of repentance will also be permanently closed for all humanity when the sun rises from the west."
-        ],
-        "impact_bn": "মানুষকে জীবদ্দশায় সৎ পথে চলার এবং সময় থাকতে ক্ষমা চাওয়ার তাগিদ দেয় এই ধর্মীয় নির্দেশনা।",
-        "impact_en": "This religious directive urges individuals to seek forgiveness and lead righteous lives while there is still time.",
-        "details_bn": "ইসলাম ধর্ম অনুযায়ী, বান্দার যেকোনো বড় পাপের ক্ষমা পাওয়ার প্রধান উপায় হলো সত্যিকার অর্থে তওবা করা। কোরআন ও হাদিসের বর্ণনা অনুযায়ী, আল্লাহর রহমতের পরিধি অসীম হলেও তওবা কবুল হওয়ার নির্দিষ্ট সময়সীমা রয়েছে। মানুষ যখন দুনিয়া ত্যাগ করার চূড়ান্ত মুহূর্তে পৌঁছায় কিংবা পরকালের অদৃশ্য জগৎ স্বচক্ষে দেখতে পায়, তখন আর তওবা গ্রহণযোগ্য হয় না। এছাড়া কেয়ামতের বড় নিদর্শন প্রকাশের পরও নতুন করে কোনো তওবা বা ইমান কবুল করা হবে না।",
-        "details_en": "According to Islamic teachings, sincere repentance is the primary path to seeking forgiveness for major sins. While divine mercy is vast, scriptural texts outline strict temporal boundaries for its acceptance. Once a person reaches the final moments of earthly existence and faces impending death, or when major apocalyptic signs manifest, the opportunity for repentance lapses permanently."
-      }
-    },
-    {
-      "story_id": "b8f1c2ab-9321-54fa-a8cd-4375ad77205a",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T22:10:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6152,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976534/%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%95%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%9A%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%A6%E0%A7%81%E0%A6%9C%E0%A6%A8",
-          "title": "পুলিশের চেকপোস্ট চলাকালীন মিরপুরে অস্ত্রসহ দুজন গ্রেফতার",
-          "snippet": "পুলিশের চেকপোস্ট চলাকালীন মিরপুরে অস্ত্রসহ দুজন গ্রেফতার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিরপুরে অস্ত্রসহ মোটরসাইকেল আরোহী দুজনকে গ্রেফতার করেছে পুলিশ",
-        "title_en": "Police Arrest Two Individuals with Firearms at Mirpur Checkpost",
-        "summary_bn": "রাজধানীর মিরপুরে বিশেষ চেকপোস্ট পরিচালনা করে একটি বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশ।",
-        "summary_en": "Dhaka Metropolitan Police arrested two individuals along with a foreign pistol and ammunition during a checkpoint operation in Mirpur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T22:10:00+00:00",
-        "lead_bn": "রাজধানীর মিরপুরে বিশেষ চেকপোস্ট পরিচালনা করে একটি বিদেশি পিস্তল ও গুলিসহ দুজনকে গ্রেফতার করেছে ঢাকা মেট্রোপলিটন পুলিশ।",
-        "lead_en": "Dhaka Metropolitan Police arrested two individuals along with a foreign pistol and ammunition during a checkpoint operation in Mirpur.",
-        "bullets_bn": [
-          "চেকপোস্টে তল্লাশি চালিয়ে মশিউল ম ও শান্ত ইসলাম নামের দুজনকে গ্রেফতার করে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-          "অভিযানের সময় তাদের কাছ থেকে একটি বিদেশি পিস্তল, একটি ম্যাগাজিন, দুই রাউন্ড তাজা গুলি এবং একটি মোটরসাইকেল জব্দ করা হয়।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে এবং এ বিষয়ে পরবর্তীতে বিস্তারিত জানানো হবে।"
-        ],
-        "bullets_en": [
-          "Law enforcement agencies arrested Mashiul Azam and Shanta Islam during a search at a checkpoint.",
-          "A foreign pistol, a magazine, two rounds of live ammunition, and a motorcycle were seized from their possession.",
-          "Legal procedures against the arrestees are underway, and further details will be disclosed later."
-        ],
-        "impact_bn": "রাজধানীর নিরাপত্তা জোরদারে পুলিশের এমন নিয়মিত চেকপোস্ট ও অভিযান সাধারণ মানুষের সার্বিক নিরাপত্তা রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করে।",
-        "impact_en": "Regular police checkpoints and operations strengthen capital security and play a vital role in protecting ordinary citizens.",
-        "details_bn": "রাজধানীতে অপরাধ প্রবণতা রোধ এবং অবৈধ অস্ত্র উদ্ধার ও সন্ত্রাসী কার্যক্রম দমনে ঢাকা মেট্রোপলিটন পুলিশ নিয়মিত বিভিন্ন পয়েন্টে চেকপোস্ট পরিচালনা করে থাকে। এই চলমান নিরাপত্তার অংশ হিসেবে মিরপুর এলাকায় সন্দেহভাজন যানবাহন ও ব্যক্তিদের তল্লাশি করার সময় অস্ত্রসহ ওই দুজনকে আটক করা হয়। আইনশৃঙ্খলা পরিস্থিতি নিয়ন্ত্রণে এ ধরনের অভিযান আরও জোরদার করা হয়েছে।",
-        "details_en": "Dhaka Metropolitan Police regularly operates checkpoints across the capital to curb crime, recover illegal arms, and suppress terrorist activities. As part of this ongoing security measure, the two individuals were intercepted and detained while searching suspicious vehicles and individuals in the Mirpur area. Such operations have been further intensified to maintain law and order."
-      }
-    },
-    {
-      "story_id": "e2051a5e-1541-5e1e-8aef-599b79b51879",
+      "story_id": "8d4a1f38-c7d0-5a98-9a46-88f47edf4d4f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -178,108 +14,106 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T21:35:34+00:00",
+      "published_at": "2026-10-24T21:52:25+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.4847,
+      "importance_score": 6.6,
+      "rank_score": 1.0399,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171591",
-          "title": "রিয়াদ-দাম্মামের ১৪৪ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২২ হাজার যাত্রী",
-          "snippet": "রিয়াদ-দাম্মামের ১৪৪ ফ্লাইট বাতিল, ক্ষতিগ্রস্ত ২২ হাজার যাত্রী"
+          "url": "https://www.jagonews24.com/national/news/1171592",
+          "title": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী",
+          "snippet": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি গামী রিয়াদ ও দাম্মামের ১৪৪ ফ্লাইট বাতিল",
-        "title_en": "One Hundred Forty Four Flights to Riyadh and Dammam Cancelled",
-        "summary_bn": "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজার হাজার প্রবাসী কর্মী।",
-        "summary_en": "The cancellation of one hundred forty four flights from Dhaka to Riyadh and Dammam has stranded thousands of expatriate workers.",
+        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman is visiting Japan",
+        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is leaving for a four-day official visit to Japan at the invitation of the Japanese Prime Minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:35:34+00:00",
-        "lead_bn": "ঢাকা থেকে সৌদি আরবের রিয়াদ ও দাম্মামগামী ১৪৪টি ফ্লাইট বাতিল হওয়ায় চরম অনিশ্চয়তার মুখে পড়েছেন হাজার হাজার প্রবাসী কর্মী।",
-        "lead_en": "The cancellation of one hundred forty four flights from Dhaka to Riyadh and Dammam has stranded thousands of expatriate workers.",
+        "published_at": "2026-10-24T21:52:25+00:00",
+        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is leaving for a four-day official visit to Japan at the invitation of the Japanese Prime Minister.",
         "bullets_bn": [
-          "ঢাকা থেকে রিয়াদ ও দাম্মাম রুটের মোট ১৪৪টি নিয়মিত ফ্লাইট বাতিল করা হয়েছে।",
-          "ফ্লাইট বাতিলের কারণে মোট ২২ হাজার ২১ জন যাত্রী সরাসরি ক্ষতিগ্রস্ত হয়েছেন।",
-          "ক্ষতিগ্রস্ত যাত্রীদের টিকিটের অর্থ ফেরত বা বিকল্প ফ্লাইটের ব্যবস্থা করার প্রক্রিয়া চলছে।"
+          "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
+          "সফরকালে বিমান বাংলাদেশ এয়ারলাইন্সের একটি বিশেষ ফ্লাইটে তিনি টোকিও অভিমুখে রওনা হন।",
+          "এই দ্বিপক্ষীয় সফরে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ সহযোগিতা বৃদ্ধির বিষয়ে আলোচনা হবে।"
         ],
         "bullets_en": [
-          "A total of one hundred forty four regular flights from Dhaka to Riyadh and Dammam routes were cancelled.",
-          "A total of twenty two thousand and twenty one passengers faced severe disruptions due to the cancellations.",
-          "Airlines are currently processing refunds or arranging alternative flights for the affected passengers."
+          "Prime Minister Tarique Rahman is embarking on a four-day visit at the invitation of Japanese Prime Minister Sanae Takaichi.",
+          "He departed for Tokyo on a Biman Bangladesh Airlines flight during the journey.",
+          "The bilateral tour is expected to focus on expanding trade and investment cooperation between the two nations."
         ],
-        "impact_bn": "বিদেশে কর্মসংস্থানে যেতে ইচ্ছুক ও প্রবাসী কর্মীরা সময়মতো গন্তব্যে পৌঁছাতে না পেরে আর্থিক ও পেশাগত ক্ষতির মুখে পড়েছেন।",
-        "impact_en": "Expatriate workers facing sudden travel disruptions experience financial losses and potential risks to their overseas employment.",
-        "details_bn": "হঠাৎ করে ফ্লাইট বাতিলের এই ঘটনায় মধ্যপ্রাচ্যগামী অভিবাসী শ্রমিকদের মধ্যে তীব্র অসন্তোষ ও উদ্বেগ তৈরি হয়েছে। সংশ্লিষ্ট বিমানবন্দর কর্তৃপক্ষ ও এয়ারলাইনসগুলোর পক্ষ থেকে যাত্রীদের বিকল্প ব্যবস্থার মাধ্যমে গন্তব্যে পাঠানোর কাজ চলছে। এ ধরনের ফ্লাইট বাতিল প্রায়ই কূটনৈতিক ও রুট পরিচালনার জটিলতার কারণে ঘটে থাকে, যা অভিবাসী কর্মীদের জীবনযাত্রাকে সরাসরি প্রভাবিত করে।",
-        "details_en": "The sudden cancellation of flights has triggered widespread anxiety among Middle East bound migrant workers. Airport authorities and respective airlines are working to manage alternative travel arrangements for the stranded passengers. Such flight suspensions often stem from operational or route management complexities, directly impacting the livelihoods of expatriate workers."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাপানের সাথে বাংলাদেশের দীর্ঘদিনের অর্থনৈতিক ও কৌশলগত অংশীদারিত্ব রয়েছে। বিভিন্ন মেগা প্রকল্পে জাপানি অর্থায়ন এবং প্রযুক্তিগত সহায়তা অব্যাহত রয়েছে। বর্তমান সরকারের এই উচ্চপর্যায়ের সফর দুই দেশের মধ্যকার কূটনৈতিক সম্পর্ক আরও সুদৃঢ় করবে এবং অর্থনৈতিক সহযোগিতা সম্প্রসারণের নতুন দ্বার উন্মোচন করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share a long-standing economic and strategic partnership, with Japan being a major development partner and investor in various mega projects. This high-level visit by the head of government is expected to further strengthen bilateral ties and open new avenues for economic cooperation between Dhaka and Tokyo."
       }
     },
     {
-      "story_id": "87063482-2ee9-5f74-a8d4-dcc8cfb7e7ad",
-      "primary_category": "world_diplomacy",
+      "story_id": "2d6cb39a-9473-580c-9270-e1ebba7f6a45",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
+        "sports_fitness",
+        "world_diplomacy"
       ],
       "tags": [
-        "#Starlink",
-        "#Ukraine",
-        "#SpaceX",
-        "#ElonMusk"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T20:46:34+00:00",
+      "published_at": "2026-10-25T00:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2599,
+      "importance_score": 2.4,
+      "rank_score": 0.9642,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-          "title": "Starlink seems to be working normally again in Ukraine",
-          "snippet": "Starlink seems to be working normally again in Ukraine"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/other-sports/976501/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%AB-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+          "title": "টিভিতে আজকের খেলা (২৫ অক্টোবর, ২০২৬)",
+          "snippet": "টিভিতে আজকের খেলা (২৫ অক্টোবর, ২০২৬)"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউক্রেনে স্টারশিল্ড ইন্টারনেট সেবা পুনরায় চালু করেছে স্পেসএক্স",
-        "title_en": "SpaceX Restores Starshield Internet Service for Military Operations in Ukraine",
-        "summary_bn": "স্পেসএক্স ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে বিধিনিষেধ তুলে নিয়েছে।",
-        "summary_en": "SpaceX has reportedly lifted restrictions on the Ukrainian military use of the Starshield internet system.",
+        "title_bn": "টিভিতে র খেলার সময়সূচি ও সরাসরি সম্প্রচার",
+        "title_en": "Today Live Sports TV Schedule and Broadcast Details",
+        "summary_bn": "টেলিভিশনের পর্দায় প্রচারিতব্য বিভিন্ন দেশীয় ও আন্তর্জাতিক ম্যাচের সময়সূচি প্রকাশ করা হয়েছে।",
+        "summary_en": "The daily schedule for live televised domestic and international sports matches has been announced.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation"
+          "sports_fitness",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T20:46:34+00:00",
-        "lead_bn": "স্পেসএক্স ইউক্রেনীয় সামরিক বাহিনীর জন্য স্টারশিল্ড ইন্টারনেট সেবার ওপর থেকে বিধিনিষেধ তুলে নিয়েছে।",
-        "lead_en": "SpaceX has reportedly lifted restrictions on the Ukrainian military use of the Starshield internet system.",
+        "published_at": "2026-10-25T00:00:00+00:00",
+        "lead_bn": "টেলিভিশনের পর্দায় প্রচারিতব্য বিভিন্ন দেশীয় ও আন্তর্জাতিক ম্যাচের সময়সূচি প্রকাশ করা হয়েছে।",
+        "lead_en": "The daily schedule for live televised domestic and international sports matches has been announced.",
         "bullets_bn": [
-          "ইউক্রেনীয় সামরিক বাহিনীর ব্যবহারের জন্য স্টারশিল্ড ইন্টারনেটের ওপর আরোপিত বিধিনিষেধ প্রত্যাহার করেছে স্পেসএক্স।",
-          "দিন ধরে উচ্চগতিতে চলা ইউক্রেনীয় ড্রোনগুলোর ইন্টারনেট সংযোগ বিচ্ছিন্ন থাকার পর এই পদক্ষেপ নেওয়া হয়।",
-          "সামরিক বাহিনী বর্তমানে সংযোগের কার্যকারিতা পরীক্ষা করছে এবং এই বিধিনিষেধের সুনির্দিষ্ট কোনো কারণ পায়নি।"
+          "পাকিস্তান ও ইংল্যান্ডের মধ্যকার ত্রিদেশীয় সিরিজের ক্রিকেট ম্যাচ সরাসরি সম্প্রচারিত হবে।",
+          "খেলাটি দুপুর দুইটায় টি স্পোর্টস চ্যানেলে সরাসরি দেখা যাবে।",
+          "এছাড়া স্প্যানিশ লা লিগায় সেল্টা ভিগো ও রিয়াল বেতিসের ম্যাচ রাত সাড়ে নয়টায় সরাসরি সম্প্রচারিত হবে।"
         ],
         "bullets_en": [
-          "SpaceX lifted restrictions on the Ukrainian military use of the Starshield internet system.",
-          "The restoration follows a 10-day period where Ukrainian drones lost connectivity at high speeds.",
-          "The military is currently conducting tests to verify connectivity without receiving an official explanation."
+          "A T20 or ODI cricket match from the triangular series between Pakistan and England will be broadcast live.",
+          "The cricket match is scheduled to start live at two PM on T Sports.",
+          "In addition, the La Liga football match between Celta Vigo and Real Betis will be telecast live at nine-thirty PM."
         ],
-        "impact_bn": "এই সেবার স্বাভাবিকীকরণের ফলে ইউক্রেনীয় ড্রোন অপারেশন এবং ফ্রন্টলাইন যোগাযোগ ব্যবস্থা পুনরায় সচল হয়েছে।",
-        "impact_en": "The restoration of satellite internet ensures uninterrupted drone operations and frontline communications for the Ukrainian military.",
-        "details_bn": "এর আগে উচ্চগতিতে চলা ইউক্রেনীয় ড্রোনগুলোর ইন্টারনেট সংযোগ বিচ্ছিন্ন হওয়ার কারণে ড্রোন নিয়ন্ত্রণে সমস্যা দেখা দেয়। মার্কিন প্রশাসনের সাথে যোগাযোগের পর স্পেসএক্স এই পদক্ষেপ নেয়। ইলন মাস্ক পূর্বে ইউক্রেনের ড্রোন ব্যবহারের শর্ত লঙ্ঘন নিয়ে উদ্বেগ প্রকাশ করলেও স্টারশিল্ডের গুরুত্ব স্বীকার করেছেন।",
-        "details_en": "SpaceX previously throttled Ukraine's Starshield access after allegations that terms of service were violated during drone operations. The restriction caused connectivity issues for high-speed drones, prompting discussions involving US leadership. Elon Musk later acknowledged that turning off the system entirely would cause the frontline to collapse."
+        "impact_bn": "খেলোয়াড় ও ক্রীড়াপ্রেমীরা নির্ধারিত সময়ে টেলিভিশনে তাদের পছন্দের ম্যাচগুলো উপভোগ করতে পারবেন।",
+        "impact_en": "Sports fans and viewers can watch their favorite live matches on television according to the schedule.",
+        "details_bn": "ক্রিকেট ও ফুটবলসহ বিভিন্ন আন্তর্জাতিক ও ঘরোয়া টুর্নামেন্টের নিয়মিত সূচি টেলিভিশন চ্যানেলে সরাসরি সম্প্রচার করা হয়। দর্শকরা ঘরে বসেই এসব রোমাঞ্চকর ম্যাচ উপভোগ করার সুযোগ পান। প্রতিদিনের খেলার আপডেট ও সম্প্রচার সময়সূচি ক্রীড়াপ্রেমীদের মধ্যে ব্যাপক আগ্রহ তৈরি করে।",
+        "details_en": "Regular schedules of various international and domestic cricket and football tournaments are broadcast live on television channels. Viewers get the opportunity to enjoy these exciting matches from home. Daily sports updates and broadcast schedules generate significant interest among sports enthusiasts."
       }
     },
     {
-      "story_id": "1b922858-eeeb-58a1-92fb-9e7ae52b61a4",
+      "story_id": "10cf0d22-5209-59bd-93d7-8a1a5c13d0c7",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -288,48 +122,212 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fy5n1xxwd%2FCapture.PNG?rect=0%2C15%2C211%2C111&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T21:26:46+00:00",
+      "published_at": "2026-10-24T23:30:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.4589,
+      "rank_score": 0.7229,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/976535/%E0%A6%97%E0%A6%B0%E0%A7%81%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%B2%E0%A7%87-%E0%A6%98%E0%A7%87%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A7%A9",
-          "title": "গরুর মাংস বলে ঘোড়ার মাংস বিক্রি, ব্যবসায়ীকে ৩ মাসের কারাদণ্ড",
-          "snippet": "গরুর মাংস বলে ঘোড়ার মাংস বিক্রি, ব্যবসায়ীকে ৩ মাসের কারাদণ্ড"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/religion/fts3ek8ww7",
+          "title": "শুভ প্রবারণা পূর্ণিমা আজ",
+          "snippet": "শুভ প্রবারণা পূর্ণিমা আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খুলনায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির দায়ে ব্যবসায়ীকে কারাদণ্ড",
-        "title_en": "Trader Sentenced to Jail for Selling Horse Meat as Beef in Khulna",
-        "summary_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের কারাদণ্ড দিয়েছেন।",
-        "summary_en": "A mobile court sentenced a dishonest trader to three months in jail for selling horse meat disguised as beef in Dumuria, Khulna.",
+        "title_bn": "শুভ প্রবারণা পূর্ণিমা আজ",
+        "title_en": "[Governance Law] শুভ প্রবারণা পূর্ণিমা আজ",
+        "summary_bn": "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
+        "summary_en": "Significant policy and governance development regarding শুভ প্রবারণা পূর্ণিমা আজ.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:26:46+00:00",
-        "lead_bn": "খুলনার ডুমুরিয়ায় গরুর মাংস বলে ঘোড়ার মাংস বিক্রির অপরাধে ভ্রাম্যমাণ আদালত এক অসাধু ব্যবসায়ীকে তিন মাসের কারাদণ্ড দিয়েছেন।",
-        "lead_en": "A mobile court sentenced a dishonest trader to three months in jail for selling horse meat disguised as beef in Dumuria, Khulna.",
+        "published_at": "2026-10-24T23:30:00+00:00",
+        "lead_bn": "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
+        "lead_en": "Key executive and policy developments underway regarding শুভ প্রবারণা পূর্ণিমা আজ.",
         "bullets_bn": [
-          "ভ্রাম্যমাণ আদালত ডুমুরিয়া থানার কাঞ্চনপুর এলাকায় অভিযান পরিচালনা করে ওই ব্যবসায়ীকে কারাদণ্ড প্রদান করেন।",
-          "র‌্যাব-৬ এবং ডুমুরিয়া উপজেলার নির্বাহী ম্যাজিস্ট্রেটের যৌথ উদ্যোগে এই অভিযান পরিচালিত হয়।",
-          "অসাধু ব্যবসায়ীদের বিরুদ্ধে এ ধরনের ভেজালবিরোধী অভিযান ও আইনি পদক্ষেপ অব্যাহত থাকবে।"
+          "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
+          "বৌদ্ধ ভিক্ষুদের তিন মাসের বর্ষাবাস সমাপনীতে প্রবারণা পূর্ণিমা উদ্‌যাপন করেন বৌদ্ধধর্মাবলম্বীরা।",
+          "বৌদ্ধ সম্প্রদায়ের বিশ্বাস, এই পূর্ণিমা পালনের মাধ্যমে বৌদ্ধ ভিক্ষু ও গৃহীদের পাপমোচন হয়।"
         ],
         "bullets_en": [
-          "A mobile court sentenced the trader after conducting a raid in the Kanchonpur area of Dumuria.",
-          "The operation was jointly conducted by RAB-6 and the executive magistrate of Dumuria.",
-          "Such anti-adulteration drives and legal actions against dishonest traders will continue."
+          "Event Update: শুভ প্রবারণা পূর্ণিমা আজ",
+          "বৌদ্ধ ভিক্ষুদের তিন মাসের বর্ষাবাস সমাপনীতে প্রবারণা পূর্ণিমা উদ্‌যাপন করেন বৌদ্ধধর্মাবলম্বীরা।",
+          "বৌদ্ধ সম্প্রদায়ের বিশ্বাস, এই পূর্ণিমা পালনের মাধ্যমে বৌদ্ধ ভিক্ষু ও গৃহীদের পাপমোচন হয়।"
         ],
-        "impact_bn": "খাদ্যদ্রব্যে ভেজাল ও প্রতারণা রোধে প্রশাসনের এমন কঠোর পদক্ষেপ সাধারণ ক্রেতাদের স্বাস্থ্য সুরক্ষা নিশ্চিত করতে সাহায্য করবে।",
-        "impact_en": "Strict administrative measures against food adulteration and fraud help ensure health safety for ordinary consumers.",
-        "details_bn": "খুলনার ডুমুরিয়া উপজেলায় দীর্ঘদিন ধরে কিছু অসাধু ব্যবসায়ী কম দামে ঘোড়া বা অন্য পশুর মাংস সংগ্রহ করে তা গরুর মাংস বলে সাধারণ ক্রেতাদের কাছে বিক্রি করে আসছে বলে অভিযোগ ছিল। গোয়েন্দা তথ্যের ভিত্তিতে র‍্যাব-৬ ও স্থানীয় প্রশাসনের যৌথ দল এই অসাধু চক্রটিকে ধরতে অভিযান চালায়। অভিযানের সময় ঘটনাস্থলে প্রতারণার সত্যতা পাওয়ায় ভ্রাম্যমাণ আদালতের মাধ্যমে তাৎক্ষণিক সাজা দেওয়া হয়।",
-        "details_en": "Allegations had persisted that dishonest traders in Dumuria upazila were procuring cheaper meats and selling them to unsuspecting consumers as beef. Acting on intelligence, a joint team of RAB-6 and local administration launched a raid to bust the syndicate. Upon confirming the fraud at the scene, the mobile court handed down the immediate sentence."
+        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
+        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
+        "details_bn": "বুদ্ধপূজা, সংঘদান, পিণ্ডদান, অষ্টপরিষ্কার দান, পঞ্চশীল প্রার্থনা, শীল গ্রহণ, প্রদীপপূজা ও ফানুস ওড়ানোর মতো নানা আচার পালন করা হয় প্রবারণা পূর্ণিমায়।",
+        "details_en": null
+      }
+    },
+    {
+      "story_id": "984225e4-bae2-5c06-a80a-7a01d1a3da72",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fh9e0kfbc%2FParis.avif?rect=0%2C68%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-24T23:09:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6111,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/europe/uqi1yu06hs",
+          "title": "‘এভাবে হাল ছেড়ে দেওয়া যায় না, রাজপথে ফিরতেই হতো’",
+          "snippet": "‘এভাবে হাল ছেড়ে দেওয়া যায় না, রাজপথে ফিরতেই হতো’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সে লাখো মানুষের বিক্ষোভ",
+        "title_en": "Thousands Protest in France Over Rising Cost of Living and Education Crisis",
+        "summary_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার চরম সংকটের প্রতিবাদে দেশজুড়ে রাজপথে নেমেছেন লাখো ফরাসি নাগরিক।",
+        "summary_en": "Hundreds of thousands of citizens took to the streets across France to protest the rising cost of living and education crisis.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T23:09:09+00:00",
+        "lead_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার চরম সংকটের প্রতিবাদে দেশজুড়ে রাজপথে নেমেছেন লাখো ফরাসি নাগরিক।",
+        "lead_en": "Hundreds of thousands of citizens took to the streets across France to protest the rising cost of living and education crisis.",
+        "bullets_bn": [
+          "জীবনযাত্রার ব্যয়বৃদ্ধি এবং স্কুলগুলোর বেহাল দশার প্রতিবাদে ফ্রান্সজুড়ে বিক্ষোভ করেন সাধারণ মানুষ ও শিক্ষার্থীরা",
+          "স্বরাষ্ট্র মন্ত্রণালয়ের হিসাবে বিক্ষোভে ৪ লাখ ১০ হাজার মানুষ অংশ নিলেও ইউনিয়নগুলোর দাবি সংখ্যাটি প্রায় আট লাখ",
+          "পরিস্থিতি নিয়ন্ত্রণে দেশজুড়ে ৭০ হাজার পুলিশ মোতায়েন করা হয় এবং প্যারিস ও মার্সেইয়ে পুলিশের সাথে সংঘর্ষ হয়"
+        ],
+        "bullets_en": [
+          "Citizens and students protested across France against soaring living costs and deteriorating school conditions.",
+          "The interior ministry estimated 410000 participants while unions claimed the number reached nearly 800000.",
+          "Authorities deployed 70000 police officers nationwide leading to clashes in Paris and Marseille."
+        ],
+        "impact_bn": "শিক্ষাব্যবস্থার অবনতি ও মূল্যস্ফীতির কারণে সাধারণ শিক্ষার্থী ও পরিবারগুলোর জীবনযাত্রা কঠিন হয়ে পড়েছে।",
+        "impact_en": "Deteriorating educational standards and inflation have severely impacted the daily lives of ordinary families and students.",
+        "details_bn": "ফ্রান্সে ক্রমবর্ধমান মূল্যস্ফীতি, সরকারি সেবার মান হ্রাস এবং শিক্ষাব্যবস্থার জরাজীর্ণ অবস্থার প্রতিবাদে এই গণবিক্ষোভের ডাক দেওয়া হয়। এর ফলে ল্যুভর জাদুঘর ও প্যারিস অপেরার মতো গুরুত্বপূর্ণ প্রতিষ্ঠান বন্ধ রাখতে বাধ্য হয় কর্তৃপক্ষ। সাধারণ মানুষের অসন্তোষের মুখে সরকার পরিস্থিতি সামাল দিতে ব্যাপক নিরাপত্তা ব্যবস্থা গ্রহণ করে।",
+        "details_en": "The mass protests erupted in France amid surging inflation, declining public services, and decaying educational infrastructure. The unrest forced major cultural landmarks like the Louvre Museum and Paris Opera to close, prompting authorities to deploy heavy security forces nationwide."
+      }
+    },
+    {
+      "story_id": "9c8d9edc-012f-50a4-83ae-e9cca8c7abde",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T23:08:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6058,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976536/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87",
+          "title": "ধর্মমন্ত্রীর বক্তব্য বিচ্ছিন্নভাবে প্রকাশ না করে পুনর্বিবেচনার আহ্বান মন্ত্রণালয়ের",
+          "snippet": "ধর্মমন্ত্রীর বক্তব্য বিচ্ছিন্নভাবে প্রকাশ না করে পুনর্বিবেচনার আহ্বান মন্ত্রণালয়ের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ধর্মমন্ত্রীর বক্তব্য পুনর্বিবেচনা করে সংবাদ প্রকাশের আহ্বান মন্ত্রণালয়ের",
+        "title_en": "Ministry Urges Media to Reconsider Reports on Religious Affairs Minister Remarks",
+        "summary_bn": "ধর্ম বিষয়ক মন্ত্রণালয় জাতীয় ইমাম সমিতির কাউন্সিল শেষে ধর্মমন্ত্রীর দেওয়া বক্তব্য যথাযথভাবে বিবেচনা করে সংবাদ প্রতিবেদন সংশোধনের আহ্বান জানিয়েছে।",
+        "summary_en": "The Ministry of Religious Affairs urged media outlets to properly review and reconsider news reports based on the religious minister remarks.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T23:08:00+00:00",
+        "lead_bn": "ধর্ম বিষয়ক মন্ত্রণালয় জাতীয় ইমাম সমিতির কাউন্সিল শেষে ধর্মমন্ত্রীর দেওয়া বক্তব্য যথাযথভাবে বিবেচনা করে সংবাদ প্রতিবেদন সংশোধনের আহ্বান জানিয়েছে।",
+        "lead_en": "The Ministry of Religious Affairs urged media outlets to properly review and reconsider news reports based on the religious minister remarks.",
+        "bullets_bn": [
+          "ধর্ম বিষয়ক মন্ত্রণালয় সংবাদ প্রকাশে মন্ত্রীর বক্তব্যের প্রেক্ষাপট যথাযথভাবে বিবেচনায় নেওয়ার আহ্বান জানিয়েছে।",
+          "জাতীয় ইমাম সমিতির ত্রি-বার্ষিক কাউন্সিল অধিবেশন শেষে সাংবাদিকদের সাথে এই বক্তব্য বিনিময় করা হয়।",
+          "মন্ত্রণালয় থেকে পাঠানো একটি প্রতিবাদলিপির মাধ্যমে এই সংশোধনের অনুরোধ জানানো হয়।"
+        ],
+        "bullets_en": [
+          "The Ministry of Religious Affairs urged media outlets to carefully consider the context of the minister statements.",
+          "The remarks were made to journalists following the tri-annual council session of the National Imam Association.",
+          "The ministry formally requested the revision through an official press statement and protest note."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় ইমাম সমিতির ত্রি-বার্ষিক কাউন্সিল অধিবেশন শেষে সাংবাদিকদের সাথে কথা বলেন ধর্ম বিষয়ক মন্ত্রী কাজী শাহ মোফাজ্জাল হোসাইন কায়কোবাদ। পরবর্তীতে সেই বক্তব্য গণমাধ্যমে প্রকাশিত হওয়ার পর বিভিন্ন মহলে আলোচনা তৈরি হয়। এর প্রেক্ষিতে ধর্ম বিষয়ক মন্ত্রণালয় থেকে একটি প্রতিবাদলিপির মাধ্যমে গণমাধ্যমগুলোকে সংবাদ প্রকাশে আরও সতর্ক ও বস্তুনিষ্ঠ হওয়ার অনুরোধ জানানো হয়।",
+        "details_en": "Following the tri-annual council session of the National Imam Association, Religious Affairs Minister Kazi Shah Mofazzal Hossain Kaikobad spoke with journalists. After these remarks were published across various media outlets, the Ministry of Religious Affairs issued a formal protest note urging media organizations to exercise caution and contextual accuracy in their reporting."
+      }
+    },
+    {
+      "story_id": "8650a354-1ccf-56d3-957c-abc3131ff457",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-24T21:08:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.3064,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171590",
+          "title": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু",
+          "snippet": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শ্রীমঙ্গলে নিখোঁজ মাদরাসাশিক্ষকের মরদেহ উদ্ধার, হাসপাতালে নেওয়ার পথে মৃত্যু",
+        "title_en": "Missing Madrasa Teacher Found Injured Under Bridge, Dies on Way to Hospital",
+        "summary_bn": "মৌলভীবাজারের শ্রীমঙ্গলে নিখোঁজ হওয়ার একদিন পর এক মাদরাসাশিক্ষককে সেতুসংলগ্ন এলাকা থেকে উদ্ধার করা হয় এবং হাসপাতালে নেওয়ার পথে তার মৃত্যু ঘটে।",
+        "summary_en": "A missing madrasa teacher in Sreemangal of Moulvibazar was found injured under a bridge and died on the way to the hospital.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-24T21:08:46+00:00",
+        "lead_bn": "মৌলভীবাজারের শ্রীমঙ্গলে নিখোঁজ হওয়ার একদিন পর এক মাদরাসাশিক্ষককে সেতুসংলগ্ন এলাকা থেকে উদ্ধার করা হয় এবং হাসপাতালে নেওয়ার পথে তার মৃত্যু ঘটে।",
+        "lead_en": "A missing madrasa teacher in Sreemangal of Moulvibazar was found injured under a bridge and died on the way to the hospital.",
+        "bullets_bn": [
+          "নিখোঁজ মাদরাসাশিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদারকে শ্রীমঙ্গলের একটি সেতুর নিচ থেকে উদ্ধার করা হয়।",
+          "বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান নিখোঁজ হওয়ার একদিন পর এই মর্মান্তিক ঘটনা ঘটে।",
+          "উদ্ধারের পর হাসপাতালে নেওয়ার সময় তার মৃত্যু নিশ্চিত করেন চিকিৎসকরা।"
+        ],
+        "bullets_en": [
+          "Missing madrasa teacher Maulana Shah Moniruzzaman Jasim Talukdar was found beneath a bridge in Sreemangal.",
+          "The incident occurred one day after the teacher of Baruna Madrasa was reported missing.",
+          "Doctors declared him dead while he was being transported to the hospital following the rescue."
+        ],
+        "impact_bn": "এই মর্মান্তিক মৃত্যুর ঘটনায় শিক্ষক সমাজ ও স্থানীয় জনসাধারণের মধ্যে গভীর শোক ও উদ্বেগের সৃষ্টি হয়েছে।",
+        "impact_en": "The tragic death has sparked deep shock and concern among the local community and educational circles.",
+        "details_bn": "মৌলভীবাজারের শ্রীমঙ্গলের ঐতিহ্যবাহী জামেয়া লুৎফিয়া আনোয়ারুল উলুম হামিদ নগর বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার নিখোঁজ হওয়ার পরদিন এই দুর্ঘটনা ঘটে। সেতুসংলগ্ন এলাকা থেকে তাকে গুরুতর অবস্থায় উদ্ধার করে হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়। কীভাবে তিনি সেখানে গেলেন এবং তার মৃত্যুর প্রকৃত কারণ কী, সে বিষয়ে আইন শৃঙ্খলা রক্ষাকারী বাহিনী তদন্ত শুরু করেছে।",
+        "details_en": "Maulana Shah Moniruzzaman Jasim Talukdar, a teacher at the Jamia Lutfia Anwarul Ulum Hamid Nagar Baruna Madrasa in Sreemangal, Moulvibazar, was found a day after being reported missing. He was rescued in a critical condition near a bridge and died while being transported to the hospital. Law enforcement agencies have launched an investigation to determine the exact cause and circumstances surrounding the incident."
       }
     }
   ]
