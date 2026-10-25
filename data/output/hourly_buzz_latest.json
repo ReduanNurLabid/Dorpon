@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-10-25T16:00:42.610082",
+  "updated_at": "2026-10-25T17:00:45.679075",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "ce26c491-44f3-57db-8f4f-0c48c567d762",
+      "story_id": "95b562dc-e6b1-54c9-ac6c-e5adbe5292cd",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
@@ -15,46 +16,47 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T16:00:07+00:00",
+      "published_at": "2026-10-25T16:19:03+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.9324,
+      "rank_score": 1.3204,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976739/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা-ভাঙচুর: ১০০ জনের বিরুদ্ধে মামলা, গ্রেফতার ৭",
-          "snippet": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা-ভাঙচুর: ১০০ জনের বিরুদ্ধে মামলা, গ্রেফতার ৭"
+          "url": "https://www.banglatribune.com/law-and-crime/976742/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
+          "title": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি: ডিজিএফআই-আনসার সদস্যসহ ৬ জন কারাগারে",
+          "snippet": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি: ডিজিএফআই-আনসার সদস্যসহ ৬ জন কারাগারে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা ও ভাঙচুরের ঘটনায় মামলা দায়ের, গ্রেফতার ৭",
-        "title_en": "Case Filed and Seven Arrested Over Attack on Police Vehicle in Gopalganj",
-        "summary_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা এবং ভাঙচুরের ঘটনায় একশ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
-        "summary_en": "A case has been filed against one hundred individuals following an attack and vandalism on a police vehicle in Gopalganj.",
+        "title_bn": "ব্যবসায়ীকে অপহরণ ও চাঁদা দাবির মামলায় ডিজিএফআই ও আনসার সদস্যসহ ৬ জন কারাগারে",
+        "title_en": "Court Sends Six Including DGFI and Ansar Personnel to Jail in Businessman Extortion Case",
+        "summary_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে ফাঁদে ফেলে অপহরণ ও চাঁদা দাবির অভিযোগে ডিজিএফআই ও আনসার সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "A Dhaka court has sent six individuals, including DGFI and Ansar personnel, to jail over allegations of kidnapping and extorting a businessman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:00:07+00:00",
-        "lead_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা এবং ভাঙচুরের ঘটনায় একশ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
-        "lead_en": "A case has been filed against one hundred individuals following an attack and vandalism on a police vehicle in Gopalganj.",
+        "published_at": "2026-10-25T16:19:03+00:00",
+        "lead_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে ফাঁদে ফেলে অপহরণ ও চাঁদা দাবির অভিযোগে ডিজিএফআই ও আনসার সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "A Dhaka court has sent six individuals, including DGFI and Ansar personnel, to jail over allegations of kidnapping and extorting a businessman.",
         "bullets_bn": [
-          "পুলিশের গাড়িতে হামলা এবং ভাঙচুরের অভিযোগে একশ জনকে আসামি করে মামলা দায়ের করেছে পুলিশ।",
-          "মামলায় ৪০ জনের নাম উল্লেখ করা হয়েছে এবং অজ্ঞাতনামা আসামি করা হয়েছে ৬০ জনকে।",
-          "ঘটনাস্থল থেকে আটক সাতজনকে সংশ্লিষ্ট মামলায় গ্রেফতার দেখিয়ে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
+          "মোহাম্মদপুরে এক ব্যবসায়ীকে আটকে রেখে ১০ লাখ টাকা চাঁদা দাবি এবং মারধরের ঘটনা ঘটে।",
+          "তদন্ত কর্মকর্তার আবেদনের পরিপ্রেক্ষিতে ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত এই আদেশ দেন।",
+          "আসামিদের কারাগারে পাঠিয়ে মামলার পরবর্তী তদন্ত ও আইনগত প্রক্রিয়া অব্যাহত রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "Police filed a case naming one hundred individuals following an attack and vandalism on a police vehicle.",
-          "The case includes forty named suspects and sixty unnamed individuals.",
-          "Seven detained individuals were formally arrested under the case and sent to jail through court proceedings."
+          "A businessman was trapped, detained, assaulted, and subjected to a 1 million taka extortion demand in Mohammadpur.",
+          "The Dhaka Metropolitan Magistrate court issued the jail order following an appeal by the investigating officer.",
+          "The accused have been sent to prison while further investigation and legal proceedings of the case continue."
         ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলার ঘটনায় স্থানীয় নিরাপত্তা পরিস্থিতি ও আইনি পদক্ষেপের বিষয়টি সামনে এসেছে।",
-        "impact_en": "The incident highlights heightened security concerns and enforcement measures regarding attacks on law enforcement personnel.",
-        "details_bn": "গোপালগঞ্জ সদর থানায় পুলিশের ওপর হামলা, মারধর ও গাড়ি ভাঙচুরের এই ঘটনা ঘটে। জয় বাংলা স্লোগান দিয়ে পুলিশের ওপর চড়াও হওয়ার পর আইনশৃঙ্খলা রক্ষাকারী বাহিনী দ্রুত পদক্ষেপ নেয় এবং মামলা দায়েরের পাশাপাশি সন্দেহভাজনদের গ্রেফতারে অভিযান পরিচালনা করে।",
-        "details_en": "The incident unfolded at Gopalganj Sadar when a group chanted slogans and launched a violent assault on police personnel, damaging a patrol vehicle. Law enforcement authorities acted promptly by filing a formal case and arresting suspects involved in the disruption."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের অপরাধে জড়িয়ে পড়ার এই ঘটনা সাধারণ মানুষের নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।",
+        "impact_en": "This incident involving security personnel in criminal activities raises serious concerns regarding public safety and institutional accountability.",
+        "details_bn": "রাজধানীর মোহাম্মদপুরে এক ব্যবসায়ীকে লক্ষ্য করে সংঘটিত অপরাধমূলক কর্মকাণ্ডের অভিযোগে মামলা দায়ের করা হয়। ওই মামলায় প্রতিরক্ষা গোমহদপ্তর ও আনসার বাহিনীর সদস্যসহ মোট ছয়জনকে আসামি করা হয়। অপরাধমূলক কর্মকাণ্ডে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর বিভিন্ন সদস্যের জড়িয়ে পড়ার প্রবণতা রোধে কঠোর পদক্ষেপ নেওয়ার দাবি জোরালো হচ্ছে। তদন্ত কর্মকর্তা আদালতের মাধ্যমে আসামিদের কারাগারে আটক রাখার আবেদন জানালে বিচারক তা মঞ্জুর করেন।",
+        "details_en": "A case was filed following allegations of a criminal scheme targeting a businessman in Mohammadpur, involving members of state security agencies. The accused individuals, including personnel from DGFI and Ansar, faced charges of abduction, assault, and extortion. The investigating officer formally requested their detention, which the metropolitan magistrate court approved, highlighting ongoing concerns over accountability within enforcement bodies."
       }
     },
     {
@@ -73,7 +75,7 @@
       "published_at": "2026-10-25T15:57:23+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.877,
+      "rank_score": 1.1215,
       "sources": [
         {
           "name": "Jago News 24",
@@ -85,8 +87,8 @@
       "daily_buzz": {
         "title_bn": "সৌদি আরব থেকে আটকে থাকা ৪০ ওমরাহযাত্রী দেশে ফিরেছেন",
         "title_en": "Stranded Umrah Pilgrims Return to Bangladesh from Saudi Arabia",
-        "summary_bn": "সৌদি আরবে হামলার ঘটনায় আটকে পড়া বাংলাদেশি ওমরাহ যাত্রীদের শেষ কাফেলার ৪০ সদস্য নিরাপদে দেশে ফিরেছেন।",
-        "summary_en": "The final group of forty Bangladeshi Umrah pilgrims stranded due to attacks in Saudi Arabia have returned home safely.",
+        "summary_bn": "সৌদি আরবে আঞ্চলিক অস্থিরতার কারণে আটকে পড়া বাংলাদেশি ওমরাহযাত্রীদের শেষ দলটি নিরাপদে দেশে ফিরেছে।",
+        "summary_en": "The final group of Bangladeshi Umrah pilgrims stranded due to regional instability in Saudi Arabia has returned home safely.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,260 +96,259 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T15:57:23+00:00",
-        "lead_bn": "সৌদি আরবে হামলার ঘটনায় আটকে পড়া বাংলাদেশি ওমরাহ যাত্রীদের শেষ কাফেলার ৪০ সদস্য নিরাপদে দেশে ফিরেছেন।",
-        "lead_en": "The final group of forty Bangladeshi Umrah pilgrims stranded due to attacks in Saudi Arabia have returned home safely.",
+        "lead_bn": "সৌদি আরবে আঞ্চলিক অস্থিরতার কারণে আটকে পড়া বাংলাদেশি ওমরাহযাত্রীদের শেষ দলটি নিরাপদে দেশে ফিরেছে।",
+        "lead_en": "The final group of Bangladeshi Umrah pilgrims stranded due to regional instability in Saudi Arabia has returned home safely.",
         "bullets_bn": [
-          "সৌদি আরবে সৃষ্ট নিরাপত্তা সংকটে আটকে থাকা বাংলাদেশি ওমরাহযাত্রীদের শেষ কাফেলা দেশে পৌঁছেছে।",
-          "ফিরে আসা কাফেলায় মোট ৪০ জন ওমরাহযাত্রী ছিলেন যারা বিভিন্ন বিমানবন্দর হয়ে ঢাকায় অবতরণ করেন।",
-          "সংশ্লিষ্ট কর্তৃপক্ষ ও বিমানবন্দর সূত্র ওমরাহযাত্রীদের নিরাপদে অভ্যর্থনা জানিয়ে তাদের স্বজনদের কাছে হস্তান্তর করেছে।"
+          "সৌদি আরবে হামলার ঘটনায় আটকে পড়া ৪০ জন বাংলাদেশি ওমরাহযাত্রী বিমানবন্দর দিয়ে দেশে ফেরেন",
+          "ফিরে আসা যাত্রীদের বিমানবন্দর কর্তৃপক্ষ এবং সংশ্লিষ্ট প্রবাসীরা উষ্ণ অভ্যর্থনা জানান",
+          "সংশ্লিষ্ট কূটনৈতিক সহায়তার মাধ্যমে আটকে থাকা সব যাত্রীকে পর্যায়ক্রমে নিরাপদে দেশে ফিরিয়ে আনা হয়"
         ],
         "bullets_en": [
-          "The final batch of stranded Bangladeshi Umrah pilgrims has arrived home amidst security concerns in Saudi Arabia.",
-          "The returning group comprised forty pilgrims who landed safely at the airport.",
-          "Relevant authorities and airport officials warmly welcomed the pilgrims and handed them over to their families."
+          "Forty stranded Bangladeshi Umrah pilgrims returned through the airport following security disruptions in Saudi Arabia",
+          "Airport authorities and concerned expatriates warmly welcomed the returning pilgrims upon their arrival",
+          "All stranded travelers were successfully repatriated in phases through coordinated diplomatic assistance"
         ],
-        "impact_bn": "আটকে পড়া ওমরাহযাত্রীদের নিরাপদে প্রত্যাবর্তনে তাদের পরিবার ও স্বজনদের দীর্ঘদিনের দুশ্চিন্তার অবসান ঘটেছে।",
-        "impact_en": "The safe return of the stranded pilgrims brings great relief to their families and ends weeks of anxiety.",
-        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন দেশের আকাশসীমায় চলমান নিরাপত্তা সংকট এবং হামলার ঘটনার কারণে সৌদি আরবে বেশ কিছু বাংলাদেশি ওমরাহযাত্রী আটকা পড়েন। কূটনৈতিক প্রচেষ্টা ও সংশ্লিষ্ট বিমান সংস্থার সহায়তায় ধাপে ধাপে তাদের দেশে ফিরিয়ে আনা হয়। এই ৪০ জনের শেষ কাফেলাটি পৌঁছানোর মাধ্যমে পুরো উদ্ধার কার্যক্রম সফলভাবে সম্পন্ন হলো।",
-        "details_en": "Several Bangladeshi Umrah pilgrims became stranded in Saudi Arabia due to ongoing security disruptions and airspace closures in the Middle East. Through coordinated diplomatic efforts and airline support, the pilgrims were brought back in phases, concluding successfully with the arrival of this final group of forty."
+        "impact_bn": "মধ্যপ্রাচ্যে যেকোনো সংকটে আটকে পড়া প্রবাসীদের নিরাপত্তা ও জরুরি ফেরানোর প্রক্রিয়া ত্বরান্বিত হওয়ায় স্বস্তি ফিরেছে পরিবারগুলোতে।",
+        "impact_en": "Relief has been brought to families as the safety and repatriation process for expatriates stranded during Middle East crises is expedited.",
+        "details_bn": "মধ্যপ্রাচ্যের সাম্প্রতিক নিরাপত্তা পরিস্থিতি এবং হামলার ঘটনার ফলে সৌদি আরবে বেশ কিছু বাংলাদেশি ওমরাহযাত্রী আটকা পড়েন। দেশটির বিভিন্ন বিমানবন্দর সাময়িকভাবে বিঘ্নিত হওয়ায় তাদের ফেরা অনিশ্চিত হয়ে পড়েছিল। পরে সরকারের কূটনৈতিক প্রচেষ্টা ও সংশ্লিষ্ট বিমান সংস্থার সহযোগিতায় তাদের পর্যায়ক্রমে দেশে ফিরিয়ে আনার ব্যবস্থা করা হয়।",
+        "details_en": "Recent security tensions and attacks in the Middle East left several Bangladeshi Umrah pilgrims stranded in Saudi Arabia. Their return became uncertain as flight operations at various airports faced temporary disruptions. Subsequently, through government diplomatic efforts and airline cooperation, arrangements were made to repatriate them in phases."
       }
     },
     {
-      "story_id": "e127d7cf-b0a1-53ae-a29a-834e94e4b80a",
+      "story_id": "d13ec4c1-0794-5a25-9688-6310a29d10c3",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/423760.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-25T16:59:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9611,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/pakistan-pcb-npl/",
+          "title": "খেলোয়াড়দের নেপাল প্রিমিয়ার লিগের ছাড়পত্র দিতে অর্থ চাচ্ছে পাকিস্তান বোর্ড",
+          "snippet": "খেলোয়াড়দের নেপাল প্রিমিয়ার লিগের ছাড়পত্র দিতে অর্থ চাচ্ছে পাকিস্তান বোর্ড"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের অংশগ্রহণ এনওসি জটিলতায় অনিশ্চিত",
+        "title_en": "Participation of Pakistani Cricketers in Nepal Premier League Uncertain Due to NOC Issues",
+        "summary_bn": "পাকিস্তান ক্রিকেট বোর্ডের ছাড়পত্র সংক্রান্ত জটিলতার কারণে নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের খেলা অনিশ্চয়তার মুখে পড়েছে।",
+        "summary_en": "Participation of Pakistani cricketers in the Nepal Premier League faces uncertainty due to clearance complications from the cricket board.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T16:59:41+00:00",
+        "lead_bn": "পাকিস্তান ক্রিকেট বোর্ডের ছাড়পত্র সংক্রান্ত জটিলতার কারণে নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের খেলা অনিশ্চয়তার মুখে পড়েছে।",
+        "lead_en": "Participation of Pakistani cricketers in the Nepal Premier League faces uncertainty due to clearance complications from the cricket board.",
+        "bullets_bn": [
+          "পাকিস্তান ক্রিকেট বোর্ড আগে ছাড়পত্র পাওয়া ক্রিকেটারদের লিগে খেলার অনুমতি স্থগিত রেখেছে।",
+          "ছাড়পত্র দেওয়ার বিনিময়ে পিসিবি প্রতিটি ক্রিকেটারের জন্য প্রায় ২৫ হাজার মার্কিন ডলার ফি দাবি করেছে বলে সূত্র জানিয়েছে।",
+          "টুর্নামেন্টে অংশ নিতে যাওয়া পাকিস্তানি ক্রিকেটারদের অনেকেই সমস্যার সমাধান না হওয়া পর্যন্ত যাত্রা স্থগিত রেখেছেন।"
+        ],
+        "bullets_en": [
+          "The Pakistan Cricket Board has temporarily suspended permission for players who previously received clearance to play in the league.",
+          "Sources claim the PCB is demanding a fee of approximately twenty five thousand US dollars per player in exchange for the No Objection Certificate.",
+          "Several Pakistani cricketers scheduled to participate in the tournament have delayed their travel until the issue is resolved."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "আট দলের নেপাল প্রিমিয়ার লিগ অনুষ্ঠিত হওয়ার কথা রয়েছে। টুর্নামেন্টে পাকিস্তানের টি-টুয়েন্টি অধিনায়ক সাহেবজাদা ফারহানসহ বেশ কয়েকজন তারকা ক্রিকেটারের খেলার কথা রয়েছে। তাদের আন্তর্জাতিক কোনো ব্যস্ততা না থাকলেও ছাড়পত্র জটিলতা ও ফি দাবির গুঞ্জনে তাদের অংশগ্রহণ নিয়ে অনিশ্চয়তা তৈরি হয়েছে। পিসিবির নতুন কেন্দ্রীয় চুক্তিকাঠামো ও ফ্র্যাঞ্চাইজি লিগে খেলার নীতিমালার বিষয়ে আনুষ্ঠানিক স্পষ্টতা না থাকায় এই সংকট তৈরি হয়েছে।",
+        "details_en": "The eight-team Nepal Premier League is scheduled to take place, featuring several prominent Pakistani cricketers including T20 captain Sahibzada Farhan. Despite having no international scheduling conflicts, uncertainty arose due to clearance complications and reports of fee demands by the PCB. The lack of official clarity regarding the board's new central contract framework and policies for franchise leagues has contributed to the ongoing crisis."
+      }
+    },
+    {
+      "story_id": "7d1de083-6bc1-53f8-84ec-3dcf16810220",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-13-2.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-25T15:40:50+00:00",
+      "published_at": "2026-10-25T16:57:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.594,
+      "importance_score": 2.4,
+      "rank_score": 0.9391,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171927",
-          "title": "রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দুই এআরএ সদস্য আটক",
-          "snippet": "রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দুই এআরএ সদস্য আটক"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/1413-rajuk-plots-under-investigation-1074-suspended/",
+          "title": "তদন্তের মুখে রাজউকের ১৪১৩ প্লট, স্থগিত ১০৭৪টি",
+          "snippet": "তদন্তের মুখে রাজউকের ১৪১৩ প্লট, স্থগিত ১০৭৪টি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "উখিয়ায় রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দেশীয় অস্ত্রসহ আটক দুই এআরএ সদস্য",
-        "title_en": "Two Armed ARA Members Arrested With Weapons During Rohingya Camp Robbery Preparation",
-        "summary_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতির সময় দেশীয় অস্ত্রসহ সশস্ত্র গোষ্ঠী এআরএ’র দুই সদস্যকে আটক করেছে পুলিশ।",
-        "summary_en": "Police arrested two armed members of the ARA group with local weapons while preparing for a robbery in a Rohingya camp in Ukhiya.",
+        "title_bn": "রাজউকের রাজনৈতিক বিবেচনায় বরাদ্দকৃত ১৪১৩ প্লট তদন্ত ও ১০৭৪টি স্থগিত",
+        "title_en": "Rajuk Investigates 1413 Politically Allocated Plots and Suspends 1074",
+        "summary_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ রাজনৈতিক বিবেচনায় বরাদ্দ দেওয়া ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও অনিয়মের অভিযোগে ১ হাজার ৭৪টি প্লট স্থগিত করেছে।",
+        "summary_en": "Rajuk is investigating 1,413 politically allocated plots and has suspended 1,074 plots over verified allocation irregularities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T15:40:50+00:00",
-        "lead_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতির সময় দেশীয় অস্ত্রসহ সশস্ত্র গোষ্ঠী এআরএ’র দুই সদস্যকে আটক করেছে পুলিশ।",
-        "lead_en": "Police arrested two armed members of the ARA group with local weapons while preparing for a robbery in a Rohingya camp in Ukhiya.",
+        "published_at": "2026-10-25T16:57:30+00:00",
+        "lead_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ রাজনৈতিক বিবেচনায় বরাদ্দ দেওয়া ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও অনিয়মের অভিযোগে ১ হাজার ৭৪টি প্লট স্থগিত করেছে।",
+        "lead_en": "Rajuk is investigating 1,413 politically allocated plots and has suspended 1,074 plots over verified allocation irregularities.",
         "bullets_bn": [
-          "এপিবিএন পুলিশ কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে অভিযান চালিয়ে দুই সশস্ত্র ব্যক্তিকে আটক করে",
-          "অভিযানের সময় আটককৃতদের কাছ থেকে দেশীয় অস্ত্র উদ্ধার করা হয়",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী রোহিঙ্গা ক্যাম্পের নিরাপত্তা জোরদার করতে অভিযান অব্যাহত রেখেছে"
+          "রাজনৈতিক বিবেচনায় বরাদ্দকৃত ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও তদন্ত কার্যক্রম জোরদার করেছে রাজধানী উন্নয়ন কর্তৃপক্ষ।",
+          "প্রাথমিক অনিয়মের প্রমাণ পাওয়ায় পূর্বাচল নতুন প্রকল্পের ৮৭৪টি এবং ঝিলমিল আবাসিক এলাকার ২০০টি প্লটের কার্যক্রম স্থগিত করা হয়েছে।",
+          "তদন্তে অনিয়ম প্রমাণিত হলে এসব প্লট বরাদ্দের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা নেওয়া হবে।"
         ],
         "bullets_en": [
-          "APBn police conducted a drive and arrested two armed individuals in a Rohingya camp in Ukhiya",
-          "Local weapons were recovered from the possession of the detainees during the operation",
-          "Law enforcement agencies continue operations to enhance security within the Rohingya camps"
+          "Rajuk has intensified scrutiny and investigation into 1,413 plots allocated through political consideration.",
+          "Authorities suspended 874 plots in Purbachal and 200 plots in Jhilmil after finding primary evidence of irregularities.",
+          "Strict legal actions will be enforced against these allocations if investigations confirm rule violations."
         ],
-        "impact_bn": "ক্যাম্পে অপরাধমূলক কর্মকাণ্ড ও সশস্ত্র গোষ্ঠীর তৎপরতা কমলে সাধারণ রোহিঙ্গা শরণার্থীরা নিরাপদ পরিবেশে বসবাস করতে পারবে।",
-        "impact_en": "Curbing criminal activities and armed group operations will allow ordinary Rohingya refugees to live in a safer environment.",
-        "details_bn": "কক্সবাজারের উখিয়া ও টেকনাফের রোহিঙ্গা ক্যাম্পগুলোতে বিভিন্ন সশস্ত্র গোষ্ঠীর আধিপত্য বিস্তার ও অপরাধমূলক কর্মকাণ্ড রোধে আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিয়মিত অভিযান পরিচালনা করে আসছে। সাম্প্রতিক সময়ে ক্যাম্পে খুন, অপহরণ এবং ডাকাতির মতো অপরাধ দমনে এপিবিএন এবং অন্যান্য আইনপ্রয়োগকারী সংস্থা নিরাপত্তা ব্যবস্থা জোরদার করেছে।",
-        "details_en": "Law enforcement agencies regularly conduct operations in the Rohingya camps of Ukhiya and Teknaf to curb the dominance of various armed groups and criminal activities. Recently, APBn and other law enforcement agencies have tightened security measures to prevent crimes such as murder, abduction, and robbery in the camps."
+        "impact_bn": "আবাসিক প্লট বরাদ্দে স্বচ্ছতা ও ন্যায়বিচার নিশ্চিত হলে সাধারণ নাগরিক এবং প্রকৃত আবাসন প্রত্যাশীরা উপকৃত হবেন।",
+        "impact_en": "Transparency in land allocation ensures fair access to housing for deserving citizens and curbs political favoritism.",
+        "details_bn": "থেকে ২০২৪ সাল পর্যন্ত গুলশান, বনানী, উত্তরা, পূর্বাচল এবং ঝিলমিল আবাসিক এলাকায় রাজনৈতিক বিবেচনায় ১ হাজার ৪১৩টি প্লট বরাদ্দ দেওয়া হয়। হাইকোর্ট বিভাগের রুল অনুযায়ী গঠিত বিশেষ কমিটি এসব প্লটের নথি পরীক্ষা করে মন্ত্রণালয়ে প্রতিবেদন জমা দেয়। প্রাপ্ত প্রতিবেদনের ভিত্তিতে প্রাথমিক অনিয়ম প্রমাণিত হওয়ায় রাজউক প্লটগুলোর কার্যক্রম স্থগিত করে এবং চূড়ান্ত আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করে।",
+        "details_en": "Between 2009 and 2024, a total of 1,413 plots were politically allocated across Gulshan, Banani, Uttara, Purbachal, and Jhilmil residential areas. A committee formed under a High Court directive reviewed the documents and submitted a report to the ministry. Based on the findings, Rajuk suspended the allocations and initiated processes for strict legal actions."
       }
     },
     {
-      "story_id": "6dff5ad4-eb16-53bd-a4c3-7dadc8b20dd4",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fo9yj1ic5%2Fhighway-leading.jpg?rect=0%2C72%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T15:28:41+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4307,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/dxxn6kmbrb",
-          "title": "রিয়াদের কিং খালিদ বিমানবন্দর আংশিক চালু, সৌদি আরবে হামলা চলছেই",
-          "snippet": "রিয়াদের কিং খালিদ বিমানবন্দর আংশিক চালু, সৌদি আরবে হামলা চলছেই"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি জোটের ক্ষেপণাস্ত্র প্রতিহত করার পর রিয়াদ বিমানবন্দরের আংশিক কার্যক্রম শুরু",
-        "title_en": "Riyadh Airport Resumes Partial Operations After Saudi Coalition Intercepts Missiles",
-        "summary_bn": "সৌদি জোট ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের দুটি টার্মিনালে আংশিক কার্যক্রম শুরু হয়েছে।",
-        "summary_en": "King Khalid International Airport in Riyadh resumes operations across two terminals after the Saudi coalition intercepts incoming missiles and drones.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T15:28:41+00:00",
-        "lead_bn": "সৌদি জোট ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের দুটি টার্মিনালে আংশিক কার্যক্রম শুরু হয়েছে।",
-        "lead_en": "King Khalid International Airport in Riyadh resumes operations across two terminals after the Saudi coalition intercepts incoming missiles and drones.",
-        "bullets_bn": [
-          "সৌদি নেতৃত্বাধীন সামরিক জোট রিয়াদ এবং খামিস মুশাইত লক্ষ্য করে ছোড়া একাধিক ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন সফলভাবে ধ্বংস করেছে।",
-          "হুতিদের ১০ অক্টোবরের হামলায় তেরো জন নিহত ও তিন শতাধিক আহত হওয়ার পর বিমানবন্দরটি সাময়িকভাবে বন্ধ রাখা হয়েছিল।",
-          "বিমানবন্দর কর্তৃপক্ষ এক ও দুই নম্বর টার্মিনালে যথাক্রমে অভ্যন্তরীণ ও আন্তর্জাতিক ফ্লাইট পুনরায় চালুর ঘোষণা দিয়েছে।"
-        ],
-        "bullets_en": [
-          "The Saudi-led military coalition successfully destroyed multiple ballistic missiles and drones targeting Riyadh and Khamis Mushait.",
-          "The airport was temporarily shut down following an October 10 Houthi attack that left thirteen dead and over three hundred injured.",
-          "Airport authorities announced the resumption of domestic and international flights at terminal one and two respectively."
-        ],
-        "impact_bn": "বিমান চলাচল ব্যাহত হওয়ায় মধ্যপ্রাচ্যের আকাশপথে যাতায়াতকারী যাত্রী ও প্রবাসীদের চলাচলে অনিশ্চয়তা তৈরি হয়েছে।",
-        "impact_en": "Ongoing aerial threats and travel disruptions create uncertainty for international passengers and expatriates commuting through the region.",
-        "details_bn": "ইয়েমেনের ইরান-সমর্থিত হুতি গোষ্ঠী দীর্ঘদিন ধরে সৌদি আরবের তেল স্থাপনা ও সামরিক ঘাঁটিতে হামলা চালিয়ে আসছে। সাম্প্রতিক সময়ে তাইজ শহর ঘিরে সরকারি বাহিনী ও হুতিদের লড়াই তীব্র হয়েছে। এর জেরে জাতিসংঘ শহরটিতে আটকে পড়া আট লাখ মানুষের কাছে সহায়তা পৌঁছানোর সময় ফুরিয়ে আসছে বলে সতর্ক করেছে। হুতিরা রিয়াদ বিমানবন্দরকে অনিরাপদ ঘোষণা করে ব্যবহারের বিরুদ্ধে হুঁশিয়ারি দিয়েছে।",
-        "details_en": "Yemen's Iran-backed Houthi movement has continuously targeted Saudi oil facilities and military infrastructure. Intense fighting around Taiz has prompted United Nations warnings regarding eight hundred thousand stranded civilians. Houthi leadership recently labeled Riyadh airport unsafe and issued warnings against its continued use."
-      }
-    },
-    {
-      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
+      "story_id": "698238f9-5c2c-550b-9016-e2b51fb31a52",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "tech_innovation",
-        "governance_law",
-        "society_education"
+        "economy_business",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#SaudiArabia",
-        "#ArtificialIntelligence",
-        "#Houthi"
+        "#WestBank",
+        "#Israel"
       ],
-      "image_url": "https://static.dw.com/image/78307185_6.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/colgyt/article71624391.ece/alternates/LANDSCAPE_1200/2026-10-25T084841Z_1974138941_RC28AOAZPRKR_RTRMADP_3_ISRAEL-PALESTINIANS-HEBRON-OPERATION.JPG",
       "image_caption": null,
-      "published_at": "2026-10-25T16:00:42.610091+00:00",
+      "published_at": "2026-10-25T16:49:51+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6888,
+      "importance_score": 2.12,
+      "rank_score": 0.7672,
       "sources": [
         {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
+          "title": "Israel presses ahead with West Bank operation as election approaches",
+          "snippet": "Israel presses ahead with West Bank operation as election approaches"
+        },
+        {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
+          "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+          "title": "Israel to close all West Bank land crossings on election day",
+          "snippet": "Israel to close all West Bank land crossings on election day"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক টার্গেটিং টুল সরবরাহ করছে যুক্তরাষ্ট্র",
-        "title_en": "United States Supplies AI-Powered Targeting Tool to Saudi Arabia",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের চলমান হামলার মুখে সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক সামরিক প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
-        "summary_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia is receiving artificial intelligence-based military technology and intelligence support from the United States.",
+        "title_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান ও চলাচল সীমিত",
+        "title_en": "Israeli Military Advances West Bank Operation Amid Tight Restrictions",
+        "summary_bn": "ইসরায়েলি সেনাবাহিনী অস্ত্রধারীর হামলার পর অধিকৃত পশ্চিম তীরে বড় ধরনের সামরিক অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
+        "summary_en": "The Israeli military intensified a massive operation in the occupied West Bank, displacing thousands of Palestinians following a deadly shooting attack.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation",
-          "governance_law",
-          "society_education"
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:00:42.610091+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের চলমান হামলার মুখে সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক সামরিক প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
-        "lead_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia is receiving artificial intelligence-based military technology and intelligence support from the United States.",
+        "published_at": "2026-10-25T16:49:51+00:00",
+        "lead_bn": "ইসরায়েলি সেনাবাহিনী অস্ত্রধারীর হামলার পর অধিকৃত পশ্চিম তীরে বড় ধরনের সামরিক অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
+        "lead_en": "The Israeli military intensified a massive operation in the occupied West Bank, displacing thousands of Palestinians following a deadly shooting attack.",
         "bullets_bn": [
-          "সৌদি আরবের সামরিক বাহিনীকে রিয়েল-টাইম যুদ্ধক্ষেত্রের তথ্য বিশ্লেষণে সহায়তা করছে মার্কিন যৌথ কমান্ড ফোর্স।",
-          "প্রকল্পটির আওতায় মার্কিন সেনাদের উপস্থিতিতে মোতায়েন করা হয়েছে মেভেন স্মার্ট সিস্টেম নামক বিশেষ এআই প্ল্যাটফর্ম।",
-          "উন্নত এই সফটওয়্যারটি লাইভ স্যাটেলাইট এবং ড্রোন ফুটেজ বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু শনাক্ত করে।"
+          "ইসরায়েলি সেনারা পশ্চিম তীরের বিভিন্ন স্থানে অভিযান চালিয়ে ফিলিস্তিনিদের আটক এবং চলাচল সীমিত করেছে।",
+          "হেব্রন পৌরসভার তথ্য অনুযায়ী এই অভিযানে দুই হাজার ছয়শ জনের বেশি মানুষ বাস্তুচ্যুত হয়েছে।",
+          "আসন্ন নির্বাচন পর্যন্ত ইসরায়েলি ক্রসিং বন্ধ রাখা হবে এবং ফিলিস্তিনি শ্রমিকদের প্রবেশে নিষেধাজ্ঞা বহাল থাকবে।"
         ],
         "bullets_en": [
-          "US joint command forces are assisting the Saudi military in analyzing real-time battlefield intelligence.",
-          "The deployment includes the Maven Smart System AI platform facilitated by stationed US military personnel.",
-          "The advanced software analyzes live satellite and drone footage to identify potential military targets."
+          "Israeli troops conducted extensive operations across multiple locations in the West Bank, enforcing severe movement restrictions.",
+          "The Hebron municipality reported that the ongoing military operation has displaced more than 2,600 residents.",
+          "Border crossings into Israel will remain closed and worker permits suspended until the conclusion of national elections."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে সামরিক সংঘাত ও প্রযুক্তিগত অস্ত্র ব্যবহারের তীব্রতা বৃদ্ধির ফলে আঞ্চলিক স্থিতিশীলতা হুমকির মুখে পড়তে পারে।",
-        "impact_en": "Escalating military conflicts and the deployment of advanced AI weaponry in the Middle East could further threaten regional stability.",
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের ক্রমবর্ধমান হামলার মুখে সৌদি আরব মার্কিন প্রশাসনের কাছে সামরিক সহায়তা চায়। সরাসরি সামরিক হস্তক্ষেপের অনুরোধ মার্কিন নেতৃত্ব প্রত্যাখ্যান করলেও গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তিগত সহায়তা প্রদান অব্যাহত রেখেছে। ২০১৭ সালে সূচিত মার্কিন প্রকল্প প্রজেক্ট মেভেনের অংশ হিসেবে এই এআই প্ল্যাটফর্ম পরিচালিত হচ্ছে, যা আধুনিক যুদ্ধক্ষেত্রে রিয়েল-টাইম ডেটা প্রসেসিং ও টার্গেট শনাক্তকরণে ব্যবহৃত হয়।",
-        "details_en": "Facing escalating attacks from Yemen-based Houthi rebels, Saudi Arabia sought military assistance from the US administration. While direct military intervention was declined, Washington continues to provide intelligence and artificial intelligence-based technological support. This assistance utilizes the Maven Smart System, an AI platform originating from Project Maven launched in 2017, designed for real-time data processing and target identification in modern warfare."
+        "impact_bn": "নাগরিকদের ওপর সরাসরি কোনো প্রভাব নেই।",
+        "impact_en": null,
+        "details_bn": "পশ্চিম তীরে দুই ইসরায়েলি সেনা নিহত হওয়ার পর এই কঠোর সামরিক অভিযান শুরু হয়। আসন্ন নির্বাচনকে সামনে রেখে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নিরাপত্তা নীতির একটি বড় পরীক্ষা হিসেবে এই পদক্ষেপ দেখা হচ্ছে। অভিযান চলাকালীন ফিলিস্তিনি শ্রমিকদের প্রবেশাধিকার স্থগিত করা হয়েছে এবং হেব্রনের বিভিন্ন এলাকায় ব্যাপক তল্লাশি চালানো হচ্ছে।",
+        "details_en": "The military operation was launched following a gun attack that killed two Israeli soldiers. Timed ahead of a tense national election viewed as a referendum on Prime Minister Benjamin Netanyahu's security policies, the crackdown has involved sweeping arrests, localized displacement in Hebron, and strict border closures restricting Palestinian workers."
       }
     },
     {
-      "story_id": "cbb46690-a0f6-5091-a85e-6384e179d8bc",
-      "primary_category": "economy_business",
+      "story_id": "9f569936-d02c-5dad-9ac0-a9a8300e37fb",
+      "primary_category": "tech_innovation",
       "interest_categories": [
+        "tech_innovation",
         "economy_business",
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#BangladeshEconomy",
-        "#PerCapitaGDP",
-        "#IMF"
+        "#ArtificialIntelligence",
+        "#TechTrends",
+        "#BusinessEconomy"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP18111291320142-1770666958.jpg?resize=1920%2C1440",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
       "image_caption": null,
-      "published_at": "2026-10-25T14:11:29+00:00",
+      "published_at": "2026-10-25T16:57:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 3.0,
-      "rank_score": 0.5246,
+      "importance_score": 1.7,
+      "rank_score": 0.6654,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
-          "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-          "snippet": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+          "snippet": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইএমএফের পূর্বাভাস অনুযায়ী ভারতের চেয়ে বাংলাদেশের মাথাপিছু জিডিপি বেশি হবে",
-        "title_en": "Bangladesh Per Capita GDP Projected to Surpass India According to IMF",
-        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী বাংলাদেশের মাথাপিছু মোট দেশজ উৎপাদন ভারতকে ছাড়িয়ে যাবে।",
-        "summary_en": "Bangladesh is projected to surpass India in per capita gross domestic product according to the IMF.",
+        "title_bn": "প্রযুক্তি খাতের বাইরে বড় কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তার কোনো আর্থিক লাভ মেলেনি",
+        "title_en": "AI Delivers Zero Financial Payoff to Major Corporations Outside Tech Sector",
+        "summary_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ জানিয়েছেন, প্রযুক্তি খাত ছাড়া বড় কোনো কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তা কোনো অর্থনৈতিক লাভ আনতে পারেনি।",
+        "summary_en": "Artificial intelligence has failed to deliver financial payoffs to major corporations outside the tech industry, according to Apollo Global Management.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "tech_innovation",
           "economy_business",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:11:29+00:00",
-        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী বাংলাদেশের মাথাপিছু মোট দেশজ উৎপাদন ভারতকে ছাড়িয়ে যাবে।",
-        "lead_en": "Bangladesh is projected to surpass India in per capita gross domestic product according to the IMF.",
+        "published_at": "2026-10-25T16:57:32+00:00",
+        "lead_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ জানিয়েছেন, প্রযুক্তি খাত ছাড়া বড় কোনো কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তা কোনো অর্থনৈতিক লাভ আনতে পারেনি।",
+        "lead_en": "Artificial intelligence has failed to deliver financial payoffs to major corporations outside the tech industry, according to Apollo Global Management.",
         "bullets_bn": [
-          "আন্তর্জাতিক মুদ্রা তহবিলের তথ্য অনুযায়ী বাংলাদেশ মাথাপিছু জিডিপিতে ভারতকে পেছনে ফেলতে চলেছে।",
-          "বাংলাদেশের মাথাপিছু জিডিপি দুই হাজার আটশত ছিয়াশি ডলার এবং ভারতের দুই হাজার সাতশো উনপঞ্চাশ ডলারে দাঁড়াবে।",
-          "তৈরি পোশাক শিল্প ও প্রবাস আয় এই অর্থনৈতিক অগ্রগতির পেছনে মূল ভূমিকা পালন করেছে।"
+          "প্রযুক্তি খাতের বাইরে থাকা বড় কর্পোরেশনগুলোতে কৃত্রিম বুদ্ধিমত্তার ব্যবহারে মুনাফা এবং কর্মীপ্রতি আয় স্থিতিশীল রয়েছে।",
+          "কৃত্রিম বুদ্ধিমত্তায় ব্যাপক বিনিয়োগ ও প্রচার থাকলেও এটি প্রত্যাশিত আর্থিক লাভ দিতে ব্যর্থ হয়েছে বলে উল্লেখ করা হয়।",
+          "ব্যবসায়িক ক্ষেত্রে জবাবদিহিতা ও সংস্কৃতির অনুপস্থিতি কৃত্রিম বুদ্ধিমত্তাকে কাঙ্ক্ষিত মুনাফা অর্জনে বাধাগ্রস্ত করছে।"
         ],
         "bullets_en": [
-          "Bangladesh is projected to exceed India in per capita gross domestic product according to IMF data.",
-          "The projected per capita GDP stands at twenty-eight hundred eighty-six dollars for Bangladesh and twenty-seven hundred forty-nine dollars for India.",
-          "The garment industry and remittances have driven this notable economic progress over recent decades."
+          "Profit margins and revenue per worker remain flat for major corporations outside the tech industry using artificial intelligence.",
+          "Apollo economist Torsten Slok noted that AI has delivered zero financial payoff despite massive corporate investments and widespread hype.",
+          "Business experts emphasize that AI lacks accountability, trust, and cultural understanding which are essential for driving actual revenue growth."
         ],
-        "impact_bn": "উচ্চ মূল্যস্ফীতি ও ধীরগতির প্রবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ওপর বাড়তি চাপ সৃষ্টি করছে।",
-        "impact_en": "High inflation and slowing economic growth continue to put direct pressure on ordinary citizens.",
-        "details_bn": "আন্তর্জাতিক মুদ্রা তহবিলের ওয়ার্ল্ড ইকোনমিক আউটলুক প্রতিবেদনে এই অর্থনৈতিক পূর্বাভাস উঠে এসেছে। একশো পঁচাত্তর মিলিয়নেরও বেশি জনসংখ্যার দেশ হিসেবে বাংলাদেশ গত দুই দশকে দক্ষিণ এশিয়ার অন্যতম অর্থনৈতিক সাফল্যের গল্প হিসেবে আত্মপ্রকাশ করেছে। তবে উচ্চ মূল্যস্ফীতি এবং দুই প্রধান যুদ্ধের কারণে সৃষ্ট বৈশ্বিক জ্বালানি বাজারের চাপ এই অগ্রগতিকে এখন চ্যালেঞ্জের মুখে ফেলছে।",
-        "details_en": "The economic projection emerged from the International Monetary Fund World Economic Outlook report. Home to over one hundred seventy-five million people, Bangladesh has emerged as one of South Asia economic success stories over the past two decades. However, high inflation and global energy market pressures caused by major conflicts are currently testing this ongoing economic progress."
+        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা নিয়ে অতিরিক্ত উন্মাদনা ও কর্পোরেট বিনিয়োগের বাস্তব কার্যকারিতা নিয়ে নতুন করে ভাবার সুযোগ তৈরি হয়েছে।",
+        "impact_en": "Ordinary professionals and corporate workers may face a reality check as companies reassess exaggerated productivity claims surrounding artificial intelligence investments.",
+        "details_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ টরস্টেন শ্লোক এসঅ্যান্ডপি ৫০০ সূচকের শীর্ষ সাত প্রযুক্তি প্রতিষ্ঠান বাদে বাকি প্রতিষ্ঠানগুলোর ওপর একটি গবেষণা প্রকাশ করেন। সেখানে দেখা যায়, বড় বড় কর্পোরেশনগুলোতে কৃত্রিম বুদ্ধিমত্তার ব্যবহার এখনো দৃশ্যমান কোনো উৎপাদনশীলতা বাড়াতে পারেনি। প্রযুক্তি জায়ান্টদের বাইরে সাধারণ ব্যবসায়িক প্রতিষ্ঠানগুলোতে এই প্রযুক্তির আর্থিক রিটার্ন নিয়ে বিশেষজ্ঞরা তাই দীর্ঘকাল ধরে সংশয় প্রকাশ করে আসছেন।",
+        "details_en": "Apollo Global Management chief economist Torsten Slok analyzed companies outside the top seven tech giants and found no evidence of improved productivity or profit margins. Despite massive hype and corporate investments, non-tech firms struggle to translate artificial intelligence into higher revenues. Experts argue that AI lacks human qualities like accountability, trust, and ethical judgment which are critical for long-term business success."
       }
     }
   ]
