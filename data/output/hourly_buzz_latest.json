@@ -1,12 +1,14 @@
 {
-  "updated_at": "2026-10-25T22:00:49.335735",
+  "updated_at": "2026-10-25T23:00:47.516219",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "202e41c1-b3e9-5976-abbb-d2ef089453be",
+      "story_id": "1e88025d-f082-5024-bba7-f358aa1a0d40",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "economy_business",
+        "society_education"
       ],
       "region": "national",
       "tags": [
@@ -15,46 +17,48 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T21:34:00+00:00",
+      "published_at": "2026-10-25T22:57:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4971,
+      "importance_score": 2.4,
+      "rank_score": 0.9408,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/barishal/976768/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%A6%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%B8%E0%A7%87",
-          "title": "আওয়ামী লীগ নেতা বাড়িতে দাওয়াতে এসে যুবলীগ-ছাত্রলীগের ৭ নেতাকর্মী আটক",
-          "snippet": "আওয়ামী লীগ নেতা বাড়িতে দাওয়াতে এসে যুবলীগ-ছাত্রলীগের ৭ নেতাকর্মী আটক"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171962",
+          "title": "ভিড় জমিয়ে টাকা-স্বর্ণালংকার চুরিই তাদের পেশা",
+          "snippet": "ভিড় জমিয়ে টাকা-স্বর্ণালংকার চুরিই তাদের পেশা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বরিশালে আওয়ামী লীগ নেতার বাড়ি থেকে যুবলীগ ও ছাত্রলীগের সাত নেতাকর্মী আটক",
-        "title_en": "Police Detain Seven Jubo League and Chhatra League Leaders in Barishal",
-        "summary_bn": "বরিশালের গৌরনদীতে নিষিদ্ধ ঘোষিত আওয়ামী লীগের সহযোগী সংগঠনের সাত নেতাকর্মীকে আটক করেছে পুলিশ।",
-        "summary_en": "Police detained seven leaders of banned Awami League affiliated organizations during a gathering in Gournadi, Barishal.",
+        "title_bn": "মিরসরাইয়ে হাসপাতাল থেকে স্বর্ণালংকার চুরির অভিযোগে ৭ নারী গ্রেফতার",
+        "title_en": "Seven Women Arrested for Stealing Gold Ornaments from Chattogram Hospital",
+        "summary_bn": "জোরারগঞ্জ থানা পুলিশ চট্টগ্রামের মিরসরাইয়ে রোগীদের গলার চেইন চুরির সাথে জড়িত সন্দেহে সাত নারী সদস্যের একটি চক্রকে গ্রেফতার করেছে।",
+        "summary_en": "Zorarganj police arrested a seven-member female gang in Chattogram for allegedly stealing gold necklaces from patients at a local hospital.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "economy_business",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T21:34:00+00:00",
-        "lead_bn": "বরিশালের গৌরনদীতে নিষিদ্ধ ঘোষিত আওয়ামী লীগের সহযোগী সংগঠনের সাত নেতাকর্মীকে আটক করেছে পুলিশ।",
-        "lead_en": "Police detained seven leaders of banned Awami League affiliated organizations during a gathering in Gournadi, Barishal.",
+        "published_at": "2026-10-25T22:57:39+00:00",
+        "lead_bn": "জোরারগঞ্জ থানা পুলিশ চট্টগ্রামের মিরসরাইয়ে রোগীদের গলার চেইন চুরির সাথে জড়িত সন্দেহে সাত নারী সদস্যের একটি চক্রকে গ্রেফতার করেছে।",
+        "lead_en": "Zorarganj police arrested a seven-member female gang in Chattogram for allegedly stealing gold necklaces from patients at a local hospital.",
         "bullets_bn": [
-          "গৌরনদী উপজেলার মাহিলাড়া ইউনিয়ন পরিষদের সাবেক চেয়ারম্যানের বাড়ি থেকে সাত নেতাকর্মীকে আটক করা হয়।",
-          "লক্ষ্মীপূজার একটি অনুষ্ঠানে দাওয়াতে গিয়ে তারা ওই বাড়িতে উপস্থিত হয়েছিলেন বলে পরিবারের পক্ষ থেকে জানানো হয়েছে।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী আটককৃতদের বিরুদ্ধে পরবর্তী আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু করেছে।"
+          "জোরারগঞ্জ থানা পুলিশ স্থানীয় জনগণের সহায়তায় মিরসরাইয়ের একটি হাসপাতাল থেকে সংঘবদ্ধ চোরচক্রের সাত নারী সদস্যকে আটক করে।",
+          "আটককৃত নারীরা চিকিৎসা নেওয়ার নাম করে হাসপাতালে এসে রোগীদের গলার স্বর্ণালংকার ও মূল্যবান সামগ্রী চুরি করত।",
+          "পুলিশ গ্রেফতারকৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণ করেছে এবং তাদের চক্রের অন্য সদস্যদের ধরতে তদন্ত অব্যাহত রেখেছে।"
         ],
         "bullets_en": [
-          "Police detained seven political activists from the residence of a former union parishad chairman in Gournadi upazila.",
-          "Family members stated that the detainees had gathered at the house to attend a religious worship event invitation.",
-          "Law enforcement authorities have initiated legal proceedings against the detained individuals."
+          "Zorarganj police detained seven female members of an organized theft ring from a hospital in Mirsarai with local public assistance.",
+          "The detained women targeted hospital patients by posing as seekers of medical treatment to steal gold chains and valuables.",
+          "Police initiated legal proceedings against the suspects and are continuing investigations to track down other syndicate members."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ছাত্র-জনতার অভ্যুত্থানের পর আওয়ামী লীগ ও এর অঙ্গসংগঠনগুলোর রাজনৈতিক কার্যক্রম নিষিদ্ধ ঘোষণা করা হয়। এর পর থেকেই আইনশৃঙ্খলা রক্ষাকারী বাহিনী দেশের বিভিন্ন স্থানে নিষিদ্ধ সংগঠনের নেতাকর্মীদের ধরতে বিশেষ অভিযান পরিচালনা করছে। তারই অংশ হিসেবে এই সাত নেতাকর্মীকে আটক করা হয়।",
-        "details_en": "Following the mass uprising, political activities of the Awami League and its associated wings were banned. Since then, law enforcement agencies have been conducting special operations across the country to arrest members of the banned organizations, leading to these recent detentions in Barishal."
+        "impact_bn": "হাসপাতালে আসা সাধারণ রোগী ও স্বজনেরা এখন আরও বেশি নিরাপত্তা ও সতর্কতার মুখোমুখি হবেন।",
+        "impact_en": "Ordinary patients and visitors at medical facilities will experience heightened security awareness and precautions.",
+        "details_bn": "চট্টগ্রামের মিরসরাইয়ে চিকিৎসা নিতে আসা সাধারণ রোগীদের টার্গেট করে একটি নারী চোরচক্র দীর্ঘদিন ধরে সক্রিয় ছিল। হাসপাতালে ভিড়ের সুযোগ নিয়ে তারা রোগীদের গলার স্বর্ণালংকার এবং মূল্যবান জিনিসপত্র চুরি করে আসছিল। স্থানীয় লোকজনের সন্দেহ হলে তারা হাতেনাতে ধরে পুলিশে খবর দেয়। পুলিশ ঘটনাস্থলে পৌঁছে চোরচক্রের সাত সদস্যকে আটক করে থানায় নিয়ে যায় এবং তাদের বিরুদ্ধে নিয়মিত মামলা রুজু করা হয়।",
+        "details_en": "A female theft syndicate had long been active in Mirsarai, targeting patients seeking medical care at local facilities. Taking advantage of hospital crowds, the gang routinely stole gold necklaces and valuables from vulnerable patients. Suspicious locals eventually intercepted the suspects and handed them over to law enforcement. Police subsequently detained the seven individuals and registered formal charges against them."
       }
     },
     {
@@ -73,7 +77,7 @@
       "published_at": "2026-10-25T21:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.1423,
+      "rank_score": 0.7876,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -83,10 +87,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ময়মনসিংহে ফেসবুক লাইভে বিএনপির সমালোচনাকারী নারী উদ্যোক্তা আটক",
-        "title_en": "Woman Entrepreneur Arrested in Mymensingh for Criticizing BNP on Facebook Live",
-        "summary_bn": "সামাজিক যোগাযোগমাধ্যমে রাজনৈতিক মন্তব্য করার অভিযোগে ভালুকা থেকে এক নারী উদ্যোক্তাকে আটক করেছে পুলিশ।",
-        "summary_en": "Police detained a woman entrepreneur from Valuka following her social media remarks criticizing political figures.",
+        "title_bn": "সামাজিক যোগাযোগ মাধ্যমে সমালোচনার জেরে নারী উদ্যোক্তা আটক",
+        "title_en": "Female Entrepreneur Detained Following Social Media Criticism",
+        "summary_bn": "ফেইসবুক লাইভে মন্তব্য করার অভিযোগে ময়মনসিংহের ভালুকায় এক নারী উদ্যোক্তাকে আটক করেছে স্থানীয়রা এবং পুলিশ।",
+        "summary_en": "Locals and police detained a female entrepreneur in Bhaluka, Mymensingh, over comments made during a Facebook live stream.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,77 +98,79 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T21:00:00+00:00",
-        "lead_bn": "সামাজিক যোগাযোগমাধ্যমে রাজনৈতিক মন্তব্য করার অভিযোগে ভালুকা থেকে এক নারী উদ্যোক্তাকে আটক করেছে পুলিশ।",
-        "lead_en": "Police detained a woman entrepreneur from Valuka following her social media remarks criticizing political figures.",
+        "lead_bn": "ফেইসবুক লাইভে মন্তব্য করার অভিযোগে ময়মনসিংহের ভালুকায় এক নারী উদ্যোক্তাকে আটক করেছে স্থানীয়রা এবং পুলিশ।",
+        "lead_en": "Locals and police detained a female entrepreneur in Bhaluka, Mymensingh, over comments made during a Facebook live stream.",
         "bullets_bn": [
           "ফেসবুক লাইভে বিএনপি সরকার ও দলটির নেতাকর্মীদের সমালোচনা করায় সাথী আক্তার নামের এক নারী উদ্যোক্তাকে আটক করা হয়েছে।",
-          "স্থানীয়রা তাকে আটক করে পুলিশের কাছে সোপর্দ করেন এবং তিনি ভালুকার স্কয়ার মাস্টারবাড়ী এলাকায় একটি বিউটি পার্লার পরিচালনা করেন।",
-          "ঘটনার পর পুলিশ পরবর্তী আইনি পদক্ষেপ গ্রহণের জন্য তাকে থানায় নিয়ে যায়।"
+          "ময়মনসিংহের ভালুকা উপজেলার স্কয়ার মাস্টারবাড়ী এলাকা থেকে স্থানীয়রা তাকে আটক করে রাতে পুলিশের কাছে সোপর্দ করেন।",
+          "আটককৃত নারী ওই এলাকার সাথী বিউটি পার্লারের মালিক এবং পুলিশ এই ঘটনায় পরবর্তী আইনি ব্যবস্থা প্রক্রিয়াধীন রয়েছে বলে জানিয়েছে।"
         ],
         "bullets_en": [
-          "Sathi Akter, a woman entrepreneur, was detained for criticizing the BNP government and its leaders during a Facebook live stream.",
-          "Local residents intercepted and handed her over to police in the Square Masterbari area of Valuka, where she operates a beauty parlor.",
-          "Police took her into custody following the incident to initiate necessary legal procedures."
+          "A female entrepreneur named Sathi Akter was detained for criticizing the BNP government and its leaders on a Facebook live stream.",
+          "Locals detained her from the Square Masterbari area in Bhaluka upazila of Mymensingh and handed her over to the police.",
+          "The detained woman owns Sathi Beauty Parlor in the area, and police are taking necessary legal actions regarding the incident."
         ],
-        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে রাজনৈতিক মতপ্রকাশের স্বাধীনতা এবং সাইবার নিরাপত্তার বিষয়টি নিয়ে স্থানীয় নাগরিকদের মধ্যে আলোচনা তৈরি হয়েছে।",
-        "impact_en": "The arrest raises concerns among citizens regarding freedom of speech and political expression on digital social media platforms.",
-        "details_bn": "ময়মনসিংহের ভালুকা উপজেলার স্কয়ার মাস্টারবাড়ী এলাকায় সাথী বিউটি পার্লারের মালিক সাথী আক্তার তার ফেসবুক পেজ থেকে একটি লাইভ সম্প্রচার করেন। ওই লাইভ ভিডিওতে তিনি বিএনপি সরকার এবং দলটির বিভিন্ন কার্যক্রমের তীব্র সমালোচনা করেন। বিষয়টি স্থানীয় লোকজনের নজরে আসার পর উত্তেজনা সৃষ্টি হয় এবং তারা তাকে আটক করে পুলিশে সোপর্দ করেন।",
-        "details_en": "Sathi Akter, the owner of Sathi Beauty Parlor in Valuka upazila's Square Masterbari area, broadcasted a live video on Facebook. During the stream, she openly criticized the BNP government and party activists. Local residents detained her upon noticing the broadcast and subsequently handed her over to the local police station."
+        "impact_bn": "ডিজিটাল মাধ্যমে স্বাধীনভাবে মতামত প্রকাশ ও নাগরিক অধিকার সুরক্ষার বিষয়টি নিয়ে সাধারণ মানুষের মাঝে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "The incident raises concerns among citizens regarding freedom of speech and the protection of civil rights on digital platforms.",
+        "details_bn": "সামাজিক যোগাযোগ মাধ্যমে রাজনৈতিক সমালোচনা ও মতপ্রকাশের স্বাধীনতা নিয়ে সাম্প্রতিক সময়ে বিভিন্ন মহলে আলোচনা চলছে। এই ঘটনার প্রেক্ষাপটে অনলাইন প্ল্যাটফর্মে রাজনৈতিক মন্তব্য করার ক্ষেত্রে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর নজরদারি ও স্থানীয় জনতা কর্তৃক আটকের ঘটনা জনমনে মিশ্র প্রতিক্রিয়া সৃষ্টি করেছে। পুলিশ প্রশাসনের পক্ষ থেকে এ বিষয়ে বিস্তারিত তদন্ত সাপেক্ষে আইনগত পদক্ষেপ নেওয়ার কথা জানানো হয়েছে।",
+        "details_en": "Recent discussions have centered around political criticism and freedom of expression on social media platforms. This incident, involving online commentary and subsequent detention by locals before police handover, highlights growing tensions surrounding digital speech. Authorities are reviewing the situation to determine appropriate legal procedures."
       }
     },
     {
-      "story_id": "95513929-7bad-5a01-868b-ba4ba8ed3457",
-      "primary_category": "world_diplomacy",
+      "story_id": "828cccfa-e0a5-5990-8de8-6c8fd487a791",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fcfagdw95%2F2.webp?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T19:45:18+00:00",
+      "published_at": "2026-10-25T20:48:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.0024,
+      "importance_score": 4.8,
+      "rank_score": 0.7402,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/8ftpwbotw3",
-          "title": "চার দিনের সরকারি সফরে জাপানের উদ্দেশে যাত্রা করলেন প্রধানমন্ত্রী",
-          "snippet": "চার দিনের সরকারি সফরে জাপানের উদ্দেশে যাত্রা করলেন প্রধানমন্ত্রী"
+          "url": "https://www.prothomalo.com/bangladesh/crime/kdnsdsnuw6",
+          "title": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি, গ্রেপ্তার ৬",
+          "snippet": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি, গ্রেপ্তার ৬"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার করতে চার দিনের সফরে জাপানে প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Departs for Japan on Four-Day Official Visit",
-        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার ও বিনিয়োগ বাড়াতে জাপানি প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman left Dhaka for a four-day official visit to Japan to boost bilateral ties and investment.",
+        "title_bn": "ব্যবসায়ীকে অপহরণ করে চাঁদা দাবির অভিযোগে ডিজিএফআই ও আনসার সদস্যসহ ছয়জন গ্রেপ্তার",
+        "title_en": "Six Persons Including DGFI And Ansar Members Arrested For Extortion",
+        "summary_bn": "রাজধানীর মোহাম্মদপুরে এক ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবির অভিযোগে আইন শৃঙ্খলা বাহিনীর সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "Six persons including law enforcement personnel have been sent to jail for allegedly abducting and demanding ransom from a businessman in Dhaka.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T19:45:18+00:00",
-        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক জোরদার ও বিনিয়োগ বাড়াতে জাপানি প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman left Dhaka for a four-day official visit to Japan to boost bilateral ties and investment.",
+        "published_at": "2026-10-25T20:48:14+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুরে এক ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবির অভিযোগে আইন শৃঙ্খলা বাহিনীর সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "Six persons including law enforcement personnel have been sent to jail for allegedly abducting and demanding ransom from a businessman in Dhaka.",
         "bullets_bn": [
-          "জাপানি প্রধানমন্ত্রী সানায়ে তাকাইচির সঙ্গে দ্বিপক্ষীয় বৈঠক করবেন প্রধানমন্ত্রী তারেক রহমান।",
-          "সফরে বাংলাদেশ-জাপান ইকোনমিক পার্টনারশিপ অ্যাগ্রিমেন্টের কার্যকর বাস্তবায়ন ও বিনিয়োগ বৃদ্ধি নিয়ে আলোচনা হবে।",
-          "প্রধানমন্ত্রী জাপান-বাংলাদেশ ইকোনমিক ফোরামে মূল প্রবন্ধ উপস্থাপন করবেন এবং শীর্ষ ব্যবসায়িক নেতাদের সঙ্গে বৈঠক করবেন।"
+          "পুলিশ মোহাম্মদপুর এলাকায় অভিযান চালিয়ে সুনির্দিষ্ট অভিযোগে ছয় অভিযুক্তকে গ্রেপ্তার করে আদালতে সোপর্দ করে।",
+          "গ্রেপ্তার ব্যক্তিদের মধ্যে দুজন ডিজিএফআইয়ের সদস্য এবং একজন আনসার বাহিনীর সদস্য হিসেবে কর্মরত রয়েছেন।",
+          "আদালত আসামিদের জামিন নামঞ্জুর করে কারাগারে পাঠানোর নির্দেশ দিয়েছেন এবং মামলার তদন্ত অব্যাহত রয়েছে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman will hold high-level bilateral talks with Japanese Prime Minister Sanae Takaichi.",
-          "Discussions will focus on implementing the Bangladesh-Japan Economic Partnership Agreement and expanding trade.",
-          "The prime minister will present the keynote paper at the Japan-Bangladesh Economic Forum and meet business leaders."
+          "Police arrested six individuals following allegations of abducting a businessman and demanding ten lakh Taka.",
+          "The arrested suspects include two members of DGFI and one member of the Ansar force.",
+          "The court denied bail to the accused and sent them to jail while the investigation continues."
         ],
-        "impact_bn": "জাপানি বিনিয়োগ ও মানবসম্পদ উন্নয়ন সহযোগিতা বাড়লে দেশের তরুণদের জন্য নতুন কর্মসংস্থানের সুযোগ তৈরি হবে।",
-        "impact_en": "Increased Japanese investment and human resource training will create new employment opportunities for young citizens.",
-        "details_bn": "জাপানি প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে প্রধানমন্ত্রী তারেক রহমান চার দিনের সরকারি সফরে ঢাকা ত্যাগ করেছেন। এই সফরে কৌশলগত অংশীদারত্ব গভীর করা, বাণিজ্য সম্প্রসারণ এবং নবায়নযোগ্য জ্বালানি, কৃষি ও প্রযুক্তি খাতে সহযোগিতা বাড়ানোর বিষয়ে আলোচনা হওয়ার কথা রয়েছে। পররাষ্ট্র মন্ত্রণালয়ের তথ্য অনুযায়ী, সফরকালে উভয় দেশের মধ্যে ব্যবসায়িক সম্পর্ক জোরদার এবং চলমান উন্নয়ন প্রকল্পগুলোর গতি ত্বরান্বিত করার ওপর বিশেষ গুরুত্ব দেওয়া হবে।",
-        "details_en": "Prime Minister Tarique Rahman embarked on a four-day official visit to Japan at the invitation of Prime Minister Sanae Takaichi. The tour aims to deepen strategic partnership, expand trade, and enhance cooperation in renewable energy, agriculture, and technology. According to the foreign ministry, the visit will place special emphasis on strengthening business ties and accelerating ongoing development projects."
+        "impact_bn": "আইনশৃঙ্খলা বাহিনীর সদস্য ও নিরাপত্তা কর্মীদের এমন অপরাধে জড়িত থাকা সাধারণ মানুষের মনে নিরাপত্তাহীনতা তৈরি করতে পারে।",
+        "impact_en": "Involvement of security personnel in abduction and extortion raises serious concerns about public safety and law enforcement accountability.",
+        "details_bn": "ভুক্তভোগী ব্যবসায়ীর অভিযোগ অনুযায়ী, পূর্বপরিচিত এক প্রতিবেশীর মাধ্যমে মোহাম্মাদপুরের একটি বাসায় গিয়ে তিনি অপহরণের শিকার হন। অভিযুক্তরা তাঁকে আটকে রেখে মারধর করেন এবং মুক্তিপণ হিসেবে ১০ লাখ টাকা দাবি করেন। ঘটনার একপর্যায়ে শ্যামলী এলাকায় পুলিশের টহল দলের সহায়তায় তিনি উদ্ধার পান এবং পুলিশের গাড়ির সামনে চিৎকার করে নিজের পরিচয় দিয়ে রক্ষা পান। পরে পুলিশ ঘটনাস্থল থেকে আসামিদের আটক করে মোহাম্মদপুর থানায় সোপর্দ করে এবং ভুক্তভোগী বাদী হয়ে মামলা দায়ের করেন।",
+        "details_en": "According to the victim, a business owner, he was lured into a flat in Mohammadpur by an acquaintance and held captive by the suspects who demanded ten lakh Taka. The victim managed to alert a patrolling police team in Shyamoli after escaping from the vehicle. Police subsequently arrested the perpetrators and handed them over to Mohammadpur police station where a formal case was filed."
       }
     },
     {
@@ -183,7 +189,7 @@
       "published_at": "2026-10-25T20:04:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.8047,
+      "rank_score": 0.6002,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -195,8 +201,8 @@
       "daily_buzz": {
         "title_bn": "অনূর্ধ্ব-১৫ ফুটবলে ইন্দোনেশিয়ার সাথে ড্র করেছে বাংলাদেশ",
         "title_en": "Bangladesh Draws Against Indonesia in Under-15 Football",
-        "summary_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত অনূর্ধ্ব-১৫ বিশ্বকাপ বাছাইয়ের ম্যাচে ইন্দোনেশিয়ার সঙ্গে ১-১ গোলে ড্র করেছে বাংলাদেশ দল।",
-        "summary_en": "Bangladesh secured a 1-1 draw against Indonesia in the Under-15 World Cup qualifiers held in Baku, Azerbaijan.",
+        "summary_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যাল ম্যাচে ইন্দোনেশিয়ার সঙ্গে ১-১ গোলে ড্র করেছে বাংলাদেশ দল।",
+        "summary_en": "Bangladesh drew 1-1 against Indonesia in the Under-15 World Cup and Festival match held in Baku, Azerbaijan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -204,26 +210,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T20:04:00+00:00",
-        "lead_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত অনূর্ধ্ব-১৫ বিশ্বকাপ বাছাইয়ের ম্যাচে ইন্দোনেশিয়ার সঙ্গে ১-১ গোলে ড্র করেছে বাংলাদেশ দল।",
-        "lead_en": "Bangladesh secured a 1-1 draw against Indonesia in the Under-15 World Cup qualifiers held in Baku, Azerbaijan.",
+        "lead_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যাল ম্যাচে ইন্দোনেশিয়ার সঙ্গে ১-১ গোলে ড্র করেছে বাংলাদেশ দল।",
+        "lead_en": "Bangladesh drew 1-1 against Indonesia in the Under-15 World Cup and Festival match held in Baku, Azerbaijan.",
         "bullets_bn": [
-          "ারবাইজানের বাকুতে ইন্দোনেশিয়ার সঙ্গে এক এক গোলে ড্র করে বাংলাদেশ দল",
-          "দিনের আরেক ম্যাচে পর্তুগালের বিপক্ষে তিন এক গোলে পরাজিত হয় বাংলাদেশ দল",
-          "বয়সভিত্তিক এই প্রতিযোগিতায় গ্রুপ পর্বে তিন ম্যাচের দুটিতে ড্র করলো বাংলাদেশ"
+          "অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে ইন্দোনেশিয়ার বিপক্ষে ১-১ ড্র নিয়ে মাঠ ছেড়েছে বাংলাদেশ দল।",
+          "বাছাইয়ের গ্রুপ ম্যাচে ইন্দোনেশিয়ার মুখোমুখি হয়ে নির্ধারিত সময়ে এক গোল করে বাংলাদেশ।",
+          "এর আগে দিন শুরুর অপর ম্যাচে পর্তুগালের বিপক্ষে ৩-১ গোলে পরাজিত হয় বাংলাদেশ।"
         ],
         "bullets_en": [
-          "Bangladesh played to a one-all draw against Indonesia in Baku, Azerbaijan",
-          "In another fixture, the Bangladesh team suffered a 3-1 defeat against Portugal",
-          "Bangladesh has now recorded two draws in three group matches of the youth tournament"
+          "Bangladesh secured a 1-1 draw against Indonesia in the Under-15 World Cup and Festival.",
+          "The team scored one goal against Indonesia during the group stage match in Baku.",
+          "Earlier in the day, the youth team suffered a 3-1 defeat against Portugal."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালে অংশ নিচ্ছে বাংলাদেশ। এর আগে ইউরোপের দল ওয়েলসের বিপক্ষে গোলশূন্য ড্র করে নিজেদের আসর শুরু করেছিল বাংলাদেশ দল। বাছাইপর্বের গ্রুপ জি-তে বিভিন্ন শক্তিশালী প্রতিপক্ষের মোকাবিলা করছে তরুণ এই ফুটবলাররা।",
-        "details_en": "Bangladesh is participating in the Under-15 World Cup and Festival held in Baku, Azerbaijan. The team began their campaign in the tournament with a goalless draw against European side Wales. The young footballers are facing various competitive opponents in Group G of the qualifiers."
+        "details_bn": "ারবাইজানের বাকুতে চলছে অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যাল। এই প্রতিযোগিতায় ইউরোপের দল ওয়েলসের বিপক্ষে গোলশূন্য ড্র করে আসর শুরু করেছিল বাংলাদেশ। টুর্নামেন্টের বাছাইপর্বে নিজেদের প্রথম তিন ম্যাচের মধ্যে এটি বাংলাদেশের দ্বিতীয় ড্র। এর আগে পর্তুগালের বিপক্ষে ৩-১ গোলে হারলেও ইন্দোনেশিয়ার বিপক্ষে দারুণ লড়াই করে ড্র তুলে নেয় বায়েজিদ-িমরা। বয়সভিত্তিক ফুটবলে আন্তর্জাতিক অঙ্গনে অভিজ্ঞতা অর্জনের জন্য এই টুর্নামেন্ট অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
+        "details_en": "The Under-15 World Cup and Festival is taking place in Baku, Azerbaijan. Bangladesh began their campaign in this tournament with a goalless draw against European side Wales. This marks the second draw for Bangladesh out of three matches in the qualifying round. Earlier, despite suffering a 3-1 defeat against Portugal, the young Tigers fought back to secure a draw against Indonesia. Such international youth tournaments play a vital role in gaining competitive experience."
       }
     },
     {
-      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
+      "story_id": "4a70fc95-a35e-5ad9-8615-a0ef09da6744",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -231,29 +237,29 @@
       ],
       "region": "international",
       "tags": [
-        "#RahulGandhi",
-        "#IndiaElections",
-        "#Congress"
+        "#IsraelElections",
+        "#Netanyahu",
+        "#GadiEisenkot"
       ],
-      "image_url": "https://static.dw.com/image/79568976_6.jpg",
+      "image_url": "https://static.dw.com/image/79750417_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T22:00:49.335744+00:00",
+      "published_at": "2026-10-25T23:00:47.516230+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6889,
+      "rank_score": 0.6891,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
+          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+          "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+          "snippet": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার অভিযোগে রাহুল গান্ধীর আন্দোলনের ডাক",
-        "title_en": "Rahul Gandhi Urges Protests Over Voter Deletions and Announces Rally",
-        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে একটি বিশাল জনসমাবেশের আহ্বান জানিয়েছেন।",
-        "summary_en": "Congress leader Rahul Gandhi called for a massive protest rally in New Delhi over alleged widespread voter deletions.",
+        "title_bn": "নেতানিয়াহুর বিরুদ্ধে চ্যালেঞ্জে মরক্কোর শেকড় ব্যবহার করছেন আইজেনকট",
+        "title_en": "Gadi Eisenkot Campaigns on Moroccan Roots to Challenge Netanyahu",
+        "summary_bn": "ইসরায়েলি রাজনীতিক গাদি আইজেনকট দেশটির নির্বাচনের আগে মরক্কোর শেকড় ব্যবহার করে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুকে চ্যালেঞ্জ করছেন।",
+        "summary_en": "Israeli politician Gadi Eisenkot highlights his Moroccan roots in political campaign challenging Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -261,78 +267,82 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T22:00:49.335744+00:00",
-        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে একটি বিশাল জনসমাবেশের আহ্বান জানিয়েছেন।",
-        "lead_en": "Congress leader Rahul Gandhi called for a massive protest rally in New Delhi over alleged widespread voter deletions.",
+        "published_at": "2026-10-25T23:00:47.516230+00:00",
+        "lead_bn": "ইসরায়েলি রাজনীতিক গাদি আইজেনকট দেশটির নির্বাচনের আগে মরক্কোর শেকড় ব্যবহার করে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুকে চ্যালেঞ্জ করছেন।",
+        "lead_en": "Israeli politician Gadi Eisenkot highlights his Moroccan roots in political campaign challenging Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দেশব্যাপী আন্দোলনের ডাক দিয়েছেন কংগ্রেস নেতা রাহুল গান্ধী।",
-          "নয়াদিল্লির রামলীলা ময়দানে আগামী পয়লা নভেম্বর সেভ দ্য ভোট, সেভ দ্য কান্ট্রি শীর্ষক মার্চ ও সমাবেশ অনুষ্ঠিত হবে।",
-          "ক্ষমতাসীন ভারতীয় জনতা পার্টি ভোটার তালিকা কারচুপির মাধ্যমে ভোট চুরি করছে বলে অভিযোগ করেছেন রাহুল গান্ধী।"
+          "উদারপন্থী ইয়াশার পার্টির প্রচারণায় হিব্রু ও মরক্কোর আরবি ভাষার মিশ্রণে স্লোগান ব্যবহার করা হচ্ছে",
+          "ইসরায়েলের জনসংখ্যার প্রায় অর্ধেক অংশ মিরাহি বা মধ্যপ্রাচ্য ও উত্তর আফ্রিকার বংশোদ্ভূত",
+          "এসডেরোটের মতো ঐতিহ্যগতভাবে ডানপন্থীদের শক্তঘাঁটিতে প্রভাব বিস্তারের চেষ্টা চলছে"
         ],
         "bullets_en": [
-          "Congress leader Rahul Gandhi urged citizens to join a protest campaign against alleged electoral roll manipulations.",
-          "A Save the Vote, Save the Country march and rally is planned at Delhi's Ramlila Maidan on November 1.",
-          "The opposition leader accused the ruling Bharatiya Janata Party of stealing votes by removing names from lists."
+          "The liberal Yashar party campaign utilizes slogans combining Hebrew and Moroccan Arabic terms.",
+          "Approximately half of Israel's Jewish population consists of Mizrahi individuals from Middle Eastern and North African backgrounds.",
+          "Campaign efforts focus heavily on traditional right-wing strongholds like Sderot with large Moroccan-Jewish communities."
         ],
-        "impact_bn": "ভোটার তালিকা নিয়ে রাজনৈতিক অস্থিরতা দেশের সাধারণ ভোটার ও নাগরিকদের মধ্যে গণতান্ত্রিক অধিকার সুরক্ষা নিয়ে উদ্বেগের সৃষ্টি করেছে।",
-        "impact_en": "Heightened political tensions over electoral integrity raise concerns among citizens regarding the protection of voting rights.",
-        "details_bn": "ভারতে ভোটার তালিকা ব্যবস্থাপনা এবং নির্বাচনী স্বচ্ছতা নিয়ে ক্ষমতাসীন ও বিরোধী দলের মধ্যে বিরোধ দীর্ঘদিনের। বিরোধী দলগুলো প্রায়ই নির্বাচনী প্রক্রিয়ায় কারচুপির অভিযোগ তুলে আসছে। এর অংশ হিসেবে কংগ্রেস নেতৃত্ব জনসাধারণের অধিকার রক্ষার আন্দোলন জোরদার করার কৌশল নিয়েছে।",
-        "details_en": "Tensions surrounding electoral rolls and voting integrity have persisted between India's ruling party and the opposition. Opposition leaders frequently accuse authorities of procedural violations and manipulation of voter databases, prompting intensified public mobilization and protest campaigns ahead of upcoming political milestones."
+        "impact_bn": "মূলধারার রাজনীতিতে শেকড় ও জাতিগত পরিচিতিভিত্তিক এই প্রচারণার কৌশল ভোটারদের মেরুকরণে নতুন প্রভাব ফেলবে।",
+        "impact_en": "This identity-based campaign strategy could significantly influence voter polarization within Israel's sociopolitical landscape.",
+        "details_bn": "ইসরায়েলের রাজনীতিতে আশকেনাজি বা ইউরোপীয় বংশোদ্ভূত এবং মিরাহি বা মধ্যপ্রাচ্য ও উত্তর আফ্রিকান বংশোদ্ভূত ইহুদিদের মধ্যে দীর্ঘদিনের ঐতিহাসিক বিভাজন রয়েছে। এসডেরোটের মতো শহরগুলো ঐতিহাসিকভাবে ডানপন্থী দল লিকুদ এবং প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর শক্তঘাঁটি হিসেবে পরিচিত। বর্তমান নির্বাচনে এই ঐতিহ্যবাহী ভোটব্যাঙ্কে নিজেদের অবস্থান তৈরিতে মরক্কোর শেকড়কে হাতিয়ার করেছে বিরোধী দল।",
+        "details_en": "Israel's political landscape has long reflected deep historical divisions between Ashkenazi Jews of European origin and Mizrahim of Middle Eastern and North African backgrounds. Cities like Sderot have historically served as right-wing strongholds, heavily favoring Prime Minister Benjamin Netanyahu's Likud party. Opposition campaigns are now targeting these traditionally loyal constituencies by emphasizing shared cultural roots."
       }
     },
     {
-      "story_id": "6d230261-35c5-5f7f-a307-cf4511326ad8",
-      "primary_category": "tech_innovation",
+      "story_id": "c8e40d14-eece-5590-8bcf-60fc373f133b",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation"
+        "world_diplomacy",
+        "society_education",
+        "sports_fitness"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#DonaldTrump",
+        "#Michigan"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fodklbr0s%2FBangladesh-AI-Business-Summit.webp?rect=0%2C158%2C1400%2C735&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://i.guim.co.uk/img/media/cfcc724fcbcea840ba286d8048faeb6a92d72108/245_0_4760_3808/master/4760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=159a73392ba85f4a5b5f3c0ec0c0914b",
       "image_caption": null,
-      "published_at": "2026-10-25T19:59:29+00:00",
+      "published_at": "2026-10-25T22:36:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3926,
+      "importance_score": 1.7,
+      "rank_score": 0.5448,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/0ob27w3rg9",
-          "title": "ঢাকায় ৫ নভেম্বর এআই বিজনেস সামিট, অংশ নেবে শতাধিক স্টার্টআপ",
-          "snippet": "ঢাকায় ৫ নভেম্বর এআই বিজনেস সামিট, অংশ নেবে শতাধিক স্টার্টআপ"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+          "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+          "snippet": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীতে ৫ নভেম্বর বসছে বাংলাদেশ এআই বিজনেস সামিট",
-        "title_en": "Bangladesh AI Business Summit Set for November 5 in Dhaka",
-        "summary_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয় এবং ডিসিসিআইয়ের উদ্যোগে রাজধানীতে বাংলাদেশ এআই বিজনেস সামিট আয়োজিত হতে যাচ্ছে।",
-        "summary_en": "The Ministry of Science and Technology and DCCI are jointly organizing the Bangladesh AI Business Summit in Dhaka.",
+        "title_bn": "মিশিগানে নির্বাচনী প্রচারণায় রিপাবলিকান প্রার্থী মাইক রজার্সকে সমর্থন ট্রাম্পের",
+        "title_en": "Trump Rallies for Senate Candidate Mike Rogers in Michigan",
+        "summary_bn": "যুক্তরাষ্ট্রের মিশিগানে আয়োজিত এক নির্বাচনী সমাবেশে রিপাবলিকান সিনেট প্রার্থী মাইক রজার্সের পক্ষে প্রচারণা চালিয়েছেন ডোনাল্ড ট্রাম্প।",
+        "summary_en": "Donald Trump rallied for Republican Senate candidate Mike Rogers during a campaign event in Michigan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "world_diplomacy",
+          "society_education",
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T19:59:29+00:00",
-        "lead_bn": "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয় এবং ডিসিসিআইয়ের উদ্যোগে রাজধানীতে বাংলাদেশ এআই বিজনেস সামিট আয়োজিত হতে যাচ্ছে।",
-        "lead_en": "The Ministry of Science and Technology and DCCI are jointly organizing the Bangladesh AI Business Summit in Dhaka.",
+        "published_at": "2026-10-25T22:36:59+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মিশিগানে আয়োজিত এক নির্বাচনী সমাবেশে রিপাবলিকান সিনেট প্রার্থী মাইক রজার্সের পক্ষে প্রচারণা চালিয়েছেন ডোনাল্ড ট্রাম্প।",
+        "lead_en": "Donald Trump rallied for Republican Senate candidate Mike Rogers during a campaign event in Michigan.",
         "bullets_bn": [
-          "বিজ্ঞান ও প্রযুক্তি মন্ত্রণালয় এবং ঢাকা চেম্বার অব কমার্স অ্যান্ড ইন্ডাস্ট্রির যৌথ উদ্যোগে সামিটটি অনুষ্ঠিত হবে।",
-          "সামিটের প্রদর্শনীতে শতাধিক এআইভিত্তিক স্টার্টআপ তাদের তৈরি প্রযুক্তি ও সেবা প্রদর্শন করবে।",
-          "অনুষ্ঠানে কৃত্রিম বুদ্ধিমত্তার বাণিজ্যিক ব্যবহার, দেশীয় উদ্ভাবন ও বিনিয়োগের সম্ভাবনা নিয়ে আলোচনা করা হবে।"
+          "মিশিগানে রিপাবলিকান সিনেট প্রার্থী মাইক রজার্সের পক্ষে নির্বাচনী প্রচারণায় অংশ নেন ডোনাল্ড ট্রাম্প",
+          "সমাবেশে বক্তৃতাকালে র‍্যাপার নিকি মিনাজ এবং স্থানীয় রাজনীতিকদের নিয়ে বিভিন্ন মন্তব্য করেন ট্রাম্প",
+          "কংগ্রেসের নিয়ন্ত্রণ নিজেদের হাতে রাখতে মিশিগানের নির্বাচনী লড়াইয়ে দুই দলই জোর চেষ্টা চালাচ্ছে"
         ],
         "bullets_en": [
-          "The summit is jointly organized by the Ministry of Science and Technology and the Dhaka Chamber of Commerce and Industry.",
-          "Over one hundred AI-based startups will showcase their technologies and solutions at the summit exhibition.",
-          "Discussions will focus on the commercial application of artificial intelligence, domestic innovation, and investment potentials."
+          "Donald Trump campaigned for Republican Senate candidate Mike Rogers during a rally in Michigan.",
+          "Trump made remarks about rapper Nicki Minaj and local politicians during his campaign speech.",
+          "Both political parties are fiercely contesting the Michigan race to secure control of Congress."
         ],
-        "impact_bn": "দেশের তরুণ উদ্যোক্তা ও প্রযুক্তিবিদরা সম্ভাব্য বিনিয়োগকারীদের সঙ্গে সংযোগ স্থাপনের সুযোগ পাবেন।",
-        "impact_en": "Young entrepreneurs and tech professionals will get opportunities to connect with potential investors.",
-        "details_bn": "রাজধানীর শেরেবাংলা নগরের বাংলাদেশ-চীন মৈত্রী সম্মেলন কেন্দ্রে দিনব্যাপী এ সম্মেলন অনুষ্ঠিত হবে। এতে এআই প্রযুক্তির বিকাশ, ব্যবসা-বাণিজ্যে এর প্রয়োগ এবং শিল্প খাতের সঙ্গে শিক্ষাপ্রতিষ্ঠানের অংশীদারত্ব বাড়ানোর বিষয়ে আলোচনা করা হবে। করপোরেট প্রতিষ্ঠানের শীর্ষ কর্মকর্তা, ব্যবসায়ী ও প্রযুক্তিবিশেষজ্ঞরা সামিটের বিভিন্ন অধিবেশনে অংশ নেবেন।",
-        "details_en": "The day-long summit will take place at the Bangladesh-China Friendship Conference Center in Sher-e-Bangla Nagar. Discussions will center on the development of AI technology, its application in business, and strengthening partnerships between industries and educational institutions. Top corporate executives, business leaders, and tech experts will participate in the sessions."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের আসন্ন মধ্যবর্তী নির্বাচনকে কেন্দ্র করে দেশটির বিভিন্ন অঙ্গরাজ্যে রাজনৈতিক দলগুলো নিজেদের অবস্থান শক্তিশালী করতে প্রচারে ব্যস্ত সময় পার করছে। মিশিগান অঙ্গরাজ্যে রিপাবলিকান প্রার্থী মাইক রজার্স এবং ডেমোক্র্যাট প্রার্থীর মধ্যে তীব্র প্রতিদ্বন্দ্বিতা চলছে। এই আসনটি মার্কিন কংগ্রেসে সংখ্যাগরিষ্ঠতা অর্জনের ক্ষেত্রে অত্যন্ত গুরুত্বপূর্ণ হওয়ায় দুই পক্ষই জয়ের জন্য সর্বাত্মক চেষ্টা চালাচ্ছে।",
+        "details_en": "Political parties across the United States are actively campaigning to strengthen their positions ahead of the upcoming midterm elections. The Senate race in Michigan between Republican candidate Mike Rogers and his Democratic opponent remains extremely competitive. This race is crucial for both parties as they scramble for control of the United States Congress."
       }
     }
   ]
