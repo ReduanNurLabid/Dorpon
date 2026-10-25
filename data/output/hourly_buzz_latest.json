@@ -1,123 +1,9 @@
 {
-  "updated_at": "2026-10-25T03:00:51.956961",
+  "updated_at": "2026-10-25T04:00:49.991295",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "eb0917e3-76ab-58b5-b0f9-65b319370954",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "tech_innovation"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-25T02:39:30+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1611,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-prime-minister-is-leaving-for-japan-tonight/",
-          "title": "চার দিনের সফরে জাপান যাচ্ছেন প্রধানমন্ত্রী",
-          "snippet": "চার দিনের সফরে জাপান যাচ্ছেন প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চার দিনের সরকারি সফরে জাপানের টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Heads to Tokyo on Four-Day Official Visit",
-        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে বাণিজ্য ও বিনিয়োগ সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is visiting Tokyo on a four-day official tour to boost bilateral trade and investment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:39:30+00:00",
-        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে বাণিজ্য ও বিনিয়োগ সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is visiting Tokyo on a four-day official tour to boost bilateral trade and investment.",
-        "bullets_bn": [
-          "বাণিজ্য, বিনিয়োগ, অবকাঠামো উন্নয়ন ও প্রযুক্তি হস্তান্তরে সহযোগিতা বাড়াতে টোকিও সফর করছেন প্রধানমন্ত্রী।",
-          "সফরে জাপানের প্রধানমন্ত্রীর সাথে উচ্চ পর্যায়ের দ্বিপক্ষীয় বৈঠক এবং শীর্ষ ব্যবসায়ীদের সাথে আলোচনা অনুষ্ঠিত হবে।",
-          "বাংলাদেশ-জাপান অর্থনৈতিক অংশীদারি চুক্তি বাস্তবায়ন এবং নতুন সমঝোতা স্মারক সই হওয়ার সম্ভাবনা রয়েছে।"
-        ],
-        "bullets_en": [
-          "The Prime Minister is visiting Tokyo to enhance cooperation in trade, investment, infrastructure, and technology transfer.",
-          "Bilateral talks with the Japanese Prime Minister and meetings with top business leaders are scheduled during the tour.",
-          "Implementation of the economic partnership agreement and potential signing of new memorandums of understanding will be prioritized."
-        ],
-        "impact_bn": "এই সফরের মাধ্যমে বাংলাদেশে জাপানি বিনিয়োগ বৃদ্ধি পেলে দেশে নতুন কর্মসংস্থান সৃষ্টির সুযোগ তৈরি হবে।",
-        "impact_en": "Increased Japanese investment resulting from this visit will create new employment opportunities within the country.",
-        "details_bn": "জাপানি প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে এই সফর অনুষ্ঠিত হচ্ছে। সফরে বাংলাদেশ ও জাপানের মধ্যকার দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে অর্থনৈতিক অংশীদারি চুক্তি বাস্তবায়ন, জ্বালানি নিরাপত্তা, রোহিঙ্গা সংকট এবং মানবসম্পদ উন্নয়ন বিষয়ে বিস্তারিত আলোচনা হওয়ার কথা রয়েছে। এছাড়া জাইকা ও জেট্রোর মতো শীর্ষ প্রতিষ্ঠানের সাথে বৈঠক অনুষ্ঠিত হবে।",
-        "details_en": "The visit takes place at the invitation of Japanese Prime Minister Sanae Takaichi. Discussions will focus on implementing the economic partnership agreement, energy security, the Rohingya crisis, and human resources development to strengthen bilateral ties. Meetings with top institutions like JICA and JETRO are also scheduled."
-      }
-    },
-    {
-      "story_id": "a8bd0156-6029-5a17-b710-7097e7ea8efe",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T02:39:14+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1559,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171603",
-          "title": "অবকাশকালীন ছুটি শেষে নিয়মিত কার্যক্রমে ফিরছে সুপ্রিম কোর্ট",
-          "snippet": "অবকাশকালীন ছুটি শেষে নিয়মিত কার্যক্রমে ফিরছে সুপ্রিম কোর্ট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অবকাশকালীন ছুটি শেষে নিয়মিত বিচারিক কার্যক্রমে ফিরছে সুপ্রিম কোর্ট",
-        "title_en": "Supreme Court Resumes Regular Judicial Activities After Vacation",
-        "summary_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষ করে বিচারিক কার্যক্রম পুনরায় শুরু করতে যাচ্ছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
-        "summary_en": "The Supreme Court of Bangladesh is resuming regular judicial activities following the conclusion of its long vacation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:39:14+00:00",
-        "lead_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষ করে বিচারিক কার্যক্রম পুনরায় শুরু করতে যাচ্ছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
-        "lead_en": "The Supreme Court of Bangladesh is resuming regular judicial activities following the conclusion of its long vacation.",
-        "bullets_bn": [
-          "অবকাশকালীন ছুটি শেষে নিয়মিত বিচারিক কার্যক্রমে ফিরছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
-          "ছুটির পর আদালতের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম বন্ধ থাকবে।",
-          "নিয়মিত বিচারিক কার্যক্রম চালুর মাধ্যমে বিচারপ্রার্থীদের দীর্ঘদিনের জমে থাকা মামলার শুনানি শুরু হবে।"
-        ],
-        "bullets_en": [
-          "The Supreme Court resumes regular judicial activities following the end of its vacation period.",
-          "Judicial proceedings in the Appellate Division will remain suspended on the first working day after the vacation.",
-          "The resumption of regular court operations enables the hearing of long-pending backlog cases for litigants."
-        ],
-        "impact_bn": "আইনজীবী ও বিচারপ্রার্থীরা নিয়মিত আদালত কার্যক্রমের মাধ্যমে তাদের আটকে থাকা মামলার শুনানি ও আইনি প্রক্রিয়া পুনরায় শুরু করতে পারবেন।",
-        "impact_en": "Lawyers and litigants can resume hearings and legal proceedings for their stalled cases through regular court operations.",
-        "details_bn": "আইনজীব ও বিচারপ্রার্থীদের দীর্ঘ ছুটির ভোগান্তি কমাতে সুপ্রিম কোর্ট নির্দিষ্ট সময় পর পর অবকাশকালীন ছুটির নিয়মে বিচারিক কার্যক্রম পরিচালনা করে থাকে। এই ছুটির সময় জরুরি মামলার জন্য সুনির্দিষ্ট বেঞ্চ গঠিত থাকলেও নিয়মিত বেঞ্চগুলোর কার্যক্রম বন্ধ থাকে। ছুটি শেষে আপিল ও হাইকোর্ট বিভাগের স্বাভাবিক কার্যক্রম চালুর মধ্য দিয়ে দেশের বিচার ব্যবস্থায় পুনরায় পূর্ণাঙ্গ গতিশীলতা ফিরে আসে।",
-        "details_en": "The Supreme Court periodically observes vacation periods while maintaining designated benches for urgent matters. During the break, regular court proceedings remain suspended to facilitate administrative adjustments and judges' breaks. The full resumption of both the Appellate and High Court divisions restores complete momentum to the country's judicial system for pending cases."
-      }
-    },
-    {
-      "story_id": "154e9e07-13e6-5c0a-9e5e-bba79c2ced21",
+      "story_id": "1c4fd8ff-7c7f-515b-9c52-d85a6ababc44",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -127,52 +13,107 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fytivllj4%2Fsaudiarab.avif?rect=0%2C11%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T02:49:24+00:00",
+      "published_at": "2026-10-25T03:56:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.727,
+      "importance_score": 7.2,
+      "rank_score": 2.7786,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/elu3jlz53e",
-          "title": "সৌদি আরবে ৭টি হামলার দাবি হুতিদের, মক্কায় পড়ল ক্ষেপণাস্ত্রের অংশ",
-          "snippet": "সৌদি আরবে ৭টি হামলার দাবি হুতিদের, মক্কায় পড়ল ক্ষেপণাস্ত্রের অংশ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171621",
+          "title": "চুক্তিতে না এলে রোববারই ইরানে হামলা হতে পারে: ট্রাম্প",
+          "snippet": "চুক্তিতে না এলে রোববারই ইরানে হামলা হতে পারে: ট্রাম্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবে সাতটি হামলা চালানোর দাবি ইয়েমেনের হুতি গোষ্ঠীর",
-        "title_en": "Yemen Houthi Group Claims Seven Attacks Across Saudi Arabia",
-        "summary_bn": "ইয়েমেনের হুতি গোষ্ঠী সৌদি আরবের বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করেছে।",
-        "summary_en": "Yemen Houthi group claimed responsibility for launching seven attacks targeting airports, oil facilities, and military bases in Saudi Arabia.",
+        "title_bn": "চুক্তি স্বাক্ষরিত না হলে ইরানে সামরিক হামলার হুঁশিয়ারি ট্রাম্পের",
+        "title_en": "Trump Warns of Military Attack on Iran Without a Deal",
+        "summary_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, সমঝোতা চুক্তি না হলে ইরানে সামরিক হামলা চালানো হতে পারে।",
+        "summary_en": "US President Donald Trump warned that military action could be launched against Iran if no agreement is reached.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:49:24+00:00",
-        "lead_bn": "ইয়েমেনের হুতি গোষ্ঠী সৌদি আরবের বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করেছে।",
-        "lead_en": "Yemen Houthi group claimed responsibility for launching seven attacks targeting airports, oil facilities, and military bases in Saudi Arabia.",
+        "published_at": "2026-10-25T03:56:20+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, সমঝোতা চুক্তি না হলে ইরানে সামরিক হামলা চালানো হতে পারে।",
+        "lead_en": "US President Donald Trump warned that military action could be launched against Iran if no agreement is reached.",
         "bullets_bn": [
-          "সৌদি আরবের বিভিন্ন বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করে হুতি গোষ্ঠী।",
-          "সৌদি সিভিল ডিফেন্স মক্কা ও মদিনার দিকে ছোড়া দুটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করে।",
-          "হুতিরা মক্কা ও মদিনাকে লক্ষ্য করার কথা অস্বীকার করে শুধুমাত্র তেল স্থাপনা ও ঘাঁটিতে হামলার দাবি জানায়।"
+          "সমঝোতা চুক্তি না হলে ইরানে সামরিক হামলার সিদ্ধান্ত নেওয়ার কড়া হুঁশিয়ারি দিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+          "যুক্তরাষ্ট্রের শীর্ষ নেতৃত্বের পক্ষ থেকে এই সম্ভাব্য সামরিক পদক্ষেপের বিষয়ে কঠোর অবস্থানের কথা জানানো হয়েছে।",
+          "উভয় দেশের মধ্যকার বর্তমান উত্তেজনার প্রেক্ষাপটে দ্রুত কোনো কূটনৈতিক সমাধান না এলে সংঘাত বাড়ার আশঙ্কা তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "The Houthi group claimed to have launched seven attacks targeting multiple airports, oil facilities, and military bases in Saudi Arabia.",
-          "Saudi civil defense successfully intercepted two ballistic missiles fired toward the Mecca and Medina regions.",
-          "The Houthis denied targeting Mecca and Medina, maintaining their operations focused solely on oil installations and military bases."
+          "US President Donald Trump issued a stern warning of potential military strikes against Iran if a formal agreement fails.",
+          "The warning highlights the escalating tensions and the firm stance taken by the US leadership regarding the negotiations.",
+          "The ongoing standoff raises the risk of direct conflict unless diplomatic breakthroughs are achieved promptly."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইয়েমেনের হুতি গোষ্ঠী দীর্ঘদিন ধরে সৌদি নেতৃত্বাধীন জোটের বিরুদ্ধে সামরিক অভিযান পরিচালনা করে আসছে। এর অংশ হিসেবে দেশটির তেল অবকাঠামো এবং কৌশলগত স্থাপনাগুলোতে প্রায়ই ড্রোন ও ক্ষেপণাস্ত্র হামলা চালানো হয়। সৌদি আরব ও এর মিত্ররা এই ধরনের হামলা প্রতিহত করতে নিজেদের আকাশ প্রতিরক্ষা ব্যবস্থা জোরদার করেছে, যা আঞ্চলিক নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলছে।",
-        "details_en": "The Houthi movement in Yemen has engaged in a prolonged conflict with the Saudi-led coalition, frequently targeting vital infrastructure with drones and missiles. Saudi Arabia and its allies maintain robust air defense systems to intercept these threats, heightening regional security concerns as cross-border strikes persist."
+        "impact_bn": "এই উত্তেজনার ফলে মধ্যপ্রাচ্যের ভূ-রাজনীতিতে অস্থিরতা বাড়ায় আন্তর্জাতিক বাজারে জ্বালানি তেলের দাম ও বৈশ্বিক বাণিজ্যে প্রভাব পড়তে পারে।",
+        "impact_en": "Escalating Middle East tensions could destabilize regional geopolitics and impact global energy markets and supply chains.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইরানের দীর্ঘদিনের ভূরাজনৈতিক বিরোধ এবং পারমাণবিক কর্মসূচি নিয়ে উত্তেজনার জেরে ওয়াশিংটন বরাবরই তেহরানের ওপর কঠোর অর্থনৈতিক ও সামরিক চাপ বজায় রেখে আসছে। সাম্প্রতিক সময়ে দুই দেশের মধ্যকার কূটনৈতিক প্রচেষ্টা থমকে যাওয়ায় পরিস্থিতি আরও জটিল হয়ে উঠেছে, যা আঞ্চলিক নিরাপত্তা এবং বৈশ্বিক অর্থনীতিকে ঝুঁকিতে ফেলছে।",
+        "details_en": "Longstanding geopolitical friction and disputes over Iran nuclear program have prompted Washington to maintain severe economic and military pressure on Tehran. Recent stagnation in diplomatic efforts has further complicated the situation, posing serious risks to regional security and the global economy."
       }
     },
     {
-      "story_id": "e87eb4ff-65de-590c-8f88-cb5a84d787b8",
+      "story_id": "887d1d2d-60d0-502e-b7dc-790bbd42e71d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T04:00:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.9287,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976550/%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%AC%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0",
+          "title": "মক্কা-মদিনায় হামলার খবর অস্বীকার হুথিদের, সৌদির তেল স্থাপনা-বিমানবন্দরে হামলার দাবি",
+          "snippet": "মক্কা-মদিনায় হামলার খবর অস্বীকার হুথিদের, সৌদির তেল স্থাপনা-বিমানবন্দরে হামলার দাবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মক্কা-মদিনায় হামলার খবর অস্বীকার হুথিদের, সৌদির তেল স্থাপনায় হামলার দাবি",
+        "title_en": "Houthis Deny Attacks on Mecca and Medina, Claim Strikes on Saudi Oil Facilities",
+        "summary_bn": "ইয়েমেনের হুথি গোষ্ঠী মক্কা ও মদিনায় হামলার খবর অস্বীকার করে সৌদি আরবের তেল স্থাপনা ও বিমানবন্দরে হামলার দাবি করেছে।",
+        "summary_en": "Yemen's Houthi movement denied attacks on Mecca and Medina while claiming responsibility for strikes on Saudi oil facilities and airports.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T04:00:09+00:00",
+        "lead_bn": "ইয়েমেনের হুথি গোষ্ঠী মক্কা ও মদিনায় হামলার খবর অস্বীকার করে সৌদি আরবের তেল স্থাপনা ও বিমানবন্দরে হামলার দাবি করেছে।",
+        "lead_en": "Yemen's Houthi movement denied attacks on Mecca and Medina while claiming responsibility for strikes on Saudi oil facilities and airports.",
+        "bullets_bn": [
+          "ইয়েমেনের হুথি গোষ্ঠী ইসলামের পবিত্র দুই নগরী মক্কা ও মদিনায় হামলার খবর সম্পূর্ণ অস্বীকার করেছে।",
+          "সৌদি আরব এর আগে ওই অঞ্চলগুলোর দিকে ছোড়া ক্ষেপণাস্ত্র প্রতিহত করার দাবি জানিয়েছিল।",
+          "পাল্টাপাল্টি উত্তেজনার মধ্যে হুথিরা সৌদির বিভিন্ন তেল স্থাপনা ও বিমানবন্দরে হামলার নতুন দাবি তুলেছে।"
+        ],
+        "bullets_en": [
+          "Yemen's Houthi group officially denied carrying out any attacks on the holy cities of Mecca and Medina.",
+          "Saudi Arabia previously stated that missiles fired toward those regions were successfully intercepted and neutralized.",
+          "Amid escalating tensions, the Houthis claimed responsibility for subsequent strikes on Saudi oil facilities and airports."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে চলমান এই সংঘাতে জ্বালানি সরবরাহ ব্যাহত হওয়ার আশঙ্কা রয়েছে, যা বৈশ্বিক বাজারে প্রভাব ফেলতে পারে।",
+        "impact_en": "Ongoing Middle East tensions and threats to oil facilities could disrupt global energy supplies and impact markets.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের সাথে সৌদি আরব নেতৃত্বাধীন জোটের সংঘাত দীর্ঘদিন ধরে চলছে। হুথিরা প্রায়ই সৌদি আরবের তেল ও সামরিক অবকাঠামো লক্ষ্য করে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। সাম্প্রতিক এই পাল্টাপাল্টি দাবি মধ্যপ্রাচ্যে নতুন করে নিরাপত্তা সংকট ও উত্তেজনার ইঙ্গিত দেয়, যা আন্তর্জাতিক রাজনীতি ও জ্বালানি নিরাপত্তার জন্য অত্যন্ত সংবেদনশীল।",
+        "details_en": "The conflict between Yemen's Houthi rebels and the Saudi-led coalition has persisted for years, with the group frequently targeting Saudi infrastructure using drones and missiles. These recent conflicting claims highlight a deepening security crisis in the Middle East, raising concerns over regional stability and global energy supplies."
+      }
+    },
+    {
+      "story_id": "1a15595a-8754-500c-8beb-a8729e11ca4a",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -183,25 +124,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/France-Protest-1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-25T02:31:18+00:00",
+      "published_at": "2026-10-25T03:26:29+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4608,
+      "rank_score": 1.4017,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/probash/news/1171600",
-          "title": "মালয়েশিয়ায় মামুনুল হকের সমাবেশে প্রবাসীদের ঢল",
-          "snippet": "মালয়েশিয়ায় মামুনুল হকের সমাবেশে প্রবাসীদের ঢল"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/mass-protests-across-france-nearly-1000-arrested-following-clashes/",
+          "title": "ফ্রান্সজুড়ে ফের গণবিক্ষোভ, সংঘর্ষের পর প্রায় ১,০০০ গ্রেপ্তার",
+          "snippet": "ফ্রান্সজুড়ে ফের গণবিক্ষোভ, সংঘর্ষের পর প্রায় ১,০০০ গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়ায় বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হকের বিশাল সমাবেশ অনুষ্ঠিত",
-        "title_en": "Bangladesh Khelafat Majlis Chief Mamunul Haque Addresses Massive Rally in Malaysia",
-        "summary_bn": "মালয়েশিয়ার সেলাঙ্গরে প্রবাসী বাংলাদেশিদের একটি বিশাল সমাবেশে যোগ দিয়ে নতুন সদস্য সংগ্রহ কার্যক্রমের উদ্বোধন করেন মাওলানা মামুনুল হক।",
-        "summary_en": "Bangladesh Khelafat Majlis Ameer Maulana Mamunul Haque addressed a large gathering of expatriate Bangladeshis in Selangor, Malaysia.",
+        "title_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধির প্রতিবাদে বিক্ষোভ এবং সংঘর্ষে গ্রেপ্তার প্রায় ১,০০০",
+        "title_en": "Protests over living costs in France lead to clashes and nearly 1,000 arrests",
+        "summary_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধি ও শিক্ষাপ্রতিষ্ঠানের দুরবস্থার প্রতিবাদে আয়োজিত দেশজুড়ে বিক্ষোভে সংঘর্ষের পর প্রায় এক হাজার মানুষকে গ্রেপ্তার করা হয়েছে।",
+        "summary_en": "Nearly one thousand people have been arrested following clashes during nationwide protests across France over rising living costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -209,23 +150,80 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:31:18+00:00",
-        "lead_bn": "মালয়েশিয়ার সেলাঙ্গরে প্রবাসী বাংলাদেশিদের একটি বিশাল সমাবেশে যোগ দিয়ে নতুন সদস্য সংগ্রহ কার্যক্রমের উদ্বোধন করেন মাওলানা মামুনুল হক।",
-        "lead_en": "Bangladesh Khelafat Majlis Ameer Maulana Mamunul Haque addressed a large gathering of expatriate Bangladeshis in Selangor, Malaysia.",
+        "published_at": "2026-10-25T03:26:29+00:00",
+        "lead_bn": "ফ্রান্সে জীবনযাত্রার ব্যয় বৃদ্ধি ও শিক্ষাপ্রতিষ্ঠানের দুরবস্থার প্রতিবাদে আয়োজিত দেশজুড়ে বিক্ষোভে সংঘর্ষের পর প্রায় এক হাজার মানুষকে গ্রেপ্তার করা হয়েছে।",
+        "lead_en": "Nearly one thousand people have been arrested following clashes during nationwide protests across France over rising living costs.",
         "bullets_bn": [
-          "মালয়েশিয়ার সেলাঙ্গর রাজ্যের কেলাংয়ে প্রবাসী বাংলাদেশিদের নিয়ে বিশেষ সমাবেশের আয়োজন করা হয়।",
-          "সমাবেশে বিপুলসংখ্যক প্রবাসী বাংলাদেশি অংশ নেন এবং সংগঠনের নতুন সদস্য হিসেবে যোগ দেন।",
-          "প্রবাসীদের সংগঠিত করতে এবং তাদের অধিকার নিয়ে কাজ করার জন্য নতুন কর্মপরিকল্পনা ঘোষণা করা হয়।"
+          "জীবনযাত্রার ব্যয় বৃদ্ধি ও শিক্ষাপ্রতিষ্ঠানের দুরবস্থার প্রতিবাদে ফ্রান্সজুড়ে ব্যাপক বিক্ষোভ অনুষ্ঠিত হয়েছে।",
+          "ফরাসি স্বরাষ্ট্র মন্ত্রণালয়ের হিসাব অনুযায়ী বিক্ষোভে চার লাখ ১০ হাজার মানুষ অংশ নেয় এবং ৭০ হাজার পুলিশ সদস্য মোতায়েন করা হয়।",
+          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ কাঁদানে গ্যাস ও জলকামান ব্যবহার করে এবং বিশৃঙ্খলা রোধে বিভিন্ন শহরে বিশেষrestrictions আরোপ করা হয়।"
         ],
         "bullets_en": [
-          "A special rally was organized for expatriate Bangladeshis in Klang, Selangor state, Malaysia.",
-          "A large number of expatriates participated in the gathering and enrolled as new members of the organization.",
-          "New action plans were announced to organize expatriates and work for their rights."
+          "Nationwide protests took place across France to protest rising living costs and deteriorating educational institutions.",
+          "The French Interior Ministry reported 410000 participants while authorities deployed 70000 police officers.",
+          "Police used tear gas and water cannons to control the situation and special restrictions were imposed in multiple cities."
         ],
-        "impact_bn": "মালয়েশিয়ায় বসবাসরত প্রবাসী বাংলাদেশিদের মধ্যে রাজনৈতিক ও সামাজিক সচেতনতা বৃদ্ধি পাবে।",
-        "impact_en": "Expatriate Bangladeshis living in Malaysia may experience increased socio-political engagement.",
-        "details_bn": "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠনের কার্যক্রম দীর্ঘদিন ধরে সক্রিয় রয়েছে। সেলাঙ্গর রাজ্য প্রবাসী অধ্যুষিত এলাকা হওয়ায় সেখানে বিভিন্ন ধর্মীয় ও রাজনৈতিক ব্যক্তিত্বের আগমন ঘটে। সম্প্রতি প্রবাসীদের মাঝে নিজেদের সাংগঠনিক ভিত্তি মজবুত করতে বিভিন্ন দল ও সংগঠনের পক্ষ থেকে প্রবাসভিত্তিক কার্যক্রম জোরদার করা হচ্ছে।",
-        "details_en": "Expatriate Bangladeshis have long maintained active social and political networks in Malaysia. Selangor remains a key hub for the diaspora, frequently hosting visits from religious and political figures from Bangladesh. Organizations continue to strengthen their overseas base to engage migrant workers."
+        "impact_bn": "ফ্রান্সের এই দেশব্যাপী বিক্ষোভ ও সংঘর্ষের কারণে সাধারণ নাগরিক ও শিক্ষার্থীদের দৈনন্দিন যাতায়াত এবং জনজীবন মারাত্মকভাবে ব্যাহত হয়েছে।",
+        "impact_en": "The nationwide protests and clashes in France have severely disrupted daily commuting and normal life for ordinary citizens and students.",
+        "details_bn": "ফ্রান্সে ক্রমবর্ধমান মূল্যস্ফীতি এবং জীবনযাত্রার ব্যয় বৃদ্ধির কারণে দীর্ঘদিন ধরে সাধারণ মানুষের মধ্যে অসন্তোষ বিরাজ করছে। এর আগে অনুষ্ঠিত বিক্ষোভগুলোতেও ব্যাপক ভাঙচুর ও অগ্নিসংযোগের ঘটনা ঘটেছিল। পরিস্থিতি নিয়ন্ত্রণে রাখতে এবং সহিংসতা এড়াতে দেশটির সরকার নিরাপত্তা জোরদার করেছে এবং রাজধানী প্যারিসসহ বিভিন্ন গুরুত্বপূর্ণ শহরে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থান নিয়েছে।",
+        "details_en": "Growing public discontent has persisted in France due to soaring inflation and rising living costs. Previous demonstrations also witnessed widespread vandalism and arson. To maintain control and prevent further violence, the French government tightened security and deployed heavy law enforcement in Paris and other major cities."
+      }
+    },
+    {
+      "story_id": "dd570780-21e9-55ec-b620-c3ce275c3829",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T03:10:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2338,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171611",
+          "title": "নাহিদ ইসলাম ২৪ ঘণ্টার মধ্যে পদত্যাগ করবেন, আশা রাশেদ খাঁনের",
+          "snippet": "নাহিদ ইসলাম ২৪ ঘণ্টার মধ্যে পদত্যাগ করবেন, আশা রাশেদ খাঁনের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাহিদ ইসলামের পদত্যাগ দাবি প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁনের",
+        "title_en": "PM Political Assistant Rashed Khan Demands Nahid Islam Resignation",
+        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামকে নৈতিকতার প্রমাণ দিয়ে ২৪ ঘণ্টার মধ্যে সংসদ সদস্য পদ থেকে পদত্যাগ করার আহ্বান জানিয়েছেন রাশেদ খাঁন।",
+        "summary_en": "Prime Minister Political Assistant Rashed Khan urged National Citizen Party convener Nahid Islam to resign within twenty four hours.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T03:10:32+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামকে নৈতিকতার প্রমাণ দিয়ে ২৪ ঘণ্টার মধ্যে সংসদ সদস্য পদ থেকে পদত্যাগ করার আহ্বান জানিয়েছেন রাশেদ খাঁন।",
+        "lead_en": "Prime Minister Political Assistant Rashed Khan urged National Citizen Party convener Nahid Islam to resign within twenty four hours.",
+        "bullets_bn": [
+          "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলামকে ২৪ ঘণ্টার মধ্যে পদত্যাগ করার আহ্বান জানানো হয়েছে।",
+          "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন তাকে নৈতিকতার প্রমাণস্বরূপ এই পদত্যাগ করতে বলেন।",
+          "নির্ধারিত এই সময়ের মধ্যে পদত্যাগ না করলে পরবর্তী রাজনৈতিক পদক্ষেপ ঘোষণা করা হতে পারে।"
+        ],
+        "bullets_en": [
+          "National Citizen Party convener Nahid Islam faces a twenty four hour resignation ultimatum.",
+          "Prime Minister political assistant Rashed Khan urged him to step down to prove morality.",
+          "Further political responses may follow if the resignation demand remains unmet within the timeframe."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতীয় নাগরিক পার্টির রাজনীতি এবং বর্তমান রাজনৈতিক পরিস্থিতির প্রেক্ষাপটে এই মন্তব্য করেছেন প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন। সাম্প্রতিক রাজনৈতিক টানাপোড়েনের জেরে এই পদত্যাগের দাবি নতুন আলোচনার জন্ম দিয়েছে।",
+        "details_en": "Prime Minister political assistant Rashed Khan made this remark amid ongoing political developments involving the National Citizen Party. This resignation demand has sparked fresh discussions amid the current political friction."
       }
     },
     {
@@ -238,16 +236,16 @@
       ],
       "region": "international",
       "tags": [
-        "#Pesticides",
+        "#PesticideRules",
         "#EuropeanCommission",
-        "#Environment"
+        "#EnvironmentSafety"
       ],
       "image_url": "https://static.dw.com/image/77802067_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T03:00:51.956972+00:00",
+      "published_at": "2026-10-25T04:00:49.991303+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6885,
+      "rank_score": 0.6881,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -257,10 +255,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "কীটনাশক নিয়ন্ত্রণে নিয়ম শিথিলের প্রস্তাব ইউরোপীয় কমিশনের",
-        "title_en": "European Commission Proposes Relaxing Rules on Pesticide Use",
-        "summary_bn": "ইউরোপীয় কমিশন কৃষকদের সহায়তা ও ব্যয় কমাতে কীটনাশক ব্যবহারে বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে।",
-        "summary_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to cut costs and support farmers.",
+        "title_bn": "কীটনাশক ব্যবহারে কড়াকড়ি শিথিল করতে ইউরোপীয় কমিশনের প্রস্তাব",
+        "title_en": "European Commission Proposes Loosening Rules on Pesticide Use",
+        "summary_bn": "কৃষি ও খাদ্য নিরাপত্তা আইন সহজ করার অংশ হিসেবে কীটনাশকের ব্যবহার নিয়ন্ত্রণের নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "summary_en": "The European Commission has proposed sweeping changes to ease pesticide regulations as part of its drive to streamline agriculture laws.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -269,23 +267,23 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T03:00:51.956972+00:00",
-        "lead_bn": "ইউরোপীয় কমিশন কৃষকদের সহায়তা ও ব্যয় কমাতে কীটনাশক ব্যবহারে বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে।",
-        "lead_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to cut costs and support farmers.",
+        "published_at": "2026-10-25T04:00:49.991303+00:00",
+        "lead_bn": "কৃষি ও খাদ্য নিরাপত্তা আইন সহজ করার অংশ হিসেবে কীটনাশকের ব্যবহার নিয়ন্ত্রণের নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
+        "lead_en": "The European Commission has proposed sweeping changes to ease pesticide regulations as part of its drive to streamline agriculture laws.",
         "bullets_bn": [
-          "কৃষি খাতকে প্রতিযোগিতায় টিকিয়ে রাখতে কীটনাশকের অনুমোদন প্রক্রিয়া সহজ করার উদ্যোগ নেওয়া হয়েছে।",
-          "প্রস্তাবিত নিয়মে গ্লাইফোসেটের মতো ক্ষতিকর কীটনাশকের অনির্দিষ্টকালের অনুমোদন দেওয়ার কথা বলা হয়েছে।",
-          "বিজ্ঞানী ও চিকিৎসকরা স্বাস্থ্য এবং পরিবেশের ওপর এই সিদ্ধান্তের নেতিবাচক প্রভাব নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন।"
+          "কীটনাশকের অনুমোদন প্রক্রিয়ায় পরিবর্তনের মাধ্যমে অনির্দিষ্টকালের জন্য ব্যবহারের সুযোগ দেওয়ার প্রস্তাব করা হয়েছে।",
+          "কৃষকদের প্রতিযোগিতা সক্ষমতা বাড়াতে এবং প্রশাসনিক জটিলতা কমাতে এই পরিবর্তন আনার কথা জানিয়েছে কমিশন।",
+          "স্বাস্থ্যঝুঁকি ও পরিবেশগত নেতিবাচক প্রভাব পড়তে পারে বলে আশঙ্কা প্রকাশ করেছেন বিজ্ঞানী ও চিকিৎসকেরা।"
         ],
         "bullets_en": [
-          "The European Commission proposed sweeping changes to agriculture and food safety legislation to ease pesticide rules.",
-          "The revamp could make indefinite greenlighting the default, including for controversial substances like glyphosate.",
-          "Scientists and doctors warn that human health and environmental impacts are being ignored."
+          "The European Commission proposed making indefinite greenlighting for primary pesticide components the default regulatory standard.",
+          "The commission aims to cut costs, reduce administrative bottlenecks, and help farmers stay competitive against rising challenges.",
+          "Scientists and medical experts warned that human health and environmental safety concerns are being overlooked."
         ],
-        "impact_bn": "কীটনাশকের ব্যবহার বাড়ায় সাধারণ মানুষের খাদ্য নিরাপত্তা ও জনস্বাস্থ্য দীর্ঘমেয়াদী ঝুঁকির মুখে পড়তে পারে।",
-        "impact_en": "Increased pesticide use may pose long-term risks to food safety, environmental health, and public well-being.",
-        "details_bn": "বর্তমান নিয়ম অনুযায়ী ইউরোপীয় ইউনিয়নে কীটনাশকের মূল উপাদানগুলোর অনুমোদন সর্বোচ্চ ১৫ বছরের জন্য সীমিত থাকে। কৃষকদের দাবির মুখে ইউরোপীয় কমিশন আমলাতান্ত্রিক দীর্ঘসূত্রিতা কমাতেই এই সংস্কারের উদ্যোগ নিয়েছে। তবে সমালোচকরা বলছেন, জনস্বাস্থ্য ও পরিবেশ সুরক্ষার বিষয়টি পাশ কাটিয়ে এই পরিবর্তন আনা হচ্ছে।",
-        "details_en": "Under current EU rules dating back to 2011, primary pesticide components are granted approval for limited periods of no more than 15 years. The commission's proposed revamp responds to complaints from farmers regarding bureaucratic delays, though critics argue it bypasses critical human health and environmental safety reviews."
+        "impact_bn": "কীটনাশকের নিয়ম শিথিল হওয়ায় তা দীর্ঘমেয়াদে জনস্বাস্থ্য এবং খাদ্য নিরাপত্তার ওপর নেতিবাচক প্রভাব ফেলতে পারে।",
+        "impact_en": "Loosening pesticide regulations could pose long-term risks to consumer health and environmental safety across affected regions.",
+        "details_bn": "বর্তমান ইউরোপীয় ইউনিয়নের নিয়ম অনুযায়ী কীটনাশকের মূল উপাদানগুলো সর্বোচ্চ ১৫ বছরের জন্য সীমিত মেয়াদে অনুমোদিত হয়। ২০১১ সাল থেকে কার্যকর এই ব্যবস্থার কারণে আমলাতান্ত্রিক দীর্ঘসূত্রিতা ও বিলম্ব ঘটছে বলে দাবি করে আসছে কৃষি খাত ও খাদ্য অ্যাসোসিয়েশনগুলো। নতুন প্রস্তাবের ফলে গ্লাইফোসেটের মতো বিতর্কিত রাসায়নিকের ব্যবহার অনির্দিষ্টকালের জন্য বৈধ হতে পারে, যা নিয়ে বিজ্ঞানী মহলে তীব্র উদ্বেগ তৈরি হয়েছে।",
+        "details_en": "Under current EU rules dating back to 2011, primary pesticide components receive approval for limited periods of no more than 15 years. The agriculture industry has repeatedly complained about chronic delays and administrative bottlenecks in approvals. The new proposal seeks to replace periodic renewals with indefinite authorizations, drawing sharp criticism from scientists and environmental advocates who warn about cancer risks and ecological damage."
       }
     },
     {
@@ -298,16 +296,16 @@
       ],
       "region": "international",
       "tags": [
-        "#JamiaMillia",
-        "#StudentProtest",
-        "#IndiaNews"
+        "#JamiaMilliaIslamia",
+        "#StudentProtests",
+        "#IndiaEducation"
       ],
       "image_url": "https://static.dw.com/image/79749894_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T03:00:51.956972+00:00",
+      "published_at": "2026-10-25T04:00:49.991303+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6885,
+      "rank_score": 0.6881,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -317,10 +315,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ছাত্র বিক্ষোভের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় অনলাইন ক্লাসে স্থানান্তরিত হয়েছে",
-        "title_en": "Jamia Millia Islamia University Shifts All Classes Online Following Student Protests",
-        "summary_bn": "নিরাপত্তা কর্মীদের সাথে সংঘর্ষের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় কর্তৃপক্ষ অবিলম্বে সব ক্লাস অনলাইনে স্থানান্তরিত করার নির্দেশ দিয়েছে।",
-        "summary_en": "Jamia Millia Islamia University moved all classes online immediately following clashes between student protesters and security guards.",
+        "title_bn": "ছাত্র বিক্ষোভের জেরে জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে অনলাইন ক্লাস শুরু",
+        "title_en": "Jamia Millia Islamia University shifts all classes online amid student protests",
+        "summary_bn": "ছাত্র ইউনিয়ন নির্বাচনের দাবিতে চলমান বিক্ষোভ এবং নিরাপত্তারক্ষীদের সাথে সংঘর্ষের পর জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয় সব ক্লাস অনলাইনে স্থানান্তর করেছে।",
+        "summary_en": "Jamia Millia Islamia University has moved all classes online following student protests and clashes with security guards over union elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -329,23 +327,23 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T03:00:51.956972+00:00",
-        "lead_bn": "নিরাপত্তা কর্মীদের সাথে সংঘর্ষের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় কর্তৃপক্ষ অবিলম্বে সব ক্লাস অনলাইনে স্থানান্তরিত করার নির্দেশ দিয়েছে।",
-        "lead_en": "Jamia Millia Islamia University moved all classes online immediately following clashes between student protesters and security guards.",
+        "published_at": "2026-10-25T04:00:49.991303+00:00",
+        "lead_bn": "ছাত্র ইউনিয়ন নির্বাচনের দাবিতে চলমান বিক্ষোভ এবং নিরাপত্তারক্ষীদের সাথে সংঘর্ষের পর জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয় সব ক্লাস অনলাইনে স্থানান্তর করেছে।",
+        "lead_en": "Jamia Millia Islamia University has moved all classes online following student protests and clashes with security guards over union elections.",
         "bullets_bn": [
-          "ক্যাম্পাসে ছাত্র সংসদ নির্বাচন পুনরুদ্ধারের দাবিতে শিক্ষার্থীরা বিক্ষোভ শুরু করে।",
-          "নিরাপত্তা কর্মীরা বিক্ষোভকারীদের তাঁবু সরাতে গেলে পরিস্থিতি উত্তপ্ত হয়ে ওঠে ও সংঘর্ষ বাধে।",
-          "শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করতে পরবর্তী নির্দেশ না দেওয়া পর্যন্ত অনলাইন ক্লাস অব্যাহত থাকবে।"
+          "শিক্ষার্থীদের নিরাপত্তার কথা বিবেচনা করে বিশ্ববিদ্যালয় প্রশাসন তাৎক্ষণিকভাবে সমস্ত ক্লাস অনলাইনে নেওয়ার নির্দেশ দিয়েছে।",
+          "ক্যাম্পাসে ছাত্র ইউনিয়ন নির্বাচন পুনর্বহালের দাবি নিয়ে গত ১২ অক্টোবর থেকে শিক্ষার্থীরা লাগাতার বিক্ষোভ চালিয়ে আসছিল।",
+          "পরিস্থিতি নিয়ন্ত্রণে না আসা পর্যন্ত শিক্ষক ও অনুষদ সদস্যরা অনলাইনে একাডেমিক সহায়তা ও পঠনসামগ্রী সরবরাহ করবেন।"
         ],
         "bullets_en": [
-          "Students launched protests demanding the restoration of the campus student union elections.",
-          "Tensions escalated and security guards scuffled with protesters while attempting to remove tents.",
-          "The university shifted classes online to ensure student safety until further notice."
+          "The university administration directed all classes to move online immediately to ensure student safety.",
+          "Students launched protests demanding the reinstatement of the campus student union, which began earlier this month.",
+          "Faculty members will provide online academic support and learning materials until further notice."
         ],
-        "impact_bn": "অনলাইন ক্লাসে স্থানান্তরের ফলে সাধারণ শিক্ষার্থীদের নিয়মিত অ্যাকাডেমিক কার্যক্রম সাময়িকভাবে ব্যাহত হচ্ছে।",
-        "impact_en": "The shift to online classes temporarily disrupts the regular academic routine and campus access for general students.",
-        "details_bn": "দিল্লির জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে ২০০৬ সাল থেকে ছাত্র সংসদ নির্বাচন নিষিদ্ধ রয়েছে। শিক্ষার্থীরা এই নিষেধাজ্ঞা তুলে নেওয়ার দাবিতে অক্টোবর মাস থেকে আন্দোলন চালিয়ে আসছে। সাম্প্রতিক সময়ে নিরাপত্তা কর্মীদের সাথে সংঘর্ষের ঘটনায় পরিস্থিতি জটিল আকার ধারণ করায় বিশ্ববিদ্যালয় কর্তৃপক্ষ ক্যাম্পাসে নিরাপত্তা জোরদার করতে এবং অ্যাকাডেমিক কার্যক্রম অনলাইনে পরিচালনা করার সিদ্ধান্ত নেয়।",
-        "details_en": "Student union elections at Jamia Millia Islamia University have been disbanded since 2006 following past campus violence. Protests demanding the reinstatement of the union escalated when security guards attempted to dismantle student tents. In response to the growing campus unrest and clashes, the administration ordered all academic activities to move online to maintain student safety."
+        "impact_bn": "বিশ্ববিদ্যালয়ের অনলাইন ক্লাসে রূপান্তরের ফলে সাধারণ শিক্ষার্থীদের নিয়মিত শিক্ষা কার্যক্রম ও ক্যাম্পাস জীবন ব্যাহত হচ্ছে।",
+        "impact_en": "The transition to online learning disrupts regular academic schedules and campus life for students.",
+        "details_bn": "দিল্লির জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে ২০০৬ সাল থেকে ছাত্র সংসদ নিষিদ্ধ রয়েছে। সম্প্রতি শিক্ষার্থীরা ইউনিয়ন নির্বাচন পুনরায় চালুর দাবিতে আন্দোলন শুরু করলে তা সংঘাতে রূপ নেয়। নিরাপত্তারক্ষীদের সাথে সংঘর্ষ এবং ক্যাম্পাসে উত্তেজনার জেরে বিশ্ববিদ্যালয় কর্তৃপক্ষ বাধ্য হয়ে অনলাইন শিক্ষা কার্যক্রমে যাওয়ার সিদ্ধান্ত নেয়।",
+        "details_en": "Student union elections at Jamia Millia Islamia University have been banned since 2006 following previous campus violence. Tensions escalated when security guards attempted to remove protest tents set up by students demanding the reinstatement of the union, leading to physical clashes and the subsequent shift to online classes."
       }
     }
   ]
