@@ -1,64 +1,66 @@
 {
-  "updated_at": "2026-10-25T13:00:44.828462",
+  "updated_at": "2026-10-25T14:00:43.756228",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d24a8cac-9404-5292-8643-0939418799c9",
-      "primary_category": "governance_law",
+      "story_id": "2bee5161-b318-5fa1-a7b0-666c91d1ff10",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T12:49:50+00:00",
+      "published_at": "2026-10-25T13:54:39+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7361,
+      "importance_score": 6.0,
+      "rank_score": 2.2796,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/976672/%E0%A7%A7%E0%A7%AA%E0%A7%AC-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A8%E0%A7%A8%E0%A7%A9%E0%A7%A7",
-          "title": "১৪৬ ফ্লাইট বাতিলে যাত্রী আটকা পড়েছে ২২২৩১",
-          "snippet": "১৪৬ ফ্লাইট বাতিলে যাত্রী আটকা পড়েছে ২২২৩১"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171887",
+          "title": "পটিয়ায় দলিলের মূল্য কম দেখিয়ে রাজস্ব ফাঁকির অভিযোগ, তদন্তে দুদক",
+          "snippet": "পটিয়ায় দলিলের মূল্য কম দেখিয়ে রাজস্ব ফাঁকির অভিযোগ, তদন্তে দুদক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শাহজালাল বিমানবন্দর থেকে সৌদিগামী ১৪৬ ফ্লাইট বাতিল, আটকা দুই হাজারেরও বেশি যাত্রী",
-        "title_en": "Hazrat Shahjalal International Airport Cancels 146 Saudi-Bound Flights Stranding Thousands",
-        "summary_bn": "শাহজালাল বিমানবন্দর থেকে সৌদি আরবগামী ফ্লাইট বাতিলের ধারাবাহিকতায় মোট ১৪৬টি ফ্লাইট বাতিল করা হয়েছে যার ফলে হাজার হাজার যাত্রী আটকা পড়েছেন।",
-        "summary_en": "A continuous series of flight cancellations from Hazrat Shahjalal International Airport to Saudi Arabia reaches a total of 146 grounded flights.",
+        "title_bn": "পটিয়ায় কমমূল্যে দলিল দেখিয়ে রাজস্ব ফাঁকির অভিযোগে দুদকের তদন্ত",
+        "title_en": "ACC Investigates Revenue Evasion via Undervalued Deeds in Patiya",
+        "summary_bn": "দুর্নীতি দমন কমিশন চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে ভবনের তথ্য গোপন করে রাজস্ব ফাঁকির অভিযোগে তদন্ত শুরু করেছে।",
+        "summary_en": "The Anti-Corruption Commission has launched an investigation into revenue evasion by concealing building assets during deed registration in Patiya.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T12:49:50+00:00",
-        "lead_bn": "শাহজালাল বিমানবন্দর থেকে সৌদি আরবগামী ফ্লাইট বাতিলের ধারাবাহিকতায় মোট ১৪৬টি ফ্লাইট বাতিল করা হয়েছে যার ফলে হাজার হাজার যাত্রী আটকা পড়েছেন।",
-        "lead_en": "A continuous series of flight cancellations from Hazrat Shahjalal International Airport to Saudi Arabia reaches a total of 146 grounded flights.",
+        "published_at": "2026-10-25T13:54:39+00:00",
+        "lead_bn": "দুর্নীতি দমন কমিশন চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে ভবনের তথ্য গোপন করে রাজস্ব ফাঁকির অভিযোগে তদন্ত শুরু করেছে।",
+        "lead_en": "The Anti-Corruption Commission has launched an investigation into revenue evasion by concealing building assets during deed registration in Patiya.",
         "bullets_bn": [
-          "শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী মোট ১৪৬টি ফ্লাইট বাতিল করা হয়েছে।",
-          "বাতিল হওয়া এসব ফ্লাইটে মোট ২২ হাজার ২৩১ জন যাত্রী আটকা পড়েছেন যার মধ্যে সরাসরি ফ্লাইট ছিল ৬৯টি।",
-          "বেবিচকের জনসংযোগ বিভাগ থেকে ফ্লাইট বাতিলের এই ধারাবাহিকতা অব্যাহত থাকার তথ্য জানানো হয়েছে।"
+          "পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে চারতলা ভবনের তথ্য গোপন করে দলিল নিবন্ধনের মাধ্যমে রাজস্ব ফাঁকি দেওয়া হয়েছে।",
+          "দুদক সমন্বিত জেলা কার্যালয় থেকে এই অনিয়মের সত্যতা যাচাইয়ে সুনির্দিষ্ট তথ্য সংগ্রহ করা হচ্ছে।",
+          "তদন্ত শেষে জড়িত কর্মকর্তাদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হবে।"
         ],
         "bullets_en": [
-          "A total of 146 flights bound for Saudi Arabia have been cancelled from Hazrat Shahjalal International Airport.",
-          "The cancelled flights stranded 22,231 passengers, which included 69 direct flights.",
-          "Civil Aviation Authority public relations confirmed that the ongoing streak of flight cancellations continues."
+          "Revenue was evaded by registering property deeds while concealing the existence of a four-story building in Patiya.",
+          "The Anti-Corruption Commission integrated district office is collecting specific data to verify these irregularities.",
+          "Legal action procedures against involved officials will begin following the conclusion of the investigation."
         ],
-        "impact_bn": "সৌদিগামী হাজার হাজার প্রবাসী শ্রমিক চরম অনিশ্চয়তা ও ভোগান্তির মুখে পড়েছেন।",
-        "impact_en": "Thousands of expatriate workers bound for Saudi Arabia face severe uncertainty and travel disruption.",
-        "details_bn": "শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে সৌদি আরবগামী ফ্লাইট বাতিলের ধারাবাহিকতা দীর্ঘদিন ধরে চলে আসছে। সংশ্লিষ্ট কর্তৃপক্ষের তথ্য অনুযায়ী, পর্যায়ক্রমে ফ্লাইট বাতিল হওয়ায় আটকা পড়া যাত্রীদের সংখ্যা দুই হাজার ছাড়িয়ে গেছে। এর ফলে প্রবাসী কর্মীরা সময়মতো কর্মস্থলে যোগদান নিয়ে মারাত্মক উদ্বেগের মধ্যে রয়েছেন এবং বিমানবন্দর কর্তৃপক্ষের কাছ থেকে সুনির্দিষ্ট সমাধানের দাবি জানিয়ে আসছেন।",
-        "details_en": "The cancellation of Saudi-bound flights from Hazrat Shahjalal International Airport has persisted over a sustained period. According to official figures, the ongoing cancellations have left tens of thousands of passengers stranded, severely disrupting travel plans for expatriate workers. Affected passengers face mounting anxiety regarding their employment status abroad as they await viable alternative travel arrangements from aviation authorities."
+        "impact_bn": "সরকারি রাজস্ব বৃদ্ধি এবং ভূমি নিবন্ধনে অনিয়ম ও দুর্নীতির লাগাম টানতে এই তদন্ত সাধারণ মানুষের জন্য গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "impact_en": "This investigation will play a vital role in increasing government revenue and curbing irregularities and corruption in land registration.",
+        "details_bn": "চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে দীর্ঘদিন ধরে নানা অনিয়মের মাধ্যমে সরকার নির্ধারিত রাজস্ব ফাঁকি দেওয়ার অভিযোগ রয়েছে। ভবন বা অবকাঠামোর তথ্য গোপন করে কম মূল্যে দলিল রেজিস্ট্রি করার ঘটনায় এর আগেও বেশ কিছু অভিযোগ জমা পড়েছিল। এর প্রেক্ষিতে দুর্নীতি দমন কমিশন অভিযুক্তদের বিরুদ্ধে আইনি পদক্ষেপ নিতে মাঠে নামে এবং মাঠপর্যায়ে তথ্য সংগ্রহ শুরু করে।",
+        "details_en": "Allegations of evading government-mandated revenue through various irregularities have persisted at the Patiya Sub-Registrar Office in Chattogram. Numerous complaints had previously been filed regarding the registration of deeds at undervalued prices by concealing building or infrastructure details. In response, the Anti-Corruption Commission initiated legal steps against the accused and began gathering field-level data."
       }
     },
     {
-      "story_id": "4ef66891-1e4b-5239-8e92-ed3c63ef96c6",
+      "story_id": "a153fd05-a753-5e67-9c40-3f15c73d1178",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -68,109 +70,52 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fvcwd5nmg%2FIranian-militia-forces.jpg?rect=0%2C136%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T12:31:56+00:00",
+      "published_at": "2026-10-25T13:57:27+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4701,
+      "rank_score": 1.8776,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/24rqbveg3y",
-          "title": "মার্কিনদের লক্ষ্য করে প্রাণঘাতী হামলা চালাতে ইরান প্রায় প্রস্তুত: যুক্তরাষ্ট্রের সতর্কবার্তা",
-          "snippet": "মার্কিনদের লক্ষ্য করে প্রাণঘাতী হামলা চালাতে ইরান প্রায় প্রস্তুত: যুক্তরাষ্ট্রের সতর্কবার্তা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1171888",
+          "title": "ব্যালিস্টিক ক্ষেপণাস্ত্র হামলায় সৌদি আরবে আহত ২",
+          "snippet": "ব্যালিস্টিক ক্ষেপণাস্ত্র হামলায় সৌদি আরবে আহত ২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন কর্মকর্তাদের লক্ষ্য করে প্রাণঘাতী হামলার ষড়যন্ত্র চালাচ্ছে ইরান",
-        "title_en": "Iran Preparing Lethal Attacks Targeting US Officials Warns Intelligence Memo",
-        "summary_bn": "যুক্তরাষ্ট্রের গোয়েন্দা সতর্কবার্তায় বলা হয়েছে, মার্কিন কর্মকর্তাদের ওপর প্রাণঘাতী হামলার চূড়ান্ত প্রস্তুতি নিচ্ছে ইরান।",
-        "summary_en": "US intelligence warns that Iran has intensified preparations and finalized conspiracies for lethal attacks targeting American officials.",
+        "title_bn": "সৌদি আরবে ব্যালিস্টিক ক্ষেপণাস্ত্রের ধ্বংসাবশেষে আহত দুই",
+        "title_en": "Two Injured in Ballistic Missile Debris Strike in Saudi Arabia",
+        "summary_bn": "সৌদি আরবে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করার পর তার ধ্বংসাবশেষের আঘাতে দুই ব্যক্তি আহত হয়েছেন।",
+        "summary_en": "Two individuals were injured by falling debris after a ballistic missile was intercepted in Saudi Arabia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T12:31:56+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের গোয়েন্দা সতর্কবার্তায় বলা হয়েছে, মার্কিন কর্মকর্তাদের ওপর প্রাণঘাতী হামলার চূড়ান্ত প্রস্তুতি নিচ্ছে ইরান।",
-        "lead_en": "US intelligence warns that Iran has intensified preparations and finalized conspiracies for lethal attacks targeting American officials.",
+        "published_at": "2026-10-25T13:57:27+00:00",
+        "lead_bn": "সৌদি আরবে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করার পর তার ধ্বংসাবশেষের আঘাতে দুই ব্যক্তি আহত হয়েছেন।",
+        "lead_en": "Two individuals were injured by falling debris after a ballistic missile was intercepted in Saudi Arabia.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের জাতীয় গোয়েন্দা পরিচালক জে ক্লেটনের লিখিত মেমোতে তেহরানের হামলার প্রস্তুতি জোরালো হওয়ার তথ্য উঠে এসেছে",
-          "মার্কিন কর্মকর্তাদের নিশানা করার তৎপরতা উল্লেখযোগ্যভাবে বাড়িয়েছে ইরান বলে গোয়েন্দা তথ্যে উল্লেখ করা হয়েছে",
-          "সৌদি আরবে মার্কিন মিশনে কর্মী সংখ্যা কমানো হয়েছে এবং আঞ্চলিক সংঘাতের ঝুঁকি বৃদ্ধি পেয়েছে"
+          "ক্ষেপণাস্ত্র প্রতিহত করার ফলে আকাশে ছড়িয়ে পড়া ধ্বংসাবশেষ জনবহুল এলাকায় গিয়ে পড়ে।",
+          "এই আকস্মিক ঘটনায় দুটি আবাসিক ভবন এবং সাতটি যানবাহন মারাত্মকভাবে ক্ষতিগ্রস্ত হয়।",
+          "নিরাপত্তা বাহিনী তাৎক্ষণিকভাবে ক্ষতিগ্রস্ত এলাকা ঘিরে ফেলে এবং উদ্ধার কার্যক্রম পরিচালনা করে।"
         ],
         "bullets_en": [
-          "US National Intelligence Director Jay Clayton issued a written memo warning about heightened Iranian threat levels.",
-          "Intelligence reports indicate Iran significantly increased activities to target American officials.",
-          "Washington reduced staff at its mission in Saudi Arabia amid escalating regional conflict risks."
+          "Scattered debris rained down on populated areas following the mid-air interception of the incoming missile.",
+          "The impact damaged three residential buildings and seven vehicles in the vicinity.",
+          "Security forces swiftly cordoned off the affected zones and launched emergency response operations."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে চলমান আঞ্চলিক সংঘাতের কারণে ওই অঞ্চলে অবস্থানরত প্রবাসী নাগরিকদের নিরাপত্তাঝুঁকি উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে।",
-        "impact_en": "Security risks for expatriate citizens residing in the Middle East have significantly increased due to the escalating regional conflict.",
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সাথে ইরানের চলমান উত্তেজনার প্রেক্ষাপটে মধ্যপ্রাচ্যে সংঘাত তীব্র আকার ধারণ করেছে। হুতি বিদ্রোহীরা ইরানের পক্ষে সৌদি আরবে হামলা জোরদার করায় ওয়াশিংটন তাদের কূটনৈতিক মিশনে কর্মী সংখ্যা হ্রাস করেছে। মার্কিন গোয়েন্দা প্রধানের এই সতর্কবার্তা দুই দেশের মধ্যকার বৈরিতা এবং আঞ্চলিক যুদ্ধের ভয়াবহ বিস্তারকে আরও স্পষ্ট করে তুলেছে।",
-        "details_en": "The conflict in the Middle East intensified amid ongoing tensions between the US, Israel, and Iran. Following increased Houthi rebel attacks in Saudi Arabia on behalf of Iran, Washington reduced staff at its diplomatic mission. This intelligence warning underscores the deepening hostility and the dangerous expansion of regional warfare."
+        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি এবং স্থানীয় বাসিন্দাদের মধ্যে নতুন করে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Heightened security concerns have emerged among expatriate workers and local residents in the region.",
+        "details_bn": "মধ্যপ্রাচ্যের দেশগুলোতে সাম্প্রতিক সময়ে আকাশ প্রতিরক্ষা ব্যবস্থার কার্যকারিতা বাড়ানো হয়েছে। সীমান্ত পেরিয়ে আসা বিভিন্ন ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করতে নিরাপত্তা বাহিনী সজাগ রয়েছে। তবে প্রতিহত করা অস্ত্রের ধ্বংসাবশেষ লোকালয়ে পড়ার কারণে প্রায়ই অবকাঠামোগত ক্ষতি এবং বেসামরিক নাগরিকরা আহত হওয়ার ঝুঁকি তৈরি হচ্ছে।",
+        "details_en": "Air defense capabilities have been heightened across Middle Eastern nations to counter cross-border aerial threats. While interception systems successfully neutralize incoming projectiles, falling debris frequently poses secondary hazards, causing structural damage and civilian injuries in residential sectors."
       }
     },
     {
-      "story_id": "e425bcf0-2a20-55c9-b38c-62d6f7f25370",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/pm-japan-visit-e1792925244657.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-25T10:56:16+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.0612,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/those-accompanying-the-prime-minister-on-the-visit-to-japan/",
-          "title": "জাপানে প্রধানমন্ত্রীর সফরসঙ্গী হচ্ছেন যারা",
-          "snippet": "জাপানে প্রধানমন্ত্রীর সফরসঙ্গী হচ্ছেন যারা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপান সফরে চার দিনের সরকারি সফরে ঢাকা ছাড়ছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Departs for Four-Day Official Visit to Japan",
-        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman has departed Dhaka for a four-day official visit at the invitation of the Japanese premier.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T10:56:16+00:00",
-        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman has departed Dhaka for a four-day official visit at the invitation of the Japanese premier.",
-        "bullets_bn": [
-          "জাপানের প্রধানমন্ত্রীর সাথে দ্বিপক্ষীয় শীর্ষ বৈঠক ও বাংলাদেশ-জাপান অর্থনৈতিক ফোরামে মূল বক্তব্য দেবেন প্রধানমন্ত্রী।",
-          "সফরসঙ্গী হিসেবে অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরীসহ উচ্চপর্যায়ের সরকারি প্রতিনিধিদল অংশ নিচ্ছেন।",
-          "মেট্রোরেল প্রকল্পের নির্মাণ ব্যয় ও ঋণের সুদের হার কমানোর বিষয়ে জাপানি কর্তৃপক্ষের সাথে আলোচনা হবে।"
-        ],
-        "bullets_en": [
-          "The Prime Minister will hold a bilateral summit with the Japanese premier and address the Bangladesh-Japan Economic Forum.",
-          "Finance Minister Amir Khru Mahmud Chowdhury and a high-level government delegation are accompanying the Prime Minister.",
-          "Discussions will focus on reducing construction costs and loan interest rates for ongoing metro rail projects."
-        ],
-        "impact_bn": "মেট্রোরেল প্রকল্পের খরচ ও সুদের হার কমলে দেশের অবকাঠামো উন্নয়নে অর্থনৈতিক চাপ হ্রাস পাবে।",
-        "impact_en": "Reductions in metro rail project costs and interest rates will ease economic pressure on national infrastructure development.",
-        "details_bn": "জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং বিভিন্ন মেগা প্রকল্পে দেশ দীর্ঘকাল ধরে আর্থিক ও প্রযুক্তিগত সহায়তা দিয়ে আসছে। বর্তমান সরকারের এই উচ্চপর্যায়ের সফরে দুই দেশের মধ্যকার অর্থনৈতিক সহযোগিতা আরও সুদৃঢ় করার পাশাপাশি নতুন বিনিয়োগ আকর্ষণের ওপর বিশেষ গুরুত্ব দেওয়া হচ্ছে।",
-        "details_en": "Japan remains one of Bangladesh's primary development partners, providing long-term financial and technical support for major infrastructure projects. This high-level visit by the new administration emphasizes strengthening bilateral economic cooperation and attracting fresh investments."
-      }
-    },
-    {
-      "story_id": "f76bcc2d-2815-54e8-9730-873c81fbd1a6",
+      "story_id": "5c6af12f-0ac4-519c-9b13-e81790679410",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -180,161 +125,225 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fbz1mnlfs%2Fcumilla1.jpg?rect=0%2C81%2C1247%2C655&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T12:57:17+00:00",
+      "published_at": "2026-10-25T13:33:54+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9366,
+      "importance_score": 4.8,
+      "rank_score": 1.4965,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/capital-city/976674/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AA%E0%A6%BE%E0%A6%A4-%E0%A6%A6%E0%A6%96%E0%A6%B2%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A6-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A6%B2%E0%A6%AC%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF",
-          "title": "ফুটপাত দখলমুক্ত করতে উচ্ছেদ অভিযান চলবে: ডিএনসিসি প্রশাসক",
-          "snippet": "ফুটপাত দখলমুক্ত করতে উচ্ছেদ অভিযান চলবে: ডিএনসিসি প্রশাসক"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/v1lrz13ezm",
+          "title": "একই নারীর সঙ্গে প্রেম, কুমিল্লায় মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার",
+          "snippet": "একই নারীর সঙ্গে প্রেম, কুমিল্লায় মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফুটপাত দখলমুক্ত করতে ডিএনসিসির উচ্ছেদ অভিযান অব্যাহত থাকবে",
-        "title_en": "DNCC Administrator Vows Continuous Eviction Drives to Keep Footpaths Free",
-        "summary_bn": "ঢাকা উত্তর সিটি করপোরেশন নগরীর ফুটপাত দখলমুক্ত রাখতে এবং অবৈধ ব্যবসা রোধে নিয়মিত উচ্ছেদ অভিযান অব্যাহত রাখার ঘোষণা দিয়েছে।",
-        "summary_en": "Dhaka North City Corporation has announced that eviction drives will continue to clear footpaths and prevent illegal businesses.",
+        "title_bn": "কুমিল্লায় প্রেমের বিরোধের জেরে মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার",
+        "title_en": "Nephew Arrested for Stabbing Uncle to Death Over Love Triangle in Comilla",
+        "summary_bn": "কুমিল্লার মুরাদনগরে একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে মিলন মিয়াকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested nephew Milon Mia for allegedly stabbing his uncle Masud Mia to death over a dispute involving a love affair in Comilla.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T12:57:17+00:00",
-        "lead_bn": "ঢাকা উত্তর সিটি করপোরেশন নগরীর ফুটপাত দখলমুক্ত রাখতে এবং অবৈধ ব্যবসা রোধে নিয়মিত উচ্ছেদ অভিযান অব্যাহত রাখার ঘোষণা দিয়েছে।",
-        "lead_en": "Dhaka North City Corporation has announced that eviction drives will continue to clear footpaths and prevent illegal businesses.",
+        "published_at": "2026-10-25T13:33:54+00:00",
+        "lead_bn": "কুমিল্লার মুরাদনগরে একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে মিলন মিয়াকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested nephew Milon Mia for allegedly stabbing his uncle Masud Mia to death over a dispute involving a love affair in Comilla.",
         "bullets_bn": [
-          "দখলকৃত ফুটপাত পুনরুদ্ধার করতে ঢাকা উত্তর সিটি করপোরেশন কঠোর উচ্ছেদ অভিযান অব্যাহত রাখবে।",
-          "উচ্ছেদকৃত ফুটপাতে পুনরায় কাউকে অবৈধভাবে ব্যবসা পরিচালনা করার সুযোগ দেওয়া হবে না।",
-          "মিরপুর এলাকা পুনরুদ্ধারের পর পর্যায়ক্রমে অন্যান্য অঞ্চলেও এই অভিযান পরিচালনা করা হবে।"
+          "একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাত করে হত্যা করা হয়।",
+          "নিহত মাসুদ মিয়া ভাঙারি ব্যবসায়ী ছিলেন এবং অভিযুক্ত শিপন মিয়া তাঁর আপন ভাগনে।",
+          "নিহতের বোন বাঙ্গরা বাজার থানায় হত্যা মামলা দায়ের করার পর পুলিশ অভিযুক্তকে গ্রেপ্তার করে।"
         ],
         "bullets_en": [
-          "Dhaka North City Corporation will continue strict eviction drives to recover occupied footpaths.",
-          "No one will be allowed to run illegal businesses again on the cleared footpaths.",
-          "Following the recovery of Mirpur, similar operations will be expanded to other areas sequentially."
+          "Masud Mia was stabbed to death following a dispute over a romantic relationship with the same woman.",
+          "The victim Masud Mia was a scrap trader and the accused Milon Mia is his own nephew.",
+          "Police arrested the accused after the victim's sister filed a murder case at the Bangora Bazar police station."
         ],
-        "impact_bn": "সাধারণ পথচারীরা নিরাপদে ও স্বাচ্ছন্দ্যে ফুটপাত দিয়ে চলাচল করতে পারবেন এবং যানজট কমবে।",
-        "impact_en": "Ordinary pedestrians will be able to walk safely and comfortably on footpaths while traffic congestion decreases.",
-        "details_bn": "ঢাকা উত্তর সিটি করপোরেশনের আওতাধীন এলাকায় দীর্ঘদিন ধরে ফুটপাত অবৈধ দখলদারদের কবজায় থাকায় সাধারণ মানুষের চলাচলে চরম দুর্ভোগ পোহাতে হয়। নগরবাসীর যাতায়াত সহজ করতে এবং শৃঙ্খলা ফিরিয়ে আনতে ডিএনসিসি বিভিন্ন গুরুত্বপূর্ণ এলাকায় উচ্ছেদ অভিযান পরিচালনা করে আসছে। এরই ধারাবাহিকতায় সম্প্রতি মিরপুরসহ বিভিন্ন এলাকায় অভিযান চালানো হয়েছে এবং এই কার্যক্রম পুরো উত্তর সিটি করপোরেশন এলাকায় পর্যায়ক্রমে বাস্তবায়ন করা হবে বলে কর্তৃপক্ষ জানিয়েছে।",
-        "details_en": "Footpaths under the Dhaka North City Corporation have long been occupied by illegal encroachers, causing severe suffering for pedestrians. To ease commuting and restore discipline, DNCC has been conducting eviction drives in various key areas. Following operations in locations like Mirpur, authorities plan to expand these measures systematically across the entire north city jurisdiction."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নিহতের পরিবারের তথ্য অনুযায়ী, প্রায় দুই বছর আগে এক বিধবা নারীর সঙ্গে মুঠোফোনে মাসুদ মিয়ার প্রেমের সম্পর্ক গড়ে ওঠে। পরবর্তীতে ভাগনে শিপন কৌশলে ওই নারীর নম্বর সংগ্রহ করে নিজের সঙ্গেও সম্পর্ক গড়ে তোলেন, যা নিয়ে মামা-ভাগনের মধ্যে বিরোধ সৃষ্টি হয়। এর জেরে প্রায় ১৫ দিন আগে শিপনকে মারধর করেন মাসুদ মিয়া। এরই ক্ষোভ থেকে এই হত্যাকাণ্ডের ঘটনা ঘটে বলে জানায় পুলিশ ও পরিবার।",
+        "details_en": "According to the victim's family, Masud Mia developed a phone relationship with a widow two years ago. Subsequently, his nephew Milon obtained the woman's number and also started an affair with her, creating a bitter dispute between the uncle and nephew. Masud had assaulted Milon fifteen days prior over the issue, which police and family believe triggered the fatal attack."
       }
     },
     {
-      "story_id": "a80b3ee1-592b-54d6-bd3a-de3125850c23",
-      "primary_category": "economy_business",
+      "story_id": "178f079a-cc5c-5f9c-bdac-997d077ec46c",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "economy_business"
+        "governance_law",
+        "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T12:44:00+00:00",
+      "published_at": "2026-10-25T13:29:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5811,
+      "importance_score": 4.8,
+      "rank_score": 1.4353,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-          "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-          "snippet": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed."
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/976685/%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A7%A8%E0%A7%AB-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AE%E0%A7%A6-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+          "title": "একসঙ্গে ২৫ জেলে আটক, ৮০ কেজি ইলিশ গেলো এতিমখানায়",
+          "snippet": "একসঙ্গে ২৫ জেলে আটক, ৮০ কেজি ইলিশ গেলো এতিমখানায়"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিনিয়োগকারীদের আস্থা অর্জনে কেন্দ্রীয় ব্যাংক প্রধানের কৌশলগত যোগাযোগের ওপর গুরুত্ব অর্থনীতিবিদদের",
-        "title_en": "Economists Stress Strategic Communication from Fed Chief to Build Investor Confidence",
-        "summary_bn": "অর্থনীতিবিদদের মতে বিনিয়োগকারীদের সন্তুষ্ট করতে কেন্দ্রীয় ব্যাংকের কৌশল পরিষ্কারভাবে তুলে ধরা জরুরি।",
-        "summary_en": "Economists state that effectively communicating the central bank strategy is crucial for satisfying investors.",
+        "title_bn": "চাঁদপুরে মেঘনা নদীতে ইলিশ ধরায় ২৫ জেলে আটক",
+        "title_en": "Twenty five fishermen detained for catching hilsa in Meghna river",
+        "summary_bn": "মা ইলিশ সংরক্ষণের সরকারি নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ ধরার অভিযোগে চাঁদপুরে নৌ পুলিশ পঁচিশ জেলেকে আটক করেছে।",
+        "summary_en": "Naval police detained twenty five fishermen in Chandpur for catching fish in the Meghna river violating government restrictions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T12:44:00+00:00",
-        "lead_bn": "অর্থনীতিবিদদের মতে বিনিয়োগকারীদের সন্তুষ্ট করতে কেন্দ্রীয় ব্যাংকের কৌশল পরিষ্কারভাবে তুলে ধরা জরুরি।",
-        "lead_en": "Economists state that effectively communicating the central bank strategy is crucial for satisfying investors.",
+        "published_at": "2026-10-25T13:29:06+00:00",
+        "lead_bn": "মা ইলিশ সংরক্ষণের সরকারি নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ ধরার অভিযোগে চাঁদপুরে নৌ পুলিশ পঁচিশ জেলেকে আটক করেছে।",
+        "lead_en": "Naval police detained twenty five fishermen in Chandpur for catching fish in the Meghna river violating government restrictions.",
         "bullets_bn": [
-          "বাজারের বিভ্রান্তি দূর করতে কেন্দ্রীয় ব্যাংক প্রধানের স্পষ্ট যোগাযোগ কৌশল বাস্তবায়নের তাগিদ দেওয়া হয়েছে।",
-          "বিশ্লেষকদের মতে অস্পষ্ট উত্তর বাদ দিয়ে সরাসরি নীতিগত অবস্থান জানানো বিনিয়োগকারীদের মূল চাহিদা।",
-          "কেন্দ্রীয় ব্যাংকের পরবর্তী পদক্ষেপের স্বচ্ছতা বাজারের অস্থিরতা কমাতে প্রধান ভূমিকা রাখবে।"
+          "মা ইলিশ রক্ষায় নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ শিকারের দায়ে পঁচিশ জন জেলেকে আটক করা হয়েছে।",
+          "অভিযানে পাঁচটি মাছ ধরার নৌকা, পনেরো হাজার মিটার জাল এবং ৮০ কেজি ইলিশ মাছ জব্দ করা হয়েছে।",
+          "আটককৃত জেলেদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
         ],
         "bullets_en": [
-          "Economists urge the central bank chairman to prove effective communication of monetary strategy.",
-          "Investors demand clear strategic direction instead of vague nonanswers to navigate market uncertainty.",
-          "Transparent policy signals are expected to guide future market expectations and stabilization."
+          "Twenty five fishermen were detained for catching fish in the Meghna river violating the ban on hilsa conservation.",
+          "Five fishing boats, fifteen thousand meters of nets, and eighty kilograms of hilsa fish were seized during the drive.",
+          "Legal procedures are underway against the detained fishermen."
         ],
-        "impact_bn": "সুদের হার ও মুদ্রাস্ফীতি নীতি পরিষ্কার হলে সাধারণ বিনিয়োগকারী ও ভোক্তারা আর্থিক সিদ্ধান্ত সহজে নিতে পারবেন।",
-        "impact_en": "Clear monetary signals help ordinary investors and consumers anticipate interest rate trends and financial impacts.",
-        "details_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় ব্যাংক ফেডারেল রিজার্ভের কার্যপদ্ধতি ও নীতি নির্ধারণী যোগাযোগ নিয়ে দীর্ঘদিন ধরে বিতর্ক চলছে। বিনিয়োগকারীরা আশা করছেন নতুন নেতৃত্ব বাজারের অনিশ্চয়তা দূর করতে আরও স্বচ্ছ ও স্পষ্ট বার্তা দেবে, যা বৈশ্বিক অর্থনীতিতে প্রভাব ফেলে।",
-        "details_en": "Debates have persisted regarding the communication strategy and operational transparency of the United States Federal Reserve. Investors anticipate that renewed leadership will deliver clear and decisive policy guidance to mitigate ongoing market uncertainties."
+        "impact_bn": "নিয়ম লঙ্ঘন করে ইলিশ শিকার অব্যাহত থাকলে তা সামুদ্রিক মৎস্য সম্পদ এবং জাতীয় উৎপাদনকে ক্ষতিগ্রস্ত করতে পারে।",
+        "impact_en": "Continued illegal hilsa fishing can severely harm marine fisheries and undermine national production targets.",
+        "details_bn": "জাতীয় মাছ ইলিশের প্রজনন নিরাপদ করতে সরকার প্রতি বছর নির্দিষ্ট সময়ে ইলিশ শিকারে নিষেধাজ্ঞা আরোপ করে থাকে। এই সময়কালে মা ইলিশ অবাধে ডিম ছাড়তে পারে এবং দেশের মৎস্য সম্পদ বৃদ্ধি পায়। আইন অমান্যকারীদের বিরুদ্ধে নিয়মিত অভিযান পরিচালনা করে থাকে নৌ পুলিশ ও মৎস্য অধিদপ্তর।",
+        "details_en": "The government imposes seasonal bans on hilsa fishing every year to ensure safe breeding of the national fish. This period allows mother hilsa to spawn freely and helps replenish national fish stocks. Naval police and fisheries departments conduct regular drives against violators of these conservation laws."
       }
     },
     {
-      "story_id": "e6c55834-d886-5cc0-bc5d-7b65df3fc873",
+      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#IsraelPalestine",
-        "#WestBank",
-        "#Hebron"
+        "#RahulGandhi",
+        "#IndiaPolitics",
+        "#VoterList"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adc308b18-1792815243.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/79568976_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T12:17:39+00:00",
+      "published_at": "2026-10-25T14:00:43.756237+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.4623,
+      "rank_score": 0.6887,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-          "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-          "snippet": "Why Israel’s latest assault on Hebron is so significant for the West Bank"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হেব্রন শহরে ইসরায়েলি সামরিক অভিযান ও অবরুদ্ধ পরিস্থিতির সৃষ্টি",
-        "title_en": "Israeli Military Raids and Lockdown Imposed on Hebron",
-        "summary_bn": "ইসরায়েলি বাহিনী অধিকৃত হেব্রন শহরে ব্যাপক অভিযান ও সামরিক লকডাউন জারি করে হাজার হাজার ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
-        "summary_en": "Israeli forces launched heavy raids and imposed a military lockdown on the occupied West Bank city of Hebron, displacing thousands.",
+        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নভেম্বরের ১ তারিখ দিল্লির রামলীলা ময়দানে সমাবেশের ডাক রাহুল গান্ধীর",
+        "title_en": "Rahul Gandhi calls for Delhi rally against voter deletions",
+        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী ১ নভেম্বর দিল্লিতে বিশাল প্রতিবাদ সমাবেশের ডাক দিয়েছেন।",
+        "summary_en": "Congress leader Rahul Gandhi urged citizens to join a major protest rally in New Delhi against alleged voter list deletions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T12:17:39+00:00",
-        "lead_bn": "ইসরায়েলি বাহিনী অধিকৃত হেব্রন শহরে ব্যাপক অভিযান ও সামরিক লকডাউন জারি করে হাজার হাজার ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
-        "lead_en": "Israeli forces launched heavy raids and imposed a military lockdown on the occupied West Bank city of Hebron, displacing thousands.",
+        "published_at": "2026-10-25T14:00:43.756237+00:00",
+        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী ১ নভেম্বর দিল্লিতে বিশাল প্রতিবাদ সমাবেশের ডাক দিয়েছেন।",
+        "lead_en": "Congress leader Rahul Gandhi urged citizens to join a major protest rally in New Delhi against alleged voter list deletions.",
         "bullets_bn": [
-          "ইসরায়েলি বাহিনী হেব্রন শহরে কঠোর সামরিক লকডাউন ও ব্যাপক ভাঙচুর পরিচালনা করে।",
-          "অভিযানের সময় অন্তত ৪৭ জন ফিলিস্তিনিকে আটক করা হয় এবং প্রায় আড়াই হাজার মানুষ বাস্তুচ্যুত হয়।",
-          "সামরিক চেকপয়েন্টে সংঘটিত একটি বন্দুক হামলার পর এই কঠোর দমনপীড়নের সূচনা হয়।"
+          "ভোটার তালিকা থেকে ভোটারদের নাম বাদ দেওয়ার প্রতিবাদে দেশজুড়ে আন্দোলনের আহ্বান জানিয়েছেন কংগ্রেস নেতা রাহুল গান্ধী।",
+          "শাসক দল বিজেপির বিরুদ্ধে ভোট চুরির অভিযোগ এনে নিয়ম ও আইন ভাঙার কড়া সমালোচনা করেছেন তিনি।",
+          "আগামী ১ নভেম্বর দিল্লির রামলীলা ময়দানে ভোটার বাঁচাও দেশ বাঁচাও শিরোনামে প্রতিবাদ মার্চ ও সমাবেশ অনুষ্ঠিত হবে।"
         ],
         "bullets_en": [
-          "Israeli forces enforced a severe military lockdown and demolition operations across Hebron.",
-          "At least 47 Palestinians were detained and roughly 2,500 people were forced out of their homes.",
-          "The ongoing military operations follow a shooting attack that resulted in casualties among soldiers and suspects."
+          "Congress leader Rahul Gandhi urged citizens to join a major protest against alleged widespread voter deletions.",
+          "He accused the ruling Bharatiya Janata Party of stealing votes and violating electoral rules and laws.",
+          "The Save the Vote Save the Country march and rally is scheduled for November 1 at Delhi Ramlila Maidan."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অধিকৃত পশ্চিম তীরের অন্যতম বড় শহর হেব্রনে দীর্ঘ দিন ধরে ফিলিস্তিনি ও ইসরায়েলি বাহিনীর সংঘাত চলমান রয়েছে। সম্প্রতি একটি সামরিক চেকপয়েন্টে বন্দুক হামলার ঘটনার পর ইসরায়েলি সামরিক বাহিনী শহরটিতে কঠোর লকডাউন এবং বসতি খালি করার মতো কঠোর পদক্ষেপ বাস্তবায়ন শুরু করে। এর ফলে স্থানীয় প্রায় নয় লাখ মানুষ চরম সমষ্টিগত শাস্তির মুখোমুখি হয়েছে।",
-        "details_en": "Hebron has long remained a flashpoint in the occupied West Bank, marked by intense friction between Palestinian residents and Israeli forces. The latest escalation follows a shooting attack at a military checkpoint, triggering severe collective punishment, mass detentions, and the conversion of civilian homes into military outposts that impacts hundreds of thousands of residents."
+        "details_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে ভোটারদের নাম কেটে ফেলার অভিযোগ তুলে সরব হয়েছেন। তার এই পদক্ষেপ দেশের বিরোধী রাজনীতি এবং নির্বাচনী স্বচ্ছতার দাবিকে নতুন মাত্রা দিয়েছে। ক্ষমতাসীন দলের বিরুদ্ধে নির্বাচনী প্রক্রিয়ায় কারচুপির অভিযোগ এনে সাধারণ নাগরিক, ছাত্র, কৃষক ও শ্রমিকদের নিয়ে আন্দোলন গড়ে তোলার পরিকল্পনা করছে বিরোধী দল।",
+        "details_en": "Congress leader Rahul Gandhi raised concerns over widespread deletions from electoral rolls, accusing the ruling party of manipulating voter lists. The planned protest at Delhi Ramlila Maidan marks a significant push by the opposition to mobilize students, farmers, workers, and youth against alleged electoral irregularities."
+      }
+    },
+    {
+      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#SaudiArabia",
+        "#ArtificialIntelligence",
+        "#Houthi"
+      ],
+      "image_url": "https://static.dw.com/image/78307185_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T14:00:43.756237+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6887,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইয়েমেনের হুথি হামলা মোকাবিলায় সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তি দিচ্ছে যুক্তরাষ্ট্র",
+        "title_en": "United States Provides Artificial Intelligence Targeting Tools to Saudi Arabia Amid Houthi Attacks",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলা করতে সৌদি আরবকে গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণী প্রযুক্তি সরবরাহ করছে যুক্তরাষ্ট্র।",
+        "summary_en": "The United States is providing Saudi Arabia with intelligence and artificial intelligence targeting tools to counter attacks from Houthi rebels in Yemen.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T14:00:43.756237+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলা করতে সৌদি আরবকে গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণী প্রযুক্তি সরবরাহ করছে যুক্তরাষ্ট্র।",
+        "lead_en": "The United States is providing Saudi Arabia with intelligence and artificial intelligence targeting tools to counter attacks from Houthi rebels in Yemen.",
+        "bullets_bn": [
+          "সৌদি আরবের সামরিক সহায়তা চাওয়ার পর যুক্তরাষ্ট্র দেশটিতে কৃত্রিম বুদ্ধিমত্তাভিত্তিক টার্গেটিং টুল সরবরাহ করেছে",
+          "যুক্তরাষ্ট্রের প্রজেক্ট ম্যাভেনের আওতাধীন এমএসএস সিস্টেম রিয়েল-টাইমে যুদ্ধক্ষেত্রের পরিস্থিতি পর্যবেক্ষণ করতে সহায়তা করে",
+          "সৌদি আরবে মোতায়েনকৃত এক থেকে দুইশ মার্কিন সেনা যৌথ কমান্ডের মাধ্যমে এই প্রযুক্তি পরিচালনায় সহায়তা করছে"
+        ],
+        "bullets_en": [
+          "The United States supplied artificial intelligence targeting tools to Saudi Arabia following requests for security assistance",
+          "The US-backed system utilizes Project Maven technology to help military officers analyze battlefield conditions in real time",
+          "Between 100 and 200 US personnel are deployed in Saudi Arabia to facilitate the joint command operations"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের লাগাতার সামরিক হামলার মুখে সৌদি আরব তার মিত্র দেশগুলোর সহায়তা চেয়েছিল। যদিও মার্কিন প্রশাসন সরাসরি সামরিক হস্তক্ষেপ করতে অস্বীকার করে, তবে গোয়েন্দা তথ্য এবং অত্যাধুনিক কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি সরবরাহের মাধ্যমে সামরিক সহযোগিতা অব্যাহত রেখেছে। প্রজেক্ট ম্যাভেনের অংশ হিসেবে বিকশিত এই ডিজিটাল প্ল্যাটফর্মটি যুদ্ধক্ষেত্রের নজরদারি উপাত্ত বিশ্লেষণ করে সম্ভাব্য লক্ষ্যবস্তু চিহ্নিত করতে সহায়তা করে।",
+        "details_en": "Faced with persistent military attacks from Houthi rebels in neighboring Yemen, Saudi Arabia sought assistance from international allies. While the United States declined direct military intervention, Washington deployed personnel and provided advanced artificial intelligence software to enhance battlefield intelligence. Developed under the US military's Project Maven, the platform processes surveillance data to identify potential tactical targets in real time."
       }
     }
   ]
