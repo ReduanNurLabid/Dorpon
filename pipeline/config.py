@@ -464,5 +464,11 @@ EXCLUSION_KEYWORDS = [
     "টিভিতে আজকের খেলা", "টিভিতে খেলা", "আজকের খেলা", "খেলার সূচি", "খেলার সময়সূচি",
     "টিভি সূচি", "টিভির সূচি", "আজকের সূচি", "আজকের ম্যাচ", "টিভিতে দেখুন", "খেলা লাইভ",
     "আজকের নামাজের সময়", "নামাজের সময়সূচি", "আজকের আবহাওয়া",
-    "tv schedule", "where to watch", "how to watch", "streaming guide", "match schedule"
+    "tv schedule", "where to watch", "how to watch", "streaming guide", "match schedule",
+
+    # Lifestyle, Health Fluff, Diet, Recipes & Beauty Blogs (Noise)
+    "রক্তে শর্করা", "কোলেস্টেরল নিয়ন্ত্রণ", "ওজন কমানো", "ওজন কমাতে", "ত্বকের যত্ন",
+    "চুল পড়া", "চুলের যত্ন", "কফি খেলে কি", "ব্ল্যাক কফি", "ডায়েট", "রেসিপি", "রান্না",
+    "রান্নার রেসিপি", "স্বাস্থ্য টিপস", "রূপচর্চা", "জীবনযাপন টিপস", "সৌন্দর্য চর্চা",
+    "beauty tips", "health tips", "weight loss", "skincare", "hair care", "diet tips", "recipe"
 ]

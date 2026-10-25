@@ -129,6 +129,12 @@ def run_hourly_buzz(limit: int = 8):
     MAX_PER_CATEGORY = 2  # Cap per category so no single topic monopolizes the hourly feed
     GENERIC_THEMATIC_ENTITIES = {"interim_cabinet", "bnp_politics", "election_commission", "anti_corruption"}
 
+    def get_category_cap(cat: str) -> int:
+        # Strictly limit sports and pop-culture to at most 1 slot so serious news dominates
+        if cat in {"sports_fitness", "pop_culture"}:
+            return 1
+        return MAX_PER_CATEGORY
+
     max_intl_slots = max(1, int(limit * 0.35))
     min_national_slots = max(1, limit - max_intl_slots)
     national_count = 0
@@ -224,7 +230,7 @@ def run_hourly_buzz(limit: int = 8):
         if getattr(cluster, "region", "national") != "national":
             continue
         primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
-        if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
+        if category_counts.get(primary_cat, 0) >= get_category_cap(primary_cat):
             continue
         if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
             continue
@@ -237,7 +243,7 @@ def run_hourly_buzz(limit: int = 8):
         if getattr(cluster, "region", "national") != "international":
             continue
         primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
-        if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
+        if category_counts.get(primary_cat, 0) >= get_category_cap(primary_cat):
             continue
         if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
             continue
@@ -254,7 +260,7 @@ def run_hourly_buzz(limit: int = 8):
             if reg == "international" and intl_count >= max_intl_slots + 1:
                 continue
             primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
-            if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
+            if category_counts.get(primary_cat, 0) >= get_category_cap(primary_cat):
                 continue
             process_and_add_cluster(cluster)
 
@@ -264,6 +270,9 @@ def run_hourly_buzz(limit: int = 8):
             if len(buzz_stories) >= limit:
                 break
             if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
+                continue
+            primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
+            if primary_cat in {"sports_fitness", "pop_culture"} and category_counts.get(primary_cat, 0) >= 1:
                 continue
             process_and_add_cluster(cluster)
         
