@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-10-25T11:00:41.774196",
+  "updated_at": "2026-10-25T12:00:41.491231",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "0067d441-391d-5353-b2fe-77c3e277c69a",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T11:50:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7442,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976657/%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81",
+          "title": "হুথি হামলার পর রিয়াদের বিমানবন্দরে ফ্লাইট চালু",
+          "snippet": "হুথি হামলার পর রিয়াদের বিমানবন্দরে ফ্লাইট চালু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে ফ্লাইট চলাচল পুনরায় চালু",
+        "title_en": "Flight Operations Resume at Riyadh Airport in Saudi Arabia",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলার জেরে দুই সপ্তাহ বন্ধ থাকার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে বিমান চলাচল শুরু হয়েছে।",
+        "summary_en": "Flight operations have resumed at Riyadh King Khalid International Airport after a two-week suspension due to Houthi rebel attacks.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T11:50:13+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলার জেরে দুই সপ্তাহ বন্ধ থাকার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে বিমান চলাচল শুরু হয়েছে।",
+        "lead_en": "Flight operations have resumed at Riyadh King Khalid International Airport after a two-week suspension due to Houthi rebel attacks.",
+        "bullets_bn": [
+          "রিয়াদ বিমানবন্দর থেকে জেদ্দার উদ্দেশে একটি ফ্লাইট উড্ডয়নের মাধ্যমে বিমান চলাচল পুনরায় শুরু হয়।",
+          "ফ্লাইট ট্র্যাকিং ওয়েবসাইট ফ্লাইট রাডার এই বিমান উড্ডয়নের বিষয়টি নিশ্চিত করেছে।",
+          "হামলার কারণে দুই সপ্তাহ ধরে ওই বিমানবন্দর থেকে সব ধরনের ফ্লাইট চলাচল বন্ধ ছিল।"
+        ],
+        "bullets_en": [
+          "Flight operations resumed with a departure from Riyadh airport heading toward Jeddah.",
+          "Flight tracking website Flightradar confirmed the departure of the flight.",
+          "All flight operations from the airport remained suspended for two weeks due to the attacks."
+        ],
+        "impact_bn": "বিমান চলাচল স্বাভাবিক হওয়ায় মধ্যপ্রাচ্যে যাতায়াতকারী যাত্রী ও প্রবাসী কর্মীদের ভ্রমণ ভোগান্তি কমবে।",
+        "impact_en": "The resumption of flights will ease travel disruptions for passengers and migrant workers commuting through the Middle East.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের পক্ষ থেকে চালানো হামলার কারণে নিরাপত্তা ঝুঁকি তৈরি হওয়ায় সৌদি আরবের রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে সাময়িকভাবে বিমান চলাচল স্থগিত করা হয়েছিল। দুই সপ্তাহ পর পরিস্থিতির কিছুটা উন্নতি হওয়ায় বিমান চলাচল আবার স্বাভাবিক করতে শুরু করেছে কর্তৃপক্ষ।",
+        "details_en": "Flight operations at Saudi Arabia's Riyadh King Khalid International Airport were temporarily suspended following security risks posed by attacks from Yemen's Houthi rebels. Authorities have now begun restoring normal operations after a two-week hiatus as the situation stabilizes."
+      }
+    },
     {
       "story_id": "e425bcf0-2a20-55c9-b38c-62d6f7f25370",
       "primary_category": "world_diplomacy",
@@ -19,7 +74,7 @@
       "published_at": "2026-10-25T10:56:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.5513,
+      "rank_score": 1.5305,
       "sources": [
         {
           "name": "Channel i",
@@ -29,10 +84,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে চার দিনের সরকারি যাত্রায় প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Departs for Four-Day Official Japan Visit",
-        "summary_bn": "জাপানি প্রধানমন্ত্রীর আমন্ত্রণে দ্বিপক্ষীয় সম্পর্ক ও বাণিজ্য সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিওর উদ্দেশে ঢাকা ছাড়ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is departing Dhaka for a four-day official visit to Japan to enhance bilateral ties and trade cooperation.",
+        "title_bn": "জাপান সফরে প্রধানমন্ত্রী তারেক রহমান ও উচ্চপর্যায়ের প্রতিনিধিদল",
+        "title_en": "Prime Minister Tarique Rahman Begins Official Visit to Japan",
+        "summary_bn": "জাপান সরকারের আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman departed Dhaka for a four-day official visit to Japan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -41,81 +96,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T10:56:16+00:00",
-        "lead_bn": "জাপানি প্রধানমন্ত্রীর আমন্ত্রণে দ্বিপক্ষীয় সম্পর্ক ও বাণিজ্য সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিওর উদ্দেশে ঢাকা ছাড়ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is departing Dhaka for a four-day official visit to Japan to enhance bilateral ties and trade cooperation.",
+        "lead_bn": "জাপান সরকারের আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman departed Dhaka for a four-day official visit to Japan.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সরকারি সফরে টোকিও গমন করছেন।",
-          "সফরসঙ্গী হিসেবে থাকছেন অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী, পররাষ্ট্র প্রতিমন্ত্রী হুমায়ুন কবিরসহ উচ্চপর্যায়ের সরকারি প্রতিনিধিদল।",
-          "সফরে মেট্রোরেল প্রকল্পের ঋণের সুদের হার কমানো এবং নতুন জাপানি বিনিয়োগ আকর্ষণের বিষয়ে দ্বিপক্ষীয় আলোচনা অনুষ্ঠিত হবে।"
+          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সফরে টোকিও গেছেন।",
+          "সফরসঙ্গী হিসেবে অর্থমন্ত্রী আমির খসরু মাহমুদ চৌধুরী এবং একাধিক মন্ত্রী ও উপদেষ্টা প্রতিনিধি দলে রয়েছেন।",
+          "সফরে মেট্রোরেল প্রকল্পের ব্যয় কমানো, ঋণের সুদ হ্রাস এবং জাপানি বিনিয়োগ বাড়ানোর বিষয়ে আলোচনা হবে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman is traveling to Tokyo on a four-day official visit at the invitation of the Japanese Prime Minister.",
-          "Finance Minister Amir Khosru Mahmud Chowdhury and State Minister for Foreign Affairs Humayun Kabir are joining as part of the high-level delegation.",
-          "Bilateral discussions will focus on reducing interest rates for metro rail loans and attracting new Japanese investments."
+          "Prime Minister Tarique Rahman traveled to Tokyo for a four-day visit at the invitation of Japanese Prime Minister Sanae Takaichi.",
+          "Finance Minister Amir Khasru Mahmud Chowdhury and multiple ministers and advisers are part of the high-level delegation.",
+          "Discussions will focus on reducing costs and interest rates for metro rail projects and boosting Japanese investment."
         ],
-        "impact_bn": "মেট্রোরেল প্রকল্পের ব্যয় ও সুদের হার কমলে ভবিষ্যতে দেশের গণপরিবহন অবকাঠামো খাতে আর্থিক সাশ্রয় হবে।",
-        "impact_en": "Reduced loan interest rates for metro rail projects will lower public financial burdens on major urban infrastructure developments.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক অংশীদারিত্ব রয়েছে। জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার হিসেবে মেগা প্রকল্পে বড় অংকের আর্থিক সহায়তা দিয়ে আসছে। বর্তমান সরকারের মেয়াদে দুই দেশের মধ্যকার সম্পর্ক আরও সুদৃঢ় করার পাশাপাশি বাণিজ্যিক বৈচিত্র্য আনয়ন এবং প্রযুক্তি হস্তান্তরের ওপর বিশেষ গুরুত্ব দেওয়া হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership, with Japan acting as a major development partner funding critical mega infrastructure. The current administration has prioritized deepening bilateral ties, diversifying trade, and securing favorable financing terms for ongoing national development projects."
+        "impact_bn": "মেট্রোরেল প্রকল্পের ব্যয় ও ঋণের সুদের হার কমলে দেশের গণপরিবহন অবকাঠামো খাতে ইতিবাচক আর্থিক সাশ্রয় হবে।",
+        "impact_en": "Reductions in metro rail project costs and loan interest rates will bring positive financial savings to public infrastructure development.",
+        "details_bn": "জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং দীর্ঘদিন ধরে দেশের বড় বড় মেগা অবকাঠামো প্রকল্পে অর্থায়ন করে আসছে। বর্তমান সরকারের মেয়াদে দুই দেশের দ্বিপক্ষীয় বাণিজ্য ও অর্থনৈতিক সহযোগিতা আরও সুদৃঢ় করার লক্ষ্যে এই শীর্ষ বৈঠক অত্যন্ত গুরুত্বপূর্ণ হিসেবে বিবেচিত হচ্ছে। সফরকালে মেট্রোপ্রকল্পের পাশাপাশি জ্বালানি ও প্রযুক্তি খাতে পারস্পরিক সহযোগিতা বাড়ানোর নতুন রূপরেখা নিয়ে আলোচনা হওয়ার কথা রয়েছে।",
+        "details_en": "Japan is one of Bangladesh's primary development partners and has long financed major mega infrastructure projects in the country. This high-level summit is considered vital for strengthening bilateral trade and economic cooperation under the current administration. Discussions during the tour are expected to outline expanded collaboration in energy and technology alongside ongoing metro initiatives."
       }
     },
     {
-      "story_id": "a00d600b-ece7-5174-86b1-200d5d62cb1f",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T10:45:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6663,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171796",
-          "title": "শাহ আমানতে পৌনে ৩ কোটি টাকার সোনাসহ জেদ্দাফেরত যাত্রী আটক",
-          "snippet": "শাহ আমানতে পৌনে ৩ কোটি টাকার সোনাসহ জেদ্দাফেরত যাত্রী আটক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শাহ আমানত বিমানবন্দরে পৌনে তিন কোটি টাকার সোনাসহ যাত্রী আটক",
-        "title_en": "Passenger Arrested with Gold Worth Taka 2.84 Crore at Shah Amanat Airport",
-        "summary_bn": "চট্টগ্রামের শাহ আমানত আন্তর্জাতিক বিমানবন্দরে জেদ্দা থেকে আসা এক যাত্রীর কাছ থেকে দুই কোটি ৮৪ লাখ টাকার অবৈধ স্বর্ণ জব্দ করা হয়েছে।",
-        "summary_en": "Customs authorities seized illegal gold worth taka 2.84 crore from a passenger arriving from Jeddah at Shah Amanat International Airport in Chattogram.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T10:45:31+00:00",
-        "lead_bn": "চট্টগ্রামের শাহ আমানত আন্তর্জাতিক বিমানবন্দরে জেদ্দা থেকে আসা এক যাত্রীর কাছ থেকে দুই কোটি ৮৪ লাখ টাকার অবৈধ স্বর্ণ জব্দ করা হয়েছে।",
-        "lead_en": "Customs authorities seized illegal gold worth taka 2.84 crore from a passenger arriving from Jeddah at Shah Amanat International Airport in Chattogram.",
-        "bullets_bn": [
-          "কাস্টমস ও গোয়েন্দা সংস্থার যৌথ অভিযানে চট্টগ্রাম বিমানবন্দরে এক বিমানযাত্রীকে আটক করা হয়েছে।",
-          "জব্দ করা সোনার গহনার আনুমানিক বাজারমূল্য দুই কোটি ৮৪ লাখ ৭০ হাজার টাকা।",
-          "আটক যাত্রীর বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
-        ],
-        "bullets_en": [
-          "A passenger was detained at Chattogram airport during a joint operation by customs and intelligence agencies.",
-          "The market value of the seized gold jewelry is estimated at two crore eighty-four lakh seventy thousand taka.",
-          "Legal action is currently underway against the detained passenger according to airport security regulations."
-        ],
-        "impact_bn": "বিমানবন্দরে কঠোর নজরদারির মাধ্যমে অবৈধ চোরাচালান রোধে নিরাপত্তা ব্যবস্থা জোরদার করা হচ্ছে।",
-        "impact_en": "Strengthened security measures at airports help curb illegal smuggling syndicates and protect national revenue.",
-        "details_bn": "বিমানবন্দরগুলোতে সোনা চোরাচালানের ঘটনা রোধে কাস্টমস গোয়েন্দা ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী দীর্ঘদিন ধরে নজরদারি চালিয়ে আসছে। মধ্যপ্রাচ্যের বিভিন্ন দেশ থেকে বৈধ সীমার বাইরে সোনা এনে শুল্ক ফাঁকি দেওয়ার প্রবণতা রোধে প্রায়ই এ ধরনের অভিযান পরিচালনা করা হয়। আটক যাত্রীর ব্যাগ তল্লাশি করে লুকানো অবস্থায় এসব অলংকার উদ্ধার করা হয়।",
-        "details_en": "Customs intelligence and law enforcement agencies have maintained strict surveillance at airports to prevent gold smuggling syndicates. Frequent operations are conducted to curb attempts to evade duties by bringing in gold exceeding legal limits from Middle Eastern countries. The jewelry was recovered from the detained passenger's luggage during a routine search."
-      }
-    },
-    {
-      "story_id": "333ea992-9e63-5ee2-8700-ded279b38c8e",
+      "story_id": "16a3dcb4-6cbe-546b-99ff-7690258debed",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -125,224 +125,218 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fdzr2oikh%2Fmymensingh.jpg?rect=0%2C83%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T10:28:33+00:00",
+      "published_at": "2026-10-25T11:17:27+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4292,
+      "rank_score": 1.3041,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171787",
-          "title": "প্রেমিকের সঙ্গে দেখা করতে গিয়ে সংঘবদ্ধ ধর্ষণের অভিযোগ, আটক ৩",
-          "snippet": "প্রেমিকের সঙ্গে দেখা করতে গিয়ে সংঘবদ্ধ ধর্ষণের অভিযোগ, আটক ৩"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/7k4wh9qods",
+          "title": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছিনিয়ে নেওয়ার ঘটনায় বিএনপি নেতাসহ দুজন গ্রেপ্তার",
+          "snippet": "পুলিশের কাছ থেকে নিষিদ্ধ ছাত্রলীগ নেতাকে ছিনিয়ে নেওয়ার ঘটনায় বিএনপি নেতাসহ দুজন গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রেমিকের সাথে দেখা করতে গিয়ে সংঘবদ্ধ ধর্ষণের অভিযোগে আটক ৩",
-        "title_en": "Three Arrested Over Alleged Gang Rape During Meeting with Boyfriend",
-        "summary_bn": "প্রেমিকের সাথে দেখা করতে যাওয়ার পর সংঘবদ্ধ ধর্ষণের শিকার হওয়ার অভিযোগে তিনজনকে আটক করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-        "summary_en": "Law enforcement agencies arrested three individuals following allegations of gang rape after a young woman went to meet her boyfriend.",
+        "title_bn": "ময়মনসিংহে পুলিশি হেফাজত থেকে ছাত্রলীগ নেতা ছিনতাইয়ের ঘটনায় বিএনপি নেতাসহ দুজন গ্রেপ্তার",
+        "title_en": "BNP Leader and Another Arrested for Rescuing Chhatra League Leader from Police Custody",
+        "summary_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশি হেফাজত থেকে হাতকড়াসহ নিষিদ্ধ ছাত্রলীগের এক নেতাকে ছিনিয়ে নেওয়ার মামলায় বিএনপি নেতাসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested a BNP leader and another person in Mymensingh for snatching a banned Chhatra League leader from police custody.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T10:28:33+00:00",
-        "lead_bn": "প্রেমিকের সাথে দেখা করতে যাওয়ার পর সংঘবদ্ধ ধর্ষণের শিকার হওয়ার অভিযোগে তিনজনকে আটক করেছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী।",
-        "lead_en": "Law enforcement agencies arrested three individuals following allegations of gang rape after a young woman went to meet her boyfriend.",
+        "published_at": "2026-10-25T11:17:27+00:00",
+        "lead_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে পুলিশি হেফাজত থেকে হাতকড়াসহ নিষিদ্ধ ছাত্রলীগের এক নেতাকে ছিনিয়ে নেওয়ার মামলায় বিএনপি নেতাসহ দুজনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested a BNP leader and another person in Mymensingh for snatching a banned Chhatra League leader from police custody.",
         "bullets_bn": [
-          "ভুক্তভোগী যুবতী প্রেমিকের সাথে দেখা করতে যাওয়ার পর এই সংঘবদ্ধ ধর্ষণের ঘটনা ঘটে।",
-          "অভিযোগের ভিত্তিতে তাৎক্ষণিকভাবে অভিযান চালিয়ে তিনজনকে আটক করেছে পুলিশ।",
-          "আটককৃতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
+          "ঈশ্বরগঞ্জ উপজেলায় পুলিশি হেফাজত থেকে নিষিদ্ধ ছাত্রলীগের এক নেতাকে ছিনিয়ে নেওয়ার ঘটনায় মামলার পর অভিযান চালায় পুলিশ।",
+          "গ্রেপ্তার দুজন হলেন সরিষা ইউনিয়ন বিএনপির যুগ্ম সাধারণ সম্পাদক নূর মোহাম্মদ মিলন এবং নিষিদ্ধ ছাত্রলীগের সাবেক যুগ্ম সাধারণ সম্পাদক নয়ন মণ্ডল।",
+          "সরকারি কাজে বাধা, পুলিশের ওপর হামলা ও আসামি ছিনতাইয়ের ঘটনায় করা মামলায় গ্রেপ্তার ব্যক্তিদের আদালতে সোপর্দ করা হয়েছে।"
         ],
         "bullets_en": [
-          "The incident of gang rape occurred after the victim went to meet her boyfriend.",
-          "Police conducted an immediate raid based on the complaint and detained three suspects.",
-          "Legal proceedings are currently underway against the arrested individuals."
+          "Police launched raids following the incident of rescuing a banned Chhatra League leader from police custody in Ishwarganj.",
+          "The arrestees are Sarish Union BNP joint general secretary Nur Mohammad Milon and former Chhatra League leader Nayan Mondal.",
+          "The accused have been produced before the court in a case filed for obstructing government work, assaulting police, and snatching a prisoner."
         ],
-        "impact_bn": "এই ধরনের অপরাধ জননিরাপত্তা এবং আইনশৃঙ্খলা পরিস্থিতির ওপর গুরুতর প্রভাব ফেলে, যা সমাজে অপরাধ দমনে দ্রুত পদক্ষেপের প্রয়োজনীয়তা বাড়ায়।",
-        "impact_en": "Such crimes severely impact public safety and law enforcement, emphasizing the urgent need for swift action to curb violence against women.",
-        "details_bn": "নারীদের নিরাপত্তা ও অপরাধ দমনের দাবিতে দেশজুড়ে বিভিন্ন সময়ে কঠোর আইন প্রয়োগের দাবি উঠেছে। সাম্প্রতিক সময়ে এ ধরনের অপরাধের ঘটনাগুলো আইন প্রয়োগকারী সংস্থার নজরদারিতে রয়েছে এবং দ্রুত ব্যবস্থা নেওয়ার তাগিদ দেওয়া হচ্ছে।",
-        "details_en": "Incidents of violence against women have repeatedly sparked public outrage and demands for stricter law enforcement. Authorities are facing increased pressure to ensure swift investigations and accountability in such criminal cases."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলার মতো ঘটনা জননিরাপত্তা ও স্থানীয় শান্তি বিঘ্নিত করে।",
+        "impact_en": "Such attacks on law enforcement authorities disrupt public safety and local stability.",
+        "details_bn": "ময়মনসিংহের ঈশ্বরগঞ্জে গোপন সংবাদের ভিত্তিতে নিষিদ্ধঘোষিত ছাত্রলীগের এক নেতাকে আটক করে পুলিশ। থানায় নেওয়ার পথে সরিষা ইউনিয়ন পরিষদ কার্যালয়ের কাছে পুলিশের ওপর হামলা চালিয়ে তাঁকে ছিনিয়ে নেওয়া হয়। হামলায় তিন পুলিশ সদস্য আহত হন এবং পুলিশের একটি সিএনজিচালিত অটোরিকশা ভাঙচুর করা হয়। এ ঘটনায় পুলিশ বাদী হয়ে ২৭ জনের নাম উল্লেখ করে এবং অজ্ঞাতনামা ২৫ থেকে ৩০ জনকে আসামি করে মামলা করে। এর আগে সন্দেহভাজন দুজনকে গ্রেপ্তার করে কারাগারে পাঠানো হয়।",
+        "details_en": "Police detained a banned Chhatra League leader based on intelligence in Ishwarganj, Mymensingh. While transporting him, attackers ambushed the police near the Sarish Union Parishad office, injuring three officers and vandalizing a vehicle to free the detainee. Police filed a case naming 27 individuals and 25 to 30 unidentified suspects. Two other suspects were previously arrested and sent to jail in connection with the incident."
       }
     },
     {
-      "story_id": "4fedc36c-2c30-591d-9476-2fb6d79e851d",
-      "primary_category": "governance_law",
+      "story_id": "1c6f6d22-ac0d-5056-8868-6c43b7575ee4",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fzd9uriui%2FShafiqur-Rahman.jpeg?rect=17%2C0%2C1126%2C591&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T09:20:02+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.2127,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/iyolxghx5t",
-          "title": "সংবিধান সংশোধন করবেন, আদালতে হোয়াইটওয়াশ হবে, তাতে রাজি নই: জামায়াত আমির",
-          "snippet": "সংবিধান সংশোধন করবেন, আদালতে হোয়াইটওয়াশ হবে, তাতে রাজি নই: জামায়াত আমির"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সংবিধান সংশোধনের পথ থেকে সরকারকে সরে আসার আহ্বান জামায়াত আমিরের",
-        "title_en": "Jamaat Ameer urges government to step back from constitutional amendment",
-        "summary_bn": "জামায়াতে ইসলামীর আমির শফিকুর রহমান বর্তমান সরকারকে সংবিধান সংশোধনের বিতর্কিত পথ থেকে সরে এসে সংস্কার বাস্তবায়নের আহ্বান জানিয়েছেন।",
-        "summary_en": "Jamaat-e-Islami Ameer Shafiqur Rahman urged the government to step back from the path of constitutional amendment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T09:20:02+00:00",
-        "lead_bn": "জামায়াতে ইসলামীর আমির শফিকুর রহমান বর্তমান সরকারকে সংবিধান সংশোধনের বিতর্কিত পথ থেকে সরে এসে সংস্কার বাস্তবায়নের আহ্বান জানিয়েছেন।",
-        "lead_en": "Jamaat-e-Islami Ameer Shafiqur Rahman urged the government to step back from the path of constitutional amendment.",
-        "bullets_bn": [
-          "সরকারকে সংবিধান সংশোধনের উদ্যোগ থেকে অবিলম্বে সরে আসার আহ্বান জানান জামায়াতের আমির শফিকুর রহমান।",
-          "একতরফা সংবিধান পরিবর্তন আদালত কর্তৃক বাতিল হবে এবং এটি পণ্ডশ্রম ছাড়া কিছু নয় বলে মন্তব্য করেন তিনি।",
-          "বিএনপির পক্ষ থেকে জুলাই জাতীয় সনদ বাস্তবায়ন ও সংস্কার প্রস্তাবগুলো এড়িয়ে যাওয়ার কঠোর সমালোচনা করা হয়।"
-        ],
-        "bullets_en": [
-          "Jamaat Ameer Shafiqur Rahman urged the government to immediately abandon plans for constitutional amendments.",
-          "He stated that unilateral changes would be struck down by courts and amount to futile labor.",
-          "He strongly criticized BNP for avoiding implementation of the July National Charter and key reform proposals."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জুলাই জাতীয় সনদ বাস্তবায়নের বর্ষপূর্তি উপলক্ষে জাতীয় প্রেসক্লাবে আয়োজিত আলোচনা সভায় প্রধান অতিথির বক্তব্যে জামায়াতের আমির শফিকুর রহমান সরকারের রাজনৈতিক পদক্ষেপ ও সংস্কার নিয়ে প্রশ্ন তোলেন। এ সময় তিনি বর্তমান সংবিধান ফ্যাসিবাদের জন্ম দিয়েছে উল্লেখ করে তা সংশোধনের পরিবর্তে পূর্ণাঙ্গ সংস্কারের ওপর জোর দেন। পাশাপাশি বিরোধী দল ও অন্যান্য রাজনৈতিক দলগুলোর ভূমিকা নিয়ে নানা সমসাময়িক রাজনৈতিক অভিযোগ উত্থাপন করেন তিনি।",
-        "details_en": "Speaking at a discussion meeting marking the anniversary of the July National Charter implementation at the National Press Club, Jamaat Ameer Shafiqur Rahman questioned the government's political moves and reform agenda. He stated that the current constitution has bred fascism and emphasized comprehensive reform over mere amendments. He also raised various contemporary political grievances regarding the roles of opposition parties and political maneuvering."
-      }
-    },
-    {
-      "story_id": "4a70fc95-a35e-5ad9-8615-a0ef09da6744",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraelElections",
-        "#GadiEisenkot",
-        "#MiddleEast"
-      ],
-      "image_url": "https://static.dw.com/image/79750417_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-25T11:00:41.774204+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6888,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
-          "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-          "snippet": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলি নির্বাচনে মরক্কোর শিকড়কে কাজে লাগিয়ে প্রচার চালাচ্ছেন গাদি আইসেনকট",
-        "title_en": "Gadi Eisenkot Campaigns on Moroccan Roots in Israeli Election Challenge",
-        "summary_bn": "ইসরায়েলি রাজনীতিক গাদি আইসেনকট আসন্ন নির্বাচনকে সামনে রেখে মরক্কোর শেকড় ব্যবহার করে নেতার বিরুদ্ধে প্রচার চালাচ্ছেন।",
-        "summary_en": "Israeli politician Gadi Eisenkot campaigns by highlighting his Moroccan roots to challenge Netanyahu ahead of elections.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T11:00:41.774204+00:00",
-        "lead_bn": "ইসরায়েলি রাজনীতিক গাদি আইসেনকট আসন্ন নির্বাচনকে সামনে রেখে মরক্কোর শেকড় ব্যবহার করে নেতার বিরুদ্ধে প্রচার চালাচ্ছেন।",
-        "lead_en": "Israeli politician Gadi Eisenkot campaigns by highlighting his Moroccan roots to challenge Netanyahu ahead of elections.",
-        "bullets_bn": [
-          "গাদি আইসেনকটের দল ইয়াশার মরক্কোর আরবি ভাষা ও হিব্রু মিলিয়ে নির্বাচনী স্লোগান ব্যবহার করছে",
-          "শে্দেরোট শহরে মরক্কো বংশোদ্ভূত ইহুদি সম্প্রদায়ের বড় উপস্থিতি রয়েছে যারা ঐতিহাসিকভাবে লিকুদ দলের সমর্থক",
-          "ইসরায়েলের প্রায় অর্ধেক বা ৪০ লাখ ইহুদি জনসংখ্যা মধ্যপ্রাচ্য ও উত্তর আফ্রিকার মিজরাহি বংশোদ্ভূত"
-        ],
-        "bullets_en": [
-          "Eisenkot's Yashar party features campaign slogans combining Hebrew and Moroccan Arabic terms",
-          "Sderot features a large Moroccan-Jewish community that traditionally strongly supports Netanyahu's Likud party",
-          "Roughly half of Israel's Jewish population consists of Mizrahi Jews of Middle Eastern and North African background"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলে ইউরোপীয় বংশোদ্ভূত আশকেনাজি এবং মধ্যপ্রাচ্য বা উত্তর আফ্রিকা থেকে আসা মিজরাহি ইহুদিদের মধ্যে দীর্ঘদিনের ঐতিহাসিক রাজনৈতিক বিভাজন রয়েছে। শে্দেরোটের মতো সীমান্ত শহরগুলো ঐতিহ্যগতভাবে ডানপন্থী দলগুলোর শক্ত ঘাঁটি হিসেবে পরিচিত। এই অঞ্চলের ভোটারদের আকৃষ্ট করতেই প্রার্থীরা তাদের সাংস্কৃতিক শেকড় ও জাতিগত পরিচয়কে নির্বাচনী প্রচারণায় ব্যবহার করছেন।",
-        "details_en": "Israel has long experienced deep historical divisions between Ashkenazi Jews of European origin and Mizrahi Jews from Middle Eastern and North African backgrounds. Border cities like Sderot are traditionally strongholds for right-wing parties, prompting political challengers to leverage cultural identity and heritage to appeal to these crucial voter bases."
-      }
-    },
-    {
-      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
         "tech_innovation",
-        "governance_law",
         "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#SaudiArabia",
-        "#USMilitary",
-        "#ArtificialIntelligence",
-        "#Houthi"
+        "#Technology",
+        "#Innovation"
       ],
-      "image_url": "https://static.dw.com/image/78307185_6.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T11:00:41.774204+00:00",
+      "published_at": "2026-10-25T11:57:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6888,
+      "importance_score": 2.4,
+      "rank_score": 0.9358,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/tech-and-gadget/tech-news/976659/%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B0%C2%A0",
+          "title": "নাটোরে সাইবার নিরাপত্তা বিষয়ক সেমিনার",
+          "snippet": "নাটোরে সাইবার নিরাপত্তা বিষয়ক সেমিনার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক টার্গেটিং টুল সরবরাহ করছে যুক্তরাষ্ট্র",
-        "title_en": "United States Supplies AI-Powered Targeting Tools to Saudi Arabia",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলার মুখে থাকা সৌদি আরবকে গোয়েন্দা সহায়তা ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণ প্রযুক্তি দিচ্ছে যুক্তরাষ্ট্র।",
-        "summary_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia receives intelligence support and artificial intelligence targeting technology from the United States.",
+        "title_bn": "নাটোরে বাংলাদেশ আর্মি ইউনিভার্সিটিতে সাইবার নিরাপত্তা বিষয়ক সেমিনার অনুষ্ঠিত",
+        "title_en": "Cybersecurity Seminar Held at Bangladesh Army University in Natore",
+        "summary_bn": "বাংলাদেশ আর্মি ইউনিভার্সিটি অব ইঞ্জিনিয়ারিং অ্যান্ড টেকনোলজিতে ডিজিটাল যুগের সাইবার নিরাপত্তা ও ভবিষ্যৎ ক্যারিয়ার বিষয়ক সেমিনার অনুষ্ঠিত হয়েছে।",
+        "summary_en": "A seminar on cybersecurity in the digital era and future careers was held at the Bangladesh Army University of Engineering and Technology.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "tech_innovation",
-          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T11:00:41.774204+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলার মুখে থাকা সৌদি আরবকে গোয়েন্দা সহায়তা ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণ প্রযুক্তি দিচ্ছে যুক্তরাষ্ট্র।",
-        "lead_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia receives intelligence support and artificial intelligence targeting technology from the United States.",
+        "published_at": "2026-10-25T11:57:07+00:00",
+        "lead_bn": "বাংলাদেশ আর্মি ইউনিভার্সিটি অব ইঞ্জিনিয়ারিং অ্যান্ড টেকনোলজিতে ডিজিটাল যুগের সাইবার নিরাপত্তা ও ভবিষ্যৎ ক্যারিয়ার বিষয়ক সেমিনার অনুষ্ঠিত হয়েছে।",
+        "lead_en": "A seminar on cybersecurity in the digital era and future careers was held at the Bangladesh Army University of Engineering and Technology.",
         "bullets_bn": [
-          "সৌদি আরবের সামরিক বাহিনীকে রিয়েল-টাইম যুদ্ধক্ষেত্রের দৃশ্য দেখতে সহায়তা করছে মার্কিন যৌথ বাহিনী কমান্ড",
-          "প্রকল্পের আওতায় সৌদি আরবে অবস্থান করছেন একশ থেকে দুইশ মার্কিন সেনা সদস্য",
-          "যুদ্ধক্ষেত্রে সম্ভাব্য লক্ষ্যবস্তু শনাক্ত করতে কৃত্রিম বুদ্ধিমত্তা চালিত মেভেন স্মার্ট সিস্টেম ব্যবহার করা হচ্ছে"
+          "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং বিভাগের উদ্যোগে প্যানোরামা ভবনে এই সেমিনারের আয়োজন করা হয়।",
+          "সেমিনারে বিশ্ববিদ্যালয়ের উপাচার্যসহ সংশ্লিষ্ট বিভাগের শিক্ষক ও শিক্ষার্থীরা প্রধান অতিথি হিসেবে উপস্থিত ছিলেন।",
+          "সাইবার নিরাপত্তা সচেতনতা বৃদ্ধি এবং তথ্যপ্রযুক্তিতে শিক্ষার্থীদের ক্যারিয়ার গড়তে দিকনির্দেশনা দেওয়া হয়।"
         ],
         "bullets_en": [
-          "US joint forces are helping the Saudi military view real-time battlefield scenarios through intelligence support.",
-          "Between one hundred and two hundred US military personnel are stationed in Saudi Arabia as part of the initiative.",
-          "The Maven Smart System leverages artificial intelligence to identify potential targets on the battlefield."
+          "The seminar was organized by the Computer Science and Engineering department at the Panorama building.",
+          "The university vice-chancellor along with department faculty members and students attended the event.",
+          "Discussions focused on raising cybersecurity awareness and guiding students toward tech careers."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের সামরিক চাপের মুখে সৌদি আরব মার্কিন যুক্তরাষ্ট্রের কাছে সামরিক সহায়তা কামনা করে। যদিও ওয়াশিংটন সরাসরি সামরিক হস্তক্ষেপে অস্বীকৃতি জানিয়েছে, তবে মেভেন স্মার্ট সিস্টেমের মতো কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ব্যবহার করে রিয়েল-টাইম গোয়েন্দা ও লক্ষ্য নির্ধারণের ডেটা সরবরাহ করছে। ২০১৭ সালে চালু হওয়া প্রজেক্ট ম্যাভেনের অংশ হিসেবে এই এআই প্ল্যাটফর্মটি স্যাটেলাইট ও ড্রোন ফিড বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু চিহ্নিত করতে সহায়তা করে।",
-        "details_en": "Facing military pressure from Houthi rebels in Yemen, Saudi Arabia sought assistance from the United States. Although Washington declined direct military intervention, it is providing real-time intelligence and targeting data using artificial intelligence technology like the Maven Smart System. Originating from Project Maven launched in 2017, this AI platform analyzes satellite and drone feeds to help identify potential military targets."
+        "impact_bn": "শিক্ষার্থীরা সাইবার নিরাপত্তা সম্পর্কে সচেতন হয়ে তথ্যপ্রযুক্তি খাতে নিজেদের ভবিষ্যৎ ক্যারিয়ার গড়ার দিকনির্দেশনা পাবে।",
+        "impact_en": "Students will gain cybersecurity awareness and practical guidance to build secure futures in the IT sector.",
+        "details_bn": "ডিজিটাল প্রযুক্তির ব্যাপক প্রসারের সাথে সাথে সাইবার নিরাপত্তা নিশ্চিত করা এবং তরুণ প্রজন্মকে দক্ষ করে তোলা অত্যন্ত জরুরি হয়ে উঠেছে। দেশের বিভিন্ন শিক্ষাপ্রতিষ্ঠানে এ ধরনের সচেতনতামূলক আয়োজন শিক্ষার্থীদের প্রযুক্তিগত জ্ঞান বৃদ্ধি ও সাইবার হুমকি মোকাবিলায় প্রস্তুত করতে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে।",
+        "details_en": "With the rapid expansion of digital technology, ensuring cybersecurity and empowering the younger generation has become crucial. Educational institutions across the country regularly organize such awareness events to enhance technical knowledge and prepare students to tackle emerging cyber threats."
+      }
+    },
+    {
+      "story_id": "087fd185-f687-5def-bf18-4d97520598cf",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#GlobalTrade",
+        "#Qatar",
+        "#Economy"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/06/6N0A8308-1782822321.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-10-25T09:57:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2755,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
+          "title": "Qatar official calls for peace and security to boost trade, investment",
+          "snippet": "Qatar official calls for peace and security to boost trade, investment"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শান্তি ও নিরাপত্তা ছাড়া বৈশ্বিক বাণিজ্য ও বিনিয়োগ সম্ভব নয়: কাতার মন্ত্রী",
+        "title_en": "Peace and Security Essential for Global Trade and Investment Says Qatar Minister",
+        "summary_bn": "কাতারের বাণিজ্য মন্ত্রী আন্তর্জাতিক সহযোগিতার আহ্বান জানিয়ে সতর্ক করেছেন যে ভূরাজনৈতিক অস্থিতিশীলতা বৈশ্বিক বিনিয়োগ এবং বাণিজ্যকে বাধাগ্রস্ত করছে।",
+        "summary_en": "Qatari trade minister urged international cooperation warning that geopolitical instability threatens global investment and trade prospects.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T09:57:40+00:00",
+        "lead_bn": "কাতারের বাণিজ্য মন্ত্রী আন্তর্জাতিক সহযোগিতার আহ্বান জানিয়ে সতর্ক করেছেন যে ভূরাজনৈতিক অস্থিতিশীলতা বৈশ্বিক বিনিয়োগ এবং বাণিজ্যকে বাধাগ্রস্ত করছে।",
+        "lead_en": "Qatari trade minister urged international cooperation warning that geopolitical instability threatens global investment and trade prospects.",
+        "bullets_bn": [
+          "কাতার ভূরাজনৈতিক অস্থিরতা এবং অর্থনৈতিক বিভাজনের কারণে বৈশ্বিক বিনিয়োগ ব্যাহত হওয়ার আশঙ্কা প্রকাশ করেছে।",
+          "ভবিষ্যতের বিনিয়োগ সরাসরি শান্তি ও নিরাপত্তার সাথে জড়িত বলে মন্তব্য করেন কাতারের পররাষ্ট্র বাণিজ্য বিষয়ক প্রতিমন্ত্রী আহমাদ বিন মোহাম্মেদ আল-সায়েদ।",
+          "জাতিসংঘের বিশ্ব বিনিয়োগ ফোরামে বিশ্বনেতা ও নীতিনির্ধারকরা টেকসই উন্নয়ন এবং বিনিয়োগের চ্যালেঞ্জ নিয়ে আলোচনা করেন।"
+        ],
+        "bullets_en": [
+          "Qatar warned that geopolitical instability and economic fragmentation are threatening global investment prospects.",
+          "Minister of State for Foreign Trade Affairs Ahmad bin Mohammed al-Sayed stated that investment in the future relates to peace and security.",
+          "Global leaders and policymakers gathered at the United Nations-led World Investment Forum to discuss investment and sustainable development challenges."
+        ],
+        "impact_bn": "বৈশ্বিক বাণিজ্য ও জ্বালানি সরবরাহ ব্যাহত হওয়ায় সাধারণ ভোক্তারা পণ্যের মূল্যবৃদ্ধি এবং অর্থনৈতিক অনিশ্চয়তার মুখে পড়তে পারে।",
+        "impact_en": "Global trade disruptions and regional conflicts could lead to higher commodity prices and economic uncertainty for ordinary consumers.",
+        "details_bn": "দোহায় আয়োজিত জাতিসংঘের বাণিজ্য ও উন্নয়ন কনফারেন্সের বিশ্ব বিনিয়োগ ফোরামে এই মন্তব্য করা হয়। বিশ্ব অর্থনীতিতে চলমান ভূরাজনৈতিক পরিবর্তন এবং মার্কিন-ইসরায়েল ও ইরানের মধ্যকার উত্তেজনার প্রেক্ষাপটে এই সতর্কবার্তা এসেছে। হরমুজ প্রণালীতে শিপিং ব্যাহত হওয়ায় বৈশ্বিক তেল ও এলএনজি সরবরাহ ঝুঁকিতে পড়েছে।",
+        "details_en": "The remarks were made at the World Investment Forum organized by the UN Conference on Trade and Development in Doha. The warning comes amid ongoing global geopolitical shifts and escalating tensions involving regional conflicts, which have disrupted critical shipping routes like the Strait of Hormuz and threatened global energy supplies."
+      }
+    },
+    {
+      "story_id": "30ca18fc-1413-566c-a1f1-f9b6451c368b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T11:54:50+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9138,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171829",
+          "title": "চার বছরের সাজা এড়াতে ২০ বছর পলাতক, অবশেষে গ্রেফতার",
+          "snippet": "চার বছরের সাজা এড়াতে ২০ বছর পলাতক, অবশেষে গ্রেফতার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বগুড়ায় বিশ বছর ধরে পলাতক সাজাপ্রাপ্ত আসামি গ্রেফতার",
+        "title_en": "Police Arrest Fugitive Convict on the Run for Twenty Years in Bogura",
+        "summary_bn": "বগুড়ার ধুনট উপজেলায় চার বছরের সশ্রম কারাদণ্ডে দণ্ডিত পলাতক আসামি মাসুদ মিয়াকে গ্রেফতার করেছে পুলিশ।",
+        "summary_en": "Police in Bogura have arrested Masud Mia, a fugitive convict sentenced to four years of rigorous imprisonment.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T11:54:50+00:00",
+        "lead_bn": "বগুড়ার ধুনট উপজেলায় চার বছরের সশ্রম কারাদণ্ডে দণ্ডিত পলাতক আসামি মাসুদ মিয়াকে গ্রেফতার করেছে পুলিশ।",
+        "lead_en": "Police in Bogura have arrested Masud Mia, a fugitive convict sentenced to four years of rigorous imprisonment.",
+        "bullets_bn": [
+          "ধুনট থানা পুলিশ বিশেষ অভিযান চালিয়ে দীর্ঘ ২০ বছর ধরে আত্মগোপনে থাকা মাসুদ মিয়াকে আটক করে।",
+          "আটককৃত মাসুদ মিয়া আদালত কর্তৃক চার বছরের সশ্রম কারাদণ্ডে দণ্ডিত একজন পলাতক আসামি।",
+          "গ্রেফতারের পর আইনি প্রক্রিয়া সম্পন্ন করে আসামiniকে আদালতে সোপর্দ করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Police in Dhunat conducted a special drive to apprehend Masud Mia who remained in hiding for twenty years.",
+          "The detained individual is a fugitive convict sentenced by a court to four years of rigorous imprisonment.",
+          "Following the arrest, the accused has been produced before the court through due legal procedures."
+        ],
+        "impact_bn": "দীর্ঘদিন ধরে পলাতক অপরাধীদের আইনের আওতায় আনার মাধ্যমে বিচার ব্যবস্থার প্রতি সাধারণ মানুষের আস্থা সুদৃঢ় হয়।",
+        "impact_en": "Bringing long-term fugitives to justice strengthens public confidence in the legal system and law enforcement.",
+        "details_bn": "বাংলাদেশের বিভিন্ন অঞ্চলে আদালত কর্তৃক সাজাপ্রাপ্ত অনেক আসামি গ্রেফতার এড়াতে দীর্ঘকাল ধরে আত্মগোপনে থাকেন। আইন প্রয়োগকারী সংস্থাগুলোর তৎপরতা বাড়ায় পলাতক অপরাধীদের গ্রেফতারে নিয়মিত অভিযান পরিচালিত হচ্ছে। এর ধারাবাহিকতায় বগুড়ার ধুনট উপজেলায় দীর্ঘ দুই দশক ধরে পালিয়ে থাকা এক আসামিকে গ্রেফতার করা হয়।",
+        "details_en": "Many convicts sentenced by courts in Bangladesh remain in hiding for years to evade arrest. With increased vigilance by law enforcement agencies, regular operations are conducted to track down fugitive criminals. In line with this, the long-term fugitive was apprehended in Bogura's Dhunat upazila."
       }
     }
   ]
