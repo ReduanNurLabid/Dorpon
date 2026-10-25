@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-25T09:00:51.521167",
+  "updated_at": "2026-10-25T10:00:45.905467",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "0293a98b-06ed-5fa7-8208-a28a1a42e1b0",
+      "story_id": "4fedc36c-2c30-591d-9476-2fb6d79e851d",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -13,56 +13,55 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fzd9uriui%2FShafiqur-Rahman.jpeg?rect=17%2C0%2C1126%2C591&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T08:57:54+00:00",
+      "published_at": "2026-10-25T09:20:02+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.5877,
+      "rank_score": 1.8287,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171725",
-          "title": "প্রধানমন্ত্রীর সফর নিয়ে ‘স্নাইপার’ মন্তব্য, আবু বকরের ৭ দিনের রিমান্ড",
-          "snippet": "প্রধানমন্ত্রীর সফর নিয়ে ‘স্নাইপার’ মন্তব্য, আবু বকরের ৭ দিনের রিমান্ড"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/iyolxghx5t",
+          "title": "সংবিধান সংশোধন করবেন, আদালতে হোয়াইটওয়াশ হবে, তাতে রাজি নই: জামায়াত আমির",
+          "snippet": "সংবিধান সংশোধন করবেন, আদালতে হোয়াইটওয়াশ হবে, তাতে রাজি নই: জামায়াত আমির"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর সফর নিয়ে হুমকিদাতা আবু বকর সাত দিনের রিমান্ডে",
-        "title_en": "Abu Bakr Placed on Seven-Day Remand Over Threat to Prime Minister",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফর নিয়ে ফেসবুকে হুমকি দেওয়ার অভিযোগে করা মামলায় মো. আবু বকর সিদ্দিককে সাত দিনের রিমান্ডে পাঠানো হয়েছে।",
-        "summary_en": "Md Abu Bakr Siddique has been placed on a seven-day remand in a case filed over threatening Prime Minister Tarique Rahman on Facebook.",
+        "title_bn": "সংবিধান সংশোধনের পথ থেকে সরকারকে সরে আসার আহ্বান জামায়াত আমিরের",
+        "title_en": "Jamaat Ameer Urges Government to Steer Clear of Constitutional Amendments",
+        "summary_bn": "জামায়াতে ইসলামীর আমির শফিকুর রহমান সংবিধান সংশোধনের চলমান উদ্যোগ থেকে সরকারকে সরে আসার আহ্বান জানিয়েছেন।",
+        "summary_en": "Jamaat-e-Islami Ameer Shafiqur Rahman urged the government to step back from ongoing constitutional amendment initiatives.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T08:57:54+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের রাজশাহী সফর নিয়ে ফেসবুকে হুমকি দেওয়ার অভিযোগে করা মামলায় মো. আবু বকর সিদ্দিককে সাত দিনের রিমান্ডে পাঠানো হয়েছে।",
-        "lead_en": "Md Abu Bakr Siddique has been placed on a seven-day remand in a case filed over threatening Prime Minister Tarique Rahman on Facebook.",
+        "published_at": "2026-10-25T09:20:02+00:00",
+        "lead_bn": "জামায়াতে ইসলামীর আমির শফিকুর রহমান সংবিধান সংশোধনের চলমান উদ্যোগ থেকে সরকারকে সরে আসার আহ্বান জানিয়েছেন।",
+        "lead_en": "Jamaat-e-Islami Ameer Shafiqur Rahman urged the government to step back from ongoing constitutional amendment initiatives.",
         "bullets_bn": [
-          "ফেসবুকে স্নাইপার দিয়ে গুলি করার ইঙ্গিতপূর্ণ মন্তব্য করার অভিযোগে মো. আবু বকর সিদ্দিককে রিমান্ডে নেওয়া হয়েছে।",
-          "ঢাকার আদালতে রিমান্ড শুনানির পর বিচারক এই আদেশ দেন।",
-          "পুলিশের পক্ষ থেকে অধিকতর তদন্তের জন্য রিমান্ড আবেদন করা হয়েছিল যা আদালত মঞ্জুর করেন।"
+          "সরকারকে সংবিধান সংশোধনের উদ্যোগ থেকে বিরত থাকার আহ্বান জানান জামায়াতের আমির শফিকুর রহমান।",
+          "সংবিধান সংশোধন পণ্ডশ্রম বলে মন্তব্য করে তিনি বলেন আদালতে এই সংশোধন হোয়াইটওয়াশ হয়ে যাবে।",
+          "বিএনপি সংস্কার প্রস্তাব এড়িয়ে যাচ্ছে এবং আওয়ামী লীগের সাথে সমঝোতা করছে বলে অভিযোগ করেন তিনি।"
         ],
         "bullets_en": [
-          "Md Abu Bakr Siddique was placed on remand following allegations of making provocative comments on Facebook about shooting with a sniper.",
-          "The Dhaka court granted the remand order following a hearing on the police petition.",
-          "Police sought the remand to conduct further interrogation regarding the security threat."
+          "Jamaat Ameer Shafiqur Rahman urged the government to refrain from the constitutional amendment initiative.",
+          "Calling the amendment futile labor, he stated that the courts would whitewash such changes.",
+          "He accused the BNP of avoiding reform proposals and making compromises with the Awami League."
         ],
-        "impact_bn": "সামাজিক যোগাযোগ মাধ্যমে রাষ্ট্রীয় নিরাপত্তা ও ভিভিআইপিদের নিয়ে উসকানিমূলক পোস্টদাতাদের বিরুদ্ধে আইনগত কঠোরতা বাড়িয়েছে আইনশৃঙ্খলা বাহিনী।",
-        "impact_en": "Law enforcement agencies have intensified legal actions against individuals posting provocative threats regarding state security and VVIPs on social media.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের নির্ধারিত রাজশাহী সফরকে কেন্দ্র করে সামাজিক যোগাযোগ মাধ্যম ফেসবুকে একটি উসকানিমূলক মন্তব্য ছড়িয়ে পড়ে। স্নাইপার দিয়ে গুলি করার ইঙ্গিতপূর্ণ ওই মন্তব্যটি দ্রুত সাইবার নজরদারিতে আসে। এরপর আইনশৃঙ্খলা রক্ষাকারী বাহিনী সংশ্লিষ্ট ব্যক্তির বিরুদ্ধে মামলা দায়ের করে এবং তাকে আদালতে সোপর্দ করে অধিকতর জিজ্ঞাসাবাদের জন্য রিমান্ড আবেদন জানায়।",
-        "details_en": "A provocative comment regarding Prime Minister Tarique Rahman's scheduled visit to Rajshahi circulated on Facebook. The implicit remark about shooting with a sniper quickly came under cyber surveillance, leading law enforcement agencies to file a case and produce the accused in court with a remand plea for further interrogation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই জাতীয় সনদ বাস্তবায়নের বর্ষপূর্তি উপলক্ষে আয়োজিত এক আলোচনা সভায় জামায়াতে ইসলামীর আমির শফিকুর রহমান সরকারের সংস্কার ও সংবিধান সংশোধন প্রক্রিয়ার তীব্র সমালোচনা করেন। তিনি অভিযোগ করেন, বর্তমান সংবিধান ফ্যাসিবাদের জন্ম দিয়েছে এবং এটিকে স্থায়ী রূপ দিতে চেয়েছিল। এছাড়া বিএনপি সংস্কার প্রস্তাব ও জুলাই জাতীয় সনদের বিষয়ে নোট অব ডিসেন্ট দিয়ে তা এড়িয়ে যাচ্ছে বলেও দাবি করেন তিনি।",
+        "details_en": "Speaking at a discussion marking the anniversary of the implementation of the July National Charter, Jamaat-e-Islami Ameer Shafiqur Rahman sharply criticized the government's reform and constitutional amendment process. He claimed the current constitution spawned fascism and sought to institutionalize it. He also accused the BNP of avoiding reform proposals and registering notes of dissent regarding the July National Charter."
       }
     },
     {
-      "story_id": "ea8b4756-f51b-5514-87fd-777c6d7927ed",
+      "story_id": "6dc12210-a43b-5f9d-b4b8-d019c93700e0",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "society_education"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
@@ -71,111 +70,54 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T08:43:55+00:00",
+      "published_at": "2026-10-25T09:45:38+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6367,
+      "rank_score": 1.6656,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171719",
-          "title": "প্রত্যর্পণ চুক্তি অনুযায়ী ফেরত চেয়েছি, অস্থিরতা সৃষ্টির সুযোগ দেবো না",
-          "snippet": "প্রত্যর্পণ চুক্তি অনুযায়ী ফেরত চেয়েছি, অস্থিরতা সৃষ্টির সুযোগ দেবো না"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976618/%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6%E0%A6%B8%E0%A6%B9-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A0%E0%A7%87%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
+          "title": "রিয়াদসহ একাধিক শহরে হুথিদের হামলা ঠেকানোর দাবি সৌদির",
+          "snippet": "রিয়াদসহ একাধিক শহরে হুথিদের হামলা ঠেকানোর দাবি সৌদির"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রত্যর্পণ চুক্তি অনুযায়ী শেখ হাসিনাকে ফিরিয়ে চাওয়া হয়েছে",
-        "title_en": "Sheikh Hasina Sought Back Under Extradition Treaty",
-        "summary_bn": "বাংলাদেশ প্রত্যর্পণ চুক্তি অনুযায়ী শেখ হাসিনাকে দেশে ফিরিয়ে আনার দাবি জানিয়েছে এবং দেশে কোনো ধরনের অস্থিরতা তৈরির সুযোগ দেওয়া হবে না।",
-        "summary_en": "Bangladesh has officially demanded the return of Sheikh Hasina under the extradition treaty and vowed not to allow any instability.",
+        "title_bn": "সৌদি আকাশসীমায় হুথিদের ড্রোন ও ক্ষেপণাস্ত্র হামলা প্রতিহত করার দাবি জোটের",
+        "title_en": "Saudi Coalition Intercepts Houthi Drones and Missiles Over Riyadh",
+        "summary_bn": "ইয়েমেন সীমান্তবর্তী সৌদি আরব রিয়াদসহ একাধিক শহরে হুথিদের ছোড়া একাধিক ড্রোন ও ক্ষেপণাস্ত্র সফলভাবে প্রতিহত করেছে।",
+        "summary_en": "Saudi air defenses successfully intercepted multiple Houthi drones and missiles targeting Riyadh and southern cities.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "society_education"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T08:43:55+00:00",
-        "lead_bn": "বাংলাদেশ প্রত্যর্পণ চুক্তি অনুযায়ী শেখ হাসিনাকে দেশে ফিরিয়ে আনার দাবি জানিয়েছে এবং দেশে কোনো ধরনের অস্থিরতা তৈরির সুযোগ দেওয়া হবে না।",
-        "lead_en": "Bangladesh has officially demanded the return of Sheikh Hasina under the extradition treaty and vowed not to allow any instability.",
+        "published_at": "2026-10-25T09:45:38+00:00",
+        "lead_bn": "ইয়েমেন সীমান্তবর্তী সৌদি আরব রিয়াদসহ একাধিক শহরে হুথিদের ছোড়া একাধিক ড্রোন ও ক্ষেপণাস্ত্র সফলভাবে প্রতিহত করেছে।",
+        "lead_en": "Saudi air defenses successfully intercepted multiple Houthi drones and missiles targeting Riyadh and southern cities.",
         "bullets_bn": [
-          "প্রত্যর্পণ চুক্তি অনুযায়ী শেখ হাসিনাকে দেশে ফিরিয়ে আনার আনুষ্ঠানিক দাবি জানানো হয়েছে",
-          "সামাজিক যোগাযোগমাধ্যমে শেখ হাসিনার ডিসেম্বর মাসে দেশে ফেরার গুঞ্জন নিয়ে আলোচনা চলছে",
-          "দেশে কোনো রাজনৈতিক অস্থিরতা সৃষ্টির সুযোগ দেওয়া হবে না বলে সরকারের পক্ষ থেকে জানানো হয়েছে"
+          "সৌদি নেতৃত্বাধীন সামরিক জোট রিয়াদ ও দক্ষিণাঞ্চলের আকাশে হুথিদের ড্রোন ও ক্ষেপণাস্ত্র প্রতিহত করে।",
+          "ব্রিটিশ বার্তা সংস্থা রয়টার্সের প্রতিবেদনে ইয়েমেনে ইরানপন্থি হুথিদের সঙ্গে চলমান লড়াইয়ের কথা উল্লেখ করা হয়েছে।",
+          "যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে মধ্যপ্রাচ্যে নতুন করে সংঘাত ছড়িয়ে পড়ার আশঙ্কা তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "Official demand has been made to bring back Sheikh Hasina under the extradition treaty.",
-          "Discussions are ongoing regarding rumors on social media about her returning in December.",
-          "The government stated that no opportunity will be given to create political instability in the country."
+          "The Saudi-led coalition intercepted aerial drones and missiles targeting Riyadh and southern regions.",
+          "Reuters reported ongoing military engagements between the coalition and Iran-backed Houthi fighters.",
+          "Rising regional tensions involving US-Israeli actions threaten to escalate the Middle East conflict further."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ছাত্র-জনতার গণঅভুত্থানের পর শেখ হাসিনা সরকারের পতন ঘটে এবং তিনি দেশত্যাগ করেন। এরপর থেকেই দেশের রাজনৈতিক অঙ্গনে সাবেক এই প্রধানমন্ত্রী ও তার দলের নেতাকর্মীদের আইনি প্রক্রিয়া এবং দেশে ফেরানো নিয়ে নানা আলোচনা চলছে। সরকারের পক্ষ থেকে বিভিন্ন সময় জানানো হয়েছে যে অপরাধীদের দেশে ফিরিয়ে এনে বিচারের মুখোমুখি করা হবে।",
-        "details_en": "Following the mass uprising, the Sheikh Hasina government collapsed and she left the country. Since then, discussions regarding legal proceedings and bringing back the former prime minister have been ongoing in the political arena. The government has repeatedly stated that offenders will be brought back to face justice."
+        "impact_bn": "মধ্যপ্রাচ্যের চলমান ভূরাজনৈতিক উত্তেজনার কারণে বৈশ্বিক জ্বালানি বাজার ও প্রবাসীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়াতে পারে।",
+        "impact_en": "Escalating Middle East tensions could trigger global energy market volatility and raise security concerns for expatriates.",
+        "details_bn": "ইয়েমেনে দীর্ঘদিন ধরে চলা গৃহযুদ্ধে সৌদি আরব ও ইরান সমর্থিত হুথি বিদ্রোহীরা বিপরীত অবস্থানে রয়েছে। সম্প্রতি মার্কিন যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে আঞ্চলিক বিরোধের জেরে সংঘাতের মাত্রা তীব্র আকার ধারণ করেছে। এর ফলে কৌশলগত এই অঞ্চলে নতুন করে বড় ধরনের সামরিক সংঘাত ছড়িয়ে পড়ার ঝুঁকি তৈরি হয়েছে, যা আন্তর্জাতিক সম্প্রদায়ের জন্য গভীর উদ্বেগের কারণ হয়ে দাঁড়িয়েছে।",
+        "details_en": "The protracted conflict in Yemen pits Saudi-led forces against Iran-aligned Houthi rebels. Recent geopolitical friction involving the US, Israel, and regional actors has intensified hostilities, turning the frontlines increasingly volatile and raising the risk of a wider regional war."
       }
     },
     {
-      "story_id": "f36b346a-0ff8-5602-9aef-403eee5cea86",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fql2crk17%2Fa1b8eff6-4f4f-40e8-a1a8-19f55580f070.jfif?rect=131%2C0%2C1337%2C702&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T08:24:51+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3821,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/q8iymzst0v",
-          "title": "ছাত্রকে ধর্ষণের অভিযোগ, লক্ষ্মীপুরে মাদ্রাসা থেকে এক শিক্ষক গ্রেপ্তার",
-          "snippet": "ছাত্রকে ধর্ষণের অভিযোগ, লক্ষ্মীপুরে মাদ্রাসা থেকে এক শিক্ষক গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে মাদ্রাসাছাত্রকে ধর্ষণের অভিযোগে এক শিক্ষক গ্রেপ্তার",
-        "title_en": "Madrasa Teacher Arrested in Laxmipur Over Student Rape Allegation",
-        "summary_bn": "লক্ষ্মীপুরের একটি মাদ্রাসায় নয় বছর বয়সী আবাসিক শিক্ষার্থীকে ধর্ষণের অভিযোগে মো. ইব্রাহিম নামের এক শিক্ষককে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested a madrasa teacher named Md. Ibrahim in Laxmipur over allegations of raping a nine-year-old resident student.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T08:24:51+00:00",
-        "lead_bn": "লক্ষ্মীপুরের একটি মাদ্রাসায় নয় বছর বয়সী আবাসিক শিক্ষার্থীকে ধর্ষণের অভিযোগে মো. ইব্রাহিম নামের এক শিক্ষককে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested a madrasa teacher named Md. Ibrahim in Laxmipur over allegations of raping a nine-year-old resident student.",
-        "bullets_bn": [
-          "মাদ্রাসাছাত্রকে ধর্ষণের অভিযোগে মো. ইব্রাহিম নামের এক শিক্ষককে গ্রেপ্তার করে পুলিশ।",
-          "ভুক্তভোগী শিক্ষার্থীর মা চন্দ্রগঞ্জ থানায় লিখিত অভিযোগ দায়ের করার পর মামলা রেকর্ড করা হয়।",
-          "গ্রেপ্তার শিক্ষককে আদালতে সোপর্দ করা হয়েছে এবং পলাতক অপর অভিযুক্তকে গ্রেপ্তারের চেষ্টা চলছে।"
-        ],
-        "bullets_en": [
-          "Police arrested teacher Md. Ibrahim following allegations of raping a residential madrasa student.",
-          "A formal case was filed after the victim student's mother lodged a written complaint at Chandraganj police station.",
-          "The arrested teacher has been sent to court while police continue efforts to capture the fleeing second suspect."
-        ],
-        "impact_bn": "educational institutions-এ আবাসিক শিক্ষার্থীদের নিরাপত্তা ও সুরক্ষায় নজরদারি বাড়ানোর দাবি জোরালো হয়েছে।",
-        "impact_en": "Demands for heightened safety and institutional oversight for residential students in educational institutions have intensified.",
-        "details_bn": "লক্ষ্মীপুরের চন্দ্রগঞ্জের একটি হাফেজিয়া মাদ্রাসায় দীর্ঘদিন ধরে এক আবাসিক শিক্ষার্থীকে যৌন নির্যাতনের অভিযোগ ওঠে। ভুক্তভোগী শিশুর মায়ের লিখিত অভিযোগের ভিত্তিতে চন্দ্রগঞ্জ থানা পুলিশ অভিযান চালিয়ে অভিযুক্ত শিক্ষক মো. ইব্রাহিমকে গ্রেপ্তার করে। প্রাথমিক আইনি প্রক্রিয়া শেষে তাকে আদালতে পাঠানো হয়েছে এবং ঘটনার সাথে জড়িত অপর পলাতক ব্যক্তির সন্ধানে অভিযান চালাচ্ছে আইনশৃঙ্খলা বাহিনী।",
-        "details_en": "Allegations emerged regarding the sexual abuse of a residential student at a Hafezia madrasa in Chandraganj, Laxmipur. Acting on a written complaint filed by the victim child's mother, Chandraganj police station conducted a drive and arrested the accused teacher Md. Ibrahim. Following preliminary legal procedures, he was sent to court while law enforcement agencies continue operations to apprehend the fleeing second suspect."
-      }
-    },
-    {
-      "story_id": "abbd5107-dd72-59b1-bde5-781f8503da35",
+      "story_id": "0c7b01c0-ef15-5ab5-b00b-55cd38bb1618",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -184,170 +126,221 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T08:49:35+00:00",
+      "published_at": "2026-10-25T10:00:37+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8644,
+      "rank_score": 0.9699,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1171721",
-          "title": "বিয়ের প্রলোভনে হোটেলে নিয়ে ধর্ষণ: ঢাবি ছাত্রকে আত্মসমর্পণের নির্দেশ",
-          "snippet": "বিয়ের প্রলোভনে হোটেলে নিয়ে ধর্ষণ: ঢাবি ছাত্রকে আত্মসমর্পণের নির্দেশ"
+          "url": "https://www.jagonews24.com/entertainment/news/1171766",
+          "title": "রাফি আলমের কণ্ঠে এলো ‘ঋণী’",
+          "snippet": "রাফি আলমের কণ্ঠে এলো ‘ঋণী’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাবি শিক্ষার্থীকে আত্মসমর্পণের নির্দেশ",
-        "title_en": "DU Student Ordered to Surrender",
-        "summary_bn": "বিয়ের প্রলোভনে ধর্ষণ ও ব্ল্যাকমেইলের অভিযোগে ঢাকা বিশ্ববিদ্যালয়ের এক শিক্ষার্থীকে আত্মসমর্পণের নির্দেশ দেওয়া হয়েছে।",
-        "summary_en": "A Dhaka University student has been ordered to surrender following allegations of rape and blackmail under false marriage promises.",
+        "title_bn": "সংগীতশিল্পী রাফি আলমের নতুন গান ঋণী প্রকাশিত হয়েছে",
+        "title_en": "Musician Rafi Alam releases his new song titled Rhini",
+        "summary_bn": "জনপ্রিয় সংগীতশিল্পী রাফি আলমের কণ্ঠে নতুন গান ঋণী আনুষ্ঠানিকভাবে মুক্তি পেয়েছে।",
+        "summary_en": "Popular musician Rafi Alam has officially released his brand new song titled Rhini.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T08:49:35+00:00",
-        "lead_bn": "বিয়ের প্রলোভনে ধর্ষণ ও ব্ল্যাকমেইলের অভিযোগে ঢাকা বিশ্ববিদ্যালয়ের এক শিক্ষার্থীকে আত্মসমর্পণের নির্দেশ দেওয়া হয়েছে।",
-        "lead_en": "A Dhaka University student has been ordered to surrender following allegations of rape and blackmail under false marriage promises.",
+        "published_at": "2026-10-25T10:00:37+00:00",
+        "lead_bn": "জনপ্রিয় সংগীতশিল্পী রাফি আলমের কণ্ঠে নতুন গান ঋণী আনুষ্ঠানিকভাবে মুক্তি পেয়েছে।",
+        "lead_en": "Popular musician Rafi Alam has officially released his brand new song titled Rhini.",
         "bullets_bn": [
-          "বিয়ের প্রলোভনে একাধিকবার ধর্ষণ ও আপত্তিকর ছবি তুলে ব্ল্যাকমেইলের অভিযোগ আনা হয়েছে।",
-          "অভিযুক্ত তাসমিম মাহিদ ঢাকা বিশ্ববিদ্যালয়ের ফলিত রসায়ন ও কেমিকৌশল বিভাগের শিক্ষার্থী।",
-          "আইনগত প্রক্রিয়ার অংশ হিসেবে অভিযুক্তকে নির্ধারিত সময়ের মধ্যে আদালতে আত্মসমর্পণের নির্দেশ দেওয়া হয়েছে।"
+          "সংগীতশিল্পী রাফি আলম তার নতুন গান ঋণী শ্রোতাদের মাঝে উন্মুক্ত করেছেন",
+          "গানটির মাধ্যমে নতুন ধারার সংগীতে শ্রোতাদের মনোযোগ আকর্ষণের চেষ্টা করা হয়েছে",
+          "গানটি বিভিন্ন অনলাইন প্ল্যাটফর্মে ভক্ত ও শ্রোতাদের জন্য উপলব্ধ রয়েছে"
         ],
         "bullets_en": [
-          "The accused faces multiple charges of rape under marriage promises and extortion using offensive photos.",
-          "Tasmim Mahid is identified as a student of the Applied Chemistry and Chemical Engineering department at Dhaka University.",
-          "Legal proceedings require the accused to surrender before the court within the specified timeframe."
+          "Musician Rafi Alam released his new song Rhini for audiences",
+          "The track aims to capture listener attention through a fresh musical style",
+          "The song is now available across various online platforms for fans"
         ],
-        "impact_bn": "এই ঘটনায় ক্যাম্পাস ও শিক্ষার্থী সমাজে নিরাপত্তা এবং নৈতিকতা নিয়ে নতুন করে সচেতনতা তৈরি হয়েছে।",
-        "impact_en": "This incident raises urgent concerns regarding student safety and accountability within the university community.",
-        "details_bn": "ঢাকা বিশ্ববিদ্যালয়ের শিক্ষার্থী তাসমিম মাহিদের বিরুদ্ধে বিয়ের প্রলোভন দেখিয়ে একাধিকবার ধর্ষণ এবং আপত্তিকর ছবি ও ভিডিও ধারণ করে তা ইন্টারনেটে ছড়িয়ে দেওয়ার ভয় দেখিয়ে ব্ল্যাকমেইল করার গুরুতর অভিযোগ ওঠে। ভুক্তভোগীর অভিযোগের ভিত্তিতে বিচারিক প্রক্রিয়া শুরু হয় এবং আদালত অভিযুক্তকে আত্মসমর্পণ করার নির্দেশ দেয়। বিশ্ববিদ্যালয় ও সামাজিক মহলে এই ঘটনা তীব্র প্রতিক্রিয়ার সৃষ্টি করেছে।",
-        "details_en": "Dhaka University student Tasmim Mahid faces serious allegations of luring a victim into multiple assaults under the false promise of marriage while capturing explicit content for blackmail. Following formal complaints, legal channels initiated proceedings culminating in a surrender directive. The case has sparked widespread concern regarding campus safety and student accountability."
+        "impact_bn": "গানটি সংগীতপ্রেমী তরুণ ও শ্রোতাদের মাঝে নতুন বিনোদন অভিজ্ঞতা তৈরি করবে",
+        "impact_en": "The song will offer a fresh entertainment experience for music-loving youth and general listeners",
+        "details_bn": "রাফি আলম দেশের সংগীত অঙ্গনে নিয়মিত নতুন গান ও পরিবেশনা নিয়ে হাজির হন। তার এই নতুন ট্র্যাকটি তার সঙ্গীত যাত্রায় নতুন মাত্রা যোগ করবে বলে আশা করা হচ্ছে। শ্রোতারা বিভিন্ন ডিজিটাল মাধ্যমে গানটি উপভোগ করতে পারছেন।",
+        "details_en": "Rafi Alam regularly presents new songs and performances in the countrys music arena. This new track is expected to add a new dimension to his musical journey. Listeners can enjoy the track across various digital mediums."
       }
     },
     {
-      "story_id": "1924d9c9-65f3-5c77-9275-ffc62b1cf043",
-      "primary_category": "world_diplomacy",
+      "story_id": "44006119-b63d-5618-b413-692034afe520",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
+        "climate_environment"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#SpaceX",
-        "#Starlink",
-        "#Ukraine"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T09:00:00+00:00",
+      "published_at": "2026-10-25T09:58:50+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.85,
+      "importance_score": 2.4,
+      "rank_score": 0.9516,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-          "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-          "snippet": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-          "title": "Ukraine: Starlink satellite speeds restored to normal",
-          "snippet": "Ukraine: Starlink satellite speeds restored to normal"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171764",
+          "title": "বাংলাদেশ বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ: স্পিকার",
+          "snippet": "বাংলাদেশ বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ: স্পিকার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইউক্রেনের সামরিক ব্যবহারের অভিযোগে স্টারলিংক সংযোগ সীমিত করেছে স্পেসএক্স",
-        "title_en": "SpaceX Restricted Ukraine Starlink Connection Over Military Usage Allegations",
-        "summary_bn": "ইউক্রেনীয় বাহিনী সামরিক উদ্দেশ্যে স্টারলিংক ব্যবহারের শর্ত লঙ্ঘন করায় ইন্টারনেট সেবা সীমিত করার কথা স্বীকার করেছেন স্পেসএক্স প্রধান ইলন মাস্ক।",
-        "summary_en": "SpaceX chief Elon Musk confirmed restricting Ukraine internet service after stating the military violated terms by using it for offensive operations.",
+        "title_bn": "বাংলাদেশ বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ: স্পিকার",
+        "title_en": "Bangladesh Ranks Among World Most Climate Vulnerable Nations: Speaker",
+        "summary_bn": "স্পিকার হাফিজ উদ্দিন আহমদ বীর বিক্রম উল্লেখ করেছেন যে সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির কারণে বাংলাদেশ তীব্র জলবায়ু ঝুঁকিতে রয়েছে।",
+        "summary_en": "Speaker Hafiz Uddin Ahmed Bir Bikrom stated that Bangladesh faces severe climate vulnerability due to rising sea levels.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T09:58:50+00:00",
+        "lead_bn": "স্পিকার হাফিজ উদ্দিন আহমদ বীর বিক্রম উল্লেখ করেছেন যে সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির কারণে বাংলাদেশ তীব্র জলবায়ু ঝুঁকিতে রয়েছে।",
+        "lead_en": "Speaker Hafiz Uddin Ahmed Bir Bikrom stated that Bangladesh faces severe climate vulnerability due to rising sea levels.",
+        "bullets_bn": [
+          "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির ফলে উপকূলীয় অঞ্চল মারাত্মক জলবায়ু সংকটের মুখোমুখি হচ্ছে।",
+          "স্পিকার হাফিজ উদ্দিন আহমদ বীর বিক্রম বাংলাদেশকে বিশ্বের অন্যতম জলবায়ু ঝুঁকিপূর্ণ দেশ হিসেবে চিহ্নিত করেছেন।",
+          "জলবায়ু পরিবর্তন মোকাবিলায় দ্রুত আন্তর্জাতিক সহায়তা ও কার্যকর পদক্ষেপ গ্রহণের তাগিদ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Coastal regions face severe climate crises driven by rising sea levels.",
+          "Speaker Hafiz Uddin Ahmed Bir Bikrom identified Bangladesh as one of the most climate-vulnerable nations globally.",
+          "Urgent international support and effective measures have been emphasized to tackle climate change."
+        ],
+        "impact_bn": "উপকূলীয় অঞ্চলের লাখ লাখ মানুষ নদীভাঙন, লবণাক্ততা এবং চরম আবহাওয়ার ঝুঁকিতে রয়েছে।",
+        "impact_en": "Millions of coastal residents face heightened risks of river erosion, salinity intrusion, and extreme weather events.",
+        "details_bn": "ভৌগোলিক অবস্থানের কারণে বাংলাদেশ বিশ্বজুড়ে জলবায়ু পরিবর্তনের সবচেয়ে মারাত্মক প্রভাবগুলোর শিকার। ঘন ঘন প্রাকৃতিক দুর্যোগ, ঘূর্ণিঝড় এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধির ফলে উপকূলীয় এলাকার জীবিকা ও বাস্তুতন্ত্র চরম হুমকির মুখে পড়েছে। আন্তর্জাতিক অঙ্গনে বাংলাদেশ দীর্ঘদিন ধরে জলবায়ু পরিবর্তন মোকাবিলায় ক্ষতিগ্রস্ত দেশগুলোর জন্য যথাযথ ক্ষতিপূরণ ও তহবিলের দাবি জানিয়ে আসছে।",
+        "details_en": "Due to its geographical location, Bangladesh bears the brunt of global climate change impacts. Frequent natural disasters, cyclones, and rising sea levels threaten the livelihoods and ecosystems of coastal regions. Internationally, Bangladesh has long advocated for adequate compensation and climate funds for vulnerable nations."
+      }
+    },
+    {
+      "story_id": "4a70fc95-a35e-5ad9-8615-a0ef09da6744",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#IsraelElections",
+        "#GadiEisenkot",
+        "#BenjaminNetanyahu"
+      ],
+      "image_url": "https://static.dw.com/image/79750417_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T10:00:45.905477+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6881,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+          "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+          "snippet": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নেতানিয়াহুর বিরুদ্ধে চ্যালেঞ্জ ছুড়ে মরক্কোর শেকড় ব্যবহার করছেন গাদি আইজেনকট",
+        "title_en": "Gadi Eisenkot Campaigns on Moroccan Roots to Challenge Netanyahu",
+        "summary_bn": "ইসরায়েলি রাজনীতিবিদ গাদি আইজেনকট প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে রাজনৈতিক চ্যালেঞ্জ জানাতে নিজের মরক্কোর শেকড়কে প্রচারণায় ব্যবহার করছেন।",
+        "summary_en": "Israeli politician Gadi Eisenkot is leveraging his Moroccan roots in political campaigns to mount a challenge against Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T09:00:00+00:00",
-        "lead_bn": "ইউক্রেনীয় বাহিনী সামরিক উদ্দেশ্যে স্টারলিংক ব্যবহারের শর্ত লঙ্ঘন করায় ইন্টারনেট সেবা সীমিত করার কথা স্বীকার করেছেন স্পেসএক্স প্রধান ইলন মাস্ক।",
-        "lead_en": "SpaceX chief Elon Musk confirmed restricting Ukraine internet service after stating the military violated terms by using it for offensive operations.",
+        "published_at": "2026-10-25T10:00:45.905477+00:00",
+        "lead_bn": "ইসরায়েলি রাজনীতিবিদ গাদি আইজেনকট প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে রাজনৈতিক চ্যালেঞ্জ জানাতে নিজের মরক্কোর শেকড়কে প্রচারণায় ব্যবহার করছেন।",
+        "lead_en": "Israeli politician Gadi Eisenkot is leveraging his Moroccan roots in political campaigns to mount a challenge against Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "বেসামরিক স্টারলিংক সেবা আক্রমণাত্মক ড্রোন হামলায় ব্যবহারের অভিযোগে সেবা সীমিত করেছে স্পেসএক্স।",
-          "সামরিক উদ্দেশ্যে ব্যবহারের মাধ্যমে ইউক্রেনীয় সামরিক বাহিনী সেবার শর্ত লঙ্ঘন করেছে বলে দাবি করেছেন ইলন মাস্ক।",
-          "যুক্তরাষ্ট্রের হস্তক্ষেপে সংযোগ পুনরুদ্ধার হওয়ার পর এই নিষেধাজ্ঞা ও নীতি লঙ্ঘনের বিষয়টি প্রকাশ্যে আসে।"
+          "ইসরায়েলি নির্বাচনে গাদি আইজেনকটের দল ইয়াশার মরক্কোর আরবি ও হিব্রু মিশ্রিত স্লোগান ব্যবহার করে প্রচারণা চালাচ্ছে।",
+          "এসডেরোট শহরে মরক্কীয় ইহুদি জনগোষ্ঠীর বড় উপস্থিতি রয়েছে যা দীর্ঘদিন ধরে নেতানিয়াহুর লিকুদ দলের ঘাঁটি হিসেবে পরিচিত।",
+          "ইসরায়েলের ইহুদি জনসংখ্যার প্রায় অর্ধেক বা প্রায় ৪০ লাখ মানুষ মধ্যপ্রাচ্য ও উত্তর আফ্রিকার মিরাহি বংশোদ্ভূত।"
         ],
         "bullets_en": [
-          "SpaceX restricted the civilian Starlink service following its use by Ukrainian forces for offensive drone strikes.",
-          "Elon Musk stated that the Ukrainian military violated service terms by using the network for military actions.",
-          "The connection was subsequently restored following discussions and intervention involving United States leadership."
+          "Eisenkot's Yashar party is campaigning in Israeli cities using slogans that combine Hebrew and Moroccan Arabic terms.",
+          "The city of Sderot features a large Moroccan Jewish community and has historically been a stronghold for Netanyahu's Likud party.",
+          "Approximately half of Israel's Jewish population, amounting to 4 million people, traces its origins to Middle Eastern and North African backgrounds."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইউক্রেনে রুশ আগ্রাসন শুরুর পর থেকেই দেশটির যোগাযোগ ব্যবস্থার মেরুদণ্ড হিসেবে কাজ করে আসছে স্পেসএক্সের স্টারলিংক স্যাটেলাইট ইন্টারনেট। যুদ্ধের ময়দানে সামরিক ও বেসামরিক যোগাযোগ রক্ষায় এটি অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করেছে। তবে বেসামরিক ব্যবহারের জন্য তৈরি এই প্রযুক্তি সামরিক কার্যক্রমে ব্যবহার করা নিয়ে এর আগেও ওয়াশিংটন ও কিয়েভের মধ্যে বিতর্ক সৃষ্টি হয়েছিল। মার্কিন নেতৃত্বের সাথে আলোচনার পর সংযোগ পুনরুদ্ধারের ঘটনাটি এই প্রযুক্তিগত ও ভূরাজনৈতিক উত্তেজনার নতুন মাত্রা যোগ করেছে।",
-        "details_en": "SpaceX's Starlink satellite internet has served as a vital communication backbone for Ukraine since the Russian invasion began. It has played a crucial role in maintaining military and civilian connectivity on the battlefields. However, the use of this civilian technology for military operations has previously sparked debates between Washington and Kyiv. The recent restoration of service following leadership interventions highlights ongoing tensions regarding the dual-use nature of commercial satellite networks in active conflict zones."
+        "details_bn": "ইসরায়েলে ইউরোপীয় বংশোদ্ভূত আশকেনাজি এবং মধ্যপ্রাচ্য বা উত্তর আফ্রিকা থেকে আসা মিরাহি ইহুদিদের মধ্যে দীর্ঘদিনের ঐতিহাসিক বিভাজন রয়েছে। এসডেরোট শহরের মতো অঞ্চলগুলোতে মিরাহি জনগোষ্ঠীর প্রভাব রাজনীতিতে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। ঐতিহ্যগতভাবে এসব অঞ্চল দক্ষিণপন্থী দলগুলোর শক্ত ঘাঁটি হিসেবে পরিচিত হলেও বর্তমান রাজনৈতিক পরিস্থিতিতে পরিবর্তন আনার চেষ্টা চলছে।",
+        "details_en": "Israel has long experienced historical socio-political divisions between Ashkenazim, Jews of European origin, and Mizrahim, Jews from Middle Eastern and North African backgrounds. Sderot and other peripheral cities symbolize Moroccan-Jewish culture and have traditionally served as strongholds for Israel's right-wing political parties, particularly Benjamin Netanyahu's Likud."
       }
     },
     {
-      "story_id": "1d69d011-0604-5a5f-a8f9-e7b82a49e343",
-      "primary_category": "climate_environment",
+      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment",
         "world_diplomacy",
+        "tech_innovation",
+        "governance_law",
         "society_education"
       ],
       "region": "international",
       "tags": [
-        "#Pesticides",
-        "#EuropeanCommission",
-        "#Environment"
+        "#ArtificialIntelligence",
+        "#SaudiArabia"
       ],
-      "image_url": "https://static.dw.com/image/77802067_6.jpg",
+      "image_url": "https://static.dw.com/image/78307185_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T09:00:51.521176+00:00",
+      "published_at": "2026-10-25T10:00:45.905477+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6879,
+      "rank_score": 0.6881,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-          "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-          "snippet": "EU moves to loosen rules on pesticide use as experts sound the alarm"
+          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কীটনাশক ব্যবহারে কড়াকড়ি শিথিল করার প্রস্তাব ইউরোপীয় কমিশনের",
-        "title_en": "European Commission Proposes Loosening Rules on Pesticide Use",
-        "summary_bn": "কৃষকদের সহায়তা ও অনুমোদন প্রক্রিয়া সহজ করার অংশ হিসেবে কীটনাশক ও হার্বিসাইডের ব্যবহার সংক্রান্ত আইন শিথিলের প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
-        "summary_en": "The European Commission has proposed relaxing pesticide and herbicide regulations to streamline farming laws and support agricultural competitiveness.",
+        "title_bn": "সৌদি আরবে সামরিক লক্ষ্যবস্তু নির্ধারণে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি সরবরাহ করছে যুক্তরাষ্ট্র",
+        "title_en": "United States Provides Artificial Intelligence Targeting Tools to Saudi Arabia",
+        "summary_bn": "ইয়েমেনি হুথি মিলিশিয়াদের হামলার মুখে থাকা সৌদি আরবকে সামরিক লক্ষ্যবস্তু শনাক্ত করতে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
+        "summary_en": "Facing attacks from Yemeni Houthi militants, Saudi Arabia is receiving artificial intelligence targeting tools and intelligence support from the United States.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "world_diplomacy",
+          "tech_innovation",
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T09:00:51.521176+00:00",
-        "lead_bn": "কৃষকদের সহায়তা ও অনুমোদন প্রক্রিয়া সহজ করার অংশ হিসেবে কীটনাশক ও হার্বিসাইডের ব্যবহার সংক্রান্ত আইন শিথিলের প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
-        "lead_en": "The European Commission has proposed relaxing pesticide and herbicide regulations to streamline farming laws and support agricultural competitiveness.",
+        "published_at": "2026-10-25T10:00:45.905477+00:00",
+        "lead_bn": "ইয়েমেনি হুথি মিলিশিয়াদের হামলার মুখে থাকা সৌদি আরবকে সামরিক লক্ষ্যবস্তু শনাক্ত করতে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
+        "lead_en": "Facing attacks from Yemeni Houthi militants, Saudi Arabia is receiving artificial intelligence targeting tools and intelligence support from the United States.",
         "bullets_bn": [
-          "কীটনাশক ব্যবহারের নিয়ম শিথিল করে অনির্দিষ্টকালের জন্য অনুমোদন দেওয়ার প্রস্তাব করা হয়েছে",
-          "কৃষক ও শিল্প খাতের চাপের মুখে এই পরিবর্তনের উদ্যোগ নেওয়া হয়েছে বলে জানিয়েছে কমিশন",
-          "মানবস্বাস্থ্য ও পরিবেশের ক্ষতির আশঙ্কায় বিজ্ঞানীরা এই পদক্ষেপের তীব্র বিরোধিতা করেছেন"
+          "সৌদি আরবকে যুদ্ধক্ষেত্রের রিয়েল-টাইম দৃশ্য দেখতে এবং লক্ষ্যবস্তু শনাক্ত করতে বিশেষ এআই টুল সরবরাহ করছে যুক্তরাষ্ট্র",
+          "যুক্তরাষ্ট্রের প্রজেক্ট মেভেনের আদলে তৈরি এই এমএসএস প্ল্যাটফর্ম উপগ্রহ ও ড্রোন ডেটা বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু চিহ্নিত করে",
+          "সৌদি ভূখণ্ডে যৌথ কমান্ডের অধীনে মোতায়েন থাকা একশ থেকে দুইশ মার্কিন সেনা এই প্রযুক্তি পরিচালনায় সহায়তা করছে"
         ],
         "bullets_en": [
-          "The commission proposed making indefinite greenlighting the default for primary pesticide substances",
-          "The policy shift responds to chronic administrative delays and demands from agricultural industry groups",
-          "Scientists and medical experts warned that public health and environmental safeguards are being ignored"
+          "The United States is providing AI-enabled targeting tools to help Saudi Arabia monitor the battlefield in real time.",
+          "The Maven Smart System platform analyzes data from satellite feeds and drones to identify potential military targets.",
+          "Between 100 and 200 US military personnel stationed in Saudi Arabia are assisting local forces with the intelligence system."
         ],
-        "impact_bn": "কৃষি পণ্যের নিরাপত্তা ও মানবস্বাস্থ্যে ক্ষতিকর প্রভাব পড়ার শঙ্কা তৈরি হওয়ায় বিশ্বব্যাপী খাদ্য নিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
-        "impact_en": "Public health risks and long-term environmental degradation threaten global food safety standards and consumer protection.",
-        "details_bn": "ইউরোপীয় ইউনিয়নে বর্তমানে ২০১১ সালের নিয়ম অনুযায়ী কীটনাশকের মূল উপাদানগুলো সর্বোচ্চ ১৫ বছরের জন্য অনুমোদিত হয়। কৃষি খাতের দীর্ঘমেয়াদী প্রশাসনিক জটিলতা ও আমলাতান্ত্রিক বিলম্বের অভিযোগ তুলে ইউরোপীয় কমিশন এই নিয়মে বড় ধরণের পরিবর্তনের প্রস্তাব করেছে। তবে গ্লাইফোসেটের মতো ক্ষতিকর রাসায়নিকের ব্যবহার অনির্দিষ্টকালের জন্য উন্মুক্ত করার এই পদক্ষেপে জনস্বাস্থ্য ও পরিবেশ নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন বিশেষজ্ঞরা।",
-        "details_en": "Current EU rules dating back to 2011 limit primary pesticide approvals to a maximum of 15 years. Citing chronic delays and administrative bottlenecks, the European Commission advanced plans to make open-ended authorizations the default. While agricultural associations welcomed the move to ease burdens on farmers, scientists and medical professionals expressed alarm over human health risks and environmental hazards associated with prolonged chemical exposure."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের লাগাতার ড্রোন ও ক্ষেপণাস্ত্র হামলার মুখে প্রতিরক্ষামূলক ব্যবস্থার অংশ হিসেবে সৌদি আরব মার্কিন সহায়তা চেয়েছে। মার্কিন প্রেসিডেন্ট সরাসরি সামরিক হস্তক্ষেপ না করলেও গোয়েন্দা তথ্য এবং উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির মাধ্যমে সৌদি সামরিক বাহিনীকে সহযোগিতা করছে। ২০১৭ সালে চালু হওয়া প্রজেক্ট মেভেন থেকে উদ্ভূত এই প্রযুক্তি যুদ্ধক্ষেত্রে গোয়েন্দা তথ্য প্রক্রিয়াজাতকরণ ও লক্ষ্যবস্তু নির্ধারণে গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
+        "details_en": "Amid continuous drone and missile attacks from Houthi rebels in Yemen, Saudi Arabia sought defensive assistance from international allies. Although direct military intervention was declined, the United States deployed personnel and intelligence tools to support Saudi defenses. Developed from the US military's Project Maven initiative launched in 2017, the AI-driven software aggregates surveillance data to assist military officers in identifying battlefield targets."
       }
     }
   ]
