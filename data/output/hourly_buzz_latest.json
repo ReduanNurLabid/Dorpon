@@ -1,66 +1,9 @@
 {
-  "updated_at": "2026-10-25T19:00:45.188915",
+  "updated_at": "2026-10-25T20:00:47.900094",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "f1085a0a-f42f-5cbb-a0fb-94ebeb415cec",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T18:44:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2631,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171953",
-          "title": "টোকিওর উদ্দেশে ঢাকা ছাড়লেন প্রধানমন্ত্রী",
-          "snippet": "টোকিওর উদ্দেশে ঢাকা ছাড়লেন প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে টোকিও পৌঁছেছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Arrives in Tokyo on Four-Day Official Visit",
-        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে টোকিওর উদ্দেশে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman left Dhaka for Tokyo on a four-day official visit at the invitation of the Japanese Prime Minister.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T18:44:23+00:00",
-        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে টোকিওর উদ্দেশে ঢাকা ছেড়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman left Dhaka for Tokyo on a four-day official visit at the invitation of the Japanese Prime Minister.",
-        "bullets_bn": [
-          "জাপানি প্রধানমন্ত্রীর বিশেষ আমন্ত্রণে চার দিনের সরকারি সফরে টোকিও যাত্রা করেছেন প্রধানমন্ত্রী।",
-          "সফরে দুই দেশের দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণ এবং অর্থনৈতিক সহযোগিতা বৃদ্ধির বিষয়ে উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হবে।",
-          "সফর শেষে প্রধানমন্ত্রী ঢাকা প্রত্যাবর্তন করবেন এবং সংশ্লিষ্ট দ্বিপক্ষীয় চুক্তিগুলো চূড়ান্ত হবে।"
-        ],
-        "bullets_en": [
-          "The Prime Minister departed for Tokyo on a four-day official visit following an invitation from the Japanese Prime Minister.",
-          "High-level meetings will focus on expanding bilateral trade and strengthening economic cooperation between the two nations.",
-          "The Prime Minister will return to Dhaka after concluding the diplomatic engagements and finalizing bilateral agreements."
-        ],
-        "impact_bn": "এই সফরের মাধ্যমে দুই দেশের অর্থনৈতিক অংশীদারিত্ব জোরদার হবে এবং বাংলাদেশের তরুণদের জন্য প্রযুক্তি ও কর্মসংস্থানের নতুন সুযোগ তৈরি হতে পারে।",
-        "impact_en": "This visit will strengthen economic partnership and potentially create new technological and employment opportunities for the youth.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক সুসম্পর্ক রয়েছে। বিভিন্ন মেগা প্রকল্পে জাপানি বিনিয়োগ ও সহযোগিতা বাংলাদেশের উন্নয়নে গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। বর্তমান সরকারের এই কূটনৈতিক সফরে দুই দেশের সম্পর্ক নতুন উচ্চতায় উন্নীত হবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share longstanding diplomatic and economic ties. Japanese investment and assistance in major infrastructure projects have played a vital role in national development. This diplomatic visit by the new administration is expected to elevate bilateral relations to new heights."
-      }
-    },
-    {
-      "story_id": "96ce7a5f-ab3c-55a6-b6c9-cad220a842d5",
+      "story_id": "02544b0c-70de-5b50-b51e-1ba8274efe34",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,171 +13,219 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-06-06%2Fylqk54ud%2Fprothomalo-bangla2025-02-18f5qol2bs09f7eb82-f699-43cb-9f3f-4d736d63793c.avif?rect=0%2C37%2C621%2C326&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T18:47:52+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7021,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/a2zqm9jrgb",
-          "title": "পুলিশ কর্মকর্তার বাড়ি থেকে ৮৫ জনকে গ্রেপ্তার ও দণ্ড, ‘মোরাল পুলিশিং’ নিয়ে উদ্বেগ",
-          "snippet": "পুলিশ কর্মকর্তার বাড়ি থেকে ৮৫ জনকে গ্রেপ্তার ও দণ্ড, ‘মোরাল পুলিশিং’ নিয়ে উদ্বেগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খিলখেতে পুলিশি অভিযানে আটক ৮৫ জনের মুক্তি ও স্বাধীন তদন্তের দাবি ১০১ নাগরিকের",
-        "title_en": "Citizens Demand Release of 85 Detained in Khilkhet Police Raid",
-        "summary_bn": "একশো এক জন বিশিষ্ট নাগরিক রাজধানীর খিলখেতে পুলিশি অভিযানে পঁচাশি জনকে গ্রেপ্তারের ঘটনার স্বাধীন তদন্ত ও অবিলম্বে মুক্তির দাবি জানিয়েছেন।",
-        "summary_en": "One hundred and one prominent citizens demanded an independent investigation and immediate release of eighty-five people arrested in a police raid in Khilkhet.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T18:47:52+00:00",
-        "lead_bn": "একশো এক জন বিশিষ্ট নাগরিক রাজধানীর খিলখেতে পুলিশি অভিযানে পঁচাশি জনকে গ্রেপ্তারের ঘটনার স্বাধীন তদন্ত ও অবিলম্বে মুক্তির দাবি জানিয়েছেন।",
-        "lead_en": "One hundred and one prominent citizens demanded an independent investigation and immediate release of eighty-five people arrested in a police raid in Khilkhet.",
-        "bullets_bn": [
-          "পুলিশের ঊর্ধ্বতন কর্মকর্তার বাসায় গভীর রাতে অভিযান চালিয়ে ২৬ জন নারীসহ ৮৫ জনকে গ্রেপ্তার এবং সংক্ষিপ্ত বিচারে কারাদণ্ড দেওয়া হয়",
-          "গ্রেপ্তার পুরুষদের ৩০ দিন এবং নারীদের ১৫ দিন কারাদণ্ড দেওয়া হলেও নির্দিষ্ট কোনো অভিযোগ বা প্রমাণ সংবাদমাধ্যমে স্পষ্ট করা হয়নি",
-          "আইন লঙ্ঘনকারীদের জবাবদিহি নিশ্চিত করা এবং নাগরিকদের ব্যক্তিগত জীবন ও গোপনীয়তায় পুলিশি হস্তক্ষেপ বন্ধের দাবি জানানো হয়েছে"
-        ],
-        "bullets_en": [
-          "Eighty-five individuals including twenty-six women were arrested and sentenced in a summary trial during a midnight raid at a senior police official residence",
-          "Men received thirty-day terms and women fifteen-day terms without clear charges or publicly presented evidence of wrongdoing",
-          "Signatories demanded accountability for law violations and an immediate halt to police intrusion into private lives and personal privacy"
-        ],
-        "impact_bn": "আইন প্রয়োগকারী সংস্থার মাধ্যমে ব্যক্তিগত স্বাধীনতায় অযাচিত হস্তক্ষেপ সাধারণ মানুষের গোপনীয়তা ও মৌলিক অধিকারের সুরক্ষাকে মারাত্মকভাবে ঝুঁকির মধ্যে ফেলছে।",
-        "impact_en": "Unwarranted law enforcement interference in private autonomy severely threatens the privacy and fundamental rights of ordinary citizens.",
-        "details_bn": "রাজধানীর খিলখেতে পুলিশের এক ঊর্ধ্বতন কর্মকর্তার বাসায় আয়োজিত একটি অনুষ্ঠানে গভীর রাতে অভিযান চালায় গোয়েন্দা পুলিশ। অভিযানে ২৬ জন নারীসহ ৮৫ জনকে আটক করে সংক্ষিপ্ত বিচারে পুরুষদের ৩০ দিন এবং নারীদের ১৫ দিন কারাদণ্ড দেওয়া হয়। আটক ব্যক্তিদের আইনজীবীর সঙ্গে কথা বলার সুযোগ না দিয়ে গণমাধ্যমে পরিচয় প্রকাশ করায় তীব্র নিন্দা জানান ১০১ জন নাগরিক। ব্যক্তিগত পছন্দ ও জীবনযাত্রায় পুলিশি হস্তক্ষেপকে তাঁরা নৈতিকতা নিয়ন্ত্রণ বা মোরাল পুলিশিং হিসেবে আখ্যা দিয়ে নিরপেক্ষ তদন্ত দাবি করেন।",
-        "details_en": "Detectives conducted a midnight raid at a senior police officer residence in Khilkhet, detaining eighty-five people including twenty-six women who received summary prison sentences. Detainees were reportedly denied legal counsel while their identities were broadcasted by media outlets. One hundred and one citizens strongly condemned the incident as moral policing and demanded an independent inquiry into the legality of the raid and subsequent privacy violations."
-      }
-    },
-    {
-      "story_id": "f78816a5-09a9-5ea1-8071-60a255b33a51",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Mohammadpur",
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/arrest_3%20%281%29%20%281%29.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-25T17:24:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.9056,
-      "sources": [
-        {
-          "name": "The Daily Star",
-          "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-personnel-among-six-arrested-over-alleged-abduction-tk-10-lakh-ransom-demand-mohammadpur-4307246",
-          "title": "Two DGFI personnel among six arrested over alleged abduction, Tk 10 lakh ransom demand in Mohammadpur",
-          "snippet": "Two DGFI personnel among six arrested over alleged abduction, Tk 10 lakh ransom demand in Mohammadpur"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মোহাম্মদপুরে অপহরণ ও দশ লাখ টাকা চাঁদা দাবির অভিযোগে ডেমোক্রেসি ডিজিএফআই সদস্যসহ ছয়জন গ্রেপ্তার",
-        "title_en": "Six Arrested Over Alleged Abduction and Ransom Demand in Mohammadpur",
-        "summary_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে অপহরণ করে মুক্তিপণ দাবির অভিযোগে দুই ডিজিএফআই সদস্যসহ ছয়জনকে গ্রেপ্তার করে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "Police arrested six individuals, including two intelligence personnel, for allegedly abducting a businessman and demanding a ransom in Dhaka.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T17:24:39+00:00",
-        "lead_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে অপহরণ করে মুক্তিপণ দাবির অভিযোগে দুই ডিজিএফআই সদস্যসহ ছয়জনকে গ্রেপ্তার করে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "Police arrested six individuals, including two intelligence personnel, for allegedly abducting a businessman and demanding a ransom in Dhaka.",
-        "bullets_bn": [
-          "পুলিশ মোহাম্মদপুর এলাকা থেকে দুই ডিজিএফআই সদস্য ও এক আনসার সদস্যসহ মোট ছয়জনকে গ্রেপ্তার করেছে।",
-          "অভিযুক্তরা এক মোটরসাইকেল ব্যবসায়ীকে একটি ফ্ল্যাটে আটকে রেখে দশ লাখ টাকা মুক্তিপণ দাবি করে এবং নগদ সত্তর হাজার টাকা ছিনিয়ে নেয়।",
-          "আসামিদের আদালতে হাজির করা হলে বিচারক তাদের কারাগারে পাঠানোর নির্দেশ দেন।"
-        ],
-        "bullets_en": [
-          "Police arrested six individuals, including two intelligence personnel and an Ansar member, from Dhaka's Mohammadpur area.",
-          "The suspects confined a motorcycle trader in a flat, assaulted him, and demanded Tk 10 lakh in ransom after taking Tk 70,000 in cash.",
-          "All six accused were produced before the court and subsequently sent to jail pending further legal proceedings."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের অপরাধমূলক কর্মকাণ্ডে জড়িয়ে পড়া সাধারণ মানুষের নিরাপত্তা ও আস্থার ওপর নেতিবাচক প্রভাব ফেলে।",
-        "impact_en": "Such criminal involvement by security personnel raises serious safety concerns for ordinary citizens and erodes public trust in law enforcement.",
-        "details_bn": "মোহাম্মদপুরের চন্দ্রিমা মডেল টাউনে এক মোটরসাইকেল ব্যবসায়ীকে কৌশলে ডেকে নিয়ে আটকে রাখার ঘটনা ঘটে। পূর্বপরিচিত এক আনসার সদস্যের সহায়তায় ভুক্তভোগীকে একটি ফ্ল্যাটে নিয়ে যাওয়ার পর ডিজিএফআইয়ের দুই সদস্যসহ অন্যরা তাকে মারধর করে এবং পরিবারের কাছে দশ লাখ টাকা মুক্তিপণ দাবি করে। খবর পেয়ে পুলিশ অভিযান চালিয়ে ছয়জনকে আটক করে এবং আদালতে সোপর্দ করে।",
-        "details_en": "The incident occurred in Dhaka's Mohammadpur when a motorcycle trader was lured to a residential flat under the pretext of a vehicle purchase. An Ansar member facilitated the trap, after which intelligence personnel and accomplices confined the trader, physically assaulted him, and extorted cash while demanding a large ransom. Police intervened following distress signals and apprehended the suspects."
-      }
-    },
-    {
-      "story_id": "66509ef1-cf84-5531-a52e-1576be7af941",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "climate_environment",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T18:53:43+00:00",
+      "published_at": "2026-10-25T19:50:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9022,
+      "importance_score": 4.8,
+      "rank_score": 1.7548,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/976759/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%98-%E0%A6%A2%E0%A7%81%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B9%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A7%A9-%E0%A6%9C%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%9B%E0%A7%87",
-          "title": "ভারত থেকে বাঘ ঢুকে আহত করেছে ৩ জনকে, লুকিয়ে আছে কৃষিজমিতে",
-          "snippet": "ভারত থেকে বাঘ ঢুকে আহত করেছে ৩ জনকে, লুকিয়ে আছে কৃষিজমিতে"
+          "url": "https://www.banglatribune.com/country/sylhet/976765/%E0%A6%A6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%98%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE-%E2%80%98%E0%A6%9A%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A7%8E%E0%A6%B8%E0%A6%95%E0%A6%95%E0%A7%87%E2%80%99-%E0%A6%9A%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95",
+          "title": "দীর্ঘদিন নজরদারিতে থাকা ‘চিকিৎসককে’ চেম্বার থেকে আটক",
+          "snippet": "দীর্ঘদিন নজরদারিতে থাকা ‘চিকিৎসককে’ চেম্বার থেকে আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত থেকে বাঘ প্রবেশ করে লালমনিরহাটে তিনজনকে আহত করেছে",
-        "title_en": "Tiger Enters From India And Injures Three In Lalmonirhat",
-        "summary_bn": "সীমান্ত পেরিয়ে ভারতীয় ভূখণ্ড থেকে লালমনিরহাটের হাতীবান্ধা উপজেলায় ঢুকে পড়া একটি বাঘের আক্রমণে তিনজন আহত হয়েছেন।",
-        "summary_en": "A tiger crossing the border from India into Hatibandha upazila of Lalmonirhat has left three people injured.",
+        "title_bn": "হবিগঞ্জে অন্যের পরিচয় ব্যবহার করে চিকিৎসা দেওয়ায় ভুয়া চিকিৎসক আটক",
+        "title_en": "Fake Doctor Arrested in Habiganj for Practicing Using Another Physician Identity",
+        "summary_bn": "আইন প্রয়োগকারী সংস্থা ও প্রশাসনের যৌথ অভিযানে হবিগঞ্জ শহর থেকে অন্য চিকিৎসকের পরিচয় ব্যবহারকারী এক ভুয়া চিকিৎসক আটক হয়েছেন।",
+        "summary_en": "A fake doctor using another physician identity was arrested from Habiganj town during a joint raid by law enforcement and administration.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "climate_environment",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T18:53:43+00:00",
-        "lead_bn": "সীমান্ত পেরিয়ে ভারতীয় ভূখণ্ড থেকে লালমনিরহাটের হাতীবান্ধা উপজেলায় ঢুকে পড়া একটি বাঘের আক্রমণে তিনজন আহত হয়েছেন।",
-        "lead_en": "A tiger crossing the border from India into Hatibandha upazila of Lalmonirhat has left three people injured.",
+        "published_at": "2026-10-25T19:50:59+00:00",
+        "lead_bn": "আইন প্রয়োগকারী সংস্থা ও প্রশাসনের যৌথ অভিযানে হবিগঞ্জ শহর থেকে অন্য চিকিৎসকের পরিচয় ব্যবহারকারী এক ভুয়া চিকিৎসক আটক হয়েছেন।",
+        "lead_en": "A fake doctor using another physician identity was arrested from Habiganj town during a joint raid by law enforcement and administration.",
         "bullets_bn": [
-          "সীমান্তবর্তী এলাকা দিয়ে বাংলাদেশে প্রবেশ করা বাঘের আক্রমণে তিনজন স্থানীয় বাসিন্দা আহত হন।",
-          "আহতদের উন্নত চিকিৎসার জন্য দ্রুত রংপুর মেডিকেল কলেজ হাসপাতালে পাঠানো হয়েছে।",
-          "বন বিভাগ ও বর্ডার গার্ড বাংলাদেশ বাঘটিকে ধরতে এবং স্থানীয়দের নিরাপত্তা নিশ্চিত করতে কাজ করছে।"
+          "জেলা প্রশাসন ও সিভিল সার্জন কার্যালয়ের সহায়তায় এসআরবি-৯ যৌথ অভিযান চালিয়ে এই ভুয়া চিকিৎসককে আটক করে",
+          "আটক আরিফ মিয়া দীর্ঘদিন ধরে হবিগঞ্জ শহরের শায়েস্তানগর এলাকার একটি ডায়াগনস্টিক সেন্টারে রোগীদের চিকিৎসাসেবা দিয়ে আসছিলেন",
+          "টাঙ্গাইল জেলার বাসিন্দা এই অভিযুক্তের বিরুদ্ধে আইনি প্রক্রিয়া ও পরবর্তী পদক্ষেপ গ্রহণের কার্যক্রম চলমান রয়েছে"
         ],
         "bullets_en": [
-          "Three local residents sustained injuries in an attack by a tiger that entered Bangladesh through the border area.",
-          "The injured individuals were rushed to Rangpur Medical College Hospital for advanced medical treatment.",
-          "Forest department officials and Border Guard Bangladesh are working to track the tiger and secure the area."
+          "SRB-9 conducted a joint raid assisting the district administration and civil surgeon office to detain the fake doctor",
+          "The detainee Arif Mia had been providing medical services to patients at a diagnostic centre in Shaestanagar area",
+          "Legal proceedings and further administrative actions are currently underway against the accused hailing from Tangail district"
         ],
-        "impact_bn": "সীমান্ত এলাকার স্থানীয় বাসিন্দাদের মধ্যে বাঘের আতঙ্ক ছড়িয়ে পড়ায় বাড়তি সতর্কতা অবলম্বন করা হচ্ছে।",
-        "impact_en": "Heightened safety alerts have been issued as fear of the wild animal spreads among border residents.",
-        "details_bn": "লালমনিরহাটের হাতীবান্ধা উপজেলার গোতামারী ইউনিয়নের বনচৌকি সীমান্ত এলাকায় একটি বাঘ প্রবেশের পর স্থানীয়দের মধ্যে আতঙ্ক সৃষ্টি হয়। বন বিভাগ ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী দ্রুত ঘটনাস্থলে পৌঁছে পরিস্থিতি নিয়ন্ত্রণে আনার চেষ্টা চালাচ্ছে এবং আহতদের চিকিৎসাসেবা নিশ্চিত করা হয়েছে। বন্যপ্রাণীটি সীমান্ত অতিক্রম করে আসায় স্থানীয় প্রশাসন ও বিজিবি যৌথভাবে নজরদারি বাড়িয়েছে।",
-        "details_en": "Panic gripped locals after a tiger crossed the border into the Bonchouki frontier area of Gotamari union in Hatibandha upazila. Forest department personnel and law enforcement agencies rushed to the scene to manage the situation and ensure medical care for the victims. Given that the animal crossed from across the border, local administration and border guards have increased surveillance."
+        "impact_bn": "ভুয়া চিকিৎসকের প্রতারণা থেকে সাধারণ রোগীরা রক্ষা পাবেন এবং চিকিৎসাসেবায় সুরক্ষা নিশ্চিত হবে।",
+        "impact_en": "Ordinary patients will be protected from medical fraud and safety in healthcare services will be ensured.",
+        "details_bn": "হবিগঞ্জ শহরে দীর্ঘদিন ধরে কিছু অসাধু ব্যক্তি ভুয়া পরিচয় দিয়ে চিকিৎসা সেবা চালিয়ে আসছিল বলে অভিযোগ ছিল। এর প্রেক্ষিতে প্রশাসন ও আইন প্রয়োগকারী সংস্থা যৌথ নজরদারি বৃদ্ধি করে। এরই ধারাবাহিকতায় শায়েস্তানগর এলাকার একটি ডায়াগনস্টিক সেন্টারে অভিযান চালিয়ে ভুয়া চিকিৎসককে হাতেনাতে আটক করা হয়। স্বাস্থ্যখাতের শৃঙ্খলা ফেরাতে এ ধরনের অভিযান অব্যাহত রয়েছে।",
+        "details_en": "Allegations persisted that dishonest individuals had been operating as fake doctors in Habiganj town for a long time. Consequently, the administration and law enforcement increased joint surveillance. Following this, a raid at a diagnostic centre in the Shaestanagar area led to the apprehension of the fraudulent practitioner. Such operations continue to restore discipline in the health sector."
       }
     },
     {
-      "story_id": "698238f9-5c2c-550b-9016-e2b51fb31a52",
+      "story_id": "8d145ea9-d4cd-5f43-9303-4a0061a7093b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T19:48:36+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7139,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1171957",
+          "title": "আমজনতার তারেক রহমানের সমালোচকদের অধিকাংশই গুপ্ত: রাশেদ খাঁন",
+          "snippet": "আমজনতার তারেক রহমানের সমালোচকদের অধিকাংশই গুপ্ত: রাশেদ খাঁন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তারেক রহমানের সমালোচকদের অধিকাংশই ফ্যাসিবাদী আমলে গুপ্ত ছিলেন: রাশেদ খাঁন",
+        "title_en": "Most Critics of Tarique Rahman Were Hidden During Fascist Rule: Rashed Khan",
+        "summary_bn": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন মন্তব্য করেছেন যে আমজনতা দলের নেতা তারেক রহমানের সমালোচকদের অধিকাংশই ফ্যাসিবাদী শাসনামলে আত্মগোপনে ছিলেন।",
+        "summary_en": "Prime Minister Political Assistant Rashed Khan stated that most critics of Aam Jonota Dal leader Tarique Rahman remained hidden during the fascist rule.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T19:48:36+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন মন্তব্য করেছেন যে আমজনতা দলের নেতা তারেক রহমানের সমালোচকদের অধিকাংশই ফ্যাসিবাদী শাসনামলে আত্মগোপনে ছিলেন।",
+        "lead_en": "Prime Minister Political Assistant Rashed Khan stated that most critics of Aam Jonota Dal leader Tarique Rahman remained hidden during the fascist rule.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন তারেক রহমানের সমালোচকদের ভূমিকা নিয়ে মন্তব্য প্রকাশ করেন।",
+          "সমালোচকদের একটি বড় অংশ ফ্যাসিবাদী শাসনামলে আত্মগোপনে ছিলেন বলে তিনি উল্লেখ করেন।",
+          "রাজনৈতিক সমীকরণ এবং অতীত ভূমিকা নিয়ে দেশজুড়ে নতুন আলোচনার সূত্রপাত হয়েছে।"
+        ],
+        "bullets_en": [
+          "Prime Minister political assistant Rashed Khan commented on the role of Tarique Rahman critics.",
+          "He noted that a large portion of these critics remained in hiding during the fascist regime.",
+          "The remarks sparked fresh political discussions regarding past roles and current political dynamics."
+        ],
+        "impact_bn": "এই রাজনৈতিক মন্তব্য নাগরিকদের মধ্যে চলমান রাজনৈতিক মেরুকরণ ও অতীত ইতিহাস নিয়ে নতুন চিন্তার খোরাক জোগাবে।",
+        "impact_en": "This political remark sparks fresh public thought regarding ongoing political polarization and historical accountability.",
+        "details_bn": "সাম্প্রতিক রাজনৈতিক পরিস্থিতিতে বিভিন্ন নেতার ভূমিকা ও তাদের অতীত অবস্থান নিয়ে নানা আলোচনা চলছে। ফ্যাসিবাদী শাসন ব্যবস্থার পতনের পর রাজনৈতিক দল ও তাদের নেতৃবৃন্দের কার্যক্রম নিয়ে বিভিন্ন মন্তব্য সামনে আসছে, যা দেশের বর্তমান রাজনৈতিক দৃশ্যপটকে প্রভাবিত করছে। রাশেদ খাঁনের এই মন্তব্য রাজনৈতিক মহলে নতুন বিতর্কের জন্ম দিয়েছে।",
+        "details_en": "Discussions regarding the roles of various leaders and their past stances persist in the current political landscape. Following the fall of the fascist regime, remarks concerning the activities of political figures continue to emerge, shaping the national political scenario. This statement by Rashed Khan has generated fresh debates within political circles."
+      }
+    },
+    {
+      "story_id": "e1838023-2b7c-5a82-bf39-0da9b156a9ef",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T19:59:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9614,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/cricket/976751/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%89%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1-%E0%A6%B6%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%AF",
+          "title": "শেষ উইকেটে বিশ্বরেকর্ড, শাদাবের অবিশ্বাস্য সেঞ্চুরিতে পাকিস্তানের রূপকথার জয়",
+          "snippet": "শেষ উইকেটে বিশ্বরেকর্ড, শাদাবের অবিশ্বাস্য সেঞ্চুরিতে পাকিস্তানের রূপকথার জয়"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শেষ উইকেটে বিশ্বরেকর্ড গড়ে পাকিস্তানের অবিশ্বাস্য জয়",
+        "title_en": "Pakistan Secures Dramatic Win with Record Tenth-Wicket Stand",
+        "summary_bn": "শেষ উইকেটে দুর্দান্ত বিশ্বরেকর্ড গড়ে ইংল্যান্ডের বিপক্ষে নাটকীয় জয় তুলে নিয়েছে পাকিস্তান ক্রিকেট দল।",
+        "summary_en": "Pakistan secured a dramatic victory against England through a record-breaking tenth-wicket partnership.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T19:59:49+00:00",
+        "lead_bn": "শেষ উইকেটে দুর্দান্ত বিশ্বরেকর্ড গড়ে ইংল্যান্ডের বিপক্ষে নাটকীয় জয় তুলে নিয়েছে পাকিস্তান ক্রিকেট দল।",
+        "lead_en": "Pakistan secured a dramatic victory against England through a record-breaking tenth-wicket partnership.",
+        "bullets_bn": [
+          "শেষ উইকেটে অবিশ্বাস্য জুটি গড়ে পাকিস্তানের রূপকথার জয় নিশ্চিত করেন শাদাব খান ও হারিস রউফ",
+          "মাত্র ১৫৪ রানে নয় উইকেট হারানোর পর জয়ের জন্য পাকিস্তানের দরকার ছিল ৮৮ রান",
+          "ওয়ানডে ইতিহাসে সফল রান তাড়ায় দশম উইকেটে সর্বোচ্চ জুটির বিশ্বরেকর্ড গড়েছে পাকিস্তান"
+        ],
+        "bullets_en": [
+          "Shadab Khan and Haris Rauf secured a remarkable victory for Pakistan through an incredible final-wicket partnership",
+          "Pakistan needed 88 runs with only one wicket remaining after slumping to 154 for nine",
+          "Pakistan set a world record for the highest tenth-wicket partnership in a successful ODI run chase"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "লাহোরে ইংল্যান্ডের বিপক্ষে ওয়ানডে ম্যাচে হারের মুখে পড়েছিল পাকিস্তান। ১৫৪ রানে ৯ উইকেট হারিয়ে পরাজয় যখন নিশ্চিত প্রায়, তখন শাদাব খানের ক্যারিয়ারের প্রথম ওয়ানডে সেঞ্চুরি এবং শেষ ব্যাটার হারিস রউফকে সঙ্গে নিয়ে গড়া দুর্দান্ত জুটি পাকিস্তানকে ঐতিহাসিক এক জয়ের বন্দরে পৌঁছে দেয়। এই জয়ে ওয়ানডে ক্রিকেটের ইতিহাসে দশম উইকেটে সর্বোচ্চ রানের নতুন বিশ্বরেকর্ড রচিত হয়।",
+        "details_en": "Pakistan faced certain defeat in the ODI match against England in Lahore after slipping to 154 for nine. Shadab Khan scored his maiden ODI century and partnered with final batsman Haris Rauf to script an unforgettable comeback. This remarkable feat set a new world record for the highest tenth-wicket partnership in ODI run chases."
+      }
+    },
+    {
+      "story_id": "57dfc102-fa09-5d51-b4a8-c2c1099125ce",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T19:09:02+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6101,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171955",
+          "title": "জামালপুর নার্সিং কলেজে আমরণ অনশনে ৩ শিক্ষার্থী",
+          "snippet": "জামালপুর নার্সিং কলেজে আমরণ অনশনে ৩ শিক্ষার্থী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জামালপুর নার্সিং কলেজে নতুন ইন্সট্রাক্টর ইনচার্জের বাতিলের দাবিতে অনশন",
+        "title_en": "Nursing Students Go on Hunger Strike Demanding Instructor Removal in Jamalpur",
+        "summary_bn": "জামালপুর নার্সিং ও মিডওয়াইফারি কলেজের তিন শিক্ষার্থী নতুন ইন্সট্রাক্টর ইনচার্জের পদায়ন বাতিলের দাবিতে আমরণ অনশন শুরু করেছেন।",
+        "summary_en": "Three nursing students have launched an indefinite hunger strike demanding the cancellation of a new instructor in charge at Jamalpur Nursing College.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T19:09:02+00:00",
+        "lead_bn": "জামালপুর নার্সিং ও মিডওয়াইফারি কলেজের তিন শিক্ষার্থী নতুন ইন্সট্রাক্টর ইনচার্জের পদায়ন বাতিলের দাবিতে আমরণ অনশন শুরু করেছেন।",
+        "lead_en": "Three nursing students have launched an indefinite hunger strike demanding the cancellation of a new instructor in charge at Jamalpur Nursing College.",
+        "bullets_bn": [
+          "পদায়ন আদেশ বাতিলের দাবিতে জামালপুর নার্সিং ও মিডওয়াইফারি কলেজের তিন শিক্ষার্থী আমরণ অনশন শুরু করেছেন।",
+          "নতুন ইন্সট্রাক্টর ইনচার্জের পদায়ন বাতিলের দাবিতে শিক্ষার্থীরা এর আগে টানা ১৩ দিন ধরে কমপ্লিট শাটডাউন কর্মসূচি পালন করেন।",
+          "কর্তৃপক্ষ আন্দোলনরত শিক্ষার্থীদের দাবি নিয়ে কোনো সুনির্দিষ্ট সিদ্ধান্ত বা সমাধান না দেওয়ায় অনশন কর্মসূচি শুরু হয়েছে।"
+        ],
+        "bullets_en": [
+          "Three students of Jamalpur Nursing and Midwifery College launched an indefinite hunger strike demanding cancellation of the instructor's posting.",
+          "Students previously enforced a complete shutdown program for 13 consecutive days demanding the removal of the new instructor in charge.",
+          "The hunger strike began as authorities failed to provide any concrete decision or resolution addressing the protesting students' demands."
+        ],
+        "impact_bn": "এই আন্দোলনের কারণে নার্সিং কলেজের শিক্ষা কার্যক্রম ব্যাহত হচ্ছে, যা সাধারণ শিক্ষার্থীদের একাডেমিক সেশন জটের শঙ্কা বাড়াচ্ছে।",
+        "impact_en": "The ongoing protest disrupts academic activities at the nursing college, raising concerns of session jams among general students.",
+        "details_bn": "জামালপুর নার্সিং ও মিডওয়াইফারি কলেজে নতুন ইন্সট্রাক্টর ইনচার্জের নিয়োগকে কেন্দ্র করে শিক্ষার্থীদের মধ্যে দীর্ঘদিন ধরে অসন্তোষ বিরাজ করছিল। এর আগে শিক্ষার্থীরা প্রশাসনিক কার্যক্রমে অচলাবস্থা সৃষ্টি করে টানা ১৩ দিন ধরে কমপ্লিট শাটডাউন কর্মসূচি পালন করেন। কর্তৃপক্ষের তরف থেকে কোনো সমাধান না আসায় আন্দোলন আরও তীব্র করে আমরণ অনশনের পথ বেছে নেন শিক্ষার্থীরা।",
+        "details_en": "Discontent had been brewing among students at Jamalpur Nursing and Midwifery College over the appointment of a new instructor in charge. Prior to the hunger strike, students enforced a complete shutdown for 13 consecutive days, paralyzing administrative activities. With authorities failing to resolve the crisis, the students intensified their protest by resorting to an indefinite hunger strike."
+      }
+    },
+    {
+      "story_id": "2b186760-5300-5a90-b4c7-53d7cef7918c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -243,22 +234,16 @@
       ],
       "region": "international",
       "tags": [
-        "#WestBank",
-        "#Israel"
+        "#Israel",
+        "#WestBank"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/colgyt/article71624391.ece/alternates/LANDSCAPE_1200/2026-10-25T084841Z_1974138941_RC28AOAZPRKR_RTRMADP_3_ISRAEL-PALESTINIANS-HEBRON-OPERATION.JPG",
+      "image_url": "https://static.dw.com/image/79749068_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T16:49:51+00:00",
+      "published_at": "2026-10-25T20:00:47.900104+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.3295,
+      "importance_score": 1.7,
+      "rank_score": 0.6882,
       "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/israel-presses-ahead-with-west-bank-operation-as-election-approaches/article71624374.ece",
-          "title": "Israel presses ahead with West Bank operation as election approaches",
-          "snippet": "Israel presses ahead with West Bank operation as election approaches"
-        },
         {
           "name": "Deutsche Welle World",
           "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
@@ -267,10 +252,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান অব্যাহত, বাস্তুচ্যুত হাজারো ফিলিস্তিনি",
-        "title_en": "Israeli Military Operation Continues in West Bank, Displacing Thousands",
-        "summary_bn": "ইসরায়েলি সামরিক বাহিনী অধিকৃত পশ্চিম তীরে ব্যাপক সামরিক অভিযান চালিয়েছে এবং সীমান্ত ক্রসিং বন্ধ রেখেছে।",
-        "summary_en": "The Israeli military intensified a massive security operation in the occupied West Bank, enforcing strict border closures and movement restrictions.",
+        "title_bn": "নির্বাচন উপলক্ষে পশ্চিম তীরের সব স্থল সীমান্ত বন্ধ ঘোষণা ইসরায়েলের",
+        "title_en": "Israel Closes All West Bank Land Crossings During Parliamentary Election",
+        "summary_bn": "সংসদ নির্বাচন চলাকালীন নিরাপত্তা জোরদারের অংশ হিসেবে পশ্চিম তীরের সমস্ত স্থল সীমান্ত এবং চলাচল সাময়িকভাবে বন্ধ ঘোষণা করেছে ইসরায়েলি সামরিক বাহিনী।",
+        "summary_en": "The Israeli military has announced the complete closure of all land crossings between Israel and the West Bank during the parliamentary election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -279,78 +264,81 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:49:51+00:00",
-        "lead_bn": "ইসরায়েলি সামরিক বাহিনী অধিকৃত পশ্চিম তীরে ব্যাপক সামরিক অভিযান চালিয়েছে এবং সীমান্ত ক্রসিং বন্ধ রেখেছে।",
-        "lead_en": "The Israeli military intensified a massive security operation in the occupied West Bank, enforcing strict border closures and movement restrictions.",
+        "published_at": "2026-10-25T20:00:47.900104+00:00",
+        "lead_bn": "সংসদ নির্বাচন চলাকালীন নিরাপত্তা জোরদারের অংশ হিসেবে পশ্চিম তীরের সমস্ত স্থল সীমান্ত এবং চলাচল সাময়িকভাবে বন্ধ ঘোষণা করেছে ইসরায়েলি সামরিক বাহিনী।",
+        "lead_en": "The Israeli military has announced the complete closure of all land crossings between Israel and the West Bank during the parliamentary election.",
         "bullets_bn": [
-          "ইসরায়েলি সামরিক বাহিনী অধিকৃত পশ্চিম তীরে বড় ধরনের সামরিক অভিযান পরিচালনা করেছে।",
-          "অভিযানে দুই হাজার ছয়শতের বেশি ফিলিস্তিনি বাস্তুচ্যুত হয়েছেন এবং চল্লিশজনকে গ্রেপ্তার করা হয়েছে।",
-          "নির্বাচন সম্পন্ন না হওয়া পর্যন্ত ফিলিস্তিনি শ্রমিকদের প্রবেশ ও সীমান্ত ক্রসিং বন্ধ থাকবে।"
+          "ইসরায়েলি সামরিক বাহিনী পশ্চিম তীর ও ইসরায়েলের মধ্যবর্তী সব স্থল সীমান্ত বন্ধ রাখার ঘোষণা দিয়েছে।",
+          "ফিলিস্তিনি শ্রমিকদের ইসরায়েলি সম্প্রদায়গুলোয় প্রবেশে নিষেধাজ্ঞা জারি করা হয়েছে এবং সীমান্ত পুরোপুরি বন্ধ রাখা হবে।",
+          "হেbron শহরের কাছে সাম্প্রতিক প্রাণঘাতী হামলার পর নিরাপত্তা অভিযান জোরদার করার অংশ হিসেবে এই পদক্ষেপ নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "The Israeli military pressed ahead with a massive security operation across the occupied West Bank.",
-          "The ongoing operation displaced over 2,600 Palestinians and resulted in 40 arrests.",
-          "Border crossings and work permit entries into Israel remain shut until the upcoming elections conclude."
+          "The Israeli military ordered the closure of all land crossings between Israel and the West Bank during the parliamentary election.",
+          "Palestinian workers are barred from entering Israeli communities for work under the newly enforced security restrictions.",
+          "The closure coincides with an ongoing military operation following a deadly shooting attack near the city of Hebron."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পশ্চিম তীরে বন্দুক হামলায় দুই ইসরায়েলি সেনা নিহত এবং তিনজন আহত হওয়ার পর এই সামরিক অভিযান শুরু হয়। হব্রন শহরকে কেন্দ্র করে পরিচালিত এই অভিযান আসন্ন ইসরায়েলি সাধারণ নির্বাচনের প্রাক্কালে নিরাপত্তা পরিস্থিতিকে আরও উত্তপ্ত করে তুলেছে। হামলায় জড়িত সন্দেহে সেনাবাহিনী অভিযান চালিয়ে ব্যাপক তল্লাশি ও গ্রেপ্তার অভিযান অব্যাহত রেখেছে।",
-        "details_en": "The military operation follows a deadly gun attack that killed two Israeli soldiers and wounded three others. Centered around Hebron, the security sweep coincides with the final days before Israel's national elections, serving as a critical test of leadership and security policies amid ongoing regional tensions."
+        "impact_bn": "এই সিদ্ধান্তের ফলে হাজার হাজার ফিলিস্তিনি শ্রমিক কর্মস্থলে প্রবেশ করতে পারবেন না এবং দৈনন্দিন যাতায়াত মারাত্মকভাবে ব্যাহত হবে।",
+        "impact_en": "The border closures will prevent thousands of Palestinian workers from reaching their workplaces, severely disrupting daily commute and trade.",
+        "details_bn": "হেব্রন শহরের কাছে ফিলিস্তিনি বন্দুকধারীদের হামলায় দুই ইসরায়েলি সৈন্য নিহত এবং তিনজন আহত হওয়ার পর এই নিরাপত্তা পদক্ষেপ নেওয়া হয়েছে। হামলায় দুই সন্দেহভাজন হামলাকারীও নিহত হন। প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু এই হামলার কঠোর প্রতিশোধ নেওয়ার ঘোষণা দেন। এমন এক সময়ে এই সীমান্ত বন্ধের সিদ্ধান্ত এল যখন দেশটিতে অত্যন্ত প্রতিদ্বন্দ্বিতাপূর্ণ একটি সংসদীয় নির্বাচন অনুষ্ঠিত হতে যাচ্ছে।",
+        "details_en": "The security clampdown follows a deadly shooting attack near Hebron that killed two Israeli soldiers and injured three others, with both suspected attackers also killed. Prime Minister Benjamin Netanyahu vowed a heavy response to the attack. The closure comes just days before a closely contested parliamentary election where incumbent leaders face a tough battle to secure a new term."
       }
     },
     {
-      "story_id": "f6e94922-cf40-51d5-8af9-20c9fd6d17ab",
-      "primary_category": "economy_business",
+      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Mortgage",
-        "#RetirementPlanning"
+        "#RahulGandhi",
+        "#IndiaElections",
+        "#Congress"
       ],
-      "image_url": null,
+      "image_url": "https://static.dw.com/image/79568976_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T17:00:00+00:00",
+      "published_at": "2026-10-25T20:00:47.900104+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.2788,
+      "rank_score": 0.6882,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-          "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-          "snippet": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অবসরের আগে বিশাল অঙ্কের ঋণ পরিশোধ করা নিয়ে দম্পতির বিতর্ক",
-        "title_en": "Homeowners Debate Clearing Six-Figure Mortgage Before Retirement",
-        "summary_bn": "অবসর জীবনে বড় অঙ্কের ঋণ এড়াতে সঞ্চিত অর্থ দিয়ে সমাপনী বন্ধকি ঋণ পরিশোধের পক্ষে মত দিয়েছেন এক গৃহকর্ত্রী।",
-        "summary_en": "A homeowner advocates using cash savings to clear a six-figure mortgage to avoid debt during retirement.",
+        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার অভিযোগে রাহুল গান্ধীর আন্দোলনের ডাক",
+        "title_en": "Rahul Gandhi Urges Protest Against Voter Deletions and Announces Rally",
+        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে সমাবেশের ডাক দিয়েছেন।",
+        "summary_en": "Congress leader Rahul Gandhi urged citizens to join a protest march in New Delhi against alleged voter list deletions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T17:00:00+00:00",
-        "lead_bn": "অবসর জীবনে বড় অঙ্কের ঋণ এড়াতে সঞ্চিত অর্থ দিয়ে সমাপনী বন্ধকি ঋণ পরিশোধের পক্ষে মত দিয়েছেন এক গৃহকর্ত্রী।",
-        "lead_en": "A homeowner advocates using cash savings to clear a six-figure mortgage to avoid debt during retirement.",
+        "published_at": "2026-10-25T20:00:47.900104+00:00",
+        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে সমাবেশের ডাক দিয়েছেন।",
+        "lead_en": "Congress leader Rahul Gandhi urged citizens to join a protest march in New Delhi against alleged voter list deletions.",
         "bullets_bn": [
-          "অবসরকালীন ঋণমুক্ত থাকার জন্য তিন লক্ষ ডলারের বন্ধকি ঋণ একবারে পরিশোধ করার প্রস্তাব দেওয়া হয়েছে।",
-          "বর্তমান বন্ধকি ঋণের সুদের হার দুই দশমিক সাত পাঁচ শতাংশ নির্ধারিত রয়েছে।",
-          "সঞ্চিত অর্থ ঋণ পরিশোধে ব্যবহার করা উচিত নাকি ধরে রাখা উচিত তা নিয়ে দম্পতির মধ্যে মতবিরোধ তৈরি হয়েছে।"
+          "রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দেশজুড়ে জনগণকে বিক্ষোভে যোগ দেওয়ার আহ্বান জানান",
+          "আগামী ১ নভেম্বর দিল্লির রামলীলা ময়দানে সেভ দ্য ভোট সেভ দ্য কান্ট্রি শীর্ষক সমাবেশ অনুষ্ঠিত হওয়ার ঘোষণা দেওয়া হয়েছে",
+          "ক্ষমতাসীন দল নিয়মনীতি লঙ্ঘন করে ভোট চুরি করছে বলে বিরোধীরা অভিযোগ তুলেছে"
         ],
         "bullets_en": [
-          "A homeowner proposed using available cash to clear a three hundred thousand dollar mortgage entirely.",
-          "The existing mortgage carries an interest rate of two point seven five percent.",
-          "A disagreement arose between spouses regarding whether to liquidate cash reserves or maintain the mortgage."
+          "Rahul Gandhi urged students farmers workers women and traders to join a major protest march",
+          "The Save the Vote Save the Country rally is planned for November 1 at Delhis Ramlila Maidan",
+          "The opposition leader alleged that the ruling party is systematically stealing votes by breaking election rules"
         ],
-        "impact_bn": "গৃহঋণ পরিশোধ বা দীর্ঘমেয়াদী সঞ্চয় ধরে রাখার সিদ্ধান্ত পারিবারিক বাজেট এবং বিনিয়োগ পরিকল্পনাকে সরাসরি প্রভাবিত করে।",
-        "impact_en": "Deciding whether to clear mortgages or preserve cash directly impacts household budgeting and long-term investment returns.",
-        "details_bn": "গৃহঋণ বা বন্ধকি ঋণ পরিশোধ করা নিয়ে আর্থিক পরিকল্পনা বিশারদদের মধ্যে দীর্ঘদিনের বিতর্ক রয়েছে। অনেকেই সুদের হার কম থাকলে ঋণ পরিশোধ না করে সেই অর্থ উচ্চ আয়ের খাতে বিনিয়োগ করার পরামর্শ দেন। অন্যদিকে, মানসিক শান্তি ও ঋণমুক্ত অবসর জীবনের জন্য এককালীন অর্থ দিয়ে সম্পূর্ণ ঋণ পরিশোধ করাকে অনেকে শ্রেয় মনে করেন।",
-        "details_en": "The dilemma of paying off a low-interest mortgage versus investing cash elsewhere is a common financial planning debate. While keeping a low interest rate allows cash to potentially earn higher returns in other investments, clearing the debt provides guaranteed interest savings and psychological peace of mind heading into retirement."
+        "impact_bn": "ভোটার অধিকার নিয়ে এই রাজনৈতিক আন্দোলন নাগরিকদের ভোটাধিকার সুরক্ষায় সচেতনতা বাড়াতে পারে।",
+        "impact_en": "This political mobilization highlights electoral integrity issues and encourages civic vigilance among voters.",
+        "details_bn": "ভারতের বিরোধী দলীয় নেতা রাহুল গান্ধী নির্বাচনী প্রক্রিয়ায় স্বচ্ছতা ও নিয়ম লঙ্ঘনের অভিযোগ তুলে সরব হয়েছেন। ভোটার তালিকা থেকে সুপরিকল্পিতভাবে ভোটারদের নাম বাদ দেওয়া হচ্ছে বলে দাবি করে আসছে বিরোধী দলগুলো। সাধারণ মানুষের ভোটাধিকার নিশ্চিত করতে এবং এ ধরনের অনিয়মের বিরুদ্ধে রাজনৈতিক চাপ সৃষ্টি করতেই এই নতুন কর্মসূচি ঘোষণা করা হয়েছে।",
+        "details_en": "Indian opposition leader Rahul Gandhi has stepped up pressure against alleged electoral irregularities and systemic removal of names from voter rolls. The controversy centres around transparency in voter lists and accusations against the ruling party for violating election norms. This upcoming protest is part of ongoing efforts by the opposition to rally public support and safeguard democratic voting rights."
       }
     }
   ]
