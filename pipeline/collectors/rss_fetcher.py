@@ -187,7 +187,8 @@ def fetch_rss_candidates(max_age_hours: Optional[float] = None) -> List[RawArtic
                     summary_raw=summary,
                     published_at=clean_published_at,
                     language=feed_meta["language"],
-                    category_hint=getattr(entry, "category", None)
+                    category_hint=getattr(entry, "category", None) or feed_meta.get("category_hint"),
+                    region=feed_meta.get("region", "national")
                 )
                 candidates.append(article)
                 feed_added += 1

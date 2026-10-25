@@ -9,77 +9,198 @@ load_dotenv()
 # 1. RSS Feed Endpoints (Verified Live & Fast)
 # =====================================================================
 FEEDS = {
+    # ── BANGLADESH NATIONAL FEEDS (Strict Priority) ─────────────────────
     "prothom_alo_politics": {
         "name": "প্রথম আলো রাজনীতি",
         "url": "https://www.prothomalo.com/api/v1/collections/politics.rss",
         "language": "bn",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "bangla_tribune": {
         "name": "Bangla Tribune",
         "url": "https://www.banglatribune.com/feed/",
         "language": "bn",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "prothom_alo_bn": {
         "name": "প্রথম আলো",
         "url": "https://www.prothomalo.com/stories.rss",
         "language": "bn",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "daily_star_politics": {
         "name": "The Daily Star Politics",
         "url": "https://www.thedailystar.net/politics/rss.xml",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "tbs_politics": {
         "name": "The Business Standard Politics",
         "url": "https://www.tbsnews.net/bangladesh/politics/rss.xml",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "daily_star_bd": {
         "name": "The Daily Star Bangladesh",
         "url": "https://www.thedailystar.net/bangladesh/rss.xml",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "daily_star_crime": {
         "name": "The Daily Star Law & Crime",
         "url": "https://www.thedailystar.net/news/crime-justice/rss.xml",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "tbs_main": {
         "name": "The Business Standard",
         "url": "https://www.tbsnews.net/rss.xml",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "economy_business"
     },
     "dhaka_tribune": {
         "name": "Dhaka Tribune",
         "url": "https://www.dhakatribune.com/feed/",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "jagonews24": {
         "name": "Jago News 24",
         "url": "https://www.jagonews24.com/rss/rss.xml",
         "language": "bn",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
     "channel_i": {
         "name": "Channel i",
         "url": "https://www.channelionline.com/feed/",
         "language": "bn",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "national",
+        "category_hint": "governance_law"
     },
+
+    # ── INTERNATIONAL: WORLD & GEOPOLITICS (world_diplomacy) ───────────
+    "bbc_world": {
+        "name": "BBC World News",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "al_jazeera": {
+        "name": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "guardian_world": {
+        "name": "The Guardian World",
+        "url": "https://www.theguardian.com/world/rss",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "politico_europe": {
+        "name": "Politico Europe",
+        "url": "https://www.politico.eu/feed/",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "the_hindu_world": {
+        "name": "The Hindu International",
+        "url": "https://www.thehindu.com/news/international/feeder/default.rss",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "dw_world": {
+        "name": "Deutsche Welle World",
+        "url": "https://rss.dw.com/rdf/rss-en-all",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+    "balkan_insight": {
+        "name": "Balkan Insight",
+        "url": "https://balkaninsight.com/feed/",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "world_diplomacy"
+    },
+
+    # ── INTERNATIONAL: GLOBAL ECONOMY & TRADE (economy_business) ────────
+    "cnbc_world_economy": {
+        "name": "CNBC Global Economy",
+        "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "economy_business"
+    },
+    "marketwatch_top": {
+        "name": "MarketWatch Economy",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "economy_business"
+    },
+
+    # ── INTERNATIONAL: TECH, AI & INNOVATION (tech_innovation) ───────────
     "techcrunch": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/feed/",
         "language": "en",
-        "source_type": "rss"
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "tech_innovation"
+    },
+    "ars_technica": {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "tech_innovation"
+    },
+
+    # ── INTERNATIONAL: CLIMATE & ENERGY (climate_environment) ───────────
+    "inside_climate": {
+        "name": "Inside Climate News",
+        "url": "https://insideclimatenews.org/feed/",
+        "language": "en",
+        "source_type": "rss",
+        "region": "international",
+        "category_hint": "climate_environment"
     }
 }
 
@@ -334,5 +455,14 @@ EXCLUSION_KEYWORDS = [
     "ছাড়", "মূল্যছাড়", "ডিসকাউন্ট", "অফার", "সেল",
 
     # Petty / Local Blotter Crime (Noise)
-    "road accident", "killed in road", "motorcycle accident", "সড়ক দুর্ঘটনা", "লাশ উদ্ধার"
+    "road accident", "killed in road", "motorcycle accident", "সড়ক দুর্ঘটনা", "লাশ উদ্ধার",
+    "মরদেহ উদ্ধার", "ঝুলন্ত মরদেহ", "ছিনতাই", "ছিনতাইকারী", "পকেটমার", "চুরি", "চোর", "বখাটে",
+    "ইভটিজিং", "অটোরিকশা চুরি", "গরু চুরি", "মোবাইল চুরি", "মোটরসাইকেল চুরি", "মুঠোফোন ছিনতাই",
+    "মোবাইল ছিনতাই", "pickpocket", "petty theft", "phone snatching", "bag snatching",
+
+    # TV Broadcast Guides, Daily Fixtures & Daily Routine Noise
+    "টিভিতে আজকের খেলা", "টিভিতে খেলা", "আজকের খেলা", "খেলার সূচি", "খেলার সময়সূচি",
+    "টিভি সূচি", "টিভির সূচি", "আজকের সূচি", "আজকের ম্যাচ", "টিভিতে দেখুন", "খেলা লাইভ",
+    "আজকের নামাজের সময়", "নামাজের সময়সূচি", "আজকের আবহাওয়া",
+    "tv schedule", "where to watch", "how to watch", "streaming guide", "match schedule"
 ]

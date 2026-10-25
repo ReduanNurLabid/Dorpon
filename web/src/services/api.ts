@@ -151,6 +151,37 @@ function normalizeStory(data: any, fallbackDate?: string): CapsuleStory {
   };
 }
 
+export const DELETED_STORAGE_KEY = 'dorpon_deleted_story_ids';
+
+export function getLocalDeletedIds(): Set<string> {
+  if (typeof window === 'undefined') return new Set();
+  try {
+    const raw = localStorage.getItem(DELETED_STORAGE_KEY);
+    if (raw) {
+      const arr = JSON.parse(raw);
+      if (Array.isArray(arr)) return new Set(arr);
+    }
+  } catch {}
+  return new Set();
+}
+
+export function addLocalDeletedId(...ids: (string | undefined | null)[]): void {
+  if (typeof window === 'undefined') return;
+  try {
+    const current = getLocalDeletedIds();
+    ids.forEach(id => {
+      if (id && typeof id === 'string') current.add(id);
+    });
+    localStorage.setItem(DELETED_STORAGE_KEY, JSON.stringify(Array.from(current)));
+  } catch {}
+}
+
+export function filterDeletedStories(list: CapsuleStory[]): CapsuleStory[] {
+  const deleted = getLocalDeletedIds();
+  if (deleted.size === 0) return list;
+  return list.filter(s => !deleted.has(s.story_id) && !deleted.has((s as any)._docId));
+}
+
 function sortByPublishedDesc(list: CapsuleStory[]): CapsuleStory[] {
   return list.sort((a, b) => {
     const timeA = a.published_at ? new Date(a.published_at).getTime() : 0;
@@ -197,7 +228,7 @@ export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<Caps
         items.push(normalizeStory(doc.data()));
       });
       if (items.length > 0) {
-        return sortByEditorialRank(items);
+        return sortByEditorialRank(filterDeletedStories(items));
       }
     }
   } catch (err) {
@@ -209,7 +240,7 @@ export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<Caps
     const restItems = await fetchFirestoreRest('daily_buzz', fetchLimit, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
-      return sortByEditorialRank(items);
+      return sortByEditorialRank(filterDeletedStories(items));
     }
   } catch (err) {
     console.warn('Firestore REST buzz error:', err);
@@ -223,7 +254,7 @@ export async function fetchDailyBuzzFeed(fetchLimit: number = 500): Promise<Caps
       const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
-      return sortByEditorialRank(items);
+      return sortByEditorialRank(filterDeletedStories(items));
     }
   } catch (err) {
     console.error('Static top_stories fallback error:', err);
@@ -351,7 +382,7 @@ export async function fetchCurrentAffairsFeed(): Promise<CapsuleStory[]> {
     return id.includes('houthi') || titleEn.includes('houthi') || titleBn.includes('হুথি');
   });
 
-  return sortByPublishedDesc(filteredList.length > 0 ? filteredList : list);
+  return sortByPublishedDesc(filterDeletedStories(filteredList.length > 0 ? filteredList : list));
 }
 
 export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<CapsuleStory[]> {
@@ -365,7 +396,7 @@ export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<Ca
         list.push(normalizeStory(doc.data()));
       });
       if (list.length > 0) {
-        return sortByPublishedDesc(list);
+        return sortByPublishedDesc(filterDeletedStories(list));
       }
     }
   } catch (err) {
@@ -377,7 +408,7 @@ export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<Ca
     const restItems = await fetchFirestoreRest('hourly_buzz', fetchLimit, 'published_at');
     if (restItems.length > 0) {
       const items = restItems.map(item => normalizeStory(item));
-      return sortByEditorialRank(items);
+      return sortByEditorialRank(filterDeletedStories(items));
     }
   } catch (err) {
     console.warn('Firestore REST hourly error:', err);
@@ -391,7 +422,7 @@ export async function fetchHourlyWiresFeed(fetchLimit: number = 300): Promise<Ca
       const docTime = json.published_at || json.created_at || (json.edition_date ? json.edition_date + "T06:00:00Z" : undefined);
       const stories: any[] = json.stories || [];
       const items = stories.map(s => normalizeStory(s));
-      return sortByEditorialRank(items);
+      return sortByEditorialRank(filterDeletedStories(items));
     }
   } catch (err) {
     console.error('Static hourly_buzz fallback error:', err);

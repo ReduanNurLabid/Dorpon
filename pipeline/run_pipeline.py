@@ -118,7 +118,10 @@ def run_hourly_buzz(limit: int = 8):
         return None
 
     # 5. Synthesize 60-second Daily Buzz summaries with Multi-Category Section Filling
-    print(f"\n🤖 Generating 60-second Daily Buzz summaries (diverse sections)...")
+    # AND National vs International Slot Reservation to protect Bangladesh domestic coverage:
+    # - Min ~65% reserved strictly for Bangladesh governance, politics, and national economy.
+    # - Max ~35% allocated for categorized international affairs (world, tech, global economy, climate).
+    print(f"\n🤖 Generating 60-second Daily Buzz summaries (diverse sections with regional balance)...")
     buzz_stories = []
     seen_entities = set()
     seen_story_tokens = []
@@ -126,95 +129,143 @@ def run_hourly_buzz(limit: int = 8):
     MAX_PER_CATEGORY = 2  # Cap per category so no single topic monopolizes the hourly feed
     GENERIC_THEMATIC_ENTITIES = {"interim_cabinet", "bnp_politics", "election_commission", "anti_corruption"}
 
-    # Pass 1: Balanced cross-category selection to populate every section
-    # Pass 2: Fill any remaining quota with top available stories
-    for current_pass in [1, 2]:
-        if len(buzz_stories) >= limit:
-            break
+    max_intl_slots = max(1, int(limit * 0.35))
+    min_national_slots = max(1, limit - max_intl_slots)
+    national_count = 0
+    intl_count = 0
 
+    print(f"   📊 Slot Reservation: Min {min_national_slots} National (~{int(min_national_slots/limit*100)}%), Max {max_intl_slots} International (~{int(max_intl_slots/limit*100)}%)")
+
+    def process_and_add_cluster(cluster) -> bool:
+        nonlocal national_count, intl_count
+        primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
+
+        # Check against historical coverage across previous hourly runs
+        matched_hist = find_matching_historical_story(cluster, historical_stories)
+        if matched_hist:
+            hist_id = matched_hist.get("story_id")
+            new_sources = build_clean_sources(cluster.articles)
+            print(f"   🔄 Story already covered: '{cluster.primary_title[:50]}'")
+            print(f"      Enriching existing story [{hist_id}] with new sources: {[s.get('name') for s in new_sources]}")
+            enrich_story_in_firestore(hist_id, new_sources)
+            return False
+
+        # Check topic repetition against stories already selected in THIS current run
+        specific_entities = cluster.canonical_entities - GENERIC_THEMATIC_ENTITIES
+        if specific_entities and specific_entities.intersection(seen_entities):
+            print(f"   ⏩ Skipping duplicate topic in current batch: {cluster.primary_title[:50]} (entity: {specific_entities})")
+            return False
+            
+        # Title token similarity check within current batch (normalized Jaccard)
+        art_tokens = extract_clean_tokens(cluster.primary_title)
+        is_duplicate = False
+        for prev_tokens in seen_story_tokens:
+            inter = art_tokens & prev_tokens
+            uni = art_tokens | prev_tokens
+            jaccard = len(inter) / max(len(uni), 1)
+            if jaccard >= 0.50 or (len(art_tokens) >= 4 and len(inter) / len(art_tokens) >= 0.65):
+                is_duplicate = True
+                break
+        if is_duplicate:
+            print(f"   ⏩ Skipping title-duplicate cluster in current batch: {cluster.primary_title[:50]}")
+            return False
+
+        # Scrape full body and lead image only for selected stories
+        primary_art = cluster.articles[0]
+        if not primary_art.body_text or not primary_art.image_url:
+            print(f"   📖 Scraping article details for selected story: {primary_art.title[:45]}...")
+            details = scrape_article_details(primary_art.url)
+            if details.get("body_text"):
+                primary_art.body_text = details["body_text"]
+            if details.get("image_url") and not primary_art.image_url:
+                primary_art.image_url = details["image_url"]
+
+        story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
+        if not story:
+            print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
+            return False
+
+        # ── Unsplash image enrichment ──────────────────────────────────────
+        if not story.image_url:
+            headline_en = (story.daily_buzz.title_en or primary_art.title) if story.daily_buzz else primary_art.title
+            headline_bn = (story.daily_buzz.title_bn or "") if story.daily_buzz else ""
+            story_cat = story.primary_category or primary_cat
+            unsplash_url = fetch_story_image(
+                headline_en=headline_en,
+                headline_bn=headline_bn,
+                category=story_cat,
+                existing_image_url=None,
+            )
+            if unsplash_url:
+                story.image_url = unsplash_url
+        # ───────────────────────────────────────────────────────────────────
+
+        item = story.model_dump()
+        item.pop("bcs_pro", None)  # Lightweight payload for free buzz
+        buzz_stories.append(item)
+        historical_stories.append(item)  # Add to memory for remaining clusters
+        category_counts[story.primary_category] = category_counts.get(story.primary_category, 0) + 1
+
+        reg = getattr(cluster, "region", "national")
+        if reg == "international":
+            intl_count += 1
+        else:
+            national_count += 1
+
+        if specific_entities:
+            seen_entities.update(specific_entities)
+        seen_story_tokens.append(art_tokens)
+        return True
+
+    # Pass 1: National Priority (fill reserved national quota with diverse sections)
+    for cluster in clusters:
+        if len(buzz_stories) >= limit or national_count >= min_national_slots:
+            break
+        if getattr(cluster, "region", "national") != "national":
+            continue
+        primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "governance_law"
+        if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
+            continue
+        if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
+            continue
+        process_and_add_cluster(cluster)
+
+    # Pass 2: International Categorized (fill up to international slot quota across world/tech/economy/climate)
+    for cluster in clusters:
+        if len(buzz_stories) >= limit or intl_count >= max_intl_slots:
+            break
+        if getattr(cluster, "region", "national") != "international":
+            continue
+        primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
+        if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
+            continue
+        if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
+            continue
+        process_and_add_cluster(cluster)
+
+    # Pass 3: Diverse Fill (fill remaining quota respecting category caps)
+    if len(buzz_stories) < limit:
         for cluster in clusters:
             if len(buzz_stories) >= limit:
                 break
-
-            primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
-
-            # In Pass 1, enforce category cap so all sections get populated
-            if current_pass == 1 and category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
-                continue
-
-            # Skip clusters already added
             if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
                 continue
-
-            # Check against historical coverage across previous hourly runs
-            matched_hist = find_matching_historical_story(cluster, historical_stories)
-            if matched_hist:
-                hist_id = matched_hist.get("story_id")
-                new_sources = build_clean_sources(cluster.articles)
-                print(f"   🔄 Story already covered: '{cluster.primary_title[:50]}'")
-                print(f"      Enriching existing story [{hist_id}] with new sources: {[s.get('name') for s in new_sources]}")
-                enrich_story_in_firestore(hist_id, new_sources)
+            reg = getattr(cluster, "region", "national")
+            if reg == "international" and intl_count >= max_intl_slots + 1:
                 continue
-
-            # Check topic repetition against stories already selected in THIS current run
-            specific_entities = cluster.canonical_entities - GENERIC_THEMATIC_ENTITIES
-            if specific_entities and specific_entities.intersection(seen_entities):
-                print(f"   ⏩ Skipping duplicate topic in current batch: {cluster.primary_title[:50]} (entity: {specific_entities})")
+            primary_cat = cluster.matched_categories[0] if cluster.matched_categories else "world_diplomacy"
+            if category_counts.get(primary_cat, 0) >= MAX_PER_CATEGORY:
                 continue
-                
-            # Title token similarity check within current batch (normalized Jaccard)
-            art_tokens = extract_clean_tokens(cluster.primary_title)
-            is_duplicate = False
-            for prev_tokens in seen_story_tokens:
-                inter = art_tokens & prev_tokens
-                uni = art_tokens | prev_tokens
-                jaccard = len(inter) / max(len(uni), 1)
-                if jaccard >= 0.50 or (len(art_tokens) >= 4 and len(inter) / len(art_tokens) >= 0.65):
-                    is_duplicate = True
-                    break
-            if is_duplicate:
-                print(f"   ⏩ Skipping title-duplicate cluster in current batch: {cluster.primary_title[:50]}")
+            process_and_add_cluster(cluster)
+
+    # Pass 4: Final Quota Guarantee (fill any remaining slots without strict category cap)
+    if len(buzz_stories) < limit:
+        for cluster in clusters:
+            if len(buzz_stories) >= limit:
+                break
+            if any(s.get("story_id") == cluster.cluster_id for s in buzz_stories):
                 continue
-
-            # Scrape full body and lead image only for selected stories
-            primary_art = cluster.articles[0]
-            if not primary_art.body_text or not primary_art.image_url:
-                print(f"   📖 Scraping article details for selected story: {primary_art.title[:45]}...")
-                details = scrape_article_details(primary_art.url)
-                if details.get("body_text"):
-                    primary_art.body_text = details["body_text"]
-                if details.get("image_url") and not primary_art.image_url:
-                    primary_art.image_url = details["image_url"]
-
-            story = synthesize_story_with_ai(cluster, is_bcs_pro=False)
-            if not story:
-                print(f"   🚫 Story rejected or excluded: {primary_art.title[:50]}")
-                continue
-
-            # ── Unsplash image enrichment ──────────────────────────────────────
-            # If og:image scraping failed (or was absent), fetch a contextually
-            # relevant Unsplash photo using the synthesized English headline.
-            if not story.image_url:
-                headline_en = (story.daily_buzz.title_en or primary_art.title) if story.daily_buzz else primary_art.title
-                headline_bn = (story.daily_buzz.title_bn or "") if story.daily_buzz else ""
-                story_cat = story.primary_category or primary_cat
-                unsplash_url = fetch_story_image(
-                    headline_en=headline_en,
-                    headline_bn=headline_bn,
-                    category=story_cat,
-                    existing_image_url=None,
-                )
-                if unsplash_url:
-                    story.image_url = unsplash_url
-            # ───────────────────────────────────────────────────────────────────
-            item = story.model_dump()
-            item.pop("bcs_pro", None)  # Lightweight payload for free buzz
-            buzz_stories.append(item)
-            historical_stories.append(item)  # Add to memory for remaining clusters
-            category_counts[story.primary_category] = category_counts.get(story.primary_category, 0) + 1
-            if specific_entities:
-                seen_entities.update(specific_entities)
-            seen_story_tokens.append(art_tokens)
+            process_and_add_cluster(cluster)
         
     output_dir = os.path.join(os.path.dirname(__file__), "..", "data", "output")
     os.makedirs(output_dir, exist_ok=True)

@@ -99,7 +99,7 @@ def push_hourly_buzz_to_firestore(stories: List[Dict[str, Any]]) -> int:
     return count
 
 
-def get_recent_published_stories(limit: int = 100, max_age_hours: float = 30.0) -> List[Dict[str, Any]]:
+def get_recent_published_stories(limit: int = 30, max_age_hours: float = 30.0) -> List[Dict[str, Any]]:
     """
     Fetches recent stories from Firestore 'daily_buzz' and 'hourly_buzz' collections
     within the past 30 hours to maintain cross-run event memory and prevent duplicate story generation.

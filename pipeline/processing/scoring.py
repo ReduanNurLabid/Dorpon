@@ -17,12 +17,27 @@ BD_SIGNALS = {
 
 # Major global affairs that legitimately matter to Bangladesh
 GLOBAL_IMPACT_SIGNALS = {
-    "imf", "world bank", "united nations", "un security council", "middle east", "israel", "palestine",
-    "gaza", "iran", "saudi", "uae", "qatar", "malaysia", "remittance", "migrant worker", "oil price",
-    "energy security", "rohingya", "myanmar", "india", "delhi", "china", "beijing", "us election",
-    "white house", "pentagon", "tariff", "global inflation", "federal reserve",
+    # Financial, Trade & Macroeconomy
+    "imf", "world bank", "federal reserve", "central bank", "opec", "oil price", "crude oil",
+    "energy security", "lng", "inflation", "interest rate", "tariff", "trade war", "recession",
+    "dollar", "remittance", "migrant worker", "foreign direct investment", "sovereign debt",
+    
+    # Geopolitics, Diplomacy, War & Treaties
+    "united nations", "un security council", "middle east", "israel", "palestine", "gaza",
+    "iran", "saudi", "uae", "qatar", "malaysia", "rohingya", "myanmar", "india", "delhi",
+    "china", "beijing", "us election", "white house", "pentagon", "kremlin", "russia", "ukraine",
+    "kyiv", "moscow", "taiwan", "nato", "ceasefire", "sanctions", "nuclear", "diplomacy",
+    "summit", "bilateral", "brics", "g7", "g20", "european union", "red sea", "houthi",
+    "icc", "icj", "treaty", "foreign policy", "foreign minister",
+
+    # Climate, Energy Transition & Disasters
+    "climate change", "cop29", "cop30", "renewable energy", "carbon emission", "clean energy",
+    "global warming", "solar energy", "biodiversity",
+
+    # Bengali Equivalents
     "বিশ্বব্যাংক", "জাতিসংঘ", "মধ্যপ্রাচ্য", "ইসরায়েল", "ফিলিস্তিন", "গাজা", "ইরান", "সৌদি",
-    "রেমিট্যান্স", "প্রবাসী", "রোহিঙ্গা", "মিয়ানমার", "ভারত", "চীন", "যুক্তরাষ্ট্র"
+    "রেমিট্যান্স", "প্রবাসী", "রোহিঙ্গা", "মিয়ানমার", "ভারত", "চীন", "যুক্তরাষ্ট্র", "ইউক্রেন",
+    "রাশিয়া", "ন্যাটো", "যুদ্ধবিরতি", "নিষেধাজ্ঞা", "জ্বালানি", "তেলের দাম", "মুদ্রাস্ফীতি"
 }
 
 # High-tier tech breakthroughs

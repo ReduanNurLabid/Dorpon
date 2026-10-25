@@ -16,8 +16,10 @@ import {
   deleteDoc, 
   query, 
   orderBy, 
-  limit 
+  limit,
+  where
 } from 'firebase/firestore';
+import { getLocalDeletedIds, addLocalDeletedId } from '../services/api';
 import { auth, db } from '../services/firebase';
 import { useApp } from '../context/AppContext';
 import { CapsuleStory } from '../types';
@@ -43,8 +45,13 @@ import {
   ArrowLeft,
   Clock,
   TrendingUp,
-  Zap
+  Zap,
+  Share2,
+  Palette,
+  Film,
+  Image as ImageIcon
 } from 'lucide-react';
+import { SocialCardStudio, StudioTab } from './SocialCardStudio';
 
 const AUTHORIZED_EMAILS = ['nurreduan.pp@gmail.com', 'reduannurlabid@gmail.com'];
 
@@ -263,6 +270,8 @@ export const EditorialDashboard: React.FC = () => {
   const [isSaving, setIsSaving] = useState(false);
   const [statusMessage, setStatusMessage] = useState<{ text: string; type: 'success' | 'error' } | null>(null);
   const [previewMode, setPreviewMode] = useState<'editor' | 'preview'>('editor');
+  const [isSocialStudioOpen, setIsSocialStudioOpen] = useState(false);
+  const [socialStudioInitialTab, setSocialStudioInitialTab] = useState<StudioTab>('photo');
 
   // Monitor Auth state
   useEffect(() => {
@@ -280,6 +289,8 @@ export const EditorialDashboard: React.FC = () => {
     if (!isAuthorized) return;
     setIsLoadingStories(true);
     setStatusMessage(null);
+    const deletedIds = getLocalDeletedIds();
+
     try {
       if (activeCollection === 'current_affairs_published') {
         // Load the active canonical edition 'latest'
@@ -300,11 +311,11 @@ export const EditorialDashboard: React.FC = () => {
           });
         }
 
-        // Strict deduplication by story_id
+        // Strict deduplication by story_id and filter deleted
         const storyMap = new Map<string, CapsuleStory & { _docId?: string }>();
         rawStories.forEach((s: any, idx: number) => {
           const id = s.story_id || s.storyId || `ca-story-${idx}`;
-          if (!storyMap.has(id)) {
+          if (!deletedIds.has(id) && !storyMap.has(id)) {
             const importance = s.importance_score ?? 2.0;
             const rank = calculateDynamicRank(importance, s.published_at, 30);
             storyMap.set(id, {
@@ -331,7 +342,7 @@ export const EditorialDashboard: React.FC = () => {
           const data = d.data();
           const docId = d.id;
           const story_id = data.story_id || data.storyId || docId;
-          if (!storyMap.has(story_id)) {
+          if (!deletedIds.has(story_id) && !deletedIds.has(docId) && !storyMap.has(story_id)) {
             const importance = data.importance_score ?? 2.0;
             const rank = calculateDynamicRank(importance, data.published_at, 30);
             storyMap.set(story_id, {
@@ -351,7 +362,49 @@ export const EditorialDashboard: React.FC = () => {
         else setSelectedStory(null);
       }
     } catch (err: any) {
-      console.error('Error fetching collection:', err);
+      console.warn('Error fetching collection from Firestore, trying fallback bundle:', err);
+      // Resilient fallback when Firestore quota is exceeded or network fails
+      try {
+        const fallbackUrl = activeCollection === 'current_affairs_published'
+          ? '/data/current_affairs_latest.json'
+          : activeCollection === 'hourly_buzz'
+          ? '/data/hourly_buzz_latest.json'
+          : '/data/top_stories_latest.json';
+
+        const res = await fetch(fallbackUrl);
+        if (res.ok) {
+          const json = await res.json();
+          const rawStories: any[] = json.stories || [];
+          const storyMap = new Map<string, CapsuleStory & { _docId?: string }>();
+          rawStories.forEach((s: any, idx: number) => {
+            const id = s.story_id || s.storyId || `fallback-${idx}`;
+            if (!deletedIds.has(id) && !storyMap.has(id)) {
+              const importance = s.importance_score ?? 2.0;
+              const rank = calculateDynamicRank(importance, s.published_at, 30);
+              storyMap.set(id, {
+                ...s,
+                story_id: id,
+                importance_score: importance,
+                rank_score: rank,
+                is_bcs_pro_selected: Boolean(s.is_bcs_pro_selected || s.bcs_pro || s.bcsPro),
+                _docId: id,
+              });
+            }
+          });
+          const list = Array.from(storyMap.values());
+          const sortedList = sortByEditorialRank(list);
+          setStories(sortedList);
+          if (sortedList.length > 0) setSelectedStory(sortedList[0]);
+          else setSelectedStory(null);
+          setStatusMessage({
+            text: 'Live Firestore quota reached; loaded local bundle. Edits & deletes stay saved.',
+            type: 'success'
+          });
+          return;
+        }
+      } catch (fbErr) {
+        console.error('Fallback read error:', fbErr);
+      }
       setStatusMessage({ text: err.message || 'Failed to load stories from Firestore', type: 'error' });
     } finally {
       setIsLoadingStories(false);
@@ -476,32 +529,123 @@ export const EditorialDashboard: React.FC = () => {
 
   const handleDeleteStory = async () => {
     if (!selectedStory || !isAuthorized) return;
-    if (!window.confirm(`Are you sure you want to delete "${selectedStory.daily_buzz.title_en || selectedStory.story_id}" from live database?`)) {
+    const storyTitle = selectedStory.daily_buzz?.title_en || selectedStory.daily_buzz?.title_bn || selectedStory.story_id;
+    if (!window.confirm(`Are you sure you want to permanently delete "${storyTitle}" from live database?`)) {
       return;
     }
     setIsSaving(true);
+    setStatusMessage({ text: 'Deleting story from database...', type: 'success' });
+
+    const targetDocId = (selectedStory as any)._docId || selectedStory.story_id;
+    const targetStoryId = selectedStory.story_id;
+
+    // 1. Immediately register in local tombstone so it can NEVER reappear even if reloaded immediately
+    addLocalDeletedId(targetStoryId, targetDocId);
+
     try {
       if (activeCollection === 'current_affairs_published') {
-        const remaining = stories.filter((s) => s.story_id !== selectedStory.story_id);
-        await setDoc(doc(db, 'current_affairs_published', 'latest'), {
+        const remaining = stories.filter((s) => s.story_id !== targetStoryId && (s as any)._docId !== targetDocId);
+        const payload = cleanForFirestore({
           stories: remaining,
           edition_date: new Date().toISOString().split('T')[0],
           published_at: new Date().toISOString(),
           total_stories: remaining.length,
           status: 'published'
         });
+        await setDoc(doc(db, 'current_affairs_published', 'latest'), payload, { merge: true });
+
+        // Clean up from all date editions in current_affairs_published and bcs_pro_published
+        try {
+          const collectionsToCheck = ['current_affairs_published', 'bcs_pro_published'];
+          for (const coll of collectionsToCheck) {
+            const snap = await getDocs(collection(db, coll));
+            for (const d of snap.docs) {
+              const data = d.data();
+              if (data.stories && Array.isArray(data.stories)) {
+                const filtered = data.stories.filter((s: any) => (s.story_id || s.storyId) !== targetStoryId);
+                if (filtered.length !== data.stories.length) {
+                  const cleaned = cleanForFirestore({
+                    ...data,
+                    stories: filtered,
+                    total_stories: filtered.length
+                  });
+                  await setDoc(d.ref, cleaned, { merge: true });
+                }
+              }
+            }
+          }
+        } catch (secErr) {
+          console.warn('Secondary current affairs cleanup warning:', secErr);
+        }
+
         setStories(remaining);
         setSelectedStory(remaining.length > 0 ? remaining[0] : null);
       } else {
-        await deleteDoc(doc(db, activeCollection, selectedStory.story_id));
-        const remaining = stories.filter((s) => s.story_id !== selectedStory.story_id);
+        // 1. Delete by actual document ID (_docId)
+        if (targetDocId) {
+          await deleteDoc(doc(db, activeCollection, targetDocId));
+        }
+
+        // 2. If story_id differs from _docId, delete by story_id
+        if (targetStoryId && targetStoryId !== targetDocId) {
+          try {
+            await deleteDoc(doc(db, activeCollection, targetStoryId));
+          } catch {}
+        }
+
+        // 3. Query and delete any duplicate documents with matching story_id / storyId
+        if (targetStoryId) {
+          try {
+            const q1 = query(collection(db, activeCollection), where('story_id', '==', targetStoryId));
+            const snap1 = await getDocs(q1);
+            for (const d of snap1.docs) {
+              await deleteDoc(d.ref);
+            }
+          } catch {}
+          try {
+            const q2 = query(collection(db, activeCollection), where('storyId', '==', targetStoryId));
+            const snap2 = await getDocs(q2);
+            for (const d of snap2.docs) {
+              await deleteDoc(d.ref);
+            }
+          } catch {}
+        }
+
+        // 4. Also clean from sibling collection (daily_buzz <-> hourly_buzz)
+        const sibling = activeCollection === 'daily_buzz' ? 'hourly_buzz' : activeCollection === 'hourly_buzz' ? 'daily_buzz' : null;
+        if (sibling) {
+          try {
+            if (targetDocId) await deleteDoc(doc(db, sibling, targetDocId));
+            if (targetStoryId && targetStoryId !== targetDocId) await deleteDoc(doc(db, sibling, targetStoryId));
+            if (targetStoryId) {
+              const q1 = query(collection(db, sibling), where('story_id', '==', targetStoryId));
+              const s1 = await getDocs(q1);
+              for (const d of s1.docs) await deleteDoc(d.ref);
+              const q2 = query(collection(db, sibling), where('storyId', '==', targetStoryId));
+              const s2 = await getDocs(q2);
+              for (const d of s2.docs) await deleteDoc(d.ref);
+            }
+          } catch {}
+        }
+
+        const remaining = stories.filter((s) => s.story_id !== targetStoryId && (s as any)._docId !== targetDocId);
         setStories(remaining);
         setSelectedStory(remaining.length > 0 ? remaining[0] : null);
       }
-      setStatusMessage({ text: 'Story successfully removed from Firestore.', type: 'success' });
-      setTimeout(() => setStatusMessage(null), 3000);
+
+      setStatusMessage({ text: '✓ Story permanently deleted from live database.', type: 'success' });
+      setTimeout(() => setStatusMessage(null), 3500);
     } catch (err: any) {
-      setStatusMessage({ text: err.message || 'Failed to delete story', type: 'error' });
+      console.error('Delete story error:', err);
+      // Even if live network call hits quota or fails, still remove from UI and keep in local tombstone
+      const remaining = stories.filter((s) => s.story_id !== targetStoryId && (s as any)._docId !== targetDocId);
+      setStories(remaining);
+      setSelectedStory(remaining.length > 0 ? remaining[0] : null);
+      setStatusMessage({
+        text: `✓ Story removed from dashboard (${err?.message?.includes('Quota') ? 'Firestore quota exceeded: tombstoned locally' : 'Tombstoned locally'}).`,
+        type: 'success'
+      });
+      setTimeout(() => setStatusMessage(null), 4000);
     } finally {
       setIsSaving(false);
     }
@@ -1025,6 +1169,34 @@ export const EditorialDashboard: React.FC = () => {
                       <span>{statusMessage.text}</span>
                     </span>
                   )}
+
+                  {/* 1. Social Photo Card Studio Launcher */}
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSocialStudioInitialTab('photo');
+                      setIsSocialStudioOpen(true);
+                    }}
+                    className="bg-emerald-700 hover:bg-emerald-600 text-white font-sans text-xs font-bold uppercase px-3 py-1.5 flex items-center gap-1.5 transition-colors border border-emerald-500 cursor-pointer shadow-sm active:scale-98"
+                    title="Open Sondesh Express Social Photo Card Studio (4:5)"
+                  >
+                    <ImageIcon className="w-3.5 h-3.5 text-emerald-200" />
+                    <span>Photo Card (4:5)</span>
+                  </button>
+
+                  {/* 2. 13-Second Motion News Reel Video (60 FPS) Launcher */}
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSocialStudioInitialTab('video');
+                      setIsSocialStudioOpen(true);
+                    }}
+                    className="bg-teal-700 hover:bg-teal-600 text-white font-sans text-xs font-bold uppercase px-3 py-1.5 flex items-center gap-1.5 transition-colors border border-teal-500 cursor-pointer shadow-sm active:scale-98"
+                    title="Open Sondesh Express 13-Second 60 FPS Motion News Reel Studio"
+                  >
+                    <Film className="w-3.5 h-3.5 text-teal-200" />
+                    <span>13s Video Reel</span>
+                  </button>
 
                   <button
                     onClick={handleDeleteStory}
@@ -1577,6 +1749,15 @@ export const EditorialDashboard: React.FC = () => {
           )}
         </div>
       </div>
+
+      {/* SOCIAL MEDIA STUDIO (PHOTO CARD & 10s VIDEO REEL) */}
+      {isSocialStudioOpen && selectedStory && (
+        <SocialCardStudio
+          story={selectedStory}
+          initialTab={socialStudioInitialTab}
+          onClose={() => setIsSocialStudioOpen(false)}
+        />
+      )}
     </div>
   );
 };
