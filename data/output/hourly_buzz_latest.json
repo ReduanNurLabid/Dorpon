@@ -1,178 +1,9 @@
 {
-  "updated_at": "2026-10-25T17:00:45.679075",
+  "updated_at": "2026-10-25T18:00:42.396471",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "95b562dc-e6b1-54c9-ac6c-e5adbe5292cd",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T16:19:03+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3204,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976742/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF",
-          "title": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি: ডিজিএফআই-আনসার সদস্যসহ ৬ জন কারাগারে",
-          "snippet": "ব্যবসায়ীকে আটকে ১০ লাখ টাকা চাঁদা দাবি: ডিজিএফআই-আনসার সদস্যসহ ৬ জন কারাগারে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্যবসায়ীকে অপহরণ ও চাঁদা দাবির মামলায় ডিজিএফআই ও আনসার সদস্যসহ ৬ জন কারাগারে",
-        "title_en": "Court Sends Six Including DGFI and Ansar Personnel to Jail in Businessman Extortion Case",
-        "summary_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে ফাঁদে ফেলে অপহরণ ও চাঁদা দাবির অভিযোগে ডিজিএফআই ও আনসার সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "A Dhaka court has sent six individuals, including DGFI and Ansar personnel, to jail over allegations of kidnapping and extorting a businessman.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:19:03+00:00",
-        "lead_bn": "মোহাম্মদপুরে এক ব্যবসায়ীকে ফাঁদে ফেলে অপহরণ ও চাঁদা দাবির অভিযোগে ডিজিএফআই ও আনসার সদস্যসহ ছয়জনকে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "A Dhaka court has sent six individuals, including DGFI and Ansar personnel, to jail over allegations of kidnapping and extorting a businessman.",
-        "bullets_bn": [
-          "মোহাম্মদপুরে এক ব্যবসায়ীকে আটকে রেখে ১০ লাখ টাকা চাঁদা দাবি এবং মারধরের ঘটনা ঘটে।",
-          "তদন্ত কর্মকর্তার আবেদনের পরিপ্রেক্ষিতে ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট আদালত এই আদেশ দেন।",
-          "আসামিদের কারাগারে পাঠিয়ে মামলার পরবর্তী তদন্ত ও আইনগত প্রক্রিয়া অব্যাহত রাখা হয়েছে।"
-        ],
-        "bullets_en": [
-          "A businessman was trapped, detained, assaulted, and subjected to a 1 million taka extortion demand in Mohammadpur.",
-          "The Dhaka Metropolitan Magistrate court issued the jail order following an appeal by the investigating officer.",
-          "The accused have been sent to prison while further investigation and legal proceedings of the case continue."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সদস্যদের অপরাধে জড়িয়ে পড়ার এই ঘটনা সাধারণ মানুষের নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।",
-        "impact_en": "This incident involving security personnel in criminal activities raises serious concerns regarding public safety and institutional accountability.",
-        "details_bn": "রাজধানীর মোহাম্মদপুরে এক ব্যবসায়ীকে লক্ষ্য করে সংঘটিত অপরাধমূলক কর্মকাণ্ডের অভিযোগে মামলা দায়ের করা হয়। ওই মামলায় প্রতিরক্ষা গোমহদপ্তর ও আনসার বাহিনীর সদস্যসহ মোট ছয়জনকে আসামি করা হয়। অপরাধমূলক কর্মকাণ্ডে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর বিভিন্ন সদস্যের জড়িয়ে পড়ার প্রবণতা রোধে কঠোর পদক্ষেপ নেওয়ার দাবি জোরালো হচ্ছে। তদন্ত কর্মকর্তা আদালতের মাধ্যমে আসামিদের কারাগারে আটক রাখার আবেদন জানালে বিচারক তা মঞ্জুর করেন।",
-        "details_en": "A case was filed following allegations of a criminal scheme targeting a businessman in Mohammadpur, involving members of state security agencies. The accused individuals, including personnel from DGFI and Ansar, faced charges of abduction, assault, and extortion. The investigating officer formally requested their detention, which the metropolitan magistrate court approved, highlighting ongoing concerns over accountability within enforcement bodies."
-      }
-    },
-    {
-      "story_id": "45f3dc77-8c09-541b-875c-4ee2b424aa08",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T15:57:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.1215,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171936",
-          "title": "সৌদিতে আটকে পড়া ৪০ ওমরাহযাত্রী দেশে ফিরেছেন, বিমানবন্দরে অভ্যর্থনা",
-          "snippet": "সৌদিতে আটকে পড়া ৪০ ওমরাহযাত্রী দেশে ফিরেছেন, বিমানবন্দরে অভ্যর্থনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরব থেকে আটকে থাকা ৪০ ওমরাহযাত্রী দেশে ফিরেছেন",
-        "title_en": "Stranded Umrah Pilgrims Return to Bangladesh from Saudi Arabia",
-        "summary_bn": "সৌদি আরবে আঞ্চলিক অস্থিরতার কারণে আটকে পড়া বাংলাদেশি ওমরাহযাত্রীদের শেষ দলটি নিরাপদে দেশে ফিরেছে।",
-        "summary_en": "The final group of Bangladeshi Umrah pilgrims stranded due to regional instability in Saudi Arabia has returned home safely.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T15:57:23+00:00",
-        "lead_bn": "সৌদি আরবে আঞ্চলিক অস্থিরতার কারণে আটকে পড়া বাংলাদেশি ওমরাহযাত্রীদের শেষ দলটি নিরাপদে দেশে ফিরেছে।",
-        "lead_en": "The final group of Bangladeshi Umrah pilgrims stranded due to regional instability in Saudi Arabia has returned home safely.",
-        "bullets_bn": [
-          "সৌদি আরবে হামলার ঘটনায় আটকে পড়া ৪০ জন বাংলাদেশি ওমরাহযাত্রী বিমানবন্দর দিয়ে দেশে ফেরেন",
-          "ফিরে আসা যাত্রীদের বিমানবন্দর কর্তৃপক্ষ এবং সংশ্লিষ্ট প্রবাসীরা উষ্ণ অভ্যর্থনা জানান",
-          "সংশ্লিষ্ট কূটনৈতিক সহায়তার মাধ্যমে আটকে থাকা সব যাত্রীকে পর্যায়ক্রমে নিরাপদে দেশে ফিরিয়ে আনা হয়"
-        ],
-        "bullets_en": [
-          "Forty stranded Bangladeshi Umrah pilgrims returned through the airport following security disruptions in Saudi Arabia",
-          "Airport authorities and concerned expatriates warmly welcomed the returning pilgrims upon their arrival",
-          "All stranded travelers were successfully repatriated in phases through coordinated diplomatic assistance"
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে যেকোনো সংকটে আটকে পড়া প্রবাসীদের নিরাপত্তা ও জরুরি ফেরানোর প্রক্রিয়া ত্বরান্বিত হওয়ায় স্বস্তি ফিরেছে পরিবারগুলোতে।",
-        "impact_en": "Relief has been brought to families as the safety and repatriation process for expatriates stranded during Middle East crises is expedited.",
-        "details_bn": "মধ্যপ্রাচ্যের সাম্প্রতিক নিরাপত্তা পরিস্থিতি এবং হামলার ঘটনার ফলে সৌদি আরবে বেশ কিছু বাংলাদেশি ওমরাহযাত্রী আটকা পড়েন। দেশটির বিভিন্ন বিমানবন্দর সাময়িকভাবে বিঘ্নিত হওয়ায় তাদের ফেরা অনিশ্চিত হয়ে পড়েছিল। পরে সরকারের কূটনৈতিক প্রচেষ্টা ও সংশ্লিষ্ট বিমান সংস্থার সহযোগিতায় তাদের পর্যায়ক্রমে দেশে ফিরিয়ে আনার ব্যবস্থা করা হয়।",
-        "details_en": "Recent security tensions and attacks in the Middle East left several Bangladeshi Umrah pilgrims stranded in Saudi Arabia. Their return became uncertain as flight operations at various airports faced temporary disruptions. Subsequently, through government diplomatic efforts and airline cooperation, arrangements were made to repatriate them in phases."
-      }
-    },
-    {
-      "story_id": "d13ec4c1-0794-5a25-9688-6310a29d10c3",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/423760.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-25T16:59:41+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9611,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/pakistan-pcb-npl/",
-          "title": "খেলোয়াড়দের নেপাল প্রিমিয়ার লিগের ছাড়পত্র দিতে অর্থ চাচ্ছে পাকিস্তান বোর্ড",
-          "snippet": "খেলোয়াড়দের নেপাল প্রিমিয়ার লিগের ছাড়পত্র দিতে অর্থ চাচ্ছে পাকিস্তান বোর্ড"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের অংশগ্রহণ এনওসি জটিলতায় অনিশ্চিত",
-        "title_en": "Participation of Pakistani Cricketers in Nepal Premier League Uncertain Due to NOC Issues",
-        "summary_bn": "পাকিস্তান ক্রিকেট বোর্ডের ছাড়পত্র সংক্রান্ত জটিলতার কারণে নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের খেলা অনিশ্চয়তার মুখে পড়েছে।",
-        "summary_en": "Participation of Pakistani cricketers in the Nepal Premier League faces uncertainty due to clearance complications from the cricket board.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:59:41+00:00",
-        "lead_bn": "পাকিস্তান ক্রিকেট বোর্ডের ছাড়পত্র সংক্রান্ত জটিলতার কারণে নেপাল প্রিমিয়ার লিগে পাকিস্তানি ক্রিকেটারদের খেলা অনিশ্চয়তার মুখে পড়েছে।",
-        "lead_en": "Participation of Pakistani cricketers in the Nepal Premier League faces uncertainty due to clearance complications from the cricket board.",
-        "bullets_bn": [
-          "পাকিস্তান ক্রিকেট বোর্ড আগে ছাড়পত্র পাওয়া ক্রিকেটারদের লিগে খেলার অনুমতি স্থগিত রেখেছে।",
-          "ছাড়পত্র দেওয়ার বিনিময়ে পিসিবি প্রতিটি ক্রিকেটারের জন্য প্রায় ২৫ হাজার মার্কিন ডলার ফি দাবি করেছে বলে সূত্র জানিয়েছে।",
-          "টুর্নামেন্টে অংশ নিতে যাওয়া পাকিস্তানি ক্রিকেটারদের অনেকেই সমস্যার সমাধান না হওয়া পর্যন্ত যাত্রা স্থগিত রেখেছেন।"
-        ],
-        "bullets_en": [
-          "The Pakistan Cricket Board has temporarily suspended permission for players who previously received clearance to play in the league.",
-          "Sources claim the PCB is demanding a fee of approximately twenty five thousand US dollars per player in exchange for the No Objection Certificate.",
-          "Several Pakistani cricketers scheduled to participate in the tournament have delayed their travel until the issue is resolved."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আট দলের নেপাল প্রিমিয়ার লিগ অনুষ্ঠিত হওয়ার কথা রয়েছে। টুর্নামেন্টে পাকিস্তানের টি-টুয়েন্টি অধিনায়ক সাহেবজাদা ফারহানসহ বেশ কয়েকজন তারকা ক্রিকেটারের খেলার কথা রয়েছে। তাদের আন্তর্জাতিক কোনো ব্যস্ততা না থাকলেও ছাড়পত্র জটিলতা ও ফি দাবির গুঞ্জনে তাদের অংশগ্রহণ নিয়ে অনিশ্চয়তা তৈরি হয়েছে। পিসিবির নতুন কেন্দ্রীয় চুক্তিকাঠামো ও ফ্র্যাঞ্চাইজি লিগে খেলার নীতিমালার বিষয়ে আনুষ্ঠানিক স্পষ্টতা না থাকায় এই সংকট তৈরি হয়েছে।",
-        "details_en": "The eight-team Nepal Premier League is scheduled to take place, featuring several prominent Pakistani cricketers including T20 captain Sahibzada Farhan. Despite having no international scheduling conflicts, uncertainty arose due to clearance complications and reports of fee demands by the PCB. The lack of official clarity regarding the board's new central contract framework and policies for franchise leagues has contributed to the ongoing crisis."
-      }
-    },
-    {
-      "story_id": "7d1de083-6bc1-53f8-84ec-3dcf16810220",
+      "story_id": "84b9d660-b62e-5660-9ce8-974af4e3b8bc",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -182,48 +13,274 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled-13-2.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Frqx4i00b%2FNahid-Islam-01.jpeg?rect=0%2C167%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T16:57:30+00:00",
+      "published_at": "2026-10-25T17:57:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9391,
+      "importance_score": 9.0,
+      "rank_score": 3.5043,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/1413-rajuk-plots-under-investigation-1074-suspended/",
-          "title": "তদন্তের মুখে রাজউকের ১৪১৩ প্লট, স্থগিত ১০৭৪টি",
-          "snippet": "তদন্তের মুখে রাজউকের ১৪১৩ প্লট, স্থগিত ১০৭৪টি"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/qkqcw0t38b",
+          "title": "তারেক রহমানের ভালোর জন্যই আমরা সংবিধান সংস্কার পরিষদ চাইছি: নাহিদ ইসলাম",
+          "snippet": "তারেক রহমানের ভালোর জন্যই আমরা সংবিধান সংস্কার পরিষদ চাইছি: নাহিদ ইসলাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজউকের রাজনৈতিক বিবেচনায় বরাদ্দকৃত ১৪১৩ প্লট তদন্ত ও ১০৭৪টি স্থগিত",
-        "title_en": "Rajuk Investigates 1413 Politically Allocated Plots and Suspends 1074",
-        "summary_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ রাজনৈতিক বিবেচনায় বরাদ্দ দেওয়া ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও অনিয়মের অভিযোগে ১ হাজার ৭৪টি প্লট স্থগিত করেছে।",
-        "summary_en": "Rajuk is investigating 1,413 politically allocated plots and has suspended 1,074 plots over verified allocation irregularities.",
+        "title_bn": "তারেক রহমানের স্বার্থেই সংবিধান সংস্কার পরিষদ গঠনের দাবি নাহিদ ইসলামের",
+        "title_en": "Nahid Islam Demands Constitution Reform Council for Tarique Rahmans Benefit",
+        "summary_bn": "এনসিপির আহ্বায়ক নাহিদ ইসলাম তারেক রহমানের সুরক্ষায় অবিলম্বে একটি সংবিধান সংস্কার পরিষদ গঠনের দাবি জানিয়েছেন।",
+        "summary_en": "NCP convenor Nahid Islam demanded the immediate formation of a constitution reform council to protect Tarique Rahman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:57:30+00:00",
-        "lead_bn": "রাজধানী উন্নয়ন কর্তৃপক্ষ রাজনৈতিক বিবেচনায় বরাদ্দ দেওয়া ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও অনিয়মের অভিযোগে ১ হাজার ৭৪টি প্লট স্থগিত করেছে।",
-        "lead_en": "Rajuk is investigating 1,413 politically allocated plots and has suspended 1,074 plots over verified allocation irregularities.",
+        "published_at": "2026-10-25T17:57:02+00:00",
+        "lead_bn": "এনসিপির আহ্বায়ক নাহিদ ইসলাম তারেক রহমানের সুরক্ষায় অবিলম্বে একটি সংবিধান সংস্কার পরিষদ গঠনের দাবি জানিয়েছেন।",
+        "lead_en": "NCP convenor Nahid Islam demanded the immediate formation of a constitution reform council to protect Tarique Rahman.",
         "bullets_bn": [
-          "রাজনৈতিক বিবেচনায় বরাদ্দকৃত ১ হাজার ৪১৩টি প্লটের নথি যাচাই ও তদন্ত কার্যক্রম জোরদার করেছে রাজধানী উন্নয়ন কর্তৃপক্ষ।",
-          "প্রাথমিক অনিয়মের প্রমাণ পাওয়ায় পূর্বাচল নতুন প্রকল্পের ৮৭৪টি এবং ঝিলমিল আবাসিক এলাকার ২০০টি প্লটের কার্যক্রম স্থগিত করা হয়েছে।",
-          "তদন্তে অনিয়ম প্রমাণিত হলে এসব প্লট বরাদ্দের বিরুদ্ধে কঠোর আইনগত ব্যবস্থা নেওয়া হবে।"
+          "পুরোনো ফ্যাসিস্ট সাংবিধানিক কাঠামোর ধারাবাহিকতা থেকে বের হয়ে নতুন গণতান্ত্রিক বন্দোবস্ত প্রতিষ্ঠার আহ্বান জানান নাহিদ ইসলাম",
+          "তারেক রহমানের সরকার ভবিষ্যতে অবৈধ ঘোষিত হওয়ার শঙ্কা প্রকাশ করে সংবিধান সংস্কার পরিষদ গঠনের দাবি জানানো হয়",
+          "আইনশৃঙ্খলা পরিস্থিতি ও পাহাড়ের অস্থিতিশীলতা নিয়ে স্বরাষ্ট্রমন্ত্রীর স্পষ্ট বক্তব্য দাবি করে ৩০ অক্টোবর গণবিক্ষোভের কর্মসূচি ঘোষণা করা হয়"
         ],
         "bullets_en": [
-          "Rajuk has intensified scrutiny and investigation into 1,413 plots allocated through political consideration.",
-          "Authorities suspended 874 plots in Purbachal and 200 plots in Jhilmil after finding primary evidence of irregularities.",
-          "Strict legal actions will be enforced against these allocations if investigations confirm rule violations."
+          "Nahid Islam urged the government to break away from the old fascist constitutional framework and establish democratic arrangements",
+          "The NCP leader expressed concern that Tarique Rahmans government might be declared illegal in the future",
+          "A mass demonstration program was announced for October 30 demanding clear statements from the home minister on hill tracts instability"
         ],
-        "impact_bn": "আবাসিক প্লট বরাদ্দে স্বচ্ছতা ও ন্যায়বিচার নিশ্চিত হলে সাধারণ নাগরিক এবং প্রকৃত আবাসন প্রত্যাশীরা উপকৃত হবেন।",
-        "impact_en": "Transparency in land allocation ensures fair access to housing for deserving citizens and curbs political favoritism.",
-        "details_bn": "থেকে ২০২৪ সাল পর্যন্ত গুলশান, বনানী, উত্তরা, পূর্বাচল এবং ঝিলমিল আবাসিক এলাকায় রাজনৈতিক বিবেচনায় ১ হাজার ৪১৩টি প্লট বরাদ্দ দেওয়া হয়। হাইকোর্ট বিভাগের রুল অনুযায়ী গঠিত বিশেষ কমিটি এসব প্লটের নথি পরীক্ষা করে মন্ত্রণালয়ে প্রতিবেদন জমা দেয়। প্রাপ্ত প্রতিবেদনের ভিত্তিতে প্রাথমিক অনিয়ম প্রমাণিত হওয়ায় রাজউক প্লটগুলোর কার্যক্রম স্থগিত করে এবং চূড়ান্ত আইনি ব্যবস্থা নেওয়ার প্রক্রিয়া শুরু করে।",
-        "details_en": "Between 2009 and 2024, a total of 1,413 plots were politically allocated across Gulshan, Banani, Uttara, Purbachal, and Jhilmil residential areas. A committee formed under a High Court directive reviewed the documents and submitted a report to the ministry. Based on the findings, Rajuk suspended the allocations and initiated processes for strict legal actions."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও দ্রব্যমূল্যের ঊর্ধ্বগতির প্রতিবাদে নাগরিকদের জীবনযাত্রায় দুর্ভোগ নিরসনের দাবি জানানো হয়েছে।",
+        "impact_en": "Citizens face ongoing concerns over deteriorating law and order and rising commodity prices as political tensions persist.",
+        "details_bn": "রাজধানীর মিরপুরে একটি প্রচারপত্র বিতরণ কর্মসূচিতে অংশ নিয়ে এনসিপির নেতৃবৃন্দ বর্তমান রাজনৈতিক পরিস্থিতি ও সাংবিধানিক কাঠামো নিয়ে এই মন্তব্য করেন। আইনশৃঙ্খলা পরিস্থিতি, দ্রব্যমূল্য বৃদ্ধি এবং রাষ্ট্রীয় প্রতিষ্ঠানে দলীয়করণের প্রতিবাদে ৩০ অক্টোবর শাহবাগে গণবিক্ষোভ কর্মসূচি পালন করবে দলটি। কর্মসূচিতে পাহাড়ের অস্থিতিশীলতা ও ভারতের সঙ্গে গোপন আঁতাতের অভিযোগও তোলেন নেতারা।",
+        "details_en": "Leaders of the NCP made these remarks during a leaflet distribution program in Mirpur, addressing the current political situation and constitutional framework. To protest worsening law and order, price hikes, and partisan appointments, the party announced a mass demonstration at Shahbagh on October 30. During the program, leaders also raised concerns over instability in the hill tracts and alleged secret pacts with neighboring nations."
+      }
+    },
+    {
+      "story_id": "eb367e82-136e-599c-9d7c-5360fab1b705",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-17-2.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-25T17:30:58+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4583,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/awami-league-leader-ahad-hossain-arrested-in-mohammadpur/",
+          "title": "মোহাম্মদপুরে আওয়ামী লীগ নেতা আহাদ হোসেন গ্রেপ্তার",
+          "snippet": "মোহাম্মদপুরে আওয়ামী লীগ নেতা আহাদ হোসেন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মোহাম্মদপুর থেকে নিষিদ্ধ আওয়ামী লীগ নেতা আহাদ হোসেন গ্রেপ্তার",
+        "title_en": "Banned Awami League Leader Ahad Hossain Arrested in Mohammadpur",
+        "summary_bn": "রাজধানীর মোহাম্মদপুর থেকে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা আহাদ হোসেনকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested banned Awami League leader Ahad Hossain from the capital's Mohammadpur area.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T17:30:58+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুর থেকে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা আহাদ হোসেনকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested banned Awami League leader Ahad Hossain from the capital's Mohammadpur area.",
+        "bullets_bn": [
+          "মোহাম্মপুরের ইকবাল রোড এলাকা থেকে নিষিদ্ধ আওয়ামী লীগ নেতা আহাদ হোসেনকে আটক করে আইনশৃঙ্খলা বাহিনী।",
+          "গ্রেপ্তার আহাদ হোসেন ভোলা সদর পৌরসভার চার নম্বর ওয়ার্ড আওয়ামী লীগের সাধারণ সম্পাদক ও সাবেক প্যানেল মেয়র ছিলেন।",
+          "রাজধানীতে অস্থিতিশীল পরিস্থিতি সৃষ্টি ও ঝটিকা মিছিল পরিচালনার পরিকল্পনার অভিযোগে তার বিরুদ্ধে আইনি প্রক্রিয়া চলমান রয়েছে।"
+        ],
+        "bullets_en": [
+          "Law enforcement detained banned Awami League leader Ahad Hossain from the Iqbal Road area of Mohammadpur.",
+          "Arrested Ahad Hossain served as the general secretary of Bhola Sadar municipality ward four and former panel mayor.",
+          "Legal proceedings are underway against him over allegations of planning to create instability and processions in the capital."
+        ],
+        "impact_bn": "রাজধানীতে রাজনৈতিক সহিংসতা ও নাশকতা রোধে আইনশৃঙ্খলা বাহিনীর এই পদক্ষেপে সাধারণ মানুষের নিরাপত্তায় স্বস্তি মিলবে।",
+        "impact_en": "This law enforcement action to curb political violence and sabotage in the capital brings relief to public security.",
+        "details_bn": "পুলিশের প্রাথমিক তদন্ত অনুযায়ী, আহাদ হোসেন দীর্ঘদিন ধরে ঢাকায় আত্মগোপনে থেকে নিষিদ্ধ দলের কেন্দ্রীয় নেতাদের সঙ্গে যোগাযোগ বজায় রেখে আসছিলেন। রাজধানীতে বিশৃঙ্খলা সৃষ্টির উদ্দেশ্যে তিনি মোহাম্মদপুর এলাকায় অবস্থান করছিলেন বলে জানিয়েছে পুলিশ। পরে সুনির্দিষ্ট তথ্যের ভিত্তিতে অভিযান চালিয়ে তাকে গ্রেপ্তার করা হয় এবং তার বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হয়েছে।",
+        "details_en": "According to preliminary police investigation, Ahad Hossain had been hiding in Dhaka for a long time while maintaining contact with central leaders of the banned party. Police stated he was staying in the Mohammadpur area with the intention of creating chaos in the capital. He was subsequently arrested following a raid based on specific information, and legal procedures have been initiated against him."
+      }
+    },
+    {
+      "story_id": "3cbdb04f-0bba-5bb4-bf56-6d6ed93d811f",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T17:51:27+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8825,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1171950",
+          "title": "গৌতম বুদ্ধের বাণী ধারণ করলে শান্তির সমাজ গড়ে উঠবে: রিজভী",
+          "snippet": "গৌতম বুদ্ধের বাণী ধারণ করলে শান্তির সমাজ গড়ে উঠবে: রিজভী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "গৌতম বুদ্ধের বাণী চর্চায় শান্তির সমাজ গড়া সম্ভব: রিজভী",
+        "title_en": "Practicing Gautama Buddha's Teachings Can Build Peaceful Society: Rizvi",
+        "summary_bn": "বিএনপির জ্যেষ্ঠ নেতা রুহুল কবির রিজভী বলেছেন, গৌতম বুদ্ধের আদর্শ ও বাণী ধারণ করলে শুদ্ধ মানুষ ও শান্তির সমাজ গড়ে ওঠে।",
+        "summary_en": "BNP senior leader Ruhul Kabir Rizvi stated that embracing Gautama Buddha's ideals and teachings fosters righteous individuals and a peaceful society.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T17:51:27+00:00",
+        "lead_bn": "বিএনপির জ্যেষ্ঠ নেতা রুহুল কবির রিজভী বলেছেন, গৌতম বুদ্ধের আদর্শ ও বাণী ধারণ করলে শুদ্ধ মানুষ ও শান্তির সমাজ গড়ে ওঠে।",
+        "lead_en": "BNP senior leader Ruhul Kabir Rizvi stated that embracing Gautama Buddha's ideals and teachings fosters righteous individuals and a peaceful society.",
+        "bullets_bn": [
+          "গৌতম বুদ্ধের বাণী চর্চা করে সমাজে শুদ্ধ মানুষ হিসেবে চলার আহ্বান জানিয়েছেন বিএনপির ভারপ্রাপ্ত মহাসচিব রুহুল কবির রিজভী।",
+          "বুদ্ধের শিক্ষা ও আদর্শ মনের মধ্যে ধারণ করার ওপর গুরুত্বারোপ করেন তিনি।",
+          "এই আদর্শ অনুসরণের মাধ্যমে সমাজে পারস্পরিক শান্তি ও সম্প্রীতি প্রতিষ্ঠা করা সম্ভব বলে মনে করেন এই রাজনৈতিক নেতা।"
+        ],
+        "bullets_en": [
+          "BNP Senior Joint Secretary General Ruhul Kabir Rizvi urged practicing Gautama Buddha's teachings to become righteous individuals in society.",
+          "He emphasized the importance of internalizing Buddha's education and ideals within one's mindset.",
+          "The political leader believes that following these ideals can establish mutual peace and harmony across society."
+        ],
+        "impact_bn": "নাগরিক জীবনে নৈতিক মূল্যবোধ ও ধর্মীয় সম্প্রীতি বাড়াতে এই ধরনের বার্তা ইতিবাচক ভূমিকা রাখে।",
+        "impact_en": "Such messages play a positive role in enhancing moral values and religious harmony in civic life.",
+        "details_bn": "বাংলাদেশ জাতীয়তাবাদী দল বিএনপি বিভিন্ন ধর্মীয় ও জাতীয় উৎসবে নিয়মিত বাণী দিয়ে থাকে এবং সম্প্রীতির বার্তা প্রচার করে। এর অংশ হিসেবেই বৌদ্ধ সম্প্রদায়ের প্রধান ধর্মীয় উৎসব বা আদর্শের প্রেক্ষাপটে এই মন্তব্য করেন দলটির জ্যেষ্ঠ নেতা রুহুল কবির রিজভী। সমাজে নৈতিক অবক্ষয় রোধ এবং ধর্মীয় সম্প্রতি বজায় রাখতে বুদ্ধের অহিংসার বাণী বিশেষ তাৎপর্যপূর্ণ বলে বিভিন্ন সময়ে আলোচনা হয়েছে।",
+        "details_en": "The Bangladesh Nationalist Party regularly issues statements and promotes messages of harmony during various religious and national festivals. As part of this, senior party leader Ruhul Kabir Rizvi made these remarks in the context of Buddhist religious ideals. Buddha's teachings of non-violence have historically held significant relevance in preventing moral degradation and maintaining communal harmony."
+      }
+    },
+    {
+      "story_id": "b1e6af56-b271-5bcb-905f-2f38e34cd73c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T17:35:36+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7595,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976754/%E0%A6%AD%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87",
+          "title": "ভোটের আগে ট্রাম্পের প্রকাশ্য সমর্থন চেয়ে নেতানিয়াহুর আকুতি",
+          "snippet": "ভোটের আগে ট্রাম্পের প্রকাশ্য সমর্থন চেয়ে নেতানিয়াহুর আকুতি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজনৈতিক অস্তিত্ব রক্ষায় ট্রাম্পের প্রকাশ্য সমর্থন চেয়েছেন নেতানিয়াহু",
+        "title_en": "Netanyahu Seeks Public Support from Trump to Save Political Existence",
+        "summary_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু আসন্ন নির্বাচনের আগে নিজের অবস্থান শক্ত করতে ডোনাল্ড ট্রাম্পের প্রকাশ্য সমর্থন কামনা করেছেন।",
+        "summary_en": "Israeli Prime Minister Benjamin Netanyahu has sought public support from Donald Trump to solidify his position ahead of the election.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T17:35:36+00:00",
+        "lead_bn": "ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু আসন্ন নির্বাচনের আগে নিজের অবস্থান শক্ত করতে ডোনাল্ড ট্রাম্পের প্রকাশ্য সমর্থন কামনা করেছেন।",
+        "lead_en": "Israeli Prime Minister Benjamin Netanyahu has sought public support from Donald Trump to solidify his position ahead of the election.",
+        "bullets_bn": [
+          "রাজনৈতিক অস্তিত্ব রক্ষার লড়াইয়ে সাবেক মার্কিন প্রেসিডেন্টের কাছে প্রকাশ্য সমর্থন চেয়েছেন ইসরায়েলি প্রধানমন্ত্রী।",
+          "মার্কিন ও ইসরায়েলি সূত্রের বরাতে প্রভাবশালী সংবাদমাধ্যম অ্যাক্সিওস এই তথ্য প্রকাশ করেছে।",
+          "নির্বাচনী বৈতরণী পার হতে এই কূটনৈতিক কৌশল কতটুকু ফলপ্রসূ হয়, তা নিয়ে আন্তর্জাতিক মহলে আলোচনা চলছে।"
+        ],
+        "bullets_en": [
+          "The Israeli Prime Minister has sought public support from the former US president amid a tough political battle.",
+          "Prominent media outlet Axios reported the development citing reliable US and Israeli sources.",
+          "International observers are closely watching whether this diplomatic strategy will influence the upcoming election outcome."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইসরায়েলের রাজনীতিতে বেনিয়ামিন নেতানিয়াহুর অবস্থান টিকিয়ে রাখতে আন্তর্জাতিক সমীকরণ সবসময়ই গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। বিশেষ করে মার্কিন প্রশাসনের সঙ্গে সুসম্পর্ক ও প্রভাবশালী মার্কিন রাজনৈতিক ব্যক্তিত্বদের সমর্থন ইসরায়েলি রাজনীতিতে বড় প্রভাব ফেলে। আসন্ন নির্বাচনকে সামনে রেখে রাজনৈতিক চ্যালেঞ্জ মোকাবিলায় তিনি ট্রাম্পের মতো প্রভাবশালী নেতার প্রকাশ্য সমর্থনের ওপর নির্ভর করছেন।",
+        "details_en": "International dynamics have always played a crucial role in maintaining Benjamin Netanyahu's political standing in Israel. Strong ties with the US administration and the backing of influential American political figures heavily impact Israeli domestic politics. Facing severe political challenges ahead of the crucial election, Netanyahu is relying on the public endorsement of influential leaders like Trump."
+      }
+    },
+    {
+      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#RahulGandhi",
+        "#Congress",
+        "#IndiaElections",
+        "#NewDelhi"
+      ],
+      "image_url": "https://static.dw.com/image/79568976_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T18:00:42.396479+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6883,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নভেম্বরের ১ তারিখ বিক্ষোভের ডাক রাহুল গান্ধীর",
+        "title_en": "Rahul Gandhi calls for November 1 protest against electoral roll deletions",
+        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দিল্লির রামলীলা ময়দানে আগামী পহেলা নভেম্বর এক বিশাল প্রতিবাদ মিছিল ও সমাবেশের ডাক দিয়েছেন।",
+        "summary_en": "Congress leader Rahul Gandhi has urged citizens to join a protest march in New Delhi on November 1 against alleged electoral roll deletions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T18:00:42.396479+00:00",
+        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দিল্লির রামলীলা ময়দানে আগামী পহেলা নভেম্বর এক বিশাল প্রতিবাদ মিছিল ও সমাবেশের ডাক দিয়েছেন।",
+        "lead_en": "Congress leader Rahul Gandhi has urged citizens to join a protest march in New Delhi on November 1 against alleged electoral roll deletions.",
+        "bullets_bn": [
+          "ভোটার তালিকা থেকে ভোটারদের নাম বাদ দেওয়া ও নিয়ম লঙ্ঘনের প্রতিবাদে রামলীলা ময়দানে বিক্ষোভ সমাবেশের ঘোষণা দেওয়া হয়েছে।",
+          "শাসক দল বিজেপির বিরুদ্ধে ভোট চুরির গুরুতর অভিযোগ তুলেছেন বিরোধী নেতা রাহুল গান্ধী।",
+          "ছাত্র, কৃষক, শ্রমিক, নারী ও ব্যবসায়ীদের এই আন্দোলনে দলমত নির্বিশেষে অংশ নেওয়ার আহ্বান জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "A protest march and rally have been planned at Ramlila Maidan against alleged voter deletions and rule violations.",
+          "Opposition leader Rahul Gandhi accused the ruling BJP of stealing votes by removing names from electoral rolls.",
+          "Students, farmers, workers, women, and traders are urged to participate in the upcoming nationwide demonstration."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভারতের বিরোধী দলগুলো দীর্ঘদিন ধরে নির্বাচন প্রক্রিয়া এবং ভোটার তালিকা প্রস্তুতের স্বচ্ছতা নিয়ে প্রশ্ন তুলে আসছে। কংগ্রেস নেতা রাহুল গান্ধী অভিযোগ করেছেন যে সুপরিকল্পিতভাবে ভোটার তালিকা থেকে বিরোধী সমর্থকদের নাম বাদ দেওয়া হচ্ছে। এর পরিপ্রেক্ষিতে গণতান্ত্রিক অধিকার রক্ষা ও নির্বাচনী স্বচ্ছতা ফেরাতে এই গণআন্দোলনের ডাক দেওয়া হয়েছে।",
+        "details_en": "Indian opposition parties have consistently raised concerns regarding transparency in the electoral process and voter list management. Congress leader Rahul Gandhi has alleged that names of citizens are being systematically removed from voter rolls to manipulate outcomes. The upcoming rally is part of ongoing efforts by the opposition to challenge these practices and demand electoral integrity."
       }
     },
     {
@@ -237,14 +294,14 @@
       "region": "international",
       "tags": [
         "#WestBank",
-        "#Israel"
+        "#IsraelMilitary"
       ],
       "image_url": "https://th-i.thgim.com/public/incoming/colgyt/article71624391.ece/alternates/LANDSCAPE_1200/2026-10-25T084841Z_1974138941_RC28AOAZPRKR_RTRMADP_3_ISRAEL-PALESTINIANS-HEBRON-OPERATION.JPG",
       "image_caption": null,
       "published_at": "2026-10-25T16:49:51+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.12,
-      "rank_score": 0.7672,
+      "rank_score": 0.4701,
       "sources": [
         {
           "name": "The Hindu International",
@@ -260,10 +317,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান ও চলাচল সীমিত",
-        "title_en": "Israeli Military Advances West Bank Operation Amid Tight Restrictions",
-        "summary_bn": "ইসরায়েলি সেনাবাহিনী অস্ত্রধারীর হামলার পর অধিকৃত পশ্চিম তীরে বড় ধরনের সামরিক অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
-        "summary_en": "The Israeli military intensified a massive operation in the occupied West Bank, displacing thousands of Palestinians following a deadly shooting attack.",
+        "title_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান অব্যাহত",
+        "title_en": "Israeli Military Operation Continues in Occupied West Bank",
+        "summary_bn": "ইসরায়েলি সামরিক বাহিনী অধিকৃত পশ্চিম তীরে বড় ধরনের অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
+        "summary_en": "The Israeli military continued a massive operation in the occupied West Bank, displacing thousands of Palestinians.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -273,82 +330,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T16:49:51+00:00",
-        "lead_bn": "ইসরায়েলি সেনাবাহিনী অস্ত্রধারীর হামলার পর অধিকৃত পশ্চিম তীরে বড় ধরনের সামরিক অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
-        "lead_en": "The Israeli military intensified a massive operation in the occupied West Bank, displacing thousands of Palestinians following a deadly shooting attack.",
+        "lead_bn": "ইসরায়েলি সামরিক বাহিনী অধিকৃত পশ্চিম তীরে বড় ধরনের অভিযান চালিয়ে হাজারো ফিলিস্তিনিকে বাস্তুচ্যুত করেছে।",
+        "lead_en": "The Israeli military continued a massive operation in the occupied West Bank, displacing thousands of Palestinians.",
         "bullets_bn": [
-          "ইসরায়েলি সেনারা পশ্চিম তীরের বিভিন্ন স্থানে অভিযান চালিয়ে ফিলিস্তিনিদের আটক এবং চলাচল সীমিত করেছে।",
-          "হেব্রন পৌরসভার তথ্য অনুযায়ী এই অভিযানে দুই হাজার ছয়শ জনের বেশি মানুষ বাস্তুচ্যুত হয়েছে।",
-          "আসন্ন নির্বাচন পর্যন্ত ইসরায়েলি ক্রসিং বন্ধ রাখা হবে এবং ফিলিস্তিনি শ্রমিকদের প্রবেশে নিষেধাজ্ঞা বহাল থাকবে।"
+          "ইসরায়েলি বাহিনী হ্রিল ও আশপাশের এলাকায় ব্যাপক সামরিক অভিযান পরিচালনা করে এবং চলাচলের ওপর কঠোর নিষেধাজ্ঞা আরোপ করে।",
+          "অভিযানে অন্তত দুই হাজার ছয়শ ফিলিস্তিনি বাস্তুচ্যুত হয়েছে এবং চল্লিশজনকে গ্রেপ্তার করা হয়েছে।",
+          "নির্বাচন সম্পন্ন না হওয়া পর্যন্ত ফিলিস্তিনি শ্রমিকদের ইসরায়েলে প্রবেশে নিষেধাজ্ঞা বহাল থাকবে।"
         ],
         "bullets_en": [
-          "Israeli troops conducted extensive operations across multiple locations in the West Bank, enforcing severe movement restrictions.",
-          "The Hebron municipality reported that the ongoing military operation has displaced more than 2,600 residents.",
-          "Border crossings into Israel will remain closed and worker permits suspended until the conclusion of national elections."
+          "Israeli forces conducted a massive military operation in Hebron and imposed strict movement restrictions.",
+          "The operation displaced over two thousand six hundred Palestinians and resulted in forty arrests.",
+          "Crossings into Israel will remain closed and worker permits suspended until national elections conclude."
         ],
-        "impact_bn": "নাগরিকদের ওপর সরাসরি কোনো প্রভাব নেই।",
+        "impact_bn": null,
         "impact_en": null,
-        "details_bn": "পশ্চিম তীরে দুই ইসরায়েলি সেনা নিহত হওয়ার পর এই কঠোর সামরিক অভিযান শুরু হয়। আসন্ন নির্বাচনকে সামনে রেখে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নিরাপত্তা নীতির একটি বড় পরীক্ষা হিসেবে এই পদক্ষেপ দেখা হচ্ছে। অভিযান চলাকালীন ফিলিস্তিনি শ্রমিকদের প্রবেশাধিকার স্থগিত করা হয়েছে এবং হেব্রনের বিভিন্ন এলাকায় ব্যাপক তল্লাশি চালানো হচ্ছে।",
-        "details_en": "The military operation was launched following a gun attack that killed two Israeli soldiers. Timed ahead of a tense national election viewed as a referendum on Prime Minister Benjamin Netanyahu's security policies, the crackdown has involved sweeping arrests, localized displacement in Hebron, and strict border closures restricting Palestinian workers."
-      }
-    },
-    {
-      "story_id": "9f569936-d02c-5dad-9ac0-a9a8300e37fb",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "economy_business",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#ArtificialIntelligence",
-        "#TechTrends",
-        "#BusinessEconomy"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-      "image_caption": null,
-      "published_at": "2026-10-25T16:57:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6654,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-          "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
-          "snippet": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রযুক্তি খাতের বাইরে বড় কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তার কোনো আর্থিক লাভ মেলেনি",
-        "title_en": "AI Delivers Zero Financial Payoff to Major Corporations Outside Tech Sector",
-        "summary_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ জানিয়েছেন, প্রযুক্তি খাত ছাড়া বড় কোনো কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তা কোনো অর্থনৈতিক লাভ আনতে পারেনি।",
-        "summary_en": "Artificial intelligence has failed to deliver financial payoffs to major corporations outside the tech industry, according to Apollo Global Management.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T16:57:32+00:00",
-        "lead_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ জানিয়েছেন, প্রযুক্তি খাত ছাড়া বড় কোনো কর্পোরেশনে কৃত্রিম বুদ্ধিমত্তা কোনো অর্থনৈতিক লাভ আনতে পারেনি।",
-        "lead_en": "Artificial intelligence has failed to deliver financial payoffs to major corporations outside the tech industry, according to Apollo Global Management.",
-        "bullets_bn": [
-          "প্রযুক্তি খাতের বাইরে থাকা বড় কর্পোরেশনগুলোতে কৃত্রিম বুদ্ধিমত্তার ব্যবহারে মুনাফা এবং কর্মীপ্রতি আয় স্থিতিশীল রয়েছে।",
-          "কৃত্রিম বুদ্ধিমত্তায় ব্যাপক বিনিয়োগ ও প্রচার থাকলেও এটি প্রত্যাশিত আর্থিক লাভ দিতে ব্যর্থ হয়েছে বলে উল্লেখ করা হয়।",
-          "ব্যবসায়িক ক্ষেত্রে জবাবদিহিতা ও সংস্কৃতির অনুপস্থিতি কৃত্রিম বুদ্ধিমত্তাকে কাঙ্ক্ষিত মুনাফা অর্জনে বাধাগ্রস্ত করছে।"
-        ],
-        "bullets_en": [
-          "Profit margins and revenue per worker remain flat for major corporations outside the tech industry using artificial intelligence.",
-          "Apollo economist Torsten Slok noted that AI has delivered zero financial payoff despite massive corporate investments and widespread hype.",
-          "Business experts emphasize that AI lacks accountability, trust, and cultural understanding which are essential for driving actual revenue growth."
-        ],
-        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা নিয়ে অতিরিক্ত উন্মাদনা ও কর্পোরেট বিনিয়োগের বাস্তব কার্যকারিতা নিয়ে নতুন করে ভাবার সুযোগ তৈরি হয়েছে।",
-        "impact_en": "Ordinary professionals and corporate workers may face a reality check as companies reassess exaggerated productivity claims surrounding artificial intelligence investments.",
-        "details_bn": "অ্যাপোলো গ্লোবাল ম্যানেজমেন্টের প্রধান অর্থনীতিবিদ টরস্টেন শ্লোক এসঅ্যান্ডপি ৫০০ সূচকের শীর্ষ সাত প্রযুক্তি প্রতিষ্ঠান বাদে বাকি প্রতিষ্ঠানগুলোর ওপর একটি গবেষণা প্রকাশ করেন। সেখানে দেখা যায়, বড় বড় কর্পোরেশনগুলোতে কৃত্রিম বুদ্ধিমত্তার ব্যবহার এখনো দৃশ্যমান কোনো উৎপাদনশীলতা বাড়াতে পারেনি। প্রযুক্তি জায়ান্টদের বাইরে সাধারণ ব্যবসায়িক প্রতিষ্ঠানগুলোতে এই প্রযুক্তির আর্থিক রিটার্ন নিয়ে বিশেষজ্ঞরা তাই দীর্ঘকাল ধরে সংশয় প্রকাশ করে আসছেন।",
-        "details_en": "Apollo Global Management chief economist Torsten Slok analyzed companies outside the top seven tech giants and found no evidence of improved productivity or profit margins. Despite massive hype and corporate investments, non-tech firms struggle to translate artificial intelligence into higher revenues. Experts argue that AI lacks human qualities like accountability, trust, and ethical judgment which are critical for long-term business success."
+        "details_bn": "পশ্চিম তীরে দুই ইসরায়েলি সেনা নিহত এবং তিনজন আহত হওয়ার ঘটনার পর এই সামরিক অভিযান শুরু হয়। আগামী জাতীয় নির্বাচনকে সামনে রেখে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নিরাপত্তা নীতির অংশ হিসেবে এই পদক্ষেপ নেওয়া হয়েছে। অভিযানের ফলে ফিলিস্তিনি নাগরিকদের স্বাভাবিক চলাচল মারাত্মকভাবে ব্যাহত হচ্ছে এবং হাজার হাজার মানুষ ঘরছাড়া হয়েছেন।",
+        "details_en": "The military operation was launched in response to a gun attack that killed two Israeli soldiers and wounded three others in the West Bank. The escalation coincides with Israel's upcoming national elections, which serve as a referendum on Prime Minister Benjamin Netanyahu's security policies. The large-scale raids have severely restricted local movement and displaced thousands of residents."
       }
     }
   ]
