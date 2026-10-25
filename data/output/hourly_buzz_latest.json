@@ -1,66 +1,68 @@
 {
-  "updated_at": "2026-10-25T08:17:31.742684",
+  "updated_at": "2026-10-25T03:00:51.956961",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "cdd31dd9-1f45-5e36-a344-a2484c4ee32e",
-      "primary_category": "society_education",
+      "story_id": "eb0917e3-76ab-58b5-b0f9-65b319370954",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business",
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fluc0efcv%2FWhatsApp-Image-2026-10-24-at-6.28.46-PM.jpeg?rect=0%2C91%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-25T02:00:00+00:00",
+      "published_at": "2026-10-25T02:39:30+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.241,
+      "rank_score": 2.1611,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/opinion/interview/tnn1of6c7e",
-          "title": "প্রধানমন্ত্রীর জাপান সফরে ডেঙ্গুর টিকার প্রসঙ্গ তোলা যায়",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফরে ডেঙ্গুর টিকার প্রসঙ্গ তোলা যায়"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-prime-minister-is-leaving-for-japan-tonight/",
+          "title": "চার দিনের সফরে জাপান যাচ্ছেন প্রধানমন্ত্রী",
+          "snippet": "চার দিনের সফরে জাপান যাচ্ছেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে ডেঙ্গুর সংক্রমণ ও বিস্তার গ্রামাঞ্চল পর্যন্ত ছড়িয়ে পড়ছে",
-        "title_en": "Dengue infections and fatalities are rapidly expanding into rural areas",
-        "summary_bn": "বিশেষজ্ঞদের মতে ডেঙ্গুর বিস্তার ও মৃত্যু এখন রাজধানী ছাড়িয়ে দেশের বিভিন্ন গ্রামাঞ্চল পর্যন্ত মারাত্মকভাবে ছড়িয়ে পড়েছে।",
-        "summary_en": "Experts warn that dengue infections and deaths are now spreading significantly beyond the capital into rural areas.",
+        "title_bn": "চার দিনের সরকারি সফরে জাপানের টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman Heads to Tokyo on Four-Day Official Visit",
+        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে বাণিজ্য ও বিনিয়োগ সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is visiting Tokyo on a four-day official tour to boost bilateral trade and investment.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "world_diplomacy"
+          "world_diplomacy",
+          "economy_business",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:00:00+00:00",
-        "lead_bn": "বিশেষজ্ঞদের মতে ডেঙ্গুর বিস্তার ও মৃত্যু এখন রাজধানী ছাড়িয়ে দেশের বিভিন্ন গ্রামাঞ্চল পর্যন্ত মারাত্মকভাবে ছড়িয়ে পড়েছে।",
-        "lead_en": "Experts warn that dengue infections and deaths are now spreading significantly beyond the capital into rural areas.",
+        "published_at": "2026-10-25T02:39:30+00:00",
+        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে বাণিজ্য ও বিনিয়োগ সহযোগিতা বাড়াতে চার দিনের সরকারি সফরে টোকিও যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is visiting Tokyo on a four-day official tour to boost bilateral trade and investment.",
         "bullets_bn": [
-          "জুন থেকে সেপ্টেম্বর পর্যন্ত স্বল্প সময়ে এডিস মশার ব্যাপক প্রজনন ঘটেছে।",
-          "ঢাকার বাইরে শহর ও গ্রামাঞ্চলে ডেঙ্গু রোগী এবং মৃত্যুর সংখ্যা এখন বেশি।",
-          "উপজেলা স্বাস্থ্য কমপ্লেক্সে পরীক্ষার সুযোগ বাড়ায় রোগী শনাক্তকরণ দ্রুত হচ্ছে।"
+          "বাণিজ্য, বিনিয়োগ, অবকাঠামো উন্নয়ন ও প্রযুক্তি হস্তান্তরে সহযোগিতা বাড়াতে টোকিও সফর করছেন প্রধানমন্ত্রী।",
+          "সফরে জাপানের প্রধানমন্ত্রীর সাথে উচ্চ পর্যায়ের দ্বিপক্ষীয় বৈঠক এবং শীর্ষ ব্যবসায়ীদের সাথে আলোচনা অনুষ্ঠিত হবে।",
+          "বাংলাদেশ-জাপান অর্থনৈতিক অংশীদারি চুক্তি বাস্তবায়ন এবং নতুন সমঝোতা স্মারক সই হওয়ার সম্ভাবনা রয়েছে।"
         ],
         "bullets_en": [
-          "Rapid breeding of Aedes mosquitoes surged significantly between June and September.",
-          "Rural areas and peripheral towns now record higher numbers of dengue cases and deaths.",
-          "Expanded testing facilities at upazila health complexes accelerate prompt disease detection."
+          "The Prime Minister is visiting Tokyo to enhance cooperation in trade, investment, infrastructure, and technology transfer.",
+          "Bilateral talks with the Japanese Prime Minister and meetings with top business leaders are scheduled during the tour.",
+          "Implementation of the economic partnership agreement and potential signing of new memorandums of understanding will be prioritized."
         ],
-        "impact_bn": "গ্রামাঞ্চলে ডেঙ্গুর বিস্তার বাড়ায় সাধারণ মানুষ ও গ্রামীণ জনপদে স্বাস্থ্যঝুঁকি বহুগুণ বৃদ্ধি পেয়েছে।",
-        "impact_en": "The spread of dengue to rural areas significantly increases health risks for ordinary villagers.",
-        "details_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যুর ধরন পরিবর্তিত হয়েছে। আগে বর্ষার শুরুতে রোগী কম থাকলেও এবার জুন থেকে সেপ্টেম্বর পর্যন্ত রোগীর সংখ্যা দ্রুত বেড়েছে। মানুষের ব্যাপক যাতায়াত এবং অনুকূল পরিবেশের কারণে এডিস মশা এখন রাজধানী ছাড়িয়ে সারা দেশে ছড়িয়ে পড়েছে। উপজেলা পর্যায়ে পরীক্ষার সুযোগ বাড়ায় প্রত্যন্ত অঞ্চলেও ডেঙ্গু রোগী শনাক্ত হচ্ছে।",
-        "details_en": "The pattern of dengue transmission and mortality in Bangladesh has shifted. While early monsoon cases were previously lower, numbers surged rapidly from June to September. Due to widespread human mobility and favorable weather, Aedes mosquitoes have expanded beyond the capital. Enhanced diagnostic facilities at the upazila level now ensure higher detection rates in remote areas."
+        "impact_bn": "এই সফরের মাধ্যমে বাংলাদেশে জাপানি বিনিয়োগ বৃদ্ধি পেলে দেশে নতুন কর্মসংস্থান সৃষ্টির সুযোগ তৈরি হবে।",
+        "impact_en": "Increased Japanese investment resulting from this visit will create new employment opportunities within the country.",
+        "details_bn": "জাপানি প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে এই সফর অনুষ্ঠিত হচ্ছে। সফরে বাংলাদেশ ও জাপানের মধ্যকার দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে অর্থনৈতিক অংশীদারি চুক্তি বাস্তবায়ন, জ্বালানি নিরাপত্তা, রোহিঙ্গা সংকট এবং মানবসম্পদ উন্নয়ন বিষয়ে বিস্তারিত আলোচনা হওয়ার কথা রয়েছে। এছাড়া জাইকা ও জেট্রোর মতো শীর্ষ প্রতিষ্ঠানের সাথে বৈঠক অনুষ্ঠিত হবে।",
+        "details_en": "The visit takes place at the invitation of Japanese Prime Minister Sanae Takaichi. Discussions will focus on implementing the economic partnership agreement, energy security, the Rohingya crisis, and human resources development to strengthen bilateral ties. Meetings with top institutions like JICA and JETRO are also scheduled."
       }
     },
     {
-      "story_id": "af7429a9-4c3b-5b14-b89b-c2cab3e13267",
+      "story_id": "a8bd0156-6029-5a17-b710-7097e7ea8efe",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -72,215 +74,158 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T02:15:52+00:00",
+      "published_at": "2026-10-25T02:39:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9554,
+      "importance_score": 6.6,
+      "rank_score": 2.1559,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1171598",
-          "title": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের শ্রদ্ধা",
-          "snippet": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের শ্রদ্ধা"
+          "url": "https://www.jagonews24.com/law-courts/news/1171603",
+          "title": "অবকাশকালীন ছুটি শেষে নিয়মিত কার্যক্রমে ফিরছে সুপ্রিম কোর্ট",
+          "snippet": "অবকাশকালীন ছুটি শেষে নিয়মিত কার্যক্রমে ফিরছে সুপ্রিম কোর্ট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জিয়াউর রহমানের সমাধিতে জাতীয়তাবাদী আইসিটি ফোরামের নেতৃবৃন্দের শ্রদ্ধা নিবেদন",
-        "title_en": "Nationalist ICT Forum pays homage at Ziaur Rahman's mausoleum",
-        "summary_bn": "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ শহীদ রাষ্ট্রপতি জিয়াউর রহমানের সমাধিতে পুষ্পস্তবক অর্পণ করেছেন।",
-        "summary_en": "The newly formed full committee leaders of the Nationalist ICT Forum placed floral wreaths at the mausoleum of late President Ziaur Rahman.",
+        "title_bn": "অবকাশকালীন ছুটি শেষে নিয়মিত বিচারিক কার্যক্রমে ফিরছে সুপ্রিম কোর্ট",
+        "title_en": "Supreme Court Resumes Regular Judicial Activities After Vacation",
+        "summary_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষ করে বিচারিক কার্যক্রম পুনরায় শুরু করতে যাচ্ছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
+        "summary_en": "The Supreme Court of Bangladesh is resuming regular judicial activities following the conclusion of its long vacation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:15:52+00:00",
-        "lead_bn": "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ শহীদ রাষ্ট্রপতি জিয়াউর রহমানের সমাধিতে পুষ্পস্তবক অর্পণ করেছেন।",
-        "lead_en": "The newly formed full committee leaders of the Nationalist ICT Forum placed floral wreaths at the mausoleum of late President Ziaur Rahman.",
+        "published_at": "2026-10-25T02:39:14+00:00",
+        "lead_bn": "দীর্ঘ অবকাশকালীন ছুটি শেষ করে বিচারিক কার্যক্রম পুনরায় শুরু করতে যাচ্ছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
+        "lead_en": "The Supreme Court of Bangladesh is resuming regular judicial activities following the conclusion of its long vacation.",
         "bullets_bn": [
-          "জাতীয়তাবাদী আইসিটি ফোরামের নবগঠিত পূর্ণাঙ্গ কমিটির নেতৃবৃন্দ মাজারে শ্রদ্ধা নিবেদন করেন।",
-          "নেতৃবৃন্দ শহীদ রাষ্ট্রপতির স্মৃতির প্রতি শ্রদ্ধা জানিয়ে ফাতেহা পাঠ ও মোনাজাত করেন।",
-          "সংগঠনের কার্যক্রম গতিশীল করতে ভবিষ্যতে নতুন কর্মসূচি গ্রহণের ঘোষণা দেওয়া হয়।"
+          "অবকাশকালীন ছুটি শেষে নিয়মিত বিচারিক কার্যক্রমে ফিরছে দেশের সর্বোচ্চ আদালত সুপ্রিম কোর্ট।",
+          "ছুটির পর আদালতের প্রথম কার্যদিবসে আপিল বিভাগের বিচারিক কার্যক্রম বন্ধ থাকবে।",
+          "নিয়মিত বিচারিক কার্যক্রম চালুর মাধ্যমে বিচারপ্রার্থীদের দীর্ঘদিনের জমে থাকা মামলার শুনানি শুরু হবে।"
         ],
         "bullets_en": [
-          "Leaders of the newly formed full committee of the Nationalist ICT Forum paid their respects at the mausoleum.",
-          "The leaders offered special prayers and recited Fatiha seeking eternal peace for the late president's soul.",
-          "Announcements were made to take up new programmes to accelerate the organization's activities."
+          "The Supreme Court resumes regular judicial activities following the end of its vacation period.",
+          "Judicial proceedings in the Appellate Division will remain suspended on the first working day after the vacation.",
+          "The resumption of regular court operations enables the hearing of long-pending backlog cases for litigants."
         ],
-        "impact_bn": "সাধারণ নাগরিক বা তরুণদের ওপর এর কোনো প্রত্যক্ষ প্রভাব নেই।",
-        "impact_en": null,
-        "details_bn": "জাতীয়তাবাদী আইসিটি ফোরাম বিভিন্ন সময়ে প্রযুক্তি খাতের পেশাজীবীদের নিয়ে নানা কার্যক্রম পরিচালনা করে আসছে। নবগঠিত কমিটি গঠনের পর সংগঠনের কেন্দ্রীয় নেতৃবৃন্দ আনুষ্ঠানিকভাবে শেরেবাংলা নগরে অবস্থিত জিয়াউর রহমানের মাজার জিয়ারত ও শ্রদ্ধা নিবেদন করেন।",
-        "details_en": "The Nationalist ICT Forum regularly organizes activities involving technology professionals. Following the formation of its new committee, central leaders formally visited and paid homage at the mausoleum of Ziaur Rahman in Sher-e-Bangla Nagar."
+        "impact_bn": "আইনজীবী ও বিচারপ্রার্থীরা নিয়মিত আদালত কার্যক্রমের মাধ্যমে তাদের আটকে থাকা মামলার শুনানি ও আইনি প্রক্রিয়া পুনরায় শুরু করতে পারবেন।",
+        "impact_en": "Lawyers and litigants can resume hearings and legal proceedings for their stalled cases through regular court operations.",
+        "details_bn": "আইনজীব ও বিচারপ্রার্থীদের দীর্ঘ ছুটির ভোগান্তি কমাতে সুপ্রিম কোর্ট নির্দিষ্ট সময় পর পর অবকাশকালীন ছুটির নিয়মে বিচারিক কার্যক্রম পরিচালনা করে থাকে। এই ছুটির সময় জরুরি মামলার জন্য সুনির্দিষ্ট বেঞ্চ গঠিত থাকলেও নিয়মিত বেঞ্চগুলোর কার্যক্রম বন্ধ থাকে। ছুটি শেষে আপিল ও হাইকোর্ট বিভাগের স্বাভাবিক কার্যক্রম চালুর মধ্য দিয়ে দেশের বিচার ব্যবস্থায় পুনরায় পূর্ণাঙ্গ গতিশীলতা ফিরে আসে।",
+        "details_en": "The Supreme Court periodically observes vacation periods while maintaining designated benches for urgent matters. During the break, regular court proceedings remain suspended to facilitate administrative adjustments and judges' breaks. The full resumption of both the Appellate and High Court divisions restores complete momentum to the country's judicial system for pending cases."
       }
     },
     {
-      "story_id": "e202e9d0-d579-5a25-8656-8f5e77ab012d",
-      "primary_category": "climate_environment",
+      "story_id": "154e9e07-13e6-5c0a-9e5e-bba79c2ced21",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fytivllj4%2Fsaudiarab.avif?rect=0%2C11%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T02:13:13+00:00",
+      "published_at": "2026-10-25T02:49:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9291,
+      "importance_score": 4.8,
+      "rank_score": 1.727,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171597",
-          "title": "ঢাকায় আজ কেমন থাকবে আবহাওয়া?",
-          "snippet": "ঢাকায় আজ কেমন থাকবে আবহাওয়া?"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/elu3jlz53e",
+          "title": "সৌদি আরবে ৭টি হামলার দাবি হুতিদের, মক্কায় পড়ল ক্ষেপণাস্ত্রের অংশ",
+          "snippet": "সৌদি আরবে ৭টি হামলার দাবি হুতিদের, মক্কায় পড়ল ক্ষেপণাস্ত্রের অংশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঢাকার আকাশ অস্থায়ীভাবে মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে",
-        "title_en": "Dhaka Skies Expected to Remain Partially Cloudy and Dry",
-        "summary_bn": "আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
-        "summary_en": "Meteorological department reports Dhaka and surrounding areas may experience partially cloudy skies with mainly dry weather.",
+        "title_bn": "সৌদি আরবে সাতটি হামলা চালানোর দাবি ইয়েমেনের হুতি গোষ্ঠীর",
+        "title_en": "Yemen Houthi Group Claims Seven Attacks Across Saudi Arabia",
+        "summary_bn": "ইয়েমেনের হুতি গোষ্ঠী সৌদি আরবের বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করেছে।",
+        "summary_en": "Yemen Houthi group claimed responsibility for launching seven attacks targeting airports, oil facilities, and military bases in Saudi Arabia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:13:13+00:00",
-        "lead_bn": "আবহাওয়া অধিদপ্তর জানিয়েছে ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলাসহ আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
-        "lead_en": "Meteorological department reports Dhaka and surrounding areas may experience partially cloudy skies with mainly dry weather.",
+        "published_at": "2026-10-25T02:49:24+00:00",
+        "lead_bn": "ইয়েমেনের হুতি গোষ্ঠী সৌদি আরবের বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করেছে।",
+        "lead_en": "Yemen Houthi group claimed responsibility for launching seven attacks targeting airports, oil facilities, and military bases in Saudi Arabia.",
         "bullets_bn": [
-          "ঢাকা ও পার্শ্ববর্তী এলাকার আকাশ অস্থায়ীভাবে আংশিক মেঘলা থাকার পূর্বাভাস দেওয়া হয়েছে।",
-          "আবহাওয়া অধিদপ্তর জানিয়েছে এই সময়ে আবহাওয়া প্রধানত শুষ্ক থাকতে পারে।",
-          "নগরবাসীর দৈনন্দিন চলাচলে উল্লেখযোগ্য কোনো আবহাওয়া পরিবর্তনের শঙ্কা নেই।"
+          "সৌদি আরবের বিভিন্ন বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে সাতটি হামলা চালানোর দাবি করে হুতি গোষ্ঠী।",
+          "সৌদি সিভিল ডিফেন্স মক্কা ও মদিনার দিকে ছোড়া দুটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করে।",
+          "হুতিরা মক্কা ও মদিনাকে লক্ষ্য করার কথা অস্বীকার করে শুধুমাত্র তেল স্থাপনা ও ঘাঁটিতে হামলার দাবি জানায়।"
         ],
         "bullets_en": [
-          "The skies over Dhaka and adjacent areas are forecasted to remain partially cloudy.",
-          "Meteorological authorities indicate the overall weather condition will remain mainly dry.",
-          "No significant disruption to daily commuter activities is anticipated."
+          "The Houthi group claimed to have launched seven attacks targeting multiple airports, oil facilities, and military bases in Saudi Arabia.",
+          "Saudi civil defense successfully intercepted two ballistic missiles fired toward the Mecca and Medina regions.",
+          "The Houthis denied targeting Mecca and Medina, maintaining their operations focused solely on oil installations and military bases."
         ],
-        "impact_bn": "শুষ্ক ও আংশিক মেঘলা আবহাওয়ায় নগরবাসীর যাতায়াতে বড় কোনো বিঘ্ন ঘটার সম্ভাবনা নেই।",
-        "impact_en": "Dry and partially cloudy weather ensures normal commuting conditions for city residents without major disruptions.",
-        "details_bn": "শহরের আবহাওয়া সাধারণত মৌসুমী বায়ুর গতিপ্রকৃতি ও প্রাত্যহিক তাপমাত্রার ওপর নির্ভর করে পরিবর্তিত হয়। শীত বা শুষ্ক মৌসুমে ঢাকার আকাশ মাঝেমধ্যে মেঘাচ্ছন্ন থাকলেও উল্লেখযোগ্য বৃষ্টির সম্ভাবনা সাধারণত কম থাকে। আবহাওয়া অধিদপ্তর নিয়মিত পর্যবেক্ষণের মাধ্যমে এই তথ্যগুলো প্রকাশ করে থাকে।",
-        "details_en": "Urban weather patterns in Dhaka typically fluctuate based on seasonal wind movements and daily temperatures. During the dry season, skies may occasionally turn partly cloudy, though significant rainfall remains unlikely. The meteorological department continuously monitors and releases these forecasts for public awareness."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুতি গোষ্ঠী দীর্ঘদিন ধরে সৌদি নেতৃত্বাধীন জোটের বিরুদ্ধে সামরিক অভিযান পরিচালনা করে আসছে। এর অংশ হিসেবে দেশটির তেল অবকাঠামো এবং কৌশলগত স্থাপনাগুলোতে প্রায়ই ড্রোন ও ক্ষেপণাস্ত্র হামলা চালানো হয়। সৌদি আরব ও এর মিত্ররা এই ধরনের হামলা প্রতিহত করতে নিজেদের আকাশ প্রতিরক্ষা ব্যবস্থা জোরদার করেছে, যা আঞ্চলিক নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলছে।",
+        "details_en": "The Houthi movement in Yemen has engaged in a prolonged conflict with the Saudi-led coalition, frequently targeting vital infrastructure with drones and missiles. Saudi Arabia and its allies maintain robust air defense systems to intercept these threats, heightening regional security concerns as cross-border strikes persist."
       }
     },
     {
-      "story_id": "390065d8-e8a2-5ab7-b559-623fc254f2dd",
-      "primary_category": "society_education",
+      "story_id": "e87eb4ff-65de-590c-8f88-cb5a84d787b8",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
+        "world_diplomacy",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fozjgk0nc%2F%E0%A7%A7.-%E0%A6%A5%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8-%E0%A6%B9%E0%A7%8B-%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B2%E0%A5%A4-%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%AD%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A6%BE-%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A7%87.jpeg?rect=0%2C406%2C1079%2C566&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T02:09:18+00:00",
+      "published_at": "2026-10-25T02:31:18+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8924,
+      "importance_score": 4.8,
+      "rank_score": 1.4608,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://nagorik.prothomalo.com/travel/l563xn37sv",
-          "title": "মালয়েশিয়া ভ্রমণ: কালের যাত্রাধ্বনি–৩",
-          "snippet": "মালয়েশিয়া ভ্রমণ: কালের যাত্রাধ্বনি–৩"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/probash/news/1171600",
+          "title": "মালয়েশিয়ায় মামুনুল হকের সমাবেশে প্রবাসীদের ঢল",
+          "snippet": "মালয়েশিয়ায় মামুনুল হকের সমাবেশে প্রবাসীদের ঢল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালয়েশিয়ার থিয়ান হো মন্দিরে চীনা স্থাপত্য ও সংস্কৃতির অনন্য মেলবন্ধন",
-        "title_en": "Thean Hou Temple in Malaysia Displays Unique Blend of Chinese Architecture",
-        "summary_bn": "মালয়েশিয়ার থিয়ান হো মন্দির চীনা ঐতিহ্য, স্থাপত্য ও বহুমুখী ধর্মীয় বিশ্বাসের এক নান্দনিক নিদর্শন হিসেবে দর্শনার্থীদের আকর্ষণ করে।",
-        "summary_en": "The Thean Hou Temple in Malaysia attracts visitors as an aesthetic showcase of Chinese heritage, architecture, and diverse religious beliefs.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:09:18+00:00",
-        "lead_bn": "মালয়েশিয়ার থিয়ান হো মন্দির চীনা ঐতিহ্য, স্থাপত্য ও বহুমুখী ধর্মীয় বিশ্বাসের এক নান্দনিক নিদর্শন হিসেবে দর্শনার্থীদের আকর্ষণ করে।",
-        "lead_en": "The Thean Hou Temple in Malaysia attracts visitors as an aesthetic showcase of Chinese heritage, architecture, and diverse religious beliefs.",
-        "bullets_bn": [
-          "কুয়ালালামপুরের থিয়ান হো মন্দিরে চীনা সমুদ্রযাত্রীদের রক্ষাকর্ত্রী দেবী মাৎসু ও করুণার দেবী গুয়ানইনের আরাধনা করা হয়",
-          "সালে শুরু হওয়া এই মন্দিরের নির্মাণকাজ শেষ হয় প্রায় আট বছর পর এবং এটি জনসাধারণের জন্য উন্মুক্ত করা হয়",
-          "চীনা সংস্কৃতিতে লাল রং সৌভাগ্য ও সোনালি রং সমৃদ্ধির প্রতীক হিসেবে মন্দিরের স্থাপত্যে ফুটিয়ে তোলা হয়েছে"
-        ],
-        "bullets_en": [
-          "The Thean Hou Temple in Kuala Lumpur worships Mazu, the protector of Chinese seafarers, and Guanyin, the goddess of mercy",
-          "Construction of the temple began in 1981 and it officially opened to the public nearly eight years later",
-          "Red and gold colors symbolizing good fortune and prosperity are prominently featured in the temple's architecture"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মালয়েশিয়া ভ্রমণকালে লেখক বাতু কেভের গুহা থেকে থিয়ান হো মন্দিরে প্রবেশ করেন। চীনের দক্ষিণ উপকূল ও হাইনান দ্বীপ থেকে অভিবাসিত মানুষেরা তাদের ধর্মবিশ্বাস ও সংস্কৃতির এই ধারা মালয়েশিয়ায় নিয়ে আসেন। মন্দিরটিতে বৌদ্ধ, তাওবাদী ও কনফুসীয় চিন্তাধারার মিশ্রণ দেখা যায়, যা চীনা শিল্পরীতির এক উন্মুক্ত প্রদর্শনী।",
-        "details_en": "During a trip to Malaysia, the traveler visited the Thean Hou Temple after exploring the Batu Caves. Immigrants from China's southern coast and Hainan Island brought these religious beliefs and cultural traditions to Malaysia. The temple reflects a blend of Buddhist, Taoist, and Confucian traditions, serving as an open exhibition of Chinese artistry."
-      }
-    },
-    {
-      "story_id": "f2ee8ade-7544-530b-8570-9450fbeabf20",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#Starlink",
-        "#Ukraine"
-      ],
-      "image_url": "https://static.dw.com/image/79738872_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-25T02:17:31.742684+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.689,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-          "title": "Ukraine: Starlink satellite speeds restored to normal",
-          "snippet": "Ukraine: Starlink satellite speeds restored to normal"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইউক্রেনে স্টারলিংক ও স্টারশিল্ড স্যাটেলাইটের ইন্টারনেট গতি স্বাভাবিক অবস্থায় ফিরেছে",
-        "title_en": "Starlink and Starshield Internet Speeds Return to Normal in Ukraine",
-        "summary_bn": "ইউক্রেনের সামরিক যোগাযোগে ব্যবহৃত স্টারলিংক ও স্টারশিল্ড স্যাটেলাইট নেটওয়ার্কের গতি পুনরায় স্বাভাবিক অবস্থায় ফিরেছে।",
-        "summary_en": "Speeds for Ukraine vital Starlink and Starshield satellite networks have officially returned to normal operating levels.",
+        "title_bn": "মালয়েশিয়ায় বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হকের বিশাল সমাবেশ অনুষ্ঠিত",
+        "title_en": "Bangladesh Khelafat Majlis Chief Mamunul Haque Addresses Massive Rally in Malaysia",
+        "summary_bn": "মালয়েশিয়ার সেলাঙ্গরে প্রবাসী বাংলাদেশিদের একটি বিশাল সমাবেশে যোগ দিয়ে নতুন সদস্য সংগ্রহ কার্যক্রমের উদ্বোধন করেন মাওলানা মামুনুল হক।",
+        "summary_en": "Bangladesh Khelafat Majlis Ameer Maulana Mamunul Haque addressed a large gathering of expatriate Bangladeshis in Selangor, Malaysia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:17:31.742684+00:00",
-        "lead_bn": "ইউক্রেনের সামরিক যোগাযোগে ব্যবহৃত স্টারলিংক ও স্টারশিল্ড স্যাটেলাইট নেটওয়ার্কের গতি পুনরায় স্বাভাবিক অবস্থায় ফিরেছে।",
-        "lead_en": "Speeds for Ukraine vital Starlink and Starshield satellite networks have officially returned to normal operating levels.",
+        "published_at": "2026-10-25T02:31:18+00:00",
+        "lead_bn": "মালয়েশিয়ার সেলাঙ্গরে প্রবাসী বাংলাদেশিদের একটি বিশাল সমাবেশে যোগ দিয়ে নতুন সদস্য সংগ্রহ কার্যক্রমের উদ্বোধন করেন মাওলানা মামুনুল হক।",
+        "lead_en": "Bangladesh Khelafat Majlis Ameer Maulana Mamunul Haque addressed a large gathering of expatriate Bangladeshis in Selangor, Malaysia.",
         "bullets_bn": [
-          "ইউক্রেনীয় সরকার স্টারলিংক এবং স্টারশিল্ড সিস্টেমের স্বাভাবিক কার্যক্রম পুনরায় চালুর বিষয়টি নিশ্চিত করেছে।",
-          "স্যাটেলাইট সংযোগের গতি এখন প্রতি ঘণ্টায় ৪০০ কিলোমিটারের বেশি স্থিতিশীল রয়েছে বলে জানিয়েছে প্রতিরক্ষা মন্ত্রণালয়।",
-          "সীমিত গতির কারণে ইউক্রেনীয় সামরিক বাহিনীর যে অভিযান ব্যাহত হয়েছিল তা এখন স্বাভাবিক হবে।"
+          "মালয়েশিয়ার সেলাঙ্গর রাজ্যের কেলাংয়ে প্রবাসী বাংলাদেশিদের নিয়ে বিশেষ সমাবেশের আয়োজন করা হয়।",
+          "সমাবেশে বিপুলসংখ্যক প্রবাসী বাংলাদেশি অংশ নেন এবং সংগঠনের নতুন সদস্য হিসেবে যোগ দেন।",
+          "প্রবাসীদের সংগঠিত করতে এবং তাদের অধিকার নিয়ে কাজ করার জন্য নতুন কর্মপরিকল্পনা ঘোষণা করা হয়।"
         ],
         "bullets_en": [
-          "The Ukrainian government confirmed that Starlink and Starshield satellite systems fully resumed normal operations.",
-          "Connection speeds remained stable at over 400 kilometers per hour according to the defense ministry.",
-          "Restored speeds will immediately resume critical frontline logistics and defense against attack drones."
+          "A special rally was organized for expatriate Bangladeshis in Klang, Selangor state, Malaysia.",
+          "A large number of expatriates participated in the gathering and enrolled as new members of the organization.",
+          "New action plans were announced to organize expatriates and work for their rights."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে স্টারলিংক ও স্টারশিল্ডের গতি কমিয়ে ১৬০ কিলোমিটারে নামিয়ে আনা হয়েছিল, যা ইউক্রেনের সামরিক অভিযান এবং রুশ ড্রোন প্রতিহত করার সক্ষমতাকে বাধাগ্রস্ত করেছিল। এই বিধিনিষেধের ফলে যুক্তরাষ্ট্রের সাথে কূটনৈতিক উত্তেজনাও তৈরি হয়েছিল। তবে সাম্প্রতিক পদক্ষেপে ইন্টারনেট গতি স্বাভাবিক হওয়ায় ইউক্রেনীয় বাহিনীর অপারেশনাল কার্যক্ষমতা পুনরুদ্ধার হয়েছে।",
-        "details_en": "Speed restrictions on Starlink and Starshield had previously capped connections at 160 kilometers per hour, disrupting military operations and straining ties with the US. The capped speeds hampered Ukraine ability to intercept Russian attack drones and forced the cancellation of key operations before being fully restored to normal levels."
+        "impact_bn": "মালয়েশিয়ায় বসবাসরত প্রবাসী বাংলাদেশিদের মধ্যে রাজনৈতিক ও সামাজিক সচেতনতা বৃদ্ধি পাবে।",
+        "impact_en": "Expatriate Bangladeshis living in Malaysia may experience increased socio-political engagement.",
+        "details_bn": "মালয়েশিয়ায় প্রবাসী বাংলাদেশিদের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠনের কার্যক্রম দীর্ঘদিন ধরে সক্রিয় রয়েছে। সেলাঙ্গর রাজ্য প্রবাসী অধ্যুষিত এলাকা হওয়ায় সেখানে বিভিন্ন ধর্মীয় ও রাজনৈতিক ব্যক্তিত্বের আগমন ঘটে। সম্প্রতি প্রবাসীদের মাঝে নিজেদের সাংগঠনিক ভিত্তি মজবুত করতে বিভিন্ন দল ও সংগঠনের পক্ষ থেকে প্রবাসভিত্তিক কার্যক্রম জোরদার করা হচ্ছে।",
+        "details_en": "Expatriate Bangladeshis have long maintained active social and political networks in Malaysia. Selangor remains a key hub for the diaspora, frequently hosting visits from religious and political figures from Bangladesh. Organizations continue to strengthen their overseas base to engage migrant workers."
       }
     },
     {
@@ -295,14 +240,14 @@
       "tags": [
         "#Pesticides",
         "#EuropeanCommission",
-        "#FoodSafety"
+        "#Environment"
       ],
       "image_url": "https://static.dw.com/image/77802067_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T02:17:31.742684+00:00",
+      "published_at": "2026-10-25T03:00:51.956972+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.689,
+      "rank_score": 0.6885,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -312,10 +257,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "কীটনাশক ব্যবহারে কড়াকড়ি শিথিল করার প্রস্তাব ইউরোপীয় কমিশনের",
-        "title_en": "European Commission Proposes Loosening Rules on Pesticide Use",
-        "summary_bn": "কৃষকদের চাপ ও আমলাতান্ত্রিক জটিলতা ক কমাতে কীটনাশকের ওপর বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
-        "summary_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to help farmers and cut administrative costs.",
+        "title_bn": "কীটনাশক নিয়ন্ত্রণে নিয়ম শিথিলের প্রস্তাব ইউরোপীয় কমিশনের",
+        "title_en": "European Commission Proposes Relaxing Rules on Pesticide Use",
+        "summary_bn": "ইউরোপীয় কমিশন কৃষকদের সহায়তা ও ব্যয় কমাতে কীটনাশক ব্যবহারে বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে।",
+        "summary_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to cut costs and support farmers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -324,23 +269,83 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T02:17:31.742684+00:00",
-        "lead_bn": "কৃষকদের চাপ ও আমলাতান্ত্রিক জটিলতা ক কমাতে কীটনাশকের ওপর বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে ইউরোপীয় কমিশন।",
-        "lead_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to help farmers and cut administrative costs.",
+        "published_at": "2026-10-25T03:00:51.956972+00:00",
+        "lead_bn": "ইউরোপীয় কমিশন কৃষকদের সহায়তা ও ব্যয় কমাতে কীটনাশক ব্যবহারে বিদ্যমান কঠোর নিয়ম শিথিল করার প্রস্তাব দিয়েছে।",
+        "lead_en": "The European Commission has proposed sweeping changes to ease pesticide regulations to cut costs and support farmers.",
         "bullets_bn": [
-          "কীটনাশকের অনুমোদনের ক্ষেত্রে সময়সীমা তুলে দিয়ে অনির্দিষ্টকালের জন্য ব্যবহারের পক্ষে মত দিয়েছে ইউরোপীয় কমিশন",
-          "চরম বিষাক্ত গ্লাইফোসেটসহ প্রধান কীটনাশকগুলোর নিরাপত্তা পর্যালোচনা এখন থেকে সীমিত ও ব্যতিক্রমী ক্ষেত্রে করা হবে",
-          "স্বাস্থ্যঝুঁকি ও পরিবেশগত ক্ষতি হতে পারে বলে এই প্রস্তাবের বিরুদ্ধে জোরালো সতর্কবার্তা উচ্চারণ করেছেন বিজ্ঞানীরা"
+          "কৃষি খাতকে প্রতিযোগিতায় টিকিয়ে রাখতে কীটনাশকের অনুমোদন প্রক্রিয়া সহজ করার উদ্যোগ নেওয়া হয়েছে।",
+          "প্রস্তাবিত নিয়মে গ্লাইফোসেটের মতো ক্ষতিকর কীটনাশকের অনির্দিষ্টকালের অনুমোদন দেওয়ার কথা বলা হয়েছে।",
+          "বিজ্ঞানী ও চিকিৎসকরা স্বাস্থ্য এবং পরিবেশের ওপর এই সিদ্ধান্তের নেতিবাচক প্রভাব নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন।"
         ],
         "bullets_en": [
-          "The European Commission proposed making indefinite greenlighting for pesticides the default to simplify agricultural legislation.",
-          "Safety reviews for controversial active substances like glyphosate will now only be conducted in exceptional cases.",
-          "Scientists and medical experts have strongly warned that human health and environmental safety concerns are being ignored."
+          "The European Commission proposed sweeping changes to agriculture and food safety legislation to ease pesticide rules.",
+          "The revamp could make indefinite greenlighting the default, including for controversial substances like glyphosate.",
+          "Scientists and doctors warn that human health and environmental impacts are being ignored."
         ],
-        "impact_bn": "এই নীতিমালা কার্যকর হলে খাদ্যপণ্যে বিষাক্ত রাসায়নিকের উপস্থিতি বাড়ায় জনস্বাস্থ্য দীর্ঘমেয়াদী স্বাস্থ্যঝুঁকিতে পড়তে পারে।",
-        "impact_en": "Relaxing pesticide approvals could increase toxic chemical residues in food, raising long-term health risks for consumers.",
-        "details_bn": "বর্তমান নিয়ম অনুযায়ী ইউরোপীয় ইউনিয়নে কীটনাশকের প্রাথমিক উপাদানগুলোর অনুমোদন সর্বোচ্চ ১৫ বছরের জন্য সীমিত ছিল। কৃষকদের দীর্ঘদিনের অভিযোগ এবং আমলাতান্ত্রিক দীর্ঘসূত্রিতা কমাতেই এই সংস্কারের উদ্যোগ নেওয়া হয়েছে। তবে খাদ্য নিরাপত্তা ও জনস্বাস্থ্যের ওপর এর বিরূপ প্রভাব নিয়ে পরিবেশবাদী ও বিজ্ঞানমহলে তীব্র অসন্তোষ দেখা দিয়েছে।",
-        "details_en": "Under existing EU rules dating back to 2011, primary pesticide components received approval for limited periods of no more than 15 years. The European Commission pursued this revamp to address chronic delays and ease administrative burdens for farmers facing crop protection challenges, despite severe warnings from scientists regarding potential health and environmental hazards."
+        "impact_bn": "কীটনাশকের ব্যবহার বাড়ায় সাধারণ মানুষের খাদ্য নিরাপত্তা ও জনস্বাস্থ্য দীর্ঘমেয়াদী ঝুঁকির মুখে পড়তে পারে।",
+        "impact_en": "Increased pesticide use may pose long-term risks to food safety, environmental health, and public well-being.",
+        "details_bn": "বর্তমান নিয়ম অনুযায়ী ইউরোপীয় ইউনিয়নে কীটনাশকের মূল উপাদানগুলোর অনুমোদন সর্বোচ্চ ১৫ বছরের জন্য সীমিত থাকে। কৃষকদের দাবির মুখে ইউরোপীয় কমিশন আমলাতান্ত্রিক দীর্ঘসূত্রিতা কমাতেই এই সংস্কারের উদ্যোগ নিয়েছে। তবে সমালোচকরা বলছেন, জনস্বাস্থ্য ও পরিবেশ সুরক্ষার বিষয়টি পাশ কাটিয়ে এই পরিবর্তন আনা হচ্ছে।",
+        "details_en": "Under current EU rules dating back to 2011, primary pesticide components are granted approval for limited periods of no more than 15 years. The commission's proposed revamp responds to complaints from farmers regarding bureaucratic delays, though critics argue it bypasses critical human health and environmental safety reviews."
+      }
+    },
+    {
+      "story_id": "8c34c050-0571-5a47-af71-b2f9abfa16f3",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#JamiaMillia",
+        "#StudentProtest",
+        "#IndiaNews"
+      ],
+      "image_url": "https://static.dw.com/image/79749894_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T03:00:51.956972+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6885,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-neha-bora-refuses-to-sign-peace-bond-cites-right-to-democratic-dissent/live-79748098?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent",
+          "snippet": "India news: Neha Bora refuses to sign peace bond, cites right to democratic dissent"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ছাত্র বিক্ষোভের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় অনলাইন ক্লাসে স্থানান্তরিত হয়েছে",
+        "title_en": "Jamia Millia Islamia University Shifts All Classes Online Following Student Protests",
+        "summary_bn": "নিরাপত্তা কর্মীদের সাথে সংঘর্ষের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় কর্তৃপক্ষ অবিলম্বে সব ক্লাস অনলাইনে স্থানান্তরিত করার নির্দেশ দিয়েছে।",
+        "summary_en": "Jamia Millia Islamia University moved all classes online immediately following clashes between student protesters and security guards.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T03:00:51.956972+00:00",
+        "lead_bn": "নিরাপত্তা কর্মীদের সাথে সংঘর্ষের পর জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয় কর্তৃপক্ষ অবিলম্বে সব ক্লাস অনলাইনে স্থানান্তরিত করার নির্দেশ দিয়েছে।",
+        "lead_en": "Jamia Millia Islamia University moved all classes online immediately following clashes between student protesters and security guards.",
+        "bullets_bn": [
+          "ক্যাম্পাসে ছাত্র সংসদ নির্বাচন পুনরুদ্ধারের দাবিতে শিক্ষার্থীরা বিক্ষোভ শুরু করে।",
+          "নিরাপত্তা কর্মীরা বিক্ষোভকারীদের তাঁবু সরাতে গেলে পরিস্থিতি উত্তপ্ত হয়ে ওঠে ও সংঘর্ষ বাধে।",
+          "শিক্ষার্থীদের নিরাপত্তা নিশ্চিত করতে পরবর্তী নির্দেশ না দেওয়া পর্যন্ত অনলাইন ক্লাস অব্যাহত থাকবে।"
+        ],
+        "bullets_en": [
+          "Students launched protests demanding the restoration of the campus student union elections.",
+          "Tensions escalated and security guards scuffled with protesters while attempting to remove tents.",
+          "The university shifted classes online to ensure student safety until further notice."
+        ],
+        "impact_bn": "অনলাইন ক্লাসে স্থানান্তরের ফলে সাধারণ শিক্ষার্থীদের নিয়মিত অ্যাকাডেমিক কার্যক্রম সাময়িকভাবে ব্যাহত হচ্ছে।",
+        "impact_en": "The shift to online classes temporarily disrupts the regular academic routine and campus access for general students.",
+        "details_bn": "দিল্লির জামিয়া মিলিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে ২০০৬ সাল থেকে ছাত্র সংসদ নির্বাচন নিষিদ্ধ রয়েছে। শিক্ষার্থীরা এই নিষেধাজ্ঞা তুলে নেওয়ার দাবিতে অক্টোবর মাস থেকে আন্দোলন চালিয়ে আসছে। সাম্প্রতিক সময়ে নিরাপত্তা কর্মীদের সাথে সংঘর্ষের ঘটনায় পরিস্থিতি জটিল আকার ধারণ করায় বিশ্ববিদ্যালয় কর্তৃপক্ষ ক্যাম্পাসে নিরাপত্তা জোরদার করতে এবং অ্যাকাডেমিক কার্যক্রম অনলাইনে পরিচালনা করার সিদ্ধান্ত নেয়।",
+        "details_en": "Student union elections at Jamia Millia Islamia University have been disbanded since 2006 following past campus violence. Protests demanding the reinstatement of the union escalated when security guards attempted to dismantle student tents. In response to the growing campus unrest and clashes, the administration ordered all academic activities to move online to maintain student safety."
       }
     }
   ]
