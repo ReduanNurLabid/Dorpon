@@ -1,231 +1,119 @@
 {
-  "updated_at": "2026-10-25T01:00:50.134822",
+  "updated_at": "2026-10-25T02:00:47.890412",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "dae81c0b-8e2b-5e41-b4b8-dbaff32ea152",
+      "story_id": "9b131a28-a1d6-5c95-89aa-3fe1793ff258",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "governance_law"
+        "economy_business"
       ],
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2F5rpmsa2a%2FCapture.PNG?rect=0%2C26%2C374%2C196&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-25T00:49:00+00:00",
+      "published_at": "2026-10-25T01:02:37+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8615,
+      "importance_score": 6.6,
+      "rank_score": 1.601,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/976538/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A1%E0%A7%87%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87",
-          "title": "মার্কিন মধ্যবর্তী নির্বাচন: ডেমোক্রেটদের প্রচারে নেমে ট্রাম্পকে তুলোধোনা করলেন ওবামা",
-          "snippet": "মার্কিন মধ্যবর্তী নির্বাচন: ডেমোক্রেটদের প্রচারে নেমে ট্রাম্পকে তুলোধোনা করলেন ওবামা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/kpppa2rfxb",
+          "title": "প্রধানমন্ত্রী কাল জাপান যাচ্ছেন, বিনিয়োগে নতুন গতির আশা",
+          "snippet": "প্রধানমন্ত্রী কাল জাপান যাচ্ছেন, বিনিয়োগে নতুন গতির আশা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন প্রচারে ট্রাম্প প্রশাসনের তীব্র সমালোচনা করলেন ওবামা",
-        "title_en": "Obama Slams Trump Administration During US Midterm Election Campaign",
-        "summary_bn": "মার্কিন মধ্যবর্তী নির্বাচন সামনে রেখে ডেমোক্রেটিক পার্টির প্রচারে নেমে বর্তমান প্রশাসনের অর্থনৈতিক নীতি ও প্রশাসনের কঠোর সমালোচনা করেছেন বারাক ওবামা।",
-        "summary_en": "Former US President Barack Obama campaigned for Democratic candidates and fiercely criticized the current administration ahead of the elections.",
+        "title_bn": "জাপান সফরে চার দিনের দ্বিপক্ষীয় বৈঠকে অংশ নিচ্ছেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Travels to Japan for Four Day Bilateral Talks",
+        "summary_bn": "প্রধানমন্ত্রী চার দিনের সফরে জাপান গিয়ে সে দেশের প্রধানমন্ত্রীর সাথে শীর্ষ বৈঠকে অংশ নিচ্ছেন।",
+        "summary_en": "The Prime Minister travels to Japan on a four-day visit to hold a summit with the Japanese Prime Minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T00:49:00+00:00",
-        "lead_bn": "মার্কিন মধ্যবর্তী নির্বাচন সামনে রেখে ডেমোক্রেটিক পার্টির প্রচারে নেমে বর্তমান প্রশাসনের অর্থনৈতিক নীতি ও প্রশাসনের কঠোর সমালোচনা করেছেন বারাক ওবামা।",
-        "lead_en": "Former US President Barack Obama campaigned for Democratic candidates and fiercely criticized the current administration ahead of the elections.",
+        "published_at": "2026-10-25T01:02:37+00:00",
+        "lead_bn": "প্রধানমন্ত্রী চার দিনের সফরে জাপান গিয়ে সে দেশের প্রধানমন্ত্রীর সাথে শীর্ষ বৈঠকে অংশ নিচ্ছেন।",
+        "lead_en": "The Prime Minister travels to Japan on a four-day visit to hold a summit with the Japanese Prime Minister.",
         "bullets_bn": [
-          "ডেমোক্রেটিক পার্টির প্রার্থীদের পক্ষে নির্বাচনি প্রচারণায় অংশ নেন সাবেক মার্কিন প্রেসিডেন্ট বারাক ওবামা",
-          "ওহাইও ও মিশিগান রাজ্যে আয়োজিত সমাবেশে বর্তমান প্রশাসনের অর্থনৈতিক নীতি মুদ্রাস্ফীতি ও ইরান যুদ্ধ নিয়ে সমালোচনা করা হয়",
-          "আসন্ন মধ্যবর্তী নির্বাচনে ডেমোক্রেটিক পার্টির প্রার্থীর জয় নিশ্চিত করতে ভোটারদের প্রতি আহ্বান জানানো হয়"
+          "প্রধানমন্ত্রী জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির সাথে দ্বিপক্ষীয় বৈঠকে অংশ নিচ্ছেন।",
+          "জাপানের বেসরকারি খাত আগামী পাঁচ বছরে বাংলাদেশে প্রায় ৭৭ হাজার কোটি টাকা বিনিয়োগের রূপরেখা তৈরি করছে।",
+          "সফরে টয়োটা কারখানা ও জেরার এলএনজি টার্মিনাল পরিদর্শনের মাধ্যমে বিগ-বি মহাপরিকল্পনা এগিয়ে নেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "Former US President Barack Obama actively campaigned for Democratic Party candidates ahead of the polls.",
-          "Rallies in Ohio and Michigan featured strong criticism of current economic policies inflation and foreign conflicts.",
-          "Voters were urged to support Democratic candidates to secure victories in the upcoming midterm elections."
+          "The Prime Minister is holding a bilateral summit with Japanese Prime Minister Sanae Takaichi.",
+          "The Japanese private sector is outlining nearly 77000 crore taka in investments for Bangladesh over five years.",
+          "The Big-B master plan is being advanced through visits to the Toyota plant and JERA LNG terminal."
         ],
-        "impact_bn": "মার্কিন রাজনৈতিক মেরুকরণ ও নির্বাচনি প্রচারের তীব্রতা সাধারণ ভোটারদের সিদ্ধান্ত গ্রহণে সরাসরি প্রভাব ফেলবে।",
-        "impact_en": "Heightened political polarization and intense campaign rhetoric will directly influence voter decision-making in the upcoming elections.",
-        "details_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনকে কেন্দ্র করে দেশটির প্রধান রাজনৈতিক দলগুলোর মধ্যে প্রতিদ্বন্দ্বিতা তুঙ্গে পৌঁছেছে। ডেমোক্রেটিক পার্টি তাদের অবস্থান শক্তিশালী করতে শীর্ষ নেতাদের মাঠে নামিয়েছে। সাবেক প্রেসিডেন্ট বারাক ওবামা বিভিন্ন অঙ্গরাজ্যে নির্বাচনি সমাবেশে বক্তব্য রেখে বর্তমান প্রশাসনের নীতিমালার কঠোর সমালোচনা করছেন এবং ভোটারদের নিজেদের দলের পক্ষে টানার চেষ্টা চালাচ্ছেন।",
-        "details_en": "The political landscape in the United States has intensified as both major parties gear up for the midterm elections. The Democratic Party has deployed high-profile leaders like former President Barack Obama to rally support. Obama has been addressing packed rallies across key states, challenging the current administration policies on economy and foreign affairs to mobilize the party base."
+        "impact_bn": "জাপানি বিনিয়োগ ও নতুন কারখানা স্থাপনের ফলে তরুণ প্রকৌশলী ও স্থানীয় সরবরাহকারীদের জন্য নতুন কর্মসংস্থান তৈরি হবে।",
+        "impact_en": "Japanese investments and new manufacturing plants will create employment opportunities for young engineers and local suppliers.",
+        "details_bn": "সালে তৎকালীন জাপানি প্রধানমন্ত্রী শিনজো আবের উদ্যোগে বিগ-বি মহাপরিকল্পনা শুরু হয়। মাতারবাড়ী গভীর সমুদ্রবন্দর ও মেট্রোরেলসহ বাংলাদেশের মেগা প্রকল্পে জাপান দীর্ঘদিনের অংশীদার। দুই দেশের মধ্যে অর্থনৈতিক অংশীদারত্ব চুক্তি স্বাক্ষরিত হওয়ার পর এবার জ্বালানি ও উৎপাদন খাতে বড় অংকের বেসরকারি বিনিয়োগের পরিকল্পনা সামনে এসেছে।",
+        "details_en": "The Big-B master plan was initiated in 2014 by then Japanese Prime Minister Shinzo Abe. Japan has long been a key partner in Bangladesh mega projects including the Matarbari deep seaport and metro rail. Following the signing of an economic partnership agreement, large-scale private investments in energy and manufacturing are now underway."
       }
     },
     {
-      "story_id": "fc59bfc2-48a7-5617-a925-2da88fb82f44",
-      "primary_category": "governance_law",
+      "story_id": "6e1b8de8-848c-50df-943c-7959361abe0d",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business"
       ],
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T00:46:15+00:00",
+      "published_at": "2026-10-25T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8387,
+      "rank_score": 0.9643,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171596",
-          "title": "চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই",
-          "snippet": "চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976518/%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AC%E0%A6%9C%E0%A6%BF-%E0%A6%A6%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF",
+          "title": "বাজারে শীতের সবজি, দামে অস্বস্তি",
+          "snippet": "বাজারে শীতের সবজি, দামে অস্বস্তি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই",
-        "title_en": "Mobile Phone Snitched From Moving Easy-Bike in Nilphamari Saidpur",
-        "summary_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে এক তরুণীর মোবাইলফোন ছিনতাইয়ের ঘটনা ঘটেছে।",
-        "summary_en": "A young woman's mobile phone was snatched from a moving easy-bike in Nilphamari's Saidpur.",
+        "title_bn": "রাজশাহীর বাজারে চড়া দামে বিক্রি হচ্ছে শীতকালীন সবজি",
+        "title_en": "Winter Vegetables Schedulled at High Prices in Rajshahi Markets",
+        "summary_bn": "পূর্ণ সরবরাহ না থাকায় রাজশাহীর কাঁচাবাজারে শীতকালীন সবজি চড়া দামে বিক্রি হচ্ছে, যা সাধারণ ক্রেতাদের বিপাকে ফেলেছে।",
+        "summary_en": "Winter vegetables are selling at high prices in Rajshahi markets due to limited supply, causing distress for consumers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T00:46:15+00:00",
-        "lead_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে এক তরুণীর মোবাইলফোন ছিনতাইয়ের ঘটনা ঘটেছে।",
-        "lead_en": "A young woman's mobile phone was snatched from a moving easy-bike in Nilphamari's Saidpur.",
+        "published_at": "2026-10-25T02:00:00+00:00",
+        "lead_bn": "পূর্ণ সরবরাহ না থাকায় রাজশাহীর কাঁচাবাজারে শীতকালীন সবজি চড়া দামে বিক্রি হচ্ছে, যা সাধারণ ক্রেতাদের বিপাকে ফেলেছে।",
+        "lead_en": "Winter vegetables are selling at high prices in Rajshahi markets due to limited supply, causing distress for consumers.",
         "bullets_bn": [
-          "চলন্ত ইজিবাইক থেকে যাত্রীর মোবাইল ছিনতাইয়ের ঘটনা ঘটে",
-          "সন্ধ্যা ছয়টার দিকে শহরের ইসলামবাগ শেরু হোটেল এলাকায় এই অপরাধ ঘটে",
-          "আইনশৃঙ্খলা রক্ষা বাহিনী অপরাধীদের গ্রেফতারে তদন্ত শুরু করেছে"
+          "বাজারে নতুন শীতকালীন সবজির পর্যাপ্ত সরবরাহ এখনো নিশ্চিত হয়নি।",
+          "রাজশাহীর বাজারে প্রতি কেজি টমেটো ১৬০ টাকা, শিম ১৪০ টাকা এবং ফুলকপি ৮০ টাকায় বিক্রি হচ্ছে।",
+          "সরবরাহ পুরোপুরি স্বাভাবিক না হওয়া পর্যন্ত উচ্চমূল্য বজায় থাকতে পারে।"
         ],
         "bullets_en": [
-          "A passenger's mobile phone was snatched from a moving easy-bike",
-          "The incident took place around six in the evening near the Islampab Sheru Hotel area",
-          "Law enforcement agencies have initiated an investigation to apprehend the culprits"
+          "Full supply of new winter vegetables has not yet arrived in local markets.",
+          "Tomatoes are selling at 160 taka, beans at 140 taka, and cauliflowers at 80 taka per kg in Rajshahi.",
+          "High prices are expected to persist until market supply normalizes fully."
         ],
-        "impact_bn": "চলন্ত যানবাহনে এই ধরনের ছিনতাই সাধারণ যাত্রীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
-        "impact_en": "Such snatching incidents on moving transport raise serious safety concerns for everyday commuters.",
-        "details_bn": "সৈয়দপুরে সাম্প্রতিক সময়ে ছিনতাইয়ের ঘটনা বৃদ্ধি পাওয়ায় সাধারণ মানুষের মধ্যে আতঙ্ক বিরাজ করছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর পক্ষ থেকে শহরের বিভিন্ন পয়েন্টে নজরদারি বাড়ানোর আশ্বাস দেওয়া হলেও অপরাধ থামছে না। অপরাধীদের আইনের আওতায় আনতে স্থানীয়রা পুলিশ প্রশাসনের কঠোর পদক্ষেপ দাবি করেছেন।",
-        "details_en": "A recent rise in snatching incidents in Saidpur has created panic among residents. Although law enforcement has promised increased surveillance across city points, crimes continue to occur. Locals have demanded strict administrative action to bring the perpetrators to justice."
+        "impact_bn": "উচ্চমূল্যের কারণে সীমিত আয়ের সাধারণ মানুষের দৈনন্দিন খাদ্য ক্রয়ে অতিরিক্ত আর্থিক চাপ তৈরি হয়েছে।",
+        "impact_en": "High vegetable prices are creating additional financial pressure on ordinary low-income consumers.",
+        "details_bn": "শীতকাল আসার আগেই বাজারে কিছু আগাম শীতকালীন সবজি উঠতে শুরু করে। তবে মৌসুমের শুরুতে উৎপাদক থেকে খুচরা পর্যায়ে সরবরাহ কম থাকায় এবং পরিবহন খরচের প্রভাবে দাম সাধারণত কিছুটা চড়া থাকে। পাইকারি বাজারগুলোতে পর্যাপ্ত সরবরাহ বাড়লে এবং স্থানীয়ভাবে উৎপাদন পুরোদমে শুরু হলে সবজির দাম সহনীয় পর্যায়ে নেমে আসে।",
+        "details_en": "Early winter vegetables begin appearing in markets ahead of the full season. However, prices typically remain high at the start due to limited supply chains from producers to retailers and transportation costs. Prices generally drop to affordable levels once wholesale supplies increase and local production peaks."
       }
     },
     {
-      "story_id": "061e4957-3be2-5732-9ec6-dcf51727f25d",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/JPEG-16.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-25T00:09:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6148,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/imperialist-forces-are-carrying-out-a-calculated-cultural-aggression-in-bangladesh-rizvi/",
-          "title": "বাংলাদেশে পরিকল্পিত সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে: রুহুল কবির রিজভী",
-          "snippet": "বাংলাদেশে পরিকল্পিত সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে: রুহুল কবির রিজভী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশে সূক্ষ্মভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে বলে মন্তব্য রিজভীর",
-        "title_en": "Cultural Aggression Is Being Imposed Subtly in Bangladesh: Rizvi",
-        "summary_bn": "বিএনপির সিনিয়র নেতা রুহুল কবির রিজভী অভিযোগ করেছেন যে সাম্রাজ্যবাদী শক্তির চক্রান্তে দেশে পরিকল্পিতভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে।",
-        "summary_en": "BNP senior leader Ruhul Kabir Rizvi alleged that a calculated cultural aggression is being executed under imperialist conspiracies.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T00:09:54+00:00",
-        "lead_bn": "বিএনপির সিনিয়র নেতা রুহুল কবির রিজভী অভিযোগ করেছেন যে সাম্রাজ্যবাদী শক্তির চক্রান্তে দেশে পরিকল্পিতভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে।",
-        "lead_en": "BNP senior leader Ruhul Kabir Rizvi alleged that a calculated cultural aggression is being executed under imperialist conspiracies.",
-        "bullets_bn": [
-          "সাম্রাজ্যবাদী শক্তির চক্রান্তের মাধ্যমে ভাষার মূল রূপ বদলে ফেলার চেষ্টা চলছে বলে অভিযোগ করা হয়",
-          "দীর্ঘদিন চর্চিত শব্দ বাদ দিয়ে নতুন রূপ চাপিয়ে দেওয়া সাম্রাজ্যবাদী তৎপরতার অংশ বলে উল্লেখ করা হয়",
-          "জনগোষ্ঠীর রক্তে যেকোনো আগ্রাসন প্রতিহত করার অদৃশ্য অভ্যন্তরীণ ক্ষমতা রয়েছে বলে জানানো হয়"
-        ],
-        "bullets_en": [
-          "Attempts are underway to alter the core form of language through conspiracies by imperialist forces",
-          "Imposing new forms by replacing long-practiced words is highlighted as part of imperialist activities",
-          "Populations possess an inherent internal capacity in their blood to resist any cultural aggression"
-        ],
-        "impact_bn": "জাতীয় সংস্কৃতি ও ভাষা রক্ষায় তরুণ সমাজকে সচেতন ও দেশপ্রেমিক হওয়ার আহ্বান জানানো হয়েছে।",
-        "impact_en": "The youth are encouraged to remain vigilant and patriotic to safeguard national culture and language.",
-        "details_bn": "রাজধানীর শিল্পকলা একাডেমিতে আয়োজিত এক সেমিনারে বিএনপির জ্যেষ্ঠ নেতা রুহুল কবির রিজভী এই মন্তব্য করেন। তিনি ভাষ্য দেন যে উনিশ শতকের তথাকথিত বেঙ্গল রেনেসাঁ মূলত হিন্দু পুনরুত্থানবাদের মধ্যে সীমাবদ্ধ ছিল এবং তা সংখ্যাগরিষ্ঠ মুসলিম কৃষক সমাজের সংস্কারের বিষয়টি এড়িয়ে গিয়েছিল। সেই ঐতিহাসিক প্রেক্ষাপট ও বিভিন্ন রাজনৈতিক সংগ্রামের পথ ধরেই বাংলাদেশি জাতীয়তাবাদ গড়ে উঠেছে বলে তিনি উল্লেখ করেন।",
-        "details_en": "BNP senior leader Ruhul Kabir Rizvi made these remarks during a seminar held at the Bangladesh Shilpakala Academy in the capital. He argued that the 19th-century Bengal Renaissance was limited to Hindu revivalism, ignoring the socio-educational reforms of the majority Muslim peasantry. He noted that Bangladeshi nationalism emerged through historical contexts and subsequent political struggles."
-      }
-    },
-    {
-      "story_id": "5052e9c2-55d8-5943-911d-d33fe21388fd",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/JPEG-17.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-25T00:06:05+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5974,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/date-for-hsc-result-announcement-announced/",
-          "title": "এইচএসসির ফল প্রকাশের তারিখ ঘোষণা",
-          "snippet": "এইচএসসির ফল প্রকাশের তারিখ ঘোষণা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এইচএসসি ও সমমানের পরীক্ষার ফল প্রকাশিত হবে ২৯ অক্টোবর",
-        "title_en": "HSC and Equivalent Exam Results to Be Published on October 29",
-        "summary_bn": "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের তারিখ চূড়ান্ত করেছে।",
-        "summary_en": "The Inter-Education Board Coordination Committee has finalized the publication date for this year higher secondary exam results.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T00:06:05+00:00",
-        "lead_bn": "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের তারিখ চূড়ান্ত করেছে।",
-        "lead_en": "The Inter-Education Board Coordination Committee has finalized the publication date for this year higher secondary exam results.",
-        "bullets_bn": [
-          "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি আগামী ২৯ অক্টোবর উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের সিদ্ধান্ত নিয়েছে।",
-          "এ বছর নিয়মিত ও অনিয়মিত মিলিয়ে মোট ১২ লাখ ৭০ হাজার ৫৮৩ জন পরীক্ষার্থী এই পরীক্ষায় অংশ নেওয়ার জন্য নিবন্ধিত হয়েছিলেন।",
-          "শিক্ষার্থীরা নির্ধারিত তারিখে শিক্ষা বোর্ডগুলোর ওয়েবসাইট ও খুদে বার্তার মাধ্যমে তাদের কাঙ্ক্ষিত ফলাফল জানতে পারবেন।"
-        ],
-        "bullets_en": [
-          "The Inter-Education Board Coordination Committee finalized October 29 for publishing the higher secondary exam results.",
-          "A total of 1270583 regular and irregular candidates were registered to participate in the examinations this year.",
-          "Students will be able to access their results through the education boards official websites and SMS services."
-        ],
-        "impact_bn": "এইচএসসি পরীক্ষার্থী ও তাদের অভিভাবকরা ২৯ অক্টোবর ফলাফল প্রকাশের মাধ্যমে পরবর্তী উচ্চশিক্ষার প্রস্তুতি শুরু করতে পারবেন।",
-        "impact_en": "HSC candidates and their guardians can begin preparations for higher education once results are published on October 29.",
-        "details_bn": "চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষা গত ২ জুলাই শুরু হয়েছিল। পরীক্ষা শেষ হওয়ার পর শিক্ষা বোর্ডগুলোর পক্ষ থেকে ২৫ থেকে ২৯ অক্টোবরের মধ্যে ফল প্রকাশের জন্য শিক্ষা মন্ত্রণালয়ে প্রস্তাব পাঠানো হয়েছিল। সেই প্রস্তাবের ভিত্তিতে শিক্ষা মন্ত্রণালয় ২৯ অক্টোবর ফলাফল প্রকাশের দিন চূড়ান্ত করে। এবার মোট ১২ লাখ ৭০ হাজার ৫৮৩ জন পরীক্ষার্থী এই পরীক্ষায় অংশ নেওয়ার জন্য নিবন্ধন করেছিলেন।",
-        "details_en": "This year higher secondary examinations began on July 2. Following the conclusion of exams, education boards submitted a proposal to the ministry to publish results between October 25 and October 29. The ministry subsequently finalized October 29 as the official publication date. A total of 1270583 candidates registered for these examinations across the country."
-      }
-    },
-    {
-      "story_id": "2d6cb39a-9473-580c-9270-e1ebba7f6a45",
+      "story_id": "3e5893d0-9771-5fc5-93d8-0d36fb6d50a8",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness",
@@ -237,23 +125,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T00:00:00+00:00",
+      "published_at": "2026-10-25T02:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.5714,
+      "rank_score": 0.9643,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/other-sports/976501/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%AB-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-          "title": "টিভিতে আজকের খেলা (২৫ অক্টোবর, ২০২৬)",
-          "snippet": "টিভিতে আজকের খেলা (২৫ অক্টোবর, ২০২৬)"
+          "url": "https://www.banglatribune.com/sport/football/976496/%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B%E0%A6%B0-%E0%A7%AF%E0%A7%AE%E0%A7%A8%E0%A6%A4%E0%A6%AE-%E0%A6%97%E0%A7%8B%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%95",
+          "title": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
+          "snippet": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিভিতে র খেলার সূচি ও সরাসরি সম্প্রচার",
-        "title_en": "Today's TV Sports Schedule and Live Broadcasts",
-        "summary_bn": "টেলিভিশনের পর্দায় প্রচারিত র দেশি ও আন্তর্জাতিক বিভিন্ন খেলাধুলার সময়সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "The daily schedule for live domestic and international sports broadcasts on television has been released.",
+        "title_bn": "রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
+        "title_en": "[Sports Fitness] রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
+        "summary_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
+        "summary_en": "Significant policy and governance development regarding রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -261,77 +149,189 @@
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T00:00:00+00:00",
-        "lead_bn": "টেলিভিশনের পর্দায় প্রচারিত র দেশি ও আন্তর্জাতিক বিভিন্ন খেলাধুলার সময়সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "The daily schedule for live domestic and international sports broadcasts on television has been released.",
+        "published_at": "2026-10-25T02:00:00+00:00",
+        "lead_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
+        "lead_en": "Key executive and policy developments underway regarding রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক.",
         "bullets_bn": [
-          "পাকিস্তান ও ইংল্যান্ডের মধ্যকার ত্রিদেশীয় সিরিজ ম্যাচটি সরাসরি সম্প্রচার করবে টি স্পোর্টস।",
-          "খেলাটি দুপুর দুইটায় টি স্পোর্টস চ্যানেলে সরাসরি উপভোগ করা যাবে।",
-          "লা লিগার সেল্টা ভিগো ও রিয়াল বেতিস ম্যাচটি রাত সাড়ে নয়টায় সরাসরি সম্প্রচারিত হবে।"
+          "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর।",
+          "আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা।",
+          "কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক।"
         ],
         "bullets_en": [
-          "The T Sports channel will broadcast the T20 series match between Pakistan and England live.",
-          "The match is scheduled to go live on T Sports starting at two in the afternoon.",
-          "The La Liga match between Celta Vigo and Real Betis will be broadcast live at nine-thirty PM."
+          "Event Update: রোনালদোর ৯৮২তম গোল নিয়ে বিতর্ক",
+          "আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা।",
+          "কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক।"
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ক্রিকেট ও ফুটবলপ্রেমী দর্শকদের জন্য প্রতিদিন বিভিন্ন জাতীয় ও আন্তর্জাতিক টুর্নামেন্টের ম্যাচের সরাসরি সম্প্রচারের সময়সূচি প্রকাশ করা হয়। এর মাধ্যমে দর্শকরা তাদের পছন্দের খেলা সঠিক সময়ে উপভোগ করতে পারেন।",
-        "details_en": "Daily broadcast schedules for various national and international tournaments are published for sports enthusiasts. This allows viewers to watch their favorite cricket and football matches live on television at the designated times."
+        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
+        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
+        "details_bn": "গোল উদযাপনে কোনো সংশয় ছিল না ক্রিস্টিয়ানো রোনালদোর। আল নাসরের ৩-১ গোলের জয়ের ম্যাচে নিজের ক্যারিয়ারের ৯৮২তম গোল করেছেন বলেই উদযাপনে মাতেন পর্তুগিজ মহাতারকা। কিন্তু গোলটি আসলেই তার, নাকি প্রতিপক্ষের ডিফেন্ডারের আত্মঘাতী গোল তা নিয়েই এখন বিতর্ক। সৌদি প্রো লিগ রোনালদোকে গোলের কৃতিত্ব দিলেও চারটি বড় ফুটবল পরিসংখ্যান প্ল্যাটফর্ম গোলটি আত্মঘাতী...",
+        "details_en": null
       }
     },
     {
-      "story_id": "984225e4-bae2-5c06-a80a-7a01d1a3da72",
+      "story_id": "931464cf-a783-520f-83ee-247ea63e8a90",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T01:33:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7428,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/976539/%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%81%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A6%98%E0%A7%81%E0%A6%9A%E0%A6%BE%E0%A6%AA-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0",
+          "title": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ: কেমন থাকবে আজকের আবহাওয়া?",
+          "snippet": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ: কেমন থাকবে আজকের আবহাওয়া?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বঙ্গোপসাগরে সুস্পষ্ট লঘুচাপ সৃষ্টি, আবহাওয়া অধিদফতরের বিশেষ সতর্কতা",
+        "title_en": "Clear Low-Pressure Area Forms in Bay of Bengal, Met Office Issues Alert",
+        "summary_bn": "পূর্ব-মধ্য বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপটি আরও ঘনীভূত হয়ে পশ্চিম ও উত্তর-পশ্চিম দিকে অগ্রসর হতে পারে।",
+        "summary_en": "A well-marked low-pressure area formed over the east-central Bay of Bengal may intensify and move west-northwestwards.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T01:33:06+00:00",
+        "lead_bn": "পূর্ব-মধ্য বঙ্গোপসাগরে সৃষ্ট সুস্পষ্ট লঘুচাপটি আরও ঘনীভূত হয়ে পশ্চিম ও উত্তর-পশ্চিম দিকে অগ্রসর হতে পারে।",
+        "lead_en": "A well-marked low-pressure area formed over the east-central Bay of Bengal may intensify and move west-northwestwards.",
+        "bullets_bn": [
+          "পূর্ব-মধ্য এবং তৎসংলগ্ন দক্ষিণ-পূর্ব বঙ্গোপসাগর এলাকার লঘুচাপটি ঘনীভূত হয়ে সুস্পষ্ট লঘুচাপ আকারে অবস্থান করছে।",
+          "চট্টগ্রাম বিভাগের দুএক জায়গায় হালকা বৃষ্টির সম্ভাবনা রয়েছে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
+          "সিস্টেমটি আরও ঘনীভূত হয়ে পশ্চিম-উত্তরপশ্চিম দিকে অগ্রসর হওয়ার শঙ্কা রয়েছে।"
+        ],
+        "bullets_en": [
+          "The low-pressure system over the east-central Bay of Bengal has intensified into a well-marked low-pressure area.",
+          "The Met Office forecasts light rain at one or two places over the Chattogram division.",
+          "The system is likely to intensify further and move in a west-northwestward direction."
+        ],
+        "impact_bn": "সমুদ্র উপকূলবর্তী এলাকার সাধারণ মানুষ ও জেলেদের আবহাওয়া পরিস্থিতির দিকে সতর্ক নজর রাখতে বলা হয়েছে।",
+        "impact_en": "Coastal residents and fishermen are advised to keep a close watch on evolving weather conditions.",
+        "details_bn": "বঙ্গোপসাগরে মৌসুমি বায়ুর প্রভাবে এবং সাগরের তাপমাত্রা বৃদ্ধির ফলে প্রায় সময়ই এ ধরনের লঘুচাপ বা নিম্নচাপের সৃষ্টি হয়। এসব আবহাওয়া সিস্টেম পরবর্তীতে ঘনীভূত হয়ে সামুদ্রিক ঝড়ে রূপ নেওয়ার আশঙ্কা থাকে। আবহাওয়া অধিদফতর নিয়মিতভাবে এসব সিস্টেমের গতিবিধি পর্যবেক্ষণ করে থাকে এবং উপকূলীয় অঞ্চলে সতর্কতা জারি করে।",
+        "details_en": "Such low-pressure areas frequently form in the Bay of Bengal due to seasonal wind patterns and rising sea temperatures. These systems often have the potential to intensify into severe maritime storms. The Meteorological Department continuously monitors the trajectory of such systems and issues advisories for coastal regions."
+      }
+    },
+    {
+      "story_id": "eaa4afd0-062d-50c0-b6bf-96114f815565",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "governance_law"
+      ],
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fseykolaa%2Fclassico.jpg?rect=0%2C0%2C1286%2C675&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-25T01:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.723,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/football/6flw2cmyw1",
+          "title": "এল ক্লাসিকোর ফল ঠিক করে দিতে পারে যে পাঁচ প্রশ্নের উত্তর",
+          "snippet": "এল ক্লাসিকোর ফল ঠিক করে দিতে পারে যে পাঁচ প্রশ্নের উত্তর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এল ক্লাসিকোর মহারণে মুখোমুখি হচ্ছে বার্সেলোনা ও রিয়াল মাদ্রিদ",
+        "title_en": "Barcelona and Real Madrid Face Off in El Clasico Showdown",
+        "summary_bn": "লা লিগার পয়েন্ট টেবিলে ব্যবধান বাড়াতে ক্যাম্প ন্যুতে রিয়াল মাদ্রিদের মুখোমুখি হচ্ছে পয়েন্ট টেবিলের শীর্ষে থাকা বার্সেলোনা।",
+        "summary_en": "League leaders Barcelona host Real Madrid at Camp Nou aiming to widen their gap in the standings.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T01:30:00+00:00",
+        "lead_bn": "লা লিগার পয়েন্ট টেবিলে ব্যবধান বাড়াতে ক্যাম্প ন্যুতে রিয়াল মাদ্রিদের মুখোমুখি হচ্ছে পয়েন্ট টেবিলের শীর্ষে থাকা বার্সেলোনা।",
+        "lead_en": "League leaders Barcelona host Real Madrid at Camp Nou aiming to widen their gap in the standings.",
+        "bullets_bn": [
+          "লা লিগার ম্যাচে মুখোমুখি হচ্ছে চিরপ্রতিদ্বন্দ্বী বার্সেলোনা ও রিয়াল মাদ্রিদ",
+          "নয় ম্যাচে ২৭ পয়েন্ট নিয়ে পয়েন্ট তালিকার শীর্ষে রয়েছে বার্সেলোনা এবং সমান ম্যাচে ২১ পয়েন্ট নিয়ে তিনে রিয়াল মাদ্রিদ",
+          "এই ম্যাচে পরাজিত হলে শিরোপার লড়াইয়ে ৯ পয়েন্টে পিছিয়ে পড়বে মাদ্রিদের দলটি"
+        ],
+        "bullets_en": [
+          "Arch-rivals Barcelona and Real Madrid face each other in a crucial league fixture.",
+          "Barcelona leads the table with 27 points from nine matches while Real Madrid sits third with 21 points.",
+          "A defeat for Madrid would widen the title race gap to nine points."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "স্প্যানিশ ফুটবলের সবচেয়ে আকর্ষণীয় দ্বৈরথ হলো এল ক্লাসিকো, যেখানে ঐতিহ্যগতভাবে বার্সেলোনা ও রিয়াল মাদ্রিদ প্রতিদ্বন্দ্বিতা করে আসছে। লিওনেল মেসি ও ক্রিস্টিয়ানো রোনালদোর যুগের পর এবার নতুন প্রজন্মের তারকারা এই মহারণের কেন্দ্রবিন্দুতে রয়েছে। হ্যান্সি ফ্লিকের কোচিংয়ে বার্সেলোনা দুর্দান্ত ফর্মে থেকে মাঠে নামছে, অন্যদিকে রিয়াল মাদ্রিদের জন্য এটি শিরোপার দৌড়ে টিকে থাকার অত্যন্ত গুরুত্বপূর্ণ ম্যাচ।",
+        "details_en": "El Clasico is Spanish football's most celebrated rivalry between Barcelona and Real Madrid. Following the era of Lionel and Cristiano, a new generation of players now headlines the fixture. Barcelona enters under Hansi Flick in strong form, while Madrid faces a crucial test to stay in the title race."
+      }
+    },
+    {
+      "story_id": "6e575607-8b20-5b89-920e-4ca7d6519833",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fh9e0kfbc%2FParis.avif?rect=0%2C68%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fs04hsl1z%2Fcoffee-n-2.jpg?overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2023-10%2Fdf4c7d13-96dc-4875-b8bf-5aac7b6aa475%2FHaalfashion_gpi_sample3.png&overlay_position=bottom&overlay_opacity=1&w=1200&h=627&auto=format%2Ccompress&ogImage=true&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-24T23:09:09+00:00",
+      "published_at": "2026-10-25T01:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.4141,
+      "rank_score": 0.5713,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/europe/uqi1yu06hs",
-          "title": "‘এভাবে হাল ছেড়ে দেওয়া যায় না, রাজপথে ফিরতেই হতো’",
-          "snippet": "‘এভাবে হাল ছেড়ে দেওয়া যায় না, রাজপথে ফিরতেই হতো’"
+          "url": "https://www.haal.fashion/lifestyle/well-being/842ny14e48",
+          "title": "ব্ল্যাক কফি কি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সাহায্য করে?",
+          "snippet": "ব্ল্যাক কফি কি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সাহায্য করে?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সে লাখো মানুষের বিক্ষোভ",
-        "title_en": "Thousands Protest Across France Over Rising Living Costs and Education Crisis",
-        "summary_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সজুড়ে রাজপথে নেমেছেন লাখো বিক্ষোভকারী।",
-        "summary_en": "Thousands of protesters took to the streets across France to protest against rising living costs and the education crisis.",
+        "title_bn": "ব্ল্যাক কফি রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে সরাসরি সহায়তা করে না",
+        "title_en": "Black Coffee Does Not Directly Control Blood Sugar and Cholesterol",
+        "summary_bn": "স্বাস্থ্য বিশেষজ্ঞরা জানিয়েছেন যে ব্ল্যাক কফি চিনি ও ক্যালরি মুক্ত হলেও এটি কোনো রোগের চিকিৎসাকারি প্রতিকার নয়।",
+        "summary_en": "Health experts state that while black coffee is calorie and sugar free, it is not a cure for diseases.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T23:09:09+00:00",
-        "lead_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সজুড়ে রাজপথে নেমেছেন লাখো বিক্ষোভকারী।",
-        "lead_en": "Thousands of protesters took to the streets across France to protest against rising living costs and the education crisis.",
+        "published_at": "2026-10-25T01:00:00+00:00",
+        "lead_bn": "স্বাস্থ্য বিশেষজ্ঞরা জানিয়েছেন যে ব্ল্যাক কফি চিনি ও ক্যালরি মুক্ত হলেও এটি কোনো রোগের চিকিৎসাকারি প্রতিকার নয়।",
+        "lead_en": "Health experts state that while black coffee is calorie and sugar free, it is not a cure for diseases.",
         "bullets_bn": [
-          "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের বিরুদ্ধে ফ্রান্সজুড়ে বিক্ষোভ শুরু হয়।",
-          "স্বরাষ্ট্র মন্ত্রণালয়ের হিসাবে দেশজুড়ে চার লাখ ১০ হাজার মানুষ বিক্ষোভে অংশ নেন এবং ইউনিয়নগুলোর দাবি সংখ্যাটি আট লাখ।",
-          "পরিস্থিতি নিয়ন্ত্রণে দেশজুড়ে ৭০ হাজার পুলিশ মোতায়েন করা হয় এবং প্যারিস ও মার্সেই শহরে সংঘর্ষ ঘটে।"
+          "ব্ল্যাক কফি চিনি ও দুধ ছাড়া সেবন করায় এতে ক্যালরির পরিমাণ অনেক কম থাকে।",
+          "বিভিন্ন গবেষণায় রক্তে শর্করা ও কোলেস্টেরল নিয়ন্ত্রণে এর সম্ভাব্য ভূমিকার কথা বলা হয়েছে।",
+          "এটি স্বাস্থ্যকর খাদ্যাভ্যাসের অংশ হতে পারে তবে কোনো চিকিৎসা বা ওষুধের বিকল্প নয়।"
         ],
         "bullets_en": [
-          "Protests erupted across France against the rising cost of living and the ongoing education crisis.",
-          "The interior ministry estimated 410000 participants nationwide while unions claimed around 800000.",
-          "Authorities deployed 70000 police officers nationwide as clashes broke out in Paris and Marseille."
+          "Black coffee contains very low calories as it is consumed without milk and sugar.",
+          "Various studies suggest its potential role in controlling blood sugar and cholesterol levels.",
+          "It can be part of a healthy diet but is not a substitute for medical treatment."
         ],
-        "impact_bn": "ফ্রান্সে এই তীব্র বিক্ষোভ ও সহিংসতার কারণে প্রধান জাদুঘর এবং সাংস্কৃতিক প্রতিষ্ঠানগুলো বন্ধ রাখতে বাধ্য হয় প্রশাসন।",
-        "impact_en": "The intense protests and clashes forced authorities to shut down major museums and cultural institutions in France.",
-        "details_bn": "ফ্রান্সে জীবনযাত্রার ক্রমবর্ধমান ব্যয় এবং ভেঙে পড়া শিক্ষাব্যবস্থার প্রতিবাদে সাধারণ মানুষ রাজপথে নেমে এসেছে। বিদ্যালয়গুলোর জরাজীর্ণ অবস্থা এবং শিক্ষক সংকটের পাশাপাশি অর্থনৈতিক চাপের কারণে সাধারণ নাগরিকদের মধ্যে তীব্র ক্ষোভের সৃষ্টি হয়েছে। বিক্ষোভের কারণে ল্যুভর জাদুঘর, মুসে দর্সে ও প্যারিস অপেরার মতো দর্শনীয় স্থানগুলো বন্ধ রাখা হয়। পরিস্থিতি নিয়ন্ত্রণে রাখতে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থান নেয় এবং বিক্ষোভকারীদের সাথে সংঘর্ষে জড়ায়।",
-        "details_en": "Citizens took to the streets in France to protest escalating living expenses and a deteriorating education system. Widespread public anger has been fueled by dilapidated school infrastructure, severe teacher shortages, and mounting financial pressures. The unrest prompted the closure of major cultural sites including the Louvre Museum, Musee d'Orsay, and the Paris Opera. Law enforcement maintained a heavy presence nationwide, leading to clashes with demonstrators."
+        "impact_bn": "সঠিক খাদ্যাভ্যাস সম্পর্কে সচেতন সাধারণ মানুষ ও ওজন নিয়ন্ত্রণে আগ্রহী যুবসমাজ কফি পানের উপকারিতা ও সীমাবদ্ধতা সম্পর্কে সঠিক ধারণা পাবে।",
+        "impact_en": "General consumers and health-conscious youth will gain a realistic understanding of the benefits and limitations of consuming black coffee.",
+        "details_bn": "সকালের শুরুতে ব্ল্যাক কফি পানের অভ্যাস বিশ্বজুড়ে ওজন সচেতন মানুষের মধ্যে অত্যন্ত জনপ্রিয়। গবেষকরা এর পুষ্টিগুণ ও রোগ প্রতিরোধের ক্ষমতার ওপর বিভিন্ন পরীক্ষা চালিয়েছেন। তবে অতিরিক্ত কফি পান বা এর অলৌকিক গুণ নিয়ে অতিআস্থার কারণে স্বাস্থ্যঝুঁকি তৈরি হতে পারে। চিকিৎসকরা সবসময় সুষম খাদ্যাভ্যাস ও নিয়মের ওপর জোর দিয়ে থাকেন।",
+        "details_en": "The habit of drinking black coffee in the morning is very popular worldwide among weight-conscious people. Researchers have conducted various tests on its nutritional value and disease prevention capacity. However, over-reliance or excessive consumption can create health risks. Doctors always emphasize a balanced diet and proper lifestyle."
       }
     }
   ]
