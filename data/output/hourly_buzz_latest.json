@@ -1,12 +1,14 @@
 {
-  "updated_at": "2026-10-25T00:00:52.966995",
+  "updated_at": "2026-10-25T01:00:50.134822",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "8d4a1f38-c7d0-5a98-9a46-88f47edf4d4f",
+      "story_id": "dae81c0b-8e2b-5e41-b4b8-dbaff32ea152",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business",
+        "governance_law"
       ],
       "tags": [
         "#Geopolitics",
@@ -14,46 +16,212 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-24T21:52:25+00:00",
+      "published_at": "2026-10-25T00:49:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.0399,
+      "importance_score": 2.4,
+      "rank_score": 0.8615,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171592",
-          "title": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী",
-          "snippet": "রাতে জাপান যাচ্ছেন প্রধানমন্ত্রী"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/976538/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8-%E0%A6%A1%E0%A7%87%E0%A6%AE%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%9F%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87",
+          "title": "মার্কিন মধ্যবর্তী নির্বাচন: ডেমোক্রেটদের প্রচারে নেমে ট্রাম্পকে তুলোধোনা করলেন ওবামা",
+          "snippet": "মার্কিন মধ্যবর্তী নির্বাচন: ডেমোক্রেটদের প্রচারে নেমে ট্রাম্পকে তুলোধোনা করলেন ওবামা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman is visiting Japan",
-        "summary_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is leaving for a four-day official visit to Japan at the invitation of the Japanese Prime Minister.",
+        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন প্রচারে ট্রাম্প প্রশাসনের তীব্র সমালোচনা করলেন ওবামা",
+        "title_en": "Obama Slams Trump Administration During US Midterm Election Campaign",
+        "summary_bn": "মার্কিন মধ্যবর্তী নির্বাচন সামনে রেখে ডেমোক্রেটিক পার্টির প্রচারে নেমে বর্তমান প্রশাসনের অর্থনৈতিক নীতি ও প্রশাসনের কঠোর সমালোচনা করেছেন বারাক ওবামা।",
+        "summary_en": "Former US President Barack Obama campaigned for Democratic candidates and fiercely criticized the current administration ahead of the elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "economy_business",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:52:25+00:00",
-        "lead_bn": "জাপানের প্রধানমন্ত্রীর আমন্ত্রণে চার দিনের সরকারি সফরে ঢাকা ত্যাগ করছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is leaving for a four-day official visit to Japan at the invitation of the Japanese Prime Minister.",
+        "published_at": "2026-10-25T00:49:00+00:00",
+        "lead_bn": "মার্কিন মধ্যবর্তী নির্বাচন সামনে রেখে ডেমোক্রেটিক পার্টির প্রচারে নেমে বর্তমান প্রশাসনের অর্থনৈতিক নীতি ও প্রশাসনের কঠোর সমালোচনা করেছেন বারাক ওবামা।",
+        "lead_en": "Former US President Barack Obama campaigned for Democratic candidates and fiercely criticized the current administration ahead of the elections.",
         "bullets_bn": [
-          "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির আমন্ত্রণে চার দিনের সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
-          "সফরকালে বিমান বাংলাদেশ এয়ারলাইন্সের একটি বিশেষ ফ্লাইটে তিনি টোকিও অভিমুখে রওনা হন।",
-          "এই দ্বিপক্ষীয় সফরে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ সহযোগিতা বৃদ্ধির বিষয়ে আলোচনা হবে।"
+          "ডেমোক্রেটিক পার্টির প্রার্থীদের পক্ষে নির্বাচনি প্রচারণায় অংশ নেন সাবেক মার্কিন প্রেসিডেন্ট বারাক ওবামা",
+          "ওহাইও ও মিশিগান রাজ্যে আয়োজিত সমাবেশে বর্তমান প্রশাসনের অর্থনৈতিক নীতি মুদ্রাস্ফীতি ও ইরান যুদ্ধ নিয়ে সমালোচনা করা হয়",
+          "আসন্ন মধ্যবর্তী নির্বাচনে ডেমোক্রেটিক পার্টির প্রার্থীর জয় নিশ্চিত করতে ভোটারদের প্রতি আহ্বান জানানো হয়"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman is embarking on a four-day visit at the invitation of Japanese Prime Minister Sanae Takaichi.",
-          "He departed for Tokyo on a Biman Bangladesh Airlines flight during the journey.",
-          "The bilateral tour is expected to focus on expanding trade and investment cooperation between the two nations."
+          "Former US President Barack Obama actively campaigned for Democratic Party candidates ahead of the polls.",
+          "Rallies in Ohio and Michigan featured strong criticism of current economic policies inflation and foreign conflicts.",
+          "Voters were urged to support Democratic candidates to secure victories in the upcoming midterm elections."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাপানের সাথে বাংলাদেশের দীর্ঘদিনের অর্থনৈতিক ও কৌশলগত অংশীদারিত্ব রয়েছে। বিভিন্ন মেগা প্রকল্পে জাপানি অর্থায়ন এবং প্রযুক্তিগত সহায়তা অব্যাহত রয়েছে। বর্তমান সরকারের এই উচ্চপর্যায়ের সফর দুই দেশের মধ্যকার কূটনৈতিক সম্পর্ক আরও সুদৃঢ় করবে এবং অর্থনৈতিক সহযোগিতা সম্প্রসারণের নতুন দ্বার উন্মোচন করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing economic and strategic partnership, with Japan being a major development partner and investor in various mega projects. This high-level visit by the head of government is expected to further strengthen bilateral ties and open new avenues for economic cooperation between Dhaka and Tokyo."
+        "impact_bn": "মার্কিন রাজনৈতিক মেরুকরণ ও নির্বাচনি প্রচারের তীব্রতা সাধারণ ভোটারদের সিদ্ধান্ত গ্রহণে সরাসরি প্রভাব ফেলবে।",
+        "impact_en": "Heightened political polarization and intense campaign rhetoric will directly influence voter decision-making in the upcoming elections.",
+        "details_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনকে কেন্দ্র করে দেশটির প্রধান রাজনৈতিক দলগুলোর মধ্যে প্রতিদ্বন্দ্বিতা তুঙ্গে পৌঁছেছে। ডেমোক্রেটিক পার্টি তাদের অবস্থান শক্তিশালী করতে শীর্ষ নেতাদের মাঠে নামিয়েছে। সাবেক প্রেসিডেন্ট বারাক ওবামা বিভিন্ন অঙ্গরাজ্যে নির্বাচনি সমাবেশে বক্তব্য রেখে বর্তমান প্রশাসনের নীতিমালার কঠোর সমালোচনা করছেন এবং ভোটারদের নিজেদের দলের পক্ষে টানার চেষ্টা চালাচ্ছেন।",
+        "details_en": "The political landscape in the United States has intensified as both major parties gear up for the midterm elections. The Democratic Party has deployed high-profile leaders like former President Barack Obama to rally support. Obama has been addressing packed rallies across key states, challenging the current administration policies on economy and foreign affairs to mobilize the party base."
+      }
+    },
+    {
+      "story_id": "fc59bfc2-48a7-5617-a925-2da88fb82f44",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T00:46:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8387,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171596",
+          "title": "চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই",
+          "snippet": "চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে তরুণীর মোবাইল ছিনতাই",
+        "title_en": "Mobile Phone Snitched From Moving Easy-Bike in Nilphamari Saidpur",
+        "summary_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে এক তরুণীর মোবাইলফোন ছিনতাইয়ের ঘটনা ঘটেছে।",
+        "summary_en": "A young woman's mobile phone was snatched from a moving easy-bike in Nilphamari's Saidpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T00:46:15+00:00",
+        "lead_bn": "নীলফামারীর সৈয়দপুরে চলন্ত ইজিবাইক থেকে এক তরুণীর মোবাইলফোন ছিনতাইয়ের ঘটনা ঘটেছে।",
+        "lead_en": "A young woman's mobile phone was snatched from a moving easy-bike in Nilphamari's Saidpur.",
+        "bullets_bn": [
+          "চলন্ত ইজিবাইক থেকে যাত্রীর মোবাইল ছিনতাইয়ের ঘটনা ঘটে",
+          "সন্ধ্যা ছয়টার দিকে শহরের ইসলামবাগ শেরু হোটেল এলাকায় এই অপরাধ ঘটে",
+          "আইনশৃঙ্খলা রক্ষা বাহিনী অপরাধীদের গ্রেফতারে তদন্ত শুরু করেছে"
+        ],
+        "bullets_en": [
+          "A passenger's mobile phone was snatched from a moving easy-bike",
+          "The incident took place around six in the evening near the Islampab Sheru Hotel area",
+          "Law enforcement agencies have initiated an investigation to apprehend the culprits"
+        ],
+        "impact_bn": "চলন্ত যানবাহনে এই ধরনের ছিনতাই সাধারণ যাত্রীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
+        "impact_en": "Such snatching incidents on moving transport raise serious safety concerns for everyday commuters.",
+        "details_bn": "সৈয়দপুরে সাম্প্রতিক সময়ে ছিনতাইয়ের ঘটনা বৃদ্ধি পাওয়ায় সাধারণ মানুষের মধ্যে আতঙ্ক বিরাজ করছে। আইনশৃঙ্খলা রক্ষাকারী বাহিনীর পক্ষ থেকে শহরের বিভিন্ন পয়েন্টে নজরদারি বাড়ানোর আশ্বাস দেওয়া হলেও অপরাধ থামছে না। অপরাধীদের আইনের আওতায় আনতে স্থানীয়রা পুলিশ প্রশাসনের কঠোর পদক্ষেপ দাবি করেছেন।",
+        "details_en": "A recent rise in snatching incidents in Saidpur has created panic among residents. Although law enforcement has promised increased surveillance across city points, crimes continue to occur. Locals have demanded strict administrative action to bring the perpetrators to justice."
+      }
+    },
+    {
+      "story_id": "061e4957-3be2-5732-9ec6-dcf51727f25d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/JPEG-16.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-25T00:09:54+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6148,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/imperialist-forces-are-carrying-out-a-calculated-cultural-aggression-in-bangladesh-rizvi/",
+          "title": "বাংলাদেশে পরিকল্পিত সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে: রুহুল কবির রিজভী",
+          "snippet": "বাংলাদেশে পরিকল্পিত সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে: রুহুল কবির রিজভী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে সূক্ষ্মভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে বলে মন্তব্য রিজভীর",
+        "title_en": "Cultural Aggression Is Being Imposed Subtly in Bangladesh: Rizvi",
+        "summary_bn": "বিএনপির সিনিয়র নেতা রুহুল কবির রিজভী অভিযোগ করেছেন যে সাম্রাজ্যবাদী শক্তির চক্রান্তে দেশে পরিকল্পিতভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে।",
+        "summary_en": "BNP senior leader Ruhul Kabir Rizvi alleged that a calculated cultural aggression is being executed under imperialist conspiracies.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T00:09:54+00:00",
+        "lead_bn": "বিএনপির সিনিয়র নেতা রুহুল কবির রিজভী অভিযোগ করেছেন যে সাম্রাজ্যবাদী শক্তির চক্রান্তে দেশে পরিকল্পিতভাবে সাংস্কৃতিক আগ্রাসন চালানো হচ্ছে।",
+        "lead_en": "BNP senior leader Ruhul Kabir Rizvi alleged that a calculated cultural aggression is being executed under imperialist conspiracies.",
+        "bullets_bn": [
+          "সাম্রাজ্যবাদী শক্তির চক্রান্তের মাধ্যমে ভাষার মূল রূপ বদলে ফেলার চেষ্টা চলছে বলে অভিযোগ করা হয়",
+          "দীর্ঘদিন চর্চিত শব্দ বাদ দিয়ে নতুন রূপ চাপিয়ে দেওয়া সাম্রাজ্যবাদী তৎপরতার অংশ বলে উল্লেখ করা হয়",
+          "জনগোষ্ঠীর রক্তে যেকোনো আগ্রাসন প্রতিহত করার অদৃশ্য অভ্যন্তরীণ ক্ষমতা রয়েছে বলে জানানো হয়"
+        ],
+        "bullets_en": [
+          "Attempts are underway to alter the core form of language through conspiracies by imperialist forces",
+          "Imposing new forms by replacing long-practiced words is highlighted as part of imperialist activities",
+          "Populations possess an inherent internal capacity in their blood to resist any cultural aggression"
+        ],
+        "impact_bn": "জাতীয় সংস্কৃতি ও ভাষা রক্ষায় তরুণ সমাজকে সচেতন ও দেশপ্রেমিক হওয়ার আহ্বান জানানো হয়েছে।",
+        "impact_en": "The youth are encouraged to remain vigilant and patriotic to safeguard national culture and language.",
+        "details_bn": "রাজধানীর শিল্পকলা একাডেমিতে আয়োজিত এক সেমিনারে বিএনপির জ্যেষ্ঠ নেতা রুহুল কবির রিজভী এই মন্তব্য করেন। তিনি ভাষ্য দেন যে উনিশ শতকের তথাকথিত বেঙ্গল রেনেসাঁ মূলত হিন্দু পুনরুত্থানবাদের মধ্যে সীমাবদ্ধ ছিল এবং তা সংখ্যাগরিষ্ঠ মুসলিম কৃষক সমাজের সংস্কারের বিষয়টি এড়িয়ে গিয়েছিল। সেই ঐতিহাসিক প্রেক্ষাপট ও বিভিন্ন রাজনৈতিক সংগ্রামের পথ ধরেই বাংলাদেশি জাতীয়তাবাদ গড়ে উঠেছে বলে তিনি উল্লেখ করেন।",
+        "details_en": "BNP senior leader Ruhul Kabir Rizvi made these remarks during a seminar held at the Bangladesh Shilpakala Academy in the capital. He argued that the 19th-century Bengal Renaissance was limited to Hindu revivalism, ignoring the socio-educational reforms of the majority Muslim peasantry. He noted that Bangladeshi nationalism emerged through historical contexts and subsequent political struggles."
+      }
+    },
+    {
+      "story_id": "5052e9c2-55d8-5943-911d-d33fe21388fd",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/JPEG-17.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-25T00:06:05+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.5974,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/date-for-hsc-result-announcement-announced/",
+          "title": "এইচএসসির ফল প্রকাশের তারিখ ঘোষণা",
+          "snippet": "এইচএসসির ফল প্রকাশের তারিখ ঘোষণা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এইচএসসি ও সমমানের পরীক্ষার ফল প্রকাশিত হবে ২৯ অক্টোবর",
+        "title_en": "HSC and Equivalent Exam Results to Be Published on October 29",
+        "summary_bn": "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের তারিখ চূড়ান্ত করেছে।",
+        "summary_en": "The Inter-Education Board Coordination Committee has finalized the publication date for this year higher secondary exam results.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T00:06:05+00:00",
+        "lead_bn": "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের তারিখ চূড়ান্ত করেছে।",
+        "lead_en": "The Inter-Education Board Coordination Committee has finalized the publication date for this year higher secondary exam results.",
+        "bullets_bn": [
+          "আন্তশিক্ষা বোর্ড সমন্বয় কমিটি আগামী ২৯ অক্টোবর উচ্চমাধ্যমিক ও সমমানের পরীক্ষার ফলাফল প্রকাশের সিদ্ধান্ত নিয়েছে।",
+          "এ বছর নিয়মিত ও অনিয়মিত মিলিয়ে মোট ১২ লাখ ৭০ হাজার ৫৮৩ জন পরীক্ষার্থী এই পরীক্ষায় অংশ নেওয়ার জন্য নিবন্ধিত হয়েছিলেন।",
+          "শিক্ষার্থীরা নির্ধারিত তারিখে শিক্ষা বোর্ডগুলোর ওয়েবসাইট ও খুদে বার্তার মাধ্যমে তাদের কাঙ্ক্ষিত ফলাফল জানতে পারবেন।"
+        ],
+        "bullets_en": [
+          "The Inter-Education Board Coordination Committee finalized October 29 for publishing the higher secondary exam results.",
+          "A total of 1270583 regular and irregular candidates were registered to participate in the examinations this year.",
+          "Students will be able to access their results through the education boards official websites and SMS services."
+        ],
+        "impact_bn": "এইচএসসি পরীক্ষার্থী ও তাদের অভিভাবকরা ২৯ অক্টোবর ফলাফল প্রকাশের মাধ্যমে পরবর্তী উচ্চশিক্ষার প্রস্তুতি শুরু করতে পারবেন।",
+        "impact_en": "HSC candidates and their guardians can begin preparations for higher education once results are published on October 29.",
+        "details_bn": "চলতি বছরের উচ্চমাধ্যমিক ও সমমানের পরীক্ষা গত ২ জুলাই শুরু হয়েছিল। পরীক্ষা শেষ হওয়ার পর শিক্ষা বোর্ডগুলোর পক্ষ থেকে ২৫ থেকে ২৯ অক্টোবরের মধ্যে ফল প্রকাশের জন্য শিক্ষা মন্ত্রণালয়ে প্রস্তাব পাঠানো হয়েছিল। সেই প্রস্তাবের ভিত্তিতে শিক্ষা মন্ত্রণালয় ২৯ অক্টোবর ফলাফল প্রকাশের দিন চূড়ান্ত করে। এবার মোট ১২ লাখ ৭০ হাজার ৫৮৩ জন পরীক্ষার্থী এই পরীক্ষায় অংশ নেওয়ার জন্য নিবন্ধন করেছিলেন।",
+        "details_en": "This year higher secondary examinations began on July 2. Following the conclusion of exams, education boards submitted a proposal to the ministry to publish results between October 25 and October 29. The ministry subsequently finalized October 29 as the official publication date. A total of 1270583 candidates registered for these examinations across the country."
       }
     },
     {
@@ -72,7 +240,7 @@
       "published_at": "2026-10-25T00:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9642,
+      "rank_score": 0.5714,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -82,10 +250,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "টিভিতে র খেলার সময়সূচি ও সরাসরি সম্প্রচার",
-        "title_en": "Today Live Sports TV Schedule and Broadcast Details",
-        "summary_bn": "টেলিভিশনের পর্দায় প্রচারিতব্য বিভিন্ন দেশীয় ও আন্তর্জাতিক ম্যাচের সময়সূচি প্রকাশ করা হয়েছে।",
-        "summary_en": "The daily schedule for live televised domestic and international sports matches has been announced.",
+        "title_bn": "টিভিতে র খেলার সূচি ও সরাসরি সম্প্রচার",
+        "title_en": "Today's TV Sports Schedule and Live Broadcasts",
+        "summary_bn": "টেলিভিশনের পর্দায় প্রচারিত র দেশি ও আন্তর্জাতিক বিভিন্ন খেলাধুলার সময়সূচি প্রকাশ করা হয়েছে।",
+        "summary_en": "The daily schedule for live domestic and international sports broadcasts on television has been released.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,76 +262,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T00:00:00+00:00",
-        "lead_bn": "টেলিভিশনের পর্দায় প্রচারিতব্য বিভিন্ন দেশীয় ও আন্তর্জাতিক ম্যাচের সময়সূচি প্রকাশ করা হয়েছে।",
-        "lead_en": "The daily schedule for live televised domestic and international sports matches has been announced.",
+        "lead_bn": "টেলিভিশনের পর্দায় প্রচারিত র দেশি ও আন্তর্জাতিক বিভিন্ন খেলাধুলার সময়সূচি প্রকাশ করা হয়েছে।",
+        "lead_en": "The daily schedule for live domestic and international sports broadcasts on television has been released.",
         "bullets_bn": [
-          "পাকিস্তান ও ইংল্যান্ডের মধ্যকার ত্রিদেশীয় সিরিজের ক্রিকেট ম্যাচ সরাসরি সম্প্রচারিত হবে।",
-          "খেলাটি দুপুর দুইটায় টি স্পোর্টস চ্যানেলে সরাসরি দেখা যাবে।",
-          "এছাড়া স্প্যানিশ লা লিগায় সেল্টা ভিগো ও রিয়াল বেতিসের ম্যাচ রাত সাড়ে নয়টায় সরাসরি সম্প্রচারিত হবে।"
+          "পাকিস্তান ও ইংল্যান্ডের মধ্যকার ত্রিদেশীয় সিরিজ ম্যাচটি সরাসরি সম্প্রচার করবে টি স্পোর্টস।",
+          "খেলাটি দুপুর দুইটায় টি স্পোর্টস চ্যানেলে সরাসরি উপভোগ করা যাবে।",
+          "লা লিগার সেল্টা ভিগো ও রিয়াল বেতিস ম্যাচটি রাত সাড়ে নয়টায় সরাসরি সম্প্রচারিত হবে।"
         ],
         "bullets_en": [
-          "A T20 or ODI cricket match from the triangular series between Pakistan and England will be broadcast live.",
-          "The cricket match is scheduled to start live at two PM on T Sports.",
-          "In addition, the La Liga football match between Celta Vigo and Real Betis will be telecast live at nine-thirty PM."
+          "The T Sports channel will broadcast the T20 series match between Pakistan and England live.",
+          "The match is scheduled to go live on T Sports starting at two in the afternoon.",
+          "The La Liga match between Celta Vigo and Real Betis will be broadcast live at nine-thirty PM."
         ],
-        "impact_bn": "খেলোয়াড় ও ক্রীড়াপ্রেমীরা নির্ধারিত সময়ে টেলিভিশনে তাদের পছন্দের ম্যাচগুলো উপভোগ করতে পারবেন।",
-        "impact_en": "Sports fans and viewers can watch their favorite live matches on television according to the schedule.",
-        "details_bn": "ক্রিকেট ও ফুটবলসহ বিভিন্ন আন্তর্জাতিক ও ঘরোয়া টুর্নামেন্টের নিয়মিত সূচি টেলিভিশন চ্যানেলে সরাসরি সম্প্রচার করা হয়। দর্শকরা ঘরে বসেই এসব রোমাঞ্চকর ম্যাচ উপভোগ করার সুযোগ পান। প্রতিদিনের খেলার আপডেট ও সম্প্রচার সময়সূচি ক্রীড়াপ্রেমীদের মধ্যে ব্যাপক আগ্রহ তৈরি করে।",
-        "details_en": "Regular schedules of various international and domestic cricket and football tournaments are broadcast live on television channels. Viewers get the opportunity to enjoy these exciting matches from home. Daily sports updates and broadcast schedules generate significant interest among sports enthusiasts."
-      }
-    },
-    {
-      "story_id": "10cf0d22-5209-59bd-93d7-8a1a5c13d0c7",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-24%2Fy5n1xxwd%2FCapture.PNG?rect=0%2C15%2C211%2C111&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-24T23:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7229,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/fts3ek8ww7",
-          "title": "শুভ প্রবারণা পূর্ণিমা আজ",
-          "snippet": "শুভ প্রবারণা পূর্ণিমা আজ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শুভ প্রবারণা পূর্ণিমা আজ",
-        "title_en": "[Governance Law] শুভ প্রবারণা পূর্ণিমা আজ",
-        "summary_bn": "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
-        "summary_en": "Significant policy and governance development regarding শুভ প্রবারণা পূর্ণিমা আজ.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T23:30:00+00:00",
-        "lead_bn": "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
-        "lead_en": "Key executive and policy developments underway regarding শুভ প্রবারণা পূর্ণিমা আজ.",
-        "bullets_bn": [
-          "বৌদ্ধধর্মাবলম্বীদের দ্বিতীয় বৃহত্তম ধর্মীয় উৎসব শুভ প্রবারণা পূর্ণিমা রোববার।",
-          "বৌদ্ধ ভিক্ষুদের তিন মাসের বর্ষাবাস সমাপনীতে প্রবারণা পূর্ণিমা উদ্‌যাপন করেন বৌদ্ধধর্মাবলম্বীরা।",
-          "বৌদ্ধ সম্প্রদায়ের বিশ্বাস, এই পূর্ণিমা পালনের মাধ্যমে বৌদ্ধ ভিক্ষু ও গৃহীদের পাপমোচন হয়।"
-        ],
-        "bullets_en": [
-          "Event Update: শুভ প্রবারণা পূর্ণিমা আজ",
-          "বৌদ্ধ ভিক্ষুদের তিন মাসের বর্ষাবাস সমাপনীতে প্রবারণা পূর্ণিমা উদ্‌যাপন করেন বৌদ্ধধর্মাবলম্বীরা।",
-          "বৌদ্ধ সম্প্রদায়ের বিশ্বাস, এই পূর্ণিমা পালনের মাধ্যমে বৌদ্ধ ভিক্ষু ও গৃহীদের পাপমোচন হয়।"
-        ],
-        "impact_bn": "সাধারণ নাগরিক ও সংশ্লিষ্ট অংশীজনদের জন্য এই সিদ্ধান্ত কার্যকর প্রভাব ফেলবে।",
-        "impact_en": "Directly affects stakeholders and institutional administration across Bangladesh.",
-        "details_bn": "বুদ্ধপূজা, সংঘদান, পিণ্ডদান, অষ্টপরিষ্কার দান, পঞ্চশীল প্রার্থনা, শীল গ্রহণ, প্রদীপপূজা ও ফানুস ওড়ানোর মতো নানা আচার পালন করা হয় প্রবারণা পূর্ণিমায়।",
-        "details_en": null
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ক্রিকেট ও ফুটবলপ্রেমী দর্শকদের জন্য প্রতিদিন বিভিন্ন জাতীয় ও আন্তর্জাতিক টুর্নামেন্টের ম্যাচের সরাসরি সম্প্রচারের সময়সূচি প্রকাশ করা হয়। এর মাধ্যমে দর্শকরা তাদের পছন্দের খেলা সঠিক সময়ে উপভোগ করতে পারেন।",
+        "details_en": "Daily broadcast schedules for various national and international tournaments are published for sports enthusiasts. This allows viewers to watch their favorite cricket and football matches live on television at the designated times."
       }
     },
     {
@@ -181,7 +295,7 @@
       "published_at": "2026-10-24T23:09:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6111,
+      "rank_score": 0.4141,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -192,9 +306,9 @@
       ],
       "daily_buzz": {
         "title_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সে লাখো মানুষের বিক্ষোভ",
-        "title_en": "Thousands Protest in France Over Rising Cost of Living and Education Crisis",
-        "summary_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার চরম সংকটের প্রতিবাদে দেশজুড়ে রাজপথে নেমেছেন লাখো ফরাসি নাগরিক।",
-        "summary_en": "Hundreds of thousands of citizens took to the streets across France to protest the rising cost of living and education crisis.",
+        "title_en": "Thousands Protest Across France Over Rising Living Costs and Education Crisis",
+        "summary_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সজুড়ে রাজপথে নেমেছেন লাখো বিক্ষোভকারী।",
+        "summary_en": "Thousands of protesters took to the streets across France to protest against rising living costs and the education crisis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -202,132 +316,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-24T23:09:09+00:00",
-        "lead_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার চরম সংকটের প্রতিবাদে দেশজুড়ে রাজপথে নেমেছেন লাখো ফরাসি নাগরিক।",
-        "lead_en": "Hundreds of thousands of citizens took to the streets across France to protest the rising cost of living and education crisis.",
+        "lead_bn": "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের প্রতিবাদে ফ্রান্সজুড়ে রাজপথে নেমেছেন লাখো বিক্ষোভকারী।",
+        "lead_en": "Thousands of protesters took to the streets across France to protest against rising living costs and the education crisis.",
         "bullets_bn": [
-          "জীবনযাত্রার ব্যয়বৃদ্ধি এবং স্কুলগুলোর বেহাল দশার প্রতিবাদে ফ্রান্সজুড়ে বিক্ষোভ করেন সাধারণ মানুষ ও শিক্ষার্থীরা",
-          "স্বরাষ্ট্র মন্ত্রণালয়ের হিসাবে বিক্ষোভে ৪ লাখ ১০ হাজার মানুষ অংশ নিলেও ইউনিয়নগুলোর দাবি সংখ্যাটি প্রায় আট লাখ",
-          "পরিস্থিতি নিয়ন্ত্রণে দেশজুড়ে ৭০ হাজার পুলিশ মোতায়েন করা হয় এবং প্যারিস ও মার্সেইয়ে পুলিশের সাথে সংঘর্ষ হয়"
+          "জীবনযাত্রার ব্যয়বৃদ্ধি ও শিক্ষাব্যবস্থার সংকটের বিরুদ্ধে ফ্রান্সজুড়ে বিক্ষোভ শুরু হয়।",
+          "স্বরাষ্ট্র মন্ত্রণালয়ের হিসাবে দেশজুড়ে চার লাখ ১০ হাজার মানুষ বিক্ষোভে অংশ নেন এবং ইউনিয়নগুলোর দাবি সংখ্যাটি আট লাখ।",
+          "পরিস্থিতি নিয়ন্ত্রণে দেশজুড়ে ৭০ হাজার পুলিশ মোতায়েন করা হয় এবং প্যারিস ও মার্সেই শহরে সংঘর্ষ ঘটে।"
         ],
         "bullets_en": [
-          "Citizens and students protested across France against soaring living costs and deteriorating school conditions.",
-          "The interior ministry estimated 410000 participants while unions claimed the number reached nearly 800000.",
-          "Authorities deployed 70000 police officers nationwide leading to clashes in Paris and Marseille."
+          "Protests erupted across France against the rising cost of living and the ongoing education crisis.",
+          "The interior ministry estimated 410000 participants nationwide while unions claimed around 800000.",
+          "Authorities deployed 70000 police officers nationwide as clashes broke out in Paris and Marseille."
         ],
-        "impact_bn": "শিক্ষাব্যবস্থার অবনতি ও মূল্যস্ফীতির কারণে সাধারণ শিক্ষার্থী ও পরিবারগুলোর জীবনযাত্রা কঠিন হয়ে পড়েছে।",
-        "impact_en": "Deteriorating educational standards and inflation have severely impacted the daily lives of ordinary families and students.",
-        "details_bn": "ফ্রান্সে ক্রমবর্ধমান মূল্যস্ফীতি, সরকারি সেবার মান হ্রাস এবং শিক্ষাব্যবস্থার জরাজীর্ণ অবস্থার প্রতিবাদে এই গণবিক্ষোভের ডাক দেওয়া হয়। এর ফলে ল্যুভর জাদুঘর ও প্যারিস অপেরার মতো গুরুত্বপূর্ণ প্রতিষ্ঠান বন্ধ রাখতে বাধ্য হয় কর্তৃপক্ষ। সাধারণ মানুষের অসন্তোষের মুখে সরকার পরিস্থিতি সামাল দিতে ব্যাপক নিরাপত্তা ব্যবস্থা গ্রহণ করে।",
-        "details_en": "The mass protests erupted in France amid surging inflation, declining public services, and decaying educational infrastructure. The unrest forced major cultural landmarks like the Louvre Museum and Paris Opera to close, prompting authorities to deploy heavy security forces nationwide."
-      }
-    },
-    {
-      "story_id": "9c8d9edc-012f-50a4-83ae-e9cca8c7abde",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T23:08:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6058,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976536/%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AC%E0%A7%8D%E0%A6%AF-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87",
-          "title": "ধর্মমন্ত্রীর বক্তব্য বিচ্ছিন্নভাবে প্রকাশ না করে পুনর্বিবেচনার আহ্বান মন্ত্রণালয়ের",
-          "snippet": "ধর্মমন্ত্রীর বক্তব্য বিচ্ছিন্নভাবে প্রকাশ না করে পুনর্বিবেচনার আহ্বান মন্ত্রণালয়ের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ধর্মমন্ত্রীর বক্তব্য পুনর্বিবেচনা করে সংবাদ প্রকাশের আহ্বান মন্ত্রণালয়ের",
-        "title_en": "Ministry Urges Media to Reconsider Reports on Religious Affairs Minister Remarks",
-        "summary_bn": "ধর্ম বিষয়ক মন্ত্রণালয় জাতীয় ইমাম সমিতির কাউন্সিল শেষে ধর্মমন্ত্রীর দেওয়া বক্তব্য যথাযথভাবে বিবেচনা করে সংবাদ প্রতিবেদন সংশোধনের আহ্বান জানিয়েছে।",
-        "summary_en": "The Ministry of Religious Affairs urged media outlets to properly review and reconsider news reports based on the religious minister remarks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T23:08:00+00:00",
-        "lead_bn": "ধর্ম বিষয়ক মন্ত্রণালয় জাতীয় ইমাম সমিতির কাউন্সিল শেষে ধর্মমন্ত্রীর দেওয়া বক্তব্য যথাযথভাবে বিবেচনা করে সংবাদ প্রতিবেদন সংশোধনের আহ্বান জানিয়েছে।",
-        "lead_en": "The Ministry of Religious Affairs urged media outlets to properly review and reconsider news reports based on the religious minister remarks.",
-        "bullets_bn": [
-          "ধর্ম বিষয়ক মন্ত্রণালয় সংবাদ প্রকাশে মন্ত্রীর বক্তব্যের প্রেক্ষাপট যথাযথভাবে বিবেচনায় নেওয়ার আহ্বান জানিয়েছে।",
-          "জাতীয় ইমাম সমিতির ত্রি-বার্ষিক কাউন্সিল অধিবেশন শেষে সাংবাদিকদের সাথে এই বক্তব্য বিনিময় করা হয়।",
-          "মন্ত্রণালয় থেকে পাঠানো একটি প্রতিবাদলিপির মাধ্যমে এই সংশোধনের অনুরোধ জানানো হয়।"
-        ],
-        "bullets_en": [
-          "The Ministry of Religious Affairs urged media outlets to carefully consider the context of the minister statements.",
-          "The remarks were made to journalists following the tri-annual council session of the National Imam Association.",
-          "The ministry formally requested the revision through an official press statement and protest note."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাতীয় ইমাম সমিতির ত্রি-বার্ষিক কাউন্সিল অধিবেশন শেষে সাংবাদিকদের সাথে কথা বলেন ধর্ম বিষয়ক মন্ত্রী কাজী শাহ মোফাজ্জাল হোসাইন কায়কোবাদ। পরবর্তীতে সেই বক্তব্য গণমাধ্যমে প্রকাশিত হওয়ার পর বিভিন্ন মহলে আলোচনা তৈরি হয়। এর প্রেক্ষিতে ধর্ম বিষয়ক মন্ত্রণালয় থেকে একটি প্রতিবাদলিপির মাধ্যমে গণমাধ্যমগুলোকে সংবাদ প্রকাশে আরও সতর্ক ও বস্তুনিষ্ঠ হওয়ার অনুরোধ জানানো হয়।",
-        "details_en": "Following the tri-annual council session of the National Imam Association, Religious Affairs Minister Kazi Shah Mofazzal Hossain Kaikobad spoke with journalists. After these remarks were published across various media outlets, the Ministry of Religious Affairs issued a formal protest note urging media organizations to exercise caution and contextual accuracy in their reporting."
-      }
-    },
-    {
-      "story_id": "8650a354-1ccf-56d3-957c-abc3131ff457",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-24T21:08:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.3064,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171590",
-          "title": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু",
-          "snippet": "সেতুর নিচে পড়ে ছিলেন নিখোঁজ মাদরাসাশিক্ষক, হাসপাতালে নেওয়ার পথে মৃত্যু"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শ্রীমঙ্গলে নিখোঁজ মাদরাসাশিক্ষকের মরদেহ উদ্ধার, হাসপাতালে নেওয়ার পথে মৃত্যু",
-        "title_en": "Missing Madrasa Teacher Found Injured Under Bridge, Dies on Way to Hospital",
-        "summary_bn": "মৌলভীবাজারের শ্রীমঙ্গলে নিখোঁজ হওয়ার একদিন পর এক মাদরাসাশিক্ষককে সেতুসংলগ্ন এলাকা থেকে উদ্ধার করা হয় এবং হাসপাতালে নেওয়ার পথে তার মৃত্যু ঘটে।",
-        "summary_en": "A missing madrasa teacher in Sreemangal of Moulvibazar was found injured under a bridge and died on the way to the hospital.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-24T21:08:46+00:00",
-        "lead_bn": "মৌলভীবাজারের শ্রীমঙ্গলে নিখোঁজ হওয়ার একদিন পর এক মাদরাসাশিক্ষককে সেতুসংলগ্ন এলাকা থেকে উদ্ধার করা হয় এবং হাসপাতালে নেওয়ার পথে তার মৃত্যু ঘটে।",
-        "lead_en": "A missing madrasa teacher in Sreemangal of Moulvibazar was found injured under a bridge and died on the way to the hospital.",
-        "bullets_bn": [
-          "নিখোঁজ মাদরাসাশিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদারকে শ্রীমঙ্গলের একটি সেতুর নিচ থেকে উদ্ধার করা হয়।",
-          "বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান নিখোঁজ হওয়ার একদিন পর এই মর্মান্তিক ঘটনা ঘটে।",
-          "উদ্ধারের পর হাসপাতালে নেওয়ার সময় তার মৃত্যু নিশ্চিত করেন চিকিৎসকরা।"
-        ],
-        "bullets_en": [
-          "Missing madrasa teacher Maulana Shah Moniruzzaman Jasim Talukdar was found beneath a bridge in Sreemangal.",
-          "The incident occurred one day after the teacher of Baruna Madrasa was reported missing.",
-          "Doctors declared him dead while he was being transported to the hospital following the rescue."
-        ],
-        "impact_bn": "এই মর্মান্তিক মৃত্যুর ঘটনায় শিক্ষক সমাজ ও স্থানীয় জনসাধারণের মধ্যে গভীর শোক ও উদ্বেগের সৃষ্টি হয়েছে।",
-        "impact_en": "The tragic death has sparked deep shock and concern among the local community and educational circles.",
-        "details_bn": "মৌলভীবাজারের শ্রীমঙ্গলের ঐতিহ্যবাহী জামেয়া লুৎফিয়া আনোয়ারুল উলুম হামিদ নগর বরুণা মাদরাসার শিক্ষক মাওলানা শাহ মনিরুজ্জামান জসিম তালুকদার নিখোঁজ হওয়ার পরদিন এই দুর্ঘটনা ঘটে। সেতুসংলগ্ন এলাকা থেকে তাকে গুরুতর অবস্থায় উদ্ধার করে হাসপাতালে নেওয়ার পথে তার মৃত্যু হয়। কীভাবে তিনি সেখানে গেলেন এবং তার মৃত্যুর প্রকৃত কারণ কী, সে বিষয়ে আইন শৃঙ্খলা রক্ষাকারী বাহিনী তদন্ত শুরু করেছে।",
-        "details_en": "Maulana Shah Moniruzzaman Jasim Talukdar, a teacher at the Jamia Lutfia Anwarul Ulum Hamid Nagar Baruna Madrasa in Sreemangal, Moulvibazar, was found a day after being reported missing. He was rescued in a critical condition near a bridge and died while being transported to the hospital. Law enforcement agencies have launched an investigation to determine the exact cause and circumstances surrounding the incident."
+        "impact_bn": "ফ্রান্সে এই তীব্র বিক্ষোভ ও সহিংসতার কারণে প্রধান জাদুঘর এবং সাংস্কৃতিক প্রতিষ্ঠানগুলো বন্ধ রাখতে বাধ্য হয় প্রশাসন।",
+        "impact_en": "The intense protests and clashes forced authorities to shut down major museums and cultural institutions in France.",
+        "details_bn": "ফ্রান্সে জীবনযাত্রার ক্রমবর্ধমান ব্যয় এবং ভেঙে পড়া শিক্ষাব্যবস্থার প্রতিবাদে সাধারণ মানুষ রাজপথে নেমে এসেছে। বিদ্যালয়গুলোর জরাজীর্ণ অবস্থা এবং শিক্ষক সংকটের পাশাপাশি অর্থনৈতিক চাপের কারণে সাধারণ নাগরিকদের মধ্যে তীব্র ক্ষোভের সৃষ্টি হয়েছে। বিক্ষোভের কারণে ল্যুভর জাদুঘর, মুসে দর্সে ও প্যারিস অপেরার মতো দর্শনীয় স্থানগুলো বন্ধ রাখা হয়। পরিস্থিতি নিয়ন্ত্রণে রাখতে আইনশৃঙ্খলা বাহিনী কঠোর অবস্থান নেয় এবং বিক্ষোভকারীদের সাথে সংঘর্ষে জড়ায়।",
+        "details_en": "Citizens took to the streets in France to protest escalating living expenses and a deteriorating education system. Widespread public anger has been fueled by dilapidated school infrastructure, severe teacher shortages, and mounting financial pressures. The unrest prompted the closure of major cultural sites including the Louvre Museum, Musee d'Orsay, and the Paris Opera. Law enforcement maintained a heavy presence nationwide, leading to clashes with demonstrators."
       }
     }
   ]
