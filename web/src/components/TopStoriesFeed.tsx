@@ -38,9 +38,10 @@ export const TopStoriesFeed: React.FC = () => {
       <BreakingWiresTicker />
 
       {/* Category Horizontal Filter Bar */}
-      <div className="w-full bg-surface-container-low border-b border-primary/20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
-          <div className="flex items-center space-x-2 overflow-x-auto no-scrollbar py-0.5 custom-scroll">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-2.5">
+        <div className="bg-surface-container-low border border-primary/20 shadow-xs">
+          <div className="px-3 sm:px-4 py-1.5">
+            <div className="flex items-center space-x-2 overflow-x-auto no-scrollbar py-0.5 custom-scroll">
             {CATEGORIES.map((cat) => {
               const isSelected = selectedCategory === cat;
               const label = cat === 'all' 
@@ -63,6 +64,7 @@ export const TopStoriesFeed: React.FC = () => {
           </div>
         </div>
       </div>
+    </div>
 
       {/* Loading Skeletons */}
       {isLoading && buzzStories.length === 0 && (

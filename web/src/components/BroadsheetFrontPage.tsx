@@ -20,14 +20,15 @@ export const BroadsheetFrontPage: React.FC = () => {
     currentAffairs, 
     openStory, 
     language,
-    setIsSettingsOpen
+    setIsSettingsOpen,
+    getVoteCount,
+    hasVoted,
+    toggleVote
   } = useApp();
 
   const isBn = language === 'bn';
   const [subscribedEmail, setSubscribedEmail] = useState('');
   const [subscribedMessage, setSubscribedMessage] = useState(false);
-  const [insightCount, setInsightCount] = useState<Record<string, number>>({});
-  const [highYieldCount, setHighYieldCount] = useState<Record<string, number>>({});
 
   // Helper getters for bilingual content
   const getTitle = (story?: CapsuleStory | null) => {
@@ -207,7 +208,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                         {bullets.map((b, bIdx) => (
                           <li key={bIdx} className="flex items-start gap-1.5">
                             <span className="text-secondary font-bold leading-none mt-0.5">❖</span>
-                            <span>{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
+                            <span className="text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
                           </li>
                         ))}
                       </ul>
@@ -221,7 +222,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                     </div>
                     <p 
                       onClick={() => openStory(story)}
-                      className="font-serif text-xs text-on-surface leading-relaxed mb-2.5 line-clamp-3 hover:text-secondary cursor-pointer"
+                      className="font-serif text-xs text-on-surface leading-relaxed mb-2.5 line-clamp-3 hover:text-secondary cursor-pointer text-justify"
                     >
                       {coreStory}
                     </p>
@@ -287,13 +288,13 @@ export const BroadsheetFrontPage: React.FC = () => {
 
               {/* Lead / Subhead */}
               {getLead(heroStory) && (
-                <p className="font-serif text-base sm:text-lg italic text-on-surface-variant mb-4 leading-snug">
+                <p className="font-serif text-base sm:text-lg italic text-on-surface-variant mb-4 leading-snug text-justify">
                   {getLead(heroStory)}
                 </p>
               )}
 
-              {/* Hero Lead Broadsheet Image */}
-              {heroStory.image_url && (
+              {/* Hero Lead Broadsheet Image — or typographic filler when no image */}
+              {heroStory.image_url ? (
                 <div className="border border-primary/40 mb-4 cursor-pointer" onClick={() => openStory(heroStory)}>
                   <img 
                     src={heroStory.image_url} 
@@ -307,6 +308,43 @@ export const BroadsheetFrontPage: React.FC = () => {
                     <span className="font-semibold text-primary shrink-0 uppercase">
                       WIRE: SONDESH EXPRESS
                     </span>
+                  </div>
+                </div>
+              ) : (
+                /* No-image filler: editorial pull-quote panel */
+                <div
+                  className="mb-4 border-y border-primary/20 bg-surface-container-low relative overflow-hidden cursor-pointer group py-8 sm:py-10 px-5 sm:px-8 flex flex-col items-center justify-center text-center"
+                  onClick={() => openStory(heroStory)}
+                >
+                  {/* Faint category watermark */}
+                  <div className="absolute inset-0 flex items-center justify-center pointer-events-none select-none overflow-hidden opacity-[0.035]">
+                    <span className="font-serif font-black text-[110px] sm:text-[150px] text-primary leading-none uppercase tracking-tighter whitespace-nowrap">
+                      {getLocalizedCategory(heroStory.primary_category, false)}
+                    </span>
+                  </div>
+
+                  {/* Decorative rule */}
+                  <div className="flex items-center gap-3 mb-5 w-full max-w-sm">
+                    <span className="flex-1 h-px bg-primary/25" />
+                    <span className="font-label-sm text-label-sm text-[10px] uppercase tracking-widest text-secondary font-bold">
+                      {isBn ? 'বিশ্লেষণ' : 'Analysis'}
+                    </span>
+                    <span className="flex-1 h-px bg-primary/25" />
+                  </div>
+
+                  {/* Pull quote body */}
+                  <p className="relative font-serif text-sm sm:text-base text-on-surface-variant italic leading-relaxed max-w-md z-10 text-justify">
+                    <span className="text-primary/25 font-black text-3xl leading-none align-top mr-1 not-italic">"</span>
+                    {(getWhyItMatters(heroStory) || getCoreStory(heroStory) || '').slice(0, 240).trim()}
+                    {((getWhyItMatters(heroStory) || getCoreStory(heroStory) || '').length > 240) && '…'}
+                    <span className="text-primary/25 font-black text-3xl leading-none align-bottom ml-1 not-italic">"</span>
+                  </p>
+
+                  {/* Read CTA */}
+                  <div className="relative z-10 mt-5 flex items-center gap-2 font-label-sm text-label-sm text-[11px] uppercase tracking-widest text-outline group-hover:text-primary transition-colors">
+                    <span className="w-8 h-px bg-current" />
+                    <span>{isBn ? 'পূর্ণ বিবরণ পড়ুন' : 'Read Full Brief'}</span>
+                    <ArrowRight className="w-3 h-3" />
                   </div>
                 </div>
               )}
@@ -324,7 +362,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                       return (
                         <li key={idx} className="flex items-start gap-2.5">
                           <span className="text-secondary font-bold text-base leading-none mt-0.5">❖</span>
-                          <span>{cleanBullet}</span>
+                          <span className="text-justify">{cleanBullet}</span>
                         </li>
                       );
                     })}
@@ -339,7 +377,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                 </div>
                 <p 
                   onClick={() => openStory(heroStory)}
-                  className="font-serif text-sm sm:text-base text-on-surface leading-relaxed mb-3 hover:text-secondary cursor-pointer"
+                  className="font-serif text-sm sm:text-base text-on-surface leading-relaxed mb-3 hover:text-secondary cursor-pointer text-justify"
                 >
                   {getCoreStory(heroStory)}
                 </p>
@@ -361,9 +399,11 @@ export const BroadsheetFrontPage: React.FC = () => {
                       </a>
                     ))}
                   </div>
-                  <span className="text-on-surface-variant font-label-sm text-label-sm font-mono">
-                    Ref #{heroStory.story_id.slice(0, 10).toUpperCase()}
-                  </span>
+                  {heroStory.daily_buzz.read_time_seconds ? (
+                    <span className="text-on-surface-variant font-label-sm text-label-sm">
+                      {Math.ceil(heroStory.daily_buzz.read_time_seconds / 60)} {isBn ? 'মিনিট পাঠ' : 'min read'}
+                    </span>
+                  ) : null}
                 </div>
               </div>
             </div>
@@ -372,18 +412,34 @@ export const BroadsheetFrontPage: React.FC = () => {
             <div className="mt-4 pt-3 border-t border-dashed border-outline-variant flex flex-wrap items-center justify-between gap-2">
               <div className="flex items-center space-x-2">
                 <button 
-                  onClick={() => setInsightCount(prev => ({ ...prev, [heroStory.story_id]: (prev[heroStory.story_id] || 142) + 1 }))}
-                  className="flex items-center gap-1.5 px-3 py-1 rounded-full border border-secondary/50 bg-secondary-container/30 text-secondary font-label-sm text-label-sm font-bold hover:bg-secondary-container transition-colors cursor-pointer"
+                  onClick={() => toggleVote(heroStory.story_id, 'informative')}
+                  className={`flex items-center gap-1.5 px-3 py-1 rounded-full border font-label-sm text-label-sm font-bold transition-colors cursor-pointer ${
+                    hasVoted(heroStory.story_id, 'informative')
+                      ? 'border-secondary bg-secondary text-on-secondary shadow-sm'
+                      : 'border-secondary/50 bg-secondary-container/30 text-secondary hover:bg-secondary-container'
+                  }`}
+                  title={isBn ? 'তথ্যসমৃদ্ধ হিসেবে ভোট দিন' : 'Vote as Informative'}
                 >
                   <Lightbulb className="w-3.5 h-3.5" />
-                  <span>{isBn ? 'তথ্যসমৃদ্ধ' : 'Insightful'} ({insightCount[heroStory.story_id] || 142})</span>
+                  <span>{isBn ? 'তথ্যসমৃদ্ধ' : 'Informative'}</span>
+                  {getVoteCount(heroStory.story_id, 'informative') > 0 && (
+                    <span className="font-mono">({isBn ? toBanglaDigits(getVoteCount(heroStory.story_id, 'informative')) : getVoteCount(heroStory.story_id, 'informative')})</span>
+                  )}
                 </button>
                 <button 
-                  onClick={() => setHighYieldCount(prev => ({ ...prev, [heroStory.story_id]: (prev[heroStory.story_id] || 89) + 1 }))}
-                  className="flex items-center gap-1.5 px-3 py-1 rounded-full border border-outline-variant bg-surface-container font-label-sm text-label-sm font-bold text-primary hover:bg-surface-container-high transition-colors cursor-pointer"
+                  onClick={() => toggleVote(heroStory.story_id, 'important')}
+                  className={`flex items-center gap-1.5 px-3 py-1 rounded-full border font-label-sm text-label-sm font-bold transition-colors cursor-pointer ${
+                    hasVoted(heroStory.story_id, 'important')
+                      ? 'border-primary bg-primary text-on-primary shadow-sm'
+                      : 'border-outline-variant bg-surface-container font-medium text-primary hover:bg-surface-container-high'
+                  }`}
+                  title={isBn ? 'গুরুত্বপূর্ণ হিসেবে ভোট দিন' : 'Vote as Important'}
                 >
                   <CheckCircle2 className="w-3.5 h-3.5" />
-                  <span>{isBn ? 'উচ্চ ফলনশীল' : 'High Yield'} ({highYieldCount[heroStory.story_id] || 89})</span>
+                  <span>{isBn ? 'গুরুত্বপূর্ণ' : 'Important'}</span>
+                  {getVoteCount(heroStory.story_id, 'important') > 0 && (
+                    <span className="font-mono">({isBn ? toBanglaDigits(getVoteCount(heroStory.story_id, 'important')) : getVoteCount(heroStory.story_id, 'important')})</span>
+                  )}
                 </button>
               </div>
               <div className="flex items-center space-x-2 font-label-sm text-label-sm uppercase">
@@ -449,7 +505,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                         <div className="font-label-sm text-label-sm font-bold text-secondary uppercase flex items-center gap-1">
                           <span>❖</span> {isBn ? 'মূল বিষয়:' : 'Key Takeaways:'}
                         </div>
-                        <p className="font-serif text-xs text-on-surface leading-tight mt-0.5">
+                        <p className="font-serif text-xs text-on-surface leading-tight mt-0.5 text-justify">
                           {bullets[0].replace(/^\*\*(.*?)\*\*/, '$1')}
                         </p>
                       </div>
@@ -457,7 +513,7 @@ export const BroadsheetFrontPage: React.FC = () => {
 
                     <div 
                       onClick={() => openStory(wire)}
-                      className="font-serif text-xs text-on-surface leading-snug mb-1 line-clamp-2 hover:text-secondary cursor-pointer"
+                      className="font-serif text-xs text-on-surface leading-snug mb-1 line-clamp-2 hover:text-secondary cursor-pointer text-justify"
                     >
                       {coreStory}
                     </div>
@@ -543,7 +599,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                       {bullets.map((b, bIdx) => (
                         <li key={bIdx} className="flex items-start gap-1.5">
                           <span className="text-secondary text-xs font-bold leading-none mt-0.5">❖</span>
-                          <span>{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
+                          <span className="text-justify">{b.replace(/^\*\*(.*?)\*\*/, '$1')}</span>
                         </li>
                       ))}
                     </ul>
@@ -557,7 +613,7 @@ export const BroadsheetFrontPage: React.FC = () => {
                   </div>
                   <p 
                     onClick={() => openStory(story)}
-                    className="font-serif text-xs text-on-surface leading-relaxed line-clamp-3 hover:text-secondary cursor-pointer"
+                    className="font-serif text-xs text-on-surface leading-relaxed line-clamp-3 hover:text-secondary cursor-pointer text-justify"
                   >
                     {coreStory}
                   </p>
@@ -592,47 +648,73 @@ export const BroadsheetFrontPage: React.FC = () => {
       {/* ============================================================== */}
       {/* SUBSCRIBER BANNER (SONDESH EXPRESS DISPATCH) */}
       {/* ============================================================== */}
-      <div id="subscribe" className="border-x border-b border-primary/20 bg-primary text-background p-6 sm:p-9 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm scroll-mt-6">
-        <div className="max-w-2xl">
-          <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary-fixed flex items-center gap-1.5 font-bold">
-            <Mail className="w-4 h-4" />
-            <span>{isBn ? 'সন্দেশ এক্সপ্রেস মর্নিং ডেসপ্যাচ' : 'SONDESH EXPRESS MORNING DISPATCH'}</span>
-          </span>
-          <h2 className="font-serif text-xl sm:text-2xl text-background font-bold mt-2">
-            {isBn 
-              ? 'প্রতিদিনের সংক্ষেপিত সংবাদ ডসিয়ার সরাসরি আপনার ইমেইলে' 
-              : 'Daily Scannable Briefings Delivered Directly to Your Inbox'}
-          </h2>
-          <p className="font-serif text-xs sm:text-sm text-inverse-primary mt-1.5 leading-relaxed">
-            {isBn
-              ? 'অপ্রয়োজনীয় তথ্য ও বিভ্রান্তিহীন নির্ভুল সারসংক্ষেপ, পেছনের কারণ এবং মূল সূত্রের সংযোগ—প্রতিদিন সকালে।'
-              : 'Zero noise. Essential bulleted takeaways, why it matters, and direct source citations delivered fresh every morning.'}
-          </p>
-        </div>
+      <div id="subscribe" className="scroll-mt-6 mt-2">
+        {/* Editorial box: thick top rule + double border */}
+        <div className="border-2 border-primary/30 border-t-0">
+          {/* Section header strip */}
+          <div className="border-t-4 border-primary bg-surface-container-high px-6 sm:px-8 py-2.5 flex items-center justify-between border-b border-primary/20">
+            <span className="font-label-sm text-label-sm uppercase tracking-widest text-primary flex items-center gap-1.5 font-bold">
+              <Mail className="w-3.5 h-3.5" />
+              <span>{isBn ? 'সকালের সংবাদপত্র' : 'MORNING BRIEFING'}</span>
+            </span>
+            <span className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant text-[10px] hidden sm:block">
+              {isBn ? 'বিনামূল্যে' : 'Free Daily Digest'}
+            </span>
+          </div>
 
-        <div className="w-full md:w-auto">
-          {subscribedMessage ? (
-            <div className="bg-secondary text-on-secondary px-5 py-2.5 font-serif text-sm rounded font-semibold text-center shadow">
-              ✓ {isBn ? 'ধন্যবাদ! আপনার সাবস্ক্রিপশন সম্পন্ন হয়েছে।' : 'Subscribed successfully! Welcome to the daily brief.'}
+          {/* Content area */}
+          <div className="bg-surface-container px-6 sm:px-8 py-7 sm:py-9 flex flex-col md:flex-row items-start md:items-center justify-between gap-7">
+            {/* Copy */}
+            <div className="max-w-xl">
+              <h2 className="font-serif text-xl sm:text-2xl text-primary font-bold leading-snug">
+                {isBn
+                  ? 'প্রতিদিনের সংক্ষিপ্ত সংবাদ সরাসরি আপনার ইমেইলে'
+                  : 'Daily Curated Briefings Straight to Your Inbox'}
+              </h2>
+              <p className="font-serif text-xs sm:text-sm text-on-surface-variant mt-2 leading-relaxed max-w-lg">
+                {isBn
+                  ? 'বিভ্রান্তিহীন নির্ভুল সারসংক্ষেপ, বিশ্লেষণ এবং মূল সূত্রের সংযোগ — প্রতিদিন সকালে।'
+                  : 'Zero noise. Essential takeaways, context and direct source citations — fresh every morning.'}
+              </p>
+              <div className="flex items-center gap-3 mt-3 font-label-sm text-label-sm text-[10px] uppercase tracking-wider text-on-surface-variant">
+                <span className="flex items-center gap-1">
+                  <span className="w-1.5 h-1.5 rounded-full bg-secondary inline-block"></span>
+                  {isBn ? 'বিজ্ঞাপনমুক্ত' : 'No Ads'}
+                </span>
+                <span>•</span>
+                <span>{isBn ? 'যেকোনো সময় বাতিল করুন' : 'Unsubscribe Anytime'}</span>
+                <span>•</span>
+                <span>{isBn ? 'স্প্যাম নেই' : 'No Spam'}</span>
+              </div>
             </div>
-          ) : (
-            <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row items-center gap-2 w-full">
-              <input 
-                type="email"
-                required
-                value={subscribedEmail}
-                onChange={(e) => setSubscribedEmail(e.target.value)}
-                placeholder={isBn ? 'আপনার ইমেইল অ্যাড্রেস লিখুন...' : 'Enter your email address...'}
-                className="bg-primary-container border border-outline text-background font-serif px-4 py-2.5 text-sm focus:outline-none focus:border-secondary w-full sm:w-72 placeholder:text-outline"
-              />
-              <button 
-                type="submit"
-                className="w-full sm:w-auto bg-surface text-primary font-label-md text-label-md uppercase font-bold px-6 py-2.5 hover:bg-surface-container-high transition-colors whitespace-nowrap cursor-pointer"
-              >
-                {isBn ? 'সাবস্ক্রাইব করুন' : 'Subscribe Free'}
-              </button>
-            </form>
-          )}
+
+            {/* Form */}
+            <div className="w-full md:w-auto shrink-0">
+              {subscribedMessage ? (
+                <div className="border border-secondary/40 bg-background px-5 py-3.5 font-serif text-sm font-semibold text-secondary flex items-center gap-2">
+                  <span className="text-base">✓</span>
+                  <span>{isBn ? 'ধন্যবাদ! সাবস্ক্রিপশন সম্পন্ন হয়েছে।' : 'Subscribed! Welcome to the daily brief.'}</span>
+                </div>
+              ) : (
+                <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row items-stretch w-full border border-primary/40 shadow-sm">
+                  <input
+                    type="email"
+                    required
+                    value={subscribedEmail}
+                    onChange={(e) => setSubscribedEmail(e.target.value)}
+                    placeholder={isBn ? 'আপনার ইমেইল লিখুন...' : 'Your email address...'}
+                    className="bg-background border-0 border-b sm:border-b-0 sm:border-r border-primary/30 text-on-surface font-serif px-4 py-3 text-sm focus:outline-none focus:ring-1 focus:ring-inset focus:ring-primary w-full sm:w-64 placeholder:text-outline"
+                  />
+                  <button
+                    type="submit"
+                    className="bg-primary text-background font-label-md text-label-md uppercase font-bold px-6 py-3 hover:bg-secondary transition-colors whitespace-nowrap cursor-pointer tracking-wider"
+                  >
+                    {isBn ? 'সদস্য হন' : 'Subscribe Free'}
+                  </button>
+                </form>
+              )}
+            </div>
+          </div>
         </div>
       </div>
     </main>

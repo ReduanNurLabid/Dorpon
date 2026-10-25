@@ -13,6 +13,7 @@ class RawArticle(BaseModel):
     published_at: Optional[str] = None
     language: str  # "en" | "bn"
     category_hint: Optional[str] = None
+    region: Optional[str] = "national"  # "national" | "international"
 
 class StatPoint(BaseModel):
     metric_name: str
@@ -97,6 +98,7 @@ class CapsuleStory(BaseModel):
     story_id: str
     primary_category: str
     interest_categories: List[str]
+    region: Optional[str] = "national"
     tags: List[str] = []
     image_url: Optional[str] = None
     image_caption: Optional[str] = None

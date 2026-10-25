@@ -6,6 +6,7 @@ import { FloatingDock } from './components/FloatingDock';
 import { TopStoriesFeed } from './components/TopStoriesFeed';
 import { CurrentAffairsFeed } from './components/CurrentAffairsFeed';
 import { DiscoverFeed } from './components/DiscoverFeed';
+import { EditorialDashboard } from './components/EditorialDashboard';
 import { StudyCanvasModal } from './components/StudyCanvasModal';
 import { SettingsModal } from './components/SettingsModal';
 
@@ -15,17 +16,18 @@ const MainLayout: React.FC = () => {
   return (
     <AmbientBackground>
       {/* Top Header */}
-      {!focusMode && <Header />}
+      {!focusMode && activeTab !== 'editorial_dashboard' && <Header />}
 
       {/* Main Tab Content */}
       <main className="flex-1 w-full">
         {activeTab === 'top_stories' && <TopStoriesFeed />}
         {activeTab === 'current_affairs' && <CurrentAffairsFeed />}
         {activeTab === 'discover' && <DiscoverFeed />}
+        {activeTab === 'editorial_dashboard' && <EditorialDashboard />}
       </main>
 
       {/* Bottom Floating Navigation Dock */}
-      {!focusMode && <FloatingDock />}
+      {!focusMode && activeTab !== 'editorial_dashboard' && <FloatingDock />}
 
       {/* Modals & Overlays */}
       <StudyCanvasModal />

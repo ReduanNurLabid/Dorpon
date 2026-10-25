@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "dorpon-a99a6"
-  }
+  },
+  "targets": {
+    "dorpon-a99a6": {
+      "hosting": {
+        "sondesh": [
+          "sondesh"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }

@@ -1,12 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useApp } from '../context/AppContext';
 import { 
   X, 
   Settings as SettingsIcon, 
   Languages, 
   Type,
-HardDrive, 
-  Trash2, 
   Check, 
   Sparkles,
   Sliders,
@@ -23,22 +21,12 @@ export const SettingsModal: React.FC = () => {
     setIsSerif,
     fontSize,
     setFontSize,
-clearSaved,
     t,
   } = useApp();
-
-  const [cacheCleared, setCacheCleared] = useState(false);
 
   if (!isSettingsOpen) return null;
 
   const isBn = language === 'bn';
-
-  const handleClearCache = () => {
-    localStorage.removeItem('dorpon_saved_ids');
-    clearSaved();
-    setCacheCleared(true);
-    setTimeout(() => setCacheCleared(false), 2500);
-  };
 
   return (
     <div 
@@ -64,7 +52,7 @@ clearSaved,
                 {isBn ? 'রিডিং সেটিংস ও প্রটোকল' : 'Reading Preferences & Protocols'}
               </h3>
               <p className="font-sans text-xs text-on-surface-variant">
-                {isBn ? 'ব্যক্তিগত পাঠ্যাভ্যাস এবং ইন্টারফেস নিয়ন্ত্রণ' : 'Interface preferences, typography, and local cache controls'}
+                {isBn ? 'ব্যক্তিগত পাঠ্যাভ্যাস এবং ইন্টারফেস নিয়ন্ত্রণ' : 'Interface preferences and typography controls'}
               </p>
             </div>
           </div>
@@ -105,7 +93,7 @@ clearSaved,
                 <div>
                   <span className="block font-bold">English (UK/US)</span>
                   <span className={`text-[11px] block mt-0.5 ${language === 'en' ? 'text-inverse-primary' : 'text-on-surface-variant'}`}>
-                    Diplomatic Standard Wire
+                    English Edition
                   </span>
                 </div>
                 {language === 'en' && <Check className="w-4 h-4" />}
@@ -122,7 +110,7 @@ clearSaved,
                 <div>
                   <span className="block font-bold font-bangla">বাংলা (Bengali)</span>
                   <span className={`text-[11px] block mt-0.5 ${language === 'bn' ? 'text-inverse-primary' : 'text-on-surface-variant'}`}>
-                    জাতীয় ও আন্তর্জাতিক ডেসপ্যাচ
+                    জাতীয় ও আন্তর্জাতিক সংবাদ
                   </span>
                 </div>
                 {language === 'bn' && <Check className="w-4 h-4" />}
@@ -172,41 +160,6 @@ clearSaved,
             </div>
           </div>
 
-          {/* Section: Storage & Local Cache */}
-          <div>
-            <div className="flex items-center space-x-2 border-b border-primary/20 pb-1.5 mb-3">
-              <HardDrive className="w-4 h-4 text-secondary" />
-              <h4 className="font-sans text-xs font-bold uppercase tracking-wider text-primary">
-                {isBn ? 'লোকাল স্টোরেজ ও ক্যাশ' : 'Local Storage & Offline Cache'}
-              </h4>
-            </div>
-
-            <div className="flex items-center justify-between p-3.5 bg-surface-container-low border border-primary/20">
-              <div>
-                <span className="font-sans text-xs font-bold text-primary block">
-                  {isBn ? 'ক্যাশ ডেটা ও সংরক্ষিত রেকর্ড' : 'Clear Offline Local Data'}
-                </span>
-                <span className="font-sans text-[11px] text-on-surface-variant">
-                  {cacheCleared ? (
-                    <span className="text-secondary font-bold">
-                      ✓ {isBn ? 'ক্যাশ সফলভাবে সাফ করা হয়েছে' : 'Local storage cleared successfully'}
-                    </span>
-                  ) : isBn ? (
-                    'অফলাইন স্টোর করা স্ন্যাপশট ও সাময়িক ডেটা সাফ করুন'
-                  ) : (
-                    'Reset offline snapshots and cached registry indices'
-                  )}
-                </span>
-              </div>
-              <button
-                onClick={handleClearCache}
-                className="px-3 py-1.5 border border-primary text-primary font-sans text-xs font-bold hover:bg-primary hover:text-background transition-colors flex items-center space-x-1 cursor-pointer"
-              >
-                <Trash2 className="w-3.5 h-3.5" />
-                <span>{isBn ? 'সাফ করুন' : 'Clear Cache'}</span>
-              </button>
-            </div>
-          </div>
 
           {/* Masthead Colophon */}
           <div className="p-4 bg-surface-container border border-primary/20 text-xs space-y-1.5">

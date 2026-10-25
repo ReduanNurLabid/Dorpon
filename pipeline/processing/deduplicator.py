@@ -14,6 +14,7 @@ class ClusteredEvent:
         self.importance_score: float = 2.0
         self.rank_score: float = 1.0
         self.canonical_entities: Set[str] = set()
+        self.region: str = getattr(primary_article, "region", "national") or "national"
 
 def extract_canonical_entities(text: str) -> Set[str]:
     """Extracts normalized entity slugs across English and Bengali text."""
@@ -24,16 +25,21 @@ def extract_canonical_entities(text: str) -> Set[str]:
             entities.add(entity_slug)
     return entities
 
-def categorize_article(text: str, source_hint: str = "") -> List[str]:
+def categorize_article(text: str, source_hint: str = "", category_hint: str = "") -> List[str]:
     """
     Matches text against INTEREST_CATEGORIES keywords using strict word boundaries.
     Ranks categories by keyword frequency so the highest-signal category comes first.
+    Uses category_hint to guide specialized feeds.
     """
     text_lower = text.lower()
     cat_scores = {}
 
+    # Seed baseline score from feed metadata if provided
+    if category_hint and category_hint in INTEREST_CATEGORIES:
+        cat_scores[category_hint] = 2
+
     for cat_id, meta in INTEREST_CATEGORIES.items():
-        score = 0
+        score = cat_scores.get(cat_id, 0)
         for kw in meta["keywords"]:
             kw_clean = kw.strip().lower()
             if not kw_clean:
@@ -52,15 +58,18 @@ def categorize_article(text: str, source_hint: str = "") -> List[str]:
         sorted_cats = sorted(cat_scores.keys(), key=lambda c: cat_scores[c], reverse=True)
         return sorted_cats
 
+    if category_hint and category_hint in INTEREST_CATEGORIES:
+        return [category_hint]
+
     # Intelligent content-based fallback if no taxonomy keyword hit
     hint = source_hint.lower()
-    if any(k in hint for k in ["tech", "science", "digital", "gadget"]):
+    if any(k in hint for k in ["tech", "science", "digital", "gadget", "cyber", "ai"]):
         return ["tech_innovation"]
-    if any(k in hint for k in ["business", "financial", "economy", "market"]):
+    if any(k in hint for k in ["business", "financial", "economy", "market", "trade"]):
         return ["economy_business"]
-    if any(k in hint for k in ["world", "international", "global", "foreign"]):
+    if any(k in hint for k in ["world", "international", "global", "foreign", "bbc", "al jazeera", "reuters", "politico", "dw"]):
         return ["world_diplomacy"]
-    if any(k in hint for k in ["climate", "environment", "nature", "earth"]):
+    if any(k in hint for k in ["climate", "environment", "nature", "earth", "energy"]):
         return ["climate_environment"]
     if any(k in hint for k in ["crime", "justice", "law", "politics"]):
         return ["governance_law"]
@@ -171,12 +180,15 @@ def cluster_and_tag_articles(articles: List[RawArticle]) -> List[ClusteredEvent]
                 
         if matched_cluster:
             matched_cluster.articles.append(art)
+            if getattr(art, "region", "national") == "national":
+                matched_cluster.region = "national"
             matched_cluster.bcs_score = max(matched_cluster.bcs_score, calculate_bcs_relevance(combined_text))
         else:
             new_cluster = ClusteredEvent(art)
             new_cluster.seed_entities = art_entities
             new_cluster.canonical_entities = art_entities
-            new_cluster.matched_categories = categorize_article(combined_text, art.source)
+            cat_hint = getattr(art, "category_hint", None) or ""
+            new_cluster.matched_categories = categorize_article(combined_text, art.source, cat_hint)
             new_cluster.bcs_score = calculate_bcs_relevance(combined_text)
             clusters.append(new_cluster)
             

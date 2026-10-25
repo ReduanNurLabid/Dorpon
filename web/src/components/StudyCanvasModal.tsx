@@ -6,6 +6,7 @@ import {
   toBanglaDigits 
 } from '../utils/bilingual';
 import confetti from 'canvas-confetti';
+import { Lightbulb, CheckCircle2, Share2 } from 'lucide-react';
 
 export const StudyCanvasModal: React.FC = () => {
   const {
@@ -16,13 +17,12 @@ export const StudyCanvasModal: React.FC = () => {
     setIsSerif,
     fontSize,
     setFontSize,
+    getVoteCount,
+    hasVoted,
+    toggleVote,
   } = useApp();
 
   const [copied, setCopied] = useState(false);
-  const [insightfulCount, setInsightfulCount] = useState(142);
-  const [hasVotedInsightful, setHasVotedInsightful] = useState(false);
-  const [highYieldCount, setHighYieldCount] = useState(89);
-  const [hasVotedHighYield, setHasVotedHighYield] = useState(false);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -76,7 +76,7 @@ export const StudyCanvasModal: React.FC = () => {
 
   const categoryLabel = getLocalizedCategory(activeStory.primary_category, isBn);
   const timeFormatted = formatRelativeTime(activeStory.published_at, isBn);
-  const serialRef = `Ref #${activeStory.story_id.slice(0, 8).toUpperCase()}`;
+
 
   const handleShare = async () => {
     if (!activeStory) return;
@@ -104,30 +104,24 @@ export const StudyCanvasModal: React.FC = () => {
     setTimeout(() => setCopied(false), 2000);
   };
 
-  const handleVoteInsightful = () => {
-    if (hasVotedInsightful) {
-      setInsightfulCount(prev => prev - 1);
-      setHasVotedInsightful(false);
-    } else {
-      setInsightfulCount(prev => prev + 1);
-      setHasVotedInsightful(true);
+  const handleVoteInformative = () => {
+    if (!activeStory) return;
+    if (!hasVoted(activeStory.story_id, 'informative')) {
       try {
         confetti({ particleCount: 30, spread: 60, origin: { y: 0.8 } });
       } catch {}
     }
+    toggleVote(activeStory.story_id, 'informative');
   };
 
-  const handleVoteHighYield = () => {
-    if (hasVotedHighYield) {
-      setHighYieldCount(prev => prev - 1);
-      setHasVotedHighYield(false);
-    } else {
-      setHighYieldCount(prev => prev + 1);
-      setHasVotedHighYield(true);
+  const handleVoteImportant = () => {
+    if (!activeStory) return;
+    if (!hasVoted(activeStory.story_id, 'important')) {
       try {
         confetti({ particleCount: 40, spread: 70, origin: { y: 0.8 } });
       } catch {}
     }
+    toggleVote(activeStory.story_id, 'important');
   };
 
   const cycleFontSize = () => {
@@ -153,16 +147,10 @@ export const StudyCanvasModal: React.FC = () => {
       {/* BEGIN: ArticleReadingSheetModal */}
       <main 
         onClick={(e) => e.stopPropagation()}
-        className="w-full max-w-4xl bg-paper border-2 border-ink shadow-2xl relative my-auto p-4 sm:p-7 md:p-10 registration-mark transition-all duration-200 text-ink font-serif max-h-[92vh] overflow-y-auto custom-scroll" 
+        className="w-full max-w-4xl bg-paper border-2 border-ink shadow-2xl relative my-auto p-4 sm:p-7 md:p-10 transition-all duration-200 text-ink font-serif max-h-[92vh] overflow-y-auto custom-scroll" 
         data-purpose="broadsheet-modal-container" 
         id="article-intelligence-dossier"
       >
-        {/* Top Registration Header Bar & Masthead Stamp */}
-        <div className="flex items-center justify-between border-b border-ink/40 pb-2 mb-4 font-sans text-[11px] tracking-wider uppercase text-ink-muted">
-          <span>{isBn ? `সন্দেশ এক্সপ্রেস ব্রিফিং • সিরিয়াল ${serialRef}` : `SONDESH EXPRESS BRIEFING • SERIAL ARCHIVE ${serialRef}`}</span>
-          <span className="hidden sm:inline">{isBn ? '৩-স্তরীয় স্ক্যানযোগ্য ডসিয়ার সিস্টেম' : '3-TIER SCANNABLE DOSSIER SYSTEM'}</span>
-          <span>{isBn ? 'সংস্করণ: আন্তর্জাতিক ওয়্যার' : 'EDITION: DIPLOMATIC WIRE'}</span>
-        </div>
 
         {/* BEGIN: ModalControlBar */}
         <header className="flex flex-wrap items-center justify-between gap-3 border-b-2 border-ink pb-4 mb-6" data-purpose="top-navigation-strip">
@@ -201,7 +189,7 @@ export const StudyCanvasModal: React.FC = () => {
               onClick={closeStory}
               aria-label="Close modal dialog" 
               className="w-8 h-8 rounded-full border-2 border-ink hover:bg-ink hover:text-paper flex items-center justify-center text-ink transition-colors ml-1 cursor-pointer" 
-              title={isBn ? 'বন্ধ করুন' : 'Close Dossier'}
+              title={isBn ? 'বন্ধ করুন' : 'Close'}
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
                 <path d="M6 18L18 6M6 6l12 12" strokeLinecap="round" strokeLinejoin="round"></path>
@@ -214,19 +202,15 @@ export const StudyCanvasModal: React.FC = () => {
         {/* BEGIN: ArticleHeadlineAndMeta */}
         <article className="space-y-6" data-purpose="editorial-article-body">
           <div className="border-b border-ink/20 pb-4">
-            {/* Wire Dispatch Stamp and Timestamp */}
+            {/* Source and Timestamp */}
             <div className="font-sans text-xs uppercase tracking-wider text-ink-faint font-semibold mb-2 flex flex-wrap items-center gap-x-2 gap-y-1">
               <span>{timeFormatted}</span>
               <span className="text-ink/30">•</span>
               <span className="text-ink font-bold">
-                {activeStory.sources.length > 0 ? activeStory.sources[0].name : (isBn ? 'সন্দেশ এক্সপ্রেস এআই' : 'Sondesh Intelligence')}
+                {activeStory.sources.length > 0 ? activeStory.sources[0].name : (isBn ? 'সন্দেশ এক্সপ্রেস' : 'Sondesh Express')}
               </span>
               <span className="text-ink/30">•</span>
-              <span>{isBn ? 'এআই যাচাইকৃত সংবাদ সংকলন' : 'AI-Verified Synthesis'}</span>
-              <span className="text-ink/30">•</span>
-              <span className="font-mono text-[11px] bg-paper-dim px-1.5 py-0.2 border border-ink/20">
-                {serialRef}
-              </span>
+              <span>{isBn ? 'বহু-উৎস যাচাইকৃত সংবাদ' : 'Multi-Source Synthesis'}</span>
             </div>
 
             {/* Big Broadsheet Display Headline */}
@@ -236,7 +220,7 @@ export const StudyCanvasModal: React.FC = () => {
 
             {/* Sub-lead sentence */}
             {lead && (
-              <p className="font-serif text-lg md:text-xl italic text-ink-muted leading-snug">
+              <p className="font-serif text-lg md:text-xl italic text-ink-muted leading-snug text-justify">
                 {lead}
               </p>
             )}
@@ -256,7 +240,7 @@ export const StudyCanvasModal: React.FC = () => {
                 {bullets.map((bullet, idx) => (
                   <li key={idx} className="flex items-start gap-2.5">
                     <span className="w-1.5 h-1.5 rounded-full bg-accent-emerald mt-2 shrink-0"></span>
-                    <div>{bullet}</div>
+                    <div className="text-justify">{bullet}</div>
                   </li>
                 ))}
               </ul>
@@ -271,7 +255,7 @@ export const StudyCanvasModal: React.FC = () => {
                 <h3 className="font-sans text-[11px] font-bold uppercase tracking-widest text-ink-faint mb-1.5">
                   {isBn ? 'মূল প্রতিবেদন' : 'The Core Story'}
                 </h3>
-                <p className={`font-serif ${textBodySize} text-ink leading-relaxed`}>
+                <p className={`font-serif ${textBodySize} text-ink leading-relaxed text-justify`}>
                   {coreStory}
                 </p>
               </div>
@@ -287,14 +271,11 @@ export const StudyCanvasModal: React.FC = () => {
                     src={activeStory.image_url} 
                   />
                 </div>
-                <figcaption className="px-2 pt-2 pb-1 font-sans text-[11px] text-ink-muted flex flex-col sm:flex-row sm:items-center justify-between gap-1 border-t border-ink/10 mt-1">
-                  <span>
-                    {activeStory.image_caption || (isBn ? 'আর্কাইভাল চিত্র: তথ্য ও প্রাসঙ্গিক আলোকচিত্র প্রতিবেদন।' : 'Archival Photo: Sondesh Express documentary report.')}
-                  </span>
-                  <span className="font-semibold uppercase text-ink text-[10px] tracking-wide shrink-0">
-                    WIRE: SONDESH EXPRESS
-                  </span>
-                </figcaption>
+                {activeStory.image_caption && (
+                  <figcaption className="px-2 pt-2 pb-1 font-sans text-[11px] text-ink-muted border-t border-ink/10 mt-1">
+                    <span>{activeStory.image_caption}</span>
+                  </figcaption>
+                )}
               </figure>
             )}
           </section>
@@ -318,9 +299,7 @@ export const StudyCanvasModal: React.FC = () => {
                   <span className="text-[10px]">↗</span>
                 </a>
               ))}
-              <span className="font-mono text-[11px] text-ink-faint px-2 py-1">
-                Ref #{activeStory.story_id.slice(0, 12)}
-              </span>
+
             </div>
           </section>
           {/* END: VerifiedSourceCitations */}
@@ -352,38 +331,48 @@ export const StudyCanvasModal: React.FC = () => {
 
         {/* BEGIN: EngagementFooterControls */}
         <footer className="mt-8 pt-4 border-t-2 border-ink flex flex-col sm:flex-row items-center justify-between gap-4 font-sans text-xs" data-purpose="article-footer-toolbar">
-          {/* Reader Evaluation Badges */}
+          {/* Reader Evaluation Badges & Share (Matching Broadsheet Center Story Design) */}
           <div className="flex flex-wrap items-center gap-2">
             <button 
-              onClick={handleVoteInsightful}
-              className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-ink font-medium text-ink transition-colors cursor-pointer ${
-                hasVotedInsightful ? 'bg-paper-dim border-accent-amber font-bold' : 'bg-paper hover:bg-paper-dim'
+              onClick={handleVoteInformative}
+              className={`flex items-center gap-1.5 px-3 py-1 rounded-full border font-sans text-xs font-bold transition-colors cursor-pointer ${
+                hasVoted(activeStory.story_id, 'informative')
+                  ? 'border-secondary bg-secondary text-on-secondary shadow-sm'
+                  : 'border-secondary/50 bg-secondary-container/30 text-secondary hover:bg-secondary-container'
               }`} 
               type="button"
+              title={isBn ? 'তথ্যসমৃদ্ধ হিসেবে ভোট দিন' : 'Vote as Informative'}
             >
-              <span className="text-accent-amber">💡</span>
-              <span>{isBn ? 'তথ্যসমৃদ্ধ' : 'Insightful'}</span>
-              <span className="text-ink-faint font-semibold ml-0.5">({insightfulCount})</span>
+              <Lightbulb className="w-3.5 h-3.5" />
+              <span>{isBn ? 'তথ্যসমৃদ্ধ' : 'Informative'}</span>
+              {getVoteCount(activeStory.story_id, 'informative') > 0 && (
+                <span className="font-mono">({isBn ? toBanglaDigits(getVoteCount(activeStory.story_id, 'informative')) : getVoteCount(activeStory.story_id, 'informative')})</span>
+              )}
             </button>
 
             <button 
-              onClick={handleVoteHighYield}
-              className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-ink font-medium text-ink transition-colors cursor-pointer ${
-                hasVotedHighYield ? 'bg-paper-dim border-accent-brick font-bold' : 'bg-paper hover:bg-paper-dim'
+              onClick={handleVoteImportant}
+              className={`flex items-center gap-1.5 px-3 py-1 rounded-full border font-sans text-xs font-bold transition-colors cursor-pointer ${
+                hasVoted(activeStory.story_id, 'important')
+                  ? 'border-primary bg-primary text-on-primary shadow-sm'
+                  : 'border-outline-variant bg-surface-container font-medium text-primary hover:bg-surface-container-high'
               }`} 
               type="button"
+              title={isBn ? 'গুরুত্বপূর্ণ হিসেবে ভোট দিন' : 'Vote as Important'}
             >
-              <span className="text-accent-brick">⚡</span>
-              <span>{isBn ? 'উচ্চ ফলনশীল' : 'High Yield'}</span>
-              <span className="text-ink-faint font-semibold ml-0.5">({highYieldCount})</span>
+              <CheckCircle2 className="w-3.5 h-3.5" />
+              <span>{isBn ? 'গুরুত্বপূর্ণ' : 'Important'}</span>
+              {getVoteCount(activeStory.story_id, 'important') > 0 && (
+                <span className="font-mono">({isBn ? toBanglaDigits(getVoteCount(activeStory.story_id, 'important')) : getVoteCount(activeStory.story_id, 'important')})</span>
+              )}
             </button>
 
             <button 
               onClick={handleShare}
-              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-ink/40 bg-paper hover:border-ink font-medium text-ink transition-colors cursor-pointer" 
+              className="p-1 px-2.5 border border-outline hover:bg-surface-container text-primary flex items-center gap-1 cursor-pointer transition-colors font-sans text-xs uppercase" 
               type="button"
             >
-              <span>↗</span>
+              <Share2 className="w-3.5 h-3.5" />
               <span>{copied ? (isBn ? 'কপি হয়েছে' : 'Copied') : (isBn ? 'শেয়ার' : 'Share')}</span>
             </button>
           </div>
@@ -402,13 +391,6 @@ export const StudyCanvasModal: React.FC = () => {
           </button>
         </footer>
         {/* END: EngagementFooterControls */}
-
-        {/* Micro Print Imprint Footer */}
-        <div className="mt-4 pt-2 border-t border-ink/20 flex items-center justify-between text-[10px] font-sans text-ink-faint uppercase tracking-widest">
-          <span>{isBn ? 'সন্দেশ এক্সপ্রেস' : 'Sondesh Express'}</span>
-          <span>{isBn ? 'যাচাইকৃত ৩-স্তরীয় ফরম্যাট' : 'Verified 3-Tier Scannable Format'}</span>
-          <span>{isBn ? 'ঢাকা ও জেনেভায় প্রকাশিত' : 'Published in Dhaka & Geneva'}</span>
-        </div>
       </main>
       {/* END: ArticleReadingSheetModal */}
     </div>
