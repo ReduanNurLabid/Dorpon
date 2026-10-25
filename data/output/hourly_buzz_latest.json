@@ -1,125 +1,64 @@
 {
-  "updated_at": "2026-10-25T15:00:48.311634",
+  "updated_at": "2026-10-25T16:00:42.610082",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d552ca0e-57fe-5f00-a2f5-e98b6a77f909",
-      "primary_category": "world_diplomacy",
+      "story_id": "ce26c491-44f3-57db-8f4f-0c48c567d762",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T14:14:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.3844,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/976706/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0",
-          "title": "প্রধানমন্ত্রীর সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার তারেক",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার তারেক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপান সফরে প্রধানমন্ত্রী তারেক রহমানের সফরসঙ্গী হচ্ছেন মো. তারেক রহমান",
-        "title_en": "PM Tarique Rahman Includes Amjanotar Tarique in Japan Official Delegation",
-        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে জাপানের উদ্দেশ্যে চার দিনের সরকারি সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan to enhance bilateral relations and economic cooperation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:14:24+00:00",
-        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে জাপানের উদ্দেশ্যে চার দিনের সরকারি সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan to enhance bilateral relations and economic cooperation.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার সদস্যসচিব মো. তারেক রহমান।",
-          "চার দিনের এই সরকারি সফরে অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির বিষয়ে আলোচনা হবে।",
-          "সফরের অংশ হিসেবে সামাজিক যোগাযোগ মাধ্যমে নিজের যাত্রার বিষয়টি নিশ্চিত করেছেন প্রতিনিধিদলের সদস্য।"
-        ],
-        "bullets_en": [
-          "Amjanotar Member Secretary Md Tarique Rahman is joining Prime Minister Tarique Rahman on the Japan tour.",
-          "The four-day official visit will focus on expanding economic cooperation and increasing foreign investment.",
-          "The delegation member officially confirmed his departure through a social media post."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক অংশীদারিত্ব রয়েছে। সাম্প্রতিক বছরগুলোতে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ সহযোগিতা আরও জোরদার করার উদ্যোগ নেওয়া হয়েছে। এই সরকারি সফর দুই দেশের মধ্যকার দ্বিপক্ষীয় সম্পর্ককে নতুন উচ্চতায় নিয়ে যেতে এবং পারস্পরিক অর্থনৈতিক উন্নয়ন ত্বরান্বিত করতে গুরুত্বপূর্ণ ভূমিকা রাখবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership. In recent years, both nations have taken initiatives to strengthen trade and investment cooperation. This official visit is expected to play a crucial role in elevating bilateral relations to new heights and accelerating mutual economic development."
-      }
-    },
-    {
-      "story_id": "7a4852ed-cd5a-553d-8140-065e05c2f3f0",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Climate",
-        "#Environment"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T14:23:09+00:00",
+      "published_at": "2026-10-25T16:00:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.8755,
+      "importance_score": 4.8,
+      "rank_score": 1.9324,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/power-and-fuel/976710/%E0%A6%B8%E0%A7%8C%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0",
-          "title": "সৌরবিদ্যুৎ স্থাপনার ক্ষতি করলে সর্বোচ্চ ৫ বছরের কারাদণ্ড, অধ্যাদেশ জারি",
-          "snippet": "সৌরবিদ্যুৎ স্থাপনার ক্ষতি করলে সর্বোচ্চ ৫ বছরের কারাদণ্ড, অধ্যাদেশ জারি"
+          "url": "https://www.banglatribune.com/country/dhaka/976739/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+          "title": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা-ভাঙচুর: ১০০ জনের বিরুদ্ধে মামলা, গ্রেফতার ৭",
+          "snippet": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা-ভাঙচুর: ১০০ জনের বিরুদ্ধে মামলা, গ্রেফতার ৭"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌরবিদ্যুৎ স্থাপনা ও পরিচালনায় নতুন অধ্যাদেশ জারি করেছে সরকার",
-        "title_en": "Government Issues New Ordinance for Solar Power Installation and Operation",
-        "summary_bn": "সরকার সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করেছে।",
-        "summary_en": "The government has issued a new ordinance for the installation and operation of solar power systems up to five megawatts.",
+        "title_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা ও ভাঙচুরের ঘটনায় মামলা দায়ের, গ্রেফতার ৭",
+        "title_en": "Case Filed and Seven Arrested Over Attack on Police Vehicle in Gopalganj",
+        "summary_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা এবং ভাঙচুরের ঘটনায় একশ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
+        "summary_en": "A case has been filed against one hundred individuals following an attack and vandalism on a police vehicle in Gopalganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:23:09+00:00",
-        "lead_bn": "সরকার সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করেছে।",
-        "lead_en": "The government has issued a new ordinance for the installation and operation of solar power systems up to five megawatts.",
+        "published_at": "2026-10-25T16:00:07+00:00",
+        "lead_bn": "গোপালগঞ্জে পুলিশের গাড়িতে হামলা এবং ভাঙচুরের ঘটনায় একশ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
+        "lead_en": "A case has been filed against one hundred individuals following an attack and vandalism on a police vehicle in Gopalganj.",
         "bullets_bn": [
-          "সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করা হয়েছে।",
-          "সরকারি-বেসরকারি প্রতিষ্ঠান, বাসাবাড়ি, শিল্পপ্রতিষ্ঠান, চা-বাগান এবং সেচপাম্পে সৌরবিদ্যুৎ স্থাপনের সুযোগ রাখা হয়েছে।",
-          "বৃহৎ ভূমিভিত্তিক সৌরবিদ্যুৎ প্রকল্প এই নতুন অধ্যাদেশের আওতার বাইরে রাখা হয়েছে।"
+          "পুলিশের গাড়িতে হামলা এবং ভাঙচুরের অভিযোগে একশ জনকে আসামি করে মামলা দায়ের করেছে পুলিশ।",
+          "মামলায় ৪০ জনের নাম উল্লেখ করা হয়েছে এবং অজ্ঞাতনামা আসামি করা হয়েছে ৬০ জনকে।",
+          "ঘটনাস্থল থেকে আটক সাতজনকে সংশ্লিষ্ট মামলায় গ্রেফতার দেখিয়ে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
         ],
         "bullets_en": [
-          "A new ordinance has been issued for the installation and operation of solar power systems up to five megawatts.",
-          "Provisions are made for solar installations in public and private institutions, homes, industries, tea gardens, and irrigation pumps.",
-          "Large land-based solar power projects have been kept outside the purview of this new ordinance."
+          "Police filed a case naming one hundred individuals following an attack and vandalism on a police vehicle.",
+          "The case includes forty named suspects and sixty unnamed individuals.",
+          "Seven detained individuals were formally arrested under the case and sent to jail through court proceedings."
         ],
-        "impact_bn": "বাসাবাড়ি ও শিল্পপ্রতিষ্ঠানে নিজস্ব সৌরবিদ্যুৎ ব্যবহারের সুযোগ বাড়ায় বিদ্যুৎ সংকট কমবে এবং খরচ সাশ্রয় হবে।",
-        "impact_en": "Increased opportunities for solar use in homes and industries will reduce power shortages and cut costs.",
-        "details_bn": "নবায়নযোগ্য জ্বালানির ব্যবহার বাড়াতে এবং পরিবেশবান্ধব বিদ্যুৎ উৎপাদনের উদ্যোগের অংশ হিসেবে সরকার এই অধ্যাদেশ জারি করেছে। এর মাধ্যমে দেশের বিভিন্ন খাতের বিদ্যুৎ চাহিদা মেটাতে সৌর শক্তির ব্যবহার আরও সহজ ও আইনগত ভিত্তি পাবে বলে আশা করা হচ্ছে।",
-        "details_en": "The government issued this ordinance as part of initiatives to increase renewable energy use and eco-friendly power generation. This is expected to ease solar power adoption and provide a legal framework to meet electricity demands across various sectors."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ওপর হামলার ঘটনায় স্থানীয় নিরাপত্তা পরিস্থিতি ও আইনি পদক্ষেপের বিষয়টি সামনে এসেছে।",
+        "impact_en": "The incident highlights heightened security concerns and enforcement measures regarding attacks on law enforcement personnel.",
+        "details_bn": "গোপালগঞ্জ সদর থানায় পুলিশের ওপর হামলা, মারধর ও গাড়ি ভাঙচুরের এই ঘটনা ঘটে। জয় বাংলা স্লোগান দিয়ে পুলিশের ওপর চড়াও হওয়ার পর আইনশৃঙ্খলা রক্ষাকারী বাহিনী দ্রুত পদক্ষেপ নেয় এবং মামলা দায়েরের পাশাপাশি সন্দেহভাজনদের গ্রেফতারে অভিযান পরিচালনা করে।",
+        "details_en": "The incident unfolded at Gopalganj Sadar when a group chanted slogans and launched a violent assault on police personnel, damaging a patrol vehicle. Law enforcement authorities acted promptly by filing a formal case and arresting suspects involved in the disruption."
       }
     },
     {
-      "story_id": "25c23e99-729d-5786-b8af-2dcd8a763b55",
+      "story_id": "45f3dc77-8c09-541b-875c-4ee2b424aa08",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -131,103 +70,220 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T14:51:59+00:00",
+      "published_at": "2026-10-25T15:57:23+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7727,
+      "rank_score": 1.877,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976723/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "এবার প্রতিবেশী মুসলিম দেশে ইরানের হামলা",
-          "snippet": "এবার প্রতিবেশী মুসলিম দেশে ইরানের হামলা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1171936",
+          "title": "সৌদিতে আটকে পড়া ৪০ ওমরাহযাত্রী দেশে ফিরেছেন, বিমানবন্দরে অভ্যর্থনা",
+          "snippet": "সৌদিতে আটকে পড়া ৪০ ওমরাহযাত্রী দেশে ফিরেছেন, বিমানবন্দরে অভ্যর্থনা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরাকের কুর্দিস্তান অঞ্চলে ইরানি সশস্ত্র বাহিনীর ড্রোন হামলা",
-        "title_en": "Iranian Armed Forces Launch Drone Strikes in Iraq Kurdistan Region",
-        "summary_bn": "ইরানের সশস্ত্র বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে বিরোধী গোষ্ঠীর ঘাঁটিতে ড্রোন হামলা চালিয়েছে।",
-        "summary_en": "The Iranian armed forces launched a drone strike targeting an opposition group base in Iraq's Kurdistan region.",
+        "title_bn": "সৌদি আরব থেকে আটকে থাকা ৪০ ওমরাহযাত্রী দেশে ফিরেছেন",
+        "title_en": "Stranded Umrah Pilgrims Return to Bangladesh from Saudi Arabia",
+        "summary_bn": "সৌদি আরবে হামলার ঘটনায় আটকে পড়া বাংলাদেশি ওমরাহ যাত্রীদের শেষ কাফেলার ৪০ সদস্য নিরাপদে দেশে ফিরেছেন।",
+        "summary_en": "The final group of forty Bangladeshi Umrah pilgrims stranded due to attacks in Saudi Arabia have returned home safely.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:51:59+00:00",
-        "lead_bn": "ইরানের সশস্ত্র বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে বিরোধী গোষ্ঠীর ঘাঁটিতে ড্রোন হামলা চালিয়েছে।",
-        "lead_en": "The Iranian armed forces launched a drone strike targeting an opposition group base in Iraq's Kurdistan region.",
+        "published_at": "2026-10-25T15:57:23+00:00",
+        "lead_bn": "সৌদি আরবে হামলার ঘটনায় আটকে পড়া বাংলাদেশি ওমরাহ যাত্রীদের শেষ কাফেলার ৪০ সদস্য নিরাপদে দেশে ফিরেছেন।",
+        "lead_en": "The final group of forty Bangladeshi Umrah pilgrims stranded due to attacks in Saudi Arabia have returned home safely.",
         "bullets_bn": [
-          "ইরানের বিপ্লবী রক্ষীবাহিনীর স্থল বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে ড্রোন হামলা চালিয়েছে।",
-          "হামলায় বালিসান এলাকায় অবস্থিত কোমালার সদর দফতরকে লক্ষ্যবস্তু করা হয়েছে।",
-          "ইরানি গণমাধ্যমের বরাতে সৌদি সংবাদমাধ্যম আল আরাবিয়া এই অভিযানের খবর নিশ্চিত করেছে।"
+          "সৌদি আরবে সৃষ্ট নিরাপত্তা সংকটে আটকে থাকা বাংলাদেশি ওমরাহযাত্রীদের শেষ কাফেলা দেশে পৌঁছেছে।",
+          "ফিরে আসা কাফেলায় মোট ৪০ জন ওমরাহযাত্রী ছিলেন যারা বিভিন্ন বিমানবন্দর হয়ে ঢাকায় অবতরণ করেন।",
+          "সংশ্লিষ্ট কর্তৃপক্ষ ও বিমানবন্দর সূত্র ওমরাহযাত্রীদের নিরাপদে অভ্যর্থনা জানিয়ে তাদের স্বজনদের কাছে হস্তান্তর করেছে।"
         ],
         "bullets_en": [
-          "The ground forces of Iran's Islamic Revolutionary Guard Corps carried out drone strikes in Iraq's Kurdistan region.",
-          "The operation specifically targeted the headquarters of the Komala opposition group in the Balisan area.",
-          "Saudi media outlet Al Arabiya confirmed the military operation citing Iranian state media reports."
+          "The final batch of stranded Bangladeshi Umrah pilgrims has arrived home amidst security concerns in Saudi Arabia.",
+          "The returning group comprised forty pilgrims who landed safely at the airport.",
+          "Relevant authorities and airport officials warmly welcomed the pilgrims and handed them over to their families."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইরান দীর্ঘদিন ধরে তাদের ভূখণ্ডের বিরুদ্ধে তৎপর কুর্দি বিরোধী সশস্ত্র গোষ্ঠীগুলোকে সীমান্ত এলাকায় জাতীয় নিরাপত্তার জন্য হুমকি হিসেবে বিবেচনা করে আসছে। এর আগেও তেহরান ইরাকের কুর্দিস্তান অঞ্চলে অবস্থিত বিভিন্ন বিদ্রোহী আস্তানায় একাধিকবার সামরিক অভিযান ও ক্ষেপণাস্ত্র হামলা চালিয়েছে। এই ধরনের সীমান্ত পেরিয়ে সামরিক পদক্ষেপ মধ্যপ্রাচ্যের আঞ্চলিক স্থিতিশীলতা ও দ্বিপক্ষীয় সম্পর্কে নতুন উত্তেজনার সৃষ্টি করে থাকে।",
-        "details_en": "Iran has long considered anti-Iranian Kurdish armed groups operating near its borders as a direct threat to national security. Tehran has previously launched multiple military operations and missile strikes against similar dissident hideouts in Iraq's Kurdistan region. Such cross-border military actions frequently heighten regional tensions and impact bilateral diplomatic relations in the Middle East."
+        "impact_bn": "আটকে পড়া ওমরাহযাত্রীদের নিরাপদে প্রত্যাবর্তনে তাদের পরিবার ও স্বজনদের দীর্ঘদিনের দুশ্চিন্তার অবসান ঘটেছে।",
+        "impact_en": "The safe return of the stranded pilgrims brings great relief to their families and ends weeks of anxiety.",
+        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন দেশের আকাশসীমায় চলমান নিরাপত্তা সংকট এবং হামলার ঘটনার কারণে সৌদি আরবে বেশ কিছু বাংলাদেশি ওমরাহযাত্রী আটকা পড়েন। কূটনৈতিক প্রচেষ্টা ও সংশ্লিষ্ট বিমান সংস্থার সহায়তায় ধাপে ধাপে তাদের দেশে ফিরিয়ে আনা হয়। এই ৪০ জনের শেষ কাফেলাটি পৌঁছানোর মাধ্যমে পুরো উদ্ধার কার্যক্রম সফলভাবে সম্পন্ন হলো।",
+        "details_en": "Several Bangladeshi Umrah pilgrims became stranded in Saudi Arabia due to ongoing security disruptions and airspace closures in the Middle East. Through coordinated diplomatic efforts and airline support, the pilgrims were brought back in phases, concluding successfully with the arrival of this final group of forty."
       }
     },
     {
-      "story_id": "9e843da8-ee20-5971-a70c-9f43372234b8",
-      "primary_category": "society_education",
+      "story_id": "e127d7cf-b0a1-53ae-a29a-834e94e4b80a",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "governance_law",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T14:55:21+00:00",
+      "published_at": "2026-10-25T15:40:50+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9173,
+      "importance_score": 4.8,
+      "rank_score": 1.594,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171908",
-          "title": "নোয়াখালীতে পানিতে ডুবে ২ বোনের মৃত্যু",
-          "snippet": "নোয়াখালীতে পানিতে ডুবে ২ বোনের মৃত্যু"
+          "url": "https://www.jagonews24.com/country/news/1171927",
+          "title": "রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দুই এআরএ সদস্য আটক",
+          "snippet": "রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দুই এআরএ সদস্য আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নোয়াখালীর সুবর্ণচরে পুকুরের পানিতে ডুবে দুই বোনের মৃত্যু",
-        "title_en": "Two sisters die after drowning in a pond in Noakhali",
-        "summary_bn": "নোয়াখালীর সুবর্ণচরে পুকুরে গোসলে নেমে পানিতে ডুবে দুই শিশুর মৃত্যু হয়েছে।",
-        "summary_en": "Two young sisters drowned while bathing in a pond in Subornachar upazila of Noakhali.",
+        "title_bn": "উখিয়ায় রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতিকালে দেশীয় অস্ত্রসহ আটক দুই এআরএ সদস্য",
+        "title_en": "Two Armed ARA Members Arrested With Weapons During Rohingya Camp Robbery Preparation",
+        "summary_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতির সময় দেশীয় অস্ত্রসহ সশস্ত্র গোষ্ঠী এআরএ’র দুই সদস্যকে আটক করেছে পুলিশ।",
+        "summary_en": "Police arrested two armed members of the ARA group with local weapons while preparing for a robbery in a Rohingya camp in Ukhiya.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "governance_law",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:55:21+00:00",
-        "lead_bn": "নোয়াখালীর সুবর্ণচরে পুকুরে গোসলে নেমে পানিতে ডুবে দুই শিশুর মৃত্যু হয়েছে।",
-        "lead_en": "Two young sisters drowned while bathing in a pond in Subornachar upazila of Noakhali.",
+        "published_at": "2026-10-25T15:40:50+00:00",
+        "lead_bn": "কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে ডাকাতির প্রস্তুতির সময় দেশীয় অস্ত্রসহ সশস্ত্র গোষ্ঠী এআরএ’র দুই সদস্যকে আটক করেছে পুলিশ।",
+        "lead_en": "Police arrested two armed members of the ARA group with local weapons while preparing for a robbery in a Rohingya camp in Ukhiya.",
         "bullets_bn": [
-          "সুবর্ণচর উপজেলায় পুকুরের পানিতে গোসলে নেমে দুই শিশুর মর্মান্তিক মৃত্যু হয়েছে।",
-          "নিহত শিশুরা হলো ৭ বছরের স্বর্ণা রানী কাহার এবং ৫ বছরের রূপা রানী কাহার যারা সম্পর্কে আপন বোন।",
-          "পরিবারের অগোচরে খেলতে গিয়ে এই দুর্ঘটনা ঘটে যা এলাকায় শোকের ছায়া নেমে এনেছে।"
+          "এপিবিএন পুলিশ কক্সবাজারের উখিয়ার রোহিঙ্গা ক্যাম্পে অভিযান চালিয়ে দুই সশস্ত্র ব্যক্তিকে আটক করে",
+          "অভিযানের সময় আটককৃতদের কাছ থেকে দেশীয় অস্ত্র উদ্ধার করা হয়",
+          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী রোহিঙ্গা ক্যাম্পের নিরাপত্তা জোরদার করতে অভিযান অব্যাহত রেখেছে"
         ],
         "bullets_en": [
-          "Two children tragically died after descending into a pond for a bath in Subornachar upazila.",
-          "The deceased victims are identified as 7-year-old Swarna Rani Kahar and 5-year-old Rupa Rani Kahar, who were sisters.",
-          "The incident occurred unnoticed by family members while the children were playing near the water."
+          "APBn police conducted a drive and arrested two armed individuals in a Rohingya camp in Ukhiya",
+          "Local weapons were recovered from the possession of the detainees during the operation",
+          "Law enforcement agencies continue operations to enhance security within the Rohingya camps"
         ],
-        "impact_bn": "শিশুদের নিরাপত্তায় অভিভাবকদের আরও বেশি সতর্ক থাকার তাগিদ তৈরি হয়েছে।",
-        "impact_en": "This incident highlights the urgent need for increased parental supervision and child water safety awareness.",
-        "details_bn": "সাম্প্রতিক বছরগুলোতে গ্রামীণ জনপদে পানিতে ডুবে শিশু মৃত্যুর ঘটনা উদ্বেগজনকভাবে বৃদ্ধি পেয়েছে। অসচেতনতা এবং পর্যাপ্ত নজরদারির অভাবে প্রায়ই এমন অনাকাঙ্ক্ষিত দুর্ঘটনা ঘটছে, যা প্রতিরোধে বিভিন্ন সচেতনতামূলক কার্যক্রম পরিচালিত হলেও পুরোপুরি রোধ করা সম্ভব হচ্ছে না।",
-        "details_en": "Child drowning incidents in rural ponds and water bodies have emerged as a significant public health concern in Bangladesh. Despite various community awareness initiatives, lack of constant parental supervision continues to result in preventable tragedies among young children."
+        "impact_bn": "ক্যাম্পে অপরাধমূলক কর্মকাণ্ড ও সশস্ত্র গোষ্ঠীর তৎপরতা কমলে সাধারণ রোহিঙ্গা শরণার্থীরা নিরাপদ পরিবেশে বসবাস করতে পারবে।",
+        "impact_en": "Curbing criminal activities and armed group operations will allow ordinary Rohingya refugees to live in a safer environment.",
+        "details_bn": "কক্সবাজারের উখিয়া ও টেকনাফের রোহিঙ্গা ক্যাম্পগুলোতে বিভিন্ন সশস্ত্র গোষ্ঠীর আধিপত্য বিস্তার ও অপরাধমূলক কর্মকাণ্ড রোধে আইনশৃঙ্খলা রক্ষাকারী বাহিনী নিয়মিত অভিযান পরিচালনা করে আসছে। সাম্প্রতিক সময়ে ক্যাম্পে খুন, অপহরণ এবং ডাকাতির মতো অপরাধ দমনে এপিবিএন এবং অন্যান্য আইনপ্রয়োগকারী সংস্থা নিরাপত্তা ব্যবস্থা জোরদার করেছে।",
+        "details_en": "Law enforcement agencies regularly conduct operations in the Rohingya camps of Ukhiya and Teknaf to curb the dominance of various armed groups and criminal activities. Recently, APBn and other law enforcement agencies have tightened security measures to prevent crimes such as murder, abduction, and robbery in the camps."
+      }
+    },
+    {
+      "story_id": "6dff5ad4-eb16-53bd-a4c3-7dadc8b20dd4",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fo9yj1ic5%2Fhighway-leading.jpg?rect=0%2C72%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-25T15:28:41+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4307,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/dxxn6kmbrb",
+          "title": "রিয়াদের কিং খালিদ বিমানবন্দর আংশিক চালু, সৌদি আরবে হামলা চলছেই",
+          "snippet": "রিয়াদের কিং খালিদ বিমানবন্দর আংশিক চালু, সৌদি আরবে হামলা চলছেই"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি জোটের ক্ষেপণাস্ত্র প্রতিহত করার পর রিয়াদ বিমানবন্দরের আংশিক কার্যক্রম শুরু",
+        "title_en": "Riyadh Airport Resumes Partial Operations After Saudi Coalition Intercepts Missiles",
+        "summary_bn": "সৌদি জোট ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের দুটি টার্মিনালে আংশিক কার্যক্রম শুরু হয়েছে।",
+        "summary_en": "King Khalid International Airport in Riyadh resumes operations across two terminals after the Saudi coalition intercepts incoming missiles and drones.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T15:28:41+00:00",
+        "lead_bn": "সৌদি জোট ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করার পর রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরের দুটি টার্মিনালে আংশিক কার্যক্রম শুরু হয়েছে।",
+        "lead_en": "King Khalid International Airport in Riyadh resumes operations across two terminals after the Saudi coalition intercepts incoming missiles and drones.",
+        "bullets_bn": [
+          "সৌদি নেতৃত্বাধীন সামরিক জোট রিয়াদ এবং খামিস মুশাইত লক্ষ্য করে ছোড়া একাধিক ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন সফলভাবে ধ্বংস করেছে।",
+          "হুতিদের ১০ অক্টোবরের হামলায় তেরো জন নিহত ও তিন শতাধিক আহত হওয়ার পর বিমানবন্দরটি সাময়িকভাবে বন্ধ রাখা হয়েছিল।",
+          "বিমানবন্দর কর্তৃপক্ষ এক ও দুই নম্বর টার্মিনালে যথাক্রমে অভ্যন্তরীণ ও আন্তর্জাতিক ফ্লাইট পুনরায় চালুর ঘোষণা দিয়েছে।"
+        ],
+        "bullets_en": [
+          "The Saudi-led military coalition successfully destroyed multiple ballistic missiles and drones targeting Riyadh and Khamis Mushait.",
+          "The airport was temporarily shut down following an October 10 Houthi attack that left thirteen dead and over three hundred injured.",
+          "Airport authorities announced the resumption of domestic and international flights at terminal one and two respectively."
+        ],
+        "impact_bn": "বিমান চলাচল ব্যাহত হওয়ায় মধ্যপ্রাচ্যের আকাশপথে যাতায়াতকারী যাত্রী ও প্রবাসীদের চলাচলে অনিশ্চয়তা তৈরি হয়েছে।",
+        "impact_en": "Ongoing aerial threats and travel disruptions create uncertainty for international passengers and expatriates commuting through the region.",
+        "details_bn": "ইয়েমেনের ইরান-সমর্থিত হুতি গোষ্ঠী দীর্ঘদিন ধরে সৌদি আরবের তেল স্থাপনা ও সামরিক ঘাঁটিতে হামলা চালিয়ে আসছে। সাম্প্রতিক সময়ে তাইজ শহর ঘিরে সরকারি বাহিনী ও হুতিদের লড়াই তীব্র হয়েছে। এর জেরে জাতিসংঘ শহরটিতে আটকে পড়া আট লাখ মানুষের কাছে সহায়তা পৌঁছানোর সময় ফুরিয়ে আসছে বলে সতর্ক করেছে। হুতিরা রিয়াদ বিমানবন্দরকে অনিরাপদ ঘোষণা করে ব্যবহারের বিরুদ্ধে হুঁশিয়ারি দিয়েছে।",
+        "details_en": "Yemen's Iran-backed Houthi movement has continuously targeted Saudi oil facilities and military infrastructure. Intense fighting around Taiz has prompted United Nations warnings regarding eight hundred thousand stranded civilians. Houthi leadership recently labeled Riyadh airport unsafe and issued warnings against its continued use."
+      }
+    },
+    {
+      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#SaudiArabia",
+        "#ArtificialIntelligence",
+        "#Houthi"
+      ],
+      "image_url": "https://static.dw.com/image/78307185_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-25T16:00:42.610091+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6888,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক টার্গেটিং টুল সরবরাহ করছে যুক্তরাষ্ট্র",
+        "title_en": "United States Supplies AI-Powered Targeting Tool to Saudi Arabia",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের চলমান হামলার মুখে সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক সামরিক প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
+        "summary_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia is receiving artificial intelligence-based military technology and intelligence support from the United States.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation",
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T16:00:42.610091+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের চলমান হামলার মুখে সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক সামরিক প্রযুক্তি ও গোয়েন্দা সহায়তা দিচ্ছে যুক্তরাষ্ট্র।",
+        "lead_en": "Facing attacks from Houthi rebels in Yemen, Saudi Arabia is receiving artificial intelligence-based military technology and intelligence support from the United States.",
+        "bullets_bn": [
+          "সৌদি আরবের সামরিক বাহিনীকে রিয়েল-টাইম যুদ্ধক্ষেত্রের তথ্য বিশ্লেষণে সহায়তা করছে মার্কিন যৌথ কমান্ড ফোর্স।",
+          "প্রকল্পটির আওতায় মার্কিন সেনাদের উপস্থিতিতে মোতায়েন করা হয়েছে মেভেন স্মার্ট সিস্টেম নামক বিশেষ এআই প্ল্যাটফর্ম।",
+          "উন্নত এই সফটওয়্যারটি লাইভ স্যাটেলাইট এবং ড্রোন ফুটেজ বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু শনাক্ত করে।"
+        ],
+        "bullets_en": [
+          "US joint command forces are assisting the Saudi military in analyzing real-time battlefield intelligence.",
+          "The deployment includes the Maven Smart System AI platform facilitated by stationed US military personnel.",
+          "The advanced software analyzes live satellite and drone footage to identify potential military targets."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে সামরিক সংঘাত ও প্রযুক্তিগত অস্ত্র ব্যবহারের তীব্রতা বৃদ্ধির ফলে আঞ্চলিক স্থিতিশীলতা হুমকির মুখে পড়তে পারে।",
+        "impact_en": "Escalating military conflicts and the deployment of advanced AI weaponry in the Middle East could further threaten regional stability.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের ক্রমবর্ধমান হামলার মুখে সৌদি আরব মার্কিন প্রশাসনের কাছে সামরিক সহায়তা চায়। সরাসরি সামরিক হস্তক্ষেপের অনুরোধ মার্কিন নেতৃত্ব প্রত্যাখ্যান করলেও গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তিগত সহায়তা প্রদান অব্যাহত রেখেছে। ২০১৭ সালে সূচিত মার্কিন প্রকল্প প্রজেক্ট মেভেনের অংশ হিসেবে এই এআই প্ল্যাটফর্ম পরিচালিত হচ্ছে, যা আধুনিক যুদ্ধক্ষেত্রে রিয়েল-টাইম ডেটা প্রসেসিং ও টার্গেট শনাক্তকরণে ব্যবহৃত হয়।",
+        "details_en": "Facing escalating attacks from Yemen-based Houthi rebels, Saudi Arabia sought military assistance from the US administration. While direct military intervention was declined, Washington continues to provide intelligence and artificial intelligence-based technological support. This assistance utilizes the Maven Smart System, an AI platform originating from Project Maven launched in 2017, designed for real-time data processing and target identification in modern warfare."
       }
     },
     {
@@ -240,15 +296,15 @@
       "region": "international",
       "tags": [
         "#BangladeshEconomy",
-        "#IMF",
-        "#GDP"
+        "#PerCapitaGDP",
+        "#IMF"
       ],
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP18111291320142-1770666958.jpg?resize=1920%2C1440",
       "image_caption": null,
       "published_at": "2026-10-25T14:11:29+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 3.0,
-      "rank_score": 0.7771,
+      "rank_score": 0.5246,
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -264,10 +320,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী ভারতের চেয়ে বাংলাদেশের মাথাপিছু জিডিপি বেশি হবে",
-        "title_en": "Bangladesh Per Capita GDP Projected to Outstrip India According to IMF",
-        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
-        "summary_en": "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
+        "title_bn": "আইএমএফের পূর্বাভাস অনুযায়ী ভারতের চেয়ে বাংলাদেশের মাথাপিছু জিডিপি বেশি হবে",
+        "title_en": "Bangladesh Per Capita GDP Projected to Surpass India According to IMF",
+        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী বাংলাদেশের মাথাপিছু মোট দেশজ উৎপাদন ভারতকে ছাড়িয়ে যাবে।",
+        "summary_en": "Bangladesh is projected to surpass India in per capita gross domestic product according to the IMF.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -276,84 +332,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-25T14:11:29+00:00",
-        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
-        "lead_en": "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
+        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী বাংলাদেশের মাথাপিছু মোট দেশজ উৎপাদন ভারতকে ছাড়িয়ে যাবে।",
+        "lead_en": "Bangladesh is projected to surpass India in per capita gross domestic product according to the IMF.",
         "bullets_bn": [
-          "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
-          "বাংলাদেশের মাথাপিছু জিডিপি দুই হাজার আটশ ছিয়াশি ডলার এবং ভারতের মাথাপিছু জিডিপি দুই হাজার সাতশ উনপঞ্চাশ ডলার ধরা হয়েছে।",
-          "তৈরি পোশাক শিল্প এবং প্রবাস আয় এই অর্থনৈতিক অগ্রগতিতে বড় ভূমিকা রেখেছে।"
+          "আন্তর্জাতিক মুদ্রা তহবিলের তথ্য অনুযায়ী বাংলাদেশ মাথাপিছু জিডিপিতে ভারতকে পেছনে ফেলতে চলেছে।",
+          "বাংলাদেশের মাথাপিছু জিডিপি দুই হাজার আটশত ছিয়াশি ডলার এবং ভারতের দুই হাজার সাতশো উনপঞ্চাশ ডলারে দাঁড়াবে।",
+          "তৈরি পোশাক শিল্প ও প্রবাস আয় এই অর্থনৈতিক অগ্রগতির পেছনে মূল ভূমিকা পালন করেছে।"
         ],
         "bullets_en": [
-          "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
-          "Bangladesh registers a projected per capita GDP of two thousand eight hundred eighty-six dollars compared to India at two thousand seven hundred forty-nine dollars.",
+          "Bangladesh is projected to exceed India in per capita gross domestic product according to IMF data.",
+          "The projected per capita GDP stands at twenty-eight hundred eighty-six dollars for Bangladesh and twenty-seven hundred forty-nine dollars for India.",
           "The garment industry and remittances have driven this notable economic progress over recent decades."
         ],
-        "impact_bn": "উচ্চ মূল্যস্ফীতি ও ধীরগতির প্রবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ওপর অর্থনৈতিক চাপ সৃষ্টি করছে।",
-        "impact_en": "High inflation and slowing growth are putting ongoing economic progress under pressure for ordinary citizens.",
-        "details_bn": "আন্তর্জাতিক মুদ্রা তহবিলের বিশ্ব অর্থনৈতিক দৃষ্টিভঙ্গি প্রতিবেদনে এই প্রাক্কলন প্রকাশ করা হয়েছে। বিশাল জনসংখ্যার বিপরীতে মাথাপিছু হিসাব অনুযায়ী বাংলাদেশের অর্থনীতি দক্ষিণ এশিয়ায় উল্লেখযোগ্য সাফল্য অর্জন করেছে। তবে ক্রয়ক্ষমতার সমতা বা পিপিপির হিসেবে ভারতের অবস্থান এখনও এগিয়ে রয়েছে। মূলত তৈরি পোশাক খাত, রেমিট্যান্স এবং নারী শ্রমশক্তির অংশগ্রহণের ওপর ভর করে এই প্রবৃদ্ধি অর্জিত হয়েছে।",
-        "details_en": "The projection is highlighted in the International Monetary Fund World Economic Outlook report. While India maintains a significantly larger total economy, Bangladesh achieves a higher per capita figure due to population dynamics. The country economic rise has been significantly propelled by its multi-billion dollar garment sector, steady remittances, and increasing participation of women in the workforce, although high inflation remains a persistent challenge."
-      }
-    },
-    {
-      "story_id": "f7de86fb-a35b-5eb8-9ce4-d3fda25a2be5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "tech_innovation",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#ArtificialIntelligence",
-        "#SaudiArabia",
-        "#Houthi"
-      ],
-      "image_url": "https://static.dw.com/image/78307185_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-25T15:00:48.311644+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6883,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-          "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-          "snippet": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইয়েমেনের হুথি হামলা মোকাবিলায় সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তি দিচ্ছে যুক্তরাষ্ট্র",
-        "title_en": "United States Provides Artificial Intelligence Targeting Tool to Help Saudi Arabia Combat Houthi Attacks",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলায় যুক্তরাষ্ট্র সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা প্রদান করছে।",
-        "summary_en": "The United States is providing artificial intelligence targeting tools and intelligence support to help Saudi Arabia counter Houthi attacks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "tech_innovation",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T15:00:48.311644+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলায় যুক্তরাষ্ট্র সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা প্রদান করছে।",
-        "lead_en": "The United States is providing artificial intelligence targeting tools and intelligence support to help Saudi Arabia counter Houthi attacks.",
-        "bullets_bn": [
-          "যুক্তরাষ্ট্র সৌদি আরবকে যুদ্ধক্ষেত্রের রিয়েল-টাইম দৃশ্য পর্যবেক্ষণের জন্য একটি এআই-ভিত্তিক টার্গেটিং টুল সরবরাহ করেছে",
-          "যুক্তরাষ্ট্রের প্রজেক্ট ম্যাভেনের আওতাধীন এমএসএস সিস্টেমটি স্যাটেলাইট ও ড্রোন ফিড বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু চিহ্নিত করে",
-          "সৌদি আরবে প্রায় একশ থেকে দুইশ মার্কিন সেনা যৌথ কমান্ডের অংশ হিসেবে এই প্রযুক্তি পরিচালনায় সহায়তা করছে"
-        ],
-        "bullets_en": [
-          "The United States has supplied Saudi Arabia with an AI-enabled targeting tool to view battlefield activities in real-time.",
-          "The MSS system, originating from the US Project Maven, analyzes satellite and drone feeds to identify potential military targets.",
-          "Between 100 and 200 US personnel are stationed in Saudi Arabia as part of a joint force command to facilitate the technology."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সৌদি আরব ইয়েমেনের হুথি বিদ্রোহীদের তীব্র সামরিক চাপের মুখে মিত্র দেশগুলোর সহায়তা চেয়েছে। মার্কিন প্রেসিডেন্ট সরাসরি সামরিক হস্তক্ষেপে অস্বীকৃতি জানালেও, যুক্তরাষ্ট্র যৌথ কমান্ডের মাধ্যমে গোয়েন্দা তথ্য ও উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি সরবরাহ করছে। এই প্রযুক্তির মূল ভিত্তি হলো প্রজেক্ট ম্যাভেনের এমএসএস সিস্টেম, যা স্যাটেলাইট ও ড্রোন চিত্রের মাধ্যমে রিয়েল-টাইমে লক্ষ্যবস্তু শনাক্ত করতে সক্ষম।",
-        "details_en": "Saudi Arabia sought assistance from international allies amid persistent military pressure from Houthi militants in Yemen. While the US declined direct military intervention, Washington deployed between 100 and 200 personnel to provide intelligence and facilitate an AI-enabled targeting tool similar to the Maven Smart System, which processes satellite and drone data to identify battlefield targets."
+        "impact_bn": "উচ্চ মূল্যস্ফীতি ও ধীরগতির প্রবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ওপর বাড়তি চাপ সৃষ্টি করছে।",
+        "impact_en": "High inflation and slowing economic growth continue to put direct pressure on ordinary citizens.",
+        "details_bn": "আন্তর্জাতিক মুদ্রা তহবিলের ওয়ার্ল্ড ইকোনমিক আউটলুক প্রতিবেদনে এই অর্থনৈতিক পূর্বাভাস উঠে এসেছে। একশো পঁচাত্তর মিলিয়নেরও বেশি জনসংখ্যার দেশ হিসেবে বাংলাদেশ গত দুই দশকে দক্ষিণ এশিয়ার অন্যতম অর্থনৈতিক সাফল্যের গল্প হিসেবে আত্মপ্রকাশ করেছে। তবে উচ্চ মূল্যস্ফীতি এবং দুই প্রধান যুদ্ধের কারণে সৃষ্ট বৈশ্বিক জ্বালানি বাজারের চাপ এই অগ্রগতিকে এখন চ্যালেঞ্জের মুখে ফেলছে।",
+        "details_en": "The economic projection emerged from the International Monetary Fund World Economic Outlook report. Home to over one hundred seventy-five million people, Bangladesh has emerged as one of South Asia economic success stories over the past two decades. However, high inflation and global energy market pressures caused by major conflicts are currently testing this ongoing economic progress."
       }
     }
   ]
