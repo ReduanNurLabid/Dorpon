@@ -1,66 +1,125 @@
 {
-  "updated_at": "2026-10-25T14:00:43.756228",
+  "updated_at": "2026-10-25T15:00:48.311634",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "2bee5161-b318-5fa1-a7b0-666c91d1ff10",
-      "primary_category": "economy_business",
+      "story_id": "d552ca0e-57fe-5f00-a2f5-e98b6a77f909",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T14:14:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 2.3844,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/976706/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%86%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0",
+          "title": "প্রধানমন্ত্রীর সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার তারেক",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার তারেক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাপান সফরে প্রধানমন্ত্রী তারেক রহমানের সফরসঙ্গী হচ্ছেন মো. তারেক রহমান",
+        "title_en": "PM Tarique Rahman Includes Amjanotar Tarique in Japan Official Delegation",
+        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে জাপানের উদ্দেশ্যে চার দিনের সরকারি সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan to enhance bilateral relations and economic cooperation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T14:14:24+00:00",
+        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে জাপানের উদ্দেশ্যে চার দিনের সরকারি সফরে যাচ্ছেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman is embarking on a four-day official visit to Japan to enhance bilateral relations and economic cooperation.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে জাপান সফরে যাচ্ছেন আমজনতার সদস্যসচিব মো. তারেক রহমান।",
+          "চার দিনের এই সরকারি সফরে অর্থনৈতিক সহযোগিতা ও বিনিয়োগ বৃদ্ধির বিষয়ে আলোচনা হবে।",
+          "সফরের অংশ হিসেবে সামাজিক যোগাযোগ মাধ্যমে নিজের যাত্রার বিষয়টি নিশ্চিত করেছেন প্রতিনিধিদলের সদস্য।"
+        ],
+        "bullets_en": [
+          "Amjanotar Member Secretary Md Tarique Rahman is joining Prime Minister Tarique Rahman on the Japan tour.",
+          "The four-day official visit will focus on expanding economic cooperation and increasing foreign investment.",
+          "The delegation member officially confirmed his departure through a social media post."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক অংশীদারিত্ব রয়েছে। সাম্প্রতিক বছরগুলোতে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ সহযোগিতা আরও জোরদার করার উদ্যোগ নেওয়া হয়েছে। এই সরকারি সফর দুই দেশের মধ্যকার দ্বিপক্ষীয় সম্পর্ককে নতুন উচ্চতায় নিয়ে যেতে এবং পারস্পরিক অর্থনৈতিক উন্নয়ন ত্বরান্বিত করতে গুরুত্বপূর্ণ ভূমিকা রাখবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership. In recent years, both nations have taken initiatives to strengthen trade and investment cooperation. This official visit is expected to play a crucial role in elevating bilateral relations to new heights and accelerating mutual economic development."
+      }
+    },
+    {
+      "story_id": "7a4852ed-cd5a-553d-8140-065e05c2f3f0",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Climate",
+        "#Environment"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T13:54:39+00:00",
+      "published_at": "2026-10-25T14:23:09+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 2.2796,
+      "importance_score": 6.6,
+      "rank_score": 1.8755,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1171887",
-          "title": "পটিয়ায় দলিলের মূল্য কম দেখিয়ে রাজস্ব ফাঁকির অভিযোগ, তদন্তে দুদক",
-          "snippet": "পটিয়ায় দলিলের মূল্য কম দেখিয়ে রাজস্ব ফাঁকির অভিযোগ, তদন্তে দুদক"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/business/power-and-fuel/976710/%E0%A6%B8%E0%A7%8C%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A4%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%9A%E0%A7%8D%E0%A6%9A-%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0",
+          "title": "সৌরবিদ্যুৎ স্থাপনার ক্ষতি করলে সর্বোচ্চ ৫ বছরের কারাদণ্ড, অধ্যাদেশ জারি",
+          "snippet": "সৌরবিদ্যুৎ স্থাপনার ক্ষতি করলে সর্বোচ্চ ৫ বছরের কারাদণ্ড, অধ্যাদেশ জারি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পটিয়ায় কমমূল্যে দলিল দেখিয়ে রাজস্ব ফাঁকির অভিযোগে দুদকের তদন্ত",
-        "title_en": "ACC Investigates Revenue Evasion via Undervalued Deeds in Patiya",
-        "summary_bn": "দুর্নীতি দমন কমিশন চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে ভবনের তথ্য গোপন করে রাজস্ব ফাঁকির অভিযোগে তদন্ত শুরু করেছে।",
-        "summary_en": "The Anti-Corruption Commission has launched an investigation into revenue evasion by concealing building assets during deed registration in Patiya.",
+        "title_bn": "সৌরবিদ্যুৎ স্থাপনা ও পরিচালনায় নতুন অধ্যাদেশ জারি করেছে সরকার",
+        "title_en": "Government Issues New Ordinance for Solar Power Installation and Operation",
+        "summary_bn": "সরকার সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করেছে।",
+        "summary_en": "The government has issued a new ordinance for the installation and operation of solar power systems up to five megawatts.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "climate_environment",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T13:54:39+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশন চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে ভবনের তথ্য গোপন করে রাজস্ব ফাঁকির অভিযোগে তদন্ত শুরু করেছে।",
-        "lead_en": "The Anti-Corruption Commission has launched an investigation into revenue evasion by concealing building assets during deed registration in Patiya.",
+        "published_at": "2026-10-25T14:23:09+00:00",
+        "lead_bn": "সরকার সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করেছে।",
+        "lead_en": "The government has issued a new ordinance for the installation and operation of solar power systems up to five megawatts.",
         "bullets_bn": [
-          "পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে চারতলা ভবনের তথ্য গোপন করে দলিল নিবন্ধনের মাধ্যমে রাজস্ব ফাঁকি দেওয়া হয়েছে।",
-          "দুদক সমন্বিত জেলা কার্যালয় থেকে এই অনিয়মের সত্যতা যাচাইয়ে সুনির্দিষ্ট তথ্য সংগ্রহ করা হচ্ছে।",
-          "তদন্ত শেষে জড়িত কর্মকর্তাদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া শুরু হবে।"
+          "সর্বোচ্চ পাঁচ মেগাওয়াট ক্ষমতার সৌরবিদ্যুৎ ব্যবস্থা স্থাপন ও পরিচালনার জন্য নতুন অধ্যাদেশ জারি করা হয়েছে।",
+          "সরকারি-বেসরকারি প্রতিষ্ঠান, বাসাবাড়ি, শিল্পপ্রতিষ্ঠান, চা-বাগান এবং সেচপাম্পে সৌরবিদ্যুৎ স্থাপনের সুযোগ রাখা হয়েছে।",
+          "বৃহৎ ভূমিভিত্তিক সৌরবিদ্যুৎ প্রকল্প এই নতুন অধ্যাদেশের আওতার বাইরে রাখা হয়েছে।"
         ],
         "bullets_en": [
-          "Revenue was evaded by registering property deeds while concealing the existence of a four-story building in Patiya.",
-          "The Anti-Corruption Commission integrated district office is collecting specific data to verify these irregularities.",
-          "Legal action procedures against involved officials will begin following the conclusion of the investigation."
+          "A new ordinance has been issued for the installation and operation of solar power systems up to five megawatts.",
+          "Provisions are made for solar installations in public and private institutions, homes, industries, tea gardens, and irrigation pumps.",
+          "Large land-based solar power projects have been kept outside the purview of this new ordinance."
         ],
-        "impact_bn": "সরকারি রাজস্ব বৃদ্ধি এবং ভূমি নিবন্ধনে অনিয়ম ও দুর্নীতির লাগাম টানতে এই তদন্ত সাধারণ মানুষের জন্য গুরুত্বপূর্ণ ভূমিকা রাখবে।",
-        "impact_en": "This investigation will play a vital role in increasing government revenue and curbing irregularities and corruption in land registration.",
-        "details_bn": "চট্টগ্রামের পটিয়া সাব-রেজিস্ট্রার কার্যালয়ে দীর্ঘদিন ধরে নানা অনিয়মের মাধ্যমে সরকার নির্ধারিত রাজস্ব ফাঁকি দেওয়ার অভিযোগ রয়েছে। ভবন বা অবকাঠামোর তথ্য গোপন করে কম মূল্যে দলিল রেজিস্ট্রি করার ঘটনায় এর আগেও বেশ কিছু অভিযোগ জমা পড়েছিল। এর প্রেক্ষিতে দুর্নীতি দমন কমিশন অভিযুক্তদের বিরুদ্ধে আইনি পদক্ষেপ নিতে মাঠে নামে এবং মাঠপর্যায়ে তথ্য সংগ্রহ শুরু করে।",
-        "details_en": "Allegations of evading government-mandated revenue through various irregularities have persisted at the Patiya Sub-Registrar Office in Chattogram. Numerous complaints had previously been filed regarding the registration of deeds at undervalued prices by concealing building or infrastructure details. In response, the Anti-Corruption Commission initiated legal steps against the accused and began gathering field-level data."
+        "impact_bn": "বাসাবাড়ি ও শিল্পপ্রতিষ্ঠানে নিজস্ব সৌরবিদ্যুৎ ব্যবহারের সুযোগ বাড়ায় বিদ্যুৎ সংকট কমবে এবং খরচ সাশ্রয় হবে।",
+        "impact_en": "Increased opportunities for solar use in homes and industries will reduce power shortages and cut costs.",
+        "details_bn": "নবায়নযোগ্য জ্বালানির ব্যবহার বাড়াতে এবং পরিবেশবান্ধব বিদ্যুৎ উৎপাদনের উদ্যোগের অংশ হিসেবে সরকার এই অধ্যাদেশ জারি করেছে। এর মাধ্যমে দেশের বিভিন্ন খাতের বিদ্যুৎ চাহিদা মেটাতে সৌর শক্তির ব্যবহার আরও সহজ ও আইনগত ভিত্তি পাবে বলে আশা করা হচ্ছে।",
+        "details_en": "The government issued this ordinance as part of initiatives to increase renewable energy use and eco-friendly power generation. This is expected to ease solar power adoption and provide a legal framework to meet electricity demands across various sectors."
       }
     },
     {
-      "story_id": "a153fd05-a753-5e67-9c40-3f15c73d1178",
+      "story_id": "25c23e99-729d-5786-b8af-2dcd8a763b55",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -72,180 +131,131 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T13:57:27+00:00",
+      "published_at": "2026-10-25T14:51:59+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.8776,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1171888",
-          "title": "ব্যালিস্টিক ক্ষেপণাস্ত্র হামলায় সৌদি আরবে আহত ২",
-          "snippet": "ব্যালিস্টিক ক্ষেপণাস্ত্র হামলায় সৌদি আরবে আহত ২"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে ব্যালিস্টিক ক্ষেপণাস্ত্রের ধ্বংসাবশেষে আহত দুই",
-        "title_en": "Two Injured in Ballistic Missile Debris Strike in Saudi Arabia",
-        "summary_bn": "সৌদি আরবে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করার পর তার ধ্বংসাবশেষের আঘাতে দুই ব্যক্তি আহত হয়েছেন।",
-        "summary_en": "Two individuals were injured by falling debris after a ballistic missile was intercepted in Saudi Arabia.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T13:57:27+00:00",
-        "lead_bn": "সৌদি আরবে একটি ব্যালিস্টিক ক্ষেপণাস্ত্র প্রতিহত করার পর তার ধ্বংসাবশেষের আঘাতে দুই ব্যক্তি আহত হয়েছেন।",
-        "lead_en": "Two individuals were injured by falling debris after a ballistic missile was intercepted in Saudi Arabia.",
-        "bullets_bn": [
-          "ক্ষেপণাস্ত্র প্রতিহত করার ফলে আকাশে ছড়িয়ে পড়া ধ্বংসাবশেষ জনবহুল এলাকায় গিয়ে পড়ে।",
-          "এই আকস্মিক ঘটনায় দুটি আবাসিক ভবন এবং সাতটি যানবাহন মারাত্মকভাবে ক্ষতিগ্রস্ত হয়।",
-          "নিরাপত্তা বাহিনী তাৎক্ষণিকভাবে ক্ষতিগ্রস্ত এলাকা ঘিরে ফেলে এবং উদ্ধার কার্যক্রম পরিচালনা করে।"
-        ],
-        "bullets_en": [
-          "Scattered debris rained down on populated areas following the mid-air interception of the incoming missile.",
-          "The impact damaged three residential buildings and seven vehicles in the vicinity.",
-          "Security forces swiftly cordoned off the affected zones and launched emergency response operations."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে কর্মরত প্রবাসী বাংলাদেশি এবং স্থানীয় বাসিন্দাদের মধ্যে নতুন করে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Heightened security concerns have emerged among expatriate workers and local residents in the region.",
-        "details_bn": "মধ্যপ্রাচ্যের দেশগুলোতে সাম্প্রতিক সময়ে আকাশ প্রতিরক্ষা ব্যবস্থার কার্যকারিতা বাড়ানো হয়েছে। সীমান্ত পেরিয়ে আসা বিভিন্ন ক্ষেপণাস্ত্র ও ড্রোন হামলা প্রতিহত করতে নিরাপত্তা বাহিনী সজাগ রয়েছে। তবে প্রতিহত করা অস্ত্রের ধ্বংসাবশেষ লোকালয়ে পড়ার কারণে প্রায়ই অবকাঠামোগত ক্ষতি এবং বেসামরিক নাগরিকরা আহত হওয়ার ঝুঁকি তৈরি হচ্ছে।",
-        "details_en": "Air defense capabilities have been heightened across Middle Eastern nations to counter cross-border aerial threats. While interception systems successfully neutralize incoming projectiles, falling debris frequently poses secondary hazards, causing structural damage and civilian injuries in residential sectors."
-      }
-    },
-    {
-      "story_id": "5c6af12f-0ac4-519c-9b13-e81790679410",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fbz1mnlfs%2Fcumilla1.jpg?rect=0%2C81%2C1247%2C655&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T13:33:54+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4965,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/v1lrz13ezm",
-          "title": "একই নারীর সঙ্গে প্রেম, কুমিল্লায় মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার",
-          "snippet": "একই নারীর সঙ্গে প্রেম, কুমিল্লায় মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কুমিল্লায় প্রেমের বিরোধের জেরে মামাকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে গ্রেপ্তার",
-        "title_en": "Nephew Arrested for Stabbing Uncle to Death Over Love Triangle in Comilla",
-        "summary_bn": "কুমিল্লার মুরাদনগরে একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে মিলন মিয়াকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested nephew Milon Mia for allegedly stabbing his uncle Masud Mia to death over a dispute involving a love affair in Comilla.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T13:33:54+00:00",
-        "lead_bn": "কুমিল্লার মুরাদনগরে একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাতে হত্যার ঘটনায় ভাগনে মিলন মিয়াকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested nephew Milon Mia for allegedly stabbing his uncle Masud Mia to death over a dispute involving a love affair in Comilla.",
-        "bullets_bn": [
-          "একই নারীর সঙ্গে প্রেমের সম্পর্কের বিরোধের জেরে মাসুদ মিয়াকে ছুরিকাঘাত করে হত্যা করা হয়।",
-          "নিহত মাসুদ মিয়া ভাঙারি ব্যবসায়ী ছিলেন এবং অভিযুক্ত শিপন মিয়া তাঁর আপন ভাগনে।",
-          "নিহতের বোন বাঙ্গরা বাজার থানায় হত্যা মামলা দায়ের করার পর পুলিশ অভিযুক্তকে গ্রেপ্তার করে।"
-        ],
-        "bullets_en": [
-          "Masud Mia was stabbed to death following a dispute over a romantic relationship with the same woman.",
-          "The victim Masud Mia was a scrap trader and the accused Milon Mia is his own nephew.",
-          "Police arrested the accused after the victim's sister filed a murder case at the Bangora Bazar police station."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নিহতের পরিবারের তথ্য অনুযায়ী, প্রায় দুই বছর আগে এক বিধবা নারীর সঙ্গে মুঠোফোনে মাসুদ মিয়ার প্রেমের সম্পর্ক গড়ে ওঠে। পরবর্তীতে ভাগনে শিপন কৌশলে ওই নারীর নম্বর সংগ্রহ করে নিজের সঙ্গেও সম্পর্ক গড়ে তোলেন, যা নিয়ে মামা-ভাগনের মধ্যে বিরোধ সৃষ্টি হয়। এর জেরে প্রায় ১৫ দিন আগে শিপনকে মারধর করেন মাসুদ মিয়া। এরই ক্ষোভ থেকে এই হত্যাকাণ্ডের ঘটনা ঘটে বলে জানায় পুলিশ ও পরিবার।",
-        "details_en": "According to the victim's family, Masud Mia developed a phone relationship with a widow two years ago. Subsequently, his nephew Milon obtained the woman's number and also started an affair with her, creating a bitter dispute between the uncle and nephew. Masud had assaulted Milon fifteen days prior over the issue, which police and family believe triggered the fatal attack."
-      }
-    },
-    {
-      "story_id": "178f079a-cc5c-5f9c-bdac-997d077ec46c",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T13:29:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4353,
+      "rank_score": 1.7727,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976685/%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A7%A8%E0%A7%AB-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%AE%E0%A7%A6-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B-%E0%A6%8F%E0%A6%A4%E0%A6%BF%E0%A6%AE%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
-          "title": "একসঙ্গে ২৫ জেলে আটক, ৮০ কেজি ইলিশ গেলো এতিমখানায়",
-          "snippet": "একসঙ্গে ২৫ জেলে আটক, ৮০ কেজি ইলিশ গেলো এতিমখানায়"
+          "url": "https://www.banglatribune.com/foreign/middle-east/976723/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A7%80-%E0%A6%AE%E0%A7%81%E0%A6%B8%E0%A6%B2%E0%A6%BF%E0%A6%AE-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "এবার প্রতিবেশী মুসলিম দেশে ইরানের হামলা",
+          "snippet": "এবার প্রতিবেশী মুসলিম দেশে ইরানের হামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চাঁদপুরে মেঘনা নদীতে ইলিশ ধরায় ২৫ জেলে আটক",
-        "title_en": "Twenty five fishermen detained for catching hilsa in Meghna river",
-        "summary_bn": "মা ইলিশ সংরক্ষণের সরকারি নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ ধরার অভিযোগে চাঁদপুরে নৌ পুলিশ পঁচিশ জেলেকে আটক করেছে।",
-        "summary_en": "Naval police detained twenty five fishermen in Chandpur for catching fish in the Meghna river violating government restrictions.",
+        "title_bn": "ইরাকের কুর্দিস্তান অঞ্চলে ইরানি সশস্ত্র বাহিনীর ড্রোন হামলা",
+        "title_en": "Iranian Armed Forces Launch Drone Strikes in Iraq Kurdistan Region",
+        "summary_bn": "ইরানের সশস্ত্র বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে বিরোধী গোষ্ঠীর ঘাঁটিতে ড্রোন হামলা চালিয়েছে।",
+        "summary_en": "The Iranian armed forces launched a drone strike targeting an opposition group base in Iraq's Kurdistan region.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T13:29:06+00:00",
-        "lead_bn": "মা ইলিশ সংরক্ষণের সরকারি নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ ধরার অভিযোগে চাঁদপুরে নৌ পুলিশ পঁচিশ জেলেকে আটক করেছে।",
-        "lead_en": "Naval police detained twenty five fishermen in Chandpur for catching fish in the Meghna river violating government restrictions.",
+        "published_at": "2026-10-25T14:51:59+00:00",
+        "lead_bn": "ইরানের সশস্ত্র বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে বিরোধী গোষ্ঠীর ঘাঁটিতে ড্রোন হামলা চালিয়েছে।",
+        "lead_en": "The Iranian armed forces launched a drone strike targeting an opposition group base in Iraq's Kurdistan region.",
         "bullets_bn": [
-          "মা ইলিশ রক্ষায় নিষেধাজ্ঞা অমান্য করে মেঘনা নদীতে মাছ শিকারের দায়ে পঁচিশ জন জেলেকে আটক করা হয়েছে।",
-          "অভিযানে পাঁচটি মাছ ধরার নৌকা, পনেরো হাজার মিটার জাল এবং ৮০ কেজি ইলিশ মাছ জব্দ করা হয়েছে।",
-          "আটককৃত জেলেদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
+          "ইরানের বিপ্লবী রক্ষীবাহিনীর স্থল বাহিনী ইরাকের কুর্দিস্তান অঞ্চলে ড্রোন হামলা চালিয়েছে।",
+          "হামলায় বালিসান এলাকায় অবস্থিত কোমালার সদর দফতরকে লক্ষ্যবস্তু করা হয়েছে।",
+          "ইরানি গণমাধ্যমের বরাতে সৌদি সংবাদমাধ্যম আল আরাবিয়া এই অভিযানের খবর নিশ্চিত করেছে।"
         ],
         "bullets_en": [
-          "Twenty five fishermen were detained for catching fish in the Meghna river violating the ban on hilsa conservation.",
-          "Five fishing boats, fifteen thousand meters of nets, and eighty kilograms of hilsa fish were seized during the drive.",
-          "Legal procedures are underway against the detained fishermen."
+          "The ground forces of Iran's Islamic Revolutionary Guard Corps carried out drone strikes in Iraq's Kurdistan region.",
+          "The operation specifically targeted the headquarters of the Komala opposition group in the Balisan area.",
+          "Saudi media outlet Al Arabiya confirmed the military operation citing Iranian state media reports."
         ],
-        "impact_bn": "নিয়ম লঙ্ঘন করে ইলিশ শিকার অব্যাহত থাকলে তা সামুদ্রিক মৎস্য সম্পদ এবং জাতীয় উৎপাদনকে ক্ষতিগ্রস্ত করতে পারে।",
-        "impact_en": "Continued illegal hilsa fishing can severely harm marine fisheries and undermine national production targets.",
-        "details_bn": "জাতীয় মাছ ইলিশের প্রজনন নিরাপদ করতে সরকার প্রতি বছর নির্দিষ্ট সময়ে ইলিশ শিকারে নিষেধাজ্ঞা আরোপ করে থাকে। এই সময়কালে মা ইলিশ অবাধে ডিম ছাড়তে পারে এবং দেশের মৎস্য সম্পদ বৃদ্ধি পায়। আইন অমান্যকারীদের বিরুদ্ধে নিয়মিত অভিযান পরিচালনা করে থাকে নৌ পুলিশ ও মৎস্য অধিদপ্তর।",
-        "details_en": "The government imposes seasonal bans on hilsa fishing every year to ensure safe breeding of the national fish. This period allows mother hilsa to spawn freely and helps replenish national fish stocks. Naval police and fisheries departments conduct regular drives against violators of these conservation laws."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইরান দীর্ঘদিন ধরে তাদের ভূখণ্ডের বিরুদ্ধে তৎপর কুর্দি বিরোধী সশস্ত্র গোষ্ঠীগুলোকে সীমান্ত এলাকায় জাতীয় নিরাপত্তার জন্য হুমকি হিসেবে বিবেচনা করে আসছে। এর আগেও তেহরান ইরাকের কুর্দিস্তান অঞ্চলে অবস্থিত বিভিন্ন বিদ্রোহী আস্তানায় একাধিকবার সামরিক অভিযান ও ক্ষেপণাস্ত্র হামলা চালিয়েছে। এই ধরনের সীমান্ত পেরিয়ে সামরিক পদক্ষেপ মধ্যপ্রাচ্যের আঞ্চলিক স্থিতিশীলতা ও দ্বিপক্ষীয় সম্পর্কে নতুন উত্তেজনার সৃষ্টি করে থাকে।",
+        "details_en": "Iran has long considered anti-Iranian Kurdish armed groups operating near its borders as a direct threat to national security. Tehran has previously launched multiple military operations and missile strikes against similar dissident hideouts in Iraq's Kurdistan region. Such cross-border military actions frequently heighten regional tensions and impact bilateral diplomatic relations in the Middle East."
       }
     },
     {
-      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
-      "primary_category": "world_diplomacy",
+      "story_id": "9e843da8-ee20-5971-a70c-9f43372234b8",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
+        "society_education",
         "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-25T14:55:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9173,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1171908",
+          "title": "নোয়াখালীতে পানিতে ডুবে ২ বোনের মৃত্যু",
+          "snippet": "নোয়াখালীতে পানিতে ডুবে ২ বোনের মৃত্যু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নোয়াখালীর সুবর্ণচরে পুকুরের পানিতে ডুবে দুই বোনের মৃত্যু",
+        "title_en": "Two sisters die after drowning in a pond in Noakhali",
+        "summary_bn": "নোয়াখালীর সুবর্ণচরে পুকুরে গোসলে নেমে পানিতে ডুবে দুই শিশুর মৃত্যু হয়েছে।",
+        "summary_en": "Two young sisters drowned while bathing in a pond in Subornachar upazila of Noakhali.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-25T14:55:21+00:00",
+        "lead_bn": "নোয়াখালীর সুবর্ণচরে পুকুরে গোসলে নেমে পানিতে ডুবে দুই শিশুর মৃত্যু হয়েছে।",
+        "lead_en": "Two young sisters drowned while bathing in a pond in Subornachar upazila of Noakhali.",
+        "bullets_bn": [
+          "সুবর্ণচর উপজেলায় পুকুরের পানিতে গোসলে নেমে দুই শিশুর মর্মান্তিক মৃত্যু হয়েছে।",
+          "নিহত শিশুরা হলো ৭ বছরের স্বর্ণা রানী কাহার এবং ৫ বছরের রূপা রানী কাহার যারা সম্পর্কে আপন বোন।",
+          "পরিবারের অগোচরে খেলতে গিয়ে এই দুর্ঘটনা ঘটে যা এলাকায় শোকের ছায়া নেমে এনেছে।"
+        ],
+        "bullets_en": [
+          "Two children tragically died after descending into a pond for a bath in Subornachar upazila.",
+          "The deceased victims are identified as 7-year-old Swarna Rani Kahar and 5-year-old Rupa Rani Kahar, who were sisters.",
+          "The incident occurred unnoticed by family members while the children were playing near the water."
+        ],
+        "impact_bn": "শিশুদের নিরাপত্তায় অভিভাবকদের আরও বেশি সতর্ক থাকার তাগিদ তৈরি হয়েছে।",
+        "impact_en": "This incident highlights the urgent need for increased parental supervision and child water safety awareness.",
+        "details_bn": "সাম্প্রতিক বছরগুলোতে গ্রামীণ জনপদে পানিতে ডুবে শিশু মৃত্যুর ঘটনা উদ্বেগজনকভাবে বৃদ্ধি পেয়েছে। অসচেতনতা এবং পর্যাপ্ত নজরদারির অভাবে প্রায়ই এমন অনাকাঙ্ক্ষিত দুর্ঘটনা ঘটছে, যা প্রতিরোধে বিভিন্ন সচেতনতামূলক কার্যক্রম পরিচালিত হলেও পুরোপুরি রোধ করা সম্ভব হচ্ছে না।",
+        "details_en": "Child drowning incidents in rural ponds and water bodies have emerged as a significant public health concern in Bangladesh. Despite various community awareness initiatives, lack of constant parental supervision continues to result in preventable tragedies among young children."
+      }
+    },
+    {
+      "story_id": "cbb46690-a0f6-5091-a85e-6384e179d8bc",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#RahulGandhi",
-        "#IndiaPolitics",
-        "#VoterList"
+        "#BangladeshEconomy",
+        "#IMF",
+        "#GDP"
       ],
-      "image_url": "https://static.dw.com/image/79568976_6.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP18111291320142-1770666958.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-25T14:00:43.756237+00:00",
+      "published_at": "2026-10-25T14:11:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6887,
+      "importance_score": 3.0,
+      "rank_score": 0.7771,
       "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
+          "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
+          "snippet": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?"
+        },
         {
           "name": "Deutsche Welle World",
           "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
@@ -254,34 +264,34 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নভেম্বরের ১ তারিখ দিল্লির রামলীলা ময়দানে সমাবেশের ডাক রাহুল গান্ধীর",
-        "title_en": "Rahul Gandhi calls for Delhi rally against voter deletions",
-        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী ১ নভেম্বর দিল্লিতে বিশাল প্রতিবাদ সমাবেশের ডাক দিয়েছেন।",
-        "summary_en": "Congress leader Rahul Gandhi urged citizens to join a major protest rally in New Delhi against alleged voter list deletions.",
+        "title_bn": "আন্তর্জাতিক মুদ্রা তহবিলের পূর্বাভাস অনুযায়ী ভারতের চেয়ে বাংলাদেশের মাথাপিছু জিডিপি বেশি হবে",
+        "title_en": "Bangladesh Per Capita GDP Projected to Outstrip India According to IMF",
+        "summary_bn": "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
+        "summary_en": "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:00:43.756237+00:00",
-        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী ১ নভেম্বর দিল্লিতে বিশাল প্রতিবাদ সমাবেশের ডাক দিয়েছেন।",
-        "lead_en": "Congress leader Rahul Gandhi urged citizens to join a major protest rally in New Delhi against alleged voter list deletions.",
+        "published_at": "2026-10-25T14:11:29+00:00",
+        "lead_bn": "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
+        "lead_en": "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
         "bullets_bn": [
-          "ভোটার তালিকা থেকে ভোটারদের নাম বাদ দেওয়ার প্রতিবাদে দেশজুড়ে আন্দোলনের আহ্বান জানিয়েছেন কংগ্রেস নেতা রাহুল গান্ধী।",
-          "শাসক দল বিজেপির বিরুদ্ধে ভোট চুরির অভিযোগ এনে নিয়ম ও আইন ভাঙার কড়া সমালোচনা করেছেন তিনি।",
-          "আগামী ১ নভেম্বর দিল্লির রামলীলা ময়দানে ভোটার বাঁচাও দেশ বাঁচাও শিরোনামে প্রতিবাদ মার্চ ও সমাবেশ অনুষ্ঠিত হবে।"
+          "আন্তর্জাতিক মুদ্রা তহবিলের প্রতিবেদন অনুযায়ী বাংলাদেশের মাথাপিছু জিডিপি ভারতকে ছাড়িয়ে যাওয়ার পূর্বাভাস দেওয়া হয়েছে।",
+          "বাংলাদেশের মাথাপিছু জিডিপি দুই হাজার আটশ ছিয়াশি ডলার এবং ভারতের মাথাপিছু জিডিপি দুই হাজার সাতশ উনপঞ্চাশ ডলার ধরা হয়েছে।",
+          "তৈরি পোশাক শিল্প এবং প্রবাস আয় এই অর্থনৈতিক অগ্রগতিতে বড় ভূমিকা রেখেছে।"
         ],
         "bullets_en": [
-          "Congress leader Rahul Gandhi urged citizens to join a major protest against alleged widespread voter deletions.",
-          "He accused the ruling Bharatiya Janata Party of stealing votes and violating electoral rules and laws.",
-          "The Save the Vote Save the Country march and rally is scheduled for November 1 at Delhi Ramlila Maidan."
+          "Bangladesh per capita gross domestic product is projected to surpass India according to the International Monetary Fund.",
+          "Bangladesh registers a projected per capita GDP of two thousand eight hundred eighty-six dollars compared to India at two thousand seven hundred forty-nine dollars.",
+          "The garment industry and remittances have driven this notable economic progress over recent decades."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে ভোটারদের নাম কেটে ফেলার অভিযোগ তুলে সরব হয়েছেন। তার এই পদক্ষেপ দেশের বিরোধী রাজনীতি এবং নির্বাচনী স্বচ্ছতার দাবিকে নতুন মাত্রা দিয়েছে। ক্ষমতাসীন দলের বিরুদ্ধে নির্বাচনী প্রক্রিয়ায় কারচুপির অভিযোগ এনে সাধারণ নাগরিক, ছাত্র, কৃষক ও শ্রমিকদের নিয়ে আন্দোলন গড়ে তোলার পরিকল্পনা করছে বিরোধী দল।",
-        "details_en": "Congress leader Rahul Gandhi raised concerns over widespread deletions from electoral rolls, accusing the ruling party of manipulating voter lists. The planned protest at Delhi Ramlila Maidan marks a significant push by the opposition to mobilize students, farmers, workers, and youth against alleged electoral irregularities."
+        "impact_bn": "উচ্চ মূল্যস্ফীতি ও ধীরগতির প্রবৃদ্ধি সাধারণ মানুষের জীবনযাত্রার ওপর অর্থনৈতিক চাপ সৃষ্টি করছে।",
+        "impact_en": "High inflation and slowing growth are putting ongoing economic progress under pressure for ordinary citizens.",
+        "details_bn": "আন্তর্জাতিক মুদ্রা তহবিলের বিশ্ব অর্থনৈতিক দৃষ্টিভঙ্গি প্রতিবেদনে এই প্রাক্কলন প্রকাশ করা হয়েছে। বিশাল জনসংখ্যার বিপরীতে মাথাপিছু হিসাব অনুযায়ী বাংলাদেশের অর্থনীতি দক্ষিণ এশিয়ায় উল্লেখযোগ্য সাফল্য অর্জন করেছে। তবে ক্রয়ক্ষমতার সমতা বা পিপিপির হিসেবে ভারতের অবস্থান এখনও এগিয়ে রয়েছে। মূলত তৈরি পোশাক খাত, রেমিট্যান্স এবং নারী শ্রমশক্তির অংশগ্রহণের ওপর ভর করে এই প্রবৃদ্ধি অর্জিত হয়েছে।",
+        "details_en": "The projection is highlighted in the International Monetary Fund World Economic Outlook report. While India maintains a significantly larger total economy, Bangladesh achieves a higher per capita figure due to population dynamics. The country economic rise has been significantly propelled by its multi-billion dollar garment sector, steady remittances, and increasing participation of women in the workforce, although high inflation remains a persistent challenge."
       }
     },
     {
@@ -295,16 +305,16 @@
       ],
       "region": "international",
       "tags": [
-        "#SaudiArabia",
         "#ArtificialIntelligence",
+        "#SaudiArabia",
         "#Houthi"
       ],
       "image_url": "https://static.dw.com/image/78307185_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T14:00:43.756237+00:00",
+      "published_at": "2026-10-25T15:00:48.311644+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6887,
+      "rank_score": 0.6883,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -315,9 +325,9 @@
       ],
       "daily_buzz": {
         "title_bn": "ইয়েমেনের হুথি হামলা মোকাবিলায় সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তাভিত্তিক প্রযুক্তি দিচ্ছে যুক্তরাষ্ট্র",
-        "title_en": "United States Provides Artificial Intelligence Targeting Tools to Saudi Arabia Amid Houthi Attacks",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলা করতে সৌদি আরবকে গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণী প্রযুক্তি সরবরাহ করছে যুক্তরাষ্ট্র।",
-        "summary_en": "The United States is providing Saudi Arabia with intelligence and artificial intelligence targeting tools to counter attacks from Houthi rebels in Yemen.",
+        "title_en": "United States Provides Artificial Intelligence Targeting Tool to Help Saudi Arabia Combat Houthi Attacks",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলায় যুক্তরাষ্ট্র সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা প্রদান করছে।",
+        "summary_en": "The United States is providing artificial intelligence targeting tools and intelligence support to help Saudi Arabia counter Houthi attacks.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -327,23 +337,23 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T14:00:43.756237+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলা করতে সৌদি আরবকে গোয়েন্দা তথ্য ও কৃত্রিম বুদ্ধিমত্তাভিত্তিক লক্ষ্য নির্ধারণী প্রযুক্তি সরবরাহ করছে যুক্তরাষ্ট্র।",
-        "lead_en": "The United States is providing Saudi Arabia with intelligence and artificial intelligence targeting tools to counter attacks from Houthi rebels in Yemen.",
+        "published_at": "2026-10-25T15:00:48.311644+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীদের হামলা মোকাবিলায় যুক্তরাষ্ট্র সৌদি আরবকে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি ও গোয়েন্দা সহায়তা প্রদান করছে।",
+        "lead_en": "The United States is providing artificial intelligence targeting tools and intelligence support to help Saudi Arabia counter Houthi attacks.",
         "bullets_bn": [
-          "সৌদি আরবের সামরিক সহায়তা চাওয়ার পর যুক্তরাষ্ট্র দেশটিতে কৃত্রিম বুদ্ধিমত্তাভিত্তিক টার্গেটিং টুল সরবরাহ করেছে",
-          "যুক্তরাষ্ট্রের প্রজেক্ট ম্যাভেনের আওতাধীন এমএসএস সিস্টেম রিয়েল-টাইমে যুদ্ধক্ষেত্রের পরিস্থিতি পর্যবেক্ষণ করতে সহায়তা করে",
-          "সৌদি আরবে মোতায়েনকৃত এক থেকে দুইশ মার্কিন সেনা যৌথ কমান্ডের মাধ্যমে এই প্রযুক্তি পরিচালনায় সহায়তা করছে"
+          "যুক্তরাষ্ট্র সৌদি আরবকে যুদ্ধক্ষেত্রের রিয়েল-টাইম দৃশ্য পর্যবেক্ষণের জন্য একটি এআই-ভিত্তিক টার্গেটিং টুল সরবরাহ করেছে",
+          "যুক্তরাষ্ট্রের প্রজেক্ট ম্যাভেনের আওতাধীন এমএসএস সিস্টেমটি স্যাটেলাইট ও ড্রোন ফিড বিশ্লেষণ করে সম্ভাব্য সামরিক লক্ষ্যবস্তু চিহ্নিত করে",
+          "সৌদি আরবে প্রায় একশ থেকে দুইশ মার্কিন সেনা যৌথ কমান্ডের অংশ হিসেবে এই প্রযুক্তি পরিচালনায় সহায়তা করছে"
         ],
         "bullets_en": [
-          "The United States supplied artificial intelligence targeting tools to Saudi Arabia following requests for security assistance",
-          "The US-backed system utilizes Project Maven technology to help military officers analyze battlefield conditions in real time",
-          "Between 100 and 200 US personnel are deployed in Saudi Arabia to facilitate the joint command operations"
+          "The United States has supplied Saudi Arabia with an AI-enabled targeting tool to view battlefield activities in real-time.",
+          "The MSS system, originating from the US Project Maven, analyzes satellite and drone feeds to identify potential military targets.",
+          "Between 100 and 200 US personnel are stationed in Saudi Arabia as part of a joint force command to facilitate the technology."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের লাগাতার সামরিক হামলার মুখে সৌদি আরব তার মিত্র দেশগুলোর সহায়তা চেয়েছিল। যদিও মার্কিন প্রশাসন সরাসরি সামরিক হস্তক্ষেপ করতে অস্বীকার করে, তবে গোয়েন্দা তথ্য এবং অত্যাধুনিক কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি সরবরাহের মাধ্যমে সামরিক সহযোগিতা অব্যাহত রেখেছে। প্রজেক্ট ম্যাভেনের অংশ হিসেবে বিকশিত এই ডিজিটাল প্ল্যাটফর্মটি যুদ্ধক্ষেত্রের নজরদারি উপাত্ত বিশ্লেষণ করে সম্ভাব্য লক্ষ্যবস্তু চিহ্নিত করতে সহায়তা করে।",
-        "details_en": "Faced with persistent military attacks from Houthi rebels in neighboring Yemen, Saudi Arabia sought assistance from international allies. While the United States declined direct military intervention, Washington deployed personnel and provided advanced artificial intelligence software to enhance battlefield intelligence. Developed under the US military's Project Maven, the platform processes surveillance data to identify potential tactical targets in real time."
+        "details_bn": "সৌদি আরব ইয়েমেনের হুথি বিদ্রোহীদের তীব্র সামরিক চাপের মুখে মিত্র দেশগুলোর সহায়তা চেয়েছে। মার্কিন প্রেসিডেন্ট সরাসরি সামরিক হস্তক্ষেপে অস্বীকৃতি জানালেও, যুক্তরাষ্ট্র যৌথ কমান্ডের মাধ্যমে গোয়েন্দা তথ্য ও উন্নত কৃত্রিম বুদ্ধিমত্তা প্রযুক্তি সরবরাহ করছে। এই প্রযুক্তির মূল ভিত্তি হলো প্রজেক্ট ম্যাভেনের এমএসএস সিস্টেম, যা স্যাটেলাইট ও ড্রোন চিত্রের মাধ্যমে রিয়েল-টাইমে লক্ষ্যবস্তু শনাক্ত করতে সক্ষম।",
+        "details_en": "Saudi Arabia sought assistance from international allies amid persistent military pressure from Houthi militants in Yemen. While the US declined direct military intervention, Washington deployed between 100 and 200 personnel to provide intelligence and facilitate an AI-enabled targeting tool similar to the Maven Smart System, which processes satellite and drone data to identify battlefield targets."
       }
     }
   ]
