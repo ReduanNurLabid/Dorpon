@@ -1,180 +1,12 @@
 {
-  "updated_at": "2026-10-26T05:00:43.714283",
+  "updated_at": "2026-10-26T06:00:48.675756",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "2e961f3f-8574-5bc8-908c-667f0d89a3f7",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T04:56:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8559,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172011",
-          "title": "রিয়াদ বিমানবন্দর ও সৌদির তেল পাইপলাইনে ফের হুথির হামলা",
-          "snippet": "রিয়াদ বিমানবন্দর ও সৌদির তেল পাইপলাইনে ফের হুথির হামলা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদির রিয়াদ বিমানবন্দর ও তেল পাইপলাইনে হুথিদের হামলা",
-        "title_en": "Yemen Houthi Rebels Launch Attacks on Riyadh Airport and Saudi Oil Pipeline",
-        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও গুরুত্বপূর্ণ ইস্ট-ওয়েস্ট তেল পাইপলাইনে নতুন করে হামলা চালিয়েছে।",
-        "summary_en": "Yemen Houthi rebels launched renewed attacks targeting Riyadh airport and a vital east-west oil pipeline in Saudi Arabia.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:56:21+00:00",
-        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও গুরুত্বপূর্ণ ইস্ট-ওয়েস্ট তেল পাইপলাইনে নতুন করে হামলা চালিয়েছে।",
-        "lead_en": "Yemen Houthi rebels launched renewed attacks targeting Riyadh airport and a vital east-west oil pipeline in Saudi Arabia.",
-        "bullets_bn": [
-          "সৌদির রিয়াদ বিমানবন্দর এবং ইস্ট-ওয়েস্ট তেল পাইপলাইন লক্ষ্য করে হামলা চালায় হুথি বিদ্রোহীরা।",
-          "সৌদি জোট বাহিনী ইয়েমেনের নিক্ষিপ্ত একটি ক্ষেপণাস্ত্র সাফল্যের সাথে প্রতিহত করার দাবি জানিয়েছে।",
-          "এই হামলার ফলে মধ্যপ্রাচ্যের জ্বালানি সরবরাহ ও আঞ্চলিক নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Yemen Houthi rebels targeted Riyadh airport and the vital east-west oil pipeline with armed attacks.",
-          "The Saudi-led coalition forces claimed they successfully intercepted and destroyed an incoming missile.",
-          "The attack has raised fresh concerns regarding regional security and Middle East energy supplies."
-        ],
-        "impact_bn": "এই হামলার ফলে বৈশ্বিক জ্বালানি বাজারে তেলের দামের অস্থিরতা বৃদ্ধি পেতে পারে।",
-        "impact_en": "The attacks could trigger volatility in global energy markets and fuel prices.",
-        "details_bn": "ইয়েমেনের হুথি আন্দোলন দীর্ঘদিন ধরে সৌদি নেতৃত্বাধীন জোটের সামরিক হস্তক্ষেপের বিরুদ্ধে লড়াই চালিয়ে আসছে। এর আগেও সৌদির তেল শোধনাগার ও জ্বালানি অবকাঠামো লক্ষ্য করে একাধিক ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়েছে গোষ্ঠীটি। মধ্যপ্রাচ্যের চলমান এই সংঘাত আঞ্চলিক জ্বালানি সরবরাহ ও আন্তর্জাতিক বাণিজ্যের জন্য বড় ধরনের হুমকি সৃষ্টি করে চলেছে।",
-        "details_en": "Yemen's Houthi movement has been locked in a prolonged conflict against the Saudi-led military coalition. The group has repeatedly targeted Saudi oil infrastructure and airports with drones and missiles. This ongoing Middle East friction continues to pose significant threats to global energy supplies and international shipping lanes."
-      }
-    },
-    {
-      "story_id": "9cd02be8-f9e1-5307-8fc7-76a9c66c4dd8",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/trump-8.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-26T04:37:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5512,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/trump-has-stepped-back-from-the-decision-to-attack-iran/",
-          "title": "ইরানে হামলার সিদ্ধান্ত থেকে সরে এলেন ট্রাম্প",
-          "snippet": "ইরানে হামলার সিদ্ধান্ত থেকে সরে এলেন ট্রাম্প"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানে সামরিক অভিযান চালানোর সিদ্ধান্ত থেকে সরে এলেন ডোনাল্ড ট্রাম্প",
-        "title_en": "Donald Trump Abandons Plan for Immediate Military Strike on Iran",
-        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, তেহরানের বিরুদ্ধে আপাতত কোনো সামরিক অভিযান চালানোর পরিকল্পনা নেই যুক্তরাষ্ট্রের।",
-        "summary_en": "US President Donald Trump announced that the United States currently has no plans to launch a military strike against Iran.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:37:55+00:00",
-        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, তেহরানের বিরুদ্ধে আপাতত কোনো সামরিক অভিযান চালানোর পরিকল্পনা নেই যুক্তরাষ্ট্রের।",
-        "lead_en": "US President Donald Trump announced that the United States currently has no plans to launch a military strike against Iran.",
-        "bullets_bn": [
-          "ইরানে নতুন করে কোনো সামরিক হামলা চালানো হবে না বলে স্পষ্টভাবে নিশ্চিত করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
-          "হরমুজ প্রণালির নিয়ন্ত্রণ যুক্তরাষ্ট্রের হাতে রয়েছে এবং ইরান সেখান থেকে কিছুই পাচ্ছে না বলে দাবি করেছেন ট্রাম্প।",
-          "নভেম্বরের শুরুর দিকে অনুষ্ঠেয় মার্কিন মধ্যবর্তী নির্বাচনের আগে এই হামলা স্থগিত রাখার ঘোষণা দেওয়া হলো।"
-        ],
-        "bullets_en": [
-          "US President Donald Trump explicitly confirmed that no new military attacks will be launched against Iran.",
-          "Trump claimed that the Strait of Hormuz is under US control and Iran is getting nothing from there.",
-          "The suspension of strikes comes ahead of the US mid-term elections scheduled for early November."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "এর আগে যুক্তরাষ্ট্র ও ইসরায়েল যৌথভাবে ইরানে বড় ধরনের সামরিক অভিযান পরিচালনা করেছিল। পরবর্তীতে দুই দেশের মধ্যে স্বল্প সময়ের জন্য যুদ্ধবিরতি কার্যকর হলেও তা শেষ পর্যন্ত স্থায়ী হয়নি। বর্তমান পরিস্থিতির প্রেক্ষাপটে ট্রাম্প তেহরানের সঙ্গে একটি চুক্তির সম্ভাবনার পাশাপাশি সামরিক পদক্ষেপের হুমকিও দিয়ে আসছিলেন।",
-        "details_en": "Previously, the US and Israel jointly launched a major military operation in Iran. Although a brief ceasefire was implemented later, it did not last. Against this backdrop, Trump had previously oscillated between threatening military action and hinting at a potential agreement with Tehran."
-      }
-    },
-    {
-      "story_id": "c5e7e8cf-bced-5ea1-97f0-8b137566989d",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F7pfzf1hr%2FKing-Khalid-Airport.webp?rect=0%2C15%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T04:28:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4309,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/l7k9kvcssu",
-          "title": "রিয়াদের কিং খালিদ বিমানবন্দরে আবার ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি হুতিদের",
-          "snippet": "রিয়াদের কিং খালিদ বিমানবন্দরে আবার ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি হুতিদের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুতিদের ক্ষেপণাস্ত্র হামলার দাবি",
-        "title_en": "Houthis Claim Ballistic Missile Attack on Riyadh Airport in Saudi Arabia",
-        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি করেছে।",
-        "summary_en": "Yemeni Houthi rebels claim to have launched a ballistic missile attack on King Khalid International Airport in Riyadh.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:28:45+00:00",
-        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি করেছে।",
-        "lead_en": "Yemeni Houthi rebels claim to have launched a ballistic missile attack on King Khalid International Airport in Riyadh.",
-        "bullets_bn": [
-          "ইয়েমেনের সশস্ত্র গোষ্ঠী হুতি রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
-          "হুতি মুখপাত্র ইয়াহিয়া সারি সৌদি আরবের তেল পাম্পিং স্টেশনগুলোয় ড্রোন হামলারও দাবি করেছেন।",
-          "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের সানায় ক্ষেপণাস্ত্র উৎক্ষেপণ কেন্দ্রে বিমান হামলা চালিয়েছে।"
-        ],
-        "bullets_en": [
-          "Yemeni Houthi rebels launched a targeted ballistic missile attack on King Khalid International Airport in Riyadh.",
-          "Houthi spokesperson Yahya Saree also claimed drone attacks on crude oil pumping stations in eastern and western Saudi Arabia.",
-          "The Saudi-led coalition retaliated by launching airstrikes on missile launch sites in the Yemeni capital of Sanaa."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে চলমান এই সংঘাতে জ্বালানি সরবরাহ ব্যাহত হওয়ার আশঙ্কা রয়েছে।",
-        "impact_en": "Escalating regional tensions and potential disruptions to crude oil supply chains may impact global markets.",
-        "details_bn": "ইয়েমেনের ইরানপন্থী হুতি গোষ্ঠী বেশ কিছুদিন ধরে সৌদি আরবের বিভিন্ন বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে ধারাবাহিক হামলা চালিয়ে আসছে। এর জবাবে সৌদি নেতৃত্বাধীন জোট ইয়েমেনে নিয়মিত বিমান হামলা পরিচালনা করছে। এই দীর্ঘস্থায়ী আঞ্চলিক সংঘাতে দুই পক্ষের পাল্টাপাল্টি হামলায় মধ্যপ্রাচ্যের নিরাপত্তা পরিস্থিতি ক্রমশ জটিল হয়ে উঠছে।",
-        "details_en": "Yemen's Iran-backed Houthi movement has repeatedly targeted airports, oil facilities, and military bases across Saudi Arabia. In response, the Saudi-led coalition conducts regular airstrikes against Houthi positions in Yemen. This protracted regional conflict continues to escalate tensions and threatens energy supply infrastructure in the Middle East."
-      }
-    },
-    {
-      "story_id": "20b9ba4b-611f-58f6-a923-50a73bb3f9b4",
+      "story_id": "cd74f1f6-7108-5c95-9be4-0954266a962a",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -183,51 +15,217 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T04:59:29+00:00",
+      "published_at": "2026-10-26T05:39:21+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9592,
+      "importance_score": 4.8,
+      "rank_score": 1.5708,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976791/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3",
-          "title": "প্রেমের প্রস্তাবে রাজি না হওয়ায় ছাত্রীকে অপহরণ, মাদ্রাসার পরিচালকের বিরুদ্ধে মামলা",
-          "snippet": "প্রেমের প্রস্তাবে রাজি না হওয়ায় ছাত্রীকে অপহরণ, মাদ্রাসার পরিচালকের বিরুদ্ধে মামলা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172028",
+          "title": "সাজেক অবরোধের পঞ্চম দিন, সংকট নিরসনে চলছে বৈঠক",
+          "snippet": "সাজেক অবরোধের পঞ্চম দিন, সংকট নিরসনে চলছে বৈঠক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রেমের প্রস্তাব প্রত্যাখ্যান করায় মাদ্রাসার ছাত্রীকে অপহরণের অভিযোগে মামলা",
-        "title_en": "Case filed against madrasa director for abducting student over rejected proposal",
-        "summary_bn": "গাজীপুরে প্রেমের প্রস্তাব প্রত্যাখ্যাত হওয়ায় অষ্টম শ্রেণির এক ছাত্রীকে অপহরণের অভিযোগে মাদ্রাসার পরিচালকসহ পাঁচজনের বিরুদ্ধে মামলা হয়েছে।",
-        "summary_en": "Five individuals including a madrasa director have been sued for allegedly abducting an eighth-grade student after she rejected a romantic proposal.",
+        "title_bn": "সাজেকে অনির্দিষ্টকালের সড়ক অবরোধের পঞ্চম দিন চলমান",
+        "title_en": "Fifth Day of Indefinite Road Blockade Continues in Sajek",
+        "summary_bn": "সশস্ত্র সদস্যদের অপসারণের দাবিতে রাঙামাটির সাজেকে টানা পঞ্চম দিনের মতো অনির্দিষ্টকালের সড়ক অবরোধ পালিত হচ্ছে।",
+        "summary_en": "An indefinite road blockade enters its fifth consecutive day in Sajek demanding the removal of armed members.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:59:29+00:00",
-        "lead_bn": "গাজীপুরে প্রেমের প্রস্তাব প্রত্যাখ্যাত হওয়ায় অষ্টম শ্রেণির এক ছাত্রীকে অপহরণের অভিযোগে মাদ্রাসার পরিচালকসহ পাঁচজনের বিরুদ্ধে মামলা হয়েছে।",
-        "lead_en": "Five individuals including a madrasa director have been sued for allegedly abducting an eighth-grade student after she rejected a romantic proposal.",
+        "published_at": "2026-10-26T05:39:21+00:00",
+        "lead_bn": "সশস্ত্র সদস্যদের অপসারণের দাবিতে রাঙামাটির সাজেকে টানা পঞ্চম দিনের মতো অনির্দিষ্টকালের সড়ক অবরোধ পালিত হচ্ছে।",
+        "lead_en": "An indefinite road blockade enters its fifth consecutive day in Sajek demanding the removal of armed members.",
         "bullets_bn": [
-          "ছাত্রীর বাবা জয়দেবপুর থানায় মাদ্রাসার পরিচালকসহ পাঁচজনকে আসামি করে অপহরণ মামলা দায়ের করেছেন।",
-          "প্রধান আসামি হিসেবে মাদ্রাসার পরিচালক ও প্রধান শিক্ষক আরিফুল ইসলামসহ তার পরিবারের চার সদস্যকে অভিযুক্ত করা হয়েছে।",
-          "পুলিশ আসামিদের গ্রেপ্তারে অভিযান চালাচ্ছে এবং অপহৃত ছাত্রীকে উদ্ধারের চেষ্টা অব্যাহত রয়েছে।"
+          "সশস্ত্র সদস্যদের অপসারণসহ পাঁচ দফা দাবিতে সড়ক অবরোধ অব্যাহত রয়েছে।",
+          "বাঘাইছড়ি উপজেলার সাজেক এলাকায় এই অবরোধ কর্মসূচি চলছে।",
+          "সংকট নিরসনে সংশ্লিষ্ট কর্তৃপক্ষের সাথে বৈঠক চলছে।"
         ],
         "bullets_en": [
-          "The student's father filed an abduction case at Joydebpur police station naming five individuals.",
-          "Madrasa director and headteacher Ariful Islam and four of his family members have been accused.",
-          "Police are conducting drives to arrest the accused and rescue the abducted student."
+          "The road blockade continues over a five-point demand including the removal of armed members.",
+          "The blockade program is underway in the Sajek area of Baghaichhari upazila.",
+          "Meetings are ongoing with relevant authorities to resolve the crisis."
         ],
-        "impact_bn": "এই ঘটনা নারী নিরাপত্তা ও শিক্ষাপ্রতিষ্ঠানে ছাত্রীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।",
-        "impact_en": "This incident raises serious concerns regarding the safety of female students and educational institutional accountability.",
-        "details_bn": "গাজীপুর সদর উপজেলায় অষ্টম শ্রেণির এক ছাত্রীকে প্রেমের প্রস্তাবে রাজি না হওয়ায় অপহরণের অভিযোগ উঠেছে। এ ঘটনায় ছাত্রীর বাবা জয়দেবপুর থানায় প্রধান শিক্ষক ও মাদ্রাসার পরিচালক আরিফুল ইসলামসহ পাঁচজনের বিরুদ্ধে মামলা করেন। পুলিশ ভুক্তভোগীকে উদ্ধার এবং অভিযুক্তদের আইনের আওতায় আনতে তদন্ত ও অভিযান চালাচ্ছে।",
-        "details_en": "An eighth-grade student was allegedly abducted in Gazipur sadar upazila after she refused a romantic proposal from a madrasa director. The victim's father filed a formal case at Joydebpur police station accusing the headteacher Ariful Islam and four others. Law enforcement is currently investigating the matter and conducting drives to rescue the student and arrest the suspects."
+        "impact_bn": "অবরোধের কারণে সাজেকগামী পর্যটক ও স্থানীয় সাধারণ মানুষের যাতায়াত ব্যাহত হচ্ছে।",
+        "impact_en": "The blockade is disrupting transportation for tourists and local residents heading towards Sajek.",
+        "details_bn": "রাঙামাটির বাঘাইছড়ি উপজেলার সাজেক পর্যটন এলাকায় দীর্ঘদিন ধরে স্থানীয় বিভিন্ন বিষয় ও নিরাপত্তা নিয়ে উত্তেজনা বিরাজ করছে। সশস্ত্র সদস্যদের অপসারণ এবং স্থানীয় বাসিন্দাদের অধিকার সুরক্ষার দাবিতে বিভিন্ন পক্ষ থেকে পাঁচ দফা দাবি উত্থাপন করা হয়েছে। এর আগে বিভিন্ন কর্মসূচি পালিত হলেও দাবি আদায় না হওয়ায় অনির্দিষ্টকালের সড়ক অবরোধের ডাক দেওয়া হয়, যা বর্তমানে পাঁচ দিনে গড়িয়েছে। সংকট নিরসনে প্রশাসন ও স্থানীয় প্রতিনিধিদের মধ্যে আলোচনা চলছে।",
+        "details_en": "Tensions regarding local security and administrative issues have persisted in the Sajek tourist area of Baghaichhari upazila in Rangamati. A five-point demand, including the removal of armed members and protection of residents' rights, has been raised by local groups. With previous programs failing to yield results, an indefinite road blockade was called, which has now entered its fifth day. Discussions between the administration and local representatives are underway to resolve the ongoing crisis."
       }
     },
     {
-      "story_id": "bb11323e-4451-5c26-9182-ffce664c46a8",
+      "story_id": "ed06c4a6-7bdb-5943-956b-d0e906c0aeec",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A6-%E0%A6%AC%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%93-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%9C%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B0.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-26T05:33:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4864,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/another-attack-on-riyadh-airport-saudi-led-coalition-launches-counter-operation/",
+          "title": "রিয়াদ বিমানবন্দরে আবারও হামলা, পাল্টা অভিযান সৌদি জোটের",
+          "snippet": "রিয়াদ বিমানবন্দরে আবারও হামলা, পাল্টা অভিযান সৌদি জোটের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুতি বিদ্রোহীদের ক্ষেপণাস্ত্র হামলা ও জোটের পাল্টা অভিযান",
+        "title_en": "Yemeni Houthi rebels target Riyadh airport with ballistic missiles prompting Saudi coalition airstrikes",
+        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও তেল স্থাপনায় ক্ষেপণাস্ত্র ও ড্রোন হামলা চালায় এবং এর জবাবে সৌদি জোট পাল্টা বিমান অভিযান পরিচালনা করে।",
+        "summary_en": "Yemeni Houthi rebels launched missile and drone attacks on Riyadh airport and oil facilities, prompting retaliatory airstrikes by the Saudi-led coalition.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T05:33:12+00:00",
+        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও তেল স্থাপনায় ক্ষেপণাস্ত্র ও ড্রোন হামলা চালায় এবং এর জবাবে সৌদি জোট পাল্টা বিমান অভিযান পরিচালনা করে।",
+        "lead_en": "Yemeni Houthi rebels launched missile and drone attacks on Riyadh airport and oil facilities, prompting retaliatory airstrikes by the Saudi-led coalition.",
+        "bullets_bn": [
+          "সৌদি জোট ইয়েমেনের সানায় অভিযান চালিয়ে হুতিদের দুটি ব্যালিস্টিক ক্ষেপণাস্ত্র উৎক্ষেপণ মঞ্চ ধ্বংস করে।",
+          "হুতি মুখপাত্র ইয়াহিয়া সারি সৌদি আরবের কিং খালিদ বিমানবন্দর ও তেল পাম্পিং স্টেশনে হামলার দাবি করেন।",
+          "সৌদি জোট হুতিদের সামরিক সক্ষমতা কমাতে অস্ত্রাগার ও ক্ষেপণাস্ত্র সংরক্ষণের সুড়ঙ্গে বিমান হামলা অব্যাহত রেখেছে।"
+        ],
+        "bullets_en": [
+          "The Saudi-led coalition destroyed two Houthi ballistic missile launch pads in Sanaa during retaliatory military operations.",
+          "Houthi military spokesman Yahya Saree claimed responsibility for attacks on Riyadh airport and oil pumping stations.",
+          "The coalition continues airstrikes targeting Houthi weapon depots, tunnels, and supply routes to diminish their military capabilities."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুতি বিদ্রোহী এবং সৌদি নেতৃত্বাধীন সামরিক জোটের মধ্যে দীর্ঘদিনের সংঘাতের ধারাবাহিকতায় এই হামলা ও পাল্টা হামলার ঘটনা ঘটে। হুতিরা দীর্ঘদিন ধরে সৌদি আরবের বিভিন্ন কৌশলগত লক্ষ্যবস্তুতে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এর জবাবে সৌদি জোট ইয়েমেনের বিভিন্ন অঞ্চলে বিদ্রোহী অবস্থান ও সামরিক অবকাঠামো লক্ষ্য করে নিয়মিত বিমান হামলা চালিয়ে আসলেও এই সংঘাতের স্থায়ী কোনো রাজনৈতিক সমাধান এখনও অর্জিত হয়নি।",
+        "details_en": "The attacks and counter-attacks reflect the ongoing protracted conflict between the Houthi movement and the Saudi-led coalition. Houthis frequently target Saudi infrastructure with drones and missiles, while the coalition responds with airstrikes targeting rebel military capabilities in Yemen, keeping regional tensions persistently high."
+      }
+    },
+    {
+      "story_id": "de40bb56-45a5-5d85-91cf-3dd6ffd4b5f4",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T05:17:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3019,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172018",
+          "title": "উচ্ছেদ অভিযানের সময় নাসিক প্রশাসকের ওপর হকারদের হামলার চেষ্টা",
+          "snippet": "উচ্ছেদ অভিযানের সময় নাসিক প্রশাসকের ওপর হকারদের হামলার চেষ্টা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নারায়ণগঞ্জে উচ্ছেদ অভিযানের সময় নাসিক প্রশাসকের ওপর হকারদের হামলার চেষ্টা",
+        "title_en": "Hawkers Attempt Attack on Narayanganj City Corporation Administrator During Eviction Drive",
+        "summary_bn": "নারায়ণগঞ্জ সিটি কর্পোরেশনের উচ্ছেদ অভিযান চলাকালে হকাররা প্রশাসকের ওপর হামলার চেষ্টা চালায়।",
+        "summary_en": "Hawkers attempted to attack the Narayanganj City Corporation administrator during an ongoing eviction drive.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T05:17:20+00:00",
+        "lead_bn": "নারায়ণগঞ্জ সিটি কর্পোরেশনের উচ্ছেদ অভিযান চলাকালে হকাররা প্রশাসকের ওপর হামলার চেষ্টা চালায়।",
+        "lead_en": "Hawkers attempted to attack the Narayanganj City Corporation administrator during an ongoing eviction drive.",
+        "bullets_bn": [
+          "অবৈধ দখল উচ্ছেদের সময় হকারদের একটি দল প্রশাসকের ওপর চড়াও হয়",
+          "ঘটনার পর এলাকায় উত্তেজনা ছড়িয়ে পড়ে এবং অতিরিক্ত আইনশৃঙ্খলা রক্ষাকারী বাহিনী মোতায়েন করা হয়",
+          "শহরের ফুটপাথ দখলমুক্ত রাখতে এবং যানজট নিরসনে অভিযান অব্যাহত রাখার ঘোষণা দিয়েছে কর্তৃপক্ষ"
+        ],
+        "bullets_en": [
+          "A group of hawkers confronted and attempted to attack the administrator during the unauthorized encroachment clearance.",
+          "Tension escalated in the area following the incident, prompting the deployment of additional law enforcement personnel.",
+          "Authorities announced that eviction drives will continue to keep footpaths free from illegal occupation and ease traffic congestion."
+        ],
+        "impact_bn": "ফুটপাথ দখলমুক্ত হওয়ায় সাধারণ পথচারীদের চলাচল কিছুটা সহজ হলেও হকারদের সাথে সংঘর্ষের ঘটনায় জনমনে আতঙ্ক তৈরি হয়েছে।",
+        "impact_en": "While clearing footpaths eases pedestrian movement, clashes with hawkers create temporary panic among local commuters and citizens.",
+        "details_bn": "দীর্ঘদিন ধরে নারায়ণগঞ্জ শহরের প্রধান সড়ক ও ফুটপাথ অবৈধভাবে দখল করে ব্যবসা পরিচালনা করে আসছে একটি হকার চক্র। এর ফলে তীব্র যানজট ও সাধারণ পথচারীদের চলাচলে চরম ভোগান্তি সৃষ্টি হয়। এই পরিস্থিতি নিয়ন্ত্রণে নারায়ণগঞ্জ সিটি কর্পোরেশন নিয়মিত উচ্ছেদ অভিযান পরিচালনা করে আসছে। সাম্প্রতিক সময়ে ফুটপাথ হকারমুক্ত রাখার এই প্রচেষ্টার অংশ হিসেবে অভিযান চালাতে গিয়ে প্রশাসনের সাথে হকারদের এই উত্তেজনাকর পরিস্থিতির সৃষ্টি হয়।",
+        "details_en": "Hawkers have long occupied major roads and footpaths in Narayanganj city illegally, causing severe traffic congestion and hardship for pedestrians. To restore order, the Narayanganj City Corporation routinely conducts eviction drives. The latest confrontation occurred as the administration tried to enforce footpath clearance, highlighting ongoing tensions between municipal authorities and street vendors over urban public space management."
+      }
+    },
+    {
+      "story_id": "e6fd2d5a-2beb-51fb-9e99-de4f723643b5",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T06:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9639,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/columns/976703/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%8B%E0%A6%9C%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%A6%E0%A6%BE%E0%A6%AC%E0%A6%BF-%E2%80%98%E0%A6%AF%E0%A7%8C%E0%A6%A4%E0%A7%81%E0%A6%95%E2%80%99",
+          "title": "ব্যবসার প্রয়োজনে স্ত্রীর কাছে অর্থ দাবি ‘যৌতুক’ নয়, অতঃপর",
+          "snippet": "ব্যবসার প্রয়োজনে স্ত্রীর কাছে অর্থ দাবি ‘যৌতুক’ নয়, অতঃপর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্যবসার পুঁজির জন্য স্ত্রীর পরিবারের কাছে অর্থ দাবি যৌতুকের অন্তর্ভুক্ত",
+        "title_en": "Demanding Business Capital from Wife Family Constitutes Dowry",
+        "summary_bn": "ব্যবসায়িক পুঁজি সংগ্রহের জন্য স্ত্রীর পরিবারের কাছে অর্থ দাবি করাও আইনিভাবে যৌতুকের সংজ্ঞার অন্তর্ভুক্ত।",
+        "summary_en": "Demanding money from a wife family for business capital legally falls under the definition of dowry.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T06:00:00+00:00",
+        "lead_bn": "ব্যবসায়িক পুঁজি সংগ্রহের জন্য স্ত্রীর পরিবারের কাছে অর্থ দাবি করাও আইনিভাবে যৌতুকের সংজ্ঞার অন্তর্ভুক্ত।",
+        "lead_en": "Demanding money from a wife family for business capital legally falls under the definition of dowry.",
+        "bullets_bn": [
+          "ব্যবসায় বিনিয়োগের জন্য স্ত্রীর বাবার কাছে আট লাখ টাকা দাবি করেন এক ব্যবসায়ী স্বামী।",
+          "কম সুন্দর পাত্রী হওয়ায় বিনা যৌতুকে বিয়ে হলেও দুই মাস পর থেকে শুরু হয় আর্থিক দাবি।",
+          "টাকা না দেওয়ায় স্ত্রীর ওপর পারিবারিক চাপ ও মানসিক নিপীড়ন বাড়তে থাকে।"
+        ],
+        "bullets_en": [
+          "A businessman husband demanded eight lakh taka from his father-in-law for business investment.",
+          "Despite marrying without dowry due to physical appearance, financial demands began two months later.",
+          "Family pressure and mental harassment on the wife escalated following the refusal to pay."
+        ],
+        "impact_bn": "এই রায় নারীদের সুরক্ষায় পারিবারিক নির্যাতন ও যৌতুকের বিরুদ্ধে আইনি পদক্ষেপ গ্রহণে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "impact_en": "This legal stance plays a vital role in protecting women against domestic abuse and unlawful dowry demands.",
+        "details_bn": "লাকীর বিয়ের এক বছর পর শ্বশুরবাড়িতে তার ওপর আর্থিক দাবির কারণে চাপ শুরু হয়। বিয়ের পর মাত্র দুই মাস কাটতেই নিম্ন মধ্যবিত্ত বাবার কাছে ব্যবসার মূলধন চেয়ে নানাভাবে চাপ সৃষ্টি করা হয়। স্বামীর ব্যবসায়িক প্রয়োজনের অজুহাতে এ ধরনের অর্থ দাবি শেষ পর্যন্ত পারিবারিক সহিংসতা ও মানসিক নির্যাতনের রূপ নেয়, যা সমাজে নারীর আইনি সুরক্ষার প্রশ্নটিকে তীব্রভাবে সামনে নিয়ে আসে।",
+        "details_en": "Pressure began on Lucky at her in-laws' home one year after her marriage due to financial demands. Just two months into the marriage, demands for business capital were repeatedly placed on her lower-middle-class father. Such financial demands under the guise of business needs ultimately translated into domestic violence and mental abuse, bringing the issue of women legal protection to the forefront."
+      }
+    },
+    {
+      "story_id": "f2e44388-a948-597f-bb8c-0af53ae9b7c6",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -235,29 +233,29 @@
       ],
       "region": "international",
       "tags": [
-        "#ChinaPolitics",
-        "#XiJinping",
-        "#CommunistParty"
+        "#RahulGandhi",
+        "#IndiaElections",
+        "#Congress"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/dczace/article71625641.ece/alternates/LANDSCAPE_1200/China_Party_Meeting_44_68.jpg",
+      "image_url": "https://static.dw.com/image/79568976_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T04:38:42+00:00",
+      "published_at": "2026-10-26T06:00:48.675765+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.5533,
+      "rank_score": 0.6888,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
-          "title": "China’s Communist Party elite hold key talks on governance",
-          "snippet": "China’s Communist Party elite hold key talks on governance"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+          "snippet": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীনের কমিউনিস্ট পার্টির অভিজাতদের গুরুত্বপূর্ণ শাসন বিষয়ক বৈঠক শুরু",
-        "title_en": "Chinese Communist Party Elites Open Key Governance Talks",
-        "summary_bn": "চীনের প্রেসিডেন্ট শি জিনপিংয়ের নেতৃত্বে কমিউনিস্ট পার্টির তিন শ সদস্যের কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম বৈঠক শুরু হয়েছে।",
-        "summary_en": "Chinese President Xi Jinping opened a key plenum meeting of ruling Communist Party elites in Beijing.",
+        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নভেম্বরের ১ তারিখ বিক্ষোভের ডাক রাহুলের",
+        "title_en": "Rahul Gandhi Urges Protest Against Voter Deletions and Announces November Rally",
+        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে একটি বিশাল বিক্ষোভ মিছিলের আহ্বান জানিয়েছেন।",
+        "summary_en": "Congress leader Rahul Gandhi urged citizens to join a massive protest march in New Delhi against electoral roll deletions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -265,82 +263,78 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:38:42+00:00",
-        "lead_bn": "চীনের প্রেসিডেন্ট শি জিনপিংয়ের নেতৃত্বে কমিউনিস্ট পার্টির তিন শ সদস্যের কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম বৈঠক শুরু হয়েছে।",
-        "lead_en": "Chinese President Xi Jinping opened a key plenum meeting of ruling Communist Party elites in Beijing.",
+        "published_at": "2026-10-26T06:00:48.675765+00:00",
+        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন দিল্লিতে একটি বিশাল বিক্ষোভ মিছিলের আহ্বান জানিয়েছেন।",
+        "lead_en": "Congress leader Rahul Gandhi urged citizens to join a massive protest march in New Delhi against electoral roll deletions.",
         "bullets_bn": [
-          "চীনের প্রেসিডেন্ট শি জিনপিং কমিউনিস্ট পার্টির কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম অধিবেশন আনুষ্ঠানিকভাবে উদ্বোধন করেছেন",
-          "বৈঠকে দলীয় শৃঙ্খলা জোরদার দুর্নীতি হ্রাস এবং ক্যাডারদের আরও অনুগত করার কৌশলগত পরিকল্পনা উপস্থাপন করা হয়েছে",
-          "চার দিনব্যাপী এই গোপন বৈঠক থেকে আগামীতে দলীয় নেতৃত্ব ও ভবিষ্যৎ দিকনির্দেশনা সম্পর্কিত চূড়ান্ত সিদ্ধান্ত আসতে পারে"
+          "ভোটার তালিকা থেকে নাম বাদ দেওয়া এবং নিয়ম লঙ্ঘনের অভিযোগ তুলে দেশজুড়ে আন্দোলন গড়ে তোলার আহ্বান জানিয়েছেন রাহুল গান্ধী।",
+          "আগামী নভেম্বরের এক তারিখে দিল্লির রামলীলা ময়দানে সেভ দ্য ভোট সেভ দ্য কান্ট্রি শিরোনামে এই প্রতিবাদ মিছিল ও সমাবেশ অনুষ্ঠিত হবে।",
+          "শাসক দল বিজেপির বিরুদ্ধে ভোট চুরির গুরুতর অভিযোগ এনে ছাত্র, কৃষক, শ্রমিক, নারী ও ব্যবসায়ীদের এই কর্মসূচিতে যোগ দেওয়ার আহ্বান জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Chinese President Xi Jinping officially inaugurated the fifth plenum meeting of the ruling Communist Party Central Committee",
-          "A draft decision was presented to tighten party discipline reduce corruption and make cadres more loyal and effective",
-          "The closed-door gathering concludes after four days with expected insights into future party leadership and direction"
+          "Rahul Gandhi called for nationwide protests alleging widespread deletions and rule violations in electoral rolls.",
+          "The Save the Vote Save the Country march and rally is planned at New Delhi Ramlila Maidan on November 1.",
+          "The opposition leader accused the ruling BJP of stealing votes and urged students, farmers, and workers to join."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চীনের ক্ষমতাসীন কমিউনিস্ট পার্টির কেন্দ্রীয় কমিটির এই সভাটি পঞ্চম প্লেনাম নামে পরিচিত। প্রায় ৩০০ সদস্যের এই বৈঠকে দলীয় শৃঙ্খলা বজায় রাখা এবং দুর্নীতির বিরুদ্ধে কঠোর ব্যবস্থা নেওয়ার ওপর বিশেষ জোর দেওয়া হচ্ছে। কঠোর নিরাপত্তার মধ্য দিয়ে অনুষ্ঠিত এই বন্ধ দরজা বৈঠকের পূর্ণাঙ্গ সিদ্ধান্ত ও ফলাফল সাধারণত অধিবেশন সমাপ্তির পরই প্রকাশ করা হয়। আসন্ন পার্টির জাতীয় কংগ্রেসের আগে এই বৈঠককে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন আন্তর্জাতিক বিশ্লেষকরা।",
-        "details_en": "The fifth plenum of the Chinese Communist Party's Central Committee brings together roughly 300 elites in Beijing under tight security. The high-level gathering focuses heavily on tightening party discipline, curbing corruption, and boosting cadre loyalty. Few concrete details are typically released until the conclusion of the multi-day session, which serves as a crucial precursor to upcoming party congresses and major leadership decisions."
+        "impact_bn": "নির্বাচনী প্রক্রিয়ার স্বচ্ছতা এবং নাগরিকদের ভোটাধিকার সুরক্ষার এই আন্দোলন রাজনৈতিক অঙ্গনে তীব্র উত্তাপ সৃষ্টি করতে পারে।",
+        "impact_en": "This voter rights mobilization directly concerns citizens regarding the transparency of democratic elections and voting integrity.",
+        "details_bn": "ভারতের বিরোধী দলগুলো দীর্ঘদিন ধরে নির্বাচনী প্রক্রিয়া এবং ইভিএম নিয়ে বিভিন্ন প্রশ্ন তুলে আসছে। সাম্প্রতিক সময়ে ভোটার তালিকা থেকে ভোটারদের নাম বাদ পড়ার অভিযোগ জোরালো হওয়ায় কংগ্রেস নেতৃত্ব এই আন্দোলন ও জনসমাবেশের ডাক দিয়েছে। গণতন্ত্র ও ভোটাধিকার রক্ষাকে সামনে রেখে এই কর্মসূচিকে বিরোধী শিবিরের বড় রাজনৈতিক শক্তি প্রদর্শনের মাধ্যম হিসেবে দেখা হচ্ছে।",
+        "details_en": "Indian opposition parties have repeatedly raised concerns regarding electoral integrity and transparency. Recent allegations of widespread voter list manipulation prompted Congress leadership to organize this major public mobilization in New Delhi, aiming to challenge the ruling party on democratic rights."
       }
     },
     {
-      "story_id": "2d455290-9a25-5b6f-8544-dcb58ed2219e",
-      "primary_category": "world_diplomacy",
+      "story_id": "0b4f1e87-4d67-5832-91de-99138a5631d4",
+      "primary_category": "society_education",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "climate_environment"
+        "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#BrazilElection",
-        "#Bolsonaro"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-25%2Fpef21s46%2FUntitled-2.jpg?rect=0%2C36%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T04:38:16+00:00",
+      "published_at": "2026-10-26T05:29:03+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5511,
+      "importance_score": 2.4,
+      "rank_score": 0.7169,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-          "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-          "snippet": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula w"
+          "name": "প্রথম আলো",
+          "url": "https://nagorik.prothomalo.com/durporobash/bad2vd9ozs",
+          "title": "মাঝ বয়সের সংস্কৃতি",
+          "snippet": "মাঝ বয়সের সংস্কৃতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্রাজিলের নির্বাচন ফলাফল মেনে নিতে অস্বীকৃতি ফ্ল্যাভিও বলসোনারোর",
-        "title_en": "Flavio Bolsonaro Refuses to Concede Brazilian Election Results",
-        "summary_bn": "ব্রাজিলের ফার রাইট সিনেটর ফ্ল্যাভিও বলসোনারো নির্বাচন ফলাফল মেনে নেওয়া অসম্ভব ঘোষণা করে ভোট বাতিলের আইনি পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন।",
-        "summary_en": "Far right Brazilian senator Flavio Bolsonaro declared it impossible to concede election results and announced legal steps for annulment.",
+        "title_bn": "জন্ম থেকে মৃত্যু পর্যন্ত মানুষের অস্তিত্ব এবং জীবনের দার্শনিক বাস্তবতা",
+        "title_en": "Human Existence and the Philosophical Reality of Life from Birth to Death",
+        "summary_bn": "মহাকালের ক্ষুদ্র পরিসরে মানুষের জীবন, সামাজিক বৈষম্য, অমরত্বের প্রচেষ্টা এবং অনিবার্য মৃত্যুর বাস্তবতায় আবর্তিত হয়।",
+        "summary_en": "Human life revolves around a brief existence in eternity, social disparities, the pursuit of immortality, and the reality of inevitable death.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "climate_environment"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:38:16+00:00",
-        "lead_bn": "ব্রাজিলের ফার রাইট সিনেটর ফ্ল্যাভিও বলসোনারো নির্বাচন ফলাফল মেনে নেওয়া অসম্ভব ঘোষণা করে ভোট বাতিলের আইনি পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন।",
-        "lead_en": "Far right Brazilian senator Flavio Bolsonaro declared it impossible to concede election results and announced legal steps for annulment.",
+        "published_at": "2026-10-26T05:29:03+00:00",
+        "lead_bn": "মহাকালের ক্ষুদ্র পরিসরে মানুষের জীবন, সামাজিক বৈষম্য, অমরত্বের প্রচেষ্টা এবং অনিবার্য মৃত্যুর বাস্তবতায় আবর্তিত হয়।",
+        "lead_en": "Human life revolves around a brief existence in eternity, social disparities, the pursuit of immortality, and the reality of inevitable death.",
         "bullets_bn": [
-          "ফ্ল্যাভিও বলসোনারো ভোট ফলাফল মেনে না নিয়ে নির্বাচন বাতিলের জন্য আইনি লড়াইয়ের ঘোষণা দেন",
-          "সুপ্রিম কোর্টের বিচারপতি ক্রিস্টিয়ানো জানিনের ভোটগ্রহণ সময় বাড়ানোর সিদ্ধান্তকে অগ্রহণযোগ্য বলে অভিযোগ করেন তিনি",
-          "নির্বাচনী বিধি লঙ্ঘনের অভিযোগ এনে তার আইনি দল ফলাফল চ্যালেঞ্জ করার প্রক্রিয়া শুরু করেছে"
+          "সভ্যতা ও বিজ্ঞান আবিষ্কারের মাধ্যমে মানুষ প্রকৃতি থেকে নিজেদের ক্রমশ বিচ্ছিন্ন করে তুলেছে।",
+          "অমরত্ব লাভের আকাঙ্ক্ষায় মানুষ সাহিত্য, সংস্কৃতি, বিজ্ঞান ও নানা চিকিৎসা পদ্ধতি উদ্ভাবন করেছে।",
+          "মৃত্যুর পর মানুষের সকল অর্জন ও উদ্‌যাপন অর্থহীন হয়ে যায় এবং সমাজ দ্রুত মৃতকে ভুলে যায়।"
         ],
         "bullets_en": [
-          "Flavio Bolsonaro refused to concede the election results and announced legal efforts seeking annulment.",
-          "He claimed Supreme Court Justice Cristiano Zanin's decision to extend voting hours was unacceptable.",
-          "His legal team has initiated processes to challenge the outcome citing procedural alterations."
+          "Humans have increasingly distanced themselves from nature through the creation of civilization and science.",
+          "Driven by a desire for immortality, humans invented literature, culture, science, and medical treatments.",
+          "After death, all human achievements and celebrations become meaningless as society quickly forgets the deceased."
         ],
-        "impact_bn": "বহির্দেশের এই রাজনৈতিক অস্থিরতা বৈশ্বিক গণতান্ত্রিক স্থিতিশীলতা এবং দক্ষিণ আমেরিকার কূটনৈতিক সম্পর্কে প্রভাব ফেলতে পারে।",
-        "impact_en": "This political instability abroad could impact global democratic stability and diplomatic relations within South America.",
-        "details_bn": "ব্রাজিলের এই রাজনৈতিক পরিস্থিতি সাবেক প্রেসিডেন্ট জাইর বলসোনারোর আগের বিতর্কিত আচরণের ধারাবাহিকতা। বামপন্থী লুডার বিজয়ের পর থেকেই বলসোনারো শিবির বিভিন্ন আইনি ও রাজনৈতিক প্রক্রিয়ায় নির্বাচনের বৈধতা নিয়ে প্রশ্ন তুলে আসছে, যা দেশটির রাজনৈতিক মেরুকরণকে আরও তীব্র করে তুলেছে।",
-        "details_en": "This political situation in Brazil echoes the previous controversial behavior of former president Jair Bolsonaro. Following the victory of leftist leader Lula, the Bolsonaro camp has repeatedly questioned the legitimacy of the election through various legal and political avenues, intensifying political polarization."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মানুষের জন্ম থেকে মৃত্যু পর্যন্ত জীবনের গতিপ্রকৃতি, বৈচিত্র্য এবং অর্জনের অন্তরালে লুকিয়ে থাকা দার্শনিক ও অস্তিত্ববাদী সংকটের কথা এই নিবন্ধে উঠে এসেছে। সভ্যতা টিকিয়ে রাখতে মানুষ নানা উদ্ভাবন ও সংস্কৃতির জন্ম দিলেও প্রকৃতির নিয়ম ও মৃত্যুর অনিবার্যতার কাছে সবাই অসহায়। জীবনের এই ক্ষুদ্র পরিধিতে মানুষ নানা বৈষম্য ও জটিলতার মুখোমুখি হয়, যা শেষ পর্যন্ত মৃত্যুর মধ্য দিয়ে সমাপ্ত হয়।",
+        "details_en": "This essay explores the philosophical and existential crisis hidden behind the nature, diversity, and achievements of human life from birth to death. Despite creating various innovations and cultures to sustain civilization, humans remain helpless against the laws of nature and the inevitability of death. Within this brief span of life, humans face various disparities and complexities, which ultimately conclude with death."
       }
     }
   ]
