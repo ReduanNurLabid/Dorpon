@@ -1,121 +1,178 @@
 {
-  "updated_at": "2026-10-26T12:12:02.236672",
+  "updated_at": "2026-10-26T13:00:48.140762",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a8e3fd5d-e0ed-55a7-baba-b2765ac15e46",
-      "primary_category": "world_diplomacy",
+      "story_id": "440cb5bb-b860-56a3-9bdc-79d8ec17b072",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Flvs3phy2%2FMunshigonjDH071020261026IMG-20261026-WA0047.jpg?rect=0%2C32%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T12:03:56+00:00",
+      "published_at": "2026-10-26T12:38:09+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.4566,
+      "rank_score": 2.1354,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172210",
-          "title": "যুক্তরাজ্যকে ফের ইইউতে দেখতে চাই: ব্রিটিশ প্রধানমন্ত্রী",
-          "snippet": "যুক্তরাজ্যকে ফের ইইউতে দেখতে চাই: ব্রিটিশ প্রধানমন্ত্রী"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/bangladesh/district/4kx60xcrhu",
+          "title": "নিজেদের লোককে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে বিএনপি: নাহিদ ইসলাম",
+          "snippet": "নিজেদের লোককে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে বিএনপি: নাহিদ ইসলাম"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে দেখতে চান ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম",
-        "title_en": "British Politician Andy Burnham Expresses Desire for UK Rejoining EU",
-        "summary_bn": "ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার পক্ষে তার অবস্থান ব্যক্ত করেছেন।",
-        "summary_en": "British politician Andy Burnham has stated his desire to see the United Kingdom rejoin the European Union.",
+        "title_bn": "নিজস্ব লোক তত্ত্বাবধায়ক সরকারের প্রধান করতে বিএনপি ষড়যন্ত্র করছে বলে নাহিদ ইসলামের অভিযোগ",
+        "title_en": "Nahid Islam Accuses BNP of Plotting to Place Loyalists as Caretaker Chief",
+        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি নিজেদের লোক তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে।",
+        "summary_en": "National Citizen Party convener Nahid Islam accused the BNP of plotting to install its own loyalist as caretaker government head.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:03:56+00:00",
-        "lead_bn": "ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার পক্ষে তার অবস্থান ব্যক্ত করেছেন।",
-        "lead_en": "British politician Andy Burnham has stated his desire to see the United Kingdom rejoin the European Union.",
+        "published_at": "2026-10-26T12:38:09+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি নিজেদের লোক তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে।",
+        "lead_en": "National Citizen Party convener Nahid Islam accused the BNP of plotting to install its own loyalist as caretaker government head.",
         "bullets_bn": [
-          "যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নে দেখতে চাওয়ার ইচ্ছা প্রকাশ করেছেন ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম।",
-          "এ বিষয়ে চূড়ান্ত সিদ্ধান্ত সম্পূর্ণভাবে ব্রিটিশ জনগণের নিজেদের নেওয়া উচিত বলে মন্তব্য করেছেন তিনি।",
-          "ব্রেক্সিটের পর দেশটির ভবিষ্যৎ বাণিজ্যিক ও রাজনৈতিক সম্পর্ক নিয়ে নতুন করে এই আলোচনা শুরু হয়েছে।"
+          "বিএনপি তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা পদে নিজেদের লোক বসানোর পরিকল্পনা করছে বলে এনসিপি আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেন।",
+          "নাহিদ ইসলাম অভিযোগ করেন যে বিএনপি এই কৌশলের মাধ্যমে আগামী নির্বাচন সুষ্ঠু হতে বাধা সৃষ্টি করতে চাইছে।",
+          "তিনি বিএনপিকে এই পরিকল্পনা থেকে সরে এসে র‍্যাঙ্ক চয়েস সিস্টেমের ভিত্তিতে তত্ত্বাবধায়ক সরকার ফর্মুলা বাস্তবায়নের আহ্বান জানান।"
         ],
         "bullets_en": [
-          "British politician Andy Burnham expressed his desire for the UK to return to the European Union.",
-          "He emphasized that the final decision regarding this matter should rest entirely with the British public.",
-          "This discussion reignites debates over the country post-Brexit commercial and political relations."
+          "NCP convener Nahid Islam alleged that the BNP is planning to install its loyalist as the caretaker government head.",
+          "Islam claimed that the BNP is using this strategy to obstruct the fairness of upcoming elections.",
+          "He urged the BNP to abandon this plan and implement a caretaker formula based on the rank-choice system."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ব্রেক্সিটের মাধ্যমে ২০২০ সালে ইউরোপীয় ইউনিয়ন ত্যাগ করে যুক্তরাজ্য। এর ফলে দুই পক্ষের বাণিজ্যে ও চলাচলে বিভিন্ন নিষেধাজ্ঞা ও জটিলতা তৈরি হয়। দীর্ঘমেয়াদে এই সিদ্ধান্তের অর্থনৈতিক ও সামাজিক প্রভাব নিয়ে দেশটিতে এখনো নানা মহলে বিতর্ক চলছে। অর্থনীতি ও কূটনৈতিক সম্পর্কের উন্নতির স্বার্থে যুক্তরাজ্য ইইউতে ফিরবে কি না, তা নিয়ে বিভিন্ন সময় রাজনীতিকরা নিজেদের মতামত প্রকাশ করে আসছেন।",
-        "details_en": "The United Kingdom formally left the European Union in 2020 following the Brexit referendum, leading to trade barriers and mobility restrictions. The long-term economic and social impacts of this departure continue to spark debate across the country. Politicians periodically voice opinions on whether rejoining the EU would benefit the nation long-term economic and diplomatic standing."
+        "impact_bn": "নির্বাচন ব্যবস্থা ও রাজনৈতিক স্থিতিশীলতা নিয়ে রাজনৈতিক দলগুলোর এই বিরোধ সাধারণ জনগণের মাঝে নির্বাচন প্রক্রিয়া নিয়ে অনিশ্চয়তা তৈরি করছে।",
+        "impact_en": "Political friction over the caretaker framework creates uncertainty among citizens regarding future election integrity.",
+        "details_bn": "মুন্সিগঞ্জে অনুষ্ঠিত একটি মতবিনিময় সভায় জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম দেশের চলমান রাজনৈতিক পরিস্থিতি, সংবিধান সংস্কার এবং নির্বাচন ব্যবস্থা নিয়ে তীব্র সমালোচনা করেন। তিনি বিএনপিকে একদলীয় সংবিধান সংশোধন কমিটি গঠনের জন্য অভিযুক্ত করেন এবং অভিযোগ করেন যে দলটি জুলাই শর্ত লঙ্ঘন করছে। পাশাপাশি তিনি স্থানীয় সরকারের সুষ্ঠু নির্বাচন নিয়ে সন্দেহ প্রকাশ করে নির্বাচন কমিশনে রাজনৈতিক প্রভাবের কথা তুলে ধরেন।",
+        "details_en": "During a view-exchange meeting in Munshiganj, National Citizen Party convener Nahid Islam criticized the political landscape, constitutional reforms, and the electoral framework. He accused the BNP of forming a unilateral constitutional amendment committee and violating July conditions. Furthermore, he expressed skepticism over fair local government elections, citing alleged political influence within the election commission."
       }
     },
     {
-      "story_id": "c86a778c-c895-543b-9cd6-cf014f3a0914",
+      "story_id": "c96b0bea-8363-5910-a100-2333c21fec03",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-10%2F62723491-53d5-495c-b3ec-0a2431d51190%2Fchild_abuse.png?rect=0%2C159%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T12:42:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6154,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/mpa5d8ja06",
+          "title": "ঘর থেকে তুলে নিয়ে ১০ বছরের শিশুকে ধর্ষণের অভিযোগ, একজন গ্রেপ্তার",
+          "snippet": "ঘর থেকে তুলে নিয়ে ১০ বছরের শিশুকে ধর্ষণের অভিযোগ, একজন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কিশোরগঞ্জের নিকলীতে ১০ বছরের শিশুকে ধর্ষণের অভিযোগে প্রতিবেশী গ্রেপ্তার",
+        "title_en": "Neighbor Arrested in Kishoreganj for Alleged Rape of Ten-Year-Old Child",
+        "summary_bn": "কিশোরগঞ্জের নিকলীতে ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী এক মাদ্রাসার ছাত্রীকে ধর্ষণের অভিযোগে এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested a man in Kishoreganj's Nikli for allegedly abducting and raping a ten-year-old madrasa student from her home.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T12:42:25+00:00",
+        "lead_bn": "কিশোরগঞ্জের নিকলীতে ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী এক মাদ্রাসার ছাত্রীকে ধর্ষণের অভিযোগে এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested a man in Kishoreganj's Nikli for allegedly abducting and raping a ten-year-old madrasa student from her home.",
+        "bullets_bn": [
+          "ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী শিশুকে ধর্ষণের অভিযোগে আঙুর মিয়া নামের এক ব্যক্তিকে আটক করে পুলিশ।",
+          "ভুক্তভোগী শিশুটির মা বাদী হয়ে নিকলী থানায় নারী ও শিশু নির্যাতন দমন আইনে একটি মামলা দায়ের করেন।",
+          "অভিযুক্ত ব্যক্তিকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে এবং ভুক্তভোগী শিশুকে পরীক্ষার জন্য জেলা সদরে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Police detained a man named Angur Mia following allegations of abducting and raping a ten-year-old child from her home.",
+          "The victim's mother filed a rape case against the accused at the Nikli police station under the women and children repression prevention act.",
+          "The accused was sent to jail through the court, and the victim was sent to the district headquarters for medical examination."
+        ],
+        "impact_bn": "এই ধরনের জঘন্য অপরাধ শিশুদের নিরাপত্তা ও অভিভাবকদের মধ্যে তীব্র উদ্বেগের সৃষ্টি করে, যা দ্রুত বিচার নিশ্চিত করার দাবি জোরালো করে।",
+        "impact_en": "Such heinous crimes heighten safety concerns among parents and amplify public demands for swift justice and child protection.",
+        "details_bn": "কিশোরগঞ্জ জেলার নিকলী উপজেলায় ঘর থেকে তুলে নিয়ে এক মাদ্রাসার পঞ্চম শ্রেণির ছাত্রীকে ধর্ষণের ঘটনা ঘটে। ঘটনার সময় শিশুটির বাবা হাওরে মাছ ধরতে গিয়েছিলেন এবং মা ঢাকায় অবস্থান করছিলেন। প্রতিবেশী আঙুর মিয়া দরজা খোলার সুযোগ নিয়ে শিশুটিকে তুলে নিয়ে ধর্ষণ করেন। স্থানীয়রা টের পেয়ে অভিযুক্ত ব্যক্তিকে হাতেনাতে ধরে পুলিশের হাতে সোপর্দ করেন। পরে থানা-পুলিশের হস্তক্ষেপে তাকে গ্রেপ্তার দেখিয়ে আদালতে পাঠানো হয়।",
+        "details_en": "The incident took place in Nikli upazila of Kishoreganj district, where a fifth-grade madrasa student was abducted from her home and raped. At the time of the incident, the victim's father was fishing in the haor and her mother was in Dhaka. Neighbor Angur Mia took advantage of the situation after the child opened the door, abducted her, and committed the crime. Locals caught the accused red-handed and handed him over to the police, who subsequently arrested him and sent him to court."
+      }
+    },
+    {
+      "story_id": "cb65936f-19d0-5be5-a4dc-1a8d72428690",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "tech_innovation"
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/PM-Tarique-3.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-26T12:00:10+00:00",
+      "published_at": "2026-10-26T11:54:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.3659,
+      "rank_score": 1.5091,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976879/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E2%80%98%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A7%80-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%80%E2%80%99-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A7%9F",
-          "title": "বাংলাদেশে ‘প্রযুক্তি ও উদ্ভাবনী নগরী’ প্রতিষ্ঠায় জাপানের সহযোগিতা চাইলেন প্রধানমন্ত্রী",
-          "snippet": "বাংলাদেশে ‘প্রযুক্তি ও উদ্ভাবনী নগরী’ প্রতিষ্ঠায় জাপানের সহযোগিতা চাইলেন প্রধানমন্ত্রী"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-minister-seeks-significant-cooperation-from-japan-for-development-and-energy-security/",
+          "title": "উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চান প্রধানমন্ত্রী",
+          "snippet": "উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চান প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশে প্রযুক্তি ও উদ্ভাবনী নগরী গড়তে জাপানের সহযোগিতা চেয়েছেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Seeks Japanese Support to Build Technology Hub in Bangladesh",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশে একটি প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman urged Japan to help establish a technology and innovation hub in Bangladesh during a meeting in Tokyo.",
+        "title_bn": "বাংলাদেশের উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চাইলেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Seeks Greater Japanese Support for Bangladesh Development and Energy Security",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান বাংলাদেশের উন্নয়ন অগ্রাধিকার বাস্তবায়ন ও জ্বালানি নিরাপত্তা নিশ্চিত করতে জাপানকে সহযোগিতা অব্যাহত রাখার আহ্বান জানিয়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman urged Japan to continue its cooperation in implementing Bangladesh development priorities and ensuring energy security.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "tech_innovation"
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:00:10+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশে একটি প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman urged Japan to help establish a technology and innovation hub in Bangladesh during a meeting in Tokyo.",
+        "published_at": "2026-10-26T11:54:24+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান বাংলাদেশের উন্নয়ন অগ্রাধিকার বাস্তবায়ন ও জ্বালানি নিরাপত্তা নিশ্চিত করতে জাপানকে সহযোগিতা অব্যাহত রাখার আহ্বান জানিয়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman urged Japan to continue its cooperation in implementing Bangladesh development priorities and ensuring energy security.",
         "bullets_bn": [
-          "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্টের সাথে দ্বিপক্ষীয় বৈঠকে এই প্রস্তাব উত্থাপন করা হয়",
-          "প্রস্তাবটির বিষয়ে প্রধানমন্ত্রীর উপ প্রেস সচিব শাহাদাৎ স্বাধীন বিস্তারিত তথ্য গণমাধ্যমকে জানান",
-          "উভয় দেশের মধ্যে প্রযুক্তিগত সহযোগিতা বাড়াতে পরবর্তী রূপরেখা নিয়ে আলোচনা চলছে"
+          "প্রধানমন্ত্রী জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশের উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের সহযোগিতা চেয়েছেন",
+          "বাংলাদেশ-জাপান দক্ষতা উন্নয়ন অংশীদারত্ব গড়ে তোলার পাশাপাশি প্রযুক্তি ও উদ্ভাবন নগরী প্রতিষ্ঠার প্রস্তাব দেওয়া হয়েছে",
+          "চলমান বৃহৎ উন্নয়ন প্রকল্পগুলো নির্ধারিত সময়ের মধ্যে শেষ করার এবং সহজ শর্তে ঋণসহায়তা বাড়ানোর ওপর গুরুত্ব দেওয়া হয়েছে"
         ],
         "bullets_en": [
-          "The proposal was raised during a bilateral meeting with the president of the Japan International Cooperation Agency",
-          "Deputy Press Secretary Shahadat Swadhin officially confirmed the details of the discussion",
-          "Both sides are currently discussing the framework to enhance bilateral technological cooperation"
+          "The Prime Minister sought Japanese cooperation for Bangladesh development and energy security during a meeting with the JICA President.",
+          "Proposals were made to establish a Bangladesh-Japan Skills Partnership and a Technological Village and Innovation City.",
+          "Emphasis was placed on completing ongoing major development projects on time and increasing concessional loan assistance."
         ],
-        "impact_bn": "এই সহযোগিতা বাস্তবায়িত হলে দেশের তরুণ প্রজন্মের জন্য নতুন প্রযুক্তিভিত্তিক কর্মসংস্থান ও আধুনিক সুযোগ তৈরি হবে।",
-        "impact_en": "Successful implementation of this partnership will create modern tech-based employment opportunities for the youth.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের অর্থনৈতিক ও কূটনৈতিক সম্পর্ক রয়েছে। এর অংশ হিসেবে বিভিন্ন মেগা প্রকল্পে জাইকা দীর্ঘকাল ধরে অর্থায়ন ও কারিগরি সহায়তা প্রদান করে আসছে। নতুন এই প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার উদ্যোগ উভয় দেশের দ্বিপক্ষীয় সম্পর্ককে আরও সুদৃঢ় করবে এবং দেশের আইসিটি খাতকে বৈশ্বিক মানে উন্নীত করতে সহায়তা করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Japan and Bangladesh share a longstanding bilateral and economic partnership, with JICA historically funding major infrastructure and development projects. This new initiative to establish a technology hub aims to further strengthen diplomatic ties and elevate the country's ICT sector to global standards."
+        "impact_bn": "জাপানি বিনিয়োগ ও কারিগরি সহযোগিতার প্রসারের ফলে দেশে নতুন কর্মসংস্থান সৃষ্টি এবং প্রযুক্তি খাতের বিকাশ ত্বরান্বিত হবে।",
+        "impact_en": "Expansion of Japanese investment and technical cooperation will create new employment opportunities and accelerate tech sector growth.",
+        "details_bn": "জাপান দীর্ঘকাল ধরে বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার হিসেবে অবকাঠামো উন্নয়ন, অর্থায়ন ও কারিগরি সহায়তায় গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। দুই দেশের এই দ্বিপক্ষীয় অংশীদারত্ব দেশের অর্থনৈতিক অগ্রগতি ও রূপান্তরে বিশেষ অবদান রেখে চলেছে। জাইকার সাথে চলমান বিভিন্ন বৃহৎ প্রকল্প এবং নতুন প্রস্তাবিত প্রযুক্তি নগরী ও দক্ষতা উন্নয়ন কর্মসূচি এই সম্পর্ককে আরও দৃঢ় করবে।",
+        "details_en": "Japan has long been a major development partner of Bangladesh, playing a crucial role in infrastructure development, financing, and technical assistance. This bilateral partnership continues to contribute significantly to the country's economic progress and transformation. Ongoing major projects with JICA and newly proposed initiatives like the tech city and skills program will further strengthen this relationship."
       }
     },
     {
-      "story_id": "b8c6e760-87ac-50e7-8566-80c98aa4bb48",
+      "story_id": "2c0edc5f-693c-503f-93f6-9f15fc99860b",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -127,220 +184,166 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T12:10:48+00:00",
+      "published_at": "2026-10-26T12:16:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9595,
+      "importance_score": 4.8,
+      "rank_score": 1.2881,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/976880/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%B2-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E2%80%99",
-          "title": "আইনশৃঙ্খলা রক্ষায় ব্যর্থতার ঢাল হিসেবে ‘ক্রসফায়ার’ বিপজ্জনক বার্তা: টিআইবি",
-          "snippet": "আইনশৃঙ্খলা রক্ষায় ব্যর্থতার ঢাল হিসেবে ‘ক্রসফায়ার’ বিপজ্জনক বার্তা: টিআইবি"
+          "url": "https://www.banglatribune.com/law-and-crime/976882/%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE",
+          "title": "খালেদা জিয়ার গাড়িবহরে হামলা: শ্রমিকলীগ নেতা সোহাগের ৩ দিনের রিমান্ড",
+          "snippet": "খালেদা জিয়ার গাড়িবহরে হামলা: শ্রমিকলীগ নেতা সোহাগের ৩ দিনের রিমান্ড"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিচারবহির্ভূত হত্যাকে হাতিয়ার করার মন্তব্যে টিআইবির তীব্র নিন্দা ও উদ্বেগ",
-        "title_en": "TIB Expresses Concern Over Police Chief Remarks on Extrajudicial Killings",
-        "summary_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশ পুলিশের মহাপরিদর্শকের ক্রসফায়ার সংক্রান্ত বক্তব্যের তীব্র নিন্দা জানিয়ে একে বিচারবহির্ভূত হত্যার বিপজ্জনক বার্তা বলেছে।",
-        "summary_en": "Transparency International Bangladesh strongly condemned the police chief remarks on crossfire, calling it a dangerous message promoting extrajudicial killings.",
+        "title_bn": "খালেদা জিয়ার গাড়িবহরে হামলা মামলায় শ্রমিকলীগ নেতা সোহাগ ৩ দিনের রিমান্ডে",
+        "title_en": "Sramik League Leader Sohag Placed on Three-Day Remand in Khaleda Zia Motorcade Attack",
+        "summary_bn": "প্রয়াত প্রধানমন্ত্রী খালেদা জিয়ার গাড়িবহরে হামলার ঘটনায় দায়ের করা মামলায় শ্রমিকলীগ নেতা মাইন হোসেন সোহাগের তিন দিনের রিমান্ড মঞ্জুর করেছেন আদালত।",
+        "summary_en": "A Dhaka court has granted a three-day police remand for Sramik League leader Azmain Hossain Sohag in the Khaleda Zia motorcade attack case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:10:48+00:00",
-        "lead_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশ পুলিশের মহাপরিদর্শকের ক্রসফায়ার সংক্রান্ত বক্তব্যের তীব্র নিন্দা জানিয়ে একে বিচারবহির্ভূত হত্যার বিপজ্জনক বার্তা বলেছে।",
-        "lead_en": "Transparency International Bangladesh strongly condemned the police chief remarks on crossfire, calling it a dangerous message promoting extrajudicial killings.",
+        "published_at": "2026-10-26T12:16:02+00:00",
+        "lead_bn": "প্রয়াত প্রধানমন্ত্রী খালেদা জিয়ার গাড়িবহরে হামলার ঘটনায় দায়ের করা মামলায় শ্রমিকলীগ নেতা মাইন হোসেন সোহাগের তিন দিনের রিমান্ড মঞ্জুর করেছেন আদালত।",
+        "lead_en": "A Dhaka court has granted a three-day police remand for Sramik League leader Azmain Hossain Sohag in the Khaleda Zia motorcade attack case.",
         "bullets_bn": [
-          "পুলিশ প্রধানের ক্রসফায়ারের বক্তব্য আইনশৃঙ্খলা রক্ষায় প্রাতিষ্ঠানিক দুর্বলতা ঢাকার বিপজ্জনক বার্তা বলে অভিহিত করেছে টিআইবি।",
-          "সরকারের অনুমতিক্রমে পুলিশ ক্রসফায়ার করবে এমন মন্তব্যে তীব্র নিন্দা ও গভীর উদ্বেগ প্রকাশ করেছে সংস্থাটি।",
-          "বিচারবহির্ভূত হত্যাকে অপরাধ দমনের হাতিয়ার হিসেবে প্রতিষ্ঠা না করার জন্য সংশ্লিষ্ট মহলের প্রতি আহ্বান জানানো হয়েছে।"
+          "তদন্ত কর্মকর্তা আসামির ১০ দিনের রিমান্ড আবেদন করলে আদালত তিন দিনের রিমান্ড মঞ্জুর করেন।",
+          "ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট সারাহ্ ফারজানা হক এই শুনানি ও আদেশ প্রদান করেন।",
+          "তেজগাঁও থানা পুলিশ এই মামলার পরবর্তী আইনগত তদন্ত পরিচালনা করছে।"
         ],
         "bullets_en": [
-          "TIB termed the police chief remarks on crossfire as a dangerous message masking institutional weaknesses in law enforcement.",
-          "The anti-graft body expressed deep concern and strong condemnation over the statement regarding police crossfire with government permission.",
-          "Authorities were urged to refrain from establishing extrajudicial killing as an acceptable tool for crime control."
+          "The investigating officer presented the accused before the court seeking a ten-day remand.",
+          "Dhaka Metropolitan Magistrate Sarah Farzana Huq presided over the hearing and issued the order.",
+          "Tejgaon police station is currently handling the ongoing legal investigation of the case."
         ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর জবাবদিহিতা ও নাগরিকদের মৌলিক মানবাধিকার সুরক্ষার প্রশ্নটি জনমনে নতুন করে আলোচনার সৃষ্টি করেছে।",
-        "impact_en": "The controversy raises fresh concerns among citizens regarding the accountability of law enforcement agencies and the protection of basic human rights.",
-        "details_bn": "আইনশৃঙ্খলা রক্ষায় প্রয়োজনে পুলিশ ক্রসফায়ার করবে বলে পুলিশের মহাপরিদর্শক মন্তব্য করার পর মানবাধিকার সংগঠন ও সুশীল সমাজের পক্ষ থেকে তীব্র প্রতিক্রিয়া দেখা দেয়। টিআইবি এই বক্তব্যকে আইনের শাসনের পরিপন্থী এবং বিচারবহির্ভূত হত্যার বৈধতা দেওয়ার অপচেষ্টা হিসেবে উল্লেখ করেছে। সংবিধানে নাগরিকদের জীবন ও সুরক্ষার অধিকার নিশ্চিত করার কথা বলা হলেও এ ধরণের বক্তব্য জননিরাপত্তা নিয়ে শঙ্কা তৈরি করছে।",
-        "details_en": "Following the police inspector general remarks that police would use crossfire to maintain law and order if permitted by the government, human rights groups and civil society raised strong objections. TIB termed the statement contradictory to the rule of law and an attempt to legitimize extrajudicial killings. Although the constitution guarantees the right to life and protection for citizens, such statements generate deep public anxiety regarding safety."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির উন্নয়ন এবং বিচার প্রক্রিয়ার গতিশীলতা নিশ্চিতকরণে এ ধরনের আইনি পদক্ষেপ নাগরিকদের মাঝে স্বস্তি আনে।",
+        "impact_en": "Such judicial actions reinforce accountability and legal processes for violent political incidents.",
+        "details_bn": "বাংলাদেশের রাজনীতিতে বিভিন্ন সময় রাজনৈতিক সংঘাত ও হামলার ঘটনা ঘটেছে। সাবেক প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন খালেদা জিয়ার গাড়িবহরে হামলার এই মামলাটি দীর্ঘদিন ধরে তদন্তাধীন রয়েছে। মামলার তদন্তকারী কর্মকর্তা ঘটনার সাথে জড়িত অন্যান্য আসামিদের শনাক্ত করতে এবং মূল রহস্য উদঘাটনে রিমান্ড আবেদন করেন। আদালতের এই আদেশের ফলে ঘটনার নেপথ্য তথ্য বেরিয়ে আসবে বলে আশা করা হচ্ছে।",
+        "details_en": "Political confrontations and attacks on motorcades have historically marked periods of unrest in Bangladesh. The case involving the attack on the motorcade of former Prime Minister and BNP Chairperson Khaleda Zia has been under investigation. Investigators sought custody to uncover further details regarding the incident and identify other potential perpetrators involved in the attack."
       }
     },
     {
-      "story_id": "5689cd5c-79bd-54a0-99b6-cbe41246fd6c",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T12:08:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9367,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/jago-jobs/news/1172213",
-          "title": "আবুল খায়ের গ্রুপে ক্যারিয়ার গড়ার সুযোগ, লাগবে না অভিজ্ঞতা",
-          "snippet": "আবুল খায়ের গ্রুপে ক্যারিয়ার গড়ার সুযোগ, লাগবে না অভিজ্ঞতা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অভিজ্ঞতা ছাড়াই আবুল খায়ের গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগ বিজ্ঞপ্তি",
-        "title_en": "Abul Khair Group issues job circular for Management Trainee Officers without prior experience",
-        "summary_bn": "আবুল খায়ের গ্রুপ কোনো পূর্ব অভিজ্ঞতা ছাড়াই ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগের জন্য নতুন বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "summary_en": "Abul Khair Group has published a new job circular to recruit Management Trainee Officers without requiring prior experience.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:08:32+00:00",
-        "lead_bn": "আবুল খায়ের গ্রুপ কোনো পূর্ব অভিজ্ঞতা ছাড়াই ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগের জন্য নতুন বিজ্ঞপ্তি প্রকাশ করেছে।",
-        "lead_en": "Abul Khair Group has published a new job circular to recruit Management Trainee Officers without requiring prior experience.",
-        "bullets_bn": [
-          "আবুল খায়ের গ্রুপ ম্যানেজমেন্ট ট্রেইনি অফিসার পদে পরিশ্রমী ও আত্মবিশ্বাসী জনবল নিয়োগের জন্য বিজ্ঞপ্তি দিয়েছে।",
-          "এই পদে আবেদন করার জন্য প্রার্থীদের কোনো পূর্ব অভিজ্ঞতার প্রয়োজন নেই।",
-          "ইতিমধ্যেই পদটিতে আবেদন প্রক্রিয়া শুরু হয়েছে এবং আগ্রহী প্রার্থীরা নির্ধারিত নিয়ম অনুযায়ী আবেদন করতে পারবেন।"
-        ],
-        "bullets_en": [
-          "Abul Khair Group has issued a recruitment notice seeking diligent and confident candidates for Management Trainee Officer positions.",
-          "Candidates are not required to have any prior professional experience to apply for this corporate position.",
-          "The application process has already commenced, allowing eligible candidates to apply through the designated channels."
-        ],
-        "impact_bn": "বেকার তরুণ ও নতুন গ্র্যাজুয়েটদের জন্য এটি করপোরেট সেক্টরে অভিজ্ঞতা ছাড়াই ক্যারিয়ার গড়ার সুযোগ তৈরি করবে।",
-        "impact_en": "This creates an immediate employment opportunity for unemployed youth and fresh graduates to start their corporate careers without prior experience.",
-        "details_bn": "বাংলাদেশের অন্যতম শীর্ষস্থানীয় শিল্পগোষ্ঠী আবুল খায়ের গ্রুপ নিয়মিতভাবে দেশের যুবসমাজ ও তরুণদের জন্য কর্মসংস্থানের সুযোগ তৈরি করে থাকে। করপোরেট কার্যক্রমে দক্ষ নেতৃত্ব তৈরিতে এই গ্রুপটি বিভিন্ন সময় ম্যানেজমেন্ট ট্রেইনি পদে নিয়োগ দিয়ে থাকে। নতুন এই নিয়োগ বিজ্ঞপ্তির মাধ্যমে তরুণ চাকরিপ্রার্থীরা কোনো পূর্ব অভিজ্ঞতা ছাড়াই দেশের অন্যতম বড় এই প্রতিষ্ঠানে নিজেদের ক্যারিয়ার গড়ার সুযোগ পাবেন।",
-        "details_en": "Abul Khair Group, one of the leading conglomerates in Bangladesh, regularly generates employment opportunities for the country's youth. The group frequently recruits management trainees to develop skilled leadership for its corporate operations. Through this latest recruitment circular, fresh graduates and young job seekers get an opportunity to build their careers in a major corporate house without needing prior work experience."
-      }
-    },
-    {
-      "story_id": "2d455290-9a25-5b6f-8544-dcb58ed2219e",
+      "story_id": "6ee796c6-5c76-5dc7-b43e-8c24a2de7244",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "governance_law",
-        "climate_environment"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#BrazilElection",
-        "#LulaDaSilva"
+        "#IndiaChina",
+        "#BorderTensions"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
+      "image_url": "https://static.dw.com/image/79758964_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T12:03:42+00:00",
+      "published_at": "2026-10-26T13:00:48.140770+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6313,
+      "rank_score": 0.6883,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-          "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-          "snippet": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to c"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Remark on Modi's father stirs political row",
+          "snippet": "India news: Remark on Modi's father stirs political row"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে ঐতিহাসিক চতুর্থ মেয়াদে জয়ী হলেন লুলা দা সিলভা",
-        "title_en": "Luiz Inacio Lula da Silva Wins Historic Fourth Term as Brazil President",
-        "summary_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে হাড্ডাহাড্ডি লড়াইয়ে প্রতিপক্ষকে পরাজিত করে চতুর্থ মেয়াদের ক্ষমতা নিশ্চিত করলেন লুলা দা সিলভা।",
-        "summary_en": "Luiz Inacio Lula da Silva secured a historic fourth presidential term in Brazil after defeating his opponent in a runoff election.",
+        "title_bn": "ভারত-চীন সীমান্ত টহল নিয়ে বেইজিংয়ের স্বাভাবিক কার্যক্রম দাবি",
+        "title_en": "China Defends Border Patrols Amid Tensions With India",
+        "summary_bn": "অরুণাচল প্রদেশ সীমান্তে নিজেদের সীমান্ত টহল কার্যক্রমকে স্বাভাবিক বলে দাবি করেছে চীনের পররাষ্ট্র মন্ত্রণালয়।",
+        "summary_en": "China's Foreign Ministry defended its border patrol activities along the Arunachal Pradesh frontier as normal routine operations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:03:42+00:00",
-        "lead_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে হাড্ডাহাড্ডি লড়াইয়ে প্রতিপক্ষকে পরাজিত করে চতুর্থ মেয়াদের ক্ষমতা নিশ্চিত করলেন লুলা দা সিলভা।",
-        "lead_en": "Luiz Inacio Lula da Silva secured a historic fourth presidential term in Brazil after defeating his opponent in a runoff election.",
-        "bullets_bn": [
-          "বামপন্থী নেতা লুলা দা সিলভা ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়লাভ করে চতুর্থবারের মতো ক্ষমতা দখল করেছেন।",
-          "নির্বাচনী ট্রাইব্যুনালের তথ্য অনুযায়ী লুলা ৫১ দশমিক ৭৯ শতাংশ ভোট এবং তার প্রতিপক্ষ ৪৮ দশমিক ২১ শতাংশ ভোট পেয়েছেন।",
-          "আগামী ২০২৭ সালের ৫ জানুয়ারি লুলার নতুন মেয়াদ আনুষ্ঠানিকভাবে শুরু হওয়ার কথা রয়েছে।"
-        ],
-        "bullets_en": [
-          "Leftist leader Luiz Inacio Lula da Silva claimed a historic fourth term in power by winning the presidential election.",
-          "Lula secured 51.79 percent of the vote compared to his opponent's 48.21 percent, according to the electoral court.",
-          "The newly elected president's upcoming term is officially scheduled to begin on January 5, 2027."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ব্রাজিলের রাজনীতিতে এই জয় অত্যন্ত তাৎপর্যপূর্ণ, কারণ দেশটির গণতন্ত্র পুনরুদ্ধারের পর এই প্রথম প্রথম ধাপের পর পেছানো প্রার্থী জয় ছিনিয়ে আনলেন। এদিকে পরাজিত প্রার্থীর পক্ষ থেকে ফলাফল প্রত্যাখ্যান করায় রাজনৈতিক অঙ্গনে নতুন করে উত্তেজনা দেখা দিয়েছে। এর আগে লুলার রাজনৈতিক প্রতিপক্ষ ও তার পরিবারের সদস্যদের বিরুদ্ধে অতীতে বিভিন্ন আইনি পদক্ষেপ ও ক্ষমতা দখলের চেষ্টার ইতিহাস রয়েছে।",
-        "details_en": "This victory marks a significant milestone in Brazilian politics, as it is the first time since the return to democracy that a candidate who trailed in the initial round overcame the deficit to win the presidency. However, the refusal of the defeated camp to concede mirrors past political polarization and challenges in the nation's democratic history."
-      }
-    },
-    {
-      "story_id": "6272ded1-3132-5ab8-a312-26a1a5295437",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#CyberSecurity",
-        "#ArtificialIntelligence",
-        "#Australia"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/a87ce9bdb5e94c4f30932078f5f45eda44e1da12/559_205_4047_3240/master/4047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8d5ceede0f6e8538686f2748563f8da",
-      "image_caption": null,
-      "published_at": "2026-10-26T11:30:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.4689,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
-          "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
-          "snippet": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অস্ট্রেলীয়দের অনলাইন সেবা বিঘ্নিত হওয়ার জন্য প্রস্তুত থাকার সতর্কবার্তা সিগন্যাল ইন্টেলিজেন্স এজেন্সির",
-        "title_en": "Australian Cyber Agency Warns Citizens to Prepare for Unexpected Online Outages",
-        "summary_bn": "অস্ট্রেলিয়ার সিগন্যাল ইন্টেলিজেন্স এজেন্সি ক্রমবর্ধমান সাইবার হুমকির মুখে জরুরি অনলাইন সেবাগুলো হঠাৎ বন্ধ হয়ে যাওয়ার প্রস্তুতি নিতে বলেছে।",
-        "summary_en": "Australia's signals intelligence agency warns citizens to prepare for unexpected disruptions to essential online services amid rising cyber threats.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:30:40+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার সিগন্যাল ইন্টেলিজেন্স এজেন্সি ক্রমবর্ধমান সাইবার হুমকির মুখে জরুরি অনলাইন সেবাগুলো হঠাৎ বন্ধ হয়ে যাওয়ার প্রস্তুতি নিতে বলেছে।",
-        "lead_en": "Australia's signals intelligence agency warns citizens to prepare for unexpected disruptions to essential online services amid rising cyber threats.",
+        "published_at": "2026-10-26T13:00:48.140770+00:00",
+        "lead_bn": "অরুণাচল প্রদেশ সীমান্তে নিজেদের সীমান্ত টহল কার্যক্রমকে স্বাভাবিক বলে দাবি করেছে চীনের পররাষ্ট্র মন্ত্রণালয়।",
+        "lead_en": "China's Foreign Ministry defended its border patrol activities along the Arunachal Pradesh frontier as normal routine operations.",
         "bullets_bn": [
-          "সিস্টেমের সচল থাকার চেয়ে নিরাপত্তা নিশ্চিত করাকে সর্বোচ্চ অগ্রাধিকার দেওয়ার নির্দেশ দিয়েছে অস্ট্রেলিয়ান সিগন্যালস ডিরেক্টরেট।",
-          "সংস্থাটি বছরে ১,৫০০টি সাইবার নিরাপত্তা ঘটনার মোকাবিলা করেছে এবং ৪,৪০০টিরও বেশি সম্ভাব্য হামলার বিষয়ে সতর্ক করেছে।",
-          "সাইবার অপরাধ ও এআইভিত্তিক হুমকি মোকাবিলায় ব্যবসা প্রতিষ্ঠানগুলোকে অত্যাধুনিক কৃত্রিম বুদ্ধিমত্তা মডেল ব্যবহারের তাগিদ দেওয়া হয়েছে।"
+          "চীন দাবি করেছে যে তারা ভারত সীমান্তের কাছে সমস্ত প্রাসঙ্গিক চুক্তি কঠোরভাবে মেনে স্বাভাবিক টহল পরিচালনা করছে।",
+          "ভারতের পররাষ্ট্র মন্ত্রণালয় চীনা বাহিনীর ভুল হিসাবের কারণে সীমান্ত পরিস্থিতি ব্যাহত হওয়ার অভিযোগ তুলেছে।",
+          "উভয় দেশই উত্তেজনা কমাতে কূটনৈতিক ও সামরিক চ্যানেলের মাধ্যমে নিয়মিত যোগাযোগ বজায় রাখছে।"
         ],
         "bullets_en": [
-          "The Australian Signals Directorate urged that system security must be prioritized over system availability amid escalating digital threats.",
-          "The agency responded to 1,500 cybersecurity incidents and flagged over 4,400 potential malicious incidents to external entities.",
-          "Organizations are urged to deploy cutting-edge artificial intelligence models to automate defenses against AI-enabled cyber attacks."
+          "China stated it strictly abides by relevant bilateral agreements while conducting routine border patrols.",
+          "India's Foreign Ministry blamed Chinese forces for miscalculations that disrupt the Line of Actual Control.",
+          "Both nuclear-armed neighbors continue maintaining communication through diplomatic and military channels."
         ],
-        "impact_bn": "সাধারণ ব্যবহারকারীদের দৈনন্দিন অনলাইন সেবা আকস্মিক বিঘ্ন ও ডেটা সুরক্ষার ঝুঁকিতে পড়তে পারে।",
-        "impact_en": "Ordinary citizens may face sudden disruptions in accessing vital online services and heightened digital security risks.",
-        "details_bn": "অস্ট্রেলিয়ান সিগন্যালস ডিরেক্টরেটের বার্ষিক সাইবার হুমকি প্রতিবেদনে বলা হয়েছে, শত্রুভাবাপন্ন বিদেশি সরকার এবং অপরাধীরা বুদ্ধিমত্তা সংগ্রহ ও অবকাঠামো অচল করতে কৃত্রিম বুদ্ধিমত্তা ব্যবহার করছে। রাষ্ট্রীয় ও বেসরকারি নেটওয়ার্কে ক্রমাগত হামলার প্রচেষ্টা বাড়ায় সাইবার নিরাপত্তাকে এখন কেবল প্রযুক্তিগত বিষয় না ভেবে মূল ব্যবসায়িক ঝুঁকি হিসেবে চিহ্নিত করা হচ্ছে।",
-        "details_en": "The annual cyber threat report by the Australian Signals Directorate reveals that hostile actors and criminals are increasingly weaponizing artificial intelligence to gather intelligence and disrupt critical infrastructure. With state-based breach attempts rising, the agency stresses that cybersecurity is no longer a purely technical concern but a core leadership responsibility."
+        "impact_bn": "সীমান্তে সামরিক উত্তেজনা বৃদ্ধি পেলে দুই দেশের সীমান্তবর্তী অঞ্চলে বসবাসকারী সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হতে পারে।",
+        "impact_en": "Escalating border tensions could raise security concerns for communities residing near the frontier.",
+        "details_bn": "ভারত ও চীনের মধ্যে দীর্ঘকাল ধরে অরুণাচল প্রদেশ সংলগ্ন সীমান্ত এলাকায় নিরাপত্তা নিয়ে মতপার্থক্য রয়েছে। এর আগে ভারতীয় সীমান্ত পুলিশ প্রধান জানান যে বিভিন্ন পয়েন্টে সেনা মুখোমুখি অবস্থান অব্যাহত রয়েছে। দুই দেশ সামরিক ও কূটনৈতিক পর্যায়ে একাধিক আলোচনা চালালেও দীর্ঘমেয়ায়ী শান্তি প্রতিষ্ঠা এখনও একটি বড় চ্যালেঞ্জ হিসেবে রয়ে গেছে।",
+        "details_en": "India and China have experienced persistent border frictions along the Line of Actual Control, particularly in Arunachal Pradesh. Despite numerous rounds of military and diplomatic talks aimed at resolving disputes, face-offs between troops continue to challenge the maintenance of long-term peace in the region."
+      }
+    },
+    {
+      "story_id": "ebb8490e-1ff7-5271-9dd9-f2123024d8c1",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business",
+        "governance_law",
+        "climate_environment",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#UKPolitics",
+        "#Brexit"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
+      "image_caption": null,
+      "published_at": "2026-10-26T12:46:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.5947,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+          "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
+          "snippet": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাজ্যের ভবিষ্যৎ ইইউতে প্রত্যাবর্তন দেখতে চান অ্যান্ডি বার্নহাম",
+        "title_en": "Andy Burnham Says He Personally Wants UK to Rejoin EU",
+        "summary_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী সম্পর্ক পুনর্মূল্যায়নের পক্ষে মত দিয়ে নিজের জীবদ্দশায় দেশটির ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার ইচ্ছা প্রকাশ করেছেন অ্যান্ডি বার্নহাম।",
+        "summary_en": "Andy Burnham expressed a personal desire for the UK to eventually rejoin the EU while emphasizing that the British public ultimately decides.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "governance_law",
+          "climate_environment",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T12:46:29+00:00",
+        "lead_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী সম্পর্ক পুনর্মূল্যায়নের পক্ষে মত দিয়ে নিজের জীবদ্দশায় দেশটির ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার ইচ্ছা প্রকাশ করেছেন অ্যান্ডি বার্নহাম।",
+        "lead_en": "Andy Burnham expressed a personal desire for the UK to eventually rejoin the EU while emphasizing that the British public ultimately decides.",
+        "bullets_bn": [
+          "নিজের জীবদ্দশায় যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নে দেখতে চাওয়ার ব্যক্তিগত ইচ্ছার কথা জানান অ্যান্ডি বার্নহাম।",
+          "ব্রিটিশ জনসাধারণই এই বিষয়ে চূড়ান্ত সিদ্ধান্ত নেওয়ার অধিকারী বলে মন্তব্য করেন তিনি।",
+          "বর্তমান ব্রেক্সিট চুক্তি কার্যকরভাবে কাজ করছে না দাবি করে সম্পর্ক পুনর্বিবেচনার প্রস্তাব দেন তিনি।"
+        ],
+        "bullets_en": [
+          "Andy Burnham stated he personally wants to see the UK rejoin the European Union in his lifetime.",
+          "He emphasized that the British public must remain the bosses and dictate the path forward.",
+          "He argued that the current post-Brexit settlement is failing and requires a revised relationship."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী অর্থনৈতিক ও বাণিজ্যিক সম্পর্ক নিয়ে নতুন করে বিতর্ক শুরু হয়েছে। বিরোধী দল এবং ক্ষমতাসীন দলের অভ্যন্তরেও বর্তমান বাণিজ্য চুক্তির সীমাবদ্ধতা নিয়ে প্রশ্ন উঠছে। অ্যান্ডি বার্নহাম এর আগে দলীয় সম্মেলনে ব্রেক্সিট চুক্তির পুনর্বিন্যাসের পক্ষে মত দিয়েছিলেন, যার মাধ্যমে ইইউর অবাধ চলাচল নীতি মেনে নেওয়ার সম্ভাবনা তৈরি হয়।",
+        "details_en": "The debate over post-Brexit trade and economic ties remains a central issue in UK politics. Opposition figures and some Labour members have increasingly scrutinized the current settlement, arguing that the existing trade arrangement fails to deliver sufficient economic growth, prompting calls to re-evaluate the country's relationship with the European Union."
       }
     }
   ]
