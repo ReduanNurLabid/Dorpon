@@ -1,66 +1,180 @@
 {
-  "updated_at": "2026-10-26T00:00:50.558470",
+  "updated_at": "2026-10-26T01:00:51.955576",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "c7798191-40f8-5136-88ed-1ee58fa11e68",
-      "primary_category": "sports_fitness",
+      "story_id": "55a937ad-8e28-591b-9c3f-2aade6f0a981",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T23:53:14+00:00",
+      "published_at": "2026-10-26T00:44:35+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8982,
+      "importance_score": 6.6,
+      "rank_score": 2.2673,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/sports/football/1171963",
-          "title": "মৌসুমের প্রথম এল ক্লাসিকোতে রিয়ালের হাসি, জয়রথ থামলো বার্সার",
-          "snippet": "মৌসুমের প্রথম এল ক্লাসিকোতে রিয়ালের হাসি, জয়রথ থামলো বার্সার"
+          "url": "https://www.jagonews24.com/politics/news/1171965",
+          "title": "জীবনের প্রথম দেশের বাইরে যাচ্ছি, মাননীয় প্রধানমন্ত্রীর সঙ্গে",
+          "snippet": "জীবনের প্রথম দেশের বাইরে যাচ্ছি, মাননীয় প্রধানমন্ত্রীর সঙ্গে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "এল ক্লাসিকোতে বার্সেলোনাকে হারিয়ে রিয়াল মাদ্রিদের জয়",
-        "title_en": "Real Madrid Defeats Barcelona in El Clasico",
-        "summary_bn": "মৌসুমের প্রথম এল ক্লাসিকোতে কিলিয়ান এমবাপ্পের জোড়া গোলে বার্সেলোনাকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
-        "summary_en": "Real Madrid defeated Barcelona in the first El Clasico of the season with a brace from Kylian Mbappe.",
+        "title_bn": "প্রধানমন্ত্রীর সফরসঙ্গী হয়েছেন তারেক রহমান ও ডা. জুবাইদা রহমান",
+        "title_en": "Tarique Rahman and Dr Zubaida Rahman Join Prime Minister Delegation",
+        "summary_bn": "প্রধানমন্ত্রী বিদেশ সফরে তার সফরসঙ্গী হিসেবে মন্ত্রিসভার সদস্যসহ তারেক রহমান ও ডা. জুবাইদা রহমানকে নিয়ে দেশ ছেড়েছেন।",
+        "summary_en": "Prime Minister departs for foreign tour with cabinet members alongside Tarique Rahman and Dr Zubaida Rahman.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T23:53:14+00:00",
-        "lead_bn": "মৌসুমের প্রথম এল ক্লাসিকোতে কিলিয়ান এমবাপ্পের জোড়া গোলে বার্সেলোনাকে পরাজিত করেছে রিয়াল মাদ্রিদ।",
-        "lead_en": "Real Madrid defeated Barcelona in the first El Clasico of the season with a brace from Kylian Mbappe.",
+        "published_at": "2026-10-26T00:44:35+00:00",
+        "lead_bn": "প্রধানমন্ত্রী বিদেশ সফরে তার সফরসঙ্গী হিসেবে মন্ত্রিসভার সদস্যসহ তারেক রহমান ও ডা. জুবাইদা রহমানকে নিয়ে দেশ ছেড়েছেন।",
+        "lead_en": "Prime Minister departs for foreign tour with cabinet members alongside Tarique Rahman and Dr Zubaida Rahman.",
         "bullets_bn": [
-          "কিলিয়ান এমবাপ্পের জোড়া গোলে বার্সেলোনাকে পরাজিত করে রিয়াল মাদ্রিদ।",
-          "ম্যাচটি দুই এক গোলের ব্যবধানে জয়লাভ করে রিয়াল মাদ্রিদ।",
-          "এই পরাজয়ের ফলে বার্সেলোনার টানা নয় ম্যাচ জয়ের রথ থেমে যায়।"
+          "প্রধানমন্ত্রী বিদেশ সফরের উদ্দেশ্যে উচ্চপর্যায়ের প্রতিনিধিদল নিয়ে ঢাকা ত্যাগ করেছেন।",
+          "সফরে প্রধানমন্ত্রীর স্ত্রী ডা. জুবাইদা রহমান এবং আমজনতা দলের সদস্যসচিব তারেক রহমান সফরসঙ্গী হিসেবে রয়েছেন।",
+          "সফর শেষে প্রতিনিধিদল নির্ধারিত সূচি অনুযায়ী দেশে ফিরে আসবে।"
         ],
         "bullets_en": [
-          "Real Madrid secured the victory against Barcelona with a brace from Kylian Mbappe.",
-          "Real Madrid won the match with a scoreline of two to one.",
-          "The defeat ended Barcelona's winning streak of nine consecutive matches."
+          "Prime Minister departed for a foreign tour accompanied by a high-level delegation.",
+          "Dr Zubaida Rahman and Amjanata Party Member Secretary Tarique Rahman are included as delegation members.",
+          "The delegation is scheduled to return home after completing the official tour."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "স্প্যানিশ লা লিগায় মৌসুমের প্রথম এল ক্লাসিকোতে মুখোমুখি হয় রিয়াল মাদ্রিদ ও বার্সেলোনা। ক্যাম্প ন্যু-তে অনুষ্ঠিত এই ম্যাচে বার্সেলোনা টানা নয় ম্যাচ জয়ের পর প্রথম পরাজয়ের মুখোমুখি হয়। কিলিয়ান এমবাপ্পের দুর্দান্ত পারফরম্যান্স রিয়াল মাদ্রিদকে এই গুরুত্বপূর্ণ জয় এনে দেয়।",
-        "details_en": "Real Madrid and Barcelona faced each other in the first El Clasico of the Spanish La Liga season. Held at Camp Nou, the match marked Barcelona's first defeat after nine consecutive league victories. A stellar performance by Kylian Mbappe secured this crucial win for Real Madrid."
+        "details_bn": "সরকারের উচ্চপর্যায়ের এই বিদেশ সফরকে ঘিরে রাজনৈতিক অঙ্গনে ব্যাপক আলোচনা চলছে। প্রতিনিধিদলে রাজনৈতিক ও পারিবারিক ব্যক্তিবর্গের অন্তর্ভুক্তি নতুন কূটনৈতিক ও রাজনৈতিক সমীকরণের ইঙ্গিত দিচ্ছে। সফরটি দুই দেশের পারস্পরিক সম্পর্ক এবং দ্বিপক্ষীয় সহযোগিতাকে আরও সুদৃঢ় করবে বলে আশা করা হচ্ছে।",
+        "details_en": "This high-level government foreign tour has generated significant political discussion. The inclusion of political and family figures in the delegation signals new diplomatic and political dynamics. The visit is expected to further strengthen bilateral relations and cooperation between the two countries."
       }
     },
     {
-      "story_id": "22539675-daa7-58cd-a2cc-f4b102eb65e9",
+      "story_id": "37fe7a2e-cb02-5cdb-b24a-becfad3b0452",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T01:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9635,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/dhaka/976771/%E0%A7%A9-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%96%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+          "title": "৩ কোটি টাকার ভ্যাট ফাঁকি দেওয়া সেই কারখানায় আগুন",
+          "snippet": "৩ কোটি টাকার ভ্যাট ফাঁকি দেওয়া সেই কারখানায় আগুন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ধামরাইয়ে ভ্যাট ফাঁকির অভিযোগ ওঠা ইলেকট্রনিক্স কারখানায় অগ্নিকাণ্ড",
+        "title_en": "Fire Breaks Out at Electronics Factory Facing VAT Evasion Charges in Dhamrai",
+        "summary_bn": "ভ্যাট ফাঁকির অভিযোগ থাকা ধামরাইয়ের একটি ইলেকট্রনিক্স কারখানায় আগুন লাগার ঘটনা ঘটেছে।",
+        "summary_en": "A fire broke out at an electronics factory in Dhamrai that previously faced allegations of massive VAT evasion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T01:00:00+00:00",
+        "lead_bn": "ভ্যাট ফাঁকির অভিযোগ থাকা ধামরাইয়ের একটি ইলেকট্রনিক্স কারখানায় আগুন লাগার ঘটনা ঘটেছে।",
+        "lead_en": "A fire broke out at an electronics factory in Dhamrai that previously faced allegations of massive VAT evasion.",
+        "bullets_bn": [
+          "ধামরাইয়ের নবগ্রাম এলাকায় অবস্থিত জিনলিয়ান ইলেক্ট্রনিকস টেকনোলজি কারখানায় আগুন লাগে।",
+          "কারখানাটির বিরুদ্ধে তিন কোটি আঠাশ লাখ টাকার ভ্যাট ফাঁকির অভিযোগ রয়েছে।",
+          "ফায়ার সার্ভিসের দুটি ইউনিটের চেষ্টায় আগুন নিয়ন্ত্রণে আসে এবং ঘটনায় এক চীনা নাগরিক আহত হন।"
+        ],
+        "bullets_en": [
+          "Fire erupted at the Jinlian Electronics Technology factory located in Nabogram area of Dhamrai.",
+          "The factory faced prior allegations of evading three crore twenty-eight lakh takas in Value Added Tax.",
+          "Two fire service units brought the blaze under control while a Chinese national was involved in the incident."
+        ],
+        "impact_bn": "কারখানায় অগ্নিকাণ্ডের ফলে স্থানীয় উৎপাদনে ব্যাঘাত ঘটতে পারে এবং সংশ্লিষ্ট ভ্যাট ফাঁকির তদন্ত প্রক্রিয়ায় প্রভাব পড়তে পারে।",
+        "impact_en": "The factory fire may disrupt local production and impact the ongoing investigation regarding financial irregularities.",
+        "details_bn": "ঢাকার ধামরাইয়ের কুশুরা ইউনিয়নের নবগ্রাম এলাকায় অবস্থিত জিনলিয়ান ইলেক্ট্রনিকস টেকনোলজি বাংলাদেশ লিমিটেড কারখানায় অগ্নিকাণ্ডের এই ঘটনা ঘটে। এর আগে চলতি বছরের সেপ্টেম্বর মাসে কারখানাটির বিরুদ্ধে প্রায় তিন কোটি ২৮ লাখ টাকার ভ্যাট ফাঁকি দেওয়ার সুনির্দিষ্ট অভিযোগ ওঠে। ফায়ার সার্ভিসের দুটি ইউনিট প্রায় এক ঘণ্টা ২০ মিনিটের চেষ্টায় আগুন পুরোপুরি নির্বাপণ করে। এই আকস্মিক অগ্নিকাণ্ডের ঘটনায় কারখানার ভেতরে থাকা একজন চীনা নাগরিকের সংশ্লিষ্টতা ও ক্ষয়ক্ষতির পরিমাণ নিয়ে তদন্ত চলছে।",
+        "details_en": "A fire incident occurred at the Jinlian Electronics Technology Bangladesh Limited factory located in Nabogram area of Kushura union in Dhamrai, Dhaka. Earlier, specific allegations surfaced against the factory for evading approximately 3.28 crore takas in Value Added Tax. Two firefighting units brought the blaze under control after about one hour and twenty minutes of effort. Investigations are underway regarding the extent of damage and the involvement of a Chinese national present at the facility during the incident."
+      }
+    },
+    {
+      "story_id": "5b8338e6-f539-5bfd-8989-d59a38ead0e6",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T00:30:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.7225,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/barishal/976767/%E0%A6%95%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AC%E0%A7%9F%E0%A6%B8%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%87",
+          "title": "কষ্ট করে সন্তানদের প্রতিষ্ঠিত করেছেন, শেষ বয়সে সেই মা ঘরে একা মরে পড়েছিলেন",
+          "snippet": "কষ্ট করে সন্তানদের প্রতিষ্ঠিত করেছেন, শেষ বয়সে সেই মা ঘরে একা মরে পড়েছিলেন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি প্রবাসী মায়ের জীবনের শেষ সময় কাটল বরিশালের ভাড়া বাসায় একা",
+        "title_en": "Expatriate Mother Spends Final Days Alone in Rented Barishal Home",
+        "summary_bn": "চার সন্তানকে প্রতিষ্ঠিত করার পর বয়স্ক মা তাহমিনা বেগম বরিশালের এক ভাড়া বাসায় নিঃসঙ্গ অবস্থায় মারা যান।",
+        "summary_en": "Elderly mother Tahmina Begum died alone in a rented Barishal home after spending her life establishing her children.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T00:30:00+00:00",
+        "lead_bn": "চার সন্তানকে প্রতিষ্ঠিত করার পর বয়স্ক মা তাহমিনা বেগম বরিশালের এক ভাড়া বাসায় নিঃসঙ্গ অবস্থায় মারা যান।",
+        "lead_en": "Elderly mother Tahmina Begum died alone in a rented Barishal home after spending her life establishing her children.",
+        "bullets_bn": [
+          "স্বামী হারানোর পর কঠোর পরিশ্রম করে চার সন্তানকে প্রতিষ্ঠিত করেছিলেন তাহমিনা বেগম।",
+          "বড় ছেলে উত্তরায় ছয়তলা ভবনের মালিক ও কারখানা পরিচালনা করলেও মা ছিলেন অবহেলিত।",
+          "সন্তানদের সফলতার পরও ৬৫ বছর বয়সে মায়ের জীবন শেষ হয়েছে চরম একাকীত্বে।"
+        ],
+        "bullets_en": [
+          "Tahmina Begum worked hard after losing her husband to successfully raise and establish her four children.",
+          "Despite her eldest son owning a six-story building and a factory in Uttara, the mother remained neglected.",
+          "The 65-year-old mother ended her life in extreme loneliness despite the success and affluence of her children."
+        ],
+        "impact_bn": "বৃদ্ধ বয়সে বাবা-মায়ের প্রতি সন্তানদের দায়িত্বহীনতা ও পারিবারিক অবক্ষয় সমাজকে নতুন করে ভাবাচ্ছে।",
+        "impact_en": "The growing neglect of elderly parents by successful children highlights alarming social issues regarding familial responsibility.",
+        "details_bn": "তাহমিনা বেগম সন্তানদের ভবিষ্যৎ গড়তে জীবনের একটি বড় সময় সৌদি আরবে কাটিয়েছিলেন। স্বামীর মৃত্যুর পর কঠোর পরিশ্রম করে দুই ছেলে ও দুই মেয়েকে প্রতিষ্ঠিত করেন। বড় ছেলে সুমনের ঢাকায় ছয়তলা ভবন ও বৈদ্যুতিক বোর্ড তৈরির কারখানা রয়েছে। ছোট ছেলেও ঢাকায় কাজ করেন এবং দুই মেয়ের বিয়ে হয়েছে। অথচ জীবনের শেষ সময়ে সন্তানদের প্রতিষ্ঠিত করার পরও এই মায়ের ঠাঁই হয়েছিল বরিশালের বাবুগঞ্জের একটি ভাড়া বাসায়, যেখানে তিনি একাই মারা যান।",
+        "details_en": "Tahmina Begum spent a major part of her life working in Saudi Arabia to secure a better future for her children. After her husband's death, she worked tirelessly to establish her four children. While her eldest son owns a six-story building and an electrical board factory in Uttara, and her other children are settled in Dhaka, the elderly mother ended up living alone in a rented house in Babuganj, Barishal, where she ultimately passed away in isolation."
+      }
+    },
+    {
+      "story_id": "415b965b-a587-54be-b436-4552fd69f351",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -72,162 +186,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-25T23:09:00+00:00",
+      "published_at": "2026-10-26T00:28:12+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.6103,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/dhaka/976770/%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A7%87-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%93%E0%A6%B7%E0%A7%81%E0%A6%A7-%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A6%BE%E0%A6%A6",
-          "title": "মহাসড়কের পাশে পড়ে আছে সরকারি ওষুধ, নেই মেয়াদ",
-          "snippet": "মহাসড়কের পাশে পড়ে আছে সরকারি ওষুধ, নেই মেয়াদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টাঙ্গাইলের মহাসড়কের পাশে পড়ে আছে মেয়াদোত্তীর্ণ সরকারি ওষুধ",
-        "title_en": "Expired Government Medicines Found Abandoned Near Tangail Highway",
-        "summary_bn": "টাঙ্গাইলের মির্জাপুরে ঢাকা-টাঙ্গাইল মহাসড়কের পাশে মেয়াদোত্তীর্ণ সরকারি ওষুধের প্যাকেট ছড়িয়ে-ছিটিয়ে পড়ে থাকতে দেখা গেছে।",
-        "summary_en": "Packets of expired government medicines have been found scattered along the Dhaka-Tangail highway in Mirzapur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T23:09:00+00:00",
-        "lead_bn": "টাঙ্গাইলের মির্জাপুরে ঢাকা-টাঙ্গাইল মহাসড়কের পাশে মেয়াদোত্তীর্ণ সরকারি ওষুধের প্যাকেট ছড়িয়ে-ছিটিয়ে পড়ে থাকতে দেখা গেছে।",
-        "lead_en": "Packets of expired government medicines have been found scattered along the Dhaka-Tangail highway in Mirzapur.",
-        "bullets_bn": [
-          "স্থানীয় বাসিন্দারা মহাসড়কের পাশে ছড়িয়ে-ছিটিয়ে থাকা ওষুধের প্যাকেটগুলো দেখতে পান।",
-          "কাছে গিয়ে প্যাকেটগুলো পরীক্ষা করে সেগুলোকে মেয়াদোত্তীর্ণ সরকারি ওষুধ হিসেবে শনাক্ত করা হয়।",
-          "ওষুধগুলো কীভাবে এবং কোথা থেকে সেখানে এলো তা খতিয়ে দেখার প্রক্রিয়া চলছে।"
-        ],
-        "bullets_en": [
-          "Local residents spotted scattered medicine packets dumped near the highway.",
-          "Inspection of the packets confirmed they contained expired government medical supplies.",
-          "Authorities are working to determine the source and how the medicines reached the location."
-        ],
-        "impact_bn": "মূল্যবান সরকারি ওষুধের এমন অপচয় জনস্বাস্থ্য ও সুশাসনের প্রতি সাধারণ মানুষের মধ্যে প্রশ্ন তুলেছে।",
-        "impact_en": "Such waste of public medical resources raises serious public health and accountability concerns.",
-        "details_bn": "টাঙ্গাইলের মির্জাপুরে ঢাকা-টাঙ্গাইল মহাসড়কের পাশে সরকারি ওষুধ ফেলে দেওয়ার ঘটনায় স্থানীয়দের মধ্যে চাঞ্চল্য সৃষ্টি হয়েছে। সাধারণত সরকারি হাসপাতাল বা স্বাস্থ্যকেন্দ্র থেকে বিতরণের জন্য এসব ওষুধ বরাদ্দ করা হয়। তবে সঠিক ব্যবস্থাপনার অভাব বা মেয়াদোত্তীর্ণ হওয়ার কারণে এগুলো অবৈধভাবে ফেলে দেওয়া হয়েছে কি না, তা নিয়ে প্রশ্ন উঠেছে। এ ধরনের ঘটনা জনস্বাস্থ্য খাতের অব্যবস্থাপনা এবং ওষুধ সরবরাহ চেইনের তদারকি ঘাটতি স্পষ্ট করে।",
-        "details_en": "The dumping of government medical supplies near the highway in Mirzapur has caused local concern. Such pharmaceuticals are typically allocated for public distribution through government health facilities. Questions have arisen regarding whether these items expired due to poor management or were improperly disposed of. Such incidents highlight systemic monitoring gaps within public healthcare distribution channels."
-      }
-    },
-    {
-      "story_id": "1e88025d-f082-5024-bba7-f358aa1a0d40",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-25T22:57:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.5617,
+      "rank_score": 0.7115,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171962",
-          "title": "ভিড় জমিয়ে টাকা-স্বর্ণালংকার চুরিই তাদের পেশা",
-          "snippet": "ভিড় জমিয়ে টাকা-স্বর্ণালংকার চুরিই তাদের পেশা"
+          "url": "https://www.jagonews24.com/education/news/1171964",
+          "title": "ছুটি শেষে প্রাথমিক-মাধ্যমিক বিদ্যালয় ও মাদরাসা খুলছে আজ",
+          "snippet": "ছুটি শেষে প্রাথমিক-মাধ্যমিক বিদ্যালয় ও মাদরাসা খুলছে আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মিরসরাইয়ে হাসপাতাল থেকে রোগীবেশে স্বর্ণালংকার চুরির অভিযোগে ৭ নারী গ্রেফতার",
-        "title_en": "Seven Women Arrested for Stealing Gold Ornaments from Chattogram Hospital",
-        "summary_bn": "জরারগঞ্জ থানা পুলিশ চট্টগ্রামের মিরসরাইয়ে একটি হাসপাতালে চিকিৎসা নিতে আসা রোগীদের স্বর্ণালংকার চুরির অভিযোগে সাত নারী সদস্যকে গ্রেফতার করেছে।",
-        "summary_en": "Zorargonj police arrested seven female members of a theft ring for stealing gold chains from patients at a Chattogram hospital.",
+        "title_bn": "ছুটি শেষে দেশের প্রাথমিক ও মাধ্যমিক বিদ্যালয় এবং মাদরাসায় ক্লাস শুরু",
+        "title_en": "Primary and Secondary Schools and Madrasas Reopen After Vacation",
+        "summary_bn": "টানা ছুটি শেষে দেশের সব সরকারি ও বেসরকারি প্রাথমিক, মাধ্যমিক বিদ্যালয় এবং মাদরাসায় যথারীতি ক্লাস শুরু হয়েছে।",
+        "summary_en": "Regular classes have resumed across all government and private primary, secondary schools, and madrasas following a continuous vacation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "economy_business",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T22:57:39+00:00",
-        "lead_bn": "জরারগঞ্জ থানা পুলিশ চট্টগ্রামের মিরসরাইয়ে একটি হাসপাতালে চিকিৎসা নিতে আসা রোগীদের স্বর্ণালংকার চুরির অভিযোগে সাত নারী সদস্যকে গ্রেফতার করেছে।",
-        "lead_en": "Zorargonj police arrested seven female members of a theft ring for stealing gold chains from patients at a Chattogram hospital.",
+        "published_at": "2026-10-26T00:28:12+00:00",
+        "lead_bn": "টানা ছুটি শেষে দেশের সব সরকারি ও বেসরকারি প্রাথমিক, মাধ্যমিক বিদ্যালয় এবং মাদরাসায় যথারীতি ক্লাস শুরু হয়েছে।",
+        "lead_en": "Regular classes have resumed across all government and private primary, secondary schools, and madrasas following a continuous vacation.",
         "bullets_bn": [
-          "রোগী সেজে হাসপাতালে ঢুকে গলায় থাকা স্বর্ণের চেইন চুরির অপরাধে সাত নারী সদস্যকে গ্রেফতার করেছে জোরারগঞ্জ থানা পুলিশ।",
-          "স্থানীয় লোকজনের সহায়তায় চট্টগ্রামের মিরসরাই উপজেলার একটি হাসপাতাল থেকে এই চক্রের সদস্যদের হাতেনাতে আটক করা হয়।",
-          "গ্রেফতারকৃতদের বিরুদ্ধে আইনি প্রক্রিয়া সম্পন্ন করে আদালতে সোপর্দ করা হয়েছে এবং তাদের সহযোগীদের ধরতে অভিযান চলছে।"
+          "টানা ছুটি শেষে দেশের প্রাথমিক, মাধ্যমিক বিদ্যালয় ও মাদরাসাগুলোতে শিক্ষা কার্যক্রম পুনরায় শুরু হয়েছে।",
+          "প্রাথমিক ও মাধ্যমিক স্তরের শিক্ষাপ্রতিষ্ঠান খুললেও কলেজ পর্যায়ের ছুটি আরও কিছুদিন বলবৎ থাকবে।",
+          "শিক্ষাপ্রতিষ্ঠানগুলো পুনরায় চালু হওয়ায় শিক্ষার্থীদের উপস্থিতি নিশ্চিত করতে প্রয়োজনীয় প্রস্তুতি নিয়েছে কর্তৃপক্ষ।"
         ],
         "bullets_en": [
-          "Zorargonj police arrested seven female members of an organized theft ring operating in a Chattogram hospital.",
-          "The suspects were detained with the assistance of locals while attempting to steal gold chains from visiting patients.",
-          "Legal procedures have been initiated against the arrestees while law enforcement continues efforts to catch their accomplices."
+          "Educational activities have resumed in primary, secondary schools, and madrasas after the end of consecutive holidays.",
+          "While primary and secondary level institutions have reopened, vacation for college-level institutions continues for a few more days.",
+          "Authorities have taken necessary preparations to ensure student attendance as educational institutions reopen."
         ],
-        "impact_bn": "হাসপাতালের মতো জনবহুল ও সংবেদনশীল স্থানে সাধারণ রোগীরা এখন নিরাপদ বোধ করবেন এবং অপরাধ প্রবণতা কমবে।",
-        "impact_en": "Ordinary patients visiting public hospitals will experience enhanced security and protection against targeted theft rings.",
-        "details_bn": "চট্টগ্রামের মিরসরাই উপজেলায় বিভিন্ন হাসপাতালে চিকিৎসা নিতে আসা সাধারণ রোগীদের টার্গেট করে একটি নারী চোরচক্র দীর্ঘদিন ধরে স্বর্ণালংকার ও মূল্যবান সামগ্রী চুরি করে আসছিল। এই চক্রের সদস্যরা রোগী বা রোগীর স্বজন সেজে হাসপাতালে প্রবেশ করত এবং সুযোগ বুঝে মানুষের গলার চেইন ও নগদ টাকা হাতিয়ে নিত। স্থানীয়দের দীর্ঘদিনের সন্দেহ ও সতর্কতার কারণে হাতেনাতে এই চক্রের সাত সদস্যকে আটক করে পুলিশের হাতে সোপর্দ করা সম্ভব হয়।",
-        "details_en": "An organized group of female thieves has been active in hospitals across Chattogram's Mirsarai upazila, targeting vulnerable patients seeking medical treatment. Posing as patients or attendants, these individuals routinely stole gold chains and valuables. Heightened vigilance by local citizens eventually enabled authorities to apprehend seven members of the ring and hand them over to law enforcement."
-      }
-    },
-    {
-      "story_id": "dcec4ac9-dc3b-520c-b814-2a9051aa34fa",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2Fqsev6zmm%2Fwooden-gavel-books-wooden-table-1.jpg?rect=0%2C388%2C5472%2C2873&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-25T22:30:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.4679,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/islam/zdbqflo91b",
-          "title": "শরিয়া আইনে ‘তাজির’ কী, তাজিরে কি মৃত্যুদণ্ড দেওয়া যায়",
-          "snippet": "শরিয়া আইনে ‘তাজির’ কী, তাজিরে কি মৃত্যুদণ্ড দেওয়া যায়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে অনৈতিক কর্মকাণ্ডে জড়িত দুই বাংলাদেশি নাগরিককে মৃত্যুদণ্ড দেওয়া হয়েছে",
-        "title_en": "Two Bangladeshi Nationals Sentenced to Death in Saudi Arabia for Immoral Activities",
-        "summary_bn": "সৌদি আরবের মক্কার একটি মসজিদে অনৈতিক কর্মকাণ্ডে জড়িত থাকার অভিযোগে আদালত দুই বাংলাদেশি নাগরিককে শরিয়া আইনে তাজির হিসেবে মৃত্যুদণ্ড দিয়েছেন।",
-        "summary_en": "A Saudi court sentenced two Bangladeshi nationals to death under Sharia discretionary punishment known as tazir for immoral activities in Mecca.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-25T22:30:00+00:00",
-        "lead_bn": "সৌদি আরবের মক্কার একটি মসজিদে অনৈতিক কর্মকাণ্ডে জড়িত থাকার অভিযোগে আদালত দুই বাংলাদেশি নাগরিককে শরিয়া আইনে তাজির হিসেবে মৃত্যুদণ্ড দিয়েছেন।",
-        "lead_en": "A Saudi court sentenced two Bangladeshi nationals to death under Sharia discretionary punishment known as tazir for immoral activities in Mecca.",
-        "bullets_bn": [
-          "সৌদি স্বরাষ্ট্র মন্ত্রণালয়ের বিবৃতি অনুযায়ী মক্কার একটি মসজিদে অনৈতিক কর্মকাণ্ডের অভিযোগে দুই বাংলাদেশিকে গ্রেপ্তার করা হয়।",
-          "আইন অনুযায়ী তাজির হলো এমন শাস্তি যার ধরন ও পরিমাণ কোরআন-সুন্নাহয় নির্ধারিত নেই এবং বিচারক পরিস্থিতি বিবেচনা করে তা নির্ধারণ করেন।",
-          "ক্লাসিক্যাল ফিকহে তাজিরে মৃত্যুদণ্ড সাধারণ নিয়ম নয় তবে ফকিহেরা রাষ্ট্রের নীতি ও পরিস্থিতির ভিত্তিতে এর ব্যতিক্রম স্বীকার করেছেন।"
-        ],
-        "bullets_en": [
-          "Two Bangladeshi citizens were arrested for involvement in immoral activities inside a mosque in Mecca according to the Saudi Ministry of Interior.",
-          "Tazir refers to discretionary punishments whose types and amounts are not fixed in the Quran and Sunnah and are decided by judges.",
-          "Capital punishment is generally not the standard rule under tazir in classical jurisprudence though some jurists permit exceptions based on state policy."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সৌদি স্বরাষ্ট্র মন্ত্রণালয়ের বিবৃতি অনুযায়ী মক্কার একটি মসজিদে অনৈতিক কর্মকাণ্ডে জড়িত থাকার অভিযোগে দুই বাংলাদেশি নাগরিককে গ্রেপ্তার করা হয়। পরবর্তীতে আদালত শরিয়া আইনের তাজির বিধানের আওতায় তাঁদের দোষী সাব্যস্ত করে মৃত্যুদণ্ড প্রদান করেন। ইসলামি ফিকহ অনুযায়ী তাজির হলো এমন একটি শাস্তি যা হুদুদ বা কিসাসের আওতার বাইরে সংশোধন ও প্রতিরোধের উদ্দেশ্যে প্রয়োগ করা হয়। এর ধরন ও মাত্রা বিচারকের বিবেচনার ওপর নির্ভর করে এবং পরিস্থিতি অনুযায়ী ভিন্নতা হতে পারে।",
-        "details_en": "Two Bangladeshi nationals were arrested in Saudi Arabia for alleged immoral activities inside a mosque in Mecca and subsequently sentenced to death under tazir. In Islamic jurisprudence tazir represents discretionary punishments outside fixed hudud laws intended for correction and deterrence where the nature of the sentence depends entirely on judicial discretion based on the circumstances."
+        "impact_bn": "শিক্ষাপ্রতিষ্ঠান খোলায় শিক্ষার্থীরা নিয়মিত পাঠ কার্যক্রমে ফিরে এসেছে এবং অভিভাবকদের দৈনন্দিন রুটিনে স্বাভাবিকতা ফিরেছে।",
+        "impact_en": "The reopening of institutions allows students to return to regular academic activities and restores normalcy to guardians daily routines.",
+        "details_bn": "দেশের সরকারি ও বেসরকারি প্রাথমিক এবং মাধ্যমিক স্তরের শিক্ষাপ্রতিষ্ঠানগুলোতে নির্ধারিত ছুটির মেয়াদ শেষে নিয়মিত পাঠদান শুরু হয়েছে। তবে উচ্চ মাধ্যমিক বা কলেজ পর্যায়ের শিক্ষাপ্রতিষ্ঠানগুলোর ছুটি ভিন্ন সময়সূচির কারণে আরও কিছুদিন বজায় থাকবে। শিক্ষাপঞ্জী অনুযায়ী নির্ধারিত ছুটির বিরতি শেষে শিক্ষার্থীরা ক্লাসে ফিরছে।",
+        "details_en": "Regular teaching activities have resumed in government and private primary and secondary educational institutions across the country following the end of the scheduled vacation period. However, vacations for higher secondary or college-level institutions will continue for a few more days due to a different schedule. Students are returning to classes following the scheduled holiday break according to the academic calendar."
       }
     },
     {
@@ -245,10 +243,10 @@
       ],
       "image_url": "https://static.dw.com/image/79568976_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T00:00:50.558484+00:00",
+      "published_at": "2026-10-26T01:00:51.955584+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6891,
+      "rank_score": 0.6889,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -258,10 +256,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার অভিযোগে রাহুল গান্ধীর বিক্ষোভের আহ্বান",
-        "title_en": "Rahul Gandhi Urges Mass Protests Against Alleged Voter List Deletions",
-        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দেশজুড়ে ব্যাপক বিক্ষোভ এবং নভেম্বরের প্রথম দিনে জনসভার ডাক দিয়েছেন।",
-        "summary_en": "Congress leader Rahul Gandhi has called for widespread protests and a major rally against alleged mass deletions from electoral rolls.",
+        "title_bn": "ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নভেম্বরের ১ তারিখ দিল্লির রামলীলা ময়দানে রাহুল গান্ধীর সমাবেশ আহ্বান",
+        "title_en": "Rahul Gandhi Urges Rally in New Delhi Against Alleged Voter Roll Deletions",
+        "summary_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী পয়লা নভেম্বর দিল্লিতে প্রতিবাদ মিছিল ও সমাবেশের ডাক দিয়েছেন।",
+        "summary_en": "Congress leader Rahul Gandhi urged citizens to join a protest march in New Delhi against alleged widespread voter roll deletions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -269,78 +267,81 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T00:00:50.558484+00:00",
-        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দেশজুড়ে ব্যাপক বিক্ষোভ এবং নভেম্বরের প্রথম দিনে জনসভার ডাক দিয়েছেন।",
-        "lead_en": "Congress leader Rahul Gandhi has called for widespread protests and a major rally against alleged mass deletions from electoral rolls.",
+        "published_at": "2026-10-26T01:00:51.955584+00:00",
+        "lead_bn": "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে আগামী পয়লা নভেম্বর দিল্লিতে প্রতিবাদ মিছিল ও সমাবেশের ডাক দিয়েছেন।",
+        "lead_en": "Congress leader Rahul Gandhi urged citizens to join a protest march in New Delhi against alleged widespread voter roll deletions.",
         "bullets_bn": [
-          "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে নতুন কর্মসূচি ঘোষণা করেছেন।",
-          "নয়া দিল্লির ঐতিহাসিক রামলীলা ময়দানে আগামী পয়লা নভেম্বর সেভ দ্য ভোট সেভ দ্য কান্ট্রি শিরোনামে রেলি অনুষ্ঠিত হবে।",
-          "শাসক দল বিজেপির বিরুদ্ধে ভোট চুরির অভিযোগ তুলে ছাত্র ও তরুণ সমাজকে এই কর্মসূচিতে যোগ দেওয়ার আহ্বান জানানো হয়েছে।"
+          "কংগ্রেস নেতা রাহুল গান্ধী ভোটার তালিকা থেকে নাম বাদ দেওয়ার প্রতিবাদে দেশব্যাপী বিক্ষোভ প্রদর্শনের আহ্বান জানান।",
+          "রাহুল গান্ধী অভিযোগ করেন যে ক্ষমতাসীন বিজেপি সরকার নিয়ম ভেঙে ভোটার তালিকা থেকে নাম সরিয়ে ভোট চুরি করছে।",
+          "আগামী পয়লা নভেম্বর দিল্লির রামলীলা ময়দানে সেভ দ্য ভোট, সেভ দ্য কান্ট্রি শীর্ষক প্রতিবাদী সমাবেশ অনুষ্ঠিত হবে।"
         ],
         "bullets_en": [
-          "Congress leader Rahul Gandhi announced nationwide protests protesting alleged widespread deletions from voter rolls.",
-          "A protest march titled Save the Vote Save the Country is scheduled at New Delhi Ramlila Maidan on November 1.",
-          "The opposition leader accused the ruling Bharatiya Janata Party of stealing votes and urged citizens to join the rally."
+          "Congress leader Rahul Gandhi urged citizens to participate in a Save the Vote, Save the Country protest march.",
+          "Gandhi alleged that the ruling BJP government is violating rules and stealing votes by deleting names from lists.",
+          "The opposition protest rally is scheduled to take place at New Delhi's Ramlila Maidan."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারতের বিরোধী দলগুলোর পক্ষ থেকে দীর্ঘদিন ধরে নির্বাচনী প্রক্রিয়া ও প্রতিষ্ঠানগুলোর স্বচ্ছতা নিয়ে প্রশ্ন তোলা হচ্ছে। সাম্প্রতিক ভোটার তালিকা হালনাগাদ করার সময় বড় ধরনের অনিয়মের অভিযোগ এনেছে বিরোধীরা। এই প্রেক্ষাপটে জনমত সংগঠিত করতে এবং ভোটার অধিকার রক্ষার দাবিতে বিরোধী দলগুলো রাজপথে আন্দোলনের কৌশল বেছে নিয়েছে।",
-        "details_en": "Indian opposition parties have consistently raised concerns regarding the transparency of electoral processes and institutions. Allegations regarding procedural violations during recent voter list revisions prompted the opposition to organize mass mobilizations to safeguard democratic rights and challenge the ruling administration."
+        "impact_bn": "এই রাজনৈতিক আন্দোলন সাধারণ ভোটারদের ভোটাধিকার সুরক্ষা ও নির্বাচনী স্বচ্ছতা নিয়ে জনসচেতনতা বাড়াতে পারে।",
+        "impact_en": "This political mobilization raises civic awareness regarding electoral integrity and the protection of voting rights for citizens.",
+        "details_bn": "ভারতের বিরোধী দলগুলো দীর্ঘদিন ধরে নির্বাচন প্রক্রিয়া এবং ভোটার তালিকা সংশোধন সংক্রান্ত বিভিন্ন অনিয়মের অভিযোগ তুলেছে। কংগ্রেস নেতা রাহুল গান্ধী শাসক দলের বিরুদ্ধে নির্বাচনী বিধি লঙ্ঘনের অভিযোগ এনে জনমত গঠন করার চেষ্টা করছেন। এর অংশ হিসেবে সাধারণ মানুষ, ছাত্র, কৃষক ও শ্রমিকদের নিয়ে এই নতুন রাজনৈতিক কর্মসূচির ঘোষণা দেওয়া হয়েছে।",
+        "details_en": "Indian opposition parties have repeatedly raised concerns regarding electoral roll transparency and alleged procedural violations. Congress leader Rahul Gandhi has accused the ruling administration of tampering with voter registries, prompting this large-scale public mobilization across various demographic groups, including students, farmers, and workers."
       }
     },
     {
-      "story_id": "e82a76c3-0840-5d6d-b40a-c286ac9f83aa",
-      "primary_category": "governance_law",
+      "story_id": "4a70fc95-a35e-5ad9-8615-a0ef09da6744",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#IsraelElections",
+        "#GadiEisenkot",
+        "#BenjaminNetanyahu"
       ],
-      "image_url": null,
+      "image_url": "https://static.dw.com/image/79750417_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-25T22:13:54+00:00",
+      "published_at": "2026-10-26T01:00:51.955584+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.4253,
+      "importance_score": 1.7,
+      "rank_score": 0.6889,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1171961",
-          "title": "লক্ষ্মীপুরে সুপারি বাগানে যুবকের মরদেহ, গলায় ধারালো অস্ত্রের আঘাত",
-          "snippet": "লক্ষ্মীপুরে সুপারি বাগানে যুবকের মরদেহ, গলায় ধারালো অস্ত্রের আঘাত"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
+          "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
+          "snippet": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu"
         }
       ],
       "daily_buzz": {
-        "title_bn": "লক্ষ্মীপুরে সুপারি বাগান থেকে যুবকের গলা কাটা মরদেহ উদ্ধার",
-        "title_en": "Youth Found Dead With Slit Throat in Laxmipur Betel Nut Orchard",
-        "summary_bn": "লক্ষ্মীপুর সদর উপজেলায় ধারালো অস্ত্র দিয়ে গলা কেটে জাকির হোসেন জুয়েল নামের এক যুবককে হত্যা করেছে দুর্বৃত্তরা।",
-        "summary_en": "Miscreants have killed a young man named Zakir Hossain Jewel by slitting his throat with a sharp weapon in Laxmipur.",
+        "title_bn": "নেতানিয়াহুর বিরুদ্ধে চ্যালেঞ্জ ছুড়ে মরক্কোর শেকড় ব্যবহার করছেন গাদি আইজেনকোট",
+        "title_en": "Gadi Eisenkot Leverages Moroccan Roots to Challenge Netanyahu",
+        "summary_bn": "ইসরায়েলি রাজনীতিক গাদি আইজেনকোট আসন্ন নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে প্রচারে নিজের মরক্কোর শেকড়কে ব্যবহার করছেন।",
+        "summary_en": "Israeli politician Gadi Eisenkot is utilizing his Moroccan roots in campaign efforts to challenge Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-25T22:13:54+00:00",
-        "lead_bn": "লক্ষ্মীপুর সদর উপজেলায় ধারালো অস্ত্র দিয়ে গলা কেটে জাকির হোসেন জুয়েল নামের এক যুবককে হত্যা করেছে দুর্বৃত্তরা।",
-        "lead_en": "Miscreants have killed a young man named Zakir Hossain Jewel by slitting his throat with a sharp weapon in Laxmipur.",
+        "published_at": "2026-10-26T01:00:51.955584+00:00",
+        "lead_bn": "ইসরায়েলি রাজনীতিক গাদি আইজেনকোট আসন্ন নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে প্রচারে নিজের মরক্কোর শেকড়কে ব্যবহার করছেন।",
+        "lead_en": "Israeli politician Gadi Eisenkot is utilizing his Moroccan roots in campaign efforts to challenge Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "পূর্ব নন্দনপুর গ্রামের একটি সুপারি বাগান থেকে জাকির হোসেন জুয়েলের মরদেহ উদ্ধার করা হয়।",
-          "নিহতের গলায় ধারালো অস্ত্রের গভীর আঘাতের চিহ্ন রয়েছে বলে পুলিশ জানিয়েছে।",
-          "ঘটনাস্থল থেকে আলামত সংগ্রহ করে হত্যাকাণ্ডের কারণ উদ্ঘাটনে তদন্ত শুরু করেছে আইনশৃঙ্খলা বাহিনী।"
+          "উদারপন্থী ইয়াশার দলের প্রার্থী গাদি আইজেনকোট তার নির্বাচনী প্রচারে মরক্কোর শেকড়কে প্রধান হাতিয়ার হিসেবে ব্যবহার করছেন।",
+          "ইসরায়েলের দক্ষিণাঞ্চলীয় শহর সদেরোতে মরক্কীয় ইহুদি সম্প্রদায়ের বড় উপস্থিতি রয়েছে এবং অতীতে এটি নেতানিয়াহুর লিকুদ দলের ঘাঁটি ছিল।",
+          "মরক্কোর আরবি ও হিব্রু ভাষার মিশ্রণে তৈরি এই স্লোগান ইসরায়েলের দীর্ঘদিনের রাজনৈতিক ও সামাজিক বিভাজনকে তুলে ধরেছে।"
         ],
         "bullets_en": [
-          "The body of Zakir Hossain Jewel was recovered from a betel nut orchard in Purba Nandanpur village.",
-          "Police confirmed that the victim bore deep sharp-weapon slash marks on his neck.",
-          "Law enforcement agencies have collected evidence from the scene and launched an investigation to uncover the motive."
+          "Liberal Yashar party candidate Gadi Eisenkot is prominently featuring his Moroccan heritage in campaign advertisements.",
+          "The southern Israeli city of Sderot features a large Moroccan Jewish community and has historically been a strong bastion for Netanyahu's Likud party.",
+          "The campaign slogan combines Hebrew and Moroccan Arabic terms to appeal to Mizrahi voters amid deep demographic divisions in Israel."
         ],
-        "impact_bn": "এ ধরনের হত্যাকাণ্ডের ঘটনায় স্থানীয় এলাকায় সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ ও আতঙ্ক দেখা দিয়েছে।",
-        "impact_en": "Such violent incidents raise serious safety and security concerns among local residents in the community.",
-        "details_bn": "লক্ষ্মীপুর সদর উপজেলার দক্ষিণ হামছাদী ইউনিয়নের পূর্ব নন্দনপুর গ্রামের একটি সুপারি বাগান থেকে জাকির হোসেন জুয়েলের মরদেহ উদ্ধার করা হয়। গভীর রাতে এই হত্যাকাণ্ডের খবর পাওয়ার পর পুলিশ ঘটনাস্থলে পৌঁছে মরদেহ উদ্ধার করে ময়নাতদন্তের জন্য মর্গে পাঠায়। এই ঘটনায় এলাকায় চাঞ্চল্যের সৃষ্টি হয়েছে এবং পুলিশ জড়িতদের শনাক্ত করতে কাজ করছে।",
-        "details_en": "The body of Zakir Hossain Jewel was recovered from a betel nut orchard in Purba Nandanpur village under Dakshin Hamchadi union of Laxmipur sadar upazila. Police rushed to the spot after receiving reports of the late-night murder and sent the body for autopsy. The incident has sparked local alarm as law enforcement works to identify the perpetrators."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইসরায়েলে দীর্ঘকাল ধরে ইউরোপীয় বংশোদ্ভূত আশকেনাজি এবং মধ্যপ্রাচ্য ও উত্তর আফ্রিকার দেশগুলো থেকে আসা মিজরাহি ইহুদিদের মধ্যে রাজনৈতিক ও সামাজিক বিভাজন রয়েছে। দেশটির জনসংখ্যার প্রায় অর্ধেকই মিজরাহি সম্প্রদায়ের। ঐতিহাসিকভাবে সদেরোত শহরটি ডানপন্থীদের শক্তঘাঁটি হিসেবে পরিচিত হলেও আসন্ন নির্বাচনকে কেন্দ্র করে এই রাজনৈতিক সমীকরণে পরিবর্তন আনার চেষ্টা চলছে।",
+        "details_en": "Israel has long experienced sociopolitical divisions between Ashkenazi Jews of European origin and Mizrahim from Middle Eastern and North African backgrounds, who make up half of the country's Jewish population. Sderot, located near the Gaza border, has historically served as a right-wing stronghold, particularly for Prime Minister Benjamin Netanyahu's Likud party, which won over 40% of the local vote in previous elections."
       }
     }
   ]
