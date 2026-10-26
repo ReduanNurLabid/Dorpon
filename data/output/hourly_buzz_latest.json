@@ -1,9 +1,66 @@
 {
-  "updated_at": "2026-10-26T19:00:45.870692",
+  "updated_at": "2026-10-26T20:00:43.171813",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "ef0529f5-ce14-5811-83a0-b04f8ad9528f",
+      "story_id": "eba7c4a9-dccc-54c9-a215-6f843af8f2f1",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-01-26%2Ftwusnm6g%2FICT-verdict.jpg?rect=0%2C12%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T19:23:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.8817,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/zthrojae80",
+          "title": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী",
+          "snippet": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগে ট্রাইব্যুনালে সুপ্রিম কোর্টের দুই আইনজীবীর ক্ষমা প্রার্থনা",
+        "title_en": "Supreme Court Lawyers Apologize to Tribunal for Contempt of Court",
+        "summary_bn": "জুলাই গণ-অভ্যুত্থান মামলার রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
+        "summary_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media remarks over a verdict.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T19:23:24+00:00",
+        "lead_bn": "জুলাই গণ-অভ্যুত্থান মামলার রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
+        "lead_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media remarks over a verdict.",
+        "bullets_bn": [
+          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এর কাছে আদালত অবমাননার অভিযোগে নিঃশর্ত ক্ষমা প্রার্থনা করেছেন সুপ্রিম কোর্টের দুই আইনজীবী মো. হাসানুজ্জামান তুষার ও মোহাম্মদ হাসান চৌধুরী।",
+          "শুনানিতে আইনজীবীরা জানান যে তাঁরা ভুল বুঝতে পেরেছেন, অনুতপ্ত হয়েছেন এবং সংশ্লিষ্ট সামাজিক যোগাযোগমাধ্যমের পোস্টগুলো মুছে ফেলেছেন।",
+          "ট্রাইব্যুনাল মামলাটির পরবর্তী শুনানির জন্য আগামী ২৫ জানুয়ারি দিন ধার্য করেছেন।"
+        ],
+        "bullets_en": [
+          "Two Supreme Court lawyers, Md. Hasanuzzaman Tushar and Mohammad Hasan Chowdhury, apologized to International Crimes Tribunal-2 for contempt of court.",
+          "Defence counsel stated during the hearing that the accused lawyers recognized their mistake, deleted their social media posts, and expressed remorse.",
+          "The tribunal set January 25 for the next hearing of the contempt proceedings."
+        ],
+        "impact_bn": "আইনজীবীদের পেশাগত দায়িত্বশীলতা ও বিচার বিভাগের প্রতি শ্রদ্ধাবোধ বজায় রাখার গুরুত্ব নতুন করে আলোচনায় এসেছে।",
+        "impact_en": "The incident reinforces the importance of professional responsibility and respect for the judiciary among legal practitioners.",
+        "details_bn": "জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদেরসহ সাত আসামির মৃত্যুদণ্ডের রায় দেয় ট্রাইব্যুনাল-২। ওই রায়ের পর সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করেন সুপ্রিম কোর্টের দুই আইনজীবী হাসানুজ্জামান তুষার ও মোহাম্মদ হাসান চৌধুরী। এ ঘটনায় ট্রাইব্যুনালের প্রসিকিউশন পক্ষ আদালত অবমাননার অভিযোগ আনে। শুনানিতে আসামিপক্ষ ভুল স্বীকার করে পোস্ট মুছে ফেলার কথা জানালে ট্রাইব্যুনাল ২৫ জানুয়ারি পরবর্তী শুনানির তারিখ নির্ধারণ করেন।",
+        "details_en": "Following the tribunal's death sentence verdict against seven accused, including ousted Awami League general secretary Obaidul Quader for crimes against humanity during the July uprising, two Supreme Court lawyers posted contemptuous remarks on social media. The tribunal's prosecution brought charges against them. During the hearing, defence counsel stated the lawyers deleted the posts and regretted their actions, leading the tribunal to schedule the next hearing for January 25."
+      }
+    },
+    {
+      "story_id": "66659b33-2ffa-5dc1-b00c-203509b729e0",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -15,46 +72,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T18:56:20+00:00",
+      "published_at": "2026-10-26T18:27:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 2.7808,
+      "importance_score": 6.6,
+      "rank_score": 1.2641,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172335",
-          "title": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ",
-          "snippet": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ"
+          "url": "https://www.jagonews24.com/national/news/1172334",
+          "title": "দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর জাপান সফর গুরুত্বপূর্ণ",
+          "snippet": "দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর জাপান সফর গুরুত্বপূর্ণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন তারেক রহমান ও সানায়ে তাকাইচি",
-        "title_en": "Tarique Rahman and Sanae Takaichi to Lead Bangladesh-Japan Bilateral Summit",
-        "summary_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে দুই দেশের শীর্ষ নেতারা গুরুত্বপূর্ণ বৈঠকে মিলিত হচ্ছেন।",
-        "summary_en": "The top leaders of Bangladesh and Japan are meeting in a high-level bilateral summit to strengthen bilateral ties.",
+        "title_bn": "জাপানের সাথে দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর সফর অত্যন্ত গুরুত্বপূর্ণ",
+        "title_en": "Prime Minister Japan Visit Crucial for Building Long-Term Partnership",
+        "summary_bn": "জাপানের সাথে সহযোগিতার নতুন ক্ষেত্র তৈরিতে প্রধানমন্ত্রীর এই সফর দ্বিপক্ষীয় সম্পর্ক জোরদার করবে।",
+        "summary_en": "The Prime Minister visit to Japan creates vital opportunities to forge a long-term partnership and expand cooperation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:56:20+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে দুই দেশের শীর্ষ নেতারা গুরুত্বপূর্ণ বৈঠকে মিলিত হচ্ছেন।",
-        "lead_en": "The top leaders of Bangladesh and Japan are meeting in a high-level bilateral summit to strengthen bilateral ties.",
+        "published_at": "2026-10-26T18:27:00+00:00",
+        "lead_bn": "জাপানের সাথে সহযোগিতার নতুন ক্ষেত্র তৈরিতে প্রধানমন্ত্রীর এই সফর দ্বিপক্ষীয় সম্পর্ক জোরদার করবে।",
+        "lead_en": "The Prime Minister visit to Japan creates vital opportunities to forge a long-term partnership and expand cooperation.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় শীর্ষ বৈঠকে দুই দেশের সরকারপ্রধানরা অংশ নিচ্ছেন।",
-          "বৈঠকে বাণিজ্য সম্প্রসারণ, বিনিয়োগ বৃদ্ধি এবং কৌশলগত সহযোগিতা নিয়ে আলোচনা নির্ধারিত রয়েছে।",
-          "আলোচনা শেষে দুই দেশের মধ্যে পারস্পরিক সহযোগিতার নতুন চুক্তি স্বাক্ষরিত হওয়ার সম্ভাবনা রয়েছে।"
+          "জাপানের সাথে পারস্পরিক স্বার্থে নতুন সহযোগিতার ক্ষেত্র উন্মোচন করা হচ্ছে।",
+          "দীর্ঘমেয়াদি অর্থনৈতিক ও কৌশলগত অংশীদারত্ব গড়ে তোলার ওপর বিশেষ গুরুত্ব দেওয়া হয়েছে।",
+          "উভয় দেশের উচ্চপর্যায়ের আলোচনার মাধ্যমে দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় হবে।"
         ],
         "bullets_en": [
-          "The prime ministers of Bangladesh and Japan are participating in a bilateral summit.",
-          "Discussions are scheduled to focus on trade expansion, increased investment, and strategic cooperation.",
-          "New bilateral cooperation agreements are expected to be signed following the conclusion of the talks."
+          "New fields of cooperation are being established with Japan for mutual interests.",
+          "Special emphasis has been placed on building a long-term economic and strategic partnership.",
+          "Bilateral relations will be further strengthened through high-level discussions between the two nations."
         ],
-        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধি পাবে যা দেশের অর্থনীতিতে ইতিবাচক প্রভাব ফেলবে।",
-        "impact_en": "The summit will boost trade and investment between the two nations, positively impacting the domestic economy.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যকার কূটনৈতিক সম্পর্ক দীর্ঘদিনের পরীক্ষিত ও গভীর। দুই দেশ দীর্ঘদিন ধরে অর্থনৈতিক উন্নয়ন, অবকাঠামো নির্মাণ এবং বৈদেশিক বাণিজ্যে একে অপরের অংশীদার হিসেবে কাজ করে আসছে। এই শীর্ষ বৈঠক দুই দেশের মধ্যকার সহযোগিতার ক্ষেত্রগুলোকে আরও প্রশস্ত করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing and tested diplomatic relationship. Both nations have worked closely as partners in economic development, infrastructure building, and foreign trade for decades. This high-level summit is expected to further broaden the scope of cooperation between the two countries."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিন ধরে বন্ধুত্বপূর্ণ দ্বিপক্ষীয় সম্পর্ক বজায় রয়েছে। অর্থনৈতিক উন্নয়ন, বাণিজ্য সম্প্রসারণ এবং প্রযুক্তিগত সহায়তায় জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। এই সফর দুই দেশের মধ্যকার সহযোগিতাকে নতুন উচ্চতায় নিয়ে যাওয়ার ক্ষেত্রে একটি কৌশলগত পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
+        "details_en": "Bangladesh and Japan have maintained a friendly bilateral relationship for decades. Japan is one of Bangladesh's primary development partners in economic growth, trade expansion, and technological cooperation. This visit is considered a strategic step to take the bilateral cooperation to new heights."
       }
     },
     {
@@ -73,7 +130,7 @@
       "published_at": "2026-10-26T18:38:17+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5552,
+      "rank_score": 0.9864,
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
@@ -83,10 +140,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজধানীর পুরানা পল্টনে সিপিবি কার্যালয়ের সামনে হামলা ও ভাঙচুরের অভিযোগ",
-        "title_en": "Attack reported outside CPB central office in capital Purana Paltan",
-        "summary_bn": "রাজধানীর পুরানা পল্টনে মিছিল চলাকালে জয় বাংলা স্লোগান দেওয়ার অভিযোগে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে হামলা চালিয়েছে একদল লোক।",
-        "summary_en": "A group of people attacked outside the CPB central office in Purana Paltan over alleged slogans chanted during a rally.",
+        "title_bn": "পল্টনে সিপিবির মিছিলে হামলা চালাল যুবদল ও ছাত্রদলের পরিচয়ে ব্যক্তিরা",
+        "title_en": "Attack on CPB Rally in Paltan Over Slogans Triggers Tension",
+        "summary_bn": "জয় বাংলা স্লোগান দেওয়ার অভিযোগে ঢাকার পল্টনে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে দলটির নেতা-কর্মীদের ওপর হামলা চালানো হয়েছে।",
+        "summary_en": "Activists identifying as Jubo Dal and Chhatra Dal attacked a CPB rally in Paltan over alleged slogans.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,196 +151,133 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T18:38:17+00:00",
-        "lead_bn": "রাজধানীর পুরানা পল্টনে মিছিল চলাকালে জয় বাংলা স্লোগান দেওয়ার অভিযোগে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে হামলা চালিয়েছে একদল লোক।",
-        "lead_en": "A group of people attacked outside the CPB central office in Purana Paltan over alleged slogans chanted during a rally.",
+        "lead_bn": "জয় বাংলা স্লোগান দেওয়ার অভিযোগে ঢাকার পল্টনে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে দলটির নেতা-কর্মীদের ওপর হামলা চালানো হয়েছে।",
+        "lead_en": "Activists identifying as Jubo Dal and Chhatra Dal attacked a CPB rally in Paltan over alleged slogans.",
         "bullets_bn": [
-          "ছাত্র ইউনিয়নের সাবেক নেতার মুক্তির পর আয়োজিত মিছিল শেষে পুরানা পল্টনে সংক্ষিপ্ত সমাবেশে হামলার ঘটনা ঘটে।",
-          "হামলাকারীরা নিজেদের যুবদল ও ছাত্রদলের কর্মী পরিচয় দিয়ে সিপিবির দুজন কর্মীকে মারধর করেন বলে অভিযোগ ওঠে।",
-          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ ঘটনাস্থলে উপস্থিত হয়ে উভয় পক্ষকে সরিয়ে দেয় এবং কার্যালয়ের সামনে অবস্থান নেয়।"
+          "ছাত্র ইউনিয়নের সাবেক নেতার মুক্তির পর আয়োজিত সিপিবির মিছিলে জয় বাংলা স্লোগান দেওয়া নিয়ে এই সংঘর্ষের সূত্রপাত হয়।",
+          "হামলাকারীরা সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে অবস্থান নিয়ে দুজন নেতা-কর্মীকে মারধর করে বলে জানিয়েছেন দলটির নেতারা।",
+          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ ঘটনাস্থলে উপস্থিত হয়ে উভয় পক্ষকে শান্ত করার চেষ্টা চালায়।"
         ],
         "bullets_en": [
-          "Cllashes broke out during a rally in Purana Paltan following the release of a former student union leader.",
-          "Assailants identifying as BNP affiliate activists allegedly assaulted two CPB members during the altercation.",
-          "Police intervened to control the situation and took positions outside the party office to prevent further escalation."
+          "Clashes erupted during a CPB rally over slogans chanted following the release of a former student leader.",
+          "Assailants gathered outside the central CPB office and physically assaulted two party activists.",
+          "Police intervened at the scene to control the situation and ensure security."
         ],
-        "impact_bn": "রাজনৈতিক কর্মসূচিতে এ ধরনের সহিংসতা সাধারণ নাগরিক ও রাজনৈতিক কর্মীদের মধ্যে ভীতি এবং আইনশৃঙ্খলা পরিস্থিতির অবনতির শঙ্কা তৈরি করে।",
-        "impact_en": "Such political violence instills fear among ordinary citizens and raises concerns regarding public safety and political tolerance.",
-        "details_bn": "সুনামগঞ্জে নারী বাউলশিল্পীদের গান গাইতে বাধা দেওয়ার প্রতিবাদ করতে গিয়ে আটক হন ছাত্র ইউনিয়নের সাবেক সভাপতি দীপক শীল। তাঁর মুক্তির পর ঢাকার ধানমন্ডিতে কর্মসূচি শেষে পুরানা পল্টনে মিছিল বের করে বাংলাদেশের কমিউনিস্ট পার্টি। সেই মিছিলে জয় বাংলা স্লোগান দেওয়াকে কেন্দ্র করে এই সংঘর্ষ ও হামলার সূত্রপাত হয়। সিপিবি নেতারা এই ঘটনার তীব্র নিন্দা জানিয়ে সরকারের কাছে এর প্রতিকার দাবি করেছেন।",
-        "details_en": "The tension stems from a protest rally organized following the release of former student union president Deepak Sheel, who was detained after protesting restrictions on female Baul singers in Sunamganj. A clash erupted near the Communist Party of Bangladesh central office in Purana Paltan over slogans chanted during the procession. CPB leaders strongly condemned the assault and called for accountability from the administration."
+        "impact_bn": "রাজনৈতিক সহিংসতা ও কার্যালয়ে হামলার ঘটনা সাধারণ মানুষের মধ্যে আইনশৃঙ্খলা পরিস্থিতি নিয়ে উদ্বেগ বাড়াচ্ছে।",
+        "impact_en": "Political violence and clashes at party offices heighten public concern regarding law and order stability.",
+        "details_bn": "সুনামগঞ্জে নারী বাউলশিল্পীদের গান গাইতে বাধা দেওয়ার প্রতিবাদ করতে গিয়ে আটক ছাত্র ইউনিয়নের সাবেক সভাপতি দীপক শীল মুক্তি পাওয়ার পর ঢাকায় এই বিক্ষোভ মিছিল বের করা হয়। পল্টন মোড়ে সংক্ষিপ্ত সমাবেশে স্লোগান দেওয়াকে কেন্দ্র করে এই উত্তেজনা ছড়ায়। সিপিবি নেতারা এই ঘটনার তীব্র নিন্দা জানিয়ে সরকারের কাছে রাজনৈতিক সহনশীলতা ও নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছেন।",
+        "details_en": "Tensions escalated in Dhaka following a rally organized after the release of former Chhatra Union president Deepak Shil, who was earlier detained while protesting restrictions on female baul singers in Sunamganj. A dispute arose over slogans chanted during a brief rally near Paltan intersection, leading to physical altercations outside the central Communist Party office and drawing widespread political concern."
       }
     },
     {
-      "story_id": "b08d016b-11ac-5448-97a7-40f0306f6f47",
+      "story_id": "87b4bb65-7b97-5a54-a6e6-48a8e6f705fe",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F5h1mv8ls%2F3.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T19:55:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9187,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/z146yaakc3",
+          "title": "আ.লীগ আমলের পরিস্থিতি তুলে ধরে পিরোজপুরে মানিক পশারীর দাফনে বাধার নিন্দা জানালেন নাহিদ ইসলাম",
+          "snippet": "আ.লীগ আমলের পরিস্থিতি তুলে ধরে পিরোজপুরে মানিক পশারীর দাফনে বাধার নিন্দা জানালেন নাহিদ ইসলাম"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পিরোজপুরে বীর মুক্তিযোদ্ধার দাফনে বাধা দেওয়ার ঘটনায় নাহিদ ইসলামের নিন্দা",
+        "title_en": "Nahid Islam Condemns Obstruction of Freedom Fighter Burial in Pirojpur",
+        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার তীব্র নিন্দা জানিয়েছেন।",
+        "summary_en": "National Citizen Party convener Nahid Islam strongly condemned the obstruction of freedom fighter Manik Pashari's burial in Pirojpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T19:55:21+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার তীব্র নিন্দা জানিয়েছেন।",
+        "lead_en": "National Citizen Party convener Nahid Islam strongly condemned the obstruction of freedom fighter Manik Pashari's burial in Pirojpur.",
+        "bullets_bn": [
+          "বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার ঘটনায় নিন্দা জানিয়ে ফেসবুকে পোস্ট দেন নাহিদ ইসলাম।",
+          "নাহিদ ইসলাম বলেন যে জানাজা পড়া ও লাশ দাফন করা যেকোনো মানুষের ন্যূনতম মানবিক ও ধর্মীয় অধিকার।",
+          "ফ্যাসিবাদী আচরণ পরিহার করে জুলাই গণ-অভ্যুত্থান পরবর্তী বাংলাদেশে আইনের শাসন ও ইনসাফ প্রতিষ্ঠার আহ্বান জানানো হয়।"
+        ],
+        "bullets_en": [
+          "Nahid Islam posted on Facebook condemning the obstruction of freedom fighter Manik Pashari's burial.",
+          "Nahid stated that performing funeral prayers and burying bodies are fundamental human and religious rights.",
+          "The statement urged abandoning fascist behaviors and establishing justice in post-uprising Bangladesh."
+        ],
+        "impact_bn": "এই ঘটনা নাগরিকদের মৌলিক মানবাধিকার এবং ধর্মীয় অধিকার সুরক্ষার বিষয়ে জনসচেতনতা তৈরি করে।",
+        "impact_en": "This incident raises public awareness regarding the protection of fundamental human and religious rights for citizens.",
+        "details_bn": "একাত্তরের মানবতাবিরোধী অপরাধ মামলায় জামায়াতের সাবেক নেতা দেলাওয়ার হোসাইন সাঈদীর বিরুদ্ধে সাক্ষ্য দেওয়া বীর মুক্তিযোদ্ধা মানিক পশারী মারা যাওয়ার পর তাঁর দাফনকে কেন্দ্র করে পিরোজপুরে উত্তেজনা দেখা দেয়। জামায়াতের স্থানীয় নেতাকর্মী ও সাধারণ মানুষের একাংশের বিরোধিতায় শেষ পর্যন্ত নিজ বাড়ির পারিবারিক কবরস্থানে তাঁকে দাফন করা হয়। এ ঘটনার পর জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম সামাজিক যোগাযোগমাধ্যমে প্রতিক্রিয়া জানিয়ে আওয়ামী আমলের বিভিন্ন জানাজা ও দাফন বাধার প্রসঙ্গ তুলে ইনসাফ প্রতিষ্ঠার কথা বলেন।",
+        "details_en": "Tension arose in Pirojpur following the death of freedom fighter Manik Pashari, who had testified against former Jamaat leader Delwar Hossain Sayeedi in crimes against humanity cases. Amid opposition from local groups regarding his burial, he was eventually buried in his family graveyard. Following the incident, National Citizen Party convener Nahid Islam reacted on social media, drawing parallels to past burial obstructions during the Awami League regime and calling for justice."
+      }
+    },
+    {
+      "story_id": "f85ee6ca-bcbf-5670-91c0-565a9a3f13f0",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#MiddleEastPeace",
+        "#Oman",
+        "#USForeignPolicy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fv2uddz1g%2FIran-Presidend-NSCAFP.jpg?rect=0%2C0%2C6000%2C3150&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://i.guim.co.uk/img/media/cffe3efdbd2aa053842b2cdb4837bc57232c81f7/747_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c9d8860e5af97521311ffa12422666d",
       "image_caption": null,
-      "published_at": "2026-10-26T18:19:56+00:00",
+      "published_at": "2026-10-26T19:12:09+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.329,
+      "importance_score": 3.4,
+      "rank_score": 0.8862,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/4e6h7eeuye",
-          "title": "ইরানের কট্টরপন্থীরা প্রেসিডেন্ট পেজেশকিয়ানের বিরুদ্ধে, পররাষ্ট্রমন্ত্রী আরাগচিরও অভিশংসন চায় তারা",
-          "snippet": "ইরানের কট্টরপন্থীরা প্রেসিডেন্ট পেজেশকিয়ানের বিরুদ্ধে, পররাষ্ট্রমন্ত্রী আরাগচিরও অভিশংসন চায় তারা"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
+          "title": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says",
+          "snippet": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরানে পারমাণবিক চুক্তি ত্যাগের দাবি কট্টরপন্থীদের",
-        "title_en": "Iranian Hardliners Demand Exit From Nuclear Non-Proliferation Treaty",
-        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে চলমান উত্তেজনার মধ্যে পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে ইরানকে প্রত্যাহারের আহ্বান জানিয়েছে দেশের কট্টরপন্থী গোষ্ঠী।",
-        "summary_en": "Iranian hardliners have called for the nation to withdraw from the nuclear non-proliferation treaty amid ongoing US tensions.",
+        "title_bn": "মধ্যপ্রাচ্যে মার্কিন নীতির কারণে শান্তি বাধাগ্রস্ত হচ্ছে বলে ওমানের পররাষ্ট্রমন্ত্রীর মন্তব্য",
+        "title_en": "US Policy Holds Back Middle East Peace, Says Oman Foreign Minister",
+        "summary_bn": "যুক্তরাষ্ট্রের দীর্ঘদিনের ইরানবিরোধী নীতির কারণে মধ্যপ্রাচ্যের সমস্যা সমাধান বাধাগ্রস্ত হচ্ছে বলে মন্তব্য করেছেন ওমানের পররাষ্ট্রমন্ত্রী।",
+        "summary_en": "Oman foreign minister stated that US insistence on viewing Iran as a threat hinders Middle East peace.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:19:56+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে চলমান উত্তেজনার মধ্যে পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে ইরানকে প্রত্যাহারের আহ্বান জানিয়েছে দেশের কট্টরপন্থী গোষ্ঠী।",
-        "lead_en": "Iranian hardliners have called for the nation to withdraw from the nuclear non-proliferation treaty amid ongoing US tensions.",
+        "published_at": "2026-10-26T19:12:09+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের দীর্ঘদিনের ইরানবিরোধী নীতির কারণে মধ্যপ্রাচ্যের সমস্যা সমাধান বাধাগ্রস্ত হচ্ছে বলে মন্তব্য করেছেন ওমানের পররাষ্ট্রমন্ত্রী।",
+        "lead_en": "Oman foreign minister stated that US insistence on viewing Iran as a threat hinders Middle East peace.",
         "bullets_bn": [
-          "ইরানের পায়দারি ফ্রন্টের কট্টরপন্থীরা পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে দেশটির বেরিয়ে যাওয়ার প্রক্রিয়া শুরুর আহ্বান জানিয়েছে।",
-          "পার্লামেন্ট ও সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের কাছে যুদ্ধ চালিয়ে যাওয়া এবং চুক্তি ত্যাগের এই দাবি জানানো হয়েছে।",
-          "উদারপন্থী প্রেসিডেন্ট মাসুদ পেজেশকিয়ানের যুক্তরাষ্ট্রপন্থী আলোচনার প্রচেষ্টার বিরুদ্ধে কট্টরপন্থীরা রাজনৈতিক চাপ আরও বাড়িয়ে দিয়েছে।"
+          "গালফ রাষ্ট্র, ইরান ও ইরাককে অন্তর্ভুক্ত করে একটি অব্রেড সুরক্ষা চুক্তির আহ্বান জানিয়েছেন ওমানের পররাষ্ট্রমন্ত্রী।",
+          "যুক্তরাষ্ট্রকে ভবিষ্যতের প্রধান নিরাপত্তা প্রদানকারী হিসেবে বিবেচনা না করার প্রস্তাব দেওয়া হয়েছে।",
+          "অঞ্চলটির নিরাপত্তা ব্যবস্থা নিশ্চিত করতে স্থানীয় শক্তিগুলোকে নিজেদের সম্মিলিত দায়িত্ব নিতে হবে।"
         ],
         "bullets_en": [
-          "Iran's hardline Paydari Front demanded the initiation of a withdrawal process from the nuclear non-proliferation treaty.",
-          "The faction formally urged the parliament and supreme national security council to abandon diplomacy and continue the conflict.",
-          "Hardliners have escalated domestic political pressure against moderate President Masoud Pezeshkian's diplomatic engagement efforts with Washington."
+          "Oman foreign minister proposed a non-aggression security pact involving Gulf states, Iran, and Iraq.",
+          "The proposal suggests the US should no longer act as the primary security provider for the region.",
+          "Regional powers must take collective responsibility to resolve security challenges without external intervention."
         ],
-        "impact_bn": "এই রাজনৈতিক দ্বন্দ্বের ফলে ইরানের অর্থনীতি পুনরুদ্ধার বাধাগ্রস্ত হচ্ছে এবং সাধারণ মানুষের জীবনযাত্রায় যুদ্ধের মারাত্মক প্রভাব দীর্ঘস্থায়ী হচ্ছে।",
-        "impact_en": "This internal political conflict delays economic recovery in Iran and prolongs the severe civilian hardships caused by the ongoing war.",
-        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে চলমান যুদ্ধের প্রেক্ষাপটে ইরানের অভ্যন্তরীণ রাজনীতিতে তীব্র ক্ষমতার লড়াই চলছে। এক পক্ষে প্রেসিডেন্ট মাসুদ পেজেশকিয়ানের নেতৃত্বাধীন উদারপন্থীরা আলোচনার মাধ্যমে সংকটের সমাধান চাচ্ছেন। অন্য পক্ষে পায়দারি ফ্রন্টের কট্টরপন্থীরা যুদ্ধ চালিয়ে যাওয়ার পক্ষে অবস্থান নিয়েছেন। এই অভ্যন্তরীণ দ্বন্দ্বের কারণে তেহরানের অর্থনীতি ভেঙে পড়ার উপক্রম হয়েছে এবং হরমুজ প্রণালিতে জাহাজ চলাচল বন্ধ থাকায় বিশ্ববাজারে জ্বালানি সরবরাহ মারাত্মকভাবে ব্যাহত হচ্ছে।",
-        "details_en": "Amidst the ongoing war with the US and Israel, Iran faces deep internal political division. Moderate President Masoud Pezeshkian advocates for diplomatic solutions to save the collapsing economy. Conversely, the hardline Paydari Front opposes negotiations and demands continued resistance against Washington. This domestic friction compounds the broader economic fallout and the severe disruption of global energy supplies caused by restricted shipping through the Strait of Hormuz."
-      }
-    },
-    {
-      "story_id": "666f060a-ec4f-5fee-8ecc-c38306a24ea0",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-03%2F81ca639d-5f86-4ac3-adb5-60fde4f109d6%2Fc29e6fd2_fc63_4c89_a02b_4b7d88cf656c.png?rect=0%2C113%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T18:13:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2602,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/tefuf3527y",
-          "title": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার",
-          "snippet": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলায় প্রধান আসামি গ্রেপ্তার",
-        "title_en": "Main suspect arrested over cocktail explosion outside Shilpakala Academy",
-        "summary_bn": "ঢাকা মহানগর পুলিশ রাজধানীর শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণের ঘটনায় করা মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
-        "summary_en": "Dhaka Metropolitan Police arrested the main accused in the case filed over a cocktail explosion outside the Shilpakala Academy.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:13:13+00:00",
-        "lead_bn": "ঢাকা মহানগর পুলিশ রাজধানীর শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণের ঘটনায় করা মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
-        "lead_en": "Dhaka Metropolitan Police arrested the main accused in the case filed over a cocktail explosion outside the Shilpakala Academy.",
-        "bullets_bn": [
-          "নারায়ণগঞ্জের রূপগঞ্জ থেকে আবুল হায়াদ ওরফে দীপু নামের এক যুবককে গ্রেপ্তার করে ডিএমপি।",
-          "গ্রেপ্তার ব্যক্তি নিষিদ্ধ সংগঠন ছাত্রলীগের সদস্য বলে জানিয়েছে ঢাকা মহানগর পুলিশ।",
-          "রমনা থানায় দায়ের করা বিস্ফোরক দ্রব্য আইনের মামলার ভিত্তিতে এই যৌথ অভিযান পরিচালিত হয়।"
-        ],
-        "bullets_en": [
-          "DMP arrested a youth named Abul Hayad alias Dipu from Rupganj in Narayanganj.",
-          "Police identified the arrested individual as a member of the banned student organization Chhatra League.",
-          "The joint operation was conducted based on the explosive substance case filed at Ramna Model Police Station."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও জনমনে তৈরি হওয়া আতঙ্ক এড়াতে দ্রুত অপরাধীদের গ্রেপ্তার জরুরি।",
-        "impact_en": "Swift arrests of perpetrators are crucial to curb law and order deterioration and public panic.",
-        "details_bn": "রাজধানীর সেগুনবাগিচায় বাংলাদেশ শিল্পকলা একাডেমির ২ নম্বর ফটকের পূর্ব পাশের সড়কে দুর্বৃত্তরা ককটেলের বিস্ফোরণ ঘটিয়ে পালিয়ে যায়। হঠাৎ এই বিস্ফোরণের ফলে ওই এলাকায় সাধারণ মানুষের মধ্যে চরম আতঙ্ক ছড়িয়ে পড়ে। এ ঘটনায় পরবর্তী সময়ে রমনা থানায় বিস্ফোরক দ্রব্য আইনে একটি মামলা দায়ের করা হয়। তদন্ত কর্মকর্তা তথ্যপ্রযুক্তির সহায়তায় আসামির অবস্থান শনাক্ত করার পর যৌথ অভিযানে তাকে গ্রেপ্তার করা হয়।",
-        "details_en": "Miscreants detonated a cocktail and fled near Gate No. 2 of the Bangladesh Shilpakala Academy in Segunbagicha, creating panic among locals. A case under the Explosive Substances Act was subsequently filed at Ramna Model Police Station. The investigating officer tracked the suspect's location using information technology, leading to his arrest in a joint operation."
-      }
-    },
-    {
-      "story_id": "ebb8490e-1ff7-5271-9dd9-f2123024d8c1",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
-        "governance_law",
-        "climate_environment",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#Capita",
-        "#PensionScheme",
-        "#UKCivilService"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
-      "image_caption": null,
-      "published_at": "2026-10-26T17:22:52+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.3174,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-          "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
-          "snippet": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happene"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ক্যাপিটার সিভিল সার্ভিস পেনশন পরিচালনাকে চরম ব্যর্থ বলে অভিহিত করেছে মন্ত্রিপরিষদ বিভাগ",
-        "title_en": "Cabinet Office Labels Capita Civil Service Pension Management as Abysmal",
-        "summary_bn": "হাজার হাজার কর্মচারীকে অর্থ প্রদান এবং পেনশনের জন্য দীর্ঘ সময় অপেক্ষায় রাখায় ক্যাপিটার কার্যক্রমের তীব্র সমালোচনা করেছে ব্রিটিশ মন্ত্রিপরিষদ।",
-        "summary_en": "The UK Cabinet Office has sharply criticized outsourcing giant Capita for failing to resolve civil service pension payments.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
-          "governance_law",
-          "climate_environment",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T17:22:52+00:00",
-        "lead_bn": "হাজার হাজার কর্মচারীকে অর্থ প্রদান এবং পেনশনের জন্য দীর্ঘ সময় অপেক্ষায় রাখায় ক্যাপিটার কার্যক্রমের তীব্র সমালোচনা করেছে ব্রিটিশ মন্ত্রিপরিষদ।",
-        "lead_en": "The UK Cabinet Office has sharply criticized outsourcing giant Capita for failing to resolve civil service pension payments.",
-        "bullets_bn": [
-          "ক্যাপিটার পেনশন সেবার মান নিয়ে অসন্তোষ প্রকাশ করে চুক্তি ব্যবস্থাপনাকে অভ্যন্তরীণ বা ইন-সোর্সিং করার সম্ভাবনা উড়িয়ে দেয়নি সরকার।",
-          "চুক্তি সম্পাদনে ব্যর্থতার কারণে ১৮০০ এর অধিক মামলা এক বছরের বেশি সময় ধরে অমীমাংসিত রয়েছে বলে জানিয়েছে কর্তৃপক্ষ।",
-          "প্রশ্রুত কৃত্রিম বুদ্ধিমত্তাভিত্তিক পেনশন সেবা প্রদানে ব্যর্থ হওয়ায় প্রতিষ্ঠানটির প্রধান নির্বাহীর ওপর চরম ক্ষোভ প্রকাশ করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The government refused to rule out in-sourcing the pension management following widespread service delivery failures.",
-          "Over 1800 complex cases have remained unresolved for more than a year due to administrative backlogs.",
-          "The Cabinet Office expressed outrage over the failure to deliver a promised AI-enabled pensions service."
-        ],
-        "impact_bn": "পেনশন ভোগী হাজার হাজার সরকারি চাকরিজীবী ও তাদের পরিবার সঠিক সময়ে পাওনা না পেয়ে দীর্ঘ সময় অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন।",
-        "impact_en": "Thousands of retired civil servants and their families face severe financial distress and delays in receiving retirement payments.",
-        "details_bn": "আউটসোর্সিং প্রতিষ্ঠান ক্যাপিটার বিরুদ্ধে সিভিল সার্ভিস পেনশন স্কিম পরিচালনার ক্ষেত্রে মারাত্মক অবহেলার অভিযোগ ওঠে। হাজার হাজার সরকারি কর্মচারী সময়মতো পেনশন ও অবসরকালীন কোটেশন পেতে ব্যর্থ হন। মন্ত্রিপরিষদ বিভাগ ক্যাপিটার শীর্ষ নির্বাহীদের সাথে একাধিক বৈঠক করে তাদের পারফরম্যান্সকে চরম অসন্তোষজনক বলে অভিহিত করে। ফলস্বরূপ, সরকারি সেবার মান উন্নত করতে এবং ভুক্তভোগীদের ভোগান্তি কমাতে পেনশন ব্যবস্থাপনায় আমূল পরিবর্তন আনার দাবি জোরালো হয়েছে।",
-        "details_en": "Outsourcing giant Capita faced severe criticism from the UK Cabinet Office over its management of the Civil Service pension scheme. Thousands of civil servants were left waiting indefinitely for payments and retirement quotes. Officials labeled the progress as abysmal, noting that over 1,800 complex cases remained unresolved for more than a year. The government warned that in-sourcing the pension scheme management remains a strong possibility if performance fails to improve."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যে দীর্ঘকাল ধরে মার্কিন সামরিক উপস্থিতি ও প্রভাব বজায় রয়েছে। তবে উপসাগরীয় দেশগুলোর সাথে ইরানের চলমান উত্তেজনার প্রেক্ষাপটে এই অঞ্চলে নতুন নিরাপত্তা জোট গঠনের আলোচনা শুরু হয়েছে। ওমানের পররাষ্ট্রমন্ত্রী বাদের আলবুসাইদি কেমব্রিজে দেওয়া ভাষণে জানান যে, আঞ্চলিক শান্তি প্রতিষ্ঠার জন্য বাইরের শক্তির প্রভাব কমিয়ে নিজেদের মধ্যে ঐকমত্য গড়ে তোলা জরুরি।",
+        "details_en": "The Middle East has long relied on US security backing amid ongoing regional tensions between Gulf states and Iran. Oman foreign minister Badr Albusaidi proposed a major shift by calling for regional states to form an inclusive security pact, arguing that external powers have historically complicated local conflict resolution."
       }
     },
     {
@@ -304,7 +298,7 @@
       "published_at": "2026-10-26T17:19:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.3102,
+      "rank_score": 0.2274,
       "sources": [
         {
           "name": "MarketWatch Economy",
@@ -314,10 +308,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সামাজিক নিরাপত্তা সুরক্ষায় জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের প্রস্তাব",
-        "title_en": "Proposals Consider Changing Cost-of-Living Adjustment to Protect Social Security",
-        "summary_bn": "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিল রক্ষার্থে জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ পদ্ধতি সংশোধনের একাধিক প্রস্তাব নিয়ে আলোচনা চলছে।",
-        "summary_en": "Several policy proposals are considering changes to the cost-of-living adjustment to protect the sustainability of Social Security.",
+        "title_bn": "সামাজিক নিরাপত্তা তহবিলের ব্যয় কমাতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের প্রস্তাব",
+        "title_en": "Proposals to Modify Cost-of-Living Adjustment Aim to Secure Social Security",
+        "summary_bn": "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায় পরিবর্তন করে সামাজিক নিরাপত্তা তহবিল রক্ষা করার নতুন প্রস্তাব বিবেচনা করা হচ্ছে।",
+        "summary_en": "Several active proposals aim to alter inflation protection methods for retirees to secure the future of Social Security.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -326,22 +320,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T17:19:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিল রক্ষার্থে জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ পদ্ধতি সংশোধনের একাধিক প্রস্তাব নিয়ে আলোচনা চলছে।",
-        "lead_en": "Several policy proposals are considering changes to the cost-of-living adjustment to protect the sustainability of Social Security.",
+        "lead_bn": "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায় পরিবর্তন করে সামাজিক নিরাপত্তা তহবিল রক্ষা করার নতুন প্রস্তাব বিবেচনা করা হচ্ছে।",
+        "lead_en": "Several active proposals aim to alter inflation protection methods for retirees to secure the future of Social Security.",
         "bullets_bn": [
-          "নীতি নির্ধারকরা অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায়গুলো পুনর্মূল্যায়ন করছেন",
-          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগীদের প্রাপ্ত অর্থের পরিমাণে প্রভাব ফেলতে পারে",
-          "সংশ্লিষ্ট কর্তৃপক্ষ তহবিল সংকটের দীর্ঘমেয়াদি সমাধানের জন্য নতুন কাঠামোর রূপরেখা পর্যালোচনা করছে"
+          "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষার জন্য জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি সংশোধনের প্রস্তাব বিবেচনা করা হচ্ছে।",
+          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগীদের প্রাপ্ত সুবিধার পরিমাণে প্রভাব ফেলতে পারে।",
+          "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিলের দীর্ঘমেয়াদি স্থায়িত্ব নিশ্চিত করতে নীতিগত সংস্কারের পরিকল্পনা চলছে।"
         ],
         "bullets_en": [
-          "Policymakers are reviewing options to alter how retirees receive inflation protection",
-          "Proposed modifications could directly impact the financial benefits received by retirees",
-          "Authorities are evaluating structural frameworks to address long-term funding challenges"
+          "Lawmakers and experts are considering proposals to change how retirees receive inflation protection.",
+          "The potential adjustments could directly alter the financial payouts received by millions of beneficiaries.",
+          "Policy discussions focus on ensuring the long-term solvency and sustainability of the Social Security trust funds."
         ],
-        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে সাধারণ অবসরপ্রাপ্ত নাগরিক ও পেনশনভোগীদের মাসিক আয়ের ওপর সরাসরি প্রভাব পড়বে।",
-        "impact_en": "Retirees and older citizens could see direct changes to their monthly purchasing power and inflation protection.",
-        "details_bn": "সামাজিক নিরাপত্তা তহবিল দীর্ঘমেয়াদে সুরক্ষিত রাখতে বিভিন্ন সময়ে নানা সংস্কার প্রস্তাব পেশ করা হয়েছে। বর্তমান অর্থায়ন সংকট মোকাবিলায় জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ গণনার পদ্ধতি পরিবর্তনের বিষয়টি দীর্ঘদিন ধরে অর্থনীতিবিদ ও নীতিনির্ধারকদের আলোচনার কেন্দ্রবিন্দুতে রয়েছে।",
-        "details_en": "Ensuring the long-term solvency of the Social Security system has led to various reform proposals over the years. Debates surrounding the modification of the cost-of-living adjustment mechanism are central to ongoing discussions among policymakers aimed at addressing structural funding gaps."
+        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে লাখ লাখ অবসরপ্রাপ্ত মানুষের মাসিক আয় এবং জীবনযাত্রার ব্যয় নির্বাহের সক্ষমতা সরাসরি ক্ষতিগ্রস্ত হতে পারে।",
+        "impact_en": "Changes to inflation adjustments could directly reduce monthly payouts for millions of retirees relying on government support.",
+        "details_bn": "মার্কিন যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা ব্যবস্থা দীর্ঘদিন ধরে তহবিল ঘাটতি ও demographic চাপের মুখে রয়েছে। এই ব্যবস্থার দীর্ঘমেয়াদি স্থায়িত্ব বজায় রাখতে মুদ্রাস্ফীতি হিসাব করার পদ্ধতি বা কস্ট-অফ-লিভিং অ্যাডজাস্টমেন্ট (সিওএলএ) পরিবর্তনের নানা প্রস্তাব নিয়ে নীতিনির্ধারকদের মধ্যে আলোচনা চলছে।",
+        "details_en": "The United States Social Security system faces long-term financial shortfalls driven by demographic shifts and rising expenditures. Lawmakers continue to evaluate structural reforms, including altering the cost-of-living adjustment formula, to prevent future benefit cuts and maintain the solvency of the trust funds."
       }
     }
   ]
