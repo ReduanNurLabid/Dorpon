@@ -1,66 +1,125 @@
 {
-  "updated_at": "2026-10-26T20:00:43.171813",
+  "updated_at": "2026-10-26T21:00:46.953624",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "eba7c4a9-dccc-54c9-a215-6f843af8f2f1",
+      "story_id": "ec7a9e05-68a4-57a8-b800-28f311358e1c",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F3w14smov%2FItaly-protest-1.jpg?rect=0%2C73%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T20:37:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5398,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/4a7w0vdc6y",
+          "title": "ইতালিজুড়ে তরুণদের বিক্ষোভ-সহিংসতার পেছনে কী, উদ্বেগে প্রবাসী বাংলাদেশিরাও",
+          "snippet": "ইতালিজুড়ে তরুণদের বিক্ষোভ-সহিংসতার পেছনে কী, উদ্বেগে প্রবাসী বাংলাদেশিরাও"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইতালিতে জীবনযাত্রার ব্যয় বৃদ্ধি ও আবাসনসংকটে তরুণদের তীব্র বিক্ষোভ",
+        "title_en": "Youth Protests Erupt Across Italy Over High Living Costs and Housing Crisis",
+        "summary_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
+        "summary_en": "Thousands of youth and students protested across Italian cities demanding action against surging living costs, housing shortages, and government policies.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T20:37:07+00:00",
+        "lead_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
+        "lead_en": "Thousands of youth and students protested across Italian cities demanding action against surging living costs, housing shortages, and government policies.",
+        "bullets_bn": [
+          "ইতালির রাজধানী রোম ও মিলানসহ বিভিন্ন শহরে অর্থনৈতিক বৈষম্য ও সরকারি নীতির বিরুদ্ধে রাস্তায় নামে হাজারো শিক্ষার্থী ও তরুণ।",
+          "বিক্ষোভ ও সহিংসতার ঘটনায় চার হাজারের বেশি মানুষের পরিচয় যাচাই করেছে এবং নয়জনকে গ্রেপ্তার করেছে জননিরাপত্তা বিভাগ।",
+          "শিক্ষাব্যবস্থার দুরবস্থা ও আবাসনসংকট নিরসনে সরকারের কাছে সুনির্দিষ্ট পদক্ষেপের দাবি জানিয়েছে আন্দোলনকারী তরুণরা।"
+        ],
+        "bullets_en": [
+          "Thousands of students and youth took to the streets across Rome, Milan, and other Italian cities protesting economic hardship and government policies.",
+          "Italian public security authorities verified over four thousand individuals and arrested nine people in connection with widespread protest violence.",
+          "Protesting youth demanded immediate government intervention to resolve soaring housing costs, inflation, and educational funding crises."
+        ],
+        "impact_bn": "ইতালিতে বসবাসরত প্রবাসী বাংলাদেশিসহ সাধারণ শিক্ষার্থীরা জীবনযাত্রার ক্রমবর্ধমান ব্যয় ও আইনশৃঙ্খলা পরিস্থিতির অবনতি নিয়ে উদ্বেগের মধ্যে রয়েছেন।",
+        "impact_en": "Expatriate Bangladeshis and local students living in Italy face growing anxieties amid ongoing street protests and escalating living expenses.",
+        "details_bn": "ইউরোপের অন্যান্য দেশের মতো ইতালিতেও জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট এবং অনিশ্চিত চাকরির বাজারের বিরুদ্ধে তরুণদের মধ্যে তীব্র অসন্তোষ তৈরি হয়েছে। সামাজিক যোগাযোগমাধ্যমে প্রচার চালিয়ে সামাজিক ন্যায়বিচার, সরকারি স্বাস্থ্যসেবা এবং শিক্ষা খাতে বিনিয়োগ বাড়ানোর দাবিতে এই আন্দোলনের ডাক দেওয়া হয়। এর ফলে রোম, মিলান ও তুরিনের মতো বড় শহরগুলোতে পুলিশ এবং বিক্ষোভকারীদের মধ্যে সংঘর্ষের ঘটনা ঘটে।",
+        "details_en": "Growing youth frustration across European nations has triggered widespread protests in Italy driven by soaring living costs, acute housing shortages, and an unstable job market. Mobilized through social media platforms, demonstrators have demanded increased government investment in public education and healthcare, leading to frequent clashes with law enforcement in major cities like Rome, Milan, and Turin."
+      }
+    },
+    {
+      "story_id": "123a1fed-1771-5ea8-843e-0be742f58e12",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "society_education"
+        "society_education",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-01-26%2Ftwusnm6g%2FICT-verdict.jpg?rect=0%2C12%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-10%2Fkjl94tya%2Fu2coxzhb.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T19:23:24+00:00",
+      "published_at": "2026-10-26T19:22:05+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.8817,
+      "rank_score": 1.2269,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/zthrojae80",
-          "title": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী",
-          "snippet": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী"
+          "url": "https://www.prothomalo.com/bangladesh/wwckm577fe",
+          "title": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ ও সেতুর অবকাঠামোর নিরাপত্তা নিশ্চিত চেয়ে হাইকোর্টে রিট",
+          "snippet": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ ও সেতুর অবকাঠামোর নিরাপত্তা নিশ্চিত চেয়ে হাইকোর্টে রিট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগে ট্রাইব্যুনালে সুপ্রিম কোর্টের দুই আইনজীবীর ক্ষমা প্রার্থনা",
-        "title_en": "Supreme Court Lawyers Apologize to Tribunal for Contempt of Court",
-        "summary_bn": "জুলাই গণ-অভ্যুত্থান মামলার রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
-        "summary_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media remarks over a verdict.",
+        "title_bn": "পদ্মা সেতু ও নদীর সুরক্ষায় অবৈধ বালু উত্তোলন বন্ধে হাইকোর্টে রিট",
+        "title_en": "Writ Petition Filed in High Court to Stop Illegal Sand Extraction",
+        "summary_bn": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ এবং সেতুর অবকাঠামো রক্ষা করতে হাইকোর্টে রিট আবেদন করা হয়েছে।",
+        "summary_en": "A writ petition has been filed in the High Court to halt illegal sand extraction and protect the Padma Bridge.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "society_education"
+          "society_education",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T19:23:24+00:00",
-        "lead_bn": "জুলাই গণ-অভ্যুত্থান মামলার রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করার ঘটনায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
-        "lead_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media remarks over a verdict.",
+        "published_at": "2026-10-26T19:22:05+00:00",
+        "lead_bn": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ এবং সেতুর অবকাঠামো রক্ষা করতে হাইকোর্টে রিট আবেদন করা হয়েছে।",
+        "lead_en": "A writ petition has been filed in the High Court to halt illegal sand extraction and protect the Padma Bridge.",
         "bullets_bn": [
-          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২-এর কাছে আদালত অবমাননার অভিযোগে নিঃশর্ত ক্ষমা প্রার্থনা করেছেন সুপ্রিম কোর্টের দুই আইনজীবী মো. হাসানুজ্জামান তুষার ও মোহাম্মদ হাসান চৌধুরী।",
-          "শুনানিতে আইনজীবীরা জানান যে তাঁরা ভুল বুঝতে পেরেছেন, অনুতপ্ত হয়েছেন এবং সংশ্লিষ্ট সামাজিক যোগাযোগমাধ্যমের পোস্টগুলো মুছে ফেলেছেন।",
-          "ট্রাইব্যুনাল মামলাটির পরবর্তী শুনানির জন্য আগামী ২৫ জানুয়ারি দিন ধার্য করেছেন।"
+          "মানবাধিকার ও সমাজ উন্নয়ন সংস্থার চেয়ারম্যান এবং সুপ্রিম কোর্টের আইনজীবী মো গোলাম রহমান ভূঁইয়া রিটটি দায়ের করেন",
+          "নদীর স্বাভাবিক প্রবাহ রক্ষা এবং পদ্মা সেতুর অবকাঠামো ঝুঁকিতে রয়েছে কি না তা তদন্তের নির্দেশনা চাওয়া হয়েছে",
+          "বিচারপতি আহমেদ সোহেলের নেতৃত্বাধীন হাইকোর্ট বেঞ্চে চলতি সপ্তাহে রিটটির ওপর শুনানি অনুষ্ঠিত হতে পারে"
         ],
         "bullets_en": [
-          "Two Supreme Court lawyers, Md. Hasanuzzaman Tushar and Mohammad Hasan Chowdhury, apologized to International Crimes Tribunal-2 for contempt of court.",
-          "Defence counsel stated during the hearing that the accused lawyers recognized their mistake, deleted their social media posts, and expressed remorse.",
-          "The tribunal set January 25 for the next hearing of the contempt proceedings."
+          "Supreme Court lawyer and organization chairman Md Golam Rahman Bhuiyan filed the petition.",
+          "The petition seeks directives to protect natural river flow and investigate risks to the Padma Bridge.",
+          "A High Court bench led by Justice Ahmed Sohel may hear the petition this week."
         ],
-        "impact_bn": "আইনজীবীদের পেশাগত দায়িত্বশীলতা ও বিচার বিভাগের প্রতি শ্রদ্ধাবোধ বজায় রাখার গুরুত্ব নতুন করে আলোচনায় এসেছে।",
-        "impact_en": "The incident reinforces the importance of professional responsibility and respect for the judiciary among legal practitioners.",
-        "details_bn": "জুলাই গণ-অভ্যুত্থানের সময় মানবতাবিরোধী অপরাধের মামলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদেরসহ সাত আসামির মৃত্যুদণ্ডের রায় দেয় ট্রাইব্যুনাল-২। ওই রায়ের পর সামাজিক যোগাযোগমাধ্যমে অবমাননাকর মন্তব্য করেন সুপ্রিম কোর্টের দুই আইনজীবী হাসানুজ্জামান তুষার ও মোহাম্মদ হাসান চৌধুরী। এ ঘটনায় ট্রাইব্যুনালের প্রসিকিউশন পক্ষ আদালত অবমাননার অভিযোগ আনে। শুনানিতে আসামিপক্ষ ভুল স্বীকার করে পোস্ট মুছে ফেলার কথা জানালে ট্রাইব্যুনাল ২৫ জানুয়ারি পরবর্তী শুনানির তারিখ নির্ধারণ করেন।",
-        "details_en": "Following the tribunal's death sentence verdict against seven accused, including ousted Awami League general secretary Obaidul Quader for crimes against humanity during the July uprising, two Supreme Court lawyers posted contemptuous remarks on social media. The tribunal's prosecution brought charges against them. During the hearing, defence counsel stated the lawyers deleted the posts and regretted their actions, leading the tribunal to schedule the next hearing for January 25."
+        "impact_bn": "নদীভাঙন রোধ ও পরিবেশ রক্ষার মাধ্যমে নদীতীরবর্তী মানুষের জীবন-জীবিকা এবং কৃষিজমি সুরক্ষা পাবে।",
+        "impact_en": "Protecting the river will safeguard the livelihoods and agricultural lands of riverside communities from erosion.",
+        "details_bn": "পদ্মা নদী থেকে অপরিকল্পিত ও অবৈধভাবে বালু উত্তোলনের ফলে নদীর প্রাকৃতিক গঠন, জীববৈচিত্র্য এবং নদীতীরের স্থিতিশীলতা মারাত্মকভাবে ক্ষতিগ্রস্ত হচ্ছে। এর ফলে নদীভাঙন রোধ এবং জাতীয় গুরুত্বপূর্ণ স্থাপনা পদ্মা সেতুর নিরাপত্তা নিশ্চিত করতে আইনি পদক্ষেপের দাবি জানিয়ে মানবাধিকার ও সমাজ উন্নয়ন সংস্থার পক্ষ থেকে হাইকোর্টে এই রিট আবেদন করা হয়।",
+        "details_en": "Unplanned and illegal sand extraction from the Padma River has severely impacted its natural formation, biodiversity, and riverbank stability. To prevent erosion and ensure the security of the vital Padma Bridge infrastructure, a writ petition was filed in the High Court by a human rights and social development organization."
       }
     },
     {
-      "story_id": "66659b33-2ffa-5dc1-b00c-203509b729e0",
+      "story_id": "ef0529f5-ce14-5811-83a0-b04f8ad9528f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -72,50 +131,167 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T18:27:00+00:00",
+      "published_at": "2026-10-26T18:56:20+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.2641,
+      "importance_score": 7.2,
+      "rank_score": 1.1583,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172334",
-          "title": "দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর জাপান সফর গুরুত্বপূর্ণ",
-          "snippet": "দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর জাপান সফর গুরুত্বপূর্ণ"
+          "url": "https://www.jagonews24.com/national/news/1172335",
+          "title": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ",
+          "snippet": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপানের সাথে দীর্ঘমেয়াদি অংশীদারত্ব গড়তে প্রধানমন্ত্রীর সফর অত্যন্ত গুরুত্বপূর্ণ",
-        "title_en": "Prime Minister Japan Visit Crucial for Building Long-Term Partnership",
-        "summary_bn": "জাপানের সাথে সহযোগিতার নতুন ক্ষেত্র তৈরিতে প্রধানমন্ত্রীর এই সফর দ্বিপক্ষীয় সম্পর্ক জোরদার করবে।",
-        "summary_en": "The Prime Minister visit to Japan creates vital opportunities to forge a long-term partnership and expand cooperation.",
+        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন তারেক রহমান ও সানায়ে তাকাইচি",
+        "title_en": "Tarique Rahman and Sanae Takaichi to Lead Bangladesh-Japan Bilateral Summit",
+        "summary_bn": "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে দুই দেশের শীর্ষ নেতারা বৈঠকে মিলিত হচ্ছেন।",
+        "summary_en": "Top leaders of Bangladesh and Japan are meeting to enhance bilateral relations and economic cooperation between the two nations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:27:00+00:00",
-        "lead_bn": "জাপানের সাথে সহযোগিতার নতুন ক্ষেত্র তৈরিতে প্রধানমন্ত্রীর এই সফর দ্বিপক্ষীয় সম্পর্ক জোরদার করবে।",
-        "lead_en": "The Prime Minister visit to Japan creates vital opportunities to forge a long-term partnership and expand cooperation.",
+        "published_at": "2026-10-26T18:56:20+00:00",
+        "lead_bn": "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে দুই দেশের শীর্ষ নেতারা বৈঠকে মিলিত হচ্ছেন।",
+        "lead_en": "Top leaders of Bangladesh and Japan are meeting to enhance bilateral relations and economic cooperation between the two nations.",
         "bullets_bn": [
-          "জাপানের সাথে পারস্পরিক স্বার্থে নতুন সহযোগিতার ক্ষেত্র উন্মোচন করা হচ্ছে।",
-          "দীর্ঘমেয়াদি অর্থনৈতিক ও কৌশলগত অংশীদারত্ব গড়ে তোলার ওপর বিশেষ গুরুত্ব দেওয়া হয়েছে।",
-          "উভয় দেশের উচ্চপর্যায়ের আলোচনার মাধ্যমে দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় হবে।"
+          "বাংলাদেশ ও জাপানের শীর্ষ বৈঠকে দুই দেশের দ্বিপক্ষীয় সম্পর্ক নিয়ে আলোচনা হবে।",
+          "বৈঠকে নেতৃত্ব দিচ্ছেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি।",
+          "আলোচনা শেষে দুই দেশের মধ্যে নতুন বাণিজ্য ও সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।"
         ],
         "bullets_en": [
-          "New fields of cooperation are being established with Japan for mutual interests.",
-          "Special emphasis has been placed on building a long-term economic and strategic partnership.",
-          "Bilateral relations will be further strengthened through high-level discussions between the two nations."
+          "The bilateral summit focuses on strengthening diplomatic and economic ties between Bangladesh and Japan.",
+          "The high-level meeting is led by Bangladesh Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi.",
+          "New trade and cooperation agreements are expected to be signed following the conclusion of the talks."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিন ধরে বন্ধুত্বপূর্ণ দ্বিপক্ষীয় সম্পর্ক বজায় রয়েছে। অর্থনৈতিক উন্নয়ন, বাণিজ্য সম্প্রসারণ এবং প্রযুক্তিগত সহায়তায় জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। এই সফর দুই দেশের মধ্যকার সহযোগিতাকে নতুন উচ্চতায় নিয়ে যাওয়ার ক্ষেত্রে একটি কৌশলগত পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
-        "details_en": "Bangladesh and Japan have maintained a friendly bilateral relationship for decades. Japan is one of Bangladesh's primary development partners in economic growth, trade expansion, and technological cooperation. This visit is considered a strategic step to take the bilateral cooperation to new heights."
+        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য বৃদ্ধি এবং তরুণদের জন্য কর্মসংস্থানের নতুন সুযোগ তৈরি হতে পারে।",
+        "impact_en": "The meeting is expected to boost bilateral trade and create new employment opportunities for youth.",
+        "details_bn": "বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক সম্পর্ক রয়েছে। অর্থনৈতিক উন্নয়ন, অবকাঠামো নির্মাণ এবং বিনিয়োগের ক্ষেত্রে জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। নিয়মিত এই উচ্চপর্যায়ের বৈঠকের মাধ্যমে দুই দেশের মধ্যকার দ্বিপক্ষীয় সহযোগিতা আরও সুদৃঢ় হয়।",
+        "details_en": "Bangladesh and Japan share a long-standing friendly diplomatic relationship. Japan remains one of major development partners for Bangladesh in economic development, infrastructure building, and investment. Such high-level bilateral meetings continuously strengthen cooperation between the two nations."
       }
     },
     {
-      "story_id": "cc1f823e-87d2-593a-9adc-19b0069bb1e8",
+      "story_id": "dcf451d7-d558-5c4e-812f-781b1fafcf69",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#MyGov",
+        "#Technology",
+        "#Innovation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T20:49:18+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8637,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/tech-and-gadget/976955/%E0%A6%AA%E0%A6%BF%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E2%80%98%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%97%E0%A6%AD%E2%80%99-%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF",
+          "title": "পিএইচপির ত্রুটিতে বন্ধ ‘মাইগভ’, মিলছে না সরকারি সেবা",
+          "snippet": "পিএইচপির ত্রুটিতে বন্ধ ‘মাইগভ’, মিলছে না সরকারি সেবা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নিরাপত্তা ত্রুটির কারণে বন্ধ রয়েছে সরকারি সেবা প্ল্যাটফর্ম মাইগভ",
+        "title_en": "Government Service Platform MyGov Suspended Due to Security Flaw",
+        "summary_bn": "নিরাপত্তা জোরদার করতে পিএইচপির ত্রুটির কারণে কেন্দ্রীয় অনলাইন সরকারি সেবা প্ল্যাটফর্ম মাইগভের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "summary_en": "The central online government service platform MyGov has been temporarily suspended to strengthen security following a PHP vulnerability.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T20:49:18+00:00",
+        "lead_bn": "নিরাপত্তা জোরদার করতে পিএইচপির ত্রুটির কারণে কেন্দ্রীয় অনলাইন সরকারি সেবা প্ল্যাটফর্ম মাইগভের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "lead_en": "The central online government service platform MyGov has been temporarily suspended to strengthen security following a PHP vulnerability.",
+        "bullets_bn": [
+          "সাইটটিতে পিএইচপির নিরাপত্তা ত্রুটি চিহ্নিত হওয়ার পর তা হালনাগাদ ও সুরক্ষার জন্য বন্ধ রাখা হয়।",
+          "ওয়েবসাইটে প্রবেশের চেষ্টা করলে ওয়েব সার্ভার ইজ ডাউন বার্তা প্রদর্শন করছে।",
+          "কর্তৃপক্ষ ত্রুটি নিরসন করে দ্রুত সাইটটি পুনরায় সচল করার কাজ চালিয়ে যাচ্ছে।"
+        ],
+        "bullets_en": [
+          "The platform was shut down for updates and protection after a PHP security vulnerability was identified.",
+          "Attempting to access the website currently displays a web server is down error message.",
+          "Authorities are working to resolve the issue and restore the site operations shortly."
+        ],
+        "impact_bn": "অনলাইনে বিভিন্ন সরকারি সেবা পেতে সাধারণ নাগরিক ও সেবাগ্রহীতারা সাময়িক ভোগান্তির শিকার হচ্ছেন।",
+        "impact_en": "Ordinary citizens and service seekers are facing temporary disruptions in accessing various government services online.",
+        "details_bn": "ডিজিটাল বাংলাদেশ গড়ার অংশ হিসেবে নাগরিকদের দোরগোড়ায় সেবা পৌঁছে দিতে চালু করা হয় মাইগভ প্ল্যাটফর্ম। সরকারের এটুআই প্রকল্পের অধীনে পরিচালিত এই প্ল্যাটফর্মে বিভিন্ন মন্ত্রণালয় ও দপ্তরের সেবা অনলাইনে পাওয়া যায়। সম্প্রতি সিস্টেমে পিএইচপি সংক্রান্ত নিরাপত্তা ত্রুটি ধরা পড়ার পর, ব্যবহারকারীদের ডেটা সুরক্ষার স্বার্থে ওয়েবসাইটটি সাময়িকভাবে বন্ধ রাখার সিদ্ধান্ত নেয় কতৃপক্ষ। কারিগরি ত্রুটি সমাধান শেষে সেবাগুলো পুনরায় চালুর প্রক্রিয়া চলছে।",
+        "details_en": "The MyGov platform was launched to deliver government services directly to citizens as part of the Digital Bangladesh initiative. Operated under the government's a2i project, the platform provides online access to services from various ministries and departments. Following the detection of a PHP-related security flaw in the system, authorities decided to temporarily shut down the website to protect user data. Technical teams are currently working to resolve the issue and restore normal operations."
+      }
+    },
+    {
+      "story_id": "2c77c9de-b2bc-5e67-bc24-202aecd90e49",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "tech_innovation",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#AustralianPolitics",
+        "#PoliticalDebate"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
+      "image_caption": null,
+      "published_at": "2026-10-26T20:53:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.7918,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+          "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
+          "snippet": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly a"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অস্ট্রেলীয় রাজনীতিতে রাজনৈতিক বিতর্ক ও শ্রদ্ধাবোধ বজায় রাখার আহ্বান",
+        "title_en": "Australian Senators Call for Respectful Political Debate Amid Incidents",
+        "summary_bn": "অস্ট্রেলীয় রাজনীতিবিদরা নীতিগত বিতরণে দৃঢ়তা বজায় রাখার পাশাপাশি পারস্পরিক শ্রদ্ধা ও শালীনতা রক্ষা করার ওপর জোর দিয়েছেন।",
+        "summary_en": "Australian politicians emphasize maintaining respect and accountability while engaging in robust political debate.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
+          "tech_innovation",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T20:53:00+00:00",
+        "lead_bn": "অস্ট্রেলীয় রাজনীতিবিদরা নীতিগত বিতরণে দৃঢ়তা বজায় রাখার পাশাপাশি পারস্পরিক শ্রদ্ধা ও শালীনতা রক্ষা করার ওপর জোর দিয়েছেন।",
+        "lead_en": "Australian politicians emphasize maintaining respect and accountability while engaging in robust political debate.",
+        "bullets_bn": [
+          "রাজনৈতিক বিতরণে দৃঢ়তা ও শালীনতা বজায় রাখার প্রয়োজনীয়তা তুলে ধরেন লিবারেল সিনেটর অ্যান রাস্টন",
+          "রাজনীতিবিদদের ভূমিকার ওপর গুরুত্ব দিয়ে দায়িত্বশীল আচরণ করার আহ্বান জানান আইন প্রণেতারা",
+          "জাতীয় পর্যায়ে রাজনৈতিক সহিংসতার ঘটনাগুলোর প্রেক্ষাপটে জনপরিসরে শ্রদ্ধাবোধ বাড়ানোর তাগিদ দেওয়া হয়"
+        ],
+        "bullets_en": [
+          "Liberal Senator Anne Ruston stresses the necessity of maintaining respect within political debates",
+          "Lawmakers emphasize the heavy responsibility politicians hold in shaping national civic discourse",
+          "Calls for heightened parliamentary decorum follow recent incidents of attacks and political tensions"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অস্ট্রেলীয় সংসদে সাম্প্রতিক সময়ে রাজনৈতিক ব্যক্তিত্বদের ওপর হামলা ও উত্তেজনাকর পরিস্থিতির প্রেক্ষাপটে রাজনীতিতে শালীনতা ও শ্রদ্ধাবোধ ফিরিয়ে আনার দাবি জোরালো হয়েছে। বিভিন্ন দলের নেতারা মনে করেন, সরকারের জবাবদিহিতা নিশ্চিত করার পাশাপাশি সংসদীয় বিতরণের মান রক্ষা করা অত্যন্ত জরুরি।",
+        "details_en": "Tensions in Australian politics escalated following reported security incidents involving members of parliament, prompting renewed discussions on parliamentary decorum. Lawmakers continue to debate the balance between holding governments accountable and ensuring respectful public discourse."
+      }
+    },
+    {
+      "story_id": "6d6cfdef-48f0-5fe3-bfdf-db08f71ade23",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -125,217 +301,48 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F7i5ulmmb%2FWhatsApp-Image-2026-10-27-at-12.37.30-AM.jpeg?rect=0%2C144%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F2kkab1y2%2FKingfisher-Drive.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T18:38:17+00:00",
+      "published_at": "2026-10-26T20:46:22+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.9864,
+      "importance_score": 2.4,
+      "rank_score": 0.8394,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/kfo9vpa2td",
-          "title": "সিপিবির মিছিলে ‘জয় বাংলা’ স্লোগান দেওয়ার অভিযোগ তুলে হামলা",
-          "snippet": "সিপিবির মিছিলে ‘জয় বাংলা’ স্লোগান দেওয়ার অভিযোগ তুলে হামলা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/capital/ebfhqbd2zd",
+          "title": "গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান: বিলবোর্ডের আড়ালে গোপন গুদাম, বিপুল মদ-বিয়ার জব্দ",
+          "snippet": "গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান: বিলবোর্ডের আড়ালে গোপন গুদাম, বিপুল মদ-বিয়ার জব্দ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পল্টনে সিপিবির মিছিলে হামলা চালাল যুবদল ও ছাত্রদলের পরিচয়ে ব্যক্তিরা",
-        "title_en": "Attack on CPB Rally in Paltan Over Slogans Triggers Tension",
-        "summary_bn": "জয় বাংলা স্লোগান দেওয়ার অভিযোগে ঢাকার পল্টনে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে দলটির নেতা-কর্মীদের ওপর হামলা চালানো হয়েছে।",
-        "summary_en": "Activists identifying as Jubo Dal and Chhatra Dal attacked a CPB rally in Paltan over alleged slogans.",
+        "title_bn": "গুলশানের রেস্তোরাঁয় এনবিআরের অভিযানে বিপুল পরিমাণ মদ ও বিয়ার জব্দ",
+        "title_en": "NBR Seizes Huge Quantity of Alcohol from Gulshan Restaurant",
+        "summary_bn": "রাজধানীর গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান চালিয়ে বিলবোর্ডের আড়ালে থাকা গোপন গুদাম থেকে ২৩৫৮ লিটার মদ ও বিয়ার জব্দ করেছে এনবিআর।",
+        "summary_en": "The NBR seized 2358 liters of alcohol and beer from a hidden warehouse behind a billboard at a Gulshan restaurant.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:38:17+00:00",
-        "lead_bn": "জয় বাংলা স্লোগান দেওয়ার অভিযোগে ঢাকার পল্টনে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে দলটির নেতা-কর্মীদের ওপর হামলা চালানো হয়েছে।",
-        "lead_en": "Activists identifying as Jubo Dal and Chhatra Dal attacked a CPB rally in Paltan over alleged slogans.",
+        "published_at": "2026-10-26T20:46:22+00:00",
+        "lead_bn": "রাজধানীর গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান চালিয়ে বিলবোর্ডের আড়ালে থাকা গোপন গুদাম থেকে ২৩৫৮ লিটার মদ ও বিয়ার জব্দ করেছে এনবিআর।",
+        "lead_en": "The NBR seized 2358 liters of alcohol and beer from a hidden warehouse behind a billboard at a Gulshan restaurant.",
         "bullets_bn": [
-          "ছাত্র ইউনিয়নের সাবেক নেতার মুক্তির পর আয়োজিত সিপিবির মিছিলে জয় বাংলা স্লোগান দেওয়া নিয়ে এই সংঘর্ষের সূত্রপাত হয়।",
-          "হামলাকারীরা সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে অবস্থান নিয়ে দুজন নেতা-কর্মীকে মারধর করে বলে জানিয়েছেন দলটির নেতারা।",
-          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ ঘটনাস্থলে উপস্থিত হয়ে উভয় পক্ষকে শান্ত করার চেষ্টা চালায়।"
+          "জাতীয় রাজস্ব বোর্ডের চারটি গোয়েন্দা সংস্থা গুলশানের কিংফিশার রেস্তোরাঁয় যৌথ অভিযান পরিচালনা করে।",
+          "অভিযানে ৮২৬ লিটার মদ ও ১৫৩৩ লিটার বিয়ার জব্দ করা হয় যার আনুমানিক বাজারমূল্য প্রায় ৯২ লাখ টাকা।",
+          "প্রতিষ্ঠানটির বিরুদ্ধে শুল্ক ফাঁকির অভিযোগ খতিয়ে দেখতে তদন্ত চলছে এবং আইনানুগ ব্যবস্থা নেওয়া হবে।"
         ],
         "bullets_en": [
-          "Clashes erupted during a CPB rally over slogans chanted following the release of a former student leader.",
-          "Assailants gathered outside the central CPB office and physically assaulted two party activists.",
-          "Police intervened at the scene to control the situation and ensure security."
-        ],
-        "impact_bn": "রাজনৈতিক সহিংসতা ও কার্যালয়ে হামলার ঘটনা সাধারণ মানুষের মধ্যে আইনশৃঙ্খলা পরিস্থিতি নিয়ে উদ্বেগ বাড়াচ্ছে।",
-        "impact_en": "Political violence and clashes at party offices heighten public concern regarding law and order stability.",
-        "details_bn": "সুনামগঞ্জে নারী বাউলশিল্পীদের গান গাইতে বাধা দেওয়ার প্রতিবাদ করতে গিয়ে আটক ছাত্র ইউনিয়নের সাবেক সভাপতি দীপক শীল মুক্তি পাওয়ার পর ঢাকায় এই বিক্ষোভ মিছিল বের করা হয়। পল্টন মোড়ে সংক্ষিপ্ত সমাবেশে স্লোগান দেওয়াকে কেন্দ্র করে এই উত্তেজনা ছড়ায়। সিপিবি নেতারা এই ঘটনার তীব্র নিন্দা জানিয়ে সরকারের কাছে রাজনৈতিক সহনশীলতা ও নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছেন।",
-        "details_en": "Tensions escalated in Dhaka following a rally organized after the release of former Chhatra Union president Deepak Shil, who was earlier detained while protesting restrictions on female baul singers in Sunamganj. A dispute arose over slogans chanted during a brief rally near Paltan intersection, leading to physical altercations outside the central Communist Party office and drawing widespread political concern."
-      }
-    },
-    {
-      "story_id": "87b4bb65-7b97-5a54-a6e6-48a8e6f705fe",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F5h1mv8ls%2F3.avif?rect=0%2C44%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T19:55:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9187,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/z146yaakc3",
-          "title": "আ.লীগ আমলের পরিস্থিতি তুলে ধরে পিরোজপুরে মানিক পশারীর দাফনে বাধার নিন্দা জানালেন নাহিদ ইসলাম",
-          "snippet": "আ.লীগ আমলের পরিস্থিতি তুলে ধরে পিরোজপুরে মানিক পশারীর দাফনে বাধার নিন্দা জানালেন নাহিদ ইসলাম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পিরোজপুরে বীর মুক্তিযোদ্ধার দাফনে বাধা দেওয়ার ঘটনায় নাহিদ ইসলামের নিন্দা",
-        "title_en": "Nahid Islam Condemns Obstruction of Freedom Fighter Burial in Pirojpur",
-        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার তীব্র নিন্দা জানিয়েছেন।",
-        "summary_en": "National Citizen Party convener Nahid Islam strongly condemned the obstruction of freedom fighter Manik Pashari's burial in Pirojpur.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T19:55:21+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার তীব্র নিন্দা জানিয়েছেন।",
-        "lead_en": "National Citizen Party convener Nahid Islam strongly condemned the obstruction of freedom fighter Manik Pashari's burial in Pirojpur.",
-        "bullets_bn": [
-          "বীর মুক্তিযোদ্ধা মানিক পশারীর মরদেহ দাফনে বাধা দেওয়ার ঘটনায় নিন্দা জানিয়ে ফেসবুকে পোস্ট দেন নাহিদ ইসলাম।",
-          "নাহিদ ইসলাম বলেন যে জানাজা পড়া ও লাশ দাফন করা যেকোনো মানুষের ন্যূনতম মানবিক ও ধর্মীয় অধিকার।",
-          "ফ্যাসিবাদী আচরণ পরিহার করে জুলাই গণ-অভ্যুত্থান পরবর্তী বাংলাদেশে আইনের শাসন ও ইনসাফ প্রতিষ্ঠার আহ্বান জানানো হয়।"
-        ],
-        "bullets_en": [
-          "Nahid Islam posted on Facebook condemning the obstruction of freedom fighter Manik Pashari's burial.",
-          "Nahid stated that performing funeral prayers and burying bodies are fundamental human and religious rights.",
-          "The statement urged abandoning fascist behaviors and establishing justice in post-uprising Bangladesh."
-        ],
-        "impact_bn": "এই ঘটনা নাগরিকদের মৌলিক মানবাধিকার এবং ধর্মীয় অধিকার সুরক্ষার বিষয়ে জনসচেতনতা তৈরি করে।",
-        "impact_en": "This incident raises public awareness regarding the protection of fundamental human and religious rights for citizens.",
-        "details_bn": "একাত্তরের মানবতাবিরোধী অপরাধ মামলায় জামায়াতের সাবেক নেতা দেলাওয়ার হোসাইন সাঈদীর বিরুদ্ধে সাক্ষ্য দেওয়া বীর মুক্তিযোদ্ধা মানিক পশারী মারা যাওয়ার পর তাঁর দাফনকে কেন্দ্র করে পিরোজপুরে উত্তেজনা দেখা দেয়। জামায়াতের স্থানীয় নেতাকর্মী ও সাধারণ মানুষের একাংশের বিরোধিতায় শেষ পর্যন্ত নিজ বাড়ির পারিবারিক কবরস্থানে তাঁকে দাফন করা হয়। এ ঘটনার পর জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম সামাজিক যোগাযোগমাধ্যমে প্রতিক্রিয়া জানিয়ে আওয়ামী আমলের বিভিন্ন জানাজা ও দাফন বাধার প্রসঙ্গ তুলে ইনসাফ প্রতিষ্ঠার কথা বলেন।",
-        "details_en": "Tension arose in Pirojpur following the death of freedom fighter Manik Pashari, who had testified against former Jamaat leader Delwar Hossain Sayeedi in crimes against humanity cases. Amid opposition from local groups regarding his burial, he was eventually buried in his family graveyard. Following the incident, National Citizen Party convener Nahid Islam reacted on social media, drawing parallels to past burial obstructions during the Awami League regime and calling for justice."
-      }
-    },
-    {
-      "story_id": "f85ee6ca-bcbf-5670-91c0-565a9a3f13f0",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#MiddleEastPeace",
-        "#Oman",
-        "#USForeignPolicy"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/cffe3efdbd2aa053842b2cdb4837bc57232c81f7/747_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c9d8860e5af97521311ffa12422666d",
-      "image_caption": null,
-      "published_at": "2026-10-26T19:12:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 0.8862,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/26/saudi-pakistani-turkish-delegation-iran-avert-flare-up-conflict-us",
-          "title": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says",
-          "snippet": "Middle East peace held back by US insistence that Iran is a threat, Oman’s foreign minister says"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মধ্যপ্রাচ্যে মার্কিন নীতির কারণে শান্তি বাধাগ্রস্ত হচ্ছে বলে ওমানের পররাষ্ট্রমন্ত্রীর মন্তব্য",
-        "title_en": "US Policy Holds Back Middle East Peace, Says Oman Foreign Minister",
-        "summary_bn": "যুক্তরাষ্ট্রের দীর্ঘদিনের ইরানবিরোধী নীতির কারণে মধ্যপ্রাচ্যের সমস্যা সমাধান বাধাগ্রস্ত হচ্ছে বলে মন্তব্য করেছেন ওমানের পররাষ্ট্রমন্ত্রী।",
-        "summary_en": "Oman foreign minister stated that US insistence on viewing Iran as a threat hinders Middle East peace.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T19:12:09+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের দীর্ঘদিনের ইরানবিরোধী নীতির কারণে মধ্যপ্রাচ্যের সমস্যা সমাধান বাধাগ্রস্ত হচ্ছে বলে মন্তব্য করেছেন ওমানের পররাষ্ট্রমন্ত্রী।",
-        "lead_en": "Oman foreign minister stated that US insistence on viewing Iran as a threat hinders Middle East peace.",
-        "bullets_bn": [
-          "গালফ রাষ্ট্র, ইরান ও ইরাককে অন্তর্ভুক্ত করে একটি অব্রেড সুরক্ষা চুক্তির আহ্বান জানিয়েছেন ওমানের পররাষ্ট্রমন্ত্রী।",
-          "যুক্তরাষ্ট্রকে ভবিষ্যতের প্রধান নিরাপত্তা প্রদানকারী হিসেবে বিবেচনা না করার প্রস্তাব দেওয়া হয়েছে।",
-          "অঞ্চলটির নিরাপত্তা ব্যবস্থা নিশ্চিত করতে স্থানীয় শক্তিগুলোকে নিজেদের সম্মিলিত দায়িত্ব নিতে হবে।"
-        ],
-        "bullets_en": [
-          "Oman foreign minister proposed a non-aggression security pact involving Gulf states, Iran, and Iraq.",
-          "The proposal suggests the US should no longer act as the primary security provider for the region.",
-          "Regional powers must take collective responsibility to resolve security challenges without external intervention."
+          "Four intelligence units of the National Board of Revenue conducted a joint raid at Kingfisher restaurant in Gulshan.",
+          "The raid led to the seizure of 826 liters of liquor and 1533 liters of beer worth approximately 92 lakh taka.",
+          "Authorities are investigating tax evasion allegations against the establishment and legal action will follow."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যে দীর্ঘকাল ধরে মার্কিন সামরিক উপস্থিতি ও প্রভাব বজায় রয়েছে। তবে উপসাগরীয় দেশগুলোর সাথে ইরানের চলমান উত্তেজনার প্রেক্ষাপটে এই অঞ্চলে নতুন নিরাপত্তা জোট গঠনের আলোচনা শুরু হয়েছে। ওমানের পররাষ্ট্রমন্ত্রী বাদের আলবুসাইদি কেমব্রিজে দেওয়া ভাষণে জানান যে, আঞ্চলিক শান্তি প্রতিষ্ঠার জন্য বাইরের শক্তির প্রভাব কমিয়ে নিজেদের মধ্যে ঐকমত্য গড়ে তোলা জরুরি।",
-        "details_en": "The Middle East has long relied on US security backing amid ongoing regional tensions between Gulf states and Iran. Oman foreign minister Badr Albusaidi proposed a major shift by calling for regional states to form an inclusive security pact, arguing that external powers have historically complicated local conflict resolution."
-      }
-    },
-    {
-      "story_id": "e84a8bce-00c7-5dbd-8acc-325c5766990e",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#SocialSecurity",
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T17:19:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.2274,
-      "sources": [
-        {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-          "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-          "snippet": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment."
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সামাজিক নিরাপত্তা তহবিলের ব্যয় কমাতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের প্রস্তাব",
-        "title_en": "Proposals to Modify Cost-of-Living Adjustment Aim to Secure Social Security",
-        "summary_bn": "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায় পরিবর্তন করে সামাজিক নিরাপত্তা তহবিল রক্ষা করার নতুন প্রস্তাব বিবেচনা করা হচ্ছে।",
-        "summary_en": "Several active proposals aim to alter inflation protection methods for retirees to secure the future of Social Security.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T17:19:00+00:00",
-        "lead_bn": "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায় পরিবর্তন করে সামাজিক নিরাপত্তা তহবিল রক্ষা করার নতুন প্রস্তাব বিবেচনা করা হচ্ছে।",
-        "lead_en": "Several active proposals aim to alter inflation protection methods for retirees to secure the future of Social Security.",
-        "bullets_bn": [
-          "অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষার জন্য জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি সংশোধনের প্রস্তাব বিবেচনা করা হচ্ছে।",
-          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগীদের প্রাপ্ত সুবিধার পরিমাণে প্রভাব ফেলতে পারে।",
-          "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিলের দীর্ঘমেয়াদি স্থায়িত্ব নিশ্চিত করতে নীতিগত সংস্কারের পরিকল্পনা চলছে।"
-        ],
-        "bullets_en": [
-          "Lawmakers and experts are considering proposals to change how retirees receive inflation protection.",
-          "The potential adjustments could directly alter the financial payouts received by millions of beneficiaries.",
-          "Policy discussions focus on ensuring the long-term solvency and sustainability of the Social Security trust funds."
-        ],
-        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে লাখ লাখ অবসরপ্রাপ্ত মানুষের মাসিক আয় এবং জীবনযাত্রার ব্যয় নির্বাহের সক্ষমতা সরাসরি ক্ষতিগ্রস্ত হতে পারে।",
-        "impact_en": "Changes to inflation adjustments could directly reduce monthly payouts for millions of retirees relying on government support.",
-        "details_bn": "মার্কিন যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা ব্যবস্থা দীর্ঘদিন ধরে তহবিল ঘাটতি ও demographic চাপের মুখে রয়েছে। এই ব্যবস্থার দীর্ঘমেয়াদি স্থায়িত্ব বজায় রাখতে মুদ্রাস্ফীতি হিসাব করার পদ্ধতি বা কস্ট-অফ-লিভিং অ্যাডজাস্টমেন্ট (সিওএলএ) পরিবর্তনের নানা প্রস্তাব নিয়ে নীতিনির্ধারকদের মধ্যে আলোচনা চলছে।",
-        "details_en": "The United States Social Security system faces long-term financial shortfalls driven by demographic shifts and rising expenditures. Lawmakers continue to evaluate structural reforms, including altering the cost-of-living adjustment formula, to prevent future benefit cuts and maintain the solvency of the trust funds."
+        "details_bn": "উচ্চ শুল্ক আরোপযোগ্য পণ্য শুল্ক ফাঁকি দিয়ে সংগ্রহ ও বিক্রির গোপন সংবাদের ভিত্তিতে জাতীয় রাজস্ব বোর্ডের চারটি গোয়েন্দা সংস্থা গুলশানের কিংফিশার রেস্তোরাঁয় যৌথ অভিযান চালায়। অভিযানে রেস্তোরাঁর প্রদর্শনী ও গুদামের পাশাপাশি একটি বিলবোর্ডের আড়ালে লুকানো গোপন কক্ষের সন্ধান মেলে। প্রতিষ্ঠানটি মদ আমদানিকারক হিসেবে নিবন্ধিত ছিল না এবং কোনো বৈধ চালান বা নথি উপস্থাপন করতে ব্যর্থ হয়। কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর জানিয়েছে, শুল্ক ও করসহ জব্দকৃত পণ্যের মোট মূল্য চার কোটি টাকার বেশি।",
+        "details_en": "Acting on a tip-off regarding tax evasion on high-duty imported beverages, four intelligence agencies of the National Board of Revenue conducted a joint raid at Kingfisher restaurant in Gulshan. The operation uncovered a hidden room behind a billboard containing unregistered alcohol and beer. The establishment lacked an import license and failed to produce valid documents for the beverages. According to the Directorate of Customs Intelligence, the total value of the seized items including applicable duties exceeds four crore taka."
       }
     }
   ]
