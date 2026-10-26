@@ -1,13 +1,12 @@
 {
-  "updated_at": "2026-10-26T18:00:50.058327",
+  "updated_at": "2026-10-26T19:00:45.870692",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "3ed8d885-4d36-5bbc-b50f-5f9ae34a116f",
+      "story_id": "ef0529f5-ce14-5811-83a0-b04f8ad9528f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
@@ -16,163 +15,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T16:57:17+00:00",
+      "published_at": "2026-10-26T18:56:20+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 7.2,
-      "rank_score": 1.6795,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976936/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95",
-          "title": "বাংলাদেশ-জাপান শীর্ষ বৈঠকে বসছেন তারেক রহমান-সানায়ে তাকাইচি",
-          "snippet": "বাংলাদেশ-জাপান শীর্ষ বৈঠকে বসছেন তারেক রহমান-সানায়ে তাকাইচি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দ্বিপক্ষীয় সম্পর্ক ও বাণিজ্য বাড়াতে বৈঠকে বসছেন বাংলাদেশ ও জাপানের প্রধানমন্ত্রী",
-        "title_en": "Bangladesh and Japan Prime Ministers to Hold Bilateral Trade and Relations Talks",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি দ্বিপক্ষীয় সম্পর্ক ও ব্যবসা-বাণিজ্য জোরদার করতে শীর্ষ বৈঠকে নেতৃত্ব দেবেন।",
-        "summary_en": "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead a bilateral summit to strengthen trade and relations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:57:17+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি দ্বিপক্ষীয় সম্পর্ক ও ব্যবসা-বাণিজ্য জোরদার করতে শীর্ষ বৈঠকে নেতৃত্ব দেবেন।",
-        "lead_en": "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead a bilateral summit to strengthen trade and relations.",
-        "bullets_bn": [
-          "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি।",
-          "টোকিওতে জাপানের প্রধানমন্ত্রীর কার্যালয় কান্তেইতে এই উচ্চপর্যায়ের বৈঠকটি অনুষ্ঠিত হওয়ার কথা রয়েছে।",
-          "বৈঠকে দুই দেশের মধ্যে অর্থনৈতিক সহযোগিতা বৃদ্ধি এবং দ্বিপক্ষীয় সম্পর্ক আরও জোরদার করার বিষয়ে আলোচনা হবে।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead the bilateral summit.",
-          "The high-level meeting is scheduled to take place at the Prime Minister Office Kantei in Tokyo.",
-          "Discussions will focus on expanding economic cooperation and further strengthening bilateral relations between the two nations."
-        ],
-        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধি পেলে দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানের সুযোগ সৃষ্টি হতে পারে।",
-        "impact_en": "Increased trade and investment resulting from this meeting could create new economic growth and employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুভাবাপন্ন কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন সহযোগী এবং বৈদেশিক বিনিয়োগকারী দেশ। এই শীর্ষ বৈঠকের মাধ্যমে দুই দেশের মধ্যকার বিদ্যমান বাণিজ্যিক ও কৌশলগত অংশীদারিত্ব আরও সুদৃঢ় হবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership, with Tokyo acting as a major development partner and foreign investor. This summit is expected to further solidify commercial and strategic cooperation between the two nations."
-      }
-    },
-    {
-      "story_id": "d40045fe-8e69-576e-ac67-50c705a2dde0",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T16:57:25+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.541,
+      "rank_score": 2.7808,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172328",
-          "title": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি",
-          "snippet": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি"
+          "url": "https://www.jagonews24.com/national/news/1172335",
+          "title": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ",
+          "snippet": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি",
-        "title_en": "Letter Sent to Implement High Court Ruling on Dengue Control",
-        "summary_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যু বেড়ে যাওয়ায় জনস্বাস্থ্য সুরক্ষায় হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে প্রধানমন্ত্রীর মুখ্য সচিবকে চিঠি দেওয়া হয়েছে।",
-        "summary_en": "A letter has been sent to the Principal Secretary to the Prime Minister urging effective implementation of a High Court ruling to control dengue.",
+        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন তারেক রহমান ও সানায়ে তাকাইচি",
+        "title_en": "Tarique Rahman and Sanae Takaichi to Lead Bangladesh-Japan Bilateral Summit",
+        "summary_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে দুই দেশের শীর্ষ নেতারা গুরুত্বপূর্ণ বৈঠকে মিলিত হচ্ছেন।",
+        "summary_en": "The top leaders of Bangladesh and Japan are meeting in a high-level bilateral summit to strengthen bilateral ties.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:57:25+00:00",
-        "lead_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যু বেড়ে যাওয়ায় জনস্বাস্থ্য সুরক্ষায় হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে প্রধানমন্ত্রীর মুখ্য সচিবকে চিঠি দেওয়া হয়েছে।",
-        "lead_en": "A letter has been sent to the Principal Secretary to the Prime Minister urging effective implementation of a High Court ruling to control dengue.",
+        "published_at": "2026-10-26T18:56:20+00:00",
+        "lead_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করতে দুই দেশের শীর্ষ নেতারা গুরুত্বপূর্ণ বৈঠকে মিলিত হচ্ছেন।",
+        "lead_en": "The top leaders of Bangladesh and Japan are meeting in a high-level bilateral summit to strengthen bilateral ties.",
         "bullets_bn": [
-          "ডেঙ্গু সংক্রমণ ও মৃত্যু রোধে হাইকোর্টের পূর্বের রায় বাস্তবায়নের কার্যকর পদক্ষেপ নেওয়ার অনুরোধ জানানো হয়েছে।",
-          "চিঠিতে জনস্বাস্থ্য সুরক্ষা এবং জনস্বার্থ নিশ্চিত করার ওপর সর্বোচ্চ জোর দেওয়া হয়েছে।",
-          "চিঠির প্রেক্ষিতে সংশ্লিষ্ট সরকারি বিভাগগুলো থেকে দ্রুত পদক্ষেপ গ্রহণের প্রত্যাশা করা হচ্ছে।"
+          "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় শীর্ষ বৈঠকে দুই দেশের সরকারপ্রধানরা অংশ নিচ্ছেন।",
+          "বৈঠকে বাণিজ্য সম্প্রসারণ, বিনিয়োগ বৃদ্ধি এবং কৌশলগত সহযোগিতা নিয়ে আলোচনা নির্ধারিত রয়েছে।",
+          "আলোচনা শেষে দুই দেশের মধ্যে পারস্পরিক সহযোগিতার নতুন চুক্তি স্বাক্ষরিত হওয়ার সম্ভাবনা রয়েছে।"
         ],
         "bullets_en": [
-          "Urgent actions have been requested to execute the previous High Court ruling aimed at curbing dengue infections and deaths.",
-          "The communication places utmost emphasis on ensuring public health protection and safeguarding public interest.",
-          "Relevant government departments are expected to take swift countermeasures following this official directive."
+          "The prime ministers of Bangladesh and Japan are participating in a bilateral summit.",
+          "Discussions are scheduled to focus on trade expansion, increased investment, and strategic cooperation.",
+          "New bilateral cooperation agreements are expected to be signed following the conclusion of the talks."
         ],
-        "impact_bn": "কার্যকর পদক্ষেপ বাস্তবায়িত হলে সাধারণ মানুষ ডেঙ্গুর মারাত্মক ঝুঁকি থেকে সুরক্ষা পাবে।",
-        "impact_en": "Effective execution of these measures will protect ordinary citizens from severe health risks posed by dengue outbreaks.",
-        "details_bn": "দেশে প্রতি বছর বর্ষা মৌসুমে ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করে, যা জনজীবনকে বিপর্যস্ত করে তোলে। এর আগে জনস্বাস্থ্য রক্ষা ও মশানিধনে কার্যকর পদক্ষেপ চেয়ে হাইকোর্টে রিট দায়ের করা হয়েছিল, যার প্রেক্ষিতে আদালত সুনির্দিষ্ট নির্দেশনা দিয়ে রায় প্রদান করেন। বর্তমান পরিস্থিতিতে সেই রায় পুরোপুরি বাস্তবায়নের দাবি জোরালো হচ্ছে।",
-        "details_en": "Dengue outbreaks regularly escalate during monsoon seasons in the country, severely disrupting public life. Previously, writ petitions were filed seeking effective measures for mosquito eradication and public health protection, prompting the court to issue specific directives. Demands for the full implementation of that ruling have intensified amid rising infections."
+        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধি পাবে যা দেশের অর্থনীতিতে ইতিবাচক প্রভাব ফেলবে।",
+        "impact_en": "The summit will boost trade and investment between the two nations, positively impacting the domestic economy.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যকার কূটনৈতিক সম্পর্ক দীর্ঘদিনের পরীক্ষিত ও গভীর। দুই দেশ দীর্ঘদিন ধরে অর্থনৈতিক উন্নয়ন, অবকাঠামো নির্মাণ এবং বৈদেশিক বাণিজ্যে একে অপরের অংশীদার হিসেবে কাজ করে আসছে। এই শীর্ষ বৈঠক দুই দেশের মধ্যকার সহযোগিতার ক্ষেত্রগুলোকে আরও প্রশস্ত করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share a long-standing and tested diplomatic relationship. Both nations have worked closely as partners in economic development, infrastructure building, and foreign trade for decades. This high-level summit is expected to further broaden the scope of cooperation between the two countries."
       }
     },
     {
-      "story_id": "de7e1919-9d60-5808-bb1b-25a0b8c14bff",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/JPEG-14.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-26T17:22:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3525,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/iranian-president-and-emir-of-qatar-to-hold-meetings-with-putin-in-moscow/",
-          "title": "পুতিনের সঙ্গে বৈঠকে বসবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির",
-          "snippet": "পুতিনের সঙ্গে বৈঠকে বসবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রাশিয়ার প্রেসিডেন্টের সাথে বৈঠকে বসছেন ইরান ও কাতারের শীর্ষ নেতারা",
-        "title_en": "Russian President to Hold Bilateral Talks with Iran and Qatar Leaders",
-        "summary_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় দ্বিপক্ষীয় বৈঠকে অংশ নেবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির।",
-        "summary_en": "The Iranian President and the Emir of Qatar will hold bilateral talks with Russian President Vladimir Putin in Moscow.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T17:22:09+00:00",
-        "lead_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় দ্বিপক্ষীয় বৈঠকে অংশ নেবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির।",
-        "lead_en": "The Iranian President and the Emir of Qatar will hold bilateral talks with Russian President Vladimir Putin in Moscow.",
-        "bullets_bn": [
-          "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় পৃথক দ্বিপক্ষীয় বৈঠকে বসছেন ইরানের প্রেসিডেন্ট মাসুদ পেজেশকিয়ান ও কাতারের আমির শেখ তামিম বিন হামাদ আল থানি।",
-          "ক্রেমলিনের উপদেষ্টা ইউরি উশাকভ এই উচ্চপর্যায়ের বৈঠকের বিষয়টি নিশ্চিত করেছেন, যেখানে গ্যাস রফতানিকারক দেশগুলোর ফোরামের শীর্ষ সম্মেলন অনুষ্ঠিত হচ্ছে।",
-          "বৈঠকগুলোতে দ্বিপাক্ষিক সহযোগিতা বৃদ্ধির পাশাপাশি বর্তমান মধ্যপ্রাচ্য পরিস্থিতি, বৈশ্বিক নিরাপত্তা ইস্যু ও আঞ্চলিক শান্তি নিয়ে আলোচনা হবে।"
-        ],
-        "bullets_en": [
-          "Iranian President Masoud Pezeshkian and Qatari Emir Sheikh Tamim bin Hamad Al Thani are holding separate bilateral talks with Russian President Vladimir Putin in Moscow.",
-          "Kremlin aide Yuri Ushakov confirmed the high-level meetings, which coincide with the Gas Exporting Countries Forum summit.",
-          "The discussions will focus on enhancing bilateral cooperation, addressing current Middle East tensions, and ensuring regional security."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্র ও ইসরায়েলের সাথে ইরানের চলমান সংঘাত তীব্র আকার ধারণ করার প্রেক্ষাপটে এই কূটনৈতিক বৈঠকটি অত্যন্ত তাৎপর্যপূর্ণ। মস্কোয় গ্যাস রফতানিকারক দেশগুলোর ফোরামের শীর্ষ সম্মেলনের ফাঁকে অনুষ্ঠিত এই আলোচনা রাশিয়া, ইরান ও কাতারের মধ্যকার সামরিক, অর্থনৈতিক ও জ্বালানি খাতের সম্পর্ক আরও জোরদার করতে এবং আঞ্চলিক যুদ্ধ পরিস্থিতি প্রশমনে বড় ভূমিকা রাখতে পারে বলে মনে করছেন বিশ্লেষকরা।",
-        "details_en": "This diplomatic meeting holds immense significance amid escalating tensions between Iran, the US, and Israel in the Middle East. Held on the sidelines of the Gas Exporting Countries Forum summit in Moscow, the talks are expected to strengthen military, economic, and energy ties between Russia, Iran, and Qatar while potentially helping to defuse regional conflicts."
-      }
-    },
-    {
-      "story_id": "c8a8afdd-284b-5b4b-9933-de66c4becc04",
+      "story_id": "cc1f823e-87d2-593a-9adc-19b0069bb1e8",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -182,48 +68,158 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F7i5ulmmb%2FWhatsApp-Image-2026-10-27-at-12.37.30-AM.jpeg?rect=0%2C144%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T17:59:00+00:00",
+      "published_at": "2026-10-26T18:38:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9528,
+      "importance_score": 4.8,
+      "rank_score": 1.5552,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976945/%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%8F%E0%A6%95%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A7%8B-%E0%A6%97%E0%A7%81%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%82%E0%A6%A4",
-          "title": "‘ক্রসফায়ার’: একশব্দেই ফিরে এলো গুম-বিচারবহির্ভূত হত্যার ভয়ংকর স্মৃতি",
-          "snippet": "‘ক্রসফায়ার’: একশব্দেই ফিরে এলো গুম-বিচারবহির্ভূত হত্যার ভয়ংকর স্মৃতি"
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/kfo9vpa2td",
+          "title": "সিপিবির মিছিলে ‘জয় বাংলা’ স্লোগান দেওয়ার অভিযোগ তুলে হামলা",
+          "snippet": "সিপিবির মিছিলে ‘জয় বাংলা’ স্লোগান দেওয়ার অভিযোগ তুলে হামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইজিপির ক্রসফায়ার মন্তব্য নিয়ে দেশজুড়ে তীব্র সমালোচনা ও বিতর্কের সৃষ্টি",
-        "title_en": "IGP Crossfire Remark Sparks Intense Controversy and Criticism Nationwide",
-        "summary_bn": "আইজিপির ক্রসফায়ার সংক্রান্ত মন্তব্য বিচারবহির্ভূত হত্যা ও গুমের অন্ধকার অতীত এবং রাষ্ট্রীয় সহিংসতার ভীতি পুনরায় সামনে নিয়ে এসেছে।",
-        "summary_en": "The IGP's remark regarding crossfire has reignited fears of state violence and the dark legacy of extrajudicial killings.",
+        "title_bn": "রাজধানীর পুরানা পল্টনে সিপিবি কার্যালয়ের সামনে হামলা ও ভাঙচুরের অভিযোগ",
+        "title_en": "Attack reported outside CPB central office in capital Purana Paltan",
+        "summary_bn": "রাজধানীর পুরানা পল্টনে মিছিল চলাকালে জয় বাংলা স্লোগান দেওয়ার অভিযোগে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে হামলা চালিয়েছে একদল লোক।",
+        "summary_en": "A group of people attacked outside the CPB central office in Purana Paltan over alleged slogans chanted during a rally.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T17:59:00+00:00",
-        "lead_bn": "আইজিপির ক্রসফায়ার সংক্রান্ত মন্তব্য বিচারবহির্ভূত হত্যা ও গুমের অন্ধকার অতীত এবং রাষ্ট্রীয় সহিংসতার ভীতি পুনরায় সামনে নিয়ে এসেছে।",
-        "lead_en": "The IGP's remark regarding crossfire has reignited fears of state violence and the dark legacy of extrajudicial killings.",
+        "published_at": "2026-10-26T18:38:17+00:00",
+        "lead_bn": "রাজধানীর পুরানা পল্টনে মিছিল চলাকালে জয় বাংলা স্লোগান দেওয়ার অভিযোগে সিপিবির কেন্দ্রীয় কার্যালয়ের সামনে হামলা চালিয়েছে একদল লোক।",
+        "lead_en": "A group of people attacked outside the CPB central office in Purana Paltan over alleged slogans chanted during a rally.",
         "bullets_bn": [
-          "পুলিশের মহাপরিদর্শক সরকারের অনুমোদন সাপেক্ষে প্রয়োজনে ক্রসফায়ার চালুর মন্তব্য করেন।",
-          "এই বক্তব্য প্রকাশের পরপরই মানবাধিকারকর্মী ও বিভিন্ন মহлаলে তীব্র সমালোচনার ঝড় ওঠে।",
-          "মন্তব্যটি দেশের আইনশৃঙ্খলা বাহিনীর বিতর্কিত অতীত ও বিচারবহির্ভূত হত্যার স্মৃতি ফিরিয়ে এনেছে।"
+          "ছাত্র ইউনিয়নের সাবেক নেতার মুক্তির পর আয়োজিত মিছিল শেষে পুরানা পল্টনে সংক্ষিপ্ত সমাবেশে হামলার ঘটনা ঘটে।",
+          "হামলাকারীরা নিজেদের যুবদল ও ছাত্রদলের কর্মী পরিচয় দিয়ে সিপিবির দুজন কর্মীকে মারধর করেন বলে অভিযোগ ওঠে।",
+          "পরিস্থিতি নিয়ন্ত্রণে পুলিশ ঘটনাস্থলে উপস্থিত হয়ে উভয় পক্ষকে সরিয়ে দেয় এবং কার্যালয়ের সামনে অবস্থান নেয়।"
         ],
         "bullets_en": [
-          "The Inspector General of Police stated that crossfire could be utilized if authorized by the government.",
-          "The statement immediately triggered severe backlash and criticism from human rights activists and various groups.",
-          "The remark has revived memories of controversial extrajudicial killings and past abuses by law enforcement."
+          "Cllashes broke out during a rally in Purana Paltan following the release of a former student union leader.",
+          "Assailants identifying as BNP affiliate activists allegedly assaulted two CPB members during the altercation.",
+          "Police intervened to control the situation and took positions outside the party office to prevent further escalation."
         ],
-        "impact_bn": "এই ধরনের মন্তব্য সাধারণ মানুষের মধ্যে রাষ্ট্রীয় নিরাপত্তা ও আইনের শাসন নিয়ে নতুন শঙ্কা তৈরি করেছে।",
-        "impact_en": "Such remarks create renewed apprehension among ordinary citizens regarding state security and the rule of law.",
-        "details_bn": "বাংলাদেশে আইনশৃঙ্খলা বাহিনীর হাতে বিচারবহির্ভূত হত্যা ও গুমের অভিযোগ দীর্ঘদিনের। অতীতে বন্দুকযুদ্ধ বা ক্রসফায়ার হিসেবে পরিচিত এসব ঘটনার বৈধতা নিয়ে দেশ ও আন্তর্জাতিক অঙ্গনে তীব্র সমালোচনা হয়েছে। বর্তমান সময়ে আইনশৃঙ্খলা পরিস্থিতির অবনতির প্রেক্ষাপটে পুলিশের শীর্ষ কর্মকর্তার এই মন্তব্য নতুন করে মানবাধিকার ও আইনি প্রক্রিয়ার সুরক্ষা নিয়ে বিতর্ক উসকে দিয়েছে।",
-        "details_en": "Allegations of extrajudicial killings and enforced disappearances by law enforcement agencies have a long history in Bangladesh. Previously, incidents labeled as shootouts or crossfires drew intense domestic and international criticism. Amid ongoing security concerns, this comment by a top police official has reignited debates regarding human rights and legal protections."
+        "impact_bn": "রাজনৈতিক কর্মসূচিতে এ ধরনের সহিংসতা সাধারণ নাগরিক ও রাজনৈতিক কর্মীদের মধ্যে ভীতি এবং আইনশৃঙ্খলা পরিস্থিতির অবনতির শঙ্কা তৈরি করে।",
+        "impact_en": "Such political violence instills fear among ordinary citizens and raises concerns regarding public safety and political tolerance.",
+        "details_bn": "সুনামগঞ্জে নারী বাউলশিল্পীদের গান গাইতে বাধা দেওয়ার প্রতিবাদ করতে গিয়ে আটক হন ছাত্র ইউনিয়নের সাবেক সভাপতি দীপক শীল। তাঁর মুক্তির পর ঢাকার ধানমন্ডিতে কর্মসূচি শেষে পুরানা পল্টনে মিছিল বের করে বাংলাদেশের কমিউনিস্ট পার্টি। সেই মিছিলে জয় বাংলা স্লোগান দেওয়াকে কেন্দ্র করে এই সংঘর্ষ ও হামলার সূত্রপাত হয়। সিপিবি নেতারা এই ঘটনার তীব্র নিন্দা জানিয়ে সরকারের কাছে এর প্রতিকার দাবি করেছেন।",
+        "details_en": "The tension stems from a protest rally organized following the release of former student union president Deepak Sheel, who was detained after protesting restrictions on female Baul singers in Sunamganj. A clash erupted near the Communist Party of Bangladesh central office in Purana Paltan over slogans chanted during the procession. CPB leaders strongly condemned the assault and called for accountability from the administration."
+      }
+    },
+    {
+      "story_id": "b08d016b-11ac-5448-97a7-40f0306f6f47",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fv2uddz1g%2FIran-Presidend-NSCAFP.jpg?rect=0%2C0%2C6000%2C3150&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T18:19:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.329,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/4e6h7eeuye",
+          "title": "ইরানের কট্টরপন্থীরা প্রেসিডেন্ট পেজেশকিয়ানের বিরুদ্ধে, পররাষ্ট্রমন্ত্রী আরাগচিরও অভিশংসন চায় তারা",
+          "snippet": "ইরানের কট্টরপন্থীরা প্রেসিডেন্ট পেজেশকিয়ানের বিরুদ্ধে, পররাষ্ট্রমন্ত্রী আরাগচিরও অভিশংসন চায় তারা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানে পারমাণবিক চুক্তি ত্যাগের দাবি কট্টরপন্থীদের",
+        "title_en": "Iranian Hardliners Demand Exit From Nuclear Non-Proliferation Treaty",
+        "summary_bn": "যুক্তরাষ্ট্রের সঙ্গে চলমান উত্তেজনার মধ্যে পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে ইরানকে প্রত্যাহারের আহ্বান জানিয়েছে দেশের কট্টরপন্থী গোষ্ঠী।",
+        "summary_en": "Iranian hardliners have called for the nation to withdraw from the nuclear non-proliferation treaty amid ongoing US tensions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T18:19:56+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সঙ্গে চলমান উত্তেজনার মধ্যে পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে ইরানকে প্রত্যাহারের আহ্বান জানিয়েছে দেশের কট্টরপন্থী গোষ্ঠী।",
+        "lead_en": "Iranian hardliners have called for the nation to withdraw from the nuclear non-proliferation treaty amid ongoing US tensions.",
+        "bullets_bn": [
+          "ইরানের পায়দারি ফ্রন্টের কট্টরপন্থীরা পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি থেকে দেশটির বেরিয়ে যাওয়ার প্রক্রিয়া শুরুর আহ্বান জানিয়েছে।",
+          "পার্লামেন্ট ও সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের কাছে যুদ্ধ চালিয়ে যাওয়া এবং চুক্তি ত্যাগের এই দাবি জানানো হয়েছে।",
+          "উদারপন্থী প্রেসিডেন্ট মাসুদ পেজেশকিয়ানের যুক্তরাষ্ট্রপন্থী আলোচনার প্রচেষ্টার বিরুদ্ধে কট্টরপন্থীরা রাজনৈতিক চাপ আরও বাড়িয়ে দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Iran's hardline Paydari Front demanded the initiation of a withdrawal process from the nuclear non-proliferation treaty.",
+          "The faction formally urged the parliament and supreme national security council to abandon diplomacy and continue the conflict.",
+          "Hardliners have escalated domestic political pressure against moderate President Masoud Pezeshkian's diplomatic engagement efforts with Washington."
+        ],
+        "impact_bn": "এই রাজনৈতিক দ্বন্দ্বের ফলে ইরানের অর্থনীতি পুনরুদ্ধার বাধাগ্রস্ত হচ্ছে এবং সাধারণ মানুষের জীবনযাত্রায় যুদ্ধের মারাত্মক প্রভাব দীর্ঘস্থায়ী হচ্ছে।",
+        "impact_en": "This internal political conflict delays economic recovery in Iran and prolongs the severe civilian hardships caused by the ongoing war.",
+        "details_bn": "যুক্তরাষ্ট্র ও ইসরায়েলের সঙ্গে চলমান যুদ্ধের প্রেক্ষাপটে ইরানের অভ্যন্তরীণ রাজনীতিতে তীব্র ক্ষমতার লড়াই চলছে। এক পক্ষে প্রেসিডেন্ট মাসুদ পেজেশকিয়ানের নেতৃত্বাধীন উদারপন্থীরা আলোচনার মাধ্যমে সংকটের সমাধান চাচ্ছেন। অন্য পক্ষে পায়দারি ফ্রন্টের কট্টরপন্থীরা যুদ্ধ চালিয়ে যাওয়ার পক্ষে অবস্থান নিয়েছেন। এই অভ্যন্তরীণ দ্বন্দ্বের কারণে তেহরানের অর্থনীতি ভেঙে পড়ার উপক্রম হয়েছে এবং হরমুজ প্রণালিতে জাহাজ চলাচল বন্ধ থাকায় বিশ্ববাজারে জ্বালানি সরবরাহ মারাত্মকভাবে ব্যাহত হচ্ছে।",
+        "details_en": "Amidst the ongoing war with the US and Israel, Iran faces deep internal political division. Moderate President Masoud Pezeshkian advocates for diplomatic solutions to save the collapsing economy. Conversely, the hardline Paydari Front opposes negotiations and demands continued resistance against Washington. This domestic friction compounds the broader economic fallout and the severe disruption of global energy supplies caused by restricted shipping through the Strait of Hormuz."
+      }
+    },
+    {
+      "story_id": "666f060a-ec4f-5fee-8ecc-c38306a24ea0",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-03%2F81ca639d-5f86-4ac3-adb5-60fde4f109d6%2Fc29e6fd2_fc63_4c89_a02b_4b7d88cf656c.png?rect=0%2C113%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T18:13:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2602,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/tefuf3527y",
+          "title": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার",
+          "snippet": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলায় প্রধান আসামি গ্রেপ্তার",
+        "title_en": "Main suspect arrested over cocktail explosion outside Shilpakala Academy",
+        "summary_bn": "ঢাকা মহানগর পুলিশ রাজধানীর শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণের ঘটনায় করা মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
+        "summary_en": "Dhaka Metropolitan Police arrested the main accused in the case filed over a cocktail explosion outside the Shilpakala Academy.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T18:13:13+00:00",
+        "lead_bn": "ঢাকা মহানগর পুলিশ রাজধানীর শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণের ঘটনায় করা মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
+        "lead_en": "Dhaka Metropolitan Police arrested the main accused in the case filed over a cocktail explosion outside the Shilpakala Academy.",
+        "bullets_bn": [
+          "নারায়ণগঞ্জের রূপগঞ্জ থেকে আবুল হায়াদ ওরফে দীপু নামের এক যুবককে গ্রেপ্তার করে ডিএমপি।",
+          "গ্রেপ্তার ব্যক্তি নিষিদ্ধ সংগঠন ছাত্রলীগের সদস্য বলে জানিয়েছে ঢাকা মহানগর পুলিশ।",
+          "রমনা থানায় দায়ের করা বিস্ফোরক দ্রব্য আইনের মামলার ভিত্তিতে এই যৌথ অভিযান পরিচালিত হয়।"
+        ],
+        "bullets_en": [
+          "DMP arrested a youth named Abul Hayad alias Dipu from Rupganj in Narayanganj.",
+          "Police identified the arrested individual as a member of the banned student organization Chhatra League.",
+          "The joint operation was conducted based on the explosive substance case filed at Ramna Model Police Station."
+        ],
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও জনমনে তৈরি হওয়া আতঙ্ক এড়াতে দ্রুত অপরাধীদের গ্রেপ্তার জরুরি।",
+        "impact_en": "Swift arrests of perpetrators are crucial to curb law and order deterioration and public panic.",
+        "details_bn": "রাজধানীর সেগুনবাগিচায় বাংলাদেশ শিল্পকলা একাডেমির ২ নম্বর ফটকের পূর্ব পাশের সড়কে দুর্বৃত্তরা ককটেলের বিস্ফোরণ ঘটিয়ে পালিয়ে যায়। হঠাৎ এই বিস্ফোরণের ফলে ওই এলাকায় সাধারণ মানুষের মধ্যে চরম আতঙ্ক ছড়িয়ে পড়ে। এ ঘটনায় পরবর্তী সময়ে রমনা থানায় বিস্ফোরক দ্রব্য আইনে একটি মামলা দায়ের করা হয়। তদন্ত কর্মকর্তা তথ্যপ্রযুক্তির সহায়তায় আসামির অবস্থান শনাক্ত করার পর যৌথ অভিযানে তাকে গ্রেপ্তার করা হয়।",
+        "details_en": "Miscreants detonated a cocktail and fled near Gate No. 2 of the Bangladesh Shilpakala Academy in Segunbagicha, creating panic among locals. A case under the Explosive Substances Act was subsequently filed at Ramna Model Police Station. The investigating officer tracked the suspect's location using information technology, leading to his arrest in a joint operation."
       }
     },
     {
@@ -239,15 +235,15 @@
       "region": "international",
       "tags": [
         "#Capita",
-        "#CivilService",
-        "#Pensions"
+        "#PensionScheme",
+        "#UKCivilService"
       ],
       "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
       "image_caption": null,
       "published_at": "2026-10-26T17:22:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.4818,
+      "rank_score": 0.3174,
       "sources": [
         {
           "name": "The Guardian World",
@@ -257,10 +253,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিভিল সার্ভিস পেনশন স্কিম পরিচালনায় ক্যাপিটার পারফরম্যান্সকে ক্যাবিনেট মন্ত্রীর সমালোচনা",
-        "title_en": "Cabinet Minister Labels Capita Civil Service Pension Performance As Abysmal",
-        "summary_bn": "ক্যাবিনেট অফিসের এক মন্ত্রী হাজার হাজার সরকারি কর্মীর পেনশনের অর্থ প্রদানে বিলম্বের কারণে ক্যাপিটা কোম্পানির কার্যকারিতাকে অত্যন্ত নিম্নমানের বলে সমালোচনা করেছেন।",
-        "summary_en": "A Cabinet Office minister has labelled outsourcing giant Capita for failing to deliver the promised pension service to civil servants.",
+        "title_bn": "ক্যাপিটার সিভিল সার্ভিস পেনশন পরিচালনাকে চরম ব্যর্থ বলে অভিহিত করেছে মন্ত্রিপরিষদ বিভাগ",
+        "title_en": "Cabinet Office Labels Capita Civil Service Pension Management as Abysmal",
+        "summary_bn": "হাজার হাজার কর্মচারীকে অর্থ প্রদান এবং পেনশনের জন্য দীর্ঘ সময় অপেক্ষায় রাখায় ক্যাপিটার কার্যক্রমের তীব্র সমালোচনা করেছে ব্রিটিশ মন্ত্রিপরিষদ।",
+        "summary_en": "The UK Cabinet Office has sharply criticized outsourcing giant Capita for failing to resolve civil service pension payments.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -272,22 +268,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T17:22:52+00:00",
-        "lead_bn": "ক্যাবিনেট অফিসের এক মন্ত্রী হাজার হাজার সরকারি কর্মীর পেনশনের অর্থ প্রদানে বিলম্বের কারণে ক্যাপিটা কোম্পানির কার্যকারিতাকে অত্যন্ত নিম্নমানের বলে সমালোচনা করেছেন।",
-        "lead_en": "A Cabinet Office minister has labelled outsourcing giant Capita for failing to deliver the promised pension service to civil servants.",
+        "lead_bn": "হাজার হাজার কর্মচারীকে অর্থ প্রদান এবং পেনশনের জন্য দীর্ঘ সময় অপেক্ষায় রাখায় ক্যাপিটার কার্যক্রমের তীব্র সমালোচনা করেছে ব্রিটিশ মন্ত্রিপরিষদ।",
+        "lead_en": "The UK Cabinet Office has sharply criticized outsourcing giant Capita for failing to resolve civil service pension payments.",
         "bullets_bn": [
-          "ক্যাপিটা কোম্পানির সিভিল সার্ভিস পেনশন স্কিম পরিচালনার মান অত্যন্ত হতাশাজনক বলে মন্তব্য করেছেন ক্যাবিনেট অফিসের মন্ত্রী স্যালি জেমসন।",
-          "পেনশনের টাকা ও রিটায়ারমেন্ট কোটের জন্য হাজার হাজার সরকারি কর্মী দীর্ঘসময় ধরে অপেক্ষা করছেন বলে সংসদে জানানো হয়েছে।",
-          "সাংসদ ও ইউনিয়নের দাবির প্রেক্ষিতে পেনশন স্কিম পরিচালনার দায়িত্ব পুনরায় নিজেদের হাতে তুলে নেওয়ার বিষয়টি নাকচ করেননি সংশ্লিষ্ট মন্ত্রী।"
+          "ক্যাপিটার পেনশন সেবার মান নিয়ে অসন্তোষ প্রকাশ করে চুক্তি ব্যবস্থাপনাকে অভ্যন্তরীণ বা ইন-সোর্সিং করার সম্ভাবনা উড়িয়ে দেয়নি সরকার।",
+          "চুক্তি সম্পাদনে ব্যর্থতার কারণে ১৮০০ এর অধিক মামলা এক বছরের বেশি সময় ধরে অমীমাংসিত রয়েছে বলে জানিয়েছে কর্তৃপক্ষ।",
+          "প্রশ্রুত কৃত্রিম বুদ্ধিমত্তাভিত্তিক পেনশন সেবা প্রদানে ব্যর্থ হওয়ায় প্রতিষ্ঠানটির প্রধান নির্বাহীর ওপর চরম ক্ষোভ প্রকাশ করা হয়েছে।"
         ],
         "bullets_en": [
-          "Cabinet Office minister Sally Jameson labelled outsourcing giant Capita for delivering abysmal performance in managing the civil service pension scheme.",
-          "Thousands of civil servants were left waiting for payments and retirement quotes due to unresolved complex issues persisting for over a year.",
-          "The minister refused to rule out in-sourcing the pension scheme management following strong demands from MPs and unions."
+          "The government refused to rule out in-sourcing the pension management following widespread service delivery failures.",
+          "Over 1800 complex cases have remained unresolved for more than a year due to administrative backlogs.",
+          "The Cabinet Office expressed outrage over the failure to deliver a promised AI-enabled pensions service."
         ],
-        "impact_bn": "সরকারি কর্মচারীরা সময়মতো পেনশন ও অবসরকালীন সুবিধা পেতে দীর্ঘসূত্রতার মুখোমুখি হচ্ছেন।",
-        "impact_en": "Public sector employees face prolonged delays and uncertainties in receiving retirement benefits and pension payments.",
-        "details_bn": "সিভিল সার্ভিস পেনশন স্কিম পরিচালনার দায়িত্বে থাকা ক্যাপিটা কোম্পানি কৃত্রিম বুদ্ধিমত্তাভিত্তিক সেবা প্রদানের প্রতিশ্রুতি দিলেও তা বাস্তবায়নে ব্যর্থ হয়েছে। হাজার হাজার সরকারি কর্মকর্তা ও তাদের পরিবার দীর্ঘদিন ধরে পেনশনের বকেয়া ও জটিল সমস্যার সমাধান না পেয়ে চরম অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন। বিষয়টি নিয়ে সংসদ ও বিভিন্ন মহলে তীব্র অসন্তোষ প্রকাশ করা হয়েছে এবং সরকারিভাবে এর বিকল্প ব্যবস্থার চিন্তাভাবনা শুরু হয়েছে।",
-        "details_en": "Outsourcing giant Capita faced severe backlash from the Cabinet Office over its failure to deliver an AI-enabled pension service for civil servants. Thousands of members and their families were left waiting in limbo with complex cases unresolved for over a year. Officials have expressed outrage over the abysmal progress, prompting discussions on potentially bringing the pension scheme management back in-house."
+        "impact_bn": "পেনশন ভোগী হাজার হাজার সরকারি চাকরিজীবী ও তাদের পরিবার সঠিক সময়ে পাওনা না পেয়ে দীর্ঘ সময় অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন।",
+        "impact_en": "Thousands of retired civil servants and their families face severe financial distress and delays in receiving retirement payments.",
+        "details_bn": "আউটসোর্সিং প্রতিষ্ঠান ক্যাপিটার বিরুদ্ধে সিভিল সার্ভিস পেনশন স্কিম পরিচালনার ক্ষেত্রে মারাত্মক অবহেলার অভিযোগ ওঠে। হাজার হাজার সরকারি কর্মচারী সময়মতো পেনশন ও অবসরকালীন কোটেশন পেতে ব্যর্থ হন। মন্ত্রিপরিষদ বিভাগ ক্যাপিটার শীর্ষ নির্বাহীদের সাথে একাধিক বৈঠক করে তাদের পারফরম্যান্সকে চরম অসন্তোষজনক বলে অভিহিত করে। ফলস্বরূপ, সরকারি সেবার মান উন্নত করতে এবং ভুক্তভোগীদের ভোগান্তি কমাতে পেনশন ব্যবস্থাপনায় আমূল পরিবর্তন আনার দাবি জোরালো হয়েছে।",
+        "details_en": "Outsourcing giant Capita faced severe criticism from the UK Cabinet Office over its management of the Civil Service pension scheme. Thousands of civil servants were left waiting indefinitely for payments and retirement quotes. Officials labeled the progress as abysmal, noting that over 1,800 complex cases remained unresolved for more than a year. The government warned that in-sourcing the pension scheme management remains a strong possibility if performance fails to improve."
       }
     },
     {
@@ -300,14 +296,15 @@
       "region": "international",
       "tags": [
         "#SocialSecurity",
-        "#Inflation"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
       "published_at": "2026-10-26T17:19:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.467,
+      "rank_score": 0.3102,
       "sources": [
         {
           "name": "MarketWatch Economy",
@@ -317,10 +314,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "সামাজিক নিরাপত্তা তহবিলের ব্যয় কমাতে মূল্যস্ফীতি সমন্বয় পরিবর্তনের প্রস্তাব",
-        "title_en": "US Policy Proposals Consider Altering Social Security Cost-of-Living Adjustments",
-        "summary_bn": "মার্কিন সামাজিক নিরাপত্তা তহবিলের অর্থ টিকিয়ে রাখতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের বিভিন্ন প্রস্তাব বিবেচনা করা হচ্ছে।",
-        "summary_en": "Policymakers are considering changing the cost-of-living adjustment method to protect the long-term solvency of the social security fund.",
+        "title_bn": "সামাজিক নিরাপত্তা সুরক্ষায় জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের প্রস্তাব",
+        "title_en": "Proposals Consider Changing Cost-of-Living Adjustment to Protect Social Security",
+        "summary_bn": "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিল রক্ষার্থে জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ পদ্ধতি সংশোধনের একাধিক প্রস্তাব নিয়ে আলোচনা চলছে।",
+        "summary_en": "Several policy proposals are considering changes to the cost-of-living adjustment to protect the sustainability of Social Security.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -329,22 +326,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T17:19:00+00:00",
-        "lead_bn": "মার্কিন সামাজিক নিরাপত্তা তহবিলের অর্থ টিকিয়ে রাখতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের বিভিন্ন প্রস্তাব বিবেচনা করা হচ্ছে।",
-        "lead_en": "Policymakers are considering changing the cost-of-living adjustment method to protect the long-term solvency of the social security fund.",
+        "lead_bn": "যুক্তরাষ্ট্রের সামাজিক নিরাপত্তা তহবিল রক্ষার্থে জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ পদ্ধতি সংশোধনের একাধিক প্রস্তাব নিয়ে আলোচনা চলছে।",
+        "lead_en": "Several policy proposals are considering changes to the cost-of-living adjustment to protect the sustainability of Social Security.",
         "bullets_bn": [
-          "অবসরপ্রাপ্ত নাগরিকদের মূল্যস্ফীতির সুরক্ষা প্রদান প্রক্রিয়ায় পরিবর্তন আনার একাধিক প্রস্তাব বিবেচনাধীন রয়েছে।",
-          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগী প্রবীণ নাগরিকদের প্রাপ্ত ভাতার পরিমাণে প্রভাব ফেলবে।",
-          "তহবিলের দীর্ঘমেয়াদি স্থায়িত্ব নিশ্চিত করতে নীতিপ্রণেতারা আগামী দিনে কাঠামোগত সংশোধনের রূপরেখা চূড়ান্ত করবেন।"
+          "নীতি নির্ধারকরা অবসরপ্রাপ্তদের মুদ্রাস্ফীতি সুরক্ষা দেওয়ার উপায়গুলো পুনর্মূল্যায়ন করছেন",
+          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগীদের প্রাপ্ত অর্থের পরিমাণে প্রভাব ফেলতে পারে",
+          "সংশ্লিষ্ট কর্তৃপক্ষ তহবিল সংকটের দীর্ঘমেয়াদি সমাধানের জন্য নতুন কাঠামোর রূপরেখা পর্যালোচনা করছে"
         ],
         "bullets_en": [
-          "Several policy proposals are under review to alter how retirees receive inflation protection for social security.",
-          "Proposed changes directly impact the financial benefits and purchasing power of millions of retired citizens.",
-          "Lawmakers are expected to review specific adjustment formulas to secure the long-term solvency of the fund."
+          "Policymakers are reviewing options to alter how retirees receive inflation protection",
+          "Proposed modifications could directly impact the financial benefits received by retirees",
+          "Authorities are evaluating structural frameworks to address long-term funding challenges"
         ],
-        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে প্রবীণ নাগরিক ও অবসরপ্রাপ্ত কর্মজীবীরা মূল্যস্ফীতির বিপরীতে কম আর্থিক সুরক্ষা পেতে পারেন।",
-        "impact_en": "Retirees and older citizens could face reduced inflation protection affecting their monthly living expenses.",
-        "details_bn": "মার্কিন সামাজিক নিরাপত্তা ব্যবস্থা দীর্ঘমেয়াদি আর্থিক সংকটের মুখোমুখি হওয়ায় এর তহবিল সংরক্ষণে বিভিন্ন সংস্কার প্রস্তাব উঠেছে। বিশেষ করে জীবনযাত্রার ব্যয় সমন্বয় বা কস্ট অব লিভিং অ্যাডজাস্টমেন্ট গণনার পদ্ধতি বদলানোর বিষয়টি দীর্ঘদিন ধরে বিতর্কিত ও আলোচিত হয়ে আসছে। এই ধরনের পরিবর্তন প্রবীণ নাগরিকদের জীবনযাত্রার মানে সরাসরি প্রভাব ফেলে বলে বিভিন্ন সময় তীব্র প্রতিক্রিয়ার সৃষ্টি করে।",
-        "details_en": "The social security system faces long-term structural funding shortfalls, prompting debates over benefit adjustments. Changing how inflation protection is calculated has historically been a contentious issue among lawmakers, as any alteration directly affects the financial well-being of millions of retirees relying on these fixed payments."
+        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে সাধারণ অবসরপ্রাপ্ত নাগরিক ও পেনশনভোগীদের মাসিক আয়ের ওপর সরাসরি প্রভাব পড়বে।",
+        "impact_en": "Retirees and older citizens could see direct changes to their monthly purchasing power and inflation protection.",
+        "details_bn": "সামাজিক নিরাপত্তা তহবিল দীর্ঘমেয়াদে সুরক্ষিত রাখতে বিভিন্ন সময়ে নানা সংস্কার প্রস্তাব পেশ করা হয়েছে। বর্তমান অর্থায়ন সংকট মোকাবিলায় জীবনযাত্রার ব্যয় সমন্বয় বা সিওএলএ গণনার পদ্ধতি পরিবর্তনের বিষয়টি দীর্ঘদিন ধরে অর্থনীতিবিদ ও নীতিনির্ধারকদের আলোচনার কেন্দ্রবিন্দুতে রয়েছে।",
+        "details_en": "Ensuring the long-term solvency of the Social Security system has led to various reform proposals over the years. Debates surrounding the modification of the cost-of-living adjustment mechanism are central to ongoing discussions among policymakers aimed at addressing structural funding gaps."
       }
     }
   ]
