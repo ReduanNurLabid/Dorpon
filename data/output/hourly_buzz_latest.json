@@ -1,343 +1,356 @@
 {
-  "updated_at": "2026-10-26T16:00:55.459318",
+  "updated_at": "2026-10-26T17:00:50.961763",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "b1314c80-c9ad-5d4a-aee7-2af45e45a63b",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T15:24:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.8889,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1172308",
-          "title": "আইজিপি চাকরিবিধি লঙ্ঘন করেছেন, তার বক্তব্য সংবিধান পরিপন্থি: জামায়াত",
-          "snippet": "আইজিপি চাকরিবিধি লঙ্ঘন করেছেন, তার বক্তব্য সংবিধান পরিপন্থি: জামায়াত"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আইজিপির ক্রসফায়ার মন্তব্য চাকরিবিধি ও সংবিধান পরিপন্থি বলে জামায়াতের নিন্দা",
-        "title_en": "Jamaat Condemns IGP Crossfire Remarks as Violation of Service Rules",
-        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামী পুলিশ মহাপরিদর্শকের ক্রসফায়ার সম্পর্কিত সাম্প্রতিক মন্তব্যের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে।",
-        "summary_en": "Bangladesh Jamaat-e-Islami strongly condemned and protested the Inspector General of Police's recent remarks regarding crossfire.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T15:24:09+00:00",
-        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামী পুলিশ মহাপরিদর্শকের ক্রসফায়ার সম্পর্কিত সাম্প্রতিক মন্তব্যের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে।",
-        "lead_en": "Bangladesh Jamaat-e-Islami strongly condemned and protested the Inspector General of Police's recent remarks regarding crossfire.",
-        "bullets_bn": [
-          "জামায়াতের সহকারী সেক্রেটারি জেনারেল আইজিপির বক্তব্যকে সংবিধান পরিপন্থি ও চাকরিবিধির লঙ্ঘন হিসেবে অভিহিত করেছেন।",
-          "আইজিপির এই ধরনের মন্তব্য বিচারবহির্ভূত হত্যাকাণ্ডকে উসকে দিচ্ছে বলে অভিযোগ করা হয়েছে।",
-          "দলটির পক্ষ থেকে পুলিশ প্রধানের এই বক্তব্যের বিষয়ে অবিলম্বে আইনি পদক্ষেপ নেওয়ার দাবি জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "The Jamaat assistant secretary general termed the IGP's statement as a violation of the constitution and service rules.",
-          "The party alleged that such remarks from the police chief encourage extrajudicial killings.",
-          "Jamaat demanded immediate legal action regarding the controversial statement made by the police chief."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর শীর্ষ কর্মকর্তার এ ধরনের বিতর্কিত মন্তব্য সাধারণ মানুষের মধ্যে বিচারহীনতার শঙ্কা তৈরি করে।",
-        "impact_en": "Such controversial remarks from top law enforcement officials create fear of lawlessness among ordinary citizens.",
-        "details_bn": "পুলিশ মহাপরিদর্শকের ক্রসফায়ার নিয়ে দেওয়া বক্তব্য দেশজুড়ে তীব্র সমালোচনার জন্ম দিয়েছে। বিভিন্ন রাজনৈতিক দল ও মানবাধিকার সংগঠন এই মন্তব্যের প্রতিবাদ জানিয়ে আসছে। তারা মনে করেন, এ ধরনের বক্তব্য আইনশৃঙ্খলা রক্ষাকারী বাহিনীকে আইনবহির্ভূত কর্মকাণ্ডে উৎসাহিত করতে পারে এবং মৌলিক মানবাধিকারের পরিপন্থি।",
-        "details_en": "The Inspector General of Police's remarks regarding crossfire sparked widespread criticism across the country. Various political parties and human rights organizations have been protesting this statement, expressing concern that such rhetoric may encourage extrajudicial actions and undermine fundamental human rights."
-      }
-    },
-    {
-      "story_id": "fde151b8-0a16-5446-baff-0ea4dd06dfa3",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T15:51:25+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7602,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976925/%E0%A6%86%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%A6%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "আমজনতার তারেক রহমান ছাত্রদলের সদস্য ছিলেন: জানালেন ছাত্রদল নেতা শুভ",
-          "snippet": "আমজনতার তারেক রহমান ছাত্রদলের সদস্য ছিলেন: জানালেন ছাত্রদল নেতা শুভ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "তারেক রহমান কুমিল্লা বিশ্ববিদ্যালয় ছাত্রদলের সদস্য ছিলেন বলে ছাত্রদল নেতার দাবি",
-        "title_en": "Tarek Rahman was member of Jatiyatabadi Chhatra Dal, claims local leader",
-        "summary_bn": "আমজনতা দলের সদস্যসচিব তারেক রহমান কুমিল্লা বিশ্ববিদ্যালয়ে অধ্যয়নকালে ছাত্রদলের সদস্য ছিলেন বলে সামাজিক মাধ্যমে দাবি করেছেন শাখা ছাত্রদল নেতা।",
-        "summary_en": "Amjonota Dal member secretary Tarek Rahman was a member of Chhatra Dal during his university years, claims a local leader.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T15:51:25+00:00",
-        "lead_bn": "আমজনতা দলের সদস্যসচিব তারেক রহমান কুমিল্লা বিশ্ববিদ্যালয়ে অধ্যয়নকালে ছাত্রদলের সদস্য ছিলেন বলে সামাজিক মাধ্যমে দাবি করেছেন শাখা ছাত্রদল নেতা।",
-        "lead_en": "Amjonota Dal member secretary Tarek Rahman was a member of Chhatra Dal during his university years, claims a local leader.",
-        "bullets_bn": [
-          "কুমিল্লা বিশ্ববিদ্যালয় শাখা ছাত্রদলের সদস্যসচিব মোস্তাফিজুর রহমান শুভ তারেক রহমানের রাজনৈতিক অতীত নিয়ে এই তথ্য প্রকাশ করেন।",
-          "সামাজিক যোগাযোগমাধ্যম ফেসবুকে দেওয়া একটি বিশেষ পোস্টে এই তথ্য জানানো হয়।",
-          "তারেক রহমানের বর্তমান রাজনৈতিক পরিচয় এবং ছাত্রদলের অতীত সম্পৃক্ততা নিয়ে ক্যাম্পাসে নতুন আলোচনার সৃষ্টি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Comilla University Chhatra Dal member secretary Mostafizur Rahman Shuvo disclosed the political background.",
-          "The information was shared publicly through a verified post on social media platform Facebook.",
-          "The disclosure has sparked fresh discussions regarding political affiliations of student and youth leaders."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সাম্প্রতিক সময়ে দেশের বিভিন্ন রাজনৈতিক দলের নতুন মুখ ও নেতাদের অতীত রাজনৈতিক সংশ্লিষ্টতা নিয়ে সামাজিক যোগাযোগমাধ্যমে নানা আলোচনা চলছে। এরই ধারাবাহিকতায় কুমিল্লা বিশ্ববিদ্যালয় শাখা ছাত্রদলের পক্ষ থেকে আমজনতা দলের সদস্যসচিব তারেক রহমানের ছাত্রদল সংশ্লিষ্টতার বিষয়টি প্রকাশ্যে আনা হয়। এই প্রকাশনা রাজনৈতিক অঙ্গনে এবং ছাত্ররাজনীতির সাথে জড়িত মহলে বেশ আলোচনার জন্ম দিয়েছে।",
-        "details_en": "Recent discussions on social media frequently highlight the past political affiliations of emerging youth and political leaders in Bangladesh. In this context, the Comilla University unit of Chhatra Dal revealed the prior student politics involvement of Amjonota Dal member secretary Tarek Rahman, drawing widespread attention among student political circles."
-      }
-    },
-    {
-      "story_id": "fc7f5359-aa15-5fa9-88d8-9b0fc44ac3c2",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T15:46:36+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6787,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/mass-media/news/1172314",
-          "title": "আমার দেশ পত্রিকার প্রেসে বোমা হামলা: ডিআরইউয়ের তীব্র নিন্দা",
-          "snippet": "আমার দেশ পত্রিকার প্রেসে বোমা হামলা: ডিআরইউয়ের তীব্র নিন্দা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আমার দেশ পত্রিকার প্রেসে বোমা হামলার ঘটনায় ডিআরইউয়ের তীব্র নিন্দা",
-        "title_en": "DRU Strongly Condemns Bomb Attack on Amar Desh Press",
-        "summary_bn": "ঢাকা রিপোর্টার্স ইউনিটি আমার দেশ পত্রিকার ছাপাখানার প্রধান ফটকে বোমা হামলার ঘটনার তীব্র নিন্দা ও গভীর উদ্বেগ জানিয়েছে।",
-        "summary_en": "Dhaka Reporters Unity has expressed deep concern and strongly condemned the bomb attack at the main gate of the Amar Desh press.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T15:46:36+00:00",
-        "lead_bn": "ঢাকা রিপোর্টার্স ইউনিটি আমার দেশ পত্রিকার ছাপাখানার প্রধান ফটকে বোমা হামলার ঘটনার তীব্র নিন্দা ও গভীর উদ্বেগ জানিয়েছে।",
-        "lead_en": "Dhaka Reporters Unity has expressed deep concern and strongly condemned the bomb attack at the main gate of the Amar Desh press.",
-        "bullets_bn": [
-          "ঢাকা রিপোর্টার্স ইউনিটি ছাপাখানায় বোমা নিক্ষেপ ও অবিস্ফোরিত বস্তু উদ্ধারের ঘটনার তীব্র নিন্দা জানিয়েছে।",
-          "সংগঠনের পক্ষ থেকে অবিলম্বে ঘটনার সুষ্ঠু তদন্ত করে জড়িতদের আইনের আওতায় আনার দাবি জানানো হয়েছে।",
-          "গণমাধ্যমের স্বাধীনতা রক্ষায় ও সংবাদকর্মীদের সুরক্ষায় দ্রুত কার্যকর প্রশাসনিক পদক্ষেপ নেওয়ার তাগিদ দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Dhaka Reporters Unity strongly condemned the bombing and recovery of unexploded objects at the printing press.",
-          "The organization demanded a prompt, fair investigation to bring the perpetrators to justice immediately.",
-          "Urgent administrative measures were stressed to protect press freedom and ensure the safety of media personnel."
-        ],
-        "impact_bn": "গণমাধ্যমের ওপর হামলা সাংবাদিকদের নিরাপত্তা এবং মতপ্রকাশের স্বাধীনতার পরিবেশকে মারাত্মকভাবে ঝুঁকিতে ফেলছে।",
-        "impact_en": "Attacks on media houses severely jeopardize the safety of journalists and the environment for freedom of expression.",
-        "details_bn": "দৈনিক আমার দেশ পত্রিকার ছাপাখানার প্রধান ফটক লক্ষ্য করে দুর্বৃত্তরা বোমা নিক্ষেপ করে এবং ঘটনাস্থল থেকে একটি অবিস্ফোরিত বোমাসদৃশ বস্তু উদ্ধার করা হয়। এই ধরনের নাশকতামূলক তৎপরতা সংবাদমাধ্যমের নিরাপত্তা নিয়ে গভীর উদ্বেগের জন্ম দিয়েছে। ঢাকা রিপোর্টার্স ইউনিটিসহ বিভিন্ন সাংবাদিক সংগঠন এই ঘটনার তীব্র প্রতিবাদ জানিয়ে গণমাধ্যমের নিরাপত্তা নিশ্চিত করার দাবি তুলেছে।",
-        "details_en": "Miscreants hurled a bomb targeting the main gate of the Amar Desh newspaper printing press, and an unexploded bomb-like object was recovered from the scene. Such subversive activities have raised deep concerns regarding media security. Dhaka Reporters Unity and various journalistic organizations strongly protested the incident and demanded guaranteed safety for the press."
-      }
-    },
-    {
-      "story_id": "62ea2111-1023-5ea4-9217-f0a60d12f535",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T15:52:57+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8938,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/jamat-e-islam/976927/%E0%A6%A4%E0%A7%87%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%AB%E0%A6%B0-%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%93-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0",
-          "title": "তেলবাজদের নিয়ে বিদেশ সফর, জানেও না কেন যাচ্ছে, আবার বলছে প্রথমবার দেশের বাইরে: মাসুদ",
-          "snippet": "তেলবাজদের নিয়ে বিদেশ সফর, জানেও না কেন যাচ্ছে, আবার বলছে প্রথমবার দেশের বাইরে: মাসুদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সরকারি খরচে বিদেশ সফরে তেলবাজদের নিয়ে যাওয়ার কড়া সমালোচনা জামায়াত নেতার",
-        "title_en": "Jamaat Leader Criticizes Taking Sycophants on Foreign Tours Using Public Funds",
-        "summary_bn": "জামায়াত নেতা ড. শফিকুল ইসলাম মাসুদ অভিযোগ করেছেন যে জনগণের অর্থ খরচ করে বিদেশ সফরে অযোগ্য ও তেলবাজদের নিয়ে যাওয়া হচ্ছে।",
-        "summary_en": "Jamaat leader Dr. Shafiqul Islam Masud alleged that unqualified sycophants are being taken on foreign tours using public funds.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T15:52:57+00:00",
-        "lead_bn": "জামায়াত নেতা ড. শফিকুল ইসলাম মাসুদ অভিযোগ করেছেন যে জনগণের অর্থ খরচ করে বিদেশ সফরে অযোগ্য ও তেলবাজদের নিয়ে যাওয়া হচ্ছে।",
-        "lead_en": "Jamaat leader Dr. Shafiqul Islam Masud alleged that unqualified sycophants are being taken on foreign tours using public funds.",
-        "bullets_bn": [
-          "জনগণের টাকা খরচ করে বিদেশ সফরে তেলবাজদের নিয়ে যাওয়ার তীব্র সমালোচনা করেছেন জামায়াতে ইসলামীর ঢাকা মহানগরী দক্ষিণের সেক্রেটারি জেনারেল ড. শফিকুল ইসলাম মাসুদ।",
-          "তিনি অভিযোগ করেন বিদেশ সফরে যাওয়া ব্যক্তিরা সেখানে ভ্রমণের আসল উদ্দেশ্য সম্পর্কেও অবগত থাকেন না।",
-          "সরকারি অর্থের এই অপচয় বন্ধে প্রশাসনের তরফ থেকে কোনো সুনির্দিষ্ট ব্যাখ্যা বা পদক্ষেপ এখনো আসেনি।"
-        ],
-        "bullets_en": [
-          "Jamaat-e-Islami Dhaka South Secretary General Dr. Shafiqul Islam Masud strongly criticized taking sycophants abroad using public funds.",
-          "He alleged that individuals joining these foreign tours remain completely unaware of the actual purpose of their visits.",
-          "No specific explanation or corrective step has been issued by authorities regarding this alleged misuse of public money."
-        ],
-        "impact_bn": "সরকারি অর্থের অপচয়ের কারণে সাধারণ করদাতাদের মধ্যে ক্ষোভ ও হতাশা তৈরি হচ্ছে।",
-        "impact_en": "Public funds being misused for unnecessary delegations frustrates ordinary taxpayers.",
-        "details_bn": "বাংলাদেশ জামায়াতে ইসলামীর ঢাকা মহানগরী দক্ষিণের উদ্যোগে আয়োজিত একটি অনুষ্ঠানে সরকারের বিদেশ সফর ও বিভিন্ন প্রতিনিধিদল পাঠানো নিয়ে এই সমালোচনা করা হয়। দেশের অর্থনৈতিক সংকট ও বৈদেশিক মুদ্রার রিজার্ভের চাপের মধ্যে সরকারি অর্থে অপ্রয়োজনীয় বিদেশ ভ্রমণ নিয়ে বিভিন্ন সময় রাজনৈতিক মহলে নানা প্রশ্ন ও বিতর্ক উঠেছে।",
-        "details_en": "The criticism regarding foreign tours and official delegations was raised during an event organized by Bangladesh Jamaat-e-Islami Dhaka South. Amid economic pressures and foreign exchange reserve constraints in the country, unnecessary foreign trips funded by the state have frequently sparked political debate."
-      }
-    },
-    {
-      "story_id": "85119cf4-6544-5fc3-9897-766d973eb64d",
+      "story_id": "4091eadd-83ca-5350-8d34-954dc6b95acd",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Ukraine",
-        "#Mali",
-        "#Russia"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://static.dw.com/image/66975469_6.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T16:00:55.459329+00:00",
+      "published_at": "2026-10-26T16:56:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6882,
+      "importance_score": 9.0,
+      "rank_score": 3.4755,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
-          "title": "Why Ukraine may be involved in Mali's conflict",
-          "snippet": "Why Ukraine may be involved in Mali's conflict"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976940/%E0%A6%A8%E0%A6%BF%E0%A6%AA%E0%A7%8D%E0%A6%AA%E0%A6%A8-%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%88%E0%A6%B6%E0%A6%AD%E0%A7%8B%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%82%E0%A6%B6-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
+          "title": "নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী তারেক রহমান",
+          "snippet": "নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী তারেক রহমান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মালি সংঘাতে ইউক্রেনীয় ড্রোন বিশেষজ্ঞদের সম্পৃক্ততার অভিযোগ উঠেছে",
-        "title_en": "Ukraine Drone Specialists Allegedly Involved in Mali Conflict",
-        "summary_bn": "রাশিয়ার প্রভাব কমাতে ইউক্রেনীয় গোয়েন্দা ও ড্রোন বিশেষজ্ঞরা মালির বিদ্রোহীদের সহায়তা করছেন বলে প্রতিবেদনে উঠে এসেছে।",
-        "summary_en": "Ukrainian drone specialists are reportedly supporting rebels in Mali to weaken Russian military and economic influence globally.",
+        "title_bn": "জাপান সফরে নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Attends Nippon Foundation Dinner During Japan Visit",
+        "summary_bn": "জাপান সফরের প্রথম দিনে নিপ্পন ফাউন্ডেশনের চেয়ারম্যানের আমন্ত্রণে আয়োজিত বিশেষ নৈশভোজে অংশ নেন প্রধানমন্ত্রী তারেক রহমান।",
+        "summary_en": "Prime Minister Tarique Rahman attended a special dinner hosted by the Nippon Foundation chairman on his first day in Japan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:00:55.459329+00:00",
-        "lead_bn": "রাশিয়ার প্রভাব কমাতে ইউক্রেনীয় গোয়েন্দা ও ড্রোন বিশেষজ্ঞরা মালির বিদ্রোহীদের সহায়তা করছেন বলে প্রতিবেদনে উঠে এসেছে।",
-        "lead_en": "Ukrainian drone specialists are reportedly supporting rebels in Mali to weaken Russian military and economic influence globally.",
+        "published_at": "2026-10-26T16:56:23+00:00",
+        "lead_bn": "জাপান সফরের প্রথম দিনে নিপ্পন ফাউন্ডেশনের চেয়ারম্যানের আমন্ত্রণে আয়োজিত বিশেষ নৈশভোজে অংশ নেন প্রধানমন্ত্রী তারেক রহমান।",
+        "lead_en": "Prime Minister Tarique Rahman attended a special dinner hosted by the Nippon Foundation chairman on his first day in Japan.",
         "bullets_bn": [
-          "ইউক্রেনীয় ড্রোন বিশেষজ্ঞরা মালির উত্তর অঞ্চলে তুয়ারেগ বিদ্রোহীদের সহায়তা করছেন।",
-          "ইউক্রেনের মূল উদ্দেশ্য বিশ্বব্যাপী রাশিয়ার সামরিক ও অর্থনৈতিক প্রভাব দুর্বল করা।",
-          "এই সম্পৃক্ততার জেরে আন্তর্জাতিক কূটনৈতিক ও কৌশলগত নতুন সমীকরণ তৈরি হতে পারে।"
+          "প্রধানমন্ত্রী তারেক রহমান জাপান সফরে নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নেন।",
+          "টোকিওর মেইজি কিনেনকানের হানাগাসুমি রেস্তোরাঁয় এই নৈশভোজের আয়োজন করা হয়।",
+          "প্রধানমন্ত্রীর উপপ্রেস সচিব শাহাদাৎ হোসেন গণমাধ্যমকে এই তথ্য নিশ্চিত করেছেন।"
         ],
         "bullets_en": [
-          "Ukrainian drone specialists are reportedly supporting Tuareg rebels in northern Mali.",
-          "Kyiv aims to weaken Russian military and economic influence worldwide through such actions.",
-          "The alleged involvement risks entangling Ukraine in complex geopolitical conflicts within Africa."
+          "Prime Minister Tarique Rahman attended the Nippon Foundation dinner during his official Japan visit.",
+          "The dinner was hosted at the Hanagasumi restaurant in Meiji Kinenkan, Tokyo.",
+          "Deputy Press Secretary Shahadat Hossain officially confirmed the event to the media."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "রাশিয়ার সাথে চলমান যুদ্ধের পরিধি আফ্রিকার সাহেল অঞ্চলে ছড়িয়ে পড়ছে। আন্তর্জাতিক গণমাধ্যমের তদন্ত অনুযায়ী, ইউক্রেনীয় গোয়েন্দা ও ড্রোন বিশেষজ্ঞরা মালির সামরিক সরকার ও তাদের মিত্র রুশ বাহিনীগুলোর বিরুদ্ধে লড়াইরত তুয়ারেগ বিদ্রোহীদের তথ্য ও কৌশলগত সহায়তা প্রদান করছে। তবে কিয়েভ সরাসরি সম্পৃক্ততা অস্বীকার করলেও বিশ্লেষকরা এটিকে বৈশ্বিক সংঘাতে রাশিয়ার প্রভাব খর্ব করার কৌশল হিসেবে দেখছেন।",
-        "details_en": "The conflict between Ukraine and Russia is extending into Africa's Sahel region. Investigative reports indicate that Ukrainian drone specialists and military intelligence have provided support to Tuareg rebels fighting the military government in Mali and its Russian allies. While Kyiv has denied direct involvement, experts suggest the move is part of a broader strategy to undermine Russian global influence."
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমান দ্বিপক্ষীয় সম্পর্ক জোরদার এবং বিভিন্ন আন্তর্জাতিক সংস্থার সাথে সহযোগিতা বাড়াতে সরকারি সফরে জাপান অবস্থান করছেন। সফরের প্রথম দিনেই তিনি নিপ্পন ফাউন্ডেশন ও সাসাকাওয়া পিস ফাউন্ডেশনের অনারারি চেয়ারম্যান ইয়োহেই সাসাকাওয়ার আমন্ত্রণে নৈশভোজে যোগ দেন। এ সময় তার সাথে তার সহধর্মিণী ডা. জুবাইদা রহমানও উপস্থিত ছিলেন।",
+        "details_en": "Prime Minister Tarique Rahman is currently on an official visit to Japan aimed at strengthening bilateral relations and expanding cooperation with international organizations. On the first day of his tour, he attended a dinner hosted by Yohei Sasakawa, honorary chairman of the Nippon Foundation and Sasakawa Peace Foundation, accompanied by his spouse Dr. Zubaida Rahman."
       }
     },
     {
-      "story_id": "6b8e82fd-f477-5770-9aac-8a25815750e0",
+      "story_id": "e5152090-897f-528a-9c4e-a551f4f5758e",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T16:57:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8731,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/other-politics/976939/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
+          "title": "পল্টনে সিপিবি কার্যালয়ে হামলা",
+          "snippet": "পল্টনে সিপিবি কার্যালয়ে হামলা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পল্টনে সিপিবি কার্যালয়ে যুবকদের হামলা ও রাজনৈতিক উত্তেজনা সৃষ্টি",
+        "title_en": "Youths Attack CPB Office in Paltan Triggering Political Tensions",
+        "summary_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় মুক্তিভবনে একদল যুবক হামলা চালিয়েছে।",
+        "summary_en": "A group of youths carried out an attack on the central office of the Communist Party of Bangladesh in Paltan.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T16:57:23+00:00",
+        "lead_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় মুক্তিভবনে একদল যুবক হামলা চালিয়েছে।",
+        "lead_en": "A group of youths carried out an attack on the central office of the Communist Party of Bangladesh in Paltan.",
+        "bullets_bn": [
+          "পল্টনে অবস্থিত সিপিবি কার্যালয় মুক্তিভবনে একদল যুবক অতর্কিত হামলা চালায়।",
+          "সিপিবি এই হামলার জন্য বিএনপি ও জামায়াতের নেতাকর্মীদের সরাসরি দায়ী করেছে।",
+          "অপ্রীতিকর পরিস্থিতি এড়াতে এবং এলাকায় আইনশৃঙ্খলা বজায় রাখতে পুলিশ সতর্ক অবস্থানে রয়েছে।"
+        ],
+        "bullets_en": [
+          "A group of youths launched a sudden attack on the Mukti Bhaban CPB office in Paltan.",
+          "The CPB directly blamed BNP and Jamaat activists for orchestrating the attack.",
+          "Law enforcement agencies took positions to prevent further clashes and maintain local security."
+        ],
+        "impact_bn": "এই রাজনৈতিক সংঘাতে সাধারণ নাগরিকদের চলাচলে আতঙ্ক সৃষ্টি হয়েছে এবং জননিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
+        "impact_en": "The political clash has sparked public safety concerns and created panic among commuters in the area.",
+        "details_bn": "রাজধানীর পল্টন এলাকায় বিভিন্ন রাজনৈতিক দলের কর্মসূচি ও উপস্থিতিকে কেন্দ্র করে প্রায়ই উত্তেজনার সৃষ্টি হয়। এর আগেও রাজনৈতিক সহিংসতার জেরে বিভিন্ন রাজনৈতিক দলের কার্যালয় ও এর আশপাশে সংঘাতের ঘটনা ঘটেছে। সাম্প্রতিক এই হামলার পর এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে এবং রাজনৈতিক অঙ্গনে নতুন করে উত্তেজনা ছড়িয়ে পড়েছে।",
+        "details_en": "The Paltan area in Dhaka has frequently experienced political tensions due to rival party activities and office locations. Past political violence has often targeted party offices and surrounding areas, raising concerns among residents. Following this latest attack, extra police forces were deployed to the scene while political friction intensified across the capital."
+      }
+    },
+    {
+      "story_id": "f1ec6e13-23bb-5538-b94b-a905192b1295",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T16:45:07+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6565,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/ppwk0c7s4u",
+          "title": "রেস্তোরাঁয় গোপনে তরুণ-তরুণীর ছবি তুলে ছড়ানোর অভিযোগে দুজন গ্রেপ্তার",
+          "snippet": "রেস্তোরাঁয় গোপনে তরুণ-তরুণীর ছবি তুলে ছড়ানোর অভিযোগে দুজন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিলেটে রেস্তোরাঁয় তরুণ-তরুণীর গোপনে ছবি তোলার অভিযোগে দুই কর্মচারী গ্রেপ্তার",
+        "title_en": "Two Restaurant Staff Arrested in Sylhet for Secretly Photomapping Young Couple",
+        "summary_bn": "সিলেটে একটি রেস্তোরাঁয় আসা তরুণ ও তাঁর বান্ধবীর গোপনে ছবি তুলে অনলাইনে ছড়িয়ে অপপ্রচারের অভিযোগে দুই কর্মচারীকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police arrested two restaurant staff in Sylhet for secretly photographing a young couple and spreading the images online.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T16:45:07+00:00",
+        "lead_bn": "সিলেটে একটি রেস্তোরাঁয় আসা তরুণ ও তাঁর বান্ধবীর গোপনে ছবি তুলে অনলাইনে ছড়িয়ে অপপ্রচারের অভিযোগে দুই কর্মচারীকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police arrested two restaurant staff in Sylhet for secretly photographing a young couple and spreading the images online.",
+        "bullets_bn": [
+          "সিলেট মহানগর গোয়েন্দা পুলিশ ও কোতোয়ালি থানা যৌথ অভিযান চালিয়ে দুই রেস্তোরাঁ কর্মচারীকে গ্রেপ্তার করেছে।",
+          "গ্রেপ্তার ব্যক্তিরা হলেন আহবাবুজ্জামান আনোয়ার ও মো. সামছুল আমীন, যাঁরা ওই রেস্তোরাঁয় চাকরি করতেন।",
+          "ভুক্তভোগী তরুণের করা মামলার পর অভিযুক্তদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Sylhet Metropolitan Intelligence Police and Kotwali police jointly arrested two restaurant employees.",
+          "The arrested individuals are Ahbabuzzaman Anwar and Md. Shamsul Amin, who worked at the restaurant.",
+          "The accused were sent to jail through the court following a formal case filed by the victim."
+        ],
+        "impact_bn": "এই ঘটনা সাধারণ নাগরিক ও তরুণদের ডিজিটাল নিরাপত্তা এবং ব্যক্তিগত গোপনীয়তা সুরক্ষার গুরুত্ব তুলে ধরে।",
+        "impact_en": "This incident highlights the critical importance of digital security and personal privacy for ordinary citizens.",
+        "details_bn": "সিলেট নগরের জিন্দাবাজার এলাকার একটি রেস্তোরাঁয় এক তরুণ ও তাঁর বান্ধবী খেতে গেলে কর্মচারীরা গোপনে ছবি তোলেন। পরবর্তীতে সেই ছবি সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দিয়ে হেনস্তা ও অপপ্রচার চালানো হয়। সিসিটিভি ফুটেজ পর্যালোচনা করে পুলিশ অভিযুক্তদের শনাক্ত করে এবং ভুক্তভোগীর করা মামলার ভিত্তিতে তাঁদের গ্রেপ্তার করে আদালতের মাধ্যমে কারাগারে পাঠায়। পুলিশ ঘটনার সঙ্গে অন্য কেউ জড়িত আছে কি না, তা খতিয়ে দেখছে।",
+        "details_en": "A young couple visiting a restaurant in Sylhet's Zindabazar area was secretly photographed by staff members. The images were subsequently circulated on social media to harass and defame them. Police identified the suspects through CCTV footage and arrested them following a case filed by the victim, sending them to jail via court proceedings while investigating potential accomplices."
+      }
+    },
+    {
+      "story_id": "0b7cd307-fc33-53b1-9ce6-c4c9b361f9c9",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T16:33:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4869,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172325",
+          "title": "ইরানের নেতাদের সঙ্গে পাকিস্তানের সেনাপ্রধানের বৈঠক",
+          "snippet": "ইরানের নেতাদের সঙ্গে পাকিস্তানের সেনাপ্রধানের বৈঠক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানের শীর্ষ নেতৃত্বের সাথে পাকিস্তানের সেনাপ্রধানের দ্বিপক্ষীয় বৈঠক",
+        "title_en": "Pakistani Army Chief Holds Bilateral Talks with Iranian Leadership",
+        "summary_bn": "পাকিস্তানের সেনাপ্রধান ফিল্ড মার্শাল আসিম মুনির আঞ্চলিক নিরাপত্তা ও দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
+        "summary_en": "Pakistani Army Chief Field Marshal Asim Munir held discussions with top Iranian military officials to strengthen regional security and bilateral ties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T16:33:20+00:00",
+        "lead_bn": "পাকিস্তানের সেনাপ্রধান ফিল্ড মার্শাল আসিম মুনির আঞ্চলিক নিরাপত্তা ও দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
+        "lead_en": "Pakistani Army Chief Field Marshal Asim Munir held discussions with top Iranian military officials to strengthen regional security and bilateral ties.",
+        "bullets_bn": [
+          "পাকিস্তানের সেনাপ্রধান আসিম মুনির তেহরানে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
+          "বৈঠকে সৌদি আরবের প্রতিরক্ষামন্ত্রী প্রিন্স খালিদ বিন সালমান ও তুরস্কের গোয়েন্দাপ্রধান ইব্রাহিম কালিনও অংশ নেন।",
+          "এই উচ্চপর্যায়ের বৈঠকের মাধ্যমে মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তা সহযোগিতা আরও বৃদ্ধির উদ্যোগ নেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Pakistani Army Chief Asim Munir met with top Iranian military officials in Tehran.",
+          "Saudi Defense Minister Prince Khalid bin Salman and Turkish Intelligence Chief Ibrahim Kalin also joined the discussions.",
+          "This high-level engagement aims to enhance regional security cooperation across the region."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্য ও দক্ষিণ এশিয়ার ভূরাজনৈতিক প্রেক্ষাপটে আঞ্চলিক নিরাপত্তা জোরদার এবং কূটনৈতিক দূরত্ব কমাতে বিভিন্ন দেশের সামরিক ও গোয়েন্দা প্রধানদের এই ধরনের উচ্চপর্যায়ের বৈঠক অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে।",
+        "details_en": "Such high-level engagements involving military and intelligence chiefs of key regional nations play a vital role in addressing geopolitical challenges, enhancing regional security, and bridging diplomatic gaps in the Middle East and South Asia."
+      }
+    },
+    {
+      "story_id": "e383a02e-43da-51d6-9cb7-a0f7a193a694",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#ArtificialIntelligence",
+        "#StockMarket",
+        "#TechNews"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-26T16:27:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.6233,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "snippet": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
+          "title": "Artificial Intelligence giant Anthropic files for Initial Public Offering",
+          "snippet": "Artificial Intelligence giant Anthropic files for Initial Public Offering"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মার্কিন শেয়ার বাজারে তালিকাভুক্তির আগে অস্তিত্বের ঝুঁকির বিষয়ে অ্যানথ্রপিকের সতর্কবার্তা",
+        "title_en": "Anthropic Warns of Existential Risks Ahead of US Stock Market Listing",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্রের শেয়ার বাজারে তালিকাভুক্তির প্রস্তুতি নেওয়ার সময় মানবজাতির জন্য চরম ঝুঁকির আশঙ্কা প্রকাশ করেছে।",
+        "summary_en": "Artificial intelligence firm Anthropic has warned of catastrophic risks to humanity while unveiling details for its upcoming US stock market listing.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T16:27:17+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্রের শেয়ার বাজারে তালিকাভুক্তির প্রস্তুতি নেওয়ার সময় মানবজাতির জন্য চরম ঝুঁকির আশঙ্কা প্রকাশ করেছে।",
+        "lead_en": "Artificial intelligence firm Anthropic has warned of catastrophic risks to humanity while unveiling details for its upcoming US stock market listing.",
+        "bullets_bn": [
+          "অ্যানথ্রপিক আনুষ্ঠানিকভাবে যুক্তরাষ্ট্রভিত্তিক নাসডাক এক্সচেঞ্জে এএনটি প্রতীকে শেয়ার বাজারে তালিকাভুক্ত হওয়ার পরিকল্পনা প্রকাশ করেছে।",
+          "প্রতিষ্ঠানটি চলতি বছরের প্রথমার্ধে ১ হাজার ৬৩০ কোটি ডলার রাজস্ব অর্জনের পাশাপাশি ৮ হাজার কোটি ডলারের বেশি লোকসানের কথা জানিয়েছে।",
+          "উন্নত কৃত্রিম বুদ্ধিমত্তা সিস্টেমগুলো যথাযথ নিরাপত্তা ও তদারকি ছাড়া পরিচালিত হলে মানবজাতির জন্য অস্তিত্বের সংকট তৈরি করতে পারে।"
+        ],
+        "bullets_en": [
+          "Anthropic unveiled plans to list on the US Nasdaq exchange under the ticker symbol ANT as the first pure-play AI firm.",
+          "The Claude chatbot developer reported 16.3 billion dollars in revenue and over 80.7 billion dollars in losses for the first half of the year.",
+          "Advanced AI systems could pose catastrophic risks to humanity if they are misused, weaponized, or operated without proper security safeguards."
+        ],
+        "impact_bn": "প্রযুক্তির বিকাশ ও সুরক্ষার মানদণ্ড নির্ধারিত হওয়ায় এই তালিকাভুক্তি বৈশ্বিক ব্যবহারকারী ও ভবিষ্যৎ কৃত্রিম বুদ্ধিমত্তা খাতের নিরাপত্তায় বড় প্রভাব ফেলবে।",
+        "impact_en": "As a major test case for public AI companies, safety measures implemented by Anthropic will directly influence global technology standards and user trust.",
+        "details_bn": "পাঁচ বছর আগে দারিয়ো আমোদি ও ড্যানিয়েলা আমোদি সহ সাতজনের প্রতিষ্ঠিত কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক মূলত ক্লড চ্যাটবট তৈরির জন্য পরিচিত। চলতি বছরের জুনে প্রতিষ্ঠানটি জনসমক্ষে শেয়ার বাজারে যাওয়ার ঘোষণা দেয়। এর সম্ভাব্য বাজার মূল্যায়ন স্পেসএক্সের মূল্যকে ছাড়িয়ে যেতে পারে বলে ধারণা করা হচ্ছে, যা একে বিশ্বের অন্যতম আলোচিত প্রযুক্তি প্রতিষ্ঠানে পরিণত করেছে।",
+        "details_en": "Founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei, and five others, Anthropic is the developer behind the Claude chatbot. The company announced its intention to go public in June, with a valuation expected to exceed SpaceX. As the first fully AI-focused company to list publicly, it serves as a critical test case for investor sentiment and regulatory oversight in the artificial intelligence sector."
+      }
+    },
+    {
+      "story_id": "ebb8490e-1ff7-5271-9dd9-f2123024d8c1",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "economy_business",
-        "governance_law"
+        "governance_law",
+        "climate_environment",
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#GermanyChina",
-        "#ForeignPolicy",
-        "#EUTrade"
+        "#UKPolitics",
+        "#EUSingleMarket",
+        "#AndyBurnham"
       ],
-      "image_url": "https://static.dw.com/image/79754785_6.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
       "image_caption": null,
-      "published_at": "2026-10-26T16:00:55.459329+00:00",
+      "published_at": "2026-10-26T16:48:12+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6882,
+      "rank_score": 0.6044,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-rdf",
-          "title": "Steinmeier in China: A major state visit in uncertain times",
-          "snippet": "Steinmeier in China: A major state visit in uncertain times"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
+          "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
+          "snippet": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics l"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীন সফর শুরু করেছেন জার্মানির প্রেসিডেন্ট ফ্রাঙ্ক-ভাল্টার স্টেইনমায়ার",
-        "title_en": "German President Frank-Walter Steinmeier Begins Official China Visit",
-        "summary_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক চ্যালেঞ্জ পর্যালোচনার উদ্দেশ্যে পাঁচদিনের চীন সফর শুরু করেছেন জার্মানির প্রেসিডেন্ট ফ্রাঙ্ক-ভাল্টার স্টেইনমায়ার।",
-        "summary_en": "German President Frank-Walter Steinmeier has begun a five-day visit to China to review bilateral relations and economic challenges.",
+        "title_bn": "যুক্তরাজ্যের একক বাজারে ফেরা নিয়ে গণভোট প্রয়োজন বলে স্বীকার করেছেন অ্যান্ডি বার্নহাম",
+        "title_en": "Andy Burnham confirms UK referendum needed before rejoining EU single market",
+        "summary_bn": "লেবার পার্টির রাজনীতিক অ্যান্ডি বার্নহাম জানিয়েছেন, ইউরোপীয় ইউনিয়নের একক বাজারে পুনরায় যোগদানের আগে যুক্তরাজ্যে গণভোট অনুষ্ঠিত হওয়া আবশ্যক।",
+        "summary_en": "Labour politician Andy Burnham stated that a referendum is necessary before the UK can rejoin the EU single market.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
           "economy_business",
-          "governance_law"
+          "governance_law",
+          "climate_environment",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:00:55.459329+00:00",
-        "lead_bn": "দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক চ্যালেঞ্জ পর্যালোচনার উদ্দেশ্যে পাঁচদিনের চীন সফর শুরু করেছেন জার্মানির প্রেসিডেন্ট ফ্রাঙ্ক-ভাল্টার স্টেইনমায়ার।",
-        "lead_en": "German President Frank-Walter Steinmeier has begun a five-day visit to China to review bilateral relations and economic challenges.",
+        "published_at": "2026-10-26T16:48:12+00:00",
+        "lead_bn": "লেবার পার্টির রাজনীতিক অ্যান্ডি বার্নহাম জানিয়েছেন, ইউরোপীয় ইউনিয়নের একক বাজারে পুনরায় যোগদানের আগে যুক্তরাজ্যে গণভোট অনুষ্ঠিত হওয়া আবশ্যক।",
+        "lead_en": "Labour politician Andy Burnham stated that a referendum is necessary before the UK can rejoin the EU single market.",
         "bullets_bn": [
-          "চীন ও ইউরোপের মধ্যকার পরিবর্তনশীল কূটনৈতিক সম্পর্ক এবং দ্বিপক্ষীয় চ্যালেঞ্জ নিয়ে আলোচনা করবেন জার্মান প্রেসিডেন্ট।",
-          "সফরের অংশ হিসেবে হেফে শহরে একটি ভক্সওয়াগন প্ল্যান্ট পরিদর্শন করার কথা রয়েছে জার্মান রাষ্ট্রপ্রধানের।",
-          "চীন থেকে প্লাগ-ইন হাইব্রিড গাড়ির আমদানি কমাতে ইউরোপীয় নেতাদের সাম্প্রতিক ঐক্যমতের পর এই সফর অনুষ্ঠিত হচ্ছে।"
+          "কনভেন্স অব কমন্সে এক প্রশ্নের জবাবে অ্যান্ডি বার্নহাম নিশ্চিত করেছেন যে যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নের একক বাজারে প্রবেশ করতে হলে গণভোটের প্রয়োজন হবে।",
+          "নির্বাচনী ইশতেহারের প্রতিশ্রুতির ওপর ভিত্তি করে একক সরকার একা এই সিদ্ধান্ত নিতে পারবে না বলে তিনি মন্তব্য করেছেন।",
+          "যুক্তরাজ্যের একক বাজারে প্রবেশ করতে হলে দেশটির ইইউর অবাধ চলাচল নীতি গ্রহণ করতে হবে যার মাধ্যমে কর্মসংস্থানের জন্য ইইউ নাগরিকরা যুক্তরাজ্যে আসার সুযোগ পাবেন।"
         ],
         "bullets_en": [
-          "The German president will discuss shifting diplomatic relations and bilateral challenges between China and Europe.",
-          "The itinerary includes a visit to a Volkswagen plant in the city of Hefei as part of the trip.",
-          "The visit takes place following recent European agreements to scale back plug-in hybrid vehicle imports from China."
+          "Andy Burnham confirmed in the Commons that a referendum would be needed for the UK to rejoin the EU single market.",
+          "He stated that a government could not execute this solely based on a general election manifesto pledge.",
+          "Rejoining the single market would require the UK to accept EU freedom of movement rules allowing citizens to work."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আট বছর পর চীনে এটিই জার্মান প্রেসিডেন্টের প্রথম সফর। জার্মানি ও ইউরোপীয় ইউনিয়ন বর্তমানে কাঁচামাল এবং প্রযুক্তির জন্য চীনের ওপর নির্ভরতা কমানোর পাশাপাশি বিকল্প অংশীদার খুঁজছে। বাণিজ্য ও কূটনীতির ক্ষেত্রে দীর্ঘদিনের কৌশল পরিবর্তন করে ইউরোপ এখন বেইজিংয়ের সাথে সম্পর্কের ক্ষেত্রে আরও কঠোর অবস্থান গ্রহণ করছে।",
-        "details_en": "This marks the first trip by a German president to China in eight years. Germany and the European Union are increasingly seeking alternative partnerships to reduce reliance on China for raw materials and technologies. Shifting away from past trade policies, Europe is now adopting a tougher stance in its diplomatic and economic engagement with Beijing."
+        "impact_bn": "এই সিদ্ধান্তের ফলে যুক্তরাজ্যের অভিবাসন নীতি এবং ইউরোপের সাথে বাণিজ্যের গতিপ্রকৃতি সরাসরি প্রভাবিত হবে যা সাধারণ নাগরিকদের জীবনযাত্রায় প্রভাব ফেলবে।",
+        "impact_en": "This stance directly impacts immigration policies and future trade relations with Europe, affecting ordinary citizens.",
+        "details_bn": "লেবার পার্টির সম্মেলনের সময় অ্যান্ডি বার্নহামের মন্তব্য নিয়ে কিছুটা বিভ্রান্তি তৈরি হয়েছিল যে ইইউ একক বাজারে ফিরতে গণভোট লাগবে কি না। পরবর্তীতে তিনি পার্লামেন্টে বিষয়টি স্পষ্ট করে জানান যে কেবল ইশতেহারের মাধ্যমে এই সিদ্ধান্ত নেওয়া সম্ভব নয়। একক বাজারে পুনরায় যুক্ত হওয়ার প্রক্রিয়াটি ইউরোপীয় ইউনিয়নের অবাধ চলাচল নীতি মেনে চলার সাথে ওতপ্রোতভাবে জড়িত।",
+        "details_en": "Andy Burnham initially caused confusion during the Labour conference regarding whether a referendum would be needed to rejoin the EU single market. He later clarified in the Commons that a government could not enact such a major shift solely through an election manifesto. Rejoining the single market inherently requires accepting EU freedom of movement rules."
       }
     }
   ]
