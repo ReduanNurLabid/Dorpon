@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-10-26T17:00:50.961763",
+  "updated_at": "2026-10-26T18:00:50.058327",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "4091eadd-83ca-5350-8d34-954dc6b95acd",
+      "story_id": "3ed8d885-4d36-5bbc-b50f-5f9ae34a116f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
@@ -15,50 +16,163 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T16:56:23+00:00",
+      "published_at": "2026-10-26T16:57:17+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 3.4755,
+      "importance_score": 7.2,
+      "rank_score": 1.6795,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976940/%E0%A6%A8%E0%A6%BF%E0%A6%AA%E0%A7%8D%E0%A6%AA%E0%A6%A8-%E0%A6%AB%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%88%E0%A6%B6%E0%A6%AD%E0%A7%8B%E0%A6%9C%E0%A7%87-%E0%A6%85%E0%A6%82%E0%A6%B6-%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80",
-          "title": "নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী তারেক রহমান",
-          "snippet": "নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী তারেক রহমান"
+          "url": "https://www.banglatribune.com/national/976936/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A7%80%E0%A6%B0%E0%A7%8D%E0%A6%B7-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95",
+          "title": "বাংলাদেশ-জাপান শীর্ষ বৈঠকে বসছেন তারেক রহমান-সানায়ে তাকাইচি",
+          "snippet": "বাংলাদেশ-জাপান শীর্ষ বৈঠকে বসছেন তারেক রহমান-সানায়ে তাকাইচি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান সফরে নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নিলেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Attends Nippon Foundation Dinner During Japan Visit",
-        "summary_bn": "জাপান সফরের প্রথম দিনে নিপ্পন ফাউন্ডেশনের চেয়ারম্যানের আমন্ত্রণে আয়োজিত বিশেষ নৈশভোজে অংশ নেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman attended a special dinner hosted by the Nippon Foundation chairman on his first day in Japan.",
+        "title_bn": "দ্বিপক্ষীয় সম্পর্ক ও বাণিজ্য বাড়াতে বৈঠকে বসছেন বাংলাদেশ ও জাপানের প্রধানমন্ত্রী",
+        "title_en": "Bangladesh and Japan Prime Ministers to Hold Bilateral Trade and Relations Talks",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি দ্বিপক্ষীয় সম্পর্ক ও ব্যবসা-বাণিজ্য জোরদার করতে শীর্ষ বৈঠকে নেতৃত্ব দেবেন।",
+        "summary_en": "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead a bilateral summit to strengthen trade and relations.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:56:23+00:00",
-        "lead_bn": "জাপান সফরের প্রথম দিনে নিপ্পন ফাউন্ডেশনের চেয়ারম্যানের আমন্ত্রণে আয়োজিত বিশেষ নৈশভোজে অংশ নেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman attended a special dinner hosted by the Nippon Foundation chairman on his first day in Japan.",
+        "published_at": "2026-10-26T16:57:17+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি দ্বিপক্ষীয় সম্পর্ক ও ব্যবসা-বাণিজ্য জোরদার করতে শীর্ষ বৈঠকে নেতৃত্ব দেবেন।",
+        "lead_en": "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead a bilateral summit to strengthen trade and relations.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপান সফরে নিপ্পন ফাউন্ডেশনের নৈশভোজে অংশ নেন।",
-          "টোকিওর মেইজি কিনেনকানের হানাগাসুমি রেস্তোরাঁয় এই নৈশভোজের আয়োজন করা হয়।",
-          "প্রধানমন্ত্রীর উপপ্রেস সচিব শাহাদাৎ হোসেন গণমাধ্যমকে এই তথ্য নিশ্চিত করেছেন।"
+          "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি।",
+          "টোকিওতে জাপানের প্রধানমন্ত্রীর কার্যালয় কান্তেইতে এই উচ্চপর্যায়ের বৈঠকটি অনুষ্ঠিত হওয়ার কথা রয়েছে।",
+          "বৈঠকে দুই দেশের মধ্যে অর্থনৈতিক সহযোগিতা বৃদ্ধি এবং দ্বিপক্ষীয় সম্পর্ক আরও জোরদার করার বিষয়ে আলোচনা হবে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman attended the Nippon Foundation dinner during his official Japan visit.",
-          "The dinner was hosted at the Hanagasumi restaurant in Meiji Kinenkan, Tokyo.",
-          "Deputy Press Secretary Shahadat Hossain officially confirmed the event to the media."
+          "Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi will lead the bilateral summit.",
+          "The high-level meeting is scheduled to take place at the Prime Minister Office Kantei in Tokyo.",
+          "Discussions will focus on expanding economic cooperation and further strengthening bilateral relations between the two nations."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমান দ্বিপক্ষীয় সম্পর্ক জোরদার এবং বিভিন্ন আন্তর্জাতিক সংস্থার সাথে সহযোগিতা বাড়াতে সরকারি সফরে জাপান অবস্থান করছেন। সফরের প্রথম দিনেই তিনি নিপ্পন ফাউন্ডেশন ও সাসাকাওয়া পিস ফাউন্ডেশনের অনারারি চেয়ারম্যান ইয়োহেই সাসাকাওয়ার আমন্ত্রণে নৈশভোজে যোগ দেন। এ সময় তার সাথে তার সহধর্মিণী ডা. জুবাইদা রহমানও উপস্থিত ছিলেন।",
-        "details_en": "Prime Minister Tarique Rahman is currently on an official visit to Japan aimed at strengthening bilateral relations and expanding cooperation with international organizations. On the first day of his tour, he attended a dinner hosted by Yohei Sasakawa, honorary chairman of the Nippon Foundation and Sasakawa Peace Foundation, accompanied by his spouse Dr. Zubaida Rahman."
+        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধি পেলে দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানের সুযোগ সৃষ্টি হতে পারে।",
+        "impact_en": "Increased trade and investment resulting from this meeting could create new economic growth and employment opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুভাবাপন্ন কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন সহযোগী এবং বৈদেশিক বিনিয়োগকারী দেশ। এই শীর্ষ বৈঠকের মাধ্যমে দুই দেশের মধ্যকার বিদ্যমান বাণিজ্যিক ও কৌশলগত অংশীদারিত্ব আরও সুদৃঢ় হবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic partnership, with Tokyo acting as a major development partner and foreign investor. This summit is expected to further solidify commercial and strategic cooperation between the two nations."
       }
     },
     {
-      "story_id": "e5152090-897f-528a-9c4e-a551f4f5758e",
+      "story_id": "d40045fe-8e69-576e-ac67-50c705a2dde0",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T16:57:25+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.541,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172328",
+          "title": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি",
+          "snippet": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ডেঙ্গু নিয়ন্ত্রণে হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে চিঠি",
+        "title_en": "Letter Sent to Implement High Court Ruling on Dengue Control",
+        "summary_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যু বেড়ে যাওয়ায় জনস্বাস্থ্য সুরক্ষায় হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে প্রধানমন্ত্রীর মুখ্য সচিবকে চিঠি দেওয়া হয়েছে।",
+        "summary_en": "A letter has been sent to the Principal Secretary to the Prime Minister urging effective implementation of a High Court ruling to control dengue.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T16:57:25+00:00",
+        "lead_bn": "দেশে ডেঙ্গুর সংক্রমণ ও মৃত্যু বেড়ে যাওয়ায় জনস্বাস্থ্য সুরক্ষায় হাইকোর্টের রায় বাস্তবায়নের অনুরোধ জানিয়ে প্রধানমন্ত্রীর মুখ্য সচিবকে চিঠি দেওয়া হয়েছে।",
+        "lead_en": "A letter has been sent to the Principal Secretary to the Prime Minister urging effective implementation of a High Court ruling to control dengue.",
+        "bullets_bn": [
+          "ডেঙ্গু সংক্রমণ ও মৃত্যু রোধে হাইকোর্টের পূর্বের রায় বাস্তবায়নের কার্যকর পদক্ষেপ নেওয়ার অনুরোধ জানানো হয়েছে।",
+          "চিঠিতে জনস্বাস্থ্য সুরক্ষা এবং জনস্বার্থ নিশ্চিত করার ওপর সর্বোচ্চ জোর দেওয়া হয়েছে।",
+          "চিঠির প্রেক্ষিতে সংশ্লিষ্ট সরকারি বিভাগগুলো থেকে দ্রুত পদক্ষেপ গ্রহণের প্রত্যাশা করা হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Urgent actions have been requested to execute the previous High Court ruling aimed at curbing dengue infections and deaths.",
+          "The communication places utmost emphasis on ensuring public health protection and safeguarding public interest.",
+          "Relevant government departments are expected to take swift countermeasures following this official directive."
+        ],
+        "impact_bn": "কার্যকর পদক্ষেপ বাস্তবায়িত হলে সাধারণ মানুষ ডেঙ্গুর মারাত্মক ঝুঁকি থেকে সুরক্ষা পাবে।",
+        "impact_en": "Effective execution of these measures will protect ordinary citizens from severe health risks posed by dengue outbreaks.",
+        "details_bn": "দেশে প্রতি বছর বর্ষা মৌসুমে ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করে, যা জনজীবনকে বিপর্যস্ত করে তোলে। এর আগে জনস্বাস্থ্য রক্ষা ও মশানিধনে কার্যকর পদক্ষেপ চেয়ে হাইকোর্টে রিট দায়ের করা হয়েছিল, যার প্রেক্ষিতে আদালত সুনির্দিষ্ট নির্দেশনা দিয়ে রায় প্রদান করেন। বর্তমান পরিস্থিতিতে সেই রায় পুরোপুরি বাস্তবায়নের দাবি জোরালো হচ্ছে।",
+        "details_en": "Dengue outbreaks regularly escalate during monsoon seasons in the country, severely disrupting public life. Previously, writ petitions were filed seeking effective measures for mosquito eradication and public health protection, prompting the court to issue specific directives. Demands for the full implementation of that ruling have intensified amid rising infections."
+      }
+    },
+    {
+      "story_id": "de7e1919-9d60-5808-bb1b-25a0b8c14bff",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/JPEG-14.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-26T17:22:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3525,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/iranian-president-and-emir-of-qatar-to-hold-meetings-with-putin-in-moscow/",
+          "title": "পুতিনের সঙ্গে বৈঠকে বসবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির",
+          "snippet": "পুতিনের সঙ্গে বৈঠকে বসবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাশিয়ার প্রেসিডেন্টের সাথে বৈঠকে বসছেন ইরান ও কাতারের শীর্ষ নেতারা",
+        "title_en": "Russian President to Hold Bilateral Talks with Iran and Qatar Leaders",
+        "summary_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় দ্বিপক্ষীয় বৈঠকে অংশ নেবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির।",
+        "summary_en": "The Iranian President and the Emir of Qatar will hold bilateral talks with Russian President Vladimir Putin in Moscow.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T17:22:09+00:00",
+        "lead_bn": "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় দ্বিপক্ষীয় বৈঠকে অংশ নেবেন ইরানের প্রেসিডেন্ট ও কাতারের আমির।",
+        "lead_en": "The Iranian President and the Emir of Qatar will hold bilateral talks with Russian President Vladimir Putin in Moscow.",
+        "bullets_bn": [
+          "রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে মস্কোয় পৃথক দ্বিপক্ষীয় বৈঠকে বসছেন ইরানের প্রেসিডেন্ট মাসুদ পেজেশকিয়ান ও কাতারের আমির শেখ তামিম বিন হামাদ আল থানি।",
+          "ক্রেমলিনের উপদেষ্টা ইউরি উশাকভ এই উচ্চপর্যায়ের বৈঠকের বিষয়টি নিশ্চিত করেছেন, যেখানে গ্যাস রফতানিকারক দেশগুলোর ফোরামের শীর্ষ সম্মেলন অনুষ্ঠিত হচ্ছে।",
+          "বৈঠকগুলোতে দ্বিপাক্ষিক সহযোগিতা বৃদ্ধির পাশাপাশি বর্তমান মধ্যপ্রাচ্য পরিস্থিতি, বৈশ্বিক নিরাপত্তা ইস্যু ও আঞ্চলিক শান্তি নিয়ে আলোচনা হবে।"
+        ],
+        "bullets_en": [
+          "Iranian President Masoud Pezeshkian and Qatari Emir Sheikh Tamim bin Hamad Al Thani are holding separate bilateral talks with Russian President Vladimir Putin in Moscow.",
+          "Kremlin aide Yuri Ushakov confirmed the high-level meetings, which coincide with the Gas Exporting Countries Forum summit.",
+          "The discussions will focus on enhancing bilateral cooperation, addressing current Middle East tensions, and ensuring regional security."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যে যুক্তরাষ্ট্র ও ইসরায়েলের সাথে ইরানের চলমান সংঘাত তীব্র আকার ধারণ করার প্রেক্ষাপটে এই কূটনৈতিক বৈঠকটি অত্যন্ত তাৎপর্যপূর্ণ। মস্কোয় গ্যাস রফতানিকারক দেশগুলোর ফোরামের শীর্ষ সম্মেলনের ফাঁকে অনুষ্ঠিত এই আলোচনা রাশিয়া, ইরান ও কাতারের মধ্যকার সামরিক, অর্থনৈতিক ও জ্বালানি খাতের সম্পর্ক আরও জোরদার করতে এবং আঞ্চলিক যুদ্ধ পরিস্থিতি প্রশমনে বড় ভূমিকা রাখতে পারে বলে মনে করছেন বিশ্লেষকরা।",
+        "details_en": "This diplomatic meeting holds immense significance amid escalating tensions between Iran, the US, and Israel in the Middle East. Held on the sidelines of the Gas Exporting Countries Forum summit in Moscow, the talks are expected to strengthen military, economic, and energy ties between Russia, Iran, and Qatar while potentially helping to defuse regional conflicts."
+      }
+    },
+    {
+      "story_id": "c8a8afdd-284b-5b4b-9933-de66c4becc04",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,287 +184,167 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T16:57:23+00:00",
+      "published_at": "2026-10-26T17:59:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8731,
+      "importance_score": 2.4,
+      "rank_score": 0.9528,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/other-politics/976939/%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%A8%E0%A7%87-%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE",
-          "title": "পল্টনে সিপিবি কার্যালয়ে হামলা",
-          "snippet": "পল্টনে সিপিবি কার্যালয়ে হামলা"
+          "url": "https://www.banglatribune.com/law-and-crime/976945/%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E2%80%99-%E0%A6%8F%E0%A6%95%E0%A6%B6%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%B2%E0%A7%8B-%E0%A6%97%E0%A7%81%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A7%82%E0%A6%A4",
+          "title": "‘ক্রসফায়ার’: একশব্দেই ফিরে এলো গুম-বিচারবহির্ভূত হত্যার ভয়ংকর স্মৃতি",
+          "snippet": "‘ক্রসফায়ার’: একশব্দেই ফিরে এলো গুম-বিচারবহির্ভূত হত্যার ভয়ংকর স্মৃতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পল্টনে সিপিবি কার্যালয়ে যুবকদের হামলা ও রাজনৈতিক উত্তেজনা সৃষ্টি",
-        "title_en": "Youths Attack CPB Office in Paltan Triggering Political Tensions",
-        "summary_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় মুক্তিভবনে একদল যুবক হামলা চালিয়েছে।",
-        "summary_en": "A group of youths carried out an attack on the central office of the Communist Party of Bangladesh in Paltan.",
+        "title_bn": "আইজিপির ক্রসফায়ার মন্তব্য নিয়ে দেশজুড়ে তীব্র সমালোচনা ও বিতর্কের সৃষ্টি",
+        "title_en": "IGP Crossfire Remark Sparks Intense Controversy and Criticism Nationwide",
+        "summary_bn": "আইজিপির ক্রসফায়ার সংক্রান্ত মন্তব্য বিচারবহির্ভূত হত্যা ও গুমের অন্ধকার অতীত এবং রাষ্ট্রীয় সহিংসতার ভীতি পুনরায় সামনে নিয়ে এসেছে।",
+        "summary_en": "The IGP's remark regarding crossfire has reignited fears of state violence and the dark legacy of extrajudicial killings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:57:23+00:00",
-        "lead_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় মুক্তিভবনে একদল যুবক হামলা চালিয়েছে।",
-        "lead_en": "A group of youths carried out an attack on the central office of the Communist Party of Bangladesh in Paltan.",
+        "published_at": "2026-10-26T17:59:00+00:00",
+        "lead_bn": "আইজিপির ক্রসফায়ার সংক্রান্ত মন্তব্য বিচারবহির্ভূত হত্যা ও গুমের অন্ধকার অতীত এবং রাষ্ট্রীয় সহিংসতার ভীতি পুনরায় সামনে নিয়ে এসেছে।",
+        "lead_en": "The IGP's remark regarding crossfire has reignited fears of state violence and the dark legacy of extrajudicial killings.",
         "bullets_bn": [
-          "পল্টনে অবস্থিত সিপিবি কার্যালয় মুক্তিভবনে একদল যুবক অতর্কিত হামলা চালায়।",
-          "সিপিবি এই হামলার জন্য বিএনপি ও জামায়াতের নেতাকর্মীদের সরাসরি দায়ী করেছে।",
-          "অপ্রীতিকর পরিস্থিতি এড়াতে এবং এলাকায় আইনশৃঙ্খলা বজায় রাখতে পুলিশ সতর্ক অবস্থানে রয়েছে।"
+          "পুলিশের মহাপরিদর্শক সরকারের অনুমোদন সাপেক্ষে প্রয়োজনে ক্রসফায়ার চালুর মন্তব্য করেন।",
+          "এই বক্তব্য প্রকাশের পরপরই মানবাধিকারকর্মী ও বিভিন্ন মহлаলে তীব্র সমালোচনার ঝড় ওঠে।",
+          "মন্তব্যটি দেশের আইনশৃঙ্খলা বাহিনীর বিতর্কিত অতীত ও বিচারবহির্ভূত হত্যার স্মৃতি ফিরিয়ে এনেছে।"
         ],
         "bullets_en": [
-          "A group of youths launched a sudden attack on the Mukti Bhaban CPB office in Paltan.",
-          "The CPB directly blamed BNP and Jamaat activists for orchestrating the attack.",
-          "Law enforcement agencies took positions to prevent further clashes and maintain local security."
+          "The Inspector General of Police stated that crossfire could be utilized if authorized by the government.",
+          "The statement immediately triggered severe backlash and criticism from human rights activists and various groups.",
+          "The remark has revived memories of controversial extrajudicial killings and past abuses by law enforcement."
         ],
-        "impact_bn": "এই রাজনৈতিক সংঘাতে সাধারণ নাগরিকদের চলাচলে আতঙ্ক সৃষ্টি হয়েছে এবং জননিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
-        "impact_en": "The political clash has sparked public safety concerns and created panic among commuters in the area.",
-        "details_bn": "রাজধানীর পল্টন এলাকায় বিভিন্ন রাজনৈতিক দলের কর্মসূচি ও উপস্থিতিকে কেন্দ্র করে প্রায়ই উত্তেজনার সৃষ্টি হয়। এর আগেও রাজনৈতিক সহিংসতার জেরে বিভিন্ন রাজনৈতিক দলের কার্যালয় ও এর আশপাশে সংঘাতের ঘটনা ঘটেছে। সাম্প্রতিক এই হামলার পর এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে এবং রাজনৈতিক অঙ্গনে নতুন করে উত্তেজনা ছড়িয়ে পড়েছে।",
-        "details_en": "The Paltan area in Dhaka has frequently experienced political tensions due to rival party activities and office locations. Past political violence has often targeted party offices and surrounding areas, raising concerns among residents. Following this latest attack, extra police forces were deployed to the scene while political friction intensified across the capital."
-      }
-    },
-    {
-      "story_id": "f1ec6e13-23bb-5538-b94b-a905192b1295",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T16:45:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6565,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/ppwk0c7s4u",
-          "title": "রেস্তোরাঁয় গোপনে তরুণ-তরুণীর ছবি তুলে ছড়ানোর অভিযোগে দুজন গ্রেপ্তার",
-          "snippet": "রেস্তোরাঁয় গোপনে তরুণ-তরুণীর ছবি তুলে ছড়ানোর অভিযোগে দুজন গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিলেটে রেস্তোরাঁয় তরুণ-তরুণীর গোপনে ছবি তোলার অভিযোগে দুই কর্মচারী গ্রেপ্তার",
-        "title_en": "Two Restaurant Staff Arrested in Sylhet for Secretly Photomapping Young Couple",
-        "summary_bn": "সিলেটে একটি রেস্তোরাঁয় আসা তরুণ ও তাঁর বান্ধবীর গোপনে ছবি তুলে অনলাইনে ছড়িয়ে অপপ্রচারের অভিযোগে দুই কর্মচারীকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested two restaurant staff in Sylhet for secretly photographing a young couple and spreading the images online.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:45:07+00:00",
-        "lead_bn": "সিলেটে একটি রেস্তোরাঁয় আসা তরুণ ও তাঁর বান্ধবীর গোপনে ছবি তুলে অনলাইনে ছড়িয়ে অপপ্রচারের অভিযোগে দুই কর্মচারীকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested two restaurant staff in Sylhet for secretly photographing a young couple and spreading the images online.",
-        "bullets_bn": [
-          "সিলেট মহানগর গোয়েন্দা পুলিশ ও কোতোয়ালি থানা যৌথ অভিযান চালিয়ে দুই রেস্তোরাঁ কর্মচারীকে গ্রেপ্তার করেছে।",
-          "গ্রেপ্তার ব্যক্তিরা হলেন আহবাবুজ্জামান আনোয়ার ও মো. সামছুল আমীন, যাঁরা ওই রেস্তোরাঁয় চাকরি করতেন।",
-          "ভুক্তভোগী তরুণের করা মামলার পর অভিযুক্তদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Sylhet Metropolitan Intelligence Police and Kotwali police jointly arrested two restaurant employees.",
-          "The arrested individuals are Ahbabuzzaman Anwar and Md. Shamsul Amin, who worked at the restaurant.",
-          "The accused were sent to jail through the court following a formal case filed by the victim."
-        ],
-        "impact_bn": "এই ঘটনা সাধারণ নাগরিক ও তরুণদের ডিজিটাল নিরাপত্তা এবং ব্যক্তিগত গোপনীয়তা সুরক্ষার গুরুত্ব তুলে ধরে।",
-        "impact_en": "This incident highlights the critical importance of digital security and personal privacy for ordinary citizens.",
-        "details_bn": "সিলেট নগরের জিন্দাবাজার এলাকার একটি রেস্তোরাঁয় এক তরুণ ও তাঁর বান্ধবী খেতে গেলে কর্মচারীরা গোপনে ছবি তোলেন। পরবর্তীতে সেই ছবি সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে দিয়ে হেনস্তা ও অপপ্রচার চালানো হয়। সিসিটিভি ফুটেজ পর্যালোচনা করে পুলিশ অভিযুক্তদের শনাক্ত করে এবং ভুক্তভোগীর করা মামলার ভিত্তিতে তাঁদের গ্রেপ্তার করে আদালতের মাধ্যমে কারাগারে পাঠায়। পুলিশ ঘটনার সঙ্গে অন্য কেউ জড়িত আছে কি না, তা খতিয়ে দেখছে।",
-        "details_en": "A young couple visiting a restaurant in Sylhet's Zindabazar area was secretly photographed by staff members. The images were subsequently circulated on social media to harass and defame them. Police identified the suspects through CCTV footage and arrested them following a case filed by the victim, sending them to jail via court proceedings while investigating potential accomplices."
-      }
-    },
-    {
-      "story_id": "0b7cd307-fc33-53b1-9ce6-c4c9b361f9c9",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T16:33:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4869,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172325",
-          "title": "ইরানের নেতাদের সঙ্গে পাকিস্তানের সেনাপ্রধানের বৈঠক",
-          "snippet": "ইরানের নেতাদের সঙ্গে পাকিস্তানের সেনাপ্রধানের বৈঠক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানের শীর্ষ নেতৃত্বের সাথে পাকিস্তানের সেনাপ্রধানের দ্বিপক্ষীয় বৈঠক",
-        "title_en": "Pakistani Army Chief Holds Bilateral Talks with Iranian Leadership",
-        "summary_bn": "পাকিস্তানের সেনাপ্রধান ফিল্ড মার্শাল আসিম মুনির আঞ্চলিক নিরাপত্তা ও দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
-        "summary_en": "Pakistani Army Chief Field Marshal Asim Munir held discussions with top Iranian military officials to strengthen regional security and bilateral ties.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:33:20+00:00",
-        "lead_bn": "পাকিস্তানের সেনাপ্রধান ফিল্ড মার্শাল আসিম মুনির আঞ্চলিক নিরাপত্তা ও দ্বিপক্ষীয় সম্পর্ক জোরদার করতে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
-        "lead_en": "Pakistani Army Chief Field Marshal Asim Munir held discussions with top Iranian military officials to strengthen regional security and bilateral ties.",
-        "bullets_bn": [
-          "পাকিস্তানের সেনাপ্রধান আসিম মুনির তেহরানে ইরানের শীর্ষ সামরিক কর্মকর্তাদের সাথে বৈঠক করেছেন।",
-          "বৈঠকে সৌদি আরবের প্রতিরক্ষামন্ত্রী প্রিন্স খালিদ বিন সালমান ও তুরস্কের গোয়েন্দাপ্রধান ইব্রাহিম কালিনও অংশ নেন।",
-          "এই উচ্চপর্যায়ের বৈঠকের মাধ্যমে মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তা সহযোগিতা আরও বৃদ্ধির উদ্যোগ নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Pakistani Army Chief Asim Munir met with top Iranian military officials in Tehran.",
-          "Saudi Defense Minister Prince Khalid bin Salman and Turkish Intelligence Chief Ibrahim Kalin also joined the discussions.",
-          "This high-level engagement aims to enhance regional security cooperation across the region."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্য ও দক্ষিণ এশিয়ার ভূরাজনৈতিক প্রেক্ষাপটে আঞ্চলিক নিরাপত্তা জোরদার এবং কূটনৈতিক দূরত্ব কমাতে বিভিন্ন দেশের সামরিক ও গোয়েন্দা প্রধানদের এই ধরনের উচ্চপর্যায়ের বৈঠক অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে।",
-        "details_en": "Such high-level engagements involving military and intelligence chiefs of key regional nations play a vital role in addressing geopolitical challenges, enhancing regional security, and bridging diplomatic gaps in the Middle East and South Asia."
-      }
-    },
-    {
-      "story_id": "e383a02e-43da-51d6-9cb7-a0f7a193a694",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Anthropic",
-        "#ArtificialIntelligence",
-        "#StockMarket",
-        "#TechNews"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-26T16:27:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.6233,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-          "snippet": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
-          "title": "Artificial Intelligence giant Anthropic files for Initial Public Offering",
-          "snippet": "Artificial Intelligence giant Anthropic files for Initial Public Offering"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন শেয়ার বাজারে তালিকাভুক্তির আগে অস্তিত্বের ঝুঁকির বিষয়ে অ্যানথ্রপিকের সতর্কবার্তা",
-        "title_en": "Anthropic Warns of Existential Risks Ahead of US Stock Market Listing",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্রের শেয়ার বাজারে তালিকাভুক্তির প্রস্তুতি নেওয়ার সময় মানবজাতির জন্য চরম ঝুঁকির আশঙ্কা প্রকাশ করেছে।",
-        "summary_en": "Artificial intelligence firm Anthropic has warned of catastrophic risks to humanity while unveiling details for its upcoming US stock market listing.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:27:17+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক যুক্তরাষ্ট্রের শেয়ার বাজারে তালিকাভুক্তির প্রস্তুতি নেওয়ার সময় মানবজাতির জন্য চরম ঝুঁকির আশঙ্কা প্রকাশ করেছে।",
-        "lead_en": "Artificial intelligence firm Anthropic has warned of catastrophic risks to humanity while unveiling details for its upcoming US stock market listing.",
-        "bullets_bn": [
-          "অ্যানথ্রপিক আনুষ্ঠানিকভাবে যুক্তরাষ্ট্রভিত্তিক নাসডাক এক্সচেঞ্জে এএনটি প্রতীকে শেয়ার বাজারে তালিকাভুক্ত হওয়ার পরিকল্পনা প্রকাশ করেছে।",
-          "প্রতিষ্ঠানটি চলতি বছরের প্রথমার্ধে ১ হাজার ৬৩০ কোটি ডলার রাজস্ব অর্জনের পাশাপাশি ৮ হাজার কোটি ডলারের বেশি লোকসানের কথা জানিয়েছে।",
-          "উন্নত কৃত্রিম বুদ্ধিমত্তা সিস্টেমগুলো যথাযথ নিরাপত্তা ও তদারকি ছাড়া পরিচালিত হলে মানবজাতির জন্য অস্তিত্বের সংকট তৈরি করতে পারে।"
-        ],
-        "bullets_en": [
-          "Anthropic unveiled plans to list on the US Nasdaq exchange under the ticker symbol ANT as the first pure-play AI firm.",
-          "The Claude chatbot developer reported 16.3 billion dollars in revenue and over 80.7 billion dollars in losses for the first half of the year.",
-          "Advanced AI systems could pose catastrophic risks to humanity if they are misused, weaponized, or operated without proper security safeguards."
-        ],
-        "impact_bn": "প্রযুক্তির বিকাশ ও সুরক্ষার মানদণ্ড নির্ধারিত হওয়ায় এই তালিকাভুক্তি বৈশ্বিক ব্যবহারকারী ও ভবিষ্যৎ কৃত্রিম বুদ্ধিমত্তা খাতের নিরাপত্তায় বড় প্রভাব ফেলবে।",
-        "impact_en": "As a major test case for public AI companies, safety measures implemented by Anthropic will directly influence global technology standards and user trust.",
-        "details_bn": "পাঁচ বছর আগে দারিয়ো আমোদি ও ড্যানিয়েলা আমোদি সহ সাতজনের প্রতিষ্ঠিত কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক মূলত ক্লড চ্যাটবট তৈরির জন্য পরিচিত। চলতি বছরের জুনে প্রতিষ্ঠানটি জনসমক্ষে শেয়ার বাজারে যাওয়ার ঘোষণা দেয়। এর সম্ভাব্য বাজার মূল্যায়ন স্পেসএক্সের মূল্যকে ছাড়িয়ে যেতে পারে বলে ধারণা করা হচ্ছে, যা একে বিশ্বের অন্যতম আলোচিত প্রযুক্তি প্রতিষ্ঠানে পরিণত করেছে।",
-        "details_en": "Founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei, and five others, Anthropic is the developer behind the Claude chatbot. The company announced its intention to go public in June, with a valuation expected to exceed SpaceX. As the first fully AI-focused company to list publicly, it serves as a critical test case for investor sentiment and regulatory oversight in the artificial intelligence sector."
+        "impact_bn": "এই ধরনের মন্তব্য সাধারণ মানুষের মধ্যে রাষ্ট্রীয় নিরাপত্তা ও আইনের শাসন নিয়ে নতুন শঙ্কা তৈরি করেছে।",
+        "impact_en": "Such remarks create renewed apprehension among ordinary citizens regarding state security and the rule of law.",
+        "details_bn": "বাংলাদেশে আইনশৃঙ্খলা বাহিনীর হাতে বিচারবহির্ভূত হত্যা ও গুমের অভিযোগ দীর্ঘদিনের। অতীতে বন্দুকযুদ্ধ বা ক্রসফায়ার হিসেবে পরিচিত এসব ঘটনার বৈধতা নিয়ে দেশ ও আন্তর্জাতিক অঙ্গনে তীব্র সমালোচনা হয়েছে। বর্তমান সময়ে আইনশৃঙ্খলা পরিস্থিতির অবনতির প্রেক্ষাপটে পুলিশের শীর্ষ কর্মকর্তার এই মন্তব্য নতুন করে মানবাধিকার ও আইনি প্রক্রিয়ার সুরক্ষা নিয়ে বিতর্ক উসকে দিয়েছে।",
+        "details_en": "Allegations of extrajudicial killings and enforced disappearances by law enforcement agencies have a long history in Bangladesh. Previously, incidents labeled as shootouts or crossfires drew intense domestic and international criticism. Amid ongoing security concerns, this comment by a top police official has reignited debates regarding human rights and legal protections."
       }
     },
     {
       "story_id": "ebb8490e-1ff7-5271-9dd9-f2123024d8c1",
-      "primary_category": "world_diplomacy",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business",
+        "world_diplomacy",
         "governance_law",
         "climate_environment",
         "society_education"
       ],
       "region": "international",
       "tags": [
-        "#UKPolitics",
-        "#EUSingleMarket",
-        "#AndyBurnham"
+        "#Capita",
+        "#CivilService",
+        "#Pensions"
       ],
       "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
       "image_caption": null,
-      "published_at": "2026-10-26T16:48:12+00:00",
+      "published_at": "2026-10-26T17:22:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6044,
+      "rank_score": 0.4818,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-          "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
-          "snippet": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics l"
+          "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
+          "snippet": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happene"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যের একক বাজারে ফেরা নিয়ে গণভোট প্রয়োজন বলে স্বীকার করেছেন অ্যান্ডি বার্নহাম",
-        "title_en": "Andy Burnham confirms UK referendum needed before rejoining EU single market",
-        "summary_bn": "লেবার পার্টির রাজনীতিক অ্যান্ডি বার্নহাম জানিয়েছেন, ইউরোপীয় ইউনিয়নের একক বাজারে পুনরায় যোগদানের আগে যুক্তরাজ্যে গণভোট অনুষ্ঠিত হওয়া আবশ্যক।",
-        "summary_en": "Labour politician Andy Burnham stated that a referendum is necessary before the UK can rejoin the EU single market.",
+        "title_bn": "সিভিল সার্ভিস পেনশন স্কিম পরিচালনায় ক্যাপিটার পারফরম্যান্সকে ক্যাবিনেট মন্ত্রীর সমালোচনা",
+        "title_en": "Cabinet Minister Labels Capita Civil Service Pension Performance As Abysmal",
+        "summary_bn": "ক্যাবিনেট অফিসের এক মন্ত্রী হাজার হাজার সরকারি কর্মীর পেনশনের অর্থ প্রদানে বিলম্বের কারণে ক্যাপিটা কোম্পানির কার্যকারিতাকে অত্যন্ত নিম্নমানের বলে সমালোচনা করেছেন।",
+        "summary_en": "A Cabinet Office minister has labelled outsourcing giant Capita for failing to deliver the promised pension service to civil servants.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business",
+          "world_diplomacy",
           "governance_law",
           "climate_environment",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T16:48:12+00:00",
-        "lead_bn": "লেবার পার্টির রাজনীতিক অ্যান্ডি বার্নহাম জানিয়েছেন, ইউরোপীয় ইউনিয়নের একক বাজারে পুনরায় যোগদানের আগে যুক্তরাজ্যে গণভোট অনুষ্ঠিত হওয়া আবশ্যক।",
-        "lead_en": "Labour politician Andy Burnham stated that a referendum is necessary before the UK can rejoin the EU single market.",
+        "published_at": "2026-10-26T17:22:52+00:00",
+        "lead_bn": "ক্যাবিনেট অফিসের এক মন্ত্রী হাজার হাজার সরকারি কর্মীর পেনশনের অর্থ প্রদানে বিলম্বের কারণে ক্যাপিটা কোম্পানির কার্যকারিতাকে অত্যন্ত নিম্নমানের বলে সমালোচনা করেছেন।",
+        "lead_en": "A Cabinet Office minister has labelled outsourcing giant Capita for failing to deliver the promised pension service to civil servants.",
         "bullets_bn": [
-          "কনভেন্স অব কমন্সে এক প্রশ্নের জবাবে অ্যান্ডি বার্নহাম নিশ্চিত করেছেন যে যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নের একক বাজারে প্রবেশ করতে হলে গণভোটের প্রয়োজন হবে।",
-          "নির্বাচনী ইশতেহারের প্রতিশ্রুতির ওপর ভিত্তি করে একক সরকার একা এই সিদ্ধান্ত নিতে পারবে না বলে তিনি মন্তব্য করেছেন।",
-          "যুক্তরাজ্যের একক বাজারে প্রবেশ করতে হলে দেশটির ইইউর অবাধ চলাচল নীতি গ্রহণ করতে হবে যার মাধ্যমে কর্মসংস্থানের জন্য ইইউ নাগরিকরা যুক্তরাজ্যে আসার সুযোগ পাবেন।"
+          "ক্যাপিটা কোম্পানির সিভিল সার্ভিস পেনশন স্কিম পরিচালনার মান অত্যন্ত হতাশাজনক বলে মন্তব্য করেছেন ক্যাবিনেট অফিসের মন্ত্রী স্যালি জেমসন।",
+          "পেনশনের টাকা ও রিটায়ারমেন্ট কোটের জন্য হাজার হাজার সরকারি কর্মী দীর্ঘসময় ধরে অপেক্ষা করছেন বলে সংসদে জানানো হয়েছে।",
+          "সাংসদ ও ইউনিয়নের দাবির প্রেক্ষিতে পেনশন স্কিম পরিচালনার দায়িত্ব পুনরায় নিজেদের হাতে তুলে নেওয়ার বিষয়টি নাকচ করেননি সংশ্লিষ্ট মন্ত্রী।"
         ],
         "bullets_en": [
-          "Andy Burnham confirmed in the Commons that a referendum would be needed for the UK to rejoin the EU single market.",
-          "He stated that a government could not execute this solely based on a general election manifesto pledge.",
-          "Rejoining the single market would require the UK to accept EU freedom of movement rules allowing citizens to work."
+          "Cabinet Office minister Sally Jameson labelled outsourcing giant Capita for delivering abysmal performance in managing the civil service pension scheme.",
+          "Thousands of civil servants were left waiting for payments and retirement quotes due to unresolved complex issues persisting for over a year.",
+          "The minister refused to rule out in-sourcing the pension scheme management following strong demands from MPs and unions."
         ],
-        "impact_bn": "এই সিদ্ধান্তের ফলে যুক্তরাজ্যের অভিবাসন নীতি এবং ইউরোপের সাথে বাণিজ্যের গতিপ্রকৃতি সরাসরি প্রভাবিত হবে যা সাধারণ নাগরিকদের জীবনযাত্রায় প্রভাব ফেলবে।",
-        "impact_en": "This stance directly impacts immigration policies and future trade relations with Europe, affecting ordinary citizens.",
-        "details_bn": "লেবার পার্টির সম্মেলনের সময় অ্যান্ডি বার্নহামের মন্তব্য নিয়ে কিছুটা বিভ্রান্তি তৈরি হয়েছিল যে ইইউ একক বাজারে ফিরতে গণভোট লাগবে কি না। পরবর্তীতে তিনি পার্লামেন্টে বিষয়টি স্পষ্ট করে জানান যে কেবল ইশতেহারের মাধ্যমে এই সিদ্ধান্ত নেওয়া সম্ভব নয়। একক বাজারে পুনরায় যুক্ত হওয়ার প্রক্রিয়াটি ইউরোপীয় ইউনিয়নের অবাধ চলাচল নীতি মেনে চলার সাথে ওতপ্রোতভাবে জড়িত।",
-        "details_en": "Andy Burnham initially caused confusion during the Labour conference regarding whether a referendum would be needed to rejoin the EU single market. He later clarified in the Commons that a government could not enact such a major shift solely through an election manifesto. Rejoining the single market inherently requires accepting EU freedom of movement rules."
+        "impact_bn": "সরকারি কর্মচারীরা সময়মতো পেনশন ও অবসরকালীন সুবিধা পেতে দীর্ঘসূত্রতার মুখোমুখি হচ্ছেন।",
+        "impact_en": "Public sector employees face prolonged delays and uncertainties in receiving retirement benefits and pension payments.",
+        "details_bn": "সিভিল সার্ভিস পেনশন স্কিম পরিচালনার দায়িত্বে থাকা ক্যাপিটা কোম্পানি কৃত্রিম বুদ্ধিমত্তাভিত্তিক সেবা প্রদানের প্রতিশ্রুতি দিলেও তা বাস্তবায়নে ব্যর্থ হয়েছে। হাজার হাজার সরকারি কর্মকর্তা ও তাদের পরিবার দীর্ঘদিন ধরে পেনশনের বকেয়া ও জটিল সমস্যার সমাধান না পেয়ে চরম অনিশ্চয়তার মধ্যে দিন কাটাচ্ছেন। বিষয়টি নিয়ে সংসদ ও বিভিন্ন মহলে তীব্র অসন্তোষ প্রকাশ করা হয়েছে এবং সরকারিভাবে এর বিকল্প ব্যবস্থার চিন্তাভাবনা শুরু হয়েছে।",
+        "details_en": "Outsourcing giant Capita faced severe backlash from the Cabinet Office over its failure to deliver an AI-enabled pension service for civil servants. Thousands of members and their families were left waiting in limbo with complex cases unresolved for over a year. Officials have expressed outrage over the abysmal progress, prompting discussions on potentially bringing the pension scheme management back in-house."
+      }
+    },
+    {
+      "story_id": "e84a8bce-00c7-5dbd-8acc-325c5766990e",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#SocialSecurity",
+        "#Inflation"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T17:19:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.467,
+      "sources": [
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+          "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+          "snippet": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment."
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সামাজিক নিরাপত্তা তহবিলের ব্যয় কমাতে মূল্যস্ফীতি সমন্বয় পরিবর্তনের প্রস্তাব",
+        "title_en": "US Policy Proposals Consider Altering Social Security Cost-of-Living Adjustments",
+        "summary_bn": "মার্কিন সামাজিক নিরাপত্তা তহবিলের অর্থ টিকিয়ে রাখতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের বিভিন্ন প্রস্তাব বিবেচনা করা হচ্ছে।",
+        "summary_en": "Policymakers are considering changing the cost-of-living adjustment method to protect the long-term solvency of the social security fund.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T17:19:00+00:00",
+        "lead_bn": "মার্কিন সামাজিক নিরাপত্তা তহবিলের অর্থ টিকিয়ে রাখতে জীবনযাত্রার ব্যয় সমন্বয় পদ্ধতি পরিবর্তনের বিভিন্ন প্রস্তাব বিবেচনা করা হচ্ছে।",
+        "lead_en": "Policymakers are considering changing the cost-of-living adjustment method to protect the long-term solvency of the social security fund.",
+        "bullets_bn": [
+          "অবসরপ্রাপ্ত নাগরিকদের মূল্যস্ফীতির সুরক্ষা প্রদান প্রক্রিয়ায় পরিবর্তন আনার একাধিক প্রস্তাব বিবেচনাধীন রয়েছে।",
+          "প্রস্তাবিত পরিবর্তনগুলো বাস্তবায়িত হলে তা সরাসরি সুবিধাভোগী প্রবীণ নাগরিকদের প্রাপ্ত ভাতার পরিমাণে প্রভাব ফেলবে।",
+          "তহবিলের দীর্ঘমেয়াদি স্থায়িত্ব নিশ্চিত করতে নীতিপ্রণেতারা আগামী দিনে কাঠামোগত সংশোধনের রূপরেখা চূড়ান্ত করবেন।"
+        ],
+        "bullets_en": [
+          "Several policy proposals are under review to alter how retirees receive inflation protection for social security.",
+          "Proposed changes directly impact the financial benefits and purchasing power of millions of retired citizens.",
+          "Lawmakers are expected to review specific adjustment formulas to secure the long-term solvency of the fund."
+        ],
+        "impact_bn": "এই পরিবর্তন বাস্তবায়িত হলে প্রবীণ নাগরিক ও অবসরপ্রাপ্ত কর্মজীবীরা মূল্যস্ফীতির বিপরীতে কম আর্থিক সুরক্ষা পেতে পারেন।",
+        "impact_en": "Retirees and older citizens could face reduced inflation protection affecting their monthly living expenses.",
+        "details_bn": "মার্কিন সামাজিক নিরাপত্তা ব্যবস্থা দীর্ঘমেয়াদি আর্থিক সংকটের মুখোমুখি হওয়ায় এর তহবিল সংরক্ষণে বিভিন্ন সংস্কার প্রস্তাব উঠেছে। বিশেষ করে জীবনযাত্রার ব্যয় সমন্বয় বা কস্ট অব লিভিং অ্যাডজাস্টমেন্ট গণনার পদ্ধতি বদলানোর বিষয়টি দীর্ঘদিন ধরে বিতর্কিত ও আলোচিত হয়ে আসছে। এই ধরনের পরিবর্তন প্রবীণ নাগরিকদের জীবনযাত্রার মানে সরাসরি প্রভাব ফেলে বলে বিভিন্ন সময় তীব্র প্রতিক্রিয়ার সৃষ্টি করে।",
+        "details_en": "The social security system faces long-term structural funding shortfalls, prompting debates over benefit adjustments. Changing how inflation protection is calculated has historically been a contentious issue among lawmakers, as any alteration directly affects the financial well-being of millions of retirees relying on these fixed payments."
       }
     }
   ]
