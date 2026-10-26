@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26T08:00:51.524546",
+  "updated_at": "2026-10-26T09:00:49.683746",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "3546657a-0b00-5fd8-8a6d-46bd66cec270",
+      "story_id": "cc4f12b2-467a-569f-8c1f-1ae3486c6d3c",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -15,107 +15,109 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T07:42:17+00:00",
+      "published_at": "2026-10-26T08:57:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2178,
+      "importance_score": 4.8,
+      "rank_score": 1.8767,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/976816/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%AB%E0%A6%B0-%E0%A6%98%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%87-%E0%A6%AC%E0%A7%87%E0%A6%B9%E0%A6%BE%E0%A6%B2",
-          "title": "প্রধানমন্ত্রীর সফর ঘিরে সংস্কার, দুই দিনেই বেহাল সড়ক",
-          "snippet": "প্রধানমন্ত্রীর সফর ঘিরে সংস্কার, দুই দিনেই বেহাল সড়ক"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172111",
+          "title": "হাতকড়াসহ পালিয়ে যাওয়া সেই মাদক কারবারি আটক",
+          "snippet": "হাতকড়াসহ পালিয়ে যাওয়া সেই মাদক কারবারি আটক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রংপুর সড়ক সংস্কারে অনিয়ম ও সরকারি অর্থ অপচয়ের অভিযোগ",
-        "title_en": "Allegations of Irregularities in Rangpur Road Repair Work",
-        "summary_bn": "প্রধানমন্ত্রীর সফরকে কেন্দ্র করে তড়িঘড়ি সড়ক সংস্কারে নিম্নমানের সামগ্রী ব্যবহারের অভিযোগ তুলেছে স্থানীয়রা।",
-        "summary_en": "Locals have alleged the use of substandard materials in hasty road repairs ahead of the prime minister's visit.",
+        "title_bn": "রংপুরে ডিবি হেফাজত থেকে হাতকড়াসহ পালানো মাদক কারবারি আটক",
+        "title_en": "Drug Dealer Escaped From DB Custody With Handcuffs Arrested In Rangpur",
+        "summary_bn": "রংপুরের বদরগঞ্জে গোয়েন্দা পুলিশের হেফাজত থেকে হাতকড়াসহ পালিয়ে যাওয়া মাদক কারবারি মমতাজুর রহমানকে পুনরায় আটক করেছে পুলিশ।",
+        "summary_en": "Police re-arrested drug dealer Momtajur Rahman after he escaped from Detective Branch custody with handcuffs in Badargonj, Rangpur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T07:42:17+00:00",
-        "lead_bn": "প্রধানমন্ত্রীর সফরকে কেন্দ্র করে তড়িঘড়ি সড়ক সংস্কারে নিম্নমানের সামগ্রী ব্যবহারের অভিযোগ তুলেছে স্থানীয়রা।",
-        "lead_en": "Locals have alleged the use of substandard materials in hasty road repairs ahead of the prime minister's visit.",
+        "published_at": "2026-10-26T08:57:38+00:00",
+        "lead_bn": "রংপুরের বদরগঞ্জে গোয়েন্দা পুলিশের হেফাজত থেকে হাতকড়াসহ পালিয়ে যাওয়া মাদক কারবারি মমতাজুর রহমানকে পুনরায় আটক করেছে পুলিশ।",
+        "lead_en": "Police re-arrested drug dealer Momtajur Rahman after he escaped from Detective Branch custody with handcuffs in Badargonj, Rangpur.",
         "bullets_bn": [
-          "সড়ক ও জনপথ বিভাগের বিরুদ্ধে নিম্নমানের সামগ্রী দিয়ে তড়িঘড়ি সংস্কার কাজের অভিযোগ উঠেছে।",
-          "সংস্কার কাজের দুই দিনের মধ্যেই সড়কটি পুনরায় চলাচলের অনুপযোগী হয়ে পড়েছে বলে জানান স্থানীয়রা।",
-          "নগরীর সড়ক বিভাজকে রং করার কাজেও নিম্নমানের উপকরণ ব্যবহারের অভিযোগ উঠেছে।"
+          "পুলিশের বিশেষ অভিযান চালিয়ে পলায়নকারী মাদক কারবারি মমতাজুর রহমানকে গ্রেফতার করে।",
+          "এর আগে তিনি হাতকড়া পরিহিত অবস্থায় পুলিশের হেফাজত থেকে পালিয়ে যেতে সক্ষম হন।",
+          "তার বিরুদ্ধে মাদকদ্রব্য নিয়ন্ত্রণ আইনে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
         ],
         "bullets_en": [
-          "The Roads and Highways Department faces allegations of using substandard materials for hurried repairs.",
-          "Locals reported that the road became unusable again within just two days of completion.",
-          "Similar complaints were raised regarding the use of inferior materials for painting road dividers."
+          "Police arrested the fugitive drug dealer Momtajur Rahman through a special drive.",
+          "Earlier, he managed to flee from police custody while wearing handcuffs.",
+          "Legal proceedings under the narcotics control act are currently underway against him."
         ],
-        "impact_bn": "নিম্নমানের কাজের কারণে সাধারণ মানুষকে চলাচলে দুর্ভোগ পোহাতে হচ্ছে এবং সরকারি অর্থের অপচয় ঘটছে।",
-        "impact_en": "Substandard work causes commuting hardships for ordinary citizens and leads to wastage of public funds.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের রংপুর সফরকে সামনে রেখে নগরীর বিভিন্ন সড়ক ও সড়ক বিভাজক দ্রুত সংস্কারের উদ্যোগ নেওয়া হয়। তবে পর্যাপ্ত তদারকি ও মান নিশ্চিত না করায় সংস্কার কাজের স্থায়িত্ব নিয়ে প্রশ্ন তুলেছে স্থানীয় জনগণ। এর ফলে সরকারি অর্থের অপচয়ের পাশাপাশি জনদুর্ভোগ আরও বেড়েছে।",
-        "details_en": "Initiatives were taken to swiftly repair city roads and dividers ahead of Prime Minister Tarique Rahman's visit to Rangpur. However, locals raised questions about the durability of the work due to a lack of adequate monitoring and quality assurance, resulting in wasted public funds and increased public suffering."
+        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির উন্নতির স্বার্থে পলাতক অপরাধীদের দ্রুত গ্রেফতার নিশ্চিত করা জরুরি।",
+        "impact_en": "Ensuring the swift apprehension of fugitive criminals is crucial for maintaining public safety.",
+        "details_bn": "রংপুরের বদরগঞ্জ এলাকায় গোয়েন্দা পুলিশের একটি দল মাদকবিরোধী অভিযান পরিচালনার সময় এই ঘটনা ঘটে। পুলিশের হেফাজত থেকে আসামির পালিয়ে যাওয়ার ঘটনায় স্থানীয়ভাবে চাঞ্চল্যের সৃষ্টি হয় এবং আইনশৃঙ্খলা রক্ষাকারী বাহিনীর তৎপরতা বৃদ্ধি পায়। পরবর্তীতে পুলিশি অভিযানে তাকে পুনরায় আটক করা হয়।",
+        "details_en": "The incident occurred during an anti-narcotics drive conducted by a Detective Branch team in the Badargonj area of Rangpur. The escape of the accused from police custody caused a local stir and prompted heightened vigilance by law enforcement agencies. He was subsequently re-arrested during a police raid."
       }
     },
     {
-      "story_id": "e40ebef5-1820-5d0f-82e8-573dc8c76304",
-      "primary_category": "economy_business",
+      "story_id": "fa97ac6c-2abe-52d9-9d4d-65ddd1962d60",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "economy_business",
-        "governance_law"
+        "tech_innovation"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fc3zearua%2FUntitled-1.jpg?rect=0%2C43%2C1640%2C861&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/Tarique-1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-26T07:39:48+00:00",
+      "published_at": "2026-10-26T08:01:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5762,
+      "importance_score": 6.6,
+      "rank_score": 1.5881,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/0qo85nhkh3",
-          "title": "সাগরে গ্যাস অনুসন্ধানে সাড়া নেই, তিন দেশের সঙ্গে বৈঠকে নতুন উদ্যোগ",
-          "snippet": "সাগরে গ্যাস অনুসন্ধানে সাড়া নেই, তিন দেশের সঙ্গে বৈঠকে নতুন উদ্যোগ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/courtesy-call-on-the-prime-minister-by-a-delegation-from-the-japan-bangladesh-parliamentary-friendship-league/",
+          "title": "জাপানি বিনিয়োগ বাড়াতে তারো আসোর সহযোগিতা চাইলেন প্রধানমন্ত্রী",
+          "snippet": "জাপানি বিনিয়োগ বাড়াতে তারো আসোর সহযোগিতা চাইলেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সাগরে তেল ও গ্যাস অনুসন্ধানে বিদেশি কোম্পানির আগ্রহ বাড়াতে পদক্ষেপ নিয়েছে জ্বালানি বিভাগ",
-        "title_en": "Energy Division Takes Steps to Boost Foreign Interest in Offshore Gas Exploration",
-        "summary_bn": "সাগরে তেল ও গ্যাস অনুসন্ধানের দরপত্রে সাড়া না পাওয়ায় বহুজাতিক কোম্পানির মতামত নিয়ে সময় বাড়িয়েছে জ্বালানি বিভাগ।",
-        "summary_en": "The Energy Division extended deadlines and consulted multinationals after receiving poor responses for offshore oil and gas exploration tenders.",
+        "title_bn": "জাপানি বিনিয়োগ বাড়াতে সাবেক প্রধানমন্ত্রী তারো আসোর সহযোগিতা চাইলেন প্রধানমন্ত্রী",
+        "title_en": "PM Seeks Former Japan PM Taro Aso's Support to Boost Investment",
+        "summary_bn": "জাপানি বিনিয়োগ বৃদ্ধি ও দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণে জাপানের সাবেক প্রধানমন্ত্রী তারো আসোর সহযোগিতা চেয়েছেন প্রধানমন্ত্রী।",
+        "summary_en": "Prime Minister sought cooperation from former Japanese Prime Minister Taro Aso to boost Japanese investment and bilateral trade.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "economy_business",
-          "governance_law"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T07:39:48+00:00",
-        "lead_bn": "সাগরে তেল ও গ্যাস অনুসন্ধানের দরপত্রে সাড়া না পাওয়ায় বহুজাতিক কোম্পানির মতামত নিয়ে সময় বাড়িয়েছে জ্বালানি বিভাগ।",
-        "lead_en": "The Energy Division extended deadlines and consulted multinationals after receiving poor responses for offshore oil and gas exploration tenders.",
+        "published_at": "2026-10-26T08:01:42+00:00",
+        "lead_bn": "জাপানি বিনিয়োগ বৃদ্ধি ও দ্বিপক্ষীয় বাণিজ্য সম্প্রসারণে জাপানের সাবেক প্রধানমন্ত্রী তারো আসোর সহযোগিতা চেয়েছেন প্রধানমন্ত্রী।",
+        "lead_en": "Prime Minister sought cooperation from former Japanese Prime Minister Taro Aso to boost Japanese investment and bilateral trade.",
         "bullets_bn": [
-          "বিদেশি কোম্পানির মতামত নিয়ে বহুজাতিক প্রতিষ্ঠানের জন্য সমুদ্রে গ্যাসের বিভিন্ন জরিপ তথ্য উন্মুক্ত করা হয়েছে।",
-          "জ্বালানি প্রতিমন্ত্রী ও পেট্রোবাংলার কর্মকর্তাদের নেতৃত্বে লন্ডনে ও সিঙ্গাপুরে আন্তর্জাতিক কোম্পানির সঙ্গে বৈঠক অনুষ্ঠিত হয়েছে।",
-          "বিদেশি বিনিয়োগ আকর্ষণের অংশ হিসেবে ২৬টি ব্লকের তেল ও গ্যাস অনুসন্ধানের দরপত্র জমার সময় বাড়িয়ে আগামী মার্চ মাস করা হয়েছে।"
+          "জাপানি বিনিয়োগ বৃদ্ধি, বাণিজ্য সম্প্রসারণ ও প্রযুক্তি হস্তান্তর জোরদারে সহযোগিতা কামনা করা হয়।",
+          "টোকিওর ইম্পেরিয়াল হোটেলে জাপান-বাংলাদেশ সংসদীয় মৈত্রী লীগের উচ্চপর্যায়ের প্রতিনিধিদলের সঙ্গে এই বৈঠক অনুষ্ঠিত হয়।",
+          "বিদেশি বিনিয়োগকারীদের জন্য ব্যবসাবান্ধব পরিবেশ তৈরি ও আইনি পরিবর্তনের উদ্যোগ নিচ্ছে সরকার।"
         ],
         "bullets_en": [
-          "Offshore gas survey data has been made open and accessible for multinational companies following their feedback.",
-          "Delegations led by the state minister for energy and Petrobangla officials held meetings with international firms in London and Singapore.",
-          "The tender submission deadline for 26 offshore blocks has been extended to March to attract foreign investment."
+          "Cooperation was sought to increase Japanese investment, expand trade, and strengthen technology transfer.",
+          "The meeting took place with a high-level delegation of the Japan-Bangladesh Parliamentary Friendship League at an Imperial Hotel in Tokyo.",
+          "The government is taking initiatives and making legal amendments to create a business-friendly environment for foreign investors."
         ],
-        "impact_bn": "সাগরে নতুন গ্যাসক্ষেত্র আবিষ্কৃত হলে দেশের ক্রমবর্ধমান জ্বালানিসংকট দূর হবে এবং শিল্প খাতে উৎপাদন ব্যাহত হওয়ার ঝুঁকি কমবে।",
-        "impact_en": "Discovering new offshore gas reserves will ease the country's energy crisis and reduce production disruptions in industrial sectors.",
-        "details_bn": "বঙ্গোপসাগরে তেল ও গ্যাস অনুসন্ধানের জন্য চলতি বছর ২৬টি ব্লকে দরপত্র আহ্বান করা হয়। কিন্তু আন্তর্জাতিক কোম্পানিগুলোর নিষ্ক্রিয়তা এবং মধ্যপ্রাচ্যের ভূরাজনৈতিক পরিস্থিতির কারণে দরপত্র জমায় কোনো সাড়া মেলেনি। এর আগে বিগত সরকারের সময়ও দীর্ঘদিন প্রতিযোগিতামূলক দরপত্র আহ্বান বন্ধ ছিল। সমুদ্রসীমা অর্জনের দীর্ঘ সময় পেরিয়ে গেলেও দেশীয় চাহিদা মেটাতে কার্যকর কোনো ফল আসেনি। বর্তমান সংকট কাটাতে সরকার তাই আন্তর্জাতিক কোম্পানিগুলোর সঙ্গে সরাসরি আলোচনা করে শর্ত ও জরিপ তথ্য সহজ করার উদ্যোগ নিয়েছে।",
-        "details_en": "Tenders for 26 offshore blocks were floated this year, but failed to attract bids amid geopolitical tensions and multinational reluctance. Competitive bidding had remained stalled for long periods under previous administrations, leaving the country's maritime potential underutilized. To overcome this, the current administration initiated direct talks with international energy companies, relaxing terms and reducing survey data costs to revive interest in offshore exploration."
+        "impact_bn": "বর্ধিত বিদেশি বিনিয়োগের ফলে দেশে নতুন কর্মসংস্থান সৃষ্টির পথ প্রশস্ত হবে।",
+        "impact_en": "Increased foreign investment will pave the way for creating new employment opportunities in the country.",
+        "details_bn": "জাপান ও বাংলাদেশের মধ্যে দীর্ঘদিনের দ্বিপক্ষীয় ও অর্থনৈতিক সম্পর্ক রয়েছে। দেশটির সংসদীয় মৈত্রী লীগের নেতৃত্বে থাকা তারো আসো অতীতে বিভিন্ন গুরুত্বপূর্ণ দায়িত্বে থাকাকালে দ্বিপক্ষীয় সম্পর্ক উন্নয়নে ভূমিকা রেখেছেন। সাম্প্রতিক রাজনৈতিক স্থিতিশীলতার কারণে জাপানি প্রতিষ্ঠানগুলো বাংলাদেশে বিনিয়োগে নতুন করে আগ্রহ প্রকাশ করছে।",
+        "details_en": "Japan and Bangladesh share a long-standing bilateral and economic relationship. Taro Aso, leading the parliamentary friendship league, has previously played a role in bilateral development while holding various important positions. Due to recent political stability, Japanese companies are showing renewed interest in investing in Bangladesh."
       }
     },
     {
-      "story_id": "b08045ae-94f3-5907-bf7f-da6a20272ce5",
+      "story_id": "765305bf-3fea-5b9e-981b-fdde655cc71e",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -125,103 +127,103 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F9g1ckh57%2FWhatsApp-Image-2026-10-26-at-1.02.00-PM.jpeg?rect=0%2C120%2C1067%2C560&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T07:22:58+00:00",
+      "published_at": "2026-10-26T08:37:23+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.3616,
+      "rank_score": 1.5407,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/p38udko1qe",
-          "title": "স্বরাষ্ট্রমন্ত্রীর পদত্যাগ চেয়ে ফেসবুকে পোস্ট, যুবদল নেতা বহিষ্কার",
-          "snippet": "স্বরাষ্ট্রমন্ত্রীর পদত্যাগ চেয়ে ফেসবুকে পোস্ট, যুবদল নেতা বহিষ্কার"
+          "url": "https://www.prothomalo.com/bangladesh/crime/z4vs7sact8",
+          "title": "মোহাম্মদপুরে চাঁদাবাজির অভিযোগে বিএনপি নেতা গ্রেপ্তার",
+          "snippet": "মোহাম্মদপুরে চাঁদাবাজির অভিযোগে বিএনপি নেতা গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "স্বরাষ্ট্রমন্ত্রীর পদত্যাগ চেয়ে ফেসবুকে পোস্ট দেওয়ায় যুবদল নেতা বহিষ্কার",
-        "title_en": "Juba Dal Leader Expelled for Facebook Post Demanding Home Minister Resignation",
-        "summary_bn": "স্বরাষ্ট্রমন্ত্রীর পদত্যাগ চেয়ে ফেসবুকে পোস্ট দেওয়ায় টাঙ্গাইলের সখীপুর উপজেলা যুবদলের এক নেতাকে দল থেকে বহিষ্কার করা হয়েছে।",
-        "summary_en": "A Juba Dal leader in Tangail has been expelled from the party for demanding the home minister resignation on Facebook.",
+        "title_bn": "মোহাম্মদপুরে চাঁদাবাজির অভিযোগে বিএনপি নেতা মাসুম খান রাজেশ গ্রেপ্তার",
+        "title_en": "BNP Leader Masum Khan Rajesh Arrested for Extortion in Mohammadpur",
+        "summary_bn": "রাজধানীর মোহাম্মদপুর থেকে চাঁদাবাজির অভিযোগে ঢাকা মহানগর পুলিশের গোয়েন্দা বিভাগ স্থানীয় বিএনপি নেতা মাসুম খান রাজেশকে গ্রেপ্তার করেছে।",
+        "summary_en": "Detective Branch of Dhaka Metropolitan Police arrested local BNP leader Masum Khan Rajesh from Mohammadpur over extortion charges.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T07:22:58+00:00",
-        "lead_bn": "স্বরাষ্ট্রমন্ত্রীর পদত্যাগ চেয়ে ফেসবুকে পোস্ট দেওয়ায় টাঙ্গাইলের সখীপুর উপজেলা যুবদলের এক নেতাকে দল থেকে বহিষ্কার করা হয়েছে।",
-        "lead_en": "A Juba Dal leader in Tangail has been expelled from the party for demanding the home minister resignation on Facebook.",
+        "published_at": "2026-10-26T08:37:23+00:00",
+        "lead_bn": "রাজধানীর মোহাম্মদপুর থেকে চাঁদাবাজির অভিযোগে ঢাকা মহানগর পুলিশের গোয়েন্দা বিভাগ স্থানীয় বিএনপি নেতা মাসুম খান রাজেশকে গ্রেপ্তার করেছে।",
+        "lead_en": "Detective Branch of Dhaka Metropolitan Police arrested local BNP leader Masum Khan Rajesh from Mohammadpur over extortion charges.",
         "bullets_bn": [
-          "শৃঙ্খলা ভঙ্গের সুনির্দিষ্ট অভিযোগে সখীপুর উপজেলা যুবদলের সিনিয়র যুগ্ম আহ্বায়ক রফিকুল বারীকে বহিষ্কার করেছে কেন্দ্রীয় কমিটি।",
-          "কেন্দ্রীয় যুবদলের সভাপতি আবদুল মোনায়েম ও সাধারণ সম্পাদক মোহাম্মদ নুরুল ইসলামের স্বাক্ষরিত বিজ্ঞপ্তিতে এই সিদ্ধান্ত জানানো হয়।",
-          "বহিষ্কারের পর অভিযুক্ত নেতা দলীয় পদ হারালেও বিএনপি ছেড়ে যাননি বলে গণমাধ্যমকে নিশ্চিত করেছেন।"
+          "মোহাম্মদপুর থানাধীন ৩৪ নম্বর ওয়ার্ড বিএনপির সভাপতি মাসুম খান রাজেশকে ডিবি পুলিশ গ্রেপ্তার করেছে।",
+          "তেজগাঁও বিভাগের উপকমিশনার জিয়াউদ্দিন আহমেদ এই গ্রেপ্তারের বিষয়টি নিশ্চিত করেছেন।",
+          "রাজেশকে মোহাম্মদপুর থানায় হস্তান্তর করা হয়েছে এবং পুলিশ রাজধানীতে চাঁদাবাজদের তালিকা তৈরি করছে।"
         ],
         "bullets_en": [
-          "The central committee expelled Juba Dal senior joint convener Rafiqul Bari for breaching party discipline.",
-          "Central Juba Dal President Abdul Monem and General Secretary Mohammad Nurul Islam signed the expulsion order.",
-          "Following the action, the expelled leader maintained he remains a loyal follower of Ziaur Rahman s ideals."
+          "Detective Branch arrested Masum Khan Rajesh, president of Ward 34 BNP under Mohammadpur police station.",
+          "Tejgaon Division Deputy Commissioner Ziauddin Ahmed officially confirmed the arrest to the media.",
+          "Rajesh was handed over to Mohammadpur police station as law enforcement compiles an extortionist list."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "টাঙ্গাইলের সখীপুর উপজেলা যুবদলের সিনিয়র যুগ্ম আহ্বায়ক রফিকুল বারী নিজের ফেসবুক অ্যাকাউন্টে স্বরাষ্ট্রমন্ত্রীর পদত্যাগ দাবি করে একটি পোস্ট দেন। এর জেরে দলীয় শৃঙ্খলা ভঙ্গের সুনির্দিষ্ট অভিযোগে যুবদলের কেন্দ্রীয় নির্বাহী কমিটি তাঁকে দল থেকে বহিষ্কার করে। এর আগেও তাঁকে দল থেকে বারবার সতর্ক করা হয়েছিল বলে স্থানীয় নেতারা জানান। তবে তিনি দলের প্রাথমিক সদস্যপদ বা আদর্শ থেকে সরে আসেননি বলে দাবি করেছেন।",
-        "details_en": "Rafiqul Bari, senior joint convener of the Sakhipur upazila unit of Juba Dal in Tangail, posted a demand for the home minister resignation on his Facebook account. Consequently, the central executive committee expelled him for breaching party discipline. Local leaders stated that he had been warned multiple times previously for similar conduct, though the expelled leader maintained his loyalty to party founder Ziaur Rahman."
+        "impact_bn": "আইনশৃঙ্খলা বাহিনীর এই পদক্ষেপে স্থানীয় ব্যবসায়ী ও সাধারণ মানুষের মধ্যে স্বস্তি ফিরবে এবং চাঁদাবাজি কমবে।",
+        "impact_en": "This law enforcement action aims to reduce local extortion and bring relief to ordinary traders and residents.",
+        "details_bn": "রাজধানীতে চাঁদাবাজি ও অপরাধমূলক কর্মকাণ্ড দমনে কঠোর অবস্থান নিয়েছে আইনশৃঙ্খলা রক্ষাকারী বাহিনী। এর অংশ হিসেবে সম্প্রতি অপরাধীদের একটি তালিকা তৈরি করেছে ঢাকা মহানগর পুলিশ (ডিএমপি)। সেই তালিকার ভিত্তিতে মোহাম্মদপুরের রায়েরবাজার এলাকা থেকে বিএনপি নেতা মাসুম খান রাজেশকে আটক করা হয়। পরে তাঁকে আইনি প্রক্রিয়া সম্পন্ন করার জন্য সংশ্লিষ্ট থানায় হস্তান্তর করা হয়েছে।",
+        "details_en": "Law enforcement agencies have adopted a strict stance against extortion and criminal activities in the capital. As part of this crackdown, the Dhaka Metropolitan Police recently compiled a list of suspected extortionists. Based on this list, BNP leader Masum Khan Rajesh was detained from the Rayerbazar area of Mohammadpur and subsequently handed over to the local police station for legal procedures."
       }
     },
     {
-      "story_id": "3fa26881-f441-5a40-84f9-a177b9411071",
-      "primary_category": "world_diplomacy",
+      "story_id": "5c16e160-f8d7-5b7b-9f3f-f8cab8eab1d8",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy"
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Climate",
+        "#Environment"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Maps.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T07:11:23+00:00",
+      "published_at": "2026-10-26T08:53:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2421,
+      "importance_score": 2.4,
+      "rank_score": 0.8989,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/iran-pakistan-turkey-saudi-meeting/",
-          "title": "ইরানের সঙ্গে নিরাপত্তা আলোচনায় মক্কা চুক্তির ৩ দেশ",
-          "snippet": "ইরানের সঙ্গে নিরাপত্তা আলোচনায় মক্কা চুক্তির ৩ দেশ"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1172106",
+          "title": "সবুজ রূপান্তরে চাকরি হারানোর চেয়ে কর্মসংস্থান বাড়বে",
+          "snippet": "সবুজ রূপান্তরে চাকরি হারানোর চেয়ে কর্মসংস্থান বাড়বে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আঞ্চলিক নিরাপত্তা নিয়ে তেহরানে বৈঠকে বসছে সৌদি, তুরস্ক ও পাকিস্তান",
-        "title_en": "Saudi Arabia, Turkey and Pakistan hold security talks with Iran",
-        "summary_bn": "মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তা ও প্রতিরক্ষা সমন্বয় নিয়ে আলোচনার জন্য ইরানের তেহরানে বৈঠকে বসেছেন সৌদি আরব, তুরস্ক ও পাকিস্তানের জ্যেষ্ঠ কর্মকর্তারা।",
-        "summary_en": "Senior officials from Saudi Arabia, Turkey and Pakistan are holding high-level security talks with Iranian authorities in Tehran.",
+        "title_bn": "পোশাকশিল্পে সবুজ রূপান্তরে কর্মসংস্থান বাড়বে বলে মত বিশেষজ্ঞদের",
+        "title_en": "Green Transition in Garment Sector Will Boost Employment Says Experts",
+        "summary_bn": "পোশাকশিল্পে পরিবেশবান্ধব প্রযুক্তির ব্যবহার বাড়লে শ্রমিকদের চাকরি হারানোর আশঙ্কার চেয়ে নতুন কর্মসংস্থানের সুযোগ তৈরির সম্ভাবনা বেশি।",
+        "summary_en": "Adoption of eco-friendly technology in the garment industry creates more employment opportunities than job losses.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T07:11:23+00:00",
-        "lead_bn": "মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তা ও প্রতিরক্ষা সমন্বয় নিয়ে আলোচনার জন্য ইরানের তেহরানে বৈঠকে বসেছেন সৌদি আরব, তুরস্ক ও পাকিস্তানের জ্যেষ্ঠ কর্মকর্তারা।",
-        "lead_en": "Senior officials from Saudi Arabia, Turkey and Pakistan are holding high-level security talks with Iranian authorities in Tehran.",
+        "published_at": "2026-10-26T08:53:29+00:00",
+        "lead_bn": "পোশাকশিল্পে পরিবেশবান্ধব প্রযুক্তির ব্যবহার বাড়লে শ্রমিকদের চাকরি হারানোর আশঙ্কার চেয়ে নতুন কর্মসংস্থানের সুযোগ তৈরির সম্ভাবনা বেশি।",
+        "lead_en": "Adoption of eco-friendly technology in the garment industry creates more employment opportunities than job losses.",
         "bullets_bn": [
-          "সৌদি আরব, তুরস্ক ও পাকিস্তানের উচ্চপর্যায়ের প্রতিনিধিদল তেহরানে ইরানের শীর্ষ নিরাপত্তা কর্মকর্তাদের সাথে বৈঠকে অংশ নেয়।",
-          "সৌদি প্রতিরক্ষামন্ত্রী প্রিন্স খালিদ বিন সালমান, পাক সেনাপ্রধান আসিম মুনির এবং তুর্কি গোয়েন্দাপ্রধান ইব্রাহিম কালিন বৈঠকে যোগ দেন।",
-          "বৈঠক শেষে উপসাগরীয় অঞ্চলের নিরাপত্তা পরিস্থিতি ও প্রতিরক্ষা সমন্বয় জোরদারের বিষয়ে নতুন পদক্ষেপ ঘোষণা করা হতে পারে।"
+          "পরিবেশবান্ধব প্রযুক্তির ব্যবহার পোশাক খাতে ছাঁটাইয়ের বদলে নতুন কাজের সুযোগ তৈরি করবে।",
+          "সবুজ রূপান্তর টেকসই প্রবৃদ্ধি নিশ্চিত করতে কার্বন নিঃসরণ কমাতে কাজ করছে সংশ্লিষ্টরা।",
+          "রূপান্তর প্রক্রিয়া সফল করতে শ্রমিকদের দক্ষতা উন্নয়ন ও আধুনিক প্রশিক্ষণের ওপর জোর দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "High-level delegations from Saudi Arabia, Turkey and Pakistan participated in security talks with senior Iranian officials in Tehran.",
-          "Saudi Defense Minister Prince Khalid bin Salman, Pakistan Army Chief Asim Munir, and Turkish Intelligence Chief Ibrahim Kalin joined the discussions.",
-          "New joint measures regarding regional security and defense coordination in the Gulf are expected to be outlined following the meetings."
+          "Adopting green technology will generate new job opportunities instead of causing layoffs.",
+          "Stakeholders are working to reduce carbon emissions to ensure sustainable growth through green transition.",
+          "Strong emphasis is being placed on skills development and modern training for workers to support the transition."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যের আঞ্চলিক নিরাপত্তা ও ইয়েমেনের হুতি বিদ্রোহীদের হামলা মোকাবিলায় সৌদি আরব, তুরস্ক ও পাকিস্তান মক্কা যৌথ প্রতিরক্ষা চুক্তির আওতায় ঘনিষ্ঠ যোগাযোগ বজায় রাখছে। এর আগে পাকিস্তানের মধ্যস্থতায় যুক্তরাষ্ট্র ও ইরানের মধ্যে কূটনৈতিক যোগাযোগের চেষ্টা হয়েছিল। উপসাগরীয় অঞ্চলে ক্রমবর্ধমান উত্তেজনার প্রেক্ষাপটে এই তিন দেশের প্রতিনিধিরা তেহরান সফর করে ইরানের সর্বোচ্চ জাতীয় নিরাপত্তা পরিষদের সঙ্গে সরাসরি আলোচনায় অংশ নিচ্ছেন।",
-        "details_en": "Saudi Arabia, Turkey, and Pakistan have been maintaining close coordination under the Makkah joint defense pact to address regional security and ongoing threats from Houthi rebels in Yemen. Previously, Pakistan attempted mediation efforts between Washington and Tehran. Amid rising tensions in the Gulf region, top officials from these three nations traveled to Tehran to engage in direct security consultations with Iran's Supreme National Security Council."
+        "impact_bn": "পোশাক খাতের শ্রমিকরা আধুনিক প্রযুক্তির যুগে উন্নত প্রশিক্ষণ ও নিরাপদ কর্মপরিবেশের সুবিধা পাবেন।",
+        "impact_en": "Garment workers will benefit from advanced training and safer working environments in the era of modern technology.",
+        "details_bn": "বৈশ্বিক বাজারে পোশাকশিল্পের টিকে থাকতে হলে পরিবেশবান্ধব উৎপাদন বা সবুজ রূপান্তরের বিকল্প নেই। কার্বন নিঃসরণ কমানো এবং আন্তর্জাতিক ক্রেতাদের মানদণ্ড পূরণ করতে দেশের পোশাক কারখানাগুলো শক্তি সাশ্রয়ী প্রযুক্তি ও সোলার এনার্জির ব্যবহার বাড়াচ্ছে। এই পরিবর্তন দীর্ঘমেয়াদে উৎপাদনশীলতা বাড়ালেও প্রাথমিক পর্যায়ে রূপান্তর খরচ এবং শ্রমিকদের নতুন প্রযুক্তির সাথে খাপ খাইয়ে নেওয়ার বিষয়টি নিয়ে আলোচনা চলছে।",
+        "details_en": "Surviving in the global apparel market requires adopting eco-friendly manufacturing and green transitions. To reduce carbon emissions and meet international buyer standards, factories are increasing energy-efficient technologies and solar power usage. While this shift enhances long-term productivity, initial transition costs and worker adaptation to new technologies remain key areas of discussion."
       }
     },
     {
@@ -233,15 +235,16 @@
       ],
       "region": "international",
       "tags": [
-        "#PrinceAlois",
-        "#Liechtenstein"
+        "#RahulGandhi",
+        "#IndiaPolitics",
+        "#CourtVerdict"
       ],
       "image_url": "https://static.dw.com/image/79758964_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T08:00:51.524555+00:00",
+      "published_at": "2026-10-26T09:00:49.683757+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.12,
-      "rank_score": 0.8586,
+      "rank_score": 0.8576,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -251,10 +254,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত সফরে এসে রাষ্ট্রপতি দ্রৌপদী মুর্মুর সাথে বৈঠক করেছেন প্রিন্স অ্যালোইস",
-        "title_en": "Liechtenstein Prince Alois Visits India for High-Level Bilateral Talks",
-        "summary_bn": "লিশটেনস্টাইনের প্রিন্স অ্যালোইস চার দিনের রাষ্ট্রীয় সফরে মুম্বাই পৌঁছান এবং ভারতের শীর্ষ নেতাদের সাথে বৈঠক করেন।",
-        "summary_en": "Liechtenstein Prince Alois arrived in Mumbai for a four-day state visit to hold bilateral talks with Indian leaders.",
+        "title_bn": "ভারতের আদালত মানহানির মামলা থেকে রাহুল গান্ধীকে খালাস দিয়েছে",
+        "title_en": "Indian Court Acquits Opposition Leader Rahul Gandhi in Defamation Case",
+        "summary_bn": "ভারতের একটি আদালত বিরোধীদের সমালোচনার মুখে দেশটির বিরোধীদলীয় নেতা রাহুল গান্ধীকে মানহানি মামলা থেকে খালাস দিয়েছে।",
+        "summary_en": "An Indian court has acquitted opposition leader Rahul Gandhi in a defamation case following a legal challenge.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -262,81 +265,78 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T08:00:51.524555+00:00",
-        "lead_bn": "লিশটেনস্টাইনের প্রিন্স অ্যালোইস চার দিনের রাষ্ট্রীয় সফরে মুম্বাই পৌঁছান এবং ভারতের শীর্ষ নেতাদের সাথে বৈঠক করেন।",
-        "lead_en": "Liechtenstein Prince Alois arrived in Mumbai for a four-day state visit to hold bilateral talks with Indian leaders.",
+        "published_at": "2026-10-26T09:00:49.683757+00:00",
+        "lead_bn": "ভারতের একটি আদালত বিরোধীদের সমালোচনার মুখে দেশটির বিরোধীদলীয় নেতা রাহুল গান্ধীকে মানহানি মামলা থেকে খালাস দিয়েছে।",
+        "lead_en": "An Indian court has acquitted opposition leader Rahul Gandhi in a defamation case following a legal challenge.",
         "bullets_bn": [
-          "প্রিন্স অ্যালোইস বাণিজ্য, বিনিয়োগ, বিজ্ঞান ও প্রযুক্তি খাতে দ্বিপক্ষীয় সহযোগিতা বাড়ানোর বিষয়ে আলোচনা করেন।",
-          "সফরে প্রিন্সের সাথে রয়েছেন তার স্ত্রী প্রিন্সেস সোফিসহ উচ্চপর্যায়ের কর্মকর্তা ও শিল্পপতিরা।",
-          "প্রিন্স অ্যালোইস ভারতের রাষ্ট্রপতি দ্রৌপদী মুর্মু এবং পররাষ্ট্রমন্ত্রী সুব্রহ্মণ্যম জয়শঙ্করের সাথে বৈঠক করবেন।"
+          "ভারতের একটি আদালত বিরোধীদলীয় নেতা রাহুল গান্ধীকে মানহানির মামলা থেকে আনুষ্ঠানিকভাবে খালাস দিয়েছে।",
+          "সালের একটি নির্বাচনী প্রচারণায় স্বরাষ্ট্রমন্ত্রী অমিত শাহকে নিয়ে মন্তব্যের জেরে এই মামলা দায়ের করা হয়েছিল।",
+          "রাহুল গান্ধী বর্তমানে প্রধানমন্ত্রী নরেন্দ্র মোদির বিরুদ্ধে বিরোধী দলগুলোর যৌথ প্রচারণার নেতৃত্ব দিচ্ছেন।"
         ],
         "bullets_en": [
-          "Prince Alois focuses on bilateral cooperation in trade, investment, science, technology, and innovation.",
-          "The prince is accompanied by his spouse Princess Sophie along with industry leaders and officials.",
-          "Prince Alois is scheduled to attend an official banquet with Indian President Droupadi Murmu and meet Foreign Minister Subrahmanyam Jaishankar."
+          "An Indian court officially acquitted opposition leader Rahul Gandhi in a defamation case.",
+          "The legal case originated from a 2018 election campaign speech involving remarks about Home Minister Amit Shah.",
+          "Rahul Gandhi is currently leading a united opposition campaign against Prime Minister Narendra Modi."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অস্ট্রিয়া ও সুইজারল্যান্ডের মাঝে অবস্থিত প্রায় ৪০ হাজার জনসংখ্যার স্বাধীন লিশটেনস্টাইনের প্রিন্স অ্যালোইস চলতি বছরে এটি নিয়ে দ্বিতীয়বার ভারত সফর করছেন। এর আগে তিনি ২০১০ এবং ২০১৮ সালে ভারত সফর করেছিলেন। এই সফরের মাধ্যমে উভয় দেশের মধ্যকার অর্থনৈতিক ও কূটনৈতিক সম্পর্ক আরও সুদৃঢ় হওয়ার সম্ভাবনা রয়েছে।",
-        "details_en": "Nestled between Austria and Switzerland, the independent principality of Liechtenstein has a population of about 40,000. This marks Prince Alois's second visit to India this year, following prior visits in 2010 and 2018. The diplomatic engagement aims to strengthen economic, technological, and cultural ties between the two nations."
+        "details_bn": "সালের একটি রাজ্য নির্বাচন প্রচারণার সময় ভারতের বর্তমান স্বরাষ্ট্রমন্ত্রী অমিত শাহকে নিয়ে করা মন্তব্যের জেরে রাহুল গান্ধীর বিরুদ্ধে উত্তর প্রদেশের সুলতানপুর শহরে মামলাটি দায়ের করেছিলেন এক বিজেপি সদস্য। এই আইনি প্রক্রিয়ার মধ্য দিয়ে রাহুল গান্ধী আইনি স্বস্তি পেলেন, যা বর্তমান রাজনৈতিক প্রেক্ষাপটে অত্যন্ত তাৎপর্যপূর্ণ।",
+        "details_en": "The defamation case was filed against Rahul Gandhi by a BJP member in Sultanpur over remarks made during a 2018 state election campaign regarding Home Minister Amit Shah. This legal clearance provides significant relief to the opposition leader amidst ongoing political tensions."
       }
     },
     {
-      "story_id": "1d65db0b-cf92-56b8-901f-8bf3d2aaa54d",
-      "primary_category": "economy_business",
+      "story_id": "46196c37-98d1-5bd6-a535-33f42aa5b272",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
+        "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#JANAF",
-        "#OilExploration",
-        "#Kazakhstan"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": "https://balkaninsight.com/wp-content/uploads/2026/10/Omisalj_luka-e1792595059843.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T08:00:19+00:00",
+      "published_at": "2026-10-26T08:40:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6845,
+      "importance_score": 2.4,
+      "rank_score": 0.7961,
       "sources": [
         {
-          "name": "Balkan Insight",
-          "url": "https://balkaninsight.com/2026/10/26/croatian-janafs-kazakh-venture-a-pivotal-moment/bi/",
-          "title": "Croatian JANAF’s Kazakh Venture a Pivotal Moment",
-          "snippet": "Croatian JANAF’s Kazakh Venture a Pivotal Moment"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/health/news/1172099",
+          "title": "ক্যানসার চিকিৎসায় বড় উদ্যোগ, ২ বছরের মধ্যে জেলায় জেলায় রেডিওথেরাপি",
+          "snippet": "ক্যানসার চিকিৎসায় বড় উদ্যোগ, ২ বছরের মধ্যে জেলায় জেলায় রেডিওথেরাপি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ক্রোয়েশিয়ার জানাফ কাজাখস্তানের তেল অনুসন্ধানে অংশীদারিত্ব শুরু করেছে",
-        "title_en": "Croatian JANAF Enters Kazakhstan Oil Exploration Venture",
-        "summary_bn": "ক্রোয়েশিয়ার রাষ্ট্রীয় পাইপলাইন অপারেটর জানাফ কাজাখস্তানের বিশাল তেল অনুসন্ধান ব্লকে অংশীদারিত্ব অর্জন করেছে।",
-        "summary_en": "Croatian state-owned pipeline operator JANAF has acquired a stake in a massive oil exploration block in Kazakhstan.",
+        "title_bn": "জেলা পর্যায়ে রেডিওথেরাপি মেশিন স্থাপনের উদ্যোগ নিয়েছে স্বাস্থ্য মন্ত্রণালয়",
+        "title_en": "Health Ministry Takes Initiative to Install Radiotherapy Machines in Districts",
+        "summary_bn": "ক্যানসার চিকিৎসাসেবা সাধারণ মানুষের দোরগোড়ায় পৌঁছে দিতে আগামী দুই বছরের মধ্যে জেলা পর্যায়ে রেডিওথেরাপি মেশিন স্থাপন করা হবে।",
+        "summary_en": "Radiotherapy machines will be installed at the district level within the next two years to bring cancer treatment closer to people.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T08:00:19+00:00",
-        "lead_bn": "ক্রোয়েশিয়ার রাষ্ট্রীয় পাইপলাইন অপারেটর জানাফ কাজাখস্তানের বিশাল তেল অনুসন্ধান ব্লকে অংশীদারিত্ব অর্জন করেছে।",
-        "lead_en": "Croatian state-owned pipeline operator JANAF has acquired a stake in a massive oil exploration block in Kazakhstan.",
+        "published_at": "2026-10-26T08:40:59+00:00",
+        "lead_bn": "ক্যানসার চিকিৎসাসেবা সাধারণ মানুষের দোরগোড়ায় পৌঁছে দিতে আগামী দুই বছরের মধ্যে জেলা পর্যায়ে রেডিওথেরাপি মেশিন স্থাপন করা হবে।",
+        "lead_en": "Radiotherapy machines will be installed at the district level within the next two years to bring cancer treatment closer to people.",
         "bullets_bn": [
-          "জানাফ কাজাখস্তানের শিজিস অনুসন্ধান ব্লকে হাইড্রোকার্বন অনুসন্ধানে অর্থায়নের জন্য চুক্তিবদ্ধ হয়েছে।",
-          "এই তেল অনুসন্ধান ব্লকটি ২ হাজার ৪০০ বর্গমিটার এলাকা জুড়ে বিস্তৃত রয়েছে।",
-          "এই উদ্যোগের মাধ্যমে ক্রোয়েশিয়া নিজেদের জ্বালানি নিরাপত্তা জোরদার এবং ইউরোপীয় বাজারে তেল সরবরাহের নতুন রুট তৈরি করতে চায়।"
+          "জেলা পর্যায়ে ক্যানসার চিকিৎসাসেবা সম্প্রসারণের জন্য রেডিওথেরাপি মেশিন স্থাপনের সিদ্ধান্ত নিয়েছে স্বাস্থ্য মন্ত্রণালয়।",
+          "স্বাস্থ্য ও পরিবার কল্যাণমন্ত্রী সরদার মো. সাখাওয়াত হোসেন আগামী দুই বছরের মধ্যে এই কার্যক্রম বাস্তবায়নের ঘোষণা দিয়েছেন।",
+          "এই উদ্যোগ বাস্তবায়িত হলে রোগীদের জেলা পর্যায়েই উন্নত ক্যানসার চিকিৎসা পাওয়ার সুযোগ তৈরি হবে।"
         ],
         "bullets_en": [
-          "JANAF committed to financing hydrocarbon exploration in the Shygys exploration block in Kazakhstan.",
-          "The targeted exploration block covers a vast geographical area of 2,400 square kilometers.",
-          "The initiative aims to strengthen national energy security and open a new route for oil reaching European markets."
+          "The health ministry decided to install radiotherapy machines to expand cancer treatment at the district level.",
+          "Health and Family Welfare Minister Sardar M. Sakhawat Hossain announced plans to implement this within two years.",
+          "This initiative will enable patients to receive advanced cancer treatment locally without traveling far."
         ],
-        "impact_bn": "এই জ্বালানি উদ্যোগ ইউরোপীয় বাজারে জ্বালানি সরবরাহ নিরাপদ করতে সহায়তা করবে।",
-        "impact_en": "This energy venture helps secure alternative fuel supply routes reaching European markets.",
-        "details_bn": "বহু দশক ধরে তেল সংরক্ষণ ও পরিবহনের পর ক্রোয়েশিয়ার রাষ্ট্রীয় পাইপলাইন অপারেটর জানাফ এবার তেল অনুসন্ধান ও উৎপাদনে প্রবেশ করছে। এই বিনিয়োগটি জানাফের ব্যবসায়িক কার্যক্রমে একটি বড় পরিবর্তন চিহ্নিত করে। একই সাথে হাঙ্গেরির জ্বালানি জায়ান্ট এমওএল আইএনএ এর নিয়ন্ত্রণ নেওয়ার পর ক্রোয়েশিয়া তাদের তেল শিল্পের হারানো দক্ষতা পুনরুদ্ধারের চেষ্টা করছে।",
-        "details_en": "After decades storing and transporting oil, Croatian state-owned pipeline operator JANAF is expanding into exploration and production. The investment marks a major strategic shift following the loss of domestic oil expertise after MOL took over INA. This venture seeks to rebuild national industry capabilities while simultaneously strengthening energy security and opening new transit routes for Kazakh oil into European markets."
+        "impact_bn": "রোগীরা নিজ জেলা থেকেই সাশ্রয়ী ও সহজলভ্য ক্যানসার চিকিৎসা পাওয়ার সুবিধা পাবেন।",
+        "impact_en": "Patients will gain access to accessible and affordable cancer treatment directly from their home districts.",
+        "details_bn": "বাংলাদেশে ক্যানসার রোগীর সংখ্যা দিন দিন বাড়লেও উন্নত চিকিৎসার জন্য বেশিরভাগ রোগীকে ঢাকামুখী হতে হয়। জেলা পর্যায়ে বিশেষায়িত চিকিৎসা সরঞ্জামের ঘাটতির কারণে সাধারণ রোগীরা চরম আর্থিক ও শারীরিক সংকটে পড়েন। এই বাস্তবতায় সরকারের পক্ষ থেকে জেলা পর্যায়ে রেডিওথেরাপি সেবা চালুর ঘোষণা দেওয়া হলো, যা দেশের ক্যানসার চিকিৎসা ব্যবস্থাপনায় একটি বড় পরিবর্তন আনতে পারে।",
+        "details_en": "Although cancer cases are rising in Bangladesh, most patients must travel to Dhaka for advanced treatment. Due to a lack of specialized medical equipment at the district level, ordinary patients face severe financial and physical distress. In this reality, the government announced the rollout of district-level radiotherapy services, which could bring a major shift to the country's cancer care management."
       }
     }
   ]
