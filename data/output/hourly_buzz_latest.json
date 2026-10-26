@@ -1,125 +1,9 @@
 {
-  "updated_at": "2026-10-26T11:00:49.879246",
+  "updated_at": "2026-10-26T12:00:49.022020",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "d6151ca6-eb40-528c-8e5b-04f8443fc740",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T10:49:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 9.9,
-      "rank_score": 3.5514,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976859/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%88%E0%A6%A4-%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A7%9F-%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A7%E0%A6%A4%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87",
-          "title": "আইনজীবীদের দ্বৈত পেশায় থাকার বৈধতা নিয়ে হাইকোর্টে রিট",
-          "snippet": "আইনজীবীদের দ্বৈত পেশায় থাকার বৈধতা নিয়ে হাইকোর্টে রিট"
-        },
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1172173",
-          "title": "দ্বৈত পেশায় থাকা আইনজীবীদের বিরুদ্ধে ব্যবস্থা চেয়ে হাইকোর্টে রিট",
-          "snippet": "দ্বৈত পেশায় থাকা আইনজীবীদের বিরুদ্ধে ব্যবস্থা চেয়ে হাইকোর্টে রিট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আইনজীবীদের দ্বৈত পেশায় থাকার বৈধতা চ্যালেঞ্জ করে হাইকোর্টে রিট দায়ের",
-        "title_en": "High Court Writ Challenges Legality of Lawyers Holding Dual Professions",
-        "summary_bn": "আইন পেশার পাশাপাশি অন্য চাকরি বা ব্যবসায় নিয়োজিত আইনজীবীদের বিরুদ্ধে ব্যবস্থা নেওয়ার দাবিতে হাইকোর্টে রিট দায়ের করা হয়েছে।",
-        "summary_en": "A writ petition has been filed in the High Court demanding action against lawyers engaged in other jobs or businesses alongside legal practice.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T10:49:06+00:00",
-        "lead_bn": "আইন পেশার পাশাপাশি অন্য চাকরি বা ব্যবসায় নিয়োজিত আইনজীবীদের বিরুদ্ধে ব্যবস্থা নেওয়ার দাবিতে হাইকোর্টে রিট দায়ের করা হয়েছে।",
-        "lead_en": "A writ petition has been filed in the High Court demanding action against lawyers engaged in other jobs or businesses alongside legal practice.",
-        "bullets_bn": [
-          "আইন পেশার বাইরে চাকরি বা ব্যবসায় যুক্ত আইনজীবীদের বিরুদ্ধে ব্যবস্থা নেওয়ার নিষ্ক্রিয়তা চ্যালেঞ্জ করা হয়েছে।",
-          "রিটকারী আইনজীবী ফরহাদ উদ্দিন আহমেদ ভূঁইয়া হাইকোর্টে রিট দায়েরের বিষয়টি গণমাধ্যমকে নিশ্চিত করেছেন।",
-          "আইন ও বিধি অনুযায়ী সংশ্লিষ্ট কর্তৃপক্ষের নিষ্ক্রিয়তার বিরুদ্ধে পরবর্তী আইনি পদক্ষেপ নেওয়া হবে।"
-        ],
-        "bullets_en": [
-          "A writ challenges the inaction against lawyers engaged in jobs or businesses outside legal practice.",
-          "Petitioner lawyer Farhad Uddin Ahmed Bhuiyan confirmed the filing of the writ petition.",
-          "Further legal proceedings will follow regarding the inaction of authorities under relevant laws."
-        ],
-        "impact_bn": "আইনজীবীদের পেশাগত শৃঙ্খলা নিশ্চিত হলে সাধারণ বিচারপ্রার্থীরা আইনি সেবায় অধিক স্বচ্ছতা ও সুফল পাবেন।",
-        "impact_en": "Ensuring professional discipline among lawyers will bring greater transparency and better legal services for ordinary litigants.",
-        "details_bn": "আইন পেশার সনদ নিয়ে আইন পেশা বাদ দিয়ে অন্যান্য চাকরি, ব্যবসা বা পেশায় নিয়োজিত আইনজীবীদের বিষয়ে সুনির্দিষ্ট আইন ও বিধি রয়েছে। তবে এসব বিধি বাস্তবায়নে সংশ্লিষ্ট কর্তৃপক্ষের নিষ্ক্রিয়তা নিয়ে বিভিন্ন সময় প্রশ্ন উঠেছে। এর ধারাবাহিকতায় আইনজীবীদের দ্বৈত পেশার বৈধতা চ্যালেঞ্জ করে হাইকোর্টে এই রিট আবেদন করা হয়, যার মাধ্যমে পেশাগত শৃঙ্খলা ও জবাবদিহিতা নিশ্চিত করার তাগিদ দেওয়া হয়েছে।",
-        "details_en": "Specific laws and rules regulate lawyers who engage in other jobs, businesses, or professions while holding bar council certificates. However, questions have repeatedly been raised regarding the authorities' inaction in enforcing these regulations. Consequently, this writ petition was filed in the High Court to challenge the legality of dual professions, pressing for professional discipline and accountability."
-      }
-    },
-    {
-      "story_id": "7a0caa3b-a788-597a-bffa-1db946b01b51",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-07-09%2Frdle97jl%2F1.avif?rect=0%2C13%2C590%2C310&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T10:39:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5662,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/bsamc1470f",
-          "title": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার",
-          "snippet": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ, প্রধান আসামি গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলায় প্রধান আসামি গ্রেপ্তার",
-        "title_en": "Main Accused Arrested in Shilpakala Academy Cocktail Explosion Case",
-        "summary_bn": "ঢাকা মহানগর পুলিশ শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
-        "summary_en": "Dhaka Metropolitan Police arrested the main accused in the cocktail explosion case near Shilpakala Academy.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T10:39:07+00:00",
-        "lead_bn": "ঢাকা মহানগর পুলিশ শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলার প্রধান আসামিকে গ্রেপ্তার করেছে।",
-        "lead_en": "Dhaka Metropolitan Police arrested the main accused in the cocktail explosion case near Shilpakala Academy.",
-        "bullets_bn": [
-          "ঢাকা মহানগর পুলিশ শিল্পকলা একাডেমির সামনে ককটেল বিস্ফোরণ মামলার প্রধান আসামিকে আটক করেছে।",
-          "গ্রেপ্তার হওয়া আবুল হায়াত দিপু নিষিদ্ধঘোষিত সংগঠন ছাত্রলীগের সদস্য বলে জানিয়েছে পুলিশ।",
-          "পুলিশের পক্ষ থেকে আসামিকে আটকের নির্দিষ্ট স্থান ও সময় এখনো জানানো হয়নি।"
-        ],
-        "bullets_en": [
-          "Dhaka Metropolitan Police apprehended the prime suspect in the cocktail explosion near Shilpakala Academy.",
-          "Police identified the arrested individual as Abul Hayat Dipu, a member of the banned student organization Chhatra League.",
-          "Law enforcement agencies have not yet disclosed the exact location and time of the arrest."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির উন্নয়নে অপরাধীদের দ্রুত গ্রেপ্তার সাধারণ মানুষের মধ্যে নিরাপত্তা ও স্বস্তি বাড়াতে সাহায্য করবে।",
-        "impact_en": "Swift apprehension of suspects enhances public safety and reinforces law enforcement credibility among citizens.",
-        "details_bn": "রাজধানীর শিল্পকলা একাডেমির সামনে গত ২০ সেপ্টেম্বর ককটেল বিস্ফোরণের ঘটনা ঘটে। এ ঘটনায় দ্রুত আইনগত ব্যবস্থা গ্রহণ করে পুলিশ মামলা দায়ের করে। ওই মামলার মূল এজাহারভুক্ত প্রধান আসামি হিসেবে আবুল হায়াত দিপুর নাম অন্তর্ভুক্ত করা হয়। পরবর্তীতে ঢাকা মহানগর পুলিশের অভিযানে তাকে গ্রেপ্তার করা হয়, যা দেশের সার্বিক আইনশৃঙ্খলা রক্ষায় একটি গুরুত্বপূর্ণ পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
-        "details_en": "A cocktail explosion occurred in front of the Shilpakala Academy on September 20, prompting a formal police case. Abul Hayat Dipu was named as the prime accused in the incident. Following the investigation, Dhaka Metropolitan Police successfully tracked and arrested him, marking a significant development in ongoing law enforcement efforts to maintain public security."
-      }
-    },
-    {
-      "story_id": "5e016c97-f82a-519c-8fe8-1fb070a14e91",
+      "story_id": "a02d8000-6556-51e8-8b4b-decd04dd8334",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -129,218 +13,333 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/download-17.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T10:29:28+00:00",
+      "published_at": "2026-10-26T11:25:16+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.4379,
+      "importance_score": 9.0,
+      "rank_score": 2.6019,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/saudi-arabia-and-three-other-nations-from-the-makkah-defense-alliance-are-set-to-hold-a-meeting-with-iran/",
-          "title": "ইরানের সঙ্গে বৈঠকের নেতৃত্বে সৌদি প্রিন্স খালিদ বিন সালমান",
-          "snippet": "ইরানের সঙ্গে বৈঠকের নেতৃত্বে সৌদি প্রিন্স খালিদ বিন সালমান"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976867/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%A8%E0%A7%87",
+          "title": "প্রধানমন্ত্রী তারেক রহমানকে প্রতিরক্ষা সম্মেলনে আমন্ত্রণ আমিরাতের ক্রাউন প্রিন্সের",
+          "snippet": "প্রধানমন্ত্রী তারেক রহমানকে প্রতিরক্ষা সম্মেলনে আমন্ত্রণ আমিরাতের ক্রাউন প্রিন্সের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আঞ্চলিক উত্তেজনা কমাতে ইরানের সাথে বৈঠকে সৌদি প্রতিরক্ষামন্ত্রী খালিদ বিন সালমান",
-        "title_en": "Saudi Defence Minister Khalid bin Salman leads Iran talks to ease regional tensions",
-        "summary_bn": "আঞ্চলিক উত্তেজনা প্রশমন ও কূটনৈতিক সমাধানের পথ খুঁজতে তেহরানে ইরানের শীর্ষ কর্মকর্তাদের সাথে বৈঠক করেছেন সৌদি প্রতিরক্ষামন্ত্রী।",
-        "summary_en": "Saudi Defence Minister Prince Khalid bin Salman leads a delegation in Tehran to ease regional tensions.",
+        "title_bn": "সংযুক্ত আরব আমিরাতের প্রতিরক্ষা সম্মেলনে অংশ নেওয়ার আমন্ত্রণ প্রধানমন্ত্রী তারেক রহমানকে",
+        "title_en": "UAE invites Prime Minister Tarique Rahman to attend its upcoming defense exhibition",
+        "summary_bn": "সংযুক্ত আরব আমিরাতের ক্রাউন প্রিন্স প্রধানমন্ত্রী তারেক রহমানকে আইডিইএক্স ২০২৭ প্রতিরক্ষা সম্মেলনে অংশগ্রহণের আনুষ্ঠানিকভাবে আমন্ত্রণ জানিয়েছেন।",
+        "summary_en": "The UAE Crown Prince has formally invited Prime Minister Tarique Rahman to attend the IDEX 2027 defense exhibition.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T10:29:28+00:00",
-        "lead_bn": "আঞ্চলিক উত্তেজনা প্রশমন ও কূটনৈতিক সমাধানের পথ খুঁজতে তেহরানে ইরানের শীর্ষ কর্মকর্তাদের সাথে বৈঠক করেছেন সৌদি প্রতিরক্ষামন্ত্রী।",
-        "lead_en": "Saudi Defence Minister Prince Khalid bin Salman leads a delegation in Tehran to ease regional tensions.",
+        "published_at": "2026-10-26T11:25:16+00:00",
+        "lead_bn": "সংযুক্ত আরব আমিরাতের ক্রাউন প্রিন্স প্রধানমন্ত্রী তারেক রহমানকে আইডিইএক্স ২০২৭ প্রতিরক্ষা সম্মেলনে অংশগ্রহণের আনুষ্ঠানিকভাবে আমন্ত্রণ জানিয়েছেন।",
+        "lead_en": "The UAE Crown Prince has formally invited Prime Minister Tarique Rahman to attend the IDEX 2027 defense exhibition.",
         "bullets_bn": [
-          "সৌদি প্রতিরক্ষামন্ত্রী প্রিন্স খালিদ বিন সালমান তেহরানে ইরানের সাথে উচ্চপর্যায়ের দ্বিপক্ষীয় বৈঠকে নেতৃত্ব দেন।",
-          "বৈঠকে পাকিস্তানের সেনাপ্রধান ফিল্ড মার্শাল আসিম মুনির এবং তুরস্কের গোয়েন্দা প্রধান ইব্রাহিম কালিন অংশ নেন।",
-          "সংশ্লিষ্ট পক্ষগুলোর মধ্যে চলমান সংকট নিরসনে সংলাপ বাড়াতে মধ্যস্থতার উদ্যোগকে সমর্থন দেওয়া হচ্ছে।"
+          "সংযুক্ত আরব আমিরাতের উপ-প্রধানমন্ত্রী ও প্রতিরক্ষামন্ত্রী প্রধানমন্ত্রী তারেক রহমানকে এই সম্মেলনে অংশ নেওয়ার আমন্ত্রণ জানান।",
+          "দুবাইয়ের ক্রাউন প্রিন্স শেখ হামদান বিন মোহাম্মদ বিন রশিদ আল মাকতুম আইডিইএক্স ২০২৭ ও নেভাল ডিফেন্স এক্সিবিশনের আমন্ত্রণপত্র পাঠান।",
+          "বাংলাদেশ ও সংযুক্ত আরব আমিরাতের মধ্যে প্রতিরক্ষা সহযোগিতা জোরদার করতে এই আমন্ত্রণ গুরুত্বপূর্ণ ভূমিকা রাখবে।"
         ],
         "bullets_en": [
-          "Saudi Defence Minister Prince Khalid bin Salman leads high-level talks in Tehran with Iranian officials.",
-          "Pakistan Army Chief Field Marshal Asim Munir and Turkey intelligence chief Ibrahim Kalin participate in the meeting.",
-          "Delegates support mediation efforts to enhance dialogue and resolve ongoing regional crises through diplomacy."
+          "The UAE deputy prime minister and defense minister invited Prime Minister Tarique Rahman to attend the summit.",
+          "Dubai Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum sent invitations for IDEX 2027 and the Naval Defense Exhibition.",
+          "The invitation is expected to strengthen bilateral defense cooperation between Bangladesh and the United Arab Emirates."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে চলমান উত্তেজনা প্রশমিত হলে বৈশ্বিক অর্থনীতি, জ্বালানি সরবরাহ এবং মধ্যপ্রাচ্যগামী অভিবাসী শ্রমিকদের নিরাপত্তা নিশ্চিত হবে।",
-        "impact_en": "Easing tensions in the Middle East helps stabilize global energy markets and secures regional stability for expatriate workers.",
-        "details_bn": "মধ্যপ্রাচ্যে দীর্ঘমেয়াদী সংঘাত এবং ভূ-রাজনৈতিক অস্থিরতা নিরসনে আঞ্চলিক শক্তিগুলোর কূটনৈতিক তৎপরতা জোরদার হয়েছে। কাতার ও পাকিস্তানের মধ্যস্থতায় বিভিন্ন দেশের প্রতিনিধিরা সংকট সমাধানের উপায় নিয়ে আলোচনা চালিয়ে যাচ্ছেন। আঞ্চলিক নিরাপত্তা জোরদার এবং পারস্পরিক সহযোগিতা বাড়াতে এই কূটনৈতিক উদ্যোগগুলো অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
-        "details_en": "Diplomatic efforts among regional powers have intensified to resolve long-standing conflicts and geopolitical instability in the Middle East. Representatives from multiple nations are engaged in discussions mediated by Qatar and Pakistan to find peaceful resolutions. These diplomatic initiatives are crucial for strengthening regional security and enhancing mutual cooperation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সংযুক্ত আরব আমিরাত নিয়মিতভাবে আন্তর্জাতিক প্রতিরক্ষা প্রদর্শনী ও সম্মেলন আয়োজন করে আসছে, যেখানে বিশ্বের বিভিন্ন দেশের শীর্ষ সামরিক ও রাজনৈতিক নেতৃত্ব অংশ নেন। এই ধরনের আন্তর্জাতিক ইভেন্টগুলোতে অংশগ্রহণ দ্বিপক্ষীয় প্রতিরক্ষা সম্পর্ক উন্নয়ন এবং কৌশলগত অংশীদারিত্ব বাড়াতে সুযোগ তৈরি করে। বাংলাদেশের সরকারপ্রধানকে এই আমন্ত্রণ দুই দেশের পারস্পরিক সহযোগিতার ক্ষেত্রকে আরও প্রসারিত করবে বলে আশা করা হচ্ছে।",
+        "details_en": "The United Arab Emirates regularly hosts international defense exhibitions and conferences, drawing top military and political leadership from around the globe. Participation in such high-profile events creates opportunities to strengthen bilateral defense ties and expand strategic partnerships. This invitation to the head of government of Bangladesh is expected to further broaden areas of mutual cooperation between the two nations."
       }
     },
     {
-      "story_id": "5918f7a3-9b81-59f3-ae2d-1dbbf1d83105",
+      "story_id": "2646d2a3-f756-5348-9dc6-42d354053425",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-12%2Fie2jl7cy%2F3.avif?rect=0%2C9%2C540%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T10:59:41+00:00",
+      "published_at": "2026-10-26T11:43:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9597,
+      "importance_score": 6.6,
+      "rank_score": 2.248,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976861/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%80-%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A7%AD-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87",
-          "title": "মানবতাবিরোধী অপরাধে আওয়ামী লীগের ৭ নেতার বিরুদ্ধে চার্জ গঠন এ সপ্তাহেই",
-          "snippet": "মানবতাবিরোধী অপরাধে আওয়ামী লীগের ৭ নেতার বিরুদ্ধে চার্জ গঠন এ সপ্তাহেই"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/environment/k9k1lrpbjr",
+          "title": "পাঁচ জেলা শহরে কত পুকুর, তালিকা চেয়েছেন হাইকোর্ট",
+          "snippet": "পাঁচ জেলা শহরে কত পুকুর, তালিকা চেয়েছেন হাইকোর্ট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আওয়ামী লীগের সাত নেতার বিরুদ্ধে মানবতাবিরোধী অপরাধের চার্জ গঠন চলতি সপ্তাহে",
-        "title_en": "Formal Charges Against Seven Awami League Leaders Expected This Week",
-        "summary_bn": "জুলাই আন্দোলন সংক্রান্ত মানবতাবিরোধী অপরাধের মামলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাত শীর্ষ নেতার বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করা হবে।",
-        "summary_en": "Formal charges will be pressed this week against seven top leaders of the banned Awami League over crimes against humanity.",
+        "title_bn": "পাঁচ জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা দাখিলের নির্দেশ হাইকোর্টের",
+        "title_en": "High Court Directs List of Recorded Ponds in Five Cities",
+        "summary_bn": "হাইকোর্ট বগুড়া, বরিশাল, ময়মনসিংহ, সিলেট ও চট্টগ্রাম জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা তিন মাসের মধ্যে দাখিল করতে নির্দেশ দিয়েছেন।",
+        "summary_en": "The High Court directed authorities to submit a list of recorded ponds in five district cities within three months.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T10:59:41+00:00",
-        "lead_bn": "জুলাই আন্দোলন সংক্রান্ত মানবতাবিরোধী অপরাধের মামলায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাত শীর্ষ নেতার বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিল করা হবে।",
-        "lead_en": "Formal charges will be pressed this week against seven top leaders of the banned Awami League over crimes against humanity.",
+        "published_at": "2026-10-26T11:43:44+00:00",
+        "lead_bn": "হাইকোর্ট বগুড়া, বরিশাল, ময়মনসিংহ, সিলেট ও চট্টগ্রাম জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা তিন মাসের মধ্যে দাখিল করতে নির্দেশ দিয়েছেন।",
+        "lead_en": "The High Court directed authorities to submit a list of recorded ponds in five district cities within three months.",
         "bullets_bn": [
-          "আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে সাত শীর্ষ নেতার বিরুদ্ধে আনুষ্ঠানিক অভিযোগ দাখিলের প্রক্রিয়া চূড়ান্ত করা হয়েছে।",
-          "চিফ প্রসিকিউটর মো. আমিনুল ইসলাম নিশ্চিত করেছেন যে অভিযুক্তদের তালিকায় আমির হোসেন আমু ও দীপু মনিসহ সাতজন রয়েছেন।",
-          "অভিযোগ গঠন সম্পন্ন হওয়ার পর ট্রাইব্যুনালে বিচার কার্যক্রমের পরবর্তী ধাপ আনুষ্ঠানিকভাবে শুরু হবে।"
+          "পাঁচ জেলার জেলা প্রশাসকদের তিন মাসের মধ্যে হলফনামা আকারে রেকর্ডভুক্ত পুকুরের তালিকা দাখিল করতে বলা হয়েছে",
+          "অবৈধ ভরাট ও দখল রোধে ১৫ দিনের মধ্যে পাঁচ জেলায় সাত সদস্যের মনিটরিং কমিটি গঠনের নির্দেশ দেওয়া হয়েছে",
+          "আইন অমান্যকারীদের বিরুদ্ধে পরিবেশ সংরক্ষণ আইন অনুযায়ী চার সপ্তাহের মধ্যে কমপ্লায়েন্স প্রতিবেদন দাখিল করতে হবে"
         ],
         "bullets_en": [
-          "Formal charges have been finalized against seven top leaders at the International Crimes Tribunal.",
-          "Chief Prosecutor Md Aminul Islam confirmed the accused include Amir Hossain Amu and Dipu Moni.",
-          "The judicial trial proceedings will officially advance to the next phase following the indictment."
+          "District commissioners of five cities must submit the affidavit of recorded ponds within three months",
+          "A seven-member monitoring committee must be formed in each of the five districts within fifteen days",
+          "Compliance reports regarding action against illegal filling must be submitted within four weeks"
         ],
-        "impact_bn": "জুলাই আন্দোলনের বিচার প্রক্রিয়া ত্বরান্বিত হওয়ায় ভুক্তভোগী পরিবারগুলো দীর্ঘ প্রতীক্ষিত ন্যায়বিচার পাওয়ার আশা দেখছে।",
-        "impact_en": "The acceleration of trial proceedings brings renewed hope for justice to the families affected by the July movement.",
-        "details_bn": "জুলাই গণঅভ্যুত্থানের সময় সংঘটিত মানবতাবিরোধী অপরাধের বিচারকাজ পরিচালনার জন্য আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল পুনর্গঠন করা হয়। বিভিন্ন মামলায় অভিযুক্ত সাবেক মন্ত্রী ও প্রভাবশালী রাজনৈতিক ব্যক্তিদের বিরুদ্ধে তদন্ত শেষ করে পর্যায়ক্রমে চার্জ দাখিল করছে প্রসিকিউশন টিম। অপরাধের সাথে জড়িতদের বিচারের মুখোমুখি করতে রাষ্ট্রপক্ষ আইনগত প্রক্রিয়া অব্যাহত রেখেছে।",
-        "details_en": "The International Crimes Tribunal was reconstituted to conduct trials for crimes against humanity committed during the July mass uprising. The prosecution team has been progressively filing charges following investigations against former ministers and influential political figures involved in the crackdown."
+        "impact_bn": "শহরের জলাশয় রক্ষা পেলে জলাবদ্ধতা কমবে এবং নগরবাসীর জন্য পরিবেশবান্ধব প্রাকৃতিক জলবায়ু নিশ্চিত হবে।",
+        "impact_en": "Protecting urban water bodies will reduce waterlogging and ensure an eco-friendly natural environment for city residents.",
+        "details_bn": "দেশের বড় শহরগুলোর জলাশয় ও পুকুর ভরাট নিয়ে সংবাদ প্রকাশের পর মানবাধিকার সংগঠন এইচআরপিবি হাইকোর্টে রিট দায়ের করে। ২০০০ সালের জলধার সংরক্ষণ আইন ও ১৯৯৫ সালের পরিবেশ সংরক্ষণ আইন বাস্তবায়নে প্রশাসনের নিষ্ক্রিয়তার বিরুদ্ধে এই আইনি পদক্ষেপ নেওয়া হয়। আদালত রুল জারির পাশাপাশি পুকুর রক্ষায় কার্যকর মনিটরিং কমিটি গঠনের নির্দেশ দেন।",
+        "details_en": "Following media reports on the filling of urban water bodies, rights organization HRPB filed a writ petition in the High Court. The legal action challenged administrative inaction in enforcing the 2000 Water Bodies Conservation Act and the 1995 Environment Conservation Act. The court issued a rule and directed the formation of effective monitoring committees to protect the ponds."
       }
     },
     {
-      "story_id": "6ee796c6-5c76-5dc7-b43e-8c24a2de7244",
+      "story_id": "e3718a2e-2111-5732-87a2-3c0e95e886f2",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T11:54:51+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8245,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/976876/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0",
+          "title": "নির্বাচনের আগে ইরানে হামলার চেষ্টা নেতানিয়াহুর, সায় দেননি ট্রাম্প",
+          "snippet": "নির্বাচনের আগে ইরানে হামলার চেষ্টা নেতানিয়াহুর, সায় দেননি ট্রাম্প"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানে যৌথ হামলার মার্কিন প্রস্তাব প্রত্যাখ্যান করেছিলেন ডোনাল্ড ট্রাম্প",
+        "title_en": "Donald Trump Rejected Joint Attack Proposal on Iran",
+        "summary_bn": "ইসরায়েলি নির্বাচনের আগে ইরানে যৌথ হামলার জন্য ডোনাল্ড ট্রাম্পকে রাজি করানোর চেষ্টা করেছিলেন বেনিয়ামিন নেতানিয়াহু।",
+        "summary_en": "Benjamin Netanyahu attempted to persuade Donald Trump to launch joint attacks on Iran ahead of the Israeli elections.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T11:54:51+00:00",
+        "lead_bn": "ইসরায়েলি নির্বাচনের আগে ইরানে যৌথ হামলার জন্য ডোনাল্ড ট্রাম্পকে রাজি করানোর চেষ্টা করেছিলেন বেনিয়ামিন নেতানিয়াহু।",
+        "lead_en": "Benjamin Netanyahu attempted to persuade Donald Trump to launch joint attacks on Iran ahead of the Israeli elections.",
+        "bullets_bn": [
+          "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ইরানে যৌথ সামরিক হামলার প্রস্তাব দিয়েছিলেন।",
+          "মার্কিন সংবাদমাধ্যম সিএনএনের প্রতিবেদনে দুই মার্কিন কর্মকর্তা ও এক ইসরায়েলি নিরাপত্তা সূত্রের বরাত দেওয়া হয়েছে।",
+          "যুক্তরাষ্ট্রের তৎকালীন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প সেই সামরিক পদক্ষেপে সায় দেননি।"
+        ],
+        "bullets_en": [
+          "Israeli Prime Minister Benjamin Netanyahu proposed launching joint military strikes against Iran.",
+          "US media outlet CNN cited two US officials and one Israeli security source regarding the discussions.",
+          "Then US President Donald Trump ultimately refused to approve the military action."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইসরায়েলে আসন্ন পার্লামেন্ট নির্বাচনের প্রাক্কালে আঞ্চলিক রাজনীতি ও সামরিক কৌশলগত পদক্ষেপ নিয়ে বিভিন্ন দেশের মধ্যে নানা গোপনীয় আলোচনা ও দেনদরবার চলে। এমন এক সময়ে নেতানিয়াহু মার্কিন প্রশাসনকে ইরানি লক্ষ্যবস্তুতে যৌথ হামলার জন্য চাপ প্রয়োগের চেষ্টা করেন বলে আন্তর্জাতিক গণমাধ্যমে তথ্য উঠে আসে। তবে মধ্যপ্রাচ্যে বড় ধরনের সংঘাত এড়াতে মার্কিন নীতি এবং তৎকালীন প্রশাসনের শীর্ষ নেতৃত্বের সিদ্ধান্ত এই প্রস্তাবে বাধা হয়ে দাঁড়ায়।",
+        "details_en": "Ahead of the Israeli parliamentary elections, regional political and strategic maneuvers often involve high-level diplomatic and security discussions. Reports indicate that Netanyahu attempted to pressure the US administration into joint strikes against Iranian targets. However, the broader strategic considerations of the US leadership and their reluctance to spark a major regional conflict prevented the proposal from moving forward."
+      }
+    },
+    {
+      "story_id": "c35a9571-b4d4-51ec-949f-f26868a37870",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fv5zaln2r%2F85541569718128561597498763930647533095645999n.jpg?rect=0%2C0%2C666%2C350&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T11:15:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2773,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/entertainment/dhallywood/p8cdh0e6y4",
+          "title": "তানজিন তিশার ঢালিউড অভিষেক আটকে গেল...",
+          "snippet": "তানজিন তিশার ঢালিউড অভিষেক আটকে গেল..."
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পরিচালক ও প্রযোজকের গড়িমসিতে অনিশ্চিত তানজিন তিশার ঢালিউড অভিষেক",
+        "title_en": "Tanjin Tisha's Dhallywood Debut Faces Uncertainty Due to Production Delays",
+        "summary_bn": "পরিচালক ও নির্বাহী প্রযোজকের গাফিলতিতে শাকিব খানের বিপরীতে সোলজার সিনেমার শুটিং আটকে যাওয়ায় তানজিন তিশার বড় পর্দার অভিষেক অনিশ্চিত হয়ে পড়েছে।",
+        "summary_en": "Tanjin Tisha's big-screen debut has become uncertain as the shooting of the film Soldier alongside Shakib Khan remains stalled due to production delays.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T11:15:00+00:00",
+        "lead_bn": "পরিচালক ও নির্বাহী প্রযোজকের গাফিলতিতে শাকিব খানের বিপরীতে সোলজার সিনেমার শুটিং আটকে যাওয়ায় তানজিন তিশার বড় পর্দার অভিষেক অনিশ্চিত হয়ে পড়েছে।",
+        "lead_en": "Tanjin Tisha's big-screen debut has become uncertain as the shooting of the film Soldier alongside Shakib Khan remains stalled due to production delays.",
+        "bullets_bn": [
+          "পরিচালক ও নির্বাহী প্রযোজকের গড়িমসির কারণে সোলজার সিনেমার বাকি নয় দিনের শুটিং দীর্ঘদিন ধরে স্থগিত রয়েছে।",
+          "সংশ্লিষ্ট সূত্রের তথ্য অনুযায়ী শাকিব খানসহ অধিকাংশ শিল্পী ও কলাকুশলীর সম্মানী বকেয়া থাকায় নতুন শিডিউল দিতে অনীহা দেখাচ্ছেন তারা।",
+          "বারবার মুক্তির তারিখ পেছানোর ফলে চলচ্চিত্রটির ভবিষ্যৎ ও দর্শকের আগ্রহ নিয়ে শঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "The remaining nine days of shooting for the film Soldier have been suspended indefinitely due to production delays.",
+          "Sources indicate that unpaid remuneration for Shakib Khan and other crew members has caused reluctance to provide new schedules.",
+          "Repeated changes to the release date have raised concerns about the film's future and waning audience interest."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "শাকিব খানের বিপরীতে সোলজার সিনেমায় অভিনয়ের মাধ্যমে তানজিন তিশার বড় পর্দায় অভিষেকের কথা ছিল। এই সিনেমার জন্য তিনি কলকাতার একটি ছবির অফারও ফিরিয়ে দেন। কিন্তু শিডিউল জটিলতা, কলাকুশলীদের সম্মানী বকেয়া থাকা এবং প্রযোজনা প্রতিষ্ঠানের অসদিচ্ছার কারণে সিনেমার কাজ থমকে আছে। বারবার মুক্তির তারিখ পরিবর্তন হওয়ার ফলে ঢালিউডের এই প্রতীক্ষিত সিনেমাটির কাজ শেষ হওয়া নিয়ে অনিশ্চয়তা তৈরি হয়েছে।",
+        "details_en": "Tanjin Tisha was set to make her big-screen debut opposite Shakib Khan in the film Soldier, prompting her to turn down a project in Kolkata. However, production has stalled due to scheduling conflicts, unpaid remuneration for the cast and crew, and administrative delays. With the release date pushed back multiple times, the completion and future of this much-anticipated Dhallywood project remain uncertain."
+      }
+    },
+    {
+      "story_id": "099f7221-b7df-597c-97f3-63fadce343bc",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
+        "economy_business",
         "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#IndiaChinaBorder",
-        "#ArunachalPradesh",
-        "#ForeignDiplomacy"
+        "#DonaldTrump",
+        "#Michigan"
       ],
-      "image_url": "https://static.dw.com/image/79758964_6.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/19fba75722d7334726efa25051c1361f5fbbf9dc/577_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a4cc68007da0110d04ebf9bdf5591e48",
       "image_caption": null,
-      "published_at": "2026-10-26T11:00:49.879255+00:00",
+      "published_at": "2026-10-26T11:38:49+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6883,
+      "rank_score": 0.5532,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Remark on Modi's father stirs political row",
-          "snippet": "India news: Remark on Modi's father stirs political row"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+          "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+          "snippet": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত-চীন সীমান্ত টহল নিয়ে বেইজিংয়ের স্বাভাবিক কার্যক্রম দাবি",
-        "title_en": "China Defends Border Patrol Activities Amid Arunachal Pradesh Standoff",
-        "summary_bn": "চীন দাবি করেছে যে তারা অরুণাচল প্রদেশ সীমান্তে প্রতিষ্ঠিত চুক্তি মেনে রুটিন টহল ও নিয়ন্ত্রণ কার্যক্রম পরিচালনা করছে।",
-        "summary_en": "China maintains that it conducts routine patrol and control activities along the disputed border in accordance with established agreements.",
+        "title_bn": "মিশিগানে আবদুল এল-সায়েদের বিরুদ্ধে মুসলিমবিরোধী বক্তব্য তীব্র করেছেন ডোনাল্ড ট্রাম্প",
+        "title_en": "Donald Trump Intensifies Anti-Muslim Rhetoric Against Abdul El-Sayed in Michigan",
+        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মিশিগান সেনেট প্রার্থী আবদুল এল-সায়েদের বিরুদ্ধে তীব্র মুসলিমবিরোধী ও আক্রমণাত্মক বক্তব্য দিয়েছেন।",
+        "summary_en": "US President Donald Trump delivered sharp anti-Muslim remarks targeting Michigan Senate candidate Abdul El-Sayed during a rally.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
+          "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:00:49.879255+00:00",
-        "lead_bn": "চীন দাবি করেছে যে তারা অরুণাচল প্রদেশ সীমান্তে প্রতিষ্ঠিত চুক্তি মেনে রুটিন টহল ও নিয়ন্ত্রণ কার্যক্রম পরিচালনা করছে।",
-        "lead_en": "China maintains that it conducts routine patrol and control activities along the disputed border in accordance with established agreements.",
+        "published_at": "2026-10-26T11:38:49+00:00",
+        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মিশিগান সেনেট প্রার্থী আবদুল এল-সায়েদের বিরুদ্ধে তীব্র মুসলিমবিরোধী ও আক্রমণাত্মক বক্তব্য দিয়েছেন।",
+        "lead_en": "US President Donald Trump delivered sharp anti-Muslim remarks targeting Michigan Senate candidate Abdul El-Sayed during a rally.",
         "bullets_bn": [
-          "চীন অরুণাচল প্রদেশ সীমান্তে রুটিন টহল ও নিয়ন্ত্রণ কার্যক্রম পরিচালনার দাবি জানিয়েছে।",
-          "নয়াদিল্লি সীমান্ত পরিস্থিতি বিঘ্নিত হওয়ার জন্য চীনা বাহিনীর ভুল হিসাব-নিকাশকে দায়ী করেছে।",
-          "উভয় দেশ কূটনৈতিক ও সামরিক চ্যানেলের মাধ্যমে যোগাযোগ অব্যাহত রেখেছে।"
+          "মিশিগানে আয়োজিত এক সমাবেশে আবদুল এল-সায়েদকে জাতীয় নিরাপত্তার জন্য হুমকি হিসেবে চিত্রিত করেন ডোনাল্ড ট্রাম্প।",
+          "এল-সায়েদকে জিনহাদিস্ট হিসেবে আখ্যায়িত করে তার দেশপ্রেম ও আনুগত্য নিয়ে প্রশ্ন তোলেন ট্রাম্প।",
+          "ট্রাম্পের এই মন্তব্যের তীব্র নিন্দা জানিয়েছেন আরব আমেরিকান ফর ট্রাম্পের প্রতিষ্ঠাতা বিশারা বাহবাহ।"
         ],
         "bullets_en": [
-          "China defended its border patrol and control activities along the disputed frontier.",
-          "New Delhi previously blamed Chinese forces for miscalculations disrupting the border situation.",
-          "Both nuclear-armed neighbors continue maintaining communication through diplomatic and military channels."
+          "Donald Trump portrayed Senate candidate Abdul El-Sayed as a national security threat during a rally in Michigan.",
+          "Trump labeled El-Sayed a jihadist and repeatedly questioned his loyalty to the United States.",
+          "Bishara Bahbah, founder of Arab Americans for Trump, strongly condemned the remarks as racist and crossing a red line."
         ],
-        "impact_bn": "সীমান্ত উত্তেজনার ফলে স্থানীয় নিরাপত্তা পরিস্থিতি এবং দ্বিপক্ষীয় বাণিজ্যে দীর্ঘমেয়াদি প্রভাব পড়তে পারে।",
-        "impact_en": "Persistent border friction between the two nuclear-armed neighbors raises regional security concerns and stalls broader bilateral normalization.",
-        "details_bn": "অরুণাচল প্রদেশ সীমান্তে দীর্ঘদিন ধরে ভারত ও চীনের সেনাবাহিনীর মধ্যে মুখোমুখি অবস্থান বজায় রয়েছে। দুই দেশ সামরিক ও কূটনৈতিক পর্যায়ে একাধিক আলোচনা চালিয়ে গেলেও সীমান্ত এলাকার স্থায়ী শান্তি বজায় রাখা একটি বড় চ্যালেঞ্জ হয়ে দাঁড়িয়েছে। চীন ও ভারতের মধ্যে এলএসি বরাবর বিভিন্ন পয়েন্টে নিয়মিত বিরতিতে এই ধরনের উত্তেজনা তৈরি হয়।",
-        "details_en": "Face-offs between Indian and Chinese troops have persisted at multiple locations along the Line of Actual Control in Arunachal Pradesh. Despite numerous rounds of military and diplomatic talks, maintaining peace along the disputed frontier remains a significant challenge for both nuclear-armed neighbors."
+        "impact_bn": "এই রাজনৈতিক বক্তব্য অভিবাসী ও সংখ্যালঘু সম্প্রদায়ের মাঝে উদ্বেগ এবং রাজনৈতিক মেরুকরণ বৃদ্ধি করতে পারে।",
+        "impact_en": "Such rhetoric heightens political polarization and raises concerns among immigrant and minority communities.",
+        "details_bn": "মিশিগান সেনেট নির্বাচনে প্রতিদ্বন্দ্বিতাকারী আবদুল এল-সায়েদ জয়ী হলে দেশের প্রথম মুসলিম সেনেটার হবেন। তার আনুগত্য নিয়ে ট্রাম্পের করা মন্তব্য বিভিন্ন মহলে তীব্র প্রতিক্রিয়ার সৃষ্টি করেছে। অতীতে ট্রাম্পের নির্বাচনী প্রচারণায় গুরুত্বপূর্ণ ভূমিকা রাখা আরব আমেরিকান নেতারাও এই ধরনের বক্তব্যের তীব্র সমালোচনা করেছেন।",
+        "details_en": "Abdul El-Sayed is running for the Senate and could become the nation's first Muslim senator if elected. Trump's remarks comparing him to a threat and questioning his loyalty drew immediate backlash, including condemnation from key figures within the Arab American community who previously supported Trump's campaign."
       }
     },
     {
-      "story_id": "a97f0618-befb-5f6b-8502-5543526aad23",
-      "primary_category": "economy_business",
+      "story_id": "2d455290-9a25-5b6f-8544-dcb58ed2219e",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business"
+        "world_diplomacy",
+        "governance_law",
+        "climate_environment"
       ],
       "region": "international",
       "tags": [
-        "#MarketShocks",
-        "#FederalReserve"
+        "#BrazilElection",
+        "#LulaDaSilva"
       ],
-      "image_url": null,
+      "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
       "image_caption": null,
-      "published_at": "2026-10-26T10:58:00+00:00",
+      "published_at": "2026-10-26T11:37:13+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6677,
+      "rank_score": 0.5452,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
-          "title": "These four shocks could hand investors an unexpected buying window, strategists say",
-          "snippet": "These four shocks could hand investors an unexpected buying window, strategists say"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+          "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+          "snippet": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to c"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চারটি সম্ভাব্য ধাক্কা বিনিয়োগকারীদের জন্য নতুন কেনার সুযোগ তৈরি করতে পারে",
-        "title_en": "Four Potential Market Shocks Could Create Unexpected Buying Windows For Investors",
-        "summary_bn": "বাজার বিশ্লেষকদের মতে, নির্দিষ্ট অর্থনৈতিক ও প্রযুক্তিগত পরিস্থিতি বাজারে বিনিয়োগের নতুন সুযোগ তৈরি করবে।",
-        "summary_en": "Market strategists indicate that specific economic and technological shifts could provide valuable entry points for investors.",
+        "title_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে ঐতিহাসিক চতুর্থ জয় পেলেন লুল দা সিলভা",
+        "title_en": "Luiz Inacio Lula da Silva Wins Historic Fourth Term as Brazil President",
+        "summary_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়ী হয়ে চতুর্থবারের মতো ক্ষমতা গ্রহণ করতে যাচ্ছেন লুলা দা সিলভা।",
+        "summary_en": "Luiz Inacio Lula da Silva secured a historic fourth term as Brazilian president after winning a runoff election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "world_diplomacy",
+          "governance_law",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T10:58:00+00:00",
-        "lead_bn": "বাজার বিশ্লেষকদের মতে, নির্দিষ্ট অর্থনৈতিক ও প্রযুক্তিগত পরিস্থিতি বাজারে বিনিয়োগের নতুন সুযোগ তৈরি করবে।",
-        "lead_en": "Market strategists indicate that specific economic and technological shifts could provide valuable entry points for investors.",
+        "published_at": "2026-10-26T11:37:13+00:00",
+        "lead_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়ী হয়ে চতুর্থবারের মতো ক্ষমতা গ্রহণ করতে যাচ্ছেন লুলা দা সিলভা।",
+        "lead_en": "Luiz Inacio Lula da Silva secured a historic fourth term as Brazilian president after winning a runoff election.",
         "bullets_bn": [
-          "ইয়ার্ডেনি রিসার্চ জানিয়েছে ফেডের অপ্রত্যাশিত সুদের হার বিনিয়োগের নতুন সুযোগ তৈরি করবে।",
-          "কৃত্রিম বুদ্ধিমত্তা বা এআই বাণিজ্যের সীমাবদ্ধতা বিনিয়োগকারীদের জন্য নতুন কৌশল নির্ধারণে সাহায্য করবে।",
-          "বাজারের এই সম্ভাব্য ধাক্কাগুলো দীর্ঘমেয়াদী বিনিয়োগের জন্য অনুকূল পরিবেশ সৃষ্টি করতে পারে।"
+          "বামপন্থী নেতা লুলা দা সিলভা ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়লাভ করে চতুর্থ মেয়াদে ক্ষমতা নিশ্চিত করেছেন।",
+          "নির্বাচনী ট্রাইব্যুনালের তথ্য অনুযায়ী লুলা ৫১ দশমিক ৭৯ শতাংশ ভোট পেয়ে প্রতিপক্ষকে পরাজিত করেন।",
+          "আগামী ২০২৭ সালের ৫ জানুয়ারি লুলার নতুন মেয়াদ আনুষ্ঠানিকভাবে শুরু হওয়ার কথা রয়েছে।"
         ],
         "bullets_en": [
-          "Yardeni Research stated that surprise Federal Reserve interest rate decisions will create new entry points.",
-          "Constraints in the artificial intelligence trade will help investors determine new market strategies.",
-          "These potential market shocks could create a favorable environment for long-term investments."
+          "Leftist leader Luiz Inacio Lula da Silva secured a historic presidential election victory to claim a fourth term.",
+          "Lula secured 51.79 percent of the total votes against his opponent according to the electoral court.",
+          "The new presidential term for Lula is scheduled to officially begin on January 5, 2027."
         ],
-        "impact_bn": "পুঁজিবাজারে বিনিয়োগকারী ও সাধারণ সঞ্চয়কারীরা পরিবর্তিত অর্থনৈতিক পরিস্থিতির সুফল পেতে পারেন।",
-        "impact_en": "Individual investors and market participants may leverage changing economic conditions for better portfolio entry.",
-        "details_bn": "বিশ্ব অর্থনীতিতে ক্রমবর্ধমান মুদ্রাস্ফীতি, সুদের হারের ওঠানামা এবং প্রযুক্তি খাতের দ্রুত সম্প্রসারণ বিনিয়োগকারীদের কৌশল পাল্টাতে বাধ্য করছে। এই প্রেক্ষাপটে বাজার বিশ্লেষকরা বিভিন্ন অর্থনৈতিক সূচক ও প্রযুক্তির কৃত্রিম চাহিদার ওপর ভিত্তি করে নতুন বিনিয়োগের সুযোগ চিহ্নিত করছেন।",
-        "details_en": "Global economic volatility, fluctuating interest rates, and rapid expansion in the technology sector are reshaping investment strategies. In this context, financial strategists monitor key economic indicators and technological constraints to identify optimal entry points for market participants."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ব্রাজিলের রাজনৈতিক ইতিহাসে এই প্রথম কোনো প্রার্থী প্রথম দফার ভোটে পিছিয়ে থেকেও রানঅফ নির্বাচনে জয়লাভ করে ক্ষমতায় ফিরে এলেন। তবে ফলাফল প্রত্যাখ্যান করে নির্বাচন বাতিলের দাবি জানিয়েছে পরাজিত পক্ষ। এর আগে লুলার প্রধান রাজনৈতিক প্রতিপক্ষ জাইর বোলসোনারো ক্ষমতা দখলের ষড়যন্ত্রের দায়ে কারাদণ্ড ভোগ করেছেন। দারিদ্র্য ও বৈষম্য হ্রাসের প্রতিশ্রুতি দিয়ে প্রচার চালিয়ে আসা লুলা এর আগে তিনবার দেশের প্রেসিডেন্টের দায়িত্ব পালন করেছেন।",
+        "details_en": "This marks the first time in Brazil since the return to democracy that a candidate losing the first round went on to win the presidency. Lula previously governed Brazil for three terms and campaigned heavily on falling poverty and inequality rates. Meanwhile, the opponent refused to accept the election results, echoing past political turmoil surrounding the conservative camp in Brazil."
       }
     }
   ]
