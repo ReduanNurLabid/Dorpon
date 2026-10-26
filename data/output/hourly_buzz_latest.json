@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-10-26T21:00:46.953624",
+  "updated_at": "2026-10-26T22:00:50.667482",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "4f7a31fb-410c-543c-a274-4efcb6e4fa11",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T21:02:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.1654,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172338",
+          "title": "হামলার ১২ দিন পর মারা গেলেন গুরুদাসপুর পৌর ছাত্রদল নেতা শাকিল",
+          "snippet": "হামলার ১২ দিন পর মারা গেলেন গুরুদাসপুর পৌর ছাত্রদল নেতা শাকিল"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাটোরের গুরুদাসপুরে হামলায় আহত ছাত্রদল নেতা শাকিল মারা গেছেন",
+        "title_en": "Chhatra Dal Leader Shakil Dies from Attack Injuries in Natore",
+        "summary_bn": "নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "summary_en": "Gurudaspur municipality Chhatra Dal leader Shakil Islam died under treatment twelve days after sustaining severe injuries from an attack.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T21:02:49+00:00",
+        "lead_bn": "নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "lead_en": "Gurudaspur municipality Chhatra Dal leader Shakil Islam died under treatment twelve days after sustaining severe injuries from an attack.",
+        "bullets_bn": [
+          "গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর মারা যান।",
+          "নিহত শাকিল ইসলাম গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব হিসেবে দায়িত্ব পালন করছিলেন।",
+          "এ ঘটনায় জড়িতদের বিরুদ্ধে আইনগত ব্যবস্থা গ্রহণের প্রক্রিয়া চলমান রয়েছে।"
+        ],
+        "bullets_en": [
+          "Gurudaspur municipality Chhatra Dal member secretary Shakil Islam died twelve days after being seriously injured by miscreants.",
+          "The deceased Shakil Islam was serving as the member secretary of the Gurudaspur municipal unit of Chhatra Dal.",
+          "Legal procedures to take action against those involved in the incident are currently underway."
+        ],
+        "impact_bn": "রাজনৈতিক সহিংসতা সাধারণ শিক্ষার্থীদের মধ্যে নিরাপত্তাহীনতা তৈরি করে এবং রাজনৈতিক অঙ্গনে উত্তেজনা বাড়ায়।",
+        "impact_en": "Political violence creates insecurity among general students and escalates tension in the political arena.",
+        "details_bn": "নাটোরের গুরুদাসপুরে বিরোধপূর্ণ রাজনৈতিক পরিস্থিতির জেরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের ওপর হামলার ঘটনা ঘটে। হামলায় গুরুতর আহত হওয়ার পর তাকে হাসপাতালে ভর্তি করা হয় এবং দীর্ঘ বারো দিন চিকিৎসাধীন থাকার পর তার মৃত্যু হয়। এ ঘটনায় স্থানীয় রাজনৈতিক মহলে তীব্র প্রতিক্রিয়া সৃষ্টি হয়েছে এবং দোষীদের দ্রুত গ্রেপ্তারের দাবি জানিয়েছে নেতাকর্মীরা।",
+        "details_en": "The attack on municipal Chhatra Dal member secretary Shakil Islam occurred amidst conflicting political situations in Gurudaspur, Natore. Following the severe assault, he was admitted to a hospital and passed away after undergoing treatment for twelve days. The incident has triggered sharp reactions in local political circles, with activists demanding the immediate arrest of the perpetrators."
+      }
+    },
     {
       "story_id": "ec7a9e05-68a4-57a8-b800-28f311358e1c",
       "primary_category": "world_diplomacy",
@@ -19,7 +74,7 @@
       "published_at": "2026-10-26T20:37:07+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5398,
+      "rank_score": 0.9782,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -29,10 +84,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইতালিতে জীবনযাত্রার ব্যয় বৃদ্ধি ও আবাসনসংকটে তরুণদের তীব্র বিক্ষোভ",
-        "title_en": "Youth Protests Erupt Across Italy Over High Living Costs and Housing Crisis",
-        "summary_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
-        "summary_en": "Thousands of youth and students protested across Italian cities demanding action against surging living costs, housing shortages, and government policies.",
+        "title_bn": "ইতালিতে জীবনযাত্রার ব্যয় ও আবাসনসংকটে তরুণদের সহিংস বিক্ষোভ, উদ্বিগ্ন প্রবাসী বাংলাদেশিরা",
+        "title_en": "Italian youth launch violent protests over living costs, raising concern among diaspora",
+        "summary_bn": "ইতালিতে জীবনযাত্রার ব্যয় বৃদ্ধি এবং আবাসনসংকটের প্রতিবাদে হাজারো তরুণ ও শিক্ষার্থী রাস্তায় নেমে বিক্ষোভ করায় প্রবাসী বাংলাদেশিরাও উদ্‌বিগ্ন হয়ে পড়েছেন।",
+        "summary_en": "Thousands of youth and students protest across Italy over soaring living costs and severe housing crises, raising concerns among expatriate Bangladeshis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -41,136 +96,79 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T20:37:07+00:00",
-        "lead_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
-        "lead_en": "Thousands of youth and students protested across Italian cities demanding action against surging living costs, housing shortages, and government policies.",
+        "lead_bn": "ইতালিতে জীবনযাত্রার ব্যয় বৃদ্ধি এবং আবাসনসংকটের প্রতিবাদে হাজারো তরুণ ও শিক্ষার্থী রাস্তায় নেমে বিক্ষোভ করায় প্রবাসী বাংলাদেশিরাও উদ্‌বিগ্ন হয়ে পড়েছেন।",
+        "lead_en": "Thousands of youth and students protest across Italy over soaring living costs and severe housing crises, raising concerns among expatriate Bangladeshis.",
         "bullets_bn": [
-          "ইতালির রাজধানী রোম ও মিলানসহ বিভিন্ন শহরে অর্থনৈতিক বৈষম্য ও সরকারি নীতির বিরুদ্ধে রাস্তায় নামে হাজারো শিক্ষার্থী ও তরুণ।",
-          "বিক্ষোভ ও সহিংসতার ঘটনায় চার হাজারের বেশি মানুষের পরিচয় যাচাই করেছে এবং নয়জনকে গ্রেপ্তার করেছে জননিরাপত্তা বিভাগ।",
-          "শিক্ষাব্যবস্থার দুরবস্থা ও আবাসনসংকট নিরসনে সরকারের কাছে সুনির্দিষ্ট পদক্ষেপের দাবি জানিয়েছে আন্দোলনকারী তরুণরা।"
+          "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির বিরুদ্ধে রোম ও মিলানসহ ইতালির বিভিন্ন শহরে হাজারো তরুণ বিক্ষোভে অংশ নেন।",
+          "বিক্ষোভ ও সহিংসতার ঘটনায় সারা দেশে ৩৭১ জনকে পুলিশ কার্যালয়ে নিয়ে যাওয়া হয়েছে এবং ৯ জনকে গ্রেপ্তার করা হয়েছে।",
+          "টিকটক ও ইনস্টাগ্রামের মাধ্যমে সংঘটিত এই আন্দোলন থেকে শিক্ষা ও স্বাস্থ্যসেবায় সরকারি বিনিয়োগ বৃদ্ধির দাবি জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Thousands of students and youth took to the streets across Rome, Milan, and other Italian cities protesting economic hardship and government policies.",
-          "Italian public security authorities verified over four thousand individuals and arrested nine people in connection with widespread protest violence.",
-          "Protesting youth demanded immediate government intervention to resolve soaring housing costs, inflation, and educational funding crises."
+          "Thousands of youth joined protests across Italian cities including Rome and Milan against rising living costs and housing crises.",
+          "Police processed 371 individuals and arrested nine people across the country following clashes and violence during the demonstrations.",
+          "Organized via TikTok and Instagram, protesters demanded increased government investment in education and healthcare rather than military spending."
         ],
-        "impact_bn": "ইতালিতে বসবাসরত প্রবাসী বাংলাদেশিসহ সাধারণ শিক্ষার্থীরা জীবনযাত্রার ক্রমবর্ধমান ব্যয় ও আইনশৃঙ্খলা পরিস্থিতির অবনতি নিয়ে উদ্বেগের মধ্যে রয়েছেন।",
-        "impact_en": "Expatriate Bangladeshis and local students living in Italy face growing anxieties amid ongoing street protests and escalating living expenses.",
-        "details_bn": "ইউরোপের অন্যান্য দেশের মতো ইতালিতেও জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট এবং অনিশ্চিত চাকরির বাজারের বিরুদ্ধে তরুণদের মধ্যে তীব্র অসন্তোষ তৈরি হয়েছে। সামাজিক যোগাযোগমাধ্যমে প্রচার চালিয়ে সামাজিক ন্যায়বিচার, সরকারি স্বাস্থ্যসেবা এবং শিক্ষা খাতে বিনিয়োগ বাড়ানোর দাবিতে এই আন্দোলনের ডাক দেওয়া হয়। এর ফলে রোম, মিলান ও তুরিনের মতো বড় শহরগুলোতে পুলিশ এবং বিক্ষোভকারীদের মধ্যে সংঘর্ষের ঘটনা ঘটে।",
-        "details_en": "Growing youth frustration across European nations has triggered widespread protests in Italy driven by soaring living costs, acute housing shortages, and an unstable job market. Mobilized through social media platforms, demonstrators have demanded increased government investment in public education and healthcare, leading to frequent clashes with law enforcement in major cities like Rome, Milan, and Turin."
+        "impact_bn": "ইতালিতে অবস্থানরত প্রবাসী বাংলাদেশি ও তরুণ চাকরিজীবীরা ক্রমবর্ধমান জীবনযাত্রার ব্যয় ও নিরাপত্তাঝুঁকি নিয়ে উদ্বেগের মধ্যে রয়েছেন।",
+        "impact_en": "Expatriate Bangladeshis and young workers in Italy face growing anxiety over escalating living expenses and security risks.",
+        "details_bn": "ইউরোপের অন্যান্য দেশের মতো ইতালিতেও নিত্যপ্রয়োজনীয় পণ্য, জ্বালানি ও বাসাভাড়ার ব্যয় অস্বাভাবিকভাবে বেড়ে যাওয়ায় তরুণ প্রজন্মের মধ্যে তীব্র অসন্তোষ তৈরি হয়েছে। সামাজিক যোগাযোগমাধ্যমে প্রচারিত এই আন্দোলন শুধু জীবনযাত্রার খরচের প্রতিবাদ নয়, বরং জেন-জি প্রজন্মের ভবিষ্যৎ অনিশ্চয়তা ও কর্মসংস্থানের সংকটের বহিঃপ্রকাশ। এতে করে দেশটিতে বসবাসরত প্রবাসী বাংলাদেশিসহ সাধারণ নাগরিকেরা নিরাপত্তা ও অর্থনৈতিক অনিশ্চয়তার মুখে পড়েছেন।",
+        "details_en": "Soaring prices for essential goods, energy, and housing across Europe have triggered deep frustration among Italy's younger generation. Promoted via social media platforms, the protests reflect broader anxieties among Gen-Z regarding job markets and future economic security. This ongoing unrest has heightened safety and financial concerns for ordinary residents and expatriate communities living in the country."
       }
     },
     {
-      "story_id": "123a1fed-1771-5ea8-843e-0be742f58e12",
+      "story_id": "eba7c4a9-dccc-54c9-a215-6f843af8f2f1",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law",
-        "society_education",
-        "climate_environment"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-09-10%2Fkjl94tya%2Fu2coxzhb.jfif?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-01-26%2Ftwusnm6g%2FICT-verdict.jpg?rect=0%2C12%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-26T19:22:05+00:00",
+      "published_at": "2026-10-26T19:23:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.2269,
+      "rank_score": 0.9006,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/wwckm577fe",
-          "title": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ ও সেতুর অবকাঠামোর নিরাপত্তা নিশ্চিত চেয়ে হাইকোর্টে রিট",
-          "snippet": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ ও সেতুর অবকাঠামোর নিরাপত্তা নিশ্চিত চেয়ে হাইকোর্টে রিট"
+          "url": "https://www.prothomalo.com/bangladesh/zthrojae80",
+          "title": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী",
+          "snippet": "সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননার অভিযোগ: ট্রাইব্যুনালে ক্ষমা চাইলেন সুপ্রিম কোর্টের দুই আইনজীবী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পদ্মা সেতু ও নদীর সুরক্ষায় অবৈধ বালু উত্তোলন বন্ধে হাইকোর্টে রিট",
-        "title_en": "Writ Petition Filed in High Court to Stop Illegal Sand Extraction",
-        "summary_bn": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ এবং সেতুর অবকাঠামো রক্ষা করতে হাইকোর্টে রিট আবেদন করা হয়েছে।",
-        "summary_en": "A writ petition has been filed in the High Court to halt illegal sand extraction and protect the Padma Bridge.",
+        "title_bn": "সামাজিক মাধ্যমে আদালত অবমাননাকর মন্তব্যের ঘটনায় ট্রাইব্যুনালে দুই আইনজীবীর ক্ষমা প্রার্থনা",
+        "title_en": "Two Supreme Court Lawyers Apologize to Tribunal for Contemptuous Social Media Comments",
+        "summary_bn": "জুলাই গণঅভ্যুত্থানের রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননাকর মন্তব্য করার অভিযোগে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
+        "summary_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media comments regarding a July uprising verdict.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "society_education",
-          "climate_environment"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T19:22:05+00:00",
-        "lead_bn": "পদ্মা নদী থেকে অবৈধ বালু উত্তোলন বন্ধ এবং সেতুর অবকাঠামো রক্ষা করতে হাইকোর্টে রিট আবেদন করা হয়েছে।",
-        "lead_en": "A writ petition has been filed in the High Court to halt illegal sand extraction and protect the Padma Bridge.",
+        "published_at": "2026-10-26T19:23:24+00:00",
+        "lead_bn": "জুলাই গণঅভ্যুত্থানের রায় নিয়ে সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননাকর মন্তব্য করার অভিযোগে আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে ক্ষমা চেয়েছেন সুপ্রিম কোর্টের দুই আইনজীবী।",
+        "lead_en": "Two Supreme Court lawyers apologized to the International Crimes Tribunal for making contemptuous social media comments regarding a July uprising verdict.",
         "bullets_bn": [
-          "মানবাধিকার ও সমাজ উন্নয়ন সংস্থার চেয়ারম্যান এবং সুপ্রিম কোর্টের আইনজীবী মো গোলাম রহমান ভূঁইয়া রিটটি দায়ের করেন",
-          "নদীর স্বাভাবিক প্রবাহ রক্ষা এবং পদ্মা সেতুর অবকাঠামো ঝুঁকিতে রয়েছে কি না তা তদন্তের নির্দেশনা চাওয়া হয়েছে",
-          "বিচারপতি আহমেদ সোহেলের নেতৃত্বাধীন হাইকোর্ট বেঞ্চে চলতি সপ্তাহে রিটটির ওপর শুনানি অনুষ্ঠিত হতে পারে"
+          "আদালত অবমাননার অভিযোগে অভিযুক্ত সুপ্রিম কোর্টের দুই আইনজীবী মো. হাসানুজ্জামান তুষার ও মোহাম্মদ হাসান চৌধুরী ট্রাইব্যুনালে হাজির হয়ে নিঃশর্ত ক্ষমা প্রার্থনা করেন।",
+          "আইনজীবীদের পক্ষে মনসুরুল হক চৌধুরী জানান যে তাঁরা ভুল বুঝতে পেরে সামাজিক যোগাযোগমাধ্যম থেকে সংশ্লিষ্ট পোস্টগুলো মুছে ফেলেছেন।",
+          "ট্রাইব্যুনাল আসামিদের বক্তব্য উপস্থাপনের জন্য সময় মঞ্জুর করে পরবর্তী শুনানির দিন আগামী ২৫ জানুয়ারি নির্ধারণ করেছেন।"
         ],
         "bullets_en": [
-          "Supreme Court lawyer and organization chairman Md Golam Rahman Bhuiyan filed the petition.",
-          "The petition seeks directives to protect natural river flow and investigate risks to the Padma Bridge.",
-          "A High Court bench led by Justice Ahmed Sohel may hear the petition this week."
+          "Supreme Court lawyers Md. Hasanuzzaman Tushar and Mohammad Hasan Chowdhury appeared before the tribunal and offered unconditional apologies for contempt.",
+          "Defence counsel Monsurul হক Chowdhury stated that his clients realized their mistake and deleted the offending posts from social media.",
+          "The tribunal granted time for the accused to present their statements and fixed January 25 for the next hearing."
         ],
-        "impact_bn": "নদীভাঙন রোধ ও পরিবেশ রক্ষার মাধ্যমে নদীতীরবর্তী মানুষের জীবন-জীবিকা এবং কৃষিজমি সুরক্ষা পাবে।",
-        "impact_en": "Protecting the river will safeguard the livelihoods and agricultural lands of riverside communities from erosion.",
-        "details_bn": "পদ্মা নদী থেকে অপরিকল্পিত ও অবৈধভাবে বালু উত্তোলনের ফলে নদীর প্রাকৃতিক গঠন, জীববৈচিত্র্য এবং নদীতীরের স্থিতিশীলতা মারাত্মকভাবে ক্ষতিগ্রস্ত হচ্ছে। এর ফলে নদীভাঙন রোধ এবং জাতীয় গুরুত্বপূর্ণ স্থাপনা পদ্মা সেতুর নিরাপত্তা নিশ্চিত করতে আইনি পদক্ষেপের দাবি জানিয়ে মানবাধিকার ও সমাজ উন্নয়ন সংস্থার পক্ষ থেকে হাইকোর্টে এই রিট আবেদন করা হয়।",
-        "details_en": "Unplanned and illegal sand extraction from the Padma River has severely impacted its natural formation, biodiversity, and riverbank stability. To prevent erosion and ensure the security of the vital Padma Bridge infrastructure, a writ petition was filed in the High Court by a human rights and social development organization."
-      }
-    },
-    {
-      "story_id": "ef0529f5-ce14-5811-83a0-b04f8ad9528f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T18:56:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 7.2,
-      "rank_score": 1.1583,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172335",
-          "title": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ",
-          "snippet": "তারেক রহমান ও সানায়ে তাকাইচির নেতৃত্বে বাংলাদেশ-জাপান শীর্ষ বৈঠক আজ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় শীর্ষ বৈঠকে নেতৃত্ব দেবেন তারেক রহমান ও সানায়ে তাকাইচি",
-        "title_en": "Tarique Rahman and Sanae Takaichi to Lead Bangladesh-Japan Bilateral Summit",
-        "summary_bn": "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে দুই দেশের শীর্ষ নেতারা বৈঠকে মিলিত হচ্ছেন।",
-        "summary_en": "Top leaders of Bangladesh and Japan are meeting to enhance bilateral relations and economic cooperation between the two nations.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T18:56:20+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের মধ্যে দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা বাড়াতে দুই দেশের শীর্ষ নেতারা বৈঠকে মিলিত হচ্ছেন।",
-        "lead_en": "Top leaders of Bangladesh and Japan are meeting to enhance bilateral relations and economic cooperation between the two nations.",
-        "bullets_bn": [
-          "বাংলাদেশ ও জাপানের শীর্ষ বৈঠকে দুই দেশের দ্বিপক্ষীয় সম্পর্ক নিয়ে আলোচনা হবে।",
-          "বৈঠকে নেতৃত্ব দিচ্ছেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান ও জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি।",
-          "আলোচনা শেষে দুই দেশের মধ্যে নতুন বাণিজ্য ও সহযোগিতা চুক্তি স্বাক্ষরিত হতে পারে।"
-        ],
-        "bullets_en": [
-          "The bilateral summit focuses on strengthening diplomatic and economic ties between Bangladesh and Japan.",
-          "The high-level meeting is led by Bangladesh Prime Minister Tarique Rahman and Japanese Prime Minister Sanae Takaichi.",
-          "New trade and cooperation agreements are expected to be signed following the conclusion of the talks."
-        ],
-        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য বৃদ্ধি এবং তরুণদের জন্য কর্মসংস্থানের নতুন সুযোগ তৈরি হতে পারে।",
-        "impact_en": "The meeting is expected to boost bilateral trade and create new employment opportunities for youth.",
-        "details_bn": "বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক সম্পর্ক রয়েছে। অর্থনৈতিক উন্নয়ন, অবকাঠামো নির্মাণ এবং বিনিয়োগের ক্ষেত্রে জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। নিয়মিত এই উচ্চপর্যায়ের বৈঠকের মাধ্যমে দুই দেশের মধ্যকার দ্বিপক্ষীয় সহযোগিতা আরও সুদৃঢ় হয়।",
-        "details_en": "Bangladesh and Japan share a long-standing friendly diplomatic relationship. Japan remains one of major development partners for Bangladesh in economic development, infrastructure building, and investment. Such high-level bilateral meetings continuously strengthen cooperation between the two nations."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জুলাই গণঅভ্যুত্থানের সময় সংঘটিত মানবতাবিরোধী অপরাধের দায়ে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদেরসহ সাত আসামির মৃত্যুদণ্ডের রায় দেয় আন্তর্জাতিক অপরাধ ট্রাইব্যুনাল-২। ওই রায়ের পর সুপ্রিম কোর্টের দুই আইনজীবী সামাজিক যোগাযোগমাধ্যমে আদালত অবমাননাকর মন্তব্য করেন বলে ট্রাইব্যুনালের প্রসিকিউশন পক্ষ অভিযোগ আনে। শুনানিতে আসামিরা ভুল স্বীকার করে পোস্ট ডিলিট করেন এবং ট্রাইব্যুনালের কাছে ক্ষমা চান। আদালত পরবর্তী শুনানির জন্য আগামী ২৫ জানুয়ারি দিন ধার্য করেন।",
+        "details_en": "The International Crimes Tribunal-2 previously delivered death sentences for seven accused individuals, including ousted Awami League general secretary Obaidul Quader, over crimes against humanity during the July mass uprising. Following the verdict, the prosecution accused two Supreme Court lawyers of making contemptuous comments on social media. During the hearing, the lawyers admitted their mistake, removed the posts, and sought an apology, prompting the tribunal to set January 25 for the next proceedings."
       }
     },
     {
@@ -190,7 +188,7 @@
       "published_at": "2026-10-26T20:49:18+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8637,
+      "rank_score": 0.5299,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -200,10 +198,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিরাপত্তা ত্রুটির কারণে বন্ধ রয়েছে সরকারি সেবা প্ল্যাটফর্ম মাইগভ",
-        "title_en": "Government Service Platform MyGov Suspended Due to Security Flaw",
-        "summary_bn": "নিরাপত্তা জোরদার করতে পিএইচপির ত্রুটির কারণে কেন্দ্রীয় অনলাইন সরকারি সেবা প্ল্যাটফর্ম মাইগভের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
-        "summary_en": "The central online government service platform MyGov has been temporarily suspended to strengthen security following a PHP vulnerability.",
+        "title_bn": "নিরাপত্তা ত্রুটির কারণে কেন্দ্রীয় অনলাইন প্ল্যাটফর্ম মাইগভ সেবা বন্ধ",
+        "title_en": "Central Online Platform MyGov Suspended Due to Security Flaw",
+        "summary_bn": "পিএইচপি নিরাপত্তা ত্রুটির কারণে সিস্টেম হালনাগাদ ও নিরাপত্তা জোরদার করতে সরকারি সেবার কেন্দ্রীয় প্ল্যাটফর্ম মাইগভ সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "summary_en": "The central government service platform MyGov has been temporarily suspended to update systems and enhance security following a PHP vulnerability.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -211,138 +209,135 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-26T20:49:18+00:00",
-        "lead_bn": "নিরাপত্তা জোরদার করতে পিএইচপির ত্রুটির কারণে কেন্দ্রীয় অনলাইন সরকারি সেবা প্ল্যাটফর্ম মাইগভের ওয়েবসাইট সাময়িকভাবে বন্ধ রাখা হয়েছে।",
-        "lead_en": "The central online government service platform MyGov has been temporarily suspended to strengthen security following a PHP vulnerability.",
+        "lead_bn": "পিএইচপি নিরাপত্তা ত্রুটির কারণে সিস্টেম হালনাগাদ ও নিরাপত্তা জোরদার করতে সরকারি সেবার কেন্দ্রীয় প্ল্যাটফর্ম মাইগভ সাময়িকভাবে বন্ধ রাখা হয়েছে।",
+        "lead_en": "The central government service platform MyGov has been temporarily suspended to update systems and enhance security following a PHP vulnerability.",
         "bullets_bn": [
-          "সাইটটিতে পিএইচপির নিরাপত্তা ত্রুটি চিহ্নিত হওয়ার পর তা হালনাগাদ ও সুরক্ষার জন্য বন্ধ রাখা হয়।",
-          "ওয়েবসাইটে প্রবেশের চেষ্টা করলে ওয়েব সার্ভার ইজ ডাউন বার্তা প্রদর্শন করছে।",
-          "কর্তৃপক্ষ ত্রুটি নিরসন করে দ্রুত সাইটটি পুনরায় সচল করার কাজ চালিয়ে যাচ্ছে।"
+          "পিএইচপি নিরাপত্তা ত্রুটির কারণে সরকারি সেবার কেন্দ্রীয় অনলাইন প্ল্যাটফর্ম মাইগভের ওয়েবসাইট বন্ধ রাখা হয়েছে।",
+          "ওয়েবসাইটে প্রবেশ করতে গেলে বর্তমানে ওয়েব সার্ভার ইজ ডাউন বার্তা প্রদর্শিত হচ্ছে।",
+          "সিস্টেমের নিরাপত্তা জোরদার ও হালনাগাদ কাজ শেষ হলে সাইটটি পুনরায় চালু করা হবে।"
         ],
         "bullets_en": [
-          "The platform was shut down for updates and protection after a PHP security vulnerability was identified.",
-          "Attempting to access the website currently displays a web server is down error message.",
-          "Authorities are working to resolve the issue and restore the site operations shortly."
+          "The central online government service platform MyGov website has been shut down due to a PHP security flaw.",
+          "Visitors attempting to access the website currently encounter a web server is down error message.",
+          "The platform will be restored once system security enhancement and updating works are completed."
         ],
         "impact_bn": "অনলাইনে বিভিন্ন সরকারি সেবা পেতে সাধারণ নাগরিক ও সেবাগ্রহীতারা সাময়িক ভোগান্তির শিকার হচ্ছেন।",
-        "impact_en": "Ordinary citizens and service seekers are facing temporary disruptions in accessing various government services online.",
-        "details_bn": "ডিজিটাল বাংলাদেশ গড়ার অংশ হিসেবে নাগরিকদের দোরগোড়ায় সেবা পৌঁছে দিতে চালু করা হয় মাইগভ প্ল্যাটফর্ম। সরকারের এটুআই প্রকল্পের অধীনে পরিচালিত এই প্ল্যাটফর্মে বিভিন্ন মন্ত্রণালয় ও দপ্তরের সেবা অনলাইনে পাওয়া যায়। সম্প্রতি সিস্টেমে পিএইচপি সংক্রান্ত নিরাপত্তা ত্রুটি ধরা পড়ার পর, ব্যবহারকারীদের ডেটা সুরক্ষার স্বার্থে ওয়েবসাইটটি সাময়িকভাবে বন্ধ রাখার সিদ্ধান্ত নেয় কতৃপক্ষ। কারিগরি ত্রুটি সমাধান শেষে সেবাগুলো পুনরায় চালুর প্রক্রিয়া চলছে।",
-        "details_en": "The MyGov platform was launched to deliver government services directly to citizens as part of the Digital Bangladesh initiative. Operated under the government's a2i project, the platform provides online access to services from various ministries and departments. Following the detection of a PHP-related security flaw in the system, authorities decided to temporarily shut down the website to protect user data. Technical teams are currently working to resolve the issue and restore normal operations."
+        "impact_en": "Ordinary citizens and service seekers face temporary disruption in accessing various government services online.",
+        "details_bn": "এটুআই প্রকল্পের অধীনে পরিচালিত মাইগভ প্ল্যাটফর্মটি দেশের নাগরিকদের বিভিন্ন সরকারি সেবা অনলাইনে প্রাপ্তির সুযোগ করে দেয়। সম্প্রতি সিস্টেমটিতে পিএইচপি নিরাপত্তা ত্রুটি ধরা পড়ার পর তা দ্রুত সমাধানের উদ্যোগ নেওয়া হয়। এর অংশ হিসেবে প্ল্যাটফর্মের ওয়েবসাইটটি সাময়িকভাবে বন্ধ রেখে সিস্টেম হালনাগাদ ও নিরাপত্তা পরীক্ষার কাজ চলছে।",
+        "details_en": "The MyGov platform, operated under the a2i project, enables citizens to access various government services online. Following the detection of a PHP security vulnerability, authorities initiated immediate remedial measures. As part of this process, the website has been temporarily taken offline to conduct system updates and security audits."
       }
     },
     {
-      "story_id": "2c77c9de-b2bc-5e67-bc24-202aecd90e49",
+      "story_id": "3c824c19-4500-5a5f-95ce-bc6428812b7f",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "governance_law",
-        "tech_innovation",
-        "society_education"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#AustralianPolitics",
-        "#PoliticalDebate"
+        "#UN",
+        "#IsraelPalestine",
+        "#WestBank"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
+      "image_url": "https://static.dw.com/image/79770273_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T20:53:00+00:00",
+      "published_at": "2026-10-26T22:00:50.667491+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.7918,
+      "importance_score": 1.7,
+      "rank_score": 0.6887,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly attacked",
-          "snippet": "Australian politics live: Lambie awaiting Hanson apology over cartoon; Liberal candidate’s husband allegedly a"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
+          "title": "UN sounds the alarm over Israel's West Bank military operation",
+          "snippet": "UN sounds the alarm over Israel's West Bank military operation"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলীয় রাজনীতিতে রাজনৈতিক বিতর্ক ও শ্রদ্ধাবোধ বজায় রাখার আহ্বান",
-        "title_en": "Australian Senators Call for Respectful Political Debate Amid Incidents",
-        "summary_bn": "অস্ট্রেলীয় রাজনীতিবিদরা নীতিগত বিতরণে দৃঢ়তা বজায় রাখার পাশাপাশি পারস্পরিক শ্রদ্ধা ও শালীনতা রক্ষা করার ওপর জোর দিয়েছেন।",
-        "summary_en": "Australian politicians emphasize maintaining respect and accountability while engaging in robust political debate.",
+        "title_bn": "ইসরায়েলি সামরিক অভিযানের তীব্র নিন্দা জানিয়েছে জাতিসংঘ",
+        "title_en": "UN Strongly Condemns Israeli Military Operation in West Bank",
+        "summary_bn": "পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান ও ফিলিস্তিনিদের জোরপূর্বক স্থানচ্যুতির তীব্র নিন্দা জানিয়েছে জাতিসংঘ।",
+        "summary_en": "The United Nations strongly condemned Israeli military operations and the forced displacement of Palestinians in the West Bank.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law",
-          "tech_innovation",
-          "society_education"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T20:53:00+00:00",
-        "lead_bn": "অস্ট্রেলীয় রাজনীতিবিদরা নীতিগত বিতরণে দৃঢ়তা বজায় রাখার পাশাপাশি পারস্পরিক শ্রদ্ধা ও শালীনতা রক্ষা করার ওপর জোর দিয়েছেন।",
-        "lead_en": "Australian politicians emphasize maintaining respect and accountability while engaging in robust political debate.",
+        "published_at": "2026-10-26T22:00:50.667491+00:00",
+        "lead_bn": "পশ্চিম তীরে ইসরায়েলি সামরিক অভিযান ও ফিলিস্তিনিদের জোরপূর্বক স্থানচ্যুতির তীব্র নিন্দা জানিয়েছে জাতিসংঘ।",
+        "lead_en": "The United Nations strongly condemned Israeli military operations and the forced displacement of Palestinians in the West Bank.",
         "bullets_bn": [
-          "রাজনৈতিক বিতরণে দৃঢ়তা ও শালীনতা বজায় রাখার প্রয়োজনীয়তা তুলে ধরেন লিবারেল সিনেটর অ্যান রাস্টন",
-          "রাজনীতিবিদদের ভূমিকার ওপর গুরুত্ব দিয়ে দায়িত্বশীল আচরণ করার আহ্বান জানান আইন প্রণেতারা",
-          "জাতীয় পর্যায়ে রাজনৈতিক সহিংসতার ঘটনাগুলোর প্রেক্ষাপটে জনপরিসরে শ্রদ্ধাবোধ বাড়ানোর তাগিদ দেওয়া হয়"
+          "জাতিসংঘের শীর্ষ কর্মকর্তারা ফিলিস্তিনিদের জোরপূর্বক স্থানচ্যুতি এবং বাড়িঘর ধ্বংসের তীব্র নিন্দা জানিয়েছেন।",
+          "পশ্চিম তীরে একটি বন্দুকযুদ্ধের পর ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু এই সামরিক অভিযানের নির্দেশ দেন।",
+          "আন্তর্জাতিক আইন লঙ্ঘন করে সংঘটিত এই পদক্ষেপের ফলে হাজার হাজার ফিলিস্তিনি বাস্তুচ্যুত হয়েছেন।"
         ],
         "bullets_en": [
-          "Liberal Senator Anne Ruston stresses the necessity of maintaining respect within political debates",
-          "Lawmakers emphasize the heavy responsibility politicians hold in shaping national civic discourse",
-          "Calls for heightened parliamentary decorum follow recent incidents of attacks and political tensions"
+          "Top UN officials strongly condemned the aggressive military operations and forced displacement of Palestinians in the region.",
+          "Israeli Prime Minister Benjamin Netanyahu ordered the operation following a shootout that left soldiers and gunmen dead.",
+          "Thousands of Palestinians faced forced displacement and property destruction in actions the UN termed collective punishment."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অস্ট্রেলীয় সংসদে সাম্প্রতিক সময়ে রাজনৈতিক ব্যক্তিত্বদের ওপর হামলা ও উত্তেজনাকর পরিস্থিতির প্রেক্ষাপটে রাজনীতিতে শালীনতা ও শ্রদ্ধাবোধ ফিরিয়ে আনার দাবি জোরালো হয়েছে। বিভিন্ন দলের নেতারা মনে করেন, সরকারের জবাবদিহিতা নিশ্চিত করার পাশাপাশি সংসদীয় বিতরণের মান রক্ষা করা অত্যন্ত জরুরি।",
-        "details_en": "Tensions in Australian politics escalated following reported security incidents involving members of parliament, prompting renewed discussions on parliamentary decorum. Lawmakers continue to debate the balance between holding governments accountable and ensuring respectful public discourse."
+        "impact_bn": "মধ্যপ্রাচ্যে চলমান সংঘাতের তীব্রতা বিশ্বব্যাপী শরণার্থী সংকট ও ভূ-রাজনৈতিক স্থিতিশীলতাকে সরাসরি প্রভাবিত করছে।",
+        "impact_en": "Escalating Middle East conflicts directly fuel global humanitarian crises and regional geopolitical instability.",
+        "details_bn": "পশ্চিম তীরের হিউব্রন শহরে ইসরায়েলি সামরিক অভিযান এবং ভবন গুঁড়িয়ে দেওয়ার নির্দেশ দেয় তেলআবিব। এর আগে সংঘটিত একটি বন্দুকযুদ্ধের ঘটনার জেরে এই পদক্ষেপ নেওয়া হয়। জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস এবং মানবাধিকার কমিশনার ভলকার তুর্ক এই ঘটনার তীব্র প্রতিবাদ জানিয়ে এটিকে আন্তর্জাতিক আইনের লঙ্ঘন ও সম্মিলিত শাস্তি হিসেবে অভিহিত করেছেন।",
+        "details_en": "The Israeli military launched operations and demolition orders in Hebron following a shootout that killed multiple soldiers and gunmen. UN Secretary-General Antonio Guterres and Human Rights Commissioner Volker Turk denounced the measures as collective punishment and grave violations of international law amid expanding settlements."
       }
     },
     {
-      "story_id": "6d6cfdef-48f0-5fe3-bfdf-db08f71ade23",
-      "primary_category": "governance_law",
+      "story_id": "36d959be-39c0-5de3-9814-a93e8a5f5a0b",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law"
+        "sports_fitness"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F2kkab1y2%2FKingfisher-Drive.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T20:46:22+00:00",
+      "published_at": "2026-10-26T20:24:44+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8394,
+      "rank_score": 0.453,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/ebfhqbd2zd",
-          "title": "গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান: বিলবোর্ডের আড়ালে গোপন গুদাম, বিপুল মদ-বিয়ার জব্দ",
-          "snippet": "গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান: বিলবোর্ডের আড়ালে গোপন গুদাম, বিপুল মদ-বিয়ার জব্দ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/football/976954/%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A7%8B%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%A6%E0%A7%81%E0%A6%A4%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%95%E0%A7%87-%E0%A6%93%E0%A6%A1%E0%A6%BC%E0%A6%BE%E0%A6%B2%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+          "title": "বাইয়েজিদের জোড়া জাদুতে ফিজিকে ওড়ালো বাংলাদেশ",
+          "snippet": "বাইয়েজিদের জোড়া জাদুতে ফিজিকে ওড়ালো বাংলাদেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গুলশানের রেস্তোরাঁয় এনবিআরের অভিযানে বিপুল পরিমাণ মদ ও বিয়ার জব্দ",
-        "title_en": "NBR Seizes Huge Quantity of Alcohol from Gulshan Restaurant",
-        "summary_bn": "রাজধানীর গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান চালিয়ে বিলবোর্ডের আড়ালে থাকা গোপন গুদাম থেকে ২৩৫৮ লিটার মদ ও বিয়ার জব্দ করেছে এনবিআর।",
-        "summary_en": "The NBR seized 2358 liters of alcohol and beer from a hidden warehouse behind a billboard at a Gulshan restaurant.",
+        "title_bn": "ফিফরে অনূর্ধ্ব-১৫ বিশ্বকাপে ফিজিকে ৩-১ গোলে হারিয়েছে বাংলাদেশ দল",
+        "title_en": "Bangladesh defeats Fiji 3-1 in FIFA Under-15 World Cup",
+        "summary_bn": "বুরুন্ডির কাছে হারের ধাক্কা সামলে ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালের গ্রুপ পর্বের শেষ ম্যাচে ফিজির বিপক্ষে জয় পেয়েছে বাংলাদেশ।",
+        "summary_en": "Bangladesh secured a victory against Fiji in the final group match of the FIFA Under-15 World Cup and Festival.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T20:46:22+00:00",
-        "lead_bn": "রাজধানীর গুলশানে কিংফিশার রেস্তোরাঁয় অভিযান চালিয়ে বিলবোর্ডের আড়ালে থাকা গোপন গুদাম থেকে ২৩৫৮ লিটার মদ ও বিয়ার জব্দ করেছে এনবিআর।",
-        "lead_en": "The NBR seized 2358 liters of alcohol and beer from a hidden warehouse behind a billboard at a Gulshan restaurant.",
+        "published_at": "2026-10-26T20:24:44+00:00",
+        "lead_bn": "বুরুন্ডির কাছে হারের ধাক্কা সামলে ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালের গ্রুপ পর্বের শেষ ম্যাচে ফিজির বিপক্ষে জয় পেয়েছে বাংলাদেশ।",
+        "lead_en": "Bangladesh secured a victory against Fiji in the final group match of the FIFA Under-15 World Cup and Festival.",
         "bullets_bn": [
-          "জাতীয় রাজস্ব বোর্ডের চারটি গোয়েন্দা সংস্থা গুলশানের কিংফিশার রেস্তোরাঁয় যৌথ অভিযান পরিচালনা করে।",
-          "অভিযানে ৮২৬ লিটার মদ ও ১৫৩৩ লিটার বিয়ার জব্দ করা হয় যার আনুমানিক বাজারমূল্য প্রায় ৯২ লাখ টাকা।",
-          "প্রতিষ্ঠানটির বিরুদ্ধে শুল্ক ফাঁকির অভিযোগ খতিয়ে দেখতে তদন্ত চলছে এবং আইনানুগ ব্যবস্থা নেওয়া হবে।"
+          "গ্রুপ পর্বের শেষ ম্যাচে ফিজির বিপক্ষে ৩-১ ব্যবধানে জয় নিশ্চিত করেছে বাংলাদেশ দল",
+          "এর আগে বুরুন্ডির বিপক্ষে ম্যাচে বাংলাদেশ দল ২-০ গোলে পরাজিত হয়েছিল",
+          "বাছাইপর্বের পাঁচ ম্যাচে বাংলাদেশ দল একটি জয়, দুটি হার ও দুটি ড্র করেছে"
         ],
         "bullets_en": [
-          "Four intelligence units of the National Board of Revenue conducted a joint raid at Kingfisher restaurant in Gulshan.",
-          "The raid led to the seizure of 826 liters of liquor and 1533 liters of beer worth approximately 92 lakh taka.",
-          "Authorities are investigating tax evasion allegations against the establishment and legal action will follow."
+          "Bangladesh secured a 3-1 victory against Fiji in their final group stage match",
+          "Bangladesh previously suffered a 2-0 defeat against Burundi in the tournament",
+          "Bangladesh finished the qualifying stage with one win, two losses, and two draws from five matches"
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "উচ্চ শুল্ক আরোপযোগ্য পণ্য শুল্ক ফাঁকি দিয়ে সংগ্রহ ও বিক্রির গোপন সংবাদের ভিত্তিতে জাতীয় রাজস্ব বোর্ডের চারটি গোয়েন্দা সংস্থা গুলশানের কিংফিশার রেস্তোরাঁয় যৌথ অভিযান চালায়। অভিযানে রেস্তোরাঁর প্রদর্শনী ও গুদামের পাশাপাশি একটি বিলবোর্ডের আড়ালে লুকানো গোপন কক্ষের সন্ধান মেলে। প্রতিষ্ঠানটি মদ আমদানিকারক হিসেবে নিবন্ধিত ছিল না এবং কোনো বৈধ চালান বা নথি উপস্থাপন করতে ব্যর্থ হয়। কাস্টমস গোয়েন্দা ও তদন্ত অধিদপ্তর জানিয়েছে, শুল্ক ও করসহ জব্দকৃত পণ্যের মোট মূল্য চার কোটি টাকার বেশি।",
-        "details_en": "Acting on a tip-off regarding tax evasion on high-duty imported beverages, four intelligence agencies of the National Board of Revenue conducted a joint raid at Kingfisher restaurant in Gulshan. The operation uncovered a hidden room behind a billboard containing unregistered alcohol and beer. The establishment lacked an import license and failed to produce valid documents for the beverages. According to the Directorate of Customs Intelligence, the total value of the seized items including applicable duties exceeds four crore taka."
+        "details_bn": "ারবাইজানের বাকুতে অনুষ্ঠিত ফিফা অনূর্ধ্ব-১৫ বিশ্বকাপ ও ফেস্টিভ্যালের বাছাইয়ে জি গ্রুপের ম্যাচগুলোতে অংশ নেয় বাংলাদেশ। বুরুন্ডির বিপক্ষে হারের ধাক্কা সামলে টুর্নামেন্টের গ্রুপ পর্বের শেষ ম্যাচে দারুণ কামব্যাক করে ফিজির বিপক্ষে জয় তুলে নেয় বাংলাদেশ দল। ওয়েলসের বিপক্ষে ম্যাচসহ পুরো বাছাইপর্বে দলটির এটি ছিল প্রথম জয়।",
+        "details_en": "Bangladesh competed in Group G of the FIFA Under-15 World Cup and Festival qualifiers held in Baku, Azerbaijan. Recovering from a defeat against Burundi, the team made a strong comeback to defeat Fiji in their final group match. This marked their first victory in the qualifying campaign, which also included matches against Wales."
       }
     }
   ]
