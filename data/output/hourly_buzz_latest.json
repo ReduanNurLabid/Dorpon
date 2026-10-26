@@ -1,178 +1,9 @@
 {
-  "updated_at": "2026-10-26T13:00:48.140762",
+  "updated_at": "2026-10-26T14:00:52.142231",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "440cb5bb-b860-56a3-9bdc-79d8ec17b072",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Flvs3phy2%2FMunshigonjDH071020261026IMG-20261026-WA0047.jpg?rect=0%2C32%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T12:38:09+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.1354,
-      "sources": [
-        {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/bangladesh/district/4kx60xcrhu",
-          "title": "নিজেদের লোককে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে বিএনপি: নাহিদ ইসলাম",
-          "snippet": "নিজেদের লোককে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে বিএনপি: নাহিদ ইসলাম"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নিজস্ব লোক তত্ত্বাবধায়ক সরকারের প্রধান করতে বিএনপি ষড়যন্ত্র করছে বলে নাহিদ ইসলামের অভিযোগ",
-        "title_en": "Nahid Islam Accuses BNP of Plotting to Place Loyalists as Caretaker Chief",
-        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি নিজেদের লোক তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে।",
-        "summary_en": "National Citizen Party convener Nahid Islam accused the BNP of plotting to install its own loyalist as caretaker government head.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:38:09+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেছেন যে বিএনপি নিজেদের লোক তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা করার পাঁয়তারা করছে।",
-        "lead_en": "National Citizen Party convener Nahid Islam accused the BNP of plotting to install its own loyalist as caretaker government head.",
-        "bullets_bn": [
-          "বিএনপি তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা পদে নিজেদের লোক বসানোর পরিকল্পনা করছে বলে এনসিপি আহ্বায়ক নাহিদ ইসলাম অভিযোগ করেন।",
-          "নাহিদ ইসলাম অভিযোগ করেন যে বিএনপি এই কৌশলের মাধ্যমে আগামী নির্বাচন সুষ্ঠু হতে বাধা সৃষ্টি করতে চাইছে।",
-          "তিনি বিএনপিকে এই পরিকল্পনা থেকে সরে এসে র‍্যাঙ্ক চয়েস সিস্টেমের ভিত্তিতে তত্ত্বাবধায়ক সরকার ফর্মুলা বাস্তবায়নের আহ্বান জানান।"
-        ],
-        "bullets_en": [
-          "NCP convener Nahid Islam alleged that the BNP is planning to install its loyalist as the caretaker government head.",
-          "Islam claimed that the BNP is using this strategy to obstruct the fairness of upcoming elections.",
-          "He urged the BNP to abandon this plan and implement a caretaker formula based on the rank-choice system."
-        ],
-        "impact_bn": "নির্বাচন ব্যবস্থা ও রাজনৈতিক স্থিতিশীলতা নিয়ে রাজনৈতিক দলগুলোর এই বিরোধ সাধারণ জনগণের মাঝে নির্বাচন প্রক্রিয়া নিয়ে অনিশ্চয়তা তৈরি করছে।",
-        "impact_en": "Political friction over the caretaker framework creates uncertainty among citizens regarding future election integrity.",
-        "details_bn": "মুন্সিগঞ্জে অনুষ্ঠিত একটি মতবিনিময় সভায় জাতীয় নাগরিক পার্টির আহ্বায়ক নাহিদ ইসলাম দেশের চলমান রাজনৈতিক পরিস্থিতি, সংবিধান সংস্কার এবং নির্বাচন ব্যবস্থা নিয়ে তীব্র সমালোচনা করেন। তিনি বিএনপিকে একদলীয় সংবিধান সংশোধন কমিটি গঠনের জন্য অভিযুক্ত করেন এবং অভিযোগ করেন যে দলটি জুলাই শর্ত লঙ্ঘন করছে। পাশাপাশি তিনি স্থানীয় সরকারের সুষ্ঠু নির্বাচন নিয়ে সন্দেহ প্রকাশ করে নির্বাচন কমিশনে রাজনৈতিক প্রভাবের কথা তুলে ধরেন।",
-        "details_en": "During a view-exchange meeting in Munshiganj, National Citizen Party convener Nahid Islam criticized the political landscape, constitutional reforms, and the electoral framework. He accused the BNP of forming a unilateral constitutional amendment committee and violating July conditions. Furthermore, he expressed skepticism over fair local government elections, citing alleged political influence within the election commission."
-      }
-    },
-    {
-      "story_id": "c96b0bea-8363-5910-a100-2333c21fec03",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2021-10%2F62723491-53d5-495c-b3ec-0a2431d51190%2Fchild_abuse.png?rect=0%2C159%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T12:42:25+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6154,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/mpa5d8ja06",
-          "title": "ঘর থেকে তুলে নিয়ে ১০ বছরের শিশুকে ধর্ষণের অভিযোগ, একজন গ্রেপ্তার",
-          "snippet": "ঘর থেকে তুলে নিয়ে ১০ বছরের শিশুকে ধর্ষণের অভিযোগ, একজন গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কিশোরগঞ্জের নিকলীতে ১০ বছরের শিশুকে ধর্ষণের অভিযোগে প্রতিবেশী গ্রেপ্তার",
-        "title_en": "Neighbor Arrested in Kishoreganj for Alleged Rape of Ten-Year-Old Child",
-        "summary_bn": "কিশোরগঞ্জের নিকলীতে ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী এক মাদ্রাসার ছাত্রীকে ধর্ষণের অভিযোগে এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police arrested a man in Kishoreganj's Nikli for allegedly abducting and raping a ten-year-old madrasa student from her home.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:42:25+00:00",
-        "lead_bn": "কিশোরগঞ্জের নিকলীতে ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী এক মাদ্রাসার ছাত্রীকে ধর্ষণের অভিযোগে এক ব্যক্তিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police arrested a man in Kishoreganj's Nikli for allegedly abducting and raping a ten-year-old madrasa student from her home.",
-        "bullets_bn": [
-          "ঘর থেকে তুলে নিয়ে ১০ বছর বয়সী শিশুকে ধর্ষণের অভিযোগে আঙুর মিয়া নামের এক ব্যক্তিকে আটক করে পুলিশ।",
-          "ভুক্তভোগী শিশুটির মা বাদী হয়ে নিকলী থানায় নারী ও শিশু নির্যাতন দমন আইনে একটি মামলা দায়ের করেন।",
-          "অভিযুক্ত ব্যক্তিকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে এবং ভুক্তভোগী শিশুকে পরীক্ষার জন্য জেলা সদরে পাঠানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Police detained a man named Angur Mia following allegations of abducting and raping a ten-year-old child from her home.",
-          "The victim's mother filed a rape case against the accused at the Nikli police station under the women and children repression prevention act.",
-          "The accused was sent to jail through the court, and the victim was sent to the district headquarters for medical examination."
-        ],
-        "impact_bn": "এই ধরনের জঘন্য অপরাধ শিশুদের নিরাপত্তা ও অভিভাবকদের মধ্যে তীব্র উদ্বেগের সৃষ্টি করে, যা দ্রুত বিচার নিশ্চিত করার দাবি জোরালো করে।",
-        "impact_en": "Such heinous crimes heighten safety concerns among parents and amplify public demands for swift justice and child protection.",
-        "details_bn": "কিশোরগঞ্জ জেলার নিকলী উপজেলায় ঘর থেকে তুলে নিয়ে এক মাদ্রাসার পঞ্চম শ্রেণির ছাত্রীকে ধর্ষণের ঘটনা ঘটে। ঘটনার সময় শিশুটির বাবা হাওরে মাছ ধরতে গিয়েছিলেন এবং মা ঢাকায় অবস্থান করছিলেন। প্রতিবেশী আঙুর মিয়া দরজা খোলার সুযোগ নিয়ে শিশুটিকে তুলে নিয়ে ধর্ষণ করেন। স্থানীয়রা টের পেয়ে অভিযুক্ত ব্যক্তিকে হাতেনাতে ধরে পুলিশের হাতে সোপর্দ করেন। পরে থানা-পুলিশের হস্তক্ষেপে তাকে গ্রেপ্তার দেখিয়ে আদালতে পাঠানো হয়।",
-        "details_en": "The incident took place in Nikli upazila of Kishoreganj district, where a fifth-grade madrasa student was abducted from her home and raped. At the time of the incident, the victim's father was fishing in the haor and her mother was in Dhaka. Neighbor Angur Mia took advantage of the situation after the child opened the door, abducted her, and committed the crime. Locals caught the accused red-handed and handed him over to the police, who subsequently arrested him and sent him to court."
-      }
-    },
-    {
-      "story_id": "cb65936f-19d0-5be5-a4dc-1a8d72428690",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/PM-Tarique-3.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-26T11:54:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.5091,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/prime-minister-seeks-significant-cooperation-from-japan-for-development-and-energy-security/",
-          "title": "উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চান প্রধানমন্ত্রী",
-          "snippet": "উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চান প্রধানমন্ত্রী"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশের উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের বড় সহযোগিতা চাইলেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Seeks Greater Japanese Support for Bangladesh Development and Energy Security",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান বাংলাদেশের উন্নয়ন অগ্রাধিকার বাস্তবায়ন ও জ্বালানি নিরাপত্তা নিশ্চিত করতে জাপানকে সহযোগিতা অব্যাহত রাখার আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman urged Japan to continue its cooperation in implementing Bangladesh development priorities and ensuring energy security.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:54:24+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান বাংলাদেশের উন্নয়ন অগ্রাধিকার বাস্তবায়ন ও জ্বালানি নিরাপত্তা নিশ্চিত করতে জাপানকে সহযোগিতা অব্যাহত রাখার আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman urged Japan to continue its cooperation in implementing Bangladesh development priorities and ensuring energy security.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশের উন্নয়ন ও জ্বালানি নিরাপত্তায় জাপানের সহযোগিতা চেয়েছেন",
-          "বাংলাদেশ-জাপান দক্ষতা উন্নয়ন অংশীদারত্ব গড়ে তোলার পাশাপাশি প্রযুক্তি ও উদ্ভাবন নগরী প্রতিষ্ঠার প্রস্তাব দেওয়া হয়েছে",
-          "চলমান বৃহৎ উন্নয়ন প্রকল্পগুলো নির্ধারিত সময়ের মধ্যে শেষ করার এবং সহজ শর্তে ঋণসহায়তা বাড়ানোর ওপর গুরুত্ব দেওয়া হয়েছে"
-        ],
-        "bullets_en": [
-          "The Prime Minister sought Japanese cooperation for Bangladesh development and energy security during a meeting with the JICA President.",
-          "Proposals were made to establish a Bangladesh-Japan Skills Partnership and a Technological Village and Innovation City.",
-          "Emphasis was placed on completing ongoing major development projects on time and increasing concessional loan assistance."
-        ],
-        "impact_bn": "জাপানি বিনিয়োগ ও কারিগরি সহযোগিতার প্রসারের ফলে দেশে নতুন কর্মসংস্থান সৃষ্টি এবং প্রযুক্তি খাতের বিকাশ ত্বরান্বিত হবে।",
-        "impact_en": "Expansion of Japanese investment and technical cooperation will create new employment opportunities and accelerate tech sector growth.",
-        "details_bn": "জাপান দীর্ঘকাল ধরে বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার হিসেবে অবকাঠামো উন্নয়ন, অর্থায়ন ও কারিগরি সহায়তায় গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে। দুই দেশের এই দ্বিপক্ষীয় অংশীদারত্ব দেশের অর্থনৈতিক অগ্রগতি ও রূপান্তরে বিশেষ অবদান রেখে চলেছে। জাইকার সাথে চলমান বিভিন্ন বৃহৎ প্রকল্প এবং নতুন প্রস্তাবিত প্রযুক্তি নগরী ও দক্ষতা উন্নয়ন কর্মসূচি এই সম্পর্ককে আরও দৃঢ় করবে।",
-        "details_en": "Japan has long been a major development partner of Bangladesh, playing a crucial role in infrastructure development, financing, and technical assistance. This bilateral partnership continues to contribute significantly to the country's economic progress and transformation. Ongoing major projects with JICA and newly proposed initiatives like the tech city and skills program will further strengthen this relationship."
-      }
-    },
-    {
-      "story_id": "2c0edc5f-693c-503f-93f6-9f15fc99860b",
+      "story_id": "1f744d75-0151-5f08-8657-dc8c555f1151",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -184,166 +15,331 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T12:16:02+00:00",
+      "published_at": "2026-10-26T13:28:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2881,
+      "importance_score": 6.6,
+      "rank_score": 1.9525,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/976882/%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE",
-          "title": "খালেদা জিয়ার গাড়িবহরে হামলা: শ্রমিকলীগ নেতা সোহাগের ৩ দিনের রিমান্ড",
-          "snippet": "খালেদা জিয়ার গাড়িবহরে হামলা: শ্রমিকলীগ নেতা সোহাগের ৩ দিনের রিমান্ড"
+          "url": "https://www.banglatribune.com/country/rajshahi/976894/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87",
+          "title": "প্রধানমন্ত্রীর সঙ্গে দেখা করতে বিএনপির এমপির সঙ্গে গেলেন আ.লীগ নেতা, অভিযোগ দলীয় নেতাদের",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে দেখা করতে বিএনপির এমপির সঙ্গে গেলেন আ.লীগ নেতা, অভিযোগ দলীয় নেতাদের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "খালেদা জিয়ার গাড়িবহরে হামলা মামলায় শ্রমিকলীগ নেতা সোহাগ ৩ দিনের রিমান্ডে",
-        "title_en": "Sramik League Leader Sohag Placed on Three-Day Remand in Khaleda Zia Motorcade Attack",
-        "summary_bn": "প্রয়াত প্রধানমন্ত্রী খালেদা জিয়ার গাড়িবহরে হামলার ঘটনায় দায়ের করা মামলায় শ্রমিকলীগ নেতা মাইন হোসেন সোহাগের তিন দিনের রিমান্ড মঞ্জুর করেছেন আদালত।",
-        "summary_en": "A Dhaka court has granted a three-day police remand for Sramik League leader Azmain Hossain Sohag in the Khaleda Zia motorcade attack case.",
+        "title_bn": "রাজশাহীতে বিএনপি সাংসদের বিরুদ্ধে দলীয় নেতাকর্মী হয়রানি ও আওয়ামী লীগ পুনর্বাসনের অভিযোগ",
+        "title_en": "BNP Lawmaker Accused of Harassing Party Activists and Rehabilitating Awami League in Rajshahi",
+        "summary_bn": "রাজশাহী ৫ আসনের বিএনপি সংসদ সদস্যের বিরুদ্ধে নেতাকর্মীদের বহিষ্কার, মিথ্যা মামলা ও সার ডিলার নিয়োগে আওয়ামী লীগ পুনর্বাসনের অভিযোগ উঠেছে।",
+        "summary_en": "The BNP lawmaker from Rajshahi 5 faces allegations of expelling activists, filing false cases, and rehabilitating Awami League members.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:16:02+00:00",
-        "lead_bn": "প্রয়াত প্রধানমন্ত্রী খালেদা জিয়ার গাড়িবহরে হামলার ঘটনায় দায়ের করা মামলায় শ্রমিকলীগ নেতা মাইন হোসেন সোহাগের তিন দিনের রিমান্ড মঞ্জুর করেছেন আদালত।",
-        "lead_en": "A Dhaka court has granted a three-day police remand for Sramik League leader Azmain Hossain Sohag in the Khaleda Zia motorcade attack case.",
+        "published_at": "2026-10-26T13:28:02+00:00",
+        "lead_bn": "রাজশাহী ৫ আসনের বিএনপি সংসদ সদস্যের বিরুদ্ধে নেতাকর্মীদের বহিষ্কার, মিথ্যা মামলা ও সার ডিলার নিয়োগে আওয়ামী লীগ পুনর্বাসনের অভিযোগ উঠেছে।",
+        "lead_en": "The BNP lawmaker from Rajshahi 5 faces allegations of expelling activists, filing false cases, and rehabilitating Awami League members.",
         "bullets_bn": [
-          "তদন্ত কর্মকর্তা আসামির ১০ দিনের রিমান্ড আবেদন করলে আদালত তিন দিনের রিমান্ড মঞ্জুর করেন।",
-          "ঢাকার মেট্রোপলিটন ম্যাজিস্ট্রেট সারাহ্ ফারজানা হক এই শুনানি ও আদেশ প্রদান করেন।",
-          "তেজগাঁও থানা পুলিশ এই মামলার পরবর্তী আইনগত তদন্ত পরিচালনা করছে।"
+          "স্থানীয় বিএনপি নেতাকর্মীরা রাজশাহী নগরের একটি রেস্তোরাঁয় আয়োজিত সংবাদ সম্মেলনে সাংসদের বিরুদ্ধে বিভিন্ন অনিয়মের অভিযোগ তোলেন।",
+          "সাংসদ নজরুল ইসলাম মণ্ডলের বিরুদ্ধে নেতাকর্মীদের মিথ্যা মামলা দিয়ে হয়রানি এবং সারের ডিলার নিয়োগে বিরোধীপক্ষকে পুনর্বাসনের সুনির্দিষ্ট অভিযোগ আনা হয়েছে।",
+          "ভুক্তভোগী নেতাকর্মীরা অবিলম্বে এসব অভিযোগের নিরপেক্ষ তদন্ত এবং পুঠিয়া থানার কার্যক্রম পর্যালোচনার দাবি জানিয়েছেন।"
         ],
         "bullets_en": [
-          "The investigating officer presented the accused before the court seeking a ten-day remand.",
-          "Dhaka Metropolitan Magistrate Sarah Farzana Huq presided over the hearing and issued the order.",
-          "Tejgaon police station is currently handling the ongoing legal investigation of the case."
+          "Local BNP activists raised various allegations against the lawmaker during a press conference at a restaurant in Rajshahi city.",
+          "Specific accusations include harassing party members with false cases and rehabilitating opposition figures through fertilizer dealer appointments.",
+          "Victrieved activists demanded an immediate impartial investigation into these allegations and a review of Puthia police station activities."
         ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির উন্নয়ন এবং বিচার প্রক্রিয়ার গতিশীলতা নিশ্চিতকরণে এ ধরনের আইনি পদক্ষেপ নাগরিকদের মাঝে স্বস্তি আনে।",
-        "impact_en": "Such judicial actions reinforce accountability and legal processes for violent political incidents.",
-        "details_bn": "বাংলাদেশের রাজনীতিতে বিভিন্ন সময় রাজনৈতিক সংঘাত ও হামলার ঘটনা ঘটেছে। সাবেক প্রধানমন্ত্রী ও বিএনপি চেয়ারপারসন খালেদা জিয়ার গাড়িবহরে হামলার এই মামলাটি দীর্ঘদিন ধরে তদন্তাধীন রয়েছে। মামলার তদন্তকারী কর্মকর্তা ঘটনার সাথে জড়িত অন্যান্য আসামিদের শনাক্ত করতে এবং মূল রহস্য উদঘাটনে রিমান্ড আবেদন করেন। আদালতের এই আদেশের ফলে ঘটনার নেপথ্য তথ্য বেরিয়ে আসবে বলে আশা করা হচ্ছে।",
-        "details_en": "Political confrontations and attacks on motorcades have historically marked periods of unrest in Bangladesh. The case involving the attack on the motorcade of former Prime Minister and BNP Chairperson Khaleda Zia has been under investigation. Investigators sought custody to uncover further details regarding the incident and identify other potential perpetrators involved in the attack."
+        "impact_bn": "স্থানীয় রাজনৈতিক কোন্দল ও প্রশাসনিক ক্ষমতার অপব্যবহার সাধারণ জনগণের দৈনন্দিন সেবা প্রাপ্তি ব্যাহত করতে পারে।",
+        "impact_en": "Local political friction and misuse of administrative power can disrupt daily public service delivery for ordinary citizens.",
+        "details_bn": "রাজশাহী ৫ পুঠিয়া দুর্গাপুর আসনের স্থানীয় রাজনীতিতে দীর্ঘদিন ধরেই অভ্যন্তরীণ কোন্দল চলে আসছে। দলীয় শৃঙ্খলা ভঙ্গ এবং স্থানীয় প্রশাসনকে ব্যবহার করে প্রতিপক্ষকে দমনের অভিযোগ তুলেছেন তৃণমূলের নেতাকর্মীরা। এ ধরনের ঘটনা স্থানীয় পর্যায়ে দলের ভাবমূর্তি ক্ষুণ্ন করার পাশাপাশি প্রশাসনিক কার্যক্রমে প্রভাব ফেলছে বলে মনে করছেন রাজনৈতিক বিশ্লেষকরা।",
+        "details_en": "Internal feuds have persisted in the local politics of the Rajshahi 5 Puthia Durgapur constituency for a long time. Grassroots activists have accused leadership of violating party discipline and using the local administration to suppress opponents. Political analysts note that such incidents damage the party image locally and impact administrative functions."
       }
     },
     {
-      "story_id": "6ee796c6-5c76-5dc7-b43e-8c24a2de7244",
+      "story_id": "527ccb1e-962c-590e-9e25-d6266d61b61e",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T13:57:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8804,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976906/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97%E0%A7%87%E0%A6%B0",
+          "title": "অভিযোগ নিষ্পত্তি না হওয়া পর্যন্ত সার ডিলার নিয়োগের চুক্তি স্থগিত রাখার সুপারিশ",
+          "snippet": "অভিযোগ নিষ্পত্তি না হওয়া পর্যন্ত সার ডিলার নিয়োগের চুক্তি স্থগিত রাখার সুপারিশ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সার ডিলার নিয়োগে অনিয়মের অভিযোগে চুক্তি স্থগিতের সুপারিশ সংসদীয় কমিটির",
+        "title_en": "Parliamentary Committee Recommends Suspending Fertilizer Dealer Agreements Over Irregularities",
+        "summary_bn": "কৃষি মন্ত্রণালয় সম্পর্কিত সংসদীয় স্থায়ী কমিটি অনিয়মের অভিযোগ নিষ্পত্তি না হওয়া পর্যন্ত সার ডিলার নিয়োগের চুক্তি স্থগিত রাখার সুপারিশ করেছে।",
+        "summary_en": "The parliamentary standing committee on the agriculture ministry recommended suspending fertilizer dealer agreements until complaints are resolved.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T13:57:47+00:00",
+        "lead_bn": "কৃষি মন্ত্রণালয় সম্পর্কিত সংসদীয় স্থায়ী কমিটি অনিয়মের অভিযোগ নিষ্পত্তি না হওয়া পর্যন্ত সার ডিলার নিয়োগের চুক্তি স্থগিত রাখার সুপারিশ করেছে।",
+        "lead_en": "The parliamentary standing committee on the agriculture ministry recommended suspending fertilizer dealer agreements until complaints are resolved.",
+        "bullets_bn": [
+          "সার ডিলার নিয়োগে অনিয়মের অভিযোগ তদন্ত করে ব্যবস্থা নেওয়ার সুপারিশ করেছে সংসদীয় কমিটি।",
+          "যেসব এলাকায় ডিলার নিয়োগের অভিযোগ উঠেছে, চুক্তি না হয়ে থাকলে তা স্থগিত রাখতে বলা হয়েছে।",
+          "ইতিমধ্যে সম্পাদিত চুক্তিগুলোর অভিযোগ দ্রুত তদন্ত করে প্রয়োজনীয় ব্যবস্থা নেওয়া হবে।"
+        ],
+        "bullets_en": [
+          "The parliamentary committee recommended investigating irregularities in fertilizer dealer appointments.",
+          "Authorities were instructed to halt pending dealership contracts in areas where complaints arose.",
+          "Already executed contracts facing allegations will undergo formal investigation and subsequent action."
+        ],
+        "impact_bn": "কৃষকদের মাঝে সময়মতো সার সরবরাহ নিশ্চিত করতে এবং ডিলার নিয়োগে দুর্নীতি রোধে এই পদক্ষেপ সহায়ক হবে।",
+        "impact_en": "This measure will help ensure timely fertilizer supply to farmers and curb corruption in dealer appointments.",
+        "details_bn": "দেশে সার বিতরণ ব্যবস্থাপনা আরও স্বচ্ছ ও জবাবদিহিমূলক করতে দীর্ঘদিন ধরে বিভিন্ন মহলে দাবি জানিয়ে আসা হচ্ছিল। এর অংশ হিসেবে কৃষি মন্ত্রণালয় সম্পর্কিত সংসদীয় স্থায়ী কমিটি সার ডিলার নিয়োগ প্রক্রিয়া খতিয়ে দেখে। নিয়োগে অনিয়ম ও অসংগতির সুনির্দিষ্ট অভিযোগ পাওয়ার পর কমিটির পক্ষ থেকে এই কড়া পদক্ষেপের সুপারিশ করা হয়, যা মাঠপর্যায়ে সারের সরবরাহ স্বাভাবিক রাখতে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "details_en": "Concerns regarding transparency in fertilizer distribution management prompted the parliamentary standing committee to review the dealer appointment process. Following specific complaints of irregularities, the committee recommended halting pending contracts and probing existing ones to ensure fair distribution for farmers nationwide."
+      }
+    },
+    {
+      "story_id": "667e19df-deba-5b29-83b2-6cc394e5dc2a",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T13:50:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7479,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172270",
+          "title": "সংঘাতের বিস্তার রোধে তেহরানে সৌদি-পাকিস্তান-তুরস্কের বৈঠক",
+          "snippet": "সংঘাতের বিস্তার রোধে তেহরানে সৌদি-পাকিস্তান-তুরস্কের বৈঠক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তেহরানে সৌদি আরব, পাকিস্তান ও তুরস্কের উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত",
+        "title_en": "Saudi Arabia, Pakistan and Turkey Hold High-Level Meeting in Tehran",
+        "summary_bn": "মধ্যপ্রাচ্যে চলমান আঞ্চলিক উত্তেজনা কমানো এবং সংকট নিরসনে তেহরানে বৈঠক করেছে সৌদি আরব, পাকিস্তান ও তুরস্ক।",
+        "summary_en": "Saudi Arabia, Pakistan and Turkey held a high-level meeting in Tehran to de-escalate ongoing regional tensions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T13:50:39+00:00",
+        "lead_bn": "মধ্যপ্রাচ্যে চলমান আঞ্চলিক উত্তেজনা কমানো এবং সংকট নিরসনে তেহরানে বৈঠক করেছে সৌদি আরব, পাকিস্তান ও তুরস্ক।",
+        "lead_en": "Saudi Arabia, Pakistan and Turkey held a high-level meeting in Tehran to de-escalate ongoing regional tensions.",
+        "bullets_bn": [
+          "মধ্যপ্রাচ্যের সংঘাতের বিস্তার রোধে এবং পারস্পরিক সহযোগিতা বাড়াতে তেহরানে মিলিত হন তিন দেশের প্রতিনিধিরা।",
+          "আঞ্চলিক উত্তেজনা কমানো, আলোচনার পথ তৈরি এবং সংকট অবসানের লক্ষ্যেই এ বৈঠক আহ্বান করা হয়।",
+          "বৈঠক শেষে মধ্যপ্রাচ্যে শান্তি ও স্থিতিশীলতা ফিরিয়ে আনতে যৌথ কূটনৈতিক প্রচেষ্টা অব্যাহত রাখার সিদ্ধান্ত হয়।"
+        ],
+        "bullets_en": [
+          "Representatives of the three nations met in Tehran to prevent the spread of Middle Eastern conflicts.",
+          "The meeting was convened to reduce regional tensions, open dialogue pathways, and end the crisis.",
+          "Participants agreed to continue joint diplomatic efforts to restore peace and stability in the Middle East."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যে ক্রমবর্ধমান সামরিক উত্তেজনার প্রেক্ষাপটে কূটনৈতিক তৎপরতা জোরদার করেছে আঞ্চলিক শক্তিগুলো। সংঘাতের বিস্তার ঠেকাতে এবং কূটনৈতিক সমাধানের পথ খুঁজে বের করতে সৌদি আরব, পাকিস্তান ও তুরস্কের এই ত্রিপক্ষীয় বৈঠক অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন আন্তর্জাতিক বিশ্লেষকরা।",
+        "details_en": "In the wake of escalating military tensions in the Middle East, regional powers have intensified diplomatic efforts. International analysts consider this trilateral meeting between Saudi Arabia, Pakistan, and Turkey highly significant in curbing the spread of conflict and finding a diplomatic resolution."
+      }
+    },
+    {
+      "story_id": "61060869-2eb8-5411-8fac-e570b47d5881",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Minister-Ariful.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-26T13:37:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5372,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/expatriates-will-be-allowed-to-enter-saudi-arabia-even-if-their-residency-permits-iqamas-have-expired-expatriate-welfare-minister/",
+          "title": "আকামার মেয়াদ শেষ হলেও সৌদিতে প্রবেশের সুযোগ পাবেন প্রবাসীরা: প্রবাসী কল্যাণ মন্ত্রী",
+          "snippet": "আকামার মেয়াদ শেষ হলেও সৌদিতে প্রবেশের সুযোগ পাবেন প্রবাসীরা: প্রবাসী কল্যাণ মন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আকামার মেয়াদ শেষ হলেও সৌদি প্রবাসীরা পুনরায় দেশটিতে প্রবেশের সুযোগ পাবেন",
+        "title_en": "Expatriates with expired Iqama can re-enter Saudi Arabia",
+        "summary_bn": "ফ্লাইট বিপর্যয়ের কারণে আকামার মেয়াদোত্তীর্ণ হওয়া বাংলাদেশি কর্মীরা পুনরায় সৌদি আরবে প্রবেশের সুযোগ পাবেন বলে জানিয়েছে প্রবাসী কল্যাণ মন্ত্রণালয়।",
+        "summary_en": "Bangla expatriates whose Iqamas expired due to flight disruptions will get the opportunity to re-enter Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T13:37:06+00:00",
+        "lead_bn": "ফ্লাইট বিপর্যয়ের কারণে আকামার মেয়াদোত্তীর্ণ হওয়া বাংলাদেশি কর্মীরা পুনরায় সৌদি আরবে প্রবেশের সুযোগ পাবেন বলে জানিয়েছে প্রবাসী কল্যাণ মন্ত্রণালয়।",
+        "lead_en": "Bangla expatriates whose Iqamas expired due to flight disruptions will get the opportunity to re-enter Saudi Arabia.",
+        "bullets_bn": [
+          "যুদ্ধজনিত ফ্লাইট বিপর্যয়ে নির্ধারিত সময়ে পৌঁছাতে না পেরে আকামার মেয়াদ শেষ হওয়া কর্মীরা সৌদি আরবে প্রবেশের সুযোগ পাবেন।",
+          "সংশ্লিষ্ট কর্মীরা সৌদি আরব পৌঁছালে ইলেকট্রনিক সিস্টেমে স্বয়ংক্রিয়ভাবে তাদের এন্ট্রি সম্পন্ন হবে বলে জানিয়েছেন মন্ত্রী আরিফুল হক চৌধুরী।",
+          "অভিবাসন ব্যয় কমাতে এবং তিন লাখ টাকার বেশি না নেওয়ার জন্য রিক্রুটিং এজেন্সিগুলোকে আহ্বান জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Workers whose Iqamas expired due to war-related flight disruptions will be allowed to enter Saudi Arabia.",
+          "Expatriates will complete automated entry through the electronic system upon reaching Saudi Arabia, stated Minister Ariful Haque Choudhury.",
+          "Recruiting agencies have been urged to reduce migration costs and keep expenses within three lakh takas."
+        ],
+        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা আকামার মেয়াদ শেষ হওয়ার শঙ্কা কাটিয়ে স্বস্তিতে কর্মস্থলে যোগ দিতে পারবেন।",
+        "impact_en": "Migrant workers bound for Saudi Arabia can return to their workplaces without anxiety over expired Iqamas.",
+        "details_bn": "যুদ্ধ পরিস্থিতির কারণে সৃষ্ট ফ্লাইট বিপর্যয়ের ফলে নির্ধারিত সময়ে সৌদি আরবে পৌঁছাতে ব্যর্থ হন অনেক বাংলাদেশি কর্মী। এর ফলে তাদের আকামার মেয়াদ শেষ হয়ে যাওয়ায় বৈধতা নিয়ে অনিশ্চয়তা তৈরি হয়েছিল। এই সংকট নিরসনে প্রবাসী কল্যাণ ও বৈদেশিক কর্মসংস্থান মন্ত্রণালয় কূটনৈতিক পদক্ষেপ নেয় এবং সংশ্লিষ্ট কর্মীদের পুনরায় দেশটিতে প্রবেশের বিশেষ সুবিধার ব্যবস্থা করে।",
+        "details_en": "Flight disruptions caused by ongoing conflicts prevented many Bangladeshi workers from reaching Saudi Arabia on schedule. Consequently, the expiration of their Iqamas created uncertainty regarding their legal status. To resolve this crisis, the Ministry of Expatriates' Welfare and Overseas Employment took diplomatic initiatives to secure re-entry facilities for the affected workers."
+      }
+    },
+    {
+      "story_id": "6571f7c4-fb6d-53d6-a06b-b5542d814a02",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
       "region": "international",
       "tags": [
-        "#IndiaChina",
-        "#BorderTensions"
+        "#Germany",
+        "#GlobalTrade"
       ],
-      "image_url": "https://static.dw.com/image/79758964_6.jpg",
+      "image_url": "https://static.dw.com/image/79764199_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T13:00:48.140770+00:00",
+      "published_at": "2026-10-26T14:00:52.142240+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
       "rank_score": 0.6883,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Remark on Modi's father stirs political row",
-          "snippet": "India news: Remark on Modi's father stirs political row"
+          "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-rdf",
+          "title": "Germany's Merz heads to Asia as security issues loom large",
+          "snippet": "Germany's Merz heads to Asia as security issues loom large"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারত-চীন সীমান্ত টহল নিয়ে বেইজিংয়ের স্বাভাবিক কার্যক্রম দাবি",
-        "title_en": "China Defends Border Patrols Amid Tensions With India",
-        "summary_bn": "অরুণাচল প্রদেশ সীমান্তে নিজেদের সীমান্ত টহল কার্যক্রমকে স্বাভাবিক বলে দাবি করেছে চীনের পররাষ্ট্র মন্ত্রণালয়।",
-        "summary_en": "China's Foreign Ministry defended its border patrol activities along the Arunachal Pradesh frontier as normal routine operations.",
+        "title_bn": "এশীয় দেশগুলোতে পাঁচ দিনের সফরে গেছেন জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্জ",
+        "title_en": "German Chancellor Friedrich Merz Begins Five Day Tour of Asia",
+        "summary_bn": "ভূরাজনৈতিক অস্থিরতা ও বৈশ্বিক সরবরাহ চেইন রক্ষা করতে এশিয়া সফরে গেছেন জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্জ।",
+        "summary_en": "German Chancellor Friedrich Merz embarked on a five-day tour of Asia to strengthen economic and security ties amid geopolitical instability.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T13:00:48.140770+00:00",
-        "lead_bn": "অরুণাচল প্রদেশ সীমান্তে নিজেদের সীমান্ত টহল কার্যক্রমকে স্বাভাবিক বলে দাবি করেছে চীনের পররাষ্ট্র মন্ত্রণালয়।",
-        "lead_en": "China's Foreign Ministry defended its border patrol activities along the Arunachal Pradesh frontier as normal routine operations.",
+        "published_at": "2026-10-26T14:00:52.142240+00:00",
+        "lead_bn": "ভূরাজনৈতিক অস্থিরতা ও বৈশ্বিক সরবরাহ চেইন রক্ষা করতে এশিয়া সফরে গেছেন জার্মানির চ্যান্সেলর ফ্রিডরিখ মের্জ।",
+        "lead_en": "German Chancellor Friedrich Merz embarked on a five-day tour of Asia to strengthen economic and security ties amid geopolitical instability.",
         "bullets_bn": [
-          "চীন দাবি করেছে যে তারা ভারত সীমান্তের কাছে সমস্ত প্রাসঙ্গিক চুক্তি কঠোরভাবে মেনে স্বাভাবিক টহল পরিচালনা করছে।",
-          "ভারতের পররাষ্ট্র মন্ত্রণালয় চীনা বাহিনীর ভুল হিসাবের কারণে সীমান্ত পরিস্থিতি ব্যাহত হওয়ার অভিযোগ তুলেছে।",
-          "উভয় দেশই উত্তেজনা কমাতে কূটনৈতিক ও সামরিক চ্যানেলের মাধ্যমে নিয়মিত যোগাযোগ বজায় রাখছে।"
+          "বাণিজ্য ও নিরাপত্তা সম্পর্ক জোরদার করতে সিঙ্গাপুর, জাপান এবং দক্ষিণ কোরিয়া সফর শুরু করেছেন জার্মান চ্যান্সেলর।",
+          "এই সফরে জার্মানির শিল্প, প্রযুক্তি, প্রতিরক্ষা এবং জ্বালানি খাতের ৩০ জন শীর্ষ ব্যবসায়ী প্রতিনিধি অংশ নিচ্ছেন।",
+          "সিঙ্গাপুরে বৈদেশিক নীতি বিষয়ক ভাষণ দেওয়ার পর জাপানে প্রধানমন্ত্রী সানায়ে তাকাইচির সাথে বৈঠক করবেন জার্মান চ্যান্সেলর।"
         ],
         "bullets_en": [
-          "China stated it strictly abides by relevant bilateral agreements while conducting routine border patrols.",
-          "India's Foreign Ministry blamed Chinese forces for miscalculations that disrupt the Line of Actual Control.",
-          "Both nuclear-armed neighbors continue maintaining communication through diplomatic and military channels."
-        ],
-        "impact_bn": "সীমান্তে সামরিক উত্তেজনা বৃদ্ধি পেলে দুই দেশের সীমান্তবর্তী অঞ্চলে বসবাসকারী সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হতে পারে।",
-        "impact_en": "Escalating border tensions could raise security concerns for communities residing near the frontier.",
-        "details_bn": "ভারত ও চীনের মধ্যে দীর্ঘকাল ধরে অরুণাচল প্রদেশ সংলগ্ন সীমান্ত এলাকায় নিরাপত্তা নিয়ে মতপার্থক্য রয়েছে। এর আগে ভারতীয় সীমান্ত পুলিশ প্রধান জানান যে বিভিন্ন পয়েন্টে সেনা মুখোমুখি অবস্থান অব্যাহত রয়েছে। দুই দেশ সামরিক ও কূটনৈতিক পর্যায়ে একাধিক আলোচনা চালালেও দীর্ঘমেয়ায়ী শান্তি প্রতিষ্ঠা এখনও একটি বড় চ্যালেঞ্জ হিসেবে রয়ে গেছে।",
-        "details_en": "India and China have experienced persistent border frictions along the Line of Actual Control, particularly in Arunachal Pradesh. Despite numerous rounds of military and diplomatic talks aimed at resolving disputes, face-offs between troops continue to challenge the maintenance of long-term peace in the region."
-      }
-    },
-    {
-      "story_id": "ebb8490e-1ff7-5271-9dd9-f2123024d8c1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "climate_environment",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#UKPolitics",
-        "#Brexit"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/9101b7d3ce50d4f8e23d844f2aae5d321100834c/380_25_885_708/master/885.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=25f2738c34036f23ecf26d2f0f3c1cbd",
-      "image_caption": null,
-      "published_at": "2026-10-26T12:46:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5947,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-          "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
-          "snippet": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যের ভবিষ্যৎ ইইউতে প্রত্যাবর্তন দেখতে চান অ্যান্ডি বার্নহাম",
-        "title_en": "Andy Burnham Says He Personally Wants UK to Rejoin EU",
-        "summary_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী সম্পর্ক পুনর্মূল্যায়নের পক্ষে মত দিয়ে নিজের জীবদ্দশায় দেশটির ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার ইচ্ছা প্রকাশ করেছেন অ্যান্ডি বার্নহাম।",
-        "summary_en": "Andy Burnham expressed a personal desire for the UK to eventually rejoin the EU while emphasizing that the British public ultimately decides.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "climate_environment",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T12:46:29+00:00",
-        "lead_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী সম্পর্ক পুনর্মূল্যায়নের পক্ষে মত দিয়ে নিজের জীবদ্দশায় দেশটির ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার ইচ্ছা প্রকাশ করেছেন অ্যান্ডি বার্নহাম।",
-        "lead_en": "Andy Burnham expressed a personal desire for the UK to eventually rejoin the EU while emphasizing that the British public ultimately decides.",
-        "bullets_bn": [
-          "নিজের জীবদ্দশায় যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নে দেখতে চাওয়ার ব্যক্তিগত ইচ্ছার কথা জানান অ্যান্ডি বার্নহাম।",
-          "ব্রিটিশ জনসাধারণই এই বিষয়ে চূড়ান্ত সিদ্ধান্ত নেওয়ার অধিকারী বলে মন্তব্য করেন তিনি।",
-          "বর্তমান ব্রেক্সিট চুক্তি কার্যকরভাবে কাজ করছে না দাবি করে সম্পর্ক পুনর্বিবেচনার প্রস্তাব দেন তিনি।"
-        ],
-        "bullets_en": [
-          "Andy Burnham stated he personally wants to see the UK rejoin the European Union in his lifetime.",
-          "He emphasized that the British public must remain the bosses and dictate the path forward.",
-          "He argued that the current post-Brexit settlement is failing and requires a revised relationship."
+          "German Chancellor Friedrich Merz launched a five-day diplomatic tour across Singapore, Japan, and South Korea.",
+          "The delegation includes thirty senior business leaders representing Germany's industrial, tech, defense, and energy sectors.",
+          "Merz will deliver a major foreign policy speech in Singapore and meet Japanese leaders to discuss bilateral trade and security."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাজ্যের রাজনীতিতে ব্রেক্সিট পরবর্তী অর্থনৈতিক ও বাণিজ্যিক সম্পর্ক নিয়ে নতুন করে বিতর্ক শুরু হয়েছে। বিরোধী দল এবং ক্ষমতাসীন দলের অভ্যন্তরেও বর্তমান বাণিজ্য চুক্তির সীমাবদ্ধতা নিয়ে প্রশ্ন উঠছে। অ্যান্ডি বার্নহাম এর আগে দলীয় সম্মেলনে ব্রেক্সিট চুক্তির পুনর্বিন্যাসের পক্ষে মত দিয়েছিলেন, যার মাধ্যমে ইইউর অবাধ চলাচল নীতি মেনে নেওয়ার সম্ভাবনা তৈরি হয়।",
-        "details_en": "The debate over post-Brexit trade and economic ties remains a central issue in UK politics. Opposition figures and some Labour members have increasingly scrutinized the current settlement, arguing that the existing trade arrangement fails to deliver sufficient economic growth, prompting calls to re-evaluate the country's relationship with the European Union."
+        "details_bn": "বিশ্বজুড়ে চলমান ভূরাজনৈতিক অস্থিরতা এবং বৈশ্বিক সরবরাহ চেইনে অনিশ্চয়তার প্রেক্ষাপটে এশিয়া অঞ্চলের সাথে সম্পর্ক জোরদার করার উদ্যোগ নিয়েছে বার্লিন। এর অংশ হিসেবে জার্মান চ্যান্সেলর ফ্রিডরিখ মের্জ ব্যবসায়িক প্রতিনিধিদল নিয়ে এশিয়া সফর করছেন। একই সময়ে জার্মানির প্রেসিডেন্ট ফ্রাঙ্ক-ভাল্টার স্টাইনমায়ার চীন সফর করছেন, যা বৈশ্বিক বাণিজ্যে জার্মানির কূটনৈতিক তৎপরতা বৃদ্ধির ইঙ্গিত দেয়।",
+        "details_en": "Berlin has increased its diplomatic outreach to Asia to navigate global supply chain disruptions and geopolitical uncertainties. Chancellor Friedrich Merz is leading a large business delegation to Singapore, Japan, and South Korea to secure trade and security partnerships. Concurrently, German President Frank-Walter Steinmeier is visiting China, underscoring a broader push by Berlin to solidify its strategic and economic footprint in the region."
+      }
+    },
+    {
+      "story_id": "e383a02e-43da-51d6-9cb7-a0f7a193a694",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Anthropic",
+        "#ArtificialIntelligence",
+        "#StockMarket",
+        "#Nasdaq"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-26T13:58:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6722,
+      "sources": [
+        {
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+          "snippet": "AI giant Anthropic unveils plans for blockbuster share listing"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক শেয়ার বাজারে তালিকাভুক্তির পরিকল্পনা প্রকাশ করেছে",
+        "title_en": "AI Firm Anthropic Unveils Plans for Historic Stock Market Listing",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক ইতিহাসের সবচেয়ে বড় শেয়ার বাজার আত্মপ্রকাশের প্রস্তুতির অংশ হিসেবে ব্যবসা সংক্রান্ত বিবরণ প্রকাশ করেছে।",
+        "summary_en": "Artificial intelligence firm Anthropic has revealed business details ahead of its plans for a historic stock market debut.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T13:58:40+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠান অ্যানথ্রপিক ইতিহাসের সবচেয়ে বড় শেয়ার বাজার আত্মপ্রকাশের প্রস্তুতির অংশ হিসেবে ব্যবসা সংক্রান্ত বিবরণ প্রকাশ করেছে।",
+        "lead_en": "Artificial intelligence firm Anthropic has revealed business details ahead of its plans for a historic stock market debut.",
+        "bullets_bn": [
+          "অ্যানথ্রপিক ন্যাসড্যাক এক্সচেঞ্জে এএনটি প্রতীকের অধীনে শেয়ার বাজারে তালিকাভুক্ত হওয়ার ঘোষণা দিয়েছে।",
+          "প্রতিষ্ঠানটি বছরের প্রথমার্ধে ১৬ দশমিক ৩ বিলিয়ন ডলার আয়ের বিপরীতে ৮০ দশমিক ৭ বিলিয়ন ডলারের বেশি ক্ষতির কথা জানিয়েছে।",
+          "শেয়ারের চূড়ান্ত সংখ্যা এবং মূল্যসীমা পরবর্তীতে নির্ধারণ করা হবে বলে জানিয়েছে কোম্পানিটি।"
+        ],
+        "bullets_en": [
+          "Anthropic announced plans to list on the Nasdaq exchange under the ticker symbol ANT.",
+          "The firm reported revenue of $16.3 billion alongside losses exceeding $80.7 billion in the first half of the year.",
+          "The final number of shares to be released and their specific price range are yet to be determined."
+        ],
+        "impact_bn": "প্রযুক্তি বাজারে এই বিশাল বিনিয়োগ সাধারণ ব্যবহারকারীদের জন্য কৃত্রিম বুদ্ধিমত্তা সেবার পরিধি ও গুণগত মানে বড় পরিবর্তন আনতে পারে।",
+        "impact_en": "This massive public listing will test investor confidence and shape the future development and accessibility of artificial intelligence technologies globally.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা চ্যাটবট ক্লডের নির্মাতা প্রতিষ্ঠান অ্যানথ্রপিক প্রযুক্তি খাতে বড় বিনিয়োগের ঘোষণা দিয়েছে। দ্রুত পরিবর্তনশীল প্রযুক্তি বাজারে টিকে থাকতে এবং প্রতিযোগিতা বজায় রাখতে কোম্পানিটি বড় অংকের ঝুঁকি নিতে প্রস্তুত বলে জানিয়েছে। এই আইপিও সফল হলে তা প্রযুক্তি খাতের ইতিহাসে অন্যতম বড় শেয়ার বাজার আত্মপ্রকাশ হিসেবে রেকর্ড গড়বে।",
+        "details_en": "Anthropic, the creator of AI chatbot Claude, is preparing for what could be the largest stock market debut in history. The company defends its heavy financial losses by emphasizing the need for aggressive, forward-looking investments to capture emerging opportunities in the fast-paced tech sector. This listing marks a major milestone as the first pure-play artificial intelligence firm to go public."
       }
     }
   ]
