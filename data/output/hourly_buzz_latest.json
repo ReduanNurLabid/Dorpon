@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26T12:00:49.022020",
+  "updated_at": "2026-10-26T12:12:02.236672",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "a02d8000-6556-51e8-8b4b-decd04dd8334",
+      "story_id": "a8e3fd5d-e0ed-55a7-baba-b2765ac15e46",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -15,50 +15,107 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T11:25:16+00:00",
+      "published_at": "2026-10-26T12:03:56+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.6019,
+      "importance_score": 6.6,
+      "rank_score": 2.4566,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976867/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95-%E0%A6%B0%E0%A6%B9%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A6%A8%E0%A7%87",
-          "title": "প্রধানমন্ত্রী তারেক রহমানকে প্রতিরক্ষা সম্মেলনে আমন্ত্রণ আমিরাতের ক্রাউন প্রিন্সের",
-          "snippet": "প্রধানমন্ত্রী তারেক রহমানকে প্রতিরক্ষা সম্মেলনে আমন্ত্রণ আমিরাতের ক্রাউন প্রিন্সের"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172210",
+          "title": "যুক্তরাজ্যকে ফের ইইউতে দেখতে চাই: ব্রিটিশ প্রধানমন্ত্রী",
+          "snippet": "যুক্তরাজ্যকে ফের ইইউতে দেখতে চাই: ব্রিটিশ প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সংযুক্ত আরব আমিরাতের প্রতিরক্ষা সম্মেলনে অংশ নেওয়ার আমন্ত্রণ প্রধানমন্ত্রী তারেক রহমানকে",
-        "title_en": "UAE invites Prime Minister Tarique Rahman to attend its upcoming defense exhibition",
-        "summary_bn": "সংযুক্ত আরব আমিরাতের ক্রাউন প্রিন্স প্রধানমন্ত্রী তারেক রহমানকে আইডিইএক্স ২০২৭ প্রতিরক্ষা সম্মেলনে অংশগ্রহণের আনুষ্ঠানিকভাবে আমন্ত্রণ জানিয়েছেন।",
-        "summary_en": "The UAE Crown Prince has formally invited Prime Minister Tarique Rahman to attend the IDEX 2027 defense exhibition.",
+        "title_bn": "যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে দেখতে চান ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম",
+        "title_en": "British Politician Andy Burnham Expresses Desire for UK Rejoining EU",
+        "summary_bn": "ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার পক্ষে তার অবস্থান ব্যক্ত করেছেন।",
+        "summary_en": "British politician Andy Burnham has stated his desire to see the United Kingdom rejoin the European Union.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:25:16+00:00",
-        "lead_bn": "সংযুক্ত আরব আমিরাতের ক্রাউন প্রিন্স প্রধানমন্ত্রী তারেক রহমানকে আইডিইএক্স ২০২৭ প্রতিরক্ষা সম্মেলনে অংশগ্রহণের আনুষ্ঠানিকভাবে আমন্ত্রণ জানিয়েছেন।",
-        "lead_en": "The UAE Crown Prince has formally invited Prime Minister Tarique Rahman to attend the IDEX 2027 defense exhibition.",
+        "published_at": "2026-10-26T12:03:56+00:00",
+        "lead_bn": "ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম যুক্তরাজ্যকে আবার ইউরোপীয় ইউনিয়নে ফিরে যাওয়ার পক্ষে তার অবস্থান ব্যক্ত করেছেন।",
+        "lead_en": "British politician Andy Burnham has stated his desire to see the United Kingdom rejoin the European Union.",
         "bullets_bn": [
-          "সংযুক্ত আরব আমিরাতের উপ-প্রধানমন্ত্রী ও প্রতিরক্ষামন্ত্রী প্রধানমন্ত্রী তারেক রহমানকে এই সম্মেলনে অংশ নেওয়ার আমন্ত্রণ জানান।",
-          "দুবাইয়ের ক্রাউন প্রিন্স শেখ হামদান বিন মোহাম্মদ বিন রশিদ আল মাকতুম আইডিইএক্স ২০২৭ ও নেভাল ডিফেন্স এক্সিবিশনের আমন্ত্রণপত্র পাঠান।",
-          "বাংলাদেশ ও সংযুক্ত আরব আমিরাতের মধ্যে প্রতিরক্ষা সহযোগিতা জোরদার করতে এই আমন্ত্রণ গুরুত্বপূর্ণ ভূমিকা রাখবে।"
+          "যুক্তরাজ্যকে পুনরায় ইউরোপীয় ইউনিয়নে দেখতে চাওয়ার ইচ্ছা প্রকাশ করেছেন ব্রিটিশ রাজনীতিবিদ অ্যান্ডি বার্নহাম।",
+          "এ বিষয়ে চূড়ান্ত সিদ্ধান্ত সম্পূর্ণভাবে ব্রিটিশ জনগণের নিজেদের নেওয়া উচিত বলে মন্তব্য করেছেন তিনি।",
+          "ব্রেক্সিটের পর দেশটির ভবিষ্যৎ বাণিজ্যিক ও রাজনৈতিক সম্পর্ক নিয়ে নতুন করে এই আলোচনা শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The UAE deputy prime minister and defense minister invited Prime Minister Tarique Rahman to attend the summit.",
-          "Dubai Crown Prince Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum sent invitations for IDEX 2027 and the Naval Defense Exhibition.",
-          "The invitation is expected to strengthen bilateral defense cooperation between Bangladesh and the United Arab Emirates."
+          "British politician Andy Burnham expressed his desire for the UK to return to the European Union.",
+          "He emphasized that the final decision regarding this matter should rest entirely with the British public.",
+          "This discussion reignites debates over the country post-Brexit commercial and political relations."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সংযুক্ত আরব আমিরাত নিয়মিতভাবে আন্তর্জাতিক প্রতিরক্ষা প্রদর্শনী ও সম্মেলন আয়োজন করে আসছে, যেখানে বিশ্বের বিভিন্ন দেশের শীর্ষ সামরিক ও রাজনৈতিক নেতৃত্ব অংশ নেন। এই ধরনের আন্তর্জাতিক ইভেন্টগুলোতে অংশগ্রহণ দ্বিপক্ষীয় প্রতিরক্ষা সম্পর্ক উন্নয়ন এবং কৌশলগত অংশীদারিত্ব বাড়াতে সুযোগ তৈরি করে। বাংলাদেশের সরকারপ্রধানকে এই আমন্ত্রণ দুই দেশের পারস্পরিক সহযোগিতার ক্ষেত্রকে আরও প্রসারিত করবে বলে আশা করা হচ্ছে।",
-        "details_en": "The United Arab Emirates regularly hosts international defense exhibitions and conferences, drawing top military and political leadership from around the globe. Participation in such high-profile events creates opportunities to strengthen bilateral defense ties and expand strategic partnerships. This invitation to the head of government of Bangladesh is expected to further broaden areas of mutual cooperation between the two nations."
+        "details_bn": "ব্রেক্সিটের মাধ্যমে ২০২০ সালে ইউরোপীয় ইউনিয়ন ত্যাগ করে যুক্তরাজ্য। এর ফলে দুই পক্ষের বাণিজ্যে ও চলাচলে বিভিন্ন নিষেধাজ্ঞা ও জটিলতা তৈরি হয়। দীর্ঘমেয়াদে এই সিদ্ধান্তের অর্থনৈতিক ও সামাজিক প্রভাব নিয়ে দেশটিতে এখনো নানা মহলে বিতর্ক চলছে। অর্থনীতি ও কূটনৈতিক সম্পর্কের উন্নতির স্বার্থে যুক্তরাজ্য ইইউতে ফিরবে কি না, তা নিয়ে বিভিন্ন সময় রাজনীতিকরা নিজেদের মতামত প্রকাশ করে আসছেন।",
+        "details_en": "The United Kingdom formally left the European Union in 2020 following the Brexit referendum, leading to trade barriers and mobility restrictions. The long-term economic and social impacts of this departure continue to spark debate across the country. Politicians periodically voice opinions on whether rejoining the EU would benefit the nation long-term economic and diplomatic standing."
       }
     },
     {
-      "story_id": "2646d2a3-f756-5348-9dc6-42d354053425",
+      "story_id": "c86a778c-c895-543b-9cd6-cf014f3a0914",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-26T12:00:10+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.3659,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/976879/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E2%80%98%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A7%80-%E0%A6%A8%E0%A6%97%E0%A6%B0%E0%A7%80%E2%80%99-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A7%9F",
+          "title": "বাংলাদেশে ‘প্রযুক্তি ও উদ্ভাবনী নগরী’ প্রতিষ্ঠায় জাপানের সহযোগিতা চাইলেন প্রধানমন্ত্রী",
+          "snippet": "বাংলাদেশে ‘প্রযুক্তি ও উদ্ভাবনী নগরী’ প্রতিষ্ঠায় জাপানের সহযোগিতা চাইলেন প্রধানমন্ত্রী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশে প্রযুক্তি ও উদ্ভাবনী নগরী গড়তে জাপানের সহযোগিতা চেয়েছেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Seeks Japanese Support to Build Technology Hub in Bangladesh",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশে একটি প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার আহ্বান জানিয়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman urged Japan to help establish a technology and innovation hub in Bangladesh during a meeting in Tokyo.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T12:00:10+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে জাইকা প্রেসিডেন্টের সাথে বৈঠকে বাংলাদেশে একটি প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার আহ্বান জানিয়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman urged Japan to help establish a technology and innovation hub in Bangladesh during a meeting in Tokyo.",
+        "bullets_bn": [
+          "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্টের সাথে দ্বিপক্ষীয় বৈঠকে এই প্রস্তাব উত্থাপন করা হয়",
+          "প্রস্তাবটির বিষয়ে প্রধানমন্ত্রীর উপ প্রেস সচিব শাহাদাৎ স্বাধীন বিস্তারিত তথ্য গণমাধ্যমকে জানান",
+          "উভয় দেশের মধ্যে প্রযুক্তিগত সহযোগিতা বাড়াতে পরবর্তী রূপরেখা নিয়ে আলোচনা চলছে"
+        ],
+        "bullets_en": [
+          "The proposal was raised during a bilateral meeting with the president of the Japan International Cooperation Agency",
+          "Deputy Press Secretary Shahadat Swadhin officially confirmed the details of the discussion",
+          "Both sides are currently discussing the framework to enhance bilateral technological cooperation"
+        ],
+        "impact_bn": "এই সহযোগিতা বাস্তবায়িত হলে দেশের তরুণ প্রজন্মের জন্য নতুন প্রযুক্তিভিত্তিক কর্মসংস্থান ও আধুনিক সুযোগ তৈরি হবে।",
+        "impact_en": "Successful implementation of this partnership will create modern tech-based employment opportunities for the youth.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের অর্থনৈতিক ও কূটনৈতিক সম্পর্ক রয়েছে। এর অংশ হিসেবে বিভিন্ন মেগা প্রকল্পে জাইকা দীর্ঘকাল ধরে অর্থায়ন ও কারিগরি সহায়তা প্রদান করে আসছে। নতুন এই প্রযুক্তি ও উদ্ভাবনী নগরী প্রতিষ্ঠার উদ্যোগ উভয় দেশের দ্বিপক্ষীয় সম্পর্ককে আরও সুদৃঢ় করবে এবং দেশের আইসিটি খাতকে বৈশ্বিক মানে উন্নীত করতে সহায়তা করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Japan and Bangladesh share a longstanding bilateral and economic partnership, with JICA historically funding major infrastructure and development projects. This new initiative to establish a technology hub aims to further strengthen diplomatic ties and elevate the country's ICT sector to global standards."
+      }
+    },
+    {
+      "story_id": "b8c6e760-87ac-50e7-8566-80c98aa4bb48",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -68,219 +125,105 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-12%2Fie2jl7cy%2F3.avif?rect=0%2C9%2C540%2C284&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-26T11:43:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.248,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/environment/k9k1lrpbjr",
-          "title": "পাঁচ জেলা শহরে কত পুকুর, তালিকা চেয়েছেন হাইকোর্ট",
-          "snippet": "পাঁচ জেলা শহরে কত পুকুর, তালিকা চেয়েছেন হাইকোর্ট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "পাঁচ জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা দাখিলের নির্দেশ হাইকোর্টের",
-        "title_en": "High Court Directs List of Recorded Ponds in Five Cities",
-        "summary_bn": "হাইকোর্ট বগুড়া, বরিশাল, ময়মনসিংহ, সিলেট ও চট্টগ্রাম জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা তিন মাসের মধ্যে দাখিল করতে নির্দেশ দিয়েছেন।",
-        "summary_en": "The High Court directed authorities to submit a list of recorded ponds in five district cities within three months.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:43:44+00:00",
-        "lead_bn": "হাইকোর্ট বগুড়া, বরিশাল, ময়মনসিংহ, সিলেট ও চট্টগ্রাম জেলা শহরে রেকর্ডভুক্ত পুকুরের তালিকা তিন মাসের মধ্যে দাখিল করতে নির্দেশ দিয়েছেন।",
-        "lead_en": "The High Court directed authorities to submit a list of recorded ponds in five district cities within three months.",
-        "bullets_bn": [
-          "পাঁচ জেলার জেলা প্রশাসকদের তিন মাসের মধ্যে হলফনামা আকারে রেকর্ডভুক্ত পুকুরের তালিকা দাখিল করতে বলা হয়েছে",
-          "অবৈধ ভরাট ও দখল রোধে ১৫ দিনের মধ্যে পাঁচ জেলায় সাত সদস্যের মনিটরিং কমিটি গঠনের নির্দেশ দেওয়া হয়েছে",
-          "আইন অমান্যকারীদের বিরুদ্ধে পরিবেশ সংরক্ষণ আইন অনুযায়ী চার সপ্তাহের মধ্যে কমপ্লায়েন্স প্রতিবেদন দাখিল করতে হবে"
-        ],
-        "bullets_en": [
-          "District commissioners of five cities must submit the affidavit of recorded ponds within three months",
-          "A seven-member monitoring committee must be formed in each of the five districts within fifteen days",
-          "Compliance reports regarding action against illegal filling must be submitted within four weeks"
-        ],
-        "impact_bn": "শহরের জলাশয় রক্ষা পেলে জলাবদ্ধতা কমবে এবং নগরবাসীর জন্য পরিবেশবান্ধব প্রাকৃতিক জলবায়ু নিশ্চিত হবে।",
-        "impact_en": "Protecting urban water bodies will reduce waterlogging and ensure an eco-friendly natural environment for city residents.",
-        "details_bn": "দেশের বড় শহরগুলোর জলাশয় ও পুকুর ভরাট নিয়ে সংবাদ প্রকাশের পর মানবাধিকার সংগঠন এইচআরপিবি হাইকোর্টে রিট দায়ের করে। ২০০০ সালের জলধার সংরক্ষণ আইন ও ১৯৯৫ সালের পরিবেশ সংরক্ষণ আইন বাস্তবায়নে প্রশাসনের নিষ্ক্রিয়তার বিরুদ্ধে এই আইনি পদক্ষেপ নেওয়া হয়। আদালত রুল জারির পাশাপাশি পুকুর রক্ষায় কার্যকর মনিটরিং কমিটি গঠনের নির্দেশ দেন।",
-        "details_en": "Following media reports on the filling of urban water bodies, rights organization HRPB filed a writ petition in the High Court. The legal action challenged administrative inaction in enforcing the 2000 Water Bodies Conservation Act and the 1995 Environment Conservation Act. The court issued a rule and directed the formation of effective monitoring committees to protect the ponds."
-      }
-    },
-    {
-      "story_id": "e3718a2e-2111-5732-87a2-3c0e95e886f2",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T11:54:51+00:00",
+      "published_at": "2026-10-26T12:10:48+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8245,
+      "importance_score": 2.4,
+      "rank_score": 0.9595,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/976876/%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B9%E0%A7%81%E0%A6%B0",
-          "title": "নির্বাচনের আগে ইরানে হামলার চেষ্টা নেতানিয়াহুর, সায় দেননি ট্রাম্প",
-          "snippet": "নির্বাচনের আগে ইরানে হামলার চেষ্টা নেতানিয়াহুর, সায় দেননি ট্রাম্প"
+          "url": "https://www.banglatribune.com/others/976880/%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%B6%E0%A7%83%E0%A6%99%E0%A7%8D%E0%A6%96%E0%A6%B2%E0%A6%BE-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A2%E0%A6%BE%E0%A6%B2-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E2%80%98%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%AB%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%B0%E2%80%99",
+          "title": "আইনশৃঙ্খলা রক্ষায় ব্যর্থতার ঢাল হিসেবে ‘ক্রসফায়ার’ বিপজ্জনক বার্তা: টিআইবি",
+          "snippet": "আইনশৃঙ্খলা রক্ষায় ব্যর্থতার ঢাল হিসেবে ‘ক্রসফায়ার’ বিপজ্জনক বার্তা: টিআইবি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইরানে যৌথ হামলার মার্কিন প্রস্তাব প্রত্যাখ্যান করেছিলেন ডোনাল্ড ট্রাম্প",
-        "title_en": "Donald Trump Rejected Joint Attack Proposal on Iran",
-        "summary_bn": "ইসরায়েলি নির্বাচনের আগে ইরানে যৌথ হামলার জন্য ডোনাল্ড ট্রাম্পকে রাজি করানোর চেষ্টা করেছিলেন বেনিয়ামিন নেতানিয়াহু।",
-        "summary_en": "Benjamin Netanyahu attempted to persuade Donald Trump to launch joint attacks on Iran ahead of the Israeli elections.",
+        "title_bn": "বিচারবহির্ভূত হত্যাকে হাতিয়ার করার মন্তব্যে টিআইবির তীব্র নিন্দা ও উদ্বেগ",
+        "title_en": "TIB Expresses Concern Over Police Chief Remarks on Extrajudicial Killings",
+        "summary_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশ পুলিশের মহাপরিদর্শকের ক্রসফায়ার সংক্রান্ত বক্তব্যের তীব্র নিন্দা জানিয়ে একে বিচারবহির্ভূত হত্যার বিপজ্জনক বার্তা বলেছে।",
+        "summary_en": "Transparency International Bangladesh strongly condemned the police chief remarks on crossfire, calling it a dangerous message promoting extrajudicial killings.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:54:51+00:00",
-        "lead_bn": "ইসরায়েলি নির্বাচনের আগে ইরানে যৌথ হামলার জন্য ডোনাল্ড ট্রাম্পকে রাজি করানোর চেষ্টা করেছিলেন বেনিয়ামিন নেতানিয়াহু।",
-        "lead_en": "Benjamin Netanyahu attempted to persuade Donald Trump to launch joint attacks on Iran ahead of the Israeli elections.",
+        "published_at": "2026-10-26T12:10:48+00:00",
+        "lead_bn": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল বাংলাদেশ পুলিশের মহাপরিদর্শকের ক্রসফায়ার সংক্রান্ত বক্তব্যের তীব্র নিন্দা জানিয়ে একে বিচারবহির্ভূত হত্যার বিপজ্জনক বার্তা বলেছে।",
+        "lead_en": "Transparency International Bangladesh strongly condemned the police chief remarks on crossfire, calling it a dangerous message promoting extrajudicial killings.",
         "bullets_bn": [
-          "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ইরানে যৌথ সামরিক হামলার প্রস্তাব দিয়েছিলেন।",
-          "মার্কিন সংবাদমাধ্যম সিএনএনের প্রতিবেদনে দুই মার্কিন কর্মকর্তা ও এক ইসরায়েলি নিরাপত্তা সূত্রের বরাত দেওয়া হয়েছে।",
-          "যুক্তরাষ্ট্রের তৎকালীন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প সেই সামরিক পদক্ষেপে সায় দেননি।"
+          "পুলিশ প্রধানের ক্রসফায়ারের বক্তব্য আইনশৃঙ্খলা রক্ষায় প্রাতিষ্ঠানিক দুর্বলতা ঢাকার বিপজ্জনক বার্তা বলে অভিহিত করেছে টিআইবি।",
+          "সরকারের অনুমতিক্রমে পুলিশ ক্রসফায়ার করবে এমন মন্তব্যে তীব্র নিন্দা ও গভীর উদ্বেগ প্রকাশ করেছে সংস্থাটি।",
+          "বিচারবহির্ভূত হত্যাকে অপরাধ দমনের হাতিয়ার হিসেবে প্রতিষ্ঠা না করার জন্য সংশ্লিষ্ট মহলের প্রতি আহ্বান জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Israeli Prime Minister Benjamin Netanyahu proposed launching joint military strikes against Iran.",
-          "US media outlet CNN cited two US officials and one Israeli security source regarding the discussions.",
-          "Then US President Donald Trump ultimately refused to approve the military action."
+          "TIB termed the police chief remarks on crossfire as a dangerous message masking institutional weaknesses in law enforcement.",
+          "The anti-graft body expressed deep concern and strong condemnation over the statement regarding police crossfire with government permission.",
+          "Authorities were urged to refrain from establishing extrajudicial killing as an acceptable tool for crime control."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলে আসন্ন পার্লামেন্ট নির্বাচনের প্রাক্কালে আঞ্চলিক রাজনীতি ও সামরিক কৌশলগত পদক্ষেপ নিয়ে বিভিন্ন দেশের মধ্যে নানা গোপনীয় আলোচনা ও দেনদরবার চলে। এমন এক সময়ে নেতানিয়াহু মার্কিন প্রশাসনকে ইরানি লক্ষ্যবস্তুতে যৌথ হামলার জন্য চাপ প্রয়োগের চেষ্টা করেন বলে আন্তর্জাতিক গণমাধ্যমে তথ্য উঠে আসে। তবে মধ্যপ্রাচ্যে বড় ধরনের সংঘাত এড়াতে মার্কিন নীতি এবং তৎকালীন প্রশাসনের শীর্ষ নেতৃত্বের সিদ্ধান্ত এই প্রস্তাবে বাধা হয়ে দাঁড়ায়।",
-        "details_en": "Ahead of the Israeli parliamentary elections, regional political and strategic maneuvers often involve high-level diplomatic and security discussions. Reports indicate that Netanyahu attempted to pressure the US administration into joint strikes against Iranian targets. However, the broader strategic considerations of the US leadership and their reluctance to spark a major regional conflict prevented the proposal from moving forward."
+        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর জবাবদিহিতা ও নাগরিকদের মৌলিক মানবাধিকার সুরক্ষার প্রশ্নটি জনমনে নতুন করে আলোচনার সৃষ্টি করেছে।",
+        "impact_en": "The controversy raises fresh concerns among citizens regarding the accountability of law enforcement agencies and the protection of basic human rights.",
+        "details_bn": "আইনশৃঙ্খলা রক্ষায় প্রয়োজনে পুলিশ ক্রসফায়ার করবে বলে পুলিশের মহাপরিদর্শক মন্তব্য করার পর মানবাধিকার সংগঠন ও সুশীল সমাজের পক্ষ থেকে তীব্র প্রতিক্রিয়া দেখা দেয়। টিআইবি এই বক্তব্যকে আইনের শাসনের পরিপন্থী এবং বিচারবহির্ভূত হত্যার বৈধতা দেওয়ার অপচেষ্টা হিসেবে উল্লেখ করেছে। সংবিধানে নাগরিকদের জীবন ও সুরক্ষার অধিকার নিশ্চিত করার কথা বলা হলেও এ ধরণের বক্তব্য জননিরাপত্তা নিয়ে শঙ্কা তৈরি করছে।",
+        "details_en": "Following the police inspector general remarks that police would use crossfire to maintain law and order if permitted by the government, human rights groups and civil society raised strong objections. TIB termed the statement contradictory to the rule of law and an attempt to legitimize extrajudicial killings. Although the constitution guarantees the right to life and protection for citizens, such statements generate deep public anxiety regarding safety."
       }
     },
     {
-      "story_id": "c35a9571-b4d4-51ec-949f-f26868a37870",
-      "primary_category": "society_education",
+      "story_id": "5689cd5c-79bd-54a0-99b6-cbe41246fd6c",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education",
+        "economy_business",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fv5zaln2r%2F85541569718128561597498763930647533095645999n.jpg?rect=0%2C0%2C666%2C350&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T11:15:00+00:00",
+      "published_at": "2026-10-26T12:08:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2773,
+      "importance_score": 2.4,
+      "rank_score": 0.9367,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/entertainment/dhallywood/p8cdh0e6y4",
-          "title": "তানজিন তিশার ঢালিউড অভিষেক আটকে গেল...",
-          "snippet": "তানজিন তিশার ঢালিউড অভিষেক আটকে গেল..."
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/jago-jobs/news/1172213",
+          "title": "আবুল খায়ের গ্রুপে ক্যারিয়ার গড়ার সুযোগ, লাগবে না অভিজ্ঞতা",
+          "snippet": "আবুল খায়ের গ্রুপে ক্যারিয়ার গড়ার সুযোগ, লাগবে না অভিজ্ঞতা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পরিচালক ও প্রযোজকের গড়িমসিতে অনিশ্চিত তানজিন তিশার ঢালিউড অভিষেক",
-        "title_en": "Tanjin Tisha's Dhallywood Debut Faces Uncertainty Due to Production Delays",
-        "summary_bn": "পরিচালক ও নির্বাহী প্রযোজকের গাফিলতিতে শাকিব খানের বিপরীতে সোলজার সিনেমার শুটিং আটকে যাওয়ায় তানজিন তিশার বড় পর্দার অভিষেক অনিশ্চিত হয়ে পড়েছে।",
-        "summary_en": "Tanjin Tisha's big-screen debut has become uncertain as the shooting of the film Soldier alongside Shakib Khan remains stalled due to production delays.",
+        "title_bn": "অভিজ্ঞতা ছাড়াই আবুল খায়ের গ্রুপে ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগ বিজ্ঞপ্তি",
+        "title_en": "Abul Khair Group issues job circular for Management Trainee Officers without prior experience",
+        "summary_bn": "আবুল খায়ের গ্রুপ কোনো পূর্ব অভিজ্ঞতা ছাড়াই ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগের জন্য নতুন বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "Abul Khair Group has published a new job circular to recruit Management Trainee Officers without requiring prior experience.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:15:00+00:00",
-        "lead_bn": "পরিচালক ও নির্বাহী প্রযোজকের গাফিলতিতে শাকিব খানের বিপরীতে সোলজার সিনেমার শুটিং আটকে যাওয়ায় তানজিন তিশার বড় পর্দার অভিষেক অনিশ্চিত হয়ে পড়েছে।",
-        "lead_en": "Tanjin Tisha's big-screen debut has become uncertain as the shooting of the film Soldier alongside Shakib Khan remains stalled due to production delays.",
-        "bullets_bn": [
-          "পরিচালক ও নির্বাহী প্রযোজকের গড়িমসির কারণে সোলজার সিনেমার বাকি নয় দিনের শুটিং দীর্ঘদিন ধরে স্থগিত রয়েছে।",
-          "সংশ্লিষ্ট সূত্রের তথ্য অনুযায়ী শাকিব খানসহ অধিকাংশ শিল্পী ও কলাকুশলীর সম্মানী বকেয়া থাকায় নতুন শিডিউল দিতে অনীহা দেখাচ্ছেন তারা।",
-          "বারবার মুক্তির তারিখ পেছানোর ফলে চলচ্চিত্রটির ভবিষ্যৎ ও দর্শকের আগ্রহ নিয়ে শঙ্কা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "The remaining nine days of shooting for the film Soldier have been suspended indefinitely due to production delays.",
-          "Sources indicate that unpaid remuneration for Shakib Khan and other crew members has caused reluctance to provide new schedules.",
-          "Repeated changes to the release date have raised concerns about the film's future and waning audience interest."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "শাকিব খানের বিপরীতে সোলজার সিনেমায় অভিনয়ের মাধ্যমে তানজিন তিশার বড় পর্দায় অভিষেকের কথা ছিল। এই সিনেমার জন্য তিনি কলকাতার একটি ছবির অফারও ফিরিয়ে দেন। কিন্তু শিডিউল জটিলতা, কলাকুশলীদের সম্মানী বকেয়া থাকা এবং প্রযোজনা প্রতিষ্ঠানের অসদিচ্ছার কারণে সিনেমার কাজ থমকে আছে। বারবার মুক্তির তারিখ পরিবর্তন হওয়ার ফলে ঢালিউডের এই প্রতীক্ষিত সিনেমাটির কাজ শেষ হওয়া নিয়ে অনিশ্চয়তা তৈরি হয়েছে।",
-        "details_en": "Tanjin Tisha was set to make her big-screen debut opposite Shakib Khan in the film Soldier, prompting her to turn down a project in Kolkata. However, production has stalled due to scheduling conflicts, unpaid remuneration for the cast and crew, and administrative delays. With the release date pushed back multiple times, the completion and future of this much-anticipated Dhallywood project remain uncertain."
-      }
-    },
-    {
-      "story_id": "099f7221-b7df-597c-97f3-63fadce343bc",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#DonaldTrump",
-        "#Michigan"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/19fba75722d7334726efa25051c1361f5fbbf9dc/577_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a4cc68007da0110d04ebf9bdf5591e48",
-      "image_caption": null,
-      "published_at": "2026-10-26T11:38:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5532,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-          "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
-          "snippet": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মিশিগানে আবদুল এল-সায়েদের বিরুদ্ধে মুসলিমবিরোধী বক্তব্য তীব্র করেছেন ডোনাল্ড ট্রাম্প",
-        "title_en": "Donald Trump Intensifies Anti-Muslim Rhetoric Against Abdul El-Sayed in Michigan",
-        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মিশিগান সেনেট প্রার্থী আবদুল এল-সায়েদের বিরুদ্ধে তীব্র মুসলিমবিরোধী ও আক্রমণাত্মক বক্তব্য দিয়েছেন।",
-        "summary_en": "US President Donald Trump delivered sharp anti-Muslim remarks targeting Michigan Senate candidate Abdul El-Sayed during a rally.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
           "economy_business",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:38:49+00:00",
-        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প মিশিগান সেনেট প্রার্থী আবদুল এল-সায়েদের বিরুদ্ধে তীব্র মুসলিমবিরোধী ও আক্রমণাত্মক বক্তব্য দিয়েছেন।",
-        "lead_en": "US President Donald Trump delivered sharp anti-Muslim remarks targeting Michigan Senate candidate Abdul El-Sayed during a rally.",
+        "published_at": "2026-10-26T12:08:32+00:00",
+        "lead_bn": "আবুল খায়ের গ্রুপ কোনো পূর্ব অভিজ্ঞতা ছাড়াই ম্যানেজমেন্ট ট্রেইনি অফিসার পদে নিয়োগের জন্য নতুন বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "Abul Khair Group has published a new job circular to recruit Management Trainee Officers without requiring prior experience.",
         "bullets_bn": [
-          "মিশিগানে আয়োজিত এক সমাবেশে আবদুল এল-সায়েদকে জাতীয় নিরাপত্তার জন্য হুমকি হিসেবে চিত্রিত করেন ডোনাল্ড ট্রাম্প।",
-          "এল-সায়েদকে জিনহাদিস্ট হিসেবে আখ্যায়িত করে তার দেশপ্রেম ও আনুগত্য নিয়ে প্রশ্ন তোলেন ট্রাম্প।",
-          "ট্রাম্পের এই মন্তব্যের তীব্র নিন্দা জানিয়েছেন আরব আমেরিকান ফর ট্রাম্পের প্রতিষ্ঠাতা বিশারা বাহবাহ।"
+          "আবুল খায়ের গ্রুপ ম্যানেজমেন্ট ট্রেইনি অফিসার পদে পরিশ্রমী ও আত্মবিশ্বাসী জনবল নিয়োগের জন্য বিজ্ঞপ্তি দিয়েছে।",
+          "এই পদে আবেদন করার জন্য প্রার্থীদের কোনো পূর্ব অভিজ্ঞতার প্রয়োজন নেই।",
+          "ইতিমধ্যেই পদটিতে আবেদন প্রক্রিয়া শুরু হয়েছে এবং আগ্রহী প্রার্থীরা নির্ধারিত নিয়ম অনুযায়ী আবেদন করতে পারবেন।"
         ],
         "bullets_en": [
-          "Donald Trump portrayed Senate candidate Abdul El-Sayed as a national security threat during a rally in Michigan.",
-          "Trump labeled El-Sayed a jihadist and repeatedly questioned his loyalty to the United States.",
-          "Bishara Bahbah, founder of Arab Americans for Trump, strongly condemned the remarks as racist and crossing a red line."
+          "Abul Khair Group has issued a recruitment notice seeking diligent and confident candidates for Management Trainee Officer positions.",
+          "Candidates are not required to have any prior professional experience to apply for this corporate position.",
+          "The application process has already commenced, allowing eligible candidates to apply through the designated channels."
         ],
-        "impact_bn": "এই রাজনৈতিক বক্তব্য অভিবাসী ও সংখ্যালঘু সম্প্রদায়ের মাঝে উদ্বেগ এবং রাজনৈতিক মেরুকরণ বৃদ্ধি করতে পারে।",
-        "impact_en": "Such rhetoric heightens political polarization and raises concerns among immigrant and minority communities.",
-        "details_bn": "মিশিগান সেনেট নির্বাচনে প্রতিদ্বন্দ্বিতাকারী আবদুল এল-সায়েদ জয়ী হলে দেশের প্রথম মুসলিম সেনেটার হবেন। তার আনুগত্য নিয়ে ট্রাম্পের করা মন্তব্য বিভিন্ন মহলে তীব্র প্রতিক্রিয়ার সৃষ্টি করেছে। অতীতে ট্রাম্পের নির্বাচনী প্রচারণায় গুরুত্বপূর্ণ ভূমিকা রাখা আরব আমেরিকান নেতারাও এই ধরনের বক্তব্যের তীব্র সমালোচনা করেছেন।",
-        "details_en": "Abdul El-Sayed is running for the Senate and could become the nation's first Muslim senator if elected. Trump's remarks comparing him to a threat and questioning his loyalty drew immediate backlash, including condemnation from key figures within the Arab American community who previously supported Trump's campaign."
+        "impact_bn": "বেকার তরুণ ও নতুন গ্র্যাজুয়েটদের জন্য এটি করপোরেট সেক্টরে অভিজ্ঞতা ছাড়াই ক্যারিয়ার গড়ার সুযোগ তৈরি করবে।",
+        "impact_en": "This creates an immediate employment opportunity for unemployed youth and fresh graduates to start their corporate careers without prior experience.",
+        "details_bn": "বাংলাদেশের অন্যতম শীর্ষস্থানীয় শিল্পগোষ্ঠী আবুল খায়ের গ্রুপ নিয়মিতভাবে দেশের যুবসমাজ ও তরুণদের জন্য কর্মসংস্থানের সুযোগ তৈরি করে থাকে। করপোরেট কার্যক্রমে দক্ষ নেতৃত্ব তৈরিতে এই গ্রুপটি বিভিন্ন সময় ম্যানেজমেন্ট ট্রেইনি পদে নিয়োগ দিয়ে থাকে। নতুন এই নিয়োগ বিজ্ঞপ্তির মাধ্যমে তরুণ চাকরিপ্রার্থীরা কোনো পূর্ব অভিজ্ঞতা ছাড়াই দেশের অন্যতম বড় এই প্রতিষ্ঠানে নিজেদের ক্যারিয়ার গড়ার সুযোগ পাবেন।",
+        "details_en": "Abul Khair Group, one of the leading conglomerates in Bangladesh, regularly generates employment opportunities for the country's youth. The group frequently recruits management trainees to develop skilled leadership for its corporate operations. Through this latest recruitment circular, fresh graduates and young job seekers get an opportunity to build their careers in a major corporate house without needing prior work experience."
       }
     },
     {
@@ -298,10 +241,10 @@
       ],
       "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
       "image_caption": null,
-      "published_at": "2026-10-26T11:37:13+00:00",
+      "published_at": "2026-10-26T12:03:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.5452,
+      "rank_score": 0.6313,
       "sources": [
         {
           "name": "The Guardian World",
@@ -311,10 +254,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে ঐতিহাসিক চতুর্থ জয় পেলেন লুল দা সিলভা",
+        "title_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে ঐতিহাসিক চতুর্থ মেয়াদে জয়ী হলেন লুলা দা সিলভা",
         "title_en": "Luiz Inacio Lula da Silva Wins Historic Fourth Term as Brazil President",
-        "summary_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়ী হয়ে চতুর্থবারের মতো ক্ষমতা গ্রহণ করতে যাচ্ছেন লুলা দা সিলভা।",
-        "summary_en": "Luiz Inacio Lula da Silva secured a historic fourth term as Brazilian president after winning a runoff election.",
+        "summary_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে হাড্ডাহাড্ডি লড়াইয়ে প্রতিপক্ষকে পরাজিত করে চতুর্থ মেয়াদের ক্ষমতা নিশ্চিত করলেন লুলা দা সিলভা।",
+        "summary_en": "Luiz Inacio Lula da Silva secured a historic fourth presidential term in Brazil after defeating his opponent in a runoff election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -323,23 +266,81 @@
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T11:37:13+00:00",
-        "lead_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়ী হয়ে চতুর্থবারের মতো ক্ষমতা গ্রহণ করতে যাচ্ছেন লুলা দা সিলভা।",
-        "lead_en": "Luiz Inacio Lula da Silva secured a historic fourth term as Brazilian president after winning a runoff election.",
+        "published_at": "2026-10-26T12:03:42+00:00",
+        "lead_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচনে হাড্ডাহাড্ডি লড়াইয়ে প্রতিপক্ষকে পরাজিত করে চতুর্থ মেয়াদের ক্ষমতা নিশ্চিত করলেন লুলা দা সিলভা।",
+        "lead_en": "Luiz Inacio Lula da Silva secured a historic fourth presidential term in Brazil after defeating his opponent in a runoff election.",
         "bullets_bn": [
-          "বামপন্থী নেতা লুলা দা সিলভা ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়লাভ করে চতুর্থ মেয়াদে ক্ষমতা নিশ্চিত করেছেন।",
-          "নির্বাচনী ট্রাইব্যুনালের তথ্য অনুযায়ী লুলা ৫১ দশমিক ৭৯ শতাংশ ভোট পেয়ে প্রতিপক্ষকে পরাজিত করেন।",
+          "বামপন্থী নেতা লুলা দা সিলভা ব্রাজিলের প্রেসিডেন্ট নির্বাচনে জয়লাভ করে চতুর্থবারের মতো ক্ষমতা দখল করেছেন।",
+          "নির্বাচনী ট্রাইব্যুনালের তথ্য অনুযায়ী লুলা ৫১ দশমিক ৭৯ শতাংশ ভোট এবং তার প্রতিপক্ষ ৪৮ দশমিক ২১ শতাংশ ভোট পেয়েছেন।",
           "আগামী ২০২৭ সালের ৫ জানুয়ারি লুলার নতুন মেয়াদ আনুষ্ঠানিকভাবে শুরু হওয়ার কথা রয়েছে।"
         ],
         "bullets_en": [
-          "Leftist leader Luiz Inacio Lula da Silva secured a historic presidential election victory to claim a fourth term.",
-          "Lula secured 51.79 percent of the total votes against his opponent according to the electoral court.",
-          "The new presidential term for Lula is scheduled to officially begin on January 5, 2027."
+          "Leftist leader Luiz Inacio Lula da Silva claimed a historic fourth term in power by winning the presidential election.",
+          "Lula secured 51.79 percent of the vote compared to his opponent's 48.21 percent, according to the electoral court.",
+          "The newly elected president's upcoming term is officially scheduled to begin on January 5, 2027."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব্রাজিলের রাজনৈতিক ইতিহাসে এই প্রথম কোনো প্রার্থী প্রথম দফার ভোটে পিছিয়ে থেকেও রানঅফ নির্বাচনে জয়লাভ করে ক্ষমতায় ফিরে এলেন। তবে ফলাফল প্রত্যাখ্যান করে নির্বাচন বাতিলের দাবি জানিয়েছে পরাজিত পক্ষ। এর আগে লুলার প্রধান রাজনৈতিক প্রতিপক্ষ জাইর বোলসোনারো ক্ষমতা দখলের ষড়যন্ত্রের দায়ে কারাদণ্ড ভোগ করেছেন। দারিদ্র্য ও বৈষম্য হ্রাসের প্রতিশ্রুতি দিয়ে প্রচার চালিয়ে আসা লুলা এর আগে তিনবার দেশের প্রেসিডেন্টের দায়িত্ব পালন করেছেন।",
-        "details_en": "This marks the first time in Brazil since the return to democracy that a candidate losing the first round went on to win the presidency. Lula previously governed Brazil for three terms and campaigned heavily on falling poverty and inequality rates. Meanwhile, the opponent refused to accept the election results, echoing past political turmoil surrounding the conservative camp in Brazil."
+        "details_bn": "ব্রাজিলের রাজনীতিতে এই জয় অত্যন্ত তাৎপর্যপূর্ণ, কারণ দেশটির গণতন্ত্র পুনরুদ্ধারের পর এই প্রথম প্রথম ধাপের পর পেছানো প্রার্থী জয় ছিনিয়ে আনলেন। এদিকে পরাজিত প্রার্থীর পক্ষ থেকে ফলাফল প্রত্যাখ্যান করায় রাজনৈতিক অঙ্গনে নতুন করে উত্তেজনা দেখা দিয়েছে। এর আগে লুলার রাজনৈতিক প্রতিপক্ষ ও তার পরিবারের সদস্যদের বিরুদ্ধে অতীতে বিভিন্ন আইনি পদক্ষেপ ও ক্ষমতা দখলের চেষ্টার ইতিহাস রয়েছে।",
+        "details_en": "This victory marks a significant milestone in Brazilian politics, as it is the first time since the return to democracy that a candidate who trailed in the initial round overcame the deficit to win the presidency. However, the refusal of the defeated camp to concede mirrors past political polarization and challenges in the nation's democratic history."
+      }
+    },
+    {
+      "story_id": "6272ded1-3132-5ab8-a312-26a1a5295437",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#CyberSecurity",
+        "#ArtificialIntelligence",
+        "#Australia"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/a87ce9bdb5e94c4f30932078f5f45eda44e1da12/559_205_4047_3240/master/4047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8d5ceede0f6e8538686f2748563f8da",
+      "image_caption": null,
+      "published_at": "2026-10-26T11:30:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.4689,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+          "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+          "snippet": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অস্ট্রেলীয়দের অনলাইন সেবা বিঘ্নিত হওয়ার জন্য প্রস্তুত থাকার সতর্কবার্তা সিগন্যাল ইন্টেলিজেন্স এজেন্সির",
+        "title_en": "Australian Cyber Agency Warns Citizens to Prepare for Unexpected Online Outages",
+        "summary_bn": "অস্ট্রেলিয়ার সিগন্যাল ইন্টেলিজেন্স এজেন্সি ক্রমবর্ধমান সাইবার হুমকির মুখে জরুরি অনলাইন সেবাগুলো হঠাৎ বন্ধ হয়ে যাওয়ার প্রস্তুতি নিতে বলেছে।",
+        "summary_en": "Australia's signals intelligence agency warns citizens to prepare for unexpected disruptions to essential online services amid rising cyber threats.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T11:30:40+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার সিগন্যাল ইন্টেলিজেন্স এজেন্সি ক্রমবর্ধমান সাইবার হুমকির মুখে জরুরি অনলাইন সেবাগুলো হঠাৎ বন্ধ হয়ে যাওয়ার প্রস্তুতি নিতে বলেছে।",
+        "lead_en": "Australia's signals intelligence agency warns citizens to prepare for unexpected disruptions to essential online services amid rising cyber threats.",
+        "bullets_bn": [
+          "সিস্টেমের সচল থাকার চেয়ে নিরাপত্তা নিশ্চিত করাকে সর্বোচ্চ অগ্রাধিকার দেওয়ার নির্দেশ দিয়েছে অস্ট্রেলিয়ান সিগন্যালস ডিরেক্টরেট।",
+          "সংস্থাটি বছরে ১,৫০০টি সাইবার নিরাপত্তা ঘটনার মোকাবিলা করেছে এবং ৪,৪০০টিরও বেশি সম্ভাব্য হামলার বিষয়ে সতর্ক করেছে।",
+          "সাইবার অপরাধ ও এআইভিত্তিক হুমকি মোকাবিলায় ব্যবসা প্রতিষ্ঠানগুলোকে অত্যাধুনিক কৃত্রিম বুদ্ধিমত্তা মডেল ব্যবহারের তাগিদ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The Australian Signals Directorate urged that system security must be prioritized over system availability amid escalating digital threats.",
+          "The agency responded to 1,500 cybersecurity incidents and flagged over 4,400 potential malicious incidents to external entities.",
+          "Organizations are urged to deploy cutting-edge artificial intelligence models to automate defenses against AI-enabled cyber attacks."
+        ],
+        "impact_bn": "সাধারণ ব্যবহারকারীদের দৈনন্দিন অনলাইন সেবা আকস্মিক বিঘ্ন ও ডেটা সুরক্ষার ঝুঁকিতে পড়তে পারে।",
+        "impact_en": "Ordinary citizens may face sudden disruptions in accessing vital online services and heightened digital security risks.",
+        "details_bn": "অস্ট্রেলিয়ান সিগন্যালস ডিরেক্টরেটের বার্ষিক সাইবার হুমকি প্রতিবেদনে বলা হয়েছে, শত্রুভাবাপন্ন বিদেশি সরকার এবং অপরাধীরা বুদ্ধিমত্তা সংগ্রহ ও অবকাঠামো অচল করতে কৃত্রিম বুদ্ধিমত্তা ব্যবহার করছে। রাষ্ট্রীয় ও বেসরকারি নেটওয়ার্কে ক্রমাগত হামলার প্রচেষ্টা বাড়ায় সাইবার নিরাপত্তাকে এখন কেবল প্রযুক্তিগত বিষয় না ভেবে মূল ব্যবসায়িক ঝুঁকি হিসেবে চিহ্নিত করা হচ্ছে।",
+        "details_en": "The annual cyber threat report by the Australian Signals Directorate reveals that hostile actors and criminals are increasingly weaponizing artificial intelligence to gather intelligence and disrupt critical infrastructure. With state-based breach attempts rising, the agency stresses that cybersecurity is no longer a purely technical concern but a core leadership responsibility."
       }
     }
   ]
