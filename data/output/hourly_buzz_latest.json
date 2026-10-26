@@ -1,67 +1,180 @@
 {
-  "updated_at": "2026-10-26T04:00:41.731705",
+  "updated_at": "2026-10-26T05:00:43.714283",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "285aba87-1e94-5184-bb38-245acfddd346",
-      "primary_category": "governance_law",
+      "story_id": "2e961f3f-8574-5bc8-908c-667f0d89a3f7",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T03:48:30+00:00",
+      "published_at": "2026-10-26T04:56:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7143,
+      "rank_score": 1.8559,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/probash/news/1171993",
-          "title": "জুলাই গণঅভ্যুত্থানে প্রবাসীরা অগ্রণী ভূমিকা রেখেছেন",
-          "snippet": "জুলাই গণঅভ্যুত্থানে প্রবাসীরা অগ্রণী ভূমিকা রেখেছেন"
+          "url": "https://www.jagonews24.com/international/news/1172011",
+          "title": "রিয়াদ বিমানবন্দর ও সৌদির তেল পাইপলাইনে ফের হুথির হামলা",
+          "snippet": "রিয়াদ বিমানবন্দর ও সৌদির তেল পাইপলাইনে ফের হুথির হামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জুলাই গণঅভ্যুত্থানে প্রবাসীদের অবদান অনস্বীকার্য বলে মন্তব্য মামুনুল হকের",
-        "title_en": "Expatriates Played Pioneer Role in July Mass Uprising Says Mamunul Haque",
-        "summary_bn": "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক মালয়েশিয়া সফরে প্রবাসীদের অবদানের প্রশংসা করেন।",
-        "summary_en": "Bangladesh Khelafat Majlish Amir Maulana Mamunul Haque praised expatriates for their role during his Malaysia visit.",
+        "title_bn": "সৌদির রিয়াদ বিমানবন্দর ও তেল পাইপলাইনে হুথিদের হামলা",
+        "title_en": "Yemen Houthi Rebels Launch Attacks on Riyadh Airport and Saudi Oil Pipeline",
+        "summary_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও গুরুত্বপূর্ণ ইস্ট-ওয়েস্ট তেল পাইপলাইনে নতুন করে হামলা চালিয়েছে।",
+        "summary_en": "Yemen Houthi rebels launched renewed attacks targeting Riyadh airport and a vital east-west oil pipeline in Saudi Arabia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T03:48:30+00:00",
-        "lead_bn": "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক মালয়েশিয়া সফরে প্রবাসীদের অবদানের প্রশংসা করেন।",
-        "lead_en": "Bangladesh Khelafat Majlish Amir Maulana Mamunul Haque praised expatriates for their role during his Malaysia visit.",
+        "published_at": "2026-10-26T04:56:21+00:00",
+        "lead_bn": "ইয়েমেনের হুথি বিদ্রোহীরা সৌদি আরবের রিয়াদ বিমানবন্দর ও গুরুত্বপূর্ণ ইস্ট-ওয়েস্ট তেল পাইপলাইনে নতুন করে হামলা চালিয়েছে।",
+        "lead_en": "Yemen Houthi rebels launched renewed attacks targeting Riyadh airport and a vital east-west oil pipeline in Saudi Arabia.",
         "bullets_bn": [
-          "বাংলাদেশ খেলাফত মজলিসের আমির মাওলানা মামুনুল হক মালয়েশিয়া সফরকালে এক অনুষ্ঠানে প্রবাসীদের ভূমিকা নিয়ে বক্তব্য দেন।",
-          "তিনি উল্লেখ করেন যে জুলাই গণঅভ্যুত্থানে দেশের বাইরে অবস্থানরত প্রবাসীরা অগ্রণী ভূমিকা পালন করেছেন।",
-          "প্রবাসী বাংলাদেশিরা দেশের অর্থনীতি ও গণতান্ত্রিক আন্দোলনে গুরুত্বর্পণ অব্যাহত রেখেছেন বলে বক্তৃতায় উঠে আসে।"
+          "সৌদির রিয়াদ বিমানবন্দর এবং ইস্ট-ওয়েস্ট তেল পাইপলাইন লক্ষ্য করে হামলা চালায় হুথি বিদ্রোহীরা।",
+          "সৌদি জোট বাহিনী ইয়েমেনের নিক্ষিপ্ত একটি ক্ষেপণাস্ত্র সাফল্যের সাথে প্রতিহত করার দাবি জানিয়েছে।",
+          "এই হামলার ফলে মধ্যপ্রাচ্যের জ্বালানি সরবরাহ ও আঞ্চলিক নিরাপত্তা নিয়ে নতুন করে উদ্বেগ তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "Bangladesh Khelafat Majlish Amir Maulana Mamunul Haque addressed an event during his official visit to Malaysia.",
-          "He stated that expatriate citizens played a pioneering role during the July mass uprising.",
-          "The discussions emphasized the ongoing contributions of overseas Bangladeshis to national development and democratic movements."
+          "Yemen Houthi rebels targeted Riyadh airport and the vital east-west oil pipeline with armed attacks.",
+          "The Saudi-led coalition forces claimed they successfully intercepted and destroyed an incoming missile.",
+          "The attack has raised fresh concerns regarding regional security and Middle East energy supplies."
         ],
-        "impact_bn": "মালয়েশিয়াসহ প্রবাসে থাকা বাংলাদেশি কর্মী ও প্রবাসীদের প্রতি সামাজিক স্বীকৃতি ও রাষ্ট্রীয় গুরুত্ব বৃদ্ধি পাবে।",
-        "impact_en": "It boosts social recognition and acknowledges the vital national contributions of expatriate workers living abroad.",
-        "details_bn": "জুলাই গণঅভ্যুত্থানের পর থেকেই দেশের বাইরে অবস্থানরত প্রবাসী বাংলাদেশিরা বিভিন্ন রাজনৈতিক ও অর্থনৈতিক ইস্যুতে সরব রয়েছেন। মালয়েশিয়ায় বসবাসরত বাংলাদেশিদের নানা প্রবাসীর অধিকার এবং দেশের সাম্প্রতিক রাজনৈতিক পরিস্থিতি নিয়ে বিভিন্ন রাজনৈতিক সংগঠনের নেতারা প্রবাসীদের সাথে যোগাযোগ ও মতবিনিময় চালিয়ে যাচ্ছেন।",
-        "details_en": "Since the July mass uprising, expatriate Bangladeshis living abroad have remained vocal on various political and economic issues. Political leaders frequently engage with overseas communities in Malaysia to discuss expatriate rights and recent domestic developments."
+        "impact_bn": "এই হামলার ফলে বৈশ্বিক জ্বালানি বাজারে তেলের দামের অস্থিরতা বৃদ্ধি পেতে পারে।",
+        "impact_en": "The attacks could trigger volatility in global energy markets and fuel prices.",
+        "details_bn": "ইয়েমেনের হুথি আন্দোলন দীর্ঘদিন ধরে সৌদি নেতৃত্বাধীন জোটের সামরিক হস্তক্ষেপের বিরুদ্ধে লড়াই চালিয়ে আসছে। এর আগেও সৌদির তেল শোধনাগার ও জ্বালানি অবকাঠামো লক্ষ্য করে একাধিক ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়েছে গোষ্ঠীটি। মধ্যপ্রাচ্যের চলমান এই সংঘাত আঞ্চলিক জ্বালানি সরবরাহ ও আন্তর্জাতিক বাণিজ্যের জন্য বড় ধরনের হুমকি সৃষ্টি করে চলেছে।",
+        "details_en": "Yemen's Houthi movement has been locked in a prolonged conflict against the Saudi-led military coalition. The group has repeatedly targeted Saudi oil infrastructure and airports with drones and missiles. This ongoing Middle East friction continues to pose significant threats to global energy supplies and international shipping lanes."
       }
     },
     {
-      "story_id": "c00ea5ad-9b41-5a9e-aa6e-269b757b51d7",
+      "story_id": "9cd02be8-f9e1-5307-8fc7-76a9c66c4dd8",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/trump-8.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-26T04:37:55+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5512,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/trump-has-stepped-back-from-the-decision-to-attack-iran/",
+          "title": "ইরানে হামলার সিদ্ধান্ত থেকে সরে এলেন ট্রাম্প",
+          "snippet": "ইরানে হামলার সিদ্ধান্ত থেকে সরে এলেন ট্রাম্প"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইরানে সামরিক অভিযান চালানোর সিদ্ধান্ত থেকে সরে এলেন ডোনাল্ড ট্রাম্প",
+        "title_en": "Donald Trump Abandons Plan for Immediate Military Strike on Iran",
+        "summary_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, তেহরানের বিরুদ্ধে আপাতত কোনো সামরিক অভিযান চালানোর পরিকল্পনা নেই যুক্তরাষ্ট্রের।",
+        "summary_en": "US President Donald Trump announced that the United States currently has no plans to launch a military strike against Iran.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T04:37:55+00:00",
+        "lead_bn": "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প জানিয়েছেন, তেহরানের বিরুদ্ধে আপাতত কোনো সামরিক অভিযান চালানোর পরিকল্পনা নেই যুক্তরাষ্ট্রের।",
+        "lead_en": "US President Donald Trump announced that the United States currently has no plans to launch a military strike against Iran.",
+        "bullets_bn": [
+          "ইরানে নতুন করে কোনো সামরিক হামলা চালানো হবে না বলে স্পষ্টভাবে নিশ্চিত করেছেন মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প।",
+          "হরমুজ প্রণালির নিয়ন্ত্রণ যুক্তরাষ্ট্রের হাতে রয়েছে এবং ইরান সেখান থেকে কিছুই পাচ্ছে না বলে দাবি করেছেন ট্রাম্প।",
+          "নভেম্বরের শুরুর দিকে অনুষ্ঠেয় মার্কিন মধ্যবর্তী নির্বাচনের আগে এই হামলা স্থগিত রাখার ঘোষণা দেওয়া হলো।"
+        ],
+        "bullets_en": [
+          "US President Donald Trump explicitly confirmed that no new military attacks will be launched against Iran.",
+          "Trump claimed that the Strait of Hormuz is under US control and Iran is getting nothing from there.",
+          "The suspension of strikes comes ahead of the US mid-term elections scheduled for early November."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "এর আগে যুক্তরাষ্ট্র ও ইসরায়েল যৌথভাবে ইরানে বড় ধরনের সামরিক অভিযান পরিচালনা করেছিল। পরবর্তীতে দুই দেশের মধ্যে স্বল্প সময়ের জন্য যুদ্ধবিরতি কার্যকর হলেও তা শেষ পর্যন্ত স্থায়ী হয়নি। বর্তমান পরিস্থিতির প্রেক্ষাপটে ট্রাম্প তেহরানের সঙ্গে একটি চুক্তির সম্ভাবনার পাশাপাশি সামরিক পদক্ষেপের হুমকিও দিয়ে আসছিলেন।",
+        "details_en": "Previously, the US and Israel jointly launched a major military operation in Iran. Although a brief ceasefire was implemented later, it did not last. Against this backdrop, Trump had previously oscillated between threatening military action and hinting at a potential agreement with Tehran."
+      }
+    },
+    {
+      "story_id": "c5e7e8cf-bced-5ea1-97f0-8b137566989d",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F7pfzf1hr%2FKing-Khalid-Airport.webp?rect=0%2C15%2C770%2C404&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-26T04:28:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4309,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/l7k9kvcssu",
+          "title": "রিয়াদের কিং খালিদ বিমানবন্দরে আবার ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি হুতিদের",
+          "snippet": "রিয়াদের কিং খালিদ বিমানবন্দরে আবার ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি হুতিদের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের রিয়াদ বিমানবন্দরে হুতিদের ক্ষেপণাস্ত্র হামলার দাবি",
+        "title_en": "Houthis Claim Ballistic Missile Attack on Riyadh Airport in Saudi Arabia",
+        "summary_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি করেছে।",
+        "summary_en": "Yemeni Houthi rebels claim to have launched a ballistic missile attack on King Khalid International Airport in Riyadh.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T04:28:45+00:00",
+        "lead_bn": "ইয়েমেনের হুতি বিদ্রোহীরা সৌদি আরবের রাজধানী রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ব্যালিস্টিক ক্ষেপণাস্ত্র হামলার দাবি করেছে।",
+        "lead_en": "Yemeni Houthi rebels claim to have launched a ballistic missile attack on King Khalid International Airport in Riyadh.",
+        "bullets_bn": [
+          "ইয়েমেনের সশস্ত্র গোষ্ঠী হুতি রিয়াদের কিং খালিদ আন্তর্জাতিক বিমানবন্দরে ক্ষেপণাস্ত্র হামলা চালিয়েছে।",
+          "হুতি মুখপাত্র ইয়াহিয়া সারি সৌদি আরবের তেল পাম্পিং স্টেশনগুলোয় ড্রোন হামলারও দাবি করেছেন।",
+          "সৌদি নেতৃত্বাধীন জোট ইয়েমেনের সানায় ক্ষেপণাস্ত্র উৎক্ষেপণ কেন্দ্রে বিমান হামলা চালিয়েছে।"
+        ],
+        "bullets_en": [
+          "Yemeni Houthi rebels launched a targeted ballistic missile attack on King Khalid International Airport in Riyadh.",
+          "Houthi spokesperson Yahya Saree also claimed drone attacks on crude oil pumping stations in eastern and western Saudi Arabia.",
+          "The Saudi-led coalition retaliated by launching airstrikes on missile launch sites in the Yemeni capital of Sanaa."
+        ],
+        "impact_bn": "মধ্যপ্রাচ্যে চলমান এই সংঘাতে জ্বালানি সরবরাহ ব্যাহত হওয়ার আশঙ্কা রয়েছে।",
+        "impact_en": "Escalating regional tensions and potential disruptions to crude oil supply chains may impact global markets.",
+        "details_bn": "ইয়েমেনের ইরানপন্থী হুতি গোষ্ঠী বেশ কিছুদিন ধরে সৌদি আরবের বিভিন্ন বিমানবন্দর, তেল স্থাপনা ও সামরিক ঘাঁটিতে ধারাবাহিক হামলা চালিয়ে আসছে। এর জবাবে সৌদি নেতৃত্বাধীন জোট ইয়েমেনে নিয়মিত বিমান হামলা পরিচালনা করছে। এই দীর্ঘস্থায়ী আঞ্চলিক সংঘাতে দুই পক্ষের পাল্টাপাল্টি হামলায় মধ্যপ্রাচ্যের নিরাপত্তা পরিস্থিতি ক্রমশ জটিল হয়ে উঠছে।",
+        "details_en": "Yemen's Iran-backed Houthi movement has repeatedly targeted airports, oil facilities, and military bases across Saudi Arabia. In response, the Saudi-led coalition conducts regular airstrikes against Houthi positions in Yemen. This protracted regional conflict continues to escalate tensions and threatens energy supply infrastructure in the Middle East."
+      }
+    },
+    {
+      "story_id": "20b9ba4b-611f-58f6-a923-50a73bb3f9b4",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
@@ -70,162 +183,51 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T03:40:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.5812,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/mymensing/976780/%E2%80%98%E0%A6%AD%E0%A7%8B%E0%A6%9F-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AD%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AD%E0%A7%8B%E0%A6%97%E0%A7%80-%E0%A6%B9%E0%A6%B2%E0%A6%BE%E0%A6%AE%E2%80%99-%E0%A6%AB%E0%A7%87%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%95-%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%86%E0%A6%9F%E0%A6%95",
-          "title": "‘ভোট দিয়ে ভুক্তভোগী হলাম’, ফেসবুক লাইভের পর আটক নারী উদ্যোক্তা",
-          "snippet": "‘ভোট দিয়ে ভুক্তভোগী হলাম’, ফেসবুক লাইভের পর আটক নারী উদ্যোক্তা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ময়মনসিংহে ফেসবুক লাইভে সরকারের সমালোচনার জেরে নারী উদ্যোক্তা আটক",
-        "title_en": "Female Entrepreneur Detained in Mymensingh Over Facebook Live Criticism",
-        "summary_bn": "পুলিশ ময়মনসিংহের ভালুকায় ফেসবুক লাইভে সরকারের সমালোচনা করার অভিযোগে সাথী আক্তার নামের এক নারী উদ্যোক্তাকে হেফাজতে নিয়েছে।",
-        "summary_en": "Police took a female entrepreneur named Sathi Akter into custody in Bhaluka, Mymensingh, for criticizing the government on Facebook Live.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T03:40:00+00:00",
-        "lead_bn": "পুলিশ ময়মনসিংহের ভালুকায় ফেসবুক লাইভে সরকারের সমালোচনা করার অভিযোগে সাথী আক্তার নামের এক নারী উদ্যোক্তাকে হেফাজতে নিয়েছে।",
-        "lead_en": "Police took a female entrepreneur named Sathi Akter into custody in Bhaluka, Mymensingh, for criticizing the government on Facebook Live.",
-        "bullets_bn": [
-          "স্থানীয় জনতা স্কয়ার মাস্টারবাড়ী এলাকা থেকে সাথী আক্তারকে আটক করে পুলিশের নিকট সোপর্দ করে।",
-          "সাথী আক্তার ভালুকা উপজেলার স্কয়ার মাস্টারবাড়ী এলাকার সাথী বিউটি পার্লারের স্বত্বাধিকারী।",
-          "সামাজিক যোগাযোগ মাধ্যমে সরকারের আইনশৃঙ্খলা পরিস্থিতির সমালোচনা করার পর এই আটকের ঘটনা ঘটে।"
-        ],
-        "bullets_en": [
-          "Local residents detained Sathi Akter from the Square Masterbari area and handed her over to the police.",
-          "Sathi Akter is the owner of Sathi Beauty Parlor located in the Square Masterbari area of Bhaluka upazila.",
-          "The detention occurred following her criticism of the government and law and order situation on social media."
-        ],
-        "impact_bn": "সামাজিক মাধ্যমে স্বাধীন মতপ্রকাশ এবং নাগরিক নিরাপত্তার বিষয়ে জনমনে উদ্বেগ সৃষ্টি হয়েছে।",
-        "impact_en": "Raised public concerns regarding freedom of speech and citizen security on social media platforms.",
-        "details_bn": "ময়মনসিংহের ভালুকায় সামাজিক যোগাযোগ মাধ্যম ফেসবুকে লাইভ সম্প্রচারের মাধ্যমে বর্তমান সরকার ও দেশের আইনশৃঙ্খলা পরিস্থিতির তীব্র সমালোচনা করেন স্থানীয় বিউটি পার্লারের স্বত্বাধিকারী সাথী আক্তার। তার এই ভিডিওটি ভাইরাল হওয়ার পর স্থানীয় লোকজনের মধ্যে উত্তেজনা সৃষ্টি হয়। পরবর্তীতে স্থানীয় লোকজন তাকে আটক করে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর হাতে তুলে দেন। পুলিশ বিষয়টি খতিয়ে দেখছে এবং পরবর্তী আইনি প্রক্রিয়াধীন রয়েছে।",
-        "details_en": "Sathi Akter, owner of a local beauty parlor in Bhaluka, Mymensingh, broadcasted a live video on Facebook strongly criticizing the government and law enforcement situation. The video went viral, causing tension among locals who subsequently detained her and handed her over to law enforcement. Police are looking into the matter as further legal procedures are underway."
-      }
-    },
-    {
-      "story_id": "3a6bf43a-0093-56f2-bc2f-fdccc1148b92",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T04:00:00+00:00",
+      "published_at": "2026-10-26T04:59:29+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9646,
+      "rank_score": 0.9592,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976760/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E2%80%99%E0%A6%85%E0%A6%B0-%E0%A6%9C%E0%A6%BF%E0%A6%A4%E0%A6%B2%E0%A7%87-%E0%A6%95%E0%A6%A4-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%B8%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%B2%E0%A6%9F%E0%A6%BF%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%B2",
-          "title": "ব্যালন ডি’অর জিতলে কত টাকা মেলে, সোনার বলটির আসল দাম কত?",
-          "snippet": "ব্যালন ডি’অর জিতলে কত টাকা মেলে, সোনার বলটির আসল দাম কত?"
+          "url": "https://www.banglatribune.com/country/dhaka/976791/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BF-%E0%A6%A8%E0%A6%BE-%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%85%E0%A6%AA%E0%A6%B9%E0%A6%B0%E0%A6%A3",
+          "title": "প্রেমের প্রস্তাবে রাজি না হওয়ায় ছাত্রীকে অপহরণ, মাদ্রাসার পরিচালকের বিরুদ্ধে মামলা",
+          "snippet": "প্রেমের প্রস্তাবে রাজি না হওয়ায় ছাত্রীকে অপহরণ, মাদ্রাসার পরিচালকের বিরুদ্ধে মামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্যালন ডি অর ট্রফির আর্থিক মূল্য ও পুরস্কারের অজানা তথ্য প্রকাশ",
-        "title_en": "Unveiling the Financial Value and Facts Behind the Ballon dOr Trophy",
-        "summary_bn": "ফুটবলের সবচেয়ে মর্যাদাপূর্ণ ব্যক্তিগত পুরস্কার ব্যালন ডি অর ট্রফির প্রকৃত বাজারমূল্য এবং এর পেছনে থাকা আর্থিক পুরস্কারের বিবরণ প্রকাশ করা হয়েছে।",
-        "summary_en": "Details regarding the actual market value and financial rewards associated with footballs most prestigious individual award, the Ballon dOr, have been revealed.",
+        "title_bn": "প্রেমের প্রস্তাব প্রত্যাখ্যান করায় মাদ্রাসার ছাত্রীকে অপহরণের অভিযোগে মামলা",
+        "title_en": "Case filed against madrasa director for abducting student over rejected proposal",
+        "summary_bn": "গাজীপুরে প্রেমের প্রস্তাব প্রত্যাখ্যাত হওয়ায় অষ্টম শ্রেণির এক ছাত্রীকে অপহরণের অভিযোগে মাদ্রাসার পরিচালকসহ পাঁচজনের বিরুদ্ধে মামলা হয়েছে।",
+        "summary_en": "Five individuals including a madrasa director have been sued for allegedly abducting an eighth-grade student after she rejected a romantic proposal.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "economy_business"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:00:00+00:00",
-        "lead_bn": "ফুটবলের সবচেয়ে মর্যাদাপূর্ণ ব্যক্তিগত পুরস্কার ব্যালন ডি অর ট্রফির প্রকৃত বাজারমূল্য এবং এর পেছনে থাকা আর্থিক পুরস্কারের বিবরণ প্রকাশ করা হয়েছে।",
-        "lead_en": "Details regarding the actual market value and financial rewards associated with footballs most prestigious individual award, the Ballon dOr, have been revealed.",
+        "published_at": "2026-10-26T04:59:29+00:00",
+        "lead_bn": "গাজীপুরে প্রেমের প্রস্তাব প্রত্যাখ্যাত হওয়ায় অষ্টম শ্রেণির এক ছাত্রীকে অপহরণের অভিযোগে মাদ্রাসার পরিচালকসহ পাঁচজনের বিরুদ্ধে মামলা হয়েছে।",
+        "lead_en": "Five individuals including a madrasa director have been sued for allegedly abducting an eighth-grade student after she rejected a romantic proposal.",
         "bullets_bn": [
-          "ব্যালন ডি অর ট্রফিটি খাঁটি সোনা দিয়ে তৈরি নয় বরং পিতলের ব্লকের ওপর সোনার আস্তরণ দিয়ে প্রস্তুত করা হয়।",
-          "প্রায় ১২ কেজি ওজনের এই সোনালি বলের আনুমানিক বাজারমূল্য দুই লক্ষ ইউরোর বেশি হতে পারে।",
-          "পুরস্কার বিজয়ী ফুটবলাররা ট্রফি ছাড়াও ক্লাবের সাথে চুক্তি অনুযায়ী বোনাস ও বিশেষ আর্থিক সুবিধা লাভ করেন।"
+          "ছাত্রীর বাবা জয়দেবপুর থানায় মাদ্রাসার পরিচালকসহ পাঁচজনকে আসামি করে অপহরণ মামলা দায়ের করেছেন।",
+          "প্রধান আসামি হিসেবে মাদ্রাসার পরিচালক ও প্রধান শিক্ষক আরিফুল ইসলামসহ তার পরিবারের চার সদস্যকে অভিযুক্ত করা হয়েছে।",
+          "পুলিশ আসামিদের গ্রেপ্তারে অভিযান চালাচ্ছে এবং অপহৃত ছাত্রীকে উদ্ধারের চেষ্টা অব্যাহত রয়েছে।"
         ],
         "bullets_en": [
-          "The Ballon dOr trophy is not made of solid gold but crafted from brass blocks coated with a layer of gold.",
-          "The estimated market value of this nearly twelve-kilogram golden ball exceeds two hundred thousand euros.",
-          "Award-winning footballers receive bonuses and special financial benefits according to their club contracts in addition to the trophy."
+          "The student's father filed an abduction case at Joydebpur police station naming five individuals.",
+          "Madrasa director and headteacher Ariful Islam and four of his family members have been accused.",
+          "Police are conducting drives to arrest the accused and rescue the abducted student."
         ],
-        "impact_bn": "ফুটবলপ্রেমী তরুণ ও সমর্থকরা বৈশ্বিক এই মর্যাদাপূর্ণ পুরস্কারটির নির্মাণশৈলী ও আর্থিক দিক সম্পর্কে স্বচ্ছ ধারণা লাভ করে।",
-        "impact_en": "Football enthusiasts and fans gain a clear understanding of the craftsmanship and financial aspects behind this global prestigious award.",
-        "details_bn": "ফুটবলের বিশ্বমঞ্চে ব্যক্তিগত শ্রেষ্ঠত্বের সবচেয়ে বড় স্বীকৃতি হিসেবে বিবেচিত হয় ব্যালন ডি অর। ফ্রান্স ফুটবল ম্যাগাজিনকর্তৃক প্রবর্তিত এই পুরস্কারটি অর্জনের স্বপ্ন দেখেন বিশ্বের শীর্ষস্থানীয় ফুটবলাররা। ট্রফিটির জৌলুস ও সম্মান বিশ্বজুড়ে ব্যাপক আলোচিত হলেও এর ভেতরের কারিগরি উপাদান এবং আর্থিক মূল্যের বিষয়গুলো নিয়ে সবসময়ই সাধারণ দর্শকদের মধ্যে কৌতূহল কাজ করে। প্রতি বছর ফুটবলের সেরা পারফর্মারদের সম্মানিত করতে এই মর্যাদাপূর্ণ ট্রফি প্রদান করা হয়।",
-        "details_en": "The Ballon dOr is considered the ultimate recognition of individual excellence on the global football stage. Established by France Football magazine, top global footballers dream of winning this accolade. While the glamour and honor of the trophy are widely discussed worldwide, general audiences remain curious about its internal craftsmanship and financial valuation. This prestigious trophy is awarded annually to honor the finest performers in football."
+        "impact_bn": "এই ঘটনা নারী নিরাপত্তা ও শিক্ষাপ্রতিষ্ঠানে ছাত্রীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়িয়েছে।",
+        "impact_en": "This incident raises serious concerns regarding the safety of female students and educational institutional accountability.",
+        "details_bn": "গাজীপুর সদর উপজেলায় অষ্টম শ্রেণির এক ছাত্রীকে প্রেমের প্রস্তাবে রাজি না হওয়ায় অপহরণের অভিযোগ উঠেছে। এ ঘটনায় ছাত্রীর বাবা জয়দেবপুর থানায় প্রধান শিক্ষক ও মাদ্রাসার পরিচালক আরিফুল ইসলামসহ পাঁচজনের বিরুদ্ধে মামলা করেন। পুলিশ ভুক্তভোগীকে উদ্ধার এবং অভিযুক্তদের আইনের আওতায় আনতে তদন্ত ও অভিযান চালাচ্ছে।",
+        "details_en": "An eighth-grade student was allegedly abducted in Gazipur sadar upazila after she refused a romantic proposal from a madrasa director. The victim's father filed a formal case at Joydebpur police station accusing the headteacher Ariful Islam and four others. Law enforcement is currently investigating the matter and conducting drives to rescue the student and arrest the suspects."
       }
     },
     {
-      "story_id": "6e10f761-f0e3-5d75-ad59-33a60bd36e60",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T03:52:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8875,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/business/news/976782/%E2%80%98%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A7%80%E0%A6%B0%E0%A6%AC-%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-%E0%A6%95%E0%A7%87%E0%A6%89-%E0%A6%A8%E0%A7%87%E0%A6%87%E2%80%99",
-          "title": "‘আমাদের নীরব কান্না দেখার মতো কেউ নেই’",
-          "snippet": "‘আমাদের নীরব কান্না দেখার মতো কেউ নেই’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খুচরা বাজারে ঊর্ধ্বমুখী মাছের দামে সাধারণ ক্রেতাদের নাভিশ্বাস",
-        "title_en": "High Fish Prices in Retail Markets Leave Consumers Struggling",
-        "summary_bn": "রাজধানীর বাজারে মাছের চড়া দামের কারণে সাধারণ ক্রেতারা হিমশিম খাচ্ছেন এবং ছোট মাছ কিনতে গিয়েও বিপাকে পড়ছেন।",
-        "summary_en": "Ordinary consumers in the capital are struggling to purchase fish amid soaring retail prices in local markets.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T03:52:00+00:00",
-        "lead_bn": "রাজধানীর বাজারে মাছের চড়া দামের কারণে সাধারণ ক্রেতারা হিমশিম খাচ্ছেন এবং ছোট মাছ কিনতে গিয়েও বিপাকে পড়ছেন।",
-        "lead_en": "Ordinary consumers in the capital are struggling to purchase fish amid soaring retail prices in local markets.",
-        "bullets_bn": [
-          "বাজারে টেংরা মাছ প্রতি কেজি সাড়ে সাতশ টাকা এবং মলা মাছ প্রায় পাঁচশ টাকা দরে বিক্রি হচ্ছে।",
-          "অতিরিক্ত দামের কারণে নিম্ন ও মধ্যবিত্ত আয়ের ক্রেতারা পছন্দমতো মাছ কিনতে পারছেন না।",
-          "দ্রব্যমূল্যের এই ঊর্ধ্বগতি অব্যাহত থাকায় সাধারণ মানুষের দৈনন্দিন খরচ মেটাতে হিমশিম অবস্থা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Retail prices for Tengra fish have reached seven hundred fifty taka per kilogram while Mola fish sells around five hundred taka.",
-          "Lower and middle-income consumers are unable to buy desired fish quantities due to surging costs.",
-          "The ongoing price pressure creates severe challenges for ordinary citizens managing daily household budgets."
-        ],
-        "impact_bn": "নিত্যপণ্যের উচ্চ মূল্যের কারণে সাধারণ পরিবারের মাসিক বাজেট রক্ষা করা কঠিন হয়ে পড়েছে।",
-        "impact_en": "High commodity prices make it increasingly difficult for ordinary households to manage their monthly budgets.",
-        "details_bn": "রাজধানীর বাজারগুলোতে দীর্ঘদিন ধরে মাছসহ বিভিন্ন নিত্যপ্রয়োজনীয় পণ্যের দাম চড়া রয়েছে। আয় ও ব্যয়ের অসামঞ্জস্যতার কারণে সাধারণ মানুষ ও নির্দিষ্ট আয়ের পরিবারগুলো প্রতিনিয়ত অর্থনৈতিক সংকটের মুখোমুখি হচ্ছে। বাজার মনিটরিং জোরদার না থাকায় নিত্যপণ্যের দাম নিয়ন্ত্রণে আসছে না বলে ক্রেতাদের অভিযোগ।",
-        "details_en": "Fish and essential commodity prices have remained persistently high in urban markets. Mismatched income and expenditure levels continuously expose ordinary families to economic hardships. Consumers attribute the lack of price control to insufficient market monitoring."
-      }
-    },
-    {
-      "story_id": "4a70fc95-a35e-5ad9-8615-a0ef09da6744",
+      "story_id": "bb11323e-4451-5c26-9182-ffce664c46a8",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -233,30 +235,29 @@
       ],
       "region": "international",
       "tags": [
-        "#IsraelElections",
-        "#GadiEisenkot",
-        "#BenjaminNetanyahu",
-        "#MiddleEastPolitics"
+        "#ChinaPolitics",
+        "#XiJinping",
+        "#CommunistParty"
       ],
-      "image_url": "https://static.dw.com/image/79750417_6.jpg",
+      "image_url": "https://th-i.thgim.com/public/incoming/dczace/article71625641.ece/alternates/LANDSCAPE_1200/China_Party_Meeting_44_68.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T04:00:41.731712+00:00",
+      "published_at": "2026-10-26T04:38:42+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6884,
+      "rank_score": 0.5533,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
-          "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-          "snippet": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu"
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece",
+          "title": "China’s Communist Party elite hold key talks on governance",
+          "snippet": "China’s Communist Party elite hold key talks on governance"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলি নির্বাচনে মরোক্কান শেকড় ব্যবহার করে নেতানিয়াহুকে চ্যালেঞ্জ আইসেনকোটের",
-        "title_en": "Eisenkot Challenges Netanyahu by Campaigning on Moroccan Roots in Israel",
-        "summary_bn": "ইসরায়েলি রাজনীতিক গাদি আইসেনকোট আসন্ন নির্বাচনকে সামনে রেখে মরোক্কান শেকড় ব্যবহার করে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে প্রচারণা শুরু করেছেন।",
-        "summary_en": "Israeli politician Gadi Eisenkot leverages his Moroccan roots to challenge Prime Minister Benjamin Netanyahu ahead of national elections.",
+        "title_bn": "চীনের কমিউনিস্ট পার্টির অভিজাতদের গুরুত্বপূর্ণ শাসন বিষয়ক বৈঠক শুরু",
+        "title_en": "Chinese Communist Party Elites Open Key Governance Talks",
+        "summary_bn": "চীনের প্রেসিডেন্ট শি জিনপিংয়ের নেতৃত্বে কমিউনিস্ট পার্টির তিন শ সদস্যের কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম বৈঠক শুরু হয়েছে।",
+        "summary_en": "Chinese President Xi Jinping opened a key plenum meeting of ruling Communist Party elites in Beijing.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -264,79 +265,82 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T04:00:41.731712+00:00",
-        "lead_bn": "ইসরায়েলি রাজনীতিক গাদি আইসেনকোট আসন্ন নির্বাচনকে সামনে রেখে মরোক্কান শেকড় ব্যবহার করে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর বিরুদ্ধে প্রচারণা শুরু করেছেন।",
-        "lead_en": "Israeli politician Gadi Eisenkot leverages his Moroccan roots to challenge Prime Minister Benjamin Netanyahu ahead of national elections.",
+        "published_at": "2026-10-26T04:38:42+00:00",
+        "lead_bn": "চীনের প্রেসিডেন্ট শি জিনপিংয়ের নেতৃত্বে কমিউনিস্ট পার্টির তিন শ সদস্যের কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম বৈঠক শুরু হয়েছে।",
+        "lead_en": "Chinese President Xi Jinping opened a key plenum meeting of ruling Communist Party elites in Beijing.",
         "bullets_bn": [
-          "উদারপন্থী ইয়াশার দলের প্রার্থী গাদি আইসেনকোট মরোক্কান শেকড়কে সামনে রেখে প্রচারণা চালাচ্ছেন।",
-          "এসডেরট শহরে মরোক্কান ইহুদি সম্প্রদায়ের বড় উপস্থিতি রয়েছে এবং অতীতে এটি নেতানিয়াহুর লিকুদ দলের শক্ত ঘাঁটি ছিল।",
-          "এই কৌশলগত প্রচারণা ইসরায়েলি রাজনীতিতে পূর্ব ইউরোপীয় ও মধ্যপ্রাচ্য-উত্তর আফ্রিকান ইহুদিদের ঐতিহাসিক বিভাজনকে ফুটিয়ে তুলেছে।"
+          "চীনের প্রেসিডেন্ট শি জিনপিং কমিউনিস্ট পার্টির কেন্দ্রীয় কমিটির পঞ্চম প্লেনাম অধিবেশন আনুষ্ঠানিকভাবে উদ্বোধন করেছেন",
+          "বৈঠকে দলীয় শৃঙ্খলা জোরদার দুর্নীতি হ্রাস এবং ক্যাডারদের আরও অনুগত করার কৌশলগত পরিকল্পনা উপস্থাপন করা হয়েছে",
+          "চার দিনব্যাপী এই গোপন বৈঠক থেকে আগামীতে দলীয় নেতৃত্ব ও ভবিষ্যৎ দিকনির্দেশনা সম্পর্কিত চূড়ান্ত সিদ্ধান্ত আসতে পারে"
         ],
         "bullets_en": [
-          "Liberal Yashar party politician Gadi Eisenkot highlights his Moroccan ancestry in campaign posters and messaging.",
-          "Sderot features a large Moroccan Jewish community and has historically been a strong stronghold for Netanyahu's Likud party.",
-          "This campaign strategy highlights deep historical divisions in Israel between Ashkenazi and Mizrahi Jewish populations."
+          "Chinese President Xi Jinping officially inaugurated the fifth plenum meeting of the ruling Communist Party Central Committee",
+          "A draft decision was presented to tighten party discipline reduce corruption and make cadres more loyal and effective",
+          "The closed-door gathering concludes after four days with expected insights into future party leadership and direction"
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইসরায়েলে দীর্ঘকাল ধরে ইউরোপীয় বংশোদ্ভূত আশকেনাজি এবং মধ্যপ্রাচ্য ও উত্তর আফ্রিকার মিজরাহি ইহুদিদের মধ্যে রাজনৈতিক ও সামাজিক বিভাজন রয়েছে। দেশটির মোট ইহুদি জনসংখ্যার প্রায় অর্ধেক বা চার মিলিয়ন মানুষ মিজরাহি বংশোদ্ভূত। এসডেরট শহরের মতো এলাকাগুলো ঐতিহাসিকভাবে ডানপন্থী দলগুলোর দুর্গ হিসেবে পরিচিত হলেও বর্তমান রাজনৈতিক প্রতিদ্বন্দ্বিতায় এই ডেমোগ্রাফিক পরিচয় বড় ভূমিকা রাখছে।",
-        "details_en": "Israel has long experienced political and social divisions between Ashkenazi Jews of European origin and Mizrahi Jews from Middle Eastern and North African backgrounds. Approximately half of Israel's Jewish population, or about 4 million people, are of Mizrahi origin. While cities like Sderot have historically served as strongholds for the Israeli right, changing political dynamics and demographic appeal increasingly shape national electoral strategies."
+        "details_bn": "চীনের ক্ষমতাসীন কমিউনিস্ট পার্টির কেন্দ্রীয় কমিটির এই সভাটি পঞ্চম প্লেনাম নামে পরিচিত। প্রায় ৩০০ সদস্যের এই বৈঠকে দলীয় শৃঙ্খলা বজায় রাখা এবং দুর্নীতির বিরুদ্ধে কঠোর ব্যবস্থা নেওয়ার ওপর বিশেষ জোর দেওয়া হচ্ছে। কঠোর নিরাপত্তার মধ্য দিয়ে অনুষ্ঠিত এই বন্ধ দরজা বৈঠকের পূর্ণাঙ্গ সিদ্ধান্ত ও ফলাফল সাধারণত অধিবেশন সমাপ্তির পরই প্রকাশ করা হয়। আসন্ন পার্টির জাতীয় কংগ্রেসের আগে এই বৈঠককে অত্যন্ত তাৎপর্যপূর্ণ বলে মনে করছেন আন্তর্জাতিক বিশ্লেষকরা।",
+        "details_en": "The fifth plenum of the Chinese Communist Party's Central Committee brings together roughly 300 elites in Beijing under tight security. The high-level gathering focuses heavily on tightening party discipline, curbing corruption, and boosting cadre loyalty. Few concrete details are typically released until the conclusion of the multi-day session, which serves as a crucial precursor to upcoming party congresses and major leadership decisions."
       }
     },
     {
-      "story_id": "489d33ac-e28d-5529-a289-bce04ef398f7",
+      "story_id": "2d455290-9a25-5b6f-8544-dcb58ed2219e",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law",
+        "climate_environment"
       ],
       "region": "international",
       "tags": [
-        "#IsraelElection",
-        "#Netanyahu",
-        "#GadiEisenkot"
+        "#BrazilElection",
+        "#Bolsonaro"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/dxaa3y/article71625545.ece/alternates/LANDSCAPE_1200/Israel_Elections_526_2.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
       "image_caption": null,
-      "published_at": "2026-10-26T03:33:31+00:00",
+      "published_at": "2026-10-26T04:38:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.5282,
+      "rank_score": 0.5511,
       "sources": [
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/israels-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran/article71625533.ece",
-          "title": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran",
-          "snippet": "Israel's Eisenkot vows unity as Netanyahu paints him as soft on Iran"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+          "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+          "snippet": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula w"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলি নির্বাচনে ঐক্যের ডাক দিয়ে গাডি আইজেনকোটের প্রচার শেষ",
-        "title_en": "Israeli Election Contender Gadi Eisenkot Vows Unity in Final Rally",
-        "summary_bn": "ইসরায়েলি নির্বাচনে প্রতিদ্বন্দ্বী প্রার্থী গাডি আইজেনকোট বিভেদ দূর করে দেশজুড়ে ঐক্যের অঙ্গীকার করেছেন।",
-        "summary_en": "Israeli election contender Gadi Eisenkot vowed to unite the country in his final major campaign rally.",
+        "title_bn": "ব্রাজিলের নির্বাচন ফলাফল মেনে নিতে অস্বীকৃতি ফ্ল্যাভিও বলসোনারোর",
+        "title_en": "Flavio Bolsonaro Refuses to Concede Brazilian Election Results",
+        "summary_bn": "ব্রাজিলের ফার রাইট সিনেটর ফ্ল্যাভিও বলসোনারো নির্বাচন ফলাফল মেনে নেওয়া অসম্ভব ঘোষণা করে ভোট বাতিলের আইনি পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন।",
+        "summary_en": "Far right Brazilian senator Flavio Bolsonaro declared it impossible to concede election results and announced legal steps for annulment.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T03:33:31+00:00",
-        "lead_bn": "ইসরায়েলি নির্বাচনে প্রতিদ্বন্দ্বী প্রার্থী গাডি আইজেনকোট বিভেদ দূর করে দেশজুড়ে ঐক্যের অঙ্গীকার করেছেন।",
-        "lead_en": "Israeli election contender Gadi Eisenkot vowed to unite the country in his final major campaign rally.",
+        "published_at": "2026-10-26T04:38:16+00:00",
+        "lead_bn": "ব্রাজিলের ফার রাইট সিনেটর ফ্ল্যাভিও বলসোনারো নির্বাচন ফলাফল মেনে নেওয়া অসম্ভব ঘোষণা করে ভোট বাতিলের আইনি পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন।",
+        "lead_en": "Far right Brazilian senator Flavio Bolsonaro declared it impossible to concede election results and announced legal steps for annulment.",
         "bullets_bn": [
-          "গাডি আইজেনকোট বিভেদ দূর করে ইসরায়েলি সমাজে ঐক্যের ডাক দেন এবং নিরাপত্তা ও অর্থনীতির ওপর জোর দেন।",
-          "যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুকে সমর্থন জানিয়ে তাকে অসামান্য যোদ্ধা প্রধানমন্ত্রী হিসেবে অভিহিত করেন।",
-          "ইসরায়েলে সাধারণ নির্বাচন অনুষ্ঠিত হচ্ছে এবং ভোটগ্রহণের ঠিক আগমুহূর্তে নতুন জনমত জরিপ নিষিদ্ধ করা হয়।"
+          "ফ্ল্যাভিও বলসোনারো ভোট ফলাফল মেনে না নিয়ে নির্বাচন বাতিলের জন্য আইনি লড়াইয়ের ঘোষণা দেন",
+          "সুপ্রিম কোর্টের বিচারপতি ক্রিস্টিয়ানো জানিনের ভোটগ্রহণ সময় বাড়ানোর সিদ্ধান্তকে অগ্রহণযোগ্য বলে অভিযোগ করেন তিনি",
+          "নির্বাচনী বিধি লঙ্ঘনের অভিযোগ এনে তার আইনি দল ফলাফল চ্যালেঞ্জ করার প্রক্রিয়া শুরু করেছে"
         ],
         "bullets_en": [
-          "Gadi Eisenkot pledged to heal societal divisions and emphasized national security and economic commitment.",
-          "U.S. President Donald Trump publicly backed Prime Minister Benjamin Netanyahu, calling him an outstanding warrior prime minister.",
-          "Israel held its general election amid tight polls, following a statutory ban on releasing new polling data."
+          "Flavio Bolsonaro refused to concede the election results and announced legal efforts seeking annulment.",
+          "He claimed Supreme Court Justice Cristiano Zanin's decision to extend voting hours was unacceptable.",
+          "His legal team has initiated processes to challenge the outcome citing procedural alterations."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলের সাধারণ নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নিরাপত্তাভিত্তিক প্রচারের বিপরীতে বিরোধী প্রার্থী গাডি আইজেনকোট নিরাপত্তা ব্যর্থতার জন্য তদন্ত কমিশন গঠনের প্রতিশ্রুতি দিয়েছেন। নির্বাচনের প্রাক্কালে নেতানিয়াহুর পক্ষে মার্কিন সমর্থন এবং আইজেনকোটের ঐক্যের আহ্বান ভোটারদের মধ্যে তীব্র মেরুকরণ তৈরি করেছে।",
-        "details_en": "Ahead of the general election, incumbent Prime Minister Benjamin Netanyahu campaigned heavily on his security credentials, while challenger Gadi Eisenkot pledged a state commission of inquiry into past security failings. The election drew international attention after U.S. President Donald Trump publicly endorsed Netanyahu, reflecting deep political divisions within Israeli society."
+        "impact_bn": "বহির্দেশের এই রাজনৈতিক অস্থিরতা বৈশ্বিক গণতান্ত্রিক স্থিতিশীলতা এবং দক্ষিণ আমেরিকার কূটনৈতিক সম্পর্কে প্রভাব ফেলতে পারে।",
+        "impact_en": "This political instability abroad could impact global democratic stability and diplomatic relations within South America.",
+        "details_bn": "ব্রাজিলের এই রাজনৈতিক পরিস্থিতি সাবেক প্রেসিডেন্ট জাইর বলসোনারোর আগের বিতর্কিত আচরণের ধারাবাহিকতা। বামপন্থী লুডার বিজয়ের পর থেকেই বলসোনারো শিবির বিভিন্ন আইনি ও রাজনৈতিক প্রক্রিয়ায় নির্বাচনের বৈধতা নিয়ে প্রশ্ন তুলে আসছে, যা দেশটির রাজনৈতিক মেরুকরণকে আরও তীব্র করে তুলেছে।",
+        "details_en": "This political situation in Brazil echoes the previous controversial behavior of former president Jair Bolsonaro. Following the victory of leftist leader Lula, the Bolsonaro camp has repeatedly questioned the legitimacy of the election through various legal and political avenues, intensifying political polarization."
       }
     }
   ]
