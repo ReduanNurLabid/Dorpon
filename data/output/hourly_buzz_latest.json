@@ -1,7 +1,119 @@
 {
-  "updated_at": "2026-10-27T06:00:48.917529",
+  "updated_at": "2026-10-27T07:00:49.819711",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "0a93f5ef-9352-5e55-847e-9735e385331d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T06:45:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.2778,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172436",
+          "title": "শেখ হাসিনা দেশে ফিরলে মবের শিকার হবেন না: প্রধানমন্ত্রীর উপদেষ্টা",
+          "snippet": "শেখ হাসিনা দেশে ফিরলে মবের শিকার হবেন না: প্রধানমন্ত্রীর উপদেষ্টা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "দেশে ফিরলে শেখ হাসিনাকে মুখোমুখি হতে হবে ন্যায়বিচারের",
+        "title_en": "Sheikh Hasina Will Face Justice Upon Returning Home",
+        "summary_bn": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফিরলে আইনি প্রক্রিয়ায় ন্যায়বিচারের মুখোমুখি হবেন বলে জানিয়েছেন প্রধানমন্ত্রীর উপদেষ্টা।",
+        "summary_en": "Ousted former prime minister Sheikh Hasina will face justice through proper legal procedures upon returning to the country, stated the prime minister's advisor.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T06:45:08+00:00",
+        "lead_bn": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফিরলে আইনি প্রক্রিয়ায় ন্যায়বিচারের মুখোমুখি হবেন বলে জানিয়েছেন প্রধানমন্ত্রীর উপদেষ্টা।",
+        "lead_en": "Ousted former prime minister Sheikh Hasina will face justice through proper legal procedures upon returning to the country, stated the prime minister's advisor.",
+        "bullets_bn": [
+          "ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে দেশে ফেরার পর নির্দিষ্ট আইনি কাঠামোর আওতায় বিচারের মুখোমুখি করা হবে।",
+          "উপদেষ্টা ডা. জাহেদ উর রহমান স্পষ্ট করেছেন যে আইনি প্রক্রিয়ার বাইরে কোনো ধরনের বেআইনি সহিংসতার শিকার তিনি হবেন না।",
+          "আইনশৃঙ্খলা বাহিনী ও সংশ্লিষ্ট কর্তৃপক্ষ বিচার প্রক্রিয়া সম্পন্ন করার জন্য আইনি পদক্ষেপ গ্রহণ করবে।"
+        ],
+        "bullets_en": [
+          "Ousted former prime minister Sheikh Hasina will face formal legal proceedings upon her return to the country.",
+          "Advisor Dr. Zahed Ur Rahman clarified that she will not be subjected to any unlawful violence outside the legal framework.",
+          "Law enforcement and relevant authorities will handle the judicial process according to established legal protocols."
+        ],
+        "impact_bn": "আইন ও বিচার ব্যবস্থার প্রতি সাধারণ মানুষের আস্থা ধরে রাখতে আইনি প্রক্রিয়া নিশ্চিত করার বিষয়টি গুরুত্বপূর্ণ প্রভাব ফেলবে।",
+        "impact_en": "Ensuring a transparent legal process will significantly impact public trust in the country's judicial system and rule of law.",
+        "details_bn": "ছাত্র-জনতার গণঅভুত্থানের মুখে ২০২৪ সালের আগস্টে ক্ষমতাচ্যুত হয়ে দেশ ছাড়েন তৎকালীন প্রধানমন্ত্রী শেখ হাসিনা। এরপর থেকে তার বিরুদ্ধে হত্যা মামলাসহ অসংখ্য অভিযোগ দায়ের করা হয়। বর্তমান অন্তর্বর্তীকালীন সরকারের পক্ষ থেকে বারবার জানানো হয়েছে যে, আইনের শাসন প্রতিষ্ঠায় প্রতিটি মামলার স্বচ্ছ বিচার নিশ্চিত করা হবে।",
+        "details_en": "Former Prime Minister Sheikh Hasina fled the country in August 2024 following a mass student-led uprising. Numerous charges, including murder cases, have since been filed against her. The interim government has repeatedly asserted that transparent legal proceedings will be ensured for all cases to uphold the rule of law."
+      }
+    },
+    {
+      "story_id": "03d49d58-7de1-52b9-b9b3-fb437a453205",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A7%81%E0%A6%A5%E0%A6%BF%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A6%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF-%E0%A6%86%E0%A6%B0%E0%A6%AC.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-27T06:43:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6354,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/saudi-arabia-is-willing-to-pay-the-houthis-1-billion-on-the-condition-that-they-stop-their-attacks/",
+          "title": "হামলা বন্ধের শর্তে হুথিদের ১০০ কোটি ডলার দিতে চায় সৌদি আরব",
+          "snippet": "হামলা বন্ধের শর্তে হুথিদের ১০০ কোটি ডলার দিতে চায় সৌদি আরব"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবের ওপর হামলা বন্ধে হুথিদের শত কোটি ডলার দিতে চায় রিয়াদ",
+        "title_en": "Saudi Arabia Proposes Billion-Dollar Deal to Stop Houthi Attacks",
+        "summary_bn": "সৌদি আরবের ওপর হামলা বন্ধের শর্তে ইরানের মাধ্যমে ইয়েমেনের হুথি গোষ্ঠীকে ১০০ কোটি ডলার দেওয়ার প্রস্তাব দিয়েছে রিয়াদ।",
+        "summary_en": "Riyadh has proposed a billion-dollar payment to Yemen's Houthi group via Iran to halt attacks against Saudi Arabia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T06:43:47+00:00",
+        "lead_bn": "সৌদি আরবের ওপর হামলা বন্ধের শর্তে ইরানের মাধ্যমে ইয়েমেনের হুথি গোষ্ঠীকে ১০০ কোটি ডলার দেওয়ার প্রস্তাব দিয়েছে রিয়াদ।",
+        "lead_en": "Riyadh has proposed a billion-dollar payment to Yemen's Houthi group via Iran to halt attacks against Saudi Arabia.",
+        "bullets_bn": [
+          "সৌদি প্রতিরক্ষামন্ত্রী প্রিন্স খালিদ বিন সালমান তেহরান সফর করে হুথিদের সঙ্গে যুদ্ধবিরতি নিয়ে আলোচনা করেছেন।",
+          "ইরানের মধ্যস্থতায় সামরিক বিমানে করে তেহরানে একশ কোটি ডলার পাঠানোর দাবি করেছে কূটনৈতিক সূত্র।",
+          "সৌদি বিমানবন্দর ও তেল স্থাপনায় হুথিদের ক্রমাগত হামলার কারণে অর্থনৈতিক ক্ষতি এড়াতে এই উদ্যোগ নেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Saudi Defense Minister Prince Khalid bin Salman visited Tehran to discuss a ceasefire with the Houthis.",
+          "Diplomatic sources claimed one billion dollars was transported to Tehran via military aircraft for the deal.",
+          "The initiative aims to curb ongoing Houthi attacks on Saudi airports and oil facilities causing economic damage."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহীদের সঙ্গে সৌদি আরবের দীর্ঘদিনের সংঘাত নিরসনে আঞ্চলিক কূটনৈতিক তৎপরতা চলছে। এর অংশ হিসেবে ইরান এবং মধ্যস্থতাকারী দেশগুলোর সহায়তায় তেহরানে উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়। সৌদি আরব ও মক্কা যৌথ প্রতিরক্ষা জোটের প্রতিনিধিরা তেহরানে ইরানি নেতৃত্ব ও গোয়েন্দা প্রধানদের সঙ্গে এই সংকটের কূটনৈতিক সমাধানের পথ খুঁজছেন। তবে অর্থ হস্তান্তরের বিষয়টি স্বাধীনভাবে নিশ্চিত করা যায়নি এবং সৌদি প্রশাসন সামরিক চাপের মুখে যুদ্ধবিরতির বিষয়টি অস্বীকার করেছে।",
+        "details_en": "Regional diplomatic efforts are underway to resolve the long-standing conflict between Saudi Arabia and Yemen's Houthi rebels. High-level meetings took place in Tehran with the assistance of Iran and mediating nations. Representatives from Saudi Arabia and the Makkah Joint Defense Coalition met with Iranian leadership and intelligence chiefs to seek a diplomatic solution. However, the cash transfer remains unverified, and Saudi officials maintain they will not agree to a ceasefire under military blackmail."
+      }
+    },
     {
       "story_id": "4aded559-e45e-5926-a0f7-9ad6e852da6d",
       "primary_category": "world_diplomacy",
@@ -20,7 +132,7 @@
       "published_at": "2026-10-27T05:59:28+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.6351,
+      "rank_score": 1.5634,
       "sources": [
         {
           "name": "Channel i",
@@ -30,10 +142,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও জাপান দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় নিতে একমত",
-        "title_en": "Bangladesh and Japan Agree to Elevate Bilateral Relations",
-        "summary_bn": "বাংলাদেশ ও জাপান জ্বালানি, প্রযুক্তি ও অবকাঠামো খাতে সহযোগিতা বাড়াতে এবং দ্বিপক্ষীয় অংশীদারত্ব অনন্য উচ্চতায় নিয়ে যেতে সম্মত হয়েছে।",
-        "summary_en": "Bangladesh and Japan have agreed to expand cooperation in energy, technology, and infrastructure to elevate their bilateral partnership.",
+        "title_bn": "বাংলাদেশ ও জাপান জ্বালানি ও অবকাঠামো খাতে সহযোগিতা বাড়াতে একমত",
+        "title_en": "Bangladesh and Japan Agree to Boost Cooperation in Energy and Infrastructure",
+        "summary_bn": "বাংলাদেশ ও জাপান জ্বালানি, তথ্যপ্রযুক্তি এবং অবকাঠামো খাতে দ্বিপক্ষীয় সহযোগিতা জোরদার করতে সম্মত হয়েছে।",
+        "summary_en": "Bangladesh and Japan have agreed to strengthen bilateral cooperation in energy, information technology, and infrastructure sectors.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -43,187 +155,139 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T05:59:28+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপান জ্বালানি, প্রযুক্তি ও অবকাঠামো খাতে সহযোগিতা বাড়াতে এবং দ্বিপক্ষীয় অংশীদারত্ব অনন্য উচ্চতায় নিয়ে যেতে সম্মত হয়েছে।",
-        "lead_en": "Bangladesh and Japan have agreed to expand cooperation in energy, technology, and infrastructure to elevate their bilateral partnership.",
+        "lead_bn": "বাংলাদেশ ও জাপান জ্বালানি, তথ্যপ্রযুক্তি এবং অবকাঠামো খাতে দ্বিপক্ষীয় সহযোগিতা জোরদার করতে সম্মত হয়েছে।",
+        "lead_en": "Bangladesh and Japan have agreed to strengthen bilateral cooperation in energy, information technology, and infrastructure sectors.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপান জ্বালানি, তথ্যপ্রযুক্তি, রেল ও যোগাযোগ খাতে সহযোগিতা জোরদারে ঐকমত্যে পৌঁছেছে।",
+          "বাংলাদেশ ও জাপান জ্বালানি, তথ্যপ্রযুক্তি, রেল ও যোগাযোগ অবকাঠামো এবং গভীর সমুদ্রবন্দর খাতে সহযোগিতা বাড়াতে একমত হয়েছে।",
           "প্রধানমন্ত্রী তারেক রহমান জাপানকে বাংলাদেশের দীর্ঘদিনের বিশ্বস্ত ও পরীক্ষিত বন্ধু হিসেবে অভিহিত করেছেন।",
-          "উভয় দেশ গভীর সমুদ্রবন্দর ও দ্বিপক্ষীয় বিনিয়োগ বাড়াতে যৌথভাবে কাজ করার সিদ্ধান্ত নিয়েছে।"
+          "উভয় দেশ তাদের ঐতিহাসিক অংশীদারত্বকে অনন্য এক উচ্চতায় নিয়ে যাওয়ার লক্ষ্যে যৌথভাবে কাজ করবে।"
         ],
         "bullets_en": [
-          "Bangladesh and Japan reached a consensus to strengthen cooperation in energy, IT, rail, and communication sectors.",
-          "Prime Minister Tarique Rahman described Japan as a long-standing and trusted friend of Bangladesh.",
-          "Both nations decided to work jointly on deep-sea port development and increasing bilateral investment."
+          "Bangladesh and Japan agreed to enhance cooperation in energy, IT, rail and communication infrastructure, and deep seaport development.",
+          "Prime Minister Tarique Rahman described Japan as a long-standing, trusted, and tested friend of Bangladesh.",
+          "Both nations will work jointly to elevate their historic partnership to a new height."
         ],
-        "impact_bn": "জাপানি বিনিয়োগ বৃদ্ধি পেলে দেশের অবকাঠামো উন্নয়ন ও কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
-        "impact_en": "Increased Japanese investment will accelerate infrastructure development and create employment opportunities.",
-        "details_bn": "জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং স্বাধীনতার পর থেকেই দেশটি বাংলাদেশে বিভিন্ন মেগা প্রকল্পে আর্থিক ও প্রযুক্তিগত সহায়তা দিয়ে আসছে। বিগত বছরগুলোতে দুই দেশের মধ্যে বাণিজ্য ও অর্থনৈতিক সহযোগিতা উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে। বর্তমান দ্বিপক্ষীয় বৈঠকের মাধ্যমে এই সম্পর্ক আরও কৌশলগত ও সুদৃঢ় রূপ লাভ করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Japan has been one of Bangladesh's key development partners, providing financial and technical assistance for major infrastructure projects since independence. Economic cooperation and trade between the two nations have grown significantly over the years. This bilateral meeting aims to transform this partnership into a more strategic and robust relationship."
+        "impact_bn": "জাপানি বিনিয়োগ বৃদ্ধির ফলে দেশের যোগাযোগ ও জ্বালানি খাতে নতুন কর্মসংস্থান তৈরি হতে পারে।",
+        "impact_en": "Increased Japanese investment could create new employment opportunities in the country's infrastructure and energy sectors.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। দেশটি বাংলাদেশের অন্যতম বড় উন্নয়ন অংশীদার হিসেবে অবকাঠামো উন্নয়ন, মেট্রো রেল প্রকল্প এবং বিভিন্ন মেগা প্রকল্পে বড় অংকের আর্থিক সহায়তা দিয়ে আসছে। দুই দেশের শীর্ষপর্যায়ের এই বৈঠকের মাধ্যমে অর্থনৈতিক অংশীদারত্ব আরও সুদৃঢ় হবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic relationship. Japan has been one of Bangladesh's major development partners, providing substantial financial assistance for infrastructure development, metro rail projects, and various mega projects. This high-level bilateral meeting is expected to further strengthen their economic partnership."
       }
     },
     {
-      "story_id": "921bb6b5-83e6-5ff5-8b66-9145527a6a82",
-      "primary_category": "governance_law",
+      "story_id": "5f07ff37-d993-5a73-92f1-b4c24810707a",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business",
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T05:49:32+00:00",
+      "published_at": "2026-10-27T06:57:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7304,
+      "importance_score": 2.4,
+      "rank_score": 0.9338,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1172404",
-          "title": "নাটোরে হামলার ১২ দিন পর ছাত্রদল নেতা শাকিলের মৃত্যু",
-          "snippet": "নাটোরে হামলার ১২ দিন পর ছাত্রদল নেতা শাকিলের মৃত্যু"
+          "url": "https://www.jagonews24.com/jago-jobs/news/1172445",
+          "title": "অ্যাকশনএইডের নিয়োগ বিজ্ঞপ্তি, বেতন ৮৭ হাজার টাকা",
+          "snippet": "অ্যাকশনএইডের নিয়োগ বিজ্ঞপ্তি, বেতন ৮৭ হাজার টাকা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাটোরে দুর্বৃত্তের হামলায় আহত ছাত্রদল নেতা শাকিল মারা গেছেন",
-        "title_en": "Injured Chhatra Dal Leader Shakil Passes Away After Attack in Natore",
-        "summary_bn": "গুরুদাসপুরে দুর্বৃত্তদের হামলায় গুরুতর আহত পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "summary_en": "Paurashava Chhatra Dal leader Shakil Islam has died while undergoing treatment after being attacked by miscreants in Gurudaspur.",
+        "title_bn": "প্রোগ্রাম অফিসার পদে ৮৭ হাজার টাকা বেতনে জনবল নিয়োগ দিচ্ছে অ্যাকশনএইড",
+        "title_en": "ActionAid Bangladesh Recruits Program Officer with BDT 87000 Salary",
+        "summary_bn": "যুক্তরাজ্যভিত্তিক আন্তর্জাতিক উন্নয়ন প্রতিষ্ঠান অ্যাকশনএইড বাংলাদেশ আকর্ষণীয় বেতনে প্রোগ্রাম অফিসার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "summary_en": "UK-based international development organization ActionAid Bangladesh has published a job circular for the position of Program Officer.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T05:49:32+00:00",
-        "lead_bn": "গুরুদাসপুরে দুর্বৃত্তদের হামলায় গুরুতর আহত পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "lead_en": "Paurashava Chhatra Dal leader Shakil Islam has died while undergoing treatment after being attacked by miscreants in Gurudaspur.",
+        "published_at": "2026-10-27T06:57:07+00:00",
+        "lead_bn": "যুক্তরাজ্যভিত্তিক আন্তর্জাতিক উন্নয়ন প্রতিষ্ঠান অ্যাকশনএইড বাংলাদেশ আকর্ষণীয় বেতনে প্রোগ্রাম অফিসার পদে জনবল নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে।",
+        "lead_en": "UK-based international development organization ActionAid Bangladesh has published a job circular for the position of Program Officer.",
         "bullets_bn": [
-          "গুরুদাসপুরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-          "দুর্বৃত্তদের হামলার শিকার হয়ে ১২ দিন ধরে হাসপাতালে চিকিৎসাধীন ছিলেন এই ছাত্রদল নেতা।",
-          "এই মৃত্যুর ঘটনায় জড়িতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
+          "অ্যাকশনএইড বাংলাদেশ প্রোগ্রাম অফিসার পদে নতুন জনবল নিয়োগের জন্য আনুষ্ঠানিক বিজ্ঞপ্তি প্রকাশ করেছে।",
+          "নিযুক্ত প্রার্থীরা মাসিক সাতাশি হাজার টাকা বেতনসহ প্রতিষ্ঠানের নির্ধারিত সুযোগ-সুবিধা পাবেন।",
+          "আগ্রহী যোগ্য প্রার্থীরা নির্ধারিত প্রক্রিয়া অনুসরণ করে অনলাইনে আবেদন সম্পন্ন করতে পারবেন।"
         ],
         "bullets_en": [
-          "Paurashava Chhatra Dal member secretary Shakil Islam died while undergoing treatment.",
-          "The student leader had been hospitalized for twelve days following an attack by miscreants.",
-          "Legal procedures are underway against those involved in the murder."
+          "ActionAid Bangladesh has officially published a job circular to recruit a Program Officer.",
+          "Selected candidates will receive a monthly salary of eighty-seven thousand taka along with benefits.",
+          "Interested eligible candidates can complete their applications online following the specified procedure."
         ],
-        "impact_bn": "এই রাজনৈতিক সহিংসতার ঘটনায় স্থানীয় শিক্ষার্থী ও সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
-        "impact_en": "This incident of political violence has heightened safety concerns among local students and residents.",
-        "details_bn": "নাটোরের গুরুদাসপুরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের ওপর দুর্বৃত্তরা হামলা চালায়। এই হামলায় তিনি গুরুতর আহত হয়ে দীর্ঘ ১২ দিন হাসপাতালে চিকিৎসাধীন ছিলেন। চিকিৎসাধীন অবস্থায় তার মৃত্যু ঘটে। এই হত্যাকাণ্ডের পর স্থানীয় রাজনৈতিক অঙ্গনে উত্তেজনা বিরাজ করছে এবং দোষীদের দ্রুত গ্রেপ্তারের দাবি উঠেছে।",
-        "details_en": "Paurashava Chhatra Dal member secretary Shakil Islam came under attack by miscreants in Gurudaspur, Natore. He sustained critical injuries and remained hospitalized for twelve days before succumbing to his injuries during treatment. His death has sparked tension in local political circles, with demands for the swift arrest of the perpetrators."
+        "impact_bn": "চাকরিপ্রার্থী তরুণ ও উন্নয়নকর্মীদের জন্য এটি একটি আকর্ষণীয় কর্মসংস্থানের সুযোগ তৈরি করেছে।",
+        "impact_en": "This creates an attractive employment opportunity for young job seekers and development professionals.",
+        "details_bn": "অ্যাকশনএইড বাংলাদেশ বিশ্বের বিভিন্ন দেশের মতো বাংলাদেশেও দারিদ্র্য বিমোচন, নারীর ক্ষমতায়ন এবং মানবাধিকার নিয়ে কাজ করে আসছে। প্রতিষ্ঠানটি নিয়মিতভাবে তাদের বিভিন্ন কর্মসূচির সফল বাস্তবায়নের জন্য দক্ষ ও পেশাদার জনবল নিয়োগ দিয়ে থাকে। এর অংশ হিসেবেই নতুন এই পদের জন্য বিজ্ঞপ্তি প্রকাশ করা হয়েছে, যা দেশের শিক্ষিত তরুণদের জন্য ক্যারিয়ার গড়ার নতুন সুযোগ উন্মুক্ত করেছে।",
+        "details_en": "ActionAid Bangladesh works on poverty alleviation, women empowerment, and human rights. The organization regularly recruits skilled professionals for the successful implementation of its various programs. As part of this, the new circular has been published, opening up career opportunities for educated youths in the country."
       }
     },
     {
-      "story_id": "75ecf655-9178-5ac6-b23b-1300c6144214",
-      "primary_category": "society_education",
+      "story_id": "345a7883-c3c0-572f-a544-c14ad14f27f0",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "society_education"
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#SouthKoreaGDP",
+        "#AIBoom",
+        "#Economy"
       ],
-      "image_url": null,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20260811__C4DU6ZR__v1__MidRes__SkoreaEconomy-1-1793075271_957b25-1793075829.jpg?resize=1200%2C630&quality=80",
       "image_caption": null,
-      "published_at": "2026-10-27T06:00:00+00:00",
+      "published_at": "2026-10-27T06:50:53+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9637,
+      "importance_score": 1.7,
+      "rank_score": 0.6206,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/columns/976902/%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81-%E0%A6%AC%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A7%88%E0%A6%B6%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%C2%A0",
-          "title": "চুমু বা আদরের আড়ালে শৈশবের অস্বস্তি ও ট্রমার গল্প",
-          "snippet": "চুমু বা আদরের আড়ালে শৈশবের অস্বস্তি ও ট্রমার গল্প"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
+          "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+          "snippet": "South Korea’s GDP growth beats forecasts amid AI boom"
         }
       ],
       "daily_buzz": {
-        "title_bn": "টঙ্গীর মাদ্রাসায় শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষকে চড় মারার ঘটনায় আলোচনা",
-        "title_en": "Teacher Slapped Over Alleged Inappropriate Touching of Student in Tongi Madrasa",
-        "summary_bn": "গাজীপুরের একটি মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষককে চড় মেরেছেন শিশুর বাবা।",
-        "summary_en": "A student's father slapped a madrasa teacher in Gazipur following allegations of inappropriate physical affection toward a six-year-old child.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার পণ্যের চাহিদা বৃদ্ধিতে দক্ষিণ কোরিয়ার জিডিপি প্রবৃদ্ধি ত্বরান্বিত হয়েছে",
+        "title_en": "South Korea GDP Growth Beats Forecasts Amid Booming Demand for AI",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তায় ব্যবহৃত চিপের রেকর্ড চাহিদার কারণে দক্ষিণ কোরিয়ার অর্থনৈতিক প্রবৃদ্ধি প্রত্যাশাকে ছাড়িয়ে গেছে।",
+        "summary_en": "South Korea economy expanded faster than expected due to surging global demand for artificial intelligence chips.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T06:00:00+00:00",
-        "lead_bn": "গাজীপুরের একটি মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষককে চড় মেরেছেন শিশুর বাবা।",
-        "lead_en": "A student's father slapped a madrasa teacher in Gazipur following allegations of inappropriate physical affection toward a six-year-old child.",
+        "published_at": "2026-10-27T06:50:53+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তায় ব্যবহৃত চিপের রেকর্ড চাহিদার কারণে দক্ষিণ কোরিয়ার অর্থনৈতিক প্রবৃদ্ধি প্রত্যাশাকে ছাড়িয়ে গেছে।",
+        "lead_en": "South Korea economy expanded faster than expected due to surging global demand for artificial intelligence chips.",
         "bullets_bn": [
-          "গাজীপুরের টঙ্গীর কারীউল কোরআন ইন্টারন্যাশনাল মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগ ওঠে।",
-          "ঘটনার প্রতিবাদ জানাতে শিক্ষার্থীর বাবা মাদ্রাসায় গেলে তর্কবিতর্কের একপর্যায়ে শিক্ষককে চড় মারেন।",
-          "সামাজিক যোগাযোগমাধ্যমে ঘটনাটি ছড়িয়ে পড়ার পর স্থানীয়ভাবে ব্যাপক আলোচনা ও সমালোচনার সৃষ্টি হয়।"
+          "তৃতীয় প্রান্তিকে দক্ষিণ কোরিয়ার মোট দেশজ উৎপাদন বা জিডিপি ত্রৈমাসিক ভিত্তিতে এক শতাংশ বৃদ্ধি পেয়েছে",
+          "সেমিকন্ডাক্টর ও যন্ত্রপাতির রপ্তানি বৃদ্ধি পাওয়ায় অর্থনীতিতে এই ইতিবাচক গতিশীলতা তৈরি হয়েছে",
+          "চলতি বছর দেশটির অর্থনৈতিক প্রবৃদ্ধি গত এক দশকেরও বেশি সময়ের মধ্যে সর্বোচ্চ স্তরে পৌঁছাতে পারে"
         ],
         "bullets_en": [
-          "A teacher at Qariul Quran International Madrasa in Tongi faced allegations of kissing a six-year-old student.",
-          "The child's father confronted the madrasa authorities and slapped the teacher during a heated argument.",
-          "The incident sparked widespread discussion and debate across social media platforms following the confrontation."
+          "Gross domestic product expanded by one percent on a quarterly basis during the third quarter",
+          "Exports rose by 2.3 percent driven heavily by semiconductors machinery and electrical equipment",
+          "The country remains on track to achieve its largest economic expansion in over a decade"
         ],
-        "impact_bn": "educational institutions need stricter child safety protocols and transparent grievance mechanisms to protect students and prevent conflicts.",
-        "impact_en": "This incident highlights the urgent need for enhanced student safety protocols and professional conduct guidelines within residential and non-residential educational institutions.",
-        "details_bn": "গাজীপুরের টঙ্গীর কারীউল কোরআন ইন্টারন্যাশনাল মাদ্রাসায় শিশু শিক্ষার্থীদের নিরাপত্তা এবং শিক্ষকদের আচরণ নিয়ে নতুন করে প্রশ্ন উঠেছে। মাদ্রাসার পরিবেশের মধ্যে শিশুদের সুরক্ষার অভাব এবং অভিভাবক ও শিক্ষকদের মধ্যকার আস্থার সংকট এই ঘটনার মাধ্যমে সামনে এসেছে। সামাজিক মাধ্যমে বিষয়টি ভাইরাল হওয়ার পর স্থানীয় সচেতনমহল ও অভিভাবকরা ক্ষোভ প্রকাশ করেছেন এবং এ ধরনের ঘটনার পুনরাবৃত্তি রোধে প্রশাসনিক নজরদারি বাড়ানোর দাবি জানিয়েছেন।",
-        "details_en": "The incident at the Tongi madrasa brings renewed attention to child safety and professional boundaries within educational institutions in Bangladesh. Concerns regarding student protection and the handling of grievances between parents and authorities have sparked public debate. The rapid spread of the altercation on social media platforms underscores the sensitivity surrounding child welfare issues in local religious schools."
-      }
-    },
-    {
-      "story_id": "04bbcffa-7868-52b9-aeba-865c22698d05",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T05:59:08+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9548,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/976988/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%AA%E0%A6%B0-%E0%A6%AF%E0%A6%BE",
-          "title": "প্রথম স্ত্রীকে সঙ্গে নিয়ে শ্যালিকাকে বিয়ে, এরপর যা ঘটলো মাসুদের সঙ্গে",
-          "snippet": "প্রথম স্ত্রীকে সঙ্গে নিয়ে শ্যালিকাকে বিয়ে, এরপর যা ঘটলো মাসুদের সঙ্গে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করায় নওগাঁর টিকটকারকে এলাকাছাড়া করা হয়",
-        "title_en": "Naogaon TikToker Driven Out of Area After Marrying Sister-in-Law",
-        "summary_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করার জেরে স্থানীয়দের ক্ষোভের মুখে এলাকা ছাড়তে বাধ্য হন নওগাঁর এক টিকটকার।",
-        "summary_en": "A TikToker in Naogaon was forced to leave his area following public outrage over marrying his sister-in-law.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T05:59:08+00:00",
-        "lead_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করার জেরে স্থানীয়দের ক্ষোভের মুখে এলাকা ছাড়তে বাধ্য হন নওগাঁর এক টিকটকার।",
-        "lead_en": "A TikToker in Naogaon was forced to leave his area following public outrage over marrying his sister-in-law.",
-        "bullets_bn": [
-          "প্রথম স্ত্রীকে সঙ্গে রেখে শ্যালিকাকে বিয়ে করার ঘটনায় স্থানীয়রা তীব্র ক্ষোভ প্রকাশ করেন।",
-          "মহাদেবপুর উপজেলার মাতাজি বিরামগ্রাম এলাকায় ২৬ অক্টোবর রাত ১০টার দিকে এই ঘটনা ঘটে।",
-          "স্থানীয়দের প্রতিবাদের মুখে ওই টিকটকার ও আইনজীবীর সহকারীকে মুখ চুনকালি মাখিয়ে এলাকা থেকে তাড়িয়ে দেওয়া হয়।"
-        ],
-        "bullets_en": [
-          "Local residents expressed strong outrage over the marriage of a TikToker to his sister-in-law while keeping his first wife.",
-          "The incident took place around 10 PM in the Mataji Biramgram area of Mahadebpur upazila.",
-          "Facing severe backlash from locals, the individual was humiliated and driven out of the area."
-        ],
-        "impact_bn": "সামাজিক মূল্যবোধ ও পারিবারিক শৃঙ্খলা রক্ষার ক্ষেত্রে এ ধরনের ঘটনা স্থানীয় পর্যায়ে জনরোষের সৃষ্টি করে।",
-        "impact_en": "Such incidents trigger public outrage at the local level regarding social values and domestic norms.",
-        "details_bn": "নওগাঁর মহাদেবপুর উপজেলার মাতাজি বিরামগ্রাম এলাকায় প্রথম স্ত্রীকে সঙ্গে রেখে নিজের শ্যালিকাকে বিয়ে করেন এক টিকটকার ও আইনজীবীর সহকারী। এই অসামাজিক ও অপ্রত্যাশিত বিয়ের খবর ছড়িয়ে পড়ার পর স্থানীয় সাধারণ মানুষের মধ্যে চরম ক্ষোভের সৃষ্টি হয়। পরবর্তীতে বিক্ষুব্ধ এলাকাবাসী একত্রিত হয়ে তার ওপর চুনকালি মেখে এলাকা থেকে বিতাড়িত করে। সামাজিক যোগাযোগমাধ্যমে এই ঘটনার একটি ভিডিও ছড়িয়ে পড়লে তা ব্যাপক আলোচনার জন্ম দেয়।",
-        "details_en": "A TikToker and lawyer's assistant in Naogaon's Mahadebpur upazila married his sister-in-law while keeping his first wife, sparking intense local outrage. Following the disclosure of the marriage, angry residents gathered and drove him out of the area after smearing soot on his face. The incident subsequently drew widespread public attention after circulating on social media platforms."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দক্ষিণ কোরিয়ার অর্থনীতি মূলত প্রযুক্তিগত পণ্য রপ্তানির ওপর অত্যন্ত নির্ভরশীল। সাম্প্রতিক বছরগুলোতে কৃত্রিম বুদ্ধিমত্তা প্রযুক্তির বিশ্বব্যাপী প্রসারের ফলে উন্নতমানের সেমিকন্ডাক্টর ও প্রসেসরের চাহিদা বহুগুণ বৃদ্ধি পেয়েছে। ব্যাংক অব কোরিয়ার প্রকাশিত তথ্য অনুযায়ী, এই রপ্তানি প্রবৃদ্ধি দেশের সামগ্রিক অর্থনৈতিক ভিত্তিকে আরও শক্তিশালী করছে এবং দীর্ঘমেয়াদি প্রবৃদ্ধির লক্ষ্যমাত্রা অর্জনে সহায়তা করছে।",
+        "details_en": "South Korea relies heavily on technology and manufacturing exports to drive its economic output. The global surge in artificial intelligence adoption has drastically increased foreign demand for advanced semiconductors and electrical machinery, allowing the central bank to project multi-year highs in economic performance."
       }
     },
     {
@@ -236,28 +300,28 @@
       ],
       "region": "international",
       "tags": [
-        "#AustralianPolitics",
-        "#GrantControversy"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/6d694f90d6d8936f9363ebbf300c62e64525fbc8/688_257_6558_5247/master/6558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d296e224953ed6fd4be28a4c42707408",
+      "image_url": "https://i.guim.co.uk/img/media/369973e223325dc1a6990bc76d41f73c376e47c6/39_0_3407_2727/master/3407.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b3ba15fb2b6e44af6b72bdff61e72126",
       "image_caption": null,
-      "published_at": "2026-10-27T05:46:07+00:00",
+      "published_at": "2026-10-27T06:28:14+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.7392,
+      "importance_score": 1.7,
+      "rank_score": 0.5038,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift response’ on MP safety",
-          "snippet": "Australian politics live: Coalition tells Albanese to ‘stop the spin’ on $6m golf grant; Labor promises ‘swift"
+          "title": "Bridget McKenzie fears MPs will ‘retreat from the public square’ following alleged attack on Helen Haines – as it happened",
+          "snippet": "Bridget McKenzie fears MPs will ‘retreat from the public square’ following alleged attack on Helen Haines – as"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলীয় সংসদে ৬ মিলিয়ন ডলারের গলফ অনুদান নিয়ে বিরোধী দলের তুমুল বিতর্ক",
-        "title_en": "Australian Opposition Clashes With PM Over 6 Million Dollar Golf Grant",
-        "summary_bn": "অস্ট্রেলিয়ার বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গলফ অনুদান ইস্যুতে সত্য গোপন না করার আহ্বান জানিয়েছে।",
-        "summary_en": "The Australian opposition challenges Prime Minister Anthony Albanese to drop the spin regarding a controversial six million dollar golf grant.",
+        "title_bn": "অস্ট্রেলীয় সংসদে নিরাপত্তা ও রাজনৈতিক বিতর্কের মুখোমুখি প্রধানমন্ত্রী অ্যান্থনি আলবানিজ",
+        "title_en": "Australian Prime Minister Anthony Albanese Faces Parliamentary Debate and Security Concerns",
+        "summary_bn": "অস্ট্রেলীয় সংসদের নিম্নকক্ষে বিরোধী দলের সদস্যদের প্রশ্ন ও রাজনৈতিক উত্তেজনার মুখে পড়েন প্রধানমন্ত্রী অ্যান্থনি আলবানিজ।",
+        "summary_en": "Australian Prime Minister Anthony Albanese addressed parliamentary questions amid heated political debates and security discussions in the House of Representatives.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -266,81 +330,23 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T05:46:07+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গলফ অনুদান ইস্যুতে সত্য গোপন না করার আহ্বান জানিয়েছে।",
-        "lead_en": "The Australian opposition challenges Prime Minister Anthony Albanese to drop the spin regarding a controversial six million dollar golf grant.",
+        "published_at": "2026-10-27T06:28:14+00:00",
+        "lead_bn": "অস্ট্রেলীয় সংসদের নিম্নকক্ষে বিরোধী দলের সদস্যদের প্রশ্ন ও রাজনৈতিক উত্তেজনার মুখে পড়েন প্রধানমন্ত্রী অ্যান্থনি আলবানিজ।",
+        "lead_en": "Australian Prime Minister Anthony Albanese addressed parliamentary questions amid heated political debates and security discussions in the House of Representatives.",
         "bullets_bn": [
-          "বিরোধী দলীয় ব্যবস্থাপক ড্যান তেহান প্রধানমন্ত্রীকে তার ভুল স্বীকার করার দাবি জানান",
-          "প্রধানমন্ত্রী জানান রাজ্য সরকার প্রতিশ্রুতি অনুযায়ী এই দীর্ঘদিনের সমস্যা সমাধানে এগিয়ে এসেছে",
-          "স্পিকার মিল্টন ডিক সংসদীয় প্রশ্নোত্তরে সুনির্দিষ্ট নিয়ম মেনে চলার জন্য বিরোধী নেতাকে সতর্ক করেন"
+          "বিরোধী দলের পক্ষ থেকে প্রধানমন্ত্রীকে রাজনৈতিক সমীকরণ ও নীতিগত অবস্থান স্পষ্ট করার আহ্বান জানানো হয়।",
+          "স্পিকার মিল্টন ডিক সংসদীয় কার্যপ্রণালী ও প্রশ্নকালের সুনির্দিষ্ট নিয়ম মেনে চলার জন্য সদস্যদের প্রতি নির্দেশ দেন।",
+          "সরকার ও বিরোধীপক্ষের রাজনৈতিক উত্তেজনার মধ্যে দীর্ঘদিন ঝুলে থাকা স্থানীয় সমস্যা সমাধানের প্রতিশ্রুতি দেন প্রধানমন্ত্রী।"
         ],
         "bullets_en": [
-          "Opposition manager Dan Tehan demands the prime minister admit fault over the grant.",
-          "Prime Minister Anthony Albanese defends the commitment aimed at fixing a long-standing issue.",
-          "The speaker intervenes to maintain parliamentary order during the intense question period."
+          "Opposition representatives pressed the prime minister during parliamentary proceedings regarding government policies and accountability.",
+          "Speaker Milton Dick intervened to maintain parliamentary procedure and ensure questions adhered to established rules.",
+          "The prime minister addressed long-standing regional issues dating back to 1947 with state government cooperation."
         ],
-        "impact_bn": "এই রাজনৈতিক বিতর্ক সাধারণ নাগরিকদের সরাসরি প্রভাবিত না করলেও সরকারি তহবিলের স্বচ্ছতা নিয়ে জনমনে আলোচনার সৃষ্টি করেছে।",
-        "impact_en": "The parliamentary clash highlights ongoing public debates regarding political transparency and the allocation of government grants.",
-        "details_bn": "অস্ট্রেলীয় পার্লামেন্টে ৬ মিলিয়ন ডলারের একটি গলফ অনুদানকে কেন্দ্র করে সরকার ও বিরোধী দলের মধ্যে তীব্র বাকবিতণ্ডা শুরু হয়। বিরোধী দলীয় নেতারা এই অনুদানের প্রক্রিয়া নিয়ে প্রশ্ন তুললে প্রধানমন্ত্রী তার সিদ্ধান্তে অটল থেকে জানান যে এটি বহু পুরনো একটি সমস্যার সমাধান করেছে। এই বিতর্ক দেশটির রাজনৈতিক অঙ্গনে সরকারি ব্যয় এবং তহবিল বন্টনের স্বচ্ছতা নিয়ে নতুন আলোচনার জন্ম দিয়েছে।",
-        "details_en": "A fiery exchange erupted in the Australian parliament as the opposition confronted Prime Minister Anthony Albanese over a six million dollar golf grant. The debate underscored tensions regarding government spending and accountability, with the administration defending the intervention as a necessary fix for a longstanding local issue dating back decades."
-      }
-    },
-    {
-      "story_id": "058fd26f-3571-52af-96d9-8c5a28d505c9",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#Microsoft",
-        "#TechLayoffs",
-        "#ArtificialIntelligence"
-      ],
-      "image_url": "https://th-i.thgim.com/public/sci-tech/technology/2l0iym/article71629639.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39K34A__v1__HighRes__IrelandEuAiSummit.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-27T05:29:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5115,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
-          "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
-          "snippet": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ বাড়াতে ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে মাইক্রোসফট",
-        "title_en": "Microsoft Offers Voluntary Exit Packages to 60,000 Staff to Fund AI",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে টেক জায়ান্ট মাইক্রোসফট।",
-        "summary_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T05:29:55+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে টেক জায়ান্ট মাইক্রোসফট।",
-        "lead_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence.",
-        "bullets_bn": [
-          "মার্কিন যুক্তরাষ্ট্র, কানাডা, ভারত ও ব্রিটেনের নির্দিষ্ট টিমের ভাইস প্রেসিডেন্ট ও এর নিচের স্তরের কর্মীরা এই সুযোগের আওতায় রয়েছেন",
-          "মাইক্রোসফটের চিফ পিপল অফিসার অ্যামি কোলম্যান কর্মীদের পাঠানো এক মেমোতে এই স্বেচ্ছাসেবী প্রস্থান অফারের বিষয়টি নিশ্চিত করেছেন",
-          "চলতি বছরে এটি মাইক্রোসফটের দ্বিতীয় স্বেচ্ছাসেবী বাইআউট অফার, যা কর্মীদের কেরিয়ার পরিবর্তনের সুযোগ তৈরি করবে"
-        ],
-        "bullets_en": [
-          "Staff at the vice president level and below in select teams across the United States, Canada, India, and Britain are eligible.",
-          "Chief People Officer Amy Coleman confirmed the buyout offer in an internal memo to employees detailing the workforce evolution.",
-          "This marks the second voluntary buyout offer introduced by Microsoft for its global employees within the current year."
-        ],
-        "impact_bn": "প্রযুক্তিক্ষেত্রে চাকরিপ্রত্যাশী ও কর্মরত পেশাজীবীদের জন্য এটি বড় ধরনের কাঠামোগত পরিবর্তনের ইঙ্গিত দেয়।",
-        "impact_en": "This major workforce restructuring signals evolving employment trends for tech professionals and job seekers in the global software industry.",
-        "details_bn": "মাইক্রোসফট কৃত্রিম বুদ্ধিমত্তা খাতে বড় অঙ্কের বিনিয়োগের পাশাপাশি পরিচালনা ব্যয় কমাতে এই কৌশলগত পদক্ষেপ নিয়েছে। এর আগে চলতি বছরের এপ্রিল মাসে মার্কিন কর্মীদের একাংশকে আগাম অবসরের সুযোগ দিয়েছিল প্রতিষ্ঠানটি, যেখানে প্রায় ৩০ শতাংশ কর্মী সেই অফার গ্রহণ করেছিলেন। ডাটা সেন্টার, সেলস ও মার্কেটিং বিভাগের কিছু কর্মী এই নতুন বাইআউট অফারের বাইরে থাকবেন।",
-        "details_en": "Microsoft introduced this strategic workforce reduction to cut operational costs and redirect capital toward artificial intelligence initiatives. This follows an earlier buyout offer in April targeting a portion of the U.S. workforce, where roughly 30 percent of eligible staff accepted early retirement. Specific groups including data center, sales, and marketing teams remain excluded from the current buyout program."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অস্ট্রেলীয় পার্লামেন্টে রাজনৈতিক বিতর্ক ও নিরাপত্তা নিয়ে আলোচনা চলার সময় এই ঘটনা ঘটে। সংসদের নিম্নকক্ষে বিরোধী দলের প্রশ্নবানের মুখে পড়েন সরকারপ্রধান। সরকারি ও বিরোধী বেঞ্চের সদস্যদের মধ্যে বিতর্কের জেরে স্পিকারকে নিয়মশৃঙ্খলা বজায় রাখতে হস্তক্ষেপ করতে হয়। স্থানীয় একটি দীর্ঘমেয়াদী সমস্যা সমাধানে রাজ্য সরকারের পদক্ষেপের প্রসঙ্গও এই আলোচনায় উঠে আসে।",
+        "details_en": "The parliamentary session witnessed heated exchanges between government and opposition benches over political accountability and security concerns in public spaces. Opposition members questioned the prime minister regarding government stances, prompting interventions from the speaker to maintain order. The discussions also touched upon long-standing local infrastructure issues dating back to 1947, with state government involvement aiming to resolve the matters."
       }
     }
   ]
