@@ -1,9 +1,176 @@
 {
-  "updated_at": "2026-10-27T09:00:45.302673",
+  "updated_at": "2026-10-27T10:00:45.127321",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "023b225b-825d-5934-9b67-df8c3f1942df",
+      "story_id": "dd0d6c25-7238-59bf-93b9-2f789eafcdaa",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2-%E0%A6%93-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%8F%E0%A6%95%E0%A6%BE%E0%A6%82%E0%A6%B6.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-27T09:05:06+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 1.4818,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/power-outage-hits-eastern-dhaka-and-parts-of-chittagong-tribunal-secretariat-and-bangladesh-bank-left-without-electricity/",
+          "title": "বিদ্যুৎ বিপর্যয়ে ঢাকার-চট্টগ্রামের একাংশ, বিদ্যুৎহীন ট্রাইব্যুনাল-সচিবালয়–বাংলাদেশ ব্যাংক",
+          "snippet": "বিদ্যুৎ বিপর্যয়ে ঢাকার-চট্টগ্রামের একাংশ, বিদ্যুৎহীন ট্রাইব্যুনাল-সচিবালয়–বাংলাদেশ ব্যাংক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিদ্যুৎ বিপর্যয়ে ঢাকা ও চট্টগ্রামের একাংশসহ সচিবালয় ও বাংলাদেশ ব্যাংক বিদ্যুৎহীন",
+        "title_en": "Power Outage Hits Parts of Dhaka and Chattogram Including Secretariat and Central Bank",
+        "summary_bn": "জাতীয় গ্রিডে ত্রুটির কারণে ঢাকা ও চট্টগ্রামের বিভিন্ন এলাকায় আকস্মিক বিদ্যুৎ বিপর্যয় দেখা দিয়েছে।",
+        "summary_en": "A sudden power outage hits parts of Dhaka and Chattogram due to a national grid failure.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T09:05:06+00:00",
+        "lead_bn": "জাতীয় গ্রিডে ত্রুটির কারণে ঢাকা ও চট্টগ্রামের বিভিন্ন এলাকায় আকস্মিক বিদ্যুৎ বিপর্যয় দেখা দিয়েছে।",
+        "lead_en": "A sudden power outage hits parts of Dhaka and Chattogram due to a national grid failure.",
+        "bullets_bn": [
+          "ঢাকার পূর্বাঞ্চল এবং চট্টগ্রামের কিছু এলাকায় বিদ্যুৎ সরবরাহ হঠাৎ বন্ধ হয়ে যায়।",
+          "সচিবালয়, বাংলাদেশ ব্যাংক এবং আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের বিচারকাজ বিদ্যুৎহীনতার কারণে ব্যাহত হয়।",
+          "বিদ্যুৎ সরবরাহ স্বাভাবিক করতে প্রকৌশলীরা ধাপে ধাপে সংযোগ পুনঃস্থাপনের কাজ চালিয়ে যাচ্ছেন।"
+        ],
+        "bullets_en": [
+          "Power supply abruptly shuts down across eastern areas of Dhaka and parts of Chattogram.",
+          "The Secretariat, Bangladesh Bank, and International Crimes Tribunal proceedings face disruptions.",
+          "Engineers work sequentially to restore electricity connections and normalize grid operations."
+        ],
+        "impact_bn": "আকস্মিক বিদ্যুৎ বিভ্রাটে গুরুত্বপূর্ণ সরকারি অফিস ও আদালতের কার্যক্রমে অচলাবস্থা তৈরি হয় এবং সাধারণ মানুষ ভোগান্তিতে পড়েন।",
+        "impact_en": "The sudden outage disrupts operations at key government offices and courts, causing public inconvenience.",
+        "details_bn": "দেশের বিভিন্ন অঞ্চলে অতীতেও জাতীয় গ্রিডে বড় ধরনের বিপর্যয়ের ঘটনা ঘটেছে। ২০২২ সালের অক্টোবরে পূর্বাঞ্চলীয় গ্রিডে বিপর্যয়ের ফলে ঢাকা ও চট্টগ্রামসহ দেশের বড় একটি অংশ দীর্ঘ সময় বিদ্যুৎহীন ছিল। এছাড়া ২০১৪ সালের নভেম্বরে গ্রিড ফেলের কারণে প্রায় সারা দেশ প্রায় ১২ ঘণ্টা বিদ্যুৎহীন ছিল।",
+        "details_en": "Major national grid failures have occurred previously in Bangladesh. In October 2022, an eastern grid collapse left large parts of Dhaka and Chattogram without power for hours. Another severe grid failure in November 2014 caused a nationwide blackout lasting nearly 12 hours."
+      }
+    },
+    {
+      "story_id": "191dd5a4-243d-5f3b-9d8b-ecb4b84b359e",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T09:31:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4642,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/977034/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A9%E0%A7%AB-%E0%A6%AE%E0%A6%BF%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%B9%E0%A6%B2-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%9C-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+          "title": "জাপান থেকে ৩৫ মিটারের টহল জাহাজ পাচ্ছে বাংলাদেশ কোস্ট গার্ড, চুক্তি সই",
+          "snippet": "জাপান থেকে ৩৫ মিটারের টহল জাহাজ পাচ্ছে বাংলাদেশ কোস্ট গার্ড, চুক্তি সই"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ কোস্ট গার্ডকে ৩৫ মিটারের টহল জাহাজ দিচ্ছে জাপান",
+        "title_en": "Japan to Provide 35-Meter Patrol Vessels to Bangladesh Coast Guard",
+        "summary_bn": "সমুদ্র নিরাপত্তা জোরদার করতে জাপান সরকারের অনুদান সহায়তায় বাংলাদেশ কোস্ট গার্ডের জন্য ৩৫ মিটারের টহল জাহাজ সরবরাহ চুক্তি স্বাক্ষরিত হয়েছে।",
+        "summary_en": "Bangladesh and Japan signed a grant aid agreement to provide 35-meter patrol vessels for strengthening maritime security.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T09:31:29+00:00",
+        "lead_bn": "সমুদ্র নিরাপত্তা জোরদার করতে জাপান সরকারের অনুদান সহায়তায় বাংলাদেশ কোস্ট গার্ডের জন্য ৩৫ মিটারের টহল জাহাজ সরবরাহ চুক্তি স্বাক্ষরিত হয়েছে।",
+        "lead_en": "Bangladesh and Japan signed a grant aid agreement to provide 35-meter patrol vessels for strengthening maritime security.",
+        "bullets_bn": [
+          "বাংলাদেশ ও জাপানের মধ্যে মেরিটাইম সেফটি অ্যান্ড সিকিউরিটি সক্ষমতা বৃদ্ধি প্রকল্প চুক্তি স্বাক্ষরিত হয়েছে।",
+          "জাপানি রাষ্ট্রদূত সাইদা শিনিচি এবং ইআরডি সচিব মো. শাহরিয়ার কাদের ছিদ্দিকী এই অনুদান চুক্তিতে স্বাক্ষর করেন।",
+          "প্রকল্পের আওতায় কোস্ট গার্ডের জন্য ৩৫ মিটার দীর্ঘ টহল জাহাজ সংগ্রহ করা হবে।"
+        ],
+        "bullets_en": [
+          "Bangladesh and Japan signed a grant aid agreement for the Maritime Safety and Security Capacity Improvement Project.",
+          "Japanese Ambassador Saida Shinichi and ERD Secretary Md. Shahriar Kader Siddiky signed the agreement.",
+          "The project includes the procurement of 35-meter patrol vessels for the Bangladesh Coast Guard."
+        ],
+        "impact_bn": "উন্নত জলযান যুক্ত হওয়ায় দেশের সমুদ্রসীমায় চোরাচালান রোধ এবং সামুদ্রিক নিরাপত্তা জোরদার হবে।",
+        "impact_en": "Enhanced maritime assets will improve coastal security and curb illegal trafficking in territorial waters.",
+        "details_bn": "ব্লু ইকোনমির সুরক্ষা এবং বঙ্গোপসাগরে সমুদ্র নিরাপত্তা নিশ্চিত করতে বাংলাদেশ দীর্ঘদিন ধরে আধুনিক সরঞ্জামের ওপর জোর দিয়ে আসছে। এর অংশ হিসেবে জাপান সরকারের অর্থনৈতিক ও কারিগরি সহায়তায় কোস্ট গার্ডের সক্ষমতা বাড়ানোর এই উদ্যোগ নেওয়া হয়েছে। এই চুক্তির ফলে দুই দেশের মধ্যকার দ্বিপক্ষীয় সম্পর্ক ও সামুদ্রিক সহযোগিতা আরও সুদৃঢ় হবে।",
+        "details_en": "Bangladesh has consistently emphasized modernizing its maritime forces to secure the blue economy and territorial waters. As part of this ongoing effort, the Japanese government is providing grant aid to enhance the operational capacity of the Coast Guard. This agreement further strengthens bilateral ties and strategic maritime cooperation between the two nations."
+      }
+    },
+    {
+      "story_id": "bc8d5ee9-37c7-5599-8db3-51958a6920c7",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-47.png?w=1200&quality=80",
+      "image_caption": null,
+      "published_at": "2026-10-27T09:09:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.2242,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/anti-drug-police-operation-in-ghuntighar-following-ishraqs-resignation/",
+          "title": "ইশরাকের পদত্যাগের পর ঘুন্টিঘরে পুলিশের মাদকবিরোধী অভিযান",
+          "snippet": "ইশরাকের পদত্যাগের পর ঘুন্টিঘরে পুলিশের মাদকবিরোধী অভিযান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রাজধানীর গেন্ডারিয়ার ঘুন্টিঘরে অবৈধ স্থাপনা উচ্ছেদ ও মাদকবিরোধী অভিযান শুরু পুলিশের",
+        "title_en": "Police Launch Anti-Drug Drive and Eviction in Capital's Ghuntighor Area",
+        "summary_bn": "রাজধানীর গেন্ডারিয়ার ঘুন্টিঘর এলাকায় রেললাইনের পাশে গড়ে ওঠা অবৈধ স্থাপনা উচ্ছেদ এবং মাদকবিরোধী অভিযান শুরু করেছে পুলিশ।",
+        "summary_en": "Police have launched an anti-drug drive and eviction of illegal structures along the railway tracks in the capital's Ghuntighor area.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T09:09:24+00:00",
+        "lead_bn": "রাজধানীর গেন্ডারিয়ার ঘুন্টিঘর এলাকায় রেললাইনের পাশে গড়ে ওঠা অবৈধ স্থাপনা উচ্ছেদ এবং মাদকবিরোধী অভিযান শুরু করেছে পুলিশ।",
+        "lead_en": "Police have launched an anti-drug drive and eviction of illegal structures along the railway tracks in the capital's Ghuntighor area.",
+        "bullets_bn": [
+          "সিটি করপোরেশনের ভারী যন্ত্রপাতি ব্যবহার করে রেললাইনের দুই পাশের অবৈধ ছোট ঘর ও দোকান গুঁড়িয়ে দেওয়া হচ্ছে",
+          "গেন্ডারিয়া থানার ভারপ্রাপ্ত কর্মকর্তা মনিরুজ্জামান মনির জানান মাদক আড্ডা উচ্ছেদ করে সড়কে চলাচলের পথ উন্মুক্ত করা হচ্ছে",
+          "অভিযানে স্থানীয় বাসিন্দা এবং সিটি করপোরেশনের প্রতিনিধিরা পুলিশকে সহযোগিতা প্রদান করছেন"
+        ],
+        "bullets_en": [
+          "Illegal structures and small shops along the railway tracks are being demolished using city corporation heavy machinery",
+          "Gandaria Police Station OC Moniruzzaman Monir stated that drug dens are being cleared to ensure smooth public movement",
+          "Local residents and city corporation representatives are actively cooperating with the police in the ongoing drive"
+        ],
+        "impact_bn": "এলাকাবাসী ও যাত্রীরা অবৈধ দখলমুক্ত পরিবেশে নিরাপদ যাতায়াত এবং মাদক থেকে মুক্ত পরিচ্ছন্ন পরিবেশের সুবিধা পাবে।",
+        "impact_en": "Area residents and commuters will benefit from safer movement in a cleared environment free from illegal encroachments and drugs.",
+        "details_bn": "এর আগে ঘুন্টিঘর রেলস্টেশন এলাকায় মাদকবিরোধী অভিযানে গিয়ে অস্ত্র প্রদর্শনের ঘটনায় সমালোচনার মুখে পড়েন মুক্তিযুদ্ধবিষয়ক প্রতিমন্ত্রী ইশরাক হোসেন এবং পরবর্তীতে তিনি পদত্যাগ করেন। এরপরই ওই এলাকায় অবৈধ স্থাপনা উচ্ছেদ ও মাদকবিরোধী কঠোর পদক্ষেপ গ্রহণের সিদ্ধান্ত নেয় প্রশাসন।",
+        "details_en": "Previously, State Minister for Liberation War Affairs Ishrak Hossain faced sharp criticism and resigned following an incident involving the display of firearms during an anti-drug drive in the Ghuntighor railway station area. Following that controversy, the administration initiated a sweeping crackdown to evict illegal structures and dismantle local drug rings."
+      }
+    },
+    {
+      "story_id": "71150ddd-472c-593c-b8fd-4603eab07959",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -15,79 +182,85 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T08:31:31+00:00",
+      "published_at": "2026-10-27T09:52:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.7465,
+      "importance_score": 3.0,
+      "rank_score": 1.1122,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977020/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
-          "title": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারেই রয়েছে: প্রধানমন্ত্রী",
-          "snippet": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারেই রয়েছে: প্রধানমন্ত্রী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172539",
+          "title": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে বদলে যাবে ভারত-পাকিস্তানের ভাগ্য?",
+          "snippet": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে বদলে যাবে ভারত-পাকিস্তানের ভাগ্য?"
+        },
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+          "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+          "snippet": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য প্রধানমন্ত্রীর",
-        "title_en": "Permanent Solution to Rohingya Crisis Lies in Myanmar Says Prime Minister",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর সাথে বৈঠকে রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য করেছেন।",
-        "summary_en": "Prime Minister Tarique Rahman stated during a meeting with Japan's Prime Minister that the permanent solution to the Rohingya crisis lies in Myanmar.",
+        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন প্রভাবিত করতে পারে ভারত ও পাকিস্তানের ভবিষ্যৎ সম্পর্ক",
+        "title_en": "US Midterm Elections May Shape Future Relations of India and Pakistan",
+        "summary_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে রিপাবলিকান পার্টির অবস্থান দুর্বল হলে ওয়াশিংটনের সাথে ইসলামাবাদের সম্পর্কে বড় ধরনের পরিবর্তন আসতে পারে।",
+        "summary_en": "A weaker Republican Party in US midterm elections could significantly impact Washington ties with Islamabad.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:31:31+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর সাথে বৈঠকে রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য করেছেন।",
-        "lead_en": "Prime Minister Tarique Rahman stated during a meeting with Japan's Prime Minister that the permanent solution to the Rohingya crisis lies in Myanmar.",
+        "published_at": "2026-10-27T09:52:19+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে রিপাবলিকান পার্টির অবস্থান দুর্বল হলে ওয়াশিংটনের সাথে ইসলামাবাদের সম্পর্কে বড় ধরনের পরিবর্তন আসতে পারে।",
+        "lead_en": "A weaker Republican Party in US midterm elections could significantly impact Washington ties with Islamabad.",
         "bullets_bn": [
-          "রোহিঙ্গাদের স্বেচ্ছায় ও মর্যাদাপূর্ণ প্রত্যাবাসন নিশ্চিত করার আহ্বান জানান প্রধানমন্ত্রী।",
-          "জাপানের প্রধানমন্ত্রীর কার্যালয় কানতেই এই দ্বিপক্ষীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়।",
-          "মিয়ানমারে দ্রুত প্রত্যাবাসন বাস্তবায়নে আন্তর্জাতিক সহযোগিতার ওপর জোর দেওয়া হয়।"
+          "যুক্তরাষ্ট্রের অভ্যন্তরীণ রাজনৈতিক পরিবর্তন সরাসরি দক্ষিণ এশিয়ার ভূরাজনীতি ও দ্বিপক্ষীয় কূটনীতিতে প্রভাব ফেলে।",
+          "রিপাবলিকানদের অবস্থান দুর্বল হলে পাকিস্তানের সাথে মার্কিন সম্পর্কের গতিপ্রকৃতি নতুন মোড় নিতে পারে।",
+          "মধ্যপ্রাচ্যের ভূরাজনৈতিক সংকটে পাকিস্তানের কৌশলগত ভূমিকা ওয়াশিংটনের নীতি নির্ধারণে গুরুত্বপূর্ণ নিয়ামক হিসেবে কাজ করে।"
         ],
         "bullets_en": [
-          "The Prime Minister called for ensuring safe, voluntary, and dignified repatriation of Rohingyas.",
-          "The bilateral summit took place at the Kantei, the office of the Prime Minister of Japan.",
-          "Strong emphasis was placed on international cooperation to expedite repatriation to Myanmar."
+          "Internal US political shifts directly influence South Asian geopolitics and bilateral diplomacy.",
+          "A weakened Republican standing could alter the trajectory of US-Pakistan diplomatic relations.",
+          "Pakistan strategic role in Middle Eastern dynamics serves as a key factor in Washington policymaking."
         ],
-        "impact_bn": "রোহিঙ্গা সংকটের স্থায়ী সমাধান হলে দেশের ওপর থেকে অর্থনৈতিক ও নিরাপত্তা চাপ কমবে।",
-        "impact_en": "A permanent resolution to the Rohingya crisis will alleviate national economic and security burdens.",
-        "details_bn": "মিয়ানমার থেকে জোরপূর্বক বাস্তুচ্যুত হয়ে বাংলাদেশে আশ্রয় নেওয়া লাখ লাখ রোহিঙ্গার দীর্ঘমেয়াদি উপস্থিতি দেশের অর্থনীতি এবং নিরাপত্তার ওপর বড় ধরনের চাপ সৃষ্টি করেছে। আন্তর্জাতিক অঙ্গনে বাংলাদেশ এই সংকটের টেকসই সমাধানের জন্য কূটনৈতিক প্রচেষ্টা অব্যাহত রেখেছে। এর অংশ হিসেবে দ্বিপক্ষীয় বৈঠকে বন্ধুভাবাপন্ন দেশগুলোর সহযোগিতা কামনা করা হচ্ছে।",
-        "details_en": "The prolonged presence of millions of forcibly displaced Rohingyas sheltered in Bangladesh has placed a significant burden on the national economy and security. Bangladesh continues diplomatic efforts internationally to secure a sustainable resolution to this crisis, seeking cooperation from friendly nations during high-level bilateral engagements."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচন দেশটির অভ্যন্তরীণ ক্ষমতার ভারসাম্যের পাশাপাশি বৈদেশিক নীতিতেও গভীর প্রভাব ফেলে। বিশেষ করে দক্ষিণ এশিয়া এবং মধ্যপ্রাচ্যের ভূরাজনীতিতে ওয়াশিংটনের দীর্ঘমেয়াদি কৌশল মার্কিন কংগ্রেস ও হোয়াইট হাউসের রাজনৈতিক সমীকরণের ওপর বহুলাংশে নির্ভরশীল।",
+        "details_en": "US midterm elections profoundly influence both domestic power balances and foreign policy directions. Washington long-term strategic posture in South Asia and the Middle East heavily relies on the political equations within the US Congress and the White House."
       }
     },
     {
-      "story_id": "d89fa90a-d3ab-593c-b3cb-79543be44541",
+      "story_id": "4e8267d9-0841-5030-ac13-9c65b6e88c48",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
+        "#IsraelElection",
+        "#Netanyahu"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fiunnub9r%2Findia.avif?rect=0%2C35%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae0561a-1793087002.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-27T08:45:00+00:00",
+      "published_at": "2026-10-27T09:22:45+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2774,
+      "importance_score": 1.7,
+      "rank_score": 0.4817,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/g33owbcl9w",
-          "title": "এসআইআরসহ ইসির সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে জমা হলফনামায় দাবি",
-          "snippet": "এসআইআরসহ ইসির সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে জমা হলফনামায় দাবি"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
+          "title": "Israel election results 2026: When will we know who won and what’s next?",
+          "snippet": "Israel election results 2026: When will we know who won and what’s next?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভোটার তালিকা সংশোধন সংক্রান্ত সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে দাবি নির্বাচন কমিশনের",
-        "title_en": "All voter list revision decisions were taken unanimously, Election Commission claims in Supreme Court",
-        "summary_bn": "সুপ্রিম কোর্টে জমা দেওয়া হলফনামায় নির্বাচন কমিশন জানিয়েছে, ভোটার তালিকার নিবিড় সংশোধন নিয়ে জারি করা প্রতিটি নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে।",
-        "summary_en": "The Election Commission stated in a Supreme Court affidavit that every directive issued on intensive voter list revision was adopted unanimously.",
+        "title_bn": "ইসরায়েলে সাধারণ নির্বাচনে ভোটগ্রহণ শুরু হয়েছে",
+        "title_en": "Israel Holds General Elections Amid Heightened Regional Tensions",
+        "summary_bn": "প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণে ইসরায়েলে সাধারণ নির্বাচন অনুষ্ঠিত হচ্ছে।",
+        "summary_en": "Israelis head to the polls in a high-stakes general election to decide the political future of Prime Minister Benjamin Netanyahu.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -95,135 +268,23 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:45:00+00:00",
-        "lead_bn": "সুপ্রিম কোর্টে জমা দেওয়া হলফনামায় নির্বাচন কমিশন জানিয়েছে, ভোটার তালিকার নিবিড় সংশোধন নিয়ে জারি করা প্রতিটি নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে।",
-        "lead_en": "The Election Commission stated in a Supreme Court affidavit that every directive issued on intensive voter list revision was adopted unanimously.",
+        "published_at": "2026-10-27T09:22:45+00:00",
+        "lead_bn": "প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণে ইসরায়েলে সাধারণ নির্বাচন অনুষ্ঠিত হচ্ছে।",
+        "lead_en": "Israelis head to the polls in a high-stakes general election to decide the political future of Prime Minister Benjamin Netanyahu.",
         "bullets_bn": [
-          "ভোটার তালিকার নিবিড় সংশোধন বা এসআইআর সংক্রান্ত সমস্ত নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে বলে আদালতে জানানো হয়েছে।",
-          "প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমার একতরফা কোনো সিদ্ধান্ত নেননি বলে হলফনামায় স্পষ্ট করেছে কমিশন।",
-          "কমিশনের অভ্যন্তরীণ মতপার্থক্য ও একতরফা সিদ্ধান্ত গ্রহণের অভিযোগের বিরুদ্ধে সুপ্রিম কোর্টে এই জবাব দাখিল করা হয়।"
+          "সাত মিলিয়নেরও বেশি নিবন্ধিত ভোটার দেশের নতুন সংসদ গঠনের জন্য তাদের ভোটাধিকার প্রয়োগ করছেন।",
+          "নির্বাচনী জরিপ অনুযায়ী বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর জোট বিরোধী ব্লকের সাথে হাড্ডাহাড্ডি লড়াইয়ে রয়েছে।",
+          "পার্লামেন্টে সংখ্যাগরিষ্ঠতা অর্জনের জন্য কোনো জোটকে অন্তত একষট্টিটি আসন নিশ্চিত করতে হবে।"
         ],
         "bullets_en": [
-          "All directives regarding the intensive revision of the voter list were adopted unanimously, the court was informed.",
-          "The commission clarified in the affidavit that Chief Election Commissioner Gyanesh Kumar did not make any unilateral decisions.",
-          "This response was submitted to the Supreme Court against allegations of internal dissent and unilateral decision-making within the commission."
+          "Over seven million registered voters are casting their ballots to elect the new members of parliament.",
+          "Final opinion polls indicate Prime Minister Benjamin Netanyahu's coalition is running neck and neck with the opposition bloc.",
+          "Political parties or alliances need to secure at least sixty-one seats in the Knesset to form a majority government."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "দ্য ইন্ডিয়ান এক্সপ্রেসের প্রতিবেদনের পর নির্বাচন কমিশনের কাজকর্ম ও এসআইআর প্রক্রিয়া চলাকালে একতরফা সিদ্ধান্ত গ্রহণ নিয়ে সুপ্রিম কোর্টে একাধিক মামলা হয়। এর পরিপ্রেক্ষিতে তিন সদস্যবিশিষ্ট নির্বাচন কমিশনকে সুপ্রিম কোর্ট নোটিশ পাঠায়। ওই নোটিশের জবাবেই কমিশন জানায় যে, কমিশনের অভ্যন্তরে মতবিরোধের অভিযোগ অসত্য এবং সমস্ত সিদ্ধান্ত ঐকমত্যের ভিত্তিতেই নেওয়া হয়েছে।",
-        "details_en": "Following a report by The Indian Express, multiple petitions were filed in the Supreme Court questioning the Election Commission's operations and alleged unilateral decisions during the SIR process. In response to the court's notice, the three-member commission submitted an affidavit stating that allegations of internal discord are untrue and all decisions were reached by consensus."
-      }
-    },
-    {
-      "story_id": "c7a16492-1ffc-5109-bf7c-16ef15946193",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F99mnp0o0%2FZahed-Ur-Rahman.jpeg?rect=0%2C7%2C642%2C337&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-27T08:43:48+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2515,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/2sdy377a0v",
-          "title": "আইজিপির বক্তব্যের ব্যাপারে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন: জাহেদ উর রহমান",
-          "snippet": "আইজিপির বক্তব্যের ব্যাপারে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন: জাহেদ উর রহমান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "আইজিপির বক্তব্যের বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন",
-        "title_en": "Prime Minister will consider government final stance on IGP remarks",
-        "summary_bn": "আইজিপির বিতর্কিত ক্রসফায়ার ও সাংবাদিক মন্তব্য বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন বলে জানিয়েছেন তথ্য উপদেষ্টা।",
-        "summary_en": "Information Adviser stated that the Prime Minister will consider the government final stance on the IGP controversial remarks.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:43:48+00:00",
-        "lead_bn": "আইজিপির বিতর্কিত ক্রসফায়ার ও সাংবাদিক মন্তব্য বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন বলে জানিয়েছেন তথ্য উপদেষ্টা।",
-        "lead_en": "Information Adviser stated that the Prime Minister will consider the government final stance on the IGP controversial remarks.",
-        "bullets_bn": [
-          "আইজিপির ক্রসফায়ার ও সাংবাদিকদের নিয়ে দেওয়া বক্তব্য নিয়ে সরকারের অবস্থান প্রধানমন্ত্রীর বিবেচনার ওপর ছেড়ে দেওয়া হয়েছে।",
-          "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান সচিবালয়ে এক সংবাদ সম্মেলনে এই কথা জানান।",
-          "পুলিশ সদর দপ্তর জানিয়েছে আইজিপি বিচারবহির্ভূত হত্যাকাণ্ড বা ঢালাওভাবে সাংবাদিকদের সমালোচনা করার অর্থে ওই মন্তব্য করেননি।"
-        ],
-        "bullets_en": [
-          "The government final stance regarding the IGP remarks on crossfire and journalists has been left for the Prime Minister to consider.",
-          "Prime Minister Information and Broadcasting Adviser Zahed Ur Rahman made this statement during a press briefing at the secretariat.",
-          "Police headquarters stated that the IGP did not use the term crossfire to mean extrajudicial killing or general criticism of journalists."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পুরান ঢাকায় এক অনুষ্ঠানে পুলিশের মহাপরিদর্শক (আইজিপি) মো. আলী হোসেন ফকির আইনশৃঙ্খলা পরিস্থিতি এবং ক্রসফায়ার নিয়ে মন্তব্য করেন। এছাড়া সাংবাদিকদের পেশাগত ভূমিকা নিয়েও বিতর্কিত মন্তব্য করেন তিনি। এ নিয়ে তীব্র সমালোচনার মুখে পুলিশ সদর দপ্তর ব্যাখ্যা দিয়ে জানায়, আইজিপির বক্তব্য ভুলভাবে যোগাযোগ হয়েছে এবং তিনি বিচারবহির্ভূত হত্যাকাণ্ড বোঝাতে চাননি। পরবর্তীতে তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান সংবাদ সম্মেলনে জানান যে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন।",
-        "details_en": "Police Inspector General Md Ali Hossain Fakir made controversial remarks regarding law enforcement, crossfire, and journalists during an event in Old Dhaka. Facing widespread criticism, the police headquarters later issued a clarification stating the remarks were misinterpreted and did not imply extrajudicial killings. Subsequently, Information and Broadcasting Adviser Zahed Ur Rahman announced in a press briefing that the Prime Minister would consider the government final stance on the matter."
-      }
-    },
-    {
-      "story_id": "3f5acbed-3ef7-5f1e-ae3a-bc2ba0c3fe2c",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F94oq40vr%2Fsunamganjdh053220261026img-20261026-wa0011.jpg?rect=0%2C92%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-27T08:50:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7505,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/7myl3phz9l",
-          "title": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে",
-          "snippet": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে গ্রেপ্তার সাবেক পুলিশ সদস্য কারাগারে",
-        "title_en": "Former Police Constable Arrested in Sunamganj Over Blasphemy Allegations Sent to Jail",
-        "summary_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট দেওয়ার অভিযোগে তাহিরপুরে আটক সাবেক এক পুলিশ সদস্যকে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "A former police constable detained in Tahirpur over alleged blasphemous social media posts has been sent to jail.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:50:40+00:00",
-        "lead_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট দেওয়ার অভিযোগে তাহিরপুরে আটক সাবেক এক পুলিশ সদস্যকে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "A former police constable detained in Tahirpur over alleged blasphemous social media posts has been sent to jail.",
-        "bullets_bn": [
-          "ধর্ম অবমাননামূলক ফেসবুক পোস্ট দেওয়ার অভিযোগে পুলিশ বাদী হয়ে সাবেক এক কনস্টেবলের বিরুদ্ধে মামলা করে।",
-          "সামাজিক যোগাযোগমাধ্যমে ভুয়া আইডি ব্যবহার করে উসকানিমূলক পোস্ট দেওয়ার অভিযোগ এনে অভিযুক্ত ব্যক্তি আগেই থানায় সাধারণ ডায়েরি করেছিলেন।",
-          "আইনি প্রক্রিয়া সম্পন্ন করে পুলিশ অভিযুক্ত ব্যক্তিকে আদালতের মাধ্যমে জেলা কারাগারে পাঠায়।"
-        ],
-        "bullets_en": [
-          "Police filed a case against a former constable over allegations of making blasphemous Facebook posts.",
-          "The accused had earlier filed a general diary claiming that a fake social media account was used to spread provocative posts.",
-          "Following legal procedures, police sent the accused to jail through the court."
-        ],
-        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে ভুয়া আইডি ও অপপ্রচার রোধে সাইবার নিরাপত্তা বিষয়ে সচেতনতা বাড়ানোর প্রয়োজনীয়তা তৈরি হয়েছে।",
-        "impact_en": "The incident highlights the growing need for heightened cyber awareness regarding fake accounts and online propaganda.",
-        "details_bn": "সুনামগঞ্জের তাহিরপুর উপজেলায় সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট ছড়ানোর জেরে উত্তেজনা সৃষ্টি হয়। পুলিশ ওই ব্যক্তিকে আটক করে থানায় নিয়ে আসার সময় কিছু লোক তাঁকে ছিনিয়ে নেওয়ার চেষ্টা করে। অভিযুক্ত ব্যক্তি দাবি করেন যে তাঁর ছবি ব্যবহার করে একটি ভুয়া আইডি থেকে ওই পোস্ট দেওয়া হয়েছে এবং এ বিষয়ে তিনি আগেই থানায় সাধারণ ডায়েরি করেছিলেন। পরে পুলিশ বাদী হয়ে তাঁর বিরুদ্ধে মামলা দায়ের করে এবং আদালতের মাধ্যমে কারাগারে পাঠায়।",
-        "details_en": "Tension flared in Sunamganj's Tahirpur upazila over a provocative social media post, prompting police intervention and detention of a former police constable. While being escorted by police, an attempt was made to snatch him from custody. The accused claimed a fake profile using his photos was created to frame him, a concern he had previously reported via a general diary. Police subsequently registered a case and sent him to jail through the judicial process."
+        "details_bn": "সালের ৭ অক্টোবর হামাসের হামলার পর থেকে ইসরায়েলে রাজনৈতিক ও সামরিক সংকট তীব্র আকার ধারণ করেছে। অবরুদ্ধ গাজায় সামরিক অভিযান এবং পশ্চিম তীরের ক্রমবর্ধমান উত্তেজনার মধ্যেই এই নির্বাচন অনুষ্ঠিত হচ্ছে। এছাড়া জিম্মি সংকট মোকাবিলায় সরকারের ব্যর্থতা এবং নেতানিয়াহুর বিরুদ্ধে দুর্নীতির অভিযোগ নিয়ে দেশজুড়ে তীব্র অভ্যন্তরীণ অসন্তোষ বিরাজ করছে।",
+        "details_en": "The election comes three years after the October 2023 attacks by Hamas that triggered the ongoing conflict in Gaza. Prime Minister Benjamin Netanyahu faces intense domestic scrutiny over alleged intelligence failures, the handling of captives, corruption charges, and military service disputes for ultra-Orthodox citizens, while regional tensions remain exceptionally high."
       }
     },
     {
@@ -243,7 +304,7 @@
       "published_at": "2026-10-27T08:55:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6478,
+      "rank_score": 0.3905,
       "sources": [
         {
           "name": "Inside Climate News",
@@ -253,10 +314,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফ্লোরিডার গভর্নর পদে জলবায়ু নীতি বনাম বর্তমান অবস্থা নিয়ে লড়াই",
-        "title_en": "Florida Gubernatorial Candidates Offer Sharply Contrasting Climate Policies",
-        "summary_bn": "ফ্লোরিডার গভর্নর পদে দুই প্রার্থী জলবায়ু নীতি পরিবর্তন এবং বর্তমান অবস্থা বজায় রাখার বিষয়ে ভিন্ন দৃষ্টিভঙ্গি তুলে ধরেছেন।",
-        "summary_en": "Florida gubernatorial candidates present contrasting visions, choosing between renewing clean energy strategies and maintaining current environmental policies.",
+        "title_bn": "ফ্লোরিডার গভর্নর পদে জলবায়ু নীতি ও স্থবিরতা বজায় রাখার লড়াই",
+        "title_en": "Florida Gubernatorial Candidates Offer Contrasting Approaches to Climate Policy",
+        "summary_bn": "ফ্লোরিডার গভর্নর নির্বাচনে রিপাবলিকান প্রার্থী বাইরন ডোনাল্ডস এবং ডেমোক্র্যাট প্রার্থী ডেভিড জলি ভিন্ন জলবায়ু নীতি নিয়ে প্রতিদ্বন্দ্বিতা করছেন।",
+        "summary_en": "Florida gubernatorial candidates Byron Donalds and David Jolly present contrasting visions for state climate policy and clean energy strategies.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -264,92 +325,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T08:55:00+00:00",
-        "lead_bn": "ফ্লোরিডার গভর্নর পদে দুই প্রার্থী জলবায়ু নীতি পরিবর্তন এবং বর্তমান অবস্থা বজায় রাখার বিষয়ে ভিন্ন দৃষ্টিভঙ্গি তুলে ধরেছেন।",
-        "lead_en": "Florida gubernatorial candidates present contrasting visions, choosing between renewing clean energy strategies and maintaining current environmental policies.",
+        "lead_bn": "ফ্লোরিডার গভর্নর নির্বাচনে রিপাবলিকান প্রার্থী বাইরন ডোনাল্ডস এবং ডেমোক্র্যাট প্রার্থী ডেভিড জলি ভিন্ন জলবায়ু নীতি নিয়ে প্রতিদ্বন্দ্বিতা করছেন।",
+        "lead_en": "Florida gubernatorial candidates Byron Donalds and David Jolly present contrasting visions for state climate policy and clean energy strategies.",
         "bullets_bn": [
-          "রিপাবলিকান প্রার্থী বায়রন ডোনাল্ডস বর্তমান রাজ্য নীতির স্থবিরতা বজায় রাখার পক্ষে অবস্থান নিয়েছেন।",
-          "ডেমোক্রেটিক প্রার্থী ডেভিড জলি ফ্লোরিডায় নতুন জলবায়ু পরিবর্তন ও পরিচ্ছন্ন শক্তি কৌশল চালুর পক্ষে প্রচার চালাচ্ছেন।",
-          "নির্বাচনী তহবিলে ডোনাল্ডস ১৪১ মিলিয়ন ডলার সংগ্রহ করেছেন, যেখানে জলি ১৯ মিলিয়ন ডলার পেয়েছেন।"
+          "রিপাবলিকান প্রার্থী বাইরন ডোনাল্ডস বর্তমান নীতি বজায় রাখার পক্ষে অবস্থান নিয়েছেন এবং ডেমোক্র্যাট প্রার্থী ডেভিড জলি নতুন জলবায়ু কৌশল চালুর প্রস্তাব করেছেন।",
+          "নির্বাচনী প্রচার তহবিলে ডোনাল্ডস ১৪ কোটি ১০ লাখ ডলার এবং জলি ১ কোটি ৯০ লাখ ডলার সংগ্রহ করেছেন।",
+          "নির্বাচিত হলে বাইরন ডোনাল্ডস ফ্লোরিডার প্রথম কৃষ্ণাঙ্গ গভর্নর হিসেবে ইতিহাস সৃষ্টি করবেন।"
         ],
         "bullets_en": [
-          "Republican candidate Byron Donalds largely supports maintaining the status quo in state environmental policy.",
-          "Democratic candidate David Jolly advocates for renewing a climate change and clean energy strategy.",
-          "Campaign finance data shows Donalds amassed roughly 141 million dollars compared to Jolly's 19 million dollars."
+          "Republican candidate Byron Donalds supports maintaining the state policy status quo while Democrat David Jolly advocates for clean energy strategies.",
+          "Donalds' campaign has amassed roughly 141 million dollars compared to Jolly's 19 million dollars in campaign finance.",
+          "Donalds would become the first Black governor elected in Florida if he wins the upcoming election."
         ],
-        "impact_bn": "এই নির্বাচন ফ্লোরিডার ভবিষ্যৎ পরিবেশগত নীতি এবং ক্লিন এনার্জি বিনিয়োগের রূপরেখা নির্ধারণ করবে।",
-        "impact_en": "The election outcome will shape future state environmental regulations and clean energy investments impacting residents.",
-        "details_bn": "ফ্লোরিডার গভর্নর পদের দৌড়ে রিপাবলিকান প্রার্থী বায়রন ডোনাল্ডস এবং ডেমোক্রেটিক প্রার্থী ডেভিড জলি প্রতিদ্বন্দ্বিতা করছেন। বর্তমান গভর্নর রন ডিসান্টিস জলবায়ু পরিবর্তনের বিষয়টি এড়িয়ে কেবল এভারগ্লেডস এবং পানির গুণগত মানের ওপর জোর দিয়েছিলেন। ডোনাল্ডস নির্বাচিত হলে তিনি হবেন ফ্লোরিডার প্রথম কৃষ্ণাঙ্গ গভর্নর। অন্যদিকে ডেভিড জলি অতীতে রিপাবলিকান হিসেবে দায়িত্ব পালন করলেও পরবর্তীতে সমালোচক হিসেবে আবির্ভূত হন। ফ্লোরিডায় বর্তমানে রিপাবলিকানরা সব রাজ্য পদে এবং আইনসভায় আধিপত্য বিস্তার করে আছে।",
-        "details_en": "The Florida gubernatorial race features Republican Byron Donalds and Democrat David Jolly competing to succeed term-limited Governor Ron DeSantis. DeSantis largely dismissed climate change while focusing his tenure on the Everglades and water quality. If elected, Donalds would become the state's first Black governor. Jolly, a former Republican, has emerged as an outspoken critic. Republicans currently hold every statewide office and control the Florida Legislature."
-      }
-    },
-    {
-      "story_id": "6e8b59ba-7550-5392-b1c1-24a5ce87521f",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#CycloneArnab",
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25301397846074-1793082640.jpg?resize=1920%2C1440",
-      "image_caption": null,
-      "published_at": "2026-10-27T08:02:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.6184,
-      "sources": [
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
-          "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
-          "snippet": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
-          "title": "New UNSC permanent members without veto would be 'second-class': India",
-          "snippet": "New UNSC permanent members without veto would be 'second-class': India"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Arunachal sees fresh violence over proposed dam",
-          "snippet": "India news: Arunachal sees fresh violence over proposed dam"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ভারতের পূর্ব উপকূলে তীব্র ঘূর্ণিঝড় অর্নাবের আঘাত হানার শঙ্কা",
-        "title_en": "India Evacuates Thousands As Very Severe Cyclone Arnab Approaches Coast",
-        "summary_bn": "তীব্র ঘূর্ণিঝড় অর্নাব ভারতের পূর্ব উপকূলে আঘাত হানার আশঙ্কায় হাজার হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হচ্ছে।",
-        "summary_en": "Tens of thousands of people are being evacuated along India's eastern coast as a strengthening Cyclone Arnab approaches.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:02:37+00:00",
-        "lead_bn": "তীব্র ঘূর্ণিঝড় অর্নাব ভারতের পূর্ব উপকূলে আঘাত হানার আশঙ্কায় হাজার হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হচ্ছে।",
-        "lead_en": "Tens of thousands of people are being evacuated along India's eastern coast as a strengthening Cyclone Arnab approaches.",
-        "bullets_bn": [
-          "ভারতের অন্ধ্রপ্রদেশ ও ওড়িশা উপকূলের ঝুঁকিপূর্ণ এলাকা থেকে প্রায় ৫০ হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হয়েছে।",
-          "ঘূর্ণিঝড়টি ঘণ্টায় ১১৫ থেকে ১২৫ কিলোমিটার বেগে উপকূল অতিক্রম করতে পারে এবং এর গতিবেগ ১৪০ কিলোমিটার পর্যন্ত উঠতে পারে।",
-          "ঘূর্ণিঝড়টির সম্ভাব্য গতিপথের মধ্যে প্রায় ১ কোটি ২০ লাখ মানুষ বসবাস করছে এবং উদ্ধার কার্যক্রম অব্যাহত রয়েছে।"
-        ],
-        "bullets_en": [
-          "Nearly 50,000 people have been evacuated from vulnerable areas in Andhra Pradesh and Odisha.",
-          "The cyclone packs sustained winds of 115-125 km/h with gusts reaching up to 140 km/h.",
-          "More than 12 million people live along the projected path of the storm as evacuations continue."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বঙ্গোপসাগর বিশ্বের অন্যতম প্রধান ক্রান্তীয় ঘূর্ণিঝড় উৎপত্তিস্থল হওয়ায় এটি ভারতের পূর্ব উপকূলীয় অঞ্চলগুলোকে প্রায়শই প্রভাবিত করে। অন্ধ্রপ্রদেশের দুর্যোগ ব্যবস্থাপনা কর্তৃপক্ষের তথ্য অনুযায়ী, ঝড়ের সম্ভাব্য গতিপথের মুখে প্রায় ১ কোটি ২০ লাখ মানুষ রয়েছে এবং কর্তৃপক্ষ প্রায় চার লাখ মানুষকে সরিয়ে নেওয়ার লক্ষ্যমাত্রা নির্ধারণ করেছে। ভারতের আবহাওয়া অধিদপ্তর ঝড়টির বিষয়ে বিশেষ সতর্কবার্তা জারি করেছে।",
-        "details_en": "The Bay of Bengal is among the world's main breeding grounds for tropical cyclones, frequently affecting India's eastern coastal regions. More than 12 million people live along the projected path of the storm, which originates over the bay and threatens densely populated coastal areas in Andhra Pradesh and Odisha. Local authorities have mobilized extensive disaster management operations to relocate hundreds of thousands of residents from vulnerable zones before landfall."
+        "impact_bn": "এই নির্বাচনের ফলাফল ফ্লোরিডার পরিবেশগত নীতি এবং ক্লিন এনার্জি খাতের ভবিষ্যত নির্ধারণ করবে।",
+        "impact_en": "The election outcome will directly shape future environmental regulations, clean energy investments, and climate resilience policies across the state.",
+        "details_bn": "ফ্লোরিডার বর্তমান গভর্নর রন ডিসান্টিস তার দুই মেয়াদে জলবায়ু পরিবর্তনের বিষয়টি এড়িয়ে গেছেন এবং পরিবেশগত নীতি ওয়াটার কোয়ালিটি ও এভারগ্লেডসের ওপর কেন্দ্রীভূত রেখেছেন। রিপাবলিকানরা বর্তমানে রাজ্যের প্রতিটি রাজ্যব্যাপী পদে আসীন রয়েছে এবং আইনসভা নিয়ন্ত্রণ করছে। ডোনাল্ডস ডিসান্টিস ও প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের সমর্থন নিয়ে নির্বাচনী মাঠে রয়েছেন, যেখানে জলি অতীতে রিপাবলিকান হিসেবে দায়িত্ব পালন করলেও পরবর্তী সময়ে ট্রাম্পের সমালোচক হিসেবে আত্মপ্রকাশ করেন।",
+        "details_en": "Outgoing Republican Governor Ron DeSantis largely dismissed the role of climate change during his two terms, focusing environmental policy primarily on water quality and the Everglades. Republicans currently hold all statewide elected offices and control the legislature in Florida. Donalds enters the race with endorsements from DeSantis and President Donald Trump, while Jolly transitioned from a Republican congressman to an outspoken critic of Trump, creating a deeply polarized political dynamic."
       }
     }
   ]
