@@ -1,125 +1,64 @@
 {
-  "updated_at": "2026-10-27T13:00:45.921555",
+  "updated_at": "2026-10-27T14:00:53.450315",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "5ec701dc-1dcf-5628-a0fd-54a49f70c536",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T12:57:43+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.5843,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/977096/%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
-          "title": "রুমি দেশেই আছেন, হাইকোর্টে আগাম জামিনের আবেদন",
-          "snippet": "রুমি দেশেই আছেন, হাইকোর্টে আগাম জামিনের আবেদন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমির হাইকোর্টে আগাম জামিন আবেদন",
-        "title_en": "Shahjalal Rumi Seeks High Court Anticipatory Bail in Child Abuse Case",
-        "summary_bn": "টঙ্গীর মাদ্রাসায় শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমি দেশেই থেকে হাইকোর্টে আগাম জামিনের আবেদন করেছেন।",
-        "summary_en": "Shahjalal Rumi, accused in a child abuse case at a Tongi madrasa, has sought anticipatory bail from the High Court.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T12:57:43+00:00",
-        "lead_bn": "টঙ্গীর মাদ্রাসায় শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমি দেশেই থেকে হাইকোর্টে আগাম জামিনের আবেদন করেছেন।",
-        "lead_en": "Shahjalal Rumi, accused in a child abuse case at a Tongi madrasa, has sought anticipatory bail from the High Court.",
-        "bullets_bn": [
-          "শিশু নির্যাতনের ঘটনায় আলোচনায় আসা শাহজালাল রুমি দেশের ভেতরেই অবস্থান করে আইনি পদক্ষেপ নিচ্ছেন।",
-          "রুমির আইনজীবী এইচ. এম. রুহুল আমীন মোল্লা হাইকোর্টে আগাম জামিনের আবেদন করার বিষয়টি নিশ্চিত করেছেন।",
-          "জামিন আবেদনের বিষয়ে পরবর্তী আইনি প্রক্রিয়ার জন্য হাইকোর্টে শুনানি অনুষ্ঠিত হবে।"
-        ],
-        "bullets_en": [
-          "Shahjalal Rumi, who sparked controversy over a child abuse incident, is seeking legal recourse from within the country.",
-          "Rumi's lawyer, H. M. Ruhul Amin Molla, confirmed that an application for anticipatory bail has been filed in the High Court.",
-          "The High Court will hold a hearing regarding the bail application as part of the ongoing legal process."
-        ],
-        "impact_bn": "ঘটনাটি শিশু সুরক্ষা ও আইনি স্বচ্ছতা নিয়ে জনমনে সচেতনতা তৈরি করেছে।",
-        "impact_en": "This incident raises public awareness regarding child protection and legal accountability.",
-        "details_bn": "টঙ্গীর একটি মাদ্রাসায় সাত বছরের শিশুকে যৌন নিপীড়নের অভিযোগ ওঠার পর বিষয়টি দেশজুড়ে আলোচনার সৃষ্টি করে। এই ঘটনায় শিশুটির বাবা শাহজালাল রুমির বিরুদ্ধে মারধর, হত্যাচেষ্টা ও চুরির মামলা দায়ের করা হয়। আত্মগোপনে না থেকে তিনি দেশের ভেতরেই আইনি সহায়তা নেওয়ার সিদ্ধান্ত নেন এবং আইনজীবীর মাধ্যমে হাইকোর্টে আগাম জামিনের আবেদন করেন।",
-        "details_en": "The incident drew nationwide attention following allegations of sexual abuse against a seven-year-old child at a Tongi madrasa. A case involving assault, attempted murder, and theft was subsequently filed against the child's father, Shahjalal Rumi. Instead of going into hiding, Rumi decided to seek legal assistance within the country and filed for anticipatory bail in the High Court through his legal counsel."
-      }
-    },
-    {
-      "story_id": "4de15e0c-4973-5281-a028-47de78bcc291",
+      "story_id": "31c940e3-6c7a-590d-adbd-3fe9e916cdd7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "tech_innovation",
-        "climate_environment"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/1461807.webp?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/bd-japan-4.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-27T11:03:38+00:00",
+      "published_at": "2026-10-27T13:29:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 1.5048,
+      "importance_score": 6.6,
+      "rank_score": 1.9773,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/emphasis-placed-on-increasing-trade-and-investment-during-the-meeting-between-the-two-prime-ministers-in-tokyo/",
-          "title": "টোকিওতে দু’দেশের প্রধানমন্ত্রীর বৈঠকে বাণিজ্য-বিনিয়োগ বাড়ানোয় গুরুত্বারোপ",
-          "snippet": "টোকিওতে দু’দেশের প্রধানমন্ত্রীর বৈঠকে বাণিজ্য-বিনিয়োগ বাড়ানোয় গুরুত্বারোপ"
+          "url": "https://www.channelionline.com/takaichi-praised-prime-minister-tareque-rahmans-commitment-to-democratic-values/",
+          "title": "গণতান্ত্রিক মূল্যবোধের প্রতি প্রধানমন্ত্রীর অঙ্গীকারের প্রশংসা তাকাইচির",
+          "snippet": "গণতান্ত্রিক মূল্যবোধের প্রতি প্রধানমন্ত্রীর অঙ্গীকারের প্রশংসা তাকাইচির"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাণিজ্য ও বিনিয়োগ বাড়াতে বাংলাদেশ ও জাপানের প্রধানমন্ত্রীর দ্বিপক্ষীয় বৈঠক",
-        "title_en": "Bangladesh and Japan Prime Ministers Hold Bilateral Meeting to Boost Trade",
-        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে যৌথ অংশীদারত্ব জোরদার করার প্রতিশ্রুতি দিয়েছেন।",
-        "summary_en": "The prime ministers of Bangladesh and Japan pledged to strengthen bilateral partnership in trade, infrastructure, and foreign investment during a meeting in Tokyo.",
+        "title_bn": "বাংলাদেশকে গণতান্ত্রিক মূল্যবোধের বন্ধু রাষ্ট্র হিসেবে অভিহিত করলেন জাপানের প্রধানমন্ত্রী",
+        "title_en": "Japanese Prime Minister Praises Bangladesh as Partner Sharing Democratic Values",
+        "summary_bn": "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি টোকিওতে দ্বিপক্ষীয় বৈঠকে বাংলাদেশের গণতান্ত্রিক উত্তরণ ও জাতীয় উন্নয়নে জোরালো সমর্থনের প্রতিশ্রুতি দিয়েছেন।",
+        "summary_en": "Japanese Prime Minister Sanae Takaichi pledged strong support for Bangladesh democratic transition during a bilateral summit in Tokyo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "tech_innovation",
-          "climate_environment"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:03:38+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে যৌথ অংশীদারত্ব জোরদার করার প্রতিশ্রুতি দিয়েছেন।",
-        "lead_en": "The prime ministers of Bangladesh and Japan pledged to strengthen bilateral partnership in trade, infrastructure, and foreign investment during a meeting in Tokyo.",
+        "published_at": "2026-10-27T13:29:40+00:00",
+        "lead_bn": "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি টোকিওতে দ্বিপক্ষীয় বৈঠকে বাংলাদেশের গণতান্ত্রিক উত্তরণ ও জাতীয় উন্নয়নে জোরালো সমর্থনের প্রতিশ্রুতি দিয়েছেন।",
+        "lead_en": "Japanese Prime Minister Sanae Takaichi pledged strong support for Bangladesh democratic transition during a bilateral summit in Tokyo.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপান বাণিজ্য, অবকাঠামো, গভীর সমুদ্র বন্দর এবং বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব বাড়ানোর প্রতিশ্রুতি দিয়েছে।",
-          "টোকিওতে অনুষ্ঠিত বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি, মহাকাশ গবেষণা এবং আঞ্চলিক বিভিন্ন বিষয়ে সহযোগিতা বাড়ানোর ওপর জোর দেওয়া হয়।",
-          "বৈঠক শেষে দুই দেশের মধ্যে পারস্পরিক সহযোগিতা বাড়াতে বেশ কিছু যৌথ সমঝোতা স্মারক স্বাক্ষরিত হয়েছে।"
+          "জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচি এবং বাংলাদেশ সরকারের প্রধান মধ্যে টোকিওতে দ্বিপক্ষীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়",
+          "বাংলাদেশকে গণতন্ত্র ও আইনের শাসনের মতো অভিন্ন মূল্যবোধের অংশীদার বন্ধু রাষ্ট্র হিসেবে অভিহিত করেন জাপানি প্রধানমন্ত্রী",
+          "উভয় নেতা মুক্ত ইন্দো-প্যাসিফিক অঞ্চল গঠনে বিগ-বি অর্থনৈতিক সহযোগিতা উদ্যোগ এগিয়ে নেওয়ার প্রতিশ্রুতি পুনর্ব্যক্ত করেন"
         ],
         "bullets_en": [
-          "Bangladesh and Japan committed to strengthening cooperation in trade, infrastructure, deep seaport development, and foreign investment.",
-          "The Tokyo meeting emphasized enhancing collaboration in energy security, technology, space research, and regional issues.",
-          "Several joint memorandums of understanding were signed between the two nations following the bilateral discussions."
+          "Japanese Prime Minister Sanae Takaichi and the Bangladesh leader held a bilateral summit in Tokyo",
+          "The Japanese premier praised Bangladesh as a trusted partner sharing democratic values and the rule of law",
+          "Both leaders reaffirmed their commitment to advance the Big-B economic initiative for a free Indo-Pacific region"
         ],
-        "impact_bn": "এই দ্বিপক্ষীয় অংশীদারত্ব সম্প্রসারিত হলে প্রযুক্তিগত উন্নয়ন, জ্বালানি খাতের অগ্রগতি এবং নতুন কর্মসংস্থান সৃষ্টির মাধ্যমে সাধারণ মানুষ উপকৃত হবে।",
-        "impact_en": "Expanded bilateral partnership will benefit citizens through technological advancement, energy sector progress, and new employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং বিভিন্ন বড় অবকাঠামো প্রকল্পে দেশটির উল্লেখযোগ্য বিনিয়োগ রয়েছে। টোকিওতে অনুষ্ঠিত এই শীর্ষ বৈঠক দুই দেশের অর্থনৈতিক সহযোগিতা এবং অংশীদারত্বকে একটি নতুন স্তরে উন্নীত করবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share long-standing friendly diplomatic and economic ties. Japan is one of Bangladesh's major development partners with significant investments in key infrastructure projects. This high-level meeting in Tokyo is expected to elevate bilateral economic cooperation and strategic partnership to a new level."
+        "impact_bn": "জাপানের সাথে কৌশলগত ও অর্থনৈতিক সহযোগিতা বৃদ্ধির ফলে দেশের অবকাঠামোগত উন্নয়ন ও কর্মসংস্থানের সুযোগ আরও প্রসারণ ঘটবে।",
+        "impact_en": "Enhanced strategic and economic cooperation with Japan will accelerate domestic infrastructure development and expand employment opportunities.",
+        "details_bn": "টোকিওতে অনুষ্ঠিত এই দ্বিপক্ষীয় শীর্ষ বৈঠকে দুই দেশের মধ্যকার অর্থনৈতিক ও কৌশলগত অংশীদারিত্ব জোরদার করার ওপর বিশেষ গুরুত্ব দেওয়া হয়। বাংলাদেশ সরকারের গণতান্ত্রিক উত্তরণ এবং জাতি গঠনমূলক প্রচেষ্টার প্রতি জাপানের এই প্রকাশ্য সমর্থন দুই দেশের দীর্ঘদিনের বন্ধুত্বপূর্ণ সম্পর্ককে নতুন উচ্চতায় নিয়ে যাবে বলে আশা করা হচ্ছে। এর মাধ্যমে বে অব বেঙ্গল ইন্ডাস্ট্রিয়াল গ্রোথ বেল্ট বা বিগ-বি উদ্যোগের বাস্তবায়ন আরও ত্বরান্বিত হবে।",
+        "details_en": "The bilateral summit in Tokyo placed strong emphasis on strengthening economic and strategic partnership between the two nations. Japan's explicit support for the democratic transition and nation-building efforts of the new administration is expected to elevate long-standing friendly relations to new heights, further accelerating the implementation of the Big-B economic initiative."
       }
     },
     {
-      "story_id": "1d68a7ed-fb1c-5967-b8c1-1e498b110ae3",
+      "story_id": "e82aebf3-7ddd-51c6-bc6e-a1e8cacfca92",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -129,111 +68,160 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-06%2Fpa14e258%2FSalauddin.jpeg?rect=0%2C9%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F99mnp0o0%2FZahed-Ur-Rahman.jpeg?rect=0%2C7%2C642%2C337&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T11:34:26+00:00",
+      "published_at": "2026-10-27T13:20:30+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 1.3219,
+      "rank_score": 1.832,
       "sources": [
         {
-          "name": "প্রথম আলো রাজনীতি",
-          "url": "https://www.prothomalo.com/politics/hk2u17ebp5",
-          "title": "প্রধান উপদেষ্টার নিয়োগ পদ্ধতি নিয়ে জটিলতা",
-          "snippet": "প্রধান উপদেষ্টার নিয়োগ পদ্ধতি নিয়ে জটিলতা"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/emk6n1ugiw",
+          "title": "মুক্তিযোদ্ধা মানিক পশারীর দাফনে বাধাদান কেউ ভালোভাবে নেয়নি: প্রধানমন্ত্রীর উপদেষ্টা",
+          "snippet": "মুক্তিযোদ্ধা মানিক পশারীর দাফনে বাধাদান কেউ ভালোভাবে নেয়নি: প্রধানমন্ত্রীর উপদেষ্টা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা নিয়োগ প্রক্রিয়া নিয়ে রাজনৈতিক অনিশ্চয়তা কাটেনি",
-        "title_en": "Uncertainty persists over the appointment process of the caretaker government chief advisor",
-        "summary_bn": "অন্তর্বর্তী সরকারের অধীনে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রতিষ্ঠার নীতিগত ঐকমত্য হলেও প্রধান উপদেষ্টা নিয়োগের পদ্ধতি এখনও স্পষ্ট নয়।",
-        "summary_en": "Despite consensus on establishing a caretaker government, the appointment process for its chief advisor remains unclear.",
+        "title_bn": "মুক্তিযোদ্ধার দাফনে বাধা দেওয়ার ঘটনা কোনোভাবেই সমর্থনযোগ্য নয়: প্রধানমন্ত্রীর উপদেষ্টা",
+        "title_en": "Obstructing Freedom Fighter Burial is Unacceptable: Prime Minister Adviser",
+        "summary_bn": "প্রধানমন্ত্রীর উপদেষ্টা জাহেদ উর রহমান পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর দাফনে বাধা দেওয়ার ঘটনাকে দুঃখজনক ও অগ্রহণযোগ্য বলে মন্তব্য করেছেন।",
+        "summary_en": "Prime Minister Adviser Zahed Ur Rahman termed obstructing the burial of freedom fighter Manik Pashari in Pirojpur as regrettable and unacceptable.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:34:26+00:00",
-        "lead_bn": "অন্তর্বর্তী সরকারের অধীনে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রতিষ্ঠার নীতিগত ঐকমত্য হলেও প্রধান উপদেষ্টা নিয়োগের পদ্ধতি এখনও স্পষ্ট নয়।",
-        "lead_en": "Despite consensus on establishing a caretaker government, the appointment process for its chief advisor remains unclear.",
+        "published_at": "2026-10-27T13:20:30+00:00",
+        "lead_bn": "প্রধানমন্ত্রীর উপদেষ্টা জাহেদ উর রহমান পিরোজপুরে বীর মুক্তিযোদ্ধা মানিক পশারীর দাফনে বাধা দেওয়ার ঘটনাকে দুঃখজনক ও অগ্রহণযোগ্য বলে মন্তব্য করেছেন।",
+        "lead_en": "Prime Minister Adviser Zahed Ur Rahman termed obstructing the burial of freedom fighter Manik Pashari in Pirojpur as regrettable and unacceptable.",
         "bullets_bn": [
-          "সংবিধান সংশোধন–সম্পর্কিত বিশেষ কমিটি তত্ত্বাবধায়ক সরকারের রূপরেখা চূড়ান্ত করতে অংশীজনদের কাছ থেকে প্রস্তাব আহ্বান করেছে।",
-          "সংসদীয় বাছাই কমিটির মাধ্যমে প্রধান উপদেষ্টা নির্বাচনের প্রস্তাবে জুলাই সনদে ঐকমত্য থাকলেও প্রক্রিয়া নিয়ে মতভিন্নতা রয়েছে।",
-          "নির্বাচনকালীন সরকারব্যবস্থা নিয়ে রাজনৈতিক বিরোধের স্থায়ী সমাধান না হলে আগামীতে নতুন রাজনৈতিক সংকট তৈরির আশঙ্কা রয়েছে।"
+          "মুক্তিযোদ্ধা মানিক পশারীর দাফনে বাধা ও বিশৃঙ্খলা সৃষ্টির ঘটনার তীব্র নিন্দা জানিয়েছেন সরকারের নীতিনির্ধারকরা।",
+          "এই ধরনের কর্মকাণ্ডের সঙ্গে জড়িত ব্যক্তিরা সমাজে কোনো রাজনৈতিক বা সামাজিক সমর্থন পাবেন না বলে স্পষ্ট করা হয়েছে।",
+          "মৃতদেহের প্রতি অবমাননাকর ও সংঘাতমূলক আচরণ রোধে সংশ্লিষ্ট মহলে কঠোর বার্তা দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "The special committee on constitutional reform has invited stakeholder proposals to finalize the caretaker government framework.",
-          "While the July charter agreed on a parliamentary selection committee, differences remain over the exact appointment process.",
-          "Failure to resolve disputes over the interim government risks triggering fresh political crises in the future."
+          "Government policymakers strongly condemned the obstruction and chaos surrounding the burial of freedom fighter Manik Pashari.",
+          "Authorities made it clear that individuals involved in such acts will not receive any political or social support in society.",
+          "A stern message has been sent to relevant quarters to prevent disrespectful and confrontational behavior toward deceased persons."
         ],
-        "impact_bn": "অনিশ্চিত নির্বাচনকালীন ব্যবস্থার কারণে রাজনৈতিক স্থিতিশীলতা ও সাধারণ মানুষের ভোটাধিকার নিয়ে উদ্বেগ বজায় রয়েছে।",
-        "impact_en": "Uncertainty over the interim system keeps public concerns alive regarding political stability and voting rights.",
-        "details_bn": "বাংলাদেশে নির্বাচনকালীন সরকারব্যবস্থা নিয়ে রাজনৈতিক বিরোধ দীর্ঘদিনের। ১৯৯৬ সালে নির্দলীয় তত্ত্বাবধায়ক ব্যবস্থা সংবিধানে অন্তর্ভুক্ত হলেও ২০১১ সালে পঞ্চদশ সংশোধনীর মাধ্যমে তা বাতিল করা হয়। বর্তমান অন্তর্বর্তী সরকার এ ব্যবস্থা পুনঃপ্রতিষ্ঠার পক্ষে অবস্থান নিলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট পদ্ধতি ও বাছাই প্রক্রিয়া নিয়ে রাজনৈতিক দলগুলোর মধ্যে এখনো পূর্ণ ঐকমত্য হয়নি। বিরোধী দলগুলো সংবিধান সংশোধন প্রক্রিয়ার বাইরে থাকায় রাজনৈতিক সমঝোতার প্রচেষ্টা জটিল হয়ে পড়েছে।",
-        "details_en": "Bangladesh has a long history of political disputes over the interim election-time government system. Introduced in 1996, the caretaker system was abolished through the fifteenth amendment in 2011. While the current administration supports its restoration, a complete consensus among political parties on the exact appointment mechanism and selection process for the chief advisor is yet to be reached."
+        "impact_bn": "নাগরিক সমাজের অধিকার ও মরদেহের মর্যাদা রক্ষায় প্রশাসনের এই অবস্থান সাধারণ মানুষের মধ্যে আইনের শাসন ও নিরাপত্তা নিয়ে আস্থা বাড়াবে।",
+        "impact_en": "The administration's stance on protecting civil rights and the dignity of the deceased will enhance public trust in the rule of law and safety.",
+        "details_bn": "পিরোজপুরে একাত্তরের মানবতাবিরোধী অপরাধের মামলায় আন্তর্জাতিক অপরাধ ট্রাইব্যুনালে সাক্ষ্য দেওয়া বীর মুক্তিযোদ্ধা মানিক পশারী মৃত্যুবরণ করেন। তাঁর মৃত্যুর পর গার্ড অব অনার প্রদানকে কেন্দ্র করে এলাকায় উত্তেজনা সৃষ্টি হয় এবং দাফনে বাধা দেওয়ার ঘটনা ঘটে। এই ঘটনাটি দেশজুড়ে ব্যাপক আলোচনার জন্ম দেয় এবং বিভিন্ন মহল থেকে এর তীব্র নিন্দা জানানো হয়। সরকারের তরফ থেকে এই ধরনের অপ্রীতিকর ঘটনার নিন্দা জানিয়ে ভবিষ্যতে এ জাতীয় আচরণের বিরুদ্ধে কঠোর অবস্থানের কথা বলা হয়েছে।",
+        "details_en": "Freedom fighter Manik Pashari, who testified at the International Crimes Tribunal in a crimes against humanity case from 1971, passed away in Pirojpur. Following his death, tension arose over providing a guard of honor, leading to obstruction of his burial. The incident sparked widespread discussion across the country, drawing strong condemnation from various quarters. The government condemned the unpleasant incident and reiterated a strict stance against such behavior in the future."
       }
     },
     {
-      "story_id": "2e05a3b4-ea72-5edb-a6f5-3440cbcdd501",
-      "primary_category": "tech_innovation",
+      "story_id": "1ba95a70-b25b-5fff-b6d9-b0c467475691",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "tech_innovation",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Technology",
-        "#Innovation"
+        "#Bangladesh",
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F4huudxp1%2FNatore-1-2.jpg?rect=0%2C0%2C1133%2C595&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T12:13:21+00:00",
+      "published_at": "2026-10-27T13:34:36+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 3.6,
-      "rank_score": 0.9456,
+      "importance_score": 4.8,
+      "rank_score": 1.5012,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/asia/977087/%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%B8%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
-          "title": "চীনে ধসে পড়ছে ‘এআই বাবল’, চাপে পুঁজিবাজার",
-          "snippet": "চীনে ধসে পড়ছে ‘এআই বাবল’, চাপে পুঁজিবাজার"
-        },
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-bangladesh-travel-and-tourism-fair-2026-is-set-to-be-held-under-the-theme-ai-powered-tourism-sustainable-destinations/",
-          "title": "আন্তর্জাতিক পর্যটন মেলা শুরু ২৯ অক্টোবর, থাকবে ২০টির বেশি দেশ",
-          "snippet": "আন্তর্জাতিক পর্যটন মেলা শুরু ২৯ অক্টোবর, থাকবে ২০টির বেশি দেশ"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/k0z3oa7hm3",
+          "title": "বিএনপির এমপির ছেলেকে গ্রেপ্তার দেখাল পুলিশ",
+          "snippet": "বিএনপির এমপির ছেলেকে গ্রেপ্তার দেখাল পুলিশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চীনে এআই খাতের শেয়ারবাজারে ধস, চার মাসে হারিয়েছে ৪৮ হাজার কোটি ডলার",
-        "title_en": "China AI Market Crash Wipes Out 480 Billion Dollars in Four Months",
-        "summary_bn": "চীনে কৃত্রিম বুদ্ধিমত্তা খাতের চাহিদা নিয়ে সংশয় এবং কঠোর রফতানি বিধিনিষেধের কারণে বাজারমূল্য ব্যাপকভাবে হ্রাস পেয়েছে।",
-        "summary_en": "Chinas artificial intelligence market suffers a massive crash due to weakening demand and export restrictions.",
+        "title_bn": "ছাত্রদল নেতা হত্যা মামলায় নাটোরের সাবেক এমপির ছেলেকে রিমান্ডে নিয়েছে পুলিশ",
+        "title_en": "Police Place Former MP Son on Remand in Chhatradal Leader Murder Case",
+        "summary_bn": "ছাত্রদল নেতা শাকিল ইসলাম হত্যা মামলায় নাটোর-৪ আসনের সাবেক সংসদ সদস্য আবদুল িজের ছেলেকে তিন দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "summary_en": "A court placed the son of former MP Abdul Aziz on a three-day remand in the Chhatradal leader Shakil Islam murder case.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T12:13:21+00:00",
-        "lead_bn": "চীনে কৃত্রিম বুদ্ধিমত্তা খাতের চাহিদা নিয়ে সংশয় এবং কঠোর রফতানি বিধিনিষেধের কারণে বাজারমূল্য ব্যাপকভাবে হ্রাস পেয়েছে।",
-        "lead_en": "Chinas artificial intelligence market suffers a massive crash due to weakening demand and export restrictions.",
+        "published_at": "2026-10-27T13:34:36+00:00",
+        "lead_bn": "ছাত্রদল নেতা শাকিল ইসলাম হত্যা মামলায় নাটোর-৪ আসনের সাবেক সংসদ সদস্য আবদুল িজের ছেলেকে তিন দিনের রিমান্ডে পাঠিয়েছে আদালত।",
+        "lead_en": "A court placed the son of former MP Abdul Aziz on a three-day remand in the Chhatradal leader Shakil Islam murder case.",
         "bullets_bn": [
-          "চীনের এআই ও সেমিকন্ডাক্টর খাতের শীর্ষ সূচক স্টার৫০ ৪০ শতাংশ কমে গেছে।",
-          "চার মাসেরও কম সময়ে এআই খাতের প্রায় ৪৮০ বিলিয়ন বা ৪৮ হাজার কোটি ডলারের বাজারমূল্য হাওয়া হয়ে গেছে।",
-          "বৈশ্বিক প্রযুক্তি খাতে চাহিদা কমায় এবং মার্কিন রফতানি বিধিনিষেধের কারণে এই বাজার ধসের ঘটনা ঘটেছে।"
+          "পুলিশ ছাত্রদলের পৌর সদস্যসচিব শাকিল ইসলাম হত্যা মামলায় সাবেক সংসদ সদস্যের ছেলেকে গ্রেপ্তার দেখিয়ে আদালতে সোপর্দ করে।",
+          "তদন্ত কর্মকর্তা মামলার মূল রহস্য উদঘাটন ও অস্ত্র উদ্ধারের জন্য আদালতে ১০ দিনের রিমান্ড আবেদন করেন।",
+          "আদালত শুনানি শেষে আসামির তিন দিনের রিমান্ড মঞ্জুর করে তাকে পুলিশি হেফাজতে পাঠান।"
         ],
         "bullets_en": [
-          "Chinas Star50 index tracking AI and semiconductor sectors dropped by forty percent.",
-          "Around 480 billion dollars in market value evaporated in less than four months.",
-          "The crash was driven by dwindling demand and strict export restrictions on technology."
+          "Police produced the former lawmaker son in court after arresting him in connection with the municipal Chhatradal leader murder.",
+          "The investigating officer formally appealed for a ten-day remand to uncover the motive and recover weapons.",
+          "The court granted a three-day police remand following the hearing and directed him into custody."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বৈশ্বিক প্রযুক্তি খাতে কৃত্রিম বুদ্ধিমত্তার ব্যবহার দ্রুত বাড়লেও এর বাণিজ্যিক টেকসইতা নিয়ে বিনিয়োগকারীদের মধ্যে দীর্ঘদিন ধরে সংশয় ছিল। মার্কিন যুক্তরাষ্ট্রের কঠোর রফতানি বিধিনিষেধ এবং বৈশ্বিক অর্থনীতিতে মন্দার আশঙ্কার কারণে চিপ ও এআই প্রযুক্তির স্টকগুলোতে এই অস্থিরতা তৈরি হয়েছে। চীনের বাজারে এই ধস আন্তর্জাতিক প্রযুক্তি সরবরাহ শৃঙ্খলে বড় ধরনের প্রভাব ফেলতে পারে বলে আশঙ্কা করছেন বিশ্লেষকরা।",
-        "details_en": "Despite the rapid expansion of artificial intelligence globally, investors have increasingly questioned its short-term commercial viability. Stricter U.S. export controls on advanced chips and broader economic uncertainties have triggered extreme volatility across tech stocks. Analysts warn that this significant market correction in China could disrupt global technology supply chains and investor confidence in emerging tech sectors."
+        "details_bn": "গত ১৪ অক্টোবর রাতে নাটোরের গুরুদাসপুরে স্থানীয় চাঁচকৈড় বাজার থেকে ফেরার পথে দুর্বৃত্তদের হামলার শিকার হন পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম। গুরুতর আহত অবস্থায় প্রথমে স্থানীয় স্বাস্থ্য কমপ্লেক্স এবং পরে ঢাকায় নেওয়ার পর তাঁর মৃত্যু হয়। এই ঘটনায় দায়ের করা হত্যা মামলায় রাজনৈতিক প্রভাব ও জড়িত থাকার অভিযোগে সাবেক সংসদ সদস্য আবদুল িজের বড় ছেলে নূরুজ্জামানকে হেফাজতে নিয়ে জিজ্ঞাসাবাদ শুরু করে পুলিশ।",
+        "details_en": "Municipal Chhatradal leader Shakil Islam was critically injured by assailants while returning from Chachkair market in Gurudaspur. He later succumbed to his injuries after being transferred to hospitals in Rajshahi and Dhaka. Police detained Nuruzzaman, the eldest son of former MP Abdul Aziz, following allegations of his involvement and instigation in the murder."
+      }
+    },
+    {
+      "story_id": "55a471a8-c2eb-5464-91e1-b800b9015293",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-62.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-27T13:23:09+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3615,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/a-new-milestone-in-metro-rail-expansion-construction-contracts-signed-for-four-packages-of-mrt-line-1-and-line-5/",
+          "title": "মেট্রোরেল সম্প্রসারণে নতুন চুক্তি",
+          "snippet": "মেট্রোরেল সম্প্রসারণে নতুন চুক্তি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মেট্রোরেল নেটওয়ার্ক সম্প্রসারণে স্বাক্ষরিত হলো চারটি নতুন নির্মাণ প্যাকেজ চুক্তি",
+        "title_en": "Four New Construction Package Contracts Signed to Expand Metro Rail Network",
+        "summary_bn": "ঢাকা ম্যাস ট্রানজিট কোম্পানি লিমিটেড মেট্রোরেল নেটওয়ার্ক সম্প্রসারণের জন্য এমআরটি লাইন এক ও পাঁচের চারটি নতুন নির্মাণ প্যাকেজ চুক্তি স্বাক্ষর করেছে।",
+        "summary_en": "Dhaka Mass Transit Company Limited has signed four new construction package contracts for the expansion of MRT Line-1 and MRT Line-5.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T13:23:09+00:00",
+        "lead_bn": "ঢাকা ম্যাস ট্রানজিট কোম্পানি লিমিটেড মেট্রোরেল নেটওয়ার্ক সম্প্রসারণের জন্য এমআরটি লাইন এক ও পাঁচের চারটি নতুন নির্মাণ প্যাকেজ চুক্তি স্বাক্ষর করেছে।",
+        "lead_en": "Dhaka Mass Transit Company Limited has signed four new construction package contracts for the expansion of MRT Line-1 and MRT Line-5.",
+        "bullets_bn": [
+          "ডিএমটিসিএলের আওতাধীন এমআরটি লাইন এক এবং এমআরটি লাইন পাঁচের নর্দার্ন রুটের নির্মাণকাজ এগিয়ে নিতে চুক্তি স্বাক্ষরিত হয়েছে।",
+          "বাংলাদেশ সরকার ও জাপান আন্তর্জাতিক সহযোগিতা সংস্থার যৌথ অর্থায়নে এই প্রকল্প দুটি বাস্তবায়িত হচ্ছে।",
+          "নির্মাণকাজে সর্বোচ্চ নিরাপত্তা ও গুণগত মান নিশ্চিত করে নির্দিষ্ট সময়ে প্রকল্পের কাজ শেষ করার নির্দেশনা দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "Contracts were signed to advance construction works for MRT Line-1 and the northern route of MRT Line-5 under DMTCL.",
+          "The two projects are being implemented under the joint financing of the Bangladesh government and JICA.",
+          "Authorities directed to ensure maximum safety and quality while completing the project work within the stipulated timeframe."
+        ],
+        "impact_bn": "মেট্রোরেল নেটওয়ার্ক সম্প্রসারণের মাধ্যমে রাজধানীবাসীর যাতায়াত সহজ হবে এবং দীর্ঘমেয়াদী যানজট ও দৈনন্দিন ভোগান্তি কমবে।",
+        "impact_en": "Expansion of the metro rail network will ease urban commuting and reduce traffic congestion and daily public suffering.",
+        "details_bn": "রাজধানীর যানজট নিরসন ও আধুনিক গণপরিবহন ব্যবস্থা গড়ে তোলার লক্ষ্যে সরকার মেট্রোরেল প্রকল্প বাস্তবায়নে সর্বোচ্চ গুরুত্ব দিচ্ছে। জাইকার আর্থিক ও কারিগরি সহায়তায় এমআরটি লাইন এক এবং এমআরটি লাইন পাঁচের নির্মাণকাজ এগিয়ে চলেছে। এসব প্রকল্পের আওতায় ডিপো নির্মাণ, ভায়াডাক্ট এবং এলিভেটেড স্টেশন স্থাপনের কাজ অন্তর্ভুক্ত রয়েছে, যা রাজধানী ঢাকার যোগাযোগ ব্যবস্থাকে আরও গতিশীল করবে।",
+        "details_en": "The government places highest priority on implementing metro rail projects to reduce capital traffic congestion and build modern public transport. Construction of MRT Line-1 and MRT Line-5 is progressing with financial and technical assistance from JICA. These projects include depot construction, viaducts, and elevated stations, which will significantly dynamize Dhaka's communication system."
       }
     },
     {
@@ -247,7 +235,7 @@
       "region": "international",
       "tags": [
         "#WorldBank",
-        "#ArtificialIntelligence",
+        "#AI",
         "#AjayBanga"
       ],
       "image_url": "https://image.cnbcfm.com/api/v1/image/107322815-1698232166266-gettyimages-1722805969-AA_13102023_1375096.jpeg?v=1698232229&w=1920&h=1080",
@@ -255,7 +243,7 @@
       "published_at": "2026-10-27T12:50:13+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.25,
-      "rank_score": 1.5413,
+      "rank_score": 0.9427,
       "sources": [
         {
           "name": "CNBC Global Economy",
@@ -265,10 +253,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তার বর্ধিত ব্যয়ের মাঝেও বিশ্ববাজারে মূলধনের ঘাটতি নেই বলে জানিয়েছেন বিশ্বব্যাংক প্রধান",
-        "title_en": "World Bank President Says Capital Availability Remains Stable Despite Rising AI Costs",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে ঋণের সুদের হার বাড়লেও বৈশ্বিক বাজারে মূলধনের পর্যাপ্ততা নিয়ে উদ্বেগের কিছু নেই বলে জানিয়েছেন বিশ্বব্যাংকের প্রধান অজয় বঙ্গা।",
-        "summary_en": "World Bank President Ajay Banga stated that capital remains accessible globally despite rising interest rates driven by artificial intelligence investments.",
+        "title_bn": "বিশ্বব্যাংক প্রধান জানিয়েছেন পুঁজিবাজার সংকট নেই এবং এআই বিনিয়োগ নিরাপদ রয়েছে",
+        "title_en": "World Bank Chief Says Capital Availability Is Fine Despite AI Funding Concerns",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে সুদের হার বাড়লেও বৈশ্বিক পুঁজিবাজারে পর্যাপ্ত মূলধন রয়েছে বলে জানিয়েছে বিশ্বব্যাংক।",
+        "summary_en": "World Bank President Ajay Banga stated that capital remains readily available despite AI investments pushing borrowing costs higher.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -278,83 +266,85 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T12:50:13+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে ঋণের সুদের হার বাড়লেও বৈশ্বিক বাজারে মূলধনের পর্যাপ্ততা নিয়ে উদ্বেগের কিছু নেই বলে জানিয়েছেন বিশ্বব্যাংকের প্রধান অজয় বঙ্গা।",
-        "lead_en": "World Bank President Ajay Banga stated that capital remains accessible globally despite rising interest rates driven by artificial intelligence investments.",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে সুদের হার বাড়লেও বৈশ্বিক পুঁজিবাজারে পর্যাপ্ত মূলধন রয়েছে বলে জানিয়েছে বিশ্বব্যাংক।",
+        "lead_en": "World Bank President Ajay Banga stated that capital remains readily available despite AI investments pushing borrowing costs higher.",
         "bullets_bn": [
-          "বিশ্ববাজারে কৃত্রিম বুদ্ধিমত্তার জন্য সুদের হার বাড়লেও মূলধনের প্রবাহ স্বাভাবিক রয়েছে বলে উল্লেখ করা হয়েছে।",
-          "বিশ্বব্যাংক গত বছরে ১১ হাজার ২০০ কোটি ডলার সংগ্রহ করেছে যা তিন বছর আগের তুলনায় তিন গুণ বেশি।",
-          "উন্নত অর্থনীতির দেশগুলো বড় আকারের ব্যবহারের দিকে ঝুঁকলেও উদীয়মান বাজারগুলো অবকাঠামো উন্নয়নে বেশি বিনিয়োগ করছে।"
+          "কৃত্রিম বুদ্ধিমত্তার কারণে সুদের হার বাড়লেও বৈশ্বিক মূলধন সংকট নেই বলে নিশ্চিত করেছেন বিশ্বব্যাংক প্রধান।",
+          "বিশ্বব্যাংক বিগত বছরে ১১২ বিলিয়ন ডলার তহবিল সংগ্রহ করেছে যা তিন বছর আগের তুলনায় তিন গুণ বেশি।",
+          "উন্নয়নশীল বাজারগুলোতে বড় আকারের এআই ব্যবহারের বদলে অবকাঠামো ও ক্ষুদ্র খাতে বিনিয়োগের ওপর জোর দেওয়া হচ্ছে।"
         ],
         "bullets_en": [
-          "World Bank President Ajay Banga confirmed that capital availability is not an issue despite AI driving up borrowing costs.",
-          "The World Bank mobilized $112 billion last year, marking a threefold increase compared to three years prior.",
-          "Emerging markets focus investments primarily on infrastructure and smaller-scale AI applications unlike developed counterparts."
+          "World Bank President Ajay Banga confirmed that capital availability is not an issue despite rising borrowing costs.",
+          "The World Bank successfully mobilized 112 billion dollars last year, marking a threefold increase from three years prior.",
+          "Emerging markets are prioritizing physical infrastructure and smaller-scale artificial intelligence applications over massive funding models."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তার প্রসার এবং এর বাণিজ্যিক মডেল নিয়ে বিশ্বজুড়ে বিনিয়োগকারীদের মাঝে নানা আলোচনা চলছে। প্রযুক্তিখাতে বড় অংকের পুঁজি বিনিয়োগের ফলে বৈশ্বিক সুদের হার এবং ঋণ নেওয়ার খরচ বৃদ্ধি পাওয়া নিয়ে শঙ্কা তৈরি হয়েছে। তবে উদীয়মান অর্থনীতির দেশগুলোতে অবকাঠামোগত উন্নয়ন এবং ক্ষুদ্র পরিসরে কৃত্রিম বুদ্ধিমত্তার ব্যবহার অব্যাহত রয়েছে, যা ঐতিহ্যবাহী খাতের বিনিয়োগ সুরক্ষিত রাখতে সহায়তা করছে।",
-        "details_en": "Global financial markets face growing discussions regarding the massive capital investments required for artificial intelligence expansion and its underlying business models. While heavy tech funding pushes borrowing costs higher, emerging economies continue focusing investments on foundational infrastructure and smaller-scale technological applications, helping mitigate widespread debt distress fears."
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের দ্রুত সম্প্রসারণ এবং এর পেছনে ব্যাপক বিনিয়োগের ফলে বিশ্বজুড়ে ঋণগ্রহণের ব্যয় ও সুদের হার বৃদ্ধি পাচ্ছে। তবে বিশ্বব্যাংক জানিয়েছে, উদীয়মান অর্থনীতির দেশগুলোতে এই সংকট তীব্র নয় কারণ তারা বৃহৎ প্রযুক্তিগত ব্যয়ের পরিবর্তে সড়ক ও সেতু নির্মাণের মতো মৌলিক অবকাঠামো উন্নয়নে বেশি গুরুত্ব দিচ্ছে। পাশাপাশি ব্যক্তিগত পুঁজিবাজার সরাসরি সরকারগুলোকে অর্থায়ন না করায় বৈশ্বিক ঋণঝুঁকি অনেকাংশে নিয়ন্ত্রিত রয়েছে।",
+        "details_en": "The rapid expansion of artificial intelligence and massive funding requirements have raised concerns over surging borrowing costs and bond yields globally. However, the World Bank noted that emerging markets face less friction because their capital deployment centers primarily on foundational infrastructure like roads and bridges rather than speculative tech financing. Furthermore, private capital managed by the institution bypasses direct government lending to mitigate debt crisis fears."
       }
     },
     {
-      "story_id": "440eb8b8-b252-5670-9c0a-b84e94b0b2a6",
+      "story_id": "6c83a492-c1c1-57fe-b213-1c66b24e7ca1",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#RussiaUkraineWar",
-        "#NorwayFinland"
+        "#UkraineCeasefire",
+        "#WhiteHouse",
+        "#Vatican",
+        "#RussiaUkraineWar"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ff15d366445fde71c0e368c268548ed0",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae0831b-1793098523.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-27T12:43:42+00:00",
+      "published_at": "2026-10-27T13:45:01+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.12,
-      "rank_score": 0.7218,
+      "rank_score": 0.7297,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-          "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
-          "snippet": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky?traffic_source=rss",
+          "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+          "snippet": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?"
         },
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
-          "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
-          "snippet": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despit"
+          "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+          "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+          "snippet": "Ukraine and Russia begin Oleshky ceasefire for aid mission"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নরওয়ে ও ফিনল্যান্ডের শীর্ষ নেতারা পুতিনের সাথে বিরল দ্বিপক্ষীয় ফোনালাপ সম্পন্ন করেছেন",
-        "title_en": "Finnish and Norwegian Leaders Hold Rare Phone Call With Putin",
-        "summary_bn": "নরওয়ে ও ফিনল্যান্ডের সরকারপ্রধানরা রাশিয়ার প্রেসিডেন্টের সাথে বিরল এক ফোনালাপে ইউক্রেন যুদ্ধসহ বিভিন্ন জরুরি ইস্যু নিয়ে আলোচনা করেছেন।",
-        "summary_en": "The leaders of Norway and Finland held a rare phone call with the Russian president to discuss the Ukraine conflict.",
+        "title_bn": "ইউক্রেনের ওলেশকি সিজফায়ার মধ্যস্থতাকারী নিয়ে যুক্তরাষ্ট্র ও ভাটিকানের দ্বন্দ",
+        "title_en": "White House and Vatican Clash Over Who Brokered Ukraine Ceasefire",
+        "summary_bn": "ইউক্রেনের ওলেশকি শহরে মানবিক যুদ্ধবিরতির মধ্যস্থতা নিয়ে হোয়াইট হাউজ এবং ভাটিকান পরস্পরবিরোধী দাবি তুলেছে।",
+        "summary_en": "The White House and the Vatican have offered conflicting narratives regarding who successfully brokered a humanitarian ceasefire in Ukraine.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T12:43:42+00:00",
-        "lead_bn": "নরওয়ে ও ফিনল্যান্ডের সরকারপ্রধানরা রাশিয়ার প্রেসিডেন্টের সাথে বিরল এক ফোনালাপে ইউক্রেন যুদ্ধসহ বিভিন্ন জরুরি ইস্যু নিয়ে আলোচনা করেছেন।",
-        "lead_en": "The leaders of Norway and Finland held a rare phone call with the Russian president to discuss the Ukraine conflict.",
+        "published_at": "2026-10-27T13:45:01+00:00",
+        "lead_bn": "ইউক্রেনের ওলেশকি শহরে মানবিক যুদ্ধবিরতির মধ্যস্থতা নিয়ে হোয়াইট হাউজ এবং ভাটিকান পরস্পরবিরোধী দাবি তুলেছে।",
+        "lead_en": "The White House and the Vatican have offered conflicting narratives regarding who successfully brokered a humanitarian ceasefire in Ukraine.",
         "bullets_bn": [
-          "নরওয়ে ও ফিনল্যান্ডের শীর্ষ নেতারা রাশিয়ার প্রেসিডেন্টের সাথে নব্বই মিনিটব্যাপী এক দীর্ঘ ফোনালাপ পরিচালনা করেন।",
-          "আলোচনায় জ্বালানি অবকাঠামোয় হামলা এবং কৃষ্ণ সাগর নিরাপত্তা ইস্যু প্রধান্য পায় বলে নরওয়ের পক্ষ থেকে জানানো হয়।",
-          "উভয় নেতা ইউক্রেনের আত্মরক্ষার অধিকারের প্রতি দৃঢ় সমর্থন অব্যাহত রাখার ঘোষণা দেন।"
+          "হোয়াইট হাউজ দাবি করেছে মার্কিন ফার্স্ট লেডি মেলানিয়া ট্রাম্প এই যুদ্ধবিরতির মধ্যস্থতা করেছেন।",
+          "ভাটিকান জানিয়েছে রুশ ও ইউক্রেনীয় রাষ্ট্রপ্রধানদের সাথে পোপের সরাসরি ফোনালাপের মাধ্যমে এই যুদ্ধবিরতি অর্জিত হয়েছে।",
+          "যুদ্ধবিরতির ফলে রুশ নিয়ন্ত্রিত ওলেশকি শহরের অবরুদ্ধ বেসামরিক নাগরিকদের জন্য ত্রাণ সরবরাহ ও উদ্ধার কাজ শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The leaders of Norway and Finland engaged in a ninety-minute phone call with the Russian president.",
-          "Discussions focused on pressing issues including energy infrastructure attacks and Black Sea security.",
-          "Both leaders reiterated their continued support for Ukraine and its right to self-defense."
+          "The White House insists United States First Lady Melania Trump mediated the crucial local ceasefire.",
+          "The Vatican attributes the diplomatic breakthrough to direct phone calls made by the pope to the Russian and Ukrainian presidents.",
+          "The truce enables the delivery of vital humanitarian supplies and civilian evacuations in the contested town."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "নরওয়ের প্রধানমন্ত্রী জোনাস গাহর স্টøre এবং ফিনল্যান্ডের প্রেসিডেন্ট আলেকজান্ডার স্টাব রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে এই অস্বাভাবিক ফোনালাপে অংশ নেন। নির্ধারিত সময়সীমা কুড়ি মিনিট হলেও দীর্ঘ ৯০ মিনিট ধরে এই আলোচনা চলে। যদিও উভয় পক্ষ তাদের পূর্বের অবস্থানে অনড় থাকে এবং উল্লেখযোগ্য মতপার্থক্য রয়ে যায়, তবুও ইউরোপীয় অংশীদারদের অবহিত করেই এই কূটনৈতিক যোগাযোগ রক্ষা করা হয়।",
-        "details_en": "Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb participated in an unusual phone conversation with Russian President Vladimir Putin. Although initially scheduled for twenty minutes, the call extended to ninety minutes. While significant differences in their respective positions remained, the Nordic leaders maintained transparency by informing their European allies in advance."
+        "impact_bn": "এই যুদ্ধবিরতির কারণে ওলেশকি শহরের অবরুদ্ধ সাধারণ মানুষ জরুরি খাদ্য ও চিকিৎসা সহায়তা পাওয়ার সুযোগ পাচ্ছে।",
+        "impact_en": "Trapped civilians in Oleshky finally gain access to critical food supplies and medical assistance.",
+        "details_bn": "রাশিয়া ২০২২ সালের শুরুর দিকে খেরসন অঞ্চলের ওলেশকি শহরটি দখল করে নেয়। পরবর্তীতে যুদ্ধ ও ২০২৩ সালে কাখোভকা বাঁধ ধ্বংসের ফলে সৃষ্ট বন্যায় শহরটি মারাত্মকভাবে ক্ষতিগ্রস্ত হয়। অবশিষ্ট প্রায় দুই হাজার বাসিন্দা দীর্ঘ সময় ধরে খাদ্য, ওষুধ ও অন্যান্য জরুরি পণ্যের তীব্র সংকটে ভুগছিলেন। এর প্রেক্ষিতে ঘোষিত এই সাময়িক যুদ্ধবিরতি অবরুদ্ধ জনগণের জন্য অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
+        "details_en": "Russia captured the southern Ukrainian town of Oleshky in early 2022. The area suffered extensive war destruction and severe flooding following the Kakhovka Dam collapse in 2023. Remaining residents faced critical shortages of food and medicine before the announcement of the humanitarian truce."
       }
     }
   ]
