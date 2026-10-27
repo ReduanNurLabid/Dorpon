@@ -1,121 +1,68 @@
 {
-  "updated_at": "2026-10-27T05:00:41.166697",
+  "updated_at": "2026-10-27T06:00:48.917529",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "c11bf4eb-5f20-5548-99c9-28d1cb998139",
+      "story_id": "4aded559-e45e-5926-a0f7-9ad6e852da6d",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "tech_innovation",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/PM-1-2.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-27T04:51:29+00:00",
+      "published_at": "2026-10-27T05:59:28+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.4284,
+      "rank_score": 2.6351,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976978/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%B8%E0%A6%AE%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0",
-          "title": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তি করার প্রত্যয় প্রধানমন্ত্রীর",
-          "snippet": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তি করার প্রত্যয় প্রধানমন্ত্রীর"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-minister-tareque-rahman-described-japan-as-a-proven-friend-of-bangladesh/",
+          "title": "জাপান বাংলাদেশের পরীক্ষিত বন্ধু: প্রধানমন্ত্রী",
+          "snippet": "জাপান বাংলাদেশের পরীক্ষিত বন্ধু: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তিতে রূপান্তরের প্রত্যয় প্রধানমন্ত্রীর",
-        "title_en": "PM Vows to Transform Bangladesh-Japan Ties into Driver of Shared Prosperity",
-        "summary_bn": "প্রধানমন্ত্রী বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বের সম্পর্ককে অর্থনৈতিক অগ্রগতি ও অভিন্ন সমৃদ্ধির চালিকাশক্তিতে পরিণত করার প্রত্যয় ব্যক্ত করেছেন।",
-        "summary_en": "Prime Minister expressed firm resolve to turn Bangladesh and Japan's long-standing friendship into a powerful driver of economic progress and shared prosperity.",
+        "title_bn": "বাংলাদেশ ও জাপান দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় নিতে একমত",
+        "title_en": "Bangladesh and Japan Agree to Elevate Bilateral Relations",
+        "summary_bn": "বাংলাদেশ ও জাপান জ্বালানি, প্রযুক্তি ও অবকাঠামো খাতে সহযোগিতা বাড়াতে এবং দ্বিপক্ষীয় অংশীদারত্ব অনন্য উচ্চতায় নিয়ে যেতে সম্মত হয়েছে।",
+        "summary_en": "Bangladesh and Japan have agreed to expand cooperation in energy, technology, and infrastructure to elevate their bilateral partnership.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "tech_innovation",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:51:29+00:00",
-        "lead_bn": "প্রধানমন্ত্রী বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বের সম্পর্ককে অর্থনৈতিক অগ্রগতি ও অভিন্ন সমৃদ্ধির চালিকাশক্তিতে পরিণত করার প্রত্যয় ব্যক্ত করেছেন।",
-        "lead_en": "Prime Minister expressed firm resolve to turn Bangladesh and Japan's long-standing friendship into a powerful driver of economic progress and shared prosperity.",
+        "published_at": "2026-10-27T05:59:28+00:00",
+        "lead_bn": "বাংলাদেশ ও জাপান জ্বালানি, প্রযুক্তি ও অবকাঠামো খাতে সহযোগিতা বাড়াতে এবং দ্বিপক্ষীয় অংশীদারত্ব অনন্য উচ্চতায় নিয়ে যেতে সম্মত হয়েছে।",
+        "lead_en": "Bangladesh and Japan have agreed to expand cooperation in energy, technology, and infrastructure to elevate their bilateral partnership.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের শীর্ষ নেতারা দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করার বিষয়ে গুরুত্বপূর্ণ বৈঠকে অংশ নেন।",
-          "টোকিওর কানতেই কার্যালয়ে দুই দেশের সরকারপ্রধানের নেতৃত্বে এই দ্বিপক্ষীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়।",
-          "বৈঠক শেষে আয়োজিত যৌথ সংবাদ সম্মেলনে দুই দেশের পারস্পরিক সহযোগিতার ক্ষেত্র আরও বাড়ানোর প্রত্যাশা জানানো হয়।"
+          "বাংলাদেশ ও জাপান জ্বালানি, তথ্যপ্রযুক্তি, রেল ও যোগাযোগ খাতে সহযোগিতা জোরদারে ঐকমত্যে পৌঁছেছে।",
+          "প্রধানমন্ত্রী তারেক রহমান জাপানকে বাংলাদেশের দীর্ঘদিনের বিশ্বস্ত ও পরীক্ষিত বন্ধু হিসেবে অভিহিত করেছেন।",
+          "উভয় দেশ গভীর সমুদ্রবন্দর ও দ্বিপক্ষীয় বিনিয়োগ বাড়াতে যৌথভাবে কাজ করার সিদ্ধান্ত নিয়েছে।"
         ],
         "bullets_en": [
-          "Top leaders of Bangladesh and Japan participated in a crucial bilateral meeting to strengthen relations.",
-          "The bilateral summit was held at the Kantei, the office of the Japanese Prime Minister in Tokyo.",
-          "Both leaders expressed expectations to expand areas of mutual cooperation during a joint press briefing."
+          "Bangladesh and Japan reached a consensus to strengthen cooperation in energy, IT, rail, and communication sectors.",
+          "Prime Minister Tarique Rahman described Japan as a long-standing and trusted friend of Bangladesh.",
+          "Both nations decided to work jointly on deep-sea port development and increasing bilateral investment."
         ],
-        "impact_bn": "এই দ্বিপক্ষীয় চুক্তির ফলে দুই দেশের মধ্যকার বাণিজ্য সম্প্রসারণ ও কর্মসংস্থানের নতুন সুযোগ সৃষ্টি হতে পারে।",
-        "impact_en": "This bilateral engagement could pave the way for expanded trade and new employment opportunities for citizens.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘকাল ধরে অর্থনৈতিক ও কৌশলগত অংশীদারিত্ব বজায় রয়েছে। অবকাঠামো উন্নয়ন, বিনিয়োগ এবং বৈদেশিক বাণিজ্যে জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন সহযোগী হিসেবে কাজ করে আসছে। দুই দেশের এই শীর্ষ বৈঠক দ্বিপক্ষীয় সম্পর্ককে আরও এক ধাপ এগিয়ে নিতে এবং কৌশলগত সহযোগিতা জোরদার করতে গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
-        "details_en": "Bangladesh and Japan share a long-standing economic and strategic partnership. Japan has consistently acted as one of Bangladesh's key development partners in infrastructure development, foreign investment, and trade. This high-level summit is expected to further advance bilateral ties and strengthen strategic cooperation between the two nations."
+        "impact_bn": "জাপানি বিনিয়োগ বৃদ্ধি পেলে দেশের অবকাঠামো উন্নয়ন ও কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
+        "impact_en": "Increased Japanese investment will accelerate infrastructure development and create employment opportunities.",
+        "details_bn": "জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং স্বাধীনতার পর থেকেই দেশটি বাংলাদেশে বিভিন্ন মেগা প্রকল্পে আর্থিক ও প্রযুক্তিগত সহায়তা দিয়ে আসছে। বিগত বছরগুলোতে দুই দেশের মধ্যে বাণিজ্য ও অর্থনৈতিক সহযোগিতা উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে। বর্তমান দ্বিপক্ষীয় বৈঠকের মাধ্যমে এই সম্পর্ক আরও কৌশলগত ও সুদৃঢ় রূপ লাভ করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Japan has been one of Bangladesh's key development partners, providing financial and technical assistance for major infrastructure projects since independence. Economic cooperation and trade between the two nations have grown significantly over the years. This bilateral meeting aims to transform this partnership into a more strategic and robust relationship."
       }
     },
     {
-      "story_id": "869f8ac3-c0f1-520b-bb7d-a2d4fc48e402",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T04:46:20+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6788,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172383",
-          "title": "দেশে আটকেপড়া সৌদি প্রবাসীদের জন্য সুখবর",
-          "snippet": "দেশে আটকেপড়া সৌদি প্রবাসীদের জন্য সুখবর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবে আটকেপড়া কর্মীদের আকামার মেয়াদ শেষের পর প্রবেশের অনুমতি",
-        "title_en": "Saudi Arabia Allows Entry for Bangladeshi Workers With Expired Iqamas",
-        "summary_bn": "ফ্লাইট বিপর্যয়ের কারণে আটকেপড়া যেসব বাংলাদেশি কর্মীর আকামার মেয়াদ শেষ হয়েছে, সৌদি আরব তাদের দেশটিতে প্রবেশের সুযোগ দিচ্ছে।",
-        "summary_en": "Saudi Arabia is granting entry to Bangladeshi workers whose iqamas expired after flight disruptions stranded them at home.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:46:20+00:00",
-        "lead_bn": "ফ্লাইট বিপর্যয়ের কারণে আটকেপড়া যেসব বাংলাদেশি কর্মীর আকামার মেয়াদ শেষ হয়েছে, সৌদি আরব তাদের দেশটিতে প্রবেশের সুযোগ দিচ্ছে।",
-        "lead_en": "Saudi Arabia is granting entry to Bangladeshi workers whose iqamas expired after flight disruptions stranded them at home.",
-        "bullets_bn": [
-          "ফ্লাইট সংকটের কারণে নির্দিষ্ট সময়ে কর্মস্থলে ফিরতে না পারা বাংলাদেশি প্রবাসীদের সৌদি আরবে প্রবেশের বিশেষ অনুমোদন দেওয়া হয়েছে।",
-          "যাদের আকামার মেয়াদ ইতোমধ্যে উত্তীর্ণ হয়েছে, তারা নির্ধারিত প্রক্রিয়া অনুসরণ করে সৌদি আরব প্রবেশের এই সুযোগ পাবেন।",
-          "সংশ্লিষ্ট কর্তৃপক্ষ ও প্রবাসীদের জন্য এই সিদ্ধান্ত সৌদি আরবগামী যাত্রীদের দীর্ঘদিনের অনিশ্চয়তা ও উদ্বেগ দূর করবে।"
-        ],
-        "bullets_en": [
-          "Saudi authorities have approved entry for stranded Bangladeshi expatriates who missed travel deadlines due to flight disruptions.",
-          "Workers facing expired iqamas while stuck abroad will now be eligible to re-enter under these revised provisions.",
-          "This measure resolves immediate uncertainties for thousands of migrant workers preparing to return to their jobs."
-        ],
-        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা আকামার মেয়াদ শেষ হওয়ার পরেও কাজে যোগ দিতে পারবেন, যা তাদের কর্মসংস্থান রক্ষা করবে।",
-        "impact_en": "Migrant workers can resume their jobs in Saudi Arabia without losing employment status due to past visa expiration.",
-        "details_bn": "সাম্প্রতিক সময়ে ফ্লাইট বিপর্যয় এবং শিডিউল বিপর্যয়ের কারণে অসংখ্য বাংলাদেশি প্রবাসী নির্ধারিত সময়ের মধ্যে সৌদি আরবে ফিরতে পারেননি। এর ফলে অনেক কর্মীর আকামা বা ইকামা এবং ভিসার মেয়াদ শেষ হয়ে যাওয়ায় তারা পেশাগত অনিশ্চয়তায় পড়েন। এই সংকট সমাধানে বাংলাদেশ সরকারের কূটনৈতিক প্রচেষ্টার পরিপ্রেক্ষিতে সৌদি কর্তৃপক্ষ আটকেপড়া কর্মীদের পুনরায় দেশটিতে প্রবেশের এই বিশেষ সুযোগ প্রদান করে।",
-        "details_en": "Recent flight disruptions and schedule failures left numerous Bangladeshi expatriates unable to return to Saudi Arabia on time, leading to expired iqamas and severe professional uncertainty. Following diplomatic efforts by Bangladesh, Saudi authorities intervened to grant re-entry permissions, resolving the crisis for affected migrant workers."
-      }
-    },
-    {
-      "story_id": "96b413bf-6e51-5342-8219-eaf1cdea3e1f",
+      "story_id": "921bb6b5-83e6-5ff5-8b66-9145527a6a82",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -125,52 +72,52 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2Fz8ediy5i%2FWhatsApp-Image-2026-10-27-at-8.34.03-AM.jpeg?rect=0%2C107%2C1289%2C677&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T04:42:10+00:00",
+      "published_at": "2026-10-27T05:49:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6135,
+      "rank_score": 1.7304,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/fzee94e9eh",
-          "title": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, ১২ দিনেও শনাক্ত হয়নি হামলাকারী",
-          "snippet": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, ১২ দিনেও শনাক্ত হয়নি হামলাকারী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172404",
+          "title": "নাটোরে হামলার ১২ দিন পর ছাত্রদল নেতা শাকিলের মৃত্যু",
+          "snippet": "নাটোরে হামলার ১২ দিন পর ছাত্রদল নেতা শাকিলের মৃত্যু"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, মামলা হত্যায় রূপান্তর",
-        "title_en": "Injured Jatiyatabadi Chhatra Dal Leader Dies in Natore Attack",
-        "summary_bn": "নাটোরে দুর্বৃত্তদের ধারালো অস্ত্রের হামলায় গুরুতর আহত ছাত্রদল নেতা শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "summary_en": "A critically injured Jatiyatabadi Chhatra Dal leader has died while undergoing treatment following an attack by miscreants in Natore.",
+        "title_bn": "নাটোরে দুর্বৃত্তের হামলায় আহত ছাত্রদল নেতা শাকিল মারা গেছেন",
+        "title_en": "Injured Chhatra Dal Leader Shakil Passes Away After Attack in Natore",
+        "summary_bn": "গুরুদাসপুরে দুর্বৃত্তদের হামলায় গুরুতর আহত পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "summary_en": "Paurashava Chhatra Dal leader Shakil Islam has died while undergoing treatment after being attacked by miscreants in Gurudaspur.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:42:10+00:00",
-        "lead_bn": "নাটোরে দুর্বৃত্তদের ধারালো অস্ত্রের হামলায় গুরুতর আহত ছাত্রদল নেতা শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
-        "lead_en": "A critically injured Jatiyatabadi Chhatra Dal leader has died while undergoing treatment following an attack by miscreants in Natore.",
+        "published_at": "2026-10-27T05:49:32+00:00",
+        "lead_bn": "গুরুদাসপুরে দুর্বৃত্তদের হামলায় গুরুতর আহত পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "lead_en": "Paurashava Chhatra Dal leader Shakil Islam has died while undergoing treatment after being attacked by miscreants in Gurudaspur.",
         "bullets_bn": [
-          "রাজধানীর বাংলাদেশ মেডিকেল বিশ্ববিদ্যালয়ে চিকিৎসাধীন অবস্থায় ছাত্রদল নেতা শাকিল ইসলাম মারা গেছেন",
-          "নিহতের বাবা রবিউল করিম অজ্ঞাতপরিচয় ৮ থেকে ১০ জনকে আসামি করে গুরুদাসপুর থানায় মামলা করেন",
-          "আ আদালতের নির্দেশে গুরুদাসপুর থানায় দায়ের করা মামলাটি এখন হত্যা মামলায় রূপান্তর করা হবে"
+          "গুরুদাসপুরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+          "দুর্বৃত্তদের হামলার শিকার হয়ে ১২ দিন ধরে হাসপাতালে চিকিৎসাধীন ছিলেন এই ছাত্রদল নেতা।",
+          "এই মৃত্যুর ঘটনায় জড়িতদের বিরুদ্ধে আইনি ব্যবস্থা গ্রহণের প্রক্রিয়া চলছে।"
         ],
         "bullets_en": [
-          "Chhatra Dal leader Shakil Islam passed away while undergoing treatment at Bangladesh Medical University",
-          "Victims father Rabiul Karim filed a case accusing 8 to 10 unidentified individuals at Gurudaspur police station",
-          "Police stated the existing case will be converted into a murder case following court directives"
+          "Paurashava Chhatra Dal member secretary Shakil Islam died while undergoing treatment.",
+          "The student leader had been hospitalized for twelve days following an attack by miscreants.",
+          "Legal procedures are underway against those involved in the murder."
         ],
-        "impact_bn": "রাজনৈতিক সহিংসতা এবং নিরাপত্তা নিয়ে সাধারণ শিক্ষার্থীদের মাঝে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Political violence and security concerns have raised apprehension among local students and residents.",
-        "details_bn": "নাটোরের গুরুদাসপুরে দুর্বৃত্তদের ধারালো অস্ত্রের আঘাতে ছাত্রদল নেতা শাকিল ইসলাম গুরুতর আহত হন। প্রথমে তাঁকে উপজেলা স্বাস্থ্য কমপ্লেক্স এবং পরে রাজশাহী মেডিকেল কলেজ হাসপাতালে পাঠানো হয়। অবস্থার অবনতি হলে তাঁকে ঢাকায় স্থানান্তর করা হয়। ১৯ অক্টোবর তাঁর বাবা অজ্ঞাতপরিচয় ব্যক্তিদের আসামি করে মামলা দায়ের করেন। পুলিশ ঘটনার তদন্ত শুরু করলেও কাউকে গ্রেপ্তার করতে পারেনি।",
-        "details_en": "Chhatra Dal leader Shakil Islam was critically injured by sharp weapons wielded by miscreants in Gurudaspur, Natore. He was initially taken to the upazila health complex and later shifted to Rajshahi Medical College Hospital before being moved to Dhaka due to worsening condition. His father filed a case on October 19 against unidentified persons. Police are investigating the incident and attempting to identify the culprits."
+        "impact_bn": "এই রাজনৈতিক সহিংসতার ঘটনায় স্থানীয় শিক্ষার্থী ও সাধারণ মানুষের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ বেড়েছে।",
+        "impact_en": "This incident of political violence has heightened safety concerns among local students and residents.",
+        "details_bn": "নাটোরের গুরুদাসপুরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের ওপর দুর্বৃত্তরা হামলা চালায়। এই হামলায় তিনি গুরুতর আহত হয়ে দীর্ঘ ১২ দিন হাসপাতালে চিকিৎসাধীন ছিলেন। চিকিৎসাধীন অবস্থায় তার মৃত্যু ঘটে। এই হত্যাকাণ্ডের পর স্থানীয় রাজনৈতিক অঙ্গনে উত্তেজনা বিরাজ করছে এবং দোষীদের দ্রুত গ্রেপ্তারের দাবি উঠেছে।",
+        "details_en": "Paurashava Chhatra Dal member secretary Shakil Islam came under attack by miscreants in Gurudaspur, Natore. He sustained critical injuries and remained hospitalized for twelve days before succumbing to his injuries during treatment. His death has sparked tension in local political circles, with demands for the swift arrest of the perpetrators."
       }
     },
     {
-      "story_id": "fbebf4fd-b66c-53c9-a919-cf57b7b909f9",
+      "story_id": "75ecf655-9178-5ac6-b23b-1300c6144214",
       "primary_category": "society_education",
       "interest_categories": [
         "society_education"
@@ -180,48 +127,103 @@
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2F1ga8eaim%2F6_Hero_ImageDream_Study_Creative.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T04:56:33+00:00",
+      "published_at": "2026-10-27T06:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9301,
+      "rank_score": 0.9637,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/education/higher-education/97bxtnqbpv",
-          "title": "অস্ট্রেলিয়ার ভিসানীতিতে কড়াকড়ি: বাংলাদেশি শিক্ষার্থী ও অভিবাসীদের করণীয় কী",
-          "snippet": "অস্ট্রেলিয়ার ভিসানীতিতে কড়াকড়ি: বাংলাদেশি শিক্ষার্থী ও অভিবাসীদের করণীয় কী"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/columns/976902/%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81-%E0%A6%AC%E0%A6%BE-%E0%A6%86%E0%A6%A6%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A7%9C%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%B6%E0%A7%88%E0%A6%B6%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%C2%A0",
+          "title": "চুমু বা আদরের আড়ালে শৈশবের অস্বস্তি ও ট্রমার গল্প",
+          "snippet": "চুমু বা আদরের আড়ালে শৈশবের অস্বস্তি ও ট্রমার গল্প"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলিয়ার নতুন ভিসানীতি: আন্তর্জাতিক শিক্ষার্থীদের জন্য কঠোর শর্ত জারি",
-        "title_en": "Australia Tightens Visa Policies and Introduces Strict Student Rules",
-        "summary_bn": "অস্ট্রেলিয়া সরকার অভিবাসনব্যবস্থার স্বচ্ছতা ফেরাতে আন্তর্জাতিক শিক্ষার্থী ও অস্থায়ী অভিবাসীদের জন্য ভিসানীতিতে কঠোর সংস্কার এনেছে।",
-        "summary_en": "The Australian government has introduced strict visa policy reforms for international students and temporary migrants to restore system transparency.",
+        "title_bn": "টঙ্গীর মাদ্রাসায় শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষকে চড় মারার ঘটনায় আলোচনা",
+        "title_en": "Teacher Slapped Over Alleged Inappropriate Touching of Student in Tongi Madrasa",
+        "summary_bn": "গাজীপুরের একটি মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষককে চড় মেরেছেন শিশুর বাবা।",
+        "summary_en": "A student's father slapped a madrasa teacher in Gazipur following allegations of inappropriate physical affection toward a six-year-old child.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:56:33+00:00",
-        "lead_bn": "অস্ট্রেলিয়া সরকার অভিবাসনব্যবস্থার স্বচ্ছতা ফেরাতে আন্তর্জাতিক শিক্ষার্থী ও অস্থায়ী অভিবাসীদের জন্য ভিসানীতিতে কঠোর সংস্কার এনেছে।",
-        "lead_en": "The Australian government has introduced strict visa policy reforms for international students and temporary migrants to restore system transparency.",
+        "published_at": "2026-10-27T06:00:00+00:00",
+        "lead_bn": "গাজীপুরের একটি মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগে শিক্ষককে চড় মেরেছেন শিশুর বাবা।",
+        "lead_en": "A student's father slapped a madrasa teacher in Gazipur following allegations of inappropriate physical affection toward a six-year-old child.",
         "bullets_bn": [
-          "অস্ট্রেলিয়া সরকার অভিবাসন ব্যবস্থার বিশ্বাসযোগ্যতা রক্ষা এবং অপব্যবহার রোধ করতে ভিসানীতিতে কঠোর সংস্কার করেছে।",
-          "প্রকৃত শিক্ষার্থী বাছাই করতে ২০২৪ সালের মার্চে জেনুইন স্টুডেন্ট বা প্রকৃত শিক্ষার্থীসংক্রান্ত শর্ত চালুর পাশাপাশি আবেদনপদ্ধতিতে পরিবর্তন আনা হয়েছে।",
-          "এই সংস্কারের ফলে কিছু প্রকৃত শিক্ষার্থী ও অভিবাসী সাময়িক অসুবিধার মুখে পড়লেও দীর্ঘমেয়াদে অভিবাসনব্যবস্থা সুরক্ষিত থাকবে।"
+          "গাজীপুরের টঙ্গীর কারীউল কোরআন ইন্টারন্যাশনাল মাদ্রাসায় ছয় বছরের এক শিক্ষার্থীকে চুমু দেওয়ার অভিযোগ ওঠে।",
+          "ঘটনার প্রতিবাদ জানাতে শিক্ষার্থীর বাবা মাদ্রাসায় গেলে তর্কবিতর্কের একপর্যায়ে শিক্ষককে চড় মারেন।",
+          "সামাজিক যোগাযোগমাধ্যমে ঘটনাটি ছড়িয়ে পড়ার পর স্থানীয়ভাবে ব্যাপক আলোচনা ও সমালোচনার সৃষ্টি হয়।"
         ],
         "bullets_en": [
-          "Australia implemented strict visa reforms to protect the credibility of its immigration system and prevent misuse.",
-          "A genuine student requirement was introduced alongside application process changes to filter applicants.",
-          "While genuine applicants may face temporary difficulties, these steps will ensure long-term system integrity."
+          "A teacher at Qariul Quran International Madrasa in Tongi faced allegations of kissing a six-year-old student.",
+          "The child's father confronted the madrasa authorities and slapped the teacher during a heated argument.",
+          "The incident sparked widespread discussion and debate across social media platforms following the confrontation."
         ],
-        "impact_bn": "অস্ট্রেলিয়ায় উচ্চশিক্ষার জন্য আগ্রহী বাংলাদেশি শিক্ষার্থীরা নতুন কড়াকড়ি ও জটিল বাছাই প্রক্রিয়ার মুখে পড়বেন।",
-        "impact_en": "Bangladeshi students aspiring for higher education in Australia will face stricter scrutiny and complex application processes.",
-        "details_bn": "অস্ট্রেলিয়ার অর্থনীতি ও শ্রমবাজারের চাহিদা মেটাতে অভিবাসন দীর্ঘদিন ধরে গুরুত্বপূর্ণ ভূমিকা পালন করলেও সম্প্রতি দেশটির সরকার অভিবাসন ও ভিসানীতিতে বড় ধরনের সংস্কার এনেছে। এর মূল উদ্দেশ্য আন্তর্জাতিক শিক্ষাব্যবস্থার মান রক্ষা করা এবং শিক্ষার্থী ভিসার অপব্যবহার রোধ করা। ফলস্বরূপ, নতুন নিয়মকানুন এবং জেনুইন স্টুডেন্ট শর্ত চালুর মাধ্যমে অভিবাসন প্রক্রিয়া আরও কঠোর করা হয়েছে।",
-        "details_en": "Migration has long played a vital role in meeting Australia's economic and labor market demands, but the government recently introduced major visa policy reforms. The core objective is to protect the quality of the international education system and prevent misuse of student visas. Consequently, the immigration process has been tightened through new regulations and the implementation of genuine student requirements."
+        "impact_bn": "educational institutions need stricter child safety protocols and transparent grievance mechanisms to protect students and prevent conflicts.",
+        "impact_en": "This incident highlights the urgent need for enhanced student safety protocols and professional conduct guidelines within residential and non-residential educational institutions.",
+        "details_bn": "গাজীপুরের টঙ্গীর কারীউল কোরআন ইন্টারন্যাশনাল মাদ্রাসায় শিশু শিক্ষার্থীদের নিরাপত্তা এবং শিক্ষকদের আচরণ নিয়ে নতুন করে প্রশ্ন উঠেছে। মাদ্রাসার পরিবেশের মধ্যে শিশুদের সুরক্ষার অভাব এবং অভিভাবক ও শিক্ষকদের মধ্যকার আস্থার সংকট এই ঘটনার মাধ্যমে সামনে এসেছে। সামাজিক মাধ্যমে বিষয়টি ভাইরাল হওয়ার পর স্থানীয় সচেতনমহল ও অভিভাবকরা ক্ষোভ প্রকাশ করেছেন এবং এ ধরনের ঘটনার পুনরাবৃত্তি রোধে প্রশাসনিক নজরদারি বাড়ানোর দাবি জানিয়েছেন।",
+        "details_en": "The incident at the Tongi madrasa brings renewed attention to child safety and professional boundaries within educational institutions in Bangladesh. Concerns regarding student protection and the handling of grievances between parents and authorities have sparked public debate. The rapid spread of the altercation on social media platforms underscores the sensitivity surrounding child welfare issues in local religious schools."
+      }
+    },
+    {
+      "story_id": "04bbcffa-7868-52b9-aeba-865c22698d05",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T05:59:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9548,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/976988/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%AA%E0%A6%B0-%E0%A6%AF%E0%A6%BE",
+          "title": "প্রথম স্ত্রীকে সঙ্গে নিয়ে শ্যালিকাকে বিয়ে, এরপর যা ঘটলো মাসুদের সঙ্গে",
+          "snippet": "প্রথম স্ত্রীকে সঙ্গে নিয়ে শ্যালিকাকে বিয়ে, এরপর যা ঘটলো মাসুদের সঙ্গে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করায় নওগাঁর টিকটকারকে এলাকাছাড়া করা হয়",
+        "title_en": "Naogaon TikToker Driven Out of Area After Marrying Sister-in-Law",
+        "summary_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করার জেরে স্থানীয়দের ক্ষোভের মুখে এলাকা ছাড়তে বাধ্য হন নওগাঁর এক টিকটকার।",
+        "summary_en": "A TikToker in Naogaon was forced to leave his area following public outrage over marrying his sister-in-law.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T05:59:08+00:00",
+        "lead_bn": "প্রথম স্ত্রীকে রেখেই শ্যালিকাকে বিয়ে করার জেরে স্থানীয়দের ক্ষোভের মুখে এলাকা ছাড়তে বাধ্য হন নওগাঁর এক টিকটকার।",
+        "lead_en": "A TikToker in Naogaon was forced to leave his area following public outrage over marrying his sister-in-law.",
+        "bullets_bn": [
+          "প্রথম স্ত্রীকে সঙ্গে রেখে শ্যালিকাকে বিয়ে করার ঘটনায় স্থানীয়রা তীব্র ক্ষোভ প্রকাশ করেন।",
+          "মহাদেবপুর উপজেলার মাতাজি বিরামগ্রাম এলাকায় ২৬ অক্টোবর রাত ১০টার দিকে এই ঘটনা ঘটে।",
+          "স্থানীয়দের প্রতিবাদের মুখে ওই টিকটকার ও আইনজীবীর সহকারীকে মুখ চুনকালি মাখিয়ে এলাকা থেকে তাড়িয়ে দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "Local residents expressed strong outrage over the marriage of a TikToker to his sister-in-law while keeping his first wife.",
+          "The incident took place around 10 PM in the Mataji Biramgram area of Mahadebpur upazila.",
+          "Facing severe backlash from locals, the individual was humiliated and driven out of the area."
+        ],
+        "impact_bn": "সামাজিক মূল্যবোধ ও পারিবারিক শৃঙ্খলা রক্ষার ক্ষেত্রে এ ধরনের ঘটনা স্থানীয় পর্যায়ে জনরোষের সৃষ্টি করে।",
+        "impact_en": "Such incidents trigger public outrage at the local level regarding social values and domestic norms.",
+        "details_bn": "নওগাঁর মহাদেবপুর উপজেলার মাতাজি বিরামগ্রাম এলাকায় প্রথম স্ত্রীকে সঙ্গে রেখে নিজের শ্যালিকাকে বিয়ে করেন এক টিকটকার ও আইনজীবীর সহকারী। এই অসামাজিক ও অপ্রত্যাশিত বিয়ের খবর ছড়িয়ে পড়ার পর স্থানীয় সাধারণ মানুষের মধ্যে চরম ক্ষোভের সৃষ্টি হয়। পরবর্তীতে বিক্ষুব্ধ এলাকাবাসী একত্রিত হয়ে তার ওপর চুনকালি মেখে এলাকা থেকে বিতাড়িত করে। সামাজিক যোগাযোগমাধ্যমে এই ঘটনার একটি ভিডিও ছড়িয়ে পড়লে তা ব্যাপক আলোচনার জন্ম দেয়।",
+        "details_en": "A TikToker and lawyer's assistant in Naogaon's Mahadebpur upazila married his sister-in-law while keeping his first wife, sparking intense local outrage. Following the disclosure of the marriage, angry residents gathered and drove him out of the area after smearing soot on his face. The incident subsequently drew widespread public attention after circulating on social media platforms."
       }
     },
     {
@@ -235,14 +237,14 @@
       "region": "international",
       "tags": [
         "#AustralianPolitics",
-        "#AnthonyAlbanese"
+        "#GrantControversy"
       ],
       "image_url": "https://i.guim.co.uk/img/media/6d694f90d6d8936f9363ebbf300c62e64525fbc8/688_257_6558_5247/master/6558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d296e224953ed6fd4be28a4c42707408",
       "image_caption": null,
-      "published_at": "2026-10-27T04:46:35+00:00",
+      "published_at": "2026-10-27T05:46:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.596,
+      "importance_score": 2.12,
+      "rank_score": 0.7392,
       "sources": [
         {
           "name": "The Guardian World",
@@ -252,10 +254,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলীয় সংসদে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে বিরোধী ও সরকারের বিতর্ক",
-        "title_en": "Australian Opposition and Government Clash Over 6 Million Dollar Golf Grant",
-        "summary_bn": "অস্ট্রেলীয় সংসদের বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে রাজনৈতিক বিতর্ক বন্ধ করার আহ্বান জানিয়েছে।",
-        "summary_en": "The Australian opposition has urged Prime Minister Anthony Albanese to stop the spin regarding a six million dollar golf grant.",
+        "title_bn": "অস্ট্রেলীয় সংসদে ৬ মিলিয়ন ডলারের গলফ অনুদান নিয়ে বিরোধী দলের তুমুল বিতর্ক",
+        "title_en": "Australian Opposition Clashes With PM Over 6 Million Dollar Golf Grant",
+        "summary_bn": "অস্ট্রেলিয়ার বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গলফ অনুদান ইস্যুতে সত্য গোপন না করার আহ্বান জানিয়েছে।",
+        "summary_en": "The Australian opposition challenges Prime Minister Anthony Albanese to drop the spin regarding a controversial six million dollar golf grant.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -264,23 +266,23 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:46:35+00:00",
-        "lead_bn": "অস্ট্রেলীয় সংসদের বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে রাজনৈতিক বিতর্ক বন্ধ করার আহ্বান জানিয়েছে।",
-        "lead_en": "The Australian opposition has urged Prime Minister Anthony Albanese to stop the spin regarding a six million dollar golf grant.",
+        "published_at": "2026-10-27T05:46:07+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গলফ অনুদান ইস্যুতে সত্য গোপন না করার আহ্বান জানিয়েছে।",
+        "lead_en": "The Australian opposition challenges Prime Minister Anthony Albanese to drop the spin regarding a controversial six million dollar golf grant.",
         "bullets_bn": [
-          "বিরোধী দলের ব্যবস্থাপক ড্যান তেহান প্রধানমন্ত্রীকে তার ভুল স্বীকার করার আহ্বান জানান",
-          "প্রধানমন্ত্রী আলবেনিজ জানান যে রাজ্য সরকার ক্লাবটির দীর্ঘদিনের সমস্যার সমাধানে এগিয়ে এসেছে",
-          "স্পিকার মিল্টন ডিক বিতর্ক চলাকালে কার্যপ্রণালী বিধি মেনে প্রশ্ন করার নির্দেশ দেন"
+          "বিরোধী দলীয় ব্যবস্থাপক ড্যান তেহান প্রধানমন্ত্রীকে তার ভুল স্বীকার করার দাবি জানান",
+          "প্রধানমন্ত্রী জানান রাজ্য সরকার প্রতিশ্রুতি অনুযায়ী এই দীর্ঘদিনের সমস্যা সমাধানে এগিয়ে এসেছে",
+          "স্পিকার মিল্টন ডিক সংসদীয় প্রশ্নোত্তরে সুনির্দিষ্ট নিয়ম মেনে চলার জন্য বিরোধী নেতাকে সতর্ক করেন"
         ],
         "bullets_en": [
-          "Opposition manager Dan Tehan asked the prime minister to admit he was wrong regarding the grant.",
-          "Prime Minister Anthony Albanese defended the commitment by noting the state government intervened to fix a long-standing issue.",
-          "Speaker Milton Dick intervened to maintain parliamentary procedure during the heated exchange."
+          "Opposition manager Dan Tehan demands the prime minister admit fault over the grant.",
+          "Prime Minister Anthony Albanese defends the commitment aimed at fixing a long-standing issue.",
+          "The speaker intervenes to maintain parliamentary order during the intense question period."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অস্ট্রেলীয় পার্লামেন্টে সরকারি দল ও বিরোধীদের মধ্যে বিভিন্ন সরকারি অনুদান এবং সংসদীয় নিরাপত্তা ইস্যু নিয়ে তীব্র বিতর্ক চলছে। বিরোধী দল ক্ষমতাসীন প্রশাসনের নীতি ও সিদ্ধান্তগুলোর স্বচ্ছতা নিয়ে প্রশ্ন তুলছে, যার জবাবে সরকার তাদের পূর্বের প্রতিশ্রুতি এবং স্থানীয় প্রশাসনের সহযোগিতার কথা তুলে ধরে নিজেদের অবস্থান রক্ষা করছে।",
-        "details_en": "Tensions have escalated in the Australian parliament as the opposition scrutinizes government funding decisions, including a disputed six million dollar golf club grant. The exchange highlights ongoing political friction over government spending accountability and parliamentary conduct between the ruling Labor administration and the Coalition."
+        "impact_bn": "এই রাজনৈতিক বিতর্ক সাধারণ নাগরিকদের সরাসরি প্রভাবিত না করলেও সরকারি তহবিলের স্বচ্ছতা নিয়ে জনমনে আলোচনার সৃষ্টি করেছে।",
+        "impact_en": "The parliamentary clash highlights ongoing public debates regarding political transparency and the allocation of government grants.",
+        "details_bn": "অস্ট্রেলীয় পার্লামেন্টে ৬ মিলিয়ন ডলারের একটি গলফ অনুদানকে কেন্দ্র করে সরকার ও বিরোধী দলের মধ্যে তীব্র বাকবিতণ্ডা শুরু হয়। বিরোধী দলীয় নেতারা এই অনুদানের প্রক্রিয়া নিয়ে প্রশ্ন তুললে প্রধানমন্ত্রী তার সিদ্ধান্তে অটল থেকে জানান যে এটি বহু পুরনো একটি সমস্যার সমাধান করেছে। এই বিতর্ক দেশটির রাজনৈতিক অঙ্গনে সরকারি ব্যয় এবং তহবিল বন্টনের স্বচ্ছতা নিয়ে নতুন আলোচনার জন্ম দিয়েছে।",
+        "details_en": "A fiery exchange erupted in the Australian parliament as the opposition confronted Prime Minister Anthony Albanese over a six million dollar golf grant. The debate underscored tensions regarding government spending and accountability, with the administration defending the intervention as a necessary fix for a longstanding local issue dating back decades."
       }
     },
     {
@@ -294,15 +296,14 @@
       "tags": [
         "#Microsoft",
         "#TechLayoffs",
-        "#ArtificialIntelligence",
-        "#TechNews"
+        "#ArtificialIntelligence"
       ],
       "image_url": "https://th-i.thgim.com/public/sci-tech/technology/2l0iym/article71629639.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39K34A__v1__HighRes__IrelandEuAiSummit.jpg",
       "image_caption": null,
-      "published_at": "2026-10-27T03:00:21+00:00",
+      "published_at": "2026-10-27T05:29:55+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.2795,
+      "rank_score": 0.5115,
       "sources": [
         {
           "name": "The Hindu International",
@@ -312,10 +313,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ বাড়াতে ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে মাইক্রোসফট",
-        "title_en": "Microsoft Offers Voluntary Exit Packages to 60000 Employees to Fund AI Expansion",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে প্রযুক্তি জায়ান্ট মাইক্রোসফট।",
-        "summary_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence expansion.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ বাড়াতে ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে মাইক্রোসফট",
+        "title_en": "Microsoft Offers Voluntary Exit Packages to 60,000 Staff to Fund AI",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে টেক জায়ান্ট মাইক্রোসফট।",
+        "summary_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -323,23 +324,23 @@
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T03:00:21+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে প্রযুক্তি জায়ান্ট মাইক্রোসফট।",
-        "lead_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence expansion.",
+        "published_at": "2026-10-27T05:29:55+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় চাকরি ছাড়ার সুযোগ দিচ্ছে টেক জায়ান্ট মাইক্রোসফট।",
+        "lead_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্র, কানাডা, ভারত ও ব্রিটেনের নির্দিষ্ট দলের ভাইস প্রেসিডেন্ট ও তার নিচের পদের কর্মীরা এই সুবিধার আওতায় থাকবেন।",
-          "মাইক্রোসফটের চিফ পিপলস অফিসার এমি কোলম্যান কর্মীদের পাঠানো এক মেমোতে এই স্বেচ্ছায় পদত্যাগের বিষয়টি নিশ্চিত করেছেন।",
-          "চলতি বছরে এটি মাইক্রোসফটের পক্ষ থেকে দেওয়া দ্বিতীয় স্বেচ্ছায় পদত্যাগের সুযোগ, যা কোম্পানির কর্মী ছাঁটাই নীতির অংশ।"
+          "মার্কিন যুক্তরাষ্ট্র, কানাডা, ভারত ও ব্রিটেনের নির্দিষ্ট টিমের ভাইস প্রেসিডেন্ট ও এর নিচের স্তরের কর্মীরা এই সুযোগের আওতায় রয়েছেন",
+          "মাইক্রোসফটের চিফ পিপল অফিসার অ্যামি কোলম্যান কর্মীদের পাঠানো এক মেমোতে এই স্বেচ্ছাসেবী প্রস্থান অফারের বিষয়টি নিশ্চিত করেছেন",
+          "চলতি বছরে এটি মাইক্রোসফটের দ্বিতীয় স্বেচ্ছাসেবী বাইআউট অফার, যা কর্মীদের কেরিয়ার পরিবর্তনের সুযোগ তৈরি করবে"
         ],
         "bullets_en": [
-          "Staff at the vice president level and below in select teams across the US, Canada, India, and Britain are eligible.",
-          "Chief People Officer Amy Coleman confirmed the voluntary exit offer through an internal memo sent to employees.",
-          "This marks the second voluntary buyout offer extended by Microsoft to its workforce within the current year."
+          "Staff at the vice president level and below in select teams across the United States, Canada, India, and Britain are eligible.",
+          "Chief People Officer Amy Coleman confirmed the buyout offer in an internal memo to employees detailing the workforce evolution.",
+          "This marks the second voluntary buyout offer introduced by Microsoft for its global employees within the current year."
         ],
-        "impact_bn": "প্রযুক্তি খাতে কর্মরত ভারতীয় সাব-কন্টিনেন্টের পেশাজীবীদের ক্যারিয়ার পরিকল্পনা এবং বহুজাতিক প্রতিষ্ঠানে চাকরির স্থিতিশীলতায় এই সিদ্ধান্তের সরাসরি প্রভাব পড়তে পারে।",
-        "impact_en": "This downsizing move directly impacts tech professionals in the region, shifting career trajectories and altering job stability within major multinational corporations.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা বা এআই খাতে নিজেদের অবস্থান সুসংহত করতে এবং পরিচালনা ব্যয় কমাতে বড় ধরনের কাঠামোগত পরিবর্তন আনছে মাইক্রোসফট। এর আগে চলতি বছরের এপ্রিল মাসে মার্কিন যুক্তরাষ্ট্রের প্রায় সাত শতাংশ কর্মীকে আগাম অবসরের সুযোগ দিয়েছিল প্রতিষ্ঠানটি। সে সময় অফার পাওয়া কর্মীদের প্রায় ৩০ শতাংশ স্বেচ্ছায় অবসরের পরিকল্পনা গ্রহণ করেছিলেন। বর্তমান অফারটি বিশ্বব্যাপী তাদের মোট কর্মীবাহিনীর প্রায় এক চতুর্থাংশকে প্রভাবিত করতে পারে।",
-        "details_en": "Microsoft is undergoing a major structural shift to aggressively fund artificial intelligence while cutting operational expenses. Earlier this year in April, the company offered early retirement options to roughly seven percent of its US workforce, with about 30 percent of eligible staff accepting the plan. The current buyout offer encompasses approximately a quarter of the tech giant's global workforce."
+        "impact_bn": "প্রযুক্তিক্ষেত্রে চাকরিপ্রত্যাশী ও কর্মরত পেশাজীবীদের জন্য এটি বড় ধরনের কাঠামোগত পরিবর্তনের ইঙ্গিত দেয়।",
+        "impact_en": "This major workforce restructuring signals evolving employment trends for tech professionals and job seekers in the global software industry.",
+        "details_bn": "মাইক্রোসফট কৃত্রিম বুদ্ধিমত্তা খাতে বড় অঙ্কের বিনিয়োগের পাশাপাশি পরিচালনা ব্যয় কমাতে এই কৌশলগত পদক্ষেপ নিয়েছে। এর আগে চলতি বছরের এপ্রিল মাসে মার্কিন কর্মীদের একাংশকে আগাম অবসরের সুযোগ দিয়েছিল প্রতিষ্ঠানটি, যেখানে প্রায় ৩০ শতাংশ কর্মী সেই অফার গ্রহণ করেছিলেন। ডাটা সেন্টার, সেলস ও মার্কেটিং বিভাগের কিছু কর্মী এই নতুন বাইআউট অফারের বাইরে থাকবেন।",
+        "details_en": "Microsoft introduced this strategic workforce reduction to cut operational costs and redirect capital toward artificial intelligence initiatives. This follows an earlier buyout offer in April targeting a portion of the U.S. workforce, where roughly 30 percent of eligible staff accepted early retirement. Specific groups including data center, sales, and marketing teams remain excluded from the current buyout program."
       }
     }
   ]
