@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-10-27T02:00:48.589851",
+  "updated_at": "2026-10-27T03:00:48.891341",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "726ba353-9a56-5551-a809-1f48a7abdb53",
+      "story_id": "66c7ee9e-e44c-5cb9-b88f-0699abb7e179",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -15,271 +16,216 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T01:31:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.0071,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172344",
-          "title": "প্রধানমন্ত্রীর সঙ্গে জাইকা প্রেসিডেন্টের সৌজন্য সাক্ষাৎ",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাইকা প্রেসিডেন্টের সৌজন্য সাক্ষাৎ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাইকা প্রেসিডেন্টের সাথে প্রধানমন্ত্রীর সৌজন্য সাক্ষাৎ",
-        "title_en": "Prime Minister Meets JICA President to Discuss Cooperation",
-        "summary_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্ট তানাকা আকিহিকো প্রধানমন্ত্রীর সাথে সৌজন্য সাক্ষাৎ করেছেন।",
-        "summary_en": "Japan International Cooperation Agency President Tanaka Akihiko paid a courtesy call on the Prime Minister.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T01:31:07+00:00",
-        "lead_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্ট তানাকা আকিহিকো প্রধানমন্ত্রীর সাথে সৌজন্য সাক্ষাৎ করেছেন।",
-        "lead_en": "Japan International Cooperation Agency President Tanaka Akihiko paid a courtesy call on the Prime Minister.",
-        "bullets_bn": [
-          "বাংলাদেশ ও জাপানের মধ্যকার চলমান উন্নয়নমূলক প্রকল্প নিয়ে আলোচনা হয়েছে।",
-          "জাইকা প্রেসিডেন্ট বাংলাদেশের অবকাঠামো ও অর্থনৈতিক প্রবৃদ্ধিতে দীর্ঘমেয়াদী সহযোগিতার আশ্বাস দিয়েছেন।",
-          "উভয় পক্ষ পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয় নিয়ে আগামীতে যৌথ উদ্যোগ আরও ত্বরান্বিত করার সিদ্ধান্ত নিয়েছে।"
-        ],
-        "bullets_en": [
-          "Discussions focused on ongoing development projects between Bangladesh and Japan.",
-          "The JICA President assured long-term cooperation in Bangladesh infrastructure and economic growth.",
-          "Both sides agreed to accelerate joint initiatives on mutual interests moving forward."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থা বা জাইকা বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। দেশের বড় বড় অবকাঠামো উন্নয়ন, যোগাযোগ ব্যবস্থা এবং অর্থনৈতিক খাতের বিভিন্ন প্রকল্পে সংস্থাটি দীর্ঘদিন ধরে আর্থিক ও কারিগরি সহায়তা প্রদান করে আসছে।",
-        "details_en": "Japan International Cooperation Agency remains one of Bangladesh's primary development partners. The agency has long provided financial and technical support for major infrastructure development, transportation networks, and various economic sector projects across the country."
-      }
-    },
-    {
-      "story_id": "dec33960-bf57-5e71-9b23-65c776130f99",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.964,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976947/%E0%A6%8F%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87",
-          "title": "এ বছর শীতের তীব্রতা কেমন হবে",
-          "snippet": "এ বছর শীতের তীব্রতা কেমন হবে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "এল নিনোর প্রভাবে বিশ্বজুড়ে তাপমাত্রা ও বৃষ্টিপাতের ধরনে পরিবর্তন আসছে",
-        "title_en": "El Nino Strengthens Globally Triggering Shifts in Temperature and Rainfall",
-        "summary_bn": "প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হওয়ায় বিশ্বের বিভিন্ন অঞ্চলে তাপমাত্রা ও বৃষ্টির স্বাভাবিক ধরনে পরিবর্তন আসছে।",
-        "summary_en": "Strengthening El Nino conditions in the Pacific Ocean are altering normal global temperature and rainfall patterns.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T02:00:00+00:00",
-        "lead_bn": "প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হওয়ায় বিশ্বের বিভিন্ন অঞ্চলে তাপমাত্রা ও বৃষ্টির স্বাভাবিক ধরনে পরিবর্তন আসছে।",
-        "lead_en": "Strengthening El Nino conditions in the Pacific Ocean are altering normal global temperature and rainfall patterns.",
-        "bullets_bn": [
-          "বিশ্ব আবহাওয়া সংস্থার পূর্বাভাস অনুযায়ী প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হচ্ছে।",
-          "এটি ২০২৬ সালের শেষ দিকে শক্তিশালী অবস্থায় পৌঁছে ২০২৭ সালের ফেব্রুয়ারি পর্যন্ত সক্রিয় থাকতে পারে।",
-          "এল নিনোর এই সক্রিয়তার ফলে বাংলাদেশের আসন্ন শীতের তীব্রতা ও আবহাওয়ায় প্রভাব পড়ার শঙ্কা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "The World Meteorological Organization reports that El Nino is strengthening in the Pacific Ocean.",
-          "It is projected to peak by late 2026 and remain active through February 2027.",
-          "This phenomenon raises questions regarding the severity and patterns of the upcoming winter in Bangladesh."
-        ],
-        "impact_bn": "শীতের তীব্রতা বাড়লে সাধারণ মানুষ ও ছিন্নমূল জনগোষ্ঠীর দৈনন্দিন জীবনযাত্রা এবং স্বাস্থ্য ঝুঁকিতে পড়তে পারে।",
-        "impact_en": "Increased winter severity can disrupt daily life and pose health risks for ordinary citizens and vulnerable populations.",
-        "details_bn": "এল নিনো হলো প্রশান্ত মহাসাগরের নিরক্ষীয় অঞ্চলে সমুদ্রপৃষ্ঠের তাপমাত্রা বৃদ্ধির একটি স্বাভাবিক জলবায়ুগত ঘটনা। এর প্রভাবে বিশ্বজুড়ে আবহাওয়ার স্বাভাবিক চক্রে ব্যাপক পরিবর্তন দেখা যায়, যার ফলে কোথাও তীব্র খরা, কোথাও ভারী বৃষ্টিপাত কিংবা অস্বাভাবিক শীতের সৃষ্টি হতে পারে। বিশ্ব আবহাওয়া সংস্থার সর্বশেষ পূর্বাভাস অনুযায়ী এই জলবায়ু পরিবর্তনশীলতা আন্তর্জাতিক আবহাওয়া ব্যবস্থায় বড় ধরণের প্রভাব ফেলতে পারে।",
-        "details_en": "El Nino is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. It significantly alters global weather conditions, often triggering severe droughts, heavy rainfall, or abnormal winter temperatures across different regions. Recent forecasts by the World Meteorological Organization highlight its potential to heavily influence worldwide meteorological cycles."
-      }
-    },
-    {
-      "story_id": "b70b0a63-2699-5d8f-821a-866eb98a9b1d",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T02:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.964,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/976918/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A7%9C",
-          "title": "স্কোরারের ভুলে এক রানের হার নিয়ে তোলপাড়",
-          "snippet": "স্কোরারের ভুলে এক রানের হার নিয়ে তোলপাড়"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "স্কোরিং ভুলে এক রানের হারে টুর্নামেন্ট থেকে বিদায় ঝাড়খণ্ডের",
-        "title_en": "Jharkhand Exits Tournament Following One Run Defeat Due to Scoring Error",
-        "summary_bn": "স্কোরবোর্ডের ভুলে এক রানের নাটকীয় পরাজয়ের পর টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড নারী অনূর্ধ্ব ১৯ দল।",
-        "summary_en": "Jharkhand exits the women under nineteen tournament following a dramatic one run defeat caused by a scoring error.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T02:00:00+00:00",
-        "lead_bn": "স্কোরবোর্ডের ভুলে এক রানের নাটকীয় পরাজয়ের পর টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড নারী অনূর্ধ্ব ১৯ দল।",
-        "lead_en": "Jharkhand exits the women under nineteen tournament following a dramatic one run defeat caused by a scoring error.",
-        "bullets_bn": [
-          "স্কোরিং ভুলে এক রানের পরাজয়ের শিকার হয়ে টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড ক্রিকেট অ্যাসোসিয়েশন দল।",
-          "অফিসিয়াল স্কোরে শেষ বলের রান যোগ না হওয়ায় নাগপুরে অনুষ্ঠিত নারী অনূর্ধ্ব ১৯ টুর্নামেন্টে এই বিতর্ক তৈরি হয়।",
-          "ভুল সংশোধন ও ঘটনার প্রতিকার চেয়ে ভারতীয় ক্রিকেট বোর্ডের কাছে আনুষ্ঠানিকভাবে অভিযোগ দায়ের করেছে ঝাড়খণ্ড অ্যাসোসিয়েশন।"
-        ],
-        "bullets_en": [
-          "Jharkhand Cricket Association team exits the tournament after suffering a controversial one run defeat due to scoring error.",
-          "The dispute arose during the women under nineteen tournament in Nagpur after the final ball run was omitted from the official score.",
-          "Jharkhand Association has formally approached the Board of Control for Cricket in India demanding rectification and justice."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ভারতের নাগপুরে অনুষ্ঠিত নারী অনূর্ধ্ব ১৯ টুর্নামেন্টে জয়ের জন্য শেষ বলে দুই রান প্রয়োজন ছিল ঝাড়খণ্ডের। টাই করতে দরকার ছিল এক রান। শেষ বলের পর একটি রান পূর্ণ করে রানআউটের শিকার হন ব্যাটাররা। মাঠের স্কোরবোর্ডে রান যোগ হলেও অফিসিয়াল স্কোরে তা না ওঠায় এক রানের ব্যবধানে হার নিয়ে টুর্নামেন্ট থেকে বিদায় ঘটে দলটির। এই ঘটনায় অসন্তোষ প্রকাশ করে ভারতীয় ক্রিকেট বোর্ডের দ্বারস্থ হয়েছে ঝাড়খণ্ড ক্রিকেট অ্যাসোসিয়েশন।",
-        "details_en": "During the women under nineteen tournament in Nagpur, Jharkhand needed two runs to win and one to draw from the final ball. After completing a run and getting run out on the final delivery, the run was reflected on the field scoreboard but omitted from the official score. This discrepancy led to a one run defeat and tournament elimination, prompting Jharkhand Cricket Association to formally complain to the Board of Control for Cricket in India."
-      }
-    },
-    {
-      "story_id": "14c886c3-150d-5dc6-9ac1-70d0d48fda84",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T00:33:46+00:00",
+      "published_at": "2026-10-27T02:42:51+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 0.958,
+      "rank_score": 1.6221,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172342",
-          "title": "সিরিয়ায় বিমান হামলা চালিয়েছে জর্ডান",
-          "snippet": "সিরিয়ায় বিমান হামলা চালিয়েছে জর্ডান"
+          "url": "https://www.jagonews24.com/international/news/1172355",
+          "title": "ইরানে প্রেসিডেন্ট-পররাষ্ট্রমন্ত্রীর সঙ্গে কট্টরপন্থিদের বিরোধ চরমে",
+          "snippet": "ইরানে প্রেসিডেন্ট-পররাষ্ট্রমন্ত্রীর সঙ্গে কট্টরপন্থিদের বিরোধ চরমে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিরিয়ায় জর্ডানের বিমান হামলায় সাতজন নিহত",
-        "title_en": "Jordanian Airstrikes in Syria Leave Seven Dead",
-        "summary_bn": "জর্ডানে গির্জায় বন্দুকধারীদের হামলার প্রতিশোধ হিসেবে সিরীয় ভূখণ্ডে বিমান হামলা চালিয়েছে জর্ডানের সামরিক বাহিনী।",
-        "summary_en": "The Jordanian military launched airstrikes inside Syrian territory in retaliation for a church gun attack in Jordan.",
+        "title_bn": "ইরানে প্রেসিডেন্ট ও কট্টরপন্থিদের বিরোধ চরমে",
+        "title_en": "Tensions Surge Between Iran President and Hardliners",
+        "summary_bn": "যুক্তরাষ্ট্রের সাথে আলোচনাকে কেন্দ্র করে ইরানের প্রেসিডেন্ট এবং কট্টরপন্থি গোষ্ঠীর মধ্যে তীব্র রাজনৈতিক বিরোধ সৃষ্টি হয়েছে।",
+        "summary_en": "Intense political friction has emerged between Iran president and hardline factions over potential negotiations with the United States.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T02:42:51+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সাথে আলোচনাকে কেন্দ্র করে ইরানের প্রেসিডেন্ট এবং কট্টরপন্থি গোষ্ঠীর মধ্যে তীব্র রাজনৈতিক বিরোধ সৃষ্টি হয়েছে।",
+        "lead_en": "Intense political friction has emerged between Iran president and hardline factions over potential negotiations with the United States.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্রের সঙ্গে যেকোনো ধরনের সমঝোতার কড়া বিরোধিতা করেছে ইরানের কট্টরপন্থি গোষ্ঠী।",
+          "কট্টরপন্থিরা দেশের সামরিক সক্ষমতা বৃদ্ধির উদ্যোগ দ্রুত নেওয়ার ওপর জোর দিয়েছেন।",
+          "এই রাজনৈতিক চাপ প্রেসিডেন্ট পেজেশকিয়ানের সমঝোতামূলক নীতির বাস্তবায়নকে বাধাগ্রস্ত করতে পারে।"
+        ],
+        "bullets_en": [
+          "Hardline factions in Iran strongly opposed engaging in any form of negotiations with the United States.",
+          "Hardliners demanded accelerated efforts to significantly boost the country's military capabilities.",
+          "This escalating friction creates mounting political pressure on President Pezeshkian's push for diplomatic compromise."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইরানের রাজনীতিতে সংস্কারপন্থি প্রেসিডেন্ট মাসুদ পেজেশকিয়ান পশ্চিমা বিশ্বের সাথে উত্তেজনা হ্রাসের পক্ষে অবস্থান নিলেও, দেশটির প্রভাবশালী কট্টরপন্থিরা বরাবরই এর বিরোধিতা করে আসছে। সামরিক সক্ষমতা বৃদ্ধি এবং যুক্তরাষ্ট্রের সাথে কঠোর অবস্থানের পক্ষে থাকা এই গোষ্ঠীটি নতুন সরকারের বৈদেশিক নীতি বাস্তবায়নে বড় ধরনের রাজনৈতিক চ্যালেঞ্জ তৈরি করছে, যা মধ্যপ্রাচ্যের ভূরাজনীতিতে প্রভাব ফেলতে পারে।",
+        "details_en": "Reformist President Masoud Pezeshkian has advocated for easing tensions with the West, but influential hardline factions in Iran have consistently opposed such diplomatic overtures. Pushing for rapid military expansion and a confrontational stance toward Washington, these groups present a major political challenge to the government's foreign policy implementation, potentially impacting wider Middle East geopolitics."
+      }
+    },
+    {
+      "story_id": "b5d63df2-db26-56a1-8119-b52d212b774b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T02:30:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4546,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172353",
+          "title": "আকামার মেয়াদ শেষ হলেও সৌদিতে প্রবেশের সুযোগ পাবেন প্রবাসীরা",
+          "snippet": "আকামার মেয়াদ শেষ হলেও সৌদিতে প্রবেশের সুযোগ পাবেন প্রবাসীরা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আকামার মেয়াদ শেষ হলেও সৌদিতে প্রবেশের সুযোগ পাবেন প্রবাসীরা",
+        "title_en": "Expatriates Can Enter Saudi Arabia Despite Expired Iqama",
+        "summary_bn": "যুদ্ধজনিত ফ্লাইট বিপর্যয়ের কারণে আকামার মেয়াদ শেষ হওয়া সত্ত্বেও প্রবাসীরা সৌদি আরবে প্রবেশের বিশেষ সুযোগ পাবেন।",
+        "summary_en": "Expatriates will receive special entry permission into Saudi Arabia despite expired iqama caused by war-induced flight disruptions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:33:46+00:00",
-        "lead_bn": "জর্ডানে গির্জায় বন্দুকধারীদের হামলার প্রতিশোধ হিসেবে সিরীয় ভূখণ্ডে বিমান হামলা চালিয়েছে জর্ডানের সামরিক বাহিনী।",
-        "lead_en": "The Jordanian military launched airstrikes inside Syrian territory in retaliation for a church gun attack in Jordan.",
+        "published_at": "2026-10-27T02:30:46+00:00",
+        "lead_bn": "যুদ্ধজনিত ফ্লাইট বিপর্যয়ের কারণে আকামার মেয়াদ শেষ হওয়া সত্ত্বেও প্রবাসীরা সৌদি আরবে প্রবেশের বিশেষ সুযোগ পাবেন।",
+        "lead_en": "Expatriates will receive special entry permission into Saudi Arabia despite expired iqama caused by war-induced flight disruptions.",
         "bullets_bn": [
-          "জর্ডানের সামরিক বাহিনী সিরিয়ায় আকস্মিক বিমান হামলা পরিচালনা করে।",
-          "এই হামলায় সিরিয়ায় অন্তত সাতজন নিহত হয়েছেন বলে নিশ্চিত করা হয়েছে।",
-          "জর্ডানের একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার জেরে এই সামরিক পদক্ষেপ নেওয়া হয়।"
+          "যুদ্ধ পরিস্থিতির কারণে ফ্লাইটের সময়সূচি বিপর্যয় এড়াতে সৌদি কর্তৃপক্ষ এই বিশেষ সিদ্ধান্ত বাস্তবায়ন করেছে।",
+          "নির্দিষ্ট সময়ের মধ্যে সৌদি আরবে পৌঁছাতে ব্যর্থ হওয়া প্রবাসীরা এই সুযোগের আওতাভুক্ত হবেন।",
+          "সংশ্লিষ্ট প্রবাসীরা নির্ধারিত প্রক্রিয়া অনুসরণ করে নির্ধারিত সময়ের মধ্যে সৌদিতে প্রবেশ করতে পারবেন।"
         ],
         "bullets_en": [
-          "The Jordanian military conducted sudden airstrikes inside Syria.",
-          "At least seven people were confirmed dead in these airstrikes.",
-          "This military action was taken in response to an armed attack on a church in Jordan."
+          "Saudi authorities implemented this special measure to address flight disruptions caused by conflict situations.",
+          "Expatriates who failed to reach Saudi Arabia within the stipulated timeframe fall under this provision.",
+          "Affected expatriates can enter the country by following designated procedures within the extended period."
         ],
-        "impact_bn": "মধ্যপ্রাচ্যে নতুন করে নিরাপত্তা উত্তেজনা বৃদ্ধি পাওয়ায় প্রবাসী শ্রমিক ও আন্তর্জাতিক বাণিজ্যের ওপর প্রভাব পড়তে পারে।",
-        "impact_en": "Renewed security tensions in the Middle East could impact expatriate workers and regional stability.",
-        "details_bn": "জর্ডানের একটি গির্জায় বন্দুকধারীদের প্রাণঘাতী হামলার ঘটনার পর দুই দেশের সীমান্তবর্তী অঞ্চলে উত্তেজনা তৈরি হয়। এর জেরে জর্ডানের সামরিক বাহিনী সিরিয়ার অভ্যন্তরে এই প্রতিশোধমূলক বিমান হামলা চালায়, যা আঞ্চলিক নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলেছে।",
-        "details_en": "Tensions escalated in the border region following a deadly gun attack on a church in Jordan. In response, the Jordanian military executed these retaliatory airstrikes inside Syria, further complicating the regional security landscape."
+        "impact_bn": "সৌদি প্রবাসী কর্মীরা আকামার মেয়াদ উত্তীর্ণ হওয়ার পরও চাকরি হারানোর ঝুঁকি ছাড়াই কর্মস্থলে ফিরতে পারবেন।",
+        "impact_en": "Saudi expatriate workers can return to their workplaces without the risk of losing employment due to expired residency permits.",
+        "details_bn": "মধ্যপ্রাচ্যের বিভিন্ন সংঘাতে আকাশপথের ফ্লাইট চলাচল বিঘ্নিত হওয়ায় অনেক প্রবাসী নির্ধারিত সময়ে সৌদি আরবে ফিরতে পারেননি। এর ফলে তাদের আকামার মেয়াদ শেষ হয়ে যাওয়ায় আইনি জটিলতা তৈরি হয়েছিল। প্রবাসীদের এই সংকট নিরসনে সৌদি সরকার বিশেষ ছাড় দেওয়ার ঘোষণা দেয়, যা ক্ষতিগ্রস্ত কর্মীদের জন্য স্বস্তিদায়ক হয়েছে।",
+        "details_en": "Flight disruptions across Middle Eastern airspace due to regional conflicts prevented numerous expatriates from returning to Saudi Arabia on schedule. This caused legal complications as their residency permits expired during the transit delays. The Saudi government announced special exemptions to resolve this crisis, bringing relief to affected workers."
       }
     },
     {
-      "story_id": "567e8988-e9b3-5fe6-af23-a9dd6d6c64df",
-      "primary_category": "tech_innovation",
+      "story_id": "c65007eb-897e-5c0c-b72b-7b5a3c93c105",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation"
+        "world_diplomacy",
+        "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#OpenAI",
-        "#AIAssistant",
-        "#TechInnovation"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2Fhkvytu1i%2Fsaudi_law_02.jpg?rect=0%2C350%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
       "published_at": "2026-10-27T02:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6828,
+      "importance_score": 4.8,
+      "rank_score": 1.1419,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-          "snippet": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/rkosffnr41",
+          "title": "সৌদিতে প্রবাসীদের মৃত্যুদণ্ড: ‘ভাষা বোঝেন না, আইনজীবী পান না, লাশও ফেরে না’",
+          "snippet": "সৌদিতে প্রবাসীদের মৃত্যুদণ্ড: ‘ভাষা বোঝেন না, আইনজীবী পান না, লাশও ফেরে না’"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ওপেনএআই নতুন এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে",
-        "title_en": "OpenAI Launches New AI Assistant Named Dots",
-        "summary_bn": "ওপেনএআই ডেভেলপার দিবসে ব্যাকগ্রাউন্ডে সবসময় সচল থাকা নতুন ব্যক্তিগত এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে।",
-        "summary_en": "OpenAI released dots, an always-on personal AI assistant designed to operate in the background.",
+        "title_bn": "সৌদি আরবে বিদেশিদের মৃত্যুদণ্ড কার্যকর বৃদ্ধি পাওয়ায় মানবাধিকার নিয়ে উদ্বেগ",
+        "title_en": "Rising Foreigner Executions in Saudi Arabia Spark Human Rights Concerns",
+        "summary_bn": "সৌদি আরবে উদ্বেগজনক হারে বাড়ছে বিদেশিদের মৃত্যুদণ্ড কার্যকর করার ঘটনা, যার মধ্যে রয়েছে সম্প্রতি দুই বাংলাদেশির সাজাও।",
+        "summary_en": "Saudi Arabia has seen an alarming surge in executions of foreign nationals, including recent cases involving two Bangladeshis.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T02:00:00+00:00",
-        "lead_bn": "ওপেনএআই ডেভেলপার দিবসে ব্যাকগ্রাউন্ডে সবসময় সচল থাকা নতুন ব্যক্তিগত এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে।",
-        "lead_en": "OpenAI released dots, an always-on personal AI assistant designed to operate in the background.",
+        "lead_bn": "সৌদি আরবে উদ্বেগজনক হারে বাড়ছে বিদেশিদের মৃত্যুদণ্ড কার্যকর করার ঘটনা, যার মধ্যে রয়েছে সম্প্রতি দুই বাংলাদেশির সাজাও।",
+        "lead_en": "Saudi Arabia has seen an alarming surge in executions of foreign nationals, including recent cases involving two Bangladeshis.",
         "bullets_bn": [
-          "ওপেনএআই তাদের কোডিং টুল এবং এআই মডেলের কার্যকারিতা একত্রিত করে ডটস নামের অ্যাসিস্ট্যান্ট বাজারে এনেছে।",
-          "প্রো টায়ার বা তার বেশি সাবস্ক্রাইবারদের জন্য প্রতি মাসে ১০০ ডলার মূল্যে এই অ্যাসিস্ট্যান্ট সেবা উপলব্ধ করা হয়েছে।",
-          "ডটস ব্যবহারকারীর ক্যালেন্ডার, ইমেইল এবং কম্পিউটারের বিভিন্ন টুলের সাথে যুক্ত হয়ে স্বয়ংক্রিয়ভাবে কাজ সম্পাদন করতে সাহায্য করবে।"
+          "চলতি বছরের প্রথম ছয় মাসেই সৌদি আরবে ৫৯ জন বিদেশি নাগরিকের মৃত্যুদণ্ড কার্যকর করা হয়েছে।",
+          "অ্যামনেস্টি ইন্টারন্যাশনালের তথ্যমতে ২০১৪ সাল থেকে মাদক অপরাধে মৃত্যুদণ্ড কার্যকর হওয়া ব্যক্তিদের প্রায় ৭৫ শতাংশই বিদেশি।",
+          "বিচার প্রক্রিয়ায় অস্বচ্ছতা, ভাষা না বোঝা এবং আইনজীবীর সহায়তা না পাওয়ার অভিযোগ তুলেছেন মানবাধিকার কর্মীরা।"
         ],
         "bullets_en": [
-          "OpenAI repackaged its coding tools and model functionalities into a persistent AI assistant named dots.",
-          "The assistant is available to Pro tier subscribers and higher, with pricing starting at 100 dollars per month.",
-          "Dots integrates directly with user calendars, emails, and computer tools to automate daily workflow tasks."
+          "Saudi authorities executed 59 foreign nationals during the first six months of the current year.",
+          "Amnesty International reports that foreign nationals account for nearly 75 percent of drug-related executions since 2014.",
+          "Human rights groups have raised concerns over a lack of fair trial rights, legal representation, and language barriers."
         ],
-        "impact_bn": "পেশাজীবী ও ব্যবহারকারীরা দৈনন্দিন রুটিন কাজ এবং প্রম্পট ছাড়াই স্বয়ংক্রিয় ব্যাকগ্রাউন্ড প্রসেসিংয়ের সুবিধা পাবেন।",
-        "impact_en": "Professionals and users gain access to automated background processing without requiring constant manual prompting.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠানগুলো ব্যবহারকারীদের আরও সহজ ও স্বজ্ঞাত অভিজ্ঞতা দিতে এখন পার্সোনাল এআই এজেন্ট তৈরির দিকে মনোযোগ দিচ্ছে। ওপেনএআই তাদের পূর্বের কোডিং টুল ও কোডেক্স অ্যাপের প্রযুক্তিকে পরিমার্জন করে এই নতুন অ্যাসিস্ট্যান্ট তৈরি করেছে। টেকক্রাঞ্চ ডিসরাপ্ট ইভেন্টে কোম্পানিটির এন্টারপ্রাইজ প্রোডাক্ট টিম জানায়, ব্যবহারকারীর কাছে প্রযুক্তিটিকে সহজ ও সাবলীল করে উপস্থাপন করাই তাদের মূল লক্ষ্য।",
-        "details_en": "Tech companies are increasingly focusing on persistent AI agents to provide intuitive user experiences. OpenAI evolved its previous agentic coding tools and Codex technology to build the dots assistant. During TechCrunch Disrupt, enterprise product leads explained that the primary focus was making the technology feel accessible and ubiquitous for everyday users."
+        "impact_bn": "প্রবাসী বাংলাদেশি শ্রমিক ও তাদের পরিবারগুলোর মধ্যে আইনি সুরক্ষা ও নিরাপত্তা নিয়ে গভীর উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Deep concerns have emerged among expatriate Bangladeshi workers and their families regarding legal protections and safety.",
+        "details_bn": "সৌদি আরবে মৃত্যুদণ্ড কার্যকর ও বিচারপ্রক্রিয়ার স্বচ্ছতা নিয়ে বিশ্বজুড়ে নানা প্রশ্ন তৈরি হয়েছে। আন্তর্জাতিক মানবাধিকার সংগঠন অ্যামনেস্টি ইন্টারন্যাশনাল ও ইএসওএইচআরের প্রতিবেদনে উঠে এসেছে যে, মাদকসংক্রান্ত অপরাধে মৃত্যুদণ্ডপ্রাপ্তদের একটি বড় অংশই বিদেশি নাগরিক। বিচার প্রক্রিয়ায় আত্মপক্ষ সমর্থনের সুযোগের সীমাবদ্ধতা এবং মৃত বন্দীদের লাশ পরিবারের কাছে না পৌঁছানোর মতো ঘটনা মানবাধিকার পরিস্থিতিকে আরও জটিল করে তুলেছে।",
+        "details_en": "Questions have grown globally regarding Saudi Arabia's transparency in trial procedures and execution rates. Reports from Amnesty International and ESOHR reveal that foreign nationals make up a major share of those executed for drug-related offenses. Limited opportunities for defense during trials and the failure to return bodies of executed prisoners to their families have further complicated the human rights situation."
+      }
+    },
+    {
+      "story_id": "1be51e98-4b73-584b-abf6-4c7798a362b3",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T03:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9635,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/976715/%E0%A6%85%E0%A6%AB%E0%A6%BF%E0%A6%B8%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%96-%E0%A6%97%E0%A7%8B%E0%A6%AE%E0%A6%A1%E0%A6%BC%E0%A6%BE-%E0%A6%86%E0%A6%9C-%E0%A6%96%E0%A6%BF%E0%A6%9F%E0%A6%96%E0%A6%BF%E0%A6%9F%E0%A7%87-%E0%A6%B8%E0%A6%B9%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8",
+          "title": "অফিসে মুখ গোমড়া? আজ খিটখিটে সহকর্মীদেরই দিন!",
+          "snippet": "অফিসে মুখ গোমড়া? আজ খিটখিটে সহকর্মীদেরই দিন!"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অফিসে খিটখিটে ও মুখ গোমড়া সহকর্মীদের আচরণ মোকাবিলার উপায়",
+        "title_en": "Managing Moody and Grumpy Colleagues in the Workplace",
+        "summary_bn": "অফিসের পরিবেশে খিটখিটে সহকর্মীদের বিরূপ আচরণ ও অবিরাম অভিযোগের মুখোমুখি হওয়া কর্মীদের জন্য মানসিক চাপ তৈরি করে।",
+        "summary_en": "Facing constant complaints and moody behavior from grumpy colleagues creates mental stress in the workplace environment.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T03:00:00+00:00",
+        "lead_bn": "অফিসের পরিবেশে খিটখিটে সহকর্মীদের বিরূপ আচরণ ও অবিরাম অভিযোগের মুখোমুখি হওয়া কর্মীদের জন্য মানসিক চাপ তৈরি করে।",
+        "lead_en": "Facing constant complaints and moody behavior from grumpy colleagues creates mental stress in the workplace environment.",
+        "bullets_bn": [
+          "সহকর্মীদের নেতিবাচক আচরণ এবং মুখ ভার করে থাকার প্রবণতা পেশাগত যোগাযোগে বাধা সৃষ্টি করে।",
+          "চা ঠান্ডা বা এসি বেশি চলার মতো তুচ্ছ বিষয়েও অভিযোগের অন্ত থাকে না।",
+          "এমন পরিস্থিতি সামলাতে পেশাদারিত্ব বজায় রেখে দূরত্ব বজায় রাখাই শ্রেয়।"
+        ],
+        "bullets_en": [
+          "Negative behavior and grumpy tendencies among peers hinder professional communication.",
+          "Complaints persist over trivial issues like cold tea or excessive air conditioning.",
+          "Maintaining professionalism and healthy boundaries is essential to handle such situations."
+        ],
+        "impact_bn": "অফিসে বিষাক্ত পরিবেশ কর্মীদের মানসিক স্বাস্থ্য ও দৈনন্দিন কাজের উৎপাদিকা শক্তি কমিয়ে দেয়।",
+        "impact_en": "Toxic workplace environments reduce the mental well-being and daily productivity of employees.",
+        "details_bn": "আধুনিক কর্মক্ষেত্রে মানসিক চাপ এবং কাজের চাপের কারণে সহকর্মীদের মধ্যে বিভিন্ন ধরনের আচরণগত বৈচিত্র্য দেখা যায়। অনেকেই ছোটখাটো বিষয় নিয়ে অসন্তোষ প্রকাশ করেন, যা সামগ্রিক অফিসের পরিবেশকে প্রভাবিত করে। পেশাগত সম্পর্কের অবনতি রোধ করতে এবং মানসিক শান্তি বজায় রাখতে এই ধরনের সহকর্মীদের সঙ্গে যোগাযোগের ক্ষেত্রে বিশেষ সতর্কতা অবলম্বন করা প্রয়োজন।",
+        "details_en": "Behavioral variations among colleagues often arise in modern workplaces due to stress and workload pressures. Many express dissatisfaction over minor issues, affecting the overall office environment. Maintaining cautious communication with such peers is necessary to prevent professional friction and preserve mental peace."
       }
     },
     {
@@ -292,28 +238,28 @@
       ],
       "region": "international",
       "tags": [
-        "#HumanRights",
-        "#Australia"
+        "#AustralianPolitics",
+        "#ParliamentarySecurity"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/b9705cff3eed76737cf07547b6fec1ae25191049/0_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7665cf9b06e72dc5e20e9d990734c16b",
+      "image_url": "https://i.guim.co.uk/img/media/d4e1840638b64ca3c07b502a3faf5ce40e6545c9/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=520c84ec587e8125fa5fe22dcfc42755",
       "image_caption": null,
-      "published_at": "2026-10-27T01:36:52+00:00",
+      "published_at": "2026-10-27T02:51:08+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.5439,
+      "rank_score": 0.6225,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texting triple-zero trial begins",
-          "snippet": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texti"
+          "title": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed",
+          "snippet": "Australian politics live: Albanese mulls duress alarms for MPs; former ABC news director’s payout revealed"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গর্ভকালীন হাতকড়া নিষিদ্ধ বিল আটকে দেওয়ায় জাতিসংঘের উদ্বেগ",
-        "title_en": "UN Expresses Disappointment as Major Parties Block Childbirth Shackling Bill",
-        "summary_bn": "অস্ট্রেলিয়ার প্রধান রাজনৈতিক দলগুলো গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে দেওয়ায় জাতিসংঘ গভীর হতাশা প্রকাশ করেছে।",
-        "summary_en": "United Nations human rights experts expressed disappointment after major Australian parties blocked bills to ban shackling during childbirth.",
+        "title_bn": "অস্ট্রেলীয় সংসদ সদস্যদের সুরক্ষায় প্যানিক বাটন ও কড়া নিরাপত্তা ব্যবস্থার ঘোষণা",
+        "title_en": "Australian PM Promises Swift Security Upgrade and Duress Alarms for MPs",
+        "summary_bn": "অস্ট্রেলিয়ার প্রধানমন্ত্রী অ্যান্থনি আলবেনিজ রাজনীতিবিদ ও কর্মীদের নিরাপত্তা বাড়াতে দ্রুত সরকারি পদক্ষেপ এবং কার্যালয়গুলোর জন্য জরুরি অ্যালার্ম চালুর ঘোষণা দিয়েছেন।",
+        "summary_en": "Australian Prime Minister Anthony Albanese promised a swift government response to ensure safety for politicians, floating the provision of duress alarms.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -322,23 +268,79 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T01:36:52+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার প্রধান রাজনৈতিক দলগুলো গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে দেওয়ায় জাতিসংঘ গভীর হতাশা প্রকাশ করেছে।",
-        "lead_en": "United Nations human rights experts expressed disappointment after major Australian parties blocked bills to ban shackling during childbirth.",
+        "published_at": "2026-10-27T02:51:08+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার প্রধানমন্ত্রী অ্যান্থনি আলবেনিজ রাজনীতিবিদ ও কর্মীদের নিরাপত্তা বাড়াতে দ্রুত সরকারি পদক্ষেপ এবং কার্যালয়গুলোর জন্য জরুরি অ্যালার্ম চালুর ঘোষণা দিয়েছেন।",
+        "lead_en": "Australian Prime Minister Anthony Albanese promised a swift government response to ensure safety for politicians, floating the provision of duress alarms.",
         "bullets_bn": [
-          "অস্ট্রেলীয় সেনেটে প্রধান দলগুলোর বিরোধিতায় গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে যায়।",
-          "জাতিসংঘের মানবাধিকার পরিষদের বিশেষজ্ঞরা বিল পাসের ব্যর্থতাকে মানবাধিকার সুরক্ষার সুযোগ নষ্ট হওয়া হিসেবে অভিহিত করেছেন।",
-          "কর্তৃপক্ষকে মানবাধিকার সুরক্ষার স্বার্থে এ ধরনের সংস্কারমূলক উদ্যোগ পুনরায় চালু রাখার আহ্বান জানানো হয়েছে।"
+          "রাজনৈতিক কার্যালয়গুলোতে জরুরি নিরাপত্তা নিশ্চিত করতে প্যানিক বাটন বা দু্রেস অ্যালার্ম চালুর বিষয়টি বিবেচনা করছে সরকার।",
+          "রাজনীতিবিদ ও তাদের স্টাফদের ওপর শারীরিক হুমকি এবং হামলা বৃদ্ধির প্রেক্ষাপটে এই নিরাপত্তা পদক্ষেপ গ্রহণের ঘোষণা দেওয়া হয়।",
+          "নিরাপত্তা ঘাটতি দূর করতে এবং সরকারি পোলিং বুথগুলোর সুরক্ষা জোরদার করতে অতিরিক্ত বিনিয়োগ করা হবে।"
         ],
         "bullets_en": [
-          "Independent senator Lidia Thorpe introduced bills in the Senate to ban shackling during childbirth and strip-searching children.",
-          "Major parties Labor and the Coalition blocked the progress of the proposed human rights legislation.",
-          "UN human rights experts urged Australian authorities to continue pursuing necessary legislative reforms."
+          "The Australian government is considering providing duress alarms for political offices to ensure immediate safety.",
+          "The security review follows growing scrutiny on physical threats and abuse directed at politicians and staff members.",
+          "Authorities plan to increase investments in physical security measures around election polling booths and offices."
         ],
-        "impact_bn": "এই নীতির ফলে আদিবাসী নারী ও শিশুরা সরাসরি মানবাধিকার সুরক্ষা ও মর্যাদাপূর্ণ আচরণের অধিকার থেকে বঞ্চিত হচ্ছে।",
-        "impact_en": "Indigenous women and children face continued disproportionate risks to their bodily integrity and dignity due to the blocked legislation.",
-        "details_bn": "স্বাধীন সেনেটর লিডিয়া থর্প অস্ট্রেলীয় পার্লামেন্টে গর্ভকালে নারী বন্দীদের হাতকড়া পরানো এবং শিশুদের তল্লাশি নিষিদ্ধ করার প্রস্তাব উত্থাপন করেছিলেন। প্রধান দলগুলোর বিরোধিতায় বিলটি আটকে যাওয়ার পর জাতিসংঘের মানবাধিকার বিশেষজ্ঞরা গভীর অসন্তোষ প্রকাশ করেন। বিশেষজ্ঞরা উল্লেখ করেন, এই ধরনের কঠোর ব্যবস্থা বিশেষ করে আদিবাসী নারী ও শিশুদের অসামঞ্জস্যপূর্ণভাবে প্রভাবিত করে এবং তাদের মৌলিক মানবাধিকার ক্ষুণ্ন করে।",
-        "details_en": "Independent senator Lidia Thorpe introduced legislation in the Australian Senate aimed at banning the shackling of women during childbirth and the strip-searching of children. The progress of these measures was halted after facing opposition from the major Labor and Coalition parties. UN human rights experts subsequently voiced disappointment, emphasizing that Aboriginal and Torres Strait Islander women and children bear a disproportionate brunt of these practices."
+        "impact_bn": "এই নিরাপত্তা পদক্ষেপ রাজনীতিবিদদের সুরক্ষা দিলেও তা সরাসরি সাধারণ নাগরিকদের দৈনন্দিন জীবনে কোনো বড় পরিবর্তন আনবে না।",
+        "impact_en": "null",
+        "details_bn": "সাম্প্রতিক সময়ে অস্ট্রেলীয় সংসদ সদস্য ও রাজনৈতিক কর্মীদের ওপর শারীরিক হুমকি এবং হামলার ঘটনা তীব্র আকার ধারণ করে। বিশেষ করে হেলেন হেইনেস নামের এক রাজনীতিবিদের ওপর হামলার পর রাজনৈতিক অঙ্গনে নিরাপত্তা নিয়ে উদ্বেগ বহুগুণ বেড়ে যায়। এর পরিপ্রেক্ষিতে লেবার পার্টি নিজেদের বৈঠকে রাজনৈতিক ব্যক্তিত্ব ও নির্বাচনকালীন ভোটকেন্দ্রগুলোর নিরাপত্তা জোরদার করার রূপরেখা নিয়ে আলোচনা করে।",
+        "details_en": "Concerns over the safety of Australian politicians escalated following a physical threat and alleged attack on independent MP Helen Haines. In response, Prime Minister Anthony Albanese addressed the Labor party room, committing to a comprehensive security review and enhanced safety measures for elected officials and electoral staff across the country."
+      }
+    },
+    {
+      "story_id": "567e8988-e9b3-5fe6-af23-a9dd6d6c64df",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#OpenAI",
+        "#AIAssistant",
+        "#TechNews"
+      ],
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "image_caption": null,
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.4044,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "snippet": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ওপেনএআই নতুন এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে",
+        "title_en": "OpenAI Launches New AI Assistant Dots",
+        "summary_bn": "ওপেনএআই তার কোডিং টুলগুলোকে রিপ্যাকেজ করে ডটস নামক একটি সর্বদাই চালু থাকা এআই পার্সোনাল অ্যাসিস্ট্যান্ট বাজারে এনেছে।",
+        "summary_en": "OpenAI has launched dots, an always-on AI personal assistant by repackaging its coding tools into an intuitive entity.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T02:00:00+00:00",
+        "lead_bn": "ওপেনএআই তার কোডিং টুলগুলোকে রিপ্যাকেজ করে ডটস নামক একটি সর্বদাই চালু থাকা এআই পার্সোনাল অ্যাসিস্ট্যান্ট বাজারে এনেছে।",
+        "lead_en": "OpenAI has launched dots, an always-on AI personal assistant by repackaging its coding tools into an intuitive entity.",
+        "bullets_bn": [
+          "ওপেনএআই তাদের কোডিং টুলগুলোর কার্যকারিতা রূপান্তর করে ডটস নামক পার্সোনাল অ্যাসিস্ট্যান্ট বাজারে নিয়ে এসেছে।",
+          "চ্যাটজিপিটি প্রো টিয়ারের সাবস্ক্রাইবারদের জন্য মাসিক ১০০ ডলার বা তার বেশি খরচে এই অ্যাসিস্ট্যান্ট সেবা উপলব্ধ রয়েছে।",
+          "অ্যাসিস্ট্যান্টটি ক্যালেন্ডার, ইমেল এবং কম্পিউটারের সাথে যুক্ত হয়ে ব্যবহারকারীর কাজ স্বয়ংক্রিয়ভাবে সম্পন্ন করতে সাহায্য করবে।"
+        ],
+        "bullets_en": [
+          "OpenAI introduced dots, transforming the functionality of its previous coding tools into a unified personal assistant.",
+          "The assistant is available to ChatGPT Pro tier subscribers with plans starting at one hundred dollars per month.",
+          "The agent integrates with calendars, emails, and computers to help users manage and execute their workflow continuously."
+        ],
+        "impact_bn": "পেশাজীবী ও ব্যবহারকারীরা দৈনন্দিন রুটিন কাজ ও কোডিংয়ের জন্য এই স্বয়ংক্রিয় এআই অ্যাসিস্ট্যান্ট ব্যবহার করতে পারবেন।",
+        "impact_en": "Professionals and users can leverage the automated assistant to streamline workflows and reduce manual prompt effort.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠানগুলো বর্তমানে মানুষের প্রাত্যহিক কাজের সুবিধার্থে সর্বদাই সক্রিয় বা পার্সোনাল এআই এজেন্ট তৈরিতে মনোনিবেশ করেছে। ওপেনএআই ডেভেলপার ডে অনুষ্ঠানে তাদের এন্টারপ্রাইজ প্রোডাক্ট দল এই নতুন এআই পণ্যটির ঘোষণা দেয়। কোডিং টুলগুলোকে আরও সহজলভ্য ও স্বজ্ঞাত করার লক্ষ্যেই এই ডটস প্ল্যাটফর্মটি তৈরি করা হয়েছে, যা মেটা এবং অন্যান্য প্রতিদ্বন্দ্বী প্রতিষ্ঠানের অনুরূপ উদ্যোগের সাথে প্রতিযোগিতা করবে।",
+        "details_en": "Artificial intelligence companies are increasingly focusing on persistent, always-on agents to seamlessly assist users with everyday tasks. OpenAI unveiled dots during a developer conference to make its advanced AI models more accessible and intuitive. The product builds upon the enterprise coding tools previously developed for software engineers, offering a unified conversation interface to compete with rival tech offerings."
       }
     }
   ]
