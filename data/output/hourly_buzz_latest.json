@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-10-27T12:00:47.708999",
+  "updated_at": "2026-10-27T13:00:45.921555",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "5ec701dc-1dcf-5628-a0fd-54a49f70c536",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T12:57:43+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.5843,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/law-and-crime/977096/%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A6%BF-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A6%BE%E0%A6%AE-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+          "title": "রুমি দেশেই আছেন, হাইকোর্টে আগাম জামিনের আবেদন",
+          "snippet": "রুমি দেশেই আছেন, হাইকোর্টে আগাম জামিনের আবেদন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমির হাইকোর্টে আগাম জামিন আবেদন",
+        "title_en": "Shahjalal Rumi Seeks High Court Anticipatory Bail in Child Abuse Case",
+        "summary_bn": "টঙ্গীর মাদ্রাসায় শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমি দেশেই থেকে হাইকোর্টে আগাম জামিনের আবেদন করেছেন।",
+        "summary_en": "Shahjalal Rumi, accused in a child abuse case at a Tongi madrasa, has sought anticipatory bail from the High Court.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T12:57:43+00:00",
+        "lead_bn": "টঙ্গীর মাদ্রাসায় শিশু নির্যাতনের অভিযোগে অভিযুক্ত শাহজালাল রুমি দেশেই থেকে হাইকোর্টে আগাম জামিনের আবেদন করেছেন।",
+        "lead_en": "Shahjalal Rumi, accused in a child abuse case at a Tongi madrasa, has sought anticipatory bail from the High Court.",
+        "bullets_bn": [
+          "শিশু নির্যাতনের ঘটনায় আলোচনায় আসা শাহজালাল রুমি দেশের ভেতরেই অবস্থান করে আইনি পদক্ষেপ নিচ্ছেন।",
+          "রুমির আইনজীবী এইচ. এম. রুহুল আমীন মোল্লা হাইকোর্টে আগাম জামিনের আবেদন করার বিষয়টি নিশ্চিত করেছেন।",
+          "জামিন আবেদনের বিষয়ে পরবর্তী আইনি প্রক্রিয়ার জন্য হাইকোর্টে শুনানি অনুষ্ঠিত হবে।"
+        ],
+        "bullets_en": [
+          "Shahjalal Rumi, who sparked controversy over a child abuse incident, is seeking legal recourse from within the country.",
+          "Rumi's lawyer, H. M. Ruhul Amin Molla, confirmed that an application for anticipatory bail has been filed in the High Court.",
+          "The High Court will hold a hearing regarding the bail application as part of the ongoing legal process."
+        ],
+        "impact_bn": "ঘটনাটি শিশু সুরক্ষা ও আইনি স্বচ্ছতা নিয়ে জনমনে সচেতনতা তৈরি করেছে।",
+        "impact_en": "This incident raises public awareness regarding child protection and legal accountability.",
+        "details_bn": "টঙ্গীর একটি মাদ্রাসায় সাত বছরের শিশুকে যৌন নিপীড়নের অভিযোগ ওঠার পর বিষয়টি দেশজুড়ে আলোচনার সৃষ্টি করে। এই ঘটনায় শিশুটির বাবা শাহজালাল রুমির বিরুদ্ধে মারধর, হত্যাচেষ্টা ও চুরির মামলা দায়ের করা হয়। আত্মগোপনে না থেকে তিনি দেশের ভেতরেই আইনি সহায়তা নেওয়ার সিদ্ধান্ত নেন এবং আইনজীবীর মাধ্যমে হাইকোর্টে আগাম জামিনের আবেদন করেন।",
+        "details_en": "The incident drew nationwide attention following allegations of sexual abuse against a seven-year-old child at a Tongi madrasa. A case involving assault, attempted murder, and theft was subsequently filed against the child's father, Shahjalal Rumi. Instead of going into hiding, Rumi decided to seek legal assistance within the country and filed for anticipatory bail in the High Court through his legal counsel."
+      }
+    },
     {
       "story_id": "4de15e0c-4973-5281-a028-47de78bcc291",
       "primary_category": "world_diplomacy",
@@ -21,7 +76,7 @@
       "published_at": "2026-10-27T11:03:38+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 2.1987,
+      "rank_score": 1.5048,
       "sources": [
         {
           "name": "Channel i",
@@ -33,8 +88,8 @@
       "daily_buzz": {
         "title_bn": "বাণিজ্য ও বিনিয়োগ বাড়াতে বাংলাদেশ ও জাপানের প্রধানমন্ত্রীর দ্বিপক্ষীয় বৈঠক",
         "title_en": "Bangladesh and Japan Prime Ministers Hold Bilateral Meeting to Boost Trade",
-        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে এক বৈঠকে বাণিজ্য, অবকাঠামো উন্নয়ন ও বৈদেশিক বিনিয়োগ বাড়ানোর যৌথ প্রতিশ্রুতি ব্যক্ত করেছেন।",
-        "summary_en": "The top leaders of Bangladesh and Japan expressed a joint commitment to boost trade, infrastructure development, and foreign investment in Tokyo.",
+        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে যৌথ অংশীদারত্ব জোরদার করার প্রতিশ্রুতি দিয়েছেন।",
+        "summary_en": "The prime ministers of Bangladesh and Japan pledged to strengthen bilateral partnership in trade, infrastructure, and foreign investment during a meeting in Tokyo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -45,22 +100,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T11:03:38+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে এক বৈঠকে বাণিজ্য, অবকাঠামো উন্নয়ন ও বৈদেশিক বিনিয়োগ বাড়ানোর যৌথ প্রতিশ্রুতি ব্যক্ত করেছেন।",
-        "lead_en": "The top leaders of Bangladesh and Japan expressed a joint commitment to boost trade, infrastructure development, and foreign investment in Tokyo.",
+        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে যৌথ অংশীদারত্ব জোরদার করার প্রতিশ্রুতি দিয়েছেন।",
+        "lead_en": "The prime ministers of Bangladesh and Japan pledged to strengthen bilateral partnership in trade, infrastructure, and foreign investment during a meeting in Tokyo.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের প্রধানমন্ত্রীরা টোকিওতে দ্বিপক্ষীয় সম্পর্ক জোরদার করার বিষয়ে একটি উচ্চপর্যায়ের বৈঠক করেছেন।",
-          "বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি, মহাকাশ গবেষণা এবং গভীর সমুদ্র বন্দর খাতে সহযোগিতা বাড়ানোর ওপর জোর দেওয়া হয়।",
-          "দুই দেশের মধ্যে অর্থনৈতিক অংশীদারত্ব বাড়াতে নির্দিষ্ট কিছু নতুন সমঝোতা স্মারক সই হয়েছে।"
+          "বাংলাদেশ ও জাপান বাণিজ্য, অবকাঠামো, গভীর সমুদ্র বন্দর এবং বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব বাড়ানোর প্রতিশ্রুতি দিয়েছে।",
+          "টোকিওতে অনুষ্ঠিত বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি, মহাকাশ গবেষণা এবং আঞ্চলিক বিভিন্ন বিষয়ে সহযোগিতা বাড়ানোর ওপর জোর দেওয়া হয়।",
+          "বৈঠক শেষে দুই দেশের মধ্যে পারস্পরিক সহযোগিতা বাড়াতে বেশ কিছু যৌথ সমঝোতা স্মারক স্বাক্ষরিত হয়েছে।"
         ],
         "bullets_en": [
-          "The prime ministers of Bangladesh and Japan held a high-level meeting in Tokyo to strengthen bilateral ties.",
-          "Discussions emphasized enhancing cooperation in energy security, technology, space research, and deep-sea ports.",
-          "Several new memorandums of understanding were signed to expand economic partnership between the two nations."
+          "Bangladesh and Japan committed to strengthening cooperation in trade, infrastructure, deep seaport development, and foreign investment.",
+          "The Tokyo meeting emphasized enhancing collaboration in energy security, technology, space research, and regional issues.",
+          "Several joint memorandums of understanding were signed between the two nations following the bilateral discussions."
         ],
-        "impact_bn": "দ্বিপক্ষীয় বাণিজ্য ও প্রযুক্তি খাতে বিনিয়োগ বাড়লে দেশে নতুন কর্মসংস্থান এবং অর্থনৈতিক প্রবৃদ্ধির সুযোগ তৈরি হবে।",
-        "impact_en": "Increased bilateral trade and investment in technology will create new employment and economic growth opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। বাণিজ্য সম্প্রসারণ, জাপানি বিনিয়োগ আকর্ষণ এবং আঞ্চলিক নিরাপত্তা ও প্রযুক্তিগত উন্নয়নে দুই দেশ দীর্ঘদিন ধরে যৌথভাবে কাজ করে আসছে। টোকিওতে অনুষ্ঠিত এই সাম্প্রতিক বৈঠক সেই দ্বিপক্ষীয় অংশীদারত্বকে আরও এক ধাপ এগিয়ে নেওয়ার অংশ।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic relationship. Both countries have collaborated extensively on trade expansion, attracting Japanese investment, and advancing regional security and technology. This recent meeting in Tokyo represents a continuation of deepening that bilateral partnership."
+        "impact_bn": "এই দ্বিপক্ষীয় অংশীদারত্ব সম্প্রসারিত হলে প্রযুক্তিগত উন্নয়ন, জ্বালানি খাতের অগ্রগতি এবং নতুন কর্মসংস্থান সৃষ্টির মাধ্যমে সাধারণ মানুষ উপকৃত হবে।",
+        "impact_en": "Expanded bilateral partnership will benefit citizens through technological advancement, energy sector progress, and new employment opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার এবং বিভিন্ন বড় অবকাঠামো প্রকল্পে দেশটির উল্লেখযোগ্য বিনিয়োগ রয়েছে। টোকিওতে অনুষ্ঠিত এই শীর্ষ বৈঠক দুই দেশের অর্থনৈতিক সহযোগিতা এবং অংশীদারত্বকে একটি নতুন স্তরে উন্নীত করবে বলে আশা করা হচ্ছে।",
+        "details_en": "Bangladesh and Japan share long-standing friendly diplomatic and economic ties. Japan is one of Bangladesh's major development partners with significant investments in key infrastructure projects. This high-level meeting in Tokyo is expected to elevate bilateral economic cooperation and strategic partnership to a new level."
       }
     },
     {
@@ -79,7 +134,7 @@
       "published_at": "2026-10-27T11:34:26+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.066,
+      "rank_score": 1.3219,
       "sources": [
         {
           "name": "প্রথম আলো রাজনীতি",
@@ -89,10 +144,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "তত্ত্বাবধায়ক সরকার গঠনে প্রধান উপদেষ্টা নিয়োগের পদ্ধতি নিয়ে রাজনৈতিক অস্পষ্টতা অব্যাহত",
-        "title_en": "Political ambiguity persists over chief adviser appointment method for caretaker govt",
-        "summary_bn": "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার বিষয়ে ঐকমত্য থাকলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট প্রক্রিয়া নিয়ে এখনো রাজনৈতিক অস্পষ্টতা কাটেনি।",
-        "summary_en": "Political ambiguity remains over the exact selection process of the chief adviser despite consensus on restoring a caretaker government.",
+        "title_bn": "তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা নিয়োগ প্রক্রিয়া নিয়ে রাজনৈতিক অনিশ্চয়তা কাটেনি",
+        "title_en": "Uncertainty persists over the appointment process of the caretaker government chief advisor",
+        "summary_bn": "অন্তর্বর্তী সরকারের অধীনে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রতিষ্ঠার নীতিগত ঐকমত্য হলেও প্রধান উপদেষ্টা নিয়োগের পদ্ধতি এখনও স্পষ্ট নয়।",
+        "summary_en": "Despite consensus on establishing a caretaker government, the appointment process for its chief advisor remains unclear.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -100,269 +155,206 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T11:34:26+00:00",
-        "lead_bn": "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার বিষয়ে ঐকমত্য থাকলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট প্রক্রিয়া নিয়ে এখনো রাজনৈতিক অস্পষ্টতা কাটেনি।",
-        "lead_en": "Political ambiguity remains over the exact selection process of the chief adviser despite consensus on restoring a caretaker government.",
+        "lead_bn": "অন্তর্বর্তী সরকারের অধীনে নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রতিষ্ঠার নীতিগত ঐকমত্য হলেও প্রধান উপদেষ্টা নিয়োগের পদ্ধতি এখনও স্পষ্ট নয়।",
+        "lead_en": "Despite consensus on establishing a caretaker government, the appointment process for its chief advisor remains unclear.",
         "bullets_bn": [
-          "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার নীতিগত বিষয়ে রাজনৈতিক দলগুলোর মধ্যে ঐকমত্য প্রতিষ্ঠিত হয়েছে",
-          "সংসদীয় বাছাই কমিটির মাধ্যমে প্রধান উপদেষ্টা নির্বাচনের প্রস্তাব জুলাই সনদে অন্তর্ভুক্ত থাকলেও বাছাই প্রক্রিয়া নিয়ে মতভিন্নতা রয়েছে",
-          "সংবিধান সংশোধন–সম্পর্কিত বিশেষ কমিটি অংশীজনদের কাছ থেকে প্রস্তাব আহ্বান করে নতুন রূপরেখা তৈরির কাজ চালিয়ে যাচ্ছে"
+          "সংবিধান সংশোধন–সম্পর্কিত বিশেষ কমিটি তত্ত্বাবধায়ক সরকারের রূপরেখা চূড়ান্ত করতে অংশীজনদের কাছ থেকে প্রস্তাব আহ্বান করেছে।",
+          "সংসদীয় বাছাই কমিটির মাধ্যমে প্রধান উপদেষ্টা নির্বাচনের প্রস্তাবে জুলাই সনদে ঐকমত্য থাকলেও প্রক্রিয়া নিয়ে মতভিন্নতা রয়েছে।",
+          "নির্বাচনকালীন সরকারব্যবস্থা নিয়ে রাজনৈতিক বিরোধের স্থায়ী সমাধান না হলে আগামীতে নতুন রাজনৈতিক সংকট তৈরির আশঙ্কা রয়েছে।"
         ],
         "bullets_en": [
-          "Political parties have reached a consensus in principle regarding the reinstatement of an interim caretaker government system.",
-          "Although the July Charter includes a proposal for a parliamentary selection committee, differences remain over the screening process.",
-          "The special committee on constitutional reform is currently gathering proposals from stakeholders to finalize the new framework."
+          "The special committee on constitutional reform has invited stakeholder proposals to finalize the caretaker government framework.",
+          "While the July charter agreed on a parliamentary selection committee, differences remain over the exact appointment process.",
+          "Failure to resolve disputes over the interim government risks triggering fresh political crises in the future."
         ],
-        "impact_bn": "নির্বাচনকালীন সরকার ব্যবস্থার রূপরেখা চূড়ান্ত না হওয়ায় দীর্ঘমেয়াদি রাজনৈতিক অনিশ্চয়তা সাধারণ নাগরিকদের ভোটাধিকার প্রয়োগের প্রক্রিয়াকে প্রভাবিত করতে পারে।",
-        "impact_en": "Failure to finalize the caretaker government framework risks creating political uncertainty that affects the voting rights of ordinary citizens.",
-        "details_bn": "সালে তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রবর্তিত হওয়ার পর ১৯৯৬ সালে তা সংবিধানে অন্তর্ভুক্ত হয় এবং ২০১১ সালে পঞ্চদশ সংশোধনীর মাধ্যমে বাতিল করা হয়। বর্তমান অন্তর্বর্তী সরকার সংবিধান সংশোধনের মাধ্যমে এই ব্যবস্থা পুনঃপ্রতিষ্ঠার উদ্যোগ নিয়েছে। তবে প্রধান উপদেষ্টা নিয়োগের প্রক্রিয়া ও সংসদীয় বাছাই কমিটি নিয়ে দলগুলোর মধ্যে মতপার্থক্য থাকায় সংবিধান সংশোধন কমিটি অংশীজনদের প্রস্তাব নিয়ে কাজ করছে।",
-        "details_en": "The caretaker government system was introduced in 1991, incorporated into the constitution in 1996, and abolished in 2011 through the 15th amendment. The current interim government has initiated moves to restore this system via constitutional reform. However, due to differences among parties over the chief adviser appointment process and parliamentary selection committee, the constitutional reform committee is actively reviewing stakeholder proposals."
+        "impact_bn": "অনিশ্চিত নির্বাচনকালীন ব্যবস্থার কারণে রাজনৈতিক স্থিতিশীলতা ও সাধারণ মানুষের ভোটাধিকার নিয়ে উদ্বেগ বজায় রয়েছে।",
+        "impact_en": "Uncertainty over the interim system keeps public concerns alive regarding political stability and voting rights.",
+        "details_bn": "বাংলাদেশে নির্বাচনকালীন সরকারব্যবস্থা নিয়ে রাজনৈতিক বিরোধ দীর্ঘদিনের। ১৯৯৬ সালে নির্দলীয় তত্ত্বাবধায়ক ব্যবস্থা সংবিধানে অন্তর্ভুক্ত হলেও ২০১১ সালে পঞ্চদশ সংশোধনীর মাধ্যমে তা বাতিল করা হয়। বর্তমান অন্তর্বর্তী সরকার এ ব্যবস্থা পুনঃপ্রতিষ্ঠার পক্ষে অবস্থান নিলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট পদ্ধতি ও বাছাই প্রক্রিয়া নিয়ে রাজনৈতিক দলগুলোর মধ্যে এখনো পূর্ণ ঐকমত্য হয়নি। বিরোধী দলগুলো সংবিধান সংশোধন প্রক্রিয়ার বাইরে থাকায় রাজনৈতিক সমঝোতার প্রচেষ্টা জটিল হয়ে পড়েছে।",
+        "details_en": "Bangladesh has a long history of political disputes over the interim election-time government system. Introduced in 1996, the caretaker system was abolished through the fifteenth amendment in 2011. While the current administration supports its restoration, a complete consensus among political parties on the exact appointment mechanism and selection process for the chief advisor is yet to be reached."
       }
     },
     {
-      "story_id": "fd027a64-5e09-5b6c-be7d-25021514e948",
-      "primary_category": "society_education",
+      "story_id": "2e05a3b4-ea72-5edb-a6f5-3440cbcdd501",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "tech_innovation",
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F0g2f1akl%2FRangpurDH057620261027IMG-20261026-WA0040.jpg?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-27T11:21:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3464,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/n7p2qnmgod",
-          "title": "রংপুরে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা-ভাঙচুর, পৃথক মামলায় দুজন গ্রেপ্তার",
-          "snippet": "রংপুরে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা-ভাঙচুর, পৃথক মামলায় দুজন গ্রেপ্তার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের বাড়িতে হামলা ও ভাঙচুর, গ্রেপ্তার দুই",
-        "title_en": "Hindu Homes Attacked and Vandalized in Rangpur, Two Arrested",
-        "summary_bn": "ফেসবুকে ধর্ম অবমাননার অভিযোগকে কেন্দ্র করে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা ও ভাঙচুরের ঘটনায় পুলিশ দুজনকে গ্রেপ্তার করেছে।",
-        "summary_en": "Police arrested two individuals following attacks and vandalism on three Hindu homes in Rangpur over alleged religious defamation on Facebook.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:21:31+00:00",
-        "lead_bn": "ফেসবুকে ধর্ম অবমাননার অভিযোগকে কেন্দ্র করে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা ও ভাঙচুরের ঘটনায় পুলিশ দুজনকে গ্রেপ্তার করেছে।",
-        "lead_en": "Police arrested two individuals following attacks and vandalism on three Hindu homes in Rangpur over alleged religious defamation on Facebook.",
-        "bullets_bn": [
-          "ফেসবুকে ধর্ম অবমাননার ভিডিও ছড়ানোর অভিযোগে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা, ভাঙচুর ও লুটপাট চালানো হয়।",
-          "এ ঘটনায় ভুক্তভোগী ও স্থানীয় বাদী হয়ে পীরগঞ্জ থানায় দুটি পৃথক মামলা করেন যেখানে আটজনের নাম উল্লেখ করা হয়।",
-          "পুলিশ অভিযান চালিয়ে শফিকুল ইসলাম ও অপর এক যুবককে গ্রেপ্তার করে আদালতে সোপর্দ করেছে এবং বর্তমানে পরিস্থিতি স্বাভাবিক রয়েছে।"
-        ],
-        "bullets_en": [
-          "Three Hindu homes were attacked, vandalized, and looted in Pirganj upazila of Rangpur following allegations of posting a blasphemous video on Facebook.",
-          "Two separate cases were filed at the Pirganj police station naming eight suspects in connection with the attacks and the alleged defamation.",
-          "Police arrested two suspects in separate raids and produced them before the court, ensuring the local law and order situation remains stable."
-        ],
-        "impact_bn": "এই ধরনের সাম্প্রদায়িক হামলা ধর্মীয় সংখ্যালঘু সম্প্রদায়ের নিরাপত্তা ও সামাজিক সম্প্রীতির ওপর নেতিবাচক প্রভাব ফেলে।",
-        "impact_en": "Such communal attacks negatively impact the security and social harmony of religious minority communities.",
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক ভিডিও প্রচারের জেরে রংপুরের পীরগঞ্জে উত্তেজনা ছড়িয়ে পড়ে। এর জেরে একদল লোক একটি গ্রামের হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা চালিয়ে আসবাবপত্র ভাঙচুর ও লুটপাট করে। ঘটনার পর ভুক্তভোগী পরিবার এবং স্থানীয় এক ব্যক্তি বাদী হয়ে দুটি পৃথক মামলা দায়ের করেন। পুলিশ ও গোয়েন্দা দল অভিযান চালিয়ে দুই মামলায় দুজনকে গ্রেপ্তার করে আদালতে পাঠিয়েছে। প্রশাসনের ঊর্ধ্বতন কর্মকর্তারা ঘটনাস্থল পরিদর্শন করে পরিস্থিতি শান্ত করার ও আইনি ব্যবস্থা নেওয়ার আশ্বাস দিয়েছেন।",
-        "details_en": "Tension flared in Pirganj upazila of Rangpur following the circulation of a video containing alleged religious defamation on social media. A group of people subsequently attacked three Hindu households, vandalizing furniture and looting valuables. Following the incident, victims and local residents filed two separate cases with the police station. Law enforcement agencies conducted raids and arrested two suspects, forwarding them to court. Local administration officials visited the scene to assure proper legal action and maintain public order."
-      }
-    },
-    {
-      "story_id": "bf701d3d-b947-57d7-96fa-d260041fcbdd",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Technology",
+        "#Innovation"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T11:59:24+00:00",
+      "published_at": "2026-10-27T12:13:21+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9576,
+      "importance_score": 3.6,
+      "rank_score": 0.9456,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/other-politics/977079/%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
-          "title": "সিপিবির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করার ঘটনায় গণসংহতি আন্দোলনের নিন্দা",
-          "snippet": "সিপিবির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করার ঘটনায় গণসংহতি আন্দোলনের নিন্দা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সিপিবি কার্যালয় অবরুদ্ধ ও হামলার ঘটনায় গণসংহতি আন্দোলনের তীব্র নিন্দা",
-        "title_en": "Gon সংহতি Andolon Condemns Attack and Blockade of CPB Central Office",
-        "summary_bn": "গণসংহতি আন্দোলন রাজধানীর পল্টনে সিপিবি কার্যালয় অবরুদ্ধ ও হামলার তীব্র নিন্দা জানিয়ে রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছে।",
-        "summary_en": "Gon সংহতি Andolon strongly condemned the blockade and attack on the CPB office in Paltan, demanding security for all political offices.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:59:24+00:00",
-        "lead_bn": "গণসংহতি আন্দোলন রাজধানীর পল্টনে সিপিবি কার্যালয় অবরুদ্ধ ও হামলার তীব্র নিন্দা জানিয়ে রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছে।",
-        "lead_en": "Gon সংহতি Andolon strongly condemned the blockade and attack on the CPB office in Paltan, demanding security for all political offices.",
-        "bullets_bn": [
-          "সিপিবি কেন্দ্রীয় কার্যালয় অবরুদ্ধ করা এবং দলটির নেতা-কর্মীদের ওপর হামলার তীব্র নিন্দা জানিয়েছে গণসংহতি আন্দোলন।",
-          "দলের ভারপ্রাপ্ত প্রধান সমন্বয়কারী দেওয়ান আবদুর রশিদ নীলু ও নির্বাহী সমন্বয়কারী আবুল হাসান রুবেল যৌথ বিবৃতিতে এই নিন্দা জানান।",
-          "সব রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার জন্য অবিলম্বে কার্যকর পদক্ষেপ নেওয়ার দাবি জানিয়েছে দলটি।"
-        ],
-        "bullets_en": [
-          "Gon সংহতি Andolon strongly condemned the blockade of the CPB central office and the assault on its party members.",
-          "Acting Chief Coordinator Dewan Abdur Rashid Nilu and Executive Coordinator Abul Hasan Rubel issued a joint statement.",
-          "The party demanded immediate and effective measures to ensure security for all political offices across the country."
-        ],
-        "impact_bn": "রাজনৈতিক সহিংসতা বন্ধ হলে সাধারণ নাগরিকদের নিরাপত্তা ও গণতান্ত্রিক পরিবেশ বজায় থাকে।",
-        "impact_en": "Ensuring political office security helps maintain public safety and a stable democratic environment for citizens.",
-        "details_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করা এবং নেতা-কর্মীদের ওপর হামলার ঘটনা ঘটে। এই ঘটনার পর দেশের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠন তীব্র প্রতিক্রিয়া জানিয়েছে। রাজনৈতিক দলগুলোর কার্যক্রম পরিচালনার জন্য নিরাপদ পরিবেশ এবং বাকস্বাধীনতা বজায় রাখার দাবি জোরালো হচ্ছে।",
-        "details_en": "Tensions arose following the blockade of the Communist Party of Bangladesh central office and attacks on its leaders in Paltan. The incident drew sharp reactions from various political and social platforms, amplifying demands for safe environments and freedom of political operations."
-      }
-    },
-    {
-      "story_id": "9623508b-f043-52ff-84e0-db4f628454dc",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraelElection",
-        "#Netanyahu",
-        "#MiddleEast"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=af84b5e1e617ea767e64aafb723fd840",
-      "image_caption": null,
-      "published_at": "2026-10-27T11:54:40+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.805,
-      "sources": [
+          "url": "https://www.banglatribune.com/foreign/asia/977087/%E0%A6%9A%E0%A7%80%E0%A6%A8%E0%A7%87-%E0%A6%A7%E0%A6%B8%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2%E2%80%99-%E0%A6%9A%E0%A6%BE%E0%A6%AA%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%81%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0",
+          "title": "চীনে ধসে পড়ছে ‘এআই বাবল’, চাপে পুঁজিবাজার",
+          "snippet": "চীনে ধসে পড়ছে ‘এআই বাবল’, চাপে পুঁজিবাজার"
+        },
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-          "title": "Israel election live: polls open in most consequential vote in country’s history",
-          "snippet": "Israel election live: polls open in most consequential vote in country’s history"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-bangladesh-travel-and-tourism-fair-2026-is-set-to-be-held-under-the-theme-ai-powered-tourism-sustainable-destinations/",
+          "title": "আন্তর্জাতিক পর্যটন মেলা শুরু ২৯ অক্টোবর, থাকবে ২০টির বেশি দেশ",
+          "snippet": "আন্তর্জাতিক পর্যটন মেলা শুরু ২৯ অক্টোবর, থাকবে ২০টির বেশি দেশ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলে সাধারণ নির্বাচনের ভোটগ্রহণ শুরু, সংকটে নেতানিয়াহুর রাজনৈতিক ভবিষ্যৎ",
-        "title_en": "Polls Open in Israel General Election Amid Political Uncertainty for Netanyahu",
-        "summary_bn": "সালের সংঘাতের পর ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনের ভোটগ্রহণ শুরু হয়েছে, যা প্রধানমন্ত্রী নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণ করবে।",
-        "summary_en": "Polling has opened in Israel for a consequential general election following the 2023 conflict, determining Prime Minister Netanyahu's political future.",
+        "title_bn": "চীনে এআই খাতের শেয়ারবাজারে ধস, চার মাসে হারিয়েছে ৪৮ হাজার কোটি ডলার",
+        "title_en": "China AI Market Crash Wipes Out 480 Billion Dollars in Four Months",
+        "summary_bn": "চীনে কৃত্রিম বুদ্ধিমত্তা খাতের চাহিদা নিয়ে সংশয় এবং কঠোর রফতানি বিধিনিষেধের কারণে বাজারমূল্য ব্যাপকভাবে হ্রাস পেয়েছে।",
+        "summary_en": "Chinas artificial intelligence market suffers a massive crash due to weakening demand and export restrictions.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
+          "tech_innovation",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:54:40+00:00",
-        "lead_bn": "সালের সংঘাতের পর ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনের ভোটগ্রহণ শুরু হয়েছে, যা প্রধানমন্ত্রী নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণ করবে।",
-        "lead_en": "Polling has opened in Israel for a consequential general election following the 2023 conflict, determining Prime Minister Netanyahu's political future.",
+        "published_at": "2026-10-27T12:13:21+00:00",
+        "lead_bn": "চীনে কৃত্রিম বুদ্ধিমত্তা খাতের চাহিদা নিয়ে সংশয় এবং কঠোর রফতানি বিধিনিষেধের কারণে বাজারমূল্য ব্যাপকভাবে হ্রাস পেয়েছে।",
+        "lead_en": "Chinas artificial intelligence market suffers a massive crash due to weakening demand and export restrictions.",
         "bullets_bn": [
-          "ইসরায়েলে প্রথম জাতীয় নির্বাচন শুরু হয়েছে যা গাজা সংঘাত এবং আঞ্চলিক যুদ্ধের পটভূমিতে অনুষ্ঠিত হচ্ছে।",
-          "জরিপ অনুযায়ী নেতানিয়াহুর জোট এবং বিরোধী দল উভয়ই কেনেসেটে একক সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থ হতে পারে।",
-          "নির্বাচনের ফলাফল ইসরায়েলের অভ্যন্তরীণ রাজনীতি এবং মধ্যপ্রাচ্যের ভূরাজনৈতিক স্থিতিশীলতাকে গভীরভাবে প্রভাবিত করবে।"
+          "চীনের এআই ও সেমিকন্ডাক্টর খাতের শীর্ষ সূচক স্টার৫০ ৪০ শতাংশ কমে গেছে।",
+          "চার মাসেরও কম সময়ে এআই খাতের প্রায় ৪৮০ বিলিয়ন বা ৪৮ হাজার কোটি ডলারের বাজারমূল্য হাওয়া হয়ে গেছে।",
+          "বৈশ্বিক প্রযুক্তি খাতে চাহিদা কমায় এবং মার্কিন রফতানি বিধিনিষেধের কারণে এই বাজার ধসের ঘটনা ঘটেছে।"
         ],
         "bullets_en": [
-          "Israel has commenced its first national parliamentary election backdrop of ongoing regional conflict since late 2023.",
-          "Polls indicate both Prime Minister Netanyahu's coalition and the opposition bloc may fall short of majority seats.",
-          "Election results are expected to significantly reshape domestic governance and broader Middle Eastern diplomatic relations."
+          "Chinas Star50 index tracking AI and semiconductor sectors dropped by forty percent.",
+          "Around 480 billion dollars in market value evaporated in less than four months.",
+          "The crash was driven by dwindling demand and strict export restrictions on technology."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সালের ৭ অক্টোবর হামাসের হামলার পর গাজায় দীর্ঘস্থায়ী সামরিক অভিযান পরিচালনা করে ইসরায়েল। প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নেতৃত্বাধীন সরকারের সময়কালে পশ্চিম তীরে বসতি স্থাপন এবং আঞ্চলিক সংঘাত বৃদ্ধি পায়। এছাড়া নেতানিয়াহু বর্তমানে দুর্নীতির অভিযোগে বিচারের মুখোমুখি রয়েছেন। নির্বাচনটি তার দীর্ঘ রাজনৈতিক জীবনের জন্য একটি বড় অগ্নিপরীক্ষা হিসেবে দেখা হচ্ছে।",
-        "details_en": "Israel launched extensive military campaigns in Gaza following the October 7, 2023 attacks. Under Prime Minister Benjamin Netanyahu, the government faced international condemnation, regional escalation involving Iran, and surging settler violence in the West Bank. Netanyahu also faces ongoing corruption trials, making this election a defining referendum on his long tenure."
+        "details_bn": "বৈশ্বিক প্রযুক্তি খাতে কৃত্রিম বুদ্ধিমত্তার ব্যবহার দ্রুত বাড়লেও এর বাণিজ্যিক টেকসইতা নিয়ে বিনিয়োগকারীদের মধ্যে দীর্ঘদিন ধরে সংশয় ছিল। মার্কিন যুক্তরাষ্ট্রের কঠোর রফতানি বিধিনিষেধ এবং বৈশ্বিক অর্থনীতিতে মন্দার আশঙ্কার কারণে চিপ ও এআই প্রযুক্তির স্টকগুলোতে এই অস্থিরতা তৈরি হয়েছে। চীনের বাজারে এই ধস আন্তর্জাতিক প্রযুক্তি সরবরাহ শৃঙ্খলে বড় ধরনের প্রভাব ফেলতে পারে বলে আশঙ্কা করছেন বিশ্লেষকরা।",
+        "details_en": "Despite the rapid expansion of artificial intelligence globally, investors have increasingly questioned its short-term commercial viability. Stricter U.S. export controls on advanced chips and broader economic uncertainties have triggered extreme volatility across tech stocks. Analysts warn that this significant market correction in China could disrupt global technology supply chains and investor confidence in emerging tech sectors."
       }
     },
     {
-      "story_id": "ed793a76-d269-55ed-802b-39534f481dde",
-      "primary_category": "sports_fitness",
+      "story_id": "3dff77ff-e5dc-5c9a-aa2a-0ee9ea3e7014",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "sports_fitness",
+        "economy_business",
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#WorldBank",
+        "#ArtificialIntelligence",
+        "#AjayBanga"
+      ],
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107322815-1698232166266-gettyimages-1722805969-AA_13102023_1375096.jpeg?v=1698232229&w=1920&h=1080",
+      "image_caption": null,
+      "published_at": "2026-10-27T12:50:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.25,
+      "rank_score": 1.5413,
+      "sources": [
+        {
+          "name": "CNBC Global Economy",
+          "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+          "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+          "snippet": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার বর্ধিত ব্যয়ের মাঝেও বিশ্ববাজারে মূলধনের ঘাটতি নেই বলে জানিয়েছেন বিশ্বব্যাংক প্রধান",
+        "title_en": "World Bank President Says Capital Availability Remains Stable Despite Rising AI Costs",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে ঋণের সুদের হার বাড়লেও বৈশ্বিক বাজারে মূলধনের পর্যাপ্ততা নিয়ে উদ্বেগের কিছু নেই বলে জানিয়েছেন বিশ্বব্যাংকের প্রধান অজয় বঙ্গা।",
+        "summary_en": "World Bank President Ajay Banga stated that capital remains accessible globally despite rising interest rates driven by artificial intelligence investments.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T12:50:13+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার কারণে ঋণের সুদের হার বাড়লেও বৈশ্বিক বাজারে মূলধনের পর্যাপ্ততা নিয়ে উদ্বেগের কিছু নেই বলে জানিয়েছেন বিশ্বব্যাংকের প্রধান অজয় বঙ্গা।",
+        "lead_en": "World Bank President Ajay Banga stated that capital remains accessible globally despite rising interest rates driven by artificial intelligence investments.",
+        "bullets_bn": [
+          "বিশ্ববাজারে কৃত্রিম বুদ্ধিমত্তার জন্য সুদের হার বাড়লেও মূলধনের প্রবাহ স্বাভাবিক রয়েছে বলে উল্লেখ করা হয়েছে।",
+          "বিশ্বব্যাংক গত বছরে ১১ হাজার ২০০ কোটি ডলার সংগ্রহ করেছে যা তিন বছর আগের তুলনায় তিন গুণ বেশি।",
+          "উন্নত অর্থনীতির দেশগুলো বড় আকারের ব্যবহারের দিকে ঝুঁকলেও উদীয়মান বাজারগুলো অবকাঠামো উন্নয়নে বেশি বিনিয়োগ করছে।"
+        ],
+        "bullets_en": [
+          "World Bank President Ajay Banga confirmed that capital availability is not an issue despite AI driving up borrowing costs.",
+          "The World Bank mobilized $112 billion last year, marking a threefold increase compared to three years prior.",
+          "Emerging markets focus investments primarily on infrastructure and smaller-scale AI applications unlike developed counterparts."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তার প্রসার এবং এর বাণিজ্যিক মডেল নিয়ে বিশ্বজুড়ে বিনিয়োগকারীদের মাঝে নানা আলোচনা চলছে। প্রযুক্তিখাতে বড় অংকের পুঁজি বিনিয়োগের ফলে বৈশ্বিক সুদের হার এবং ঋণ নেওয়ার খরচ বৃদ্ধি পাওয়া নিয়ে শঙ্কা তৈরি হয়েছে। তবে উদীয়মান অর্থনীতির দেশগুলোতে অবকাঠামোগত উন্নয়ন এবং ক্ষুদ্র পরিসরে কৃত্রিম বুদ্ধিমত্তার ব্যবহার অব্যাহত রয়েছে, যা ঐতিহ্যবাহী খাতের বিনিয়োগ সুরক্ষিত রাখতে সহায়তা করছে।",
+        "details_en": "Global financial markets face growing discussions regarding the massive capital investments required for artificial intelligence expansion and its underlying business models. While heavy tech funding pushes borrowing costs higher, emerging economies continue focusing investments on foundational infrastructure and smaller-scale technological applications, helping mitigate widespread debt distress fears."
+      }
+    },
+    {
+      "story_id": "440eb8b8-b252-5670-9c0a-b84e94b0b2a6",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#TeamIndia",
-        "#T20Series"
+        "#RussiaUkraineWar",
+        "#NorwayFinland"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261027__D4JK77Z__v1__HighRes__CricketNzlInd-1793098399.jpg?resize=1800%2C1200&quality=80",
+      "image_url": "https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ff15d366445fde71c0e368c268548ed0",
       "image_caption": null,
-      "published_at": "2026-10-27T11:02:41+00:00",
+      "published_at": "2026-10-27T12:43:42+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.6187,
+      "importance_score": 2.12,
+      "rank_score": 0.7218,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss",
-          "title": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
-          "snippet": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20"
-        },
-        {
           "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
-          "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
-          "snippet": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
-          "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
-          "snippet": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet"
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+          "title": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+          "snippet": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live"
         },
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Arunachal sees fresh violence over proposed dam",
-          "snippet": "India news: Arunachal sees fresh violence over proposed dam"
+          "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
+          "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
+          "snippet": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despit"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নিউজিল্যান্ডকে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করল ভারত",
-        "title_en": "India Beat New Zealand to Secure T20 Series Victory",
-        "summary_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করেছে ভারত।",
-        "summary_en": "Abhishek Sharma hit a century to propel India to a six-wicket win and a series victory over New Zealand.",
+        "title_bn": "নরওয়ে ও ফিনল্যান্ডের শীর্ষ নেতারা পুতিনের সাথে বিরল দ্বিপক্ষীয় ফোনালাপ সম্পন্ন করেছেন",
+        "title_en": "Finnish and Norwegian Leaders Hold Rare Phone Call With Putin",
+        "summary_bn": "নরওয়ে ও ফিনল্যান্ডের সরকারপ্রধানরা রাশিয়ার প্রেসিডেন্টের সাথে বিরল এক ফোনালাপে ইউক্রেন যুদ্ধসহ বিভিন্ন জরুরি ইস্যু নিয়ে আলোচনা করেছেন।",
+        "summary_en": "The leaders of Norway and Finland held a rare phone call with the Russian president to discuss the Ukraine conflict.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:02:41+00:00",
-        "lead_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করেছে ভারত।",
-        "lead_en": "Abhishek Sharma hit a century to propel India to a six-wicket win and a series victory over New Zealand.",
+        "published_at": "2026-10-27T12:43:42+00:00",
+        "lead_bn": "নরওয়ে ও ফিনল্যান্ডের সরকারপ্রধানরা রাশিয়ার প্রেসিডেন্টের সাথে বিরল এক ফোনালাপে ইউক্রেন যুদ্ধসহ বিভিন্ন জরুরি ইস্যু নিয়ে আলোচনা করেছেন।",
+        "lead_en": "The leaders of Norway and Finland held a rare phone call with the Russian president to discuss the Ukraine conflict.",
         "bullets_bn": [
-          "অভিষেক শর্মা ও বৈভব সূর্যবংশীর বিধ্বংসী জুটির ওপর ভর করে ভারত নিউজিল্যান্ডের দেওয়া ১৯৬ রানের লক্ষ্য তাড়া করে জয় নিশ্চিত করে।",
-          "অভিষেক মাত্র ৩৮ বলে নয়টি চার ও এগারোটি ছক্কার সাহায্যে ১১৩ রান করেন এবং বৈভব করেন ৪৫ রান।",
-          "এই জয়ের ফলে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজে তিন ম্যাচে জয় পেয়ে দুই ম্যাচ বাকি থাকতেই সিরিজ নিজেদের করে নেয় ভারত।"
+          "নরওয়ে ও ফিনল্যান্ডের শীর্ষ নেতারা রাশিয়ার প্রেসিডেন্টের সাথে নব্বই মিনিটব্যাপী এক দীর্ঘ ফোনালাপ পরিচালনা করেন।",
+          "আলোচনায় জ্বালানি অবকাঠামোয় হামলা এবং কৃষ্ণ সাগর নিরাপত্তা ইস্যু প্রধান্য পায় বলে নরওয়ের পক্ষ থেকে জানানো হয়।",
+          "উভয় নেতা ইউক্রেনের আত্মরক্ষার অধিকারের প্রতি দৃঢ় সমর্থন অব্যাহত রাখার ঘোষণা দেন।"
         ],
         "bullets_en": [
-          "India successfully chased down New Zealand's total of 198 runs driven by an aggressive partnership between Abhishek Sharma and Vaibhav Suryavanshi.",
-          "Abhishek scored 113 runs from 38 balls hitting nine fours and eleven sixes while Vaibhav contributed 45 runs.",
-          "India secured the five-match Twenty20 International series with two matches to spare by taking an unassailable lead."
+          "The leaders of Norway and Finland engaged in a ninety-minute phone call with the Russian president.",
+          "Discussions focused on pressing issues including energy infrastructure attacks and Black Sea security.",
+          "Both leaders reiterated their continued support for Ukraine and its right to self-defense."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ওয়েলিংটনে অনুষ্ঠিত এই ম্যাচে নিউজিল্যান্ড প্রথমে ব্যাট করে নির্ধারিত ওভারে ১৯৮ রান সংগ্রহ করে। জবাবে ব্যাট করতে নেমে ভারতীয় ওপেনিং জুটি শুরু থেকেই আক্রমণাত্মক ব্যাটিং করে এবং মাত্র ১৩.২ ওভারেই জয়ের বন্দরে পৌঁছে যায়। এই জয়ের মাধ্যমে ভারত সিরিজে নিজেদের অপরাজিত আধিপত্য বিস্তার করে এবং সিরিজের ট্রফি নিশ্চিত করে।",
-        "details_en": "Playing in Wellington, New Zealand posted a competitive total of 198 runs in their allotted overs. In response, the Indian opening pair dismantled the bowling attack from the very first over, reaching the target in just 13.2 overs. This dominant performance sealed the five-match series for India with two games remaining."
+        "details_bn": "নরওয়ের প্রধানমন্ত্রী জোনাস গাহর স্টøre এবং ফিনল্যান্ডের প্রেসিডেন্ট আলেকজান্ডার স্টাব রাশিয়ার প্রেসিডেন্ট ভ্লাদিমির পুতিনের সাথে এই অস্বাভাবিক ফোনালাপে অংশ নেন। নির্ধারিত সময়সীমা কুড়ি মিনিট হলেও দীর্ঘ ৯০ মিনিট ধরে এই আলোচনা চলে। যদিও উভয় পক্ষ তাদের পূর্বের অবস্থানে অনড় থাকে এবং উল্লেখযোগ্য মতপার্থক্য রয়ে যায়, তবুও ইউরোপীয় অংশীদারদের অবহিত করেই এই কূটনৈতিক যোগাযোগ রক্ষা করা হয়।",
+        "details_en": "Norwegian Prime Minister Jonas Gahr Støre and Finnish President Alexander Stubb participated in an unusual phone conversation with Russian President Vladimir Putin. Although initially scheduled for twenty minutes, the call extended to ninety minutes. While significant differences in their respective positions remained, the Nordic leaders maintained transparency by informing their European allies in advance."
       }
     }
   ]
