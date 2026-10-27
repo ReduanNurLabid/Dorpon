@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-27T04:00:52.438190",
+  "updated_at": "2026-10-27T05:00:41.166697",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "81103a14-f529-53b4-9d4c-77a2aa6d8f43",
+      "story_id": "c11bf4eb-5f20-5548-99c9-28d1cb998139",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -16,23 +16,23 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T03:51:08+00:00",
+      "published_at": "2026-10-27T04:51:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 10.0,
-      "rank_score": 3.6579,
+      "importance_score": 6.6,
+      "rank_score": 2.4284,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/976970/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A7%9F-%E0%A6%AC%E0%A7%88%E0%A6%A0%E0%A6%95%E0%A7%87",
-          "title": "জাপানের প্রধানমন্ত্রীর সঙ্গে দ্বিপক্ষীয় বৈঠকে তারেক রহমান",
-          "snippet": "জাপানের প্রধানমন্ত্রীর সঙ্গে দ্বিপক্ষীয় বৈঠকে তারেক রহমান"
+          "url": "https://www.banglatribune.com/national/976978/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A7%87-%E0%A6%AF%E0%A7%8C%E0%A6%A5-%E0%A6%B8%E0%A6%AE%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%B0",
+          "title": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তি করার প্রত্যয় প্রধানমন্ত্রীর",
+          "snippet": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তি করার প্রত্যয় প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপানের প্রধানমন্ত্রীর সাথে দ্বিপক্ষীয় বৈঠকে বসেছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Meets Japanese Prime Minister for Bilateral Talks",
-        "summary_bn": "বাংলাদেশ ও জাপানের মধ্যে বাণিজ্য প্রসার এবং পারস্পরিক সহযোগিতা বাড়াতে দ্বিপক্ষীয় শীর্ষ বৈঠকে অংশ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "summary_en": "Prime Minister Tarique Rahman participated in a bilateral summit to expand trade and mutual cooperation between Bangladesh and Japan.",
+        "title_bn": "বাংলাদেশ-জাপান সম্পর্ককে যৌথ সমৃদ্ধির চালিকাশক্তিতে রূপান্তরের প্রত্যয় প্রধানমন্ত্রীর",
+        "title_en": "PM Vows to Transform Bangladesh-Japan Ties into Driver of Shared Prosperity",
+        "summary_bn": "প্রধানমন্ত্রী বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বের সম্পর্ককে অর্থনৈতিক অগ্রগতি ও অভিন্ন সমৃদ্ধির চালিকাশক্তিতে পরিণত করার প্রত্যয় ব্যক্ত করেছেন।",
+        "summary_en": "Prime Minister expressed firm resolve to turn Bangladesh and Japan's long-standing friendship into a powerful driver of economic progress and shared prosperity.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,27 +40,82 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T03:51:08+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের মধ্যে বাণিজ্য প্রসার এবং পারস্পরিক সহযোগিতা বাড়াতে দ্বিপক্ষীয় শীর্ষ বৈঠকে অংশ নিয়েছেন প্রধানমন্ত্রী তারেক রহমান।",
-        "lead_en": "Prime Minister Tarique Rahman participated in a bilateral summit to expand trade and mutual cooperation between Bangladesh and Japan.",
+        "published_at": "2026-10-27T04:51:29+00:00",
+        "lead_bn": "প্রধানমন্ত্রী বাংলাদেশ ও জাপানের দীর্ঘদিনের বন্ধুত্বের সম্পর্ককে অর্থনৈতিক অগ্রগতি ও অভিন্ন সমৃদ্ধির চালিকাশক্তিতে পরিণত করার প্রত্যয় ব্যক্ত করেছেন।",
+        "lead_en": "Prime Minister expressed firm resolve to turn Bangladesh and Japan's long-standing friendship into a powerful driver of economic progress and shared prosperity.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের মধ্যে সম্পর্ক জোরদার এবং বিনিয়োগ সম্প্রসারণের বিষয়ে উচ্চপর্যায়ের আলোচনা অনুষ্ঠিত হয়েছে।",
-          "টোকিওর কান্তেইয়ে জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির কার্যালয়ে এই দ্বিপক্ষীয় শীর্ষ বৈঠকটি অনুষ্ঠিত হয়।",
-          "দুই দেশের মধ্যকার অর্থনৈতিক অংশীদারিত্ব ও পারস্পরিক সহযোগিতা বৃদ্ধির নতুন ক্ষেত্র উন্মোচিত হবে।"
+          "বাংলাদেশ ও জাপানের শীর্ষ নেতারা দ্বিপক্ষীয় সম্পর্ক আরও সুদৃঢ় করার বিষয়ে গুরুত্বপূর্ণ বৈঠকে অংশ নেন।",
+          "টোকিওর কানতেই কার্যালয়ে দুই দেশের সরকারপ্রধানের নেতৃত্বে এই দ্বিপক্ষীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়।",
+          "বৈঠক শেষে আয়োজিত যৌথ সংবাদ সম্মেলনে দুই দেশের পারস্পরিক সহযোগিতার ক্ষেত্র আরও বাড়ানোর প্রত্যাশা জানানো হয়।"
         ],
         "bullets_en": [
-          "High-level discussions were held to strengthen bilateral ties and expand investment between Bangladesh and Japan.",
-          "The bilateral summit took place at Kantei, the official office of Japanese Prime Minister Sanae Takaichi in Tokyo.",
-          "New avenues for economic partnership and mutual cooperation between the two nations are expected to open."
+          "Top leaders of Bangladesh and Japan participated in a crucial bilateral meeting to strengthen relations.",
+          "The bilateral summit was held at the Kantei, the office of the Japanese Prime Minister in Tokyo.",
+          "Both leaders expressed expectations to expand areas of mutual cooperation during a joint press briefing."
         ],
-        "impact_bn": "এই বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য ও বিনিয়োগ বৃদ্ধি পেলে দেশের অর্থনৈতিক প্রবৃদ্ধি ও কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
-        "impact_en": "Increased trade and investment resulting from this meeting will drive economic growth and create employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। দুই দেশের সম্পর্ককে কৌশলগত অংশীদারিত্বে উন্নীত করার লক্ষ্যে বিভিন্ন সময়ে উচ্চপর্যায়ের সফর ও বৈঠক অনুষ্ঠিত হয়ে আসছে। টোকিওতে অনুষ্ঠিত এই বর্তমান শীর্ষ বৈঠকটি দুই দেশের মধ্যকার দ্বিপক্ষীয় সম্পর্ককে আরও সুদৃঢ় করতে এবং বাণিজ্যের পরিধি বাড়াতে গুরুত্বপূর্ণ ভূমিকা রাখবে বলে আশা করা হচ্ছে।",
-        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic relationship. High-level visits and meetings are frequently held to elevate bilateral ties to a strategic partnership. The current summit in Tokyo is expected to play a crucial role in further strengthening bilateral relations and expanding trade horizons between the two nations."
+        "impact_bn": "এই দ্বিপক্ষীয় চুক্তির ফলে দুই দেশের মধ্যকার বাণিজ্য সম্প্রসারণ ও কর্মসংস্থানের নতুন সুযোগ সৃষ্টি হতে পারে।",
+        "impact_en": "This bilateral engagement could pave the way for expanded trade and new employment opportunities for citizens.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘকাল ধরে অর্থনৈতিক ও কৌশলগত অংশীদারিত্ব বজায় রয়েছে। অবকাঠামো উন্নয়ন, বিনিয়োগ এবং বৈদেশিক বাণিজ্যে জাপান বাংলাদেশের অন্যতম প্রধান উন্নয়ন সহযোগী হিসেবে কাজ করে আসছে। দুই দেশের এই শীর্ষ বৈঠক দ্বিপক্ষীয় সম্পর্ককে আরও এক ধাপ এগিয়ে নিতে এবং কৌশলগত সহযোগিতা জোরদার করতে গুরুত্বপূর্ণ ভূমিকা পালন করবে।",
+        "details_en": "Bangladesh and Japan share a long-standing economic and strategic partnership. Japan has consistently acted as one of Bangladesh's key development partners in infrastructure development, foreign investment, and trade. This high-level summit is expected to further advance bilateral ties and strengthen strategic cooperation between the two nations."
       }
     },
     {
-      "story_id": "bdfabaaa-4de2-5cd3-85f2-d082219d61f0",
+      "story_id": "869f8ac3-c0f1-520b-bb7d-a2d4fc48e402",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T04:46:20+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6788,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172383",
+          "title": "দেশে আটকেপড়া সৌদি প্রবাসীদের জন্য সুখবর",
+          "snippet": "দেশে আটকেপড়া সৌদি প্রবাসীদের জন্য সুখবর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি আরবে আটকেপড়া কর্মীদের আকামার মেয়াদ শেষের পর প্রবেশের অনুমতি",
+        "title_en": "Saudi Arabia Allows Entry for Bangladeshi Workers With Expired Iqamas",
+        "summary_bn": "ফ্লাইট বিপর্যয়ের কারণে আটকেপড়া যেসব বাংলাদেশি কর্মীর আকামার মেয়াদ শেষ হয়েছে, সৌদি আরব তাদের দেশটিতে প্রবেশের সুযোগ দিচ্ছে।",
+        "summary_en": "Saudi Arabia is granting entry to Bangladeshi workers whose iqamas expired after flight disruptions stranded them at home.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T04:46:20+00:00",
+        "lead_bn": "ফ্লাইট বিপর্যয়ের কারণে আটকেপড়া যেসব বাংলাদেশি কর্মীর আকামার মেয়াদ শেষ হয়েছে, সৌদি আরব তাদের দেশটিতে প্রবেশের সুযোগ দিচ্ছে।",
+        "lead_en": "Saudi Arabia is granting entry to Bangladeshi workers whose iqamas expired after flight disruptions stranded them at home.",
+        "bullets_bn": [
+          "ফ্লাইট সংকটের কারণে নির্দিষ্ট সময়ে কর্মস্থলে ফিরতে না পারা বাংলাদেশি প্রবাসীদের সৌদি আরবে প্রবেশের বিশেষ অনুমোদন দেওয়া হয়েছে।",
+          "যাদের আকামার মেয়াদ ইতোমধ্যে উত্তীর্ণ হয়েছে, তারা নির্ধারিত প্রক্রিয়া অনুসরণ করে সৌদি আরব প্রবেশের এই সুযোগ পাবেন।",
+          "সংশ্লিষ্ট কর্তৃপক্ষ ও প্রবাসীদের জন্য এই সিদ্ধান্ত সৌদি আরবগামী যাত্রীদের দীর্ঘদিনের অনিশ্চয়তা ও উদ্বেগ দূর করবে।"
+        ],
+        "bullets_en": [
+          "Saudi authorities have approved entry for stranded Bangladeshi expatriates who missed travel deadlines due to flight disruptions.",
+          "Workers facing expired iqamas while stuck abroad will now be eligible to re-enter under these revised provisions.",
+          "This measure resolves immediate uncertainties for thousands of migrant workers preparing to return to their jobs."
+        ],
+        "impact_bn": "সৌদি আরবগামী প্রবাসী কর্মীরা আকামার মেয়াদ শেষ হওয়ার পরেও কাজে যোগ দিতে পারবেন, যা তাদের কর্মসংস্থান রক্ষা করবে।",
+        "impact_en": "Migrant workers can resume their jobs in Saudi Arabia without losing employment status due to past visa expiration.",
+        "details_bn": "সাম্প্রতিক সময়ে ফ্লাইট বিপর্যয় এবং শিডিউল বিপর্যয়ের কারণে অসংখ্য বাংলাদেশি প্রবাসী নির্ধারিত সময়ের মধ্যে সৌদি আরবে ফিরতে পারেননি। এর ফলে অনেক কর্মীর আকামা বা ইকামা এবং ভিসার মেয়াদ শেষ হয়ে যাওয়ায় তারা পেশাগত অনিশ্চয়তায় পড়েন। এই সংকট সমাধানে বাংলাদেশ সরকারের কূটনৈতিক প্রচেষ্টার পরিপ্রেক্ষিতে সৌদি কর্তৃপক্ষ আটকেপড়া কর্মীদের পুনরায় দেশটিতে প্রবেশের এই বিশেষ সুযোগ প্রদান করে।",
+        "details_en": "Recent flight disruptions and schedule failures left numerous Bangladeshi expatriates unable to return to Saudi Arabia on time, leading to expired iqamas and severe professional uncertainty. Following diplomatic efforts by Bangladesh, Saudi authorities intervened to grant re-entry permissions, resolving the crisis for affected migrant workers."
+      }
+    },
+    {
+      "story_id": "96b413bf-6e51-5342-8219-eaf1cdea3e1f",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,220 +125,103 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2Fz8ediy5i%2FWhatsApp-Image-2026-10-27-at-8.34.03-AM.jpeg?rect=0%2C107%2C1289%2C677&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T03:43:36+00:00",
+      "published_at": "2026-10-27T04:42:10+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.6318,
+      "rank_score": 1.6135,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/other-politics/976969/%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE-%E0%A6%93-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%AC-%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0",
-          "title": "সিপিবি কার্যালয়ে হামলার নিন্দা ও আটক যুব ইউনিয়নের দুই নেতার মুক্তি দাবি জাসদের",
-          "snippet": "সিপিবি কার্যালয়ে হামলার নিন্দা ও আটক যুব ইউনিয়নের দুই নেতার মুক্তি দাবি জাসদের"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/fzee94e9eh",
+          "title": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, ১২ দিনেও শনাক্ত হয়নি হামলাকারী",
+          "snippet": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, ১২ দিনেও শনাক্ত হয়নি হামলাকারী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিপিবি কার্যালয়ে হামলার নিন্দা ও জাসদের যুব নেতাদের মুক্তির দাবি",
-        "title_en": "JSD Condemns Attack on CPB Office and Demands Youth Leaders Release",
-        "summary_bn": "জাতীয় সমাজতান্ত্রিক দল সিপিবি কার্যালয়ে হামলার তীব্র নিন্দা জানিয়ে আটক দুই যুব ইউনিয়ন নেতার মুক্তি ও হামলাকারীদের শাস্তি দাবি করেছে।",
-        "summary_en": "Jasad strongly condemned the attack on the CPB office and demanded the immediate release of two detained youth leaders.",
+        "title_bn": "নাটোরে দুর্বৃত্তদের হামলায় আহত ছাত্রদল নেতার মৃত্যু, মামলা হত্যায় রূপান্তর",
+        "title_en": "Injured Jatiyatabadi Chhatra Dal Leader Dies in Natore Attack",
+        "summary_bn": "নাটোরে দুর্বৃত্তদের ধারালো অস্ত্রের হামলায় গুরুতর আহত ছাত্রদল নেতা শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "summary_en": "A critically injured Jatiyatabadi Chhatra Dal leader has died while undergoing treatment following an attack by miscreants in Natore.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T03:43:36+00:00",
-        "lead_bn": "জাতীয় সমাজতান্ত্রিক দল সিপিবি কার্যালয়ে হামলার তীব্র নিন্দা জানিয়ে আটক দুই যুব ইউনিয়ন নেতার মুক্তি ও হামলাকারীদের শাস্তি দাবি করেছে।",
-        "lead_en": "Jasad strongly condemned the attack on the CPB office and demanded the immediate release of two detained youth leaders.",
+        "published_at": "2026-10-27T04:42:10+00:00",
+        "lead_bn": "নাটোরে দুর্বৃত্তদের ধারালো অস্ত্রের হামলায় গুরুতর আহত ছাত্রদল নেতা শাকিল ইসলাম চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+        "lead_en": "A critically injured Jatiyatabadi Chhatra Dal leader has died while undergoing treatment following an attack by miscreants in Natore.",
         "bullets_bn": [
-          "সিপিবি কার্যালয়ে হামলার তীব্র নিন্দা ও হামলাকারীদের দ্রুত গ্রেফতার করে শাস্তির দাবি জানিয়েছে জাতীয় সমাজতান্ত্রিক দল।",
-          "ঢাকা মহানগর যুব ইউনিয়নের সভাপতি ইরাম মোল্লা ও সাধারণ সম্পাদক সোহেল ফকিরের মুক্তি দাবি করা হয়েছে।",
-          "দফতর সম্পাদক সাজ্জাদ হোসেনের সই করা বিজ্ঞপ্তিতে দলটির পক্ষ থেকে এই আনুষ্ঠানিক দাবি জানানো হয়।"
+          "রাজধানীর বাংলাদেশ মেডিকেল বিশ্ববিদ্যালয়ে চিকিৎসাধীন অবস্থায় ছাত্রদল নেতা শাকিল ইসলাম মারা গেছেন",
+          "নিহতের বাবা রবিউল করিম অজ্ঞাতপরিচয় ৮ থেকে ১০ জনকে আসামি করে গুরুদাসপুর থানায় মামলা করেন",
+          "আ আদালতের নির্দেশে গুরুদাসপুর থানায় দায়ের করা মামলাটি এখন হত্যা মামলায় রূপান্তর করা হবে"
         ],
         "bullets_en": [
-          "Jasad strongly condemned the attack on the Communist Party of Bangladesh office and demanded strict punishment for the culprits.",
-          "The party demanded the immediate release of detained Dhaka city youth union leaders Eram Molla and Sohel Fakir.",
-          "The official demands were announced through a press release signed by the party office secretary Sajjad Hossain."
+          "Chhatra Dal leader Shakil Islam passed away while undergoing treatment at Bangladesh Medical University",
+          "Victims father Rabiul Karim filed a case accusing 8 to 10 unidentified individuals at Gurudaspur police station",
+          "Police stated the existing case will be converted into a murder case following court directives"
         ],
-        "impact_bn": "রাজনৈতিক সহিংসতা এবং মতপ্রকাশের স্বাধীনতায় এ ধরনের ঘটনা নাগরিক সমাজে ভীতিকর পরিবেশ তৈরি করতে পারে।",
-        "impact_en": "Such political clashes and arrests can negatively impact free expression and civic engagement among youth.",
-        "details_bn": "বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয়ে সাম্প্রতিক একটি হামলার ঘটনাকে কেন্দ্র করে এই রাজনৈতিক প্রতিক্রিয়া এসেছে। দেশের বামপন্থী রাজনৈতিক দলগুলো এ ধরনের ঘটনার তীব্র প্রতিবাদ জানিয়ে আসছি এবং রাজনৈতিক সহনশীলতা বজায় রাখার আহ্বান জানিয়ে আসছে। জাসদসহ বিভিন্ন রাজনৈতিক দল এই ঘটনায় জড়িতদের বিরুদ্ধে কঠোর আইনানুগ ব্যবস্থা নেওয়ার দাবি জানিয়েছে।",
-        "details_en": "This political reaction follows a reported attack on the central office of the Communist Party of Bangladesh. Left-leaning political parties have consistently protested such incidents, demanding greater political tolerance and accountability. Various political organizations, including Jasad, have urged authorities to take strict legal action against the perpetrators."
+        "impact_bn": "রাজনৈতিক সহিংসতা এবং নিরাপত্তা নিয়ে সাধারণ শিক্ষার্থীদের মাঝে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Political violence and security concerns have raised apprehension among local students and residents.",
+        "details_bn": "নাটোরের গুরুদাসপুরে দুর্বৃত্তদের ধারালো অস্ত্রের আঘাতে ছাত্রদল নেতা শাকিল ইসলাম গুরুতর আহত হন। প্রথমে তাঁকে উপজেলা স্বাস্থ্য কমপ্লেক্স এবং পরে রাজশাহী মেডিকেল কলেজ হাসপাতালে পাঠানো হয়। অবস্থার অবনতি হলে তাঁকে ঢাকায় স্থানান্তর করা হয়। ১৯ অক্টোবর তাঁর বাবা অজ্ঞাতপরিচয় ব্যক্তিদের আসামি করে মামলা দায়ের করেন। পুলিশ ঘটনার তদন্ত শুরু করলেও কাউকে গ্রেপ্তার করতে পারেনি।",
+        "details_en": "Chhatra Dal leader Shakil Islam was critically injured by sharp weapons wielded by miscreants in Gurudaspur, Natore. He was initially taken to the upazila health complex and later shifted to Rajshahi Medical College Hospital before being moved to Dhaka due to worsening condition. His father filed a case on October 19 against unidentified persons. Police are investigating the incident and attempting to identify the culprits."
       }
     },
     {
-      "story_id": "9f41e084-7c84-54f3-af1a-2a376700b2f1",
+      "story_id": "fbebf4fd-b66c-53c9-a919-cf57b7b909f9",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#NationalAffairs"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2F3hxrmdqj%2Fapod.jpg?rect=0%2C87%2C1244%2C653&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2021-05%2Fba39cddb-a11d-47f9-971c-1458e27d6b8e%2Faktuthamun_OG_watermark.png&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-25%2F1ga8eaim%2F6_Hero_ImageDream_Study_Creative.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2025-11-23%2F1558a7oz%2Fdefaultog.webp&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T03:00:00+00:00",
+      "published_at": "2026-10-27T04:56:33+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.141,
+      "importance_score": 2.4,
+      "rank_score": 0.9301,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/fun/56dkomeyh8",
-          "title": "আ–পদের পদত্যাগ",
-          "snippet": "আ–পদের পদত্যাগ"
+          "url": "https://www.prothomalo.com/education/higher-education/97bxtnqbpv",
+          "title": "অস্ট্রেলিয়ার ভিসানীতিতে কড়াকড়ি: বাংলাদেশি শিক্ষার্থী ও অভিবাসীদের করণীয় কী",
+          "snippet": "অস্ট্রেলিয়ার ভিসানীতিতে কড়াকড়ি: বাংলাদেশি শিক্ষার্থী ও অভিবাসীদের করণীয় কী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বৈষম্য ও শোষণের প্রতিবাদে বাংলা ব্যাকরণের পদসমূহের পদত্যাগ ঘোষণা",
-        "title_en": "Bengali Grammar Parts of Speech Announce Resignation Over Discrimination",
-        "summary_bn": "দীর্ঘদিনের বৈষম্য ও শোষণের প্রতিবাদে বাংলা ব্যাকরণের বিভিন্ন পদ সম্মিলিতভাবে পদত্যাগের ঘোষণা দিয়েছে।",
-        "summary_en": "Parts of speech in Bengali grammar have announced their collective resignation protesting long-standing discrimination.",
+        "title_bn": "অস্ট্রেলিয়ার নতুন ভিসানীতি: আন্তর্জাতিক শিক্ষার্থীদের জন্য কঠোর শর্ত জারি",
+        "title_en": "Australia Tightens Visa Policies and Introduces Strict Student Rules",
+        "summary_bn": "অস্ট্রেলিয়া সরকার অভিবাসনব্যবস্থার স্বচ্ছতা ফেরাতে আন্তর্জাতিক শিক্ষার্থী ও অস্থায়ী অভিবাসীদের জন্য ভিসানীতিতে কঠোর সংস্কার এনেছে।",
+        "summary_en": "The Australian government has introduced strict visa policy reforms for international students and temporary migrants to restore system transparency.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T03:00:00+00:00",
-        "lead_bn": "দীর্ঘদিনের বৈষম্য ও শোষণের প্রতিবাদে বাংলা ব্যাকরণের বিভিন্ন পদ সম্মিলিতভাবে পদত্যাগের ঘোষণা দিয়েছে।",
-        "lead_en": "Parts of speech in Bengali grammar have announced their collective resignation protesting long-standing discrimination.",
+        "published_at": "2026-10-27T04:56:33+00:00",
+        "lead_bn": "অস্ট্রেলিয়া সরকার অভিবাসনব্যবস্থার স্বচ্ছতা ফেরাতে আন্তর্জাতিক শিক্ষার্থী ও অস্থায়ী অভিবাসীদের জন্য ভিসানীতিতে কঠোর সংস্কার এনেছে।",
+        "lead_en": "The Australian government has introduced strict visa policy reforms for international students and temporary migrants to restore system transparency.",
         "bullets_bn": [
-          "বাংলা ব্যাকরণের পদসমূহ কর্মক্ষেত্রে শোষণের প্রতিবাদে স্বেচ্ছায় পদত্যাগের সিদ্ধান্ত নিয়েছে।",
-          "বিশেষ্য, বিশেষণ, সর্বনাম, অব্যয় ও ক্রিয়া তাদের দীর্ঘদিনের অবমূল্যায়নের অভিযোগ তুলেছে।",
-          "এই পদত্যাগের ফলে বাংলা ভাষার বাক্যব্যবস্থায় অনিবার্য অচলাবস্থা সৃষ্টি হওয়ার আশঙ্কা করা হচ্ছে।"
+          "অস্ট্রেলিয়া সরকার অভিবাসন ব্যবস্থার বিশ্বাসযোগ্যতা রক্ষা এবং অপব্যবহার রোধ করতে ভিসানীতিতে কঠোর সংস্কার করেছে।",
+          "প্রকৃত শিক্ষার্থী বাছাই করতে ২০২৪ সালের মার্চে জেনুইন স্টুডেন্ট বা প্রকৃত শিক্ষার্থীসংক্রান্ত শর্ত চালুর পাশাপাশি আবেদনপদ্ধতিতে পরিবর্তন আনা হয়েছে।",
+          "এই সংস্কারের ফলে কিছু প্রকৃত শিক্ষার্থী ও অভিবাসী সাময়িক অসুবিধার মুখে পড়লেও দীর্ঘমেয়াদে অভিবাসনব্যবস্থা সুরক্ষিত থাকবে।"
         ],
         "bullets_en": [
-          "Grammar parts of speech decided to resign voluntarily protesting workplace exploitation.",
-          "Noun, adjective, pronoun, conjunction, and verb raised allegations of sustained undervaluation.",
-          "This resignation is feared to create an inevitable deadlock in Bengali sentence structure."
+          "Australia implemented strict visa reforms to protect the credibility of its immigration system and prevent misuse.",
+          "A genuine student requirement was introduced alongside application process changes to filter applicants.",
+          "While genuine applicants may face temporary difficulties, these steps will ensure long-term system integrity."
         ],
-        "impact_bn": "বাংলা ভাষার বাক্য গঠন ও ব্যাকরণ চর্চায় বড় ধরনের বিশৃঙ্খলা দেখা দিতে পারে।",
-        "impact_en": "Sentence construction and grammar practice in the Bengali language may face significant disruption.",
-        "details_bn": "বাংলা ব্যাকরণের পদগুলো দীর্ঘদিন ধরে বাক্য গঠনে অপরিহার্য ভূমিকা পালন করে আসছে। তবে উপযুক্ত মূল্যায়ন না পাওয়া এবং অতিরিক্ত কাজের চাপের অভিযোগ তুলে তারা এই প্রতীকী প্রতিবাদের পথ বেছে নিয়েছে। সামাজিক যোগাযোগমাধ্যমে প্রকাশিত এই ঘোষণাটি মূলত বাংলা ব্যাকরণের কাঠামোগত বৈষম্য ও রূপকধর্মী প্রতিবাদের একটি সৃষ্টিশীল প্রকাশ।",
-        "details_en": "Parts of speech have played an essential role in Bengali sentence formation for long. Choosing this symbolic protest, they highlighted grievances regarding lack of proper evaluation and excessive workloads. Published on social media, this announcement serves as a creative expression of structural grievances within Bengali grammar."
-      }
-    },
-    {
-      "story_id": "c7a97b21-2d8b-5b98-a1f7-662ebf132650",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T04:01:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9727,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976950/%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%9F%E0%A6%95-%E0%A6%AC%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%88%E0%A6%A8%E0%A6%BF%E0%A6%95-%E0%A6%AF%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8",
-          "title": "পর্যটক বরণে সাজছে সেন্টমার্টিন, দৈনিক যেতে পারবেন কতজন?",
-          "snippet": "পর্যটক বরণে সাজছে সেন্টমার্টিন, দৈনিক যেতে পারবেন কতজন?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সেন্টমার্টিন দ্বীপে পর্যটক গমনাগমন শুরু নভেম্বর থেকে প্রতিদিন সাড়ে তিন হাজার নির্ধারণ",
-        "title_en": "St Martin Island Open For Tourists From November With Daily Limit",
-        "summary_bn": "প্রবাল দ্বীপ সেন্টমার্টিনে নির্দিষ্ট শর্ত ও দৈনিক সীমিত সংখ্যক পর্যটক নিয়ে ভ্রমণ মৌসুম শুরু হচ্ছে।",
-        "summary_en": "Tourism on the coral island of St Martin is set to resume with a daily visitor cap.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:01:00+00:00",
-        "lead_bn": "প্রবাল দ্বীপ সেন্টমার্টিনে নির্দিষ্ট শর্ত ও দৈনিক সীমিত সংখ্যক পর্যটক নিয়ে ভ্রমণ মৌসুম শুরু হচ্ছে।",
-        "lead_en": "Tourism on the coral island of St Martin is set to resume with a daily visitor cap.",
-        "bullets_bn": [
-          "সরকার আগামী নভেম্বর থেকে নির্দিষ্ট শর্তে সেন্টমার্টিনে পর্যটক যাতায়াতের অনুমতি প্রদান করেছে।",
-          "প্রতিদিন সর্বোচ্চ সাড়ে তিন হাজার পর্যটক দ্বীপটি ভ্রমণের সুযোগ পাবেন।",
-          "পরিবেশ সুরক্ষার পাশাপাশি পর্যটন ব্যবসায়ীদের দীর্ঘদিনের স্থবিরতা কাটিয়ে আয় বৃদ্ধির সুযোগ তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "The government approved tourist travel to St Martin under specific guidelines starting November.",
-          "A maximum of three thousand and five hundred tourists can visit the island daily.",
-          "This decision aims to protect the local environment while reviving tourism business income."
-        ],
-        "impact_bn": "দ্বীপের স্থানীয় বাসিন্দা ও পর্যটন ব্যবসায়ীদের অর্থনৈতিক স্থবিরতা কাটবে এবং ভ্রমণপিপাসুরা নিয়ম মেনে দ্বীপ পরিদর্শনের সুযোগ পাবেন।",
-        "impact_en": "Local residents and tourism businesses will regain income while travelers get regulated access to the island.",
-        "details_bn": "পরিবেশ সুরক্ষার কথা বিবেচনা করে দীর্ঘদিন সেন্টমার্টিন দ্বীপে পর্যটক যাতায়াতে বিভিন্ন নিয়ন্ত্রণ ও নিষেধাজ্ঞা আরোপ করা হয়েছিল। এর ফলে দ্বীপের স্থানীয় বাসিন্দাদের আয়-রোজগার প্রায় স্থবির হয়ে পড়েছিল। এবার পরিবেশ রক্ষা এবং পর্যটন খাতের প্রাণ ফেরাতে নতুন নীতিমালা ও দৈনিক পর্যটক সংখ্যা সীমিত করার শর্তে দ্বীপটি পুনরায় উন্মুক্ত করা হচ্ছে।",
-        "details_en": "Authorities previously restricted tourist movement to St Martin to protect its fragile coral ecosystem, causing economic stagnation for local residents. The island is now reopening under strict regulatory frameworks and a daily visitor cap to balance environmental preservation with tourism revival."
-      }
-    },
-    {
-      "story_id": "3c824c19-4500-5a5f-95ce-bc6428812b7f",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#UnitedNations",
-        "#Israel",
-        "#WestBank"
-      ],
-      "image_url": "https://static.dw.com/image/79770273_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-27T04:00:52.438200+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6881,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
-          "title": "UN sounds the alarm over Israel's West Bank military operation",
-          "snippet": "UN sounds the alarm over Israel's West Bank military operation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলি সামরিক অভিযানের তীব্র নিন্দা জানিয়েছে জাতিসংঘ",
-        "title_en": "United Nations Condemns Israeli Military Operation in West Bank",
-        "summary_bn": "দখলকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নির্মূলের হুমকি বলে অভিহিত করেছে জাতিসংঘ।",
-        "summary_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, warning against forced displacement and collective punishment.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T04:00:52.438200+00:00",
-        "lead_bn": "দখলকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নির্মূলের হুমকি বলে অভিহিত করেছে জাতিসংঘ।",
-        "lead_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, warning against forced displacement and collective punishment.",
-        "bullets_bn": [
-          "জাতিসংঘের মহাসচিব আন্তোনিও গুতেরেস এবং মানবাধিকার কমিশনার ভলকার তুর্ক ইসরায়েলি অভিযানের তীব্র নিন্দা জানান",
-          "হব্রন শহরে ইসরায়েলি অভিযানে হাজার হাজার ফিলিস্তিনি জোরপূর্বক বাস্তুচ্যুত হয়েছে এবং ঘরবাড়ি ও বাণিজ্যিক প্রতিষ্ঠান ধ্বংস করা হয়েছে",
-          "সংঘাতের জেরে পশ্চিম তীর অবরুদ্ধ করে রাখার নির্দেশ দেন ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু"
-        ],
-        "bullets_en": [
-          "UN Secretary General Antonio Guterres and Human Rights Commissioner Volker Turk strongly condemned the military operation",
-          "The aggressive operation resulted in the forcible displacement of thousands of Palestinians and destruction of properties",
-          "Israeli Prime Minister Benjamin Netanyahu ordered the demolition of buildings and closure of the West Bank"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পশ্চিম তীরে ফিলিস্তিনি বন্দুকধারী এবং ইসরায়েলি সৈন্যদের মধ্যে সংঘটিত একটি বন্দুকযুদ্ধের জেরে এই সামরিক অভিযান শুরু হয়। ওই সংঘাতে দুই ইসরায়েলি সেনা ও দুই ফিলিস্তিনি বন্দুকধারী নিহত এবং তিনজন সেনা আহত হন। এর জবাবে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু পশ্চিম তীর অবরুদ্ধ এবং হব্রন শহরে ভবন ভেঙে ফেলার নির্দেশ দেন। সাধারণ নির্বাচনের ঠিক আগে নেওয়া এই পদক্ষেপে হাজার হাজার ফিলিস্তিনি বাস্তুচ্যুত হওয়ায় আন্তর্জাতিক মহলে তীব্র প্রতিক্রিয়া সৃষ্টি হয়েছে।",
-        "details_en": "The military operation in the occupied West Bank was launched in response to a shootout that left two Israeli soldiers and two Palestinian gunmen dead. Following the incident, Israeli Prime Minister Benjamin Netanyahu ordered the demolition of buildings in Hebron and the closure of the territory ahead of the general election. The aggressive measures led to the forcible displacement of thousands of Palestinians, drawing sharp international condemnation."
+        "impact_bn": "অস্ট্রেলিয়ায় উচ্চশিক্ষার জন্য আগ্রহী বাংলাদেশি শিক্ষার্থীরা নতুন কড়াকড়ি ও জটিল বাছাই প্রক্রিয়ার মুখে পড়বেন।",
+        "impact_en": "Bangladeshi students aspiring for higher education in Australia will face stricter scrutiny and complex application processes.",
+        "details_bn": "অস্ট্রেলিয়ার অর্থনীতি ও শ্রমবাজারের চাহিদা মেটাতে অভিবাসন দীর্ঘদিন ধরে গুরুত্বপূর্ণ ভূমিকা পালন করলেও সম্প্রতি দেশটির সরকার অভিবাসন ও ভিসানীতিতে বড় ধরনের সংস্কার এনেছে। এর মূল উদ্দেশ্য আন্তর্জাতিক শিক্ষাব্যবস্থার মান রক্ষা করা এবং শিক্ষার্থী ভিসার অপব্যবহার রোধ করা। ফলস্বরূপ, নতুন নিয়মকানুন এবং জেনুইন স্টুডেন্ট শর্ত চালুর মাধ্যমে অভিবাসন প্রক্রিয়া আরও কঠোর করা হয়েছে।",
+        "details_en": "Migration has long played a vital role in meeting Australia's economic and labor market demands, but the government recently introduced major visa policy reforms. The core objective is to protect the quality of the international education system and prevent misuse of student visas. Consequently, the immigration process has been tightened through new regulations and the implementation of genuine student requirements."
       }
     },
     {
@@ -297,15 +235,14 @@
       "region": "international",
       "tags": [
         "#AustralianPolitics",
-        "#Geopolitics",
-        "#Diplomacy"
+        "#AnthonyAlbanese"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/d4e1840638b64ca3c07b502a3faf5ce40e6545c9/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=520c84ec587e8125fa5fe22dcfc42755",
+      "image_url": "https://i.guim.co.uk/img/media/6d694f90d6d8936f9363ebbf300c62e64525fbc8/688_257_6558_5247/master/6558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d296e224953ed6fd4be28a4c42707408",
       "image_caption": null,
-      "published_at": "2026-10-27T03:54:18+00:00",
+      "published_at": "2026-10-27T04:46:35+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6421,
+      "rank_score": 0.596,
       "sources": [
         {
           "name": "The Guardian World",
@@ -315,10 +252,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলীয় সংসদে ৬ মিলিয়ন ডলারের গলফ অনুদান নিয়ে বিরোধী দলের তুমুল বিতর্ক",
-        "title_en": "Australian Opposition Clashes with Prime Minister Over $6m Golf Grant",
-        "summary_bn": "অস্ট্রেলিয়ার সংসদীয় অধিবেশনে ছয় মিলিয়ন ডলারের একটি গলফ অনুদান নিয়ে সরকার ও বিরোধী দলের মধ্যে তীব্র বাকবিতণ্ডা সংঘটিত হয়েছে।",
-        "summary_en": "Australian opposition lawmakers clashed with the prime minister in parliament demanding transparency over a controversial six million dollar golf grant.",
+        "title_bn": "অস্ট্রেলীয় সংসদে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে বিরোধী ও সরকারের বিতর্ক",
+        "title_en": "Australian Opposition and Government Clash Over 6 Million Dollar Golf Grant",
+        "summary_bn": "অস্ট্রেলীয় সংসদের বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে রাজনৈতিক বিতর্ক বন্ধ করার আহ্বান জানিয়েছে।",
+        "summary_en": "The Australian opposition has urged Prime Minister Anthony Albanese to stop the spin regarding a six million dollar golf grant.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -327,23 +264,82 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T03:54:18+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার সংসদীয় অধিবেশনে ছয় মিলিয়ন ডলারের একটি গলফ অনুদান নিয়ে সরকার ও বিরোধী দলের মধ্যে তীব্র বাকবিতণ্ডা সংঘটিত হয়েছে।",
-        "lead_en": "Australian opposition lawmakers clashed with the prime minister in parliament demanding transparency over a controversial six million dollar golf grant.",
+        "published_at": "2026-10-27T04:46:35+00:00",
+        "lead_bn": "অস্ট্রেলীয় সংসদের বিরোধী দল প্রধানমন্ত্রী অ্যান্থনি আলবেনিজকে ৬ মিলিয়ন ডলারের গল্ফ অনুদান নিয়ে রাজনৈতিক বিতর্ক বন্ধ করার আহ্বান জানিয়েছে।",
+        "lead_en": "The Australian opposition has urged Prime Minister Anthony Albanese to stop the spin regarding a six million dollar golf grant.",
         "bullets_bn": [
-          "বিরোধী দলীয় ব্যবস্থাপক ডান তেহান প্রধানমন্ত্রীকে তার ভুল স্বীকার করার আহ্বান জানান",
-          "প্রধানমন্ত্রী অ্যান্টনি অ্যালবানিজ জানান যে রাজ্য সরকার এই দীর্ঘস্থায়ী সমস্যা সমাধানে এগিয়ে এসেছে",
-          "স্পিকার মিল্টন ডিক সংসদীয় প্রশ্নোত্তরের সময় নিয়ম মেনে চলার জন্য সতর্ক করেন"
+          "বিরোধী দলের ব্যবস্থাপক ড্যান তেহান প্রধানমন্ত্রীকে তার ভুল স্বীকার করার আহ্বান জানান",
+          "প্রধানমন্ত্রী আলবেনিজ জানান যে রাজ্য সরকার ক্লাবটির দীর্ঘদিনের সমস্যার সমাধানে এগিয়ে এসেছে",
+          "স্পিকার মিল্টন ডিক বিতর্ক চলাকালে কার্যপ্রণালী বিধি মেনে প্রশ্ন করার নির্দেশ দেন"
         ],
         "bullets_en": [
-          "Opposition business manager Dan Tehan demanded the prime minister stop defending the disputed grant.",
-          "Prime Minister Anthony Albanese defended the commitment noting the state government stepped in to fix a long-standing issue.",
+          "Opposition manager Dan Tehan asked the prime minister to admit he was wrong regarding the grant.",
+          "Prime Minister Anthony Albanese defended the commitment by noting the state government intervened to fix a long-standing issue.",
           "Speaker Milton Dick intervened to maintain parliamentary procedure during the heated exchange."
         ],
-        "impact_bn": "খবরটি সরাসরি সাধারণ নাগরিকদের প্রভাবিত করে না তবে সরকারি তহবিলের স্বচ্ছতা নিয়ে জনমনে সচেতনতা তৈরি করে",
-        "impact_en": "The debate highlights public fund transparency but has no direct immediate impact on everyday citizens.",
-        "details_bn": "অস্ট্রেলিয়ার ফেডারেল রাজনীতিতে সরকারি অনুদান বরাদ্দ ও তহবিল ব্যবস্থাপনা প্রায়ই বিতর্কের জন্ম দেয়। ৬ মিলিয়ন ডলারের এই গলফ অনুদান সংক্রান্ত বিতর্কটি মূলত স্থানীয় অবকাঠামো উন্নয়নে রাজনৈতিক প্রভাব এবং সরকারি অর্থ ব্যয়ের স্বচ্ছতা নিয়ে বিরোধী দলের প্রশ্ন তোলার প্রেক্ষাপটে শুরু হয়।",
-        "details_en": "Political debates over government grants and public spending frequently spark friction in the Australian parliament. The dispute surrounding the six million dollar golf grant underscores ongoing tensions regarding funding transparency, infrastructure commitments, and accountability between the ruling Labor government and the Coalition opposition."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অস্ট্রেলীয় পার্লামেন্টে সরকারি দল ও বিরোধীদের মধ্যে বিভিন্ন সরকারি অনুদান এবং সংসদীয় নিরাপত্তা ইস্যু নিয়ে তীব্র বিতর্ক চলছে। বিরোধী দল ক্ষমতাসীন প্রশাসনের নীতি ও সিদ্ধান্তগুলোর স্বচ্ছতা নিয়ে প্রশ্ন তুলছে, যার জবাবে সরকার তাদের পূর্বের প্রতিশ্রুতি এবং স্থানীয় প্রশাসনের সহযোগিতার কথা তুলে ধরে নিজেদের অবস্থান রক্ষা করছে।",
+        "details_en": "Tensions have escalated in the Australian parliament as the opposition scrutinizes government funding decisions, including a disputed six million dollar golf club grant. The exchange highlights ongoing political friction over government spending accountability and parliamentary conduct between the ruling Labor administration and the Coalition."
+      }
+    },
+    {
+      "story_id": "058fd26f-3571-52af-96d9-8c5a28d505c9",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#Microsoft",
+        "#TechLayoffs",
+        "#ArtificialIntelligence",
+        "#TechNews"
+      ],
+      "image_url": "https://th-i.thgim.com/public/sci-tech/technology/2l0iym/article71629639.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39K34A__v1__HighRes__IrelandEuAiSummit.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-27T03:00:21+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.2795,
+      "sources": [
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
+          "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+          "snippet": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তায় বিনিয়োগ বাড়াতে ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে মাইক্রোসফট",
+        "title_en": "Microsoft Offers Voluntary Exit Packages to 60000 Employees to Fund AI Expansion",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে প্রযুক্তি জায়ান্ট মাইক্রোসফট।",
+        "summary_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence expansion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T03:00:21+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে বিনিয়োগ বাড়াতে এবং খরচ কমাতে প্রায় ৬০ হাজার কর্মীকে স্বেচ্ছায় পদত্যাগের সুযোগ দিচ্ছে প্রযুক্তি জায়ান্ট মাইক্রোসফট।",
+        "lead_en": "Tech giant Microsoft is offering voluntary buyout packages to approximately 60,000 employees to cut costs and fund artificial intelligence expansion.",
+        "bullets_bn": [
+          "যুক্তরাষ্ট্র, কানাডা, ভারত ও ব্রিটেনের নির্দিষ্ট দলের ভাইস প্রেসিডেন্ট ও তার নিচের পদের কর্মীরা এই সুবিধার আওতায় থাকবেন।",
+          "মাইক্রোসফটের চিফ পিপলস অফিসার এমি কোলম্যান কর্মীদের পাঠানো এক মেমোতে এই স্বেচ্ছায় পদত্যাগের বিষয়টি নিশ্চিত করেছেন।",
+          "চলতি বছরে এটি মাইক্রোসফটের পক্ষ থেকে দেওয়া দ্বিতীয় স্বেচ্ছায় পদত্যাগের সুযোগ, যা কোম্পানির কর্মী ছাঁটাই নীতির অংশ।"
+        ],
+        "bullets_en": [
+          "Staff at the vice president level and below in select teams across the US, Canada, India, and Britain are eligible.",
+          "Chief People Officer Amy Coleman confirmed the voluntary exit offer through an internal memo sent to employees.",
+          "This marks the second voluntary buyout offer extended by Microsoft to its workforce within the current year."
+        ],
+        "impact_bn": "প্রযুক্তি খাতে কর্মরত ভারতীয় সাব-কন্টিনেন্টের পেশাজীবীদের ক্যারিয়ার পরিকল্পনা এবং বহুজাতিক প্রতিষ্ঠানে চাকরির স্থিতিশীলতায় এই সিদ্ধান্তের সরাসরি প্রভাব পড়তে পারে।",
+        "impact_en": "This downsizing move directly impacts tech professionals in the region, shifting career trajectories and altering job stability within major multinational corporations.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা বা এআই খাতে নিজেদের অবস্থান সুসংহত করতে এবং পরিচালনা ব্যয় কমাতে বড় ধরনের কাঠামোগত পরিবর্তন আনছে মাইক্রোসফট। এর আগে চলতি বছরের এপ্রিল মাসে মার্কিন যুক্তরাষ্ট্রের প্রায় সাত শতাংশ কর্মীকে আগাম অবসরের সুযোগ দিয়েছিল প্রতিষ্ঠানটি। সে সময় অফার পাওয়া কর্মীদের প্রায় ৩০ শতাংশ স্বেচ্ছায় অবসরের পরিকল্পনা গ্রহণ করেছিলেন। বর্তমান অফারটি বিশ্বব্যাপী তাদের মোট কর্মীবাহিনীর প্রায় এক চতুর্থাংশকে প্রভাবিত করতে পারে।",
+        "details_en": "Microsoft is undergoing a major structural shift to aggressively fund artificial intelligence while cutting operational expenses. Earlier this year in April, the company offered early retirement options to roughly seven percent of its US workforce, with about 30 percent of eligible staff accepting the plan. The current buyout offer encompasses approximately a quarter of the tech giant's global workforce."
       }
     }
   ]
