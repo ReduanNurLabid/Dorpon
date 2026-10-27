@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:33:31.982361",
+  "updated_at": "2026-10-27T12:00:47.708999",
   "total_stories": 6,
   "stories": [
     {
@@ -21,7 +21,7 @@
       "published_at": "2026-10-27T11:03:38+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 2.7306,
+      "rank_score": 2.1987,
       "sources": [
         {
           "name": "Channel i",
@@ -33,8 +33,8 @@
       "daily_buzz": {
         "title_bn": "বাণিজ্য ও বিনিয়োগ বাড়াতে বাংলাদেশ ও জাপানের প্রধানমন্ত্রীর দ্বিপক্ষীয় বৈঠক",
         "title_en": "Bangladesh and Japan Prime Ministers Hold Bilateral Meeting to Boost Trade",
-        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব জোরদারের প্রতিশ্রুতি ব্যক্ত করেছেন।",
-        "summary_en": "Top leaders of Bangladesh and Japan pledged to strengthen partnership in trade, infrastructure, and foreign investment during a bilateral meeting in Tokyo.",
+        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে এক বৈঠকে বাণিজ্য, অবকাঠামো উন্নয়ন ও বৈদেশিক বিনিয়োগ বাড়ানোর যৌথ প্রতিশ্রুতি ব্যক্ত করেছেন।",
+        "summary_en": "The top leaders of Bangladesh and Japan expressed a joint commitment to boost trade, infrastructure development, and foreign investment in Tokyo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -45,26 +45,138 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T11:03:38+00:00",
-        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব জোরদারের প্রতিশ্রুতি ব্যক্ত করেছেন।",
-        "lead_en": "Top leaders of Bangladesh and Japan pledged to strengthen partnership in trade, infrastructure, and foreign investment during a bilateral meeting in Tokyo.",
+        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে এক বৈঠকে বাণিজ্য, অবকাঠামো উন্নয়ন ও বৈদেশিক বিনিয়োগ বাড়ানোর যৌথ প্রতিশ্রুতি ব্যক্ত করেছেন।",
+        "lead_en": "The top leaders of Bangladesh and Japan expressed a joint commitment to boost trade, infrastructure development, and foreign investment in Tokyo.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের প্রধানমন্ত্রী দ্বিপক্ষীয় বৈঠকে বাণিজ্য এবং বৈদেশিক বিনিয়োগ বাড়ানোর ওপর গুরুত্বারোপ করেছেন।",
-          "বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি ও মহাকাশ গবেষণা খাতে সহযোগিতা বাড়ানোর বিষয়ে আলোচনা হয়েছে।",
-          "দুই দেশের শীর্ষ বৈঠকে পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয়ে একাধিক যৌথ সমঝোতা স্মারক স্বাক্ষরিত হয়েছে।"
+          "বাংলাদেশ ও জাপানের প্রধানমন্ত্রীরা টোকিওতে দ্বিপক্ষীয় সম্পর্ক জোরদার করার বিষয়ে একটি উচ্চপর্যায়ের বৈঠক করেছেন।",
+          "বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি, মহাকাশ গবেষণা এবং গভীর সমুদ্র বন্দর খাতে সহযোগিতা বাড়ানোর ওপর জোর দেওয়া হয়।",
+          "দুই দেশের মধ্যে অর্থনৈতিক অংশীদারত্ব বাড়াতে নির্দিষ্ট কিছু নতুন সমঝোতা স্মারক সই হয়েছে।"
         ],
         "bullets_en": [
-          "The prime ministers of Bangladesh and Japan emphasized expanding bilateral trade and foreign investment during their meeting.",
-          "Discussions focused on enhancing cooperation in energy security, technology, and space research.",
-          "Several joint memorandum of understandings were signed during the high-level meeting between the two countries."
+          "The prime ministers of Bangladesh and Japan held a high-level meeting in Tokyo to strengthen bilateral ties.",
+          "Discussions emphasized enhancing cooperation in energy security, technology, space research, and deep-sea ports.",
+          "Several new memorandums of understanding were signed to expand economic partnership between the two nations."
         ],
-        "impact_bn": "জাপানের সাথে প্রযুক্তি ও অর্থনৈতিক সহযোগিতা বাড়লে দেশের জ্বালানি খাতের উন্নয়ন এবং নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
-        "impact_en": "Enhanced technological and economic cooperation with Japan will support energy sector development and create new employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপান দীর্ঘকাল ধরে অর্থনৈতিক উন্নয়ন এবং অবকাঠামোগত সহযোগিতায় বিশ্বস্ত অংশীদার হিসেবে কাজ করে আসছে। বিশেষ করে মাতারবাড়ী গভীর সমুদ্র বন্দরসহ দেশের মেগা প্রকল্পে জাপানি অর্থায়ন ও প্রযুক্তিগত সহায়তা অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করেছে। সাম্প্রতিক এই উচ্চপর্যায়ের বৈঠক দুই দেশের মধ্যকার কৌশলগত অংশীদারত্বকে আরও সুদৃঢ় করার ধারাবাহিক প্রচেষ্টার অংশ।",
-        "details_en": "Bangladesh and Japan have long maintained a strong partnership in economic development and infrastructure cooperation. Japanese funding and technical assistance have played a vital role in Bangladesh's mega projects, including the Matarbari deep seaport. This recent high-level meeting is part of ongoing efforts to further solidify strategic ties between the two nations."
+        "impact_bn": "দ্বিপক্ষীয় বাণিজ্য ও প্রযুক্তি খাতে বিনিয়োগ বাড়লে দেশে নতুন কর্মসংস্থান এবং অর্থনৈতিক প্রবৃদ্ধির সুযোগ তৈরি হবে।",
+        "impact_en": "Increased bilateral trade and investment in technology will create new employment and economic growth opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুত্বপূর্ণ কূটনৈতিক ও অর্থনৈতিক সম্পর্ক রয়েছে। বাণিজ্য সম্প্রসারণ, জাপানি বিনিয়োগ আকর্ষণ এবং আঞ্চলিক নিরাপত্তা ও প্রযুক্তিগত উন্নয়নে দুই দেশ দীর্ঘদিন ধরে যৌথভাবে কাজ করে আসছে। টোকিওতে অনুষ্ঠিত এই সাম্প্রতিক বৈঠক সেই দ্বিপক্ষীয় অংশীদারত্বকে আরও এক ধাপ এগিয়ে নেওয়ার অংশ।",
+        "details_en": "Bangladesh and Japan share a long-standing diplomatic and economic relationship. Both countries have collaborated extensively on trade expansion, attracting Japanese investment, and advancing regional security and technology. This recent meeting in Tokyo represents a continuation of deepening that bilateral partnership."
       }
     },
     {
-      "story_id": "8e8ffc90-1f16-5100-abf8-6a71803be88b",
+      "story_id": "1d68a7ed-fb1c-5967-b8c1-1e498b110ae3",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-06%2Fpa14e258%2FSalauddin.jpeg?rect=0%2C9%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F5a36c819-05a2-4bfb-ac50-57dd67355acb%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-27T11:34:26+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.066,
+      "sources": [
+        {
+          "name": "প্রথম আলো রাজনীতি",
+          "url": "https://www.prothomalo.com/politics/hk2u17ebp5",
+          "title": "প্রধান উপদেষ্টার নিয়োগ পদ্ধতি নিয়ে জটিলতা",
+          "snippet": "প্রধান উপদেষ্টার নিয়োগ পদ্ধতি নিয়ে জটিলতা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "তত্ত্বাবধায়ক সরকার গঠনে প্রধান উপদেষ্টা নিয়োগের পদ্ধতি নিয়ে রাজনৈতিক অস্পষ্টতা অব্যাহত",
+        "title_en": "Political ambiguity persists over chief adviser appointment method for caretaker govt",
+        "summary_bn": "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার বিষয়ে ঐকমত্য থাকলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট প্রক্রিয়া নিয়ে এখনো রাজনৈতিক অস্পষ্টতা কাটেনি।",
+        "summary_en": "Political ambiguity remains over the exact selection process of the chief adviser despite consensus on restoring a caretaker government.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T11:34:26+00:00",
+        "lead_bn": "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার বিষয়ে ঐকমত্য থাকলেও প্রধান উপদেষ্টা নিয়োগের সুনির্দিষ্ট প্রক্রিয়া নিয়ে এখনো রাজনৈতিক অস্পষ্টতা কাটেনি।",
+        "lead_en": "Political ambiguity remains over the exact selection process of the chief adviser despite consensus on restoring a caretaker government.",
+        "bullets_bn": [
+          "নির্বাচনকালীন তত্ত্বাবধায়ক সরকার ব্যবস্থা পুনঃপ্রতিষ্ঠার নীতিগত বিষয়ে রাজনৈতিক দলগুলোর মধ্যে ঐকমত্য প্রতিষ্ঠিত হয়েছে",
+          "সংসদীয় বাছাই কমিটির মাধ্যমে প্রধান উপদেষ্টা নির্বাচনের প্রস্তাব জুলাই সনদে অন্তর্ভুক্ত থাকলেও বাছাই প্রক্রিয়া নিয়ে মতভিন্নতা রয়েছে",
+          "সংবিধান সংশোধন–সম্পর্কিত বিশেষ কমিটি অংশীজনদের কাছ থেকে প্রস্তাব আহ্বান করে নতুন রূপরেখা তৈরির কাজ চালিয়ে যাচ্ছে"
+        ],
+        "bullets_en": [
+          "Political parties have reached a consensus in principle regarding the reinstatement of an interim caretaker government system.",
+          "Although the July Charter includes a proposal for a parliamentary selection committee, differences remain over the screening process.",
+          "The special committee on constitutional reform is currently gathering proposals from stakeholders to finalize the new framework."
+        ],
+        "impact_bn": "নির্বাচনকালীন সরকার ব্যবস্থার রূপরেখা চূড়ান্ত না হওয়ায় দীর্ঘমেয়াদি রাজনৈতিক অনিশ্চয়তা সাধারণ নাগরিকদের ভোটাধিকার প্রয়োগের প্রক্রিয়াকে প্রভাবিত করতে পারে।",
+        "impact_en": "Failure to finalize the caretaker government framework risks creating political uncertainty that affects the voting rights of ordinary citizens.",
+        "details_bn": "সালে তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রবর্তিত হওয়ার পর ১৯৯৬ সালে তা সংবিধানে অন্তর্ভুক্ত হয় এবং ২০১১ সালে পঞ্চদশ সংশোধনীর মাধ্যমে বাতিল করা হয়। বর্তমান অন্তর্বর্তী সরকার সংবিধান সংশোধনের মাধ্যমে এই ব্যবস্থা পুনঃপ্রতিষ্ঠার উদ্যোগ নিয়েছে। তবে প্রধান উপদেষ্টা নিয়োগের প্রক্রিয়া ও সংসদীয় বাছাই কমিটি নিয়ে দলগুলোর মধ্যে মতপার্থক্য থাকায় সংবিধান সংশোধন কমিটি অংশীজনদের প্রস্তাব নিয়ে কাজ করছে।",
+        "details_en": "The caretaker government system was introduced in 1991, incorporated into the constitution in 1996, and abolished in 2011 through the 15th amendment. The current interim government has initiated moves to restore this system via constitutional reform. However, due to differences among parties over the chief adviser appointment process and parliamentary selection committee, the constitutional reform committee is actively reviewing stakeholder proposals."
+      }
+    },
+    {
+      "story_id": "fd027a64-5e09-5b6c-be7d-25021514e948",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F0g2f1akl%2FRangpurDH057620261027IMG-20261026-WA0040.jpg?rect=0%2C180%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-27T11:21:31+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3464,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/n7p2qnmgod",
+          "title": "রংপুরে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা-ভাঙচুর, পৃথক মামলায় দুজন গ্রেপ্তার",
+          "snippet": "রংপুরে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা-ভাঙচুর, পৃথক মামলায় দুজন গ্রেপ্তার"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের বাড়িতে হামলা ও ভাঙচুর, গ্রেপ্তার দুই",
+        "title_en": "Hindu Homes Attacked and Vandalized in Rangpur, Two Arrested",
+        "summary_bn": "ফেসবুকে ধর্ম অবমাননার অভিযোগকে কেন্দ্র করে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা ও ভাঙচুরের ঘটনায় পুলিশ দুজনকে গ্রেপ্তার করেছে।",
+        "summary_en": "Police arrested two individuals following attacks and vandalism on three Hindu homes in Rangpur over alleged religious defamation on Facebook.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T11:21:31+00:00",
+        "lead_bn": "ফেসবুকে ধর্ম অবমাননার অভিযোগকে কেন্দ্র করে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা ও ভাঙচুরের ঘটনায় পুলিশ দুজনকে গ্রেপ্তার করেছে।",
+        "lead_en": "Police arrested two individuals following attacks and vandalism on three Hindu homes in Rangpur over alleged religious defamation on Facebook.",
+        "bullets_bn": [
+          "ফেসবুকে ধর্ম অবমাননার ভিডিও ছড়ানোর অভিযোগে রংপুরের পীরগঞ্জে হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা, ভাঙচুর ও লুটপাট চালানো হয়।",
+          "এ ঘটনায় ভুক্তভোগী ও স্থানীয় বাদী হয়ে পীরগঞ্জ থানায় দুটি পৃথক মামলা করেন যেখানে আটজনের নাম উল্লেখ করা হয়।",
+          "পুলিশ অভিযান চালিয়ে শফিকুল ইসলাম ও অপর এক যুবককে গ্রেপ্তার করে আদালতে সোপর্দ করেছে এবং বর্তমানে পরিস্থিতি স্বাভাবিক রয়েছে।"
+        ],
+        "bullets_en": [
+          "Three Hindu homes were attacked, vandalized, and looted in Pirganj upazila of Rangpur following allegations of posting a blasphemous video on Facebook.",
+          "Two separate cases were filed at the Pirganj police station naming eight suspects in connection with the attacks and the alleged defamation.",
+          "Police arrested two suspects in separate raids and produced them before the court, ensuring the local law and order situation remains stable."
+        ],
+        "impact_bn": "এই ধরনের সাম্প্রদায়িক হামলা ধর্মীয় সংখ্যালঘু সম্প্রদায়ের নিরাপত্তা ও সামাজিক সম্প্রীতির ওপর নেতিবাচক প্রভাব ফেলে।",
+        "impact_en": "Such communal attacks negatively impact the security and social harmony of religious minority communities.",
+        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক ভিডিও প্রচারের জেরে রংপুরের পীরগঞ্জে উত্তেজনা ছড়িয়ে পড়ে। এর জেরে একদল লোক একটি গ্রামের হিন্দু সম্প্রদায়ের তিনটি বাড়িতে হামলা চালিয়ে আসবাবপত্র ভাঙচুর ও লুটপাট করে। ঘটনার পর ভুক্তভোগী পরিবার এবং স্থানীয় এক ব্যক্তি বাদী হয়ে দুটি পৃথক মামলা দায়ের করেন। পুলিশ ও গোয়েন্দা দল অভিযান চালিয়ে দুই মামলায় দুজনকে গ্রেপ্তার করে আদালতে পাঠিয়েছে। প্রশাসনের ঊর্ধ্বতন কর্মকর্তারা ঘটনাস্থল পরিদর্শন করে পরিস্থিতি শান্ত করার ও আইনি ব্যবস্থা নেওয়ার আশ্বাস দিয়েছেন।",
+        "details_en": "Tension flared in Pirganj upazila of Rangpur following the circulation of a video containing alleged religious defamation on social media. A group of people subsequently attacked three Hindu households, vandalizing furniture and looting valuables. Following the incident, victims and local residents filed two separate cases with the police station. Law enforcement agencies conducted raids and arrested two suspects, forwarding them to court. Local administration officials visited the scene to assure proper legal action and maintain public order."
+      }
+    },
+    {
+      "story_id": "bf701d3d-b947-57d7-96fa-d260041fcbdd",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -76,158 +188,106 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T11:25:12+00:00",
+      "published_at": "2026-10-27T11:59:24+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7815,
+      "importance_score": 2.4,
+      "rank_score": 0.9576,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/977064/%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE-%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A7%E0%A6%B0%E0%A6%BE-%E0%A7%AA%E0%A7%A6-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95",
-          "title": "নদীতে মা ইলিশ ধরা ৪০ জেলে আটক",
-          "snippet": "নদীতে মা ইলিশ ধরা ৪০ জেলে আটক"
+          "url": "https://www.banglatribune.com/politics/other-politics/977079/%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%9F-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+          "title": "সিপিবির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করার ঘটনায় গণসংহতি আন্দোলনের নিন্দা",
+          "snippet": "সিপিবির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করার ঘটনায় গণসংহতি আন্দোলনের নিন্দা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চাঁদপুরের পদ্মায় মা ইলিশ শিকারের সময় ৪০ জেলে আটক",
-        "title_en": "Forty Fishermen Detained for Catching Mother Hilsa in Padma River",
-        "summary_bn": "নৌপুলিশের বিশেষ অভিযানে পদ্মায়া ও মেঘনা নদীর বিভিন্ন পয়েন্ট থেকে মা ইলিশ শিকারের সময় ৪০ জেলেকে আটক করা হয়েছে।",
-        "summary_en": "Naval police detained forty fishermen for catching mother hilsa during a special drive in the Padma and Meghna rivers.",
+        "title_bn": "সিপিবি কার্যালয় অবরুদ্ধ ও হামলার ঘটনায় গণসংহতি আন্দোলনের তীব্র নিন্দা",
+        "title_en": "Gon সংহতি Andolon Condemns Attack and Blockade of CPB Central Office",
+        "summary_bn": "গণসংহতি আন্দোলন রাজধানীর পল্টনে সিপিবি কার্যালয় অবরুদ্ধ ও হামলার তীব্র নিন্দা জানিয়ে রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছে।",
+        "summary_en": "Gon সংহতি Andolon strongly condemned the blockade and attack on the CPB office in Paltan, demanding security for all political offices.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:25:12+00:00",
-        "lead_bn": "নৌপুলিশের বিশেষ অভিযানে পদ্মায়া ও মেঘনা নদীর বিভিন্ন পয়েন্ট থেকে মা ইলিশ শিকারের সময় ৪০ জেলেকে আটক করা হয়েছে।",
-        "lead_en": "Naval police detained forty fishermen for catching mother hilsa during a special drive in the Padma and Meghna rivers.",
+        "published_at": "2026-10-27T11:59:24+00:00",
+        "lead_bn": "গণসংহতি আন্দোলন রাজধানীর পল্টনে সিপিবি কার্যালয় অবরুদ্ধ ও হামলার তীব্র নিন্দা জানিয়ে রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার দাবি জানিয়েছে।",
+        "lead_en": "Gon সংহতি Andolon strongly condemned the blockade and attack on the CPB office in Paltan, demanding security for all political offices.",
         "bullets_bn": [
-          "পদ্মা ও মেঘনার নৌ-সীমানায় বিশেষ অভিযান চালিয়ে ৪০ জন জেলেকে আটক করে নৌপুলিশ।",
-          "অভিযানে ১০টি জেলে নৌকা এবং ৭ কেজি ইলিশ জব্দ করা হয় এবং অপ্রাপ্তবয়স্ক ৭ জনকে ছেড়ে দেওয়া হয়।",
-          "মা ইলিশ সংরক্ষণ অভিযানের অংশ হিসেবে নদীতে নিয়মিত টহল ও আইনগত ব্যবস্থা অব্যাহত রয়েছে।"
+          "সিপিবি কেন্দ্রীয় কার্যালয় অবরুদ্ধ করা এবং দলটির নেতা-কর্মীদের ওপর হামলার তীব্র নিন্দা জানিয়েছে গণসংহতি আন্দোলন।",
+          "দলের ভারপ্রাপ্ত প্রধান সমন্বয়কারী দেওয়ান আবদুর রশিদ নীলু ও নির্বাহী সমন্বয়কারী আবুল হাসান রুবেল যৌথ বিবৃতিতে এই নিন্দা জানান।",
+          "সব রাজনৈতিক কার্যালয়ের নিরাপত্তা নিশ্চিত করার জন্য অবিলম্বে কার্যকর পদক্ষেপ নেওয়ার দাবি জানিয়েছে দলটি।"
         ],
         "bullets_en": [
-          "Naval police detained forty fishermen during a special drive across the Padma and Meghna river boundaries.",
-          "Ten fishing boats and seven kilograms of hilsa were seized, while seven underage detainees were released.",
-          "Regular patrols and legal measures continue in rivers as part of the mother hilsa conservation drive."
+          "Gon সংহতি Andolon strongly condemned the blockade of the CPB central office and the assault on its party members.",
+          "Acting Chief Coordinator Dewan Abdur Rashid Nilu and Executive Coordinator Abul Hasan Rubel issued a joint statement.",
+          "The party demanded immediate and effective measures to ensure security for all political offices across the country."
         ],
-        "impact_bn": "মা ইলিশ রক্ষার এই অভিযানের ফলে ভবিষ্যতে বাজারে ইলিশের সরবরাহ ও উৎপাদন বৃদ্ধি পাবে।",
-        "impact_en": "This conservation drive ensures higher hilsa production and steady future supplies for local consumers.",
-        "details_bn": "জাতীয় সম্পদ ইলিশের প্রজনন নিরাপদ রাখতে সরকার প্রতিবছর নির্দিষ্ট সময়ে ইলিশ শিকারের ওপর নিষেধাজ্ঞা জারি করে থাকে। এই সময় মা ইলিশ ডিম ছাড়ে, যা দেশের সামুদ্রিক ও নদীবন্দরের মৎস্য সম্পদ রক্ষায় অত্যন্ত গুরুত্বপূর্ণ। আইন অমান্যকারীদের বিরুদ্ধে নিয়মিত মোবাইল কোর্ট ও বিশেষ অভিযান পরিচালনা করে আসছে আইনপ্রয়োগকারী সংস্থাগুলো।",
-        "details_en": "The government enforces seasonal fishing bans to protect the breeding season of hilsa, safeguarding national fisheries. Mother hilsa release eggs during this critical period, making strict river patrols essential. Law enforcement agencies regularly conduct mobile courts and special drives against violators to preserve aquatic biodiversity."
+        "impact_bn": "রাজনৈতিক সহিংসতা বন্ধ হলে সাধারণ নাগরিকদের নিরাপত্তা ও গণতান্ত্রিক পরিবেশ বজায় থাকে।",
+        "impact_en": "Ensuring political office security helps maintain public safety and a stable democratic environment for citizens.",
+        "details_bn": "রাজধানীর পল্টনে বাংলাদেশের কমিউনিস্ট পার্টির কেন্দ্রীয় কার্যালয় অবরুদ্ধ করা এবং নেতা-কর্মীদের ওপর হামলার ঘটনা ঘটে। এই ঘটনার পর দেশের বিভিন্ন রাজনৈতিক ও সামাজিক সংগঠন তীব্র প্রতিক্রিয়া জানিয়েছে। রাজনৈতিক দলগুলোর কার্যক্রম পরিচালনার জন্য নিরাপদ পরিবেশ এবং বাকস্বাধীনতা বজায় রাখার দাবি জোরালো হচ্ছে।",
+        "details_en": "Tensions arose following the blockade of the Communist Party of Bangladesh central office and attacks on its leaders in Paltan. The incident drew sharp reactions from various political and social platforms, amplifying demands for safe environments and freedom of political operations."
       }
     },
     {
-      "story_id": "5926b9a3-e02c-5362-83d8-d101bc384eb5",
-      "primary_category": "climate_environment",
+      "story_id": "9623508b-f043-52ff-84e0-db4f628454dc",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T11:17:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6555,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/barishal/977062/%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F",
-          "title": "ইলিশ রক্ষার অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলায় আহত ৭, কান ধরে ওঠবস",
-          "snippet": "ইলিশ রক্ষার অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলায় আহত ৭, কান ধরে ওঠবস"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সুগন্ধা নদীতে ইলিশ রক্ষা অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলা, আহত সাত",
-        "title_en": "Fisheries Officials Injured in Attack During Hilsa Conservation Drive on Sugandha River",
-        "summary_bn": "ঝালকাঠির নলছিটিতে ইলিশ রক্ষা অভিযান শেষে ফেরার পথে মৎস্য বিভাগের কর্মকর্তা ও কর্মচারীদের ওপর হামলা চালিয়েছে দুর্বৃত্তরা।",
-        "summary_en": "Miscreants attacked fisheries department officials and staff while returning from a hilsa conservation drive in Nalchity, Jhalakathi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:17:44+00:00",
-        "lead_bn": "ঝালকাঠির নলছিটিতে ইলিশ রক্ষা অভিযান শেষে ফেরার পথে মৎস্য বিভাগের কর্মকর্তা ও কর্মচারীদের ওপর হামলা চালিয়েছে দুর্বৃত্তরা।",
-        "lead_en": "Miscreants attacked fisheries department officials and staff while returning from a hilsa conservation drive in Nalchity, Jhalakathi.",
-        "bullets_bn": [
-          "সুগন্ধা নদীর কুমারখালী-জাঙ্গালিয়া এলাকায় মৎস্য বিভাগের অভিযানে নিয়োজিত দলের ওপর হামলার ঘটনা ঘটে।",
-          "জেলা মৎস্য বিভাগের জ্যেষ্ঠ সহকারী পরিচালক প্রণব কুমার বিশ্বাসসহ মোট সাতজন কর্মকর্তা ও কর্মী আহত হয়েছেন।",
-          "আইনশৃঙ্খলা রক্ষা বাহিনী হামলাকারীদের শনাক্ত ও গ্রেফতারে আইনি পদক্ষেপ গ্রহণের প্রক্রিয়া শুরু করেছে।"
-        ],
-        "bullets_en": [
-          "The attack targeted the fisheries team deployed for conservation duties in the Kumarkhali-Jangalia area of the Sugandha River.",
-          "A total of seven officials and staff, including district senior assistant fisheries director Pranab Kumar Biswas, sustained injuries.",
-          "Law enforcement agencies have initiated legal steps to identify and arrest the perpetrators involved in the assault."
-        ],
-        "impact_bn": "এই হামলার ঘটনায় নদী অঞ্চলে ইলিশসহ প্রাকৃতির মৎস্যসম্পদ রক্ষার মতো গুরুত্বপূর্ণ সরকারি অভিযান পরিচালনা ব্যাহত হওয়ার আশঙ্কা তৈরি হয়েছে।",
-        "impact_en": "The attack threatens to disrupt crucial government drives aimed at protecting hilsa and other natural aquatic resources in riverine regions.",
-        "details_bn": "মা ইলিশ সংরক্ষণ এবং প্রজনন নিরাপদ করার জন্য সরকার নির্ধারিত সময়ের জন্য সব ধরনের ইলিশ আহরণ নিষিদ্ধ করে থাকে। এই নিষেধাজ্ঞা বাস্তবায়নের অংশ হিসেবে দেশের বিভিন্ন নদনদীতে নিয়মিত অভিযান পরিচালনা করে আসছে মৎস্য বিভাগ। তবে প্রায়শই অসাধু মৎস্যজীবীদের বাধার মুখে পড়তে হয় মাঠপর্যায়ের কর্মকর্তাদের। সাম্প্রতিক এই হামলা মৎস্য কর্মকর্তাদের নিরাপত্তা ও আইন প্রয়োগের চ্যালেঞ্জগুলো আরও একবার সামনে নিয়ে এসেছে।",
-        "details_en": "The government enforces a seasonal ban on catching hilsa to ensure safe breeding and conservation. As part of enforcing this ban, the fisheries department routinely conducts drives across various rivers in the country. However, field-level officials frequently face resistance and violence from dishonest fishermen. This recent assault highlights the ongoing security challenges faced by officials enforcing conservation laws."
-      }
-    },
-    {
-      "story_id": "de80d85f-0615-5e2a-a971-731d8152d1c8",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "world_diplomacy",
         "governance_law",
         "society_education"
       ],
-      "region": "national",
+      "region": "international",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#IsraelElection",
+        "#Netanyahu",
+        "#MiddleEast"
       ],
-      "image_url": null,
+      "image_url": "https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=af84b5e1e617ea767e64aafb723fd840",
       "image_caption": null,
-      "published_at": "2026-10-27T11:32:37+00:00",
+      "published_at": "2026-10-27T11:54:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9623,
+      "importance_score": 2.12,
+      "rank_score": 0.805,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rangpur/977063/%E2%80%98%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%A8%E2%80%99",
-          "title": "‘আপনাদের সম্মানি দিচ্ছি, ভিডিওগুলো ডিলিট করে দেন’",
-          "snippet": "‘আপনাদের সম্মানি দিচ্ছি, ভিডিওগুলো ডিলিট করে দেন’"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+          "title": "Israel election live: polls open in most consequential vote in country’s history",
+          "snippet": "Israel election live: polls open in most consequential vote in country’s history"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নীলফামারীতে সরকারি বই কেজি দরে বিক্রির অভিযোগ প্রধান শিক্ষকের বিরুদ্ধে",
-        "title_en": "Headmaster Accused of Selling Free Government Textbooks by Weight in Nilphamari",
-        "summary_bn": "নীলফামারীর সৈয়দপুরে সরকারি স্কুল শিক্ষার্থীদের বিনামূল্যে বিতরণের বই টেন্ডার ছাড়াই কেজি দরে বিক্রির অভিযোগ উঠেছে ভারপ্রাপ্ত প্রধান শিক্ষকের বিরুদ্ধে।",
-        "summary_en": "The acting headmaster of a school in Nilphamari has been accused of selling free government textbooks by weight without tender.",
+        "title_bn": "ইসরায়েলে সাধারণ নির্বাচনের ভোটগ্রহণ শুরু, সংকটে নেতানিয়াহুর রাজনৈতিক ভবিষ্যৎ",
+        "title_en": "Polls Open in Israel General Election Amid Political Uncertainty for Netanyahu",
+        "summary_bn": "সালের সংঘাতের পর ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনের ভোটগ্রহণ শুরু হয়েছে, যা প্রধানমন্ত্রী নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণ করবে।",
+        "summary_en": "Polling has opened in Israel for a consequential general election following the 2023 conflict, determining Prime Minister Netanyahu's political future.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:32:37+00:00",
-        "lead_bn": "নীলফামারীর সৈয়দপুরে সরকারি স্কুল শিক্ষার্থীদের বিনামূল্যে বিতরণের বই টেন্ডার ছাড়াই কেজি দরে বিক্রির অভিযোগ উঠেছে ভারপ্রাপ্ত প্রধান শিক্ষকের বিরুদ্ধে।",
-        "lead_en": "The acting headmaster of a school in Nilphamari has been accused of selling free government textbooks by weight without tender.",
+        "published_at": "2026-10-27T11:54:40+00:00",
+        "lead_bn": "সালের সংঘাতের পর ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনের ভোটগ্রহণ শুরু হয়েছে, যা প্রধানমন্ত্রী নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের ভাগ্য নির্ধারণ করবে।",
+        "lead_en": "Polling has opened in Israel for a consequential general election following the 2023 conflict, determining Prime Minister Netanyahu's political future.",
         "bullets_bn": [
-          "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়ের ভারপ্রাপ্ত প্রধান শিক্ষক আফরোজ আহমেদ গোপনে সরকারি বই বস্তায় ভরে বিক্রি করেন",
-          "স্থানীয় এলাকাসী বইগুলো ভ্যানে তোলার দৃশ্য ভিডিও করে সামাজিক যোগাযোগ মাধ্যমে প্রকাশ করলে ঘটনা জানাজানি হয়",
-          "ঘটনার সত্যতা যাচাই করে অভিযুক্ত প্রধান শিক্ষকের বিরুদ্ধে প্রয়োজনীয় ব্যবস্থা নেওয়ার আশ্বাস দিয়েছে প্রশাসন"
+          "ইসরায়েলে প্রথম জাতীয় নির্বাচন শুরু হয়েছে যা গাজা সংঘাত এবং আঞ্চলিক যুদ্ধের পটভূমিতে অনুষ্ঠিত হচ্ছে।",
+          "জরিপ অনুযায়ী নেতানিয়াহুর জোট এবং বিরোধী দল উভয়ই কেনেসেটে একক সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থ হতে পারে।",
+          "নির্বাচনের ফলাফল ইসরায়েলের অভ্যন্তরীণ রাজনীতি এবং মধ্যপ্রাচ্যের ভূরাজনৈতিক স্থিতিশীলতাকে গভীরভাবে প্রভাবিত করবে।"
         ],
         "bullets_en": [
-          "Acting headmaster Afroz Ahmed secretly packed and sold government textbooks from the power board high school",
-          "Local residents exposed the incident by recording video footage of the books being loaded onto a van",
-          "School authorities assured an investigation and subsequent administrative action against the responsible teacher"
+          "Israel has commenced its first national parliamentary election backdrop of ongoing regional conflict since late 2023.",
+          "Polls indicate both Prime Minister Netanyahu's coalition and the opposition bloc may fall short of majority seats.",
+          "Election results are expected to significantly reshape domestic governance and broader Middle Eastern diplomatic relations."
         ],
-        "impact_bn": "শিক্ষার্থীদের বিনামূল্যে প্রাপ্য সরকারি বই অবৈধভাবে বিক্রির ফলে বঞ্চিত শিক্ষার্থীরা সঠিক সময়ে পঠনসামগ্রী পাওয়া নিয়ে সংকটে পড়েছে।",
-        "impact_en": "The illegal sale of free government textbooks deprives students of essential educational resources required for their studies.",
-        "details_bn": "নীলফামারীর সৈয়দপুর উপজেলার বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়ের শিক্ষার্থীদের জন্য বরাদ্দকৃত সরকারি বই গোপনে কেজি দরে বিক্রির চাঞ্চল্যকর তথ্য সামনে আসে। বিদ্যালয়ের ভারপ্রাপ্ত প্রধান শিক্ষক আফরোজ আহমেদ কোনো ধরনের টেন্ডার বা সরকারি নিয়মনীতি অনুসরণ না করে বস্তাবন্দী বই ভ্যানে করে বাইরে পাচার করছিলেন। এ সময় স্থানীয় সচেতন বাসিন্দারা পুরো ঘটনার ভিডিও ধারণ করে ফেসবুকে ছড়িয়ে দিলে বিষয়টি মুহূর্তেই ভাইরাল হয়ে পড়ে এবং স্থানীয় অভিভাবকদের মাঝে ক্ষোভের সৃষ্টি হয়।",
-        "details_en": "A controversy erupted in Nilphamari when free textbooks allocated for students of the Bangladesh Power Development Board High School were allegedly sold illegally by weight. Acting headmaster Afroz Ahmed reportedly loaded the books into vans for sale without any official tender process. Local residents captured video of the illicit transaction and shared it on social media, prompting widespread public outrage and demands for accountability."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সালের ৭ অক্টোবর হামাসের হামলার পর গাজায় দীর্ঘস্থায়ী সামরিক অভিযান পরিচালনা করে ইসরায়েল। প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর নেতৃত্বাধীন সরকারের সময়কালে পশ্চিম তীরে বসতি স্থাপন এবং আঞ্চলিক সংঘাত বৃদ্ধি পায়। এছাড়া নেতানিয়াহু বর্তমানে দুর্নীতির অভিযোগে বিচারের মুখোমুখি রয়েছেন। নির্বাচনটি তার দীর্ঘ রাজনৈতিক জীবনের জন্য একটি বড় অগ্নিপরীক্ষা হিসেবে দেখা হচ্ছে।",
+        "details_en": "Israel launched extensive military campaigns in Gaza following the October 7, 2023 attacks. Under Prime Minister Benjamin Netanyahu, the government faced international condemnation, regional escalation involving Iran, and surging settler violence in the West Bank. Netanyahu also faces ongoing corruption trials, making this election a defining referendum on his long tenure."
       }
     },
     {
@@ -240,14 +300,14 @@
       "region": "international",
       "tags": [
         "#TeamIndia",
-        "#AbhishekSharma"
+        "#T20Series"
       ],
       "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261027__D4JK77Z__v1__HighRes__CricketNzlInd-1793098399.jpg?resize=1800%2C1200&quality=80",
       "image_caption": null,
       "published_at": "2026-10-27T11:02:41+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.55,
-      "rank_score": 0.7674,
+      "rank_score": 0.6187,
       "sources": [
         {
           "name": "Al Jazeera English",
@@ -276,9 +336,9 @@
       ],
       "daily_buzz": {
         "title_bn": "নিউজিল্যান্ডকে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করল ভারত",
-        "title_en": "India Defeats New Zealand to Secure T20 Series Victory",
-        "summary_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় নিশ্চিত করেছে ভারত।",
-        "summary_en": "Abhishek Sharma powered India to a six-wicket victory over New Zealand, sealing the T20 series with two matches to spare.",
+        "title_en": "India Beat New Zealand to Secure T20 Series Victory",
+        "summary_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করেছে ভারত।",
+        "summary_en": "Abhishek Sharma hit a century to propel India to a six-wicket win and a series victory over New Zealand.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -287,85 +347,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T11:02:41+00:00",
-        "lead_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় নিশ্চিত করেছে ভারত।",
-        "lead_en": "Abhishek Sharma powered India to a six-wicket victory over New Zealand, sealing the T20 series with two matches to spare.",
+        "lead_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করেছে ভারত।",
+        "lead_en": "Abhishek Sharma hit a century to propel India to a six-wicket win and a series victory over New Zealand.",
         "bullets_bn": [
-          "অভিষেক শর্মা ও বৈভব সূর্যবংশীর দুর্দান্ত জুটিতে নিউজিল্যান্ডের দেওয়া ১৯৬ রানের লক্ষ্য সহজেই টপকে যায় ভারত।",
-          "মাত্র ৩৮ বলে ১১৩ রানের বিধ্বংসী ইনিংস খেলেন অভিষেক শর্মা, যাতে ছিল ৯টি চার ও ১১টি ছক্কা।",
-          "এই জয়ের ফলে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজে ৩-০ ব্যবধানে অপরাজিত লিড নিয়ে সিরিজ নিশ্চিত করল ভারত।"
+          "অভিষেক শর্মা ও বৈভব সূর্যবংশীর বিধ্বংসী জুটির ওপর ভর করে ভারত নিউজিল্যান্ডের দেওয়া ১৯৬ রানের লক্ষ্য তাড়া করে জয় নিশ্চিত করে।",
+          "অভিষেক মাত্র ৩৮ বলে নয়টি চার ও এগারোটি ছক্কার সাহায্যে ১১৩ রান করেন এবং বৈভব করেন ৪৫ রান।",
+          "এই জয়ের ফলে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজে তিন ম্যাচে জয় পেয়ে দুই ম্যাচ বাকি থাকতেই সিরিজ নিজেদের করে নেয় ভারত।"
         ],
         "bullets_en": [
-          "India successfully chased down New Zealand's total of 198 runs driven by a dominant opening partnership.",
-          "Abhishek Sharma smashed a blistering 113 runs off just 38 balls, featuring nine fours and 11 sixes.",
-          "The commanding victory gives India an unassailable 3-0 lead in the five-match Twenty20 International series."
-        ],
-        "impact_bn": "ক্রিকেটপ্রেমী তরুণ ও দর্শকদের মাঝে তীব্র উত্তেজনার সৃষ্টি করেছে ভারতের এই রেকর্ড গড়া জয়।",
-        "impact_en": "The dominant series win provides high-entertainment value for cricket fans and youth across the region.",
-        "details_bn": "ওয়েলিংটনে অনুষ্ঠিত সিরিজের তৃতীয় টি-টোয়েন্টি ম্যাচে প্রথমে ব্যাট করে ১৯০ রান সংগ্রহ করে স্বাগতিক নিউজিল্যান্ড। জবাবে ব্যাট করতে নেমে ভারতীয় ওপেনার অভিষেক শর্মা ও বৈভব সূর্যবংশী মাত্র ৭.১ ওভারে ১৩৩ রানের দুর্দান্ত জুটি গড়ে জয়ের পথ প্রশস্ত করেন। এই জয়ের মাধ্যমে দুই ম্যাচ হাতে রেখেই সিরিজ নিজেদের করে নিল ভারতীয় দল।",
-        "details_en": "Playing in Wellington, New Zealand set a target of 198 runs, which India chased down in just 13.2 overs. The record-breaking opening stand between Abhishek Sharma and Vaibhav Sooryavanshi completely dismantled the home team bowling attack, securing the series victory with two matches remaining."
-      }
-    },
-    {
-      "story_id": "b1309b4e-0b3b-5c94-9b20-ddd77dd5f885",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraelElection",
-        "#BenjaminNetanyahu"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
-      "image_caption": null,
-      "published_at": "2026-10-27T11:11:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.6901,
-      "sources": [
-        {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-          "snippet": "Turnout so far highest in decades as Israelis vote in pivotal election"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
-          "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
-          "snippet": "Israel election: Israelis vote for 1st time since October 7 terror attack"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলে দীর্ঘ চার দশকের মধ্যে সর্বোচ্চ ভোটার উপস্থিতিতে নির্বাচন অনুষ্ঠিত",
-        "title_en": "Israel Records Highest Voter Turnout in Decades During Pivotal Election",
-        "summary_bn": "ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনে বিগত চার দশকের বেশি সময়ের মধ্যে সর্বোচ্চ ভোটার উপস্থিতি রেকর্ড করা হয়েছে।",
-        "summary_en": "Israel records its highest voter turnout in over four decades during a pivotal national election.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:11:33+00:00",
-        "lead_bn": "ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনে বিগত চার দশকের বেশি সময়ের মধ্যে সর্বোচ্চ ভোটার উপস্থিতি রেকর্ড করা হয়েছে।",
-        "lead_en": "Israel records its highest voter turnout in over four decades during a pivotal national election.",
-        "bullets_bn": [
-          "ইসরায়েলের ভোটাররা দেশের ইতিহাসে অন্যতম গুরুত্বপূর্ণ সাধারণ নির্বাচনে নিজেদের ভোটাধিকার প্রয়োগ করেছেন",
-          "বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু এবং সাবেক সামরিক প্রধান গাদি আইসেনকোটের মধ্যে তীব্র প্রতিদ্বন্দ্বিতা চলছে",
-          "কোনো জোট একক সংখ্যাগরিষ্ঠতার জন্য প্রয়োজনীয় একষট্টি আসন অর্জনে ব্যর্থ হলে দীর্ঘ রাজনৈতিক অনিশ্চয়তা দেখা দিতে পারে"
-        ],
-        "bullets_en": [
-          "Israeli voters cast ballots in what is viewed as one of the most pivotal elections in the country",
-          "Incumbent Benjamin Netanyahu and former military chief Gadi Eisenkot are running in a tight race",
-          "Neither political bloc is projected to secure the sixty-one seats needed to form a majority government"
+          "India successfully chased down New Zealand's total of 198 runs driven by an aggressive partnership between Abhishek Sharma and Vaibhav Suryavanshi.",
+          "Abhishek scored 113 runs from 38 balls hitting nine fours and eleven sixes while Vaibhav contributed 45 runs.",
+          "India secured the five-match Twenty20 International series with two matches to spare by taking an unassailable lead."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইসরায়েলের এবারের নির্বাচন মূলত বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর দীর্ঘমেডিকাল শাসনের ওপর একটি গণভোট হিসেবে বিবেচিত হচ্ছে। গণতন্ত্র ও জাতীয় নিরাপত্তাকে কেন্দ্র করে গড়ে ওঠা নির্বাচনী প্রচারণায় ভোটারদের রেকর্ড উপস্থিতি লক্ষ্য করা গেছে। আনুপাতিক প্রতিনিধিত্ব ব্যবস্থার দেশটিতে কোনো একক দল সাধারণত সংখ্যাগরিষ্ঠতা পায় না, ফলে নির্বাচন পরবর্তী সময়ে জোট সরকার গঠনে রাজনৈতিক দলগুলোর মধ্যে দীর্ঘ দরকষাকষির ইতিহাস রয়েছে।",
-        "details_en": "The election is widely regarded as a referendum on the rule of incumbent Prime Minister Benjamin Netanyahu, shaped heavily by debates over democracy and security. Israel operates under a proportional representation system that consistently necessitates coalition governments. With polls showing an exceptionally tight race between Netanyahu and opposition figures like Gadi Eisenkot, the country faces potential weeks or months of political coalition wrangling."
+        "details_bn": "ওয়েলিংটনে অনুষ্ঠিত এই ম্যাচে নিউজিল্যান্ড প্রথমে ব্যাট করে নির্ধারিত ওভারে ১৯৮ রান সংগ্রহ করে। জবাবে ব্যাট করতে নেমে ভারতীয় ওপেনিং জুটি শুরু থেকেই আক্রমণাত্মক ব্যাটিং করে এবং মাত্র ১৩.২ ওভারেই জয়ের বন্দরে পৌঁছে যায়। এই জয়ের মাধ্যমে ভারত সিরিজে নিজেদের অপরাজিত আধিপত্য বিস্তার করে এবং সিরিজের ট্রফি নিশ্চিত করে।",
+        "details_en": "Playing in Wellington, New Zealand posted a competitive total of 198 runs in their allotted overs. In response, the Indian opening pair dismantled the bowling attack from the very first over, reaching the target in just 13.2 overs. This dominant performance sealed the five-match series for India with two games remaining."
       }
     }
   ]
