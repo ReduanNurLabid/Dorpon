@@ -1,229 +1,229 @@
 {
-  "updated_at": "2026-10-26T23:00:49.793881",
+  "updated_at": "2026-10-27T00:00:45.425406",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "4f7a31fb-410c-543c-a274-4efcb6e4fa11",
-      "primary_category": "governance_law",
+      "story_id": "e4a69dd9-2fb4-5ef6-92e3-b1367107c95a",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "governance_law"
+        "sports_fitness"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Sports",
+        "#BangladeshCricket"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T21:02:49+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.7995,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172338",
-          "title": "হামলার ১২ দিন পর মারা গেলেন গুরুদাসপুর পৌর ছাত্রদল নেতা শাকিল",
-          "snippet": "হামলার ১২ দিন পর মারা গেলেন গুরুদাসপুর পৌর ছাত্রদল নেতা শাকিল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাটোরের গুরুদাসপুরে হামলায় আহত ছাত্রদল নেতা শাকিলের মৃত্যু",
-        "title_en": "Chhatra Dal Leader Shakil Passes Away After Attack in Natore",
-        "summary_bn": "নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর মারা গেছেন।",
-        "summary_en": "Shakil Islam, member secretary of Gurudaspur upazila municipal Chhatra Dal, died twelve days after sustaining severe injuries from an assault.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T21:02:49+00:00",
-        "lead_bn": "নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর মারা গেছেন।",
-        "lead_en": "Shakil Islam, member secretary of Gurudaspur upazila municipal Chhatra Dal, died twelve days after sustaining severe injuries from an assault.",
-        "bullets_bn": [
-          "দুর্বৃত্তদের হামলায় গুরুতর আহত হওয়ার বারো দিন পর চিকিৎসাধীন অবস্থায় ছাত্রদল নেতা শাকিলের মৃত্যু ঘটে",
-          "নিহত শাকিল ইসলাম নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব হিসেবে দায়িত্ব পালন করছিলেন",
-          "হামলার ঘটনায় জড়িত অপরাধীদের চিহ্নিত করে আইনের আওতায় আনতে পুলিশি তদন্ত চলছে"
-        ],
-        "bullets_en": [
-          "Chhatra Dal leader Shakil passed away while undergoing treatment twelve days after sustaining severe injuries from an assault",
-          "The deceased Shakil Islam served as the member secretary of Gurudaspur municipal unit of Chhatra Dal in Natore",
-          "Police investigation is underway to identify the attackers involved in the assault and bring them under the law"
-        ],
-        "impact_bn": "রাজনৈতিক সহিংসতা ও আইনশৃঙ্খলার অবনতি নিয়ে স্থানীয় তরুণ ও সাধারণ মানুষের মধ্যে উদ্বেগ সৃষ্টি হয়েছে।",
-        "impact_en": "The incident has sparked concern among local youth and citizens regarding political violence and law enforcement.",
-        "details_bn": "নাটোরের গুরুদাসপুরে রাজনৈতিক বিরোধের জেরে পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের ওপর দুর্বৃত্তরা হামলা চালায়। এই হামলায় তিনি গুরুতর আহত হয়ে হাসপাতালে চিকিৎসাধীন ছিলেন। দীর্ঘ বারো দিন লড়াই করার পর চিকিৎসাধীন অবস্থায় তার মৃত্যু হয়। এই ঘটনার পর এলাকায় উত্তেজনা বিরাজ করছে এবং অপরাধীদের দ্রুত গ্রেপ্তারের দাবি উঠেছে।",
-        "details_en": "Shakil Islam, member secretary of the municipal Chhatra Dal, was brutally attacked by unidentified miscreants in Gurudaspur, Natore, following political rivalry. He suffered critical injuries and remained hospitalized for twelve days before succumbing to his injuries. The incident has triggered local tension with demands for the immediate arrest of the perpetrators."
-      }
-    },
-    {
-      "story_id": "2e53b64b-1d0e-5f0d-b18f-cfc49271d16a",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "national",
-      "tags": [
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T22:31:09+00:00",
+      "published_at": "2026-10-26T23:58:33+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7301,
+      "rank_score": 0.9491,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/weather/976957/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%87-%E0%A6%B6%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2%E0%A7%80-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A7%9C-%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%AC-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0%E0%A7%87-%E0%A7%A9",
-          "title": "ক্রমেই শক্তিশালী হচ্ছে ঘূর্ণিঝড় অর্ণব, বন্দরে ৩ নম্বর সতর্ক সংকেত",
-          "snippet": "ক্রমেই শক্তিশালী হচ্ছে ঘূর্ণিঝড় অর্ণব, বন্দরে ৩ নম্বর সতর্ক সংকেত"
+          "url": "https://www.banglatribune.com/sport/football/976958/%E0%A7%A8%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E2%80%99%E0%A6%85%E0%A6%B0-%E0%A6%9C%E0%A7%9F-%E0%A6%87%E0%A6%82%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF-%E0%A6%95%E0%A6%A4",
+          "title": "২৫ বছর পর ব্যালন ডি’অর জয় ইংলিশ তারকার, মেসি কত নম্বরে?",
+          "snippet": "২৫ বছর পর ব্যালন ডি’অর জয় ইংলিশ তারকার, মেসি কত নম্বরে?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঘূর্ণিঝড় অর্ণব আরও শক্তিশালী হয়ে অতি প্রবল রূপ ধারণ করতে পারে",
-        "title_en": "Cyclone Arnab Strengthens Further and May Intensify Significantly",
-        "summary_bn": "বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় অর্ণব আরও ঘনীভূত হয়ে অতি প্রবল ঘূর্ণিঝড়ে রূপ নিতে পারে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "summary_en": "The cyclone stationed in the Bay of Bengal may intensify further into a very severe storm, according to the Met Office.",
+        "title_bn": "বছর পর ব্যালন ডি’অর জিতে নিলেন ইংলিশ তারকা হ্যারি কেইন",
+        "title_en": "English Star Harry Kane Wins Ballon dOr After Twenty Five Years",
+        "summary_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ মৌসুম কাটিয়ে ব্যালন ডিঅর জিতেছেন ইংলিশ স্ট্রাইকার হ্যারি কেইন।",
+        "summary_en": "English striker Harry Kane won the Ballon dOr following an extraordinary season for Bayern Munich and England.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T22:31:09+00:00",
-        "lead_bn": "বঙ্গোপসাগরে অবস্থানরত ঘূর্ণিঝড় অর্ণব আরও ঘনীভূত হয়ে অতি প্রবল ঘূর্ণিঝড়ে রূপ নিতে পারে বলে জানিয়েছে আবহাওয়া অধিদফতর।",
-        "lead_en": "The cyclone stationed in the Bay of Bengal may intensify further into a very severe storm, according to the Met Office.",
+        "published_at": "2026-10-26T23:58:33+00:00",
+        "lead_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ মৌসুম কাটিয়ে ব্যালন ডিঅর জিতেছেন ইংলিশ স্ট্রাইকার হ্যারি কেইন।",
+        "lead_en": "English striker Harry Kane won the Ballon dOr following an extraordinary season for Bayern Munich and England.",
         "bullets_bn": [
-          "সমুদ্রবন্দরগুলোতে ৩ নম্বর স্থানীয় সতর্কতা সংকেত দেখিয়ে যেতে বলা হয়েছে",
-          "ঘূর্ণিঝড়টি ভারতের অন্ধ্র উপকূল অতিক্রম করতে পারে",
-          "আবহাওয়া অধিদফতর থেকে বিশেষ বিজ্ঞপ্তিতে এই তথ্য জানানো হয়েছে"
+          "ইংলিশ অধিনায়ক হ্যারি কেইন ফুটবল বিশ্বের মর্যাদাপূর্ণ ব্যালন ডিঅর পুরস্কার অর্জন করেছেন।",
+          "বায়ার্ন মিউনিখ ও জাতীয় দলের হয়ে বিগত মৌসুমে ৬৫ ম্যাচে মোট ৭৩টি গোল করেছেন তিনি।",
+          "সালে মাইকেল ওয়েনের পর প্রথম ইংলিশ ফুটবলার হিসেবে এই সম্মানজনক খেতাব জিতলেন তিনি।"
         ],
         "bullets_en": [
-          "Maritime ports have been advised to hoist local cautionary signal number three.",
-          "The cyclone is projected to cross the Andhra coast of India.",
-          "The meteorological department issued this update through a special bulletin."
+          "English captain Harry Kane secured the prestigious Ballon dOr award in global football.",
+          "He scored a total of seventy-three goals in sixty-five matches for club and country during the season.",
+          "He became the first English player to win this prestigious title since Michael Owen in two thousand one."
         ],
-        "impact_bn": "উপকূলীয় এলাকার বাসিন্দাদের সতর্ক থাকার এবং মাছ ধরার নৌকাগুলোকে নিরাপদ আশ্রয়ে থাকার পরামর্শ দেওয়া হয়েছে।",
-        "impact_en": "Coastal residents are advised to remain alert and fishing boats must stay in safe shelters.",
-        "details_bn": "বঙ্গোপসাগরে সৃষ্টি হওয়া ঘূর্ণিঝড় অর্ণব ক্রমান্বয়ে শক্তি সঞ্চয় করে উপকূলের দিকে এগিয়ে আসছে। আবহাওয়া অধিদফতর নিয়মিত বিশেষ বিজ্ঞপ্তির মাধ্যমে পরিস্থিতি পর্যবেক্ষণ করছে এবং সমুদ্রবন্দরগুলোতে সতর্কতা জারি রেখেছে। সম্ভাব্য এই দুর্যোগ মোকাবেলায় উপকূলীয় জেলাগুলোতে প্রস্তুতি নেওয়া হচ্ছে।",
-        "details_en": "Cyclone Arnab, formed in the Bay of Bengal, is steadily gathering strength as it moves towards the coast. The meteorological department is continuously monitoring the situation through special bulletins and has issued warnings at maritime ports. Preparations are underway in coastal districts to counter this potential disaster."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ড জাতীয় দলের হয়ে মাঠ মাতানো হ্যারি কেইন পুরো মৌসুমে নিজের গোল করার দক্ষতা প্রমাণ করেছেন। ধারাবাহিক পারফরম্যান্সের সুবাদে তিনি পেছনে ফেলেছেন অন্যান্য সেরাদের। দীর্ঘ আড়াই দশক পর কোনো ইংলিশ ফুটবলারের এই অর্জন দেশের ফুটবলে এক ঐতিহাসিক মাইলফলক হিসেবে যুক্ত হলো।",
+        "details_en": "Harry Kane dominated the pitch for both Bayern Munich and the England national team, showcasing his exceptional goalscoring prowess throughout the season. His consistent high-level performance propelled him past top competitors. This achievement marks a historic milestone for English football, as an Englishman claims the honor after a quarter of a century."
       }
     },
     {
-      "story_id": "05457e86-869d-5669-a089-ab4bf4e87b7e",
-      "primary_category": "society_education",
+      "story_id": "72c08dc2-8027-5b8d-afd8-3a784ed92b2c",
+      "primary_category": "sports_fitness",
       "interest_categories": [
-        "society_education",
+        "sports_fitness",
         "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Sports",
+        "#BangladeshCricket"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F9vqtmjyb%2F%E0%A6%8B%E0%A6%A3-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A7%80-%E0%A6%86%E0%A6%AE%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A6%AC.jpg?rect=0%2C93%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/ea50b12e-6c93-4a82-a979-6f83d1daccc1.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-26T22:30:00+00:00",
+      "published_at": "2026-10-26T23:28:37+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.7229,
+      "rank_score": 0.7143,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/religion/islam/1pe0wfrod3",
-          "title": "ব্যবসায় বরকত লাভে মুমিনের ৩ অভিজ্ঞতা",
-          "snippet": "ব্যবসায় বরকত লাভে মুমিনের ৩ অভিজ্ঞতা"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/ballon-dor-barcelona-spain-london-harry-kane-putellas/",
+          "title": "দীর্ঘ অপেক্ষার অবসান কেনের, ইতিহাস গড়লেন পুতেল্লাস",
+          "snippet": "দীর্ঘ অপেক্ষার অবসান কেনের, ইতিহাস গড়লেন পুতেল্লাস"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসলামি দৃষ্টিতে ব্যবসায় বরকত লাভে ৩টি গুরুত্বপূর্ণ অভিজ্ঞতা",
-        "title_en": "Three Key Experiences for Achieving Barakah in Business from Islamic Perspective",
-        "summary_bn": "ইসলামি জীবনদর্শনে ব্যবসা কেবল মুনাফা অর্জন নয়, বরং সমাজসেবা ও হালাল রিজিক অন্বেষণের একটি অন্যতম মাধ্যম।",
-        "summary_en": "In the Islamic worldview, business is not merely about profit-making, but a medium of public service and halal sustenance.",
+        "title_bn": "ব্যালন ডিঅর জিতলেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস",
+        "title_en": "Harry Kane and Alexia Putellas Win Ballon dOr Awards",
+        "summary_bn": "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ২০২৬ সালের ব্যালন ডিঅর জিতেছেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস।",
+        "summary_en": "Harry Kane and Alexia Putellas claimed the prestigious Ballon dOr awards at a ceremony in London.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
+          "sports_fitness",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T22:30:00+00:00",
-        "lead_bn": "ইসলামি জীবনদর্শনে ব্যবসা কেবল মুনাফা অর্জন নয়, বরং সমাজসেবা ও হালাল রিজিক অন্বেষণের একটি অন্যতম মাধ্যম।",
-        "lead_en": "In the Islamic worldview, business is not merely about profit-making, but a medium of public service and halal sustenance.",
+        "published_at": "2026-10-26T23:28:37+00:00",
+        "lead_bn": "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ২০২৬ সালের ব্যালন ডিঅর জিতেছেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস।",
+        "lead_en": "Harry Kane and Alexia Putellas claimed the prestigious Ballon dOr awards at a ceremony in London.",
         "bullets_bn": [
-          "ব্যবসার মূল উদ্দেশ্য মুনাফা অর্জনের পাশাপাশি সমাজকে সেবা দেওয়া এবং কল্যাণ নিশ্চিত করা।",
-          "সৎ ও বিশ্বস্ত ব্যবসায়ীদের মর্যাদা সম্পর্কে মহানবী সা. পরকালে নবী ও শহীদদের সাথে অবস্থানের কথা বলেছেন।",
-          "দৈনন্দিন কার্যক্রমে ইহসান ও আদল বজায় রাখলে ব্যবসায় প্রকৃত বরকত লাভ করা সম্ভব।"
+          "বায়ার্ন মিউনিখের স্ট্রাইকার হ্যারি কেন ছেলেদের বিভাগে এবং স্পেনের মিডফিল্ডার আলেক্সিয়া পুতেল্লাস মেয়েদের বিভাগে ব্যালন ডিঅর জিতেছেন।",
+          "কেন মৌসুমে ৫১ ম্যাচে ৬১ গোল করে ২০০১ সালের পর প্রথম ইংলিশ খেলোয়াড় হিসেবে এই পুরস্কার অর্জন করেন এবং পুতেল্লাস তৃতীয়বারের মতো এই সম্মান পান।",
+          "লন্ডনের প্যালাডিয়াম থিয়েটারে আনুষ্ঠানিকভাবে বিজয়ীদের হাতে এই মর্যাদাপূর্ণ ব্যক্তিগত পুরস্কার তুলে দেয়া হয়।"
         ],
         "bullets_en": [
-          "The core purpose of business extends beyond profit to include public service and positive societal change.",
-          "The Prophet SAW stated that truthful and trustworthy merchants will dwell with prophets and martyrs in the hereafter.",
-          "Maintaining Ihsan and Adl in daily operations is essential for attracting true Barakah in business."
+          "Bayern Munich striker Harry Kane won the mens Ballon dOr while Spanish midfielder Alexia Putellas claimed the womens honor.",
+          "Kane scored 61 goals in 51 matches to become the first English winner since 2001, while Putellas secured her third career award.",
+          "The prestigious individual football awards were officially presented to both players at the ceremony in London."
         ],
-        "impact_bn": "নৈতিক ও সৎ উপায়ে ব্যবসা পরিচালনা করলে সমাজে সুশাসন এবং ক্রেতা-বিক্রেতার মধ্যে পারস্পরিক আস্থা বৃদ্ধি পায়।",
-        "impact_en": "Ethical and honest business practices enhance social governance and mutual trust between buyers and sellers.",
-        "details_bn": "পুঁজিবাদী অর্থনীতিতে ব্যবসার মূল উদ্দেশ্য মুনাফা অর্জন হলেও ইসলামি জীবনদর্শনে এটি সমাজ কল্যাণ ও সেবামূলক কার্যক্রমের সাথে যুক্ত। একজন মুসলিম উদ্যোক্তা যখন সততা ও ন্যায়পরায়ণতার সাথে ব্যবসা পরিচালনা করেন, তখন তা ইবাদতে পরিণত হয়। প্রাত্যহিক কার্যক্রমে ইহসান ও ইনসাফ বজায় রাখা এবং চুক্তিবদ্ধ শ্রমিকদের অধিকার রক্ষা করা ইসলামি ব্যবসার অন্যতম মূলনীতি।",
-        "details_en": "While capitalist economics defines business solely through profit maximization, the Islamic worldview integrates commerce with social welfare and service. When a Muslim entrepreneur operates with honesty and justice, their work becomes an act of worship. Maintaining Ihsan and Adl in daily operations and safeguarding the rights of workers are core principles of Islamic commerce."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দীর্ঘ প্রতীক্ষার পর হ্যারি কেন তার ক্লাব বায়ার্ন মিউনিখের হয়ে দুর্দান্ত পারফরম্যান্সের সুবাদে প্রথমবার এই মর্যাদাপূর্ণ ব্যক্তিগত স্বীকৃতি অর্জন করেন। অন্যদিকে, বার্সেলোনা ছেড়ে লন্ডন সিটিতে যোগ দেয়া আলেক্সিয়া পুতেল্লাস নারী ফুটবলে নিজের অসামান্য ধারাবাহিকতা বজায় রেখে রেকর্ড গড়ে তৃতীয়বারের মতো ব্যালন ডিঅর নিজের করে নেন। আন্তর্জাতিক ও ক্লাব ফুটবলে তাদের এই সাফল্য বিশ্ব ফুটবলে নতুন অধ্যায়ের সূচনা করেছে।",
+        "details_en": "Harry Kane earned his first Ballon dOr following an exceptional scoring season with Bayern Munich, becoming the first Englishman to win the award since 2001. Meanwhile, Alexia Putellas secured her third career Ballon dOr after maintaining remarkable consistency for both Barcelona and the Spanish national team before her move to London City."
       }
     },
     {
-      "story_id": "ec7a9e05-68a4-57a8-b800-28f311358e1c",
+      "story_id": "ab1d5cd3-98e7-5489-8cf8-529bc18f8a38",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/16d82e.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-26T23:19:17+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.6612,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/ballon-dor-barcelona-spain-london-simon/",
+          "title": "কোপা ট্রফিতে ইয়ামালের হ্যাটট্রিক",
+          "snippet": "কোপা ট্রফিতে ইয়ামালের হ্যাটট্রিক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কোপা ট্রফিতে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন লামিনে ইয়ামাল",
+        "title_en": "Lamine Yamal Wins Kopa Trophy for Third Consecutive Year",
+        "summary_bn": "বার্সেলোনা ও স্পেনের ফরোয়ার্ড লামিনে ইয়ামাল কোপা ট্রফির ইতিহাসে প্রথম ফুটবলার হিসেবে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড়ের পুরস্কার জিতেছেন।",
+        "summary_en": "Barcelona and Spain forward Lamine Yamal has won the Kopa Trophy for the best under-21 player for the third consecutive year.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-26T23:19:17+00:00",
+        "lead_bn": "বার্সেলোনা ও স্পেনের ফরোয়ার্ড লামিনে ইয়ামাল কোপা ট্রফির ইতিহাসে প্রথম ফুটবলার হিসেবে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড়ের পুরস্কার জিতেছেন।",
+        "lead_en": "Barcelona and Spain forward Lamine Yamal has won the Kopa Trophy for the best under-21 player for the third consecutive year.",
+        "bullets_bn": [
+          "বার্সেলোনা ও স্পেনের তরুণ ফরোয়ার্ড লামিনে ইয়ামাল টানা তৃতীয়বারের মতো কোপা ট্রফি জয় করেন।",
+          "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ১৯ বছর বয়সী এই ফুটবলারের হাতে পুরস্কার তুলে দেওয়া হয়।",
+          "মেয়েদের বিভাগে টানা দ্বিতীয়বারের মতো বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন বার্সেলোনার ভিকি লোপেজ।"
+        ],
+        "bullets_en": [
+          "Barcelona and Spain forward Lamine Yamal secured the Kopa Trophy for the third consecutive time.",
+          "The award was presented to the 19-year-old footballer at a ceremony held at the Palladium Theatre in London.",
+          "Barcelona player Vicky Lopez was named the best young player in the women's category for the second consecutive year."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অনূর্ধ্ব-২১ বছর বয়সী সেরা ফুটবলারকে সম্মানিত করার জন্য ২০১৮ সালে কোপা ট্রফি চালু করা হয়। প্রথম আসরে এই পুরস্কার জিতেছিলেন ফ্রান্সের কাইলিয়ান এমবাপে। বার্সেলোনা ও স্পেনের জার্সিতে অসাধারণ গতি, ড্রিবলিং এবং আক্রমণ তৈরির দক্ষতার মাধ্যমে ইয়ামাল বয়সভিত্তিক ফুটবলে নিজের অসামান্য আধিপত্য বজায় রেখেছেন।",
+        "details_en": "The Kopa Trophy was introduced in 2018 to honor the best under-21 footballer, with France's Kylian Mbappe winning the inaugural edition. Lamine Yamal has maintained his dominance in youth football through exceptional speed, dribbling, and playmaking skills for both Barcelona and Spain."
+      }
+    },
+    {
+      "story_id": "8469ee95-e01e-556c-b891-66e2815881f1",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F3w14smov%2FItaly-protest-1.jpg?rect=0%2C73%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T20:37:07+00:00",
+      "published_at": "2026-10-26T23:13:29+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.6998,
+      "importance_score": 2.4,
+      "rank_score": 0.6316,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/4a7w0vdc6y",
-          "title": "ইতালিজুড়ে তরুণদের বিক্ষোভ-সহিংসতার পেছনে কী, উদ্বেগে প্রবাসী বাংলাদেশিরাও",
-          "snippet": "ইতালিজুড়ে তরুণদের বিক্ষোভ-সহিংসতার পেছনে কী, উদ্বেগে প্রবাসী বাংলাদেশিরাও"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172340",
+          "title": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের",
+          "snippet": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইতালিতে জীবনযাত্রার ব্যয় বৃদ্ধি ও আবাসনসংকটে তরুণদের তীব্র বিক্ষোভ",
-        "title_en": "Italian Youths Protest Rising Living Costs and Housing Crisis",
-        "summary_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি এবং আবাসনসংকটের প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
-        "summary_en": "Thousands of youths and students in Italy staged widespread protests against soaring living costs and severe housing crises.",
+        "title_bn": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের",
+        "title_en": "Pakistan Vows to Defend Saudi Arabia with Full Force",
+        "summary_bn": "সৌদি আরবের সার্বভৌমত্ব ও নিরাপত্তার ওপর কোনো হামলা হলে তা প্রতিহত করতে পূর্ণ শক্তি প্রয়োগের ঘোষণা দিয়েছে পাকিস্তান।",
+        "summary_en": "Pakistan has announced that it will use full force to defend Saudi Arabia against any attack on its security.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T20:37:07+00:00",
-        "lead_bn": "জীবনযাত্রার ব্যয় বৃদ্ধি এবং আবাসনসংকটের প্রতিবাদে ইতালির বিভিন্ন শহরে হাজারো তরুণ ও শিক্ষার্থী বিক্ষোভ করেছেন।",
-        "lead_en": "Thousands of youths and students in Italy staged widespread protests against soaring living costs and severe housing crises.",
+        "published_at": "2026-10-26T23:13:29+00:00",
+        "lead_bn": "সৌদি আরবের সার্বভৌমত্ব ও নিরাপত্তার ওপর কোনো হামলা হলে তা প্রতিহত করতে পূর্ণ শক্তি প্রয়োগের ঘোষণা দিয়েছে পাকিস্তান।",
+        "lead_en": "Pakistan has announced that it will use full force to defend Saudi Arabia against any attack on its security.",
         "bullets_bn": [
-          "জীবনযাত্রার ব্যয় বৃদ্ধি, আবাসনসংকট ও সরকারি নীতির প্রতিবাদে ইতালির রোম, মিলানসহ বিভিন্ন শহরে হাজারো তরুণ রাস্তায় নেমেছেন।",
-          "সহিংসতা ও লুটপাটের ঘটনায় ৪ হাজার ২৯২ জনের পরিচয় যাচাই এবং ৯ জনকে গ্রেপ্তার করেছে ইতালির জননিরাপত্তা বিভাগ।",
-          "শিক্ষা ও স্বাস্থ্যসেবায় সরকারি বিনিয়োগ বৃদ্ধি এবং সামরিক ব্যয় কমানোর দাবি জানিয়েছেন আন্দোলনকারী শিক্ষার্থীরা।"
+          "সৌদি আরবের ওপর যেকোনো ধরনের আক্রমণ প্রতিহত করতে পাকিস্তান পূর্ণ শক্তি প্রয়োগের অঙ্গীকার করেছে।",
+          "পাকিস্তানের প্রতিরক্ষামন্ত্রী খাজা আসিফ দেশটির এই দৃঢ় অবস্থান গণমাধ্যমে আনুষ্ঠানিকভাবে নিশ্চিত করেছেন।",
+          "দুই দেশের দীর্ঘদিনের সামরিক ও কৌশলগত মিত্রতার অংশ হিসেবে এই যৌথ প্রতিরক্ষা অবস্থান নেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Thousands of youths took to the streets across Rome and Milan protesting against rising living costs and housing shortages.",
-          "Italian public security authorities verified 4,292 individuals and arrested nine people following sporadic clashes and violence.",
-          "Demonstrating students demanded increased government investment in education and healthcare alongside reduced military spending."
+          "Pakistan committed to deploying its full military strength to counter any aggression against Saudi Arabia.",
+          "Pakistani Defence Minister Khawaja Asif officially confirmed the nation's firm security stance.",
+          "This joint defensive posture builds upon the long-standing military and strategic alliance between the two nations."
         ],
-        "impact_bn": "ইতালিতে বসবাসরত প্রবাসী বাংলাদেশিরাও তরুণদের এই বিক্ষোভ ও আইনশৃঙ্খলা পরিস্থিতির অবনতি নিয়ে গভীর উদ্বেগ প্রকাশ করেছেন।",
-        "impact_en": "Expatriate Bangladeshis living in Italy have also expressed deep concern over the ongoing youth protests and security situation.",
-        "details_bn": "ইতালিসহ ইউরোপের বিভিন্ন দেশে জীবনযাত্রার ব্যয় ও আবাসনসংকট তীব্র আকার ধারণ করেছে। টিকটক ও ইনস্টাগ্রামের মাধ্যমে সংগঠিত হয়ে জেন-জি প্রজন্মের তরুণেরা অনিশ্চিত ভবিষ্যৎ এবং চাকরির বাজারের বিরুদ্ধে আন্দোলন গড়ে তুলেছেন। বিক্ষোভকারীরা শিক্ষা ও স্বাস্থ্যে সরকারি অনুদান বাড়ানোর পাশাপাশি জীবনযাত্রার মান উন্নত করার দাবি জানাচ্ছেন।",
-        "details_en": "Living costs and housing crises have intensified across Italy and other European nations. Organized through TikTok and Instagram, Gen-Z youths have launched movements against an uncertain future and unstable job markets. Demonstrators are demanding increased government subsidies in education and healthcare alongside improved living standards."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "মধ্যপ্রাচ্যের ভূরাজনীতিতে নিরাপত্তা সহযোগিতা জোরদার করতে পাকিস্তান ও সৌদি আরব দীর্ঘদিন ধরে যৌথ সামরিক চুক্তি বজায় রেখে কাজ করে আসছে। আঞ্চলিক স্থিতিশীলতা রক্ষা এবং কৌশলগত অংশীদারিত্ব বজায় রাখার অংশ হিসেবে দুই দেশের মধ্যে এই প্রতিরক্ষা সহযোগিতা অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে থাকে।",
+        "details_en": "Pakistan and Saudi Arabia have long maintained close military cooperation and bilateral defense pacts to ensure regional stability. This alliance plays a crucial role in maintaining geopolitical balance and security partnerships in the Middle East."
       }
     },
     {
@@ -236,15 +236,15 @@
       "region": "international",
       "tags": [
         "#UnitedNations",
-        "#WestBank",
-        "#Israel"
+        "#IsraelPalestine",
+        "#WestBank"
       ],
       "image_url": "https://static.dw.com/image/79770273_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-26T23:00:49.793889+00:00",
+      "published_at": "2026-10-27T00:00:45.425413+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.689,
+      "rank_score": 0.6884,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -256,8 +256,8 @@
       "daily_buzz": {
         "title_bn": "ইসরায়েলের সামরিক অভিযানের তীব্র নিন্দা জানিয়েছে জাতিসংঘ",
         "title_en": "United Nations Condemns Israeli Military Operation in West Bank",
-        "summary_bn": "পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের গুরুতর লঙ্ঘন বলে অভিহিত করেছে জাতিসংঘ।",
-        "summary_en": "The United Nations strongly criticized the Israeli military operation in the West Bank, denouncing it as a grave violation of international law.",
+        "summary_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নিধনের শঙ্কা বলে অভিহিত করেছে জাতিসংঘ।",
+        "summary_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, citing grave violations of international law and displacement.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -265,83 +265,83 @@
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:00:49.793889+00:00",
-        "lead_bn": "পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের গুরুতর লঙ্ঘন বলে অভিহিত করেছে জাতিসংঘ।",
-        "lead_en": "The United Nations strongly criticized the Israeli military operation in the West Bank, denouncing it as a grave violation of international law.",
+        "published_at": "2026-10-27T00:00:45.425413+00:00",
+        "lead_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নিধনের শঙ্কা বলে অভিহিত করেছে জাতিসংঘ।",
+        "lead_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, citing grave violations of international law and displacement.",
         "bullets_bn": [
-          "পশ্চিম তীরে সামরিক অভিযান চালিয়ে ভবন গুঁড়িয়ে দেওয়া এবং এলাকা অবরুদ্ধ করার নির্দেশ দেন ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু।",
-          "ফিলিস্তিনিদের জোরপূর্বক উচ্ছেদ এবং সম্মিলিত শাস্তি প্রদান আন্তর্জাতিক আইনের গুরুতর লঙ্ঘন বলে মন্তব্য করেছেন জাতিসংঘের মানবাধিকার প্রধান ভলকার তুর্ক।",
-          "ইসরায়েলি আগ্রাসনের ফলে হাজার হাজার ফিলিস্তিনি বাস্তুচ্যুত হয়েছেন এবং তাদের স্বাধীনভাবে চলাচল ব্যাহত হচ্ছে।"
+          "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু হেব্রন শহরে ভবন ভাঙচুর এবং পশ্চিম তীর অবরুদ্ধ করার নির্দেশ দেন।",
+          "জাতিসংঘের মানবাধিকার প্রধান ভলকার তুর্ক জোরপূর্বক বাস্তুচ্যুতি এবং সম্মিলিত শাস্তিকে আন্তর্জাতিক আইনের গুরুতর লঙ্ঘন বলে অভিহিত করেছেন।",
+          "ইসরায়েলি সাধারণ নির্বাচনের ঠিক আগে এই সামরিক অভিযান ও উচ্ছেদের ঘটনা ঘটে।"
         ],
         "bullets_en": [
-          "Israeli Prime Minister Benjamin Netanyahu ordered military operations to demolish buildings and seal off the West Bank.",
-          "UN Human Rights Chief Volker Türk stated that aggressive operations and forced displacement constitute grave violations of international law.",
-          "The ongoing military crackdown has resulted in the forced displacement of thousands of Palestinians and destroyed properties."
+          "Israeli Prime Minister Benjamin Netanyahu ordered the demolition of buildings and the closure of the West Bank following a shootout.",
+          "UN Human Rights Chief Volker Turk stated that aggressive operations have forcibly displaced thousands of Palestinians and destroyed properties.",
+          "The military actions escalated just days ahead of the scheduled Israeli general election."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "পশ্চিম তীরে একটি বন্দুকযুদ্ধের ঘটনার পর ইসরায়েলি সামরিক বাহিনী হেবরন শহরে বড় ধরনের অভিযান শুরু করে। ওই সংঘাতে দুই ইসরায়েলি সেনা এবং দুই ফিলিস্তিনি বন্দুকধারী নিহত হন এবং আরও তিনজন সেনা আহত হন। এর জবাবে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ভবন ভাঙার ও এলাকা বন্ধের নির্দেশ দেন। সাধারণ নির্বাচনের ঠিক আগে নেওয়া এই পদক্ষেপে ফিলিস্তিনিদের উচ্ছেদ ও বসতি সম্প্রসারণ নিয়ে আন্তর্জাতিক মহলে তীব্র উদ্বেগ তৈরি হয়েছে।",
-        "details_en": "The escalation follows a shootout in the West Bank that left two Israeli soldiers and two Palestinian gunmen dead, prompting an Israeli military response. Prime Minister Benjamin Netanyahu ordered the demolition of buildings and the sealing of the West Bank just ahead of the general election. The United Nations and international rights commissioners raised serious concerns over the forcible displacement of thousands of Palestinians and expanding settlements."
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "পশ্চিম তীরে একটি গোলাগুলির ঘটনার জেরে ইসরায়েলি সামরিক বাহিনী হেব্রন শহরে বড় ধরনের অভিযান চালায়। এতে দুই ইসরায়েলি সেনা ও দুই ফিলিস্তিনি বন্দুকধারী নিহত হন এবং আরও সেনা আহত হন। এর পরই প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু অঞ্চলটিতে কঠোর ব্যবস্থা গ্রহণের নির্দেশ দেন। জাতিসংঘ এই পদক্ষেপে গভীর উদ্বেগ প্রকাশ করে জানিয়েছে যে বসতি সম্প্রসারণ এবং ফিলিস্তিনিদের উচ্ছেদ ওই অঞ্চলে মানবিক সংকট আরও বাড়িয়ে তুলছে।",
+        "details_en": "The Israeli military operation in Hebron was launched following a shootout that left two Israeli soldiers and two Palestinian gunmen dead. Prime Minister Benjamin Netanyahu subsequently ordered building demolitions and a strict closure of the West Bank. The UN expressed severe concern over expanding settlements, continuous evictions, and the worsening humanitarian crisis affecting thousands of displaced Palestinians."
       }
     },
     {
       "story_id": "2c77c9de-b2bc-5e67-bc24-202aecd90e49",
-      "primary_category": "governance_law",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
         "governance_law",
-        "tech_innovation",
-        "world_diplomacy"
+        "tech_innovation"
       ],
       "region": "international",
       "tags": [
-        "#HealthcareSafety",
-        "#AustraliaNews",
-        "#WorkplaceProtection"
+        "#FatimaPayman",
+        "#AustralianPolitics",
+        "#SenateEstimates"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/09681905fabaf078dfedd3f50f0c72508a1fb9d0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b824730aed8fa210e206baa90e2f49f",
+      "image_url": "https://i.guim.co.uk/img/media/808fc6ef5b275b5f1953ad049b5b5eaad5f8fe9a/1310_578_4277_3422/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b1884c1445759e84589fecea2a46086",
       "image_caption": null,
-      "published_at": "2026-10-26T22:51:37+00:00",
+      "published_at": "2026-10-26T23:54:23+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6259,
+      "rank_score": 0.6437,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
-          "snippet": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after a"
+          "title": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, Labor says",
+          "snippet": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, La"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভিক্টোরিয়া লেবার পার্টি স্বাস্থ্যকর্মীদের সুরক্ষায় হাসপাতালগুলোতে কঠোর নিষেধাজ্ঞা আনার প্রতিশ্রুতি দিয়েছে",
-        "title_en": "Victorian Labor Pledges Workplace Protection Orders to Safeguard Hospital Staff",
-        "summary_bn": "ভিক্টোরিয়ার প্রিমিয়ার বেন ক্যারল পুনর্নির্বাচিত হলে স্বাস্থ্যকর্মীদের সুরক্ষায় হাসপাতালগুলোতে কঠোর কর্মক্ষেত্র সুরক্ষা আদেশ সম্প্রসারণের ঘোষণা দিয়েছেন।",
-        "summary_en": "Victorian Premier Ben Carroll announced plans to expand workplace protection orders to hospitals to ban violent individuals from healthcare facilities.",
+        "title_bn": "অতিরিক্ত স্টাফ না দেওয়ায় প্রধানমন্ত্রীকে দায়ী করলেন সেনেটর ফাতিমা পেমান",
+        "title_en": "Senator Fatima Payman Criticizes Prime Minister Over Staff Allocation",
+        "summary_bn": "স্বাধীন সেনেটর ফাতিমা পেমান তার কার্যালয়ে অতিরিক্ত স্টাফের দাবি অবহেলা করায় প্রধানমন্ত্রীকে অভিযুক্ত করেছেন।",
+        "summary_en": "Independent Senator Fatima Payman accused the prime minister of neglecting requests for additional staff.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
           "governance_law",
-          "tech_innovation",
-          "world_diplomacy"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T22:51:37+00:00",
-        "lead_bn": "ভিক্টোরিয়ার প্রিমিয়ার বেন ক্যারল পুনর্নির্বাচিত হলে স্বাস্থ্যকর্মীদের সুরক্ষায় হাসপাতালগুলোতে কঠোর কর্মক্ষেত্র সুরক্ষা আদেশ সম্প্রসারণের ঘোষণা দিয়েছেন।",
-        "lead_en": "Victorian Premier Ben Carroll announced plans to expand workplace protection orders to hospitals to ban violent individuals from healthcare facilities.",
+        "published_at": "2026-10-26T23:54:23+00:00",
+        "lead_bn": "স্বাধীন সেনেটর ফাতিমা পেমান তার কার্যালয়ে অতিরিক্ত স্টাফের দাবি অবহেলা করায় প্রধানমন্ত্রীকে অভিযুক্ত করেছেন।",
+        "lead_en": "Independent Senator Fatima Payman accused the prime minister of neglecting requests for additional staff.",
         "bullets_bn": [
-          "ভিক্টোরিয়া লেবার পার্টি পুনর্নির্বাচিত হলে হাসপাতালগুলোতে কর্মক্ষেত্র সুরক্ষা আদেশ বা ডব্লিউপিও চালুর ঘোষণা দিয়েছে।",
-          "আইন অমান্যকারীদের ১২ মাস পর্যন্ত হাসপাতাল থেকে নিষিদ্ধ করা এবং ৫০ হাজার ডলার জরিমানা বা দুই বছরের কারাদণ্ডের বিধান রাখা হয়েছে।",
-          "হাসপাতালগুলোতে নিরাপত্তা জোরদার করতে এবং সিসিটিভি স্থাপনের জন্য ৩০ মিলিয়ন ডলারের একটি তহবিল গঠন করা হবে।"
+          "ফাতিমা পেমান দাবি করেছেন যে তার কার্যালয় পর্যাপ্ত স্টাফ ছাড়াই কাজ করছে এবং তিনি অতিরিক্ত একজন উপদেষ্টার অনুরোধ করেছেন।",
+          "তিনি বলেছেন যে তার স্টাফরা মানসিক ও শারীরিক হুমকির মুখে রয়েছেন এবং পর্যাপ্ত সহায়তা পাচ্ছেন না।",
+          "বাণিজ্যমন্ত্রী ডন ফারেল এই মন্তব্যকে চরম আপত্তিজনক ও অগ্রহণযোগ্য বলে প্রত্যাখ্যান করেছেন।"
         ],
         "bullets_en": [
-          "Victorian Labor announced plans to expand workplace protection orders to cover hospital settings if re-elected.",
-          "Offenders breaching the order face up to 12 months hospital bans, a fifty thousand dollar fine, or two years in prison.",
-          "A thirty million dollar fund will be established for hospitals to improve lighting, CCTV, and overall safety measures."
+          "Senator Fatima Payman argued her office is severely understaffed and criticized the delay in processing her request.",
+          "She stated her staff faced serious security hazards and burnout while waiting for an additional adviser.",
+          "Trade Minister Don Farrell strongly rejected her remarks as an outrageous suggestion during the Senate hearing."
         ],
-        "impact_bn": "হাসপাতালগুলোতে সহিংসতার শিকার হওয়া স্বাস্থ্যকর্মীরা আরও নিরাপদ কর্মপরিবেশ ও আইনি সুরক্ষা পাবেন।",
-        "impact_en": "Hospital staff will benefit from enhanced legal protections and safer working environments against workplace violence.",
-        "details_bn": "স্বাস্থ্যকর্মীদের ওপর ক্রমবর্ধমান হামলা ও অসদাচরণের ঘটনার প্রেক্ষাপটে এই নিরাপত্তা পদক্ষেপ গ্রহণের পরিকল্পনা করা হয়েছে। খুচরা বিক্রেতাদের জন্য পূর্বে চালু থাকা সুরক্ষা স্কিমের আদলে এই নতুন বিধান প্রণয়ন করা হচ্ছে, যার লক্ষ্য স্বাস্থ্যসেবা প্রদানকারীদের নিরাপদ রাখা। জরুরি চিকিৎসার ক্ষেত্রে নিয়ম শিথিল রেখে অপরাধীদের জন্য কঠোর আইনি শাস্তির বিধান রাখা হয়েছে।",
-        "details_en": "The proposed security measures come in response to rising concerns over violence and abuse directed at healthcare workers. Expanding the existing retail-focused workplace protection scheme aims to provide nurses, midwives, and hospital staff with robust legal safeguards against aggressive behavior while ensuring emergency care access remains protected."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অস্ট্রেলিয়ার পার্লামেন্টে লেবার পার্টি ছেড়ে স্বাধীন সেনেটর হিসেবে যোগ দেওয়ার পর থেকেই ফাতিমা পেমান তার কার্যালয়ের স্টাফ সংকট নিয়ে সোচ্চার ছিলেন। তিনি দাবি করেন যে অন্যান্য স্বাধীন এমপিদের মতো তারও অতিরিক্ত উপদেষ্টা পাওয়ার অধিকার রয়েছে। তবে নিরাপত্তা হুমকি ও মানসিক চাপের মুখে পড়েও প্রধানমন্ত্রী তার এই দাবি আমলে নেননি বলে তিনি অভিযোগ করেন। সেনেট হেয়ারিংয়ে এই বিষয়টি নিয়ে তীব্র বিতর্ক সৃষ্টি হয়।",
+        "details_en": "Senator Fatima Payman has faced ongoing staffing shortages after defecting from the Labor Party in 2024. She claimed her office has been unfairly denied additional advisory support compared to other independent politicians, despite escalating security concerns and psychosocial hazards faced by her staff. The dispute culminated in a heated exchange during a late-night Senate estimates hearing."
       }
     }
   ]
