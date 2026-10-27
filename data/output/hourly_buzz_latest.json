@@ -1,66 +1,64 @@
 {
-  "updated_at": "2026-10-27T15:00:48.434380",
+  "updated_at": "2026-10-27T16:00:48.477993",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "273c45fd-ee3e-5c42-8401-83cc00bd5b8e",
-      "primary_category": "governance_law",
+      "story_id": "1d2b2d1a-8e26-56e4-af9a-395ecf7f83b1",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-27T14:54:21+00:00",
+      "published_at": "2026-10-27T15:43:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.4975,
+      "rank_score": 2.2424,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/977134/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A6%AA%E0%A6%BE%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B2%E0%A7%8B%E0%A6%95%E0%A6%9C%E0%A6%A8%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%87%E0%A6%93-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF",
-          "title": "প্রধানমন্ত্রীর আশপাশের লোকজনকে আগেও দেখেননি, ভবিষ্যতেও দেখবেন না: হাসনাত আব্দুল্লাহ",
-          "snippet": "প্রধানমন্ত্রীর আশপাশের লোকজনকে আগেও দেখেননি, ভবিষ্যতেও দেখবেন না: হাসনাত আব্দুল্লাহ"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-minister-visits-jeras-lng-terminal-and-power-plant-in-japan/",
+          "title": "জাপানে জেরা’র এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন প্রধানমন্ত্রীর",
+          "snippet": "জাপানে জেরা’র এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "প্রধানমন্ত্রীর আশেপাশের লোকজনকে সাধারণ মানুষ দেখেনি বলে মন্তব্য হাসনাত আবদুল্লাহর",
-        "title_en": "Hasnat Abdullah Criticizes Inner Circle of Prime Minister Tarique Rahman",
-        "summary_bn": "জাতীয় নাগরিক পার্টির নেতার মতে প্রধানমন্ত্রীর কাছের ব্যক্তিরা সংকটকালে দেশ ছেড়ে চলে যাবেন।",
-        "summary_en": "National Citizen Party leader Hasnat Abdullah claims the prime minister inner circle will flee during crises.",
+        "title_bn": "জাপানের এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন করেছেন প্রধানমন্ত্রী তারেক রহমান",
+        "title_en": "Prime Minister Tarique Rahman Visits Japanese LNG Terminal and Power Plant",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান সফরকালে দেশটির চিবা প্রিফেকচারের ফুতসু শহরে জেরা পরিচালিত এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman inspected JERA's LNG terminal and power plant in Futtsu, Chiba Prefecture, during his Japan visit.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T14:54:21+00:00",
-        "lead_bn": "জাতীয় নাগরিক পার্টির নেতার মতে প্রধানমন্ত্রীর কাছের ব্যক্তিরা সংকটকালে দেশ ছেড়ে চলে যাবেন।",
-        "lead_en": "National Citizen Party leader Hasnat Abdullah claims the prime minister inner circle will flee during crises.",
+        "published_at": "2026-10-27T15:43:24+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান সফরকালে দেশটির চিবা প্রিফেকচারের ফুতসু শহরে জেরা পরিচালিত এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman inspected JERA's LNG terminal and power plant in Futtsu, Chiba Prefecture, during his Japan visit.",
         "bullets_bn": [
-          "জাতীয় নাগরিক পার্টির সিনিয়র যুগ্ম আহ্বায়ক হাসনাত আবদুল্লাহ মোহাম্মদপুরে দলীয় গণসংযোগ কর্মসূচিতে এই মন্তব্য করেন।",
-          "প্রধানমন্ত্রীর আশেপাশের ব্যক্তিদের সাধারণ মানুষ কখনো দেখেনি এবং ভবিষ্যতেও দেখবে না বলে তিনি দাবি করেন।",
-          "সংকট তৈরি হলে এই ব্যক্তিরা দেশ ছেড়ে আগের জায়গায় ফিরে যাবেন বলে তিনি সতর্ক করেছেন।"
+          "প্রধানমন্ত্রী তারেক রহমান জাপানের চিবা প্রিফেকচারের ফুতসু শহরে জেরা'র স্থলভিত্তিক এলএনজি টার্মিনাল ও বিদ্যুৎকেন্দ্র পরিদর্শন করেন।",
+          "পরিদর্শনকালে অর্থ ও পরিকল্পনামন্ত্রী আমির খসরু মাহমুদ চৌধুরী এবং জ্বালানি প্রতিমন্ত্রী অনিন্দ্য ইসলাম অমিতসহ উচ্চপর্যায়ের প্রতিনিধিদল উপস্থিত ছিলেন।",
+          "এই সফরের মাধ্যমে বাংলাদেশ ও জাপানের মধ্যে জ্বালানি ও প্রযুক্তি খাতের দ্বিপক্ষীয় সহযোগিতা আরও জোরদার হওয়ার সম্ভাবনা রয়েছে।"
         ],
         "bullets_en": [
-          "National Citizen Party senior joint convener Hasnat Abdullah made the remarks during a public outreach program in Mohammadpur.",
-          "He claimed ordinary citizens have never seen the individuals surrounding the prime minister and will not see them in the future.",
-          "He warned that these individuals will leave the country and return to their previous positions if a crisis arises."
+          "Prime Minister Tarique Rahman inspected JERA's land-based LNG terminal and power plant located in Futtsu, Chiba Prefecture.",
+          "Finance Minister Amir Khosru Mahmud Chowdhury and State Minister for Energy Anindya Islam Amit accompanied the Prime Minister during the visit.",
+          "The visit aims to strengthen bilateral cooperation and technology exchange between Bangladesh and Japan in the energy sector."
         ],
-        "impact_bn": "রাজনৈতিক নেতৃত্বের স্বচ্ছতা এবং জবাবদিহিতা নিয়ে জনমনে নতুন আলোচনার জন্ম দিয়েছে।",
-        "impact_en": "Sparks public discussion on political transparency and the accountability of leadership circles.",
-        "details_bn": "জাতীয় নাগরিক পার্টির পক্ষ থেকে রাজনৈতিক পরিসরে বিভিন্ন সময়ে নীতিনির্ধারক ও নেতাদের কার্যপ্রণালী নিয়ে নানা ধরনের সমালোচনা করা হয়ে থাকে। সাম্প্রতিক রাজনৈতিক পট পরিবর্তনের প্রেক্ষাপটে দলটির নেতারা দেশের বিভিন্ন স্থানে গণসংযোগ ও জনসভা পরিচালনা করছেন। এসব কর্মসূচিতে সরকারের ভেতরের বিভিন্ন বিষয় ও রাজনৈতিক সমীকরণ নিয়ে নানা মন্তব্য করছেন দলটির শীর্ষস্থানীয় নেতারা।",
-        "details_en": "The National Citizen Party has frequently criticized the working methods of policymakers and leaders in the political arena. Following recent political shifts, party leaders have been conducting public outreach and rallies across the country, where top figures often comment on government affairs and political equations."
+        "impact_bn": "জ্বালানি খাতের আধুনিক প্রযুক্তি ও অবকাঠামো উন্নয়নে এই সফর দেশের বিদ্যুৎ সরবরাহে দীর্ঘমেয়াদী ইতিবাচক প্রভাব ফেলবে।",
+        "impact_en": "Adopting advanced energy technologies from this visit will positively impact the nation's power supply infrastructure in the long term.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফর দুই দেশের মধ্যকার কূটনৈতিক ও অর্থনৈতিক অংশীদারিত্বকে নতুন উচ্চতায় নিয়ে যাওয়ার একটি অংশ। এর আগে জ্বালানি নিরাপত্তা নিশ্চিত করতে এবং উন্নত প্রযুক্তি ও বিদেশি বিনিয়োগ আকর্ষণে বাংলাদেশ বিভিন্ন দেশের সাথে পারস্পরিক সহযোগিতা বৃদ্ধি করে আসছে। এই পরিদর্শনের মাধ্যমে দেশের জ্বালানি খাতের আধুনিকায়ন ও এলএনজি আমদানির প্রক্রিয়া আরও গতিশীল হবে বলে আশা করা হচ্ছে।",
+        "details_en": "Prime Minister Tarique Rahman's visit to Japan is part of efforts to elevate bilateral and economic ties between the two nations. Bangladesh has been seeking to enhance mutual cooperation to ensure energy security and attract advanced foreign technology and investments. This inspection is expected to accelerate the modernization of the country's energy sector and streamline LNG import processes."
       }
     },
     {
-      "story_id": "601d5277-b8ea-5ffe-83ad-645da84cc53c",
+      "story_id": "a975c09b-51c2-599a-b997-68f665d25ed9",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,290 +68,277 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F91qom4zs%2FRajshahiDH.jpg?rect=0%2C36%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.channelionline.com/2026/10/10.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-27T14:58:53+00:00",
+      "published_at": "2026-10-27T15:41:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9522,
+      "importance_score": 6.6,
+      "rank_score": 2.1933,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/ox8df18tyi",
-          "title": "হুমকিতে বন্ধ, রাজশাহীতে পুলিশের উপস্থিতিতে খুলল সার ডিলারের দোকান",
-          "snippet": "হুমকিতে বন্ধ, রাজশাহীতে পুলিশের উপস্থিতিতে খুলল সার ডিলারের দোকান"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/the-high-court-has-granted-the-task-force-an-additional-6-months-for-the-investigation-into-the-sagar-runi-murder-case/",
+          "title": "সাগর-রুনি হত্যা মামলার তদন্তে টাস্কফোর্সকে আরও ৬ মাস সময় দিয়েছেন হাইকোর্ট",
+          "snippet": "সাগর-রুনি হত্যা মামলার তদন্তে টাস্কফোর্সকে আরও ৬ মাস সময় দিয়েছেন হাইকোর্ট"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রাজশাহীতে পুলিশের উপস্থিতিতে খুলল হুমকির মুখে বন্ধ থাকা সারের দোকান",
-        "title_en": "Fertilizer Shop Reopens in Rajshahi Under Police Protection Following Threats",
-        "summary_bn": "রাজশাহীর পবায় স্থানীয় সংসদ সদস্যের নির্দেশে ও পুলিশের নিরাপত্তায় বিএনপি ও যুবদল নেতাকর্মীদের হুমকিতে বন্ধ থাকা সারের দোকান পুনরায় চালু হয়েছে।",
-        "summary_en": "A fertilizer shop in Paba previously shut due to threats from political activists reopened under police protection and lawmaker directives.",
+        "title_bn": "সাগর-রুনি হত্যা মামলার তদন্তে টাস্কফোর্সকে ছয় মাস সময় দিলেন হাইকোর্ট",
+        "title_en": "High Court Grants Taskforce Six More Months to Probe Sagor-Runi Murder Case",
+        "summary_bn": "সাংবাদিক দম্পতি সাগর ও রুনি হত্যা মামলার তদন্ত প্রতিবেদন দাখিলের জন্য স্বরাষ্ট্র মন্ত্রণালয়ের টাস্কফোর্সকে আরও ছয় মাস সময় দিয়েছেন হাইকোর্ট।",
+        "summary_en": "The High Court has granted the home ministry taskforce an additional six months to submit the investigation report on the journalist couple Sagor-Runi murder.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T14:58:53+00:00",
-        "lead_bn": "রাজশাহীর পবায় স্থানীয় সংসদ সদস্যের নির্দেশে ও পুলিশের নিরাপত্তায় বিএনপি ও যুবদল নেতাকর্মীদের হুমকিতে বন্ধ থাকা সারের দোকান পুনরায় চালু হয়েছে।",
-        "lead_en": "A fertilizer shop in Paba previously shut due to threats from political activists reopened under police protection and lawmaker directives.",
+        "published_at": "2026-10-27T15:41:02+00:00",
+        "lead_bn": "সাংবাদিক দম্পতি সাগর ও রুনি হত্যা মামলার তদন্ত প্রতিবেদন দাখিলের জন্য স্বরাষ্ট্র মন্ত্রণালয়ের টাস্কফোর্সকে আরও ছয় মাস সময় দিয়েছেন হাইকোর্ট।",
+        "lead_en": "The High Court has granted the home ministry taskforce an additional six months to submit the investigation report on the journalist couple Sagor-Runi murder.",
         "bullets_bn": [
-          "সংসদ সদস্য শফিকুল হকের নির্দেশে এবং পুলিশের উপস্থিতিতে ডিলার সাইদুর রহমান হরিয়ান বাজারে তাঁর সার বিক্রির দোকান পুনরায় খোলেন।",
-          "চাঁদাবাজি ও মারধরের অভিযোগে করা মামলায় বিএনপি ও যুবদল দুই নেতাকে কারাগারে পাঠানোর পর তাঁদের অনুসারীরা ডিলারকে দোকান বন্ধের হুমকি দেন।",
-          "স্থানীয় বিএনপি ও প্রশাসনের সহযোগিতায় বর্তমানে বাজারে সার বিক্রি স্বাভাবিক রয়েছে এবং কৃষকদের ভোগান্তি এড়াতে কড়া নজরদারি রাখা হয়েছে।"
+          "স্বরাষ্ট্র মন্ত্রণালয়ের গঠিত তদন্ত টাস্কফোর্সকে মামলা শেষ করার জন্য আরও ছয় মাসের সময়সীমা বেঁধে দেওয়া হয়েছে।",
+          "মামলার সব নথিপত্রসহ টাস্কফোর্সের প্রধান এবং প্রসিকিউটর তানভীর জোহাকে আদালতে হাজির হওয়ার নির্দেশ দেওয়া হয়েছে।",
+          "তদন্তে সাবেক সেনা কর্মকর্তাসহ নতুন কয়েকজন ব্যক্তির সম্পৃক্ততার তথ্য উঠে এসেছে বলে আদালতকে জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Dealer Saidur Rahman reopened his fertilizer shop in Harian Bazar following instructions from local MP Shafiqul Haque and police presence.",
-          "Supporters of local BNP and Jubo Dal leaders threatened the dealer after two party leaders were jailed in an extortion and assault case.",
-          "Fertilizer sales have resumed peacefully in the local market with administrative support to prevent any disruption for farmers."
+          "The High Court extended the investigation deadline by six months for the home ministry formed taskforce.",
+          "The taskforce chief and prosecutor Tanvir Zoha have been ordered to appear in court with all case documents.",
+          "Investigators informed the court that former military officers and several others are allegedly linked to the murder."
         ],
-        "impact_bn": "স্থানীয় কৃষকেরা কোনো ধরনের ভোগান্তি ছাড়াই নির্ধারিত মূল্যে সার কিনতে পারছেন এবং সারের সরবরাহ স্বাভাবিক রয়েছে।",
-        "impact_en": "Local farmers are able to purchase fertilizers without disruption, ensuring uninterrupted agricultural supplies.",
-        "details_bn": "রাজশাহীর পবা উপজেলার হরিয়ান বাজারে বিসিআইসি অনুমোদিত সার ডিলার সাইদুর রহমানের দোকান সম্প্রতি রাজনৈতিক নেতাকর্মীদের হুমকির মুখে বন্ধ হয়ে যায়। কৃষকদের ৩০ বস্তা সার আটকে চাঁদা দাবি ও মারধরের অভিযোগে ডিলার একটি মামলা করলে আদালত দুই আসামিকে কারাগারে পাঠান। এর জেরে আসামিদের অনুসারীরা দোকান বন্ধ রাখতে হুমকি দেন। পরবর্তীতে সংসদ সদস্য ও পুলিশ প্রশাসনের হস্তক্ষেপে দোকান পুনরায় চালু হয় এবং পরিস্থিতি স্বাভাবিক রাখতে আইনশৃঙ্খলা বাহিনী সতর্ক অবস্থান নেয়।",
-        "details_en": "The BCIC-approved fertilizer shop in Harian Bazar of Paba upazila faced closure after the dealer was threatened following a legal case involving local political activists. The dealer had filed a case accusing individuals of extortion and assault for obstructing thirty sacks of fertilizer, leading to court-ordered detentions. Interventions by the local lawmaker and police subsequently ensured the reopening of the shop, restoring normal supply chains for farmers."
+        "impact_bn": "দীর্ঘদিন ধরে ঝুলে থাকা এই হাইপ্রোফাইল মামলার বিচার প্রক্রিয়া দ্রুত সম্পন্ন হলে আইনের শাসন ও বিচার বিভাগের প্রতি সাধারণ মানুষের আস্থা বাড়বে।",
+        "impact_en": "Expediting this long-standing high-profile murder trial will strengthen public confidence in the judicial system and the rule of law.",
+        "details_bn": "সালের ১১ ফেব্রুয়ারি রাজধানীর পশ্চিম রাজাবাজারের ভাড়া বাসায় খুন হন মাছরাঙা টেলিভিশনের বার্তা সম্পাদক সাগর সরওয়ার এবং এটিএন বাংলার জ্যেষ্ঠ প্রতিবেদক মেহেরুন রুনি। চাঞ্চল্যকর এই ডাবল মার্ডার মামলাটি দীর্ঘ ১৩ বছরেও তদন্ত শেষ না হওয়ায় বারবার তারিখ পেছানো হয়েছে। সম্প্রতি মামলার তদন্তের জন্য স্বরাষ্ট্র মন্ত্রণালয় একটি বিশেষ টাস্কফোর্স গঠন করে। এরই ধারাবাহিকতায় হাইকোর্ট তদন্তের সময়সীমা বাড়িয়ে নতুন নির্দেশনা প্রদান করলেন।",
+        "details_en": "Journalist couple Sagor Sarowar and Meherun Runi were brutally murdered in their West Rajabazar apartment in Dhaka on February 11, 2012. The high-profile double murder case has faced repeated delays as investigators failed to conclude the probe over a span of thirteen years. Recently, the home ministry formed a special taskforce to expedite the investigation, prompting the High Court to grant this extended timeline."
       }
     },
     {
-      "story_id": "f15e185b-aa0e-54f5-a4ef-aef295ef88c7",
-      "primary_category": "sports_fitness",
+      "story_id": "74639237-cb69-5d70-8244-619d83faa64d",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/trohpy-.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-27T14:48:15+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8543,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/shanto-bangladesh-bcb-west-indies-mirpur-test/",
-          "title": "ফাইনালে চোখ রেখে মিরপুর টেস্টে মনোযোগ শান্তর",
-          "snippet": "ফাইনালে চোখ রেখে মিরপুর টেস্টে মনোযোগ শান্তর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ওয়েস্ট ইন্ডিজের বিপক্ষে টেস্ট সিরিজ দিয়ে ছন্দে ফিরতে চায় বাংলাদেশ",
-        "title_en": "Bangladesh Aim to Return to Winning Ways Against West Indies",
-        "summary_bn": "বাংলাদেশ ক্রিকেট দল টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্নকে চাপ হিসেবে না নিয়ে অনুপ্রেরণা হিসেবে দেখছে।",
-        "summary_en": "Bangladesh captain Najmul Hossain Shanto views the World Test Championship final dream as inspiration rather than pressure.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T14:48:15+00:00",
-        "lead_bn": "বাংলাদেশ ক্রিকেট দল টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্নকে চাপ হিসেবে না নিয়ে অনুপ্রেরণা হিসেবে দেখছে।",
-        "lead_en": "Bangladesh captain Najmul Hossain Shanto views the World Test Championship final dream as inspiration rather than pressure.",
-        "bullets_bn": [
-          "টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার লক্ষ্য নিয়ে ওয়েস্ট ইন্ডিজের বিপক্ষে মাঠে নামছে বাংলাদেশ দল",
-          "মিরপুর শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামে ম্যাচটি শুরু হবে সকাল সাড়ে নয়টায়",
-          "ঘরের মাঠে বাকি চার টেস্টেই জয়ের লক্ষ্য নিয়ে নিজেদের প্রক্রিয়া অনুসরণ করতে চায় দল"
-        ],
-        "bullets_en": [
-          "Bangladesh face West Indies in the opening Test aiming to keep their World Test Championship final hopes alive.",
-          "The match begins at 9:30 AM at the Shere Bangla National Cricket Stadium in Mirpur.",
-          "Captain Najmul Hossain Shanto stressed sticking to their familiar plans rather than taking extra pressure."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের পয়েন্ট তালিকায় বর্তমানে চতুর্থ স্থানে রয়েছে বাংলাদেশ। চলমান চক্রে সেরা দুইয়ে থেকে ফাইনালে ওঠার সম্ভাবনা বাঁচিয়ে রাখতে ঘরের মাঠে বাকি চার টেস্টেই জয়ের লক্ষ্য নিয়ে এগোতে হবে দলকে। ওয়েস্ট ইন্ডিজের পর ইংল্যান্ডের বিপক্ষেও ঘরের মাঠে টেস্ট খেলবে টাইগাররা। সাম্প্রতিক সময়ে ধারাবাহিকতার অভাব থাকলেও ঘরের মাঠে নিজেদের শেষ পাঁচ টেস্টে অপরাজিত রয়েছে বাংলাদেশ। এই সিরিজটিকে নিজেদের ছন্দে ফেরার বড় সুযোগ হিসেবে দেখছে দল।",
-        "details_en": "Bangladesh currently sits fourth in the World Test Championship points table, needing wins in their remaining home matches to keep their top-two final hopes alive. After the West Indies series, Bangladesh will host England for two more Tests. Despite recent inconsistent performances across formats, the Tigers remain unbeaten in their last five home Tests, making this series a crucial opportunity to regain momentum."
-      }
-    },
-    {
-      "story_id": "81d82214-c0de-5bfb-bc1e-5c7a70d9dd1d",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Jamaat-3.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-27T15:54:15+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8145,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/jamaat-protested-the-news-of-golam-parwars-meeting-with-the-indian-intelligence-agency/",
+          "title": "একটি দেশের গোয়েন্দা সংস্থার সঙ্গে বৈঠকের খবরের প্রতিবাদ জামায়াতে ইসলামীর",
+          "snippet": "একটি দেশের গোয়েন্দা সংস্থার সঙ্গে বৈঠকের খবরের প্রতিবাদ জামায়াতে ইসলামীর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিদেশি গোয়েন্দা সংস্থার সাথে বৈঠকের খবর ভিত্তিহীন বলে দাবি জামায়াতের",
+        "title_en": "Jamaat Denies Reports of Meeting with Foreign Intelligence Agency",
+        "summary_bn": "বাংলাদেশ জামায়াতে ইসলামী দলের সেক্রেটারি জেনারেলের বিরুদ্ধে বিদেশি গোয়েন্দা সংস্থার সাথে গোপন বৈঠকের প্রকাশিত খবর সম্পূর্ণ অসত্য ও ষড়যন্ত্রমূলক বলে দাবি করেছে।",
+        "summary_en": "Bangladesh Jamaat-e-Islami has dismissed media reports regarding its secretary general holding a secret meeting with a foreign intelligence agency as baseless and conspiratorial.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T15:54:15+00:00",
+        "lead_bn": "বাংলাদেশ জামায়াতে ইসলামী দলের সেক্রেটারি জেনারেলের বিরুদ্ধে বিদেশি গোয়েন্দা সংস্থার সাথে গোপন বৈঠকের প্রকাশিত খবর সম্পূর্ণ অসত্য ও ষড়যন্ত্রমূলক বলে দাবি করেছে।",
+        "lead_en": "Bangladesh Jamaat-e-Islami has dismissed media reports regarding its secretary general holding a secret meeting with a foreign intelligence agency as baseless and conspiratorial.",
+        "bullets_bn": [
+          "জামায়াতে ইসলামীর সেক্রেটারি জেনারেলের বিদেশি গোয়েন্দা সংস্থার সঙ্গে বৈঠকের সংবাদ দৃঢ়ভাবে প্রত্যাখ্যান করেছে দলটি।",
+          "দলের সহকারী সেক্রেটারি জেনারেল এডভোকেট এহসানুল মাহবুব জুবায়ের প্রকাশিত খবরের তীব্র নিন্দা ও প্রতিবাদ জানিয়েছেন।",
+          "সংবাদ প্রকাশের ক্ষেত্রে গণমাধ্যমগুলোকে তথ্যের সত্যতা ও নির্ভুলতা যাচাই করার আহ্বান জানিয়েছে দলটি।"
+        ],
+        "bullets_en": [
+          "The party strongly rejected reports alleging a secret meeting involving its secretary general and a foreign intelligence agency.",
+          "Assistant Secretary General Advocate Ehsanul Mahbub Zubayer condemned the reports and demanded evidence from accusers.",
+          "The party urged media outlets to verify facts and ensure accuracy before publishing sensitive reports."
+        ],
+        "impact_bn": "নাগরিকদের বিভ্রান্তিকর ও যাচাইহীন তথ্য প্রচারের বিষয়ে সতর্ক থাকার আহ্বান জানানো হয়েছে।",
+        "impact_en": "Citizens are urged to remain cautious about unverified propaganda and misinformation in the media.",
+        "details_bn": "সম্প্রতি জামায়াতে ইসলামীর সেক্রেটারি জেনারেল মিয়া গোলাম পরওয়ারসহ তিন নেতার বিরুদ্ধে রাজধানীর বারিধারায় ভারতীয় গোয়েন্দা কর্মকর্তার সঙ্গে গোপন বৈঠকের অভিযোগ তোলেন প্রধানমন্ত্রীর রাজনৈতিক সহকারী মো। রাশেদ খাঁন। সামাজিক যোগাযোগ মাধ্যমে প্রকাশিত ওই দাবির পর রাজনৈতিক মহলে আলোচনার সৃষ্টি হয়, যার পরিপ্রেক্ষিতে জামায়াতে ইসলামীর পক্ষ থেকে আনুষ্ঠানিকভাবে প্রতিবাদলিপি পাঠানো হয়।",
+        "details_en": "Prime Minister's political assistant Md Rashed Khan recently claimed on social media that Jamaat Secretary General Mia Golam Parwar and two other leaders held a secret meeting with an Indian intelligence official in Baridhara. Following the widespread discussion sparked by this claim, Jamaat-e-Islami issued a formal statement denying the allegations."
+      }
+    },
+    {
+      "story_id": "31be9681-8d65-5ecd-a986-4cd4046914bb",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T14:47:48+00:00",
+      "published_at": "2026-10-27T15:43:30+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8506,
+      "importance_score": 4.8,
+      "rank_score": 1.6324,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/education/news/1172688",
-          "title": "জবির জনসংযোগ দপ্তরের নতুন পরিচালক অধ্যাপক আনিসুর রহমান",
-          "snippet": "জবির জনসংযোগ দপ্তরের নতুন পরিচালক অধ্যাপক আনিসুর রহমান"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/977144/%E0%A6%B8%E0%A7%8C%E0%A6%A6%E0%A6%BF%E0%A6%B0-%E0%A7%AA-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95-%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%A3%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%93-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A8",
+          "title": "সৌদির ৪ স্থানে ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন হামলার দাবি হুথিদের",
+          "snippet": "সৌদির ৪ স্থানে ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন হামলার দাবি হুথিদের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জগন্নাথ বিশ্ববিদ্যালয়ের জনসংযোগ দপ্তরের নতুন পরিচালক হিসেবে অধ্যাপক আনিসুর রহমানের নিয়োগ",
-        "title_en": "Professor Anisur Rahman Appointed as New Public Relations Director of JnU",
-        "summary_bn": "জগন্নাথ বিশ্ববিদ্যালয়ের জনসংযোগ, তথ্য ও প্রকাশনা দপ্তরের নতুন পরিচালক হিসেবে নিয়োগ পেয়েছেন ইসলামের ইতিহাস ও সংস্কৃতি বিভাগের অধ্যাপক ড. মো. আনিসুর রহমান।",
-        "summary_en": "Professor Dr. Md. Anisur Rahman from the Islamic History and Culture department has been appointed as the new public relations director of Jagannath University.",
+        "title_bn": "সৌদি আরবের চারটি স্থানে ব্যালিস্টিক ক্ষেপণাস্ত্র ও ড্রোন হামলা চালাল হুথিরা",
+        "title_en": "Houthi Rebels Launch Ballistic Missile and Drone Attacks on Four Saudi Locations",
+        "summary_bn": "ইয়েমেনের সশস্ত্র গোষ্ঠী হুথি সৌদি আরবের রাজধানী রিয়াদসহ চারটি গুরুত্বপূর্ণ সামরিক ও কৌশলগত স্থানে ক্ষেপণাস্ত্র ও ড্রোন হামলা চালিয়েছে।",
+        "summary_en": "Yemen armed group Houthi launched missile and drone strikes on four strategic military locations across Saudi Arabia including Riyadh.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T14:47:48+00:00",
-        "lead_bn": "জগন্নাথ বিশ্ববিদ্যালয়ের জনসংযোগ, তথ্য ও প্রকাশনা দপ্তরের নতুন পরিচালক হিসেবে নিয়োগ পেয়েছেন ইসলামের ইতিহাস ও সংস্কৃতি বিভাগের অধ্যাপক ড. মো. আনিসুর রহমান।",
-        "lead_en": "Professor Dr. Md. Anisur Rahman from the Islamic History and Culture department has been appointed as the new public relations director of Jagannath University.",
+        "published_at": "2026-10-27T15:43:30+00:00",
+        "lead_bn": "ইয়েমেনের সশস্ত্র গোষ্ঠী হুথি সৌদি আরবের রাজধানী রিয়াদসহ চারটি গুরুত্বপূর্ণ সামরিক ও কৌশলগত স্থানে ক্ষেপণাস্ত্র ও ড্রোন হামলা চালিয়েছে।",
+        "lead_en": "Yemen armed group Houthi launched missile and drone strikes on four strategic military locations across Saudi Arabia including Riyadh.",
         "bullets_bn": [
-          "জগন্নাথ বিশ্ববিদ্যালয়ের জনসংযোগ, তথ্য ও প্রকাশনা দপ্তরের পরিচালক পদে নতুন নিয়োগ দেওয়া হয়েছে।",
-          "ইসলামের ইতিহাস ও সংস্কৃতি বিভাগের অধ্যাপক ড. মো. আনিসুর রহমান এই দপ্তরের দায়িত্ব পেয়েছেন।",
-          "তিনি বিশ্ববিদ্যালয়ের জনসংযোগ দপ্তরের কার্যক্রম আরও গতিশীল করতে দায়িত্ব পালন শুরু করবেন।"
+          "সৌদি আরবের প্রতিরক্ষা মন্ত্রণালয় ভবন ও দুটি বিমানবন্দরের সামরিক উড়োজাহাজ লক্ষ্য করে হামলা চালিয়েছে হুথিরা।",
+          "বাব আল মানদেব প্রণালির কাছে সৌদি সমর্থিত বাহিনীর একটি অগ্রসর হওয়ার প্রচেষ্টা প্রতিহত করার দাবি করেছে গোষ্ঠীটি।",
+          "মধ্যপ্রাচ্যের সংঘাতপূর্ণ অঞ্চলে উত্তেজনা বাড়ার ফলে আন্তর্জাতিক বাণিজ্য ও জ্বালানি সরবরাহে নিরাপত্তা ঝুঁকি তৈরি হয়েছে।"
         ],
         "bullets_en": [
-          "A new director has been appointed to the Public Relations, Information and Publication Department of Jagannath University.",
-          "Professor Dr. Md. Anisur Rahman from the Department of Islamic History and Culture received this appointment.",
-          "He will assume responsibilities to further streamline the activities of the university public relations department."
+          "The Houthi group targeted the Saudi defense ministry building and military aircraft at two airports.",
+          "The armed group claimed to have thwarted an advance by Saudi backed forces near the Bab el Mandeb strait.",
+          "The escalation of conflict in the Middle East region poses security risks to international trade and fuel supplies."
         ],
-        "impact_bn": "এই নিয়োগের ফলে বিশ্ববিদ্যালয়ের জনসংযোগ ও তথ্য আদান-প্রদান প্রক্রিয়া আরও স্বচ্ছ ও দ্রুত হবে।",
-        "impact_en": "This appointment will make the university's public relations and information dissemination process more transparent and efficient.",
-        "details_bn": "বিশ্ববিদ্যালয়ের প্রশাসনিক কার্যক্রম গতিশীল করার অংশ হিসেবে বিভিন্ন দপ্তরে নিয়মিত রদবদল ও নতুন দায়িত্ব প্রদান করা হয়। এরই ধারাবাহিকতায় জগন্নাথ বিশ্ববিদ্যালয়ের জনসংযোগ, তথ্য ও প্রকাশনা দপ্তরে নতুন পরিচালক হিসেবে অধ্যাপক ড. মো. আনিসুর রহমানকে দায়িত্ব দেওয়া হয়েছে। তিনি বিশ্ববিদ্যালয়ের বিভিন্ন প্রচার ও জনসংযোগ সংক্রান্ত বিষয়গুলো তদারকি করবেন।",
-        "details_en": "As part of dynamic administrative operations, universities regularly reshuffle positions and assign new roles across departments. In this continuation, Professor Dr. Md. Anisur Rahman has been entrusted with the responsibility of director at the Public Relations, Information and Publication Department of Jagannath University to oversee public outreach and communications."
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন করে উত্তেজনা বাড়ায় জ্বালানি তেলের বাজার ও বৈশ্বিক সরবরাহে অস্থিরতা দেখা দেওয়ার শঙ্কা তৈরি হয়েছে।",
+        "impact_en": "Renewed tensions in the Middle East raise concerns of volatility in global fuel markets and supply chains.",
+        "details_bn": "ইয়েমেনের হুথি বিদ্রোহী এবং সৌদি আরব নেতৃত্বাধীন জোটের মধ্যে দীর্ঘদিনের সংঘাত মধ্যপ্রাচ্যের ভূরাজনীতিতে অন্যতম প্রধান সংকট। ইয়েমেনে সামরিক হস্তক্ষেপের পর থেকে হুথিরা নিয়মিত সৌদি আরবের তেল স্থাপনা ও সামরিক লক্ষ্যবস্তুতে ড্রোন ও ক্ষেপণাস্ত্র হামলা চালিয়ে আসছে। এই সংঘাত আঞ্চলিক স্থিতিশীলতা এবং বিশ্ববাজারে তেল সরবরাহের নিরাপত্তা বিঘ্নিত করে চলেছে।",
+        "details_en": "The long-standing conflict between Yemen Houthi rebels and the Saudi-led coalition remains a major crisis in Middle Eastern geopolitics. Ever since military intervention began in Yemen, Houthis have regularly targeted Saudi oil facilities and military sites with drones and missiles. This ongoing conflict continuously threatens regional stability and the security of global oil supplies."
       }
     },
     {
-      "story_id": "879061aa-3b70-5321-971f-ffc112df2880",
-      "primary_category": "world_diplomacy",
+      "story_id": "3dff77ff-e5dc-5c9a-aa2a-0ee9ea3e7014",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy"
+        "economy_business",
+        "world_diplomacy",
+        "tech_innovation"
       ],
       "region": "international",
       "tags": [
-        "#RussiaUkraineWar",
-        "#FinlandNorway",
-        "#VladimirPutin"
+        "#WorldBank",
+        "#ArtificialIntelligence"
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/107322815-1698232166266-gettyimages-1722805969-AA_13102023_1375096.jpeg?v=1698232229&w=1920&h=1080",
       "image_caption": null,
-      "published_at": "2026-10-27T14:23:05+00:00",
+      "published_at": "2026-10-27T15:55:57+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.7244,
+      "importance_score": 4.25,
+      "rank_score": 1.6351,
       "sources": [
         {
-          "name": "BBC World News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-          "title": "Norway and Finland leaders hold rare call with Putin",
-          "snippet": "Norway and Finland leaders hold rare call with Putin"
-        },
-        {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss",
-          "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
-          "snippet": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin"
-        },
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-          "title": "Norway’s PM defends rare call with Putin on Ukraine despite doubts among European leaders – Europe live",
-          "snippet": "Norway’s PM defends rare call with Putin on Ukraine despite doubts among European leaders – Europe live"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf",
-          "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
-          "snippet": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despit"
+          "name": "CNBC Global Economy",
+          "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+          "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+          "snippet": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নরওয়ে ও ফিনল্যান্ডের শীর্ষ নেতাদের সাথে ভ্লাদিমির পুতিনের বিরল ফোনালাপ",
-        "title_en": "Norway and Finland Leaders Hold Rare Phone Call with Vladimir Putin",
-        "summary_bn": "ইউক্রেন যুদ্ধের অবসান এবং কূটনৈতিক প্রচেষ্টার উপায় নিয়ে আলোচনা করতে ফিনল্যান্ড ও নরওয়ের শীর্ষ নেতারা রুশ রাষ্ট্রপতির সাথে বৈঠক করেছেন।",
-        "summary_en": "The leaders of Finland and Norway held a rare joint phone call with Vladimir Putin to discuss diplomatic efforts to end the Ukraine war.",
+        "title_bn": "কৃত্রিম বুদ্ধিমত্তার বর্ধিত ব্যয়ের পরও পুঁজির সংকট দেখছে না বিশ্বব্যাংক",
+        "title_en": "World Bank Sees No Capital Crisis Despite Rising AI Borrowing Costs",
+        "summary_bn": "বিশ্বব্যাংকের প্রধান অজয় বঙ্গ জানিয়েছেন যে, কৃত্রিম বুদ্ধিমত্তার কারণে সুদের হার বাড়লেও বৈশ্বিক বাজারে পর্যাপ্ত পুঁজি রয়েছে।",
+        "summary_en": "World Bank President Ajay Banga stated that global capital remains readily available despite AI demands driving up borrowing costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "economy_business",
+          "world_diplomacy",
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T14:23:05+00:00",
-        "lead_bn": "ইউক্রেন যুদ্ধের অবসান এবং কূটনৈতিক প্রচেষ্টার উপায় নিয়ে আলোচনা করতে ফিনল্যান্ড ও নরওয়ের শীর্ষ নেতারা রুশ রাষ্ট্রপতির সাথে বৈঠক করেছেন।",
-        "lead_en": "The leaders of Finland and Norway held a rare joint phone call with Vladimir Putin to discuss diplomatic efforts to end the Ukraine war.",
+        "published_at": "2026-10-27T15:55:57+00:00",
+        "lead_bn": "বিশ্বব্যাংকের প্রধান অজয় বঙ্গ জানিয়েছেন যে, কৃত্রিম বুদ্ধিমত্তার কারণে সুদের হার বাড়লেও বৈশ্বিক বাজারে পর্যাপ্ত পুঁজি রয়েছে।",
+        "lead_en": "World Bank President Ajay Banga stated that global capital remains readily available despite AI demands driving up borrowing costs.",
         "bullets_bn": [
-          "ফিনল্যান্ড ও নরওয়ের শীর্ষ নেতারা যুদ্ধ অবসানের উপায় খুঁজতে রুশ রাষ্ট্রপতির সাথে একটি বিরল যৌথ ফোনালাপ পরিচালনা করেন।",
-          "ফোনালাপটি নব্বই মিনিট স্থায়ী হয় এবং এতে উভয় পক্ষের মধ্যে বড় ধরণের মতপার্থক্য প্রকাশ পায়।",
-          "নর ও ফিনল্যান্ডর নেতাদের সাথে ফোনালাপের পর ইউক্রেনীয় রাষ্ট্রপতি ভলোদিমির জেলেনস্কি তাদের সাথে কথা বলেন।"
+          "বিশ্বব্যাংক প্রধান অজয় বঙ্গ উল্লেখ করেছেন যে কৃত্রিম বুদ্ধিমত্তার বর্ধিত চাহিদার মাঝেও বাজারে পুঁজির কোনো ঘাটতি নেই।",
+          "বিশ্বব্যাংক গত বছর ১১২ বিলিয়ন ডলার সংগ্রহ করেছে, যা তিন বছর আগের পরিমাণের তুলনায় প্রায় তিন গুণ বেশি।",
+          "উন্নয়নশীল বাজারগুলো সেতু ও রাস্তার মতো অবকাঠামো এবং ছোট পরিসরের কৃত্রিম বুদ্ধিমত্তা ব্যবহারে মনোযোগ দিচ্ছে।"
         ],
         "bullets_en": [
-          "The leaders of Finland and Norway initiated a rare joint phone call with Vladimir Putin to discuss peace negotiations for Ukraine.",
-          "The 90-minute call revealed big differences in views between the Nordic leaders and the Russian president.",
-          "Ukrainian President Volodymyr Zelensky subsequently spoke with the two Nordic leaders following their conversation with Putin."
+          "World Bank President Ajay Banga stated that capital availability remains unaffected despite rising AI demand driving up interest rates.",
+          "The World Bank successfully mobilized 112 billion dollars last year, which is roughly three times the amount recorded three years prior.",
+          "Emerging markets continue focusing investments on essential infrastructure like bridges and roads alongside smaller scale AI applications."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "রাশিয়া ২০২২ সালে ইউক্রেনে পূর্ণ মাত্রার আগ্রাসন শুরু করার পর থেকে পশ্চিমা ইউরোপীয় নেতাদের সাথে ক্রেমলিনের যোগাযোগের ঘটনা অত্যন্ত বিরল। ফিনল্যান্ড ও নরওয়ে উভয় দেশই রাশিয়ার সাথে সীমান্ত ভাগ করে নেয় এবং এই আলোচনা ইউরোপীয় নিরাপত্তা নিশ্চিত করার একটি কূটনৈতিক প্রচেষ্টা হিসেবে পরিচালিত হয়। ফিনল্যান্ডের রাজধানী হেলসিঙ্কি থেকে এই ফোনালাপটি পরিচালিত হয়, যা পরবর্তীতে ইউক্রেনের নেতৃত্বের সাথে সমন্বয় করা হয়।",
-        "details_en": "Direct contact between the Kremlin and European leaders has been exceptionally rare since Russia launched its full-scale invasion of Ukraine in 2022. Both Finland and Norway share a border with Russia, heightening their direct security concerns regarding the regional conflict. The 90-minute discussion, hosted from Helsinki, highlighted persistent geopolitical divisions while opening a rare direct diplomatic channel."
+        "impact_bn": "উন্নয়নশীল দেশগুলোতে অবকাঠামো ও প্রযুক্তি খাতে বৈদেশিক বিনিয়োগ প্রবাহ স্থিতিশীল রাখতে সহায়তা করবে।",
+        "impact_en": "Helps maintain stable foreign investment flows into infrastructure and technology sectors across developing regions.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তার প্রযুক্তিগত বিস্তারের ফলে বৈশ্বিক অর্থনৈতিক বাজারে অর্থায়ন ও সুদের হার বৃদ্ধি নিয়ে বিভিন্ন মহলে উদ্বেগ তৈরি হয়েছে। এর মধ্যেই বিশ্বব্যাংক তাদের তহবিল সংগ্রহ এবং বিনিয়োগের গতিপ্রকৃতি তুলে ধরেছে। সংস্থাটির মতে, উন্নত দেশগুলো বড় আকারের কৃত্রিম বুদ্ধিমত্তা প্রকল্পে অর্থায়ন করলেও উদীয়মান অর্থনীতিগুলো অবকাঠামো উন্নয়নে বেশি গুরুত্ব দিচ্ছে, যা তাদের বৈশ্বিক ঋণ সংকট থেকে সুরক্ষা দিচ্ছে।",
+        "details_en": "Rapid artificial intelligence expansion has triggered global discussions regarding rising borrowing costs and financing models. Amid these concerns, World Bank leadership highlighted robust capital mobilization figures. While developed economies prioritize massive AI infrastructure, emerging markets focus on physical infrastructure and scalable tech solutions, shielding them from severe debt yield pressures."
       }
     },
     {
-      "story_id": "cf3d4945-e566-5b06-b721-e858b5eec5cf",
-      "primary_category": "world_diplomacy",
+      "story_id": "cfd9d93a-8b89-5ac0-b215-3eaa73e31871",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy"
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#IsraelElection",
-        "#IranConflict",
-        "#Netanyahu"
+        "#IBonds",
+        "#RetirementPlanning",
+        "#InflationProtection"
       ],
-      "image_url": "https://static.dw.com/image/79759992_6.jpg",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T15:00:48.434389+00:00",
+      "published_at": "2026-10-27T15:25:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6886,
+      "importance_score": 4.25,
+      "rank_score": 1.2267,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-rdf",
-          "title": "Will elections in Israel change its Iran approach?",
-          "snippet": "Will elections in Israel change its Iran approach?"
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+          "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+          "snippet": "How to use I-bonds to create guaranteed, inflation-proof income in retirement"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলের সাধারণ নির্বাচন ইরানের সাথে দেশটির ভবিষ্যৎ কৌশল নির্ধারণ করবে",
-        "title_en": "Israeli General Election Set to Determine Country Approach Toward Iran",
-        "summary_bn": "হামাসের হামলার পর ইসরায়েলের সাধারণ নির্বাচন অনুষ্ঠিত হচ্ছে যা আঞ্চলিক নিরাপত্তা সংকট ও ইরানের সাথে দেশটির সম্পর্ক নির্ধারণ করবে।",
-        "summary_en": "Israel holds its first general election since the Hamas attack, which will shape the nation approach toward regional security and Iran.",
+        "title_bn": "অবসরকালীন নিশ্চিত ও মূল্যস্ফীতি প্রতিরোধী আয়ের জন্য আই-বন্ড ব্যবহার করুন",
+        "title_en": "Use I-bonds to create guaranteed and inflation-proof retirement income",
+        "summary_bn": "নতুন আই-বন্ডের সুদের হার ওঠানামা করলেও দীর্ঘমেয়াদী সঞ্চয় ও অবসরের কৌশল অপরিবর্তিত রাখা উচিত।",
+        "summary_en": "Fluctuating I-bond interest rates should not alter your long-term retirement savings strategy.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T15:00:48.434389+00:00",
-        "lead_bn": "হামাসের হামলার পর ইসরায়েলের সাধারণ নির্বাচন অনুষ্ঠিত হচ্ছে যা আঞ্চলিক নিরাপত্তা সংকট ও ইরানের সাথে দেশটির সম্পর্ক নির্ধারণ করবে।",
-        "lead_en": "Israel holds its first general election since the Hamas attack, which will shape the nation approach toward regional security and Iran.",
+        "published_at": "2026-10-27T15:25:00+00:00",
+        "lead_bn": "নতুন আই-বন্ডের সুদের হার ওঠানামা করলেও দীর্ঘমেয়াদী সঞ্চয় ও অবসরের কৌশল অপরিবর্তিত রাখা উচিত।",
+        "lead_en": "Fluctuating I-bond interest rates should not alter your long-term retirement savings strategy.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু ক্ষমতা ধরে রাখতে লড়ছেন এবং এই নির্বাচন ইসরায়েলের ইরান নীতির ভবিষ্যৎ নির্ধারণ করবে।",
-          "মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প নেতানিয়াহুকে সমর্থন করে সতর্ক করেছেন যে ভুল নেতা নির্বাচন মার্কিন জোটে প্রভাব ফেলবে।",
-          "ইসরায়েলি সামরিক বাহিনী ইরানের পারমাণবিক স্থাপনায় নতুন হামলার পরিকল্পনা করলেও মার্কিন বিরোধিতায় তা স্থগিত রয়েছে।"
+          "আই-বন্ড ব্যবহারের মাধ্যমে অবসরে নির্দিষ্ট ও মূল্যস্ফীতি প্রতিরোধী আয় নিশ্চিত করা সম্ভব।",
+          "আসন্ন নতুন আই-বন্ডের সুদের হার ৫.৫ শতাংশ বা ৫.৪ শতাংশ হতে পারে বলে ধারণা করা হচ্ছে।",
+          "সুদের হারের পরিবর্তনের চেয়ে দীর্ঘমেয়াদী আর্থিক পরিকল্পনা ও কৌশলকে অগ্রাধিকার দেওয়া উচিত।"
         ],
         "bullets_en": [
-          "Incumbent Prime Minister Benjamin Netanyahu fights to retain power in an election that dictates Israel future Iran policy.",
-          "US President Donald Trump endorsed Netanyahu, warning that choosing any other leader would affect the Washington alliance.",
-          "Media reports indicate tension over planned Israeli military strikes on Iranian infrastructure ahead of US elections."
+          "I-bonds help secure guaranteed and inflation-proof income streams for retirement.",
+          "The upcoming new I-bond interest rate is projected to be 5.5 percent or 5.4 percent.",
+          "Investors should maintain their core strategy rather than reacting to rate adjustments."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সালের অক্টোবর মাসে হামাসের হামলার পর এটি ইসরায়েলের প্রথম সাধারণ নির্বাচন। এই হামলার ফলে মধ্যপ্রাচ্যে গভীর নিরাপত্তা সংকট তৈরি হয় এবং ইসরায়েল ইরানের বিরুদ্ধে সামরিক অভিযান পরিচালনা করে। নির্বাচনে বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর রাজনৈতিক ভবিষ্যৎ এবং মার্কিন প্রশাসনের সাথে দেশটির কৌশলগত সম্পর্কের সমীকরণ নির্ধারিত হবে।",
-        "details_en": "This vote marks Israel first general election since the October 7, 2023 Hamas attack, which triggered a deep security crisis and a wider conflict with Iran. The election outcome tests incumbent Prime Minister Benjamin Netanyahu political survival and shapes Tel Aviv strategic alignment with Washington amid ongoing regional tensions."
+        "impact_bn": "সাধারণ বিনিয়োগকারী ও অবসরগামী ব্যক্তিরা মূল্যস্ফীতি সুরক্ষা সহ নিরাপদ আয়ের সুযোগ পান।",
+        "impact_en": "Ordinary investors and retirees gain access to secure income shielded against inflation.",
+        "details_bn": "আই-বন্ড হলো মার্কিন যুক্তরাষ্ট্রের ট্রেজারি বিভাগ কর্তৃক ইস্যুকৃত এক ধরণের সঞ্চয়পত্র, যা মূল্যস্ফীতির হাত থেকে বিনিয়োগের মূলধন ও রিটার্ন রক্ষা করতে বিশেষভাবে ডিজাইন করা হয়েছে। এগুলি দীর্ঘমেয়াদী বিনিয়োগকারীদের জন্য একটি নিরাপদ আর্থিক মাধ্যম হিসেবে কাজ করে, যা বাজারের অস্থিরতা থেকে সুরক্ষা প্রদান করে।",
+        "details_en": "I-bonds are savings securities issued by the US Department of the Treasury designed to protect investors from inflation by combining a fixed rate of interest with an inflation rate that changes semi-annually. They serve as a secure financial instrument for long-term investors seeking to shield their capital from market volatility."
       }
     }
   ]
