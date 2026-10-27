@@ -1,66 +1,121 @@
 {
-  "updated_at": "2026-10-27T08:00:49.904238",
+  "updated_at": "2026-10-27T09:00:45.302673",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "f1b265b6-66ef-5475-96be-17ac3a7e8ea0",
-      "primary_category": "governance_law",
+      "story_id": "023b225b-825d-5934-9b67-df8c3f1942df",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "governance_law",
         "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T07:41:30+00:00",
+      "published_at": "2026-10-27T08:31:31+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2018,
+      "importance_score": 9.0,
+      "rank_score": 2.7465,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977008/%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%80-%E0%A6%B8%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A6%AC%E0%A7%87%E0%A6%A8",
-          "title": "আইজিপির বিষয়ে পরবর্তী সিদ্ধান্ত বিবেচনা করবেন প্রধানমন্ত্রী: ড. জাহেদ",
-          "snippet": "আইজিপির বিষয়ে পরবর্তী সিদ্ধান্ত বিবেচনা করবেন প্রধানমন্ত্রী: ড. জাহেদ"
+          "url": "https://www.banglatribune.com/national/977020/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%87-%E0%A6%B0%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
+          "title": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারেই রয়েছে: প্রধানমন্ত্রী",
+          "snippet": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারেই রয়েছে: প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইজিপির বক্তব্যের বিষয়ে চূড়ান্ত সিদ্ধান্ত নেবেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister to Decide on IGP Remarks and Govt Stance",
-        "summary_bn": "পুলিশের মহাপরিদর্শকের বিতর্কিত ক্রসফায়ার মন্তব্য ও দেশের সামগ্রিক আইনশৃঙ্খলা পরিস্থিতি নিয়ে সরকারের অবস্থান স্পষ্ট করেছেন প্রধানমন্ত্রীর উপদেষ্টা।",
-        "summary_en": "The Prime Minister's adviser clarified the government stance on the IGP's controversial remarks and overall national security.",
+        "title_bn": "রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য প্রধানমন্ত্রীর",
+        "title_en": "Permanent Solution to Rohingya Crisis Lies in Myanmar Says Prime Minister",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর সাথে বৈঠকে রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman stated during a meeting with Japan's Prime Minister that the permanent solution to the Rohingya crisis lies in Myanmar.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T07:41:30+00:00",
-        "lead_bn": "পুলিশের মহাপরিদর্শকের বিতর্কিত ক্রসফায়ার মন্তব্য ও দেশের সামগ্রিক আইনশৃঙ্খলা পরিস্থিতি নিয়ে সরকারের অবস্থান স্পষ্ট করেছেন প্রধানমন্ত্রীর উপদেষ্টা।",
-        "lead_en": "The Prime Minister's adviser clarified the government stance on the IGP's controversial remarks and overall national security.",
+        "published_at": "2026-10-27T08:31:31+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রীর সাথে বৈঠকে রোহিঙ্গা সংকটের স্থায়ী সমাধান মিয়ানমারে রয়েছে বলে মন্তব্য করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman stated during a meeting with Japan's Prime Minister that the permanent solution to the Rohingya crisis lies in Myanmar.",
         "bullets_bn": [
-          "আইজিপির ক্রসফায়ার সংক্রান্ত সাম্প্রতিক বিতর্কিত বক্তব্য এবং দেশের আইনশৃঙ্খলা পরিস্থিতি নিয়ে সরকারের অবস্থান তুলে ধরা হয়।",
-          "সংখ্যালঘুদের ওপর হামলা এবং মুক্তিযোদ্ধার দাফনে বাধা দেওয়ার মতো সাম্প্রতিক বিভিন্ন অপ্রীতিকর ঘটনা কঠোরভাবে পর্যালোচনা করা হচ্ছে।",
-          "আইজিপির বিষয়ে পরবর্তী দৃশ্যমান পদক্ষেপ বা প্রশাসনিক সিদ্ধান্ত সরাসরি প্রধানমন্ত্রী কর্তৃক গৃহীত হবে।"
+          "রোহিঙ্গাদের স্বেচ্ছায় ও মর্যাদাপূর্ণ প্রত্যাবাসন নিশ্চিত করার আহ্বান জানান প্রধানমন্ত্রী।",
+          "জাপানের প্রধানমন্ত্রীর কার্যালয় কানতেই এই দ্বিপক্ষীয় শীর্ষ বৈঠক অনুষ্ঠিত হয়।",
+          "মিয়ানমারে দ্রুত প্রত্যাবাসন বাস্তবায়নে আন্তর্জাতিক সহযোগিতার ওপর জোর দেওয়া হয়।"
         ],
         "bullets_en": [
-          "The government formally addressed ongoing controversies surrounding the IGP's statements on extrajudicial incidents.",
-          "Authorities are reviewing recent security challenges including attacks on minorities and obstruction of freedom fighter burials.",
-          "The final administrative decision regarding the Inspector General of Police rests directly with the Prime Minister."
+          "The Prime Minister called for ensuring safe, voluntary, and dignified repatriation of Rohingyas.",
+          "The bilateral summit took place at the Kantei, the office of the Prime Minister of Japan.",
+          "Strong emphasis was placed on international cooperation to expedite repatriation to Myanmar."
         ],
-        "impact_bn": "আইনশৃঙ্খলা রক্ষাকারী বাহিনীর শীর্ষ কর্মকর্তার বিষয়ে সরকারের এই পদক্ষেপে জনমনে নিরাপত্তা ও আইনের শাসনের বিষয়ে স্পষ্ট বার্তা যাবে।",
-        "impact_en": "Clear directives on law enforcement leadership help restore public confidence in state security and the rule of law.",
-        "details_bn": "সাম্প্রতিক সময়ে দেশে উগ্রবাদী ও চরমপন্থি গোষ্ঠীর তৎপরতা বৃদ্ধি, সংখ্যালঘুদের ওপর হামলা এবং মুক্তিযোদ্ধার দাফনে বাধা দেওয়ার মতো ঘটনাগুলো নিয়ে জনমনে উদ্বেগ তৈরি হয়। এর পাশাপাশি পুলিশের মহাপরিদর্শকের ক্রসফায়ার সংক্রান্ত মন্তব্য প্রশাসনের ভেতরে ও বাইরে ব্যাপক আলোচনার জন্ম দেয়। এসব সার্বিক পরিস্থিতি এবং উদ্ভূত বিতর্ক মোকাবিলায় সরকারের নীতিনির্ধারণী পর্যায় থেকে এই আনুষ্ঠানিক অবস্থান ও সিদ্ধান্তের কথা জানানো হয়।",
-        "details_en": "Recent spikes in extremist activities, attacks on minorities, and disruptions during freedom fighter burials have raised public safety concerns. Simultaneously, the Inspector General of Police triggered widespread debate with remarks regarding extrajudicial actions. In response to these growing controversies, the administration stepped forward to clarify its stance and outline upcoming executive evaluations."
+        "impact_bn": "রোহিঙ্গা সংকটের স্থায়ী সমাধান হলে দেশের ওপর থেকে অর্থনৈতিক ও নিরাপত্তা চাপ কমবে।",
+        "impact_en": "A permanent resolution to the Rohingya crisis will alleviate national economic and security burdens.",
+        "details_bn": "মিয়ানমার থেকে জোরপূর্বক বাস্তুচ্যুত হয়ে বাংলাদেশে আশ্রয় নেওয়া লাখ লাখ রোহিঙ্গার দীর্ঘমেয়াদি উপস্থিতি দেশের অর্থনীতি এবং নিরাপত্তার ওপর বড় ধরনের চাপ সৃষ্টি করেছে। আন্তর্জাতিক অঙ্গনে বাংলাদেশ এই সংকটের টেকসই সমাধানের জন্য কূটনৈতিক প্রচেষ্টা অব্যাহত রেখেছে। এর অংশ হিসেবে দ্বিপক্ষীয় বৈঠকে বন্ধুভাবাপন্ন দেশগুলোর সহযোগিতা কামনা করা হচ্ছে।",
+        "details_en": "The prolonged presence of millions of forcibly displaced Rohingyas sheltered in Bangladesh has placed a significant burden on the national economy and security. Bangladesh continues diplomatic efforts internationally to secure a sustainable resolution to this crisis, seeking cooperation from friendly nations during high-level bilateral engagements."
       }
     },
     {
-      "story_id": "7fb6f9d2-5c5e-5d74-8445-873d48e37064",
+      "story_id": "d89fa90a-d3ab-593c-b3cb-79543be44541",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-21%2Fiunnub9r%2Findia.avif?rect=0%2C35%2C622%2C327&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-27T08:45:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.2774,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/g33owbcl9w",
+          "title": "এসআইআরসহ ইসির সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে জমা হলফনামায় দাবি",
+          "snippet": "এসআইআরসহ ইসির সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে জমা হলফনামায় দাবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভোটার তালিকা সংশোধন সংক্রান্ত সব সিদ্ধান্ত সর্বসম্মতভাবে নেওয়া হয়েছে, সুপ্রিম কোর্টে দাবি নির্বাচন কমিশনের",
+        "title_en": "All voter list revision decisions were taken unanimously, Election Commission claims in Supreme Court",
+        "summary_bn": "সুপ্রিম কোর্টে জমা দেওয়া হলফনামায় নির্বাচন কমিশন জানিয়েছে, ভোটার তালিকার নিবিড় সংশোধন নিয়ে জারি করা প্রতিটি নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে।",
+        "summary_en": "The Election Commission stated in a Supreme Court affidavit that every directive issued on intensive voter list revision was adopted unanimously.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T08:45:00+00:00",
+        "lead_bn": "সুপ্রিম কোর্টে জমা দেওয়া হলফনামায় নির্বাচন কমিশন জানিয়েছে, ভোটার তালিকার নিবিড় সংশোধন নিয়ে জারি করা প্রতিটি নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে।",
+        "lead_en": "The Election Commission stated in a Supreme Court affidavit that every directive issued on intensive voter list revision was adopted unanimously.",
+        "bullets_bn": [
+          "ভোটার তালিকার নিবিড় সংশোধন বা এসআইআর সংক্রান্ত সমস্ত নির্দেশ সর্বসম্মতভাবে গৃহীত হয়েছে বলে আদালতে জানানো হয়েছে।",
+          "প্রধান নির্বাচন কমিশনার জ্ঞানেশ কুমার একতরফা কোনো সিদ্ধান্ত নেননি বলে হলফনামায় স্পষ্ট করেছে কমিশন।",
+          "কমিশনের অভ্যন্তরীণ মতপার্থক্য ও একতরফা সিদ্ধান্ত গ্রহণের অভিযোগের বিরুদ্ধে সুপ্রিম কোর্টে এই জবাব দাখিল করা হয়।"
+        ],
+        "bullets_en": [
+          "All directives regarding the intensive revision of the voter list were adopted unanimously, the court was informed.",
+          "The commission clarified in the affidavit that Chief Election Commissioner Gyanesh Kumar did not make any unilateral decisions.",
+          "This response was submitted to the Supreme Court against allegations of internal dissent and unilateral decision-making within the commission."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "দ্য ইন্ডিয়ান এক্সপ্রেসের প্রতিবেদনের পর নির্বাচন কমিশনের কাজকর্ম ও এসআইআর প্রক্রিয়া চলাকালে একতরফা সিদ্ধান্ত গ্রহণ নিয়ে সুপ্রিম কোর্টে একাধিক মামলা হয়। এর পরিপ্রেক্ষিতে তিন সদস্যবিশিষ্ট নির্বাচন কমিশনকে সুপ্রিম কোর্ট নোটিশ পাঠায়। ওই নোটিশের জবাবেই কমিশন জানায় যে, কমিশনের অভ্যন্তরে মতবিরোধের অভিযোগ অসত্য এবং সমস্ত সিদ্ধান্ত ঐকমত্যের ভিত্তিতেই নেওয়া হয়েছে।",
+        "details_en": "Following a report by The Indian Express, multiple petitions were filed in the Supreme Court questioning the Election Commission's operations and alleged unilateral decisions during the SIR process. In response to the court's notice, the three-member commission submitted an affidavit stating that allegations of internal discord are untrue and all decisions were reached by consensus."
+      }
+    },
+    {
+      "story_id": "c7a16492-1ffc-5109-bf7c-16ef15946193",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,282 +125,231 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2Fkt5av524%2FZahed-Ur-Rahman.jpeg?rect=0%2C95%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-27%2F99mnp0o0%2FZahed-Ur-Rahman.jpeg?rect=0%2C7%2C642%2C337&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T07:35:43+00:00",
+      "published_at": "2026-10-27T08:43:48+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.0886,
+      "rank_score": 2.2515,
       "sources": [
         {
           "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/jtiauy240v",
-          "title": "শেখ হাসিনা দেশে ফিরলে ন্যায়বিচারের মুখোমুখি হবেন, মব নয়: প্রধানমন্ত্রীর উপদেষ্টা",
-          "snippet": "শেখ হাসিনা দেশে ফিরলে ন্যায়বিচারের মুখোমুখি হবেন, মব নয়: প্রধানমন্ত্রীর উপদেষ্টা"
+          "url": "https://www.prothomalo.com/bangladesh/2sdy377a0v",
+          "title": "আইজিপির বক্তব্যের ব্যাপারে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন: জাহেদ উর রহমান",
+          "snippet": "আইজিপির বক্তব্যের ব্যাপারে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন: জাহেদ উর রহমান"
         }
       ],
       "daily_buzz": {
-        "title_bn": "দেশে ফিরলে শেখ হাসিনাকে আইনি বিচারের মুখোমুখি করা হবে: উপদেষ্টা জাহেদ উর রহমান",
-        "title_en": "Ousted PM Hasina Will Face Justice Upon Return, Says Adviser Mahfuj Alam",
-        "summary_bn": "সরকারের তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান জানিয়েছেন, ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফিরলে আইনি প্রক্রিয়ায় ন্যায়বিচার পাবেন।",
-        "summary_en": "Information Adviser Mahfuj Alam stated that ousted prime minister Sheikh Hasina will face lawful justice upon her return to the country.",
+        "title_bn": "আইজিপির বক্তব্যের বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন",
+        "title_en": "Prime Minister will consider government final stance on IGP remarks",
+        "summary_bn": "আইজিপির বিতর্কিত ক্রসফায়ার ও সাংবাদিক মন্তব্য বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন বলে জানিয়েছেন তথ্য উপদেষ্টা।",
+        "summary_en": "Information Adviser stated that the Prime Minister will consider the government final stance on the IGP controversial remarks.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T07:35:43+00:00",
-        "lead_bn": "সরকারের তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান জানিয়েছেন, ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফিরলে আইনি প্রক্রিয়ায় ন্যায়বিচার পাবেন।",
-        "lead_en": "Information Adviser Mahfuj Alam stated that ousted prime minister Sheikh Hasina will face lawful justice upon her return to the country.",
+        "published_at": "2026-10-27T08:43:48+00:00",
+        "lead_bn": "আইজিপির বিতর্কিত ক্রসফায়ার ও সাংবাদিক মন্তব্য বিষয়ে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন বলে জানিয়েছেন তথ্য উপদেষ্টা।",
+        "lead_en": "Information Adviser stated that the Prime Minister will consider the government final stance on the IGP controversial remarks.",
         "bullets_bn": [
-          "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা দেশে ফিরলে তাঁকে কোনো ধরনের বেআইনি মবের মুখোমুখি হতে হবে না।",
-          "উপদেষ্টা জাহেদ উর রহমান স্পষ্ট করেছেন যে আইনি প্রক্রিয়ার মাধ্যমে নির্দিষ্ট নিয়ম অনুযায়ী বিচার কার্যক্রম পরিচালিত হবে।",
-          "সরকার প্রত্যাশা করছে শেখ হাসিনা নিজ দায়িত্বে ফিরে আসবেন এবং বিচার প্রক্রিয়ার মুখোমুখি হবেন।"
+          "আইজিপির ক্রসফায়ার ও সাংবাদিকদের নিয়ে দেওয়া বক্তব্য নিয়ে সরকারের অবস্থান প্রধানমন্ত্রীর বিবেচনার ওপর ছেড়ে দেওয়া হয়েছে।",
+          "প্রধানমন্ত্রীর তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান সচিবালয়ে এক সংবাদ সম্মেলনে এই কথা জানান।",
+          "পুলিশ সদর দপ্তর জানিয়েছে আইজিপি বিচারবহির্ভূত হত্যাকাণ্ড বা ঢালাওভাবে সাংবাদিকদের সমালোচনা করার অর্থে ওই মন্তব্য করেননি।"
         ],
         "bullets_en": [
-          "Ousted prime minister Sheikh Hasina will not face any unlawful mob or extrajudicial actions upon returning home.",
-          "Information Adviser Mahfuj Alam clarified that the judicial process will proceed strictly through legal frameworks.",
-          "The administration expects her return to face trial through established legal procedures rather than forced extradition."
+          "The government final stance regarding the IGP remarks on crossfire and journalists has been left for the Prime Minister to consider.",
+          "Prime Minister Information and Broadcasting Adviser Zahed Ur Rahman made this statement during a press briefing at the secretariat.",
+          "Police headquarters stated that the IGP did not use the term crossfire to mean extrajudicial killing or general criticism of journalists."
         ],
-        "impact_bn": "আইন ও বিচার ব্যবস্থার প্রতি সাধারণ মানুষের আস্থা পুনঃপ্রতিষ্ঠায় আইনি প্রক্রিয়ায় বিচার নিশ্চিত করার এই ঘোষণা গুরুত্বপূর্ণ।",
-        "impact_en": "Ensuring lawful trials without mob justice reinforces public confidence in institutional accountability and the rule of law.",
-        "details_bn": "জুলাই গণঅভ্যুত্থানে ক্ষমতাচ্যুত হওয়ার পর থেকে সাবেক প্রধানমন্ত্রী শেখ হাসিনার আইনি প্রক্রিয়া এবং বিচার নিয়ে রাজনৈতিক অঙ্গনে নানা আলোচনা চলছে। সরকারের পক্ষ থেকে বারবার স্পষ্ট করা হয়েছে যে কোনো ধরনের বিচারবহির্ভূত তৎপরতা ছাড়াই কেবল প্রচলিত আইনি কাঠামোর মধ্যে তাঁর বিচার সম্পন্ন করা হবে।",
-        "details_en": "Discussions surrounding the legal status and potential trial of ousted prime minister Sheikh Hasina have intensified following the July mass uprising. The administration has consistently maintained that any accountability measures will strictly adhere to due legal process rather than extrajudicial retaliation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "পুরান ঢাকায় এক অনুষ্ঠানে পুলিশের মহাপরিদর্শক (আইজিপি) মো. আলী হোসেন ফকির আইনশৃঙ্খলা পরিস্থিতি এবং ক্রসফায়ার নিয়ে মন্তব্য করেন। এছাড়া সাংবাদিকদের পেশাগত ভূমিকা নিয়েও বিতর্কিত মন্তব্য করেন তিনি। এ নিয়ে তীব্র সমালোচনার মুখে পুলিশ সদর দপ্তর ব্যাখ্যা দিয়ে জানায়, আইজিপির বক্তব্য ভুলভাবে যোগাযোগ হয়েছে এবং তিনি বিচারবহির্ভূত হত্যাকাণ্ড বোঝাতে চাননি। পরবর্তীতে তথ্য ও সম্প্রচারবিষয়ক উপদেষ্টা জাহেদ উর রহমান সংবাদ সম্মেলনে জানান যে সরকারের চূড়ান্ত অবস্থান প্রধানমন্ত্রী বিবেচনা করবেন।",
+        "details_en": "Police Inspector General Md Ali Hossain Fakir made controversial remarks regarding law enforcement, crossfire, and journalists during an event in Old Dhaka. Facing widespread criticism, the police headquarters later issued a clarification stating the remarks were misinterpreted and did not imply extrajudicial killings. Subsequently, Information and Broadcasting Adviser Zahed Ur Rahman announced in a press briefing that the Prime Minister would consider the government final stance on the matter."
       }
     },
     {
-      "story_id": "6891175c-d15b-5edb-b676-746aae271942",
-      "primary_category": "society_education",
+      "story_id": "3f5acbed-3ef7-5f1e-ae3a-bc2ba0c3fe2c",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-26%2F94oq40vr%2Fsunamganjdh053220261026img-20261026-wa0011.jpg?rect=0%2C92%2C1080%2C567&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-27T08:00:00+00:00",
+      "published_at": "2026-10-27T08:50:40+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9632,
+      "importance_score": 4.8,
+      "rank_score": 1.7505,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/columns/976904/%E0%A6%B8%E0%A7%81%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8-%E0%A6%A8%E0%A7%9F-%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8%E0%A6%BE-%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%95%E0%A7%87%C2%A0",
-          "title": "সুশাসন নয়, সুপরিচালনা বদলে দিতে পারে বাংলাদেশকে",
-          "snippet": "সুশাসন নয়, সুপরিচালনা বদলে দিতে পারে বাংলাদেশকে"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/7myl3phz9l",
+          "title": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে",
+          "snippet": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সুশাসনের ধারণা থেকে বেরিয়ে সুপরিচালনার দিকে মনোযোগ দেওয়ার তাগিদ বিশ্লেষকদের",
-        "title_en": "Analysts Urge Shift from Good Governance to Effective Public Management",
-        "summary_bn": "রাষ্ট্রীয় কার্যকারিতা বাড়াতে ঔপনিবেশিক সুশাসন ধারণার পরিবর্তে সুপরিচালনার ওপর জোর দেওয়ার আহ্বান জানানো হয়েছে।",
-        "summary_en": "Experts call for replacing the colonial governance framework with effective public management to boost state efficiency.",
+        "title_bn": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে গ্রেপ্তার সাবেক পুলিশ সদস্য কারাগারে",
+        "title_en": "Former Police Constable Arrested in Sunamganj Over Blasphemy Allegations Sent to Jail",
+        "summary_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট দেওয়ার অভিযোগে তাহিরপুরে আটক সাবেক এক পুলিশ সদস্যকে কারাগারে পাঠানো হয়েছে।",
+        "summary_en": "A former police constable detained in Tahirpur over alleged blasphemous social media posts has been sent to jail.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T08:00:00+00:00",
-        "lead_bn": "রাষ্ট্রীয় কার্যকারিতা বাড়াতে ঔপনিবেশিক সুশাসন ধারণার পরিবর্তে সুপরিচালনার ওপর জোর দেওয়ার আহ্বান জানানো হয়েছে।",
-        "lead_en": "Experts call for replacing the colonial governance framework with effective public management to boost state efficiency.",
-        "bullets_bn": [
-          "ঔপনিবেশিক শাসনের প্রচ্ছন্ন দাপট থেকে বেরিয়ে আসার ওপর গুরুত্বারোপ করা হয়েছে।",
-          "রাষ্ট্রের প্রকৃত কার্যকারিতা পরিমাপে সুশাসনের চেয়ে সুপরিচালনা বেশি ফলপ্রসূ।",
-          "নাগরিক অধিকার ও প্রাতিষ্ঠানিক জবাবদিহিতা নিশ্চিত করার নতুন রূপরেখা নিয়ে আলোচনা চলছে।"
-        ],
-        "bullets_en": [
-          "Specialists emphasize moving away from the authoritarian legacy hidden within traditional governance models.",
-          "Effective public management proves more practical than abstract governance theories for measuring state capability.",
-          "Discussions continue on reshaping institutional accountability to better serve citizens."
-        ],
-        "impact_bn": "সাধারণ মানুষ রাষ্ট্রের কার্যক্রমে প্রজার পরিবর্তে প্রকৃত নাগরিক হিসেবে নিজেদের অধিকার ভোগ করতে পারবেন।",
-        "impact_en": "Ordinary citizens will experience better public services and true civic empowerment instead of bureaucratic control.",
-        "details_bn": "ঐতিহাসিক বিভিন্ন অভ্যুত্থানের মূল লক্ষ্য ছিল প্রজা থেকে নাগরিক হয়ে ওঠার লড়াই। তবে বিপ্লবের পরও রাষ্ট্রীয় কার্যকারিতা পরিমাপের ভাষায় ঔপনিবেশিক প্রচ্ছন্ন দাপট রয়ে গেছে। এই ভাষাগত শৃঙ্খল ভেঙে আধুনিক ও জনমুখী সুপরিচালনা নিশ্চিত করার দাবি উঠেছে বিভিন্ন মহলে।",
-        "details_en": "Historical revolutions have always aimed to transform subjects into empowered citizens. However, colonial terminologies often persist in measuring state efficiency. Experts argue that overcoming this linguistic and conceptual barrier is essential for modern public administration."
-      }
-    },
-    {
-      "story_id": "24b8a7f2-bab4-5500-8cd8-6147ea92e4ea",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Messi-17.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-27T07:52:50+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8938,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ballon-dor-lionel-messi-london-france-argentina-lead-sports/",
-          "title": "ব্যালন ডি’অর: রেকর্ড ১৬ বার শীর্ষ পাঁচে মেসি, এবার কততম হলেন",
-          "snippet": "ব্যালন ডি’অর: রেকর্ড ১৬ বার শীর্ষ পাঁচে মেসি, এবার কততম হলেন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্যালন ডি অরের শীর্ষ পাঁচে থেকে রেকর্ড গড়লেন লিওনেল মেসি",
-        "title_en": "Lionel Messi sets record by finishing in Ballon d Or top five",
-        "summary_bn": "আর্জেন্টাইন ফরোয়ার্ড লিওনেল মেসি রেকর্ড ষোলোমবারের মতো ব্যালন ডি অরের শীর্ষ পাঁচ খেলোয়াড়ের তালিকায় স্থান পেয়েছেন।",
-        "summary_en": "Argentine forward Lionel Messi secured a record-extending sixteenth top-five finish in the prestigious Ballon d Or rankings.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T07:52:50+00:00",
-        "lead_bn": "আর্জেন্টাইন ফরোয়ার্ড লিওনেল মেসি রেকর্ড ষোলোমবারের মতো ব্যালন ডি অরের শীর্ষ পাঁচ খেলোয়াড়ের তালিকায় স্থান পেয়েছেন।",
-        "lead_en": "Argentine forward Lionel Messi secured a record-extending sixteenth top-five finish in the prestigious Ballon d Or rankings.",
-        "bullets_bn": [
-          "আর্জেন্টাইন ফুটবল তারকা লিওনেল মেসি ব্যালন ডি অর র‍্যাঙ্কিংয়ের শীর্ষ পাঁচে অবস্থান নিশ্চিত করেছেন।",
-          "মেসি তার বর্ণিল ক্যারিয়ারে রেকর্ড আটবার ব্যালন ডি অর ট্রফি জয় করেছেন এবং চৌদ্দবার পোডিয়াম অর্জন করেছেন।",
-          "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত জমকালো অনুষ্ঠানে ছেলেদের বর্ষসেরা পুরস্কার জিতেছেন হ্যারি কেন।"
-        ],
-        "bullets_en": [
-          "Argentine football star Lionel Messi secured his position within the top five of the Ballon d Or rankings.",
-          "Messi has won a record eight Ballon d Or trophies and achieved podium finishes fourteen times in his career.",
-          "Harry Kane won the men's player of the year award at the glamorous ceremony held at London Palladium Theatre."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ফুটবল ইতিহাসে অনন্য এক নজির গড়েছেন লিওনেল মেসি। ২০০৭ সাল থেকে বিভিন্ন মেয়াদে ১৬ বার ব্যালন ডি অরের সেরা পাঁচ খেলোয়াড়ের মধ্যে নিজের নাম লিখিয়েছেন এই মহাতারকা। এর মধ্যে রেকর্ড আটবার এই মর্যাদাপূর্ণ পুরস্কার জিতেছেন তিনি। দীর্ঘ দুই দশকেরও বেশি সময় ধরে বিশ্ব ফুটবলে নিজের আধিপত্য বজায় রেখে অনন্য এই রেকর্ড গড়লেন ইন্টার মিয়ামির এই ফরোয়ার্ড।",
-        "details_en": "Lionel Messi has established an unprecedented milestone in football history. The legendary forward has secured his place among the top five players in the Ballon d Or rankings sixteen times across various years since 2007. Throughout his illustrious career, he has claimed the prestigious award a record eight times, maintaining his dominance in global football for over two decades."
-      }
-    },
-    {
-      "story_id": "ffe7600d-8479-5a5a-98d9-73a1b6fd6651",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraelElections",
-        "#BenjaminNetanyahu",
-        "#MiddleEastConflict"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/m3z87o/article71628531.ece/alternates/LANDSCAPE_1200/AFP_D4BH8JH.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-27T07:50:53+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.7742,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece",
-          "title": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls",
-          "snippet": "Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলের সাধারণ নির্বাচনের আগে রাজনৈতিক অস্তিত্ব বাঁচাতে লড়াই করছেন নেতানিয়াহু",
-        "title_en": "Netanyahu Battles for Political Survival as Israel Heads to Polls",
-        "summary_bn": "আন্তর্জাতিক অপরাধ আদালতের গ্রেফতারি পরোয়ানা ও তীব্র রাজনৈতিক সংকটের মধ্যে সাধারণ নির্বাচনে প্রতিদ্বন্দ্বিতা করছেন ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু।",
-        "summary_en": "Israeli Prime Minister Benjamin Netanyahu faces a crucial general election amid mounting international pressure, ongoing regional conflicts, and domestic protests.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T07:50:53+00:00",
-        "lead_bn": "আন্তর্জাতিক অপরাধ আদালতের গ্রেফতারি পরোয়ানা ও তীব্র রাজনৈতিক সংকটের মধ্যে সাধারণ নির্বাচনে প্রতিদ্বন্দ্বিতা করছেন ইসরায়েলের প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু।",
-        "lead_en": "Israeli Prime Minister Benjamin Netanyahu faces a crucial general election amid mounting international pressure, ongoing regional conflicts, and domestic protests.",
-        "bullets_bn": [
-          "ইসরায়েলে হাজার হাজার মানুষ নিরাপত্তা ব্যর্থতার জবাবদিহিতা ও সরকারের পদত্যাগের দাবিতে তেল আবিবে বিক্ষোভ মিছিল করেছে",
-          "ফিলিস্তিনের হামাসের সাথে সংঘাতের জেরে সৃষ্ট আঞ্চলিক যুদ্ধে ইসরায়েল গাজা, ইরান, লেবানন, ইয়েমেন ও সিরিয়ায় সামরিক অভিযান পরিচালনা করেছে",
-          "চলমান সংঘাত ও বৈশ্বিক জ্বালানি সরবরাহ ব্যাহত হওয়ার প্রেক্ষাপটে এই নির্বাচন অনুষ্ঠিত হচ্ছে যা নেতানিয়াহুর রাজনৈতিক ভবিষ্যতের জন্য অত্যন্ত গুরুত্বপূর্ণ"
-        ],
-        "bullets_en": [
-          "Thousands of protesters gathered in Tel Aviv demanding accountability for security failures and government mishandling",
-          "Israel engaged in an expansive regional conflict across Gaza, Iran, Lebanon, Yemen, and Syria following the initial attacks",
-          "The ongoing war and its severe disruption of global energy supplies heavily influence the consequential national election"
-        ],
-        "impact_bn": "এই রাজনৈতিক সংকটের প্রভাবে বৈশ্বিক জ্বালানি বাজারে অস্থিরতা তৈরি হয়েছে যা সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়িয়ে দিয়েছে।",
-        "impact_en": "The prolonged regional conflict and election outcome directly impact global energy stability and international market prices.",
-        "details_bn": "সালে প্রধানমন্ত্রী হিসেবে ক্ষমতা গ্রহণের পর থেকেই বিভিন্ন সংকটের মুখোমুখি হন বেনিয়ামিন নেতানিয়াহু। ২০২৩ সালের অক্টোবর মাসে হামাসের হামলার পর শুরু হওয়া এই সংঘাত পরবর্তীতে গাজা, ইরান, লেবানন ও ইয়েমেন পর্যন্ত ছড়িয়ে পড়ে। যুদ্ধবিরতি ও জিম্মি মুক্তির বিষয়ে সরকারের ব্যর্থতার অভিযোগে দীর্ঘদিন ধরেই তীব্র অভ্যন্তরীণ অসন্তোষ ও বিক্ষোভ চলে আসছে।",
-        "details_en": "Benjamin Netanyahu returned to power in 2022, shortly before the October 2023 Hamas attacks triggered a massive multi-front regional conflict. Despite promising total victory, his administration faced severe domestic backlash over security failures, prolonged hostilities in Gaza and Lebanon, and the expansion of warfare involving Iran, severely impacting his political standing."
-      }
-    },
-    {
-      "story_id": "9623508b-f043-52ff-84e0-db4f628454dc",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraelElection",
-        "#BenjaminNetanyahu",
-        "#MiddleEast"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/0fa136421184389c6197114f9d02c1573603ca35/494_0_4585_3668/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4c883ebb50b51faa4749a0907a7f77d4",
-      "image_caption": null,
-      "published_at": "2026-10-27T07:50:24+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.7705,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-          "title": "Israel election live: polls open in most consequential vote in country’s history",
-          "snippet": "Israel election live: polls open in most consequential vote in country’s history"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
-          "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
-          "snippet": "Israel election: Israelis vote for 1st time since October 7 terror attack"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলে সাধারণ নির্বাচনের ভোটগ্রহণ শুরু",
-        "title_en": "Polling Opens in Israel General Election",
-        "summary_bn": "ইসরায়েলে দীর্ঘ সংঘাত ও রাজনৈতিক সংকটের মধ্যেই দেশটির অত্যন্ত গুরুত্বপূর্ণ জাতীয় নির্বাচনের ভোটগ্রহণ শুরু হয়েছে।",
-        "summary_en": "Polls have opened in Israel for a highly consequential national election amid ongoing regional conflict and political turmoil.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
           "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T07:50:24+00:00",
-        "lead_bn": "ইসরায়েলে দীর্ঘ সংঘাত ও রাজনৈতিক সংকটের মধ্যেই দেশটির অত্যন্ত গুরুত্বপূর্ণ জাতীয় নির্বাচনের ভোটগ্রহণ শুরু হয়েছে।",
-        "lead_en": "Polls have opened in Israel for a highly consequential national election amid ongoing regional conflict and political turmoil.",
+        "published_at": "2026-10-27T08:50:40+00:00",
+        "lead_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট দেওয়ার অভিযোগে তাহিরপুরে আটক সাবেক এক পুলিশ সদস্যকে কারাগারে পাঠানো হয়েছে।",
+        "lead_en": "A former police constable detained in Tahirpur over alleged blasphemous social media posts has been sent to jail.",
         "bullets_bn": [
-          "ইসরায়েলে সংসদীয় নির্বাচনে ভোটগ্রহণ শুরু হয়েছে যা প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর রাজনৈতিক ভবিষ্যৎ নির্ধারণ করবে।",
-          "নির্বাচনী জরিপ অনুযায়ী কোনো জোটই সরকার গঠনের জন্য প্রয়োজনীয় ৬১ আসন এককভাবে পাবে না।",
-          "নির্বাচনের ফলাফল ইসরায়েলের মধ্যপ্রাচ্য নীতি এবং আন্তর্জাতিক সম্পর্কের গতিপথ নির্ধারণ করবে।"
+          "ধর্ম অবমাননামূলক ফেসবুক পোস্ট দেওয়ার অভিযোগে পুলিশ বাদী হয়ে সাবেক এক কনস্টেবলের বিরুদ্ধে মামলা করে।",
+          "সামাজিক যোগাযোগমাধ্যমে ভুয়া আইডি ব্যবহার করে উসকানিমূলক পোস্ট দেওয়ার অভিযোগ এনে অভিযুক্ত ব্যক্তি আগেই থানায় সাধারণ ডায়েরি করেছিলেন।",
+          "আইনি প্রক্রিয়া সম্পন্ন করে পুলিশ অভিযুক্ত ব্যক্তিকে আদালতের মাধ্যমে জেলা কারাগারে পাঠায়।"
         ],
         "bullets_en": [
-          "Polling has commenced in Israel for a parliamentary election that will determine Prime Minister Benjamin Netanyahu's political future.",
-          "Polls indicate that neither the ruling coalition nor the opposition bloc is likely to secure the 61 seats needed for a majority.",
-          "The election results will determine Israel's future foreign policy direction and international diplomatic standing."
+          "Police filed a case against a former constable over allegations of making blasphemous Facebook posts.",
+          "The accused had earlier filed a general diary claiming that a fake social media account was used to spread provocative posts.",
+          "Following legal procedures, police sent the accused to jail through the court."
+        ],
+        "impact_bn": "সামাজিক যোগাযোগমাধ্যমে ভুয়া আইডি ও অপপ্রচার রোধে সাইবার নিরাপত্তা বিষয়ে সচেতনতা বাড়ানোর প্রয়োজনীয়তা তৈরি হয়েছে।",
+        "impact_en": "The incident highlights the growing need for heightened cyber awareness regarding fake accounts and online propaganda.",
+        "details_bn": "সুনামগঞ্জের তাহিরপুর উপজেলায় সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট ছড়ানোর জেরে উত্তেজনা সৃষ্টি হয়। পুলিশ ওই ব্যক্তিকে আটক করে থানায় নিয়ে আসার সময় কিছু লোক তাঁকে ছিনিয়ে নেওয়ার চেষ্টা করে। অভিযুক্ত ব্যক্তি দাবি করেন যে তাঁর ছবি ব্যবহার করে একটি ভুয়া আইডি থেকে ওই পোস্ট দেওয়া হয়েছে এবং এ বিষয়ে তিনি আগেই থানায় সাধারণ ডায়েরি করেছিলেন। পরে পুলিশ বাদী হয়ে তাঁর বিরুদ্ধে মামলা দায়ের করে এবং আদালতের মাধ্যমে কারাগারে পাঠায়।",
+        "details_en": "Tension flared in Sunamganj's Tahirpur upazila over a provocative social media post, prompting police intervention and detention of a former police constable. While being escorted by police, an attempt was made to snatch him from custody. The accused claimed a fake profile using his photos was created to frame him, a concern he had previously reported via a general diary. Police subsequently registered a case and sent him to jail through the judicial process."
+      }
+    },
+    {
+      "story_id": "8d2bebac-585c-5b6e-afc8-0b128e742451",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#FloridaElections",
+        "#ClimatePolicy",
+        "#USPolitics"
+      ],
+      "image_url": "https://insideclimatenews.org/wp-content/uploads/2026/10/GettyImages-2274364552-1024x683.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-27T08:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6478,
+      "sources": [
+        {
+          "name": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/",
+          "title": "In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo",
+          "snippet": "In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফ্লোরিডার গভর্নর পদে জলবায়ু নীতি বনাম বর্তমান অবস্থা নিয়ে লড়াই",
+        "title_en": "Florida Gubernatorial Candidates Offer Sharply Contrasting Climate Policies",
+        "summary_bn": "ফ্লোরিডার গভর্নর পদে দুই প্রার্থী জলবায়ু নীতি পরিবর্তন এবং বর্তমান অবস্থা বজায় রাখার বিষয়ে ভিন্ন দৃষ্টিভঙ্গি তুলে ধরেছেন।",
+        "summary_en": "Florida gubernatorial candidates present contrasting visions, choosing between renewing clean energy strategies and maintaining current environmental policies.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T08:55:00+00:00",
+        "lead_bn": "ফ্লোরিডার গভর্নর পদে দুই প্রার্থী জলবায়ু নীতি পরিবর্তন এবং বর্তমান অবস্থা বজায় রাখার বিষয়ে ভিন্ন দৃষ্টিভঙ্গি তুলে ধরেছেন।",
+        "lead_en": "Florida gubernatorial candidates present contrasting visions, choosing between renewing clean energy strategies and maintaining current environmental policies.",
+        "bullets_bn": [
+          "রিপাবলিকান প্রার্থী বায়রন ডোনাল্ডস বর্তমান রাজ্য নীতির স্থবিরতা বজায় রাখার পক্ষে অবস্থান নিয়েছেন।",
+          "ডেমোক্রেটিক প্রার্থী ডেভিড জলি ফ্লোরিডায় নতুন জলবায়ু পরিবর্তন ও পরিচ্ছন্ন শক্তি কৌশল চালুর পক্ষে প্রচার চালাচ্ছেন।",
+          "নির্বাচনী তহবিলে ডোনাল্ডস ১৪১ মিলিয়ন ডলার সংগ্রহ করেছেন, যেখানে জলি ১৯ মিলিয়ন ডলার পেয়েছেন।"
+        ],
+        "bullets_en": [
+          "Republican candidate Byron Donalds largely supports maintaining the status quo in state environmental policy.",
+          "Democratic candidate David Jolly advocates for renewing a climate change and clean energy strategy.",
+          "Campaign finance data shows Donalds amassed roughly 141 million dollars compared to Jolly's 19 million dollars."
+        ],
+        "impact_bn": "এই নির্বাচন ফ্লোরিডার ভবিষ্যৎ পরিবেশগত নীতি এবং ক্লিন এনার্জি বিনিয়োগের রূপরেখা নির্ধারণ করবে।",
+        "impact_en": "The election outcome will shape future state environmental regulations and clean energy investments impacting residents.",
+        "details_bn": "ফ্লোরিডার গভর্নর পদের দৌড়ে রিপাবলিকান প্রার্থী বায়রন ডোনাল্ডস এবং ডেমোক্রেটিক প্রার্থী ডেভিড জলি প্রতিদ্বন্দ্বিতা করছেন। বর্তমান গভর্নর রন ডিসান্টিস জলবায়ু পরিবর্তনের বিষয়টি এড়িয়ে কেবল এভারগ্লেডস এবং পানির গুণগত মানের ওপর জোর দিয়েছিলেন। ডোনাল্ডস নির্বাচিত হলে তিনি হবেন ফ্লোরিডার প্রথম কৃষ্ণাঙ্গ গভর্নর। অন্যদিকে ডেভিড জলি অতীতে রিপাবলিকান হিসেবে দায়িত্ব পালন করলেও পরবর্তীতে সমালোচক হিসেবে আবির্ভূত হন। ফ্লোরিডায় বর্তমানে রিপাবলিকানরা সব রাজ্য পদে এবং আইনসভায় আধিপত্য বিস্তার করে আছে।",
+        "details_en": "The Florida gubernatorial race features Republican Byron Donalds and Democrat David Jolly competing to succeed term-limited Governor Ron DeSantis. DeSantis largely dismissed climate change while focusing his tenure on the Everglades and water quality. If elected, Donalds would become the state's first Black governor. Jolly, a former Republican, has emerged as an outspoken critic. Republicans currently hold every statewide office and control the Florida Legislature."
+      }
+    },
+    {
+      "story_id": "6e8b59ba-7550-5392-b1c1-24a5ce87521f",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#CycloneArnab",
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25301397846074-1793082640.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-10-27T08:02:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.55,
+      "rank_score": 0.6184,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
+          "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
+          "snippet": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece",
+          "title": "New UNSC permanent members without veto would be 'second-class': India",
+          "snippet": "New UNSC permanent members without veto would be 'second-class': India"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Arunachal sees fresh violence over proposed dam",
+          "snippet": "India news: Arunachal sees fresh violence over proposed dam"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ভারতের পূর্ব উপকূলে তীব্র ঘূর্ণিঝড় অর্নাবের আঘাত হানার শঙ্কা",
+        "title_en": "India Evacuates Thousands As Very Severe Cyclone Arnab Approaches Coast",
+        "summary_bn": "তীব্র ঘূর্ণিঝড় অর্নাব ভারতের পূর্ব উপকূলে আঘাত হানার আশঙ্কায় হাজার হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হচ্ছে।",
+        "summary_en": "Tens of thousands of people are being evacuated along India's eastern coast as a strengthening Cyclone Arnab approaches.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T08:02:37+00:00",
+        "lead_bn": "তীব্র ঘূর্ণিঝড় অর্নাব ভারতের পূর্ব উপকূলে আঘাত হানার আশঙ্কায় হাজার হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হচ্ছে।",
+        "lead_en": "Tens of thousands of people are being evacuated along India's eastern coast as a strengthening Cyclone Arnab approaches.",
+        "bullets_bn": [
+          "ভারতের অন্ধ্রপ্রদেশ ও ওড়িশা উপকূলের ঝুঁকিপূর্ণ এলাকা থেকে প্রায় ৫০ হাজার মানুষকে নিরাপদ আশ্রয়ে সরিয়ে নেওয়া হয়েছে।",
+          "ঘূর্ণিঝড়টি ঘণ্টায় ১১৫ থেকে ১২৫ কিলোমিটার বেগে উপকূল অতিক্রম করতে পারে এবং এর গতিবেগ ১৪০ কিলোমিটার পর্যন্ত উঠতে পারে।",
+          "ঘূর্ণিঝড়টির সম্ভাব্য গতিপথের মধ্যে প্রায় ১ কোটি ২০ লাখ মানুষ বসবাস করছে এবং উদ্ধার কার্যক্রম অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Nearly 50,000 people have been evacuated from vulnerable areas in Andhra Pradesh and Odisha.",
+          "The cyclone packs sustained winds of 115-125 km/h with gusts reaching up to 140 km/h.",
+          "More than 12 million people live along the projected path of the storm as evacuations continue."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সালের ৭ অক্টোবর হামাসের হামলার পর এটিই ইসরায়েলের প্রথম জাতীয় নির্বাচন। প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর দীর্ঘমেয়াদের শাসনকাল এবং গাজায় পরিচালিত সামরিক অভিযানের কারণে দেশটি তীব্র আন্তর্জাতিক চাপের মুখে রয়েছে। এছাড়া নেতানিয়াহু বর্তমানে দুর্নীতির অভিযোগে বিচারের মুখোমুখি রয়েছেন। নির্বাচনটি বর্তমান সরকারের নেতৃত্বের ওপর বড় ধরনের জনমত যাচাই হিসেবে দেখা হচ্ছে।",
-        "details_en": "This marks Israel's first national election since the October 2023 attacks and subsequent military campaigns. Prime Minister Benjamin Netanyahu faces intense international scrutiny and domestic political pressure, alongside ongoing corruption trials. The election serves as a crucial referendum on his long-standing leadership amid growing global isolation."
+        "details_bn": "বঙ্গোপসাগর বিশ্বের অন্যতম প্রধান ক্রান্তীয় ঘূর্ণিঝড় উৎপত্তিস্থল হওয়ায় এটি ভারতের পূর্ব উপকূলীয় অঞ্চলগুলোকে প্রায়শই প্রভাবিত করে। অন্ধ্রপ্রদেশের দুর্যোগ ব্যবস্থাপনা কর্তৃপক্ষের তথ্য অনুযায়ী, ঝড়ের সম্ভাব্য গতিপথের মুখে প্রায় ১ কোটি ২০ লাখ মানুষ রয়েছে এবং কর্তৃপক্ষ প্রায় চার লাখ মানুষকে সরিয়ে নেওয়ার লক্ষ্যমাত্রা নির্ধারণ করেছে। ভারতের আবহাওয়া অধিদপ্তর ঝড়টির বিষয়ে বিশেষ সতর্কবার্তা জারি করেছে।",
+        "details_en": "The Bay of Bengal is among the world's main breeding grounds for tropical cyclones, frequently affecting India's eastern coastal regions. More than 12 million people live along the projected path of the storm, which originates over the bay and threatens densely populated coastal areas in Andhra Pradesh and Odisha. Local authorities have mobilized extensive disaster management operations to relocate hundreds of thousands of residents from vulnerable zones before landfall."
       }
     }
   ]
