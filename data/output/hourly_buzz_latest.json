@@ -1,7 +1,176 @@
 {
-  "updated_at": "2026-10-27T00:00:45.425406",
+  "updated_at": "2026-10-27T01:00:50.933636",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "1023198b-1291-5be0-b9ee-ff746cfa967c",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T00:42:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6202,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/976959/%E0%A6%85%E0%A6%A4%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "অতীতে বিনা টিকিটে ট্রেন ভ্রমণ, টাকা পরিশোধ করলেন প্রবাসী",
+          "snippet": "অতীতে বিনা টিকিটে ট্রেন ভ্রমণ, টাকা পরিশোধ করলেন প্রবাসী"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সৌদি প্রবাসী ব্রাহ্মণবাড়িয়া স্টেশনে অতীতে বিনা টিকিটে ট্রেন ভ্রমণের ভাড়া পরিশোধ করলেন",
+        "title_en": "Ex-expat pays for past ticketless train travel at Brahmanbaria station",
+        "summary_bn": "ব্রাহ্মণবাড়িয়ায় অতীতে বিনা টিকিটে ট্রেন ভ্রমণের অনুশোচনা থেকে ভাড়ার টাকা পরিশোধ করেছেন এক সৌদি প্রবাসী।",
+        "summary_en": "A Saudi-returned expat paid for past ticketless train travel in Brahmanbaria out of remorse.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T00:42:45+00:00",
+        "lead_bn": "ব্রাহ্মণবাড়িয়ায় অতীতে বিনা টিকিটে ট্রেন ভ্রমণের অনুশোচনা থেকে ভাড়ার টাকা পরিশোধ করেছেন এক সৌদি প্রবাসী।",
+        "lead_en": "A Saudi-returned expat paid for past ticketless train travel in Brahmanbaria out of remorse.",
+        "bullets_bn": [
+          "প্রবাসীর পক্ষে তার ভাতিজা ব্রাহ্মণবাড়িয়া রেলওয়ে স্টেশনে এসে পূর্বের ভ্রমণের বকেয়া ভাড়া পরিশোধ করেন",
+          "মোহাম্মাদ হাবিবুর রহমান নামের ওই প্রবাসী জেলার সদর উপজেলার রাধিকা এলাকার বাসিন্দা",
+          "সচেতন নাগরিক সমাজের প্রশংসার মুখে পড়ে বকেয়া ভাড়া পরিশোধের এই সততার নজির স্থাপন করা হয়"
+        ],
+        "bullets_en": [
+          "The expat's nephew cleared the due train fare on behalf of his uncle at Brahmanbaria railway station",
+          "The expatriate Mohammad Habibur Rahman is a resident of Radhika area in Sadar upazila",
+          "This display of honesty in clearing due fares has drawn appreciation from conscious citizens"
+        ],
+        "impact_bn": "এই সততার উদ্যোগ সাধারণ মানুষের মধ্যে রেলওয়ে আইন মেনে চলার সচেতনতা ও নৈতিকতা বৃদ্ধি করবে।",
+        "impact_en": "This honest initiative will foster a sense of civic responsibility and adherence to railway rules among citizens.",
+        "details_bn": "বাংলাদেশে ট্রেন ভ্রমণের সময় অনেকে বিনা টিকিটে যাতায়াত করলেও পরবর্তী সময়ে অনুতপ্ত হয়ে ভাড়ার টাকা পরিশোধ করার ঘটনা বিরল। ব্রাহ্মণবাড়িয়া রেলওয়ে স্টেশনে ঘটিত এই সততার ঘটনাটি স্থানীয় মহলে ব্যাপক আলোচনার সৃষ্টি করেছে এবং রেলওয়ে খাতের প্রতি নাগরিকদের নৈতিক দায়িত্ববোধকে স্মরণ করিয়ে দিয়েছে।",
+        "details_en": "While traveling without tickets is a known challenge for Bangladesh railways, citizens voluntarily clearing past fares out of remorse remains rare. This incident at Brahmanbaria railway station has sparked local discussion and highlighted individual civic accountability towards public transport systems."
+      }
+    },
+    {
+      "story_id": "14c886c3-150d-5dc6-9ac1-70d0d48fda84",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T00:33:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.4929,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172342",
+          "title": "সিরিয়ায় বিমান হামলা চালিয়েছে জর্ডান",
+          "snippet": "সিরিয়ায় বিমান হামলা চালিয়েছে জর্ডান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিরিয়ায় জর্ডানের বিমান হামলায় সাতজন নিহত",
+        "title_en": "Jordanian Airstrikes in Syria Leave Seven Dead",
+        "summary_bn": "জর্ডানের সামরিক বাহিনী সিরিয়ায় বিমান হামলা চালিয়ে অন্তত সাতজনকে হত্যা করেছে।",
+        "summary_en": "The Jordanian military launched airstrikes inside Syria resulting in at least seven fatalities.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T00:33:46+00:00",
+        "lead_bn": "জর্ডানের সামরিক বাহিনী সিরিয়ায় বিমান হামলা চালিয়ে অন্তত সাতজনকে হত্যা করেছে।",
+        "lead_en": "The Jordanian military launched airstrikes inside Syria resulting in at least seven fatalities.",
+        "bullets_bn": [
+          "জর্ডানের সামরিক বাহিনী সিরিয়ার অভ্যন্তরে এই বিমান হামলা পরিচালনা করে।",
+          "হামলায় কমপক্ষে সাতজন নিহত হয়েছে বলে নিশ্চিত করা হয়েছে।",
+          "জর্ডানে একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার জেরে এই সামরিক পদক্ষেপ নেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "The Jordanian military conducted precision airstrikes inside Syrian territory.",
+          "At least seven individuals were confirmed killed in the military operation.",
+          "The military action was executed in retaliation for a prior armed attack on a church in Jordan."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জর্ডানের একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার ঘটনার পর এই সামরিক পদক্ষেপ নেওয়া হয়। ওই হামলার জেরে জর্ডান সরকার কঠোর অবস্থান গ্রহণ করে এবং সিরিয়ার অভ্যন্তরে বিমান হামলা চালায়। এই ঘটনায় দুই দেশের সীমান্তবর্তী অঞ্চলে উত্তেজনা বৃদ্ধি পেয়েছে।",
+        "details_en": "The military action follows an armed attack on a church inside Jordan, prompting a swift retaliatory response from Jordanian authorities. The strikes highlight escalating security measures and cross-border tensions in the region."
+      }
+    },
+    {
+      "story_id": "571f62a9-46c1-52b4-b041-526a0190650c",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9632,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/politics/bnp/976953/%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%AE%E0%A6%A4%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A7%80-%E0%A6%86%E0%A6%9C",
+          "title": "যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী আজ",
+          "snippet": "যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী আজ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয়তাবাদী যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী পালিত হচ্ছে",
+        "title_en": "Juba Dal Observes Its 48th Founding Anniversary",
+        "summary_bn": "জাতীয়তাবাদী যুবদল গণতন্ত্র ও অর্থনৈতিক মুক্তির লক্ষ্য নিয়ে প্রতিষ্ঠার ৪৮ বছর পূর্ণ করেছে।",
+        "summary_en": "Bangladesh Nationalist Juba Dal has completed 48 years of establishment aimed at democracy and economic emancipation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T01:00:00+00:00",
+        "lead_bn": "জাতীয়তাবাদী যুবদল গণতন্ত্র ও অর্থনৈতিক মুক্তির লক্ষ্য নিয়ে প্রতিষ্ঠার ৪৮ বছর পূর্ণ করেছে।",
+        "lead_en": "Bangladesh Nationalist Juba Dal has completed 48 years of establishment aimed at democracy and economic emancipation.",
+        "bullets_bn": [
+          "বিএনপির প্রতিষ্ঠাতা জিয়াউর রহমান ১৯৭৮ সালের এই দিনে যুবদল প্রতিষ্ঠা করেন।",
+          "সংগঠনটি বাংলাদেশি জাতীয়তাবাদ ও সামাজিক ন্যায়বিচার প্রতিষ্ঠার লক্ষ্যে যাত্রা শুরু করে।",
+          "যুবশক্তিকে কর্মশক্তিতে রূপান্তরিত করতে উৎপাদনমুখী রাজনীতির ওপর জোর দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "BNP founder Ziaur Rahman established the organization on this day in 1978.",
+          "The organization launched with the objective of establishing Bangladeshi nationalism and social justice.",
+          "Emphasis is placed on productive politics to transform youth power into a productive workforce."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "সালের ২৭ অক্টোবর বিএনপির প্রতিষ্ঠাতা ও তৎকালীন রাষ্ট্রপতি জিয়াউর রহমান জাতীয়তাবাদী যুবদল প্রতিষ্ঠা করেন। বাংলাদেশি জাতীয়তাবাদ, গণতন্ত্র, সামাজিক ন্যায়বিচার ও অর্থনৈতিক মুক্তির লক্ষ্যে উৎপাদনমুখী রাজনীতির মাধ্যমে যুবশক্তিকে কর্মশক্তিতে রূপান্তরিত করার লক্ষ্য নিয়ে সংগঠনটি যাত্রা শুরু করেছিল। প্রতিষ্ঠালগ্ন থেকেই দলটি রাজনৈতিক ও সামাজিক কার্যক্রমে সক্রিয় ভূমিকা পালন করে আসছে।",
+        "details_en": "On October 27, 1978, BNP founder and then-President Ziaur Rahman established Juba Dal. The organization started its journey with the objective of transforming youth power into a productive workforce through production-oriented politics for Bangladeshi nationalism, democracy, social justice, and economic emancipation. Since its inception, the organization has played an active role in political and social activities."
+      }
+    },
     {
       "story_id": "e4a69dd9-2fb4-5ef6-92e3-b1367107c95a",
       "primary_category": "sports_fitness",
@@ -15,10 +184,10 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-26T23:58:33+00:00",
+      "published_at": "2026-10-27T00:19:07+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9491,
+      "rank_score": 0.6599,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -28,260 +197,93 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "বছর পর ব্যালন ডি’অর জিতে নিলেন ইংলিশ তারকা হ্যারি কেইন",
+        "title_bn": "দীর্ঘ ২৫ বছর পর ব্যালন ডি অর জিতলেন ইংলিশ তারকা হ্যারি কেইন",
         "title_en": "English Star Harry Kane Wins Ballon dOr After Twenty Five Years",
-        "summary_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ মৌসুম কাটিয়ে ব্যালন ডিঅর জিতেছেন ইংলিশ স্ট্রাইকার হ্যারি কেইন।",
-        "summary_en": "English striker Harry Kane won the Ballon dOr following an extraordinary season for Bayern Munich and England.",
+        "summary_bn": "ইংল্যান্ড ও বায়ার্ন মিউনিখের তারকা স্ট্রাইকার হ্যারি কেইন দীর্ঘ পঁচিশ বছর পর মর্যাদাপূর্ণ ব্যালন ডি অর পুরস্কার জিতেছেন।",
+        "summary_en": "England and Bayern Munich star striker Harry Kane won the prestigious Ballon dOr award after twenty five years.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:58:33+00:00",
-        "lead_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ মৌসুম কাটিয়ে ব্যালন ডিঅর জিতেছেন ইংলিশ স্ট্রাইকার হ্যারি কেইন।",
-        "lead_en": "English striker Harry Kane won the Ballon dOr following an extraordinary season for Bayern Munich and England.",
+        "published_at": "2026-10-27T00:19:07+00:00",
+        "lead_bn": "ইংল্যান্ড ও বায়ার্ন মিউনিখের তারকা স্ট্রাইকার হ্যারি কেইন দীর্ঘ পঁচিশ বছর পর মর্যাদাপূর্ণ ব্যালন ডি অর পুরস্কার জিতেছেন।",
+        "lead_en": "England and Bayern Munich star striker Harry Kane won the prestigious Ballon dOr award after twenty five years.",
         "bullets_bn": [
-          "ইংলিশ অধিনায়ক হ্যারি কেইন ফুটবল বিশ্বের মর্যাদাপূর্ণ ব্যালন ডিঅর পুরস্কার অর্জন করেছেন।",
-          "বায়ার্ন মিউনিখ ও জাতীয় দলের হয়ে বিগত মৌসুমে ৬৫ ম্যাচে মোট ৭৩টি গোল করেছেন তিনি।",
-          "সালে মাইকেল ওয়েনের পর প্রথম ইংলিশ ফুটবলার হিসেবে এই সম্মানজনক খেতাব জিতলেন তিনি।"
+          "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ পারফরম্যান্সের সুবাদে ব্যালন ডি অর জিতেছেন ইংলিশ অধিনায়ক হ্যারি কেইন",
+          "পুরস্কারজয়ী খেলোয়াড় ক্লাব ও জাতীয় দলের জার্সিতে মোট ৬৫ ম্যাচে ৭৩টি গোল করার কীর্তি গড়েছেন",
+          "সালের পর প্রথম ইংলিশ ফুটবলার হিসেবে এই মর্যাদাপূর্ণ খেতাব অর্জন করলেন হ্যারি কেইন"
         ],
         "bullets_en": [
-          "English captain Harry Kane secured the prestigious Ballon dOr award in global football.",
-          "He scored a total of seventy-three goals in sixty-five matches for club and country during the season.",
-          "He became the first English player to win this prestigious title since Michael Owen in two thousand one."
+          "English captain Harry Kane secured the Ballon dOr following an exceptional season for Bayern Munich and England",
+          "The award winning forward achieved the remarkable milestone of scoring seventy three goals in sixty five matches",
+          "Kane became the first English footballer to claim the prestigious individual honor since two thousand and one"
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ড জাতীয় দলের হয়ে মাঠ মাতানো হ্যারি কেইন পুরো মৌসুমে নিজের গোল করার দক্ষতা প্রমাণ করেছেন। ধারাবাহিক পারফরম্যান্সের সুবাদে তিনি পেছনে ফেলেছেন অন্যান্য সেরাদের। দীর্ঘ আড়াই দশক পর কোনো ইংলিশ ফুটবলারের এই অর্জন দেশের ফুটবলে এক ঐতিহাসিক মাইলফলক হিসেবে যুক্ত হলো।",
-        "details_en": "Harry Kane dominated the pitch for both Bayern Munich and the England national team, showcasing his exceptional goalscoring prowess throughout the season. His consistent high-level performance propelled him past top competitors. This achievement marks a historic milestone for English football, as an Englishman claims the honor after a quarter of a century."
+        "details_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ড জাতীয় দলের হয়ে মাঠ মাতানো হ্যারি কেইন পুরো মৌসুমে গোলবন্যা বইয়ে দিয়েছেন। ক্লাব ও আন্তর্জাতিক অঙ্গনে অসাধারণ ধারাবাহিকতা প্রদর্শন করে তিনি নিজেকে বিশ্বের অন্যতম সেরা গোলদাতা হিসেবে প্রতিষ্ঠিত করেছেন। মাইকেল ওয়েনের পর দীর্ঘ পঁচিশ বছর বিরতির পর কোনো ইংলিশ ফুটবলারের এই অর্জন দেশের ফুটবল ইতিহাসে এক নতুন মাইলফলক সৃষ্টি করল।",
+        "details_en": "Harry Kane dominated the pitch for both Bayern Munich and the England national team throughout the season. By demonstrating remarkable consistency at club and international levels, he reestablished himself as one of the elite goalscorers in world football. This historic victory marks the first time an English player has claimed the trophy in twenty five years, following Michael Owen in two thousand and one."
       }
     },
     {
-      "story_id": "72c08dc2-8027-5b8d-afd8-3a784ed92b2c",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/ea50b12e-6c93-4a82-a979-6f83d1daccc1.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-26T23:28:37+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.7143,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ballon-dor-barcelona-spain-london-harry-kane-putellas/",
-          "title": "দীর্ঘ অপেক্ষার অবসান কেনের, ইতিহাস গড়লেন পুতেল্লাস",
-          "snippet": "দীর্ঘ অপেক্ষার অবসান কেনের, ইতিহাস গড়লেন পুতেল্লাস"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্যালন ডিঅর জিতলেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস",
-        "title_en": "Harry Kane and Alexia Putellas Win Ballon dOr Awards",
-        "summary_bn": "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ২০২৬ সালের ব্যালন ডিঅর জিতেছেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস।",
-        "summary_en": "Harry Kane and Alexia Putellas claimed the prestigious Ballon dOr awards at a ceremony in London.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:28:37+00:00",
-        "lead_bn": "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ২০২৬ সালের ব্যালন ডিঅর জিতেছেন হ্যারি কেন ও আলেক্সিয়া পুতেল্লাস।",
-        "lead_en": "Harry Kane and Alexia Putellas claimed the prestigious Ballon dOr awards at a ceremony in London.",
-        "bullets_bn": [
-          "বায়ার্ন মিউনিখের স্ট্রাইকার হ্যারি কেন ছেলেদের বিভাগে এবং স্পেনের মিডফিল্ডার আলেক্সিয়া পুতেল্লাস মেয়েদের বিভাগে ব্যালন ডিঅর জিতেছেন।",
-          "কেন মৌসুমে ৫১ ম্যাচে ৬১ গোল করে ২০০১ সালের পর প্রথম ইংলিশ খেলোয়াড় হিসেবে এই পুরস্কার অর্জন করেন এবং পুতেল্লাস তৃতীয়বারের মতো এই সম্মান পান।",
-          "লন্ডনের প্যালাডিয়াম থিয়েটারে আনুষ্ঠানিকভাবে বিজয়ীদের হাতে এই মর্যাদাপূর্ণ ব্যক্তিগত পুরস্কার তুলে দেয়া হয়।"
-        ],
-        "bullets_en": [
-          "Bayern Munich striker Harry Kane won the mens Ballon dOr while Spanish midfielder Alexia Putellas claimed the womens honor.",
-          "Kane scored 61 goals in 51 matches to become the first English winner since 2001, while Putellas secured her third career award.",
-          "The prestigious individual football awards were officially presented to both players at the ceremony in London."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "দীর্ঘ প্রতীক্ষার পর হ্যারি কেন তার ক্লাব বায়ার্ন মিউনিখের হয়ে দুর্দান্ত পারফরম্যান্সের সুবাদে প্রথমবার এই মর্যাদাপূর্ণ ব্যক্তিগত স্বীকৃতি অর্জন করেন। অন্যদিকে, বার্সেলোনা ছেড়ে লন্ডন সিটিতে যোগ দেয়া আলেক্সিয়া পুতেল্লাস নারী ফুটবলে নিজের অসামান্য ধারাবাহিকতা বজায় রেখে রেকর্ড গড়ে তৃতীয়বারের মতো ব্যালন ডিঅর নিজের করে নেন। আন্তর্জাতিক ও ক্লাব ফুটবলে তাদের এই সাফল্য বিশ্ব ফুটবলে নতুন অধ্যায়ের সূচনা করেছে।",
-        "details_en": "Harry Kane earned his first Ballon dOr following an exceptional scoring season with Bayern Munich, becoming the first Englishman to win the award since 2001. Meanwhile, Alexia Putellas secured her third career Ballon dOr after maintaining remarkable consistency for both Barcelona and the Spanish national team before her move to London City."
-      }
-    },
-    {
-      "story_id": "ab1d5cd3-98e7-5489-8cf8-529bc18f8a38",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/16d82e.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-26T23:19:17+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6612,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/ballon-dor-barcelona-spain-london-simon/",
-          "title": "কোপা ট্রফিতে ইয়ামালের হ্যাটট্রিক",
-          "snippet": "কোপা ট্রফিতে ইয়ামালের হ্যাটট্রিক"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কোপা ট্রফিতে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন লামিনে ইয়ামাল",
-        "title_en": "Lamine Yamal Wins Kopa Trophy for Third Consecutive Year",
-        "summary_bn": "বার্সেলোনা ও স্পেনের ফরোয়ার্ড লামিনে ইয়ামাল কোপা ট্রফির ইতিহাসে প্রথম ফুটবলার হিসেবে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড়ের পুরস্কার জিতেছেন।",
-        "summary_en": "Barcelona and Spain forward Lamine Yamal has won the Kopa Trophy for the best under-21 player for the third consecutive year.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:19:17+00:00",
-        "lead_bn": "বার্সেলোনা ও স্পেনের ফরোয়ার্ড লামিনে ইয়ামাল কোপা ট্রফির ইতিহাসে প্রথম ফুটবলার হিসেবে টানা তৃতীয়বার বর্ষসেরা তরুণ খেলোয়াড়ের পুরস্কার জিতেছেন।",
-        "lead_en": "Barcelona and Spain forward Lamine Yamal has won the Kopa Trophy for the best under-21 player for the third consecutive year.",
-        "bullets_bn": [
-          "বার্সেলোনা ও স্পেনের তরুণ ফরোয়ার্ড লামিনে ইয়ামাল টানা তৃতীয়বারের মতো কোপা ট্রফি জয় করেন।",
-          "লন্ডনের প্যালাডিয়াম থিয়েটারে আয়োজিত অনুষ্ঠানে ১৯ বছর বয়সী এই ফুটবলারের হাতে পুরস্কার তুলে দেওয়া হয়।",
-          "মেয়েদের বিভাগে টানা দ্বিতীয়বারের মতো বর্ষসেরা তরুণ খেলোয়াড় নির্বাচিত হয়েছেন বার্সেলোনার ভিকি লোপেজ।"
-        ],
-        "bullets_en": [
-          "Barcelona and Spain forward Lamine Yamal secured the Kopa Trophy for the third consecutive time.",
-          "The award was presented to the 19-year-old footballer at a ceremony held at the Palladium Theatre in London.",
-          "Barcelona player Vicky Lopez was named the best young player in the women's category for the second consecutive year."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "অনূর্ধ্ব-২১ বছর বয়সী সেরা ফুটবলারকে সম্মানিত করার জন্য ২০১৮ সালে কোপা ট্রফি চালু করা হয়। প্রথম আসরে এই পুরস্কার জিতেছিলেন ফ্রান্সের কাইলিয়ান এমবাপে। বার্সেলোনা ও স্পেনের জার্সিতে অসাধারণ গতি, ড্রিবলিং এবং আক্রমণ তৈরির দক্ষতার মাধ্যমে ইয়ামাল বয়সভিত্তিক ফুটবলে নিজের অসামান্য আধিপত্য বজায় রেখেছেন।",
-        "details_en": "The Kopa Trophy was introduced in 2018 to honor the best under-21 footballer, with France's Kylian Mbappe winning the inaugural edition. Lamine Yamal has maintained his dominance in youth football through exceptional speed, dribbling, and playmaking skills for both Barcelona and Spain."
-      }
-    },
-    {
-      "story_id": "8469ee95-e01e-556c-b891-66e2815881f1",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-26T23:13:29+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6316,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172340",
-          "title": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের",
-          "snippet": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সৌদি আরবকে পূর্ণ শক্তি দিয়ে রক্ষার ঘোষণা পাকিস্তানের",
-        "title_en": "Pakistan Vows to Defend Saudi Arabia with Full Force",
-        "summary_bn": "সৌদি আরবের সার্বভৌমত্ব ও নিরাপত্তার ওপর কোনো হামলা হলে তা প্রতিহত করতে পূর্ণ শক্তি প্রয়োগের ঘোষণা দিয়েছে পাকিস্তান।",
-        "summary_en": "Pakistan has announced that it will use full force to defend Saudi Arabia against any attack on its security.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:13:29+00:00",
-        "lead_bn": "সৌদি আরবের সার্বভৌমত্ব ও নিরাপত্তার ওপর কোনো হামলা হলে তা প্রতিহত করতে পূর্ণ শক্তি প্রয়োগের ঘোষণা দিয়েছে পাকিস্তান।",
-        "lead_en": "Pakistan has announced that it will use full force to defend Saudi Arabia against any attack on its security.",
-        "bullets_bn": [
-          "সৌদি আরবের ওপর যেকোনো ধরনের আক্রমণ প্রতিহত করতে পাকিস্তান পূর্ণ শক্তি প্রয়োগের অঙ্গীকার করেছে।",
-          "পাকিস্তানের প্রতিরক্ষামন্ত্রী খাজা আসিফ দেশটির এই দৃঢ় অবস্থান গণমাধ্যমে আনুষ্ঠানিকভাবে নিশ্চিত করেছেন।",
-          "দুই দেশের দীর্ঘদিনের সামরিক ও কৌশলগত মিত্রতার অংশ হিসেবে এই যৌথ প্রতিরক্ষা অবস্থান নেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "Pakistan committed to deploying its full military strength to counter any aggression against Saudi Arabia.",
-          "Pakistani Defence Minister Khawaja Asif officially confirmed the nation's firm security stance.",
-          "This joint defensive posture builds upon the long-standing military and strategic alliance between the two nations."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "মধ্যপ্রাচ্যের ভূরাজনীতিতে নিরাপত্তা সহযোগিতা জোরদার করতে পাকিস্তান ও সৌদি আরব দীর্ঘদিন ধরে যৌথ সামরিক চুক্তি বজায় রেখে কাজ করে আসছে। আঞ্চলিক স্থিতিশীলতা রক্ষা এবং কৌশলগত অংশীদারিত্ব বজায় রাখার অংশ হিসেবে দুই দেশের মধ্যে এই প্রতিরক্ষা সহযোগিতা অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে থাকে।",
-        "details_en": "Pakistan and Saudi Arabia have long maintained close military cooperation and bilateral defense pacts to ensure regional stability. This alliance plays a crucial role in maintaining geopolitical balance and security partnerships in the Middle East."
-      }
-    },
-    {
-      "story_id": "3c824c19-4500-5a5f-95ce-bc6428812b7f",
+      "story_id": "5b8cfae0-7dce-53f2-bd93-dadb5f1482b5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business"
+        "economy_business",
+        "climate_environment"
       ],
       "region": "international",
       "tags": [
-        "#UnitedNations",
-        "#IsraelPalestine",
-        "#WestBank"
+        "#Inflation",
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://static.dw.com/image/79770273_6.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/4b619f66c1998b451b6ebb61bfe607e11749fbf9/148_0_3615_2892/master/3615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3718d172568068743f2596ed9fb9e2ce",
       "image_caption": null,
-      "published_at": "2026-10-27T00:00:45.425413+00:00",
+      "published_at": "2026-10-27T00:01:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6884,
+      "importance_score": 4.25,
+      "rank_score": 1.0184,
       "sources": [
         {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
-          "title": "UN sounds the alarm over Israel's West Bank military operation",
-          "snippet": "UN sounds the alarm over Israel's West Bank military operation"
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+          "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+          "snippet": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলের সামরিক অভিযানের তীব্র নিন্দা জানিয়েছে জাতিসংঘ",
-        "title_en": "United Nations Condemns Israeli Military Operation in West Bank",
-        "summary_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নিধনের শঙ্কা বলে অভিহিত করেছে জাতিসংঘ।",
-        "summary_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, citing grave violations of international law and displacement.",
+        "title_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি আড়াই বছরের সর্বোচ্চ স্তরে পৌঁছেছে",
+        "title_en": "UK Shop Price Inflation Rises to Highest Level in Years",
+        "summary_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি বেড়ে দুই বছরেরও বেশি সময়ের মধ্যে সর্বোচ্চ স্তরে পৌঁছেছে।",
+        "summary_en": "Shop price inflation in the UK has risen to the highest level in two and a half years.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "economy_business",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:00:45.425413+00:00",
-        "lead_bn": "অধিকৃত পশ্চিম তীরে ইসরায়েলি সামরিক অভিযানের কঠোর সমালোচনা করে একে আন্তর্জাতিক আইনের লঙ্ঘন ও জাতিগত নিধনের শঙ্কা বলে অভিহিত করেছে জাতিসংঘ।",
-        "lead_en": "The United Nations strongly condemned the Israeli military operation in the West Bank, citing grave violations of international law and displacement.",
+        "published_at": "2026-10-27T00:01:02+00:00",
+        "lead_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি বেড়ে দুই বছরেরও বেশি সময়ের মধ্যে সর্বোচ্চ স্তরে পৌঁছেছে।",
+        "lead_en": "Shop price inflation in the UK has risen to the highest level in two and a half years.",
         "bullets_bn": [
-          "ইসরায়েলি প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু হেব্রন শহরে ভবন ভাঙচুর এবং পশ্চিম তীর অবরুদ্ধ করার নির্দেশ দেন।",
-          "জাতিসংঘের মানবাধিকার প্রধান ভলকার তুর্ক জোরপূর্বক বাস্তুচ্যুতি এবং সম্মিলিত শাস্তিকে আন্তর্জাতিক আইনের গুরুতর লঙ্ঘন বলে অভিহিত করেছেন।",
-          "ইসরায়েলি সাধারণ নির্বাচনের ঠিক আগে এই সামরিক অভিযান ও উচ্ছেদের ঘটনা ঘটে।"
+          "যুক্তরাজ্যে বার্ষিক খুচরা মূল্যস্ফীতি বেড়ে দশমিক এক শতাংশে পৌঁছেছে।",
+          "খাদ্য মূল্যস্ফীতি বেড়ে দশমিক নয় শতাংশ হয়েছে যা আগের মাসে কম ছিল।",
+          "মূল্য বৃদ্ধির চাপ সামলাতে ব্যাংক অব ইংল্যান্ড সুদের হার বাড়াতে পারে।"
         ],
         "bullets_en": [
-          "Israeli Prime Minister Benjamin Netanyahu ordered the demolition of buildings and the closure of the West Bank following a shootout.",
-          "UN Human Rights Chief Volker Turk stated that aggressive operations have forcibly displaced thousands of Palestinians and destroyed properties.",
-          "The military actions escalated just days ahead of the scheduled Israeli general election."
+          "UK shop price inflation rose to 2.1% year on year in October.",
+          "Food inflation increased to 2.9% against a 2.5% rise in September.",
+          "Bank of England officials are expected to raise interest rates to 4%."
         ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "পশ্চিম তীরে একটি গোলাগুলির ঘটনার জেরে ইসরায়েলি সামরিক বাহিনী হেব্রন শহরে বড় ধরনের অভিযান চালায়। এতে দুই ইসরায়েলি সেনা ও দুই ফিলিস্তিনি বন্দুকধারী নিহত হন এবং আরও সেনা আহত হন। এর পরই প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু অঞ্চলটিতে কঠোর ব্যবস্থা গ্রহণের নির্দেশ দেন। জাতিসংঘ এই পদক্ষেপে গভীর উদ্বেগ প্রকাশ করে জানিয়েছে যে বসতি সম্প্রসারণ এবং ফিলিস্তিনিদের উচ্ছেদ ওই অঞ্চলে মানবিক সংকট আরও বাড়িয়ে তুলছে।",
-        "details_en": "The Israeli military operation in Hebron was launched following a shootout that left two Israeli soldiers and two Palestinian gunmen dead. Prime Minister Benjamin Netanyahu subsequently ordered building demolitions and a strict closure of the West Bank. The UN expressed severe concern over expanding settlements, continuous evictions, and the worsening humanitarian crisis affecting thousands of displaced Palestinians."
+        "impact_bn": "যুক্তরাজ্যের সাধারণ ভোক্তাদের জন্য খাদ্য ও পোশাক ক্রয়ের খরচ উল্লেখযোগ্যভাবে বৃদ্ধি পাবে।",
+        "impact_en": "Everyday consumers in the UK will face increased living costs for food and household items.",
+        "details_bn": "মধ্যপ্রাচ্য সংকটের জেরে জ্বালানি ও খাদ্য উপকরণের দাম বৃদ্ধি পাওয়ায় যুক্তরাজ্যের খুচরা বিক্রেতারা এতদিন খরচ শুষে নিলেও এখন তা পণ্যের দামে যোগ করতে বাধ্য হচ্ছেন। এর ফলে সাধারণ মানুষের জীবনযাত্রার ব্যয় বৃদ্ধির পাশাপাশি দেশটির অর্থনীতি ও মুদ্রানীতির ওপর বাড়তি চাপ তৈরি হয়েছে।",
+        "details_en": "Retailers in the UK had previously absorbed rising raw material costs due to weak demand, but escalating energy and food prices driven by Middle East conflicts forced them to pass costs to consumers, pressuring the wider economy."
       }
     },
     {
@@ -300,23 +302,23 @@
       ],
       "image_url": "https://i.guim.co.uk/img/media/808fc6ef5b275b5f1953ad049b5b5eaad5f8fe9a/1310_578_4277_3422/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b1884c1445759e84589fecea2a46086",
       "image_caption": null,
-      "published_at": "2026-10-26T23:54:23+00:00",
+      "published_at": "2026-10-27T00:52:49+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6437,
+      "rank_score": 0.633,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, Labor says",
-          "snippet": "Australian politics live: Fatima Payman linking Haines-style attack to staffing allocation is ‘outrageous’, La"
+          "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
+          "snippet": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus "
         }
       ],
       "daily_buzz": {
-        "title_bn": "অতিরিক্ত স্টাফ না দেওয়ায় প্রধানমন্ত্রীকে দায়ী করলেন সেনেটর ফাতিমা পেমান",
-        "title_en": "Senator Fatima Payman Criticizes Prime Minister Over Staff Allocation",
-        "summary_bn": "স্বাধীন সেনেটর ফাতিমা পেমান তার কার্যালয়ে অতিরিক্ত স্টাফের দাবি অবহেলা করায় প্রধানমন্ত্রীকে অভিযুক্ত করেছেন।",
-        "summary_en": "Independent Senator Fatima Payman accused the prime minister of neglecting requests for additional staff.",
+        "title_bn": "সেনা কার্যালয়ে পর্যাপ্ত কর্মী বরাদ্দের দাবি ফাতেমা পায়মানের",
+        "title_en": "Senator Fatima Payman Demands Additional Staff Amid Security Concerns",
+        "summary_bn": "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কর্মী স্বল্পতা ও নিরাপত্তার ঝুঁকির কারণে প্রধানমন্ত্রী অ্যান্থনি আলবেনিজের কাছে অতিরিক্ত উপদেষ্টা নিয়োগের দাবি জানিয়েছেন।",
+        "summary_en": "Independent Senator Fatima Payman criticized Prime Minister Anthony Albanese for delaying staff allocations amid escalating security and workplace hazards.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -325,23 +327,23 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-26T23:54:23+00:00",
-        "lead_bn": "স্বাধীন সেনেটর ফাতিমা পেমান তার কার্যালয়ে অতিরিক্ত স্টাফের দাবি অবহেলা করায় প্রধানমন্ত্রীকে অভিযুক্ত করেছেন।",
-        "lead_en": "Independent Senator Fatima Payman accused the prime minister of neglecting requests for additional staff.",
+        "published_at": "2026-10-27T00:52:49+00:00",
+        "lead_bn": "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কর্মী স্বল্পতা ও নিরাপত্তার ঝুঁকির কারণে প্রধানমন্ত্রী অ্যান্থনি আলবেনিজের কাছে অতিরিক্ত উপদেষ্টা নিয়োগের দাবি জানিয়েছেন।",
+        "lead_en": "Independent Senator Fatima Payman criticized Prime Minister Anthony Albanese for delaying staff allocations amid escalating security and workplace hazards.",
         "bullets_bn": [
-          "ফাতিমা পেমান দাবি করেছেন যে তার কার্যালয় পর্যাপ্ত স্টাফ ছাড়াই কাজ করছে এবং তিনি অতিরিক্ত একজন উপদেষ্টার অনুরোধ করেছেন।",
-          "তিনি বলেছেন যে তার স্টাফরা মানসিক ও শারীরিক হুমকির মুখে রয়েছেন এবং পর্যাপ্ত সহায়তা পাচ্ছেন না।",
-          "বাণিজ্যমন্ত্রী ডন ফারেল এই মন্তব্যকে চরম আপত্তিজনক ও অগ্রহণযোগ্য বলে প্রত্যাখ্যান করেছেন।"
+          "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কার্যালয়ের অতিরিক্ত কর্মী বরাদ্দের জন্য দুই বছর আগে করা আবেদন ঝুলে থাকার অভিযোগ তোলেন।",
+          "বাণিজ্যমন্ত্রী ডন ফ্যারেল ফাতেমা পায়মানের এই মন্তব্যকে অত্যন্ত আপত্তিকর ও অগ্রহণযোগ্য বলে প্রত্যাখ্যান করেছেন।",
+          "অতিরিক্ত কর্মী না পেলে কার্যালয়ের কর্মীরা চরম মানসিক অবসাদ ও নিরাপত্তার ঝুঁকির মুখোমুখি হবেন বলে সতর্ক করা হয়েছে।"
         ],
         "bullets_en": [
-          "Senator Fatima Payman argued her office is severely understaffed and criticized the delay in processing her request.",
-          "She stated her staff faced serious security hazards and burnout while waiting for an additional adviser.",
-          "Trade Minister Don Farrell strongly rejected her remarks as an outrageous suggestion during the Senate hearing."
+          "Independent Senator Fatima Payman accused Prime Minister Anthony Albanese of delaying her office staff requests for two years.",
+          "Trade Minister Don Farrell strongly rejected Payman's comparison, calling the suggestion absolutely outrageous.",
+          "Payman warned that her staff members face severe burnout and psychosocial hazards without adequate official support."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "অস্ট্রেলিয়ার পার্লামেন্টে লেবার পার্টি ছেড়ে স্বাধীন সেনেটর হিসেবে যোগ দেওয়ার পর থেকেই ফাতিমা পেমান তার কার্যালয়ের স্টাফ সংকট নিয়ে সোচ্চার ছিলেন। তিনি দাবি করেন যে অন্যান্য স্বাধীন এমপিদের মতো তারও অতিরিক্ত উপদেষ্টা পাওয়ার অধিকার রয়েছে। তবে নিরাপত্তা হুমকি ও মানসিক চাপের মুখে পড়েও প্রধানমন্ত্রী তার এই দাবি আমলে নেননি বলে তিনি অভিযোগ করেন। সেনেট হেয়ারিংয়ে এই বিষয়টি নিয়ে তীব্র বিতর্ক সৃষ্টি হয়।",
-        "details_en": "Senator Fatima Payman has faced ongoing staffing shortages after defecting from the Labor Party in 2024. She claimed her office has been unfairly denied additional advisory support compared to other independent politicians, despite escalating security concerns and psychosocial hazards faced by her staff. The dispute culminated in a heated exchange during a late-night Senate estimates hearing."
+        "details_bn": "লেবার পার্টি ছেড়ে স্বতন্ত্র দলে যোগ দেওয়ার পর থেকেই সিনেটর ফাতেমা পায়মানের সঙ্গে সরকারের রাজনৈতিক দূরত্ব তৈরি হয়। তিনি বিভিন্ন সময় তার কার্যালয়ের অবমূল্যায়ন ও কর্মীস্বল্পতার অভিযোগ তুলে আসছেন। সর্বশেষ সিনেট এস্টিমেটস শুনানিতে তিনি রাজনৈতিক সহিংসতা ও কার্যালয়ে আসা হুমকির বিষয়টি সামনে এনে অতিরিক্ত উপদেষ্টার দাবি পুনর্ব্যক্ত করেন।",
+        "details_en": "Senator Fatima Payman defected from the Labor Party, leading to ongoing political friction with Prime Minister Anthony Albanese's administration. Payman has repeatedly argued that her office faces understaffing and security threats, a grievance she reiterated during a recent Senate estimates hearing while demanding an additional adviser to manage workplace hazards."
       }
     }
   ]
