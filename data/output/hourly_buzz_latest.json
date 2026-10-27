@@ -1,60 +1,174 @@
 {
-  "updated_at": "2026-10-27T01:00:50.933636",
+  "updated_at": "2026-10-27T02:00:48.589851",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "1023198b-1291-5be0-b9ee-ff746cfa967c",
-      "primary_category": "economy_business",
+      "story_id": "726ba353-9a56-5551-a809-1f48a7abdb53",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-27T00:42:45+00:00",
+      "published_at": "2026-10-27T01:31:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6202,
+      "importance_score": 6.6,
+      "rank_score": 2.0071,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/976959/%E0%A6%85%E0%A6%A4%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BE-%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%9F%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A8-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A7%8B%E0%A6%A7-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "অতীতে বিনা টিকিটে ট্রেন ভ্রমণ, টাকা পরিশোধ করলেন প্রবাসী",
-          "snippet": "অতীতে বিনা টিকিটে ট্রেন ভ্রমণ, টাকা পরিশোধ করলেন প্রবাসী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172344",
+          "title": "প্রধানমন্ত্রীর সঙ্গে জাইকা প্রেসিডেন্টের সৌজন্য সাক্ষাৎ",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাইকা প্রেসিডেন্টের সৌজন্য সাক্ষাৎ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সৌদি প্রবাসী ব্রাহ্মণবাড়িয়া স্টেশনে অতীতে বিনা টিকিটে ট্রেন ভ্রমণের ভাড়া পরিশোধ করলেন",
-        "title_en": "Ex-expat pays for past ticketless train travel at Brahmanbaria station",
-        "summary_bn": "ব্রাহ্মণবাড়িয়ায় অতীতে বিনা টিকিটে ট্রেন ভ্রমণের অনুশোচনা থেকে ভাড়ার টাকা পরিশোধ করেছেন এক সৌদি প্রবাসী।",
-        "summary_en": "A Saudi-returned expat paid for past ticketless train travel in Brahmanbaria out of remorse.",
+        "title_bn": "জাইকা প্রেসিডেন্টের সাথে প্রধানমন্ত্রীর সৌজন্য সাক্ষাৎ",
+        "title_en": "Prime Minister Meets JICA President to Discuss Cooperation",
+        "summary_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্ট তানাকা আকিহিকো প্রধানমন্ত্রীর সাথে সৌজন্য সাক্ষাৎ করেছেন।",
+        "summary_en": "Japan International Cooperation Agency President Tanaka Akihiko paid a courtesy call on the Prime Minister.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business"
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:42:45+00:00",
-        "lead_bn": "ব্রাহ্মণবাড়িয়ায় অতীতে বিনা টিকিটে ট্রেন ভ্রমণের অনুশোচনা থেকে ভাড়ার টাকা পরিশোধ করেছেন এক সৌদি প্রবাসী।",
-        "lead_en": "A Saudi-returned expat paid for past ticketless train travel in Brahmanbaria out of remorse.",
+        "published_at": "2026-10-27T01:31:07+00:00",
+        "lead_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থার প্রেসিডেন্ট তানাকা আকিহিকো প্রধানমন্ত্রীর সাথে সৌজন্য সাক্ষাৎ করেছেন।",
+        "lead_en": "Japan International Cooperation Agency President Tanaka Akihiko paid a courtesy call on the Prime Minister.",
         "bullets_bn": [
-          "প্রবাসীর পক্ষে তার ভাতিজা ব্রাহ্মণবাড়িয়া রেলওয়ে স্টেশনে এসে পূর্বের ভ্রমণের বকেয়া ভাড়া পরিশোধ করেন",
-          "মোহাম্মাদ হাবিবুর রহমান নামের ওই প্রবাসী জেলার সদর উপজেলার রাধিকা এলাকার বাসিন্দা",
-          "সচেতন নাগরিক সমাজের প্রশংসার মুখে পড়ে বকেয়া ভাড়া পরিশোধের এই সততার নজির স্থাপন করা হয়"
+          "বাংলাদেশ ও জাপানের মধ্যকার চলমান উন্নয়নমূলক প্রকল্প নিয়ে আলোচনা হয়েছে।",
+          "জাইকা প্রেসিডেন্ট বাংলাদেশের অবকাঠামো ও অর্থনৈতিক প্রবৃদ্ধিতে দীর্ঘমেয়াদী সহযোগিতার আশ্বাস দিয়েছেন।",
+          "উভয় পক্ষ পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয় নিয়ে আগামীতে যৌথ উদ্যোগ আরও ত্বরান্বিত করার সিদ্ধান্ত নিয়েছে।"
         ],
         "bullets_en": [
-          "The expat's nephew cleared the due train fare on behalf of his uncle at Brahmanbaria railway station",
-          "The expatriate Mohammad Habibur Rahman is a resident of Radhika area in Sadar upazila",
-          "This display of honesty in clearing due fares has drawn appreciation from conscious citizens"
+          "Discussions focused on ongoing development projects between Bangladesh and Japan.",
+          "The JICA President assured long-term cooperation in Bangladesh infrastructure and economic growth.",
+          "Both sides agreed to accelerate joint initiatives on mutual interests moving forward."
         ],
-        "impact_bn": "এই সততার উদ্যোগ সাধারণ মানুষের মধ্যে রেলওয়ে আইন মেনে চলার সচেতনতা ও নৈতিকতা বৃদ্ধি করবে।",
-        "impact_en": "This honest initiative will foster a sense of civic responsibility and adherence to railway rules among citizens.",
-        "details_bn": "বাংলাদেশে ট্রেন ভ্রমণের সময় অনেকে বিনা টিকিটে যাতায়াত করলেও পরবর্তী সময়ে অনুতপ্ত হয়ে ভাড়ার টাকা পরিশোধ করার ঘটনা বিরল। ব্রাহ্মণবাড়িয়া রেলওয়ে স্টেশনে ঘটিত এই সততার ঘটনাটি স্থানীয় মহলে ব্যাপক আলোচনার সৃষ্টি করেছে এবং রেলওয়ে খাতের প্রতি নাগরিকদের নৈতিক দায়িত্ববোধকে স্মরণ করিয়ে দিয়েছে।",
-        "details_en": "While traveling without tickets is a known challenge for Bangladesh railways, citizens voluntarily clearing past fares out of remorse remains rare. This incident at Brahmanbaria railway station has sparked local discussion and highlighted individual civic accountability towards public transport systems."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাপান আন্তর্জাতিক সহযোগিতা সংস্থা বা জাইকা বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার। দেশের বড় বড় অবকাঠামো উন্নয়ন, যোগাযোগ ব্যবস্থা এবং অর্থনৈতিক খাতের বিভিন্ন প্রকল্পে সংস্থাটি দীর্ঘদিন ধরে আর্থিক ও কারিগরি সহায়তা প্রদান করে আসছে।",
+        "details_en": "Japan International Cooperation Agency remains one of Bangladesh's primary development partners. The agency has long provided financial and technical support for major infrastructure development, transportation networks, and various economic sector projects across the country."
+      }
+    },
+    {
+      "story_id": "dec33960-bf57-5e71-9b23-65c776130f99",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.964,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/weather/976947/%E0%A6%8F%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%B6%E0%A7%80%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A7%80%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%B9%E0%A6%AC%E0%A7%87",
+          "title": "এ বছর শীতের তীব্রতা কেমন হবে",
+          "snippet": "এ বছর শীতের তীব্রতা কেমন হবে"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "এল নিনোর প্রভাবে বিশ্বজুড়ে তাপমাত্রা ও বৃষ্টিপাতের ধরনে পরিবর্তন আসছে",
+        "title_en": "El Nino Strengthens Globally Triggering Shifts in Temperature and Rainfall",
+        "summary_bn": "প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হওয়ায় বিশ্বের বিভিন্ন অঞ্চলে তাপমাত্রা ও বৃষ্টির স্বাভাবিক ধরনে পরিবর্তন আসছে।",
+        "summary_en": "Strengthening El Nino conditions in the Pacific Ocean are altering normal global temperature and rainfall patterns.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T02:00:00+00:00",
+        "lead_bn": "প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হওয়ায় বিশ্বের বিভিন্ন অঞ্চলে তাপমাত্রা ও বৃষ্টির স্বাভাবিক ধরনে পরিবর্তন আসছে।",
+        "lead_en": "Strengthening El Nino conditions in the Pacific Ocean are altering normal global temperature and rainfall patterns.",
+        "bullets_bn": [
+          "বিশ্ব আবহাওয়া সংস্থার পূর্বাভাস অনুযায়ী প্রশান্ত মহাসাগরে এল নিনো শক্তিশালী হচ্ছে।",
+          "এটি ২০২৬ সালের শেষ দিকে শক্তিশালী অবস্থায় পৌঁছে ২০২৭ সালের ফেব্রুয়ারি পর্যন্ত সক্রিয় থাকতে পারে।",
+          "এল নিনোর এই সক্রিয়তার ফলে বাংলাদেশের আসন্ন শীতের তীব্রতা ও আবহাওয়ায় প্রভাব পড়ার শঙ্কা তৈরি হয়েছে।"
+        ],
+        "bullets_en": [
+          "The World Meteorological Organization reports that El Nino is strengthening in the Pacific Ocean.",
+          "It is projected to peak by late 2026 and remain active through February 2027.",
+          "This phenomenon raises questions regarding the severity and patterns of the upcoming winter in Bangladesh."
+        ],
+        "impact_bn": "শীতের তীব্রতা বাড়লে সাধারণ মানুষ ও ছিন্নমূল জনগোষ্ঠীর দৈনন্দিন জীবনযাত্রা এবং স্বাস্থ্য ঝুঁকিতে পড়তে পারে।",
+        "impact_en": "Increased winter severity can disrupt daily life and pose health risks for ordinary citizens and vulnerable populations.",
+        "details_bn": "এল নিনো হলো প্রশান্ত মহাসাগরের নিরক্ষীয় অঞ্চলে সমুদ্রপৃষ্ঠের তাপমাত্রা বৃদ্ধির একটি স্বাভাবিক জলবায়ুগত ঘটনা। এর প্রভাবে বিশ্বজুড়ে আবহাওয়ার স্বাভাবিক চক্রে ব্যাপক পরিবর্তন দেখা যায়, যার ফলে কোথাও তীব্র খরা, কোথাও ভারী বৃষ্টিপাত কিংবা অস্বাভাবিক শীতের সৃষ্টি হতে পারে। বিশ্ব আবহাওয়া সংস্থার সর্বশেষ পূর্বাভাস অনুযায়ী এই জলবায়ু পরিবর্তনশীলতা আন্তর্জাতিক আবহাওয়া ব্যবস্থায় বড় ধরণের প্রভাব ফেলতে পারে।",
+        "details_en": "El Nino is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. It significantly alters global weather conditions, often triggering severe droughts, heavy rainfall, or abnormal winter temperatures across different regions. Recent forecasts by the World Meteorological Organization highlight its potential to heavily influence worldwide meteorological cycles."
+      }
+    },
+    {
+      "story_id": "b70b0a63-2699-5d8f-821a-866eb98a9b1d",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.964,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/cricket/976918/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%8B%E0%A6%B2%E0%A6%AA%E0%A6%BE%E0%A7%9C",
+          "title": "স্কোরারের ভুলে এক রানের হার নিয়ে তোলপাড়",
+          "snippet": "স্কোরারের ভুলে এক রানের হার নিয়ে তোলপাড়"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "স্কোরিং ভুলে এক রানের হারে টুর্নামেন্ট থেকে বিদায় ঝাড়খণ্ডের",
+        "title_en": "Jharkhand Exits Tournament Following One Run Defeat Due to Scoring Error",
+        "summary_bn": "স্কোরবোর্ডের ভুলে এক রানের নাটকীয় পরাজয়ের পর টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড নারী অনূর্ধ্ব ১৯ দল।",
+        "summary_en": "Jharkhand exits the women under nineteen tournament following a dramatic one run defeat caused by a scoring error.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T02:00:00+00:00",
+        "lead_bn": "স্কোরবোর্ডের ভুলে এক রানের নাটকীয় পরাজয়ের পর টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড নারী অনূর্ধ্ব ১৯ দল।",
+        "lead_en": "Jharkhand exits the women under nineteen tournament following a dramatic one run defeat caused by a scoring error.",
+        "bullets_bn": [
+          "স্কোরিং ভুলে এক রানের পরাজয়ের শিকার হয়ে টুর্নামেন্ট থেকে বিদায় নিয়েছে ঝাড়খণ্ড ক্রিকেট অ্যাসোসিয়েশন দল।",
+          "অফিসিয়াল স্কোরে শেষ বলের রান যোগ না হওয়ায় নাগপুরে অনুষ্ঠিত নারী অনূর্ধ্ব ১৯ টুর্নামেন্টে এই বিতর্ক তৈরি হয়।",
+          "ভুল সংশোধন ও ঘটনার প্রতিকার চেয়ে ভারতীয় ক্রিকেট বোর্ডের কাছে আনুষ্ঠানিকভাবে অভিযোগ দায়ের করেছে ঝাড়খণ্ড অ্যাসোসিয়েশন।"
+        ],
+        "bullets_en": [
+          "Jharkhand Cricket Association team exits the tournament after suffering a controversial one run defeat due to scoring error.",
+          "The dispute arose during the women under nineteen tournament in Nagpur after the final ball run was omitted from the official score.",
+          "Jharkhand Association has formally approached the Board of Control for Cricket in India demanding rectification and justice."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ভারতের নাগপুরে অনুষ্ঠিত নারী অনূর্ধ্ব ১৯ টুর্নামেন্টে জয়ের জন্য শেষ বলে দুই রান প্রয়োজন ছিল ঝাড়খণ্ডের। টাই করতে দরকার ছিল এক রান। শেষ বলের পর একটি রান পূর্ণ করে রানআউটের শিকার হন ব্যাটাররা। মাঠের স্কোরবোর্ডে রান যোগ হলেও অফিসিয়াল স্কোরে তা না ওঠায় এক রানের ব্যবধানে হার নিয়ে টুর্নামেন্ট থেকে বিদায় ঘটে দলটির। এই ঘটনায় অসন্তোষ প্রকাশ করে ভারতীয় ক্রিকেট বোর্ডের দ্বারস্থ হয়েছে ঝাড়খণ্ড ক্রিকেট অ্যাসোসিয়েশন।",
+        "details_en": "During the women under nineteen tournament in Nagpur, Jharkhand needed two runs to win and one to draw from the final ball. After completing a run and getting run out on the final delivery, the run was reflected on the field scoreboard but omitted from the official score. This discrepancy led to a one run defeat and tournament elimination, prompting Jharkhand Cricket Association to formally complain to the Board of Control for Cricket in India."
       }
     },
     {
@@ -73,7 +187,7 @@
       "published_at": "2026-10-27T00:33:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4929,
+      "rank_score": 0.958,
       "sources": [
         {
           "name": "Jago News 24",
@@ -85,8 +199,8 @@
       "daily_buzz": {
         "title_bn": "সিরিয়ায় জর্ডানের বিমান হামলায় সাতজন নিহত",
         "title_en": "Jordanian Airstrikes in Syria Leave Seven Dead",
-        "summary_bn": "জর্ডানের সামরিক বাহিনী সিরিয়ায় বিমান হামলা চালিয়ে অন্তত সাতজনকে হত্যা করেছে।",
-        "summary_en": "The Jordanian military launched airstrikes inside Syria resulting in at least seven fatalities.",
+        "summary_bn": "জর্ডানে গির্জায় বন্দুকধারীদের হামলার প্রতিশোধ হিসেবে সিরীয় ভূখণ্ডে বিমান হামলা চালিয়েছে জর্ডানের সামরিক বাহিনী।",
+        "summary_en": "The Jordanian military launched airstrikes inside Syrian territory in retaliation for a church gun attack in Jordan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,196 +208,78 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-27T00:33:46+00:00",
-        "lead_bn": "জর্ডানের সামরিক বাহিনী সিরিয়ায় বিমান হামলা চালিয়ে অন্তত সাতজনকে হত্যা করেছে।",
-        "lead_en": "The Jordanian military launched airstrikes inside Syria resulting in at least seven fatalities.",
+        "lead_bn": "জর্ডানে গির্জায় বন্দুকধারীদের হামলার প্রতিশোধ হিসেবে সিরীয় ভূখণ্ডে বিমান হামলা চালিয়েছে জর্ডানের সামরিক বাহিনী।",
+        "lead_en": "The Jordanian military launched airstrikes inside Syrian territory in retaliation for a church gun attack in Jordan.",
         "bullets_bn": [
-          "জর্ডানের সামরিক বাহিনী সিরিয়ার অভ্যন্তরে এই বিমান হামলা পরিচালনা করে।",
-          "হামলায় কমপক্ষে সাতজন নিহত হয়েছে বলে নিশ্চিত করা হয়েছে।",
-          "জর্ডানে একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার জেরে এই সামরিক পদক্ষেপ নেওয়া হয়।"
+          "জর্ডানের সামরিক বাহিনী সিরিয়ায় আকস্মিক বিমান হামলা পরিচালনা করে।",
+          "এই হামলায় সিরিয়ায় অন্তত সাতজন নিহত হয়েছেন বলে নিশ্চিত করা হয়েছে।",
+          "জর্ডানের একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার জেরে এই সামরিক পদক্ষেপ নেওয়া হয়।"
         ],
         "bullets_en": [
-          "The Jordanian military conducted precision airstrikes inside Syrian territory.",
-          "At least seven individuals were confirmed killed in the military operation.",
-          "The military action was executed in retaliation for a prior armed attack on a church in Jordan."
+          "The Jordanian military conducted sudden airstrikes inside Syria.",
+          "At least seven people were confirmed dead in these airstrikes.",
+          "This military action was taken in response to an armed attack on a church in Jordan."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জর্ডানের একটি গির্জায় সশস্ত্র বন্দুকধারীদের হামলার ঘটনার পর এই সামরিক পদক্ষেপ নেওয়া হয়। ওই হামলার জেরে জর্ডান সরকার কঠোর অবস্থান গ্রহণ করে এবং সিরিয়ার অভ্যন্তরে বিমান হামলা চালায়। এই ঘটনায় দুই দেশের সীমান্তবর্তী অঞ্চলে উত্তেজনা বৃদ্ধি পেয়েছে।",
-        "details_en": "The military action follows an armed attack on a church inside Jordan, prompting a swift retaliatory response from Jordanian authorities. The strikes highlight escalating security measures and cross-border tensions in the region."
+        "impact_bn": "মধ্যপ্রাচ্যে নতুন করে নিরাপত্তা উত্তেজনা বৃদ্ধি পাওয়ায় প্রবাসী শ্রমিক ও আন্তর্জাতিক বাণিজ্যের ওপর প্রভাব পড়তে পারে।",
+        "impact_en": "Renewed security tensions in the Middle East could impact expatriate workers and regional stability.",
+        "details_bn": "জর্ডানের একটি গির্জায় বন্দুকধারীদের প্রাণঘাতী হামলার ঘটনার পর দুই দেশের সীমান্তবর্তী অঞ্চলে উত্তেজনা তৈরি হয়। এর জেরে জর্ডানের সামরিক বাহিনী সিরিয়ার অভ্যন্তরে এই প্রতিশোধমূলক বিমান হামলা চালায়, যা আঞ্চলিক নিরাপত্তা পরিস্থিতিকে আরও জটিল করে তুলেছে।",
+        "details_en": "Tensions escalated in the border region following a deadly gun attack on a church in Jordan. In response, the Jordanian military executed these retaliatory airstrikes inside Syria, further complicating the regional security landscape."
       }
     },
     {
-      "story_id": "571f62a9-46c1-52b4-b041-526a0190650c",
-      "primary_category": "governance_law",
+      "story_id": "567e8988-e9b3-5fe6-af23-a9dd6d6c64df",
+      "primary_category": "tech_innovation",
       "interest_categories": [
-        "governance_law",
-        "economy_business",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T01:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9632,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/politics/bnp/976953/%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%AA%E0%A7%AE%E0%A6%A4%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A7%80-%E0%A6%86%E0%A6%9C",
-          "title": "যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী আজ",
-          "snippet": "যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী আজ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাতীয়তাবাদী যুবদলের ৪৮তম প্রতিষ্ঠাবার্ষিকী পালিত হচ্ছে",
-        "title_en": "Juba Dal Observes Its 48th Founding Anniversary",
-        "summary_bn": "জাতীয়তাবাদী যুবদল গণতন্ত্র ও অর্থনৈতিক মুক্তির লক্ষ্য নিয়ে প্রতিষ্ঠার ৪৮ বছর পূর্ণ করেছে।",
-        "summary_en": "Bangladesh Nationalist Juba Dal has completed 48 years of establishment aimed at democracy and economic emancipation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T01:00:00+00:00",
-        "lead_bn": "জাতীয়তাবাদী যুবদল গণতন্ত্র ও অর্থনৈতিক মুক্তির লক্ষ্য নিয়ে প্রতিষ্ঠার ৪৮ বছর পূর্ণ করেছে।",
-        "lead_en": "Bangladesh Nationalist Juba Dal has completed 48 years of establishment aimed at democracy and economic emancipation.",
-        "bullets_bn": [
-          "বিএনপির প্রতিষ্ঠাতা জিয়াউর রহমান ১৯৭৮ সালের এই দিনে যুবদল প্রতিষ্ঠা করেন।",
-          "সংগঠনটি বাংলাদেশি জাতীয়তাবাদ ও সামাজিক ন্যায়বিচার প্রতিষ্ঠার লক্ষ্যে যাত্রা শুরু করে।",
-          "যুবশক্তিকে কর্মশক্তিতে রূপান্তরিত করতে উৎপাদনমুখী রাজনীতির ওপর জোর দেওয়া হয়।"
-        ],
-        "bullets_en": [
-          "BNP founder Ziaur Rahman established the organization on this day in 1978.",
-          "The organization launched with the objective of establishing Bangladeshi nationalism and social justice.",
-          "Emphasis is placed on productive politics to transform youth power into a productive workforce."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সালের ২৭ অক্টোবর বিএনপির প্রতিষ্ঠাতা ও তৎকালীন রাষ্ট্রপতি জিয়াউর রহমান জাতীয়তাবাদী যুবদল প্রতিষ্ঠা করেন। বাংলাদেশি জাতীয়তাবাদ, গণতন্ত্র, সামাজিক ন্যায়বিচার ও অর্থনৈতিক মুক্তির লক্ষ্যে উৎপাদনমুখী রাজনীতির মাধ্যমে যুবশক্তিকে কর্মশক্তিতে রূপান্তরিত করার লক্ষ্য নিয়ে সংগঠনটি যাত্রা শুরু করেছিল। প্রতিষ্ঠালগ্ন থেকেই দলটি রাজনৈতিক ও সামাজিক কার্যক্রমে সক্রিয় ভূমিকা পালন করে আসছে।",
-        "details_en": "On October 27, 1978, BNP founder and then-President Ziaur Rahman established Juba Dal. The organization started its journey with the objective of transforming youth power into a productive workforce through production-oriented politics for Bangladeshi nationalism, democracy, social justice, and economic emancipation. Since its inception, the organization has played an active role in political and social activities."
-      }
-    },
-    {
-      "story_id": "e4a69dd9-2fb4-5ef6-92e3-b1367107c95a",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T00:19:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6599,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/976958/%E0%A7%A8%E0%A7%AB-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%A8-%E0%A6%A1%E0%A6%BF%E2%80%99%E0%A6%85%E0%A6%B0-%E0%A6%9C%E0%A7%9F-%E0%A6%87%E0%A6%82%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF-%E0%A6%95%E0%A6%A4",
-          "title": "২৫ বছর পর ব্যালন ডি’অর জয় ইংলিশ তারকার, মেসি কত নম্বরে?",
-          "snippet": "২৫ বছর পর ব্যালন ডি’অর জয় ইংলিশ তারকার, মেসি কত নম্বরে?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "দীর্ঘ ২৫ বছর পর ব্যালন ডি অর জিতলেন ইংলিশ তারকা হ্যারি কেইন",
-        "title_en": "English Star Harry Kane Wins Ballon dOr After Twenty Five Years",
-        "summary_bn": "ইংল্যান্ড ও বায়ার্ন মিউনিখের তারকা স্ট্রাইকার হ্যারি কেইন দীর্ঘ পঁচিশ বছর পর মর্যাদাপূর্ণ ব্যালন ডি অর পুরস্কার জিতেছেন।",
-        "summary_en": "England and Bayern Munich star striker Harry Kane won the prestigious Ballon dOr award after twenty five years.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:19:07+00:00",
-        "lead_bn": "ইংল্যান্ড ও বায়ার্ন মিউনিখের তারকা স্ট্রাইকার হ্যারি কেইন দীর্ঘ পঁচিশ বছর পর মর্যাদাপূর্ণ ব্যালন ডি অর পুরস্কার জিতেছেন।",
-        "lead_en": "England and Bayern Munich star striker Harry Kane won the prestigious Ballon dOr award after twenty five years.",
-        "bullets_bn": [
-          "বায়ার্ন মিউনিখ ও ইংল্যান্ডের হয়ে অসাধারণ পারফরম্যান্সের সুবাদে ব্যালন ডি অর জিতেছেন ইংলিশ অধিনায়ক হ্যারি কেইন",
-          "পুরস্কারজয়ী খেলোয়াড় ক্লাব ও জাতীয় দলের জার্সিতে মোট ৬৫ ম্যাচে ৭৩টি গোল করার কীর্তি গড়েছেন",
-          "সালের পর প্রথম ইংলিশ ফুটবলার হিসেবে এই মর্যাদাপূর্ণ খেতাব অর্জন করলেন হ্যারি কেইন"
-        ],
-        "bullets_en": [
-          "English captain Harry Kane secured the Ballon dOr following an exceptional season for Bayern Munich and England",
-          "The award winning forward achieved the remarkable milestone of scoring seventy three goals in sixty five matches",
-          "Kane became the first English footballer to claim the prestigious individual honor since two thousand and one"
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বায়ার্ন মিউনিখ ও ইংল্যান্ড জাতীয় দলের হয়ে মাঠ মাতানো হ্যারি কেইন পুরো মৌসুমে গোলবন্যা বইয়ে দিয়েছেন। ক্লাব ও আন্তর্জাতিক অঙ্গনে অসাধারণ ধারাবাহিকতা প্রদর্শন করে তিনি নিজেকে বিশ্বের অন্যতম সেরা গোলদাতা হিসেবে প্রতিষ্ঠিত করেছেন। মাইকেল ওয়েনের পর দীর্ঘ পঁচিশ বছর বিরতির পর কোনো ইংলিশ ফুটবলারের এই অর্জন দেশের ফুটবল ইতিহাসে এক নতুন মাইলফলক সৃষ্টি করল।",
-        "details_en": "Harry Kane dominated the pitch for both Bayern Munich and the England national team throughout the season. By demonstrating remarkable consistency at club and international levels, he reestablished himself as one of the elite goalscorers in world football. This historic victory marks the first time an English player has claimed the trophy in twenty five years, following Michael Owen in two thousand and one."
-      }
-    },
-    {
-      "story_id": "5b8cfae0-7dce-53f2-bd93-dadb5f1482b5",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business",
-        "climate_environment"
+        "tech_innovation"
       ],
       "region": "international",
       "tags": [
-        "#Inflation",
-        "#Geopolitics",
-        "#Diplomacy"
+        "#OpenAI",
+        "#AIAssistant",
+        "#TechInnovation"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/4b619f66c1998b451b6ebb61bfe607e11749fbf9/148_0_3615_2892/master/3615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3718d172568068743f2596ed9fb9e2ce",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
       "image_caption": null,
-      "published_at": "2026-10-27T00:01:02+00:00",
+      "published_at": "2026-10-27T02:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 1.0184,
+      "importance_score": 1.7,
+      "rank_score": 0.6828,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
-          "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
-          "snippet": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "snippet": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি আড়াই বছরের সর্বোচ্চ স্তরে পৌঁছেছে",
-        "title_en": "UK Shop Price Inflation Rises to Highest Level in Years",
-        "summary_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি বেড়ে দুই বছরেরও বেশি সময়ের মধ্যে সর্বোচ্চ স্তরে পৌঁছেছে।",
-        "summary_en": "Shop price inflation in the UK has risen to the highest level in two and a half years.",
+        "title_bn": "ওপেনএআই নতুন এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে",
+        "title_en": "OpenAI Launches New AI Assistant Named Dots",
+        "summary_bn": "ওপেনএআই ডেভেলপার দিবসে ব্যাকগ্রাউন্ডে সবসময় সচল থাকা নতুন ব্যক্তিগত এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে।",
+        "summary_en": "OpenAI released dots, an always-on personal AI assistant designed to operate in the background.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
-          "economy_business",
-          "climate_environment"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:01:02+00:00",
-        "lead_bn": "যুক্তরাজ্যে খুচরা পণ্যের মূল্যস্ফীতি বেড়ে দুই বছরেরও বেশি সময়ের মধ্যে সর্বোচ্চ স্তরে পৌঁছেছে।",
-        "lead_en": "Shop price inflation in the UK has risen to the highest level in two and a half years.",
+        "published_at": "2026-10-27T02:00:00+00:00",
+        "lead_bn": "ওপেনএআই ডেভেলপার দিবসে ব্যাকগ্রাউন্ডে সবসময় সচল থাকা নতুন ব্যক্তিগত এআই অ্যাসিস্ট্যান্ট ডটস উন্মোচন করেছে।",
+        "lead_en": "OpenAI released dots, an always-on personal AI assistant designed to operate in the background.",
         "bullets_bn": [
-          "যুক্তরাজ্যে বার্ষিক খুচরা মূল্যস্ফীতি বেড়ে দশমিক এক শতাংশে পৌঁছেছে।",
-          "খাদ্য মূল্যস্ফীতি বেড়ে দশমিক নয় শতাংশ হয়েছে যা আগের মাসে কম ছিল।",
-          "মূল্য বৃদ্ধির চাপ সামলাতে ব্যাংক অব ইংল্যান্ড সুদের হার বাড়াতে পারে।"
+          "ওপেনএআই তাদের কোডিং টুল এবং এআই মডেলের কার্যকারিতা একত্রিত করে ডটস নামের অ্যাসিস্ট্যান্ট বাজারে এনেছে।",
+          "প্রো টায়ার বা তার বেশি সাবস্ক্রাইবারদের জন্য প্রতি মাসে ১০০ ডলার মূল্যে এই অ্যাসিস্ট্যান্ট সেবা উপলব্ধ করা হয়েছে।",
+          "ডটস ব্যবহারকারীর ক্যালেন্ডার, ইমেইল এবং কম্পিউটারের বিভিন্ন টুলের সাথে যুক্ত হয়ে স্বয়ংক্রিয়ভাবে কাজ সম্পাদন করতে সাহায্য করবে।"
         ],
         "bullets_en": [
-          "UK shop price inflation rose to 2.1% year on year in October.",
-          "Food inflation increased to 2.9% against a 2.5% rise in September.",
-          "Bank of England officials are expected to raise interest rates to 4%."
+          "OpenAI repackaged its coding tools and model functionalities into a persistent AI assistant named dots.",
+          "The assistant is available to Pro tier subscribers and higher, with pricing starting at 100 dollars per month.",
+          "Dots integrates directly with user calendars, emails, and computer tools to automate daily workflow tasks."
         ],
-        "impact_bn": "যুক্তরাজ্যের সাধারণ ভোক্তাদের জন্য খাদ্য ও পোশাক ক্রয়ের খরচ উল্লেখযোগ্যভাবে বৃদ্ধি পাবে।",
-        "impact_en": "Everyday consumers in the UK will face increased living costs for food and household items.",
-        "details_bn": "মধ্যপ্রাচ্য সংকটের জেরে জ্বালানি ও খাদ্য উপকরণের দাম বৃদ্ধি পাওয়ায় যুক্তরাজ্যের খুচরা বিক্রেতারা এতদিন খরচ শুষে নিলেও এখন তা পণ্যের দামে যোগ করতে বাধ্য হচ্ছেন। এর ফলে সাধারণ মানুষের জীবনযাত্রার ব্যয় বৃদ্ধির পাশাপাশি দেশটির অর্থনীতি ও মুদ্রানীতির ওপর বাড়তি চাপ তৈরি হয়েছে।",
-        "details_en": "Retailers in the UK had previously absorbed rising raw material costs due to weak demand, but escalating energy and food prices driven by Middle East conflicts forced them to pass costs to consumers, pressuring the wider economy."
+        "impact_bn": "পেশাজীবী ও ব্যবহারকারীরা দৈনন্দিন রুটিন কাজ এবং প্রম্পট ছাড়াই স্বয়ংক্রিয় ব্যাকগ্রাউন্ড প্রসেসিংয়ের সুবিধা পাবেন।",
+        "impact_en": "Professionals and users gain access to automated background processing without requiring constant manual prompting.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা প্রতিষ্ঠানগুলো ব্যবহারকারীদের আরও সহজ ও স্বজ্ঞাত অভিজ্ঞতা দিতে এখন পার্সোনাল এআই এজেন্ট তৈরির দিকে মনোযোগ দিচ্ছে। ওপেনএআই তাদের পূর্বের কোডিং টুল ও কোডেক্স অ্যাপের প্রযুক্তিকে পরিমার্জন করে এই নতুন অ্যাসিস্ট্যান্ট তৈরি করেছে। টেকক্রাঞ্চ ডিসরাপ্ট ইভেন্টে কোম্পানিটির এন্টারপ্রাইজ প্রোডাক্ট টিম জানায়, ব্যবহারকারীর কাছে প্রযুক্তিটিকে সহজ ও সাবলীল করে উপস্থাপন করাই তাদের মূল লক্ষ্য।",
+        "details_en": "Tech companies are increasingly focusing on persistent AI agents to provide intuitive user experiences. OpenAI evolved its previous agentic coding tools and Codex technology to build the dots assistant. During TechCrunch Disrupt, enterprise product leads explained that the primary focus was making the technology feel accessible and ubiquitous for everyday users."
       }
     },
     {
@@ -296,29 +292,28 @@
       ],
       "region": "international",
       "tags": [
-        "#FatimaPayman",
-        "#AustralianPolitics",
-        "#SenateEstimates"
+        "#HumanRights",
+        "#Australia"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/808fc6ef5b275b5f1953ad049b5b5eaad5f8fe9a/1310_578_4277_3422/master/4277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4b1884c1445759e84589fecea2a46086",
+      "image_url": "https://i.guim.co.uk/img/media/b9705cff3eed76737cf07547b6fec1ae25191049/0_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7665cf9b06e72dc5e20e9d990734c16b",
       "image_caption": null,
-      "published_at": "2026-10-27T00:52:49+00:00",
+      "published_at": "2026-10-27T01:36:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.633,
+      "rank_score": 0.5439,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
-          "title": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus nuclear sub for Australia revealed",
-          "snippet": "Politics live: Labor says Payman linking Haines-style attack to staffing allocation ‘outrageous’; first Aukus "
+          "title": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texting triple-zero trial begins",
+          "snippet": "Australian politics live: UN condemns Labor and Coalition blocking bill to ban shackling pregnant women; texti"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সেনা কার্যালয়ে পর্যাপ্ত কর্মী বরাদ্দের দাবি ফাতেমা পায়মানের",
-        "title_en": "Senator Fatima Payman Demands Additional Staff Amid Security Concerns",
-        "summary_bn": "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কর্মী স্বল্পতা ও নিরাপত্তার ঝুঁকির কারণে প্রধানমন্ত্রী অ্যান্থনি আলবেনিজের কাছে অতিরিক্ত উপদেষ্টা নিয়োগের দাবি জানিয়েছেন।",
-        "summary_en": "Independent Senator Fatima Payman criticized Prime Minister Anthony Albanese for delaying staff allocations amid escalating security and workplace hazards.",
+        "title_bn": "গর্ভকালীন হাতকড়া নিষিদ্ধ বিল আটকে দেওয়ায় জাতিসংঘের উদ্বেগ",
+        "title_en": "UN Expresses Disappointment as Major Parties Block Childbirth Shackling Bill",
+        "summary_bn": "অস্ট্রেলিয়ার প্রধান রাজনৈতিক দলগুলো গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে দেওয়ায় জাতিসংঘ গভীর হতাশা প্রকাশ করেছে।",
+        "summary_en": "United Nations human rights experts expressed disappointment after major Australian parties blocked bills to ban shackling during childbirth.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -327,23 +322,23 @@
           "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T00:52:49+00:00",
-        "lead_bn": "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কর্মী স্বল্পতা ও নিরাপত্তার ঝুঁকির কারণে প্রধানমন্ত্রী অ্যান্থনি আলবেনিজের কাছে অতিরিক্ত উপদেষ্টা নিয়োগের দাবি জানিয়েছেন।",
-        "lead_en": "Independent Senator Fatima Payman criticized Prime Minister Anthony Albanese for delaying staff allocations amid escalating security and workplace hazards.",
+        "published_at": "2026-10-27T01:36:52+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার প্রধান রাজনৈতিক দলগুলো গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে দেওয়ায় জাতিসংঘ গভীর হতাশা প্রকাশ করেছে।",
+        "lead_en": "United Nations human rights experts expressed disappointment after major Australian parties blocked bills to ban shackling during childbirth.",
         "bullets_bn": [
-          "স্বতন্ত্র সিনেটর ফাতেমা পায়মান কার্যালয়ের অতিরিক্ত কর্মী বরাদ্দের জন্য দুই বছর আগে করা আবেদন ঝুলে থাকার অভিযোগ তোলেন।",
-          "বাণিজ্যমন্ত্রী ডন ফ্যারেল ফাতেমা পায়মানের এই মন্তব্যকে অত্যন্ত আপত্তিকর ও অগ্রহণযোগ্য বলে প্রত্যাখ্যান করেছেন।",
-          "অতিরিক্ত কর্মী না পেলে কার্যালয়ের কর্মীরা চরম মানসিক অবসাদ ও নিরাপত্তার ঝুঁকির মুখোমুখি হবেন বলে সতর্ক করা হয়েছে।"
+          "অস্ট্রেলীয় সেনেটে প্রধান দলগুলোর বিরোধিতায় গর্ভকালীন হাতকড়া ও শিশু তল্লাশি নিষিদ্ধ করার বিল আটকে যায়।",
+          "জাতিসংঘের মানবাধিকার পরিষদের বিশেষজ্ঞরা বিল পাসের ব্যর্থতাকে মানবাধিকার সুরক্ষার সুযোগ নষ্ট হওয়া হিসেবে অভিহিত করেছেন।",
+          "কর্তৃপক্ষকে মানবাধিকার সুরক্ষার স্বার্থে এ ধরনের সংস্কারমূলক উদ্যোগ পুনরায় চালু রাখার আহ্বান জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Independent Senator Fatima Payman accused Prime Minister Anthony Albanese of delaying her office staff requests for two years.",
-          "Trade Minister Don Farrell strongly rejected Payman's comparison, calling the suggestion absolutely outrageous.",
-          "Payman warned that her staff members face severe burnout and psychosocial hazards without adequate official support."
+          "Independent senator Lidia Thorpe introduced bills in the Senate to ban shackling during childbirth and strip-searching children.",
+          "Major parties Labor and the Coalition blocked the progress of the proposed human rights legislation.",
+          "UN human rights experts urged Australian authorities to continue pursuing necessary legislative reforms."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "লেবার পার্টি ছেড়ে স্বতন্ত্র দলে যোগ দেওয়ার পর থেকেই সিনেটর ফাতেমা পায়মানের সঙ্গে সরকারের রাজনৈতিক দূরত্ব তৈরি হয়। তিনি বিভিন্ন সময় তার কার্যালয়ের অবমূল্যায়ন ও কর্মীস্বল্পতার অভিযোগ তুলে আসছেন। সর্বশেষ সিনেট এস্টিমেটস শুনানিতে তিনি রাজনৈতিক সহিংসতা ও কার্যালয়ে আসা হুমকির বিষয়টি সামনে এনে অতিরিক্ত উপদেষ্টার দাবি পুনর্ব্যক্ত করেন।",
-        "details_en": "Senator Fatima Payman defected from the Labor Party, leading to ongoing political friction with Prime Minister Anthony Albanese's administration. Payman has repeatedly argued that her office faces understaffing and security threats, a grievance she reiterated during a recent Senate estimates hearing while demanding an additional adviser to manage workplace hazards."
+        "impact_bn": "এই নীতির ফলে আদিবাসী নারী ও শিশুরা সরাসরি মানবাধিকার সুরক্ষা ও মর্যাদাপূর্ণ আচরণের অধিকার থেকে বঞ্চিত হচ্ছে।",
+        "impact_en": "Indigenous women and children face continued disproportionate risks to their bodily integrity and dignity due to the blocked legislation.",
+        "details_bn": "স্বাধীন সেনেটর লিডিয়া থর্প অস্ট্রেলীয় পার্লামেন্টে গর্ভকালে নারী বন্দীদের হাতকড়া পরানো এবং শিশুদের তল্লাশি নিষিদ্ধ করার প্রস্তাব উত্থাপন করেছিলেন। প্রধান দলগুলোর বিরোধিতায় বিলটি আটকে যাওয়ার পর জাতিসংঘের মানবাধিকার বিশেষজ্ঞরা গভীর অসন্তোষ প্রকাশ করেন। বিশেষজ্ঞরা উল্লেখ করেন, এই ধরনের কঠোর ব্যবস্থা বিশেষ করে আদিবাসী নারী ও শিশুদের অসামঞ্জস্যপূর্ণভাবে প্রভাবিত করে এবং তাদের মৌলিক মানবাধিকার ক্ষুণ্ন করে।",
+        "details_en": "Independent senator Lidia Thorpe introduced legislation in the Australian Senate aimed at banning the shackling of women during childbirth and the strip-searching of children. The progress of these measures was halted after facing opposition from the major Labor and Coalition parties. UN human rights experts subsequently voiced disappointment, emphasizing that Aboriginal and Torres Strait Islander women and children bear a disproportionate brunt of these practices."
       }
     }
   ]
