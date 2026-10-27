@@ -1,352 +1,371 @@
 {
-  "updated_at": "2026-10-27T11:00:47.395640",
+  "updated_at": "2026-10-27T11:33:31.982361",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "f34f86c0-e5b7-5477-b546-4e83e1f54e89",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T10:30:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.9979,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/law-and-crime/977050/%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0-%E0%A6%B0%E0%A7%81%E0%A6%A8%E0%A6%BF-%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A4%E0%A6%A6%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B8-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "সাগর-রুনি হত্যা মামলা: তদন্তে আরও ৬ মাস সময় দিলেন হাইকোর্ট",
-          "snippet": "সাগর-রুনি হত্যা মামলা: তদন্তে আরও ৬ মাস সময় দিলেন হাইকোর্ট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সাগর-রুনি হত্যা মামলা তদন্তে আরও ছয় মাস সময় বাড়াল হাইকোর্ট",
-        "title_en": "High Court Grants Six More Months to Probe Sagor-Runi Murder Case",
-        "summary_bn": "হাইকোর্ট বহুল আলোচিত সাংবাদিক দম্পতি সাগর-রুনি হত্যা মামলার তদন্ত শেষ করতে গঠিত টাস্কফোর্সকে আরও ছয় মাস সময় দিয়েছেন।",
-        "summary_en": "The High Court has granted the investigative task force six more months to complete the probe into the journalist couple Sagor-Runi murder case.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T10:30:39+00:00",
-        "lead_bn": "হাইকোর্ট বহুল আলোচিত সাংবাদিক দম্পতি সাগর-রুনি হত্যা মামলার তদন্ত শেষ করতে গঠিত টাস্কফোর্সকে আরও ছয় মাস সময় দিয়েছেন।",
-        "lead_en": "The High Court has granted the investigative task force six more months to complete the probe into the journalist couple Sagor-Runi murder case.",
-        "bullets_bn": [
-          "হাইকোর্ট সাগর-রুনি হত্যা মামলার তদন্ত শেষ করতে গঠিত টাস্কফোর্সকে আরও ছয় মাসের সময়সীমা বেঁধে দিয়েছেন।",
-          "তদন্তের সার্বিক অগ্রগতি জানাতে টাস্কফোর্সের প্রধান ও তথ্যপ্রযুক্তি বিশেষজ্ঞ তানভীর জোহাকে আদালতে হাজির হওয়ার নির্দেশ দেওয়া হয়েছে।",
-          "আগামী বছরের ২৭ এপ্রিল প্রয়োজনীয় নথিসহ সংশ্লিষ্টদের ক্যামেরা ট্রায়ালে উপস্থিত থাকার নির্দেশ দিয়েছে আদালত।"
-        ],
-        "bullets_en": [
-          "The High Court extended the deadline for the investigative task force by six months to submit the murder probe report.",
-          "The court summoned the task force chief and IT expert Tanvir Zohra to present the investigation progress report.",
-          "The officials have been instructed to appear with necessary documents during a camera trial scheduled for April 27."
-        ],
-        "impact_bn": "দীর্ঘসূত্রতায় আটকে থাকা এই চাঞ্চল্যকর মামলার ন্যায়বিচার নিশ্চিতকরণ ও তদন্তের গতিপ্রকৃতি নিয়ে জনগণের দীর্ঘদিনের প্রতীক্ষার অবসান ঘটতে পারে।",
-        "impact_en": "This development keeps public hope alive for the long-delayed delivery of justice in one of the country's most prominent murder cases.",
-        "details_bn": "সালের ১১ ফেব্রুয়ারি রাজধানীর পশ্চিম রাজাবাজারের ভাড়া বাসায় নির্মমভাবে খুন হন মাছরাঙা টেলিভিশনের বার্তা সম্পাদক সাগর সরওয়ার ও ইত্তেফাকের জ্যেষ্ঠ প্রতিবেদক মেহেরুন রুনি। চাঞ্চল্যকর এই হত্যাকাণ্ডের পর থেকেই মামলাটির তদন্ত নিয়ে দীর্ঘসূত্রতা চলে আসছে এবং বারবার তদন্তের সময়সীমা বাড়ানো হয়েছে। পরবর্তীতে তদন্তের দায়িত্ব টাস্কফোর্সের হাতে ন্যস্ত করা হয়। দীর্ঘ বছর ধরে বিচারপ্রার্থী পরিবার ও সাংবাদিকদের পক্ষ থেকে দৃশ্যমান অগ্রগতির দাবি জানানো হলেও এখনো প্রকৃত অপরাধীরা আইনের আওতায় আসেনি।",
-        "details_en": "Journalist couple Sagor Sarowar and Meherun Runi were brutally murdered in their rented apartment in Dhaka on February 11, 2012. Since the high-profile incident, the investigation has faced numerous delays and repeated extensions, with the responsibility eventually transferred to a specialized task force. Victim families and journalists have continuously demanded a transparent and speedy trial to bring the actual perpetrators to justice."
-      }
-    },
-    {
-      "story_id": "ceec3f1f-d1ea-508a-8e53-5d21e57d48c5",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-27T10:53:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.794,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/sylhet/977055/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%85%E0%A6%AC%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0",
-          "title": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে",
-          "snippet": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে আটক যুবক পুলিশের মামলায় কারাগারে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সুনামগঞ্জে ধর্ম অবমাননার অভিযোগে গ্রেফতার যুবক কারাগারে",
-        "title_en": "Man Arrested in Sunamganj Over Alleged Blasphemy Sent to Jail",
-        "summary_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননার অভিযোগে সুনামগঞ্জের তাহিরপুর থেকে আটক এক যুবককে মামলায় গ্রেফতার দেখিয়ে কারাগারে পাঠানো হয়েছে।",
-        "summary_en": "A man detained in Tahirpur upazila of Sunamganj over alleged social media blasphemy has been sent to jail following a formal police case.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T10:53:10+00:00",
-        "lead_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননার অভিযোগে সুনামগঞ্জের তাহিরপুর থেকে আটক এক যুবককে মামলায় গ্রেফতার দেখিয়ে কারাগারে পাঠানো হয়েছে।",
-        "lead_en": "A man detained in Tahirpur upazila of Sunamganj over alleged social media blasphemy has been sent to jail following a formal police case.",
-        "bullets_bn": [
-          "তাহিরপুর থানা পুলিশ সামাজিক যোগাযোগমাধ্যমে ধর্ম অবমাননামূলক পোস্ট দেওয়ার অভিযোগে অভিযুক্ত ব্যক্তিকে আটক করে।",
-          "পুলিশ বাদী হয়ে মামলা দায়ের করার পর অভিযুক্ত ব্যক্তিকে আদালতের মাধ্যমে কারাগারে পাঠানো হয়।",
-          "আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনার বিষয়ে প্রয়োজনীয় আইনি প্রক্রিয়া অব্যাহত রেখেছে।"
-        ],
-        "bullets_en": [
-          "Police in Tahirpur detained the individual following allegations of posting blasphemous content on social media.",
-          "Law enforcement filed a formal case against the accused before producing him before the court.",
-          "The judicial process regarding the charges is currently ongoing under police supervision."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে ধর্মীয় সংবেদনশীল বিষয় নিয়ে উসকানিমূলক পোস্ট বা মন্তব্য কেন্দ্র করে সাম্প্রতিক সময়ে দেশের বিভিন্ন স্থানে উত্তেজনা ও আইনি পদক্ষেপের ঘটনা ঘটছে। পুলিশ প্রশাসন এ ধরণের ঘটনায় সাইবার মনিটরিং জোরদার করেছে এবং সুনির্দিষ্ট অভিযোগের ভিত্তিতে আইনানুগ ব্যবস্থা গ্রহণ অব্যাহত রেখেছে।",
-        "details_en": "Law enforcement agencies across the country have ramped up digital monitoring to address inflammatory social media posts concerning religious sensitivities, frequently resulting in detentions and formal legal proceedings under existing ICT and cyber security frameworks."
-      }
-    },
-    {
-      "story_id": "069ef1cd-c90c-5ce6-9317-90279dbf78a0",
+      "story_id": "4de15e0c-4973-5281-a028-47de78bcc291",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "economy_business",
+        "tech_innovation",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/1461807.webp?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-27T10:04:21+00:00",
+      "published_at": "2026-10-27T11:03:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.6204,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977044/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9B%E0%A6%AC%E0%A6%BF-%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%AF%E0%A6%BE-%E0%A6%B2%E0%A6%BF%E0%A6%96%E0%A6%B2%E0%A7%87%E0%A6%A8",
-          "title": "প্রধানমন্ত্রীর সঙ্গে ছবি পোস্ট করে যা লিখলেন সানায়ে তাকাইচি",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে ছবি পোস্ট করে যা লিখলেন সানায়ে তাকাইচি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জাপানের প্রধানমন্ত্রীর সাথে দ্বিপক্ষীয় বৈঠক করেছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "Prime Minister Tarique Rahman Holds Bilateral Meeting with Japanese PM",
-        "summary_bn": "জাপান সফরে থাকা প্রধানমন্ত্রী তারেক রহমান দেশটির প্রধানমন্ত্রী সানায়ে তাকাইচির সাথে দ্বিপক্ষীয় শীর্ষ বৈঠক করেছেন।",
-        "summary_en": "Visiting Prime Minister Tarique Rahman held a high-level bilateral summit with Japanese Prime Minister Sanae Takaichi.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-27T10:04:21+00:00",
-        "lead_bn": "জাপান সফরে থাকা প্রধানমন্ত্রী তারেক রহমান দেশটির প্রধানমন্ত্রী সানায়ে তাকাইচির সাথে দ্বিপক্ষীয় শীর্ষ বৈঠক করেছেন।",
-        "lead_en": "Visiting Prime Minister Tarique Rahman held a high-level bilateral summit with Japanese Prime Minister Sanae Takaichi.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপানের প্রধানমন্ত্রী সানায়ে তাকাইচির কার্যালয় কানতেই দ্বিপক্ষীয় বৈঠকে অংশ নেন।",
-          "বৈঠক শেষে দুই দেশের শীর্ষ নেতারা পারস্পরিক স্বার্থ সংশ্লিষ্ট বিষয়ে যৌথ ঘোষণা প্রদান করেন।",
-          "এই দ্বিপক্ষীয় বৈঠকের মাধ্যমে দুই দেশের মধ্যকার অর্থনৈতিক সহযোগিতা ও কূটনৈতিক সম্পর্ক আরও সুদৃঢ় হবে।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman participated in a bilateral meeting at the Kantei official residence of the Japanese Prime Minister.",
-          "Following the summit meeting, both leaders issued a joint declaration focusing on mutual interests.",
-          "This high-level diplomatic engagement is set to further strengthen bilateral economic cooperation and diplomatic ties."
-        ],
-        "impact_bn": "এই দ্বিপক্ষীয় বৈঠকের ফলে দুই দেশের মধ্যে বাণিজ্য বৃদ্ধি এবং প্রযুক্তিগত সহযোগিতার নতুন সুযোগ তৈরি হবে।",
-        "impact_en": "This high-level diplomatic meeting is expected to expand bilateral trade and create new technological collaboration opportunities.",
-        "details_bn": "চারদিনের সরকারি সফরে বর্তমানে জাপানে অবস্থান করছেন প্রধানমন্ত্রী তারেক রহমান। এই সফরের অংশ হিসেবে জাপানের প্রধানমন্ত্রীর কার্যালয় কানতেই উভয় নেতার মধ্যে এই শীর্ষ বৈঠক অনুষ্ঠিত হয়। বৈঠকের মূল এজেন্ডায় দুই দেশের দ্বিপক্ষীয় সম্পর্ক জোরদার এবং পারস্পরিক সহযোগিতা বৃদ্ধির বিষয়টি প্রাধান্য পায়। আলোচনা শেষে একটি যৌথ ঘোষণা প্রকাশ করা হয়, যা উভয় দেশের অংশীদারিত্বকে আরও এগিয়ে নেবে।",
-        "details_en": "Prime Minister Tarique Rahman is currently on a four-day official visit to Japan. The summit meeting took place at the Kantei, the official office of the Japanese Prime Minister, focusing on strengthening bilateral relations and enhancing mutual cooperation. A joint declaration was issued following the discussions to further advance the partnership between the two nations."
-      }
-    },
-    {
-      "story_id": "0d106e4b-f5e9-5a45-85ae-c510660fdeee",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled3-21.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-27T11:00:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.969,
+      "importance_score": 9.0,
+      "rank_score": 2.7306,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/11-more-deaths-from-dengue/",
-          "title": "ডেঙ্গুতে একদিনে সর্বোচ্চ ১১ মৃত্যু",
-          "snippet": "ডেঙ্গুতে একদিনে সর্বোচ্চ ১১ মৃত্যু"
+          "url": "https://www.channelionline.com/emphasis-placed-on-increasing-trade-and-investment-during-the-meeting-between-the-two-prime-ministers-in-tokyo/",
+          "title": "টোকিওতে দু’দেশের প্রধানমন্ত্রীর বৈঠকে বাণিজ্য-বিনিয়োগ বাড়ানোয় গুরুত্বারোপ",
+          "snippet": "টোকিওতে দু’দেশের প্রধানমন্ত্রীর বৈঠকে বাণিজ্য-বিনিয়োগ বাড়ানোয় গুরুত্বারোপ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ডেঙ্গুতে একদিনে সর্বোচ্চ ১১ জনের মৃত্যু এবং দুই হাজারাধিক হাসপাতালে ভর্তি",
-        "title_en": "Record 11 Deaths and Over Two Thousand Hospitalized in Single Day from Dengue",
-        "summary_bn": "দেশে ডেঙ্গুতে আক্রান্ত হয়ে একদিনে সর্বোচ্চ ১১ জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন দুই হাজার ৭১ জন।",
-        "summary_en": "The country recorded a single-day high of 11 deaths from dengue with 2,071 new hospitalizations.",
+        "title_bn": "বাণিজ্য ও বিনিয়োগ বাড়াতে বাংলাদেশ ও জাপানের প্রধানমন্ত্রীর দ্বিপক্ষীয় বৈঠক",
+        "title_en": "Bangladesh and Japan Prime Ministers Hold Bilateral Meeting to Boost Trade",
+        "summary_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব জোরদারের প্রতিশ্রুতি ব্যক্ত করেছেন।",
+        "summary_en": "Top leaders of Bangladesh and Japan pledged to strengthen partnership in trade, infrastructure, and foreign investment during a bilateral meeting in Tokyo.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "tech_innovation",
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T11:03:38+00:00",
+        "lead_bn": "বাংলাদেশ ও জাপানের শীর্ষ নেতারা টোকিওতে দ্বিপক্ষীয় বৈঠকে বাণিজ্য, অবকাঠামো ও বৈদেশিক বিনিয়োগ খাতে অংশীদারত্ব জোরদারের প্রতিশ্রুতি ব্যক্ত করেছেন।",
+        "lead_en": "Top leaders of Bangladesh and Japan pledged to strengthen partnership in trade, infrastructure, and foreign investment during a bilateral meeting in Tokyo.",
+        "bullets_bn": [
+          "বাংলাদেশ ও জাপানের প্রধানমন্ত্রী দ্বিপক্ষীয় বৈঠকে বাণিজ্য এবং বৈদেশিক বিনিয়োগ বাড়ানোর ওপর গুরুত্বারোপ করেছেন।",
+          "বৈঠকে জ্বালানি নিরাপত্তা, প্রযুক্তি ও মহাকাশ গবেষণা খাতে সহযোগিতা বাড়ানোর বিষয়ে আলোচনা হয়েছে।",
+          "দুই দেশের শীর্ষ বৈঠকে পারস্পরিক স্বার্থসংশ্লিষ্ট বিষয়ে একাধিক যৌথ সমঝোতা স্মারক স্বাক্ষরিত হয়েছে।"
+        ],
+        "bullets_en": [
+          "The prime ministers of Bangladesh and Japan emphasized expanding bilateral trade and foreign investment during their meeting.",
+          "Discussions focused on enhancing cooperation in energy security, technology, and space research.",
+          "Several joint memorandum of understandings were signed during the high-level meeting between the two countries."
+        ],
+        "impact_bn": "জাপানের সাথে প্রযুক্তি ও অর্থনৈতিক সহযোগিতা বাড়লে দেশের জ্বালানি খাতের উন্নয়ন এবং নতুন কর্মসংস্থানের সুযোগ সৃষ্টি হবে।",
+        "impact_en": "Enhanced technological and economic cooperation with Japan will support energy sector development and create new employment opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপান দীর্ঘকাল ধরে অর্থনৈতিক উন্নয়ন এবং অবকাঠামোগত সহযোগিতায় বিশ্বস্ত অংশীদার হিসেবে কাজ করে আসছে। বিশেষ করে মাতারবাড়ী গভীর সমুদ্র বন্দরসহ দেশের মেগা প্রকল্পে জাপানি অর্থায়ন ও প্রযুক্তিগত সহায়তা অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করেছে। সাম্প্রতিক এই উচ্চপর্যায়ের বৈঠক দুই দেশের মধ্যকার কৌশলগত অংশীদারত্বকে আরও সুদৃঢ় করার ধারাবাহিক প্রচেষ্টার অংশ।",
+        "details_en": "Bangladesh and Japan have long maintained a strong partnership in economic development and infrastructure cooperation. Japanese funding and technical assistance have played a vital role in Bangladesh's mega projects, including the Matarbari deep seaport. This recent high-level meeting is part of ongoing efforts to further solidify strategic ties between the two nations."
+      }
+    },
+    {
+      "story_id": "8e8ffc90-1f16-5100-abf8-6a71803be88b",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T11:25:12+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7815,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/977064/%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE-%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A7%E0%A6%B0%E0%A6%BE-%E0%A7%AA%E0%A7%A6-%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%95",
+          "title": "নদীতে মা ইলিশ ধরা ৪০ জেলে আটক",
+          "snippet": "নদীতে মা ইলিশ ধরা ৪০ জেলে আটক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "চাঁদপুরের পদ্মায় মা ইলিশ শিকারের সময় ৪০ জেলে আটক",
+        "title_en": "Forty Fishermen Detained for Catching Mother Hilsa in Padma River",
+        "summary_bn": "নৌপুলিশের বিশেষ অভিযানে পদ্মায়া ও মেঘনা নদীর বিভিন্ন পয়েন্ট থেকে মা ইলিশ শিকারের সময় ৪০ জেলেকে আটক করা হয়েছে।",
+        "summary_en": "Naval police detained forty fishermen for catching mother hilsa during a special drive in the Padma and Meghna rivers.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T11:25:12+00:00",
+        "lead_bn": "নৌপুলিশের বিশেষ অভিযানে পদ্মায়া ও মেঘনা নদীর বিভিন্ন পয়েন্ট থেকে মা ইলিশ শিকারের সময় ৪০ জেলেকে আটক করা হয়েছে।",
+        "lead_en": "Naval police detained forty fishermen for catching mother hilsa during a special drive in the Padma and Meghna rivers.",
+        "bullets_bn": [
+          "পদ্মা ও মেঘনার নৌ-সীমানায় বিশেষ অভিযান চালিয়ে ৪০ জন জেলেকে আটক করে নৌপুলিশ।",
+          "অভিযানে ১০টি জেলে নৌকা এবং ৭ কেজি ইলিশ জব্দ করা হয় এবং অপ্রাপ্তবয়স্ক ৭ জনকে ছেড়ে দেওয়া হয়।",
+          "মা ইলিশ সংরক্ষণ অভিযানের অংশ হিসেবে নদীতে নিয়মিত টহল ও আইনগত ব্যবস্থা অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Naval police detained forty fishermen during a special drive across the Padma and Meghna river boundaries.",
+          "Ten fishing boats and seven kilograms of hilsa were seized, while seven underage detainees were released.",
+          "Regular patrols and legal measures continue in rivers as part of the mother hilsa conservation drive."
+        ],
+        "impact_bn": "মা ইলিশ রক্ষার এই অভিযানের ফলে ভবিষ্যতে বাজারে ইলিশের সরবরাহ ও উৎপাদন বৃদ্ধি পাবে।",
+        "impact_en": "This conservation drive ensures higher hilsa production and steady future supplies for local consumers.",
+        "details_bn": "জাতীয় সম্পদ ইলিশের প্রজনন নিরাপদ রাখতে সরকার প্রতিবছর নির্দিষ্ট সময়ে ইলিশ শিকারের ওপর নিষেধাজ্ঞা জারি করে থাকে। এই সময় মা ইলিশ ডিম ছাড়ে, যা দেশের সামুদ্রিক ও নদীবন্দরের মৎস্য সম্পদ রক্ষায় অত্যন্ত গুরুত্বপূর্ণ। আইন অমান্যকারীদের বিরুদ্ধে নিয়মিত মোবাইল কোর্ট ও বিশেষ অভিযান পরিচালনা করে আসছে আইনপ্রয়োগকারী সংস্থাগুলো।",
+        "details_en": "The government enforces seasonal fishing bans to protect the breeding season of hilsa, safeguarding national fisheries. Mother hilsa release eggs during this critical period, making strict river patrols essential. Law enforcement agencies regularly conduct mobile courts and special drives against violators to preserve aquatic biodiversity."
+      }
+    },
+    {
+      "story_id": "5926b9a3-e02c-5362-83d8-d101bc384eb5",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T11:17:44+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6555,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/barishal/977062/%E0%A6%87%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%AE%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A7%9F",
+          "title": "ইলিশ রক্ষার অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলায় আহত ৭, কান ধরে ওঠবস",
+          "snippet": "ইলিশ রক্ষার অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলায় আহত ৭, কান ধরে ওঠবস"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সুগন্ধা নদীতে ইলিশ রক্ষা অভিযানে মৎস্য কর্মকর্তাদের ওপর হামলা, আহত সাত",
+        "title_en": "Fisheries Officials Injured in Attack During Hilsa Conservation Drive on Sugandha River",
+        "summary_bn": "ঝালকাঠির নলছিটিতে ইলিশ রক্ষা অভিযান শেষে ফেরার পথে মৎস্য বিভাগের কর্মকর্তা ও কর্মচারীদের ওপর হামলা চালিয়েছে দুর্বৃত্তরা।",
+        "summary_en": "Miscreants attacked fisheries department officials and staff while returning from a hilsa conservation drive in Nalchity, Jhalakathi.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-27T11:17:44+00:00",
+        "lead_bn": "ঝালকাঠির নলছিটিতে ইলিশ রক্ষা অভিযান শেষে ফেরার পথে মৎস্য বিভাগের কর্মকর্তা ও কর্মচারীদের ওপর হামলা চালিয়েছে দুর্বৃত্তরা।",
+        "lead_en": "Miscreants attacked fisheries department officials and staff while returning from a hilsa conservation drive in Nalchity, Jhalakathi.",
+        "bullets_bn": [
+          "সুগন্ধা নদীর কুমারখালী-জাঙ্গালিয়া এলাকায় মৎস্য বিভাগের অভিযানে নিয়োজিত দলের ওপর হামলার ঘটনা ঘটে।",
+          "জেলা মৎস্য বিভাগের জ্যেষ্ঠ সহকারী পরিচালক প্রণব কুমার বিশ্বাসসহ মোট সাতজন কর্মকর্তা ও কর্মী আহত হয়েছেন।",
+          "আইনশৃঙ্খলা রক্ষা বাহিনী হামলাকারীদের শনাক্ত ও গ্রেফতারে আইনি পদক্ষেপ গ্রহণের প্রক্রিয়া শুরু করেছে।"
+        ],
+        "bullets_en": [
+          "The attack targeted the fisheries team deployed for conservation duties in the Kumarkhali-Jangalia area of the Sugandha River.",
+          "A total of seven officials and staff, including district senior assistant fisheries director Pranab Kumar Biswas, sustained injuries.",
+          "Law enforcement agencies have initiated legal steps to identify and arrest the perpetrators involved in the assault."
+        ],
+        "impact_bn": "এই হামলার ঘটনায় নদী অঞ্চলে ইলিশসহ প্রাকৃতির মৎস্যসম্পদ রক্ষার মতো গুরুত্বপূর্ণ সরকারি অভিযান পরিচালনা ব্যাহত হওয়ার আশঙ্কা তৈরি হয়েছে।",
+        "impact_en": "The attack threatens to disrupt crucial government drives aimed at protecting hilsa and other natural aquatic resources in riverine regions.",
+        "details_bn": "মা ইলিশ সংরক্ষণ এবং প্রজনন নিরাপদ করার জন্য সরকার নির্ধারিত সময়ের জন্য সব ধরনের ইলিশ আহরণ নিষিদ্ধ করে থাকে। এই নিষেধাজ্ঞা বাস্তবায়নের অংশ হিসেবে দেশের বিভিন্ন নদনদীতে নিয়মিত অভিযান পরিচালনা করে আসছে মৎস্য বিভাগ। তবে প্রায়শই অসাধু মৎস্যজীবীদের বাধার মুখে পড়তে হয় মাঠপর্যায়ের কর্মকর্তাদের। সাম্প্রতিক এই হামলা মৎস্য কর্মকর্তাদের নিরাপত্তা ও আইন প্রয়োগের চ্যালেঞ্জগুলো আরও একবার সামনে নিয়ে এসেছে।",
+        "details_en": "The government enforces a seasonal ban on catching hilsa to ensure safe breeding and conservation. As part of enforcing this ban, the fisheries department routinely conducts drives across various rivers in the country. However, field-level officials frequently face resistance and violence from dishonest fishermen. This recent assault highlights the ongoing security challenges faced by officials enforcing conservation laws."
+      }
+    },
+    {
+      "story_id": "de80d85f-0615-5e2a-a971-731d8152d1c8",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-27T11:32:37+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9623,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rangpur/977063/%E2%80%98%E0%A6%86%E0%A6%AA%E0%A6%A8%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%80-%E0%A6%A6%E0%A6%BF%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BF-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A7%87%E0%A6%A8%E2%80%99",
+          "title": "‘আপনাদের সম্মানি দিচ্ছি, ভিডিওগুলো ডিলিট করে দেন’",
+          "snippet": "‘আপনাদের সম্মানি দিচ্ছি, ভিডিওগুলো ডিলিট করে দেন’"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নীলফামারীতে সরকারি বই কেজি দরে বিক্রির অভিযোগ প্রধান শিক্ষকের বিরুদ্ধে",
+        "title_en": "Headmaster Accused of Selling Free Government Textbooks by Weight in Nilphamari",
+        "summary_bn": "নীলফামারীর সৈয়দপুরে সরকারি স্কুল শিক্ষার্থীদের বিনামূল্যে বিতরণের বই টেন্ডার ছাড়াই কেজি দরে বিক্রির অভিযোগ উঠেছে ভারপ্রাপ্ত প্রধান শিক্ষকের বিরুদ্ধে।",
+        "summary_en": "The acting headmaster of a school in Nilphamari has been accused of selling free government textbooks by weight without tender.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:00:33+00:00",
-        "lead_bn": "দেশে ডেঙ্গুতে আক্রান্ত হয়ে একদিনে সর্বোচ্চ ১১ জনের মৃত্যু হয়েছে এবং নতুন করে হাসপাতালে ভর্তি হয়েছেন দুই হাজার ৭১ জন।",
-        "lead_en": "The country recorded a single-day high of 11 deaths from dengue with 2,071 new hospitalizations.",
+        "published_at": "2026-10-27T11:32:37+00:00",
+        "lead_bn": "নীলফামারীর সৈয়দপুরে সরকারি স্কুল শিক্ষার্থীদের বিনামূল্যে বিতরণের বই টেন্ডার ছাড়াই কেজি দরে বিক্রির অভিযোগ উঠেছে ভারপ্রাপ্ত প্রধান শিক্ষকের বিরুদ্ধে।",
+        "lead_en": "The acting headmaster of a school in Nilphamari has been accused of selling free government textbooks by weight without tender.",
         "bullets_bn": [
-          "স্বাস্থ্য অধিদপ্তর দেশজুড়ে ডেঙ্গু পরিস্থিতির অবনতির ফলে ২৪ ঘণ্টায় ১১ জনের মৃত্যুর বিষয়টি নিশ্চিত করেছে।",
-          "চলতি মৌসুমে একদিনে সর্বোচ্চ মৃত্যুর এই রেকর্ডের ফলে এ বছর মোট মৃতের সংখ্যা বেড়ে দাঁড়িয়েছে ৪০০ জনে।",
-          "হাসপাতালে নতুন ভর্তি রোগীর সংখ্যা বেড়ে যাওয়ায় চিকিৎসা সেবা নিশ্চিত করতে জরুরি পদক্ষেপের নির্দেশ দেওয়া হয়েছে।"
+          "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়ের ভারপ্রাপ্ত প্রধান শিক্ষক আফরোজ আহমেদ গোপনে সরকারি বই বস্তায় ভরে বিক্রি করেন",
+          "স্থানীয় এলাকাসী বইগুলো ভ্যানে তোলার দৃশ্য ভিডিও করে সামাজিক যোগাযোগ মাধ্যমে প্রকাশ করলে ঘটনা জানাজানি হয়",
+          "ঘটনার সত্যতা যাচাই করে অভিযুক্ত প্রধান শিক্ষকের বিরুদ্ধে প্রয়োজনীয় ব্যবস্থা নেওয়ার আশ্বাস দিয়েছে প্রশাসন"
         ],
         "bullets_en": [
-          "The Directorate General of Health Services confirmed 11 deaths within 24 hours amid worsening dengue conditions nationwide.",
-          "This single-day record brings the total death toll from dengue to 400 for the current season.",
-          "Rising hospital admissions have prompted urgent directives to ensure adequate medical care across facilities."
+          "Acting headmaster Afroz Ahmed secretly packed and sold government textbooks from the power board high school",
+          "Local residents exposed the incident by recording video footage of the books being loaded onto a van",
+          "School authorities assured an investigation and subsequent administrative action against the responsible teacher"
         ],
-        "impact_bn": "সাধারণ মানুষ ও শিশুদের সুরক্ষায় অবিলম্বে মশা নিধন এবং ডেঙ্গু সচেতনতা বৃদ্ধির কঠোর পদক্ষেপ প্রয়োজন।",
-        "impact_en": "Immediate mosquito eradication and enhanced dengue awareness are crucial to protect ordinary citizens and children.",
-        "details_bn": "চলতি বছর ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করেছে। স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, জানুয়ারি থেকে এখন পর্যন্ত হাসপাতালে ভর্তি হয়েছেন ১ লাখ ২৮ হাজারেরও বেশি মানুষ। এর মধ্যে অক্টোবর মাসেই মৃতের সংখ্যা অন্য মাসগুলোকে ছাড়িয়ে গেছে। চিকিৎসকরা বলছেন, সময়মতো চিকিৎসা না নেওয়ায় এবং সচেতনতার অভাবে মৃত্যুর ঝুঁকি বাড়ছে।",
-        "details_en": "The dengue outbreak has taken a severe turn this year. According to the Directorate General of Health Services, over 128,000 people have been hospitalized since January. Deaths in October alone have surpassed previous months, with doctors warning that delayed treatment and lack of awareness are increasing fatality risks."
+        "impact_bn": "শিক্ষার্থীদের বিনামূল্যে প্রাপ্য সরকারি বই অবৈধভাবে বিক্রির ফলে বঞ্চিত শিক্ষার্থীরা সঠিক সময়ে পঠনসামগ্রী পাওয়া নিয়ে সংকটে পড়েছে।",
+        "impact_en": "The illegal sale of free government textbooks deprives students of essential educational resources required for their studies.",
+        "details_bn": "নীলফামারীর সৈয়দপুর উপজেলার বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড উচ্চ বিদ্যালয়ের শিক্ষার্থীদের জন্য বরাদ্দকৃত সরকারি বই গোপনে কেজি দরে বিক্রির চাঞ্চল্যকর তথ্য সামনে আসে। বিদ্যালয়ের ভারপ্রাপ্ত প্রধান শিক্ষক আফরোজ আহমেদ কোনো ধরনের টেন্ডার বা সরকারি নিয়মনীতি অনুসরণ না করে বস্তাবন্দী বই ভ্যানে করে বাইরে পাচার করছিলেন। এ সময় স্থানীয় সচেতন বাসিন্দারা পুরো ঘটনার ভিডিও ধারণ করে ফেসবুকে ছড়িয়ে দিলে বিষয়টি মুহূর্তেই ভাইরাল হয়ে পড়ে এবং স্থানীয় অভিভাবকদের মাঝে ক্ষোভের সৃষ্টি হয়।",
+        "details_en": "A controversy erupted in Nilphamari when free textbooks allocated for students of the Bangladesh Power Development Board High School were allegedly sold illegally by weight. Acting headmaster Afroz Ahmed reportedly loaded the books into vans for sale without any official tender process. Local residents captured video of the illicit transaction and shared it on social media, prompting widespread public outrage and demands for accountability."
       }
     },
     {
-      "story_id": "9e087061-3365-5ae2-9790-78d29a45deca",
-      "primary_category": "world_diplomacy",
+      "story_id": "ed793a76-d269-55ed-802b-39534f481dde",
+      "primary_category": "sports_fitness",
       "interest_categories": [
+        "sports_fitness",
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#NationalSecurity",
-        "#Geopolitics",
-        "#Diplomacy"
+        "#TeamIndia",
+        "#AbhishekSharma"
       ],
-      "image_url": "https://th-i.thgim.com/public/incoming/m6ahh9/article71630904.ece/alternates/LANDSCAPE_1200/Britain-Security-Arrests_91269.jpg",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261027__D4JK77Z__v1__HighRes__CricketNzlInd-1793098399.jpg?resize=1800%2C1200&quality=80",
       "image_caption": null,
-      "published_at": "2026-10-27T10:54:43+00:00",
+      "published_at": "2026-10-27T11:02:41+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.805,
+      "importance_score": 2.55,
+      "rank_score": 0.7674,
       "sources": [
         {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/10/27/abhishek-sharma-hits-ton-as-india-beat-new-zealand-by-6-wickets-in-3rd-t20?traffic_source=rss",
+          "title": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20",
+          "snippet": "Abhishek Sharma hits ton as India beat New Zealand by 6 wickets in 3rd T20"
+        },
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai",
+          "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
+          "snippet": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India"
+        },
+        {
           "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
-          "title": "Two men charged with U.K. national security offences over incident at U.S.-run military base in England",
-          "snippet": "Two men charged with U.K. national security offences over incident at U.S.-run military base in England"
+          "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece",
+          "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+          "snippet": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet"
         },
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-rdf",
-          "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
-          "snippet": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iran"
+          "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: Arunachal sees fresh violence over proposed dam",
+          "snippet": "India news: Arunachal sees fresh violence over proposed dam"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যে মার্কিন বিমান ঘাঁটিতে হামলার অভিযোগে দুই ব্যক্তি চার্জযুক্ত",
-        "title_en": "Two Men Charged with National Security Offences Over U.K. Military Base Incident",
-        "summary_bn": "যুক্তরাজ্যের একটি মার্কিন সামরিক বিমান ঘাঁটিতে সন্দেহভাজন নাশকতার পরিকল্পনার অভিযোগে দুই তরুণকে জাতীয় নিরাপত্তা আইনে চার্জ করা হয়েছে।",
-        "summary_en": "Two men were charged with national security offences over a suspected plot against a U.S.-run military air base in England.",
+        "title_bn": "নিউজিল্যান্ডকে হারিয়ে টি-টোয়েন্টি সিরিজ জয় করল ভারত",
+        "title_en": "India Defeats New Zealand to Secure T20 Series Victory",
+        "summary_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় নিশ্চিত করেছে ভারত।",
+        "summary_en": "Abhishek Sharma powered India to a six-wicket victory over New Zealand, sealing the T20 series with two matches to spare.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "sports_fitness",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T10:54:43+00:00",
-        "lead_bn": "যুক্তরাজ্যের একটি মার্কিন সামরিক বিমান ঘাঁটিতে সন্দেহভাজন নাশকতার পরিকল্পনার অভিযোগে দুই তরুণকে জাতীয় নিরাপত্তা আইনে চার্জ করা হয়েছে।",
-        "lead_en": "Two men were charged with national security offences over a suspected plot against a U.S.-run military air base in England.",
+        "published_at": "2026-10-27T11:02:41+00:00",
+        "lead_bn": "অভিষেক শর্মার সেঞ্চুরির সুবাদে নিউজিল্যান্ডকে ছয় উইকেটে হারিয়ে টি-টোয়েন্টি সিরিজ জয় নিশ্চিত করেছে ভারত।",
+        "lead_en": "Abhishek Sharma powered India to a six-wicket victory over New Zealand, sealing the T20 series with two matches to spare.",
         "bullets_bn": [
-          "মোহমেদ আব্দুলকরিম ও নোমান এসঘির নামক দুই অভিযুক্তকে জাতীয় নিরাপত্তা আইনের আওতায় চার্জ করা হয়েছে।",
-          "অভিযুক্ত আব্দুলকরিম ইরানের গোয়েন্দা সংস্থাকে সহায়তা এবং এসঘির নিষিদ্ধ স্থানে প্রবেশের অভিযোগে অভিযুক্ত হয়েছেন।",
-          "অভিযুক্ত উভয় ব্যক্তিকে আদালতে হাজির করার জন্য পুলিশ এবং প্রসিকিউটররা প্রক্রিয়া সম্পন্ন করেছেন।"
+          "অভিষেক শর্মা ও বৈভব সূর্যবংশীর দুর্দান্ত জুটিতে নিউজিল্যান্ডের দেওয়া ১৯৬ রানের লক্ষ্য সহজেই টপকে যায় ভারত।",
+          "মাত্র ৩৮ বলে ১১৩ রানের বিধ্বংসী ইনিংস খেলেন অভিষেক শর্মা, যাতে ছিল ৯টি চার ও ১১টি ছক্কা।",
+          "এই জয়ের ফলে পাঁচ ম্যাচের টি-টোয়েন্টি সিরিজে ৩-০ ব্যবধানে অপরাজিত লিড নিয়ে সিরিজ নিশ্চিত করল ভারত।"
         ],
         "bullets_en": [
-          "British-Iranian national Mohmed Abdulkarim and British citizen Nouman Essghir were charged under the National Security Act.",
-          "Abdulkarim faces charges of assisting Iran intelligence, while Essghir is charged with entering a prohibited place.",
-          "Both 24-year-old suspects from London are scheduled to appear in court following their arrests."
+          "India successfully chased down New Zealand's total of 198 runs driven by a dominant opening partnership.",
+          "Abhishek Sharma smashed a blistering 113 runs off just 38 balls, featuring nine fours and 11 sixes.",
+          "The commanding victory gives India an unassailable 3-0 lead in the five-match Twenty20 International series."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "যুক্তরাজ্যের পশ্চিমাঞ্চলের আরএএফ ফেয়ারফোর্ড নামক সামরিক বিমান ঘাঁটিটি মার্কিন বোমারু বিমান চলাচলের জন্য ব্যবহৃত হয়ে আসছে। ঘটনার সূত্রপাত হয় যখন সশস্ত্র পুলিশ ও সেনা বোমা নিষ্ক্রিয়করণ বিশেষজ্ঞরা এলাকাটি ঘিরে ফেলেন এবং নিরাপত্তা ঝুঁকির কারণে স্থানীয় বাসিন্দাদের সরিয়ে নেওয়া হয়।",
-        "details_en": "RAF Fairford in western England has been utilized by American bombers during regional conflicts. The investigation intensified after armed police and army bomb-disposal experts swarmed the rural area outside the base, evacuating residents and conducting thorough searches for explosives following the initial security breach."
+        "impact_bn": "ক্রিকেটপ্রেমী তরুণ ও দর্শকদের মাঝে তীব্র উত্তেজনার সৃষ্টি করেছে ভারতের এই রেকর্ড গড়া জয়।",
+        "impact_en": "The dominant series win provides high-entertainment value for cricket fans and youth across the region.",
+        "details_bn": "ওয়েলিংটনে অনুষ্ঠিত সিরিজের তৃতীয় টি-টোয়েন্টি ম্যাচে প্রথমে ব্যাট করে ১৯০ রান সংগ্রহ করে স্বাগতিক নিউজিল্যান্ড। জবাবে ব্যাট করতে নেমে ভারতীয় ওপেনার অভিষেক শর্মা ও বৈভব সূর্যবংশী মাত্র ৭.১ ওভারে ১৩৩ রানের দুর্দান্ত জুটি গড়ে জয়ের পথ প্রশস্ত করেন। এই জয়ের মাধ্যমে দুই ম্যাচ হাতে রেখেই সিরিজ নিজেদের করে নিল ভারতীয় দল।",
+        "details_en": "Playing in Wellington, New Zealand set a target of 198 runs, which India chased down in just 13.2 overs. The record-breaking opening stand between Abhishek Sharma and Vaibhav Sooryavanshi completely dismantled the home team bowling attack, securing the series victory with two matches remaining."
       }
     },
     {
-      "story_id": "87027e08-61ab-5d36-aaf0-9bf4d683fb26",
-      "primary_category": "tech_innovation",
+      "story_id": "b1309b4e-0b3b-5c94-9b20-ddd77dd5f885",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "tech_innovation",
-        "economy_business",
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Nvidia",
-        "#TechStartups"
+        "#IsraelElection",
+        "#BenjaminNetanyahu"
       ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png",
       "image_caption": null,
-      "published_at": "2026-10-27T11:00:00+00:00",
+      "published_at": "2026-10-27T11:11:33+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6824,
+      "importance_score": 2.12,
+      "rank_score": 0.6901,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-          "snippet": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
+          "name": "BBC World News",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+          "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+          "snippet": "Turnout so far highest in decades as Israelis vote in pivotal election"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
+          "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+          "snippet": "Israel election: Israelis vote for 1st time since October 7 terror attack"
         }
       ],
       "daily_buzz": {
-        "title_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের স্টার্টআপ সিম্পলিসমার্টে এনভিডিয়ার চৌদ্দ মিলিয়ন ডলার বিনিয়োগ",
-        "title_en": "Nvidia Backs Indian Startup Simplismart With Fourteen Million Dollar Funding",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তা মডেল পরিচালনায় দক্ষতা বাড়াতে ভারতীয় স্টার্টআপ সিম্পলিসমার্টের চৌদ্দ মিলিয়ন ডলারের তহবিল সংগ্রহে অংশ নিয়েছে এনভিডিয়া।",
-        "summary_en": "Nvidia participated in a fourteen million dollar funding round for Indian startup Simplismart to improve artificial intelligence model efficiency.",
+        "title_bn": "ইসরায়েলে দীর্ঘ চার দশকের মধ্যে সর্বোচ্চ ভোটার উপস্থিতিতে নির্বাচন অনুষ্ঠিত",
+        "title_en": "Israel Records Highest Voter Turnout in Decades During Pivotal Election",
+        "summary_bn": "ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনে বিগত চার দশকের বেশি সময়ের মধ্যে সর্বোচ্চ ভোটার উপস্থিতি রেকর্ড করা হয়েছে।",
+        "summary_en": "Israel records its highest voter turnout in over four decades during a pivotal national election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "economy_business",
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-27T11:00:00+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তা মডেল পরিচালনায় দক্ষতা বাড়াতে ভারতীয় স্টার্টআপ সিম্পলিসমার্টের চৌদ্দ মিলিয়ন ডলারের তহবিল সংগ্রহে অংশ নিয়েছে এনভিডিয়া।",
-        "lead_en": "Nvidia participated in a fourteen million dollar funding round for Indian startup Simplismart to improve artificial intelligence model efficiency.",
+        "published_at": "2026-10-27T11:11:33+00:00",
+        "lead_bn": "ইসরায়েলে অত্যন্ত গুরুত্বপূর্ণ সাধারণ নির্বাচনে বিগত চার দশকের বেশি সময়ের মধ্যে সর্বোচ্চ ভোটার উপস্থিতি রেকর্ড করা হয়েছে।",
+        "lead_en": "Israel records its highest voter turnout in over four decades during a pivotal national election.",
         "bullets_bn": [
-          "কম জিপিইউ ব্যবহারে কৃত্রিম বুদ্ধিমত্তা মডেল পরিচালনার সফটওয়্যার তৈরিতে অর্থায়ন করেছে এনভিডিয়া",
-          "চৌদ্দ মিলিয়ন ডলারের এই অর্থায়ন রাউন্ডে স্টার্টআপটির মূল্যায়ন দাঁড়িয়েছে প্রায় একশো মিলিয়ন ডলার",
-          "বিদ্যমান অবকাঠামোতে কৃত্রিম বুদ্ধিমত্তা মডেল স্থাপন ও পরিচালনা সহজ করতে কাজ করছে স্টার্টআপটি"
+          "ইসরায়েলের ভোটাররা দেশের ইতিহাসে অন্যতম গুরুত্বপূর্ণ সাধারণ নির্বাচনে নিজেদের ভোটাধিকার প্রয়োগ করেছেন",
+          "বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহু এবং সাবেক সামরিক প্রধান গাদি আইসেনকোটের মধ্যে তীব্র প্রতিদ্বন্দ্বিতা চলছে",
+          "কোনো জোট একক সংখ্যাগরিষ্ঠতার জন্য প্রয়োজনীয় একষট্টি আসন অর্জনে ব্যর্থ হলে দীর্ঘ রাজনৈতিক অনিশ্চয়তা দেখা দিতে পারে"
         ],
         "bullets_en": [
-          "Nvidia backed the software startup to help companies run artificial intelligence models using fewer GPUs.",
-          "The funding round valued the four-year-old Bengaluru-based startup at approximately one hundred million dollars.",
-          "The startup provides software to automate model deployment and scale computing resources dynamically."
+          "Israeli voters cast ballots in what is viewed as one of the most pivotal elections in the country",
+          "Incumbent Benjamin Netanyahu and former military chief Gadi Eisenkot are running in a tight race",
+          "Neither political bloc is projected to secure the sixty-one seats needed to form a majority government"
         ],
-        "impact_bn": "কৃত্রিম বুদ্ধিমত্তাভিত্তিক সেবার খরচ হ্রাস পাওয়ায় সাধারণ প্রযুক্তি ব্যবহারকারী ও প্রতিষ্ঠানগুলো কম খরচে উন্নত সেবা পাবে।",
-        "impact_en": "Lower operational costs for artificial intelligence infrastructure will make advanced tech services more affordable for businesses and consumers.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা খাতে উচ্চ ক্ষমতাসম্পন্ন জিপিইউর চড়া দাম ও সীমিত প্রাপ্যতার কারণে প্রতিষ্ঠানগুলোকে নানা চ্যালেঞ্জের মুখোমুখি হতে হয়। এই প্রেক্ষাপটে বেঙ্গালুরুভিত্তিক স্টার্টআপ সিম্পলিসমার্ট এমন একটি সফটওয়্যার তৈরি করেছে যা বিদ্যমান কম্পিউটার অবকাঠামোতেই কৃত্রিম বুদ্ধিমত্তা মডেলগুলোকে আরও দক্ষতার সাথে পরিচালনা করতে সাহায্য করে।",
-        "details_en": "The artificial intelligence boom has significantly increased demand for high-end GPUs, creating computing bottlenecks and high costs for enterprises. Bengaluru-based Simplismart addresses this by developing intermediary software that optimizes how AI models run on existing infrastructure, helping firms reduce server costs and improve processing efficiency without requiring extensive hardware overhauls."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইসরায়েলের এবারের নির্বাচন মূলত বর্তমান প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর দীর্ঘমেডিকাল শাসনের ওপর একটি গণভোট হিসেবে বিবেচিত হচ্ছে। গণতন্ত্র ও জাতীয় নিরাপত্তাকে কেন্দ্র করে গড়ে ওঠা নির্বাচনী প্রচারণায় ভোটারদের রেকর্ড উপস্থিতি লক্ষ্য করা গেছে। আনুপাতিক প্রতিনিধিত্ব ব্যবস্থার দেশটিতে কোনো একক দল সাধারণত সংখ্যাগরিষ্ঠতা পায় না, ফলে নির্বাচন পরবর্তী সময়ে জোট সরকার গঠনে রাজনৈতিক দলগুলোর মধ্যে দীর্ঘ দরকষাকষির ইতিহাস রয়েছে।",
+        "details_en": "The election is widely regarded as a referendum on the rule of incumbent Prime Minister Benjamin Netanyahu, shaped heavily by debates over democracy and security. Israel operates under a proportional representation system that consistently necessitates coalition governments. With polls showing an exceptionally tight race between Netanyahu and opposition figures like Gadi Eisenkot, the country faces potential weeks or months of political coalition wrangling."
       }
     }
   ]
