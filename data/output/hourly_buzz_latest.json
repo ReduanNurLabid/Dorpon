@@ -1,62 +1,117 @@
 {
-  "updated_at": "2026-10-28T16:00:55.566061",
+  "updated_at": "2026-10-28T17:00:46.467989",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "80789cd9-43ce-54e3-80db-09c3882ff3a6",
+      "story_id": "cdf29c1c-ce59-56ef-9093-94003d9fcce8",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/Humayun-1.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-28T16:21:40+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 2.5275,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-ministers-japan-visit-has-given-a-new-dimension-to-bilateral-relations-humayun-kabir/",
+          "title": "প্রধানমন্ত্রীর জাপান সফরে দ্বিপক্ষীয় সম্পর্ক নতুন মাত্রা পেয়েছে: হুমায়ুন কবীর",
+          "snippet": "প্রধানমন্ত্রীর জাপান সফরে দ্বিপক্ষীয় সম্পর্ক নতুন মাত্রা পেয়েছে: হুমায়ুন কবীর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় পৌঁছেছে বলে জানিয়েছে পররাষ্ট্র মন্ত্রণালয়",
+        "title_en": "Bangladesh and Japan Bilateral Ties Reach New Heights Says Foreign Ministry",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের মধ্য দিয়ে ঢাকা ও টোকিওর দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা নতুন মাত্রা লাভ করেছে।",
+        "summary_en": "Bilateral relations and economic cooperation between Dhaka and Tokyo reached new heights through the Japan visit of Prime Minister Tarique Rahman.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T16:21:40+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের মধ্য দিয়ে ঢাকা ও টোকিওর দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা নতুন মাত্রা লাভ করেছে।",
+        "lead_en": "Bilateral relations and economic cooperation between Dhaka and Tokyo reached new heights through the Japan visit of Prime Minister Tarique Rahman.",
+        "bullets_bn": [
+          "বাংলাদেশ ও জাপানের মধ্যে সহযোগিতা জোরদার করতে ছয়টি সহযোগিতা দলিল ও দুটি ইয়েন ঋণ চুক্তি স্বাক্ষরিত হয়েছে।",
+          "জাপানি বিনিয়োগকারীরা বিভিন্ন খাতে প্রায় ছয়শ কোটি মার্কিন ডলারের সম্ভাব্য বিনিয়োগের আগ্রহ প্রকাশ করেছেন।",
+          "উভয় দেশ ঐতিহ্যগত বন্ধুত্বের সম্পর্ককে কৌশলগত অর্থনৈতিক অংশীদারত্বে উন্নীত করার বিষয়ে একমত হয়েছে।"
+        ],
+        "bullets_en": [
+          "Six cooperation documents and two yen loan agreements were signed to strengthen bilateral ties between Bangladesh and Japan.",
+          "Japanese investors expressed interest in potential investments worth approximately six billion US dollars across various sectors.",
+          "Both nations agreed to elevate their traditional friendship into a strategic economic partnership."
+        ],
+        "impact_bn": "জাপানি বিনিয়োগ ও নতুন ঋণ সহায়তা দেশের অবকাঠামো উন্নয়ন এবং কর্মসংস্থান বৃদ্ধিতে বড় ভূমিকা রাখবে।",
+        "impact_en": "Japanese investments and new loan assistance will play a major role in domestic infrastructure development and employment generation.",
+        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরকে কেন্দ্র করে দুই দেশের কূটনৈতিক ও অর্থনৈতিক সম্পর্কে নতুন গতিশীলতা এসেছে। টোকিওতে অনুষ্ঠিত উচ্চপর্যায়ের বৈঠকে গণতান্ত্রিক উত্তরণ ও উন্নয়ন প্রচেষ্টায় বাংলাদেশের প্রতি জাপানি সমর্থনের বিষয়টি পুনর্ব্যক্ত করা হয়। এই সফরে বাণিজ্য সম্প্রসারণ, কৃষি, মৎস্য, জলবায়ু পরিবর্তন এবং সরকারি ও বেসরকারি খাতে বিনিয়োগ বৃদ্ধির নানা উদ্যোগ নেওয়া হয়েছে, যা দীর্ঘমেয়াদে দ্বিপক্ষীয় অংশীদারত্বকে আরও সুদৃঢ় করবে।",
+        "details_en": "Diplomatic and economic relations between Dhaka and Tokyo gained fresh momentum during the visit of Prime Minister Tarique Rahman. High-level meetings in Tokyo reaffirmed Japan's support for Bangladesh's democratic transition and development efforts. The visit initiated steps to expand trade, agriculture, fisheries, climate cooperation, and both public and private investments, which will strengthen the bilateral partnership in the long run."
+      }
+    },
+    {
+      "story_id": "3774b7bd-df46-54f2-b53f-423a523b024d",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "society_education"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fskmm5o1m%2Fmymensinghdh169420261028whatsapp-image-2026-10-28-at-11.35.19-am.jpg?rect=0%2C58%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-28T15:57:20+00:00",
+      "published_at": "2026-10-28T16:34:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 3.5077,
+      "importance_score": 4.8,
+      "rank_score": 1.4984,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977371/%E0%A6%86%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE",
-          "title": "আমজনতার তারেককে সফরসঙ্গী করায় সমালোচনা নিয়ে যা বললেন প্রধানমন্ত্রী",
-          "snippet": "আমজনতার তারেককে সফরসঙ্গী করায় সমালোচনা নিয়ে যা বললেন প্রধানমন্ত্রী"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/7xli5adgmh",
+          "title": "ময়মনসিংহে নিহত সেলুনমালিকের গলা-বুক-পিঠে ১০ ছুরিকাঘাত, একজন গ্রেপ্তার",
+          "snippet": "ময়মনসিংহে নিহত সেলুনমালিকের গলা-বুক-পিঠে ১০ ছুরিকাঘাত, একজন গ্রেপ্তার"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আমজনতার তারেককে সফরসঙ্গী করার সমালোচনা নিয়ে মুখ খুললেন প্রধানমন্ত্রী",
-        "title_en": "Prime Minister Addresses Criticism Over Including Tariq in Official Tour",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে নিয়ে সামাজিক যোগাযোগমাধ্যমে চলা সমালোচনার কড়া জবাব দিয়েছেন।",
-        "summary_en": "Prime Minister Tariq Rahman responded to social media criticism regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in his official tour.",
+        "title_bn": "ভালুকায় সেলুনমালিককে হত্যার ঘটনায় একমাত্র আসামি গ্রেপ্তার",
+        "title_en": "Sole Accused Arrested for Murdering Salon Owner in Bhaluka",
+        "summary_bn": "ভালুকায় টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে উপর্যুপরি ছুরিকাঘাত করে হত্যার ঘটনায় প্রধান আসামিকে গ্রেপ্তার করেছে পুলিশ।",
+        "summary_en": "Police have arrested the main accused for fatally stabbing salon owner Rabindra Rishi in Bhaluka following a money dispute.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:57:20+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে নিয়ে সামাজিক যোগাযোগমাধ্যমে চলা সমালোচনার কড়া জবাব দিয়েছেন।",
-        "lead_en": "Prime Minister Tariq Rahman responded to social media criticism regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in his official tour.",
+        "published_at": "2026-10-28T16:34:07+00:00",
+        "lead_bn": "ভালুকায় টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে উপর্যুপরি ছুরিকাঘাত করে হত্যার ঘটনায় প্রধান আসামিকে গ্রেপ্তার করেছে পুলিশ।",
+        "lead_en": "Police have arrested the main accused for fatally stabbing salon owner Rabindra Rishi in Bhaluka following a money dispute.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে সফরসঙ্গী করার বিষয়টি নিয়ে সামাজিক যোগাযোগমাধ্যমের সমালোচনার জবাব দেন।",
-          "তিনি বলেন যে দেশের জরুরি জীবনমান ও জীবিকার সংকট নিয়ে আলোচনা না করে সফরসঙ্গীর অবদান ও সরকারি ব্যয় নিয়ে অযথা সমালোচনা চলছে।",
-          "টোকিওর হোটেল নিউ ওতানিতে আয়োজিত অনুষ্ঠানে বাংলাদেশ সরকারের এই অবস্থানের বিষয়টি স্পষ্ট করা হয়।"
+          "টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে ছুরিকাঘাত করে হত্যা করেন সাদ্দাম হোসেন।",
+          "নিহতের গলা, বুক ও পিঠে অন্তত ১০টি ছুরিকাঘাতের চিহ্ন পাওয়া গেছে এবং আসামির পাঁচ দিনের রিমান্ড আবেদন করা হয়েছে।",
+          "পুলিশ হত্যাকাণ্ডে ব্যবহৃত ছুরি উদ্ধার করেছে এবং আদালত আগামী ১ নভেম্বর রিমান্ড শুনানির দিন ধার্য করেছেন।"
         ],
         "bullets_en": [
-          "Prime Minister Tariq Rahman addressed the social media backlash regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in the official delegation.",
-          "He pointed out that instead of discussing critical national crises regarding livelihoods, critics are focusing on the companion's role and government expenditure.",
-          "The clarification was made during an interaction held at the Hotel New Otani in Tokyo, Japan."
+          "Saddam Hossain stabbed salon owner Rabindra Rishi to death following a money and personal dispute.",
+          "The victim bore at least 10 stab wounds on his neck, chest, and back, with a five-day remand sought.",
+          "Police recovered the murder weapon and the court scheduled the remand hearing for November 1."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সম্প্রতি রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে প্রধানমন্ত্রীর সফরসঙ্গী করা নিয়ে সামাজিক যোগাযোগমাধ্যমে বিভিন্ন মহলে তীব্র সমালোচনা ও ট্রল শুরু হয়। এর পরিপ্রেক্ষিতে টোকিওতে প্রবাসী বাংলাদেশিদের সাথে আয়োজিত অনুষ্ঠানে প্রধানমন্ত্রী এই বিষয়ে নিজের অবস্থান ব্যাখ্যা করেন এবং দেশের মূল সমস্যাগুলো বাদ দিয়ে অপ্রয়োজনীয় বিতর্ক তৈরির প্রবণতা নিয়ে অসন্তোষ প্রকাশ করেন।",
-        "details_en": "The inclusion of Amjanata Dal member secretary Md. Tariq Rahman in the Prime Minister's official entourage sparked widespread criticism and trolling across social media platforms. Addressing the issue during an event in Tokyo, the Prime Minister explained the rationale behind the delegation composition and criticized the focus on peripheral issues rather than pressing national livelihood crises."
+        "details_bn": "ময়মনসিংহের ভালুকায় মুক্তিযোদ্ধা মার্কেটের অপূর্ব হেয়ার কাটিংয়ের মালিক রবীন্দ্র ঋষির সঙ্গে আসামি সাদ্দামের চুল কাটা ও হাতখরচের এক হাজার টাকা নিয়ে বিরোধ চলছিল। টাকা ফেরত না দেওয়ায় রবীন্দ্র আসামির বাবার কাছে বিচার দিয়েছিলেন। এরই জেরে অভিযুক্ত ব্যক্তি ধারালো ছুরি নিয়ে সেলুনে ঢুকে ও পালানোর সময় বিভিন্ন স্থানে উপর্যুপরি আঘাত করে রবীন্দ্রকে হত্যা করেন। ঘটনার পর পুলিশ তাৎক্ষণিকভাবে অভিযান চালিয়ে আসামিকে গ্রেপ্তার করে এবং হত্যাকাণ্ডে ব্যবহৃত অস্ত্র উদ্ধার করে।",
+        "details_en": "Rabindra Rishi, owner of Apurbo Hair Cutting in Bhaluka's Muktijoddha Market, had an ongoing dispute with the accused Saddam over unpaid haircut fees and a thousand taka borrowed for expenses. After Rabindra complained to Saddam's father, the accused attacked him with a sharp knife inside the salon and chased him down. Police arrested Saddam promptly after the incident and recovered the murder weapon."
       }
     },
     {
@@ -76,7 +131,7 @@
       "published_at": "2026-10-28T15:59:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.0,
-      "rank_score": 2.3936,
+      "rank_score": 1.4229,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -86,10 +141,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "জুলাই ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ",
-        "title_en": "Government Halts Budget Allocation for July Foundation: Inqilab Mancha",
-        "summary_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
-        "summary_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current government has suspended budget allocations for the July Foundation.",
+        "title_bn": "জুলাই ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার, অভিযোগ ইনকিলাব মঞ্চের",
+        "title_en": "Government Halting Funds for July Foundation, Alleges Inkurilab Mancha",
+        "summary_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই গণঅভ্যুত্থানের চেতনা টিকিয়ে রাখতে ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
+        "summary_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current administration has halted budget allocations to the July Foundation.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -98,81 +153,26 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T15:59:32+00:00",
-        "lead_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
-        "lead_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current government has suspended budget allocations for the July Foundation.",
+        "lead_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই গণঅভ্যুত্থানের চেতনা টিকিয়ে রাখতে ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
+        "lead_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current administration has halted budget allocations to the July Foundation.",
         "bullets_bn": [
-          "জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রাখার অভিযোগ করেছে ইনকিলাব মঞ্চ।",
-          "বর্তমান সরকারের বিরুদ্ধে জুলাই গণঅভ্যুত্থানের চেতনাকে অবহেলার অভিযোগ তোলা হয়েছে।",
-          "ফাউন্ডেশনের অর্থায়ন বন্ধ রাখার পেছনে রাজনৈতিক স্বার্থ রয়েছে বলে দাবি করা হয়েছে।"
+          "সরকার গত ঈদের পর থেকে জুলাই ফাউন্ডেশনে কোনো ধরনের বাজেট বরাদ্দ দিচ্ছে না বলে দাবি করা হয়।",
+          "জুলাইয়ের চেতনা বাঁচিয়ে রাখলে চাঁদাবাজি ও টেন্ডারবাজি করা সম্ভব হবে না বলেই এই তহবিল আটকে দেওয়া হয়েছে।",
+          "বর্তমান প্রশাসনের একটি অংশ জুলাই গণঅভ্যুত্থানকে টিকিয়ে রাখাকে নিজেদের ক্ষমতার জন্য হুমকি মনে করছে।"
         ],
         "bullets_en": [
-          "Inqilab Mancha accused the government of halting budget allocations for the July Foundation.",
-          "The platform claimed the administration is neglecting the core spirit of the July mass uprising.",
-          "Speakers alleged that withholding funds serves vested political interests and extortion."
+          "The government has reportedly stopped allocating any budget to the July Foundation since the last Eid.",
+          "Fund allocations are allegedly being withheld because preserving the spirit of July hinders extortion and tender manipulation.",
+          "A faction within the current administration views keeping the July uprising alive as a threat to their power."
         ],
-        "impact_bn": "জুলাই গণঅভ্যুত্থানের শহীদ ও আহতদের পুনর্বাসন প্রক্রিয়া বাধাগ্রস্ত হতে পারে বলে আশঙ্কা করছেন সংশ্লিষ্টরা।",
-        "impact_en": "Stakeholders fear that delayed funding could hinder the rehabilitation process for the injured and families of martyrs of the uprising.",
-        "details_bn": "সালের জুলাই গণঅভ্যুত্থানের পর গঠিত জুলাই ফাউন্ডেশনের কার্যক্রম এবং সরকারি সহায়তা নিয়ে বিভিন্ন মহলে আলোচনা চলছে। ইনকিলাব মঞ্চের পক্ষ থেকে সরকারের আর্থিক অসহযোগিতা নিয়ে এই প্রথম প্রকাশ্যে তীব্র সমালোচনা করা হলো, যা রাজনৈতিক অঙ্গনে নতুন বিতর্কের জন্ম দিয়েছে।",
-        "details_en": "Discussions have persisted regarding the activities and state support for the July Foundation established after the 2024 uprising. Inqilab Mancha's public criticism of the government's financial non-cooperation marks a significant development, stirring fresh debates within political circles."
+        "impact_bn": "জুলাই গণঅভ্যুত্থানের শহীদ পরিবার ও আহতদের পুনর্বাসন কার্যক্রম আর্থিক সংকটের মুখে পড়তে পারে।",
+        "impact_en": "Rehabilitation efforts for injured protesters and families of July uprising martyrs may face severe financial strain.",
+        "details_bn": "সালের জুলাই গণঅভ্যুত্থানের পর গঠিত বিভিন্ন অন্তর্বর্তীকালীন ও নাগরিক প্ল্যাটফর্ম বিপ্লবের চেতনা রক্ষায় নানা উদ্যোগ নেয়। তবে সরকারি অর্থায়ন এবং কাঠামোগত সহায়তা নিয়ে বিভিন্ন মহলে নানা প্রশ্ন ও অসন্তোষ দেখা দিচ্ছে। ইনকিলাব মঞ্চসহ বিভিন্ন সংগঠন জুলাই অভ্যুত্থানের শহীদ ও আহতদের সঠিক মূল্যায়ন এবং সরকারি সহযোগিতার দাবি জানিয়ে আসছে।",
+        "details_en": "Following the July 2024 mass uprising, various civic platforms emerged to preserve the movement's ideals. However, concerns regarding state funding and structural support for victims' rehabilitation have sparked public debate. Organizations like Inqilab Mancha continue to demand proper state backing and transparency for the rehabilitation of those injured and killed during the revolution."
       }
     },
     {
-      "story_id": "738df99c-6b87-56bb-8887-f1dc1032a0aa",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T15:28:59+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.7888,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/economy/news/1173092",
-          "title": "বাংলাদেশ ব্যাংক কর্মকর্তার ব্যাংক হিসাবের তথ্য চাইলো বিএফআইইউ",
-          "snippet": "বাংলাদেশ ব্যাংক কর্মকর্তার ব্যাংক হিসাবের তথ্য চাইলো বিএফআইইউ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশ ব্যাংকের যুগ্ম-পরিচালক ও তার স্ত্রীর ব্যাংক হিসাবের তথ্য তলব",
-        "title_en": "BFIU Seeks Bank Account Details of Bangladesh Bank Official and Wife",
-        "summary_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের এক যুগ্ম-পরিচালক এবং তার স্ত্রীর সকল ব্যাংক হিসাবের তথ্য তলব করেছে।",
-        "summary_en": "The Bangladesh Financial Intelligence Unit has demanded all bank account details of a central bank joint director and his wife.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:28:59+00:00",
-        "lead_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের এক যুগ্ম-পরিচালক এবং তার স্ত্রীর সকল ব্যাংক হিসাবের তথ্য তলব করেছে।",
-        "lead_en": "The Bangladesh Financial Intelligence Unit has demanded all bank account details of a central bank joint director and his wife.",
-        "bullets_bn": [
-          "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের যুগ্ম-পরিচালক মোশাররফ হোসেন ও তার স্ত্রীর ব্যাংক হিসাবের তথ্য চেয়েছে।",
-          "কেন্দ্রীয় ব্যাংকের মানিলন্ডারিং ও সন্ত্রাসী কাজে অর্থায়ন প্রতিরোধ বিভাগের চিঠির প্রেক্ষিতে এই তথ্য তলব করা হয়।",
-          "সংশ্লিষ্ট ব্যাংকগুলোকে অবিলম্বে তাদের হিসাব সংক্রান্ত যাবতীয় তথ্য বিএফআইইউ বরাবর জমা দেওয়ার নির্দেশ দেওয়া হয়েছে।"
-        ],
-        "bullets_en": [
-          "The Bangladesh Financial Intelligence Unit requested bank details of central bank joint director Mosharraf Hossain and his wife.",
-          "The information was sought following directives from the Anti-Money Laundering and Combating Terrorist Financing Department.",
-          "Concerned banks have been instructed to submit all relevant account records to the BFIU without delay."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট আর্থিক খাতের শৃঙ্খলা রক্ষা এবং অর্থপাচার প্রতিরোধে বিভিন্ন ব্যক্তি ও প্রতিষ্ঠানের ব্যাংক হিসাব তলব করে থাকে। এর ধারাবাহিকতায় এবার কেন্দ্রীয় ব্যাংকের নিজস্ব কর্মকর্তার হিসাবের তথ্য চাওয়ায় বিষয়টি আর্থিক খাতের নজর কেড়েছে।",
-        "details_en": "The Bangladesh Financial Intelligence Unit regularly inspects and seeks financial records of individuals and entities to curb money laundering and maintain financial discipline. This latest move targets an official within the central bank itself, drawing significant attention."
-      }
-    },
-    {
-      "story_id": "9804a885-8f9b-5305-81f6-818ce8afea3a",
+      "story_id": "0f31498e-01a4-5d35-ac1f-a65ac64de3f7",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -184,112 +184,106 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T15:39:46+00:00",
+      "published_at": "2026-10-28T16:17:18+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.5745,
+      "rank_score": 1.3015,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1173097",
-          "title": "ফারাক্কা চুক্তি নবায়ন করে ভারত প্রমাণ করবে তারা ২০ কোটি মানুষের বন্ধু",
-          "snippet": "ফারাক্কা চুক্তি নবায়ন করে ভারত প্রমাণ করবে তারা ২০ কোটি মানুষের বন্ধু"
+          "url": "https://www.jagonews24.com/international/news/1173109",
+          "title": "জ্বালানির দাম বাড়ায় মাঝসমুদ্রে যাত্রা বন্ধ, জাহাজে আটকা ২০০ যাত্রী",
+          "snippet": "জ্বালানির দাম বাড়ায় মাঝসমুদ্রে যাত্রা বন্ধ, জাহাজে আটকা ২০০ যাত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের মানুষের বন্ধু প্রমাণ করবে",
-        "title_en": "India Must Renew Frakka Treaty to Prove Friendship with Bangladesh",
-        "summary_bn": "পানিসম্পদ প্রতিমন্ত্রী ফরহাদ হোসেন াদ বলেছেন, ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের ২০ কোটি মানুষের বন্ধু হিসেবে নিজেদের প্রমাণ করবে।",
-        "summary_en": "State Minister for Water Resources Farhad Hossain Azad stated that India will prove its friendship with Bangladesh by renewing the Farakka Treaty.",
+        "title_bn": "জ্বালানির দাম বৃদ্ধিতে মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী",
+        "title_en": "Two Hundred Passengers Trapped at Sea as Fuel Cost Surge Halts Journey",
+        "summary_bn": "বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির কারণে পরিচালন ব্যয় বেড়ে যাওয়ায় মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী।",
+        "summary_en": "Two hundred passengers are trapped at sea after surging global fuel prices halted the vessel's journey due to rising operational costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:39:46+00:00",
-        "lead_bn": "পানিসম্পদ প্রতিমন্ত্রী ফরহাদ হোসেন াদ বলেছেন, ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের ২০ কোটি মানুষের বন্ধু হিসেবে নিজেদের প্রমাণ করবে।",
-        "lead_en": "State Minister for Water Resources Farhad Hossain Azad stated that India will prove its friendship with Bangladesh by renewing the Farakka Treaty.",
+        "published_at": "2026-10-28T16:17:18+00:00",
+        "lead_bn": "বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির কারণে পরিচালন ব্যয় বেড়ে যাওয়ায় মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী।",
+        "lead_en": "Two hundred passengers are trapped at sea after surging global fuel prices halted the vessel's journey due to rising operational costs.",
         "bullets_bn": [
-          "পানিসম্পদ প্রতিমন্ত্রী ফারাক্কা চুক্তি নবায়ন করার ওপর বিশেষ গুরুত্ব আরোপ করেছেন।",
-          "ভারত ফারাক্কা চুক্তি নবায়ন করলে বাংলাদেশের ২০ কোটি মানুষের প্রকৃত বন্ধু হিসেবে প্রমাণিত হবে।",
-          "দুই দেশের মধ্যকার পানির ন্যায্য হিস্যা নিশ্চিত করতে সংশ্লিষ্ট কর্তৃপক্ষ কূটনৈতিক আলোচনা অব্যাহত রাখবে।"
+          "জ্বালানির মূল্যবৃদ্ধির কারণে জাহাজটির পরিচালন ব্যয় উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে।",
+          "মাঝসমুদ্রে আটকা পড়া জাহাজে দুইশ যাত্রী অবস্থান করছেন।",
+          "পরিস্থিতি মোকাবিলায় দ্রুত বিকল্প পদক্ষেপ গ্রহণের প্রক্রিয়া চলছে।"
         ],
         "bullets_en": [
-          "The State Minister for Water Resources emphasized the urgent need to renew the Farakka Treaty.",
-          "Renewing the treaty will prove India to be a true friend of the 20 million people of Bangladesh.",
-          "Relevant authorities will continue diplomatic discussions to ensure fair water-sharing between the two nations."
+          "The operational cost of the vessel increased significantly due to soaring fuel prices.",
+          "Two hundred passengers remain stranded on the ship stranded in the middle of the sea.",
+          "Immediate alternative steps are being taken to address the situation."
         ],
-        "impact_bn": "পানিসম্পদ ও কৃষির ওপর নির্ভরশীল সাধারণ মানুষ ন্যায্য পানির প্রবাহ নিশ্চিত হওয়ায় উপকৃত হবে।",
-        "impact_en": "Ordinary citizens dependent on agriculture and water resources will benefit from secured and fair water flow.",
-        "details_bn": "সালে পরীক্ষামূলকভাবে চালুর পর থেকে গঙ্গার পানি বন্টন সংক্রান্ত ফারাক্কা চুক্তি দুই দেশের পানি কূটনীতিতে একটি অত্যন্ত সংবেদনশীল ও গুরুত্বপূর্ণ ইস্যু হিসেবে বিবেচিত হয়ে আসছে। ১৯৯৬ সালে তৎকালীন সরকারগুলোর মধ্যে ৩০ বছর মেয়াদি গঙ্গা পানি চুক্তি স্বাক্ষরিত হয়, যার মেয়াদ ২০২৬ সালে শেষ হতে চলেছে। চুক্তিটির নবায়ন এবং নদীর স্বাভাবিক প্রবাহ বজায় রাখা বাংলাদেশের উত্তরাঞ্চলের কৃষি ও পরিবেশের জন্য অত্যন্ত গুরুত্বপূর্ণ বিষয়।",
-        "details_en": "Since its trial launch in 1975, the Farakka Treaty regarding Ganges water sharing has remained a sensitive and critical issue in bilateral water diplomacy. A 30-year Ganges Water Sharing Treaty was signed in 1996, which is set to expire in 2026. The renewal of this treaty and maintaining normal river flows are vital for the agriculture and environment of northern Bangladesh."
+        "impact_bn": "ভ্রমণকারী ও সাধারণ যাত্রীদের নিরাপত্তা এবং আন্তর্জাতিক পরিবহনের ব্যয় নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "impact_en": "Concerns have risen regarding the safety of travelers and the surging costs of international maritime transport.",
+        "details_bn": "চলতি বছরের শুরুতে মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতি শুরুর পর থেকেই বিশ্ববাজারে জ্বালানি তেলের দাম লাগাতার বৃদ্ধি পেতে থাকে। এর ফলে সামুদ্রিক পরিবহন এবং বৈশ্বিক বাণিজ্যের সাথে জড়িত বিভিন্ন জাহাজ পরিচালনায় বড় ধরনের আর্থিক সংকট তৈরি হয়, যার সরাসরি প্রভাব পড়েছে যাত্রী ও পণ্যবাহী জাহাজগুলোর ওপর।",
+        "details_en": "Since the onset of the conflict in the Middle East early this year, global fuel prices have experienced a continuous surge. This created a major financial crisis in operating maritime transport and various commercial vessels, directly impacting passenger and cargo ships alike."
       }
     },
     {
-      "story_id": "f414fd58-8eca-5055-8c8c-2d4907730b63",
-      "primary_category": "world_diplomacy",
+      "story_id": "b3e9f997-83b3-5dc3-a26e-5f324afcadc3",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "world_diplomacy",
         "economy_business",
-        "sports_fitness"
+        "climate_environment",
+        "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#KylianMbappe",
-        "#China",
-        "#RealMadrid"
+        "#InterestRate",
+        "#Inflation",
+        "#BankOfCanada"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-06-05T161942Z_1200594537_RC2QNLA9IBV1_RTRMADP_3_CANADA-ECONOMY-1793202755.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-28T15:36:39+00:00",
+      "published_at": "2026-10-28T16:44:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 1.3551,
+      "importance_score": 1.7,
+      "rank_score": 0.585,
       "sources": [
         {
           "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
-          "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
-          "snippet": "What is the controversy between Real Madrid’s Kylian Mbappe and China?"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
-          "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
-          "snippet": "Ukraine's Zelenskyy irked by US-Russia-China summit"
+          "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+          "title": "Bank of Canada raises interest rates for the first time in three years",
+          "snippet": "Bank of Canada raises interest rates for the first time in three years"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মাও সেতুংকে নিয়ে মন্তব্যের জেরে চীনে বিতর্কের মুখে কিলিয়ান এমবাপে",
-        "title_en": "Kylian Mbappe Faces Backlash in China Over Comments on Mao Zedong",
-        "summary_bn": "চীনের প্রতিষ্ঠাতা নেতা মাও সেতুংকে নিয়ে আপত্তিকর মন্তব্যের জেরে বাণিজ্যিক চুক্তি ও ম্যাচ সম্প্রচার হারালেন রিয়াল মাদ্রিদ তারকা কিলিয়ান এমবাপে।",
-        "summary_en": "Real Madrid star Kylian Mbappe lost commercial deals and broadcast rights in China following controversial remarks about founding leader Mao Zedong.",
+        "title_bn": "মূল সুদের হার বাড়াল কানাডার কেন্দ্রীয় ব্যাংক",
+        "title_en": "Bank of Canada Raises Interest Rates to Combat Inflation",
+        "summary_bn": "জ্বালানি খরচ বৃদ্ধির কারণে সৃষ্ট মুদ্রাস্ফীতি নিয়ন্ত্রণে আনতে তিন বছরেরও বেশি সময় পর নীতি সুদ হার বাড়িয়েছে কানাডার কেন্দ্রীয় ব্যাংক।",
+        "summary_en": "The Bank of Canada increased its key interest rate for the first time in three years to combat soaring inflation driven by energy costs.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy",
           "economy_business",
-          "sports_fitness"
+          "climate_environment",
+          "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:36:39+00:00",
-        "lead_bn": "চীনের প্রতিষ্ঠাতা নেতা মাও সেতুংকে নিয়ে আপত্তিকর মন্তব্যের জেরে বাণিজ্যিক চুক্তি ও ম্যাচ সম্প্রচার হারালেন রিয়াল মাদ্রিদ তারকা কিলিয়ান এমবাপে।",
-        "lead_en": "Real Madrid star Kylian Mbappe lost commercial deals and broadcast rights in China following controversial remarks about founding leader Mao Zedong.",
+        "published_at": "2026-10-28T16:44:44+00:00",
+        "lead_bn": "জ্বালানি খরচ বৃদ্ধির কারণে সৃষ্ট মুদ্রাস্ফীতি নিয়ন্ত্রণে আনতে তিন বছরেরও বেশি সময় পর নীতি সুদ হার বাড়িয়েছে কানাডার কেন্দ্রীয় ব্যাংক।",
+        "lead_en": "The Bank of Canada increased its key interest rate for the first time in three years to combat soaring inflation driven by energy costs.",
         "bullets_bn": [
-          "কিলিয়ান এমবাপের একটি ভিডিও ভাইরাল হওয়ার পর চীনা দর্শকদের মধ্যে তীব্র ক্ষোভ ও বাণিজ্যিক বয়কট শুরু হয়।",
-          "বিতর্কের জেরে এমবাপের একাধিক বাণিজ্যিক চুক্তি বাতিল করা হয়েছে এবং চীনা রাষ্ট্রীয় টেলিভিশনে লা লিগার সম্প্রচার স্থগিত করা হয়েছে।",
-          "ফ্রান্সের ফরোয়ার্ড কিলিয়ান এমবাপের পক্ষ থেকে ক্ষমা প্রার্থনা করা হলেও সামাজিক যোগাযোগমাধ্যমে ক্ষোভের প্রশমন ঘটেনি।"
+          "কানাডার কেন্দ্রীয় ব্যাংক নীতি সুদ হার এক চতুর্থাংশ বাড়িয়ে ২ দশমিক ৫ শতাংশ করেছে।",
+          "কেন্দ্রীয় ব্যাংকের গভর্নর টিফ ম্যাকলেম জানিয়েছেন মুদ্রাস্ফীতির ঝুঁকি কমাতে এই সুদের হার বৃদ্ধি প্রয়োজন ছিল।",
+          "কেন্দ্রীয় ব্যাংক পূর্বাভাস দিয়েছে যে অর্থনৈতিক পরিস্থিতি এবং অনিশ্চয়তা বিবেচনায় ভবিষ্যতে সুদের হার আরও বাড়তে পারে।"
         ],
         "bullets_en": [
-          "Kylian Mbappe sparked widespread outrage and consumer boycotts in China after a controversial video circulated online.",
-          "The backlash resulted in cancelled commercial endorsement deals and the suspension of La Liga broadcasts on Chinese state television.",
-          "The French superstar issued an apology, but anger persisted across major Chinese social media platforms."
+          "The Bank of Canada implemented a quarter-point rate hike bringing the key policy rate to 2.5 percent.",
+          "Governor Tiff Macklem stated the rate increase was necessary to curb rising inflation risks driven by energy costs.",
+          "The central bank warned that further rate increases may be needed depending on economic conditions and uncertainties."
         ],
-        "impact_bn": "null",
-        "impact_en": "null",
-        "details_bn": "চীনের আধুনিক প্রতিষ্ঠাতা নেতা মাও সেতুং দেশটির রাজনীতি ও সংস্কৃতিতে অত্যন্ত সংবেদনশীল ব্যক্তিত্ব। তার সম্পর্কে যেকোনো অবমূল্যায়নমূলক মন্তব্য চীনে কঠোর সামাজিক ট্যাবু হিসেবে গণ্য হয়। রিয়াল মাদ্রিদের ফরাসি ফরোয়ার্ড কিলিয়ান এমবাপের একটি পুরোনো ভিডিও অনলাইনে ছড়িয়ে পড়ার পর এই কূটনৈতিক ও বাণিজ্যিক সংকট তৈরি হয়, যা দেশটির বিশাল বাজারে ক্রীড়াবিদ ও আন্তর্জাতিক ব্র্যান্ডগুলোর জন্য রাজনৈতিক সংবেদনশীলতার ঝুঁকি পুনরায় স্পষ্ট করেছে।",
-        "details_en": "Mao Zedong remains a highly sensitive and revered figure in modern Chinese history, making any satirical or disrespectful remarks about him a strict social taboo. The controversy erupted after a resurfaced video showed Real Madrid forward Kylian Mbappe making light of the former leader. The incident highlights the severe commercial and diplomatic risks international athletes face when navigating the lucrative yet politically sensitive Chinese market."
+        "impact_bn": "সুদের হার বৃদ্ধির ফলে ব্যাংক ঋণ ও বন্ধকী খরচ বেড়ে যাওয়ায় সাধারণ নাগরিকদের মাসিক ব্যয় বৃদ্ধি পাবে।",
+        "impact_en": "Higher borrowing costs will increase monthly expenses for ordinary citizens through rising mortgage and loan rates.",
+        "details_bn": "বার্ষিক মুদ্রাস্ফীতি লক্ষ্যমাত্রার চেয়ে বেড়ে যাওয়ায় অর্থনৈতিক স্থিতিশীলতা বজায় রাখতে ব্যাংক অব কানাডা এই কঠোর monetary policy গ্রহণ করেছে। এর আগে দীর্ঘ তিন বছর ধরে সুদের হার অপরিবর্তিত রাখা হয়েছিল। জ্বালানি ও সংশ্লিষ্ট খাতের ব্যয় বৃদ্ধির কারণে সার্বিক মূল্যস্ফীতি বেড়ে যাওয়ায় কেন্দ্রীয় ব্যাংক এই পদক্ষেপ নিতে বাধ্য হয়।",
+        "details_en": "The Bank of Canada shifted its monetary policy after annual inflation surpassed its target range, driven largely by escalating energy costs. This decision marks the first interest rate increase in over three years, reflecting growing concerns over generalized inflation and economic resilience."
       }
     },
     {
@@ -302,16 +296,16 @@
       ],
       "region": "international",
       "tags": [
-        "#NuclearEnergy",
+        "#NuclearPower",
         "#AIDataCenters",
-        "#USDepartmentOfEnergy"
+        "#TechInfrastructure"
       ],
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
       "image_caption": null,
       "published_at": "2026-10-28T15:53:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6358,
+      "rank_score": 0.386,
       "sources": [
         {
           "name": "TechCrunch",
@@ -322,9 +316,9 @@
       ],
       "daily_buzz": {
         "title_bn": "পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র",
-        "title_en": "US Department of Energy Grants Five Billion Dollar Loan to Nuclear Plants",
-        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র।",
-        "summary_en": "The United States is providing a five billion dollar loan to expand nuclear power capacity powering AI data centers.",
+        "title_en": "US Department of Energy Grants Five Billion Dollar Loan for Nuclear Plants",
+        "summary_bn": "যুক্তরাষ্ট্রের প্রশাসন ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে কনস্টেলেশন এনার্জিকে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে।",
+        "summary_en": "The US administration is issuing a five billion dollar loan to Constellation Energy to expand nuclear capacity for data centers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -334,22 +328,22 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T15:53:21+00:00",
-        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র।",
-        "lead_en": "The United States is providing a five billion dollar loan to expand nuclear power capacity powering AI data centers.",
+        "lead_bn": "যুক্তরাষ্ট্রের প্রশাসন ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে কনস্টেলেশন এনার্জিকে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে।",
+        "lead_en": "The US administration is issuing a five billion dollar loan to Constellation Energy to expand nuclear capacity for data centers.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের জ্বালানি বিভাগ কনস্টেলেশন এনার্জিকে আটটি পারমাণবিক বিদ্যুৎ কেন্দ্রের সক্ষমতা বাড়াতে পাঁচ বিলিয়ন ডলার ঋণ প্রদান করছে।",
-          "প্রকল্পটির মাধ্যমে এক দশমিক এক গিগাওয়াট অতিরিক্ত বিদ্যুৎ উৎপাদন হবে যার বড় অংশ গুগল, মেটা এবং আমাজন কিনে নিয়েছে।",
-          "উন্নত ইউরেনিয়াম এবং যন্ত্রাংশ আধুনিকায়নের মাধ্যমে এগারোটি বিদ্যমান চুল্লির উৎপাদন ক্ষমতা বাড়ানো হবে।"
+          "কনস্টেলেশন এনার্জি আটটি পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা এক দশমিক এক গিগাওয়াট বাড়াতে এই ঋণ ব্যবহার করবে",
+          "প্রকল্পের অতিরিক্ত শক্তির বেশিরভাগ অংশ গুগল, মেটা এবং আমাজন আগেই কিনে নিয়েছে",
+          "এই অর্থায়ন আটটি বিদ্যুৎ কেন্দ্রের এগারোটি চুল্লির ক্ষমতা বাড়াতে এবং আধুনিকায়ন করতে ব্যয় করা হবে"
         ],
         "bullets_en": [
-          "The US Department of Energy is providing Constellation Energy five billion dollars in loans to expand eight power plants.",
-          "The expansion adds 1.1 gigawatts of capacity, with major tech firms like Google, Meta, and Amazon purchasing the power.",
-          "Constellation plans to uprate 11 existing reactors using enriched uranium and upgraded equipment to handle increased power levels."
+          "Constellation Energy will use the financing to expand nuclear generating capacity at eight power plants by 1.1 gigawatts.",
+          "Google Meta and Amazon have already secured agreements to purchase most of the additional power generated from these facilities.",
+          "The funding aims to uprate eleven existing nuclear reactors across Illinois Maryland and Pennsylvania to support massive tech infrastructure."
         ],
-        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের জন্য প্রচুর বিদ্যুৎ বরাদ্দ হওয়ায় তা সাধারণ গৃহস্থালি গ্রাহকদের বিদ্যুতের দাম কমাতে কোনো ভূমিকা রাখবে না।",
-        "impact_en": "The massive diversion of nuclear energy to power AI data centers provides no evidence of lowering electricity prices for ordinary residential consumers.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের অবিশ্বাস্য বিদ্যুৎ চাহিদা মেটাতে প্রযুক্তি জায়ান্টরা বিকল্প জ্বালানি উৎসের সন্ধান করছে। গুগল, আমাজন এবং মেটার মতো শীর্ষস্থানীয় প্রতিষ্ঠানগুলো তাদের এআই অবকাঠামো নিরবচ্ছিন্ন রাখতে পরমাণু শক্তির ওপর বড় অংকের বিনিয়োগ বাড়াচ্ছে। এই প্রেক্ষাপটে মার্কিন জ্বালানি বিভাগ কনস্টেলেশন এনার্জিকে ঋণ সহায়তার উদ্যোগ নিয়েছে, যা প্রযুক্তি শিল্পের শক্তির সংকট মোকাবেলায় একটি বড় পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
-        "details_en": "Major tech giants including Google, Amazon, and Meta have been scrambling for additional electrical capacity to support their rapidly expanding AI data centers. Tech companies are committing tens of billions of dollars to secure reliable energy sources as a competitive advantage. This government loan aims to boost nuclear generation capacity across eight power plants located in Illinois, Maryland, and Pennsylvania to feed the surging energy demands of the tech sector."
+        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা ডেটা সেন্টারের বিদ্যুৎ চাহিদা বাড়লেও সাধারণ গ্রাহকদের বিদ্যুৎ বিল কমার কোনো নিশ্চিত তথ্য নেই।",
+        "impact_en": "While powering AI data centers, there is no evidence that the increased nuclear capacity will lower electricity prices for residential consumers.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তা চালিত ডেটা সেন্টারের জন্য বিদ্যুৎ খাতের ওপর চাপ তীব্রভাবে বাড়ছে। গুগল, আমাজন এবং মেটার মতো টেক জায়ান্টগুলো এআই সার্ভারের নিরবচ্ছিন্ন শক্তির জোগান নিশ্চিত করতে বড় অংকের বিনিয়োগ করছে। এর অংশ হিসেবে পারমাণবিক বিদ্যুৎ কেন্দ্রের সক্ষমতা বৃদ্ধির জন্য এই ঋণ অনুমোদন করা হয়েছে, যা যুক্তরাষ্ট্রের বিভিন্ন অঞ্চলের আটটি বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা বাড়াতে ব্যবহার করা হবে।",
+        "details_en": "Tech giants including Google Amazon and Meta have been aggressively securing additional grid capacity to sustain their rapidly expanding AI data centers. The massive power demands have driven these companies to commit billions of dollars to energy infrastructure. This government loan aims to accelerate reactor uprating projects across eight US power plants to meet the escalating electricity consumption of modern technology operations."
       }
     }
   ]
