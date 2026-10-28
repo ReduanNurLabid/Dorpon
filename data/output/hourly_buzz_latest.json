@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28T04:00:42.217268",
+  "updated_at": "2026-10-28T05:00:52.345800",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "9cd1961c-dc33-59c2-9465-52c8ee65ec65",
+      "story_id": "e8a5a708-52d4-5fb7-a6d4-2f6a53cae099",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -14,25 +14,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fhloor9rs%2Felection-night.jfif?rect=0%2C57%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-28T03:57:07+00:00",
+      "published_at": "2026-10-28T04:42:15+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.5725,
+      "rank_score": 2.2169,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172778",
-          "title": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর",
-          "snippet": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/5qsk6wsy4l",
+          "title": "ইসরায়েলে সংখ্যাগরিষ্ঠতা পাচ্ছে না কেউ, এখন কী হবে, প্রধানমন্ত্রী কে হবেন",
+          "snippet": "ইসরায়েলে সংখ্যাগরিষ্ঠতা পাচ্ছে না কেউ, এখন কী হবে, প্রধানমন্ত্রী কে হবেন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "Prime Minister Urges Uniqlo to Expand Investment in Bangladesh",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জাপানি বহুজাতিক প্রতিষ্ঠান ইউনিক্লোর মূল কোম্পানিকে বাংলাদেশে বিনিয়োগ বাড়ানোর আহ্বান জানানো হয়েছে।",
-        "summary_en": "Prime Minister urged the parent company of Japanese apparel giant Uniqlo to expand investments in Bangladesh during a bilateral meeting.",
+        "title_bn": "ইসরায়েলের নির্বাচনে কোনো দল বা জোটের একক সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থতা",
+        "title_en": "Israeli Parliament Election Results Show No Party Securing Majority",
+        "summary_bn": "ইসরায়েলের পার্লামেন্ট নির্বাচনে কোনো রাজনৈতিক দল বা জোট সরকার গঠনের প্রয়োজনীয় একক সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
+        "summary_en": "No political party or alliance has secured the required majority to form a government in the Israeli parliament election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -40,30 +40,141 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T03:57:07+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জাপানি বহুজাতিক প্রতিষ্ঠান ইউনিক্লোর মূল কোম্পানিকে বাংলাদেশে বিনিয়োগ বাড়ানোর আহ্বান জানানো হয়েছে।",
-        "lead_en": "Prime Minister urged the parent company of Japanese apparel giant Uniqlo to expand investments in Bangladesh during a bilateral meeting.",
+        "published_at": "2026-10-28T04:42:15+00:00",
+        "lead_bn": "ইসরায়েলের পার্লামেন্ট নির্বাচনে কোনো রাজনৈতিক দল বা জোট সরকার গঠনের প্রয়োজনীয় একক সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
+        "lead_en": "No political party or alliance has secured the required majority to form a government in the Israeli parliament election.",
         "bullets_bn": [
-          "প্রধানমন্ত্রীর সাথে ফাস্ট রিটেইলিং কোম্পানি লিমিটেডের চেয়ারম্যানের উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়।",
-          "বৈঠকে বাংলাদেশের তৈরি পোশাক খাতে নতুন বিনিয়োগ এবং কর্মসংস্থান বাড়ানোর ওপর গুরুত্বারোপ করা হয়।",
-          "উভয় পক্ষ পারস্পরিক বাণিজ্য সম্পর্ক আরও সুদৃঢ় করার বিষয়ে সম্মত হয়েছে।"
+          "ইসরায়েলের ১২০ আসনের নেসেট নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ডানপন্থী জোট ৫২টি এবং বিরোধী জোট ৪৯টি আসনে জয়ী হয়েছে।",
+          "সরকার গঠনের জন্য প্রয়োজনীয় ৬১ আসন নিশ্চিত করতে না পারায় দেশটিতে দীর্ঘ রাজনৈতিক দর-কষাকষির পথ উন্মুক্ত হয়েছে।",
+          "জোটবহির্ভূত আরব দলগুলো ১৯টি আসন পেয়ে সরকার গঠনে নির্ণায়ক বা কিংমেকার ভূমিকা পালন করতে পারে।"
         ],
         "bullets_en": [
-          "The Prime Minister held a high-level meeting with the chairman of Fast Retailing Company Limited.",
-          "Discussions focused on expanding new investments and boosting employment within the RMG sector.",
-          "Both sides agreed to further strengthen bilateral trade cooperation and commercial ties."
+          "Prime Minister Benjamin Netanyahu's right-wing alliance won 52 seats while the opposition alliance secured 49 seats in the 120-seat Knesset.",
+          "Without securing the required 61 seats to form a government, the nation faces weeks or months of political negotiations.",
+          "Arab-led parties won 19 seats and could emerge as kingmakers in the upcoming government formation process."
         ],
-        "impact_bn": "এই বিনিয়োগ বৃদ্ধি পেলে দেশের পোশাক খাতে নতুন কর্মসংস্থান তৈরি হবে এবং তরুণ পেশাজীবীদের জন্য সুযোগ বাড়বে।",
-        "impact_en": "Increased investment will create new employment opportunities in the garment sector and benefit young professionals.",
-        "details_bn": "জাপানের বিশ্বখ্যাত পোশাক ব্র্যান্ড ইউনিক্লো দীর্ঘদিন ধরে বাংলাদেশ থেকে তৈরি পোশাক সংগ্রহ করে আসছে। বাংলাদেশের পোশাক শিল্পে বৈদেশিক বিনিয়োগ আকৃষ্ট করতে বর্তমান সরকার বিদেশি বিনিয়োগকারীদের সাথে ধারাবাহিক যোগাযোগ রক্ষা করে চলেছে। এই বৈঠকের মাধ্যমে দুই দেশের বাণিজ্য সম্পর্ক আরও জোরদার হওয়ার সম্ভাবনা তৈরি হয়েছে।",
-        "details_en": "Japanese apparel giant Uniqlo has long sourced garments from Bangladesh. The government continues to engage foreign investors to boost foreign direct investment in the local apparel sector. This meeting highlights ongoing efforts to deepen bilateral economic ties between Dhaka and Tokyo."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইসরায়েলি পার্লামেন্ট নেসেটের নির্বাচনে বুথফেরত জরিপে কোনো রাজনৈতিক দল বা জোটের একক সংখ্যাগরিষ্ঠতা না পাওয়ার ইঙ্গিত মিলেছে। প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর ডানপন্থী জোট এবং সাবেক সেনাপ্রধান গাদি আইজেনকটের নেতৃত্বাধীন বিরোধী জোট উভয়েই সরকার গঠনের প্রয়োজনীয় ৬১ আসন অর্জনে ব্যর্থ হয়েছে। এই পরিস্থিতিতে আরব-নেতৃত্বাধীন দলগুলো নির্ণায়ক ভূমিকা পালন করতে পারে, যা দেশটিতে নতুন সরকার গঠনে রাজনৈতিক অনিশ্চয়তা ও দীর্ঘ দর-কষাকষির সৃষ্টি করেছে।",
+        "details_en": "Exit polls from the Israeli parliament election indicated that no single political party or coalition secured an outright majority. Both Prime Minister Benjamin Netanyahu's right-wing bloc and the opposition alliance led by Gadi Eisenkot fell short of the 61 seats needed to form a government. With Arab-led parties capturing key seats, the deadlock opens the path for extended political negotiations and potential coalition maneuvering to determine the next administration."
       }
     },
     {
-      "story_id": "28265eea-11d8-5814-abf3-1de7abc853c2",
+      "story_id": "74a436f9-cef9-5218-bd8b-61731ae710e9",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T04:36:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.108,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172792",
+          "title": "প্রধানমন্ত্রীর উদ্বোধনের ৬ মাস পর শুরু হলো খাল পুনঃখনন",
+          "snippet": "প্রধানমন্ত্রীর উদ্বোধনের ৬ মাস পর শুরু হলো খাল পুনঃখনন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "সিলেটের বাসিয়া খাল পুনঃখনন কাজ শুরু",
+        "title_en": "Re-excavation Work of Basia Canal in Sylhet Begins",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের উদ্বোধনের দীর্ঘ ছয় মাস পর সিলেটের বাসিয়া খাল পুনঃখননের আনুষ্ঠানিক কাজ শুরু হয়েছে।",
+        "summary_en": "The official re-excavation work of the Basia Canal in Sylhet has begun nearly six months after its inauguration.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T04:36:46+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের উদ্বোধনের দীর্ঘ ছয় মাস পর সিলেটের বাসিয়া খাল পুনঃখননের আনুষ্ঠানিক কাজ শুরু হয়েছে।",
+        "lead_en": "The official re-excavation work of the Basia Canal in Sylhet has begun nearly six months after its inauguration.",
+        "bullets_bn": [
+          "সিলেটের বাসিয়া খাল পুনঃখননের আনুষ্ঠানিক কাজ শুরু হয়েছে",
+          "প্রধানমন্ত্রীর উদ্বোধনের প্রায় ছয় মাস পর এই খননকাজ শুরু হলো",
+          "প্রথম পর্যায়ে খালের নির্দিষ্ট অংশে খনন কার্যক্রম পরিচালনা করা হবে"
+        ],
+        "bullets_en": [
+          "The official re-excavation work of the Basia Canal in Sylhet has commenced.",
+          "The excavation started nearly six months after the prime minister's inauguration.",
+          "The work will be carried out in specific sections during the first phase."
+        ],
+        "impact_bn": "খাল পুনঃখনন সম্পন্ন হলে সিলেটের স্থানীয় কৃষিকাজ ও পানি নিষ্কাশন ব্যবস্থার দীর্ঘদিনের জলাবদ্ধতা সমস্যার সমাধান হবে।",
+        "impact_en": "The canal re-excavation will resolve local agricultural irrigation issues and chronic waterlogging problems in Sylhet.",
+        "details_bn": "সিলেটের বাসিয়া খালটি এলাকার পানি নিষ্কাশন এবং কৃষিকাজের জন্য অত্যন্ত গুরুত্বপূর্ণ একটি জলপথ। দীর্ঘদিন ধরে অবহেলিত থাকায় খালটি পলি জমে ভরাট হয়ে গিয়েছিল, যার ফলে স্থানীয় বাসিন্দারা চরম দুর্ভোগের শিকার হচ্ছিলেন। এর প্রেক্ষিতে খালটি পুনঃখননের উদ্যোগ নেওয়া হয় এবং প্রধানমন্ত্রী এটি উদ্বোধনের পর দীর্ঘ প্রতীক্ষার অবসান ঘটিয়ে অবশেষে খননকাজ শুরু হয়েছে।",
+        "details_en": "The Basia Canal in Sylhet is a vital waterway for local drainage and agriculture. Neglected for years, the canal had become choked with silt, causing severe suffering for local residents. In response, an initiative was taken to re-excavate the canal, and after a long wait following its inauguration by the prime minister, the work has finally started."
+      }
+    },
+    {
+      "story_id": "691dee0f-7c54-5b01-9732-116da5d852a2",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fg2ossolr%2FCapture.PNG?rect=0%2C47%2C635%2C333&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2022-01%2F18c58c05-9e66-46f3-8946-4437460f8f90%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_caption": null,
+      "published_at": "2026-10-28T04:16:27+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 1.6149,
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/roundtable/rmtma99v40",
+          "title": "কুষ্টিয়ায় ব্যবসা–বাণিজ্য প্রসারে বাজেটে বরাদ্দ রাখার দাবি",
+          "snippet": "কুষ্টিয়ায় ব্যবসা–বাণিজ্য প্রসারে বাজেটে বরাদ্দ রাখার দাবি"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কুষ্টিয়ায় ব্যবসা–বাণিজ্য ও স্থানীয় অবকাঠামো প্রসারে জাতীয় বাজেটে বরাদ্দ দাবি",
+        "title_en": "Demand for National Budget Allocation to Expand Business and Infrastructure in Kushtia",
+        "summary_bn": "কুষ্টিয়ায় ব্যবসা-বাণিজ্য প্রসারে এবং নাগরিক সুযোগ-সুবিধা বাড়াতে জাতীয় বাজেটে বিশেষ বরাদ্দ রাখার দাবি জানিয়েছেন স্থানীয় বিশিষ্টজনেরা।",
+        "summary_en": "Local stakeholders have demanded special allocations in the national budget to expand business and improve civic facilities in Kushtia.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T04:16:27+00:00",
+        "lead_bn": "কুষ্টিয়ায় ব্যবসা-বাণিজ্য প্রসারে এবং নাগরিক সুযোগ-সুবিধা বাড়াতে জাতীয় বাজেটে বিশেষ বরাদ্দ রাখার দাবি জানিয়েছেন স্থানীয় বিশিষ্টজনেরা।",
+        "lead_en": "Local stakeholders have demanded special allocations in the national budget to expand business and improve civic facilities in Kushtia.",
+        "bullets_bn": [
+          "কুষ্টিয়ায় সড়ক মেরামত, জলাবদ্ধতা নিরসন এবং ব্যবসা-বাণিজ্য প্রসারে জাতীয় বাজেটে পর্যাপ্ত বরাদ্দ বাড়ানোর দাবি জানানো হয়।",
+          "কৃষি কলেজ স্থাপনে অন্তত ১০০ কোটি টাকা বরাদ্দ এবং বন্ধ কুষ্টিয়া চিনিকল চালুর দাবি জানান বক্তারা।",
+          "স্থানীয় অর্থনৈতিক উন্নয়ন নিশ্চিত করতে দ্রুত সুনির্দিষ্ট প্রকল্প গ্রহণ ও বাস্তবায়নের তাগিদ দেওয়া হয়।"
+        ],
+        "bullets_en": [
+          "Stakeholders demanded increased national budget allocations for road repairs, waterlogging resolution, and business expansion in Kushtia.",
+          "Speakers called for at least 100 crore taka to establish an agricultural college and initiatives to reopen the closed Kushtia Sugar Mill.",
+          "Urgent steps were urged to implement specific projects to ensure local economic development."
+        ],
+        "impact_bn": "এই বরাদ্দ নিশ্চিত হলে কুষ্টিয়ার সড়ক যোগাযোগ উন্নত হবে এবং স্থানীয় ব্যবসা-বাণিজ্য ও কর্মসংস্থান প্রসারিত হবে।",
+        "impact_en": "Securing these allocations will improve road connectivity and expand local business and employment opportunities in Kushtia.",
+        "details_bn": "ইউরোপীয় ইউনিয়নের সহযোগিতায় একশনএইডের সুশীল প্রকল্প ও প্রথম আলোর উদ্যোগে কুষ্টিয়ায় নাগরিক সমাজের প্রত্যাশা নিয়ে এই গোলটেবিল বৈঠক অনুষ্ঠিত হয়। বৈঠকে কুষ্টিয়া জেলা পরিষদের প্রশাসক বীর মুক্তিযোদ্ধা সোহরাব উদ্দীন, জেলা বিএনপির আহ্বায়ক কুতুব উদ্দীনসহ স্থানীয় রাজনৈতিক ও সামাজিক নেতারাসহ বিভিন্ন পেশাজীবী প্রতিনিধিরা অংশ নেন। বক্তারা জেলার ভাঙাচোরা সড়ক মেরামত, জলাবদ্ধতা দূরীকরণ এবং বন্ধ চিনিকল চালুর মাধ্যমে অর্থনৈতিক সম্ভাবনার কথা তুলে ধরেন।",
+        "details_en": "This roundtable discussion on civil society expectations in the national budget was organized in Kushtia under the initiative of ActionAid's Shushil project, supported by the European Union, and Prothom Alo. Local political leaders, administrators, and professionals attended the session, highlighting the urgent need for road repairs, resolving waterlogging, and reviving closed industrial units to unlock the district's economic potential."
+      }
+    },
+    {
+      "story_id": "b4ea23cb-7f55-52d3-a279-a9d10b7fbdeb",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -72,226 +183,51 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T04:01:00+00:00",
+      "published_at": "2026-10-28T04:58:17+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9747,
+      "rank_score": 0.9455,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/977161/%E0%A6%AD%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A7%87%E0%A6%A1-%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%AC%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E0%A7%AE-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A7%9F%E0%A6%A8%E0%A6%BF",
-          "title": "ভবন-বেড-যন্ত্রপাতি সবই আছে, তবু ৮ বছরেও চালু হয়নি চার স্বাস্থ্যকেন্দ্র",
-          "snippet": "ভবন-বেড-যন্ত্রপাতি সবই আছে, তবু ৮ বছরেও চালু হয়নি চার স্বাস্থ্যকেন্দ্র"
+          "url": "https://www.banglatribune.com/foreign/india/977214/%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%93-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%AB%E0%A7%8B%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "মোট্রোতে নারীর ভিডিও ধারণ, ফোন দেখতে চাইলে পালালেন যুবক",
+          "snippet": "মোট্রোতে নারীর ভিডিও ধারণ, ফোন দেখতে চাইলে পালালেন যুবক"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জনবল সংকটে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র আট বছর ধরে বন্ধ",
-        "title_en": "Four Jhenaidah Maternal and Child Welfare Centers Remain Closed for Eight Years",
-        "summary_bn": "চিকিৎসক ও প্রয়োজনীয় জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র উদ্বোধনের আট বছর পরও চালু করা যায়নি।",
-        "summary_en": "Four maternal and child welfare centers in Jhenaidah remain non-functional eight years after inauguration due to acute staff shortages.",
+        "title_bn": "বেঙ্গালুরু মেট্রোয় নারীর গোপনে ভিডিও ধারণকারী যুবকের বিরুদ্ধে এফআইআর দায়ের",
+        "title_en": "Police File FIR After Man Secretly Films Woman Inside Bengaluru Metro",
+        "summary_bn": "বেঙ্গালুরু মেট্রোয় গোপনে এক নারীর ভিডিও ধারণের অভিযোগে অজ্ঞাতপরিচয় ব্যক্তির বিরুদ্ধে পুলিশ এফআইআর নথিভুক্ত করেছে।",
+        "summary_en": "Police registered an FIR against an unidentified man following allegations of secretly filming a woman inside a Bengaluru metro train.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T04:01:00+00:00",
-        "lead_bn": "চিকিৎসক ও প্রয়োজনীয় জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র উদ্বোধনের আট বছর পরও চালু করা যায়নি।",
-        "lead_en": "Four maternal and child welfare centers in Jhenaidah remain non-functional eight years after inauguration due to acute staff shortages.",
+        "published_at": "2026-10-28T04:58:17+00:00",
+        "lead_bn": "বেঙ্গালুরু মেট্রোয় গোপনে এক নারীর ভিডিও ধারণের অভিযোগে অজ্ঞাতপরিচয় ব্যক্তির বিরুদ্ধে পুলিশ এফআইআর নথিভুক্ত করেছে।",
+        "lead_en": "Police registered an FIR against an unidentified man following allegations of secretly filming a woman inside a Bengaluru metro train.",
         "bullets_bn": [
-          "জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র পূর্ণাঙ্গভাবে স্বাস্থ্যসেবা চালু করতে ব্যর্থ হয়েছে।",
-          "সালে আনুষ্ঠানিকভাবে উদ্বোধন করা হলেও তিনতলা ভবন, বেড ও যন্ত্রপাতি থাকা সত্ত্বেও চিকিৎসকের দেখা মেলেনি।",
-          "প্রত্যন্ত অঞ্চলের হাজারো দরিদ্র মা ও শিশু প্রসবকালীন জরুরি চিকিৎসাসেবা থেকে বঞ্চিত হচ্ছেন।"
+          "ভিডিও ধারণের অভিযোগের ভিত্তিতে ভুক্তভোগী নারীর অভিযোগের প্রেক্ষিতে পুলিশ এফআইআর গ্রহণ করে তদন্ত শুরু করেছে।",
+          "ভুক্তভোগী নারী ইনস্টাগ্রাম পোস্টে হোয়াইটফিল্ড মেট্রো স্টেশনের এই ঘটনার বর্ণনা দিয়েছেন এবং ফোন দেখতে চাওয়ায় অভিযুক্ত পালিয়ে যায়।",
+          "পুলিশ অভিযুক্তের পরিচয় শনাক্ত করতে মেট্রো স্টেশনের সিসিটিভি ফুটেজ বিশ্লেষণ করছে।"
         ],
         "bullets_en": [
-          "Four maternal and child welfare centers in Jhenaidah failed to launch full medical services due to severe workforce shortages.",
-          "Despite being inaugurated in 2018 with three-story buildings, beds, and medical equipment, doctors remain absent.",
-          "Thousands of impoverished mothers and children in remote areas are deprived of essential emergency delivery care."
+          "Police registered an official FIR following a formal complaint filed by the victim regarding unauthorized recording.",
+          "The victim detailed the incident on Instagram stating the accused fled when she asked to check his phone.",
+          "Law enforcement authorities are currently reviewing metro station CCTV footage to identify and apprehend the suspect."
         ],
-        "impact_bn": "গর্ভবতী মায়েরা প্রসবকালীন জটিল পরিস্থিতিতে সময়মতো চিকিৎসা না পেয়ে চরম স্বাস্থ্যঝুঁকিতে পড়ছেন।",
-        "impact_en": "Pregnant mothers face severe health risks as they fail to receive timely medical care during delivery complications.",
-        "details_bn": "ঝিনাইদহে মা ও শিশু স্বাস্থ্যসেবা সম্প্রসারণের লক্ষ্যে ২০১৮ সালে ওই চারটি কল্যাণকেন্দ্র আনুষ্ঠানিকভাবে উদ্বোধন করা হয়েছিল। তিনতলা ভবন নির্মাণ এবং প্রয়োজনীয় বেড ও চিকিৎসাসামগ্রী সরবরাহ করা হলেও চিকিৎসক এবং পর্যাপ্ত জনবল পদায়ন করা হয়নি। ফলে দীর্ঘ আট বছর ধরে অবকাঠামো প্রস্তুত থাকলেও তা সাধারণ মানুষের কোনো উপকারে আসছে না, যা গ্রামীণ জনপদে স্বাস্থ্যসেবা খাতের চরম অব্যবস্থাপনাকে ফুটিয়ে তুলছে।",
-        "details_en": "The four welfare centers were officially inaugurated in 2018 to expand maternal and child healthcare in Jhenaidah. Although three-story buildings were constructed and necessary beds and medical equipment were supplied, physicians and adequate staff were never posted. Consequently, despite ready infrastructure, the facilities remain unused for eight years, highlighting severe mismanagement in the rural healthcare sector."
+        "impact_bn": "এই ঘটনাটি জনপরিবহনে নারী যাত্রীদের নিরাপত্তা এবং ডিজিটাল গোপনীয়তা রক্ষায় সচেতনতা ও কঠোর নজরদারির প্রয়োজনীয়তা বাড়িয়েছে।",
+        "impact_en": "This incident raises critical awareness regarding women's safety and digital privacy inside public transportation systems.",
+        "details_bn": "বেঙ্গালুরু মেট্রোয় এক নারীযাত্রী তার অজান্তে এক ব্যক্তির গোপনে ভিডিও ধারণ করার বিষয়টি লক্ষ্য করেন। বিষয়টি নিয়ে তিনি প্রতিবাদ করলে অভিযুক্ত ব্যক্তি তার মোবাইল ফোন দেখাতে অস্বীকৃতি জানান এবং দ্রুত ঘটনাস্থল থেকে পালিয়ে যান। পরবর্তীতে ভুক্তভোগী নারী সামাজিক যোগাযোগ মাধ্যম ইনস্টাগ্রামে পুরো ঘটনার বিবরণ দিয়ে একটি ভিডিও প্রকাশ করেন। তার এই অভিযোগের ভিত্তিতে পুলিশ দ্রুত নড়েচড়ে বসে এবং মেট্রো ট্রেনের ভেতরে যাত্রীদের নিরাপত্তা নিশ্চিত করতে তদন্ত শুরু করে।",
+        "details_en": "A female passenger aboard a Bengaluru metro train noticed a man secretly recording her without consent. When she confronted the individual and requested to inspect his phone, the suspect fled the scene. The victim subsequently shared her harrowing experience through a video on Instagram, which quickly gained public attention. Acting on the complaint, local police initiated a formal investigation to trace the suspect and address safety concerns in public transit."
       }
     },
     {
-      "story_id": "a468e179-fc28-545c-8a29-2bcbf91c6d35",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T04:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9645,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/977169/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
-          "title": "বিশ্বকাপের আগে ওয়ানডেতে নতুন পরীক্ষা নিউজিল্যান্ডের",
-          "snippet": "বিশ্বকাপের আগে ওয়ানডেতে নতুন পরীক্ষা নিউজিল্যান্ডের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ওয়ানডে ক্রিকেটে বোলারদের সুবিধা দিতে নতুন নিয়মের পরীক্ষা শুরু নিউজিল্যান্ডের",
-        "title_en": "New Zealand Tests Single Ball Rule in Domestic One-Day Matches",
-        "summary_bn": "নিউজিল্যান্ড ক্রিকেট তাদের ঘরোয়া ওয়ানডে টুর্নামেন্টে ইনিংসের পুরো ৫০ ওভার একটিমাত্র বল ব্যবহারের নতুন পরীক্ষামূলক নিয়ম চালু করেছে।",
-        "summary_en": "New Zealand Cricket has introduced an experimental rule using a single ball for the entire fifty-over innings in domestic one-day matches.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T04:00:00+00:00",
-        "lead_bn": "নিউজিল্যান্ড ক্রিকেট তাদের ঘরোয়া ওয়ানডে টুর্নামেন্টে ইনিংসের পুরো ৫০ ওভার একটিমাত্র বল ব্যবহারের নতুন পরীক্ষামূলক নিয়ম চালু করেছে।",
-        "lead_en": "New Zealand Cricket has introduced an experimental rule using a single ball for the entire fifty-over innings in domestic one-day matches.",
-        "bullets_bn": [
-          "ফোর্ড ট্রফির প্রথম পাঁচ রাউন্ডে প্রতি ইনিংসের ৫০ ওভার জুড়ে একটি মাত্র বল ব্যবহার করা হবে।",
-          "বোলারদের রিভার্স সুইং আদায়ের সুযোগ বাড়িয়ে ওয়ানডে ক্রিকেটে ব্যাটারদের অতিরিক্ত আধিপত্য কমানোই এই উদ্যোগের মূল লক্ষ্য।",
-          "আসন্ন আন্তর্জাতিক মৌসুমের আগে নতুন এই প্লেয়িং কন্ডিশন বাস্তবায়নের কার্যকারিতা মূল্যায়ন করবে ক্রিকেট বোর্ড।"
-        ],
-        "bullets_en": [
-          "A single ball will be used for the entire fifty-over duration across the first five rounds of the Ford Trophy.",
-          "The initiative aims to curb batter dominance in one-day cricket by increasing reverse swing opportunities for bowlers.",
-          "The cricket board will evaluate the effectiveness of this experimental playing condition ahead of upcoming international fixtures."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "আধুনিক ওয়ানডে ক্রিকেটে দুটি নতুন বল ব্যবহারের নিয়ম চালুর পর থেকেই বোলারদের রিভার্স সুইং সুবিধা মারাত্মকভাবে কমে গেছে। ইনিংসের শেষ ওভারেও বল শক্ত ও উজ্জ্বল থাকায় ব্যাটারদের রান তোলা সহজ হয় এবং বোলারদের ভূমিকা সীমিত হয়ে পড়ে। এই ভারসাম্যহীনতা দূর করতে নিউজিল্যান্ড ক্রিকেট ঘরোয়া পর্যায়ে পুরনো এক বলের নিয়ম ফিরিয়ে এনে পরীক্ষা চালাচ্ছে, যা আন্তর্জাতিক ক্রিকেটেও নিয়ম পরিবর্তনের পথে প্রভাব ফেলতে পারে।",
-        "details_en": "The introduction of two new balls in modern one-day cricket significantly diminished reverse swing opportunities for bowlers. With balls remaining hard and shiny through the death overs, batters gained a distinct advantage while bowlers struggled. To address this imbalance, New Zealand Cricket is testing a single-ball rule in domestic fixtures, potentially paving the way for broader shifts in international playing conditions."
-      }
-    },
-    {
-      "story_id": "7695462c-15f1-500c-90c8-98b1ce8e0059",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/parliament-3.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-28T03:59:56+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9638,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/thousands-of-people-in-parliament-demand-higher-wages-less-violence-and-the-right-to-home-ownership/",
-          "title": "নিরাপত্তা ও বাড়ির অধিকারের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভকারীরা",
-          "snippet": "নিরাপত্তা ও বাড়ির অধিকারের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভকারীরা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "উচ্চ মজুরি ও আবাসনের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভ",
-        "title_en": "Protesters Gather Outside Portuguese Parliament Demanding Higher Wages and Housing",
-        "summary_bn": "হাজারো বিক্ষোভকারী পর্তুগালের সংসদ প্রাঙ্গণে জড়ো হয়ে উচ্চ মজুরি, সহিংসতামুক্ত সমাজ ও আবাসন অধিকারের দাবি জানিয়েছেন।",
-        "summary_en": "Thousands of protesters gathered outside the Portuguese parliament demanding higher wages, a violence-free society, and housing rights.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T03:59:56+00:00",
-        "lead_bn": "হাজারো বিক্ষোভকারী পর্তুগালের সংসদ প্রাঙ্গণে জড়ো হয়ে উচ্চ মজুরি, সহিংসতামুক্ত সমাজ ও আবাসন অধিকারের দাবি জানিয়েছেন।",
-        "lead_en": "Thousands of protesters gathered outside the Portuguese parliament demanding higher wages, a violence-free society, and housing rights.",
-        "bullets_bn": [
-          "বিক্ষোভকারীরা জীবনযাত্রার ব্যয় বৃদ্ধি, ব্যক্তিগত নিরাপত্তা ঘাটতি এবং তীব্র আবাসনসংকটের বিরুদ্ধে সংসদ প্রাঙ্গণে অবস্থান নেন।",
-          "আন্দোলনে অংশ নেওয়া মারিয়ানা জসেল জীবনযাত্রার মান উন্নয়ন এবং সাধারণ মানুষের বাড়ির মালিক হওয়ার সুযোগ নিশ্চিত করার আহ্বান জানান।",
-          "সংশ্লিষ্ট কর্তৃপক্ষের কার্যকর পদক্ষেপের মাধ্যমে নাগরিকদের জীবনযাত্রায় স্বস্তি ও নিরাপত্তা নিশ্চিত করার দাবি জানানো হয়েছে।"
-        ],
-        "bullets_en": [
-          "Protesters gathered outside the parliament against rising living costs, lack of personal security, and severe housing crises.",
-          "Participant Mariana Jassel called for improved living standards and guaranteed opportunities for ordinary people to own homes.",
-          "Demonstrators are awaiting effective measures from relevant authorities to ensure relief and security in citizens lives."
-        ],
-        "impact_bn": "এই আন্দোলন পর্তুগালের নীতিনির্ধারকদের আবাসন সংকট ও জীবনযাত্রার ব্যয় কমাতে কার্যকর পদক্ষেপ নিতে বাধ্য করতে পারে।",
-        "impact_en": "The movement could pressure policymakers in Portugal to take effective steps to address the housing crisis and cost of living.",
-        "details_bn": "পর্তুগালে সাম্প্রতিক বছরগুলোতে জীবনযাত্রার ব্যয় ও আবাসন সংকট তীব্র আকার ধারণ করেছে। এর ফলে সাধারণ মানুষের জীবনযাত্রা কঠিন হয়ে পড়ায় বিভিন্ন পেশার মানুষ ও অধিকারকর্মীরা রাজপথে নেমে প্রতিবাদ জানাচ্ছেন। নাগরিকরা মজুরি বৃদ্ধি এবং আবাসনের অধিকার নিশ্চিত করার জন্য দীর্ঘদিন ধরে সরকারের প্রতি দাবি জানিয়ে আসছেন।",
-        "details_en": "In recent years, the cost of living and housing crisis in Portugal have intensified significantly, making daily life difficult for ordinary citizens and prompting protests from various groups and activists. Citizens have long been demanding increased wages and guaranteed housing rights from the government."
-      }
-    },
-    {
-      "story_id": "ec742d46-b568-576d-a588-190581627307",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "world_diplomacy",
-        "governance_law",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#Inflation",
-        "#InterestRate",
-        "#AustraliaEconomy"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0c94e1abf4a5f28087db475685674e",
-      "image_caption": null,
-      "published_at": "2026-10-28T02:17:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 0.7693,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-          "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-          "snippet": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "অস্ট্রেলিয়ায় মুদ্রাস্ফীতি বেড়ে ৪.৩ শতাংশ হওয়ায় সুদের হার বৃদ্ধির আশঙ্কা",
-        "title_en": "Australian Inflation Rises to 4.3 Percent Fuelling Interest Rate Hike Fears",
-        "summary_bn": "অস্ট্রেলিয়ার বার্ষিক মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর কেন্দ্রীয় ব্যাংক সুদের হার আরও বাড়াতে পারে বলে আশঙ্কা করা হচ্ছে।",
-        "summary_en": "Australias headline inflation rate has accelerated to 4.3 percent, sharply raising expectations of another upcoming interest rate rise by the central bank.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy",
-          "governance_law",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:17:32+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার বার্ষিক মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর কেন্দ্রীয় ব্যাংক সুদের হার আরও বাড়াতে পারে বলে আশঙ্কা করা হচ্ছে।",
-        "lead_en": "Australias headline inflation rate has accelerated to 4.3 percent, sharply raising expectations of another upcoming interest rate rise by the central bank.",
-        "bullets_bn": [
-          "অস্ট্রেলিয়ার হেডলাইন মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছেছে যা কেন্দ্রীয় ব্যাংকের লক্ষ্যমাত্রার চেয়ে বেশি।",
-          "রিজার্ভ ব্যাংক অব অস্ট্রেলিয়ার পছন্দের অন্তর্নিহিত মুদ্রাস্ফীতি বার্ষিক ভিত্তিতে তিন দশমিক ছয় শতাংশ রেকর্ড করা হয়েছে।",
-          "কেন্দ্রীয় ব্যাংকের আসন্ন মুদ্রানীতি পর্যালোচনার বৈঠকে সুদের হার আরও এক দফা বৃদ্ধির জোরালো সম্ভাবনা রয়েছে।"
-        ],
-        "bullets_en": [
-          "Australias headline inflation rate accelerated to 4.3 percent, driving concerns among policymakers.",
-          "The Reserve Bank of Australia reported an annual underlying inflation rate of 3.6 percent.",
-          "The central bank faces mounting pressure to lift borrowing costs further during its upcoming monetary policy decision."
-        ],
-        "impact_bn": "অস্ট্রেলিয়ায় সুদের হার বৃদ্ধি পেলে সাধারণ মানুষের গৃহঋণ ও অন্যান্য ঋণের কিস্তি বেড়ে যাওয়ায় দৈনন্দিন খরচ ও জীবনযাত্রার ব্যয় বৃদ্ধি পাবে।",
-        "impact_en": "Higher interest rates will increase mortgage and borrowing costs for ordinary citizens, tightening household budgets across Australia.",
-        "details_bn": "অস্ট্রেলিয়ার কেন্দ্রীয় ব্যাংক মূল্যস্ফীতিকে তাদের দুই দশমিক পাঁচ শতাংশ লক্ষ্যের দিকে নামিয়ে আনতে এর আগে দফায় দফায় সুদের হার বৃদ্ধি করেছে। বর্তমানের চার দশমিক ছয় শতাংশের ক্যাশ রেট গত পনেরো বছরের মধ্যে সর্বোচ্চ স্তরে অবস্থান করছে। কেন্দ্রীয় ব্যাংকের কর্মকর্তারা মনে করেন দীর্ঘমেয়াদী মূল্যস্ফীতির প্রত্যাশা উসকে যাওয়ার ঝুঁকি এড়াতে কঠোর আর্থিক নীতি বজায় রাখা জরুরি।",
-        "details_en": "The Reserve Bank of Australia has aggressively tightened monetary policy to drag price growth back down toward its 2.5 percent target. The cash rate currently stands at 4.6 percent, representing a 15-year high following multiple hikes. Central bank officials emphasize the urgent need to prevent long-term inflation expectations from unanchoring, which could severely complicate future economic stabilization efforts."
-      }
-    },
-    {
-      "story_id": "a52f5bfa-6acc-5cd0-ac25-c9094f26695f",
+      "story_id": "c27a0007-2405-5907-a8f7-515e9bf4e082",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -299,29 +235,40 @@
       ],
       "region": "international",
       "tags": [
-        "#BrazilPolitics",
-        "#FlavioBolsonaro",
-        "#USABrazilRelations"
+        "#IsraelElection",
+        "#Netanyahu"
       ],
-      "image_url": "https://static.dw.com/image/79773345_6.jpg",
+      "image_url": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=53137812ee6569691715bc1e5cce8997",
       "image_caption": null,
-      "published_at": "2026-10-28T04:00:42.217275+00:00",
+      "published_at": "2026-10-28T04:36:02+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6884,
+      "importance_score": 2.55,
+      "rank_score": 0.8091,
       "sources": [
         {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+          "title": "Israel election results live: exit polls point to tie between Netanyahu and Eisenkot blocs",
+          "snippet": "Israel election results live: exit polls point to tie between Netanyahu and Eisenkot blocs"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece",
+          "title": "Netanyahu and rival each claim mandate after tight Israel election",
+          "snippet": "Netanyahu and rival each claim mandate after tight Israel election"
+        },
+        {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-          "title": "Flavio Bolsonaro flees Brazil for US amid investigation — reports",
-          "snippet": "Flavio Bolsonaro flees Brazil for US amid investigation — reports"
+          "url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-rdf",
+          "title": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
+          "snippet": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে গেছেন তদন্তের মুখে থাকা সিনেটর ফ্যাভিও বলসোনারো",
-        "title_en": "Brazilian Senator Flavio Bolsonaro Flees to US Amid Investigations",
-        "summary_bn": "নির্বাচনী পরাজয় ও তদন্তের মুখে ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে চলে গেছেন দেশটির সিনেটর ফ্যাভিও বলসোনারো।",
-        "summary_en": "Brazilian Senator Flavio Bolsonaro fled the country for the United States amid ongoing investigations and his recent election defeat.",
+        "title_bn": "ইসরায়েলের নির্বাচনে নেতানিয়াহু ও আইসেনকোট ব্লকের মধ্যে হাড্ডাহাড্ডি লড়াই",
+        "title_en": "Israel Election Exit Polls Show Tie Between Netanyahu And Eisenkot Blocs",
+        "summary_bn": "ইসরায়েলি নির্বাচনে কোনো পক্ষই সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি এবং প্রধান দুই ব্লক সমান আসন পেয়েছে।",
+        "summary_en": "Exit polls indicate a parliamentary tie between Benjamin Netanyahu and Gadi Eisenkot in the Israeli elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -329,23 +276,83 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T04:00:42.217275+00:00",
-        "lead_bn": "নির্বাচনী পরাজয় ও তদন্তের মুখে ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে চলে গেছেন দেশটির সিনেটর ফ্যাভিও বলসোনারো।",
-        "lead_en": "Brazilian Senator Flavio Bolsonaro fled the country for the United States amid ongoing investigations and his recent election defeat.",
+        "published_at": "2026-10-28T04:36:02+00:00",
+        "lead_bn": "ইসরায়েলি নির্বাচনে কোনো পক্ষই সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি এবং প্রধান দুই ব্লক সমান আসন পেয়েছে।",
+        "lead_en": "Exit polls indicate a parliamentary tie between Benjamin Netanyahu and Gadi Eisenkot in the Israeli elections.",
         "bullets_bn": [
-          "সিনেটর ফ্যাভিও বলসোনারো বিচারিক তদন্ত এড়াতে দেশ ছেড়ে যুক্তরাষ্ট্রের উদ্দেশ্যে রওনা দেন।",
-          "যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তর ফ্যাভিও বলসোনারো ও তার পরিবারের জন্য ভিসা ইস্যু করার বিষয়টি নিশ্চিত করেছে।",
-          "ব্রাজিলের প্রেসিডেন্ট লুলা দা সিলভা বলসোনারোর দেশত্যাগের বিষয়টি নিশ্চিত করে তীব্র সমালোচনা করেছেন।"
+          "বেনিয়ামিন নেতানিয়াহুর গভর্নিং ব্লক এবং গাদি আইসেনকোটের বিরোধী দল ৫২টি করে আসন পেয়েছে।",
+          "সরকার গঠনের জন্য ইসরায়েলের নেসেটে কমপক্ষে ৬১টি আসনের প্রয়োজন রয়েছে।",
+          "চূড়ান্ত ফলাফল ঘোষণা এবং সরকার গঠন প্রক্রিয়ায় কয়েক সপ্তাহ সময় লাগতে পারে।"
         ],
         "bullets_en": [
-          "Senator Flavio Bolsonaro departed Brazil for the United States amidst ongoing judicial investigations.",
-          "The US State Department confirmed that visas will be issued to Flavio Bolsonaro and his family.",
-          "Brazilian President Luiz Inacio Lula da Silva criticized the departure, calling it an act of evading accountability."
+          "Exit polls show Benjamin Netanyahu's governing bloc and Gadi Eisenkot's opposition grouping tied at 51 seats each.",
+          "Both major political factions fall short of the 61 seats required to form a majority coalition government.",
+          "Final vote counting is ongoing and coalition formation talks are expected to take several weeks."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ব্রাজিলের সাবেক প্রেসিডেন্ট জাইর বলসোনারোর জ্যেষ্ঠপুত্র এবং সিনেটর ফ্যাভিও বলসোনারোর বিরুদ্ধে বিভিন্ন তদন্ত চলছে। দেশটির সুপ্রিম কোর্ট তাকে দেশত্যাগ রোধে পাসপোর্ট জমা দেওয়ার নির্দেশ দিলেও তিনি তা এড়িয়ে যান। প্রেসিডেন্ট নির্বাচনে পরাজয়ের পর তার এই গোপন দেশত্যাগ রাজনৈতিক মহলে তীব্র প্রতিক্রিয়া সৃষ্টি করেছে।",
-        "details_en": "Senator Flavio Bolsonaro, the eldest son of former Brazilian President Jair Bolsonaro, faced an investigation and a Supreme Court directive to surrender his passports. Following his defeat in the presidential election, his departure to the United States sparked sharp criticism from President Luiz Inacio Lula da Silva, who accused him of evading accountability."
+        "details_bn": "ইসরায়েলে অনুষ্ঠিত সাধারণ নির্বাচনের এক্সিট পোল অনুযায়ী কোনো দল একক সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি। ভোটার উপস্থিতি গত দুই দশকের মধ্যে সর্বোচ্চ পর্যায়ে পৌঁছেছে এবং প্রায় ৭৭ শতাংশ ভোটার তাদের ভোটাধিকার প্রয়োগ করেছেন। ফিলিস্তিনি দলগুলোর আসন সংখ্যা বৃদ্ধি পাওয়ার সম্ভাবনা রয়েছে, যা সরকার গঠনে গুরুত্বপূর্ণ ভূমিকা রাখতে পারে। বর্তমানে ভোট গণনা চলছে এবং চূড়ান্ত ফলাফল প্রকাশ না হওয়া পর্যন্ত রাজনৈতিক অনিশ্চয়তা বজায় রয়েছে।",
+        "details_en": "Exit polls from the Israeli general election reveal a deadlock between Benjamin Netanyahu and Gadi Eisenkot, with neither securing the 61 seats needed for a parliamentary majority. Voter turnout surged past 77 percent, marking a two-decade high. Projections indicate Palestinian parties could increase their representation to 18 seats, potentially playing a pivotal role in coalition negotiations as final vote counting continues."
+      }
+    },
+    {
+      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#ClimateCrisis",
+        "#GlobalHealth",
+        "#LancetReport"
+      ],
+      "image_url": "https://static.dw.com/image/69108117_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-28T05:00:52.345810+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6885,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+          "title": "Experts urge 'global health emergency' as climate harms accelerate",
+          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান গবেষকদের",
+        "title_en": "Researchers Urge Global Health Emergency Declaration Over Climate Crisis",
+        "summary_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
+        "summary_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths and health risks accelerate.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T05:00:52.345810+00:00",
+        "lead_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
+        "lead_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths and health risks accelerate.",
+        "bullets_bn": [
+          "বিশ্বের ত্রিশটিরও বেশি দেশের প্রায় একশ পঞ্চাশ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান জানিয়েছেন।",
+          "ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জ প্রতিবেদন অনুযায়ী অতি তাপে গত বছরে বিশ্বে এক দশমিক শূন্য সাত ট্রিলিয়ন ডলার আয়ক্ষতি হয়েছে।",
+          "জলবায়ু পরিবর্তনের কারণে সৃষ্ট স্বাস্থ্যঝুঁকি মোকাবিলায় মানুষের সুস্বাস্থ্যকে সর্বোচ্চ অগ্রাধিকার দেওয়ার তাগিদ দিয়েছেন বিশেষজ্ঞরা।"
+        ],
+        "bullets_en": [
+          "Nearly 150 researchers from over 30 countries are urging leaders to declare climate change a global health emergency.",
+          "Extreme heat cost the global economy an estimated 1.07 trillion dollars in lost potential income over the past year according to the Lancet report.",
+          "Experts emphasize placing human health and well-being at the absolute center of all global climate responses moving forward."
+        ],
+        "impact_bn": "তীব্র তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি বৃদ্ধির ফলে সাধারণ মানুষের জীবনযাত্রা, খাদ্য নিরাপত্তা এবং শারীরিক সুস্থতা মারাত্মক হুমকির মুখে পড়ছে।",
+        "impact_en": "Rising temperatures and severe climate impacts directly threaten public health, food security, and daily survival for ordinary citizens worldwide.",
+        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর গত এক দশকে গ্রিনহাউস গ্যাস নির্গমন ও বৈশ্বিক উষ্ণতা আশঙ্কাজনক হারে বৃদ্ধি পেয়েছে। ল্যানসেট কাউন্টডাউনের সর্বশেষ তথ্য অনুযায়ী, শুধু দুই হাজার তেইশ সালেই চরম গরমে পাঁচ লক্ষাধিক মানুষের মৃত্যু হয়েছে। গবেষকরা বলছেন, উষ্ণতা বৃদ্ধির ফলে বিশ্বজুড়ে তাপপ্রবাহ, খাদ্য সংকট এবং পানিবাহিত রোগের ঝুঁকি মারাত্মক আকার ধারণ করেছে, যা মোকাবিলায় আন্তর্জাতিক সম্প্রদায়ের জরুরি ও সমন্বিত পদক্ষেপ প্রয়োজন।",
+        "details_en": "In the decade since the signing of the Paris climate accord, global planetary heating has driven sharp increases in heat-related deaths and economic losses. According to the Lancet Countdown on Health and Climate Change, extreme heat was responsible for over half a million deaths in 2023 alone. Researchers warn that expanding extreme droughts and rising temperatures threaten global food supplies, water security, and public health on an unprecedented scale."
       }
     }
   ]
