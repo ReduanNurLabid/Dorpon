@@ -1,12 +1,70 @@
 {
-  "updated_at": "2026-10-28T02:00:51.427224",
+  "updated_at": "2026-10-28T03:00:51.244376",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "7725c138-7434-54ef-ae35-3d11da599367",
+      "story_id": "7579d662-848a-527b-aa3a-61d7b8b35c4d",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T02:22:53+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 9.0,
+      "rank_score": 2.5499,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172754",
+          "title": "প্রধানমন্ত্রীর সঙ্গে জাপান ব্যাংক ফর ইন্টারন্যাশনাল গভর্নরের বৈঠক",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাপান ব্যাংক ফর ইন্টারন্যাশনাল গভর্নরের বৈঠক"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাপান ব্যাংক গভর্নরের সাথে প্রধানমন্ত্রীর দ্বিপক্ষীয় অর্থনৈতিক বৈঠক অনুষ্ঠিত",
+        "title_en": "Prime Minister Holds Bilateral Economic Meeting with Japan Bank Governor",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নরের সাথে দ্বিপক্ষীয় সহযোগিতা ও বিনিয়োগ বৃদ্ধি নিয়ে আলোচনা করেছেন।",
+        "summary_en": "Prime Minister Tarique Rahman discussed bilateral cooperation and investment growth with the governor of Japan Bank for International Cooperation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T02:22:53+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নরের সাথে দ্বিপক্ষীয় সহযোগিতা ও বিনিয়োগ বৃদ্ধি নিয়ে আলোচনা করেছেন।",
+        "lead_en": "Prime Minister Tarique Rahman discussed bilateral cooperation and investment growth with the governor of Japan Bank for International Cooperation.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নর আমাকাওয়া কাজুহিকোর সাথে বৈঠক করেছেন।",
+          "বৈঠকে বাংলাদেশের অবকাঠামোগত উন্নয়ন ও অর্থনৈতিক খাতে জাপানি বিনিয়োগ সম্প্রসারণ নিয়ে আলোচনা হয়।",
+          "উভয় পক্ষ পারস্পরিক স্বার্থসংশ্লিষ্ট অর্থনৈতিক অংশীদারিত্ব আরও সুদৃঢ় করার বিষয়ে ঐকমত্য প্রকাশ করেছে।"
+        ],
+        "bullets_en": [
+          "Prime Minister Tarique Rahman held a high-level meeting with JBIC Governor Amakawa Kazuhiko.",
+          "Discussions focused on expanding Japanese investment in Bangladesh infrastructure and economic sectors.",
+          "Both sides agreed to further strengthen mutual economic partnership and bilateral cooperation."
+        ],
+        "impact_bn": "জাপানি বিনিয়োগ বাড়লে দেশে নতুন কর্মসংস্থান সৃষ্টি হবে এবং বড় প্রকল্পগুলোর কাজ দ্রুত এগিয়ে যাবে।",
+        "impact_en": "Increased Japanese investment will create domestic employment opportunities and accelerate major infrastructure projects.",
+        "details_bn": "জাপান দীর্ঘদিন ধরে বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার হিসেবে কাজ করে আসছে। বিদ্যুৎ, পরিবহন এবং অবকাঠামো খাতের বিভিন্ন মেগা প্রকল্পে দেশটির উল্লেখযোগ্য আর্থিক ও প্রযুক্তিগত সহায়তা রয়েছে। বর্তমান সরকারের সময়ে এই অর্থনৈতিক সম্পর্ক আরও সুদৃঢ় করার লক্ষ্যে বিভিন্ন দ্বিপক্ষীয় আলোচনা অব্যাহত রয়েছে।",
+        "details_en": "Japan has long been a key development partner for Bangladesh, providing significant financial and technical support for mega projects in power, transport, and infrastructure sectors. Ongoing bilateral talks aim to further strengthen these economic ties under the current administration."
+      }
+    },
+    {
+      "story_id": "74430c6d-0bf1-5dee-b71b-8f21ee440369",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education"
+        "society_education",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -15,54 +73,54 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T02:00:00+00:00",
+      "published_at": "2026-10-28T02:57:58+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9623,
+      "importance_score": 4.8,
+      "rank_score": 1.8836,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/educations/977138/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4",
-          "title": "জুলাইয়ের প্রতিশ্রুতি, অক্টোবরেও অনিশ্চিত বিনামূল্যের স্কুল ড্রেস বিতরণ",
-          "snippet": "জুলাইয়ের প্রতিশ্রুতি, অক্টোবরেও অনিশ্চিত বিনামূল্যের স্কুল ড্রেস বিতরণ"
+          "url": "https://www.banglatribune.com/country/mymensing/977198/%E0%A7%A8%E0%A7%A6-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
+          "title": "২০ দিন আগে ইরাক থেকে ফিরেছিলেন, সড়কে প্রাণ গেলো প্রবাসীর",
+          "snippet": "২০ দিন আগে ইরাক থেকে ফিরেছিলেন, সড়কে প্রাণ গেলো প্রবাসীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সরকারি প্রাথমিক বিদ্যালয়ে বিনামূল্যে স্কুল ড্রেস বিতরণে অনিশ্চয়তা",
-        "title_en": "Delay in Free School Uniform Distribution for Primary Students",
-        "summary_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ বিতরণের প্রতিশ্রুতি বাস্তবায়নে দীর্ঘসূত্রিতা তৈরি হয়েছে।",
-        "summary_en": "Implementation of the government promise to distribute free school uniforms, shoes, and jute bags to primary students faces uncertainty.",
+        "title_bn": "শেরপুরে বাস ও সিএনজি সংঘর্ষে নিহত এক প্রবাসী",
+        "title_en": "Expatriate Killed in Bus and CNG Collision in Sherpur",
+        "summary_bn": "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে এক প্রবাসী নিহত ও চারজন আহত হয়েছেন।",
+        "summary_en": "An expatriate was killed and four others were injured in a head-on collision between a bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education"
+          "society_education",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:00:00+00:00",
-        "lead_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ বিতরণের প্রতিশ্রুতি বাস্তবায়নে দীর্ঘসূত্রিতা তৈরি হয়েছে।",
-        "lead_en": "Implementation of the government promise to distribute free school uniforms, shoes, and jute bags to primary students faces uncertainty.",
+        "published_at": "2026-10-28T02:57:58+00:00",
+        "lead_bn": "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে এক প্রবাসী নিহত ও চারজন আহত হয়েছেন।",
+        "lead_en": "An expatriate was killed and four others were injured in a head-on collision between a bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
         "bullets_bn": [
-          "সরকার প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ দেওয়ার সিদ্ধান্ত গ্রহণ করে।",
-          "প্রাথমিক ও গণশিক্ষামন্ত্রী ড. আ ন ম এহছানুল হক মিলন জানান, জুলাই থেকে পাইলট কার্যক্রম শুরু হওয়ার কথা ছিল।",
-          "নির্ধারিত সময় পেরিয়ে গেলেও এই কর্মসূচি বাস্তবায়নে দৃশ্যমান কোনো অগ্রগতি দেখা যায়নি।"
+          "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে হতাহতের ঘটনা ঘটে।",
+          "দুর্ঘটনায় জুয়েল মিয়া নামের ৪২ বছর বয়সী এক প্রবাসী নিহত এবং দুই পৌর কর্মচারীসহ চারজন আহত হন।",
+          "নিহত জুয়েল মিয়া কুর্দিস্তান থেকে ইরাক প্রবাসী হিসেবে ২০ দিন আগে দেশে ফিরেছিলেন।"
         ],
         "bullets_en": [
-          "The government decided to provide free school uniforms, shoes, and jute bags to primary school students.",
-          "Primary and Mass Education Minister Dr. A N M Ehsanul Haque Milan stated the pilot program was scheduled to begin in July.",
-          "Despite the timeline passing, no visible progress has been made regarding the distribution."
+          "A head-on collision occurred between a passenger bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
+          "The accident killed a 42-year-old expatriate named Jewel Mia and injured four others, including two municipal employees.",
+          "The victim had returned to the country from Iraq just twenty days prior to the incident."
         ],
-        "impact_bn": "বিনামূল্যে পোশাক ও সামগ্রী পাওয়ার আশায় থাকা প্রাথমিক বিদ্যালয়ের শিক্ষার্থীরা প্রয়োজনীয় সহায়তা সময়মতো পাওয়া থেকে বঞ্চিত হচ্ছে।",
-        "impact_en": "Primary school students awaiting free clothing and supplies are deprived of receiving necessary support on time.",
-        "details_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের জন্য বিনামূল্যে স্কুল ড্রেস, জুতা এবং পাটের ব্যাগ বিতরণের উদ্যোগ নেয় সরকার। প্রধানমন্ত্রী জাতীয় সংসদে দুই লাখ শিক্ষার্থীকে পোশাক দেওয়ার ঘোষণা দেন এবং এসংক্রান্ত সভায় এই সিদ্ধান্ত নেওয়া হয়। শিক্ষা এবং প্রাথমিক ও গণশিক্ষামন্ত্রী এপ্রিলের শেষ দিকে ঘোষণা দিয়েছিলেন যে জুলাই মাস থেকে পাইলট ভিত্তিতে এই কার্যক্রম শুরু হবে। তবে নির্ধারিত সময় পার হয়ে যাওয়ার পরও বাস্তবায়ন প্রক্রিয়া শুরু না হওয়ায় শিক্ষার্থীদের মধ্যে অনিশ্চয়তা দেখা দিয়েছে।",
-        "details_en": "The government initiated a program to provide free school uniforms, shoes, and jute bags to primary school students. The Prime Minister announced in the national parliament that two lakh students would receive uniforms, followed by a formal decision in a meeting. The primary education minister announced in late April that the pilot program would start in July. However, the failure to launch the distribution on schedule has created uncertainty among students and parents."
+        "impact_bn": "সড়ক দুর্ঘটনা বৃদ্ধি পাওয়ায় মহাসড়কে চলাচলকারী সাধারণ যাত্রীদের জীবন ঝুঁকির মুখে পড়ছে।",
+        "impact_en": "Rising highway accidents continue to pose fatal risks to daily commuters and returning expatriates.",
+        "details_bn": "শেরপুর সদর উপজেলার ঢাকা-শেরপুর মহাসড়কের জোড়া পাম্পসংলগ্ন হাওড়া খানবাড়ি এলাকায় এই মর্মান্তিক সড়ক দুর্ঘটনা ঘটে। নিহত জুয়েল মিয়া নকলার বারমাইসা খিচা গ্রামের বাসিন্দা ছিলেন এবং তিনি সম্প্রতি কুর্দিস্তান থেকে দেশে ফিরেছিলেন। দুর্ঘটনায় আহতদের উদ্ধার করে স্থানীয় হাসপাতালে চিকিৎসা দেওয়া হচ্ছে। মহাসড়কে দ্রুতগতির যানবাহনের বেপরোয়া চলাচলের কারণে প্রায়ই এমন দুর্ঘটনা ঘটছে বলে স্থানীয়রা অভিযোগ করেছেন।",
+        "details_en": "The tragic road accident took place near the Jora Pump area along the Dhaka-Sherpur highway in Sherpur Sadar upazila. The victim, Jewel Mia, was a resident of Nakla who had recently returned from Kurdistan. The injured individuals were rushed to a local hospital for treatment. Locals have repeatedly expressed concern over reckless driving and high-speed vehicles on the highway causing frequent fatalities."
       }
     },
     {
-      "story_id": "ec1c98ec-e7f8-58ee-804e-ace55eb18966",
+      "story_id": "9e314c3e-195f-5c47-82df-6dc32d379bf9",
       "primary_category": "sports_fitness",
       "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
+        "sports_fitness"
       ],
       "region": "national",
       "tags": [
@@ -71,223 +129,164 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T02:00:00+00:00",
+      "published_at": "2026-10-28T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9623,
+      "rank_score": 0.9624,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/cricket/977115/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A7%9F-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C",
-          "title": "অস্ট্রেলিয়াকে হারানোর পর এবার ক্যারিবীয় চ্যালেঞ্জ বাংলাদেশের",
-          "snippet": "অস্ট্রেলিয়াকে হারানোর পর এবার ক্যারিবীয় চ্যালেঞ্জ বাংলাদেশের"
+          "url": "https://www.banglatribune.com/sport/football/977123/%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF-%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B-%E0%A6%AF%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A7%AD%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87",
+          "title": "মেসি-রোনালদো যা পারেননি, ৭০ বছর আগে তা করে দেখিয়েছিলেন ম্যাথিউস",
+          "snippet": "মেসি-রোনালদো যা পারেননি, ৭০ বছর আগে তা করে দেখিয়েছিলেন ম্যাথিউস"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপ ফাইনালে যেতে ওয়েস্ট ইন্ডিজের মুখোমুখি বাংলাদেশ",
-        "title_en": "Bangladesh Faces West Indies in Crucial Test Match",
-        "summary_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্ন পূরণে মিরপুরে ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচ সিরিজের প্রথম টেস্টে মাঠে নামছে বাংলাদেশ।",
-        "summary_en": "Bangladesh takes on the West Indies in the first Test of a two-match series at Mirpur.",
+        "title_bn": "বয়সের সীমানা পেরিয়ে প্রথম ব্যালন ডি'অর জয় করেন স্ট্যানলি ম্যাথিউস",
+        "title_en": "Stanley Matthews Won First Ballon d'Or Breaking Age Barriers",
+        "summary_bn": "চল্লিশোর্ধ্ব বয়সে ইউরোপের সেরা ফুটবলার নির্বাচিত হয়ে রেকর্ড গড়েন ইংল্যান্ডের কিংবদন্তি স্ট্যানলি ম্যাথিউস।",
+        "summary_en": "English legend Stanley Matthews set a record by being named Europe's best footballer in his forties.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
+          "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:00:00+00:00",
-        "lead_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্ন পূরণে মিরপুরে ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচ সিরিজের প্রথম টেস্টে মাঠে নামছে বাংলাদেশ।",
-        "lead_en": "Bangladesh takes on the West Indies in the first Test of a two-match series at Mirpur.",
+        "published_at": "2026-10-28T03:00:00+00:00",
+        "lead_bn": "চল্লিশোর্ধ্ব বয়সে ইউরোপের সেরা ফুটবলার নির্বাচিত হয়ে রেকর্ড গড়েন ইংল্যান্ডের কিংবদন্তি স্ট্যানলি ম্যাথিউস।",
+        "lead_en": "English legend Stanley Matthews set a record by being named Europe's best footballer in his forties.",
         "bullets_bn": [
-          "বাংলাদেশ ক্রিকেট দল বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার লক্ষ্য নিয়ে স্বাগতিক হিসেবে ওয়েস্ট ইন্ডিজের মুখোমুখি হচ্ছে।",
-          "ফাইনাল খেলার স্বপ্ন বাস্তব করতে বাংলাদেশকে বাকি ছয়টি টেস্টের মধ্যে অন্তত চারটিতে জয় ও একটিতে ড্র করতে হবে।",
-          "মিরপুরের শেরেবাংলা জাতীয় ক্রিকেট স্টেডিয়ামে দুই ম্যাচের সিরিজের প্রথম টেস্ট ম্যাচটি শুরু হচ্ছে।"
+          "একচল্লিশ বছর বয়সে ইউরোপীয় ফুটবলের সর্বোচ্চ ব্যক্তিগত স্বীকৃতি অর্জন করেন ইংলিশ উইঙ্গার স্ট্যানলি ম্যাথিউস",
+          "সালে প্রথমবারের মতো আয়োজিত ব্যালন ডি অর পুরস্কার জিতে নেন এই প্রবীণ ফুটবলার",
+          "আধুনিক যুগের মহাতারকা মেসি বা রোনালদোও এই বয়সে এই বিরল কীর্তি গড়তে পারেননি"
         ],
         "bullets_en": [
-          "Bangladesh faces the West Indies at home aiming to keep its World Test Championship final dreams alive.",
-          "The team must win at least four and draw one of their remaining six Tests to secure a final spot.",
-          "The first match of the two-match series begins at the Sher-e-Bangla National Cricket Stadium in Mirpur."
+          "English winger Stanley Matthews achieved Europe's highest individual football honor at age forty-one",
+          "The veteran footballer won the inaugural Ballon d'Or award in the year 1956",
+          "Modern superstars like Messi or Ronaldo have not been able to achieve this rare feat at that age"
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার দৌড়ে টিকে থাকতে বাংলাদেশকে কঠিন সমীকরণ পার করতে হচ্ছে। ঘরের মাঠে ওয়েস্ট ইন্ডিজের বিপক্ষে এই সিরিজটি টাইগারদের জন্য অত্যন্ত গুরুত্বপূর্ণ, কারণ ফাইনালে পৌঁছাতে হলে প্রতিটি ম্যাচের ফলাফল বাংলাদেশের পক্ষে যাওয়া জরুরি।",
-        "details_en": "Bangladesh faces a challenging equation to reach the final of the World Test Championship. This home series against the West Indies is crucial for the Tigers as they aim to secure victories in the remaining matches to advance in the global standings."
+        "details_bn": "ফুটবল ইতিহাসের প্রথম ব্যালন ডি অর বিজয়ী হিসেবে নাম লেখান স্ট্যানলি ম্যাথিউস। ১৯৫৬ সালে প্রবর্তিত এই মর্যাদাপূর্ণ পুরস্কারটি পাওয়ার সময় তার বয়স ছিল একচল্লিশ বছর তিনশত একুশ দিন। ফুটবল বিশ্বে বয়স নিছক একটি সংখ্যা মাত্র, ম্যাথিউসের এই অর্জন তারই এক অনন্য দৃষ্টান্ত হয়ে রয়েছে।",
+        "details_en": "Stanley Matthews etched his name in history as the first-ever winner of the Ballon d'Or. When receiving this prestigious award introduced in 1956, he was forty-one years and three hundred twenty-one days old. Matthews' achievement remains a unique testament that age is merely a number in the football world."
       }
     },
     {
-      "story_id": "43ecfbd8-2ae6-5501-87e1-7e1ffa19fa81",
-      "primary_category": "governance_law",
+      "story_id": "f5f2e38f-9b2c-5e00-af0f-40fd76c3dfac",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T01:49:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8605,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/977186/%E2%80%98%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BE-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%96%E0%A6%AC%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%83%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%BE-%E0%A6%AB%E0%A7%87%E0%A6%B2%E0%A6%A4%E0%A7%87%E0%A6%87",
-          "title": "‘একটা গুলির খবর শুনে নিঃশ্বাস ফেলতে না ফেলতেই আরেকটা গুলির ঘটনা’",
-          "snippet": "‘একটা গুলির খবর শুনে নিঃশ্বাস ফেলতে না ফেলতেই আরেকটা গুলির ঘটনা’"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "খুলনায় অস্ত্রধারীদের তাণ্ডব ও একের পর এক গুলির ঘটনায় আতঙ্কিত এলাকাবাসী",
-        "title_en": "Khulna Residents Terrified as Frequent Gunfire Incidents Surge Across the Region",
-        "summary_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা থেকে শুরু করে সাধারণ পথচারীরাও নিয়মিত অস্ত্রধারীদের নির্বিচার গুলির শিকার হচ্ছেন।",
-        "summary_en": "Residents across Khulna city and district face rising terror as political figures and ordinary pedestrians become frequent targets of gunfire.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T01:49:07+00:00",
-        "lead_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা থেকে শুরু করে সাধারণ পথচারীরাও নিয়মিত অস্ত্রধারীদের নির্বিচার গুলির শিকার হচ্ছেন।",
-        "lead_en": "Residents across Khulna city and district face rising terror as political figures and ordinary pedestrians become frequent targets of gunfire.",
-        "bullets_bn": [
-          "খুলনা মহানগর ও জেলায় সাম্প্রতিক সময়ে অস্ত্রধারীদের মাধ্যমে একের পর এক নির্বিচার গুলির ঘটনা ঘটছে।",
-          "বটিয়াঘাটায় যুবদল নেতা সোহেল ও সাবেক যুবদল নেতা বাদলসহ বিভিন্ন পেশার মানুষ হামলার শিকার হয়েছেন।",
-          "আইনশৃঙ্খলা পরিস্থিতির অবনতিতে সাধারণ মানুষের মধ্যে তীব্র নিরাপত্তাহীনতা ও আতঙ্ক বিরাজ করছে।"
-        ],
-        "bullets_en": [
-          "Frequent and indiscriminate shooting incidents by armed individuals are surging across Khulna city and district.",
-          "Victims of recent shootings include political figures like Jubo Dal leaders Sohel and Badal, alongside ordinary citizens.",
-          "The deterioration of law and order has triggered severe insecurity and panic among the local population."
-        ],
-        "impact_bn": "নিত্যদিনের এই গোলাগুলির ঘটনায় সাধারণ মানুষ ও শিক্ষার্থীরা চরম নিরাপত্তাহীনতা ও উৎকণ্ঠার মধ্যে দিন কাটাচ্ছেন।",
-        "impact_en": "Ordinary citizens and students live in constant anxiety and severe insecurity due to these recurring local gunfire incidents.",
-        "details_bn": "খুলনা অঞ্চলজুড়ে সাম্প্রতিক সময়ে অপরাধীদের তৎপরতা ও অস্ত্রের ব্যবহার উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে। রাজনৈতিক নেতা, শিক্ষক ও পথচারীদের লক্ষ্য করে হামলার ঘটনায় আইনশৃঙ্খলা পরিস্থিতি নিয়ে প্রশ্ন উঠেছে। সাধারণ মানুষ দ্রুত কার্যকর পদক্ষেপ ও অস্ত্র উদ্ধার অভিযানের দাবি জানিয়ে আসছেন।",
-        "details_en": "Criminal activities and the use of firearms have surged significantly across the Khulna region. The attacks targeting political leaders, teachers, and pedestrians have raised serious concerns over law enforcement. Local residents have consistently demanded immediate and effective operations to recover illegal weapons and restore security."
-      }
-    },
-    {
-      "story_id": "52873873-5a2e-52c8-88cf-0af15595dfa8",
-      "primary_category": "governance_law",
-      "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T01:46:44+00:00",
+      "published_at": "2026-10-28T03:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.8407,
+      "rank_score": 0.9624,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1172748",
-          "title": "১০ দিনেও মেলেনি খোঁজ, লকেট দেখে স্ত্রীকে চিনলেন ফয়সাল",
-          "snippet": "১০ দিনেও মেলেনি খোঁজ, লকেট দেখে স্ত্রীকে চিনলেন ফয়সাল"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/lifestyle/977080/%E0%A6%97%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A7%80%E0%A7%9F-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%8B-%E0%A6%86%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A7%8B-%E0%A6%8F-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8",
+          "title": "গলায় রাজকীয় মুক্তো আর পায়ে আটপৌরে জুতো, এ কেমন ফ্যাশন দিবস?",
+          "snippet": "গলায় রাজকীয় মুক্তো আর পায়ে আটপৌরে জুতো, এ কেমন ফ্যাশন দিবস?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের ধ্বংসস্তূপ থেকে ১০ দিন পর স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার",
-        "title_en": "Remains of Missing Schoolteacher Recovered from Ukhia Resort Fire After Ten Days",
-        "summary_bn": "কক্সবাজারের উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের দশ দিন পর ধ্বংসস্তূপ থেকে নিখোঁজ স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার করা হয়েছে।",
-        "summary_en": "Remains of a missing schoolteacher were recovered from a resort fire wreckage in Ukhia after ten days.",
+        "title_bn": "স্নিকার্স ও মুক্তোর মালায় ফ্যাশনের সাথে নারীর নেতৃত্ব উদযাপিত",
+        "title_en": "Snickers and Pearl Necklaces Celebrate Women Leadership Through Fashion",
+        "summary_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের সাজে অনুপ্রাণিত হয়ে অনেকেই মুক্তার গয়না ও কেডস পরে নারী ক্ষমতায়ন ও নেতৃত্ব উদযাপন করেছেন।",
+        "summary_en": "Inspired by former US Vice President Kamala Harris, many people celebrated women empowerment and leadership wearing pearls and sneakers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T01:46:44+00:00",
-        "lead_bn": "কক্সবাজারের উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের দশ দিন পর ধ্বংসস্তূপ থেকে নিখোঁজ স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার করা হয়েছে।",
-        "lead_en": "Remains of a missing schoolteacher were recovered from a resort fire wreckage in Ukhia after ten days.",
+        "published_at": "2026-10-28T03:00:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের সাজে অনুপ্রাণিত হয়ে অনেকেই মুক্তার গয়না ও কেডস পরে নারী ক্ষমতায়ন ও নেতৃত্ব উদযাপন করেছেন।",
+        "lead_en": "Inspired by former US Vice President Kamala Harris, many people celebrated women empowerment and leadership wearing pearls and sneakers.",
         "bullets_bn": [
-          "উখিয়ার ইনানীর টুপটুপ রেস্তো অ্যান্ড রিসোর্টের অগ্নিকাণ্ডের ১০ দিন পর দেহাবশেষ উদ্ধার করা হয়।",
-          "নিহত স্কুলশিক্ষিকা নাসরিন আক্তার মুক্তার দেহাবশেষ তার লকেট দেখে শনাক্ত করেন স্বামী ফয়সাল।",
-          "উদ্ধারকৃত দেহাবশেষ ময়নাতদন্তের জন্য এবং আইনি প্রক্রিয়া সম্পন্ন করার জন্য মর্গে পাঠানো হয়েছে।"
+          "চাঙ্কস এন পার্লস ডে উপলক্ষে মুক্তার মালা ও স্নিকার্স পরে অংশ নেন অংশগ্রহণকারীরা",
+          "কমলা হ্যারিসের পরিচিত সাজ থেকে অনুপ্রাণিত হয়ে এই ব্যতিক্রমী ফ্যাশন আয়োজন করা হয়",
+          "রাজনীতিতে নারীদের সাফল্য ও নেতৃত্ব অর্জনের বার্তা ছড়িয়ে দিতে এই দিবস পালিত হয়"
         ],
         "bullets_en": [
-          "Remains were recovered ten days after a fire broke out at Toptop Resto and Resort in Ukhia.",
-          "Husband Faisal identified the remains of deceased schoolteacher Nasrin Akhter Mukta through her locket.",
-          "The recovered remains have been sent to the morgue for autopsy and completion of legal procedures."
+          "Participants wore pearl necklaces and sneakers to observe Chunks and Pearls Day",
+          "This unique fashion event drew inspiration from the signature style of Kamala Harris",
+          "The day was observed to spread the message of women success and leadership in politics"
         ],
-        "impact_bn": "এই মর্মান্তিক দুর্ঘটনা পর্যটন কেন্দ্রগুলোতে কঠোর অগ্নিনিরাপত্তা নিশ্চিত করার এবং জবাবদিহিতা বাড়ানোর প্রয়োজনীয়তা তুলে ধরে।",
-        "impact_en": "This tragic incident highlights the urgent need to enforce strict fire safety protocols and accountability across tourism centers.",
-        "details_bn": "কক্সবাজারের উখিয়ার ইনানীতে অবস্থিত টুপটুপ রেস্তো অ্যান্ড রিসোর্টে সম্প্রতি ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটে। এই অগ্নিকাণ্ডের পর থেকেই পিরোজপুরের বাসিন্দা স্কুলশিক্ষিকা নাসরিন আক্তার মুক্তা নিখোঁজ ছিলেন। ঘটনার দীর্ঘ দশ দিন পর ফায়ার সার্ভিস ও আইন শৃঙ্খলা রক্ষাকারী বাহিনীর তল্লাশি অভিযানের অংশ হিসেবে রিসোর্টের ধ্বংসস্তূপ থেকে তার দেহাবশেষ উদ্ধার করা হয়। আইনশৃঙ্খলা বাহিনী এই ঘটনায় কোনো অবহেলা বা কারণ রয়েছে কি না তা খতিয়ে দেখছে।",
-        "details_en": "A severe fire recently broke out at Toptop Resto and Resort in Inani, Ukhia, Cox's Bazar. Schoolteacher Nasrin Akhter Mukta, a resident of Pirojpur, had been missing since the incident. Following a prolonged search by rescue authorities, her remains were finally recovered from the resort's wreckage ten days later. Law enforcement agencies are investigating the incident to determine any potential negligence or safety violations."
+        "impact_bn": "এই ধরনের উদ্যোগ তরুণ প্রজন্মকে রাজনীতিতে নারীদের অংশগ্রহণ ও নেতৃত্ব সম্পর্কে সচেতন করে তোলে।",
+        "impact_en": "Such initiatives raise awareness among the younger generation regarding women participation and leadership in politics.",
+        "details_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের ফ্যাশন স্টাইল বিশ্বজুড়ে নারীদের কাছে পরিচিতি লাভ করেছে। তার রাজকীয় মুক্তার মালা এবং আটপৌরে কেডসের মিশ্রণকে প্রতীকী হিসেবে ব্যবহার করে বিভিন্ন স্থানে নারীদের রাজনৈতিক ক্ষমতায়ন ও সাফল্য উদযাপিত হয়। ফ্যাশনের মাধ্যমে সামাজিক বার্তা ছড়ানোর এই প্রবণতা তরুণদের মধ্যে বেশ সাড়া ফেলেছে।",
+        "details_en": "The fashion style of former US Vice President Kamala Harris has gained global recognition among women. Using the combination of her royal pearl necklace and casual sneakers as a symbol, women political empowerment and success are celebrated in various places. This trend of spreading social messages through fashion has generated significant interest among youth."
       }
     },
     {
-      "story_id": "025abe28-3fcc-51ea-9373-9fcdec0664c3",
-      "primary_category": "world_diplomacy",
+      "story_id": "ec742d46-b568-576d-a588-190581627307",
+      "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business",
         "world_diplomacy",
-        "tech_innovation",
         "governance_law",
-        "society_education",
-        "economy_business"
+        "tech_innovation"
       ],
       "region": "international",
       "tags": [
-        "#AustraliaEconomy",
-        "#Geopolitics",
-        "#Diplomacy"
+        "#Inflation",
+        "#Australia"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/1cceff6effaa8347410f241c7e69d715f26f433c/615_0_6146_4917/master/6146.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=04aeeb469e30b792e34fc5170b36df49",
+      "image_url": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0c94e1abf4a5f28087db475685674e",
       "image_caption": null,
-      "published_at": "2026-10-28T01:49:55+00:00",
+      "published_at": "2026-10-28T02:17:32+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.31,
-      "rank_score": 1.919,
+      "importance_score": 4.25,
+      "rank_score": 1.1532,
       "sources": [
         {
           "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-          "title": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
-          "snippet": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inf"
+          "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
+          "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
+          "snippet": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের নীতি প্রস্তাবের বিরোধিতা সুপার মেম্বার্স কাউন্সিলের",
-        "title_en": "Super Members Council Opposes Early Access to Retirement Funds for Housing",
-        "summary_bn": "অস্ট্রেলিয়ার ওয়ান নেশন দল আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি তুলেছে।",
-        "summary_en": "One Nation leader Pauline Hanson pushes for early access to superannuation to ease housing pressures.",
+        "title_bn": "অস্ট্রেলিয়ার মূল্যস্ফীতি বেড়ে ৪.৩ শতাংশে উন্নীত হয়েছে",
+        "title_en": "Australia Inflation Rate Rises to 4.3 Percent",
+        "summary_bn": "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর নতুন সুদহার বৃদ্ধির আশঙ্কা তীব্র হয়েছে।",
+        "summary_en": "Australia headline inflation accelerates to 4.3 percent, heightening market expectations for another imminent interest rate hike.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "economy_business",
           "world_diplomacy",
-          "tech_innovation",
           "governance_law",
-          "society_education",
-          "economy_business"
+          "tech_innovation"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T01:49:55+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার ওয়ান নেশন দল আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি তুলেছে।",
-        "lead_en": "One Nation leader Pauline Hanson pushes for early access to superannuation to ease housing pressures.",
+        "published_at": "2026-10-28T02:17:32+00:00",
+        "lead_bn": "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর নতুন সুদহার বৃদ্ধির আশঙ্কা তীব্র হয়েছে।",
+        "lead_en": "Australia headline inflation accelerates to 4.3 percent, heightening market expectations for another imminent interest rate hike.",
         "bullets_bn": [
-          "ওয়ান নেশন দলের পক্ষ থেকে আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি জানানো হয়েছে।",
-          "সুপার মেম্বার্স কাউন্সিলের প্রাক্কলন অনুযায়ী এই পরিকল্পনা বাস্তবায়িত হলে কর্মীরা অবসরকালীন সময়ে ২৫ হাজার ডলার কম পাবেন।",
-          "করোনাকালীন তহবিল উত্তোলনের ফলে শতাব্দীর শেষ নাগাদ ৮৫ বিলিয়ন ডলার পর্যন্ত অতিরিক্ত করের বোঝা তৈরি হতে পারে।"
+          "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশ হয়েছে",
+          "কেন্দ্রীয় ব্যাংকের নির্ধারিত মূল্যস্ফীতি লক্ষ্যমাত্রা অর্জনে আরও সুদহার বাড়ানোর ইঙ্গিত দেওয়া হয়েছে",
+          "মূল্যস্ফীতি পরিস্থিতি নিয়ন্ত্রণে আনতে অস্ট্রেলিয়ান রিজার্ভ ব্যাংক আগামী মাসে নতুন মুদ্রানীতি ঘোষণা করতে পারে"
         ],
         "bullets_en": [
-          "One Nation leader Pauline Hanson pushed for early access to super funds to help citizens pay rent and mortgages.",
-          "The Super Members Council estimates a typical worker opting into the plan would end up twenty five thousand dollars poorer at retirement.",
-          "Council estimates suggest early withdrawals could cost taxpayers up to eighty five billion dollars by the end of the century."
+          "Australia headline inflation rate accelerates to an annual 4.3 percent",
+          "Reserve Bank of Australia officials warn that borrowing costs may need to rise further",
+          "The central bank prepares for its upcoming monetary policy decision amid persistent inflation risks"
         ],
-        "impact_bn": "অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের এই বিতর্কিত প্রস্তাব অনুমোদিত হলে দীর্ঘমেয়াদে নাগরিকদের সামাজিক নিরাপত্তা ও সরকারি পেনশনের ওপর বড় ধরনের আর্থিক চাপ সৃষ্টি হতে পারে।",
-        "impact_en": "Early withdrawal of retirement funds could ease immediate housing stress for struggling citizens but risks severe long-term poverty and increased taxpayer burdens for future pensions.",
-        "details_bn": "অস্ট্রেলিয়ায় ক্রমবর্ধমান আবাসন সংকটের মুখে নাগরিকরা যখন বাড়িভাড়া বা ঋণের কিস্তি পরিশোধে হিমশিম খাচ্ছেন, তখন রাজনৈতিক দলগুলোর পক্ষ থেকে অবসরকালীন তহবিল বা সুপারঅ্যানুয়েশন ব্যবহারের প্রস্তাব উঠেছে। তবে আর্থিক খাতের বিশ্লেষক ও সুপার মেম্বার্স কাউন্সিল সতর্ক করেছে যে, এই ধরনের পদক্ষেপ নাগরিকদের দীর্ঘমেয়াদী আর্থিক নিরাপত্তাকে দুর্বল করে এবং সরকারের ওপর পরবর্তীতে পেনশন দেওয়ার চাপ বহুগুণ বাড়িয়ে দেয়।",
-        "details_en": "Amid soaring housing pressures in Australia, political debates have intensified over allowing citizens to tap into their retirement savings to cover rent and mortgage payments. Proponents argue it offers immediate financial relief for struggling families, while financial councils and experts warn it severely depletes retirement nests, reduces future living standards, and dramatically increases government expenditure on age pensions in the long run."
+        "impact_bn": "সুদহার বৃদ্ধির কারণে অস্ট্রেলিয়ার সাধারণ মানুষের গৃহঋণ এবং দৈনন্দিন জীবনের খরচ আরও বৃদ্ধি পাবে।",
+        "impact_en": "Higher interest rates will directly increase mortgage repayments and borrowing costs for ordinary Australian consumers.",
+        "details_bn": "অস্ট্রেলিয়ার কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে এর আগে কয়েক দফা নীতি সুদহার বৃদ্ধি করেছে। দেশটির বর্তমান নগদ সুদের হার ১৫ বছরের মধ্যে সর্বোচ্চ অবস্থানে রয়েছে। কেন্দ্রীয় ব্যাংকের মতে, দীর্ঘমেয়াদী মূল্যস্ফীতি নিয়ন্ত্রণের বাইরে চলে যাওয়ার ঝুঁকি এড়াতে কঠোর পদক্ষেপ প্রয়োজন।",
+        "details_en": "The Reserve Bank of Australia has systematically raised borrowing costs to combat persistent price pressures across the domestic economy. With the cash rate already standing at a 15-year high following multiple hikes, central bank officials remain vigilant against entrenched inflation expectations that could destabilize economic growth."
       }
     },
     {
@@ -302,14 +301,14 @@
       "tags": [
         "#ClimateCrisis",
         "#GlobalHealth",
-        "#LancetReport"
+        "#ClimateEmergency"
       ],
       "image_url": "https://static.dw.com/image/69108117_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T02:00:51.427235+00:00",
+      "published_at": "2026-10-28T03:00:51.244386+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.12,
-      "rank_score": 0.8579,
+      "rank_score": 0.858,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -325,10 +324,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান গবেষকদের",
-        "title_en": "Researchers Urge Global Health Emergency Declaration Over Climate Crisis",
-        "summary_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার আহ্বান জানিয়েছেন প্রায় ১৫০ জন গবেষক।",
-        "summary_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths, drought, and health risks accelerate.",
+        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার দাবি বিজ্ঞানীদের",
+        "title_en": "Researchers Urge Global Health Emergency Over Accelerating Climate Crisis",
+        "summary_bn": "বিশ্বজুড়ে জলবায়ু পরিবর্তনের কারণে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জরুরি অবস্থা ঘোষণার আহ্বান জানিয়েছেন বিজ্ঞানীরা।",
+        "summary_en": "Nearly 150 researchers worldwide are urging for climate change to be declared a global health emergency.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -337,23 +336,23 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:00:51.427235+00:00",
-        "lead_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার আহ্বান জানিয়েছেন প্রায় ১৫০ জন গবেষক।",
-        "lead_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths, drought, and health risks accelerate.",
+        "published_at": "2026-10-28T03:00:51.244386+00:00",
+        "lead_bn": "বিশ্বজুড়ে জলবায়ু পরিবর্তনের কারণে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জরুরি অবস্থা ঘোষণার আহ্বান জানিয়েছেন বিজ্ঞানীরা।",
+        "lead_en": "Nearly 150 researchers worldwide are urging for climate change to be declared a global health emergency.",
         "bullets_bn": [
-          "প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার দাবি জানিয়েছেন।",
-          "জলবায়ু পরিবর্তনের কারণে বিশ্বজুড়ে ২০২৩ সালে পাঁচ লক্ষাধিক মানুষ তাপপ্রবাহে মারা গেছেন এবং অর্থনৈতিক ক্ষতি হয়েছে ১.০৭ ট্রিলিয়ন ডলার।",
-          "মানুষের স্বাস্থ্য ও সুস্থতাকে জলবায়ু সংকটের মূল প্রতিক্রিয়ায় যুক্ত করার জন্য নীতিনির্ধারকদের প্রতি আহ্বান জানানো হয়েছে।"
+          "প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার দাবি তুলেছেন",
+          "জলবায়ুজনিত তাপপ্রবাহের কারণে ২০২৩ সালে পাঁচ লাখেরও বেশি মানুষের মৃত্যু হয়েছে",
+          "মানুষের স্বাস্থ্য সুরক্ষাকে অগ্রাধিকার দিয়ে অবিলম্বে জলবায়ু নীতিতে পরিবর্তনের আহ্বান জানানো হয়েছে"
         ],
         "bullets_en": [
-          "Nearly 150 researchers from over 30 countries demanded climate change be declared a global health emergency.",
-          "Climate change caused over half a million heat deaths globally in 2023 and cost $1.07 trillion in lost income.",
-          "Experts emphasize placing human health and well-being at the center of climate mitigation responses."
+          "Nearly 150 researchers from over 30 countries called for declaring climate change a global health emergency",
+          "Climate change caused over half a million heat deaths in 2023 and inflicted 1.07 trillion dollars in lost income",
+          "Experts emphasize placing human health and well-being at the core of global climate action responses"
         ],
-        "impact_bn": "তীব্র তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি বৃদ্ধির ফলে সাধারণ মানুষের জীবনযাত্রা, খাদ্য নিরাপত্তা এবং জনস্বাস্থ্য সরাসরি হুমকির মুখে পড়ছে।",
-        "impact_en": "Rising heatwaves and health risks directly threaten ordinary citizens' daily lives, food security, and overall public health.",
-        "details_bn": "ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জ প্রকাশিত বার্ষিক প্রতিবেদনে দেখা গেছে যে প্যারিস জলবায়ু চুক্তির পর থেকে গ্রহের উত্তাপের কারণে স্বাস্থ্য ও অর্থনৈতিক ক্ষতি মারাত্মকভাবে বেড়েছে। ২০১৬ সাল থেকে প্রায় তিন মিলিয়ন মানুষ তাপজনিত কারণে মারা গেছেন এবং চরম খরার আওতা দ্রুত বৃদ্ধি পাচ্ছে। গবেষকরা সতর্ক করেছেন যে তাপমাত্রা বৃদ্ধি এবং এর ফলে সৃষ্ট স্বাস্থ্যসংকট রোধে অবিলম্বে পদক্ষেপ না নিলে পরিস্থিতি আরও অবনতির দিকে যাবে।",
-        "details_en": "The annual Lancet Countdown on Health and Climate Change report reveals that health and economic tolls have risen sharply since the Paris climate accord. Climate change caused nearly 3 million heat-related deaths since 2016 and expanded areas affected by extreme drought. Researchers warn that without immediate policy shifts prioritizing public health over mere emission targets, the growing health crisis will continue to accelerate."
+        "impact_bn": "তীব্র তাপপ্রবাহ ও খাদ্যনিরাপত্তাহীনতা সাধারণ মানুষের জীবনযাত্রা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বাড়িয়ে দিচ্ছে।",
+        "impact_en": "Intensifying heatwaves and food insecurity directly threaten public health, productivity, and the daily lives of citizens worldwide.",
+        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর থেকে বিশ্বজুড়ে তাপমাত্রা বৃদ্ধি এবং এর ফলে স্বাস্থ্যগত ও অর্থনৈতিক ক্ষতি রেকর্ড মাত্রায় পৌঁছেছে। ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জের প্রতিবেদনে বলা হয়েছে, চরম খরা ও তাপপ্রবাহের কারণে খাদ্য উৎপাদন ব্যাহত হচ্ছে এবং লাখ লাখ মানুষ দীর্ঘস্থায়ী স্বাস্থ্য ঝুঁকিতে পড়ছেন। গবেষকরা সতর্ক করে বলেছেন, বর্তমান নির্গমন লক্ষ্যমাত্রার পরিবর্তে মানুষের জীবন বাঁচানোকে মূল মাপকাঠি হিসেবে বিবেচনা করতে হবে।",
+        "details_en": "Since the signing of the Paris climate accord, global health and economic tolls from planetary heating have risen sharply. The Lancet Countdown report highlights that climate change caused nearly three million heat-related deaths since 2016 while extreme drought expanded rapidly. Experts warn that current mitigation strategies must shift focus from emissions targets to direct human health outcomes and life preservation."
       }
     }
   ]
