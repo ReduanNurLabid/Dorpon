@@ -1,350 +1,355 @@
 {
-  "updated_at": "2026-10-28T15:00:56.345141",
+  "updated_at": "2026-10-28T16:00:55.566061",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "06356f54-d3c9-58cb-be1d-b9e7348cf5d4",
-      "primary_category": "society_education",
+      "story_id": "80789cd9-43ce-54e3-80db-09c3882ff3a6",
+      "primary_category": "governance_law",
       "interest_categories": [
+        "governance_law",
         "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#NationalAffairs"
+        "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/PM-Zobaida.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T13:01:08+00:00",
+      "published_at": "2026-10-28T15:57:20+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 1.4836,
+      "rank_score": 3.5077,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/prime-minister-calls-on-expatriates-and-those-living-in-the-country-to-work-together-to-build-an-advanced-bangladesh/",
-          "title": "উন্নত বাংলাদেশ গড়তে প্রবাসী-দেশবাসীকে একসঙ্গে কাজ করতে হবে: প্রধানমন্ত্রী",
-          "snippet": "উন্নত বাংলাদেশ গড়তে প্রবাসী-দেশবাসীকে একসঙ্গে কাজ করতে হবে: প্রধানমন্ত্রী"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/977371/%E0%A6%86%E0%A6%AE%E0%A6%9C%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AF%E0%A6%BE",
+          "title": "আমজনতার তারেককে সফরসঙ্গী করায় সমালোচনা নিয়ে যা বললেন প্রধানমন্ত্রী",
+          "snippet": "আমজনতার তারেককে সফরসঙ্গী করায় সমালোচনা নিয়ে যা বললেন প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "উন্নত বাংলাদেশ গঠনে প্রবাসী ও দেশবাসীকে ঐক্যবদ্ধভাবে কাজ করার আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "PM Urges Expatriates and Citizens to Work Together for Developed Bangladesh",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের টোকিওতে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময়কালে দেশের উন্নয়নে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
-        "summary_en": "Prime Minister Tarique Rahman urged expatriate Bangladeshis to work together for national development during a community exchange meeting in Tokyo, Japan.",
+        "title_bn": "আমজনতার তারেককে সফরসঙ্গী করার সমালোচনা নিয়ে মুখ খুললেন প্রধানমন্ত্রী",
+        "title_en": "Prime Minister Addresses Criticism Over Including Tariq in Official Tour",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে নিয়ে সামাজিক যোগাযোগমাধ্যমে চলা সমালোচনার কড়া জবাব দিয়েছেন।",
+        "summary_en": "Prime Minister Tariq Rahman responded to social media criticism regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in his official tour.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "governance_law",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:01:08+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের টোকিওতে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময়কালে দেশের উন্নয়নে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
-        "lead_en": "Prime Minister Tarique Rahman urged expatriate Bangladeshis to work together for national development during a community exchange meeting in Tokyo, Japan.",
+        "published_at": "2026-10-28T15:57:20+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে নিয়ে সামাজিক যোগাযোগমাধ্যমে চলা সমালোচনার কড়া জবাব দিয়েছেন।",
+        "lead_en": "Prime Minister Tariq Rahman responded to social media criticism regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in his official tour.",
         "bullets_bn": [
-          "দেশের উন্নয়ন ও মানুষের কল্যাণ নিশ্চিত করতে প্রবাসী ও দেশবাসীকে নিজ অবস্থান থেকে কাজ করার আহ্বান জানান প্রধানমন্ত্রী।",
-          "শিক্ষাব্যবস্থা শক্তিশালী করতে প্রাথমিক শিক্ষা মজবুত করা এবং জাপানি সহ তৃতীয় ভাষা চালুর পরিকল্পনার কথা জানান তিনি।",
-          "জাপানের শ্রমবাজারে বাংলাদেশিদের অংশগ্রহণ বাড়ানো এবং দক্ষ জনশক্তি তৈরির সরকারি পরিকল্পনা তুলে ধরা হয়।"
+          "প্রধানমন্ত্রী তারেক রহমান রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে সফরসঙ্গী করার বিষয়টি নিয়ে সামাজিক যোগাযোগমাধ্যমের সমালোচনার জবাব দেন।",
+          "তিনি বলেন যে দেশের জরুরি জীবনমান ও জীবিকার সংকট নিয়ে আলোচনা না করে সফরসঙ্গীর অবদান ও সরকারি ব্যয় নিয়ে অযথা সমালোচনা চলছে।",
+          "টোকিওর হোটেল নিউ ওতানিতে আয়োজিত অনুষ্ঠানে বাংলাদেশ সরকারের এই অবস্থানের বিষয়টি স্পষ্ট করা হয়।"
         ],
         "bullets_en": [
-          "The Prime Minister urged expatriates and domestic citizens to work from their respective positions to ensure national development.",
-          "He announced plans to strengthen primary education and introduce third languages, including Japanese, in schools.",
-          "Government plans to increase Bangladeshi participation in Japan's labor market and build skilled manpower were highlighted."
-        ],
-        "impact_bn": "শিক্ষার্থীরা স্কুলে জাপানি সহ বিভিন্ন বিদেশি ভাষা শেখার সুযোগ পেলে বৈশ্বিক শ্রমবাজারে দক্ষ জনশক্তি হিসেবে কর্মসংস্থানের সুযোগ বাড়বে।",
-        "impact_en": "Students will gain enhanced employment opportunities in global labor markets by learning foreign languages like Japanese in schools.",
-        "details_bn": "জাপানের টোকিওর নিউ ওতানি হোটেলে জাপানপ্রবাসী বাংলাদেশিদের সাথে মতবিনিময় সভায় এসব কথা বলেন প্রধানমন্ত্রী। এ সময় তার সহধর্মিণী ডা. জোবাইদা রহমান উপস্থিত ছিলেন। সভায় প্রবাসীরা বিভিন্ন সমস্যার কথা তুলে ধরলে প্রধানমন্ত্রী শিক্ষা, স্বাস্থ্যসেবা ও দক্ষ জনশক্তি তৈরিতে সরকারের ভবিষ্যৎ পরিকল্পনার কথা জানান।",
-        "details_en": "The Prime Minister made these remarks during an exchange meeting with the Bangladeshi expatriate community at the New Otani Hotel in Tokyo, Japan, accompanied by his spouse Dr. Zubaida Rahman. When expatriates raised various issues, the Prime Minister outlined the government's future plans regarding education, healthcare, and skilled manpower development."
-      }
-    },
-    {
-      "story_id": "f192f9b7-714f-53d5-96f3-a9c14cff7ff3",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T14:17:45+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.3041,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/middle-east/977351/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9%E2%80%99",
-          "title": "ইসরায়েল নতুন করে হামলা চালালে বিশ্ববাজারে ‘ভয়াবহ’ প্রভাব পড়বে: ইরান",
-          "snippet": "ইসরায়েল নতুন করে হামলা চালালে বিশ্ববাজারে ‘ভয়াবহ’ প্রভাব পড়বে: ইরান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলি আগ্রাসন অব্যাহত থাকলে বৈশ্বিক বাজারে মারাত্মক প্রভাব পড়বে: ইরান",
-        "title_en": "New Israeli Attacks Will Severely Impact Global Markets: Iran",
-        "summary_bn": "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি সতর্ক করে বলেছেন যে পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি বৈশ্বিক অর্থনীতিতে ধ্বংসাত্মক প্রভাব ফেলতে পারে।",
-        "summary_en": "Iranian Foreign Minister Abbas Araghchi warned that any new Israeli military provocations in the Persian Gulf will severely impact global markets.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T14:17:45+00:00",
-        "lead_bn": "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি সতর্ক করে বলেছেন যে পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি বৈশ্বিক অর্থনীতিতে ধ্বংসাত্মক প্রভাব ফেলতে পারে।",
-        "lead_en": "Iranian Foreign Minister Abbas Araghchi warned that any new Israeli military provocations in the Persian Gulf will severely impact global markets.",
-        "bullets_bn": [
-          "পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি ও দুঃসাহসের কঠোর সমালোচনা করেছে তেহরান।",
-          "বৈশ্বিক বাজারে এই ধরনের সংঘাতের ধ্বংসাত্মক পরিণতি নিয়ে সতর্কবার্তা দিয়েছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-          "পরিস্থিতি পর্যবেক্ষণ করে মধ্যপ্রাচ্যে ভূরাজনৈতিক উত্তেজনা নিরসনে আন্তর্জাতিক মহলের কূটনৈতিক তৎপরতা অব্যাহত রয়েছে।"
-        ],
-        "bullets_en": [
-          "Tehran strongly criticized potential Israeli military provocations and adventurous actions in the Persian Gulf region.",
-          "Iranian Foreign Minister Abbas Araghchi warned of the destructive consequences such conflicts would bring to global markets.",
-          "International diplomatic efforts continue to monitor the situation and de-escalate mounting geopolitical tensions in the Middle East."
-        ],
-        "impact_bn": "সংঘাত তীব্র হলে জ্বালানি তেল ও নিত্যপণ্যের মূল্যবৃদ্ধির মাধ্যমে সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়তে পারে।",
-        "impact_en": "Escalating conflict could increase living costs for ordinary citizens through a surge in global fuel and commodity prices.",
-        "details_bn": "মধ্যপ্রাচ্যে দীর্ঘ দিন ধরে চলা ভূরাজনৈতিক উত্তেজনার মধ্যেই ইরান ও ইসরায়েলের মধ্যকার সামরিক বৈরিতা চরম আকার ধারণ করেছে। পারস্য উপসাগরীয় অঞ্চলে যেকোনো ধরনের সামরিক সংঘর্ষ বৈশ্বিক জ্বালানি সরবরাহ চেইন মারাত্মকভাবে ব্যাহত করতে পারে। এর ফলে আন্তর্জাতিক বাজারে জ্বালানি তেলের দাম বেড়ে যাওয়ার আশঙ্কা রয়েছে, যা বিশ্ব অর্থনীতিতে বড় ধরনের নেতিবাচক প্রভাব ফেলতে পারে বলে মনে করছেন বিশ্লেষকরা।",
-        "details_en": "Military hostilities between Iran and Israel have intensified amid ongoing geopolitical tensions in the Middle East. Any military conflict in the Persian Gulf region threatens to severely disrupt global energy supply chains. Analysts warn that this could trigger a surge in international oil prices, dealing a heavy blow to the global economy."
-      }
-    },
-    {
-      "story_id": "b9c2b670-7e2c-5778-8234-de75a2e9d2f2",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T14:58:44+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9489,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/khulna/977362/%E0%A6%98%E0%A7%81%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%8F%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%AE%E0%A6%BE-%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A7%87",
-          "title": "ঘুরতে গিয়ে শেষ এক পরিবার: বাবা-মা ও দুই মেয়েকে পাশাপাশি কবরে দাফন",
-          "snippet": "ঘুরতে গিয়ে শেষ এক পরিবার: বাবা-মা ও দুই মেয়েকে পাশাপাশি কবরে দাফন"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সড়ক দুর্ঘটনায় নিহত একই পরিবারের চার সদস্যকে পাশাপাশি দাফন",
-        "title_en": "Four members of the same family buried side by side",
-        "summary_bn": "ভ্রমণে গিয়ে সড়ক দুর্ঘটনায় প্রাণ হারানো বাবা-মা ও দুই মেয়েকে নিজ গ্রামে পাশাপাশি কবরে দাফন করা হয়েছে।",
-        "summary_en": "Parents and two daughters who died in a road trip accident were buried side by side in their village.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T14:58:44+00:00",
-        "lead_bn": "ভ্রমণে গিয়ে সড়ক দুর্ঘটনায় প্রাণ হারানো বাবা-মা ও দুই মেয়েকে নিজ গ্রামে পাশাপাশি কবরে দাফন করা হয়েছে।",
-        "lead_en": "Parents and two daughters who died in a road trip accident were buried side by side in their village.",
-        "bullets_bn": [
-          "গ্রামের সরকারি প্রাথমিক বিদ্যালয়ের মাঠে চারজনের জানাজা অনুষ্ঠিত হয়।",
-          "জানাজায় হাজারো মানুষের সমাগম ঘটে এবং স্বজনদের কান্নায় পরিবেশ ভারী হয়ে ওঠে।",
-          "নিহতদের মরদেহ দাফনের জন্য নিজ গ্রামে আনা হয়।"
-        ],
-        "bullets_en": [
-          "The funeral prayers for all four family members took place at the village government primary school ground.",
-          "Thousands of people gathered for the funeral as relatives and neighbors broke down in tears.",
-          "The bodies were brought back to their native village for burial."
-        ],
-        "impact_bn": "এই মর্মান্তিক ঘটনা এলাকায় গভীর শোকের ছায়া ফেলেছে এবং সড়কে নিরাপত্তা বৃদ্ধির দাবি জোরালো করেছে।",
-        "impact_en": "This tragic incident has cast a pall of grief over the area and intensified calls for road safety.",
-        "details_bn": "ভ্রমণে বের হওয়া একই পরিবারের চার সদস্যের মর্মান্তিক মৃত্যুর ঘটনায় পুরো এলাকায় শোকের মাতম চলছে। একসঙ্গে চারজনের এমন মৃত্যু এর আগে ওই এলাকায় ঘটেনি। স্থানীয় বাসিন্দারা ও দূরদূরান্ত থেকে আসা মানুষ এই জানাজায় অংশ নেন। আকস্মিক এই দুর্ঘটনায় পুরো পরিবারটি নিঃশেষ হয়ে যাওয়ায় এলাকাবাসীর মধ্যে তীব্র শোক ও আতঙ্ক বিরাজ করছে।",
-        "details_en": "The tragic death of four members of the same family during a trip has plunged the entire area into mourning. Such a massive loss from a single family is unprecedented in the locality. Thousands of locals and visitors attended the funeral prayers. This sudden tragedy has left the community deeply shaken and grieving."
-      }
-    },
-    {
-      "story_id": "a2f508c0-c11c-5436-9071-8e19c0a60817",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T14:57:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9408,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/asia/977361/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%87%E0%A6%A8",
-          "title": "ব্রিটিশ পুলিশের স্বেচ্ছাচারিতা ও মাত্রাতিরিক্ত আইন প্রয়োগে তীব্র অসন্তোষ চীনের",
-          "snippet": "ব্রিটিশ পুলিশের স্বেচ্ছাচারিতা ও মাত্রাতিরিক্ত আইন প্রয়োগে তীব্র অসন্তোষ চীনের"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্রিটিশ পুলিশের স্বেচ্ছাচারী আচরণ ও মাত্রাতিরিক্ত আইন প্রয়োগে চীনের তীব্র অসন্তোষ",
-        "title_en": "China Expresses Deep Dissatisfaction Over Excessive Law Enforcement by British Police",
-        "summary_bn": "যুক্তরাজ্যের পুলিশের স্বেচ্ছাচারী আচরণ এবং মাত্রাতিরিক্ত আইন প্রয়োগের ঘটনায় আনুষ্ঠানিকভাবে তীব্র অসন্তোষ ও গভীর উদ্বেগ প্রকাশ করেছে চীন।",
-        "summary_en": "China has formally expressed deep dissatisfaction and concern over arbitrary actions and excessive law enforcement by British police.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T14:57:55+00:00",
-        "lead_bn": "যুক্তরাজ্যের পুলিশের স্বেচ্ছাচারী আচরণ এবং মাত্রাতিরিক্ত আইন প্রয়োগের ঘটনায় আনুষ্ঠানিকভাবে তীব্র অসন্তোষ ও গভীর উদ্বেগ প্রকাশ করেছে চীন।",
-        "lead_en": "China has formally expressed deep dissatisfaction and concern over arbitrary actions and excessive law enforcement by British police.",
-        "bullets_bn": [
-          "চীন সরকারের পক্ষ থেকে ব্রিটিশ কর্তৃপক্ষের কাছে একটি আনুষ্ঠানিক প্রতিবাদপত্র দাখিল করা হয়েছে।",
-          "চীনের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র কুও চিয়া খুন নিয়মিত সংবাদ সম্মেলনে এই অবস্থান তুলে ধরেন।",
-          "দুই দেশের কূটনৈতিক সম্পর্কে এই ঘটনার প্রভাব নিয়ে আন্তর্জাতিক মহলে আলোচনা শুরু হয়েছে।"
-        ],
-        "bullets_en": [
-          "The Chinese government has submitted a formal letter of protest to British authorities.",
-          "Chinese Foreign Ministry spokesperson Guo Jiakun addressed the issue during a regular press briefing.",
-          "The diplomatic friction has drawn international attention regarding bilateral relations between the two nations."
+          "Prime Minister Tariq Rahman addressed the social media backlash regarding the inclusion of Amjanata Dal member secretary Md. Tariq Rahman in the official delegation.",
+          "He pointed out that instead of discussing critical national crises regarding livelihoods, critics are focusing on the companion's role and government expenditure.",
+          "The clarification was made during an interaction held at the Hotel New Otani in Tokyo, Japan."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "যুক্তরাজ্যে আইন প্রয়োগকারী সংস্থার কার্যক্রম এবং প্রবাসী নাগরিকদের নিরাপত্তা নিয়ে বিভিন্ন সময় আন্তর্জাতিক মহলে নানা প্রশ্ন উঠেছে। সম্প্রতি ব্রিটিশ পুলিশের কিছু পদক্ষেপের কারণে কূটনৈতিক পর্যায়ে এই অসন্তোষের সৃষ্টি হয়েছে, যা দুই দেশের সম্পর্কের ওপর প্রভাব ফেলতে পারে। চীন সরকারের পক্ষ থেকে এই বিষয়ে আনুষ্ঠানিক প্রতিবাদ জানানোর পর পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে আন্তর্জাতিক বিশ্লেষকরা।",
-        "details_en": "Concerns regarding law enforcement practices and the safety of expatriate citizens in the UK have frequently drawn international attention. Recent actions by British police have sparked this diplomatic discontent, which could potentially impact bilateral relations. Following the formal protest by the Chinese government, international analysts are closely monitoring the situation."
+        "details_bn": "সম্প্রতি রাষ্ট্রীয় সফরে আমজনতার দলের সদস্যসচিব মো. তারেক রহমানকে প্রধানমন্ত্রীর সফরসঙ্গী করা নিয়ে সামাজিক যোগাযোগমাধ্যমে বিভিন্ন মহলে তীব্র সমালোচনা ও ট্রল শুরু হয়। এর পরিপ্রেক্ষিতে টোকিওতে প্রবাসী বাংলাদেশিদের সাথে আয়োজিত অনুষ্ঠানে প্রধানমন্ত্রী এই বিষয়ে নিজের অবস্থান ব্যাখ্যা করেন এবং দেশের মূল সমস্যাগুলো বাদ দিয়ে অপ্রয়োজনীয় বিতর্ক তৈরির প্রবণতা নিয়ে অসন্তোষ প্রকাশ করেন।",
+        "details_en": "The inclusion of Amjanata Dal member secretary Md. Tariq Rahman in the Prime Minister's official entourage sparked widespread criticism and trolling across social media platforms. Addressing the issue during an event in Tokyo, the Prime Minister explained the rationale behind the delegation composition and criticized the focus on peripheral issues rather than pressing national livelihood crises."
       }
     },
     {
-      "story_id": "a46fda6c-22aa-58c2-b3ba-b520a6bc26d0",
+      "story_id": "b251af5e-8633-5f95-a61a-c8bed85c1972",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T15:59:32+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 2.3936,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/chitagong/977372/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF-%E0%A6%8F%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF",
+          "title": "জুলাইকে বাঁচিয়ে রাখা তাদের জন্য হুমকি, এজন্য ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ",
+          "snippet": "জুলাইকে বাঁচিয়ে রাখা তাদের জন্য হুমকি, এজন্য ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জুলাই ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ",
+        "title_en": "Government Halts Budget Allocation for July Foundation: Inqilab Mancha",
+        "summary_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
+        "summary_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current government has suspended budget allocations for the July Foundation.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T15:59:32+00:00",
+        "lead_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
+        "lead_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current government has suspended budget allocations for the July Foundation.",
+        "bullets_bn": [
+          "জুলাই ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রাখার অভিযোগ করেছে ইনকিলাব মঞ্চ।",
+          "বর্তমান সরকারের বিরুদ্ধে জুলাই গণঅভ্যুত্থানের চেতনাকে অবহেলার অভিযোগ তোলা হয়েছে।",
+          "ফাউন্ডেশনের অর্থায়ন বন্ধ রাখার পেছনে রাজনৈতিক স্বার্থ রয়েছে বলে দাবি করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Inqilab Mancha accused the government of halting budget allocations for the July Foundation.",
+          "The platform claimed the administration is neglecting the core spirit of the July mass uprising.",
+          "Speakers alleged that withholding funds serves vested political interests and extortion."
+        ],
+        "impact_bn": "জুলাই গণঅভ্যুত্থানের শহীদ ও আহতদের পুনর্বাসন প্রক্রিয়া বাধাগ্রস্ত হতে পারে বলে আশঙ্কা করছেন সংশ্লিষ্টরা।",
+        "impact_en": "Stakeholders fear that delayed funding could hinder the rehabilitation process for the injured and families of martyrs of the uprising.",
+        "details_bn": "সালের জুলাই গণঅভ্যুত্থানের পর গঠিত জুলাই ফাউন্ডেশনের কার্যক্রম এবং সরকারি সহায়তা নিয়ে বিভিন্ন মহলে আলোচনা চলছে। ইনকিলাব মঞ্চের পক্ষ থেকে সরকারের আর্থিক অসহযোগিতা নিয়ে এই প্রথম প্রকাশ্যে তীব্র সমালোচনা করা হলো, যা রাজনৈতিক অঙ্গনে নতুন বিতর্কের জন্ম দিয়েছে।",
+        "details_en": "Discussions have persisted regarding the activities and state support for the July Foundation established after the 2024 uprising. Inqilab Mancha's public criticism of the government's financial non-cooperation marks a significant development, stirring fresh debates within political circles."
+      }
+    },
+    {
+      "story_id": "738df99c-6b87-56bb-8887-f1dc1032a0aa",
       "primary_category": "economy_business",
       "interest_categories": [
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Economy",
+        "#Finance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T15:28:59+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.0,
+      "rank_score": 1.7888,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/economy/news/1173092",
+          "title": "বাংলাদেশ ব্যাংক কর্মকর্তার ব্যাংক হিসাবের তথ্য চাইলো বিএফআইইউ",
+          "snippet": "বাংলাদেশ ব্যাংক কর্মকর্তার ব্যাংক হিসাবের তথ্য চাইলো বিএফআইইউ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বাংলাদেশ ব্যাংকের যুগ্ম-পরিচালক ও তার স্ত্রীর ব্যাংক হিসাবের তথ্য তলব",
+        "title_en": "BFIU Seeks Bank Account Details of Bangladesh Bank Official and Wife",
+        "summary_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের এক যুগ্ম-পরিচালক এবং তার স্ত্রীর সকল ব্যাংক হিসাবের তথ্য তলব করেছে।",
+        "summary_en": "The Bangladesh Financial Intelligence Unit has demanded all bank account details of a central bank joint director and his wife.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T15:28:59+00:00",
+        "lead_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের এক যুগ্ম-পরিচালক এবং তার স্ত্রীর সকল ব্যাংক হিসাবের তথ্য তলব করেছে।",
+        "lead_en": "The Bangladesh Financial Intelligence Unit has demanded all bank account details of a central bank joint director and his wife.",
+        "bullets_bn": [
+          "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট কেন্দ্রীয় ব্যাংকের যুগ্ম-পরিচালক মোশাররফ হোসেন ও তার স্ত্রীর ব্যাংক হিসাবের তথ্য চেয়েছে।",
+          "কেন্দ্রীয় ব্যাংকের মানিলন্ডারিং ও সন্ত্রাসী কাজে অর্থায়ন প্রতিরোধ বিভাগের চিঠির প্রেক্ষিতে এই তথ্য তলব করা হয়।",
+          "সংশ্লিষ্ট ব্যাংকগুলোকে অবিলম্বে তাদের হিসাব সংক্রান্ত যাবতীয় তথ্য বিএফআইইউ বরাবর জমা দেওয়ার নির্দেশ দেওয়া হয়েছে।"
+        ],
+        "bullets_en": [
+          "The Bangladesh Financial Intelligence Unit requested bank details of central bank joint director Mosharraf Hossain and his wife.",
+          "The information was sought following directives from the Anti-Money Laundering and Combating Terrorist Financing Department.",
+          "Concerned banks have been instructed to submit all relevant account records to the BFIU without delay."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বাংলাদেশ ফাইন্যান্সিয়াল ইন্টেলিজেন্স ইউনিট আর্থিক খাতের শৃঙ্খলা রক্ষা এবং অর্থপাচার প্রতিরোধে বিভিন্ন ব্যক্তি ও প্রতিষ্ঠানের ব্যাংক হিসাব তলব করে থাকে। এর ধারাবাহিকতায় এবার কেন্দ্রীয় ব্যাংকের নিজস্ব কর্মকর্তার হিসাবের তথ্য চাওয়ায় বিষয়টি আর্থিক খাতের নজর কেড়েছে।",
+        "details_en": "The Bangladesh Financial Intelligence Unit regularly inspects and seeks financial records of individuals and entities to curb money laundering and maintain financial discipline. This latest move targets an official within the central bank itself, drawing significant attention."
+      }
+    },
+    {
+      "story_id": "9804a885-8f9b-5305-81f6-818ce8afea3a",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T15:39:46+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.5745,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1173097",
+          "title": "ফারাক্কা চুক্তি নবায়ন করে ভারত প্রমাণ করবে তারা ২০ কোটি মানুষের বন্ধু",
+          "snippet": "ফারাক্কা চুক্তি নবায়ন করে ভারত প্রমাণ করবে তারা ২০ কোটি মানুষের বন্ধু"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের মানুষের বন্ধু প্রমাণ করবে",
+        "title_en": "India Must Renew Frakka Treaty to Prove Friendship with Bangladesh",
+        "summary_bn": "পানিসম্পদ প্রতিমন্ত্রী ফরহাদ হোসেন াদ বলেছেন, ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের ২০ কোটি মানুষের বন্ধু হিসেবে নিজেদের প্রমাণ করবে।",
+        "summary_en": "State Minister for Water Resources Farhad Hossain Azad stated that India will prove its friendship with Bangladesh by renewing the Farakka Treaty.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T15:39:46+00:00",
+        "lead_bn": "পানিসম্পদ প্রতিমন্ত্রী ফরহাদ হোসেন াদ বলেছেন, ফারাক্কা চুক্তি নবায়ন করে ভারত বাংলাদেশের ২০ কোটি মানুষের বন্ধু হিসেবে নিজেদের প্রমাণ করবে।",
+        "lead_en": "State Minister for Water Resources Farhad Hossain Azad stated that India will prove its friendship with Bangladesh by renewing the Farakka Treaty.",
+        "bullets_bn": [
+          "পানিসম্পদ প্রতিমন্ত্রী ফারাক্কা চুক্তি নবায়ন করার ওপর বিশেষ গুরুত্ব আরোপ করেছেন।",
+          "ভারত ফারাক্কা চুক্তি নবায়ন করলে বাংলাদেশের ২০ কোটি মানুষের প্রকৃত বন্ধু হিসেবে প্রমাণিত হবে।",
+          "দুই দেশের মধ্যকার পানির ন্যায্য হিস্যা নিশ্চিত করতে সংশ্লিষ্ট কর্তৃপক্ষ কূটনৈতিক আলোচনা অব্যাহত রাখবে।"
+        ],
+        "bullets_en": [
+          "The State Minister for Water Resources emphasized the urgent need to renew the Farakka Treaty.",
+          "Renewing the treaty will prove India to be a true friend of the 20 million people of Bangladesh.",
+          "Relevant authorities will continue diplomatic discussions to ensure fair water-sharing between the two nations."
+        ],
+        "impact_bn": "পানিসম্পদ ও কৃষির ওপর নির্ভরশীল সাধারণ মানুষ ন্যায্য পানির প্রবাহ নিশ্চিত হওয়ায় উপকৃত হবে।",
+        "impact_en": "Ordinary citizens dependent on agriculture and water resources will benefit from secured and fair water flow.",
+        "details_bn": "সালে পরীক্ষামূলকভাবে চালুর পর থেকে গঙ্গার পানি বন্টন সংক্রান্ত ফারাক্কা চুক্তি দুই দেশের পানি কূটনীতিতে একটি অত্যন্ত সংবেদনশীল ও গুরুত্বপূর্ণ ইস্যু হিসেবে বিবেচিত হয়ে আসছে। ১৯৯৬ সালে তৎকালীন সরকারগুলোর মধ্যে ৩০ বছর মেয়াদি গঙ্গা পানি চুক্তি স্বাক্ষরিত হয়, যার মেয়াদ ২০২৬ সালে শেষ হতে চলেছে। চুক্তিটির নবায়ন এবং নদীর স্বাভাবিক প্রবাহ বজায় রাখা বাংলাদেশের উত্তরাঞ্চলের কৃষি ও পরিবেশের জন্য অত্যন্ত গুরুত্বপূর্ণ বিষয়।",
+        "details_en": "Since its trial launch in 1975, the Farakka Treaty regarding Ganges water sharing has remained a sensitive and critical issue in bilateral water diplomacy. A 30-year Ganges Water Sharing Treaty was signed in 1996, which is set to expire in 2026. The renewal of this treaty and maintaining normal river flows are vital for the agriculture and environment of northern Bangladesh."
+      }
+    },
+    {
+      "story_id": "f414fd58-8eca-5055-8c8c-2d4907730b63",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
         "economy_business",
+        "sports_fitness"
+      ],
+      "region": "international",
+      "tags": [
+        "#KylianMbappe",
+        "#China",
+        "#RealMadrid"
+      ],
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-08T191004Z_1929128573_UP1EM981H8R06_RTRMADP_3_SOCCER-CHAMPIONS-RMA-INT-1789149958.jpg?resize=1920%2C1440",
+      "image_caption": null,
+      "published_at": "2026-10-28T15:36:39+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.25,
+      "rank_score": 1.3551,
+      "sources": [
+        {
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+          "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+          "snippet": "What is the controversy between Real Madrid’s Kylian Mbappe and China?"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-rdf",
+          "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+          "snippet": "Ukraine's Zelenskyy irked by US-Russia-China summit"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মাও সেতুংকে নিয়ে মন্তব্যের জেরে চীনে বিতর্কের মুখে কিলিয়ান এমবাপে",
+        "title_en": "Kylian Mbappe Faces Backlash in China Over Comments on Mao Zedong",
+        "summary_bn": "চীনের প্রতিষ্ঠাতা নেতা মাও সেতুংকে নিয়ে আপত্তিকর মন্তব্যের জেরে বাণিজ্যিক চুক্তি ও ম্যাচ সম্প্রচার হারালেন রিয়াল মাদ্রিদ তারকা কিলিয়ান এমবাপে।",
+        "summary_en": "Real Madrid star Kylian Mbappe lost commercial deals and broadcast rights in China following controversial remarks about founding leader Mao Zedong.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "economy_business",
+          "sports_fitness"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T15:36:39+00:00",
+        "lead_bn": "চীনের প্রতিষ্ঠাতা নেতা মাও সেতুংকে নিয়ে আপত্তিকর মন্তব্যের জেরে বাণিজ্যিক চুক্তি ও ম্যাচ সম্প্রচার হারালেন রিয়াল মাদ্রিদ তারকা কিলিয়ান এমবাপে।",
+        "lead_en": "Real Madrid star Kylian Mbappe lost commercial deals and broadcast rights in China following controversial remarks about founding leader Mao Zedong.",
+        "bullets_bn": [
+          "কিলিয়ান এমবাপের একটি ভিডিও ভাইরাল হওয়ার পর চীনা দর্শকদের মধ্যে তীব্র ক্ষোভ ও বাণিজ্যিক বয়কট শুরু হয়।",
+          "বিতর্কের জেরে এমবাপের একাধিক বাণিজ্যিক চুক্তি বাতিল করা হয়েছে এবং চীনা রাষ্ট্রীয় টেলিভিশনে লা লিগার সম্প্রচার স্থগিত করা হয়েছে।",
+          "ফ্রান্সের ফরোয়ার্ড কিলিয়ান এমবাপের পক্ষ থেকে ক্ষমা প্রার্থনা করা হলেও সামাজিক যোগাযোগমাধ্যমে ক্ষোভের প্রশমন ঘটেনি।"
+        ],
+        "bullets_en": [
+          "Kylian Mbappe sparked widespread outrage and consumer boycotts in China after a controversial video circulated online.",
+          "The backlash resulted in cancelled commercial endorsement deals and the suspension of La Liga broadcasts on Chinese state television.",
+          "The French superstar issued an apology, but anger persisted across major Chinese social media platforms."
+        ],
+        "impact_bn": "null",
+        "impact_en": "null",
+        "details_bn": "চীনের আধুনিক প্রতিষ্ঠাতা নেতা মাও সেতুং দেশটির রাজনীতি ও সংস্কৃতিতে অত্যন্ত সংবেদনশীল ব্যক্তিত্ব। তার সম্পর্কে যেকোনো অবমূল্যায়নমূলক মন্তব্য চীনে কঠোর সামাজিক ট্যাবু হিসেবে গণ্য হয়। রিয়াল মাদ্রিদের ফরাসি ফরোয়ার্ড কিলিয়ান এমবাপের একটি পুরোনো ভিডিও অনলাইনে ছড়িয়ে পড়ার পর এই কূটনৈতিক ও বাণিজ্যিক সংকট তৈরি হয়, যা দেশটির বিশাল বাজারে ক্রীড়াবিদ ও আন্তর্জাতিক ব্র্যান্ডগুলোর জন্য রাজনৈতিক সংবেদনশীলতার ঝুঁকি পুনরায় স্পষ্ট করেছে।",
+        "details_en": "Mao Zedong remains a highly sensitive and revered figure in modern Chinese history, making any satirical or disrespectful remarks about him a strict social taboo. The controversy erupted after a resurfaced video showed Real Madrid forward Kylian Mbappe making light of the former leader. The incident highlights the severe commercial and diplomatic risks international athletes face when navigating the lucrative yet politically sensitive Chinese market."
+      }
+    },
+    {
+      "story_id": "99dec287-9ead-50b3-b7ef-09c05b2abd28",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "climate_environment",
         "world_diplomacy"
       ],
       "region": "international",
       "tags": [
-        "#UKEconomy",
-        "#MiddleEastWar",
-        "#Inflation"
+        "#NuclearEnergy",
+        "#AIDataCenters",
+        "#USDepartmentOfEnergy"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/dc17f2bfc8f0122841d11d44766667531a3c7001/479_90_4680_3746/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20fe5d1e0f06a8b87ffebb8e2491c116",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
       "image_caption": null,
-      "published_at": "2026-10-28T14:57:29+00:00",
+      "published_at": "2026-10-28T15:53:21+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6633,
+      "rank_score": 0.6358,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
-          "title": "UK growth forecast for 2027 slashed despite Healey’s budget measures",
-          "snippet": "UK growth forecast for 2027 slashed despite Healey’s budget measures"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+          "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+          "snippet": "Trump DOE loans $5B to nuclear plants that will power data centers"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মধ্যপ্রাচ্য যুদ্ধের জেরে ব্রিটেনের অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমাল অফিস ফর বাজেট রেসপন্সিবিলিটি",
-        "title_en": "UK Growth Forecast Slashes Amid Middle East Conflict Fallout and Rising Inflation",
-        "summary_bn": "মধ্যপ্রাচ্য যুদ্ধের কারণে জীবনযাত্রার ব্যয় বেড়ে যাওয়ায় ব্রিটেন তার দীর্ঘমেয়াদি অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমিয়েছে।",
-        "summary_en": "Britain cuts its economic growth forecast as the Middle East conflict triggers a fresh cost of living crisis.",
+        "title_bn": "পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র",
+        "title_en": "US Department of Energy Grants Five Billion Dollar Loan to Nuclear Plants",
+        "summary_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র।",
+        "summary_en": "The United States is providing a five billion dollar loan to expand nuclear power capacity powering AI data centers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "tech_innovation",
+          "climate_environment",
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T14:57:29+00:00",
-        "lead_bn": "মধ্যপ্রাচ্য যুদ্ধের কারণে জীবনযাত্রার ব্যয় বেড়ে যাওয়ায় ব্রিটেন তার দীর্ঘমেয়াদি অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমিয়েছে।",
-        "lead_en": "Britain cuts its economic growth forecast as the Middle East conflict triggers a fresh cost of living crisis.",
+        "published_at": "2026-10-28T15:53:21+00:00",
+        "lead_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র।",
+        "lead_en": "The United States is providing a five billion dollar loan to expand nuclear power capacity powering AI data centers.",
         "bullets_bn": [
-          "মধ্যপ্রাচ্য যুদ্ধ এবং মূল্যস্ফীতির কারণে বাজেট ঘোষণাকালে অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস ছাঁটাই করেছে স্বতন্ত্র পূর্বাভাসকারী সংস্থা।",
-          "যুক্তরাজ্যের মুদ্রাস্ফীতি প্রায় ৪ শতাংশে পৌঁছাতে পারে এবং ঋণ পরিশোধের খরচ বাবদ অতিরিক্ত ১৪ বিলিয়ন পাউন্ড ব্যয় হচ্ছে।",
-          "চ্যান্সেলর জন হিলি শক্তি খাতের খরচ মেটাতে ব্যাংকগুলোর ওপর সাময়িক কর বৃদ্ধির ঘোষণা দিয়েছেন।"
+          "যুক্তরাষ্ট্রের জ্বালানি বিভাগ কনস্টেলেশন এনার্জিকে আটটি পারমাণবিক বিদ্যুৎ কেন্দ্রের সক্ষমতা বাড়াতে পাঁচ বিলিয়ন ডলার ঋণ প্রদান করছে।",
+          "প্রকল্পটির মাধ্যমে এক দশমিক এক গিগাওয়াট অতিরিক্ত বিদ্যুৎ উৎপাদন হবে যার বড় অংশ গুগল, মেটা এবং আমাজন কিনে নিয়েছে।",
+          "উন্নত ইউরেনিয়াম এবং যন্ত্রাংশ আধুনিকায়নের মাধ্যমে এগারোটি বিদ্যমান চুল্লির উৎপাদন ক্ষমতা বাড়ানো হবে।"
         ],
         "bullets_en": [
-          "The independent forecaster slashed growth forecasts during the budget announcement due to the Middle East conflict and inflation.",
-          "UK inflation is poised to near 4 percent while the government spends 14 billion pounds extra on debt interest.",
-          "The chancellor announced a temporary tax rise on banks to fund household and business energy support measures."
+          "The US Department of Energy is providing Constellation Energy five billion dollars in loans to expand eight power plants.",
+          "The expansion adds 1.1 gigawatts of capacity, with major tech firms like Google, Meta, and Amazon purchasing the power.",
+          "Constellation plans to uprate 11 existing reactors using enriched uranium and upgraded equipment to handle increased power levels."
         ],
-        "impact_bn": "যুক্তরাজ্যে বসবাসরত নাগরিকদের জন্য জীবনযাত্রার ব্যয় এবং জ্বালানি খরচ উল্লেখযোগ্যভাবে বৃদ্ধি পাবে।",
-        "impact_en": "Ordinary citizens face increased cost of living pressures and higher energy expenses amid economic slowdown.",
-        "details_bn": "যুক্তরাজ্যের অর্থনীতি মধ্যপ্রাচ্যের চলমান সংঘাতের কারণে বড় ধরনের ধাক্কা খেয়েছে। এর ফলে ক্রমবর্ধমান মূল্যস্ফীতি এবং সরকারি ঋণ পরিশোধের চাপ তৈরি হয়েছে, যা দেশটির সামগ্রিক আর্থিক ব্যবস্থাপনাকে চ্যালেঞ্জের মুখে ফেলছে।",
-        "details_en": "The UK economy has faced severe pressure from the ongoing Middle East conflict, leading to soaring energy costs and increased debt interest payments. Despite initial resilience driven by AI investments, the independent forecaster downgraded future growth as global market fallouts intensify cost of living pressures."
-      }
-    },
-    {
-      "story_id": "7a0dff33-8144-5cb8-9d50-344d47bb25bc",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "climate_environment",
-        "world_diplomacy",
-        "tech_innovation"
-      ],
-      "region": "international",
-      "tags": [
-        "#UKBudget",
-        "#EnergyBills"
-      ],
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
-      "image_caption": null,
-      "published_at": "2026-10-28T14:55:13+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6479,
-      "sources": [
-        {
-          "name": "CNBC Global Economy",
-          "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-          "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-          "snippet": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাজ্যের নতুন বাজেটে জ্বালানি বিল হ্রাস ও কর ছাড় ঘোষণা",
-        "title_en": "UK Cuts Energy Bills and Taxes Banks in New Budget",
-        "summary_bn": "যুক্তরাজ্যের অর্থমন্ত্রী জীবনযাত্রার ব্যয় কমাতে প্রতিরক্ষা খাতে তহবিল বরাদ্দ এবং জ্বালানি বিলে ছাড় দিয়ে নতুন বাজেট পেশ করেছেন।",
-        "summary_en": "The UK finance minister has delivered a new fiscal budget focusing on defense funding and cost-of-living relief measures.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "climate_environment",
-          "world_diplomacy",
-          "tech_innovation"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T14:55:13+00:00",
-        "lead_bn": "যুক্তরাজ্যের অর্থমন্ত্রী জীবনযাত্রার ব্যয় কমাতে প্রতিরক্ষা খাতে তহবিল বরাদ্দ এবং জ্বালানি বিলে ছাড় দিয়ে নতুন বাজেট পেশ করেছেন।",
-        "lead_en": "The UK finance minister has delivered a new fiscal budget focusing on defense funding and cost-of-living relief measures.",
-        "bullets_bn": [
-          "জ্বালানি খরচ কমাতে গ্যাসের স্থায়ী চার্জ বাতিল এবং বিদ্যুতের কর ছাড় জুলাই দুই হাজার সাতাশ সাল পর্যন্ত বাড়ানো হয়েছে",
-          "নিম্ন আয়ের গৃহগুলোর জন্য একশ পাউন্ড বা একশ তেত্রিশ ডলারের চেক দেওয়া হবে যার মোট ব্যয় দুই দশমিক ছয় বিলিয়ন পাউন্ড",
-          "সামাজিক বিভিন্ন খাতের পাশাপাশি ছোট ব্যবসার জন্য কর মওকুফের সুবিধা সম্প্রসারণ করা হয়েছে"
-        ],
-        "bullets_en": [
-          "Standing charges on household gas heating bills are removed and electricity tax breaks extended through July 2027.",
-          "Households in the four lowest local housing tax bands will receive one hundred pound checks costing a total of two point six billion pounds.",
-          "Business rate reliefs are extended to include more companies in the hospitality, retail and leisure sectors."
-        ],
-        "impact_bn": "সাধারণ পরিবারগুলো জ্বালানি বিল ও মুদি পণ্যের ওপর ছাড়ের সুফল পাবে এবং নিম্ন আয়ের মানুষ আর্থিক সহায়তা পাবে।",
-        "impact_en": "Ordinary households will benefit from reduced energy bills and grocery tax removals, providing relief from inflation pressures.",
-        "details_bn": "যুক্তরাজ্যে ক্রমবর্ধমান মূল্যস্ফীতি ও জ্বালানি সংকটের প্রেক্ষাপটে এই বাজেট ঘোষণা করা হয়েছে। জ্বালানির চড়া দাম এবং বৈশ্বিক ভূরাজনীতির প্রভাবে দেশটির অর্থনীতি ও সাধারণ মানুষের ওপর তৈরি হওয়া চাপ কমাতে এই উদ্যোগ নেওয়া হয়েছে।",
-        "details_en": "The fiscal budget was introduced against the backdrop of surging fuel costs and rising inflation reaching three point five percent in September. As a net energy importer vulnerable to external shocks, the UK government aimed to ease cost-of-living pressures for its population while maintaining market confidence."
+        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা খাতের জন্য প্রচুর বিদ্যুৎ বরাদ্দ হওয়ায় তা সাধারণ গৃহস্থালি গ্রাহকদের বিদ্যুতের দাম কমাতে কোনো ভূমিকা রাখবে না।",
+        "impact_en": "The massive diversion of nuclear energy to power AI data centers provides no evidence of lowering electricity prices for ordinary residential consumers.",
+        "details_bn": "কৃত্রিম বুদ্ধিমত্তার ডেটা সেন্টারের অবিশ্বাস্য বিদ্যুৎ চাহিদা মেটাতে প্রযুক্তি জায়ান্টরা বিকল্প জ্বালানি উৎসের সন্ধান করছে। গুগল, আমাজন এবং মেটার মতো শীর্ষস্থানীয় প্রতিষ্ঠানগুলো তাদের এআই অবকাঠামো নিরবচ্ছিন্ন রাখতে পরমাণু শক্তির ওপর বড় অংকের বিনিয়োগ বাড়াচ্ছে। এই প্রেক্ষাপটে মার্কিন জ্বালানি বিভাগ কনস্টেলেশন এনার্জিকে ঋণ সহায়তার উদ্যোগ নিয়েছে, যা প্রযুক্তি শিল্পের শক্তির সংকট মোকাবেলায় একটি বড় পদক্ষেপ হিসেবে বিবেচিত হচ্ছে।",
+        "details_en": "Major tech giants including Google, Amazon, and Meta have been scrambling for additional electrical capacity to support their rapidly expanding AI data centers. Tech companies are committing tens of billions of dollars to secure reliable energy sources as a competitive advantage. This government loan aims to boost nuclear generation capacity across eight power plants located in Illinois, Maryland, and Pennsylvania to feed the surging energy demands of the tech sector."
       }
     }
   ]
