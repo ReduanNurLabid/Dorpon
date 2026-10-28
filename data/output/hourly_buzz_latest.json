@@ -1,182 +1,12 @@
 {
-  "updated_at": "2026-10-28T12:03:34.940795",
+  "updated_at": "2026-10-28T13:00:50.407912",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "47205b84-1aa3-5007-831e-657afc49e82e",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T12:02:33+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.9225,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1173000",
-          "title": "ইরানে নতুন করে সামরিক হামলা হলে বিশ্ববাজারে ভয়াবহ প্রভাব পড়বে",
-          "snippet": "ইরানে নতুন করে সামরিক হামলা হলে বিশ্ববাজারে ভয়াবহ প্রভাব পড়বে"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইরানে নতুন সামরিক হামলা বিশ্ববাজারে ভয়াবহ সংকট তৈরি করবে",
-        "title_en": "New Military Attack on Iran Will Create Severe Global Market Crisis",
-        "summary_bn": "ইরানের ওপর নতুন সামরিক হামলা বিশ্ববাজারে ভয়াবহ অর্থনৈতিক প্রভাব ফেলবে বলে হুঁশিয়ারি দিয়েছেন দেশটির পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-        "summary_en": "Iranian Foreign Minister Abbas Araghchi warned that any new military strike on Iran would severely impact global markets.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T12:02:33+00:00",
-        "lead_bn": "ইরানের ওপর নতুন সামরিক হামলা বিশ্ববাজারে ভয়াবহ অর্থনৈতিক প্রভাব ফেলবে বলে হুঁশিয়ারি দিয়েছেন দেশটির পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
-        "lead_en": "Iranian Foreign Minister Abbas Araghchi warned that any new military strike on Iran would severely impact global markets.",
-        "bullets_bn": [
-          "ইসরায়েলি উসকানির মুখে ইরানে নতুন সামরিক হামলার পরিণতি নিয়ে গভীর উদ্বেগ প্রকাশ করা হয়েছে।",
-          "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি বিশ্ববাজারে সম্ভাব্য ভয়াবহ প্রভাবের বিষয়ে এই সতর্কবার্তা উচ্চারণ করেন।",
-          "মধ্যপ্রাচ্যের এই উত্তেজনা আন্তর্জাতিক জ্বালানি ও পণ্য সরবরাহ শৃঙ্খলে বড় ধরনের ধাক্কা দিতে পারে।"
-        ],
-        "bullets_en": [
-          "Deep concern was expressed regarding the consequences of new military aggression against Iran amid Israeli instigation.",
-          "Iranian Foreign Minister Abbas Araghchi issued the warning regarding potential catastrophic impacts on global markets.",
-          "Middle Eastern tensions threaten to deliver a major shock to international energy and commodity supply chains."
-        ],
-        "impact_bn": "মধ্যপ্রাচ্যে যুদ্ধ ছড়িয়ে পড়লে বিশ্ববাজারে জ্বালানি তেলের দাম বেড়ে সাধারণ মানুষের জীবনযাত্রার ব্যয় বৃদ্ধি পাবে।",
-        "impact_en": "Escalating conflict in the Middle East could drive up global fuel prices, increasing the cost of living for ordinary citizens.",
-        "details_bn": "মধ্যপ্রাচ্যে চলমান ভূরাজনৈতিক উত্তেজনার মধ্যেই ইরান ও ইসরায়েলের মধ্যে সংঘাত তীব্র আকার ধারণ করেছে। ইসরায়েলি উসকানি এবং এর জবাবে ইরানের সম্ভাব্য প্রতিক্রিয়া বিশ্ব অর্থনীতিতে বড় ধরনের অস্থিরতা সৃষ্টির আশঙ্কা তৈরি করেছে। তেল সমৃদ্ধ এই অঞ্চলে যেকোনো সামরিক সংঘাত আন্তর্জাতিক বাণিজ্যে মারাত্মক নেতিবাচক প্রভাব ফেলে।",
-        "details_en": "Geopolitical tensions in the Middle East have intensified following escalating conflict between Iran and Israel. Israeli provocations and Iran's potential responses raise fears of major global economic instability. Any military conflict in this oil-rich region severely disrupts international trade and energy supplies."
-      }
-    },
-    {
-      "story_id": "e20e1b00-9e88-5a37-98af-a17e6c4c8176",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/PM-Tarique-4.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-28T11:24:41+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 1.8568,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/prime-minister-calls-for-japanese-investment-in-5-priority-sectors-in-bangladesh/",
-          "title": "বাংলাদেশের ৫ অগ্রাধিকার খাতে জাপানি বিনিয়োগের আহ্বান প্রধানমন্ত্রীর",
-          "snippet": "বাংলাদেশের ৫ অগ্রাধিকার খাতে জাপানি বিনিয়োগের আহ্বান প্রধানমন্ত্রীর"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বাংলাদেশের পাঁচ অগ্রাধিকার খাতে জাপানি বিনিয়োগের আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "Prime Minister Urges Japanese Investment in Five Priority Sectors",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে বাংলাদেশ-জাপান অর্থনৈতিক ফোরাম সংলাপে দেশের পাঁচটি অগ্রাধিকার খাতে বিনিয়োগ করার জন্য জাপানি কোম্পানিগুলোর প্রতি আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors during the Bangladesh-Japan Economic Forum dialogue in Tokyo.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T11:24:41+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান টোকিওতে বাংলাদেশ-জাপান অর্থনৈতিক ফোরাম সংলাপে দেশের পাঁচটি অগ্রাধিকার খাতে বিনিয়োগ করার জন্য জাপানি কোম্পানিগুলোর প্রতি আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors during the Bangladesh-Japan Economic Forum dialogue in Tokyo.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী মোটরযান উৎপাদন, জ্বালানি, প্রযুক্তি ও মহাকাশ, রেলপথ ও সরবরাহ এবং কৃষিপণ্য প্রক্রিয়াজাতকরণ খাতে বিনিয়োগের আহ্বান জানান।",
-          "বর্তমানে বাংলাদেশে প্রায় ৩৫০টি জাপানি কোম্পানি কাজ করছে এবং জাপানের প্রত্যক্ষ বিনিয়োগের পরিমাণ ৫০ কোটি ডলারের কম।",
-          "উন্নয়ন সহযোগিতার গণ্ডি পেরিয়ে দুদেশের বাণিজ্য ও বিনিয়োগ সম্পর্ক আরও উচ্চতর পর্যায়ে নিয়ে যাওয়ার পরিকল্পনা রয়েছে।"
-        ],
-        "bullets_en": [
-          "The Prime Minister urged investments in motor vehicle manufacturing, energy, tech and aerospace, rail logistics, and agro-processing.",
-          "Currently, about 350 Japanese companies operate in Bangladesh with direct foreign investment remaining below 500 million USD.",
-          "Bilateral relations aim to transition beyond traditional development cooperation into expanded trade and deep investment partnerships."
-        ],
-        "impact_bn": "বর্ধিত বিদেশি বিনিয়োগ বাস্তবায়িত হলে কর্মসংস্থান সৃষ্টি এবং দেশের শিল্প খাতের দ্রুত বিকাশ ঘটবে।",
-        "impact_en": "Increased foreign investment will generate domestic employment and accelerate industrial sector growth.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যকার দ্বিপক্ষীয় অর্থনৈতিক সম্পর্ক দীর্ঘদিনের উন্নয়ন সহযোগিতার ওপর প্রতিষ্ঠিত। তবে বর্তমান বাণিজ্য ঘাটতি ও তুলনামূলক কম প্রত্যক্ষ বিনিয়োগের প্রেক্ষাপটে বাণিজ্য সম্প্রসারণের প্রয়োজনীয়তা দেখা দিয়েছে। উভয় দেশই এখন কেবল সাহায্য বা ঋণ নয়, বরং দীর্ঘমেয়াদি অংশীদারিত্ব ও বাণিজ্যের পরিধি বাড়াতে জোর দিচ্ছে। সাম্প্রতিক এই সংলাপের মাধ্যমে দুই দেশের ব্যবসায়িক সম্পর্ক আরও দৃঢ় হওয়ার নতুন দিগন্ত উন্মোচিত হয়েছে।",
-        "details_en": "Economic ties between Bangladesh and Japan have traditionally been anchored in development assistance. However, given the existing trade deficit and relatively low direct investment figures, both nations are emphasizing expanded commercial partnerships. This recent dialogue in Tokyo marks a strategic push to transform traditional aid cooperation into a robust long-term trade and investment alliance spanning multiple industrial sectors."
-      }
-    },
-    {
-      "story_id": "fb63dc8a-95af-5aff-880f-62b3faa02525",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.channelionline.com/2026/10/Untitled-66.jpg?w=1200",
-      "image_caption": null,
-      "published_at": "2026-10-28T11:48:46+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6715,
-      "sources": [
-        {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/stirrings-of-conscience-pakistani-judge-resigns/",
-          "title": "‘বিবেকের তাড়না’য় পদত্যাগ করলেন পাকিস্তানি বিচারপতি",
-          "snippet": "‘বিবেকের তাড়না’য় পদত্যাগ করলেন পাকিস্তানি বিচারপতি"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "বিচার বিভাগের স্বাধীনতার প্রশ্ন তুলে পদত্যাগ করলেন পাকিস্তানি বিচারপতি",
-        "title_en": "Pakistani Judge Resigns Citing Judicial Independence Concerns",
-        "summary_bn": "পাকিস্তানের লাহোর হাইকোর্টের বিচারপতি মোহসিন আখতার কায়ানি বিচার বিভাগের স্বাধীনতা ক্ষুণ্ণ হওয়ার অভিযোগ এনে পদত্যাগ করেছেন।",
-        "summary_en": "Lahore High Court Justice Mohsin Akhtar Kayani has resigned, alleging a compromise on judicial independence in Pakistan.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T11:48:46+00:00",
-        "lead_bn": "পাকিস্তানের লাহোর হাইকোর্টের বিচারপতি মোহসিন আখতার কায়ানি বিচার বিভাগের স্বাধীনতা ক্ষুণ্ণ হওয়ার অভিযোগ এনে পদত্যাগ করেছেন।",
-        "lead_en": "Lahore High Court Justice Mohsin Akhtar Kayani has resigned, alleging a compromise on judicial independence in Pakistan.",
-        "bullets_bn": [
-          "বিচার বিভাগের ওপর নির্বাহী বিভাগের নিয়ন্ত্রণ ও বিচারকদের বদলিতে হস্তক্ষেপের অভিযোগ এনে মোহসিন আখতার কায়ানি পদত্যাগপত্র জমা দেন।",
-          "পদত্যাগপত্রে তিনি বিচারিক জীবনে ২৩ হাজারের বেশি মামলা নিষ্পত্তি এবং সংবিধান সমুন্নত রাখার কথা উল্লেখ করেন।",
-          "পদত্যাগের পর তিনি পুনরায় আইন পেশায় ফিরে গিয়ে সাধারণ মানুষের অধিকার রক্ষায় কাজ করার ঘোষণা দিয়েছেন।"
-        ],
-        "bullets_en": [
-          "Justice Mohsin Akhtar Kayani resigned by citing executive control over the judiciary and interference in judicial transfers.",
-          "He noted resolving over twenty-three thousand cases during his judicial career while trying to uphold the constitution.",
-          "Following his resignation, he announced plans to return to legal practice and work to protect public rights."
-        ],
-        "impact_bn": "বিচার বিভাগের স্বাধীনতা নিয়ে এই পদত্যাগ বিচারপ্রার্থী সাধারণ মানুষের মধ্যে বিচারব্যবস্থার নিরপেক্ষতা নিয়ে নতুন শঙ্কা তৈরি করেছে।",
-        "impact_en": "This high-profile resignation raises serious concerns among citizens regarding the fairness and independence of the judicial system.",
-        "details_bn": "পাকিস্তানের ২৬তম ও ২৭তম সংবিধান সংশোধনীর মাধ্যমে বিচার বিভাগের ওপর নির্বাহী বিভাগের নিয়ন্ত্রণ বৃদ্ধি পায় এবং বিচারক বদলি নিয়ে বিতর্ক তৈরি হয়। ইসলামাবাদ হাইকোর্টের জ্যেষ্ঠ বিচারপতি থাকা অবস্থায় প্রধান বিচারপতি হওয়ার সম্ভাবনা থাকলেও লাহোর হাইকোর্ট থেকে বিচারক স্থানান্তরের ঘটনায় এই দ্বন্দ্বের সূত্রপাত ঘটে। বিচার ব্যবস্থার নিরপেক্ষতা নিয়ে প্রশ্ন তুলে শেষ পর্যন্ত পদত্যাগের সিদ্ধান্ত নেন বিচারপতি মোহসিন আখতার কায়ানি।",
-        "details_en": "Recent 26th and 27th constitutional amendments in Pakistan increased executive control over the judiciary and sparked transfer controversies. Justice Mohsin Akhtar Kayani, previously a senior judge in the Islamabad High Court, faced disputes surrounding judicial reassignments before choosing to step down over institutional integrity concerns."
-      }
-    },
-    {
-      "story_id": "e419ecf5-44f9-57b6-bab9-9b2e899f4168",
+      "story_id": "6374c80f-12fe-561a-a44f-79962a0bd5bd",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -185,159 +15,341 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T12:02:20+00:00",
+      "published_at": "2026-10-28T12:56:19+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.959,
+      "importance_score": 4.8,
+      "rank_score": 1.8501,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/law-courts/news/1172999",
-          "title": "জয়-পুতুলসহ আটজনের মামলায় সিআরআইয়ের আয়কর নথি জব্দের আদেশ",
-          "snippet": "জয়-পুতুলসহ আটজনের মামলায় সিআরআইয়ের আয়কর নথি জব্দের আদেশ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/977325/%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A7%9F-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A6%9A%E0%A6%BF%E0%A6%AC-%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%95%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%A8",
+          "title": "রাস্তায় হামলার শিকার সাবেক সচিব, মার খেয়ে করলেন মামলা",
+          "snippet": "রাস্তায় হামলার শিকার সাবেক সচিব, মার খেয়ে করলেন মামলা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সিআরআইয়ের আয়কর নথি জব্দের নির্দেশ আদালতের",
-        "title_en": "Court Orders Seizure of Income Tax Documents of CRI",
-        "summary_bn": "দুর্নীতি দমন কমিশনের করা মামলার তদন্তের অংশ হিসেবে সেন্টার ফর রিসার্চ অ্যান্ড ইনফরমেশনের আয়কর নথি জব্দের নির্দেশ দিয়েছেন আদালত।",
-        "summary_en": "A court has ordered the seizure of income tax documents of the Centre for Research and Information amid an anti-corruption investigation.",
+        "title_bn": "মাগুরায় রাস্তা অবরুদ্ধ করার প্রতিবাদের জেরে সাবেক সচিবের ওপর হামলা",
+        "title_en": "Former Secretary Attacked in Magura Following Dispute Over Blocked Road",
+        "summary_bn": "মাগুরায় রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় অবসরপ্রাপ্ত সচিব আবুল খায়ের ও তার গাড়িচালক হামলার শিকার হয়েছেন।",
+        "summary_en": "Retired secretary Abul Khair and his driver were assaulted in Magura after protesting a motorcycle blocking the road.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T12:56:19+00:00",
+        "lead_bn": "মাগুরায় রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় অবসরপ্রাপ্ত সচিব আবুল খায়ের ও তার গাড়িচালক হামলার শিকার হয়েছেন।",
+        "lead_en": "Retired secretary Abul Khair and his driver were assaulted in Magura after protesting a motorcycle blocking the road.",
+        "bullets_bn": [
+          "রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় অবসরপ্রাপ্ত সচিব আবুল খায়েরের ওপর হামলা চালানো হয়।",
+          "হামলায় ভুক্তভোগী সাবেক সচিবের গাড়িচালক কামাল হোসেনও আহত হন।",
+          "এ ঘটনায় উন্মেষ নামের এক ব্যক্তিকে প্রধান আসামি করে মাগুরা সদর থানায় মামলা দায়ের করা হয়েছে।"
+        ],
+        "bullets_en": [
+          "Retired secretary Abul Khair was assaulted after objecting to a motorcycle parked blocking a road.",
+          "The victim's driver, Kamal Hossain, was also injured while trying to protect the former secretary.",
+          "A case has been filed at the Magura Sadar Police Station naming a person named Unmesh as the prime accused."
+        ],
+        "impact_bn": "এ ধরনের ঘটনা সাধারণ মানুষের নিরাপত্তা এবং সড়কে শৃঙ্খলা বজায় রাখার ক্ষেত্রে আইন প্রয়োগকারী সংস্থার কঠোর ভূমিকা নিশ্চিত করার প্রয়োজনীয়তা তুলে ধরে।",
+        "impact_en": "Such incidents highlight the urgent need for law enforcement to ensure public safety and street discipline for citizens.",
+        "details_bn": "মাগুরা শহরের কলেজপাড়া এলাকায় রাস্তা আটকে মোটরসাইকেল রাখার একটি তুচ্ছ ঘটনাকে কেন্দ্র করে এই হামলার সূত্রপাত হয়। কুষ্টিয়ার সাবেক জেলা প্রশাসক ও অবসরপ্রাপ্ত সচিব আবুল খায়ের নিজ বাড়ি যাওয়ার পথে এই অনাকাঙ্ক্ষিত পরিস্থিতির মুখোমুখি হন। এ সময় তাকে বাধা দেওয়া হলে এবং প্রতিবাদ করলে হামলাকারীরা চড়াও হয়। পরে ভুক্তভোগী নিজেই বাদী হয়ে থানায় মামলা করেন, যার ভিত্তিতে পুলিশ আইনগত ব্যবস্থা গ্রহণ শুরু করেছে।",
+        "details_en": "The assault originated from a trivial dispute in the College Para area of Magura town over a motorcycle blocking a thoroughfare. Retired secretary and former Kushtia deputy commissioner Abul Khair faced the obstruction while commuting. When protests were raised, the perpetrators attacked him and his driver. A formal police case has been registered by the victim, prompting law enforcement to initiate legal proceedings."
+      }
+    },
+    {
+      "story_id": "38aa0a17-fabc-5a01-acdb-294c83b601bb",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T12:46:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.6722,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1173020",
+          "title": "রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় সাবেক সচিবকে মারধর",
+          "snippet": "রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় সাবেক সচিবকে মারধর"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মাগুরায় রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় সাবেক সচিবকে মারধর",
+        "title_en": "Former Secretary Assaulted in Magura for Protesting Blocked Road",
+        "summary_bn": "মাগুরা শহরে রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় অবসরপ্রাপ্ত সচিব মো. আবুল কালাম াদকে মারধরের ঘটনা ঘটে।",
+        "summary_en": "Retired secretary Md Abul Kalam Azad was assaulted in Magura town for protesting a motorcycle blocking the road.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T12:46:13+00:00",
+        "lead_bn": "মাগুরা শহরে রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করায় অবসরপ্রাপ্ত সচিব মো. আবুল কালাম াদকে মারধরের ঘটনা ঘটে।",
+        "lead_en": "Retired secretary Md Abul Kalam Azad was assaulted in Magura town for protesting a motorcycle blocking the road.",
+        "bullets_bn": [
+          "রাস্তা অবরুদ্ধ করে রাখা মোটরসাইকেল সরিয়ে নেওয়ার অনুরোধ করলে সাবেক সচিবের ওপর হামলা চালানো হয়।",
+          "হামলার শিকার সাবেক সচিব কুষ্টিয়ার জেলা প্রশাসক হিসেবে দায়িত্ব পালন করেছিলেন।",
+          "ঘটনার পর এলাকায় আইনশৃঙ্খলা পরিস্থিতি ও নিরাপত্তা নিয়ে তীব্র প্রতিক্রিয়ার সৃষ্টি হয়।"
+        ],
+        "bullets_en": [
+          "The former secretary was attacked after requesting the removal of a motorcycle blocking the thoroughfare.",
+          "The victim previously served as the Deputy Commissioner of Kushtia district.",
+          "The incident triggered widespread concern over public safety and local law enforcement."
+        ],
+        "impact_bn": "সাধারণ নাগরিকদের নিরাপত্তা ও সড়কে বিশৃঙ্খলার বিরুদ্ধে প্রতিবাদ করার অধিকার নিয়ে নতুন করে প্রশ্ন তুলেছে এই ঘটনা।",
+        "impact_en": "This incident raises fresh concerns regarding public safety and the right of citizens to protest road blockages.",
+        "details_bn": "মাগুরা শহরে রাস্তা আটকে মোটরসাইকেল রাখার প্রতিবাদ করার জেরে সাবেক সচিব ও কুষ্টিয়ার সাবেক জেলা প্রশাসক মো. আবুল কালাম াদের ওপর হামলার ঘটনা ঘটে। দেশের বিভিন্ন স্থানে সাধারণ সড়ক দখল ও যাতায়াতে বিশৃঙ্খলা সৃষ্টির ঘটনায় আইনানুগ ব্যবস্থা নেওয়ার দাবি দীর্ঘদিনের। এই ধরনের ঘটনা নাগরিকদের নিরাপত্তা এবং প্রশাসনিক কর্মকর্তাদের সুরক্ষা নিয়ে নতুন আলোচনার জন্ম দিয়েছে।",
+        "details_en": "The assault on former secretary and ex-Kushtia DC Md Abul Kalam Azad occurred in Magura town following a dispute over a blocked road. Incidents of unauthorized road occupancy and public disorder have long sparked demands for stricter law enforcement. Such events highlight ongoing concerns regarding public safety and the protection of citizens."
+      }
+    },
+    {
+      "story_id": "ec64f950-4884-5bf7-82e0-8c3315b6d8b7",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business",
+        "climate_environment",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T12:55:24+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9163,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1173022",
+          "title": "গণবিক্ষোভ সফল করতে গুলিস্তানে এনসিপির গণসংযোগ",
+          "snippet": "গণবিক্ষোভ সফল করতে গুলিস্তানে এনসিপির গণসংযোগ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জাতীয় নাগরিক পার্টির গুলিস্তানে গণবিক্ষোভ সফল করার লক্ষ্যে গণসংযোগ ও লিফলেট বিতরণ",
+        "title_en": "National Citizen Party Conducts Mass Campaign in Gulistan to Succeed Protest",
+        "summary_bn": "জাতীয় নাগরিক পার্টি আইনশৃঙ্খলা অবনতি ও দ্রব্যমূল্য বৃদ্ধির প্রতিবাদে গুলিস্তানে গণসংযোগ কর্মসূচি পালন করেছে।",
+        "summary_en": "National Citizen Party conducted a mass outreach campaign in Gulistan protesting deteriorating law and order and rising commodity prices.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
-          "economy_business"
+          "economy_business",
+          "climate_environment",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T12:02:20+00:00",
-        "lead_bn": "দুর্নীতি দমন কমিশনের করা মামলার তদন্তের অংশ হিসেবে সেন্টার ফর রিসার্চ অ্যান্ড ইনফরমেশনের আয়কর নথি জব্দের নির্দেশ দিয়েছেন আদালত।",
-        "lead_en": "A court has ordered the seizure of income tax documents of the Centre for Research and Information amid an anti-corruption investigation.",
+        "published_at": "2026-10-28T12:55:24+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টি আইনশৃঙ্খলা অবনতি ও দ্রব্যমূল্য বৃদ্ধির প্রতিবাদে গুলিস্তানে গণসংযোগ কর্মসূচি পালন করেছে।",
+        "lead_en": "National Citizen Party conducted a mass outreach campaign in Gulistan protesting deteriorating law and order and rising commodity prices.",
         "bullets_bn": [
-          "আদালত সেন্টার ফর রিসার্চ অ্যান্ড ইনফরমেশনের আয়কর নথি জব্দের আদেশ দিয়েছেন",
-          "দুর্নীতি দমন কমিশনের করা মামলার তদন্তের অংশ হিসেবে এই নির্দেশ দেওয়া হয়",
-          "প্রতিষ্ঠানটির অনুদান, কর সুবিধা ও অর্থের লেনদেন খতিয়ে দেখা হচ্ছে"
+          "জাতীয় নাগরিক পার্টি রাজধানীর গুলিস্তান জিরো পয়েন্ট এলাকায় লিফলেট বিতরণ ও গণসংযোগ চালায়।",
+          "আইনশৃঙ্খলা অবনতি, জ্বালানি তেল ও নিত্যপণ্যের মূল্যবৃদ্ধি এবং দলীয়করণের প্রতিবাদে কর্মসূচি পালিত হয়।",
+          "আগামী ৩০ অক্টোবর নির্ধারিত গণবিক্ষোভ কর্মসূচি সফল করার আহ্বান জানানো হয়।"
         ],
         "bullets_en": [
-          "A court ordered the seizure of income tax documents belonging to the Centre for Research and Information",
-          "The directive was issued as part of an ongoing investigation initiated by the Anti-Corruption Commission",
-          "Authorities are currently probing the organization financial transactions and tax benefits"
+          "National Citizen Party distributed leaflets and conducted outreach at Gulistan Zero Point.",
+          "The campaign protested deteriorating law and order, fuel price hikes, soaring commodity prices, and partisanship.",
+          "Leaders urged people to make the upcoming mass protest scheduled for October 30 successful."
         ],
-        "impact_bn": "রাষ্ট্রীয় অনুদান ও তহবিল ব্যবস্থাপনায় স্বচ্ছতা নিশ্চিত করার এই পদক্ষেপে সাধারণ নাগরিকদের মধ্যে জবাবদিহিতার প্রত্যাশা বাড়ছে।",
-        "impact_en": "This regulatory scrutiny raises public expectations for transparency and financial accountability in institutional funding.",
-        "details_bn": "সেন্টার ফর রিসার্চ অ্যান্ড ইনফরমেশনের বিরুদ্ধে অনুদান গ্রহণ, কর সুবিধা এবং সন্দেহজনক আর্থিক লেনদেনের অভিযোগ ওঠে। এর পরিপ্রেক্ষিতে দুর্নীতি দমন কমিশন একটি মামলা দায়ের করে। মামলার তদন্ত এগিয়ে নিতে প্রতিষ্ঠানটির বিভিন্ন আর্থিক রেকর্ড ও আয়কর নথি জব্দের জন্য আদালতের কাছে আবেদন জানায় দুদক, যার পরিপ্রেক্ষিতে আদালত এই আদেশ দেন।",
-        "details_en": "Allegations regarding grants, tax benefits, and financial transactions led the Anti-Corruption Commission to file a case involving the Centre for Research and Information. To advance the investigation, investigators sought court permission to secure financial records and tax documents, prompting the judicial order for document seizure."
+        "impact_bn": "নিত্যপণ্যের মূল্যবৃদ্ধি ও আইনশৃঙ্খলা নিয়ে অসন্তুষ্ট সাধারণ মানুষ এই রাজনৈতিক কর্মসূচির প্রতি মনোযোগ দিচ্ছেন।",
+        "impact_en": "Ordinary citizens frustrated with inflation and security concerns are taking note of these escalating political demonstrations.",
+        "details_bn": "দেশের বিভিন্ন খাতের অবনতি ও রাজনৈতিক সংকটের প্রেক্ষাপটে বিভিন্ন দল ও প্ল্যাটফর্ম নানা কর্মসূচি পালন করছে। আইনশৃঙ্খলা পরিস্থিতির অবক্ষয়, জ্বালানি তেলের মূল্যবৃদ্ধি এবং নিত্যপ্রয়োজনীয় পণ্যের লাগামহীন ঊর্ধ্বগতির প্রতিবাদে সরব হয়েছে বিভিন্ন রাজনৈতিক শক্তি। এর ধারাবাহিকতায় জাতীয় নাগরিক পার্টি আগামী ৩০ অক্টোবর দেশব্যাপী গণবিক্ষোভের ডাক দিয়েছে এবং তা সফল করতে রাজধানীতে ধারাবাহিক গণসংযোগ চালাচ্ছে।",
+        "details_en": "Various political platforms and groups have intensified demonstrations amid growing concerns over governance, security, and economic pressures. Protests have mounted following steep hikes in fuel and essential commodity prices, alongside complaints of administrative partisanship. In response, the National Citizen Party announced a nationwide mass demonstration for October 30 and has rolled out street campaigns across the capital to mobilize public support."
       }
     },
     {
-      "story_id": "947ac3e7-31e4-5ec5-b712-0e59f0976fe6",
-      "primary_category": "economy_business",
+      "story_id": "1e3c2ad2-4c8b-5e6b-a59e-71099da97e8a",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T12:50:48+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.8745,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1173021",
+          "title": "ঘূর্ণিঝড় অর্ণবের প্রভাবে উত্তাল সাগর, জলোচ্ছ্বাসের আশঙ্কা",
+          "snippet": "ঘূর্ণিঝড় অর্ণবের প্রভাবে উত্তাল সাগর, জলোচ্ছ্বাসের আশঙ্কা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ঘূর্ণিঝড় অর্ণবের প্রভাবে উত্তাল সাগর এবং জলোচ্ছ্বাসের আশঙ্কা",
+        "title_en": "Cyclone Arnab Triggers Rough Seas and Coastal Surge Risks",
+        "summary_bn": "ঘূর্ণিঝড় অর্ণবের প্রভাবে ভারতের পশ্চিমবঙ্গের উপকূলীয় এলাকায় সমুদ্র উত্তাল হয়ে ওঠায় প্রশাসন সতর্কতা জারি করেছে।",
+        "summary_en": "Cyclone Arnab has rendered coastal seas rough in West Bengal, prompting authorities to issue strict safety alerts.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T12:50:48+00:00",
+        "lead_bn": "ঘূর্ণিঝড় অর্ণবের প্রভাবে ভারতের পশ্চিমবঙ্গের উপকূলীয় এলাকায় সমুদ্র উত্তাল হয়ে ওঠায় প্রশাসন সতর্কতা জারি করেছে।",
+        "lead_en": "Cyclone Arnab has rendered coastal seas rough in West Bengal, prompting authorities to issue strict safety alerts.",
+        "bullets_bn": [
+          "পশ্চিমবঙ্গ উপকূলে সমুদ্র উত্তাল হওয়ায় প্রশাসন বিশেষ সতর্কতা জারি করেছে",
+          "নিরাপত্তার স্বার্থে সমুদ্রে নামার ওপর কঠোর নিষেধাজ্ঞা আরোপ করা হয়েছে",
+          "ঝুঁকিপূর্ণ হওয়ায় সুন্দরবনের বেশ কিছু রুটে ফেরি চলাচল স্থগিত রাখা হয়েছে"
+        ],
+        "bullets_en": [
+          "Authorities issued coastal safety alerts as Cyclone Arnab triggered rough seas",
+          "Strict prohibitions were enforced preventing people from entering the sea",
+          "Ferry operations across several Sundarbans river routes were temporarily suspended"
+        ],
+        "impact_bn": "উপকূলীয় এলাকার সাধারণ মানুষ এবং পর্যটকদের যাতায়াত ও দৈনন্দিন কার্যক্রমে বিঘ্ন ঘটছে।",
+        "impact_en": "Coastal residents and tourists face disruptions in travel and daily routines due to safety restrictions.",
+        "details_bn": "বঙ্গোপসাগরে সৃষ্ট ঘূর্ণিঝড় অর্ণবের প্রভাবে উপকূলীয় অঞ্চলে আবহাওয়া পরিস্থিতির অবনতি হয়েছে। এর আগে আবহাওয়া অফিস থেকে সম্ভাব্য জলোচ্ছ্বাসের পূর্বাভাস দিয়ে সমুদ্রবন্দরগুলোতে দূরবর্তী সতর্কসংকেত দেখাতে বলা হয়েছিল। জননিরাপত্তা নিশ্চিত করতে স্থানীয় প্রশাসন ও দুর্যোগ ব্যবস্থাপনা দলগুলো উপকূলীয় এলাকায় তৎপর রয়েছে।",
+        "details_en": "The formation of Cyclone Arnab over the Bay of Bengal has led to deteriorating weather conditions across coastal zones. Earlier, meteorological offices advised maritime ports to hoist distant cautionary signals amid surge warnings. Local authorities and disaster response teams remain active in coastal districts to ensure public safety."
+      }
+    },
+    {
+      "story_id": "1c9f1468-5f96-5eb7-ad4e-d3766c7f0a7f",
+      "primary_category": "tech_innovation",
+      "interest_categories": [
+        "tech_innovation",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#TechCrunch",
+        "#StartupSummit",
+        "#TechInnovation"
+      ],
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "image_caption": null,
+      "published_at": "2026-10-28T13:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 3.4,
+      "rank_score": 1.3625,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+          "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+          "snippet": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "টেকক্রাঞ্চ ফাউন্ডার সামিট শুরু হতে সাত দিন বাকি",
+        "title_en": "TechCrunch Founder Summit Opens in Seven Days",
+        "summary_bn": "বোস্টনে আসন্ন টেকক্রাঞ্চ ফাউন্ডার সামিটের টিকিটে একশো ডলার পর্যন্ত ছাড় পেতে নিবন্ধনের সময় ফুরিয়ে আসছে।",
+        "summary_en": "Time is running out to save up to one hundred dollars on tickets for the upcoming TechCrunch Founder Summit in Boston.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "tech_innovation",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T13:00:00+00:00",
+        "lead_bn": "বোস্টনে আসন্ন টেকক্রাঞ্চ ফাউন্ডার সামিটের টিকিটে একশো ডলার পর্যন্ত ছাড় পেতে নিবন্ধনের সময় ফুরিয়ে আসছে।",
+        "lead_en": "Time is running out to save up to one hundred dollars on tickets for the upcoming TechCrunch Founder Summit in Boston.",
+        "bullets_bn": [
+          "আসন্ন টেকক্রাঞ্চ ফাউন্ডার সামিটে উদীয়মান উদ্যোক্তা ও বিনিয়োগকারীরা সরাসরি অভিজ্ঞতা বিনিময়ের সুযোগ পাবেন।",
+          "আগ্রহী অংশগ্রহণকারীরা দরজা খোলার আগে টিকিট ক্রয়ে একশো ডলার পর্যন্ত সাশ্রয় করতে পারবেন।",
+          "অনুষ্ঠানে ভিসি, এআই এবং এন্টারপ্রাইজ প্রযুক্তির ওপর দুটি প্রশ্নোত্তর মঞ্চ ও গোলটেবিল বৈঠক থাকবে।"
+        ],
+        "bullets_en": [
+          "The upcoming TechCrunch Founder Summit brings together early-stage entrepreneurs and investors for direct networking.",
+          "Interested participants can save up to one hundred dollars on ticket purchases before doors open.",
+          "The event features two Q and A stages and roundtable sessions focusing on venture capital, artificial intelligence, and startup growth."
+        ],
+        "impact_bn": "তরুণ উদ্যোক্তা ও স্টার্টআপ প্রতিষ্ঠাতায়েদের জন্য এটি কার্যকর ব্যবসায়িক কৌশল ও তহবিল সংগ্রহের সুযোগ তৈরি করবে।",
+        "impact_en": "It creates opportunities for young entrepreneurs and startup founders to acquire practical business strategies and funding insights.",
+        "details_bn": "টেকক্রাঞ্চ ফাউন্ডার সামিট মূলত নতুন উদ্যোক্তাদের বাস্তবভিত্তিক চ্যালেঞ্জ মোকাবেলায় সহায়তা করার জন্য আয়োজিত একটি দিনব্যাপী বুটক্যাম্প। এতে অভিজ্ঞ প্রতিষ্ঠাতা ও বিশেষজ্ঞরা অংশ নিয়ে ভেঞ্চার ক্যাপিটাল, এআই এবং স্কেলিং কৌশল নিয়ে আলোচনা করেন।",
+        "details_en": "The TechCrunch Founder Summit is a full-day bootcamp designed to help new entrepreneurs tackle real-world business challenges. Experienced founders and scaling experts gather to share practical insights on venture capital, artificial intelligence, and growth strategies."
+      }
+    },
+    {
+      "story_id": "9da29aa5-ee85-5300-b051-9f339dd2c90b",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
         "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#Inflation",
-        "#TariffRefunds"
+        "#RussiaAfricaSummit",
+        "#MoscowDiplomacy",
+        "#GlobalTrade"
       ],
-      "image_url": null,
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae182ff69ec-1793164031.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-28T10:21:00+00:00",
+      "published_at": "2026-10-28T11:33:26+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.25,
-      "rank_score": 0.772,
+      "rank_score": 0.8453,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
-          "title": "Four reasons to start worrying about inflation — including the end of tariff refunds",
-          "snippet": "Four reasons to start worrying about inflation — including the end of tariff refunds"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+          "title": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+          "snippet": "Russia-Africa Summit: What is on the agenda, and why does it matter?"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+          "title": "Russia in Africa: What is Putin hoping to achieve?",
+          "snippet": "Russia in Africa: What is Putin hoping to achieve?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "tariff refunds তুলে নেওয়ায় মুদ্রাস্ফীতি বাড়ার আশঙ্কা করছেন বিশ্লেষকরা",
-        "title_en": "Analysts Warn Rising Inflation Risks as Tariff Refunds End",
-        "summary_bn": "বিশ্লেষকরা সতর্ক করেছেন যে tariff refunds বন্ধ হওয়ার কারণে কোম্পানিগুলো খরচ ক্রেতাদের ওপর চাপিয়ে দেওয়ায় মুদ্রাস্ফীতি তীব্র হবে।",
-        "summary_en": "Analysts warn that ending tariff refunds will force companies to pass rising costs directly onto consumers, fueling inflation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:21:00+00:00",
-        "lead_bn": "বিশ্লেষকরা সতর্ক করেছেন যে tariff refunds বন্ধ হওয়ার কারণে কোম্পানিগুলো খরচ ক্রেতাদের ওপর চাপিয়ে দেওয়ায় মুদ্রাস্ফীতি তীব্র হবে।",
-        "lead_en": "Analysts warn that ending tariff refunds will force companies to pass rising costs directly onto consumers, fueling inflation.",
-        "bullets_bn": [
-          "কোম্পানিগুলো tariff refunds এর সুবিধা হারিয়ে বাড়তি খরচ সরাসরি ভোক্তাদের ওপর স্থানান্তর করছে।",
-          "Dennis DeBusschere এর মতে খরচ বৃদ্ধির এই প্রবণতা সামগ্রিক মুদ্রাস্ফীতিকে ত্বরান্বিত করবে।",
-          "ভোক্তাদের জন্য নিত্যপ্রয়োজনীয় জিনিসপত্র এবং অন্যান্য পণ্যের দাম বৃদ্ধির সম্ভাবনা তৈরি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Companies losing previous tariff refunds will increasingly pass higher operating costs directly to consumers.",
-          "Dennis DeBusschere highlights that shifting cost pressures will accelerate broader macroeconomic inflation risks.",
-          "Consumers face heightened risks of increased retail prices across essential goods and services soon."
-        ],
-        "impact_bn": "পণ্যের দাম বাড়ায় সাধারণ মানুষের মাসিক খরচ এবং জীবনযাত্রার ব্যয় আরও বেড়ে যাবে।",
-        "impact_en": "Higher retail prices will directly increase the monthly living expenses and financial pressure on ordinary consumers.",
-        "details_bn": "বিশ্বব্যাপী বাণিজ্য নীতি পরিবর্তন এবং সাপ্লাই চেইনের নানামুখী চাপের কারণে মুদ্রাস্ফীতি নতুন করে আলোচনার কেন্দ্রবিন্দুতে এসেছে। অতীতে অনেক ব্যবসা প্রতিষ্ঠান সরকারি tariff refunds বা শুল্ক ফেরতের মাধ্যমে উৎপাদন খরচ নিয়ন্ত্রণে রাখতে সক্ষম হতো। তবে এই সুবিধাগুলোর সমাপ্তি ঘটায় কর্পোরেট প্রতিষ্ঠানগুলো পণ্যের মূল্য বাড়িয়ে সেই ঘাটতি পুষিয়ে নেওয়ার কৌশল বেছে নিচ্ছে, যা সরাসরি সাধারণ ভোক্তাদের ক্রয়ক্ষমতার ওপর নেতিবাচক প্রভাব ফেলছে।",
-        "details_en": "Inflationary pressures have returned to the spotlight amid shifting global trade policies and supply chain challenges. Previously, corporations utilized tariff refunds to absorb production cost increases and shield profit margins. With these mechanisms phasing out, businesses are now transferring cost burdens onto retail buyers, directly impacting consumer purchasing power and market stability."
-      }
-    },
-    {
-      "story_id": "d1a17887-5f80-5273-8f8d-fb0e30fdb308",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#BrazilPolitics",
-        "#FlavioBolsonaro"
-      ],
-      "image_url": "https://i.guim.co.uk/img/media/2170987378178195956e67e41f488cab00065ef6/476_0_4961_3969/master/4961.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee63805c45fa7defd2a61c9187c9c639",
-      "image_caption": null,
-      "published_at": "2026-10-28T11:32:31+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.5107,
-      "sources": [
-        {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-          "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat",
-          "snippet": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ব্রাজিলের নির্বাচন পরাজয়ের পর মিয়ামিতে ফ্লাভিও বোলসোনারো",
-        "title_en": "Brazilian Senator Flavio Bolsonaro Flees to Miami After Election Defeat",
-        "summary_bn": "নির্বাচনে পরাজয়ের পর ব্রাজিলীয় সেনেটর ফ্লাভিও বোলসোনারো আর্জেন্টিনা ও ইকুয়েডর হয়ে মার্কিন যুক্তরাষ্ট্রে পালিয়ে গেছেন।",
-        "summary_en": "Brazilian senator Flávio Bolsonaro fled to the United States via Argentina and Ecuador following his election defeat.",
+        "title_bn": "মস্কোয় রাশিয়া-আফ্রিকা শীর্ষ সম্মেলনে বাণিজ্য ও নিরাপত্তা নিয়ে আলোচনা শুরু",
+        "title_en": "Russia and African Leaders Gather in Moscow for Trade and Security Summit",
+        "summary_bn": "মস্কোয় শুরু হওয়া দুই দিনের রাশিয়া-আফ্রিকা শীর্ষ সম্মেলনে বাণিজ্য, প্রতিরক্ষা এবং প্রযুক্তিগত দ্বিপক্ষীয় সহযোগিতা নিয়ে আলোচনা করছেন ৪৮টি দেশের প্রতিনিধিরা।",
+        "summary_en": "Delegates from 48 African countries gather in Moscow for a two-day summit to discuss bilateral cooperation in trade, defense, and technology.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "governance_law"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T11:32:31+00:00",
-        "lead_bn": "নির্বাচনে পরাজয়ের পর ব্রাজিলীয় সেনেটর ফ্লাভিও বোলসোনারো আর্জেন্টিনা ও ইকুয়েডর হয়ে মার্কিন যুক্তরাষ্ট্রে পালিয়ে গেছেন।",
-        "lead_en": "Brazilian senator Flávio Bolsonaro fled to the United States via Argentina and Ecuador following his election defeat.",
+        "published_at": "2026-10-28T11:33:26+00:00",
+        "lead_bn": "মস্কোয় শুরু হওয়া দুই দিনের রাশিয়া-আফ্রিকা শীর্ষ সম্মেলনে বাণিজ্য, প্রতিরক্ষা এবং প্রযুক্তিগত দ্বিপক্ষীয় সহযোগিতা নিয়ে আলোচনা করছেন ৪৮টি দেশের প্রতিনিধিরা।",
+        "lead_en": "Delegates from 48 African countries gather in Moscow for a two-day summit to discuss bilateral cooperation in trade, defense, and technology.",
         "bullets_bn": [
-          "সেনেটর ফ্লাভিও বোলসোনারো তার পরিবারসহ একটি ব্যক্তিগত বিমানে চড়ে ফ্লোরিডার মিয়ামির উদ্দেশ্যে যাত্রা করেন।",
-          "মার্কিন প্রেসিডেন্ট ট্রাম্প বোলসোনারো পরিবারকে দেশটিতে প্রবেশের ভিসা দেওয়ার পক্ষে অবস্থান নেন।",
-          "বোলসোনারোর এই দেশত্যাগকে লজ্জাজনক আখ্যা দিয়ে সমালোচনা করেন ব্রাজিলের বর্তমান নেতৃত্ব।"
+          "রাশিয়া এবং আফ্রিকান ইউনিয়নের যৌথ সভাপতিত্বে মস্কোয় শীর্ষ সম্মেলন অনুষ্ঠিত হচ্ছে",
+          "আফ্রিকার ৪৮টি দেশের রাষ্ট্রনেতা ও প্রতিনিধিরা এই দুই দিনের উচ্চপর্যায়ের বৈঠকে অংশ নিচ্ছেন",
+          "পশ্চিমা নিষেধাজ্ঞার মুখে আফ্রিকার দেশগুলোর সাথে বাণিজ্য ও নিরাপত্তা অংশীদারিত্ব বাড়াতে চায় রাশিয়া"
         ],
         "bullets_en": [
-          "Senator Flávio Bolsonaro departed for Miami, Florida, aboard a private jet accompanied by his wife and two daughters.",
-          "US leadership confirmed that visas would be granted to allow the senator and his family to enter the country.",
-          "Brazilian leaders strongly condemned the departure, criticizing federal authorities for failing to prevent his exit."
+          "The summit is co-chaired by Russian President Vladimir Putin and the current African Union chair in Moscow",
+          "Leaders and official delegations from 48 African countries are participating in the two-day high-level forum",
+          "Russia aims to expand trade and security partnerships with African nations amid ongoing Western sanctions"
         ],
         "impact_bn": "null",
         "impact_en": "null",
-        "details_bn": "নির্বাচনে হেরে যাওয়ার পর থেকেই জনসমক্ষ থেকে অদৃশ্য হয়ে যান ব্রাজিলের রাজনীতিক ফ্লাভিও বোলসোনারো। গোপন সূত্রে জানা যায়, তিনি দেশটির কেন্দ্রীয় পুলিশের চোখ ফাঁকি দিয়ে স্থলপথে আর্জেন্টিনায় প্রবেশ করেন এবং সেখান থেকে ইকুয়েডর হয়ে মার্কিন যুক্তরাষ্ট্রে পালিয়ে যান। এই আকস্মিক প্রস্থান ব্রাজিলের রাজনৈতিক মহলে তীব্র প্রতিক্রিয়া ও সমালোচনার জন্ম দিয়েছে।",
-        "details_en": "Following his election defeat, Brazilian senator Flávio Bolsonaro disappeared from public view for over 24 hours before crossing into Argentina by land. He then boarded a private aircraft to evade domestic airspace tracking, traveling through Ecuador toward Miami. The departure sparked sharp criticism of federal authorities in Brazil for failing to prevent his exit, while international reactions highlighted deepening political divisions."
+        "details_bn": "রাশিয়া ও আফ্রিকার মধ্যকার সম্পর্ক জোরদারের লক্ষ্যে এই শীর্ষ সম্মেলনের প্রথম আসর বসেছিল ২০১৯ সালে সোচিতে। ইউক্রেন যুদ্ধের পর পশ্চিমা নিষেধাজ্ঞার মুখোমুখি হওয়ার কারণে মস্কো এখন আফ্রিকার দেশগুলোর সাথে অর্থনৈতিক ও কৌশলগত সম্পর্ক উন্নয়নে বিশেষ গুরুত্ব দিচ্ছে। বর্তমান তৃতীয় আসরের মূল প্রতিপাদ্য হলো পারস্পরিক লাভজনক সহযোগিতা বিকাশ এবং প্রতিটি আফ্রিকান দেশের সম্ভাবনা উন্মোচন।",
+        "details_en": "The Russia-Africa Summit series began with its inaugural meeting in Sochi in October 2019, marking a major shift in bilateral relations. Facing intense Western sanctions over the war in Ukraine, Moscow has increasingly prioritized expanding its economic, security, and diplomatic footprint across the African continent. This third iteration focuses on developing mutually beneficial cooperation and unlocking the potential of participating African nations."
       }
     }
   ]
