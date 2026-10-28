@@ -1,7 +1,174 @@
 {
-  "updated_at": "2026-10-28T08:00:42.705883",
+  "updated_at": "2026-10-28T09:00:48.331277",
   "total_stories": 6,
   "stories": [
+    {
+      "story_id": "0fff3bb0-b4ff-5240-83f6-4b2b37be648d",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T08:55:52+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 2.5355,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1172883",
+          "title": "বিরোধীদলকে বাদ দিয়ে সংবিধান সংশোধনের চেষ্টা ফ্যাসিবাদের লক্ষণ",
+          "snippet": "বিরোধীদলকে বাদ দিয়ে সংবিধান সংশোধনের চেষ্টা ফ্যাসিবাদের লক্ষণ"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিরোধী দলকে বাদ দিয়ে সংবিধান সংস্কার কমিটি গঠন করায় সরকারের সমালোচনা",
+        "title_en": "Political Analyst Criticizes Formation of Constitution Reform Committee Without Opposition",
+        "summary_bn": "রাষ্ট্রবিজ্ঞানী দিলারা চৌধুরী বিরোধী দলগুলোর সাথে কোনো আলোচনা ছাড়াই সংবিধান সংস্কার কমিটি গঠনের কঠোর সমালোচনা করেছেন।",
+        "summary_en": "Political scientist Dilara Chowdhury strongly criticized the formation of the constitution reform committee without consulting opposition parties.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T08:55:52+00:00",
+        "lead_bn": "রাষ্ট্রবিজ্ঞানী দিলারা চৌধুরী বিরোধী দলগুলোর সাথে কোনো আলোচনা ছাড়াই সংবিধান সংস্কার কমিটি গঠনের কঠোর সমালোচনা করেছেন।",
+        "lead_en": "Political scientist Dilara Chowdhury strongly criticized the formation of the constitution reform committee without consulting opposition parties.",
+        "bullets_bn": [
+          "সরকার বিরোধী দলগুলোকে সম্পূর্ণ বাদ দিয়ে চৌদ্দ সদস্যের সংবিধান সংস্কার কমিটি গঠন করেছে।",
+          "রাজনৈতিক বিশ্লেষক দিলারা চৌধুরী একে ফ্যাসিবাদের লক্ষণ হিসেবে অভিহিত করেছেন।",
+          "সংস্কার প্রক্রিয়ায় রাজনৈতিক ঐকমত্য ছাড়া একতরফা সিদ্ধান্ত গ্রহণের তীব্র বিরূপ প্রতিক্রিয়া সৃষ্টি হয়েছে।"
+        ],
+        "bullets_en": [
+          "The government formed a fourteen-member constitution reform committee completely excluding opposition parties.",
+          "Political analyst Dilara Chowdhury termed the unilateral move as a sign of fascism.",
+          "The exclusion has sparked widespread debate over the inclusivity of the ongoing reform process."
+        ],
+        "impact_bn": "একতরফা সংস্কার প্রক্রিয়া দেশের রাজনৈতিক স্থিতিশীলতা ও গণতান্ত্রিক উত্তরণে দীর্ঘমেয়াদী অনিশ্চয়তা তৈরি করতে পারে।",
+        "impact_en": "Unilateral reform processes may create long-term uncertainty regarding political stability and democratic transition.",
+        "details_bn": "ছাত্র-জনতার অভ্যুত্থানে রাজনৈতিক পটপরিবর্তনের পর অন্তর্বর্তীকালীন সরকার রাষ্ট্র মেরামতের অংশ হিসেবে বিভিন্ন কমিশন ও কমিটি গঠন করে। এর ধারাবাহিকতায় গঠিত সংবিধান সংস্কার কমিটিতে বিরোধী মত ও দলগুলোকে অন্তর্ভুক্ত না করার অভিযোগ উঠেছে। বিশ্লেষকদের মতে, জাতীয় ঐকমত্য ছাড়া সংবিধানের মতো মৌলিক বিষয়ে সংস্কার টেকসই ও গ্রহণযোগ্য হওয়া কঠিন।",
+        "details_en": "Following the political shift in the student-led mass uprising, the interim government formed various commissions as part of state reform. Concerns arose when opposition groups were left out of the newly formed constitution reform committee. Analysts argue that reforming foundational laws without national consensus makes the changes less sustainable and acceptable."
+      }
+    },
+    {
+      "story_id": "845160da-cf53-5728-9677-72146b564c18",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#NationalAffairs"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T08:59:28+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9576,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/social-media/news/1172888",
+          "title": "‘তুমি যার লাগিয়া এমবি ভরো, তার তো বাটন ফোন’ গানটি আবার কেন ভাইরাল?",
+          "snippet": "‘তুমি যার লাগিয়া এমবি ভরো, তার তো বাটন ফোন’ গানটি আবার কেন ভাইরাল?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "কবির বিন সামাদের গান সামাজিক মাধ্যমে নতুন করে ভাইরাল",
+        "title_en": "Kobir Bin Samad song goes viral again on social media",
+        "summary_bn": "কবি বিন সামাদের তুমি যার লাগিয়া এমবি ভরো গানটির লাইন সামাজিক যোগাযোগমাধ্যমে মিম ও রিলসের মাধ্যমে নতুন করে ছড়িয়ে পড়েছে।",
+        "summary_en": "A line from Kobir Bin Samad song has resurfaced across social media platforms through memes, reels, and discussions.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "society_education",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T08:59:28+00:00",
+        "lead_bn": "কবি বিন সামাদের তুমি যার লাগিয়া এমবি ভরো গানটির লাইন সামাজিক যোগাযোগমাধ্যমে মিম ও রিলসের মাধ্যমে নতুন করে ছড়িয়ে পড়েছে।",
+        "lead_en": "A line from Kobir Bin Samad song has resurfaced across social media platforms through memes, reels, and discussions.",
+        "bullets_bn": [
+          "কবির বিন সামাদের লেখা তুমি যার লাগিয়া এমবি ভরো গানের একটি বিশেষ লাইন সামাজিক যোগাযোগমাধ্যমে আলোচনার কেন্দ্রবিন্দুতে রয়েছে।",
+          "ফেসবুক ব্যবহারকারীরা গানটির লাইন ব্যবহার করে বিভিন্ন ধরনের হাস্যরসাত্মক মিম ও রিলস তৈরি করছেন।",
+          "সামাজিক মাধ্যমে এই ট্রেন্ডের কারণে পুরনো এই গানটি তরুণ প্রজন্মের মাঝে নতুনভাবে পরিচিতি লাভ করেছে।"
+        ],
+        "bullets_en": [
+          "A specific line from Kobir Bin Samad song has become a major focal point on social media platforms.",
+          "Facebook users are creating various humorous memes and reels incorporating the lyrical phrase.",
+          "The ongoing social media trend has introduced the classic track to a new generation of youth."
+        ],
+        "impact_bn": "সামাজিক মাধ্যমে অনলাইন ট্রেন্ড ও বিনোদনের প্রতি তরুণদের সম্পৃক্ততা বৃদ্ধি পায়।",
+        "impact_en": "Online entertainment trends drive higher user engagement across digital platforms.",
+        "details_bn": "সামাজিক যোগাযোগমাধ্যমে বিভিন্ন সময় পুরনো গান, সংলাপ বা কবিতার লাইন ট্রেন্ড হিসেবে ফিরে আসে। কবির বিন সামাদের এই গানটি এর আগেও বিভিন্ন সময় নেটিজেনদের মাঝে আলোচনার সৃষ্টি করেছিল। বর্তমান ডিজিটাল যুগে মিউজিক ট্র্যাকিং ও রিলস কালচারের কারণে পুরনো শিল্পকর্ম খুব দ্রুত নতুনভাবে ছড়িয়ে পড়ার সুযোগ পাচ্ছে, যা ডিজিটাল সংস্কৃতিতে একটি নিয়মিত ঘটনায় পরিণত হয়েছে।",
+        "details_en": "Older songs, dialogues, and poetic lines frequently resurface as viral trends on social media platforms. This particular track by Kobir Bin Samad has previously sparked online conversations. In the current digital landscape driven by reels and short video culture, older artistic works rapidly gain renewed traction among digital audiences."
+      }
+    },
+    {
+      "story_id": "15f4304d-ebc2-59cc-b52b-76ccbed58e88",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T08:58:56+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9522,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172887",
+          "title": "ইসরায়েলের শেয়ারবাজারে বড় পতন, কমেছে মুদ্রার মান",
+          "snippet": "ইসরায়েলের শেয়ারবাজারে বড় পতন, কমেছে মুদ্রার মান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নির্বাচনী অনিশ্চয়তায় ইসরায়েলের শেয়ারবাজারে ধস এবং মুদ্রা শেকেলের পতন",
+        "title_en": "Israeli Stock Market Crashes and Currency Drops Amid Election Uncertainty",
+        "summary_bn": "নির্বাচনের প্রাথমিক ফলাফলে নতুন সরকার গঠন নিয়ে অনিশ্চয়তা দেখা দেওয়ায় ইসরায়েলের শেয়ারবাজারে বড় দরপতন ঘটেছে এবং মুদ্রার মান কমেছে।",
+        "summary_en": "Uncertainty surrounding the formation of a new government in initial election results has triggered a major slump in Israel's stock market.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T08:58:56+00:00",
+        "lead_bn": "নির্বাচনের প্রাথমিক ফলাফলে নতুন সরকার গঠন নিয়ে অনিশ্চয়তা দেখা দেওয়ায় ইসরায়েলের শেয়ারবাজারে বড় দরপতন ঘটেছে এবং মুদ্রার মান কমেছে।",
+        "lead_en": "Uncertainty surrounding the formation of a new government in initial election results has triggered a major slump in Israel's stock market.",
+        "bullets_bn": [
+          "প্রাথমিক নির্বাচনী ফলাফলে রাজনৈতিক অনিশ্চয়তা সৃষ্টি হওয়ায় ইসরায়েলের শেয়ারবাজারে বড় ধরনের দরপতন রেকর্ড করা হয়েছে।",
+          "শেয়ারবাজারের পতনের পাশাপাশি মার্কিন ডলারের বিপরীতে দেশটির মুদ্রা শেকেলের মূল্য উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
+          "রাজনৈতিক পরিস্থিতি স্থিতিশীল না হওয়া পর্যন্ত এই অর্থনৈতিক অস্থিরতা অব্যাহত থাকতে পারে বলে আশঙ্কা করা হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Political uncertainty arising from initial election results triggered a major downturn in Israel's stock market.",
+          "Alongside the stock market crash, the country's currency shekel weakened significantly against the US dollar.",
+          "This economic volatility is expected to persist until political stability is established."
+        ],
+        "impact_bn": "মুদ্রার মান কমে যাওয়ায় ইসরায়েলের সাধারণ ভোক্তাদের জন্য আমদানি ব্যয় এবং নিত্যপণ্যের দাম বাড়তে পারে।",
+        "impact_en": "The depreciation of the currency may increase import costs and everyday commodity prices for ordinary consumers in Israel.",
+        "details_bn": "ইসরায়েলে সাম্প্রতিক সাধারণ নির্বাচনের প্রাথমিক ফলাফল প্রকাশের পর কোনো একক দল বা জোটের পরিষ্কার সংখ্যাগরিষ্ঠতা নিয়ে সংশয় তৈরি হয়। রাজনৈতিক এই অচলাবস্থার কারণে দেশটির বিনিয়োগকারী ও ব্যবসায়িক মহলে নেতিবাচক প্রভাব পড়ে। এর ফলে শেয়ারবাজারে বিক্রির চাপ বৃদ্ধি পায় এবং বৈদেশিক মুদ্রার বাজারে শেকেলের দরপতন ঘটে। বিশ্লেষকরা মনে করছেন, স্থায়ী সরকার গঠিত না হওয়া পর্যন্ত বাজার এই চাপের মধ্যে থাকবে।",
+        "details_en": "Following the release of preliminary results in Israel's recent general election, doubts emerged over securing a clear majority for a single party or coalition. This political deadlock negatively impacted the country's investors and business community, increasing selling pressure in the stock market and driving down the shekel in foreign exchange markets. Analysts suggest the market will remain under pressure until a stable government is formed."
+      }
+    },
     {
       "story_id": "6e247a97-e1a8-590a-8114-948df041867a",
       "primary_category": "governance_law",
@@ -19,7 +186,7 @@
       "published_at": "2026-10-28T07:32:52+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4833,
+      "rank_score": 0.9521,
       "sources": [
         {
           "name": "Channel i",
@@ -31,8 +198,8 @@
       "daily_buzz": {
         "title_bn": "ঠাকুরগাঁও উপনির্বাচনের পরিবেশ নিয়ে প্রধান নির্বাচন কমিশনারের সাথে ১১ দলীয় জোটের বৈঠক",
         "title_en": "Eleven Party Alliance Meets Chief Election Commissioner Over Thakurgaon Polls Environment",
-        "summary_bn": "নির্বাচনী পরিবেশ নিয়ে অসন্তোষের মধ্যে প্রধান নির্বাচন কমিশনারের সাথে বৈঠক করেছে জামায়াতে ইসলামী নেতৃত্বাধীন ১১ দলীয় ঐক্য।",
-        "summary_en": "The Jamaat-e-Islami led eleven-party alliance met the Chief Election Commissioner amid discontent over the electoral environment.",
+        "summary_bn": "ঠাকুরগাঁও উপনির্বাচনের ভোট গ্রহণের আগের দিন নির্বাচন কমিশনের সাথে বৈঠক করেছে জামায়াত নেতৃত্বাধীন ১১ দলীয় ঐক্যজোট।",
+        "summary_en": "The Jamaat-led eleven-party alliance met the Election Commission to discuss the electoral environment ahead of the Thakurgaon by-election.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -41,314 +208,141 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T07:32:52+00:00",
-        "lead_bn": "নির্বাচনী পরিবেশ নিয়ে অসন্তোষের মধ্যে প্রধান নির্বাচন কমিশনারের সাথে বৈঠক করেছে জামায়াতে ইসলামী নেতৃত্বাধীন ১১ দলীয় ঐক্য।",
-        "lead_en": "The Jamaat-e-Islami led eleven-party alliance met the Chief Election Commissioner amid discontent over the electoral environment.",
+        "lead_bn": "ঠাকুরগাঁও উপনির্বাচনের ভোট গ্রহণের আগের দিন নির্বাচন কমিশনের সাথে বৈঠক করেছে জামায়াত নেতৃত্বাধীন ১১ দলীয় ঐক্যজোট।",
+        "lead_en": "The Jamaat-led eleven-party alliance met the Election Commission to discuss the electoral environment ahead of the Thakurgaon by-election.",
         "bullets_bn": [
-          "ঠাকুরগাঁও উপনির্বাচন ও স্থানীয় সরকার নির্বাচন নিয়ে প্রধান নির্বাচন কমিশনারের সাথে বৈঠক করেছে ১১ দলীয় জোট।",
-          "জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল ড. এ এইচ এম হামিদুর রহমান আযাদের নেতৃত্বে ১০ সদস্যের প্রতিনিধি দল বৈঠকে অংশ নেয়।",
-          "নির্বাচন কমিশনের কাছে সুষ্ঠু পরিবেশ নিশ্চিত করার বিষয়ে লিখিত সুপারিশ ও প্রস্তাব জমা দেয় জোটটি।"
+          "জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল ড. এ এইচ এম হামিদুর রহমান আযাদের নেতৃত্বে একটি প্রতিনিধি দল নির্বাচন ভবনে প্রধান নির্বাচন কমিশনারের সাথে বৈঠক করেন।",
+          "বৈঠকে ঠাকুরগাঁও-১ আসনের উপনির্বাচন এবং আসন্ন স্থানীয় সরকার নির্বাচন নিয়ে আলোচনা হয় ও লিখিত প্রস্তাব জমা দেওয়া হয়।",
+          "জোটের পক্ষ থেকে স্থানীয় সরকার নির্বাচনে সুষ্ঠু পরিবেশ নিশ্চিত করার বিষয়ে বিভিন্ন সুপারিশ তুলে ধরা হয়।"
         ],
         "bullets_en": [
-          "The eleven-party alliance held a meeting with the Chief Election Commissioner regarding the Thakurgaon by-election and local government polls.",
-          "A ten-member delegation participated in the meeting led by Jamaat-e-Islami Assistant Secretary General Dr. A H M Hamidur Rahman Azad.",
-          "The alliance submitted written proposals and recommendations to the election commission to ensure a fair electoral environment."
+          "A delegation led by Jamaat-e-Islami Assistant Secretary General Dr. A H M Hamidur Rahman Azad met the Chief Election Commissioner at the election building.",
+          "Discussions covered the Thakurgaon-1 by-election and upcoming local government elections, accompanied by a submitted written proposal.",
+          "The alliance presented various recommendations to ensure a fair environment for the upcoming local government elections."
         ],
-        "impact_bn": "নির্বাচনী ব্যবস্থার নিরপেক্ষতা ও স্বচ্ছতা নিশ্চিত হলে ভোটাররা তাদের ভোটাধিকার স্বাধীনভাবে প্রয়োগ করতে পারবেন।",
-        "impact_en": "Fairness and transparency in the electoral system will allow voters to exercise their franchise independently.",
-        "details_bn": "ঠাকুরগাঁও-১ আসনের উপনির্বাচনের আগের দিন ভোটের পরিবেশ নিয়ে অসন্তোষ প্রকাশ করে নির্বাচন কমিশনের সাথে বৈঠক করেছে জামায়াত নেতৃত্বাধীন ১১ দলীয় ঐক্য। জোটের পক্ষ থেকে আসন্ন স্থানীয় সরকার নির্বাচন নিরপেক্ষ করার দাবি জানানো হয় এবং ক্ষমতাসীন দলের বিরুদ্ধে নির্বাচনী অনিয়মের অভিযোগ তুলে লিখিত প্রস্তাব জমা দেওয়া হয়। নির্বাচন ভবনে অনুষ্ঠিত এই বৈঠকে প্রধান নির্বাচন কমিশনার ও অন্যান্য কমিশনারগণ উপস্থিত ছিলেন।",
-        "details_en": "The Jamaat-led eleven-party alliance met the election commission expressing discontent over the voting environment ahead of the Thakurgaon-1 by-election. The alliance demanded neutrality in upcoming local government elections and submitted written proposals alleging electoral irregularities by the ruling party. The meeting was held at the election building in the presence of the Chief Election Commissioner and other commissioners."
+        "impact_bn": "নির্বাচনী পরিবেশ নিয়ে রাজনৈতিক জোটের এই আলোচনা সাধারণ ভোটারদের মধ্যে অবাধ ও নিরপেক্ষ ভোটাধিকার নিয়ে আস্থা ফেরাতে ভূমিকা রাখবে।",
+        "impact_en": "This dialogue on the electoral environment by political alliances helps restore ordinary voters' confidence in free and fair elections.",
+        "details_bn": "আসন্ন স্থানীয় সরকার নির্বাচন কতটা নিরপেক্ষ ও গ্রহণযোগ্য হবে তা নিয়ে আগেই উদ্বেগ প্রকাশ করেছিল জামায়াতে ইসলামী নেতৃত্বাধীন ১১ দলীয় ঐক্য। এছাড়া ঠাকুরগাঁও-১ আসনের উপনির্বাচনের প্রচারণার সময় ক্ষমতাসীন দলের বিরুদ্ধে নির্বাচনি অনিয়ম ও আচরণবিধি লঙ্ঘনের অভিযোগ তুলেছিল তারা। এসব উদ্বেগের পরিপ্রেক্ষিতে প্রধান নির্বাচন কমিশনার এ এম এম নাসির উদ্দিন এবং অন্যান্য কমিশনারদের সাথে এই গুরুত্বপূর্ণ বৈঠক অনুষ্ঠিত হয়।",
+        "details_en": "The Jamaat-led eleven-party alliance had previously expressed concerns over the neutrality and acceptability of upcoming local government elections. They also filed formal complaints with the Election Commission alleging electoral irregularities and code of conduct violations by the ruling party during Thakurgaon-1 campaign. In response to these concerns, the delegation held this crucial meeting with Chief Election Commissioner AMM Nasir Uddin and other commissioners."
       }
     },
     {
-      "story_id": "c2c71314-1552-53ad-93ab-1fdebde03c91",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T08:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9649,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/columns/977125/%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A6%BE-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A6%AC-%E0%A6%95%E0%A6%A5%E0%A6%BE-%E0%A6%AC%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%C2%A0",
-          "title": "শিশুরা কি আমাদের কাছে সব কথা বলতে পারে?",
-          "snippet": "শিশুরা কি আমাদের কাছে সব কথা বলতে পারে?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "শিশুদের নিরাপত্তা ও মানসিক সুরক্ষা নিশ্চিত করার আহ্বান অভিভাবকদের",
-        "title_en": "Guardians Urged to Ensure Childrens Safety and Mental Protection",
-        "summary_bn": "শিক্ষাপ্রতিষ্ঠান ও পরিচিত পরিমণ্ডলে শিশুদের নিরাপত্তা এবং তাদের সাথে ঘটে যাওয়া অনিরাপদ ঘটনার খোলামেলা আলোচনার ওপর গুরুত্ব দেওয়া হয়েছে।",
-        "summary_en": "Experts emphasize ensuring childrens safety and open communication about unsafe experiences within educational and familiar environments.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T08:00:00+00:00",
-        "lead_bn": "শিক্ষাপ্রতিষ্ঠান ও পরিচিত পরিমণ্ডলে শিশুদের নিরাপত্তা এবং তাদের সাথে ঘটে যাওয়া অনিরাপদ ঘটনার খোলামেলা আলোচনার ওপর গুরুত্ব দেওয়া হয়েছে।",
-        "lead_en": "Experts emphasize ensuring childrens safety and open communication about unsafe experiences within educational and familiar environments.",
-        "bullets_bn": [
-          "শিশুদের নিরাপদ পরিবেশ নিশ্চিত করতে অভিভাবকদের সচেতনতা বৃদ্ধির ওপর জোর দেওয়া হয়েছে।",
-          "পরিচিত পরিমণ্ডলে শিশুরা ভয় বা অনিরাপদ বোধ করলে তা নিয়ে কথা বলার পরিবেশ তৈরি করতে হবে।",
-          "শিক্ষাপ্রতিষ্ঠান ও মাদ্রাসাসহ সব জায়গায় শিশুদের সুরক্ষা জোরদার করার উদ্যোগ নেওয়া হচ্ছে।"
-        ],
-        "bullets_en": [
-          "Guardians are urged to increase awareness to ensure a safe environment for children.",
-          "Environments must be created for children to openly speak about fear or unsafe experiences in familiar circles.",
-          "Steps are underway to strengthen childrens protection in schools, madrasas, and all learning institutions."
-        ],
-        "impact_bn": "এই সচেতনতা শিশুদের মানসিক ট্রমা থেকে রক্ষা করবে এবং অভিভাবকদের সাথে তাদের আস্থার সম্পর্ক তৈরি করবে।",
-        "impact_en": "This awareness protects children from mental trauma and builds a trusting relationship with their guardians.",
-        "details_bn": "সন্তানরা স্কুল, মাদ্রাসা বা বিশ্ববিদ্যালয়ে পড়াশোনার সময় তাদের নিরাপত্তা নিয়ে অভিভাবকরা সবসময় উদ্বিগ্ন থাকেন। শিক্ষক বা পরিচিতজনদের কাছে শিশুদের নিরাপদ রাখা নিশ্চিত করার পাশাপাশি তাদের মনে ভীতি তৈরি হলে তা প্রকাশের সুযোগ করে দেওয়া অত্যন্ত জরুরি। সাম্প্রতিক বিভিন্ন ঘটনার প্রেক্ষাপটে শিশুদের নিরাপত্তা ও মানসিক স্বাস্থ্য সুরক্ষার বিষয়টি সামনে চলে এসেছে।",
-        "details_en": "Guardians are always concerned about childrens safety while attending schools, madrasas, or universities. Ensuring safety around teachers and acquaintances is crucial, alongside creating opportunities for children to express their fears. The issue of child safety and mental health has gained significant attention in light of recent incidents."
-      }
-    },
-    {
-      "story_id": "c7b7a037-69cc-542f-9291-32f50503ffa8",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T07:58:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9492,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/others/977245/%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A1%E0%A6%BF%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AA%E0%A6%BE%E0%A6%A4-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95",
-          "title": "গুলিস্তানে ডিএসসিসির অভিযান: ফুটপাত থেকে শতাধিক দোকান উচ্ছেদ",
-          "snippet": "গুলিস্তানে ডিএসসিসির অভিযান: ফুটপাত থেকে শতাধিক দোকান উচ্ছেদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গুলিস্থানে ফুটপাত দখলমুক্ত করতে ডিএসসিসির অভিযানে শতাধিক অবৈধ দোকান উচ্ছেদ",
-        "title_en": "DSCC Evicts Over One Hundred Illegal Shops from Gulistan Footpaths",
-        "summary_bn": "রাজধানীর গুলিস্তান এলাকায় রাস্তা ও ফুটপাত দখলমুক্ত করতে বিশেষ অভিযান চালিয়ে শতাধিক অবৈধ দোকান উচ্ছেদ করেছে ঢাকা দক্ষিণ সিটি করপোরেশন।",
-        "summary_en": "Dhaka South City Corporation evicted over one hundred illegal shops from footpaths in the Gulistan area to clear public walkways.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T07:58:28+00:00",
-        "lead_bn": "রাজধানীর গুলিস্তান এলাকায় রাস্তা ও ফুটপাত দখলমুক্ত করতে বিশেষ অভিযান চালিয়ে শতাধিক অবৈধ দোকান উচ্ছেদ করেছে ঢাকা দক্ষিণ সিটি করপোরেশন।",
-        "lead_en": "Dhaka South City Corporation evicted over one hundred illegal shops from footpaths in the Gulistan area to clear public walkways.",
-        "bullets_bn": [
-          "ঢাকা দক্ষিণ সিটি করপোরেশন গুলিস্তানের ফুলবাড়িয়া সুপারমার্কেট সংলগ্ন ফুটপাত থেকে শতাধিক অবৈধ দোকান উচ্ছেদ করেছে।",
-          "অভিযানে ডিএসসিসির চারজন এক্সিকিউটিভ ম্যাজিস্ট্রেট, শতাধিক উচ্ছেদ কর্মী এবং ছয় প্লাটুন পুলিশ অংশ নেয়।",
-          "রাজধানীর যানজট নিরসন এবং পথচারীদের চলাচল স্বাভাবিক রাখতে এই উচ্ছেদ অভিযান অব্যাহত থাকবে।"
-        ],
-        "bullets_en": [
-          "Dhaka South City Corporation cleared over a hundred illegal shops from footpaths near the Fulbaria Super Market in Gulistan.",
-          "Four executive magistrates from DSCC, over a hundred eviction workers, and six platoons of police participated in the drive.",
-          "Authorities plan to continue similar eviction drives to ease traffic congestion and ensure safe pedestrian movement across the capital."
-        ],
-        "impact_bn": "সাধারণ পথচারী ও ক্রেতারা এখন থেকে গুলিস্তান এলাকায় সহজে ও নির্বিঘ্নে ফুটপাত দিয়ে চলাচল করতে পারবেন।",
-        "impact_en": "Ordinary pedestrians and shoppers will now be able to walk through the Gulistan area without obstruction from illegal vendors.",
-        "details_bn": "রাজধানীর প্রধান সড়ক ও ফুটপাতগুলো দীর্ঘদিন ধরে অবৈধ দখলদারদের নিয়ন্ত্রণে থাকায় তীব্র যানজট ও পথচারীদের চলাচলে চরম ভোগান্তি তৈরি হচ্ছিল। এর আগে বিভিন্ন সময়ে নগর কর্তৃপক্ষ ফুটপাত উদ্ধারে অভিযান চালালেও তা পুরোপুরি কার্যকর রাখা সম্ভব হয়নি। এই সমস্যার স্থায়ী সমাধানে ঢাকা দক্ষিণ ও উত্তর সিটি করপোরেশন নিয়মিত উচ্ছেদ অভিযান পরিচালনা করে আসছে। সাম্প্রতিক অভিযানে গুলিস্তান এলাকার মতো ব্যস্ততম বাণিজ্যিক পয়েন্টগুলোতে ফুটপাত পুনরুদ্ধারের ওপর বিশেষ জোর দেওয়া হয়েছে।",
-        "details_en": "Major roads and footpaths in Dhaka have long remained occupied by unauthorized vendors, causing severe traffic congestion and pedestrian suffering. City authorities have previously conducted drives to recover public spaces, though maintaining long-term order proved challenging. To address this, both city corporations regularly execute clearance operations, placing recent emphasis on recovering high-traffic commercial hubs like Gulistan."
-      }
-    },
-    {
-      "story_id": "53cf8b63-d93c-51cd-9a03-6293f7335805",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T07:55:07+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9165,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/977244/%E0%A6%A6%E0%A7%81%E0%A6%A7-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%8B%E0%A6%B8%E0%A6%B2-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A6%B0-%E0%A6%98%E0%A7%8B%E0%A6%B7%E0%A6%A3%E0%A6%BE",
-          "title": "দুধ দিয়ে গোসল করে জামায়াতের সমর্থন ছাড়ার ঘোষণা, ভিডিও ভাইরাল",
-          "snippet": "দুধ দিয়ে গোসল করে জামায়াতের সমর্থন ছাড়ার ঘোষণা, ভিডিও ভাইরাল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "চট্টগ্রামে পছন্দের প্রার্থী হেরে যাওয়ায় দুধ দিয়ে গোসল করে জামায়াত ছাড়লেন কর্মী",
-        "title_en": "Activists leaves Jamaat by bathing in milk after preferred candidate loses in Chattogram",
-        "summary_bn": "চট্টগ্রামের লোহাগাড়ায় বাজার কমিটির নির্বাচনে পছন্দের প্রার্থী পরাজিত হওয়ায় জামায়াতের স্থানীয় নেতার ওপর ক্ষোভ প্রকাশ করে দল ছাড়লেন ফারুক নামের এক ব্যক্তি।",
-        "summary_en": "A man named Faruk left Jamaat-e-Islami by bathing in milk to express anger over local leaders after his preferred candidate lost a market committee election in Chattogram.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T07:55:07+00:00",
-        "lead_bn": "চট্টগ্রামের লোহাগাড়ায় বাজার কমিটির নির্বাচনে পছন্দের প্রার্থী পরাজিত হওয়ায় জামায়াতের স্থানীয় নেতার ওপর ক্ষোভ প্রকাশ করে দল ছাড়লেন ফারুক নামের এক ব্যক্তি।",
-        "lead_en": "A man named Faruk left Jamaat-e-Islami by bathing in milk to express anger over local leaders after his preferred candidate lost a market committee election in Chattogram.",
-        "bullets_bn": [
-          "লোহাগাড়ার আধুনগর বাজারে বাজার কমিটির নির্বাচনকে কেন্দ্র করে স্থানীয় জামায়াত নেতাদের ওপর ক্ষোভ প্রকাশ করেন ফারুক।",
-          "নির্বাচনে পছন্দের প্রার্থী পরাজিত হওয়ার পর তিনি দুধ দিয়ে গোসল করে আনুষ্ঠানিকভাবে দল ত্যাগের ঘোষণা দেন।",
-          "এই ঘটনার একটি ভিডিও সামাজিক যোগাযোগমাধ্যমে ছড়িয়ে পড়ার পর স্থানীয় পর্যায়ে ব্যাপক আলোচনা ও সমালোচনার সৃষ্টি হয়েছে।"
-        ],
-        "bullets_en": [
-          "Faruk expressed deep frustration against local Jamaat leaders following the market committee election in Lohagara Adhungar bazar.",
-          "He publicly announced his departure from the party by bathing in milk after his preferred candidate faced defeat.",
-          "A video of this unusual protest circulated widely on social media, drawing significant local attention and discussion."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "চট্টগ্রামের লোহাগাড়া উপজেলার আধুনগর বাজারে বাজার কমিটির নির্বাচন অনুষ্ঠিত হয়। এই নির্বাচনে স্থানীয় জামায়াত নেতাদের পছন্দের বাইরে ফারুক নিজের সমর্থিত প্রার্থীকে বিজয়ী করতে চেয়েছিলেন। কিন্তু নির্বাচনে সেই প্রার্থী পরাজিত হওয়ার পর ক্ষুব্ধ হয়ে ফারুক প্রকাশ্যে দুধ দিয়ে গোসল করে দল ছাড়ার অভিনব ঘোষণা দেন। পরে তার এই গোসল করার ভিডিও সামাজিক যোগাযোগমাধ্যমে ভাইরাল হয়ে পড়ে।",
-        "details_en": "A market committee election was held in Adhungar Bazar of Lohagara upazila in Chattogram. Faruk wanted his supported candidate to win, contrary to local Jamaat leaders preferences. Following the defeat of his preferred candidate, a frustrated Faruk publicly announced quitting the party by bathing in milk. A video of the incident subsequently went viral on social media, sparking widespread public discussion."
-      }
-    },
-    {
-      "story_id": "c813fe6e-762c-5eef-a816-f67ab18a41dc",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#USAsean",
-        "#PeteHegseth",
-        "#DefenseCooperation",
-        "#IndoPacific"
-      ],
-      "image_url": "https://th-i.thgim.com/public/incoming/io9w3y/article71634859.ece/alternates/LANDSCAPE_1200/Philippines_ASEAN_Defense_15713.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-28T07:50:06+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 1.2341,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/hegseth-proposes-ambitious-us-asean-defence-framework-at-philippine-summit/article71634830.ece",
-          "title": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit",
-          "snippet": "Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "মার্কিন প্রতিরক্ষামন্ত্রী পেটে হেগসেথ নতুন যুক্তরাষ্ট্র-আসিয়ান প্রতিরক্ষা কাঠামোর প্রস্তাব দিয়েছেন",
-        "title_en": "US Defense Secretary Pete Hegseth proposes new US-ASEAN defense framework",
-        "summary_bn": "মার্কিন প্রতিরক্ষামন্ত্রী পেটে হেগসেথ ফিলিপাইনে আসিয়ান প্রতিরক্ষা মন্ত্রীদের সম্মেলনে একটি উচ্চাভিলাষী আঞ্চলিক প্রতিরক্ষা সহযোগিতার প্রস্তাব দিয়েছেন।",
-        "summary_en": "US Defense Secretary Pete Hegseth proposed an ambitious new regional defense cooperation framework at the ASEAN defense ministers meeting in the Philippines.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T07:50:06+00:00",
-        "lead_bn": "মার্কিন প্রতিরক্ষামন্ত্রী পেটে হেগসেথ ফিলিপাইনে আসিয়ান প্রতিরক্ষা মন্ত্রীদের সম্মেলনে একটি উচ্চাভিলাষী আঞ্চলিক প্রতিরক্ষা সহযোগিতার প্রস্তাব দিয়েছেন।",
-        "lead_en": "US Defense Secretary Pete Hegseth proposed an ambitious new regional defense cooperation framework at the ASEAN defense ministers meeting in the Philippines.",
-        "bullets_bn": [
-          "মার্কিন প্রতিরক্ষামন্ত্রী পেটে হেগসেথ আসিয়ান নেতাদের সাথে অংশীদারিত্ব জোরদার করতে একটি নতুন প্রতিরক্ষা কাঠামোর প্রস্তাব পেশ করেন।",
-          "হেগসেথ আসিয়ান অঞ্চলের ব্যবহারিক বাস্তববাদিতা এবং গর্বিত জাতীয়বাদের প্রশংসা করেন এবং পারস্পরিক স্বার্থে সহযোগিতার আহ্বান জানান।",
-          "যুক্তরাষ্ট্র এই কাঠামোর মাধ্যমে আগামী কয়েক বছরে ইন্দো-প্যাসিফিক অঞ্চলে নিজেদের কৌশলগত উপস্থিতি আরও বাড়াতে কাজ করবে।"
-        ],
-        "bullets_en": [
-          "US Defense Secretary Pete Hegseth proposed a new defense framework to strengthen partnerships with ASEAN leaders.",
-          "Hegseth praised the region's pragmatism and nationalism while calling for cooperation on shared strategic interests.",
-          "The United States aims to use this framework to expand its strategic defense footprint across the Indo-Pacific in coming years."
-        ],
-        "impact_bn": "ইন্দো-প্যাসিফিক অঞ্চলে কৌশলগত নিরাপত্তা গতিপ্রকৃতি এবং আঞ্চলিক স্থিতিশীলতার ওপর এই নতুন প্রতিরক্ষা কাঠামোর দীর্ঘমেয়াদী প্রভাব পড়তে পারে।",
-        "impact_en": "This new defense framework could significantly influence regional security dynamics and strategic stability across the Indo-Pacific.",
-        "details_bn": "চীন ক্রমবর্ধমানভাবে এই অঞ্চলে নিজেদের প্রভাব বিস্তার করায় যুক্তরাষ্ট্র ইন্দো-প্যাসিফিক অঞ্চলকে মুক্ত ও উন্মুক্ত রাখতে দীর্ঘ দিন ধরে আঞ্চলিক প্রতিরক্ষা অংশীদারিত্ব জোরদার করার চেষ্টা করে আসছে। ফিলিপাইনের সেবুতে অনুষ্ঠিত আসিয়ান প্রতিরক্ষা মন্ত্রীদের বৈঠকে এই কৌশলগত প্রচেষ্টার অংশ হিসেবেই নতুন কাঠামোর প্রস্তাবটি সামনে আনা হয়।",
-        "details_en": "The United States has actively sought to boost regional defense partnerships to maintain a free and open Indo-Pacific amid China's increasing regional influence. The proposed framework emerged during the ASEAN Defense Ministers' Meeting in Cebu as part of Washington's ongoing strategy to secure long-term cooperation."
-      }
-    },
-    {
-      "story_id": "b1438e9e-c7d7-55af-9962-a188135af3e4",
+      "story_id": "83a58d59-a140-54fb-af94-38b4436c6d4b",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
-        "economy_business",
-        "governance_law",
-        "tech_innovation"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#Inflation",
-        "#AustraliaEconomy",
-        "#GlobalTrade"
+        "#IsraeliEmbassy",
+        "#Serbia",
+        "#CounterTerrorism",
+        "#Belgrade"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/b8c38bd0a9cef8a565c03d4eb81c9092132bc4f4/1240_0_6175_4943/master/6175.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e2382e1c3706cf64859887e0ee67ed7",
+      "image_url": "https://static.dw.com/image/79783016_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T05:58:24+00:00",
+      "published_at": "2026-10-28T09:00:48.331283+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 5.31,
-      "rank_score": 0.8639,
+      "importance_score": 1.7,
+      "rank_score": 0.6882,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
-          "title": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
-          "snippet": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
-          "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
-          "snippet": "Federal Reserve likely to skip rate hike despite elevated inflation"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
+          "title": "Serbian police shoot dead assailant at Israeli Embassy",
+          "snippet": "Serbian police shoot dead assailant at Israeli Embassy"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলিয়ার উচ্চ মূল্যস্ফীতির জন্য বৈদেশিক পরিস্থিতি ও মধ্যপ্রাচ্য সংঘাতকে দায়ী করছেন ট্রেজারার",
-        "title_en": "Australian Treasurer Blames Foreign Factors and Middle East Conflict for Rising Inflation",
-        "summary_bn": "জ্বালানি মূল্যবৃদ্ধি ও বৈশ্বিক প্রযুক্তির প্রভাবে অস্ট্রেলিয়ায় মূল্যস্ফীতি ত্বরান্বিত হলেও ভোটাররা সরকারের ব্যাখ্যা প্রত্যাখ্যান করছে।",
-        "summary_en": "Australian Treasurer Jim Chalmers blames rising inflation on the Middle East conflict and global tech booms, though voters remain skeptical.",
+        "title_bn": "সার্বিয়ার ইসরায়েলি দূতাবাসের বাইরে পুলিশের গুলিতে হামলাকারী নিহত",
+        "title_en": "Serbian Police Shoot Dead Assailant at Israeli Embassy",
+        "summary_bn": "বেলগ্রেডে ইসরায়েলি দূতাবাসের এক পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে চালানো গুলিতে সন্দেহভাজন হামলাকারী নিহত হয়।",
+        "summary_en": "A knife-wielding assailant was shot dead by police after attacking a guard outside the Israeli Embassy in Belgrade.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business",
-          "governance_law",
-          "tech_innovation"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:58:24+00:00",
-        "lead_bn": "জ্বালানি মূল্যবৃদ্ধি ও বৈশ্বিক প্রযুক্তির প্রভাবে অস্ট্রেলিয়ায় মূল্যস্ফীতি ত্বরান্বিত হলেও ভোটাররা সরকারের ব্যাখ্যা প্রত্যাখ্যান করছে।",
-        "lead_en": "Australian Treasurer Jim Chalmers blames rising inflation on the Middle East conflict and global tech booms, though voters remain skeptical.",
+        "published_at": "2026-10-28T09:00:48.331283+00:00",
+        "lead_bn": "বেলগ্রেডে ইসরায়েলি দূতাবাসের এক পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে চালানো গুলিতে সন্দেহভাজন হামলাকারী নিহত হয়।",
+        "lead_en": "A knife-wielding assailant was shot dead by police after attacking a guard outside the Israeli Embassy in Belgrade.",
         "bullets_bn": [
-          "জ্বালানিCosts বৃদ্ধির কারণে অস্ট্রেলিয়ায় মূল্যস্ফীতি চার শতাংশ থেকে বেড়ে চার দশমিক তিন শতাংশে পৌঁছেছে।",
-          "সেপ্টেম্বর মাসে পেট্রোল ও ডিজেলের দাম এক বছর আগের তুলনায় চব্বিশ শতাংশ বেশি ছিল।",
-          "কেন্দ্রীয় ব্যাংকের লক্ষ্য আগামী বছরের শেষের মধ্যে মূল্যস্ফীতি আড়াই শতাংশে নামিয়ে আনা।"
+          "ইসরায়েলি দূতাবাসের বাইরে পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে হামলাকারীকে গুলি করে হত্যা করা হয়।",
+          "স্বরাষ্ট্রমন্ত্রী ইভিকা ডাচিক জানান হামলাকারী ইসলামিক স্টেটের সমর্থক ছিল এবং ঘটনার সময় সে আল্লাহু আকবার ধ্বনি দেয়।",
+          "এই ঘটনার পর সার্বিয়া জুড়ে সন্ত্রাসী হামলার সর্বোচ্চ সতর্কতা বা রেড অ্যালার্ট জারি করা হয়েছে।"
         ],
         "bullets_en": [
-          "Australian inflation accelerated from four to four point three percent driven largely by fuel cost surges.",
-          "Petrol and diesel prices averaged twenty-four percent higher than a year earlier in September data.",
-          "The Reserve Bank of Australia aims to bring inflation back to two point five percent."
+          "The assailant was shot dead in self defense after attacking a police guard outside the Israeli embassy.",
+          "Interior Minister Ivica Dacic confirmed the attacker supported the Islamic State and shouted God is great during the assault.",
+          "Serbian authorities elevated the national terrorism threat level to red alert following the embassy attack."
         ],
-        "impact_bn": "অস্ট্রেলীয় নাগরিকদের দৈনন্দিন জীবনযাত্রার ব্যয় এবং জ্বালানি খরচের ওপর বৈশ্বিক ভূরাজনীতির সরাসরি প্রভাব পড়ছে।",
-        "impact_en": "Global geopolitical tensions directly increase everyday living and fuel costs for Australian consumers.",
-        "details_bn": "অস্ট্রেলিয়ার পরিসংখ্যান ব্যুরোর তথ্য অনুযায়ী মধ্যপ্রাচ্য সংঘাত ও বৈশ্বিক প্রযুক্তির প্রসারের কারণে অর্থনীতিতে অতিরিক্ত চাপ তৈরি হয়েছে। রিজার্ভ ব্যাংকের গভর্নর মিশেল বুলক উল্লেখ করেছেন যে বৈদেশিক ঘটনাগুলো কেন্দ্রীয় ব্যাংকের জন্য মূল্যস্ফীতি নিয়ন্ত্রণ কঠিন করে তুলেছে। আন্তর্জাতিক বাজারের এসব অস্থিতিশীলতা স্থানীয় বাজারে পণ্যের দাম বাড়াতে ভূমিকা রাখছে।",
-        "details_en": "Data from the Australian Bureau of Statistics shows that surging fuel costs and global artificial intelligence infrastructure booms are straining the domestic economy. Reserve Bank of Australia Governor Michele Bullock noted that overseas developments complicate efforts to stabilize inflation. These international economic pressures continue to challenge domestic price stability."
+        "impact_bn": "এই ঘটনায় দূতাবাস ও সংবেদনশীল স্থাপনাগুলোর আশপাশে নিরাপত্তা জোরদার করা হয়েছে এবং নাগরিকদের বাড়তি সতর্কতা অবলম্বনের নির্দেশ দেওয়া হয়েছে।",
+        "impact_en": "Security measures and police presence have been significantly increased around sensitive sites and diplomatic missions following the attack.",
+        "details_bn": "বেলগ্রেডে অবস্থিত ইসরায়েলি দূতাবাসের বাইরে এই হামলার ঘটনা ঘটে। সার্বিয়ার স্বরাষ্ট্র মন্ত্রণালয়ের তথ্য অনুযায়ী, সন্দেহভাজন হামলাকারী দেশটির নিরাপত্তা সংস্থার নজরদারিতে ছিল। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাটিকে সন্ত্রাসী হামলা হিসেবে চিহ্নিত করে দেশজুড়ে সর্বোচ্চ সতর্কতা জারি করেছে এবং তদন্ত অব্যাহত রেখেছে।",
+        "details_en": "The incident unfolded outside the Israeli Embassy in the Serbian capital of Belgrade when a knife-wielding assailant attacked a security guard. Serbian security agencies identified the attacker as a minor with alleged ties to the Islamic State. Authorities responded by elevating the national terror threat level to red alert and increasing police deployment across sensitive infrastructure."
+      }
+    },
+    {
+      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment",
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "international",
+      "tags": [
+        "#ClimateCrisis",
+        "#GlobalHealth",
+        "#LancetCountdown"
+      ],
+      "image_url": "https://static.dw.com/image/69108117_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-28T09:00:48.331283+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6882,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+          "title": "Experts urge 'global health emergency' as climate harms accelerate",
+          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান গবেষকদের",
+        "title_en": "Researchers Urge Global Health Emergency As Climate Harms Accelerate",
+        "summary_bn": "বিশ্বজুড়ে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
+        "summary_en": "Nearly 150 global researchers call for declaring climate change a global health emergency as planetary heating accelerates heat deaths and disease.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "climate_environment",
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T09:00:48.331283+00:00",
+        "lead_bn": "বিশ্বজুড়ে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
+        "lead_en": "Nearly 150 global researchers call for declaring climate change a global health emergency as planetary heating accelerates heat deaths and disease.",
+        "bullets_bn": [
+          "প্রায় ৩০টি দেশের প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণার দাবি তুলেছেন।",
+          "সালে বিশ্বব্যাপী অতিরিক্ত তাপমাত্রার কারণে সাড়ে পাঁচ লাখেরও বেশি মানুষের মৃত্যু হয়েছে এবং ক্ষতি হয়েছে ১.০৭ ট্রিলিয়ন ডলার।",
+          "মানুষের জীবন বাঁচানো এবং সুস্বাস্থ্য নিশ্চিত করাকে জলবায়ু পদক্ষেপের মূল কেন্দ্রবিন্দুতে রাখার আহ্বান জানিয়েছেন গবেষকরা।"
+        ],
+        "bullets_en": [
+          "Nearly 150 researchers from over 30 countries are urging leaders to declare climate change a global health emergency.",
+          "Heat exposure caused over half a million deaths in 2023 alone and cost the global economy an estimated 1.07 trillion dollars.",
+          "Experts demand that human health and well-being be placed at the core of global climate action strategies."
+        ],
+        "impact_bn": "তীব্র তাপপ্রবাহ ও খাদ্যনিরাপত্তাহীনতা সরাসরি সাধারণ মানুষের জীবনযাত্রা ও দীর্ঘমেয়াদী স্বাস্থ্যঝুঁকি বাড়িয়ে দিচ্ছে।",
+        "impact_en": "Accelerating heatwaves and climate-driven health hazards directly threaten daily livelihoods, food supplies, and public health outcomes.",
+        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর থেকে বৈশ্বিক তাপমাত্রা বৃদ্ধির ফলে স্বাস্থ্য ও অর্থনীতিতে মারাত্মক প্রভাব পড়েছে। ল্যানসেট কাউন্টডাউনের সাম্প্রতিক প্রতিবেদনে উঠে এসেছে যে, চরম তাপপ্রবাহের কারণে মৃত্যুর হার এবং খরা পরিস্থিতি আশঙ্কাজনকভাবে বৃদ্ধি পেয়েছে, যা বিশ্বজুড়ে মানবস্বাস্থ্যের জন্য এক নজিরবিহীন হুমকি তৈরি করেছে।",
+        "details_en": "The landmark Paris climate agreement aimed to curb global warming, but planetary heating has escalated significantly over the past decade. According to the annual Lancet Countdown report, extreme heat caused millions of deaths and trillions in economic losses since 2016, driving experts to warn that current emission targets fail to protect public health."
       }
     }
   ]
