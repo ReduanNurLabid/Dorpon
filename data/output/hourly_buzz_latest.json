@@ -1,70 +1,69 @@
 {
-  "updated_at": "2026-10-28T03:00:51.244376",
+  "updated_at": "2026-10-28T04:00:42.217268",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "7579d662-848a-527b-aa3a-61d7b8b35c4d",
-      "primary_category": "economy_business",
+      "story_id": "9cd1961c-dc33-59c2-9465-52c8ee65ec65",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T02:22:53+00:00",
+      "published_at": "2026-10-28T03:57:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.5499,
+      "importance_score": 6.6,
+      "rank_score": 2.5725,
       "sources": [
         {
           "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/national/news/1172754",
-          "title": "প্রধানমন্ত্রীর সঙ্গে জাপান ব্যাংক ফর ইন্টারন্যাশনাল গভর্নরের বৈঠক",
-          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাপান ব্যাংক ফর ইন্টারন্যাশনাল গভর্নরের বৈঠক"
+          "url": "https://www.jagonews24.com/national/news/1172778",
+          "title": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর",
+          "snippet": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাপান ব্যাংক গভর্নরের সাথে প্রধানমন্ত্রীর দ্বিপক্ষীয় অর্থনৈতিক বৈঠক অনুষ্ঠিত",
-        "title_en": "Prime Minister Holds Bilateral Economic Meeting with Japan Bank Governor",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নরের সাথে দ্বিপক্ষীয় সহযোগিতা ও বিনিয়োগ বৃদ্ধি নিয়ে আলোচনা করেছেন।",
-        "summary_en": "Prime Minister Tarique Rahman discussed bilateral cooperation and investment growth with the governor of Japan Bank for International Cooperation.",
+        "title_bn": "বাংলাদেশে বিনিয়োগ বাড়াতে ইউনিক্লোর প্রতি আহ্বান প্রধানমন্ত্রীর",
+        "title_en": "Prime Minister Urges Uniqlo to Expand Investment in Bangladesh",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জাপানি বহুজাতিক প্রতিষ্ঠান ইউনিক্লোর মূল কোম্পানিকে বাংলাদেশে বিনিয়োগ বাড়ানোর আহ্বান জানানো হয়েছে।",
+        "summary_en": "Prime Minister urged the parent company of Japanese apparel giant Uniqlo to expand investments in Bangladesh during a bilateral meeting.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:22:53+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নরের সাথে দ্বিপক্ষীয় সহযোগিতা ও বিনিয়োগ বৃদ্ধি নিয়ে আলোচনা করেছেন।",
-        "lead_en": "Prime Minister Tarique Rahman discussed bilateral cooperation and investment growth with the governor of Japan Bank for International Cooperation.",
+        "published_at": "2026-10-28T03:57:07+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জাপানি বহুজাতিক প্রতিষ্ঠান ইউনিক্লোর মূল কোম্পানিকে বাংলাদেশে বিনিয়োগ বাড়ানোর আহ্বান জানানো হয়েছে।",
+        "lead_en": "Prime Minister urged the parent company of Japanese apparel giant Uniqlo to expand investments in Bangladesh during a bilateral meeting.",
         "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নর আমাকাওয়া কাজুহিকোর সাথে বৈঠক করেছেন।",
-          "বৈঠকে বাংলাদেশের অবকাঠামোগত উন্নয়ন ও অর্থনৈতিক খাতে জাপানি বিনিয়োগ সম্প্রসারণ নিয়ে আলোচনা হয়।",
-          "উভয় পক্ষ পারস্পরিক স্বার্থসংশ্লিষ্ট অর্থনৈতিক অংশীদারিত্ব আরও সুদৃঢ় করার বিষয়ে ঐকমত্য প্রকাশ করেছে।"
+          "প্রধানমন্ত্রীর সাথে ফাস্ট রিটেইলিং কোম্পানি লিমিটেডের চেয়ারম্যানের উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়।",
+          "বৈঠকে বাংলাদেশের তৈরি পোশাক খাতে নতুন বিনিয়োগ এবং কর্মসংস্থান বাড়ানোর ওপর গুরুত্বারোপ করা হয়।",
+          "উভয় পক্ষ পারস্পরিক বাণিজ্য সম্পর্ক আরও সুদৃঢ় করার বিষয়ে সম্মত হয়েছে।"
         ],
         "bullets_en": [
-          "Prime Minister Tarique Rahman held a high-level meeting with JBIC Governor Amakawa Kazuhiko.",
-          "Discussions focused on expanding Japanese investment in Bangladesh infrastructure and economic sectors.",
-          "Both sides agreed to further strengthen mutual economic partnership and bilateral cooperation."
+          "The Prime Minister held a high-level meeting with the chairman of Fast Retailing Company Limited.",
+          "Discussions focused on expanding new investments and boosting employment within the RMG sector.",
+          "Both sides agreed to further strengthen bilateral trade cooperation and commercial ties."
         ],
-        "impact_bn": "জাপানি বিনিয়োগ বাড়লে দেশে নতুন কর্মসংস্থান সৃষ্টি হবে এবং বড় প্রকল্পগুলোর কাজ দ্রুত এগিয়ে যাবে।",
-        "impact_en": "Increased Japanese investment will create domestic employment opportunities and accelerate major infrastructure projects.",
-        "details_bn": "জাপান দীর্ঘদিন ধরে বাংলাদেশের অন্যতম প্রধান উন্নয়ন অংশীদার হিসেবে কাজ করে আসছে। বিদ্যুৎ, পরিবহন এবং অবকাঠামো খাতের বিভিন্ন মেগা প্রকল্পে দেশটির উল্লেখযোগ্য আর্থিক ও প্রযুক্তিগত সহায়তা রয়েছে। বর্তমান সরকারের সময়ে এই অর্থনৈতিক সম্পর্ক আরও সুদৃঢ় করার লক্ষ্যে বিভিন্ন দ্বিপক্ষীয় আলোচনা অব্যাহত রয়েছে।",
-        "details_en": "Japan has long been a key development partner for Bangladesh, providing significant financial and technical support for mega projects in power, transport, and infrastructure sectors. Ongoing bilateral talks aim to further strengthen these economic ties under the current administration."
+        "impact_bn": "এই বিনিয়োগ বৃদ্ধি পেলে দেশের পোশাক খাতে নতুন কর্মসংস্থান তৈরি হবে এবং তরুণ পেশাজীবীদের জন্য সুযোগ বাড়বে।",
+        "impact_en": "Increased investment will create new employment opportunities in the garment sector and benefit young professionals.",
+        "details_bn": "জাপানের বিশ্বখ্যাত পোশাক ব্র্যান্ড ইউনিক্লো দীর্ঘদিন ধরে বাংলাদেশ থেকে তৈরি পোশাক সংগ্রহ করে আসছে। বাংলাদেশের পোশাক শিল্পে বৈদেশিক বিনিয়োগ আকৃষ্ট করতে বর্তমান সরকার বিদেশি বিনিয়োগকারীদের সাথে ধারাবাহিক যোগাযোগ রক্ষা করে চলেছে। এই বৈঠকের মাধ্যমে দুই দেশের বাণিজ্য সম্পর্ক আরও জোরদার হওয়ার সম্ভাবনা তৈরি হয়েছে।",
+        "details_en": "Japanese apparel giant Uniqlo has long sourced garments from Bangladesh. The government continues to engage foreign investors to boost foreign direct investment in the local apparel sector. This meeting highlights ongoing efforts to deepen bilateral economic ties between Dhaka and Tokyo."
       }
     },
     {
-      "story_id": "74430c6d-0bf1-5dee-b71b-8f21ee440369",
+      "story_id": "28265eea-11d8-5814-abf3-1de7abc853c2",
       "primary_category": "society_education",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
@@ -73,51 +72,50 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T02:57:58+00:00",
+      "published_at": "2026-10-28T04:01:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8836,
+      "importance_score": 2.4,
+      "rank_score": 0.9747,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/mymensing/977198/%E0%A7%A8%E0%A7%A6-%E0%A6%A6%E0%A6%BF%E0%A6%A8-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%95-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A3-%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A7%8B",
-          "title": "২০ দিন আগে ইরাক থেকে ফিরেছিলেন, সড়কে প্রাণ গেলো প্রবাসীর",
-          "snippet": "২০ দিন আগে ইরাক থেকে ফিরেছিলেন, সড়কে প্রাণ গেলো প্রবাসীর"
+          "url": "https://www.banglatribune.com/country/khulna/977161/%E0%A6%AD%E0%A6%AC%E0%A6%A8-%E0%A6%AC%E0%A7%87%E0%A6%A1-%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%AC%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%A4%E0%A6%AC%E0%A7%81-%E0%A7%AE-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A7%9F%E0%A6%A8%E0%A6%BF",
+          "title": "ভবন-বেড-যন্ত্রপাতি সবই আছে, তবু ৮ বছরেও চালু হয়নি চার স্বাস্থ্যকেন্দ্র",
+          "snippet": "ভবন-বেড-যন্ত্রপাতি সবই আছে, তবু ৮ বছরেও চালু হয়নি চার স্বাস্থ্যকেন্দ্র"
         }
       ],
       "daily_buzz": {
-        "title_bn": "শেরপুরে বাস ও সিএনজি সংঘর্ষে নিহত এক প্রবাসী",
-        "title_en": "Expatriate Killed in Bus and CNG Collision in Sherpur",
-        "summary_bn": "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে এক প্রবাসী নিহত ও চারজন আহত হয়েছেন।",
-        "summary_en": "An expatriate was killed and four others were injured in a head-on collision between a bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
+        "title_bn": "জনবল সংকটে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র আট বছর ধরে বন্ধ",
+        "title_en": "Four Jhenaidah Maternal and Child Welfare Centers Remain Closed for Eight Years",
+        "summary_bn": "চিকিৎসক ও প্রয়োজনীয় জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র উদ্বোধনের আট বছর পরও চালু করা যায়নি।",
+        "summary_en": "Four maternal and child welfare centers in Jhenaidah remain non-functional eight years after inauguration due to acute staff shortages.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T02:57:58+00:00",
-        "lead_bn": "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে এক প্রবাসী নিহত ও চারজন আহত হয়েছেন।",
-        "lead_en": "An expatriate was killed and four others were injured in a head-on collision between a bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
+        "published_at": "2026-10-28T04:01:00+00:00",
+        "lead_bn": "চিকিৎসক ও প্রয়োজনীয় জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র উদ্বোধনের আট বছর পরও চালু করা যায়নি।",
+        "lead_en": "Four maternal and child welfare centers in Jhenaidah remain non-functional eight years after inauguration due to acute staff shortages.",
         "bullets_bn": [
-          "ঢাকা-শেরপুর মহাসড়কে বাস ও সিএনজিচালিত অটোরিকশার মুখোমুখি সংঘর্ষে হতাহতের ঘটনা ঘটে।",
-          "দুর্ঘটনায় জুয়েল মিয়া নামের ৪২ বছর বয়সী এক প্রবাসী নিহত এবং দুই পৌর কর্মচারীসহ চারজন আহত হন।",
-          "নিহত জুয়েল মিয়া কুর্দিস্তান থেকে ইরাক প্রবাসী হিসেবে ২০ দিন আগে দেশে ফিরেছিলেন।"
+          "জনবল সংকটের কারণে ঝিনাইদহের চারটি মা ও শিশু কল্যাণকেন্দ্র পূর্ণাঙ্গভাবে স্বাস্থ্যসেবা চালু করতে ব্যর্থ হয়েছে।",
+          "সালে আনুষ্ঠানিকভাবে উদ্বোধন করা হলেও তিনতলা ভবন, বেড ও যন্ত্রপাতি থাকা সত্ত্বেও চিকিৎসকের দেখা মেলেনি।",
+          "প্রত্যন্ত অঞ্চলের হাজারো দরিদ্র মা ও শিশু প্রসবকালীন জরুরি চিকিৎসাসেবা থেকে বঞ্চিত হচ্ছেন।"
         ],
         "bullets_en": [
-          "A head-on collision occurred between a passenger bus and a CNG-run auto-rickshaw on the Dhaka-Sherpur highway.",
-          "The accident killed a 42-year-old expatriate named Jewel Mia and injured four others, including two municipal employees.",
-          "The victim had returned to the country from Iraq just twenty days prior to the incident."
+          "Four maternal and child welfare centers in Jhenaidah failed to launch full medical services due to severe workforce shortages.",
+          "Despite being inaugurated in 2018 with three-story buildings, beds, and medical equipment, doctors remain absent.",
+          "Thousands of impoverished mothers and children in remote areas are deprived of essential emergency delivery care."
         ],
-        "impact_bn": "সড়ক দুর্ঘটনা বৃদ্ধি পাওয়ায় মহাসড়কে চলাচলকারী সাধারণ যাত্রীদের জীবন ঝুঁকির মুখে পড়ছে।",
-        "impact_en": "Rising highway accidents continue to pose fatal risks to daily commuters and returning expatriates.",
-        "details_bn": "শেরপুর সদর উপজেলার ঢাকা-শেরপুর মহাসড়কের জোড়া পাম্পসংলগ্ন হাওড়া খানবাড়ি এলাকায় এই মর্মান্তিক সড়ক দুর্ঘটনা ঘটে। নিহত জুয়েল মিয়া নকলার বারমাইসা খিচা গ্রামের বাসিন্দা ছিলেন এবং তিনি সম্প্রতি কুর্দিস্তান থেকে দেশে ফিরেছিলেন। দুর্ঘটনায় আহতদের উদ্ধার করে স্থানীয় হাসপাতালে চিকিৎসা দেওয়া হচ্ছে। মহাসড়কে দ্রুতগতির যানবাহনের বেপরোয়া চলাচলের কারণে প্রায়ই এমন দুর্ঘটনা ঘটছে বলে স্থানীয়রা অভিযোগ করেছেন।",
-        "details_en": "The tragic road accident took place near the Jora Pump area along the Dhaka-Sherpur highway in Sherpur Sadar upazila. The victim, Jewel Mia, was a resident of Nakla who had recently returned from Kurdistan. The injured individuals were rushed to a local hospital for treatment. Locals have repeatedly expressed concern over reckless driving and high-speed vehicles on the highway causing frequent fatalities."
+        "impact_bn": "গর্ভবতী মায়েরা প্রসবকালীন জটিল পরিস্থিতিতে সময়মতো চিকিৎসা না পেয়ে চরম স্বাস্থ্যঝুঁকিতে পড়ছেন।",
+        "impact_en": "Pregnant mothers face severe health risks as they fail to receive timely medical care during delivery complications.",
+        "details_bn": "ঝিনাইদহে মা ও শিশু স্বাস্থ্যসেবা সম্প্রসারণের লক্ষ্যে ২০১৮ সালে ওই চারটি কল্যাণকেন্দ্র আনুষ্ঠানিকভাবে উদ্বোধন করা হয়েছিল। তিনতলা ভবন নির্মাণ এবং প্রয়োজনীয় বেড ও চিকিৎসাসামগ্রী সরবরাহ করা হলেও চিকিৎসক এবং পর্যাপ্ত জনবল পদায়ন করা হয়নি। ফলে দীর্ঘ আট বছর ধরে অবকাঠামো প্রস্তুত থাকলেও তা সাধারণ মানুষের কোনো উপকারে আসছে না, যা গ্রামীণ জনপদে স্বাস্থ্যসেবা খাতের চরম অব্যবস্থাপনাকে ফুটিয়ে তুলছে।",
+        "details_en": "The four welfare centers were officially inaugurated in 2018 to expand maternal and child healthcare in Jhenaidah. Although three-story buildings were constructed and necessary beds and medical equipment were supplied, physicians and adequate staff were never posted. Consequently, despite ready infrastructure, the facilities remain unused for eight years, highlighting severe mismanagement in the rural healthcare sector."
       }
     },
     {
-      "story_id": "9e314c3e-195f-5c47-82df-6dc32d379bf9",
+      "story_id": "a468e179-fc28-545c-8a29-2bcbf91c6d35",
       "primary_category": "sports_fitness",
       "interest_categories": [
         "sports_fitness"
@@ -129,103 +127,105 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T03:00:00+00:00",
+      "published_at": "2026-10-28T04:00:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9624,
+      "rank_score": 0.9645,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/977123/%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF-%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A6%A6%E0%A7%8B-%E0%A6%AF%E0%A6%BE-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A6%A8%E0%A6%BF-%E0%A7%AD%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%A4%E0%A6%BE-%E0%A6%95%E0%A6%B0%E0%A7%87",
-          "title": "মেসি-রোনালদো যা পারেননি, ৭০ বছর আগে তা করে দেখিয়েছিলেন ম্যাথিউস",
-          "snippet": "মেসি-রোনালদো যা পারেননি, ৭০ বছর আগে তা করে দেখিয়েছিলেন ম্যাথিউস"
+          "url": "https://www.banglatribune.com/sport/cricket/977169/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%97%E0%A7%87-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%A1%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
+          "title": "বিশ্বকাপের আগে ওয়ানডেতে নতুন পরীক্ষা নিউজিল্যান্ডের",
+          "snippet": "বিশ্বকাপের আগে ওয়ানডেতে নতুন পরীক্ষা নিউজিল্যান্ডের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বয়সের সীমানা পেরিয়ে প্রথম ব্যালন ডি'অর জয় করেন স্ট্যানলি ম্যাথিউস",
-        "title_en": "Stanley Matthews Won First Ballon d'Or Breaking Age Barriers",
-        "summary_bn": "চল্লিশোর্ধ্ব বয়সে ইউরোপের সেরা ফুটবলার নির্বাচিত হয়ে রেকর্ড গড়েন ইংল্যান্ডের কিংবদন্তি স্ট্যানলি ম্যাথিউস।",
-        "summary_en": "English legend Stanley Matthews set a record by being named Europe's best footballer in his forties.",
+        "title_bn": "ওয়ানডে ক্রিকেটে বোলারদের সুবিধা দিতে নতুন নিয়মের পরীক্ষা শুরু নিউজিল্যান্ডের",
+        "title_en": "New Zealand Tests Single Ball Rule in Domestic One-Day Matches",
+        "summary_bn": "নিউজিল্যান্ড ক্রিকেট তাদের ঘরোয়া ওয়ানডে টুর্নামেন্টে ইনিংসের পুরো ৫০ ওভার একটিমাত্র বল ব্যবহারের নতুন পরীক্ষামূলক নিয়ম চালু করেছে।",
+        "summary_en": "New Zealand Cricket has introduced an experimental rule using a single ball for the entire fifty-over innings in domestic one-day matches.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "sports_fitness"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T03:00:00+00:00",
-        "lead_bn": "চল্লিশোর্ধ্ব বয়সে ইউরোপের সেরা ফুটবলার নির্বাচিত হয়ে রেকর্ড গড়েন ইংল্যান্ডের কিংবদন্তি স্ট্যানলি ম্যাথিউস।",
-        "lead_en": "English legend Stanley Matthews set a record by being named Europe's best footballer in his forties.",
+        "published_at": "2026-10-28T04:00:00+00:00",
+        "lead_bn": "নিউজিল্যান্ড ক্রিকেট তাদের ঘরোয়া ওয়ানডে টুর্নামেন্টে ইনিংসের পুরো ৫০ ওভার একটিমাত্র বল ব্যবহারের নতুন পরীক্ষামূলক নিয়ম চালু করেছে।",
+        "lead_en": "New Zealand Cricket has introduced an experimental rule using a single ball for the entire fifty-over innings in domestic one-day matches.",
         "bullets_bn": [
-          "একচল্লিশ বছর বয়সে ইউরোপীয় ফুটবলের সর্বোচ্চ ব্যক্তিগত স্বীকৃতি অর্জন করেন ইংলিশ উইঙ্গার স্ট্যানলি ম্যাথিউস",
-          "সালে প্রথমবারের মতো আয়োজিত ব্যালন ডি অর পুরস্কার জিতে নেন এই প্রবীণ ফুটবলার",
-          "আধুনিক যুগের মহাতারকা মেসি বা রোনালদোও এই বয়সে এই বিরল কীর্তি গড়তে পারেননি"
+          "ফোর্ড ট্রফির প্রথম পাঁচ রাউন্ডে প্রতি ইনিংসের ৫০ ওভার জুড়ে একটি মাত্র বল ব্যবহার করা হবে।",
+          "বোলারদের রিভার্স সুইং আদায়ের সুযোগ বাড়িয়ে ওয়ানডে ক্রিকেটে ব্যাটারদের অতিরিক্ত আধিপত্য কমানোই এই উদ্যোগের মূল লক্ষ্য।",
+          "আসন্ন আন্তর্জাতিক মৌসুমের আগে নতুন এই প্লেয়িং কন্ডিশন বাস্তবায়নের কার্যকারিতা মূল্যায়ন করবে ক্রিকেট বোর্ড।"
         ],
         "bullets_en": [
-          "English winger Stanley Matthews achieved Europe's highest individual football honor at age forty-one",
-          "The veteran footballer won the inaugural Ballon d'Or award in the year 1956",
-          "Modern superstars like Messi or Ronaldo have not been able to achieve this rare feat at that age"
+          "A single ball will be used for the entire fifty-over duration across the first five rounds of the Ford Trophy.",
+          "The initiative aims to curb batter dominance in one-day cricket by increasing reverse swing opportunities for bowlers.",
+          "The cricket board will evaluate the effectiveness of this experimental playing condition ahead of upcoming international fixtures."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ফুটবল ইতিহাসের প্রথম ব্যালন ডি অর বিজয়ী হিসেবে নাম লেখান স্ট্যানলি ম্যাথিউস। ১৯৫৬ সালে প্রবর্তিত এই মর্যাদাপূর্ণ পুরস্কারটি পাওয়ার সময় তার বয়স ছিল একচল্লিশ বছর তিনশত একুশ দিন। ফুটবল বিশ্বে বয়স নিছক একটি সংখ্যা মাত্র, ম্যাথিউসের এই অর্জন তারই এক অনন্য দৃষ্টান্ত হয়ে রয়েছে।",
-        "details_en": "Stanley Matthews etched his name in history as the first-ever winner of the Ballon d'Or. When receiving this prestigious award introduced in 1956, he was forty-one years and three hundred twenty-one days old. Matthews' achievement remains a unique testament that age is merely a number in the football world."
+        "details_bn": "আধুনিক ওয়ানডে ক্রিকেটে দুটি নতুন বল ব্যবহারের নিয়ম চালুর পর থেকেই বোলারদের রিভার্স সুইং সুবিধা মারাত্মকভাবে কমে গেছে। ইনিংসের শেষ ওভারেও বল শক্ত ও উজ্জ্বল থাকায় ব্যাটারদের রান তোলা সহজ হয় এবং বোলারদের ভূমিকা সীমিত হয়ে পড়ে। এই ভারসাম্যহীনতা দূর করতে নিউজিল্যান্ড ক্রিকেট ঘরোয়া পর্যায়ে পুরনো এক বলের নিয়ম ফিরিয়ে এনে পরীক্ষা চালাচ্ছে, যা আন্তর্জাতিক ক্রিকেটেও নিয়ম পরিবর্তনের পথে প্রভাব ফেলতে পারে।",
+        "details_en": "The introduction of two new balls in modern one-day cricket significantly diminished reverse swing opportunities for bowlers. With balls remaining hard and shiny through the death overs, batters gained a distinct advantage while bowlers struggled. To address this imbalance, New Zealand Cricket is testing a single-ball rule in domestic fixtures, potentially paving the way for broader shifts in international playing conditions."
       }
     },
     {
-      "story_id": "f5f2e38f-9b2c-5e00-af0f-40fd76c3dfac",
-      "primary_category": "society_education",
+      "story_id": "7695462c-15f1-500c-90c8-98b1ce8e0059",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
-        "governance_law"
+        "world_diplomacy",
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/parliament-3.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-28T03:00:00+00:00",
+      "published_at": "2026-10-28T03:59:56+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9624,
+      "rank_score": 0.9638,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/lifestyle/977080/%E0%A6%97%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A7%80%E0%A7%9F-%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%8B-%E0%A6%86%E0%A6%B0-%E0%A6%AA%E0%A6%BE%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%9F%E0%A6%AA%E0%A7%8C%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%81%E0%A6%A4%E0%A7%8B-%E0%A6%8F-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8",
-          "title": "গলায় রাজকীয় মুক্তো আর পায়ে আটপৌরে জুতো, এ কেমন ফ্যাশন দিবস?",
-          "snippet": "গলায় রাজকীয় মুক্তো আর পায়ে আটপৌরে জুতো, এ কেমন ফ্যাশন দিবস?"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/thousands-of-people-in-parliament-demand-higher-wages-less-violence-and-the-right-to-home-ownership/",
+          "title": "নিরাপত্তা ও বাড়ির অধিকারের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভকারীরা",
+          "snippet": "নিরাপত্তা ও বাড়ির অধিকারের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভকারীরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "স্নিকার্স ও মুক্তোর মালায় ফ্যাশনের সাথে নারীর নেতৃত্ব উদযাপিত",
-        "title_en": "Snickers and Pearl Necklaces Celebrate Women Leadership Through Fashion",
-        "summary_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের সাজে অনুপ্রাণিত হয়ে অনেকেই মুক্তার গয়না ও কেডস পরে নারী ক্ষমতায়ন ও নেতৃত্ব উদযাপন করেছেন।",
-        "summary_en": "Inspired by former US Vice President Kamala Harris, many people celebrated women empowerment and leadership wearing pearls and sneakers.",
+        "title_bn": "উচ্চ মজুরি ও আবাসনের দাবিতে পর্তুগালে সংসদমুখী বিক্ষোভ",
+        "title_en": "Protesters Gather Outside Portuguese Parliament Demanding Higher Wages and Housing",
+        "summary_bn": "হাজারো বিক্ষোভকারী পর্তুগালের সংসদ প্রাঙ্গণে জড়ো হয়ে উচ্চ মজুরি, সহিংসতামুক্ত সমাজ ও আবাসন অধিকারের দাবি জানিয়েছেন।",
+        "summary_en": "Thousands of protesters gathered outside the Portuguese parliament demanding higher wages, a violence-free society, and housing rights.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
-          "governance_law"
+          "world_diplomacy",
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T03:00:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের সাজে অনুপ্রাণিত হয়ে অনেকেই মুক্তার গয়না ও কেডস পরে নারী ক্ষমতায়ন ও নেতৃত্ব উদযাপন করেছেন।",
-        "lead_en": "Inspired by former US Vice President Kamala Harris, many people celebrated women empowerment and leadership wearing pearls and sneakers.",
+        "published_at": "2026-10-28T03:59:56+00:00",
+        "lead_bn": "হাজারো বিক্ষোভকারী পর্তুগালের সংসদ প্রাঙ্গণে জড়ো হয়ে উচ্চ মজুরি, সহিংসতামুক্ত সমাজ ও আবাসন অধিকারের দাবি জানিয়েছেন।",
+        "lead_en": "Thousands of protesters gathered outside the Portuguese parliament demanding higher wages, a violence-free society, and housing rights.",
         "bullets_bn": [
-          "চাঙ্কস এন পার্লস ডে উপলক্ষে মুক্তার মালা ও স্নিকার্স পরে অংশ নেন অংশগ্রহণকারীরা",
-          "কমলা হ্যারিসের পরিচিত সাজ থেকে অনুপ্রাণিত হয়ে এই ব্যতিক্রমী ফ্যাশন আয়োজন করা হয়",
-          "রাজনীতিতে নারীদের সাফল্য ও নেতৃত্ব অর্জনের বার্তা ছড়িয়ে দিতে এই দিবস পালিত হয়"
+          "বিক্ষোভকারীরা জীবনযাত্রার ব্যয় বৃদ্ধি, ব্যক্তিগত নিরাপত্তা ঘাটতি এবং তীব্র আবাসনসংকটের বিরুদ্ধে সংসদ প্রাঙ্গণে অবস্থান নেন।",
+          "আন্দোলনে অংশ নেওয়া মারিয়ানা জসেল জীবনযাত্রার মান উন্নয়ন এবং সাধারণ মানুষের বাড়ির মালিক হওয়ার সুযোগ নিশ্চিত করার আহ্বান জানান।",
+          "সংশ্লিষ্ট কর্তৃপক্ষের কার্যকর পদক্ষেপের মাধ্যমে নাগরিকদের জীবনযাত্রায় স্বস্তি ও নিরাপত্তা নিশ্চিত করার দাবি জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Participants wore pearl necklaces and sneakers to observe Chunks and Pearls Day",
-          "This unique fashion event drew inspiration from the signature style of Kamala Harris",
-          "The day was observed to spread the message of women success and leadership in politics"
+          "Protesters gathered outside the parliament against rising living costs, lack of personal security, and severe housing crises.",
+          "Participant Mariana Jassel called for improved living standards and guaranteed opportunities for ordinary people to own homes.",
+          "Demonstrators are awaiting effective measures from relevant authorities to ensure relief and security in citizens lives."
         ],
-        "impact_bn": "এই ধরনের উদ্যোগ তরুণ প্রজন্মকে রাজনীতিতে নারীদের অংশগ্রহণ ও নেতৃত্ব সম্পর্কে সচেতন করে তোলে।",
-        "impact_en": "Such initiatives raise awareness among the younger generation regarding women participation and leadership in politics.",
-        "details_bn": "যুক্তরাষ্ট্রের সাবেক ভাইস প্রেসিডেন্ট কমলা হ্যারিসের ফ্যাশন স্টাইল বিশ্বজুড়ে নারীদের কাছে পরিচিতি লাভ করেছে। তার রাজকীয় মুক্তার মালা এবং আটপৌরে কেডসের মিশ্রণকে প্রতীকী হিসেবে ব্যবহার করে বিভিন্ন স্থানে নারীদের রাজনৈতিক ক্ষমতায়ন ও সাফল্য উদযাপিত হয়। ফ্যাশনের মাধ্যমে সামাজিক বার্তা ছড়ানোর এই প্রবণতা তরুণদের মধ্যে বেশ সাড়া ফেলেছে।",
-        "details_en": "The fashion style of former US Vice President Kamala Harris has gained global recognition among women. Using the combination of her royal pearl necklace and casual sneakers as a symbol, women political empowerment and success are celebrated in various places. This trend of spreading social messages through fashion has generated significant interest among youth."
+        "impact_bn": "এই আন্দোলন পর্তুগালের নীতিনির্ধারকদের আবাসন সংকট ও জীবনযাত্রার ব্যয় কমাতে কার্যকর পদক্ষেপ নিতে বাধ্য করতে পারে।",
+        "impact_en": "The movement could pressure policymakers in Portugal to take effective steps to address the housing crisis and cost of living.",
+        "details_bn": "পর্তুগালে সাম্প্রতিক বছরগুলোতে জীবনযাত্রার ব্যয় ও আবাসন সংকট তীব্র আকার ধারণ করেছে। এর ফলে সাধারণ মানুষের জীবনযাত্রা কঠিন হয়ে পড়ায় বিভিন্ন পেশার মানুষ ও অধিকারকর্মীরা রাজপথে নেমে প্রতিবাদ জানাচ্ছেন। নাগরিকরা মজুরি বৃদ্ধি এবং আবাসনের অধিকার নিশ্চিত করার জন্য দীর্ঘদিন ধরে সরকারের প্রতি দাবি জানিয়ে আসছেন।",
+        "details_en": "In recent years, the cost of living and housing crisis in Portugal have intensified significantly, making daily life difficult for ordinary citizens and prompting protests from various groups and activists. Citizens have long been demanding increased wages and guaranteed housing rights from the government."
       }
     },
     {
@@ -240,14 +240,15 @@
       "region": "international",
       "tags": [
         "#Inflation",
-        "#Australia"
+        "#InterestRate",
+        "#AustraliaEconomy"
       ],
       "image_url": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc0c94e1abf4a5f28087db475685674e",
       "image_caption": null,
       "published_at": "2026-10-28T02:17:32+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.25,
-      "rank_score": 1.1532,
+      "rank_score": 0.7693,
       "sources": [
         {
           "name": "The Guardian World",
@@ -257,10 +258,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "অস্ট্রেলিয়ার মূল্যস্ফীতি বেড়ে ৪.৩ শতাংশে উন্নীত হয়েছে",
-        "title_en": "Australia Inflation Rate Rises to 4.3 Percent",
-        "summary_bn": "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর নতুন সুদহার বৃদ্ধির আশঙ্কা তীব্র হয়েছে।",
-        "summary_en": "Australia headline inflation accelerates to 4.3 percent, heightening market expectations for another imminent interest rate hike.",
+        "title_bn": "অস্ট্রেলিয়ায় মুদ্রাস্ফীতি বেড়ে ৪.৩ শতাংশ হওয়ায় সুদের হার বৃদ্ধির আশঙ্কা",
+        "title_en": "Australian Inflation Rises to 4.3 Percent Fuelling Interest Rate Hike Fears",
+        "summary_bn": "অস্ট্রেলিয়ার বার্ষিক মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর কেন্দ্রীয় ব্যাংক সুদের হার আরও বাড়াতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "summary_en": "Australias headline inflation rate has accelerated to 4.3 percent, sharply raising expectations of another upcoming interest rate rise by the central bank.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -271,88 +272,80 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T02:17:32+00:00",
-        "lead_bn": "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর নতুন সুদহার বৃদ্ধির আশঙ্কা তীব্র হয়েছে।",
-        "lead_en": "Australia headline inflation accelerates to 4.3 percent, heightening market expectations for another imminent interest rate hike.",
+        "lead_bn": "অস্ট্রেলিয়ার বার্ষিক মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছানোর পর কেন্দ্রীয় ব্যাংক সুদের হার আরও বাড়াতে পারে বলে আশঙ্কা করা হচ্ছে।",
+        "lead_en": "Australias headline inflation rate has accelerated to 4.3 percent, sharply raising expectations of another upcoming interest rate rise by the central bank.",
         "bullets_bn": [
-          "অস্ট্রেলিয়ায় মূল্যস্ফীতির হার বেড়ে চার দশমিক তিন শতাংশ হয়েছে",
-          "কেন্দ্রীয় ব্যাংকের নির্ধারিত মূল্যস্ফীতি লক্ষ্যমাত্রা অর্জনে আরও সুদহার বাড়ানোর ইঙ্গিত দেওয়া হয়েছে",
-          "মূল্যস্ফীতি পরিস্থিতি নিয়ন্ত্রণে আনতে অস্ট্রেলিয়ান রিজার্ভ ব্যাংক আগামী মাসে নতুন মুদ্রানীতি ঘোষণা করতে পারে"
+          "অস্ট্রেলিয়ার হেডলাইন মুদ্রাস্ফীতি বেড়ে চার দশমিক তিন শতাংশে পৌঁছেছে যা কেন্দ্রীয় ব্যাংকের লক্ষ্যমাত্রার চেয়ে বেশি।",
+          "রিজার্ভ ব্যাংক অব অস্ট্রেলিয়ার পছন্দের অন্তর্নিহিত মুদ্রাস্ফীতি বার্ষিক ভিত্তিতে তিন দশমিক ছয় শতাংশ রেকর্ড করা হয়েছে।",
+          "কেন্দ্রীয় ব্যাংকের আসন্ন মুদ্রানীতি পর্যালোচনার বৈঠকে সুদের হার আরও এক দফা বৃদ্ধির জোরালো সম্ভাবনা রয়েছে।"
         ],
         "bullets_en": [
-          "Australia headline inflation rate accelerates to an annual 4.3 percent",
-          "Reserve Bank of Australia officials warn that borrowing costs may need to rise further",
-          "The central bank prepares for its upcoming monetary policy decision amid persistent inflation risks"
+          "Australias headline inflation rate accelerated to 4.3 percent, driving concerns among policymakers.",
+          "The Reserve Bank of Australia reported an annual underlying inflation rate of 3.6 percent.",
+          "The central bank faces mounting pressure to lift borrowing costs further during its upcoming monetary policy decision."
         ],
-        "impact_bn": "সুদহার বৃদ্ধির কারণে অস্ট্রেলিয়ার সাধারণ মানুষের গৃহঋণ এবং দৈনন্দিন জীবনের খরচ আরও বৃদ্ধি পাবে।",
-        "impact_en": "Higher interest rates will directly increase mortgage repayments and borrowing costs for ordinary Australian consumers.",
-        "details_bn": "অস্ট্রেলিয়ার কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে এর আগে কয়েক দফা নীতি সুদহার বৃদ্ধি করেছে। দেশটির বর্তমান নগদ সুদের হার ১৫ বছরের মধ্যে সর্বোচ্চ অবস্থানে রয়েছে। কেন্দ্রীয় ব্যাংকের মতে, দীর্ঘমেয়াদী মূল্যস্ফীতি নিয়ন্ত্রণের বাইরে চলে যাওয়ার ঝুঁকি এড়াতে কঠোর পদক্ষেপ প্রয়োজন।",
-        "details_en": "The Reserve Bank of Australia has systematically raised borrowing costs to combat persistent price pressures across the domestic economy. With the cash rate already standing at a 15-year high following multiple hikes, central bank officials remain vigilant against entrenched inflation expectations that could destabilize economic growth."
+        "impact_bn": "অস্ট্রেলিয়ায় সুদের হার বৃদ্ধি পেলে সাধারণ মানুষের গৃহঋণ ও অন্যান্য ঋণের কিস্তি বেড়ে যাওয়ায় দৈনন্দিন খরচ ও জীবনযাত্রার ব্যয় বৃদ্ধি পাবে।",
+        "impact_en": "Higher interest rates will increase mortgage and borrowing costs for ordinary citizens, tightening household budgets across Australia.",
+        "details_bn": "অস্ট্রেলিয়ার কেন্দ্রীয় ব্যাংক মূল্যস্ফীতিকে তাদের দুই দশমিক পাঁচ শতাংশ লক্ষ্যের দিকে নামিয়ে আনতে এর আগে দফায় দফায় সুদের হার বৃদ্ধি করেছে। বর্তমানের চার দশমিক ছয় শতাংশের ক্যাশ রেট গত পনেরো বছরের মধ্যে সর্বোচ্চ স্তরে অবস্থান করছে। কেন্দ্রীয় ব্যাংকের কর্মকর্তারা মনে করেন দীর্ঘমেয়াদী মূল্যস্ফীতির প্রত্যাশা উসকে যাওয়ার ঝুঁকি এড়াতে কঠোর আর্থিক নীতি বজায় রাখা জরুরি।",
+        "details_en": "The Reserve Bank of Australia has aggressively tightened monetary policy to drag price growth back down toward its 2.5 percent target. The cash rate currently stands at 4.6 percent, representing a 15-year high following multiple hikes. Central bank officials emphasize the urgent need to prevent long-term inflation expectations from unanchoring, which could severely complicate future economic stabilization efforts."
       }
     },
     {
-      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
-      "primary_category": "climate_environment",
+      "story_id": "a52f5bfa-6acc-5cd0-ac25-c9094f26695f",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "climate_environment",
         "world_diplomacy",
-        "society_education"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#ClimateCrisis",
-        "#GlobalHealth",
-        "#ClimateEmergency"
+        "#BrazilPolitics",
+        "#FlavioBolsonaro",
+        "#USABrazilRelations"
       ],
-      "image_url": "https://static.dw.com/image/69108117_6.jpg",
+      "image_url": "https://static.dw.com/image/79773345_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T03:00:51.244386+00:00",
+      "published_at": "2026-10-28T04:00:42.217275+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.12,
-      "rank_score": 0.858,
+      "importance_score": 1.7,
+      "rank_score": 0.6884,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-          "title": "Experts urge 'global health emergency' as climate harms accelerate",
-          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
-        },
-        {
-          "name": "Inside Climate News",
-          "url": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
-          "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
-          "snippet": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health"
+          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+          "title": "Flavio Bolsonaro flees Brazil for US amid investigation — reports",
+          "snippet": "Flavio Bolsonaro flees Brazil for US amid investigation — reports"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার দাবি বিজ্ঞানীদের",
-        "title_en": "Researchers Urge Global Health Emergency Over Accelerating Climate Crisis",
-        "summary_bn": "বিশ্বজুড়ে জলবায়ু পরিবর্তনের কারণে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জরুরি অবস্থা ঘোষণার আহ্বান জানিয়েছেন বিজ্ঞানীরা।",
-        "summary_en": "Nearly 150 researchers worldwide are urging for climate change to be declared a global health emergency.",
+        "title_bn": "ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে গেছেন তদন্তের মুখে থাকা সিনেটর ফ্যাভিও বলসোনারো",
+        "title_en": "Brazilian Senator Flavio Bolsonaro Flees to US Amid Investigations",
+        "summary_bn": "নির্বাচনী পরাজয় ও তদন্তের মুখে ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে চলে গেছেন দেশটির সিনেটর ফ্যাভিও বলসোনারো।",
+        "summary_en": "Brazilian Senator Flavio Bolsonaro fled the country for the United States amid ongoing investigations and his recent election defeat.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "climate_environment",
           "world_diplomacy",
-          "society_education"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T03:00:51.244386+00:00",
-        "lead_bn": "বিশ্বজুড়ে জলবায়ু পরিবর্তনের কারণে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জরুরি অবস্থা ঘোষণার আহ্বান জানিয়েছেন বিজ্ঞানীরা।",
-        "lead_en": "Nearly 150 researchers worldwide are urging for climate change to be declared a global health emergency.",
+        "published_at": "2026-10-28T04:00:42.217275+00:00",
+        "lead_bn": "নির্বাচনী পরাজয় ও তদন্তের মুখে ব্রাজিল ছেড়ে যুক্তরাষ্ট্রে চলে গেছেন দেশটির সিনেটর ফ্যাভিও বলসোনারো।",
+        "lead_en": "Brazilian Senator Flavio Bolsonaro fled the country for the United States amid ongoing investigations and his recent election defeat.",
         "bullets_bn": [
-          "প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার দাবি তুলেছেন",
-          "জলবায়ুজনিত তাপপ্রবাহের কারণে ২০২৩ সালে পাঁচ লাখেরও বেশি মানুষের মৃত্যু হয়েছে",
-          "মানুষের স্বাস্থ্য সুরক্ষাকে অগ্রাধিকার দিয়ে অবিলম্বে জলবায়ু নীতিতে পরিবর্তনের আহ্বান জানানো হয়েছে"
+          "সিনেটর ফ্যাভিও বলসোনারো বিচারিক তদন্ত এড়াতে দেশ ছেড়ে যুক্তরাষ্ট্রের উদ্দেশ্যে রওনা দেন।",
+          "যুক্তরাষ্ট্রের পররাষ্ট্র দপ্তর ফ্যাভিও বলসোনারো ও তার পরিবারের জন্য ভিসা ইস্যু করার বিষয়টি নিশ্চিত করেছে।",
+          "ব্রাজিলের প্রেসিডেন্ট লুলা দা সিলভা বলসোনারোর দেশত্যাগের বিষয়টি নিশ্চিত করে তীব্র সমালোচনা করেছেন।"
         ],
         "bullets_en": [
-          "Nearly 150 researchers from over 30 countries called for declaring climate change a global health emergency",
-          "Climate change caused over half a million heat deaths in 2023 and inflicted 1.07 trillion dollars in lost income",
-          "Experts emphasize placing human health and well-being at the core of global climate action responses"
+          "Senator Flavio Bolsonaro departed Brazil for the United States amidst ongoing judicial investigations.",
+          "The US State Department confirmed that visas will be issued to Flavio Bolsonaro and his family.",
+          "Brazilian President Luiz Inacio Lula da Silva criticized the departure, calling it an act of evading accountability."
         ],
-        "impact_bn": "তীব্র তাপপ্রবাহ ও খাদ্যনিরাপত্তাহীনতা সাধারণ মানুষের জীবনযাত্রা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বাড়িয়ে দিচ্ছে।",
-        "impact_en": "Intensifying heatwaves and food insecurity directly threaten public health, productivity, and the daily lives of citizens worldwide.",
-        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর থেকে বিশ্বজুড়ে তাপমাত্রা বৃদ্ধি এবং এর ফলে স্বাস্থ্যগত ও অর্থনৈতিক ক্ষতি রেকর্ড মাত্রায় পৌঁছেছে। ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জের প্রতিবেদনে বলা হয়েছে, চরম খরা ও তাপপ্রবাহের কারণে খাদ্য উৎপাদন ব্যাহত হচ্ছে এবং লাখ লাখ মানুষ দীর্ঘস্থায়ী স্বাস্থ্য ঝুঁকিতে পড়ছেন। গবেষকরা সতর্ক করে বলেছেন, বর্তমান নির্গমন লক্ষ্যমাত্রার পরিবর্তে মানুষের জীবন বাঁচানোকে মূল মাপকাঠি হিসেবে বিবেচনা করতে হবে।",
-        "details_en": "Since the signing of the Paris climate accord, global health and economic tolls from planetary heating have risen sharply. The Lancet Countdown report highlights that climate change caused nearly three million heat-related deaths since 2016 while extreme drought expanded rapidly. Experts warn that current mitigation strategies must shift focus from emissions targets to direct human health outcomes and life preservation."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ব্রাজিলের সাবেক প্রেসিডেন্ট জাইর বলসোনারোর জ্যেষ্ঠপুত্র এবং সিনেটর ফ্যাভিও বলসোনারোর বিরুদ্ধে বিভিন্ন তদন্ত চলছে। দেশটির সুপ্রিম কোর্ট তাকে দেশত্যাগ রোধে পাসপোর্ট জমা দেওয়ার নির্দেশ দিলেও তিনি তা এড়িয়ে যান। প্রেসিডেন্ট নির্বাচনে পরাজয়ের পর তার এই গোপন দেশত্যাগ রাজনৈতিক মহলে তীব্র প্রতিক্রিয়া সৃষ্টি করেছে।",
+        "details_en": "Senator Flavio Bolsonaro, the eldest son of former Brazilian President Jair Bolsonaro, faced an investigation and a Supreme Court directive to surrender his passports. Following his defeat in the presidential election, his departure to the United States sparked sharp criticism from President Luiz Inacio Lula da Silva, who accused him of evading accountability."
       }
     }
   ]
