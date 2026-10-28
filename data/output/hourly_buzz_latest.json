@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:00:45.465490",
+  "updated_at": "2026-10-28T07:00:42.558027",
   "total_stories": 6,
   "stories": [
     {
@@ -18,7 +18,7 @@
       "published_at": "2026-10-28T05:38:24+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 2.92,
+      "rank_score": 1.8504,
       "sources": [
         {
           "name": "প্রথম আলো",
@@ -28,10 +28,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশে কার্যালয় খোলার প্রস্তাব বিবেচনা করবে জেবিআইসি",
-        "title_en": "JBIC to Consider Opening Dhaka Office to Boost Investment",
-        "summary_bn": "জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নর বাংলাদেশে কার্যালয় খোলার প্রস্তাব গুরুত্বের সঙ্গে বিবেচনা করার আশ্বাস দিয়েছেন।",
-        "summary_en": "The Japan Bank for International Cooperation governor assured serious consideration for opening a local office.",
+        "title_bn": "জাপান ব্যাংক গভর্নর ও প্রধানমন্ত্রীর বৈঠকে জ্বালানি ও অবকাঠামো খাতে বিনিয়োগ নিয়ে আলোচনা",
+        "title_en": "PM and JBIC Governor Discuss Investments in Energy and Infrastructure Sectors",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জ্বালানি ও আইসিটি খাতে বিনিয়োগ বাড়াতে ঢাকায় কার্যালয় খোলার প্রস্তাব দিয়েছে জেবিআইসি।",
+        "summary_en": "JBIC proposed opening a Dhaka office during a meeting with Prime Minister Tarique Rahman to boost energy and ICT investments.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -39,30 +39,141 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T05:38:24+00:00",
-        "lead_bn": "জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নর বাংলাদেশে কার্যালয় খোলার প্রস্তাব গুরুত্বের সঙ্গে বিবেচনা করার আশ্বাস দিয়েছেন।",
-        "lead_en": "The Japan Bank for International Cooperation governor assured serious consideration for opening a local office.",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে বৈঠকে জ্বালানি ও আইসিটি খাতে বিনিয়োগ বাড়াতে ঢাকায় কার্যালয় খোলার প্রস্তাব দিয়েছে জেবিআইসি।",
+        "lead_en": "JBIC proposed opening a Dhaka office during a meeting with Prime Minister Tarique Rahman to boost energy and ICT investments.",
         "bullets_bn": [
-          "জাপানি প্রতিনিধিদল বাংলাদেশের জ্বালানি, আইসিটি ও অবকাঠামো খাতে বিনিয়োগ বাড়াতে আগ্রহ প্রকাশ করেছে।",
-          "প্রধানমন্ত্রী তারেক রহমান দেশি-বিদেশি বিনিয়োগ আকৃষ্ট করতে বিধিবিধান সংস্কার ও সহজীকরণের প্রতিশ্রুতি দিয়েছেন।",
-          "জেবিআইসির প্রস্তাব বাস্তবায়িত হলে বাংলাদেশে জাপানি বিনিয়োগ ও অর্থনৈতিক সহযোগিতা আরও ত্বরান্বিত হবে।"
+          "জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশনের গভর্নর আমাকাওয়া কাজুহিকোর সাথে বৈঠক করেন প্রধানমন্ত্রী।",
+          "বাংলাদেশে জেবিআইসির কার্যালয় খোলার প্রস্তাব গুরুত্বের সাথে বিবেচনা করার আশ্বাস দেওয়া হয়েছে।",
+          "বিনিয়োগবান্ধব পরিবেশ নিশ্চিত করতে বিধিবিধান সংস্কার ও সহজীকরণের উদ্যোগ নিয়েছে সরকার।"
         ],
         "bullets_en": [
-          "The Japanese delegation expressed interest in expanding investments in energy, ICT, and infrastructure.",
-          "Prime Minister Tarique Rahman pledged to reform regulations to attract domestic and foreign investments.",
-          "Implementation of the JBIC proposal will further accelerate Japanese investment and economic cooperation."
+          "The Prime Minister held a bilateral meeting with JBIC Governor Amakawa Kazuhiko.",
+          "The JBIC governor assured serious consideration of opening an office in Dhaka.",
+          "The government has initiated regulatory reforms to ensure a business-friendly environment for foreign investors."
         ],
-        "impact_bn": "জাপানি বিনিয়োগ বাড়লে নতুন কর্মসংস্থান তৈরি হবে এবং দেশের প্রযুক্তি ও অবকাঠামো খাতের উন্নয়ন দ্রুততর হবে।",
-        "impact_en": "Increased Japanese investment will create new jobs and accelerate development in technology and infrastructure.",
-        "details_bn": "জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশন দীর্ঘদিন ধরে বাংলাদেশের বিভিন্ন অগ্রাধিকারভিত্তিক প্রকল্পে অর্থায়ন ও সহযোগিতা করে আসছে। বর্তমান সরকার দায়িত্ব নেওয়ার পর দেশি-বিদেশি বিনিয়োগ বাড়াতে ব্যবসাবান্ধব পরিবেশ সৃষ্টির ওপর জোর দিয়েছে। এর ধারাবাহিকতায় জ্বালানি ও আইসিটি খাতের মতো গুরুত্বপূর্ণ ক্ষেত্রে জাপানি সহযোগিতা আরও সুদৃঢ় করতে এই উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়।",
-        "details_en": "The Japan Bank for International Cooperation has long financed and supported priority projects in Bangladesh. After taking office, the current administration emphasized creating a business-friendly environment to attract investments. This high-level meeting was held to further strengthen Japanese cooperation in critical sectors like energy and ICT."
+        "impact_bn": "বিদেশি বিনিয়োগ বাড়লে দেশের জ্বালানি ও অবকাঠামো খাতের উন্নয়নে নতুন কর্মসংস্থান তৈরি হবে।",
+        "impact_en": "Increased foreign investment will create new employment opportunities through energy and infrastructure sector development.",
+        "details_bn": "জাপান ব্যাংক ফর ইন্টারন্যাশনাল কো-অপারেশন দীর্ঘদিন ধরে বাংলাদেশের অবকাঠামো ও অর্থনৈতিক উন্নয়নে সহায়তা করে আসছে। বর্তমান সরকার দায়িত্ব নেওয়ার পর দেশি-বিদেশি বিনিয়োগ আকৃষ্ট করা এবং ব্যবসা সহজীকরণের ওপর বিশেষ জোর দিচ্ছে। এর অংশ হিসেবে জ্বালানি, আইসিটি ও অবকাঠামো খাতে জাপানি সহযোগিতা আরও সুদৃঢ় করতে এই উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়।",
+        "details_en": "The Japan Bank for International Cooperation has long supported Bangladesh's infrastructure and economic development. Following the assumption of power, the current administration has placed special emphasis on attracting foreign investment and easing business procedures. This high-level meeting was held to further solidify Japanese cooperation in energy, ICT, and infrastructure sectors."
       }
     },
     {
-      "story_id": "cbd8f67d-7ffb-52f6-905c-eeec6c99bdde",
+      "story_id": "20f55456-cf88-5f9c-8674-8c6f4d032aed",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T06:51:23+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.7639,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/africa/977226/%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81%E0%A6%95%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%A8%E0%A6%BF%E0%A6%B9%E0%A6%A4-%E0%A6%AC%E0%A7%87%E0%A7%9C%E0%A7%87-%E0%A7%AC%E0%A7%A8",
+          "title": "নাইজেরিয়ার বন্দুকধারীদের হামলায় নিহত বেড়ে ৬২",
+          "snippet": "নাইজেরিয়ার বন্দুকধারীদের হামলায় নিহত বেড়ে ৬২"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "নাইজেরিয়ায় বন্দুকধারীদের হামলায় নিহত বেড়ে ৬২",
+        "title_en": "Gunmen Attacks in Nigeria Leave 62 Dead",
+        "summary_bn": "নাইজেরিয়ার একটি প্রত্যন্ত গ্রামে বন্দুকধারীদের ভয়াবহ হামলায় নিহতের সংখ্যা বেড়ে অন্তত বাষট্টি জনে দাঁড়িয়েছে।",
+        "summary_en": "At least 62 people have been killed following a brutal attack by armed gunmen in a remote Nigerian village.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T06:51:23+00:00",
+        "lead_bn": "নাইজেরিয়ার একটি প্রত্যন্ত গ্রামে বন্দুকধারীদের ভয়াবহ হামলায় নিহতের সংখ্যা বেড়ে অন্তত বাষট্টি জনে দাঁড়িয়েছে।",
+        "lead_en": "At least 62 people have been killed following a brutal attack by armed gunmen in a remote Nigerian village.",
+        "bullets_bn": [
+          "নাইজেরিয়ার তারাবা রাজ্যে অজ্ঞাত বন্দুকধারীরা অতর্কিত এই হামলা চালায়।",
+          "জাতীয় জরুরি ব্যবস্থাপনা সংস্থার তথ্য অনুযায়ী হামলায় হাজার হাজার মানুষ বাস্তুচ্যুত হয়েছেন।",
+          "নিরাপত্তা বাহিনী হামলাকারীদের গ্রেফতারে ওই এলাকায় অভিযান জোরদার করেছে।"
+        ],
+        "bullets_en": [
+          "Unidentified armed attackers carried out a sudden raid in Taraba state, Nigeria.",
+          "The National Emergency Management Agency confirmed that thousands of residents have been displaced.",
+          "Security forces have intensified operations in the area to track down the perpetrators."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "নাইজেরিয়ার উত্তর-পূর্বাঞ্চলীয় রাজ্যগুলোতে সশস্ত্র গোষ্ঠী ও ডাকাত দলের হামলা দীর্ঘদিন ধরে একটি বড় নিরাপত্তা সংকট তৈরি করে আসছে। প্রত্যন্ত এলাকাগুলোতে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর সীমিত উপস্থিতির সুযোগ নিয়ে এসব সন্ত্রাসীগোষ্ঠী প্রায়ই বেসামরিক নাগরিকদের লক্ষ্য করে হামলা চালায়। সাম্প্রতিক এই সহিংসতায় হাজার হাজার মানুষ গৃহহীন হয়ে পড়েছেন এবং চরম মানবিক সংকটের মুখে পড়েছেন।",
+        "details_en": "Armed gangs and militant groups have long posed severe security challenges in northeastern Nigeria. Capitalizing on the limited presence of law enforcement in remote areas, these groups frequently target civilians. The recent surge in violence has displaced thousands of residents, pushing local communities toward a severe humanitarian crisis."
+      }
+    },
+    {
+      "story_id": "9274efc7-6ea1-5194-b062-cabafb6c8c67",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": "https://media.channelionline.com/2026/10/PMM.jpg?w=1200",
+      "image_caption": null,
+      "published_at": "2026-10-28T05:08:08+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 6.6,
+      "rank_score": 1.1323,
+      "sources": [
+        {
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/prime-minister-urges-uniqlo-to-expand-investment-in-bangladesh/",
+          "title": "পোশাকশিল্পে জাপানি বিনিয়োগ বাড়াতে প্রধানমন্ত্রীর আহ্বান",
+          "snippet": "পোশাকশিল্পে জাপানি বিনিয়োগ বাড়াতে প্রধানমন্ত্রীর আহ্বান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "পোশাকশিল্পে কৃত্রিম তন্তু ও কারিগরি বস্ত্র উৎপাদনে জাপানি বিনিয়োগ বাড়াতে প্রধানমন্ত্রীর আহ্বান",
+        "title_en": "PM Urges Japanese Investment in Synthetic and Technical Textile Sectors",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান ইউনিক্লোর শীর্ষ নির্বাহীদের সাথে বৈঠকে পোশাকশিল্পে জাপানি বিনিয়োগ ও প্রযুক্তি হস্তান্তর বাড়ানোর আহ্বান জানান।",
+        "summary_en": "Prime Minister Tarique Rahman urged Uniqlo executives to increase Japanese investment and technology transfer in Bangladesh garment sector.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T05:08:08+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান ইউনিক্লোর শীর্ষ নির্বাহীদের সাথে বৈঠকে পোশাকশিল্পে জাপানি বিনিয়োগ ও প্রযুক্তি হস্তান্তর বাড়ানোর আহ্বান জানান।",
+        "lead_en": "Prime Minister Tarique Rahman urged Uniqlo executives to increase Japanese investment and technology transfer in Bangladesh garment sector.",
+        "bullets_bn": [
+          "প্রধানমন্ত্রী তারেক রহমান ইউনিক্লোর মূল প্রতিষ্ঠান ফাস্ট রিটেইলিংয়ের প্রধান নির্বাহী তাদাশি ইয়ানাইয়ের সাথে বৈঠক করেন।",
+          "বৈঠকে কৃত্রিম তন্তু, কারিগরি বস্ত্র ও টেকসই পোশাক উৎপাদন খাতে বিনিয়োগ বাড়ানোর ওপর বিশেষ গুরুত্ব দেওয়া হয়।",
+          "সরকার বাংলাদেশে ইউনিক্লোর কার্যক্রম সম্প্রসারণের জন্য জমি বরাদ্দসহ প্রয়োজনীয় প্রশাসনিক সহযোগিতা দেওয়ার আশ্বাস দিয়েছে।"
+        ],
+        "bullets_en": [
+          "Prime Minister Tarique Rahman held a meeting with Tadashi Yanai, CEO of Uniqlo parent company Fast Retailing.",
+          "The discussions emphasized increasing investments in synthetic fibers, technical textiles, and sustainable apparel production.",
+          "The government assured necessary administrative support, including land allocation, to expand Uniqlo operations in Bangladesh."
+        ],
+        "impact_bn": "বিনিয়োগ বৃদ্ধি পেলে পোশাক খাতে নতুন কর্মসংস্থান তৈরি হবে এবং উন্নত প্রযুক্তি হস্তান্তরের সুযোগ সৃষ্টি হবে।",
+        "impact_en": "Increased investment will create new employment opportunities in the apparel sector and facilitate advanced technology transfer.",
+        "details_bn": "বাংলাদেশের তৈরি পোশাকশিল্পের দীর্ঘদিনের অংশীদার জাপানি ব্র্যান্ড ইউনিক্লোর মূল প্রতিষ্ঠান ফাস্ট রিটেইলিংয়ের সাথে এই উচ্চপর্যায়ের বৈঠক অনুষ্ঠিত হয়। বৈঠকে বাংলাদেশ-জাপান অর্থনৈতিক অংশীদারত্ব চুক্তি বাস্তবায়নের গুরুত্বও পুনর্ব্যক্ত করা হয়, যা দুই দেশের দ্বিপক্ষীয় বাণিজ্য সম্পর্ক আরও সুদৃঢ় করবে বলে আশা করা হচ্ছে।",
+        "details_en": "This high-level meeting took place with Fast Retailing, the parent company of Japanese brand Uniqlo and a long-standing partner of Bangladesh garment sector. Both sides reiterated the importance of implementing the Bangladesh-Japan Economic Partnership Agreement to further strengthen bilateral trade relations."
+      }
+    },
+    {
+      "story_id": "1edff716-f411-506c-87ad-bcf72fd7e901",
       "primary_category": "economy_business",
       "interest_categories": [
-        "economy_business",
-        "world_diplomacy"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
@@ -71,283 +182,169 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T05:30:46+00:00",
+      "published_at": "2026-10-28T06:50:07+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.001,
+      "importance_score": 2.4,
+      "rank_score": 0.8709,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977217/%E0%A6%B0%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%80%E0%A6%95%E0%A6%B0%E0%A6%A3%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%AF%E0%A7%8B%E0%A6%97%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%A8",
-          "title": "রফতানি পণ্যের বহুমুখীকরণে জাপানের সহযোগিতা চান প্রধানমন্ত্রী",
-          "snippet": "রফতানি পণ্যের বহুমুখীকরণে জাপানের সহযোগিতা চান প্রধানমন্ত্রী"
+          "url": "https://www.banglatribune.com/journey/977229/%E0%A6%95%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%A4%E0%A6%BE-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%BE%E0%A6%AE-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A7%8B%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE-%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3-%E0%A7%AF-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0",
+          "title": "কলকাতা থেকে ভিয়েতনাম-কম্বোডিয়া ভ্রমণ, ৯ দিনের প্যাকেজের খরচ কত",
+          "snippet": "কলকাতা থেকে ভিয়েতনাম-কম্বোডিয়া ভ্রমণ, ৯ দিনের প্যাকেজের খরচ কত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "রফতানি পণ্যের বহুমুখীকরণে জাপানের সহযোগিতা চেয়েছেন প্রধানমন্ত্রী তারেক রহমান",
-        "title_en": "PM Tarique Rahman Seeks Japan Support for Export Diversification",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের সাথে অর্থনৈতিক সম্পর্ক সম্প্রসারণ এবং রফতানি পণ্যের বহুমুখীকরণে সহযোগিতা চেয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman has sought Japanese cooperation to expand economic relations and diversify export goods.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:30:46+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের সাথে অর্থনৈতিক সম্পর্ক সম্প্রসারণ এবং রফতানি পণ্যের বহুমুখীকরণে সহযোগিতা চেয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman has sought Japanese cooperation to expand economic relations and diversify export goods.",
-        "bullets_bn": [
-          "প্রধানমন্ত্রী তারেক রহমান জাপানের কাছে দেশের রফতানি পণ্যের বহুমুখীকরণে কার্যকর সহযোগিতা কামনা করেছেন।",
-          "জেটরো প্রেসিডেন্ট কাতাওকা সুসুমুর সাথে জাপানি স্থানীয় সময় সকাল ১১টা ৪৫ মিনিটে এই দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হয়।",
-          "দুই দেশের অর্থনৈতিক সম্পর্ক জোরদার করার মাধ্যমে নতুন বাণিজ্য ও বিনিয়োগের ক্ষেত্র উন্মোচিত হবে।"
-        ],
-        "bullets_en": [
-          "Prime Minister Tarique Rahman sought effective cooperation from Japan for diversifying the country export products.",
-          "The bilateral meeting with JETRO President Kataoka Susumu was held at 11:45 AM local time in Japan.",
-          "Strengthening economic ties between the two countries will unlock new fields of trade and investment."
-        ],
-        "impact_bn": "রফতানি বহুমুখীকরণ সফল হলে দেশের বাজারে নতুন কর্মসংস্থান তৈরি হবে এবং বৈদেশিক বাণিজ্যের পরিধি বাড়বে।",
-        "impact_en": "Successful export diversification will create new domestic jobs and expand the scope of foreign trade.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের দ্বিপক্ষীয় বাণিজ্যিক সম্পর্ক রয়েছে। জাপান দীর্ঘদিন ধরে বাংলাদেশের অন্যতম প্রধান উন্নয়ন সহযোগী এবং বৈদেশিক বিনিয়োগকারী দেশ হিসেবে কাজ করে আসছে। রফতানি আয়ের পরিধি বাড়াতে এবং নির্দিষ্ট কয়েকটি পণ্যের ওপর নির্ভরতা কমাতে রফতানি বহুমুখীকরণের ওপর জোর দিয়ে আসছে বাংলাদেশ। জেটরো বা জাপান এক্সটার্নাল ট্রেড অর্গানাইজেশন দুই দেশের মধ্যকার বাণিজ্য ও বিনিয়োগ বাড়াতে দীর্ঘদিন ধরে সক্রিয়ভাবে কাজ করছে।",
-        "details_en": "Bangladesh and Japan share long-standing bilateral trade relations. Japan has consistently acted as one of Bangladesh major development partners and foreign investors. Bangladesh has been emphasizing export diversification to increase foreign exchange earnings and reduce dependency on a limited number of commodities. JETRO has long been actively working to enhance bilateral trade and investment between the two nations."
-      }
-    },
-    {
-      "story_id": "95fec456-3d9e-5d7b-8dc8-6aac594145bb",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2F4qg3dd21%2Fnatoredh060420261028natore-lut-photo-4-28.10.26.jpg?rect=0%2C56%2C1041%2C547&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-28T05:05:30+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.189,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/ahmh077xj4",
-          "title": "নাটোরে ছাত্রদল নেতার জানাজা শেষে এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমলে হামলা–লুটপাট",
-          "snippet": "নাটোরে ছাত্রদল নেতার জানাজা শেষে এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমলে হামলা–লুটপাট"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাটোরে ছাত্রদল নেতার জানাজা শেষে শপিং মলে হামলা ও লুটপাট",
-        "title_en": "Shopping Mall Vandalized and Looted After Student Leader Funeral in Natore",
-        "summary_bn": "নাটোরে নিহত ছাত্রদল নেতার জানাজা শেষে একটি শপিং মলে হামলা চালিয়ে ভাঙচুর ও লুটপাট চালিয়েছে বিক্ষুব্ধ জনতা।",
-        "summary_en": "Vandals attacked and looted a shopping mall in Natore following the funeral prayers of a slain student leader.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:05:30+00:00",
-        "lead_bn": "নাটোরে নিহত ছাত্রদল নেতার জানাজা শেষে একটি শপিং মলে হামলা চালিয়ে ভাঙচুর ও লুটপাট চালিয়েছে বিক্ষুব্ধ জনতা।",
-        "lead_en": "Vandals attacked and looted a shopping mall in Natore following the funeral prayers of a slain student leader.",
-        "bullets_bn": [
-          "নিহত ছাত্রদল নেতার জানাজা শেষে চাঁচকৈড় বাজারে একটি শপিং মলে হামলা চালায় বিক্ষুব্ধ লোকজন",
-          "স্থানীয় সংসদ সদস্যের ছেলের সাথে মালিকের ঘনিষ্ঠতার অভিযোগ তুলে রাশ মেগা মলে চালানো হয় ভাঙচুর ও লুটপাট",
-          "প্রায় চল্লিশ মিনিট ধরে চলা এই হামলায় পাঁচ কোটি টাকার বেশি ক্ষতি হয়েছে বলে দাবি মালিকপক্ষের"
-        ],
-        "bullets_en": [
-          "Protesters attacked a shopping mall in Chachkoir market following the funeral of the student leader.",
-          "The attack on Rush Mega Mall occurred amid allegations of the owner's close ties with the local MP son.",
-          "The rampage lasted for nearly forty minutes, causing damages estimated at over five crore takas."
-        ],
-        "impact_bn": "আইনশৃঙ্খলা পরিস্থিতির অবনতি ও সহিংসতায় সাধারণ ব্যবসায়ীদের মধ্যে আতঙ্ক ও নিরাপত্তাহীনতা তৈরি হয়েছে।",
-        "impact_en": "Deteriorating law and order and sudden mob violence have raised security concerns among local business owners.",
-        "details_bn": "গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলাম দুর্বৃত্তদের হামলায় আহত হয়ে চিকিৎসাধীন অবস্থায় মারা যান। এই হত্যার ঘটনায় স্থানীয় সংসদ সদস্যের ছেলেকে পুলিশ আটক করে রিমান্ডে নেয়। এর জেরে জানাজার পর মব সৃষ্টি করে প্রবাসীর শপিং মলে হামলা চালানো হয় বলে অভিযোগ ওঠে। মালের মালিক দাবি করেন, একটি মহল শুরু থেকেই তাঁর প্রতিষ্ঠান বন্ধের পাঁয়তারা করে আসছিল।",
-        "details_en": "Shakeel Islam, a local student leader, died after undergoing treatment following an assault by miscreants. Police arrested the local MP son in connection with the murder, leading to court remand. Following the funeral, a mob attacked a shopping mall owned by an expatriate businessman who claimed a vested group orchestrated the attack."
-      }
-    },
-    {
-      "story_id": "1e1b35a7-2ca6-50f9-b4d9-76be229993af",
-      "primary_category": "sports_fitness",
-      "interest_categories": [
-        "sports_fitness",
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Sports",
-        "#BangladeshCricket"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2023-03%2F147f8ed3-fad8-45a2-9ad1-de38e4669627%2F7xm_xyz153394.jpg?rect=0%2C0%2C2048%2C1075&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2026-09-03%2F99dqhmx6%2Fog-banner-for-sports.png&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-28T05:49:30+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.8652,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/80rg0eoqbx",
-          "title": "অ্যান্ডারসনকে ‘অসম্মান’ করেছে ল্যাঙ্কশায়ার",
-          "snippet": "অ্যান্ডারসনকে ‘অসম্মান’ করেছে ল্যাঙ্কশায়ার"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ল্যাঙ্কশায়ার কর্তৃক জেমস অ্যান্ডারসনকে অসম্মান করার তীব্র সমালোচনা স্টুয়ার্ট ব্রডের",
-        "title_en": "Stuart Broad Criticizes Lancashire for Disrespecting James Anderson",
-        "summary_bn": "ইংলিশ কাউন্টি দল ল্যাঙ্কশায়ার কিংবদন্তি পেসার জেমস অ্যান্ডারসনের চুক্তির মেয়াদ না বাড়ানোয় তীব্র সমালোচনা করেছেন সাবেক সতীর্থ স্টুয়ার্ট ব্রড।",
-        "summary_en": "Former teammate Stuart Broad strongly criticized English county club Lancashire for failing to renew legendary pace bowler James Anderson's contract.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "sports_fitness",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:49:30+00:00",
-        "lead_bn": "ইংলিশ কাউন্টি দল ল্যাঙ্কশায়ার কিংবদন্তি পেসার জেমস অ্যান্ডারসনের চুক্তির মেয়াদ না বাড়ানোয় তীব্র সমালোচনা করেছেন সাবেক সতীর্থ স্টুয়ার্ট ব্রড।",
-        "lead_en": "Former teammate Stuart Broad strongly criticized English county club Lancashire for failing to renew legendary pace bowler James Anderson's contract.",
-        "bullets_bn": [
-          "ইংলিশ কাউন্টি ক্লাব ল্যাঙ্কশায়ার জেমস অ্যান্ডারসনের চুক্তির মেয়াদ আর বাড়াচ্ছে না বলে জানিয়েছে।",
-          "অ্যান্ডারসন সদ্য সমাপ্ত কাউন্টি চ্যাম্পিয়নশিপ মৌসুমে ১৭ গড়ে ৫০টি উইকেট শিকার করে বর্ষসেরা ক্রিকেটার হন।",
-          "ক্লাবের এমন সিদ্ধান্তকে অত্যন্ত অসম্মানজনক বলে মন্তব্য করে ক্লাব নেতৃত্বের সমালোচনা করেছেন স্টুয়ার্ট ব্রড।"
-        ],
-        "bullets_en": [
-          "English county club Lancashire decided not to extend the contract of legendary pace bowler James Anderson.",
-          "Anderson claimed 50 wickets at an average of 17 in the recent county season and was named player of the year.",
-          "Stuart Broad severely criticized the club leadership, calling the manner of the decision highly disrespectful."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "জেমস অ্যান্ডারসন টেস্ট ইতিহাসের সর্বাধিক উইকেট শিকারী পেসার। ২০২৩ সালে আন্তর্জাতিক ক্রিকেট থেকে অবসরে যাওয়া এই পেসার কাউন্টি ক্রিকেটে ল্যাঙ্কশায়ারের হয়ে দুর্দান্ত পারফর্ম করে আসছিলেন। তবে ক্লাবটি তাঁর চুক্তির মেয়াদ না বাড়ানোর সিদ্ধান্ত নেওয়ায় ক্রিকেট বিশ্বে আলোচনা শুরু হয়েছে। ব্রড দাবি করেছেন, আন্তর্জাতিক ক্যারিয়ারের সমাপ্তির মতো কাউন্টিতেও অ্যান্ডারসনের সঙ্গে যথাযথ সম্মানজনক আচরণ করা হয়নি।",
-        "details_en": "James Anderson is the highest wicket-taking pace bowler in Test cricket history. Having retired from international cricket, he continued to perform brilliantly in county cricket for Lancashire. However, the club's decision not to renew his contract sparked widespread criticism. Broad claimed that Anderson did not receive a respectful farewell from the county, echoing the abrupt end of his international career."
-      }
-    },
-    {
-      "story_id": "7cae2fc0-4273-55f6-a5ed-f8e446af5753",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business"
-      ],
-      "region": "international",
-      "tags": [
-        "#FederalReserve",
-        "#Inflation",
-        "#US1Economy"
-      ],
-      "image_url": "https://th-i.thgim.com/public/news/national/9kflu3/article71634442.ece/alternates/LANDSCAPE_1200/iStock-1308151210.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-28T05:32:23+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 1.3068,
-      "sources": [
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
-          "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
-          "snippet": "Federal Reserve likely to skip rate hike despite elevated inflation"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের ফেডারেল রিজার্ভ সুদের হার অপরিবর্তিত রাখার সম্ভাবনা রয়েছে",
-        "title_en": "US Federal Reserve Likely to Keep Interest Rates Unchanged",
-        "summary_bn": "বর্ধিত মূল্যস্ফীতি ও জ্বালানি তেলের দাম বাড়লেও যুক্তরাষ্ট্রের ফেডারেল রিজার্ভ সুদের হার অপরিবর্তিত রাখতে পারে।",
-        "summary_en": "The United States Federal Reserve is expected to keep interest rates steady despite elevated inflation and rising energy prices.",
+        "title_bn": "কলকাতা থেকে ভিয়েতনাম ও কম্বোডিয়া ভ্রমণের বিশেষ প্যাকেজ ঘোষণা",
+        "title_en": "Special Tour Package Announced for Vietnam and Cambodia from Kolkata",
+        "summary_bn": "ভারতীয় রেলওয়ে ক্যাটারিং অ্যান্ড ট্যুরিজম কর্পোরেশন কলকাতা থেকে ভিয়েতনাম ও কম্বোডিয়া ভ্রমণের একটি নতুন ৯ দিনের প্যাকেজ চালু করেছে।",
+        "summary_en": "The Indian Railway Catering and Tourism Corporation launched a new nine-day tour package covering Vietnam and Cambodia from Kolkata.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:32:23+00:00",
-        "lead_bn": "বর্ধিত মূল্যস্ফীতি ও জ্বালানি তেলের দাম বাড়লেও যুক্তরাষ্ট্রের ফেডারেল রিজার্ভ সুদের হার অপরিবর্তিত রাখতে পারে।",
-        "lead_en": "The United States Federal Reserve is expected to keep interest rates steady despite elevated inflation and rising energy prices.",
+        "published_at": "2026-10-28T06:50:07+00:00",
+        "lead_bn": "ভারতীয় রেলওয়ে ক্যাটারিং অ্যান্ড ট্যুরিজম কর্পোরেশন কলকাতা থেকে ভিয়েতনাম ও কম্বোডিয়া ভ্রমণের একটি নতুন ৯ দিনের প্যাকেজ চালু করেছে।",
+        "lead_en": "The Indian Railway Catering and Tourism Corporation launched a new nine-day tour package covering Vietnam and Cambodia from Kolkata.",
         "bullets_bn": [
-          "ইরান যুদ্ধের কারণে তেল ও গ্যাসের দাম বাড়ায় মূল্যস্ফীতি গত কয়েক মাসে উল্লেখযোগ্যভাবে ত্বরান্বিত হয়েছে।",
-          "কেন্দ্রীয় ব্যাংকের লক্ষ্য হলো মূল্যস্ফীতি কমিয়ে দুই শতাংশের লক্ষ্যে ফিরিয়ে আনা।",
-          "ফেডারেল রিজার্ভের সিদ্ধান্ত ঘোষণার পর চেয়ারম্যান কেভিন ওয়ারশ একটি সংবাদ সম্মেলনে বক্তব্য দেবেন।"
+          "ভারতীয় রেলওয়ে ক্যাটারিং অ্যান্ড ট্যুরিজম কর্পোরেশন কলকাতা থেকে ঐতিহাসিক স্থান ও প্রাকৃতিক সৌন্দর্য ঘুরে দেখার এই বিশেষ ট্যুর পরিচালনা করবে।",
+          "এই নয় দিনের ভ্রমণ প্যাকেজের প্রারম্ভিক মূল্য ১ লাখ ৬৪ হাজার ভারতীয় রুপি যা প্রায় ২ লাখ ১৪ হাজার বাংলাদেশি টাকা নির্ধারিত হয়েছে।",
+          "আগ্রহী পর্যটকদের মূল প্যাকেজ মূল্যের বাইরে কলকাতায় যাতায়াত এবং অন্যান্য আনুষঙ্গিক খরচ নিজেদের বহন করতে হবে।"
         ],
         "bullets_en": [
-          "The Federal Reserve is expected to stand pat on interest rates despite accelerated inflation driven by Iran war energy spikes.",
-          "The central bank aims to return inflation back down to its stated two percent target over time.",
-          "Fed Chairman Kevin Warsh will hold a press conference following the interest rate announcement to outline future steps."
+          "The Indian Railway Catering and Tourism Corporation manages this special tour featuring historical sites and natural scenery.",
+          "The nine-day tour package starts at 164000 Indian Rupees, approximately 214000 Bangladeshi Taka per person.",
+          "Interested travelers must separately bear their transportation costs to Kolkata and other miscellaneous personal expenses."
         ],
-        "impact_bn": "উচ্চ সুদের হারের কারণে সাধারণ মানুষের জন্য ঋণ নেওয়া এবং আবাসন বা গাড়ি কেনা আরও ব্যয়বহুল হয়ে উঠেছে।",
-        "impact_en": "High borrowing costs and elevated mortgage rates are making housing, auto loans, and everyday goods increasingly unaffordable for consumers.",
-        "details_bn": "যুক্তরাষ্ট্রের কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে রাখতে কাজ করছে। এর আগে কেন্দ্রীয় ব্যাংক সুদের হার বাড়িয়েছিল, যা নিয়ে রাজনৈতিক মহলে আলোচনা তৈরি হয়। এছাড়া কৃত্রিম বুদ্ধিমত্তা খাতের প্রসার এবং আন্তর্জাতিক বাজারে জ্বালানি তেলের মূল্যবৃদ্ধির ফলে বর্তমান অর্থনৈতিক পরিস্থিতিতে মূল্যস্ফীতি নিয়ন্ত্রণ করা কঠিন হয়ে পড়েছে। বাজার বিশ্লেষকরা কেন্দ্রীয় ব্যাংকের পরবর্তী পদক্ষেপের জন্য নীতিনির্ধারকদের বক্তব্যের দিকে তাকিয়ে আছেন।",
-        "details_en": "The United States central bank faces mounting challenges in reining in inflation as geopolitical conflicts drive up energy costs. While the Fed previously raised borrowing costs to cool consumer spending, rapid technology infrastructure expansion and expensive fossil fuels continue to exert upward pressure on the economy. Consumers face heightened living costs with soaring mortgage rates, prompting close scrutiny of the central bank's upcoming policy trajectory."
+        "impact_bn": "বাংলাদেশি পর্যটকদের জন্য এই প্যাকেজের মাধ্যমে দক্ষিণ-পূর্ব এশিয়ায় ভ্রমণ আরও সহজ হলেও অতিরিক্ত যাতায়াত খরচ বহন করতে হবে।",
+        "impact_en": "This package makes Southeast Asia travel easier for regional tourists, though additional transit costs to Kolkata apply.",
+        "details_bn": "ভারত ও দক্ষিণ-পূর্ব এশিয়ার মধ্যে পর্যটন সংযোগ বৃদ্ধি এবং ভ্রমণপিপাসুদের সাশ্রয়ী মূল্যে ঐতিহাসিক স্থান পরিদর্শনের সুযোগ করে দিতে আইআরসিটিসি নিয়মিত বিভিন্ন আন্তর্জাতিক ট্যুর প্যাকেজ পরিচালনা করে আসছে। তারই ধারাবাহিকতায় এই নতুন ভিয়েতনাম ও কম্বোডিয়া ভ্রমণ প্যাকেজটি চালু করা হয়েছে, যা কলকাতা থেকে শুরু হয়ে বিভিন্ন দর্শনীয় স্থান কভার করে।",
+        "details_en": "IRCTC regularly operates international tour packages to boost regional tourism and offer affordable travel options to historical destinations. Continuing this trend, the new Vietnam and Cambodia travel package has been introduced, covering major attractions starting from Kolkata."
       }
     },
     {
-      "story_id": "2c8038c0-624d-583f-8dbd-8e6239ad5279",
-      "primary_category": "world_diplomacy",
+      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy"
+        "climate_environment",
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#USIndia",
-        "#Geopolitics",
-        "#Diplomacy"
+        "#ClimateCrisis",
+        "#GlobalHealth",
+        "#LancetReport"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20250213__36XT4JK__v2__HighRes__TopshotUsIndiaPoliticsDiplomacyTrumpModi-1-1790853683.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/69108117_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T05:43:40+00:00",
+      "published_at": "2026-10-28T07:00:42.558034+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.8688,
+      "importance_score": 1.7,
+      "rank_score": 0.6884,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
-          "title": "Why India has soured on Trump ahead of US midterms",
-          "snippet": "Why India has soured on Trump ahead of US midterms"
-        },
-        {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: Cyclone Arnab brings heavy rain, disruption",
-          "snippet": "India news: Cyclone Arnab brings heavy rain, disruption"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-          "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-          "snippet": "Jio shares surge 21% in market debut after blockbuster India IPO"
+          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+          "title": "Experts urge 'global health emergency' as climate harms accelerate",
+          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন মধ্যবর্তী নির্বাচনের আগে ভারতের সাথে সম্পর্কে পরিবর্তন আসছে",
-        "title_en": "India shifts diplomatic stance toward Trump ahead of US midterms",
-        "summary_bn": "মার্কিন মধ্যবর্তী নির্বাচনের আগে ভারতের নীতিনির্ধারকরা ট্রাম্প প্রশাসনের নীতির প্রকাশ্যে সমালোচনা করছেন।",
-        "summary_en": "Indian officials express direct criticism of Trump amid growing bilateral tensions ahead of US midterms.",
+        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার তাগিদ বিশেষজ্ঞদের",
+        "title_en": "Experts Urge Global Health Emergency Declaration Over Accelerating Climate Crisis",
+        "summary_bn": "তীব্র তাপপ্রবাহ, খরা ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার আহ্বান জানিয়েছেন গবেষকরা।",
+        "summary_en": "Researchers urge declaring climate change a global health emergency as heat deaths, drought, and food insecurity accelerate worldwide.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "climate_environment",
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T05:43:40+00:00",
-        "lead_bn": "মার্কিন মধ্যবর্তী নির্বাচনের আগে ভারতের নীতিনির্ধারকরা ট্রাম্প প্রশাসনের নীতির প্রকাশ্যে সমালোচনা করছেন।",
-        "lead_en": "Indian officials express direct criticism of Trump amid growing bilateral tensions ahead of US midterms.",
+        "published_at": "2026-10-28T07:00:42.558034+00:00",
+        "lead_bn": "তীব্র তাপপ্রবাহ, খরা ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার আহ্বান জানিয়েছেন গবেষকরা।",
+        "lead_en": "Researchers urge declaring climate change a global health emergency as heat deaths, drought, and food insecurity accelerate worldwide.",
         "bullets_bn": [
-          "দিল্লির কৌশলগত মহল ট্রাম্প প্রশাসনের নীতির প্রকাশ্য সমালোচনা শুরু করেছে।",
-          "বিশ্লেষকরা বলছেন মধ্যবর্তী নির্বাচনে ট্রাম্পের পরাজয় ভারত সরকারের জন্য সুবিধাজনক হতে পারে।",
-          "দ্বিপক্ষীয় সম্পর্কের সাম্প্রতিক অবনতির কারণে দুই দেশের সম্পর্কে এই শীতলতা দেখা দিয়েছে।"
+          "প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে স্বীকৃতি দেওয়ার আহ্বান জানান",
+          "জলবায়ু পরিবর্তনের কারণে ২০২৩ সালে পাঁচ লাখের বেশি মানুষের মৃত্যু হয়েছে এবং অর্থনৈতিক ক্ষতি হয়েছে ১.০৭ ট্রিলিয়ন ডলার",
+          "জনস্বাস্থ্যের সুরক্ষাকে জলবায়ু নীতিমালার কেন্দ্রে রাখার পাশাপাশি মানুষের জীবন বাঁচানোর ওপর জোর দেওয়ার তাগিদ দেওয়া হয়েছে"
         ],
         "bullets_en": [
-          "Indian officials have shifted from endorsement to direct criticism of the Trump administration.",
-          "Analysts suggest New Delhi may prefer a weakened Trump following upcoming congressional setbacks.",
-          "Bilateral ties face renewed friction amid strategic disagreements and shifting political dynamics."
+          "Nearly 150 researchers from over 30 countries call for climate change to be declared a global health emergency.",
+          "Climate change caused over half a million heat deaths in 2023 and cost $1.07 trillion in lost income globally.",
+          "Experts emphasize placing human health and well-being at the heart of all future climate change responses."
+        ],
+        "impact_bn": "তীব্র দাবদাহ ও খাদ্য নিরাপত্তাহীনতা সাধারণ মানুষের জীবনযাত্রা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বাড়িয়ে দিচ্ছে।",
+        "impact_en": "Accelerating heatwaves and food insecurity directly escalate health risks and threaten daily livelihoods worldwide.",
+        "details_bn": "ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জের বার্ষিক প্রতিবেদনে বলা হয়েছে যে প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর থেকে বৈশ্বিক তাপপ্রবাহ এবং স্বাস্থ্যঝুঁকি রেকর্ড পরিমাণে বৃদ্ধি পেয়েছে। গবেষকরা সতর্ক করেছেন যে তাপমাত্রা বৃদ্ধির ফলে কেবল মৃত্যু বাড়ছে না, বরং কোটি কোটি মানুষের দীর্ঘমেয়াদি স্বাস্থ্যগত জটিলতা এবং অর্থনৈতিক ক্ষতি তৈরি হচ্ছে।",
+        "details_en": "The annual Lancet Countdown on Health and Climate Change report reveals that planetary heating risks have surged dramatically since the Paris climate accord. Researchers warn that escalating temperatures are driving record heat deaths, severe droughts, and widespread economic losses while worsening chronic health conditions globally."
+      }
+    },
+    {
+      "story_id": "8090a205-dea3-5ee7-ab01-8b13f1904693",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "international",
+      "tags": [
+        "#BrazilElection",
+        "#FlavioBolsonaro"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc",
+      "image_caption": null,
+      "published_at": "2026-10-28T06:36:14+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.12,
+      "rank_score": 0.6747,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+          "snippet": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+          "title": "Flavio Bolsonaro flees Brazil for US amid investigation — reports",
+          "snippet": "Flavio Bolsonaro flees Brazil for US amid investigation — reports"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ব্রাজিলের প্রেসিডেন্ট নির্বাচন হেরে যুক্তরাষ্ট্র বা ইকুয়েডরে পালিয়ে গেছেন ফ্ল্যাভিও বোলসোনারো",
+        "title_en": "Flávio Bolsonaro Flees Brazil for US After Presidential Election Defeat",
+        "summary_bn": "প্রেসিডেন্ট নির্বাচনে পরাজয়ের পর ব্রাজিল ছেড়ে যুক্তরাষ্ট্র ও ইকুয়েডরের উদ্দেশ্যে পালিয়ে গেছেন ডানপন্থী রাজনীতিক ফ্ল্যাভিও বোলসোনারো।",
+        "summary_en": "Far-right politician Flávio Bolsonaro fled Brazil for the United States and Ecuador following a presidential election defeat.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T06:36:14+00:00",
+        "lead_bn": "প্রেসিডেন্ট নির্বাচনে পরাজয়ের পর ব্রাজিল ছেড়ে যুক্তরাষ্ট্র ও ইকুয়েডরের উদ্দেশ্যে পালিয়ে গেছেন ডানপন্থী রাজনীতিক ফ্ল্যাভিও বোলসোনারো।",
+        "lead_en": "Far-right politician Flávio Bolsonaro fled Brazil for the United States and Ecuador following a presidential election defeat.",
+        "bullets_bn": [
+          "পরিবারের ঘনিষ্ঠ সূত্রের তথ্য অনুযায়ী ফ্ল্যাভিও বোলসোনারো দেশ ছেড়ে মার্কিন যুক্তরাষ্ট্রের উদ্দেশ্যে রওনা হয়েছেন।",
+          "আর্জেন্টিনার অভিবাসন অধিদপ্তর নিশ্চিত করেছে যে তিনি বৈধ ভ্রমণ নথিপত্র নিয়ে সীমান্ত অতিক্রম করে ব্যক্তিগত বিমানে চড়েছেন।",
+          "প্রেসিডেন্ট লুইজ ইনাসিও লুলা দা সিলভা এই পলায়নকে লজ্জাজনক হিসেবে অভিহিত করে এর তীব্র নিন্দা জানিয়েছেন।"
+        ],
+        "bullets_en": [
+          "Flávio Bolsonaro departed Brazil en route to the United States following his electoral defeat.",
+          "Argentina's National Directorate of Migration confirmed he crossed the border legally with his family to board a private flight.",
+          "President Luiz Inácio Lula da Silva condemned the departure as a shameful act."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সালে হিউস্টনে এক যৌথ সমাবেশে প্রধানমন্ত্রী নরেন্দ্র মোদি ডোনাল্ড ট্রাম্পের পক্ষে প্রচারণা চালালেও বর্তমান পরিস্থিতি সম্পূর্ণ ভিন্ন। অতীতে রিপাবলিকান শাসনকালে ওয়াশিংটনের সাথে সম্পর্ক উন্নীত হলেও সাম্প্রতিক সময়ে নীতিগত বিরোধ ও বিভিন্ন সংকটের কারণে দুই দেশের সম্পর্কে টানাপোড়েন তৈরি হয়েছে।",
-        "details_en": "While Prime Minister Narendra Modi famously rallied for Donald Trump in Houston in 2019, bilateral dynamics have shifted dramatically. Historically, New Delhi found strong strategic alignment under Republican administrations, including landmark nuclear and military pacts signed under George W Bush, but current policy divergences have created fresh friction."
+        "details_bn": "ব্রাজিলের সাম্প্রতিক প্রেসিডেন্ট নির্বাচনে বর্তমান বামপন্থী নেতা লুইজ ইনাসিও লুলা দা সিলভার কাছে ডানপন্থী প্রতিপক্ষ পরাজিত হন। নির্বাচনের পরপরই রাজনৈতিক সংকট ও আইনি জটিলতার আশঙ্কায় বোলসোনারো পরিবারের সদস্যদের দেশ ছেড়ে চলে যাওয়ার বিষয়টি আন্তর্জাতিক মহলে ব্যাপক আলোচনার জন্ম দিয়েছে। বর্তমান প্রেসিডেন্ট এই ঘটনাকে দেশের সঙ্গে বিশ্বাসঘাতকতা হিসেবে উল্লেখ করেছেন।",
+        "details_en": "Following the Brazilian presidential election defeat to leftwing incumbent Luiz Inácio Lula da Silva, rightwing figures faced mounting political uncertainty. Flávio Bolsonaro reportedly crossed into Argentina before boarding a private flight toward Ecuador with plans to seek political asylum in the US, drawing fierce condemnation from national leaders."
       }
     }
   ]
