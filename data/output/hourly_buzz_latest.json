@@ -1,62 +1,7 @@
 {
-  "updated_at": "2026-10-28T14:00:55.761529",
+  "updated_at": "2026-10-28T15:00:56.345141",
   "total_stories": 6,
   "stories": [
-    {
-      "story_id": "70b9f7d7-56c3-517a-9421-16375cf597be",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T13:44:10+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.2567,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977342/%E0%A6%97%E0%A7%81%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%A7%E0%A7%87-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%BF%E0%A6%9B%E0%A7%81-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%BE%E0%A6%B0",
-          "title": "গুম প্রতিরোধে সংবিধানে নতুন কিছু যুক্ত করার প্রয়োজন নেই: সালাহউদ্দিন আহমদ",
-          "snippet": "গুম প্রতিরোধে সংবিধানে নতুন কিছু যুক্ত করার প্রয়োজন নেই: সালাহউদ্দিন আহমদ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "গুম প্রতিরোধে সংবিধানে নতুন কিছু যুক্ত করার প্রয়োজন নেই: সালাহউদ্দিন আহমদ",
-        "title_en": "No Need to Add New Provisions in Constitution to Prevent Enforced Disappearances: Salahuddin Ahmed",
-        "summary_bn": "সংবিধান সংশোধন বিশেষ কমিটির সভাপতি সালাহউদ্দিন আহমদ জানিয়েছেন, গুম প্রতিরোধে সংবিধানে নতুন করে কিছু যুক্ত করার কোনো প্রয়োজন নেই।",
-        "summary_en": "Constitution Reform Special Committee Chairman Salahuddin Ahmed stated that adding new provisions to the constitution to prevent enforced disappearances is unnecessary.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:44:10+00:00",
-        "lead_bn": "সংবিধান সংশোধন বিশেষ কমিটির সভাপতি সালাহউদ্দিন আহমদ জানিয়েছেন, গুম প্রতিরোধে সংবিধানে নতুন করে কিছু যুক্ত করার কোনো প্রয়োজন নেই।",
-        "lead_en": "Constitution Reform Special Committee Chairman Salahuddin Ahmed stated that adding new provisions to the constitution to prevent enforced disappearances is unnecessary.",
-        "bullets_bn": [
-          "সংবিধানে নতুন কিছু যুক্ত না করে বিদ্যমান আইনের যথাযথ প্রয়োগ নিশ্চিত করার ওপর জোর দেওয়া হয়েছে।",
-          "সংবিধানের ৩২ অনুচ্ছেদে নাগরিকদের জীবনের অধিকারের সম্পূর্ণ স্বীকৃতি ও সুরক্ষা নিশ্চিত করা হয়েছে।",
-          "ভবিষ্যতে গুমের শিকার রোধে প্রয়োজনীয় ও কঠোর আইনি ব্যবস্থা গ্রহণের ওপর গুরুত্ব আরোপ করা হয়।"
-        ],
-        "bullets_en": [
-          "Officials emphasized proper implementation of existing laws instead of introducing new constitutional amendments.",
-          "Article 32 of the constitution already guarantees comprehensive recognition and protection of the right to life.",
-          "Authorities stressed ensuring necessary legal frameworks to prevent anyone from falling victim to enforced disappearances."
-        ],
-        "impact_bn": "নাগরিকরা আইনের সঠিক প্রয়োগের মাধ্যমে জীবনের অধিকার সুরক্ষা এবং বিচারহীনতা থেকে মুক্তির আইনি নিরাপত্তা পাবে।",
-        "impact_en": "Citizens gain enhanced legal safeguards protecting their right to life and freedom from impunity through proper enforcement.",
-        "details_bn": "বাংলাদেশে গুম ও বিচারবহির্ভূত আটক রোধে দীর্ঘদিন ধরে বিভিন্ন মানবাধিকার সংগঠন ও সুশীল সমাজ আইনি সংস্কারের দাবি জানিয়ে আসছে। এর প্রেক্ষিতে সংবিধান সংশোধন ও প্রতিকারমূলক আইনি পদক্ষেপ নিয়ে আলোচনা চলছে। সরকার গুম রোধে ইতোমধ্যে নির্দিষ্ট আইন প্রণয়ন করেছে এবং বিদ্যমান আইনি কাঠামোর মাধ্যমেই অপরাধ দমনের কথা বলছে।",
-        "details_en": "Human rights organizations and civil society have long demanded legal reforms to prevent enforced disappearances and extrajudicial detentions in Bangladesh. Discussions regarding constitutional amendments and remedial legal steps have subsequently gained momentum. The government has already enacted specific legislation to prevent disappearances and maintains that existing legal frameworks are sufficient to address the issue."
-      }
-    },
     {
       "story_id": "06356f54-d3c9-58cb-be1d-b9e7348cf5d4",
       "primary_category": "society_education",
@@ -73,7 +18,7 @@
       "published_at": "2026-10-28T13:01:08+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 9.0,
-      "rank_score": 2.1574,
+      "rank_score": 1.4836,
       "sources": [
         {
           "name": "Channel i",
@@ -83,10 +28,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "উন্নত দেশ গড়তে প্রবাসী ও দেশবাসীকে ঐক্যবদ্ধভাবে কাজ করার আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "Prime Minister urges expats and citizens to work together for national development",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময় সভায় দেশের উন্নয়ন নিশ্চিত করতে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
-        "summary_en": "Prime Minister Tarique Rahman called upon expatriate Bangladeshis in Japan to work together to ensure national development during a community meeting.",
+        "title_bn": "উন্নত বাংলাদেশ গঠনে প্রবাসী ও দেশবাসীকে ঐক্যবদ্ধভাবে কাজ করার আহ্বান প্রধানমন্ত্রীর",
+        "title_en": "PM Urges Expatriates and Citizens to Work Together for Developed Bangladesh",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের টোকিওতে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময়কালে দেশের উন্নয়নে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
+        "summary_en": "Prime Minister Tarique Rahman urged expatriate Bangladeshis to work together for national development during a community exchange meeting in Tokyo, Japan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -94,231 +39,169 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T13:01:08+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময় সভায় দেশের উন্নয়ন নিশ্চিত করতে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
-        "lead_en": "Prime Minister Tarique Rahman called upon expatriate Bangladeshis in Japan to work together to ensure national development during a community meeting.",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান জাপানের টোকিওতে প্রবাসী বাংলাদেশিদের সাথে মতবিনিময়কালে দেশের উন্নয়নে সবাইকে একযোগে কাজ করার আহ্বান জানান।",
+        "lead_en": "Prime Minister Tarique Rahman urged expatriate Bangladeshis to work together for national development during a community exchange meeting in Tokyo, Japan.",
         "bullets_bn": [
-          "দেশের কল্যাণ নিশ্চিত করতে প্রবাসী এবং দেশবাসীকে নিজ নিজ অবস্থান থেকে একযোগে কাজ করার আহ্বান জানানো হয়।",
-          "শিক্ষাব্যবস্থা শক্তিশালী করতে প্রাথমিক শিক্ষার ভিত্তি মজবুত করার ওপর বিশেষ গুরুত্ব আরোপ করা হয়।",
-          "শিক্ষার্থীদের কর্মসংস্থান বাড়াতে স্কুল পর্যায়ে জাপানি সহ তৃতীয় বিদেশি ভাষা চালুর পরিকল্পনা ঘোষণা করা হয়।"
+          "দেশের উন্নয়ন ও মানুষের কল্যাণ নিশ্চিত করতে প্রবাসী ও দেশবাসীকে নিজ অবস্থান থেকে কাজ করার আহ্বান জানান প্রধানমন্ত্রী।",
+          "শিক্ষাব্যবস্থা শক্তিশালী করতে প্রাথমিক শিক্ষা মজবুত করা এবং জাপানি সহ তৃতীয় ভাষা চালুর পরিকল্পনার কথা জানান তিনি।",
+          "জাপানের শ্রমবাজারে বাংলাদেশিদের অংশগ্রহণ বাড়ানো এবং দক্ষ জনশক্তি তৈরির সরকারি পরিকল্পনা তুলে ধরা হয়।"
         ],
         "bullets_en": [
-          "Expatriates and domestic citizens were urged to work together from their respective positions to ensure national welfare.",
-          "Special emphasis was placed on strengthening the foundation of primary education to improve the overall academic system.",
-          "Plans to introduce third foreign languages including Japanese at schools to enhance student employment were announced."
+          "The Prime Minister urged expatriates and domestic citizens to work from their respective positions to ensure national development.",
+          "He announced plans to strengthen primary education and introduce third languages, including Japanese, in schools.",
+          "Government plans to increase Bangladeshi participation in Japan's labor market and build skilled manpower were highlighted."
         ],
-        "impact_bn": "স্কুলে বিদেশি ভাষা চালুর পরিকল্পনা বাস্তবায়িত হলে শিক্ষার্থীদের জন্য জাপানের শ্রমবাজারসহ বৈশ্বিক কর্মসংস্থানের সুযোগ প্রসারিত হবে।",
-        "impact_en": "The plan to introduce foreign languages in schools will expand global employment opportunities for students, including in the Japanese labor market.",
-        "details_bn": "জাপান সফরকালে প্রবাসী বাংলাদেশি কমিউনিটির সদস্যদের সাথে এক মতবিনিময় সভায় দেশের সার্বিক উন্নয়ন ও শিক্ষা খাতের সংস্কার নিয়ে আলোচনা করেন প্রধানমন্ত্রী। এ সময় প্রবাসীদের বিভিন্ন সমস্যার কথা শুনে শিক্ষা, স্বাস্থ্যসেবা ও দক্ষ জনশক্তি তৈরির সরকারি পরিকল্পনা তুলে ধরা হয়। পাশাপাশি দেশের প্রাথমিক শিক্ষাকে শক্তিশালী করার পাশাপাশি শিক্ষার্থীদের কর্মসংস্থান ও উচ্চশিক্ষার সুযোগ বাড়াতে ইংরেজির বাইরেও জাপানি, জার্মান ও ফরাসি ভাষার মতো বিদেশি ভাষা শেখার সুযোগ চালুর উদ্যোগের কথা জানান তিনি।",
-        "details_en": "During his visit to Japan, the Prime Minister discussed national development and educational reforms in a meeting with expatriate Bangladeshis. Listening to community concerns, he outlined government plans for education, healthcare, and skilled workforce development. He also highlighted initiatives to strengthen primary education and introduce foreign languages such as Japanese, German, and French alongside English to boost students employment and higher education prospects."
+        "impact_bn": "শিক্ষার্থীরা স্কুলে জাপানি সহ বিভিন্ন বিদেশি ভাষা শেখার সুযোগ পেলে বৈশ্বিক শ্রমবাজারে দক্ষ জনশক্তি হিসেবে কর্মসংস্থানের সুযোগ বাড়বে।",
+        "impact_en": "Students will gain enhanced employment opportunities in global labor markets by learning foreign languages like Japanese in schools.",
+        "details_bn": "জাপানের টোকিওর নিউ ওতানি হোটেলে জাপানপ্রবাসী বাংলাদেশিদের সাথে মতবিনিময় সভায় এসব কথা বলেন প্রধানমন্ত্রী। এ সময় তার সহধর্মিণী ডা. জোবাইদা রহমান উপস্থিত ছিলেন। সভায় প্রবাসীরা বিভিন্ন সমস্যার কথা তুলে ধরলে প্রধানমন্ত্রী শিক্ষা, স্বাস্থ্যসেবা ও দক্ষ জনশক্তি তৈরিতে সরকারের ভবিষ্যৎ পরিকল্পনার কথা জানান।",
+        "details_en": "The Prime Minister made these remarks during an exchange meeting with the Bangladeshi expatriate community at the New Otani Hotel in Tokyo, Japan, accompanied by his spouse Dr. Zubaida Rahman. When expatriates raised various issues, the Prime Minister outlined the government's future plans regarding education, healthcare, and skilled manpower development."
       }
     },
     {
-      "story_id": "fffc33ce-0632-5a91-8108-685c8cb2fb90",
-      "primary_category": "governance_law",
+      "story_id": "f192f9b7-714f-53d5-96f3-a9c14cff7ff3",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
+        "world_diplomacy",
+        "society_education"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T14:17:45+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3041,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/977351/%E0%A6%87%E0%A6%B8%E0%A6%B0%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B2-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A7%87-%E2%80%98%E0%A6%AD%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%B9%E2%80%99",
+          "title": "ইসরায়েল নতুন করে হামলা চালালে বিশ্ববাজারে ‘ভয়াবহ’ প্রভাব পড়বে: ইরান",
+          "snippet": "ইসরায়েল নতুন করে হামলা চালালে বিশ্ববাজারে ‘ভয়াবহ’ প্রভাব পড়বে: ইরান"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "ইসরায়েলি আগ্রাসন অব্যাহত থাকলে বৈশ্বিক বাজারে মারাত্মক প্রভাব পড়বে: ইরান",
+        "title_en": "New Israeli Attacks Will Severely Impact Global Markets: Iran",
+        "summary_bn": "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি সতর্ক করে বলেছেন যে পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি বৈশ্বিক অর্থনীতিতে ধ্বংসাত্মক প্রভাব ফেলতে পারে।",
+        "summary_en": "Iranian Foreign Minister Abbas Araghchi warned that any new Israeli military provocations in the Persian Gulf will severely impact global markets.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy",
+          "society_education"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T14:17:45+00:00",
+        "lead_bn": "ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি সতর্ক করে বলেছেন যে পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি বৈশ্বিক অর্থনীতিতে ধ্বংসাত্মক প্রভাব ফেলতে পারে।",
+        "lead_en": "Iranian Foreign Minister Abbas Araghchi warned that any new Israeli military provocations in the Persian Gulf will severely impact global markets.",
+        "bullets_bn": [
+          "পারস্য উপসাগরীয় অঞ্চলে ইসরায়েলি সামরিক উসকানি ও দুঃসাহসের কঠোর সমালোচনা করেছে তেহরান।",
+          "বৈশ্বিক বাজারে এই ধরনের সংঘাতের ধ্বংসাত্মক পরিণতি নিয়ে সতর্কবার্তা দিয়েছেন ইরানের পররাষ্ট্রমন্ত্রী আব্বাস আরাঘচি।",
+          "পরিস্থিতি পর্যবেক্ষণ করে মধ্যপ্রাচ্যে ভূরাজনৈতিক উত্তেজনা নিরসনে আন্তর্জাতিক মহলের কূটনৈতিক তৎপরতা অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Tehran strongly criticized potential Israeli military provocations and adventurous actions in the Persian Gulf region.",
+          "Iranian Foreign Minister Abbas Araghchi warned of the destructive consequences such conflicts would bring to global markets.",
+          "International diplomatic efforts continue to monitor the situation and de-escalate mounting geopolitical tensions in the Middle East."
+        ],
+        "impact_bn": "সংঘাত তীব্র হলে জ্বালানি তেল ও নিত্যপণ্যের মূল্যবৃদ্ধির মাধ্যমে সাধারণ মানুষের জীবনযাত্রার ব্যয় বাড়তে পারে।",
+        "impact_en": "Escalating conflict could increase living costs for ordinary citizens through a surge in global fuel and commodity prices.",
+        "details_bn": "মধ্যপ্রাচ্যে দীর্ঘ দিন ধরে চলা ভূরাজনৈতিক উত্তেজনার মধ্যেই ইরান ও ইসরায়েলের মধ্যকার সামরিক বৈরিতা চরম আকার ধারণ করেছে। পারস্য উপসাগরীয় অঞ্চলে যেকোনো ধরনের সামরিক সংঘর্ষ বৈশ্বিক জ্বালানি সরবরাহ চেইন মারাত্মকভাবে ব্যাহত করতে পারে। এর ফলে আন্তর্জাতিক বাজারে জ্বালানি তেলের দাম বেড়ে যাওয়ার আশঙ্কা রয়েছে, যা বিশ্ব অর্থনীতিতে বড় ধরনের নেতিবাচক প্রভাব ফেলতে পারে বলে মনে করছেন বিশ্লেষকরা।",
+        "details_en": "Military hostilities between Iran and Israel have intensified amid ongoing geopolitical tensions in the Middle East. Any military conflict in the Persian Gulf region threatens to severely disrupt global energy supply chains. Analysts warn that this could trigger a surge in international oil prices, dealing a heavy blow to the global economy."
+      }
+    },
+    {
+      "story_id": "b9c2b670-7e2c-5778-8234-de75a2e9d2f2",
+      "primary_category": "society_education",
+      "interest_categories": [
+        "society_education",
         "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T13:45:35+00:00",
+      "published_at": "2026-10-28T14:58:44+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6636,
+      "importance_score": 2.4,
+      "rank_score": 0.9489,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1173040",
-          "title": "ছাত্রদল নেতার জানাজার পর শপিংমলে হামলা-লুটপাট, ভিডিও ভাইরাল",
-          "snippet": "ছাত্রদল নেতার জানাজার পর শপিংমলে হামলা-লুটপাট, ভিডিও ভাইরাল"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/khulna/977362/%E0%A6%98%E0%A7%81%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%8F%E0%A6%95-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%AE%E0%A6%BE-%E0%A6%93-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%95%E0%A7%87",
+          "title": "ঘুরতে গিয়ে শেষ এক পরিবার: বাবা-মা ও দুই মেয়েকে পাশাপাশি কবরে দাফন",
+          "snippet": "ঘুরতে গিয়ে শেষ এক পরিবার: বাবা-মা ও দুই মেয়েকে পাশাপাশি কবরে দাফন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নাটোরের গুরুদাসপুরে ছাত্রদল নেতার জানাজার পর শপিংমলে হামলা ও লুটপাট",
-        "title_en": "Shops Vandalized and Looted in Natore Following Chhatra Dal Leader Janaza",
-        "summary_bn": "নাটোরের গুরুদাসপুরে পৌর ছাত্রদল নেতার জানাজা শেষে উত্তেজনা ছড়িয়ে পড়লে চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটে।",
-        "summary_en": "Vandalism and looting erupted at a shopping mall in Natore following the funeral prayers of a local Chhatra Dal leader.",
+        "title_bn": "সড়ক দুর্ঘটনায় নিহত একই পরিবারের চার সদস্যকে পাশাপাশি দাফন",
+        "title_en": "Four members of the same family buried side by side",
+        "summary_bn": "ভ্রমণে গিয়ে সড়ক দুর্ঘটনায় প্রাণ হারানো বাবা-মা ও দুই মেয়েকে নিজ গ্রামে পাশাপাশি কবরে দাফন করা হয়েছে।",
+        "summary_en": "Parents and two daughters who died in a road trip accident were buried side by side in their village.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "society_education",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:45:35+00:00",
-        "lead_bn": "নাটোরের গুরুদাসপুরে পৌর ছাত্রদল নেতার জানাজা শেষে উত্তেজনা ছড়িয়ে পড়লে চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটে।",
-        "lead_en": "Vandalism and looting erupted at a shopping mall in Natore following the funeral prayers of a local Chhatra Dal leader.",
+        "published_at": "2026-10-28T14:58:44+00:00",
+        "lead_bn": "ভ্রমণে গিয়ে সড়ক দুর্ঘটনায় প্রাণ হারানো বাবা-মা ও দুই মেয়েকে নিজ গ্রামে পাশাপাশি কবরে দাফন করা হয়েছে।",
+        "lead_en": "Parents and two daughters who died in a road trip accident were buried side by side in their village.",
         "bullets_bn": [
-          "পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের জানাজা শেষে বিক্ষুব্ধ ব্যক্তিরা বাজারে হামলা চালায়।",
-          "হামলাকারীরা চাঁচকৈড় বাজারের বেশ কয়েকটি দোকান ভাঙচুর করে এবং নগদ অর্থ ও মালামাল লুট করে।",
-          "পরিস্থিতি নিয়ন্ত্রণে এলাকায় অতিরিক্ত পুলিশ মোতায়েন করা হয়েছে এবং জড়িতদের শনাক্তে তদন্ত চলছে।"
+          "গ্রামের সরকারি প্রাথমিক বিদ্যালয়ের মাঠে চারজনের জানাজা অনুষ্ঠিত হয়।",
+          "জানাজায় হাজারো মানুষের সমাগম ঘটে এবং স্বজনদের কান্নায় পরিবেশ ভারী হয়ে ওঠে।",
+          "নিহতদের মরদেহ দাফনের জন্য নিজ গ্রামে আনা হয়।"
         ],
         "bullets_en": [
-          "Agitated individuals carried out attacks on the market following the funeral of municipal Chhatra Dal member secretary Shakil Islam.",
-          "Assailants vandalized multiple shops in Chachkoir Bazar and looted cash and merchandise.",
-          "Additional police personnel have been deployed to control the situation and investigations are underway to identify culprits."
+          "The funeral prayers for all four family members took place at the village government primary school ground.",
+          "Thousands of people gathered for the funeral as relatives and neighbors broke down in tears.",
+          "The bodies were brought back to their native village for burial."
         ],
-        "impact_bn": "এ ধরনের সহিংস ঘটনায় স্থানীয় ব্যবসায়ী ও সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা ও আতঙ্ক বৃদ্ধি পাচ্ছে।",
-        "impact_en": "Such violent incidents increase insecurity and panic among local business owners and ordinary residents.",
-        "details_bn": "নাটোরের গুরুদাসপুর পৌর ছাত্রদলের সদস্যসচিব শাকিল ইসলামের মৃত্যুকে কেন্দ্র করে এলাকায় রাজনৈতিক ও সামাজিক উত্তেজনা বিরাজ করছিল। তার জানাজা অনুষ্ঠানের পর পরিস্থিতি আরও অবনতি হয়, যার ফলে চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের মতো অনাকাঙ্ক্ষিত সহিংসতার ঘটনা ঘটে। আইনশৃঙ্খলা বাহিনী বর্তমানে পরিস্থিতি শান্ত রাখতে এবং অপরাধীদের আইনের আওতায় আনতে কাজ করছে।",
-        "details_en": "Political and social tensions gripped Natore following the death of municipal Chhatra Dal member secretary Shakil Islam. The situation escalated after his funeral, leading to the vandalism and looting of a shopping mall in Chachkoir Bazar. Law enforcement agencies are working to restore order and bring the perpetrators to justice."
+        "impact_bn": "এই মর্মান্তিক ঘটনা এলাকায় গভীর শোকের ছায়া ফেলেছে এবং সড়কে নিরাপত্তা বৃদ্ধির দাবি জোরালো করেছে।",
+        "impact_en": "This tragic incident has cast a pall of grief over the area and intensified calls for road safety.",
+        "details_bn": "ভ্রমণে বের হওয়া একই পরিবারের চার সদস্যের মর্মান্তিক মৃত্যুর ঘটনায় পুরো এলাকায় শোকের মাতম চলছে। একসঙ্গে চারজনের এমন মৃত্যু এর আগে ওই এলাকায় ঘটেনি। স্থানীয় বাসিন্দারা ও দূরদূরান্ত থেকে আসা মানুষ এই জানাজায় অংশ নেন। আকস্মিক এই দুর্ঘটনায় পুরো পরিবারটি নিঃশেষ হয়ে যাওয়ায় এলাকাবাসীর মধ্যে তীব্র শোক ও আতঙ্ক বিরাজ করছে।",
+        "details_en": "The tragic death of four members of the same family during a trip has plunged the entire area into mourning. Such a massive loss from a single family is unprecedented in the locality. Thousands of locals and visitors attended the funeral prayers. This sudden tragedy has left the community deeply shaken and grieving."
       }
     },
     {
-      "story_id": "9eb913b0-ea52-5ca7-b31d-4223caae78db",
-      "primary_category": "economy_business",
-      "interest_categories": [
-        "economy_business",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Economy",
-        "#Finance"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2F1kd531iq%2FWhatsApp-Image-2026-10-28-at-8.02.12-PM.jpeg?rect=0%2C49%2C1279%2C671&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-28T13:10:39+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2348,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/qbuk6g50ea",
-          "title": "গায়ক ইন্দ্রনীল সেন গ্রেপ্তার, কোটি কোটি টাকা আত্মসাতের অভিযোগ",
-          "snippet": "গায়ক ইন্দ্রনীল সেন গ্রেপ্তার, কোটি কোটি টাকা আত্মসাতের অভিযোগ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কোটি কোটি টাকা আত্মসাতের অভিযোগে গায়ক ইন্দ্রনীল সেন গ্রেপ্তার",
-        "title_en": "Singer Indranil Sen Arrested Over Alleged Multi-Crore Financial Fraud",
-        "summary_bn": "ভারতের ইডি দপ্তরে জিজ্ঞাসাবাদের মুখোমুখি হওয়ার পর সংগীতশিল্পী ও সাবেক মন্ত্রী ইন্দ্রনীল সেনকে গ্রেপ্তার করেছে কলকাতা পুলিশ।",
-        "summary_en": "Singer and former minister Indranil Sen was arrested by Kolkata Police following questioning at the ED office in India.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "economy_business",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:10:39+00:00",
-        "lead_bn": "ভারতের ইডি দপ্তরে জিজ্ঞাসাবাদের মুখোমুখি হওয়ার পর সংগীতশিল্পী ও সাবেক মন্ত্রী ইন্দ্রনীল সেনকে গ্রেপ্তার করেছে কলকাতা পুলিশ।",
-        "lead_en": "Singer and former minister Indranil Sen was arrested by Kolkata Police following questioning at the ED office in India.",
-        "bullets_bn": [
-          "দুর্গাপূজার ডোনার পাস বিক্রির নামে কোটি কোটি টাকা আত্মসাতের অভিযোগে গায়ক ইন্দ্রনীল সেনকে গ্রেপ্তার করা হয়েছে।",
-          "ইন্দ্রনীল ও তাঁর স্ত্রীর প্রতিষ্ঠিত মাস আর্ট সংস্থাটি ইউনেসকোর নাম ব্যবহার করে ৫০ থেকে ৬০ কোটি রুপি আত্মসাৎ করেছে বলে অভিযোগ রয়েছে।",
-          "ইডি ও কলকাতা পুলিশের যৌথ তৎপরতার পর আইনি সুরক্ষা না পেয়ে এই গ্রেপ্তারের ঘটনা ঘটে।"
-        ],
-        "bullets_en": [
-          "Singer Indranil Sen was arrested over allegations of embezzling crores of rupees through fraudulent festival donor passes.",
-          "His firm Mass Art allegedly raised fifty to sixty crore rupees by falsely using UNESCO affiliation to sell donor passes.",
-          "The arrest followed extensive investigative raids and the failure of legal protection bids in higher courts."
-        ],
-        "impact_bn": "জালিয়াতির এমন ঘটনা সাধারণ সাংস্কৃতিক ডোনার ও সাধারণ মানুষের আস্থার ওপর বড় ধরনের নেতিবাচক প্রভাব ফেলছে।",
-        "impact_en": "Such financial fraud heavily damages public trust in cultural fundraising and donor-driven community events.",
-        "details_bn": "সংগীতশিল্পী ও সাবেক মন্ত্রী ইন্দ্রনীল সেন এবং তাঁর স্ত্রীর প্রতিষ্ঠিত মাস আর্ট সংস্থার বিরুদ্ধে কলকাতার দুর্গাপূজার ডোনার পাস বিক্রির নামে বড় অঙ্কের অর্থ আত্মসাতের অভিযোগ ওঠে। অভিযোগ অনুযায়ী, ইউনেসকোর লোগো অপব্যবহার করে এই পাস বিক্রি করা হয়। এ ঘটনায় বউবাজার থানায় মামলা হওয়ার পর এনফোর্সমেন্ট ডিরেক্টরেট তল্লাশি চালায়। সুপ্রিম কোর্ট ও হাইকোর্ট থেকে সুরক্ষা পেতে ব্যর্থ হওয়ার পর অবশেষে তাঁকে গ্রেপ্তার করে পুলিশ।",
-        "details_en": "Singer and former minister Indranil Sen and his wife faced allegations through their organization Mass Art for embezzling funds via fraudulent Durga Puja donor passes. Investigators claimed the firm misused UNESCO's name and logo to raise substantial sums. Following raids by the Enforcement Directorate and unsuccessful legal protections in higher courts, police apprehended him in Kolkata."
-      }
-    },
-    {
-      "story_id": "1c9f1468-5f96-5eb7-ad4e-d3766c7f0a7f",
-      "primary_category": "tech_innovation",
-      "interest_categories": [
-        "tech_innovation",
-        "world_diplomacy"
-      ],
-      "region": "international",
-      "tags": [
-        "#TechCrunch",
-        "#StartupSummit",
-        "#TechInnovation"
-      ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "image_caption": null,
-      "published_at": "2026-10-28T13:00:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 3.4,
-      "rank_score": 0.8084,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-          "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-          "snippet": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "টেকক্রাঞ্চ ফাউন্ডার সামিটের আগে ১০০ ডলার পর্যন্ত ছাড়ের সুযোগ শেষ পর্যায়ে",
-        "title_en": "TechCrunch Founder Summit Offers Final Chance to Save Up to 100 Dollars",
-        "summary_bn": "বস্টনে অনুষ্ঠিতব্য টেকক্রাঞ্চ ফাউন্ডার সামিটে টিকেট ক্রয়ে ১০০ ডলার পর্যন্ত ছাড় পাওয়ার সময় শেষ হয়ে আসছে।",
-        "summary_en": "Ticketing discounts of up to one hundred dollars for the upcoming TechCrunch Founder Summit in Boston are nearing expiration.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "tech_innovation",
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:00:00+00:00",
-        "lead_bn": "বস্টনে অনুষ্ঠিতব্য টেকক্রাঞ্চ ফাউন্ডার সামিটে টিকেট ক্রয়ে ১০০ ডলার পর্যন্ত ছাড় পাওয়ার সময় শেষ হয়ে আসছে।",
-        "lead_en": "Ticketing discounts of up to one hundred dollars for the upcoming TechCrunch Founder Summit in Boston are nearing expiration.",
-        "bullets_bn": [
-          "বস্টনের সোওয়া পাওয়ার স্টেশনে প্রযুক্তি উদ্যোক্তাদের নিয়ে একদিনের সামিট অনুষ্ঠিত হচ্ছে",
-          "টিকেট ক্রয়ে ১০০ ডলার পর্যন্ত ছাড় পাওয়ার শেষ সুযোগ সীমিত সময়ের জন্য উন্মুক্ত রয়েছে",
-          "সামিটে অভিজ্ঞ প্রতিষ্ঠাতা ও বিনিয়োগকারীদের সাথে সরাসরি সংযোগ ও কিউঅ্যান্ডএ সেশন থাকবে"
-        ],
-        "bullets_en": [
-          "The one-day summit for tech founders is scheduled to take place at Boston's SoWa Power Station.",
-          "A limited-time opportunity to save up to 100 dollars on event passes is currently active.",
-          "Attendees will gain direct access to experienced founders, interactive roundtables, and Q and A breakout stages."
-        ],
-        "impact_bn": "তরুণ উদ্যোক্তা ও স্টার্টআপ প্রতিষ্ঠাতা কম খরচে বৈশ্বিক বিশেষজ্ঞদের কাছ থেকে ব্যবহারিক দিকনির্দেশনা ও বিনিয়োগের কৌশল শিখতে পারবেন।",
-        "impact_en": "Young entrepreneurs and startup founders can learn practical strategies and networking insights from global experts at a reduced cost.",
-        "details_bn": "টেকক্রাঞ্চ ফাউন্ডার সামিট উদীয়মান স্টার্টআপ প্রতিষ্ঠাতা ও উদ্যোক্তাদের জন্য ভেঞ্চার ক্যাপিটাল, এআই এবং এন্টারপ্রাইজ প্রযুক্তির বাস্তবসম্মত কৌশল শিখতে সাহায্য করার একটি বার্ষিক আয়োজন। এই এক দিনের আয়োজনে প্যানেল আলোচনা, ইন্টারেক্টিভ রাউন্ডটেবিল এবং কিউঅ্যান্ডএ সেশনের মাধ্যমে নতুন ব্যবসায়িক চ্যালেঞ্জ মোকাবিলার পথ দেখানো হয়।",
-        "details_en": "The TechCrunch Founder Summit is designed as an intensive one-day bootcamp helping startup founders navigate venture capital, artificial intelligence, and business growth challenges through expert-led panels, interactive roundtables, and breakout sessions."
-      }
-    },
-    {
-      "story_id": "c27a0007-2405-5907-a8f7-515e9bf4e082",
+      "story_id": "a2f508c0-c11c-5436-9071-8e19c0a60817",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
         "governance_law"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#IsraelElection",
-        "#Netanyahu"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
-      "image_url": "https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=53137812ee6569691715bc1e5cce8997",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T13:26:14+00:00",
+      "published_at": "2026-10-28T14:57:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.743,
+      "importance_score": 2.4,
+      "rank_score": 0.9408,
       "sources": [
         {
-          "name": "The Guardian World",
-          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-          "title": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballots counted",
-          "snippet": "Israel election results live: Netanyahu bloc and main opposition set to fall short of majority as 92% of ballo"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/israeli-arab-parties-hold-key-as-netanyahu-falls-short-of-majority/article71635927.ece",
-          "title": "Israeli Arab parties hold key as Netanyahu falls short of majority",
-          "snippet": "Israeli Arab parties hold key as Netanyahu falls short of majority"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/asia/977361/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A7%87%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4-%E0%A6%86%E0%A6%87%E0%A6%A8",
+          "title": "ব্রিটিশ পুলিশের স্বেচ্ছাচারিতা ও মাত্রাতিরিক্ত আইন প্রয়োগে তীব্র অসন্তোষ চীনের",
+          "snippet": "ব্রিটিশ পুলিশের স্বেচ্ছাচারিতা ও মাত্রাতিরিক্ত আইন প্রয়োগে তীব্র অসন্তোষ চীনের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলের নির্বাচনে নেতার ব্লক ও বিরোধী দলগুলোর সংখ্যাগরিষ্ঠতা অর্জন নিয়ে অনিশ্চয়তা",
-        "title_en": "Netanyahu Bloc and Opposition Fall Short of Majority in Israel Election",
-        "summary_bn": "ইসরায়েলি নির্বাচনে ৯২ শতাংশ ভোট গণনার পর কোনো পক্ষই সংসদীয় সংখ্যাগরিষ্ঠতা অর্জনে প্রয়োজনীয় আসন নিশ্চিত করতে পারেনি।",
-        "summary_en": "Tallying of over 92 percent of ballots in Israel shows neither the Netanyahu bloc nor the opposition securing a parliamentary majority.",
+        "title_bn": "ব্রিটিশ পুলিশের স্বেচ্ছাচারী আচরণ ও মাত্রাতিরিক্ত আইন প্রয়োগে চীনের তীব্র অসন্তোষ",
+        "title_en": "China Expresses Deep Dissatisfaction Over Excessive Law Enforcement by British Police",
+        "summary_bn": "যুক্তরাজ্যের পুলিশের স্বেচ্ছাচারী আচরণ এবং মাত্রাতিরিক্ত আইন প্রয়োগের ঘটনায় আনুষ্ঠানিকভাবে তীব্র অসন্তোষ ও গভীর উদ্বেগ প্রকাশ করেছে চীন।",
+        "summary_en": "China has formally expressed deep dissatisfaction and concern over arbitrary actions and excessive law enforcement by British police.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -326,23 +209,142 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T13:26:14+00:00",
-        "lead_bn": "ইসরায়েলি নির্বাচনে ৯২ শতাংশ ভোট গণনার পর কোনো পক্ষই সংসদীয় সংখ্যাগরিষ্ঠতা অর্জনে প্রয়োজনীয় আসন নিশ্চিত করতে পারেনি।",
-        "lead_en": "Tallying of over 92 percent of ballots in Israel shows neither the Netanyahu bloc nor the opposition securing a parliamentary majority.",
+        "published_at": "2026-10-28T14:57:55+00:00",
+        "lead_bn": "যুক্তরাজ্যের পুলিশের স্বেচ্ছাচারী আচরণ এবং মাত্রাতিরিক্ত আইন প্রয়োগের ঘটনায় আনুষ্ঠানিকভাবে তীব্র অসন্তোষ ও গভীর উদ্বেগ প্রকাশ করেছে চীন।",
+        "lead_en": "China has formally expressed deep dissatisfaction and concern over arbitrary actions and excessive law enforcement by British police.",
         "bullets_bn": [
-          "নির্বাচনি কমিটির তথ্য অনুযায়ী বেনিয়ামিন নেতানিয়াহুর ব্লক ৫৩টি আসন এবং পরিবর্তন ব্লক ৪৮টি আসন অর্জন করেছে।",
-          "ইসরায়েলি পার্লামেন্টে সংখ্যাগরিষ্ঠতা অর্জনের জন্য ন্যূনতম ৬১টি আসন প্রয়োজন।",
-          "ইহুদি বিরোধী দলগুলো ফিলিস্তিনি দলগুলোর সাথে জোট গঠন করবে কিনা তা নিয়ে সংশয় রয়েছে।"
+          "চীন সরকারের পক্ষ থেকে ব্রিটিশ কর্তৃপক্ষের কাছে একটি আনুষ্ঠানিক প্রতিবাদপত্র দাখিল করা হয়েছে।",
+          "চীনের পররাষ্ট্র মন্ত্রণালয়ের মুখপাত্র কুও চিয়া খুন নিয়মিত সংবাদ সম্মেলনে এই অবস্থান তুলে ধরেন।",
+          "দুই দেশের কূটনৈতিক সম্পর্কে এই ঘটনার প্রভাব নিয়ে আন্তর্জাতিক মহলে আলোচনা শুরু হয়েছে।"
         ],
         "bullets_en": [
-          "The Netanyahu bloc dropped to 53 seats while the Jewish opposition Change bloc secured 48 seats in the count.",
-          "A total of 61 seats is required to achieve a working majority in the Israeli parliament.",
-          "Uncertainty remains over whether the Jewish opposition will form a coalition government with Palestinian parties."
+          "The Chinese government has submitted a formal letter of protest to British authorities.",
+          "Chinese Foreign Ministry spokesperson Guo Jiakun addressed the issue during a regular press briefing.",
+          "The diplomatic friction has drawn international attention regarding bilateral relations between the two nations."
         ],
-        "impact_bn": "এই রাজনৈতিক অচলাবস্থা ইসরায়েলের নীতি নির্ধারণী প্রক্রিয়া এবং মধ্যপ্রাচ্যের আঞ্চলিক ভূরাজনীতিতে দীর্ঘমেয়াদী প্রভাব ফেলতে পারে।",
-        "impact_en": "This political stalemate could stall legislative agendas and influence broader geopolitical dynamics across the Middle East.",
-        "details_bn": "ইসরায়েলের সাধারণ নির্বাচনে ভোট গণনার শেষ পর্যায়ে এসে কোনো একক দল বা জোট স্পষ্ট সংখ্যাগরিষ্ঠতা পায়নি। অনুপস্থিত ভোটসহ বাকি ব্যালটগুলো চূড়ান্ত সরকারের রূপরেখা নির্ধারণে গুরুত্বপূর্ণ ভূমিকা রাখবে। ইহুদি বিরোধী দল এবং ফিলিস্তিনি দলগুলোর মধ্যকার সম্ভাব্য রাজনৈতিক সমঝোতার ওপর নির্ভর করছে দেশটির পরবর্তী সরকার গঠন।",
-        "details_en": "Israel faced a political impasse as over 92 percent of ballots indicated that both the incumbent Netanyahu bloc and the primary opposition fell short of the 61-seat parliamentary majority. With absentee ballots left to be tallied, coalition formation depends heavily on whether Jewish opposition factions negotiate with Israeli Palestinian parties."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "যুক্তরাজ্যে আইন প্রয়োগকারী সংস্থার কার্যক্রম এবং প্রবাসী নাগরিকদের নিরাপত্তা নিয়ে বিভিন্ন সময় আন্তর্জাতিক মহলে নানা প্রশ্ন উঠেছে। সম্প্রতি ব্রিটিশ পুলিশের কিছু পদক্ষেপের কারণে কূটনৈতিক পর্যায়ে এই অসন্তোষের সৃষ্টি হয়েছে, যা দুই দেশের সম্পর্কের ওপর প্রভাব ফেলতে পারে। চীন সরকারের পক্ষ থেকে এই বিষয়ে আনুষ্ঠানিক প্রতিবাদ জানানোর পর পরিস্থিতি নিবিড়ভাবে পর্যবেক্ষণ করছে আন্তর্জাতিক বিশ্লেষকরা।",
+        "details_en": "Concerns regarding law enforcement practices and the safety of expatriate citizens in the UK have frequently drawn international attention. Recent actions by British police have sparked this diplomatic discontent, which could potentially impact bilateral relations. Following the formal protest by the Chinese government, international analysts are closely monitoring the situation."
+      }
+    },
+    {
+      "story_id": "a46fda6c-22aa-58c2-b3ba-b520a6bc26d0",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#UKEconomy",
+        "#MiddleEastWar",
+        "#Inflation"
+      ],
+      "image_url": "https://i.guim.co.uk/img/media/dc17f2bfc8f0122841d11d44766667531a3c7001/479_90_4680_3746/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20fe5d1e0f06a8b87ffebb8e2491c116",
+      "image_caption": null,
+      "published_at": "2026-10-28T14:57:29+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6633,
+      "sources": [
+        {
+          "name": "The Guardian World",
+          "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+          "title": "UK growth forecast for 2027 slashed despite Healey’s budget measures",
+          "snippet": "UK growth forecast for 2027 slashed despite Healey’s budget measures"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "মধ্যপ্রাচ্য যুদ্ধের জেরে ব্রিটেনের অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমাল অফিস ফর বাজেট রেসপন্সিবিলিটি",
+        "title_en": "UK Growth Forecast Slashes Amid Middle East Conflict Fallout and Rising Inflation",
+        "summary_bn": "মধ্যপ্রাচ্য যুদ্ধের কারণে জীবনযাত্রার ব্যয় বেড়ে যাওয়ায় ব্রিটেন তার দীর্ঘমেয়াদি অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমিয়েছে।",
+        "summary_en": "Britain cuts its economic growth forecast as the Middle East conflict triggers a fresh cost of living crisis.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T14:57:29+00:00",
+        "lead_bn": "মধ্যপ্রাচ্য যুদ্ধের কারণে জীবনযাত্রার ব্যয় বেড়ে যাওয়ায় ব্রিটেন তার দীর্ঘমেয়াদি অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস কমিয়েছে।",
+        "lead_en": "Britain cuts its economic growth forecast as the Middle East conflict triggers a fresh cost of living crisis.",
+        "bullets_bn": [
+          "মধ্যপ্রাচ্য যুদ্ধ এবং মূল্যস্ফীতির কারণে বাজেট ঘোষণাকালে অর্থনৈতিক প্রবৃদ্ধির পূর্বাভাস ছাঁটাই করেছে স্বতন্ত্র পূর্বাভাসকারী সংস্থা।",
+          "যুক্তরাজ্যের মুদ্রাস্ফীতি প্রায় ৪ শতাংশে পৌঁছাতে পারে এবং ঋণ পরিশোধের খরচ বাবদ অতিরিক্ত ১৪ বিলিয়ন পাউন্ড ব্যয় হচ্ছে।",
+          "চ্যান্সেলর জন হিলি শক্তি খাতের খরচ মেটাতে ব্যাংকগুলোর ওপর সাময়িক কর বৃদ্ধির ঘোষণা দিয়েছেন।"
+        ],
+        "bullets_en": [
+          "The independent forecaster slashed growth forecasts during the budget announcement due to the Middle East conflict and inflation.",
+          "UK inflation is poised to near 4 percent while the government spends 14 billion pounds extra on debt interest.",
+          "The chancellor announced a temporary tax rise on banks to fund household and business energy support measures."
+        ],
+        "impact_bn": "যুক্তরাজ্যে বসবাসরত নাগরিকদের জন্য জীবনযাত্রার ব্যয় এবং জ্বালানি খরচ উল্লেখযোগ্যভাবে বৃদ্ধি পাবে।",
+        "impact_en": "Ordinary citizens face increased cost of living pressures and higher energy expenses amid economic slowdown.",
+        "details_bn": "যুক্তরাজ্যের অর্থনীতি মধ্যপ্রাচ্যের চলমান সংঘাতের কারণে বড় ধরনের ধাক্কা খেয়েছে। এর ফলে ক্রমবর্ধমান মূল্যস্ফীতি এবং সরকারি ঋণ পরিশোধের চাপ তৈরি হয়েছে, যা দেশটির সামগ্রিক আর্থিক ব্যবস্থাপনাকে চ্যালেঞ্জের মুখে ফেলছে।",
+        "details_en": "The UK economy has faced severe pressure from the ongoing Middle East conflict, leading to soaring energy costs and increased debt interest payments. Despite initial resilience driven by AI investments, the independent forecaster downgraded future growth as global market fallouts intensify cost of living pressures."
+      }
+    },
+    {
+      "story_id": "7a0dff33-8144-5cb8-9d50-344d47bb25bc",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business",
+        "climate_environment",
+        "world_diplomacy",
+        "tech_innovation"
+      ],
+      "region": "international",
+      "tags": [
+        "#UKBudget",
+        "#EnergyBills"
+      ],
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&w=1920&h=1080",
+      "image_caption": null,
+      "published_at": "2026-10-28T14:55:13+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6479,
+      "sources": [
+        {
+          "name": "CNBC Global Economy",
+          "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+          "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+          "snippet": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাজ্যের নতুন বাজেটে জ্বালানি বিল হ্রাস ও কর ছাড় ঘোষণা",
+        "title_en": "UK Cuts Energy Bills and Taxes Banks in New Budget",
+        "summary_bn": "যুক্তরাজ্যের অর্থমন্ত্রী জীবনযাত্রার ব্যয় কমাতে প্রতিরক্ষা খাতে তহবিল বরাদ্দ এবং জ্বালানি বিলে ছাড় দিয়ে নতুন বাজেট পেশ করেছেন।",
+        "summary_en": "The UK finance minister has delivered a new fiscal budget focusing on defense funding and cost-of-living relief measures.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business",
+          "climate_environment",
+          "world_diplomacy",
+          "tech_innovation"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T14:55:13+00:00",
+        "lead_bn": "যুক্তরাজ্যের অর্থমন্ত্রী জীবনযাত্রার ব্যয় কমাতে প্রতিরক্ষা খাতে তহবিল বরাদ্দ এবং জ্বালানি বিলে ছাড় দিয়ে নতুন বাজেট পেশ করেছেন।",
+        "lead_en": "The UK finance minister has delivered a new fiscal budget focusing on defense funding and cost-of-living relief measures.",
+        "bullets_bn": [
+          "জ্বালানি খরচ কমাতে গ্যাসের স্থায়ী চার্জ বাতিল এবং বিদ্যুতের কর ছাড় জুলাই দুই হাজার সাতাশ সাল পর্যন্ত বাড়ানো হয়েছে",
+          "নিম্ন আয়ের গৃহগুলোর জন্য একশ পাউন্ড বা একশ তেত্রিশ ডলারের চেক দেওয়া হবে যার মোট ব্যয় দুই দশমিক ছয় বিলিয়ন পাউন্ড",
+          "সামাজিক বিভিন্ন খাতের পাশাপাশি ছোট ব্যবসার জন্য কর মওকুফের সুবিধা সম্প্রসারণ করা হয়েছে"
+        ],
+        "bullets_en": [
+          "Standing charges on household gas heating bills are removed and electricity tax breaks extended through July 2027.",
+          "Households in the four lowest local housing tax bands will receive one hundred pound checks costing a total of two point six billion pounds.",
+          "Business rate reliefs are extended to include more companies in the hospitality, retail and leisure sectors."
+        ],
+        "impact_bn": "সাধারণ পরিবারগুলো জ্বালানি বিল ও মুদি পণ্যের ওপর ছাড়ের সুফল পাবে এবং নিম্ন আয়ের মানুষ আর্থিক সহায়তা পাবে।",
+        "impact_en": "Ordinary households will benefit from reduced energy bills and grocery tax removals, providing relief from inflation pressures.",
+        "details_bn": "যুক্তরাজ্যে ক্রমবর্ধমান মূল্যস্ফীতি ও জ্বালানি সংকটের প্রেক্ষাপটে এই বাজেট ঘোষণা করা হয়েছে। জ্বালানির চড়া দাম এবং বৈশ্বিক ভূরাজনীতির প্রভাবে দেশটির অর্থনীতি ও সাধারণ মানুষের ওপর তৈরি হওয়া চাপ কমাতে এই উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "The fiscal budget was introduced against the backdrop of surging fuel costs and rising inflation reaching three point five percent in September. As a net energy importer vulnerable to external shocks, the UK government aimed to ease cost-of-living pressures for its population while maintaining market confidence."
       }
     }
   ]
