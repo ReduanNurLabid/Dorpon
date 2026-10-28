@@ -1,70 +1,66 @@
 {
-  "updated_at": "2026-10-28T11:00:48.162596",
+  "updated_at": "2026-10-28T12:00:54.517033",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "59d682d3-123e-5adb-b205-f8de8128f485",
-      "primary_category": "economy_business",
+      "story_id": "925624c8-b8f1-5cde-8c40-e0fcee14949f",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
-        "tech_innovation",
         "world_diplomacy",
-        "climate_environment"
+        "economy_business"
       ],
       "region": "national",
       "tags": [
-        "#Economy",
-        "#Finance"
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T10:53:08+00:00",
+      "published_at": "2026-10-28T11:52:59+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 6.6,
-      "rank_score": 2.467,
+      "rank_score": 2.4598,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/national/977289/%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%9A%E0%A6%BE%E0%A6%A8",
-          "title": "পাঁচ অগ্রাধিকার খাতে জাপানি বিনিয়োগ চান প্রধানমন্ত্রী",
-          "snippet": "পাঁচ অগ্রাধিকার খাতে জাপানি বিনিয়োগ চান প্রধানমন্ত্রী"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/national/news/1172996",
+          "title": "প্রধানমন্ত্রীর সঙ্গে জাপানের শিল্পমন্ত্রীর সাক্ষাৎ, আরও বিনিয়োগের আশা",
+          "snippet": "প্রধানমন্ত্রীর সঙ্গে জাপানের শিল্পমন্ত্রীর সাক্ষাৎ, আরও বিনিয়োগের আশা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পাঁচ খাতে জাপানি বিনিয়োগ আহ্বান প্রধানমন্ত্রীর",
-        "title_en": "PM Invites Japanese Investment in Five Priority Sectors",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান মোটরযান উৎপাদনসহ পাঁচটি অগ্রাধিকার খাতে জাপানি কোম্পানিগুলোর প্রতি বিনিয়োগের আহ্বান জানিয়েছেন।",
-        "summary_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors including automobile manufacturing.",
+        "title_bn": "জাপানের শিল্পমন্ত্রীর সাথে সাক্ষাৎ করে দ্বিপক্ষীয় বিনিয়োগ বাড়ানোর আহ্বান প্রধানমন্ত্রীর",
+        "title_en": "Prime Minister Urges Increased Japanese Investment During Meeting With Minister",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে সৌজন্য সাক্ষাৎ করে অর্থনৈতিক সম্পর্ক আরও সুদৃঢ় করার আগ্রহ প্রকাশ করেছেন জাপানের বাণিজ্যমন্ত্রী।",
+        "summary_en": "Japanese trade minister met Prime Minister to express interest in strengthening bilateral economic ties and investments.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "tech_innovation",
           "world_diplomacy",
-          "climate_environment"
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:53:08+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান মোটরযান উৎপাদনসহ পাঁচটি অগ্রাধিকার খাতে জাপানি কোম্পানিগুলোর প্রতি বিনিয়োগের আহ্বান জানিয়েছেন।",
-        "lead_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors including automobile manufacturing.",
+        "published_at": "2026-10-28T11:52:59+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের সাথে সৌজন্য সাক্ষাৎ করে অর্থনৈতিক সম্পর্ক আরও সুদৃঢ় করার আগ্রহ প্রকাশ করেছেন জাপানের বাণিজ্যমন্ত্রী।",
+        "lead_en": "Japanese trade minister met Prime Minister to express interest in strengthening bilateral economic ties and investments.",
         "bullets_bn": [
-          "মোটরযান উৎপাদন, জ্বালানি ও কৃষি প্রক্রিয়াজাতকরণ খাতে বিনিয়োগের আহ্বান জানিয়েছেন প্রধানমন্ত্রী।",
-          "প্রযুক্তি, মহাকাশ সহযোগিতা, রেলপথ ও সরবরাহব্যবস্থাকে অগ্রাধিকার খাত হিসেবে চিহ্নিত করা হয়েছে।",
-          "দুই দেশের স্বার্থ রক্ষার্থে দীর্ঘমেয়াদি অর্থনৈতিক অংশীদারত্ব গড়ে তোলার ওপর গুরুত্ব দেওয়া হয়েছে।"
+          "জাপানের অর্থনীতি, বাণিজ্য ও শিল্পমন্ত্রী আকাজাওয়া রিয়োসেই প্রধানমন্ত্রীর সাথে সৌজন্য সাক্ষাৎ করেন।",
+          "বৈঠকে দুই দেশের মধ্যে বাণিজ্য সম্প্রসারণ ও নতুন খাতে বিনিয়োগের বিষয়ে আলোচনা হয়েছে।",
+          "আগামী দিনে অর্থনৈতিক অংশীদারিত্ব আরও জোরদার করার ব্যাপারে উভয় পক্ষ ঐকমত্যে পৌঁছেছে।"
         ],
         "bullets_en": [
-          "Prime Minister urged investment in automobile manufacturing, energy, and agricultural processing sectors.",
-          "Technology, space cooperation, railways, and supply chain management were identified as priority sectors.",
-          "Emphasis was placed on building a long-term economic partnership based on mutual interests."
+          "Japanese Economy, Trade and Industry Minister Akazawa Ryosei paid a courtesy call on the Prime Minister.",
+          "Both sides discussed expanding bilateral trade and exploring new investment opportunities.",
+          "Both parties agreed to further strengthen economic partnership in the coming days."
         ],
-        "impact_bn": "এই বিনিয়োগ বাস্তবায়িত হলে দেশের উৎপাদনশীলতা বৃদ্ধি পাবে এবং নতুন কর্মসংস্থানের সুযোগ তৈরি হবে।",
-        "impact_en": "Realization of these investments will boost domestic productivity and create new employment opportunities.",
-        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের দ্বিপক্ষীয় অর্থনৈতিক সম্পর্ক রয়েছে। এর ধারাবাহিকতায় দুই দেশের বাণিজ্য ও বিনিয়োগ সহযোগিতা আরও সুদৃঢ় করতে বিভিন্ন কৌশলগত খাতে জাপানি অংশীদারত্ব বাড়ানোর উদ্যোগ নেওয়া হয়েছে।",
-        "details_en": "Bangladesh and Japan share a long-standing bilateral economic relationship. In line with this, initiatives have been taken to enhance Japanese partnership in various strategic sectors to further strengthen bilateral trade and investment cooperation."
+        "impact_bn": "নতুন জাপানি বিনিয়োগ দেশের অর্থনীতিতে কর্মসংস্থান সৃষ্টি ও প্রযুক্তির প্রসারে গুরুত্বপূর্ণ ভূমিকা রাখবে।",
+        "impact_en": "New Japanese investments will help create jobs and expand technology transfer in the domestic economy.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের বন্ধুভাবাপন্ন দ্বিপক্ষীয় সম্পর্ক রয়েছে। জাপান বাংলাদেশের অন্যতম বড় উন্নয়ন সহযোগী এবং বিভিন্ন মেগা প্রকল্পে দেশটির উল্লেখযোগ্য বিনিয়োগ রয়েছে। দুই দেশের বাণিজ্য ঘাটতি কমাতে এবং বৈদেশিক সরাসরি বিনিয়োগ বাড়াতে এই উচ্চপর্যায়ের বৈঠকটি অত্যন্ত তাৎপর্যপূর্ণ।",
+        "details_en": "Bangladesh and Japan share longstanding friendly bilateral relations. Japan is one of Bangladesh's major development partners with significant investments in various mega projects. This high-level meeting is highly significant for reducing trade deficits and boosting foreign direct investment."
       }
     },
     {
-      "story_id": "3047dac5-0ae3-533a-a9c5-93b4ea8f2a8c",
+      "story_id": "fb63dc8a-95af-5aff-880f-62b3faa02525",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -75,25 +71,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/Untitled-66.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-28T10:53:16+00:00",
+      "published_at": "2026-10-28T11:48:46+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.7966,
+      "rank_score": 1.7152,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172960",
-          "title": "সার্বিয়ায় সরকার বদলের আবহে ইসরায়েলি দূতাবাসে হামলা, নিহত ১",
-          "snippet": "সার্বিয়ায় সরকার বদলের আবহে ইসরায়েলি দূতাবাসে হামলা, নিহত ১"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/stirrings-of-conscience-pakistani-judge-resigns/",
+          "title": "‘বিবেকের তাড়না’য় পদত্যাগ করলেন পাকিস্তানি বিচারপতি",
+          "snippet": "‘বিবেকের তাড়না’য় পদত্যাগ করলেন পাকিস্তানি বিচারপতি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসে হামলা ও হামলাকারী নিহত",
-        "title_en": "Attacker Killed Following Assault on Israeli Embassy in Serbia",
-        "summary_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত এক পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
-        "summary_en": "A teenager launched a knife attack on a police officer guarding the Israeli embassy in Belgrade, Serbia.",
+        "title_bn": "বিচার বিভাগের স্বাধীনতা ক্ষুণ্ণ হওয়ার অভিযোগে পাকিস্তানের বিচারপতির পদত্যাগ",
+        "title_en": "Pakistani Judge Resigns Citing Compromised Judicial Independence",
+        "summary_bn": "পাকিস্তানের বিচার বিভাগের স্বাধীনতা ক্ষুণ্ণ হওয়া ও নির্বাহী বিভাগের হস্তক্ষেপের অভিযোগে পদত্যাগ করেছেন লাহোর হাইকোর্টের বিচারপতি মোহসিন আখতার কায়ানি।",
+        "summary_en": "Lahore High Court Justice Mohsin Akhtar Kayani resigned citing compromised judicial independence and growing executive interference in Pakistan.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -101,27 +97,82 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:53:16+00:00",
-        "lead_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত এক পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
-        "lead_en": "A teenager launched a knife attack on a police officer guarding the Israeli embassy in Belgrade, Serbia.",
+        "published_at": "2026-10-28T11:48:46+00:00",
+        "lead_bn": "পাকিস্তানের বিচার বিভাগের স্বাধীনতা ক্ষুণ্ণ হওয়া ও নির্বাহী বিভাগের হস্তক্ষেপের অভিযোগে পদত্যাগ করেছেন লাহোর হাইকোর্টের বিচারপতি মোহসিন আখতার কায়ানি।",
+        "lead_en": "Lahore High Court Justice Mohsin Akhtar Kayani resigned citing compromised judicial independence and growing executive interference in Pakistan.",
         "bullets_bn": [
-          "ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
-          "পুলিশের পাল্টা গুলিতে হামলাকারী কিশোর নিহত হয়।",
-          "ঘটনার পর সার্বিয়ার রাজধানী বেলগ্রেডে দূতাবাসের আশপাশে নিরাপত্তা জোরদার করা হয়েছে।"
+          "বিচার বিভাগের স্বাধীনতা ও প্রাতিষ্ঠানিক মর্যাদা ক্ষুণ্ণ হওয়ার অভিযোগে পাকিস্তানের প্রেসিডেন্ট বরাবর পদত্যাগপত্র পাঠান বিচারপতি মোহসিন আখতার কায়ানি।",
+          "সংবিধানের ২৬তম ও ২৭তম সংশোধনী হাইকোর্টের স্বাধীনতা এবং প্রাতিষ্ঠানিক অখণ্ডতাকে ক্ষতিগ্রস্ত করেছে বলে অভিযোগ করেন তিনি।",
+          "পদত্যাগের পর তিনি পুনরায় আইন পেশায় ফিরে গিয়ে মানুষের অধিকার রক্ষা ও আইনি সচেতনতা বৃদ্ধিতে কাজ করার সিদ্ধান্ত নিয়েছেন।"
         ],
         "bullets_en": [
-          "A teenager attacked a security police officer stationed at the Israeli embassy with a knife.",
-          "The attacker was shot and killed by police returning fire.",
-          "Security has been significantly tightened around the embassy premises in Belgrade following the incident."
+          "Justice Mohsin Akhtar Kayani submitted his resignation to the Pakistani president citing compromised judicial independence and institutional dignity.",
+          "He stated that the 26th and 27th constitutional amendments have damaged the independence and institutional integrity of the high courts.",
+          "Following his resignation, he plans to return to legal practice to protect people's rights and raise legal awareness."
+        ],
+        "impact_bn": "বিচার বিভাগের ওপর আস্থার সংকট সাধারণ বিচারপ্রার্থীদের ন্যায়বিচার পাওয়ার প্রক্রিয়াকে দীর্ঘায়িত ও দুর্বিষহ করে তুলতে পারে।",
+        "impact_en": "Eroding public trust in the judiciary risks complicating and delaying access to fair justice for ordinary citizens.",
+        "details_bn": "পাকিস্তানের ২৬তম ও ২৭তম সংবিধান সংশোধনীর মাধ্যমে বিচার বিভাগের ওপর নির্বাহী বিভাগের নিয়ন্ত্রণ ও বিচারকদের বদলিতে হস্তক্ষেপের অভিযোগ ওঠে। এর ফলে ইসলামাবাদ ও লাহোর হাইকোর্টের স্বাধীনতা নিয়ে তীব্র বিতর্ক তৈরি হয়। পদত্যাগী বিচারপতি মোহসিন আখতার কায়ানি এর আগে ইসলামাবাদ হাইকোর্টের জ্যেষ্ঠ বিচারপতি ছিলেন এবং তার প্রধান বিচারপতি হওয়ার সম্ভাবনা ছিল। বিচারিক জীবনে তিনি ২৩ হাজারের বেশি মামলা নিষ্পত্তি করেছেন।",
+        "details_en": "Controversy arose in Pakistan following the 26th and 27th constitutional amendments, which critics say increased executive control over the judiciary and interference in judge transfers. Resigning Justice Mohsin Akhtar Kayani was previously a senior judge of the Islamabad High Court and was in line to become its chief justice. Throughout his judicial career, he disposed of over 23,000 cases."
+      }
+    },
+    {
+      "story_id": "7e835590-7aa2-5d56-8344-778d130ff1bc",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T11:20:49+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.3372,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172980",
+          "title": "বিএনপি কার্যালয়ে হামলা-ভাঙচুরের ঘটনায় মামলা, আসামি ৮১",
+          "snippet": "বিএনপি কার্যালয়ে হামলা-ভাঙচুরের ঘটনায় মামলা, আসামি ৮১"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিএনপি কার্যালয়ে হামলা ও ভাঙচুরের ঘটনায় ৮১ জনের বিরুদ্ধে মামলা দায়ের",
+        "title_en": "Case Filed Against 81 Over Attack and Vandalism at BNP Office",
+        "summary_bn": "বিএনপি কার্যালয়ে হামলা ও ভাঙচুরের ঘটনায় ৮১ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
+        "summary_en": "A case has been filed against 81 individuals over the attack and vandalism at the BNP office.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T11:20:49+00:00",
+        "lead_bn": "বিএনপি কার্যালয়ে হামলা ও ভাঙচুরের ঘটনায় ৮১ জনকে আসামি করে মামলা দায়ের করা হয়েছে।",
+        "lead_en": "A case has been filed against 81 individuals over the attack and vandalism at the BNP office.",
+        "bullets_bn": [
+          "বিএনপি কার্যালয়ে হামলা ও ভাঙচুরের ঘটনায় আইনি পদক্ষেপ গ্রহণ করা হয়েছে।",
+          "মামলায় মোট ৮১ জনকে সুনির্দিষ্ট আসামি করা হয়েছে।",
+          "ঘটনার সাথে জড়িত বাকিদের শনাক্ত করতে তদন্ত কার্যক্রম অব্যাহত রয়েছে।"
+        ],
+        "bullets_en": [
+          "Legal action has been initiated following the attack and vandalism at the BNP office.",
+          "A total of 81 individuals have been named as accused in the filed case.",
+          "Investigative measures are ongoing to identify other individuals involved in the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "সার্বিয়ার রাজধানী বেলগ্রেডে অবস্থিত ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত পুলিশ সদস্যদের লক্ষ্য করে সম্প্রতি এই হামলার ঘটনা ঘটে। দেশটিতে চলমান রাজনৈতিক পরিবর্তন ও উত্তেজনার মধ্যেই এই নিরাপত্তা লঙ্ঘনের ঘটনা ঘটে। পুলিশ তাৎক্ষণিকভাবে প্রতিক্রিয়া জানিয়ে হামলাকারীকে প্রতিহত করে।",
-        "details_en": "The security incident occurred at the Israeli diplomatic mission located in the Serbian capital of Belgrade. Amid ongoing political shifts and heightened regional tensions, the assailant targeted on-duty security personnel before being neutralized by law enforcement."
+        "details_bn": "রাজনৈতিক কার্যালয় ভাঙচুর ও সহিংসতার ঘটনায় আইনশৃঙ্খলা রক্ষা বাহিনী কঠোর অবস্থান নিয়েছে। এ ধরনের সহিংস কর্মকাণ্ডের পুনরাবৃত্তি রোধে এবং জড়িতদের আইনের আওতায় আনতে সংশ্লিষ্ট কর্তৃপক্ষ তদন্ত চালিয়ে যাচ্ছে।",
+        "details_en": "Law enforcement agencies have taken a firm stance following political office vandalism and violent incidents. Authorities are continuing investigations to prevent the recurrence of such violent acts and bring those involved to justice."
       }
     },
     {
-      "story_id": "b77a41d5-e033-5e6c-987a-634e280fb498",
+      "story_id": "4e5f25d1-43e4-529f-a2f0-0598af84f5a0",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -133,101 +184,46 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T10:45:43+00:00",
+      "published_at": "2026-10-28T11:54:59+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6674,
+      "importance_score": 2.4,
+      "rank_score": 0.9129,
       "sources": [
         {
           "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/health/977287/%E0%A6%86%E0%A6%87%E0%A6%87%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%86%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE",
-          "title": "আইইডিসিআর পরিচালকের ওপর হামলা, জামায়াতের নিন্দা",
-          "snippet": "আইইডিসিআর পরিচালকের ওপর হামলা, জামায়াতের নিন্দা"
+          "url": "https://www.banglatribune.com/country/chitagong/977311/%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%9C%E0%A7%9C%E0%A6%BF%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%93-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE",
+          "title": "পাচারে জড়িত সারের ডিলারদের বিরুদ্ধেও ব্যবস্থা নেওয়া হবে: এমপির হুঁশিয়ারি",
+          "snippet": "পাচারে জড়িত সারের ডিলারদের বিরুদ্ধেও ব্যবস্থা নেওয়া হবে: এমপির হুঁশিয়ারি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আইইডিসিআর পরিচালকের কার্যালয়ে হামলার অভিযোগ ড্যাব কর্মীদের বিরুদ্ধে",
-        "title_en": "IEDCR Director Assaulted in Office Allegedly by DAB Activists",
-        "summary_bn": "রাজধানীর মহাখালীতে আইইডিসিআর পরিচালকের কার্যালয়ে ঢুকে তাকে মারধরের অভিযোগ উঠেছে বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে।",
-        "summary_en": "Activists of the BNP-backed Doctors Association of Bangladesh allegedly assaulted the IEDCR director inside his office in Mohakhali.",
+        "title_bn": "সার পাচার ও অপরাধ দমনে কঠোর ব্যবস্থা নেওয়ার হুঁশিয়ারি এমপির",
+        "title_en": "MP Warns of Strict Action Against Fertilizer Smuggling and Crime",
+        "summary_bn": "কক্সবাজারের উখিয়া ও টেকনাফে সার পাচার, অপহরণ ও মাদক রোধে কঠোর আইনগত পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন স্থানীয় সংসদ সদস্য।",
+        "summary_en": "The local lawmaker announced strict legal measures to stop fertilizer smuggling, kidnapping, and drug trafficking in Ukhia and Teknaf.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:45:43+00:00",
-        "lead_bn": "রাজধানীর মহাখালীতে আইইডিসিআর পরিচালকের কার্যালয়ে ঢুকে তাকে মারধরের অভিযোগ উঠেছে বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে।",
-        "lead_en": "Activists of the BNP-backed Doctors Association of Bangladesh allegedly assaulted the IEDCR director inside his office in Mohakhali.",
+        "published_at": "2026-10-28T11:54:59+00:00",
+        "lead_bn": "কক্সবাজারের উখিয়া ও টেকনাফে সার পাচার, অপহরণ ও মাদক রোধে কঠোর আইনগত পদক্ষেপ নেওয়ার ঘোষণা দিয়েছেন স্থানীয় সংসদ সদস্য।",
+        "lead_en": "The local lawmaker announced strict legal measures to stop fertilizer smuggling, kidnapping, and drug trafficking in Ukhia and Teknaf.",
         "bullets_bn": [
-          "আইইডিসিআর পরিচালক অধ্যাপক কাজী আহমেদ জাকিরের কার্যালয়ে ঢুকে হামলার ঘটনা ঘটে।",
-          "অধ্যাপক কাজী আহমেদ জাকি বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে মারধরের সুনির্দিষ্ট অভিযোগ করেছেন।",
-          "এই ঘটনার তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে বাংলাদেশ জামায়াতে ইসলামী।"
+          "সার পাচারের সাথে জড়িত ডিলার ও ব্যক্তিদের বিরুদ্ধে কঠোর শাস্তিমূলক ব্যবস্থা নেওয়া হবে।",
+          "পাহাড়ে নিরাপত্তা জোরদার করতে নতুন সেনা চৌকি স্থাপনের কাজ চলমান রয়েছে।",
+          "সীমান্তবর্তী অঞ্চলে অপরাধমূলক কর্মকাণ্ড দমনে আইনশৃঙ্খলা রক্ষাকারী বাহিনী অভিযান বাড়াবে।"
         ],
         "bullets_en": [
-          "An assault took place inside the office of IEDCR Director Professor Kazi Ahmed Zakir.",
-          "Professor Kazi Ahmed Zakir specifically accused activists of the BNP-backed doctors platform DAB of physical attack.",
-          "Bangladesh Jamaat-e-Islami strongly condemned and protested the incident."
+          "Strict punitive measures will be taken against dealers and individuals involved in fertilizer smuggling.",
+          "The establishment of new army checkpoints is currently underway to strengthen security in the hills.",
+          "Law enforcement agencies will intensify operations to curb criminal activities in border areas."
         ],
-        "impact_bn": "সরকারি প্রতিষ্ঠানে চিকিৎসকদের ওপর এমন হামলা জনস্বাস্থ্য সেবায় নিয়োজিত পেশাজীবীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
-        "impact_en": "Such attacks on medical professionals in public institutions raise serious concerns about the safety of healthcare workers.",
-        "details_bn": "রাজধানীর মহাখালীতে অবস্থিত রোগতত্ত্ব, রোগনিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউটের (আইইডিসিআর) পরিচালকের কার্যালয়ে চিকিৎসকদের একটি অংশের আন্দোলন ও পেশাজীবী সংগঠনের অভ্যন্তরীণ বিরোধের জেরে এই অপ্রীতিকর পরিস্থিতির সৃষ্টি হয়। স্বাস্থ্য খাতের গুরুত্বপূর্ণ এই গবেষণা প্রতিষ্ঠানে এমন ঘটনায় প্রশাসনিক শৃঙ্খলা ও চিকিৎসকদের নিরাপত্তা নিয়ে বিভিন্ন মহলে প্রশ্ন উঠেছে। ঘটনার পর থেকেই স্বাস্থ্য অধিদপ্তর ও সংশ্লিষ্ট মহলে উত্তেজনা বিরাজ করছে এবং দোষীদের বিরুদ্ধে প্রশাসনিক ব্যবস্থার দাবি উঠেছে।",
-        "details_en": "The incident unfolded at the Institute of Epidemiology, Disease Control and Research (IEDCR) in Mohakhali amid internal friction and protests involving professional factions. Such occurrences inside a vital national health research facility have raised serious questions regarding administrative discipline and the safety of medical personnel, sparking demands for immediate action against the culprits."
-      }
-    },
-    {
-      "story_id": "fea0854e-9e87-50eb-a216-ce9a5ed8dad4",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T10:45:21+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.6616,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/rajshahi/977286/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%B6%E0%A6%AA%E0%A6%BF%E0%A6%82%E0%A6%AE%E0%A6%B2-%E0%A6%B2%E0%A7%81%E0%A6%9F-%E0%A6%AF%E0%A7%87",
-          "title": "বিএনপির এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমল লুট, যে যার মতো নিয়ে গেছে সব মালামাল",
-          "snippet": "বিএনপির এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমল লুট, যে যার মতো নিয়ে গেছে সব মালামাল"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "নাটোরের গুরুদাসপুরে জানাজার পর প্রবাসীর শপিংমলে ভাঙচুর ও লুটপাট",
-        "title_en": "Shopping Mall Vandalized and Looted in Natore Following Janaza",
-        "summary_bn": "নাটোরের গুরুদাসপুরে ছাত্রদল নেতার জানাজার পর চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটেছে।",
-        "summary_en": "A shopping mall in Natore's Gurudaspur was vandalized and looted following the funeral of a student leader.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:45:21+00:00",
-        "lead_bn": "নাটোরের গুরুদাসপুরে ছাত্রদল নেতার জানাজার পর চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটেছে।",
-        "lead_en": "A shopping mall in Natore's Gurudaspur was vandalized and looted following the funeral of a student leader.",
-        "bullets_bn": [
-          "নাটোরের গুরুদাসপুর উপজেলার চাঁচকৈড় বাজারে রাশ মেগা মলে হামলা ও লুটপাট চালানো হয়েছে।",
-          "নিহত ছাত্রদল নেতা শাকিল ইসলামের জানাজায় অংশ নেওয়া লোকজনের একাংশ এই হামলা চালায়।",
-          "হামলার পর দুর্বৃত্তরা শপিংমলের বিভিন্ন মালামাল লুট করে নিয়ে যায়।"
-        ],
-        "bullets_en": [
-          "A shopping mall named Rush Mega Mall was attacked and looted in Natore's Gurudaspur upazila.",
-          "People participating in the funeral procession of deceased student leader Shakil Islam carried out the attack.",
-          "Miscreants looted various goods from the shopping mall following the vandalism."
-        ],
-        "impact_bn": "এ ধরনের সহিংসতা ও লুটপাট স্থানীয় ব্যবসায়ী ও সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা তৈরি করছে।",
-        "impact_en": "Such acts of violence and looting create a sense of insecurity among local business owners and residents.",
-        "details_bn": "নাটোরের গুরুদাসপুরে নিহত ছাত্রদল নেতা শাকিল ইসলামের জানাজা শেষে চাঁচকৈড় বাজারের রাশ মেগা মলে হামলা চালানো হয়। প্রত্যক্ষদর্শীদের মতে, জানাজায় অংশ নেওয়া মিছিল থেকে কিছু লোক পরিকল্পিতভাবে এই ভাঙচুর ও লুটপাট চালায়। আইনশৃঙ্খলা পরিস্থিতির অবনতি এবং রাজনৈতিক কর্মসূচির নামে এ ধরনের নৈরাজ্য সাধারণ ব্যবসায়ীদের মারাত্মক ঝুঁকিতে ফেলছে।",
-        "details_en": "Violence erupted in Natore's Gurudaspur following the funeral of student leader Shakil Islam, targeting a shopping mall in Chachkoir Bazar. According to eyewitnesses, participants from the funeral procession raided the establishment. Incidents like these raise serious concerns about local law enforcement and public security during political gatherings."
+        "impact_bn": "অপরাধ দমন ও সার পাচার রোধ হলে স্থানীয় কৃষকরা ন্যায্যমূল্যে সার পাবে এবং এলাকার আইনশৃঙ্খলা পরিস্থিতির উন্নতি হবে।",
+        "impact_en": "Curbing crime and fertilizer smuggling will ensure farmers get fertilizers at fair prices and improve regional security.",
+        "details_bn": "কক্সবাজারের উখিয়া ও টেকনাফ সীমান্তবর্তী অঞ্চল হওয়ায় দীর্ঘদিন ধরে মাদক চোরাচালান, মানবপাচার এবং পাহাড়কেন্দ্রিক বিভিন্ন অপরাধের মুখোমুখি হয়ে আসছে। কৃষকদের জন্য বরাদ্দকৃত সার পাচার হয়ে যাওয়ার অভিযোগও দীর্ঘদিনের। সম্প্রতি এসব অপরাধমূলক কর্মকাণ্ড নিয়ন্ত্রণে স্থানীয় প্রশাসনের পক্ষ থেকে নিরাপত্তা জোরদার এবং কঠোর পদক্ষেপ গ্রহণের ওপর বিশেষ জোর দেওয়া হচ্ছে।",
+        "details_en": "Being border regions, Ukhia and Teknaf in Cox's Bazar have long faced challenges regarding drug smuggling, human trafficking, and hill-based crimes. Allegations of subsidized fertilizers being smuggled out have also persisted. Recently, the local administration has placed special emphasis on strengthening security and taking stern actions to control these illicit activities."
       }
     },
     {
@@ -239,15 +235,14 @@
       "region": "international",
       "tags": [
         "#Inflation",
-        "#TariffRefunds",
-        "#CostOfLiving"
+        "#TariffRefunds"
       ],
       "image_url": null,
       "image_caption": null,
       "published_at": "2026-10-28T10:21:00+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.25,
-      "rank_score": 1.1871,
+      "rank_score": 0.7841,
       "sources": [
         {
           "name": "MarketWatch Economy",
@@ -257,10 +252,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "শুল্ক ফেরত সুবিধা বন্ধ হওয়ায় ভোক্তা পর্যায়ে পণ্যের দাম বাড়ার শঙ্কা",
-        "title_en": "End of Tariff Refunds Threatens Consumers With Higher Price Pressures",
-        "summary_bn": "শুল্ক ফেরতের সুযোগ বন্ধ হওয়ায় কোম্পানিগুলো বর্ধিত খরচ ভোক্তাদের ওপর চাপিয়ে দিতে শুরু করেছে, যা মূল্যস্ফীতি বাড়িয়ে দিচ্ছে।",
-        "summary_en": "Companies are passing higher costs directly to consumers as tariff refund benefits phase out, fueling inflation concerns.",
+        "title_bn": "শুল্ক ফেরতের মেয়াদ শেষ হওয়ায় মূল্যস্ফীতির ঝুঁকি বাড়ার আশঙ্কা",
+        "title_en": "Inflation Risks Surge as Companies Lose Tariff Refunds to Ease Costs",
+        "summary_bn": "শুল্ক ফেরতের সুবিধা শেষ হওয়ায় কোম্পানিগুলো উৎপাদন খরচ সামলাতে শেষ পর্যন্ত মূল্যবৃদ্ধির বোঝা সাধারণ ক্রেতাদের ওপর চাপাতে শুরু করেছে।",
+        "summary_en": "Companies that previously used tariff refunds to ease cost pressures are increasingly passing higher expenses directly onto consumers.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -268,78 +263,82 @@
         ],
         "read_time_seconds": 60,
         "published_at": "2026-10-28T10:21:00+00:00",
-        "lead_bn": "শুল্ক ফেরতের সুযোগ বন্ধ হওয়ায় কোম্পানিগুলো বর্ধিত খরচ ভোক্তাদের ওপর চাপিয়ে দিতে শুরু করেছে, যা মূল্যস্ফীতি বাড়িয়ে দিচ্ছে।",
-        "lead_en": "Companies are passing higher costs directly to consumers as tariff refund benefits phase out, fueling inflation concerns.",
+        "lead_bn": "শুল্ক ফেরতের সুবিধা শেষ হওয়ায় কোম্পানিগুলো উৎপাদন খরচ সামলাতে শেষ পর্যন্ত মূল্যবৃদ্ধির বোঝা সাধারণ ক্রেতাদের ওপর চাপাতে শুরু করেছে।",
+        "lead_en": "Companies that previously used tariff refunds to ease cost pressures are increasingly passing higher expenses directly onto consumers.",
         "bullets_bn": [
-          "কোম্পানিগুলো শুল্ক ফেরতের সুবিধা হারিয়ে খরচ সামলাতে হিমশিম খাচ্ছে।",
-          "বিশ্লেষক ডেনিস ডিবাশ্চারের মতে খরচ বৃদ্ধির প্রভাব সরাসরি পণ্যের দামে পড়বে।",
-          "ভোক্তাদের জন্য জীবনযাত্রার ব্যয় আরও বাড়ার আশঙ্কা করছেন অর্থনীতিবিদরা।"
+          "শুল্ক ফেরতের মতো সুবিধা বন্ধ হয়ে যাওয়ায় কর্পোরেট প্রতিষ্ঠানগুলোর ব্যয় সংকোচন ও মূল্যের চাপ নাটকীয়ভাবে বৃদ্ধি পাচ্ছে।",
+          "বিশ্লেষক ডেনিস ডিবুশারের মতে খরচ বৃদ্ধির এই প্রবণতা সামগ্রিক অর্থনীতিতে নতুন মূল্যস্ফীতির ঝুঁকি তৈরি করছে।",
+          "ব্যবসায়িক খরচ সামাল দিতে ব্যর্থ হয়ে প্রতিষ্ঠানগুলো পণ্যের বর্ধিত মূল্য সরাসরি ক্রেতার পকেটে স্থানান্তরের পরিকল্পনা করছে।"
         ],
         "bullets_en": [
-          "Companies can no longer rely on tariff refunds to ease their operational cost pressures.",
-          "Analyst Dennis DeBusschere warns that businesses will increasingly hand down higher costs to consumers.",
-          "Households face growing pressure on daily living expenses as inflation risks intensify."
+          "Corporations face escalating operational pressures as historical tariff refund mechanisms officially phase out.",
+          "Analyst Dennis DeBusschere highlights that fading cost offsets will directly fuel broader macroeconomic inflation trends.",
+          "Firms unable to absorb rising expenses will shift the financial burden straight to end consumers."
         ],
-        "impact_bn": "দৈনন্দিন খরচ বেড়ে যাওয়ায় সাধারণ ক্রেতাদের ক্রয়ক্ষমতা ও পারিবারিক বাজেট মারাত্মকভাবে সংকুচিত হবে।",
-        "impact_en": "Ordinary consumers will face squeezed household budgets and reduced purchasing power as everyday expenses rise.",
-        "details_bn": "দীর্ঘদিন ধরে ব্যবসা প্রতিষ্ঠানগুলো উৎপাদন খরচ কমাতে শুল্ক ফেরত বা ট্যারিফ রিফান্ডের ওপর নির্ভর করত। তবে বৈশ্বিক অর্থনৈতিক পরিবর্তন ও সাপ্লাই চেইনের নতুন বাস্তবতায় এই সুবিধাগুলো সংকুচিত হয়ে আসছে। এর ফলে করপোরেট প্রতিষ্ঠানগুলো তাদের বাড়তি খরচের বোঝা সরাসরি শেষ গ্রাহকের ওপর স্থানান্তর করতে বাধ্য হচ্ছে, যা সামগ্রিক অর্থনীতিতে নতুন করে মূল্যস্ফীতির ঝুঁকি তৈরি করছে।",
-        "details_en": "For a long time, companies relied on tariff refunds to cushion themselves against rising operational expenses. As macroeconomic shifts and changing trade dynamics limit these financial reliefs, businesses are left with fewer alternatives. Consequently, corporations are shifting the burden of these higher costs onto everyday retail shoppers, creating fresh economic headwinds and threatening broader price stability."
+        "impact_bn": "দৈনন্দিন ভোগ্যপণ্য এবং সেবামূল্যের দাম বেড়ে যাওয়ায় সাধারণ মানুষের জীবনযাত্রার ব্যয় উল্লেখযোগ্যভাবে বৃদ্ধি পাবে।",
+        "impact_en": "Everyday consumers will face higher retail prices and increased cost of living as corporate expenses get passed down.",
+        "details_bn": "বহু দিন ধরে বিশ্বজুড়ে বিভিন্ন কোম্পানি উৎপাদন ও সাপ্লাই চেইনের খরচ সামাল দিতে শুল্ক ফেরতের সুবিধার ওপর নির্ভর করে আসছিল। তবে এই আর্থিক সুরক্ষাবলয় বা প্রণোদনাগুলো ক্রমান্বয়ে উঠে যাওয়ায় ব্যবসায়িক ব্যয় বৃদ্ধি পাচ্ছে। এর ফলে বিশ্ববাজারে মূল্যস্ফীতি নিয়ন্ত্রণের দীর্ঘমেয়াদি প্রচেষ্টা বড় ধরনের চ্যালেঞ্জের মুখে পড়েছে এবং অর্থনীতিবিদরা নতুন করে মূল্যবৃদ্ধির সতর্কবার্তা দিচ্ছেন।",
+        "details_en": "Corporations globally have long relied on tariff refund mechanisms to cushion supply chain expenses and manufacturing costs. As these fiscal cushions phase out, businesses face mounting cost pressures that threaten to reverse recent progress in cooling macroeconomic inflation and stabilizing consumer markets."
       }
     },
     {
-      "story_id": "e80ced20-f50c-5c32-8e05-3817e7c17232",
-      "primary_category": "world_diplomacy",
+      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
+      "primary_category": "climate_environment",
       "interest_categories": [
-        "world_diplomacy"
+        "climate_environment",
+        "world_diplomacy",
+        "society_education"
       ],
       "region": "international",
       "tags": [
-        "#RussiaAfrica",
-        "#MoscowDiplomacy",
-        "#GlobalTrade"
+        "#ClimateCrisis",
+        "#GlobalHealth",
+        "#LancetCountdown"
       ],
-      "image_url": "https://static.dw.com/image/71403682_6.jpg",
+      "image_url": "https://static.dw.com/image/69108117_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T11:00:48.162603+00:00",
+      "published_at": "2026-10-28T12:00:54.517043+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6886,
+      "rank_score": 0.6884,
       "sources": [
         {
           "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-          "title": "Russia in Africa: What is Putin hoping to achieve?",
-          "snippet": "Russia in Africa: What is Putin hoping to achieve?"
+          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+          "title": "Experts urge 'global health emergency' as climate harms accelerate",
+          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
         }
       ],
       "daily_buzz": {
-        "title_bn": "আফ্রিকা মহাদেশে প্রভাব বিস্তার ও কূটনৈতিক সম্পর্ক বাড়াচ্ছে রাশিয়া",
-        "title_en": "Russia Expands Diplomatic Influence and Economic Ties Across Africa",
-        "summary_bn": "ইউক্রেন যুদ্ধের পর আন্তর্জাতিক সমর্থন পেতে এবং অর্থনৈতিক সহযোগিতা বাড়াতে আফ্রিকা মহাদেশে কূটনৈতিক তৎপরতা জোরদার করেছে রাশিয়া।",
-        "summary_en": "Russia is aggressively expanding its diplomatic outreach and economic cooperation across Africa to secure international support following the Ukraine conflict.",
+        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার আহ্বান গবেষকদের",
+        "title_en": "Researchers Urge Declaring Climate Crisis a Global Health Emergency",
+        "summary_bn": "তাপপ্রবাহ এবং খাদ্য নিরাপত্তাহীনতা তীব্র আকার ধারণ করায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার আহ্বান জানিয়েছেন গবেষকরা।",
+        "summary_en": "Nearly 150 researchers globally are urging that climate change be declared a global health emergency due to accelerating heat deaths and food insecurity.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "climate_environment",
+          "world_diplomacy",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T11:00:48.162603+00:00",
-        "lead_bn": "ইউক্রেন যুদ্ধের পর আন্তর্জাতিক সমর্থন পেতে এবং অর্থনৈতিক সহযোগিতা বাড়াতে আফ্রিকা মহাদেশে কূটনৈতিক তৎপরতা জোরদার করেছে রাশিয়া।",
-        "lead_en": "Russia is aggressively expanding its diplomatic outreach and economic cooperation across Africa to secure international support following the Ukraine conflict.",
+        "published_at": "2026-10-28T12:00:54.517043+00:00",
+        "lead_bn": "তাপপ্রবাহ এবং খাদ্য নিরাপত্তাহীনতা তীব্র আকার ধারণ করায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার আহ্বান জানিয়েছেন গবেষকরা।",
+        "lead_en": "Nearly 150 researchers globally are urging that climate change be declared a global health emergency due to accelerating heat deaths and food insecurity.",
         "bullets_bn": [
-          "রাশিয়া ইউক্রেন সংকটের পর আন্তর্জাতিক সমর্থনের অংশ হিসেবে আফ্রিকা মহাদেশে কূটনৈতিক সম্পর্ক জোরদার করছে।",
-          "মিশরের সাথে দ্বিপক্ষীয় বাণিজ্য বেড়ে ১০ দশমিক ৫ বিলিয়ন ডলারে পৌঁছেছে এবং এল-দাবায় পরমাণু কেন্দ্র নির্মাণ চলছে।",
-          "মস্কো আগামী অক্টোবর মাসে রাশিয়া-আফ্রিকা শীর্ষ সম্মেলনের আয়োজন করে অর্থনৈতিক ও রাজনৈতিক সহযোগিতা সম্প্রসারণের পরিকল্পনা করছে।"
+          "বিশ্বজুড়ে প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার দাবি তুলেছেন।",
+          "সালে জলবায়ু পরিবর্তনের ফলে অর্ধেকের বেশি তাপজনিত মৃত্যু এবং ১.০৭ ট্রিলিয়ন ডলারের আয় ক্ষতি হয়েছে।",
+          "মানব স্বাস্থ্যকে জলবায়ু পদক্ষেপের কেন্দ্রে রেখে জীবন বাঁচানোর ওপর জোর দেওয়ার আহ্বান জানিয়েছেন সংশ্লিষ্ট বিশেষজ্ঞরা।"
         ],
         "bullets_en": [
-          "Russia is intensifying diplomatic outreach across the African continent to secure international support following the Ukraine conflict.",
-          "Bilateral trade with Egypt reached 10.5 billion dollars while Russia finances a major nuclear power plant construction project.",
-          "Moscow is scheduled to host the Russia Africa summit focusing on expanding economic and security cooperation."
+          "Nearly 150 researchers worldwide are calling for climate change to be officially declared a global health emergency.",
+          "Climate change caused over half a million heat deaths and 1.07 trillion dollars in lost income globally in 2023.",
+          "Experts urge placing human health and well-being at the absolute center of all future climate response strategies."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইউক্রেন সংঘাতের জেরে পশ্চিমা বিশ্বের সাথে সম্পর্কের অবনতি ঘটায় বিশ্বমঞ্চে মিত্র খুঁজতে তৎপর হয় মস্কো। এরই ধারাবাহিকতায় বিগত কয়েক বছর ধরে রুশ পররাষ্ট্রমন্ত্রী সের্গেই লাভরভসহ শীর্ষ কর্মকর্তারা আফ্রিকা সফর বাড়িয়েছেন। উত্তর আফ্রিকার দেশগুলোর সাথে বাণিজ্য ও জ্বালানি খাতে অংশীদারত্ব বাড়াতে কাজ করছে রাশিয়া। বিশেষ করে মিশর ও আলজেরিয়ার সাথে মস্কোর বাণিজ্যিক সম্পর্ক তুলনামূলক বেশি শক্তিশালী, যা রুশ অর্থনীতিকে বৈশ্বিক নিষেধাজ্ঞার মাঝেও সহায়তা করে যাচ্ছে।",
-        "details_en": "The conflict with the West sparked by the invasion of Ukraine prompted Moscow to seek global allies and alternative markets. Russian officials have ramped up diplomatic visits to the African continent, focusing heavily on economic cooperation, energy projects, and agricultural exports. While trade volumes vary significantly across different regions, countries like Egypt and Algeria have emerged as key trading partners, with bilateral trade bolstered by Russian grain exports and energy investments."
+        "impact_bn": "তীব্র তাপপ্রবাহ এবং খাদ্য নিরাপত্তাহীনতা সাধারণ মানুষের জীবনযাত্রা এবং জনস্বাস্থ্যকে সরাসরি ঝুঁকির মুখে ফেলছে।",
+        "impact_en": "Intensifying heatwaves and food insecurity directly threaten daily livelihoods and public health for ordinary communities worldwide.",
+        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর গত দশকে বৈশ্বিক উষ্ণতা এবং স্বাস্থ্যঝুঁকি উদ্বেগজনকভাবে বৃদ্ধি পেয়েছে। ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জের গবেষণায় দেখা গেছে, ২০১৬ সাল থেকে জলবায়ু পরিবর্তনের কারণে প্রায় ৩০ লাখ মানুষের তাপজনিত মৃত্যু হয়েছে। চরম খরা এবং তাপমাত্রা বৃদ্ধির ফলে খাদ্য ও পানি সরবরাহ মারাত্মকভাবে হুমকির মুখে পড়েছে, যা গবেষকদের এই জরুরি পদক্ষেপ নেওয়ার তাগিদ বাড়িয়েছে।",
+        "details_en": "In the decade since the Paris climate accord, the health and economic toll of planetary heating has risen sharply. Research from the Lancet Countdown reveals that climate change caused nearly three million heat deaths since 2016 while expanding extreme drought conditions. The escalating crisis threatens vital food and water supplies, prompting international researchers to demand immediate policy changes centered on human health and survival."
       }
     }
   ]
