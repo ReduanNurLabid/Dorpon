@@ -1,60 +1,117 @@
 {
-  "updated_at": "2026-10-28T01:00:50.806005",
+  "updated_at": "2026-10-28T02:00:51.427224",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "4f7965e7-708b-5088-8972-c8673836fad3",
-      "primary_category": "governance_law",
+      "story_id": "7725c138-7434-54ef-ae35-3d11da599367",
+      "primary_category": "society_education",
       "interest_categories": [
-        "governance_law"
+        "society_education"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
-        "#Governance"
+        "#NationalAffairs"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T00:53:17+00:00",
+      "published_at": "2026-10-28T02:00:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.7942,
+      "importance_score": 2.4,
+      "rank_score": 0.9623,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1172747",
-          "title": "ময়মনসিংহে সেলুন ব্যবসায়ী রবীন্দ্র খুনের ঘটনায় অভিযুক্ত সাদ্দাম আটক",
-          "snippet": "ময়মনসিংহে সেলুন ব্যবসায়ী রবীন্দ্র খুনের ঘটনায় অভিযুক্ত সাদ্দাম আটক"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/educations/977138/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A6%BF-%E0%A6%85%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%AC%E0%A6%B0%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%9A%E0%A6%BF%E0%A6%A4",
+          "title": "জুলাইয়ের প্রতিশ্রুতি, অক্টোবরেও অনিশ্চিত বিনামূল্যের স্কুল ড্রেস বিতরণ",
+          "snippet": "জুলাইয়ের প্রতিশ্রুতি, অক্টোবরেও অনিশ্চিত বিনামূল্যের স্কুল ড্রেস বিতরণ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ময়মনসিংহে সেলুন ব্যবসায়ী রবীন্দ্র হত্যার প্রধান অভিযুক্ত আটক",
-        "title_en": "Main Suspect Arrested Over Salon Owner Rabindra Murder in Mymensingh",
-        "summary_bn": "পুলিশ ময়মনসিংহের ভালুকায় সেলুন ব্যবসায়ী রবীন্দ্র ঋষিকে ছুরিকাঘাতে হত্যার ঘটনায় অভিযুক্ত সাদ্দাম হোসেনকে আটক করেছে।",
-        "summary_en": "Police arrested accused Saddam Hossain over the fatal stabbing of salon owner Rabindra Rishi in Bhaluka, Mymensingh.",
+        "title_bn": "সরকারি প্রাথমিক বিদ্যালয়ে বিনামূল্যে স্কুল ড্রেস বিতরণে অনিশ্চয়তা",
+        "title_en": "Delay in Free School Uniform Distribution for Primary Students",
+        "summary_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ বিতরণের প্রতিশ্রুতি বাস্তবায়নে দীর্ঘসূত্রিতা তৈরি হয়েছে।",
+        "summary_en": "Implementation of the government promise to distribute free school uniforms, shoes, and jute bags to primary students faces uncertainty.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T00:53:17+00:00",
-        "lead_bn": "পুলিশ ময়মনসিংহের ভালুকায় সেলুন ব্যবসায়ী রবীন্দ্র ঋষিকে ছুরিকাঘাতে হত্যার ঘটনায় অভিযুক্ত সাদ্দাম হোসেনকে আটক করেছে।",
-        "lead_en": "Police arrested accused Saddam Hossain over the fatal stabbing of salon owner Rabindra Rishi in Bhaluka, Mymensingh.",
+        "published_at": "2026-10-28T02:00:00+00:00",
+        "lead_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ বিতরণের প্রতিশ্রুতি বাস্তবায়নে দীর্ঘসূত্রিতা তৈরি হয়েছে।",
+        "lead_en": "Implementation of the government promise to distribute free school uniforms, shoes, and jute bags to primary students faces uncertainty.",
         "bullets_bn": [
-          "ভালুকা থানা পুলিশ হত্যাকাণ্ডে সরাসরি জড়িত অভিযুক্ত সাদ্দাম হোসেনকে গ্রেপ্তার করেছে",
-          "নিহত রবীন্দ্র ঋষিকে সেলুনে ঢুকে ছুরিকাঘাত করা হয়েছিল বলে পুলিশ জানিয়েছে",
-          "গ্রেপ্তারকৃত আসামিকে আইনি প্রক্রিয়া শেষে আদালতে সোপর্দ করা হবে"
+          "সরকার প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের বিনামূল্যে স্কুল ড্রেস, জুতা ও পাটের ব্যাগ দেওয়ার সিদ্ধান্ত গ্রহণ করে।",
+          "প্রাথমিক ও গণশিক্ষামন্ত্রী ড. আ ন ম এহছানুল হক মিলন জানান, জুলাই থেকে পাইলট কার্যক্রম শুরু হওয়ার কথা ছিল।",
+          "নির্ধারিত সময় পেরিয়ে গেলেও এই কর্মসূচি বাস্তবায়নে দৃশ্যমান কোনো অগ্রগতি দেখা যায়নি।"
         ],
         "bullets_en": [
-          "Bhaluka police station officers arrested main accused Saddam Hossain for the murder",
-          "Police confirmed that victim Rabindra Rishi was stabbed inside his salon",
-          "The arrested suspect will be produced in court following legal procedures"
+          "The government decided to provide free school uniforms, shoes, and jute bags to primary school students.",
+          "Primary and Mass Education Minister Dr. A N M Ehsanul Haque Milan stated the pilot program was scheduled to begin in July.",
+          "Despite the timeline passing, no visible progress has been made regarding the distribution."
         ],
-        "impact_bn": "এই দ্রুত গ্রেপ্তারের ফলে স্থানীয় ব্যবসায়ী ও সাধারণ মানুষের মধ্যে অপরাধের বিচার নিয়ে কিছুটা স্বস্তি ফিরেছে।",
-        "impact_en": "The swift arrest provides some reassurance to local business owners and residents regarding law enforcement.",
-        "details_bn": "ময়মনসিংহের ভালুকায় সেলুন ব্যবসায়ী রবীন্দ্র ঋষিকে দুর্বৃত্তরা ছুরিকাঘাত করে হত্যা করে। ঘটনার পর থেকেই পুলিশ ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী অপরাধীকে ধরতে বিভিন্ন স্থানে অভিযান পরিচালনা করে আসছিল। এই হত্যাকাণ্ডের ঘটনায় এলাকায় তীব্র ক্ষোভ ও শোকের সৃষ্টি হয়। পুলিশি তদন্তের ধারাবাহিকতায় প্রধান অভিযুক্ত সাদ্দাম হোসেনকে আটক করা হয়।",
-        "details_en": "Salon owner Rabindra Rishi was fatally stabbed by miscreants in Bhaluka, Mymensingh, sparking intense local outrage and grief. Following the incident, law enforcement agencies launched operations to apprehend the perpetrator. Through sustained police investigation, main suspect Saddam Hossain was successfully tracked down and arrested."
+        "impact_bn": "বিনামূল্যে পোশাক ও সামগ্রী পাওয়ার আশায় থাকা প্রাথমিক বিদ্যালয়ের শিক্ষার্থীরা প্রয়োজনীয় সহায়তা সময়মতো পাওয়া থেকে বঞ্চিত হচ্ছে।",
+        "impact_en": "Primary school students awaiting free clothing and supplies are deprived of receiving necessary support on time.",
+        "details_bn": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষার্থীদের জন্য বিনামূল্যে স্কুল ড্রেস, জুতা এবং পাটের ব্যাগ বিতরণের উদ্যোগ নেয় সরকার। প্রধানমন্ত্রী জাতীয় সংসদে দুই লাখ শিক্ষার্থীকে পোশাক দেওয়ার ঘোষণা দেন এবং এসংক্রান্ত সভায় এই সিদ্ধান্ত নেওয়া হয়। শিক্ষা এবং প্রাথমিক ও গণশিক্ষামন্ত্রী এপ্রিলের শেষ দিকে ঘোষণা দিয়েছিলেন যে জুলাই মাস থেকে পাইলট ভিত্তিতে এই কার্যক্রম শুরু হবে। তবে নির্ধারিত সময় পার হয়ে যাওয়ার পরও বাস্তবায়ন প্রক্রিয়া শুরু না হওয়ায় শিক্ষার্থীদের মধ্যে অনিশ্চয়তা দেখা দিয়েছে।",
+        "details_en": "The government initiated a program to provide free school uniforms, shoes, and jute bags to primary school students. The Prime Minister announced in the national parliament that two lakh students would receive uniforms, followed by a formal decision in a meeting. The primary education minister announced in late April that the pilot program would start in July. However, the failure to launch the distribution on schedule has created uncertainty among students and parents."
+      }
+    },
+    {
+      "story_id": "ec1c98ec-e7f8-58ee-804e-ace55eb18966",
+      "primary_category": "sports_fitness",
+      "interest_categories": [
+        "sports_fitness",
+        "world_diplomacy"
+      ],
+      "region": "national",
+      "tags": [
+        "#Sports",
+        "#BangladeshCricket"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T02:00:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9623,
+      "sources": [
+        {
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/sport/cricket/977115/%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A7%9F-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9C",
+          "title": "অস্ট্রেলিয়াকে হারানোর পর এবার ক্যারিবীয় চ্যালেঞ্জ বাংলাদেশের",
+          "snippet": "অস্ট্রেলিয়াকে হারানোর পর এবার ক্যারিবীয় চ্যালেঞ্জ বাংলাদেশের"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপ ফাইনালে যেতে ওয়েস্ট ইন্ডিজের মুখোমুখি বাংলাদেশ",
+        "title_en": "Bangladesh Faces West Indies in Crucial Test Match",
+        "summary_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্ন পূরণে মিরপুরে ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচ সিরিজের প্রথম টেস্টে মাঠে নামছে বাংলাদেশ।",
+        "summary_en": "Bangladesh takes on the West Indies in the first Test of a two-match series at Mirpur.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "sports_fitness",
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T02:00:00+00:00",
+        "lead_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার স্বপ্ন পূরণে মিরপুরে ওয়েস্ট ইন্ডিজের বিপক্ষে দুই ম্যাচ সিরিজের প্রথম টেস্টে মাঠে নামছে বাংলাদেশ।",
+        "lead_en": "Bangladesh takes on the West Indies in the first Test of a two-match series at Mirpur.",
+        "bullets_bn": [
+          "বাংলাদেশ ক্রিকেট দল বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার লক্ষ্য নিয়ে স্বাগতিক হিসেবে ওয়েস্ট ইন্ডিজের মুখোমুখি হচ্ছে।",
+          "ফাইনাল খেলার স্বপ্ন বাস্তব করতে বাংলাদেশকে বাকি ছয়টি টেস্টের মধ্যে অন্তত চারটিতে জয় ও একটিতে ড্র করতে হবে।",
+          "মিরপুরের শেরেবাংলা জাতীয় ক্রিকেট স্টেডিয়ামে দুই ম্যাচের সিরিজের প্রথম টেস্ট ম্যাচটি শুরু হচ্ছে।"
+        ],
+        "bullets_en": [
+          "Bangladesh faces the West Indies at home aiming to keep its World Test Championship final dreams alive.",
+          "The team must win at least four and draw one of their remaining six Tests to secure a final spot.",
+          "The first match of the two-match series begins at the Sher-e-Bangla National Cricket Stadium in Mirpur."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "বিশ্ব টেস্ট চ্যাম্পিয়নশিপের ফাইনালে খেলার দৌড়ে টিকে থাকতে বাংলাদেশকে কঠিন সমীকরণ পার করতে হচ্ছে। ঘরের মাঠে ওয়েস্ট ইন্ডিজের বিপক্ষে এই সিরিজটি টাইগারদের জন্য অত্যন্ত গুরুত্বপূর্ণ, কারণ ফাইনালে পৌঁছাতে হলে প্রতিটি ম্যাচের ফলাফল বাংলাদেশের পক্ষে যাওয়া জরুরি।",
+        "details_en": "Bangladesh faces a challenging equation to reach the final of the World Test Championship. This home series against the West Indies is crucial for the Tigers as they aim to secure victories in the remaining matches to advance in the global standings."
       }
     },
     {
@@ -71,10 +128,10 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T01:00:00+00:00",
+      "published_at": "2026-10-28T01:49:07+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.9623,
+      "rank_score": 0.8605,
       "sources": [
         {
           "name": "Bangla Tribune",
@@ -84,10 +141,10 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "খুলনায় আইনশৃঙ্খলা পরিস্থিতির অবনতিতে রাজনৈতিক নেতা ও পথচারীসহ বাড়ছে গুলি চালানোর ঘটনা",
-        "title_en": "Rising Gun Violence and Deteriorating Law and Order Target Citizens in Khulna",
-        "summary_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা ও সাধারণ পথচারীসহ বিভিন্ন শ্রেণি-পেশার মানুষের ওপর লাগাতার গুলি চালানোর ঘটনা ঘটছে।",
-        "summary_en": "Frequent incidents of gun violence targeting political figures and ordinary pedestrians are rising across Khulna city and district.",
+        "title_bn": "খুলনায় অস্ত্রধারীদের তাণ্ডব ও একের পর এক গুলির ঘটনায় আতঙ্কিত এলাকাবাসী",
+        "title_en": "Khulna Residents Terrified as Frequent Gunfire Incidents Surge Across the Region",
+        "summary_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা থেকে শুরু করে সাধারণ পথচারীরাও নিয়মিত অস্ত্রধারীদের নির্বিচার গুলির শিকার হচ্ছেন।",
+        "summary_en": "Residents across Khulna city and district face rising terror as political figures and ordinary pedestrians become frequent targets of gunfire.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -95,259 +152,208 @@
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T01:00:00+00:00",
-        "lead_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা ও সাধারণ পথচারীসহ বিভিন্ন শ্রেণি-পেশার মানুষের ওপর লাগাতার গুলি চালানোর ঘটনা ঘটছে।",
-        "lead_en": "Frequent incidents of gun violence targeting political figures and ordinary pedestrians are rising across Khulna city and district.",
+        "published_at": "2026-10-28T01:49:07+00:00",
+        "lead_bn": "খুলনা মহানগর ও জেলায় রাজনৈতিক নেতা থেকে শুরু করে সাধারণ পথচারীরাও নিয়মিত অস্ত্রধারীদের নির্বিচার গুলির শিকার হচ্ছেন।",
+        "lead_en": "Residents across Khulna city and district face rising terror as political figures and ordinary pedestrians become frequent targets of gunfire.",
         "bullets_bn": [
-          "খুলনা মহানগর ও বটিয়াঘাটায় রাজনৈতিক নেতাসহ সাধারণ মানুষের ওপর গুলি চালানোর একাধিক ঘটনা ঘটেছে।",
-          "গুলিবিদ্ধদের মধ্যে যুবদল নেতা সোহেল ও সাবেক যুবদল নেতা বাদলসহ বিভিন্ন পেশার মানুষ রয়েছেন।",
+          "খুলনা মহানগর ও জেলায় সাম্প্রতিক সময়ে অস্ত্রধারীদের মাধ্যমে একের পর এক নির্বিচার গুলির ঘটনা ঘটছে।",
+          "বটিয়াঘাটায় যুবদল নেতা সোহেল ও সাবেক যুবদল নেতা বাদলসহ বিভিন্ন পেশার মানুষ হামলার শিকার হয়েছেন।",
           "আইনশৃঙ্খলা পরিস্থিতির অবনতিতে সাধারণ মানুষের মধ্যে তীব্র নিরাপত্তাহীনতা ও আতঙ্ক বিরাজ করছে।"
         ],
         "bullets_en": [
-          "Multiple shooting incidents occurred targeting political figures and ordinary citizens in Khulna city and Batiaghata.",
-          "Victims include local political leaders such as Jubo Dal leader Sohel and former leader Badal among others.",
-          "The deterioration of law and order has triggered severe insecurity and panic among local residents."
+          "Frequent and indiscriminate shooting incidents by armed individuals are surging across Khulna city and district.",
+          "Victims of recent shootings include political figures like Jubo Dal leaders Sohel and Badal, alongside ordinary citizens.",
+          "The deterioration of law and order has triggered severe insecurity and panic among the local population."
         ],
-        "impact_bn": "ধারাবাহিক গুলি ও সশস্ত্র হামলার ঘটনায় সাধারণ মানুষ ও শিক্ষার্থীরা চরম নিরাপত্তাহীনতায় ভুগছেন।",
-        "impact_en": "Continuous armed attacks and shootings leave ordinary citizens and students grappling with severe safety concerns.",
-        "details_bn": "সাম্প্রতিক সময়ে খুলনা মহানগর ও সংলগ্ন উপজেলায় অপরাধমূলক কর্মকাণ্ড এবং অস্ত্রের ঝনঝনানি আশঙ্কাজনক হারে বৃদ্ধি পেয়েছে। রাজনৈতিক নেতা, শিক্ষক এবং স্কুলছাত্রীসহ বিভিন্ন স্তরের নাগরিকরা এসব আকস্মিক হামলার শিকার হচ্ছেন। অপরাধীদের এমন বেপরোয়া আচরণে স্থানীয় আইনশৃঙ্খলা পরিস্থিতির চরম অবনতি ঘটেছে, যা সাধারণ মানুষের স্বাভাবিক চলাফেরা ও নিরাপত্তাকে মারাত্মকভাবে ব্যাহত করছে।",
-        "details_en": "Criminal activities and armed violence have increased at an alarming rate across Khulna city and surrounding upazilas recently. Citizens from various strata, including political leaders, teachers, and schoolgirls, are becoming victims of these sudden attacks. Such reckless behavior by perpetrators has severely degraded local law and order, disrupting the normal movement and security of ordinary residents."
+        "impact_bn": "নিত্যদিনের এই গোলাগুলির ঘটনায় সাধারণ মানুষ ও শিক্ষার্থীরা চরম নিরাপত্তাহীনতা ও উৎকণ্ঠার মধ্যে দিন কাটাচ্ছেন।",
+        "impact_en": "Ordinary citizens and students live in constant anxiety and severe insecurity due to these recurring local gunfire incidents.",
+        "details_bn": "খুলনা অঞ্চলজুড়ে সাম্প্রতিক সময়ে অপরাধীদের তৎপরতা ও অস্ত্রের ব্যবহার উল্লেখযোগ্য হারে বৃদ্ধি পেয়েছে। রাজনৈতিক নেতা, শিক্ষক ও পথচারীদের লক্ষ্য করে হামলার ঘটনায় আইনশৃঙ্খলা পরিস্থিতি নিয়ে প্রশ্ন উঠেছে। সাধারণ মানুষ দ্রুত কার্যকর পদক্ষেপ ও অস্ত্র উদ্ধার অভিযানের দাবি জানিয়ে আসছেন।",
+        "details_en": "Criminal activities and the use of firearms have surged significantly across the Khulna region. The attacks targeting political leaders, teachers, and pedestrians have raised serious concerns over law enforcement. Local residents have consistently demanded immediate and effective operations to recover illegal weapons and restore security."
       }
     },
     {
-      "story_id": "79c87e0a-3bb3-5fb5-afc8-d7430d03d24f",
-      "primary_category": "sports_fitness",
+      "story_id": "52873873-5a2e-52c8-88cf-0af15595dfa8",
+      "primary_category": "governance_law",
       "interest_categories": [
-        "sports_fitness"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
-        "#Sports",
-        "#BangladeshCricket"
+        "#Bangladesh",
+        "#Governance"
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T00:50:14+00:00",
+      "published_at": "2026-10-28T01:46:44+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 2.4,
-      "rank_score": 0.87,
+      "rank_score": 0.8407,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/sport/football/977191/%E0%A6%9A%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%B2-%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%89%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A7%87%E0%A6%B0%E0%A7%87",
-          "title": "চতুর্থ সারির দল ফ্লিটউডের কাছে পেনাল্টিতে হেরে আর্সেনালের বিদায়",
-          "snippet": "চতুর্থ সারির দল ফ্লিটউডের কাছে পেনাল্টিতে হেরে আর্সেনালের বিদায়"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172748",
+          "title": "১০ দিনেও মেলেনি খোঁজ, লকেট দেখে স্ত্রীকে চিনলেন ফয়সাল",
+          "snippet": "১০ দিনেও মেলেনি খোঁজ, লকেট দেখে স্ত্রীকে চিনলেন ফয়সাল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চতুর্থ সারির দলের কাছে হেরে কারাবাও কাপ থেকে আর্সেনালের বিদায়",
-        "title_en": "Arsenal Exits Carabao Cup After Penalty Defeat to Fleetwood Town",
-        "summary_bn": "ইংলিশ ফুটবলের চতুর্থ স্তরের দল ফ্লিটউড টাউনের কাছে পেনাল্টি শুটআউটে হেরে কারাবাও কাপ থেকে বিদায় নিয়েছে আর্সেনাল।",
-        "summary_en": "Arsenal crashed out of the Carabao Cup following a penalty shootout defeat against fourth-tier Fleetwood Town.",
+        "title_bn": "উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের ধ্বংসস্তূপ থেকে ১০ দিন পর স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার",
+        "title_en": "Remains of Missing Schoolteacher Recovered from Ukhia Resort Fire After Ten Days",
+        "summary_bn": "কক্সবাজারের উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের দশ দিন পর ধ্বংসস্তূপ থেকে নিখোঁজ স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার করা হয়েছে।",
+        "summary_en": "Remains of a missing schoolteacher were recovered from a resort fire wreckage in Ukhia after ten days.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "sports_fitness"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T00:50:14+00:00",
-        "lead_bn": "ইংলিশ ফুটবলের চতুর্থ স্তরের দল ফ্লিটউড টাউনের কাছে পেনাল্টি শুটআউটে হেরে কারাবাও কাপ থেকে বিদায় নিয়েছে আর্সেনাল।",
-        "lead_en": "Arsenal crashed out of the Carabao Cup following a penalty shootout defeat against fourth-tier Fleetwood Town.",
+        "published_at": "2026-10-28T01:46:44+00:00",
+        "lead_bn": "কক্সবাজারের উখিয়ায় রিসোর্টের অগ্নিকাণ্ডের দশ দিন পর ধ্বংসস্তূপ থেকে নিখোঁজ স্কুলশিক্ষিকার দেহাবশেষ উদ্ধার করা হয়েছে।",
+        "lead_en": "Remains of a missing schoolteacher were recovered from a resort fire wreckage in Ukhia after ten days.",
         "bullets_bn": [
-          "নির্ধারিত সময়ের খেলা এক-এক গোলে ড্র হওয়ার পর ম্যাচ গড়ায় পেনাল্টি শুটআউটে",
-          "টাইব্রেকারে পাঁচ-তিন ব্যবধানে জয় পেয়ে কোয়ার্টার ফাইনাল নিশ্চিত করে স্বাগতিক ফ্লিটউড টাউন",
-          "ম্যাচের একুশ মিনিটে অ্যারন লুপালো-বির গোলে প্রথমে এগিয়ে গিয়েছিল ফ্লিটউড টাউন"
+          "উখিয়ার ইনানীর টুপটুপ রেস্তো অ্যান্ড রিসোর্টের অগ্নিকাণ্ডের ১০ দিন পর দেহাবশেষ উদ্ধার করা হয়।",
+          "নিহত স্কুলশিক্ষিকা নাসরিন আক্তার মুক্তার দেহাবশেষ তার লকেট দেখে শনাক্ত করেন স্বামী ফয়সাল।",
+          "উদ্ধারকৃত দেহাবশেষ ময়নাতদন্তের জন্য এবং আইনি প্রক্রিয়া সম্পন্ন করার জন্য মর্গে পাঠানো হয়েছে।"
         ],
         "bullets_en": [
-          "The match advanced to a penalty shootout after ending in a one-all draw during regulation time.",
-          "Fleetwood Town secured a five-three victory in the shootout to advance to the quarterfinals.",
-          "Aaron Lupalow-Bi initially gave Fleetwood the lead in the twenty-first minute of the match."
+          "Remains were recovered ten days after a fire broke out at Toptop Resto and Resort in Ukhia.",
+          "Husband Faisal identified the remains of deceased schoolteacher Nasrin Akhter Mukta through her locket.",
+          "The recovered remains have been sent to the morgue for autopsy and completion of legal procedures."
         ],
-        "impact_bn": "টুর্নামেন্টে প্রিমিয়ার লিগ জায়ান্ট আর্সেনালের অপ্রত্যাশিত বিদায়ে বিশ্বজুড়ে ক্লাবটির সমর্থকরা হতাশ হয়েছেন।",
-        "impact_en": "The unexpected exit of the Premier League giant has left club supporters worldwide deeply disappointed.",
-        "details_bn": "কারাবাও কাপের ম্যাচে ইংলিশ ফুটবলের চতুর্থ স্তরের ক্লাব লিগ টুতে খেলা ফ্লিটউড টাউনের মুখোমুখি হয় আর্সেনাল। হাইবারি স্টেডিয়ামে অনুষ্ঠিত এই ম্যাচে নির্ধারিত সময় এক-এক গোলে সমতা থাকার পর টাইব্রেকার নির্ধারিত হয়। পেনাল্টি শুটআউটে পাঁচ-তিন ব্যবধানে জয় তুলে নিয়ে টুর্নামেন্টের কোয়ার্টার ফাইনালে জায়গা করে নেয় ফ্লিটউড টাউন, যা এই প্রতিযোগিতার অন্যতম বড় অঘটনের জন্ম দিয়েছে।",
-        "details_en": "Arsenal faced fourth-tier League Two side Fleetwood Town in a Carabao Cup fixture. Following a one-all draw after regulation time at Highbury Stadium, the match was decided by a penalty shootout. Fleetwood clinched a 5-3 victory to secure a historic spot in the quarterfinals, marking one of the biggest upsets of the tournament."
-      }
-    },
-    {
-      "story_id": "88ee237e-18cb-50e5-9ccd-dae6aead38f6",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2F2azmnizh%2FIsreal-Election.jpg?rect=0%2C57%2C800%2C420&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
-      "image_caption": null,
-      "published_at": "2026-10-28T00:24:55+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.6914,
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/8bfjdjaic0",
-          "title": "ইসরায়েলের নির্বাচনে নাটকীয় মোড়, নেতানিয়াহু ও বিরোধী জোটের আসন সমান",
-          "snippet": "ইসরায়েলের নির্বাচনে নাটকীয় মোড়, নেতানিয়াহু ও বিরোধী জোটের আসন সমান"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "ইসরায়েলের নির্বাচনে নেতানিয়াহু ও বিরোধী জোটের আসন সমান",
-        "title_en": "Netanyahu and Opposition Tied in Israeli Election Exit Polls",
-        "summary_bn": "ইসরায়েলের নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর জোট ও বিরোধী শিবির সমান সংখ্যক আসন পেয়ে সমানে-সমান অবস্থানে রয়েছে।",
-        "summary_en": "Israeli Prime Minister Benjamin Netanyahu and the opposition alliance are tied with equal seats in election exit polls.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T00:24:55+00:00",
-        "lead_bn": "ইসরায়েলের নির্বাচনে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর জোট ও বিরোধী শিবির সমান সংখ্যক আসন পেয়ে সমানে-সমান অবস্থানে রয়েছে।",
-        "lead_en": "Israeli Prime Minister Benjamin Netanyahu and the opposition alliance are tied with equal seats in election exit polls.",
-        "bullets_bn": [
-          "ইসরায়েলি পার্লামেন্ট নির্বাচনে নেতানিয়াহুর ডানপন্থী জোট এবং আইজেনকোটের বিরোধী জোট উভয় শিবিরই ৫১টি করে আসন পেয়েছে।",
-          "নেতানিয়াহুর লিকুদ পার্টি এককভাবে সর্বোচ্চ ২৭টি আসন পেতে যাচ্ছে এবং বিরোধী দল ইয়াশার পাচ্ছে ২১টি আসন।",
-          "আসনের পার্লামেন্টে কোনো পক্ষই সরকার গঠনের জন্য প্রয়োজনীয় একক সংখ্যাগরিষ্ঠতা বা ৬১ আসন নিশ্চিত করতে পারেনি।"
-        ],
-        "bullets_en": [
-          "Both Benjamin Netanyahu's right-wing bloc and Eisenkot's opposition alliance secured 51 seats each in the election exit polls.",
-          "Netanyahu's Likud party is projected to win a maximum of 27 seats individually, while the opposition Yashar party secures 21 seats.",
-          "Neither camp has secured the required 61-seat majority to form a government in the 120-seat parliament."
-        ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলের পার্লামেন্ট নির্বাচনে বুথফেরত জরিপে গভীর রাতে বড় ধরনের নাটকীয় পরিবর্তন এসেছে। ভোট গ্রহণ শেষ হওয়ার পরপরই বিরোধী জোট এগিয়ে থাকার আভাস মিললেও, সর্বশেষ আপডেটে প্রধানমন্ত্রী বেনিয়ামিন নেতানিয়াহুর জোট ঘুরে দাঁড়িয়েছে। এর ফলে ১২০ আসনের নেসেটে কোনো পক্ষই একক সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি, যা দেশটিতে রাজনৈতিক অনিশ্চয়তা বাড়িয়ে দিয়েছে। চূড়ান্ত ফলাফলের জন্য অপেক্ষা করতে হবে।",
-        "details_en": "Exit polls in the Israeli parliamentary election took a dramatic turn late at night. Although the opposition initially led after voting ended, subsequent updates showed Benjamin Netanyahu's alliance catching up. Consequently, neither camp secured a single majority in the 120-seat Knesset, heightening political uncertainty in the country while awaiting final results."
+        "impact_bn": "এই মর্মান্তিক দুর্ঘটনা পর্যটন কেন্দ্রগুলোতে কঠোর অগ্নিনিরাপত্তা নিশ্চিত করার এবং জবাবদিহিতা বাড়ানোর প্রয়োজনীয়তা তুলে ধরে।",
+        "impact_en": "This tragic incident highlights the urgent need to enforce strict fire safety protocols and accountability across tourism centers.",
+        "details_bn": "কক্সবাজারের উখিয়ার ইনানীতে অবস্থিত টুপটুপ রেস্তো অ্যান্ড রিসোর্টে সম্প্রতি ভয়াবহ অগ্নিকাণ্ডের ঘটনা ঘটে। এই অগ্নিকাণ্ডের পর থেকেই পিরোজপুরের বাসিন্দা স্কুলশিক্ষিকা নাসরিন আক্তার মুক্তা নিখোঁজ ছিলেন। ঘটনার দীর্ঘ দশ দিন পর ফায়ার সার্ভিস ও আইন শৃঙ্খলা রক্ষাকারী বাহিনীর তল্লাশি অভিযানের অংশ হিসেবে রিসোর্টের ধ্বংসস্তূপ থেকে তার দেহাবশেষ উদ্ধার করা হয়। আইনশৃঙ্খলা বাহিনী এই ঘটনায় কোনো অবহেলা বা কারণ রয়েছে কি না তা খতিয়ে দেখছে।",
+        "details_en": "A severe fire recently broke out at Toptop Resto and Resort in Inani, Ukhia, Cox's Bazar. Schoolteacher Nasrin Akhter Mukta, a resident of Pirojpur, had been missing since the incident. Following a prolonged search by rescue authorities, her remains were finally recovered from the resort's wreckage ten days later. Law enforcement agencies are investigating the incident to determine any potential negligence or safety violations."
       }
     },
     {
       "story_id": "025abe28-3fcc-51ea-9373-9fcdec0664c3",
-      "primary_category": "economy_business",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "economy_business",
+        "world_diplomacy",
         "tech_innovation",
         "governance_law",
-        "world_diplomacy",
-        "society_education"
+        "society_education",
+        "economy_business"
       ],
       "region": "international",
       "tags": [
-        "#RetirementFund",
-        "#AustraliaEconomy"
+        "#AustraliaEconomy",
+        "#Geopolitics",
+        "#Diplomacy"
       ],
       "image_url": "https://i.guim.co.uk/img/media/1cceff6effaa8347410f241c7e69d715f26f433c/615_0_6146_4917/master/6146.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=04aeeb469e30b792e34fc5170b36df49",
       "image_caption": null,
-      "published_at": "2026-10-28T00:53:45+00:00",
+      "published_at": "2026-10-28T01:49:55+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 5.31,
-      "rank_score": 1.9943,
+      "rank_score": 1.919,
       "sources": [
         {
           "name": "The Guardian World",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/28/inflation-abs-labor-anthony-albanese-parliament-greens-david-shoebridge-one-nation-ntwnfb",
-          "title": "Politics live: Inflation rises to 4.3%, increasing rate hike fears; Hanson calls Chalmers and staff ‘hypocrites’",
-          "snippet": "Politics live: Inflation rises to 4.3%, increasing rate hike fears; Hanson calls Chalmers and staff ‘hypocrite"
+          "title": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inflation",
+          "snippet": "Politics live: Hanson calls Chalmers and staff ‘hypocrites’; RBA governor says more pain needed to control inf"
         }
       ],
       "daily_buzz": {
-        "title_bn": "অবসরকালীন সঞ্চয় তহবিল থেকে অগ্রিম অর্থ তোলার দাবি এক দলের",
-        "title_en": "One Nation Pushes for Early Access to Retirement Funds for Housing",
-        "summary_bn": "অস্ট্রেলিয়ার একটি রাজনৈতিক দল আবাসন সংকট মোকাবেলায় নাগরিকদের অবসরকালীন সঞ্চয় তহবিল থেকে অগ্রিম অর্থ উত্তোলনের দাবি জানিয়েছে।",
-        "summary_en": "One Nation party pushes to allow Australians early access to superannuation funds to cover housing costs.",
+        "title_bn": "অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের নীতি প্রস্তাবের বিরোধিতা সুপার মেম্বার্স কাউন্সিলের",
+        "title_en": "Super Members Council Opposes Early Access to Retirement Funds for Housing",
+        "summary_bn": "অস্ট্রেলিয়ার ওয়ান নেশন দল আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি তুলেছে।",
+        "summary_en": "One Nation leader Pauline Hanson pushes for early access to superannuation to ease housing pressures.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
+          "world_diplomacy",
           "tech_innovation",
           "governance_law",
-          "world_diplomacy",
-          "society_education"
+          "society_education",
+          "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T00:53:45+00:00",
-        "lead_bn": "অস্ট্রেলিয়ার একটি রাজনৈতিক দল আবাসন সংকট মোকাবেলায় নাগরিকদের অবসরকালীন সঞ্চয় তহবিল থেকে অগ্রিম অর্থ উত্তোলনের দাবি জানিয়েছে।",
-        "lead_en": "One Nation party pushes to allow Australians early access to superannuation funds to cover housing costs.",
+        "published_at": "2026-10-28T01:49:55+00:00",
+        "lead_bn": "অস্ট্রেলিয়ার ওয়ান নেশন দল আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি তুলেছে।",
+        "lead_en": "One Nation leader Pauline Hanson pushes for early access to superannuation to ease housing pressures.",
         "bullets_bn": [
-          "ভাড়া ও গৃহঋণ পরিশোধের জন্য অবসরকালীন তহবিল থেকে অর্থ তোলার দাবি জানিয়েছে ওয়ান নেশন দল।",
-          "সাংসদরা নিজেদের তহবিল থেকে বিশেষ সুবিধা পেলেও সাধারণ মানুষ বঞ্চিত বলে অভিযোগ করেছেন দলের প্রধান পলিন হ্যানসন।",
-          "এই প্রস্তাব বাস্তবায়িত হলে ৩০ বছর বয়সী একজন কর্মী অবসরকালীন সময়ে ২৫ হাজার ডলার কম পাবেন বলে হিসাব করেছে সুপার মেম্বারস কাউন্সিল।"
+          "ওয়ান নেশন দলের পক্ষ থেকে আবাসন সংকট মোকাবিলায় অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের দাবি জানানো হয়েছে।",
+          "সুপার মেম্বার্স কাউন্সিলের প্রাক্কলন অনুযায়ী এই পরিকল্পনা বাস্তবায়িত হলে কর্মীরা অবসরকালীন সময়ে ২৫ হাজার ডলার কম পাবেন।",
+          "করোনাকালীন তহবিল উত্তোলনের ফলে শতাব্দীর শেষ নাগাদ ৮৫ বিলিয়ন ডলার পর্যন্ত অতিরিক্ত করের বোঝা তৈরি হতে পারে।"
         ],
         "bullets_en": [
-          "One Nation leader Pauline Hanson held a press conference pushing for early superannuation access for rent and mortgage payments.",
-          "Hanson criticized treasurer Jim Chalmers and staff as hypocrites while members of parliament maintain access to special super benefits.",
-          "The Super Members Council estimated a typical thirty-year-old worker would end up twenty-five thousand dollars poorer at retirement under the plan."
+          "One Nation leader Pauline Hanson pushed for early access to super funds to help citizens pay rent and mortgages.",
+          "The Super Members Council estimates a typical worker opting into the plan would end up twenty five thousand dollars poorer at retirement.",
+          "Council estimates suggest early withdrawals could cost taxpayers up to eighty five billion dollars by the end of the century."
         ],
-        "impact_bn": "গৃহঋণ ও ভাড়ার চাপ কমাতে এই প্রস্তাব সাময়িক স্বস্তি দিলেও দীর্ঘমেয়াদে নাগরিকদের অবসরকালীন আর্থিক সুরক্ষা ঝুঁকিতে ফেলতে পারে।",
-        "impact_en": "Early withdrawal offers immediate relief for housing costs but risks significantly reducing long-term retirement security for workers.",
-        "details_bn": "অস্ট্রেলিয়ায় ক্রমবর্ধমান জীবনযাত্রার ব্যয় ও আবাসন সংকটের প্রেক্ষাপটে অবসরকালীন তহবিল বা সুপারঅ্যানুয়েশন থেকে অর্থ তোলার বিতর্ক তীব্র হয়েছে। এর আগে কোভিড মহামারীর সময়েও নাগরিকদের বিশেষ পরিস্থিতিতে ফান্ড থেকে অর্থ তোলার অনুমতি দেওয়া হয়েছিল, যার দীর্ঘমেয়াদী অর্থনৈতিক প্রভাব নিয়ে অর্থনীতিবিদ ও কাউন্সিলগুলো সতর্ক করে আসছে। বর্তমান রাজনৈতিক বিতর্কে রাজনৈতিক নেতাদের সুযোগ-সুবিধার বিষয়টিও সামনে এসেছে।",
-        "details_en": "The debate centres on allowing Australians early access to their superannuation funds to manage soaring housing and rental costs amid high inflation and economic pressure. Critics and advisory councils warn that such withdrawals significantly reduce final retirement savings and increase future taxpayer burdens on age pensions, echoing previous pandemic-era withdrawal policies that faced heavy scrutiny."
+        "impact_bn": "অবসরকালীন তহবিল থেকে অর্থ উত্তোলনের এই বিতর্কিত প্রস্তাব অনুমোদিত হলে দীর্ঘমেয়াদে নাগরিকদের সামাজিক নিরাপত্তা ও সরকারি পেনশনের ওপর বড় ধরনের আর্থিক চাপ সৃষ্টি হতে পারে।",
+        "impact_en": "Early withdrawal of retirement funds could ease immediate housing stress for struggling citizens but risks severe long-term poverty and increased taxpayer burdens for future pensions.",
+        "details_bn": "অস্ট্রেলিয়ায় ক্রমবর্ধমান আবাসন সংকটের মুখে নাগরিকরা যখন বাড়িভাড়া বা ঋণের কিস্তি পরিশোধে হিমশিম খাচ্ছেন, তখন রাজনৈতিক দলগুলোর পক্ষ থেকে অবসরকালীন তহবিল বা সুপারঅ্যানুয়েশন ব্যবহারের প্রস্তাব উঠেছে। তবে আর্থিক খাতের বিশ্লেষক ও সুপার মেম্বার্স কাউন্সিল সতর্ক করেছে যে, এই ধরনের পদক্ষেপ নাগরিকদের দীর্ঘমেয়াদী আর্থিক নিরাপত্তাকে দুর্বল করে এবং সরকারের ওপর পরবর্তীতে পেনশন দেওয়ার চাপ বহুগুণ বাড়িয়ে দেয়।",
+        "details_en": "Amid soaring housing pressures in Australia, political debates have intensified over allowing citizens to tap into their retirement savings to cover rent and mortgage payments. Proponents argue it offers immediate financial relief for struggling families, while financial councils and experts warn it severely depletes retirement nests, reduces future living standards, and dramatically increases government expenditure on age pensions in the long run."
       }
     },
     {
-      "story_id": "a4a0e8c8-7646-5b43-abe1-85652042687a",
-      "primary_category": "world_diplomacy",
+      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
+      "primary_category": "climate_environment",
       "interest_categories": [
+        "climate_environment",
         "world_diplomacy",
         "society_education"
       ],
       "region": "international",
       "tags": [
-        "#IsraeliElections",
-        "#ArabParties"
+        "#ClimateCrisis",
+        "#GlobalHealth",
+        "#LancetReport"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae12bc3df-1793141699.jpg?resize=1920%2C1440",
+      "image_url": "https://static.dw.com/image/69108117_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T00:43:56+00:00",
+      "published_at": "2026-10-28T02:00:51.427235+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.8696,
+      "importance_score": 2.12,
+      "rank_score": 0.8579,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-          "title": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
-          "snippet": "Arab parties could win 18 seats in Israeli elections, exit polls suggest"
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
+          "title": "Experts urge 'global health emergency' as climate harms accelerate",
+          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
         },
         {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
-          "title": "First Israeli election exit polls show narrow edge for Opposition",
-          "snippet": "First Israeli election exit polls show narrow edge for Opposition"
+          "name": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
+          "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
+          "snippet": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ইসরায়েলি নির্বাচনে রেকর্ড সংখ্যক আসন জিততে পারে আরব দলগুলো",
-        "title_en": "Arab Parties Projected to Win Record Seats in Israeli Elections",
-        "summary_bn": "ফিলিস্তিনি নাগরিকদের রেকর্ড ভোটাধিকার প্রয়োগের ফলে ইসরায়েলি নির্বাচনে আরব দলগুলো ১৮টি আসন জিততে পারে বলে বুথ ফেরত জরিপে ইঙ্গিত মিলেছে।",
-        "summary_en": "Arab parties in Israel are projected to win 18 seats in parliament following a historic surge in turnout by Palestinian citizens.",
+        "title_bn": "জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান গবেষকদের",
+        "title_en": "Researchers Urge Global Health Emergency Declaration Over Climate Crisis",
+        "summary_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার আহ্বান জানিয়েছেন প্রায় ১৫০ জন গবেষক।",
+        "summary_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths, drought, and health risks accelerate.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
+          "climate_environment",
           "world_diplomacy",
           "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T00:43:56+00:00",
-        "lead_bn": "ফিলিস্তিনি নাগরিকদের রেকর্ড ভোটাধিকার প্রয়োগের ফলে ইসরায়েলি নির্বাচনে আরব দলগুলো ১৮টি আসন জিততে পারে বলে বুথ ফেরত জরিপে ইঙ্গিত মিলেছে।",
-        "lead_en": "Arab parties in Israel are projected to win 18 seats in parliament following a historic surge in turnout by Palestinian citizens.",
+        "published_at": "2026-10-28T02:00:51.427235+00:00",
+        "lead_bn": "তীব্র তাপপ্রবাহ, খরা এবং স্বাস্থ্যঝুঁকি মারাত্মকভাবে বেড়ে যাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণা করার আহ্বান জানিয়েছেন প্রায় ১৫০ জন গবেষক।",
+        "lead_en": "Nearly 150 researchers are calling for climate change to be declared a global health emergency as heat deaths, drought, and health risks accelerate.",
         "bullets_bn": [
-          "যৌথ তালিকা এবং রামের মতো শীর্ষ আরব নেতৃত্বাধীন দলগুলো দেশটির ১২০ সদস্যের নেসেটে রেকর্ড সংখ্যক আসন ধরে রাখতে প্রস্তুত।",
-          "ইসরায়েলি সংবাদমাধ্যমের তথ্য অনুযায়ী ইসরায়েলি ফিলিস্তিনি নাগরিকদের মধ্যে ভোটাধিকার প্রয়োগের হার প্রায় ৮০ শতাংশে পৌঁছেছে।",
-          "রাম দলের নেতা মনসুর আব্বাস আশা প্রকাশ করেছেন যে চূড়ান্ত ফলাফল সরকারের গঠনের জন্য প্রয়োজনীয় ৬১টি আসন অর্জনে সহায়তা করবে।"
+          "প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার দাবি জানিয়েছেন।",
+          "জলবায়ু পরিবর্তনের কারণে বিশ্বজুড়ে ২০২৩ সালে পাঁচ লক্ষাধিক মানুষ তাপপ্রবাহে মারা গেছেন এবং অর্থনৈতিক ক্ষতি হয়েছে ১.০৭ ট্রিলিয়ন ডলার।",
+          "মানুষের স্বাস্থ্য ও সুস্থতাকে জলবায়ু সংকটের মূল প্রতিক্রিয়ায় যুক্ত করার জন্য নীতিনির্ধারকদের প্রতি আহ্বান জানানো হয়েছে।"
         ],
         "bullets_en": [
-          "Leading Arab-led parties including the Joint List and Ra'am are set to hold a record number of seats in the Knesset.",
-          "Voter turnout among Palestinian citizens of Israel reached historic levels at approximately 80 percent.",
-          "Ra'am leader Mansour Abbas expressed hope that final results will help secure the 61 seats required to form a government."
+          "Nearly 150 researchers from over 30 countries demanded climate change be declared a global health emergency.",
+          "Climate change caused over half a million heat deaths globally in 2023 and cost $1.07 trillion in lost income.",
+          "Experts emphasize placing human health and well-being at the center of climate mitigation responses."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ইসরায়েলে দীর্ঘ দিন ধরে প্রান্তিক থাকা আরব সংখ্যালঘু ভোটারদের রাজনৈতিক অংশগ্রহণের কারণে দেশটির সংসদীয় রাজনীতিতে নতুন সমীকরণ তৈরি হয়েছে। রাম দল এর আগেও ২০২১ থেকে ২০২২ সাল পর্যন্ত দেশটিতে সরকার পরিচালনাকারী জোটে যুক্ত ছিল। তবে কট্টর রাজনৈতিক বিভাজনের কারণে আরব দলগুলোকে সরকার গঠনে অন্তর্ভুক্ত করা নিয়ে প্রধান রাজনৈতিক দলগুলোর মধ্যে জটিলতা রয়েছে।",
-        "details_en": "The surge in voter turnout among Palestinian citizens of Israel marks a significant shift, with Arab parties potentially holding the balance of power. Ra'am previously participated in the governing coalition from 2021 to 2022, though forming a new coalition remains complex due to campaign promises and deep political divisions."
+        "impact_bn": "তীব্র তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি বৃদ্ধির ফলে সাধারণ মানুষের জীবনযাত্রা, খাদ্য নিরাপত্তা এবং জনস্বাস্থ্য সরাসরি হুমকির মুখে পড়ছে।",
+        "impact_en": "Rising heatwaves and health risks directly threaten ordinary citizens' daily lives, food security, and overall public health.",
+        "details_bn": "ল্যানসেট কাউন্টডাউন অন হেলথ অ্যান্ড ক্লাইমেট চেঞ্জ প্রকাশিত বার্ষিক প্রতিবেদনে দেখা গেছে যে প্যারিস জলবায়ু চুক্তির পর থেকে গ্রহের উত্তাপের কারণে স্বাস্থ্য ও অর্থনৈতিক ক্ষতি মারাত্মকভাবে বেড়েছে। ২০১৬ সাল থেকে প্রায় তিন মিলিয়ন মানুষ তাপজনিত কারণে মারা গেছেন এবং চরম খরার আওতা দ্রুত বৃদ্ধি পাচ্ছে। গবেষকরা সতর্ক করেছেন যে তাপমাত্রা বৃদ্ধি এবং এর ফলে সৃষ্ট স্বাস্থ্যসংকট রোধে অবিলম্বে পদক্ষেপ না নিলে পরিস্থিতি আরও অবনতির দিকে যাবে।",
+        "details_en": "The annual Lancet Countdown on Health and Climate Change report reveals that health and economic tolls have risen sharply since the Paris climate accord. Climate change caused nearly 3 million heat-related deaths since 2016 and expanded areas affected by extreme drought. Researchers warn that without immediate policy shifts prioritizing public health over mere emission targets, the growing health crisis will continue to accelerate."
       }
     }
   ]
