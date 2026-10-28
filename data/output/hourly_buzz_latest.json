@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-10-28T10:00:51.146388",
+  "updated_at": "2026-10-28T11:00:48.162596",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "241e45a6-25d9-5fa0-8870-9da4e2cc34cf",
-      "primary_category": "governance_law",
+      "story_id": "59d682d3-123e-5adb-b205-f8de8128f485",
+      "primary_category": "economy_business",
       "interest_categories": [
-        "governance_law"
+        "economy_business",
+        "tech_innovation",
+        "world_diplomacy",
+        "climate_environment"
       ],
       "region": "national",
       "tags": [
-        "#Bangladesh",
-        "#Governance"
+        "#Economy",
+        "#Finance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fdbz2jyb3%2FDSCC-1.jpeg?rect=0%2C113%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T09:15:06+00:00",
+      "published_at": "2026-10-28T10:53:08+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.2782,
+      "importance_score": 6.6,
+      "rank_score": 2.467,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/capital/l0avk77e3h",
-          "title": "গুলিস্তান–সদরঘাট সড়ক হকারমুক্ত রাখার ঘোষণা, বসলে গ্রেপ্তারের হুঁশিয়ারি",
-          "snippet": "গুলিস্তান–সদরঘাট সড়ক হকারমুক্ত রাখার ঘোষণা, বসলে গ্রেপ্তারের হুঁশিয়ারি"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/national/977289/%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A7%8B%E0%A6%97-%E0%A6%9A%E0%A6%BE%E0%A6%A8",
+          "title": "পাঁচ অগ্রাধিকার খাতে জাপানি বিনিয়োগ চান প্রধানমন্ত্রী",
+          "snippet": "পাঁচ অগ্রাধিকার খাতে জাপানি বিনিয়োগ চান প্রধানমন্ত্রী"
         }
       ],
       "daily_buzz": {
-        "title_bn": "গুলিস্তান থেকে সদরঘাট পর্যন্ত সড়ক হকারমুক্ত রাখার ঘোষণা ডিএসসিসির",
-        "title_en": "DSCC Declares Gulistan to Sadarghat Road Free of Street Vendors",
-        "summary_bn": "ঢাকা দক্ষিণ সিটি করপোরেশন গুলিস্তান থেকে সদরঘাট পর্যন্ত সম্পূর্ণ সড়ক হকারমুক্ত রাখার ঘোষণা দিয়ে অবৈধ বসালে গ্রেপ্তারের হুঁশিয়ারি দিয়েছে।",
-        "summary_en": "Dhaka South City Corporation announced plans to keep the road from Gulistan to Sadarghat completely free of street vendors.",
+        "title_bn": "পাঁচ খাতে জাপানি বিনিয়োগ আহ্বান প্রধানমন্ত্রীর",
+        "title_en": "PM Invites Japanese Investment in Five Priority Sectors",
+        "summary_bn": "প্রধানমন্ত্রী তারেক রহমান মোটরযান উৎপাদনসহ পাঁচটি অগ্রাধিকার খাতে জাপানি কোম্পানিগুলোর প্রতি বিনিয়োগের আহ্বান জানিয়েছেন।",
+        "summary_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors including automobile manufacturing.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "economy_business",
+          "tech_innovation",
+          "world_diplomacy",
+          "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T09:15:06+00:00",
-        "lead_bn": "ঢাকা দক্ষিণ সিটি করপোরেশন গুলিস্তান থেকে সদরঘাট পর্যন্ত সম্পূর্ণ সড়ক হকারমুক্ত রাখার ঘোষণা দিয়ে অবৈধ বসালে গ্রেপ্তারের হুঁশিয়ারি দিয়েছে।",
-        "lead_en": "Dhaka South City Corporation announced plans to keep the road from Gulistan to Sadarghat completely free of street vendors.",
+        "published_at": "2026-10-28T10:53:08+00:00",
+        "lead_bn": "প্রধানমন্ত্রী তারেক রহমান মোটরযান উৎপাদনসহ পাঁচটি অগ্রাধিকার খাতে জাপানি কোম্পানিগুলোর প্রতি বিনিয়োগের আহ্বান জানিয়েছেন।",
+        "lead_en": "Prime Minister Tarique Rahman urged Japanese companies to invest in five priority sectors including automobile manufacturing.",
         "bullets_bn": [
-          "গুলিস্তান থেকে সদরঘাট পর্যন্ত প্রধান সড়কে হকারদের বসা সম্পূর্ণ নিষিদ্ধ করেছে ঢাকা দক্ষিণ সিটি করপোরেশন।",
-          "ফুটপাত দখল করে বসা শতাধিক অবৈধ দোকান উচ্ছেদ করা হয়েছে এবং পে-লোডার দিয়ে অবৈধ অবকাঠামো ভেঙে ফেলা হয়েছে।",
-          "নিয়ম অমান্য করে হকাররা বসলে মালামাল জব্দের পাশাপাশি কঠোর আইনি ব্যবস্থা হিসেবে গ্রেপ্তার করা হবে।"
+          "মোটরযান উৎপাদন, জ্বালানি ও কৃষি প্রক্রিয়াজাতকরণ খাতে বিনিয়োগের আহ্বান জানিয়েছেন প্রধানমন্ত্রী।",
+          "প্রযুক্তি, মহাকাশ সহযোগিতা, রেলপথ ও সরবরাহব্যবস্থাকে অগ্রাধিকার খাত হিসেবে চিহ্নিত করা হয়েছে।",
+          "দুই দেশের স্বার্থ রক্ষার্থে দীর্ঘমেয়াদি অর্থনৈতিক অংশীদারত্ব গড়ে তোলার ওপর গুরুত্ব দেওয়া হয়েছে।"
         ],
         "bullets_en": [
-          "Dhaka South City Corporation completely prohibited street vendors from operating on the main road between Gulistan and Sadarghat.",
-          "Over one hundred illegal shops occupying sidewalks were evicted and structures were demolished using heavy machinery.",
-          "Authorities warned that violating vendors will face goods seizure and potential arrest under strict legal enforcement."
+          "Prime Minister urged investment in automobile manufacturing, energy, and agricultural processing sectors.",
+          "Technology, space cooperation, railways, and supply chain management were identified as priority sectors.",
+          "Emphasis was placed on building a long-term economic partnership based on mutual interests."
         ],
-        "impact_bn": "সাধারণ পথচারী ও যাত্রীরা ফুটপাত দিয়ে সহজে ও নির্বিঘ্নে চলাচল করতে পারবেন।",
-        "impact_en": "Ordinary pedestrians and commuters will be able to use sidewalks easily and without congestion.",
-        "details_bn": "রাজধানীর গুলিস্তান থেকে সদরঘাট এলাকার যানজট নিরসন এবং পথচারীদের চলাচলের সুবিধার্থে ঢাকা দক্ষিণ সিটি করপোরেশন এই উচ্ছেদ অভিযান পরিচালনা করে। এর আগে হকারদের পুনর্বাসনের জন্য নির্দিষ্ট ফুটপাত, নৈশকালীন মার্কেট ও হলিডে মার্কেট নির্ধারণ করে দেওয়া হয়। কিন্তু তা সত্ত্বেও বারবার রাস্তা দখল করার কারণে কর্তৃপক্ষ এখন কঠোর আইনি ব্যবস্থা ও নিয়মিত অভিযানের সিদ্ধান্ত নিয়েছে।",
-        "details_en": "Dhaka South City Corporation conducted the eviction drive to reduce traffic congestion and ease pedestrian movement between Gulistan and Sadarghat. Previously, authorities designated specific footpaths, night markets, and holiday markets for vendors. However, due to repeated illegal occupation of the main roads, authorities have now decided to implement strict legal action and regular enforcement drives."
+        "impact_bn": "এই বিনিয়োগ বাস্তবায়িত হলে দেশের উৎপাদনশীলতা বৃদ্ধি পাবে এবং নতুন কর্মসংস্থানের সুযোগ তৈরি হবে।",
+        "impact_en": "Realization of these investments will boost domestic productivity and create new employment opportunities.",
+        "details_bn": "বাংলাদেশ ও জাপানের মধ্যে দীর্ঘদিনের দ্বিপক্ষীয় অর্থনৈতিক সম্পর্ক রয়েছে। এর ধারাবাহিকতায় দুই দেশের বাণিজ্য ও বিনিয়োগ সহযোগিতা আরও সুদৃঢ় করতে বিভিন্ন কৌশলগত খাতে জাপানি অংশীদারত্ব বাড়ানোর উদ্যোগ নেওয়া হয়েছে।",
+        "details_en": "Bangladesh and Japan share a long-standing bilateral economic relationship. In line with this, initiatives have been taken to enhance Japanese partnership in various strategic sectors to further strengthen bilateral trade and investment cooperation."
       }
     },
     {
-      "story_id": "7167d8ec-caa5-585c-a35f-b3668f531897",
+      "story_id": "3047dac5-0ae3-533a-a9c5-93b4ea8f2a8c",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -70,50 +77,51 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T09:07:23+00:00",
+      "published_at": "2026-10-28T10:53:16+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.2049,
+      "rank_score": 1.7966,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/foreign/usa/977261/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE%E0%A6%B0",
-          "title": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা, তুমুল বাগ্বিতণ্ডা",
-          "snippet": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা, তুমুল বাগ্বিতণ্ডা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/international/news/1172960",
+          "title": "সার্বিয়ায় সরকার বদলের আবহে ইসরায়েলি দূতাবাসে হামলা, নিহত ১",
+          "snippet": "সার্বিয়ায় সরকার বদলের আবহে ইসরায়েলি দূতাবাসে হামলা, নিহত ১"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা ও বাগ্বিতণ্ডা",
-        "title_en": "Cuban Foreign Minister Interrupts US Envoy at UN Leading to Clash",
-        "summary_bn": "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্য চলাকালীন মঞ্চে গিয়ে বাধা দেন কিউবার পররাষ্ট্রমন্ত্রী, যা দুই দেশের মধ্যে উত্তেজনার সৃষ্টি করে।",
-        "summary_en": "The Cuban Foreign Minister interrupted the US UN envoy during a General Assembly address, sparking a heated exchange.",
+        "title_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসে হামলা ও হামলাকারী নিহত",
+        "title_en": "Attacker Killed Following Assault on Israeli Embassy in Serbia",
+        "summary_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত এক পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
+        "summary_en": "A teenager launched a knife attack on a police officer guarding the Israeli embassy in Belgrade, Serbia.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T09:07:23+00:00",
-        "lead_bn": "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্য চলাকালীন মঞ্চে গিয়ে বাধা দেন কিউবার পররাষ্ট্রমন্ত্রী, যা দুই দেশের মধ্যে উত্তেজনার সৃষ্টি করে।",
-        "lead_en": "The Cuban Foreign Minister interrupted the US UN envoy during a General Assembly address, sparking a heated exchange.",
+        "published_at": "2026-10-28T10:53:16+00:00",
+        "lead_bn": "সার্বিয়ার বেলগ্রেডে ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত এক পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
+        "lead_en": "A teenager launched a knife attack on a police officer guarding the Israeli embassy in Belgrade, Serbia.",
         "bullets_bn": [
-          "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্যের সময় কিউবার পররাষ্ট্রমন্ত্রী মঞ্চের দিকে এগিয়ে গিয়ে বাধা প্রদান করেন।",
-          "মার্কিন রাষ্ট্রদূত মাইক ওয়াল্টজ কিউবার সরকারের বিরুদ্ধে তাদের নেতাদের সম্পদশালী করা এবং সাধারণ জনগণের দুর্ভোগ সৃষ্টির অভিযোগ তোলেন।",
-          "ঘটনার পর মার্কিন রাষ্ট্রদূত কিউবার মন্ত্রীকে তার স্থানে পিছিয়ে যাওয়ার নির্দেশ দেন এবং আন্তর্জাতিক মঞ্চে এই বিতণ্ডা প্রকাশ পায়।"
+          "ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত পুলিশ কর্মকর্তার ওপর ছুরি নিয়ে হামলা চালায় এক কিশোর।",
+          "পুলিশের পাল্টা গুলিতে হামলাকারী কিশোর নিহত হয়।",
+          "ঘটনার পর সার্বিয়ার রাজধানী বেলগ্রেডে দূতাবাসের আশপাশে নিরাপত্তা জোরদার করা হয়েছে।"
         ],
         "bullets_en": [
-          "The Cuban Foreign Minister walked toward the podium to interrupt the US ambassador during a UN General Assembly session.",
-          "US Ambassador Mike Waltz accused the Cuban government of enriching its leaders while the general population suffers.",
-          "Following the interruption, the US envoy told the Cuban minister to step back as tensions flared on the international stage."
+          "A teenager attacked a security police officer stationed at the Israeli embassy with a knife.",
+          "The attacker was shot and killed by police returning fire.",
+          "Security has been significantly tightened around the embassy premises in Belgrade following the incident."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "জাতিসংঘ সাধারণ পরিষদের অধিবেশনে বিভিন্ন দেশের প্রতিনিধিদের মধ্যকার কূটনৈতিক দ্বৈরথ নতুন নয়। যুক্তরাষ্ট্র ও কিউবার দীর্ঘদিনের রাজনৈতিক বৈরিতার ইতিহাস রয়েছে। সাম্প্রতিক সময়ে কিউবার অর্থনৈতিক সংকট এবং দেশটির শাসন ব্যবস্থা নিয়ে আন্তর্জাতিক অঙ্গনে ওয়াশিংটন ও হাভানার মধ্যকার বাকযুদ্ধ আরও তীব্র হয়েছে। জাতিসংঘে এই ধরনের ঘটনা বিশ্বমঞ্চে দুই দেশের চলমান ভূরাজনৈতিক বিরোধের বহিঃপ্রকাশ।",
-        "details_en": "Diplomatic friction at the UN General Assembly is not uncommon, given the long-standing political hostility between the US and Cuba. Washington and Havana have increasingly clashed on international platforms regarding Cuba's ongoing economic crisis and governance. This confrontation at the UN highlights the persistent geopolitical rivalry between the two nations."
+        "details_bn": "সার্বিয়ার রাজধানী বেলগ্রেডে অবস্থিত ইসরায়েলি দূতাবাসের নিরাপত্তায় নিয়োজিত পুলিশ সদস্যদের লক্ষ্য করে সম্প্রতি এই হামলার ঘটনা ঘটে। দেশটিতে চলমান রাজনৈতিক পরিবর্তন ও উত্তেজনার মধ্যেই এই নিরাপত্তা লঙ্ঘনের ঘটনা ঘটে। পুলিশ তাৎক্ষণিকভাবে প্রতিক্রিয়া জানিয়ে হামলাকারীকে প্রতিহত করে।",
+        "details_en": "The security incident occurred at the Israeli diplomatic mission located in the Serbian capital of Belgrade. Amid ongoing political shifts and heightened regional tensions, the assailant targeted on-duty security personnel before being neutralized by law enforcement."
       }
     },
     {
-      "story_id": "b9a4521d-03dd-5d59-85d3-356abc1f79ea",
+      "story_id": "b77a41d5-e033-5e6c-987a-634e280fb498",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -125,54 +133,53 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T10:00:38+00:00",
+      "published_at": "2026-10-28T10:45:43+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9695,
+      "importance_score": 4.8,
+      "rank_score": 1.6674,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1172932",
-          "title": "‘বকেয়া বিলে’ ঝুলে আছে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ",
-          "snippet": "‘বকেয়া বিলে’ ঝুলে আছে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/health/977287/%E0%A6%86%E0%A6%87%E0%A6%87%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%86%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BE",
+          "title": "আইইডিসিআর পরিচালকের ওপর হামলা, জামায়াতের নিন্দা",
+          "snippet": "আইইডিসিআর পরিচালকের ওপর হামলা, জামায়াতের নিন্দা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বকেয়া বিলের কারণে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ স্থগিত রয়েছে",
-        "title_en": "Construction of Kalai Municipal Auditorium Suspended Due to Unpaid Bills",
-        "summary_bn": "ঠিকাদারি প্রতিষ্ঠানের বকেয়া বিল পরিশোধ না করায় কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ থমকে গেছে।",
-        "summary_en": "Construction work on the Kalai Municipal Auditorium remains stalled due to unpaid bills owed to the contractor.",
+        "title_bn": "আইইডিসিআর পরিচালকের কার্যালয়ে হামলার অভিযোগ ড্যাব কর্মীদের বিরুদ্ধে",
+        "title_en": "IEDCR Director Assaulted in Office Allegedly by DAB Activists",
+        "summary_bn": "রাজধানীর মহাখালীতে আইইডিসিআর পরিচালকের কার্যালয়ে ঢুকে তাকে মারধরের অভিযোগ উঠেছে বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে।",
+        "summary_en": "Activists of the BNP-backed Doctors Association of Bangladesh allegedly assaulted the IEDCR director inside his office in Mohakhali.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:00:38+00:00",
-        "lead_bn": "ঠিকাদারি প্রতিষ্ঠানের বকেয়া বিল পরিশোধ না করায় কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ থমকে গেছে।",
-        "lead_en": "Construction work on the Kalai Municipal Auditorium remains stalled due to unpaid bills owed to the contractor.",
+        "published_at": "2026-10-28T10:45:43+00:00",
+        "lead_bn": "রাজধানীর মহাখালীতে আইইডিসিআর পরিচালকের কার্যালয়ে ঢুকে তাকে মারধরের অভিযোগ উঠেছে বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে।",
+        "lead_en": "Activists of the BNP-backed Doctors Association of Bangladesh allegedly assaulted the IEDCR director inside his office in Mohakhali.",
         "bullets_bn": [
-          "ঠিকাদারি প্রতিষ্ঠানকে পাওনা পরিশোধ না করায় নির্মাণকাজ সম্পূর্ণ বন্ধ রয়েছে।",
-          "প্রয়োজনীয় তহবিলের অভাবে প্রকল্পের নির্ধারিত মেয়াদ শেষ হলেও কাজ সম্পন্ন হয়নি।",
-          "দ্রুত বকেয়া পরিশোধ করে নির্মাণকাজ পুনরায় চালুর জন্য সংশ্লিষ্ট কর্তৃপক্ষের নিকট দাবি জানানো হয়েছে।"
+          "আইইডিসিআর পরিচালক অধ্যাপক কাজী আহমেদ জাকিরের কার্যালয়ে ঢুকে হামলার ঘটনা ঘটে।",
+          "অধ্যাপক কাজী আহমেদ জাকি বিএনপিপন্থী চিকিৎসকদের সংগঠন ড্যাবের কর্মীদের বিরুদ্ধে মারধরের সুনির্দিষ্ট অভিযোগ করেছেন।",
+          "এই ঘটনার তীব্র নিন্দা ও প্রতিবাদ জানিয়েছে বাংলাদেশ জামায়াতে ইসলামী।"
         ],
         "bullets_en": [
-          "Construction work remains entirely halted as the contractor has not received due payments.",
-          "The project missed its completion deadline due to a severe shortage of allocated funds.",
-          "Local stakeholders have urged authorities to clear pending dues and resume construction promptly."
+          "An assault took place inside the office of IEDCR Director Professor Kazi Ahmed Zakir.",
+          "Professor Kazi Ahmed Zakir specifically accused activists of the BNP-backed doctors platform DAB of physical attack.",
+          "Bangladesh Jamaat-e-Islami strongly condemned and protested the incident."
         ],
-        "impact_bn": "নির্মাণকাজ স্থগিত থাকায় স্থানীয় বাসিন্দারা নির্ধারিত নাগরিক ও সাংস্কৃতিক সুবিধা থেকে বঞ্চিত হচ্ছেন।",
-        "impact_en": "Local residents are deprived of essential civic and cultural facilities due to the prolonged construction delay.",
-        "details_bn": "কালাই পৌর অডিটোরিয়াম নির্মাণ প্রকল্পটি এলাকার সাংস্কৃতিক ও সামাজিক কার্যক্রম বাড়ানোর উদ্দেশ্যে হাতে নেওয়া হয়েছিল। তবে আর্থিক জটিলতা ও ঠিকাদারের বকেয়া বিল পরিশোধ নিয়ে দীর্ঘসূত্রতার কারণে প্রকল্পের মূল কাজ অনেক দিন ধরেই থমকে আছে। স্থানীয় জনগণ বারবার দাবি জানালেও তহবিল সংকট কাটেনি।",
-        "details_en": "The Kalai Municipal Auditorium project was initiated to expand local cultural and social activities in the area. However, prolonged financial complications and delays in settling contractor dues have left the project stalled for an extended period, despite continuous public demands for completion."
+        "impact_bn": "সরকারি প্রতিষ্ঠানে চিকিৎসকদের ওপর এমন হামলা জনস্বাস্থ্য সেবায় নিয়োজিত পেশাজীবীদের নিরাপত্তা নিয়ে উদ্বেগ বাড়াচ্ছে।",
+        "impact_en": "Such attacks on medical professionals in public institutions raise serious concerns about the safety of healthcare workers.",
+        "details_bn": "রাজধানীর মহাখালীতে অবস্থিত রোগতত্ত্ব, রোগনিয়ন্ত্রণ ও গবেষণা ইনস্টিটিউটের (আইইডিসিআর) পরিচালকের কার্যালয়ে চিকিৎসকদের একটি অংশের আন্দোলন ও পেশাজীবী সংগঠনের অভ্যন্তরীণ বিরোধের জেরে এই অপ্রীতিকর পরিস্থিতির সৃষ্টি হয়। স্বাস্থ্য খাতের গুরুত্বপূর্ণ এই গবেষণা প্রতিষ্ঠানে এমন ঘটনায় প্রশাসনিক শৃঙ্খলা ও চিকিৎসকদের নিরাপত্তা নিয়ে বিভিন্ন মহলে প্রশ্ন উঠেছে। ঘটনার পর থেকেই স্বাস্থ্য অধিদপ্তর ও সংশ্লিষ্ট মহলে উত্তেজনা বিরাজ করছে এবং দোষীদের বিরুদ্ধে প্রশাসনিক ব্যবস্থার দাবি উঠেছে।",
+        "details_en": "The incident unfolded at the Institute of Epidemiology, Disease Control and Research (IEDCR) in Mohakhali amid internal friction and protests involving professional factions. Such occurrences inside a vital national health research facility have raised serious questions regarding administrative discipline and the safety of medical personnel, sparking demands for immediate action against the culprits."
       }
     },
     {
-      "story_id": "186e64e8-53a1-5384-9aaf-7d8e2e960556",
+      "story_id": "fea0854e-9e87-50eb-a216-ce9a5ed8dad4",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "economy_business"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
@@ -181,47 +188,102 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T10:00:10+00:00",
+      "published_at": "2026-10-28T10:45:21+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9646,
+      "importance_score": 4.8,
+      "rank_score": 1.6616,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/country/news/1172930",
-          "title": "শাশুড়িকে ডেকে নিয়ে হত্যার পর মরদেহ গুম, জামাতার যাবজ্জীবন",
-          "snippet": "শাশুড়িকে ডেকে নিয়ে হত্যার পর মরদেহ গুম, জামাতার যাবজ্জীবন"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/country/rajshahi/977286/%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%98%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%B6%E0%A6%AA%E0%A6%BF%E0%A6%82%E0%A6%AE%E0%A6%B2-%E0%A6%B2%E0%A7%81%E0%A6%9F-%E0%A6%AF%E0%A7%87",
+          "title": "বিএনপির এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমল লুট, যে যার মতো নিয়ে গেছে সব মালামাল",
+          "snippet": "বিএনপির এমপির ছেলের ঘনিষ্ঠ প্রবাসীর শপিংমল লুট, যে যার মতো নিয়ে গেছে সব মালামাল"
         }
       ],
       "daily_buzz": {
-        "title_bn": "হবিগঞ্জে শাশুড়ি হত্যায় জামাতার যাবজ্জীবন কারাদণ্ড",
-        "title_en": "Son-in-law sentenced to life in prison for mother-in-law murder in Habiganj",
-        "summary_bn": "হবিগঞ্জের চুনারুঘাটে সাতছড়ি জাতীয় উদ্যানে শাশুড়িকে ডেকে নিয়ে হত্যার দায়ে জামাতাকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।",
-        "summary_en": "A court sentenced a son-in-law to life imprisonment for luring and murdering his mother-in-law in Habiganj.",
+        "title_bn": "নাটোরের গুরুদাসপুরে জানাজার পর প্রবাসীর শপিংমলে ভাঙচুর ও লুটপাট",
+        "title_en": "Shopping Mall Vandalized and Looted in Natore Following Janaza",
+        "summary_bn": "নাটোরের গুরুদাসপুরে ছাত্রদল নেতার জানাজার পর চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটেছে।",
+        "summary_en": "A shopping mall in Natore's Gurudaspur was vandalized and looted following the funeral of a student leader.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law",
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T10:45:21+00:00",
+        "lead_bn": "নাটোরের গুরুদাসপুরে ছাত্রদল নেতার জানাজার পর চাঁচকৈড় বাজারের একটি শপিংমলে ভাঙচুর ও লুটপাটের ঘটনা ঘটেছে।",
+        "lead_en": "A shopping mall in Natore's Gurudaspur was vandalized and looted following the funeral of a student leader.",
+        "bullets_bn": [
+          "নাটোরের গুরুদাসপুর উপজেলার চাঁচকৈড় বাজারে রাশ মেগা মলে হামলা ও লুটপাট চালানো হয়েছে।",
+          "নিহত ছাত্রদল নেতা শাকিল ইসলামের জানাজায় অংশ নেওয়া লোকজনের একাংশ এই হামলা চালায়।",
+          "হামলার পর দুর্বৃত্তরা শপিংমলের বিভিন্ন মালামাল লুট করে নিয়ে যায়।"
+        ],
+        "bullets_en": [
+          "A shopping mall named Rush Mega Mall was attacked and looted in Natore's Gurudaspur upazila.",
+          "People participating in the funeral procession of deceased student leader Shakil Islam carried out the attack.",
+          "Miscreants looted various goods from the shopping mall following the vandalism."
+        ],
+        "impact_bn": "এ ধরনের সহিংসতা ও লুটপাট স্থানীয় ব্যবসায়ী ও সাধারণ মানুষের মধ্যে নিরাপত্তাহীনতা তৈরি করছে।",
+        "impact_en": "Such acts of violence and looting create a sense of insecurity among local business owners and residents.",
+        "details_bn": "নাটোরের গুরুদাসপুরে নিহত ছাত্রদল নেতা শাকিল ইসলামের জানাজা শেষে চাঁচকৈড় বাজারের রাশ মেগা মলে হামলা চালানো হয়। প্রত্যক্ষদর্শীদের মতে, জানাজায় অংশ নেওয়া মিছিল থেকে কিছু লোক পরিকল্পিতভাবে এই ভাঙচুর ও লুটপাট চালায়। আইনশৃঙ্খলা পরিস্থিতির অবনতি এবং রাজনৈতিক কর্মসূচির নামে এ ধরনের নৈরাজ্য সাধারণ ব্যবসায়ীদের মারাত্মক ঝুঁকিতে ফেলছে।",
+        "details_en": "Violence erupted in Natore's Gurudaspur following the funeral of student leader Shakil Islam, targeting a shopping mall in Chachkoir Bazar. According to eyewitnesses, participants from the funeral procession raided the establishment. Incidents like these raise serious concerns about local law enforcement and public security during political gatherings."
+      }
+    },
+    {
+      "story_id": "947ac3e7-31e4-5ec5-b712-0e59f0976fe6",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Inflation",
+        "#TariffRefunds",
+        "#CostOfLiving"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T10:21:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.25,
+      "rank_score": 1.1871,
+      "sources": [
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+          "title": "Four reasons to start worrying about inflation — including the end of tariff refunds",
+          "snippet": "Four reasons to start worrying about inflation — including the end of tariff refunds"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "শুল্ক ফেরত সুবিধা বন্ধ হওয়ায় ভোক্তা পর্যায়ে পণ্যের দাম বাড়ার শঙ্কা",
+        "title_en": "End of Tariff Refunds Threatens Consumers With Higher Price Pressures",
+        "summary_bn": "শুল্ক ফেরতের সুযোগ বন্ধ হওয়ায় কোম্পানিগুলো বর্ধিত খরচ ভোক্তাদের ওপর চাপিয়ে দিতে শুরু করেছে, যা মূল্যস্ফীতি বাড়িয়ে দিচ্ছে।",
+        "summary_en": "Companies are passing higher costs directly to consumers as tariff refund benefits phase out, fueling inflation concerns.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
           "economy_business"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:00:10+00:00",
-        "lead_bn": "হবিগঞ্জের চুনারুঘাটে সাতছড়ি জাতীয় উদ্যানে শাশুড়িকে ডেকে নিয়ে হত্যার দায়ে জামাতাকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।",
-        "lead_en": "A court sentenced a son-in-law to life imprisonment for luring and murdering his mother-in-law in Habiganj.",
+        "published_at": "2026-10-28T10:21:00+00:00",
+        "lead_bn": "শুল্ক ফেরতের সুযোগ বন্ধ হওয়ায় কোম্পানিগুলো বর্ধিত খরচ ভোক্তাদের ওপর চাপিয়ে দিতে শুরু করেছে, যা মূল্যস্ফীতি বাড়িয়ে দিচ্ছে।",
+        "lead_en": "Companies are passing higher costs directly to consumers as tariff refund benefits phase out, fueling inflation concerns.",
         "bullets_bn": [
-          "সাতছড়ি জাতীয় উদ্যানে কৌশলে ডেকে নিয়ে শাশুড়িকে হত্যা করেন ওই ব্যক্তি।",
-          "আদালত আসামিকে যাবজ্জীবন কারাদণ্ডের পাশাপাশি ১০ হাজার টাকা জরিমানা ও অনাদায়ে আরও ছয় মাসের কারাদণ্ড দিয়েছেন।",
-          "দীর্ঘ আইনি প্রক্রিয়া ও সাক্ষ্যগ্রহণ শেষে আদালত এই রায় ঘোষণা করেন।"
+          "কোম্পানিগুলো শুল্ক ফেরতের সুবিধা হারিয়ে খরচ সামলাতে হিমশিম খাচ্ছে।",
+          "বিশ্লেষক ডেনিস ডিবাশ্চারের মতে খরচ বৃদ্ধির প্রভাব সরাসরি পণ্যের দামে পড়বে।",
+          "ভোক্তাদের জন্য জীবনযাত্রার ব্যয় আরও বাড়ার আশঙ্কা করছেন অর্থনীতিবিদরা।"
         ],
         "bullets_en": [
-          "The convict lured his mother-in-law to the Rauschari National Park and murdered her.",
-          "The court sentenced the accused to life imprisonment along with a fine of 10,000 taka or an additional six months in jail.",
-          "The court delivered the verdict following a prolonged legal process and witness testimonies."
+          "Companies can no longer rely on tariff refunds to ease their operational cost pressures.",
+          "Analyst Dennis DeBusschere warns that businesses will increasingly hand down higher costs to consumers.",
+          "Households face growing pressure on daily living expenses as inflation risks intensify."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "হবিগঞ্জের চুনারুঘাট উপজেলার সাতছড়ি জাতীয় উদ্যান এলাকায় সংঘটিত এই হত্যাকাণ্ডের ঘটনায় নিহতের পরিবার মামলা দায়ের করে। পুলিশ তদন্ত শেষে আদালতে চার্জশিট দাখিল করলে বিচারিক প্রক্রিয়া শুরু হয়। সাক্ষ্যপ্রমাণ ও দীর্ঘ শুনানির পর আদালত এই রায় প্রদান করেন।",
-        "details_en": "Following the murder incident in the Satchari National Park area of Habiganj, the victim's family filed a case. The police submitted a charge sheet after investigation, initiating the judicial process. The court delivered the verdict after testimonies and prolonged hearings."
+        "impact_bn": "দৈনন্দিন খরচ বেড়ে যাওয়ায় সাধারণ ক্রেতাদের ক্রয়ক্ষমতা ও পারিবারিক বাজেট মারাত্মকভাবে সংকুচিত হবে।",
+        "impact_en": "Ordinary consumers will face squeezed household budgets and reduced purchasing power as everyday expenses rise.",
+        "details_bn": "দীর্ঘদিন ধরে ব্যবসা প্রতিষ্ঠানগুলো উৎপাদন খরচ কমাতে শুল্ক ফেরত বা ট্যারিফ রিফান্ডের ওপর নির্ভর করত। তবে বৈশ্বিক অর্থনৈতিক পরিবর্তন ও সাপ্লাই চেইনের নতুন বাস্তবতায় এই সুবিধাগুলো সংকুচিত হয়ে আসছে। এর ফলে করপোরেট প্রতিষ্ঠানগুলো তাদের বাড়তি খরচের বোঝা সরাসরি শেষ গ্রাহকের ওপর স্থানান্তর করতে বাধ্য হচ্ছে, যা সামগ্রিক অর্থনীতিতে নতুন করে মূল্যস্ফীতির ঝুঁকি তৈরি করছে।",
+        "details_en": "For a long time, companies relied on tariff refunds to cushion themselves against rising operational expenses. As macroeconomic shifts and changing trade dynamics limit these financial reliefs, businesses are left with fewer alternatives. Consequently, corporations are shifting the burden of these higher costs onto everyday retail shoppers, creating fresh economic headwinds and threatening broader price stability."
       }
     },
     {
@@ -233,15 +295,15 @@
       "region": "international",
       "tags": [
         "#RussiaAfrica",
-        "#ForeignPolicy",
+        "#MoscowDiplomacy",
         "#GlobalTrade"
       ],
       "image_url": "https://static.dw.com/image/71403682_6.jpg",
       "image_caption": null,
-      "published_at": "2026-10-28T10:00:51.146395+00:00",
+      "published_at": "2026-10-28T11:00:48.162603+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 1.7,
-      "rank_score": 0.6883,
+      "rank_score": 0.6886,
       "sources": [
         {
           "name": "Deutsche Welle World",
@@ -251,89 +313,33 @@
         }
       ],
       "daily_buzz": {
-        "title_bn": "আফ্রিকা মহাদেশে কূটনৈতিক সম্পর্ক ও প্রভাব বিস্তারের চেষ্টা করছে রাশিয়া",
-        "title_en": "Russia Seeks to Expand Diplomatic Influence and Trade Partnerships Across Africa",
-        "summary_bn": "ইউক্রেন যুদ্ধের পর বৈশ্বিক সমর্থন ও বাণিজ্যিক সম্পর্ক বাড়াতে আফ্রিকা মহাদেশে কূটনীতি জোরদার করছে রাশিয়া।",
-        "summary_en": "Russia is aggressively expanding diplomatic ties and economic partnerships across Africa to secure global support following the Ukraine conflict.",
+        "title_bn": "আফ্রিকা মহাদেশে প্রভাব বিস্তার ও কূটনৈতিক সম্পর্ক বাড়াচ্ছে রাশিয়া",
+        "title_en": "Russia Expands Diplomatic Influence and Economic Ties Across Africa",
+        "summary_bn": "ইউক্রেন যুদ্ধের পর আন্তর্জাতিক সমর্থন পেতে এবং অর্থনৈতিক সহযোগিতা বাড়াতে আফ্রিকা মহাদেশে কূটনৈতিক তৎপরতা জোরদার করেছে রাশিয়া।",
+        "summary_en": "Russia is aggressively expanding its diplomatic outreach and economic cooperation across Africa to secure international support following the Ukraine conflict.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T10:00:51.146395+00:00",
-        "lead_bn": "ইউক্রেন যুদ্ধের পর বৈশ্বিক সমর্থন ও বাণিজ্যিক সম্পর্ক বাড়াতে আফ্রিকা মহাদেশে কূটনীতি জোরদার করছে রাশিয়া।",
-        "lead_en": "Russia is aggressively expanding diplomatic ties and economic partnerships across Africa to secure global support following the Ukraine conflict.",
+        "published_at": "2026-10-28T11:00:48.162603+00:00",
+        "lead_bn": "ইউক্রেন যুদ্ধের পর আন্তর্জাতিক সমর্থন পেতে এবং অর্থনৈতিক সহযোগিতা বাড়াতে আফ্রিকা মহাদেশে কূটনৈতিক তৎপরতা জোরদার করেছে রাশিয়া।",
+        "lead_en": "Russia is aggressively expanding its diplomatic outreach and economic cooperation across Africa to secure international support following the Ukraine conflict.",
         "bullets_bn": [
-          "ইউক্রেন সংঘাতের জেরে পশ্চিমা নিষেধাজ্ঞার মুখে পড়ে আন্তর্জাতিক মিত্র ও বাণিজ্য অংশীদার বাড়াতে তৎপর হয়েছে মস্কো।",
-          "মিশরের সাথে দ্বিপক্ষীয় বাণিজ্য দ্বিগুণ হয়ে ১০ দশমিক ৫ বিলিয়ন ডলারে পৌঁছেছে এবং আলজেরিয়াও রাশিয়ার প্রধান অংশীদার।",
-          "দীর্ঘমেয়াদে আফ্রিকান বাজারে প্রবেশ এবং প্রভাব বিস্তারের কৌশল হিসেবে মিশরের এল-দাবাআ অঞ্চলে পারমাণবিক বিদ্যুৎকেন্দ্র নির্মাণ করছে রাশিয়া।"
+          "রাশিয়া ইউক্রেন সংকটের পর আন্তর্জাতিক সমর্থনের অংশ হিসেবে আফ্রিকা মহাদেশে কূটনৈতিক সম্পর্ক জোরদার করছে।",
+          "মিশরের সাথে দ্বিপক্ষীয় বাণিজ্য বেড়ে ১০ দশমিক ৫ বিলিয়ন ডলারে পৌঁছেছে এবং এল-দাবায় পরমাণু কেন্দ্র নির্মাণ চলছে।",
+          "মস্কো আগামী অক্টোবর মাসে রাশিয়া-আফ্রিকা শীর্ষ সম্মেলনের আয়োজন করে অর্থনৈতিক ও রাজনৈতিক সহযোগিতা সম্প্রসারণের পরিকল্পনা করছে।"
         ],
         "bullets_en": [
-          "Moscow is aggressively seeking alternative global alliances and trade partners to counter Western isolation following the Ukraine conflict.",
-          "Bilateral trade with Egypt doubled to 10.5 billion dollars, while Algeria and Egypt remain Moscow's primary African economic partners.",
-          "Russia is financing and constructing a massive nuclear power plant in Egypt to cement long-term strategic access to African markets."
+          "Russia is intensifying diplomatic outreach across the African continent to secure international support following the Ukraine conflict.",
+          "Bilateral trade with Egypt reached 10.5 billion dollars while Russia finances a major nuclear power plant construction project.",
+          "Moscow is scheduled to host the Russia Africa summit focusing on expanding economic and security cooperation."
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "ইউক্রেনে রাশিয়ার সামরিক অভিযানের পর পশ্চিমা বিশ্বের সাথে সম্পর্কের অবনতি ঘটলে মস্কো নতুন মিত্র সন্ধানের অংশ হিসেবে আফ্রিকান দেশগুলোর দিকে মনোযোগ দেয়। বিগত কয়েক বছর ধরে রুশ শীর্ষ কূটনীতিকদের ঘন ঘন আফ্রিকা সফর এবং উচ্চপর্যায়ের সম্মেলনের মাধ্যমে জ্বালানি, বাণিজ্য ও নিরাপত্তা খাতে সহযোগিতা বাড়ানোর চেষ্টা চলছে। তবে উত্তর আফ্রিকার কয়েকটি দেশের সাথে বাণিজ্য সফল হলেও মহাদেশের অন্যান্য অঞ্চলে এখনো উল্লেখযোগ্য অগ্রগতি অর্জন করতে পারেনি মস্কো।",
-        "details_en": "Following the full-scale invasion of Ukraine and subsequent Western sanctions, Russian President Vladimir Putin pivoted toward expanding diplomatic and economic ties with African nations. Moscow has prioritized high-level visits and regular summits focusing on trade, security, and energy cooperation. While trade remains heavily concentrated in North African nations like Egypt and Algeria, efforts to establish a broader continental footprint face mixed results and limited success across Sub-Saharan Africa."
-      }
-    },
-    {
-      "story_id": "75da59cf-5e37-5044-a754-5df4ae9ed9eb",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment"
-      ],
-      "region": "international",
-      "tags": [
-        "#ClimateAction",
-        "#Climate",
-        "#Environment"
-      ],
-      "image_url": "https://insideclimatenews.org/wp-content/uploads/2026/10/GettyImages-2269596854-1024x683.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-28T08:55:00+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.3902,
-      "sources": [
-        {
-          "name": "Inside Climate News",
-          "url": "https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/",
-          "title": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages",
-          "snippet": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে জলবায়ু নীতি ও জীবাশ্ম জ্বালানি নিয়ন্ত্রণের সুযোগ তৈরি হয়েছে",
-        "title_en": "US Midterm Elections Shape Future Climate Policies and Fossil Fuel Regulations",
-        "summary_bn": "যুক্তরাষ্ট্রের নির্বাচনে ভোটাররা কংগ্রেসের নিয়ন্ত্রণ নির্ধারণ করবেন যা ভবিষ্যতের বৈশ্বিক জলবায়ু নীতি এবং জীবাশ্ম জ্বালানি সম্প্রসারণকে সরাসরি প্রভাবিত করবে।",
-        "summary_en": "US voters will determine congressional control in elections that directly impact future global climate policies and fossil fuel expansion.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T08:55:00+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের নির্বাচনে ভোটাররা কংগ্রেসের নিয়ন্ত্রণ নির্ধারণ করবেন যা ভবিষ্যতের বৈশ্বিক জলবায়ু নীতি এবং জীবাশ্ম জ্বালানি সম্প্রসারণকে সরাসরি প্রভাবিত করবে।",
-        "lead_en": "US voters will determine congressional control in elections that directly impact future global climate policies and fossil fuel expansion.",
-        "bullets_bn": [
-          "কংগ্রেসে ডেমক্র্যাটরা জয়ী হলে জীবাশ্ম জ্বালানি নীতি ও সরকারি খরচের ওপর নিয়ন্ত্রণ প্রতিষ্ঠা করতে পারে।",
-          "জলবায়ু কর্মী বিল ম্যাককিবেন সতর্ক করেছেন যে ২০২৮ সালের নির্বাচন জলবায়ু সুরক্ষার শেষ সুযোগ হতে পারে।",
-          "ডেমোক্র্যাটরা প্রতিনিধি পরিষদে সংখ্যাগরিষ্ঠতা পেলে প্রেসিডেন্ট ট্রাম্পের প্রশাসনের ক্ষমতা খর্ব করতে পারবে।"
-        ],
-        "bullets_en": [
-          "Democratic victories in Congress could establish oversight over fossil fuel policies and government spending.",
-          "Climate activist Bill McKibben warned that the 2028 election may be the final window for climate protection.",
-          "House majorities for Democrats would allow them to curb the Trump administration's executive authority."
-        ],
-        "impact_bn": "এই নির্বাচন বিশ্বজুড়ে উষ্ণতা বৃদ্ধি রোধ এবং দীর্ঘমেয়াদি পরিবেশগত নিরাপত্তায় সরাসরি প্রভাব ফেলবে।",
-        "impact_en": "These elections directly influence global efforts to curb warming temperatures and ensure long-term environmental safety.",
-        "details_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনকে জলবায়ু কর্মীরা প্যারিস চুক্তির তাপমাত্রা বৃদ্ধির সীমা রক্ষা করার একটি গুরুত্বপূর্ণ মুহূর্ত হিসেবে দেখছেন। ট্রাম্প প্রশাসনের জীবাশ্ম জ্বালানি সমর্থিত নীতির কারণে কৃত্রিম বুদ্ধিমত্তা ও ডেটা সেন্টারের মতো নতুন খাতের পরিবেশগত ঝুঁকি মোকাবিলা করা কঠিন হয়ে পড়েছে। ঐতিহাসিক তথ্য অনুযায়ী মার্কিন মধ্যবর্তী নির্বাচনে প্রেসিডেন্টের দল সাধারণত আসন হারায় এবং বর্তমানে ট্রাম্পের অনুমোদনের হার রেকর্ড কম ৩ শতাংশে নেমেছে।",
-        "details_en": "Climate advocates view the US midterm elections as a crucial moment to protect Paris Agreement warming thresholds. The Trump administration's pro-fossil fuel policies have complicated efforts to address environmental risks from artificial intelligence and data centers. Historically, the president's party tends to lose ground in midterms, and Trump's approval rating has dropped to a record low of 33 percent."
+        "details_bn": "ইউক্রেন সংঘাতের জেরে পশ্চিমা বিশ্বের সাথে সম্পর্কের অবনতি ঘটায় বিশ্বমঞ্চে মিত্র খুঁজতে তৎপর হয় মস্কো। এরই ধারাবাহিকতায় বিগত কয়েক বছর ধরে রুশ পররাষ্ট্রমন্ত্রী সের্গেই লাভরভসহ শীর্ষ কর্মকর্তারা আফ্রিকা সফর বাড়িয়েছেন। উত্তর আফ্রিকার দেশগুলোর সাথে বাণিজ্য ও জ্বালানি খাতে অংশীদারত্ব বাড়াতে কাজ করছে রাশিয়া। বিশেষ করে মিশর ও আলজেরিয়ার সাথে মস্কোর বাণিজ্যিক সম্পর্ক তুলনামূলক বেশি শক্তিশালী, যা রুশ অর্থনীতিকে বৈশ্বিক নিষেধাজ্ঞার মাঝেও সহায়তা করে যাচ্ছে।",
+        "details_en": "The conflict with the West sparked by the invasion of Ukraine prompted Moscow to seek global allies and alternative markets. Russian officials have ramped up diplomatic visits to the African continent, focusing heavily on economic cooperation, energy projects, and agricultural exports. While trade volumes vary significantly across different regions, countries like Egypt and Algeria have emerged as key trading partners, with bilateral trade bolstered by Russian grain exports and energy investments."
       }
     }
   ]
