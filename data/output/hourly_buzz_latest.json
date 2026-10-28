@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28T09:00:48.331277",
+  "updated_at": "2026-10-28T10:00:51.146388",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "0fff3bb0-b4ff-5240-83f6-4b2b37be648d",
+      "story_id": "241e45a6-25d9-5fa0-8870-9da4e2cc34cf",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -13,109 +13,52 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": null,
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fdbz2jyb3%2FDSCC-1.jpeg?rect=0%2C113%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-28T08:55:52+00:00",
+      "published_at": "2026-10-28T09:15:06+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.5355,
+      "importance_score": 4.8,
+      "rank_score": 1.2782,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1172883",
-          "title": "বিরোধীদলকে বাদ দিয়ে সংবিধান সংশোধনের চেষ্টা ফ্যাসিবাদের লক্ষণ",
-          "snippet": "বিরোধীদলকে বাদ দিয়ে সংবিধান সংশোধনের চেষ্টা ফ্যাসিবাদের লক্ষণ"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/capital/l0avk77e3h",
+          "title": "গুলিস্তান–সদরঘাট সড়ক হকারমুক্ত রাখার ঘোষণা, বসলে গ্রেপ্তারের হুঁশিয়ারি",
+          "snippet": "গুলিস্তান–সদরঘাট সড়ক হকারমুক্ত রাখার ঘোষণা, বসলে গ্রেপ্তারের হুঁশিয়ারি"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বিরোধী দলকে বাদ দিয়ে সংবিধান সংস্কার কমিটি গঠন করায় সরকারের সমালোচনা",
-        "title_en": "Political Analyst Criticizes Formation of Constitution Reform Committee Without Opposition",
-        "summary_bn": "রাষ্ট্রবিজ্ঞানী দিলারা চৌধুরী বিরোধী দলগুলোর সাথে কোনো আলোচনা ছাড়াই সংবিধান সংস্কার কমিটি গঠনের কঠোর সমালোচনা করেছেন।",
-        "summary_en": "Political scientist Dilara Chowdhury strongly criticized the formation of the constitution reform committee without consulting opposition parties.",
+        "title_bn": "গুলিস্তান থেকে সদরঘাট পর্যন্ত সড়ক হকারমুক্ত রাখার ঘোষণা ডিএসসিসির",
+        "title_en": "DSCC Declares Gulistan to Sadarghat Road Free of Street Vendors",
+        "summary_bn": "ঢাকা দক্ষিণ সিটি করপোরেশন গুলিস্তান থেকে সদরঘাট পর্যন্ত সম্পূর্ণ সড়ক হকারমুক্ত রাখার ঘোষণা দিয়ে অবৈধ বসালে গ্রেপ্তারের হুঁশিয়ারি দিয়েছে।",
+        "summary_en": "Dhaka South City Corporation announced plans to keep the road from Gulistan to Sadarghat completely free of street vendors.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T08:55:52+00:00",
-        "lead_bn": "রাষ্ট্রবিজ্ঞানী দিলারা চৌধুরী বিরোধী দলগুলোর সাথে কোনো আলোচনা ছাড়াই সংবিধান সংস্কার কমিটি গঠনের কঠোর সমালোচনা করেছেন।",
-        "lead_en": "Political scientist Dilara Chowdhury strongly criticized the formation of the constitution reform committee without consulting opposition parties.",
+        "published_at": "2026-10-28T09:15:06+00:00",
+        "lead_bn": "ঢাকা দক্ষিণ সিটি করপোরেশন গুলিস্তান থেকে সদরঘাট পর্যন্ত সম্পূর্ণ সড়ক হকারমুক্ত রাখার ঘোষণা দিয়ে অবৈধ বসালে গ্রেপ্তারের হুঁশিয়ারি দিয়েছে।",
+        "lead_en": "Dhaka South City Corporation announced plans to keep the road from Gulistan to Sadarghat completely free of street vendors.",
         "bullets_bn": [
-          "সরকার বিরোধী দলগুলোকে সম্পূর্ণ বাদ দিয়ে চৌদ্দ সদস্যের সংবিধান সংস্কার কমিটি গঠন করেছে।",
-          "রাজনৈতিক বিশ্লেষক দিলারা চৌধুরী একে ফ্যাসিবাদের লক্ষণ হিসেবে অভিহিত করেছেন।",
-          "সংস্কার প্রক্রিয়ায় রাজনৈতিক ঐকমত্য ছাড়া একতরফা সিদ্ধান্ত গ্রহণের তীব্র বিরূপ প্রতিক্রিয়া সৃষ্টি হয়েছে।"
+          "গুলিস্তান থেকে সদরঘাট পর্যন্ত প্রধান সড়কে হকারদের বসা সম্পূর্ণ নিষিদ্ধ করেছে ঢাকা দক্ষিণ সিটি করপোরেশন।",
+          "ফুটপাত দখল করে বসা শতাধিক অবৈধ দোকান উচ্ছেদ করা হয়েছে এবং পে-লোডার দিয়ে অবৈধ অবকাঠামো ভেঙে ফেলা হয়েছে।",
+          "নিয়ম অমান্য করে হকাররা বসলে মালামাল জব্দের পাশাপাশি কঠোর আইনি ব্যবস্থা হিসেবে গ্রেপ্তার করা হবে।"
         ],
         "bullets_en": [
-          "The government formed a fourteen-member constitution reform committee completely excluding opposition parties.",
-          "Political analyst Dilara Chowdhury termed the unilateral move as a sign of fascism.",
-          "The exclusion has sparked widespread debate over the inclusivity of the ongoing reform process."
+          "Dhaka South City Corporation completely prohibited street vendors from operating on the main road between Gulistan and Sadarghat.",
+          "Over one hundred illegal shops occupying sidewalks were evicted and structures were demolished using heavy machinery.",
+          "Authorities warned that violating vendors will face goods seizure and potential arrest under strict legal enforcement."
         ],
-        "impact_bn": "একতরফা সংস্কার প্রক্রিয়া দেশের রাজনৈতিক স্থিতিশীলতা ও গণতান্ত্রিক উত্তরণে দীর্ঘমেয়াদী অনিশ্চয়তা তৈরি করতে পারে।",
-        "impact_en": "Unilateral reform processes may create long-term uncertainty regarding political stability and democratic transition.",
-        "details_bn": "ছাত্র-জনতার অভ্যুত্থানে রাজনৈতিক পটপরিবর্তনের পর অন্তর্বর্তীকালীন সরকার রাষ্ট্র মেরামতের অংশ হিসেবে বিভিন্ন কমিশন ও কমিটি গঠন করে। এর ধারাবাহিকতায় গঠিত সংবিধান সংস্কার কমিটিতে বিরোধী মত ও দলগুলোকে অন্তর্ভুক্ত না করার অভিযোগ উঠেছে। বিশ্লেষকদের মতে, জাতীয় ঐকমত্য ছাড়া সংবিধানের মতো মৌলিক বিষয়ে সংস্কার টেকসই ও গ্রহণযোগ্য হওয়া কঠিন।",
-        "details_en": "Following the political shift in the student-led mass uprising, the interim government formed various commissions as part of state reform. Concerns arose when opposition groups were left out of the newly formed constitution reform committee. Analysts argue that reforming foundational laws without national consensus makes the changes less sustainable and acceptable."
+        "impact_bn": "সাধারণ পথচারী ও যাত্রীরা ফুটপাত দিয়ে সহজে ও নির্বিঘ্নে চলাচল করতে পারবেন।",
+        "impact_en": "Ordinary pedestrians and commuters will be able to use sidewalks easily and without congestion.",
+        "details_bn": "রাজধানীর গুলিস্তান থেকে সদরঘাট এলাকার যানজট নিরসন এবং পথচারীদের চলাচলের সুবিধার্থে ঢাকা দক্ষিণ সিটি করপোরেশন এই উচ্ছেদ অভিযান পরিচালনা করে। এর আগে হকারদের পুনর্বাসনের জন্য নির্দিষ্ট ফুটপাত, নৈশকালীন মার্কেট ও হলিডে মার্কেট নির্ধারণ করে দেওয়া হয়। কিন্তু তা সত্ত্বেও বারবার রাস্তা দখল করার কারণে কর্তৃপক্ষ এখন কঠোর আইনি ব্যবস্থা ও নিয়মিত অভিযানের সিদ্ধান্ত নিয়েছে।",
+        "details_en": "Dhaka South City Corporation conducted the eviction drive to reduce traffic congestion and ease pedestrian movement between Gulistan and Sadarghat. Previously, authorities designated specific footpaths, night markets, and holiday markets for vendors. However, due to repeated illegal occupation of the main roads, authorities have now decided to implement strict legal action and regular enforcement drives."
       }
     },
     {
-      "story_id": "845160da-cf53-5728-9677-72146b564c18",
-      "primary_category": "society_education",
-      "interest_categories": [
-        "society_education",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#NationalAffairs"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T08:59:28+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9576,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/social-media/news/1172888",
-          "title": "‘তুমি যার লাগিয়া এমবি ভরো, তার তো বাটন ফোন’ গানটি আবার কেন ভাইরাল?",
-          "snippet": "‘তুমি যার লাগিয়া এমবি ভরো, তার তো বাটন ফোন’ গানটি আবার কেন ভাইরাল?"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "কবির বিন সামাদের গান সামাজিক মাধ্যমে নতুন করে ভাইরাল",
-        "title_en": "Kobir Bin Samad song goes viral again on social media",
-        "summary_bn": "কবি বিন সামাদের তুমি যার লাগিয়া এমবি ভরো গানটির লাইন সামাজিক যোগাযোগমাধ্যমে মিম ও রিলসের মাধ্যমে নতুন করে ছড়িয়ে পড়েছে।",
-        "summary_en": "A line from Kobir Bin Samad song has resurfaced across social media platforms through memes, reels, and discussions.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "society_education",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T08:59:28+00:00",
-        "lead_bn": "কবি বিন সামাদের তুমি যার লাগিয়া এমবি ভরো গানটির লাইন সামাজিক যোগাযোগমাধ্যমে মিম ও রিলসের মাধ্যমে নতুন করে ছড়িয়ে পড়েছে।",
-        "lead_en": "A line from Kobir Bin Samad song has resurfaced across social media platforms through memes, reels, and discussions.",
-        "bullets_bn": [
-          "কবির বিন সামাদের লেখা তুমি যার লাগিয়া এমবি ভরো গানের একটি বিশেষ লাইন সামাজিক যোগাযোগমাধ্যমে আলোচনার কেন্দ্রবিন্দুতে রয়েছে।",
-          "ফেসবুক ব্যবহারকারীরা গানটির লাইন ব্যবহার করে বিভিন্ন ধরনের হাস্যরসাত্মক মিম ও রিলস তৈরি করছেন।",
-          "সামাজিক মাধ্যমে এই ট্রেন্ডের কারণে পুরনো এই গানটি তরুণ প্রজন্মের মাঝে নতুনভাবে পরিচিতি লাভ করেছে।"
-        ],
-        "bullets_en": [
-          "A specific line from Kobir Bin Samad song has become a major focal point on social media platforms.",
-          "Facebook users are creating various humorous memes and reels incorporating the lyrical phrase.",
-          "The ongoing social media trend has introduced the classic track to a new generation of youth."
-        ],
-        "impact_bn": "সামাজিক মাধ্যমে অনলাইন ট্রেন্ড ও বিনোদনের প্রতি তরুণদের সম্পৃক্ততা বৃদ্ধি পায়।",
-        "impact_en": "Online entertainment trends drive higher user engagement across digital platforms.",
-        "details_bn": "সামাজিক যোগাযোগমাধ্যমে বিভিন্ন সময় পুরনো গান, সংলাপ বা কবিতার লাইন ট্রেন্ড হিসেবে ফিরে আসে। কবির বিন সামাদের এই গানটি এর আগেও বিভিন্ন সময় নেটিজেনদের মাঝে আলোচনার সৃষ্টি করেছিল। বর্তমান ডিজিটাল যুগে মিউজিক ট্র্যাকিং ও রিলস কালচারের কারণে পুরনো শিল্পকর্ম খুব দ্রুত নতুনভাবে ছড়িয়ে পড়ার সুযোগ পাচ্ছে, যা ডিজিটাল সংস্কৃতিতে একটি নিয়মিত ঘটনায় পরিণত হয়েছে।",
-        "details_en": "Older songs, dialogues, and poetic lines frequently resurface as viral trends on social media platforms. This particular track by Kobir Bin Samad has previously sparked online conversations. In the current digital landscape driven by reels and short video culture, older artistic works rapidly gain renewed traction among digital audiences."
-      }
-    },
-    {
-      "story_id": "15f4304d-ebc2-59cc-b52b-76ccbed58e88",
+      "story_id": "7167d8ec-caa5-585c-a35f-b3668f531897",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -127,222 +70,270 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T08:58:56+00:00",
+      "published_at": "2026-10-28T09:07:23+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.4,
-      "rank_score": 0.9522,
+      "importance_score": 4.8,
+      "rank_score": 1.2049,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1172887",
-          "title": "ইসরায়েলের শেয়ারবাজারে বড় পতন, কমেছে মুদ্রার মান",
-          "snippet": "ইসরায়েলের শেয়ারবাজারে বড় পতন, কমেছে মুদ্রার মান"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/usa/977261/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%82%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%95%E0%A6%BF%E0%A6%89%E0%A6%AC%E0%A6%BE%E0%A6%B0",
+          "title": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা, তুমুল বাগ্বিতণ্ডা",
+          "snippet": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা, তুমুল বাগ্বিতণ্ডা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "নির্বাচনী অনিশ্চয়তায় ইসরায়েলের শেয়ারবাজারে ধস এবং মুদ্রা শেকেলের পতন",
-        "title_en": "Israeli Stock Market Crashes and Currency Drops Amid Election Uncertainty",
-        "summary_bn": "নির্বাচনের প্রাথমিক ফলাফলে নতুন সরকার গঠন নিয়ে অনিশ্চয়তা দেখা দেওয়ায় ইসরায়েলের শেয়ারবাজারে বড় দরপতন ঘটেছে এবং মুদ্রার মান কমেছে।",
-        "summary_en": "Uncertainty surrounding the formation of a new government in initial election results has triggered a major slump in Israel's stock market.",
+        "title_bn": "জাতিসংঘে মার্কিন রাষ্ট্রদূতের বক্তৃতায় কিউবার পররাষ্ট্রমন্ত্রীর বাধা ও বাগ্বিতণ্ডা",
+        "title_en": "Cuban Foreign Minister Interrupts US Envoy at UN Leading to Clash",
+        "summary_bn": "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্য চলাকালীন মঞ্চে গিয়ে বাধা দেন কিউবার পররাষ্ট্রমন্ত্রী, যা দুই দেশের মধ্যে উত্তেজনার সৃষ্টি করে।",
+        "summary_en": "The Cuban Foreign Minister interrupted the US UN envoy during a General Assembly address, sparking a heated exchange.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T08:58:56+00:00",
-        "lead_bn": "নির্বাচনের প্রাথমিক ফলাফলে নতুন সরকার গঠন নিয়ে অনিশ্চয়তা দেখা দেওয়ায় ইসরায়েলের শেয়ারবাজারে বড় দরপতন ঘটেছে এবং মুদ্রার মান কমেছে।",
-        "lead_en": "Uncertainty surrounding the formation of a new government in initial election results has triggered a major slump in Israel's stock market.",
+        "published_at": "2026-10-28T09:07:23+00:00",
+        "lead_bn": "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্য চলাকালীন মঞ্চে গিয়ে বাধা দেন কিউবার পররাষ্ট্রমন্ত্রী, যা দুই দেশের মধ্যে উত্তেজনার সৃষ্টি করে।",
+        "lead_en": "The Cuban Foreign Minister interrupted the US UN envoy during a General Assembly address, sparking a heated exchange.",
         "bullets_bn": [
-          "প্রাথমিক নির্বাচনী ফলাফলে রাজনৈতিক অনিশ্চয়তা সৃষ্টি হওয়ায় ইসরায়েলের শেয়ারবাজারে বড় ধরনের দরপতন রেকর্ড করা হয়েছে।",
-          "শেয়ারবাজারের পতনের পাশাপাশি মার্কিন ডলারের বিপরীতে দেশটির মুদ্রা শেকেলের মূল্য উল্লেখযোগ্যভাবে হ্রাস পেয়েছে।",
-          "রাজনৈতিক পরিস্থিতি স্থিতিশীল না হওয়া পর্যন্ত এই অর্থনৈতিক অস্থিরতা অব্যাহত থাকতে পারে বলে আশঙ্কা করা হচ্ছে।"
+          "জাতিসংঘ সাধারণ পরিষদে যুক্তরাষ্ট্রের রাষ্ট্রদূতের বক্তব্যের সময় কিউবার পররাষ্ট্রমন্ত্রী মঞ্চের দিকে এগিয়ে গিয়ে বাধা প্রদান করেন।",
+          "মার্কিন রাষ্ট্রদূত মাইক ওয়াল্টজ কিউবার সরকারের বিরুদ্ধে তাদের নেতাদের সম্পদশালী করা এবং সাধারণ জনগণের দুর্ভোগ সৃষ্টির অভিযোগ তোলেন।",
+          "ঘটনার পর মার্কিন রাষ্ট্রদূত কিউবার মন্ত্রীকে তার স্থানে পিছিয়ে যাওয়ার নির্দেশ দেন এবং আন্তর্জাতিক মঞ্চে এই বিতণ্ডা প্রকাশ পায়।"
         ],
         "bullets_en": [
-          "Political uncertainty arising from initial election results triggered a major downturn in Israel's stock market.",
-          "Alongside the stock market crash, the country's currency shekel weakened significantly against the US dollar.",
-          "This economic volatility is expected to persist until political stability is established."
+          "The Cuban Foreign Minister walked toward the podium to interrupt the US ambassador during a UN General Assembly session.",
+          "US Ambassador Mike Waltz accused the Cuban government of enriching its leaders while the general population suffers.",
+          "Following the interruption, the US envoy told the Cuban minister to step back as tensions flared on the international stage."
         ],
-        "impact_bn": "মুদ্রার মান কমে যাওয়ায় ইসরায়েলের সাধারণ ভোক্তাদের জন্য আমদানি ব্যয় এবং নিত্যপণ্যের দাম বাড়তে পারে।",
-        "impact_en": "The depreciation of the currency may increase import costs and everyday commodity prices for ordinary consumers in Israel.",
-        "details_bn": "ইসরায়েলে সাম্প্রতিক সাধারণ নির্বাচনের প্রাথমিক ফলাফল প্রকাশের পর কোনো একক দল বা জোটের পরিষ্কার সংখ্যাগরিষ্ঠতা নিয়ে সংশয় তৈরি হয়। রাজনৈতিক এই অচলাবস্থার কারণে দেশটির বিনিয়োগকারী ও ব্যবসায়িক মহলে নেতিবাচক প্রভাব পড়ে। এর ফলে শেয়ারবাজারে বিক্রির চাপ বৃদ্ধি পায় এবং বৈদেশিক মুদ্রার বাজারে শেকেলের দরপতন ঘটে। বিশ্লেষকরা মনে করছেন, স্থায়ী সরকার গঠিত না হওয়া পর্যন্ত বাজার এই চাপের মধ্যে থাকবে।",
-        "details_en": "Following the release of preliminary results in Israel's recent general election, doubts emerged over securing a clear majority for a single party or coalition. This political deadlock negatively impacted the country's investors and business community, increasing selling pressure in the stock market and driving down the shekel in foreign exchange markets. Analysts suggest the market will remain under pressure until a stable government is formed."
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "জাতিসংঘ সাধারণ পরিষদের অধিবেশনে বিভিন্ন দেশের প্রতিনিধিদের মধ্যকার কূটনৈতিক দ্বৈরথ নতুন নয়। যুক্তরাষ্ট্র ও কিউবার দীর্ঘদিনের রাজনৈতিক বৈরিতার ইতিহাস রয়েছে। সাম্প্রতিক সময়ে কিউবার অর্থনৈতিক সংকট এবং দেশটির শাসন ব্যবস্থা নিয়ে আন্তর্জাতিক অঙ্গনে ওয়াশিংটন ও হাভানার মধ্যকার বাকযুদ্ধ আরও তীব্র হয়েছে। জাতিসংঘে এই ধরনের ঘটনা বিশ্বমঞ্চে দুই দেশের চলমান ভূরাজনৈতিক বিরোধের বহিঃপ্রকাশ।",
+        "details_en": "Diplomatic friction at the UN General Assembly is not uncommon, given the long-standing political hostility between the US and Cuba. Washington and Havana have increasingly clashed on international platforms regarding Cuba's ongoing economic crisis and governance. This confrontation at the UN highlights the persistent geopolitical rivalry between the two nations."
       }
     },
     {
-      "story_id": "6e247a97-e1a8-590a-8114-948df041867a",
+      "story_id": "b9a4521d-03dd-5d59-85d3-356abc1f79ea",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law",
-        "climate_environment"
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/11-party-alliance.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T07:32:52+00:00",
+      "published_at": "2026-10-28T10:00:38+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 0.9521,
+      "importance_score": 2.4,
+      "rank_score": 0.9695,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/dissatisfaction-over-thakurgaon-by-election-11-party-alliance-holds-meeting-with-cec/",
-          "title": "ঠাকুরগাঁও উপনির্বাচন নিয়ে অসন্তোষের মধ্যে সিইসির সঙ্গে ১১ দলের বৈঠক",
-          "snippet": "ঠাকুরগাঁও উপনির্বাচন নিয়ে অসন্তোষের মধ্যে সিইসির সঙ্গে ১১ দলের বৈঠক"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172932",
+          "title": "‘বকেয়া বিলে’ ঝুলে আছে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ",
+          "snippet": "‘বকেয়া বিলে’ ঝুলে আছে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ঠাকুরগাঁও উপনির্বাচনের পরিবেশ নিয়ে প্রধান নির্বাচন কমিশনারের সাথে ১১ দলীয় জোটের বৈঠক",
-        "title_en": "Eleven Party Alliance Meets Chief Election Commissioner Over Thakurgaon Polls Environment",
-        "summary_bn": "ঠাকুরগাঁও উপনির্বাচনের ভোট গ্রহণের আগের দিন নির্বাচন কমিশনের সাথে বৈঠক করেছে জামায়াত নেতৃত্বাধীন ১১ দলীয় ঐক্যজোট।",
-        "summary_en": "The Jamaat-led eleven-party alliance met the Election Commission to discuss the electoral environment ahead of the Thakurgaon by-election.",
+        "title_bn": "বকেয়া বিলের কারণে কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ স্থগিত রয়েছে",
+        "title_en": "Construction of Kalai Municipal Auditorium Suspended Due to Unpaid Bills",
+        "summary_bn": "ঠিকাদারি প্রতিষ্ঠানের বকেয়া বিল পরিশোধ না করায় কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ থমকে গেছে।",
+        "summary_en": "Construction work on the Kalai Municipal Auditorium remains stalled due to unpaid bills owed to the contractor.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "governance_law"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T10:00:38+00:00",
+        "lead_bn": "ঠিকাদারি প্রতিষ্ঠানের বকেয়া বিল পরিশোধ না করায় কালাই পৌর অডিটোরিয়ামের নির্মাণকাজ থমকে গেছে।",
+        "lead_en": "Construction work on the Kalai Municipal Auditorium remains stalled due to unpaid bills owed to the contractor.",
+        "bullets_bn": [
+          "ঠিকাদারি প্রতিষ্ঠানকে পাওনা পরিশোধ না করায় নির্মাণকাজ সম্পূর্ণ বন্ধ রয়েছে।",
+          "প্রয়োজনীয় তহবিলের অভাবে প্রকল্পের নির্ধারিত মেয়াদ শেষ হলেও কাজ সম্পন্ন হয়নি।",
+          "দ্রুত বকেয়া পরিশোধ করে নির্মাণকাজ পুনরায় চালুর জন্য সংশ্লিষ্ট কর্তৃপক্ষের নিকট দাবি জানানো হয়েছে।"
+        ],
+        "bullets_en": [
+          "Construction work remains entirely halted as the contractor has not received due payments.",
+          "The project missed its completion deadline due to a severe shortage of allocated funds.",
+          "Local stakeholders have urged authorities to clear pending dues and resume construction promptly."
+        ],
+        "impact_bn": "নির্মাণকাজ স্থগিত থাকায় স্থানীয় বাসিন্দারা নির্ধারিত নাগরিক ও সাংস্কৃতিক সুবিধা থেকে বঞ্চিত হচ্ছেন।",
+        "impact_en": "Local residents are deprived of essential civic and cultural facilities due to the prolonged construction delay.",
+        "details_bn": "কালাই পৌর অডিটোরিয়াম নির্মাণ প্রকল্পটি এলাকার সাংস্কৃতিক ও সামাজিক কার্যক্রম বাড়ানোর উদ্দেশ্যে হাতে নেওয়া হয়েছিল। তবে আর্থিক জটিলতা ও ঠিকাদারের বকেয়া বিল পরিশোধ নিয়ে দীর্ঘসূত্রতার কারণে প্রকল্পের মূল কাজ অনেক দিন ধরেই থমকে আছে। স্থানীয় জনগণ বারবার দাবি জানালেও তহবিল সংকট কাটেনি।",
+        "details_en": "The Kalai Municipal Auditorium project was initiated to expand local cultural and social activities in the area. However, prolonged financial complications and delays in settling contractor dues have left the project stalled for an extended period, despite continuous public demands for completion."
+      }
+    },
+    {
+      "story_id": "186e64e8-53a1-5384-9aaf-7d8e2e960556",
+      "primary_category": "governance_law",
+      "interest_categories": [
+        "governance_law",
+        "economy_business"
+      ],
+      "region": "national",
+      "tags": [
+        "#Bangladesh",
+        "#Governance"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-28T10:00:10+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 2.4,
+      "rank_score": 0.9646,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/country/news/1172930",
+          "title": "শাশুড়িকে ডেকে নিয়ে হত্যার পর মরদেহ গুম, জামাতার যাবজ্জীবন",
+          "snippet": "শাশুড়িকে ডেকে নিয়ে হত্যার পর মরদেহ গুম, জামাতার যাবজ্জীবন"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "হবিগঞ্জে শাশুড়ি হত্যায় জামাতার যাবজ্জীবন কারাদণ্ড",
+        "title_en": "Son-in-law sentenced to life in prison for mother-in-law murder in Habiganj",
+        "summary_bn": "হবিগঞ্জের চুনারুঘাটে সাতছড়ি জাতীয় উদ্যানে শাশুড়িকে ডেকে নিয়ে হত্যার দায়ে জামাতাকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।",
+        "summary_en": "A court sentenced a son-in-law to life imprisonment for luring and murdering his mother-in-law in Habiganj.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law",
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T10:00:10+00:00",
+        "lead_bn": "হবিগঞ্জের চুনারুঘাটে সাতছড়ি জাতীয় উদ্যানে শাশুড়িকে ডেকে নিয়ে হত্যার দায়ে জামাতাকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত।",
+        "lead_en": "A court sentenced a son-in-law to life imprisonment for luring and murdering his mother-in-law in Habiganj.",
+        "bullets_bn": [
+          "সাতছড়ি জাতীয় উদ্যানে কৌশলে ডেকে নিয়ে শাশুড়িকে হত্যা করেন ওই ব্যক্তি।",
+          "আদালত আসামিকে যাবজ্জীবন কারাদণ্ডের পাশাপাশি ১০ হাজার টাকা জরিমানা ও অনাদায়ে আরও ছয় মাসের কারাদণ্ড দিয়েছেন।",
+          "দীর্ঘ আইনি প্রক্রিয়া ও সাক্ষ্যগ্রহণ শেষে আদালত এই রায় ঘোষণা করেন।"
+        ],
+        "bullets_en": [
+          "The convict lured his mother-in-law to the Rauschari National Park and murdered her.",
+          "The court sentenced the accused to life imprisonment along with a fine of 10,000 taka or an additional six months in jail.",
+          "The court delivered the verdict following a prolonged legal process and witness testimonies."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "হবিগঞ্জের চুনারুঘাট উপজেলার সাতছড়ি জাতীয় উদ্যান এলাকায় সংঘটিত এই হত্যাকাণ্ডের ঘটনায় নিহতের পরিবার মামলা দায়ের করে। পুলিশ তদন্ত শেষে আদালতে চার্জশিট দাখিল করলে বিচারিক প্রক্রিয়া শুরু হয়। সাক্ষ্যপ্রমাণ ও দীর্ঘ শুনানির পর আদালত এই রায় প্রদান করেন।",
+        "details_en": "Following the murder incident in the Satchari National Park area of Habiganj, the victim's family filed a case. The police submitted a charge sheet after investigation, initiating the judicial process. The court delivered the verdict after testimonies and prolonged hearings."
+      }
+    },
+    {
+      "story_id": "e80ced20-f50c-5c32-8e05-3817e7c17232",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy"
+      ],
+      "region": "international",
+      "tags": [
+        "#RussiaAfrica",
+        "#ForeignPolicy",
+        "#GlobalTrade"
+      ],
+      "image_url": "https://static.dw.com/image/71403682_6.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-28T10:00:51.146395+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.6883,
+      "sources": [
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+          "title": "Russia in Africa: What is Putin hoping to achieve?",
+          "snippet": "Russia in Africa: What is Putin hoping to achieve?"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "আফ্রিকা মহাদেশে কূটনৈতিক সম্পর্ক ও প্রভাব বিস্তারের চেষ্টা করছে রাশিয়া",
+        "title_en": "Russia Seeks to Expand Diplomatic Influence and Trade Partnerships Across Africa",
+        "summary_bn": "ইউক্রেন যুদ্ধের পর বৈশ্বিক সমর্থন ও বাণিজ্যিক সম্পর্ক বাড়াতে আফ্রিকা মহাদেশে কূটনীতি জোরদার করছে রাশিয়া।",
+        "summary_en": "Russia is aggressively expanding diplomatic ties and economic partnerships across Africa to secure global support following the Ukraine conflict.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-28T10:00:51.146395+00:00",
+        "lead_bn": "ইউক্রেন যুদ্ধের পর বৈশ্বিক সমর্থন ও বাণিজ্যিক সম্পর্ক বাড়াতে আফ্রিকা মহাদেশে কূটনীতি জোরদার করছে রাশিয়া।",
+        "lead_en": "Russia is aggressively expanding diplomatic ties and economic partnerships across Africa to secure global support following the Ukraine conflict.",
+        "bullets_bn": [
+          "ইউক্রেন সংঘাতের জেরে পশ্চিমা নিষেধাজ্ঞার মুখে পড়ে আন্তর্জাতিক মিত্র ও বাণিজ্য অংশীদার বাড়াতে তৎপর হয়েছে মস্কো।",
+          "মিশরের সাথে দ্বিপক্ষীয় বাণিজ্য দ্বিগুণ হয়ে ১০ দশমিক ৫ বিলিয়ন ডলারে পৌঁছেছে এবং আলজেরিয়াও রাশিয়ার প্রধান অংশীদার।",
+          "দীর্ঘমেয়াদে আফ্রিকান বাজারে প্রবেশ এবং প্রভাব বিস্তারের কৌশল হিসেবে মিশরের এল-দাবাআ অঞ্চলে পারমাণবিক বিদ্যুৎকেন্দ্র নির্মাণ করছে রাশিয়া।"
+        ],
+        "bullets_en": [
+          "Moscow is aggressively seeking alternative global alliances and trade partners to counter Western isolation following the Ukraine conflict.",
+          "Bilateral trade with Egypt doubled to 10.5 billion dollars, while Algeria and Egypt remain Moscow's primary African economic partners.",
+          "Russia is financing and constructing a massive nuclear power plant in Egypt to cement long-term strategic access to African markets."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "ইউক্রেনে রাশিয়ার সামরিক অভিযানের পর পশ্চিমা বিশ্বের সাথে সম্পর্কের অবনতি ঘটলে মস্কো নতুন মিত্র সন্ধানের অংশ হিসেবে আফ্রিকান দেশগুলোর দিকে মনোযোগ দেয়। বিগত কয়েক বছর ধরে রুশ শীর্ষ কূটনীতিকদের ঘন ঘন আফ্রিকা সফর এবং উচ্চপর্যায়ের সম্মেলনের মাধ্যমে জ্বালানি, বাণিজ্য ও নিরাপত্তা খাতে সহযোগিতা বাড়ানোর চেষ্টা চলছে। তবে উত্তর আফ্রিকার কয়েকটি দেশের সাথে বাণিজ্য সফল হলেও মহাদেশের অন্যান্য অঞ্চলে এখনো উল্লেখযোগ্য অগ্রগতি অর্জন করতে পারেনি মস্কো।",
+        "details_en": "Following the full-scale invasion of Ukraine and subsequent Western sanctions, Russian President Vladimir Putin pivoted toward expanding diplomatic and economic ties with African nations. Moscow has prioritized high-level visits and regular summits focusing on trade, security, and energy cooperation. While trade remains heavily concentrated in North African nations like Egypt and Algeria, efforts to establish a broader continental footprint face mixed results and limited success across Sub-Saharan Africa."
+      }
+    },
+    {
+      "story_id": "75da59cf-5e37-5044-a754-5df4ae9ed9eb",
+      "primary_category": "climate_environment",
+      "interest_categories": [
+        "climate_environment"
+      ],
+      "region": "international",
+      "tags": [
+        "#ClimateAction",
+        "#Climate",
+        "#Environment"
+      ],
+      "image_url": "https://insideclimatenews.org/wp-content/uploads/2026/10/GettyImages-2269596854-1024x683.jpg",
+      "image_caption": null,
+      "published_at": "2026-10-28T08:55:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.3902,
+      "sources": [
+        {
+          "name": "Inside Climate News",
+          "url": "https://insideclimatenews.org/news/28102026/midterm-elections-climate-impact/",
+          "title": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages",
+          "snippet": "Climate Is on the Ballot, Even if It’s Not in Candidates’ Campaign Messages"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে জলবায়ু নীতি ও জীবাশ্ম জ্বালানি নিয়ন্ত্রণের সুযোগ তৈরি হয়েছে",
+        "title_en": "US Midterm Elections Shape Future Climate Policies and Fossil Fuel Regulations",
+        "summary_bn": "যুক্তরাষ্ট্রের নির্বাচনে ভোটাররা কংগ্রেসের নিয়ন্ত্রণ নির্ধারণ করবেন যা ভবিষ্যতের বৈশ্বিক জলবায়ু নীতি এবং জীবাশ্ম জ্বালানি সম্প্রসারণকে সরাসরি প্রভাবিত করবে।",
+        "summary_en": "US voters will determine congressional control in elections that directly impact future global climate policies and fossil fuel expansion.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
           "climate_environment"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T07:32:52+00:00",
-        "lead_bn": "ঠাকুরগাঁও উপনির্বাচনের ভোট গ্রহণের আগের দিন নির্বাচন কমিশনের সাথে বৈঠক করেছে জামায়াত নেতৃত্বাধীন ১১ দলীয় ঐক্যজোট।",
-        "lead_en": "The Jamaat-led eleven-party alliance met the Election Commission to discuss the electoral environment ahead of the Thakurgaon by-election.",
+        "published_at": "2026-10-28T08:55:00+00:00",
+        "lead_bn": "যুক্তরাষ্ট্রের নির্বাচনে ভোটাররা কংগ্রেসের নিয়ন্ত্রণ নির্ধারণ করবেন যা ভবিষ্যতের বৈশ্বিক জলবায়ু নীতি এবং জীবাশ্ম জ্বালানি সম্প্রসারণকে সরাসরি প্রভাবিত করবে।",
+        "lead_en": "US voters will determine congressional control in elections that directly impact future global climate policies and fossil fuel expansion.",
         "bullets_bn": [
-          "জামায়াতে ইসলামীর সহকারী সেক্রেটারি জেনারেল ড. এ এইচ এম হামিদুর রহমান আযাদের নেতৃত্বে একটি প্রতিনিধি দল নির্বাচন ভবনে প্রধান নির্বাচন কমিশনারের সাথে বৈঠক করেন।",
-          "বৈঠকে ঠাকুরগাঁও-১ আসনের উপনির্বাচন এবং আসন্ন স্থানীয় সরকার নির্বাচন নিয়ে আলোচনা হয় ও লিখিত প্রস্তাব জমা দেওয়া হয়।",
-          "জোটের পক্ষ থেকে স্থানীয় সরকার নির্বাচনে সুষ্ঠু পরিবেশ নিশ্চিত করার বিষয়ে বিভিন্ন সুপারিশ তুলে ধরা হয়।"
+          "কংগ্রেসে ডেমক্র্যাটরা জয়ী হলে জীবাশ্ম জ্বালানি নীতি ও সরকারি খরচের ওপর নিয়ন্ত্রণ প্রতিষ্ঠা করতে পারে।",
+          "জলবায়ু কর্মী বিল ম্যাককিবেন সতর্ক করেছেন যে ২০২৮ সালের নির্বাচন জলবায়ু সুরক্ষার শেষ সুযোগ হতে পারে।",
+          "ডেমোক্র্যাটরা প্রতিনিধি পরিষদে সংখ্যাগরিষ্ঠতা পেলে প্রেসিডেন্ট ট্রাম্পের প্রশাসনের ক্ষমতা খর্ব করতে পারবে।"
         ],
         "bullets_en": [
-          "A delegation led by Jamaat-e-Islami Assistant Secretary General Dr. A H M Hamidur Rahman Azad met the Chief Election Commissioner at the election building.",
-          "Discussions covered the Thakurgaon-1 by-election and upcoming local government elections, accompanied by a submitted written proposal.",
-          "The alliance presented various recommendations to ensure a fair environment for the upcoming local government elections."
+          "Democratic victories in Congress could establish oversight over fossil fuel policies and government spending.",
+          "Climate activist Bill McKibben warned that the 2028 election may be the final window for climate protection.",
+          "House majorities for Democrats would allow them to curb the Trump administration's executive authority."
         ],
-        "impact_bn": "নির্বাচনী পরিবেশ নিয়ে রাজনৈতিক জোটের এই আলোচনা সাধারণ ভোটারদের মধ্যে অবাধ ও নিরপেক্ষ ভোটাধিকার নিয়ে আস্থা ফেরাতে ভূমিকা রাখবে।",
-        "impact_en": "This dialogue on the electoral environment by political alliances helps restore ordinary voters' confidence in free and fair elections.",
-        "details_bn": "আসন্ন স্থানীয় সরকার নির্বাচন কতটা নিরপেক্ষ ও গ্রহণযোগ্য হবে তা নিয়ে আগেই উদ্বেগ প্রকাশ করেছিল জামায়াতে ইসলামী নেতৃত্বাধীন ১১ দলীয় ঐক্য। এছাড়া ঠাকুরগাঁও-১ আসনের উপনির্বাচনের প্রচারণার সময় ক্ষমতাসীন দলের বিরুদ্ধে নির্বাচনি অনিয়ম ও আচরণবিধি লঙ্ঘনের অভিযোগ তুলেছিল তারা। এসব উদ্বেগের পরিপ্রেক্ষিতে প্রধান নির্বাচন কমিশনার এ এম এম নাসির উদ্দিন এবং অন্যান্য কমিশনারদের সাথে এই গুরুত্বপূর্ণ বৈঠক অনুষ্ঠিত হয়।",
-        "details_en": "The Jamaat-led eleven-party alliance had previously expressed concerns over the neutrality and acceptability of upcoming local government elections. They also filed formal complaints with the Election Commission alleging electoral irregularities and code of conduct violations by the ruling party during Thakurgaon-1 campaign. In response to these concerns, the delegation held this crucial meeting with Chief Election Commissioner AMM Nasir Uddin and other commissioners."
-      }
-    },
-    {
-      "story_id": "83a58d59-a140-54fb-af94-38b4436c6d4b",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "international",
-      "tags": [
-        "#IsraeliEmbassy",
-        "#Serbia",
-        "#CounterTerrorism",
-        "#Belgrade"
-      ],
-      "image_url": "https://static.dw.com/image/79783016_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-28T09:00:48.331283+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6882,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-rdf",
-          "title": "Serbian police shoot dead assailant at Israeli Embassy",
-          "snippet": "Serbian police shoot dead assailant at Israeli Embassy"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "সার্বিয়ার ইসরায়েলি দূতাবাসের বাইরে পুলিশের গুলিতে হামলাকারী নিহত",
-        "title_en": "Serbian Police Shoot Dead Assailant at Israeli Embassy",
-        "summary_bn": "বেলগ্রেডে ইসরায়েলি দূতাবাসের এক পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে চালানো গুলিতে সন্দেহভাজন হামলাকারী নিহত হয়।",
-        "summary_en": "A knife-wielding assailant was shot dead by police after attacking a guard outside the Israeli Embassy in Belgrade.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T09:00:48.331283+00:00",
-        "lead_bn": "বেলগ্রেডে ইসরায়েলি দূতাবাসের এক পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে চালানো গুলিতে সন্দেহভাজন হামলাকারী নিহত হয়।",
-        "lead_en": "A knife-wielding assailant was shot dead by police after attacking a guard outside the Israeli Embassy in Belgrade.",
-        "bullets_bn": [
-          "ইসরায়েলি দূতাবাসের বাইরে পুলিশ গার্ডকে ছুরিকাঘাত করার পর আত্মরক্ষার্থে হামলাকারীকে গুলি করে হত্যা করা হয়।",
-          "স্বরাষ্ট্রমন্ত্রী ইভিকা ডাচিক জানান হামলাকারী ইসলামিক স্টেটের সমর্থক ছিল এবং ঘটনার সময় সে আল্লাহু আকবার ধ্বনি দেয়।",
-          "এই ঘটনার পর সার্বিয়া জুড়ে সন্ত্রাসী হামলার সর্বোচ্চ সতর্কতা বা রেড অ্যালার্ট জারি করা হয়েছে।"
-        ],
-        "bullets_en": [
-          "The assailant was shot dead in self defense after attacking a police guard outside the Israeli embassy.",
-          "Interior Minister Ivica Dacic confirmed the attacker supported the Islamic State and shouted God is great during the assault.",
-          "Serbian authorities elevated the national terrorism threat level to red alert following the embassy attack."
-        ],
-        "impact_bn": "এই ঘটনায় দূতাবাস ও সংবেদনশীল স্থাপনাগুলোর আশপাশে নিরাপত্তা জোরদার করা হয়েছে এবং নাগরিকদের বাড়তি সতর্কতা অবলম্বনের নির্দেশ দেওয়া হয়েছে।",
-        "impact_en": "Security measures and police presence have been significantly increased around sensitive sites and diplomatic missions following the attack.",
-        "details_bn": "বেলগ্রেডে অবস্থিত ইসরায়েলি দূতাবাসের বাইরে এই হামলার ঘটনা ঘটে। সার্বিয়ার স্বরাষ্ট্র মন্ত্রণালয়ের তথ্য অনুযায়ী, সন্দেহভাজন হামলাকারী দেশটির নিরাপত্তা সংস্থার নজরদারিতে ছিল। আইনশৃঙ্খলা রক্ষাকারী বাহিনী ঘটনাটিকে সন্ত্রাসী হামলা হিসেবে চিহ্নিত করে দেশজুড়ে সর্বোচ্চ সতর্কতা জারি করেছে এবং তদন্ত অব্যাহত রেখেছে।",
-        "details_en": "The incident unfolded outside the Israeli Embassy in the Serbian capital of Belgrade when a knife-wielding assailant attacked a security guard. Serbian security agencies identified the attacker as a minor with alleged ties to the Islamic State. Authorities responded by elevating the national terror threat level to red alert and increasing police deployment across sensitive infrastructure."
-      }
-    },
-    {
-      "story_id": "557d64b6-382d-5dca-933f-e5a647689261",
-      "primary_category": "climate_environment",
-      "interest_categories": [
-        "climate_environment",
-        "world_diplomacy",
-        "society_education"
-      ],
-      "region": "international",
-      "tags": [
-        "#ClimateCrisis",
-        "#GlobalHealth",
-        "#LancetCountdown"
-      ],
-      "image_url": "https://static.dw.com/image/69108117_6.jpg",
-      "image_caption": null,
-      "published_at": "2026-10-28T09:00:48.331283+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.6882,
-      "sources": [
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-          "title": "Experts urge 'global health emergency' as climate harms accelerate",
-          "snippet": "Experts urge 'global health emergency' as climate harms accelerate"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জলবায়ু সংকটকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণার আহ্বান গবেষকদের",
-        "title_en": "Researchers Urge Global Health Emergency As Climate Harms Accelerate",
-        "summary_bn": "বিশ্বজুড়ে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
-        "summary_en": "Nearly 150 global researchers call for declaring climate change a global health emergency as planetary heating accelerates heat deaths and disease.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "climate_environment",
-          "world_diplomacy",
-          "society_education"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T09:00:48.331283+00:00",
-        "lead_bn": "বিশ্বজুড়ে তাপপ্রবাহ ও স্বাস্থ্যঝুঁকি মারাত্মকভাবে বৃদ্ধি পাওয়ায় জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা ঘোষণা করার দাবি জানিয়েছেন প্রায় দেড়শ গবেষক।",
-        "lead_en": "Nearly 150 global researchers call for declaring climate change a global health emergency as planetary heating accelerates heat deaths and disease.",
-        "bullets_bn": [
-          "প্রায় ৩০টি দেশের প্রায় ১৫০ জন গবেষক জলবায়ু পরিবর্তনকে বৈশ্বিক স্বাস্থ্য জরুরি অবস্থা হিসেবে ঘোষণার দাবি তুলেছেন।",
-          "সালে বিশ্বব্যাপী অতিরিক্ত তাপমাত্রার কারণে সাড়ে পাঁচ লাখেরও বেশি মানুষের মৃত্যু হয়েছে এবং ক্ষতি হয়েছে ১.০৭ ট্রিলিয়ন ডলার।",
-          "মানুষের জীবন বাঁচানো এবং সুস্বাস্থ্য নিশ্চিত করাকে জলবায়ু পদক্ষেপের মূল কেন্দ্রবিন্দুতে রাখার আহ্বান জানিয়েছেন গবেষকরা।"
-        ],
-        "bullets_en": [
-          "Nearly 150 researchers from over 30 countries are urging leaders to declare climate change a global health emergency.",
-          "Heat exposure caused over half a million deaths in 2023 alone and cost the global economy an estimated 1.07 trillion dollars.",
-          "Experts demand that human health and well-being be placed at the core of global climate action strategies."
-        ],
-        "impact_bn": "তীব্র তাপপ্রবাহ ও খাদ্যনিরাপত্তাহীনতা সরাসরি সাধারণ মানুষের জীবনযাত্রা ও দীর্ঘমেয়াদী স্বাস্থ্যঝুঁকি বাড়িয়ে দিচ্ছে।",
-        "impact_en": "Accelerating heatwaves and climate-driven health hazards directly threaten daily livelihoods, food supplies, and public health outcomes.",
-        "details_bn": "প্যারিস জলবায়ু চুক্তি স্বাক্ষরের পর থেকে বৈশ্বিক তাপমাত্রা বৃদ্ধির ফলে স্বাস্থ্য ও অর্থনীতিতে মারাত্মক প্রভাব পড়েছে। ল্যানসেট কাউন্টডাউনের সাম্প্রতিক প্রতিবেদনে উঠে এসেছে যে, চরম তাপপ্রবাহের কারণে মৃত্যুর হার এবং খরা পরিস্থিতি আশঙ্কাজনকভাবে বৃদ্ধি পেয়েছে, যা বিশ্বজুড়ে মানবস্বাস্থ্যের জন্য এক নজিরবিহীন হুমকি তৈরি করেছে।",
-        "details_en": "The landmark Paris climate agreement aimed to curb global warming, but planetary heating has escalated significantly over the past decade. According to the annual Lancet Countdown report, extreme heat caused millions of deaths and trillions in economic losses since 2016, driving experts to warn that current emission targets fail to protect public health."
+        "impact_bn": "এই নির্বাচন বিশ্বজুড়ে উষ্ণতা বৃদ্ধি রোধ এবং দীর্ঘমেয়াদি পরিবেশগত নিরাপত্তায় সরাসরি প্রভাব ফেলবে।",
+        "impact_en": "These elections directly influence global efforts to curb warming temperatures and ensure long-term environmental safety.",
+        "details_bn": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনকে জলবায়ু কর্মীরা প্যারিস চুক্তির তাপমাত্রা বৃদ্ধির সীমা রক্ষা করার একটি গুরুত্বপূর্ণ মুহূর্ত হিসেবে দেখছেন। ট্রাম্প প্রশাসনের জীবাশ্ম জ্বালানি সমর্থিত নীতির কারণে কৃত্রিম বুদ্ধিমত্তা ও ডেটা সেন্টারের মতো নতুন খাতের পরিবেশগত ঝুঁকি মোকাবিলা করা কঠিন হয়ে পড়েছে। ঐতিহাসিক তথ্য অনুযায়ী মার্কিন মধ্যবর্তী নির্বাচনে প্রেসিডেন্টের দল সাধারণত আসন হারায় এবং বর্তমানে ট্রাম্পের অনুমোদনের হার রেকর্ড কম ৩ শতাংশে নেমেছে।",
+        "details_en": "Climate advocates view the US midterm elections as a crucial moment to protect Paris Agreement warming thresholds. The Trump administration's pro-fossil fuel policies have complicated efforts to address environmental risks from artificial intelligence and data centers. Historically, the president's party tends to lose ground in midterms, and Trump's approval rating has dropped to a record low of 33 percent."
       }
     }
   ]
