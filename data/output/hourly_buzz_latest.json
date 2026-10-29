@@ -1,66 +1,121 @@
 {
-  "updated_at": "2026-10-28T17:00:46.467989",
+  "updated_at": "2026-10-29T12:13:54.945554",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "cdf29c1c-ce59-56ef-9093-94003d9fcce8",
+      "story_id": "29484c2b-3906-557c-a0c5-e5fb99d015d5",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy",
-        "economy_business"
+        "world_diplomacy"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Humayun-1.jpg?w=1200",
+      "image_url": "https://media.channelionline.com/2026/10/Bangladesh-Airlines.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-28T16:21:40+00:00",
+      "published_at": "2026-10-29T12:12:55+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 9.0,
-      "rank_score": 2.5275,
+      "importance_score": 6.6,
+      "rank_score": 2.6437,
       "sources": [
         {
           "name": "Channel i",
-          "url": "https://www.channelionline.com/prime-ministers-japan-visit-has-given-a-new-dimension-to-bilateral-relations-humayun-kabir/",
-          "title": "প্রধানমন্ত্রীর জাপান সফরে দ্বিপক্ষীয় সম্পর্ক নতুন মাত্রা পেয়েছে: হুমায়ুন কবীর",
-          "snippet": "প্রধানমন্ত্রীর জাপান সফরে দ্বিপক্ষীয় সম্পর্ক নতুন মাত্রা পেয়েছে: হুমায়ুন কবীর"
+          "url": "https://www.channelionline.com/the-prime-ministers-flight-was-delayed-due-to-a-mechanical-fault/",
+          "title": "যান্ত্রিক ত্রুটির কারণে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত",
+          "snippet": "যান্ত্রিক ত্রুটির কারণে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত"
         }
       ],
       "daily_buzz": {
-        "title_bn": "বাংলাদেশ ও জাপানের দ্বিপক্ষীয় সম্পর্ক নতুন উচ্চতায় পৌঁছেছে বলে জানিয়েছে পররাষ্ট্র মন্ত্রণালয়",
-        "title_en": "Bangladesh and Japan Bilateral Ties Reach New Heights Says Foreign Ministry",
-        "summary_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের মধ্য দিয়ে ঢাকা ও টোকিওর দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা নতুন মাত্রা লাভ করেছে।",
-        "summary_en": "Bilateral relations and economic cooperation between Dhaka and Tokyo reached new heights through the Japan visit of Prime Minister Tarique Rahman.",
+        "title_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা বিমানবন্দরে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত",
+        "title_en": "Prime Minister flight delayed at Narita airport due to mechanical fault",
+        "summary_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে প্রধানমন্ত্রীর নির্ধারিত ফ্লাইট উড্ডয়নে বিলম্ব হয়।",
+        "summary_en": "The Prime Minister return flight from Narita International Airport to Dhaka experiences delays due to a mechanical fault.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "world_diplomacy"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-29T12:12:55+00:00",
+        "lead_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে প্রধানমন্ত্রীর নির্ধারিত ফ্লাইট উড্ডয়নে বিলম্ব হয়।",
+        "lead_en": "The Prime Minister return flight from Narita International Airport to Dhaka experiences delays due to a mechanical fault.",
+        "bullets_bn": [
+          "বিমান বাংলাদেশ এয়ারলাইন্সের ফ্লাইট বিজি ৩৭৭ যান্ত্রিক ত্রুটির মুখে পড়ে।",
+          "ত্রুটি সারিয়ে বিমানটি স্থানীয় সময় রাত সাড়ে দশটায় ছাড়তে পারে বলে জানানো হয়।",
+          "প্রকৌশল দলের কাজ শেষ হওয়ার পর ফ্লাইটটি ঢাকার উদ্দেশ্যে রওনা দেবে।"
+        ],
+        "bullets_en": [
+          "Biman Bangladesh Airlines flight BG 377 encountered a mechanical malfunction.",
+          "Engineers worked to fix the issue with departure anticipated around half past ten local time.",
+          "The aircraft will depart for Dhaka immediately after clearance from the engineering team."
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "প্রধানমন্ত্রী ও তার সফরসঙ্গীদের বহনকারী বিমান বাংলাদেশ এয়ারলাইন্সের ফ্লাইট বিজি-৩৭৭ জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে উড্ডয়নের কথা ছিল। নির্ধারিত সময়ের আগেই বিমানবন্দরে পৌঁছালেও যান্ত্রিক ত্রুটির কারণে ফ্লাইটটি ছাড়তে দেরি হয়। বিমান কর্তৃপক্ষ ও প্রকৌশলী দল দ্রুত ত্রুটি মেরামতের কাজ সম্পন্ন করে ফ্লাইটটি চালুর উদ্যোগ নেয়। এই রুটটি ঢাকা ও জাপানের মধ্যে সরাসরি যোগাযোগ রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে।",
+        "details_en": "The Biman Bangladesh Airlines flight BG 377 carrying the Prime Minister and an entourage was scheduled to depart from Narita International Airport towards Dhaka. Despite arriving at the airport on schedule, departure was stalled due to an unexpected mechanical glitch. Engineering teams promptly engaged in repair work to ensure safe operation. This direct route plays a crucial role in maintaining air connectivity between Bangladesh and Japan."
+      }
+    },
+    {
+      "story_id": "246ccccc-1550-5f75-9c95-d58b9c7d6f69",
+      "primary_category": "world_diplomacy",
+      "interest_categories": [
+        "world_diplomacy",
+        "governance_law"
+      ],
+      "region": "national",
+      "tags": [
+        "#Geopolitics",
+        "#Diplomacy"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-29T12:08:47+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 4.8,
+      "rank_score": 1.8408,
+      "sources": [
+        {
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1173391",
+          "title": "জামায়াত আমিরের সঙ্গে ইইউ রাষ্ট্রদূতের বৈঠক, যেসব বিষয়ে আলোচনা",
+          "snippet": "জামায়াত আমিরের সঙ্গে ইইউ রাষ্ট্রদূতের বৈঠক, যেসব বিষয়ে আলোচনা"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "জামায়াত আমিরের সাথে ইউরোপীয় ইউনিয়ন রাষ্ট্রদূতের সৌজন্য সাক্ষাৎ",
+        "title_en": "EU Ambassador Meets Jamaat Ameer in Dhaka",
+        "summary_bn": "জামায়াত আমিরের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
+        "summary_en": "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat Ameer.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy",
-          "economy_business"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T16:21:40+00:00",
-        "lead_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরের মধ্য দিয়ে ঢাকা ও টোকিওর দ্বিপক্ষীয় সম্পর্ক ও অর্থনৈতিক সহযোগিতা নতুন মাত্রা লাভ করেছে।",
-        "lead_en": "Bilateral relations and economic cooperation between Dhaka and Tokyo reached new heights through the Japan visit of Prime Minister Tarique Rahman.",
+        "published_at": "2026-10-29T12:08:47+00:00",
+        "lead_bn": "জামায়াত আমিরের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
+        "lead_en": "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat Ameer.",
         "bullets_bn": [
-          "বাংলাদেশ ও জাপানের মধ্যে সহযোগিতা জোরদার করতে ছয়টি সহযোগিতা দলিল ও দুটি ইয়েন ঋণ চুক্তি স্বাক্ষরিত হয়েছে।",
-          "জাপানি বিনিয়োগকারীরা বিভিন্ন খাতে প্রায় ছয়শ কোটি মার্কিন ডলারের সম্ভাব্য বিনিয়োগের আগ্রহ প্রকাশ করেছেন।",
-          "উভয় দেশ ঐতিহ্যগত বন্ধুত্বের সম্পর্ককে কৌশলগত অর্থনৈতিক অংশীদারত্বে উন্নীত করার বিষয়ে একমত হয়েছে।"
+          "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমানের সঙ্গে বৈঠক করেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
+          "বৈঠকে পারস্পরিক স্বার্থসংশ্লিষ্ট বিভিন্ন ইস্যু এবং দ্বিপক্ষীয় সম্পর্ক নিয়ে আলোচনা করা হয়।",
+          "আগামী দিনে সম্পর্ক আরও জোরদার করার বিষয়ে উভয় পক্ষ সম্মত হয়েছে।"
         ],
         "bullets_en": [
-          "Six cooperation documents and two yen loan agreements were signed to strengthen bilateral ties between Bangladesh and Japan.",
-          "Japanese investors expressed interest in potential investments worth approximately six billion US dollars across various sectors.",
-          "Both nations agreed to elevate their traditional friendship into a strategic economic partnership."
+          "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat-e-Islami Ameer Dr. Shafiqur Rahman.",
+          "The discussions covered various mutual interests and avenues for strengthening bilateral ties.",
+          "Both sides agreed to continue constructive engagements moving forward."
         ],
-        "impact_bn": "জাপানি বিনিয়োগ ও নতুন ঋণ সহায়তা দেশের অবকাঠামো উন্নয়ন এবং কর্মসংস্থান বৃদ্ধিতে বড় ভূমিকা রাখবে।",
-        "impact_en": "Japanese investments and new loan assistance will play a major role in domestic infrastructure development and employment generation.",
-        "details_bn": "প্রধানমন্ত্রী তারেক রহমানের জাপান সফরকে কেন্দ্র করে দুই দেশের কূটনৈতিক ও অর্থনৈতিক সম্পর্কে নতুন গতিশীলতা এসেছে। টোকিওতে অনুষ্ঠিত উচ্চপর্যায়ের বৈঠকে গণতান্ত্রিক উত্তরণ ও উন্নয়ন প্রচেষ্টায় বাংলাদেশের প্রতি জাপানি সমর্থনের বিষয়টি পুনর্ব্যক্ত করা হয়। এই সফরে বাণিজ্য সম্প্রসারণ, কৃষি, মৎস্য, জলবায়ু পরিবর্তন এবং সরকারি ও বেসরকারি খাতে বিনিয়োগ বৃদ্ধির নানা উদ্যোগ নেওয়া হয়েছে, যা দীর্ঘমেয়াদে দ্বিপক্ষীয় অংশীদারত্বকে আরও সুদৃঢ় করবে।",
-        "details_en": "Diplomatic and economic relations between Dhaka and Tokyo gained fresh momentum during the visit of Prime Minister Tarique Rahman. High-level meetings in Tokyo reaffirmed Japan's support for Bangladesh's democratic transition and development efforts. The visit initiated steps to expand trade, agriculture, fisheries, climate cooperation, and both public and private investments, which will strengthen the bilateral partnership in the long run."
+        "impact_bn": "এই বৈঠকের ফলে আন্তর্জাতিক মহলের সঙ্গে রাজনৈতিক সংলাপ ও সম্পর্ক আরও সুদৃঢ় হতে পারে।",
+        "impact_en": "This diplomatic engagement fosters closer dialogue between international partners and domestic political stakeholders.",
+        "details_bn": "বাংলাদেশ ও ইউরোপীয় ইউনিয়নের মধ্যে দীর্ঘদিন ধরে অর্থনৈতিক, রাজনৈতিক ও উন্নয়নমূলক সহযোগিতা বজায় রয়েছে। নির্বাচন, মানবাধিকার এবং গণতন্ত্রায়ণসহ বিভিন্ন বিষয়ে ইউরোপীয় ইউনিয়ন নিয়মিতভাবে দেশের রাজনৈতিক দলগুলোর সঙ্গে মতবিনিময় করে আসছে। এই ধারাবাহিকতায় বিভিন্ন দেশের কূটনীতিকরা দেশের প্রধান রাজনৈতিক দলগুলোর শীর্ষ নেতাদের সঙ্গে বৈঠক করছেন।",
+        "details_en": "Bangladesh and the European Union maintain long-standing cooperation in trade, development, and democratic governance. Foreign diplomats frequently engage with key political leaders in Bangladesh to discuss electoral reforms, human rights, and bilateral cooperation."
       }
     },
     {
-      "story_id": "3774b7bd-df46-54f2-b53f-423a523b024d",
+      "story_id": "5d9c3d95-3797-5c2e-bab2-09982d41da36",
       "primary_category": "governance_law",
       "interest_categories": [
         "governance_law"
@@ -70,280 +125,234 @@
         "#Bangladesh",
         "#Governance"
       ],
-      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-28%2Fskmm5o1m%2Fmymensinghdh169420261028whatsapp-image-2026-10-28-at-11.35.19-am.jpg?rect=0%2C58%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-08-31%2F1m4oa2xi%2FBanner_7814X143.jpg&overlay_position=bottom&overlay_width_pct=1",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T16:34:07+00:00",
+      "published_at": "2026-10-29T11:44:44+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4984,
+      "rank_score": 1.4654,
       "sources": [
         {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/7xli5adgmh",
-          "title": "ময়মনসিংহে নিহত সেলুনমালিকের গলা-বুক-পিঠে ১০ ছুরিকাঘাত, একজন গ্রেপ্তার",
-          "snippet": "ময়মনসিংহে নিহত সেলুনমালিকের গলা-বুক-পিঠে ১০ ছুরিকাঘাত, একজন গ্রেপ্তার"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/jobs/977531/%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE",
+          "title": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ভাতা নির্ধারণে নতুন নীতিমালা",
+          "snippet": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ভাতা নির্ধারণে নতুন নীতিমালা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভালুকায় সেলুনমালিককে হত্যার ঘটনায় একমাত্র আসামি গ্রেপ্তার",
-        "title_en": "Sole Accused Arrested for Murdering Salon Owner in Bhaluka",
-        "summary_bn": "ভালুকায় টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে উপর্যুপরি ছুরিকাঘাত করে হত্যার ঘটনায় প্রধান আসামিকে গ্রেপ্তার করেছে পুলিশ।",
-        "summary_en": "Police have arrested the main accused for fatally stabbing salon owner Rabindra Rishi in Bhaluka following a money dispute.",
+        "title_bn": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণে নতুন নীতিমালা জারি",
+        "title_en": "Government Issues New Policy for Contractual Employees Salary and Allowances",
+        "summary_bn": "সরকার নতুন জাতীয় বেতন স্কেল অনুযায়ী চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণের জন্য আনুষ্ঠানিক নীতিমালা জারি করেছে।",
+        "summary_en": "The government has issued a formal policy to determine the salaries and allowances of contractual government employees under the new national pay scale.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T16:34:07+00:00",
-        "lead_bn": "ভালুকায় টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে উপর্যুপরি ছুরিকাঘাত করে হত্যার ঘটনায় প্রধান আসামিকে গ্রেপ্তার করেছে পুলিশ।",
-        "lead_en": "Police have arrested the main accused for fatally stabbing salon owner Rabindra Rishi in Bhaluka following a money dispute.",
+        "published_at": "2026-10-29T11:44:44+00:00",
+        "lead_bn": "সরকার নতুন জাতীয় বেতন স্কেল অনুযায়ী চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণের জন্য আনুষ্ঠানিক নীতিমালা জারি করেছে।",
+        "lead_en": "The government has issued a formal policy to determine the salaries and allowances of contractual government employees under the new national pay scale.",
         "bullets_bn": [
-          "টাকা ও ব্যক্তিগত বিরোধের জেরে সেলুনমালিক রবীন্দ্র ঋষিকে ছুরিকাঘাত করে হত্যা করেন সাদ্দাম হোসেন।",
-          "নিহতের গলা, বুক ও পিঠে অন্তত ১০টি ছুরিকাঘাতের চিহ্ন পাওয়া গেছে এবং আসামির পাঁচ দিনের রিমান্ড আবেদন করা হয়েছে।",
-          "পুলিশ হত্যাকাণ্ডে ব্যবহৃত ছুরি উদ্ধার করেছে এবং আদালত আগামী ১ নভেম্বর রিমান্ড শুনানির দিন ধার্য করেছেন।"
+          "অর্থ মন্ত্রণালয়ের অর্থ বিভাগ চুক্তিভিত্তিক কর্মচারীদের বেতন নির্ধারণের এই নতুন নীতিমালা জারি করে।",
+          "নীতিমালা অনুযায়ী চুক্তিভিত্তিক কর্মচারীদের বেতন পুনর্নির্ধারণ, পেনশন সুবিধা এবং নিয়োগের শর্তাবলি স্পষ্ট করা হয়েছে।",
+          "নতুন এই নীতিমালা নির্ধারিত পূর্বের একটি নির্দিষ্ট তারিখ থেকে কার্যকর হয়েছে বলে গণ্য হবে।"
         ],
         "bullets_en": [
-          "Saddam Hossain stabbed salon owner Rabindra Rishi to death following a money and personal dispute.",
-          "The victim bore at least 10 stab wounds on his neck, chest, and back, with a five-day remand sought.",
-          "Police recovered the murder weapon and the court scheduled the remand hearing for November 1."
+          "The Finance Division of the Ministry of Finance issued this new policy for determining salaries of contractual employees.",
+          "The policy clarifies salary redetermination, pension benefits, and recruitment conditions for contractual staff.",
+          "The new policy is considered effective retrospectively from a previously specified date."
         ],
-        "impact_bn": null,
-        "impact_en": null,
-        "details_bn": "ময়মনসিংহের ভালুকায় মুক্তিযোদ্ধা মার্কেটের অপূর্ব হেয়ার কাটিংয়ের মালিক রবীন্দ্র ঋষির সঙ্গে আসামি সাদ্দামের চুল কাটা ও হাতখরচের এক হাজার টাকা নিয়ে বিরোধ চলছিল। টাকা ফেরত না দেওয়ায় রবীন্দ্র আসামির বাবার কাছে বিচার দিয়েছিলেন। এরই জেরে অভিযুক্ত ব্যক্তি ধারালো ছুরি নিয়ে সেলুনে ঢুকে ও পালানোর সময় বিভিন্ন স্থানে উপর্যুপরি আঘাত করে রবীন্দ্রকে হত্যা করেন। ঘটনার পর পুলিশ তাৎক্ষণিকভাবে অভিযান চালিয়ে আসামিকে গ্রেপ্তার করে এবং হত্যাকাণ্ডে ব্যবহৃত অস্ত্র উদ্ধার করে।",
-        "details_en": "Rabindra Rishi, owner of Apurbo Hair Cutting in Bhaluka's Muktijoddha Market, had an ongoing dispute with the accused Saddam over unpaid haircut fees and a thousand taka borrowed for expenses. After Rabindra complained to Saddam's father, the accused attacked him with a sharp knife inside the salon and chased him down. Police arrested Saddam promptly after the incident and recovered the murder weapon."
+        "impact_bn": "চুক্তিভিত্তিক সরকারি চাকুরিজীবীদের আর্থিক সুবিধা এবং পেনশন প্রক্রিয়া আরও সুনির্দিষ্ট ও স্বচ্ছ হবে।",
+        "impact_en": "Financial benefits and pension processes for contractual government employees will become more structured and transparent.",
+        "details_bn": "সরকারি চাকরিতে চুক্তিভিত্তিক নিয়োগ পাওয়া কর্মকর্তাদের বেতন-ভাতা ও সুযোগ-সুবিধা নিয়ে দীর্ঘদিন ধরে বিভিন্ন অসঙ্গতি ও জটিলতা ছিল। এর আগে বিভিন্ন অনিয়মিত উপায়ে তাদের বেতন নির্ধারিত হতো। সম্প্রতি অর্থ মন্ত্রণালয়ের প্রবিধি শাখা থেকে জারি করা এই প্রজ্ঞাপনের মাধ্যমে চুক্তিভিত্তিক কর্মচারীদের আর্থিক ব্যবস্থাপনা একটি সুনির্দিষ্ট নিয়মের আওতায় আনা হলো, যা প্রশাসনিক কার্যক্রমে স্বচ্ছতা নিশ্চিত করবে।",
+        "details_en": "Discrepancies and complexities regarding salaries, allowances, and benefits of contractual government employees persisted for a long time. Previously, their compensation was determined through various irregular methods. With this recent gazette notification issued by the Finance Division, the financial management of contractual staff has been brought under a specific set of rules, ensuring transparency in administrative operations."
       }
     },
     {
-      "story_id": "b251af5e-8633-5f95-a61a-c8bed85c1972",
-      "primary_category": "governance_law",
-      "interest_categories": [
-        "governance_law",
-        "economy_business"
-      ],
-      "region": "national",
-      "tags": [
-        "#Bangladesh",
-        "#Governance"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-28T15:59:32+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 6.0,
-      "rank_score": 1.4229,
-      "sources": [
-        {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/country/chitagong/977372/%E0%A6%9C%E0%A7%81%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A6%A4%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%95%E0%A6%BF-%E0%A6%8F%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF",
-          "title": "জুলাইকে বাঁচিয়ে রাখা তাদের জন্য হুমকি, এজন্য ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ",
-          "snippet": "জুলাইকে বাঁচিয়ে রাখা তাদের জন্য হুমকি, এজন্য ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার: ইনকিলাব মঞ্চ"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জুলাই ফাউন্ডেশনে বাজেট দিচ্ছে না সরকার, অভিযোগ ইনকিলাব মঞ্চের",
-        "title_en": "Government Halting Funds for July Foundation, Alleges Inkurilab Mancha",
-        "summary_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই গণঅভ্যুত্থানের চেতনা টিকিয়ে রাখতে ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
-        "summary_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current administration has halted budget allocations to the July Foundation.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "governance_law",
-          "economy_business"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:59:32+00:00",
-        "lead_bn": "ইনকিলাব মঞ্চের আহ্বায়ক আব্দুল্লাহ আল জাবের অভিযোগ করেছেন যে বর্তমান সরকার জুলাই গণঅভ্যুত্থানের চেতনা টিকিয়ে রাখতে ফাউন্ডেশনে বাজেট বরাদ্দ বন্ধ রেখেছে।",
-        "lead_en": "Inqilab Mancha Convener Abdullah Al Jaber alleged that the current administration has halted budget allocations to the July Foundation.",
-        "bullets_bn": [
-          "সরকার গত ঈদের পর থেকে জুলাই ফাউন্ডেশনে কোনো ধরনের বাজেট বরাদ্দ দিচ্ছে না বলে দাবি করা হয়।",
-          "জুলাইয়ের চেতনা বাঁচিয়ে রাখলে চাঁদাবাজি ও টেন্ডারবাজি করা সম্ভব হবে না বলেই এই তহবিল আটকে দেওয়া হয়েছে।",
-          "বর্তমান প্রশাসনের একটি অংশ জুলাই গণঅভ্যুত্থানকে টিকিয়ে রাখাকে নিজেদের ক্ষমতার জন্য হুমকি মনে করছে।"
-        ],
-        "bullets_en": [
-          "The government has reportedly stopped allocating any budget to the July Foundation since the last Eid.",
-          "Fund allocations are allegedly being withheld because preserving the spirit of July hinders extortion and tender manipulation.",
-          "A faction within the current administration views keeping the July uprising alive as a threat to their power."
-        ],
-        "impact_bn": "জুলাই গণঅভ্যুত্থানের শহীদ পরিবার ও আহতদের পুনর্বাসন কার্যক্রম আর্থিক সংকটের মুখে পড়তে পারে।",
-        "impact_en": "Rehabilitation efforts for injured protesters and families of July uprising martyrs may face severe financial strain.",
-        "details_bn": "সালের জুলাই গণঅভ্যুত্থানের পর গঠিত বিভিন্ন অন্তর্বর্তীকালীন ও নাগরিক প্ল্যাটফর্ম বিপ্লবের চেতনা রক্ষায় নানা উদ্যোগ নেয়। তবে সরকারি অর্থায়ন এবং কাঠামোগত সহায়তা নিয়ে বিভিন্ন মহলে নানা প্রশ্ন ও অসন্তোষ দেখা দিচ্ছে। ইনকিলাব মঞ্চসহ বিভিন্ন সংগঠন জুলাই অভ্যুত্থানের শহীদ ও আহতদের সঠিক মূল্যায়ন এবং সরকারি সহযোগিতার দাবি জানিয়ে আসছে।",
-        "details_en": "Following the July 2024 mass uprising, various civic platforms emerged to preserve the movement's ideals. However, concerns regarding state funding and structural support for victims' rehabilitation have sparked public debate. Organizations like Inqilab Mancha continue to demand proper state backing and transparency for the rehabilitation of those injured and killed during the revolution."
-      }
-    },
-    {
-      "story_id": "0f31498e-01a4-5d35-ac1f-a65ac64de3f7",
+      "story_id": "457f6605-6531-58c0-a8dc-5ccd9c15fdb2",
       "primary_category": "world_diplomacy",
       "interest_categories": [
-        "world_diplomacy"
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "national",
       "tags": [
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/cristine.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-28T16:17:18+00:00",
+      "published_at": "2026-10-29T11:20:49+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.3015,
+      "rank_score": 1.2082,
       "sources": [
         {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/international/news/1173109",
-          "title": "জ্বালানির দাম বাড়ায় মাঝসমুদ্রে যাত্রা বন্ধ, জাহাজে আটকা ২০০ যাত্রী",
-          "snippet": "জ্বালানির দাম বাড়ায় মাঝসমুদ্রে যাত্রা বন্ধ, জাহাজে আটকা ২০০ যাত্রী"
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/european-central-bank-president-christine-lagarde-announces-resignation/",
+          "title": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের",
+          "snippet": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের"
         }
       ],
       "daily_buzz": {
-        "title_bn": "জ্বালানির দাম বৃদ্ধিতে মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী",
-        "title_en": "Two Hundred Passengers Trapped at Sea as Fuel Cost Surge Halts Journey",
-        "summary_bn": "বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির কারণে পরিচালন ব্যয় বেড়ে যাওয়ায় মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী।",
-        "summary_en": "Two hundred passengers are trapped at sea after surging global fuel prices halted the vessel's journey due to rising operational costs.",
+        "title_bn": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের",
+        "title_en": "ECB President Christine Lagarde Announces Resignation",
+        "summary_bn": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দ নির্ধারিত মেয়াদের আগেই আগাম পদত্যাগের ঘোষণা দিয়েছেন।",
+        "summary_en": "European Central Bank President Christine Lagarde has announced her early resignation ahead of schedule.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "world_diplomacy"
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T16:17:18+00:00",
-        "lead_bn": "বিশ্ববাজারে জ্বালানির দাম বৃদ্ধির কারণে পরিচালন ব্যয় বেড়ে যাওয়ায় মাঝসমুদ্রে যাত্রা বন্ধ করে জাহাজে আটকা পড়েছে দুইশ যাত্রী।",
-        "lead_en": "Two hundred passengers are trapped at sea after surging global fuel prices halted the vessel's journey due to rising operational costs.",
+        "published_at": "2026-10-29T11:20:49+00:00",
+        "lead_bn": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দ নির্ধারিত মেয়াদের আগেই আগাম পদত্যাগের ঘোষণা দিয়েছেন।",
+        "lead_en": "European Central Bank President Christine Lagarde has announced her early resignation ahead of schedule.",
         "bullets_bn": [
-          "জ্বালানির মূল্যবৃদ্ধির কারণে জাহাজটির পরিচালন ব্যয় উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে।",
-          "মাঝসমুদ্রে আটকা পড়া জাহাজে দুইশ যাত্রী অবস্থান করছেন।",
-          "পরিস্থিতি মোকাবিলায় দ্রুত বিকল্প পদক্ষেপ গ্রহণের প্রক্রিয়া চলছে।"
+          "নির্ধারিত মেয়াদের আট মাস আগেই ২০২৭ সালের ফেব্রুয়ারিতে পদ ছাড়বেন ক্রিস্টিন লাগার্দ",
+          "ফ্রান্সের আসন্ন প্রেসিডেন্ট নির্বাচনের আগেই নতুন প্রধান নিয়োগের সুযোগ দিতে এই সময় বেছে নেওয়া হয়েছে",
+          "তার স্থলাভিষিক্ত হওয়ার দৌড়ে নেদারল্যান্ডস ও স্পেনের সাবেক কেন্দ্রীয় ব্যাংকপ্রধানদের নাম আলোচনায় রয়েছে"
         ],
         "bullets_en": [
-          "The operational cost of the vessel increased significantly due to soaring fuel prices.",
-          "Two hundred passengers remain stranded on the ship stranded in the middle of the sea.",
-          "Immediate alternative steps are being taken to address the situation."
+          "Christine Lagarde will step down in February 2027, eight months before her term ends.",
+          "The timing allows a new president to be appointed before France's upcoming presidential election.",
+          "Former central bank chiefs from the Netherlands and Spain are currently discussed as potential successors."
         ],
-        "impact_bn": "ভ্রমণকারী ও সাধারণ যাত্রীদের নিরাপত্তা এবং আন্তর্জাতিক পরিবহনের ব্যয় নিয়ে উদ্বেগ তৈরি হয়েছে।",
-        "impact_en": "Concerns have risen regarding the safety of travelers and the surging costs of international maritime transport.",
-        "details_bn": "চলতি বছরের শুরুতে মধ্যপ্রাচ্যে যুদ্ধ পরিস্থিতি শুরুর পর থেকেই বিশ্ববাজারে জ্বালানি তেলের দাম লাগাতার বৃদ্ধি পেতে থাকে। এর ফলে সামুদ্রিক পরিবহন এবং বৈশ্বিক বাণিজ্যের সাথে জড়িত বিভিন্ন জাহাজ পরিচালনায় বড় ধরনের আর্থিক সংকট তৈরি হয়, যার সরাসরি প্রভাব পড়েছে যাত্রী ও পণ্যবাহী জাহাজগুলোর ওপর।",
-        "details_en": "Since the onset of the conflict in the Middle East early this year, global fuel prices have experienced a continuous surge. This created a major financial crisis in operating maritime transport and various commercial vessels, directly impacting passenger and cargo ships alike."
+        "impact_bn": "ইউরোপীয় অর্থনীতিতে সুদের হার ও ঋণের খরচ বাড়ায় সাধারণ নাগরিক এবং ব্যবসাপ্রতিষ্ঠানগুলোর ওপর আর্থিক চাপ তৈরি হয়েছে।",
+        "impact_en": "Rising interest rates and borrowing costs across Europe have increased financial pressure on ordinary citizens and businesses.",
+        "details_bn": "ক্রিস্টিন লাগার্দের মেয়াদ ২০২৭ সালের অক্টোবরের শেষ পর্যন্ত থাকার কথা ছিল। তবে কয়েক মাস ধরেই তার আগাম পদত্যাগ নিয়ে জল্পনা চলছিল। এমন এক সময়ে তিনি এই ঘোষণা দিলেন যখন ইউরোপীয় কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণ ও তেলের দাম বৃদ্ধির চাপ সামলাতে সুদের হার বাড়ানোর নীতি অনুসরণ করছে। একই সঙ্গে ফ্রান্সসহ ইউরোপের বিভিন্ন দেশে সরকারি বন্ডের সুদের হার বৃদ্ধি পাওয়ায় ঋণগ্রহীতাদের খরচ বেড়ে গেছে।",
+        "details_en": "Christine Lagarde's term was originally scheduled to end in late October 2027, but rumors of her early departure had persisted for months. She announced her resignation as the European Central Bank struggles with inflation control and rising oil prices by maintaining high interest rates. Meanwhile, rising bond yields across European nations, particularly heavily indebted France, have increased borrowing costs for families and businesses."
       }
     },
     {
-      "story_id": "b3e9f997-83b3-5dc3-a26e-5f324afcadc3",
+      "story_id": "4ded2f51-164d-55f5-8584-ca6dce854579",
       "primary_category": "economy_business",
       "interest_categories": [
         "economy_business",
-        "climate_environment",
-        "world_diplomacy"
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#InterestRate",
         "#Inflation",
-        "#BankOfCanada"
+        "#InterestRates"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-06-05T161942Z_1200594537_RC2QNLA9IBV1_RTRMADP_3_CANADA-ECONOMY-1793202755.jpg?resize=1920%2C1440",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-28T16:44:44+00:00",
+      "published_at": "2026-10-29T11:11:00+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.585,
+      "importance_score": 4.25,
+      "rank_score": 0.9959,
       "sources": [
         {
-          "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-          "title": "Bank of Canada raises interest rates for the first time in three years",
-          "snippet": "Bank of Canada raises interest rates for the first time in three years"
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
+          "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+          "snippet": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder."
         }
       ],
       "daily_buzz": {
-        "title_bn": "মূল সুদের হার বাড়াল কানাডার কেন্দ্রীয় ব্যাংক",
-        "title_en": "Bank of Canada Raises Interest Rates to Combat Inflation",
-        "summary_bn": "জ্বালানি খরচ বৃদ্ধির কারণে সৃষ্ট মুদ্রাস্ফীতি নিয়ন্ত্রণে আনতে তিন বছরেরও বেশি সময় পর নীতি সুদ হার বাড়িয়েছে কানাডার কেন্দ্রীয় ব্যাংক।",
-        "summary_en": "The Bank of Canada increased its key interest rate for the first time in three years to combat soaring inflation driven by energy costs.",
+        "title_bn": "মার্কিন জিডিপি ও মূল্যস্ফীতির প্রতিবেদন সুদের হার বৃদ্ধির সিদ্ধান্তকে প্রভাবিত করতে পারে",
+        "title_en": "US GDP and Inflation Reports Could Influence Interest Rate Decisions",
+        "summary_bn": "আসন্ন অর্থনৈতিক প্রবৃদ্ধি এবং মূল্যস্ফীতির ডেটা প্রকাশের ওপর মার্কিন সুদের হার বৃদ্ধির সম্ভাবনা নির্ভর করছে।",
+        "summary_en": "Upcoming economic growth and inflation data releases will determine the likelihood of US interest rate hikes.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "economy_business",
-          "climate_environment",
-          "world_diplomacy"
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T16:44:44+00:00",
-        "lead_bn": "জ্বালানি খরচ বৃদ্ধির কারণে সৃষ্ট মুদ্রাস্ফীতি নিয়ন্ত্রণে আনতে তিন বছরেরও বেশি সময় পর নীতি সুদ হার বাড়িয়েছে কানাডার কেন্দ্রীয় ব্যাংক।",
-        "lead_en": "The Bank of Canada increased its key interest rate for the first time in three years to combat soaring inflation driven by energy costs.",
+        "published_at": "2026-10-29T11:11:00+00:00",
+        "lead_bn": "আসন্ন অর্থনৈতিক প্রবৃদ্ধি এবং মূল্যস্ফীতির ডেটা প্রকাশের ওপর মার্কিন সুদের হার বৃদ্ধির সম্ভাবনা নির্ভর করছে।",
+        "lead_en": "Upcoming economic growth and inflation data releases will determine the likelihood of US interest rate hikes.",
         "bullets_bn": [
-          "কানাডার কেন্দ্রীয় ব্যাংক নীতি সুদ হার এক চতুর্থাংশ বাড়িয়ে ২ দশমিক ৫ শতাংশ করেছে।",
-          "কেন্দ্রীয় ব্যাংকের গভর্নর টিফ ম্যাকলেম জানিয়েছেন মুদ্রাস্ফীতির ঝুঁকি কমাতে এই সুদের হার বৃদ্ধি প্রয়োজন ছিল।",
-          "কেন্দ্রীয় ব্যাংক পূর্বাভাস দিয়েছে যে অর্থনৈতিক পরিস্থিতি এবং অনিশ্চয়তা বিবেচনায় ভবিষ্যতে সুদের হার আরও বাড়তে পারে।"
+          "যুক্তরাষ্ট্রের জিডিপি এবং মূল্যস্ফীতির নতুন পরিসংখ্যান একই সময়ে প্রকাশিত হচ্ছে।",
+          "শক্তিশালী অর্থনৈতিক প্রবৃদ্ধি এবং দীর্ঘস্থায়ী মূল্যস্ফীতির চাপ ডিসেম্বরে সুদের হার বাড়ানোর পক্ষে জোরালো ভূমিকা রাখতে পারে।",
+          "কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে রাখতে পরবর্তী নীতি নির্ধারণী বৈঠকে কঠোর পদক্ষেপ বিবেচনা করছে।"
         ],
         "bullets_en": [
-          "The Bank of Canada implemented a quarter-point rate hike bringing the key policy rate to 2.5 percent.",
-          "Governor Tiff Macklem stated the rate increase was necessary to curb rising inflation risks driven by energy costs.",
-          "The central bank warned that further rate increases may be needed depending on economic conditions and uncertainties."
+          "US GDP and inflation figures are released simultaneously at 8:30 a.m. Eastern time.",
+          "Strong economic growth and persistent price pressures strengthen the case for a December interest rate increase.",
+          "The central bank continues to monitor key indicators before finalizing upcoming monetary policy adjustments."
         ],
-        "impact_bn": "সুদের হার বৃদ্ধির ফলে ব্যাংক ঋণ ও বন্ধকী খরচ বেড়ে যাওয়ায় সাধারণ নাগরিকদের মাসিক ব্যয় বৃদ্ধি পাবে।",
-        "impact_en": "Higher borrowing costs will increase monthly expenses for ordinary citizens through rising mortgage and loan rates.",
-        "details_bn": "বার্ষিক মুদ্রাস্ফীতি লক্ষ্যমাত্রার চেয়ে বেড়ে যাওয়ায় অর্থনৈতিক স্থিতিশীলতা বজায় রাখতে ব্যাংক অব কানাডা এই কঠোর monetary policy গ্রহণ করেছে। এর আগে দীর্ঘ তিন বছর ধরে সুদের হার অপরিবর্তিত রাখা হয়েছিল। জ্বালানি ও সংশ্লিষ্ট খাতের ব্যয় বৃদ্ধির কারণে সার্বিক মূল্যস্ফীতি বেড়ে যাওয়ায় কেন্দ্রীয় ব্যাংক এই পদক্ষেপ নিতে বাধ্য হয়।",
-        "details_en": "The Bank of Canada shifted its monetary policy after annual inflation surpassed its target range, driven largely by escalating energy costs. This decision marks the first interest rate increase in over three years, reflecting growing concerns over generalized inflation and economic resilience."
+        "impact_bn": "মার্কিন সুদের হার পরিবর্তন পেলে বিশ্ববাজারের মুদ্রা বিনিময় হার এবং বৈশ্বিক পণ্যের দামে তার প্রভাব পড়বে।",
+        "impact_en": "Changes in US interest rates can influence global currency exchange rates and international commodity prices.",
+        "details_bn": "মার্কিন কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে এর আগে সুদের হার অপরিবর্তিত রেখেছিল। তবে অর্থনীতিতে যদি অতিরিক্ত চাহিদার কারণে মূল্যস্ফীতির চাপ বজায় থাকে এবং জিডিপি প্রবৃদ্ধি শক্তিশালী থাকে, তবে নীতিনির্ধারকরা সুদের হার বাড়াতে বাধ্য হতে পারেন। এই অর্থনৈতিক সূচকগুলো বৈশ্বিক আর্থিক বাজারের গতিপথ নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে।",
+        "details_en": "The US Federal Reserve previously held off on a rate hike to assess economic conditions. If persistent price pressures and strong growth continue to challenge the central bank's inflation targets, policymakers may face mounting pressure to implement a rate increase during their upcoming December meeting. These macroeconomic indicators heavily influence global financial markets and borrowing costs."
       }
     },
     {
-      "story_id": "99dec287-9ead-50b3-b7ef-09c05b2abd28",
-      "primary_category": "tech_innovation",
+      "story_id": "1f7ee124-61a4-5feb-8826-b6814760eadd",
+      "primary_category": "society_education",
       "interest_categories": [
-        "tech_innovation",
-        "climate_environment",
-        "world_diplomacy"
+        "society_education",
+        "world_diplomacy",
+        "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#NuclearPower",
-        "#AIDataCenters",
-        "#TechInfrastructure"
+        "#JamiaMillia",
+        "#StudentProtest",
+        "#India"
       ],
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_0252.JPG-1793261389.jpeg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-28T15:53:21+00:00",
+      "published_at": "2026-10-29T11:05:18+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 1.7,
-      "rank_score": 0.386,
+      "importance_score": 2.55,
+      "rank_score": 0.5742,
       "sources": [
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-          "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-          "snippet": "Trump DOE loans $5B to nuclear plants that will power data centers"
+          "name": "Al Jazeera English",
+          "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss",
+          "title": "Protest at India university where no students’ union vote held for 20 years",
+          "snippet": "Protest at India university where no students’ union vote held for 20 years"
+        },
+        {
+          "name": "The Hindu International",
+          "url": "https://www.thehindu.com/news/national/uk-pm-andy-burnham-trip-to-india-could-take-place-soon-british-envoy/article71640057.ece",
+          "title": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy",
+          "snippet": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy"
+        },
+        {
+          "name": "Deutsche Welle World",
+          "url": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: 'Cockroaches' back Gandhi's rally against election chief",
+          "snippet": "India news: 'Cockroaches' back Gandhi's rally against election chief"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পারমাণবিক বিদ্যুৎ কেন্দ্র সম্প্রসারণে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে যুক্তরাষ্ট্র",
-        "title_en": "US Department of Energy Grants Five Billion Dollar Loan for Nuclear Plants",
-        "summary_bn": "যুক্তরাষ্ট্রের প্রশাসন ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে কনস্টেলেশন এনার্জিকে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে।",
-        "summary_en": "The US administration is issuing a five billion dollar loan to Constellation Energy to expand nuclear capacity for data centers.",
+        "title_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে ছাত্রসংসদ নির্বাচনের দাবিতে অনশন",
+        "title_en": "Students Protest at Jamia Millia Islamia University Demanding Student Union Elections",
+        "summary_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে স্থগিত থাকা ছাত্রসংসদ নির্বাচনের দাবিতে আমরণ অনশন করছেন শিক্ষার্থীরা।",
+        "summary_en": "Students at Jamia Millia Islamia University in India are staging an indefinite hunger strike demanding student union elections.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "tech_innovation",
-          "climate_environment",
-          "world_diplomacy"
+          "society_education",
+          "world_diplomacy",
+          "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-28T15:53:21+00:00",
-        "lead_bn": "যুক্তরাষ্ট্রের প্রশাসন ডেটা সেন্টারের ক্রমবর্ধমান শক্তির চাহিদা মেটাতে কনস্টেলেশন এনার্জিকে পাঁচ বিলিয়ন ডলার ঋণ দিচ্ছে।",
-        "lead_en": "The US administration is issuing a five billion dollar loan to Constellation Energy to expand nuclear capacity for data centers.",
+        "published_at": "2026-10-29T11:05:18+00:00",
+        "lead_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে স্থগিত থাকা ছাত্রসংসদ নির্বাচনের দাবিতে আমরণ অনশন করছেন শিক্ষার্থীরা।",
+        "lead_en": "Students at Jamia Millia Islamia University in India are staging an indefinite hunger strike demanding student union elections.",
         "bullets_bn": [
-          "কনস্টেলেশন এনার্জি আটটি পারমাণবিক বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা এক দশমিক এক গিগাওয়াট বাড়াতে এই ঋণ ব্যবহার করবে",
-          "প্রকল্পের অতিরিক্ত শক্তির বেশিরভাগ অংশ গুগল, মেটা এবং আমাজন আগেই কিনে নিয়েছে",
-          "এই অর্থায়ন আটটি বিদ্যুৎ কেন্দ্রের এগারোটি চুল্লির ক্ষমতা বাড়াতে এবং আধুনিকায়ন করতে ব্যয় করা হবে"
+          "জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে বন্ধ থাকা ছাত্রসংসদ নির্বাচনের দাবিতে শিক্ষার্থীরা আমরণ অনশন শুরু করেন।",
+          "আইনের ছাত্র এবিন বাসিলসহ পাঁচজন শিক্ষার্থী স্বাস্থ্যঝুঁকি সত্ত্বেও অনশন চালিয়ে যাচ্ছেন এবং বিশ্ববিদ্যালয় প্রশাসন তিন ছাত্রকে শাস্তি দিয়েছে।",
+          "বিশ্ববিদ্যালয় কর্তৃপক্ষ আগামী ডিসেম্বর মাসের মধ্যে খসড়া সংবিধান প্রণয়নের একটি কমিটি গঠন করার ঘোষণা দিয়েছে।"
         ],
         "bullets_en": [
-          "Constellation Energy will use the financing to expand nuclear generating capacity at eight power plants by 1.1 gigawatts.",
-          "Google Meta and Amazon have already secured agreements to purchase most of the additional power generated from these facilities.",
-          "The funding aims to uprate eleven existing nuclear reactors across Illinois Maryland and Pennsylvania to support massive tech infrastructure."
+          "Students launched an indefinite hunger strike demanding the restoration of the student union at Jamia Millia Islamia University after a two-decade suspension.",
+          "Law student Ebin Basil and four others continued the fast despite health concerns, while the university suspended three protesting students.",
+          "The university announced a December deadline for a committee to draft a new union constitution before scheduling polls."
         ],
-        "impact_bn": "কৃত্রিম বুদ্ধিমত্তা ডেটা সেন্টারের বিদ্যুৎ চাহিদা বাড়লেও সাধারণ গ্রাহকদের বিদ্যুৎ বিল কমার কোনো নিশ্চিত তথ্য নেই।",
-        "impact_en": "While powering AI data centers, there is no evidence that the increased nuclear capacity will lower electricity prices for residential consumers.",
-        "details_bn": "কৃত্রিম বুদ্ধিমত্তা চালিত ডেটা সেন্টারের জন্য বিদ্যুৎ খাতের ওপর চাপ তীব্রভাবে বাড়ছে। গুগল, আমাজন এবং মেটার মতো টেক জায়ান্টগুলো এআই সার্ভারের নিরবচ্ছিন্ন শক্তির জোগান নিশ্চিত করতে বড় অংকের বিনিয়োগ করছে। এর অংশ হিসেবে পারমাণবিক বিদ্যুৎ কেন্দ্রের সক্ষমতা বৃদ্ধির জন্য এই ঋণ অনুমোদন করা হয়েছে, যা যুক্তরাষ্ট্রের বিভিন্ন অঞ্চলের আটটি বিদ্যুৎ কেন্দ্রের উৎপাদন ক্ষমতা বাড়াতে ব্যবহার করা হবে।",
-        "details_en": "Tech giants including Google Amazon and Meta have been aggressively securing additional grid capacity to sustain their rapidly expanding AI data centers. The massive power demands have driven these companies to commit billions of dollars to energy infrastructure. This government loan aims to accelerate reactor uprating projects across eight US power plants to meet the escalating electricity consumption of modern technology operations."
+        "impact_bn": "বিশ্ববিদ্যালয় ক্যাম্পাসে ছাত্র অধিকার ও গণতান্ত্রিক অংশগ্রহণের অধিকার আদায়ে শিক্ষার্থীদের এই আন্দোলন বৃহত্তর পরিসরে শিক্ষাঙ্গনের স্বাধীনতা নিয়ে সচেতনতা তৈরি করছে।",
+        "impact_en": "The student-led protest highlights the broader struggle for democratic representation and student rights within higher education institutions.",
+        "details_bn": "ভারতের নয়াদিল্লির জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে গত ২০ বছর ধরে ছাত্রসংসদ নির্বাচন বন্ধ রয়েছে। অনশনরত শিক্ষার্থীরা বিশ্ববিদ্যালয় প্রাঙ্গণে আন্দোলন চালিয়ে যাওয়ার পাশাপাশি খসড়া সংবিধান তৈরির দাবি জানাচ্ছেন। প্রশাসন অনলাইন ক্লাস চালু করা এবং পুলিশ মোতায়েন করার পরেও শিক্ষার্থীরা তাদের অবস্থানে অনড় রয়েছেন এবং নির্বাচনের সুনির্দিষ্ট দিন ঘোষণা না করা পর্যন্ত আন্দোলন চালিয়ে যাওয়ার ঘোষণা দিয়েছেন।",
+        "details_en": "Student union elections have been suspended for two decades at Jamia Millia Islamia University in New Delhi. The ongoing protests and hunger strikes escalated after the university suspended participating students and moved classes online. Although administration officials announced a tentative committee to draft a constitution by December, protesters rejected the timeline as inadequate and demanded immediate elections."
       }
     }
   ]
