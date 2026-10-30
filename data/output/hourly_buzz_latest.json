@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29T12:13:54.945554",
+  "updated_at": "2026-10-30T12:04:23.422268",
   "total_stories": 6,
   "stories": [
     {
-      "story_id": "29484c2b-3906-557c-a0c5-e5fb99d015d5",
+      "story_id": "af4face4-5d20-585e-a12f-9d9d94af59cf",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy"
@@ -13,112 +13,56 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/Bangladesh-Airlines.jpg?w=1200",
+      "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-29T12:12:55+00:00",
+      "published_at": "2026-10-30T11:52:47+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 6.6,
-      "rank_score": 2.6437,
+      "importance_score": 4.8,
+      "rank_score": 1.7246,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/the-prime-ministers-flight-was-delayed-due-to-a-mechanical-fault/",
-          "title": "যান্ত্রিক ত্রুটির কারণে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত",
-          "snippet": "যান্ত্রিক ত্রুটির কারণে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত"
+          "name": "Bangla Tribune",
+          "url": "https://www.banglatribune.com/foreign/middle-east/977731/%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A8-%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%81%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%A4-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%A4%E0%A7%87%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%87",
+          "title": "মার্কিন-ইরান চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা",
+          "snippet": "মার্কিন-ইরান চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা"
         }
       ],
       "daily_buzz": {
-        "title_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা বিমানবন্দরে প্রধানমন্ত্রীর ফ্লাইট বিলম্বিত",
-        "title_en": "Prime Minister flight delayed at Narita airport due to mechanical fault",
-        "summary_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে প্রধানমন্ত্রীর নির্ধারিত ফ্লাইট উড্ডয়নে বিলম্ব হয়।",
-        "summary_en": "The Prime Minister return flight from Narita International Airport to Dhaka experiences delays due to a mechanical fault.",
+        "title_bn": "মার্কিন-ইরান পারমাণবিক চুক্তি পুনরুজ্জীবিত করতে তেহরানে কাতারি মধ্যস্থতাকারীরা",
+        "title_en": "Qatari mediators arrive in Tehran to revive US-Iran nuclear deal",
+        "summary_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি প্রতিনিধিদল তেহরানে উচ্চপর্যায়ের বৈঠক করেছে।",
+        "summary_en": "A Qatari delegation arrived in Tehran to hold high-level talks aimed at reviving stalled negotiations between the US and Iran.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
           "world_diplomacy"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-29T12:12:55+00:00",
-        "lead_bn": "যান্ত্রিক ত্রুটির কারণে জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে প্রধানমন্ত্রীর নির্ধারিত ফ্লাইট উড্ডয়নে বিলম্ব হয়।",
-        "lead_en": "The Prime Minister return flight from Narita International Airport to Dhaka experiences delays due to a mechanical fault.",
+        "published_at": "2026-10-30T11:52:47+00:00",
+        "lead_bn": "যুক্তরাষ্ট্র ও ইরানের মধ্যে স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি প্রতিনিধিদল তেহরানে উচ্চপর্যায়ের বৈঠক করেছে।",
+        "lead_en": "A Qatari delegation arrived in Tehran to hold high-level talks aimed at reviving stalled negotiations between the US and Iran.",
         "bullets_bn": [
-          "বিমান বাংলাদেশ এয়ারলাইন্সের ফ্লাইট বিজি ৩৭৭ যান্ত্রিক ত্রুটির মুখে পড়ে।",
-          "ত্রুটি সারিয়ে বিমানটি স্থানীয় সময় রাত সাড়ে দশটায় ছাড়তে পারে বলে জানানো হয়।",
-          "প্রকৌশল দলের কাজ শেষ হওয়ার পর ফ্লাইটটি ঢাকার উদ্দেশ্যে রওনা দেবে।"
+          "যুক্তরাষ্ট্র ও ইরানের মধ্যকার স্থগিত আলোচনা পুনরুজ্জীবিত করতে কাতারি মধ্যস্থতাকারীরা তেহরান সফর শুরু করেছেন",
+          "ইরানি রাষ্ট্রীয় বার্তা সংস্থা ইরনা জানিয়েছে কাতারি প্রতিনিধিদল ঊর্ধ্বতন ইরানি কর্মকর্তাদের সঙ্গে বৈঠকে অংশ নিয়েছে",
+          "দীর্ঘদিন ধরে অচলাবস্থায় থাকা কূটনৈতিক সম্পর্ক স্বাভাবিক করতে মধ্যপ্রাচ্যের এই মধ্যস্থতা অব্যাহত থাকবে"
         ],
         "bullets_en": [
-          "Biman Bangladesh Airlines flight BG 377 encountered a mechanical malfunction.",
-          "Engineers worked to fix the issue with departure anticipated around half past ten local time.",
-          "The aircraft will depart for Dhaka immediately after clearance from the engineering team."
+          "Qatari mediators initiated a diplomatic mission to Tehran to restart stalled discussions between the US and Iran",
+          "Iranian state news agency IRNA confirmed that the Qatari delegation engaged in meetings with senior Iranian officials",
+          "Diplomatic efforts by regional mediators will continue to bridge gaps between Washington and Tehran"
         ],
         "impact_bn": null,
         "impact_en": null,
-        "details_bn": "প্রধানমন্ত্রী ও তার সফরসঙ্গীদের বহনকারী বিমান বাংলাদেশ এয়ারলাইন্সের ফ্লাইট বিজি-৩৭৭ জাপানের নারিতা আন্তর্জাতিক বিমানবন্দর থেকে ঢাকার উদ্দেশে উড্ডয়নের কথা ছিল। নির্ধারিত সময়ের আগেই বিমানবন্দরে পৌঁছালেও যান্ত্রিক ত্রুটির কারণে ফ্লাইটটি ছাড়তে দেরি হয়। বিমান কর্তৃপক্ষ ও প্রকৌশলী দল দ্রুত ত্রুটি মেরামতের কাজ সম্পন্ন করে ফ্লাইটটি চালুর উদ্যোগ নেয়। এই রুটটি ঢাকা ও জাপানের মধ্যে সরাসরি যোগাযোগ রক্ষায় গুরুত্বপূর্ণ ভূমিকা পালন করে আসছে।",
-        "details_en": "The Biman Bangladesh Airlines flight BG 377 carrying the Prime Minister and an entourage was scheduled to depart from Narita International Airport towards Dhaka. Despite arriving at the airport on schedule, departure was stalled due to an unexpected mechanical glitch. Engineering teams promptly engaged in repair work to ensure safe operation. This direct route plays a crucial role in maintaining air connectivity between Bangladesh and Japan."
+        "details_bn": "দীর্ঘদিন ধরে যুক্তরাষ্ট্র ও ইরানের মধ্যকার উত্তেজনা নিরসনে এবং ২০১৫ সালের পারমাণবিক চুক্তি পুনরুজ্জীবিত করতে বিভিন্ন আঞ্চলিক দেশ মধ্যস্থতার চেষ্টা চালিয়ে আসছে। এর ধারাবাহিকতায় কাতারের পক্ষ থেকে এই নতুন কূটনৈতিক উদ্যোগ নেওয়া হয়েছে, যা মধ্যপ্রাচ্যের আঞ্চলিক স্থিতিশীলতার ওপর বড় ধরনের প্রভাব ফেলতে পারে।",
+        "details_en": "Regional nations have continuously attempted to mediate tensions between the United States and Iran to restore the 2015 nuclear agreement. This latest diplomatic initiative by Qatar marks a renewed push to break the prolonged deadlock and ease geopolitical friction in the Middle East."
       }
     },
     {
-      "story_id": "246ccccc-1550-5f75-9c95-d58b9c7d6f69",
-      "primary_category": "world_diplomacy",
-      "interest_categories": [
-        "world_diplomacy",
-        "governance_law"
-      ],
-      "region": "national",
-      "tags": [
-        "#Geopolitics",
-        "#Diplomacy"
-      ],
-      "image_url": null,
-      "image_caption": null,
-      "published_at": "2026-10-29T12:08:47+00:00",
-      "is_bcs_pro_selected": false,
-      "importance_score": 4.8,
-      "rank_score": 1.8408,
-      "sources": [
-        {
-          "name": "Jago News 24",
-          "url": "https://www.jagonews24.com/politics/news/1173391",
-          "title": "জামায়াত আমিরের সঙ্গে ইইউ রাষ্ট্রদূতের বৈঠক, যেসব বিষয়ে আলোচনা",
-          "snippet": "জামায়াত আমিরের সঙ্গে ইইউ রাষ্ট্রদূতের বৈঠক, যেসব বিষয়ে আলোচনা"
-        }
-      ],
-      "daily_buzz": {
-        "title_bn": "জামায়াত আমিরের সাথে ইউরোপীয় ইউনিয়ন রাষ্ট্রদূতের সৌজন্য সাক্ষাৎ",
-        "title_en": "EU Ambassador Meets Jamaat Ameer in Dhaka",
-        "summary_bn": "জামায়াত আমিরের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
-        "summary_en": "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat Ameer.",
-        "why_it_matters_bn": null,
-        "why_it_matters_en": null,
-        "interest_categories": [
-          "world_diplomacy",
-          "governance_law"
-        ],
-        "read_time_seconds": 60,
-        "published_at": "2026-10-29T12:08:47+00:00",
-        "lead_bn": "জামায়াত আমিরের সঙ্গে সৌজন্য সাক্ষাৎ করেছেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
-        "lead_en": "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat Ameer.",
-        "bullets_bn": [
-          "জামায়াতে ইসলামীর আমির ডা. শফিকুর রহমানের সঙ্গে বৈঠক করেন ইউরোপীয় ইউনিয়নের রাষ্ট্রদূত মাইকেল মিলার।",
-          "বৈঠকে পারস্পরিক স্বার্থসংশ্লিষ্ট বিভিন্ন ইস্যু এবং দ্বিপক্ষীয় সম্পর্ক নিয়ে আলোচনা করা হয়।",
-          "আগামী দিনে সম্পর্ক আরও জোরদার করার বিষয়ে উভয় পক্ষ সম্মত হয়েছে।"
-        ],
-        "bullets_en": [
-          "European Union Ambassador Michael Miller held a courtesy meeting with Jamaat-e-Islami Ameer Dr. Shafiqur Rahman.",
-          "The discussions covered various mutual interests and avenues for strengthening bilateral ties.",
-          "Both sides agreed to continue constructive engagements moving forward."
-        ],
-        "impact_bn": "এই বৈঠকের ফলে আন্তর্জাতিক মহলের সঙ্গে রাজনৈতিক সংলাপ ও সম্পর্ক আরও সুদৃঢ় হতে পারে।",
-        "impact_en": "This diplomatic engagement fosters closer dialogue between international partners and domestic political stakeholders.",
-        "details_bn": "বাংলাদেশ ও ইউরোপীয় ইউনিয়নের মধ্যে দীর্ঘদিন ধরে অর্থনৈতিক, রাজনৈতিক ও উন্নয়নমূলক সহযোগিতা বজায় রয়েছে। নির্বাচন, মানবাধিকার এবং গণতন্ত্রায়ণসহ বিভিন্ন বিষয়ে ইউরোপীয় ইউনিয়ন নিয়মিতভাবে দেশের রাজনৈতিক দলগুলোর সঙ্গে মতবিনিময় করে আসছে। এই ধারাবাহিকতায় বিভিন্ন দেশের কূটনীতিকরা দেশের প্রধান রাজনৈতিক দলগুলোর শীর্ষ নেতাদের সঙ্গে বৈঠক করছেন।",
-        "details_en": "Bangladesh and the European Union maintain long-standing cooperation in trade, development, and democratic governance. Foreign diplomats frequently engage with key political leaders in Bangladesh to discuss electoral reforms, human rights, and bilateral cooperation."
-      }
-    },
-    {
-      "story_id": "5d9c3d95-3797-5c2e-bab2-09982d41da36",
+      "story_id": "70bc2806-ca78-5e28-8dc7-f9f8b19769e7",
       "primary_category": "governance_law",
       "interest_categories": [
-        "governance_law"
+        "governance_law",
+        "society_education"
       ],
       "region": "national",
       "tags": [
@@ -127,50 +71,51 @@
       ],
       "image_url": null,
       "image_caption": null,
-      "published_at": "2026-10-29T11:44:44+00:00",
+      "published_at": "2026-10-30T11:46:18+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.4654,
+      "rank_score": 1.6203,
       "sources": [
         {
-          "name": "Bangla Tribune",
-          "url": "https://www.banglatribune.com/jobs/977531/%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%A8-%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%BE",
-          "title": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ভাতা নির্ধারণে নতুন নীতিমালা",
-          "snippet": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ভাতা নির্ধারণে নতুন নীতিমালা"
+          "name": "Jago News 24",
+          "url": "https://www.jagonews24.com/politics/news/1173698",
+          "title": "স্বরাষ্ট্রমন্ত্রী-জ্বালানিমন্ত্রী পদত্যাগ না করলে আমাদের মিছিল বড় হবে",
+          "snippet": "স্বরাষ্ট্রমন্ত্রী-জ্বালানিমন্ত্রী পদত্যাগ না করলে আমাদের মিছিল বড় হবে"
         }
       ],
       "daily_buzz": {
-        "title_bn": "চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণে নতুন নীতিমালা জারি",
-        "title_en": "Government Issues New Policy for Contractual Employees Salary and Allowances",
-        "summary_bn": "সরকার নতুন জাতীয় বেতন স্কেল অনুযায়ী চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণের জন্য আনুষ্ঠানিক নীতিমালা জারি করেছে।",
-        "summary_en": "The government has issued a formal policy to determine the salaries and allowances of contractual government employees under the new national pay scale.",
+        "title_bn": "স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ দাবি জাতীয় নাগরিক পার্টির",
+        "title_en": "National Citizen Party Demands Resignation of Home and Energy Ministers",
+        "summary_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক মো. নাহিদ ইসলাম স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ না করলে আন্দোলন আরও জোরদার করার হুঁশিয়ারি দিয়েছেন।",
+        "summary_en": "National Citizen Party Convener Nahid Islam warned that protests will expand if the home and energy ministers do not resign.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "governance_law"
+          "governance_law",
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-29T11:44:44+00:00",
-        "lead_bn": "সরকার নতুন জাতীয় বেতন স্কেল অনুযায়ী চুক্তিভিত্তিক সরকারি কর্মচারীদের বেতন ও ভাতা নির্ধারণের জন্য আনুষ্ঠানিক নীতিমালা জারি করেছে।",
-        "lead_en": "The government has issued a formal policy to determine the salaries and allowances of contractual government employees under the new national pay scale.",
+        "published_at": "2026-10-30T11:46:18+00:00",
+        "lead_bn": "জাতীয় নাগরিক পার্টির আহ্বায়ক মো. নাহিদ ইসলাম স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগ না করলে আন্দোলন আরও জোরদার করার হুঁশিয়ারি দিয়েছেন।",
+        "lead_en": "National Citizen Party Convener Nahid Islam warned that protests will expand if the home and energy ministers do not resign.",
         "bullets_bn": [
-          "অর্থ মন্ত্রণালয়ের অর্থ বিভাগ চুক্তিভিত্তিক কর্মচারীদের বেতন নির্ধারণের এই নতুন নীতিমালা জারি করে।",
-          "নীতিমালা অনুযায়ী চুক্তিভিত্তিক কর্মচারীদের বেতন পুনর্নির্ধারণ, পেনশন সুবিধা এবং নিয়োগের শর্তাবলি স্পষ্ট করা হয়েছে।",
-          "নতুন এই নীতিমালা নির্ধারিত পূর্বের একটি নির্দিষ্ট তারিখ থেকে কার্যকর হয়েছে বলে গণ্য হবে।"
+          "স্বরাষ্ট্রমন্ত্রী ও জ্বালানিমন্ত্রীর পদত্যাগের দাবিতে কঠোর হুঁশিয়ারি উচ্চারণ করেছে জাতীয় নাগরিক পার্টি।",
+          "দলের আহ্বায়ক মো. নাহিদ ইসলাম পদত্যাগ না করলে আন্দোলন আরও বড় করার ঘোষণা দিয়েছেন।",
+          "সরকার নির্ধারিত মন্ত্রীদের বিষয়ে পদক্ষেপ না নিলে রাজপথে কর্মসূচি আরও কঠোর হবে।"
         ],
         "bullets_en": [
-          "The Finance Division of the Ministry of Finance issued this new policy for determining salaries of contractual employees.",
-          "The policy clarifies salary redetermination, pension benefits, and recruitment conditions for contractual staff.",
-          "The new policy is considered effective retrospectively from a previously specified date."
+          "The National Citizen Party issued a strict warning demanding the resignation of the home and energy ministers.",
+          "Party Convener Nahid Islam announced that protests will escalate if the ministers fail to step down.",
+          "Further street programs will be enforced if the administration fails to address the resignation demands."
         ],
-        "impact_bn": "চুক্তিভিত্তিক সরকারি চাকুরিজীবীদের আর্থিক সুবিধা এবং পেনশন প্রক্রিয়া আরও সুনির্দিষ্ট ও স্বচ্ছ হবে।",
-        "impact_en": "Financial benefits and pension processes for contractual government employees will become more structured and transparent.",
-        "details_bn": "সরকারি চাকরিতে চুক্তিভিত্তিক নিয়োগ পাওয়া কর্মকর্তাদের বেতন-ভাতা ও সুযোগ-সুবিধা নিয়ে দীর্ঘদিন ধরে বিভিন্ন অসঙ্গতি ও জটিলতা ছিল। এর আগে বিভিন্ন অনিয়মিত উপায়ে তাদের বেতন নির্ধারিত হতো। সম্প্রতি অর্থ মন্ত্রণালয়ের প্রবিধি শাখা থেকে জারি করা এই প্রজ্ঞাপনের মাধ্যমে চুক্তিভিত্তিক কর্মচারীদের আর্থিক ব্যবস্থাপনা একটি সুনির্দিষ্ট নিয়মের আওতায় আনা হলো, যা প্রশাসনিক কার্যক্রমে স্বচ্ছতা নিশ্চিত করবে।",
-        "details_en": "Discrepancies and complexities regarding salaries, allowances, and benefits of contractual government employees persisted for a long time. Previously, their compensation was determined through various irregular methods. With this recent gazette notification issued by the Finance Division, the financial management of contractual staff has been brought under a specific set of rules, ensuring transparency in administrative operations."
+        "impact_bn": "রাজনৈতিক অস্থিরতা বাড়লে সাধারণ commuters এবং নিত্যদিনের কার্যক্রমে বিঘ্ন ঘটার শঙ্কা রয়েছে।",
+        "impact_en": "Political instability and street protests may disrupt daily commuting and normal civic activities.",
+        "details_bn": "সাম্প্রতিক রাজনৈতিক পরিস্থিতির প্রেক্ষাপটে আইনশৃঙ্খলা ও জ্বালানি ব্যবস্থাপনার ব্যর্থতার অভিযোগ তুলে বিভিন্ন রাজনৈতিক দল ও সংগঠন সরকারের বিভিন্ন মন্ত্রীর পদত্যাগ দাবি করে আসছে। এরই ধারাবাহিকতায় জাতীয় নাগরিক পার্টি তাদের অবস্থান স্পষ্ট করে কঠোর কর্মসূচির হুঁশিয়ারি দেয়।",
+        "details_en": "Amid ongoing political tensions and criticisms over law enforcement and energy management, various political platforms have demanded ministerial accountability. Continuing this momentum, the National Citizen Party reiterated its firm stance and warned of broader demonstrations if their demands are unaddressed."
       }
     },
     {
-      "story_id": "457f6605-6531-58c0-a8dc-5ccd9c15fdb2",
+      "story_id": "af6a2f59-8d0f-5186-8968-1cf2686e2c70",
       "primary_category": "world_diplomacy",
       "interest_categories": [
         "world_diplomacy",
@@ -181,25 +126,25 @@
         "#Geopolitics",
         "#Diplomacy"
       ],
-      "image_url": "https://media.channelionline.com/2026/10/cristine.jpg?w=1200",
+      "image_url": "https://media.prothomalo.com/prothomalo-bangla%2F2026-10-30%2Fqdxlf5ya%2FAmartya-Sen.jpg?rect=0%2C102%2C790%2C415&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=https%3A%2F%2Fmedia.prothomalo.com%2Fprothomalo-bangla%2F2024-09-22%2F5lwyn5je%2Fdefaultog.jpg&overlay_position=bottom&overlay_width_pct=1",
       "image_caption": null,
-      "published_at": "2026-10-29T11:20:49+00:00",
+      "published_at": "2026-10-30T11:01:13+00:00",
       "is_bcs_pro_selected": false,
       "importance_score": 4.8,
-      "rank_score": 1.2082,
+      "rank_score": 1.1229,
       "sources": [
         {
-          "name": "Channel i",
-          "url": "https://www.channelionline.com/european-central-bank-president-christine-lagarde-announces-resignation/",
-          "title": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের",
-          "snippet": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের"
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/india/gboidcmg96",
+          "title": "যাদবপুর বিশ্ববিদ্যালয়ে হামলার ঘটনায় মর্মাহত অমর্ত্য সেন, সহিংসতার বিরুদ্ধে বললেন",
+          "snippet": "যাদবপুর বিশ্ববিদ্যালয়ে হামলার ঘটনায় মর্মাহত অমর্ত্য সেন, সহিংসতার বিরুদ্ধে বললেন"
         }
       ],
       "daily_buzz": {
-        "title_bn": "পদত্যাগের ঘোষণা ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দের",
-        "title_en": "ECB President Christine Lagarde Announces Resignation",
-        "summary_bn": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দ নির্ধারিত মেয়াদের আগেই আগাম পদত্যাগের ঘোষণা দিয়েছেন।",
-        "summary_en": "European Central Bank President Christine Lagarde has announced her early resignation ahead of schedule.",
+        "title_bn": "যাদবপুরে রাজনৈতিক সহিংসতার তীব্র নিন্দা ও গভীর উদ্বেগ প্রকাশ অমর্ত্য সেনের",
+        "title_en": "Amartya Sen Condemns Political Violence and Campus Infiltration at Jadavpur University",
+        "summary_bn": "নোবেলজয়ী অর্থনীতিবিদ অমর্ত্য সেন যাদবপুর বিশ্ববিদ্যালয়ে রাজনৈতিক সহিংসতা ও ডানপন্থী গোষ্ঠীগুলোর অনুপ্রবেশের ঘটনায় গভীর মর্মাহত প্রকাশ করেছেন।",
+        "summary_en": "Nobel laureate economist Amartya Sen expressed deep shock over political violence and right-wing infiltration at Jadavpur University.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
@@ -207,152 +152,190 @@
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-29T11:20:49+00:00",
-        "lead_bn": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের প্রেসিডেন্ট ক্রিস্টিন লাগার্দ নির্ধারিত মেয়াদের আগেই আগাম পদত্যাগের ঘোষণা দিয়েছেন।",
-        "lead_en": "European Central Bank President Christine Lagarde has announced her early resignation ahead of schedule.",
+        "published_at": "2026-10-30T11:01:13+00:00",
+        "lead_bn": "নোবেলজয়ী অর্থনীতিবিদ অমর্ত্য সেন যাদবপুর বিশ্ববিদ্যালয়ে রাজনৈতিক সহিংসতা ও ডানপন্থী গোষ্ঠীগুলোর অনুপ্রবেশের ঘটনায় গভীর মর্মাহত প্রকাশ করেছেন।",
+        "lead_en": "Nobel laureate economist Amartya Sen expressed deep shock over political violence and right-wing infiltration at Jadavpur University.",
         "bullets_bn": [
-          "নির্ধারিত মেয়াদের আট মাস আগেই ২০২৭ সালের ফেব্রুয়ারিতে পদ ছাড়বেন ক্রিস্টিন লাগার্দ",
-          "ফ্রান্সের আসন্ন প্রেসিডেন্ট নির্বাচনের আগেই নতুন প্রধান নিয়োগের সুযোগ দিতে এই সময় বেছে নেওয়া হয়েছে",
-          "তার স্থলাভিষিক্ত হওয়ার দৌড়ে নেদারল্যান্ডস ও স্পেনের সাবেক কেন্দ্রীয় ব্যাংকপ্রধানদের নাম আলোচনায় রয়েছে"
+          "শিক্ষাঙ্গনে রাজনৈতিক সহিংসতার বিরুদ্ধে শক্তিশালী সুরক্ষাব্যবস্থা গ্রহণের আহ্বান জানিয়েছেন অমর্ত্য সেন।",
+          "যাদবপুর বিশ্ববিদ্যালয়ে ভয়াবহ হামলার ঘটনায় তিনি গভীরভাবে মর্মাহত বলে এক বার্তায় উল্লেখ করেছেন।",
+          "বিশ্ববিদ্যালয়ের ঐতিহ্যবাহী প্রতীক রক্ষা ও ক্যাম্পাসে নিরাপত্তা নিশ্চিতের দাবি জানিয়েছেন শিক্ষার্থীরা।"
         ],
         "bullets_en": [
-          "Christine Lagarde will step down in February 2027, eight months before her term ends.",
-          "The timing allows a new president to be appointed before France's upcoming presidential election.",
-          "Former central bank chiefs from the Netherlands and Spain are currently discussed as potential successors."
+          "Amartya Sen urged for strong protective measures against political violence in educational institutions.",
+          "He stated in a message that he is deeply shocked by the horrific attacks at Jadavpur University.",
+          "Students demanded enhanced security and the protection of university traditions following the clashes."
         ],
-        "impact_bn": "ইউরোপীয় অর্থনীতিতে সুদের হার ও ঋণের খরচ বাড়ায় সাধারণ নাগরিক এবং ব্যবসাপ্রতিষ্ঠানগুলোর ওপর আর্থিক চাপ তৈরি হয়েছে।",
-        "impact_en": "Rising interest rates and borrowing costs across Europe have increased financial pressure on ordinary citizens and businesses.",
-        "details_bn": "ক্রিস্টিন লাগার্দের মেয়াদ ২০২৭ সালের অক্টোবরের শেষ পর্যন্ত থাকার কথা ছিল। তবে কয়েক মাস ধরেই তার আগাম পদত্যাগ নিয়ে জল্পনা চলছিল। এমন এক সময়ে তিনি এই ঘোষণা দিলেন যখন ইউরোপীয় কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণ ও তেলের দাম বৃদ্ধির চাপ সামলাতে সুদের হার বাড়ানোর নীতি অনুসরণ করছে। একই সঙ্গে ফ্রান্সসহ ইউরোপের বিভিন্ন দেশে সরকারি বন্ডের সুদের হার বৃদ্ধি পাওয়ায় ঋণগ্রহীতাদের খরচ বেড়ে গেছে।",
-        "details_en": "Christine Lagarde's term was originally scheduled to end in late October 2027, but rumors of her early departure had persisted for months. She announced her resignation as the European Central Bank struggles with inflation control and rising oil prices by maintaining high interest rates. Meanwhile, rising bond yields across European nations, particularly heavily indebted France, have increased borrowing costs for families and businesses."
+        "impact_bn": "বিশ্ববিদ্যালয় ক্যাম্পাসে শিক্ষার্থীদের নিরাপত্তা এবং রাজনৈতিক সহিংসতা রোধে সচেতনতা বৃদ্ধি পাবে।",
+        "impact_en": "It raises awareness regarding student safety on campuses and the urgent need to curb political violence.",
+        "details_bn": "ভারতের যাদবপুর বিশ্ববিদ্যালয়ে ডানপন্থী গোষ্ঠী এবং বামপন্থী ছাত্র সংগঠনগুলোর মধ্যে সংঘর্ষের প্রেক্ষাপটে অমর্ত্য সেন এই সংহতি বার্তা পাঠান। অতীতে এই বিশ্ববিদ্যালয়ে শিক্ষকতা জীবন শুরু করা সেন ক্যাম্পাসে সাম্প্রদায়িক ও সহিংস কার্যকলাপের নিঃশর্ত নিন্দা জানিয়েছেন। ক্যাম্পাসে বহিরাগতদের অননুমোদিত প্রবেশ ও ভাঙচুরের ঘটনার পর শিক্ষক ও শিক্ষার্থীদের মধ্যে নিরাপত্তা নিয়ে উদ্বেগ তৈরি হয়েছে।",
+        "details_en": "Amartya Sen sent this solidarity message following clashes between right-wing groups and left-wing student organizations at Jadavpur University. Sen, who began his teaching career at the institution, unconditionally condemned communal and violent activities on campus. Security concerns have grown among teachers and students following unauthorized entry of outsiders and subsequent vandalism."
       }
     },
     {
-      "story_id": "4ded2f51-164d-55f5-8584-ca6dce854579",
-      "primary_category": "economy_business",
+      "story_id": "7e54a4c3-a713-5443-b982-6b7f49e25a0d",
+      "primary_category": "society_education",
       "interest_categories": [
-        "economy_business",
-        "governance_law"
+        "society_education"
       ],
-      "region": "international",
+      "region": "national",
       "tags": [
-        "#Inflation",
-        "#InterestRates"
+        "#Bangladesh",
+        "#NationalAffairs"
       ],
-      "image_url": null,
+      "image_url": "https://media.channelionline.com/2026/10/dengu.jpg?w=1200",
       "image_caption": null,
-      "published_at": "2026-10-29T11:11:00+00:00",
+      "published_at": "2026-10-30T12:03:37+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 4.25,
-      "rank_score": 0.9959,
+      "importance_score": 2.4,
+      "rank_score": 0.9639,
       "sources": [
         {
-          "name": "MarketWatch Economy",
-          "url": "https://www.marketwatch.com/story/the-fed-held-off-on-a-rate-hike-todays-gdp-and-inflation-reports-could-make-waiting-harder-693338e6?mod=mw_rss_topstories",
-          "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
-          "snippet": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder."
+          "name": "Channel i",
+          "url": "https://www.channelionline.com/three-deaths-from-dengue/",
+          "title": "২৪ ঘন্টায় ডেঙ্গুতে তিনজনের মৃত্যু, আক্রান্ত ১২৬২",
+          "snippet": "২৪ ঘন্টায় ডেঙ্গুতে তিনজনের মৃত্যু, আক্রান্ত ১২৬২"
         }
       ],
       "daily_buzz": {
-        "title_bn": "মার্কিন জিডিপি ও মূল্যস্ফীতির প্রতিবেদন সুদের হার বৃদ্ধির সিদ্ধান্তকে প্রভাবিত করতে পারে",
-        "title_en": "US GDP and Inflation Reports Could Influence Interest Rate Decisions",
-        "summary_bn": "আসন্ন অর্থনৈতিক প্রবৃদ্ধি এবং মূল্যস্ফীতির ডেটা প্রকাশের ওপর মার্কিন সুদের হার বৃদ্ধির সম্ভাবনা নির্ভর করছে।",
-        "summary_en": "Upcoming economic growth and inflation data releases will determine the likelihood of US interest rate hikes.",
+        "title_bn": "ডেঙ্গুতে আরও তিনজনের মৃত্যু, হাসপাতালে ভর্তি ১২৬২",
+        "title_en": "Three Die From Dengue With 1262 Hospitalized",
+        "summary_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে আরও তিনজন মারা গেছেন এবং একই সময়ে হাসপাতালে ভর্তি হয়েছেন এক হাজার ২৬২ জন রোগী।",
+        "summary_en": "Three people died from dengue and 1,262 new patients were hospitalized across the country over a twenty-four hour period.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "economy_business",
-          "governance_law"
+          "society_education"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-29T11:11:00+00:00",
-        "lead_bn": "আসন্ন অর্থনৈতিক প্রবৃদ্ধি এবং মূল্যস্ফীতির ডেটা প্রকাশের ওপর মার্কিন সুদের হার বৃদ্ধির সম্ভাবনা নির্ভর করছে।",
-        "lead_en": "Upcoming economic growth and inflation data releases will determine the likelihood of US interest rate hikes.",
+        "published_at": "2026-10-30T12:03:37+00:00",
+        "lead_bn": "দেশে ডেঙ্গু আক্রান্ত হয়ে আরও তিনজন মারা গেছেন এবং একই সময়ে হাসপাতালে ভর্তি হয়েছেন এক হাজার ২৬২ জন রোগী।",
+        "lead_en": "Three people died from dengue and 1,262 new patients were hospitalized across the country over a twenty-four hour period.",
         "bullets_bn": [
-          "যুক্তরাষ্ট্রের জিডিপি এবং মূল্যস্ফীতির নতুন পরিসংখ্যান একই সময়ে প্রকাশিত হচ্ছে।",
-          "শক্তিশালী অর্থনৈতিক প্রবৃদ্ধি এবং দীর্ঘস্থায়ী মূল্যস্ফীতির চাপ ডিসেম্বরে সুদের হার বাড়ানোর পক্ষে জোরালো ভূমিকা রাখতে পারে।",
-          "কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে রাখতে পরবর্তী নীতি নির্ধারণী বৈঠকে কঠোর পদক্ষেপ বিবেচনা করছে।"
+          "মারা যাওয়া তিনজন রোগীই ঢাকা বিভাগের বিভিন্ন হাসপাতালে চিকিৎসাধীন অবস্থায় মারা গেছেন।",
+          "চলতি বছরে ডেঙ্গুতে মোট ৪১৮ জনের প্রাণ গেছে এবং হাসপাতালে ভর্তি রোগীর সংখ্যা ১ লাখ ৩৩ হাজার ছাড়িয়েছে।",
+          "স্বাস্থ্য অধিদপ্তর পরিস্থিতি নিয়ন্ত্রণে মশা নিধন ও চিকিৎসাসেবা জোরদার করার ওপর গুরুত্ব দিয়েছে।"
         ],
         "bullets_en": [
-          "US GDP and inflation figures are released simultaneously at 8:30 a.m. Eastern time.",
-          "Strong economic growth and persistent price pressures strengthen the case for a December interest rate increase.",
-          "The central bank continues to monitor key indicators before finalizing upcoming monetary policy adjustments."
+          "All three deceased patients were undergoing treatment at hospitals within the Dhaka division.",
+          "The death toll from dengue reached 418 this year with total hospitalizations exceeding 133,000.",
+          "Health authorities are emphasizing intensified mosquito control and patient care management."
         ],
-        "impact_bn": "মার্কিন সুদের হার পরিবর্তন পেলে বিশ্ববাজারের মুদ্রা বিনিময় হার এবং বৈশ্বিক পণ্যের দামে তার প্রভাব পড়বে।",
-        "impact_en": "Changes in US interest rates can influence global currency exchange rates and international commodity prices.",
-        "details_bn": "মার্কিন কেন্দ্রীয় ব্যাংক মূল্যস্ফীতি নিয়ন্ত্রণে এর আগে সুদের হার অপরিবর্তিত রেখেছিল। তবে অর্থনীতিতে যদি অতিরিক্ত চাহিদার কারণে মূল্যস্ফীতির চাপ বজায় থাকে এবং জিডিপি প্রবৃদ্ধি শক্তিশালী থাকে, তবে নীতিনির্ধারকরা সুদের হার বাড়াতে বাধ্য হতে পারেন। এই অর্থনৈতিক সূচকগুলো বৈশ্বিক আর্থিক বাজারের গতিপথ নির্ধারণে অত্যন্ত গুরুত্বপূর্ণ ভূমিকা পালন করে।",
-        "details_en": "The US Federal Reserve previously held off on a rate hike to assess economic conditions. If persistent price pressures and strong growth continue to challenge the central bank's inflation targets, policymakers may face mounting pressure to implement a rate increase during their upcoming December meeting. These macroeconomic indicators heavily influence global financial markets and borrowing costs."
+        "impact_bn": "ডেঙ্গু সংক্রমণ বৃদ্ধির ফলে সাধারণ মানুষ ও শিশুদের স্বাস্থ্যঝুঁকি বেড়ে গেছে এবং হাসপাতালে ভিড় বাড়ছে।",
+        "impact_en": "Rising dengue infections increase health risks for ordinary citizens and children while adding pressure on hospitals.",
+        "details_bn": "স্বাস্থ্য অধিদপ্তরের তথ্য অনুযায়ী, চলতি বছরে ডেঙ্গুর প্রকোপ মারাত্মক আকার ধারণ করেছে। এর আগে ২০২৩ সালে ডেঙ্গুতে সর্বোচ্চ ১ হাজার ৭০৫ জনের মৃত্যু এবং ৩ লাখ ২১ হাজার ১৭৯ জন হাসপাতালে ভর্তি হয়েছিল। স্বাস্থ্য বিভাগ ২০০০ সাল থেকে ডেঙ্গুর হিসাব রাখছে এবং এবারও অক্টোবর মাসে সর্বোচ্চ সংখ্যক মৃত্যুর রেকর্ড হয়েছে।",
+        "details_en": "According to the Directorate General of Health Services, dengue has taken a severe turn this year. Previously, 2023 saw a record 1,705 deaths and 321,179 hospitalizations. Health authorities have tracked dengue data since 2000, noting that October recorded the highest casualties this season."
       }
     },
     {
-      "story_id": "1f7ee124-61a4-5feb-8826-b6814760eadd",
-      "primary_category": "society_education",
+      "story_id": "e447344b-f527-5785-a1a2-66ca2b8f0de6",
+      "primary_category": "world_diplomacy",
       "interest_categories": [
-        "society_education",
         "world_diplomacy",
         "governance_law"
       ],
       "region": "international",
       "tags": [
-        "#JamiaMillia",
-        "#StudentProtest",
-        "#India"
+        "#IsraelElection",
+        "#MiddleEast"
       ],
-      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/IMG_0252.JPG-1793261389.jpeg?resize=1920%2C1440",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae46ad8197c-1793354456.jpg?resize=1920%2C1440",
       "image_caption": null,
-      "published_at": "2026-10-29T11:05:18+00:00",
+      "published_at": "2026-10-30T10:50:21+00:00",
       "is_bcs_pro_selected": false,
-      "importance_score": 2.55,
-      "rank_score": 0.5742,
+      "importance_score": 1.7,
+      "rank_score": 0.369,
       "sources": [
         {
           "name": "Al Jazeera English",
-          "url": "https://www.aljazeera.com/news/2026/10/29/unrest-at-india-university-where-no-students-union-polls-held-for-20-years?traffic_source=rss",
-          "title": "Protest at India university where no students’ union vote held for 20 years",
-          "snippet": "Protest at India university where no students’ union vote held for 20 years"
-        },
-        {
-          "name": "The Hindu International",
-          "url": "https://www.thehindu.com/news/national/uk-pm-andy-burnham-trip-to-india-could-take-place-soon-british-envoy/article71640057.ece",
-          "title": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy",
-          "snippet": "U.K. PM Andy Burnham’s trip to India could take place soon: British Envoy"
-        },
-        {
-          "name": "Deutsche Welle World",
-          "url": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
-          "title": "India news: 'Cockroaches' back Gandhi's rally against election chief",
-          "snippet": "India news: 'Cockroaches' back Gandhi's rally against election chief"
+          "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+          "title": "How can Israel break its election deadlock?",
+          "snippet": "How can Israel break its election deadlock?"
         }
       ],
       "daily_buzz": {
-        "title_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে ছাত্রসংসদ নির্বাচনের দাবিতে অনশন",
-        "title_en": "Students Protest at Jamia Millia Islamia University Demanding Student Union Elections",
-        "summary_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে স্থগিত থাকা ছাত্রসংসদ নির্বাচনের দাবিতে আমরণ অনশন করছেন শিক্ষার্থীরা।",
-        "summary_en": "Students at Jamia Millia Islamia University in India are staging an indefinite hunger strike demanding student union elections.",
+        "title_bn": "ইসরায়েলের সংসদ নির্বাচনে কোনো দল বা জোটের সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থতা",
+        "title_en": "Israel Election Ends Without Clear Majority for Any Bloc",
+        "summary_bn": "ইসরায়েলের সাধারণ নির্বাচনে কোনো পক্ষই এককভাবে সরকার গঠনের প্রয়োজনীয় সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
+        "summary_en": "Israel faces a political deadlock after neither major political bloc secured the required parliamentary majority to form a government.",
         "why_it_matters_bn": null,
         "why_it_matters_en": null,
         "interest_categories": [
-          "society_education",
           "world_diplomacy",
           "governance_law"
         ],
         "read_time_seconds": 60,
-        "published_at": "2026-10-29T11:05:18+00:00",
-        "lead_bn": "ভারতের জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে স্থগিত থাকা ছাত্রসংসদ নির্বাচনের দাবিতে আমরণ অনশন করছেন শিক্ষার্থীরা।",
-        "lead_en": "Students at Jamia Millia Islamia University in India are staging an indefinite hunger strike demanding student union elections.",
+        "published_at": "2026-10-30T10:50:21+00:00",
+        "lead_bn": "ইসরায়েলের সাধারণ নির্বাচনে কোনো পক্ষই এককভাবে সরকার গঠনের প্রয়োজনীয় সংখ্যাগরিষ্ঠতা অর্জন করতে পারেনি।",
+        "lead_en": "Israel faces a political deadlock after neither major political bloc secured the required parliamentary majority to form a government.",
         "bullets_bn": [
-          "জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে দুই দশক ধরে বন্ধ থাকা ছাত্রসংসদ নির্বাচনের দাবিতে শিক্ষার্থীরা আমরণ অনশন শুরু করেন।",
-          "আইনের ছাত্র এবিন বাসিলসহ পাঁচজন শিক্ষার্থী স্বাস্থ্যঝুঁকি সত্ত্বেও অনশন চালিয়ে যাচ্ছেন এবং বিশ্ববিদ্যালয় প্রশাসন তিন ছাত্রকে শাস্তি দিয়েছে।",
-          "বিশ্ববিদ্যালয় কর্তৃপক্ষ আগামী ডিসেম্বর মাসের মধ্যে খসড়া সংবিধান প্রণয়নের একটি কমিটি গঠন করার ঘোষণা দিয়েছে।"
+          "বেনিয়ামিন নেতানিয়াহুর ব্লকের ৫৩টি আসন এবং বিরোধী জোটের ৪৮টি আসন নিশ্চিত হয়েছে।",
+          "সরকার গঠনের জন্য ১২০ সদস্যবিশিষ্ট নেসেটে অন্তত ৬১টি আসনের সংখ্যাগরিষ্ঠতা প্রয়োজন।",
+          "দুই প্রধান রাজনৈতিক পক্ষই ফিলিস্তিনি নাগরিকদের প্রতিনিধিত্বকারী দলগুলোর সাথে কাজ করতে অস্বীকৃতি জানিয়েছে।"
         ],
         "bullets_en": [
-          "Students launched an indefinite hunger strike demanding the restoration of the student union at Jamia Millia Islamia University after a two-decade suspension.",
-          "Law student Ebin Basil and four others continued the fast despite health concerns, while the university suspended three protesting students.",
-          "The university announced a December deadline for a committee to draft a new union constitution before scheduling polls."
+          "Netanyahu’s bloc secured 53 seats while the opposition coalition won 48 seats in the election.",
+          "Forming a government in the 120-member Knesset requires holding at least 61 seats.",
+          "Both major political factions have ruled out forming a coalition with parties representing Palestinian citizens."
         ],
-        "impact_bn": "বিশ্ববিদ্যালয় ক্যাম্পাসে ছাত্র অধিকার ও গণতান্ত্রিক অংশগ্রহণের অধিকার আদায়ে শিক্ষার্থীদের এই আন্দোলন বৃহত্তর পরিসরে শিক্ষাঙ্গনের স্বাধীনতা নিয়ে সচেতনতা তৈরি করছে।",
-        "impact_en": "The student-led protest highlights the broader struggle for democratic representation and student rights within higher education institutions.",
-        "details_bn": "ভারতের নয়াদিল্লির জামিয়া মিল্লিয়া ইসলামিয়া বিশ্ববিদ্যালয়ে গত ২০ বছর ধরে ছাত্রসংসদ নির্বাচন বন্ধ রয়েছে। অনশনরত শিক্ষার্থীরা বিশ্ববিদ্যালয় প্রাঙ্গণে আন্দোলন চালিয়ে যাওয়ার পাশাপাশি খসড়া সংবিধান তৈরির দাবি জানাচ্ছেন। প্রশাসন অনলাইন ক্লাস চালু করা এবং পুলিশ মোতায়েন করার পরেও শিক্ষার্থীরা তাদের অবস্থানে অনড় রয়েছেন এবং নির্বাচনের সুনির্দিষ্ট দিন ঘোষণা না করা পর্যন্ত আন্দোলন চালিয়ে যাওয়ার ঘোষণা দিয়েছেন।",
-        "details_en": "Student union elections have been suspended for two decades at Jamia Millia Islamia University in New Delhi. The ongoing protests and hunger strikes escalated after the university suspended participating students and moved classes online. Although administration officials announced a tentative committee to draft a constitution by December, protesters rejected the timeline as inadequate and demanded immediate elections."
+        "impact_bn": "ইসরায়েলের এই দীর্ঘমেয়াদী রাজনৈতিক অস্থিরতা মধ্যপ্রাচ্যের আঞ্চলিক ভূরাজনীতি এবং বৈদেশিক কূটনীতিতে অনিশ্চয়তা তৈরি করতে পারে।",
+        "impact_en": "The ongoing political instability and coalition struggles in Israel could significantly influence broader Middle Eastern diplomatic relations.",
+        "details_bn": "ইসরায়েলে দীর্ঘ দিন ধরে রাজনৈতিক অস্থিতিশীলতা চলছে এবং কোনো দল এককভাবে সংখ্যাগরিষ্ঠতা অর্জনে ব্যর্থ হওয়ায় বারবার জোট সরকার গঠন করতে হয়েছে। এবারের নির্বাচনেও কোনো পক্ষ একক সংখ্যাগরিষ্ঠতা না পাওয়ায় নতুন সরকার গঠন নিয়ে জটিলতা তৈরি হয়েছে।",
+        "details_en": "Israel has experienced recurrent political deadlocks requiring coalition governments due to fragmented parliamentary election outcomes. The latest election results further deepen the legislative crisis as neither the incumbent prime minister nor the opposition secured enough seats to govern independently."
+      }
+    },
+    {
+      "story_id": "6341c2e7-51fb-536a-851d-22b089113531",
+      "primary_category": "economy_business",
+      "interest_categories": [
+        "economy_business"
+      ],
+      "region": "international",
+      "tags": [
+        "#Amazon",
+        "#BusinessGrowth"
+      ],
+      "image_url": null,
+      "image_caption": null,
+      "published_at": "2026-10-30T10:34:00+00:00",
+      "is_bcs_pro_selected": false,
+      "importance_score": 1.7,
+      "rank_score": 0.3322,
+      "sources": [
+        {
+          "name": "MarketWatch Economy",
+          "url": "https://www.marketwatch.com/story/heres-the-math-on-amazon-ceos-claim-to-be-on-path-to-two-trillion-dollar-revenue-businesses-34d648e8?mod=mw_rss_topstories",
+          "title": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses",
+          "snippet": "Here’s the math on Amazon CEO’s claim to be on path to two trillion-dollar revenue businesses"
+        }
+      ],
+      "daily_buzz": {
+        "title_bn": "অ্যামাজন প্রধান দুই ট্রিলিয়ন ডলারের ব্যবসায়িক লক্ষ্য ঘোষণা করেছেন",
+        "title_en": "Amazon CEO Sets Target for Two Trillion Dollar Businesses",
+        "summary_bn": "অ্যামাজনের প্রধান নির্বাহী অ্যান্ডি জ্যাসি তৃতীয় প্রান্তিকের আয়ের প্রতিবেদনে কোম্পানিটিকে দুটি ট্রিলিয়ন ডলারের ব্যবসায় রূপান্তরের লক্ষ্য ঘোষণা করেছেন।",
+        "summary_en": "Amazon Chief Executive Andy Jassy announced a bold target to build two trillion-dollar revenue businesses during the third-quarter earnings call.",
+        "why_it_matters_bn": null,
+        "why_it_matters_en": null,
+        "interest_categories": [
+          "economy_business"
+        ],
+        "read_time_seconds": 60,
+        "published_at": "2026-10-30T10:34:00+00:00",
+        "lead_bn": "অ্যামাজনের প্রধান নির্বাহী অ্যান্ডি জ্যাসি তৃতীয় প্রান্তিকের আয়ের প্রতিবেদনে কোম্পানিটিকে দুটি ট্রিলিয়ন ডলারের ব্যবসায় রূপান্তরের লক্ষ্য ঘোষণা করেছেন।",
+        "lead_en": "Amazon Chief Executive Andy Jassy announced a bold target to build two trillion-dollar revenue businesses during the third-quarter earnings call.",
+        "bullets_bn": [
+          "অ্যামাজন প্রধান নির্বাহী তৃতীয় প্রান্তিকের আয়ের ঘোষণায় নতুন ব্যবসায়িক প্রবৃদ্ধির লক্ষ্য নির্ধারণ করেছেন",
+          "অ্যান্ডি জ্যাসি কোম্পানির সম্প্রসারণ পরিকল্পনা হিসেবে দুটি পৃথক ট্রিলিয়ন ডলারের ব্যবসার কথা উল্লেখ করেছেন",
+          "এই উচ্চাভিলাষী লক্ষ্য অর্জনে ক্লাউড কম্পিউটিং এবং বিজ্ঞাপন খাত প্রধান চালিকাশক্তি হিসেবে কাজ করবে"
+        ],
+        "bullets_en": [
+          "Amazon CEO outlined ambitious growth targets during the third-quarter earnings conference call",
+          "Andy Jassy highlighted plans to scale operations toward two distinct trillion-dollar revenue businesses",
+          "Cloud computing and digital advertising sectors are expected to drive this long-term corporate expansion"
+        ],
+        "impact_bn": null,
+        "impact_en": null,
+        "details_bn": "অ্যামাজন বর্তমানে বিশ্বের অন্যতম বৃহৎ প্রযুক্তি ও ই-কমার্স প্রতিষ্ঠান হিসেবে কার্যক্রম পরিচালনা করছে। ক্লাউড কম্পিউটিং শাখা এডব্লিউএস এবং অনলাইন বিজ্ঞাপন খাত কোম্পানির আয়ের অন্যতম প্রধান উৎস। সাম্প্রতিক বছরগুলোতে বৈশ্বিক অর্থনৈতিক চ্যালেঞ্জের মধ্যেও প্রতিষ্ঠানটি নিজেদের ব্যবসায়িক পরিধি অব্যাহতভাবে বিস্তৃত করেছে এবং বিনিয়োগকারীদের আস্থার ওপর ভিত্তি করে নতুন প্রবৃদ্ধির ক্ষেত্র তৈরি করছে।",
+        "details_en": "Amazon operates as one of the world's largest technology and e-commerce conglomerates. Amazon Web Services and digital advertising remain primary revenue drivers. Despite recent global economic headwinds, the company continues to expand its enterprise footprint and scale infrastructure to support long-term revenue growth and maintain investor confidence."
       }
     }
   ]
